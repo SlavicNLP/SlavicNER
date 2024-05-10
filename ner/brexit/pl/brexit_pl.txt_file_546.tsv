@@ -1,0 +1,16 @@
+0	8	Tyrowicz	Tyrowicz	PER	PER-Joanna-Tyrowicz
+176	194	Oscarowi Wilde’owi	Oscar Wilde	PER	PER-Oscar-Wilde
+546	563	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+587	593	brexit	Brexit	EVT	EVT-Brexit
+799	806	brexitu	Brexit	EVT	EVT-Brexit
+1105	1108	USA	USA	LOC	GPE-USA
+1110	1116	Polsce	Polska	LOC	GPE-Poland
+1121	1128	Francji	Francja	LOC	GPE-France
+1141	1144	AfD	AfD	ORG	ORG-AfG-Alternative-for-Germany
+1147	1156	Niemczech	Niemcy	LOC	GPE-Germany
+1222	1225	SPD	SPD	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+1261	1267	Trumpa	Trump	PER	PER-Donald-Trump
+1337	1344	Clinton	Clinton	PER	PER-Hillary-Clinton
+1523	1540	Kościół katolicki	Kościół katolicki	ORG	ORG-Catholic-Church
+1776	1785	Niemczech	Niemcy	LOC	GPE-Germany
+1917	1924	Rzymowi	Rzym	LOC	GPE-Rome

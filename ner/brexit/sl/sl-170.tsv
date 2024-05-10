@@ -1,0 +1,115 @@
+5	11	brexit	brexit	EVT	EVT-Brexit
+84	97	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+107	113	Škotom	Škoti	PER	GPE-Scotland
+122	131	Edinburgu	Edinburg	LOC	GPE-Edinburgh
+175	177	EU	EU	ORG	ORG-European-Union
+197	212	Nicolo Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+351	358	brexita	brexit	EVT	EVT-Brexit
+372	385	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+433	440	Božička	Božiček	PER	PER-Santa-Claus
+481	491	Manchestru	Manchester	LOC	GPE-Manchester
+495	501	Leedsu	Leeds	LOC	GPE-Leeds
+644	652	Škotskem	Škotska	LOC	GPE-Scotland
+749	756	Škotsko	Škotska	LOC	GPE-Scotland
+758	763	Wales	Wales	LOC	GPE-Wales
+767	780	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+830	851	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+962	975	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+984	991	Johnson	Johnson	PER	PER-Boris-Johnson
+1032	1041	Britaniji	Britanija	LOC	GPE-Great-Britain
+1116	1125	Britanije	Britanija	LOC	GPE-Great-Britain
+1165	1172	brexitu	brexit	EVT	EVT-Brexit
+1215	1220	Škoti	Škoti	PER	GPE-Scotland
+1221	1229	Johnsona	Johnson	PER	PER-Boris-Johnson
+1244	1251	Johnson	Johnson	PER	PER-Boris-Johnson
+1255	1260	Škote	Škoti	PER	GPE-Scotland
+1304	1311	brexitu	brexit	EVT	EVT-Brexit
+1427	1436	Spectator	Spectator	PRO	PRO-The-Spectator
+1549	1558	Britanijo	Britanija	LOC	GPE-Great-Britain
+1579	1581	EU	EU	ORG	ORG-European-Union
+1618	1626	brexitom	brexit	EVT	EVT-Brexit
+1684	1690	Škotov	Škoti	PER	GPE-Scotland
+1709	1718	Johnsonov	Johnson	PER	PER-Boris-Johnson
+1757	1769	Michael Gove	Michael Gove	PER	PER-Michael-Gove
+1780	1787	Johnson	Johnson	PER	PER-Boris-Johnson
+1840	1846	brexit	brexit	EVT	EVT-Brexit
+1868	1874	brexit	brexit	EVT	EVT-Brexit
+1964	1975	Johnsonovim	Johnson	PER	PER-Boris-Johnson
+1987	1995	Škotskem	Škotska	LOC	GPE-Scotland
+2024	2045	konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+2049	2057	Škotskem	Škotska	LOC	GPE-Scotland
+2058	2071	Ruth Davidson	Ruth Davidson	PER	PER-Ruth-Davidson
+2126	2132	brexit	brexit	EVT	EVT-Brexit
+2154	2165	Davidsonovo	Davidson	PER	PER-Ruth-Davidson
+2250	2276	Škotske nacionalne stranke	Škotska nacionalna stranka	ORG	ORG-Scottish-National-Party
+2278	2281	SNP	SNP	ORG	ORG-Scottish-National-Party
+2283	2298	Nicolo Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+2425	2446	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+2449	2458	Johnsonov	Johnson	PER	PER-Boris-Johnson
+2516	2523	brexitu	brexit	EVT	EVT-Brexit
+2665	2672	Johnson	Johnson	PER	PER-Boris-Johnson
+2676	2682	Škotom	Škoti	PER	GPE-Scotland
+2921	2928	brexitu	brexit	EVT	EVT-Brexit
+2981	3002	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+3014	3021	Johnson	Johnson	PER	PER-Boris-Johnson
+3122	3143	konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+3155	3161	brexit	brexit	EVT	EVT-Brexit
+3193	3200	Škotsko	Škotska	LOC	GPE-Scotland
+3209	3222	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+3256	3266	Johnsonovo	Johnson	PER	PER-Boris-Johnson
+3316	3322	brexit	brexit	EVT	EVT-Brexit
+3346	3353	Škotsko	Škotska	LOC	GPE-Scotland
+3376	3389	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+3400	3405	Otoku	otok	LOC	GPE-Great-Britain
+3427	3434	Johnson	Johnson	PER	PER-Boris-Johnson
+3450	3466	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+3508	3523	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+3542	3548	brexit	brexit	EVT	EVT-Brexit
+3605	3610	Škoti	Škoti	PER	GPE-Scotland
+3642	3649	brexitu	brexit	EVT	EVT-Brexit
+3664	3671	Johnson	Johnson	PER	PER-Boris-Johnson
+3810	3816	brexit	brexit	EVT	EVT-Brexit
+3824	3832	Škotskem	Škotska	LOC	GPE-Scotland
+3905	3914	Britanijo	Britanija	LOC	GPE-Great-Britain
+3958	3960	EU	EU	ORG	ORG-European-Union
+3970	3981	Theresa May	Theresa May	PER	PER-Theresa-May
+4023	4025	EU	EU	ORG	ORG-European-Union
+4114	4117	CBI	CBI	ORG	ORG-CBI-Confederation-of-British-Industry
+4134	4143	Britanija	Britanija	LOC	GPE-Great-Britain
+4147	4149	EU	EU	ORG	ORG-European-Union
+4192	4198	brexit	brexit	EVT	EVT-Brexit
+4234	4242	Johnsona	Johnson	PER	PER-Boris-Johnson
+4264	4271	brexitu	brexit	EVT	EVT-Brexit
+4291	4297	brexit	brexit	EVT	EVT-Brexit
+4361	4367	Škotov	Škoti	PER	GPE-Scotland
+4402	4408	brexit	brexit	EVT	EVT-Brexit
+4441	4451	Johnsonove	Johnson	PER	PER-Boris-Johnson
+4482	4489	brexita	brexit	EVT	EVT-Brexit
+4537	4544	Johnson	Johnson	PER	PER-Boris-Johnson
+4556	4570	Downing Street	Downing Street	LOC	LOC-Downing-Street
+4624	4637	Philip Hamond	Philip Hamond	PER	PER-Philip-Hammond
+4663	4670	brexita	brexit	EVT	EVT-Brexit
+4679	4690	Therese May	Theresa May	PER	PER-Theresa-May
+4724	4732	Johnsonu	Johnson	PER	PER-Boris-Johnson
+4825	4837	Keir Starmer	Keir Starmer	PER	PER-Keir-Starmer
+4874	4890	Jeremyja Corbyna	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+5002	5008	brexit	brexit	EVT	EVT-Brexit
+5023	5029	brexit	brexit	EVT	EVT-Brexit
+5081	5088	brexitu	brexit	EVT	EVT-Brexit
+5111	5118	brexitu	brexit	EVT	EVT-Brexit
+5130	5137	Johnson	Johnson	PER	PER-Boris-Johnson
+5239	5245	brexit	brexit	EVT	EVT-Brexit
+5296	5303	Johnson	Johnson	PER	PER-Boris-Johnson
+5481	5488	brexita	brexit	EVT	EVT-Brexit
+5501	5511	Johnsonovo	Johnson	PER	PER-Boris-Johnson
+5558	5565	brexita	brexit	EVT	EVT-Brexit
+5575	5582	Hammond	Hammond	PER	PER-Philip-Hammond
+5618	5625	brexita	brexit	EVT	EVT-Brexit
+5699	5709	Johnsonovi	Johnson	PER	PER-Boris-Johnson
+5736	5745	Britaniji	Britanija	LOC	GPE-Great-Britain
+5844	5852	Johnsona	Johnson	PER	PER-Boris-Johnson
+5856	5863	Corbyna	Corbyn	PER	PER-Jeremy-Corbyn
+5878	5892	Nigela Faragea	Nigel Farage	PER	PER-Nigel-Farage
+5904	5921	Brexitske stranke	Brexitska stranka	ORG	ORG-Brexit-Party
+5923	5929	Brexit	Brexit	EVT	EVT-Brexit
+5944	5953	Britaniji	Britanija	LOC	GPE-Great-Britain

@@ -1,0 +1,13 @@
+12	17	Lordi	Lordi	PER	ORG-House-of-Lords
+28	42	Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+76	82	brexit	brexit	EVT	EVT-Brexit
+108	122	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+158	165	brexitu	brexit	EVT	EVT-Brexit
+179	193	Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+329	346	brexitovou dohodu	brexitová dohoda	PRO	PRO-Brexit-withdrawal-agreement
+366	373	Londýnu	Londýn	LOC	GPE-London
+376	383	Bruselu	Brusel	LOC	GPE-Brussles
+430	436	Mayové	Mayová	PER	PER-Theresa-May
+655	669	Sněmovně lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+735	742	brexitu	brexit	EVT	EVT-Brexit
+805	807	EU	EU	ORG	ORG-European-Union

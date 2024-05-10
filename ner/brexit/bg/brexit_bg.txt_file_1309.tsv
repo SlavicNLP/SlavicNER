@@ -1,0 +1,25 @@
+0	12	Джордж Сорос	Джордж Сорос	PER	PER-George-Soros
+64	71	Брекзит	Брекзит	EVT	EVT-Brexit
+85	97	Джордж Сорос	Джордж Сорос	PER	PER-George-Soros
+189	203	Великобритания	Великобритания	LOC	GPE-Great-Britain
+207	223	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+234	245	Индипендънт	Индипендънт	PRO	PRO-The-Independent
+255	260	Сорос	Сорос	PER	PER-George-Soros
+299	313	Великобритания	Великобритания	LOC	GPE-Great-Britain
+316	318	ЕС	ЕС	ORG	ORG-European-Union
+357	367	британците	британци	PER	GPE-Great-Britain
+422	425	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+601	606	Париж	Париж	LOC	GPE-Paris
+693	722	Най доброто за Великобритания	Най-доброто за Великобритания	ORG	ORG-Best-for-Britain
+726	742	Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+792	799	Брекзит	Брекзит	EVT	EVT-Brexit
+800	811	Джина Милър	Джина Милър	PER	PER-Gina-Miller
+964	974	британците	британци	PER	GPE-Great-Britain
+1147	1176	Най-доброто за Великобритания	Най-доброто за Великобритания	ORG	ORG-Best-for-Britain
+1206	1211	Сорос	Сорос	PER	PER-George-Soros
+1214	1243	Най-доброто за Великобритания	Най-доброто за Великобритания	ORG	ORG-Best-for-Britain
+1395	1409	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1454	1460	Европа	Европа	LOC	LOC-Europe
+1474	1481	Брекзит	Брекзит	EVT	EVT-Brexit
+1671	1677	Европа	Европа	LOC	LOC-Europe
+1706	1735	Най-доброто за Великобритания	Най-доброто за Великобритания	ORG	ORG-Best-for-Britain

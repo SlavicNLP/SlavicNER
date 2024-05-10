@@ -1,0 +1,43 @@
+0	10	W.Brytania	W.Brytania	LOC	GPE-Great-Britain
+23	30	Brexitu	Brexit	EVT	EVT-Brexit
+101	146	Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+147	159	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+197	205	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+223	234	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+237	239	UE	UE	ORG	ORG-European-Union
+240	251	Arron Banks	Arron Banks	PER	PER-Arron-Banks
+316	323	Brexitu	Brexit	EVT	EVT-Brexit
+326	332	Farage	Farage	PER	PER-Nigel-Farage
+375	384	Channel 5	Channel 5	PRO	PRO-Channel-5
+486	495	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+523	525	UE	UE	ORG	ORG-European-Union
+552	564	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+798	804	Farage	Farage	PER	PER-Nigel-Farage
+885	894	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+895	906	Aaron Banks	Aaron Banks	PER	PER-Arron-Banks
+996	1003	Brexitu	Brexit	EVT	EVT-Brexit
+1062	1069	Brexitu	Brexit	EVT	EVT-Brexit
+1224	1231	Brexitu	Brexit	EVT	EVT-Brexit
+1338	1349	Theresy May	Theresa May	PER	PER-Theresa-May
+1504	1512	Farage'a	Farage	PER	PER-Nigel-Farage
+1515	1521	Banksa	Banks	PER	PER-Arron-Banks
+1641	1658	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1738	1750	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1751	1761	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+1786	1797	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1863	1875	Izbie Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+1876	1889	Andrew Adonis	Andrew Adonis	PER	PER-Andrew-Adonis
+1985	1997	Chuka Umunna	Chuka Umunna	PER	PER-Chuka-Umunna
+2046	2052	Farage	Farage	PER	PER-Nigel-Farage
+2147	2166	Liberalni Demokraci	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+2259	2268	Tom Brake	Tom Brake	PER	PER-Tom-Brake
+2282	2292	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+2295	2307	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+2450	2461	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+2519	2536	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2697	2712	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2741	2758	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2795	2804	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+2827	2834	Londynu	Londyn	LOC	GPE-London
+2835	2846	Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa
+2848	2851	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

@@ -1,0 +1,49 @@
+0	8	Merklova	Merkel	PER	PER-Angela-Merkel
+12	17	Putin	Putin	PER	PER-Vladimir-Putin
+46	52	Siriji	Sirija	LOC	GPE-Syria
+56	64	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+92	100	Merklova	Merkel	PER	PER-Angela-Merkel
+125	132	Nemčije	Nemčija	LOC	GPE-Germany
+136	142	Rusije	Rusija	LOC	GPE-Russia
+161	169	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+173	179	Siriji	Sirija	LOC	GPE-Syria
+218	225	Putinom	Putin	PER	PER-Vladimir-Putin
+312	318	Siriji	Sirija	LOC	GPE-Syria
+384	389	Putin	Putin	PER	PER-Vladimir-Putin
+396	402	Evropo	Evropa	LOC	LOC-Europe
+430	436	Sirije	Sirija	LOC	GPE-Syria
+596	602	Evropo	Evropa	LOC	LOC-Europe
+649	658	Jordaniji	Jordanija	LOC	GPE-Jordan
+660	668	Libanonu	Libanon	LOC	GPE-Lebanon
+672	679	Turčiji	Turčija	LOC	GPE-Turkey
+721	727	Evrope	Evropa	LOC	LOC-Europe
+814	820	Rusije	Rusija	LOC	GPE-Russia
+844	857	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+894	899	Putin	Putin	PER	PER-Vladimir-Putin
+953	961	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1055	1063	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1121	1129	Merklova	Merkel	PER	PER-Angela-Merkel
+1132	1143	Azerbajdžan	Azerbajdžan	LOC	GPE-Azerbaijan
+1194	1202	Merklova	Merkel	PER	PER-Angela-Merkel
+1260	1267	Gruzijo	Gruzija	LOC	GPE-Georgia
+1269	1277	Armenijo	Armenija	LOC	GPE-Armenia
+1281	1292	Azerbajdžan	Azerbajdžan	LOC	GPE-Azerbaijan
+1307	1319	Azerbajdžanu	Azerbajdžan	LOC	GPE-Azerbaijan
+1376	1382	Evrope	Evropa	LOC	LOC-Europe
+1461	1467	Rusiji	Rusija	LOC	GPE-Russia
+1479	1493	Evropska unija	Evropska unija	ORG	ORG-European-Union
+1526	1530	Krim	Krim	LOC	GPE-Crimea
+1531	1537	Rusiji	Rusija	LOC	GPE-Russia
+1542	1547	Putin	Putin	PER	PER-Vladimir-Putin
+1562	1569	Nemčija	Nemčija	LOC	GPE-Germany
+1612	1618	Rusije	Rusija	LOC	GPE-Russia
+1742	1756	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1800	1806	Rusiji	Rusija	LOC	GPE-Russia
+1873	1878	Trump	Trump	PER	PER-Donald-Trump
+1897	1904	Nemčiji	Nemčija	LOC	GPE-Germany
+1919	1925	Rusija	Rusija	LOC	GPE-Russia
+1992	1997	Putin	Putin	PER	PER-Vladimir-Putin
+2015	2023	Merklovi	Merkel	PER	PER-Angela-Merkel
+2035	2043	Avstrije	Avstrija	LOC	GPE-Austria
+2056	2078	avstrijskem Štajerskem	avstrijska Štajerska	LOC	LOC-Styria
+2125	2138	Karin Kneissl	Karin Kneissl	PER	PER-Karin-Kneissl

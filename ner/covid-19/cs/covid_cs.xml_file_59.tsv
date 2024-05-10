@@ -1,0 +1,21 @@
+48	52	Kuba	Kuba	PER	PER-Martin-Kuba
+111	119	covid-19	covid-19	EVT	EVT-Covid-19
+187	197	Libereckém	Liberecký	LOC	GPE-Liberec-region
+199	211	Karlovarském	Karlovarský	LOC	GPE-Karlovy-Vary-region
+214	222	Zlínském	Zlínský	LOC	GPE-Zlin-region
+369	380	Martin Kuba	Martin Kuba	PER	PER-Martin-Kuba
+382	385	ODS	ODS	ORG	ORG-ODS-czech-political-party
+514	519	Česka	Česko	LOC	GPE-Czech-Republic
+579	585	Pfizer	Pfizer	ORG	ORG-Pfizer
+588	596	BioNTech	BioNTech	ORG	ORG-BioNTech
+686	691	Praze	Praha	LOC	GPE-Prague
+693	706	Jihomoravském	Jihomoravský	LOC	GPE-South-Moravian-region
+709	731	Moravskoslezském kraji	Moravskoslezský kraj	LOC	GPE-Moravian-Silesian-Region
+837	851	Ústeckém kraji	Ústecký kraj	LOC	GPE-Usti-nad-Labem-region
+868	878	Jihočeském	Jihočeský	LOC	GPE-South-Bohemian-region
+880	892	Středočeském	Středočeský	LOC	GPE-Central-Bohemian-Region
+894	905	Pardubickém	Pardubický	LOC	GPE-Pardubice-Region
+907	916	Plzeňském	Plzeňský	LOC	GPE-Pilsen-Region
+919	935	Olomouckém kraji	Olomoucký kraj	LOC	LOC-Olomouc-region
+985	993	Vysočině	Vysočina	LOC	GPE-Vysocina-region
+998	1020	Královéhradeckém kraji	Královéhradecký kraj	LOC	GPE-Hradec-Kralove-region

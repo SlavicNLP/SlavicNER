@@ -1,0 +1,13 @@
+30	37	brexitu	brexit	EVT	EVT-Brexit
+45	47	EU	EU	ORG	ORG-European-Union
+144	148	KPMG	KPMG	ORG	ORG-KPMG
+176	183	brexitu	brexit	EVT	EVT-Brexit
+206	224	Spojené království	Spojené království	LOC	GPE-Great-Britain
+248	250	EU	EU	ORG	ORG-European-Union
+283	292	Luyendijk	Luyendijk	PER	PER-Joris-Luyendjik
+412	420	Británii	Británie	LOC	GPE-Great-Britain
+452	460	Británie	Británie	LOC	GPE-Great-Britain
+492	494	EU	EU	ORG	ORG-European-Union
+534	554	Spojeným královstvím	Spojené království	LOC	GPE-Great-Britain
+1144	1153	Luyendijk	Luyendijk	PER	PER-Joris-Luyendjik
+1264	1266	EU	EU	ORG	ORG-European-Union

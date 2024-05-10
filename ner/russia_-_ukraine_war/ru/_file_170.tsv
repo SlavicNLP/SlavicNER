@@ -1,0 +1,23 @@
+0	10	Американцы	Американцы	PER	GPE-USA
+45	51	МОСКВА	Москва	LOC	GPE-Moscow
+62	73	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+86	89	США	США	LOC	GPE-USA
+198	210	Fox Business	Fox Business	PRO	PRO-Fox-Business
+223	235	Стюарт Варни	Стюарт Варни	PER	PER-Stuart-Varney
+397	402	Варни	Варни	PER	PER-Stuart-Varney
+466	477	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+552	570	Федеральный резерв	Федеральный резерв	ORG	ORG-Federal-Reserve-System
+610	618	конгресс	конгресс	ORG	ORG-United-States-Congress
+682	689	Америке	Америка	LOC	GPE-USA
+810	815	Варни	Варни	PER	PER-Stuart-Varney
+911	920	Белый дом	Белый дом	ORG	ORG-The-White-House
+1372	1384	Минтруда США	Минтруда США	ORG	ORG-US-Department-of-Labor
+1575	1582	Байдена	Байден	PER	PER-Joe-Biden
+1595	1598	США	США	LOC	GPE-USA
+1623	1629	России	Россия	LOC	GPE-Russia
+1711	1717	России	Россия	LOC	GPE-Russia
+1724	1752	специальной военной операции	специальная военная операция	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1788	1795	Украины	Украина	LOC	GPE-Ukraine
+2030	2036	Европе	Европа	LOC	LOC-Europe
+2039	2042	США	США	LOC	GPE-USA
+2055	2058	США	США	LOC	GPE-USA

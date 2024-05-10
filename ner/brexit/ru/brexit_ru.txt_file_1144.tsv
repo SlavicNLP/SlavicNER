@@ -1,0 +1,28 @@
+0	10	Нидерланды	Нидерланды	LOC	GPE-Holland
+48	56	Британии	Британия	LOC	GPE-Great-Britain
+59	61	ЕС	ЕС	ORG	ORG-European-Union
+63	88	Правительство Нидерландов	Правительство Нидерландов	ORG	ORG-States-General
+118	132	Великобритания	Великобритания	LOC	GPE-Great-Britain
+143	161	Европейского Союза	Европейский Союз	ORG	ORG-European-Union
+222	229	Reuters	Reuters	ORG	ORG-Reuters
+271	277	Brexit	Brexit	EVT	EVT-Brexit
+280	302	парламенте Нидерландов	парламент Нидерландов	ORG	ORG-States-General
+303	316	Питер Омтзигт	Питер Омтзигт	PER	PER-Pieter-Omtzigt
+366	372	Brexit	Brexit	EVT	EVT-Brexit
+375	397	парламенте Нидерландов	парламент Нидерландов	ORG	ORG-States-General
+399	406	Омтзигт	Омтзигт	PER	PER-Pieter-Omtzigt
+517	531	Великобритания	Великобритания	LOC	GPE-Great-Britain
+542	560	Европейского Союза	Европейский Союз	ORG	ORG-European-Union
+616	623	Reuters	Reuters	ORG	ORG-Reuters
+643	664	парламент Нидерландов	парламент Нидерландов	ORG	ORG-States-General
+721	727	Brexit	Brexit	EVT	EVT-Brexit
+771	777	Brexit	Brexit	EVT	EVT-Brexit
+794	801	Омтзигт	Омтзигт	PER	PER-Pieter-Omtzigt
+861	869	Британия	Британия	LOC	GPE-Great-Britain
+880	882	ЕС	ЕС	ORG	ORG-European-Union
+986	1002	Великой Британии	Великая Британия	LOC	GPE-Great-Britain
+1003	1013	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1040	1065	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+1079	1085	Brexit	Brexit	EVT	EVT-Brexit
+1121	1145	британское правительство	британское правительство	ORG	ORG-the-UK-Government
+1218	1236	Европейского Союза	Европейский Союз	ORG	ORG-European-Union

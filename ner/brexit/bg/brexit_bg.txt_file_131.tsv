@@ -1,0 +1,50 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+66	73	Брекзит	Брекзит	EVT	EVT-Brexit
+95	105	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+215	225	Франс прес	Франс прес	ORG	ORG-France-Presse
+300	307	Брекзит	Брекзит	EVT	EVT-Brexit
+415	421	Лондон	Лондон	LOC	GPE-London
+424	431	Брюксел	Брюксел	LOC	GPE-Brussles
+467	477	Франс прес	Франс прес	ORG	ORG-France-Presse
+482	489	Ройтерс	Ройтерс	ORG	ORG-Reuters
+524	536	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+568	581	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+597	604	Брекзит	Брекзит	EVT	EVT-Brexit
+605	618	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+654	663	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+700	706	торите	тори	PER	ORG-Conservative-and-Unionist-Party-UK
+772	785	Крис Грейлинг	Крис Грейлинг	PER	PER-Chris-Grayling
+804	826	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+841	847	торите	тори	PER	ORG-Conservative-and-Unionist-Party-UK
+909	921	Брандън Луис	Брандън Луис	PER	PER-Branden-Lewis
+951	973	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1079	1095	Патрик Маклохлин	Патрик Маклохлин	PER	PER-Patrick-McLoughlin
+1097	1109	Брандън Луис	Брандън Луис	PER	PER-Branden-Lewis
+1193	1203	Франс прес	Франс прес	ORG	ORG-France-Presse
+1229	1245	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1246	1263	Джеймс Броукъншър	Джеймс Броукъншър	PER	PER-James-Brokenshire
+1466	1482	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1556	1559	Мей	Мей	PER	PER-Theresa-May
+1570	1580	Франс прес	Франс прес	ORG	ORG-France-Presse
+1614	1617	Мей	Мей	PER	PER-Theresa-May
+1700	1713	Деймиън Грийн	Деймиън Грийн	PER	PER-Damian-Green
+1840	1845	Грийн	Грийн	PER	PER-Damian-Green
+1891	1894	Мей	Мей	PER	PER-Theresa-May
+1960	1972	Майкъл Фалън	Майкъл Фалън	PER	PER-Michael-Fallon
+2044	2058	Гавин Уилямсън	Гавин Уилямсън	PER	PER-Gavin-Williamson
+2127	2138	Прити Пател	Прити Пател	PER	PER-Priti-Patel
+2170	2176	Израел	Израел	LOC	GPE-Israel
+2259	2271	Джеръми Хънт	Джеръми Хънт	PER	PER-Jeremy-Hunt
+2460	2473	Деймиън Грийн	Деймиън Грийн	PER	PER-Damian-Green
+2495	2511	Дейвид Лидингтън	Дейвид Лидингтън	PER	PER-David-Lidington
+2531	2536	Грийн	Грийн	PER	PER-Damian-Green
+2562	2572	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2574	2583	Лидингтън	Лидингтън	PER	PER-David-Lidington
+2651	2656	Грийн	Грийн	PER	PER-Damian-Green
+2794	2801	Брюксел	Брюксел	LOC	GPE-Brussles
+2948	2962	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2965	2967	ЕС	ЕС	ORG	ORG-European-Union
+2992	3002	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3069	3083	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3130	3137	Брюксел	Брюксел	LOC	GPE-Brussles
+3140	3143	БТА	БТА	ORG	ORG-Bulgarian-News-Agency

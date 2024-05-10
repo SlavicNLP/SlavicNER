@@ -1,0 +1,44 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+10	16	Байдън	Байдън	PER	PER-Joe-Biden
+35	63	изборите за президент на САЩ	избори за президент на САЩ	EVT	EVT-2020-United-States-Presidential-Election
+88	92	NOVA	NOVA	PRO	PRO-NOVATV
+221	231	американци	американци	PER	GPE-USA
+434	446	Алън Лихтман	Алън Лихтман	PER	PER-Allan-Lichtman
+500	506	Рейгън	Рейгън	PER	PER-Ronald-Reagan
+603	610	Лихтман	Лихтман	PER	PER-Allan-Lichtman
+650	654	NOVA	NOVA	PRO	PRO-NOVATV
+689	708	президентски избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+800	809	Белия дом	Бял дом	LOC	LOC-White-House
+899	912	Роналд Рейгън	Роналд Рейгън	PER	PER-Ronald-Reagan
+992	1009	Голямата депресия	Голяма депресия	EVT	EVT-Great-Depression
+1078	1090	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1202	1211	Белия дом	Бял дом	LOC	LOC-White-House
+1308	1320	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1447	1459	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1470	1479	Белия дом	Бял дом	LOC	LOC-White-House
+1483	1493	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1523	1539	Съединените щати	Съединени щати	LOC	GPE-USA
+1827	1832	Тръмп	Тръмп	PER	PER-Donald-Trump
+1868	1882	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+2210	2222	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2322	2327	Тръмп	Тръмп	PER	PER-Donald-Trump
+2328	2341	Джаред Къшнер	Джаред Къшнер	PER	PER-Jared-Kushner
+2381	2387	Израел	Израел	LOC	GPE-Israel
+2434	2443	Белия дом	Бял дом	LOC	LOC-White-House
+2523	2526	САЩ	САЩ	LOC	GPE-USA
+2535	2541	Рейгън	Рейгън	PER	PER-Ronald-Reagan
+2582	2641	договора със Съветския съюз за ограничаване на въоръженията	договор със Съветския съюз за ограничаване на въоръженията	PRO	PRO-Strategic-Arms-Reduction-Treaty
+2736	2741	Тръмп	Тръмп	PER	PER-Donald-Trump
+2914	2926	американците	американци	PER	GPE-USA
+3084	3094	Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+3212	3223	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+3526	3531	Тръмп	Тръмп	PER	PER-Donald-Trump
+3589	3596	Америка	Америка	LOC	GPE-USA
+3669	3681	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3724	3739	Вашингтон Поуст	Вашингтон Поуст	PRO	PRO-Washington-Post
+3844	3861	Доналд Джей Тръмп	Доналд Джей Тръмп	PER	PER-Donald-Trump
+3984	3993	Белия дом	Бял дом	LOC	LOC-White-House
+4022	4027	Тръмп	Тръмп	PER	PER-Donald-Trump
+4460	4473	Хърбърт Хувър	Хърбърт Хувър	PER	PER-Herbert-Hoover
+4509	4526	Голямата депресия	Голяма депресия	EVT	EVT-Great-Depression
+4677	4687	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden

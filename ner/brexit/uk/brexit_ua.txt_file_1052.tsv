@@ -1,0 +1,16 @@
+0	18	Парламент Британії	Парламент Британії	ORG	ORG-British-Parlament
+32	38	Brexit	Brexit	EVT	EVT-Brexit
+61	79	Парламент Британії	Парламент Британії	ORG	ORG-British-Parlament
+108	110	ЄС	ЄС	LOC	ORG-European-Union
+146	155	Брюсселем	Брюссель	LOC	GPE-Brussles
+206	216	Ембер Радд	Ембер Радд	PER	PER-Amber-Rudd
+243	252	парламент	парламент	ORG	ORG-British-Parlament
+254	267	Палата громад	Палата громад	ORG	ORG-House-of-Commons
+301	314	Палаті громад	Палата громад	ORG	ORG-House-of-Commons
+352	358	Brexit	Brexit	EVT	EVT-Brexit
+413	423	Ембер Радд	Ембер Радд	PER	PER-Amber-Rudd
+479	482	МВС	МВС	ORG	ORG-Home-Office-UK
+539	545	Brexit	Brexit	EVT	EVT-Brexit
+603	605	ЄС	ЄС	LOC	ORG-European-Union
+756	775	Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+812	829	Великою Британією	Велика Британія	LOC	GPE-Great-Britain

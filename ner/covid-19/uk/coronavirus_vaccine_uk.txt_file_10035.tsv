@@ -1,0 +1,37 @@
+12	20	пандемії	пандемія	EVT	EVT-Covid-19
+63	65	FT	FT	PRO	PRO-Financial-Times
+157	166	пандемією	пандемія	EVT	EVT-Covid-19
+224	232	пандемії	пандемія	EVT	EVT-Covid-19
+315	327	коронавірусу	коронавірус	EVT	EVT-Covid-19
+329	337	пандемія	пандемія	EVT	EVT-Covid-19
+387	402	Financial Times	Financial Times	PRO	PRO-Financial-Times
+415	428	Сан-Франциско	Сан-Франциско	LOC	GPE-San-Francisco
+491	528	конференції охорони здоров'я JPMorgan	конференція охорони здоров'я JPMorgan	EVT	EVT-JPMorgan-Health-Conference
+756	768	коронавірусу	коронавірус	EVT	EVT-Covid-19
+802	811	пандемією	пандемія	EVT	EVT-Covid-19
+884	900	Becton Dickinson	Becton Dickinson	ORG	ORG-Becton-Dickinson
+901	910	Том Полен	Том Полен	PER	PER-Tom-Pollen
+968	977	пандемією	пандемія	EVT	EVT-Covid-19
+1029	1049	OraSure Technologies	OraSure Technologies	ORG	ORG-Aqoza-technologies
+1050	1060	Стівен Тан	Стівен Тан	PER	PER-Stephen-Tan
+1173	1181	COVID-19	COVID-19	EVT	EVT-Covid-19
+1218	1226	пандемії	пандемія	EVT	EVT-Covid-19
+1327	1338	коронавірус	коронавірус	EVT	EVT-Covid-19
+1402	1405	Тан	Тан	PER	PER-Stephen-Tan
+1601	1609	BioNTech	BioNTech	ORG	ORG-BioNTech
+1611	1617	Pfizer	Pfizer	ORG	ORG-Pfizer
+1619	1626	Moderna	Moderna	ORG	ORG-Moderna
+1628	1652	Оксфордський університет	Оксфордський університет	ORG	ORG-Oxford-University
+1656	1667	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1695	1707	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2026	2032	Pfizer	Pfizer	ORG	ORG-Pfizer
+2033	2045	Анжела Хванг	Анжела Хванг	PER	PER-Angela-Hwang
+2110	2122	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2237	2245	COVID-19	COVID-19	EVT	EVT-Covid-19
+2331	2343	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2592	2600	COVID-19	COVID-19	EVT	EVT-Covid-19
+2626	2632	грипом	грип	EVT	EVT-Influenza
+2731	2744	коронавірусом	коронавірус	EVT	EVT-Covid-19
+2810	2818	COVID-19	COVID-19	EVT	EVT-Covid-19
+3118	3125	Moderna	Moderna	ORG	ORG-Moderna
+3126	3140	Стефан Бансель	Стефан Бансель	PER	PER-Stephan-Bancel

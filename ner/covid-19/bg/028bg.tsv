@@ -1,0 +1,31 @@
+59	64	София	София	LOC	GPE-Sofia
+116	137	Втора градска болница	Втора градска болница	LOC	LOC-Second-city-hospital-Bulgaria
+194	203	Фандъкова	Фандъкова	PER	PER-Yordanka-Fandakova
+230	235	София	София	LOC	GPE-Sofia
+342	354	коронавируса	коронавирус	EVT	EVT-Covid-19
+369	372	bTV	bTV	PRO	PRO-BTV
+383	388	София	София	LOC	GPE-Sofia
+389	407	Йорданка Фандъкова	Йорданка Фандъкова	PER	PER-Yordanka-Fandakova
+458	489	Столичният общински съвет (СОС)	Столичен общински съвет (СОС)	ORG	ORG-Capital-manucipality-committee
+508	517	Фандъкова	Фандъкова	PER	PER-Yordanka-Fandakova
+612	617	София	София	LOC	GPE-Sofia
+736	745	Фандъкова	Фандъкова	PER	PER-Yordanka-Fandakova
+782	797	Столична община	Столична община	ORG	ORG-Sofia-Municipality
+929	942	Софийска вода	Софийска вода	ORG	ORG-Sofiyjska-voda-Bulgaria
+945	948	ЧЕЗ	ЧЕЗ	ORG	ORG-CEZ-Bulgaria
+1211	1229	Йорданка Фандъкова	Йорданка Фандъкова	PER	PER-Yordanka-Fandakova
+1268	1289	Втора градска болница	Втора градска болница	LOC	LOC-Second-city-hospital-Bulgaria
+1292	1297	София	София	LOC	GPE-Sofia
+1380	1391	коронавирус	коронавирус	EVT	EVT-Covid-19
+1547	1558	коронавирус	коронавирус	EVT	EVT-Covid-19
+1589	1600	коронавирус	коронавирус	EVT	EVT-Covid-19
+1605	1626	Втора градска болница	Втора градска болница	LOC	LOC-Second-city-hospital-Bulgaria
+1692	1697	София	София	LOC	GPE-Sofia
+1898	1903	София	София	LOC	GPE-Sofia
+1906	1915	Фандъкова	Фандъкова	PER	PER-Yordanka-Fandakova
+2012	2029	Столичната община	Столична община	ORG	ORG-Sofia-Municipality
+2265	2276	коронавирус	коронавирус	EVT	EVT-Covid-19
+2829	2850	Втора градска болница	Втора градска болница	LOC	LOC-Second-city-hospital-Bulgaria
+2949	2956	Пирогов	Пирогов	LOC	LOC-Pirogov-hospital-Bulgaria
+2960	2963	ВМА	ВМА	LOC	LOC-Military-medicine-academia-hospital-Sofia
+3062	3080	Йорданка Фандъкова	Йорданка Фандъкова	PER	PER-Yordanka-Fandakova

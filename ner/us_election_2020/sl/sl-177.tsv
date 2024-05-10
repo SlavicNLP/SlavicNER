@@ -1,0 +1,53 @@
+0	17	Nedeljski dnevnik	Nedeljski dnevnik	PRO	PRO-Dnevnik
+19	26	Nemčiji	Nemčija	LOC	GPE-Germany
+47	54	Balkana	Balkan	LOC	LOC-Balkans
+120	126	Fidesz	Fidesz	ORG	ORG-Fidesz
+184	196	Viktor Orban	Viktor Orban	PER	PER-Viktor-Orban
+244	264	Nedeljskega dnevnika	Nedeljski dnevnik	PRO	PRO-Dnevnik
+275	280	Šepet	Šepet	PRO	PRO-Šepet
+286	301	Aleksander Lucu	Aleksander Lucu	PER	PER-Aleksander-Lucu
+326	339	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+411	422	Janez Janša	Janez Janša	PER	PER-Janez-Janša
+424	436	Viktor Orban	Viktor Orban	PER	PER-Viktor-Orban
+476	495	Zakon in pravičnost	Zakon in pravičnost	ORG	ORG-PiS-Law-and-Justice
+496	514	Jaroslaw Kaczynski	Jaroslaw Kaczynski	PER	PER-Jaroslav-Kaczyński
+533	550	Mateus Morawiecki	Mateus Morawiecki	PER	PER-Mateusz-Morawiecki
+572	584	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+594	602	Poljskem	Poljska	LOC	GPE-Poland
+639	650	Borut Pahor	Borut Pahor	PER	PER-Borut-Pahor
+653	662	Sloveniji	Slovenija	LOC	GPE-Slovenia
+740	745	Janša	Janša	PER	PER-Janez-Janša
+844	851	Balkana	Balkan	LOC	LOC-Balkans
+923	931	Merklova	Merkel	PER	PER-Angela-Merkel
+1008	1020	Janeza Janše	Janez Janša	PER	PER-Janez-Janša
+1051	1053	EU	EU	ORG	ORG-European-Union
+1072	1079	Poljsko	Poljska	LOC	GPE-Poland
+1083	1092	Madžarsko	Madžarska	LOC	GPE-Hungary
+1125	1132	Poljska	Poljska	LOC	GPE-Poland
+1134	1143	Madžarska	Madžarska	LOC	GPE-Hungary
+1147	1156	Slovenija	Slovenija	LOC	GPE-Slovenia
+1249	1251	EU	EU	ORG	ORG-European-Union
+1366	1383	lizbonski pogodbi	lizbonska pogodba	PRO	PRO-Treaty-of-Lisbon
+1525	1532	Bruslju	Bruselj	LOC	GPE-Brussles
+1573	1578	Janša	Janša	PER	PER-Janez-Janša
+1580	1585	Orban	Orban	PER	PER-Viktor-Orban
+1589	1598	Kaczynski	Kaczynski	PER	PER-Jaroslav-Kaczyński
+1670	1677	Poljska	Poljska	LOC	GPE-Poland
+1681	1690	Madžarska	Madžarska	LOC	GPE-Hungary
+1692	1703	Janez Janša	Janez Janša	PER	PER-Janez-Janša
+1763	1769	Janšev	Janša	PER	PER-Janez-Janša
+1862	1872	Miro Cerar	Miro Cerar	PER	PER-Miro-Cerar
+1927	1930	SMC	SMC	ORG	ORG-Modern-Centre-Party
+1937	1942	Janši	Janša	PER	PER-Janez-Janša
+2000	2014	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2017	2024	Ameriki	Amerika	LOC	GPE-USA
+2027	2038	Janez Janša	Janez Janša	PER	PER-Janez-Janša
+2056	2058	EU	EU	ORG	ORG-European-Union
+2117	2126	Slovenija	Slovenija	LOC	GPE-Slovenia
+2130	2137	Nemčiji	Nemčija	LOC	GPE-Germany
+2141	2152	Portugalski	Portugalska	LOC	GPE-Portugal
+2176	2185	Slovenije	Slovenija	LOC	GPE-Slovenia
+2186	2194	Svetu EU	Svet EU	ORG	ORG-EU-Council
+2229	2246	evropske komisije	evropska komisija	ORG	ORG-European-Commission
+2259	2279	Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+2321	2334	Angelo Merkel	Angela Merkel	PER	PER-Angela-Merkel

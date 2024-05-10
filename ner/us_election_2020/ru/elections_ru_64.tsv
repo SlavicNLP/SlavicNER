@@ -1,0 +1,120 @@
+0	25	Коллегия выборщиков (США)	Коллегия выборщиков (США)	ORG	ORG-United-States-Electoral-College
+98	106	Луизиана	Луизиана	LOC	GPE-Louisiana
+134	150	Резерфорда Хейза	Резерфорд Хейз	PER	PER-Rutherford-Hayes
+154	171	выборах 1876 года	выборы 1876 года	EVT	EVT-1876-United-States-Presidential-Election
+228	253	Коллегия выборщиков в США	Коллегия выборщиков в США	ORG	ORG-United-States-Electoral-College
+339	342	США	США	LOC	GPE-USA
+360	363	США	США	LOC	GPE-USA
+400	418	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+725	733	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+1068	1086	Faithless electors	Faithless electors	PRO	PRO-Faithless-electors
+1143	1151	Коллегия	Коллегия	ORG	ORG-United-States-Electoral-College
+1489	1501	выборах 2004	выборы 2004	EVT	EVT-2004-United-States-Presidential-Election
+1584	1593	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+1614	1635	палаты представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+1735	1743	Колумбия	Колумбия	LOC	GPE-Colombia
+1795	1804	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1808	1817	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+1998	2013	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+2041	2049	Вайоминг	Вайоминг	LOC	GPE-Wyoming
+2103	2111	Колумбия	Колумбия	LOC	GPE-Colombia
+2200	2210	Калифорнию	Калифорния	LOC	GPE-California
+2229	2238	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+2250	2271	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2304	2311	Монтана	Монтана	LOC	GPE-Montana-US-State
+2313	2319	Аляска	Аляска	LOC	GPE-Alaska
+2321	2328	Вермонт	Вермонт	LOC	GPE-Vermont
+2330	2337	Делавэр	Делавэр	LOC	GPE-Delaware
+2339	2347	Вайоминг	Вайоминг	LOC	GPE-Wyoming
+2349	2361	Южная Дакота	Южная Дакота	LOC	GPE-South-Dakota-US-State
+2364	2379	Северная Дакота	Северная Дакота	LOC	GPE-North-Dakota
+2390	2397	Флориду	Флорида	LOC	GPE-Florida
+2426	2431	Техас	Техас	LOC	GPE-Texas
+2671	2674	Мэн	Мэн	LOC	GPE-Maine
+2691	2699	Небраска	Небраска	LOC	GPE-Nebraska
+2967	2979	выборах 2008	выборы 2008	EVT	EVT-2008-US-Presidential-Election
+2982	2990	Небраске	Небраска	LOC	GPE-Nebraska
+3081	3095	Джону Маккейну	Джон Маккейн	PER	PER-John-McCain
+3144	3152	Небраски	Небраска	LOC	GPE-Nebraska
+3155	3167	Бараку Обаме	Барак Обама	PER	PER-Barack-Obama
+3185	3188	Мэн	Мэн	LOC	GPE-Maine
+3248	3260	«План Амара»	План Амара	PRO	PRO-Amar-Plan
+3265	3274	Amar Plan	Amar Plan	PRO	PRO-Amar-Plan
+3717	3725	Мэриленд	Мериленд	LOC	GPE-Maryland
+3727	3737	Нью-Джерси	Нью-Джерси	LOC	GPE-New-Jersey
+3739	3747	Иллинойс	Иллинойс	LOC	GPE-Illinois
+3749	3755	Гавайи	Гавайи	LOC	GPE-Hawaii
+3758	3767	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+4001	4023	Палатой Представителей	Палата Представителей	ORG	ORG-United-States-House-of-Representatives
+4100	4116	Томас Джефферсон	Томас Джефферсон	PER	PER-Thomas-Jefferson
+4156	4170	Аароном Бэрром	Аарон Бэрр	PER	PER-Aaron-Burr-Jr
+4181	4194	Джон К. Адамс	Джон К. Адамс	PER	PER-John-Adams
+4257	4262	Адамс	Адамс	PER	PER-John-Adams
+4315	4328	Эндрю Джексон	Эндрю Джексон	PER	PER-Andrew-Jackson
+4349	4364	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+4616	4631	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+4634	4649	Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+4964	4984	Прогрессивная партия	Прогрессивная партия	ORG	ORG-Progressive-Party-USA
+5009	5027	Независимая партия	Независимая партия	ORG	ORG-Independent-Party-USA
+5052	5072	Прогрессивная партия	Прогрессивная партия	ORG	ORG-Progressive-Party-USA
+5137	5159	Либертарианская партия	Либертарианская партия	ORG	ORG-Libertarian-Party-USA
+5275	5294	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+6292	6307	Авраам Линкольн	Авраам Линкольн	PER	PER-Abraham-Lincoln
+6384	6407	Гражданская война в США	Гражданская война в США	EVT	EVT-USA-Civil-War
+6624	6643	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+6867	6886	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+7007	7024	выборах 1872 года	выборы 1872 года	EVT	EVT-1876-United-States-Presidential-Election
+7063	7074	Хорас Грили	Хорас Грили	PER	PER-Horace-Greeley
+7205	7218	Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+7258	7271	Улисса Гранта	Улисс Грант	PER	PER-Hiram-Ulysses-Grant
+7515	7528	Уильяме Тафте	Уильям Тафт	PER	PER-William-Howard-Taft
+7562	7575	Джеймс Шерман	Джеймс Шерман	PER	PER-James-Sherman
+7607	7611	Тафт	Тафт	PER	PER-William-Howard-Taft
+7646	7654	демократ	демократ	PER	ORG-Democratic-Party-USA
+7655	7668	Вудро Вильсон	Вудро Вильсон	PER	PER-Woodrow-Wilson
+8259	8267	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+8395	8401	Адамса	Адамс	PER	PER-John-Adams
+8414	8436	Палатой представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+8546	8553	Р. Хейз	Р. Хейз	PER	PER-Rutherford-Hayes
+8562	8573	Б. Гаррисон	Б. Гаррисон	PER	PER-Benjamin-Harrison
+8582	8597	Дж. Буш-младший	Дж. Буш-младший	PER	PER-George-Bush-Jr
+8701	8712	Выборы 1876	выборы 1876	EVT	EVT-1876-United-States-Presidential-Election
+9206	9222	республиканского	республиканский	ORG	ORG-Republican-Party-USA
+9227	9243	демократического	демократический	ORG	ORG-Democratic-Party-USA
+9411	9419	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+9467	9482	демократических	демократический	ORG	ORG-Democratic-Party-USA
+9510	9525	республиканские	республиканский	ORG	ORG-Republican-Party-USA
+9535	9544	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+9716	9725	демократы	демократ	ORG	ORG-Democratic-Party-USA
+9740	9755	республиканских	республиканский	ORG	ORG-Republican-Party-USA
+9774	9780	Техасе	Техас	LOC	GPE-Texas
+9929	9947	Джордж Буш-младший	Джордж Буш-младший	PER	PER-George-Bush-Jr
+9957	9985	предвыборной кампании 2004 г	предвыборная кампания 2004 г	EVT	EVT-2004-United-States-Presidential-Election
+10051	10060	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+10191	10205	Джейми Раскина	Джейми Раскин	PER	PER-Jamie-Ruskin
+10225	10233	Мэриленд	Мериленд	LOC	GPE-Maryland
+10497	10505	Делавэра	Делавэр	LOC	GPE-Delaware
+10510	10525	Северной Дакоты	Северная Дакота	LOC	GPE-North-Dakota
+10688	10698	Калифорния	Калифорния	LOC	GPE-California
+10700	10705	Техас	Техас	LOC	GPE-Texas
+10710	10718	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+10974	10985	Нью-Мексико	Нью-Мексико	LOC	GPE-New-Mexico
+11021	11024	Юта	Юта	LOC	GPE-Utah
+11049	11060	Нью-Мексико	Нью-Мексико	LOC	GPE-New-Mexico
+11151	11154	Юте	Юта	LOC	GPE-Utah
+11380	11387	Раскина	Раскин	PER	PER-Jamin-Ben-Raskin
+11514	11522	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+11538	11543	Сенат	Сенат	ORG	ORG-United-States-Senate
+12144	12155	eJournalUSA	eJournalUSA	PRO	PRO-eJournalUSA
+12197	12222	Коллегия выборщиков (США)	Коллегия выборщиков (США)	ORG	ORG-United-States-Electoral-College
+12245	12268	Коллегия выборщиков США	Коллегия выборщиков США	ORG	ORG-United-States-Electoral-College
+12341	12349	Луизиана	Луизиана	LOC	GPE-Louisiana
+12377	12393	Резерфорда Хейза	Резерфорд Хейз	PER	PER-Rutherford-Hayes
+12397	12414	выборах 1876 года	выборы 1876 года	EVT	EVT-1876-United-States-Presidential-Election
+12483	12502	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+12759	12778	КОЛЛЕГИЯ ВЫБОРЩИКОВ	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+12782	12799	Electoral College	Electoral College	ORG	ORG-Electoral-College
+13054	13073	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+13077	13094	Electoral College	Electoral College	ORG	ORG-Electoral-College
+13403	13421	Российской империи	Российская империя	LOC	GPE-Russian-Empire
+13428	13432	СССР	СССР	LOC	GPE-USSR

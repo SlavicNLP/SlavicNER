@@ -1,0 +1,44 @@
+9	22	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+23	29	Evropě	Evropa	LOC	LOC-Europe
+63	73	Bratislava	Bratislava	LOC	GPE-Bratislava
+106	119	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+122	127	Ruska	Rusko	LOC	GPE-Russia
+131	138	Německa	Německo	LOC	GPE-Germany
+171	177	Evropy	Evropa	LOC	LOC-Europe
+216	226	Bratislavě	Bratislava	LOC	GPE-Bratislava
+272	275	USA	USA	LOC	GPE-USA
+276	289	Wess Mitchell	Wess Mitchell	PER	PER-Wess-Mitchel
+291	300	Slovensko	Slovensko	LOC	GPE-Slovakia
+338	352	západní Evropy	západní Evropa	LOC	LOC-Western-Europe
+433	446	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+499	505	Evropy	Evropa	LOC	LOC-Europe
+565	578	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+584	590	Evropu	Evropa	LOC	LOC-Europe
+613	621	Mitchell	Mitchell	PER	PER-Wess-Mitchel
+702	717	Ivanem Korčokem	Ivan Korčok	PER	PER-Ivan-Korcok
+752	763	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+791	796	Ruska	Rusko	LOC	GPE-Russia
+800	807	Německa	Německo	LOC	GPE-Germany
+813	825	Baltské moře	Baltské moře	LOC	LOC-Baltic-Sea
+849	855	Moskvě	Moskva	LOC	GPE-Moscow
+880	888	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+912	926	západní Evropy	západní Evropa	LOC	LOC-Western-Europe
+944	958	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+1005	1023	Angelou Merkelovou	Angela Merkelová	PER	PER-Angela-Merkel
+1037	1042	Rusko	Rusko	LOC	GPE-Russia
+1075	1088	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1113	1121	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+1123	1129	Korčok	Korčok	PER	PER-Ivan-Korcok
+1140	1149	Slovensko	Slovensko	LOC	GPE-Slovakia
+1177	1190	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1252	1266	západní Evropy	západní Evropa	LOC	LOC-Western-Europe
+1272	1281	Slovensko	Slovensko	LOC	GPE-Slovakia
+1294	1301	Tatrami	Tatry	LOC	LOC-Tatra-Mountains
+1393	1399	Korčok	Korčok	PER	PER-Ivan-Korcok
+1429	1442	Evropská unie	Evropská unie	ORG	ORG-European-Union
+1498	1501	USA	USA	LOC	GPE-USA
+1598	1611	Spojené státy	Spojené státy	LOC	GPE-USA
+1729	1735	Korčok	Korčok	PER	PER-Ivan-Korcok
+1737	1750	Spojené státy	Spojené státy	LOC	GPE-USA
+1759	1772	Evropské unii	Evropská unie	ORG	ORG-European-Union
+1893	1907	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump

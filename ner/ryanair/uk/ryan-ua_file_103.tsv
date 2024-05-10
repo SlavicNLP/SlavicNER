@@ -1,0 +1,28 @@
+38	45	Бельгія	Бельгія	LOC	GPE-Belgium
+74	78	КИЇВ	Київ	LOC	GPE-Kiev
+90	93	УНН	УНН	ORG	ORG-UNN
+116	124	Бельгією	Бельгія	LOC	GPE-Belgium
+228	240	Belgocontrol	Belgocontrol	ORG	ORG-Belgocontrol
+250	253	УНН	УНН	ORG	ORG-UNN
+270	277	Reuters	Reuters	ORG	ORG-Reuters
+354	366	Belgocontrol	Belgocontrol	ORG	ORG-Belgocontrol
+431	438	Twitter	Twitter	PRO	PRO-Twitter
+453	477	Брюссельського аеропорту	Брюссельський аеропорт	LOC	LOC-Brussels-Airport
+481	493	Belgocontrol	Belgocontrol	ORG	ORG-Belgocontrol
+620	627	easyJet	easyJet	ORG	ORG-EasyJet
+629	636	Ryanair	Ryanair	ORG	ORG-Ryanair
+638	641	IAG	IAG	ORG	ORG-IAG-International-Airlines-Group
+644	653	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+830	846	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+851	867	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+914	920	Хітроу	Хітроу	LOC	LOC-Heathrow-Airport
+963	978	British Airways	British Airways	ORG	ORG-British-Airways
+1027	1093	європейська організація з безпеки повітряної навігації Eurocontrol	європейська організація з безпеки повітряної навігації Eurocontrol	ORG	ORG-Eurocontrol
+1214	1220	Європі	Європа	LOC	LOC-Europe
+1409	1415	Тунісу	Туніс	LOC	GPE-Tunisia
+1417	1424	Албанії	Албанія	LOC	GPE-Albania
+1426	1432	Грузії	Грузія	LOC	GPE-Georgia
+1444	1460	аеропорту “Київ”	"аеропорт ""Київ"""	LOC	LOC-Kyiv-International-Airport-Kiev
+1475	1488	Bravo Airways	Bravo Airways	ORG	ORG-Bravo-Airways
+1560	1582	“Оазис тревел Україна”	Оазис тревел Україна	ORG	ORG-Oasis-Travel-Ukraine
+1637	1690	Міністерство економічного розвитку і торгівлі України	Міністерство економічного розвитку і торгівлі України	ORG	ORG-Ministry-for-

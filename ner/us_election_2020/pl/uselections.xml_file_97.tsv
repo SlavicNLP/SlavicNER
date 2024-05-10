@@ -1,0 +1,46 @@
+11	14	USA	USA	LOC	GPE-USA
+16	25	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+47	59	Białego Domu	Biały Dom	LOC	LOC-White-House
+61	70	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+95	105	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+122	125	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+126	129	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+141	144	USA	USA	LOC	GPE-USA
+146	155	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+177	189	Białego Domu	Biały Dom	LOC	LOC-White-House
+199	210	wGospodarce	wGospodarce	PRO	PRO-wGospodarce
+301	313	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+314	323	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+347	350	USA	USA	LOC	GPE-USA
+351	362	koronawirus	koronawirus	EVT	EVT-Covid-19
+450	471	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+472	481	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+508	520	Białego Domu	Biały Dom	LOC	LOC-White-House
+541	544	USA	USA	LOC	GPE-USA
+735	751	Polskie Radio 24	Polskie Radio 24	PRO	PRO-Polskie-Radio-24
+831	840	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+886	902	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+1063	1077	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1081	1091	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+1131	1138	Floryda	Floryda	LOC	GPE-Florida
+1140	1157	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1159	1168	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1170	1178	Michigan	Michigan	LOC	GPE-Michigan
+1180	1191	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1193	1199	Nevada	Nevada	LOC	GPE-Nevada
+1202	1209	Arizona	Arizona	LOC	GPE-Arizona
+1258	1268	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+1306	1321	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1401	1415	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1430	1442	koronawirusa	koronawirus	EVT	EVT-Covid-19
+1466	1476	Amerykanów	Amerykanie	PER	GPE-USA
+1599	1607	COVID-19	COVID-19	EVT	EVT-Covid-19
+1706	1719	koronawirusem	koronawirus	EVT	EVT-Covid-19
+1809	1819	Amerykanie	Amerykanie	PER	GPE-USA
+1847	1861	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1977	1989	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2352	2357	Trump	Trump	PER	PER-Donald-Trump
+2393	2404	Joe Bidenem	Joe Biden	PER	PER-Joe-Biden
+2412	2425	koronawirusem	koronawirus	EVT	EVT-Covid-19
+2449	2470	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+2509	2525	Polskie Radio 24	Polskie Radio 24	PRO	PRO-Polskie-Radio-24

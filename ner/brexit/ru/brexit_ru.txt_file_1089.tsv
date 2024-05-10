@@ -1,0 +1,26 @@
+6	24	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+25	38	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+66	95	британском кабинете министров	британский кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+123	138	Дэвидом Дэвисом	Дэвид Дэвис	PER	PER-David-Davis
+176	183	Брекзит	Брекзит	EVT	EVT-Brexit
+229	242	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+338	348	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+359	367	Британии	Британия	LOC	GPE-Great-Britain
+371	389	Европейского союза	Европейский союз	ORG	ORG-European-Union
+469	471	ЕС	ЕС	ORG	ORG-European-Union
+514	522	британцы	британцы	PER	GPE-Great-Britain
+526	537	референдуме	референдум	EVT	EVT-Brexit-Referendum
+539	544	Дэвис	Дэвис	PER	PER-David-Davis
+670	677	Джонсон	Джонсон	PER	PER-Boris-Johnson
+711	721	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+832	840	Джонсона	Джонсон	PER	PER-Boris-Johnson
+885	925	российского Министерства иностранных дел	российское Министерство иностранных дел	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+926	940	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+1191	1210	правительства Т.Мэй	правительство Т.Мэй	ORG	ORG-the-UK-Government
+1363	1369	Кремля	Кремль	ORG	ORG-Kremlin
+1389	1403	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1418	1432	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1436	1443	Новичок	Новичок	PRO	PRO-Novichok
+1446	1453	ЧМ-2018	ЧМ-2018	EVT	EVT-FIFA-World-Cup-2018
+1560	1568	Эймсбери	Эймсбери	LOC	LOC-Amesbury
+1587	1607	британская подданная	британская подданная	PER	GPE-Great-Britain

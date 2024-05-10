@@ -1,0 +1,21 @@
+5	25	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+29	49	британския парламент	британски парламент	ORG	ORG-British-Parlament
+57	82	законопроекта за Брекзита	Законопроект за Брекзит	PRO	PRO-Brexit-law-draft
+120	134	Великобритания	Великобритания	LOC	GPE-Great-Britain
+137	139	ЕС	ЕС	ORG	ORG-European-Union
+142	149	Брекзит	Брекзит	EVT	EVT-Brexit
+158	178	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+182	202	британския парламент	британски парламент	ORG	ORG-British-Parlament
+210	235	законопроекта за Брекзита	Законопроект за Брекзит	PRO	PRO-Brexit-law-draft
+236	242	Лондон	Лондон	LOC	GPE-London
+245	265	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+302	316	Великобритания	Великобритания	LOC	GPE-Great-Britain
+346	353	Ройтерс	Ройтерс	ORG	ORG-Reuters
+397	417	британския парламент	британски парламент	ORG	ORG-British-Parlament
+453	460	Ройтерс	Ройтерс	ORG	ORG-Reuters
+516	526	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+582	589	Брекзит	Брекзит	EVT	EVT-Brexit
+602	605	Мей	Мей	PER	PER-Theresa-May
+669	690	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+789	809	британския парламент	британски парламент	ORG	ORG-British-Parlament
+821	828	Ройтерс	Ройтерс	ORG	ORG-Reuters

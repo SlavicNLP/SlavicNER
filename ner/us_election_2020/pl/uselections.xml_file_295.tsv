@@ -1,0 +1,27 @@
+0	3	USA	USA	LOC	GPE-USA
+5	10	Trump	Trump	PER	PER-Donald-Trump
+12	19	Georgia	Georgia	LOC	GPE-Georgia-US-state
+42	51	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+130	133	USA	USA	LOC	GPE-USA
+134	146	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+173	182	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+210	217	Georgia	Georgia	LOC	GPE-Georgia-US-state
+264	275	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+381	386	Trump	Trump	PER	PER-Donald-Trump
+422	431	Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+432	442	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+563	572	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+573	578	Biden	Biden	PER	PER-Joe-Biden
+655	666	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+686	693	Georgii	Georgia	LOC	GPE-Georgia-US-state
+704	713	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+716	723	Georgii	Georgia	LOC	GPE-Georgia-US-state
+833	842	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+922	931	Twitterze	Twitter	PRO	PRO-Twitter
+934	941	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1026	1029	USA	USA	LOC	GPE-USA
+1054	1065	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+1300	1312	Białego Domu	Biały Dom	LOC	LOC-White-House
+1313	1329	Kayleigh McEnany	Kayleigh McEnany	PER	PER-Kayleigh-McEnany
+1355	1375	Partia Demokratyczna	Partia Demokratyczna	ORG	ORG-Democratic-Party-USA
+1429	1437	Fox News	Fox News	PRO	PRO-Fox-News

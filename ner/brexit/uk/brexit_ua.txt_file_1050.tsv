@@ -1,0 +1,37 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+50	57	Юнкером	Юнкер	PER	PER-Jean-Claude-Juncker
+60	68	Брюсселі	Брюссель	LOC	GPE-Brussles
+124	134	Терези Мей	Тереза Мей	PER	PER-Theresa-May
+145	156	Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+157	174	Жана-Клода Юнкера	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+214	224	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+240	248	Брюсселя	Брюссель	LOC	GPE-Brussles
+300	310	Терезі Мей	Тереза Мей	PER	PER-Theresa-May
+333	353	Європейської Комісії	Європейська Комісія	ORG	ORG-European-Commission
+359	377	Жан-Клодом Юнкером	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+380	388	Брюсселі	Брюссель	LOC	GPE-Brussles
+484	498	Великобританії	Великобританія	LOC	GPE-Great-Britain
+509	511	ЄС	ЄС	LOC	ORG-European-Union
+526	532	Brexit	Brexit	EVT	EVT-Brexit
+542	553	Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+655	662	Reuters	Reuters	ORG	ORG-Reuters
+726	732	Brexit	Brexit	EVT	EVT-Brexit
+736	745	саміті ЄС	саміт ЄС	EVT	EVT-EU-summit
+810	825	Великобританією	Великобританія	LOC	GPE-Great-Britain
+829	837	Євросоюз	Євросоюз	ORG	ORG-European-Union
+999	1009	Гібралтару	Гібралтар	LOC	GPE-Gibraltar
+1012	1022	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1087	1090	BBC	BBC	ORG	ORG-BBC-Ltd
+1122	1130	Брюссель	Брюссель	LOC	GPE-Brussles
+1163	1183	Жаном-Клодом Юнкером	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+1202	1210	Брюсселя	Брюссель	LOC	GPE-Brussles
+1270	1281	Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+1292	1299	Юнкером	Юнкер	PER	PER-Jean-Claude-Juncker
+1450	1453	Мей	Мей	PER	PER-Theresa-May
+1610	1621	Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+1622	1640	Валдіс Домбровскіс	Валдіс Домбровскіс	PER	PER-Valdis-Dombrovskis
+1791	1794	Мей	Мей	PER	PER-Theresa-May
+1814	1816	ЄС	ЄС	LOC	ORG-European-Union
+1843	1866	Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+1877	1886	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1990	1999	саміту ЄС	саміт ЄС	EVT	EVT-EU-summit

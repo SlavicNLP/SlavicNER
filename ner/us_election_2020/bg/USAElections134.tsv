@@ -1,0 +1,62 @@
+12	19	Webcafe	Webcafe	PRO	PRO-Webcafe.bg
+445	454	демократи	демократи	PER	ORG-Democratic-Party-USA
+466	478	републиканци	републиканци	PER	ORG-Republican-Party-USA
+481	493	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+591	605	Джоузеф Байдън	Джоузеф Байдън	PER	PER-Joe-Biden
+723	729	Байдън	Байдън	PER	PER-Joe-Biden
+898	903	Тръмп	Тръмп	PER	PER-Donald-Trump
+923	930	Twitter	Twitter	PRO	PRO-Twitter
+958	963	Тръмп	Тръмп	PER	PER-Donald-Trump
+1027	1035	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1047	1058	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1061	1068	Мичиган	Мичиган	LOC	GPE-Michigan
+1095	1098	CNN	CNN	ORG	ORG-CNN
+1201	1209	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1307	1316	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+1325	1333	Фокс нюз	Фокс нюз	ORG	ORG-Fox-News
+1423	1429	Невада	Невада	LOC	GPE-Nevada
+1560	1572	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1596	1606	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1832	1839	Мичиган	Мичиган	LOC	GPE-Michigan
+1848	1853	Тръмп	Тръмп	PER	PER-Donald-Trump
+2032	2039	Детройт	Детройт	LOC	GPE-Detroit
+2115	2121	Байдън	Байдън	PER	PER-Joe-Biden
+2138	2145	Мичиган	Мичиган	LOC	GPE-Michigan
+2171	2180	Белия дом	Бял дом	LOC	LOC-White-House
+2269	2274	Тръмп	Тръмп	PER	PER-Donald-Trump
+2279	2285	Финикс	Финикс	LOC	GPE-Phoenix
+2287	2294	Аризона	Аризона	LOC	GPE-Arizona
+2653	2661	Марикопа	Марикопа	LOC	GPE-Maricopa-County
+2664	2671	Аризона	Аризона	LOC	GPE-Arizona
+2993	3001	Fox News	Fox News	ORG	ORG-Fox-News
+3002	3012	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3052	3059	Аризона	Аризона	LOC	GPE-Arizona
+3096	3108	републиканци	републиканци	PER	ORG-Republican-Party-USA
+3289	3296	Аризона	Аризона	LOC	GPE-Arizona
+3297	3307	Кейти Хобс	Кейти Хобс	PER	PER-Katie-Hobbs
+3311	3322	демократите	демократи	PER	ORG-Democratic-Party-USA
+3355	3363	Марикопа	Марикопа	LOC	GPE-Maricopa-County
+3370	3380	Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+3415	3426	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+3553	3558	Тръмп	Тръмп	PER	PER-Donald-Trump
+3666	3677	демократите	демократи	PER	ORG-Democratic-Party-USA
+3678	3688	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3885	3895	Рич Гарела	Рич Гарела	PER	PER-Rich-Garella
+3899	3920	Protect Our Vote Фили	Protect Our Vote Philly	ORG	ORG-Protect-Our-Vote-Philly
+3926	3929	CNN	CNN	ORG	ORG-CNN
+3974	3981	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+3983	3989	Сиатъл	Сиатъл	LOC	GPE-Seattle
+3992	4004	Лос Анджелис	Лос Анджелис	LOC	GPE-Los-Angeles
+4042	4045	САЩ	САЩ	LOC	GPE-USA
+4105	4112	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+4395	4401	Сиатъл	Сиатъл	LOC	GPE-Seattle
+4485	4503	Black Lives Matter	Black Lives Matter	ORG	ORG-Black-Lives-Matter
+4575	4585	Минеаполис	Минеаполис	LOC	GPE-Minneapolis
+4791	4809	Black Lives Matter	Black Lives Matter	ORG	ORG-Black-Lives-Matter
+4906	4914	COVID-19	COVID-19	EVT	EVT-Covid-19
+5045	5053	Минесота	Минесота	LOC	GPE-Minnesota
+5056	5070	Щатския патрул	Щатски патрул	ORG	ORG-Minnesota-State-Patrol
+5074	5082	Минесота	Минесота	LOC	GPE-Minnesota
+5121	5131	Минеаполис	Минеаполис	LOC	GPE-Minneapolis
+5253	5269	Първата поправка	Първа поправка	PRO	PRO-First-Amendment
+5319	5333	щатския патрул	Щатски патрул	ORG	ORG-Minnesota-State-Patrol

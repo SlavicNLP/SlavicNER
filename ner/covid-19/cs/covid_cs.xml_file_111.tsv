@@ -1,0 +1,20 @@
+0	11	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+35	43	Rakušáci	Rakušáci	PER	GPE-Austria
+185	191	Paříže	Paříž	LOC	GPE-Paris
+236	243	Londýna	Londýn	LOC	GPE-London
+307	317	Churchilla	Churchill	PER	PER-Winston-Churchill
+405	411	Evropě	Evropa	LOC	LOC-Europe
+963	968	covid	covid	EVT	EVT-Covid-19
+1117	1124	Info.cz	Info.cz	PRO	PRO-Info.cz-website
+1125	1140	Bohumil Pečinka	Bohumil Pečinka	PER	PER-Bohumil-Pecinka
+1166	1180	Andreje Babiše	Andrej Babiš	PER	PER-Andrej-Babis
+1351	1354	ODS	ODS	ORG	ORG-ODS-czech-political-party
+1356	1362	Pirátů	Piráti	ORG	ORG-Czech-Pirate-Party
+1364	1371	KDU-ČSL	KDU-ČSL	ORG	ORG-KDU-CSL-Czech-party
+1373	1379	TOP 09	TOP 09	ORG	ORG-TOP-09-political-party-CZ
+1382	1386	STAN	STAN	ORG	ORG-STAN-political-party-CZ
+1589	1595	TOP 09	TOP 09	ORG	ORG-TOP-09-political-party-CZ
+1667	1674	Pečinku	Pečinka	PER	PER-Bohumil-Pecinka
+1699	1705	Mináře	Minář	PER	PER-Mikulas-Minar
+1998	2003	TOP09	TOP09	ORG	ORG-TOP-09-political-party-CZ
+2009	2015	Piráti	Piráti	ORG	ORG-Czech-Pirate-Party

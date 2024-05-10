@@ -1,0 +1,66 @@
+8	18	Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+22	34	Özlem Türeci	Özlem Türeci	PER	PER-Özlem-Türeci
+96	105	covidu-19	covid-19	EVT	EVT-Covid-19
+153	161	BioNTech	BioNTech	ORG	ORG-BioNTech
+165	171	Pfizer	Pfizer	ORG	ORG-Pfizer
+281	291	Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+295	307	Özlem Türeci	Özlem Türeci	PER	PER-Özlem-Türeci
+471	480	covida-19	covid-19	EVT	EVT-Covid-19
+684	703	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+768	775	Oxforda	Oxford	ORG	ORG-University-of-Oxford
+802	813	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+817	821	Rusi	Rusi	PER	GPE-Russia
+839	848	Sputnik 5	Sputnik 5	PRO	PRO-Sputnik-V
+852	859	Kitajci	Kitajci	PER	GPE-China
+870	879	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+891	897	Evropo	Evropa	LOC	LOC-Europe
+982	984	EU	EU	ORG	ORG-European-Union
+1077	1082	Sahin	Sahin	PER	PER-Ugur-Sahin
+1095	1105	Türecijeva	Türeci	PER	PER-Özlem-Türeci
+1130	1136	Mainzu	Mainz	LOC	GPE-Mainz
+1157	1165	BioNTech	BioNTech	ORG	ORG-BioNTech
+1246	1252	Pfizer	Pfizer	ORG	ORG-Pfizer
+1661	1666	Sahin	Sahin	PER	PER-Ugur-Sahin
+1912	1917	Sahin	Sahin	PER	PER-Ugur-Sahin
+1919	1932	Albert Bourla	Albert Bourla	PER	PER-Albert-Bourla
+1960	1966	Pfizer	Pfizer	ORG	ORG-Pfizer
+2004	2007	CNN	CNN	PRO	PRO-CNN
+2145	2150	Sahin	Sahin	PER	PER-Ugur-Sahin
+2154	2164	Türecijeva	Türeci	PER	PER-Özlem-Türeci
+2272	2279	Nemčiji	Nemčija	LOC	GPE-Germany
+2300	2323	Ganymed Pharmaceuticals	Ganymed Pharmaceuticals	ORG	ORG-Ganymed-Pharmaceuticals-AG
+2449	2464	Welt am Sonntag	Welt am Sonntag	PRO	PRO-Welt-am-Sonntag
+2498	2504	Nemcev	Nemci	PER	GPE-Germany
+2613	2619	Nasdaq	Nasdaq	PRO	PRO-NASDAQ
+2906	2915	covidu-19	covid-19	EVT	EVT-Covid-19
+3056	3061	Sahin	Sahin	PER	PER-Ugur-Sahin
+3076	3087	Iskenderunu	Iskenderun	LOC	GPE-İskenderun
+3177	3184	Nemčijo	Nemčija	LOC	GPE-Germany
+3188	3192	Köln	Köln	LOC	GPE-Koln
+3260	3264	Ford	Ford	ORG	ORG-Ford
+3266	3276	Türecijevo	Türeci	PER	PER-Özlem-Türeci
+3454	3462	Reutersa	Reuters	ORG	ORG-Reuters
+3537	3542	Sahin	Sahin	PER	PER-Ugur-Sahin
+3592	3601	covida-19	covid-19	EVT	EVT-Covid-19
+3604	3610	Vuhanu	Vuhan	LOC	GPE-Wuhan
+3614	3623	Kitajskem	Kitajska	LOC	GPE-China
+3792	3800	BioNTech	BioNTech	ORG	ORG-BioNTech
+3975	3981	Pfizer	Pfizer	ORG	ORG-Pfizer
+3984	3990	Sahina	Sahin	PER	PER-Ugur-Sahin
+4031	4048	Matthias Theobald	Matthias Theobald	PER	PER-Matthias-Theobald
+4074	4091	Univerzi v Mainzu	Univerza v Mainzu	ORG	ORG-The Johannes Gutenberg University Mainz
+4295	4302	Reuters	Reuters	ORG	ORG-Reuters
+4311	4328	Matthias Kromayer	Matthias Kromayer	PER	PER-Matthias-Kromayer
+4361	4367	MIG AG	MIG AG	ORG	ORG-MIG-Verwaltungs-AG-(MIG-AG)
+4398	4406	BioNTech	BioNTech	ORG	ORG-BioNTech
+4461	4467	Sahina	Sahin	PER	PER-Ugur-Sahin
+4567	4575	BioNTech	BioNTech	ORG	ORG-BioNTech
+4579	4585	Pfizer	Pfizer	ORG	ORG-Pfizer
+4611	4630	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+4723	4732	BioNTecha	BioNTech	ORG	ORG-BioNTech
+4749	4758	Pfizerjem	Pfizer	ORG	ORG-Pfizer
+4930	4938	BioNTech	BioNTech	ORG	ORG-BioNTech
+4942	4948	Pfizer	Pfizer	ORG	ORG-Pfizer
+4977	5013	Ameriško upravo za hrano in zdravila	Ameriška uprava za hrano in zdravila	ORG	ORG-FDA-Food-and-Drug-Administration
+5068	5073	Sahin	Sahin	PER	PER-Ugur-Sahin
+5179	5193	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump

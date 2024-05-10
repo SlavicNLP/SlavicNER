@@ -1,0 +1,50 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+19	26	Georgie	Georgia	LOC	GPE-Georgia-US-state
+63	74	Washingtonu	Washington	LOC	GPE-WashingtonDC
+133	146	Josephu Bidnu	Joseph Biden	PER	PER-Joe-Biden
+216	223	Georgia	Georgia	LOC	GPE-Georgia-US-state
+255	269	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+347	352	Biden	Biden	PER	PER-Joe-Biden
+476	491	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+500	505	Trump	Trump	PER	PER-Donald-Trump
+702	704	AP	AP	ORG	ORG-AP-The-Associated-Press
+717	722	Bidnu	Biden	PER	PER-Joe-Biden
+747	754	Georgii	Georgia	LOC	GPE-Georgia-US-state
+765	771	Trumpu	Trump	PER	PER-Donald-Trump
+802	818	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+833	836	ZDA	ZDA	LOC	GPE-USA
+880	885	Bidnu	Biden	PER	PER-Joe-Biden
+896	902	Trumpu	Trump	PER	PER-Donald-Trump
+936	939	ZDA	ZDA	LOC	GPE-USA
+963	971	Trumpovo	Trump	PER	PER-Donald-Trump
+990	1002	Pensilvanijo	Pensilvanija	LOC	GPE-Pennsylvania
+1004	1013	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1017	1025	Michigan	Michigan	LOC	GPE-Michigan
+1060	1068	Trumpova	Trump	PER	PER-Donald-Trump
+1142	1149	Arizono	Arizona	LOC	GPE-Arizona
+1153	1160	Georgio	Georgia	LOC	GPE-Georgia-US-state
+1249	1254	Biden	Biden	PER	PER-Joe-Biden
+1263	1271	demokrat	demokrat	PER	ORG-Democratic-Party-USA
+1299	1306	Georgii	Georgia	LOC	GPE-Georgia-US-state
+1310	1324	Billa Clintona	Bill Clinton	PER	PER-Bill-Clinton
+1353	1361	demokrat	demokrat	PER	ORG-Democratic-Party-USA
+1365	1373	Clintonu	Clinton	PER	PER-Bill-Clinton
+1411	1418	Arizoni	Arizona	LOC	GPE-Arizona
+1421	1429	Trumpovi	Trump	PER	PER-Donald-Trump
+1525	1536	Washingtonu	Washington	LOC	GPE-WashingtonDC
+2010	2019	demokrati	demokrati	PER	ORG-Democratic-Party-USA
+2024	2036	republikanci	republikanci	PER	ORG-Republican-Party-USA
+2050	2059	Američani	Američani	PER	GPE-USA
+2363	2371	Nebraski	Nebraska	LOC	GPE-Nebraska
+2375	2380	Mainu	Maine	LOC	GPE-Maine
+2514	2522	Trumpove	Trump	PER	PER-Donald-Trump
+2744	2759	Washington Post	Washington Post	PRO	PRO-Washington-Post
+2778	2783	Trump	Trump	PER	PER-Donald-Trump
+2921	2956	predstavniški dom zveznega kongresa	predstavniški dom zveznega kongresa	ORG	ORG-House-of-Representatives(USA)
+2966	2979	republikancem	republikanci	ORG	ORG-Republican-Party-USA
+3010	3019	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+3051	3063	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+3164	3176	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+3225	3235	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+3300	3313	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+3366	3378	republikanci	republikanci	ORG	ORG-Republican-Party-USA

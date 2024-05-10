@@ -1,0 +1,26 @@
+2	5	ZDA	ZDA	LOC	GPE-USA
+35	48	koronavirusom	koronavirus	EVT	EVT-Covid-19
+228	238	covidom-19	covid-19	EVT	EVT-Covid-19
+325	337	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+343	356	koronavirusom	koronavirus	EVT	EVT-Covid-19
+427	433	Pfizer	Pfizer	ORG	ORG-Pfizer
+468	477	New Yorku	New York	LOC	GPE-New-York
+526	541	Andrewom Cuomom	Andrew Cuomo	PER	PER-Andrew-Cuomo
+576	588	koronavirusa	koronavirus	EVT	EVT-Covid-19
+591	596	Trump	Trump	PER	PER-Donald-Trump
+695	705	Američanov	Američani	PER	GPE-USA
+798	807	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1018	1023	Bidna	Biden	PER	PER-Joe-Biden
+1121	1129	Trumpovo	Trump	PER	PER-Donald-Trump
+1181	1216	Nacionalnega inštituta za zdravstvo	Nacionalni inštitut za zdravstvo	ORG	ORG-National-Institute-of-Allergy-and-Infectious-Diseases
+1217	1230	Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+1327	1332	Fauci	Fauci	PER	PER-Anthony-Fauci
+1452	1458	Trumpa	Trump	PER	PER-Donald-Trump
+1549	1554	Biden	Biden	PER	PER-Joe-Biden
+1578	1585	Faucija	Fauci	PER	PER-Anthony-Fauci
+1593	1598	Trump	Trump	PER	PER-Donald-Trump
+1713	1724	Washingtona	Washington	LOC	GPE-WashingtonDC
+1725	1735	Jay Inslee	Jay Inslee	PER	PER-Jay-Inslee
+2088	2102	Severni Dakoti	Severna Dakota	LOC	GPE-North-Dakota
+2175	2186	Doug Burgum	Doug Burgum	PER	PER-Doug-Burgum
+2306	2312	Burgum	Burgum	PER	PER-Doug-Burgum

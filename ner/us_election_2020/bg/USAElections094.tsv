@@ -1,0 +1,19 @@
+4	14	Рачо Рачев	Рачо Рачев	PER	PER-Racho-Rachev
+35	47	Алан Лихтман	Алан Лихтман	PER	PER-Allan-Lichtman
+60	98	Американския университет във Вашингтон	Американски университет във Вашингтон	ORG	ORG-American-University
+170	191	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+214	222	Си Ен Ен	Си Ен Ен	PRO	PRO-CNN
+576	583	Лихтман	Лихтман	PER	PER-Allan-Lichtman
+643	664	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+726	738	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+749	758	Белия дом	Бял дом	LOC	LOC-White-House
+802	813	демократите	демократи	PER	ORG-Democratic-Party-USA
+814	824	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+828	835	Лихтман	Лихтман	PER	PER-Allan-Lichtman
+900	913	Роналд Рейгън	Роналд Рейгън	PER	PER-Ronald-Reagan
+1027	1033	Ал Гор	Ал Гор	PER	PER-Al-Gore
+1038	1061	демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+1111	1114	Гор	Гор	PER	PER-Al-Gore
+1153	1167	Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+1226	1233	Флорида	Флорида	LOC	GPE-Florida
+1271	1284	Джордж У. Буш	Джордж У. Буш	PER	PER-George-Bush-Jr

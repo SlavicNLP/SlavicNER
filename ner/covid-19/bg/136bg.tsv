@@ -1,0 +1,19 @@
+0	15	Столична община	Столична община	ORG	ORG-Sofia-Municipality
+58	66	COVID-19	COVID-19	EVT	EVT-Covid-19
+173	185	коронавируса	коронавирус	EVT	EVT-Covid-19
+199	216	Столичната община	Столична община	ORG	ORG-Sofia-Municipality
+239	273	Единна информационна система (ЕИС)	Единна информационна система (ЕИС)	PRO	PRO-Unified-Information-Portal-Bulgaria
+290	298	COVID-19	COVID-19	EVT	EVT-Covid-19
+371	383	SAP България	SAP България	ORG	ORG-SAP-Bulgaria
+421	427	SAP SE	SAP SE	ORG	ORG-SAP-SE
+478	486	COVID-19	COVID-19	EVT	EVT-Covid-19
+490	507	Столичната община	Столична община	ORG	ORG-Sofia-Municipality
+1164	1167	ЕИС	ЕИС	PRO	PRO-Unified-Information-Portal-Bulgaria
+1431	1443	SAP България	SAP България	ORG	ORG-SAP-Bulgaria
+1446	1451	София	София	LOC	GPE-Sofia
+1491	1508	Столичната община	Столична община	ORG	ORG-Sofia-Municipality
+1509	1584	звено по Дигитализация, иновации и икономическо развитие (Innovative Sofia)	Звено по дигитализация, иновации и икономическо развитие (Innovative Sofia)	ORG	ORG-Innovative-Sofia
+1871	1889	Йорданка Фандъкова	Йорданка Фандъкова	PER	PER-Yordanka-Fandakova
+1903	1919	Innovative Sofia	Innovative Sofia	ORG	ORG-Innovative-Sofia
+1922	1934	Invest Sofia	Invest Sofia	ORG	ORG-Invest-Sofia
+1995	2000	София	София	LOC	GPE-Sofia

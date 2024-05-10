@@ -1,0 +1,100 @@
+11	16	Biden	Biden	PER	PER-Joe-Biden
+51	59	Kitajsko	Kitajska	LOC	GPE-China
+90	104	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+139	148	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+386	400	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+575	587	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+753	756	ZDA	ZDA	LOC	GPE-USA
+799	804	Trump	Trump	PER	PER-Donald-Trump
+978	990	Zlatko Šabič	Zlatko Šabič	PER	PER-Zlatko-Šabić
+1025	1051	fakulteti za družbene vede	fakulteta za družbene vede	ORG	ORG-Faculty-of-social-sciences
+1053	1056	FDV	FDV	ORG	ORG-Faculty-of-social-sciences
+1059	1064	Bidnu	Biden	PER	PER-Joe-Biden
+1170	1183	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+1239	1244	Bidnu	Biden	PER	PER-Joe-Biden
+1269	1274	Šabič	Šabič	PER	PER-Zlatko-Šabić
+1286	1300	Tineta Kračuna	Tine Kračun	PER	PER-Tine-Kračun
+1314	1344	Inštituta za strateške rešitve	Inštitut za strateške rešitve	ORG	ORG-Inštitut-za-strateške-rešitve
+1352	1357	Bidna	Biden	PER	PER-Joe-Biden
+1533	1540	Bidnove	Biden	PER	PER-Joe-Biden
+1756	1759	ZDA	ZDA	LOC	GPE-USA
+1929	1935	Kračun	Kračun	PER	PER-Tine-Kračun
+2032	2037	Trump	Trump	PER	PER-Donald-Trump
+2088	2092	Natu	Nato	ORG	ORG-NATO
+2152	2166	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+2277	2282	Unije	Unija	ORG	ORG-European-Union
+2310	2313	ZDA	ZDA	LOC	GPE-USA
+2322	2324	EU	EU	ORG	ORG-European-Union
+2420	2450	pariškega podnebnega sporazuma	pariški podnebni sporazum	PRO	PRO-Paris-Agreement
+2472	2477	Biden	Biden	PER	PER-Joe-Biden
+2563	2565	EU	EU	ORG	ORG-European-Union
+2604	2615	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+2871	2885	Boštjan Udovič	Boštjan Udovič	PER	PER-Boštjan-Udovič
+2921	2924	FDV	FDV	ORG	ORG-Faculty-of-social-sciences
+2927	2933	Kračun	Kračun	PER	PER-Tine-Kračun
+2954	2961	Bidnova	Biden	PER	PER-Joe-Biden
+3028	3030	EU	EU	ORG	ORG-European-Union
+3070	3078	Francijo	Francija	LOC	GPE-France
+3082	3089	Nemčijo	Nemčija	LOC	GPE-Germany
+3118	3124	Evropo	Evropa	LOC	LOC-Europe
+3147	3155	Trumpova	Trump	PER	PER-Donald-Trump
+3205	3212	srednje	srednja	LOC	LOC-Central-Europe
+3216	3230	vzhodne Evrope	vzhodna Evropa	LOC	LOC-Eastern-Europe
+3326	3329	ZDA	ZDA	LOC	GPE-USA
+3330	3332	EU	EU	ORG	ORG-European-Union
+3366	3368	EU	EU	ORG	ORG-European-Union
+3391	3407	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+3461	3470	Johnsonom	Johnson	PER	PER-Boris-Johnson
+3474	3481	Bidenom	Biden	PER	PER-Joe-Biden
+3500	3516	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+3606	3608	EU	EU	ORG	ORG-European-Union
+3617	3623	Kračun	Kračun	PER	PER-Tine-Kračun
+3626	3632	Udovič	Udovič	PER	PER-Boštjan-Udovič
+3690	3693	ZDA	ZDA	LOC	GPE-USA
+3835	3838	ZDA	ZDA	LOC	GPE-USA
+3898	3902	Nata	Nato	ORG	ORG-NATO
+3994	3997	ZDA	ZDA	LOC	GPE-USA
+4070	4074	Nata	NATO	ORG	ORG-NATO
+4245	4251	Kračun	Kračun	PER	PER-Tine-Kračun
+4338	4344	Rusije	Rusije	LOC	GPE-Russia
+4461	4465	Nato	Nato	ORG	ORG-NATO
+4515	4521	Trumpa	Trump	PER	PER-Donald-Trump
+4625	4631	Evropi	Evropa	LOC	LOC-Europe
+4642	4658	Istvana Hegedusa	Istvan Hegedus	PER	PER-Istvan-Hegedus
+4695	4719	Hungarian Europe Society	Hungarian Europe Society	ORG	ORG-Hungarian-Europe-Society
+4741	4746	Bidna	Biden	PER	PER-Joe-Biden
+5009	5019	Madžarskem	Madžarska	LOC	GPE-Hungary
+5023	5031	Poljskem	Poljska	LOC	GPE-Poland
+5047	5054	Hegedus	Hegedus	PER	PER-Istvan-Hegedus
+5122	5127	Biden	Biden	PER	PER-Joe-Biden
+5421	5435	vzhodne Evrope	vzhodna Evrope	LOC	LOC-Eastern-Europe
+5511	5514	ZDA	ZDA	LOC	GPE-USA
+5549	5557	Kitajsko	Kitajska	LOC	GPE-China
+5561	5567	Rusijo	Rusija	LOC	GPE-Russia
+5583	5588	Biden	Biden	PER	PER-Joe-Biden
+5615	5621	Rusijo	Rusija	LOC	GPE-Russia
+5652	5655	ZDA	ZDA	LOC	GPE-USA
+5743	5752	Bidnovega	Biden	PER	PER-Joe-Biden
+5868	5875	Hegedus	Hegedus	PER	PER-Istvan-Hegedus
+5898	5906	Kitajsko	Kitajska	LOC	GPE-China
+5908	5913	Šabič	Šabič	PER	PER-Zlatko-Šabić
+5947	5955	Bidnovih	Biden	PER	PER-Joe-Biden
+5973	5981	Kitajsko	Kitajska	LOC	GPE-China
+6013	6019	Rusija	Rusija	LOC	GPE-Russia
+6023	6029	Indija	Indija	LOC	GPE-India
+6167	6172	Biden	Biden	PER	PER-Joe-Biden
+6179	6182	ZDA	ZDA	LOC	GPE-USA
+6321	6331	Washington	Washington	LOC	GPE-WashingtonDC
+6335	6341	Peking	Peking	LOC	GPE-Beijing
+6348	6353	Šabič	Šabič	PER	PER-Zlatko-Šabić
+6444	6447	ZDA	ZDA	LOC	GPE-USA
+6451	6459	Kitajska	Kitajska	LOC	GPE-China
+6543	6546	ZDA	ZDA	LOC	GPE-USA
+6684	6691	Tajvana	Tajvan	LOC	GPE-Taiwan
+6699	6702	ZDA	ZDA	LOC	GPE-USA
+6765	6768	ZDA	ZDA	LOC	GPE-USA
+6799	6809	Washington	Washington	LOC	GPE-WashingtonDC
+6854	6862	Kitajske	Kitajska	LOC	GPE-China
+7026	7029	ZDA	ZDA	LOC	GPE-USA
+7044	7052	Kitajsko	Kitajska	LOC	GPE-China
+7061	7066	Šabič	Šabič	PER	PER-Zlatko-Šabić

@@ -1,0 +1,40 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+22	36	Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+61	70	Sinn Féin	Sinn Féin	ORG	ORG-Sinn-Fein
+89	97	Británie	Británie	LOC	GPE-Great-Britain
+100	113	Evropské unie	Evropská unie	ORG	ORG-European-Union
+153	162	Sinn Féin	Sinn Féin	ORG	ORG-Sinn-Fein
+169	183	Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+185	205	Mary Lou McDonaldová	Mary Lou McDonaldová	PER	PER-Mary-Lou-McDonald
+251	258	Londýně	Londýn	LOC	GPE-London
+260	286	Velkopáteční mírová dohoda	Velkopáteční mírová dohoda	PRO	PRO-GFA-Good-Friday-Agreement
+363	377	Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+381	387	brexit	brexit	EVT	EVT-Brexit
+441	447	brexit	brexit	EVT	EVT-Brexit
+556	561	Irska	Irsko	LOC	GPE-Ireland
+600	607	brexitu	brexit	EVT	EVT-Brexit
+647	655	Británie	Británie	LOC	GPE-Great-Britain
+658	660	EU	EU	ORG	ORG-European-Union
+679	686	brexitu	brexit	EVT	EVT-Brexit
+813	821	Británie	Británie	LOC	GPE-Great-Britain
+824	826	EU	EU	ORG	ORG-European-Union
+897	914	Irskou republikou	Irská republika	LOC	GPE-Ireland
+937	939	EU	EU	ORG	ORG-European-Union
+943	958	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+983	1003	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+1004	1008	Unii	Uniie	ORG	ORG-European-Union
+1131	1145	Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+1180	1187	brexitu	brexit	EVT	EVT-Brexit
+1198	1217	Velkopáteční dohodu	Velkopáteční dohoda	PRO	PRO-GFA-Good-Friday-Agreement
+1232	1243	McDonaldová	McDonaldová	PER	PER-Mary-Lou-McDonald
+1310	1329	Velkopáteční dohody	Velkopáteční dohoda	PRO	PRO-GFA-Good-Friday-Agreement
+1343	1357	Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+1395	1404	Sinn Féin	Sinn Féin	ORG	ORG-Sinn-Fein
+1421	1453	Demokratická unionistická strana	Demokratická unionistická strana	ORG	ORG-DUP-Democratic-Unionist-Party
+1455	1458	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+1593	1604	McDonaldová	McDonaldová	PER	PER-Mary-Lou-McDonald
+1657	1666	Sinn Féin	Sinn Féin	ORG	ORG-Sinn-Fein
+1683	1688	Irsku	Irsko	LOC	GPE-Ireland
+1691	1705	Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+1733	1748	Garrym Adamsovi	Garry Adams	PER	PER-Gerry-Adams
+1835	1849	Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland

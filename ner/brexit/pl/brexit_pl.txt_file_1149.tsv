@@ -1,0 +1,8 @@
+51	59	Londynie	Londyn	LOC	GPE-London
+71	79	Brukselą	Brukselą	LOC	GPE-Brussles
+102	119	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+321	328	Wyspach	Wyspy	LOC	GPE-Great-Britain
+339	341	UE	UE	ORG	ORG-European-Union
+423	438	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1042	1056	Rzeczpospolitą	Rzeczpospolita	PRO	PRO-Rzeczpospolita
+1088	1095	brexitu	Brexit	EVT	EVT-Brexit

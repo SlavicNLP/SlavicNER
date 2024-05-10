@@ -1,0 +1,105 @@
+0	7	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+10	20	Washington	Washington	LOC	GPE-WashingtonDC
+46	48	EU	EU	ORG	ORG-European-Union
+52	55	ZDA	ZDA	LOC	GPE-USA
+68	85	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+86	105	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+122	131	Beli hiši	Bela hiša	LOC	LOC-White-House
+164	180	Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+184	194	Washington	Washington	LOC	GPE-WashingtonDC
+322	333	Junckerjevo	Juncker	PER	PER-Jean-Claude-Juncker
+399	406	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+416	426	Washington	Washington	LOC	GPE-WashingtonDC
+454	459	Trump	Trump	PER	PER-Donald-Trump
+460	462	EU	EU	ORG	ORG-European-Union
+497	500	ZDA	ZDA	LOC	GPE-USA
+631	634	ZDA	ZDA	LOC	GPE-USA
+638	644	Evropa	Evropa	LOC	LOC-Europe
+664	666	EU	EU	ORG	ORG-European-Union
+682	689	Trumpov	Trump	PER	PER-Donald-Trump
+739	741	EU	EU	ORG	ORG-European-Union
+745	748	ZDA	ZDA	LOC	GPE-USA
+806	812	Evropa	Evropa	LOC	LOC-Europe
+1088	1090	EU	EU	ORG	ORG-European-Union
+1148	1165	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+1166	1180	Maroš Šefčovič	Maroš Šefčovič	PER	PER-Maros-Sefcovic
+1204	1214	EUobserver	EUobserver	PRO	PRO-EUobserver
+1232	1241	Economist	Economist	PRO	PRO-The-Economist
+1245	1253	Trumpovo	Trump	PER	PER-Donald-Trump
+1338	1348	Evropejcev	Evropejci	PER	LOC-Europe
+1351	1358	Ameriko	Amerika	LOC	GPE-USA
+1406	1415	Atlantika	Atlantik	LOC	LOC-Atlantic-Ocean
+1464	1475	Washingtonu	Washington	LOC	GPE-WashingtonDC
+1652	1665	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+1667	1669	EU	EU	ORG	ORG-European-Union
+1708	1715	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+1728	1738	Washington	Washington	LOC	GPE-WashingtonDC
+1782	1791	Belo hišo	Bela hiša	LOC	LOC-White-House
+1806	1812	Trumpa	Trump	PER	PER-Donald-Trump
+1878	1885	Bruslju	Bruselj	LOC	GPE-Brussles
+2038	2045	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+2138	2141	ZDA	ZDA	LOC	GPE-USA
+2206	2208	EU	EU	ORG	ORG-European-Union
+2245	2277	Svetovno trgovinsko organizacijo	Svetovna trgovinska organizacija	ORG	ORG-WTO-World-Trade-Organization
+2279	2282	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+2408	2423	Harley Davidson	Harley Davidson	PRO	PRO-Harley-Davidson
+2647	2664	Cecilia Malmström	Cecilia Malmström	PER	PER-Cecilia-Malmstroem
+2672	2681	Junckerja	Juncker	PER	PER-Jean-Claude-Juncker
+2695	2706	Washingtonu	Washington	LOC	GPE-WashingtonDC
+2774	2776	EU	EU	ORG	ORG-European-Union
+2854	2857	ZDA	ZDA	LOC	GPE-USA
+2901	2908	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+2912	2924	Malmströmova	Malmström	PER	PER-Cecilia-Malmstroem
+2934	2945	Washingtonu	Washington	LOC	GPE-WashingtonDC
+3035	3037	EU	EU	ORG	ORG-European-Union
+3039	3042	ZDA	ZDA	LOC	GPE-USA
+3044	3052	Japonska	Japonska	LOC	GPE-Japan
+3054	3062	Kitajska	Kitajska	LOC	GPE-China
+3064	3070	Mehika	Mehika	LOC	GPE-Mexico
+3074	3086	Južna Koreja	Južna Koreja	LOC	GPE-South-Korea
+3140	3164	majskem vrhu EU v Sofiji	majski vrh EU v Sofiji	EVT	EVT-EU-Western-Balkans-summit-in-Sofia
+3361	3367	Evropo	Evropa	LOC	LOC-Europe
+3393	3399	Rusija	Rusija	LOC	GPE-Russia
+3403	3449	reformi Svetovne trgovinske organizacije (WTO)	reforma Svetovne trgovinske organizacije (WTO)	PRO	ORG-World-Trade-Organization
+3499	3501	EU	EU	ORG	ORG-European-Union
+3553	3556	ZDA	ZDA	LOC	GPE-USA
+3683	3690	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+3701	3706	Trump	Trump	PER	PER-Donald-Trump
+3709	3719	Washington	Washington	LOC	GPE-WashingtonDC
+3801	3817	vrhu G7 v Kanadi	vrh G7 v Kanadi	EVT	EVT-44th-G7-summit
+3855	3861	Trumpu	Trump	PER	PER-Donald-Trump
+3879	3881	EU	EU	ORG	ORG-European-Union
+3973	3983	Evropejcev	Evropejci	PER	LOC-Europe
+3992	4000	Trumpovo	Trump	PER	PER-Donald-Trump
+4020	4035	Najprej Amerika	Najprej Amerika	PRO	PRO-America-First
+4049	4051	EU	EU	ORG	ORG-European-Union
+4102	4104	EU	EU	ORG	ORG-European-Union
+4108	4111	ZDA	ZDA	LOC	GPE-USA
+4113	4118	Trump	Trump	PER	PER-Donald-Trump
+4145	4149	Nato	Nato	ORG	ORG-NATO
+4295	4302	Nemčije	Nemčija	LOC	GPE-Germany
+4352	4365	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+4407	4409	EU	EU	ORG	ORG-European-Union
+4454	4459	Trump	Trump	PER	PER-Donald-Trump
+4581	4613	mednarodnemu podnebnemu dogovoru	mednarodni podnebni dogovor	PRO	PRO-Paris-Agreement
+4617	4646	iranskemu jedrskemu sporazumu	iranski jedrski sporazum	PRO	PRO-Iran-nuclear-deal
+4649	4651	EU	EU	ORG	ORG-European-Union
+4676	4686	Trumpovega	Trump	PER	PER-Donald-Trump
+4693	4708	Najprej Amerika	Najprej Amerika	PRO	PRO-America-First
+4902	4909	Pekingu	Peking	LOC	GPE-Beijing
+4926	4928	EU	EU	ORG	ORG-European-Union
+4932	4940	Kitajska	Kitajska	LOC	GPE-China
+5025	5030	Tokiu	Tokio	LOC	GPE-Tokyo
+5041	5043	EU	EU	ORG	ORG-European-Union
+5047	5055	Japonska	Japonska	LOC	GPE-Japan
+5141	5147	Googlu	Google	ORG	ORG-Google
+5163	5201	evropskih pravil za varstvo konkurence	evropska pravila za varstvo konkurence	PRO	PRO-European-Union-competition-law
+5219	5232	Junckerjevega	Juncker	PER	PER-Jean-Claude-Juncker
+5242	5253	Washingtonu	Washington	LOC	GPE-WashingtonDC
+5261	5268	Berlinu	Berlin	LOC	GPE-Berlin
+5336	5350	Peter Altmaier	Peter Altmaier	PER	PER-Peter-Altmaier
+5449	5456	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+5465	5472	Trumpom	Trump	PER	PER-Donald-Trump
+5547	5602	centru za strateške in mednarodne študije v Washingtonu	center za strateške in mednarodne študije v Washingtonu	ORG	ORG-Center-for-Strategic-and-International-Studies
+5623	5625	EU	EU	ORG	ORG-European-Union
+5629	5632	ZDA	ZDA	LOC	GPE-USA

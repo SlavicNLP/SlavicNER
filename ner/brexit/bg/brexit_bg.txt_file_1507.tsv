@@ -1,0 +1,15 @@
+0	3	AFP	AFP	ORG	ORG-France-Presse
+75	81	Лондон	Лондон	LOC	GPE-London
+198	212	Великобритания	Великобритания	LOC	GPE-Great-Britain
+216	218	ЕС	ЕС	ORG	ORG-European-Union
+228	231	AFP	AFP	ORG	ORG-France-Presse
+279	286	Брекзит	Брекзит	EVT	EVT-Brexit
+287	300	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+504	519	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+566	595	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+620	647	Информационна агенция ФОКУС	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+664	691	Информационна агенция ФОКУС	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+762	808	Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+923	950	Информационна агенция ФОКУС	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+1107	1134	Информационна агенция ФОКУС	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+1151	1169	Република България	Република България	LOC	GPE-Bulgaria

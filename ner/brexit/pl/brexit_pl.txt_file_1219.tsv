@@ -1,0 +1,33 @@
+0	7	Glasgow	Glasgow	LOC	GPE-Glasgow
+61	68	Szkocji	Szkocja	LOC	GPE-Scotland
+164	181	parku Kelvingrove	Park Kelvingrove	LOC	LOC-Kelvingrove-Park
+191	204	Glasgow Green	Glasgow Green	LOC	LOC-Glasgow-Green
+263	270	Szkocji	Szkocja	LOC	GPE-Scotland
+426	429	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+439	465	Szkockiej Partii Narodowej	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+467	470	SNP	SNP	ORG	ORG-Scottish-National-Party
+472	483	Keith Brown	Keith Brown	PER	PER-Keith-Brown
+553	560	Szkocji	Szkocja	LOC	GPE-Scotland
+561	576	Nicoli Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+617	624	Szkocji	Szkocja	LOC	GPE-Scotland
+862	869	Szkocji	Szkocja	LOC	GPE-Scotland
+872	895	Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+940	947	Glasgow	Glasgow	LOC	GPE-Glasgow
+1001	1004	BBC	BBC	PRO	PRO-BBC
+1074	1081	Brexitu	Brexit	EVT	EVT-Brexit
+1090	1098	Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+1190	1197	Szkotów	Szkoci	PER	GPE-Scotland
+1216	1233	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1236	1253	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1416	1426	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+1429	1434	Brown	Brown	PER	PER-Gordon-Brown
+1553	1559	Brexit	Brexit	EVT	EVT-Brexit
+1783	1793	Bobby Watt	Bobby Watt	PER	PER-Bobby-Watt
+1927	1931	Watt	Watt	PER	PER-Bobby-Watt
+1950	1953	SNP	SNP	ORG	ORG-Scottish-National-Party
+2003	2017	Elaine Thomson	Elaine Thomson	PER	PER-Elaine-Thomson
+2205	2208	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+2268	2274	YouGov	YouGov	ORG	ORG-YouGov
+2295	2302	Szkotów	Szkoci	PER	GPE-Scotland
+2360	2367	Szkocji	Szkocja	LOC	GPE-Scotland
+2379	2396	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

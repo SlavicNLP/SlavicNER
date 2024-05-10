@@ -1,0 +1,24 @@
+48	54	Grecji	Grecja	LOC	GPE-Greece
+142	155	koronawirusem	koronawirus	EVT	EVT-Covid-19
+443	450	Reuters	Reuters	ORG	ORG-Reuters
+579	596	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+633	645	koronawirusa	koronawirus	EVT	EVT-Covid-19
+704	710	Grecji	Grecja	LOC	GPE-Greece
+754	762	COVID-19	COVID-19	EVT	EVT-Covid-19
+848	860	koronawirusa	koronawirus	EVT	EVT-Covid-19
+894	902	Irlandii	Irlandia	LOC	GPE-Ireland
+1141	1149	Irlandii	Irlandia	LOC	GPE-Ireland
+1163	1170	Francji	Francja	LOC	GPE-France
+1230	1243	koronawirusem	koronawirus	EVT	EVT-Covid-19
+1292	1300	COVID-19	COVID-19	EVT	EVT-Covid-19
+1352	1358	Paryżu	Paryż	LOC	GPE-Paris
+1581	1584	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1636	1644	COVID-19	COVID-19	EVT	EVT-Covid-19
+1745	1760	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+1927	1935	Włoszech	Włochy	LOC	GPE-Italy
+2051	2064	koronawirusem	koronawirus	EVT	EVT-Covid-19
+2448	2456	Norwegia	Norwegia	LOC	GPE-Norway
+2988	3000	Erna Solberg	Erna Solberg	PER	PER-Erna-Solberg
+3005	3011	Turcji	Turcja	LOC	GPE-Turkey
+3038	3050	koronawirusa	koronawirus	EVT	EVT-Covid-19
+3286	3292	Turcji	Turcja	LOC	GPE-Turkey

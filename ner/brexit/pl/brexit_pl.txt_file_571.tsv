@@ -1,0 +1,43 @@
+0	3	Kuź	Kuź	PER	PER-Michał-Kuź
+271	285	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+411	414	USA	USA	LOC	GPE-USA
+873	879	Trumpa	Trump	PER	PER-Donald-Trump
+927	930	Kuź	Kuź	PER	PER-Michał-Kuź
+1021	1029	Trumpowi	Trump	PER	PER-Donald-Trump
+1075	1080	Rosją	Rosja	LOC	GPE-Russia
+1420	1427	Brexitu	Brexit	EVT	EVT-Brexit
+1451	1468	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1623	1628	Kuzia	Kuź	PER	PER-Michał-Kuź
+1629	1644	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1688	1703	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+1738	1759	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1892	1895	Kuź	Kuź	PER	PER-Michał-Kuź
+1917	1932	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+2120	2137	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2277	2292	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2335	2338	Kuź	Kuź	PER	PER-Michał-Kuź
+2476	2480	Unii	Unia	ORG	ORG-European-Union
+2487	2502	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2580	2586	Europa	Europa	LOC	LOC-Europe
+2590	2598	Brexicie	Brexit	EVT	EVT-Brexit
+2784	2790	Europę	Europa	LOC	LOC-Europe
+2812	2815	Kuź	Kuź	PER	PER-Michał-Kuź
+2817	2827	Korea Płn.	Korea Płn.	LOC	GPE-North-Korea
+2830	2837	Ukraina	Ukraina	LOC	GPE-Ukraine
+2909	2919	Korei Płn.	Korea Płn.	LOC	GPE-North-Korea
+2922	2929	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2945	2950	Korei	Korea	LOC	GPE-North-Korea
+2967	2972	Chiny	Chiny	LOC	GPE-China
+2978	2995	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+3014	3029	Kim Dzong Unowi	Kim Dzong Un	PER	PER-Kim-Dzong-Un
+3528	3533	Seulu	Seul	LOC	GPE-Seoul
+3685	3700	Korei Północnej	Korea Północna	LOC	GPE-North-Korea
+3908	3915	Ukrainę	Ukraina	LOC	GPE-Ukraine
+3971	3976	Kuzia	Kuź	PER	PER-Michał-Kuź
+4133	4137	Azji	Azja	LOC	LOC-Asia
+4149	4154	Korei	Korea	LOC	GPE-North-Korea
+4171	4176	Rosję	Rosja	LOC	GPE-Russia
+4220	4227	Ukrainę	Ukraina	LOC	GPE-Ukraine
+4282	4286	NATO	NATO	ORG	ORG-NATO
+4410	4415	Rosji	Rosja	LOC	GPE-Russia
+4467	4472	Rosja	Rosja	LOC	GPE-Russia

@@ -1,0 +1,38 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+27	30	ZDA	ZDA	LOC	GPE-USA
+136	139	ZDA	ZDA	LOC	GPE-USA
+159	183	univerze Johnsa Hopkinsa	Univerza John Hopkins	ORG	ORG-John-Hopkins-University
+232	241	covida-19	covid-19	EVT	EVT-Covid-19
+446	451	Trump	Trump	PER	PER-Donald-Trump
+453	475	Ministrstvo za zdravje	Ministrstvo za zdravje	ORG	ORG-Department-of-Health
+453	479	Ministrstvo za zdravje ZDA	Ministrstvo za zdravje ZDA	ORG	ORG-Department-of-Health
+528	537	Belo hišo	Bela hiša	ORG	ORG-Government-of-USA
+576	620	ameriškega nacionalnega inštituta za zdravje	Ameriški nacionalni inštitut za zdravje	ORG	ORG-National-Institute-of-Health-USA
+621	634	Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+686	691	Trump	Trump	PER	PER-Donald-Trump
+774	782	covid-19	covid-19	EVT	EVT-Covid-19
+833	841	Faucijem	Fauci	PER	PER-Anthony-Fauci
+1042	1051	covidu-19	covid-19	EVT	EVT-Covid-19
+1054	1059	Trump	Trump	PER	PER-Donald-Trump
+1075	1080	Trump	Trump	PER	PER-Donald-Trump
+1131	1141	Američanom	Američani	PER	GPE-USA
+1306	1322	hidroksiklorokin	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+1414	1426	Južna Dakota	Južna Dakota	LOC	GPE-South-Dakota-US-State
+1505	1514	covidu-19	covid-19	EVT	EVT-Covid-19
+1532	1550	Univerza Minnesote	Univerza v Minnesoti	ORG	ORG-University-of-Minessota
+1620	1628	covid-19	covid-19	EVT	EVT-Covid-19
+1727	1735	New York	New York	LOC	GPE-New-York
+1961	1973	Andrew Cuomo	Andrew Cuomo	PER	PER-Andrew-Cuomo
+2003	2013	covidom-19	covid-19	EVT	EVT-Covid-19
+2190	2201	Newyorčanov	Newyorčani	PER	GPE-New-York
+2308	2316	New York	New York	LOC	GPE-New-York
+2440	2448	New York	New York	LOC	GPE-New-York
+2508	2520	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2656	2665	Minnesoti	Minnesota	LOC	GPE-Minnesota
+2669	2678	Louisiani	Louisiana	LOC	GPE-Louisiana
+2764	2771	Arizoni	Arizona	LOC	GPE-Arizona
+2919	2922	ZDA	ZDA	LOC	GPE-USA
+2971	2980	Michigana	Michigan	LOC	GPE-Michigan
+2981	2997	Gretchen Whitmer	Gretchen Whitmer	PER	PER-Gretchen-Whitmer
+3119	3128	Michiganu	Michigan	LOC	GPE-Michigan
+3146	3155	covida-19	covid-19	EVT	EVT-Covid-19

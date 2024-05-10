@@ -1,0 +1,51 @@
+24	30	России	Россия	LOC	GPE-Russia
+63	72	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+81	87	России	Россия	LOC	GPE-Russia
+153	179	вторжения России в Украину	вторжение России в Украину	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+304	344	Международного энергетического агентства	Международное энергетическое агентство	ORG	ORG-International-Energy-Agency
+393	399	Россия	Россия	LOC	GPE-Russia
+532	535	МЭА	МЭА	ORG	ORG-International-Energy-Agency
+549	555	России	Россия	LOC	GPE-Russia
+598	600	ЕС	ЕС	ORG	ORG-European-Union
+631	633	РФ	РФ	LOC	GPE-Russia
+693	698	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+701	714	TotalEnergies	TotalEnergies	ORG	ORG-TotalEnergies
+789	793	Азии	Азия	LOC	LOC-Asia
+806	811	Индии	Индия	LOC	GPE-India
+814	819	Китае	Китай	LOC	GPE-China
+821	827	Москва	Москва	LOC	GPE-Moscow
+1104	1110	России	Россия	LOC	GPE-Russia
+1153	1156	МЭА	МЭА	ORG	ORG-International-Energy-Agency
+1310	1312	ЕС	ЕС	ORG	ORG-European-Union
+1399	1407	Роснефть	Роснефть	ORG	ORG-Rosneft
+1551	1563	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+1564	1584	Урсула фон дер Ляйен	Урсула фон дер Ляйен	PER	PER-Ursula-von-der-Leyen
+1626	1628	РФ	РФ	LOC	GPE-Russia
+1645	1660	Сбербанк России	Сбербанк России	ORG	ORG-Sberbank-of-Russia
+1720	1725	SWIFT	SWIFT	ORG	ORG-SWIFT
+1740	1742	ЕС	ЕС	ORG	ORG-European-Union
+1811	1824	Фон дер Ляйен	Фон дер Ляйен	PER	PER-Ursula-von-der-Leyen
+1860	1862	ЕС	ЕС	LOC	ORG-European-Union
+1886	1888	ЕС	ЕС	LOC	ORG-European-Union
+1962	1985	The Wall Street Journal	The Wall Street Journal	PRO	PRO-Wall-Street-Journal
+1988	1990	ЕС	ЕС	ORG	ORG-European-Union
+2026	2033	Венгрии	Венгрия	LOC	GPE-Hungary
+2036	2044	Словакии	Словакия	LOC	GPE-Slovakia
+2183	2185	ЕС	ЕС	ORG	ORG-European-Union
+2196	2204	Германия	Германия	LOC	GPE-Germany
+2206	2213	Австрия	Австрия	LOC	GPE-Austria
+2216	2223	Венгрия	Венгрия	LOC	GPE-Hungary
+2274	2277	ФРГ	ФРГ	LOC	GPE-Germany
+2278	2290	Роберт Хабек	Роберт Хабек	PER	PER-Robert-Habeck
+2351	2358	Австрии	Австрия	LOC	GPE-Austria
+2359	2376	Леоноре Гевесслер	Леоноре Гевесслер	PER	PER-Leonore-Gewessler
+2436	2438	ЕС	ЕС	ORG	ORG-European-Union
+2527	2533	России	Россия	LOC	GPE-Russia
+2560	2569	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+2627	2629	ЕС	ЕС	ORG	ORG-European-Union
+2708	2714	России	Россия	LOC	GPE-Russia
+2733	2740	Украину	Украина	LOC	GPE-Ukraine
+2791	2798	Венгрии	Венгрия	LOC	GPE-Hungary
+2959	2972	фон дер Ляйен	фон дер Ляйен	PER	PER-Ursula-von-der-Leyen
+3004	3011	Венгрии	Венгрия	LOC	GPE-Hungary
+3012	3028	Виктором Орбаном	Виктор Орбан	PER	PER-Viktor-Orban

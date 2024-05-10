@@ -1,0 +1,20 @@
+0	5	Фараж	Фараж	PER	PER-Nigel-Farage
+20	26	Brexit	Brexit	EVT	EVT-Brexit
+77	91	Великобритания	Великобритания	LOC	GPE-Great-Britain
+117	123	Brexit	Brexit	EVT	EVT-Brexit
+129	131	ЕС	ЕС	ORG	ORG-European-Union
+219	240	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+241	254	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+277	279	ЕС	ЕС	ORG	ORG-European-Union
+283	290	Брекзит	Брекзит	EVT	EVT-Brexit
+291	303	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+313	320	Reuters	Reuters	ORG	ORG-Reuters
+322	327	Фараж	Фараж	PER	PER-Nigel-Farage
+371	385	Великобритания	Великобритания	LOC	GPE-Great-Britain
+434	436	ЕС	ЕС	ORG	ORG-European-Union
+490	510	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+552	554	ЕС	ЕС	ORG	ORG-European-Union
+571	603	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+624	630	Brexit	Brexit	EVT	EVT-Brexit
+778	781	СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+792	797	Фараж	Фараж	PER	PER-Nigel-Farage

@@ -1,0 +1,14 @@
+0	14	Americké volby	Americké volby	EVT	EVT-2020-United-States-Presidential-Election
+30	35	Trump	Trump	PER	PER-Donald-Trump
+60	65	Biden	Biden	PER	PER-Joe-Biden
+116	128	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+282	293	Joea Bidena	Joe Biden	PER	PER-Joe-Biden
+319	330	Bílého domu	Bílý dům	LOC	LOC-White-House
+428	436	Trumpovy	Trump	PER	PER-Donald-Trump
+481	484	ČTK	ČTK	ORG	ORG-CTK
+486	498	Jiří Charvát	Jiří Charvát	PER	PER-Jiri-Beran
+500	505	Trump	Trump	PER	PER-Donald-Trump
+537	547	Bílém domě	Bílý dům	LOC	LOC-White-House
+640	647	Bidenem	Biden	PER	PER-Joe-Biden
+771	793	americký Nejvyšší soud	americký Nejvyšší soud	ORG	ORG-Supreme-Court-of-the-United-States
+852	857	Trump	Trump	PER	PER-Donald-Trump

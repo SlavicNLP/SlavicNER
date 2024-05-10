@@ -1,0 +1,20 @@
+32	42	ярославцев	ярославцы	PER	GPE-Yaroslavl
+62	68	ковида	ковид	EVT	EVT-Covid-19
+94	104	ярославцев	ярославцы	PER	GPE-Yaroslavl
+124	130	ковида	ковид	EVT	EVT-Covid-19
+154	173	Ярославской области	Ярославская область	LOC	GPE-Yaroslavl
+189	212	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+388	394	ковида	ковид	EVT	EVT-Covid-19
+656	675	Ярославской области	Ярославская область	LOC	GPE-Yaroslavl
+836	856	«Областная фармация»	Областная фармация	ORG	ORG-Regional-pharmacy
+1144	1163	Ярославской области	Ярославская область	LOC	GPE-Yaroslavl
+1366	1385	Ярославскую область	Ярославская область	LOC	GPE-Yaroslavl
+1661	1674	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1779	1799	Минэкономразвития РФ	Минэкономразвитие РФ	ORG	ORG-Minestry-of-Economic-Development-Russia
+1811	1822	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+1851	1859	«Р-Фарм»	Р-Фарм	ORG	PRO-R-Farm
+1862	1877	Ростове Великом	Ростов Великий	LOC	GPE-Rostov-the-Great
+1935	1954	Ярославской области	Ярославская область	LOC	GPE-Yaroslavl
+1984	2007	коронавирусную инфекцию	коронавирусная инфекция	EVT	EVT-Covid-19
+2082	2090	Росстата	Росстат	ORG	ORG-Federal-State-Statistics-Service-Russia
+2252	2264	коронавирусе	коронавирус	EVT	EVT-Covid-19

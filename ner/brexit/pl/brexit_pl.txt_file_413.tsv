@@ -1,0 +1,53 @@
+0	3	EBI	EBI	ORG	ORG-EBI
+23	30	Brexitu	Brexit	EVT	EVT-Brexit
+49	55	Polski	Polska	LOC	GPE-Poland
+132	135	EBI	EBI	ORG	ORG-EBI
+138	146	Brukseli	Bruksela	LOC	GPE-Brussles
+199	205	Polsce	Polska	LOC	GPE-Poland
+252	254	UE	UE	ORG	ORG-European-Union
+258	266	Włoszech	Włochy	LOC	GPE-Italy
+285	294	Hiszpanii	Hiszpania	LOC	GPE-Spain
+313	320	Francji	Francja	LOC	GPE-France
+339	348	Niemczech	Niemcy	LOC	GPE-Germany
+401	407	Polski	Polska	LOC	GPE-Poland
+484	490	Polska	Polska	LOC	GPE-Poland
+548	550	UE	UE	ORG	ORG-European-Union
+555	561	Cyprem	Cypr	LOC	GPE-Cyprus
+576	582	Grecją	Grecja	LOC	GPE-Greece
+598	607	Chorwacją	Chorwacja	LOC	GPE-Croatia
+684	687	EBI	EBI	ORG	ORG-EBI
+945	947	UE	UE	ORG	ORG-European-Union
+982	988	Turcją	Turcja	LOC	GPE-Turkey
+1018	1024	Turcji	Turcja	LOC	GPE-Turkey
+1153	1176	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1189	1191	UE	UE	ORG	ORG-European-Union
+1273	1276	EBI	EBI	ORG	ORG-EBI
+1277	1289	Werner Hoyer	Werner Hoyer	PER	PER-Werner-Hoyer
+1298	1313	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1360	1363	EBI	EBI	ORG	ORG-EBI
+1376	1378	UE	UE	ORG	ORG-European-Union
+1456	1459	EBI	EBI	ORG	ORG-EBI
+1463	1470	Wyspach	Wyspy	LOC	GPE-Great-Britain
+1579	1582	EBI	EBI	ORG	ORG-EBI
+1768	1771	EBI	EBI	ORG	ORG-EBI
+2063	2068	Hoyer	Hoyer	PER	PER-Werner-Hoyer
+2070	2073	EBI	EBI	ORG	ORG-EBI
+2099	2143	Europejski Fundusz Inwestycji Strategicznych	Europejski Fundusz Inwestycji Strategicznych	ORG	ORG-EFSI-European-Fund-for-Strategic-Investments
+2145	2149	EFIS	EFIS	ORG	ORG-EFSI-European-Fund-for-Strategic-Investments
+2196	2210	planu Junckera	Plan Junckera	PRO	PRO-Juncker-Plan
+2218	2238	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+2293	2295	UE	UE	ORG	ORG-European-Union
+2314	2318	EFIS	EFIS	ORG	ORG-EFSI-European-Fund-for-Strategic-Investments
+2372	2379	Fundusz	Fundusz	ORG	ORG-EFSI-European-Fund-for-Strategic-Investments
+2541	2554	plan Junckera	Plan Junckera	PRO	PRO-Juncker-Plan
+2749	2754	Hoyer	Hoyer	PER	PER-Werner-Hoyer
+2756	2759	EBI	EBI	ORG	ORG-EBI
+2826	2828	UE	UE	ORG	ORG-European-Union
+2829	2833	bank	Bank	ORG	ORG-Bank-of-England
+2947	2949	UE	UE	ORG	ORG-European-Union
+3019	3022	EBI	EBI	ORG	ORG-EBI
+3150	3155	PESCO	PESCO	PRO	PRO-PESCO
+3530	3535	Hoyer	Hoyer	PER	PER-Werner-Hoyer
+3537	3540	EBI	EBI	ORG	ORG-EBI
+3557	3574	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3659	3663	Bank	Bank	ORG	ORG-EBI

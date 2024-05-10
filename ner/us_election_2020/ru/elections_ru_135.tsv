@@ -1,0 +1,69 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+15	21	Трампа	Трамп	PER	PER-Donald-Trump
+39	42	США	США	LOC	GPE-USA
+94	96	AP	AP	PRO	PRO-Assosiated-Press
+157	172	округа Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+205	220	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+392	399	Вермонт	Вермонт	LOC	GPE-Vermont
+440	443	США	США	LOC	GPE-USA
+444	455	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+474	487	Камале Харрис	Камала Харрис	PER	PER-Kamala-Harris
+503	511	Fox News	Fox News	PRO	PRO-Fox-News
+513	524	Конституция	Конституция	PRO	PRO-The-USA-Constitution
+700	706	Байден	Байден	PER	PER-Joe-Biden
+933	943	демократов	демократы	ORG	ORG-Democratic-Party-USA
+950	963	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+1016	1023	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+1368	1377	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1431	1440	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+1498	1501	США	США	LOC	GPE-USA
+1634	1642	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+1654	1661	Байдена	Байден	PER	PER-Joe-Biden
+1705	1711	Невады	Невада	LOC	GPE-Nevada
+1717	1739	Республиканская партия	Республиканская партия	ORG	ORG-Republican-Party-USA
+1757	1764	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+1795	1802	Байдену	Байден	PER	PER-Joe-Biden
+1806	1812	Байден	Байден	PER	PER-Joe-Biden
+1821	1827	Трампа	Трамп	PER	PER-Donald-Trump
+1922	1929	Байдена	Байден	PER	PER-Joe-Biden
+1945	1951	Трампа	Трамп	PER	PER-Donald-Trump
+2015	2021	Байден	Байден	PER	PER-Joe-Biden
+2118	2125	Аризоны	Аризона	LOC	GPE-Arizona
+2127	2135	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+2138	2150	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+2154	2160	Трампа	Трамп	PER	PER-Donald-Trump
+2223	2230	Байдену	Байден	PER	PER-Joe-Biden
+2255	2261	Трампу	Трамп	PER	PER-Donald-Trump
+2304	2309	Трамп	Трамп	PER	PER-Donald-Trump
+2364	2371	Байдена	Байден	PER	PER-Joe-Biden
+2400	2403	США	США	LOC	GPE-USA
+2439	2445	Байден	Байден	PER	PER-Joe-Biden
+2473	2479	Трампа	Трамп	PER	PER-Donald-Trump
+2487	2492	Трамп	Трамп	PER	PER-Donald-Trump
+2560	2567	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+2608	2618	Калифорнии	Калифорния	LOC	GPE-California
+2620	2627	Орегоны	Орегон	LOC	GPE-Oregon
+2630	2637	Гавайев	Гавайи	LOC	GPE-Hawaii
+2671	2678	Байдена	Байден	PER	PER-Joe-Biden
+2757	2763	Байден	Байден	PER	PER-Joe-Biden
+2846	2868	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+2971	2993	выборах президента США	выборах президента США	EVT	EVT-2020-United-States-Presidential-Election
+3002	3008	Байден	Байден	PER	PER-Joe-Biden
+3078	3084	Гавайи	Гавайи	LOC	GPE-Hawaii
+3092	3098	Байден	Байден	PER	PER-Joe-Biden
+3208	3215	Байдену	Байден	PER	PER-Joe-Biden
+3259	3274	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+3297	3304	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+3379	3392	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+3431	3443	американских	американский	LOC	GPE-USA
+3471	3477	Техаса	Техас	LOC	GPE-Texas
+3480	3493	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+3535	3553	выборов президента	выборы президента	EVT	EVT-2020-United-States-Presidential-Election
+3603	3614	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+3669	3684	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3700	3711	OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+3733	3754	выборы президента США	выборы президента США	EVT	EVT-2020-United-States-Presidential-Election
+3771	3776	Трамп	Трамп	PER	PER-Donald-Trump
+4023	4045	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+4046	4057	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+4121	4127	Трампа	Трамп	PER	PER-Donald-Trump

@@ -1,0 +1,45 @@
+0	5	Полша	Полша	LOC	GPE-Poland
+11	14	САЩ	САЩ	LOC	GPE-USA
+43	58	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+78	83	Полша	Полша	LOC	GPE-Poland
+89	92	САЩ	САЩ	LOC	GPE-USA
+141	156	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+164	169	Русия	Русия	LOC	GPE-Russia
+172	180	Германия	Германия	LOC	GPE-Germany
+206	211	Полша	Полша	LOC	GPE-Poland
+212	229	Матеуш Моравиецки	Матеуш Моравиецки	PER	PER-Mateusz-Morawiecki
+269	276	Ройтерс	Ройтерс	ORG	ORG-Reuters
+302	305	САЩ	САЩ	LOC	GPE-USA
+306	319	Рекс Тилърсън	Рекс Тилърсън	PER	PER-Rex-Tillerson
+330	337	Варшава	Варшава	LOC	GPE-Warsaw
+351	354	САЩ	САЩ	LOC	GPE-USA
+367	382	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+425	431	Европа	Европа	LOC	LOC-Europe
+465	470	Русия	Русия	LOC	GPE-Russia
+491	505	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+510	518	Германия	Германия	LOC	GPE-Germany
+586	601	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+642	657	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+698	701	САЩ	САЩ	LOC	GPE-USA
+748	753	Русия	Русия	LOC	GPE-Russia
+765	775	Моравиецки	Моравиецки	PER	PER-Mateusz-Morawiecki
+861	889	Държавния департамент на САЩ	Държавен департамент на САЩ	ORG	ORG-Department-of-State-USA
+966	971	Полша	Полша	LOC	GPE-Poland
+981	986	Русия	Русия	LOC	GPE-Russia
+1132	1141	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1144	1150	Москва	Москва	LOC	GPE-Moscow
+1233	1247	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+1272	1279	Варшава	Варшава	LOC	GPE-Warsaw
+1310	1313	САЩ	САЩ	LOC	GPE-USA
+1373	1378	PGNiG	PGNiG	ORG	ORG-PGNiG
+1446	1451	Полша	Полша	LOC	GPE-Poland
+1535	1542	Газпром	Газпром	ORG	ORG-Gazprom
+1668	1676	Норвегия	Норвегия	LOC	GPE-Norway
+1678	1683	Полша	Полша	LOC	GPE-Poland
+1728	1733	Катар	Катар	LOC	GPE-Qatar
+1735	1742	Варшава	Варшава	LOC	GPE-Warsaw
+1752	1759	Украйна	Украйна	LOC	GPE-Ukraine
+1801	1816	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1845	1851	Европа	Европа	LOC	LOC-Europe
+1868	1875	news.bg	news.bg	PRO	PRO-News.bg
+1877	1882	Днес+	Днес+	ORG	ORG-DnesPlus

@@ -1,0 +1,61 @@
+0	13	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+19	26	Брекзит	Брекзит	EVT	EVT-Brexit
+39	53	Великобритания	Великобритания	LOC	GPE-Great-Britain
+98	108	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+117	124	Брекзит	Брекзит	EVT	EVT-Brexit
+184	186	ЕС	ЕС	ORG	ORG-European-Union
+188	202	Великобритания	Великобритания	LOC	GPE-Great-Britain
+261	283	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+327	341	Великобритания	Великобритания	LOC	GPE-Great-Britain
+345	347	ЕС	ЕС	ORG	ORG-European-Union
+348	361	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+374	381	Ройтерс	Ройтерс	ORG	ORG-Reuters
+384	387	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+408	432	Партията за независимост	Партия за независимост	ORG	ORG-UK-Independence-Party
+458	463	Фараж	Фараж	PER	PER-Nigel-Farage
+488	491	Мей	Мей	PER	PER-Theresa-May
+492	506	Дейвид Камерън	Дейвид Камерън	PER	PER-David-Cameron
+533	540	Брекзит	Брекзит	EVT	EVT-Brexit
+593	595	ЕС	ЕС	ORG	ORG-European-Union
+629	636	Брекзит	Брекзит	EVT	EVT-Brexit
+682	687	Фараж	Фараж	PER	PER-Nigel-Farage
+724	726	ЕС	ЕС	ORG	ORG-European-Union
+727	730	Мей	Мей	PER	PER-Theresa-May
+737	743	Тереза	Тереза	PER	PER-Theresa-May
+782	784	ЕС	ЕС	ORG	ORG-European-Union
+825	832	Брекзит	Брекзит	EVT	EVT-Brexit
+846	848	ЕС	ЕС	ORG	ORG-European-Union
+857	871	Великобритания	Великобритания	LOC	GPE-Great-Britain
+945	952	Брекзит	Брекзит	EVT	EVT-Brexit
+1094	1099	Фараж	Фараж	PER	PER-Nigel-Farage
+1190	1192	ЕС	ЕС	ORG	ORG-European-Union
+1258	1263	Фараж	Фараж	PER	PER-Nigel-Farage
+1305	1317	Голдман Сакс	Голдман Сакс	ORG	ORG-Goldman-Sachs
+1323	1339	лондонското Сити	Лондонско Сити	LOC	LOC-City-of-London
+1386	1393	Брекзит	Брекзит	EVT	EVT-Brexit
+1407	1409	ЕС	ЕС	ORG	ORG-European-Union
+1428	1436	Германия	Германия	LOC	GPE-Germany
+1495	1502	Брекзит	Брекзит	EVT	EVT-Brexit
+1587	1607	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+1650	1657	Брекзит	Брекзит	EVT	EVT-Brexit
+1665	1668	Мей	Мей	PER	PER-Theresa-May
+1682	1689	Брюксел	Брюксел	LOC	GPE-Brussles
+1715	1722	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1769	1776	Брекзит	Брекзит	EVT	EVT-Brexit
+1796	1806	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+1836	1848	Голдман Сакс	Голдман Сакс	ORG	ORG-Goldman-Sachs
+1850	1864	Лойд Бланкфейн	Лойд Бланкфейн	PER	PER-Lloyd-Blankfein
+1879	1891	Джордж Сорос	Джордж Сорос	PER	PER-George-Soros
+1906	1913	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1954	1959	Блеър	Блеър	PER	PER-Tony-Blair
+1962	1974	Голдман Сакс	Голдман Сакс	ORG	ORG-Goldman-Sachs
+1978	1983	Сорос	Сорос	PER	PER-George-Soros
+1985	1990	Фараж	Фараж	PER	PER-Nigel-Farage
+2093	2098	Сорос	Сорос	PER	PER-George-Soros
+2183	2197	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2200	2202	ЕС	ЕС	ORG	ORG-European-Union
+2232	2237	Фараж	Фараж	PER	PER-Nigel-Farage
+2261	2266	Сорос	Сорос	PER	PER-George-Soros
+2350	2356	Лондон	Лондон	LOC	GPE-London
+2454	2466	Джордж Сорос	Джордж Сорос	PER	PER-George-Soros
+2632	2637	Фараж	Фараж	PER	PER-Nigel-Farage

@@ -1,0 +1,19 @@
+0	17	Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+55	63	covid-19	covid-19	EVT	EVT-Covid-19
+195	204	covidu-19	covid-19	EVT	EVT-Covid-19
+796	799	ZDA	ZDA	LOC	GPE-USA
+801	810	Argentine	Argentina	LOC	GPE-Argentina
+812	821	Brazilije	Brazilija	LOC	GPE-Brazil
+823	832	Kolumbije	Kolumbija	LOC	GPE-Columbia
+836	848	Južne Afrike	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+851	868	Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+913	916	ZDA	ZDA	LOC	GPE-USA
+975	984	covidu-19	covid-19	EVT	EVT-Covid-19
+986	989	ZDA	ZDA	LOC	GPE-USA
+1052	1069	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+1143	1152	covidu-19	covid-19	EVT	EVT-Covid-19
+1175	1197	Janssen Pharmaceutical	Janssen Pharmaceutical	ORG	ORG-Janssen-Pharmaceutica
+1226	1243	Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+1366	1385	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+1408	1425	Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+1452	1457	eboli	ebola	EVT	EVT-Ebola

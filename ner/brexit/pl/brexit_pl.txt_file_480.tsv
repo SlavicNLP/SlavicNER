@@ -1,0 +1,65 @@
+12	17	Tuska	Tusk	PER	PER-Donald-Tusk
+30	32	UE	UE	ORG	ORG-European-Union
+52	54	UE	UE	ORG	ORG-European-Union
+78	83	Syrii	Syria	LOC	GPE-Syria
+195	202	Europie	Europa	LOC	LOC-Europe
+215	222	Brexitu	Brexit	EVT	EVT-Brexit
+237	241	Tusk	Tusk	PER	PER-Donald-Tusk
+601	618	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+621	623	UE	UE	ORG	ORG-European-Union
+657	665	Brexicie	Brexit	EVT	EVT-Brexit
+687	691	Unii	Unia	ORG	ORG-European-Union
+742	746	Unia	Unia	ORG	ORG-European-Union
+935	941	Polski	Polska	LOC	GPE-Poland
+1240	1246	Niemcy	Niemcy	LOC	GPE-Germany
+1251	1256	Dania	Dania	LOC	GPE-Denmark
+1271	1289	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+1328	1332	Tusk	Tusk	PER	PER-Donald-Tusk
+1694	1698	Tusk	Tusk	PER	PER-Donald-Tusk
+1736	1743	Brexitu	Brexit	EVT	EVT-Brexit
+1760	1777	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1793	1808	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+1867	1882	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1901	1910	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1926	1928	UE	UE	ORG	ORG-European-Union
+1980	1995	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2150	2158	Brukseli	Bruksela	LOC	GPE-Brussles
+2212	2235	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+2238	2240	UE	UE	ORG	ORG-European-Union
+2340	2344	Tusk	Tusk	PER	PER-Donald-Tusk
+2370	2387	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2388	2399	Theresą May	Theresa May	PER	PER-Theresa-May
+2470	2472	UE	UE	ORG	ORG-European-Union
+2473	2477	Tusk	Tusk	PER	PER-Donald-Tusk
+2563	2583	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+2836	2842	Polska	Polska	LOC	GPE-Poland
+3035	3037	KE	KE	ORG	ORG-European-Commission
+3104	3106	PE	PE	ORG	ORG-European-Parliament
+3140	3142	UE	UE	ORG	ORG-European-Union
+3173	3180	Komisji	Komisja	ORG	ORG-European-Commission
+3322	3339	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+3342	3362	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+3390	3394	Tusk	Tusk	PER	PER-Donald-Tusk
+3447	3452	Syrii	Syria	LOC	GPE-Syria
+3541	3559	Federikę Mogherini	Federika Mogherini	PER	PER-Federica-Mogherini
+3570	3585	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+3592	3597	Rosję	Rosja	LOC	GPE-Russia
+3603	3607	Iran	Iran	LOC	GPE-Iran
+3651	3656	Syrii	Syria	LOC	GPE-Syria
+3689	3692	ONZ	ONZ	ORG	ORG-United-Nations
+3769	3771	UE	UE	ORG	ORG-European-Union
+3889	3892	ONZ	ONZ	ORG	ORG-United-Nations
+3895	3897	UE	UE	ORG	ORG-European-Union
+3956	3960	Tusk	Tusk	PER	PER-Donald-Tusk
+3998	4015	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+4073	4079	Polską	Polska	LOC	GPE-Poland
+4082	4090	Izraelem	Izrael	LOC	GPE-Israel
+4128	4134	Polski	Polska	LOC	GPE-Poland
+4137	4145	Izraelem	Izrael	LOC	GPE-Israel
+4245	4251	Polsce	Polska	LOC	GPE-Poland
+4291	4295	Tusk	Tusk	PER	PER-Donald-Tusk
+4364	4381	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+4385	4406	Mateuszem Morawieckim	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+4446	4459	Morawieckiemu	Morawiecki	PER	PER-Mateusz-Morawiecki
+4588	4592	Tusk	Tusk	PER	PER-Donald-Tusk
+4707	4713	Polsce	Polska	LOC	GPE-Poland

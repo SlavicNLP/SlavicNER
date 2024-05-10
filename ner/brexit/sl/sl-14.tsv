@@ -1,0 +1,32 @@
+25	31	Trumpa	Trump	PER	PER-Donald-Trump
+35	41	brexit	brexit	EVT	EVT-Brexit
+205	226	Craig Hamilton-Parker	Craig Hamilton-Parker	PER	PER-Craig-Hamilton-Parker
+260	274	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+300	306	brexit	brexit	EVT	EVT-Brexit
+505	511	Mayeve	May	PER	PER-Theresa-May
+534	550	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+703	714	Theresi May	Theresa May	PER	PER-Theresa-May
+798	811	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+870	875	Otoku	otok	LOC	GPE-Great-Britain
+1001	1007	Trumpu	Trump	PER	PER-Donald-Trump
+1025	1028	ZDA	ZDA	LOC	GPE-USA
+1065	1071	Rusijo	Rusija	LOC	GPE-Russia
+1081	1087	Sirija	Sirija	LOC	GPE-Syria
+1109	1121	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1244	1250	Trumpa	Trump	PER	PER-Donald-Trump
+1319	1334	Hamilton-Parker	Hamilton-Parker	PER	PER-Craig-Hamilton-Parker
+1374	1377	ZDA	ZDA	LOC	GPE-USA
+1388	1395	Florido	Florida	LOC	GPE-Florida
+1517	1531	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1533	1535	EU	EU	ORG	ORG-European-Union
+1653	1655	EU	EU	ORG	ORG-European-Union
+1763	1765	EU	EU	ORG	ORG-European-Union
+1786	1799	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+1894	1897	ZDA	ZDA	LOC	GPE-USA
+1918	1923	Trump	Trump	PER	PER-Donald-Trump
+1975	1983	Kitajska	Kitajska	LOC	GPE-China
+2147	2153	Rusijo	Rusija	LOC	GPE-Russia
+2213	2224	Kim Jong-un	Kim Jong-un	PER	PER-Kim-Jong-Un
+2264	2278	Severne Koreje	Severne Koreje	LOC	GPE-North-Korea
+2316	2323	Ameriko	Amerika	LOC	GPE-USA
+2376	2381	Nepal	Nepal	LOC	GPE-Nepal

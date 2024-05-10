@@ -1,0 +1,71 @@
+2	5	САЩ	САЩ	LOC	GPE-USA
+85	97	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+100	110	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+113	116	САЩ	САЩ	LOC	GPE-USA
+162	185	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+186	196	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+221	233	Уорм Спрингс	Уорм Спрингс	LOC	GPE-Warm-Springs
+240	248	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+270	277	Ройтерс	Ройтерс	ORG	ORG-Reuters
+310	318	демократ	демократ	PER	ORG-Democratic-Party-USA
+379	388	демократи	демократи	PER	ORG-Democratic-Party-USA
+394	406	републиканци	републиканци	PER	ORG-Republican-Party-USA
+508	514	Байдън	Байдън	PER	PER-Joe-Biden
+523	531	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+555	569	републиканците	републиканци	PER	ORG-Republican-Party-USA
+600	611	демократите	демократи	PER	ORG-Democratic-Party-USA
+615	624	Белия дом	Белия дом	LOC	LOC-White-House
+639	645	Байдън	Байдън	PER	PER-Joe-Biden
+711	723	републиканец	републиканец	PER	ORG-Republican-Party-USA
+724	736	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+762	770	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+804	812	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+845	851	Байдън	Байдън	PER	PER-Joe-Biden
+854	861	Атланта	Атланта	LOC	GPE-Atlanta
+882	889	Орландо	Орландо	LOC	GPE-Orlando
+891	898	Флорида	Флорида	LOC	GPE-Florida
+918	929	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+939	945	Байдън	Байдън	PER	PER-Joe-Biden
+956	967	демократите	демократи	PER	ORG-Democratic-Party-USA
+1196	1201	Обама	Обама	PER	PER-Barack-Obama
+1204	1209	Тръмп	Тръмп	PER	PER-Donald-Trump
+1330	1333	САЩ	САЩ	LOC	GPE-USA
+1334	1346	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1407	1414	Лансинг	Лансинг	LOC	GPE-Lansing
+1421	1428	Мичиган	Мичиган	LOC	GPE-Michigan
+1438	1453	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+1456	1461	Тръмп	Тръмп	PER	PER-Donald-Trump
+1631	1642	коронавирус	коронавирус	EVT	EVT-Covid-19
+1683	1706	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+1707	1717	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1749	1803	Северноамериканското споразумение за свободна търговия	Северноамериканско споразумение за свободна търговия	PRO	PRO-North-American-Free-Trade-Agreement
+1805	1810	НАФТА	НАФТА	PRO	PRO-North-American-Free-Trade-Agreement
+1828	1833	Китай	Китай	LOC	GPE-China
+1836	1868	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+1870	1873	СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+2021	2028	Мичиган	Мичиган	LOC	GPE-Michigan
+2036	2041	Тръмп	Тръмп	PER	PER-Donald-Trump
+2064	2071	Ройтерс	Ройтерс	ORG	ORG-Reuters
+2084	2089	Ипсос	Ипсос	ORG	ORG-Ipsos-Institute
+2096	2102	Байдън	Байдън	PER	PER-Joe-Biden
+2125	2132	Мичиган	Мичиган	LOC	GPE-Michigan
+2183	2188	Тръмп	Тръмп	PER	PER-Donald-Trump
+2452	2480	"Проекта ""Американски избори"""	"Проект ""Американски избори"""	PRO	PRO-United-States-Elections-Project
+2490	2497	Ройтерс	Ройтерс	ORG	ORG-Reuters
+2743	2754	коронавирус	коронавирус	EVT	EVT-Covid-19
+2815	2838	Университета на Флорида	Университет на Флорида	ORG	ORG-University-of-Florida
+2839	2855	Майкъл Макдоналд	Майкъл Макдоналд	PER	PER-Michael-McDonald
+2880	2908	"Проекта ""Американски избори"""	"Проект ""Американски избори"""	PRO	PRO-United-States-Elections-Project
+3026	3033	Ройтерс	Ройтерс	ORG	ORG-Reuters
+3049	3054	Ипсос	Ипсос	ORG	ORG-Ipsos-Institute
+3091	3102	демократите	демократи	PER	ORG-Democratic-Party-USA
+3103	3113	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3144	3156	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3183	3189	Байдън	Байдън	PER	PER-Joe-Biden
+3249	3254	Тръмп	Тръмп	PER	PER-Donald-Trump
+3322	3329	Мичиган	Мичиган	LOC	GPE-Michigan
+3331	3340	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+3343	3351	Небраска	Небраска	LOC	GPE-Nebraska
+3353	3358	Тръмп	Тръмп	PER	PER-Donald-Trump
+3680	3685	Тръмп	Тръмп	PER	PER-Donald-Trump
+3704	3713	Белия дом	Белия дом	LOC	LOC-White-House

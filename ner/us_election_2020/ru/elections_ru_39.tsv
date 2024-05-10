@@ -1,0 +1,87 @@
+148	160	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+179	190	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+205	211	Байден	Байден	PER	PER-Joe-Biden
+242	252	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+291	294	США	США	LOC	GPE-USA
+295	305	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+308	320	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+372	383	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+419	422	США	США	LOC	GPE-USA
+477	483	Байден	Байден	PER	PER-Joe-Biden
+514	524	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+576	583	выборах	выборы	EVT	EVT-2020-United-States-Presidential-Election
+771	780	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+846	865	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+911	930	Капитолийском холме	Капитолийский холм	LOC	LOC-Capitol-Hill
+977	983	выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+1008	1011	США	США	LOC	GPE-USA
+1012	1027	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1031	1046	Штурм Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+1060	1066	Трампа	Трамп	PER	PER-Donald-Trump
+1124	1133	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+1310	1319	Капитолию	Капитолий	LOC	LOC-United-States-Capitol
+1336	1360	Национальная гвардия США	Национальная гвардия США	ORG	ORG-United-States-National-Guard
+1369	1378	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+1572	1581	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+1608	1622	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+1639	1656	правительства США	правительство США	ORG	ORG-Federal-Goverment-of-USA
+1694	1709	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1755	1778	инаугурации Джо Байдена	инаугурация Джо Байдена	EVT	EVT-2020-Inauguration-of-Joe-Biden
+1813	1822	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+1825	1835	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+1869	1890	президентских выборов	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+1893	1896	США	США	LOC	GPE-USA
+1919	1928	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+1931	1941	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+1986	1995	Капитолия	Капитолий	LOC	LOC-United-States-Capitol
+2012	2021	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+2024	2034	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2081	2096	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+2140	2158	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+2172	2181	Капитолию	Капитолий	LOC	LOC-United-States-Capitol
+2216	2225	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+2228	2238	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2314	2323	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+2326	2336	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2406	2415	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+2418	2428	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2458	2468	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+2613	2622	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+2625	2635	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2658	2664	Трампа	Трамп	PER	PER-Donald-Trump
+2693	2702	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+2719	2728	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+2731	2741	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2843	2852	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+2855	2865	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2890	2899	Капитолии	Капитолий	LOC	LOC-Capitol-Hill
+2902	2912	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2935	2950	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+2960	2973	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+2990	2999	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+3002	3012	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3046	3056	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3063	3079	штурма Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+3096	3105	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+3108	3118	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3132	3141	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3150	3170	Национальная гвардия	Национальная гвардия	ORG	ORG-United-States-National-Guard
+3187	3196	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+3199	3209	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3268	3281	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+3336	3343	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+3374	3383	Капитолии	Капитолий	LOC	LOC-United-States-Capitol
+3386	3396	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3414	3424	демократов	демократы	ORG	ORG-Democratic-Party-USA
+3427	3433	Сенате	Сенат	ORG	ORG-United-States-Senate
+3434	3443	Чак Шумер	Чак Шумер	PER	PER-Chuck-Schumer
+3457	3466	Капитолия	Капитолий	LOC	LOC-United-States-Capitol
+3551	3566	Павел Мыльников	Павел Мыльников	PER	PER-Pavel-Mylnikov
+3619	3632	Дебби Дингелл	Дебби Дингелл	PER	PER-Debbie-Dingell
+3639	3645	Трампа	Трамп	PER	PER-Donald-Trump
+3658	3665	Байдена	Байден	PER	PER-Joe-Biden
+3674	3680	Трампа	Трамп	PER	PER-Donald-Trump
+3692	3699	Байдена	Байден	PER	PER-Joe-Biden
+3714	3717	США	США	LOC	GPE-USA
+3729	3731	DW	DW	PRO	PRO-Deutsche-Welle
+3748	3761	Дебби Дингелл	Дебби Дингелл	PER	PER-Debbie-Dingell

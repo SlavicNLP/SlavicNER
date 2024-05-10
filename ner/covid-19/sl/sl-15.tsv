@@ -1,0 +1,13 @@
+22	31	covidu-19	covid-19	EVT	EVT-Covid-19
+71	80	Kitajskem	Kitajska	LOC	GPE-China
+139	163	koronavirusni bolezni 19	koronavirusna bolezen 19	EVT	EVT-Covid-19
+256	275	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+510	520	Guizhen Wu	Guizhen Wu	ORG	ORG-Guizhen-Wu
+557	564	Reuters	Reuters	ORG	ORG-Reuters
+672	707	China National Pharmaceutical Group	China National Pharmaceutical Group	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+709	718	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+732	747	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+775	784	covidu-19	covid-19	EVT	EVT-Covid-19
+814	823	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+926	943	CanSino Biologics	CanSino Biologics	ORG	ORG-Cansino-Biologics
+1108	1117	covidu-19	covid-19	EVT	EVT-Covid-19

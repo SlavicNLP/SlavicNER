@@ -1,0 +1,37 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+38	44	Brexit	Brexit	EVT	EVT-Brexit
+59	68	SalamNews	SalamNews	ORG	ORG-SalamNews
+83	87	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+141	149	Брюсселе	Брюссель	LOC	GPE-Brussles
+176	188	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+189	206	Маргаритис Схинас	Маргаритис Схинас	PER	PER-Margaritis-Schinas
+278	284	Brexit	Brexit	EVT	EVT-Brexit
+285	298	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+370	394	[Лиссабонского] договора	[Лиссабонский] договор	PRO	PRO-Treaty-of-Lisbon
+575	582	Схинаса	Схинас	PER	PER-Margaritis-Schinas
+604	606	ЕС	ЕС	ORG	ORG-European-Union
+670	676	Brexit	Brexit	EVT	EVT-Brexit
+817	819	ЕК	ЕК	ORG	ORG-European-Commission
+857	859	ЕС	ЕС	ORG	ORG-European-Union
+860	873	Мишель Барнье	Мишель Барнье	PER	PER-Michel-Barnier
+904	907	США	США	LOC	GPE-USA
+964	972	Лондоном	Лондон	LOC	GPE-London
+1065	1071	Схинас	Схинас	PER	PER-Margaritis-Schinas
+1073	1084	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1171	1174	Мэй	Мэй	PER	PER-Theresa-May
+1197	1199	ЕС	ЕС	ORG	ORG-European-Union
+1206	1212	Brexit	Brexit	EVT	EVT-Brexit
+1254	1259	Дэвис	Дэвис	PER	PER-David-Davis
+1326	1334	Брюсселю	Брюссель	LOC	GPE-Brussles
+1418	1438	таможенному союзу ЕС	таможенный союз ЕС	ORG	ORG-European-Union-Customs-Union
+1456	1470	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1483	1489	Brexit	Brexit	EVT	EVT-Brexit
+1499	1511	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+1659	1664	Дэвис	Дэвис	PER	PER-David-Davis
+1703	1759	министерство по делам регионов и местного самоуправления	министерство по делам регионов и местного самоуправления	ORG	ORG-Ministry-of-Housing-Communities-and-Local
+1771	1775	Рааб	Рааб	PER	PER-Dominic-Raab
+1978	1990	Майкла Гоува	Майкл Гоув	PER	PER-Michael-Gove
+2011	2029	кабинета министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+2030	2047	Дэвида Лидингтона	Дэвид Лидингтон	PER	PER-David-Lidington
+2056	2059	МИД	МИД	ORG	ORG-Foreign-Office
+2060	2075	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson

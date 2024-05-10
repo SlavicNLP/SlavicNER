@@ -1,0 +1,64 @@
+5	19	Europejczykami	Europejczycy	PER	LOC-Europe
+22	39	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+43	51	brexicie	Brexit	EVT	EVT-Brexit
+123	140	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+143	145	UE	UE	ORG	ORG-European-Union
+226	233	Wyspach	Wyspy	LOC	GPE-Great-Britain
+451	453	UE	UE	ORG	ORG-European-Union
+456	473	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+514	525	Sajid Javid	Sajid Javid	PER	PER-Sajid-Javid
+557	568	Izby Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+790	807	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1117	1122	Javid	Javid	PER	PER-Sajid-Javid
+1353	1358	Javid	Javid	PER	PER-Sajid-Javid
+1381	1383	UE	UE	ORG	ORG-European-Union
+1418	1430	Izbie Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+1440	1445	Javid	Javid	PER	PER-Sajid-Javid
+1575	1577	UE	UE	ORG	ORG-European-Union
+1603	1620	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1675	1682	Wyspach	Wyspy	LOC	GPE-Great-Britain
+1761	1769	brexicie	Brexit	EVT	EVT-Brexit
+1845	1862	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1963	1970	Wyspach	Wyspy	LOC	GPE-Great-Britain
+2180	2187	Wyspach	Wyspy	LOC	GPE-Great-Britain
+2287	2289	UE	UE	ORG	ORG-European-Union
+2387	2398	Sajid Javid	Sajid Javid	PER	PER-Sajid-Javid
+3154	3161	Wyspach	Wyspy	LOC	GPE-Great-Britain
+3329	3331	UE	UE	ORG	ORG-European-Union
+3343	3351	Islandii	Islandia	LOC	GPE-Iceland
+3353	3375	Księstwa Liechtenstein	Księstwo Liechtenstein	LOC	GPE-Liechtenstein
+3377	3385	Norwegii	Norwegia	LOC	GPE-Norway
+3388	3398	Szwajcarii	Szwajcaria	LOC	GPE-Switzerland
+3463	3471	Irlandii	Irlandia	LOC	GPE-Ireland
+4212	4219	Android	Android	PRO	PRO-Android
+4259	4264	Apple	Apple	ORG	ORG-Apple
+4485	4487	UE	UE	ORG	ORG-European-Union
+4491	4498	Wyspach	Wyspy	LOC	GPE-Great-Britain
+4952	4969	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+5110	5136	Szkockiej Partii Narodowej	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+5138	5141	SNP	SNP	ORG	ORG-Scottish-National-Party
+5143	5152	Jo Cherry	Jo Cherry	PER	PER-Jo-Cherry
+5584	5591	Wyspach	Wyspy	LOC	GPE-Great-Britain
+5632	5640	Windrush	Windrush	PRO	PRO-Windrush
+5663	5671	Karaibów	Karaiby	LOC	LOC-Caribbean
+5696	5713	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+5793	5815	Królestwa Brytyjskiego	Królestwo Brytyjskie	LOC	GPE-Great-Britain
+5841	5848	Wyspach	Wyspy	LOC	GPE-Great-Britain
+6121	6128	Karaiby	Karaiby	LOC	LOC-Caribbean
+6203	6211	Windrush	Windrush	PRO	PRO-Windrush
+6276	6283	Jamajką	Jamajka	LOC	GPE-Jamaica
+6286	6301	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+6347	6350	MSW	MSW	ORG	ORG-Home-Office-UK
+6351	6361	Amber Rudd	Amber Rudd	PER	PER-Amber-Rudd
+6412	6421	Pakistanu	Pakistan	LOC	GPE-Pakistan
+6422	6433	Sajid Javid	Sajid Javid	PER	PER-Sajid-Javid
+6435	6440	Javid	Javid	PER	PER-Sajid-Javid
+6495	6503	Windrush	Windrush	PRO	PRO-Windrush
+6542	6554	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+6555	6568	Yvette Cooper	Yvette Cooper	PER	PER-Yvette-Cooper
+6620	6630	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+6811	6828	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+6977	6983	Cooper	Cooper	PER	PER-Yvette-Cooper
+7061	7085	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+7110	7125	Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+7247	7253	brexit	Brexit	EVT	EVT-Brexit

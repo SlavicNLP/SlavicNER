@@ -1,0 +1,12 @@
+7	18	koronavirus	koronavirus	EVT	EVT-Covid-19
+54	60	Hradce	Hradec	LOC	LOC-Hradec-Králové
+77	84	Prymula	Prymula	PER	PER-Roman-Prymula
+113	121	covid-19	covid-19	EVT	EVT-Covid-19
+158	170	Isoprinosine	Isoprinosine	PRO	PRO-Isoprinosine
+230	282	Centra očkování a cestovní medicíny v Hradci Králové	Centrum očkování a cestovní medicíny v Hradci Králové	ORG	ORG-Centrum-ockovani-a-cestovni-mediiny-Hradec-Kralove
+293	303	Jiří Beran	Jiří Beran	PER	PER-Jiri-Beran
+417	424	Litovli	Litovel	LOC	GPE-Litovel
+473	479	Forbes	Forbes	PRO	PRO-Forbes
+524	537	Roman Prymula	Roman Prymula	PER	PER-Roman-Prymula
+539	551	Isoprinosine	Isoprinosine	PRO	PRO-Isoprinosine
+815	825	koronaviru	koronavirus	EVT	EVT-Covid-19

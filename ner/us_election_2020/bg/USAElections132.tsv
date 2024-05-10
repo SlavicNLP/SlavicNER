@@ -1,0 +1,59 @@
+12	19	Webcafe	Webcafe	PRO	PRO-Webcafe.bg
+28	40	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+102	105	САЩ	САЩ	LOC	GPE-USA
+325	334	демократа	демократ	PER	ORG-Democratic-Party-USA
+335	345	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+553	574	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+634	637	САЩ	САЩ	LOC	GPE-USA
+760	765	Тръмп	Тръмп	PER	PER-Donald-Trump
+1067	1077	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1304	1306	FT	FT	PRO	PRO-Financial-Times
+1307	1318	Ръсел Райли	Ръсел Райли	PER	PER-Russell-Riley
+1337	1352	"Центъра ""Милър"""	"Център ""Милър"""	ORG	ORG-Miller-Center
+1397	1400	САЩ	САЩ	LOC	GPE-USA
+1663	1670	Америка	Америка	LOC	GPE-USA
+1981	1989	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2235	2246	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2255	2260	Тръмп	Тръмп	PER	PER-Donald-Trump
+2554	2559	Тръмп	Тръмп	PER	PER-Donald-Trump
+2673	2681	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2892	2899	Мичиган	Мичиган	LOC	GPE-Michigan
+2999	3008	демократи	демократи	PER	ORG-Democratic-Party-USA
+3017	3029	републиканци	републиканци	PER	ORG-Republican-Party-USA
+3240	3247	Мичиган	Мичиган	LOC	GPE-Michigan
+3324	3335	демократите	демократи	PER	ORG-Democratic-Party-USA
+3371	3385	републиканците	републиканци	PER	ORG-Republican-Party-USA
+3519	3523	Уейн	Уейн	LOC	GPE-Wayne-County
+3547	3554	Детройт	Детройт	LOC	GPE-Detroit
+3695	3707	републиканци	републиканци	PER	ORG-Republican-Party-USA
+3829	3843	републиканците	републиканци	PER	ORG-Republican-Party-USA
+3992	3999	Мичиган	Мичиган	LOC	GPE-Michigan
+4117	4140	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+4143	4150	Мичиган	Мичиган	LOC	GPE-Michigan
+4151	4161	Марк Бруър	Марк Бруър	PER	PER-Mark-Brewer
+4559	4565	Невада	Невада	LOC	GPE-Nevada
+4568	4577	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+4765	4770	Тръмп	Тръмп	PER	PER-Donald-Trump
+5057	5063	Байдън	Байдън	PER	PER-Joe-Biden
+5066	5087	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+5367	5372	Тръмп	Тръмп	PER	PER-Donald-Trump
+5444	5450	Байдън	Байдън	PER	PER-Joe-Biden
+5491	5500	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+5503	5511	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+5624	5633	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+5636	5643	Милуоки	Милуоки	LOC	GPE-Milwaukee
+5646	5650	Дейн	Дейн	LOC	GPE-Dane-County
+5911	5914	САЩ	САЩ	LOC	GPE-USA
+5915	5921	Байдън	Байдън	PER	PER-Joe-Biden
+5946	5967	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+6006	6011	Тръмп	Тръмп	PER	PER-Donald-Trump
+6067	6072	Тръмп	Тръмп	PER	PER-Donald-Trump
+6183	6204	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+6292	6297	Тръмп	Тръмп	PER	PER-Donald-Trump
+6485	6506	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+6558	6572	републиканците	републиканци	PER	ORG-Republican-Party-USA
+6594	6603	Белия дом	Бял дом	LOC	LOC-White-House
+6618	6629	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+6707	6724	Protect Democracy	Protect Democracy	ORG	ORG-Protect-Democracy
+6725	6733	Ян Басин	Ян Басин	PER	PER-Ian-Bassin
+6811	6816	Басин	Басин	PER	PER-Ian-Bassin

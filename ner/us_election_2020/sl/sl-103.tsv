@@ -1,0 +1,43 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+20	54	zvezne agencije za spletno varnost	zvezna agencija za spletno varnost	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+90	95	Krebs	Krebs	PER	PER-Christopher-Krebs
+161	170	Bele hiše	Bela hiša	LOC	LOC-White-House
+282	287	Trump	Trump	PER	PER-Donald-Trump
+319	328	twitterja	twitter	PRO	PRO-Twitter
+365	386	Nadzor nad govoricami	Nadzor nad govoricami	PRO	PRO-Rumor-control
+443	451	Trumpovi	Trump	PER	PER-Donald-Trump
+552	557	Krebs	Krebs	PER	PER-Christopher-Krebs
+620	629	Američane	Američani	PER	GPE-USA
+775	778	ZDA	ZDA	LOC	GPE-USA
+799	804	Trump	Trump	PER	PER-Donald-Trump
+821	829	Trumpova	Trump	PER	PER-Donald-Trump
+850	855	Trump	Trump	PER	PER-Donald-Trump
+928	941	Marka Esperja	Mark Esper	PER	PER-Mark-Esper
+976	985	Pentagona	Pentagon	ORG	ORG-The-Pentagon
+1208	1219	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+1302	1305	ZDA	ZDA	LOC	GPE-USA
+1306	1311	Bidna	Biden	PER	PER-Joe-Biden
+1361	1370	Američani	Američani	PER	GPE-USA
+1436	1441	Trump	Trump	PER	PER-Donald-Trump
+1517	1520	ZDA	ZDA	LOC	GPE-USA
+1555	1564	Trumpovih	Trump	PER	PER-Donald-Trump
+1622	1629	Bidnove	Biden	PER	PER-Joe-Biden
+1640	1652	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1777	1789	Philadelphie	Philadelphia	LOC	GPE-Philadelphia
+1792	1797	Krebs	Krebs	PER	PER-Christopher-Krebs
+2125	2140	Bennie Thompson	Bennie Thompson	PER	PER-Bennie-Thompson
+2161	2169	Trumpovo	Trump	PER	PER-Donald-Trump
+2215	2228	republikancem	republikanci	PER	ORG-Republican-Party-USA
+2254	2261	Georgie	Georgia	LOC	GPE-Georgia-US-state
+2262	2280	Brad Raffensperger	Brad Raffensperger	PER	PER-Brad-Raffensperger
+2282	2289	Georgio	Georgia	LOC	GPE-Georgia-US-state
+2315	2320	Biden	Biden	PER	PER-Joe-Biden
+2387	2400	Raffensperger	Raffensperger	PER	PER-Brad-Raffensperger
+2592	2607	Washington Post	Washington Post	PRO	PRO-Washington-Post
+2632	2646	Južne Karoline	Južna Karolina	LOC	GPE-South-Carolina-US-State
+2647	2664	Lindseyja Grahama	Lindsey Graham	PER	PER-Lindsey-Graham
+2728	2734	Graham	Graham	PER	PER-Lindsey-Graham
+2877	2884	Georgii	Georgia	LOC	GPE-Georgia-US-state
+2940	2946	Graham	Graham	PER	PER-Lindsey-Graham
+2967	2980	Raffensperger	Raffensperger	PER	PER-Brad-Raffensperger
+3093	3098	Trump	Trump	PER	PER-Donald-Trump

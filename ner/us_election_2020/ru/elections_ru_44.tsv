@@ -1,0 +1,92 @@
+9	12	США	США	LOC	GPE-USA
+28	39	российского	российский	LOC	GPE-Russia
+56	72	выборы 2018 года	выборы 2018 года	EVT	EVT-2018-United-States-Election
+75	89	Сергей Горяшко	Сергей Горяшко	PER	PER-Sergey-Goryashko
+92	100	Би-би-си	Би-би-си	PRO	PRO-BBC
+102	111	Вашингтон	Вашингтон	ORG	Вашингтон
+141	147	России	Россия	LOC	GPE-Russia
+172	185	американского	американский	LOC	GPE-USA
+224	260	промежуточных выборов в конгресс США	промежуточные выборы в конгресс США	EVT	EVT-2018-United-States-Election
+293	305	американская	американский	LOC	GPE-USA
+438	441	США	США	LOC	GPE-USA
+453	464	Белого дома	Белый дом	ORG	ORG-The-White-House
+518	543	Национальной разведки США	Национальная разведка США	ORG	ORG-United States-National-Intelligence
+544	556	Дэниел Коутс	Дэниел Коутс	PER	PER-Daniel-Coats
+587	601	New York Times	New York Times	PRO	PRO-The-New-York-Times
+603	607	Hill	Hill	PRO	PRO-The-Hill
+609	617	Buzzfeed	Buzzfeed	PRO	PRO-Buzzfeed-website
+620	636	агентство Рейтер	агентство Рейтер	ORG	ORG-Reuters-News-Agency
+697	703	Коутса	Коутс	PER	PER-Daniel-Coats
+705	711	Россия	Россия	LOC	GPE-Russia
+768	771	США	США	LOC	GPE-USA
+822	827	Коутс	Коутс	PER	PER-Daniel-Coats
+896	902	России	Россия	LOC	GPE-Russia
+1023	1031	россияне	россиянин	LOC	GPE-Russia
+1119	1130	американцев	американец	LOC	GPE-USA
+1208	1220	Американское	Американский	LOC	GPE-USA
+1404	1407	США	США	LOC	GPE-USA
+1420	1425	Коутс	Коутс	PER	PER-Daniel-Coats
+1439	1453	New York Times	New York Times	PRO	PRO-The-New-York-Times
+1475	1485	российской	российский	LOC	GPE-Russia
+1658	1663	Китай	Китай	LOC	GPE-China
+1666	1670	Иран	Иран	LOC	GPE-Iran
+1694	1699	Коутс	Коутс	PER	PER-Daniel-Coats
+1709	1715	Трампу	Трамп	PER	PER-Donald-Trump
+1971	1976	Коутс	Коутс	PER	PER-Daniel-Coats
+1995	2007	американские	американский	LOC	GPE-USA
+2033	2038	Коутс	Коутс	PER	PER-Daniel-Coats
+2059	2065	Россия	Россия	LOC	GPE-Russia
+2153	2163	Минюст США	Минюст США	ORG	ORG-Foreign-Office
+2193	2199	России	Россия	LOC	GPE-Russia
+2200	2215	Елену Хусяйнову	Елена Хусяйнова	PER	PER-Elena-Husyaynova
+2242	2254	американские	американский	LOC	GPE-USA
+2312	2320	конгресс	конгресс	ORG	ORG-United-States-Congress
+2347	2356	Хусяйнова	Хусяйнова	PER	PER-Elena-Husyaynova
+2368	2383	"проекте ""Лахта"""	"проект ""Лахта"""	ORG	ORG-Lahta-Project
+2441	2457	Владимиру Путину	Владимир Путин	PER	PER-Vladimir-Putin
+2469	2486	Евгения Пригожина	Евгений Пригожин	PER	PER-Evgeniy-Prigozhin
+2488	2520	"""Федеральное агентство новостей"""	"""Федеральное агентство новостей"""	ORG	ORG-Russia-Federal-Agency-of-News
+2537	2546	Пригожину	Пригожин	PER	PER-Evgeniy-Prigozhin
+2613	2649	Сестрорецкий районный суд Петербурга	Сестрорецкий районный суд Петербурга	ORG	ORG-Щербинский суд
+2670	2680	Хусяйновой	Хусяйнова	PER	PER-Elena-Husyaynova
+2712	2725	американскому	американский	LOC	GPE-USA
+3102	3112	минфин США	минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+3144	3153	Хусяйнову	Хусяйнова	PER	PER-Elena-Husyaynova
+3166	3198	"""Федеральное агентство новостей"""	"""Федеральное агентство новостей"""	ORG	ORG-Federal-News-Agency
+3208	3225	"""Невские новости"""	"""Невские новости"""	ORG	ORG-Russia-Nevskiye-Novosty
+3227	3245	"""Экономка сегодня"""	"""Экономика сегодня"""	ORG	ORG-Federal-News-Agency-Economics-Today
+3248	3258	USA Really	USA Really	ORG	ORG-USA-Really
+3295	3305	минфин США	минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+3349	3358	Пригожина	Пригожин	PER	PER-Evgeniy-Prigozhin
+3361	3376	"проекту ""Лахта"""	"проект ""Лахта"""	ORG	ORG-Lahta-Project
+3380	3422	"Компанию ""Конкорд менеджмент и консалтинг"""	"Компания ""Конкорд менеджмент и консалтинг"""	ORG	ORG-Concord-Group-Managing-and-Consulting
+3444	3458	"проект ""Лахта"""	"проект ""Лахта"""	ORG	ORG-Lahta-Project
+3462	3465	США	США	LOC	GPE-USA
+3494	3524	президентские выборы 2016 года	президентские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+3565	3577	американском	американский	LOC	GPE-USA
+3608	3616	Пригожин	Пригожин	PER	PER-Evgeniy-Prigozhin
+3685	3695	USA Really	USA Really	PRO	PRO-USA-Really
+3696	3715	Александр Малькевич	Александр Малькевич	PER	PER-Alexander-Malkevich
+3717	3727	Минфин США	Минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+3830	3840	Минфин США	Минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+3868	3878	USA Really	USA Really	PRO	PRO-USA-Really
+3966	3969	США	США	LOC	GPE-USA
+4117	4127	российской	российский	LOC	GPE-Russia
+4197	4207	сената США	сенат США	ORG	ORG-United-States-Senate
+4208	4220	американские	американский	LOC	GPE-USA
+4305	4315	российской	российский	LOC	GPE-Russia
+4346	4349	США	США	LOC	GPE-USA
+4368	4401	президентскими выборами 2016 года	президентские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+4470	4507	выборов в конгресс в ноябре 2018 года	выборы в конгресс в ноябре 2018 года	EVT	EVT-2018-United-States-Election
+4561	4573	"""Инстаграме"""	"""Инстаграм"""	PRO	PRO-Instagram
+4605	4620	республиканской	республиканский	ORG	ORG-Republican-Party-USA
+4719	4729	российскую	российский	LOC	GPE-Russia
+4868	4876	Би-би-си	Би-би-си	ORG	ORG-BBC-Ltd
+4888	4901	американскому	американский	LOC	GPE-USA
+4909	4942	"""Агентства интернет-исследований"""	"""Агентство интернет-исследований"""	ORG	ORG-Internet-Research-Agency
+5072	5082	"""Фейсбуке"""	"""Фейсбук"""	PRO	PRO-Facebook
+5108	5116	Би-би-си	Би-би-си	PRO	PRO-BBC
+5158	5170	американских	американский	LOC	GPE-USA
+5383	5391	Би-би-си	Би-би-си	PRO	PRO-BBC
+5395	5405	Российские	Российский	LOC	GPE-Russia
+5464	5476	американские	американский	LOC	GPE-USA

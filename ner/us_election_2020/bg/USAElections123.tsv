@@ -1,0 +1,33 @@
+65	68	САЩ	САЩ	LOC	GPE-USA
+94	101	Флорида	Флорида	LOC	GPE-Florida
+168	177	Белия дом	Бял дом	LOC	LOC-White-House
+190	200	американци	американци	PER	GPE-USA
+297	309	републиканец	републиканец	PER	ORG-Republican-Party-USA
+310	322	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+405	415	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+482	489	Аризона	Аризона	LOC	GPE-Arizona
+495	500	Тръмп	Тръмп	PER	PER-Donald-Trump
+504	511	Делауер	Делауер	LOC	GPE-Delaware
+517	523	Байдън	Байдън	PER	PER-Joe-Biden
+559	572	Корал Гейбълс	Корал Гейбълс	LOC	GPE-Coral-Gables
+577	584	Флорида	Флорида	LOC	GPE-Florida
+660	674	Джоузеф Боудън	Джоузеф Боудън	PER	PER-Joseph-Bowden
+690	695	Тръмп	Тръмп	PER	PER-Donald-Trump
+1079	1086	Флорида	Флорида	LOC	GPE-Florida
+1129	1134	Тръмп	Тръмп	PER	PER-Donald-Trump
+1275	1282	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+1288	1298	Калифорния	Калифорния	LOC	GPE-California
+1301	1307	Тексас	Тексас	LOC	GPE-Texas
+1422	1429	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1430	1435	Ипсос	Ипсос	ORG	ORG-Ipsos-Institute
+1444	1451	Флорида	Флорида	LOC	GPE-Florida
+1464	1470	Байдън	Байдън	PER	PER-Joe-Biden
+1511	1516	Тръмп	Тръмп	PER	PER-Donald-Trump
+1542	1547	Тръмп	Тръмп	PER	PER-Donald-Trump
+1598	1601	ФБР	ФБР	ORG	ORG-FBI
+1709	1715	Байдън	Байдън	PER	PER-Joe-Biden
+1718	1731	Хънтър Байдън	Хънтър Байдън	PER	PER-Hunter-Biden
+1763	1770	Бурисма	Бурисма	ORG	ORG-Burisma
+1774	1780	Байдън	Байдън	PER	PER-Joe-Biden
+1836	1842	Финикс	Финикс	LOC	GPE-Phoenix
+1844	1851	Аризона	Аризона	LOC	GPE-Arizona

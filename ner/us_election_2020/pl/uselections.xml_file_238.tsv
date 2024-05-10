@@ -1,0 +1,21 @@
+6	13	Ameryce	Ameryka	LOC	GPE-USA
+90	97	Ameryka	Ameryka	LOC	GPE-USA
+199	202	USA	USA	LOC	GPE-USA
+241	257	Sądu Najwyższego	Sąd Najwyższy	ORG	ORG-Supreme-Court-of-the-United-States
+540	549	Do Rzeczy	Do Rzeczy	PRO	PRO-Do-Rzeczy
+624	633	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+644	665	Partii Demokratycznej	Partia Demokratyczna	ORG	ORG-Democratic-Party-USA
+719	739	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+854	866	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+916	921	Trump	Trump	PER	PER-Donald-Trump
+941	950	Florydzie	Floryda	LOC	GPE-Florida
+954	958	Iowa	Iowa	LOC	GPE-Iowa
+966	970	Ohio	Ohio	LOC	GPE-Ohio
+972	976	Ohio	Ohio	LOC	GPE-Ohio
+1123	1127	Ohio	Ohio	LOC	GPE-Ohio
+1149	1169	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1180	1187	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1237	1242	Trump	Trump	PER	PER-Donald-Trump
+1245	1252	Bidenem	Biden	PER	PER-Joe-Biden
+1262	1267	Biden	Biden	PER	PER-Joe-Biden
+1270	1277	Trumpem	Trump	PER	PER-Donald-Trump

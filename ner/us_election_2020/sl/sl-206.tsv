@@ -1,0 +1,50 @@
+34	44	Mark Kelly	Mark Kelly	PER	PER-Mark-Kelly
+61	68	Arizoni	Arizona	LOC	GPE-Arizona
+79	89	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+216	223	Arizoni	Arizona	LOC	GPE-Arizona
+310	320	Mark Kelly	Mark Kelly	PER	PER-Mark-Kelly
+385	399	Martha McSally	Martha McSally	PER	PER-Martha-McSally
+419	433	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+464	467	ZDA	ZDA	LOC	GPE-USA
+478	483	Kelly	Kelly	PER	PER-Mark-Kelly
+549	559	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+561	572	McSallyjeva	McSally	PER	PER-Martha-McSally
+584	591	Arizoni	Arizona	LOC	GPE-Arizona
+684	697	Johna McCaina	John McCain	PER	PER-John-McCain
+840	845	Kelly	Kelly	PER	PER-Mark-Kelly
+939	947	Maricopa	Maricopa	LOC	GPE-Maricopa-County-Arizona
+951	955	Pima	Pima	LOC	GPE-Pima-County-Arizona
+1011	1016	Kelly	Kelly	PER	PER-Mark-Kelly
+1121	1132	John McCain	John McCain	PER	PER-John-McCain
+1283	1288	Kelly	Kelly	PER	PER-Mark-Kelly
+1291	1296	Kelly	Kelly	PER	PER-Mark-Kelly
+1509	1527	Gabrielle Giffords	Gabrielle Giffords	PER	PER-Gabrielle-Giffords
+1639	1646	Tucsonu	Tucson	LOC	GPE-Tuscon
+1686	1696	Mark Kelly	Mark Kelly	PER	PER-Mark-Kelly
+1727	1733	Nasine	Nasina	ORG	ORG-National-aeronautics-and-space-administration-NASA
+1845	1859	Scotta Kellyja	Scott Kelly	PER	PER-Scott-Kelly
+1871	1874	ISS	ISS	LOC	LOC-ISS-International-Space-Station
+2009	2014	Scott	Scott	PER	PER-Scott-Kelly
+2107	2117	Mark Kelly	Mark Kelly	PER	PER-Mark-Kelly
+2267	2277	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+2381	2393	republikanci	republikanci	PER	ORG-Republican-Party-USA
+2466	2485	demokratska stranka	demokratska stranka	ORG	ORG-Democratic-Party-USA
+2582	2590	Kitajsko	Kitajska	LOC	GPE-China
+2634	2648	Martha McSally	Martha McSally	PER	PER-Martha-McSally
+2728	2733	Kelly	Kelly	PER	PER-Mark-Kelly
+2864	2869	Kelly	Kelly	PER	PER-Mark-Kelly
+2917	2928	McSallyjeve	McSally	PER	PER-Martha-McSally
+2931	2938	Trumpom	Trump	PER	PER-Donald-Trump
+3040	3047	Trumpov	Trumpov	PER	PER-Donald-Trump
+3067	3076	covida-19	covid-19	EVT	EVT-Covid-19
+3128	3139	McSallyjeva	McSally	PER	PER-Martha-McSally
+3311	3325	Savski Arabiji	Savdska Arabija	LOC	GPE-Saudi-Arabia
+3471	3477	Trumpa	Trump	PER	PER-Donald-Trump
+3479	3493	New York Times	New York Times	PRO	PRO-The-New-York-Times
+3544	3549	Trump	Trump	PER	PER-Donald-Trump
+3678	3693	Arizona Central	Arizona Central	PRO	PRO-Arizona-Central
+3712	3727	Crystal Mercado	Crystal Mercado	PER	PER-Crystal-Mercado
+3749	3756	Kellyja	Kelly	PER	PER-Mark-Kelly
+3855	3861	Mehiko	Mehika	LOC	GPE-Mexico
+3942	3952	Jim Rhodes	Jim Rhodes	PER	PER-Jim-Rhodes
+4070	4080	demokratih	demokrati	ORG	ORG-Democratic-Party-USA

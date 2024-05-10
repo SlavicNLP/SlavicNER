@@ -1,0 +1,34 @@
+0	17	Выборы в США 2020	Выборы в США 2020	EVT	EVT-2020-United-States-Presidential-Election
+33	38	Трамп	Трамп	PER	PER-Donald-Trump
+43	49	Байден	Байден	PER	PER-Joe-Biden
+85	93	BBC News	BBC News	PRO	PRO-BBC-website
+155	158	США	США	LOC	GPE-USA
+188	201	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+204	214	Белом доме	Белый дом	ORG	ORG-The-White-House
+246	259	республиканцу	республиканец	PER	ORG-Republican-Party-USA
+286	308	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+309	319	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+377	389	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+679	685	Байден	Байден	PER	PER-Joe-Biden
+878	893	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+967	980	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1020	1023	США	США	LOC	GPE-USA
+1150	1160	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1170	1185	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1340	1348	Би-би-си	Би-би-си	PRO	PRO-BBC
+1557	1563	Трампа	Трамп	PER	PER-Donald-Trump
+1590	1605	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+1732	1739	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+2057	2060	США	США	LOC	GPE-USA
+2564	2575	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2706	2713	Байдена	Байден	PER	PER-Joe-Biden
+2735	2743	Мичигане	Мичиган	LOC	GPE-Michigan
+2745	2757	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+2760	2770	Висконсине	Висконсин	LOC	GPE-Wisconsin
+2824	2837	республиканец	республиканец	PER	ORG-Republican-Party-USA
+2928	2933	Трамп	Трамп	PER	PER-Donald-Trump
+3044	3049	Айове	Айова	LOC	GPE-Iowa
+3051	3056	Огайо	Огайо	LOC	GPE-Ohio
+3059	3065	Техасе	Техас	LOC	GPE-Texas
+3117	3125	Байденом	Байден	PER	PER-Joe-Biden
+3331	3337	Трампа	Трамп	PER	PER-Donald-Trump

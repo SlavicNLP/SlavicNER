@@ -1,0 +1,36 @@
+0	9	Зукърбърг	Зукърбърг	PER	PER-Mark-Zuckerberg
+29	37	Facebook	Facebook	ORG	ORG-Facebook
+39	45	Байдън	Байдън	PER	PER-Joe-Biden
+205	213	Facebook	Facebook	ORG	ORG-Facebook
+214	228	Марк Зукърбърг	Марк Зукърбърг	PER	PER-Mark-Zuckerberg
+273	283	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+316	332	Съединените щати	Съединени щати	LOC	GPE-USA
+378	382	CNBC	CNBC	PRO	PRO-CNBC
+434	444	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+487	496	Зукърбърг	Зукърбърг	PER	PER-Mark-Zuckerberg
+523	536	BuzzFeed News	BuzzFeed News	ORG	ORG-BuzzFeed-Inc
+661	666	Тръмп	Тръмп	PER	PER-Donald-Trump
+699	708	Зукърбърг	Зукърбърг	PER	PER-Mark-Zuckerberg
+802	814	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+911	920	Зукърбърг	Зукърбърг	PER	PER-Mark-Zuckerberg
+962	970	Facebook	Facebook	ORG	ORG-Facebook
+1032	1038	Байдън	Байдън	PER	PER-Joe-Biden
+1078	1086	Facebook	Facebook	ORG	ORG-Facebook
+1211	1219	Facebook	Facebook	ORG	ORG-Facebook
+1233	1237	CNBC	CNBC	PRO	PRO-CNBC
+1331	1334	САЩ	САЩ	LOC	GPE-USA
+1580	1583	САЩ	САЩ	LOC	GPE-USA
+1666	1674	Facebook	Facebook	PRO	PRO-Facebook
+1677	1686	Instagram	Instagram	PRO	PRO-Instagram
+1721	1730	Зукърбърг	Зукърбърг	PER	PER-Mark-Zuckerberg
+1767	1772	Тръмп	Тръмп	PER	PER-Donald-Trump
+1773	1783	Стив Банън	Стив Банън	PER	PER-Steve-Bannon
+1822	1830	Facebook	Facebook	ORG	ORG-Facebook
+1886	1893	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1945	1950	Банън	Банън	PER	PER-Steve-Bannon
+1977	1980	ФБР	ФБР	ORG	ORG-FBI
+1981	1994	Кристофър Рей	Кристофър Рей	PER	PER-Christopher-Wray
+2053	2065	Антъни Фаучи	Антъни Фаучи	PER	PER-Anthony-Fauci
+2131	2140	Белия дом	Белия дом	LOC	LOC-White-House
+2155	2163	Facebook	Facebook	ORG	ORG-Facebook
+2203	2208	Банън	Банън	PER	PER-Steve-Bannon

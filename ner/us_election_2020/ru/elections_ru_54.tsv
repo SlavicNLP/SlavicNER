@@ -1,0 +1,137 @@
+0	10	Российское	российское	LOC	GPE-Russia
+27	39	американские	американские	LOC	GPE-USA
+117	126	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+141	152	российского	российский	LOC	GPE-Russia
+169	203	президентские выборы в США 2016-го	президентские выборы в США 2016	EVT	EVT-2016-United-States-Presidential-Election
+280	284	Zoom	Zoom	PRO	PRO-Zoom
+331	351	Институтом Харримана	Институт Харримана	ORG	ORG-The-Harriman-Institute
+356	381	Колумбийском университете	Колумбийский университет	ORG	ORG-Columbia-University
+384	400	Центром Джордана	Центр Джордана	ORG	ORG-The-Jordan-Center
+413	419	России	Россия	LOC	GPE-Russia
+421	445	Нью-Йоркский университет	Нью-Йоркский университет	ORG	ORG-New-York-University
+448	451	NYU	NYU	ORG	ORG-New-York-University
+476	491	Александер Кули	Александер Кули	PER	PER-Alexander-Cooley
+493	509	Alexander Cooley	Alexander Cooley	PER	PER-Alexander-Cooley
+521	540	Института Харримана	Институт Харримана	ORG	ORG-The-Harriman-Institute
+542	554	Джошуа Такер	Джошуа Такер	PER	PER-Joshua-Tucker
+556	569	Joshua Tucker	Joshua Tucker	PER	PER-Joshua-Tucker
+581	596	Центра Джордана	Центр Джордана	ORG	ORG-The-Jordan-Center
+650	656	Такера	Такер	PER	PER-Joshua-Tucker
+660	663	NYU	NYU	ORG	ORG-New-York-University
+688	722	Центра социальных медиа и политики	Центр социальных медиа и политики	ORG	ORG-Center-of-Social-Media-and-Policy
+723	736	Зив Сандерсон	Зив Сандерсон	PER	PER-Zeve-Sanderson
+738	752	Zeve Sanderson	Zeve Sanderson	PER	PER-Zeve-Sanderson
+777	792	Александер Кули	Александер Кули	PER	PER-Alexander-Cooley
+899	909	российских	российские	LOC	GPE-Russia
+950	988	президентские выборы в США в 2016 году	президентские выборы в США в 2016	EVT	EVT-2016-United-States-Presidential-Election
+1016	1022	Кремля	Кремль	ORG	ORG-Kremlin
+1207	1211	Кули	Кули	PER	PER-Alexander-Cooley
+1235	1245	российская	российская	LOC	GPE-Russia
+1284	1296	американских	американский	LOC	GPE-USA
+1345	1355	российская	российский	LOC	GPE-Russia
+1401	1407	России	Россия	LOC	GPE-Russia
+1411	1433	выборах президента США	выборах президента США	EVT	EVT-2020-United-States-Presidential-Election
+1492	1504	Дэвид Шаймер	Дэвид Шаймер	PER	PER-David-Shimer
+1506	1518	David Shimer	David Shimer	PER	PER-David-Shimer
+1560	1581	Йельском университете	Йельский университет	ORG	ORG-Yale-University
+1655	1661	Шаймер	Шаймер	PER	PER-David-Shimer
+1697	1767	«Подтасовка: Америка, Россия и сто лет тайного вмешательства в выборы»	«Подтасовка: Америка, Россия и сто лет тайного вмешательства в выборы»	PRO	PRO-Rigged:-America,-Russia,-and-One-Hundred-Years-of-Covert-Electoral-Interference
+1769	1848	Rigged: America, Russia, and One Hundred Years of Covert Electoral Interference	Rigged: America, Russia, and One Hundred Years of Covert Electoral Interference	PRO	PRO-Rigged:-America,-Russia,-and-One-Hundred-Years-of-Covert-Electoral-Interference
+1926	1950	Оксфордском университете	Оксфордский университет	ORG	ORG-University-of-Oxford
+1990	2006	«Нью-Йорк таймс»	Нью-Йорк Таймс	PRO	PRO-The-New-York-Times
+2008	2021	«Нью-Йоркере»	Нью-Йоркер	PRO	PRO-The-New-Yorker
+2023	2039	«Вашингтон пост»	Вашингтон пост	PRO	PRO-Washington-Post
+2076	2088	Дэвид Шаймер	Дэвид Шаймер	PER	PER-David-Shimer
+2113	2123	российское	российский	LOC	GPE-Russia
+2140	2162	выборы 2016 года в США	выборы 2016 в США	EVT	EVT-2016-United-States-Presidential-Election
+2207	2210	США	США	LOC	GPE-USA
+2213	2219	России	Россия	LOC	GPE-Russia
+2568	2575	Шаймера	Шаймер	PER	PER-David-Shimer
+2613	2618	Ленин	Ленин	PER	PER-Lenin
+2621	2630	Коминтерн	Коминтерн	ORG	ORG-Сomintern
+2691	2702	европейских	европейские	LOC	LOC-Europe
+2711	2714	США	США	LOC	GPE-USA
+2760	2766	Западе	Запад	LOC	LOC-West
+2875	2883	Труменом	Трумен	PER	PER-Harry-S.-Truman
+2905	2908	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+2930	2936	Шаймер	Шаймер	PER	PER-David-Shimer
+2967	2970	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+3009	3015	Италии	Италия	LOC	GPE-Italy
+3048	3058	демократов	демократы	ORG	ORG-Democratic-Party-USA
+3115	3124	советские	советские	LOC	GPE-Soviet-Union-USSR
+3189	3192	США	США	LOC	GPE-USA
+3195	3211	Советского Союза	Советский Союз	LOC	GPE-USSR
+3261	3265	Чили	Чили	LOC	GPE-Chile
+3269	3275	Японии	Япония	LOC	GPE-Japan
+3280	3287	Франции	Франция	LOC	GPE-France
+3291	3301	Сальвадора	Сальвадор	LOC	GPE-El-Salvador
+3308	3320	американские	американские	LOC	GPE-USA
+3328	3337	советская	советский	LOC	GPE-USSR
+3393	3399	Шаймер	Шаймер	PER	PER-David-Shimer
+3470	3476	Кремль	Кремль	ORG	ORG-Kremlin
+3553	3556	США	США	LOC	GPE-USA
+3605	3612	Советам	Советы	LOC	GPE-USSR
+3726	3742	«холодной войны»	«холодная война»	EVT	EVT-Cold-War
+3873	3879	Шаймер	Шаймер	PER	PER-David-Shimer
+3898	3901	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+3944	3950	Сербии	Сербия	LOC	GPE-Serbia
+4009	4016	Америки	Америка	LOC	GPE-USA
+4080	4086	Россия	Россия	LOC	GPE-Russia
+4195	4201	России	Россия	LOC	GPE-Russia
+4359	4365	Шаймер	Шаймер	PER	PER-David-Shimer
+4379	4384	Путин	Путин	PER	PER-Vladimir-Putin
+4404	4411	Америку	Америка	LOC	GPE-USA
+4465	4471	Западе	Запад	LOC	LOC-West
+4853	4865	Рене ДиРеста	Рене ДиРеста	PER	PER-Renee-DiResta
+4956	4968	Рене ДиРеста	Рене ДиРеста	PER	PER-Renee-DiResta
+5040	5046	Кремля	Кремль	ORG	ORG-Kremlin
+5052	5083	Агентство интернет-исследований	Aгентство интернет-исследований	ORG	ORG-Internet-Research-Agency
+5099	5129	«фабрика пригожинских троллей»	фабрика пригожинских троллей	ORG	ORG-Internet-Research-Agency
+5134	5146	«кремлеботы»	кремлеботы	ORG	ORG-Internet-Research-Agency
+5280	5289	Инстаграм	Инстаграм	PRO	PRO-Instagram
+5291	5301	«Твиттере»	Твиттер	PRO	PRO-Twitter
+5303	5311	Фейсбуке	Фейсбук	PRO	PRO-Facebook
+5585	5589	Рене	Рене	PER	PER-Renee-DiResta
+5754	5766	Рене ДиРеста	Рене ДиРеста	PER	PER-Renee-DiResta
+5768	5781	Renee DiResta	Renee DiResta	PER	PER-Renee-DiResta
+5845	5871	Стэнфордского университета	Стэнфордский университет	ORG	ORG-Stanford-University
+6036	6044	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+6046	6060	Госдепартамент	Госдепартамент	ORG	ORG-Department-of-State-USA
+6114	6124	Российские	Российский	LOC	GPE-Russia
+6177	6194	выборах 2016 года	выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+6207	6219	Рене ДиРеста	Рене ДиРеста	PER	PER-Renee-DiResta
+6344	6356	американское	американский	LOC	GPE-USA
+6386	6395	Пригожина	Пригожин	PER	PER-Evgeniy-Prigozhin
+6440	6442	RT	RT	PRO	PRO-RT-Russia-Today
+6444	6456	Russia Today	Russia Today	PRO	PRO-RT-Russia-Today
+6512	6539	российская военная разведка	российская военная разведка	ORG	ORG-GRU-(Russian-GU)
+6541	6544	ГРУ	ГРУ	ORG	ORG-GRU-(Russian-GU)
+6599	6611	американских	американские	LOC	GPE-USA
+6755	6763	Хьюстоне	Хьюстон	LOC	GPE-Houston
+6878	6886	Фейсбуке	Фейсбук	PRO	PRO-Facebook
+6918	6924	Техаса	Техас	LOC	GPE-Texas
+6996	7027	«Объединение мусульман Америки»	Объединение мусульман Америки	ORG	ORG-United-Muslims-of-America
+7160	7171	российского	российский	LOC	GPE-Russia
+7204	7236	президентскую кампанию 2016 года	президентская кампания 2016	EVT	EVT-2016-US-Presidential-Campaign
+7280	7301	Кэтлин Холл Джеймисон	Кэтлин Холл Джеймисон	PER	PER-Kathleen-Hall-Jamieson
+7341	7353	американских	американские	LOC	GPE-USA
+7477	7492	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+7509	7518	Wikileaks	Wikileaks	ORG	ORG-Wikileaks
+7660	7669	Джеймисон	Джеймисон	PER	PER-Kathleen-Hall-Jamieson
+7780	7795	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+7798	7809	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+7859	7875	Джулиана Ассанжа	Джулиан Ассанж	PER	PER-Julian-Assange
+7945	7954	Джеймисон	Джеймисон	PER	PER-Kathleen-Hall-Jamieson
+8093	8124	предвыборной кампании 2016 года	предвыборная кампания 2016	EVT	EVT-2016-US-Presidential-Campaign
+8156	8163	Хиллари	Хиллари	PER	PER-Hillary-Clinton
+8269	8278	Джеймисон	Джеймисон	PER	PER-Kathleen-Hall-Jamieson
+8443	8464	Кэтлин Холл Джеймисон	Кэтлин Холл Джеймисон	PER	PER-Kathleen-Hall-Jamieson
+8466	8488	Kathleen Hall Jamieson	Kathleen Hall Jamieson	PER	PER-Kathleen-Hall-Jamieson
+8536	8546	Анненберга	Анненберг	PER	PER-Walter-Hubert-Annenberg
+8588	8615	Пенсильванском университете	Пенсильванский университет	ORG	ORG-University-of-Pennsylvania
+8659	8727	«Кибервойна: как русские хакеры и тролли помогли выбрать президента»	«Кибервойна: как русские хакеры и тролли помогли выбрать президента»	PRO	PRO-Cyberwar:-How-Russian-Hackers-and-Trolls-Helped-Elect-a-President
+8729	8794	Cyberwar: How Russian Hackers and Trolls Helped Elect a President	Cyberwar: How Russian Hackers and Trolls Helped Elect a President	PRO	PRO-Cyberwar:-How-Russian-Hackers-and-Trolls-Helped-Elect-a-President
+8822	8855	Ассоциации американских издателей	Ассоциация американских издателей	ORG	ORG-APA-American-Publishers-Association
+8977	9008	Русской службы «Голоса Америки»	"Русская служба ""Голос Америки"""	ORG	ORG-Voice-of-America
+9011	9020	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+9092	9100	Facebook	Facebook	PRO	PRO-Facebook

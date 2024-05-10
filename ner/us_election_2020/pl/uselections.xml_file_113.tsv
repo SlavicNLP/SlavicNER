@@ -1,0 +1,18 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+55	76	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+151	154	USA	USA	LOC	GPE-USA
+183	193	Amerykanie	Amerykanie	PER	GPE-USA
+210	232	Kolegium Elektorskiego	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+458	488	Kongresie Stanów Zjednoczonych	Kongres Stanów Zjednoczonych	ORG	ORG-United-States-Congress
+626	653	wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2016-United-States-Presidential-Election
+713	728	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+761	773	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1080	1087	Florydę	Floryda	LOC	GPE-Florida
+1092	1096	Ohio	Ohio	LOC	GPE-Ohio
+1301	1304	USA	USA	LOC	GPE-USA
+1543	1563	Izbie Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+1572	1579	Senacie	Senat	ORG	ORG-United-States-Senate
+1690	1701	Konstytucji	Konstytucja	PRO	PRO-The-USA-Constitution
+1710	1727	Dystrykt Kolumbii	Dystrykt Kolumbii	LOC	GPE-District-of-Columbia
+1746	1755	Kongresie	Kongres	ORG	ORG-United-States-Congress
+2036	2063	wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election

@@ -1,0 +1,37 @@
+0	13	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+27	37	Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+70	76	Терезе	Тереза	PER	PER-Theresa-May
+111	121	британских	британский	LOC	GPE-Great-Britain
+155	179	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+191	200	Евросоюза	Евросоюз	ORG	ORG-European-Union
+260	273	Ее Величества	Её Величество	PER	PER-Queen-Elizabeth-II
+285	293	Джонсона	Джонсон	PER	PER-Boris-Johnson
+371	378	Лондону	Лондон	LOC	GPE-London
+408	420	европейского	европейский	LOC	LOC-Europe
+555	563	брексите	брексит	EVT	EVT-Brexit
+598	612	Великобритании	Великобритания	LOC	GPE-Great-Britain
+854	861	Джонсон	Джонсон	PER	PER-Boris-Johnson
+891	897	Терезы	Тереза	PER	PER-Theresa-May
+944	946	ЕС	ЕС	ORG	ORG-European-Union
+971	985	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1219	1225	Лондон	Лондон	LOC	GPE-London
+1296	1299	МИД	МИД	ORG	ORG-Foreign-Office
+1396	1403	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1422	1436	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1507	1517	российских	российский	LOC	GPE-Russia
+1549	1557	Солсбери	Солсбери	LOC	GPE-Salisbury
+1587	1590	ГРУ	ГРУ	ORG	ORG-GRU-(Russian-GU)
+1591	1606	Сергея Скрипаля	Сергей Скрипаль	PER	PER-Siergiej-Skripal
+1618	1622	Юлию	Юлия	PER	PER-Yulia-Skripal
+1660	1668	Эймсбери	Эймсбери	LOC	LOC-Amesbury
+1733	1739	Brexit	Brexit	EVT	EVT-Brexit
+1740	1751	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1801	1807	Brexit	Brexit	EVT	EVT-Brexit
+1808	1819	Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+1856	1866	британское	британский	LOC	GPE-Great-Britain
+1929	1939	парламенте	парламент	ORG	ORG-British-Parlament
+1955	1961	Дэвиса	Дэвис	PER	PER-David-Davis
+1964	1972	Джонсона	Джонсон	PER	PER-Boris-Johnson
+1978	1981	Мэй	Мэй	PER	PER-Theresa-May
+2056	2059	МИД	МИД	ORG	ORG-Foreign-Office
+2114	2122	Британии	Британия	LOC	GPE-Great-Britain

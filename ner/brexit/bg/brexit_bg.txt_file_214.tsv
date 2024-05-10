@@ -1,0 +1,39 @@
+8	22	Великобритания	Великобритания	LOC	GPE-Great-Britain
+25	27	ЕС	ЕС	ORG	ORG-European-Union
+39	46	Франция	Франция	LOC	GPE-France
+86	102	Жан-Ив Льо Дриан	Жан-Ив Льо Дриан	PER	PER-Jean-Yves-Le-Drian
+132	146	Великобритания	Великобритания	LOC	GPE-Great-Britain
+149	165	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+180	185	Токио	Токио	LOC	GPE-Tokyo
+224	240	Жан-Ив Льо Дриан	Жан-Ив Льо Дриан	PER	PER-Jean-Yves-Le-Drian
+254	264	Франс прес	Франс прес	ORG	ORG-France-Presse
+268	271	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+325	331	Япония	Япония	LOC	GPE-Japan
+500	507	Франция	Франция	LOC	GPE-France
+554	568	Великобритания	Великобритания	LOC	GPE-Great-Britain
+571	573	ЕС	ЕС	ORG	ORG-European-Union
+575	584	Льо Дриан	Льо Дриан	PER	PER-Jean-Yves-Le-Drian
+839	844	Токио	Токио	LOC	GPE-Tokyo
+1091	1111	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1115	1117	ЕС	ЕС	ORG	ORG-European-Union
+1128	1131	АФП	АФП	ORG	ORG-France-Presse
+1187	1218	Sumitomo Mitsui Financial Group	Sumitomo Mitsui Financial Group	ORG	ORG-Sumitomo-Mitsui-Financial-Group
+1259	1268	Франкфурт	Франкфурт	LOC	GPE-Frankfurt-am-Main
+1298	1305	Брекзит	Брекзит	EVT	EVT-Brexit
+1355	1360	Париж	Париж	LOC	GPE-Paris
+1362	1368	Дъблин	Дъблин	LOC	GPE-Dublin
+1371	1380	Амстердам	Амстердам	LOC	GPE-Amsterdam
+1463	1470	Франция	Франция	LOC	GPE-France
+1618	1632	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1779	1788	Льо Дриан	Льо Дриан	PER	PER-Jean-Yves-Le-Drian
+1837	1839	ЕС	ЕС	ORG	ORG-European-Union
+1857	1874	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+1875	1886	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+1912	1914	ЕС	ЕС	ORG	ORG-European-Union
+1937	1951	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1975	1982	Брекзит	Брекзит	EVT	EVT-Brexit
+2051	2065	Пиер Московиси	Пиер Московиси	PER	PER-Pierre-Moscovici
+2120	2127	Брекзит	Брекзит	EVT	EVT-Brexit
+2134	2138	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+2251	2253	ЕС	ЕС	ORG	ORG-European-Union
+2273	2279	Лондон	Лондон	LOC	GPE-London

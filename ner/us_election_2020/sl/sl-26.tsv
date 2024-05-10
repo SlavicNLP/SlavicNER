@@ -1,0 +1,64 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+34	46	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+50	58	Georgiji	Georgia	LOC	GPE-Georgia-US-state
+59	64	Trump	Trump	PER	PER-Donald-Trump
+157	162	Trump	Trump	PER	PER-Donald-Trump
+166	171	Janša	Janša	PER	PER-Janez-Janša
+192	197	Trump	Trump	PER	PER-Donald-Trump
+201	206	Janša	Janša	PER	PER-Janez-Janša
+297	306	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+393	396	ZDA	ZDA	LOC	GPE-USA
+397	413	Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+416	428	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+432	439	Georgii	Georgie	LOC	GPE-Georgia-US-state
+463	469	Nevadi	Nevada	LOC	GPE-Nevada
+473	480	Arizoni	Arizona	LOC	GPE-Arizona
+485	497	Pensilvanijo	Pensilvanija	LOC	GPE-Pennsylvania
+519	524	Biden	Biden	PER	PER-Joe-Biden
+556	563	Trumpom	Trump	PER	PER-Donald-Trump
+712	714	AP	AP	ORG	ORG-AP-The-Associated-Press
+729	737	Fox News	Fox News	PRO	PRO-Fox-News
+755	762	Arizoni	Arizona	LOC	GPE-Arizona
+871	876	Trump	Trump	PER	PER-Donald-Trump
+891	900	Beli hiši	Bela hiša	LOC	LOC-White-House
+910	922	Pensilvanijo	Pensilvanija	LOC	GPE-Pennsylvania
+979	984	Biden	Biden	PER	PER-Joe-Biden
+1037	1042	Trump	Trump	PER	PER-Donald-Trump
+1196	1208	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1242	1251	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+1569	1574	Trump	Trump	PER	PER-Donald-Trump
+1610	1619	twitterja	twitter	PRO	PRO-Twitter
+1764	1769	Trump	Trump	PER	PER-Donald-Trump
+1803	1806	ZDA	ZDA	LOC	GPE-USA
+1884	1892	Trumpova	Trump	PER	PER-Donald-Trump
+1940	1948	Georgiji	Georgia	LOC	GPE-Georgia-US-state
+1952	1961	Michiganu	Michigan	LOC	GPE-Michigan
+1973	1982	Michiganu	Michigan	LOC	GPE-Michigan
+2006	2014	Trumpove	Trump	PER	PER-Donald-Trump
+2154	2159	Bidnu	Biden	PER	PER-Joe-Biden
+2222	2227	Trump	Trump	PER	PER-Donald-Trump
+2250	2258	Georgiji	Georgia	LOC	GPE-Georgia-US-state
+2357	2364	Trumpov	Trumpov	PER	PER-Donald-Trump
+2610	2618	Trumpova	Trump	PER	PER-Donald-Trump
+2663	2669	Nevade	Nevada	LOC	GPE-Nevada
+2670	2675	Clark	Clark	LOC	LOC-Clark-County
+2704	2713	Las Vegas	Las Vegas	LOC	GPE-Las-Vegas
+2744	2750	Nevade	Nevada	LOC	GPE-Nevada
+2751	2762	Adam Laxalt	Adam Laxalt	PER	PER-Adam-Laxalt
+2840	2850	Las Vegasa	Las Vegasa	LOC	GPE-Las-Vegas
+2925	2931	Trumpu	Trump	PER	PER-Donald-Trump
+2957	2969	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+3129	3137	Trumpova	Trump	PER	PER-Donald-Trump
+3169	3176	Arizoni	Arizona	LOC	GPE-Arizona
+3268	3277	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+3299	3311	republikanci	republikanci	PER	ORG-Republican-Party-USA
+3429	3445	Lindseya Grahama	Lindsey Graham	PER	PER-Lindsey-Graham
+3449	3459	Teda Cruza	Ted Cruz	PER	PER-Ted-Cruz
+3495	3507	republikanci	republikanci	PER	ORG-Republican-Party-USA
+3723	3731	Fox News	Fox News	PRO	PRO-Fox-News
+3741	3745	Cruz	Cruz	PER	PER-Ted-Cruz
+3802	3814	Pensilvanije	Pensilvanija	LOC	GPE-Pennsylvania
+3842	3854	Philadelphii	Philadelphia	LOC	GPE-Philadelphia
+3864	3869	Biden	Biden	PER	PER-Joe-Biden
+3944	3947	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+3959	3971	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania

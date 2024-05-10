@@ -1,0 +1,39 @@
+46	51	Трамп	Трамп	PER	PER-Donald-Trump
+72	79	Байдена	Байден	PER	PER-Joe-Biden
+83	92	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+136	141	Трамп	Трамп	PER	PER-Donald-Trump
+162	169	Байдена	Байден	PER	PER-Joe-Biden
+173	182	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+277	280	США	США	LOC	GPE-USA
+281	294	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+339	359	праймеріз демократів	праймеріз демократів	EVT	EVT-Democratic-Party-USA-primaries
+399	409	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+450	459	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+521	532	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+567	572	Трамп	Трамп	PER	PER-Donald-Trump
+576	581	Трамп	Трамп	PER	PER-Donald-Trump
+609	615	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+657	673	Майкла Блумберга	Майкл Блумберг	PER	PER-Michael-Bloomberg
+677	689	Тома Стейера	Том Стейер	PER	PER-Tom-Steyer
+804	810	Стейер	Стейер	PER	PER-Tom-Steyer
+858	863	Трамп	Трамп	PER	PER-Donald-Trump
+881	890	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+891	915	Демократичної партії США	Демократична партія США	ORG	ORG-Democratic-Party-USA
+990	1000	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1004	1010	Байден	Байден	PER	PER-Joe-Biden
+1028	1037	Вірджинія	Вірджинія	LOC	GPE-Virginia
+1039	1056	Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+1058	1065	Алабама	Алабама	LOC	GPE-USA-Alabama
+1067	1075	Оклахома	Оклахома	LOC	GPE-Oklahoma
+1077	1085	Теннессі	Теннессі	LOC	GPE-Tennessee
+1087	1095	Арканзас	Арканзас	LOC	GPE-Arkansas
+1097	1100	Мен	Мен	LOC	GPE-Maine
+1102	1111	Міннесота	Міннесота	LOC	GPE-Minnesota
+1115	1126	Массачусетс	Масачузетс	LOC	GPE-Massachusetts
+1162	1175	Берні Сандерс	Берні Сандерс	PER	PER-Bernie-Sanders
+1210	1217	Вермонт	Вермонт	LOC	GPE-Vermont
+1220	1228	Колорадо	Колорадо	LOC	GPE-Colorado
+1230	1233	Юті	Юта	LOC	GPE-Utah
+1237	1247	Каліфорнії	Каліфорнія	LOC	GPE-California
+1251	1256	Трамп	Трамп	PER	PER-Donald-Trump
+1282	1291	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries

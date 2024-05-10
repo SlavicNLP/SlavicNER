@@ -1,0 +1,26 @@
+6	10	Амон	Амон	PER	PER-Peter-Amon
+42	62	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+74	76	ЕС	ЕС	ORG	ORG-European-Union
+91	101	британците	британци	PER	GPE-Great-Britain
+146	153	Брекзит	Брекзит	EVT	EVT-Brexit
+155	159	Амон	Амон	PER	PER-Peter-Amon
+219	227	Германия	Германия	LOC	GPE-Germany
+230	235	Париж	Париж	LOC	GPE-Paris
+237	246	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+249	255	Лондон	Лондон	LOC	GPE-London
+288	302	Великобритания	Великобритания	LOC	GPE-Great-Britain
+353	360	Брекзит	Брекзит	EVT	EVT-Brexit
+373	377	Амон	Амон	PER	PER-Peter-Amon
+418	432	Великобритания	Великобритания	LOC	GPE-Great-Britain
+436	442	Европа	Европа	LOC	LOC-Europe
+489	496	Брекзит	Брекзит	EVT	EVT-Brexit
+559	561	ЕС	ЕС	ORG	ORG-European-Union
+597	611	Великобритания	Великобритания	LOC	GPE-Great-Britain
+682	689	Брекзит	Брекзит	EVT	EVT-Brexit
+771	785	Великобритания	Великобритания	LOC	GPE-Great-Britain
+802	824	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+879	895	Най-мрачният час	Най-мрачният час	PRO	PRO-Darkest-Hour
+900	907	Дюнкерк	Дюнкерк	PRO	PRO-Dunkirk
+909	913	Амон	Амон	PER	PER-Peter-Amon
+1021	1035	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1054	1062	Германия	Германия	LOC	GPE-Germany

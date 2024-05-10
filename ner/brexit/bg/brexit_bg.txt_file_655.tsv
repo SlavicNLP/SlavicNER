@@ -1,0 +1,13 @@
+76	83	Брекзит	Брекзит	EVT	EVT-Brexit
+231	238	Брекзит	Брекзит	EVT	EVT-Brexit
+304	310	Лондон	Лондон	LOC	GPE-London
+349	356	Брекзит	Брекзит	EVT	EVT-Brexit
+426	448	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+509	516	Брекзит	Брекзит	EVT	EVT-Brexit
+705	715	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+933	941	Би Би Си	Би Би Си	PRO	PRO-BBC
+1029	1031	ЕС	ЕС	ORG	ORG-European-Union
+1121	1123	ЕС	ЕС	ORG	ORG-European-Union
+1125	1135	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1242	1248	Лондон	Лондон	LOC	GPE-London
+1327	1334	Брюксел	Брюксел	LOC	GPE-Brussles

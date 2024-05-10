@@ -1,0 +1,17 @@
+3	9	Байдън	Байдън	PER	PER-Joe-Biden
+18	23	Тръмп	Тръмп	PER	PER-Donald-Trump
+106	109	САЩ	САЩ	LOC	GPE-USA
+110	120	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+151	163	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+367	382	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+384	390	Байдън	Байдън	PER	PER-Joe-Biden
+424	432	Си Ен Ен	Си Ен Ен	PRO	PRO-CNN
+448	460	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+545	551	Байдън	Байдън	PER	PER-Joe-Biden
+567	572	Тръмп	Тръмп	PER	PER-Donald-Trump
+609	630	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+675	690	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+808	818	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+821	831	Демократът	демократ	PER	ORG-Democratic-Party-USA
+858	863	Тръмп	Тръмп	PER	PER-Donald-Trump
+927	941	републиканецът	републиканец	PER	ORG-Republican-Party-USA

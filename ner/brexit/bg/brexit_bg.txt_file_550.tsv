@@ -1,0 +1,14 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+54	61	Брекзит	Брекзит	EVT	EVT-Brexit
+107	121	Великобритания	Великобритания	LOC	GPE-Great-Britain
+124	140	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+176	186	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+300	307	Брекзит	Брекзит	EVT	EVT-Brexit
+339	353	Великобритания	Великобритания	LOC	GPE-Great-Britain
+357	359	ЕС	ЕС	ORG	ORG-European-Union
+360	373	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+531	545	Великобритания	Великобритания	LOC	GPE-Great-Britain
+549	551	ЕС	ЕС	ORG	ORG-European-Union
+616	630	Великобритания	Великобритания	LOC	GPE-Great-Britain
+633	635	ЕС	ЕС	ORG	ORG-European-Union
+694	704	британците	британци	PER	GPE-Great-Britain

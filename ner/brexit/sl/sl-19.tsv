@@ -1,0 +1,15 @@
+0	15	Bank of England	Bank of England	ORG	ORG-Bank-of-England
+17	23	Brexit	brexit	EVT	EVT-Brexit
+92	106	Londonski City	Londonski City	LOC	LOC-City-of-London
+317	338	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+435	442	brexita	brexit	EVT	EVT-Brexit
+800	820	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+834	859	britanska centralna banka	britanska centralna banka	ORG	ORG-Bank-of-England
+1016	1018	EU	EU	ORG	ORG-European-Union
+1146	1153	brexita	brexit	EVT	EVT-Brexit
+1193	1198	Otoku	Otok	LOC	GPE-Great-Britain
+1270	1275	Otoku	Otok	LOC	GPE-Great-Britain
+1573	1597	Evropsko centralno banko	Evropska centralna banka	ORG	ORG-European-Central-Bank
+1709	1716	brexita	brexit	EVT	EVT-Brexit
+1807	1826	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+1941	1946	Otoku	Otok	LOC	GPE-Great-Britain

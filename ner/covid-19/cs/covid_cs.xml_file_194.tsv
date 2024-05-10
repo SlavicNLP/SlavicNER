@@ -1,0 +1,12 @@
+0	7	Zemanův	Zeman	PER	PER-Milos-Zeman
+47	58	Miloš Zeman	Miloš Zeman	PER	PER-Milos-Zeman
+123	129	Lánech	Lány	LOC	GPE-Lany
+167	172	Zeman	Zeman	PER	PER-Milos-Zeman
+346	351	Česko	Česko	LOC	GPE-Czech-Republic
+401	412	koronavirem	koronavirus	EVT	EVT-Covid-19
+503	508	Zeman	Zeman	PER	PER-Milos-Zeman
+531	541	koronaviru	koronavirus	EVT	EVT-Covid-19
+544	549	Česku	Česko	LOC	GPE-Czech-Republic
+636	641	covid	covid	EVT	EVT-Covid-19
+1015	1020	Zeman	Zeman	PER	PER-Milos-Zeman
+1082	1088	Zemana	Zeman	PER	PER-Milos-Zeman

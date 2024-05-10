@@ -1,0 +1,15 @@
+0	5	Zeman	Zeman	PER	PER-Milos-Zeman
+34	39	Hradě	Hrad	LOC	LOC-Prague-Castle
+57	64	Prymulu	Prymula	PER	PER-Roman-Prymula
+85	100	Španělská vláda	Španělská vláda	ORG	ORG-Government-of-Spain
+118	149	madridského autonomního regionu	madridský autonomní region	LOC	LOC-Madrid-region
+187	197	koronaviru	koronavirus	EVT	EVT-Covid-19
+408	424	madridský region	madridský region	LOC	LOC-Madrid-region
+494	507	La Vanguardia	La Vanguardia	PRO	PRO-La-Vanguardia
+510	518	El Mundo	El Mundo	PRO	PRO-Mundo-Deportivo
+625	641	madridský region	madridský region	LOC	LOC-Madrid-region
+734	747	Salvador Illa	Salvador Illa	PER	PER-Salvador-Illa
+781	790	Barceloně	Barcelona	LOC	GPE-Barcelona
+897	901	Illa	Illa	PER	PER-Salvador-Illa
+959	972	Enrique López	Enrique López	PER	PER-Enrique-Lopez
+1053	1060	El País	El País	PRO	PRO-El-Pais

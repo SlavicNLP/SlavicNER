@@ -1,0 +1,27 @@
+11	16	Švedi	Švedi	PER	GPE-Sweden
+33	41	covid-19	covid-19	EVT	EVT-Covid-19
+43	57	Dejan Vodovnik	Dejan Vodovnik	PER	PER-Dejan-Vodovnik
+141	146	Danci	Danci	PER	GPE-Denmark
+152	160	Švedskem	Švedska	LOC	GPE-Sweden
+328	337	Stockholm	Stockholm	LOC	GPE-Stockholm
+625	631	Wuhana	Wuhan	LOC	GPE-Wuhan
+636	643	Bergama	Bergamo	LOC	GPE-Bergamo
+692	698	Wuhana	Wuhan	LOC	GPE-Wuhan
+703	710	Bergama	Bergamo	LOC	GPE-Bergamo
+722	730	Švedskem	Švedska	LOC	GPE-Sweden
+884	898	Dagens Nyheter	Dagens Nyheter	ORG	ORG-Dagens-Nyheter
+976	995	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1099	1112	Stefan Lofven	Stefan Lofven	PER	PER-Stefan-Loefven
+1416	1423	Švedska	Švedska	LOC	GPE-Sweden
+1915	1923	Švedskem	Švedska	LOC	GPE-Sweden
+2034	2048	Evropska unija	Evropska unija	ORG	ORG-European-Union
+2095	2101	Danski	Danska	LOC	GPE-Denmark
+2105	2115	Københavnu	København	LOC	GPE-Copenhagen
+2118	2125	Švedsko	Švedska	LOC	GPE-Sweden
+2129	2135	Dansko	Danska	LOC	GPE-Denmark
+2383	2390	Malmöju	Mamö	LOC	GPE-Malmö
+2657	2676	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+2746	2754	Norveška	Norveška	LOC	GPE-Norway
+2758	2764	Danska	Danska	LOC	GPE-Denmark
+2816	2823	Švedska	Švedska	LOC	GPE-Sweden
+3070	3089	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

@@ -1,0 +1,160 @@
+1	7	Brexit	Brexit	EVT	EVT-Brexit
+23	32	brexodusu	Brexodus	EVT	EVT-Brexit
+46	60	Jonathan Knott	Jonathan Knott	PER	PER-Jonathan-Knott
+248	278	parlamentowi Wielkiej Brytanii	Parlament Wielkiej Brytanii	ORG	ORG-Parliament-of-the-United-Kingdom
+288	314	Parlamentowi Europejskiemu	Parlament Europejski	ORG	ORG-European-Parliament
+373	394	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+402	411	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+464	466	UE	UE	ORG	ORG-European-Union
+479	486	Wyspach	Wyspy	LOC	GPE-Great-Britain
+678	686	brexicie	Brexit	EVT	EVT-Brexit
+880	901	umowy o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement
+909	915	Kanadą	Kanada	LOC	GPE-Canada
+918	922	Unią	Unia	ORG	ORG-European-Union
+1076	1091	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1094	1098	Unia	Unia	ORG	ORG-European-Union
+1625	1643	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+1749	1766	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1817	1824	brexitu	Brexit	EVT	EVT-Brexit
+2117	2119	UK	UK	LOC	GPE-Great-Britain
+2122	2124	UE	UE	ORG	ORG-European-Union
+2357	2361	Unią	Unia	ORG	ORG-European-Union
+2367	2382	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2452	2487	Europejskiego Obszaru Gospodarczego	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+2489	2492	EEA	EEA	ORG	ORG-EEA-European-Economic-Area
+2500	2508	Norwegia	Norwegia	LOC	GPE-Norway
+2510	2525	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2606	2609	EEA	EEA	ORG	ORG-EEA-European-Economic-Area
+2640	2644	Unią	Unia	ORG	ORG-European-Union
+2739	2754	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2757	2761	Unią	Unia	ORG	ORG-European-Union
+2909	2913	Unią	Unia	ORG	ORG-European-Union
+3151	3155	NATO	NATO	ORG	ORG-NATO
+3321	3327	Europy	Europa	LOC	LOC-Europe
+3421	3423	UK	UK	LOC	GPE-Great-Britain
+3426	3428	UE	UE	ORG	ORG-European-Union
+3451	3455	Unia	Unia	ORG	ORG-European-Union
+3505	3522	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3567	3569	UE	UE	ORG	ORG-European-Union
+3620	3637	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3671	3673	UE	UE	ORG	ORG-European-Union
+3717	3734	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3795	3801	Polski	Polska	LOC	GPE-Poland
+3806	3823	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3929	3935	Niemcy	Niemcy	LOC	GPE-Germany
+3937	3952	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4085	4102	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4237	4241	Unia	Unia	ORG	ORG-European-Union
+4422	4437	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+4440	4444	Unią	Unia	ORG	ORG-European-Union
+4480	4492	białą księgę	Biała księga	PRO	PRO-White-paper-UK
+4541	4552	Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+4572	4581	Izbę Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+4875	4885	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+4887	4897	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+4959	4976	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4979	4983	Unii	Unia	ORG	ORG-European-Union
+5081	5092	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+5213	5221	Irlandii	Irlandia	LOC	GPE-Ireland
+5279	5283	Unii	Unia	ORG	ORG-European-Union
+5295	5318	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+5488	5492	Unii	Unia	ORG	ORG-European-Union
+5643	5658	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+5666	5670	Unię	Unia	ORG	ORG-European-Union
+5724	5728	Unii	Unia	ORG	ORG-European-Union
+5793	5813	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+5900	5915	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+5935	5943	Czechami	Czechy	LOC	GPE-Czech-Republic
+5980	5986	Polski	Polska	LOC	GPE-Poland
+6010	6018	brexitem	Brexit	EVT	EVT-Brexit
+6072	6089	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+6124	6130	Polski	Polska	LOC	GPE-Poland
+6166	6173	brexitu	Brexit	EVT	EVT-Brexit
+6335	6352	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+6534	6557	Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+6667	6682	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+6734	6740	Polsce	Polska	LOC	GPE-Poland
+6788	6794	Polskę	Polska	LOC	GPE-Poland
+6852	6859	Polaków	Polacy	PER	GPE-Poland
+6884	6889	Wyspy	Wyspy	LOC	GPE-Great-Britain
+6934	6951	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+7033	7050	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+7122	7128	Polsce	Polska	LOC	GPE-Poland
+7130	7136	Polacy	Polacy	PER	GPE-Poland
+7169	7178	brexodusu	Brexodus	EVT	EVT-Brexit
+7182	7199	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+7235	7239	Unii	Unia	ORG	ORG-European-Union
+7276	7283	Polaków	Polacy	PER	GPE-Poland
+7384	7390	Polski	Polska	LOC	GPE-Poland
+7417	7434	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+7504	7511	Polaków	Polacy	PER	GPE-Poland
+7523	7525	UK	UK	LOC	GPE-Great-Britain
+7777	7792	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+7832	7838	Polski	Polska	LOC	GPE-Poland
+7843	7850	brexitu	Brexit	EVT	EVT-Brexit
+7916	7923	Francji	Francja	LOC	GPE-France
+7984	7992	brexicie	Brexit	EVT	EVT-Brexit
+8040	8051	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+8330	8349	brytyjski parlament	Brytyjski Parlament	ORG	ORG-British-Parlament
+8443	8450	brexitu	Brexit	EVT	EVT-Brexit
+8451	8457	Polsce	Polska	LOC	GPE-Poland
+8505	8509	City	City	LOC	LOC-City-of-London
+8564	8571	Londynu	Londyn	LOC	GPE-London
+8711	8715	City	City	LOC	LOC-City-of-London
+8993	8997	Unią	Unia	ORG	ORG-European-Union
+9067	9088	umowy o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement
+9364	9370	Londyn	Londyn	LOC	GPE-London
+9414	9420	Europy	Europa	LOC	LOC-Europe
+9422	9428	Londyn	Londyn	LOC	GPE-London
+9476	9484	Warszawy	Warszawa	LOC	GPE-Warsaw
+9536	9544	brexicie	Brexit	EVT	EVT-Brexit
+9654	9661	Wyspami	Wyspy	LOC	GPE-Great-Britain
+9890	9894	Unii	Unia	ORG	ORG-European-Union
+9898	9915	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+9924	9930	Polski	Polska	LOC	GPE-Poland
+10001	10016	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+10019	10042	Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+10317	10321	Unii	Unia	ORG	ORG-European-Union
+10350	10367	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+10455	10463	brexicie	Brexit	EVT	EVT-Brexit
+10871	10888	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+10918	10926	Warszawy	Warszawa	LOC	GPE-Warsaw
+10994	11000	Polska	Polska	LOC	GPE-Poland
+11040	11044	Unii	Unia	ORG	ORG-European-Union
+11064	11072	brexitem	Brexit	EVT	EVT-Brexit
+11074	11085	Theresa May	Theresa May	PER	PER-Theresa-May
+11118	11126	Warszawy	Warszawa	LOC	GPE-Warsaw
+11183	11189	Polską	Polska	LOC	GPE-Poland
+11469	11475	Polski	Polska	LOC	GPE-Poland
+11482	11488	brexit	Brexit	EVT	EVT-Brexit
+11539	11543	Unii	Unia	ORG	ORG-European-Union
+11558	11565	brexitu	Brexit	EVT	EVT-Brexit
+11587	11595	Brukselą	Bruksela	LOC	GPE-Brussles
+11831	11838	Ulsteru	Ulster	LOC	GPE-Ulster
+11841	11859	Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+11874	11903	Porozumieniu Wielkopiątkowemu	Porozumienie Wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+11951	11954	May	May	PER	PER-Theresa-May
+12029	12037	Brukselą	Bruksela	LOC	GPE-Brussles
+12103	12121	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+12149	12153	Unii	Unia	ORG	ORG-European-Union
+12252	12270	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+12441	12448	brexitu	Brexit	EVT	EVT-Brexit
+12529	12546	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+12549	12567	Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+12649	12666	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+12691	12708	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+12727	12734	Ulsteru	Ulster	LOC	GPE-Ulster
+12744	12767	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+12796	12814	Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+12816	12823	Szkocja	Szkocja	LOC	GPE-Scotland
+12859	12867	Bruksela	Bruksela	LOC	GPE-Brussles
+12873	12890	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+12918	12929	Edynburgiem	Edynburg	LOC	GPE-Edinburgh
+12932	12940	Londynem	Londyn	LOC	GPE-London
+12979	12986	Szkotów	Szkoci	PER	GPE-Scotland
+13014	13017	May	May	PER	PER-Theresa-May
+13026	13033	Szkocji	Szkocja	LOC	GPE-Scotland
+13035	13040	Walii	Walia	LOC	GPE-Wales
+13043	13061	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+13105	13113	Bruksela	Bruksela	LOC	GPE-Brussles
+13177	13193	Jędrzej Bielecki	Jędrzej Bielecki	PER	PER-Jędrzej-Bielecki

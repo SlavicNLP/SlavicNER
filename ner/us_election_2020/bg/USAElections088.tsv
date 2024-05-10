@@ -1,0 +1,104 @@
+41	68	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+203	213	демократът	демократ	PER	ORG-Democratic-Party-USA
+214	224	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+325	328	АФП	АФП	ORG	ORG-France-Presse
+372	386	републиканецът	републиканец	PER	ORG-Republican-Party-USA
+387	399	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+445	455	Франс прес	Франс прес	ORG	ORG-France-Presse
+755	761	Байдън	Байдън	PER	PER-Joe-Biden
+764	771	Аризона	Аризона	LOC	GPE-Arizona
+778	788	Калифорния	Калифорния	LOC	GPE-California
+795	803	Колорадо	Колорадо	LOC	GPE-Colorado
+809	819	Кънектикът	Кънектикът	LOC	GPE-Connecticut
+825	833	Делауеър	Делауеър	LOC	GPE-Delaware
+839	844	Хавай	Хаваи	LOC	GPE-Hawaii
+850	857	Илинойс	Илинойс	LOC	GPE-Illinois
+864	868	Мейн	Мейн	LOC	GPE-Maine
+879	887	Мериленд	Мериленд	LOC	GPE-Maryland
+894	904	Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+911	919	Минесота	Минесота	LOC	GPE-Minnesota
+926	934	Небраска	Небраска	LOC	GPE-Nebraska
+940	950	Ню Хемпшър	Ню Хемпшър	LOC	GPE-New-Hampshire
+956	965	Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+972	979	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+986	996	Ню Мексико	Ню Мексико	LOC	GPE-New Mexico
+1002	1008	Орегон	Орегон	LOC	GPE-Oregon
+1014	1025	Роуд айлънд	Роуд Айлънд	LOC	GPE-Rhode-Island
+1031	1038	Върмонт	Върмонт	LOC	GPE-Vermont
+1044	1053	Вирджиния	Вирджиния	LOC	GPE-Virginia
+1060	1085	федерален окръг Вашингтон	федерален окръг Колумбия	LOC	GPE-District-of-Columbia
+1095	1104	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1135	1140	Тръмп	Тръмп	PER	PER-Donald-Trump
+1143	1149	Тексас	Тексас	LOC	GPE-Texas
+1156	1163	Флорида	Флорида	LOC	GPE-Florida
+1170	1177	Алабама	Алабама	LOC	GPE-USA-Alabama
+1183	1191	Арканзас	Арканзас	LOC	GPE-Arkansas
+1198	1211	Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+1217	1231	Северна Дакота	Северна Дакота	LOC	GPE-North-Dakota
+1237	1248	Южна Дакота	Южна Дакота	LOC	GPE-South-Dakota-US-State
+1254	1260	Айдахо	Айдахо	LOC	GPE-Idaho
+1266	1273	Индиана	Индиана	LOC	GPE-Indiana
+1280	1285	Айова	Айова	LOC	GPE-Iowa
+1291	1297	Канзас	Канзас	LOC	GPE-Kansas
+1303	1310	Кентъки	Кентъки	LOC	GPE-Kentucky
+1316	1324	Луизиана	Луизиана	LOC	GPE-Louisiana
+1330	1337	Монтана	Монтана	LOC	GPE-Montana-US-State
+1343	1351	Мисисипи	Мисисипи	LOC	GPE-Mississippi
+1357	1363	Мисури	Мисури	LOC	GPE-Missouri
+1370	1378	Небраска	Небраска	LOC	GPE-Nebraska
+1384	1389	Охайо	Охайо	LOC	GPE-Ohio
+1396	1404	Оклахома	Оклахома	LOC	GPE-Oklahoma
+1410	1416	Тенеси	Тенеси	LOC	GPE-Tennessee
+1423	1426	Юта	Юта	LOC	GPE-Utah
+1432	1449	Западна Вирджиния	Западна Вирджиния	LOC	GPE-West-Virginia
+1456	1464	Уайоминг	Уайоминг	LOC	GPE-Wyoming
+1518	1529	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1547	1554	Мичиган	Мичиган	LOC	GPE-Michigan
+1561	1569	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1576	1592	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+1599	1608	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+1615	1621	Невада	Невада	LOC	GPE-Nevada
+1697	1701	Мейн	Мейн	LOC	GPE-Maine
+1716	1722	Байдън	Байдън	PER	PER-Joe-Biden
+1748	1755	Мичиган	Мичиган	LOC	GPE-Michigan
+1757	1766	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+1769	1775	Невада	Невада	LOC	GPE-Nevada
+1941	1949	Арканзас	Арканзас	LOC	GPE-Arkansas
+1953	1958	Тръмп	Тръмп	PER	PER-Donald-Trump
+1978	1989	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1991	1999	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2002	2018	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+2174	2179	Тръмп	Тръмп	PER	PER-Donald-Trump
+2201	2207	Невада	Невада	LOC	GPE-Nevada
+2312	2318	Туитър	Туитър	PRO	PRO-Twitter
+2330	2341	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2522	2525	CBS	CBS	PRO	PRO-CBS-TV
+2596	2602	Байдън	Байдън	PER	PER-Joe-Biden
+2607	2614	Аризона	Аризона	LOC	GPE-Arizona
+2617	2628	ПЕНСИЛВАНИЯ	Пенсилвания	LOC	GPE-Pennsylvania
+2651	2656	Тръмп	Тръмп	PER	PER-Donald-Trump
+2696	2701	Тръмп	Тръмп	PER	PER-Donald-Trump
+2715	2721	Байдън	Байдън	PER	PER-Joe-Biden
+2732	2739	МИЧИГАН	Мичиган	LOC	GPE-Michigan
+2765	2771	Байдън	Байдън	PER	PER-Joe-Biden
+2813	2819	Байдън	Байдън	PER	PER-Joe-Biden
+2833	2838	Тръмп	Тръмп	PER	PER-Donald-Trump
+2849	2857	ДЖОРДЖИЯ	Джорджия	LOC	GPE-Georgia-US-state
+2873	2878	Тръмп	Тръмп	PER	PER-Donald-Trump
+2918	2923	Тръмп	Тръмп	PER	PER-Donald-Trump
+2937	2943	Байдън	Байдън	PER	PER-Joe-Biden
+2956	2972	СЕВЕРНА КАРОЛИНА	Северна Каролина	LOC	GPE-North-Carolina-US-State
+2988	2993	Тръмп	Тръмп	PER	PER-Donald-Trump
+3033	3038	Тръмп	Тръмп	PER	PER-Donald-Trump
+3052	3058	Байдън	Байдън	PER	PER-Joe-Biden
+3071	3080	УИСКОНСИН	Уисконсин	LOC	GPE-Wisconsin
+3106	3112	Байдън	Байдън	PER	PER-Joe-Biden
+3152	3158	Байдън	Байдън	PER	PER-Joe-Biden
+3214	3219	Тръмп	Тръмп	PER	PER-Donald-Trump
+3222	3228	НЕВАДА	Невада	LOC	GPE-Nevada
+3244	3250	Байдън	Байдън	PER	PER-Joe-Biden
+3316	3321	Тръмп	Тръмп	PER	PER-Donald-Trump
+3334	3342	АРКАНЗАС	Арканзас	LOC	GPE-Arkansas
+3358	3364	Байдън	Байдън	PER	PER-Joe-Biden
+3404	3410	Байдън	Байдън	PER	PER-Joe-Biden
+3422	3427	Тръмп	Тръмп	PER	PER-Donald-Trump

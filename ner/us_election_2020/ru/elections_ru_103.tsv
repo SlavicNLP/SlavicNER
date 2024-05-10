@@ -1,0 +1,88 @@
+50	53	США	США	LOC	GPE-USA
+89	99	американцы	американцы	PER	GPE-USA
+217	231	Линдон Джонсон	Линдон Джонсон	PER	PER-Lyndon-Johnson
+249	252	США	США	LOC	GPE-USA
+523	526	США	США	LOC	GPE-USA
+691	703	американский	американский	LOC	GPE-USA
+944	956	американской	американская	LOC	GPE-USA
+997	1006	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1023	1039	Томас Джефферсон	Томас Джефферсон	PER	PER-Thomas-Jefferson
+1128	1138	американцы	американцы	PER	GPE-USA
+1265	1275	Американцы	Американцы	PER	GPE-USA
+1414	1426	американских	американский	LOC	GPE-USA
+1440	1445	СПбГУ	СПбГУ	ORG	ORG-Saint-Petersburg-State-University
+1446	1458	Иван Цветков	Иван Цветков	PER	PER-Ivan-Tsvetkov
+1555	1558	США	США	LOC	GPE-USA
+1586	1596	американцы	американцы	PER	GPE-USA
+1779	1789	Калифорнии	Калифорния	LOC	GPE-California
+1838	1847	Вайоминга	Вайоминг	LOC	GPE-Wyoming
+1907	1919	американских	американский	LOC	GPE-USA
+1929	1944	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+1947	1962	Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+2161	2180	Александр Гамильтон	Александр Гамильтон	PER	PER-Alexander-Hamilton
+2238	2250	американской	американская	LOC	GPE-USA
+2335	2347	американская	американская	LOC	GPE-USA
+2470	2484	Великобритании	Великобритания	LOC	GPE-Great-Britain
+2539	2551	американской	американская	LOC	GPE-USA
+2732	2751	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2818	2829	американцев	американцы	PER	GPE-USA
+2847	2860	американского	американский	LOC	GPE-USA
+2887	2899	Иван Цветков	Иван Цветков	PER	PER-Ivan-Tsvetkov
+2957	2970	американского	американский	LOC	GPE-USA
+3024	3034	Томас Наст	Томас Наст	PER	PER-Thomas-Nast
+3045	3060	Harper’s Weekly	Harper’s Weekly	PRO	PRO-The-Weekly-Standard-Magazine
+3103	3113	Демократов	Демократы	ORG	ORG-Democratic-Party-USA
+3165	3179	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+3331	3343	американском	американский	LOC	GPE-USA
+3488	3498	демократов	демократы	ORG	ORG-Democratic-Party-USA
+3504	3518	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+3572	3582	Белом доме	Белый дом	ORG	ORG-The-White-House
+3767	3786	праймериз 2008 года	праймериз 2008	EVT	EVT-2008-Primaries
+3847	3869	демократической партии	демократическая партия	ORG	ORG-Democratic-Party-USA
+3870	3881	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+3953	3967	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+3989	4001	Джон Маккейн	Джон Маккейн	PER	PER-John-McCain
+4048	4059	Сара Пейлен	Сара Пейлен	PER	PER-Sarah-Palin
+4072	4078	Аляски	Аляска	LOC	GPE-Alaska
+4122	4132	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4172	4186	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+4291	4305	Андрей Макурин	Андрей Макурин	PER	PER-Andrey-Makurin
+4312	4329	выборах 2012 года	выборы 2012 года	EVT	EVT-2012-United-States-Presidential-Election
+4341	4355	Бараком Обамой	Барак Обама	PER	PER-Barack-Obama
+4358	4370	Миттом Ромни	Митт Ромни	PER	PER-Mitt-Romney
+4453	4462	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+4501	4512	Белого дома	Белый дом	ORG	ORG-The-White-House
+4708	4711	США	США	LOC	GPE-USA
+4746	4761	республиканцами	республиканцы	ORG	ORG-Republican-Party-USA
+4764	4775	демократами	демократы	ORG	ORG-Democratic-Party-USA
+5191	5203	Иван Цветков	Иван Цветков	PER	PER-Ivan-Tsvetkov
+5253	5256	США	США	LOC	GPE-USA
+5372	5383	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+5408	5414	выборы	выборы	EVT	EVT-2008-US-Presidential-Election
+5471	5488	Аврааму Линкольну	Авраам Линкольн	PER	PER-Abraham-Lincoln
+5518	5530	американские	американские	LOC	GPE-USA
+5681	5684	США	США	LOC	GPE-USA
+5928	5945	American Airlines	American Airlines	ORG	ORG-American-Airlines
+6019	6027	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+6030	6039	Белый дом	Белый дом	ORG	ORG-The-White-House
+6064	6070	Boeing	Boeing	ORG	ORG-Boeing
+6163	6177	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+6180	6190	демократов	демократ	ORG	ORG-Democratic-Party-USA
+6336	6345	демократы	демократ	ORG	ORG-Democratic-Party-USA
+6476	6486	американцы	американцы	PER	GPE-USA
+6631	6643	американских	американский	LOC	GPE-USA
+6657	6662	СПбГУ	СПбГУ	ORG	ORG-Saint-Petersburg-State-University
+6663	6678	Григорий Ярыгин	Григорий Ярыгин	PER	PER-Grigory-Yarygin
+6711	6714	США	США	LOC	GPE-USA
+6799	6806	Америке	Америке	LOC	GPE-USA
+6817	6833	выборы 1828 года	выборы 1828 года	EVT	EVT-1828-United-States-Presidential-Election
+6871	6888	Джон Куинси Адамс	Джон Куинси Адамс	PER	PER-John-Adams
+6891	6904	Эндрю Джексон	Эндрю Джексон	PER	PER-Andrew-Jackson
+6940	6948	русского	русский	LOC	GPE-Russia
+6957	6963	Адамса	Адамс	PER	PER-John-Adams
+7004	7020	Санкт-Петербурге	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+7068	7080	Александру I	Александру I	PER	PER-Alexander-I
+7144	7150	Адамса	Адамс	PER	PER-John-Adams
+7195	7201	Россия	Россия	LOC	GPE-Russia
+7238	7241	США	США	LOC	GPE-USA
+7272	7279	русских	русские	LOC	GPE-Russia

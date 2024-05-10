@@ -1,0 +1,63 @@
+44	52	Covid-19	Covid-19	EVT	EVT-Covid-19
+117	136	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+327	335	Covid-19	Covid-19	EVT	EVT-Covid-19
+966	974	Covid-19	Covid-19	EVT	EVT-Covid-19
+1356	1362	PwC-ja	PwC	ORG	ORG-PwC
+1968	1976	Covid-19	Covid-19	EVT	EVT-Covid-19
+2584	2587	IoT	IoT	PRO	PRO-Internet-of-Things
+2590	2608	Internet of Things	Internet of Things	PRO	PRO-Internet-of-Things
+2700	2703	IoT	IoT	PRO	PRO-Internet-of-Things
+2940	2943	IoT	IoT	PRO	PRO-Internet-of-Things
+3053	3056	IoT	IoT	PRO	PRO-Internet-of-Things
+3065	3068	IoT	IoT	PRO	PRO-Internet-of-Things
+3178	3181	IoT	IoT	PRO	PRO-Internet-of-Things
+3449	3452	IoT	IoT	PRO	PRO-Internet-of-Things
+3683	3686	IoT	IoT	PRO	PRO-Internet-of-Things
+4523	4527	GDPR	GDPR	PRO	PRO-GDPR-The-General-Data-Protection-Regulation
+4551	4562	ElevenPaths	ElevenPaths	ORG	ORG-ElevenPaths
+4694	4696	5G	5G	PRO	PRO-5G
+4785	4788	IoT	IoT	PRO	PRO-Internet-of-Things
+4951	4956	FedEx	FedEx	ORG	ORG-FedEx
+4958	4961	IBM	IBM	ORG	ORG-IBM
+4963	4970	Walmart	Walmart	ORG	ORG-Walmart
+4974	4984	Mastercard	Mastercard	ORG	PRO-Mastercard
+5434	5440	IoT-ja	IoT	PRO	PRO-Internet-of-Things
+5471	5473	XR	XR	PRO	PRO-Extended-Reality
+5476	5492	Extended Reality	Extended Reality	PRO	PRO-Extended-Reality
+5496	5498	XR	XR	PRO	PRO-Extended-Reality
+5691	5699	Snapchat	Snapchat	PRO	PRO-Snapchat
+5708	5718	Pokemon Go	Pokemon Go	PRO	PRO-Pokemon-Go
+5731	5733	XR	XR	PRO	PRO-Extended-Reality
+6205	6210	Slack	Slack	PRO	PRO-Slack
+6212	6216	Zoom	Zoom	PRO	PRO-Zoom
+6277	6279	AR	AR	PRO	PRO-Augmented-Reality
+6283	6285	VR	VR	PRO	PRO-Virtual-Reality
+6360	6362	5G	5G	PRO	PRO-5G
+6372	6374	5G	5G	PRO	PRO-5G
+6539	6541	4G	4G	PRO	PRO-4G
+6631	6633	5G	5G	PRO	PRO-5G
+6827	6829	5G	5G	PRO	PRO-5G
+6862	6865	IoT	IoT	PRO	PRO-Internet-of-Things
+6959	6961	5G	5G	PRO	PRO-5G
+7269	7271	5G	5G	PRO	PRO-5G
+7487	7490	IoT	IoT	PRO	PRO-Internet-of-Things
+7773	7776	IoT	IoT	PRO	PRO-Internet-of-Things
+7819	7823	AIoT	AIoT	PRO	PRO-Artificial-Intelligence-of-Things
+7832	7835	IoT	IoT	PRO	PRO-Internet-of-Things
+8488	8494	Python	Python	PRO	PRO-Python
+8496	8501	React	React	PRO	PRO-Westinghouse-nuclear-reactor
+8511	8518	Angular	Angular	PRO	PRO-Angular
+8536	8542	Docker	Docker	PRO	PRO-Docker
+8544	8550	Django	Django	PRO	PRO-Django
+8552	8559	CompTIA	CompTIA	PRO	PRO-CompTIA
+8561	8571	Amazon AWS	Amazon AWS	PRO	PRO-Amazon-AWS
+8573	8585	React Native	React Native	PRO	PRO-React-Native
+8597	8606	Gatsby.js	Gatsby.js	PRO	PRO-Gatsby.js
+8625	8637	AWS Big Data	AWS Big Data	PRO	PRO-AWS-Big-Data
+8639	8650	React Hooks	React Hooks	PRO	PRO-React-Hooks
+8652	8680	Microsoft Azure Architecture	Microsoft Azure Architecture	PRO	PRO-Microsoft-Azure-Architecture
+8682	8689	Next.js	Next.js	PRO	PRO-Next.js
+8708	8722	Apache Airflow	Apache Airflow	PRO	PRO-Apache-Airflow
+8724	8731	SwiftUI	SwiftUI	PRO	PRO-SwiftUI
+8733	8744	Pegasystems	Pegasystems	PRO	PRO-Pegasystems
+8746	8751	ESP32	ESP32	PRO	PRO-ESP

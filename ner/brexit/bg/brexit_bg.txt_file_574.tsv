@@ -1,0 +1,13 @@
+2	10	Германия	Германия	LOC	GPE-Germany
+27	34	Брекзит	Брекзит	EVT	EVT-Brexit
+109	131	Северозападна Германия	Северозападна Германия	LOC	LOC-Northwestern-Germany
+177	184	Брекзит	Брекзит	EVT	EVT-Brexit
+274	284	германците	германци	PER	GPE-Germany
+353	362	Дюселдорф	Дюселдорф	LOC	GPE-Dusseldorf
+392	402	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+417	424	Брекзит	Брекзит	EVT	EVT-Brexit
+477	495	politicalskrapbook	politicalskrapbook	PRO	PRO-politicalskrapbook-site
+562	576	Великобритания	Великобритания	LOC	GPE-Great-Britain
+588	604	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+648	658	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+709	716	Брекзит	Брекзит	EVT	EVT-Brexit

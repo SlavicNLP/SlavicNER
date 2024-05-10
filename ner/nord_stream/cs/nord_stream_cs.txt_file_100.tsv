@@ -1,0 +1,27 @@
+30	36	Evropy	Evropa	LOC	LOC-Europe
+49	57	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+69	78	Merkelová	Merkelová	PER	PER-Angela-Merkel
+81	86	Putin	Putin	PER	PER-Vladimir-Putin
+89	93	Soči	Soči	LOC	GPE-Sochi
+95	102	Německo	Německo	LOC	GPE-Germany
+132	145	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+186	192	Evropy	Evropa	LOC	LOC-Europe
+207	215	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+220	224	Soči	Soči	LOC	GPE-Sochi
+277	285	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+301	309	německou	německa	LOC	GPE-Germany
+321	339	Angelou Merkelovou	Angela Merkelová	PER	PER-Angela-Merkel
+364	368	Soči	Soči	LOC	GPE-Sochi
+420	424	Soči	Soči	LOC	GPE-Sochi
+504	510	Ruskem	Rusko	LOC	GPE-Russia
+563	568	Putin	Putin	PER	PER-Vladimir-Putin
+609	612	USA	USA	LOC	GPE-USA
+626	641	ruský parlament	ruský parlament	ORG	ORG-Russian-Parliament
+767	771	TASS	TASS	ORG	ORG-TASS-Agency
+812	817	Sýrii	Sýrie	LOC	GPE-Syria
+841	847	Íránem	Írán	LOC	GPE-Iran
+860	875	Blízkém východě	Blízký východ	LOC	LOC-Middle-East
+877	882	Putin	Putin	PER	PER-Vladimir-Putin
+885	894	Merkelová	Merkelová	PER	PER-Angela-Merkel
+965	976	RIA Novosti	RIA Novosti	ORG	ORG-RIA-Novosti
+997	1003	Kyjevě	Kyjev	LOC	GPE-Kiev

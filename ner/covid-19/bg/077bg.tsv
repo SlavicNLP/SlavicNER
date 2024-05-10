@@ -1,0 +1,24 @@
+0	7	Moderna	Moderna	ORG	ORG-Moderna
+72	80	Covid-19	COVID-19	EVT	EVT-Covid-19
+145	152	Moderna	Moderna	ORG	ORG-Moderna
+202	210	Covid-19	COVID-19	EVT	EVT-Covid-19
+333	337	CNBC	CNBC	PRO	PRO-CNBC
+431	442	коронавирус	коронавирус	EVT	EVT-Covid-19
+456	472	Съединените щати	Съединени щати	LOC	GPE-USA
+528	535	Moderna	Moderna	ORG	ORG-Moderna
+604	614	Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+643	689	Американската агенция по храните и лекарствата	Американска агенция по храните и лекарствата	ORG	ORG-FDA
+717	724	Moderna	Moderna	ORG	ORG-Moderna
+763	779	Съединените щати	Съединени щати	LOC	GPE-USA
+782	808	Федералното правителството	Федерално правителство	ORG	ORG-Federal-Goverment-of-USA
+852	859	Moderna	Moderna	ORG	ORG-Moderna
+946	954	Covid-19	COVID-19	EVT	EVT-Covid-19
+958	965	Moderna	Moderna	ORG	ORG-Moderna
+1056	1062	Канада	Канада	LOC	GPE-Canada
+1129	1135	Канада	Канада	LOC	GPE-Canada
+1243	1255	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1305	1339	Агенцията по храните и лекарствата	Агенция по храните и лекарствата	ORG	ORG-FDA
+1393	1400	Moderna	Moderna	ORG	ORG-Moderna
+1500	1503	САЩ	САЩ	LOC	GPE-USA
+1625	1687	Американските центрове за контрол и превенция на заболяванията	Американски центрове за контрол и превенция на заболяванията	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+1774	1782	Covid-19	COVID-19	EVT	EVT-Covid-19

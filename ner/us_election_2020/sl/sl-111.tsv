@@ -1,0 +1,75 @@
+161	164	ZDA	ZDA	LOC	GPE-USA
+167	179	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+188	197	Belo hišo	Bela hiša	LOC	LOC-White-House
+221	224	ZDA	ZDA	LOC	GPE-USA
+274	283	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+291	300	Jim Bourg	Jim Bourg	PER	PER-Jim-Bourg
+301	314	Carlos Barria	Carlos Barria	PER	PER-Carlos-Barria
+315	322	Reuters	Reuters	ORG	ORG-Reuters
+522	531	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+564	567	ZDA	ZDA	LOC	GPE-USA
+659	668	demokrata	demokrat	PER	ORG-Democratic-Party-USA
+821	833	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+938	943	Biden	Biden	PER	PER-Joe-Biden
+1081	1090	Scrantonu	Scranton	LOC	GPE-Scranton
+1114	1123	Belo hišo	Bela hiša	LOC	LOC-White-House
+1216	1221	Bidna	Biden	PER	PER-Joe-Biden
+1232	1241	Bele hiše	Bela hiša	LOC	LOC-White-House
+1245	1249	Delo	Delo	PRO	PRO-Delo
+1289	1295	Sophia	Sophia	PER	PER-Sophia
+1318	1321	Ann	Ann	PER	PER-Ann
+1337	1357	Pensilvanske avenije	Pensilvanska avenija	LOC	LOC-Pennsylvania-Avenue
+1363	1372	Belo hišo	Bela hiša	LOC	LOC-White-House
+1529	1535	Trumpa	Trump	PER	PER-Donald-Trump
+1574	1583	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1687	1696	Belo hišo	Bela hiša	LOC	LOC-White-House
+1722	1734	Angela Weiss	Angela Weiss	PER	PER-Angela-Weiss
+1735	1738	Afp	Afp	ORG	ORG-AFP-Agence-France-Press
+1835	1847	Janeza Janše	Janez Janša	PER	PER-Janez-Janša
+1909	1923	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+2027	2032	Bidna	Biden	PER	PER-Joe-Biden
+2231	2234	ZDA	ZDA	LOC	GPE-USA
+2394	2405	Washingtonu	Washington	LOC	GPE-WashingtonDC
+2406	2416	Roman Kirn	Roman Kirn	PER	PER-Roman-Kirn
+2424	2439	Bojan Grobovšek	Bojan Grobovšek	PER	PER-Bojan-Grobovšek
+2486	2526	Slovenskega društva za mednarodne odnose	Slovensko društvo za mednarodne odnose	ORG	ORG-Slovenian-Society-for-foreign-relations
+2604	2613	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2621	2630	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2682	2691	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2702	2715	Ernest Petrič	Ernest Petrič	PER	PER-Ernest-Petrič
+2758	2761	ZDA	ZDA	LOC	GPE-USA
+2765	2774	Slovenijo	Slovenija	LOC	GPE-Slovenia
+2785	2797	Zlatko Šabić	Zlatko Šabić	PER	PER-Zlatko-Šabić
+2824	2827	ZDA	ZDA	LOC	GPE-USA
+2878	2901	Luka Lisjak Gabrijelčič	Luka Lisjak Gabrijelčič	PER	PER-Luka-Lisjak-Gabrijelčič
+3045	3060	Bogomil Ferfila	Bogomil Ferfila	PER	PER-Bogomil-Ferfila
+3074	3083	Američani	Američani	PER	GPE-USA
+3160	3168	Slovenki	Slovenki	PER	GPE-Slovenia
+3181	3184	ZDA	ZDA	LOC	GPE-USA
+3201	3214	Maruša Bradač	Maruša Bradač	PER	PER-Maruša-Bradač
+3260	3275	Urška Velikonja	Urška Velikonja	PER	PER-Urška-Velikonja
+3304	3309	Bidna	Biden	PER	PER-Joe-Biden
+3414	3419	Bidnu	Biden	PER	PER-Joe-Biden
+3497	3510	Angele Merkel	Angele Merkel	PER	PER-Angela-Merkel
+3665	3672	Nemčiji	Nemčija	LOC	GPE-Germany
+3730	3735	Biden	Biden	PER	PER-Joe-Biden
+3799	3810	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+3813	3822	Belo hiši	Bela hiša	LOC	LOC-White-House
+3893	3895	EU	EU	ORG	ORG-European-Union
+3967	3972	Biden	Biden	PER	PER-Joe-Biden
+4063	4068	Trump	Trump	PER	PER-Donald-Trump
+4115	4135	drugi svetovni vojni	druga svetovna vojna	EVT	EVT-World-War-II
+4199	4206	Kremlju	Kremelj	ORG	ORG-Kremlin
+4482	4495	Leonid Slucki	Leonid Slucki	PER	PER-Leonid-Slucki
+4589	4601	Joeju Bidenu	Joe Biden	PER	PER-Joe-Biden
+4685	4696	Joeju Bidnu	Joe Biden	PER	PER-Joe-Biden
+4746	4759	Kamale Harris	Kamala Harris	PER	PER-Kamala-Harris
+4901	4917	Tulasendrapurama	Tulasendrapuram	LOC	LOC-Tulasendrapuram
+4936	4946	Tamil Nadu	Tamil Nadu	LOC	GPE-Tamil-Nadu
+4948	4956	Kitajsko	Kitajska	LOC	GPE-China
+5072	5077	Trump	Trump	PER	PER-Donald-Trump
+5109	5116	Bidnove	Biden	PER	PER-Joe-Biden
+5243	5254	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+5266	5281	Bližnjem vzhodu	Bližnji vzhod	LOC	LOC-Middle-East
+5324	5327	ZDA	ZDA	LOC	GPE-USA
+5399	5413	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump

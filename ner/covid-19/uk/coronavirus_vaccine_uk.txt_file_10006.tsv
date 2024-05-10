@@ -1,0 +1,29 @@
+0	8	Євросоюз	Євросоюз	ORG	ORG-European-Union
+54	62	COVID-19	COVID-19	EVT	EVT-Covid-19
+105	117	фон дер Ляєн	фон дер Ляєн	PER	PER-Ursula-von-der-Leyen
+125	133	Євросоюз	Євросоюз	ORG	ORG-European-Union
+168	180	коронавірусу	коронавірус	EVT	EVT-Covid-19
+184	201	Європейський Союз	Європейський Союз	ORG	ORG-European-Union
+230	236	Pfizer	Pfizer	ORG	ORG-Pfizer
+240	248	BioNTech	BioNTech	ORG	ORG-BioNTech
+283	295	коронавірусу	коронавірус	EVT	EVT-Covid-19
+340	345	COVID	COVID	EVT	EVT-Covid-19
+381	390	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+406	426	Європейської комісії	Європейська комісія	ORG	ORG-European-Commission
+427	446	Урсула фон дер Ляєн	Урсула фон дер Ляєн	PER	PER-Ursula-von-der-Leyen
+509	517	BioNTech	BioNTech	ORG	ORG-BioNTech
+520	526	Pfizer	Pfizer	ORG	ORG-Pfizer
+595	597	EU	EU	ORG	ORG-European-Union
+845	857	коронавірусу	коронавірус	EVT	EVT-Covid-19
+881	892	Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+907	914	Twitter	Twitter	PRO	PRO-Twitter
+976	988	коронавірусу	коронавірус	EVT	EVT-Covid-19
+991	1000	Євросоюзі	Євросоюз	LOC	ORG-European-Union
+1111	1122	Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+1123	1142	Урсула фон дер Ляєн	Урсула фон дер Ляєн	PER	PER-Ursula-von-der-Leyen
+1195	1197	ЄС	ЄС	LOC	ORG-European-Union
+1249	1255	Польщі	Польща	LOC	GPE-Poland
+1371	1378	Ізраїлі	Ізраїль	LOC	GPE-Israel
+1394	1403	Туреччини	Туреччина	LOC	GPE-Turkey
+1438	1449	коронавірус	коронавірус	EVT	EVT-Covid-19
+1451	1459	Євросоюз	Євросоюз	ORG	ORG-European-Union

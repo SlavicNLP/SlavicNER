@@ -1,0 +1,79 @@
+34	40	Brexit	Brexit	EVT	EVT-Brexit
+60	70	Терези Мей	Тереза Мей	PER	PER-Theresa-May
+122	138	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+141	150	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+203	209	Brexit	Brexit	EVT	EVT-Brexit
+459	475	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+478	480	ЄС	ЄС	LOC	ORG-European-Union
+588	598	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+813	815	ЄС	ЄС	LOC	ORG-European-Union
+999	1009	Терези Мей	Тереза Мей	PER	PER-Theresa-May
+1143	1145	ЄС	ЄС	LOC	ORG-European-Union
+1367	1369	ЄС	ЄС	LOC	ORG-European-Union
+1432	1438	Brexit	Brexit	EVT	EVT-Brexit
+1681	1683	ЄС	ЄС	LOC	ORG-European-Union
+1733	1743	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1798	1815	Даунінг-стрит, 10	Даунінг-стрит, 10	LOC	LOC-Downing-Street
+2040	2042	ЄС	ЄС	LOC	ORG-European-Union
+2129	2135	Європи	Європа	LOC	LOC-Europe
+2300	2302	ЄС	ЄС	LOC	ORG-European-Union
+2338	2340	ЄС	ЄС	LOC	ORG-European-Union
+2512	2515	Мей	Мей	PER	PER-Theresa-May
+2736	2752	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+2766	2768	ЄС	ЄС	LOC	ORG-European-Union
+2798	2807	Ірландією	Ірландія	LOC	GPE-Ireland
+2834	2852	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+2867	2869	ЄС	ЄС	LOC	ORG-European-Union
+2968	2971	Мей	Мей	PER	PER-Theresa-May
+3450	3456	Brexit	Brexit	EVT	EVT-Brexit
+3634	3636	ЄС	ЄС	LOC	ORG-European-Union
+3750	3756	Brexit	Brexit	EVT	EVT-Brexit
+3757	3769	Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+3863	3882	Північною Ірландією	Північна Ірландія	LOC	GPE-Northern-Ireland
+3939	3947	Британія	Британія	LOC	GPE-Great-Britain
+3996	4005	Ірландією	Ірландія	LOC	GPE-Ireland
+4095	4101	Brexit	Brexit	EVT	EVT-Brexit
+4194	4211	Північна Ірландія	Північна Ірландія	LOC	GPE-Northern-Ireland
+4367	4390	Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+4392	4400	Британія	Британія	LOC	GPE-Great-Britain
+4434	4450	Митному союзі ЄС	Митний союз ЄС	ORG	ORG-European-Union-Customs-Union
+4474	4493	Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+4556	4573	Північна Ірландія	Північна Ірландія	LOC	GPE-Northern-Ireland
+4656	4664	Британія	Британія	LOC	GPE-Great-Britain
+4725	4727	ЄС	ЄС	LOC	ORG-European-Union
+4864	4872	Британія	Британія	LOC	GPE-Great-Britain
+4947	4965	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+4966	4977	Шейлеш Вара	Шейлеш Вара	PER	PER-Shailesh-Vara
+5058	5069	Естер Макві	Естер Макві	PER	PER-Ester-Makvi
+5144	5150	Brexit	Brexit	EVT	EVT-Brexit
+5151	5167	Сюелла Браверман	Сюелла Браверман	PER	PER-Suella-Braverman
+5195	5212	Раніл Джаявардена	Раніл Джаяварден	PER	PER-Ranil-Dzhayavardena
+5241	5259	Анн-Марі Тревельян	Анн-Марі Тревельян	PER	PER-Anne-Marie-Trevelyan
+5331	5345	Майклом Гоувом	Майкл Гоув	PER	PER-Michael-Gove
+5414	5420	Brexit	Brexit	EVT	EVT-Brexit
+5562	5577	Джейкоб Різ-Мог	Джейкоб Різ-Мог	PER	PER-Jacob-Rees-Mogg
+5623	5633	Терезі Мей	Тереза Мей	PER	PER-Theresa-May
+5957	5972	Джейкоб Різ-Мог	Джейкоб Різ-Мог	PER	PER-Jacob-Rees-Mogg
+6006	6012	Brexit	Brexit	EVT	EVT-Brexit
+6013	6024	Девід Девіс	Девід Девіс	PER	PER-David-Davis
+6083	6095	Джеремі Гант	Джеремі Гант	PER	PER-Jeremy-Hunt
+6136	6139	Мей	Мей	PER	PER-Theresa-May
+6141	6156	Девід Лідінгтон	Девід Лідінгтон	PER	PER-David-Lidington
+6311	6314	Мей	Мей	PER	PER-Theresa-May
+6560	6562	ЄС	ЄС	LOC	ORG-European-Union
+6745	6747	ЄС	ЄС	LOC	ORG-European-Union
+6982	6990	Британії	Британія	LOC	GPE-Great-Britain
+7081	7098	Великою Британією	Велика Британія	LOC	GPE-Great-Britain
+7223	7231	Брюсселі	Брюссель	LOC	GPE-Brussles
+7307	7324	Великою Британією	Велика Британія	LOC	GPE-Great-Britain
+7375	7377	ЄС	ЄС	LOC	ORG-European-Union
+7378	7391	Мішелю Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+7424	7441	Європейської ради	Європейська Рада	ORG	ORG-European-Parliament
+7442	7456	Дональду Туску	Дональд Туск	PER	PER-Donald-Tusk
+7508	7510	ЄС	ЄС	LOC	ORG-European-Union
+7545	7551	Brexit	Brexit	EVT	EVT-Brexit
+7580	7585	Туска	Туск	PER	PER-Donald-Tusk
+7803	7817	Європарламенту	Європарламент	ORG	ORG-European-Parliament
+7981	7989	Лондоном	Лондон	LOC	GPE-London
+8024	8040	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+8043	8045	ЄС	ЄС	LOC	ORG-European-Union

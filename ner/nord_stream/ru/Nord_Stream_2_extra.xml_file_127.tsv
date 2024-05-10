@@ -1,0 +1,27 @@
+0	6	Берлин	Берлин	LOC	GPE-Berlin
+34	47	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+56	63	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
+65	71	Берлин	Берлин	LOC	GPE-Berlin
+142	155	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+188	196	Германии	Германия	LOC	GPE-Germany
+197	207	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+210	223	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+313	319	Европе	Европа	LOC	LOC-Europe
+329	339	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+375	382	Х.Мааса	Х.Маас	PER	PER-Heiko-Maas
+414	454	Восточного комитета Германской экономики	Восточный комитет Германской экономики	ORG	ORG-Committee-on-Eastern-European-Economic-Relations
+457	464	Берлине	Берлин	LOC	GPE-Berlin
+491	503	"""Интерфакса"""	"""Интерфакс"""	ORG	ORG-Interfax
+546	548	РФ	РФ	LOC	GPE-Russia
+549	563	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+599	606	Украину	Украина	LOC	GPE-Ukraine
+691	703	Еврокомиссия	Еврокомиссия	ORG	ORG-European-Commission
+727	734	Россией	Россия	LOC	GPE-Russia
+737	745	Украиной	Украина	LOC	GPE-Ukraine
+791	804	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+864	876	Майку Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+891	894	США	США	LOC	GPE-USA
+934	940	Х.Маас	Х.Маас	PER	PER-Heiko-Maas
+1075	1081	Россию	Россия	LOC	GPE-Russia
+1082	1092	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+1137	1143	России	Россия	LOC	GPE-Russia

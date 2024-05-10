@@ -1,0 +1,30 @@
+10	16	Polski	Polska	LOC	GPE-Poland
+18	24	Brexit	Brexit	EVT	EVT-Brexit
+40	42	UE	UE	ORG	ORG-European-Union
+44	62	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+201	207	brexit	brexit	EVT	EVT-Brexit
+484	493	Churchill	Churchill	PER	PER-Winston-Churchill
+573	580	Komisji	Komisja	ORG	ORG-European-Commission
+818	822	Unii	Unia	ORG	ORG-European-Union
+1029	1035	Polska	Polska	LOC	GPE-Poland
+1087	1093	Polska	Polska	LOC	GPE-Poland
+1106	1110	Unii	Unia	ORG	ORG-European-Union
+1162	1169	Komisją	Komisja	ORG	ORG-European-Commission
+1403	1409	Dunaju	Dunaj	LOC	LOC-Danube
+1443	1449	Węgrom	Węgrzy	PER	GPE-Hungary
+1621	1638	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1640	1644	Unia	Unia	ORG	ORG-European-Union
+1658	1690	Europejska Wspólnota Gospodarcza	Europejska Wspólnota Gospodarcza	ORG	ORG-EEC-European-Economic-Community
+1764	1771	Europie	Europa	LOC	LOC-Europe
+1936	1940	Unii	Unia	ORG	ORG-European-Union
+2004	2010	Polsce	Polska	LOC	GPE-Poland
+2156	2162	Polska	Polska	LOC	GPE-Poland
+2397	2403	Polsce	Polska	LOC	GPE-Poland
+2644	2651	Polaków	Polacy	PER	GPE-Poland
+2655	2659	Unii	Unia	ORG	ORG-European-Union
+2702	2708	Polska	Polska	LOC	GPE-Poland
+2762	2766	Unii	Unia	ORG	ORG-European-Union
+2788	2795	Polaków	Polacy	PER	GPE-Poland
+2842	2846	Unii	Unia	ORG	ORG-European-Union
+2884	2892	polexitu	Polexit	EVT	EVT-Polexit
+3054	3071	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

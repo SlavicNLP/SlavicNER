@@ -1,0 +1,20 @@
+0	25	Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+49	58	Wprost.pl	Wprost.pl	PRO	PRO-Wprost
+60	72	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+77	86	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+161	173	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+199	208	Wprost.pl	Wprost.pl	PRO	PRO-Wprost
+246	266	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+274	284	Amerykanie	Amerykanie	PER	GPE-USA
+437	447	Amerykanów	Amerykanie	PER	GPE-USA
+603	628	Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+809	818	Florydzie	Floryda	LOC	GPE-Florida
+1085	1092	Floryda	Floryda	LOC	GPE-Florida
+1102	1108	Teksas	Teksas	LOC	GPE-Texas
+1110	1117	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1119	1126	Arizona	Arizona	LOC	GPE-Arizona
+1128	1134	Newada	Newada	LOC	GPE-Nevada
+1139	1156	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1218	1227	Wprost.pl	Wprost.pl	PRO	PRO-Wprost
+1247	1256	Biały Dom	Biały Dom	LOC	LOC-White-House
+1313	1322	Atlantyku	Atlantyk	LOC	LOC-Atlantic-Ocean

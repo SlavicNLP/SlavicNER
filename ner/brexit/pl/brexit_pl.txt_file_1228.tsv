@@ -1,0 +1,16 @@
+0	6	Londyn	Londyn	LOC	GPE-London
+65	71	brexit	Brexit	EVT	EVT-Brexit
+72	87	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+149	166	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+403	421	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+509	524	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+566	568	UE	UE	ORG	ORG-European-Union
+594	596	UE	UE	ORG	ORG-European-Union
+682	707	Koncepcja Państw Ramowych	Koncepcja Państw Ramowych	PRO	PRO-Framework-Nations-Concept
+739	758	ministerstwa obrony	Ministerstwo Obrony	ORG	ORG-Ministry-of-National-Defence-Republic-of-
+842	859	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1062	1069	Reuters	Reuters	ORG	ORG-Reuters
+1109	1115	Londyn	Londyn	LOC	GPE-London
+1201	1206	Rosję	Rosja	LOC	GPE-Russia
+1246	1255	Salisbury	Salisbury	LOC	GPE-Salisbury
+1309	1331	Siergiejowi Skripalowi	Siergiej Skripal	PER	PER-Siergiej-Skripal

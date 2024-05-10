@@ -1,0 +1,19 @@
+0	21	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+67	73	России	Россия	LOC	GPE-Russia
+75	100	Палата представителей США	Палата представителей США	ORG	ORG-United-States-House-of-Representatives
+172	178	России	Россия	LOC	GPE-Russia
+181	189	Беларуси	Беларусь	LOC	GPE-Belarus
+229	295	Законопроект об изоляции официальных лиц российского правительства	Законопроект об изоляции официальных лиц российского правительства	PRO	PRO-Isolate-Russian-Government-Officials-Act-of-2022
+511	527	Всемирного банка	Всемирный банк	ORG	ORG-World-Bank
+530	560	Международного валютного фонда	Международный валютный фонд	ORG	ORG-International-Monetary-Fund
+638	655	Большой двадцатки	Большая двадцатка	ORG	ORG-G20
+711	718	Украине	Украина	LOC	GPE-Ukraine
+730	755	министерства финансов США	министерство финансов США	ORG	ORG-United-States-Department-of-the-Treasury
+806	813	Украины	Украина	LOC	GPE-Ukraine
+815	874	Законопроект о финансовых санкциях против России и Беларуси	Законопроект о финансовых санкциях против России и Беларуси	PRO	PRO-Russia-and-Belarus-Financial-Sanctions-Act-of-2022
+1072	1092	Российской Федерации	Российская Федерация	LOC	GPE-Russia
+1095	1114	Республики Беларусь	Республика Беларусь	LOC	GPE-Belarus
+1126	1204	Законопроект о запрете обмена специальных прав заимствования России и Беларуси	Законопроект о запрете обмена специальных прав заимствования России и Беларуси	PRO	PRO-Russia-and-Belarus-SDR-Exchange-Prohibition-Act-of-2022
+1215	1240	министерству финансов США	министерство финансов США	ORG	ORG-United-States-Department-of-the-Treasury
+1322	1328	России	Россия	LOC	GPE-Russia
+1333	1341	Беларуси	Беларусь	LOC	GPE-Belarus

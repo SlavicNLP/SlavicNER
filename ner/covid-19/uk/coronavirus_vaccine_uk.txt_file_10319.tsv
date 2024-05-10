@@ -1,0 +1,85 @@
+0	6	Nature	Nature	PRO	PRO-Nature-(journal)
+24	31	Україна	Україна	LOC	GPE-Ukraine
+41	46	Китаї	Китай	LOC	GPE-China
+177	185	COVID-19	COVID-19	EVT	EVT-Covid-19
+210	218	пандемія	пандемія	EVT	EVT-Covid-19
+279	287	COVID-19	COVID-19	EVT	EVT-Covid-19
+296	303	REUTERS	REUTERS	ORG	ORG-Reuters
+360	365	Китаю	Китай	LOC	GPE-China
+370	378	COVID-19	COVID-19	EVT	EVT-Covid-19
+538	544	Nature	Nature	PRO	PRO-Nature-(journal)
+559	567	Бразилії	Бразилія	LOC	GPE-Brazil
+592	601	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+635	642	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+705	713	COVID-19	COVID-19	EVT	EVT-Covid-19
+827	836	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+916	925	Туреччині	Туреччина	LOC	GPE-Turkey
+928	937	Індонезії	Індонезія	LOC	GPE-Indonesia
+948	956	Бразилії	Бразилія	LOC	GPE-Brazil
+1013	1020	Ердоган	Ердоган	PER	PER-Recep-Tayyip-Erdoğan
+1042	1050	COVID-19	COVID-19	EVT	EVT-Covid-19
+1066	1073	Україна	Україна	LOC	GPE-Ukraine
+1095	1113	Інституту Бутантан	Інститут Бутантан	ORG	ORG-Instituto-Butantan-Brazil
+1116	1125	Сан-Паулу	Сан-Паулу	LOC	GPE-Sao-Paulo-state
+1200	1208	COVID-19	COVID-19	EVT	EVT-Covid-19
+1397	1404	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+1532	1540	пандемії	пандемія	EVT	EVT-Covid-19
+1565	1573	Бразилія	Бразилія	LOC	GPE-Brazil
+1694	1708	Хільда Бастіан	Хільда Бастіан	PER	PER-Hilda-Bastian
+1741	1759	Університеті Бонда	Університет Бонда	ORG	ORG-Bond-University
+1762	1771	Австралії	Австралія	LOC	GPE-Australia
+1818	1823	Китаю	Китай	LOC	GPE-China
+1854	1862	COVID-19	COVID-19	EVT	EVT-Covid-19
+2088	2096	COVID-19	COVID-19	EVT	EVT-Covid-19
+2129	2161	Педіатричної клініки Філадельфії	Педіатрична клініка Філадельфії	ORG	ORG-Children's-Hospital-of-Philadelphia
+2162	2173	Пола Оффіта	Пол Оффіт	PER	PER-Paul-Offit
+2249	2260	коронавірус	коронавірус	EVT	EVT-Covid-19
+2323	2332	Туреччини	Туреччина	LOC	GPE-Turkey
+2404	2411	SinoVac	SinoVac	PRO	PRO-SinoVac
+2481	2518	Медичної школи університету Хачеттепе	Медична школа університету Хачеттепе	ORG	ORG-Medical-School-of-Hacettepe-University
+2519	2530	Мурат Акова	Мурат Акова	PER	PER-Murat-Akova
+2582	2591	Туреччині	Туреччина	LOC	GPE-Turkey
+2604	2609	Акова	Акова	PER	PER-Murat-Akova
+2658	2664	Анкара	Анкара	LOC	GPE-Ankara
+2750	2756	Pfizer	Pfizer	ORG	ORG-Pfizer
+2798	2810	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2813	2819	Європу	Європа	LOC	LOC-Europe
+2863	2872	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+2931	2939	COVID-19	COVID-19	EVT	EVT-Covid-19
+3167	3173	Pfizer	Pfizer	ORG	ORG-Pfizer
+3174	3182	BioNTech	BioNTech	ORG	ORG-BioNTech
+3185	3192	Moderna	Moderna	ORG	ORG-Moderna
+3250	3259	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+3285	3294	Туреччині	Туреччина	LOC	GPE-Turkey
+3357	3365	COVID-19	COVID-19	EVT	EVT-Covid-19
+3391	3400	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+3653	3661	COVID-19	COVID-19	EVT	EVT-Covid-19
+3885	3896	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+3907	3933	Оксфордським університетом	Оксфордський університет	ORG	ORG-Oxford-University
+4148	4155	Бастіан	Бастіан	PER	PER-Hilda-Bastian
+4230	4238	COVID-19	COVID-19	EVT	EVT-Covid-19
+4328	4336	Бразилії	Бразилія	LOC	GPE-Brazil
+4658	4671	коронавірусом	коронавірус	EVT	EVT-Covid-19
+4834	4843	Туреччині	Туреччина	LOC	GPE-Turkey
+4871	4880	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+4916	4928	коронавірусу	коронавірус	EVT	EVT-Covid-19
+4929	4939	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+5036	5068	Університету Південної Австралії	Університет Південної Австралії	ORG	ORG-University-of-South-Australia
+5069	5084	Адріан Естермен	Адріан Естермен	PER	PER-Adrian-Esterman
+5099	5105	Pfizer	Pfizer	ORG	ORG-Pfizer
+5106	5114	BioNTech	BioNTech	ORG	ORG-BioNTech
+5176	5184	Цельсієм	Цельсій	PER	PER-Celsius
+5433	5445	коронавірусу	коронавірус	EVT	EVT-Covid-19
+5450	5457	України	Україна	LOC	GPE-Ukraine
+5488	5495	Україна	Україна	LOC	GPE-Ukraine
+5527	5535	COVID-19	COVID-19	EVT	EVT-Covid-19
+5591	5596	COVAX	COVAX	PRO	PRO-Covax-initiative
+5811	5819	Степанов	Степанов	PER	PER-Maksym-Stepanov
+5831	5834	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+5902	5907	COVAX	COVAX	PRO	PRO-Covax-initiative
+5943	5950	Україна	Україна	LOC	GPE-Ukraine
+5993	6000	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+6040	6052	коронавірусу	коронавірус	EVT	EVT-Covid-19
+6066	6070	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+6294	6299	УНІАН	УНІАН	ORG	ORG-UNIAN
+6300	6306	ІноЗМІ	ІноЗМІ	PRO	PRO-InoZMI

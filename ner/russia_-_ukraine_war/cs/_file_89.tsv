@@ -1,0 +1,18 @@
+17	26	Václaváku	Václavák	LOC	LOC-Wenceslas-Square
+76	84	Putinovi	Putin	PER	PER-Vladimir-Putin
+119	130	Petra Fialy	Petr Fiala	PER	PER-Petr-Fiala
+229	256	ruskou agresi vůči Ukrajině	ruská agrese vůči Ukrajině	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+371	385	Andreje Babiše	Andrej Babiš	PER	PER-Andrej-Babis
+387	390	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+395	413	Václavském náměstí	Václavské náměstí	LOC	LOC-Wenceslas-Square
+426	455	Milion chvilek pro demokracii	Milion chvilek pro demokracii	ORG	ORG-Milion-Chvilek-pro-Demokracii-Organization
+491	518	Česká republika na 1. místě	Česká republika na 1. místě	EVT	EVT-Ceska-Republika-na-1-miste-protest
+566	576	Chcípl pes	Chcípl pes	ORG	ORG-Chcipl-Pes-Organization
+609	619	koronaviru	koronavir	EVT	EVT-Covid-19
+677	680	ODS	ODS	ORG	ORG-ODS-czech-political-party
+738	751	střední Čechy	střední Čechy	LOC	GPE-Central-Bohemian-Region
+900	915	České republiky	Česká republika	LOC	GPE-Czech-Republic
+1260	1275	České republiky	Česká republika	LOC	GPE-Czech-Republic
+1301	1306	Fiala	Fiala	PER	PER-Petr-Fiala
+1429	1443	Evropskou unii	Evropská unie	ORG	ORG-European-Union
+1446	1471	Severoatlantickou alianci	Severoatlantická aliancie	ORG	ORG-NATO

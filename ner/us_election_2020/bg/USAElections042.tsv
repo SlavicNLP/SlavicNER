@@ -1,0 +1,33 @@
+0	10	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+33	36	САЩ	САЩ	LOC	GPE-USA
+38	43	Тръмп	Тръмп	PER	PER-Donald-Trump
+82	92	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+115	118	САЩ	САЩ	LOC	GPE-USA
+136	147	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+184	189	Тръмп	Тръмп	PER	PER-Donald-Trump
+297	308	демократите	демократи	PER	ORG-Democratic-Party-USA
+309	319	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+327	354	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+365	368	CNN	CNN	PRO	PRO-CNN
+370	373	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+375	390	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+455	466	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+477	483	Байдън	Байдън	PER	PER-Joe-Biden
+502	507	Тръмп	Тръмп	PER	PER-Donald-Trump
+532	538	Байдън	Байдън	PER	PER-Joe-Biden
+549	559	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+607	623	Съединените щати	Съединени щати	LOC	GPE-USA
+639	651	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+792	797	Тръмп	Тръмп	PER	PER-Donald-Trump
+885	895	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1064	1069	Тръмп	Тръмп	PER	PER-Donald-Trump
+1150	1162	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1286	1309	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+1397	1403	Байдън	Байдън	PER	PER-Joe-Biden
+1471	1477	Туитър	Туитър	PRO	PRO-Twitter
+1538	1548	американци	американци	PER	GPE-USA
+1646	1656	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1697	1704	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+1764	1770	Байдън	Байдън	PER	PER-Joe-Biden
+1789	1798	Белия дом	Белия дом	LOC	LOC-White-House
+1803	1812	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC

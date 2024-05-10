@@ -1,0 +1,14 @@
+79	86	Brexitu	Brexit	EVT	EVT-Brexit
+160	162	UE	UE	ORG	ORG-European-Union
+189	192	May	May	PER	PER-Theresa-May
+220	227	Brexitu	Brexit	EVT	EVT-Brexit
+327	331	Unią	Unia	ORG	ORG-European-Union
+719	730	Bank Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+1057	1060	BOE	BOE	ORG	ORG-Bank-of-England
+1332	1340	Brexitem	Brexit	EVT	EVT-Brexit
+1365	1382	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1394	1411	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1437	1439	UE	UE	ORG	ORG-European-Union
+1449	1457	Irlandii	Irlandia	LOC	GPE-Ireland
+1530	1537	Brexitu	Brexit	EVT	EVT-Brexit
+1604	1610	Brexit	Brexit	EVT	EVT-Brexit

@@ -1,0 +1,51 @@
+31	38	Brexitu	Brexit	EVT	EVT-Brexit
+69	76	Brexitu	Brexit	EVT	EVT-Brexit
+77	91	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+118	126	Brukseli	Bruksela	LOC	GPE-Brussles
+184	192	Londynem	Londyn	LOC	GPE-London
+203	220	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+223	225	UE	UE	ORG	ORG-European-Union
+260	263	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Bulgaria
+264	272	Bułgarii	Bułgaria	LOC	GPE-Bulgaria
+273	293	Ekaterina Zachariewa	Ekaterina Zachariewa	PER	PER-Ekaterina-Zakharieva
+313	321	Brukseli	Bruksela	LOC	GPE-Brussles
+430	437	Brexitu	Brexit	EVT	EVT-Brexit
+495	505	Zachariewa	Zachariewa	PER	PER-Ekaterina-Zakharieva
+509	516	Barnier	Barnier	PER	PER-Michel-Barnier
+552	554	UE	UE	ORG	ORG-European-Union
+557	572	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+699	706	Barnier	Barnier	PER	PER-Michel-Barnier
+920	937	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+940	942	UE	UE	ORG	ORG-European-Union
+982	992	Zachariewa	Zachariewa	PER	PER-Ekaterina-Zakharieva
+1101	1109	Irlandii	Irlandia	LOC	GPE-Ireland
+1187	1195	Brexitem	Brexit	EVT	EVT-Brexit
+1243	1255	Michael Roth	Michael Roth	PER	PER-Michael-Roth
+1275	1282	Reuters	Reuters	ORG	ORG-Reuters
+1313	1324	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1378	1381	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1399	1405	Brexit	Brexit	EVT	EVT-Brexit
+1454	1462	Brukseli	Bruksela	LOC	GPE-Brussles
+1598	1616	Federica Mogherini	Federica Mogherini	PER	PER-Federica-Mogherini
+1649	1666	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1667	1682	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1698	1707	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1808	1810	UE	UE	ORG	ORG-European-Union
+1982	1997	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2120	2127	Barnier	Barnier	PER	PER-Michel-Barnier
+2143	2158	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+2225	2232	Brexitu	Brexit	EVT	EVT-Brexit
+2365	2382	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2385	2387	UE	UE	ORG	ORG-European-Union
+2482	2490	Irlandii	Irlandia	LOC	GPE-Ireland
+2493	2511	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+2532	2539	Francuz	Francuz	PER	GPE-France
+2577	2584	Dundalk	Dundalk	LOC	GPE-Dundalk
+2594	2612	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+2623	2631	Brexicie	Brexit	EVT	EVT-Brexit
+2658	2681	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+2711	2713	UE	UE	ORG	ORG-European-Union
+2769	2777	Londynem	Londyn	LOC	GPE-London
+2780	2788	Brukselą	Bruksela	LOC	GPE-Brussles
+2821	2836	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2853	2855	UE	UE	ORG	ORG-European-Union

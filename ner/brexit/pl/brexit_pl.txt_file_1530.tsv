@@ -1,0 +1,37 @@
+0	16	Komitet Regionów	Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+97	104	brexitu	Brexit	EVT	EVT-Brexit
+119	135	Komitet Regionów	Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+145	162	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+165	182	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+241	248	Europie	Europa	LOC	LOC-Europe
+271	278	Komisję	Komisja	ORG	ORG-European-Commission
+365	381	Komitet Regionów	Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+444	450	brexit	Brexit	EVT	EVT-Brexit
+497	501	Unii	Unia	ORG	ORG-European-Union
+594	602	Irlandii	Irlandia	LOC	GPE-Ireland
+604	612	Holandii	Holandia	LOC	GPE-Holland
+614	620	Belgii	Belgia	LOC	GPE-Belgium
+623	630	Francji	Francja	LOC	GPE-France
+641	658	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+661	663	UE	UE	ORG	ORG-European-Union
+760	762	UE	UE	ORG	ORG-European-Union
+829	836	brexitu	Brexit	EVT	EVT-Brexit
+869	876	Europie	Europa	LOC	LOC-Europe
+906	908	KR	KR	ORG	ORG-CoR-European-Committee-of-the-Regions
+909	928	Karl-Heinz Lambertz	Karl-Heinz Lambertz	PER	PER-Karl-Heinz-Lambertz
+944	951	Komitet	Komitet	ORG	ORG-CoR-European-Committee-of-the-Regions
+1053	1069	Komitet Regionów	Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+1121	1123	KR	KR	ORG	ORG-CoR-European-Committee-of-the-Regions
+1224	1231	brexitu	Brexit	EVT	EVT-Brexit
+1295	1297	KE	KE	ORG	ORG-European-Commission
+1417	1419	UE	UE	ORG	ORG-European-Union
+1431	1448	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1672	1679	brexitu	Brexit	EVT	EVT-Brexit
+1690	1698	Lambertz	Lambertz	PER	PER-Karl-Heinz-Lambertz
+1701	1717	Komitet Regionów	Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+1852	1860	Interreg	Interreg	PRO	PRO-Interreg
+1902	1904	UE	UE	ORG	ORG-European-Union
+1949	1966	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1969	1971	UE	UE	ORG	ORG-European-Union
+2002	2009	Komisja	Komisja	ORG	ORG-European-Commission
+2174	2181	brexitu	Brexit	EVT	EVT-Brexit

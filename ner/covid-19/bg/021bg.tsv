@@ -1,0 +1,21 @@
+0	5	Путин	Путин	PER	PER-Vladimir-Putin
+8	14	Меркел	Меркел	PER	PER-Angela-Merkel
+154	178	коронавирусната пандемия	коронавирусна пандемия	EVT	EVT-Pandemic
+199	213	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+245	258	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+317	329	коронавируса	коронавирус	EVT	EVT-Covid-19
+348	354	Кремъл	Кремъл	LOC	LOC-Kremlin
+391	397	Москва	Москва	LOC	GPE-Moscow
+461	464	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+553	577	коронавирусната пандемия	коронавирусна пандемия	EVT	EVT-Pandemic
+683	689	Кремъл	Кремъл	LOC	LOC-Kremlin
+797	802	Путин	Путин	PER	PER-Vladimir-Putin
+805	811	Меркел	Меркел	PER	PER-Angela-Merkel
+872	876	Киев	Киев	LOC	GPE-Kiev
+904	919	Източна Украйна	Източна Украйна	LOC	LOC-East-Ukraine
+1041	1056	Руската ваксина	Руска ваксина	PRO	PRO-Russian-vaccine
+1106	1117	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1233	1242	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+1310	1316	Москва	Москва	LOC	GPE-Moscow
+1507	1512	Русия	Русия	LOC	GPE-Russia
+1618	1625	Беларус	Беларус	LOC	GPE-Belarus

@@ -1,0 +1,35 @@
+2	5	ZDA	ZDA	LOC	GPE-USA
+86	89	ZDA	ZDA	LOC	GPE-USA
+141	144	CNN	CNN	PRO	PRO-CNN
+301	310	Američani	Američani	PER	GPE-USA
+391	400	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+420	432	republikance	republikanci	ORG	ORG-Republican-Party-USA
+593	605	republikanec	republikanec	PER	ORG-Republican-Party-USA
+610	618	demokrat	demokrat	PER	ORG-Democratic-Party-USA
+682	694	Republikanci	Republikanci	PER	ORG-Republican-Party-USA
+843	864	republikanske stranke	republikanska stranka	ORG	ORG-Republican-Party-USA
+894	897	ZDA	ZDA	LOC	GPE-USA
+898	912	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+980	985	Trump	Trump	PER	PER-Donald-Trump
+1025	1034	Američani	Američani	PER	GPE-USA
+1145	1154	New Yorku	New York	LOC	GPE-New-York
+1224	1232	New York	New York	LOC	GPE-New-York
+1371	1395	Alexandria Ocasio Cortez	Alexandria Ocasio Cortez	PER	PER-Alexandria-Ocasio-Cortez
+1441	1448	Ameriki	Amerika	LOC	GPE-USA
+1633	1641	New York	New York	LOC	GPE-New-York
+1807	1810	ZDA	ZDA	LOC	GPE-USA
+1942	1949	Floridi	Florida	LOC	GPE-Florida
+2040	2050	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+2081	2094	republikancev	republikanci	PER	ORG-Republican-Party-USA
+2227	2236	Demokrati	Demokrati	PER	ORG-Democratic-Party-USA
+2254	2261	Floridi	Florida	LOC	GPE-Florida
+2304	2316	republikanci	republikanci	PER	ORG-Republican-Party-USA
+2318	2330	republikanci	republikanci	PER	ORG-Republican-Party-USA
+2377	2386	demokrati	demokrati	PER	ORG-Democratic-Party-USA
+2391	2397	Nevadi	Nevada	LOC	GPE-Nevada
+2449	2461	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+2512	2524	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2606	2622	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+2685	2687	AP	AP	ORG	ORG-AP-The-Associated-Press
+2739	2742	ZDA	ZDA	LOC	GPE-USA
+2817	2824	Teksasu	Teksas	LOC	GPE-Texas

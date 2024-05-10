@@ -1,0 +1,20 @@
+0	16	Световната банка	Световна банка	ORG	ORG-World-Bank
+18	26	COVID-19	COVID-19	EVT	EVT-Covid-19
+68	72	Азия	Азия	LOC	LOC-Asia
+124	129	Китай	Китай	LOC	GPE-China
+182	207	пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+262	277	Югоизточна Азия	Югоизточна Азия	LOC	LOC-Southeast-Asia
+280	291	Тихия океан	Тихи океан	LOC	LOC-Pacific-Ocean
+309	314	Китай	Китай	LOC	GPE-China
+332	348	Световната банка	Световна банка	ORG	ORG-World-Bank
+653	658	Китай	Китай	LOC	GPE-China
+983	999	Световната банка	Световна банка	ORG	ORG-World-Bank
+1340	1350	пандемията	пандемия	EVT	EVT-Pandemic
+1572	1582	пандемията	пандемия	EVT	EVT-Pandemic
+1712	1728	Световната банка	Световна банка	ORG	ORG-World-Bank
+1850	1860	пандемията	пандемия	EVT	EVT-Pandemic
+2102	2107	Китай	Китай	LOC	GPE-China
+2807	2822	Виктория Куакуа	Виктория Куакуа	PER	PER-Victoria-Kwakwa
+2841	2853	Източна Азия	Източна Азия	LOC	LOC-Eastern-Asia
+2856	2867	Тихия океан	Тихи океан	LOC	LOC-Pacific-Ocean
+2870	2886	Световната банка	Световна банка	ORG	ORG-World-Bank

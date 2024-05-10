@@ -1,0 +1,23 @@
+2	11	Болсонаро	Болсонаро	PER	PER-Jair-Bolsonaro
+21	27	Байдън	Байдън	PER	PER-Joe-Biden
+76	90	Жаир Болсонаро	Жаир Болсонаро	PER	PER-Jair-Bolsonaro
+100	110	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+126	140	изборите в САЩ	избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+186	193	Twitter	Twitter	PRO	PRO-Twitter
+242	252	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+269	272	САЩ	САЩ	LOC	GPE-USA
+358	367	Болсонаро	Болсонаро	PER	PER-Jair-Bolsonaro
+388	391	САЩ	САЩ	LOC	GPE-USA
+677	686	Болсонаро	Болсонаро	PER	PER-Jair-Bolsonaro
+746	752	Байдън	Байдън	PER	PER-Joe-Biden
+756	783	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+878	887	Белия дом	Бял дом	LOC	LOC-White-House
+888	901	републиканеца	републиканец	PER	ORG-Republican-Party-USA
+902	914	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+952	973	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+1011	1014	САЩ	САЩ	LOC	GPE-USA
+1029	1035	Байдън	Байдън	PER	PER-Joe-Biden
+1082	1091	демократа	демократ	PER	ORG-Democratic-Party-USA
+1151	1164	републиканеца	републиканец	PER	ORG-Republican-Party-USA
+1165	1177	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1209	1212	САЩ	САЩ	LOC	GPE-USA

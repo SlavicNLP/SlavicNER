@@ -1,0 +1,15 @@
+20	28	Брексита	Брексит	EVT	EVT-Brexit
+39	51	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+73	81	Брексита	Брексит	EVT	EVT-Brexit
+92	104	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+148	162	Великобритании	Великобритания	LOC	GPE-Great-Britain
+166	175	Евросоюза	Евросоюз	ORG	ORG-European-Union
+185	197	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+258	268	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+286	290	Рааб	Рааб	PER	PER-Dominic-Raab
+393	401	Брексита	Брексит	EVT	EVT-Brexit
+413	426	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+514	517	Мэй	Мэй	PER	PER-Theresa-May
+554	556	ЕС	ЕС	ORG	ORG-European-Union
+668	676	Брекситу	Брексит	EVT	EVT-Brexit
+689	690	Ъ	Ъ	PRO	PRO-Kommersant

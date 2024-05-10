@@ -1,0 +1,46 @@
+0	6	Moskva	Moskva	LOC	GPE-Moscow
+10	15	Kijev	Kijev	LOC	GPE-Kiev
+47	49	EU	EU	ORG	ORG-European-Union
+107	121	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+153	155	EU	EU	ORG	ORG-European-Union
+517	531	Maroš Šefčovič	Maroš Šefčovič	PER	PER-Maros-Sefcovic
+618	624	Moskvo	Moskva	LOC	GPE-Moscow
+628	635	Kijevom	Kijev	LOC	GPE-Kiev
+722	730	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+734	740	Rusijo	Rusija	LOC	GPE-Russia
+862	870	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+977	996	Viktorja Janukoviča	Viktor Janukovič	PER	PER-Viktor-Yanukovych
+1004	1012	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1017	1023	Rusija	Rusija	LOC	GPE-Russia
+1230	1236	Zahodu	Zahod	LOC	LOC-West
+1242	1250	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1273	1291	Volodimir Zelenski	Volodimir Zelenski	PER	PER-Volodymyr-Zelensky
+1344	1350	Rusijo	Rusija	LOC	GPE-Russia
+1369	1383	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+1417	1431	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1523	1534	Severni tok	Severni tok	PRO	PRO-Nord-Stream-2
+1557	1572	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+1615	1629	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1632	1638	Rusijo	Rusija	LOC	GPE-Russia
+1640	1646	Moskvi	Moskva	LOC	GPE-Moscow
+1741	1745	Nato	Nato	ORG	ORG-NATO
+1766	1773	Macronu	Macron	PER	PER-Emmanuel-Macron
+1803	1816	Angelo Merkel	Angela Merkel	PER	PER-Angela-Merkel
+1824	1830	Putina	Putin	PER	PER-Vladimir-Putin
+1859	1869	Zelenskega	Zelenski	PER	PER-Volodymyr-Zelensky
+1906	1912	Parizu	Pariz	LOC	GPE-Paris
+1956	1964	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1969	1976	Kijevom	Kijev	LOC	GPE-Kiev
+1980	1986	Moskvo	Moskva	LOC	GPE-Moscow
+2550	2558	Šefčovič	Šefčovič	PER	PER-Maros-Sefcovic
+2713	2718	Minsk	Minsk	LOC	GPE-Minsk
+2730	2737	Berlinu	Berlin	LOC	GPE-Berlin
+2831	2839	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+2914	2920	Moskva	Moskva	LOC	GPE-Moscow
+2921	2929	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+3000	3008	Gazpromu	Gazprom	ORG	ORG-Gazprom
+3010	3019	Naftogazu	Naftogaz	ORG	ORG-Naftogaz
+3057	3065	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+3069	3075	Rusije	Rusija	LOC	GPE-Russia
+3230	3236	Rusija	Rusija	LOC	GPE-Russia
+3270	3278	Ukrajina	Ukrajina	LOC	GPE-Ukraine

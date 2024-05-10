@@ -1,0 +1,37 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+10	15	Trump	Trump	PER	PER-Donald-Trump
+97	104	Floridi	Florida	LOC	GPE-Florida
+166	168	AP	AP	ORG	ORG-AP-The-Associated-Press
+282	284	AP	AP	ORG	ORG-AP-The-Associated-Press
+380	390	Američanov	Američani	PER	GPE-USA
+482	494	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+499	508	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+523	542	Pew Research centra	Pew Research center	ORG	ORG-Pew-research-center
+1103	1110	Floridi	Florida	LOC	GPE-Florida
+1112	1121	Američani	Američani	PER	GPE-USA
+1448	1458	Američanov	Američani	PER	GPE-USA
+1539	1559	US Election Projecta	US Election Project	ORG	ORG-US-Election-Project
+1637	1640	ZDA	ZDA	LOC	GPE-USA
+1717	1727	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+1735	1748	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+1823	1830	Florida	Florida	LOC	GPE-Florida
+1832	1848	Severna Karolina	Severna Karolina	LOC	GPE-North-Carolina-US-State
+1852	1859	Georgia	Georgia	LOC	GPE-Georgia-US-state
+2031	2041	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+2046	2059	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+2157	2162	Bidna	Biden	PER	PER-Joe-Biden
+2234	2239	Trump	Trump	PER	PER-Donald-Trump
+2280	2293	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+2602	2611	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+2615	2627	Pensilvanija	Pensilvanija	LOC	GPE-Pennsylvania
+2641	2649	Michigan	Michigan	LOC	GPE-Michigan
+2742	2747	Trump	Trump	PER	PER-Donald-Trump
+2823	2828	Biden	Biden	PER	PER-Joe-Biden
+2941	2955	Kathy Boockvar	Kathy Boockvar	PER	PER-Kathy-Boockvar
+3208	3224	Severna Karolina	Severna Karolina	LOC	GPE-North-Carolina-US-State
+3309	3316	Floridi	Florida	LOC	GPE-Florida
+3388	3400	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+3405	3414	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+3863	3875	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+4202	4207	Trump	Trump	PER	PER-Donald-Trump
+4443	4450	Florido	Florida	LOC	GPE-Florida

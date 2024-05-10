@@ -1,0 +1,17 @@
+14	16	ЕС	ЕС	ORG	ORG-European-Union
+50	56	Лондон	Лондон	LOC	GPE-London
+85	92	Брекзит	Брекзит	EVT	EVT-Brexit
+96	110	Великобритания	Великобритания	LOC	GPE-Great-Britain
+111	124	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+149	151	ЕС	ЕС	ORG	ORG-European-Union
+193	213	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+241	248	Ройтерс	Ройтерс	ORG	ORG-Reuters
+331	337	Дейвис	Дейвис	PER	PER-David-Davis
+353	355	ЕС	ЕС	ORG	ORG-European-Union
+466	468	ЕС	ЕС	ORG	ORG-European-Union
+498	512	Великобритания	Великобритания	LOC	GPE-Great-Britain
+650	652	ЕС	ЕС	ORG	ORG-European-Union
+712	726	Великобритания	Великобритания	LOC	GPE-Great-Britain
+805	807	ЕС	ЕС	ORG	ORG-European-Union
+827	834	Брекзит	Брекзит	EVT	EVT-Brexit
+837	857	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons

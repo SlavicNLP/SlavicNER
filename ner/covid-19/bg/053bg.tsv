@@ -1,0 +1,37 @@
+0	11	Коронавирус	коронавирус	EVT	EVT-Covid-19
+47	53	Европа	Европа	LOC	LOC-Europe
+75	116	Европейската агенция по лекарствата (ЕМА)	Европейска агенция по лекарствата (ЕМА)	ORG	ORG-EMA-European-Medicines-Agency
+146	154	BioNTech	BioNTech	ORG	ORG-BioNTech
+157	163	Pfizer	Pfizer	ORG	ORG-Pfizer
+257	259	ЕС	ЕС	ORG	ORG-European-Union
+283	289	Коледа	Коледа	EVT	EVT-Christmas
+439	442	ЕМА	ЕМА	ORG	ORG-EMA-European-Medicines-Agency
+472	474	ЕК	ЕК	ORG	ORG-European-Commission
+558	560	ЕС	ЕС	ORG	ORG-European-Union
+621	623	ЕК	ЕК	ORG	ORG-European-Commission
+662	665	ЕМА	ЕМА	ORG	ORG-EMA-European-Medicines-Agency
+756	764	BioNTech	BioNTech	ORG	ORG-BioNTech
+983	991	BioNTech	BioNTech	ORG	ORG-BioNTech
+992	1002	Угур Сахин	Угур Сахин	PER	PER-Ugur-Sahin
+1038	1044	Коледа	Коледа	EVT	EVT-Christmas
+1134	1141	Брюксел	Брюксел	LOC	GPE-Brussles
+1163	1169	Шпигел	Шпигел	PRO	PRO-Der-Spiegel
+1388	1390	ЕС	ЕС	ORG	ORG-European-Union
+1475	1484	Общността	Общност	ORG	ORG-European-Union
+1666	1668	ЕС	ЕС	ORG	ORG-European-Union
+1713	1721	BioNTech	BioNTech	ORG	ORG-BioNTech
+1724	1730	Pfizer	Pfizer	ORG	ORG-Pfizer
+1837	1844	Брюксел	Брюксел	LOC	GPE-Brussles
+1992	2003	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2099	2101	ЕК	ЕК	ORG	ORG-European-Commission
+2229	2239	Петер Лизе	Петер Лизе	PER	PER-Peter-Liese
+2288	2321	Европейската народна партия (ЕНП)	Европейска народна партия (ЕНП)	ORG	ORG-EPP-group-in-European-Parlament
+2338	2345	Moderna	Moderna	ORG	ORG-Moderna
+2456	2470	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2492	2500	Тюбинген	Тюбинген	LOC	GPE-Tübingen
+2514	2521	CureVac	CureVac	ORG	ORG-CureVac
+2568	2570	ЕС	ЕС	ORG	ORG-European-Union
+2582	2592	пандемията	пандемия	EVT	EVT-Pandemic
+3033	3045	коронавируса	коронавирус	EVT	EVT-Covid-19
+3295	3299	Лизе	Лизе	PER	PER-Peter-Liese
+3729	3733	Лизе	Лизе	PER	PER-Peter-Liese

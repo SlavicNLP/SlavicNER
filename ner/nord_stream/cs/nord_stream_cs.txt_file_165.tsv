@@ -1,0 +1,43 @@
+0	13	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+33	38	Ruska	Rusko	LOC	GPE-Russia
+56	58	EU	EU	ORG	ORG-European-Union
+61	65	NATO	NATO	ORG	ORG-NATO
+87	97	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+108	121	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+147	152	Ruska	Rusko	LOC	GPE-Russia
+208	214	Evropě	Evropa	LOC	LOC-Europe
+235	265	Parlamentního shromáždění NATO	Parlamentní shromáždění NATO	ORG	ORG-NATO-Parliamentary-Assembly
+269	276	Varšavě	Varšava	LOC	GPE-Warsaw
+310	328	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+339	350	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+368	382	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+403	410	Německa	Německo	LOC	GPE-Germany
+420	433	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+476	482	Polsko	Polsko	LOC	GPE-Poland
+517	530	Spojené státy	Spojené státy	LOC	GPE-USA
+554	560	Moskva	Moskva	LOC	GPE-Moscow
+595	601	Evropě	Evropa	LOC	LOC-Europe
+647	649	EU	EU	ORG	ORG-European-Union
+652	656	NATO	NATO	ORG	ORG-NATO
+779	789	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+853	877	Severoatlantická aliance	Severoatlantická aliance	ORG	ORG-NATO
+902	908	Polsku	Polsko	LOC	GPE-Poland
+911	918	Pobaltí	Pobaltí	LOC	LOC-Baltic-countries
+998	1009	anexe Krymu	anexe Krymu	EVT	EVT-Annexation-of-Crimea
+1034	1038	NATO	NATO	ORG	ORG-NATO
+1125	1129	NATO	NATO	ORG	ORG-NATO
+1239	1244	Rusko	Rusko	LOC	GPE-Russia
+1278	1282	Krym	Krym	LOC	GPE-Crimea
+1301	1305	NATO	NATO	ORG	ORG-NATO
+1417	1429	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+1445	1451	Moskva	Moskva	LOC	GPE-Moscow
+1492	1508	Sovětského svazu	Sovětský svaz	LOC	GPE-USSR
+1511	1527	Invaze do Gruzie	Invaze do Gruzie	EVT	EVT-Invasion-of-Georgia
+1539	1550	anexe Krymu	anexe Krymu	EVT	EVT-Annexation-of-Crimea
+1576	1584	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+1606	1611	Ruska	Rusko	LOC	GPE-Russia
+1629	1633	Duda	Duda	PER	PER-Andrzej-Duda
+1674	1680	Ruskem	Rusko	LOC	GPE-Russia
+1683	1689	Gruzií	Gruzie	LOC	GPE-Georgia
+1720	1728	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+1780	1786	Moskva	Moskva	LOC	GPE-Moscow

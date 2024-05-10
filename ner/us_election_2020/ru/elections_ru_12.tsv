@@ -1,0 +1,129 @@
+46	55	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+76	82	Москву	Москва	LOC	GPE-Moscow
+104	107	США	США	LOC	GPE-USA
+123	126	США	США	LOC	GPE-USA
+127	138	Майк Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+151	157	Россия	Россия	LOC	GPE-Russia
+221	231	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+429	431	РФ	РФ	LOC	GPE-Russia
+432	446	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+492	501	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+609	615	Москву	Москва	LOC	GPE-Moscow
+655	658	США	США	LOC	GPE-USA
+659	670	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+674	680	Россия	Россия	LOC	GPE-Russia
+743	761	Соединённых Штатов	Соединенные штаты	LOC	GPE-USA
+791	794	США	США	LOC	GPE-USA
+795	806	Майк Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+827	838	Бена Шапиро	Бен Шапиро	PER	PER-Ben-Shapiro
+1019	1025	Россия	Россия	LOC	GPE-Russia
+1074	1077	США	США	LOC	GPE-USA
+1201	1207	Помпео	Помпео	PER	PER-Mike-Pompeo
+1250	1252	РФ	РФ	LOC	GPE-Russia
+1301	1308	русские	русский	PER	GPE-Russia
+1312	1314	RT	RT	ORG	ORG-RT
+1481	1488	русских	русские	PER	GPE-Russia
+1628	1635	Reuters	Reuters	ORG	ORG-Reuters
+1714	1720	Россию	Россия	LOC	GPE-Russia
+1806	1809	США	США	LOC	GPE-USA
+1816	1829	Лос-Анджелесе	Лос-Анджелес	LOC	GPE-Los-Angeles
+1852	1854	РФ	РФ	LOC	GPE-Russia
+1855	1869	Егора Крючкова	Егор Крючков	PER	PER-Egor-Kryuchkov
+1882	1906	Министерстве юстиции США	Министерство юстиции США	ORG	ORG-The-United-States-Department-of-Justice
+2175	2226	Совета национальной безопасности Соединённых Штатов	Совет национальной безопасности США	ORG	ORG-United-States-National-Security-Council
+2250	2269	The Washington Post	The Washington Post	ORG	ORG-Embassy-of-Bulgaria-in-Washington
+2420	2423	США	США	LOC	GPE-USA
+2683	2686	СВР	СВР	ORG	ORG-Foreign-Intelligence-Service-of-the-Russian-Federation
+2688	2694	России	Россия	LOC	GPE-Russia
+2800	2809	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+2855	2858	США	США	LOC	GPE-USA
+2878	2893	Роберт О'Брайен	Роберт О'Брайен	PER	PER-Robert-O'Brien
+2914	2923	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3062	3064	РФ	РФ	LOC	GPE-Russia
+3065	3079	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+3125	3128	США	США	LOC	GPE-USA
+3154	3160	Россия	Россия	LOC	GPE-Russia
+3290	3295	Путин	Путин	PER	PER-Vladimir-Putin
+3590	3596	Путина	Путин	PER	PER-Vladimir-Putin
+3619	3622	США	США	LOC	GPE-USA
+3635	3641	Песков	Песков	PER	PER-Dmitry-Peskov
+3691	3714	посольство России в США	посольство России в США	ORG	ORG-Embassy-of-the-Russian-Federation-in-the-USA
+3741	3743	РФ	РФ	LOC	GPE-Russia
+3978	3984	Россия	Россия	LOC	GPE-Russia
+4125	4142	Соединённые Штаты	Соединённые Штаты	LOC	GPE-USA
+4162	4168	Россию	Россия	LOC	GPE-Russia
+4201	4204	США	США	LOC	GPE-USA
+4257	4305	Исследовательская служба американского конгресса	Исследовательская служба американского конгресса	ORG	ORG-Congressional-Research-Service
+4398	4416	Генштаба ВС России	Генштаб ВС России	ORG	ORG-General-Staff-of-the-Armed-Forces-of-the-Russian-Federation
+4448	4483	Главное разведывательное управление	Главное разведывательное управление	ORG	ORG-GRU-(Russian-GU)
+4486	4489	ГРУ	ГРУ	ORG	ORG-GRU-(Russian-GU)
+4650	4653	ГРУ	ГРУ	ORG	ORG-GRU-(Russian-GU)
+4704	4706	RT	RT	ORG	ORG-RT
+4710	4724	Минобороны США	Миноборона США	ORG	ORG-United-States-Department-of-Defense
+4896	4898	РФ	РФ	LOC	GPE-Russia
+5047	5117	Агентство по кибербезопасности и обеспечению защиты инфраструктуры США	Агентство по кибербезопасности и обеспечению защиты инфраструктуры США	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+5119	5123	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+5127	5130	ФБР	ФБР	ORG	ORG-FBI
+5214	5221	Россией	Россия	LOC	GPE-Russia
+5321	5328	Америке	Америка	LOC	GPE-USA
+5367	5369	RT	RT	ORG	ORG-RT
+5873	5883	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+5932	5950	Соединённых Штатов	Соединенные Штаты	LOC	GPE-USA
+5970	5981	Майк Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+5989	5995	Россию	Россия	LOC	GPE-Russia
+6062	6068	Москву	Москва	LOC	GPE-Moscow
+6189	6200	Госдепа США	Госдеп США	ORG	ORG-Department-of-State-USA
+6348	6354	Помпео	Помпео	PER	PER-Mike-Pompeo
+6368	6374	Москва	Москва	LOC	GPE-Moscow
+6476	6492	Александр Асафов	Александр Асафов	PER	Александра Филиппенко
+6507	6509	RT	RT	ORG	ORG-RT
+6630	6636	России	Россия	LOC	GPE-Russia
+6661	6668	Байдена	Байден	PER	PER-Joe-Biden
+6706	6709	США	США	LOC	GPE-USA
+6747	6753	России	Россия	LOC	GPE-Russia
+6816	6822	Трампа	Трамп	PER	PER-Donald-Trump
+6915	6922	Байдена	Байден	PER	PER-Joe-Biden
+7054	7061	Байдена	Байден	PER	PER-Joe-Biden
+7150	7194	Центра исследования проблем безопасности РАН	Центр исследования проблем безопасности РАН	ORG	ORG-Centre-for-Security-Studies-Russian-Academy-of-Sciences
+7195	7212	Константин Блохин	Константин Блохин	PER	PER-Konstantin-Blohin
+7301	7303	РФ	РФ	LOC	GPE-Russia
+7343	7361	Соединённых Штатах	Соединенные Штаты	LOC	GPE-USA
+7389	7392	ФБР	ФБР	ORG	ORG-FBI
+7395	7454	Агентство кибербезопасности и инфраструктурной безопасности	Агентство кибербезопасности и инфраструктурной безопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+7456	7460	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+7700	7702	RT	RT	ORG	ORG-RT
+7752	7818	Центра военно-политических исследований Института США и Канады РАН	Центр военно-политических исследований Института США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies
+7819	7833	Владимир Батюк	Владимир Батюк	PER	PER-Vladimir-Batyuk
+7903	7909	России	Россия	LOC	GPE-Russia
+8026	8035	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+8058	8064	России	Россия	LOC	GPE-Russia
+8084	8087	США	США	LOC	GPE-USA
+8148	8150	RT	RT	ORG	ORG-RT
+8154	8160	Блохин	Блохин	PER	PER-Konstantin-Blohin
+8216	8218	РФ	РФ	LOC	GPE-Russia
+8272	8285	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+8293	8302	демократы	демократ	ORG	ORG-Democratic-Party-USA
+8455	8465	демократов	демократ	ORG	ORG-Democratic-Party-USA
+8468	8482	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+8538	8547	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+8597	8603	Москвы	Москва	LOC	GPE-Moscow
+8608	8611	США	США	LOC	GPE-USA
+8613	8626	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+8732	8750	Соединённым Штатам	Соединенные Штаты	LOC	GPE-USA
+8803	8809	Блохин	Блохин	PER	PER-Konstantin-Blohin
+8846	8861	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+8863	8872	демократы	демократ	ORG	ORG-Democratic-Party-USA
+8973	8984	Белого дома	Белый дом	ORG	ORG-The-White-House
+8990	9003	Республиканцы	Республиканец	ORG	ORG-Republican-Party-USA
+9174	9186	коронавируса	коронавирус	EVT	EVT-Covid-19
+9273	9295	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+9457	9463	Блохин	Блохин	PER	PER-Konstantin-Blohin
+9495	9502	Байдена	Байден	PER	PER-Joe-Biden
+9513	9516	США	США	LOC	GPE-USA
+9536	9542	Россию	Россия	LOC	GPE-Russia
+9615	9626	Белого дома	Белый дом	ORG	ORG-The-White-House
+9683	9689	Москвы	Москва	LOC	GPE-Moscow
+9748	9753	Батюк	Батюк	PER	PER-Vladimir-Batyuk
+9791	9797	Россию	Россия	LOC	GPE-Russia
+9879	9886	Байдена	Байден	PER	PER-Joe-Biden
+10048	10062	Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media

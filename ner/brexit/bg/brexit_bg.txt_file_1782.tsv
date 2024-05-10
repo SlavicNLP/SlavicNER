@@ -1,0 +1,68 @@
+0	9	Ашли Фокс	Ашли Фокс	PER	PER-Ashley-Fox
+63	69	Европа	Европа	LOC	LOC-Europe
+99	105	Европа	Европа	LOC	LOC-Europe
+172	187	Ангел Джамбазки	Ангел Джамбазки	PER	PER-Angel-Dzhambazki
+215	219	ВМРО	ВМРО	ORG	ORG-VMRO-BG
+241	279	Европейските консерватори и реформисти	Европейски консерватори и реформисти	ORG	ORG-AECR-Alliance-of-European-Conservatives-and-Reformists
+282	284	ЕП	ЕП	ORG	ORG-European-Parliament
+356	366	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+369	378	Ашли Фокс	Ашли Фокс	PER	PER-Ashley-Fox
+409	447	Европейските консерватори и реформисти	Европейски консерватори и реформисти	ORG	ORG-AECR-Alliance-of-European-Conservatives-and-Reformists
+478	494	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+523	530	Брекзит	Брекзит	EVT	EVT-Brexit
+547	561	Великобритания	Великобритания	LOC	GPE-Great-Britain
+579	581	ЕС	ЕС	ORG	ORG-European-Union
+599	605	Европа	Европа	LOC	LOC-Europe
+656	660	Фокс	Фокс	PER	PER-Ashley-Fox
+675	696	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+708	712	Фокс	Фокс	PER	PER-Ashley-Fox
+760	766	Англия	Англия	LOC	GPE-England
+769	778	Гибралтар	Гибралтар	LOC	GPE-Gibraltar
+802	816	консерваторите	консерватори	PER	ORG-European-Conservatives-and-Reformists-Group
+819	832	реформаторите	реформатори	PER	ORG-European-Conservatives-and-Reformists-Group
+833	842	Ашли Фокс	Ашли Фокс	PER	PER-Ashley-Fox
+896	898	ЕС	ЕС	ORG	ORG-European-Union
+987	993	Европа	Европа	LOC	LOC-Europe
+1003	1007	Фокс	Фокс	PER	PER-Ashley-Fox
+1022	1029	Брекзит	Брекзит	EVT	EVT-Brexit
+1144	1146	ЕС	ЕС	ORG	ORG-European-Union
+1239	1241	ЕС	ЕС	ORG	ORG-European-Union
+1282	1289	Брекзит	Брекзит	EVT	EVT-Brexit
+1290	1304	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1413	1419	Европа	Европа	LOC	LOC-Europe
+1516	1529	Хоризонт 2020	Хоризонт 2020	PRO	PRO-Horizon-2020
+1536	1542	Еразъм	Еразъм	PRO	PRO-Erasmus-Programme
+1543	1552	Ашли Фокс	Ашли Фокс	PER	PER-Ashley-Fox
+1639	1646	Брюксел	Брюксел	LOC	GPE-Brussles
+1694	1700	Европа	Европа	LOC	LOC-Europe
+1905	1907	ЕС	ЕС	ORG	ORG-European-Union
+1939	1959	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1998	2002	Фокс	Фокс	PER	PER-Ashley-Fox
+2159	2163	НАТО	НАТО	ORG	ORG-NATO
+2242	2244	ЕС	ЕС	ORG	ORG-European-Union
+2269	2283	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2377	2379	ЕС	ЕС	ORG	ORG-European-Union
+2516	2520	Фокс	Фокс	PER	PER-Ashley-Fox
+2552	2566	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2608	2621	Великобритаия	Великобритаия	LOC	GPE-Great-Britain
+2652	2654	ЕС	ЕС	ORG	ORG-European-Union
+2718	2722	Фокс	Фокс	PER	PER-Ashley-Fox
+2805	2819	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+2844	2858	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2907	2911	Фокс	Фокс	PER	PER-Ashley-Fox
+3060	3070	Британците	британци	PER	GPE-Great-Britain
+3214	3221	Брекзит	Брекзит	EVT	EVT-Brexit
+3274	3287	консерваторът	консерватор	PER	ORG-Conservative-and-Unionist-Party-UK
+3321	3327	Меркел	Меркел	PER	PER-Angela-Merkel
+3412	3432	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3581	3585	НАТО	НАТО	ORG	ORG-NATO
+3598	3602	Фокс	Фокс	PER	PER-Ashley-Fox
+3644	3646	ЕС	ЕС	ORG	ORG-European-Union
+4086	4088	ЕС	ЕС	ORG	ORG-European-Union
+4223	4225	ЕП	ЕП	ORG	ORG-European-Parliament
+4312	4316	Фокс	Фокс	PER	PER-Ashley-Fox
+4346	4348	ЕП	ЕП	ORG	ORG-European-Parliament
+4377	4379	ЕК	ЕК	ORG	ORG-European-Commission
+4437	4443	Европа	Европа	LOC	LOC-Europe
+4484	4490	Европа	Европа	LOC	LOC-Europe
+4523	4537	консерваторите	консерватори	PER	ORG-European-Conservatives-and-Reformists-Group

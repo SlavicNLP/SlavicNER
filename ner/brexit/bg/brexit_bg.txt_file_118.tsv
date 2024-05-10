@@ -1,0 +1,26 @@
+20	27	Брекзит	Брекзит	EVT	EVT-Brexit
+47	57	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+59	69	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+91	105	Великобритания	Великобритания	LOC	GPE-Great-Britain
+134	150	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+218	222	Билд	Билд	PRO	PRO-Bild
+237	240	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+376	378	ЕС	ЕС	ORG	ORG-European-Union
+388	394	Европа	Европа	LOC	LOC-Europe
+418	420	ЕС	ЕС	ORG	ORG-European-Union
+429	432	Мей	Мей	PER	PER-Theresa-May
+446	460	Великобритания	Великобритания	LOC	GPE-Great-Britain
+593	607	Великобритания	Великобритания	LOC	GPE-Great-Britain
+799	801	ЕС	ЕС	ORG	ORG-European-Union
+910	913	Мей	Мей	PER	PER-Theresa-May
+1003	1005	ЕС	ЕС	ORG	ORG-European-Union
+1024	1068	Партията за независимостта на Великобритания	Партия за независимостта на Великобритания	ORG	ORG-UK-Independence-Party
+1070	1074	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+1076	1089	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+1104	1114	Арън Банкс	Арън Банкс	PER	PER-Arron-Banks
+1239	1253	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+1263	1277	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1340	1342	ЕС	ЕС	ORG	ORG-European-Union
+1348	1356	Брекзита	Брекзит	EVT	EVT-Brexit
+1492	1506	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1567	1569	ЕС	ЕС	ORG	ORG-European-Union

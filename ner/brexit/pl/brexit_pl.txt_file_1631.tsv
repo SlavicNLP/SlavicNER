@@ -1,0 +1,18 @@
+19	25	brexit	Brexit	EVT	EVT-Brexit
+38	42	Unią	Unia	ORG	ORG-European-Union
+137	143	Londyn	Londyn	LOC	GPE-London
+172	180	Brukselą	Bruksela	LOC	GPE-Brussles
+300	311	Jon Thomson	Jon Thomson	PER	PER-Jon-Thomson
+351	355	Unii	Unia	ORG	ORG-European-Union
+567	570	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+716	724	brexicie	Brexit	EVT	EVT-Brexit
+734	745	Theresa May	Theresa May	PER	PER-Theresa-May
+795	810	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+850	856	Londyn	Londyn	LOC	GPE-London
+951	955	Unii	Unia	ORG	ORG-European-Union
+1059	1072	Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+1075	1093	Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+1106	1110	Unii	Unia	ORG	ORG-European-Union
+1177	1185	Londynie	Londyn	LOC	GPE-London
+1322	1328	Europą	Europa	LOC	LOC-Europe
+1386	1394	Brukselą	Bruksela	LOC	GPE-Brussles

@@ -1,0 +1,65 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+70	72	EU	EU	ORG	ORG-European-Union
+102	121	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+153	169	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+367	373	Miniju	Mini	ORG	ORG-Mini-car-company
+375	396	Jaguarju Land Roverju	Jaguar Land Rover	ORG	ORG-Jaguar-Land-Rover
+454	459	Otoku	otok	LOC	GPE-Great-Britain
+667	674	brexita	brexit	EVT	EVT-Brexit
+763	777	Evropske unije	Evropska unija	ORG	ORG-European-Union
+855	861	London	London	LOC	GPE-London
+862	869	Bruselj	Bruselj	LOC	GPE-Brussles
+890	922	Svetovne trgovinske organizacije	Svetovna trgovinska organizacija	ORG	ORG-WTO-World-Trade-Organization
+924	927	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+1149	1165	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+1180	1194	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+1205	1208	EGS	EGS	ORG	ORG-EEC-European-Economic-Community
+1385	1391	Brexit	Brexit	EVT	EVT-Brexit
+1406	1412	brexit	brexit	EVT	EVT-Brexit
+1633	1635	EU	EU	ORG	ORG-European-Union
+1784	1800	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+2057	2059	EU	EU	ORG	ORG-European-Union
+2088	2091	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+2186	2202	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+2249	2251	EU	EU	ORG	ORG-European-Union
+2285	2290	Otoku	otok	LOC	GPE-Great-Britain
+2333	2335	EU	EU	ORG	ORG-European-Union
+2551	2567	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+2617	2619	EU	EU	ORG	ORG-European-Union
+2654	2656	EU	EU	ORG	ORG-European-Union
+2704	2720	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+2773	2775	EU	EU	ORG	ORG-European-Union
+2813	2829	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+2863	2870	Anglija	Anglija	LOC	GPE-England
+2872	2877	Wales	Wales	LOC	GPE-Wales
+2879	2886	Škotska	Škotska	LOC	GPE-Scotland
+2890	2903	Severna Irska	Severna Irska	LOC	GPE-Northern-Ireland
+2973	2980	brexita	brexit	EVT	EVT-Brexit
+3188	3195	brexita	brexit	EVT	EVT-Brexit
+3322	3324	EU	EU	ORG	ORG-European-Union
+3336	3352	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+3578	3594	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+3650	3657	Doverja	Dover	LOC	GPE-Dover
+3711	3730	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+4088	4093	Honda	Honda	ORG	ORG-Honda
+4114	4130	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+4429	4435	Brexit	Brexit	EVT	EVT-Brexit
+4560	4565	Honda	Honda	ORG	ORG-Honda
+4585	4593	Swindonu	Swindon	LOC	GPE-Swindon
+4657	4664	brexita	brexit	EVT	EVT-Brexit
+4710	4716	Nissan	Nissan	ORG	ORG-Nissan
+4718	4728	Sunderland	Sunderland	LOC	GPE-Sunderland
+4763	4768	Otoku	otok	LOC	GPE-Great-Britain
+4829	4836	x-trail	x-trail	PRO	PRO-Nissan-x-trail
+4839	4856	Jaguar Land Rover	Jaguar Land Rover	ORG	ORG-Jaguar-Land-Rover
+4943	4959	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+5031	5046	Downing Streeta	Downing Street	LOC	LOC-Downing-Street
+5076	5092	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+5131	5147	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+5148	5150	EU	EU	ORG	ORG-European-Union
+5159	5162	EGS	EGS	ORG	ORG-EEC-European-Economic-Community
+5217	5225	Britanci	Britanec	PER	GPE-Great-Britain
+5303	5322	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+5426	5443	Charles de Gaulle	Charles de Gaulle	PER	PER-Charles-de-Gaulle
+5470	5486	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+5520	5526	Evropo	Evropa	LOC	LOC-Europe

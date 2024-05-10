@@ -1,0 +1,39 @@
+0	12	Minca Mramor	Minca Mramor	PER	PER-Minca-Mramor
+16	32	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+34	42	Covid-19	Covid-19	EVT	EVT-Covid-19
+85	93	Slovenci	Slovenci	PER	GPE-Slovenia
+187	199	koronavirusa	koronavirus	EVT	EVT-Covid-19
+202	214	Minca Mramor	Minca Mramor	PER	PER-Minca-Mramor
+300	309	Sloveniji	Slovenija	LOC	GPE-Slovenia
+313	329	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+346	358	Minca Mramor	Minca Mramor	PER	PER-Minca-Mramor
+453	462	Leicestru	Leicester	LOC	GPE-Leicester
+520	528	covid-19	covid-19	EVT	EVT-Covid-19
+624	633	Leicestru	Leicester	LOC	GPE-Leicester
+635	660	Leicester Royal Infirmary	Leicester Royal Infirmary	ORG	ORG-Leicester-Royal-Infirmary
+664	676	Minca Mramor	Minca Mramor	PER	PER-Minca-Mramor
+887	900	koronavirusom	koronavirus	EVT	EVT-Covid-19
+1518	1534	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+1607	1623	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+1883	1899	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+1924	1933	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2121	2127	Evropi	Evropa	LOC	LOC-Europe
+2191	2200	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2204	2220	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+2438	2445	Italije	Italija	LOC	GPE-Italy
+2447	2455	Kitajske	Kitajska	LOC	GPE-China
+2459	2471	Južne Koreje	Južna Koreja	LOC	GPE-South-Korea
+2695	2697	VB	VB	LOC	GPE-Great-Britain
+2886	2889	WHO	WHO	ORG	ORG-World-Health-Organization
+2916	2925	covida-19	covida-19	EVT	EVT-Covid-19
+3350	3352	VB	VB	LOC	GPE-Great-Britain
+3764	3772	covid-19	covid-19	EVT	EVT-Covid-19
+4088	4101	koronavirusom	koronavirus	EVT	EVT-Covid-19
+4142	4150	Johnsona	Johnson	PER	PER-Boris-Johnson
+4228	4241	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+4529	4538	Sloveniji	Slovenija	LOC	GPE-Slovenia
+4748	4764	Leicester Square	Leicester Square	LOC	LOC-Leicester-Square
+5344	5353	Britancev	Britanci	PER	GPE-Great-Britain
+5874	5882	covid-19	covid-19	EVT	EVT-Covid-19
+5998	6007	Sloveniji	Slovenija	LOC	GPE-Slovenia
+6061	6069	covid-19	covid-19	EVT	EVT-Covid-19

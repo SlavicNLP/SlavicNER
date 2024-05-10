@@ -1,0 +1,68 @@
+171	181	американцы	американцы	PER	GPE-USA
+200	209	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+243	253	американцы	американцы	PER	GPE-USA
+272	281	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+307	335	Конгресс русских американцев	Конгресс русских американцев	ORG	ORG-Congress-of-Russian-Americans
+337	340	CRA	CRA	ORG	ORG-Congress-of-Russian-Americans
+362	371	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+459	462	США	США	LOC	GPE-USA
+467	478	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+493	502	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+512	523	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+525	553	Конгресс русских американцев	Конгресс русских американцев	ORG	ORG-Congress-of-Russian-Americans
+555	558	CRA	CRA	ORG	ORG-Congress-of-Russian-Americans
+580	589	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+677	680	США	США	LOC	GPE-USA
+690	701	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+720	737	Наталья Сабельник	Наталья Сабельник	PER	PER-Natalia-Sabelnik
+761	770	конгресса	конгресс	ORG	ORG-United-States-Congress
+797	819	Manhattan Mini Storage	Manhattan Mini Storage	ORG	ORG-The-Manhattan-Project
+917	926	Сабельник	Сабельник	PER	PER-Natalia-Sabelnik
+1018	1024	России	Россия	LOC	GPE-Russia
+1027	1046	американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+1053	1062	конгресса	конгресс	ORG	ORG-United-States-Congress
+1157	1160	США	США	LOC	GPE-USA
+1173	1176	CRA	CRA	ORG	ORG-Congress-of-Russian-Americans
+1384	1393	Сабельник	Сабельник	PER	PER-Natalia-Sabelnik
+1409	1412	ФБР	ФБР	ORG	ORG-FBI
+1413	1426	Кристофер Рэй	Кристофер Рэй	PER	PER-Christopher-Ray
+1439	1445	Россия	Россия	LOC	GPE-Russia
+1467	1491	выборы в США в 2020 году	выборы в США в 2020 году	EVT	EVT-2020-United-States-Presidential-Election
+1586	1605	американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+1653	1659	Россию	Россия	LOC	GPE-Russia
+1661	1666	Китай	Китай	LOC	GPE-China
+1669	1673	Иран	Иран	LOC	GPE-Iran
+1696	1718	выборы США в 2020 году	Выборы в США в 2020 году	EVT	EVT-2020-United-States-Presidential-Election
+1720	1726	Москва	Москва	LOC	GPE-Moscow
+1786	1796	американцы	американцы	PER	GPE-USA
+1815	1824	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+1850	1859	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+1869	1880	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+1882	1910	Конгресс русских американцев	Конгресс русских американцев	ORG	ORG-Congress-of-Russian-Americans
+1912	1915	CRA	CRA	ORG	ORG-Congress-of-Russian-Americans
+1937	1946	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+2034	2037	США	США	LOC	GPE-USA
+2047	2058	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+2077	2094	Наталья Сабельник	Наталья Сабельник	PER	PER-Natalia-Sabelnik
+2121	2130	конгресса	конгресс	ORG	ORG-United-States-Congress
+2157	2179	Manhattan Mini Storage	Manhattan Mini Storage	ORG	ORG-The-Manhattan-Project
+2277	2286	Сабельник	Сабельник	PER	PER-Natalia-Sabelnik
+2378	2384	России	Россия	LOC	GPE-Russia
+2387	2406	американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+2416	2425	конгресса	конгресса	ORG	ORG-United-States-Congress
+2520	2523	США	США	LOC	GPE-USA
+2536	2539	CRA	CRA	ORG	ORG-Congress-of-Russian-Americans
+2747	2756	Сабельник	Сабельник	PER	PER-Natalia-Sabelnik
+2775	2778	ФБР	ФБР	ORG	ORG-FBI
+2779	2792	Кристофер Рэй	Кристофер Рэй	PER	PER-Christopher-Ray
+2805	2811	Россия	Россия	LOC	GPE-Russia
+2833	2857	выборы в США в 2020 году	выборы в США в 2020 году	EVT	EVT-2020-United-States-Presidential-Election
+2952	2971	американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+3019	3025	Россию	Россия	LOC	GPE-Russia
+3027	3032	Китай	Китай	LOC	GPE-China
+3035	3039	Иран	Иран	LOC	GPE-Iran
+3062	3084	выборы США в 2020 году	Выборы в США в 2020 году	EVT	EVT-2020-United-States-Presidential-Election
+3086	3092	Москва	Москва	LOC	GPE-Moscow
+3200	3305	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-RussiaToday
+3307	3327	МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+3383	3397	Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.

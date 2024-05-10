@@ -1,0 +1,11 @@
+2	8	Италии	Италия	LOC	GPE-Italy
+155	161	Италию	Италия	LOC	GPE-Italy
+282	293	Шереметьево	Шереметьево	LOC	LOC-Sheremetievo
+317	324	Венеция	Венеция	LOC	GPE-Venezia
+326	331	Милан	Милан	LOC	GPE-Milan
+333	336	Рим	Рим	LOC	GPE-Rome
+339	346	Болонья	Болонья	LOC	GPE-Bologna
+395	402	Ryanair	Ryanair	ORG	ORG-Ryanair
+805	812	Ryanair	Ryanair	ORG	ORG-Ryanair
+814	821	EasyJet	EasyJet	ORG	ORG-EasyJet
+824	839	British Airways	British Airways	ORG	ORG-British-Airways

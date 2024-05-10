@@ -1,0 +1,39 @@
+2	10	Британии	Британия	LOC	GPE-Great-Britain
+25	31	Brexit	Brexit	EVT	EVT-Brexit
+33	39	Европа	Европа	LOC	LOC-Europe
+79	93	Великобритании	Великобритания	LOC	GPE-Great-Britain
+115	133	Европейского Союза	Европейский Союз	ORG	ORG-European-Union
+153	165	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+220	245	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+247	251	Рааб	Рааб	PER	PER-Dominic-Raab
+381	402	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+414	425	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+471	477	Brexit	Brexit	EVT	EVT-Brexit
+547	561	Великобритании	Великобритания	LOC	GPE-Great-Britain
+564	566	ЕС	ЕС	ORG	ORG-European-Union
+584	594	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+624	632	Брюсселю	Брюссель	LOC	GPE-Brussles
+634	654	Европейская комиссия	Европейская комиссия	ORG	ORG-European-Commission
+689	704	Великобританией	Великобритания	LOC	GPE-Great-Britain
+745	751	Brexit	Brexit	EVT	EVT-Brexit
+782	794	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+795	812	Маргаритис Схинас	Маргаритис Схинас	PER	PER-Margaritis-Schinas
+836	844	Брюсселе	Брюссель	LOC	GPE-Brussles
+879	903	британском правительстве	британское правительств	ORG	ORG-the-UK-Government
+952	958	Brexit	Brexit	EVT	EVT-Brexit
+1072	1085	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+1148	1159	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+1227	1233	Схинас	Схинас	PER	PER-Margaritis-Schinas
+1322	1329	Лондона	Лондон	LOC	GPE-London
+1332	1340	Брюсселя	Брюссель	LOC	GPE-Brussles
+1344	1350	Brexit	Brexit	EVT	EVT-Brexit
+1377	1385	Британия	Британия	LOC	GPE-Great-Britain
+1430	1432	ЕС	ЕС	ORG	ORG-European-Union
+1439	1445	Brexit	Brexit	EVT	EVT-Brexit
+1465	1479	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1480	1492	Елизавета II	Елизавета II	PER	PER-Queen-Elizabeth-II
+1494	1499	ФОКУС	ФОКУС	PRO	PRO-Focus-magazine
+1584	1601	"ООО ""ФОКУС МЕДИА"""	"ООО ""ФОКУС МЕДИА"""	ORG	ORG-Focus-Media
+1666	1683	"ООО ""ФОКУС МЕДИА"""	"ООО ""ФОКУС МЕДИА"""	ORG	ORG-Focus-Media
+1934	1957	"ИнА ""Українські Новини"""	"ИнА ""Українські Новини"""	ORG	ORG-Ukrainian-News
+2066	2085	"""Интерфакс-Украина"""	"""Интерфакс-Украина"""	ORG	ORG-Interfax

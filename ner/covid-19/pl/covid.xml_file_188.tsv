@@ -1,0 +1,17 @@
+25	32	Johnson	Johnson	PER	PER-Boris-Johnson
+42	54	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+74	87	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+161	173	koronawirusa	koronawirus	EVT	EVT-Covid-19
+314	321	Johnson	Johnson	PER	PER-Boris-Johnson
+343	346	BBC	BBC	PRO	PRO-BBC
+643	653	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+739	746	Johnson	Johnson	PER	PER-Boris-Johnson
+1382	1388	Anglii	Anglia	LOC	GPE-England
+1545	1553	Londynie	Londyn	LOC	GPE-London
+1585	1591	Anglii	Anglia	LOC	GPE-England
+2020	2027	Johnson	Johnson	PER	PER-Boris-Johnson
+2253	2270	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2307	2315	COVID-19	COVID-19	EVT	EVT-Covid-19
+2341	2352	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2367	2393	Uniwersytetu Oksfordzkiego	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+2437	2454	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

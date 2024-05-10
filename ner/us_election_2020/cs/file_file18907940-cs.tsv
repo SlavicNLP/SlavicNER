@@ -1,0 +1,22 @@
+32	41	Američanů	Američané	PER	GPE-USA
+49	54	Biden	Biden	PER	PER-Joe-Biden
+83	88	Gates	Gates	PER	PER-Bill-Gates
+92	101	Merkelová	Merkelová	PER	PER-Angela-Merkel
+106	123	Spojených státech	Spojené státy	LOC	GPE-USA
+183	186	USA	USA	LOC	GPE-USA
+266	285	Demokratické strany	Demokratická strana	ORG	ORG-Democratic-Party-USA
+286	295	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+404	418	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+475	488	Nejvyšší soud	Nejvyšší soud	ORG	ORG-Supreme-Court-of-the-United-States
+511	514	USA	USA	LOC	GPE-USA
+564	569	Biden	Biden	PER	PER-Joe-Biden
+593	595	AP	AP	ORG	ORG-AP-The-Associated-Press
+597	606	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+616	619	CNN	CNN	PRO	PRO-CNN
+642	654	The Guardian	The Guardian	PRO	PRO-The-Guardian
+687	695	Trumpovi	Trump	PER	PER-Donald-Trump
+733	738	Biden	Biden	PER	PER-Joe-Biden
+820	831	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+875	881	Trumpa	Trump	PER	PER-Donald-Trump
+913	919	Bidena	Biden	PER	PER-Joe-Biden
+980	985	Biden	Biden	PER	PER-Joe-Biden

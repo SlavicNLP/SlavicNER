@@ -1,0 +1,49 @@
+9	16	Колізей	Колізей	LOC	LOC-Colosseum
+167	190	Допомога Церкві в нужді	Допомога Церкві в нужді	ORG	ORG-ACN-Aid-to-the-Church-in-Need
+193	218	Aid to the Church in Need	Aid to the Church in Need	ORG	ORG-ACN-Aid-to-the-Church-in-Need
+220	223	ACN	ACN	ORG	ORG-ACN-Aid-to-the-Church-in-Need
+322	337	Близького Сходу	Близький Схід	LOC	LOC-Middle-East
+351	365	Благовіст-Інфо	Благовіст-Інфо	ORG	ORG-Blahovist-Info
+383	403	Catholic News Agency	Catholic News Agency	ORG	ORG-AESA-Spanish-Aviation-Safety-and-Security-Agency
+446	451	Сирії	Сирія	LOC	GPE-Syria
+455	460	Іраку	Ірак	LOC	GPE-Iraq
+464	470	Алеппо	Алеппо	LOC	GPE-Aleppo
+513	517	Іллі	Ілля	PER	PER-Saint-Elijah
+523	529	Мосулі	Мосул	LOC	GPE-Mosul
+558	563	Павла	Павло	PER	PER-Saint-Paul
+656	659	ACN	ACN	ORG	ORG-ACN-Aid-to-the-Church-in-Need
+713	727	Великобританії	Великобританія	LOC	GPE-Great-Britain
+780	795	Близького Сходу	Близький Схід	LOC	LOC-Middle-East
+846	853	Лондоні	Лондон	LOC	GPE-London
+971	977	Парижі	Париж	LOC	GPE-Paris
+999	1005	Маніли	Маніла	LOC	GPE-Manila
+1007	1016	Філіппіни	Філіппіни	LOC	GPE-Philippines
+1073	1077	Римі	Рим	LOC	GPE-Rome
+1079	1099	Алессандро Монтедуро	Алессандро Монтедуро	PER	PER-Alessandro-Monteduro
+1101	1121	Alessandro Monteduro	Alessandro Monteduro	PER	PER-Alessandro-Monteduro
+1133	1136	ACN	ACN	ORG	ORG-ACN-Aid-to-the-Church-in-Need
+1241	1250	Азія Бібі	Азія Бібі	PER	PER-Asia-Bibi
+1371	1378	Ребекка	Ребекка	PER	PER-Rebecca-Bitrus
+1417	1427	Боко Харам	Боко Харам	ORG	ORG-Boko-Haram
+1502	1511	Монтедуро	Монтедуро	PER	PER-Alessandro-Monteduro
+1537	1543	Ребеки	Ребека	PER	PER-Rebecca-Bitrus
+1733	1756	Допомога Церкві в нужді	Допомога Церкві в нужді	ORG	ORG-ACN-Aid-to-the-Church-in-Need
+2091	2097	Африки	Африка	LOC	LOC-Africa
+2100	2115	Близького Сходу	Близький Схід	LOC	LOC-Middle-East
+2127	2130	ACN	ACN	ORG	ORG-ACN-Aid-to-the-Church-in-Need
+2274	2291	Саудівська Аравія	Саудівська Аравія	LOC	GPE-Saudi-Arabia
+2461	2466	Китай	Китай	LOC	GPE-China
+2468	2475	Еритрея	Еритрея	LOC	GPE-Erythrea
+2477	2481	Ірак	Ірак	LOC	GPE-Iraq
+2483	2490	Нігерія	Нігерія	LOC	GPE-Nigeria
+2492	2506	Північна Корея	Північна Корея	LOC	GPE-North-Korea
+2508	2516	Пакистан	Пакистан	LOC	GPE-Pakistan
+2518	2535	Саудівська Аравія	Саудівська Аравія	LOC	GPE-Saudi-Arabia
+2537	2542	Судан	Судан	LOC	GPE-Sudan
+2545	2550	Сирія	Сирія	LOC	GPE-Syria
+2552	2558	Єгипет	Єгипет	LOC	GPE-Egypt
+2560	2565	Індію	Індія	LOC	GPE-India
+2569	2573	Іран	Іран	LOC	GPE-Iran
+2713	2722	Туреччині	Туреччина	LOC	GPE-Turkey
+2822	2836	Північна Корея	Північна Корея	LOC	GPE-North-Korea
+2914	2935	Південно-Східній Азії	Південно-Східна Азія	LOC	LOC-Southeast-Asia

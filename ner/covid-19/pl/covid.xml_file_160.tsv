@@ -1,0 +1,54 @@
+453	460	YouTube	YouTube	PRO	PRO-YouTube
+622	637	Aleksandra Sawa	Aleksandra Sawa	PER	PER-Aleksandra-Sawa
+675	687	koronawirusa	koronawirus	EVT	EVT-Covid-19
+736	749	Anna Wójcicka	Anna Wójcicka	PER	PER-Anna-Wójcicka
+925	929	SARS	SARS	EVT	EVT-SARS
+969	973	SARS	SARS	EVT	EVT-SARS
+1171	1181	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1699	1716	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1725	1728	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+1730	1755	European Medicines Agency	European Medicines Agency	ORG	ORG-EMA-European-Medicines-Agency
+2449	2455	Pfizer	Pfizer	ORG	ORG-Pfizer
+2528	2539	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2547	2562	Johnson&Johnson	Johnson&Johnson	ORG	ORG-Johnson-&-Johnson
+3905	3911	Pfizer	Pfizer	ORG	ORG-Pfizer
+3913	3920	Moderna	Moderna	ORG	ORG-Moderna
+3923	3929	Oxford	Oxford	ORG	ORG-University-of-Oxford
+3930	3941	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+4384	4394	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4596	4606	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4847	4853	Pfizer	Pfizer	ORG	ORG-Pfizer
+4856	4863	Moderna	Moderna	ORG	ORG-Moderna
+5299	5309	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+5870	5877	Moderna	Moderna	ORG	ORG-Moderna
+6086	6094	COVID-19	COVID-19	EVT	EVT-Covid-19
+7009	7017	COVID-19	COVID-19	EVT	EVT-Covid-19
+7163	7170	Polaków	Polacy	PER	GPE-Poland
+7215	7227	koronawirusa	koronawirus	EVT	EVT-Covid-19
+7310	7314	CBOS	CBOS	ORG	ORG-CBOS-Centre-for-Public-Opinion-Research
+7505	7515	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+7664	7671	YouTube	YouTube	PRO	PRO-YouTube
+8769	8783	Robert Flisiak	Robert Flisiak	PER	PER-Robert-Flisiak
+8792	8854	Polskiego Towarzystwa Epidemiologów i Lekarzy Chorób Zakaźnych	Polskie Towarzystwo Epidemiologów i Lekarzy Chorób Zakaźnych	ORG	ORG-Polskie-Towarzystwo-Epidemiologów-i-Lekarzy-Chorób-Zakaźnych-Poland
+8977	8992	Krzysztof Simon	Krzysztof Simon	PER	PER-Krzysztof-Simon
+9370	9378	COVID-19	COVID-19	EVT	EVT-Covid-19
+9655	9667	koronawirusa	koronawirus	EVT	EVT-Covid-19
+9676	9682	Polsce	Polska	LOC	GPE-Poland
+9970	9982	koronawirusa	koronawirus	EVT	EVT-Covid-19
+10328	10336	COVID-19	COVID-19	EVT	EVT-Covid-19
+10744	10773	Narodowego Programu Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+10906	10913	Polaków	Polacy	PER	GPE-Poland
+11331	11339	COVID-19	COVID-19	EVT	EVT-Covid-19
+11870	11899	Narodowego Programu Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+12022	12030	COVID-19	COVID-19	EVT	EVT-Covid-19
+12091	12117	Narodowy Program Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+13484	13487	NFZ	NFZ	ORG	ORG-National-Health-Fund-Poland
+14467	14477	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+15060	15066	Oxford	Oxford	ORG	ORG-University-of-Oxford
+15067	15078	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+15303	15309	Pfizer	Pfizer	ORG	ORG-Pfizer
+15317	15324	Moderna	Moderna	ORG	ORG-Moderna
+15455	15461	Pfizer	Pfizer	ORG	ORG-Pfizer
+16098	16104	Polsce	Polska	LOC	GPE-Poland
+16232	16260	Światowa Organizacja Zdrowia	Światowa Organizacja Zdrowia	ORG	ORG-World-Health-Organization
+16611	16621	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19

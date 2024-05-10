@@ -1,0 +1,26 @@
+0	8	Британия	Британия	LOC	GPE-Great-Britain
+51	55	Кива	Кива	PER	PER-Illia-Kyva
+81	85	Бучи	Буча	LOC	GPE-Bucha
+87	101	Великобритания	Великобритания	LOC	GPE-Great-Britain
+216	218	РФ	РФ	LOC	GPE-Russia
+221	228	Украине	Украина	LOC	GPE-Ukraine
+342	346	Буче	Буча	LOC	GPE-Bucha
+348	370	Правительство Британии	Правительство Британии	ORG	ORG-the-UK-Government
+517	525	Генштаба	Генштаб	ORG	ORG-General-Staff-of-the-Armed-Forces-of-the-Russian-Federation
+526	547	Николая Богдановского	Николай Богдановский	PER	PER-Nikolai-Bogdanovsky
+562	599	64-й отдельной мотострелковой бригады	64-я отдельная мотострелковая бригада	ORG	ORG-64th-Separate-Guards-Motor-Rifle-Brigade
+614	633	Азатбека Омурбекова	Азатбек Омурбеков	PER	PER-Azatbek-Omurbekov
+682	686	Буче	Буча	LOC	GPE-Bucha
+702	705	ВДВ	ВДВ	ORG	ORG-Airborne-forces-Russia
+725	741	Андрея Сердюкова	Андрей Сердюков	PER	PER-Andrey-Serdyukov
+757	784	Силами специальных операций	Силы специальных операций	ORG	ORG-Special-Operations-Forces-Russia
+800	818	Валерия Флюстикова	Валерий Флюстиков	PER	PER-Valery-Flyustikov
+835	859	британском правительстве	британское правительство	ORG	ORG-the-UK-Government
+955	961	Путина	Путин	PER	PER-Vladimir-Putin
+964	971	Украину	Украина	LOC	GPE-Ukraine
+1011	1020	Илья Кива	Илья Кива	PER	PER-Illia-Kyva
+1118	1128	Калашников	Калашников	ORG	ORG-Kalashnikov-Concern
+1131	1167	Арзамасский машиностроительный завод	Арзамасский машиностроительный завод	ORG	ORG-Arzamas-Machine-Building-Plant
+1170	1198	Военно-промышленная компания	Военно-промышленная компания	ORG	ORG-Military-Industrial-Company-Russia
+1254	1256	РФ	РФ	LOC	GPE-Russia
+1281	1284	США	США	LOC	GPE-USA

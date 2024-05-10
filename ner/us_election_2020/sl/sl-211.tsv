@@ -1,0 +1,82 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+25	31	Trumpu	Trump	PER	PER-Donald-Trump
+85	90	Trump	Trump	PER	PER-Donald-Trump
+117	129	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+216	225	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+309	312	ZDA	ZDA	LOC	GPE-USA
+313	329	Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+332	344	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+348	355	Georgii	Georgie	LOC	GPE-Georgia-US-state
+378	384	Nevadi	Nevada	LOC	GPE-Nevada
+388	395	Arizoni	Arizona	LOC	GPE-Arizona
+400	412	Pensilvanijo	Pensilvanija	LOC	GPE-Pennsylvania
+434	439	Biden	Biden	PER	PER-Joe-Biden
+471	478	Trumpom	Trump	PER	PER-Donald-Trump
+706	708	AP	AP	ORG	ORG-AP-The-Associated-Press
+723	731	Fox News	Fox News	PRO	PRO-Fox-News
+739	748	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+766	773	Arizoni	Arizona	LOC	GPE-Arizona
+960	967	Arizone	Arizona	LOC	GPE-Arizona
+986	991	Bidnu	Biden	PER	PER-Joe-Biden
+1043	1055	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1115	1120	Trump	Trump	PER	PER-Donald-Trump
+1130	1142	Pensilvanijo	Pensilvanija	LOC	GPE-Pennsylvania
+1199	1204	Biden	Biden	PER	PER-Joe-Biden
+1290	1297	Aljaski	Aljaska	LOC	GPE-Alaska
+1319	1324	Trump	Trump	PER	PER-Donald-Trump
+1398	1403	Trump	Trump	PER	PER-Donald-Trump
+1405	1414	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+1461	1473	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1499	1508	Beli hiši	Bela hiša	LOC	LOC-White-House
+1530	1539	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+1700	1711	Joeju Bidnu	Joe Biden	PER	PER-Joe-Biden
+1919	1924	Trump	Trump	PER	PER-Donald-Trump
+1960	1969	Twitterja	Twitter	PRO	PRO-Twitter
+2125	2130	Trump	Trump	PER	PER-Donald-Trump
+2222	2231	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+2546	2551	Bidna	Biden	PER	PER-Joe-Biden
+2683	2688	Trump	Trump	PER	PER-Donald-Trump
+2706	2725	vrhovno sodišče ZDA	vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+2803	2811	Trumpovi	Trump	PER	PER-Donald-Trump
+2825	2836	Milwaukeeju	Milwaukee	LOC	GPE-Milwaukee
+2839	2844	Biden	Biden	PER	PER-Joe-Biden
+2885	2890	Trump	Trump	PER	PER-Donald-Trump
+2898	2914	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+3049	3056	Georgii	Georgie	LOC	GPE-Georgia-US-state
+3079	3084	Biden	Biden	PER	PER-Joe-Biden
+3224	3229	Trump	Trump	PER	PER-Donald-Trump
+3262	3268	Nevadi	Nevada	LOC	GPE-Nevada
+3287	3294	Arizoni	Arizona	LOC	GPE-Arizona
+3296	3301	Biden	Biden	PER	PER-Joe-Biden
+3325	3331	Nevadi	Nevada	LOC	GPE-Nevada
+3410	3417	Arizoni	Arizona	LOC	GPE-Arizona
+3424	3429	Trump	Trump	PER	PER-Donald-Trump
+3481	3490	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+3567	3579	Pensilvanija	Pensilvanija	LOC	GPE-Pennsylvania
+3610	3615	Bidna	Biden	PER	PER-Joe-Biden
+3644	3651	Georgio	Georgia	LOC	GPE-Georgia-US-state
+3772	3784	republikance	republikanci	ORG	ORG-Republican-Party-USA
+3788	3797	demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+3799	3811	Republikanci	Republikanci	ORG	ORG-Republican-Party-USA
+3854	3861	Aljaske	Aljaska	LOC	GPE-Alaska
+3927	3930	ZDA	ZDA	LOC	GPE-USA
+3931	3941	Mark Esper	Mark Esper	PER	PER-Mark-Esper
+3990	3993	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+4035	4038	ZDA	ZDA	LOC	GPE-USA
+4040	4045	Esper	Esper	PER	PER-Mark-Esper
+4077	4089	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+4178	4187	Twitterju	Twitter	PRO	PRO-Twitter
+4230	4246	Severna Karolina	Severna Karolina	LOC	GPE-North-Carolina-US-State
+4250	4257	Georgia	Georgia	LOC	GPE-Georgia-US-state
+4272	4283	Thom Tillis	Thom Tillis	PER	PER-Thom-Tills
+4325	4341	Severne Karoline	Severna Karolina	LOC	GPE-North-Carolina-US-State
+4345	4357	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+4427	4434	Georgie	Georgia	LOC	GPE-Georgia-US-state
+4607	4616	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+4620	4632	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+4790	4793	ZDA	ZDA	LOC	GPE-USA
+4804	4809	Trump	Trump	PER	PER-Donald-Trump
+4817	4827	Mike Pence	Mike Pence	PER	PER-Mike-Pence
+4839	4844	Biden	Biden	PER	PER-Joe-Biden
+4852	4865	Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+5095	5105	demokratov	demokrati	ORG	ORG-Democratic-Party-USA

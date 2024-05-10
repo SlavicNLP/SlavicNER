@@ -1,0 +1,35 @@
+44	54	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+77	91	Великобритания	Великобритания	LOC	GPE-Great-Britain
+97	104	Брекзит	Брекзит	EVT	EVT-Brexit
+131	153	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+179	189	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+239	246	Брекзит	Брекзит	EVT	EVT-Brexit
+298	312	Великобритания	Великобритания	LOC	GPE-Great-Britain
+334	350	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+389	397	Би Би Си	Би Би Си	PRO	PRO-BBC
+399	409	Тереза Май	Тереза Мей	PER	PER-Theresa-May
+478	485	Брекзит	Брекзит	EVT	EVT-Brexit
+569	589	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+593	595	ЕС	ЕС	ORG	ORG-European-Union
+637	651	Великобритания	Великобритания	LOC	GPE-Great-Britain
+803	813	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+831	845	Великобритания	Великобритания	LOC	GPE-Great-Britain
+961	963	ЕС	ЕС	ORG	ORG-European-Union
+994	1011	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+1111	1113	ЕС	ЕС	ORG	ORG-European-Union
+1119	1126	Брекзит	Брекзит	EVT	EVT-Brexit
+1131	1141	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1337	1344	Брекзит	Брекзит	EVT	EVT-Brexit
+1381	1396	Бизнес Инсайдър	Бизнес Инсайдър	PRO	PRO-Business-Insider
+1413	1435	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+1535	1549	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1590	1612	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+1644	1664	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1690	1704	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1809	1831	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1868	1875	Брекзит	Брекзит	EVT	EVT-Brexit
+1907	1909	ЕП	ЕП	ORG	ORG-European-Parliament
+1961	1963	ЕС	ЕС	ORG	ORG-European-Union
+1966	1980	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2022	2032	Фолксваген	Фолксваген	ORG	ORG-Volkswagen
+2070	2079	IG Metall	IG Metall	ORG	ORG-IG-Metall

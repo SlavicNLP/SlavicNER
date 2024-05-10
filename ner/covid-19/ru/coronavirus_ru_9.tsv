@@ -1,0 +1,18 @@
+30	36	ковида	Ковид	EVT	EVT-Covid-19
+66	78	коронавируса	Коронавирус	EVT	EVT-Covid-19
+134	149	«Гам-КОВИД-Вак»	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+173	185	«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+308	320	Минздрава РФ	Минздрав РФ	ORG	ORG-Ministry-of-Health-Russia
+323	342	Вологодской области	Вологодская область	LOC	GPE-Vologda
+596	611	Лариса Каманина	Лариса Каманина	PER	PER-Larisa-Kamanina
+1114	1129	коронавирусными	Коронавирус	EVT	EVT-Covid-19
+1259	1268	Череповце	Череповец	LOC	GPE-Cherepovets
+1283	1333	прививочный пункт на базе медсанчасти «Северсталь»	"Прививочный пункт на базе медсанчасти ""Северсталь"""	ORG	ORG-Vaccination-center-Severstal
+1396	1448	Череповецкой городской больнице (ул. Ломоносова, 15)	Череповецкая городская больница №2	ORG	ORG-Cherepovets-City-Hospital
+1454	1496	взрослой поликлинике № 1 (ул. Милютина, 6)	Череповецкая городская поликлиника № 1	ORG	ORG-Cherepovets-City-Hospital
+1810	1816	ковида	Ковид	EVT	EVT-Covid-19
+1972	1994	k-vrachu.volmed.org.ru	k-vrachu.volmed.org.ru	PRO	PRO-k-vrachu.volmed.org.ru
+2007	2022	Лариса Каманина	Лариса Каманина	PER	PER-Larisa-Kamanina
+2315	2327	коронавируса	Коронавирус	EVT	EVT-Covid-19
+2502	2509	ковидом	Ковид	EVT	EVT-Covid-19
+2678	2691	«Спутником V»	Спутник V	PRO	PRO-Sputnik-V

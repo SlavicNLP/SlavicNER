@@ -1,0 +1,51 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+55	62	Брекзит	Брекзит	EVT	EVT-Brexit
+145	152	Брекзит	Брекзит	EVT	EVT-Brexit
+264	266	ЕС	ЕС	ORG	ORG-European-Union
+276	279	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+298	322	Закон за оттегляне от ЕС	Закон за оттегляне от ЕС	PRO	PRO-Brexit-law
+373	383	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+460	480	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+640	642	ЕС	ЕС	ORG	ORG-European-Union
+808	810	ЕС	ЕС	ORG	ORG-European-Union
+869	890	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+1199	1206	Брекзит	Брекзит	EVT	EVT-Brexit
+1230	1237	Брюксел	Брюксел	LOC	GPE-Brussles
+1240	1246	Лондон	Лондон	LOC	GPE-London
+1301	1321	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1409	1412	Мей	Мей	PER	PER-Theresa-May
+1717	1719	ЕС	ЕС	ORG	ORG-European-Union
+2000	2020	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+2024	2031	Брекзит	Брекзит	EVT	EVT-Brexit
+2032	2044	Киър Стармър	Киър Стармър	PER	PER-Keir-Starmer
+2052	2055	Мей	Мей	PER	PER-Theresa-May
+2218	2243	Закона за оттегляне от ЕС	Закон за оттегляне от ЕС	PRO	PRO-Brexit-law
+2296	2303	Брюксел	Брюксел	LOC	GPE-Brussles
+2322	2324	ЕС	ЕС	ORG	ORG-European-Union
+2572	2579	Брекзит	Брекзит	EVT	EVT-Brexit
+2580	2593	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+2644	2650	Дейвис	Дейвис	PER	PER-David-Davis
+2679	2699	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+2781	2788	Брекзит	Брекзит	EVT	EVT-Brexit
+2859	2881	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+2931	2944	Доминик Грийв	Доминик Грийв	PER	PER-Dominic-Grieve
+3291	3298	Брекзит	Брекзит	EVT	EVT-Brexit
+3329	3343	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3395	3397	ЕС	ЕС	ORG	ORG-European-Union
+3502	3516	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3576	3583	Брекзит	Брекзит	EVT	EVT-Brexit
+3599	3601	ЕС	ЕС	ORG	ORG-European-Union
+3697	3717	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3759	3762	Мей	Мей	PER	PER-Theresa-May
+3807	3809	ЕС	ЕС	ORG	ORG-European-Union
+3857	3870	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+3892	3894	ЕС	ЕС	ORG	ORG-European-Union
+3933	3945	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+4032	4046	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4132	4152	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+4292	4313	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+4328	4335	Брекзит	Брекзит	EVT	EVT-Brexit
+4336	4349	Ги Верхофстат	Ги Верхофстат	PER	PER-Guy-Verhofstadt
+4456	4463	Брюксел	Брюксел	LOC	GPE-Brussles
+4466	4472	Лондон	Лондон	LOC	GPE-London
+4737	4751	Великобритания	Великобритания	LOC	GPE-Great-Britain

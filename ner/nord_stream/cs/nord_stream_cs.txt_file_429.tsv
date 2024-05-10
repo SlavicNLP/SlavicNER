@@ -1,0 +1,64 @@
+0	3	USA	USA	LOC	GPE-USA
+30	35	Íránu	Írán	LOC	GPE-Iran
+39	43	KLDR	KLDR	LOC	GPE-North-Korea
+75	80	Trump	Trump	PER	PER-Donald-Trump
+151	164	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+185	198	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+231	236	Ruska	Rusko	LOC	GPE-Russia
+246	253	Německa	Německo	LOC	GPE-Germany
+261	268	Německo	Německo	LOC	GPE-Germany
+307	312	Trump	Trump	PER	PER-Donald-Trump
+348	355	Německo	Německo	LOC	GPE-Germany
+358	364	Ruskem	Rusko	LOC	GPE-Russia
+372	387	Baltického moře	Baltské moře	LOC	LOC-Baltic-Sea
+389	394	Trump	Trump	PER	PER-Donald-Trump
+440	446	Moskva	Moskva	LOC	GPE-Moscow
+466	472	Evropě	Evropa	LOC	LOC-Europe
+474	479	Rusko	Rusko	LOC	GPE-Russia
+492	499	Trumpův	Trump	PER	PER-Donald-Trump
+534	542	Evropany	Evropané	PER	LOC-Europe
+644	657	Nord Stream 1	Nord Stream 1	PRO	PRO-Nord-Stream-1
+684	705	východoevropské státy	východoevropské státy	LOC	LOC-Eastern-Europe
+715	721	Polsko	Polsko	LOC	GPE-Poland
+727	735	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+795	802	střední	střední	LOC	LOC-Central-Europe
+805	819	západní Evropy	západní Evropa	LOC	LOC-Western-Europe
+825	836	Bílého domu	Bílý dům	LOC	LOC-White-House
+863	867	NATO	NATO	ORG	ORG-NATO
+876	883	Německo	Německo	LOC	GPE-Germany
+900	905	Ruska	Rusko	LOC	GPE-Russia
+980	993	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1013	1018	Rusko	Rusko	LOC	GPE-Russia
+1020	1026	Berlín	Berlín	LOC	GPE-Berlin
+1033	1041	Trumpova	Trump	PER	PER-Donald-Trump
+1160	1175	Dan Brouillette	Dan Brouillette	PER	PER-Dan-Brouillette
+1224	1228	Bild	Bild	PRO	PRO-Bild
+1286	1293	Německa	Německo	LOC	GPE-Germany
+1350	1353	USA	USA	LOC	GPE-USA
+1378	1383	Ruska	Rusko	LOC	GPE-Russia
+1418	1425	Německa	Německo	LOC	GPE-Germany
+1450	1461	Brouillette	Brouillette	PER	PER-Dan-Brouillette
+1574	1581	Gazprom	Gazprom	ORG	ORG-Gazprom
+1622	1629	Gazprom	Gazprom	ORG	ORG-Gazprom
+1659	1672	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1695	1710	Richard Grenell	Richard Grenell	PER	PER-Richard-Grenell
+1754	1770	Angela Merkelová	Angela Merkelová	PER	PER-Angela-Merkel
+1771	1777	Trumpa	Trump	PER	PER-Donald-Trump
+1798	1805	Německo	Německo	LOC	GPE-Germany
+1828	1843	Spojených států	Spojené státy	LOC	GPE-USA
+1845	1848	USA	USA	LOC	GPE-USA
+1941	1944	OSN	OSN	ORG	ORG-United-Nations
+1966	1979	Spojené státy	Spojené státy	LOC	GPE-USA
+2036	2039	USA	USA	LOC	GPE-USA
+2104	2115	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+2122	2128	Trumpa	Trump	PER	PER-Donald-Trump
+2176	2187	Washingtonu	Washington	LOC	GPE-WashingtonDC
+2189	2194	Trump	Trump	PER	PER-Donald-Trump
+2294	2297	USA	USA	LOC	GPE-USA
+2385	2394	Palestiny	Palestina	LOC	GPE-Palestine
+2398	2407	Pákistánu	Pákistán	LOC	GPE-Pakistan
+2519	2524	Trump	Trump	PER	PER-Donald-Trump
+2580	2593	Spojené státy	Spojené státy	LOC	GPE-USA
+2639	2642	OSN	OSN	ORG	ORG-United-Nations
+2790	2793	OSN	OSN	ORG	ORG-United-Nations
+2794	2808	Nikki Haleyová	Nikki Haleyová	PER	PER-Nikki-Haley

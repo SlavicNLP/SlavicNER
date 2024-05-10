@@ -1,0 +1,25 @@
+0	10	Chorvatsko	Chorvatsko	LOC	GPE-Croatia
+72	77	Česku	Česko	LOC	GPE-Czech-Republic
+84	91	Vojtěch	Vojtěch	PER	PER-Adam-Vojtěch
+93	104	Lidovky.cz:	Lidovky.cz	PRO	PRO-Lidovky.cz
+156	160	Češi	Češi	PER	GPE-Czech-Republic
+177	188	koronavirem	koronavirus	EVT	EVT-Covid-19
+335	340	Čechy	Češi	PER	GPE-Czech-Republic
+376	387	koronavirus	koronavirus	EVT	EVT-Covid-19
+534	539	Česku	Česko	LOC	GPE-Czech-Republic
+580	584	Češi	Češi	PER	GPE-Czech-Republic
+606	614	covid-19	covid-19	EVT	EVT-Covid-19
+673	679	Itálii	Itálie	LOC	GPE-Italy
+720	730	Lidovky.cz	Lidovky.cz	PRO	PRO-Lidovky.cz
+765	769	Češi	Češi	PER	GPE-Czech-Republic
+809	819	Chorvatska	Chorvatsko	LOC	GPE-Croatia
+828	837	Slovenska	Slovensko	LOC	GPE-Slovakia
+860	869	Španělska	Španělsko	LOC	GPE-Spain
+871	882	Portugalska	Portugalsko	LOC	GPE-Portugal
+886	894	Maďarska	Maďarsko	LOC	GPE-Hungary
+1077	1082	Čecha	Čech	PER	GPE-Czech-Republic
+1273	1284	koronavirus	koronavirus	EVT	EVT-Covid-19
+1302	1307	Česka	Česko	LOC	GPE-Czech-Republic
+1320	1325	covid	covid	EVT	EVT-Covid-19
+1339	1344	Čechy	Češi	PER	GPE-Czech-Republic
+1459	1474	České republiky	Česká republika	LOC	GPE-Czech-Republic

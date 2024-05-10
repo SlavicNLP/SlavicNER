@@ -1,0 +1,24 @@
+0	5	Rusko	Rusko	LOC	GPE-Russia
+40	47	Turecko	Turecko	LOC	GPE-Turkey
+156	168	Černého moře	Černé moře	LOC	LOC-Black-Sea
+174	183	Bulharsko	Bulharsko	LOC	GPE-Bulgaria
+187	193	Balkán	Balkán	LOC	LOC-Balkans
+196	203	Gazprom	Gazprom	ORG	ORG-Gazprom
+249	254	Kreml	Kreml	LOC	LOC-Kremlin
+263	266	USA	USA	LOC	GPE-USA
+295	309	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+338	363	Recepem Tayipem Erdoganem	Recep Tayyip Erdogan	PER	PER-Recep-Tayyip-Erdoğan
+429	439	TurkStream	TurkStream	PRO	PRO-Turkish-Stream
+546	553	Turecko	Turecko	LOC	GPE-Turkey
+566	572	Balkán	Balkán	LOC	LOC-Balkans
+574	580	Itálii	Itálie	LOC	GPE-Italy
+583	591	Maďarsko	Maďarsko	LOC	GPE-Hungary
+593	600	Turecko	Turecko	LOC	GPE-Turkey
+613	625	jižní Evropy	jižní Evropa	LOC	LOC-Southern-Europe
+668	674	Ankaře	Ankara	LOC	GPE-Ankara
+789	796	Erdogan	Erdogan	PER	PER-Recep-Tayyip-Erdoğan
+799	807	Gazpromu	Gazprom	ORG	ORG-Gazprom
+887	892	Putin	Putin	PER	PER-Vladimir-Putin
+1029	1040	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+1046	1052	Ruskem	Rusko	LOC	GPE-Russia
+1055	1063	Německem	Německo	LOC	GPE-Germany

@@ -1,0 +1,44 @@
+0	7	Холивуд	Холивуд	LOC	GPE-Hollywood
+62	70	Covid-19	COVID-19	EVT	EVT-Covid-19
+94	106	коронавируса	коронавирус	EVT	EVT-Covid-19
+109	119	Калифорния	Калифорния	LOC	GPE-California
+225	233	Covid-19	COVID-19	EVT	EVT-Covid-19
+236	246	Калифорния	Калифорния	LOC	GPE-California
+265	272	Холивуд	Холивуд	LOC	GPE-Hollywood
+367	371	CNBC	CNBC	ORG	ORG-CNBC
+387	402	Южна Калифорния	Южна Калифорния	LOC	LOC-South-California
+469	485	Габриел Картерис	Габриел Картерис	PER	PER-Gabriel-Karteris
+500	509	SAG-AFTRA	SAG-AFTRA	ORG	ORG-SAG-AFTRA
+658	667	SAG-AFTRA	SAG-AFTRA	ORG	ORG-SAG-AFTRA
+669	700	Комисията за съвместни политики	Комисия за съвместни политики	ORG	ORG-Committee-of-mutual-policies
+703	737	Гилдията на продуцентите в Америка	Гилдия на продуцентите в Америка	ORG	ORG-Guild-of-Producers-USA
+858	868	Калифорния	Калифорния	LOC	GPE-California
+913	925	Лос Анджелис	Лос Анджелис	LOC	GPE-Los-Angeles
+926	938	Ерик Гарсети	Ерик Гарсети	PER	PER-Eric-Garcetti
+954	957	CBS	CBS	ORG	ORG-Columbia-Broadcasting-System
+1012	1023	коронавирус	коронавирус	EVT	EVT-Covid-19
+1032	1044	Лос Анджелис	Лос Анджелис	LOC	GPE-Los-Angeles
+1100	1108	Covid-19	COVID-19	EVT	EVT-Covid-19
+1111	1121	Калифорния	Калифорния	LOC	GPE-California
+1195	1205	пандемията	пандемия	EVT	EVT-Pandemic
+1243	1255	Лос Анджелис	Лос Анджелис	LOC	GPE-Los-Angeles
+1309	1321	Warner Bros.	Warner Bros.	ORG	ORG-Warner-Bros
+1345	1348	CBS	CBS	ORG	ORG-Columbia-Broadcasting-System
+1350	1353	Mom	Mom	PRO	PRO-MOM
+1357	1367	B Positive	B Positive	PRO	PRO-B-Positive
+1371	1390	Bob Hearts Abishola	Bob Hearts Abishola	PRO	PRO-Bob Hearts-Abishola
+1404	1412	Showtime	Showtime	ORG	ORG-Showtime
+1414	1423	Shameless	Shameless	PRO	PRO-Shameless
+1446	1449	You	You	PRO	PRO-YOU
+1454	1461	Netflix	Netflix	ORG	ORG-Netflix
+1522	1529	Variety	Variety	PRO	PRO-Variety
+1532	1541	Universal	Universal	ORG	ORG-Universal
+1601	1610	Mr. Mayor	Mr. Mayor	PRO	PRO-Mr-Mayor
+1614	1619	Kenan	Kenan	PRO	PRO-Kenan
+1622	1632	Good Girls	Good Girls	PRO	PRO-Good-girls
+1637	1655	Brooklyn Nine-Nine	Brooklyn Nine-Nine	PRO	PRO-Brooklyn-Nine-Nine
+1738	1756	Brooklyn Nine-Nine	Brooklyn Nine-Nine	PRO	PRO-Brooklyn-Nine-Nine
+1799	1806	Variety	Variety	PRO	PRO-Variety
+1833	1844	Walt Disney	Walt Disney	ORG	ORG-Disney
+1846	1849	ABC	ABC	ORG	ORG-ABC-Tv-Programm
+1852	1855	CBS	CBS	ORG	ORG-Columbia-Broadcasting-System

@@ -1,0 +1,30 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+203	211	пандемия	пандемия	EVT	EVT-Pandemic
+525	530	Тръмп	Тръмп	PER	PER-Donald-Trump
+682	687	Тръмп	Тръмп	PER	PER-Donald-Trump
+757	767	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+773	786	Хилари Клитън	Хилари Клинтън	PER	PER-Hillary-Clinton
+830	835	Тръмп	Тръмп	PER	PER-Donald-Trump
+1013	1027	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+1028	1033	Тръмп	Тръмп	PER	PER-Donald-Trump
+1106	1113	Клинтън	Клинтън	PER	PER-Hillary-Clinton
+1207	1212	Тръмп	Тръмп	PER	PER-Donald-Trump
+1234	1248	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+1252	1262	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1361	1368	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+1375	1381	Байдън	Байдън	PER	PER-Joe-Biden
+1465	1475	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1512	1518	Байдън	Байдън	PER	PER-Joe-Biden
+1582	1594	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1658	1668	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1768	1775	Делауер	Делауер	LOC	GPE-Delaware
+1786	1792	Байдън	Байдън	PER	PER-Joe-Biden
+1907	1913	Байдън	Байдън	PER	PER-Joe-Biden
+1951	1961	Пандемията	Пандемия	EVT	EVT-Pandemic
+2147	2153	Байдън	Байдън	PER	PER-Joe-Biden
+2352	2358	Байдън	Байдън	PER	PER-Joe-Biden
+2576	2581	Тръмп	Тръмп	PER	PER-Donald-Trump
+2714	2728	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+2760	2770	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2789	2794	Тръмп	Тръмп	PER	PER-Donald-Trump
+2822	2834	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump

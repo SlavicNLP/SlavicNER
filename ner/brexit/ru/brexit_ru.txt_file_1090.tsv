@@ -1,0 +1,26 @@
+0	13	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+44	56	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+58	73	PanARMENIAN.Net	PanARMENIAN.Net	ORG	ORG-PanARMENIAN-Net
+100	114	Великобритании	Великобритания	LOC	GPE-Great-Britain
+115	128	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+212	220	Брекзиту	Брекзит	EVT	EVT-Brexit
+221	232	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+280	295	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+310	338	министерства иностранных дел	министерство иностранных дел	ORG	ORG-Foreign-Office
+392	402	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+420	423	Мэй	Мэй	PER	PER-Theresa-May
+465	468	МИД	МИД	ORG	ORG-Foreign-Office
+491	505	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+521	530	The Times	The Times	PRO	PRO-The-Times
+545	555	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+587	595	Джонсона	Джонсон	PER	PER-Boris-Johnson
+656	665	Евросоюза	Евросоюз	ORG	ORG-European-Union
+684	701	кабинет министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+759	769	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+785	788	Мэй	Мэй	PER	PER-Theresa-May
+803	817	Великобритания	Великобритания	LOC	GPE-Great-Britain
+866	868	ЕС	ЕС	ORG	ORG-European-Union
+875	883	Брекзита	Брекзит	EVT	EVT-Brexit
+901	908	Джонсон	Джонсон	PER	PER-Boris-Johnson
+932	940	Брекзита	Брекзит	EVT	EVT-Brexit
+1007	1016	Евросоюзу	Евросоюз	ORG	ORG-European-Union

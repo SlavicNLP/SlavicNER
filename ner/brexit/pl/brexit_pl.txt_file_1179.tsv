@@ -1,0 +1,81 @@
+8	15	Szkocji	Szkocji	LOC	GPE-Scotland
+18	26	Brukseli	Bruksela	LOC	GPE-Brussles
+67	74	brexitu	Brexit	EVT	EVT-Brexit
+76	91	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+145	160	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+163	178	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+204	211	brexitu	Brexit	EVT	EVT-Brexit
+213	221	Edynburg	Edynburg	LOC	GPE-Edinburgh
+410	417	Szkocji	Szkocja	LOC	GPE-Scotland
+418	433	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+449	457	Brukseli	Bruksela	LOC	GPE-Brussles
+503	510	brexitu	Brexit	EVT	EVT-Brexit
+511	529	Michelem Barnierem	Michel Barnier	PER	PER-Michel-Barnier
+596	603	Szkocja	Szkocja	LOC	GPE-Scotland
+766	773	brexitu	Brexit	EVT	EVT-Brexit
+1016	1024	Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+1041	1048	Szkocja	Szkocja	LOC	GPE-Scotland
+1107	1125	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+1155	1172	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1208	1223	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1231	1233	UE	UE	ORG	ORG-European-Union
+1281	1288	brexitu	Brexit	EVT	EVT-Brexit
+1345	1370	brytyjskiemu parlamentowi	Brytyjski Parlament	ORG	ORG-British-Parlament
+1430	1438	Bruksela	Bruksela	LOC	GPE-Brussles
+1442	1449	Londynu	Londyn	LOC	GPE-London
+1551	1558	brexitu	Brexit	EVT	EVT-Brexit
+1619	1621	UE	UE	ORG	ORG-European-Union
+1624	1639	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1657	1664	brexitu	Brexit	EVT	EVT-Brexit
+1704	1706	UE	UE	ORG	ORG-European-Union
+1736	1743	Londynu	Londyn	LOC	GPE-London
+1746	1754	Brukselą	Bruksela	LOC	GPE-Brussles
+1936	1944	Lizbonie	Lizbona	LOC	GPE-Lisbon
+1945	1959	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+2008	2023	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2100	2106	Londyn	Londyn	LOC	GPE-London
+2159	2167	Londynie	Londyn	LOC	GPE-London
+2198	2207	Edynburgu	Edynburg	LOC	GPE-Edinburgh
+2249	2257	Bruksela	Bruksela	LOC	GPE-Brussles
+2320	2326	Szkoci	Szkoci	PER	GPE-Scotland
+2355	2376	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+2409	2416	Szkocja	Szkocja	LOC	GPE-Scotland
+2471	2488	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2565	2572	brexitu	Brexit	EVT	EVT-Brexit
+2605	2612	Szkocji	Szkocja	LOC	GPE-Scotland
+2645	2647	UE	UE	ORG	ORG-European-Union
+2793	2810	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2904	2906	UE	UE	ORG	ORG-European-Union
+2921	2944	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+2981	2983	UE	UE	ORG	ORG-European-Union
+3003	3021	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+3029	3035	Anglia	Anglia	LOC	GPE-England
+3038	3043	Walia	Walia	LOC	GPE-Wales
+3077	3085	brexitem	Brexit	EVT	EVT-Brexit
+3087	3102	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+3194	3201	brexitu	Brexit	EVT	EVT-Brexit
+3203	3210	Szkocja	Szkocja	LOC	GPE-Scotland
+3273	3281	Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+3284	3292	Brukseli	Bruksela	LOC	GPE-Brussles
+3307	3327	szkockim parlamencie	Szkoci Parlament	ORG	ORG-Scottish-Parliament
+3359	3385	Szkockiej Partii Narodowej	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+3408	3416	Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+3447	3455	Brukseli	Bruksela	LOC	GPE-Brussles
+3474	3483	Barnierem	Barnier	PER	PER-Michel-Barnier
+3598	3613	Szkockiego Domu	Szkocki Dom	LOC	LOC-Scottish-House
+3690	3697	brexitu	Brexit	EVT	EVT-Brexit
+3754	3775	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+3776	3788	Adam Tomkins	Adam Tomkins	PER	PER-Adam-Tomkins
+3886	3903	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3937	3939	UE	UE	ORG	ORG-European-Union
+3975	3983	Brukseli	Bruksela	LOC	GPE-Brussles
+4037	4056	Liberalni Demokraci	Liberalni Demokraci	PER	ORG-Liberal-Democrats-UK
+4058	4071	Willie Rennie	Willie Rennie	PER	PER-Willie-Rennie
+4220	4224	Unii	Unia	ORG	ORG-European-Union
+4264	4276	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+4277	4289	Neil Findlay	Neil Findlay	PER	PER-Neil-Findlay
+4303	4309	Brexit	Brexit	EVT	EVT-Brexit
+4409	4430	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+4530	4545	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+4548	4550	UE	UE	ORG	ORG-European-Union
+4586	4593	Szkocji	Szkocja	LOC	GPE-Scotland

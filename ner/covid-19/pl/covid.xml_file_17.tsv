@@ -1,0 +1,28 @@
+25	34	Niemczech	Niemcy	LOC	GPE-Germany
+133	147	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+225	239	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+251	259	Die Welt	Die Welt	PRO	PRO-Die-Welt
+299	308	Niemczech	Niemcy	LOC	GPE-Germany
+318	325	Izraelu	Izrael	LOC	GPE-Israel
+443	452	Neukoelln	Neukoelln	LOC	GPE-Neukoelln
+556	587	powiecie Rendsburg-Eckernfoerde	powiat Rendsburg-Eckernfoerde	LOC	GPE-Rendsburg-Eckernfoerde-county
+693	695	UE	UE	ORG	ORG-European-Union
+765	774	Francuzów	Francuzi	PER	GPE-France
+993	999	Europę	Europa	LOC	LOC-Europe
+1013	1021	Duńczycy	Duńczycy	PER	GPE-Denmark
+1043	1045	UE	UE	ORG	ORG-European-Union
+1069	1075	Niemcy	Niemcy	LOC	GPE-Germany
+1095	1102	Europie	Europa	LOC	LOC-Europe
+1223	1253	Frankfurter Allgemeine Zeitung	Frankfurter Allgemeine Zeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+1274	1281	Niemiec	Niemcy	LOC	GPE-Germany
+1343	1351	Brukseli	Bruksela	LOC	GPE-Brussles
+1397	1403	Merkel	Merkel	PER	PER-Angela-Merkel
+1612	1620	Brukseli	Bruksela	LOC	GPE-Brussles
+1800	1808	BioNTech	BioNTech	ORG	ORG-BioNTech
+1809	1815	Pfizer	Pfizer	ORG	ORG-Pfizer
+1968	1983	Münchner Merkur	Münchner Merkur	PRO	PRO-Münchner-Merkur
+2021	2028	Niemiec	Niemcy	LOC	GPE-Germany
+2031	2041	Jens Spahn	Jens Spahn	PER	PER-Jens-Spahn
+2095	2102	Niemiec	Niemcy	LOC	GPE-Germany
+2230	2236	Niemcy	Niemcy	LOC	GPE-Germany
+2471	2477	Berlin	Berlin	LOC	GPE-Berlin

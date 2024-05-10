@@ -1,0 +1,28 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+35	41	Brexit	Brexit	EVT	EVT-Brexit
+51	54	Мей	Мей	PER	PER-Theresa-May
+130	144	Великобританії	Великобританія	LOC	GPE-Great-Britain
+145	155	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+200	214	Великобританії	Великобританія	LOC	GPE-Great-Britain
+217	226	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+228	231	Мей	Мей	PER	PER-Theresa-May
+460	463	Мей	Мей	PER	PER-Theresa-May
+494	497	Мей	Мей	PER	PER-Theresa-May
+558	564	Brexit	Brexit	EVT	EVT-Brexit
+618	641	Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+644	646	ЄС	ЄС	LOC	ORG-European-Union
+958	961	Мей	Мей	PER	PER-Theresa-May
+1034	1048	Великобританії	Великобританія	LOC	GPE-Great-Britain
+1120	1126	Brexit	Brexit	EVT	EVT-Brexit
+1158	1161	Мей	Мей	PER	PER-Theresa-May
+1224	1238	Великобританії	Великобританія	LOC	GPE-Great-Britain
+1241	1243	ЄС	ЄС	LOC	ORG-European-Union
+1357	1363	Brexit	Brexit	EVT	EVT-Brexit
+1489	1505	Джейкоб Ріс-Могг	Джейкоб Ріс-Могг	PER	PER-Jacob-Rees-Mogg
+1584	1594	Терезі Мей	Тереза Мей	PER	PER-Theresa-May
+1724	1731	України	Україна	LOC	GPE-Ukraine
+1945	1954	Gazeta.ua	Gazeta.ua	PRO	PRO-Gazeta-ua
+2163	2182	"""Iнтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
+2184	2187	PHL	PHL	ORG	ORG-PHL
+2191	2198	Reuters	Reuters	ORG	ORG-Reuters
+2305	2314	Gazeta.ua	Gazeta.ua	PRO	PRO-Gazeta-ua

@@ -1,0 +1,43 @@
+0	11	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+24	40	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+78	83	Rosji	Rosja	LOC	GPE-Russia
+84	92	Władimir	Władimir	PER	PER-Vladimir-Putin
+259	266	Zachodu	Zachód	LOC	LOC-West
+287	292	Rosją	Rosja	LOC	GPE-Russia
+312	319	Ukrainy	Ukraina	LOC	GPE-Ukraine
+321	326	Krymu	Krym	LOC	GPE-Crimea
+328	333	Syrii	Syria	LOC	GPE-Syria
+366	384	Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+481	497	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+607	613	Putina	Putin	PER	PER-Vladimir-Putin
+628	640	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+653	656	USA	USA	LOC	GPE-USA
+807	815	Junckera	Juncker	PER	PER-Jean-Claude-Juncker
+850	858	Putinowi	Putin	PER	PER-Vladimir-Putin
+859	870	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+976	992	Siergiej Skripal	Siergiej Skripal	PER	PER-Siergiej-Skripal
+1036	1039	GRU	GRU	ORG	ORG-GRU-(Russian-GU)
+1055	1058	MI6	MI6	ORG	ORG-MI6
+1236	1254	Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+1283	1288	Rosję	Rosja	LOC	GPE-Russia
+1339	1350	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1376	1383	brexitu	Brexit	EVT	EVT-Brexit
+1424	1430	brexit	Brexit	EVT	EVT-Brexit
+1437	1454	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1455	1466	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1641	1658	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1662	1671	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1839	1847	Brukseli	Bruksela	LOC	GPE-Brussles
+1907	1914	brexitu	Brexit	EVT	EVT-Brexit
+1950	1959	Twitterze	Twitter	PRO	PRO-Twitter
+1960	1964	Tusk	Tusk	PER	PER-Donald-Tusk
+1971	1979	Polakami	Polacy	PER	GPE-Poland
+1982	1995	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+2032	2040	Brukseli	Bruksela	LOC	GPE-Brussles
+2043	2050	Londynu	Londyn	LOC	GPE-London
+2066	2079	Europejczyków	Europejczycy	PER	LOC-Europe
+2082	2099	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2117	2124	Polaków	Polacy	PER	GPE-Poland
+2161	2166	Wyspy	Wyspy	LOC	GPE-Great-Britain
+2173	2181	brexitem	Brexit	EVT	EVT-Brexit
+2361	2378	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

@@ -1,0 +1,11 @@
+0	2	ЄС	ЄС	LOC	ORG-European-Union
+45	51	Brexit	Brexit	EVT	EVT-Brexit
+55	63	Альтмаєр	Альтмаєр	PER	PER-Peter-Altmaier
+65	82	Європейський Союз	Європейський Союз	ORG	ORG-European-Union
+125	131	Brexit	Brexit	EVT	EVT-Brexit
+165	174	Німеччини	Німеччина	LOC	GPE-Germany
+175	189	Петер Альтмаєр	Петер Альтмаєр	PER	PER-Peter-Altmaier
+199	206	Reuters	Reuters	ORG	ORG-Reuters
+240	242	ЄС	ЄС	LOC	ORG-European-Union
+422	432	Терезу Мей	Тереза Мей	PER	PER-Theresa-May
+496	512	Великої Британії	Велика Британія	LOC	GPE-Great-Britain

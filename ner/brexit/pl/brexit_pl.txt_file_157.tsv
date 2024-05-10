@@ -1,0 +1,38 @@
+8	18	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+47	62	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+81	83	UE	UE	ORG	ORG-European-Union
+144	157	Goldman Sachs	Goldman Sachs	ORG	ORG-Goldman-Sachs
+158	173	Lloyd Blankfein	Lloyd Blankfein	PER	PER-Lloyd-Blankfein
+214	228	Lakshmi Mittal	Lakshmi Mittal	PER	PER-Lakshmi-Mittal
+239	242	AXA	AXA	ORG	ORG-AXA
+243	256	Thomas Buberl	Thomas Buberl	PER	PER-Thomas-Buberl
+280	300	Anheuser-Busch InBev	Anheuser-Busch InBev	ORG	ORG-AB-InBev
+302	314	Carlos Brito	Carlos Brito	PER	PER-Carlos-Brito
+390	401	Wilbur Ross	Wilbur Ross	PER	PER-Wilbur-Ross
+423	445	Partii Republikańskiej	Partia Republikańska	ORG	ORG-Republican-Party-USA
+446	460	Kevin McCarthy	Kevin McCarthy	PER	PER-Kevin-McCarthy
+478	499	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+528	542	Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+562	570	Kolumbii	Kolumbia	LOC	GPE-Columbia
+571	589	Jose Manuel Santos	Jose Manuel Santos	PER	PER-Jose-Manuel-Santos
+591	597	Polska	Polska	LOC	GPE-Poland
+627	637	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+750	756	Polski	Polska	LOC	GPE-Poland
+909	912	BBC	BBC	PRO	PRO-BBC
+985	1002	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1015	1032	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1114	1120	Brexit	Brexit	EVT	EVT-Brexit
+1189	1193	Unią	Unia	ORG	ORG-European-Union
+1196	1219	Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1244	1253	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1438	1445	Brexitu	Brexit	EVT	EVT-Brexit
+1447	1460	Davida Davisa	David Davis	PER	PER-David-Davis
+1547	1562	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1628	1636	Danegeld	Danegeld	PRO	PRO-Danegeld
+1643	1649	Anglia	Anglia	LOC	GPE-England
+1658	1666	Wikingom	Wikingowie	PER	PER-Vikings
+1677	1687	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+1713	1722	Londynowi	Londyn	LOC	GPE-London
+1849	1862	Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+1899	1914	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1934	1945	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain

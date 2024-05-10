@@ -1,0 +1,64 @@
+0	15	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+30	38	torysami	torysi	PER	ORG-Tories
+41	45	Unię	Unia	ORG	ORG-European-Union
+79	81	UE	UE	ORG	ORG-European-Union
+84	105	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+118	141	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+224	239	Financial Times	Financial Times	PRO	PRO-Financial-Times
+279	293	Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+374	383	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+417	428	Theresa May	Theresa May	PER	PER-Theresa-May
+526	541	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+564	572	Brukseli	Bruksela	LOC	GPE-Brussles
+819	826	brexitu	Brexit	EVT	EVT-Brexit
+830	851	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+852	867	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+909	912	May	May	PER	PER-Theresa-May
+990	997	torysów	torysi	PER	ORG-Tories
+1064	1070	Londyn	Londyn	LOC	GPE-London
+1105	1113	Brukseli	Bruksela	LOC	GPE-Brussles
+1326	1334	Johnsona	Johnson	PER	PER-Boris-Johnson
+1390	1396	Europą	Europa	LOC	LOC-Europe
+1549	1567	Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+1570	1587	Irlandii Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+1624	1639	Zielonej Wyspie	Zielona Wyspa	LOC	GPE-Ireland
+1661	1664	May	May	PER	PER-Theresa-May
+1710	1723	Leo Varadkara	Leo Varadkar	PER	PER-Leo-Varadkar
+1746	1760	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+1932	1949	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2018	2020	Rz	Rz	PRO	PRO-Rzeczpospolita
+2022	2030	Ian Bond	Ian Bond	PER	PER-Ian-Bond
+2054	2080	Center for European Reform	Center for European Reform	ORG	ORG-Centre-For-European-Reform
+2082	2085	CER	CER	ORG	ORG-Centre-For-European-Reform
+2088	2103	Jacob Rees-Mogg	Jacob Rees-Mogg	PER	PER-Jacob-Rees-Mogg
+2136	2143	torysów	torysi	PER	ORG-Tories
+2176	2180	Unią	Unia	ORG	ORG-European-Union
+2220	2241	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+2244	2254	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+2256	2259	May	May	PER	PER-Theresa-May
+2324	2335	Mark Carney	Mark Carney	PER	PER-Mark-Carney
+2344	2356	Banku Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+2477	2492	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2511	2518	brexitu	Brexit	EVT	EVT-Brexit
+2579	2585	Carney	Carney	PER	PER-Mark-Carney
+2675	2683	Brukselą	Bruksela	LOC	GPE-Brussles
+2797	2803	Polski	Polska	LOC	GPE-Poland
+2812	2820	Eurostat	Eurostat	ORG	ORG-Eurostat
+2822	2829	Barnier	Barnier	PER	PER-Michel-Barnier
+2846	2861	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2864	2868	Unia	Unia	ORG	ORG-European-Union
+2962	2970	Londynem	Londyn	LOC	GPE-London
+2973	2981	Brukselą	Bruksela	LOC	GPE-Brussles
+3011	3018	brexitu	Brexit	EVT	EVT-Brexit
+3057	3064	Ryanair	Ryanair	ORG	ORG-Ryanair
+3065	3080	Michael O'Leary	Michael OLeary	PER	PER-Michael-O'Leary
+3178	3182	Unią	Unia	ORG	ORG-European-Union
+3186	3192	Brexit	Brexit	EVT	EVT-Brexit
+3303	3305	UE	UE	ORG	ORG-European-Union
+3359	3369	Irlandczyk	Irlandczyk	PER	GPE-Ireland
+3384	3391	Ryanair	Ryanair	ORG	ORG-Ryanair
+3500	3504	Unii	Unia	ORG	ORG-European-Union
+3597	3603	Europy	Europa	LOC	LOC-Europe
+3642	3651	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+3685	3693	Bruksela	Bruksela	LOC	GPE-Brussles
+3836	3840	Unii	Unia	ORG	ORG-European-Union

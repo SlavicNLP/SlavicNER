@@ -1,0 +1,31 @@
+31	37	Невада	Невада	LOC	GPE-Nevada
+68	79	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+90	97	Байдена	Байден	PER	PER-Joe-Biden
+137	160	Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+193	196	США	США	LOC	GPE-USA
+228	234	Неваді	Невада	LOC	GPE-Nevada
+285	291	Невади	Невада	LOC	GPE-Nevada
+319	327	Делаверу	Делавер	LOC	GPE-Delaware
+329	338	Іллінойсу	Іллінойс	LOC	GPE-Illinois
+340	352	Нью-Гемпшира	Нью-Гемпшир	LOC	GPE-New-Hampshire
+356	364	Вермонту	Вермонт	LOC	GPE-Vermont
+387	390	США	США	LOC	GPE-USA
+425	433	Теннессі	Теннессі	LOC	GPE-Tennessee
+435	453	Південної Кароліни	Південна Кароліна	LOC	GPE-South-Carolina-US-State
+455	463	Оклахоми	Оклахома	LOC	GPE-Oklahoma
+465	474	Міссісіпі	Міссісіпі	LOC	GPE-Mississippi
+476	481	Айови	Айова	LOC	GPE-Iowa
+483	490	Індіани	Індіана	LOC	GPE-Indiana
+494	503	Арканзасу	Арканзас	LOC	GPE-Arkansas
+515	521	Трампа	Трамп	PER	PER-Donald-Trump
+743	750	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+753	759	Неваді	Невада	LOC	GPE-Nevada
+774	780	Байден	Байден	PER	PER-Joe-Biden
+824	831	Байдена	Байден	PER	PER-Joe-Biden
+843	850	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+853	859	Неваді	Невада	LOC	GPE-Nevada
+873	884	РБК-Україна	РБК-Україна	ORG	ORG-RBC-Ukraine
+901	908	Байдену	Байден	PER	PER-Joe-Biden
+948	955	Вермонт	Вермонт	LOC	GPE-Vermont
+971	977	Байден	Байден	PER	PER-Joe-Biden
+1022	1028	RBC.UA	RBC.UA	ORG	ORG-RBC-Ukraine

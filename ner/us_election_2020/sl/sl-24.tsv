@@ -1,0 +1,80 @@
+12	24	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+28	37	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+92	97	Bidnu	Biden	PER	PER-Joe-Biden
+100	109	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+113	125	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+325	334	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+374	386	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+622	631	Bele hiše	Bela hiša	LOC	LOC-White-House
+1070	1079	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1115	1123	Trumpova	Trump	PER	PER-Donald-Trump
+1170	1175	Biden	Biden	PER	PER-Joe-Biden
+1201	1206	Trump	Trump	PER	PER-Donald-Trump
+1221	1226	Biden	Biden	PER	PER-Joe-Biden
+1305	1310	Trump	Trump	PER	PER-Donald-Trump
+1393	1402	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1469	1472	ZDA	ZDA	LOC	GPE-USA
+1535	1544	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1584	1591	Bidnova	Biden	PER	PER-Joe-Biden
+1604	1609	Trump	Trump	PER	PER-Donald-Trump
+1681	1684	ZDA	ZDA	LOC	GPE-USA
+1698	1711	Zahodna obala	Zahodna obala	LOC	GPE-West-Coast-of-the-United-States
+1729	1734	Bidnu	Biden	PER	PER-Joe-Biden
+1871	1876	Trump	Trump	PER	PER-Donald-Trump
+1961	1971	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+1975	1984	Michiganu	Michigan	LOC	GPE-Michigan
+2008	2015	Bidnovo	Biden	PER	PER-Joe-Biden
+2029	2034	Trump	Trump	PER	PER-Donald-Trump
+2050	2062	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2141	2146	Trump	Trump	PER	PER-Donald-Trump
+2341	2350	Beli hiši	Bela hiša	LOC	LOC-White-House
+2579	2590	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+2725	2732	Bidnove	Biden	PER	PER-Joe-Biden
+2742	2761	Jen O'Malley Dillon	Jen O'Malley Dillon	PER	PER-Jennifer-O'Malley-Dillon
+2813	2816	ZDA	ZDA	LOC	GPE-USA
+2817	2827	Američanom	Američani	PER	GPE-USA
+2890	2895	Biden	Biden	PER	PER-Joe-Biden
+2929	2936	Trumpom	Trump	PER	PER-Donald-Trump
+3290	3295	Biden	Biden	PER	PER-Joe-Biden
+3325	3329	Jill	Jill	PER	PER-Jill-Biden
+3360	3370	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+3459	3464	Biden	Biden	PER	PER-Joe-Biden
+3467	3477	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+3507	3512	Trump	Trump	PER	PER-Donald-Trump
+3531	3536	Biden	Biden	PER	PER-Joe-Biden
+3561	3564	ZDA	ZDA	LOC	GPE-USA
+3694	3703	Michiganu	Michigan	LOC	GPE-Michigan
+3746	3752	Trumpa	Trump	PER	PER-Donald-Trump
+3800	3805	Biden	Biden	PER	PER-Joe-Biden
+3860	3865	Biden	Biden	PER	PER-Joe-Biden
+3919	3924	Trump	Trump	PER	PER-Donald-Trump
+4037	4043	Nevadi	Nevada	LOC	GPE-Nevada
+4074	4083	demokrata	demokrat	PER	ORG-Democratic-Party-USA
+4103	4108	Trump	Trump	PER	PER-Donald-Trump
+4171	4176	Biden	Biden	PER	PER-Joe-Biden
+4228	4233	Trump	Trump	PER	PER-Donald-Trump
+4252	4257	Biden	Biden	PER	PER-Joe-Biden
+4606	4616	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+4645	4657	republikance	republikanci	ORG	ORG-Republican-Party-USA
+4695	4707	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+4913	4929	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+5033	5039	Nevadi	Nevada	LOC	GPE-Nevada
+5226	5229	ZDA	ZDA	LOC	GPE-USA
+5332	5354	U.S. Elections Project	U. S. Elections Project	ORG	ORG-US-Election-Project
+5469	5485	Michael McDonald	Michael McDonald	PER	PER-Michael-McDonald
+5530	5546	William McKinley	William McKinley	PER	PER-William-McKinley
+5579	5604	Williama Jenningsa Bryana	William Jennings Bryan	PER	PER-William-Jennings-Bryan
+5694	5703	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+5798	5810	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+5855	5860	Biden	Biden	PER	PER-Joe-Biden
+5910	5915	Trump	Trump	PER	PER-Donald-Trump
+5963	5975	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+6378	6380	AP	AP	ORG	ORG-AP-The-Associated-Press
+6414	6424	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+6432	6445	republikancev	republikanci	PER	ORG-Republican-Party-USA
+6513	6522	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+6611	6623	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+6851	6863	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+6922	6924	AP	AP	ORG	ORG-AP-The-Associated-Press
+6934	6946	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+6993	7002	demokrati	demokrati	ORG	ORG-Democratic-Party-USA

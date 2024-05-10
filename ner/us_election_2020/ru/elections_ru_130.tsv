@@ -1,0 +1,131 @@
+116	123	русские	русские	PER	GPE-Russia
+126	136	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+146	155	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+182	189	русские	русский	PER	GPE-Russia
+192	202	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+212	221	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+224	232	Симпсоны	Симпсон	PER	PER-Simpson
+277	286	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+292	299	русские	русский	PER	GPE-Russia
+302	312	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+314	319	Трамп	Трамп	PER	PER-Donald-Trump
+400	405	Apple	Apple	ORG	ORG-Apple
+476	484	Leonardo	Leonardo	ORG	ORG-Leonardo
+509	521	американские	американские	LOC	GPE-USA
+601	608	русские	русские	PER	GPE-Russia
+611	621	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+631	640	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+643	651	Симпсоны	Симпсоны	PER	PER-Simpson
+696	705	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+711	718	русские	русский	PER	GPE-Russia
+721	731	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+733	738	Трамп	Трамп	PER	PER-Donald-Trump
+819	824	Apple	Apple	ORG	ORG-Apple
+895	903	Leonardo	Leonardo	ORG	ORG-Leonardo
+928	940	американские	американские	LOC	GPE-USA
+1033	1040	русские	русский	PER	GPE-Russia
+1043	1053	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+1063	1072	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+1075	1083	Симпсоны	Симпсон	PER	PER-Simpson
+1128	1137	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+1143	1150	русские	русские	PER	GPE-Russia
+1153	1163	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+1165	1170	Трамп	Трамп	PER	PER-Donald-Trump
+1251	1256	Apple	Apple	ORG	ORG-Apple
+1327	1335	Leonardo	Leonardo	ORG	ORG-Leonardo
+1360	1372	американские	американские	LOC	GPE-USA
+1502	1513	Business FM	Business FM	PRO	PRO-Business-Insider
+1524	1542	Андреем Ромашковым	Андрей Ромашков	PER	PER-Andrey-Romashkov
+1569	1578	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+1584	1591	русские	русские	PER	GPE-Russia
+1641	1651	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+1678	1683	Трамп	Трамп	PER	PER-Donald-Trump
+1720	1732	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+1742	1750	Симпсоны	Симпсон	PER	PER-Simpson
+1938	1944	Трампа	Трамп	PER	PER-Donald-Trump
+1992	1999	Америки	Америка	LOC	GPE-USA
+2053	2058	Трамп	Трамп	PER	PER-Donald-Trump
+2100	2103	iOS	iOS	PRO	PRO-IOS
+2110	2115	Трамп	Трамп	PER	PER-Donald-Trump
+2163	2174	американцам	американцы	PER	GPE-USA
+2176	2181	Apple	Apple	ORG	ORG-Apple
+2335	2338	ФБР	ФБР	ORG	ORG-FBI
+2448	2454	Трампа	Трамп	PER	PER-Donald-Trump
+2474	2481	Twitter	Twitter	PRO	PRO-Twitter
+2484	2492	Facebook	Facebook	PRO	PRO-Facebook
+2547	2566	“Nations in Action”	Nations in Action	ORG	ORG-Europe-of-Nations-and-Freedom
+2637	2645	Leonardo	Leonardo	ORG	ORG-Leonardo
+2658	2661	США	США	LOC	GPE-USA
+2694	2700	Трампа	Трамп	PER	PER-Donald-Trump
+2746	2752	Трампа	Трамп	PER	PER-Donald-Trump
+2762	2769	Госдепа	Госдеп	ORG	ORG-Department-of-State-USA
+2791	2802	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+2856	2862	iPhone	iPhone	PRO	PRO-iPhone
+2865	2871	iTunes	iTunes	PRO	PRO-iTunes
+2877	2884	Android	Android	PRO	PRO-Android
+2887	2902	Google Podcasts	Google Podcasts	PRO	PRO-Google-Play
+2947	2960	Яндекс.Музыка	Яндекс.Музыка	PRO	PRO-Yandex.Music
+2962	2969	Castbox	Castbox	PRO	PRO-Castbox
+2972	2983	Soundstream	Soundstream	PRO	PRO-Soundstream
+3042	3055	"""РИА Новости"""	РИА Новости	PRO	PRO-RIA-Novosti
+3172	3183	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+3336	3351	дональду трампу	Дональд Трамп	PER	PER-Donald-Trump
+3353	3356	фбр	ФБР	ORG	ORG-FBI
+3367	3376	капитолий	Капитолий	LOC	LOC-United-States-Capitol
+3378	3391	дональд трамп	Дональд Трамп	PER	PER-Donald-Trump
+3416	3419	сша	сша	LOC	GPE-USA
+3421	3433	конгресс сша	Конгресс США	ORG	ORG-United-States-Congress
+3435	3442	америка	Америка	LOC	GPE-USA
+3444	3447	сша	США	LOC	GPE-USA
+3475	3478	сша	США	LOC	GPE-USA
+3513	3520	русские	русский	PER	GPE-Russia
+3523	3533	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+3543	3552	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+3579	3586	русские	русский	PER	GPE-Russia
+3589	3599	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+3609	3618	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+3658	3666	Симпсоны	Симпсоны	PER	PER-Simpson
+3711	3720	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+3726	3733	русские	русский	PER	GPE-Russia
+3736	3746	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+3748	3753	Трамп	Трамп	PER	PER-Donald-Trump
+3834	3839	Apple	Apple	ORG	ORG-Apple
+3888	3918	итальянского холдинга Leonardo	итальянский холдинг Leonardo	ORG	ORG-Leonardo
+4072	4083	Business FM	Business FM	PRO	PRO-Business-Insider
+4094	4112	Андреем Ромашковым	Андрей Ромашков	PER	PER-Andrey-Romashkov
+4141	4150	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+4156	4163	русские	русский	PER	GPE-Russia
+4213	4223	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
+4253	4258	Трамп	Трамп	PER	PER-Donald-Trump
+4295	4307	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+4318	4328	"""Симпсоны"""	Симпсон	PRO	PRO-Simpsons
+4515	4521	Трампа	Трамп	PER	PER-Donald-Trump
+4572	4579	Америки	Америка	LOC	GPE-USA
+4636	4641	Трамп	Трамп	PER	PER-Donald-Trump
+4683	4686	iOS	iOS	PRO	PRO-IOS
+4693	4698	Трамп	Трамп	PER	PER-Donald-Trump
+4746	4757	американцам	американцы	PER	GPE-USA
+4759	4764	Apple	Apple	ORG	ORG-Apple
+4920	4923	ФБР	ФБР	ORG	ORG-FBI
+5036	5042	Трампа	Трамп	PER	PER-Donald-Trump
+5062	5069	Twitter	Twitter	PRO	PRO-Twitter
+5072	5080	Facebook	Facebook	PRO	PRO-Facebook
+5138	5157	“Nations in Action”	Nations in Action	ORG	ORG-Europe-of-Nations-and-Freedom
+5228	5236	Leonardo	Leonardo	ORG	ORG-Leonardo
+5249	5252	США	США	LOC	GPE-USA
+5288	5294	Трампа	Трамп	PER	PER-Donald-Trump
+5340	5346	Трампа	Трамп	PER	PER-Donald-Trump
+5356	5367	Госдепа США	Госдеп США	ORG	ORG-Department-of-State-USA
+5388	5399	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+5453	5459	iPhone	iPhone	PRO	PRO-iPhone
+5462	5468	iTunes	iTunes	PRO	PRO-iTunes
+5474	5481	Android	Android	PRO	PRO-Android
+5484	5499	Google Podcasts	Google Podcasts	PRO	PRO-Google-Play
+5544	5557	Яндекс.Музыка	Яндекс.Музыка	PRO	PRO-Yandex.Music
+5559	5566	Castbox	Castbox	PRO	PRO-Castbox
+5569	5580	Soundstream	Soundstream	PRO	PRO-Soundstream
+5639	5652	"""РИА Новости"""	РИА Новости	PRO	PRO-RIA-Novosti
+5704	5715	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+5953	6008	Международное информационное агентство «Россия сегодня»	Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+6010	6030	МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+6086	6100	Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.

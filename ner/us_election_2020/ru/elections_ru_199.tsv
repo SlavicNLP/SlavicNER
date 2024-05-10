@@ -1,0 +1,19 @@
+9	12	США	США	LOC	GPE-USA
+27	34	Трампом	Трамп	PER	PER-Donald-Trump
+37	45	Байденом	Байден	PER	PER-Joe-Biden
+119	122	США	США	LOC	GPE-USA
+194	202	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+204	216	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+219	225	Неваде	Невада	LOC	GPE-Nevada
+241	258	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+261	273	Джо Байденом	Джо Байден	PER	PER-Joe-Biden
+302	309	Аризоне	Аризона	LOC	GPE-Arizona
+319	325	Байден	Байден	PER	PER-Joe-Biden
+330	336	Аляске	Аляска	LOC	GPE-Alaska
+341	358	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+361	366	Трамп	Трамп	PER	PER-Donald-Trump
+370	378	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+381	389	Мичигане	Мичиган	LOC	GPE-Michigan
+416	422	Трампа	Трамп	PER	PER-Donald-Trump
+458	463	Трамп	Трамп	PER	PER-Donald-Trump
+472	482	демократов	демократ	ORG	ORG-Democratic-Party-USA

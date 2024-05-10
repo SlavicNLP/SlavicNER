@@ -1,0 +1,37 @@
+2	11	Евросоюзе	Евросоюз	ORG	ORG-European-Union
+46	54	ковид 18	ковид-19	EVT	EVT-Covid-19
+77	85	Press.lv	Press.lv	PRO	ORG-Press.lv
+116	133	Европейском союзе	Европейский союз	ORG	ORG-European-Union
+246	266	Европейской комиссии	Европейская комиссия	ORG	ORG-European-Commission
+267	287	Урсула фон дер Ляйен	Урсула фон дер Ляйен	PER	PER-Ursula-von-der-Leyen
+327	337	Питер Пиот	Питер Пиот	PER	PER-Peter-Piot
+339	349	Peter Piot	Peter Piot	PER	PER-Peter-Piot
+358	363	bb.lv	bb.lv	PRO	PRO-bb.lv
+469	475	Европы	Европа	LOC	LOC-Europe
+532	544	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+607	609	ЕС	ЕС	ORG	ORG-European-Union
+645	651	Европе	Европа	LOC	LOC-Europe
+708	714	Европе	Европа	LOC	LOC-Europe
+840	853	фон дер Ляйен	фон дер Ляйен	PER	PER-Ursula-von-der-Leyen
+1044	1056	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+1219	1223	Пиот	Пиот	PER	PER-Peter-Piot
+1363	1375	коронавируса	коронавирус	EVT	EVT-Covid-19
+1425	1435	европейцев	европейцы	PER	LOC-Europe
+1588	1592	Пиот	Пиот	PER	PER-Peter-Piot
+1874	1886	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+2202	2206	Пиот	Пиот	PER	PER-Peter-Piot
+2407	2411	Пиот	Пиот	PER	PER-Peter-Piot
+2987	2993	Андрис	Андрис	PER	PER-Andris-Sics
+3076	3083	ковидом	ковид	EVT	EVT-Covid-19
+3375	3381	Европе	Европа	LOC	LOC-Europe
+3452	3469	ЧМ по хоккею 2021	ЧМ по хоккею 2021	EVT	EVT-IIHF-World-Championship-2021
+3474	3493	Олимпиаду 2021 ГОДА	Олимпиада 2021 года	EVT	EVT-2020-Summer-Olympics
+3694	3700	Латвии	Латвия	LOC	GPE-Latvia
+3743	3755	коронавируса	коронавирус	EVT	EVT-Covid-19
+3758	3775	Европейском союзе	Европейский союз	ORG	ORG-European-Union
+4118	4127	Евросоюзе	Евросоюз	ORG	ORG-European-Union
+4355	4368	фондом Гейтса	Фонд Гейтса	ORG	ORG-Bill-and-Melinda-Gates-Foundation
+4377	4383	африки	Африка	LOC	LOC-Africa
+4432	4438	Латвия	Латвия	LOC	GPE-Latvia
+4453	4456	ЮАР	ЮАР	LOC	GPE-Republic-of-South-Africa
+4921	4928	Фейсбук	Фейсбук	PRO	PRO-Facebook

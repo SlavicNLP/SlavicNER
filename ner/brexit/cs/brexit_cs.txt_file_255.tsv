@@ -1,0 +1,23 @@
+56	63	brexitu	brexit	EVT	EVT-Brexit
+180	183	BBC	BBC	PRO	PRO-BBC
+184	196	John Pienaar	John Pienaar	PER	PER-John-Pienaar
+214	228	Downing Street	Downing Street	LOC	LOC-Downing-Street
+361	368	brexitu	brexit	EVT	EVT-Brexit
+430	438	Británie	Británie	LOC	GPE-Great-Britain
+441	443	EU	EU	ORG	ORG-European-Union
+849	855	Mayové	Mayová	PER	PER-Theresa-May
+866	889	Britská obchodní komora	Britská obchodní komora	ORG	ORG-British-Chambers-of-Commerce
+1055	1061	Mayová	Mayová	PER	PER-Theresa-May
+1110	1113	CNN	CNN	PRO	PRO-CNN
+1208	1214	Nissan	Nissan	ORG	ORG-Nissan
+1223	1229	Nomura	Nomura	ORG	ORG-Nomura-Holdings-Inc
+1342	1349	brexitu	brexit	EVT	EVT-Brexit
+1385	1387	EU	EU	ORG	ORG-European-Union
+1545	1552	Reuters	Reuters	ORG	ORG-Reuters
+1619	1627	Británii	Británie	LOC	GPE-Great-Britain
+1628	1641	Kodži Curuoka	Kodži Curuoka	PER	PER-Koji-Tsoruoka
+1773	1781	Británie	Británie	LOC	GPE-Great-Britain
+1826	1829	BBC	BBC	PRO	PRO-BBC
+1843	1849	brexit	brexit	EVT	EVT-Brexit
+1926	1941	Borise Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+1992	2009	Philippa Hammonda	Philipp Hammond	PER	PER-Philip-Hammond

@@ -1,0 +1,31 @@
+0	7	Johnson	Johnson	PER	PER-Boris-Johnson
+18	24	Londýn	Londýn	LOC	GPE-London
+38	45	brexitu	brexit	EVT	EVT-Brexit
+124	131	brexitu	brexit	EVT	EVT-Brexit
+132	145	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+248	256	BuzzFeed	BuzzFeed	ORG	ORG-BuzzFeed-Inc
+293	299	Londýn	Londýn	LOC	GPE-London
+348	361	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+370	383	Toby Melville	Toby Melville	PER	PER-Tobi-Melvile
+393	400	Reuters	Reuters	ORG	ORG-Reuters
+402	409	Johnson	Johnson	PER	PER-Boris-Johnson
+455	462	brexitu	brexit	EVT	EVT-Brexit
+493	507	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+563	570	brexitu	brexit	EVT	EVT-Brexit
+589	594	Britů	Britové	PER	GPE-Great-Britain
+645	651	brexit	brexit	EVT	EVT-Brexit
+685	692	Johnson	Johnson	PER	PER-Boris-Johnson
+752	766	Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+792	805	Evropské unie	Evropská unie	ORG	ORG-European-Union
+947	954	brexitu	brexit	EVT	EVT-Brexit
+973	978	Trump	Trump	PER	PER-Donald-Trump
+1125	1133	Johnsona	Johnson	PER	PER-Boris-Johnson
+1134	1145	Radiožurnál	Radiožurnál	PRO	PRO-Radiozurnal
+1147	1161	Downing Street	Downing Street	LOC	LOC-Downing-Street
+1168	1171	BBC	BBC	PRO	PRO-BBC
+1182	1189	Johnson	Johnson	PER	PER-Boris-Johnson
+1216	1230	Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+1250	1263	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1268	1274	brexit	brexit	EVT	EVT-Brexit
+1275	1289	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+1295	1306	Johnsonovým	Johnson	PER	PER-Boris-Johnson

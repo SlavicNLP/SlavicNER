@@ -1,0 +1,30 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+26	39	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+78	85	Брекзит	Брекзит	EVT	EVT-Brexit
+92	106	Великобритания	Великобритания	LOC	GPE-Great-Britain
+109	111	ЕС	ЕС	ORG	ORG-European-Union
+133	143	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+144	158	Веселин Паунов	Веселин Паунов	PER	PER-Veselin-Paunov
+169	172	БНР	БНР	ORG	ORG-Bulgarian-National-Radio
+175	181	Лондон	Лондон	LOC	GPE-London
+202	208	Берлин	Берлин	LOC	GPE-Berlin
+230	243	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+282	289	Брекзит	Брекзит	EVT	EVT-Brexit
+296	310	Великобритания	Великобритания	LOC	GPE-Great-Britain
+313	315	ЕС	ЕС	ORG	ORG-European-Union
+320	326	Берлин	Берлин	LOC	GPE-Berlin
+399	412	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+468	475	Брекзит	Брекзит	EVT	EVT-Brexit
+605	625	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+628	630	ЕС	ЕС	ORG	ORG-European-Union
+657	667	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+783	797	Великобритания	Великобритания	LOC	GPE-Great-Britain
+801	803	ЕС	ЕС	ORG	ORG-European-Union
+840	853	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+898	905	Брекзит	Брекзит	EVT	EVT-Brexit
+963	973	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1021	1028	Брекзит	Брекзит	EVT	EVT-Brexit
+1079	1081	ЕС	ЕС	ORG	ORG-European-Union
+1082	1094	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+1180	1186	Лондон	Лондон	LOC	GPE-London
+1222	1224	ЕС	ЕС	ORG	ORG-European-Union

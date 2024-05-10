@@ -1,0 +1,44 @@
+53	55	G7	G7	ORG	ORG-G7
+106	109	Fed	Fed	ORG	ORG-Fed
+111	114	EBC	EBC	ORG	ORG-European-Central-Bank
+117	120	BoJ	BoJ	ORG	ORG-BoJ-Bank-of-Japan
+139	146	Brexitu	Brexit	EVT	EVT-Brexit
+170	175	Trump	Trump	PER	PER-Donald-Trump
+176	179	Kim	Kim	PER	PER-Kim-Dzong-Un
+227	234	Mundial	Mundial	EVT	EVT-FIFA-World-Cup-2018
+254	258	FOMC	FOMC	ORG	ORG-FOMC
+266	269	USA	USA	LOC	GPE-USA
+271	274	EBC	EBC	ORG	ORG-European-Central-Bank
+276	282	Brexit	Brexit	EVT	EVT-Brexit
+304	317	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+319	322	BoJ	BoJ	ORG	ORG-BoJ-Bank-of-Japan
+338	347	Australii	Australia	LOC	GPE-Australia
+390	394	FOMC	FOMC	ORG	ORG-FOMC
+494	497	Fed	Fed	ORG	ORG-Fed
+840	844	FOMC	FOMC	ORG	ORG-FOMC
+1073	1077	FOMC	FOMC	ORG	ORG-FOMC
+1320	1323	Fed	Fed	ORG	ORG-Fed
+1385	1388	EBC	EBC	ORG	ORG-European-Central-Bank
+1421	1434	Rady Prezesów	Rada Prezesów	ORG	ORG-EBC-Governing-Council
+1620	1623	EBC	EBC	ORG	ORG-European-Central-Bank
+1755	1761	Draghi	Draghi	PER	PER-Mario-Draghi
+2023	2040	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2049	2052	May	May	PER	PER-Theresa-May
+2127	2129	UE	UE	ORG	ORG-European-Union
+2167	2180	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+2183	2216	Europejskim Obszarze Gospodarczym	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+2273	2280	Brexitu	Brexit	EVT	EVT-Brexit
+2329	2332	May	May	PER	PER-Theresa-May
+2545	2548	BoE	BoE	ORG	ORG-Bank-of-England
+2858	2867	Harry'ego	Harry	PER	PER-Prince-Harry
+2870	2883	Meghan Markle	Meghan Markle	PER	PER-Meghan-Markle-Duchess-of-Sussex
+2887	2893	Polsce	Polska	LOC	GPE-Poland
+3374	3381	Japonii	Japonia	LOC	GPE-Japan
+3417	3430	Banku Japonii	Bank Japonii	ORG	ORG-BoJ-Bank-of-Japan
+3665	3668	BoJ	BoJ	ORG	ORG-BoJ-Bank-of-Japan
+4063	4072	Australii	Australia	LOC	GPE-Australia
+4262	4265	RBA	RBA	ORG	ORG-RBA
+4266	4272	Lowe’a	Lowe	PER	PER-Philip-Lowe
+4781	4789	Kanadzie	Kanada	LOC	GPE-Canada
+4969	4972	BoC	BoC	ORG	ORG-BoC-Bank-of-Canada
+5024	5029	NAFTA	NAFTA	PRO	PRO-NAFTA

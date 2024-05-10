@@ -1,0 +1,112 @@
+19	25	Путина	Путин	PER	PER-Vladimir-Putin
+26	32	Байден	Байден	PER	PER-Joe-Biden
+42	48	Трампу	Трамп	PER	PER-Donald-Trump
+52	62	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+149	164	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+185	198	американского	американский	LOC	GPE-USA
+261	273	американской	американская	LOC	GPE-USA
+310	313	США	США	LOC	GPE-USA
+317	326	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+327	337	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+422	425	США	США	LOC	GPE-USA
+443	454	Белого дома	Белый дом	ORG	ORG-The-White-House
+475	488	американского	американский	LOC	GPE-USA
+508	521	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+836	847	Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+860	866	Байден	Байден	PER	PER-Joe-Biden
+890	901	Уилмингтоне	Уилмингтон	LOC	GPE-Wilmington
+908	915	Делавэр	Делавэр	LOC	GPE-Delaware
+998	1009	демократами	демократы	PER	ORG-Democratic-Party-USA
+1018	1030	Бараке Обаме	Барак Обама	PER	PER-Barack-Obama
+1124	1136	американской	американская	LOC	GPE-USA
+1212	1221	Белый дом	Белый дом	LOC	LOC-White-House
+1277	1283	Байден	Байден	PER	PER-Joe-Biden
+1405	1410	Трамп	Трамп	PER	PER-Donald-Trump
+1468	1474	Байден	Байден	PER	PER-Joe-Biden
+1560	1566	Трампа	Трамп	PER	PER-Donald-Trump
+1646	1652	Трампа	Трамп	PER	PER-Donald-Trump
+1655	1661	Байден	Байден	PER	PER-Joe-Biden
+1711	1716	Трамп	Трамп	PER	PER-Donald-Trump
+1916	1921	Трамп	Трамп	PER	PER-Donald-Trump
+1934	1944	демократов	демократы	PER	ORG-Democratic-Party-USA
+1962	1973	Белого дома	Белый дом	LOC	LOC-White-House
+2023	2028	Трамп	Трамп	PER	PER-Donald-Trump
+2037	2047	демократов	демократы	PER	ORG-Democratic-Party-USA
+2397	2409	американские	американские	LOC	GPE-USA
+2542	2550	Би-би-си	Би-би-си	PRO	PRO-BBC
+2642	2648	Трампу	Трамп	PER	PER-Donald-Trump
+2731	2738	Америки	Америка	LOC	GPE-USA
+2880	2885	Трамп	Трамп	PER	PER-Donald-Trump
+3013	3024	Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+3085	3092	Байдену	Байден	PER	PER-Joe-Biden
+3156	3166	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+3245	3252	Байдена	Байден	PER	PER-Joe-Biden
+3316	3322	Антрим	Антрим	LOC	GPE-Antrim
+3325	3333	Мичигане	Мичиган	LOC	GPE-Michigan
+3412	3417	Кларк	Кларк	LOC	GPE-Clark-County-Nevada
+3420	3426	Неваде	Невада	LOC	GPE-Nevada
+3465	3473	Мичигане	Мичиган	LOC	GPE-Michigan
+3502	3509	Байдену	Байден	PER	PER-Joe-Biden
+3548	3555	Трампом	Трамп	PER	PER-Donald-Trump
+3589	3592	США	США	LOC	GPE-USA
+3690	3722	Allied Security Operations Group	Allied Security Operations Group	ORG	ORG-ADS-Group-Limited
+3870	3880	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+4282	4285	США	США	LOC	GPE-USA
+4287	4302	Джона Рэтклиффа	Джон Рэтклифф	PER	PER-John-Ratcliffe
+4347	4354	техасец	техасец	PER	GPE-Texas
+4394	4426	Совета национальной безопасности	Совет национальной безопасности	ORG	ORG-United-States-National-Security-Council
+4517	4524	Трампом	Трамп	PER	PER-Donald-Trump
+4667	4670	США	США	LOC	GPE-USA
+4806	4812	Трампа	Трамп	PER	PER-Donald-Trump
+4853	4856	США	США	LOC	GPE-USA
+4862	4871	Венесуэла	Венесуэла	LOC	GPE-Venezuela
+4873	4878	Китай	Китай	LOC	GPE-China
+4880	4884	Иран	Иран	LOC	GPE-Iran
+4905	4911	Канаду	Канада	LOC	GPE-Canada
+4913	4920	Испанию	Испания	LOC	GPE-Spain
+4922	4930	Германию	Германия	LOC	GPE-Germany
+5022	5034	американские	американские	LOC	GPE-USA
+5087	5093	Трампу	Трамп	PER	PER-Donald-Trump
+5134	5161	Закон о восстании 1807 года	Закон о восстании 1807 года	PRO	PRO-Insurrection-Act-of-1807
+5202	5205	США	США	LOC	GPE-USA
+5608	5614	Трампа	Трамп	PER	PER-Donald-Trump
+5617	5627	Белом доме	Белый дом	ORG	ORG-The-White-House
+5782	5785	США	США	LOC	GPE-USA
+5988	5998	Белом доме	Белый дом	ORG	ORG-The-White-House
+5999	6006	Трампом	Трамп	PER	PER-Donald-Trump
+6020	6030	Пентагоном	Пентагон	ORG	ORG-The-Pentagon
+6197	6210	Майкла Флинна	Майкл Флинн	PER	PER-Michael-Flynn
+6258	6266	Минюстом	Минюст	ORG	ORG-Ministry-of-Justice-Russia
+6320	6333	Уильяма Барра	Уильям Барр	PER	PER-William-Barr
+6394	6441	Агентства по кибербезопасности и инфраструктуре	Агентство по кибербезопасности и инфраструктуре	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+6443	6447	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+6449	6485	Министерства внутренней безопасности	Министерство внутренней безопасности	ORG	ORG-US-Department-of-Homeland-Security
+6486	6503	Кристофера Кребса	Кристофер Кребс	PER	PER-Christopher-Krebs
+6610	6616	Трампа	Трамп	PER	PER-Donald-Trump
+6807	6814	Трампом	Трамп	PER	PER-Donald-Trump
+7014	7023	Рэтклиффа	Рэтклифф	PER	PER-John-Ratcliffe
+7077	7087	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+7134	7139	Трамп	Трамп	PER	PER-Donald-Trump
+7209	7218	Christmas	Christmas	EVT	EVT-Christmas
+7238	7245	Америке	Америка	LOC	GPE-USA
+7356	7359	США	США	LOC	GPE-USA
+7395	7408	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+7483	7488	Трамп	Трамп	PER	PER-Donald-Trump
+7587	7594	Байдену	Байден	PER	PER-Joe-Biden
+7609	7615	России	Россия	LOC	GPE-Russia
+7616	7632	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+7773	7779	Россия	Россия	LOC	GPE-Russia
+7782	7785	США	США	LOC	GPE-USA
+7998	8004	России	Россия	LOC	GPE-Russia
+8040	8049	российско	российский	LOC	GPE-Russia
+8050	8062	американское	американский	LOC	GPE-USA
+8368	8374	Байден	Байден	PER	PER-Joe-Biden
+8383	8389	Путина	Путин	PER	PER-Vladimir-Putin
+8419	8425	Трампа	Трамп	PER	PER-Donald-Trump
+8485	8491	Россию	Россия	LOC	GPE-Russia
+8524	8536	американские	американские	LOC	GPE-USA
+8612	8615	США	США	LOC	GPE-USA
+8616	8622	Трампа	Трамп	PER	PER-Donald-Trump
+8637	8643	Москву	Москва	LOC	GPE-Moscow
+8721	8730	демократы	демократы	PER	ORG-Democratic-Party-USA
+8733	8736	США	США	LOC	GPE-USA

@@ -1,0 +1,27 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+87	94	Brexitu	Brexit	EVT	EVT-Brexit
+95	109	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+215	232	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+235	237	UE	UE	ORG	ORG-European-Union
+286	294	Irlandią	Irlandia	LOC	GPE-Ireland
+297	314	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+410	417	Barnier	Barnier	PER	PER-Michel-Barnier
+443	451	France 2	France 2	PRO	PRO-France-2-TV
+461	476	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+479	481	UE	UE	ORG	ORG-European-Union
+500	507	Brexitu	Brexit	EVT	EVT-Brexit
+590	598	Irlandii	Irlandia	LOC	GPE-Ireland
+637	644	Barnier	Barnier	PER	PER-Michel-Barnier
+704	722	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+756	779	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+804	806	UE	UE	ORG	ORG-European-Union
+862	870	Londynem	Londyn	LOC	GPE-London
+873	881	Brukselą	Bruksela	LOC	GPE-Brussles
+955	963	Ulsterze	Ulster	LOC	GPE-Ulster
+1029	1046	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1047	1057	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+1100	1118	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+1171	1200	porozumieniem wielkopiątkowym	Porozumienie wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+1237	1255	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+1304	1315	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1318	1320	UE	UE	ORG	ORG-European-Union

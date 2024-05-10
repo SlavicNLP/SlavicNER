@@ -1,0 +1,23 @@
+0	11	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+52	61	Brexitowi	Brexit	EVT	EVT-Brexit
+104	115	Głos narodu	Głos narodu	EVT	EVT-Peoples-Vote
+156	167	Theresy May	Theresa May	PER	PER-Theresa-May
+209	220	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+271	288	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+367	381	Adolfa Hitlera	Adolf Hitler	PER	PER-Adolf-Hitler
+410	418	Brexitem	Brexit	EVT	EVT-Brexit
+553	568	agencji Reutera	Agencja Reutera	ORG	ORG-Reuters
+591	602	Głos narodu	Głos narodu	ORG	ORG-The-Peoples-Voice
+671	688	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+715	732	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+760	762	UE	UE	ORG	ORG-European-Union
+976	985	Survation	Survation	ORG	ORG-Survation
+1032	1034	UE	UE	ORG	ORG-European-Union
+1222	1233	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1410	1417	Brexitu	Brexit	EVT	EVT-Brexit
+1444	1451	Polaków	Polacy	PER	GPE-Poland
+1472	1489	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1573	1580	Wyspach	Wyspy	LOC	GPE-Great-Britain
+1584	1592	brexicie	Brexit	EVT	EVT-Brexit
+1676	1681	Kukiz	Kukiz	PER	PER-Paweł-Kukiz
+1702	1706	Dudy	Duda	PER	PER-Andrzej-Duda

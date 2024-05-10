@@ -1,0 +1,37 @@
+11	18	Brexitu	Brexit	EVT	EVT-Brexit
+52	60	Irlandii	Irlandia	LOC	GPE-Ireland
+142	159	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+188	205	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+287	298	Izby Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+299	317	Michaela Ashcrofta	Michael Ashcroft	PER	PER-Michael-Ashcroft
+344	362	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+444	451	Brexitu	Brexit	EVT	EVT-Brexit
+548	577	porozumieniem wielkopiątkowym	Porozumienie wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+646	654	Ulsterze	Ulster	LOC	GPE-Ulster
+674	705	Demokratyczna Partia Unionistów	Demokratyczna Partia Unionistów	ORG	ORG-DUP-Democratic-Unionist-Party
+723	733	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+743	763	Partię Konserwatywną	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+849	867	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+925	933	Londynie	Londyn	LOC	GPE-London
+998	1006	Brukseli	Bruksela	LOC	GPE-Brussles
+1198	1211	Irlandii Płn.	Irlandii Płn.	LOC	GPE-Northern-Ireland
+1212	1227	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1300	1302	UE	UE	ORG	ORG-European-Union
+1459	1467	Irlandii	Irlandia	LOC	GPE-Ireland
+1494	1511	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1524	1541	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1557	1574	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1575	1585	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+1614	1643	porozumienia wielkopiątkowego	Porozumienie wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+1718	1725	Brexitu	Brexit	EVT	EVT-Brexit
+1761	1769	Irlandii	Irlandia	LOC	GPE-Ireland
+1894	1903	Republika	Republika	LOC	GPE-Ireland
+1906	1923	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+1951	1966	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1979	1986	Brexitu	Brexit	EVT	EVT-Brexit
+2041	2058	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2116	2143	porozumienie wielkopiątkowe	Porozumienie wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+2157	2164	Brexitu	Brexit	EVT	EVT-Brexit
+2391	2406	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2435	2452	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2486	2495	Wspólnotę	Wspólnota	ORG	ORG-European-Union

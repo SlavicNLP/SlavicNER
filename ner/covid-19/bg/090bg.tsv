@@ -1,0 +1,29 @@
+0	2	EС	EС	ORG	ORG-European-Union
+52	64	коронавируса	коронавирус	EVT	EVT-Covid-19
+65	67	ЕК	ЕК	ORG	ORG-European-Commission
+86	93	Moderna	Moderna	ORG	ORG-Moderna
+135	155	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+195	197	ЕС	ЕС	ORG	ORG-European-Union
+251	258	Moderna	Moderna	ORG	ORG-Moderna
+359	361	ЕС	ЕС	ORG	ORG-European-Union
+500	508	COVID-19	COVID-19	EVT	EVT-Covid-19
+537	544	Moderna	Moderna	ORG	ORG-Moderna
+605	611	Европа	Европа	LOC	LOC-Europe
+650	661	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+663	669	Sanofi	Sanofi	ORG	ORG-Sanofi
+670	673	GSK	GSK	ORG	ORG-GSK
+675	696	Janssen Pharmaceutica	Janssen Pharmaceutica	ORG	ORG-China-National-Pharmaceutical-Group
+702	710	BioNtech	BioNTech	ORG	ORG-BioNTech
+711	717	Pfizer	Pfizer	ORG	ORG-Pfizer
+748	755	CureVac	CureVac	ORG	ORG-CureVac
+805	811	Европа	Европа	LOC	LOC-Europe
+1085	1105	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1106	1126	Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+1212	1219	Moderna	Moderna	ORG	ORG-Moderna
+1428	1436	COVID-19	COVID-19	EVT	EVT-Covid-19
+1689	1704	Стела Кириaкиду	Стела Кириaкиду	PER	PER-Stella-Kyriakides
+1979	1986	Moderna	Moderna	ORG	ORG-Moderna
+2417	2425	COVID-19	COVID-19	EVT	EVT-Covid-19
+2441	2450	Комисията	Комисия	ORG	ORG-European-Commission
+2575	2581	Европа	Европа	LOC	LOC-Europe
+2605	2607	ЕС	ЕС	ORG	ORG-European-Union

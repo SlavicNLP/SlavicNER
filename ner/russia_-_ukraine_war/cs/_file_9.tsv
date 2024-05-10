@@ -1,0 +1,24 @@
+6	8	EU	EU	ORG	ORG-European-Union
+50	58	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+60	66	Brusel	Brusel	LOC	GPE-Brussles
+69	82	Evropská unie	Evropská unie	ORG	ORG-European-Union
+116	141	ruského útoku na Ukrajinu	ruský útok na Ukrajinu	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+184	189	Rusko	Rusko	LOC	GPE-Russia
+444	452	covid-19	covid-19	EVT	EVT-Covid-19
+526	533	omikron	omikron	EVT	EVT-Covid-19
+583	585	EU	EU	ORG	ORG-European-Union
+683	691	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+703	709	Moskvě	Moskva	LOC	GPE-Moscow
+819	824	Rusko	Rusko	LOC	GPE-Russia
+1001	1015	Evropskou radu	Evropská rada	ORG	ORG-European-Council
+1035	1050	Gitanas Nauseda	Gitanas Nauseda	PER	PER-Gitanas-Nauseda
+1160	1168	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1185	1199	východě Evropy	východní Evropa	LOC	LOC-Eastern-Europe
+1285	1301	Krišjánis Kariňš	Krišjánis Kariňš	PER	PER-Krisjanis-Karins
+1467	1478	Washingtonu	Washington	LOC	GPE-WashingtonDC
+1481	1487	Kyjeva	Kyjev	LOC	GPE-Kiev
+1502	1514	ruské invaze	ruská invaze	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1554	1566	Eduard Heger	Eduard Heger	PER	PER-Eduard-Heger
+1661	1664	USA	USA	LOC	GPE-USA
+1720	1726	Hegera	Heger	PER	PER-Eduard-Heger
+1749	1757	covid-19	covid-19	EVT	EVT-Covid-19

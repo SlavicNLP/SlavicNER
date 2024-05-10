@@ -1,0 +1,29 @@
+14	23	Gazpromem	Gazprom	ORG	ORG-Gazprom
+25	28	USA	USA	LOC	GPE-USA
+53	60	Německa	Německo	LOC	GPE-Germany
+200	206	Evropy	Evropa	LOC	LOC-Europe
+213	220	Německo	Německo	LOC	GPE-Germany
+271	278	Německa	Německo	LOC	GPE-Germany
+284	294	Washington	Washington	LOC	GPE-WashingtonDC
+384	391	Německa	Německo	LOC	GPE-Germany
+448	463	Dan Brouillette	Dan Brouillette	PER	PER-Dan-Brouillette
+492	499	Německa	Německo	LOC	GPE-Germany
+585	593	Nizozemí	Nizozemsko	LOC	GPE-Holland
+596	601	Ruska	Rusko	LOC	GPE-Russia
+702	709	Gazprom	Gazprom	ORG	ORG-Gazprom
+717	728	Brouillette	Brouillette	PER	PER-Dan-Brouillette
+760	763	USA	USA	LOC	GPE-USA
+765	772	Gazprom	Gazprom	ORG	ORG-Gazprom
+850	856	Evropy	Evropa	LOC	LOC-Europe
+945	952	Gazprom	Gazprom	ORG	ORG-Gazprom
+998	1004	Evropy	Evropa	LOC	LOC-Europe
+1043	1050	Gazprom	Gazprom	ORG	ORG-Gazprom
+1176	1178	EU	EU	ORG	ORG-European-Union
+1203	1209	Kataru	Katar	LOC	GPE-Qatar
+1229	1236	Německo	Německo	LOC	GPE-Germany
+1418	1429	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+1431	1438	Německo	Německo	LOC	GPE-Germany
+1475	1482	Gazprom	Gazprom	ORG	ORG-Gazprom
+1565	1568	USA	USA	LOC	GPE-USA
+1570	1576	Polska	Polsko	LOC	GPE-Poland
+1579	1584	Litvy	Litva	LOC	GPE-Lithuania

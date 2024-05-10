@@ -1,0 +1,36 @@
+22	25	США	США	LOC	GPE-USA
+85	88	США	США	LOC	GPE-USA
+160	168	polit.ru	polit.ru	PRO	PRO-Polit-Ru
+173	176	США	США	LOC	GPE-USA
+447	462	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+468	483	Джозефу Байдену	Джозеф Байден	PER	PER-Joe-Biden
+520	539	The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+593	606	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+781	794	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+834	847	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+892	895	США	США	LOC	GPE-USA
+999	1012	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+1044	1059	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1131	1146	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+1207	1214	Вермонт	Вермонт	LOC	GPE-Vermont
+1227	1235	lenta.ru	lenta.ru	PRO	PRO-Lenta-Ru
+1288	1310	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+1311	1326	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+1373	1380	Индиана	Индиана	LOC	GPE-Indiana
+1383	1394	Нью-Гемпшир	Нью-Гемпшир	LOC	GPE-New-Hampshire
+1396	1409	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1443	1450	Индианы	Индиана	LOC	GPE-Indiana
+1454	1467	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+1486	1498	Нью-Гемпшире	Нью-Гемпшир	LOC	GPE-New-Hampshire
+1534	1537	США	США	LOC	GPE-USA
+1568	1576	Теннесси	Теннесси	LOC	GPE-Tennessee
+1595	1604	Миссисипи	Миссисипи	LOC	GPE-Mississippi
+1629	1648	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1714	1724	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+1905	1914	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+1964	1992	"ООО ""ГАЗЕТА ""НОВЫЕ ИЗВЕСТИЯ"""	"ООО ""ГАЗЕТА ""НОВЫЕ ИЗВЕСТИЯ"""	ORG	ORG-LLC-Gazeta-Novye-Izvestia
+2126	2221	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+2223	2235	Роскомнадзор	Роскомнадзор	ORG	ORG-Roskomnadzor
+2251	2316	"Общество с ограниченной ответственностью ""ГАЗЕТА ""НОВЫЕ ИЗВЕСТИЯ"""	"Общество с ограниченной ответственностью ""ГАЗЕТА ""НОВЫЕ ИЗВЕСТИЯ"""	ORG	ORG-Limited-Liability-Company-Gazeta-Novye-Izvestia
+2346	2352	Москва	Москва	LOC	GPE-Moscow
+2354	2368	ул. Артамонова	улица Артамонова	LOC	LOC-Artamonova-Street

@@ -1,0 +1,15 @@
+50	55	COVID	COVID	EVT	EVT-Covid-19
+64	70	Pfizer	Pfizer	ORG	ORG-Pfizer
+73	80	Moderna	Moderna	ORG	ORG-Moderna
+105	147	Європейське агентство з лікарських засобів	Європейське агентство з лікарських засобів	ORG	ORG-EMA-European-Medicines-Agency
+149	152	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+252	258	Pfizer	Pfizer	ORG	ORG-Pfizer
+259	267	BioNTech	BioNTech	ORG	ORG-BioNTech
+270	277	Moderna	Moderna	ORG	ORG-Moderna
+360	363	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+445	453	COVID-19	COVID-19	EVT	EVT-Covid-19
+616	619	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+808	846	Європейська агенція лікарських засобів	Європейська агенція лікарських засобів	ORG	ORG-EMA-European-Medicines-Agency
+848	851	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+933	940	Moderna	Moderna	ORG	ORG-Moderna
+943	949	Pfizer	Pfizer	ORG	ORG-Pfizer

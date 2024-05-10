@@ -1,0 +1,37 @@
+10	17	Лондона	Лондон	LOC	GPE-London
+36	42	Brexit	Brexit	EVT	EVT-Brexit
+75	82	Лондона	Лондон	LOC	GPE-London
+101	107	Brexit	Brexit	EVT	EVT-Brexit
+140	147	Лондона	Лондон	LOC	GPE-London
+166	172	Brexit	Brexit	EVT	EVT-Brexit
+201	209	AP Photo	AP Photo	ORG	ORG-AP-Photo
+236	264	правительства Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government
+282	292	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+294	305	white paper	white paper	PRO	PRO-White-paper-UK
+329	331	ЕС	ЕС	ORG	ORG-European-Union
+438	452	Великобритании	Великобритания	LOC	GPE-Great-Britain
+453	463	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+495	502	Австрии	Австрия	LOC	GPE-Austria
+503	521	Себастьяном Курцем	Себастьян Курц	PER	PER-Sebastian-Kurz
+559	565	Brexit	Brexit	EVT	EVT-Brexit
+606	610	НАТО	НАТО	ORG	ORG-NATO
+668	676	Британии	Британия	LOC	GPE-Great-Britain
+695	701	Brexit	Brexit	EVT	EVT-Brexit
+718	732	Великобритания	Великобритания	LOC	GPE-Great-Britain
+744	755	white paper	white paper	PRO	PRO-White-paper-UK
+803	813	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+846	848	ЕС	ЕС	ORG	ORG-European-Union
+1079	1081	ЕС	ЕС	ORG	ORG-European-Union
+1127	1159	соглашении о выходе из Евросоюза	соглашение о выходе из Евросоюза	PRO	PRO-Brexit-withdrawal-agreement
+1412	1415	Мэй	Мэй	PER	PER-Theresa-May
+1530	1548	кабинета министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+1782	1785	Мэй	Мэй	PER	PER-Theresa-May
+1847	1853	Brexit	Brexit	EVT	EVT-Brexit
+1944	1946	ЕС	ЕС	ORG	ORG-European-Union
+1947	1960	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+1969	1972	МИД	МИД	ORG	ORG-Foreign-Office
+1973	1988	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+2020	2028	Британии	Британия	LOC	GPE-Great-Britain
+2032	2034	ЕС	ЕС	ORG	ORG-European-Union
+2203	2211	Британия	Британия	LOC	GPE-Great-Britain
+2220	2222	ЕС	ЕС	ORG	ORG-European-Union

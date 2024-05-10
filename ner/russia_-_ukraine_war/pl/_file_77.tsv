@@ -1,0 +1,51 @@
+0	6	Macron	Macron	PER	PER-Emmanuel-Macron
+32	39	Ukrainę	Ukraina	LOC	GPE-Ukraine
+51	58	Kijowie	Kijów	LOC	GPE-Kiev
+83	90	Ukraina	Ukraina	LOC	GPE-Ukraine
+123	130	Francji	Francja	LOC	GPE-France
+133	152	zjednoczonej Europy	zjednoczona Europy	ORG	ORG-European-Union
+176	183	Francji	Francja	LOC	GPE-France
+209	216	Niemiec	Niemcy	LOC	GPE-Germany
+217	232	Olafem Scholzem	Olaf Scholz	PER	PER-Olaf-Scholz
+245	250	Włoch	Włochy	LOC	GPE-Italy
+251	264	Mario Draghim	Mario Draghi	PER	PER-Mario-Draghi
+285	290	Kijów	Kijów	LOC	GPE-Kiev
+319	326	Ukrainy	Ukraina	LOC	GPE-Ukraine
+327	348	Wołodymyrem Zełenskim	Wołodymyr Zełenski	PER	PER-Volodymyr-Zelensky
+350	357	Ukraina	Ukraina	LOC	GPE-Ukraine
+384	389	Rosji	Rosja	LOC	GPE-Russia
+468	483	armia ukraińska	armia ukraińska	ORG	ORG-Armed-Forces-of-Ukraine
+501	515	armię rosyjską	armia rosyjska	ORG	ORG-Russian-Armed-Forces
+519	527	Donbasie	Donbas	LOC	LOC-Donbass
+589	596	Francji	Francja	LOC	GPE-France
+718	723	Rosję	Rosja	LOC	GPE-Russia
+782	789	Ukrainy	Ukraina	LOC	GPE-Ukraine
+796	801	Rosji	Rosja	LOC	GPE-Russia
+803	809	Macron	Macron	PER	PER-Emmanuel-Macron
+840	847	Ukrainy	Ukraina	LOC	GPE-Ukraine
+946	954	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1021	1028	Ukrainę	Ukraina	LOC	GPE-Ukraine
+1106	1113	Ukraina	Ukraina	LOC	GPE-Ukraine
+1232	1241	Zełenskim	Zełenski	PER	PER-Volodymyr-Zelensky
+1258	1265	Francja	Francja	LOC	GPE-France
+1355	1366	Zełenskiego	Zełenski	PER	PER-Volodymyr-Zelensky
+1385	1392	Francji	Francja	LOC	GPE-France
+1439	1446	Putinem	Putin	PER	PER-Vladimir-Putin
+1516	1527	Zełenskiego	Zełenski	PER	PER-Volodymyr-Zelensky
+1544	1551	Francji	Francja	LOC	GPE-France
+1565	1571	Macron	Macron	PER	PER-Emmanuel-Macron
+1615	1622	Putinem	Putin	PER	PER-Vladimir-Putin
+1750	1757	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1772	1779	Francja	Francja	LOC	GPE-France
+1792	1800	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1821	1827	Macron	Macron	PER	PER-Emmanuel-Macron
+1950	1956	Caesar	Caesar	PRO	PRO-CAESAR
+2158	2165	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2184	2186	UE	UE	ORG	ORG-European-Union
+2218	2226	Scholzem	Scholz	PER	PER-Olaf-Scholz
+2229	2236	Draghim	Draghi	PER	PER-Mario-Draghi
+2239	2246	Kijowie	Kijów	LOC	GPE-Kiev
+2255	2263	Ukrainie	Ukraina	LOC	GPE-Ukraine
+2339	2345	Macron	Macron	PER	PER-Emmanuel-Macron
+2383	2400	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2546	2553	Francji	Francja	LOC	GPE-France

@@ -1,0 +1,19 @@
+0	16	Wojna w Ukrainie	Wojna w Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+18	20	UE	UE	ORG	ORG-European-Union
+30	38	Ukrainie	Ukraina	LOC	GPE-Ukraine
+74	81	Borrell	Borrell	PER	PER-Josep-Borrell
+250	255	Rosji	Rosja	LOC	GPE-Russia
+270	277	Ukrainę	Ukraina	LOC	GPE-Ukraine
+279	297	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+378	384	Węgier	Węgry	LOC	GPE-Hungary
+386	391	Czech	Czechy	LOC	GPE-Czech-Republic
+394	402	Słowacji	Słowacja	LOC	GPE-Slovakia
+462	477	agencja Reutera	agencja Reutera	ORG	ORG-Reuters
+536	539	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+684	686	KE	KE	ORG	ORG-European-Commission
+802	804	UE	UE	ORG	ORG-European-Union
+807	815	Brukseli	Bruksela	LOC	GPE-Brussles
+817	822	Węgry	Węgry	LOC	GPE-Hungary
+825	833	Słowacja	Słowacja	LOC	GPE-Slovakia
+908	914	Czechy	Czechy	LOC	GPE-Czech-Republic
+1007	1013	Europy	Europa	LOC	LOC-Europe

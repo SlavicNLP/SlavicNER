@@ -1,0 +1,14 @@
+11	19	британци	британци	PER	GPE-Great-Britain
+67	74	Брекзит	Брекзит	EVT	EVT-Brexit
+97	107	британците	британци	PER	GPE-Great-Britain
+163	170	Брекзит	Брекзит	EVT	EVT-Brexit
+187	201	Великобритания	Великобритания	LOC	GPE-Great-Britain
+276	288	The Guardian	The Guardian	PRO	PRO-The-Guardian
+578	583	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+676	682	Берлин	Берлин	LOC	GPE-Berlin
+732	739	Брекзит	Брекзит	EVT	EVT-Brexit
+742	762	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1000	1007	Франция	Франция	LOC	GPE-France
+1075	1089	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1119	1126	Франция	Франция	LOC	GPE-France
+1218	1225	Испания	Испания	LOC	GPE-Spain

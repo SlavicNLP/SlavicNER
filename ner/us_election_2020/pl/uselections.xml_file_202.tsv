@@ -1,0 +1,60 @@
+0	10	Amerykanie	Amerykanie	PER	GPE-USA
+34	41	Kongres	Kongres	ORG	ORG-United-States-Congress
+45	59	Dixville Notch	Dixville Notch	LOC	LOC-Dixville-Notch
+127	133	Kanadą	Kanada	LOC	GPE-Canada
+244	254	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+255	264	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+370	385	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+448	471	Partii Libertariańskiej	Partia Libertariańska	ORG	ORG-Libertarian-Party-USA
+472	489	Gary'ego Johnsona	Gary Johnson	PER	PER-Gary-Johnson
+508	521	New Hampshire	New Hampshire	LOC	GPE-New-Hampshire
+551	561	Millsfield	Millsfield	LOC	LOC-Millsfield
+591	603	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+727	742	Hart's Location	Hart's Location	LOC	GPE-Harts-Location
+803	813	Amerykanie	Amerykanie	PER	GPE-USA
+840	847	Kongres	Kongres	ORG	ORG-United-States-Congress
+931	944	wyborów w USA	wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+1260	1268	Pinellas	Pinellas	LOC	GPE-Pinellas
+1272	1281	Florydzie	Floryda	LOC	GPE-Florida
+1364	1374	Amerykanie	Amerykanie	PER	GPE-USA
+1427	1446	Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+1527	1546	Izbą Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+1553	1563	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1611	1618	Senatem	Senat	ORG	ORG-United-States-Senate
+1649	1661	Republikanie	Republikanie	ORG	ORG-Republican-Party-USA
+1700	1719	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1722	1733	Południowej	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+1737	1744	Georgii	Georgia	LOC	GPE-Georgia-US-state
+1746	1754	Arizonie	Arizona	LOC	GPE-Arizona
+1756	1764	Colorado	Colorado	LOC	GPE-Colorado
+1767	1775	Montanie	Montana	LOC	GPE-Montana-US-State
+1895	1901	Polsce	Polska	LOC	GPE-Poland
+1918	1925	Słupsku	Słupsk	LOC	GPE-Słupsk
+1926	1935	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+1936	1950	Tom Malinowski	Tom Malinowski	PER	PER-Tom-Malinowski
+1998	2017	Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+2035	2045	New Jersey	New Jersey	LOC	GPE-New-Jersey
+2047	2057	Amerykanie	Amerykanie	PER	GPE-USA
+2480	2502	Kolegium Elektorskiego	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+2754	2762	Nebraska	Nebraska	LOC	GPE-Nebraska
+2765	2770	Maine	Maine	LOC	GPE-Maine
+2854	2862	Nebrasce	Nebraska	LOC	GPE-Nebraska
+2869	2874	Maine	Maine	LOC	GPE-Maine
+3016	3026	Kalifornia	Kalifornia	LOC	GPE-California
+3192	3195	USA	USA	LOC	GPE-USA
+3196	3208	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+3443	3452	Nowy Jork	Nowy Jork	LOC	GPE-New-York
+3464	3474	Demokratom	Demokraci	ORG	ORG-Democratic-Party-USA
+3478	3497	Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+3500	3512	Republikanom	Republikanie	ORG	ORG-Republican-Party-USA
+3619	3626	Floryda	Floryda	LOC	GPE-Florida
+3628	3639	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+3641	3649	Michigan	Michigan	LOC	GPE-Michigan
+3651	3660	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+3662	3679	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+3681	3685	Iowa	Iowa	LOC	GPE-Iowa
+3691	3698	Arizona	Arizona	LOC	GPE-Arizona
+3711	3718	Georgia	Georgia	LOC	GPE-Georgia-US-state
+3720	3726	Teksas	Teksas	LOC	GPE-Texas
+3732	3736	Ohio	Ohio	LOC	GPE-Ohio
+3837	3840	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

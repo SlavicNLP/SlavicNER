@@ -1,0 +1,22 @@
+0	3	СЗО	СЗО	ORG	ORG-WHO
+208	244	Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+330	355	пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+772	782	Майк Райън	Майк Райън	PER	PER-Michael-Ryan
+809	868	програмата на СЗО за извънредни ситуации в здравеопазването	програма на СЗО за извънредни ситуации в здравеопазването	PRO	PRO-Program-of-WHO-for-health-emergency
+898	904	Женева	Женева	LOC	GPE-Geneva
+1172	1182	Майк Райън	Майк Райън	PER	PER-Michael-Ryan
+1184	1189	Райън	Райън	PER	PER-Michael-Ryan
+1494	1504	епидемията	епидемия	EVT	EVT-Epidemic
+1507	1513	Европа	Европа	LOC	LOC-Europe
+1853	1861	Словения	Словения	LOC	GPE-Slovenia
+1863	1868	Чехия	Чехия	LOC	GPE-Czech-Republic
+1873	1880	Австрия	Австрия	LOC	GPE-Austria
+1922	1928	Турция	Турция	LOC	GPE-Turkey
+1949	1963	Реджеп Ердоган	Реджеп Ердоган	PER	PER-Recep-Tayyip-Erdoğan
+2018	2029	коронавирус	коронавирус	EVT	EVT-Covid-19
+2305	2313	България	България	LOC	GPE-Bulgaria
+2562	2577	Nature Medicine	Nature Medicine	PRO	PRO-Nature-Medicine
+2676	2688	коронавируса	коронавирус	EVT	EVT-Covid-19
+2737	2754	Бенджамин Коулинг	Бенджамин Коулинг	PER	PER-Benjamin-Cowling
+2770	2840	Центъра на СЗО по контрол на разпространението на епидемията в Хонконг	Център на СЗО по контрол на разпространението на епидемията в Хонконг	ORG	ORG-Centers-for-Disease-Control
+2884	2896	коронавируси	коронавирус	EVT	EVT-Covid-19

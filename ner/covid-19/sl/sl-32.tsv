@@ -1,0 +1,25 @@
+4	7	ZDA	ZDA	LOC	GPE-USA
+11	18	Nemčijo	Nemčija	LOC	GPE-Germany
+61	69	Covid-19	Covid-19	EVT	EVT-Covid-19
+140	148	Covid-19	Covid-19	EVT	EVT-Covid-19
+238	241	ZDA	ZDA	LOC	GPE-USA
+245	252	Nemčijo	Nemčija	LOC	GPE-Germany
+318	330	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+357	366	Tübingenu	Tübingen	LOC	GPE-Tübingen
+367	374	CureVac	CureVac	ORG	ORG-CureVac
+460	463	ZDA	ZDA	LOC	GPE-USA
+500	508	Covid-19	Covid-19	EVT	EVT-Covid-19
+594	601	CureVac	CureVac	ORG	ORG-CureVac
+676	688	Ingmar Hoerr	Ingmar Hoerr	PER	PER-Ingmar-Hoerr
+707	752	Paul-Ehrlich inštitutom za cepiva in zdravila	Paul-Ehrlich inštitut za cepiva in zdravila	ORG	ORG-The-Paul-Ehrlich-Institute
+799	807	Covid-19	Covid-19	EVT	EVT-Covid-19
+820	825	Trump	Trump	PER	PER-Donald-Trump
+860	874	Welt am Sontag	Welt am Sontag	PRO	PRO-Welt-am-Sonntag
+932	935	ZDA	ZDA	LOC	GPE-USA
+1389	1397	Covid-19	Covid-19	EVT	EVT-Covid-19
+1416	1423	Nemčiji	Nemčija	LOC	GPE-Germany
+1427	1433	Evropi	Evropa	LOC	LOC-Europe
+1500	1507	CureVac	CureVac	ORG	ORG-CureVac
+1527	1536	Američani	Američani	PER	GPE-USA
+1753	1760	Berlina	Berlin	LOC	GPE-Berlin
+1774	1781	CureVac	CureVac	ORG	ORG-CureVac

@@ -1,0 +1,18 @@
+0	10	Белоруссия	Белоруссия	LOC	GPE-Belarus
+46	51	SWIFT	SWIFT	ORG	ORG-SWIFT
+190	202	Банка России	Банк России	ORG	ORG-Rossiya-Bank
+203	217	Денис Барышков	Денис Барышков	PER	PER-Denis-Baryshkov
+220	225	Прайм	Прайм	ORG	ORG-PRIME-News-Agency
+276	332	Системе передачи финансовых сообщений Центробанка (СПФС)	Система передачи финансовых сообщений Центробанка (СПФС)	ORG	ORG-SPFS
+405	410	SWIFT	SWIFT	ORG	ORG-SWIFT
+489	494	SWIFT	SWIFT	ORG	ORG-SWIFT
+578	584	Россия	Россия	LOC	GPE-Russia
+620	623	США	США	LOC	GPE-USA
+665	678	Ян Бжезинский	Ян Бжезинский	PER	PER-Ian-Brzezinski
+820	826	России	Россия	LOC	GPE-Russia
+848	853	SWIFT	SWIFT	ORG	ORG-SWIFT
+947	953	России	Россия	LOC	GPE-Russia
+1025	1031	Москвы	Москва	LOC	GPE-Moscow
+1039	1044	Киева	Киев	LOC	GPE-Kiev
+1045	1054	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1153	1158	SWIFT	SWIFT	ORG	ORG-SWIFT

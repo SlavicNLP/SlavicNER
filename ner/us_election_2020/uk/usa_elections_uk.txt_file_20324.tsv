@@ -1,0 +1,24 @@
+23	26	США	США	LOC	GPE-USA
+66	88	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+125	145	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+146	158	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+191	206	Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+306	328	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+384	392	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+420	431	Конституції	Конституція	PRO	PRO-The-USA-Constitution
+435	467	президентських виборах 2020 року	президентські вибори 2020 року	EVT	EVT-2020-United-States-Presidential-Election
+610	617	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+671	674	США	США	LOC	GPE-USA
+817	830	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+831	834	США	США	LOC	GPE-USA
+857	864	Техасом	Техас	LOC	GPE-Texas
+1057	1065	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+1067	1079	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+1081	1088	Мічиган	Мічиган	LOC	GPE-Michigan
+1091	1100	Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+1187	1209	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1465	1468	США	США	LOC	GPE-USA
+1494	1505	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1509	1514	Трамп	Трамп	PER	PER-Donald-Trump
+1585	1607	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1611	1614	США	США	LOC	GPE-USA

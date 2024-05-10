@@ -1,0 +1,31 @@
+47	55	covid-19	covid-19	EVT	EVT-Covid-19
+115	134	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+487	495	covid-19	covid-19	EVT	EVT-Covid-19
+884	898	Mihaela Zidarn	Mihaela Zidarn	PER	PER-Mihaela-Zidarn
+902	947	klinike za pljučne bolezni in alergijo Golnik	klinika za pljučne bolezni in alergijo Golnik	LOC	ORG-Hospital-Golnik
+1160	1168	covid-19	covid-19	EVT	EVT-Covid-19
+1395	1404	Zidarnova	Zidarnova	PER	PER-Mihaela-Zidarn
+1477	1496	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+2554	2563	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2589	2598	claritine	claritine	PRO	PRO-Claritine
+2600	2608	flonidan	flonidan	PRO	PRO-Flonidan
+2610	2617	letizen	letizen	PRO	PRO-Letizen
+2619	2625	zyrtec	zyrtec	PRO	PRO-Zyrtec
+2801	2812	mommox rino	mommox rino	PRO	PRO-Mommox-Rino
+2999	3007	MASK Air	MASK Air	PRO	PRO-MASK-air
+3087	3098	Google Play	Google Play	PRO	PRO-Google-Play
+3103	3114	Apple store	Apple store	PRO	PRO-Apple-Store
+3136	3163	Slovensko tiskovno agencijo	Slovenska tiskovna agencija	ORG	ORG-Slovenian-Press-Agency
+3195	3214	Anja Koren Jeverica	Anja Koren Jeverica	PER	PER-Anja-Koren-Jeverica
+3218	3228	Tina Vesel	Tina Vesel	PER	PER-Tina-Vesel
+3231	3264	Univerzitetnega kliničnega centra	Univerzitetni klinični center	LOC	ORG-University-Medical-Centre-Ljubljana
+3447	3455	covid-19	covid-19	EVT	EVT-Covid-19
+3736	3757	Andreja Kofol Seliger	Andreja Kofol Seliger	PER	PER-Andreja-Kofol-Seliger
+3765	3789	Skupine za aerobiologijo	Skupina za aerobiologijo	ORG	ORG-Aerobiology-Group-National-Laboratory-of-Health-Environment-and-Food
+3792	3844	Nacionalnem laboratoriju za zdravje, okolje in hrano	Nacionalni laboratorij za zdravje, okolje in hrano	ORG	ORG-National-Laboratory-of-Health-Environment-and-Food
+3846	3851	NLZOH	NLZOH	ORG	ORG-National-Laboratory-of-Health-Environment-and-Food
+4383	4393	Primorskem	Primorska	LOC	LOC-Primorska
+4534	4551	Kofol Seligerjeva	Kofol Seligerjeva	PER	PER-Andreja-Kofol-Seliger
+4557	4562	NLZOH	NLZOH	ORG	ORG-National-Laboratory-of-Health-Environment-and-Food
+4985	4993	Primorju	Primorje	LOC	LOC-Primorska
+5275	5280	NLZOH	NLZOH	ORG	ORG-National-Laboratory-of-Health-Environment-and-Food

@@ -1,0 +1,61 @@
+0	10	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+109	117	Brukseli	Bruksela	LOC	GPE-Brussles
+154	157	USA	USA	LOC	GPE-USA
+198	206	Brexicie	Brexit	EVT	EVT-Brexit
+258	264	Polska	Polska	LOC	GPE-Poland
+485	503	Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+507	513	Polska	Polska	LOC	GPE-Poland
+603	620	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+695	713	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+765	782	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+785	789	NATO	NATO	ORG	ORG-NATO
+822	828	Polsce	Polska	LOC	GPE-Poland
+863	880	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+927	933	Polska	Polska	LOC	GPE-Poland
+1028	1034	Brexit	Brexit	EVT	EVT-Brexit
+1065	1072	Brexitu	Brexit	EVT	EVT-Brexit
+1174	1176	KE	KE	ORG	ORG-European-Commission
+1273	1283	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+1344	1350	Polsce	Polska	LOC	GPE-Poland
+1397	1409	Biała księga	Biała księga	PRO	PRO-White-paper-Poland
+1467	1479	Biała księga	Biała księga	PRO	PRO-White-paper-Poland
+1718	1720	KE	KE	ORG	ORG-European-Commission
+1737	1747	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+1753	1761	Bruksela	Bruksela	LOC	GPE-Brussles
+1900	1906	Polski	Polska	LOC	GPE-Poland
+1964	1966	UE	UE	ORG	ORG-European-Union
+1984	1987	USA	USA	LOC	GPE-USA
+2002	2010	Brukseli	Bruksela	LOC	GPE-Brussles
+2034	2043	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2109	2126	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+2127	2138	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+2141	2156	Rada Europejska	Rada Europejska	ORG	ORG-European-Council
+2257	2259	UE	UE	ORG	ORG-European-Union
+2262	2265	USA	USA	LOC	GPE-USA
+2280	2289	Twitterze	Twitter	PRO	PRO-Twitter
+2290	2294	Tusk	Tusk	PER	PER-Donald-Tusk
+2311	2314	USA	USA	LOC	GPE-USA
+2326	2343	Robert Lighthizer	Robert Lighthizer	PER	PER-Robert-Lighthizer
+2378	2380	UE	UE	ORG	ORG-European-Union
+2553	2561	Brexicie	Brexit	EVT	EVT-Brexit
+2596	2613	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2658	2665	Brexitu	Brexit	EVT	EVT-Brexit
+2752	2769	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2772	2776	Unii	Unia	ORG	ORG-European-Union
+2825	2833	Brukselą	Bruksela	LOC	GPE-Brussles
+2836	2844	Londynem	Londyn	LOC	GPE-London
+2921	2936	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2986	3001	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+3044	3057	Europejczyków	Europejczycy	PER	LOC-Europe
+3065	3072	Polaków	Polacy	PER	GPE-Poland
+3161	3166	Wyspy	Wyspy	LOC	GPE-Great-Britain
+3173	3181	Brexitem	Brexit	EVT	EVT-Brexit
+3226	3243	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3246	3250	Unii	Unia	ORG	ORG-European-Union
+3380	3397	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3441	3454	Europejczyków	Europejczycy	PER	LOC-Europe
+3533	3546	Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+3634	3640	Polsce	Polska	LOC	GPE-Poland
+3670	3687	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3735	3750	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3904	3912	Brexicie	Brexit	EVT	EVT-Brexit

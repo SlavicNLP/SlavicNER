@@ -1,0 +1,47 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+40	42	ЕС	ЕС	ORG	ORG-European-Union
+48	55	Брекзит	Брекзит	EVT	EVT-Brexit
+62	64	ЕС	ЕС	ORG	ORG-European-Union
+71	85	Великобритания	Великобритания	LOC	GPE-Great-Britain
+136	146	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+155	166	Меншън хаус	Меншън хаус	LOC	LOC-Mansion-House
+169	175	Лондон	Лондон	LOC	GPE-London
+242	248	Лондон	Лондон	LOC	GPE-London
+251	258	Брюксел	Брюксел	LOC	GPE-Brussles
+324	340	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+375	389	Великобритания	Великобритания	LOC	GPE-Great-Britain
+494	496	ЕС	ЕС	ORG	ORG-European-Union
+498	501	Мей	Мей	PER	PER-Theresa-May
+669	677	Ирландия	Ирландия	LOC	GPE-Ireland
+704	718	Великобритания	Великобритания	LOC	GPE-Great-Britain
+720	728	Ирландия	Ирландия	LOC	GPE-Ireland
+731	733	ЕС	ЕС	ORG	ORG-European-Union
+863	865	ЕС	ЕС	ORG	ORG-European-Union
+994	997	Мей	Мей	PER	PER-Theresa-May
+1180	1200	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1294	1296	ЕС	ЕС	ORG	ORG-European-Union
+1299	1313	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1360	1370	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1576	1578	ЕС	ЕС	ORG	ORG-European-Union
+1596	1602	Канада	Канада	LOC	GPE-Canada
+1605	1613	Норвегия	Норвегия	LOC	GPE-Norway
+1626	1642	Европейският съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+1681	1688	Брекзит	Брекзит	EVT	EVT-Brexit
+1708	1715	Брекзит	Брекзит	EVT	EVT-Brexit
+1774	1789	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+1937	1940	Мей	Мей	PER	PER-Theresa-May
+1975	1977	ЕС	ЕС	ORG	ORG-European-Union
+2018	2025	Брекзит	Брекзит	EVT	EVT-Brexit
+2027	2030	Мей	Мей	PER	PER-Theresa-May
+2047	2054	Брекзит	Брекзит	EVT	EVT-Brexit
+2055	2069	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2093	2128	Европейската агенция по лекарствата	Европейска агенция по лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+2130	2164	Европейската агенция по химикалите	Европейска агенция по химикалите	ORG	ORG-European-Chemicals-Agency
+2167	2213	Европейската агенция за авиационна безопасност	Европейска агенция за авиационна безопасност	ORG	ORG-EASA-European-Aviation-Safety-Agency
+2235	2255	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2308	2311	Мей	Мей	PER	PER-Theresa-May
+2391	2405	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+2431	2477	Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+2521	2535	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+2784	2798	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+2880	2895	WEB MEDIA GROUP	Web media group	ORG	ORG-Web-Media-Group

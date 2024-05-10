@@ -1,0 +1,23 @@
+15	23	сенатори	сенатори	PER	ORG-United-States-Senate
+54	69	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+86	92	Европа	Европа	LOC	LOC-Europe
+117	125	сенатори	сенатори	PER	ORG-United-States-Senate
+153	165	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+263	278	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+344	357	Стивън Мнучин	Стивън Мнучин	PER	PER-Steven-Mnuchin
+389	401	Джон Съливан	Джон Съливан	PER	PER-John-Sullivan
+470	478	сенатори	сенатори	PER	ORG-United-States-Senate
+493	515	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+523	532	демократи	демократи	PER	ORG-Democratic-Party-USA
+599	602	САЩ	САЩ	LOC	GPE-USA
+673	679	Москва	Москва	LOC	GPE-Moscow
+785	791	Европа	Европа	LOC	LOC-Europe
+872	887	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+903	910	Украйна	Украйна	LOC	GPE-Ukraine
+943	950	News.bg	News.bg	PRO	PRO-News.bg
+969	988	"""Уеб Медия Груп"" АД"	"""Уеб Медия Груп"" АД"	ORG	ORG-Web-Media-Group
+1010	1056	Закона за авторското право и сродните му права	Закона за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+1099	1118	"""Уеб Медия Груп"" АД"	"""Уеб Медия Груп"" АД"	ORG	ORG-Web-Media-Group
+1362	1381	"""Уеб Медия Груп"" АД"	"""Уеб Медия Груп"" АД"	ORG	ORG-Web-Media-Group
+1459	1474	WEB MEDIA GROUP	Web media group	ORG	ORG-Web-Media-Group
+1476	1483	NEWS.BG	News.bg	PRO	PRO-News.bg

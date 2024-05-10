@@ -1,0 +1,38 @@
+59	67	covid-19	covid-19	EVT	EVT-Covid-19
+119	135	hidroksiklorokin	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+137	145	klorokin	klorokin	PRO	PRO-Chloroquine
+160	176	Hidroksiklorokin	Hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+260	272	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+309	321	koronavirusu	koronavirus	EVT	EVT-Covid-19
+464	476	koronavirusu	koronavirus	EVT	EVT-Covid-19
+504	516	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+620	631	sars-cov-19	sars-cov-19	EVT	EVT-Covid-19
+636	644	Britanci	Britanci	PER	GPE-Great-Britain
+706	709	BBC	BBC	ORG	ORG-BBC-Ltd
+788	794	Evropi	Evropa	LOC	LOC-Europe
+796	802	Afriki	Afrika	LOC	LOC-Africa
+804	809	Aziji	Azija	LOC	LOC-Asia
+813	826	Južni Ameriki	Južna Amerika	LOC	LOC-South-America
+918	934	hidroksiklorokin	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+954	962	klorokin	klorokin	PRO	PRO-Chloroquine
+1075	1091	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+1109	1154	univerzitetnih bolnišnicah Brighton in Sussex	univerzitetni bolnišnici Brighton in Sussex	LOC	LOC-Brighton-and-Sussex-University-Hospitals
+1160	1194	bolnišnici John Radclife v Oxfordu	bolnišnica John Radclife v Oxfordu	LOC	LOC-John-Radcliffe-Hospital
+1480	1493	koronavirusom	koronavirus	EVT	EVT-Covid-19
+1575	1580	Trump	Trump	PER	PER-Donald-Trump
+1628	1644	hidroksiklorokin	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+1705	1716	Leah Millis	Leah Millis	PER	PER-Leah-Mills
+1717	1724	Reuters	Reuters	ORG	ORG-Reuters
+1795	1807	koronavirusu	koronavirus	EVT	EVT-Covid-19
+1925	1939	Nicholas White	Nicholas White	PER	PER-Nicholas-White
+1942	1960	oxfordske univerze	oxfordska univerza	ORG	ORG-University-of-Oxford
+1971	1986	Martin Liewelyn	Martin Liewelyn	PER	PER-Martin-Liewelyn
+1989	2023	medicinske šole Brighton in Sussex	medicinska šola Brighton in Sussex	LOC	LOC-Brighton-and-Sussex-University-Hospitals
+2070	2082	koronavirusu	koronavirus	EVT	EVT-Covid-19
+2238	2247	covidu-19	covid-19	EVT	EVT-Covid-19
+2250	2253	WHO	WHO	ORG	ORG-World-Health-Organization
+2420	2436	hidroksiklorokin	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+2628	2633	Trump	Trump	PER	PER-Donald-Trump
+2665	2681	hidroksiklorokin	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+2710	2744	ameriški urad za hrano in zdravila	ameriški urad za hrano in zdravila	ORG	ORG-FDA-Food-and-Drug-Administration
+2814	2847	Svetovna zdravstvena organizacija	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization

@@ -1,0 +1,12 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+13	18	Trump	Trump	PER	PER-Donald-Trump
+32	40	Bílý dům	Bílý dům	LOC	LOC-White-House
+181	195	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+212	221	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+459	464	Trump	Trump	PER	PER-Donald-Trump
+489	492	USA	USA	LOC	GPE-USA
+643	652	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+686	708	Sněmovny reprezentantů	Sněmovna reprezentantů	ORG	ORG-House-of-Representatives(USA)
+709	724	Nancy Pelosiová	Nancy Pelosiová	PER	PER-Nancy-Pelosi
+775	783	Bílý dům	Bílý dům	LOC	LOC-White-House
+862	871	Joe Biden	Joe Biden	PER	PER-Joe-Biden

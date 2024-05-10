@@ -1,0 +1,37 @@
+1	7	Brexit	Brexit	EVT	EVT-Brexit
+39	43	Unii	Unia	ORG	ORG-European-Union
+55	62	Londynu	Londyn	LOC	GPE-London
+97	104	Londynu	Londyn	LOC	GPE-London
+146	163	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+211	228	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+232	241	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+300	302	UE	UE	ORG	ORG-European-Union
+336	350	Adolfa Hitlera	Adolf Hitler	PER	PER-Adolf-Hitler
+383	391	brexitem	Brexit	EVT	EVT-Brexit
+429	435	Brexit	Brexit	EVT	EVT-Brexit
+460	467	brexitu	Brexit	EVT	EVT-Brexit
+563	579	agencja Reutersa	Agencja Reutersa	ORG	ORG-Reuters
+619	621	UE	UE	ORG	ORG-European-Union
+628	643	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+727	738	Głos narodu	Głos narodu	EVT	EVT-Peoples-Vote
+748	761	People's Vote	People's Vote	EVT	EVT-Peoples-Vote
+890	899	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1000	1021	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+1022	1033	Anna Soubry	Anna Soubry	PER	PER-Anna-Soubry
+1041	1053	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1054	1065	David Lammy	David Lammy	PER	PER-David-Lammy
+1074	1096	Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+1097	1108	Vince Cable	Vince Cable	PER	PER-Vince-Cable
+1145	1147	UE	UE	ORG	ORG-European-Union
+1198	1213	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1240	1257	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1275	1284	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1534	1543	Survation	Survation	ORG	ORG-Survation
+1676	1683	brexitu	Brexit	EVT	EVT-Brexit
+1815	1832	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1865	1874	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1914	1923	Survation	Survation	ORG	ORG-Survation
+1924	1935	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+2002	2017	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+2137	2157	Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+2173	2185	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK

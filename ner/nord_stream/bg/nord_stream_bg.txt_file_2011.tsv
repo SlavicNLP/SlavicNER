@@ -1,0 +1,45 @@
+48	63	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+66	74	Германия	Германия	LOC	GPE-Germany
+127	129	ЕК	ЕК	ORG	ORG-European-Commission
+131	145	Евродепутатите	евродепутати	PER	ORG-European-Parlament
+168	170	ЕС	ЕС	ORG	ORG-European-Union
+341	343	ЕС	ЕС	ORG	ORG-European-Union
+363	365	ЕС	ЕС	ORG	ORG-European-Union
+379	400	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+474	476	ЕС	ЕС	ORG	ORG-European-Union
+513	539	Съвета на Европейския съюз	Съвет на Европейския съюз	ORG	ORG-Council-of-the-European-Union
+563	584	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+679	684	Русия	Русия	LOC	GPE-Russia
+688	696	Германия	Германия	LOC	GPE-Germany
+710	724	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+726	739	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+948	957	Евросъюза	Евросъюз	ORG	ORG-European-Union
+1125	1127	ЕС	ЕС	ORG	ORG-European-Union
+1178	1180	ЕС	ЕС	ORG	ORG-European-Union
+1321	1341	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1361	1369	Германия	Германия	LOC	GPE-Germany
+1406	1413	Газпром	Газпром	ORG	ORG-Gazprom
+1418	1433	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1476	1483	Брюксел	Брюксел	LOC	GPE-Brussles
+1579	1581	ЕС	ЕС	ORG	ORG-European-Union
+1636	1638	ЕС	ЕС	ORG	ORG-European-Union
+1700	1702	ЕС	ЕС	ORG	ORG-European-Union
+1717	1732	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1769	1771	ЕС	ЕС	ORG	ORG-European-Union
+1809	1830	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+1937	1947	Йежи Бузек	Йежи Бузек	PER	PER-Jerzy-Buzek
+1949	1952	ЕНП	ЕНП	ORG	ORG-EPP
+1954	1959	Полша	Полша	LOC	GPE-Poland
+1989	1991	ЕП	ЕП	ORG	ORG-European-Parliament
+2091	2093	ЕС	ЕС	ORG	ORG-European-Union
+2155	2157	ЕС	ЕС	ORG	ORG-European-Union
+2374	2381	Брюксел	Брюксел	LOC	GPE-Brussles
+2383	2405	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+2514	2516	ЕС	ЕС	ORG	ORG-European-Union
+2750	2752	ЕС	ЕС	ORG	ORG-European-Union
+2972	2974	ЕС	ЕС	ORG	ORG-European-Union
+3263	3265	ЕП	ЕП	ORG	ORG-European-Parliament
+3322	3373	Комисията по промишленост, изследвания и енергетика	Комисия по промишленост, изследвания и енергетика	ORG	ORG-ITRE-The-Committee-on-Industry-Research-and-Energy
+3398	3400	ЕП	ЕП	ORG	ORG-European-Parliament
+3419	3431	Съвета на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+3491	3515	Официалния вестник на ЕС	Официален вестник на ЕС	PRO	PRO-Official-Journal-of-the-European-Union

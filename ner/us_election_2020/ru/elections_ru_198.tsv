@@ -1,0 +1,56 @@
+22	34	американские	американские	LOC	GPE-USA
+44	47	США	США	LOC	GPE-USA
+117	120	США	США	LOC	GPE-USA
+218	224	России	Россия	LOC	GPE-Russia
+586	605	Коллегии Выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+629	637	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+951	957	Сената	Сенат	ORG	ORG-United-States-Senate
+984	994	Калифорнии	Калифорния	LOC	GPE-California
+1016	1024	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+1054	1063	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+1066	1071	Техас	Техас	LOC	GPE-Texas
+1142	1161	Коллегии Выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1278	1286	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+1616	1624	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+1862	1872	Калифорнии	Калифорния	LOC	GPE-California
+1881	1896	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+1925	1939	калифорнийских	калифорнийские	LOC	GPE-California
+2096	2103	Америке	Америка	LOC	GPE-USA
+2540	2543	США	США	LOC	GPE-USA
+2722	2728	Эл Гор	Эл Гор	PER	PER-Al-Gore
+2766	2777	Буш-младший	Буш-младший	PER	PER-George-Bush-Jr
+2829	2832	Буш	Буш	PER	PER-George-Bush-Jr
+2885	2892	Флориде	Флорида	LOC	GPE-Florida
+3036	3039	США	США	LOC	GPE-USA
+3085	3096	Александр I	Александр I	PER	PER-Alexander-I
+3110	3122	Александр II	Александр II	PER	PER-Alexander-II
+3137	3150	Александр III	Александр III	PER	PER-Alexander-III
+3153	3163	Американцы	американцы	PER	GPE-USA
+3417	3420	США	США	LOC	GPE-USA
+3528	3540	американские	американские	LOC	GPE-USA
+3708	3715	Госдепа	Госдеп	ORG	ORG-Department-of-State-USA
+3741	3748	Госдепу	Госдеп	ORG	ORG-Department-of-State-USA
+4320	4327	Сенатом	Сенат	ORG	ORG-United-States-Senate
+4848	4858	Вашингтону	Вашингтон	LOC	GPE-WashingtonDC
+4913	4922	Мэриленде	Мэриленд	LOC	GPE-Maryland
+5029	5038	Вирджинии	Вирджиния	LOC	GPE-Virginia
+5106	5113	Орегоне	Орегон	LOC	GPE-Oregon
+5116	5124	Колорадо	Колорадо	LOC	GPE-Colorado
+5286	5292	России	Россия	LOC	GPE-Russia
+5374	5382	западной	западная	LOC	LOC-West
+5407	5419	Калининграде	Калининград	LOC	GPE-Kaliningrad
+5424	5427	США	США	LOC	GPE-USA
+5580	5586	Сиэтле	Сиэтл	LOC	GPE-Seattle
+5635	5647	Нью-Хэмпшира	Нью-Хэмпшир	LOC	GPE-New-Hampshire
+5713	5725	Нью-Хэмпшира	Нью-Хэмпшир	LOC	GPE-New-Hampshire
+5746	5752	Сиэтле	Сиэтл	LOC	GPE-Seattle
+5937	5946	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+5954	5962	Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+6011	6030	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+6162	6169	Америки	Америка	LOC	GPE-USA
+6287	6297	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+6313	6325	американские	американские	LOC	GPE-USA
+6435	6454	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+6502	6515	Вашингтонский	вашингтонский	LOC	GPE-WashingtonDC
+6557	6559	ЦК	ЦК	ORG	ORG-CPSU-Central-Committee
+6576	6585	Политбюро	Политбюро	ORG	ORG-USSR-Politburo

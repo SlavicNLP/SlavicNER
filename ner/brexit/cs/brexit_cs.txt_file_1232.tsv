@@ -1,0 +1,18 @@
+12	18	brexit	brexit	EVT	EVT-Brexit
+19	24	Davis	Davis	PER	PER-David-Davis
+37	44	Babišem	Babiš	PER	PER-Andrej-Babis
+47	58	Stropnickým	Stropnický	PER	PER-Martin-Stropnicky
+71	84	Evropské unie	Evropská unie	ORG	ORG-European-Union
+89	95	brexit	brexit	EVT	EVT-Brexit
+96	110	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+297	303	brexit	brexit	EVT	EVT-Brexit
+304	319	Davidem Davisem	David Davis	PER	PER-David-Davis
+337	349	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+379	396	Martin Stropnický	Martin Stropnický	PER	PER-Martin-Stropnicky
+402	405	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+426	431	Praze	Praha	LOC	GPE-Prague
+460	462	EU	EU	ORG	ORG-European-Union
+465	473	Británií	Británie	LOC	GPE-Great-Britain
+509	516	brexitu	brexit	EVT	EVT-Brexit
+572	574	EU	EU	ORG	ORG-European-Union
+599	601	EU	EU	ORG	ORG-European-Union

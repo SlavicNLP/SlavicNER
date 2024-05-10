@@ -1,0 +1,228 @@
+142	149	Украина	Украина	LOC	GPE-Ukraine
+164	169	ковид	ковид	EVT	EVT-Covid-19
+185	192	Украине	Украина	LOC	GPE-Ukraine
+212	223	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+228	244	Минздрав Украины	Минздрав Украины	ORG	Ministry-of-Health-Ukraine
+299	311	коронавируса	коронавирус	EVT	EVT-Covid-19
+312	321	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+366	373	Украине	Украина	LOC	GPE-Ukraine
+423	432	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+463	502	украинское министерство здравоохранения	украинское министерство здравоохранения	ORG	ORG-Ministry-of-Healthcare-Ukraine
+504	507	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+550	558	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+611	623	коронавируса	коронавирус	EVT	EVT-Covid-19
+624	633	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+635	648	Gam-COVID-Vac	Спутник V	PRO	PRO-Sputnik-V
+689	701	коронавируса	коронавирус	EVT	EVT-Covid-19
+767	773	России	Россия	LOC	GPE-Russia
+775	783	Беларуси	Беларусь	LOC	GPE-Belarus
+785	790	Индии	Индия	LOC	GPE-India
+814	821	Украине	Украина	LOC	GPE-Ukraine
+933	944	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+962	969	Украины	Украина	LOC	GPE-Ukraine
+979	986	Украине	Украина	LOC	GPE-Ukraine
+1073	1080	Украине	Украина	LOC	GPE-Ukraine
+1147	1182	"Оппозиционная платформа - За жизнь"""	Оппозиционная платформа - За жизнь	ORG	ORG-Opposition-Platform-For-Life
+1184	1188	ОПЗЖ	"""Оппозиционная платформа - За жизнь"""	ORG	ORG-Opposition-Platform-For-Life
+1219	1235	Виктор Медведчук	Виктор Медведчук	PER	PER-Victor-Medvedchuk
+1307	1314	Россией	Россия	LOC	GPE-Russia
+1315	1320	Крыму	Крым	LOC	GPE-Crimea
+1353	1367	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1370	1386	Виктор Медведчук	Виктор Медведчук	PER	PER-Victor-Medvedchuk
+1438	1440	РФ	РФ	LOC	GPE-Russia
+1441	1459	Владимиром Путиным	Владимир Путин	PER	PER-Vladimir-Putin
+1507	1518	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+1519	1526	Украине	Украина	LOC	GPE-Ukraine
+1528	1533	Путин	Путин	PER	PER-Vladimir-Putin
+1610	1616	России	Россия	LOC	GPE-Russia
+1624	1631	Украине	Украина	LOC	GPE-Ukraine
+1659	1669	Медведчуку	Медведчук	PER	PER-Victor-Medvedchuk
+1778	1786	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+1843	1852	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+1909	1911	РФ	РФ	LOC	GPE-Russia
+1914	1922	Беларуси	Беларусь	LOC	GPE-Belarus
+1974	1983	Аргентине	Аргентина	LOC	GPE-Argentina
+2033	2041	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+2076	2083	Украины	Украина	LOC	GPE-Ukraine
+2093	2102	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+2155	2159	ОПЗЖ	"""Оппозиционная платформа - За жизнь"""	ORG	ORG-Opposition-Platform-For-Life
+2202	2218	Минздрав Украины	Минздрав Украины	ORG	Ministry-of-Health-Ukraine
+2253	2261	Германии	Германия	LOC	GPE-Germany
+2262	2277	Виктора Мартина	Виктор Мартин	PER	PER-Victor-Martin
+2279	2292	Viktor Martin	Виктор Мартин	PER	PER-Victor-Martin
+2311	2319	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+2337	2346	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+2485	2497	коронавируса	коронавирус	EVT	EVT-Covid-19
+2535	2543	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+2624	2638	"""Фармстандарт"""	"""Фармстандарт"""	ORG	ORG-Pharmstandart
+2704	2717	Виктор Мартин	Виктор Мартин	PER	PER-Victor-Martin
+2738	2741	СМИ	СМИ	PRO	PRO-Mass-Media
+2835	2853	Виктора Харитонина	Виктор Харитонин	PER	PER-Victor-Kharitonin
+2871	2878	Украине	Украина	LOC	GPE-Ukraine
+2942	2949	Украине	Украина	LOC	GPE-Ukraine
+2987	2996	Минздраве	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+2999	3031	Государственный экспертный центр	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+3033	3036	ГЭЦ	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+3229	3232	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+3252	3261	Евросоюзе	Евросоюз	ORG	ORG-European-Union
+3316	3319	США	США	LOC	GPE-USA
+3321	3330	Швейцария	Швейцария	LOC	GPE-Switzerland
+3332	3338	Япония	Япония	LOC	GPE-Japan
+3340	3349	Австралия	Австралия	LOC	GPE-Australia
+3354	3360	Канада	Канада	LOC	GPE-Canada
+3426	3432	Китаем	Китай	LOC	GPE-China
+3434	3442	Израилем	Израиль	LOC	GPE-Israel
+3444	3450	Индией	Индия	LOC	GPE-India
+3452	3460	Мексикой	Мексика	LOC	GPE-Mexico
+3463	3472	Бразилией	Бразилия	LOC	GPE-Brazil
+3474	3480	России	Россия	LOC	GPE-Russia
+3631	3638	Украине	Украина	LOC	GPE-Ukraine
+3756	3766	The Lancet	The Lancet	PRO	PRO-The-Lancet
+3900	3902	DW	DW	PRO	PRO-Deutsche-Welle
+3943	3946	ГЭЦ	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+3951	3960	Минздраве	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+3961	3972	Федор Лапий	Федор Лапий	PER	PER-Fyodor-Lapiy
+4051	4058	Украине	Украина	LOC	GPE-Ukraine
+4089	4100	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+4303	4338	Государственного экспертного центра	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+4339	4354	Татьяна Думенко	Татьяна Думенко	PER	PER-Tatiana-Dumenko
+4500	4507	Украине	Украина	LOC	GPE-Ukraine
+4547	4555	"""Биолик"""	"""Биолик"""	ORG	ORG-Biolic
+4632	4635	ГЭЦ	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+4675	4692	Минздраве Украины	Минздрав Украины	ORG	Ministry-of-Health-Ukraine
+4744	4746	РФ	РФ	LOC	GPE-Russia
+4749	4777	Министерство здравоохранения	Министерство здравоохранения	ORG	ORG-Ministry-of-Healthcare-Ukraine
+4989	4996	Украины	Украина	LOC	GPE-Ukraine
+5033	5048	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+5063	5065	DW	DW	PRO	PRO-Deutsche-Welle
+5116	5123	Украины	Украина	LOC	GPE-Ukraine
+5124	5142	Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+5177	5187	Зеленского	Зеленский	PER	PER-Volodymyr-Zelensky
+5482	5488	России	Россия	LOC	GPE-Russia
+5639	5646	Украины	Украина	LOC	GPE-Ukraine
+5676	5683	Украина	Украина	LOC	GPE-Ukraine
+5737	5752	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+5841	5848	Украина	Украина	LOC	GPE-Ukraine
+5909	5916	Украине	Украина	LOC	GPE-Ukraine
+5993	6001	"""Лекхим"""	"""Лекхим"""	ORG	ORG-Leckhim
+6165	6172	Украине	Украина	LOC	GPE-Ukraine
+6201	6216	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+6289	6298	украинцам	украинцы	PER	GPE-Ukraine
+6395	6402	Украина	Украина	LOC	GPE-Ukraine
+6434	6439	COVAX	COVAX	ORG	ORG-Covax
+6443	6480	Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+6482	6485	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+6525	6538	коронавирусом	коронавирус	EVT	EVT-Covid-19
+6550	6561	коронавирус	коронавирус	EVT	EVT-Covid-19
+6635	6647	коронавируса	коронавирус	EVT	EVT-Covid-19
+6669	6674	ковид	ковид	EVT	EVT-Covid-19
+6745	6757	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+6778	6791	коронавирусом	коронавирус	EVT	EVT-Covid-19
+6877	6889	коронавируса	коронавирус	EVT	EVT-Covid-19
+6976	6985	Рождества	Рождество	EVT	EVT-Christmas
+7030	7043	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+7064	7077	коронавирусом	коронавирус	EVT	EVT-Covid-19
+7100	7113	"""Спутником V"""	Спутник V	PRO	PRO-Sputnik-V
+7140	7146	Путина	Путин	PER	PER-Vladimir-Putin
+7159	7164	Путин	Путин	PER	PER-Vladimir-Putin
+7187	7189	РФ	РФ	LOC	GPE-Russia
+7213	7225	коронавируса	коронавирус	EVT	EVT-Covid-19
+7226	7236	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+7247	7258	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+7333	7346	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+7367	7380	коронавирусом	коронавирус	EVT	EVT-Covid-19
+7424	7435	коронавирус	коронавирус	EVT	EVT-Covid-19
+7441	7478	Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+7480	7483	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+7521	7533	коронавируса	коронавирус	EVT	EVT-Covid-19
+7554	7566	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+7569	7574	ковид	ковид	EVT	EVT-Covid-19
+7636	7649	коронавирусом	коронавирус	EVT	EVT-Covid-19
+7652	7663	Коронавирус	Коронавирус	EVT	EVT-Covid-19
+7666	7672	Европа	Европа	LOC	LOC-Europe
+7685	7693	COVID-19	COVID-19	EVT	EVT-Covid-19
+7748	7761	коронавирусом	коронавирус	EVT	EVT-Covid-19
+7772	7780	COVID-19	COVID-19	EVT	EVT-Covid-19
+7795	7801	Европы	Европа	LOC	LOC-Europe
+7861	7873	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+7893	7899	Европа	Европа	LOC	LOC-Europe
+7920	7933	коронавирусом	коронавирус	EVT	EVT-Covid-19
+7955	7967	коронавирусе	коронавирус	EVT	EVT-Covid-19
+8023	8035	коронавируса	коронавирус	EVT	EVT-Covid-19
+8127	8139	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+8160	8168	COVID-19	COVID-19	EVT	EVT-Covid-19
+8189	8202	коронавирусом	коронавирус	EVT	EVT-Covid-19
+8268	8274	Москве	Москва	LOC	GPE-Moscow
+8297	8303	Москве	Москва	LOC	GPE-Moscow
+8426	8439	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+8460	8473	коронавирусом	коронавирус	EVT	EVT-Covid-19
+8521	8533	коронавируса	коронавирус	EVT	EVT-Covid-19
+8652	8660	COVID-19	COVID-19	EVT	EVT-Covid-19
+8662	8674	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+8736	8749	коронавирусом	коронавирус	EVT	EVT-Covid-19
+8752	8763	Коронавирус	Коронавирус	EVT	EVT-Covid-19
+8821	8832	коронавирус	коронавирус	EVT	EVT-Covid-19
+8856	8864	COVID-19	COVID-19	EVT	EVT-Covid-19
+8955	8967	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+9011	9024	коронавирусом	коронавирус	EVT	EVT-Covid-19
+9037	9049	коронавируса	коронавирус	EVT	EVT-Covid-19
+9119	9131	коронавируса	коронавирус	EVT	EVT-Covid-19
+9132	9142	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+9281	9293	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+9314	9327	коронавирусом	коронавирус	EVT	EVT-Covid-19
+9361	9373	коронавируса	коронавирус	EVT	EVT-Covid-19
+9444	9450	Москве	Москва	LOC	GPE-Moscow
+9453	9463	Петербурге	Петербург	LOC	GPE-Saint-Petersburg
+9545	9557	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+9578	9591	коронавирусом	коронавирус	EVT	EVT-Covid-19
+9640	9651	коронавирус	коронавирус	EVT	EVT-Covid-19
+9687	9699	коронавируса	коронавирус	EVT	EVT-Covid-19
+9831	9843	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+9864	9877	коронавирусом	коронавирус	EVT	EVT-Covid-19
+9886	9894	COVID-19	COVID-19	EVT	EVT-Covid-19
+9972	9984	коронавируса	коронавирус	EVT	EVT-Covid-19
+10114	10127	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+10148	10161	коронавирусом	коронавирус	EVT	EVT-Covid-19
+10204	10216	коронавируса	коронавирус	EVT	EVT-Covid-19
+10225	10235	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+10296	10308	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+10418	10431	коронавирусом	коронавирус	EVT	EVT-Covid-19
+10457	10468	коронавирус	коронавирус	EVT	EVT-Covid-19
+10480	10488	COVID-19	COVID-19	EVT	EVT-Covid-19
+10555	10561	Москве	Москва	LOC	GPE-Moscow
+10619	10631	коронавируса	коронавирус	EVT	EVT-Covid-19
+10632	10642	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+10669	10682	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+10703	10716	коронавирусом	коронавирус	EVT	EVT-Covid-19
+10777	10789	коронавируса	коронавирус	EVT	EVT-Covid-19
+10790	10800	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+10852	10864	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+10918	10931	коронавирусом	коронавирус	EVT	EVT-Covid-19
+10949	10960	коронавирус	коронавирус	EVT	EVT-Covid-19
+11010	11022	коронавируса	коронавирус	EVT	EVT-Covid-19
+11023	11033	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+11127	11139	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+11159	11167	COVID-19	COVID-19	EVT	EVT-Covid-19
+11188	11201	коронавирусом	коронавирус	EVT	EVT-Covid-19
+11204	11215	Коронавирус	коронавирус	EVT	EVT-Covid-19
+11276	11288	коронавируса	коронавирус	EVT	EVT-Covid-19
+11370	11383	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+11404	11416	коронавируса	коронавирус	EVT	EVT-Covid-19
+11437	11450	коронавирусом	коронавирус	EVT	EVT-Covid-19
+11453	11464	Коронавирус	Коронавирус	EVT	EVT-Covid-19
+11515	11526	Коронавирус	Коронавирус	EVT	EVT-Covid-19
+11527	11537	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+11598	11611	Сергей Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+11660	11668	COVID-19	COVID-19	EVT	EVT-Covid-19
+11689	11702	коронавирусом	коронавирус	EVT	EVT-Covid-19
+11717	11729	коронавируса	коронавирус	EVT	EVT-Covid-19
+11752	11762	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+11766	11769	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+11810	11823	коронавирусом	коронавирус	EVT	EVT-Covid-19
+11890	11900	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+11915	11927	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+11967	11980	коронавирусом	коронавирус	EVT	EVT-Covid-19
+11992	12004	коронавируса	коронавирус	EVT	EVT-Covid-19
+12038	12049	Коронавирус	Коронавирус	EVT	EVT-Covid-19
+12072	12077	Китай	Китай	LOC	GPE-China
+12169	12181	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin

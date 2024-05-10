@@ -1,0 +1,65 @@
+0	12	Вибори в США	Вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+73	76	США	США	LOC	GPE-USA
+114	121	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+136	156	Палату представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+159	164	Сенат	Сенат	ORG	ORG-United-States-Senate
+189	197	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+232	252	Палату представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+285	294	Білий дім	Білий дім	ORG	ORG-White-House
+298	303	Сенат	Сенат	ORG	ORG-United-States-Senate
+554	561	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+690	698	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+725	735	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+763	778	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+787	795	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+850	868	Колегії вибірників	Колегія вибірників	ORG	ORG-United-States-Electoral-College
+872	879	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+972	980	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+984	996	Пенсільванії	Пенсільванія	LOC	GPE-Pennsylvania
+997	1002	Трамп	Трамп	PER	PER-Donald-Trump
+1032	1050	Колегії вибірників	Колегія вибірників	ORG	ORG-United-States-Electoral-College
+1191	1209	Колегії вибірників	Колегія вибірників	ORG	ORG-United-States-Electoral-College
+1213	1225	Пенсільванія	Пенсільванія	LOC	GPE-Pennsylvania
+1258	1263	Трамп	Трамп	PER	PER-Donald-Trump
+1275	1282	Байдена	Байден	PER	PER-Joe-Biden
+1349	1355	Трампа	Трамп	PER	PER-Donald-Trump
+1363	1375	Пенсільванія	Пенсільванія	LOC	GPE-Pennsylvania
+1382	1389	Колегію	Колегія	ORG	ORG-United-States-Electoral-College
+1441	1450	Демпартії	Демпартія	ORG	ORG-Democratic-Party-USA
+1467	1474	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1505	1522	Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+1557	1562	Трамп	Трамп	PER	PER-Donald-Trump
+1574	1581	Байдена	Байден	PER	PER-Joe-Biden
+1696	1714	Колегії вибірників	Колегія вибірників	ORG	ORG-United-States-Electoral-College
+1716	1733	Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+1798	1804	Байден	Байден	PER	PER-Joe-Biden
+1836	1842	Трампа	Трамп	PER	PER-Donald-Trump
+1865	1883	Північній Кароліні	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+1970	1977	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2019	2030	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+2154	2160	Невада	Невада	LOC	GPE-Nevada
+2229	2235	Байден	Байден	PER	PER-Joe-Biden
+2246	2252	Трампа	Трамп	PER	PER-Donald-Trump
+2270	2276	Байден	Байден	PER	PER-Joe-Biden
+2371	2389	Колегії вибірників	Колегія вибірників	ORG	ORG-United-States-Electoral-College
+2393	2400	Аризона	Аризона	LOC	GPE-Arizona
+2432	2450	Колегії вибірників	Колегія вибірників	ORG	ORG-United-States-Electoral-College
+2452	2458	Байден	Байден	PER	PER-Joe-Biden
+2470	2476	Трампа	Трамп	PER	PER-Donald-Trump
+2515	2521	Трампа	Трамп	PER	PER-Donald-Trump
+2558	2580	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+2583	2590	Аризоні	Аризона	LOC	GPE-Arizona
+2615	2638	Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+2642	2648	Аляска	Аляска	LOC	GPE-Alaska
+2763	2768	Трамп	Трамп	PER	PER-Donald-Trump
+2787	2794	Байдена	Байден	PER	PER-Joe-Biden
+2838	2844	Аляска	Аляска	LOC	GPE-Alaska
+2956	2961	Трамп	Трамп	PER	PER-Donald-Trump
+3132	3138	Трампа	Трамп	PER	PER-Donald-Trump
+3169	3179	Вісконсині	Вісконсин	LOC	GPE-Wisconsin
+3192	3198	Байден	Байден	PER	PER-Joe-Biden
+3202	3223	Вибори президента США	Вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+3227	3247	Палату представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+3250	3255	Сенат	Сенат	ORG	ORG-United-States-Senate
+3280	3288	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+3375	3378	США	США	LOC	GPE-USA

@@ -1,0 +1,22 @@
+12	28	Атанаска Маркова	Атанаска Маркова	PER	PER-Atanaska-Markova
+71	81	Калифорния	Калифорния	LOC	GPE-California
+82	100	Арнолд Шварценегер	Арнолд Шварценегер	PER	PER-Arnold-Schwarzenegger
+130	142	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+301	312	Шварценегер	Шварценегер	PER	PER-Arnold-Schwarzenegger
+326	335	Икономист	Икономист	PRO	PRO-The-Economist
+348	353	БГНЕС	БГНЕС	PRO	PRO-BGNES
+416	426	американец	американец	PER	GPE-USA
+429	441	републиканец	републиканец	PER	ORG-Republican-Party-USA
+576	587	Шварценегер	Шварценегер	PER	PER-Arnold-Schwarzenegger
+603	610	Австрия	Австрия	LOC	GPE-Austria
+643	651	Германия	Германия	LOC	GPE-Germany
+701	723	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+949	956	Америка	Америка	LOC	GPE-USA
+1015	1026	Шварценегер	Шварценегер	PER	PER-Arnold-Schwarzenegger
+1104	1114	Калифорния	Калифорния	LOC	GPE-California
+1143	1155	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1174	1182	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1319	1339	Републиканска партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+1445	1454	демократа	демократ	PER	ORG-Democratic-Party-USA
+1455	1465	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1492	1504	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump

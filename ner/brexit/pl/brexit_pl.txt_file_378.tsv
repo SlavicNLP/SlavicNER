@@ -1,0 +1,26 @@
+9	12	May	May	PER	PER-Theresa-May
+24	30	brexit	Brexit	EVT	EVT-Brexit
+68	85	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+86	99	Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+119	139	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+140	162	Jean-Claude'a Junckera	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+197	220	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+223	233	Strasburgu	Strasburg	LOC	GPE-Strasbourg
+238	240	UE	UE	ORG	ORG-European-Union
+283	300	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+323	332	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+606	618	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+619	629	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+657	679	Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+680	690	Nick Clegg	Nick Clegg	PER	PER-Nick-Clegg
+744	761	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+775	820	Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+822	826	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+828	840	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+864	872	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+873	884	Aaron Banks	Aaron Banks	PER	PER-Arron-Banks
+911	923	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+965	967	UE	UE	ORG	ORG-European-Union
+1126	1141	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1170	1187	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1224	1233	Wspólnotę	Wspólnota	ORG	ORG-European-Union

@@ -1,0 +1,18 @@
+6	8	ЕП	ЕП	ORG	ORG-European-Parliament
+49	63	Великобритания	Великобритания	LOC	GPE-Great-Britain
+69	76	Брекзит	Брекзит	EVT	EVT-Brexit
+109	111	ЕП	ЕП	ORG	ORG-European-Parliament
+133	135	ЕС	ЕС	ORG	ORG-European-Union
+138	152	Великобритания	Великобритания	LOC	GPE-Great-Britain
+158	165	Брекзит	Брекзит	EVT	EVT-Brexit
+244	256	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+285	306	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+309	314	София	София	LOC	GPE-Sofia
+391	398	Брекзит	Брекзит	EVT	EVT-Brexit
+463	465	ЕП	ЕП	ORG	ORG-European-Parliament
+550	552	ЕС	ЕС	ORG	ORG-European-Union
+555	575	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+831	833	ЕС	ЕС	ORG	ORG-European-Union
+966	968	ЕС	ЕС	ORG	ORG-European-Union
+971	978	Брюксел	Брюксел	LOC	GPE-Brussles
+1077	1091	Великобритания	Великобритания	LOC	GPE-Great-Britain

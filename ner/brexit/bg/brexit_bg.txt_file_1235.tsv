@@ -1,0 +1,16 @@
+0	3	FAZ	FAZ	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+38	45	Брекзит	Брекзит	EVT	EVT-Brexit
+75	82	Брюксел	Брюксел	LOC	GPE-Brussles
+94	101	Брекзит	Брекзит	EVT	EVT-Brexit
+136	143	Брюксел	Брюксел	LOC	GPE-Brussles
+246	266	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+304	306	ЕС	ЕС	ORG	ORG-European-Union
+367	401	Die Frankfurter Allgemeine Zeitung	Die Frankfurter Allgemeine Zeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+411	417	Лондон	Лондон	LOC	GPE-London
+470	472	ЕС	ЕС	ORG	ORG-European-Union
+511	525	Великобритания	Великобритания	LOC	GPE-Great-Britain
+583	590	Брюксел	Брюксел	LOC	GPE-Brussles
+650	652	ЕС	ЕС	ORG	ORG-European-Union
+699	701	ЕС	ЕС	ORG	ORG-European-Union
+755	768	Тереза Герова	Тереза Герова	PER	PER-Theresa-Gerova
+907	936	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

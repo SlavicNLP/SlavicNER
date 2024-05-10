@@ -1,0 +1,12 @@
+23	31	Степанов	Степанов	PER	PER-Maksym-Stepanov
+99	114	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+161	168	Україні	Україна	LOC	GPE-Ukraine
+631	639	COVID-19	COVID-19	EVT	EVT-Covid-19
+737	745	Степанов	Степанов	PER	PER-Maksym-Stepanov
+748	756	фейсбуці	фейсбук	PRO	PRO-Facebook
+785	792	Україна	Україна	LOC	GPE-Ukraine
+873	876	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+978	1033	Міністерство культури та інформаційної політики України	Міністерство культури та інформаційної політики України	ORG	ORG-Ministry-of-Culture-and-Information-Policy-Ukraine
+1218	1226	COVID-19	COVID-19	EVT	EVT-Covid-19
+1287	1295	COVID-19	COVID-19	EVT	EVT-Covid-19
+1298	1305	Україні	Україна	LOC	GPE-Ukraine

@@ -1,0 +1,26 @@
+0	7	Брюксел	Брюксел	LOC	GPE-Brussles
+9	23	Великобритания	Великобритания	LOC	GPE-Great-Britain
+59	61	ЕС	ЕС	ORG	ORG-European-Union
+99	116	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+117	128	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+168	182	Великобритания	Великобритания	LOC	GPE-Great-Britain
+217	224	Брекзит	Брекзит	EVT	EVT-Brexit
+232	239	Гардиън	Гардиън	PRO	PRO-The-Guardian
+242	246	Туск	Туск	PER	PER-Donald-Tusk
+287	308	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+336	343	Брюксел	Брюксел	LOC	GPE-Brussles
+347	354	Брекзит	Брекзит	EVT	EVT-Brexit
+450	457	Брекзит	Брекзит	EVT	EVT-Brexit
+642	646	Туск	Туск	PER	PER-Donald-Tusk
+647	649	ЕС	ЕС	ORG	ORG-European-Union
+701	715	Великобритания	Великобритания	LOC	GPE-Great-Britain
+799	811	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+827	829	ЕС	ЕС	ORG	ORG-European-Union
+878	895	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+942	949	Брекзит	Брекзит	EVT	EVT-Brexit
+1070	1090	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1091	1105	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+1147	1161	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1203	1205	ЕС	ЕС	ORG	ORG-European-Union
+1208	1215	news.bg	news.bg	PRO	PRO-News.bg
+1216	1221	Днес+	Днес+	ORG	ORG-DnesPlus

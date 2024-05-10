@@ -1,0 +1,62 @@
+0	12	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+55	58	США	США	LOC	GPE-USA
+72	79	Байдена	Байден	PER	PER-Joe-Biden
+133	139	Трампа	Трам	PER	PER-Donald-Trump
+279	288	Капитолия	Капитолия	ORG	ORG-United-States-Congress
+310	316	Трампа	Трам	PER	PER-Donald-Trump
+318	320	ЕС	ЕС	LOC	ORG-European-Union
+323	330	Украина	Украина	LOC	GPE-Ukraine
+394	397	США	США	LOC	GPE-USA
+399	407	Конгресс	Конгресс США	ORG	ORG-United-States-Congress
+428	435	Байдена	Байден	PER	PER-Joe-Biden
+437	442	Трамп	Трамп	PER	PER-Donald-Trump
+456	458	ЕС	ЕС	LOC	ORG-European-Union
+461	465	Киев	Киев	LOC	GPE-Kiev
+485	497	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+557	572	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+576	616	президентских выборах 3 ноября 2020 года	президентские выборы 3 ноября 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+669	685	«Нью-Йорк таймс»	Нью-Йорк Таймс	PRO	PRO-The-New-York-Times
+687	690	NYT	NYT	PRO	PRO-The-New-York-Times
+728	740	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+762	769	Байдена	Байден	PER	PER-Joe-Biden
+844	850	Трампа	Трам	PER	PER-Donald-Trump
+862	871	Капитолий	Капитолий	ORG	ORG-United-States-Congress
+883	888	Трамп	Трамп	PER	PER-Donald-Trump
+1029	1032	NYT	NYT	PRO	PRO-The-New-York-Times
+1034	1042	Конгресс	Конгресс США	ORG	ORG-United-States-Congress
+1076	1090	победу Байдена	победа Байдена	EVT	EVT-2020-United-States-Presidential-Election
+1139	1145	Трампа	Трамп	PER	PER-Donald-Trump
+1422	1428	Трампа	Трамп	PER	PER-Donald-Trump
+1520	1527	Байдена	Байден	PER	PER-Joe-Biden
+1654	1661	Байдена	Байден	PER	PER-Joe-Biden
+1833	1838	Трамп	Трамп	PER	PER-Donald-Trump
+1979	1995	«Нью-Йорк таймс»	Нью-Йорк Таймс	PRO	PRO-The-New-York-Times
+1998	2018	«Уолл-стрит джорнел»	Уолл-стрит джорнел	PRO	PRO-Wall-Street-Journal
+2039	2048	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+2127	2133	Трампа	Трамп	PER	PER-Donald-Trump
+2266	2274	Америкой	Америка	LOC	GPE-USA
+2277	2279	ЕС	ЕС	LOC	ORG-European-Union
+2370	2373	США	США	LOC	GPE-USA
+2420	2450	выборов на Украине в 2004 году	выборы на Украине в 2004 году	EVT	EVT-2004-Ukraine-Presidential-Election
+2452	2474	в Грузии в 2003-м году	выборы в Грузии в 2003-м году	EVT	EVT-2003-Georgia-Presidential-election
+2476	2502	в Белоруссии в 2020-м году	выборы в Белоруссии в 2020-м году	EVT	EVT-2020-Belarus-Presidential-election
+2631	2634	США	США	LOC	GPE-USA
+2688	2691	США	США	LOC	GPE-USA
+2709	2711	ЕС	ЕС	LOC	ORG-European-Union
+2736	2740	СССР	СССР	LOC	GPE-USSR
+2778	2788	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2826	2835	Капитолии	Капитолии	ORG	ORG-United-States-Congress
+2911	2918	Украине	Украина	LOC	GPE-Ukraine
+2923	2929	Грузии	Грузия	LOC	GPE-Georgia
+2940	2942	ЕС	ЕС	LOC	ORG-European-Union
+2961	2968	Меркель	Меркель	PER	PER-Angela-Merkel
+2980	2984	НАТО	НАТО	ORG	ORG-NATO
+2985	3001	Йенс Столтенберг	Йенс Столтенберг	PER	PER-Jens-Stoltenberg
+3015	3022	Украины	Украина	LOC	GPE-Ukraine
+3023	3041	Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+3070	3079	Зеленский	Зеленский	PER	PER-Volodymyr-Zelensky
+3115	3136	американского Майдана	американский Майдан	EVT	EVT-2021-storming-of -the-United-States-Capitol
+3273	3287	Виктора Ющенко	Виктор Ющенко	PER	PER-Viktor-Yushchenko
+3289	3303	Агентство ТАСС	Агентство ТАСС	PRO	PRO-TASS
+3327	3337	Зеленского	Зеленский	PER	PER-Volodymyr-Zelensky
+3540	3553	американского	американский	LOC	GPE-USA

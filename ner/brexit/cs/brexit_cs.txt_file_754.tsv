@@ -1,0 +1,10 @@
+0	7	Johnson	Johnson	PER	PER-Boris-Johnson
+54	61	brexitu	brexit	EVT	EVT-Brexit
+122	129	Skripal	Skripal	PER	PER-Siergiej-Skripal
+155	169	Dolní sněmovně	Dolní sněmovně	ORG	ORG-House-of-Commons
+196	209	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+260	267	Londýna	Londýn	LOC	GPE-London
+312	320	Británie	Británie	LOC	GPE-Great-Britain
+323	336	Evropské unie	Evropská unie	ORG	ORG-European-Union
+343	346	BBC	BBC	PRO	PRO-BBC
+348	351	ČTK	ČTK	ORG	ORG-CTK

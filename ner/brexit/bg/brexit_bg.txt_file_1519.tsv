@@ -1,0 +1,80 @@
+26	36	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+75	81	Лондон	Лондон	LOC	GPE-London
+83	93	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+198	219	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+246	258	The Guardian	The Guardian	PRO	PRO-The-Guardian
+308	320	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+321	335	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+409	419	лейбъристи	лейбъристи	PER	ORG-Labour-Party-UK
+454	474	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+489	499	лейбъристи	лейбъристи	PER	ORG-Labour-Party-UK
+656	694	Европейското икономическо пространство	Европейско икономическо пространство	ORG	ORG-EEA-European-Economic-Area
+940	978	Европейското икономическо пространство	Европейско икономическо пространство	ORG	ORG-EEA-European-Economic-Area
+1020	1024	Алли	Алли	PER	PER-Waheed-Alli
+1059	1075	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1191	1229	Европейското икономическо пространство	Европейско икономическо пространство	ORG	ORG-EEA-European-Economic-Area
+1490	1502	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+1504	1510	Лондон	Лондон	LOC	GPE-London
+1522	1532	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1599	1612	The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+1708	1722	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1755	1771	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1777	1784	Брекзит	Брекзит	EVT	EVT-Brexit
+1832	1842	Грег Кларк	Грег Кларк	PER	PER-Greg-Clark
+1905	1911	Тойота	Тойота	ORG	ORG-Toyota
+1917	1931	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2018	2028	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2105	2115	Грег Кларк	Грег Кларк	PER	PER-Greg-Clark
+2158	2165	Брекзит	Брекзит	EVT	EVT-Brexit
+2429	2441	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+2443	2449	Лондон	Лондон	LOC	GPE-London
+2465	2475	лейбъристи	лейбъристи	PER	ORG-Labour-Party-UK
+2500	2507	Брекзит	Брекзит	EVT	EVT-Brexit
+2633	2649	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2690	2704	Sunday Express	Sunday Express	PRO	PRO-Sunday-Express
+2735	2745	лейбъристи	лейбъристи	PER	ORG-Labour-Party-UK
+2806	2808	ЕС	ЕС	ORG	ORG-European-Union
+2841	2853	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+2878	2891	Каролин Флинт	Каролин Флинт	PER	PER-Caroline-Flint
+3051	3071	лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+3090	3104	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+3152	3162	Стив Хоуъл	Стив Хоуъл	PER	PER-Steve-Howell
+3183	3197	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+3244	3251	Брекзит	Брекзит	EVT	EVT-Brexit
+3330	3342	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+3344	3350	Лондон	Лондон	LOC	GPE-London
+3362	3374	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+3442	3452	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3463	3477	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3495	3497	ЕС	ЕС	ORG	ORG-European-Union
+3591	3603	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+3659	3675	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+3707	3719	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+3720	3734	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+3778	3799	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+3860	3880	Камарата на Общините	Камара на общините	ORG	ORG-House-of-Commons
+3929	3943	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+3944	3956	Джулиян Смит	Джулиян Смит	PER	PER-Julian-Smith
+3972	3982	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4054	4066	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+4092	4104	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+4167	4177	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4178	4192	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4205	4243	Европейското икономическо пространство	Европейско икономическо пространство	ORG	ORG-EEA-European-Economic-Area
+4312	4324	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+4326	4332	Лондон	Лондон	LOC	GPE-London
+4360	4374	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4375	4385	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4407	4414	Брекзит	Брекзит	EVT	EVT-Brexit
+4482	4502	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+4533	4555	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+4647	4664	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+4665	4675	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4739	4753	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+4851	4873	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+5007	5022	Иън Дънкан Смит	Иън Дънкан Смит	PER	PER-Iain-Duncan-Smith
+5189	5196	Брекзит	Брекзит	EVT	EVT-Brexit
+5507	5511	Смит	Смит	PER	PER-Iain-Duncan-Smith
+5513	5529	Джейкъб Рийс-Мог	Джейкъб Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+5597	5604	Брекзит	Брекзит	EVT	EVT-Brexit
+5715	5729	Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev

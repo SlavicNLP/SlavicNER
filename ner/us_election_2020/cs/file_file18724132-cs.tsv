@@ -1,0 +1,23 @@
+9	14	Biden	Biden	PER	PER-Joe-Biden
+24	30	Trumpa	Trump	PER	PER-Donald-Trump
+33	44	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+47	54	Georgii	Georgie	LOC	GPE-Georgia-US-state
+59	76	Spojených státech	Spojené státy	LOC	GPE-USA
+121	132	Bílého domu	Bílý dům	LOC	LOC-White-House
+143	152	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+253	265	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+299	310	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+312	321	Michiganu	Michigan	LOC	GPE-Michigan
+324	331	Georgii	Georgie	LOC	GPE-Georgia-US-state
+335	346	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+347	352	Biden	Biden	PER	PER-Joe-Biden
+353	360	Trumpův	Trump	PER	PER-Donald-Trump
+426	433	Georgie	Georgie	LOC	GPE-Georgia-US-state
+607	614	Trumpův	Trump	PER	PER-Donald-Trump
+624	635	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+664	669	Trump	Trump	PER	PER-Donald-Trump
+715	720	Biden	Biden	PER	PER-Joe-Biden
+749	759	Filadelfii	Filadelfie	LOC	GPE-Philadelphia
+910	917	hummeru	hummer	PRO	PRO-Hummer-car
+920	928	Virginie	Virginie	LOC	GPE-Virginia
+956	967	6ActionNews	6ActionNews	PRO	PRO-6-Action-News

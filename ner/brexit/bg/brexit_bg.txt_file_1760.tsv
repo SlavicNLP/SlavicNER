@@ -1,0 +1,25 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+32	39	Брекзит	Брекзит	EVT	EVT-Brexit
+79	96	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+97	108	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+178	182	Туск	Туск	PER	PER-Donald-Tusk
+252	266	Великобритания	Великобритания	LOC	GPE-Great-Britain
+294	298	Туск	Туск	PER	PER-Donald-Tusk
+320	324	Ейре	Ейре	LOC	GPE-Ireland
+448	460	Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+523	530	Брекзит	Брекзит	EVT	EVT-Brexit
+761	783	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+793	811	Европейският съвет	Европейски съвет	ORG	ORG-European-Council
+972	974	ЕС	ЕС	ORG	ORG-European-Union
+985	1005	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1147	1167	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1190	1192	ЕС	ЕС	ORG	ORG-European-Union
+1302	1322	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1406	1426	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1462	1470	Ирландия	Ирландия	LOC	GPE-Ireland
+1502	1509	News.bg	News.bg	PRO	PRO-News.bg
+1529	1543	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+1569	1615	Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+1659	1673	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+1922	1936	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+2018	2033	WEB MEDIA GROUP	Web media group	ORG	ORG-Web-Media-Group

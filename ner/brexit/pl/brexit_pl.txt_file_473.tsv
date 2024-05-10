@@ -1,0 +1,37 @@
+0	15	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+30	32	UE	UE	ORG	ORG-European-Union
+92	109	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+144	159	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+293	303	Amber Rudd	Amber Rudd	PER	PER-Amber-Rudd
+372	389	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+392	394	UE	UE	ORG	ORG-European-Union
+461	463	UE	UE	ORG	ORG-European-Union
+539	551	Dominic Rudd	Dominic Rudd	PER	PER-Dominic-Rudd
+583	592	The Times	The Times	PRO	PRO-The-Times
+625	639	Downing Street	Downing Street	LOC	LOC-Downing-Street
+788	790	UE	UE	ORG	ORG-European-Union
+897	911	Downing Street	Downing Street	LOC	LOC-Downing-Street
+984	991	Brexitu	Brexit	EVT	EVT-Brexit
+992	1008	Michela Barniera	Michel Barnier	PER	PER-Michel-Barnier
+1011	1019	Londynie	Londyn	LOC	GPE-London
+1090	1107	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1110	1112	UE	UE	ORG	ORG-European-Union
+1141	1144	May	May	PER	PER-Theresa-May
+1403	1419	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+1483	1504	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+1524	1527	May	May	PER	PER-Theresa-May
+1558	1575	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1578	1580	UE	UE	ORG	ORG-European-Union
+1620	1627	Brexitu	Brexit	EVT	EVT-Brexit
+1697	1700	May	May	PER	PER-Theresa-May
+1746	1759	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1843	1855	Michael Gove	Michael Gove	PER	PER-Michael-Gove
+1897	1905	Johnsona	Johnson	PER	PER-Boris-Johnson
+1951	1953	UE	UE	ORG	ORG-European-Union
+2022	2038	Philipa Hammonda	Philip Hammond	PER	PER-Philip-Hammond
+2075	2090	Jacob Rees-Mogg	Jacob Rees-Mogg	PER	PER-Jacob-Rees-Mogg
+2266	2287	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+2347	2350	May	May	PER	PER-Theresa-May
+2442	2457	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2486	2488	UE	UE	ORG	ORG-European-Union
+2526	2535	Wspólnotę	Wspólnota	ORG	ORG-European-Union

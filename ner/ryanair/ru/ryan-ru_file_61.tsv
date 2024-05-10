@@ -1,0 +1,11 @@
+0	7	Ryanair	Ryanair	ORG	ORG-Ryanair
+29	35	Европе	Европа	LOC	LOC-Europe
+86	93	Ryanair	Ryanair	ORG	ORG-Ryanair
+196	203	Испанию	Испания	LOC	GPE-Spain
+205	215	Португалию	Португалия	LOC	GPE-Portugal
+218	225	Бельгию	Бельгия	LOC	GPE-Belgium
+318	319	Ъ	Ъ	ORG	ORG-Kommersant-News
+392	399	Ryanair	Ryanair	ORG	ORG-Ryanair
+573	588	Великобританией	Великобритания	LOC	GPE-Great-Britain
+591	600	Ирландией	Ирландия	LOC	GPE-Ireland
+699	715	Кирилл Сарханянц	Кирилл Сарханянц	PER	PER-Kirill-Sarkhaniants

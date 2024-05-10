@@ -1,0 +1,60 @@
+55	61	Лондон	Лондон	LOC	GPE-London
+74	84	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+117	124	Брекзит	Брекзит	EVT	EVT-Brexit
+125	138	Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+165	181	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+182	192	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+241	255	Маргарет Тачър	Маргарет Тачър	PER	PER-Margaret-Thatcher
+293	300	Брекзит	Брекзит	EVT	EVT-Brexit
+301	314	Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+372	388	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+414	421	Брекзит	Брекзит	EVT	EVT-Brexit
+422	435	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+476	482	Робинс	Робинс	PER	PER-Oliver-Robbins
+558	571	Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+573	579	Дейвис	Дейвис	PER	PER-David-Davis
+622	632	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+633	645	Гевин Баруел	Гевин Баруел	PER	PER-Gavin-Barwell
+663	669	Лондон	Лондон	LOC	GPE-London
+681	687	Лондон	Лондон	LOC	GPE-London
+688	697	Садик Хан	Садик Хан	PER	PER-Sadiq-Khan
+745	754	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+786	798	The Guardian	The Guardian	PRO	PRO-The-Guardian
+809	815	Лондон	Лондон	LOC	GPE-London
+834	837	Ръд	Ръд	PER	PER-Amber-Rudd
+968	980	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+1038	1052	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+1055	1061	Лондон	Лондон	LOC	GPE-London
+1086	1089	Хан	Хан	PER	PER-Sadiq-Khan
+1133	1142	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+1322	1328	Лондон	Лондон	LOC	GPE-London
+1518	1527	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+1553	1559	Дамаск	Дамаск	LOC	GPE-Damascus
+1571	1576	Сирия	Сирия	LOC	GPE-Syria
+1623	1629	Израел	Израел	LOC	GPE-Israel
+1672	1685	Близкия изток	Близкия изток	LOC	LOC-Near-East
+1704	1718	Sunday Express	Sunday Express	PRO	PRO-Sunday-Express
+1733	1739	Израел	Израел	LOC	GPE-Israel
+1742	1745	ООН	ООН	ORG	ORG-United-Nations
+1746	1756	Дани Данон	Дани Данон	PER	PER-Danny-Danon
+1814	1820	Дамаск	Дамаск	LOC	GPE-Damascus
+1861	1867	Израел	Израел	LOC	GPE-Israel
+2016	2028	Близък Изток	Близък изток	LOC	LOC-Near-East
+2049	2054	Сирия	Сирия	LOC	GPE-Syria
+2085	2095	Дани Данон	Дани Данон	PER	PER-Danny-Danon
+2131	2137	Дамаск	Дамаск	LOC	GPE-Damascus
+2197	2202	Сирия	Сирия	LOC	GPE-Syria
+2323	2327	Иран	Иран	LOC	GPE-Iran
+2404	2417	Северна Корея	Северна Корея	LOC	GPE-North-Korea
+2447	2453	Берлин	Берлин	LOC	GPE-Berlin
+2455	2463	Германия	Германия	LOC	GPE-Germany
+2499	2505	Турция	Турция	LOC	GPE-Turkey
+2507	2523	Саудитска Арабия	Саудитска Арабия	LOC	GPE-Saudi-Arabia
+2556	2559	ОАЕ	ОАЕ	LOC	GPE-UEA-United-Arab-Emirates
+2658	2673	The Independent	The Independent	PRO	PRO-The-Independent
+3050	3066	Саудитска Арабия	Саудитска Арабия	LOC	GPE-Saudi-Arabia
+3069	3072	ОАЕ	ОАЕ	LOC	GPE-UEA-United-Arab-Emirates
+3105	3110	Йемен	Йемен	LOC	GPE-Yemen
+3120	3126	Турция	Турция	LOC	GPE-Turkey
+3189	3194	Сирия	Сирия	LOC	GPE-Syria
+3471	3500	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

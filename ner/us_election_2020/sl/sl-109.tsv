@@ -1,0 +1,52 @@
+0	5	Bidnu	Biden	PER	PER-Joe-Biden
+60	62	EU	EU	ORG	ORG-European-Union
+73	82	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+185	188	ZDA	ZDA	LOC	GPE-USA
+265	279	Justin Trudeau	Justin Trudeau	PER	PER-Justin-Trudeau
+301	314	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+350	357	Nemčiji	Nemčija	LOC	GPE-Germany
+495	502	Trudeau	Trudeau	PER	PER-Justin-Trudeau
+550	562	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+590	597	Johnson	Johnson	PER	PER-Boris-Johnson
+604	609	Bidnu	Biden	PER	PER-Joe-Biden
+635	648	Kamali Harris	Kamala Harris	PER	PER-Kamala-Harris
+703	706	ZDA	ZDA	LOC	GPE-USA
+870	883	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+901	906	Bidnu	Biden	PER	PER-Joe-Biden
+1116	1126	Heiko Maas	Heiko Maas	PER	PER-Heiko-Maas
+1133	1142	Twitterju	Twitter	PRO	PRO-Twitter
+1303	1314	Olaf Scholz	Olaf Scholz	PER	PER-Olaf-Scholz
+1334	1337	ZDA	ZDA	LOC	GPE-USA
+1385	1391	Evrope	Evropa	LOC	LOC-Europe
+1413	1419	Trumpa	Trump	PER	PER-Donald-Trump
+1439	1442	ZDA	ZDA	LOC	GPE-USA
+1446	1453	Nemčijo	Nemčija	LOC	GPE-Germany
+1524	1531	Berlina	Berlin	LOC	GPE-Berlin
+1552	1565	Angelo Merkel	Angela Merkel	PER	PER-Angela-Merkel
+1589	1604	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+1698	1704	Macron	Macron	PER	PER-Emmanuel-Macron
+1727	1741	Giuseppe Conte	Giuseppe Conte	PER	PER-Giuseppe-Conte
+1870	1876	Bidnom	Biden	PER	PER-Joe-Biden
+1914	1917	ZDA	ZDA	LOC	GPE-USA
+1936	1943	Italijo	Italija	LOC	GPE-Italy
+2022	2036	Sebastian Kurz	Sebastian Kurz	PER	PER-Sebastian-Kurz
+2062	2068	Evropa	Evropa	LOC	LOC-Europe
+2072	2075	ZDA	ZDA	LOC	GPE-USA
+2174	2180	Bidnom	Biden	PER	PER-Joe-Biden
+2303	2319	Andrej Plenković	Andrej Plenković	PER	PER-Andrej-Plenković
+2334	2358	Evropske ljudske stranke	Evropska ljudska stranka	ORG	ORG-EPP-European-Peoples-Party
+2360	2363	EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+2365	2376	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+2404	2411	Trumpov	Trumpov	PER	PER-Donald-Trump
+2477	2483	Evropi	Evropa	LOC	LOC-Europe
+2500	2514	Micheal Martin	Micheal Martin	PER	PER-Michael-Martin
+2534	2543	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2650	2654	Nata	NATO	ORG	ORG-NATO
+2655	2671	Jens Stoltenberg	Jens Stoltenberg	PER	PER-Jens-Stoltenberg
+2693	2704	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+2803	2807	Nato	Nato	ORG	ORG-NATO
+2825	2831	Evropo	Evropa	LOC	LOC-Europe
+2839	2854	Severno Ameriko	Severna Amerika	LOC	LOC-North-America
+2870	2874	Nato	Nato	ORG	ORG-NATO
+2896	2905	Trumpovih	Trump	PER	PER-Donald-Trump
+2914	2919	Trump	Trump	PER	PER-Donald-Trump

@@ -1,0 +1,49 @@
+2	10	Германии	Германия	LOC	GPE-Germany
+40	58	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+62	70	Германии	Германия	LOC	GPE-Germany
+98	118	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+122	134	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+160	178	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+275	277	РФ	РФ	LOC	GPE-Russia
+284	291	Украину	Украина	LOC	GPE-Ukraine
+314	321	МИД ФРН	МИД ФРН	ORG	ORG-Federal-Foreign-Office-Germany
+322	332	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+341	343	DW	DW	PRO	PRO-Deutsche-Welle
+368	371	США	США	LOC	GPE-USA
+400	418	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+483	489	Европе	Европа	LOC	LOC-Europe
+498	501	США	США	LOC	GPE-USA
+513	517	Маас	Маас	PER	PER-Heiko-Maas
+533	571	Восточного комитета немецкой экономики	Восточный комитет немецкой экономики	ORG	ORG-Committee-on-Eastern-European-Economic-Relations
+574	581	Берлине	Берлин	LOC	GPE-Berlin
+598	604	Берлин	Берлин	LOC	GPE-Berlin
+653	663	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+681	699	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1013	1020	Украину	Украина	LOC	GPE-Ukraine
+1032	1036	Маас	Маас	PER	PER-Heiko-Maas
+1047	1053	России	Россия	LOC	GPE-Russia
+1163	1169	России	Россия	LOC	GPE-Russia
+1232	1251	Восточного комитета	Восточный комитет	ORG	ORG-Committee-on-Eastern-European-Economic-Relations
+1252	1268	Вольфганг Бюхеле	Вольфганг Бюхеле	PER	PER-Wolfgang-Buchele
+1314	1322	Германию	Германия	LOC	GPE-Germany
+1325	1331	Европу	Европа	LOC	LOC-Europe
+1423	1434	Нидерландах	Нидерланды	LOC	GPE-Holland
+1448	1462	Европарламента	Европарламент	ORG	ORG-European-Parliament
+1533	1551	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1644	1679	Палата представителей Конгресса США	Палата представителей Конгресса США	ORG	ORG-House-of-Representatives(USA)
+1775	1793	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1825	1843	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+2049	2067	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+2145	2147	РФ	РФ	LOC	GPE-Russia
+2154	2169	Балтийское море	Балтийское море	LOC	LOC-Baltic-Sea
+2172	2180	Германию	Германия	LOC	GPE-Germany
+2215	2221	Польша	Польша	LOC	GPE-Poland
+2223	2236	страны Балтии	страны Балтии	LOC	LOC-Baltic-countries
+2238	2245	Украина	Украина	LOC	GPE-Ukraine
+2247	2254	Молдова	Молдова	LOC	GPE-Moldova
+2256	2259	США	США	LOC	GPE-USA
+2262	2267	Дания	Дания	LOC	GPE-Denmark
+2286	2304	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+2326	2328	ЕС	ЕС	ORG	ORG-European-Union
+2332	2342	"""Газпрома"""	"""Газпром"""	ORG	ORG-Gazprom
+2394	2396	ЕС	ЕС	ORG	ORG-European-Union

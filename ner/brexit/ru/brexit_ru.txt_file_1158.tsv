@@ -1,0 +1,43 @@
+35	47	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+49	59	Российский	Российский	LOC	GPE-Russia
+68	82	Алексей Пушков	Алексей Пушков	PER	PER-Aleksey-Pushkov
+125	139	Великобритании	Великобритания	LOC	GPE-Great-Britain
+210	223	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+235	250	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+253	275	британском Форин Офисе	британский Форин Офис	ORG	ORG-Foreign-Office
+316	322	России	Россия	LOC	GPE-Russia
+349	361	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+385	392	Twitter	Twitter	PRO	PRO-Twitter
+402	409	Пушкова	Пушков	PER	PER-Aleksey-Pushkov
+434	449	британского МИД	британский МИД	ORG	ORG-Foreign-Office
+495	507	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+539	547	Sky News	Sky News	PRO	PRO-Sky-News-TV
+566	579	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+639	655	"""делу Скрипалей"""	"""дело Скрипалей"""	EVT	EVT-Scripals'-poisoning
+729	739	британской	британский	LOC	GPE-Great-Britain
+760	775	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+778	800	британском Форин Офисе	британский Форин Офис	ORG	ORG-Foreign-Office
+841	847	России	Россия	LOC	GPE-Russia
+874	886	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+889	903	Алексей Пушков	Алексей Пушков	PER	PER-Aleksey-Pushkov
+906	920	Alexey_Pushkov	Alexey_Pushkov	PER	PER-Aleksey-Pushkov
+1033	1042	Скрипалей	Скрипали	PER	PER-Skripals
+1045	1053	Солсбери	Солсбери	LOC	GPE-Salisbury
+1089	1093	Хант	Хант	PER	PER-Jeremy-Hunt
+1165	1175	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+1179	1185	Brexit	Brexit	EVT	EVT-Brexit
+1282	1290	Британия	Британия	LOC	GPE-Great-Britain
+1368	1430	Международного института гуманитарно-политических исследований	Международный институт гуманитарно-политических исследований	ORG	ORG-International-Institute-for-humanities-an
+1431	1446	Владимир Брутер	Владимир Брутер	PER	PER-Vladimir-Bruter
+1474	1498	правительству Терезы Мэй	правительство Терезы Мэй	ORG	ORG-the-UK-Government
+1679	1682	МИД	МИД	ORG	ORG-Foreign-Office
+1683	1696	Джереми Ханта	Джереми Хант	PER	PER-Jeremy-Hunt
+1738	1741	RT.	RT.	PRO	PRO-RT-Russia-Today
+1855	1868	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+2058	2064	Брутер	Брутер	PER	PER-Vladimir-Bruter
+2066	2079	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+2158	2172	Великобритании	Великобритания	LOC	GPE-Great-Britain
+2176	2185	Евросоюза	Евросоюз	ORG	ORG-European-Union
+2186	2201	Дэвидом Дэвисом	Дэвид Дэвис	PER	PER-David-Davis
+2249	2259	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+2280	2286	Brexit	Brexit	EVT	EVT-Brexit

@@ -1,0 +1,85 @@
+22	27	БГНЕС	БГНЕС	PRO	PRO-BGNES
+74	77	САЩ	САЩ	LOC	GPE-USA
+78	90	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+110	132	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+260	264	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+455	464	Белия дом	Бял дом	LOC	LOC-White-House
+496	507	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+509	516	Мичиган	Мичиган	LOC	GPE-Michigan
+518	526	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+528	535	Аризона	Аризона	LOC	GPE-Arizona
+538	544	Невада	Невада	LOC	GPE-Nevada
+569	574	Тръмп	Тръмп	PER	PER-Donald-Trump
+594	604	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+627	632	Тръмп	Тръмп	PER	PER-Donald-Trump
+646	655	Белия дом	Бял дом	LOC	LOC-White-House
+904	918	републиканците	републиканци	PER	ORG-Republican-Party-USA
+952	963	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+981	987	Байдън	Байдън	PER	PER-Joe-Biden
+1122	1142	Върховния съд на САЩ	Върховен съд на САЩ	ORG	ORG-Supreme-Court-of-the-United-States
+1329	1341	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1435	1455	Върховния съд на САЩ	Върховен съд на САЩ	ORG	ORG-Supreme-Court-of-the-United-States
+1589	1617	Върховния съд на Пенсилвания	Върховен съд на Пенсилвания	ORG	ORG-Supreme-Court-of-Pennsylvania
+1619	1633	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+1734	1755	Върховният съд на САЩ	Върховен съд на САЩ	ORG	ORG-Supreme-Court-of-the-United-States
+1852	1866	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+2149	2160	Демократите	демократи	PER	ORG-Democratic-Party-USA
+2303	2308	Тръмп	Тръмп	PER	PER-Donald-Trump
+2343	2350	Аризона	Аризона	LOC	GPE-Arizona
+2430	2437	Алабама	Алабама	LOC	GPE-USA-Alabama
+2439	2447	Арканзас	Арканзас	LOC	GPE-Arkansas
+2449	2456	Кентъки	Кентъки	LOC	GPE-Kentucky
+2458	2466	Луизиана	Луизиана	LOC	GPE-Louisiana
+2468	2476	Мисисипи	Мисисипи	LOC	GPE-Mississippi
+2478	2484	Мисури	Мисури	LOC	GPE-Missouri
+2486	2492	Тексас	Тексас	LOC	GPE-Texas
+2494	2501	Флорида	Флорида	LOC	GPE-Florida
+2503	2514	Южна Дакота	Южна Дакота	LOC	GPE-South-Dakota-US-State
+2517	2530	Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+2547	2569	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+2591	2604	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+2621	2624	САЩ	САЩ	LOC	GPE-USA
+2891	2919	Върховния съд на Пенсилвания	Върховен съд на Пенсилвания	ORG	ORG-Supreme-Court-of-Pennsylvania
+3024	3037	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+3059	3064	Тръмп	Тръмп	PER	PER-Donald-Trump
+3437	3447	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3525	3532	Мичиган	Мичиган	LOC	GPE-Michigan
+3550	3564	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+3716	3724	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+4006	4013	Аризона	Аризона	LOC	GPE-Arizona
+4068	4082	републиканците	републиканци	PER	ORG-Republican-Party-USA
+4256	4262	Невада	Невада	LOC	GPE-Nevada
+4278	4292	републиканците	републиканци	PER	ORG-Republican-Party-USA
+4555	4570	Йонко Мермерски	Йонко Мермерски	PER	PER-Yonko-Mermerski
+4613	4616	САЩ	САЩ	LOC	GPE-USA
+4620	4628	България	България	LOC	GPE-Bulgaria
+4747	4769	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+4816	4824	Блумбърг	Блумбърг	PRO	PRO-Bloomberg
+4846	4851	Тръмп	Тръмп	PER	PER-Donald-Trump
+4959	4968	Белия дом	Бял дом	LOC	LOC-White-House
+4969	4983	Кейли Макенани	Кайли Макинани	PER	PER-Kayleigh-McEnany
+5033	5038	Тръмп	Тръмп	PER	PER-Donald-Trump
+5050	5064	републиканците	републиканци	PER	ORG-Republican-Party-USA
+5197	5204	Мичиган	Мичиган	LOC	GPE-Michigan
+5326	5332	Невада	Невада	LOC	GPE-Nevada
+5433	5446	републиканеца	републиканец	PER	ORG-Republican-Party-USA
+5447	5457	Мат Морган	Мат Морган	PER	PER-Matt-Morgan
+5584	5588	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+5690	5710	Върховния съд на САЩ	Върховен съд на САЩ	ORG	ORG-Supreme-Court-of-the-United-States
+5766	5778	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+5834	5857	Университета на Флорида	Университет на Флорида	ORG	ORG-University-of-Florida
+5858	5873	Питър Бъргърсън	Питър Бъргърсън	PER	PER-Peter-Bergerson
+5956	5976	Върховния съд на САЩ	Върховен съд на САЩ	ORG	ORG-Supreme-Court-of-the-United-States
+6079	6092	Морис Фиорина	Морис Фиорина	PER	PER-Morris-Fiorina
+6126	6189	Института за война, революция и мир на Станфордския университет	Институт за война, революция и мир на Станфордския университет	ORG	ORG-Hoover-Institution
+6215	6220	Тръмп	Тръмп	PER	PER-Donald-Trump
+6226	6239	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+6433	6471	Американския университет във Вашингтон	Американски университет във Вашингтон	ORG	ORG-American-University
+6472	6485	Дейвид Люблин	Дейвид Люблин	PER	PER-David-Lublin
+6732	6738	Аксиос	Аксиос	PRO	PRO-Axios
+6780	6785	Тръмп	Тръмп	PER	PER-Donald-Trump
+6943	6965	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+7108	7121	Сената на САЩ	Сената на САЩ	ORG	ORG-United-States-Senate
+7145	7157	републиканци	републиканци	PER	ORG-Republican-Party-USA
+7280	7288	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+7357	7363	Сената	Сенат	ORG	ORG-United-States-Senate

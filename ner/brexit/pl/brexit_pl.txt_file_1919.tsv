@@ -1,0 +1,23 @@
+20	33	Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+61	70	Smoleńsku	Smoleńsk	LOC	GPE-Smolensk
+83	89	Brexit	Brexit	EVT	EVT-Brexit
+151	157	Europy	Europa	LOC	LOC-Europe
+276	280	Tusk	Tusk	PER	PER-Donald-Tusk
+291	304	Zieloną Wyspę	Zielona Wyspa	LOC	GPE-Ireland
+320	347	Porozumień wielkopiątkowych	Porozumienia wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+403	411	Dublinie	Dublin	LOC	GPE-Dublin
+414	422	Londynie	Londyn	LOC	GPE-London
+460	468	Ulsterze	Ulster	LOC	GPE-Ulster
+476	493	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+518	536	Starego Kontynentu	Stary Kontynent	LOC	LOC-Old-World
+573	591	Starym Kontynencie	Stary Kontynent	LOC	LOC-Old-World
+692	699	Brexitu	Brexit	EVT	EVT-Brexit
+767	790	Platformy Obywatelskiej	Platforma Obywatelska	ORG	ORG-PO-Civic-Platform
+804	829	University College Dublin	University College Dublin	ORG	ORG-University-College-Dublin
+885	887	U2	U2	ORG	ORG-U2
+901	909	Irlandii	Irlandia	LOC	GPE-Ireland
+956	968	Irlandczyków	Irlandczycy	PER	GPE-Ireland
+1014	1017	MMA	MMA	ORG	ORG-MMA
+1062	1078	Conora McGregora	Conor McGregor	PER	PER-Conor-McGregor
+1166	1177	Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+1191	1202	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk

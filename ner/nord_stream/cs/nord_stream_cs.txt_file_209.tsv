@@ -1,0 +1,54 @@
+0	9	Merkelová	Merkelová	PER	PER-Angela-Merkel
+25	31	Polska	Polsko	LOC	GPE-Poland
+61	63	ČR	ČR	LOC	GPE-Czech-Republic
+65	71	Berlín	Berlín	LOC	GPE-Berlin
+107	120	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+173	179	Evropy	Evropa	LOC	LOC-Europe
+183	190	Berlíně	Berlín	LOC	GPE-Berlin
+218	234	Angela Merkelová	Angela Merkelová	PER	PER-Angela-Merkel
+270	291	Mateuszem Morawieckým	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+293	300	Varšava	Varšava	LOC	GPE-Warsaw
+313	318	Praha	Praha	LOC	GPE-Prague
+319	332	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+380	395	Nord Stream (2)	Nord Stream (2)	PRO	PRO-Nord-Stream-2
+405	414	Merkelová	Merkelová	PER	PER-Angela-Merkel
+448	459	Morawieckým	Morawiecki	PER	PER-Mateusz-Morawiecki
+569	577	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+633	648	Nord Stream (2)	Nord Stream (2)	PRO	PRO-Nord-Stream-2
+721	728	Reuters	Reuters	ORG	ORG-Reuters
+730	743	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+813	818	Ruska	Rusko	LOC	GPE-Russia
+822	829	Německa	Německo	LOC	GPE-Germany
+837	851	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+853	860	Varšava	Varšava	LOC	GPE-Warsaw
+898	904	Evropy	Evropa	LOC	LOC-Europe
+908	913	Rusku	Rusko	LOC	GPE-Russia
+924	939	Evropské komisi	Evropská komise	ORG	ORG-European-Commission
+969	982	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+997	1003	Polska	Polsko	LOC	GPE-Poland
+1006	1011	Česko	Česko	LOC	GPE-Czech-Republic
+1013	1022	Slovensko	Slovensko	LOC	GPE-Slovakia
+1024	1032	Maďarsko	Maďarsko	LOC	GPE-Hungary
+1034	1042	Estonsko	Estonsko	LOC	GPE-Estonia
+1044	1052	Lotyšsko	Lotyšsko	LOC	GPE-Latvia
+1054	1059	Litva	Litva	LOC	GPE-Lithuania
+1061	1069	Rumunsko	Rumunsko	LOC	GPE-Romania
+1071	1080	Bulharsko	Bulharsko	LOC	GPE-Bulgaria
+1083	1088	Řecko	Řecko	LOC	GPE-Greece
+1132	1134	EU	EU	ORG	ORG-European-Union
+1173	1181	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+1183	1193	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+1209	1212	DPA	DPA	ORG	ORG-DPA
+1294	1309	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+1316	1322	Polsku	Polsko	LOC	GPE-Poland
+1356	1363	Varšavě	Varšava	LOC	GPE-Warsaw
+1394	1396	EU	EU	ORG	ORG-European-Union
+1398	1407	Merkelová	Merkelová	PER	PER-Angela-Merkel
+1462	1469	Polskem	Polsko	LOC	GPE-Poland
+1831	1837	Polsku	Polsko	LOC	GPE-Poland
+1839	1849	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+1939	1946	Varšavy	Varšava	LOC	GPE-Warsaw
+1988	2003	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+2020	2026	Polsko	Polsko	LOC	GPE-Poland
+2028	2033	Česko	Česko	LOC	GPE-Czech-Republic
+2036	2044	Maďarsko	Maďarsko	LOC	GPE-Hungary

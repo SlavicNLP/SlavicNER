@@ -1,0 +1,109 @@
+41	48	Украины	Украина	LOC	GPE-Ukraine
+51	61	выборы США	выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+120	130	украинском	украинский	LOC	GPE-Ukraine
+191	202	российского	российский	LOC	GPE-Russia
+250	262	американские	американские	LOC	GPE-USA
+275	280	Трамп	Трамп	PER	PER-Donald-Trump
+283	296	республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+351	361	украинском	украинский	LOC	GPE-Ukraine
+383	388	УНИАН	УНИАН	PRO	PRO-UNIAN
+448	463	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+466	472	Сенате	Сенат	ORG	ORG-United-States-Senate
+571	578	Украина	Украина	LOC	GPE-Ukraine
+599	630	американские выборы в 2016 году	американские выборы в 2016 году	EVT	EVT-2016-United-States-Presidential-Election
+637	641	Киев	Киев	LOC	GPE-Kiev
+659	664	Трамп	Трамп	PER	PER-Donald-Trump
+716	746	разведывательные агентства США	разведывательные агентства США	ORG	ORG-US-Intelligence-Community
+848	854	России	Россия	LOC	GPE-Russia
+927	934	Украине	Украина	LOC	GPE-Ukraine
+973	985	американскую	американский	LOC	GPE-USA
+1024	1040	Associated Press	Associated Press	PRO	PRO-The-Associated-Press
+1108	1119	американцев	американцы	PER	GPE-USA
+1302	1315	Wilson Center	Wilson Center	ORG	LOC-Logistični-center-Pošte-Slovenija-Ljubljana
+1316	1328	Нина Янкович	Нина Янкович	PER	PER-Nina-Yankovich
+1332	1348	Associated Press	Associated Press	PRO	PRO-The-Associated-Press
+1373	1383	украинском	украиский	LOC	GPE-Ukraine
+1447	1453	Трампа	Трам	PER	PER-Donald-Trump
+1520	1526	России	Россия	LOC	GPE-Russia
+1527	1541	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1565	1577	американские	американские	LOC	GPE-USA
+1640	1652	американские	американские	LOC	GPE-USA
+1689	1695	Россия	Россия	LOC	GPE-Russia
+1712	1734	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+1761	1788	избирательного штаба Трампа	избирательный штаб Трампа	ORG	ORG-Trump's-campaign-office
+1789	1801	Пол Манафорт	Пол Манафорт	PER	PER-Paul-Manafort
+1851	1858	Украина	Украина	LOC	GPE-Ukraine
+1868	1871	ФБР	ФБР	ORG	ORG-FBI
+1898	1907	Рик Гейтс	Рик Гейст	PER	PER-Rick-Gates
+1946	1952	Трампа	Трам	PER	PER-Donald-Trump
+1953	1965	Роджер Стоун	Роджер Стоун	PER	PER-Rodger-Stone
+1976	1983	Twitter	Twitter	PRO	PRO-Twitter
+2015	2025	выборы США	выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+2042	2049	Хиллари	Хиллари	PER	PER-Hillary-Clinton
+2052	2059	Украине	Украина	LOC	GPE-Ukraine
+2113	2123	демократов	демократы	PER	ORG-Democratic-Party-USA
+2124	2139	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+2155	2158	ФБР	ФБР	ORG	ORG-FBI
+2178	2183	Трамп	Трамп	PER	PER-Donald-Trump
+2207	2234	Разведывательные службы США	Разведывательные службы США	ORG	ORG-US-Intelligence-Community
+2265	2271	Россия	Россия	LOC	GPE-Russia
+2310	2316	Трампу	Трамп	PER	PER-Donald-Trump
+2341	2354	Роберт Мюллер	Роберт Мюллер	PER	Роберт Мюллер
+2384	2391	россиян	россияне	PER	GPE-Russia
+2559	2569	украинская	украинский	LOC	GPE-Ukraine
+2689	2695	Стоуна	Стоун	PER	PER-Rodger-Stone
+2784	2791	Украины	Украина	LOC	GPE-Ukraine
+2820	2827	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+2834	2840	Трампа	Трам	PER	PER-Donald-Trump
+2860	2875	Financial Times	Financial Times	PRO	PRO-Financial-Times
+2914	2925	украинского	украинский	LOC	GPE-Ukraine
+2935	2949	Сергея Лещенко	Сергей Лещенко	PER	PER-Sergey-Leschenko
+3031	3038	Украины	Украина	LOC	GPE-Ukraine
+3062	3070	Манафорт	Манафорт	PER	PER-Paul-Manafort
+3072	3079	Лещенко	Лещенко	PER	PER-Sergey-Leschenko
+3207	3222	Financial Times	Financial Times	PRO	PRO-Financial-Times
+3258	3268	украинском	украинский	LOC	GPE-Ukraine
+3303	3309	Россия	Россия	LOC	GPE-Russia
+3313	3320	Украина	Украина	LOC	GPE-Ukraine
+3373	3386	республиканец	республиканец	PER	ORG-Republican-Party-USA
+3387	3399	Джон Кеннеди	Джон Кеннеди	PER	PER-John-F-Kennedy
+3423	3428	Путин	Путин	PER	PER-Vladimir-Putin
+3498	3505	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+3570	3576	Трампа	Трам	PER	PER-Donald-Trump
+3601	3606	Трамп	Трамп	PER	PER-Donald-Trump
+3665	3667	AP	AP	PRO	PRO-Assosiated-Press
+3682	3693	CrowdStrike	CrowdStrike	PRO	PRO-CrowdStrike
+3713	3723	российских	российский	LOC	GPE-Russia
+3761	3769	Украиной	Украина	LOC	GPE-Ukraine
+3824	3832	украинцу	 украинец	PER	GPE-Ukraine
+3876	3879	ФБР	ФБР	ORG	ORG-FBI
+3909	3914	Трамп	Трамп	PER	PER-Donald-Trump
+3935	3946	CrowdStrike	CrowdStrike	PRO	PRO-CrowdStrike
+3961	3971	Калифорнии	Калифорния	LOC	GPE-California
+3994	3997	США	США	LOC	GPE-USA
+3999	4010	Джордж Курц	Джордж Курц	PER	PER-George-Kurtz
+4013	4030	Дмитрий Алперович	Дмитрий Алперович	PER	PER-Dmitriy-Alperovich
+4052	4058	России	Россия	LOC	GPE-Russia
+4069	4072	США	США	LOC	GPE-USA
+4076	4079	ФБР	ФБР	ORG	ORG-FBI
+4117	4139	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+4166	4177	CrowdStrike	CrowdStrike	PRO	PRO-CrowdStrike
+4202	4205	ФБР	ФБР	ORG	ORG-FBI
+4221	4226	Трамп	Трамп	PER	PER-Donald-Trump
+4306	4313	Украины	Украина	LOC	GPE-Ukraine
+4314	4334	Владимиру Зеленскому	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+4491	4497	Сенате	Сенат	ORG	ORG-United-States-Senate
+4498	4503	Трамп	Трамп	PER	PER-Donald-Trump
+4527	4551	верхней палаты Конгресса	верхняя палата Конгресса	ORG	ORG-United-States-Senate
+4555	4577	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+4643	4656	Руди Джулиани	Руди Джулиани	PER	PER-Rudy-Giuliani
+4700	4706	Европу	Европа	LOC	LOC-Europe
+4758	4764	России	Россия	LOC	GPE-Russia
+4765	4775	Фиона Хилл	Фиона Хилл	PER	PER-Fiona-Hill
+4796	4806	Белом доме	Белый дом	ORG	ORG-The-White-House
+4816	4825	Конгрессу	Конгресс	ORG	ORG-United-States-Congress
+4887	4894	Украину	Украина	LOC	GPE-Ukraine
+4907	4910	США	США	LOC	GPE-USA
+5023	5029	Россия	Россия	LOC	GPE-Russia
+5135	5139	Хилл	Хилл	PER	PER-Fiona-Hill
+5203	5215	УНИАН ИноСМИ	УНИАН ИноСМИ	PRO	PRO-UNIAN

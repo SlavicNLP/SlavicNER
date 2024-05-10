@@ -1,0 +1,78 @@
+19	30	коронавирус	коронавирус	EVT	EVT-Covid-19
+33	35	ЕС	ЕС	ORG	ORG-European-Union
+57	70	фон дер Лайен	фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+89	91	ЕК	ЕК	ORG	ORG-European-Commission
+230	251	Европейския съюз (ЕС)	Европейски съюз (ЕС)	ORG	ORG-European-Union
+301	312	коронавирус	коронавирус	EVT	EVT-Covid-19
+346	371	Европейската комисия (ЕК)	Европейска комисия (ЕК)	ORG	ORG-European-Commission
+372	392	Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+438	447	Комисията	Комисия	ORG	ORG-European-Commission
+618	629	Politico.eu	Politico.eu	PRO	PRO-Politico
+646	659	Фон дер Лайен	фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+812	819	Унгария	Унгария	LOC	GPE-Hungary
+948	964	Мете Фредериксен	Мете Фредериксен	PER	PER-Mette-Frederiksen
+1075	1085	Копенхаген	Копенхаген	LOC	GPE-Copenhagen
+1109	1116	Брюксел	Брюксел	LOC	GPE-Brussles
+1130	1141	Нидерландия	Нидерландия	LOC	GPE-The-Netherlands
+1282	1284	ЕС	ЕС	ORG	ORG-European-Union
+1318	1327	Комисията	Комисия	ORG	ORG-European-Commission
+1491	1498	Брюксел	Брюксел	LOC	GPE-Brussles
+1501	1508	Брюксел	Брюксел	LOC	GPE-Brussles
+1701	1703	ЕС	ЕС	ORG	ORG-European-Union
+1733	1756	Европейски здравен съюз	Европейски здравен съюз	ORG	ORG-European-Health-Union
+1835	1843	Германия	Германия	LOC	GPE-Germany
+1870	1872	ЕС	ЕС	ORG	ORG-European-Union
+1913	1951	Европейската инвестиционна банка (ЕИБ)	Европейска инвестиционна банка (ЕИБ)	ORG	ORG-European-Investment-Bank
+2029	2042	фон дер Лайен	фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+2054	2063	Комисията	Комисия	ORG	ORG-European-Commission
+2108	2116	Германия	Германия	LOC	GPE-Germany
+2118	2125	Франция	Франция	LOC	GPE-France
+2127	2138	Нидерландия	Нидерландия	LOC	GPE-The-Netherlands
+2141	2147	Италия	Италия	LOC	GPE-Italy
+2171	2180	Комисията	Комисия	ORG	ORG-European-Commission
+2193	2202	Комисията	Комисия	ORG	ORG-European-Commission
+2247	2254	Оксфорд	Оксфорд	ORG	ORG-University-of-Oxford
+2255	2266	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2271	2280	Комисията	Комисия	ORG	ORG-European-Commission
+2329	2342	Сандра Галина	Сандра Галина	PER	PER-Sandra-Gallina
+2397	2399	ЕК	ЕК	ORG	ORG-European-Commission
+2652	2654	ЕС	ЕС	ORG	ORG-European-Union
+2698	2706	BioNTech	BioNTech	ORG	ORG-BioNTech
+2708	2714	Pfizer	Pfizer	ORG	ORG-Pfizer
+2782	2790	BioNTech	BioNTech	ORG	ORG-BioNTech
+3132	3138	Гърция	Гърция	LOC	GPE-Greece
+3139	3157	Кириакос Мицотакис	Кириакос Мицотакис	PER	PER-Kyriakos-Mitsotakis
+3194	3204	Катимерини	Катимерини	PRO	PRO-Kathimerini-newspaper
+3227	3240	Клаус Йоханис	Клаус Йоханис	PER	PER-Klaus-Iohannis
+3398	3405	Унгария	Унгария	LOC	GPE-Hungary
+3407	3412	Полша	Полша	LOC	GPE-Poland
+3414	3422	Германия	Германия	LOC	GPE-Germany
+3425	3431	Италия	Италия	LOC	GPE-Italy
+3443	3484	Европейската агенция по лекарствата (EMA)	Европейска агенция по лекарствата (EMA)	ORG	ORG-EMA-European-Medicines-Agency
+3487	3496	Комисията	Комисия	ORG	ORG-European-Commission
+3535	3543	BioNTech	BioNTech	ORG	ORG-BioNTech
+3545	3551	Pfizer	Pfizer	ORG	ORG-Pfizer
+3564	3567	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+3618	3627	Швейцария	Швейцария	LOC	GPE-Switzerland
+3630	3636	Сърбия	Сърбия	LOC	GPE-Serbia
+3669	3675	Европа	Европа	LOC	LOC-Europe
+3713	3727	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3765	3786	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+3983	3992	Комисията	Комисия	ORG	ORG-European-Commission
+4006	4015	Комисията	Комисия	ORG	ORG-European-Commission
+4086	4092	туитър	Туитър	PRO	PRO-Twitter
+4166	4173	Унгария	Унгария	LOC	GPE-Hungary
+4216	4221	Русия	Русия	LOC	GPE-Russia
+4224	4229	Китай	Китай	LOC	GPE-China
+4259	4268	Комисията	Комисия	ORG	ORG-European-Commission
+4270	4278	Германия	Германия	LOC	GPE-Germany
+4366	4374	BioNTech	BioNTech	ORG	ORG-BioNTech
+4376	4382	Pfizer	Pfizer	ORG	ORG-Pfizer
+4384	4397	IDT Biologika	IDT Biologika	ORG	ORG-IDT-Biologika-Corporation
+4432	4434	ЕС	ЕС	ORG	ORG-European-Union
+4436	4441	Дания	Дания	LOC	GPE-Denmark
+4514	4522	BioNTech	BioNTech	ORG	ORG-BioNTech
+4523	4529	Pfizer	Pfizer	ORG	ORG-Pfizer
+4540	4553	фон дер Лайен	фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+4612	4618	туитър	Туитър	PRO	PRO-Twitter
+4654	4665	коронавирус	коронавирус	EVT	EVT-Covid-19

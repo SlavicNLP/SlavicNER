@@ -1,0 +1,87 @@
+15	22	Брекзит	Брекзит	EVT	EVT-Brexit
+207	217	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+249	256	Брекзит	Брекзит	EVT	EVT-Brexit
+332	335	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+372	386	Великобритания	Великобритания	LOC	GPE-Great-Britain
+390	406	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+532	546	Великобритания	Великобритания	LOC	GPE-Great-Britain
+630	639	Брекзитът	Брекзит	EVT	EVT-Brexit
+774	788	Великобритания	Великобритания	LOC	GPE-Great-Britain
+831	833	ЕС	ЕС	ORG	ORG-European-Union
+957	965	Роб Форд	Роб Форд	PER	PER-Rob-Ford
+1270	1277	Ламанша	Ламанша	LOC	LOC-English-Channel
+1282	1289	Брюксел	Брюксел	LOC	GPE-Brussles
+1315	1336	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+1340	1347	Брекзит	Брекзит	EVT	EVT-Brexit
+1348	1361	Ги Верхофстат	Ги Верхофстат	PER	PER-Guy-Verhofstadt
+1768	1778	Верхофстат	Верхофстат	PER	PER-Guy-Verhofstadt
+1784	1799	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+1801	1815	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1918	1920	ЕС	ЕС	ORG	ORG-European-Union
+1958	1972	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2012	2021	Брекзитът	Брекзит	EVT	EVT-Brexit
+2150	2153	Мей	Мей	PER	PER-Theresa-May
+2316	2318	ЕС	ЕС	ORG	ORG-European-Union
+2334	2348	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2506	2508	ЕС	ЕС	ORG	ORG-European-Union
+2573	2581	Брекзита	Брекзит	EVT	EVT-Brexit
+2696	2710	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2727	2729	ЕС	ЕС	ORG	ORG-European-Union
+2810	2813	Мей	Мей	PER	PER-Theresa-May
+2882	2889	Брекзит	Брекзит	EVT	EVT-Brexit
+3055	3085	Демократична юнионистка партия	Демократична юнионистка партия	ORG	ORG-DUP-Democratic-Unionist-Party
+3162	3169	Брекзит	Брекзит	EVT	EVT-Brexit
+3226	3234	Ирландия	Ирландия	LOC	GPE-Ireland
+3246	3248	ЕС	ЕС	ORG	ORG-European-Union
+3252	3268	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+3286	3300	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3320	3334	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3337	3339	ЕС	ЕС	ORG	ORG-European-Union
+3479	3493	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3535	3537	ЕС	ЕС	ORG	ORG-European-Union
+3686	3693	Брекзит	Брекзит	EVT	EVT-Brexit
+3723	3737	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3757	3759	ЕС	ЕС	ORG	ORG-European-Union
+3774	3788	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3792	3794	ЕС	ЕС	ORG	ORG-European-Union
+3895	3905	Верхофстат	Верхофстат	PER	PER-Guy-Verhofstadt
+3982	3989	Брекзит	Брекзит	EVT	EVT-Brexit
+4043	4057	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4074	4090	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+4225	4239	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4310	4312	ЕС	ЕС	ORG	ORG-European-Union
+4352	4355	Мей	Мей	PER	PER-Theresa-May
+4460	4474	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4477	4483	Англия	Англия	LOC	GPE-England
+4485	4494	Шотландия	Шотландия	LOC	GPE-Scotland
+4496	4500	Уелс	Уелс	LOC	GPE-Wales
+4503	4519	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+4557	4565	Брекзита	Брекзит	EVT	EVT-Brexit
+4692	4706	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4892	4906	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4969	4978	Брекзитът	Брекзит	EVT	EVT-Brexit
+5095	5097	ЕС	ЕС	ORG	ORG-European-Union
+5118	5128	Крис Лесли	Крис Лесли	PER	PER-Chris-Leslie
+5165	5173	Брекзита	Брекзит	EVT	EVT-Brexit
+5179	5192	Джон Лонгуърт	Джон Лонгуърт	PER	PER-John-Longworth
+5241	5271	Напускането означава напускане	Напускането означава напускане	ORG	ORG-Leave-Means-Leave
+5323	5325	ЕС	ЕС	ORG	ORG-European-Union
+5347	5361	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5391	5407	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+5445	5452	Брекзит	Брекзит	EVT	EVT-Brexit
+5455	5464	Брекзитът	Брекзит	EVT	EVT-Brexit
+5473	5487	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5544	5546	ЕС	ЕС	ORG	ORG-European-Union
+5554	5562	Брекзита	Брекзит	EVT	EVT-Brexit
+5626	5636	Верхофстат	Верхофстат	PER	PER-Guy-Verhofstadt
+5639	5645	Декзит	Декзит	EVT	EVT-Dexit
+5660	5665	Дания	Дания	LOC	GPE-Denmark
+5667	5673	Хекзит	Хекзит	EVT	EVT-Hexit
+5688	5696	Холандия	Холандия	LOC	GPE-Holland
+5698	5705	Фрекзит	Фрекзит	EVT	EVT-Frexit
+5721	5728	Франция	Франция	LOC	GPE-France
+5775	5783	Брекзита	Брекзит	EVT	EVT-Brexit
+5841	5843	ЕС	ЕС	ORG	ORG-European-Union
+5902	5904	ЕС	ЕС	ORG	ORG-European-Union
+5918	5920	ЕС	ЕС	ORG	ORG-European-Union
+5935	5944	Брекзитът	Брекзит	EVT	EVT-Brexit

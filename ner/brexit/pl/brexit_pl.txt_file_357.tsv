@@ -1,0 +1,19 @@
+0	6	Polska	Polska	LOC	GPE-Poland
+61	78	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+102	119	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+207	215	brexitem	Brexit	EVT	EVT-Brexit
+224	231	Reuters	Reuters	ORG	ORG-Reuters
+256	267	Budapeszcie	Budapeszt	LOC	GPE-Budapest
+319	341	Guentherem Oettingerem	Guenther Oettinger	PER	PER-Guenther-Oettinger
+356	367	Janos Lazar	Janos Lazar	PER	PER-Janos-Lazar
+392	398	Węgier	Węgry	LOC	GPE-Hungary
+399	413	Wiktora Orbana	Wiktor Orban	PER	PER-Viktor-Orban
+426	432	Polski	Polska	LOC	GPE-Poland
+434	440	Węgier	Węgry	LOC	GPE-Hungary
+442	447	Czech	Czechy	LOC	GPE-Czech-Republic
+449	457	Słowacji	Słowacja	LOC	GPE-Slovakia
+459	468	Chorwacji	Chorwacja	LOC	GPE-Croatia
+470	478	Bułgarii	Bułgaria	LOC	GPE-Bulgaria
+481	488	Rumunii	Rumunia	LOC	GPE-Romania
+563	567	Unii	Unia	ORG	ORG-European-Union
+574	589	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain

@@ -1,0 +1,50 @@
+0	9	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+53	68	New York Timesa	New York Times	PRO	PRO-The-New-York-Times
+104	109	Trump	Trump	PER	PER-Donald-Trump
+149	153	Iran	Iran	LOC	GPE-Iran
+215	224	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+267	277	Washington	Washington	LOC	GPE-WashingtonDC
+305	317	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+448	457	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+650	662	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+686	690	Iran	Iran	LOC	GPE-Iran
+693	703	Washington	Washington	LOC	GPE-WashingtonDC
+732	771	Mednarodne agencije za jedrsko energijo	Mednarodna agencija za jedrsko energijo	ORG	ORG-IAEA-International-Atomic-Energy-Agency
+780	784	Iran	Iran	LOC	GPE-Iran
+829	841	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+905	919	New York Times	New York Times	PRO	PRO-The-New-York-Times
+965	980	Bližnjem vzhodu	Bližnji vzhod	LOC	LOC-Middle-East
+1050	1055	Trump	Trump	PER	PER-Donald-Trump
+1075	1079	Iran	Iran	LOC	GPE-Iran
+1110	1124	Mikeom Penceom	Mike Pence	PER	PER-Mike-Pence
+1147	1161	Mikeom Pompeom	Mike Pompeo	PER	PER-Mike-Pompeo
+1193	1217	Christopherjem Millerjem	Christopher Miller	PER	PER-Christopher-Miller
+1252	1267	Markom Milleyem	Mark Milley	PER	PER-Mark-Milley
+1384	1389	Biden	Biden	PER	PER-Joe-Biden
+1393	1399	Trumpu	Trump	PER	PER-Donald-Trump
+1524	1533	covidu-19	covid-19	EVT	EVT-Covid-19
+1705	1712	Moderna	Moderna	ORG	ORG-Moderna
+1716	1726	Cambridgea	Cambridge	LOC	GPE-Cambridge
+1729	1742	Massachusetsu	Massachusets	LOC	GPE-Massachusetts
+1775	1780	Biden	Biden	PER	PER-Joe-Biden
+1822	1831	Trumpovim	Trump	PER	PER-Donald-Trump
+1962	1967	Zoomu	Zoom	PRO	PRO-Zoom
+2213	2216	ZDA	ZDA	LOC	GPE-USA
+2272	2284	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2286	2291	Biden	Biden	PER	PER-Joe-Biden
+2493	2498	Trump	Trump	PER	PER-Donald-Trump
+2539	2544	Biden	Biden	PER	PER-Joe-Biden
+2620	2636	Kupujmo ameriško	Kupujmo ameriško	PRO	PRO-Buy-American
+2924	2929	Trump	Trump	PER	PER-Donald-Trump
+3009	3012	ZDA	ZDA	LOC	GPE-USA
+3155	3160	Biden	Biden	PER	PER-Joe-Biden
+3198	3209	Wilmingtona	Wilmington	LOC	GPE-Wilmington
+3212	3220	Delawaru	Delaware	LOC	GPE-Delaware
+3223	3228	Biden	Biden	PER	PER-Joe-Biden
+3395	3402	Moody's	Moody's	ORG	ORG-Moody's-Investors-Service
+3572	3578	Trumpa	Trump	PER	PER-Donald-Trump
+3869	3878	covida-19	covid-19	EVT	EVT-Covid-19
+3880	3892	Republikanci	republikanci	ORG	ORG-Republican-Party-USA
+3901	3911	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+3998	4006	Bidnovih	Biden	PER	PER-Joe-Biden
+4172	4184	Wall Streeta	Wall Street	LOC	LOC-Wall-Street

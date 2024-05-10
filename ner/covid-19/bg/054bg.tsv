@@ -1,0 +1,26 @@
+2	10	България	България	LOC	GPE-Bulgaria
+28	42	Великобритания	Великобритания	LOC	GPE-Great-Britain
+92	94	ЕС	ЕС	ORG	ORG-European-Union
+99	107	България	България	LOC	GPE-Bulgaria
+130	144	Великобритания	Великобритания	LOC	GPE-Great-Britain
+170	182	коронавируса	коронавирус	EVT	EVT-Covid-19
+219	237	български граждани	български граждани	PER	GPE-Bulgaria
+314	316	ЕС	ЕС	ORG	ORG-European-Union
+369	385	Костадин Ананиев	Костадин Ангелов	PER	PER-Kostadin-Angelov
+479	487	България	България	LOC	GPE-Bulgaria
+583	597	Великобритания	Великобритания	LOC	GPE-Great-Britain
+717	725	България	България	LOC	GPE-Bulgaria
+757	771	Великобритания	Великобритания	LOC	GPE-Great-Britain
+915	933	Република България	Република България	LOC	GPE-Bulgaria
+957	965	България	България	LOC	GPE-Bulgaria
+1139	1151	коронавируса	коронавирус	EVT	EVT-Covid-19
+1195	1209	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1293	1303	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1441	1449	България	България	LOC	GPE-Bulgaria
+1485	1492	Ангелов	Ангелов	PER	PER-Kostadin-Angelov
+1550	1564	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1578	1586	Германия	Германия	LOC	GPE-Germany
+1588	1599	Нидерландия	Нидерландия	LOC	GPE-The-Netherlands
+1601	1607	Белгия	Белгия	LOC	GPE-Belgium
+1610	1617	Франция	Франция	LOC	GPE-France
+1656	1658	ЕС	ЕС	ORG	ORG-European-Union

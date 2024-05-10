@@ -1,0 +1,20 @@
+11	18	Байдена	Байден	PER	PER-Joe-Biden
+77	86	Сенат США	Сенат США	ORG	ORG-United-States-Senate
+135	138	США	США	LOC	GPE-USA
+139	154	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+228	239	Білого дому	Білий дім	ORG	ORG-White-House
+240	260	Джен Дженніфер Псакі	Джен Дженніфер Псакі	PER	PER-Jen-Psaki
+270	279	Інтерфакс	Інтерфакс	PRO	PRO-Interfax
+285	290	Сенат	Сенат	ORG	ORG-United-States-Senate
+468	479	Інавгурація	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+480	491	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+529	539	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+598	604	Трампу	Трамп	PER	PER-Donald-Trump
+605	611	Сенату	Сенат	ORG	ORG-United-States-Senate
+659	672	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+709	712	США	США	LOC	GPE-USA
+752	772	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+773	781	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+783	789	Трампа	Трамп	PER	PER-Donald-Trump
+886	895	Капітолій	Капітолій	LOC	LOC-United-States-Capitol
+934	941	Байдена	Байден	PER	PER-Joe-Biden

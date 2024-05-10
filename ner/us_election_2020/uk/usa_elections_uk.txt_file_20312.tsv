@@ -1,0 +1,32 @@
+5	12	Байдена	Байден	PER	PER-Joe-Biden
+23	29	Трампу	Трамп	PER	PER-Donald-Trump
+54	65	Білого дому	Білий дім	ORG	ORG-White-House
+137	140	США	США	LOC	GPE-USA
+141	154	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+180	187	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+203	214	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+229	235	Трампа	Трамп	PER	PER-Donald-Trump
+267	278	Білого дому	Білий дім	ORG	ORG-White-House
+309	316	Байдена	Байден	PER	PER-Joe-Biden
+317	328	Ендрю Бейтс	Ендрю Бейтс	PER	PER-Andrew-Bates
+342	360	Європейська правда	Європейська правда	ORG	PRO-European-Truth
+378	381	CNN	CNN	ORG	ORG-CNN
+417	424	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+469	486	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+523	534	Білого дому	Білий дім	ORG	ORG-White-House
+546	551	Бейтс	Бейтс	PER	PER-Andrew-Bates
+614	619	Бейтс	Бейтс	PER	PER-Andrew-Bates
+666	671	Трамп	Трамп	PER	PER-Donald-Trump
+706	712	Байден	Байден	PER	PER-Joe-Biden
+747	750	США	США	LOC	GPE-USA
+815	820	Трамп	Трамп	PER	PER-Donald-Trump
+834	841	Байдену	Байден	PER	PER-Joe-Biden
+896	903	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+925	931	Байден	Байден	PER	PER-Joe-Biden
+950	958	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+977	989	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+1025	1032	Байдену	Байден	PER	PER-Joe-Biden
+1043	1065	виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+1076	1081	Трамп	Трамп	PER	PER-Donald-Trump
+1105	1113	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1116	1128	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania

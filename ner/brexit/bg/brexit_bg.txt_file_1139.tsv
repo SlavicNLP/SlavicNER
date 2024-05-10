@@ -1,0 +1,72 @@
+55	61	Лондон	Лондон	LOC	GPE-London
+79	95	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+214	227	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+289	296	Брекзит	Брекзит	EVT	EVT-Brexit
+311	323	The Guardian	The Guardian	PRO	PRO-The-Guardian
+345	365	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+422	424	ЕС	ЕС	ORG	ORG-European-Union
+452	466	Великобритания	Великобритания	LOC	GPE-Great-Britain
+700	702	ЕС	ЕС	ORG	ORG-European-Union
+1025	1032	Джонсън	Джонсън	PER	PER-Boris-Johnson
+1086	1094	Норвегия	Норвегия	LOC	GPE-Norway
+1117	1131	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1270	1283	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+1326	1338	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+1360	1369	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+1415	1417	ЕС	ЕС	ORG	ORG-European-Union
+1419	1425	Лондон	Лондон	LOC	GPE-London
+1452	1459	Брекзит	Брекзит	EVT	EVT-Brexit
+1460	1476	Джейкъб Рийс-Мог	Джейкъб Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+1541	1551	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1644	1659	The Independent	The Independent	PRO	PRO-The-Independent
+1660	1668	Рийс-Мог	Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+1699	1711	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+1744	1753	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+1783	1796	Рут Дейвидсън	Рут Дейвидсън	PER	PER-Ruth-Davidson
+2038	2046	Рийс-Мог	Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+2080	2090	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2135	2142	Брекзит	Брекзит	EVT	EVT-Brexit
+2275	2288	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+2328	2336	Рийс-Мог	Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+2427	2437	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2500	2514	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+2607	2614	Брекзит	Брекзит	EVT	EVT-Brexit
+2671	2687	Джейкъб Рийс-Мог	Джейкъб Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+2803	2809	Лондон	Лондон	LOC	GPE-London
+2838	2852	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2853	2865	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+2932	2939	Франция	Франция	LOC	GPE-France
+2969	2975	Лондон	Лондон	LOC	GPE-London
+2996	3012	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+3038	3051	Daily Express	Daily Express	PRO	PRO-Daily-Express
+3066	3072	Швеция	Швеция	LOC	GPE-Sweden
+3074	3082	Холандия	Холандия	LOC	GPE-Holland
+3084	3091	Испания	Испания	LOC	GPE-Spain
+3094	3104	Португалия	Португалия	LOC	GPE-Portugal
+3114	3122	Норвегия	Норвегия	LOC	GPE-Norway
+3157	3159	ЕС	ЕС	ORG	ORG-European-Union
+3228	3235	Брекзит	Брекзит	EVT	EVT-Brexit
+3274	3281	Франция	Франция	LOC	GPE-France
+3332	3334	ЕС	ЕС	ORG	ORG-European-Union
+3336	3343	Франция	Франция	LOC	GPE-France
+3381	3397	Лондонското Сити	Лондонското Сити	LOC	LOC-City-of-London
+3403	3411	Брекзити	Брекзит	EVT	EVT-Brexit
+3426	3431	Париж	Париж	LOC	GPE-Paris
+3466	3472	Лондон	Лондон	LOC	GPE-London
+3566	3573	Франция	Франция	LOC	GPE-France
+3574	3588	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+3616	3621	Париж	Париж	LOC	GPE-Paris
+3623	3630	Франция	Франция	LOC	GPE-France
+3672	3679	Брекзит	Брекзит	EVT	EVT-Brexit
+3775	3787	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+3821	3823	ЕС	ЕС	ORG	ORG-European-Union
+3825	3839	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3905	3912	Брекзит	Брекзит	EVT	EVT-Brexit
+3913	3926	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+3974	3980	Хамънд	Хамънд	PER	PER-Philip-Hammond
+3994	4000	Дейвис	Дейвис	PER	PER-David-Davis
+4003	4009	Хамънд	Хамънд	PER	PER-Philip-Hammond
+4088	4099	европейците	европейци	PER	LOC-Europe
+4154	4161	Брекзит	Брекзит	EVT	EVT-Brexit
+4201	4207	Лондон	Лондон	LOC	GPE-London
+4347	4376	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

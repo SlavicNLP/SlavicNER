@@ -1,0 +1,51 @@
+2	7	Росії	Росія	LOC	GPE-Russia
+43	49	Pfizer	Pfizer	ORG	ORG-Pfizer
+52	60	BioNTech	BioNTech	ORG	ORG-BioNTech
+146	152	Москві	Москва	LOC	GPE-Moscow
+185	191	Pfizer	Pfizer	ORG	ORG-Pfizer
+245	250	Росії	Росія	LOC	GPE-Russia
+292	304	коронавірусу	коронавірус	EVT	EVT-Covid-19
+309	315	Pfizer	Pfizer	ORG	ORG-Pfizer
+318	326	BioNTech	BioNTech	ORG	ORG-BioNTech
+378	393	Росздравнадзорі	Росздравнадзор	ORG	ORG-Russian-Federal-Service-for-Surveillance-in-Healthcare
+499	507	Сколково	Сколково	ORG	ORG-Skolkovo
+552	599	Російська служба з нагляду за охороною здоров'я	Російська служба з нагляду за охороною здоров'я	ORG	ORG-Russian-Federal-Service-for-Surveillance-in-Healthcare
+611	616	Росію	Росія	LOC	GPE-Russia
+719	727	Hadassah	Hadassah	ORG	ORG-Hadassah-Hospital
+730	736	Москві	Москва	LOC	GPE-Moscow
+799	805	Pfizer	Pfizer	ORG	ORG-Pfizer
+833	836	РБК	РБК	PRO	PRO-RBK
+880	888	Сколково	Сколково	ORG	ORG-Skolkovo
+984	989	Росії	Росія	LOC	GPE-Russia
+1019	1023	ОЕСР	ОЕСР	ORG	ORG-Organization-for-Economic-Co-operation-and-Development(OECD)
+1027	1035	Hadassah	Hadassah	ORG	ORG-Hadassah-Hospital
+1166	1173	Ізраїлю	Ізраїль	LOC	GPE-Israel
+1174	1190	Йоель Едельштейн	Йоель Едельштейн	PER	PER-Yuli-Edelstein
+1202	1209	України	Україна	LOC	GPE-Ukraine
+1210	1223	Денис Шмигаль	Денис Шмигаль	PER	PER-Denys-Shmyhal
+1247	1257	Бродського	Бродський	PER	PER-Mykhailo-Brodskyi
+1344	1351	Україну	Україна	LOC	GPE-Ukraine
+1475	1484	Палестини	Палестина	LOC	GPE-Palestine
+1677	1692	Держави Ізраїль	Держава Ізраїль	LOC	GPE-Israel
+1755	1762	Україну	Україна	LOC	GPE-Ukraine
+1790	1803	Роман Голдман	Роман Голдман	PER	PER-Roman-Goldman
+1835	1844	Бродський	Бродський	PER	PER-Mykhailo-Brodskyi
+1860	1867	Ізраїлю	Ізраїль	LOC	GPE-Israel
+1904	1912	Голдману	Голдман	PER	PER-Roman-Goldman
+1961	1968	Україну	Україна	LOC	GPE-Ukraine
+1992	1999	Голдман	Голдман	PER	PER-Roman-Goldman
+2010	2017	Україні	Україна	LOC	GPE-Ukraine
+2065	2072	Ізраїль	Ізраїль	LOC	GPE-Israel
+2082	2086	YNet	YNet	PRO	PRO-YNet
+2113	2122	Голдамана	Голдаман	PER	PER-Roman-Goldman
+2184	2187	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+2188	2195	Ізраїлю	Ізраїль	LOC	GPE-Israel
+2310	2316	Pfizer	Pfizer	ORG	ORG-Pfizer
+2317	2325	BioNTech	BioNTech	ORG	ORG-BioNTech
+2699	2706	Україну	Україна	LOC	GPE-Ukraine
+2809	2818	Бродський	Бродський	PER	PER-Mykhailo-Brodskyi
+2852	2858	Pfizer	Pfizer	ORG	ORG-Pfizer
+2859	2867	BioNTech	BioNTech	ORG	ORG-BioNTech
+2885	2892	Україну	Україна	LOC	GPE-Ukraine
+2908	2919	Новим роком	Новий рік	EVT	EVT-New-Year
+2955	2979	Залу офіційних делегацій	Зал офіційних делегацій	LOC	LOC-Official-Delegations-Hall

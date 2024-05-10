@@ -1,0 +1,54 @@
+0	9	Austriacy	Austriacy	PER	GPE-Austria
+26	38	Dziadek Mróz	Dziadek Mróz	PER	PER-Ded-Moroz
+46	59	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+61	64	OMV	OMV	ORG	ORG-OMV
+150	159	Gazpromem	Gazprom	ORG	ORG-Gazprom
+268	277	Austriacy	Austriacy	PER	GPE-Austria
+305	318	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+322	328	Europa	Europa	LOC	LOC-Europe
+481	486	Rosji	Rosja	LOC	GPE-Russia
+562	570	Norwegii	Norwegia	LOC	GPE-Norway
+639	658	Aleksiejem Millerem	Aleksiej Miller	PER	PER-Aleksey-Miller
+667	675	Gazpromu	Gazprom	ORG	ORG-Gazprom
+739	743	TASS	TASS	ORG	ORG-TASS-Agency
+752	755	OMV	OMV	ORG	ORG-OMV
+757	769	Reiner Seele	Reiner Seele	PER	PER-Rainer-Seele
+799	802	OMV	OMV	ORG	ORG-OMV
+854	862	Gazpromu	Gazprom	ORG	ORG-Gazprom
+935	940	Akfel	Akfel	ORG	ORG-Akfel
+942	947	Kibar	Kibar	ORG	ORG-Kibar
+950	959	Bosphorus	Bosphorus	ORG	ORG-Bosphorus
+1009	1017	Gazpromu	Gazprom	ORG	ORG-Gazprom
+1020	1037	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1067	1075	Uniperem	Uniper	ORG	ORG-Uniper
+1086	1089	Eni	Eni	ORG	ORG-Eni
+1217	1223	Europa	Europa	LOC	LOC-Europe
+1334	1346	Dziadek Mróz	Dziadek Mróz	PER	PER-Ded-Moroz
+1453	1461	Aleksiej	Aleksiej	PER	PER-Aleksey-Miller
+1499	1506	Syberii	Syberia	LOC	LOC-Siberia
+1518	1523	Seele	Seele	PER	PER-Rainer-Seele
+1625	1632	Europie	Europa	LOC	LOC-Europe
+1701	1706	Seele	Seele	PER	PER-Rainer-Seele
+1816	1820	TASS	TASS	ORG	ORG-TASS-Agency
+1861	1874	Nord Stream 3	Nord Stream 3	PRO	PRO-Nord-Stream-3
+1929	1942	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2106	2112	Europy	Europa	LOC	LOC-Europe
+2127	2132	Seele	Seele	PER	PER-Rainer-Seele
+2168	2181	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2200	2203	OMV	OMV	ORG	ORG-OMV
+2228	2236	Gazpromu	Gazprom	ORG	ORG-Gazprom
+2282	2287	Seele	Seele	PER	PER-Rainer-Seele
+2323	2336	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2450	2458	Austriak	Austriak	PER	GPE-Austria
+2500	2506	Polskę	Polska	LOC	GPE-Poland
+2527	2535	Warszawy	Warszawa	LOC	GPE-Warsaw
+2648	2653	Rosję	Rosja	LOC	GPE-Russia
+2688	2702	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+2769	2775	Polskę	Polska	LOC	GPE-Poland
+2899	2912	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+3052	3059	Ukrainę	Ukraina	LOC	GPE-Ukraine
+3307	3311	TASS	TASS	ORG	ORG-TASS-Agency
+3375	3378	OMV	OMV	ORG	ORG-OMV
+3381	3388	Gazprom	Gazprom	ORG	ORG-Gazprom
+3665	3669	TASS	TASS	ORG	ORG-TASS-Agency
+3670	3685	Piotr Stępiński	Piotr Stępiński	PER	PER-Piotr-Stępiński

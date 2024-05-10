@@ -1,0 +1,27 @@
+5	11	brexit	brexit	EVT	EVT-Brexit
+12	18	Londýn	Londýn	LOC	GPE-London
+60	66	Evropu	Evropa	LOC	LOC-Europe
+119	121	EU	EU	ORG	ORG-European-Union
+147	153	Londýn	Londýn	LOC	GPE-London
+178	185	Britové	Britové	PER	GPE-Great-Britain
+263	271	Pacifiku	Pacifik	LOC	LOC-Pacific-Ocean
+324	342	Spojené království	Spojené království	LOC	GPE-Great-Britain
+352	366	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+369	383	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+442	456	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+481	487	Londýn	Londýn	LOC	GPE-London
+523	530	brexitu	brexit	EVT	EVT-Brexit
+584	597	konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+599	607	Británie	Británie	LOC	GPE-Great-Britain
+646	648	EU	EU	ORG	ORG-European-Union
+710	717	Britové	Britové	PER	GPE-Great-Britain
+761	763	EU	EU	ORG	ORG-European-Union
+807	833	Transpacifické partnerství	Transpacifické partnerství	ORG	ORG-TPP-Trans-Pacific-Partnership
+835	838	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+871	879	Japonska	Japonsko	LOC	GPE-Japan
+881	890	Austrálie	Austrálie	LOC	GPE-Australia
+896	902	Mexika	Mexiko	LOC	GPE-Mexico
+927	940	Spojené státy	Spojené státy	LOC	GPE-USA
+961	973	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1004	1022	Spojené království	Spojené království	LOC	GPE-Great-Britain
+1089	1106	pacifickou oblast	pacifická oblast	LOC	LOC-Pacific-Ocean-Region

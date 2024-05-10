@@ -1,0 +1,27 @@
+37	47	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+87	98	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+127	150	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+151	161	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+252	264	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+311	322	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+367	386	Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+428	434	Байдън	Байдън	PER	PER-Joe-Biden
+652	655	САЩ	САЩ	LOC	GPE-USA
+763	772	Белия дом	Белия дом	LOC	LOC-White-House
+776	781	Тръмп	Тръмп	PER	PER-Donald-Trump
+1009	1018	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1019	1033	Катлийн Търнър	Катлийн Търнър	PER	PER-Kathleen-Turner
+1054	1060	Байдън	Байдън	PER	PER-Joe-Biden
+1082	1090	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1153	1159	Байдън	Байдън	PER	PER-Joe-Biden
+1216	1221	Тръмп	Тръмп	PER	PER-Donald-Trump
+1279	1288	демократа	демократ	PER	ORG-Democratic-Party-USA
+1409	1412	САЩ	САЩ	LOC	GPE-USA
+1456	1467	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1468	1477	Пат Тоуми	Пат Тоуми	PER	PER-Pat-Toomey
+1542	1547	Тръмп	Тръмп	PER	PER-Donald-Trump
+1673	1678	Тоуми	Тоуми	PER	PER-Pat-Toomey
+1684	1687	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+1822	1831	Белия дом	Белия дом	LOC	LOC-White-House
+1832	1837	Тръмп	Тръмп	PER	PER-Donald-Trump
+2106	2115	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP

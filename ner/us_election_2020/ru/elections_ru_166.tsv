@@ -1,0 +1,123 @@
+48	51	США	США	LOC	GPE-USA
+54	62	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+130	144	Биллу Клинтону	Билл Клинтон	PER	PER-Bill-Clinton
+145	158	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+212	215	США	США	LOC	GPE-USA
+218	226	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+294	308	Биллу Клинтону	Билл Клинтон	PER	PER-Bill-Clinton
+309	322	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+572	581	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+598	620	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+671	685	Билла Клинтона	Бил Клинтон	PER	PER-Bill-Clinton
+750	761	демократами	демократ	ORG	ORG-Democratic-Party-USA
+764	770	Сенате	Сенат	ORG	ORG-United-States-Senate
+772	785	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+941	949	конгресс	конгресс	ORG	ORG-United-States-Congress
+971	977	сената	сенат	ORG	ORG-United-States-Senate
+1010	1031	палаты представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+1050	1063	американскими	американский	LOC	GPE-USA
+1127	1141	верхней палате	верхняя палата	ORG	ORG-United-States-Senate
+1188	1194	нижней	нижняя	ORG	ORG-United-States-House-of-Representatives
+1274	1287	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+1370	1380	демократов	демократ	ORG	ORG-Democratic-Party-USA
+1575	1583	Клинтона	Клинтон	PER	PER-Hillary-Clinton
+1634	1656	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+1759	1772	Альберта Гора	Альберт Гор	PER	PER-Al-Gore
+1783	1791	Клинтона	Клинтон	PER	PER-Bill-Clinton
+1792	1798	Хилари	Хилари	PER	PER-Hillary-Clinton
+1927	1937	демократам	демократ	ORG	ORG-Democratic-Party-USA
+2038	2052	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+2252	2263	американцев	американец	LOC	GPE-USA
+2273	2282	демократы	демократ	ORG	ORG-Democratic-Party-USA
+2316	2329	Республиканцы	Республиканец	ORG	ORG-Republican-Party-USA
+2425	2433	Клинтона	Клинтон	PER	PER-Hillary-Clinton
+2584	2593	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+2625	2631	Сенате	Сенат	ORG	ORG-United-States-Senate
+2677	2698	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2699	2712	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+2761	2771	демократов	демократ	ORG	ORG-Democratic-Party-USA
+2991	2994	США	США	LOC	GPE-USA
+3079	3084	Техас	Техас	LOC	GPE-Texas
+3087	3094	Флорида	Флорида	LOC	GPE-Florida
+3122	3125	США	США	LOC	GPE-USA
+3126	3138	Джорджа Буша	Джордж Буша	PER	PER-George-Bush-Jr
+3141	3162	Джорджа Буша-младшего	Джордж Буш-младший	PER	PER-George-Bush-Jr
+3165	3175	Джэба Буша	Джэб Буш	PER	PER-Jeb-Bush
+3206	3224	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+3293	3298	Бушей	Буш	PER	PER-The-Bush-Family
+3333	3344	Рокфеллерам	Рокфеллер	PER	PER-Rockfeller-Family
+3347	3355	Нельсону	Нельсон	PER	PER-Nelson-Rockfeller
+3358	3366	Уинтропу	Уинтроп	PER	PER-Winthrop-Rockefeller
+3411	3419	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+3422	3430	Арканзас	Арканзас	LOC	GPE-Arkansas
+3582	3594	Джорджа Буша	Джордж Буша	PER	PER-George-Bush-Jr
+3615	3621	Техаса	Техас	LOC	GPE-Texas
+3666	3697	президентских выборах 2000 года	президентские выборы 2020 года	EVT	EVT-2000-United-States-Presidential-Election
+3713	3721	Джэб Буш	Джэб Буш	PER	PER-Jeb-Bush
+3831	3847	демократического	демократический	ORG	ORG-Democratic-Party-USA
+3931	3945	республиканцам	республиканцы	ORG	ORG-Republican-Party-USA
+4147	4159	американский	американский	LOC	GPE-USA
+4165	4175	Калифорния	Калифорния	LOC	GPE-California
+4243	4257	республиканцем	республиканец	ORG	ORG-Republican-Party-USA
+4258	4274	Дэном Лундгреном	Дэн Лундгрен	PER	PER-Dan-Lundgren
+4306	4314	демократ	демократ	ORG	ORG-Democratic-Party-USA
+4315	4325	Грей Дэвис	Грей Дэвис	PER	PER-Gray-Davis
+4342	4357	демократическим	демократический	ORG	ORG-Democratic-Party-USA
+4371	4381	Калифорнии	Калифорния	LOC	GPE-California
+4493	4507	республиканцам	республиканец	ORG	ORG-Republican-Party-USA
+4547	4556	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+4557	4570	Джордж Патаки	Джордж Патаки	PER	PER-George-Pataki
+4591	4603	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+4604	4612	Том Ридж	Том Ридж	PER	PER-Thomas-Joseph-Ridge
+4684	4692	Теннесси	Теннесси	LOC	GPE-Tennessee
+4693	4706	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+4707	4720	Дон Сандкуист	Дон Сандкуист	PER	PER-Don-Sundquist
+4751	4763	Южной Дакоты	Южная Дакота	LOC	GPE-South-Dakota-US-State
+4787	4798	Билл Янклоу	Билл Янклоу	PER	PER-Bill-Janklow
+4800	4813	Республиканцы	Республиканец	ORG	ORG-Republican-Party-USA
+4855	4864	Вайоминге	Вайоминг	LOC	GPE-Wyoming
+4866	4873	Аризоне	Аризона	LOC	GPE-Arizona
+4875	4885	Висконсине	Висконсин	LOC	GPE-Wisconsin
+4887	4893	Айдахо	Айдахо	LOC	GPE-Idaho
+4895	4906	Род-Айленде	Род-Айленд	LOC	GPE-Rhode-Island
+4908	4920	Коннектикуте	Коннектикут	LOC	GPE-Connecticut
+4922	4933	Нью-Мексико	Нью-Мексико	LOC	GPE-New-Mexico
+4935	4940	Огайо	Огайо	LOC	GPE-Ohio
+4944	4954	Демократам	Демократ	ORG	ORG-Democratic-Party-USA
+5010	5017	Алабаме	Алабама	LOC	GPE-USA-Alabama
+5019	5027	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+5029	5038	Мэриленде	Мэриленд	LOC	GPE-Maryland
+5041	5055	Южной Каролине	Южная Каролина	LOC	GPE-South-Carolina-US-State
+5079	5090	Джим Ходжес	Джим Ходжес	PER	PER-Jim-Hodges
+5103	5118	демократическим	демократический	ORG	ORG-Democratic-Party-USA
+5159	5216	Американское информационное агентство «Ассошиэйтед Пресс»	Американское информационное агентство «Ассошиэйтед Пресс»	ORG	ORG-AP-The-Associated-Press
+5415	5424	демократы	демократ	ORG	ORG-Democratic-Party-USA
+5550	5565	демократической	демократический	ORG	ORG-Democratic-Party-USA
+5589	5603	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+5863	5877	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+6066	6081	демократическую	демократический	ORG	ORG-Democratic-Party-USA
+6175	6189	республиканцам	республиканец	ORG	ORG-Republican-Party-USA
+6336	6347	демократами	демократ	ORG	ORG-Democratic-Party-USA
+6352	6367	республиканцами	республиканец	ORG	ORG-Republican-Party-USA
+6569	6583	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+6676	6691	Моники Левински	Моника Левински	PER	PER-Monica-Lewinsky
+6730	6744	Билла Клинтона	Билл Клинтон	PER	PER-Bill-Clinton
+6840	6853	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+6856	6865	конгрессе	конгресс	ORG	ORG-United-States-Congress
+6971	6979	Клинтона	Клинтон	PER	PER-Hillary-Clinton
+7000	7003	США	США	LOC	GPE-USA
+7134	7146	американским	американский	LOC	GPE-USA
+7147	7157	демократам	демократ	ORG	ORG-Democratic-Party-USA
+7426	7439	Конгрессе США	Конгресс США	ORG	ORG-United-States-Congress
+7488	7494	Сенате	Сенат	ORG	ORG-United-States-Senate
+7567	7581	Билла Клинтона	Билл Клинтон	PER	PER-Bill-Clinton
+7803	7811	Telegram	Telegram	PRO	PRO-Telegram
+8419	8426	Украины	Украина	LOC	GPE-Ukraine
+8588	8595	Украина	Украина	LOC	GPE-Ukraine
+8668	8675	Украина	Украина	LOC	GPE-Ukraine
+8710	8719	китайских	китайский	LOC	GPE-China
+8731	8742	«Мотор Січ»	«Мотор Січ»	ORG	ORG-Motor-Sych
+9629	9636	«ZN.UA»	«ZN.UA»	ORG	ORG-ZN-UA
+9671	9678	«ZN.UA»	«ZN.UA»	ORG	ORG-ZN-UA
+9873	9892	«Интерфакс-Украина»	"""Интерфакс-Украина"""	ORG	ORG-Interfax-Ukraine
+10017	10036	«Интерфакс-Украина»	"""Интерфакс-Украина"""	ORG	ORG-Interfax-Ukraine

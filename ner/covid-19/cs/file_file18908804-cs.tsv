@@ -1,0 +1,15 @@
+26	33	Německo	Německo	LOC	GPE-Germany
+69	76	Německo	Německo	LOC	GPE-Germany
+105	114	Merkelové	Merkelová	PER	PER-Angela-Merkel
+318	325	Německu	Německo	LOC	GPE-Germany
+403	425	Bádenska-Württemberska	Bádensko-Württembersko	LOC	GPE-Baden-Württemberg
+622	629	Německo	Německo	LOC	GPE-Germany
+663	672	covidu-19	covid-19	EVT	EVT-Covid-19
+707	729	Institut Roberta Kocha	Institut Roberta Kocha	ORG	ORG-Robert-Koch-Institute
+731	734	RKI	RKI	ORG	ORG-Robert-Koch-Institute
+776	786	covidem-19	covid-19	EVT	EVT-Covid-19
+857	864	Německu	Německo	LOC	GPE-Germany
+929	951	koronavirem SARS-CoV-2	koronavirus SARS-CoV-2	EVT	EVT-Covid-19
+1080	1095	Steffen Seibert	Steffen Seibert	PER	PER-Steffen-Seibert
+1262	1272	koronaviru	koronavirus	EVT	EVT-Covid-19
+1287	1295	Seiberta	Seibert	PER	PER-Steffen-Seibert

@@ -1,0 +1,20 @@
+7	18	londyńczycy	londyńczycy	PER	GPE-London
+107	114	Londynu	Londyn	LOC	GPE-London
+229	235	brexit	Brexit	EVT	EVT-Brexit
+257	270	Europejczyków	Europejczycy	PER	LOC-Europe
+426	431	Lagos	Lagos	LOC	GPE-Lagos
+434	442	Istambuł	Istambuł	LOC	GPE-Istanbul
+525	555	Global Wealth Migration Review	Global Wealth Migration Review	PRO	PRO-Global-Wealth-Migration-Review
+616	631	Wielka Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+647	652	Wyspy	Wyspy	LOC	GPE-Great-Britain
+725	740	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1124	1132	Auckland	Auckland	LOC	GPE-Auckland
+1134	1139	Dubaj	Dubaj	LOC	GPE-Dubai
+1141	1149	Montreal	Montreal	LOC	GPE-Montreal
+1151	1160	Nowy Jork	Nowy Jork	LOC	GPE-New-York
+1162	1170	Tel Aviv	Tel Aviv	LOC	GPE-Tel-Aviv
+1173	1180	Toronto	Toronto	LOC	GPE-Toronto
+1212	1216	Chin	Chiny	LOC	GPE-China
+1221	1226	Indii	Indie	LOC	GPE-India
+1303	1323	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1326	1332	Kanady	Kanada	LOC	GPE-Canada

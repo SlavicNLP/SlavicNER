@@ -1,0 +1,25 @@
+0	5	Rusko	Rusko	LOC	GPE-Russia
+55	59	Číně	Čína	LOC	GPE-China
+62	73	Síla Sibiře	Síla Sibiře	PRO	PRO-Power-of-Siberia-gas-pipeline
+128	132	Čína	Čína	LOC	GPE-China
+168	175	Gazprom	Gazprom	ORG	ORG-Gazprom
+225	232	Gazprom	Gazprom	ORG	ORG-Gazprom
+434	440	Evropy	Evropa	LOC	LOC-Europe
+453	457	Asie	Asie	LOC	LOC-Asia
+517	523	Bajkal	Bajkal	LOC	LOC-Lake-Baikal
+688	699	Síla Sibiře	Síla Sibiře	PRO	PRO-Power-of-Siberia-gas-pipeline
+752	759	Gazprom	Gazprom	ORG	ORG-Gazprom
+959	972	Čajandinskoje	Čajandinskoje	LOC	LOC-Chayanda-field
+991	997	Bajkal	Bajkal	LOC	LOC-Lake-Baikal
+1007	1019	Blagovešensk	Blagovešensk	LOC	LOC-Blagoveshchensk
+1047	1053	Moskvy	Moskva	LOC	GPE-Moscow
+1074	1079	Čínou	Čína	LOC	GPE-China
+1258	1266	Gazpromu	Gazprom	ORG	ORG-Gazprom
+1281	1287	Evropě	Evropa	LOC	LOC-Europe
+1330	1332	EU	EU	ORG	ORG-European-Union
+1352	1363	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+1364	1370	Brusel	Brusel	LOC	GPE-Brussles
+1424	1437	Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+1439	1441	EU	EU	ORG	ORG-European-Union
+1599	1607	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+1611	1617	Evropy	Evropa	LOC	LOC-Europe

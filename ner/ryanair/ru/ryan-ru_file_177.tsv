@@ -1,0 +1,13 @@
+2	8	Италии	Италия	LOC	GPE-Italy
+131	135	АНСА	АНСА	ORG	ORG-Ansa
+375	379	Рима	Рим	LOC	GPE-Rome
+381	387	Милана	Милан	LOC	GPE-Milan
+389	396	Неаполя	Неаполь	LOC	GPE-Napoli
+398	405	Венеции	Венеция	LOC	GPE-Venezia
+408	415	Болоньи	Болонья	LOC	GPE-Bologna
+451	459	Alitalia	Alitalia	ORG	ORG-Alitalia
+533	540	Ryanair	Ryanair	ORG	ORG-Ryanair
+542	549	easyJet	easyJet	ORG	ORG-EasyJet
+552	567	British Airways	British Airways	ORG	ORG-British-Airways
+581	620	ситуационно-кризисный центр МИДа России	ситуационно-кризисный центр МИДа России	ORG	ORG-Situation-and-Crisis-Center-of-the-Ministry-of-Foreign-Affairs-Russia
+660	668	Аэрофлот	Аэрофлот	ORG	ORG-Aeroflot

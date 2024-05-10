@@ -1,0 +1,65 @@
+11	16	Adrie	Adria	ORG	ORG-Adria-Airways
+29	38	Lufthanse	Lufthansa	ORG	ORG-Lufthansa
+48	57	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+246	252	Brnika	Brnik	LOC	LOC-Ljubljana-Jože-Pučnik-Airport
+378	396	Airport-technology	Airport-technology	PRO	PRO-Airport-technology
+543	558	Lufthansa Group	Lufthansa Group	ORG	ORG-Lufthansa
+701	710	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+900	909	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+931	939	Regional	Regional	ORG	ORG-Lufthansa-Regional
+1060	1069	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+1124	1153	Swiss international Air Lines	Swiss international Air Lines	ORG	ORG-Swiss-International-Air-Lines
+1155	1172	Austrian Airlines	Austrian Airlines	ORG	ORG-Austrian-Airlines
+1174	1191	Brussels Airlines	Brussels Airlines	ORG	ORG-Brussels-Airlines
+1196	1205	Eurowings	Eurowings	ORG	ORG-Eurowings
+1216	1225	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+1300	1313	Adrie Airways	Adria Airways	ORG	ORG-Adria-Airways
+1389	1398	Ljubljane	Ljubljana	LOC	GPE-Ljubljana
+1401	1408	Bruselj	Bruselj	LOC	GPE-Brussles
+1443	1452	Ljubljano	Ljubljana	LOC	GPE-Ljubljana
+1456	1467	Frankfurtom	Frankfurt	LOC	GPE-Frankfurt-am-Main
+1469	1477	Münchnom	München	LOC	GPE-Munich
+1482	1490	Zürichom	Zürich	LOC	GPE-Zürich
+1492	1501	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+1544	1557	Star Alliance	Star Alliance	ORG	ORG-Star-Alliance
+1816	1824	Swissair	Swissair	ORG	ORG-Swissair
+2113	2142	Swiss international Air Lines	Swiss international Air Lines	ORG	ORG-Swiss-International-Air-Lines
+2185	2194	Swissaira	Swissair	ORG	ORG-Swissair
+2223	2231	Crossair	Crossair	ORG	ORG-Crossair
+2308	2313	Swiss	Swiss	ORG	ORG-Swiss-International-Air-Lines
+2333	2342	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+2400	2407	Zürichu	Zürich	LOC	GPE-Zürich
+2411	2417	Ženevi	Ženeva	LOC	GPE-Geneva
+2744	2757	Adrii Airways	Adria Airways	ORG	ORG-Adria-Airways
+2945	2954	Slovenije	Slovenija	LOC	GPE-Slovenia
+3241	3270	Agencije za civilno letalstvo	Agencija za civilno letalstvo	ORG	ORG-CAA-Civil-Aviation-Agency-of-the-Republic-of-Slovenia
+3447	3463	Bombardier CS300	Bombardier CS300	PRO	PRO-Bombardier-CS300
+3478	3491	Airbusov A320	Airbus A320	PRO	PRO-Airbus-A320
+3515	3520	SWISS	SWISS	ORG	ORG-Swiss-International-Air-Lines
+3869	3884	Airbus A340-300	Airbus A340-300	PRO	PRO-Airbus-A340-300
+3902	3931	Swiss International Air Lines	Swiss International Air Lines	ORG	ORG-Swiss-International-Air-Lines
+3934	3941	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+4057	4064	Ryanair	Ryanair	ORG	ORG-Ryanair
+4238	4254	boeingov 737 max	boeing 737 max	PRO	PRO-Boeing-737-Max
+4272	4287	Michael O‘Leary	Michael O‘Leary	PER	PER-Michael-O'Leary
+4307	4314	Reuters	Reuters	ORG	ORG-Reuters
+4610	4617	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+4648	4656	Francija	Francija	LOC	GPE-France
+4660	4670	Nizozemska	Nizozemska	LOC	GPE-Holland
+4754	4764	Air France	Air France	ORG	ORG-Air-France
+4768	4771	KLM	KLM	ORG	ORG-KLM
+4773	4780	Nemčija	Nemčija	LOC	GPE-Germany
+5032	5038	Evropi	Evropa	LOC	LOC-Europe
+5081	5089	Ryanairu	Ryanair	ORG	ORG-Ryanair
+5339	5346	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+5409	5418	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+5494	5508	Združenje IATA	Združenje IATA	ORG	ORG-IATA-International-Air-Transport-Association
+5586	5594	Ryanaira	Ryanair	ORG	ORG-Ryanair
+6085	6092	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+6355	6366	Thomas Cook	Thomas Cook	ORG	ORG-Thomas-Cook-Airlines
+6421	6430	Lauda Air	Lauda Air	ORG	ORG-Lauda-Air
+6559	6572	Adrie Airways	Adria Airways	ORG	ORG-Adria-Airways
+6750	6759	Slovenija	Slovenija	LOC	GPE-Slovenia
+6868	6886	Fraportu Slovenija	Fraport Slovenija	ORG	ORG-Fraport-Slovenia
+6905	6910	Adrie	Adria	ORG	ORG-Adria-Airways
+6940	6949	Slovenije	Slovenija	LOC	GPE-Slovenia

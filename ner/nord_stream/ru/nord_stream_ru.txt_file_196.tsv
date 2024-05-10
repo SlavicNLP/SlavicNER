@@ -1,0 +1,30 @@
+1	9	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+33	41	Газпрома	Газпром	ORG	ORG-Gazprom
+44	67	Окружной суд Амстердама	Окружной суд Амстердама	ORG	ORG-Amsterdam-District-Court
+81	97	Натфогаз Украины	Натфогаз Украины	ORG	ORG-Naftogaz
+154	167	Голубой поток	Голубой поток	PRO	PRO-Blue-Stream
+170	202	Блю Стрим Пайплайн Компани Б. В.	Блю Стрим Пайплайн Компани Б. В.	ORG	ORG-Blue-Stream-Pipeline-Company-B.V.
+252	260	Газпрому	Газпром	ORG	ORG-Gazprom
+272	281	ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
+420	446	Блю Стрим Пайплайн Компани	Блю Стрим Пайплайн Компани	ORG	ORG-Blue-Stream-Pipeline-Company-B.V.
+464	472	Газпрому	Газпром	ORG	ORG-Gazprom
+512	537	Окружного суда Амстердама	Окружной суд Амстердама	ORG	ORG-Amsterdam-District-Court
+626	652	Блю Стрим Пайплайн Компани	Блю Стрим Пайплайн Компани	ORG	ORG-Blue-Stream-Pipeline-Company-B.V.
+661	670	Газпромом	Газпром	ORG	ORG-Gazprom
+684	710	Блю Стрим Пайплайн Компани	Блю Стрим Пайплайн Компани	ORG	ORG-Blue-Stream-Pipeline-Company-B.V.
+738	746	Газпрома	Газпром	ORG	ORG-Gazprom
+762	765	Eni	Eni	ORG	ORG-Eni
+838	851	Голубой поток	Голубой поток	PRO	PRO-Blue-Stream
+856	858	РФ	РФ	LOC	GPE-Russia
+861	867	Турцию	Турция	LOC	GPE-Turkey
+910	917	Молдовы	Молдова	LOC	GPE-Moldova
+1004	1011	Газпром	Газпром	ORG	ORG-Gazprom
+1108	1115	Молдовы	Молдова	LOC	GPE-Moldova
+1116	1130	Кирилл Габурич	Кирилл Габурич	PER	PER-Kirill-Gaburich
+1144	1153	ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
+1165	1171	России	Россия	LOC	GPE-Russia
+1172	1186	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1217	1232	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+1238	1244	Россия	Россия	LOC	GPE-Russia
+1285	1292	Украину	Украина	LOC	GPE-Ukraine
+1326	1342	Северный поток 2	Северный поток 2	PRO	PRO-Nord-Stream-2

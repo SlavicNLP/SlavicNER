@@ -1,0 +1,55 @@
+0	9	Slovenija	Slovenija	LOC	GPE-Slovenia
+45	52	Gazprom	Gazprom	ORG	ORG-Gazprom
+56	63	Geoplin	Geoplin	ORG	ORG-Geoplin
+120	129	Slovenija	Slovenija	LOC	GPE-Slovenia
+275	279	Ruse	Rusi	PER	GPE-Russia
+364	375	Borut Pahor	Borut Pahor	PER	PER-Borut-Pahor
+448	464	Vladmirja Putina	Vladimir Putin	PER	PER-Vladimir-Putin
+496	508	Karl Erjavec	Karl Erjavec	PER	PER-Karl-Erjavec
+616	623	Gazprom	Gazprom	ORG	ORG-Gazprom
+637	644	Geoplin	Geoplin	ORG	ORG-Geoplin
+710	719	Sloveniji	Slovenija	LOC	GPE-Slovenia
+873	885	gradu Strmol	grad Strmol	LOC	LOC-Strmol-Castle
+913	921	Geoplina	Geoplin	ORG	ORG-Geoplin
+922	936	Boštjan Napast	Boštjan Napast	PER	PER-Boštjan-Napast
+966	980	Gazprom Export	Gazprom Export	ORG	ORG-Gazprom
+981	998	Elena Burmistrova	Elena Burmistrova	PER	PER-Elena-Burmistrova
+1125	1132	Gazprom	Gazprom	ORG	ORG-Gazprom
+1136	1145	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1399	1405	Napast	Napast	PER	PER-Boštjan-Napast
+1421	1428	Pahorju	Pahor	PER	PER-Borut-Pahor
+1432	1439	Erjavcu	Erjavec	PER	PER-Karl-Erjavec
+1586	1593	Geoplin	Geoplin	ORG	ORG-Geoplin
+1597	1604	Gazprom	Gazprom	ORG	ORG-Gazprom
+1690	1697	Gazprom	Gazprom	ORG	ORG-Gazprom
+1715	1722	Geoplin	Geoplin	ORG	ORG-Geoplin
+1794	1802	Gazproma	Gazprom	ORG	ORG-Gazprom
+1803	1822	Aleksander Medvedev	Aleksander Medvedev	PER	PER-Alexander-Medvedev
+1825	1832	Erjavec	Erjavec	PER	PER-Karl-Erjavec
+1896	1902	Rusijo	Rusija	LOC	GPE-Russia
+1906	1913	Zahodom	Zahod	LOC	LOC-West
+2079	2086	Geoplin	Geoplin	ORG	ORG-Geoplin
+2154	2168	Denis Mancevič	Denis Mancevič	PER	PER-Denis-Mancevič
+2189	2215	Slovenske industrije jekla	Slovenska industrija jekla	ORG	ORG-Narodni-rada-Slovenske-republiky
+2361	2368	Gazprom	Gazprom	ORG	ORG-Gazprom
+2390	2396	Evropi	Evropa	LOC	LOC-Europe
+2555	2563	Gazproma	Gazprom	ORG	ORG-Gazprom
+2671	2679	Gazproma	Gazprom	ORG	ORG-Gazprom
+2752	2760	Mancevič	Mancevič	PER	PER-Denis-Mancevič
+2896	2902	Rusija	Rusija	LOC	GPE-Russia
+2935	2943	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+3008	3017	Slovenijo	Slovenija	LOC	GPE-Slovenia
+3047	3053	Rusije	Rusija	LOC	GPE-Russia
+3124	3132	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+3289	3297	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+3318	3324	Rusija	Rusija	LOC	GPE-Russia
+3360	3366	Rusija	Rusija	LOC	GPE-Russia
+3388	3401	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+3422	3429	Nemčija	Nemčija	LOC	GPE-Germany
+3467	3473	Nemške	nemški	LOC	GPE-Germany
+3575	3588	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+3635	3651	Severnega toka 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+3670	3684	Baltskem morju	Baltsko morje	LOC	LOC-Baltic-Sea
+3687	3693	Rusija	Rusija	LOC	GPE-Russia
+3715	3728	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+3749	3756	Nemčija	Nemčija	LOC	GPE-Germany

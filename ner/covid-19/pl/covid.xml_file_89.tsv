@@ -1,0 +1,21 @@
+5	8	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+74	83	Warszawie	Warszawa	LOC	GPE-Warsaw
+130	144	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+153	156	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+178	183	TVN24	TVN24	PRO	PRO-TVN24
+484	497	Kuczmierowski	Kuczmierowski	PER	PER-Michał-Kuczmierowski
+544	550	Polski	Polska	LOC	GPE-Poland
+577	580	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+929	955	Europejskiej Agencji Leków	Europejska Agencja Leków	ORG	ORG-EMA-European-Medicines-Agency
+1132	1152	Adama Niedzielskiego	Adam Niedzielski	PER	PER-Adam-Niedzielski
+1337	1340	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+1604	1610	Polsce	Polska	LOC	GPE-Poland
+1817	1830	Kuczmierowski	Kuczmierowski	PER	PER-Michał-Kuczmierowski
+2404	2407	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+2563	2570	Izraela	Izrael	LOC	GPE-Israel
+2713	2721	Świętami	Święta	EVT	EVT-Christmas
+2724	2736	Nowym Rokiem	Nowy Rok	EVT	EVT-New-Year
+2791	2804	Kuczmierowski	Kuczmierowski	PER	PER-Michał-Kuczmierowski
+3632	3635	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+3665	3671	Polsce	Polska	LOC	GPE-Poland
+3692	3700	COVID-19	COVID-19	EVT	EVT-Covid-19

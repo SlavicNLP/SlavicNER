@@ -1,0 +1,26 @@
+0	2	ЕК	ЕК	ORG	ORG-European-Commission
+43	45	ЕС	ЕС	ORG	ORG-European-Union
+73	81	COVID-19	COVID-19	EVT	EVT-Covid-19
+82	89	Брюксел	Брюксел	LOC	GPE-Brussles
+228	240	коронавируса	коронавирус	EVT	EVT-Covid-19
+254	276	Европейската комисията	Европейска комисия	ORG	ORG-European-Commission
+377	379	ЕС	ЕС	ORG	ORG-European-Union
+406	414	COVID-19	COVID-19	EVT	EVT-Covid-19
+496	505	Комисията	Комисия	ORG	ORG-European-Commission
+674	676	ЕК	ЕК	ORG	ORG-European-Commission
+679	696	Маргаритис Схинас	Маргаритис Схинас	PER	PER-Margaritis-Schinas
+723	725	ЕК	ЕК	ORG	ORG-European-Commission
+848	856	COVID-19	COVID-19	EVT	EVT-Covid-19
+1139	1141	ЕС	ЕС	ORG	ORG-European-Union
+1145	1160	Стела Кириaкиду	Стела Кириaкиду	PER	PER-Stella-Kyriakides
+1248	1258	пандемията	пандемия	EVT	EVT-Pandemic
+1262	1270	COVID-19	COVID-19	EVT	EVT-Covid-19
+2183	2185	ЕК	ЕК	ORG	ORG-European-Commission
+2327	2329	ЕС	ЕС	ORG	ORG-European-Union
+2544	2546	ЕС	ЕС	ORG	ORG-European-Union
+2941	2977	механизма на ЕС за гражданска защита	механизъм на ЕС за гражданска защита	PRO	PRO-EU-Civil-Protection-Mechanism
+3810	3812	ЕС	ЕС	ORG	ORG-European-Union
+3814	3823	Комисията	Комисия	ORG	ORG-European-Commission
+3904	3907	ООН	ООН	ORG	ORG-United-Nations
+3910	3913	СЗО	СЗО	ORG	ORG-WHO
+4040	4048	COVID-19	COVID-19	EVT	EVT-Covid-19

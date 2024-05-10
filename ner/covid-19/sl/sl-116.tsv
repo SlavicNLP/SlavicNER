@@ -1,0 +1,25 @@
+0	3	WHO	WHO	ORG	ORG-World-Health-Organization
+6	14	covid-19	covid-19	EVT	EVT-Covid-19
+136	169	Svetovna zdravstvena organizacija	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+171	174	WHO	WHO	ORG	ORG-World-Health-Organization
+225	244	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+617	623	Ženevi	Ženeva	LOC	GPE-Geneva
+639	642	WHO	WHO	ORG	ORG-World-Health-Organization
+662	674	Michael Ryan	Michael Ryan	PER	PER-Michael-Ryan
+1082	1085	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1098	1102	Ryan	Ryan	PER	PER-Michael-Ryan
+1556	1559	dpa	dpa	ORG	ORG-DPA
+1585	1601	Novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+1683	1707	univerze Johnsa Hopkinsa	Univerza Johnsa Hopkinsa	ORG	ORG-Johns-Hopkins-University
+1819	1822	WHO	WHO	ORG	ORG-World-Health-Organization
+1982	1991	Kitajskem	Kitajska	LOC	GPE-China
+1993	1996	WHO	WHO	ORG	ORG-World-Health-Organization
+2274	2277	WHO	WHO	ORG	ORG-World-Health-Organization
+2522	2531	Kitajskem	Kitajska	LOC	GPE-China
+2586	2592	Wuhanu	Wuhan	LOC	GPE-Wuhan
+2629	2632	WHO	WHO	ORG	ORG-World-Health-Organization
+2641	2649	Kitajsko	Kitajska	LOC	GPE-China
+2783	2795	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2868	2887	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+2923	2931	Kitajski	Kitajska	LOC	GPE-China
+2969	2972	ZDA	ZDA	LOC	GPE-USA

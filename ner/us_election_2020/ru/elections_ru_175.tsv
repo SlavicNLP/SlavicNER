@@ -1,0 +1,25 @@
+0	12	Американские	Американский	LOC	GPE-USA
+85	91	Байден	Байден	PER	PER-Joe-Biden
+100	107	Мичиган	Мичиган	LOC	GPE-Michigan
+185	191	Трампа	Трамп	PER	PER-Donald-Trump
+278	285	Байдена	Байден	PER	PER-Joe-Biden
+358	366	Мичигана	Мичиган	LOC	GPE-Michigan
+482	489	Байдена	Байден	PER	PER-Joe-Biden
+531	537	Трампа	Трамп	PER	PER-Donald-Trump
+541	548	Байдена	Байден	PER	PER-Joe-Biden
+621	629	Dominion	Dominion	PRO	PRO-Dominion-Voting-Systems
+763	769	Трампа	Трамп	PER	PER-Donald-Trump
+773	780	Байдена	Байден	PER	PER-Joe-Biden
+1376	1384	Мичигане	Мичиган	LOC	GPE-Michigan
+1474	1479	Трамп	Трамп	PER	PER-Donald-Trump
+1605	1610	Трамп	Трамп	PER	PER-Donald-Trump
+1740	1748	Мичигана	Мичиган	LOC	GPE-Michigan
+1961	1984	Детройтского автосалона	Детройтский автосалон	ORG	ORG-North-American-International-Auto-Show
+2112	2125	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+2186	2198	Сидни Пауэлл	Сидни Пауэлл	PER	PER-Sidney-Powell
+2241	2247	Трампа	Трамп	PER	PER-Donald-Trump
+2314	2321	Мичиган	Мичиган	LOC	GPE-Michigan
+2378	2385	Аризоны	Аризона	LOC	GPE-Arizona
+2404	2411	Байдена	Байден	PER	PER-Joe-Biden
+2627	2633	Байден	Байден	PER	PER-Joe-Biden
+2725	2737	Американские	Американский	LOC	GPE-USA

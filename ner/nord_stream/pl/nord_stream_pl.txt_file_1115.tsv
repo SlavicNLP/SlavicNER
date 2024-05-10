@@ -1,0 +1,31 @@
+0	6	Uniper	Uniper	ORG	ORG-Uniper
+16	19	USA	USA	LOC	GPE-USA
+49	62	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+73	76	RBK	RBK	PRO	PRO-RBK
+95	112	Rainera Hartmanna	Rainer Hartmann	PER	PER-Rainer-Hartmann
+172	179	Unipera	Uniper	ORG	ORG-Uniper
+199	202	USA	USA	LOC	GPE-USA
+296	309	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+375	382	Gazprom	Gazprom	ORG	ORG-Gazprom
+502	512	Amerykanie	Amerykanie	PER	GPE-USA
+608	622	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+787	794	Unipera	Uniper	ORG	ORG-Uniper
+814	827	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+856	861	ENGIE	ENGIE	ORG	ORG-Engie
+863	866	OMV	OMV	ORG	ORG-OMV
+868	873	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+876	892	BASF/Wintershall	BASF/Wintershall	ORG	ORG-BASF-Wintershall
+894	902	Hartmann	Hartmann	PER	PER-Rainer-Hartmann
+931	934	USA	USA	LOC	GPE-USA
+962	975	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1006	1016	Amerykanie	Amerykanie	PER	GPE-USA
+1098	1111	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1135	1157	Departamentu Stanu USA	Departament Stanu USA	ORG	ORG-Department-of-State-USA
+1158	1172	Heather Nauert	Heather Nauert	PER	PER-Heather-Nauert
+1262	1268	CAATSA	CAATSA	PRO	PRO-CAATSA-Bill
+1300	1303	USA	USA	LOC	GPE-USA
+1349	1363	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+1383	1387	CIRE	CIRE	PRO	PRO-CIRE.PL
+1469	1473	CIRE	CIRE	PRO	PRO-CIRE.PL
+1492	1496	CIRE	CIRE	PRO	PRO-CIRE.PL
+1667	1674	CIRE.PL	CIRE.PL	PRO	PRO-CIRE.PL

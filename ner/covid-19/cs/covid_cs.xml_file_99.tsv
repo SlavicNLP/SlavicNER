@@ -1,0 +1,20 @@
+3	11	Adámkovi	Adámek	PER	PER-Adam-Vycital
+68	79	koronavirem	koronavirus	EVT	EVT-Covid-19
+137	147	Chrudimska	Chrudimsko	LOC	GPE-Chrudim-Area
+226	237	Pardubicích	Pardubice	LOC	GPE-Pardubice
+396	403	MF DNES	MF DNES	PRO	PRO-MF-DNES-Czech-newspaper
+457	465	covid-19	covid-19	EVT	EVT-Covid-19
+619	626	Čáslavi	Čáslav	LOC	GPE-Caslav-Czech-City
+830	835	covid	covid	EVT	EVT-Covid-19
+904	911	MF DNES	MF DNES	PRO	PRO-MF-DNES-Czech-newspaper
+919	965	Krajské hygienické stanice Středočeského kraje	Krajské hygienické stanice Středočeského kraje	ORG	ORG-Central-Bohemian-Region-Hygienic-institue
+966	981	Dana Šalamunová	Dana Šalamunová	PER	PER-Dana-Salamounova
+1304	1332	Nemocnice Pardubického kraje	Nemocnice Pardubického kraje	LOC	LOC-Hospital-Pardubice-Region
+1333	1351	Kateřina Semrádová	Kateřina Semrádová	PER	PER-Katerina-Semeradova
+1426	1446	Nemocnice Na Bulovce	Nemocnice Na Bulovce	LOC	LOC-Bulovka-Hospital-Prague
+1562	1582	Nemocnice Na Bulovce	Nemocnice Na Bulovce	LOC	LOC-Bulovka-Hospital-Prague
+1583	1598	Simona Krautová	Simona Krautová	PER	PER-Simona-Krautova
+1635	1646	Pardubicích	Pardubice	LOC	GPE-Pardubice
+1788	1799	koronavirus	koronavirus	EVT	EVT-Covid-19
+1937	1943	Adámka	Adámek	PER	PER-Adam-Vycital
+2109	2118	Leontýnka	Leontýnka	PER	PER-Leontynka-Pardubice-Hospital-Baby-problem

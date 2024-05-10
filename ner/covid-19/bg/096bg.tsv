@@ -1,0 +1,14 @@
+0	3	CDC	CDC	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+20	28	Covid-19	COVID-19	EVT	EVT-Covid-19
+144	212	Американските центрове за контрол и превенция на заболяванията (CDC)	Американски центрове за контрол и превенция на заболяванията (CDC)	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+279	290	коронавирус	коронавирус	EVT	EVT-Covid-19
+449	452	CDC	CDC	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+494	505	коронавирус	коронавирус	EVT	EVT-Covid-19
+508	511	САЩ	САЩ	LOC	GPE-USA
+752	763	коронавирус	коронавирус	EVT	EVT-Covid-19
+1243	1246	CDC	CDC	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+1708	1711	CDC	CDC	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+1775	1786	коронавирус	коронавирус	EVT	EVT-Covid-19
+1811	1814	CDC	CDC	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+2183	2207	коронавирусните инфекции	коронавирусна инфекция	EVT	EVT-Covid-19
+2282	2285	CNN	CNN	PRO	PRO-CNN

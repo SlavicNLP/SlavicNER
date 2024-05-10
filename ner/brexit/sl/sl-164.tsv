@@ -1,0 +1,68 @@
+15	21	brexit	brexit	EVT	EVT-Brexit
+78	94	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+98	112	Evropska unija	Evropska unija	ORG	ORG-European-Union
+153	160	brexita	brexit	EVT	EVT-Brexit
+285	301	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+302	313	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+333	335	EU	EU	ORG	ORG-European-Union
+353	360	brexita	brexit	EVT	EVT-Brexit
+392	399	brexita	brexit	EVT	EVT-Brexit
+417	431	nočjo čarovnic	noč čarovnic	EVT	EVT-Halloween
+454	456	EU	EU	ORG	ORG-European-Union
+480	491	Theresa May	Theresa May	PER	PER-Theresa-May
+506	508	EU	EU	ORG	ORG-European-Union
+511	518	Bruslju	Bruselj	LOC	GPE-Brussles
+573	580	brexita	brexit	EVT	EVT-Brexit
+598	604	Mayeva	May	PER	PER-Theresa-May
+631	647	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+648	650	EU	EU	ORG	ORG-European-Union
+739	748	Britanija	Britanija	LOC	GPE-Great-Britain
+950	971	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+1074	1077	BBC	BBC	ORG	ORG-BBC-Ltd
+1095	1111	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+1112	1123	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1149	1158	Britancev	Britanci	PER	GPE-Great-Britain
+1213	1219	brexit	brexit	EVT	EVT-Brexit
+1359	1369	pogodbe EU	pogodba EU	PRO	PRO-TUE-Treaty-on-European-Union
+1412	1423	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1434	1450	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+1517	1536	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+1586	1592	brexit	brexit	EVT	EVT-Brexit
+1966	1968	EU	EU	ORG	ORG-European-Union
+1976	1985	Britanija	Britanija	LOC	GPE-Great-Britain
+2210	2216	brexit	brexit	EVT	EVT-Brexit
+2300	2319	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+2460	2469	Britanijo	Britanija	LOC	GPE-Great-Britain
+2588	2604	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+2611	2615	Tusk	Tusk	PER	PER-Donald-Tusk
+2631	2648	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+2649	2668	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+2677	2683	Mayevi	May	PER	PER-Theresa-May
+2746	2751	Otoka	Otok	LOC	GPE-Great-Britain
+2785	2794	Britanija	Britanija	LOC	GPE-Great-Britain
+2818	2825	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+3018	3027	Britanija	Britanija	LOC	GPE-Great-Britain
+3121	3125	Tusk	Tusk	PER	PER-Donald-Tusk
+3249	3257	Britance	Britanec	PER	GPE-Great-Britain
+3336	3344	Britance	Britanec	PER	GPE-Great-Britain
+3413	3420	brexita	brexit	EVT	EVT-Brexit
+3542	3546	Tusk	Tusk	PER	PER-Donald-Tusk
+3561	3578	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+3579	3598	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+3743	3747	Tusk	Tusk	PER	PER-Donald-Tusk
+3789	3796	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+3799	3805	Brexit	Brexit	EVT	EVT-Brexit
+3833	3835	EU	EU	ORG	ORG-European-Union
+3904	3912	brexitom	brexit	EVT	EVT-Brexit
+4068	4074	brexit	brexit	EVT	EVT-Brexit
+4147	4154	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+4197	4203	sfingo	sfinga	PER	PER-Sphinx
+4243	4265	britanskim parlamentom	britanski parlament	ORG	ORG-British-Parlament
+4349	4364	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+4630	4647	Evropski komisiji	Evropska komisija	ORG	ORG-European-Commission
+4650	4657	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+4842	4855	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+5042	5049	brexita	brexit	EVT	EVT-Brexit
+5091	5112	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+5250	5254	Tusk	Tusk	PER	PER-Donald-Tusk
+5310	5331	ločitvenega sporazuma	ločitveni sporazum	PRO	PRO-Brexit-withdrawal-agreement

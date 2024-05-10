@@ -1,0 +1,33 @@
+41	48	brexitu	brexit	EVT	EVT-Brexit
+67	87	Labouristická strana	Labouristická strana	ORG	ORG-Labour-Party-UK
+136	144	Británie	Británie	LOC	GPE-Great-Britain
+147	160	Evropské unii	Evropská unie	ORG	ORG-European-Union
+207	217	labouristů	labouristé	PER	ORG-Labour-Party-UK
+218	231	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+264	269	Britů	Britové	PER	GPE-Great-Britain
+367	373	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+383	393	labouristé	labouristé	PER	ORG-Labour-Party-UK
+608	648	Strany nezávislosti Spojeného království	Strana nezávislosti Spojeného království	ORG	ORG-UK-Independence-Party
+650	654	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+656	668	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+713	721	Observer	Observer	PRO	PRO-The-Observer
+810	818	Británie	Británie	LOC	GPE-Great-Britain
+827	833	Farage	Farage	PER	PER-Nigel-Farage
+1066	1072	brexit	brexit	EVT	EVT-Brexit
+1084	1090	Farage	Farage	PER	PER-Nigel-Farage
+1110	1128	Nicola Sturgeonová	Nicola Sturgeonová	PER	PER-Nicola-Sturgeon
+1205	1212	Skotska	Skotsko	LOC	GPE-Scotland
+1302	1310	Británií	Británie	LOC	GPE-Great-Britain
+1313	1327	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+1329	1340	Sturgeonová	Sturgeonová	PER	PER-Nicola-Sturgeon
+1372	1379	brexitu	brexit	EVT	EVT-Brexit
+1406	1408	EU	EU	ORG	ORG-European-Union
+1410	1418	Británie	Británie	LOC	GPE-Great-Britain
+1424	1426	EU	EU	ORG	ORG-European-Union
+1453	1460	Skotové	Skotové	PER	GPE-Scotland
+1556	1563	Skotska	Skotsko	LOC	GPE-Scotland
+1566	1574	Británii	Británie	LOC	GPE-Great-Britain
+1590	1597	brexitu	brexit	EVT	EVT-Brexit
+1609	1614	Skotů	Skotové	PER	GPE-Scotland
+1630	1638	Británie	Británie	LOC	GPE-Great-Britain
+1641	1643	EU	EU	ORG	ORG-European-Union

@@ -1,0 +1,15 @@
+8	13	Biden	Biden	PER	PER-Joe-Biden
+53	60	Trumpem	Trump	PER	PER-Donald-Trump
+83	88	Biden	Biden	PER	PER-Joe-Biden
+171	178	Trumpem	Trump	PER	PER-Donald-Trump
+180	187	Reuters	Reuters	ORG	ORG-Reuters
+222	249	wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+406	426	Kolegium Elektorskim	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+463	466	USA	USA	LOC	GPE-USA
+810	816	Trumpa	Trump	PER	PER-Donald-Trump
+819	825	Bidena	Biden	PER	PER-Joe-Biden
+869	876	Reuters	Reuters	ORG	ORG-Reuters
+877	882	Ipsos	Ipsos	ORG	ORG-Ipsos-Group-S.A.
+1077	1097	Partią Demokratyczną	Partia Demokratyczna	ORG	ORG-Democratic-Party-USA
+1118	1140	Partii Republikańskiej	Partia Republikańska	ORG	ORG-Republican-Party-USA
+1482	1492	Amerykanów	Amerykanie	PER	GPE-USA

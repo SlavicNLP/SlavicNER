@@ -1,0 +1,17 @@
+22	29	Brexitu	Brexit	EVT	EVT-Brexit
+105	120	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+170	185	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+245	258	Europejczyków	Europejczycy	PER	LOC-Europe
+266	273	Polaków	Polacy	PER	GPE-Poland
+362	367	Wyspy	Wyspy	LOC	GPE-Great-Britain
+374	382	Brexitem	Brexit	EVT	EVT-Brexit
+427	444	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+447	451	Unii	Unia	ORG	ORG-European-Union
+581	598	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+642	655	Europejczyków	Europejczycy	PER	LOC-Europe
+734	747	Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+835	841	Polsce	Polska	LOC	GPE-Poland
+871	888	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+964	979	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1133	1141	Brexicie	Brexit	EVT	EVT-Brexit
+1305	1308	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

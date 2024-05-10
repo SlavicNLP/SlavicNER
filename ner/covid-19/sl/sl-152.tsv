@@ -1,0 +1,21 @@
+67	80	koronavirusom	koronavirus	EVT	EVT-Covid-19
+84	91	Italiji	Italija	LOC	GPE-Italy
+99	107	covid-19	covid-19	EVT	EVT-Covid-19
+164	171	Italiji	Italija	LOC	GPE-Italy
+178	206	novo koronavirusno boleznijo	nova koronavirusna bolezen	EVT	EVT-Covid-19
+601	608	Italiji	Italija	LOC	GPE-Italy
+767	770	dpa	dpa	ORG	ORG-DPA
+809	819	Lombardija	Lombardija	LOC	GPE-Lombardy
+830	838	covid-19	covid-19	EVT	EVT-Covid-19
+1032	1041	Facebooka	Facebook	PRO	PRO-Facebook
+1062	1072	Lombardije	Lombardija	LOC	GPE-Lombardy
+1073	1088	Attilio Fontana	Attilio Fontana	PER	PER-Attilio-Fontana
+1242	1256	severu Italije	sever Italije	LOC	GPE-Northern-Italy
+1433	1438	Istat	Istat	ORG	ORG-Istat-Italian-National-Institute-of-Statistics
+1443	1450	Bergamu	Bergamo	LOC	GPE-Bergamo
+1675	1679	Ansa	Ansa	ORG	ORG-Ansa
+1682	1687	Istat	Istat	ORG	ORG-Istat-Italian-National-Institute-of-Statistics
+1906	1909	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1938	1948	Lombardijo	Lombardija	LOC	GPE-Lombardy
+2138	2148	covidom-19	covid-19	EVT	EVT-Covid-19
+2245	2264	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

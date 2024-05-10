@@ -1,0 +1,49 @@
+0	7	Melania	Melania	PER	PER-Melania-Trump
+92	99	Melania	Melania	PER	PER-Melania-Trump
+121	127	Trumpa	Trump	PER	PER-Donald-Trump
+160	167	Melania	Melania	PER	PER-Melania-Trump
+197	204	Trumpom	Trump	PER	PER-Donald-Trump
+212	225	Carlos Barria	Carlos Barria	PER	PER-Carlos-Barria
+227	234	Reuters	Reuters	ORG	ORG-Reuters
+248	251	ZDA	ZDA	LOC	GPE-USA
+252	264	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+421	430	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+512	525	Melania Trump	Melania Trump	PER	PER-Melania-Trump
+555	569	Jared Kuschner	Jared Kuschner	PER	PER-Jared-Kushner
+645	652	Melania	Melania	PER	PER-Melania-Trump
+684	691	Melania	Melania	PER	PER-Melania-Trump
+797	806	Beli hiši	Bela hiša	LOC	LOC-White-House
+807	831	Omorosa Manigault Newman	Omorosa Manigault Newman	PER	PER-Omarosa-Manigault-Newman
+835	853	The Mail on Sunday	The Mail on Sunday	PRO	PRO-Mail-on-Sunday
+880	887	Melania	Melania	PER	PER-Melania-Trump
+1045	1052	Melania	Melania	PER	PER-Melania-Trump
+1149	1155	Donald	Donald	PER	PER-Donald-Trump
+1159	1166	Melania	Melania	PER	PER-Melania-Trump
+1214	1224	Mar-a-Lago	Mar-a-Lago	LOC	LOC-Mar-a-Lago
+1228	1235	Floridi	Florida	LOC	GPE-Florida
+1265	1272	Omorose	Omorosa	PER	PER-Omarosa-Manigault-Newman
+1285	1292	Melanii	Melania	PER	PER-Melania-Trump
+1337	1347	Trumpovega	Trump	PER	PER-Donald-Trump
+1356	1363	Melania	Melania	PER	PER-Melania-Trump
+1392	1401	New Yorka	New York	LOC	GPE-New-York
+1404	1414	Washington	Washington	LOC	GPE-WashingtonDC
+1462	1469	Barrona	Barron	PER	PER-Barron-Trump
+1493	1502	New Yorku	New York	LOC	GPE-New-York
+1521	1528	Melania	Melania	PER	PER-Melania-Trump
+1646	1654	Trumpovi	Trump	PER	PER-Donald-Trump
+1690	1697	Trumpov	Trump	PER	PER-Donald-Trump
+1723	1736	Michael Cohen	Michael Cohen	PER	PER-Michael-Cohen
+1775	1780	Trump	Trump	PER	PER-Donald-Trump
+1854	1860	božiču	božič	EVT	EVT-Christmas
+1861	1866	Trump	Trump	PER	PER-Donald-Trump
+1887	1896	Belo hišo	Bela hiša	LOC	LOC-White-House
+1903	1910	Bidnovo	Biden	PER	PER-Joe-Biden
+2024	2031	Omorosa	Omorosa	PER	PER-Omarosa-Manigault-Newman
+2039	2045	Trumpa	Trump	PER	PER-Donald-Trump
+2103	2110	Vajenec	Vajenec	PRO	PRO-The-Apprentice
+2117	2122	Cohen	Cohen	PER	PER-Michael-Cohen
+2125	2132	Trumpom	Trump	PER	PER-Donald-Trump
+2150	2157	Omoroso	Omorosa	PER	PER-Omarosa-Manigault-Newman
+2164	2173	Bele hiše	Bela hiša	LOC	LOC-White-House
+2185	2190	Cohen	Cohen	PER	PER-Michael-Cohen
+2262	2270	Trumpovo	Trump	PER	PER-Donald-Trump

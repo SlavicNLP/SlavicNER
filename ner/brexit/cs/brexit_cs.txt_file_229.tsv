@@ -1,0 +1,28 @@
+17	23	brexit	brexit	EVT	EVT-Brexit
+24	32	Británii	Británie	LOC	GPE-Great-Britain
+76	89	Evropské unie	Evropská unie	ORG	ORG-European-Union
+90	98	Británii	Británie	LOC	GPE-Great-Britain
+158	166	Bruselem	Brusel	LOC	GPE-Brussles
+199	212	BuzzFeed News	BuzzFeed News	PRO	PRO-Buzzfeed-website
+326	340	Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+377	384	brexitu	brexit	EVT	EVT-Brexit
+563	576	BuzzFeed News	BuzzFeed News	PRO	PRO-Buzzfeed-website
+660	666	Britům	Britové	PER	GPE-Great-Britain
+852	859	brexitu	brexit	EVT	EVT-Brexit
+878	884	Londýn	Londýn	LOC	GPE-London
+887	895	Bruselem	Brusel	LOC	GPE-Brussles
+922	924	EU	EU	ORG	ORG-European-Union
+927	935	Británií	Británie	LOC	GPE-Great-Britain
+980	1007	Světové obchodní organizace	Světové obchodní organizace	ORG	ORG-WTO-World-Trade-Organization
+1009	1012	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+1114	1120	Mayová	Mayová	PER	PER-Theresa-May
+1182	1213	Evropském hospodářském prostoru	Evropský hospodářský prostor	ORG	ORG-EEA-European-Economic-Area
+1300	1306	brexit	brexit	EVT	EVT-Brexit
+1367	1380	BuzzFeed News	BuzzFeed News	PRO	PRO-Buzzfeed-website
+1662	1670	Británii	Británie	LOC	GPE-Great-Britain
+1790	1796	brexit	brexit	EVT	EVT-Brexit
+1797	1809	Steva Bakera	Steve Baker	PER	PER-Steve-Baker
+1828	1841	BuzzFeed News	BuzzFeed News	PRO	PRO-Buzzfeed-website
+1919	1932	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1984	1990	brexit	brexit	EVT	EVT-Brexit
+2065	2071	Mayové	Mayová	PER	PER-Theresa-May

@@ -1,0 +1,27 @@
+0	9	Američani	Američani	PER	GPE-USA
+43	51	covid 19	covid 19	EVT	EVT-Covid-19
+53	62	Bela hiša	Bela hiša	LOC	LOC-White-House
+114	123	San Diega	San Diego	LOC	GPE-San-Diego
+157	165	New York	New York	LOC	GPE-New-York
+168	177	Bela hiša	Bela hiša	LOC	LOC-White-House
+191	200	covidu 19	covidu 19	EVT	EVT-Covid-19
+245	258	Moncef Slaoui	Moncef Slaoui	PER	PER-Moncef-Mohamed-Slaoui
+281	293	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+602	622	operacije Warp Speed	operacije Warp Speed	ORG	ORG-Operation-Warp-Speed-(OWS)
+643	661	projekta Manhattan	projekta Manhattan	ORG	ORG-The-Manhattan-Project
+672	692	druge svetovne vojne	druga svetovna vojna	EVT	EVT-World-War-II
+693	702	Američane	Američani	PER	GPE-USA
+726	745	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+837	844	Moderna	Moderna	ORG	ORG-Moderna
+854	857	ZDA	ZDA	LOC	GPE-USA
+1037	1046	covidu 19	covidu 19	EVT	EVT-Covid-19
+1133	1154	Sorrento Therapeutics	Sorrento Therapeutics	ORG	ORG-Sorrento-Therapeutics
+1158	1167	San Diega	San Diego	LOC	GPE-San-Diego
+1193	1201	STI-1499	STI-1499	PRO	PRO-antibody-STI-1499
+1274	1282	Henry Ji	Henry Ji	PER	PER-Henry-Ji
+1675	1684	San Diegu	San Diego	LOC	GPE-San-Diego
+1818	1821	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+1880	1905	Mount Sinai Health System	Mount Sinai Health System	ORG	ORG-The-Mount-Sinai-Health-System
+1932	1942	covidom-19	covid-19	EVT	EVT-Covid-19
+2104	2114	Remdesevir	Remdesevir	PRO	PRO-Remdesivir-(Veklury)
+2140	2146	Gilead	Gilead	ORG	ORG-Gilead-Sciences

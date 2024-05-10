@@ -1,0 +1,13 @@
+152	157	Tegel	Tegel	LOC	LOC-Tegel-Berlin-Airport
+160	170	Schönefeld	Schönefeld	LOC	LOC-Schönefeld-Airport-Berlin
+302	308	Berlín	Berlín	LOC	GPE-Berlin
+391	398	Reuters	Reuters	ORG	ORG-Reuters
+400	405	Tegel	Tegel	LOC	LOC-Tegel-Berlin-Airport
+494	504	Schönefeld	Schönefeld	LOC	LOC-Schönefeld-Airport-Berlin
+623	632	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+634	641	Easyjet	Easyjet	ORG	ORG-EasyJet
+643	650	Ryanair	Ryanair	ORG	ORG-Ryanair
+656	664	Aeroflot	Aeroflot	ORG	ORG-Aeroflot
+690	695	Česka	Česko	LOC	GPE-Czech-Republic
+801	806	Verdi	Verdi	ORG	ORG-Ver.di-Trade-Union
+1092	1095	ČTK	ČTK	ORG	ORG-CTK

@@ -1,0 +1,51 @@
+133	136	USA	USA	LOC	GPE-USA
+308	318	demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+319	329	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+348	363	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+379	385	Bidena	Biden	PER	PER-Joe-Biden
+468	473	Trump	Trump	PER	PER-Donald-Trump
+503	516	The Economist	The Economist	PRO	PRO-The-Economist
+523	531	Bidenowi	Biden	PER	PER-Joe-Biden
+668	685	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+753	760	Trumpem	Trump	PER	PER-Donald-Trump
+867	882	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+952	959	Trumpem	Trump	PER	PER-Donald-Trump
+964	969	Biden	Biden	PER	PER-Joe-Biden
+1092	1097	Trump	Trump	PER	PER-Donald-Trump
+1384	1391	Floryda	Floryda	LOC	GPE-Florida
+1393	1397	Ohio	Ohio	LOC	GPE-Ohio
+1399	1408	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1413	1430	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1584	1611	wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+1705	1717	Joe Bidenowi	Joe Biden	PER	PER-Joe-Biden
+1838	1848	Kalifornia	Kalifornia	LOC	GPE-California
+1853	1862	Nowy Jork	Nowy Jork	LOC	GPE-New-York
+1958	1964	Bidena	Biden	PER	PER-Joe-Biden
+1966	1971	Trump	Trump	PER	PER-Donald-Trump
+2115	2121	Teksas	Teksas	LOC	GPE-Texas
+2218	2225	Floryda	Floryda	LOC	GPE-Florida
+2227	2234	Georgia	Georgia	LOC	GPE-Georgia-US-state
+2236	2240	Ohio	Ohio	LOC	GPE-Ohio
+2246	2250	Iowa	Iowa	LOC	GPE-Iowa
+2255	2264	Florydzie	Floryda	LOC	GPE-Florida
+2385	2391	Trumpa	Trump	PER	PER-Donald-Trump
+2422	2441	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+2447	2452	Biden	Biden	PER	PER-Joe-Biden
+2500	2507	Trumpem	Trump	PER	PER-Donald-Trump
+2569	2573	Ohio	Ohio	LOC	GPE-Ohio
+2579	2584	Trump	Trump	PER	PER-Donald-Trump
+2769	2777	Bidenowi	Biden	PER	PER-Joe-Biden
+2781	2792	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+2798	2803	Biden	Biden	PER	PER-Joe-Biden
+2847	2854	Trumpem	Trump	PER	PER-Donald-Trump
+2942	2950	Trumpowi	Trump	PER	PER-Donald-Trump
+2954	2961	Florydą	Floryda	LOC	GPE-Florida
+2963	2967	Ohio	Ohio	LOC	GPE-Ohio
+2969	2976	Georgią	Georgia	LOC	GPE-Georgia-US-state
+2978	2995	Karoliną Północną	Karolina Północna	LOC	GPE-North-Carolina-US-State
+2997	3001	Iowa	Iowa	LOC	GPE-Iowa
+3007	3018	Pensylwanią	Pensylwania	LOC	GPE-Pennsylvania
+3019	3024	Trump	Trump	PER	PER-Donald-Trump
+3141	3148	Arizona	Arizona	LOC	GPE-Arizona
+3178	3184	Bidena	Biden	PER	PER-Joe-Biden
+3245	3251	Trumpa	Trump	PER	PER-Donald-Trump

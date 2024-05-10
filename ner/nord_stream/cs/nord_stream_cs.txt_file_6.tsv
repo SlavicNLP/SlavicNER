@@ -1,0 +1,43 @@
+0	13	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+47	53	Evropy	Evropa	LOC	LOC-Europe
+65	74	Tillerson	Tillerson	PER	PER-Rex-Tillerson
+77	83	Polsku	Polsko	LOC	GPE-Poland
+85	91	Polsko	Polsko	LOC	GPE-Poland
+143	156	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+242	248	TVN 24	TVN 24	PRO	PRO-TVN24
+249	260	Tillersonův	Tillerson	PER	PER-Rex-Tillerson
+271	288	Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+300	307	Varšava	Varšava	LOC	GPE-Warsaw
+392	403	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+419	424	Baltu	Balt	LOC	LOC-Baltic-Sea
+427	432	Ruska	Rusko	LOC	GPE-Russia
+436	443	Německa	Německo	LOC	GPE-Germany
+455	463	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+546	552	Polsko	Polsko	LOC	GPE-Poland
+555	558	USA	USA	LOC	GPE-USA
+579	592	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+655	661	Evropy	Evropa	LOC	LOC-Europe
+678	683	Rusku	Rusko	LOC	GPE-Russia
+748	757	Tillerson	Tillerson	PER	PER-Rex-Tillerson
+812	821	Tillerson	Tillerson	PER	PER-Rex-Tillerson
+825	832	Varšavě	Varšava	LOC	GPE-Warsaw
+847	852	Rusko	Rusko	LOC	GPE-Russia
+867	872	Sýrii	Sýrie	LOC	GPE-Syria
+908	914	Evropě	Evropa	LOC	LOC-Europe
+954	967	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1265	1274	Tillerson	Tillerson	PER	PER-Rex-Tillerson
+1319	1326	Polskem	Polsko	LOC	GPE-Poland
+1329	1332	USA	USA	LOC	GPE-USA
+1335	1344	Tillerson	Tillerson	PER	PER-Rex-Tillerson
+1355	1361	Polsko	Polsko	LOC	GPE-Poland
+1394	1397	USA	USA	LOC	GPE-USA
+1429	1449	Rady bezpečnosti OSN	Rada bezpečnosti OSN	ORG	ORG-UN-Security-Council
+1468	1475	Varšavě	Varšava	LOC	GPE-Warsaw
+1521	1545	Severoatlantické aliance	Severoatlantická aliance	ORG	ORG-NATO
+1649	1662	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1694	1701	Gazprom	Gazprom	ORG	ORG-Gazprom
+1743	1749	Uniper	Uniper	ORG	ORG-Uniper
+1752	1763	Wintershall	Wintershall	ORG	ORG-Wintershall
+1784	1789	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+1800	1803	OMV	OMV	ORG	ORG-OMV
+1818	1823	Engie	Engie	ORG	ORG-Engie

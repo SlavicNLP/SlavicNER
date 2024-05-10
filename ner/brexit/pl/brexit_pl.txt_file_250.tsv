@@ -1,0 +1,49 @@
+0	4	Tusk	Tusk	PER	PER-Donald-Tusk
+7	14	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+19	26	Brexitu	Brexit	EVT	EVT-Brexit
+28	43	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+71	82	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+99	110	Rady Europy	Rada Europy	ORG	ORG-European-Council
+125	148	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+159	174	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+210	212	UE	UE	ORG	ORG-European-Union
+214	220	Brexit	Brexit	EVT	EVT-Brexit
+256	260	Unia	Unia	ORG	ORG-European-Union
+357	359	KE	KE	ORG	ORG-European-Commission
+360	379	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+384	386	PE	PE	ORG	ORG-European-Parliament
+399	410	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+431	451	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+452	471	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+486	501	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+561	563	UE	UE	ORG	ORG-European-Union
+666	672	Brexit	Brexit	EVT	EVT-Brexit
+808	819	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+834	845	David Davis	David Davis	PER	PER-David-Davis
+984	986	RE	RE	ORG	ORG-European-Council
+1003	1008	Tuska	Tusk	PER	PER-Donald-Tusk
+1088	1105	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1108	1110	UE	UE	ORG	ORG-European-Union
+1145	1164	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+1168	1179	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1198	1205	Brexitu	Brexit	EVT	EVT-Brexit
+1314	1322	Londynie	Londyn	LOC	GPE-London
+1375	1390	Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+1446	1467	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1494	1496	UE	UE	ORG	ORG-European-Union
+1504	1508	Unia	Unia	ORG	ORG-European-Union
+1582	1584	PE	PE	ORG	ORG-European-Parliament
+1619	1626	Brexitu	Brexit	EVT	EVT-Brexit
+1637	1639	UE	UE	ORG	ORG-European-Union
+1676	1682	Londyn	Londyn	LOC	GPE-London
+1769	1780	Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+1784	1793	Twitterze	Twitter	PRO	PRO-Twitter
+1795	1806	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1831	1848	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1867	1874	Brexitu	Brexit	EVT	EVT-Brexit
+1901	1912	Independent	Independent	PRO	PRO-The-Independent
+1948	1965	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+2007	2018	Theresy May	Theresa May	PER	PER-Theresa-May
+2040	2042	UE	UE	ORG	ORG-European-Union
+2069	2086	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2206	2214	Brexicie	Brexit	EVT	EVT-Brexit

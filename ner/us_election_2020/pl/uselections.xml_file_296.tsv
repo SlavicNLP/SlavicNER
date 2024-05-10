@@ -1,0 +1,25 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+36	43	Georgii	Georgia	LOC	GPE-Georgia-US-state
+74	83	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+84	93	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+99	106	Georgii	Georgie	LOC	GPE-Georgia-US-state
+132	148	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+259	262	USA	USA	LOC	GPE-USA
+369	372	CNN	CNN	PRO	PRO-CNN
+373	386	Raffensperger	Raffensperger	PER	PER-Brad-Raffensperger
+559	572	Raffensperger	Raffensperger	PER	PER-Brad-Raffensperger
+702	709	Georgii	Georgia	LOC	GPE-Georgia-US-state
+819	832	republikanami	republikanie	ORG	ORG-Republican-Party-USA
+861	867	Bidena	Biden	PER	PER-Joe-Biden
+921	928	Atlanty	Atlanty	LOC	GPE-Atlanta
+998	1005	Georgii	Georgia	LOC	GPE-Georgia-US-state
+1063	1072	Biały Dom	Biały Dom	LOC	LOC-White-House
+1104	1109	Biden	Biden	PER	PER-Joe-Biden
+1142	1151	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1153	1164	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+1166	1174	Michigan	Michigan	LOC	GPE-Michigan
+1180	1188	Arizonie	Arizona	LOC	GPE-Arizona
+1198	1200	AP	AP	ORG	ORG-AP-The-Associated-Press
+1316	1321	Trump	Trump	PER	PER-Donald-Trump
+1773	1779	Polski	Polska	LOC	GPE-Poland
+1781	1798	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union

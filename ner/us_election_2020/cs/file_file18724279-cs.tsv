@@ -1,0 +1,18 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+13	24	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+49	52	USA	USA	LOC	GPE-USA
+54	76	Spojené státy americké	Spojené státy americké	LOC	GPE-USA
+154	163	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+166	177	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+245	257	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+276	279	USA	USA	LOC	GPE-USA
+407	412	Biden	Biden	PER	PER-Joe-Biden
+439	450	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+454	461	Georgii	Georgie	LOC	GPE-Georgia-US-state
+510	521	Pensylvánie	Pensylvánie	LOC	GPE-Pennsylvania
+573	575	AP	AP	ORG	ORG-AP-The-Associated-Press
+587	590	CNN	CNN	PRO	PRO-CNN
+593	596	ABC	ABC	PRO	PRO-ABC-News
+601	606	Biden	Biden	PER	PER-Joe-Biden
+684	689	Trump	Trump	PER	PER-Donald-Trump
+979	989	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin

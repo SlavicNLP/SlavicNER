@@ -1,0 +1,18 @@
+0	8	Facebook	Facebook	PRO	PRO-Facebook
+98	105	brexitu	Brexit	EVT	EVT-Brexit
+255	260	Rosję	Rosja	LOC	GPE-Russia
+327	344	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+347	349	UE	UE	ORG	ORG-European-Union
+484	501	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+540	551	Theresa May	Theresa May	PER	PER-Theresa-May
+586	594	Facebook	Facebook	PRO	PRO-Facebook
+618	634	Komisję Wyborczą	Komisja Wyborcza	ORG	ORG-Election-Commission-UK
+697	704	Kremlem	Kreml	LOC	LOC-Kremlin
+915	926	Petersburga	Petersburg	LOC	GPE-Saint-Petersburg
+933	957	Internet Research Agency	Internet Research Agency	ORG	ORG-Internet-Research-Agency
+1225	1228	USA	USA	LOC	GPE-USA
+1461	1471	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1472	1487	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1548	1558	Senatu USA	Senat USA	ORG	ORG-United-States-Senate
+1567	1576	Facebooka	Facebook	PRO	PRO-Facebook
+1674	1681	Londynu	Londyn	LOC	GPE-London

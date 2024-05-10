@@ -1,0 +1,58 @@
+0	9	Američani	Američani	PER	GPE-USA
+31	36	Nemci	Nemci	PER	GPE-Germany
+190	199	Ljubljana	Ljubljana	LOC	GPE-Ljubljana
+246	252	Evrope	Evropa	LOC	LOC-Europe
+401	411	Rick Perry	Rick Perry	PER	PER-Rick-Perry
+414	427	Miguel Berger	Miguel Berger	PER	PER-Miguel-Berger
+501	508	Nemčiji	Nemčija	LOC	GPE-Germany
+551	554	ZDA	ZDA	LOC	GPE-USA
+576	590	Severnemu toku	Severni tok	PRO	PRO-Nord-Stream-1
+594	607	Turškemu toku	Turški tok	PRO	PRO-TurkStream
+753	758	Perry	Perry	PER	PER-Rick-Perry
+868	873	Litva	Litva	LOC	GPE-Lithuania
+932	935	ZDA	ZDA	LOC	GPE-USA
+967	979	Azerbajdžana	Azerbajdžan	LOC	GPE-Azerbaijan
+983	990	Jadrana	Jadran	LOC	LOC-Adriatic-sea
+1022	1024	EU	EU	ORG	ORG-European-Union
+1028	1031	ZDA	ZDA	LOC	GPE-USA
+1069	1073	Natu	Nato	ORG	ORG-NATO
+1088	1093	Perry	Perry	PER	PER-Rick-Perry
+1096	1106	Rick Perry	Rick Perry	PER	PER-Rick-Perry
+1166	1179	Piotr Naimski	Piotr Naimski	PER	PER-Piotr-Naimski
+1478	1486	Norveške	Norveška	LOC	GPE-Norway
+1492	1499	Gdansku	Gdansk	LOC	GPE-Gdansk
+1583	1591	Slovaško	Slovaška	LOC	GPE-Slovakia
+1601	1608	Poljska	Poljska	LOC	GPE-Poland
+1632	1641	Madžarske	Madžarska	LOC	GPE-Hungary
+1675	1683	Poljskem	Poljska	LOC	GPE-Poland
+1753	1766	Severnem toku	Severni tok	PRO	PRO-Nord-Stream-1
+1827	1833	Evropo	Evropa	LOC	LOC-Europe
+1836	1853	Pobuda Treh morij	Pobuda Treh morij	PRO	PRO-Three-Seas-Initiative
+1936	1942	Berger	Berger	PER	PER-Miguel-Berger
+1966	1973	Nemčiji	Nemčija	LOC	GPE-Germany
+2053	2064	Severni tok	Severni tok	PRO	PRO-Nord-Stream-1
+2146	2153	Nemčiji	Nemčija	LOC	GPE-Germany
+2181	2188	Nemčija	Nemčija	LOC	GPE-Germany
+2209	2218	Norveškem	Norveška	LOC	GPE-Norway
+2225	2236	Nizozemskem	Nizozemsko	LOC	GPE-Holland
+2294	2301	Poljske	Poljska	LOC	GPE-Poland
+2377	2384	Naimski	Naimski	PER	PER-Piotr-Naimski
+2736	2745	Naimskega	Naimski	PER	PER-Piotr-Naimski
+2765	2770	Elesa	Eles	ORG	ORG-Eles
+2771	2781	Sincrogrid	Sincrogrid	PRO	PRO-Sincogrid
+3016	3028	Uroš Salobir	Uroš Salobir	PER	PER-Uroš-Salobir
+3032	3037	Elesa	Eles	ORG	ORG-Eles
+3373	3380	Salobir	Salobir	PER	PER-Uroš-Salobir
+3523	3530	Salobir	Salobir	PER	PER-Uroš-Salobir
+3533	3542	Južni tok	Južni tok	PRO	PRO-South-Stream
+3582	3591	Madžarsko	Madžarska	LOC	GPE-Hungary
+3600	3607	Hrvaške	Hrvaška	LOC	GPE-Croatia
+3640	3649	Madžarsko	Madžarska	LOC	GPE-Hungary
+3651	3659	Romunijo	Romunija	LOC	GPE-Romania
+3663	3671	Avstrijo	Avstrija	LOC	GPE-Austria
+3673	3687	Tomislav Čorić	Tomislav Čorić	PER	PER-Tomislav-Čorić
+3747	3754	Hrvaška	Hrvaška	LOC	GPE-Croatia
+3903	3907	Krku	Krk	LOC	GPE-Krk
+3972	3985	Robert Krklec	Robert Krklec	PER	PER-Robert-Krklec
+3997	4000	HEP	HEP	ORG	ORG-HEP
+4120	4130	Sincrogrid	Sincrogrid	PRO	PRO-Sincogrid

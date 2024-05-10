@@ -1,0 +1,29 @@
+2	4	ЄС	ЄС	LOC	ORG-European-Union
+55	61	Brexit	Brexit	EVT	EVT-Brexit
+75	84	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+105	111	Brexit	Brexit	EVT	EVT-Brexit
+112	125	Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+183	191	Британії	Британія	LOC	GPE-Great-Britain
+194	196	ЄС	ЄС	LOC	ORG-European-Union
+251	253	ЄС	ЄС	LOC	ORG-European-Union
+276	288	The Guardian	The Guardian	ORG	ORG-The-Guardian
+290	296	Барньє	Барньє	PER	PER-Michel-Barnier
+501	509	Британії	Британія	LOC	GPE-Great-Britain
+532	534	ЄС	ЄС	LOC	ORG-European-Union
+536	544	Брюссель	Брюссель	LOC	GPE-Brussles
+564	570	Лондон	Лондон	LOC	GPE-London
+595	604	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+654	660	Барньє	Барньє	PER	PER-Michel-Barnier
+738	746	Британії	Британія	LOC	GPE-Great-Britain
+749	751	ЄС	ЄС	LOC	ORG-European-Union
+899	933	кабінет міністрів Великої Британії	кабінет міністрів Великої Британії	ORG	ORG-Cabinet-of-the-United-Kingdom
+970	976	Brexit	Brexit	EVT	EVT-Brexit
+992	1001	Брюсселем	Брюссель	LOC	GPE-Brussles
+1034	1037	Мей	Мей	PER	PER-Theresa-May
+1155	1173	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+1222	1225	Мей	Мей	PER	PER-Theresa-May
+1284	1290	Brexit	Brexit	EVT	EVT-Brexit
+1291	1303	Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+1360	1378	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+1379	1390	Шайлеш Вара	Шайлеш Вара	PER	PER-Shailesh-Vara
+1417	1428	Естер Макві	Естер Макві	PER	PER-Ester-Makvi

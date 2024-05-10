@@ -1,0 +1,15 @@
+0	8	Ирландия	Ирландия	LOC	GPE-Ireland
+25	32	Брекзит	Брекзит	EVT	EVT-Brexit
+91	99	Ирландия	Ирландия	LOC	GPE-Ireland
+100	112	Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+121	135	Великобритания	Великобритания	LOC	GPE-Great-Britain
+191	207	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+289	296	Брекзит	Брекзит	EVT	EVT-Brexit
+308	310	АП	АП	ORG	ORG-AP-The-Associated-Press
+312	326	Великобритания	Великобритания	LOC	GPE-Great-Britain
+335	337	ЕС	ЕС	ORG	ORG-European-Union
+410	418	Ирландия	Ирландия	LOC	GPE-Ireland
+421	437	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+514	534	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+791	798	Брекзит	Брекзит	EVT	EVT-Brexit
+810	818	Варадкар	Варадкар	PER	PER-Leo-Varadkar

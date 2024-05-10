@@ -1,0 +1,44 @@
+18	21	Мэй	Мэй	PER	PER-Theresa-May
+23	30	Джонсон	Джонсон	PER	PER-Boris-Johnson
+57	75	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+94	97	США	США	LOC	GPE-USA
+102	106	НАТО	НАТО	ORG	ORG-NATO
+116	136	Российскую Федерацию	Российская Федерация	LOC	GPE-Russia
+188	191	Мэй	Мэй	PER	PER-Theresa-May
+193	200	Джонсон	Джонсон	PER	PER-Boris-Johnson
+227	245	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+322	328	Англии	Англия	LOC	GPE-Great-Britain
+329	342	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+394	400	Англии	Англия	LOC	GPE-Great-Britain
+401	414	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+541	551	Терезы Мей	Тереза Мей	PER	PER-Theresa-May
+633	640	Твиттер	Твиттер	PRO	PRO-Twitter
+650	653	ВВС	ВВС	PRO	PRO-BBC
+682	702	кабинет премьера Мэй	кабинет премьера Мэй	ORG	ORG-Cabinet-of-the-United-Kingdom
+739	754	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+820	830	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+877	885	Джонсона	Джонсон	PER	PER-Boris-Johnson
+905	911	Англии	Англия	LOC	GPE-Great-Britain
+915	917	ЕС	ЕС	ORG	ORG-European-Union
+986	992	Brexit	Brexit	EVT	EVT-Brexit
+994	1001	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1004	1009	Дэвис	Дэвис	PER	PER-David-Davis
+1036	1042	Brexit	Brexit	EVT	EVT-Brexit
+1076	1082	Лондон	Лондон	LOC	GPE-London
+1100	1109	Брюсселем	Брюссель	LOC	GPE-Brussles
+1334	1336	ЕС	ЕС	ORG	ORG-European-Union
+1365	1373	Джонсона	Джонсон	PER	PER-Boris-Johnson
+1413	1421	Sky News	Sky News	PRO	PRO-Sky-News-TV
+1545	1551	Brexit	Brexit	EVT	EVT-Brexit
+1582	1594	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+1595	1609	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+1620	1623	ФРГ	ФРГ	LOC	GPE-Germany
+1624	1638	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+1662	1664	ЕС	ЕС	ORG	ORG-European-Union
+1682	1695	Мишель Барнье	Мишель Барнье	PER	PER-Michel-Barnier
+1697	1705	Lenta.ru	Lenta.ru	ORG	ORG-Lenta-Ru-News-Agency
+1707	1713	Brexit	Brexit	EVT	EVT-Brexit
+1725	1731	Дэвиса	Дэвис	PER	PER-David-Davis
+1760	1768	Джонсона	Джонсон	PER	PER-Boris-Johnson
+1815	1821	Англии	Англия	LOC	GPE-Great-Britain
+1825	1827	ЕС	ЕС	ORG	ORG-European-Union

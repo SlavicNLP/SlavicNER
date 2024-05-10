@@ -1,0 +1,18 @@
+0	8	България	България	LOC	GPE-Bulgaria
+20	23	Мей	Мей	PER	PER-Theresa-May
+79	81	ЕС	ЕС	ORG	ORG-European-Union
+83	91	България	България	LOC	GPE-Bulgaria
+127	153	Съвета на Европейския съюз	Съвет на Европейския съюз	ORG	ORG-Council-of-the-European-Union
+185	195	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+269	276	Брекзит	Брекзит	EVT	EVT-Brexit
+286	296	Франс прес	Франс прес	ORG	ORG-France-Presse
+335	366	Българското европредседателство	Българско европредседателство	EVT	EVT-Bulgarian-Presidency-EU
+367	381	Лиляна Павлова	Лиляна Павлова	PER	PER-Lilyana-Pavlova
+422	425	Мей	Мей	PER	PER-Theresa-May
+619	629	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+685	701	Съединените щати	Съединени щати	LOC	GPE-USA
+720	727	Брекзит	Брекзит	EVT	EVT-Brexit
+737	751	Лиляна Павлова	Лиляна Павлова	PER	PER-Lilyana-Pavlova
+853	867	Великобритания	Великобритания	LOC	GPE-Great-Britain
+972	980	Брекзита	Брекзит	EVT	EVT-Brexit
+991	1001	Франс прес	Франс прес	ORG	ORG-France-Presse

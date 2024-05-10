@@ -1,0 +1,21 @@
+22	30	Сахалина	Сахалин	LOC	LOC-Sakhalin
+64	73	Лимаренко	Лимаренко	PER	PER-Valery-Limarenko
+83	89	REGNUM	REGNUM	PRO	PRO-REGNUM
+145	153	Сахалине	Сахалин	LOC	LOC-Sakhalin
+326	343	Валерий Лимаренко	Валерий Лимаренко	PER	PER-Valery-Limarenko
+361	369	Колумбия	Колумбия	LOC	GPE-Colombia
+392	398	Запада	Запад	LOC	LOC-West
+678	688	ExxonMobil	ExxonMobil	ORG	ORG-ExxonMobil
+910	919	Лимаренко	Лимаренко	PER	PER-Valery-Limarenko
+937	943	REGNUM	REGNUM	PRO	PRO-REGNUM
+946	954	Колумбия	Колумбия	LOC	GPE-Colombia
+989	995	Запада	Запад	LOC	LOC-West
+1024	1030	России	Россия	LOC	GPE-Russia
+1050	1058	Колумбии	Колумбия	LOC	GPE-Colombia
+1059	1068	Иван Дуке	Иван Дуке	PER	PER-Ivan-Duque
+1110	1113	CNN	CNN	PRO	PRO-CNN
+1155	1183	специальной военной операции	специальная военная операция	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1184	1190	России	Россия	LOC	GPE-Russia
+1194	1201	Украине	Украина	LOC	GPE-Ukraine
+1281	1283	РФ	РФ	LOC	GPE-Russia
+1472	1478	России	Россия	LOC	GPE-Russia

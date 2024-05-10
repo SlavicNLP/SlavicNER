@@ -1,0 +1,39 @@
+21	29	brexicie	Brexit	EVT	EVT-Brexit
+39	42	May	May	PER	PER-Theresa-May
+68	70	UE	UE	ORG	ORG-European-Union
+135	150	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+185	193	brexicie	Brexit	EVT	EVT-Brexit
+216	233	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+234	245	Theresa May	Theresa May	PER	PER-Theresa-May
+272	275	BBC	BBC	PRO	PRO-BBC
+307	322	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+376	399	Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+402	404	UE	UE	ORG	ORG-European-Union
+429	446	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+461	464	May	May	PER	PER-Theresa-May
+473	476	BBC	BBC	PRO	PRO-BBC
+692	720	Europejska Agencja ds. Leków	Europejska Agencja ds. Leków	ORG	ORG-EMA-European-Medicines-Agency
+722	725	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+743	751	brexitem	Brexit	EVT	EVT-Brexit
+790	793	May	May	PER	PER-Theresa-May
+869	871	UE	UE	ORG	ORG-European-Union
+923	931	Brukselą	Bruksela	LOC	GPE-Brussles
+981	984	BBC	BBC	PRO	PRO-BBC
+1040	1047	brexitu	Brexit	EVT	EVT-Brexit
+1050	1073	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+1101	1116	Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+1158	1169	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1271	1273	UE	UE	ORG	ORG-European-Union
+1289	1306	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1345	1360	europarlamencie	Europarlament	ORG	ORG-European-Parliament
+1363	1390	Europejskiej Partii Ludowej	Europejska Partia Ludowa	ORG	ORG-EPP-European-Peoples-Party
+1392	1395	EPL	EPL	ORG	ORG-EPP-European-Peoples-Party
+1399	1412	Manfred Weber	Manfred Weber	PER	PER-Manfred-Weber
+1541	1544	EPL	EPL	ORG	ORG-EPP-European-Peoples-Party
+1613	1618	Weber	Weber	PER	PER-Manfred-Weber
+1645	1657	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1699	1701	UE	UE	ORG	ORG-European-Union
+1860	1875	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1904	1921	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1958	1967	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+2009	2017	brexicie	Brexit	EVT	EVT-Brexit

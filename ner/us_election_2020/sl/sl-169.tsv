@@ -1,0 +1,72 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+43	50	Georgii	Georgia	LOC	GPE-Georgia-US-state
+52	57	Trump	Trump	PER	PER-Donald-Trump
+119	126	Georgia	Georgia	LOC	GPE-Georgia-US-state
+219	230	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+232	241	Demokratu	Demokrat	PER	ORG-Democratic-Party-USA
+309	312	ZDA	ZDA	LOC	GPE-USA
+313	327	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+370	388	Brad Raffensperger	Brad Raffensperger	PER	PER-Brad-Raffensperger
+391	398	Georgia	Georgia	LOC	GPE-Georgia-US-state
+408	419	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+485	490	Biden	Biden	PER	PER-Joe-Biden
+826	838	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+972	975	ZDA	ZDA	LOC	GPE-USA
+986	991	Biden	Biden	PER	PER-Joe-Biden
+1107	1112	Trump	Trump	PER	PER-Donald-Trump
+1143	1148	Trump	Trump	PER	PER-Donald-Trump
+1259	1262	ZDA	ZDA	LOC	GPE-USA
+1422	1427	Trump	Trump	PER	PER-Donald-Trump
+1642	1647	Trump	Trump	PER	PER-Donald-Trump
+1656	1665	Belo hišo	Bela hiša	LOC	LOC-White-House
+1698	1726	državnega kongresa Michigana	državni kongres Michigana	ORG	ORG-Michigan-State-Capitol
+1809	1817	Trumpovi	Trump	PER	PER-Donald-Trump
+1878	1891	okrožju Wayne	okrožje Wayne	LOC	GPE-Wayne
+1894	1903	Michiganu	Michigan	LOC	GPE-Michigan
+1941	1948	Detroit	Detroit	LOC	GPE-Detroit
+2057	2068	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+2128	2133	Trump	Trump	PER	PER-Donald-Trump
+2168	2181	okrožja Wayne	okrožje Wayne	LOC	GPE-Wayne
+2226	2250	državno volilno komisijo	državna volilna komisija	ORG	ORG-FEC-Federal-Election-Commission
+2253	2258	Biden	Biden	PER	PER-Joe-Biden
+2301	2312	Wilmingtonu	Wilmington	LOC	GPE-Wilmington
+2338	2347	Trumpovem	Trump	PER	PER-Donald-Trump
+2373	2386	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+2432	2440	Trumpovo	Trump	PER	PER-Donald-Trump
+2478	2483	Biden	Biden	PER	PER-Joe-Biden
+2535	2547	republikance	republikanci	ORG	ORG-Republican-Party-USA
+2659	2671	koronavirusa	koronavirus	EVT	EVT-Covid-19
+2674	2677	ZDA	ZDA	LOC	GPE-USA
+2688	2693	Trump	Trump	PER	PER-Donald-Trump
+2767	2772	Biden	Biden	PER	PER-Joe-Biden
+2955	2960	Biden	Biden	PER	PER-Joe-Biden
+2963	2972	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+3044	3052	Trumpove	Trump	PER	PER-Donald-Trump
+3083	3100	Rudyja Giulianija	Rudy Giuliani	PER	PER-Rudy-Giuliani
+3222	3230	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+3264	3271	Trumpov	Trump	PER	PER-Donald-Trump
+3281	3294	Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+3350	3358	Trumpove	Trump	PER	PER-Donald-Trump
+3415	3420	Trump	Trump	PER	PER-Donald-Trump
+3431	3442	Chris Krebs	Chris Krebs	PER	PER-Chris-Krebs
+3484	3496	Giulianijeva	Giuliani	PER	PER-Rudy-Giuliani
+3605	3613	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+3757	3766	Tanzaniji	Tanzanija	LOC	GPE-Tanzania
+3815	3824	Venezuele	Venezuela	LOC	GPE-Venezuela
+3826	3830	Kube	Kuba	LOC	GPE-Cuba
+3834	3842	Kitajske	Kitajska	LOC	GPE-China
+3882	3891	Venezuele	Venezuela	LOC	GPE-Venezuela
+4031	4046	My Cousin Vinny	My Cousin Vinny	PRO	PRO-My-Cousin-Vinny
+4059	4068	Joe Pesci	Joe Pesci	PER	PER-Joe-Pesci
+4074	4082	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+4165	4173	Trumpovi	Trump	PER	PER-Donald-Trump
+4278	4285	Arizoni	Arizona	LOC	GPE-Arizona
+4287	4294	Georgii	Georgia	LOC	GPE-Georgia-US-state
+4296	4307	Novi Mehiki	Nova Mehika	LOC	GPE-New-Mexico
+4470	4475	Trump	Trump	PER	PER-Donald-Trump
+4545	4553	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+4594	4607	Marc Scaringi	Marc Scaringi	PER	PER-Marc-Scaringi
+4627	4632	Bidnu	Biden	PER	PER-Joe-Biden
+4756	4762	Bidnov	Biden	PER	PER-Joe-Biden
+5026	5034	Harvarda	Harvard	ORG	ORG-Harvard-University
+5035	5058	Nicholas Stephanopoulos	Nicholas Stephanopoulos	PER	PER-Nicholas-Stephanopoulos

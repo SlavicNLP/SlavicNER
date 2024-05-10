@@ -1,0 +1,32 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+48	53	Trump	Trump	PER	PER-Donald-Trump
+213	217	Barr	Barr	PER	PER-William-Barr
+235	238	CNN	CNN	PRO	PRO-CNN
+277	283	Trumpa	Trump	PER	PER-Donald-Trump
+358	363	Trump	Trump	PER	PER-Donald-Trump
+432	442	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+453	463	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+517	522	Turmp	Trump	PER	PER-Donald-Trump
+573	584	Wilmingtonu	Wilmington	LOC	GPE-Wilmington
+587	603	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+666	671	Trump	Trump	PER	PER-Donald-Trump
+738	747	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+802	805	ZDA	ZDA	LOC	GPE-USA
+817	833	Severno Karolino	Severna Karolina	LOC	GPE-North-Carolina-US-State
+920	923	ZDA	ZDA	LOC	GPE-USA
+961	977	Severne Karoline	Severna Karolina	LOC	GPE-North-Carolina-US-State
+1069	1085	Severne Karoline	Severna Karolina	LOC	GPE-North-Carolina-US-State
+1086	1096	Josh Stein	Josh Stein	PER	PER-Josh-Stein
+1137	1153	Severne Karoline	Severna Karolina	LOC	GPE-North-Carolina-US-State
+1154	1168	Patrick Gannon	Patrick Gannon	PER	PER-Patrick-Gannon
+1500	1505	Trump	Trump	PER	PER-Donald-Trump
+1626	1635	demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+1790	1796	Trumpa	Trump	PER	PER-Donald-Trump
+2004	2010	Trumpu	Trump	PER	PER-Donald-Trump
+2061	2076	Josephom Bidnom	Joseph Biden	PER	PER-Joe-Biden
+2078	2087	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+2106	2111	Trump	Trump	PER	PER-Donald-Trump
+2171	2174	CNN	CNN	PRO	PRO-CNN
+2219	2223	Barr	Barr	PER	PER-William-Barr
+2244	2253	Kitajskem	Kitajska	LOC	GPE-China
+2292	2295	ZDA	ZDA	LOC	GPE-USA

@@ -1,0 +1,85 @@
+0	5	TRUMP	TRUMP	PER	PER-Donald-Trump
+34	37	ZDA	ZDA	LOC	GPE-USA
+41	50	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+59	66	Reuters	Reuters	ORG	ORG-Reuters
+92	95	ZDA	ZDA	LOC	GPE-USA
+96	105	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+293	298	Biden	Biden	PER	PER-Joe-Biden
+309	318	Američane	Američani	PER	GPE-USA
+650	655	Biden	Biden	PER	PER-Joe-Biden
+692	702	Američanov	Američani	PER	GPE-USA
+807	819	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+887	892	Biden	Biden	PER	PER-Joe-Biden
+1104	1109	Biden	Biden	PER	PER-Joe-Biden
+1168	1175	Georgii	Georgia	LOC	GPE-Georgia-US-state
+1224	1236	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1266	1273	Arizoni	Arizona	LOC	GPE-Arizona
+1287	1293	Nevadi	Nevada	LOC	GPE-Nevada
+1402	1407	Biden	Biden	PER	PER-Joe-Biden
+1461	1464	ZDA	ZDA	LOC	GPE-USA
+1466	1471	Trump	Trump	PER	PER-Donald-Trump
+1491	1496	Trump	Trump	PER	PER-Donald-Trump
+1524	1529	Trump	Trump	PER	PER-Donald-Trump
+1533	1538	Bidna	Biden	PER	PER-Joe-Biden
+1661	1670	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1796	1805	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1937	1942	Trump	Trump	PER	PER-Donald-Trump
+2002	2014	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2055	2065	Američanom	Američani	PER	GPE-USA
+2208	2223	Združene države	Združene države	LOC	GPE-USA
+2322	2331	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2354	2366	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2380	2386	Nevadi	Nevada	LOC	GPE-Nevada
+2390	2397	Georgii	Georgia	LOC	GPE-Georgia-US-state
+2468	2480	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2503	2510	Aljaski	Aljaska	LOC	GPE-Alaska
+2606	2618	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2620	2627	Bidnova	Biden	PER	PER-Joe-Biden
+2642	2649	Trumpom	Trump	PER	PER-Donald-Trump
+2773	2780	Georgii	Georgie	LOC	GPE-Georgia-US-state
+2784	2796	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2902	2907	Bidnu	Biden	PER	PER-Joe-Biden
+2936	2957	Republikanska stranka	Republikanska stranka	ORG	ORG-Republican-Party-USA
+3073	3085	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+3285	3297	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+3337	3343	Trumpa	Trump	PER	PER-Donald-Trump
+3347	3359	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+3437	3465	ameriškega vrhovnega sodišča	ameriško vrhovno sodišče	ORG	ORG-Supreme-Court-of-the-United-States
+3466	3478	Samuel Alito	Samuel Alito	PER	PER-Samuel-Alito
+3519	3532	republikancev	republikanci	PER	ORG-Republican-Party-USA
+3574	3586	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+3984	3991	Bidnova	Biden	PER	PER-Joe-Biden
+4074	4077	ZDA	ZDA	LOC	GPE-USA
+4110	4115	Trump	Trump	PER	PER-Donald-Trump
+4565	4570	Trump	Trump	PER	PER-Donald-Trump
+4701	4707	Trumpa	Trump	PER	PER-Donald-Trump
+4759	4762	ZDA	ZDA	LOC	GPE-USA
+5123	5132	demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+5141	5146	Trump	Trump	PER	PER-Donald-Trump
+5289	5301	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+5303	5312	Michiganu	Michigan	LOC	GPE-Michigan
+5314	5324	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+5328	5335	Georgii	Georgia	LOC	GPE-Georgia-US-state
+5500	5507	Arizoni	Arizona	LOC	GPE-Arizona
+5562	5568	Bidnom	Biden	PER	PER-Joe-Biden
+5585	5597	Mojca Gorjan	Mojca Gorjan	PER	PER-Mojca-Gorjan
+5601	5616	Andreja Židanik	Andreja Židanik	PER	PER-Andreja-Židanik
+5621	5626	Utahu	Utah	LOC	GPE-Utah
+5639	5644	Biden	Biden	PER	PER-Joe-Biden
+5665	5672	Georgii	Georgia	LOC	GPE-Georgia-US-state
+5778	5785	Bidnova	Biden	PER	PER-Joe-Biden
+5800	5807	Trumpom	Trump	PER	PER-Donald-Trump
+5810	5822	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+5893	5895	AP	AP	ORG	ORG-AP-The-Associated-Press
+5899	5906	Georgii	Georgie	LOC	GPE-Georgia-US-state
+5985	5990	Biden	Biden	PER	PER-Joe-Biden
+6187	6194	Arizoni	Arizona	LOC	GPE-Arizona
+6245	6250	Biden	Biden	PER	PER-Joe-Biden
+6290	6296	Nevadi	Nevada	LOC	GPE-Nevada
+6300	6305	Biden	Biden	PER	PER-Joe-Biden
+6468	6472	Utah	Utah	LOC	GPE-Utah
+6521	6524	RCP	RCP	PRO	ORG-RealClearPolitics
+6625	6630	Trump	Trump	PER	PER-Donald-Trump
+6649	6660	Kalifornijo	Kalifornija	LOC	GPE-California
+6677	6682	Biden	Biden	PER	PER-Joe-Biden
+7055	7066	Ballotpedia	Ballotpedia	PRO	PRO-Ballotpedia

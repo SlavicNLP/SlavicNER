@@ -1,0 +1,22 @@
+45	52	brexitu	brexit	EVT	EVT-Brexit
+54	62	Británii	Británie	LOC	GPE-Great-Britain
+77	79	EU	EU	ORG	ORG-European-Union
+139	153	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+156	164	Británií	Británie	LOC	GPE-Great-Britain
+300	308	Británií	Británie	LOC	GPE-Great-Britain
+311	317	Irskem	Irsko	LOC	GPE-Ireland
+421	435	Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+437	443	Londýn	Londýn	LOC	GPE-London
+463	468	Irsku	Irsko	LOC	GPE-Ireland
+553	567	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+601	609	Británie	Británie	LOC	GPE-Great-Britain
+719	739	Konzervativní strany	Konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+765	771	Mayová	Mayová	PER	PER-Theresa-May
+812	818	Londýn	Londýn	LOC	GPE-London
+920	933	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1000	1007	brexitu	brexit	EVT	EVT-Brexit
+1040	1053	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1120	1127	Johnson	Johnson	PER	PER-Boris-Johnson
+1194	1202	Británii	Británie	LOC	GPE-Great-Britain
+1271	1277	Mayová	Mayová	PER	PER-Theresa-May
+1393	1399	brexit	brexit	EVT	EVT-Brexit

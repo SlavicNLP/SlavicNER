@@ -1,0 +1,28 @@
+28	34	Pfizer	Pfizer	ORG	ORG-Pfizer
+58	70	коронавірусу	коронавірус	EVT	EVT-Covid-19
+131	137	Pfizer	Pfizer	ORG	ORG-Pfizer
+206	214	BioNTech	BioNTech	ORG	ORG-BioNTech
+217	223	Pfizer	Pfizer	ORG	ORG-Pfizer
+281	293	коронавірусу	коронавірус	EVT	EVT-Covid-19
+340	347	The Sun	The Sun	PRO	PRO-The-Sun
+430	442	коронавірусу	коронавірус	EVT	EVT-Covid-19
+463	470	B.1.1.7	B.1.1.7	EVT	EVT-B.1.1.7
+585	593	BioNTech	BioNTech	ORG	ORG-BioNTech
+596	602	Pfizer	Pfizer	ORG	ORG-Pfizer
+663	669	Pfizer	Pfizer	ORG	ORG-Pfizer
+793	800	В.1.1.7	В.1.1.7	EVT	EVT-B.1.1.7
+912	919	В.1.1.7	В.1.1.7	EVT	EVT-B.1.1.7
+931	939	BNT162b2	BNT162b2	PRO	PRO-BNT162b2-Tozinameran
+949	955	Pfizer	Pfizer	ORG	ORG-Pfizer
+956	964	BionTech	BioNTech	ORG	ORG-BioNTech
+986	995	Німеччині	Німеччина	LOC	GPE-Germany
+1027	1035	COVID-19	COVID-19	EVT	EVT-Covid-19
+1164	1172	пандемії	пандемія	EVT	EVT-Covid-19
+1174	1182	COVID-19	COVID-19	EVT	EVT-Covid-19
+1257	1260	США	США	LOC	GPE-USA
+1262	1267	Індії	Індія	LOC	GPE-India
+1271	1279	Бразилії	Бразилія	LOC	GPE-Brazil
+1300	1312	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1313	1328	Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+1450	1457	Франції	Франція	LOC	GPE-France
+1502	1516	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel

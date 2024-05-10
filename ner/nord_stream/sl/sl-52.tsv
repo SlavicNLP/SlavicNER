@@ -1,0 +1,56 @@
+0	7	Gazprom	Gazprom	ORG	ORG-Gazprom
+52	65	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+92	99	Gazprom	Gazprom	ORG	ORG-Gazprom
+174	187	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+308	315	Baltika	Baltik	LOC	LOC-Baltic-Sea
+320	326	Rusijo	Rusija	LOC	GPE-Russia
+330	337	Nemčijo	Nemčija	LOC	GPE-Germany
+376	387	Severni tok	Severni tok	PRO	PRO-Nord-Stream-1
+390	397	Gazprom	Gazprom	ORG	ORG-Gazprom
+519	538	Aleksejem Millerjem	Aleksej Miller	PER	PER-Aleksey-Miller
+568	574	Rusiji	Rusija	LOC	GPE-Russia
+575	589	Sylvie Bermann	Sylvie Bermann	PER	PER-Sylvie-Agnès-Bermann
+654	663	Gazpromom	Gazprom	ORG	ORG-Gazprom
+813	826	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+861	876	Baltskim morjem	Baltsko morje	LOC	LOC-Baltic-Sea
+971	979	Gazpromu	Gazprom	ORG	ORG-Gazprom
+982	995	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1007	1020	Severni tok 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+1053	1060	Gazprom	Gazprom	ORG	ORG-Gazprom
+1062	1068	Rusijo	Rusija	LOC	GPE-Russia
+1072	1079	Nemčijo	Nemčija	LOC	GPE-Germany
+1119	1134	Baltskim morjem	Baltsko morje	LOC	LOC-Baltic-Sea
+1145	1151	Rusije	Rusija	LOC	GPE-Russia
+1153	1159	Finske	Finska	LOC	GPE-Finland
+1161	1168	Švedske	Švedska	LOC	GPE-Sweden
+1170	1176	Danske	Danska	LOC	GPE-Denmark
+1180	1187	Nemčije	Nemčija	LOC	GPE-Germany
+1211	1219	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1234	1240	Rusija	Rusija	LOC	GPE-Russia
+1299	1306	Nemčijo	Nemčija	LOC	GPE-Germany
+1310	1316	Rusije	Rusija	LOC	GPE-Russia
+1504	1512	Euractiv	Euractiv	ORG	ORG-EURACTIV
+1544	1551	Nemčija	Nemčija	LOC	GPE-Germany
+1553	1559	Rusija	Rusija	LOC	GPE-Russia
+1561	1567	Finska	Finska	LOC	GPE-Finland
+1571	1578	Švedska	Švedska	LOC	GPE-Sweden
+1608	1614	Danska	Danska	LOC	GPE-Denmark
+1665	1678	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+1797	1803	Danske	Danska	LOC	GPE-Denmark
+1860	1873	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+1960	1985	danska agencija za okolje	danska agencija za okolje	ORG	ORG-EPA-Danish-Environmental-Protection-Agency
+2044	2053	Euractiva	Euractiv	ORG	ORG-EURACTIV
+2116	2124	Bornholm	Bornholm	LOC	LOC-Bornholm
+2187	2194	Poljske	Poljska	LOC	GPE-Poland
+2288	2301	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2350	2356	Evrope	Evropa	LOC	LOC-Europe
+2360	2366	Rusije	Rusija	LOC	GPE-Russia
+2451	2453	EU	EU	ORG	ORG-European-Union
+2472	2479	Poljske	Poljska	LOC	GPE-Poland
+2565	2567	EU	EU	ORG	ORG-European-Union
+2652	2654	EU	EU	ORG	ORG-European-Union
+2710	2727	direktive o plinu	direktiva o plinu	PRO	PRO-Gas-Directive-EU
+2785	2792	Svet EU	Svet EU	ORG	ORG-Council-of-the-European-Union
+2804	2825	Evropskim parlamentom	Evropski parlament	ORG	ORG-European-Parliament
+2960	2977	Evropski komisiji	Evropska komisija	ORG	ORG-European-Commission
+3176	3179	sta	sta	ORG	ORG-Slovenian-Press-Agency

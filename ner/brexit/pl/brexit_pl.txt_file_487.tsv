@@ -1,0 +1,21 @@
+13	18	Tuska	Tusk	PER	PER-Donald-Tusk
+21	29	Junckera	Juncker	PER	PER-Jean-Claude-Juncker
+31	33	UE	UE	ORG	ORG-European-Union
+63	70	Brexitu	Brexit	EVT	EVT-Brexit
+85	102	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+142	144	UE	UE	ORG	ORG-European-Union
+147	153	Brexit	Brexit	EVT	EVT-Brexit
+321	332	David Davis	David Davis	PER	PER-David-Davis
+347	354	Brexitu	Brexit	EVT	EVT-Brexit
+446	450	Tusk	Tusk	PER	PER-Donald-Tusk
+476	490	europarlamentu	europarlament	ORG	ORG-European-Parliament
+510	514	Tusk	Tusk	PER	PER-Donald-Tusk
+629	636	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+638	646	Londynie	Londyn	LOC	GPE-London
+712	757	Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+758	770	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+808	816	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+834	851	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+854	856	UE	UE	ORG	ORG-European-Union
+857	868	Arron Banks	Arron Banks	PER	PER-Arron-Banks
+917	924	Brexitu	Brexit	EVT	EVT-Brexit

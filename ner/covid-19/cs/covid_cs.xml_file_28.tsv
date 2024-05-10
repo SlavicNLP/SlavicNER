@@ -1,0 +1,17 @@
+18	27	covidu-19	covid-19	EVT	EVT-Covid-19
+29	36	Britové	Britové	PER	GPE-Great-Britain
+86	100	Velké Británii	Velká Británie	LOC	GPE-Great-Britain
+121	132	koronavirus	koronavirus	EVT	EVT-Covid-19
+454	465	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+522	531	covidu-19	covid-19	EVT	EVT-Covid-19
+624	633	covidu-19	covid-19	EVT	EVT-Covid-19
+733	754	Catherine Houlihanová	Catherine Houlihanová	PER	PER-Catherine-Houlihan
+759	762	BBC	BBC	PRO	PRO-BBC
+1152	1155	HIV	HIV	EVT	EVT-AIDS
+1239	1249	Jiří Černý	Jiří Černý	PER	PER-Jiri-Cerny
+1254	1273	Spojeném království	Spojené království	LOC	GPE-Great-Britain
+1481	1487	Evropě	Evropa	LOC	LOC-Europe
+1536	1541	Řecku	Řecko	LOC	GPE-Greece
+1612	1619	Německo	Německo	LOC	GPE-Germany
+1682	1688	Evropy	Evropa	LOC	LOC-Europe
+1842	1851	František	František	PER	PER-Pope-Francis

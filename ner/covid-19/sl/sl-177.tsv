@@ -1,0 +1,58 @@
+70	78	COVID-19	covid-19	EVT	EVT-Covid-19
+225	234	covida-19	covid-19	EVT	EVT-Covid-19
+449	460	Borut Pahor	Borut Pahor	PER	PER-Borut-Pahor
+501	516	Kongresnem trgu	Kongresni trg	LOC	LOC-Congress-Square
+519	528	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+582	593	Janez Janša	Janez Janša	PER	PER-Janez-Janša
+606	608	DZ	DZ	ORG	ORG-National-Assembly-of-the-Republic-of-Slovenia
+609	620	Igor Zorčič	Igor Zorčič	PER	PER-Igor-Zorčič
+633	635	DS	DS	ORG	ORG-National-Council-of-the-Repubilc-of-Slovenia
+636	648	Alojz Kovšca	Alojz Kovšca	PER	PER-Alojz-Kovšca
+659	688	Generalštaba Slovenske vojske	Generalštab Slovenske vojske	ORG	ORG-General-Staff-of-the-Armed-Forces-of-the-Republic-of-Slovenia
+689	702	Robert Glavaš	Robert Glavaš	PER	PER-Robert-Glavaš
+744	756	Andrej Jurič	Andrej Jurič	PER	PER-Andrej-Jurič
+770	772	DZ	DZ	ORG	ORG-National-Assembly-of-the-Republic-of-Slovenia
+773	784	Igor Zorčič	Igor Zorčič	PER	PER-Igor-Zorčič
+840	849	Slovenijo	Slovenija	LOC	GPE-Slovenia
+878	881	NOB	NOB	EVT	EVT-Narodnoosvobodilni-boj-Slovenia
+886	897	Lipi sprave	Lipa sprave	LOC	LOC-Lipa-sprave
+1162	1181	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+1234	1264	Slovenske škofovske konference	Slovenska škofovska konferenca	ORG	ORG-Slovenian-Bishops'-Conference
+1265	1279	Stanislav Zore	Stanislav Zore	PER	PER-Stanislav-Zore
+1543	1552	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+1596	1599	Žal	Žale	LOC	LOC-Žale
+1627	1632	Kopru	Koper	LOC	GPE-Koper
+1684	1705	Mestni občini Maribor	Mestna občina Maribor	ORG	ORG-City-Municipality-of-Maribor
+1746	1754	Pobrežje	Pobrežje	LOC	LOC-Pobrežje
+1756	1761	Gorca	Gorca	LOC	LOC-Gorca
+1765	1773	Razvanje	Razvanje	LOC	LOC-Razvanje
+1805	1821	Katoliška cerkev	Katoliška cerkev	ORG	ORG-Catholic-Church
+1876	1892	Katoliški cerkvi	Katoliška cerkev	ORG	ORG-Catholic-Church
+2035	2043	COVID-19	COVID-19	EVT	EVT-Covid-19
+2110	2116	Cerkev	Cerkev	ORG	ORG-Catholic-Church
+2157	2163	Galije	Galija	LOC	LOC-Gaul
+2216	2230	zahodno Cerkev	zahodna Cerkev	ORG	ORG-Western-Catholic-Church
+2244	2258	vzhodne Cerkve	vzhodna Cerkev	ORG	ORG-Eastern-Catholic-Church
+2322	2326	Rimu	Rim	LOC	GPE-Rome
+2334	2347	Bonifacij IV.	Bonifacij IV.	PER	PER-Pope-Boniface-IV
+2387	2395	Pantheon	Pantheon	LOC	LOC-Pantheon
+2405	2418	Devici Mariji	Devica Marija	PER	PER-Mary-mother-of-Jesus
+2540	2551	Gregor III.	Gregor III.	PER	PER-Pope-Gregory-III
+2570	2575	Petru	Peter	PER	PER-Saint-Peter
+2578	2582	Rimu	Rim	LOC	GPE-Rome
+2614	2624	Odrešeniku	Odrešenik	PER	PER-Jesus-Christ
+2634	2640	Materi	Mati	PER	PER-Mary-mother-of-Jesus
+2687	2703	Papež Gregor IV.	Papež Gregor IV.	PER	PER-Pope-Gregory-IV
+2816	2822	Cerkvi	Cerkev	ORG	ORG-Catholic-Church
+2849	2853	Rimu	Rim	LOC	GPE-Rome
+2953	2959	Cerkev	Cerkev	ORG	ORG-Catholic-Church
+3241	3246	Bogom	Bog	PER	PER-God
+3371	3376	Božja	Bog	PER	PER-God
+3406	3411	Božjo	Bog	PER	PER-God
+3545	3551	Cerkve	Cerkev	ORG	ORG-Catholic-Church
+3797	3808	Kristusovih	Kristus	PER	PER-Jesus-Christ
+3995	4003	Kristusu	Kristus	PER	PER-Jesus-Christ
+4343	4349	Cerkve	Cerkev	ORG	ORG-Catholic-Church
+4386	4392	Cerkvi	Cerkev	ORG	ORG-Catholic-Church
+4418	4425	Gospoda	Gospod	PER	PER-God
+4491	4494	SŠK	SŠK	ORG	ORG-Slovenian-Bishops'-Conference

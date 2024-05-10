@@ -1,0 +1,66 @@
+9	14	Biden	Biden	PER	PER-Joe-Biden
+167	176	Biały Dom	Biały Dom	LOC	LOC-White-House
+291	311	Kolegium Elektorskim	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+387	397	Kalifornia	Kalifornia	LOC	GPE-California
+735	744	Nowy Jork	Nowy Jork	LOC	GPE-New-York
+756	766	Demokratom	Demokraci	ORG	ORG-Democratic-Party-USA
+770	789	Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+790	802	Republikanom	Republikanie	ORG	ORG-Republican-Party-USA
+909	916	Floryda	Floryda	LOC	GPE-Florida
+918	929	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+931	939	Michigan	Michigan	LOC	GPE-Michigan
+941	950	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+952	969	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+971	975	Iowa	Iowa	LOC	GPE-Iowa
+981	988	Arizona	Arizona	LOC	GPE-Arizona
+999	1006	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1008	1014	Teksas	Teksas	LOC	GPE-Texas
+1020	1024	Ohio	Ohio	LOC	GPE-Ohio
+1098	1107	Florydzie	Floryda	LOC	GPE-Florida
+1182	1199	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+1237	1243	Bidena	Biden	PER	PER-Joe-Biden
+1370	1377	Florydy	Floryda	LOC	GPE-Florida
+1445	1453	Trumpowi	Trump	PER	PER-Donald-Trump
+1455	1467	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+1506	1509	USA	USA	LOC	GPE-USA
+1519	1529	Amerykanów	Amerykanie	PER	GPE-USA
+1627	1648	Partii Demokratycznej	Partia Demokratyczna	ORG	ORG-Democratic-Party-USA
+1720	1729	Pasa Rdzy	Pas Rdzy	LOC	LOC-Rust-Belt
+1763	1778	Wielkich Jezior	Wielkie Jeziora	LOC	LOC-Great-Lakes
+1811	1821	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1835	1840	Trump	Trump	PER	PER-Donald-Trump
+1917	1932	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1935	1946	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+1948	1956	Michigan	Michigan	LOC	GPE-Michigan
+1962	1971	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+2036	2042	Trumpa	Trump	PER	PER-Donald-Trump
+2045	2055	Pasie Rdzy	Pas Rdzy	LOC	LOC-Rust-Belt
+2158	2170	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+2216	2221	Biden	Biden	PER	PER-Joe-Biden
+2253	2260	Clinton	Clinton	PER	PER-Hillary-Clinton
+2264	2275	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+2316	2324	Michigan	Michigan	LOC	GPE-Michigan
+2345	2354	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+2388	2405	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+2407	2421	Steve Kornacki	Steve Kornacki	PER	PER-Steve-Kornacki
+2439	2444	MSNBC	MSNBC	PRO	PRO-MSNBC-TV
+2503	2509	Trumpa	Trump	PER	PER-Donald-Trump
+2568	2576	Michigan	Michigan	LOC	GPE-Michigan
+2598	2609	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+2643	2652	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+2719	2725	Trumpa	Trump	PER	PER-Donald-Trump
+2728	2747	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+2805	2812	Ameryki	Ameryka	LOC	GPE-USA
+2847	2855	Trumpowi	Trump	PER	PER-Donald-Trump
+2930	2937	Bidenem	Biden	PER	PER-Joe-Biden
+2939	2948	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+2997	3014	Karoliną Północną	Karolina Północna	LOC	GPE-North-Carolina-US-State
+3015	3022	Georgią	Georgia	LOC	GPE-Georgia-US-state
+3046	3058	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+3135	3141	Teksas	Teksas	LOC	GPE-Texas
+3144	3151	Arizonę	Arizona	LOC	GPE-Arizona
+3271	3278	Georgii	Georgie	LOC	GPE-Georgia-US-state
+3320	3328	Teksasie	Teksas	LOC	GPE-Texas
+3346	3354	Arizonie	Arizona	LOC	GPE-Arizona
+3446	3455	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+3579	3598	Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)

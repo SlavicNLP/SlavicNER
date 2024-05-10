@@ -1,0 +1,26 @@
+20	27	brexitu	brexit	EVT	EVT-Brexit
+39	44	Čechy	Češi	PER	GPE-Czech-Republic
+48	56	Británii	Británie	LOC	GPE-Great-Britain
+121	129	Barniera	Barnier	PER	PER-Michel-Barnier
+175	180	Babiš	Babiš	PER	PER-Andrej-Babis
+198	206	Británii	Británie	LOC	GPE-Great-Britain
+242	247	Česko	Česko	LOC	GPE-Czech-Republic
+262	270	Británie	Británie	LOC	GPE-Great-Britain
+361	369	Británie	Británie	LOC	GPE-Great-Britain
+372	374	EU	EU	ORG	ORG-European-Union
+430	438	Barniera	Barnier	PER	PER-Michel-Barnier
+531	537	Irskem	Irsko	LOC	GPE-Ireland
+549	564	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+757	765	Británií	Británie	LOC	GPE-Great-Britain
+768	770	EU	EU	ORG	ORG-European-Union
+813	818	Babiš	Babiš	PER	PER-Andrej-Babis
+871	876	Česka	Česko	LOC	GPE-Czech-Republic
+975	989	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+1058	1066	Británie	Británie	LOC	GPE-Great-Britain
+1120	1127	Barnier	Barnier	PER	PER-Michel-Barnier
+1291	1297	Norska	Norsko	LOC	GPE-Norway
+1369	1377	Británie	Británie	LOC	GPE-Great-Britain
+1411	1431	Evropský soudní dvůr	Evropský soudní dvůr	ORG	ORG-European-Court-of-Justice
+1508	1515	Barnier	Barnier	PER	PER-Michel-Barnier
+1615	1617	EU	EU	ORG	ORG-European-Union
+1620	1628	Británií	Británie	LOC	GPE-Great-Britain

@@ -1,0 +1,59 @@
+27	34	Brexitu	Brexit	EVT	EVT-Brexit
+37	46	Rosjanami	Rosjanie	PER	GPE-Russia
+58	65	Stalina	Stalin	PER	PER-Stalin
+92	108	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+133	140	Brexitu	Brexit	EVT	EVT-Brexit
+149	194	Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+196	200	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+203	218	Nigela Farage’a	Nigel Farage	PER	PER-Nigel-Farage
+221	232	Arron Banks	Arron Banks	PER	PER-Arron-Banks
+270	282	Andy Wigmore	Andy Wigmore	PER	PER-Andy-Wigmore
+313	319	Moskwy	Moskwa	LOC	GPE-Moscow
+337	354	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+436	468	torze wyścigów konnych Doncaster	Tor wyścigów konnych Doncaster	LOC	LOC-Doncaster-Racetrack
+493	503	Copacabana	Copacabana	LOC	LOC-Copacabana
+535	546	Trump Tower	Trump Tower	LOC	LOC-Trump-Tower
+549	560	Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+636	642	Belize	Belize	LOC	GPE-Belize
+673	685	Jamesa Bonda	James Bond	PER	PER-James-Bond
+699	709	Goldfinger	Goldfinger	PER	PER-Goldfinger
+723	729	RUPTLY	RUPTLY	ORG	ORG-RUPTLY
+860	877	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+880	883	USA	USA	LOC	GPE-USA
+909	921	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+983	989	Moskwy	Moskwa	LOC	GPE-Moscow
+1178	1195	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1198	1200	UE	UE	ORG	ORG-European-Union
+1203	1209	Moskwą	Moskwa	LOC	GPE-Moscow
+1284	1289	Rosji	Rosja	LOC	GPE-Russia
+1324	1335	Arron Banks	Arron Banks	PER	PER-Arron-Banks
+1402	1410	Londynie	Londyn	LOC	GPE-London
+1503	1604	The Bad Boys of Brexit: Tales of Mischief, Mayhem and Guerrilla Warfare in the EU Referendum Campaign	The Bad Boys of Brexit: Tales of Mischief, Mayhem and Guerrilla Warfare in the EU Referendum Campaign	PRO	PRO-The-Bad-Boys-of-Brexit-book
+1675	1683	Londynie	Londyn	LOC	GPE-London
+1684	1706	Aleksandrem Jakowienko	Aleksander Jakowienko	PER	PER-Aleksander-Jakowienko
+1818	1832	Józefa Stalina	Józef Stalin	PER	PER-Stalin
+1955	1960	Banks	Banks	PER	PER-Arron-Banks
+2351	2357	Trumpa	Trump	PER	PER-Donald-Trump
+2465	2470	Rosji	Rosja	LOC	GPE-Russia
+2500	2505	Banks	Banks	PER	PER-Arron-Banks
+2528	2532	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+2533	2549	Nigelem Farge’em	Nigel Farge	PER	PER-Nigel-Farage
+2563	2566	USA	USA	LOC	GPE-USA
+2672	2683	Trump Tower	Trump Tower	LOC	LOC-Trump-Tower
+2815	2820	Trump	Trump	PER	PER-Donald-Trump
+2966	2972	Banksa	Banks	PER	PER-Arron-Banks
+3018	3028	Jakowienkę	Jakowienko	PER	PER-Aleksander-Jakowienko
+3077	3084	Londynu	Londyn	LOC	GPE-London
+3289	3296	Trumpem	Trump	PER	PER-Donald-Trump
+3298	3304	Banksa	Banks	PER	PER-Arron-Banks
+3352	3362	Jakowienko	Jakowienko	PER	PER-Aleksander-Jakowienko
+3427	3433	Trumpa	Trump	PER	PER-Donald-Trump
+3530	3536	Trumpa	Trump	PER	PER-Donald-Trump
+3693	3698	Trump	Trump	PER	PER-Donald-Trump
+3739	3744	Banks	Banks	PER	PER-Arron-Banks
+3764	3772	Londynie	Londyn	LOC	GPE-London
+3780	3792	Waszyngtonie	Waszyngton	LOC	GPE-WashingtonDC
+3813	3818	Rosją	Rosja	LOC	GPE-Russia
+3978	3986	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+4030	4039	Atlantyku	Atlantyk	LOC	LOC-Atlantic-Ocean
+4055	4061	Moskwy	Moskwa	LOC	GPE-Moscow

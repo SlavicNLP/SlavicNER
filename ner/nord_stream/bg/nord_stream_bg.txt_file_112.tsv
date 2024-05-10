@@ -1,0 +1,49 @@
+39	52	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+58	65	Газпром	Газпром	ORG	ORG-Gazprom
+150	163	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+187	194	Газпром	Газпром	ORG	ORG-Gazprom
+267	275	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+284	291	Газпром	Газпром	ORG	ORG-Gazprom
+305	312	Ройтерс	Ройтерс	ORG	ORG-Reuters
+333	347	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+350	366	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+371	378	Газпром	Газпром	ORG	ORG-Gazprom
+439	446	Газпром	Газпром	ORG	ORG-Gazprom
+502	509	Газпром	Газпром	ORG	ORG-Gazprom
+573	577	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+616	629	Виктор Зубков	Виктор Зубков	PER	PER-Viktor-Zubkov
+632	645	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+692	697	Русия	Русия	LOC	GPE-Russia
+702	708	Европа	Европа	LOC	LOC-Europe
+728	744	Северен поток“ 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+765	771	Зубков	Зубков	PER	PER-Viktor-Zubkov
+899	907	Германия	Германия	LOC	GPE-Germany
+923	930	Газпром	Газпром	ORG	ORG-Gazprom
+933	941	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+1025	1033	Стокхолм	Стокхолм	LOC	GPE-Stockholm
+1076	1084	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+1085	1092	Газпром	Газпром	ORG	ORG-Gazprom
+1138	1146	Стокхолм	Стокхолм	LOC	GPE-Stockholm
+1209	1217	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+1296	1312	Северен поток“ 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1481	1488	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1490	1497	Газпром	Газпром	ORG	ORG-Gazprom
+1522	1547	Окръжният съд в Амстердам	Окръжен съд в Амстердам	ORG	ORG-Amsterdam-District-Court
+1579	1586	Газпром	Газпром	ORG	ORG-Gazprom
+1589	1593	BSPC	BSPC	ORG	ORG-BSPC-Company
+1619	1628	Син поток	Син поток	PRO	PRO-Blue-Stream
+1678	1685	Газпром	Газпром	ORG	ORG-Gazprom
+1738	1747	Син поток	Син поток	PRO	PRO-Blue-Stream
+1764	1769	Русия	Русия	LOC	GPE-Russia
+1774	1780	Турция	Турция	LOC	GPE-Turkey
+1782	1789	Газпром	Газпром	ORG	ORG-Gazprom
+1834	1847	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+1877	1884	Газпром	Газпром	ORG	ORG-Gazprom
+1898	1909	Wintershall	Wintershall	ORG	ORG-Wintershall
+1912	1929	PEG Infrastruktur	PEG Infrastruktur	ORG	ORG-PEG-Infrastruktur
+1930	1934	E.ON	E.ON	ORG	ORG-E.ON
+1948	1955	Gasunie	Gasunie	ORG	ORG-Nederlandse-Gasunie
+1968	1973	Engie	Engie	ORG	ORG-Engie
+1975	1991	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+2036	2049	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+2100	2107	Газпром	Газпром	ORG	ORG-Gazprom

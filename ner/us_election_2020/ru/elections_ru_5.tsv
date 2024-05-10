@@ -1,0 +1,78 @@
+16	42	Президентские выборы в США	Президентские выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+73	79	Трампа	Трам	PER	PER-Donald-Trump
+210	237	президентских выборах в США	президентские выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+280	286	Трампа	Трам	PER	PER-Donald-Trump
+325	337	американские	американские	LOC	GPE-USA
+722	732	Калифорния	Калифорния	LOC	GPE-California
+735	740	Техас	Техас	LOC	GPE-Texas
+769	778	демократы	демократы	PER	ORG-Democratic-Party-USA
+781	794	республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+1463	1484	президентских выборов	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+1508	1515	Флорида	Флорида	LOC	GPE-Florida
+1541	1553	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+1560	1567	Мичиган	Мичиган	LOC	GPE-Michigan
+1574	1591	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+1598	1605	Аризона	Аризона	LOC	GPE-Arizona
+1613	1622	Висконсин	Висконсин	LOC	GPE-Wisconsin
+1641	1646	Трамп	Трамп	PER	PER-Donald-Trump
+1793	1796	США	США	LOC	GPE-USA
+1853	1858	Трамп	Трамп	PER	PER-Donald-Trump
+1868	1875	Байдену	Байден	PER	PER-Joe-Biden
+1952	1964	американский	американский	LOC	GPE-USA
+2245	2257	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+2259	2266	Мичиган	Мичиган	LOC	GPE-Michigan
+2269	2278	Висконсин	Висконсин	LOC	GPE-Wisconsin
+2471	2478	Америке	Америка	LOC	GPE-USA
+2572	2586	Берни Сандерса	Берни Сандерс	PER	PER-Bernie-Sanders
+2588	2594	Байден	Байден	PER	PER-Joe-Biden
+2742	2754	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+2757	2767	Висконсине	Висконсин	LOC	GPE-Wisconsin
+2780	2786	Трампа	Трам	PER	PER-Donald-Trump
+2798	2806	Мичигане	Мичиган	LOC	GPE-Michigan
+3005	3015	демократов	демократы	PER	ORG-Democratic-Party-USA
+3028	3035	Байдена	Байден	PER	PER-Joe-Biden
+3121	3127	Трампа	Трам	PER	PER-Donald-Trump
+3246	3254	Сандерса	Сандерс	PER	PER-Bernie-Sanders
+3257	3263	Уоррен	Уоррен	PER	PER-Elizabeth-Warren
+3361	3374	Берни Сандерс	Берни Сандерс	PER	PER-Bernie-Sanders
+3393	3403	демократов	демократы	PER	ORG-Democratic-Party-USA
+3422	3428	Трампа	Трам	PER	PER-Donald-Trump
+3530	3537	Байдена	Байден	PER	PER-Joe-Biden
+3539	3546	Сандерс	Сандерс	PER	PER-Bernie-Sanders
+3595	3605	демократам	демократы	PER	ORG-Democratic-Party-USA
+3703	3718	Элизабет Уоррен	Элизабет Уоррен	PER	PER-Elizabeth-Warren
+3876	3882	Трампу	Трамп	PER	PER-Donald-Trump
+3885	3893	Мичигане	Мичиган	LOC	GPE-Michigan
+3932	3938	Уоррен	Уоррен	PER	PER-Elizabeth-Warren
+4086	4094	Сандерса	Сандерс	PER	PER-Bernie-Sanders
+4412	4422	демократов	демократы	PER	ORG-Democratic-Party-USA
+4449	4459	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4479	4485	Байден	Байден	PER	PER-Joe-Biden
+4498	4505	Флориде	Флорида	LOC	GPE-Florida
+4515	4521	Трампа	Трам	PER	PER-Donald-Trump
+4533	4540	Аризоне	Аризона	LOC	GPE-Arizona
+4623	4640	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+4653	4659	Трампу	Трамп	PER	PER-Donald-Trump
+4822	4836	Берни Сандерса	Берни Сандерс	PER	PER-Bernie-Sanders
+4868	4874	Трампа	Трам	PER	PER-Donald-Trump
+4962	4977	Элизабет Уоррен	Элизабет Уоррен	PER	PER-Elizabeth-Warren
+4992	4998	Трампа	Трам	PER	PER-Donald-Trump
+5001	5008	Аризоне	Аризона	LOC	GPE-Arizona
+5040	5047	Флориде	Флорида	LOC	GPE-Florida
+5050	5067	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+5123	5130	Флорида	Флорида	LOC	GPE-Florida
+5196	5209	республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+5232	5245	республиканец	республиканец	PER	ORG-Republican-Party-USA
+5306	5311	Трамп	Трамп	PER	PER-Donald-Trump
+5313	5330	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+5389	5399	демократов	демократы	PER	ORG-Democratic-Party-USA
+5424	5430	Трампа	Трам	PER	PER-Donald-Trump
+5460	5467	Аризону	Аризона	LOC	GPE-Arizona
+5495	5501	Уоррен	Уоррен	PER	PER-Elizabeth-Warren
+5504	5511	Сандерс	Сандерс	PER	PER-Bernie-Sanders
+5529	5535	Байден	Байден	PER	PER-Joe-Biden
+5606	5616	Калифорнии	Калифорния	LOC	GPE-California
+5999	6004	Трамп	Трамп	PER	PER-Donald-Trump
+6017	6024	Флориду	Флорида	LOC	GPE-Florida
+6026	6043	Северную Каролину	Северная Каролина	LOC	GPE-North-Carolina-US-State
+6046	6058	Пенсильванию	Пенсильвания	LOC	GPE-Pennsylvania

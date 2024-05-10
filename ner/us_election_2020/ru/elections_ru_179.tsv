@@ -1,0 +1,151 @@
+221	240	Зои Космодемьянской	Зоя Космодемьянская	PER	PER-Zoya-Kosmodemyanskaya
+286	293	Ельцина	Ельцин	PER	PER-Boris-Jelcin
+360	376	Борис Николаевич	Борис Николаевич	PER	PER-Boris-Jelcin
+385	392	Ельцина	Ельцин	PER	PER-Boris-Jelcin
+513	529	«Борьки-пьяницы»	"""Борька-пьяница"""	PER	PER-Boris-Jelcin
+549	563	Коронавирусные	Коронавирусные	EVT	EVT-Covid-19
+575	586	Нидерландах	Нидерланды	LOC	GPE-Holland
+635	646	Марка Рютте	Марк Рютте	PER	PER-Mark-Rutte
+726	732	Россия	Россия	LOC	GPE-Russia
+734	740	Турция	Турция	LOC	GPE-Turkey
+743	749	Польша	Польша	LOC	GPE-Poland
+806	811	Рютте	Рютте	PER	PER-Mark-Rutte
+861	867	Казани	Казань	LOC	GPE-Kazan
+913	936	«Мисс Татарстан – 2021»	«Мисс Татарстан – 2021»	EVT	EVT-Miss-Tatarstan-2021
+977	980	КФУ	КФУ	ORG	ORG-Kazan-Federal-University
+981	993	Дина Юнусова	Дина Юнусова	PER	PER-Dina-Yunusova
+1065	1078	«Мисс Россия»	«Мисс Россия»	EVT	EVT-Miss-Russia
+1115	1131	Василия Ланового	Василий Лановой	PER	PER-Vasily-Lanovoy
+1151	1155	СССР	СССР	LOC	GPE-USSR
+1193	1206	«Война и мир»	«Война и мир»	PRO	PRO-War-and-Peace-film-series
+1208	1223	«Анна Каренина»	«Анна Каренина»	PRO	PRO-Anna-Karenina-film-1967
+1225	1239	«Дни Турбиных»	«Дни Турбиных»	PRO	PRO-The-Days-of-the-Turbins-film
+1241	1257	«Полосатый рейс»	«Полосатый рейс»	PRO	PRO-Stripped-Trip
+1294	1301	Лановой	Лановой	PER	PER-Vasily-Lanovoy
+1345	1370	«Бессмертный полк России»	«Бессмертный полк России»	ORG	ORG-The-Immortal-Regiment
+1383	1391	Богучаны	Богучаны	LOC	GPE-Boguchany
+1394	1411	Красноярском крае	Красноярский край	LOC	GPE-Krasnoyarsk-Krai
+1412	1428	вертолет Ми-8АМТ	вертолет Ми-8АМТ	PRO	PRO-The-Mil-Mi-8
+1730	1736	Якутии	Якутия	LOC	GPE-Yakutia
+1845	1863	«Культурная среда»	«Культурная среда»	PRO	PRO-Kulturnaya-sreda-federal-project
+1886	1896	«Культура»	«Культура»	PRO	PRO-Kultura-national-project
+1932	1950	Минкультуры Якутии	Минкультуры Якутии	ORG	ORG-Ministry-of-Culture-Yakutia
+1956	1962	Якутии	Якутия	LOC	GPE-Yakutia
+2063	2073	«Культура»	«Культура»	PRO	PRO-Kultura-national-project
+2112	2121	Дагестана	Дагестан	LOC	GPE-Republic-of-Dagestan
+2175	2185	«Культура»	«Культура»	PRO	PRO-Kultura-national-project
+2310	2319	Дагестана	Дагестан	LOC	GPE-Republic-of-Dagestan
+2320	2334	Зарема Бутаева	Зарем Бутаев	PER	PER-Zarem-Butaev
+2377	2434	Федерального агентства по печати и массовым коммуникациям	Федеральное агентство по печати и массовым коммуникациям	ORG	ORG-Federal-Agency-for-Press-and-Mass-Communications-Russia
+2453	2456	США	США	LOC	GPE-USA
+2534	2544	Егор Алеев	Егор Алеев	PER	PER-Yegor-Aleev
+2545	2549	ТАСС	ТАСС	PRO	ORG-Russian's leading news company
+2557	2572	Дмитрий Бавырин	Дмитрий Бавырин	PER	PER-Dmitry-Bavyrin
+2586	2598	американском	американский	LOC	GPE-USA
+2605	2613	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2643	2652	Сенат США	Сенат США	ORG	ORG-United-States-Senate
+2760	2767	Америки	Америка	LOC	GPE-USA
+2929	2942	американского	американский	LOC	GPE-USA
+2949	2963	Южная Каролина	Южная Каролина	LOC	GPE-South-Carolina-US-State
+2964	2975	Линдси Грэм	Линдси Грэм	PER	PER-Lindsey-Graham
+2994	3000	России	Россия	LOC	GPE-Russia
+3044	3058	Джона Маккейна	Джон Маккейн	PER	PER-John-McCain
+3135	3142	Москвой	Москва	LOC	GPE-Moscow
+3184	3199	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3201	3205	Грэм	Грэм	PER	PER-Lindsey-Graham
+3219	3225	Трампа	Трамп	PER	PER-Donald-Trump
+3379	3382	США	США	LOC	GPE-USA
+3457	3462	Трамп	Трамп	PER	PER-Donald-Trump
+3485	3498	республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+3515	3525	демократам	демократы	PER	ORG-Democratic-Party-USA
+3540	3552	американскую	американский	LOC	GPE-USA
+3576	3589	республиканец	республиканец	PER	ORG-Republican-Party-USA
+3635	3640	Трамп	Трамп	PER	PER-Donald-Trump
+3725	3734	Белый дом	Белый дом	LOC	LOC-White-House
+3744	3754	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3758	3761	США	США	LOC	GPE-USA
+3926	3930	Грэм	Грэм	PER	PER-Lindsey-Graham
+4107	4110	США	США	LOC	GPE-USA
+4190	4196	Трампа	Трамп	PER	PER-Donald-Trump
+4298	4306	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+4369	4374	Трамп	Трамп	PER	PER-Donald-Trump
+4440	4446	Байден	Байден	PER	PER-Joe-Biden
+4531	4541	демократам	демократы	PER	ORG-Democratic-Party-USA
+4545	4551	Сенате	Сенат	ORG	ORG-United-States-Senate
+4683	4686	США	США	LOC	GPE-USA
+4687	4700	Камалы Харрис	Камала Харрис	PER	PER-Kamala-Harris
+4730	4741	Белым домом	Белый дом	ORG	ORG-The-White-House
+4744	4751	Сенатом	Сенат	ORG	ORG-United-States-Senate
+4757	4767	демократам	демократы	PER	ORG-Democratic-Party-USA
+4836	4840	Грэм	Линдси Грэм	PER	PER-Lindsey-Graham
+5071	5090	Верховного суда США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+5249	5256	Америки	Америка	LOC	GPE-USA
+5513	5530	Латинской Америки	Латинская Америка	LOC	LOC-Latin-America
+5596	5618	Демократическую партию	Демократическая партия	ORG	ORG-Democratic-Party-USA
+5695	5701	Техаса	Техас	LOC	GPE-Texas
+5745	5758	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+5901	5904	США	США	LOC	GPE-USA
+6010	6021	Пуэрто-Рико	Пуэрто-Рико	LOC	GPE-Puerto-Rico
+6078	6081	США	США	LOC	GPE-USA
+6092	6100	Колумбия	Колумбия	LOC	GPE-Colombia
+6111	6122	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+6143	6153	демократам	демократы	PER	ORG-Democratic-Party-USA
+6263	6277	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+6365	6372	Сенатом	Сенат	ORG	ORG-United-States-Senate
+6373	6386	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+6744	6754	демократов	демократ	PER	ORG-Democratic-Party-USA
+6772	6780	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+6848	6856	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+6919	6932	консерваторов	консерваторы	PER	ORG-Conservative-and-Unionist-Party-UK
+6957	6966	демократа	демократ	PER	ORG-Democratic-Party-USA
+6967	6981	Джимми Картера	Джимми Картер	PER	PER-Jimmy-Carter
+6985	7014	президентских выборах 1976-го	президентские выборы 1967-го	EVT	EVT-1976-United-Stated-Presidential-Election
+7050	7056	Картер	Картер	PER	PER-Jimmy-Carter
+7068	7076	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+7098	7103	Трамп	Трамп	PER	PER-Donald-Trump
+7272	7286	республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+7492	7497	Сенат	Сенат	ORG	ORG-United-States-Senate
+7588	7596	Джорджию	Джорджия	LOC	GPE-Georgia-US-state
+7761	7769	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+7787	7801	республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+7835	7847	американские	американские	LOC	GPE-USA
+7974	7980	Трампа	Трамп	PER	PER-Donald-Trump
+7998	8006	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+8034	8043	демократы	демократы	PER	ORG-Democratic-Party-USA
+8115	8118	США	США	LOC	GPE-USA
+8242	8255	американского	американский	LOC	GPE-USA
+8293	8306	республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+8362	8369	Сенатом	Сенат	ORG	ORG-United-States-Senate
+8486	8493	Байдена	Байден	PER	PER-Joe-Biden
+8586	8596	демократов	демократы	PER	ORG-Democratic-Party-USA
+8659	8673	республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+8721	8731	демократам	демократы	PER	ORG-Democratic-Party-USA
+8874	8879	Трамп	Трамп	PER	PER-Donald-Trump
+8941	8948	Байдену	Байден	PER	PER-Joe-Biden
+8973	8979	Трампа	Трамп	PER	PER-Donald-Trump
+8982	8991	Белый дом	Белый дом	ORG	ORG-The-White-House
+9195	9198	США	США	LOC	GPE-USA
+9335	9343	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+9540	9551	Белым домом	Белый дом	ORG	ORG-The-White-House
+9570	9580	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+9619	9629	демократов	демократы	PER	ORG-Democratic-Party-USA
+9685	9692	Байдена	Байден	PER	PER-Joe-Biden
+9784	9791	Америка	Америка	LOC	GPE-USA
+9985	9997	американских	американские	LOC	GPE-USA
+10196	10202	Трампа	Трамп	PER	PER-Donald-Trump
+10205	10219	республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+10256	10263	Байдена	Байден	PER	PER-Joe-Biden
+10474	10482	Байденов	Байден	PER	PER-Bidens
+10533	10540	Хантеру	Хантер	PER	PER-Hunter-Biden
+10622	10628	России	Россия	LOC	GPE-Russia
+10709	10718	демократы	демократы	PER	ORG-Democratic-Party-USA
+10757	10772	республиканцами	республиканцы	PER	ORG-Republican-Party-USA
+10773	10783	российский	российский	LOC	GPE-Russia
+10874	10881	Америку	Америка	LOC	GPE-USA
+10937	10945	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+10955	10965	демократов	демократы	PER	ORG-Democratic-Party-USA
+11096	11109	республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+11158	11169	либеральной	либеральная	ORG	ORG-Libertarian-Party-USA
+11204	11221	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+11340	11346	ВЗГЛЯД	ВЗГЛЯД	PRO	PRO-Vzglyad
+11377	11389	RussiaRu.net	RussiaRu.net	PRO	PRO-RussiaRu.net

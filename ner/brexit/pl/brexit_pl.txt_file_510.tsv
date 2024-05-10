@@ -1,0 +1,46 @@
+0	10	W.Brytania	W.Brytania	LOC	GPE-Great-Britain
+18	30	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+68	70	UE	UE	ORG	ORG-European-Union
+90	102	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+103	116	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+208	219	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+222	239	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+301	310	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+341	352	Theresa May	Theresa May	PER	PER-Theresa-May
+442	459	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+477	485	Coventry	Coventry	LOC	GPE-Coventry
+498	504	Anglii	Anglia	LOC	GPE-England
+541	561	Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+605	611	Brexit	Brexit	EVT	EVT-Brexit
+766	783	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+924	941	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1173	1179	Europy	Europa	LOC	LOC-Europe
+1183	1191	Brexicie	Brexit	EVT	EVT-Brexit
+1194	1200	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+1250	1265	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1324	1341	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1365	1367	UE	UE	ORG	ORG-European-Union
+1666	1678	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1725	1740	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1895	1903	Irlandią	Irlandia	LOC	GPE-Ireland
+1906	1923	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+2210	2224	City of London	City of London	LOC	LOC-City-of-London
+2245	2257	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+2313	2315	UE	UE	ORG	ORG-European-Union
+2401	2410	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2413	2428	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+2490	2499	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2527	2529	UE	UE	ORG	ORG-European-Union
+2755	2762	Corbyna	Corbyn	PER	PER-Jeremy-Corbyn
+2825	2828	CBI	CBI	ORG	ORG-CBI-Confederation-of-British-Industry
+2975	2977	UE	UE	ORG	ORG-European-Union
+3085	3096	laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+3171	3182	Theresa May	Theresa May	PER	PER-Theresa-May
+3228	3239	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+3467	3476	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+3478	3493	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3522	3524	UE	UE	ORG	ORG-European-Union
+3562	3571	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+3736	3743	Londynu	Londyn	LOC	GPE-London
+3744	3755	Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa
+3757	3760	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

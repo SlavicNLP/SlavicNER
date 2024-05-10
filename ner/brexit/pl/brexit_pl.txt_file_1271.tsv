@@ -1,0 +1,23 @@
+0	6	Macron	Macron	PER	PER-Emmanuel-Macron
+36	38	UE	UE	ORG	ORG-European-Union
+40	47	Reuters	Reuters	ORG	ORG-Reuters
+111	113	UE	UE	ORG	ORG-European-Union
+116	124	Brukseli	Bruksela	LOC	GPE-Brussles
+190	194	Unii	Unia	ORG	ORG-European-Union
+333	341	Brukseli	Bruksela	LOC	GPE-Brussles
+387	395	Brexicie	Brexit	EVT	EVT-Brexit
+410	416	Macron	Macron	PER	PER-Emmanuel-Macron
+488	494	Macron	Macron	PER	PER-Emmanuel-Macron
+725	732	Europie	Europa	LOC	LOC-Europe
+784	791	Francja	Francja	LOC	GPE-France
+856	863	Reuters	Reuters	ORG	ORG-Reuters
+886	906	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+907	926	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+939	948	Twitterze	Twitter	PRO	PRO-Twitter
+1012	1021	Szekspira	Szekspir	PER	PER-William-Shakespeare
+1050	1057	Woltera	Wolter	PER	PER-Wolter
+1069	1076	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+1208	1210	KE	KE	ORG	ORG-European-Commission
+1295	1297	UE	UE	ORG	ORG-European-Union
+1312	1318	Brexit	Brexit	EVT	EVT-Brexit
+1396	1402	Europy	Europa	LOC	LOC-Europe

@@ -1,0 +1,31 @@
+45	52	brexitu	Brexit	EVT	EVT-Brexit
+94	106	Work Service	Work Service	ORG	ORG-Work-Service
+108	114	Polacy	Polacy	PER	GPE-Poland
+144	161	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+163	169	Niemcy	Niemcy	LOC	GPE-Germany
+362	370	Holandia	Holandia	LOC	GPE-Holland
+432	447	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+548	565	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+596	604	Brexitem	Brexit	EVT	EVT-Brexit
+641	664	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+720	737	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+744	759	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+935	944	The Times	The Times	PRO	PRO-The-Times
+967	1000	The Office of National Statistics	The Office of National Statistics	ORG	ORG-ONS-Office-for-National-Statistics
+1021	1038	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+1053	1070	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1187	1194	Polaków	Polacy	PER	GPE-Poland
+1232	1249	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+1370	1374	HSBC	HSBC	ORG	ORG-HSBC
+1410	1412	UK	UK	LOC	GPE-Great-Britain
+1422	1429	Brexitu	Brexit	EVT	EVT-Brexit
+1475	1481	Brexit	Brexit	EVT	EVT-Brexit
+1598	1615	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1770	1782	Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+1840	1842	UK	UK	LOC	GPE-Great-Britain
+2088	2090	UK	UK	LOC	GPE-Great-Britain
+2283	2289	Polski	Polska	LOC	GPE-Poland
+2430	2449	Ewelina Krzysztofik	Ewelina Krzysztofik	PER	PER-Ewelina-Krzysztofik
+2468	2478	2SistersPR	2SistersPR	ORG	ORG-2SistersPR
+2800	2814	Strefa Biznesu	Strefa Biznesu	PRO	PRO-Strefa-Biznesu
+2860	2867	brexitu	Brexit	EVT	EVT-Brexit

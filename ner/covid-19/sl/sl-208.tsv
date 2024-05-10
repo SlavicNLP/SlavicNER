@@ -1,0 +1,13 @@
+28	37	covid -19	covid -19	EVT	EVT-Covid-19
+107	112	Celju	Celje	LOC	GPE-Celje
+130	146	Vošnjakovi ulici	Vošnjakova ulica	LOC	LOC-Vošnjakova-ulica
+149	157	Mariboru	Maribor	LOC	GPE-Maribor
+190	199	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+273	281	covid-19	covid-19	EVT	EVT-Covid-19
+343	352	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+409	422	UKC Ljubljana	UKC Ljubljana	LOC	LOC-University-Medical-Centre-Ljubljana
+429	456	Zdravstvenem domu Ljubljana	Zdravstveni dom Ljubljana	LOC	LOC-Community-Health-Centre-Ljubljana
+477	492	Metelkovi ulici	Metelkova ulica	LOC	LOC-Metelkova-ulica
+995	1015	Tatjane Lejko Zupanc	Tatjana Lejko Zupanc	PER	PER-Tatjana-Lejko-Zupanc
+1441	1456	Lejko-Zupančeve	Lejko Zupanc	PER	PER-Tatjana-Lejko-Zupanc
+2092	2100	covid-19	covid-19	EVT	EVT-Covid-19

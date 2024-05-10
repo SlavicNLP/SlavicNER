@@ -1,0 +1,19 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+40	54	Великобритания	Великобритания	LOC	GPE-Great-Britain
+79	81	ЕС	ЕС	ORG	ORG-European-Union
+85	92	Брекзит	Брекзит	EVT	EVT-Brexit
+93	105	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+119	133	Великобритания	Великобритания	LOC	GPE-Great-Britain
+449	456	Брюксел	Брюксел	LOC	GPE-Brussles
+496	506	британците	британци	PER	GPE-Great-Britain
+508	514	Барние	Барние	PER	PER-Michel-Barnier
+618	638	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+789	795	Барние	Барние	PER	PER-Michel-Barnier
+843	849	Лондон	Лондон	LOC	GPE-London
+879	886	Брекзит	Брекзит	EVT	EVT-Brexit
+906	920	Великобритания	Великобритания	LOC	GPE-Great-Britain
+996	1010	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1048	1055	Брекзит	Брекзит	EVT	EVT-Brexit
+1057	1059	ЕС	ЕС	ORG	ORG-European-Union
+1106	1113	Брюксел	Брюксел	LOC	GPE-Brussles
+1179	1181	ЕС	ЕС	ORG	ORG-European-Union

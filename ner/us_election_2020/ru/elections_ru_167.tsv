@@ -1,0 +1,60 @@
+37	49	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+82	94	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+95	105	Эндрю Уолц	Эндрю Уолц	PER	PER-Andrew-Wiles
+296	303	Конкорд	Конкорд	PRO	PRO-Concorde
+398	411	Роберт Мюллер	Роберт Мюллер	PER	PER-Robert-Mueller
+473	488	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+491	497	Кремля	Кремль	ORG	ORG-Kremlin
+605	615	Эндрю Уолц	Эндрю Уолц	PER	PER-Andrew-Wiles
+628	640	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+650	660	Род-Айленд	Род-Айленд	LOC	GPE-Rhode-Island
+664	686	республиканской партии	республиканская партия	ORG	ORG-Republican-Party-USA
+848	858	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+888	895	Twitter	Twitter	PRO	PRO-Twitter
+896	901	Эндрю	Эндрю	PER	PER-Andrew-Wiles
+1088	1095	Twitter	Twitter	PRO	PRO-Twitter
+1280	1291	Эндрю Уолца	Эндрю Уолц	PER	PER-Andrew-Wiles
+1363	1370	Twitter	Twitter	PRO	PRO-Twitter
+1394	1405	Эндрю Уолца	Эндрю Уолц	PER	PER-Andrew-Wiles
+1430	1433	США	США	LOC	GPE-USA
+1482	1490	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+1552	1555	США	США	LOC	GPE-USA
+1684	1687	CNN	CNN	ORG	ORG-CNN
+1793	1800	Twitter	Twitter	PRO	PRO-Twitter
+1847	1857	Эндрю Уолц	Эндрю Уолц	PER	PER-Andrew-Wiles
+2007	2010	США	США	LOC	GPE-USA
+2067	2083	выборы 2016 года	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+2091	2097	Россия	Россия	LOC	GPE-Russia
+2115	2130	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+2470	2477	Twitter	Twitter	ORG	ORG-Twitter
+2556	2568	CNN Business	CNN Business	PRO	PRO-Business-Insider
+2598	2609	Эндрю Уолца	Эндрю Уолц	PER	PER-Andrew-Wiles
+2753	2761	StyleGAN	StyleGAN	PRO	PER-StyleGAN
+2880	2891	Ballotpedia	Ballotpedia	PRO	PRO-Ballotpedia
+2990	2997	Twitter	Twitter	PRO	PRO-Twitter
+3052	3063	Ballotpedia	Ballotpedia	PRO	PRO-Ballotpedia
+3068	3075	Twitter	Twitter	PRO	PRO-Twitter
+3133	3144	Эндрю Уолца	Эндрю Уолц	PER	PER-Andrew-Wiles
+3244	3251	Twitter	Twitter	PRO	PRO-Twitter
+3441	3444	США	США	LOC	GPE-USA
+3474	3477	США	США	LOC	GPE-USA
+3480	3486	Канады	Канада	LOC	GPE-Canada
+3500	3521	Александра Филиппенко	Александра Филиппенко	PER	PER-Alexandra-Filipenko
+3548	3551	США	США	LOC	GPE-USA
+3564	3575	Эндрю Уолца	Эндрю Уолц	PER	PER-Andrew-Wiles
+3875	3881	Россию	Россия	LOC	GPE-Russia
+3883	3888	Китай	Китай	LOC	GPE-China
+3966	3976	Филиппенко	Филиппенко	PER	PER-Aleksandr-Filippenko
+3989	4006	Политикой Сегодня	Политика Сегодня	PRO	PRO-Politics-Today
+4082	4089	Twitter	Twitter	PRO	PRO-Twitter
+4231	4238	Twitter	Twitter	PRO	PRO-Twitter
+4356	4367	Ballotpedia	Ballotpedia	PRO	PRO-Ballotpedia
+4441	4448	Twitter	Twitter	PRO	PRO-Twitter
+4498	4510	CNN Business	CNN Business	PRO	PRO-Business-Insider
+4514	4523	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+4553	4584	Конкорд менеджмент и консалтинг	Конкорд менеджмент и консалтинг	ORG	ORG-Concorde
+4623	4626	США	США	LOC	GPE-USA
+4645	4658	Роберт Мюллер	Роберт Мюллер	PER	PER-Robert-Mueller
+4826	4832	Мюллер	Мюллер	PER	PER-Robert-Mueller
+4881	4896	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+4899	4906	Россией	Россия	LOC	GPE-Russia

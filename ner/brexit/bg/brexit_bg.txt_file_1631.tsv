@@ -1,0 +1,13 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+39	41	ЕС	ЕС	ORG	ORG-European-Union
+63	77	Великобритания	Великобритания	LOC	GPE-Great-Britain
+150	152	ЕС	ЕС	ORG	ORG-European-Union
+174	181	Брекзит	Брекзит	EVT	EVT-Brexit
+218	225	Брекзит	Брекзит	EVT	EVT-Brexit
+226	238	Робин Уолкър	Робин Уолкър	PER	PER-Robin-Walker
+252	259	Ройтерс	Ройтерс	ORG	ORG-Reuters
+295	309	Великобритания	Великобритания	LOC	GPE-Great-Britain
+310	320	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+331	337	Лондон	Лондон	LOC	GPE-London
+389	391	ЕС	ЕС	ORG	ORG-European-Union
+417	424	Брекзит	Брекзит	EVT	EVT-Brexit

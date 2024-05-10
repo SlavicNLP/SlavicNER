@@ -1,0 +1,96 @@
+39	41	UE	UE	ORG	ORG-European-Union
+67	71	PISM	PISM	ORG	ORG-PISM
+80	87	brexitu	Brexit	EVT	EVT-Brexit
+251	274	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+277	279	UE	UE	ORG	ORG-European-Union
+440	442	UE	UE	ORG	ORG-European-Union
+679	683	PISM	PISM	ORG	ORG-PISM
+737	754	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+757	774	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+843	849	Brexit	Brexit	EVT	EVT-Brexit
+923	946	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1000	1006	Radzie	Rada	ORG	ORG-European-Council
+1058	1081	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+1083	1085	PE	PE	ORG	ORG-European-Parliament
+1110	1117	brexitu	Brexit	EVT	EVT-Brexit
+1176	1178	UE	UE	ORG	ORG-European-Union
+1220	1240	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+1241	1260	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+1294	1298	Unii	Unia	ORG	ORG-European-Union
+1315	1322	Francji	Francja	LOC	GPE-France
+1323	1338	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+1367	1375	Sorbonie	Sorbona	ORG	ORG-Sorbonne
+1390	1420	komisja ds. konstytucyjnych PE	Komisja ds. konstytucyjnych PE	ORG	ORG-AFCO-The-Committee-on-Constitutional-Affairs
+1422	1426	AFCO	AFCO	ORG	ORG-AFCO-The-Committee-on-Constitutional-Affairs
+1460	1462	PE	PE	ORG	ORG-European-Parliament
+1491	1495	AFCO	AFCO	ORG	ORG-AFCO-The-Committee-on-Constitutional-Affairs
+1509	1529	europarlamentarzyści	Europarlamentarzyści	PER	ORG-European-Parlament
+1722	1728	Rzymie	Rzym	LOC	GPE-Rome
+1753	1755	V4	V4	ORG	ORG-Visegrád-Group
+1758	1769	Budapeszcie	Budapeszt	LOC	GPE-Budapest
+1818	1835	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1837	1839	RE	RE	ORG	ORG-European-Council
+2012	2036	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+2042	2059	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+2087	2091	AFCO	AFCO	ORG	ORG-AFCO-The-Committee-on-Constitutional-Affairs
+2232	2236	AFCO	AFCO	ORG	ORG-AFCO-The-Committee-on-Constitutional-Affairs
+2238	2258	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+2484	2490	Rzymie	Rzym	LOC	GPE-Rome
+2533	2537	Cypr	Cypr	LOC	GPE-Cyprus
+2539	2545	Grecja	Grecja	LOC	GPE-Greece
+2547	2554	Francja	Francja	LOC	GPE-France
+2556	2565	Hiszpania	Hiszpania	LOC	GPE-Spain
+2567	2572	Malta	Malta	LOC	GPE-Malta
+2574	2584	Portugalia	Portugalia	LOC	GPE-Portugal
+2587	2593	Włochy	Włochy	LOC	GPE-Italy
+2661	2663	V4	V4	ORG	ORG-Visegrád-Group
+2945	2962	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+3014	3016	PE	PE	ORG	ORG-European-Parliament
+3136	3138	PE	PE	ORG	ORG-European-Parliament
+3190	3192	UE	UE	ORG	ORG-European-Union
+3245	3265	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+3285	3302	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+3337	3341	Unii	Unia	ORG	ORG-European-Union
+3342	3361	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+3532	3534	KE	KE	ORG	ORG-European-Commission
+3694	3718	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+3766	3768	KE	KE	ORG	ORG-European-Commission
+3784	3799	Rada Europejska	Rada Europejska	ORG	ORG-European-Council
+3946	3948	KE	KE	ORG	ORG-European-Commission
+4023	4025	PE	PE	ORG	ORG-European-Parliament
+4191	4206	Rada Europejska	Rada Europejska	ORG	ORG-European-Council
+4411	4413	KE	KE	ORG	ORG-European-Commission
+4501	4503	RE	RE	ORG	ORG-European-Council
+4550	4552	PE	PE	ORG	ORG-European-Parliament
+4624	4626	KE	KE	ORG	ORG-European-Commission
+4753	4761	Junckera	Juncker	PER	PER-Jean-Claude-Juncker
+4837	4841	Unii	Unia	ORG	ORG-European-Union
+4861	4881	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+4901	4918	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+4937	4939	KE	KE	ORG	ORG-European-Commission
+5005	5007	UE	UE	ORG	ORG-European-Union
+5172	5174	RE	RE	ORG	ORG-European-Council
+5279	5281	UE	UE	ORG	ORG-European-Union
+5348	5365	traktat lizboński	Traktat lizboński	PRO	PRO-Treaty-of-Lisbon
+5387	5389	KE	KE	ORG	ORG-European-Commission
+5481	5498	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+5738	5740	KE	KE	ORG	ORG-European-Commission
+5874	5881	Francji	Francja	LOC	GPE-France
+5903	5909	Polska	Polska	LOC	GPE-Poland
+6065	6067	UE	UE	ORG	ORG-European-Union
+6071	6079	brexicie	Brexit	EVT	EVT-Brexit
+6319	6321	PE	PE	ORG	ORG-European-Parliament
+6398	6400	KE	KE	ORG	ORG-European-Commission
+6403	6405	RE	RE	ORG	ORG-European-Council
+6425	6440	Radę Europejską	Rada Europejska	ORG	ORG-European-Council
+6472	6474	V4	V4	ORG	ORG-Visegrád-Group
+6789	6791	KE	KE	ORG	ORG-European-Commission
+6794	6796	RE	RE	ORG	ORG-European-Council
+6871	6873	RE	RE	ORG	ORG-European-Council
+7167	7169	UE	UE	ORG	ORG-European-Union
+7207	7214	Francji	Francja	LOC	GPE-France
+7285	7287	UE	UE	ORG	ORG-European-Union
+7288	7303	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+7373	7392	Radzie Europejskiej	Rada Europejska	ORG	ORG-European-Council
+7482	7484	UE	UE	ORG	ORG-European-Union
+7709	7711	UE	UE	ORG	ORG-European-Union

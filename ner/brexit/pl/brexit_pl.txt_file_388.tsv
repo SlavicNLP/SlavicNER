@@ -1,0 +1,19 @@
+0	6	Londyn	Londyn	LOC	GPE-London
+80	95	agencji Reutera	Agencja Reutera	ORG	ORG-Reuters
+99	113	Downing Street	Downing Street	LOC	LOC-Downing-Street
+373	388	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+484	491	Brexitu	Brexit	EVT	EVT-Brexit
+894	911	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+914	916	UE	UE	ORG	ORG-European-Union
+946	955	Telegraph	Telegraph	PRO	PRO-The-Daily-Telegraph
+970	985	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1311	1328	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1329	1340	David Davis	David Davis	PER	PER-David-Davis
+1363	1376	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1587	1602	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1697	1712	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+1856	1871	Financial Times	Financial Times	PRO	PRO-Financial-Times
+1902	1910	Politico	Politico	PRO	PRO-Politico
+1912	1927	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1956	1973	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1998	2007	Wspólnotę	Wspólnota	ORG	ORG-European-Union

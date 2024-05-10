@@ -1,0 +1,14 @@
+10	13	Мей	Мей	PER	PER-Theresa-May
+15	29	Великобритания	Великобритания	LOC	GPE-Great-Britain
+58	60	ЕС	ЕС	ORG	ORG-European-Union
+72	82	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+155	157	ЕС	ЕС	ORG	ORG-European-Union
+251	263	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+311	329	Лейбъристка партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+391	403	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+404	418	Джеръми Корбин	Джеръми Корбин	PER	PER-Jeremy-Corbyn
+510	520	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+587	608	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+678	684	Лондон	Лондон	LOC	GPE-London
+709	716	Брекзит	Брекзит	EVT	EVT-Brexit
+813	815	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,19 @@
+0	9	Europoseł	Europoseł	PER	ORG-European-Parlament
+10	25	Charles Tannock	Charles Tannock	PER	PER-Charles-Tannock
+37	52	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+77	79	UE	UE	ORG	ORG-European-Union
+93	100	brexitu	Brexit	EVT	EVT-Brexit
+112	132	Charlesem Tannockiem	Charles Tannock	PER	PER-Charles-Tannock
+186	207	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+230	236	Polska	Polska	LOC	GPE-Poland
+252	256	ZSRR	ZSRR	LOC	GPE-ZSRR
+259	274	Maciej Zakrocki	Maciej Zakrocki	PER	PER-Maciej-Zakrocki
+318	333	Charles Tannock	Charles Tannock	PER	PER-Charles-Tannock
+352	356	Unii	Unia	ORG	ORG-European-Union
+380	387	torysem	torys	PER	ORG-Tories
+391	404	Brytyjczykiem	Brytyjczyk	PER	GPE-Great-Britain
+503	516	Brytyjczykiem	Brytyjczyk	PER	GPE-Great-Britain
+605	609	Unii	Unia	ORG	ORG-European-Union
+681	694	Brytyjczykiem	Brytyjczyk	PER	GPE-Great-Britain
+696	709	Irlandczykiem	Irlandczyk	PER	GPE-Ireland
+712	726	Europejczykiem	Europejczyk	PER	LOC-Europe

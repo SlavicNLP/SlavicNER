@@ -1,0 +1,32 @@
+21	26	Litwy	Litwa	LOC	GPE-Lithuania
+28	34	Polski	Polska	LOC	GPE-Poland
+37	42	Łotwy	Łotwa	LOC	GPE-Latvia
+44	58	Nord Stream II	Nord Stream II	PRO	PRO-Nord-Stream-2
+68	74	Europę	Europa	LOC	LOC-Europe
+78	83	Rosji	Rosja	LOC	GPE-Russia
+94	108	Nord Stream II	Nord Stream II	PRO	PRO-Nord-Stream-2
+137	142	Rosji	Rosja	LOC	GPE-Russia
+154	160	Europę	Europa	LOC	LOC-Europe
+238	240	UE	UE	ORG	ORG-European-Union
+262	267	Litwy	Litwa	LOC	GPE-Lithuania
+269	275	Polski	Polska	LOC	GPE-Poland
+277	282	Łotwy	Łotwa	LOC	GPE-Latvia
+285	292	Estonii	Estonia	LOC	GPE-Estonia
+316	330	Nord Stream II	Nord Stream II	PRO	PRO-Nord-Stream-2
+417	422	Rosji	Rosja	LOC	GPE-Russia
+548	557	Środkowej	Środkowa	LOC	LOC-Central-Europe
+560	577	Wschodniej Europy	Wschodnia Europa	LOC	LOC-Eastern-Europe
+582	587	Rosji	Rosja	LOC	GPE-Russia
+626	648	Viktorasa Pranckietisa	Viktoras Pranckietis	PER	PER-Viktoras-Pranckietis
+650	669	Marka Kuchcińskiego	Marek Kuchciński	PER	PER-Marek-Kuchciński
+671	685	Ināra Mūrniece	Ināra Mūrniece	PER	PER-Ināra-Mūrniece
+704	709	Sejmu	Sejmu	ORG	ORG-Sejm-of-the-Republic-of-Poland
+710	721	Eiki Nestor	Eiki Nestor	PER	PER-Eiki-Nestor
+759	775	Marek Kuchciński	Marek Kuchciński	PER	PER-Marek-Kuchciński
+942	959	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1097	1105	Sejmu RP	Sejm RP	ORG	ORG-Sejm-of-the-Republic-of-Poland
+1107	1113	Polska	Polska	LOC	GPE-Poland
+1115	1120	Litwa	Litwa	LOC	GPE-Lithuania
+1122	1127	Łotwa	Łotwa	LOC	GPE-Latvia
+1155	1168	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1254	1270	Marek Kuchciński	Marek Kuchciński	PER	PER-Marek-Kuchciński

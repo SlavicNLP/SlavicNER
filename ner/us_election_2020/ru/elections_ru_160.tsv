@@ -1,0 +1,56 @@
+41	53	американской	американский	LOC	GPE-USA
+54	73	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+179	192	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+486	499	Стивен Миллер	Стивен Миллер	PER	PER-Stephen-Miller
+517	525	Fox News	Fox News	PRO	PRO-Fox-News
+531	542	Конституция	Конституция	PRO	PRO-The-USA-Constitution
+642	648	Трампа	Трамп	PER	PER-Donald-Trump
+671	680	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+728	738	Висконсина	Висконсин	LOC	GPE-Wisconsin
+740	748	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+750	758	Мичигана	Мичиган	LOC	GPE-Michigan
+761	773	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+800	808	Мичигана	Мичиган	LOC	GPE-Michigan
+809	823	Гретчен Уитмер	Гретчен Уитмер	PER	PER-Gretchen-Whitmer
+854	868	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+878	887	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+939	945	Миллер	Миллер	PER	PER-Stephen-Miller
+1060	1068	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+1118	1132	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+1222	1241	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1345	1353	Колумбия	Колумбия	LOC	GPE-Colombia
+1424	1436	нью-йоркские	нью-йоркские	LOC	GPE-New-York
+1437	1446	демократы	демократы	ORG	ORG-Democratic-Party-USA
+1474	1489	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+1527	1537	капитолиях	капитолия	LOC	LOC-United-States-Capitol
+1626	1629	США	США	LOC	GPE-USA
+1648	1659	Майку Пенсу	Майк Пенс	PER	PER-Mike-Pence
+1706	1715	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+1750	1756	Сената	Сенат	ORG	ORG-United-States-Senate
+1759	1765	Палаты	Палата	ORG	ORG-United-States-House-of-Representatives
+1907	1914	Байдена	Байден	PER	PER-Joe-Biden
+1931	1936	Трамп	Трамп	PER	PER-Donald-Trump
+2006	2011	Трамп	Трамп	PER	PER-Donald-Trump
+2043	2051	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+2494	2504	демократов	демократы	ORG	ORG-Democratic-Party-USA
+2591	2597	Трампа	Трамп	PER	PER-Donald-Trump
+2631	2644	Стивен Миллер	Стивен Миллер	PER	PER-Stephen-Miller
+2709	2720	Уильям Барр	Уильям Барр	PER	PER-William-Barr
+2751	2770	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2822	2833	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2844	2859	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+2873	2892	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2927	2935	Коллегия	Коллегия	ORG	ORG-United-States-Electoral-College
+3278	3292	Джорджем Бушем	Джордж Буш	PER	PER-George-Bush-Jr
+3309	3324	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+3348	3367	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+3700	3719	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+3776	3779	США	США	LOC	GPE-USA
+3843	3858	Вадим ЯРМОЛИНЕЦ	Вадим ЯРМОЛИНЕЦ	PER	PER-Vadim-Yarmolinets
+4123	4142	коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+4250	4258	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+4260	4270	Калифорния	Калифорния	LOC	GPE-California
+4272	4279	Флорида	Флорида	LOC	GPE-Florida
+4282	4287	Техас	Техас	LOC	GPE-Texas
+4375	4379	Демы	Демы	ORG	ORG-Democratic-Party-USA
+4421	4440	Коллегию Выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College

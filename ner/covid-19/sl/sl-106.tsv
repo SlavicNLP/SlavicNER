@@ -1,0 +1,31 @@
+30	38	covid-19	covid-19	EVT	EVT-Covid-19
+171	175	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+207	220	koronavirusom	koronavirus	EVT	EVT-Covid-19
+223	226	ZDA	ZDA	LOC	GPE-USA
+256	275	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+288	291	ZDA	ZDA	LOC	GPE-USA
+498	501	ZDA	ZDA	LOC	GPE-USA
+504	517	koronavirusom	koronavirus	EVT	EVT-Covid-19
+553	563	covidom-19	covid-19	EVT	EVT-Covid-19
+803	811	covid-19	covid-19	EVT	EVT-Covid-19
+899	907	covid-19	covid-19	EVT	EVT-Covid-19
+997	1006	covida-19	covid-19	EVT	EVT-Covid-19
+1180	1184	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1253	1266	Simona Kustec	Simona Kustec	PER	PER-Simona-Kustec
+1786	1825	Nacionalnega inštituta za javno zdravje	Nacionalni inštitut za javno zdravje	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1827	1831	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1944	1953	Slovenije	Slovenija	LOC	GPE-Slovenia
+1971	1981	Madžarskem	Madžarska	LOC	GPE-Hungary
+1985	1993	Avstriji	Avstrija	LOC	GPE-Austria
+1997	2004	Italiji	Italija	LOC	GPE-Italy
+2045	2053	covid-19	covid-19	EVT	EVT-Covid-19
+2054	2065	Jelko Kacin	Jelko Kacin	PER	PER-Jelko-Kacin
+2279	2288	Kacinovih	Kacin	PER	PER-Jelko-Kacin
+2464	2472	Hrvaškem	Hrvaška	LOC	GPE-Croatia
+2489	2493	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+2610	2612	EU	EU	ORG	ORG-European-Union
+2666	2673	Berlinu	Berlin	LOC	GPE-Berlin
+2714	2728	Evropske unije	Evropska unija	ORG	ORG-European-Union
+2764	2775	Matej Tonin	Matej Tonin	PER	PER-Matej-Tonin
+2854	2856	EU	EU	ORG	ORG-European-Union
+2870	2879	covida-19	covid-19	EVT	EVT-Covid-19

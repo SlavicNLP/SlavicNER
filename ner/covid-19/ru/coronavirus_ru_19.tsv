@@ -1,0 +1,132 @@
+23	31	СOVID-19	СOVID-19	EVT	EVT-Covid-19
+50	62	казахстанцам	казахстанцы	PER	GPE-Kazakhstan
+86	102	primeminister.kz	primeminister.kz	PER	PER-primeminister.kz
+123	135	коронавируса	коронавирус	EVT	EVT-Covid-19
+147	157	Казахстане	Казахстан	LOC	GPE-Kazakhstan
+171	249	Комитет санитарно-эпидемиологического контроля Министерства здравоохранения РК	Комитет санитарно-эпидемиологического контроля Министерства здравоохранения РК	ORG	ORG-The-Committee-of-Sanitary-and-Epidemiological-Control-of-the-Ministry-of-Healthcare-of-the-Republic-of-Kazakhstan
+319	331	Kazpravda.kz	Kazpravda.kz	PRO	PRO-Kazakhstanskaya-Pravda
+355	365	Казахстане	Казахстан	LOC	GPE-Kazakhstan
+412	422	Казахстане	Казахстан	LOC	GPE-Kazakhstan
+465	521	"Кодекса РК ""О здоровье народа и системе здравоохранения"""	"Кодекс РК ""О здоровье народа и системе здравоохранения"""	PRO	PRO-The-Code-of-the-Republic-of-Kazakhstan-On-the-Health-of-the-People-and-the-Health-care-system
+712	722	Казахстане	Казахстан	LOC	GPE-Kazakhstan
+821	841	Республике Казахстан	Республика Казахстан	LOC	GPE-Kazakhstan
+869	871	РК	РК	LOC	GPE-Kazakhstan
+899	902	КВИ	КВИ	EVT	EVT-Covid-19
+928	941	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-The-Guardian
+943	954	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+979	985	России	Россия	LOC	GPE-Russia
+1049	1062	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+1086	1129	Карагандинского фармацевтического комплекса	Карагандинский фармацевтический комплекс	LOC	LOC-Karaganda-Pharmaceutical-Complex
+1239	1250	QazCovid-In	QazCovid-In	PRO	PRO-QazCovid-In
+1354	1366	коронавируса	коронавирус	EVT	EVT-Covid-19
+1485	1508	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+2206	2209	МЧС	МЧС	ORG	ORG-Ministry-of-Emergency-Situations
+2211	2214	МВД	МВД	ORG	ORG-Ministry-of-Internal-Affairs-Russia
+2216	2226	Минобороны	Миноборона	ORG	ORG-Ministry-of-Defense
+2228	2231	КНБ	КНБ	ORG	ORG-National-Security-Committee-of-Kazakhstan
+2233	2262	Службы государственной охраны	Служба государственной охраны	ORG	ORG-Security-Service-Kazakhstan
+2357	2380	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+2472	2484	коронавируса	коронавирус	EVT	EVT-Covid-19
+3179	3191	коронавируса	коронавирус	EVT	EVT-Covid-19
+3716	3722	России	Россия	LOC	GPE-Russia
+4301	4313	коронавируса	коронавирус	EVT	EVT-Covid-19
+4331	4342	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+4442	4444	РК	РК	LOC	GPE-Kazakhstan
+4464	4478	казахстанского	казахстанский	PER	GPE-Kazakhstan
+4751	4772	Карагандинском заводе	Карагандинский завод	LOC	LOC-Karaganda-Pharmaceutical-Complex
+4784	4797	Гам-КОВИД-Вак	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+4821	4864	Карагандинского фармацевтического комплекса	Карагандинский фармацевтический комплекс	LOC	LOC-Karaganda-Pharmaceutical-Complex
+4911	4931	Республике Казахстан	Республика Казахстан	LOC	GPE-Kazakhstan
+5004	5016	коронавируса	коронавирус	EVT	EVT-Covid-19
+5292	5302	российская	российская	PER	GPE-Russia
+5311	5322	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+5406	5408	РФ	РФ	LOC	GPE-Russia
+5509	5535	Фонда прямых инвестиций РФ	Фонд прямых инвестиций РФ	ORG	ORG-Russian-Direct-Investment-Fund
+5620	5628	Беларусь	Беларусь	LOC	GPE-Belarus
+5630	5639	Аргентина	Аргентина	LOC	GPE-Argentina
+5641	5647	Сербия	Сербия	LOC	GPE-Serbia
+5781	5801	Республики Казахстан	Республика Казахстан	LOC	GPE-Kazakhstan
+5928	5937	казахский	казахский	PER	GPE-Kazakhstan
+5942	5949	русский	русский	PER	GPE-Russia
+6079	6113	Правительства Республики Казахстан	Правительство Республики Казахстан	ORG	ORG-Government-of-the-Republic-of-Kazakhstan
+6155	6236	Правила временной государственной регистрации вакцин против коронавируса COVID-19	Правила временной государственной регистрации вакцин против коронавируса COVID-19	PRO	PRO-Act-Determining-Intervention-Measures-to-Assist-in-Mitigating-the-Consequences-of-the-Second-Wave-of-COVID-19-Epidemic-PKP7
+6254	6274	Республике Казахстан	Республика Казахстан	LOC	GPE-Kazakhstan
+6371	6403	Министерством здравоохранения РК	Министерство здравоохранения РК	ORG	ORG-Ministry-of-Healthcare-Kazakhstan
+6470	6493	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+6503	6510	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+6512	6521	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+6523	6528	Китай	Китай	LOC	GPE-China
+6531	6537	Phizer	Pfizer	ORG	ORG-Pfizer
+6539	6542	США	США	LOC	GPE-USA
+6628	6651	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+6672	6710	Всемирной организацией здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+6742	6756	казахстанского	казахстанский	PER	GPE-Kazakhstan
+6824	6894	Научно-исследовательским институтом проблем биологической безопасности	Научно-исследовательский институт проблем биологической безопасности	ORG	ORG-Research-Institute-Of-Biological-Safety-Problems
+6895	6945	Комитета науки Министерства образования и науки РК	Комитет науки Министерства образования и науки РК	ORG	ORG-The-Committee-of-Science-of-the-Ministry-of-Education-and-Science-of-the-Republic-of-Kazakhstan
+6955	6962	НИИ ПББ	НИИ ПББ	ORG	ORG-Research-Institute-Of-Biological-Safety-Problems
+7127	7172	Казахским национальным аграрным университетом	Казахский национальный аграрный университет	ORG	ORG-Kazakh-National-Agrarian-University
+7185	7210	Университетом Штата Огайо	Университет Штата Огайо	ORG	ORG-The-Ohio-state-university
+7212	7215	США	США	LOC	GPE-USA
+7223	7268	Казахским национальным аграрным университетом	Казахский национальный аграрный университет	ORG	ORG-Kazakh-National-Agrarian-University
+7275	7336	Национальным центром особо опасных инфекций им. М. Айкимбаева	Национальный центр особо опасных инфекций им. М. Айкимбаева	ORG	ORG-Masgut-Aikimbayev’s-National-Scientific-Center-for-Especially-Dangerous-Infections
+7343	7350	НИИ ПББ	НИИ ПББ	ORG	ORG-Research-Institute-Of-Biological-Safety-Problems
+7848	7859	eGov Mobile	eGov Mobile	PRO	PRO-mobile-application-#ostanizdrav
+7932	7943	eGov Mobile	eGov Mobile	PRO	PRO-mobile-application-#ostanizdrav
+8331	8351	Республике Казахстан	Республика Казахстан	LOC	GPE-Kazakhstan
+8542	8554	коронавируса	коронавирус	EVT	EVT-Covid-19
+8666	8674	COVID-19	СOVID-19	EVT	EVT-Covid-19
+8760	8783	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+9074	9085	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+9092	9109	НИЦЭМ им. Гамалеи	НИЦЭМ им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+9322	9333	коронавирус	коронавирус	EVT	EVT-Covid-19
+9334	9344	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+9450	9458	COVID-19	СOVID-19	EVT	EVT-Covid-19
+9801	9813	коронавируса	коронавирус	EVT	EVT-Covid-19
+9819	9822	США	США	LOC	GPE-USA
+9859	9869	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+9911	9918	Байдену	Байден	PER	PER-Joe-Biden
+9936	9942	Pfizer	Pfizer	ORG	ORG-Pfizer
+9945	9953	BioNTech	BioNTech	ORG	ORG-BioNTech
+9967	9973	Гвинеи	Гвинея	LOC	GPE-Guinea
+9974	9985	Альфа Конде	Альфа Конде	PER	PER-Alpha-Conde
+10032	10043	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+10153	10162	Аргентины	Аргентина	LOC	GPE-Argentina
+10163	10181	Альберто Фернандес	Альберто Фернандес	PER	PER-Alberto-Fernández
+10206	10229	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+10230	10240	российской	российский	PER	GPE-Russia
+10250	10261	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+10312	10325	Буэнос-Айреса	Буэнос-Айрес	LOC	GPE-Buenos-Aires
+10326	10340	Даниэль Голлан	Даниэль Голлан	PER	PER-Daniel-Gollan
+10359	10368	Венесуэлы	Венесуэла	LOC	GPE-Venezuela
+10369	10390	Николаса Мадуро Герра	Николас Мадуро Герра	PER	PER-Nicolas-Maduro-Guerra
+10414	10426	коронавируса	коронавирус	EVT	EVT-Covid-19
+10427	10437	российской	российский	PER	GPE-Russia
+10447	10458	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+10472	10478	Турции	Турция	LOC	GPE-Turkey
+10479	10493	Реджеп Эрдоган	Реджеп Эрдоган	PER	PER-Recep-Erdogan
+10516	10539	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+10540	10549	китайским	китайский	PER	GPE-Kazakhstan
+10561	10570	СoronaVac	СoronaVac	PRO	PRO-CoronaVac
+10601	10617	минздрава Турции	минздрав Турции	ORG	ORG-Ministry-of-healthcare-Turkey
+10618	10633	Фахреттин Коджа	Фахреттин Коджа	PER	PER-Fahrettin-Koca
+10639	10647	Ватикане	Ватикан	LOC	GPE-Vatican
+10657	10663	Pfizer	Pfizer	ORG	ORG-Pfizer
+10697	10705	Франциск	Франциск	PER	PER-Pope-Francis
+10732	10744	Бенедикт XVI	Бенедикт XVI	PER	PER-Benedict-XVI
+10774	10784	Калифорнии	Калифорния	LOC	GPE-California
+10785	10805	Арнольд Шварценеггер	Арнольд Шварценеггер	PER	PER-Arnold-Schwarzenegger
+10825	10837	коронавируса	коронавирус	EVT	EVT-Covid-19
+10850	10856	Pfizer	Pfizer	ORG	ORG-Pfizer
+10859	10867	BioNTech	BioNTech	ORG	ORG-BioNTech
+10869	10881	Американский	Американский	PER	GPE-USA
+10912	10924	Оливер Стоун	Оливер Стоун	PER	PER-Oliver-Stone
+10941	10951	российской	российский	PER	GPE-Russia
+10964	10987	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+10988	10999	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+11005	11015	Казахстане	Казахстан	LOC	GPE-Kazakhstan
+11044	11056	коронавируса	коронавирус	EVT	EVT-Covid-19
+11127	11129	РК	РК	LOC	GPE-Kazakhstan
+11130	11148	Асхат Аймагамбетов	Асхат Аймагамбетов	PER	PER-Askhat-Aimagambetov
+11217	11228	Ерлан Карин	Ерлан Карин	PER	PER-Erlan-Karin
+11235	11253	Жамбылской области	Жамбылская область	LOC	LOC-Jambyl-Region
+11254	11272	Бердибек Сапарбаев	Бердибек Сапарбаев	PER	PER-Berdibek-Saparbaev

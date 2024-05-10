@@ -1,0 +1,30 @@
+0	6	Mayová	Mayová	PER	PER-Theresa-May
+39	41	EU	EU	ORG	ORG-European-Union
+45	52	brexitu	brexit	EVT	EVT-Brexit
+72	86	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+133	135	EU	EU	ORG	ORG-European-Union
+139	146	brexitu	brexit	EVT	EVT-Brexit
+244	250	Londýn	Londýn	LOC	GPE-London
+356	370	Downing Street	Downing Street	LOC	LOC-Downing-Street
+387	402	The Independent	The Independent	PRO	PRO-The-Independent
+429	437	Británie	Británie	LOC	GPE-Great-Britain
+532	540	Británii	Británie	LOC	GPE-Great-Britain
+717	723	Londýn	Londýn	LOC	GPE-London
+814	822	Británií	Británie	LOC	GPE-Great-Britain
+825	839	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+1001	1016	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+1027	1033	Irskem	Irsko	LOC	GPE-Ireland
+1086	1094	Británie	Británie	LOC	GPE-Great-Britain
+1097	1099	EU	EU	ORG	ORG-European-Union
+1129	1135	Mayová	Mayová	PER	PER-Theresa-May
+1260	1268	Bruselem	Brusel	LOC	GPE-Brussles
+1276	1296	Konzervativní straně	Konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+1357	1374	Borisem Johnsonem	Boris Johnson	PER	PER-Boris-Johnson
+1460	1467	Londýna	Londýn	LOC	GPE-London
+1499	1501	EU	EU	ORG	ORG-European-Union
+1506	1512	brexit	brexit	EVT	EVT-Brexit
+1513	1527	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+1554	1560	brexit	brexit	EVT	EVT-Brexit
+1561	1576	Davidem Davisem	David Davis	PER	PER-David-Davis
+1639	1647	Británie	Británie	LOC	GPE-Great-Britain
+1650	1652	EU	EU	ORG	ORG-European-Union

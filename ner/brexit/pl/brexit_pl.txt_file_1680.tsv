@@ -1,0 +1,35 @@
+51	58	brexitu	Brexit	EVT	EVT-Brexit
+164	175	Izby Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+198	215	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+315	326	Theresy May	Theresa May	PER	PER-Theresa-May
+365	372	brexitu	Brexit	EVT	EVT-Brexit
+427	444	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+447	464	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+547	550	Lee	Lee	PER	PER-Phillip-Lee
+583	594	Izbę Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+664	671	brexitu	Brexit	EVT	EVT-Brexit
+715	730	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+777	780	Lee	Lee	PER	PER-Phillip-Lee
+969	976	Brexitu	Brexit	EVT	EVT-Brexit
+1024	1041	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1308	1311	Lee	Lee	PER	PER-Phillip-Lee
+1381	1398	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1508	1523	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1539	1554	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+1659	1665	Brexit	Brexit	EVT	EVT-Brexit
+1701	1704	Lee	Lee	PER	PER-Phillip-Lee
+1750	1765	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1793	1810	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1950	1957	brexitu	Brexit	EVT	EVT-Brexit
+2062	2077	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2167	2169	UE	UE	ORG	ORG-European-Union
+2470	2473	Lee	Lee	PER	PER-Phillip-Lee
+2527	2534	brexitu	Brexit	EVT	EVT-Brexit
+2611	2618	brexitu	Brexit	EVT	EVT-Brexit
+2920	2943	brytyjskiego parlamentu	Brytyjski Parlament	ORG	ORG-British-Parlament
+3074	3085	Izby Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+3272	3283	Phillip Lee	Phillip Lee	PER	PER-Phillip-Lee
+3296	3317	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+3345	3354	Bracknell	Bracknell	LOC	GPE-Bracknell
+3367	3376	Berkshire	Berkshire	LOC	GPE-Berkshire
+3451	3468	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union

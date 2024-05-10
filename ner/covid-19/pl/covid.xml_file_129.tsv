@@ -1,0 +1,20 @@
+0	19	Warmińsko-mazurskie	Warmińsko-mazurskie	LOC	GPE-Poland-Warmian-Masurian-Voivodeship
+66	74	COVID-19	COVID-19	EVT	EVT-Covid-19
+148	172	woj. warmińsko-mazurskim	woj. warmińsko-mazurskie	LOC	GPE-Poland-Warmian-Masurian-Voivodeship
+555	558	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+620	633	Mariola Haska	Mariola Haska	PER	PER-Mariola-Haska
+1061	1069	COVID-19	COVID-19	EVT	EVT-Covid-19
+1279	1292	koronawirusem	koronawirus	EVT	EVT-Covid-19
+1514	1522	COVID-19	COVID-19	EVT	EVT-Covid-19
+1824	1846	powiatu nowomiejskiego	powiat nowomiejski	LOC	GPE-Poland-Nowe-Miasto-County
+1868	1886	powiatu iławskiego	powiat iławski	LOC	GPE-Poland-Iława-County
+1908	1928	powiatu brodnickiego	powiat brodnicki	LOC	GPE-Poland-Brodnica-County
+2158	2172	Artur Chojecki	Artur Chojecki	PER	PER-Artur-Chojecki
+2275	2284	Ostródzie	Ostróda	LOC	GPE-Ostróda
+2286	2293	Elblągu	Elbląg	LOC	GPE-Elbląg-Poland
+2295	2304	Olsztynie	Olsztyn	LOC	GPE-Olsztyn-Poland
+2306	2311	Piszu	Pisz	LOC	GPE-Pisz-Poland
+2313	2322	Szczytnie	Szczytno	LOC	GPE-Szczytno-Poland
+2325	2329	Ełku	Ełk	LOC	GPE-Ełk-Poland
+2610	2616	DPS-ów	DPS-y	ORG	ORG-DPS
+2619	2626	MOPS-ów	MOPS-y	ORG	ORG-MOPS-Poland

@@ -1,0 +1,25 @@
+0	7	Słowacy	Słowacy	PER	GPE-Slovakia
+22	30	Anglikom	Anglicy	PER	GPE-Great-Britain
+36	44	Jaguarze	Jaguar	PRO	PRO-Jaguar
+46	63	Jaguar Land Rover	Jaguar Land Rover	ORG	ORG-Jaguar-Land-Rover
+99	106	Wyspach	Wyspy	LOC	GPE-Great-Britain
+142	151	Discovery	Discovery	PRO	PRO-Discovery-Jaguar
+163	171	Słowacji	Słowacja	LOC	GPE-Slovakia
+203	215	Range Rovera	Range Rover	PRO	PRO-Range-Rover
+218	224	Anglii	Anglia	LOC	GPE-England
+281	292	Tata Motors	Tata Motors	ORG	ORG-Tata-Motors
+318	327	Discovery	Discovery	PRO	PRO-Discovery-Jaguar
+370	378	Słowacji	Słowacja	LOC	GPE-Slovakia
+457	468	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+519	530	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+717	727	Ken Gregor	Ken Gregor	PER	PER-Ken-Gregor
+774	785	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+848	854	Nitrze	Nitra	LOC	GPE-Nitra
+858	866	Słowacji	Słowacja	LOC	GPE-Slovakia
+976	987	Range Rover	Range Rover	PRO	PRO-Range-Rover
+1047	1055	Solihull	Solihull	LOC	GPE-Solihull
+1068	1074	Anglii	Anglia	LOC	GPE-England
+1363	1369	brexit	Brexit	EVT	EVT-Brexit
+1644	1647	JLR	JLR	ORG	ORG-JLR
+1704	1710	I-PACE	I-PACE	PRO	PRO-I-PACE
+1730	1737	Austrii	Austria	LOC	GPE-Austria

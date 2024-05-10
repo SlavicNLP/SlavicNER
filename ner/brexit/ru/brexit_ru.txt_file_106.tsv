@@ -1,0 +1,44 @@
+0	13	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+82	96	Великобритании	Великобритания	LOC	GPE-Great-Britain
+97	110	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+181	191	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+286	295	Евросоюза	Евросоюз	ORG	ORG-European-Union
+341	348	Брекзит	Брекзит	EVT	EVT-Brexit
+471	485	Великобритании	Великобритания	LOC	GPE-Great-Britain
+603	610	Джонсон	Джонсон	PER	PER-Boris-Johnson
+619	647	британский кабинет министров	британский кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+705	715	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+732	735	Мэй	Мэй	PER	PER-Theresa-May
+750	764	Великобритания	Великобритания	LOC	GPE-Great-Britain
+813	815	ЕС	ЕС	ORG	ORG-European-Union
+871	879	Брекзита	Брекзит	EVT	EVT-Brexit
+892	900	Джонсона	Джонсон	PER	PER-Boris-Johnson
+997	1006	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1183	1227	внешнеполитического ведомства Великобритании	внешнеполитическое ведомство Великобритании	ORG	ORG-Foreign-Office
+1305	1320	Борису Джонсону	Борис Джонсон	PER	PER-Boris-Johnson
+1346	1350	МИДа	МИД	ORG	ORG-Foreign-Office
+1373	1377	МИДа	МИД	ORG	ORG-Foreign-Office
+1390	1397	Лондона	Лондон	LOC	GPE-London
+1428	1434	Brexit	Brexit	EVT	EVT-Brexit
+1435	1448	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1474	1488	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1512	1522	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1542	1546	МИДа	МИД	ORG	ORG-Foreign-Office
+1548	1556	Джонсону	Джонсон	PER	PER-Boris-Johnson
+1745	1752	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1810	1825	Борису Джонсону	Борис Джонсон	PER	PER-Boris-Johnson
+1851	1855	МИДа	МИД	ORG	ORG-Foreign-Office
+1856	1858	ЕС	ЕС	ORG	ORG-European-Union
+1860	1868	Наполеон	Наполеон	PER	PER-Napoleon-Bonaparte
+1871	1877	Гитлер	Гитлер	PER	PER-Adolf-Hitler
+1885	1907	референдумом по Brexit	референдум по Brexit	EVT	EVT-Brexit-Referendum
+1908	1921	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1960	1962	ЕС	ЕС	ORG	ORG-European-Union
+1994	2014	The Sunday Telegraph	The Sunday Telegraph	PRO	PRO-The-Sunday-Telegraph
+2015	2022	Джонсон	Джонсон	PER	PER-Boris-Johnson
+2031	2039	Евросоюз	Евросоюз	ORG	ORG-European-Union
+2042	2059	Адольфом Гитлером	Адольф Гитлер	PER	PER-Adolf-Hitler
+2062	2064	ЕС	ЕС	ORG	ORG-European-Union
+2100	2108	Наполеон	Наполеон	PER	PER-Napoleon-Bonaparte
+2110	2116	Гитлер	Гитлер	PER	PER-Adolf-Hitler
+2212	2220	Джонсону	Джонсон	PER	PER-Boris-Johnson

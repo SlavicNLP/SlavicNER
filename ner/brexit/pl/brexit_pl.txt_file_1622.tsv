@@ -1,0 +1,23 @@
+0	7	Johnson	Johnson	PER	PER-Boris-Johnson
+9	15	Brexit	Brexit	EVT	EVT-Brexit
+55	68	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+88	91	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+145	153	brexicie	Brexit	EVT	EVT-Brexit
+154	160	Londyn	Londyn	LOC	GPE-London
+190	194	Unii	Unia	ORG	ORG-European-Union
+275	282	Johnson	Johnson	PER	PER-Boris-Johnson
+303	327	Conservative Way Forward	Conservative Way Forward	ORG	ORG-Conservative-Way-Forward
+427	449	Institute of Directors	Institute of Directors	ORG	ORG-Institute-of-Directors
+462	465	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+565	573	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+600	611	Theresa May	Theresa May	PER	PER-Theresa-May
+646	661	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+702	710	Brukselą	Bruksela	LOC	GPE-Brussles
+966	969	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+1017	1034	Unii Europejskiej	Unii Europejska	ORG	ORG-European-Union
+1080	1086	brexit	Brexit	EVT	EVT-Brexit
+1255	1262	brexitu	brexitu	EVT	EVT-Brexit
+1309	1316	brexitu	brexitu	EVT	EVT-Brexit
+1326	1333	Johnson	Johnson	PER	PER-Boris-Johnson
+1392	1400	Irlandią	Irlandia	LOC	GPE-Ireland
+1403	1420	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries

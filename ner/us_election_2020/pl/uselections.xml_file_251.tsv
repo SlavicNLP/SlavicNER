@@ -1,0 +1,33 @@
+0	3	USA	USA	LOC	GPE-USA
+5	10	Biden	Biden	PER	PER-Joe-Biden
+13	20	Sanders	Sanders	PER	PER-Bernie-Sanders
+53	63	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+66	70	Iowa	Iowa	LOC	GPE-Iowa
+104	123	Monmouth University	Monmouth University	ORG	ORG-Monmouth-University
+124	129	Biden	Biden	PER	PER-Joe-Biden
+203	213	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+216	220	Iowa	Iowa	LOC	GPE-Iowa
+222	229	Sanders	Sanders	PER	PER-Bernie-Sanders
+319	329	South Bend	South Bend	LOC	GPE-South-Bend
+332	340	Indianie	Indiana	LOC	GPE-Indiana
+341	355	Pete Buttigieg	Pete Buttigieg	PER	PER-Peter-Buttigieg
+380	396	Elizabeth Warren	Elizabeth Warren	PER	PER-Elizabeth-Warren
+456	469	Amy Klobuchar	Amy Klobuchar	PER	PER-Amy-Klobuchar
+507	526	Monmouth University	Monmouth University	ORG	ORG-Monmouth-University
+557	563	Bidena	Biden	PER	PER-Joe-Biden
+568	577	Sandersem	Sanders	PER	PER-Bernie-Sanders
+580	584	Iowa	Iowa	LOC	GPE-Iowa
+719	724	Biden	Biden	PER	PER-Joe-Biden
+782	790	Sandersa	Sanders	PER	PER-Bernie-Sanders
+838	842	Iowa	Iowa	LOC	GPE-Iowa
+948	958	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+993	1006	New Hampshire	New Hampshire	LOC	GPE-New-Hampshire
+1008	1016	Nevadzie	Nevada	LOC	GPE-Nevada
+1022	1043	Karolinie Południowej	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+1194	1219	Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+1275	1284	Biały Dom	Biały Dom	LOC	LOC-White-House
+1358	1371	Republikanami	Republikanie	ORG	ORG-Republican-Party-USA
+1374	1385	Demokratami	Demokraci	ORG	ORG-Democratic-Party-USA
+1390	1401	Waszyngtonu	Waszyngton	LOC	GPE-WashingtonDC
+1402	1418	Mateusz Obremski	Mateusz Obremski	PER	PER-Mateusz-Obremski
+1420	1423	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

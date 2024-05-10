@@ -1,0 +1,63 @@
+29	46	Корреспондент.net	Корреспондент.net	PRO	PRO-Korrespondent-net
+87	101	Deutsche Welle	Deutsche Welle	ORG	ORG-Deutsche-Welle
+104	114	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+134	143	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+167	184	Українська служба	Українська служба	PRO	ORG-DW-Ukrainian-Service
+185	187	DW	DW	ORG	ORG-Deutsche-Welle
+230	237	Reuters	Reuters	ORG	ORG-Reuters
+263	266	США	США	LOC	GPE-USA
+267	277	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+323	331	Детройті	Детройт	LOC	GPE-Detroit
+357	360	США	США	LOC	GPE-USA
+361	371	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+382	391	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+450	464	Берні Сандерса	Берні Сандерс	PER	PER-Bernie-Sanders
+471	480	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+481	505	Демократичної партії США	Демократична партія США	ORG	ORG-Democratic-Party-USA
+579	587	Мічігані	Мічіган	LOC	GPE-Michigan
+589	595	Місурі	Місурі	LOC	GPE-Missouri
+597	606	Міссісіпі	Міссісіпі	LOC	GPE-Mississippi
+610	616	Айдахо	Айдахо	LOC	GPE-Idaho
+658	661	США	США	LOC	GPE-USA
+662	672	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+722	739	Північіній Дакоті	Північна Дакота	LOC	GPE-North-Dakota
+743	753	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+804	806	AP	AP	ORG	ORG-AP-The-Associated-Press
+851	858	Байдену	Байден	PER	PER-Joe-Biden
+961	981	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+1009	1024	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1089	1097	Мічігані	Мічіган	LOC	GPE-Michigan
+1112	1119	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1218	1225	Байдена	Байден	PER	PER-Joe-Biden
+1233	1242	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+1252	1265	Берні Сандерс	Берні Сандерс	PER	PER-Bernie-Sanders
+1397	1404	Мічіган	Мічіган	LOC	GPE-Michigan
+1422	1429	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1459	1474	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+1489	1497	Мічігані	Мічіган	LOC	GPE-Michigan
+1498	1505	Сандерс	Сандерс	PER	PER-Bernie-Sanders
+1525	1540	Гілларі Клінтон	Гілларі Клінтон	PER	PER-Hillary-Clinton
+1549	1558	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+1619	1629	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+1633	1649	Північній Дакоті	Північна Дакота	LOC	GPE-North-Dakota
+1671	1680	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+1681	1705	Демократичної партії США	Демократична партія США	ORG	ORG-Democratic-Party-USA
+1765	1781	Північній Дакоті	Північна Дакота	LOC	GPE-North-Dakota
+1785	1795	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+1827	1840	Берні Сандерс	Берні Сандерс	PER	PER-Bernie-Sanders
+1844	1854	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1897	1921	Демократичної партії США	Демократична партія США	ORG	ORG-Democratic-Party-USA
+1990	1999	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+2219	2225	Байден	Байден	PER	PER-Joe-Biden
+2232	2240	Сандерса	Сандерс	PER	PER-Bernie-Sanders
+2246	2255	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+2365	2372	Байдену	Байден	PER	PER-Joe-Biden
+2467	2476	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+2587	2609	виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+2635	2643	Байденом	Байден	PER	PER-Joe-Biden
+2647	2656	Сандерсом	Сандерс	PER	PER-Bernie-Sanders
+2863	2869	Байден	Байден	PER	PER-Joe-Biden
+2880	2889	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+2930	2944	Берні Сандерса	Берні Сандерс	PER	PER-Bernie-Sanders
+3007	3027	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+3031	3053	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election

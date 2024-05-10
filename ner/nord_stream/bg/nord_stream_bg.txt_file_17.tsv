@@ -1,0 +1,33 @@
+0	8	Германия	Германия	LOC	GPE-Germany
+35	52	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+54	62	Германия	Германия	LOC	GPE-Germany
+115	132	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+188	201	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+215	222	Ройтерс	Ройтерс	ORG	ORG-Reuters
+349	358	Финландия	Финландия	LOC	GPE-Finland
+360	365	Дания	Дания	LOC	GPE-Denmark
+367	373	Швеция	Швеция	LOC	GPE-Sweden
+375	380	Русия	Русия	LOC	GPE-Russia
+383	391	Германия	Германия	LOC	GPE-Germany
+522	539	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+565	573	Германия	Германия	LOC	GPE-Germany
+596	606	Грайфсвалд	Грайфсвалд	LOC	GPE-Greifswald
+652	659	Газпром	Газпром	ORG	ORG-Gazprom
+661	674	Алексей Милер	Алексей Милер	PER	PER-Aleksey-Miller
+687	691	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+694	701	Газпром	Газпром	ORG	ORG-Gazprom
+770	775	Engie	Engie	ORG	ORG-Engie
+777	780	OMV	OMV	ORG	ORG-OMV
+782	799	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+801	807	Uniper	Uniper	ORG	ORG-Uniper
+810	821	Wintershall	Wintershall	ORG	ORG-Wintershall
+1085	1098	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+1134	1136	ЕС	ЕС	ORG	ORG-European-Union
+1156	1161	Полша	Полша	LOC	GPE-Poland
+1182	1185	САЩ	САЩ	LOC	GPE-USA
+1220	1229	Централна	Централна	LOC	LOC-Central-Europe
+1232	1246	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+1444	1451	Брюксел	Брюксел	LOC	GPE-Brussles
+1453	1458	Русия	Русия	LOC	GPE-Russia
+1510	1524	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+1581	1587	Москва	Москва	LOC	GPE-Moscow

@@ -1,0 +1,20 @@
+0	5	Фараж	Фараж	PER	PER-Nigel-Farage
+18	25	Брекзит	Брекзит	EVT	EVT-Brexit
+31	33	ЕС	ЕС	ORG	ORG-European-Union
+76	90	Великобритания	Великобритания	LOC	GPE-Great-Britain
+116	123	Брекзит	Брекзит	EVT	EVT-Brexit
+130	132	ЕС	ЕС	ORG	ORG-European-Union
+220	241	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+242	255	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+278	280	ЕС	ЕС	ORG	ORG-European-Union
+284	291	Брекзит	Брекзит	EVT	EVT-Brexit
+292	304	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+317	324	Ройтерс	Ройтерс	ORG	ORG-Reuters
+327	332	Фараж	Фараж	PER	PER-Nigel-Farage
+348	372	Партията за независимост	Партия за независимост	ORG	ORG-UK-Independence-Party
+376	390	Великобритания	Великобритания	LOC	GPE-Great-Britain
+439	441	ЕС	ЕС	ORG	ORG-European-Union
+495	515	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+557	559	ЕС	ЕС	ORG	ORG-European-Union
+576	608	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+629	636	Брекзит	Брекзит	EVT	EVT-Brexit

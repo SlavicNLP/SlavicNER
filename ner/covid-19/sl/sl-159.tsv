@@ -1,0 +1,61 @@
+2	22	Evropskem parlamentu	Evropski parlament	ORG	ORG-European-Parliament
+30	37	Bruslju	Bruselj	LOC	GPE-Brussles
+56	65	Madžarski	Madžarska	LOC	GPE-Hungary
+83	91	covid-19	covid-19	EVT	EVT-Covid-19
+117	142	socialistov in demokratov	socialisti in demokrati	ORG	ORG-SD-Progressive-Alliance-of-Socialists-and-Democrats
+144	147	S&D	S&D	ORG	ORG-SD-Progressive-Alliance-of-Socialists-and-Democrats
+149	168	Iratxe Garcia Perez	Iratxe Garcia Perez	PER	PER-Iratxe-Garcia-Perez
+204	216	Viktor Orban	Viktor Orban	PER	PER-Viktor-Orban
+282	299	Evropsko komisijo	Evropska komisija	ORG	ORG-European-Commission
+303	310	Svet EU	Svet EU	ORG	ORG-EU-Council
+349	353	Svet	Svet	ORG	ORG-EU-Council
+395	405	pogodbe EU	pogodba EU	PRO	PRO-TUE-Treaty-on-European-Union
+407	431	Evropsko ljudsko stranko	Evropska ljudska stranka	ORG	ORG-EPP-European-Peoples-Party
+433	436	EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+446	454	Orbanovo	Orban	PER	PER-Viktor-Orban
+463	469	Fidesz	Fidesz	ORG	ORG-Fidesz
+520	526	Orbanu	Orban	PER	PER-Viktor-Orban
+614	623	Madžarski	Madžarska	LOC	GPE-Hungary
+672	682	liberalcev	liberalci	PER	ORG-ALDE
+684	689	Renew	Renew	ORG	ORG-Renew
+691	707	Ramona Strugariu	Ramona Strugariu	PER	PER-Ramona-Strugariu
+760	762	EU	EU	ORG	ORG-European-Union
+975	986	Malin Björk	Malin Björk	PER	PER-Malin-Björk
+995	1001	levice	levica	ORG	ORG-European-United-Left–Nordic-Green-Left
+1003	1010	GUE/NGL	GUE/NGL	ORG	ORG-European-United-Left–Nordic-Green-Left
+1192	1209	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+1213	1221	Sveta EU	Svet EU	ORG	ORG-EU-Council
+1223	1226	EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+1261	1268	Fidesza	Fidesz	ORG	ORG-Fidesz
+1358	1368	Madžarskem	Madžarska	LOC	GPE-Hungary
+1385	1411	Gwendoline Delbos-Corfield	Gwendoline Delbos-Corfield	PER	PER-Gwendoline-Delbos-Corfield
+1420	1427	Zelenih	Zeleni	ORG	ORG-Europe-Ecology-The-Greens
+1448	1457	Madžarski	Madžarska	LOC	GPE-Hungary
+1500	1503	EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+1583	1600	Christophe Hansen	Christophe Hansen	PER	PER-Christophe-Hansen
+1602	1610	Komisijo	Komisija	ORG	ORG-European-Commission
+1614	1618	Svet	Svet	ORG	ORG-EU-Council
+1714	1724	Andor Deli	Andor Deli	PER	PER-Andor-Deli
+1726	1729	EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+1730	1736	Fidesz	Fidesz	ORG	ORG-Fidesz
+2006	2031	Identiteta in demokracija	Identiteta in demokracija	ORG	ORG-Identity-and-Democracy
+2033	2035	ID	ID	ORG	ORG-Identity-and-Democracy
+2037	2053	Annalisa Tardino	Annalisa Tardino	PER	PER-Annalisa-Tardino
+2098	2107	Madžarsko	Madžarska	LOC	GPE-Hungary
+2184	2195	Beata Kempa	Beata Kempa	PER	PER-Beata-Kempa
+2221	2257	Evropski konservativci in reformisti	Evropski konservativci in reformisti	ORG	ORG-European-Conservatives-and-Reformists-Group
+2259	2262	ECR	ECR	ORG	ORG-AECR-Alliance-of-European-Conservatives-and-Reformists
+2366	2378	koronavirusu	koronavirus	EVT	EVT-Covid-19
+2487	2499	Vera Jourova	Vera Jourova	PER	PER-Věra-Jourová
+2582	2592	Madžarskem	Madžarska	LOC	GPE-Hungary
+3046	3097	hrvaškega ministrstva za zunanje in evropske zadeve	hrvaško ministrstvo za zunanje in evropske zadeve	ORG	ORG-Ministry-of-Foreign-and-European-Affairs-Croatia
+3098	3113	Nikolina Brnjac	Nikolina Brnjac	PER	PER-Nikolina-Brnjac
+3150	3158	Svetu EU	Svet EU	ORG	ORG-EU-Council
+3219	3229	pogodbe EU	pogodba EU	PRO	PRO-TUE-Treaty-on-European-Union
+3250	3259	Madžarska	Madžarska	LOC	GPE-Hungary
+3263	3270	Poljska	Poljska	LOC	GPE-Poland
+3361	3369	sveta EU	svet EU	ORG	ORG-EU-Council
+3456	3469	David Sassoli	David Sassoli	PER	PER-David-Sassoli
+3556	3562	Orbana	Orban	PER	PER-Viktor-Orban
+3638	3649	Judit Varga	Judit Varga	PER	PER-Judit-Varga
+3660	3678	Evropski parlament	Evropski parlament	ORG	ORG-European-Parliament

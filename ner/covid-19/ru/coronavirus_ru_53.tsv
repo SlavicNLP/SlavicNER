@@ -1,0 +1,73 @@
+14	26	коронавируса	коронавирус	EVT	EVT-Covid-19
+29	35	Москве	Москва	LOC	GPE-Moscow
+80	86	России	Россия	LOC	GPE-Russia
+136	148	коронавируса	коронавирус	EVT	EVT-Covid-19
+149	160	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+272	278	Путина	Путин	PER	PER-Vladimir-Putin
+380	386	России	Россия	LOC	GPE-Russia
+461	473	коронавируса	коронавирус	EVT	EVT-Covid-19
+476	482	Москве	Москва	LOC	GPE-Moscow
+609	618	Минздраве	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+675	687	коронавируса	коронавирус	EVT	EVT-Covid-19
+745	755	российский	российский	PER	GPE-Russia
+891	898	Ткачева	Ткачева	PER	PER-Olga-Tkacheva
+978	987	Минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+1011	1023	коронавируса	коронавирус	EVT	EVT-Covid-19
+1089	1098	Минздрава	Минздрав	ORG	ORG-Department-of-Health
+1135	1148	Ольга Ткачева	Ольга Ткачева	PER	PER-Olga-Tkacheva
+1294	1303	Минздраве	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+1363	1371	COVID-19	COVID-19	EVT	EVT-Covid-19
+1417	1425	COVID-19	COVID-19	EVT	EVT-Covid-19
+1441	1460	"""Российская газета"""	Российская газета	PRO	PRO-Rossiyskaya-Gazeta
+1503	1512	Минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+1513	1526	Ольгу Ткачеву	Ольга Ткачева	PER	PER-Olga-Tkacheva
+1555	1561	Москве	Москва	LOC	GPE-Moscow
+1590	1602	коронавируса	коронавирус	EVT	EVT-Covid-19
+1631	1637	Москве	Москва	LOC	GPE-Moscow
+1690	1702	коронавируса	коронавирус	EVT	EVT-Covid-19
+1731	1745	Сергей Собянин	Сергей Собянин	PER	PER-Sergei-Sobyanin
+1765	1775	«Россия 1»	Россия 1	PRO	PRO-Russia-1-TV
+1786	1797	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+1849	1856	Собянин	Собянин	PER	PER-Sergei-Sobyanin
+1909	1921	коронавируса	коронавирус	EVT	EVT-Covid-19
+1924	1930	Москве	Москва	LOC	GPE-Moscow
+2030	2037	Собянин	Собянин	PER	PER-Sergei-Sobyanin
+2077	2086	москвичей	москвичи	PER	GPE-Moscow
+2098	2111	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2155	2167	коронавируса	коронавирус	EVT	EVT-Covid-19
+2170	2176	Москве	Москва	LOC	GPE-Moscow
+2215	2221	Москве	Москва	LOC	GPE-Moscow
+2234	2246	коронавируса	коронавирус	EVT	EVT-Covid-19
+2292	2306	Сергей Собянин	Сергей Собянин	PER	PER-Sergei-Sobyanin
+2484	2491	Собянин	Собянин	PER	PER-Sergei-Sobyanin
+2500	2510	«России 1»	Россия 1	PRO	PRO-Russia-1-TV
+2537	2544	Собянин	Собянин	PER	PER-Sergei-Sobyanin
+2601	2609	COVID-19	COVID-19	EVT	EVT-Covid-19
+2614	2620	Москве	Москва	LOC	GPE-Moscow
+2677	2689	коронавируса	коронавирус	EVT	EVT-Covid-19
+2719	2733	Сергей Собянин	Сергей Собянин	PER	PER-Sergei-Sobyanin
+2753	2763	"""Россия 1"""	Россия 1	PRO	PRO-Russia-1-TV
+2869	2880	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+2881	2889	Собянина	Собянин	PER	PER-Sergei-Sobyanin
+2918	2924	Москве	Москва	LOC	GPE-Moscow
+2980	2986	Москве	Москва	LOC	GPE-Moscow
+3060	3071	«Москва 24»	Москва 24	PRO	PRO-Moskva-24
+3294	3300	Москвы	Москва	LOC	GPE-Moscow
+3399	3405	Москвы	Москва	LOC	GPE-Moscow
+3632	3638	Москве	Москва	LOC	GPE-Moscow
+3702	3712	Московские	Московский	PER	GPE-Moscow
+3872	3884	коронавируса	коронавирус	EVT	EVT-Covid-19
+3887	3893	Москве	Москва	LOC	GPE-Moscow
+3977	3992	Владмира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+4020	4032	коронавируса	коронавирус	EVT	EVT-Covid-19
+4048	4054	Москве	Москва	LOC	GPE-Moscow
+4059	4065	России	Россия	LOC	GPE-Russia
+4294	4306	коронавируса	коронавирус	EVT	EVT-Covid-19
+4322	4332	Минздравом	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+4944	4956	коронавируса	коронавирус	EVT	EVT-Covid-19
+5065	5069	КоАП	КоАП	PRO	PRO-Code-of-the-Russian-Federation-on-Administrative-Offenses
+5070	5076	Минюст	Минюст	ORG	ORG-Ministry-of-Justice-Russia
+5208	5220	коронавируса	коронавирус	EVT	EVT-Covid-19
+5287	5293	Москве	Москва	LOC	GPE-Moscow
+5310	5322	коронавируса	коронавирус	EVT	EVT-Covid-19
+5475	5487	коронавируса	коронавирус	EVT	EVT-Covid-19

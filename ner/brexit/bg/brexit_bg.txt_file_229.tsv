@@ -1,0 +1,17 @@
+42	48	Лондон	Лондон	LOC	GPE-London
+67	74	брекзит	Брекзит	EVT	EVT-Brexit
+87	89	ЕС	ЕС	ORG	ORG-European-Union
+110	124	Великобритания	Великобритания	LOC	GPE-Great-Britain
+232	240	Европа 1	Европа 1	PRO	PRO-Europe-1
+254	260	Се нюз	Се нюз	PRO	PRO-CNews-France
+327	341	Пиер Московиси	Пиер Московиси	PER	PER-Pierre-Moscovici
+370	377	брекзит	Брекзит	EVT	EVT-Brexit
+429	443	Великобритание	Великобритания	LOC	GPE-Great-Britain
+497	499	ЕС	ЕС	ORG	ORG-European-Union
+519	525	Лондон	Лондон	LOC	GPE-London
+539	548	Московиси	Московиси	PER	PER-Pierre-Moscovici
+574	583	брекзитът	Брекзит	EVT	EVT-Brexit
+612	626	Великобритания	Великобритания	LOC	GPE-Great-Britain
+636	642	Европа	Европа	LOC	LOC-Europe
+695	721	Съвета за сигурност на ООН	Съвет за сигурност на ООН	ORG	ORG-UN-Security-Council
+922	928	Лондон	Лондон	LOC	GPE-London

@@ -1,0 +1,14 @@
+0	8	Evropané	Evropané	PER	LOC-Europe
+30	37	Britové	Britové	PER	GPE-Great-Britain
+100	107	brexitu	brexit	EVT	EVT-Brexit
+140	154	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+220	222	EU	EU	ORG	ORG-European-Union
+242	250	Británie	Británie	LOC	GPE-Great-Britain
+438	440	EU	EU	ORG	ORG-European-Union
+447	467	Spojenému království	Spojené království	LOC	GPE-Great-Britain
+564	571	Britové	Britové	PER	GPE-Great-Britain
+580	594	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+820	835	Velkou Británii	Velká Británie	LOC	GPE-Great-Britain
+934	953	Spojeném království	Spojené království	LOC	GPE-Great-Britain
+1028	1045	Soudního dvora EU	Soudní dvůr EU	ORG	ORG-European-Court-of-Justice
+1066	1072	Mayové	Mayová	PER	PER-Theresa-May

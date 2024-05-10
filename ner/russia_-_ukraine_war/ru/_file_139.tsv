@@ -1,0 +1,31 @@
+30	36	Россия	Россия	LOC	GPE-Russia
+67	74	талибов	талибы	PER	ORG-Taliban
+76	82	МОСКВА	Москва	LOC	GPE-Moscow
+93	104	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+135	146	Афганистана	Афганистан	LOC	GPE-Afghanistan
+149	155	Москве	Москва	LOC	GPE-Moscow
+156	175	Джамал Насир Гарвал	Джамал Насир Гарвал	PER	PER-Jamal-Nasir-Garwal
+187	198	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+220	226	Россия	Россия	LOC	GPE-Russia
+292	299	талибов	талибы	PER	ORG-Taliban
+300	306	Гарвал	Гарвал	PER	PER-Jamal-Nasir-Garwal
+320	328	талибами	талибы	PER	ORG-Taliban
+363	366	ООН	ООН	ORG	ORG-United-Nations
+423	429	Москве	Москва	LOC	GPE-Moscow
+451	474	российском дипведомстве	российское дипведомство	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+525	546	правительства талибов	правительство талибов	ORG	ORG-Government-of-Afghanistan
+596	602	Москвы	Москва	LOC	GPE-Moscow
+620	623	МИД	МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+624	638	Сергея Лаврова	Сергей Лавров	PER	PER-Sergey-Lavrov
+640	642	РФ	РФ	LOC	GPE-Russia
+719	730	Афганистане	Афганистан	LOC	GPE-Afghanistan
+842	848	талибы	талибы	PER	ORG-Taliban
+902	913	Афганистана	Афганистан	LOC	GPE-Afghanistan
+934	939	Кабул	Кабул	LOC	GPE-Kabul
+1113	1116	CША	CША	LOC	GPE-USA
+1119	1130	Афганистане	Афганистан	LOC	GPE-Afghanistan
+1195	1206	Афганистана	Афганистан	LOC	GPE-Afghanistan
+1226	1246	Мохаммад Хасан Ахунд	Мохаммад Хасан Ахунд	PER	PER-Mohammad-Hasan-Akhund
+1307	1315	Талибана	Талибан	ORG	ORG-Taliban
+1346	1349	ООН	ООН	ORG	ORG-United-Nations
+1396	1399	ООН	ООН	ORG	ORG-United-Nations

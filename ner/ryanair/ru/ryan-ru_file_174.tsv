@@ -1,0 +1,15 @@
+16	25	Таллинном	Таллинн	LOC	GPE-Tallinn
+28	35	Миланом	Милан	LOC	GPE-Milan
+130	136	Италии	Италия	LOC	GPE-Italy
+191	195	ENAV	ENAV	ORG	ORG-ENAV
+322	326	Рима	Рим	LOC	GPE-Rome
+328	334	Милана	Милан	LOC	GPE-Milan
+336	343	Неаполя	Неаполь	LOC	GPE-Napoli
+345	352	Венеции	Венеция	LOC	GPE-Venezia
+354	361	Болоньи	Болонья	LOC	GPE-Bologna
+530	533	МИД	МИД	ORG	ORG-Foreign-Office
+606	616	Трениталия	Трениталия	ORG	ORG-Trenitalia
+620	623	NTV	NTV	ORG	ORG-NTV-Railway-Company-Italy
+881	888	Ryanair	Ryanair	ORG	ORG-Ryanair
+890	897	easyJet	easyJet	ORG	ORG-EasyJet
+900	915	British Airways	British Airways	ORG	ORG-British-Airways

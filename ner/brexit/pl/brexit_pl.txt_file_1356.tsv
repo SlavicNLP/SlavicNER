@@ -1,0 +1,13 @@
+0	11	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+59	65	Brexit	Brexit	EVT	EVT-Brexit
+67	78	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+155	158	ITV	ITV	PRO	PRO-ITV
+197	204	Brexitu	Brexit	EVT	EVT-Brexit
+282	299	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+323	330	Londynu	Londyn	LOC	GPE-London
+333	341	Brukselą	Bruksela	LOC	GPE-Brussles
+480	486	Brexit	Brexit	EVT	EVT-Brexit
+502	511	brexodusu	Brexodus	EVT	EVT-Brexit
+596	613	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+725	732	Brexitu	Brexit	EVT	EVT-Brexit
+762	764	UE	UE	ORG	ORG-European-Union

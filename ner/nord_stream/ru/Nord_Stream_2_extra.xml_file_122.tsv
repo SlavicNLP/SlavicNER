@@ -1,0 +1,33 @@
+6	18	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+34	37	США	США	LOC	GPE-USA
+46	66	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+68	72	КИЕВ	КИЕВ	LOC	GPE-Kiev
+85	88	УНН	УНН	ORG	ORG-UNN
+114	122	Германии	Германия	LOC	GPE-Germany
+123	132	Хайко Мас	Хайко Мас	PER	PER-Heiko-Maas
+148	151	США	США	LOC	GPE-USA
+180	198	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+217	220	УНН	УНН	ORG	ORG-UNN
+235	237	DW	DW	PRO	PRO-Deutsche-Welle
+302	308	Европе	Европа	LOC	LOC-Europe
+317	320	США	США	LOC	GPE-USA
+330	333	Мас	Мас	PER	PER-Heiko-Maas
+349	387	Восточного комитета немецкой экономики	Восточный комитет немецкой экономики	ORG	ORG-Committee-on-Eastern-European-Economic-Relations
+390	397	Берлине	Берлин	LOC	GPE-Berlin
+435	441	Берлин	Берлин	LOC	GPE-Berlin
+490	500	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+518	536	“Северный поток-2”	“Северный поток-2”	PRO	PRO-Nord-Stream-2
+850	857	Украину	Украина	LOC	GPE-Ukraine
+867	870	Мас	Мас	PER	PER-Heiko-Maas
+881	887	России	Россия	LOC	GPE-Russia
+997	1003	России	Россия	LOC	GPE-Russia
+1064	1083	Восточного комитета	Восточный комитет	ORG	ORG-Committee-on-Eastern-European-Economic-Relations
+1084	1100	Вольфганг Бюхеле	Вольфганг Бюхеле	PER	PER-Wolfgang-Buchele
+1146	1154	Германию	Германия	LOC	GPE-Germany
+1157	1163	Европу	Европа	LOC	LOC-Europe
+1255	1266	Нидерландах	Нидерланды	LOC	GPE-Holland
+1280	1283	УНН	УНН	ORG	ORG-UNN
+1297	1305	Германии	Германия	LOC	GPE-Germany
+1320	1323	США	США	LOC	GPE-USA
+1355	1361	Европе	Европа	LOC	LOC-Europe
+1435	1453	“Северный поток-2”	“Северный поток-2”	PRO	PRO-Nord-Stream-2

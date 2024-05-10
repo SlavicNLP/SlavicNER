@@ -1,0 +1,17 @@
+8	14	Anglii	Anglia	LOC	GPE-England
+33	40	Polaków	Polacy	PER	GPE-Poland
+95	110	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+130	137	Polaków	Polacy	PER	GPE-Poland
+296	315	Wyspach Brytyjskich	Wyspy Brytyjskie	LOC	GPE-Great-Britain
+407	422	Rzeczpospolitej	Rzeczpospolita	PRO	PRO-Rzeczpospolita
+453	465	Work Service	Work Service	ORG	ORG-Work-Service
+535	541	Niemcy	Niemcy	LOC	GPE-Germany
+544	552	Holandia	Holandia	LOC	GPE-Holland
+569	581	Work Service	Work Service	ORG	ORG-Work-Service
+582	600	Macieja Wituckiego	Maciej Witucki	PER	PER-Maciej-Witucki
+622	639	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+736	743	brexitu	Brexit	EVT	EVT-Brexit
+798	800	Rz	Rz	PRO	PRO-Rzeczpospolita
+906	923	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1013	1020	Polaków	Polacy	PER	GPE-Poland
+1093	1100	Wyspach	Wyspy	LOC	GPE-Great-Britain

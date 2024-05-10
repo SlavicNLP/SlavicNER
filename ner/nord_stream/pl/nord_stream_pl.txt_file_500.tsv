@@ -1,0 +1,34 @@
+0	8	Rosjanie	Rosjanie	PER	GPE-Russia
+25	38	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+40	62	Duńska Agencja Energii	Duńska Agencja Energii	ORG	ORG-Danish-Energy-Agency
+72	102	ministerstwa energii i klimatu	Ministerstwo Energii i Klimatu	ORG	ORG-Ministry-of-Climate-Energy-and-Building-Denmark
+151	164	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+287	296	Bornholmu	Bornholm	LOC	LOC-Bornholm
+369	382	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+561	566	Danii	Dania	LOC	GPE-Denmark
+595	603	Bornholm	Bornholm	LOC	LOC-Bornholm
+668	673	Danii	Dania	LOC	GPE-Denmark
+695	711	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+885	890	Danii	Dania	LOC	GPE-Denmark
+906	915	Bornholmu	Bornholm	LOC	LOC-Bornholm
+945	956	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+978	983	Danii	Dania	LOC	GPE-Denmark
+1030	1033	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Danmark
+1151	1164	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1214	1217	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Danmark
+1416	1429	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1463	1470	Szwecji	Szwecja	LOC	GPE-Sweden
+1474	1489	Morzu Bałtyckim	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+1657	1666	Finlandia	Finlandia	LOC	GPE-Finland
+1669	1675	Niemcy	Niemcy	LOC	GPE-Germany
+1677	1690	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1752	1757	Rosji	Rosja	LOC	GPE-Russia
+1761	1768	Niemiec	Niemcy	LOC	GPE-Germany
+1775	1790	Morze Bałtyckie	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+1936	1949	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1955	1962	Gazprom	Gazprom	ORG	ORG-Gazprom
+2027	2032	Engie	Engie	ORG	ORG-Engie
+2034	2037	OMV	OMV	ORG	ORG-OMV
+2039	2044	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+2046	2052	Uniper	Uniper	ORG	ORG-Uniper
+2055	2066	Wintershall	Wintershall	ORG	ORG-Wintershall

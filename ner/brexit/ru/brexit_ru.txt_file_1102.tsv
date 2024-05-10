@@ -1,0 +1,17 @@
+0	10	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+23	29	Brexit	Brexit	EVT	EVT-Brexit
+93	99	Англии	Англия	LOC	GPE-Great-Britain
+120	138	Европейского союза	Европейский союз	ORG	ORG-European-Union
+140	146	Brexit	Brexit	EVT	EVT-Brexit
+167	179	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+213	225	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+246	255	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+290	300	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+315	321	Англия	Англия	LOC	GPE-Great-Britain
+548	561	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+640	645	Дэвис	Дэвис	PER	PER-David-Davis
+762	786	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+854	860	Brexit	Brexit	EVT	EVT-Brexit
+861	867	Англия	Англия	LOC	GPE-Great-Britain
+1029	1035	Brexit	Brexit	EVT	EVT-Brexit
+1062	1071	британцев	британец	PER	GPE-Great-Britain

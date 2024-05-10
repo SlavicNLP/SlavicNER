@@ -1,0 +1,58 @@
+24	29	Трамп	Трамп	PER	PER-Donald-Trump
+57	66	Білий дім	Білий дім	ORG	ORG-White-House
+76	81	Трамп	Трамп	PER	PER-Donald-Trump
+109	118	Білий дім	Білий дім	ORG	ORG-White-House
+147	160	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+168	175	Reuters	Reuters	ORG	ORG-Reuters
+188	191	США	США	LOC	GPE-USA
+192	205	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+280	285	Сенат	Сенат	ORG	ORG-United-States-Senate
+289	298	Білий дім	Білий дім	ORG	ORG-White-House
+309	314	Трамп	Трамп	PER	PER-Donald-Trump
+399	405	Далтон	Далтон	LOC	GPE-Dalton-Georgia
+408	416	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+464	471	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+750	755	Трамп	Трамп	PER	PER-Donald-Trump
+773	784	Білого дому	Білий дім	ORG	ORG-White-House
+881	888	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+923	931	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+966	988	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1019	1030	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1102	1121	The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+1183	1188	Трамп	Трамп	PER	PER-Donald-Trump
+1221	1229	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+1244	1264	Бреда Раффенспергера	Бред Раффенспергер	PER	PER-Brad-Raffensperger
+1334	1342	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1346	1353	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1387	1393	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1405	1408	США	США	LOC	GPE-USA
+1574	1577	США	США	LOC	GPE-USA
+1775	1778	США	США	LOC	GPE-USA
+1797	1810	Демократичної	Демократична	ORG	ORG-Democratic-Party-USA
+1814	1830	Республіканської	Республіканська	ORG	ORG-Republican-Party-USA
+1919	1924	Айова	Айова	LOC	GPE-Iowa
+1926	1935	Вірджинія	Вірджинія	LOC	GPE-Virginia
+1937	1946	Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+1948	1957	Міннесота	Міннесота	LOC	GPE-Minnesota
+1959	1966	Мічиган	Мічиган	LOC	GPE-Michigan
+1968	1974	Невада	Невада	LOC	GPE-Nevada
+1976	1987	Нью-Гемпшир	Нью-Гемпшир	LOC	GPE-New-Hampshire
+1989	1994	Огайо	Огайо	LOC	GPE-Ohio
+1996	2008	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+2010	2027	Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+2029	2036	Флорида	Флорида	LOC	GPE-Florida
+2045	2051	Байден	Байден	PER	PER-Joe-Biden
+2082	2090	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+2093	2100	Аризоні	Аризона	LOC	GPE-Arizona
+2148	2158	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+2238	2260	виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+2326	2337	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2341	2354	Камалу Гарріс	Камала Гарріс	PER	PER-Kamala-Harris
+2388	2403	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+2406	2417	Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+2427	2438	Інавгурація	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+2439	2446	Байдена	Байден	PER	PER-Joe-Biden
+2466	2469	США	США	LOC	GPE-USA
+2511	2519	пандемію	пандемія	EVT	EVT-Covid-19
+2520	2532	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2606	2619	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump

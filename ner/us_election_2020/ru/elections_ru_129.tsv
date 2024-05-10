@@ -1,0 +1,60 @@
+0	4	Пенс	Пенс	PER	PER-Mike-Pence
+14	20	Трампу	Трамп	PER	PER-Donald-Trump
+69	72	NYT	NYT	PRO	PRO-The-New-York-Times
+185	212	выборов президента США-2020	Выборы президента США-2020	EVT	EVT-2020-United-States-Presidential-Election
+213	222	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+250	267	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+298	301	США	США	LOC	GPE-USA
+302	311	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+344	347	США	США	LOC	GPE-USA
+348	363	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+499	508	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+557	569	американское	американский	LOC	GPE-USA
+578	596	The New York Times	The New York Times	ORG	ORG-Financial-Times-Stock-Exchange-FTSE-100
+688	692	Пенс	Пенс	PER	PER-Mike-Pence
+700	706	Трампу	Трамп	PER	PER-Donald-Trump
+772	782	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+800	811	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+815	841	президентских выборах-2020	Президентские выборы-2020	EVT	EVT-2020-United-States-Presidential-Election
+862	866	Пенс	Пенс	PER	PER-Mike-Pence
+918	923	Трамп	Трамп	PER	PER-Donald-Trump
+952	959	Twitter	Twitter	PRO	PRO-Twitter
+1068	1074	Трампа	Трам	PER	PER-Donald-Trump
+1097	1100	NYT	NYT	PRO	PRO-The-New-York-Times
+1114	1128	New York Times	New York Times	PRO	PRO-The-New-York-Times
+1393	1405	Выборы в США	Выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+1467	1493	Соединенных Штатов Америки	Соединенные Штаты Америки	LOC	GPE-USA
+1494	1504	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1582	1592	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1661	1676	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1725	1738	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1818	1840	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+1841	1852	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+1980	1983	США	США	LOC	GPE-USA
+1984	1997	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2029	2055	Управлению общих служб США	Управление общих служб США	ORG	ORG-General-Services-Administration
+2057	2060	GSA	GSA	ORG	ORG-General-Services-Administration
+2131	2142	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+2168	2171	США	США	LOC	GPE-USA
+2246	2249	США	США	LOC	GPE-USA
+2314	2326	Американский	Американский	LOC	GPE-USA
+2395	2398	США	США	LOC	GPE-USA
+2553	2572	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2832	2835	США	США	LOC	GPE-USA
+2900	2915	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+2918	2942	Республиканской партиями	Республиканская партия	ORG	ORG-Republican-Party-USA
+3221	3240	Коллегию выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+3560	3579	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+3978	3981	Мэн	Мэн	LOC	GPE-Maine
+3984	3992	Небраска	Небраска	LOC	GPE-Nebraska
+4157	4172	Конституция США	Конституция США	PRO	PRO-The-USA-Constitution
+4291	4299	Колумбия	Колумбия	LOC	GPE-Colombia
+4431	4443	американских	американский	LOC	GPE-USA
+4754	4773	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+4861	4883	Палатой Представителей	Палата Представителей	ORG	ORG-United-States-House-of-Representatives
+4960	4972	выборов 2020	Выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+5007	5010	США	США	LOC	GPE-USA
+5053	5062	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+5180	5184	Пенс	Пенс	PER	PER-Mike-Pence
+5194	5200	Трампу	Трамп	PER	PER-Donald-Trump
+5249	5252	NYT	NYT	PRO	PRO-The-New-York-Times

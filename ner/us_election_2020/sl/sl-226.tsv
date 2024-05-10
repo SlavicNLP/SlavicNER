@@ -1,0 +1,56 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+149	154	Biden	Biden	PER	PER-Joe-Biden
+165	184	Alejandra Mayorkasa	Alejandra Mayorkasa	PER	PER-Alejandro-Mayorkas
+265	273	Mayorkas	Mayorkas	PER	PER-Alejandro-Mayorkas
+289	293	Kubi	Kuba	LOC	GPE-Cuba
+366	371	Biden	Biden	PER	PER-Joe-Biden
+382	394	Avril Haines	Avril Haines	PER	PER-Avril-Haines
+466	469	Cia	Cia	ORG	ORG-CIA-Central-Intelligence-Agency
+554	559	Biden	Biden	PER	PER-Joe-Biden
+623	641	Anthonyja Blinkena	Anthony Blinken	PER	PER-Antony-Blinken
+674	677	ZDA	ZDA	LOC	GPE-USA
+722	737	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+738	752	Jaka Sullivana	Jake Sullivan	PER	PER-Jake-Sullivan
+824	827	ZDA	ZDA	LOC	GPE-USA
+832	834	ZN	ZN	ORG	ORG-United-Nations
+844	849	Biden	Biden	PER	PER-Joe-Biden
+900	903	ZDA	ZDA	LOC	GPE-USA
+922	945	Lindo Thomas Greenfield	Linda Thomas Greenfield	PER	PER-Linda-Thomas-Greenfield
+974	976	ZN	ZN	ORG	ORG-United-Nations
+977	982	Biden	Biden	PER	PER-Joe-Biden
+1014	1022	Kerryjev	Kerry	PER	PER-John-Kerry
+1064	1069	Trump	Trump	PER	PER-Donald-Trump
+1096	1099	ZDA	ZDA	LOC	GPE-USA
+1101	1106	Biden	Biden	PER	PER-Joe-Biden
+1147	1161	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1280	1285	Trump	Trump	PER	PER-Donald-Trump
+1425	1437	republikance	republikanci	PER	ORG-Republican-Party-USA
+1457	1462	Trump	Trump	PER	PER-Donald-Trump
+1639	1648	Tom Ridge	Tom Ridge	PER	PER-Thomas-Joseph-Ridge
+1690	1693	Cia	Cia	ORG	ORG-CIA-Central-Intelligence-Agency
+1697	1727	Agencije za nacionalno varnost	Agencija za nacionalno varnost	ORG	ORG-National-Security-Agency-NSA-USA
+1729	1732	NSA	NSA	ORG	ORG-National-Security-Agency-NSA-USA
+1734	1748	Michael Hayden	Michael Hayden	PER	PER-Michael-Hayden
+1808	1823	John Negroponte	John Negroponte	PER	PER-John-Negroponte
+1866	1871	Trump	Trump	PER	PER-Donald-Trump
+1899	1902	ZDA	ZDA	LOC	GPE-USA
+1989	2001	republikance	republikanci	PER	ORG-Republican-Party-USA
+2154	2169	Mitch McConnell	Mitch McConnell	PER	PER-Mitch-McConnell
+2225	2228	ZDA	ZDA	LOC	GPE-USA
+2382	2387	Trump	Trump	PER	PER-Donald-Trump
+2445	2452	Bidnovo	Biden	PER	PER-Joe-Biden
+2505	2510	Irana	Iran	LOC	GPE-Iran
+2512	2519	Izraela	Izrael	LOC	GPE-Israel
+2521	2529	Kitajske	Kitajska	LOC	GPE-China
+2533	2539	Rusije	Rusija	LOC	GPE-Russia
+2548	2556	Kitajske	Kitajska	LOC	GPE-China
+2560	2563	ZDA	ZDA	LOC	GPE-USA
+2592	2613	Južnemkitajskem morju	južnokitajsko morje	LOC	LOC-South-China-Sea
+2621	2628	Izraela	Izrael	LOC	GPE-Israel
+2700	2711	Palestincev	Palestinci	PER	GPE-Palestine
+2731	2738	Izraela	Izrael	LOC	GPE-Israel
+2746	2751	Irana	Iran	LOC	GPE-Iran
+2780	2785	Iraku	Irak	LOC	GPE-Iraq
+2789	2800	Afganistanu	Afganistan	LOC	GPE-Afghanistan
+2844	2850	Rusije	Rusija	LOC	GPE-Russia
+2857	2860	ZDA	ZDA	LOC	GPE-USA

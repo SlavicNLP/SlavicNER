@@ -1,0 +1,197 @@
+29	44	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+47	57	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+127	137	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+167	170	США	США	LOC	GPE-USA
+204	219	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+273	283	импичмента	импичмент	EVT	EVT-Impeachment-inquiry-against-Donald-Trump
+507	512	Трамп	Трамп	PER	PER-Donald-Trump
+527	538	«Газеты.Ru»	"""Газета.Ru"""	PRO	PRO-Gazeta-ru
+588	594	Трампа	Трамп	PER	PER-Donald-Trump
+659	662	США	США	LOC	GPE-USA
+675	693	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+708	725	выборов 2016 года	выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+854	857	США	США	LOC	GPE-USA
+858	869	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+903	913	Белом доме	Белый дом	LOC	LOC-White-House
+1028	1034	Трампа	Трамп	PER	PER-Donald-Trump
+1111	1116	Обамы	Обама	PER	PER-Barack-Obama
+1293	1299	Трампа	Трамп	PER	PER-Donald-Trump
+1355	1363	Мексикой	Мексика	LOC	GPE-Mexico
+1505	1510	Трамп	Трамп	PER	PER-Donald-Trump
+1590	1595	Обамы	Обама	PER	PER-Barack-Obama
+1610	1651	Совместного всеобъемлющего плана действий	Совместный всеобъемлющий план действий	PRO	PRO-Joint-Comprehensive-Plan-of-Action
+1655	1663	иранской	иранская	LOC	GPE-Iran
+1683	1704	парижского соглашения	парижское соглашение	PRO	PRO-Bonn-Paris-conventions
+1718	1744	Тихоокеанского партнерства	Тихоокеанское партнерство	PRO	PRO-Trans-Pacific-Partnership
+1813	1819	Обамой	Обама	PER	PER-Barack-Obama
+1884	1938	договор о ликвидации ракет средней и меньшей дальности	договор о ликвидации ракет средней и меньшей дальности	PRO	PRO-IRNFT
+1941	1969	соглашение по открытому небу	соглашение по открытому небу	PRO	PRO-The-Treaty-on-Open-Skies
+1993	1996	США	США	LOC	GPE-USA
+2034	2040	России	Россия	LOC	GPE-Russia
+2050	2056	Москве	Москва	LOC	GPE-Moscow
+2091	2101	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+2124	2130	Трампа	Трамп	PER	PER-Donald-Trump
+2288	2339	Североамериканским соглашением о свободной торговле	Североамериканское соглашение о свободной торговле	PRO	PRO-North-American-Free-Trade-Agreement
+2346	2349	США	США	LOC	GPE-USA
+2351	2359	Мексикой	Мексика	LOC	GPE-Mexico
+2362	2369	Канадой	Канада	LOC	GPE-Canada
+2386	2392	Трампа	Трамп	PER	PER-Donald-Trump
+2420	2425	Ирану	Иран	LOC	GPE-Iran
+2514	2517	США	США	LOC	GPE-USA
+2548	2553	Китай	Китай	LOC	GPE-China
+2642	2651	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2773	2780	Пекином	Пекин	LOC	GPE-Beijing
+2861	2866	Трамп	Трамп	PER	PER-Donald-Trump
+2876	2882	Европе	Европа	LOC	LOC-Europe
+2965	2976	европейских	европейские	LOC	LOC-Europe
+3004	3007	США	США	LOC	GPE-USA
+3042	3051	Евросоюза	Евросоюз	ORG	ORG-European-Union
+3106	3110	НАТО	НАТО	ORG	ORG-NATO
+3131	3139	Politico	Politico	PRO	PRO-Politico
+3141	3146	Трамп	Трамп	PER	PER-Donald-Trump
+3245	3253	Германии	Германия	LOC	GPE-Germany
+3289	3291	ЕС	ЕС	ORG	ORG-European-Union
+3314	3317	ФРГ	ФРГ	LOC	GPE-Germany
+3318	3332	Ангелу Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+3389	3395	Трампа	Трамп	PER	PER-Donald-Trump
+3418	3421	США	США	LOC	GPE-USA
+3444	3450	Европе	Европа	LOC	LOC-Europe
+3524	3533	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3558	3565	Франции	Франция	LOC	GPE-France
+3566	3582	Эммануэль Макрон	Эммануэль Макрон	PER	PER-Emmanuel-Macron
+3629	3636	Меркель	Меркель	PER	PER-Angela-Merkel
+3664	3666	ЕС	ЕС	ORG	ORG-European-Union
+3690	3693	США	США	LOC	GPE-USA
+3737	3743	Европа	Европа	LOC	LOC-Europe
+3772	3778	Трампу	Трамп	PER	PER-Donald-Trump
+3805	3810	Китаю	Китай	LOC	GPE-China
+3813	3818	Ирану	Иран	LOC	GPE-Iran
+3853	3856	США	США	LOC	GPE-USA
+3924	3926	ЕС	ЕС	ORG	ORG-European-Union
+3929	3937	Германия	Германия	LOC	GPE-Germany
+3940	3947	Франция	Франция	LOC	GPE-France
+4003	4011	Тегерана	Тегеран	LOC	GPE-Tehran
+4058	4061	США	США	LOC	GPE-USA
+4082	4092	китайскому	китайский	LOC	GPE-China
+4099	4108	европейцы	европейцы	PER	LOC-Europe
+4142	4152	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+4192	4195	КНР	КНР	LOC	GPE-China
+4261	4267	Китаем	Китай	LOC	GPE-China
+4320	4326	Трампа	Трамп	PER	PER-Donald-Trump
+4490	4496	России	Россия	LOC	GPE-Russia
+4499	4515	выборы 2016 года	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+4551	4558	Москвой	Москва	LOC	GPE-Moscow
+4587	4593	Кремля	Кремль	ORG	ORG-Kremlin
+4668	4679	минюста США	минюст США	ORG	ORG-Foreign-Office
+4768	4774	Трампа	Трамп	PER	PER-Donald-Trump
+4777	4784	Россией	Россия	LOC	GPE-Russia
+4837	4843	Москве	Москва	LOC	GPE-Moscow
+4885	4897	американские	американские	LOC	GPE-USA
+4909	4919	Российское	российское	LOC	GPE-Russia
+4964	4970	Трампа	Трамп	PER	PER-Donald-Trump
+5053	5060	Россией	Россия	LOC	GPE-Russia
+5201	5206	Трамп	Трамп	PER	PER-Donald-Trump
+5285	5292	Россией	Россия	LOC	GPE-Russia
+5320	5330	российским	российский	LOC	GPE-Russia
+5343	5361	Владимиром Путиным	Владимир Путин	PER	PER-Vladimir-Putin
+5429	5442	американского	американский	LOC	GPE-USA
+5453	5456	США	США	LOC	GPE-USA
+5520	5526	Россию	Россия	LOC	GPE-Russia
+5576	5582	Москву	Москва	LOC	GPE-Moscow
+5623	5635	американские	американские	LOC	GPE-USA
+5649	5655	Трампе	Трамп	PER	PER-Donald-Trump
+5669	5675	Путина	Путин	PER	PER-Vladimir-Putin
+5690	5700	российское	российский	LOC	GPE-Russia
+5749	5756	Трампом	Трамп	PER	PER-Donald-Trump
+5784	5787	США	США	LOC	GPE-USA
+5998	6011	американского	американский	LOC	GPE-USA
+6141	6148	Украины	Украина	LOC	GPE-Ukraine
+6219	6234	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+6245	6255	импичмента	импичмент	EVT	EVT-Impeachment-inquiry-against-Donald-Trump
+6329	6332	США	США	LOC	GPE-USA
+6424	6429	Трамп	Трамп	PER	PER-Donald-Trump
+6445	6455	импичменту	импичмент	EVT	EVT-Impeachment-inquiry-against-Donald-Trump
+6495	6498	США	США	LOC	GPE-USA
+6598	6607	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+6656	6661	сенат	Сенат	ORG	ORG-United-States-Senate
+6714	6725	инаугурации	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+6726	6737	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+6898	6904	Трампа	Трамп	PER	PER-Donald-Trump
+6925	6942	выборах 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+6978	6989	американцев	американцы	PER	GPE-USA
+7024	7037	республиканца	республиканец	PER	ORG-Republican-Party-USA
+7064	7076	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+7174	7180	Трампу	Трамп	PER	PER-Donald-Trump
+7259	7266	Америка	Америка	LOC	GPE-USA
+7311	7316	Трамп	Трамп	PER	PER-Donald-Trump
+7351	7354	США	США	LOC	GPE-USA
+7471	7474	США	США	LOC	GPE-USA
+7629	7641	коронавируса	коронавирус	EVT	EVT-Covid-19
+7642	7650	COVID-19	COVID-19	EVT	EVT-Covid-19
+7681	7684	США	США	LOC	GPE-USA
+7814	7820	Трампа	Трамп	PER	PER-Donald-Trump
+7844	7859	Северной Кореей	Северная Корея	LOC	GPE-North-Korea
+7900	7912	американские	американские	LOC	GPE-USA
+7956	7959	США	США	LOC	GPE-USA
+7962	7966	КНДР	КНДР	LOC	GPE-North-Korea
+7974	7986	американский	американский	LOC	GPE-USA
+8039	8055	северокорейского	северокорейский	LOC	GPE-North-Korea
+8064	8075	Ким Чен Ына	Ким Чен Ын	PER	PER-Kim-Jong-Un
+8112	8117	Трамп	Трамп	PER	PER-Donald-Trump
+8120	8125	Кимом	Ким	PER	PER-Kim-Jong-Un
+8209	8231	Корейского полуострова	Корейский полуостров	LOC	LOC-Korean-peninsula
+8274	8280	Трампа	Трамп	PER	PER-Donald-Trump
+8363	8375	Ким Чен Ыном	Ким Чен Ын	PER	PER-Kim-Jong-Un
+8404	8411	Пхеньян	Пхеньян	LOC	GPE-Pyongyang
+8431	8442	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+8486	8489	США	США	LOC	GPE-USA
+8509	8513	КНДР	КНДР	LOC	GPE-North-Korea
+8550	8558	Пхеньяна	Пхеньян	LOC	GPE-Pyongyang
+8666	8672	Трампа	Трамп	PER	PER-Donald-Trump
+8727	8730	США	США	LOC	GPE-USA
+8791	8796	Трамп	Трамп	PER	PER-Donald-Trump
+8862	8874	американских	американский	LOC	GPE-USA
+8922	8927	Сирии	Сирия	LOC	GPE-Syria
+9049	9055	Трампа	Трамп	PER	PER-Donald-Trump
+9161	9168	Израиль	Израиль	LOC	GPE-Israel
+9216	9219	ОАЭ	ОАЭ	LOC	GPE-UEA-United-Arab-Emirates
+9222	9231	Бахрейном	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+9271	9293	еврейского государства	еврейское государство	LOC	GPE-Israel
+9329	9342	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+9463	9470	твиттер	твиттер	PRO	PRO-Twitter
+9484	9489	Трамп	Трамп	PER	PER-Donald-Trump
+9760	9763	США	США	LOC	GPE-USA
+9780	9785	Трамп	Трамп	PER	PER-Donald-Trump
+9837	9846	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+9847	9854	Twitter	Twitter	PRO	PRO-Twitter
+9856	9864	Facebook	Facebook	PRO	PRO-Facebook
+9866	9875	Instagram	Instagram	PRO	PRO-Instagram
+9947	9953	Трампа	Трамп	PER	PER-Donald-Trump
+9996	9999	США	США	LOC	GPE-USA
+10061	10073	американском	американский	LOC	GPE-USA
+10106	10118	«Газетой.Ru»	"""Газета.Ru"""	PRO	PRO-Gazeta-ru
+10128	10154	Института США и Канады РАН	Институт США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAS
+10155	10171	Валерий Гарбузов	Валерий Гарбузов	PER	PER-Valerii-Garbuzov
+10173	10178	Трамп	Трамп	PER	PER-Donald-Trump
+10333	10340	Америки	Америка	LOC	GPE-USA
+10373	10379	Трампа	Трамп	PER	PER-Donald-Trump
+10389	10399	демократом	демократ	PER	ORG-Democratic-Party-USA
+10404	10418	республиканцем	республиканец	PER	ORG-Republican-Party-USA
+10508	10511	США	США	LOC	GPE-USA
+10559	10611	Фонда изучения США имени Франклина Рузвельта при МГУ	Фонд изучения США имени Франклина Рузвельта при МГУ	ORG	ORG-The-Franklin-Roosevelt-Foundation-for-the-Study-of-the-United-States-at-Moscow-State-University
+10612	10624	Юрий Рогулев	Юрий Рогулев	PER	PER-Yury-Rogulev
+10638	10643	Трамп	Трамп	PER	PER-Donald-Trump
+10760	10765	Трамп	Трамп	PER	PER-Donald-Trump
+10874	10885	американцев	американцы	PER	GPE-USA
+10901	10906	Трамп	Трамп	PER	PER-Donald-Trump
+11014	11024	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+11048	11061	вашингтонское	вашингтонское	LOC	GPE-WashingtonDC
+11088	11099	«Газете.Ru»	"""Газета.Ru"""	PRO	PRO-Gazeta-ru
+11150	11156	Трампа	Трамп	PER	PER-Donald-Trump
+11285	11293	«Валдай»	Валдай	ORG	ORG-Valday
+11294	11308	Федор Лукьянов	Федор Лукьянов	PER	PER-Fedor-Lukyanov
+11681	11687	Трампу	Трамп	PER	PER-Donald-Trump
+11849	11857	Лукьянов	Лукьянов	PER	PER-Fedor-Lukyanov
+11899	11904	Трамп	Трамп	PER	PER-Donald-Trump
+12030	12042	американская	американская	LOC	GPE-USA
+12335	12341	Трампа	Трамп	PER	PER-Donald-Trump

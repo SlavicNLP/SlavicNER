@@ -1,0 +1,18 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+82	99	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+302	308	brexit	Brexit	EVT	EVT-Brexit
+364	381	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+388	403	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+495	497	UE	UE	ORG	ORG-European-Union
+586	592	Brexit	Brexit	EVT	EVT-Brexit
+653	703	Zrzeszenie Międzynarodowych Przewoźników Drogowych	Zrzeszenie Międzynarodowych Przewoźników Drogowych	ORG	ORG-ZMPD-Zrzeszenie-Międzynarodowych-Przewoźn
+706	712	Polsce	Polska	LOC	GPE-Poland
+749	755	Polski	Polska	LOC	GPE-Poland
+757	764	Francji	Francja	LOC	GPE-France
+769	777	Holandii	Holandia	LOC	GPE-Holland
+831	836	Wisły	Wisła	LOC	LOC-Wisła
+839	845	Tamizy	Tamiza	LOC	LOC-River-Thames
+847	867	europarlamentarzyści	Europarlamentarzyści	PER	ORG-European-Parlament
+900	906	brexit	Brexit	EVT	EVT-Brexit
+1147	1157	Jan Buczek	Jan Buczek	PER	PER-Jan-Buczek
+1166	1170	ZMPD	ZMPD	ORG	ORG-ZMPD-Zrzeszenie-Międzynarodowych-Przewoźn

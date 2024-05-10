@@ -1,0 +1,25 @@
+0	5	Китай	Китай	LOC	GPE-China
+38	50	коронавируса	коронавирус	EVT	EVT-Covid-19
+63	68	Китай	Китай	LOC	GPE-China
+146	157	коронавирус	коронавирус	EVT	EVT-Covid-19
+166	173	Reuters	Reuters	ORG	ORG-Reuters
+220	226	Xinhua	Xinhua	ORG	ORG-Xinhua
+270	275	Пекин	Пекин	LOC	GPE-Beijing
+299	321	Nasdaq Sinovac Biotech	Nasdaq Sinovac Biotech	ORG	ORG-Hopp-Biotech-Holding
+324	364	Уханския институт за биологични продукти	Ухански институт за биологични продукти	ORG	ORG-Wuhan-Institute-of-Biological-Products
+393	428	China National Pharmaceutical Group	China National Pharmaceutical Group	ORG	ORG-China-National-Pharmaceutical-Group
+441	446	Китай	Китай	LOC	GPE-China
+508	520	коронавируса	коронавирус	EVT	EVT-Covid-19
+537	583	Китайската академия за военно-медицински науки	Китайска академия за военно-медицински науки	ORG	ORG-Academy-of-Military-Medical-Sciences-China
+599	606	Хонконг	Хонконг	LOC	GPE-Hong-Kong
+632	643	CanSino Bio	CanSino Bio	ORG	ORG-Cansino-Biologics
+648	651	САЩ	САЩ	LOC	GPE-USA
+692	704	коронавируса	коронавирус	EVT	EVT-Covid-19
+734	741	Moderna	Moderna	ORG	ORG-Moderna
+827	844	Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+927	938	коронавирус	коронавирус	EVT	EVT-Covid-19
+965	973	Covid-19	COVID-19	EVT	EVT-Covid-19
+990	1023	Института по микробиология на БАН	Институт по микробиология на БАН	ORG	ORG-Institute-of-Microbiology-BAS
+1037	1047	Economy.bg	Economy.bg	PRO	PRO-Economy.bg
+1057	1070	Пенка Петрова	Пенка Петрова	PER	PER-Penka-Petrova
+1085	1094	Института	Институт	ORG	ORG-Institute-of-Microbiology-BAS

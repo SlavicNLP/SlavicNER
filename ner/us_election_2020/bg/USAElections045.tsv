@@ -1,0 +1,73 @@
+11	14	САЩ	САЩ	LOC	GPE-USA
+16	22	Байдън	Байдън	PER	PER-Joe-Biden
+43	48	Тръмп	Тръмп	PER	PER-Donald-Trump
+144	153	Белия дом	Белия дом	LOC	LOC-White-House
+154	160	Байдън	Байдън	PER	PER-Joe-Biden
+181	186	Тръмп	Тръмп	PER	PER-Donald-Trump
+227	237	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+321	328	Мичиган	Мичиган	LOC	GPE-Michigan
+331	340	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+349	364	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+366	372	Байдън	Байдън	PER	PER-Joe-Biden
+384	391	Аризона	Аризона	LOC	GPE-Arizona
+434	440	Байдън	Байдън	PER	PER-Joe-Biden
+611	617	Невада	Невада	LOC	GPE-Nevada
+619	635	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+637	645	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+648	659	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+716	724	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+735	746	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+747	752	Тръмп	Тръмп	PER	PER-Donald-Trump
+799	805	Байдън	Байдън	PER	PER-Joe-Biden
+840	845	Тръмп	Тръмп	PER	PER-Donald-Trump
+1048	1056	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1091	1103	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1125	1131	Байдън	Байдън	PER	PER-Joe-Biden
+1144	1155	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1209	1214	Тръмп	Тръмп	PER	PER-Donald-Trump
+1245	1251	Байдън	Байдън	PER	PER-Joe-Biden
+1265	1277	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1293	1300	Кентъки	Кентъки	LOC	GPE-Kentucky
+1302	1308	Канзас	Канзас	LOC	GPE-Kansas
+1310	1318	Луизиана	Луизиана	LOC	GPE-Louisiana
+1320	1327	Флорида	Флорида	LOC	GPE-Florida
+1329	1335	Тексас	Тексас	LOC	GPE-Texas
+1337	1345	Уайоминг	Уайоминг	LOC	GPE-Wyoming
+1347	1364	Западна Вирджиния	Западна Вирджиния	LOC	GPE-West-Virginia
+1366	1379	Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+1381	1388	Алабама	Алабама	LOC	GPE-USA-Alabama
+1390	1398	Мисисипи	Мисисипи	LOC	GPE-Mississippi
+1400	1406	Тенеси	Тенеси	LOC	GPE-Tennessee
+1408	1416	Оклахома	Оклахома	LOC	GPE-Oklahoma
+1418	1426	Арканзас	Арканзас	LOC	GPE-Arkansas
+1428	1442	Северна Дакота	Северна Дакота	LOC	GPE-North-Dakota
+1444	1455	Южна Дакота	Южна Дакота	LOC	GPE-South-Dakota-US-State
+1457	1463	Айдахо	Айдахо	LOC	GPE-Idaho
+1465	1473	Небраска	Небраска	LOC	GPE-Nebraska
+1475	1478	Юта	Юта	LOC	GPE-Utah
+1480	1485	Охайо	Охайо	LOC	GPE-Ohio
+1487	1493	Мисури	Мисури	LOC	GPE-Missouri
+1495	1500	Айова	Айова	LOC	GPE-Iowa
+1502	1509	Монтана	Монтана	LOC	GPE-Montana-US-State
+1511	1518	Индиана	Индиана	LOC	GPE-Indiana
+1520	1530	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1541	1549	Колорадо	Колорадо	LOC	GPE-Colorado
+1551	1561	Ню Мексико	Ню Мексико	LOC	GPE-New-Mexico
+1563	1570	Върмонт	Върмонт	LOC	GPE-Vermont
+1572	1581	Вирджиния	Вирджиния	LOC	GPE-Virginia
+1583	1594	Роуд Айланд	Роуд Айланд	LOC	GPE-Rhode-Island
+1596	1603	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+1605	1614	Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+1616	1626	Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+1628	1636	Мериленд	Мериленд	LOC	GPE-Maryland
+1638	1645	Илинойс	Илинойс	LOC	GPE-Illinois
+1647	1655	Делауеър	Делауеър	LOC	GPE-Delaware
+1657	1667	Кънектикът	Кънектикът	LOC	GPE-Connecticut
+1669	1677	Минесота	Минесота	LOC	GPE-Minnesota
+1679	1684	Хаваи	Хаваи	LOC	GPE-Hawaii
+1686	1710	Федерален окръг Колумбия	Федерален окръг Колумбия	LOC	GPE-District-of-Columbia
+1712	1722	Ню Хемпшир	Ню Хемпшър	LOC	GPE-New-Hampshire
+1724	1734	Калифорния	Калифорния	LOC	GPE-California
+1736	1742	Ореган	Ореган	LOC	GPE-Oregon
+1744	1753	Вашингтон	Вашингтон	LOC	GPE-Washington
+1755	1759	Мейн	Мейн	LOC	GPE-Maine

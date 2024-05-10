@@ -1,0 +1,79 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+32	41	New Yorku	New York	LOC	GPE-New-York
+71	83	koronavirusu	koronavirus	EVT	EVT-Covid-19
+85	88	STA	STA	ORG	ORG-Slovenian-Press-Agency
+167	173	Pfizer	Pfizer	ORG	ORG-Pfizer
+352	364	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+447	455	New York	New York	LOC	GPE-New-York
+502	514	koronavirusu	koronavirus	EVT	EVT-Covid-19
+561	564	ZDA	ZDA	LOC	GPE-USA
+640	649	covida-19	covid-19	EVT	EVT-Covid-19
+751	763	koronavirusu	koronavirus	EVT	EVT-Covid-19
+773	779	Pfizer	Pfizer	ORG	ORG-Pfizer
+918	924	Pfizer	Pfizer	ORG	ORG-Pfizer
+1097	1105	Trumpove	Trump	PER	PER-Donald-Trump
+1136	1144	Trumpova	Trump	PER	PER-Donald-Trump
+1361	1373	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1407	1436	Porter Wright Morris & Arthur	Porter Wright Morris & Arthur	ORG	ORG-Porter-Wright-Morris&Arthur
+1438	1446	Trumpovi	Trump	PER	PER-Donald-Trump
+1475	1487	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1489	1498	Michiganu	Michigan	LOC	GPE-Michigan
+1502	1509	Arizoni	Arizona	LOC	GPE-Arizona
+1531	1536	Trump	Trump	PER	PER-Donald-Trump
+1585	1602	Rudyja Giulianija	Rudy Giuliani	PER	PER-Rudy-Giuliani
+1616	1625	demokrate	demokrati	PER	ORG-Democratic-Party-USA
+1651	1663	Giulianijevi	Giuliani	PER	PER-Rudy-Giuliani
+1699	1704	Trump	Trump	PER	PER-Donald-Trump
+1708	1716	Pfizerju	Pfizer	ORG	ORG-Pfizer
+1803	1833	Operacija hitrejše od svetlobe	Operacija hitrejše od svetlobe	PRO	PRO-Operation-Warp-Speed
+1835	1841	Pfizer	Pfizer	ORG	ORG-Pfizer
+2002	2007	Trump	Trump	PER	PER-Donald-Trump
+2242	2276	zvezne Uprave za hrano in zdravila	zvezna Uprava za hrano in zdravila	ORG	ORG-FDA-Food-and-Drug-Administration
+2278	2281	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+2354	2360	Pfizer	Pfizer	ORG	ORG-Pfizer
+2417	2425	BioNTech	BioNTech	ORG	ORG-BioNTech
+2450	2456	Pfizer	Pfizer	ORG	ORG-Pfizer
+2508	2511	ZDA	ZDA	LOC	GPE-USA
+2548	2556	Trumpova	Trump	PER	PER-Donald-Trump
+2597	2606	New Yorka	New York	LOC	GPE-New-York
+2627	2639	Andrew Cuomo	Andrew Cuomo	PER	PER-Andrew-Cuomo
+2669	2675	Trumpu	Trump	PER	PER-Donald-Trump
+2900	2905	Trump	Trump	PER	PER-Donald-Trump
+2954	2959	Trump	Trump	PER	PER-Donald-Trump
+2973	2982	Bele hiše	Bela hiša	LOC	LOC-White-House
+2995	3002	Florido	Florida	LOC	GPE-Florida
+3124	3135	Kalifornija	Kalifornija	LOC	GPE-California
+3137	3143	Oregon	Oregon	LOC	GPE-Oregon
+3145	3155	Washington	Washington	LOC	GPE-WashingtonDC
+3159	3165	Nevada	Nevada	LOC	GPE-Nevada
+3168	3173	Biden	Biden	PER	PER-Joe-Biden
+3187	3194	Georgie	Georgia	LOC	GPE-Georgia-US-state
+3262	3275	Josephu Bidnu	Joseph Biden	PER	PER-Joe-Biden
+3345	3352	Georgia	Georgia	LOC	GPE-Georgia-US-state
+3384	3398	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+3476	3481	Biden	Biden	PER	PER-Joe-Biden
+3604	3619	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+3628	3633	Trump	Trump	PER	PER-Donald-Trump
+4113	4122	Belo hišo	Bela hiša	LOC	LOC-White-House
+4141	4152	Newyorčanom	Newyorčani	PER	GPE-New-York
+4228	4233	Trump	Trump	PER	PER-Donald-Trump
+4236	4242	Cuomov	Cuomo	PER	PER-Andrew-Cuomo
+4254	4268	Rich Azzopardi	Rich Azzopardi	PER	PER-Rich-Azzopardi
+4289	4294	Trump	Trump	PER	PER-Donald-Trump
+4343	4353	Američanom	Američani	PER	GPE-USA
+4377	4389	koronavirusu	koronavirus	EVT	EVT-Covid-19
+4515	4526	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+4548	4557	Bele hiše	Bela hiša	LOC	LOC-White-House
+4558	4567	Ron Klain	Ron Klain	PER	PER-Ron-Klain
+4584	4589	Biden	Biden	PER	PER-Joe-Biden
+4626	4637	koronavirus	koronavirus	EVT	EVT-Covid-19
+4864	4869	Trump	Trump	PER	PER-Donald-Trump
+4926	4932	Bidnom	Biden	PER	PER-Joe-Biden
+5056	5059	ZDA	ZDA	LOC	GPE-USA
+5125	5130	Trump	Trump	PER	PER-Donald-Trump
+5368	5377	Beli hiši	Bela hiša	LOC	LOC-White-House
+5552	5557	Trump	Trump	PER	PER-Donald-Trump
+5569	5576	Bidnova	Biden	PER	PER-Joe-Biden
+5636	5643	Bidnova	Biden	PER	PER-Joe-Biden
+5692	5695	ZDA	ZDA	LOC	GPE-USA
+5823	5828	Trump	Trump	PER	PER-Donald-Trump

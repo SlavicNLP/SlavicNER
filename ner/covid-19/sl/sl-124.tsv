@@ -1,0 +1,217 @@
+57	65	covid-19	covid-19	EVT	EVT-Covid-19
+157	176	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+194	203	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+305	310	Kuzmi	Kuzma	LOC	GPE-Kuzma
+314	322	Odrancih	Odranci	LOC	GPE-Odranci
+428	437	Ljubljana	Ljubljana	LOC	GPE-Ljubljana
+458	463	Kranj	Kranj	LOC	GPE-Kranj
+483	490	Maribor	Maribor	LOC	GPE-Maribor
+509	516	Domžale	Domžale	LOC	GPE-Domžale
+535	546	Škofja Loka	Škofja Loka	LOC	GPE-Škofja-Loka
+564	569	Celje	Celje	LOC	GPE-Celje
+587	593	Kamnik	Kamnik	LOC	GPE-Kamnik
+610	618	Jesenice	Jesenice	LOC	GPE-Jesenice
+636	643	Velenje	Velenje	LOC	GPE-Velenje
+661	671	Novo mesto	Novo mesto	LOC	GPE-Novo-mesto
+689	699	Radovljica	Radovljica	LOC	GPE-Radovljica
+717	735	Slovenska Bistrica	Slovenska Bistrica	LOC	GPE-Slovenska-Bistrica
+752	761	Grosuplje	Grosuplje	LOC	GPE-Grosuplje
+779	786	Šentjur	Šentjur	LOC	GPE-Šentjur
+803	817	Slovenj Gradec	Slovenj Gradec	LOC	GPE-Slovenj-Gradec
+835	848	Murska Sobota	Murska Sobota	LOC	GPE-Murska-Sobota
+866	871	Žalec	Žalec	LOC	GPE-Žalec
+889	894	Koper	Koper	LOC	GPE-Koper
+912	919	Sevnica	Sevnica	LOC	GPE-Sevnica
+936	943	Medvode	Medvode	LOC	GPE-Medvode
+960	964	Ptuj	Ptuj	LOC	GPE-Ptuj
+981	986	Tržič	Tržič	LOC	GPE-Tržič
+1004	1013	Železniki	Železniki	LOC	GPE-Železniki
+1031	1038	Vrhnika	Vrhnika	LOC	GPE-Vrhnika
+1055	1069	Ivančna Gorica	Ivančna Gorica	LOC	GPE-Ivančna-Gorica
+1087	1104	Šmarje pri Jelšah	Šmarje pri Jelšah	LOC	LOC-Šmarje-pri-Jelšah
+1120	1129	Škofljica	Škofljica	LOC	GPE-Škofljica
+1147	1153	Litija	Litija	LOC	GPE-Litija
+1171	1176	Krško	Krško	LOC	LOC-Krško
+1194	1202	Ljutomer	Ljutomer	LOC	GPE-Ljutomer
+1218	1225	Brežice	Brežice	LOC	GPE-Brežice
+1243	1260	Slovenske Konjice	Slovenske Konjice	LOC	GPE-Slovenske-Konjice
+1277	1298	Gorenja vas - Poljane	Gorenja vas - Poljane	LOC	GPE-Gorenja-vas-Poljane
+1315	1322	Trebnje	Trebnje	LOC	GPE-Trebnje
+1339	1354	Zagorje ob Savi	Zagorje ob Savi	LOC	GPE-Zagorje-ob-Savi
+1372	1387	Rogaška Slatina	Rogaška Slatina	LOC	GPE-Rogaška-Slatina
+1401	1407	Šenčur	Šenčur	LOC	GPE-Šenčur
+1424	1433	Brezovica	Brezovica	LOC	GPE-Brezovica
+1450	1460	Ajdovščina	Ajdovščina	LOC	GPE-Ajdovščina
+1475	1481	Mengeš	Mengeš	LOC	GPE-Mengeš
+1498	1515	Ravne na Koroškem	Ravne na Koroškem	LOC	GPE-Ravne-na-Koroškem
+1532	1540	Postojna	Postojna	LOC	GPE-Postojna
+1558	1569	Nova Gorica	Nova Gorica	LOC	GPE-Nova-Gorica
+1586	1594	Hrastnik	Hrastnik	LOC	GPE-Hrastnik
+1610	1617	Šoštanj	Šoštanj	LOC	GPE-Šoštanj
+1634	1643	Dravograd	Dravograd	LOC	LOC-Dravograd
+1660	1667	Metlika	Metlika	LOC	GPE-Metlika
+1683	1699	Ilirska Bistrica	Ilirska Bistrica	LOC	GPE-Ilirska-Bistrica
+1716	1722	Tolmin	Tolmin	LOC	GPE-Tolmin
+1739	1747	Lukovica	Lukovica	LOC	GPE-Lukovica
+1764	1772	Trbovlje	Trbovlje	LOC	GPE-Trbovlje
+1788	1809	Cerklje na Gorenjskem	Cerklje na Gorenjskem	LOC	GPE-Cerklje-na-Gorenjskem
+1826	1830	Bled	Bled	LOC	GPE-Bled
+1848	1855	Logatec	Logatec	LOC	GPE-Logatec
+1872	1878	Vojnik	Vojnik	LOC	GPE-Vojnik
+1896	1904	Prevalje	Prevalje	LOC	GPE-Prevalje
+1918	1933	Hoče - Slivnica	Hoče - Slivnica	LOC	GPE-Hoče-Slivnica
+1949	1957	Beltinci	Beltinci	LOC	GPE-Beltinci
+1974	1982	Črnomelj	Črnomelj	LOC	GPE-Črnomelj
+1999	2006	Ribnica	Ribnica	LOC	GPE-Ribnica
+2023	2030	Komenda	Komenda	LOC	GPE-Komenda
+2047	2052	Zreče	Zreče	LOC	GPE-Zreče
+2068	2073	Laško	Laško	LOC	GPE-Laško
+2089	2096	Moravče	Moravče	LOC	GPE-Moravče
+2112	2119	Puconci	Puconci	LOC	GPE-Puconci
+2136	2146	Šentjernej	Šentjernej	LOC	GPE-Šentjernej
+2162	2169	Kočevje	Kočevje	LOC	GPE-Kočevje
+2187	2194	Lendava	Lendava	LOC	GPE-Lendava
+2210	2216	Bohinj	Bohinj	LOC	GPE-Bohinj
+2233	2238	Naklo	Naklo	LOC	GPE-Naklo
+2255	2261	Idrija	Idrija	LOC	GPE-Idrija
+2277	2283	Lenart	Lenart	LOC	GPE-Lenart
+2299	2301	Ig	Ig	LOC	GPE-Ig
+2317	2322	Piran	Piran	LOC	GPE-Piran
+2338	2344	Vodice	Vodice	LOC	GPE-Vodice
+2360	2365	Pivka	Pivka	LOC	GPE-Pivka
+2381	2394	Kranjska Gora	Kranjska Gora	LOC	GPE-Kranjska-Gora
+2410	2433	Dobrova - Polhov Gradec	Dobrova - Polhov Gradec	LOC	LOC-Slovenj-Gradec-General-Hospital
+2449	2458	Žirovnica	Žirovnica	LOC	GPE-Žirovnica
+2474	2480	Mežica	Mežica	LOC	GPE-Mežica
+2494	2510	Črna na Koroškem	Črna na Koroškem	LOC	GPE-Črna-na-Koroškem
+2532	2541	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+2557	2575	Šmartno pri Litiji	Šmartno pri Litiji	LOC	GPE-Šmartno-pri-Litiji
+2591	2599	Mislinja	Mislinja	LOC	GPE-Mislinja
+2615	2620	Ormož	Ormož	LOC	GPE-Ormož
+2636	2644	Preddvor	Preddvor	LOC	GPE-Preddvor
+2660	2666	Starše	Starše	LOC	GPE-Starše
+2682	2686	Žiri	Žiri	LOC	GPE-Žiri
+2702	2716	Gornja Radgona	Gornja Radgona	LOC	GPE-Gornja-Radgona
+2732	2737	Kuzma	Kuzma	LOC	GPE-Kuzma
+2751	2758	Mozirje	Mozirje	LOC	GPE-Mozirje
+2774	2783	Braslovče	Braslovče	LOC	GPE-Braslovče
+2798	2814	Moravske Toplice	Moravske Toplice	LOC	GPE-Moravske-Toplice
+2829	2835	Sežana	Sežana	LOC	GPE-Sežana
+2850	2857	Polzela	Polzela	LOC	GPE-Polzela
+2872	2883	Rače - Fram	Rače - Fram	LOC	GPE-Rače-Fram
+2898	2905	Hajdina	Hajdina	LOC	GPE-Hajdina
+2920	2929	Črenšovci	Črenšovci	LOC	GPE-Črenšovci
+2944	2949	Izola	Izola	LOC	GPE-Izola
+2964	2973	Kidričevo	Kidričevo	LOC	LOC-Kidričevo
+2988	2997	Oplotnica	Oplotnica	LOC	GPE-Oplotnica
+3012	3018	Horjul	Horjul	LOC	GPE-Horjul
+3033	3047	Log - Dragomer	Log - Dragomer	LOC	GPE-Log-Dragomer
+3062	3069	Šentilj	Šentilj	LOC	GPE-Šentilj
+3082	3088	Tišina	Tišina	LOC	GPE-Tišina
+3103	3115	Velike Lašče	Velike Lašče	LOC	GPE-Velike-Lašče
+3128	3135	Prebold	Prebold	LOC	GPE-Prebold
+3150	3157	Odranci	Odranci	LOC	GPE-Odranci
+3172	3177	Trzin	Trzin	LOC	GPE-Trzin
+3192	3197	Štore	Štore	LOC	GPE-Štore
+3212	3220	Cerknica	Cerknica	LOC	GPE-Cerknica
+3235	3260	Miklavž na Dravskem polju	Miklavž na Dravskem polju	LOC	GPE-Miklavž-na-Dravskem-polju
+3275	3282	Pesnica	Pesnica	LOC	GPE-Pesnica
+3297	3301	Ruše	Ruše	LOC	GPE-Ruše
+3316	3325	Borovnica	Borovnica	LOC	GPE-Borovnica
+3340	3346	Duplek	Duplek	LOC	GPE-Duplek
+3359	3364	Gorje	Gorje	LOC	GPE-Gorje
+3379	3389	Dobrepolje	Dobrepolje	LOC	GPE-Dobrepolje
+3404	3419	Radlje ob Dravi	Radlje ob Dravi	LOC	GPE-Radlje-ob-Dravi
+3434	3439	Videm	Videm	LOC	GPE-Videm
+3454	3462	Poljčane	Poljčane	LOC	GPE-Poljčane
+3475	3493	Lovrenc na Pohorju	Lovrenc na Pohorju	LOC	GPE-Lovrenc-na-Pohorju
+3508	3517	Žužemberk	Žužemberk	LOC	GPE-Žužemberk
+3532	3538	Vipava	Vipava	LOC	GPE-Vipava
+3551	3559	Markovci	Markovci	LOC	GPE-Markovci
+3574	3591	Dolenjske Toplice	Dolenjske Toplice	LOC	GPE-Dolenjske-Toplice
+3606	3612	Ljubno	Ljubno	LOC	GPE-Ljubno
+3627	3636	Sodražica	Sodražica	LOC	GPE-Sodražica
+3651	3660	Gorišnica	Gorišnica	LOC	GPE-Gorišnica
+3675	3691	Selnica ob Dravi	Selnica ob Dravi	LOC	GPE-Selnica-ob-Dravi
+3706	3714	Majšperk	Majšperk	LOC	GPE-Majšperk
+3729	3738	Mirna Peč	Mirna Peč	LOC	GPE-Mirna-Peč
+3753	3758	Bovec	Bovec	LOC	GPE-Bovec
+3773	3778	Komen	Komen	LOC	GPE-Komen
+3791	3806	Šmartno ob Paki	Šmartno ob Paki	LOC	GPE-Šmartno-ob-Paki
+3821	3827	Divača	Divača	LOC	GPE-Divača
+3842	3847	Semič	Semič	LOC	GPE-Semič
+3862	3879	Šmarješke Toplice	Šmarješke Toplice	LOC	GPE-Šmarješke-Toplice
+3892	3899	Rogatec	Rogatec	LOC	GPE-Rogatec
+3914	3929	Renče - Vogrsko	Renče - Vogrsko	LOC	GPE-Florence
+3944	3949	Mirna	Mirna	LOC	GPE-Mirna
+3964	3971	Kungota	Kungota	LOC	GPE-Kungota
+3984	3992	Turnišče	Turnišče	LOC	GPE-Turnišče
+4007	4025	Šempeter - Vrtojba	Šempeter - Vrtojba	LOC	LOC-Šempeter
+4038	4046	Vuzenica	Vuzenica	LOC	GPE-Vuzenica
+4061	4072	Gornji Grad	Gornji Grad	LOC	GPE-Gornji-Grad
+4087	4093	Straža	Straža	LOC	GPE-Straža
+4108	4114	Dobrna	Dobrna	LOC	GPE-Dobrna
+4129	4137	Križevci	Križevci	LOC	GPE-Križevci
+4152	4158	Radeče	Radeče	LOC	GPE-Radeče
+4173	4177	Muta	Muta	LOC	GPE-Muta
+4190	4197	Vitanje	Vitanje	LOC	GPE-Vitanje
+4212	4231	Mokronog - Trebelno	Mokronog - Trebelno	LOC	GPE-Mokronog-Trebelno
+4246	4253	Vransko	Vransko	LOC	GPE-Vransko
+4268	4276	Destrnik	Destrnik	LOC	GPE-Destrnik
+4289	4296	Radenci	Radenci	LOC	GPE-Radenci
+4311	4321	Podčetrtek	Podčetrtek	LOC	GPE-Podčetrtek
+4334	4338	Grad	Grad	LOC	GPE-Grad
+4353	4373	Miren - Kostanjevica	Miren - Kostanjevica	LOC	GPE-Miren-Kostanjevica
+4386	4393	Škocjan	Škocjan	LOC	GPE-Škocjan
+4408	4414	Cerkno	Cerkno	LOC	GPE-Cerkno
+4429	4436	Dornava	Dornava	LOC	GPE-Dornava
+4451	4460	Rogašovci	Rogašovci	LOC	GPE-Rogašovci
+4475	4484	Cirkulane	Cirkulane	LOC	GPE-Cirkulane
+4497	4509	Loška dolina	Loška dolina	LOC	GPE-Loška-dolina
+4524	4528	Brda	Brda	LOC	GPE-Brda
+4541	4558	Rečica ob Savinji	Rečica ob Savinji	LOC	GPE-Rečica-ob-Savinji
+4571	4581	Šentrupert	Šentrupert	LOC	GPE-Šentrupert
+4594	4614	Kostanjevica na Krki	Kostanjevica na Krki	LOC	GPE-Kostanjevica-na-Krki
+4629	4635	Makole	Makole	LOC	GPE-Makole
+4648	4653	Kozje	Kozje	LOC	GPE-Kozje
+4668	4679	Sveti Tomaž	Sveti Tomaž	LOC	GPE-Sveti-Tomaž
+4692	4707	Gornji Petrovci	Gornji Petrovci	LOC	GPE-Gornji-Petrovci
+4722	4726	Luče	Luče	LOC	GPE-Luče
+4739	4744	Tabor	Tabor	LOC	GPE-Tabor
+4759	4782	Sveti Jurij ob Ščavnici	Sveti Jurij ob Ščavnici	LOC	GPE-Sveti-Jurij-ob-Ščavnici
+4797	4813	Hrpelje - Kozina	Hrpelje - Kozina	LOC	GPE-Hrpelje-Kozina
+4828	4835	Ankaran	Ankaran	LOC	GPE-Ankaran
+4850	4863	Kanal ob Soči	Kanal ob Soči	LOC	GPE-Kanal-ob-Soči
+4876	4885	Podlehnik	Podlehnik	LOC	GPE-Podlehnik
+4898	4904	Veržej	Veržej	LOC	GPE-Veržej
+4917	4924	Nazarje	Nazarje	LOC	GPE-Nazarje
+4937	4946	Sveta Ana	Sveta Ana	LOC	GPE-Sveta-Ana
+4960	4973	Velika Polana	Velika Polana	LOC	GPE-Velika-Polana
+4986	4991	Apače	Apače	LOC	GPE-Apače
+5006	5013	Šalovci	Šalovci	LOC	GPE-Šalovci
+5026	5033	Cankova	Cankova	LOC	GPE-Cankova
+5048	5056	Benedikt	Benedikt	LOC	GPE-Benedikt
+5071	5079	Podvelka	Podvelka	LOC	GPE-Podvelka
+5092	5099	Kobarid	Kobarid	LOC	GPE-Kobarid
+5114	5139	Sv. Trojica v Sl. goricah	Sv. Trojica v Sl. goricah	LOC	GPE-Sveta-Trojica-v-Slovenskih-goricah
+5152	5169	Bistrica ob Sotli	Bistrica ob Sotli	LOC	GPE-Bistrica-ob-Sotli
+5181	5204	Sv. Jurij v Sl. goricah	Sv. Jurij v Sl. goricah	LOC	GPE-Sveti-Jurij-v-Slovenskih-goricah
+5219	5224	Dobje	Dobje	LOC	GPE-Dobje
+5237	5242	Zavrč	Zavrč	LOC	GPE-Zavrč
+5257	5269	Trnovska vas	Trnovska vas	LOC	GPE-Trnovska-vas
+5282	5300	Ribnica na Pohorju	Ribnica na Pohorju	LOC	GPE-Ribnica
+5315	5325	Cerkvenjak	Cerkvenjak	LOC	GPE-Cerkvenjak
+5339	5356	Središče ob Dravi	Središče ob Dravi	LOC	GPE-Središče-ob-Dravi
+5370	5381	Loški Potok	Loški Potok	LOC	GPE-Loški-Potok
+5394	5403	Razkrižje	Razkrižje	LOC	GPE-Razkrižje
+5417	5423	Žetale	Žetale	LOC	GPE-Žetale
+5435	5440	Bloke	Bloke	LOC	GPE-Bloke
+5453	5461	Juršinci	Juršinci	LOC	GPE-Juršinci
+5474	5483	Dobrovnik	Dobrovnik	LOC	GPE-Dobrovnik
+5494	5500	Kostel	Kostel	LOC	GPE-Kostel
+5511	5535	Sv. Andraž v Sl. goricah	Sv. Andraž v Sl. goricah	LOC	GPE-Sveti-Andraž-v-Slovenskih-goricah
+5548	5553	Hodoš	Hodoš	LOC	GPE-Hodoš
+5564	5572	Jezersko	Jezersko	LOC	GPE-Jezersko
+5583	5590	Solčava	Solčava	LOC	GPE-Solčava
+5601	5608	Kobilje	Kobilje	LOC	GPE-Kobilje
+5619	5627	Osilnica	Osilnica	LOC	GPE-Osilnica

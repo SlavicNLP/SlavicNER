@@ -1,0 +1,16 @@
+79	85	Berlín	Berlín	LOC	GPE-Berlin
+123	128	Tegel	Tegel	LOC	LOC-Tegel-Berlin-Airport
+131	141	Schönefeld	Schönefeld	LOC	LOC-Schönefeld-Airport-Berlin
+327	332	Tegel	Tegel	LOC	LOC-Tegel-Berlin-Airport
+359	362	DPA	DPA	ORG	ORG-DPA
+396	406	Schönefeld	Schönefeld	LOC	LOC-Schönefeld-Airport-Berlin
+417	423	Tegelu	Tegel	LOC	LOC-Tegel-Berlin-Airport
+467	476	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+480	502	Frankfurtu nad Mohanem	Frankfurt nad Mohanem	LOC	GPE-Frankfurt-am-Main
+505	513	Mnichova	Mnichov	LOC	GPE-Munich
+518	529	Schönefeldu	Schönfeld	LOC	LOC-Schönefeld-Airport-Berlin
+559	566	Easyjet	Easyjet	ORG	ORG-EasyJet
+568	575	Ryanair	Ryanair	ORG	ORG-Ryanair
+581	589	Aeroflot	Aeroflot	ORG	ORG-Aeroflot
+656	659	RBB	RBB	PRO	PRO-RBB-Fernsehen-TV
+860	865	Verdi	Verdi	ORG	ORG-Ver.di-Trade-Union

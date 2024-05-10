@@ -1,0 +1,30 @@
+10	19	Hiszpanii	Hiszpania	LOC	GPE-Spain
+22	27	Danii	Dania	LOC	GPE-Denmark
+40	48	Ukrainie	Ukraina	LOC	GPE-Ukraine
+100	107	Ukrainę	Ukraina	LOC	GPE-Ukraine
+126	135	Hiszpanii	Hiszpania	LOC	GPE-Spain
+149	154	Danii	Dania	LOC	GPE-Denmark
+156	173	Mette Frederiksen	Mette Frederiksen	PER	PER-Mette-Frederiksen
+208	221	Pedro Sanchez	Pedro Sanchez	PER	PER-Pedro-Sanchez
+288	294	Rosjan	Rosjanie	LOC	GPE-Russia
+327	333	Kijowa	Kijów	LOC	GPE-Kiev
+354	365	Borodziance	Borodzianka	LOC	GPE-Borodianka
+371	390	hiszpańskiego rządu	hiszpański rząd	ORG	ORG-Government-of-Spain
+453	469	rosyjskie wojska	rosyjskie wojska	ORG	ORG-Russian-Armed-Forces
+472	485	Pedro Sanchez	Pedro Sanchez	PER	PER-Pedro-Sanchez
+488	504	Mette Fredriksen	Mette Fredriksen	PER	PER-Mette-Frederiksen
+526	547	Wołodymyrem Zełenskim	Wołodymyr Zełenski	PER	PER-Volodymyr-Zelensky
+708	717	Hiszpania	Hiszpania	LOC	GPE-Spain
+742	750	Ukrainie	Ukraina	LOC	GPE-Ukraine
+809	828	hiszpańskiego rządu	hiszpański rząd	ORG	ORG-Government-of-Spain
+864	871	Ukrainę	Ukraina	LOC	GPE-Ukraine
+968	985	Wojna na Ukrainie	Wojna na Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+987	996	Hiszpania	Hiszpania	LOC	GPE-Spain
+1016	1034	ambasady w Kijowie	ambasada w Kijowie	ORG	ORG-Spanish-Embassy-Kiev
+1052	1057	Danii	Dania	LOC	GPE-Denmark
+1181	1197	Mette Fredriksen	Mette Fredriksen	PER	PER-Mette-Frederiksen
+1233	1241	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1323	1328	Rosji	Rosja	LOC	GPE-Russia
+1348	1357	Hiszpanii	Hiszpania	LOC	GPE-Spain
+1428	1459	hiszpańskiej ambasady w Kijowie	hiszpańska ambasada w Kijowie	ORG	ORG-Spanish-Embassy-Kiev
+1534	1540	Polski	Polska	LOC	GPE-Poland

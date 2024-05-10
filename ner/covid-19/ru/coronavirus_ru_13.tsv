@@ -1,0 +1,31 @@
+14	26	коронавируса	коронавирус	EVT	EVT-Covid-19
+29	36	Израиле	Израиль	LOC	GPE-Israel
+265	270	Вести	Вести	PRO	PRO-Vesti
+311	316	Вести	Вести	PRO	PRO-Vesti
+376	451	Федеральное управление США по надзору за продуктами питания и медикаментами	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+453	456	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+492	504	израильскому	израильский	PER	GPE-Israel
+550	562	коронавируса	коронавирус	EVT	EVT-Covid-19
+584	590	Pfizer	Pfizer	ORG	ORG-Pfizer
+612	622	германской	германский	PER	GPE-Germany
+633	641	BioNTech	BioNTech	ORG	ORG-BioNTech
+645	652	Израиле	Израиль	LOC	GPE-Israel
+682	691	минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Israel
+788	794	Вестей	Вести	PRO	PRO-Vesti
+840	849	Итая Галя	Итай Галь	PER	PER-Itai-Gal
+870	873	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+1252	1264	коронавируса	коронавирус	EVT	EVT-Covid-19
+1274	1280	Pfizer	Pfizer	ORG	ORG-Pfizer
+1349	1361	коронавируса	коронавирус	EVT	EVT-Covid-19
+1373	1380	Израиле	Израиль	LOC	GPE-Israel
+3546	3558	коронавируса	коронавирус	EVT	EVT-Covid-19
+3831	3837	Pfizer	Pfizer	ORG	ORG-Pfizer
+4667	4673	Pfizer	Pfizer	ORG	ORG-Pfizer
+4676	4683	Moderna	Moderna	ORG	ORG-Moderna
+6042	6055	коронавирусом	коронавирус	EVT	EVT-Covid-19
+6341	6353	коронавируса	коронавирус	EVT	EVT-Covid-19
+6870	6883	коронавирусом	коронавирус	EVT	EVT-Covid-19
+6986	6999	коронавирусом	коронавирус	EVT	EVT-Covid-19
+7078	7090	коронавируса	коронавирус	EVT	EVT-Covid-19
+7921	7927	Pfizer	Pfizer	ORG	ORG-Pfizer
+7930	7937	Moderna	Moderna	ORG	ORG-Moderna

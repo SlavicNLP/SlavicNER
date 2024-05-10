@@ -1,0 +1,29 @@
+0	8	BioNTech	BioNTech	ORG	ORG-BioNTech
+12	18	Pfizer	Pfizer	ORG	ORG-Pfizer
+33	36	ZDA	ZDA	LOC	GPE-USA
+81	90	covidu-19	covid-19	EVT	EVT-Covid-19
+122	130	BioNTech	BioNTech	ORG	ORG-BioNTech
+164	170	Pfizer	Pfizer	ORG	ORG-Pfizer
+243	246	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+300	309	covidu-19	covid-19	EVT	EVT-Covid-19
+382	385	ZDA	ZDA	LOC	GPE-USA
+415	423	Pfizerja	Pfizer	ORG	ORG-Pfizer
+447	450	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+469	472	ZDA	ZDA	LOC	GPE-USA
+807	810	dpa	dpa	ORG	ORG-DPA
+1207	1210	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+1389	1392	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1407	1424	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+1425	1445	Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+1501	1503	EU	EU	ORG	ORG-European-Union
+1522	1524	EU	EU	ORG	ORG-European-Union
+1579	1588	covidu-19	covid-19	EVT	EVT-Covid-19
+1606	1612	Pfizer	Pfizer	ORG	ORG-Pfizer
+1616	1624	BioNTech	BioNTech	ORG	ORG-BioNTech
+1629	1636	Moderna	Moderna	ORG	ORG-Moderna
+1659	1688	Evropska agencija za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+1690	1693	Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+1791	1793	EU	EU	ORG	ORG-European-Union
+1795	1798	ZDA	ZDA	LOC	GPE-USA
+1946	1955	BioNTecha	BioNTech	ORG	ORG-BioNTech
+1959	1967	Pfizerja	Pfizer	ORG	ORG-Pfizer

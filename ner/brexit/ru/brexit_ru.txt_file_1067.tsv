@@ -1,0 +1,29 @@
+19	29	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+75	81	Brexit	Brexit	EVT	EVT-Brexit
+84	86	ЕС	ЕС	ORG	ORG-European-Union
+88	98	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+113	151	правительство Соединенного Королевство	правительство Соединенного Королевства	ORG	ORG-the-UK-Government
+191	197	Brexit	Brexit	EVT	EVT-Brexit
+242	244	ЕС	ЕС	ORG	ORG-European-Union
+275	282	Лондона	Лондон	LOC	GPE-London
+285	294	Брюсселем	Брюссель	LOC	GPE-Brussles
+311	319	Евросоюз	Евросоюз	ORG	ORG-European-Union
+536	538	ЕС	ЕС	ORG	ORG-European-Union
+579	593	Великобритании	Великобритания	LOC	GPE-Great-Britain
+620	627	Лондоне	Лондон	LOC	GPE-London
+706	708	ЕС	ЕС	ORG	ORG-European-Union
+742	772	британского кабинета министров	британский кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+820	826	Brexit	Brexit	EVT	EVT-Brexit
+882	896	Великобритании	Великобритания	LOC	GPE-Great-Britain
+899	901	ЕС	ЕС	ORG	ORG-European-Union
+938	947	Евросоюза	Евросоюз	ORG	ORG-European-Union
+986	992	Brexit	Brexit	EVT	EVT-Brexit
+1002	1005	МИД	МИД	ORG	ORG-Foreign-Office
+1006	1019	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1022	1028	Дэвиса	Дэвис	PER	PER-David-Davis
+1049	1061	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+1148	1151	Мэй	Мэй	PER	PER-Theresa-May
+1247	1255	Британии	Британия	LOC	GPE-Great-Britain
+1304	1306	ЕС	ЕС	ORG	ORG-European-Union
+1371	1377	Brexit	Brexit	EVT	EVT-Brexit
+1464	1467	ВТО	ВТО	ORG	ORG-WTO-World-Trade-Organization

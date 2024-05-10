@@ -1,0 +1,64 @@
+21	26	Rusko	Rusko	LOC	GPE-Russia
+56	63	brexitu	brexit	EVT	EVT-Brexit
+82	96	Damian Collins	Damian Collins	PER	PER-Damian-Collins
+169	176	brexitu	brexit	EVT	EVT-Brexit
+217	225	Británie	Británie	LOC	GPE-Great-Britain
+228	241	Evropské unie	Evropská unie	ORG	ORG-European-Union
+242	255	Arrona Bankse	Arron Banks	PER	PER-Arron-Banks
+283	288	Rusko	Rusko	LOC	GPE-Russia
+303	319	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+331	336	Banks	Banks	PER	PER-Arron-Banks
+394	402	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+474	482	Collinse	Collinse	PER	PER-Damian-Collins
+503	557	výboru britského parlamentu pro kulturu, média a sport	výbor britského parlamentu pro kulturu média a sport	ORG	ORG-UK-Department-for-Digital-Culture-Media-and-Sport
+602	612	Banksových	Banks	PER	PER-Arron-Banks
+621	627	Ruskem	Rusko	LOC	GPE-Russia
+629	634	Banks	Banks	PER	PER-Arron-Banks
+696	712	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+786	793	Britové	Britové	PER	GPE-Great-Britain
+825	833	Británie	Británie	LOC	GPE-Great-Britain
+894	902	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+935	941	Bankse	Bankse	PER	PER-Arron-Banks
+1007	1013	Ruskem	Rusko	LOC	GPE-Russia
+1015	1031	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+1043	1048	Banks	Banks	PER	PER-Arron-Banks
+1091	1099	Británii	Británie	LOC	GPE-Great-Britain
+1114	1136	The Bad Boys of Brexit	The Bad Boys of Brexit	PRO	PRO-The-Bad-Boys-of-Brexit-book
+1138	1157	Zlí chlapci brexitu	Zlí chlapci brexitu	PRO	PRO-The-Bad-Boys-of-Brexit-book
+1342	1349	Collins	Collins	PER	PER-Damian-Collins
+1355	1358	BBC	BBC	PRO	PRO-BBC
+1438	1443	Banks	Banks	PER	PER-Arron-Banks
+1492	1499	Collins	Collins	PER	PER-Damian-Collins
+1530	1535	Banks	Banks	PER	PER-Arron-Banks
+1633	1638	Banks	Banks	PER	PER-Arron-Banks
+1650	1666	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+1676	1681	Banks	Banks	PER	PER-Arron-Banks
+1707	1715	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+1716	1728	Andy Wigmore	Andy Wigmore	PER	PER-Andy-Wigmore
+1859	1899	Strany nezávislosti Spojeného království	Strana nezávislosti Spojeného království	ORG	ORG-UK-Independence-Party
+1901	1905	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+1907	1922	Nigelem Faragem	Nigel Farage	PER	PER-Nigel-Farage
+1933	1942	New Yorku	New York	LOC	GPE-New-York
+1984	2000	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+2002	2007	Banks	Banks	PER	PER-Arron-Banks
+2010	2017	Wigmore	Wigmore	PER	PER-Andy-Wigmore
+2086	2091	Rusku	Rusko	LOC	GPE-Russia
+2157	2163	Bankse	Banks	PER	PER-Arron-Banks
+2166	2174	Wigmorea	Wigmore	PER	PER-Andy-Wigmore
+2178	2183	Rusko	Rusko	LOC	GPE-Russia
+2252	2268	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+2269	2289	Isabela Oakeshottová	Isabela Oakeshottová	PER	PER-Isabela-Oakeshottova
+2297	2305	Banksovi	Banks	PER	PER-Arron-Banks
+2332	2350	Bad Boys of Brexit	Bad Boys of Brexit	PRO	PRO-The-Bad-Boys-of-Brexit-book
+2471	2477	Bankse	Banks	PER	PER-Arron-Banks
+2480	2488	Wigmorea	Wigmore	PER	PER-Andy-Wigmore
+2509	2515	Rusové	Rusové	PER	GPE-Russia
+2618	2624	brexit	brexit	EVT	EVT-Brexit
+2665	2672	Banksem	Banks	PER	PER-Arron-Banks
+2675	2681	Ruskem	Rusko	LOC	GPE-Russia
+2747	2759	Oakeshottová	Oakeshottová	PER	PER-Isabela-Oakeshottova
+2761	2768	Wigmore	Wigmore	PER	PER-Andy-Wigmore
+2785	2792	Banksem	Banks	PER	PER-Arron-Banks
+2850	2856	Rusovi	Rusové	PER	GPE-Russia
+2877	2891	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+2927	2937	summitu G7	summit G7	EVT	EVT-Summit-G7

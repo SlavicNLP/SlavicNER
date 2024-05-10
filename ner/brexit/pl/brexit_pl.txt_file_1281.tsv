@@ -1,0 +1,72 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+19	34	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+63	70	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+73	79	Londyn	Londyn	LOC	GPE-London
+164	171	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+229	232	GPS	GPS	PRO	PRO-GPS
+256	274	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+284	301	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+304	306	UE	UE	ORG	ORG-European-Union
+336	343	Londynu	Londyn	LOC	GPE-London
+366	373	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+408	423	Financial Times	Financial Times	PRO	PRO-Financial-Times
+465	483	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+497	504	Londynu	Londyn	LOC	GPE-London
+518	526	Brukseli	Bruksela	LOC	GPE-Brussles
+585	592	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+694	711	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+806	808	UE	UE	ORG	ORG-European-Union
+899	906	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+950	958	Bruksela	Bruksela	LOC	GPE-Brussles
+970	979	Londynowi	Londyn	LOC	GPE-London
+1025	1027	UE	UE	ORG	ORG-European-Union
+1029	1044	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1107	1119	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1171	1188	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1221	1223	KE	KE	ORG	ORG-European-Commission
+1229	1235	Londyn	Londyn	LOC	GPE-London
+1318	1325	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+1374	1378	SSTL	SSTL	ORG	ORG-SSTL
+1405	1411	Surrey	Surrey	LOC	GPE-Surrey
+1488	1494	Londyn	Londyn	LOC	GPE-London
+1517	1519	KE	KE	ORG	ORG-European-Commission
+1534	1536	FT	FT	PRO	PRO-Financial-Times
+1552	1559	Londynu	Londyn	LOC	GPE-London
+1581	1589	Brukseli	Bruksela	LOC	GPE-Brussles
+1603	1609	Tamizą	Tamiza	LOC	LOC-River-Thames
+1648	1664	Gavin Williamson	Gavin Williamson	PER	PER-Gavin-Williamson
+1742	1749	Estonii	Estonia	LOC	GPE-Estonia
+1817	1819	KE	KE	ORG	ORG-European-Commission
+1994	2012	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+2152	2162	Williamson	Williamson	PER	PER-Gavin-Williamson
+2172	2174	FT	FT	PRO	PRO-Financial-Times
+2176	2182	Londyn	Londyn	LOC	GPE-London
+2218	2223	Paryż	Paryż	LOC	GPE-Paris
+2395	2403	Brukseli	Bruksela	LOC	GPE-Brussles
+2412	2429	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2430	2441	Theresa May	Theresa May	PER	PER-Theresa-May
+2504	2511	brexitu	Brexit	EVT	EVT-Brexit
+2512	2523	David Davis	David Davis	PER	PER-David-Davis
+2566	2576	Greg Clark	Greg Clark	PER	PER-Greg-Clark
+2598	2612	Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+2614	2619	Clark	Clark	PER	PER-Kenneth-Clarke
+2666	2668	FT	FT	PRO	PRO-Financial-Times
+2684	2691	Francji	Francja	LOC	GPE-France
+2694	2702	Londynie	Londyn	LOC	GPE-London
+2703	2726	Jean-Pierre’em Jouyetem	Jean-Pierre Jouyet	PER	PER-Jean-Pierre-Jouyet
+2839	2846	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+2916	2918	UE	UE	ORG	ORG-European-Union
+2922	2937	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3050	3057	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+3072	3077	Clark	Clark	PER	PER-Kenneth-Clarke
+3080	3082	KE	KE	ORG	ORG-European-Commission
+3113	3131	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+3178	3180	KE	KE	ORG	ORG-European-Commission
+3181	3202	Alexander Winterstein	Alexander Winterstein	PER	PER-Alexander-Winterstein
+3363	3380	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3455	3462	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+3554	3557	GPS	GPS	PRO	PRO-GPS
+3581	3588	GLONASS	GLONASS	PRO	PRO-GLONASS
+3605	3611	Beidou	Beidou	PRO	PRO-Beidou
+3657	3664	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+3879	3886	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation

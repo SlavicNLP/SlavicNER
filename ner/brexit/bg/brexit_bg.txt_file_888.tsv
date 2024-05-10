@@ -1,0 +1,18 @@
+0	13	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+38	40	ЕС	ЕС	ORG	ORG-European-Union
+98	105	Брекзит	Брекзит	EVT	EVT-Brexit
+106	119	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+148	150	ЕС	ЕС	ORG	ORG-European-Union
+159	166	Брекзит	Брекзит	EVT	EVT-Brexit
+200	202	ЕК	ЕК	ORG	ORG-European-Commission
+227	234	Брюксел	Брюксел	LOC	GPE-Brussles
+273	279	Лондон	Лондон	LOC	GPE-London
+360	366	Дейвис	Дейвис	PER	PER-David-Davis
+439	441	ЕС	ЕС	ORG	ORG-European-Union
+474	488	Великобритания	Великобритания	LOC	GPE-Great-Britain
+580	595	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+785	791	Дейвис	Дейвис	PER	PER-David-Davis
+841	851	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+905	912	Брекзит	Брекзит	EVT	EVT-Brexit
+991	993	ЕС	ЕС	ORG	ORG-European-Union
+995	1001	Дейвис	Дейвис	PER	PER-David-Davis

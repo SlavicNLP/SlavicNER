@@ -1,0 +1,25 @@
+0	3	США	США	LOC	GPE-USA
+6	14	Германия	Германия	LOC	GPE-Germany
+52	61	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+64	70	Берлин	Берлин	LOC	GPE-Berlin
+133	149	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+151	154	США	США	LOC	GPE-USA
+180	192	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+193	204	Хайко Мааса	Хайко Маас	PER	PER-Heiko-Maas
+217	235	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+310	315	Мааса	Маас	PER	PER-Heiko-Maas
+319	337	Северному потоку-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+463	469	Европа	Европа	LOC	LOC-Europe
+483	504	Европейский парламент	Европейский парламент	ORG	ORG-European-Parliament
+554	572	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+621	624	США	США	LOC	GPE-USA
+656	668	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+679	683	Маас	Маас	PER	PER-Heiko-Maas
+737	753	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+831	837	Европе	Европа	LOC	LOC-Europe
+846	849	США	США	LOC	GPE-USA
+857	860	США	США	LOC	GPE-USA
+881	889	Германию	Германия	LOC	GPE-Germany
+981	997	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1020	1055	Палата представителей Конгресса США	Палата представителей Конгресса США	ORG	ORG-House-of-Representatives(USA)
+1124	1142	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2

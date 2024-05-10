@@ -1,0 +1,34 @@
+5	18	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+54	61	Брекзит	Брекзит	EVT	EVT-Brexit
+177	184	Брекзит	Брекзит	EVT	EVT-Brexit
+226	239	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+271	278	Брекзит	Брекзит	EVT	EVT-Brexit
+336	338	ЕС	ЕС	ORG	ORG-European-Union
+408	418	Франс прес	Франс прес	ORG	ORG-France-Presse
+475	482	Брекзит	Брекзит	EVT	EVT-Brexit
+649	655	Лондон	Лондон	LOC	GPE-London
+719	726	Джонсън	Джонсън	PER	PER-Boris-Johnson
+877	884	Брекзит	Брекзит	EVT	EVT-Brexit
+918	925	Джонсън	Джонсън	PER	PER-Boris-Johnson
+990	997	Брекзит	Брекзит	EVT	EVT-Brexit
+1218	1228	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1269	1275	Лондон	Лондон	LOC	GPE-London
+1300	1302	ЕС	ЕС	ORG	ORG-European-Union
+1512	1519	Брекзит	Брекзит	EVT	EVT-Brexit
+1529	1536	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1646	1660	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1941	1948	Брекзит	Брекзит	EVT	EVT-Brexit
+2014	2034	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+2150	2157	Брекзит	Брекзит	EVT	EVT-Brexit
+2175	2185	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2249	2256	Брекзит	Брекзит	EVT	EVT-Brexit
+2517	2520	Мей	Мей	PER	PER-Theresa-May
+2550	2552	ЕС	ЕС	ORG	ORG-European-Union
+2565	2579	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2585	2592	Брекзит	Брекзит	EVT	EVT-Brexit
+2668	2670	ЕС	ЕС	ORG	ORG-European-Union
+2751	2753	ЕС	ЕС	ORG	ORG-European-Union
+2798	2800	ЕС	ЕС	ORG	ORG-European-Union
+2912	2914	ЕС	ЕС	ORG	ORG-European-Union
+3295	3297	ЕС	ЕС	ORG	ORG-European-Union
+3376	3378	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,46 @@
+0	5	Милер	Милер	PER	PER-Aleksey-Miller
+16	33	„Северен поток“ 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+147	163	Северен поток“ 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+247	254	Газпром	Газпром	ORG	ORG-Gazprom
+256	269	Алексей Милер	Алексей Милер	PER	PER-Aleksey-Miller
+297	322	Международния газов форум	Международен газов форум	EVT	EVT-SPIGF-Forum
+331	336	Милер	Милер	PER	PER-Aleksey-Miller
+529	533	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+560	576	Северен поток“ 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+603	618	Манфред Лайтнер	Манфред Лайтнер	PER	PER-Manfred-Leitner
+653	656	OMV	OMV	ORG	ORG-OMV
+719	737	Nord Stream - 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+795	800	Дания	Дания	LOC	GPE-Denmark
+844	849	Милер	Милер	PER	PER-Aleksey-Miller
+887	893	Европа	Европа	LOC	LOC-Europe
+958	971	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+1036	1042	Европа	Европа	LOC	LOC-Europe
+1113	1129	Северен поток“ 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1298	1303	Русия	Русия	LOC	GPE-Russia
+1305	1314	Финландия	Финландия	LOC	GPE-Finland
+1316	1322	Швеция	Швеция	LOC	GPE-Sweden
+1324	1329	Дания	Дания	LOC	GPE-Denmark
+1332	1340	Германия	Германия	LOC	GPE-Germany
+1471	1476	Дания	Дания	LOC	GPE-Denmark
+1491	1516	Международния газов форум	Международен газов форум	EVT	EVT-SPIGF-Forum
+1517	1522	Милер	Милер	PER	PER-Aleksey-Miller
+1576	1588	Турски поток	Турски поток	PRO	PRO-Turkish-Stream
+1754	1764	Черно море	Черно море	LOC	LOC-Black-Sea
+1768	1774	Турция	Турция	LOC	GPE-Turkey
+2030	2034	Южна	Южна	LOC	LOC-Southern-Europe
+2037	2054	Югоизточна Европа	Югоизточна Европа	LOC	LOC-Southeast-Europe
+2216	2223	Газпром	Газпром	ORG	ORG-Gazprom
+2243	2259	Дмитрий Медведев	Дмитрий Медведев	PER	PER-Dmitry-Medvedev
+2334	2346	Турски поток	Турски поток	PRO	PRO-Turkish-Stream
+2362	2366	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+2457	2473	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2476	2496	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+2550	2556	Гърция	Гърция	LOC	GPE-Greece
+2558	2564	Италия	Италия	LOC	GPE-Italy
+2566	2574	България	България	LOC	GPE-Bulgaria
+2576	2582	Сърбия	Сърбия	LOC	GPE-Serbia
+2585	2592	Унгария	Унгария	LOC	GPE-Hungary
+2602	2607	Милер	Милер	PER	PER-Aleksey-Miller
+2710	2718	България	България	LOC	GPE-Bulgaria
+2720	2726	Сърбия	Сърбия	LOC	GPE-Serbia
+2729	2736	Унгария	Унгария	LOC	GPE-Hungary

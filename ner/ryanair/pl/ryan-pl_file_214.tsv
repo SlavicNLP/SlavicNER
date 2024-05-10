@@ -1,0 +1,51 @@
+3	11	Francuzi	Francuzi	PER	GPE-France
+35	37	UE	UE	ORG	ORG-European-Union
+74	92	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+126	129	IAG	IAG	ORG	ORG-IAG-International-Airlines-Group
+131	159	International Airlines Group	International Airlines Group	ORG	ORG-IAG-International-Airlines-Group
+162	169	Ryanair	Ryanair	ORG	ORG-Ryanair
+171	178	easyJet	easyJet	ORG	ORG-EasyJet
+181	189	Wizz Air	Wizz Air	ORG	ORG-Wizz-Air
+209	229	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+240	247	Francji	Francja	LOC	GPE-France
+357	359	UE	UE	ORG	ORG-European-Union
+417	424	Francja	Francja	LOC	GPE-France
+437	454	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+700	707	Francji	Francja	LOC	GPE-France
+803	810	Francja	Francja	LOC	GPE-France
+850	857	Europie	Europa	LOC	LOC-Europe
+1049	1056	Francji	Francja	LOC	GPE-France
+1275	1283	Marsylię	Marsylia	LOC	GPE-Marseille
+1286	1302	Morze Śródziemne	Morze Śródziemne	LOC	LOC-Mediterranean-Sea
+1406	1415	Hiszpanii	Hiszpania	LOC	GPE-Spain
+1427	1439	Willie Walsh	Willie Walsh	PER	PER-Willie-Walsh
+1460	1463	IAG	IAG	ORG	ORG-IAG-International-Airlines-Group
+1538	1547	Hiszpanie	Hiszpanie	PER	GPE-Spain
+1566	1586	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+1675	1677	UE	UE	ORG	ORG-European-Union
+1679	1698	Trybunał Europejski	Trybunał Europejski	ORG	ORG-European-Court-of-Justice
+1716	1723	Francji	Francja	LOC	GPE-France
+1836	1851	Michael O’Leary	Michael O’Leary	PER	PER-Michael-O'Leary
+1860	1867	Ryanair	Ryanair	ORG	ORG-Ryanair
+2119	2125	Grecji	Grecja	LOC	GPE-Greece
+2131	2139	Włoszech	Włochy	LOC	GPE-Italy
+2150	2157	Francja	Francja	LOC	GPE-France
+2231	2240	Niemczech	Niemcy	LOC	GPE-Germany
+2245	2262	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2567	2585	Komisję Europejską	Komisja Europejska	ORG	ORG-European-Commission
+2766	2773	O’Leary	O’Leary	PER	PER-Michael-O'Leary
+2782	2789	Ryanair	Ryanair	ORG	ORG-Ryanair
+2802	2816	Johan Lundgren	Johan Lundgren	PER	PER-Johan-Lundgren
+2837	2844	easyJet	easyJet	ORG	ORG-EasyJet
+2917	2932	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+2942	2949	Francji	Francja	LOC	GPE-France
+3222	3230	Lundgren	Lundgren	PER	PER-Johan-Lundgren
+3240	3253	József Váradi	József Váradi	PER	PER-Jozsef-Varadi
+3262	3270	Wizz Air	Wizz Air	ORG	ORG-Wizz-Air
+3461	3468	Europie	Europa	LOC	LOC-Europe
+3637	3643	Europy	Europa	LOC	LOC-Europe
+3742	3750	Wizz Air	Wizz Air	ORG	ORG-Wizz-Air
+3759	3770	Eurocontrol	Eurocontrol	ORG	ORG-Eurocontrol
+3951	3969	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+4003	4010	Europie	Europa	LOC	LOC-Europe
+4143	4160	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union

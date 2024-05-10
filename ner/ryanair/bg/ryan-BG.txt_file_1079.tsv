@@ -1,0 +1,31 @@
+11	18	Букурещ	Букурещ	LOC	GPE-Bucharest
+64	70	Лондон	Лондон	LOC	GPE-London
+74	81	Пловдив	Пловдив	LOC	GPE-Plovdiv
+111	120	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+125	132	българи	българи	PER	GPE-Bulgaria
+196	203	Румъния	Румъния	LOC	GPE-Romania
+271	280	Тимишоара	Тимишоара	LOC	LOC-Timisoara-Airport
+326	333	Пловдив	Пловдив	LOC	GPE-Plovdiv
+372	380	България	България	LOC	GPE-Bulgaria
+383	390	Букурещ	Букурещ	LOC	GPE-Bucharest
+391	403	Мирчо Иванов	Мирчо Иванов	PER	PER-Mircho-Ivanov
+417	422	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+438	446	Райънеър	Райънеър	ORG	ORG-Ryanair
+458	464	Лондон	Лондон	LOC	GPE-London
+482	489	Пловдив	Пловдив	LOC	GPE-Plovdiv
+559	564	София	София	LOC	GPE-Sofia
+578	587	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+627	636	Тимишоара	Тимишоара	LOC	LOC-Timisoara-Airport
+825	835	Дунав мост	Дунав мост	LOC	LOC-Dunav-Bridge
+991	997	Иванов	Иванов	PER	PER-Mircho-Ivanov
+1498	1504	Иванов	Иванов	PER	PER-Mircho-Ivanov
+1588	1597	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+1727	1734	Гюргево	Гюргево	LOC	GPE-Giurgiu
+2040	2047	Букурещ	Букурещ	LOC	GPE-Bucharest
+2064	2080	"Летище ""Пловдив"""	Летище Пловдив	LOC	LOC-Plovdiv-aeroport
+2267	2273	Москва	Москва	LOC	GPE-Moscow
+2299	2306	Пловдив	Пловдив	LOC	GPE-Plovdiv
+2359	2367	България	България	LOC	GPE-Bulgaria
+2382	2389	Кишинев	Кишинев	LOC	GPE-Kishinev
+2462	2464	ЕС	ЕС	ORG	ORG-European-Union
+2504	2514	еврозоната	Еврозона	LOC	LOC-Eurozone

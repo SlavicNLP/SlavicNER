@@ -1,0 +1,44 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+24	32	Irlandii	Irlandia	LOC	GPE-Ireland
+52	63	Theresa May	Theresa May	PER	PER-Theresa-May
+132	134	UE	UE	ORG	ORG-European-Union
+137	143	brexit	Brexit	EVT	EVT-Brexit
+207	225	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+289	309	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+398	409	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+475	479	Unii	Unia	ORG	ORG-European-Union
+554	562	Brukseli	Bruksela	LOC	GPE-Brussles
+808	816	Bruksela	Bruksela	LOC	GPE-Brussles
+863	872	Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+897	918	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+967	976	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+996	1002	Turcją	Turcja	LOC	GPE-Turkey
+1109	1121	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1123	1142	Liberalni Demokraci	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+1144	1167	Szkocka Partia Narodowa	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+1183	1190	torysów	torysi	PER	ORG-Tories
+1192	1195	May	May	PER	PER-Theresa-May
+1369	1376	brexitu	Brexit	EVT	EVT-Brexit
+1399	1412	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1454	1462	Liam Fox	Liam Fox	PER	PER-Liam-Fox
+1503	1518	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1595	1599	Unią	Unia	ORG	ORG-European-Union
+1745	1751	Europą	Europa	LOC	LOC-Europe
+1809	1816	Londynu	Londyn	LOC	GPE-London
+1855	1873	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+1899	1906	brexitu	Brexit	EVT	EVT-Brexit
+1967	1985	Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+1988	1996	Ulsterem	Ulster	LOC	GPE-Ulster
+2071	2085	Zielonej Wyspy	Zielona Wyspa	LOC	GPE-Ireland
+2126	2144	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+2287	2296	LucidTalk	LucidTalk	ORG	ORG-LucidTalk
+2298	2307	Sinn Fein	Sinn Fein	ORG	ORG-Sinn-Fein
+2487	2516	Porozumienia Wielkopiątkowego	Porozumienie Wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+2577	2583	Londyn	Londyn	LOC	GPE-London
+2591	2597	Dublin	Dublin	LOC	GPE-Dublin
+2744	2752	Ulsterze	Ulster	LOC	GPE-Ulster
+2819	2823	Unii	Unia	ORG	ORG-European-Union
+2875	2909	Demokratyczną Partią Unionistyczną	Demokratyczna Partia Unionistyczna	ORG	ORG-DUP-Democratic-Unionist-Party
+2911	2914	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+2933	2935	UE	UE	ORG	ORG-European-Union
+2988	2998	Wspólnocie	Wspólnota	ORG	ORG-European-Union

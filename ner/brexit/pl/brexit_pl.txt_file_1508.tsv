@@ -1,0 +1,19 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+75	94	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+96	117	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+160	177	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+315	334	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+363	380	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+387	408	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+504	513	wspólnotą	Wspólnota	ORG	ORG-European-Union
+789	806	Christopher Wylie	Christopher Wylie	PER	PER-Christopher-Wylie
+862	881	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+1005	1017	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1070	1076	brexit	Brexit	EVT	EVT-Brexit
+1077	1087	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+1090	1095	Wylie	Wylie	PER	PER-Christopher-Wylie
+1163	1172	wspólnotą	Wspólnota	ORG	ORG-European-Union
+1338	1345	brexitu	Brexit	EVT	EVT-Brexit
+1419	1431	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1489	1494	Wylie	Wylie	PER	PER-Christopher-Wylie
+1588	1595	brexitu	Brexit	EVT	EVT-Brexit

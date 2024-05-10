@@ -1,0 +1,42 @@
+9	22	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+42	48	Moskvy	Moskva	LOC	GPE-Moscow
+72	79	VARŠAVA	VARŠAVA	LOC	GPE-Warsaw
+80	83	ČTK	ČTK	ORG	ORG-CTK
+93	106	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+132	137	Ruska	Rusko	LOC	GPE-Russia
+193	199	Evropě	Evropa	LOC	LOC-Europe
+220	250	Parlamentního shromáždění NATO	Parlamentní shromáždění NATO	ORG	ORG-NATO-Parliamentary-Assembly
+254	261	Varšavě	Varšava	LOC	GPE-Warsaw
+290	308	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+319	330	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+348	362	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+383	390	Německa	Německo	LOC	GPE-Germany
+400	413	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+456	462	Polsko	Polsko	LOC	GPE-Poland
+497	510	Spojené státy	Spojené státy	LOC	GPE-USA
+534	540	Moskva	Moskva	LOC	GPE-Moscow
+575	581	Evropě	Evropa	LOC	LOC-Europe
+627	629	EU	EU	ORG	ORG-European-Union
+632	636	NATO	NATO	ORG	ORG-NATO
+759	769	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+833	857	Severoatlantická aliance	Severoatlantická aliance	ORG	ORG-NATO
+882	888	Polsku	Polsko	LOC	GPE-Poland
+891	898	Pobaltí	Pobaltí	LOC	LOC-Baltic-countries
+978	989	anexe Krymu	anexe Krymu	EVT	EVT-Annexation-of-Crimea
+1014	1018	NATO	NATO	ORG	ORG-NATO
+1105	1109	NATO	NATO	ORG	ORG-NATO
+1219	1224	Rusko	Rusko	LOC	GPE-Russia
+1258	1262	Krym	Krym	LOC	GPE-Crimea
+1281	1285	NATO	NATO	ORG	ORG-NATO
+1392	1404	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+1420	1426	Moskva	Moskva	LOC	GPE-Moscow
+1467	1483	Sovětského svazu	Sovětský svaz	LOC	GPE-USSR
+1486	1502	Invaze do Gruzie	Invaze do Gruzie	EVT	EVT-Invasion-of-Georgia
+1514	1525	anexe Krymu	anexe Krymu	EVT	EVT-Annexation-of-Crimea
+1551	1559	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+1581	1586	Ruska	Rusko	LOC	GPE-Russia
+1604	1608	Duda	Duda	PER	PER-Andrzej-Duda
+1649	1655	Ruskem	Rusko	LOC	GPE-Russia
+1658	1664	Gruzií	Gruzie	LOC	GPE-Georgia
+1695	1703	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+1755	1761	Moskva	Moskva	LOC	GPE-Moscow

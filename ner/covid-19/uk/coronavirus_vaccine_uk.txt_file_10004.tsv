@@ -1,0 +1,78 @@
+14	19	грипу	грип	EVT	EVT-Influenza
+48	56	COVID-19	COVID-19	EVT	EVT-Covid-19
+61	80	Євгенія Ковалевська	Євгенія Ковалевська	PER	PER-Eugene-Kovalevskaya
+83	86	ВВС	BBC	ORG	ORG-BBC-Ltd
+87	94	Україна	Україна	LOC	GPE-Ukraine
+121	129	пандемії	пандемія	EVT	EVT-Covid-19
+130	142	коронавірусу	коронавірус	EVT	EVT-Covid-19
+156	163	Україні	Україна	LOC	GPE-Ukraine
+213	218	грипу	грип	EVT	EVT-Influenza
+359	364	грипу	грип	EVT	EVT-Influenza
+373	385	коронавірусу	коронавірус	EVT	EVT-Covid-19
+521	526	грипу	грип	EVT	EVT-Influenza
+615	619	грип	грип	EVT	EVT-Influenza
+638	642	Грип	грип	EVT	EVT-Influenza
+720	728	інфаркту	інфаркт	EVT	EVT-infarсt
+732	740	інсульту	інсульт	EVT	EVT-stroke
+759	788	Міністерство охорони здоров'я	Міністерство охорони здоров'я	ORG	ORG-Ministry-of-Healthcare-Ukraine
+805	810	грипу	грип	EVT	EVT-Influenza
+930	968	Всесвітня організація охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+998	1005	Україні	Україна	LOC	GPE-Ukraine
+1034	1039	грипу	грип	EVT	EVT-Influenza
+1092	1103	коронавірус	коронавірус	EVT	EVT-Covid-19
+1144	1149	грипу	грип	EVT	EVT-Influenza
+1223	1229	ковіду	ковід	EVT	EVT-Covid-19
+1334	1338	грип	грип	EVT	EVT-Influenza
+1342	1353	коронавірус	коронавірус	EVT	EVT-Covid-19
+1385	1404	Дарина Дмитрієвська	Дарина Дмитрієвська	PER	PER-Daryna-Dmitrievska
+1479	1484	грипу	грип	EVT	EVT-Influenza
+1689	1694	грипу	грип	EVT	EVT-Influenza
+1951	1962	Федір Лапій	Федір Лапій	PER	PER-Fyodor-Lapiy
+2203	2223	‎Дарина Дмитрієвська	Дарина Дмитрієвська	PER	PER-Daryna-Dmitrievska
+2241	2246	грипу	грип	EVT	EVT-Influenza
+2357	2364	застуду	застуда	EVT	EVT-cold
+2659	2671	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2865	2870	грипу	грип	EVT	EVT-Influenza
+3073	3092	Дарина Дмитрієвська	Дарина Дмитрієвська	PER	PER-Daryna-Dmitrievska
+3113	3118	грипу	грип	EVT	EVT-Influenza
+3345	3350	грипу	грип	EVT	EVT-Influenza
+3384	3391	Україні	Україна	LOC	GPE-Ukraine
+3407	3414	Україну	Україна	LOC	GPE-Ukraine
+3461	3491	Міністерстві охорони ‎здоров'я	Міністерстві охорони ‎здоров'я	ORG	ORG-Ministry-of-Healthcare-Ukraine
+3506	3523	"""Ваксігрип Тетра"""	"""Ваксігрип Тетра"""	PRO	PRO-Vaksígrip-Tetra
+3525	3532	Франція	Франція	LOC	GPE-France
+3535	3545	"""Інфлувак"""	"""Інфлувак"""	PRO	PRO-Influvak
+3547	3557	Нідерланди	Нідерланди	LOC	GPE-Holland
+3562	3573	"""Джісі Флю"""	"""Джісі Флю"""	PRO	PRO-Jesse-Flew
+3575	3590	Південна ‎Корея	Південна ‎Корея	LOC	GPE-South-Korea
+3649	3654	грипу	грип	EVT	EVT-Influenza
+3743	3750	Україні	Україна	LOC	GPE-Ukraine
+3766	3771	грипу	грип	EVT	EVT-Influenza
+3890	3895	грипу	грип	EVT	EVT-Influenza
+3956	3963	України	Україна	LOC	GPE-Ukraine
+4031	4042	Федір Лапій	Федір Лапій	PER	PER-Fyodor-Lapiy
+4067	4074	Україна	Україна	LOC	GPE-Ukraine
+4191	4196	грипу	грип	EVT	EVT-Influenza
+4390	4395	грипу	грип	EVT	EVT-Influenza
+4414	4426	Федір ‎Лапій	Федір Лапій	PER	PER-Fyodor-Lapiy
+4746	4751	грипу	грип	EVT	EVT-Influenza
+5106	5111	грипу	грип	EVT	EVT-Influenza
+5311	5316	грипу	грип	EVT	EVT-Influenza
+5377	5388	Федір Лапій	Федір Лапій	PER	PER-Fyodor-Lapiy
+5686	5691	Києва	Київ	LOC	GPE-Kyiv
+5707	5712	грипу	грип	EVT	EVT-Influenza
+5800	5807	України	Україна	LOC	GPE-Ukraine
+5862	5867	грипу	грип	EVT	EVT-Influenza
+6146	6151	грипу	грип	EVT	EVT-Influenza
+6173	6178	Києва	Київ	LOC	GPE-Kyiv
+6445	6450	грипу	грип	EVT	EVT-Influenza
+6465	6473	COVID-19	COVID-19	EVT	EVT-Covid-19
+6492	6497	грипу	грип	EVT	EVT-Influenza
+6519	6531	коронавірусу	коронавірус	EVT	EVT-Covid-19
+6575	6580	грипу	грип	EVT	EVT-Influenza
+6625	6629	грип	грип	EVT	EVT-Influenza
+6632	6640	COVID-19	COVID-19	EVT	EVT-Covid-19
+6751	6763	коронавірусу	коронавірус	EVT	EVT-Covid-19
+6842	6847	грипу	грип	EVT	EVT-Influenza
+6917	6925	Telegram	Telegram	PRO	PRO-Telegram
+6930	6935	Viber	Viber	PRO	PRO-Viber

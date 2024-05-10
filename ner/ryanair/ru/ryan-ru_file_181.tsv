@@ -1,0 +1,31 @@
+13	16	МАУ	МАУ	ORG	ORG-Ukraine-International-Airlines
+36	43	Ryanair	Ryanair	ORG	ORG-Ryanair
+47	56	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+99	102	МАУ	МАУ	ORG	ORG-Ukraine-International-Airlines
+122	129	Ryanair	Ryanair	ORG	ORG-Ryanair
+133	142	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+177	187	Франкфурта	Франкфурт	LOC	GPE-Frankfurt-am-Main
+189	196	Мюнхена	Мюнхен	LOC	GPE-München
+198	204	Кельна	Кельн	LOC	GPE-Koln
+207	214	Бремена	Бремен	LOC	GPE-Bremen
+229	238	Борисполя	Борисполь	LOC	LOC-Boryspil-Airport-Kiev
+267	274	Ryanair	Ryanair	ORG	ORG-Ryanair
+277	284	Украину	Украина	LOC	GPE-Ukraine
+326	363	Международные авиалинии Украины (МАУ)	Международные авиалинии Украины (МАУ)	ORG	ORG-Ukraine-International-Airlines
+398	405	Reuters	Reuters	ORG	ORG-Reuters
+441	444	МАУ	МАУ	ORG	ORG-Ukraine-International-Airlines
+445	461	Юрия Мирошникова	Юрий Мирошников	PER	PER-Yuri-Miroshnikov
+469	472	МАУ	МАУ	ORG	ORG-Ukraine-International-Airlines
+541	550	Борисполь	Борисполь	LOC	LOC-Boryspil-Airport-Kiev
+589	596	Ryanair	Ryanair	ORG	ORG-Ryanair
+632	641	Борисполь	Борисполь	LOC	LOC-Boryspil-Airport-Kiev
+929	939	Мирошников	Мирошников	PER	PER-Yuri-Miroshnikov
+1043	1050	Ryanair	Ryanair	ORG	ORG-Ryanair
+1124	1133	Борисполе	Борисполь	LOC	LOC-Boryspil-Airport-Kiev
+1160	1163	МАУ	МАУ	ORG	ORG-Ukraine-International-Airlines
+1338	1345	Ryanair	Ryanair	ORG	ORG-Ryanair
+1373	1382	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+1551	1561	Франкфурта	Франкфурт	LOC	GPE-Frankfurt-am-Main
+1563	1570	Мюнхена	Мюнхен	LOC	GPE-München
+1572	1578	Кельна	Кельн	LOC	GPE-Köln
+1581	1588	Бремена	Бремен	LOC	GPE-Bremen

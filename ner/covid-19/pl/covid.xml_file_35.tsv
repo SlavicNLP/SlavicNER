@@ -1,0 +1,28 @@
+0	11	W. Brytania	W. Brytania	LOC	GPE-Great-Britain
+48	51	RPA	RPA	LOC	GPE-Republic-of-South-Africa
+198	201	RPA	RPA	LOC	GPE-Republic-of-South-Africa
+298	305	Hancock	Hancock	PER	PER-Matthew-Hancock
+327	330	BBC	BBC	PRO	PRO-BBC
+483	495	koronawirusa	koronawirus	EVT	EVT-Covid-19
+498	515	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+585	592	Europie	Europa	LOC	LOC-Europe
+722	728	Anglii	Anglia	LOC	GPE-England
+774	777	ITV	ITV	PRO	PRO-ITV
+892	900	Covid-19	Covid-19	EVT	EVT-Covid-19
+1030	1044	Matta Hancocka	Matt Hancock	PER	PER-Matthew-Hancock
+1055	1063	Covid-19	Covid-19	EVT	EVT-Covid-19
+1066	1069	RPA	RPA	LOC	GPE-Republic-of-South-Africa
+1204	1213	Twitterze	Twitter	PRO	PRO-Twitter
+1237	1240	ITV	ITV	PRO	PRO-ITV
+1241	1254	Robert Peston	Robert Peston	PER	PER-Robert-Peston
+1266	1283	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1293	1296	RPA	RPA	LOC	GPE-Republic-of-South-Africa
+1349	1361	koronawirusa	koronawirus	EVT	EVT-Covid-19
+1552	1569	Pfizer i BioNTech	Pfizer i BioNTech	ORG	ORG-Pfizer-BioNTech
+1575	1597	Uniwersytet Oksfordzki	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+1600	1611	AstraZenecę	AstraZeneca	ORG	ORG-AstraZeneca
+1728	1745	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1897	1906	John Bell	John Bell	PER	PER-John-Bell
+1929	1954	Uniwersytecie Oksfordzkim	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+2175	2182	Londynu	Londyn	LOC	GPE-London
+2183	2204	Bartłomiej Niedziński	Bartłomiej Niedziński	PER	PER-Bartłomiej-Niedziński

@@ -1,0 +1,29 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+25	31	Londýn	Londýn	LOC	GPE-London
+80	95	Citibank Europe	Citibank Europe	ORG	ORG-Citybank-Europe
+231	245	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+248	261	Evropské unie	Evropská unie	ORG	ORG-European-Union
+374	376	HN	HN	PRO	PRO-Hospodarske-Noviny
+377	389	Zdeněk Turek	Zdeněk Turek	PER	PER-Zdenek-Turek
+409	424	Citibank Europe	Citi-bank Europe	ORG	ORG-Citybank-Europe
+444	448	Čech	Čech	PER	GPE-Czech-Republic
+489	496	Dublinu	Dublin	LOC	GPE-Dublin
+519	534	Citibank Europe	Citibank Europe	ORG	ORG-Citybank-Europe
+547	556	Citigroup	Citigroup	ORG	ORG-Citygroup
+607	610	USA	USA	LOC	GPE-USA
+612	614	HN	HN	PRO	PRO-Hospodarske-Noviny
+648	656	Británie	Británie	LOC	GPE-Great-Britain
+659	672	Evropské unie	Evropská unie	ORG	ORG-European-Union
+690	697	Londýna	Londýn	LOC	GPE-London
+740	746	Londýn	Londýn	LOC	GPE-London
+850	856	Evropy	Evropa	LOC	LOC-Europe
+866	870	Asie	Asie	LOC	LOC-Asia
+873	876	USA	USA	LOC	GPE-USA
+908	915	brexitu	brexit	EVT	EVT-Brexit
+941	949	Británii	Británie	LOC	GPE-Great-Britain
+961	967	Londýn	Londýn	LOC	GPE-London
+1127	1129	EU	EU	ORG	ORG-European-Union
+1144	1149	Irsku	Irsko	LOC	GPE-Ireland
+1219	1226	Londýna	Londýn	LOC	GPE-London
+1541	1547	Londýn	Londýn	LOC	GPE-London
+1611	1619	Británie	Británie	LOC	GPE-Great-Britain

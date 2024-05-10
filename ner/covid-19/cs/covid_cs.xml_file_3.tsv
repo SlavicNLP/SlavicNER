@@ -1,0 +1,20 @@
+2	7	Česku	Česko	LOC	GPE-Czech-Republic
+132	137	Česku	Česko	LOC	GPE-Czech-Republic
+167	177	koronaviru	koronavirus	EVT	EVT-Covid-19
+219	227	covid-19	covid-19	EVT	EVT-Covid-19
+288	291	PES	PES	PRO	PRO-PES-Anti-epidemic-system-Czech-Republic
+457	460	PES	PES	PRO	PRO-PES-Anti-epidemic-system-Czech-Republic
+600	609	covidu-19	covid-19	EVT	EVT-Covid-19
+721	726	Česka	Česko	LOC	GPE-Czech-Republic
+739	744	Babiš	Babiš	PER	PER-Andrej-Babis
+780	785	Česku	Česko	LOC	GPE-Czech-Republic
+939	944	Prima	Prima	ORG	ORG-Prima-TV
+947	961	CNN Prima News	CNN Prima News	PRO	PRO-Prima-CNN-News
+963	968	Babiš	Babiš	PER	PER-Andrej-Babis
+983	988	Česko	Česko	LOC	GPE-Czech-Republic
+1065	1070	Česka	Česko	LOC	GPE-Czech-Republic
+1106	1119	Evropské unii	Evropská unie	ORG	ORG-European-Union
+1147	1153	Pfizer	Pfizer	ORG	ORG-Pfizer
+1156	1164	BioNTech	BioNTech	ORG	ORG-BioNTech
+1193	1199	Pfizer	Pfizer	ORG	ORG-Pfizer
+1340	1346	Babiše	Babiš	PER	PER-Andrej-Babis

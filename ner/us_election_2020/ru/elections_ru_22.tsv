@@ -1,0 +1,93 @@
+160	166	Байден	Байден	PER	PER-Joe-Biden
+181	187	Трампа	Трамп	PER	PER-Donald-Trump
+190	193	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+196	216	Парижском соглашении	Парижское соглашение	EVT	EVT-The-Paris-agreement
+230	236	Байден	Байден	PER	PER-Joe-Biden
+251	257	Трампа	Трамп	PER	PER-Donald-Trump
+260	263	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+266	286	Парижском соглашении	Парижское соглашение	EVT	EVT-The-Paris-agreement
+300	310	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+345	348	США	США	LOC	GPE-USA
+398	413	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+415	426	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+441	447	МОСКВА	МОСКВА	LOC	GPE-Moscow
+458	469	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+471	481	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+516	519	США	США	LOC	GPE-USA
+569	584	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+621	624	США	США	LOC	GPE-USA
+628	665	Всемирную организацию здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+682	688	Штатов	Штаты	LOC	GPE-USA
+719	724	Трамп	Трамп	PER	PER-Donald-Trump
+767	788	эпидемии коронавируса	эпидемия коронавируса	EVT	EVT-Covid-19-first-wave
+801	806	Китая	Китай	LOC	GPE-China
+833	839	Байден	Байден	PER	PER-Joe-Biden
+840	843	США	США	LOC	GPE-USA
+848	868	Парижское соглашение	Парижское соглашение	EVT	EVT-The-Paris-agreement
+1029	1070	строительство стены на границе с Мексикой	строительство стены на границе с Мексикой	EVT	EVT-Mexican american wall
+1151	1157	Трампа	Трамп	PER	PER-Donald-Trump
+1258	1266	Мексикой	Мексика	LOC	GPE-Мexico
+1336	1339	США	США	LOC	GPE-USA
+1341	1346	Трамп	Трамп	PER	PER-Donald-Trump
+1453	1459	Байден	Байден	PER	PER-Joe-Biden
+1527	1533	Байден	Байден	PER	PER-Joe-Biden
+1581	1598	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+1612	1634	стран Ближнего Востока	страны Ближнего Востока	LOC	LOC-Midwestern-United-States
+1648	1653	Трамп	Трамп	PER	PER-Donald-Trump
+1679	1684	Ирана	Иран	LOC	GPE-Iran
+1686	1691	Ливии	Ливия	LOC	GPE-Libya
+1693	1698	Сирии	Сирия	LOC	GPE-Syria
+1700	1706	Йемена	Йемен	LOC	GPE-Yemen
+1708	1714	Сомали	Сомали	LOC	GPE-Somalia
+1716	1722	Судана	Судан	LOC	GPE-Sudan
+1725	1730	Ирака	Ирак	LOC	GPE-Iraq
+1856	1860	Ирак	Ирак	LOC	GPE-Iraq
+1863	1868	Судан	Судан	LOC	GPE-Sudan
+1882	1885	Чад	Чад	LOC	GPE-Chad
+1888	1892	КНДР	КНДР	LOC	GPE-North-Korea
+2050	2061	Keystone XL	Keystone XL	PRO	PRO-Keystone-Pipeline
+2073	2079	Канады	Канада	LOC	GPE-Canada
+2082	2085	США	США	LOC	GPE-USA
+2122	2128	Трампа	Трамп	PER	PER-Donald-Trump
+2132	2138	Байден	Байден	PER	PER-Joe-Biden
+2153	2159	Трампа	Трамп	PER	PER-Donald-Trump
+2162	2165	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+2168	2188	Парижском соглашении	Парижское соглашение	EVT	EVT-The-Paris-agreement
+2202	2208	МОСКВА	МОСКВА	LOC	GPE-Moscow
+2219	2230	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+2232	2242	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+2277	2280	США	США	LOC	GPE-USA
+2330	2345	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+2385	2388	США	США	LOC	GPE-USA
+2392	2429	Всемирную организацию здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+2446	2452	Штатов	Штаты	LOC	GPE-USA
+2483	2488	Трамп	Трамп	PER	PER-Donald-Trump
+2565	2570	Китая	Китай	LOC	GPE-China
+2600	2606	Байден	Байден	PER	PER-Joe-Biden
+2607	2610	США	США	LOC	GPE-USA
+2615	2635	Парижское соглашение	Парижское соглашение	EVT	EVT-The-Paris-agreement
+2799	2840	строительство стены на границе с Мексикой	строительство стены на границе с Мексикой	EVT	EVT-Mexican american wall
+2924	2930	Трампа	Трамп	PER	PER-Donald-Trump
+3031	3039	Мексикой	Мексика	LOC	GPE-Мexico
+3109	3112	США	США	LOC	GPE-USA
+3303	3309	Байден	Байден	PER	PER-Joe-Biden
+3357	3374	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+3388	3410	стран Ближнего Востока	страны Ближнего Востока	LOC	LOC-Midwestern-United-States
+3424	3429	Трамп	Трамп	PER	PER-Donald-Trump
+3455	3460	Ирана	Иран	LOC	GPE-Iran
+3462	3467	Ливии	Ливия	LOC	GPE-Libya
+3469	3474	Сирии	Сирия	LOC	GPE-Syria
+3476	3482	Йемена	Йемен	LOC	GPE-Yemen
+3484	3490	Сомали	Сомали	LOC	GPE-Somalia
+3492	3498	Судана	Судан	LOC	GPE-Sudan
+3501	3506	Ирака	Ирак	LOC	GPE-Iraq
+3632	3636	Ирак	Ирак	LOC	GPE-Iraq
+3639	3644	Судан	Судан	LOC	GPE-Sudan
+3658	3661	Чад	Чад	LOC	GPE-Chad
+3664	3668	КНДР	Гаврилова А.В.	LOC	GPE-North-Korea
+3829	3840	Keystone XL	Keystone XL	PRO	PRO-Keystone-Pipeline
+3861	3864	США	США	LOC	GPE-USA
+3901	3907	Трампа	Трамп	PER	PER-Donald-Trump
+4056	4072	«Россия сегодня»	«Россия сегодня»	PRO	PRO-RT-Russia-Today
+4074	4094	МИА «Россия сегодня»	МИА «Россия сегодня»	PRO	PRO-RT-Russia-Today
+4150	4164	Гаврилова А.В.	Гаврилов А.В.	PER	PER-Gavrilova-A.-V.

@@ -1,0 +1,27 @@
+16	22	brexit	brexit	EVT	EVT-Brexit
+27	36	Britancih	Britanci	PER	GPE-Great-Britain
+107	115	Britanci	Britanec	PER	GPE-Great-Britain
+149	164	Evropske unije,	Evropska unija	ORG	ORG-European-Union
+170	177	Angliji	Anglija	LOC	GPE-England
+316	323	brexita	brexit	EVT	EVT-Brexit
+371	376	Otoku	otok	LOC	GPE-Great-Britain
+496	503	Londonu	London	LOC	GPE-London
+506	514	Brusljem	Bruselj	LOC	GPE-Brussles
+637	644	brexita	brexit	EVT	EVT-Brexit
+705	714	Britancev	Britanec	PER	GPE-Great-Britain
+754	784	londonskega kraljevega kolidža	londonski kraljevi kolidž	LOC	ORG-King's-College-London
+821	824	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+944	951	brexitu	brexit	EVT	EVT-Brexit
+1069	1076	Angliji	Anglija	LOC	GPE-England
+1196	1203	brexitu	brexit	EVT	EVT-Brexit
+1707	1714	brexitu	brexit	EVT	EVT-Brexit
+2040	2043	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+2069	2087	kraljevega kolidža	kraljevi kolidži	LOC	ORG-King's-College-London
+2103	2111	Harvardu	Harvard	ORG	ORG-Harvard-University
+2112	2128	Sotiris Vandoros	Sotiris Vandoros	PER	PER-Sotiris-Vandoros
+2439	2447	Vandoros	Vandoros	PER	PER-Sotiris-Vandoros
+2587	2594	brexitu	brexit	EVT	EVT-Brexit
+2626	2633	brexita	brexit	EVT	EVT-Brexit
+2741	2749	Vandoros	Vandoros	PER	PER-Sotiris-Vandoros
+2963	3007	Journal of Epidemiology and Community Health	Journal of Epidemiology and Community Health	PRO	PRO-Journal-of-Epidemiology-and-Community-Health
+3048	3055	Londonu	London	LOC	GPE-London

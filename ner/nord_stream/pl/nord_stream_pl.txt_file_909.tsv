@@ -1,0 +1,51 @@
+0	3	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+15	18	USA	USA	LOC	GPE-USA
+21	34	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+65	82	Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+112	124	Waszyngtonie	Waszyngton	LOC	GPE-WashingtonDC
+145	158	Mikiem Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+216	229	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+258	261	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+277	296	departamencie stanu	Departament Stanu	ORG	ORG-Department-of-State-USA
+330	333	USA	USA	LOC	GPE-USA
+363	388	Radzie Bezpieczeństwa ONZ	Rada Bezpieczeństwa ONZ	ORG	ORG-UN-Security-Council
+530	533	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+575	587	Waszyngtonie	Waszyngton	LOC	GPE-WashingtonDC
+643	662	Heritage Foundation	Heritage Foundation	ORG	ORG-Heritage-Foundation
+686	689	USA	USA	LOC	GPE-USA
+690	701	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+803	810	Europie	Europa	LOC	LOC-Europe
+853	857	Iran	Iran	LOC	GPE-Iran
+953	956	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+959	978	Departamencie Stanu	Departament Stanu	ORG	ORG-Department-of-State-USA
+979	985	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+1067	1075	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1192	1205	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1219	1228	Niemczech	Niemcy	LOC	GPE-Germany
+1257	1262	Rosji	Rosja	LOC	GPE-Russia
+1271	1278	Bałtyku	Bałtyk	LOC	LOC-Baltic-Sea
+1322	1333	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+1335	1348	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1414	1429	Morze Bałtyckie	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+1432	1439	Wyborga	Wyborg	LOC	GPE-Vyborg
+1442	1447	Rosji	Rosja	LOC	GPE-Russia
+1451	1462	Greifswaldu	Greifswald	LOC	GPE-Greifswald
+1465	1474	Niemczech	Niemcy	LOC	GPE-Germany
+1516	1522	Polska	Polska	LOC	GPE-Poland
+1542	1549	Ukraina	Ukraina	LOC	GPE-Ukraine
+1607	1615	Gazpromu	Gazprom	ORG	ORG-Gazprom
+1676	1679	OMV	OMV	ORG	ORG-OMV
+1692	1708	BASF-Wintershall	BASF-Wintershall	ORG	ORG-BASF-Wintershall
+1711	1717	Uniper	Uniper	ORG	ORG-Uniper
+1729	1734	Engie	Engie	ORG	ORG-Engie
+1759	1776	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+1814	1832	Departamentu Stanu	Departament Stanu	ORG	ORG-Department-of-State-USA
+1833	1847	Sandra Oudkirk	Sandra Oudkirk	PER	PER-Sandra-Oudkirk
+1862	1870	Berlinie	Berlin	LOC	GPE-Berlin
+1902	1915	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2006	2023	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+2049	2062	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2117	2122	Rosji	Rosja	LOC	GPE-Russia
+2125	2132	Europie	Europa	LOC	LOC-Europe
+2149	2152	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+2243	2265	Polska Agencja Prasowa	Polska Agencja Prasowa	ORG	ORG-PAP-Polish-Press-Agency

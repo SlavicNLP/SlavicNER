@@ -1,0 +1,22 @@
+1	9	COVID-19	COVID-19	EVT	EVT-Covid-19
+27	36	Italijani	Italijani	PER	GPE-Italy
+194	196	EU	EU	ORG	ORG-European-Union
+201	204	ZDA	ZDA	LOC	GPE-USA
+542	544	EU	EU	ORG	ORG-European-Union
+675	686	koronavirus	koronavirus	EVT	EVT-Covid-19
+728	730	EU	EU	ORG	ORG-European-Union
+802	809	Italije	Italija	LOC	GPE-Italy
+847	873	evropskega kriznega sklada	evropski krizni sklad	ORG	ORG-Emergency-Response-Coordination-Centre
+928	930	EU	EU	ORG	ORG-European-Union
+1253	1255	EU	EU	ORG	ORG-European-Union
+1387	1389	EU	EU	ORG	ORG-European-Union
+1687	1689	EU	EU	ORG	ORG-European-Union
+2161	2163	EU	EU	ORG	ORG-European-Union
+2245	2247	EU	EU	ORG	ORG-European-Union
+2328	2352	Evropska centralna banka	Evropska centralna banka	ORG	ORG-European-Central-Bank
+3006	3008	EU	EU	ORG	ORG-European-Union
+3481	3488	Nemčijo	Nemčija	LOC	GPE-Germany
+3532	3539	Italijo	Italija	LOC	GPE-Italy
+3543	3550	Španijo	Španija	LOC	GPE-Spain
+3603	3605	EU	EU	ORG	ORG-European-Union
+3662	3664	EU	EU	ORG	ORG-European-Union

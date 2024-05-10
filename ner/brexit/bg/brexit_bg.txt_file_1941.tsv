@@ -1,0 +1,43 @@
+0	2	ЕК	ЕК	ORG	ORG-European-Commission
+5	19	Великобритания	Великобритания	LOC	GPE-Great-Britain
+30	37	Брекзит	Брекзит	EVT	EVT-Brexit
+68	70	ЕК	ЕК	ORG	ORG-European-Commission
+133	147	Великобритания	Великобритания	LOC	GPE-Great-Britain
+151	153	ЕС	ЕС	ORG	ORG-European-Union
+197	199	ЕС	ЕС	ORG	ORG-European-Union
+231	245	Великобритания	Великобритания	LOC	GPE-Great-Britain
+246	258	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+295	301	Лондон	Лондон	LOC	GPE-London
+326	332	Барние	Барние	PER	PER-Michel-Barnier
+417	423	Лондон	Лондон	LOC	GPE-London
+552	566	Великобритания	Великобритания	LOC	GPE-Great-Britain
+579	581	ЕС	ЕС	ORG	ORG-European-Union
+624	630	Барние	Барние	PER	PER-Michel-Barnier
+699	701	ЕС	ЕС	ORG	ORG-European-Union
+802	816	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1029	1047	Европейският съвет	Европейски съвет	ORG	ORG-European-Council
+1102	1108	Лондон	Лондон	LOC	GPE-London
+1175	1181	Барние	Барние	PER	PER-Michel-Barnier
+1224	1230	Лондон	Лондон	LOC	GPE-London
+1293	1295	ЕС	ЕС	ORG	ORG-European-Union
+1314	1328	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1389	1404	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+1419	1421	ЕС	ЕС	ORG	ORG-European-Union
+1435	1445	Люксембург	Люксембург	LOC	GPE-Luxembourg
+1504	1518	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1624	1638	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1641	1649	Ирландия	Ирландия	LOC	GPE-Ireland
+1650	1652	ЕС	ЕС	ORG	ORG-European-Union
+1695	1701	Барние	Барние	PER	PER-Michel-Barnier
+1783	1785	ЕС	ЕС	ORG	ORG-European-Union
+1881	1887	Барние	Барние	PER	PER-Michel-Barnier
+1924	1937	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+1939	1945	Барние	Барние	PER	PER-Michel-Barnier
+2016	2022	Дейвис	Дейвис	PER	PER-David-Davis
+2097	2103	Барние	Барние	PER	PER-Michel-Barnier
+2212	2218	Барние	Барние	PER	PER-Michel-Barnier
+2318	2320	ЕС	ЕС	ORG	ORG-European-Union
+2323	2337	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2457	2471	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2483	2485	ЕС	ЕС	ORG	ORG-European-Union
+2599	2617	Европейският съвет	Европейски съвет	ORG	ORG-European-Council

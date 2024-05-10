@@ -1,0 +1,12 @@
+8	19	Нидерландия	Нидерландия	LOC	GPE-The-Netherlands
+52	64	коронавируса	коронавирус	EVT	EVT-Covid-19
+162	181	университета Утрехт	Университет Утрехт	ORG	ORG-Utrecht-University
+184	195	Нидерландия	Нидерландия	LOC	GPE-The-Netherlands
+234	244	Erasmus MC	Erasmus MC	PRO	PRO-Erasmus
+274	287	Harbor BioMed	Harbor BioMed	ORG	ORG-Harbour-BioMed
+351	362	коронавирус	коронавирус	EVT	EVT-Covid-19
+364	374	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+463	476	Беренд-Ян Бош	Беренд-Ян Бош	PER	PER-Jan-Bosch
+805	824	университета Утрехт	Университет Утрехт	ORG	ORG-Utrecht-University
+906	917	коронавирус	коронавирус	EVT	EVT-Covid-19
+1017	1025	Covid-19	COVID-19	EVT	EVT-Covid-19

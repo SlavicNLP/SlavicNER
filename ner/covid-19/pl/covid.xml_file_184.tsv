@@ -1,0 +1,42 @@
+72	75	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+83	94	Paweł Bejda	Paweł Bejda	PER	PER-Paweł-Bejda
+96	99	PSL	PSL	PER	ORG-PSL-Polish-Peoples-Party
+260	263	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+266	280	Krystyna Janda	Krystyna Janda	PER	PER-Krystyna-Janda
+285	298	Leszek Miller	Leszek Miller	PER	PER-Leszek-Miller
+319	322	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+332	337	Bejda	Bejda	PER	PER-Paweł-Bejda
+448	452	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+486	501	Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+584	592	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+632	637	Bejda	Bejda	PER	PER-Paweł-Bejda
+659	667	covid-19	covid-19	EVT	EVT-Covid-19
+670	676	Polsce	Polska	LOC	GPE-Poland
+715	721	Polsce	Polska	LOC	GPE-Poland
+742	750	COVID-19	COVID-19	EVT	EVT-Covid-19
+1099	1130	Warszawski Uniwersytet Medyczny	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+1297	1325	Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+1416	1419	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+1522	1525	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+1797	1800	SLD	SLD	ORG	ORG-Democratic-Left-Alliance-Poland
+1801	1815	Leszka Millera	Leszek Miller	PER	PER-Leszek-Miller
+1921	1935	Krystyna Janda	Krystyna Janda	PER	PER-Krystyna-Janda
+1937	1950	Maria Seweryn	Maria Seweryn	PER	PER-Maria-Seweryn
+1952	1968	Wiktor Zborowski	Wiktor Zborowski	PER	PER-Wiktor-Zborowski
+1988	2005	Krzysztof Materna	Krzysztof Materna	PER	PER-Krzysztof-Materna
+2031	2034	TVN	TVN	PRO	PRO-TVN
+2035	2050	Edward Miszczak	Edward Miszczak	PER	PER-Edward-Miszczak
+2069	2085	Adam Niedzielski	Adam Niedzielski	PER	PER-Adam-Niedzielski
+2127	2154	Narodowego Funduszu Zdrowia	Narodowy Fundusz Zdrowia	ORG	ORG-National-Health-Fund-Poland
+2222	2225	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+2296	2314	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+2330	2333	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2931	2962	Narodowemu Programowi Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+3049	3052	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+3059	3075	Zbigniew Gaciong	Zbigniew Gaciong	PER	PER-Zbigniew-Gaciong
+3145	3182	Warszawskiego Uniwersytetu Medycznego	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+3222	3236	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+3302	3305	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+3368	3371	NFZ	NFZ	ORG	ORG-National-Health-Fund-Poland
+3379	3395	Centrum Medyczne	Centrum Medyczne	ORG	ORG-Medical-Centre-Warsaw-Medical-University
+3406	3409	WUM	WUM	ORG	ORG-Warsaw-Medical-University

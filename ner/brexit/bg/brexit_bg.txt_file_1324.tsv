@@ -1,0 +1,13 @@
+6	19	Ги Верхофстат	Ги Верхофстат	PER	PER-Guy-Verhofstadt
+66	73	Брекзит	Брекзит	EVT	EVT-Brexit
+116	137	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+154	161	Брекзит	Брекзит	EVT	EVT-Brexit
+162	175	Ги Верхофстат	Ги Верхофстат	PER	PER-Guy-Verhofstadt
+269	283	Великобритания	Великобритания	LOC	GPE-Great-Britain
+293	300	Ройтерс	Ройтерс	ORG	ORG-Reuters
+444	454	Верхофстат	Верхофстат	PER	PER-Guy-Verhofstadt
+487	497	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+500	506	Лондон	Лондон	LOC	GPE-London
+516	519	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+623	643	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+654	656	ЕС	ЕС	ORG	ORG-European-Union

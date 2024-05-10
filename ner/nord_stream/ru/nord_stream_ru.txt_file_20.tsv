@@ -1,0 +1,38 @@
+67	83	Северный поток–2	Северный поток–2	PRO	PRO-Nord-Stream-2
+87	96	Финляндии	Финляндия	LOC	GPE-Finland
+101	115	Финском заливе	Финский залив	LOC	LOC-Gulf-of-Finland
+186	196	Норд-Стрим	Норд-Стрим	ORG	ORG-Nord-Stream-2-AG
+256	265	Финляндии	Финляндия	LOC	GPE-Finland
+309	325	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+390	396	России	Россия	LOC	GPE-Russia
+403	418	Балтийское море	Балтийское море	LOC	LOC-Baltic-Sea
+422	430	Германии	Германия	LOC	GPE-Germany
+543	562	Госдепартамента США	Госдепартамент США	ORG	ORG-Department-of-State-USA
+563	576	Дэвид Тесслер	Дэвид Тесслер	PER	PER-David-Tessler
+597	604	Берлине	Берлин	LOC	GPE-Berlin
+720	735	Госдепартамента	Госдепартамент	ORG	ORG-Department-of-State-USA
+773	786	Дэвид Тесслер	Дэвид Тесслер	PER	PER-David-Tessler
+875	882	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
+910	923	Хандельсблатт	Хандельсблатт	PRO	PRO-Handelsblatt
+982	998	Северный поток 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+1016	1024	Германии	Германия	LOC	GPE-Germany
+1048	1051	США	США	LOC	GPE-USA
+1070	1077	Россией	Россия	LOC	GPE-Russia
+1178	1181	ФРГ	ФРГ	LOC	GPE-Germany
+1229	1232	США	США	LOC	GPE-USA
+1255	1263	Германия	Германия	LOC	GPE-Germany
+1358	1364	Трампа	Трамп	PER	PER-Donald-Trump
+1574	1588	Ангелы Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+1609	1612	ФРГ	ФРГ	LOC	GPE-Germany
+1667	1670	США	США	LOC	GPE-USA
+1734	1737	ФРГ	ФРГ	LOC	GPE-Germany
+1738	1749	Хайко Мааса	Хайко Маас	PER	PER-Heiko-Maas
+1791	1802	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+1923	1939	Северный поток 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+1998	2004	Юнипер	Юнипер	ORG	ORG-Uniper
+2096	2099	ФРГ	ФРГ	LOC	GPE-Germany
+2208	2218	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2242	2245	ФРГ	ФРГ	LOC	GPE-Germany
+2284	2302	Северного потока 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+2418	2421	ФРГ	ФРГ	LOC	GPE-Germany
+2515	2518	ФРГ	ФРГ	LOC	GPE-Germany

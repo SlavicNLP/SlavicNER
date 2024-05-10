@@ -1,0 +1,64 @@
+11	23	коронавируса	коронавирус	EVT	EVT-Covid-19
+73	85	коронавируса	коронавирус	EVT	EVT-Covid-19
+194	217	Русская служба Би-би-си	Русская служба Би-би-си	PRO	PRO-BBC-Russian
+302	308	Россию	Россия	LOC	GPE-Russia
+310	324	Великобританию	Великобритания	LOC	GPE-Great-Britain
+327	333	Канаду	Канада	LOC	GPE-Canada
+358	370	коронавируса	коронавирус	EVT	EVT-Covid-19
+573	579	России	Россия	LOC	GPE-Russia
+715	723	Superjob	Superjob	ORG	ORG-Superjob
+922	940	"""Справочник врача"""	Справочник врача	PRO	PRO-Doctor's-Handbook-App
+1119	1144	российском Центре Гамалеи	российский центр Гамалеи	ORG	ORG-Gamalea-center
+1275	1278	США	США	LOC	GPE-USA
+1287	1299	коронавируса	коронавирус	EVT	EVT-Covid-19
+1390	1409	"""Ассошиэйтед пресс"""	Ассошиэйтед пресс	ORG	ORG-AP-The-Associated-Press
+1663	1674	американцев	американцы	PER	GPE-USA
+1678	1681	США	США	LOC	GPE-USA
+1750	1773	Русская служба Би-би-си	Русская служба Би-би-си	PRO	PRO-BBC-Russian
+1910	1922	коронавируса	коронавирус	EVT	EVT-Covid-19
+2278	2284	Pfizer	Pfizer	ORG	ORG-Pfizer
+2287	2295	BioNTech	BioNTech	ORG	ORG-BioNTech
+2436	2446	британское	британский	PER	GPE-Great-Britain
+2447	2517	Агентство по регулированию лекарственных средств и медицинских товаров	Агентство по регулированию лекарственных средств и медицинских товаров	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+2519	2523	MHRA	MHRA	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+2526	2538	американское	американский	PER	GPE-USA
+2539	2618	Управление по санитарному надзору за качеством пищевых продуктов и медикаментов	Управление по санитарному надзору за качеством пищевых продуктов и медикаментов	ORG	ORG-FDA-Food-and-Drug-Administration
+2620	2623	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+2629	2657	министерство здравоохранения	министерство здравоохранения	ORG	ORG-Ministry-of-Health-Russia
+2667	2673	России	Россия	LOC	GPE-Russia
+3356	3401	Центр контроля и профилактики заболеваний США	Центр контроля и профилактики заболеваний США	ORG	ORG-Centers-for-Disease-Control-and-Prevention-USA
+3502	3509	Science	Science	PRO	PRO-Science-journal
+3534	3546	американской	американский	PER	GPE-USA
+3700	3706	Pfizer	Pfizer	ORG	ORG-Pfizer
+3709	3716	Moderna	Moderna	ORG	ORG-Moderna
+3771	3782	российского	российский	PER	GPE-Russia
+3783	3795	"""Спутника V"""	Спутник V	PRO	PRO-Sputnik-V
+3983	4009	Стэнфордского университета	Стэнфордский университет	ORG	ORG-Stanford-University
+4010	4027	Ивонна Мальдонадо	Ивонна Мальдонадо	PER	ORG-Yvonne-Maldonado
+4380	4390	британской	британский	PER	GPE-Great-Britain
+4391	4427	Национальной системы здравоохранения	Национальная система здравоохранения	ORG	ORG-NHS
+4429	4432	NHS	NHS	ORG	ORG-NHS
+4477	4483	Pfizer	Pfizer	ORG	ORG-Pfizer
+4486	4494	BioNTech	BioNTech	ORG	ORG-BioNTech
+4799	4805	Аляске	Аляска	LOC	GPE-Alaska
+5178	5184	Pfizer	Pfizer	ORG	ORG-Pfizer
+5187	5195	BioNTech	BioNTech	ORG	ORG-BioNTech
+5552	5566	коронавирусную	коронавирусный	EVT	EVT-Covid-19
+5673	5683	британское	британский	PER	GPE-Great-Britain
+5684	5754	Агентство по регулированию лекарственных средств и медицинских товаров	Агентство по регулированию лекарственных средств и медицинских товаров	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+6024	6038	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+6342	6347	Путин	Путин	PER	PER-Vladimir-Putin
+6429	6435	Москвы	Москва	LOC	GPE-Moscow
+6436	6451	Сергею Собянину	Сергей Собянин	PER	PER-Sergei-Sobyanin
+6496	6506	российскую	российский	PER	GPE-Russia
+6595	6602	россиян	россияне	PER	GPE-Russia
+6698	6705	Собянин	Собянин	PER	PER-Sergei-Sobyanin
+6706	6712	Путину	Путин	PER	PER-Vladimir-Putin
+6878	6887	Аргентины	Аргентина	LOC	GPE-Argentina
+6888	6906	Альберто Фернандес	Альберто Фернандес	PER	PER-Alberto-Fernández
+6936	6946	"""Спутнику"""	Спутник	PRO	PRO-Sputnik-V
+7008	7020	Филиппинский	Филиппинский	PER	PER-Philippines
+7031	7046	Родриго Тутерте	Родриго Тутерте	PER	PER-Rodrigo-Duterte
+7080	7091	"""Спутником"""	Спутник	PRO	PRO-Sputnik-V
+7194	7200	Европе	Европа	LOC	LOC-Europe
+7367	7381	коронавирусную	коронавирусный	EVT	EVT-Covid-19

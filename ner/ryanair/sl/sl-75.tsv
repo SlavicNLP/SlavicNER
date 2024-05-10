@@ -1,0 +1,164 @@
+441	457	Letališče Ronchi	Letališče Ronchi	LOC	LOC-Trieste-Airport
+459	463	Trst	Trst	LOC	GPE-Trieste
+465	472	Ryanair	Ryanair	ORG	ORG-Ryanair
+474	481	Italija	Italija	LOC	GPE-Italy
+483	490	Catania	Catania	LOC	GPE-Catania
+492	500	Cagliari	Cagliari	LOC	GPE-Cagliari
+502	519	Letališče Treviso	Letališče Treviso	LOC	LOC-Treviso-Airport
+521	528	Benetke	Benetke	LOC	GPE-Venice
+530	537	Ryanair	Ryanair	ORG	ORG-Ryanair
+539	546	Italija	Italija	LOC	GPE-Italy
+548	555	Catania	Catania	LOC	GPE-Catania
+557	564	Palermo	Palermo	LOC	GPE-Palermo
+566	574	Cagliari	Cagliari	LOC	GPE-Cagliari
+576	583	Lamezia	Lamezia	LOC	GPE-Lamezia
+585	593	Brindisi	Brindisi	LOC	GPE-Brindisi
+595	599	Bari	Bari	LOC	GPE-Bari
+601	608	Neapelj	Neapelj	LOC	GPE-Naples
+610	617	Španija	Španija	LOC	GPE-Spain
+619	631	Gran Canaria	Gran Canaria	LOC	GPE-Gran-Canaria
+633	641	Tenerife	Tenerife	LOC	GPE-Tenerife
+643	649	Malaga	Malaga	LOC	GPE-Malaga
+651	658	Sevilla	Sevilla	LOC	GPE-Seville
+660	668	Valencia	Valencia	LOC	GPE-Valencia
+671	676	Malta	Malta	LOC	GPE-Malta
+678	685	Valleta	Valleta	LOC	GPE-Valletta
+687	693	Maroko	Maroko	LOC	GPE-Morocco
+695	698	Fez	Fez	LOC	GPE-Fez
+702	709	Marakeš	Marakeš	LOC	GPE-Marrakesh
+711	722	Portugalska	Portugalska	LOC	GPE-Portugal
+724	729	Porto	Porto	LOC	GPE-Porto
+731	751	Letališče Marco Polo	Letališče Marco Polo	LOC	LOC-Venice-Marco-Polo-Airport
+753	760	Benetke	Benetke	LOC	GPE-Venice
+762	769	Easyjet	Easyjet	ORG	ORG-EasyJet
+771	778	Španija	Španija	LOC	GPE-Spain
+780	787	Sevilia	Sevilla	LOC	GPE-Seville
+789	798	Lanzarote	Lanzarote	LOC	GPE-Lanzarote
+800	812	Gran Canaria	Gran Canaria	LOC	GPE-Gran-Canaria
+814	822	Tenerife	Tenerife	LOC	GPE-Tenerife
+824	831	Italija	Italija	LOC	GPE-Italy
+833	840	Catania	Catania	LOC	GPE-Catania
+842	849	Neapelj	Neapelj	LOC	GPE-Naples
+851	859	Cagliari	Cagliari	LOC	GPE-Cagliari
+861	865	Bari	Bari	LOC	GPE-Bari
+867	873	Grčija	Grčija	LOC	GPE-Greece
+875	880	Solun	Solun	LOC	GPE-Solun
+882	888	Izrael	Izrael	LOC	GPE-Israel
+890	898	Tel Aviv	Tel Aviv	LOC	GPE-Tel-Aviv
+900	905	Egipt	Egipt	LOC	GPE-Egypt
+907	917	Marsa Alam	Marsa Alam	LOC	GPE-Marsa-Alam
+919	926	Hurgada	Hurgada	LOC	GPE-Hurghada
+928	934	Maroko	Maroko	LOC	GPE-Morocco
+936	943	Marakeš	Marakeš	LOC	GPE-Marrakesh
+945	954	Jordanija	Jordanija	LOC	GPE-Jordan
+956	961	Agaba	Akaba	LOC	GPE-Aqaba
+962	969	Ryanair	Ryanair	ORG	ORG-Ryanair
+971	978	Španija	Španija	LOC	GPE-Spain
+980	989	Barcelona	Barcelona	LOC	GPE-Barcelona
+991	1010	Letališče Schwechat	Letališče Schwechat	LOC	LOC-Vienna-International-Airport
+1011	1016	Dunaj	Dunaj	LOC	GPE-Vienna
+1018	1025	Wizzair	Wizzair	ORG	ORG-Wizz-Air
+1027	1034	Španija	Španija	LOC	GPE-Spain
+1036	1044	Valencia	Valencia	LOC	GPE-Valencia
+1046	1054	Tenerife	Tenerife	LOC	GPE-Tenerife
+1056	1062	Malaga	Malaga	LOC	GPE-Malaga
+1064	1070	Madrid	Madrid	LOC	GPE-Madrid
+1072	1080	Castelon	Castelon	LOC	GPE-Castellon
+1082	1090	Alicante	Alicante	LOC	GPE-Alicante
+1092	1103	Portugalska	Portugalska	LOC	GPE-Portugal
+1105	1110	Porto	Porto	LOC	GPE-Porto
+1112	1119	Lizbona	Lizbona	LOC	GPE-Lisbon
+1121	1128	Italija	Italija	LOC	GPE-Italy
+1130	1133	Rim	Rim	LOC	GPE-Rome
+1135	1142	Neapelj	Neapelj	LOC	GPE-Naples
+1144	1151	Catania	Catania	LOC	GPE-Catania
+1153	1157	Bari	Bari	LOC	GPE-Bari
+1159	1165	Grčija	Grčija	LOC	GPE-Greece
+1167	1172	Solun	Solun	LOC	GPE-Solun
+1174	1179	Atene	Atene	LOC	GPE-Athens
+1181	1186	Ciper	Ciper	LOC	GPE-Cyprus
+1188	1195	Larmaca	Larnaca	LOC	GPE-Larnaca
+1197	1204	Easyjet	Easyjet	ORG	ORG-EasyJet
+1206	1213	Italija	Italija	LOC	GPE-Italy
+1215	1222	Neapelj	Neapelj	LOC	GPE-Naples
+1224	1231	Ryanair	Ryanair	ORG	ORG-Ryanair
+1296	1306	Bratislavi	Bratislava	LOC	GPE-Bratislava
+1317	1323	Dunaja	Dunaj	LOC	GPE-Vienna
+1362	1367	Dunaj	Dunaj	LOC	GPE-Vienna
+1373	1383	Bratislave	Bratislava	LOC	GPE-Bratislava
+1398	1403	Malto	Malta	LOC	GPE-Malta
+1411	1418	Italije	Italija	LOC	GPE-Italy
+1421	1427	Grčija	Grčija	LOC	GPE-Greece
+1429	1434	Atene	Atene	LOC	GPE-Athens
+1438	1443	Solun	Solun	LOC	GPE-Solun
+1445	1451	Izrael	Izrael	LOC	GPE-Israel
+1453	1461	Tel Aviv	Tel Aviv	LOC	GPE-Tel-Aviv
+1463	1474	Portugalska	Portugalska	LOC	GPE-Portugal
+1476	1480	Faro	Faro	LOC	GPE-Faro
+1482	1489	Lizbona	Lizbona	LOC	GPE-Lisbon
+1491	1496	Porto	Porto	LOC	GPE-Porto
+1498	1505	Španija	Španija	LOC	GPE-Spain
+1507	1519	Gran Canaria	Gran Canaria	LOC	GPE-Gran-Canaria
+1521	1534	Fuerteventura	Fuerteventura	LOC	GPE-Fuerteventura
+1536	1544	Tenerife	Tenerife	LOC	GPE-Tenerife
+1546	1552	Malaga	Malaga	LOC	GPE-Malaga
+1554	1561	Sevilla	Sevilla	LOC	GPE-Seville
+1563	1571	Valencia	Valencia	LOC	GPE-Valencia
+1573	1579	Madrid	Madrid	LOC	GPE-Madrid
+1581	1590	Barcelona	Barcelona	LOC	GPE-Barcelona
+1592	1600	Alicante	Alicante	LOC	GPE-Alicante
+1602	1618	Palma de Malorca	Palma de Mallorca	LOC	GPE-Palma-de-Mallorca
+1621	1628	Italija	Italija	LOC	GPE-Italy
+1630	1633	Rim	Rim	LOC	GPE-Rome
+1635	1658	Letališče Franza Liszta	Letališče Franza Liszta	LOC	LOC-Budapest-Ferenc-Liszt-International-Airport
+1659	1669	Budimpešta	Budimpešta	LOC	GPE-Budapest
+1671	1678	Ryanair	Ryanair	ORG	ORG-Ryanair
+1680	1685	Ciper	Ciper	LOC	GPE-Cyprus
+1687	1693	Paphos	Paphos	LOC	GPE-Paphos
+1695	1701	Grčija	Grčija	LOC	GPE-Greece
+1703	1708	Atene	Atene	LOC	GPE-Athens
+1712	1717	Solun	Solun	LOC	GPE-Solun
+1719	1725	Izrael	Izrael	LOC	GPE-Israel
+1727	1735	Tel Aviv	Tel Aviv	LOC	GPE-Tel-Aviv
+1739	1750	Eilat Ramon	Eilat Ramon	LOC	GPE-Eilat-Ramon
+1752	1759	Italija	Italija	LOC	GPE-Italy
+1761	1765	Bari	Bari	LOC	GPE-Bari
+1767	1775	Brindisi	Brindisi	LOC	GPE-Brindisi
+1777	1785	Cagliari	Cagliari	LOC	GPE-Cagliari
+1787	1794	Catania	Catania	LOC	GPE-Catania
+1796	1803	Lamezia	Lamezia	LOC	GPE-Lamezia
+1805	1812	Neapelj	Neapelj	LOC	GPE-Naples
+1814	1821	Palermo	Palermo	LOC	GPE-Palermo
+1823	1826	Rim	Rim	LOC	GPE-Rome
+1828	1837	Jordanija	Jordanija	LOC	GPE-Jordan
+1839	1843	Aman	Aman	LOC	GPE-Amman
+1845	1850	Malta	Malta	LOC	GPE-Malta
+1852	1859	Valleta	Valleta	LOC	GPE-Valletta
+1861	1868	Španija	Španija	LOC	GPE-Spain
+1870	1879	Barcelona	Barcelona	LOC	GPE-Barcelona
+1881	1893	Gran Canaria	Gran Canaria	LOC	GPE-Gran-Canaria
+1895	1901	Madrid	Madrid	LOC	GPE-Madrid
+1903	1909	Malaga	Malaga	LOC	GPE-Malaga
+1911	1918	Seville	Sevilla	LOC	GPE-Seville
+1920	1928	Valencia	Valencia	LOC	GPE-Valencia
+1930	1937	Wizzair	Wizzair	ORG	ORG-Wizz-Air
+1939	1945	Izrael	Izrael	LOC	GPE-Israel
+1947	1955	Tel Aviv	Tel Aviv	LOC	GPE-Tel-Aviv
+1957	1968	Eilat Ramon	Eilat Ramon	LOC	GPE-Eilat-Ramon
+1970	1975	Malta	Malta	LOC	GPE-Malta
+1977	1984	Valleta	Valleta	LOC	GPE-Valletta
+1986	1991	Ciper	Ciper	LOC	GPE-Cyprus
+1993	2000	Larmaca	Larnaca	LOC	GPE-Larnaca
+2002	2008	Grčija	Grčija	LOC	GPE-Greece
+2010	2015	Atene	Atene	LOC	GPE-Athens
+2017	2022	Solun	Solun	LOC	GPE-Solun
+2024	2031	Italija	Italija	LOC	GPE-Italy
+2033	2037	Bari	Bari	LOC	GPE-Bari
+2039	2046	Catania	Catania	LOC	GPE-Catania
+2048	2055	Neapelj	Neapelj	LOC	GPE-Naples
+2057	2060	Rim	Rim	LOC	GPE-Rome
+2062	2073	Portugalska	Portugalska	LOC	GPE-Portugal
+2075	2082	Lizbona	Lizbona	LOC	GPE-Lisbon
+2084	2089	Porto	Porto	LOC	GPE-Porto
+2091	2115	Združeni arabski Emirati	Združeni arabski Emirati	LOC	GPE-UEA-United-Arab-Emirates
+2117	2122	Dubaj	Dubaj	LOC	GPE-Dubai

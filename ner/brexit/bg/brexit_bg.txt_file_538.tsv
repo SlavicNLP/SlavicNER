@@ -1,0 +1,10 @@
+79	86	Брекзит	Брекзит	EVT	EVT-Brexit
+135	149	Великобритания	Великобритания	LOC	GPE-Great-Britain
+200	216	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+218	220	ЕС	ЕС	ORG	ORG-European-Union
+346	354	Хоризонт	Хоризонт	PRO	PRO-Horizont-Radio
+394	408	BUSINESSEUROPE	BUSINESSEUROPE	ORG	ORG-BusinessEurope
+409	422	Маркус Байрер	Маркус Байрер	PER	PER-Markus-Beyrer
+465	485	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+506	513	Брюксел	Брюксел	LOC	GPE-Brussles
+919	926	Брекзит	Брекзит	EVT	EVT-Brexit

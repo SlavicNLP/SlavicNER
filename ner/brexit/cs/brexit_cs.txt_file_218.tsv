@@ -1,0 +1,31 @@
+9	15	Londýn	Londýn	LOC	GPE-London
+36	38	EU	EU	ORG	ORG-European-Union
+74	76	EU	EU	ORG	ORG-European-Union
+79	87	Británie	Británie	LOC	GPE-Great-Britain
+92	98	brexit	brexit	EVT	EVT-Brexit
+99	113	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+116	127	David Davis	David Davis	PER	PER-David-Davis
+151	158	Londýně	Londýn	LOC	GPE-London
+160	165	Davis	Davis	PER	PER-David-Davis
+258	266	Británie	Británie	LOC	GPE-Great-Britain
+269	271	EU	EU	ORG	ORG-European-Union
+329	339	Barnierovi	Barnier	PER	PER-Michel-Barnier
+405	412	brexitu	brexit	EVT	EVT-Brexit
+469	477	Británie	Británie	LOC	GPE-Great-Britain
+621	623	EU	EU	ORG	ORG-European-Union
+831	844	MichelBarnier	MichelBarnier	PER	PER-Michel-Barnier
+848	854	London	London	LOC	GPE-London
+931	933	UK	UK	LOC	GPE-Great-Britain
+936	938	EU	EU	ORG	ORG-European-Union
+941	952	David Davis	David Davis	PER	PER-David-Davis
+1053	1060	Bruselu	Brusel	LOC	GPE-Brussles
+1177	1184	brexitu	brexit	EVT	EVT-Brexit
+1458	1464	Londýn	Londýn	LOC	GPE-London
+1519	1521	EU	EU	ORG	ORG-European-Union
+1650	1657	Britové	Britové	PER	GPE-Great-Britain
+1731	1736	Brity	Britové	PER	GPE-Great-Britain
+1737	1743	Brexit	Brexit	EVT	EVT-Brexit
+1882	1884	EU	EU	ORG	ORG-European-Union
+1931	1933	EU	EU	ORG	ORG-European-Union
+1956	1968	Tomas Prouza	Tomas Prouza	PER	PER-Tomas-Prouza
+1971	1982	ProuzaTomas	ProuzaTomas	PER	PER-Tomas-Prouza

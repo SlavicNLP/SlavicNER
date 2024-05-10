@@ -1,0 +1,25 @@
+0	8	Германия	Германия	LOC	GPE-Germany
+20	40	"""Северный поток — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+108	126	"""Северного потока"""	"""Северный поток"""	PRO	PRO-Nord-Stream-1
+245	253	Германии	Германия	LOC	GPE-Germany
+265	269	Маас	Маас	PER	PER-Heiko-Maas
+311	322	МИД Украины	МИД Украины	ORG	ORG-Ministry-of-Foreign-Affairs-Ukraine
+323	339	Павлом Климкиным	Павел Климкин	PER	PER-Pavlo-Klimkin
+400	420	"""Северный поток – 2"""	"""Северный поток – 2"""	PRO	PRO-Nord-Stream-2
+519	525	России	Россия	LOC	GPE-Russia
+532	547	Балтийское море	Балтийское море	LOC	LOC-Baltic-Sea
+551	559	Германии	Германия	LOC	GPE-Germany
+561	564	США	США	LOC	GPE-USA
+607	613	России	Россия	LOC	GPE-Russia
+614	628	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+665	668	США	США	LOC	GPE-USA
+669	682	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+743	749	Европу	Европа	LOC	LOC-Europe
+760	768	Германии	Германия	LOC	GPE-Germany
+769	783	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+811	817	Берлин	Берлин	LOC	GPE-Berlin
+839	859	"""Северный поток – 2"""	"""Северный поток – 2"""	PRO	PRO-Nord-Stream-2
+969	976	Украину	Украина	LOC	GPE-Ukraine
+1037	1057	"""Северный поток – 2"""	"""Северный поток – 2"""	PRO	PRO-Nord-Stream-2
+1186	1193	Украину	Украина	LOC	GPE-Ukraine
+1196	1198	ЕС	ЕС	ORG	ORG-European-Union

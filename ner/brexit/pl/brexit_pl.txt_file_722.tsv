@@ -1,0 +1,101 @@
+0	11	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+36	44	brexicie	Brexit	EVT	EVT-Brexit
+45	47	UE	UE	ORG	ORG-European-Union
+57	63	Londyn	Londyn	LOC	GPE-London
+256	263	Polaków	Polacy	PER	GPE-Poland
+322	331	Radzie UE	Rada UE	ORG	ORG-European-Council
+368	376	Brukseli	Bruksela	LOC	GPE-Brussles
+379	392	Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+404	410	Londyn	Londyn	LOC	GPE-London
+427	431	Unii	Unia	ORG	ORG-European-Union
+517	521	Unii	Unia	ORG	ORG-European-Union
+523	529	Londyn	Londyn	LOC	GPE-London
+538	546	Brukseli	Bruksela	LOC	GPE-Brussles
+577	585	Irlandią	Irlandia	LOC	GPE-Ireland
+588	601	Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+740	742	UE	UE	ORG	ORG-European-Union
+764	771	Polaków	Polacy	PER	GPE-Poland
+808	821	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+879	885	brexit	Brexit	EVT	EVT-Brexit
+901	908	Rady UE	Rada UE	ORG	ORG-European-Council
+937	943	Polski	Polska	LOC	GPE-Poland
+976	980	Unii	Unia	ORG	ORG-European-Union
+999	1005	Polacy	Polacy	PER	GPE-Poland
+1102	1115	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+1190	1201	Theresa May	Theresa May	PER	PER-Theresa-May
+1247	1255	brexicie	Brexit	EVT	EVT-Brexit
+1261	1269	Bruksela	Bruksela	LOC	GPE-Brussles
+1345	1351	Londyn	Londyn	LOC	GPE-London
+1354	1356	UE	UE	ORG	ORG-European-Union
+1488	1491	May	May	PER	PER-Theresa-May
+1589	1601	brexitowcami	brexitowcy	PER	EVT-Brexit
+1668	1670	UE	UE	ORG	ORG-European-Union
+1684	1688	Unia	Unia	ORG	ORG-European-Union
+1733	1736	May	May	PER	PER-Theresa-May
+1811	1824	Charles Grant	Charles Grant	PER	PER-Charles-Grant
+1840	1866	Center for Europana Reform	Center for Europana Reform	ORG	ORG-Centre-For-European-Reform
+2021	2023	UE	UE	ORG	ORG-European-Union
+2079	2094	Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+2101	2116	klubu liberałów	Klub liberałów	ORG	ORG-Liberal-Club
+2119	2142	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+2154	2167	Wlk. Brytania	Wlk. Brytania	LOC	GPE-Great-Britain
+2206	2208	UE	UE	ORG	ORG-European-Union
+2378	2391	Wlk. Brytania	Wlk. Brytania	LOC	GPE-Great-Britain
+2442	2470	Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+2513	2522	Radzie UE	Rada UE	ORG	ORG-European-Council
+2530	2553	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+2585	2587	UE	UE	ORG	ORG-European-Union
+2626	2629	May	May	PER	PER-Theresa-May
+2676	2684	Londynie	Londyn	LOC	GPE-London
+2793	2795	UE	UE	ORG	ORG-European-Union
+2817	2825	brexicie	Brexit	EVT	EVT-Brexit
+2853	2859	Londyn	Londyn	LOC	GPE-London
+2884	2892	Brukseli	Bruksela	LOC	GPE-Brussles
+3004	3006	UE	UE	ORG	ORG-European-Union
+3065	3073	brexicie	Brexit	EVT	EVT-Brexit
+3160	3162	UE	UE	ORG	ORG-European-Union
+3195	3208	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+3452	3459	brexitu	Brexit	EVT	EVT-Brexit
+3460	3471	David Davis	David Davis	PER	PER-David-Davis
+3610	3616	Londyn	Londyn	LOC	GPE-London
+3719	3725	Londyn	Londyn	LOC	GPE-London
+3728	3730	UE	UE	ORG	ORG-European-Union
+3790	3792	UE	UE	ORG	ORG-European-Union
+3874	3882	brexicie	Brexit	EVT	EVT-Brexit
+3916	3920	Unią	Unia	ORG	ORG-European-Union
+3926	3932	Londyn	Londyn	LOC	GPE-London
+3972	3983	Theresy May	Theresa May	PER	PER-Theresa-May
+4052	4056	Unią	Unia	ORG	ORG-European-Union
+4095	4103	brexitem	Brexit	EVT	EVT-Brexit
+4145	4147	UE	UE	ORG	ORG-European-Union
+4202	4214	The Guardian	The Guardian	PRO	PRO-The-Guardian
+4218	4231	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+4289	4296	brexitu	Brexit	EVT	EVT-Brexit
+4367	4371	Unii	Unia	ORG	ORG-European-Union
+4442	4450	Brukseli	Bruksela	LOC	GPE-Brussles
+4532	4536	Unii	Unia	ORG	ORG-European-Union
+4581	4589	Londynie	Londyn	LOC	GPE-London
+4626	4628	UE	UE	ORG	ORG-European-Union
+4665	4667	UE	UE	ORG	ORG-European-Union
+4693	4697	Unię	Unia	ORG	ORG-European-Union
+4765	4769	Unii	Unia	ORG	ORG-European-Union
+4771	4777	Londyn	Londyn	LOC	GPE-London
+4791	4797	Berlin	Berlin	LOC	GPE-Berlin
+4799	4804	Paryż	Paryż	LOC	GPE-Paris
+4807	4825	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+4888	4901	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+4920	4926	Londyn	Londyn	LOC	GPE-London
+4984	4996	Trybunału UE	Trybunał UE	ORG	ORG-European-Court-of-Justice
+5193	5197	Unii	Unia	ORG	ORG-European-Union
+5205	5213	Holandia	Holandia	LOC	GPE-Holland
+5215	5221	Włochy	Włochy	LOC	GPE-Italy
+5223	5229	Polska	Polska	LOC	GPE-Poland
+5329	5337	Brukseli	Bruksela	LOC	GPE-Brussles
+5344	5351	Londynu	Londyn	LOC	GPE-London
+5393	5395	UE	UE	ORG	ORG-European-Union
+5421	5433	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+5435	5444	Londynowi	Londyn	LOC	GPE-London
+5475	5483	brexitem	Brexit	EVT	EVT-Brexit
+5557	5568	Theresy May	Theresa May	PER	PER-Theresa-May
+5570	5585	Tomasz Bielecki	Tomasz Bielecki	PER	PER-Tomasz-Bielecki
+5587	5595	Bruksela	Bruksela	LOC	GPE-Brussles

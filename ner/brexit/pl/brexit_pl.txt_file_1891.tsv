@@ -1,0 +1,28 @@
+0	6	Niemcy	Niemcy	LOC	GPE-Germany
+93	100	brexitu	Brexit	EVT	EVT-Brexit
+128	135	Europie	Europa	LOC	LOC-Europe
+172	174	UE	UE	ORG	ORG-European-Union
+208	217	Niemczech	Niemcy	LOC	GPE-Germany
+250	267	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+295	312	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+316	324	Londynie	Londyn	LOC	GPE-London
+373	380	brexitu	Brexitu	EVT	EVT-Brexit
+457	463	Europa	Europa	LOC	LOC-Europe
+483	490	Niemiec	Niemcy	LOC	GPE-Germany
+516	522	Europy	Europa	LOC	LOC-Europe
+585	598	Sören Brandes	Sören Brandes	PER	PER-Sören-Brandes
+622	644	March for a new Europe	March for a new Europe	EVT	EVT-March-for-a-new-Europe
+648	656	Berlinie	Berlin	LOC	GPE-Berlin
+849	855	Europy	Europa	LOC	LOC-Europe
+980	987	Berlina	Berlin	LOC	GPE-Berlin
+1000	1017	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1077	1083	Europa	Europa	LOC	LOC-Europe
+1103	1110	Niemiec	Niemcy	LOC	GPE-Germany
+1120	1126	Europa	Europa	LOC	LOC-Europe
+1261	1265	Unią	Unia	ORG	ORG-European-Union
+1426	1433	Kolonii	Kolonia	LOC	GPE-Cologne
+1436	1445	Monachium	Monachium	LOC	GPE-Munich
+1451	1458	Europie	Europa	LOC	LOC-Europe
+1471	1479	Lizbonie	Lizbona	LOC	GPE-Lisbon
+1482	1492	Kopenhadze	Kopenhaga	LOC	GPE-Copenhagen
+1499	1502	dpa	DPA	ORG	ORG-DPA

@@ -1,0 +1,50 @@
+0	13	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+20	27	Německo	Německo	LOC	GPE-Germany
+40	45	Rusku	Rusko	LOC	GPE-Russia
+60	65	Trump	Trump	PER	PER-Donald-Trump
+67	75	New York	New York	LOC	GPE-New-York
+96	109	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+142	147	Ruska	Rusko	LOC	GPE-Russia
+157	164	Německa	Německo	LOC	GPE-Germany
+172	179	Německo	Německo	LOC	GPE-Germany
+242	254	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+267	290	Valnému shromáždění OSN	Valné shromáždění OSN	ORG	ORG-United-Nations-General-Assembly
+293	302	New Yorku	New York	LOC	GPE-New-York
+328	335	Německo	Německo	LOC	GPE-Germany
+338	344	Ruskem	Rusko	LOC	GPE-Russia
+352	367	Baltického moře	Baltské moře	LOC	LOC-Baltic-Sea
+369	374	Trump	Trump	PER	PER-Donald-Trump
+420	426	Moskva	Moskva	LOC	GPE-Moscow
+446	452	Evropě	Evropa	LOC	LOC-Europe
+455	460	Rusko	Rusko	LOC	GPE-Russia
+473	480	Trumpův	Trump	PER	PER-Donald-Trump
+515	523	Evropany	Evropané	PER	LOC-Europe
+625	638	Nord Stream 1	Nord Stream 1	PRO	PRO-Nord-Stream-1
+665	686	východoevropské státy	východoevropské státy	LOC	LOC-Eastern-Europe
+696	702	Polsko	Polsko	LOC	GPE-Poland
+708	716	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+776	783	střední	střední	LOC	LOC-Central-Europe
+786	800	západní Evropy	západní Evropa	LOC	LOC-Western-Europe
+806	817	Bílého domu	Bílý dům	LOC	LOC-White-House
+844	848	NATO	NATO	ORG	ORG-NATO
+857	864	Německo	Německo	LOC	GPE-Germany
+881	886	Ruska	Rusko	LOC	GPE-Russia
+961	974	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+994	999	Rusko	Rusko	LOC	GPE-Russia
+1001	1007	Berlín	Berlín	LOC	GPE-Berlin
+1014	1022	Trumpova	Trump	PER	PER-Donald-Trump
+1141	1156	Dan Brouillette	Dan Brouillette	PER	PER-Dan-Brouillette
+1205	1209	Bild	Bild	PRO	PRO-Bild
+1267	1274	Německa	Německo	LOC	GPE-Germany
+1331	1334	USA	USA	LOC	GPE-USA
+1359	1364	Ruska	Rusko	LOC	GPE-Russia
+1399	1406	Německa	Německo	LOC	GPE-Germany
+1431	1442	Brouillette	Brouillette	PER	PER-Dan-Brouillette
+1555	1562	Gazprom	Gazprom	ORG	ORG-Gazprom
+1603	1610	Gazprom	Gazprom	ORG	ORG-Gazprom
+1640	1653	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1676	1691	Richard Grenell	Richard Grenell	PER	PER-Richard-Grenell
+1735	1751	Angela Merkelová	Angela Merkelová	PER	PER-Angela-Merkel
+1752	1758	Trumpa	Trump	PER	PER-Donald-Trump
+1779	1786	Německo	Německo	LOC	GPE-Germany
+1809	1824	Spojených států	Spojené státy	LOC	GPE-USA

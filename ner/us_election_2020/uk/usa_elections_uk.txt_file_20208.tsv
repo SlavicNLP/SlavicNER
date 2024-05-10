@@ -1,0 +1,22 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+30	41	інавгурацію	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+42	49	Байдена	Байден	PER	PER-Joe-Biden
+120	131	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+159	170	Білого дому	Білий дім	ORG	ORG-White-House
+171	184	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+217	228	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+249	252	США	США	LOC	GPE-USA
+253	264	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+333	340	Twitter	Twitter	PRO	PRO-Twitter
+476	487	інавгурацію	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+489	500	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+531	536	Трамп	Трамп	PER	PER-Donald-Trump
+551	564	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+600	617	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+727	739	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+816	827	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+839	861	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+901	916	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+940	949	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+1008	1016	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+1018	1025	Конгрес	Конгрес	ORG	ORG-United-States-Congress

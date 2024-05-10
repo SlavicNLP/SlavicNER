@@ -1,0 +1,33 @@
+16	22	brexit	brexit	EVT	EVT-Brexit
+35	42	Francii	Francie	LOC	GPE-France
+69	81	Nigel Lawson	Nigel Lawson	PER	PER-Nigel-Lawson
+119	126	Francii	Francie	LOC	GPE-France
+168	182	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+185	198	Evropské unie	Evropská unie	ORG	ORG-European-Union
+232	238	Lawson	Lawson	PER	PER-Nigel-Lawson
+278	284	Evropu	Evropa	LOC	LOC-Europe
+299	312	Evropské unii	Evropská unie	ORG	ORG-European-Union
+411	427	Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+428	440	Paul Butters	Paul Butters	PER	PER-Paul-Butters
+460	467	Lawsona	Lawson	PER	PER-Nigel-Lawson
+634	641	Francii	Francie	LOC	GPE-France
+680	685	Brity	Britové	PER	GPE-Great-Britain
+696	703	Francii	Francie	LOC	GPE-France
+705	717	The Conexion	The Conexion	PRO	PRO-Connexion
+718	724	Lawson	Lawson	PER	PER-Nigel-Lawson
+782	792	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+821	833	The Guardian	The Guardian	PRO	PRO-The-Guardian
+851	857	Evropu	Evropa	LOC	LOC-Europe
+875	882	Francii	Francie	LOC	GPE-France
+935	942	Francie	Francie	LOC	GPE-France
+944	946	EU	EU	ORG	ORG-European-Union
+1061	1069	Británie	Británie	LOC	GPE-Great-Britain
+1072	1076	Unie	Unie	ORG	ORG-European-Union
+1119	1127	Británii	Británii	LOC	GPE-Great-Britain
+1232	1234	EU	EU	ORG	ORG-European-Union
+1246	1254	Británii	Británie	LOC	GPE-Great-Britain
+1265	1270	Britů	Britové	PER	GPE-Great-Britain
+1289	1291	EU	EU	ORG	ORG-European-Union
+1319	1325	Britům	Britové	PER	GPE-Great-Britain
+1329	1336	Francii	Francie	LOC	GPE-France
+1346	1358	The Guardian	The Guardian	PRO	PRO-The-Guardian

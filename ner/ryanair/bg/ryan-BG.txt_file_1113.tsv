@@ -1,0 +1,22 @@
+0	8	Българин	българин	PER	GPE-Bulgaria
+12	15	Рим	Рим	LOC	GPE-Rome
+73	80	българи	българи	PER	GPE-Bulgaria
+178	186	България	България	LOC	GPE-Bulgaria
+197	204	българи	българи	PER	GPE-Bulgaria
+223	237	Летище Чампино	Летище Чампино	LOC	LOC-Ciampino-Airport
+240	243	Рим	Рим	LOC	GPE-Rome
+264	269	София	София	LOC	GPE-Sofia
+380	391	България ер	България ер	ORG	ORG-Bulgaria-Air
+401	418	Здравей, България	Здравей, България	PRO	PRO-Zdravey-Bulgaria
+423	427	NOVA	NOVA	PRO	PRO-NOVATV
+428	441	Огнян Манолев	Огнян Манолев	PER	PER-Ognyan-Manolev
+576	584	България	България	LOC	GPE-Bulgaria
+741	748	Манолев	Манолев	PER	PER-Ognyan-Manolev
+866	874	България	България	LOC	GPE-Bulgaria
+1063	1071	Райънеър	Райънеър	ORG	ORG-Ryanair
+1257	1264	Манолев	Манолев	PER	PER-Ognyan-Manolev
+1357	1364	българи	българи	PER	GPE-Bulgaria
+1462	1470	България	България	LOC	GPE-Bulgaria
+1483	1491	Vesti.bg	Vesti.bg	PRO	PRO-Vesti.bg
+1495	1502	Nova.bg	Nova.bg	PRO	PRO-nova.bg
+1513	1526	Николай Киров	Николай Киров	PER	PER-Nikolay-Kirov

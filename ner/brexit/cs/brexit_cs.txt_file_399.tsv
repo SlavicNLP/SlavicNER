@@ -1,0 +1,29 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+66	73	Cameron	Cameron	PER	PER-David-Cameron
+113	120	Britové	Britové	PER	GPE-Great-Britain
+152	172	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+175	188	Evropské unie	Evropská unie	ORG	ORG-European-Union
+236	270	Světovém ekonomickém fóru v Davosu	Světové ekonomické fórum v Davosu	EVT	EVT-World-Economic-Forum-Davos
+334	347	David Cameron	David Cameron	PER	PER-David-Cameron
+424	429	Davos	Davos	LOC	GPE-Davos
+431	440	Švýcarsko	Švýcarsko	LOC	GPE-Switzerland
+502	515	David Cameron	David Cameron	PER	PER-David-Cameron
+549	562	Richard Brian	Richard Brian	PER	PER-Grenville-Richards
+572	579	Reuters	Reuters	ORG	ORG-Reuters
+696	703	Cameron	Cameron	PER	PER-David-Cameron
+736	753	Lakshmim Mittalem	Lakshmi Mittal	PER	PER-Lakshmi-Mittal
+773	779	Davosu	Davos	LOC	GPE-Davos
+867	881	Channel 5 News	Channel 5 News	PRO	PRO-360-TV-channel
+893	901	Británie	Británie	LOC	GPE-Great-Britain
+904	917	Evropské unie	Evropská unie	ORG	ORG-European-Union
+977	984	Cameron	Cameron	PER	PER-David-Cameron
+1064	1084	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+1125	1132	brexitu	brexit	EVT	EVT-Brexit
+1172	1193	Konzervativní stranou	Konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+1196	1204	Británií	Británie	LOC	GPE-Great-Britain
+1241	1255	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+1275	1283	Británie	Británie	LOC	GPE-Great-Britain
+1286	1299	Evropské unii	Evropská unie	ORG	ORG-European-Union
+1397	1404	Cameron	Cameron	PER	PER-David-Cameron
+1528	1540	Project Fear	Project Fear	PRO	PRO-Project-Fear
+1593	1596	ČTK	ČTK	ORG	ORG-CTK

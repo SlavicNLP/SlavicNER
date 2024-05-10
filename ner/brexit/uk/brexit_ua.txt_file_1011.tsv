@@ -1,0 +1,37 @@
+6	14	Британія	Британія	LOC	GPE-Great-Britain
+38	56	Європейського суду	Європейський суд	ORG	ORG-European-Court-of-Justice
+59	62	Мей	Мей	PER	PER-Theresa-May
+80	96	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+115	121	Brexit	Brexit	EVT	EVT-Brexit
+157	175	Європейського суду	Європейський суд	ORG	ORG-European-Court-of-Justice
+195	203	Британії	Британія	LOC	GPE-Great-Britain
+206	208	ЄС	ЄС	LOC	ORG-European-Union
+237	243	Лондон	Лондон	LOC	GPE-London
+325	343	Європейського суду	Європейський суд	ORG	ORG-European-Court-of-Justice
+405	408	LBC	LBC	ORG	ORG-LBC
+482	488	Brexit	Brexit	EVT	EVT-Brexit
+532	540	Британії	Британія	LOC	GPE-Great-Britain
+543	545	ЄС	ЄС	LOC	ORG-European-Union
+589	607	Європейським судом	Європейський суд	ORG	ORG-European-Court-of-Justice
+632	647	Велику Британію	Велика Британія	LOC	GPE-Great-Britain
+855	858	Мей	Мей	PER	PER-Theresa-May
+895	901	Brexit	Brexit	EVT	EVT-Brexit
+979	985	Brexit	Brexit	EVT	EVT-Brexit
+1017	1034	Раніл Джаявардена	Раніл Джаяварден	PER	PER-Ranil-Dzhayavardena
+1054	1072	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+1073	1084	Шейлеш Вара	Шейлеш Вара	PER	PER-Shailesh-Vara
+1099	1105	Brexit	Brexit	EVT	EVT-Brexit
+1106	1118	Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+1154	1166	Естер Маквей	Естер Маквей	PER	PER-Ester-Makvi
+1218	1221	Мей	Мей	PER	PER-Theresa-May
+1247	1253	Brexit	Brexit	EVT	EVT-Brexit
+1261	1267	Brexit	Brexit	EVT	EVT-Brexit
+1366	1374	Британії	Британія	LOC	GPE-Great-Britain
+1383	1386	МЗС	МЗС	ORG	ORG-Foreign-Office
+1387	1400	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1426	1432	Brexit	Brexit	EVT	EVT-Brexit
+1455	1465	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1513	1515	ЄС	ЄС	LOC	ORG-European-Union
+1542	1545	Мей	Мей	PER	PER-Theresa-May
+1560	1575	Мінфін Британії	Мінфін Британії	ORG	ORG-Ministry-of-Finance-UK
+1646	1652	Brexit	Brexit	EVT	EVT-Brexit

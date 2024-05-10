@@ -1,0 +1,16 @@
+23	29	Blatný	Blatný	PER	PER-Jan-Blatny
+98	108	koronaviru	koronavirus	EVT	EVT-Covid-19
+149	151	ČR	ČR	LOC	GPE-Czech-Republic
+280	290	Štědrý den	Štědrý den	EVT	EVT-Christmas-Eve
+305	308	PES	PES	PRO	PRO-PES-Anti-epidemic-system-Czech-Republic
+364	369	Česko	Česko	LOC	GPE-Czech-Republic
+399	402	PES	PES	PRO	PRO-PES-Anti-epidemic-system-Czech-Republic
+528	538	Jan Blatný	Jan Blatný	PER	PER-Jan-Blatny
+543	546	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+610	616	Pfizer	Pfizer	ORG	ORG-Pfizer
+619	627	BioNTech	BioNTech	ORG	ORG-BioNTech
+805	823	Spojené království	Spojené království	LOC	GPE-Great-Britain
+940	950	Daily Mail	Daily Mail	PRO	PRO-Daily-Mail
+1007	1017	covidem-19	covid-19	EVT	EVT-Covid-19
+1083	1089	Itálii	Itálie	LOC	GPE-Italy
+1112	1122	koronaviru	koronavirus	EVT	EVT-Covid-19

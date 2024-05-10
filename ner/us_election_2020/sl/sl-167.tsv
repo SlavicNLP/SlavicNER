@@ -1,0 +1,72 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+12	20	Trumpovi	Trump	PER	PER-Donald-Trump
+55	60	Bidna	Biden	PER	PER-Joe-Biden
+138	150	koronavirusu	koronavirus	EVT	EVT-Covid-19
+218	221	ZDA	ZDA	LOC	GPE-USA
+222	231	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+342	345	ZDA	ZDA	LOC	GPE-USA
+346	358	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+431	450	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+472	477	Trump	Trump	PER	PER-Donald-Trump
+622	627	Biden	Biden	PER	PER-Joe-Biden
+746	755	Trumpovih	Trump	PER	PER-Donald-Trump
+777	782	Biden	Biden	PER	PER-Joe-Biden
+927	932	Biden	Biden	PER	PER-Joe-Biden
+1026	1031	Biden	Biden	PER	PER-Joe-Biden
+1192	1195	ZDA	ZDA	LOC	GPE-USA
+1196	1209	Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+1229	1272	senatnega odbora za obveščevalne dejavnosti	senatni odbor za obveščevalne dejavnosti	ORG	ORG-United-States-Senate-Select-Committee-on-Intelligence
+1383	1388	Trump	Trump	PER	PER-Donald-Trump
+1429	1435	Iranom	Iran	LOC	GPE-Iran
+1500	1505	Biden	Biden	PER	PER-Joe-Biden
+1625	1630	Bidna	Biden	PER	PER-Joe-Biden
+1721	1733	koronavirusu	koronavirus	EVT	EVT-Covid-19
+1813	1816	ZDA	ZDA	LOC	GPE-USA
+1921	1927	Trumpu	Trump	PER	PER-Donald-Trump
+1969	1976	Bidnovo	Biden	PER	PER-Joe-Biden
+2050	2062	koronavirusu	koronavirus	EVT	EVT-Covid-19
+2065	2072	Bidnovo	Biden	PER	PER-Joe-Biden
+2138	2168	Ameriškega združenja bolnišnic	Ameriško združenje bolnišnic	ORG	ORG-American-Hospital-Association
+2169	2184	Richard Pollack	Richard Pollack	PER	PER-Richard-Pollack
+2204	2237	Ameriškega zdravniškega združenja	Ameriško zdravniško združenje	ORG	ORG-American-Medical-Association
+2238	2250	James Madara	James Madara	PER	PER-James-Madara
+2274	2312	Združenja ameriških medicinskih sester	Združenje ameriških medicinskih sester	ORG	ORG-American-Nurses-Association
+2313	2335	Debbie Dawson Hatmaker	Debbie Dawson Hatmaker	PER	PER-Debbie-Dawson-Hatmaker
+2340	2353	koronavirusom	koronavirus	EVT	EVT-Covid-19
+2362	2365	ZDA	ZDA	LOC	GPE-USA
+2385	2409	univerze Johnsa Hopkinsa	Univerza Johna Hopkinsa	ORG	ORG-John-Hopkins-University
+2544	2548	Iowe	Iowa	LOC	GPE-Iowa
+2549	2563	Chuck Grassley	Chuck Grassley	PER	PER-Chuck-Grassley
+2681	2694	Mikom Penceom	Mike Pence	PER	PER-Mike-Pence
+2740	2752	Nancy Pelosi	Nancy Pelosi	PER	PER-Nancy-Pelosi
+2754	2762	Grassley	Grassley	PER	PER-Chuck-Grassley
+2860	2865	Trump	Trump	PER	PER-Donald-Trump
+2920	2932	koronavirusu	koronavirus	EVT	EVT-Covid-19
+3050	3056	Pfizer	Pfizer	ORG	ORG-Pfizer
+3060	3067	Moderna	Moderna	ORG	ORG-Moderna
+3071	3080	Beli hiši	Bela hiša	LOC	LOC-White-House
+3102	3114	zahvalni dan	zahvalni dan	EVT	EVT-Thanksgiving-Day
+3262	3274	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+3311	3324	Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+3373	3381	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+3445	3453	Trumpove	Trump	PER	PER-Donald-Trump
+3472	3484	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+3487	3492	Biden	Biden	PER	PER-Joe-Biden
+3645	3656	Rona Klaina	Ron Klain	PER	PER-Ron-Klain
+3658	3677	Jen O'Malley Dillon	Jen O'Malley Dillon	PER	PER-Jennifer-O'Malley-Dillon
+3760	3770	Dana Remus	Dana Remus	PER	PER-Dana-Remus
+3790	3799	Bele hiše	Bela hiša	LOC	LOC-White-House
+3815	3824	Louisiane	Louisiana	LOC	GPE-Louisiana
+3825	3840	Cedric Richmond	Cedric Richmond	PER	PER-Cedric-Richmond
+3856	3893	urada Bele hiše za odnose z javnostmi	urad Bele hiše za odnose z javnostmi	ORG	ORG-US-Office-of-Public-Engagement
+3895	3909	Annie Tomasini	Annie Tomasini	PER	PER-Annie-Tomasini
+3950	3972	Julie Chavez Rodriguez	Julie Chavez Rodriguez	PER	PER-Julie-Chavez-Rodriguez
+3988	4023	urada Bele hiše za medvladne zadeve	urad Bele hiše za medvladne zadeve	ORG	ORG-White-House-Office-of-Intergovernmental-Affairs
+4062	4065	ZDA	ZDA	LOC	GPE-USA
+4067	4072	Bidna	Biden	PER	PER-Joe-Biden
+4074	4088	Steve Richetti	Steve Richetti	PER	PER-Steve-Richetti
+4147	4159	Mike Donilon	Mike Donilon	PER	PER-Mike-Donilon
+4212	4215	ZDA	ZDA	LOC	GPE-USA
+4216	4226	Jill Biden	Jill Biden	PER	PER-Jill-Biden
+4263	4271	Urugvaju	Urugvaj	LOC	GPE-Uruguay
+4272	4298	J ulisso Reynoso Pantaleon	Julissa Reynosa Pantaleon	PER	PER-Julissa-Reynosa-Pantaleon

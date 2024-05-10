@@ -1,0 +1,20 @@
+106	117	Белого дома	Белый дом	LOC	LOC-White-House
+118	130	Сара Сандерс	Сара Сандерс	PER	PER-Sarah-Sanders
+158	169	Белого дома	Белый дом	LOC	LOC-White-House
+223	234	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+315	326	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+329	337	Лондоном	Лондон	LOC	GPE-London
+352	361	Интерфакс	Интерфакс	ORG	ORG-Interfax
+384	389	Трамп	Трамп	PER	PER-Donald-Trump
+433	443	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+498	501	США	США	LOC	GPE-USA
+504	512	Британии	Британия	LOC	GPE-Great-Britain
+653	671	европейским союзом	европейский союз	ORG	ORG-European-Union
+697	703	Brexit	Brexit	EVT	EVT-Brexit
+704	715	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+820	826	Англии	Англия	LOC	GPE-Great-Britain
+829	847	европейским союзом	европейский союз	ORG	ORG-European-Union
+854	860	Brexit	Brexit	EVT	EVT-Brexit
+872	875	США	США	LOC	GPE-USA
+876	889	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+928	934	Англию	Англия	LOC	GPE-Great-Britain

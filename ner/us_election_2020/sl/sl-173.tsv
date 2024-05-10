@@ -1,0 +1,51 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+75	87	republikance	republikanci	ORG	ORG-Republican-Party-USA
+91	94	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+96	108	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+166	178	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+251	254	Fox	Fox	PRO	PRO-Fox-News
+382	385	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+460	472	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+496	504	Fox News	Fox News	PRO	PRO-Fox-News
+522	533	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+598	605	Arizoni	Arizona	LOC	GPE-Arizona
+697	712	Mario Bartiromo	Maria Bartiromo	PER	PER-Maria-Bartiromo
+716	721	Trump	Trump	PER	PER-Donald-Trump
+857	865	Ken Star	Ken Star	PER	PER-Ken-Star
+912	920	Trumpove	Trump	PER	PER-Donald-Trump
+1043	1048	Trump	Trump	PER	PER-Donald-Trump
+1093	1104	Bartiromovo	Bartiromo	PER	PER-Maria-Bartiromo
+1236	1241	Bidna	Biden	PER	PER-Joe-Biden
+1340	1345	Trump	Trump	PER	PER-Donald-Trump
+1387	1394	Georgie	Georgia	LOC	GPE-Georgia-US-state
+1395	1407	Briana Kempa	Brian Kemp	PER	PER-Brian-Kemp
+1451	1456	Trump	Trump	PER	PER-Donald-Trump
+1460	1465	Kempa	Kempa	PER	PER-Brian-Kemp
+1516	1521	Biden	Biden	PER	PER-Joe-Biden
+1537	1544	Georgii	Georgia	LOC	GPE-Georgia-US-state
+1634	1638	Kemp	Kemp	PER	PER-Brian-Kemp
+1668	1675	Georgii	Georgia	LOC	GPE-Georgia-US-state
+1687	1692	Trump	Trump	PER	PER-Donald-Trump
+1722	1727	Biden	Biden	PER	PER-Joe-Biden
+1737	1743	Trumpa	Trump	PER	PER-Donald-Trump
+1947	1952	Trump	Trump	PER	PER-Donald-Trump
+1976	1995	vrhovno sodišče ZDA	vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+2128	2134	Trumpa	Trump	PER	PER-Donald-Trump
+2204	2230	pravosodno ministrstvo ZDA	pravosodno ministrstvo ZDA	ORG	ORG-US-Department-of-Justice
+2234	2237	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+2356	2359	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+2360	2374	Jamesa Comeyja	James Comey	PER	PER-James-Comey
+2484	2489	Trump	Trump	PER	PER-Donald-Trump
+2541	2556	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+2605	2613	Dominion	Dominion	ORG	ORG-Dominion-Voting-Systems
+2664	2669	Bidnu	Biden	PER	PER-Joe-Biden
+2678	2687	Trumpovih	Trump	PER	PER-Donald-Trump
+2759	2763	Kuba	Kuba	LOC	GPE-Cuba
+2767	2776	Venezuela	Venezuela	LOC	GPE-Venezuela
+2792	2806	Hugom Chavezom	Hugo Chavez	PER	PER-Hugo-Chavez
+2979	2987	Dominion	Dominion	ORG	ORG-Dominion-Voting-Systems
+3039	3048	Venezuelo	Venezuela	LOC	GPE-Venezuela
+3053	3057	Kubo	Kuba	LOC	GPE-Cuba
+3120	3128	Dominion	Dominion	ORG	ORG-Dominion-Voting-Systems
+3214	3223	Trumpovih	Trump	PER	PER-Donald-Trump
+3256	3264	Dominion	Dominion	ORG	ORG-Dominion-Voting-Systems

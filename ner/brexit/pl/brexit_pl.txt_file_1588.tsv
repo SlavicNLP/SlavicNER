@@ -1,0 +1,86 @@
+17	29	Westminsteru	Westminster	LOC	LOC-Westminster-Hall
+167	177	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+205	209	Irak	Irak	LOC	GPE-Iraq
+268	281	David Cameron	David Cameron	PER	PER-David-Cameron
+322	327	Syrii	Syria	LOC	GPE-Syria
+336	343	Francją	Francja	LOC	GPE-France
+349	360	Westminster	Westminster	LOC	LOC-Westminster-Hall
+429	440	Theresa May	Theresa May	PER	PER-Theresa-May
+523	538	Rzeczpospolitej	Rzeczpospolita	PRO	PRO-Rzeczpospolita
+540	548	Ian Bond	Ian Bond	PER	PER-Ian-Bond
+572	598	Center for European Reform	Center for European Reform	ORG	ORG-Centre-For-European-Reform
+600	603	CER	CER	ORG	ORG-Centre-For-European-Reform
+616	622	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+708	717	Izbą Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+793	798	Syrii	Syria	LOC	GPE-Syria
+950	955	Syrii	Syria	LOC	GPE-Syria
+1243	1246	May	May	PER	PER-Theresa-May
+1257	1263	torysi	torysi	PER	ORG-Tories
+1289	1299	laburzyści	laburzyści	PER	ORG-Labour-Party-UK
+1354	1360	YouGov	YouGov	ORG	ORG-YouGov
+1411	1423	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1559	1565	YouGov	YouGov	ORG	ORG-YouGov
+1590	1602	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1642	1647	Syrię	Syria	LOC	GPE-Syria
+1717	1722	Syrię	Syria	LOC	GPE-Syria
+1874	1879	Rosji	Rosja	LOC	GPE-Russia
+1918	1921	ONZ	ONZ	ORG	ORG-United-Nations
+1975	1980	Syrii	Syria	LOC	GPE-Syria
+1995	2006	laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+2007	2020	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+2074	2078	NATO	NATO	ORG	ORG-NATO
+2129	2146	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2214	2222	Rosjanie	Rosjanie	PER	GPE-Russia
+2230	2248	Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+2254	2257	May	May	PER	PER-Theresa-May
+2277	2299	Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+2300	2311	Vince Cable	Vince Cable	PER	PER-Vince-Cable
+2479	2484	Syrii	Syria	LOC	GPE-Syria
+2520	2546	Szkockiej Partii Narodowej	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+2548	2551	SNP	SNP	ORG	ORG-Scottish-National-Party
+2553	2568	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+2617	2624	torysów	torysi	PER	ORG-Tories
+2626	2629	May	May	PER	PER-Theresa-May
+2767	2803	Demokratycznej Partii Unionistycznej	Demokratyczna Partia Unionistyczna	ORG	ORG-DUP-Democratic-Unionist-Party
+2806	2824	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+2959	2966	brexitu	Brexit	EVT	EVT-Brexit
+3013	3022	Izbę Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+3201	3224	Institute of Government	Institute of Government	ORG	ORG-Institute-of-Government
+3488	3497	Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+3577	3581	Unii	Unia	ORG	ORG-European-Union
+3602	3611	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+3639	3647	Brukselą	Bruksela	LOC	GPE-Brussles
+3828	3835	torysów	torysi	PER	ORG-Tories
+3838	3850	laburzystami	laburzyści	PER	ORG-Labour-Party-UK
+3879	3886	brexitu	Brexit	EVT	EVT-Brexit
+4152	4160	Ian Bond	Ian Bond	PER	PER-Ian-Bond
+4202	4209	brexitu	Brexit	EVT	EVT-Brexit
+4243	4255	Open Britain	Open Britain	ORG	ORG-Open-Britain
+4420	4430	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+4447	4457	Iana Bonda	Ian Bond	PER	PER-Ian-Bond
+4470	4482	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+4523	4528	Iraku	Irak	LOC	GPE-Iraq
+4571	4582	laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+4608	4614	Blaira	Blair	PER	PER-Tony-Blair
+4650	4657	torysów	torysi	PER	ORG-Tories
+4658	4669	Anna Soubry	Anna Soubry	PER	PER-Anna-Soubry
+4671	4682	laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+4683	4695	Chuka Umunna	Chuka Umunna	PER	PER-Chuka-Umunna
+4709	4718	zielonych	Zieloni	ORG	ORG-Green-Party-UK
+4719	4733	Caroline Lucas	Caroline Lucas	PER	PER-Caroline-Lucas
+4736	4758	Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+4759	4769	Layla Oran	Layla Oran	PER	PER-Layla-Oran
+4853	4857	Unii	Unia	ORG	ORG-European-Union
+4927	4934	Corbyna	Corbyn	PER	PER-Jeremy-Corbyn
+4942	4954	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+5093	5101	Wspólnot	Wspólnoty	ORG	ORG-European-Union
+5138	5148	laburzyści	laburzyści	PER	ORG-Labour-Party-UK
+5287	5295	Brukselą	Bruksela	LOC	GPE-Brussles
+5355	5361	Anglii	Anglia	LOC	GPE-England
+5398	5410	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+5453	5459	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+5496	5503	Brexitu	Brexit	EVT	EVT-Brexit
+5579	5591	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+5630	5638	Ian Bond	Ian Bond	PER	PER-Ian-Bond
+5700	5708	Brukselą	Bruksela	LOC	GPE-Brussles
+5907	5910	May	May	PER	PER-Theresa-May

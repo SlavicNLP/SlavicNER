@@ -1,0 +1,22 @@
+0	2	FP	FP	ORG	ORG-FP-Agency
+4	7	USA	USA	LOC	GPE-USA
+23	38	Nord Stream - 2	Nord Stream - 2	PRO	PRO-Nord-Stream-2
+57	60	USA	USA	LOC	GPE-USA
+251	262	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+273	275	FP	FP	ORG	ORG-FP-Agency
+635	661	ministerstva zahraničí USA	ministerstvo zahraničí USA	ORG	ORG-Ministry-of-Foreign-Affairs-USA
+674	676	FP	FP	ORG	ORG-FP-Agency
+687	694	Trumpův	Trump	PER	PER-Donald-Trump
+729	740	John Bolton	John Bolton	PER	PER-John-Bolton
+771	774	USA	USA	LOC	GPE-USA
+785	798	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+824	827	USA	USA	LOC	GPE-USA
+830	836	Evropy	Evropa	LOC	LOC-Europe
+960	971	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+1003	1034	Rady pro národní bezpečnost USA	Rada pro národní bezpečnost USA	ORG	ORG-United-States-National-Security-Council
+1091	1097	Evropě	Evropa	LOC	LOC-Europe
+1137	1150	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1193	1198	Ruska	Rusko	LOC	GPE-Russia
+1323	1325	FP	FP	ORG	ORG-FP-Agency
+1337	1340	USA	USA	LOC	GPE-USA
+1476	1489	Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2

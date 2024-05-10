@@ -1,0 +1,45 @@
+15	20	Тръмп	Тръмп	PER	PER-Donald-Trump
+83	109	американското правителство	американско правителство	ORG	ORG-Government-of-USA
+150	153	САЩ	САЩ	LOC	GPE-USA
+194	201	Мексико	Мексико	LOC	GPE-Мexico
+306	319	Ерика Пинейро	Ерика Пинейро	PER	PER-Erika-Pinheiro
+367	379	Al Otro Lado	Al Otro Lado	ORG	ORG-Al-Otro-Lado
+383	395	Лос Анджелис	Лос Анджелис	LOC	GPE-Los-Angeles
+486	489	САЩ	САЩ	LOC	GPE-USA
+576	583	Мексико	Мексико	LOC	GPE-Мexico
+633	636	САЩ	САЩ	LOC	GPE-USA
+695	703	Хондурас	Хондурас	LOC	GPE-Honduras
+705	714	Гватемала	Гватемала	LOC	GPE-Guatemala
+719	730	Ел Салвадор	Ел Салвадор	LOC	GPE-El-Salvador
+784	791	Пинейро	Пинейро	PER	PER-Erika-Pinheiro
+870	875	Тръмп	Тръмп	PER	PER-Donald-Trump
+936	943	Мексико	Мексико	LOC	GPE-Мexico
+945	952	Пинейно	Пинейро	PER	PER-Erika-Pinheiro
+1075	1080	Тръмп	Тръмп	PER	PER-Donald-Trump
+1108	1113	Давид	Давид	PER	PER-David
+1116	1122	Голиат	Голиат	PER	PER-Goliath
+1205	1210	Обама	Обама	PER	PER-Barack-Obama
+1250	1257	Мексико	Мексико	LOC	GPE-Мexico
+1298	1303	Тръмп	Тръмп	PER	PER-Donald-Trump
+1497	1500	САЩ	САЩ	LOC	GPE-USA
+1550	1560	мексиканци	мексиканци	PER	GPE-Mexico
+1564	1569	Тръмп	Тръмп	PER	PER-Donald-Trump
+1935	1940	Тръмп	Тръмп	PER	PER-Donald-Trump
+2177	2190	Ню Йорк Таймс	Ню Йорк Таймс	PRO	PRO-The-New-York-Times
+2299	2332	американските имиграционни власти	американски имиграционни власти	ORG	ORG-Immigration-Authorities-USA
+2441	2474	"""Al Otro Lado"" (""Другата страна"")"	"""Al Otro Lado"" (""Другата страна"")"	ORG	ORG-Al-Otro-Lado
+2579	2609	American Civil Liberties Union	American Civil Liberties Union	ORG	ORG-American-Civil-Liberties-Union
+2613	2620	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+2680	2683	САЩ	САЩ	LOC	GPE-USA
+2762	2772	Ли Гелернт	Ли Гелернт	PER	PER-Lee-Gelernt
+3122	3128	Байдън	Байдън	PER	PER-Joe-Biden
+3146	3156	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3319	3326	Мексико	Мексико	LOC	GPE-Мexico
+3329	3332	САЩ	САЩ	LOC	GPE-USA
+3385	3391	Байдън	Байдън	PER	PER-Joe-Biden
+3555	3560	Тръмп	Тръмп	PER	PER-Donald-Trump
+3569	3582	Ерика Пинейро	Ерика Пинейро	PER	PER-Erika-Pinheiro
+3605	3611	Байдън	Байдън	PER	PER-Joe-Biden
+3756	3761	Ерика	Ерика	PER	PER-Erika-Pinheiro
+3769	3779	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3973	3976	САЩ	САЩ	LOC	GPE-USA

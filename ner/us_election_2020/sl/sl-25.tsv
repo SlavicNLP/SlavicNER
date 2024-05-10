@@ -1,0 +1,85 @@
+42	47	Trump	Trump	PER	PER-Donald-Trump
+98	103	Bidnu	Biden	PER	PER-Joe-Biden
+131	140	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+188	198	Washington	Washington	LOC	GPE-WashingtonDC
+243	255	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+385	394	twitterju	twitter	PRO	PRO-Twitter
+582	585	ZDA	ZDA	LOC	GPE-USA
+785	794	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+941	944	ZDA	ZDA	LOC	GPE-USA
+998	1006	demokrat	demokrat	PER	ORG-Democratic-Party-USA
+1117	1120	ZDA	ZDA	LOC	GPE-USA
+1156	1170	Barackom Obamo	Barack Obama	PER	PER-Barack-Obama
+1295	1309	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+1398	1407	Američani	Američani	PER	GPE-USA
+1560	1569	Bele hiše	Bela hiša	LOC	LOC-White-House
+1969	1981	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2001	2006	Trump	Trump	PER	PER-Donald-Trump
+2080	2095	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+2157	2167	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+2181	2186	Biden	Biden	PER	PER-Joe-Biden
+2225	2230	Trump	Trump	PER	PER-Donald-Trump
+2301	2310	Michiganu	Michigan	LOC	GPE-Michigan
+2312	2324	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2328	2335	Georgii	Georgie	LOC	GPE-Georgia-US-state
+2398	2404	Nevadi	Nevada	LOC	GPE-Nevada
+2423	2428	Bidnu	Biden	PER	PER-Joe-Biden
+2536	2542	Trumpa	Trump	PER	PER-Donald-Trump
+2584	2593	demokratu	demokrat	PER	ORG-Democratic-Party-USA
+2634	2637	ZDA	ZDA	LOC	GPE-USA
+2692	2699	Trumpov	Trumpov	PER	PER-Donald-Trump
+2738	2745	Nemčiji	Nemčija	LOC	GPE-Germany
+2746	2761	Richard Grenell	Richard Grenell	PER	PER-Richard-Grenell
+2767	2777	Las Vegasu	Las Vegas	LOC	GPE-Las-Vegas
+3028	3040	Republikanci	Republikanci	ORG	ORG-Republican-Party-USA
+3325	3337	republikance	republikanci	PER	ORG-Republican-Party-USA
+3556	3565	Michiganu	Michigan	LOC	GPE-Michigan
+3569	3576	Arizoni	Arizona	LOC	GPE-Arizona
+3616	3622	Trumpa	Trump	PER	PER-Donald-Trump
+3793	3802	New Yorku	New York	LOC	GPE-New-York
+3804	3813	Portlandu	Portland	LOC	GPE-Portland
+3815	3822	Seattlu	Seattle	LOC	GPE-Seattle
+3824	3836	Los Angelesu	Los Angeles	LOC	GPE-Los-Angeles
+3838	3844	Čikagu	Čikago	LOC	GPE-Chicago
+3846	3857	Filadelfiji	Filadelfija	LOC	GPE-Philadelphia
+3890	3899	Trumpovih	Trump	PER	PER-Donald-Trump
+3956	3989	Življenja temnopoltih so pomembna	Življenja temnopoltih so pomembna	PRO	PRO-Black-Lives-Matter
+4034	4048	Georgea Floyda	George Floyd	PER	PER-George-Floyd
+4076	4088	Minneapolisu	Minneapolis	LOC	GPE-Minneapolis
+4207	4213	Trumpu	Trump	PER	PER-Donald-Trump
+4254	4261	Bidnove	Biden	PER	PER-Joe-Biden
+4354	4366	Filadelfijii	Filadelfijia	LOC	GPE-Philadelphia
+4369	4378	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+4454	4465	Filadelfiji	Filadelfija	LOC	GPE-Philadelphia
+4474	4481	Trumpov	Trumpov	PER	PER-Donald-Trump
+4498	4511	Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+4529	4538	New Yorka	New York	LOC	GPE-New-York
+4636	4641	Bidna	Biden	PER	PER-Joe-Biden
+4660	4668	Hunterja	Hunter	PER	PER-Hunter-Biden
+4732	4740	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+4749	4757	Trumpovo	Trump	PER	PER-Donald-Trump
+4852	4857	Marsa	Mars	LOC	LOC-Mars
+4865	4871	Kanade	Kanada	LOC	GPE-Canada
+5002	5007	Biden	Biden	PER	PER-Joe-Biden
+5012	5022	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+5282	5294	Nancy Pelosi	Nancy Pelosi	PER	PER-Nancy-Pelosi
+5337	5342	Biden	Biden	PER	PER-Joe-Biden
+5574	5598	Alexandrie Ocasio-Cortez	Alexandrae Ocasio-Cortez	PER	PER-Alexandria-Ocasio-Cortez
+5602	5610	Ala Gora	Al Gore	PER	PER-Al-Gore
+5664	5670	Trumpu	Trump	PER	PER-Donald-Trump
+5849	5854	Bidna	Biden	PER	PER-Joe-Biden
+5873	5879	YouGov	YouGov	PRO	PRO-YouGov
+5904	5923	Washington Examiner	Washington Examiner	PRO	PRO-Washington-Examiner
+5993	5998	Trump	Trump	PER	PER-Donald-Trump
+6303	6308	Biden	Biden	PER	PER-Joe-Biden
+6381	6386	Trump	Trump	PER	PER-Donald-Trump
+6411	6418	Amerika	Amerika	LOC	GPE-USA
+6425	6434	twitterju	twitter	PRO	PRO-Twitter
+6591	6598	Al Gore	Al Gore	PER	PER-Al-Gore
+6669	6685	Georgeu W. Bushu	George W. Bush	PER	PER-George-Bush-Jr
+6718	6725	Floridi	Florida	LOC	GPE-Florida
+6761	6766	Bushu	Bush	PER	PER-George-Bush-Jr
+6850	6855	Biden	Biden	PER	PER-Joe-Biden
+6869	6884	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+6943	6959	Georgea W. Busha	George W. Bush	PER	PER-George-Bush-Jr
+7051	7065	Billa Clintona	Bill Clinton	PER	PER-Bill-Clinton

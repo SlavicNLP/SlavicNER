@@ -1,0 +1,55 @@
+14	22	COVID-19	COVID-19	EVT	EVT-Covid-19
+53	64	Коронавирус	Коронавирус	EVT	EVT-Covid-19
+119	127	COVID-19	COVID-19	EVT	EVT-Covid-19
+155	160	Китае	Китай	LOC	GPE-China
+198	201	США	США	LOC	GPE-USA
+215	222	Израиле	Израиль	LOC	GPE-Israel
+234	248	Великобритании	Великобритания	LOC	GPE-Great-Britain
+263	271	Германии	Германия	LOC	GPE-Germany
+293	302	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+306	320	Великобритания	Великобритания	LOC	GPE-Great-Britain
+366	374	COVID-19	COVID-19	EVT	EVT-Covid-19
+444	456	коронавируса	коронавирус	EVT	EVT-Covid-19
+477	488	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+557	580	Соединенном Королевстве	Соединенное Королевство	LOC	GPE-Great-Britain
+591	594	NHS	NHS	ORG	ORG-NHS
+645	652	Лондоне	Лондон	LOC	GPE-London
+680	686	Англии	Англия	LOC	GPE-Great-Britain
+695	704	Мидлендсе	Мидлендс	LOC	GPE-Midlands
+714	722	Оксфорде	Оксфорд	LOC	GPE-Oxford
+783	786	США	США	LOC	GPE-USA
+822	833	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+931	933	ЕС	ЕС	ORG	ORG-European-Union
+1090	1102	коронавируса	коронавирус	EVT	EVT-Covid-19
+1165	1175	Нидерланды	Нидерланды	LOC	GPE-Holland
+1518	1529	Нидерландов	Нидерланды	LOC	GPE-Holland
+1706	1712	Канада	Канада	LOC	GPE-Canada
+1741	1753	коронавируса	коронавирус	EVT	EVT-Covid-19
+1829	1866	Министерстве здравоохранения Германии	Министерство здравоохранения Германии	ORG	ORG-Ministry-of-Health-Germany
+1914	1926	коронавируса	коронавирус	EVT	EVT-Covid-19
+1969	1978	The Local	The Local	PRO	PRO-The-Local
+1980	1987	Ватикан	Ватикан	LOC	GPE-Vatican
+2032	2040	COVID-19	COVID-19	EVT	EVT-Covid-19
+2137	2143	Pfizer	Pfizer	ORG	ORG-Pfizer
+2342	2349	Украине	Украина	LOC	GPE-Ukraine
+2361	2377	Офиса президента	Офис президента	ORG	ORG-Office-of-the-President-of-Ukraine
+2395	2402	Украина	Украина	LOC	GPE-Ukraine
+2461	2473	коронавируса	коронавирус	EVT	EVT-Covid-19
+2487	2496	китайской	китайский	PER	GPE-China
+2506	2521	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+2541	2554	Денис Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
+2600	2609	украинцев	украинцы	PER	GPE-Ukraine
+2666	2691	Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+2740	2747	Израиль	Израиль	LOC	GPE-Israel
+2802	2809	Израиль	Израиль	LOC	GPE-Israel
+2955	2963	немецкой	немецкий	PER	GPE-Germany
+2973	2981	BioNTech	BioNTech	ORG	ORG-BioNTech
+2987	3000	американского	американский	PER	GPE-USA
+3021	3027	Pfizer	Pfizer	ORG	ORG-Pfizer
+3074	3081	Бахрейн	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+3136	3150	Великобритании	Великобритания	LOC	GPE-Great-Britain
+3373	3379	Польше	Польша	LOC	GPE-Poland
+3423	3435	коронавируса	коронавирус	EVT	EVT-Covid-19
+3481	3509	Министерство здравоохранения	Министерство здравоохранения	ORG	ORG-Ministry-of-Health-Poland
+3531	3557	Варшавском медуниверситете	Варшавский медуниверситет	ORG	ORG-Medical-University-of-Warsaw
+3613	3621	COVID-19	COVID-19	EVT	EVT-Covid-19

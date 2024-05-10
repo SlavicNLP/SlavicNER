@@ -1,0 +1,46 @@
+10	13	США	США	LOC	GPE-USA
+14	33	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+53	60	Байдена	Байден	PER	PER-Joe-Biden
+64	86	выборах президента США	выборы президента США	EVT	EVT-2020-United-States-Presidential-Election
+89	108	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+128	135	Байдена	Байден	PER	PER-Joe-Biden
+139	161	выборах президента США	выборы президента США	EVT	EVT-2020-United-States-Presidential-Election
+189	196	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+333	336	США	США	LOC	GPE-USA
+348	367	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+380	383	CNN	CNN	PRO	PRO-CNN
+393	405	Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+427	430	США	США	LOC	GPE-USA
+507	510	США	США	LOC	GPE-USA
+659	668	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+739	760	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+763	769	Сената	Сенат	ORG	ORG-United-States-Senate
+850	883	всенародного голосования 3 ноября	всенародное голосование 3 ноября	EVT	EVT-2020-United-States-Presidential-Election
+931	934	США	США	LOC	GPE-USA
+946	956	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1006	1019	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1044	1047	США	США	LOC	GPE-USA
+1062	1068	Гавайи	Гавайи	LOC	GPE-Hawaii
+1220	1231	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1289	1310	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+1355	1365	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+1373	1381	Колумбия	Колумбия	LOC	GPE-Colombia
+1422	1429	Вермонт	Вермонт	LOC	GPE-Vermont
+1432	1440	Вайоминг	Вайоминг	LOC	GPE-Wyoming
+1484	1487	США	США	LOC	GPE-USA
+1528	1537	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+1590	1600	Калифорнии	Калифорния	LOC	GPE-California
+1618	1624	Техасе	Техас	LOC	GPE-Texas
+1635	1644	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+1647	1654	Флориде	Флорида	LOC	GPE-Florida
+1779	1789	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1890	1893	США	США	LOC	GPE-USA
+1909	1916	Америку	Америка	LOC	GPE-USA
+1952	1960	Facebook	Facebook	PRO	PRO-Facebook
+2053	2063	ForumDaily	ForumDaily	PRO	PRO-NewYork.ForumDaily.com
+2053	2069	ForumDaily Woman	ForumDaily Woman	PRO	PRO-Woman.ForumDaily.com
+2075	2094	ForumDaily New York	ForumDaily New York	PRO	PRO-NewYork.ForumDaily.com
+2156	2165	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+2243	2261	Центрального парка	Центральный парк	LOC	LOC-Central-Park
+2265	2276	Пятой авеню	Пятая авеню	LOC	LOC-The-Fifth-Avenu
+2712	2715	США	США	LOC	GPE-USA

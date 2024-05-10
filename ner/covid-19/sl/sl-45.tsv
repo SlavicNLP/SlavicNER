@@ -1,0 +1,24 @@
+0	7	Bruselj	Bruselj	LOC	GPE-Brussles
+36	43	CureVac	CureVac	ORG	ORG-CureVac
+66	75	covidu-19	covid-19	EVT	EVT-Covid-19
+77	84	CureVac	CureVac	ORG	ORG-CureVac
+116	123	Nemčiji	Nemčija	LOC	GPE-Germany
+130	158	Evropsko investicijsko banko	Evropska investicijska banka	ORG	ORG-European-Investment-Bank
+293	302	covidu-19	covid-19	EVT	EVT-Covid-19
+322	329	CureVac	CureVac	ORG	ORG-CureVac
+469	476	Bruslju	Bruselj	LOC	GPE-Brussles
+501	508	CureVac	CureVac	ORG	ORG-CureVac
+573	579	Evropi	Evropa	LOC	LOC-Europe
+628	639	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+641	647	Sanofi	Sanofi	ORG	ORG-Sanofi
+648	651	GSK	GSK	ORG	ORG-GSK
+653	677	Janssen Pharmaceutica NV	Janssen Pharmaceutica NV	ORG	ORG-Janssen-Pharmaceutica
+681	689	BioNtech	BioNtech	ORG	ORG-BioNTech
+690	696	Pfizer	Pfizer	ORG	ORG-Pfizer
+744	751	Moderna	Moderna	ORG	ORG-Moderna
+754	771	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+788	794	Evropa	Evropa	LOC	LOC-Europe
+1065	1082	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+1083	1103	Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+1316	1318	EU	EU	ORG	ORG-European-Union
+1617	1632	von der Leynova	von der Leyen	PER	PER-Ursula-von-der-Leyen

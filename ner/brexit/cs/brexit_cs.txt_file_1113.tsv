@@ -1,0 +1,16 @@
+0	2	EU	EU	ORG	ORG-European-Union
+34	42	Británii	Británie	LOC	GPE-Great-Britain
+61	66	Česko	Česko	LOC	GPE-Czech-Republic
+235	239	EU27	EU27	ORG	ORG-European-Union
+324	331	Londýna	Londýn	LOC	GPE-London
+419	433	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+550	554	EU27	EU27	ORG	ORG-European-Union
+947	953	brexit	brexit	EVT	EVT-Brexit
+1162	1179	Irskou republikou	Irská republika	LOC	GPE-Ireland
+1182	1197	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+1203	1209	Londýn	Londýn	LOC	GPE-London
+1271	1277	Mayová	Mayová	PER	PER-Theresa-May
+1299	1307	Británii	Británie	LOC	GPE-Great-Britain
+1619	1633	Velké Británie	Velké Británie	LOC	GPE-Great-Britain
+1636	1649	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1817	1823	brexit	brexit	EVT	EVT-Brexit

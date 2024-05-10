@@ -1,0 +1,15 @@
+8	14	Mayová	Mayová	PER	PER-Theresa-May
+67	74	brexitu	brexit	EVT	EVT-Brexit
+115	121	brexit	brexit	EVT	EVT-Brexit
+122	135	Davida Davise	David Davis	PER	PER-David-Davis
+179	187	Bruselem	Brusel	LOC	GPE-Brussles
+243	249	brexit	brexit	EVT	EVT-Brexit
+412	417	Davis	Davis	PER	PER-David-Davis
+439	446	brexitu	brexit	EVT	EVT-Brexit
+507	521	Therese Mayové	Theresa Mayová	PER	PER-Theresa-May
+604	606	EU	EU	ORG	ORG-European-Union
+862	870	Británie	Británie	LOC	GPE-Great-Britain
+873	875	EU	EU	ORG	ORG-European-Union
+888	895	brexitu	brexit	EVT	EVT-Brexit
+1169	1186	brexitovou dohodu	brexitová dohoda	PRO	PRO-Brexit-withdrawal-agreement
+1207	1221	Evropskou unií	Evropská unie	ORG	ORG-European-Union

@@ -1,0 +1,81 @@
+5	14	Warufakis	Warufakis	PER	PER-Janis-Warufakis
+22	29	Anglicy	Anglicy	PER	GPE-Great-Britain
+53	60	Brexitu	Brexit	EVT	EVT-Brexit
+222	228	Niemcy	Niemcy	LOC	GPE-Germany
+231	238	Francja	Francja	LOC	GPE-France
+334	337	EBC	EBC	ORG	ORG-European-Central-Bank
+357	361	Unia	Unia	ORG	ORG-European-Union
+401	416	Janis Warufakis	Janis Warufakis	PER	PER-Janis-Warufakis
+567	577	The Eagles	The Eagles	ORG	ORG-The-Eagles
+579	595	Hotel California	Hotel California	PRO	PRO-Hotel-California
+661	678	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+681	698	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+716	721	Wyspy	Wyspy	LOC	GPE-Great-Britain
+807	809	UE	UE	ORG	ORG-European-Union
+845	865	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+912	923	Theresa May	Theresa May	PER	PER-Theresa-May
+961	963	UE	UE	ORG	ORG-European-Union
+1036	1042	brexit	Brexit	EVT	EVT-Brexit
+1062	1077	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1182	1184	UE	UE	ORG	ORG-European-Union
+1200	1215	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1354	1361	Londynu	Londyn	LOC	GPE-London
+1663	1673	Frankfurtu	Frankfurt	LOC	GPE-Frankfurt-am-Main
+1675	1681	Paryża	Paryż	LOC	GPE-Paris
+1683	1695	Nowego Jorku	Nowy Jork	LOC	GPE-New-York
+1781	1794	David Cameron	David Cameron	PER	PER-David-Cameron
+1858	1865	brexitu	Brexit	EVT	EVT-Brexit
+2072	2074	UE	UE	ORG	ORG-European-Union
+2136	2153	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2327	2333	Niemcy	Niemcy	LOC	GPE-Germany
+2335	2342	Francja	Francja	LOC	GPE-France
+2345	2351	Grecja	Grecja	LOC	GPE-Greece
+2493	2508	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2623	2644	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+2720	2723	ERM	ERM	ORG	ORG-ERM-European-Exchange-Rate-Mechanism
+2948	2959	Bank Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+3070	3073	ERM	ERM	ORG	ORG-ERM-European-Exchange-Rate-Mechanism
+3115	3130	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3133	3139	Włochy	Włochy	LOC	GPE-Italy
+3211	3217	Grecji	Grecja	LOC	GPE-Greece
+3268	3280	Czarna Środa	Czarna Środa	EVT	EVT-Black-Wednesday
+3332	3335	ERM	ERM	ORG	ORG-ERM-European-Exchange-Rate-Mechanism
+3421	3432	izby Lordów	izba Lordów	ORG	ORG-House-of-Lords
+3434	3447	Norman Tebbit	Norman Tebbit	PER	PER-Norman-Tebbit
+3539	3554	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3571	3577	Europa	Europa	LOC	LOC-Europe
+3763	3769	Grecja	Grecja	LOC	GPE-Greece
+3802	3817	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4026	4037	Bank Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+4139	4143	City	City	LOC	LOC-City-of-London
+4238	4253	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4370	4376	Londyn	Londyn	LOC	GPE-London
+4390	4421	Europejskiego Banku Centralnego	Europejski Bank Centralny	ORG	ORG-European-Central-Bank
+4536	4540	City	City	LOC	LOC-City-of-London
+4542	4557	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4689	4693	Unia	Unia	ORG	ORG-European-Union
+4720	4728	Anglików	Anglicy	PER	GPE-Great-Britain
+4907	4923	kanału La Manche	Kanał La Manche	LOC	LOC-English-Channel
+5085	5091	Niemcy	Niemcy	LOC	GPE-Germany
+5094	5101	Francja	Francja	LOC	GPE-France
+5197	5200	EBC	EBC	ORG	ORG-European-Central-Bank
+5220	5224	Unia	Unia	ORG	ORG-European-Union
+5257	5263	Brexit	Brexit	EVT	EVT-Brexit
+5338	5344	Niemcy	Niemcy	LOC	GPE-Germany
+5348	5352	Unia	Unia	ORG	ORG-European-Union
+5540	5555	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+5651	5653	UE	UE	ORG	ORG-European-Union
+5657	5663	Grecja	Grecja	LOC	GPE-Greece
+5802	5809	brexitu	Brexit	EVT	EVT-Brexit
+5817	5823	Niemcy	Niemcy	LOC	GPE-Germany
+5826	5833	Francja	Francja	LOC	GPE-France
+6001	6005	Unii	Unia	ORG	ORG-European-Union
+6026	6043	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+6116	6127	Bank Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+6141	6144	ECB	ECB	ORG	ORG-European-Central-Bank
+6302	6309	brexitu	Brexit	EVT	EVT-Brexit
+6402	6406	Unii	Unia	ORG	ORG-European-Union
+6454	6464	Kalifornia	Kalifornia	LOC	GPE-California
+6491	6494	USA	USA	LOC	GPE-USA
+6507	6524	Project Syndicate	Project Syndicate	PRO	PRO-Project-Syndicate
+6585	6600	Maciej Domagała	Maciej Domagała	PER	PER-Maciej-Domagała

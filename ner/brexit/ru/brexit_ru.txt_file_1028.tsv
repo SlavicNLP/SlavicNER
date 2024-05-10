@@ -1,0 +1,29 @@
+25	31	Brexit	Brexit	EVT	EVT-Brexit
+37	49	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+201	213	Майкла Гоува	Майкл Гоув	PER	PER-Michael-Gove
+241	248	Кабмина	Кабмин	ORG	ORG-Cabinet-of-the-United-Kingdom
+249	266	Дэвида Лидингтона	Дэвид Лидингтон	PER	PER-David-Lidington
+282	285	МИД	МИД	ORG	ORG-Foreign-Office
+286	301	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+319	324	Дэвис	Дэвис	PER	PER-David-Davis
+370	376	Brexit	Brexit	EVT	EVT-Brexit
+386	396	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+435	441	Англии	Англия	LOC	GPE-Great-Britain
+442	454	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+490	496	Brexit	Brexit	EVT	EVT-Brexit
+529	540	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+627	638	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+650	656	Дэвиса	Дэвис	PER	PER-David-Davis
+845	847	ЕС	ЕС	ORG	ORG-European-Union
+899	902	Мэй	Мэй	PER	PER-Theresa-May
+950	964	Доминика Рааба	Доминик Рааб	PER	PER-Dominic-Raab
+1006	1008	ЕС	ЕС	ORG	ORG-European-Union
+1034	1051	британский Кабмин	британский Кабмин	ORG	ORG-Cabinet-of-the-United-Kingdom
+1082	1091	Брюсселем	Брюссель	LOC	GPE-Brussles
+1104	1109	Рааба	Рааб	PER	PER-Dominic-Raab
+1164	1170	Дэвиса	Дэвис	PER	PER-David-Davis
+1246	1252	Brexit	Brexit	EVT	EVT-Brexit
+1253	1259	Англия	Англия	LOC	GPE-Great-Britain
+1374	1377	Мэй	Мэй	PER	PER-Theresa-May
+1497	1503	Brexit	Brexit	EVT	EVT-Brexit
+1555	1576	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK

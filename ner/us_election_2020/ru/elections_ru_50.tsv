@@ -1,0 +1,138 @@
+13	16	США	США	LOC	GPE-USA
+29	39	российскую	российская	LOC	GPE-Russia
+69	79	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+112	115	США	США	LOC	GPE-USA
+146	151	Трамп	Трамп	PER	PER-Donald-Trump
+185	188	РБК	РБК	PRO	PRO-RBK
+235	245	российской	российский	LOC	GPE-Russia
+258	264	Кремль	Кремль	ORG	ORG-Kremlin
+311	314	США	США	LOC	GPE-USA
+323	330	Байдена	Байден	PER	PER-Joe-Biden
+359	365	России	Россия	LOC	GPE-Russia
+376	385	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+438	449	российскому	российский	LOC	GPE-Russia
+474	486	Банка России	Банк России	ORG	ORG-Rossiya-Bank
+487	505	Эльвира Набиуллина	Эльвира Набиуллина	PER	PER-Elvira-Nabiullina
+537	544	Байдена	Байден	PER	PER-Joe-Biden
+608	611	США	США	LOC	GPE-USA
+643	653	демократов	демократ	PER	ORG-Democratic-Party-USA
+697	702	Трамп	Трамп	PER	PER-Donald-Trump
+708	714	России	Россия	LOC	GPE-Russia
+883	889	Байден	Байден	PER	PER-Joe-Biden
+900	903	США	США	LOC	GPE-USA
+916	922	России	Россия	LOC	GPE-Russia
+947	957	российской	российский	LOC	GPE-Russia
+1034	1041	русские	русский	LOC	GPE-Russia
+1103	1109	Байден	Байден	PER	PER-Joe-Biden
+1176	1182	Байден	Байден	PER	PER-Joe-Biden
+1225	1231	России	Россия	LOC	GPE-Russia
+1298	1310	Бараке Обаме	Барак Обама	PER	PER-Barack-Obama
+1320	1326	Байден	Байден	PER	PER-Joe-Biden
+1402	1408	Riddle	Riddle	PRO	PRO-Riddle
+1473	1490	Hawthorn Advisors	Hawthorn Advisors	PRO	PRO-Hawthorn-Advisors
+1491	1507	Максимилиан Хесс	Максимилиан Хесс	PER	PER-Maximilian-Hess
+1509	1516	Байдену	Байден	PER	PER-Joe-Biden
+1566	1572	России	Россия	LOC	GPE-Russia
+1721	1740	Госдепартаменте США	Госдепартамент США	ORG	ORG-Department-of-State-USA
+1741	1754	Эдвард Фишман	Эдвард Фишман	PER	PER-Edward-Fishman
+1779	1785	Москвы	Москва	LOC	GPE-Moscow
+1802	1809	Байдена	Байден	PER	PER-Joe-Biden
+1855	1860	Обамы	Обама	PER	PER-Barack-Obama
+1870	1873	РБК	РБК	PRO	PRO-RBK
+1884	1910	Американского университета	Американский университет	ORG	ORG-American-University-Washington-D.C.
+1913	1923	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+1935	1947	Джеймс Кверк	Джеймс Кверк	PER	PER-James-Kwerk
+2009	2020	Сьюзан Райс	Сьюзан Райс	PER	PER-Susan-Rays
+2037	2040	США	США	LOC	GPE-USA
+2043	2046	ООН	ООН	ORG	ORG-United-Nations
+2153	2175	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+2176	2191	Элизабет Уоррен	Элизабет Уоррен	PER	PER-Elizabeth-Warren
+2256	2261	Обама	Обама	PER	PER-Barack-Obama
+2281	2288	Байдена	Байден	PER	PER-Joe-Biden
+2366	2372	России	Россия	LOC	GPE-Russia
+2375	2382	Грузией	Грузия	LOC	GPE-Georgia
+2386	2392	Байден	Байден	PER	PER-Joe-Biden
+2501	2506	Кверк	Кверк	PER	PER-James-Kwerk
+2511	2517	Байден	Байден	PER	PER-Joe-Biden
+2713	2719	России	Россия	LOC	GPE-Russia
+2794	2801	Байдена	Байден	PER	PER-Joe-Biden
+2821	2827	России	Россия	LOC	GPE-Russia
+2902	2907	Кверк	Кверк	PER	PER-James-Kwerk
+2939	2946	Байдена	Байден	PER	PER-Joe-Biden
+2998	3004	России	Россия	LOC	GPE-Russia
+3015	3019	Хесс	Хесс	PER	PER-Maximilian-Hess
+3054	3068	Джейк Салливан	Джейк Салливан	PER	PER-Jacob-Sullivan
+3199	3204	Обамы	Обама	PER	PER-Barack-Obama
+3284	3294	российских	российский	LOC	GPE-Russia
+3319	3326	Байдена	Байден	PER	PER-Joe-Biden
+3328	3343	Майкл Карпентер	Майкл Карпентер	PER	PER-Michael-Karpenter
+3513	3522	Карпентер	Карпентер	PER	PER-Michael-Karpenter
+3589	3599	российские	российские	LOC	GPE-Russia
+3640	3650	российских	российский	LOC	GPE-Russia
+3674	3682	Сбербанк	Сбербанк	ORG	ORG-SBERBANK
+3684	3687	ВТБ	ВТБ	ORG	ORG-VTB-Russia
+3689	3700	Газпромбанк	Газпромбанк	ORG	ORG-Gazprom
+3702	3716	Россельхозбанк	Россельхозбанк	ORG	ORG-Rosselhoz-Bank
+3718	3724	ВЭБ.РФ	ВЭБ.РФ	ORG	ORG-VAB.RF
+3850	3856	Байден	Байден	PER	PER-Joe-Biden
+3944	3954	демократов	демократ	PER	ORG-Democratic-Party-USA
+3967	3972	Кверк	Кверк	PER	PER-James-Kwerk
+4053	4063	демократам	демократы	PER	ORG-Democratic-Party-USA
+4082	4096	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+4173	4179	сенате	сенат	ORG	ORG-United-States-Senate
+4227	4235	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+4308	4314	России	Россия	LOC	GPE-Russia
+4327	4331	Хесс	Хесс	PER	PER-Maximilian-Hess
+4345	4351	Байден	Байден	PER	PER-Joe-Biden
+4417	4425	конгресс	конгресс	ORG	ORG-United-States-Congress
+4500	4506	России	Россия	LOC	GPE-Russia
+4549	4554	DETER	DETER	PRO	PRO-Act-Determining-Intervention-Measures-to-Assist-in-Mitigating-the-Consequences-of-the-Second-Wave-of-COVID-19-Epidemic-PKP7
+4557	4562	DASKA	DASKA	PRO	PRO-DASKA
+4594	4604	российских	российский	LOC	GPE-Russia
+4639	4645	России	Россия	LOC	GPE-Russia
+4685	4690	DASKA	DASKA	PRO	PRO-DASKA
+4781	4787	Москвы	Москва	LOC	GPE-Moscow
+4797	4800	США	США	LOC	GPE-USA
+4804	4809	DETER	DETER	PRO	PRO-Act-Determining-Intervention-Measures-to-Assist-in-Mitigating-the-Consequences-of-the-Second-Wave-of-COVID-19-Epidemic-PKP7
+4841	4847	Россия	Россия	LOC	GPE-Russia
+4890	4896	Трампа	Трамп	PER	PER-Donald-Trump
+4945	4950	DASKA	DASKA	PRO	PRO-DASKA
+5129	5137	демократ	демократ	PER	ORG-Democratic-Party-USA
+5138	5147	Крис Кунс	Крис Кунс	PER	PER-Chris-Kuns
+5180	5190	российских	российский	LOC	GPE-Russia
+5255	5273	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+5340	5343	США	США	LOC	GPE-USA
+5378	5388	Навального	Навальний	PER	PER-Alexei-Navalny
+5394	5400	Трампе	Трамп	PER	PER-Donald-Trump
+5535	5544	Сбербанка	Сбербанк	ORG	ORG-SBERBANK
+5545	5556	Герман Греф	Герман Греф	PER	PER-German-Greff
+5590	5599	Сбербанка	Сбербанк	ORG	ORG-SBERBANK
+5651	5662	Минфина США	Минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+5670	5673	ВТБ	ВТБ	ORG	ORG-VTB-Russia
+5674	5687	Андрей Костин	Андрей Костин	PER	PER-Andrey-Kostin
+5795	5806	Банк России	Банк России	ORG	ORG-Rossiya-Bank
+6007	6010	США	США	LOC	GPE-USA
+6057	6067	российских	российский	LOC	GPE-Russia
+6192	6194	ЦБ	ЦБ	ORG	ORG-Central-Bank-Russia
+6356	6358	ЦБ	ЦБ	ORG	ORG-Central-Bank-Russia
+6462	6472	российские	российские	LOC	GPE-Russia
+6594	6601	Байдена	Байден	PER	PER-Joe-Biden
+6606	6612	Москвы	Москва	LOC	GPE-Moscow
+6616	6622	Байден	Байден	PER	PER-Joe-Biden
+6688	6691	США	США	LOC	GPE-USA
+6694	6704	Евросоюзом	Евросоюз	LOC	LOC-Europe
+6707	6710	США	США	LOC	GPE-USA
+6713	6717	НАТО	НАТО	ORG	ORG-NATO
+6729	6732	РБК	РБК	PRO	PRO-RBK
+6733	6738	Кверк	Кверк	PER	PER-James-Kwerk
+6775	6781	Байден	Байден	PER	PER-Joe-Biden
+6823	6830	Европой	Европа	LOC	LOC-Europe
+6914	6920	Западу	Запада	LOC	LOC-Europe
+6990	7016	Московского центра Карнеги	Московский центр Карнеги	ORG	ORG-Moscow-Centre-of-Carnegy
+7029	7070	Российского совета по международным делам	Российский совет по международным делам	ORG	ORG-Russian-International-Affairs-Council
+7071	7086	Андрей Кортунов	Андрей Кортунов	PER	PER-Andrey-Kortunov
+7091	7097	России	Россия	LOC	GPE-Russia
+7152	7158	Байден	Байден	PER	PER-Joe-Biden
+7209	7220	европейских	европейские	LOC	LOC-Europe
+7268	7286	«Северный поток-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
+7298	7306	Кортунов	Кортунов	PER	PER-Andrey-Kortunov

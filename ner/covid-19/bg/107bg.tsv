@@ -1,0 +1,33 @@
+15	23	Covid-19	COVID-19	EVT	EVT-Covid-19
+26	31	Пекин	Пекин	LOC	GPE-Beijing
+55	76	втора вълна на вируса	втора вълна на вируса	EVT	EVT-COVID-19-second-wave
+79	84	Китай	Китай	LOC	GPE-China
+176	184	Covid-19	COVID-19	EVT	EVT-Covid-19
+206	211	Пекин	Пекин	LOC	GPE-Beijing
+319	343	South China Morning Post	South China Morning Post	PRO	PRO-South-China-Morning-Post
+346	357	Бен Каулинг	Бен Каулинг	PER	PER-Benjamin-Cowling
+383	466	Епидемиология и биостатистика в Училището по здравеопазване на Университета Хонконг	Епидемиология и биостатистика в Училището по здравеопазване на Университета Хонконг	ORG	ORG-School-of-Public-Health-of-the-University-of-Hong-Kong
+501	528	втора вълна на коронавируса	втора вълна на коронавируса	EVT	EVT-COVID-19-second-wave
+531	549	китайската столица	китайската столица	LOC	GPE-Beijing
+590	595	Пекин	Пекин	LOC	GPE-Beijing
+695	700	Пекин	Пекин	LOC	GPE-Beijing
+1020	1027	Синфади	Синфади	LOC	LOC-Xinfadi
+1038	1045	Фенгтай	Фенгтай	LOC	GPE-Fengtai
+1048	1053	Пекин	Пекин	LOC	GPE-Beijing
+1075	1083	епидемия	епидемия	EVT	EVT-Epidemic
+1183	1187	Ухан	Ухан	LOC	GPE-Wuhan
+1199	1204	Хубей	Хубей	LOC	GPE-Hubei
+1395	1406	коронавирус	коронавирус	EVT	EVT-Covid-19
+1586	1591	Пекин	Пекин	LOC	GPE-Beijing
+1620	1628	Covid-19	COVID-19	EVT	EVT-Covid-19
+1804	1812	Лиаонинг	Лиаонинг	LOC	GPE-Liaoning
+1881	1886	Пекин	Пекин	LOC	GPE-Beijing
+2049	2086	китайската Национална здравна комисия	китайската Национална здравна комисия	ORG	ORG-National-Health-Commission-China
+2130	2135	Пекин	Пекин	LOC	GPE-Beijing
+2243	2248	Китай	Китай	LOC	GPE-China
+2313	2335	здравното бюро в Пекин	здравното бюро в Пекин	ORG	ORG-Health-Quarters-China
+2379	2386	Синфади	Синфади	LOC	LOC-Xinfadi
+2486	2491	Китай	Китай	LOC	GPE-China
+2740	2745	Пекин	Пекин	LOC	GPE-Beijing
+2839	2844	Китай	Китай	LOC	GPE-China
+2899	2906	Ройтерс	Ройтерс	ORG	ORG-Reuters

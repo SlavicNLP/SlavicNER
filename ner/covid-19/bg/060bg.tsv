@@ -1,0 +1,38 @@
+15	22	Брюксел	Брюксел	LOC	GPE-Brussles
+43	50	Брюксел	Брюксел	LOC	GPE-Brussles
+52	54	ЕС	ЕС	ORG	ORG-European-Union
+158	165	Брюксел	Брюксел	LOC	GPE-Brussles
+191	206	Кристина Лайнер	Кристина Лайнер	PER	PER-Kristina-Liner
+251	264	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+412	419	Брюксел	Брюксел	LOC	GPE-Brussles
+423	429	Берлин	Берлин	LOC	GPE-Berlin
+531	546	Кристина Лайнер	Кристина Лайнер	PER	PER-Kristina-Liner
+586	607	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+628	635	Ди Велт	Ди Велт	PRO	PRO-Die-Welt
+690	697	Брюксел	Брюксел	LOC	GPE-Brussles
+716	722	Берлин	Берлин	LOC	GPE-Berlin
+797	804	Брюксел	Брюксел	LOC	GPE-Brussles
+832	857	втората вълна от Ковид-19	втора вълна от Ковид-19	EVT	EVT-COVID-19-second-wave
+927	934	Брюксел	Брюксел	LOC	GPE-Brussles
+989	995	Белгия	Белгия	LOC	GPE-Belgium
+1058	1064	Белгия	Белгия	LOC	GPE-Belgium
+1090	1106	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1368	1388	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1395	1402	Ди Велт	Ди Велт	PRO	PRO-Die-Welt
+1531	1538	Брюксел	Брюксел	LOC	GPE-Brussles
+1543	1553	Люксембург	Люксембург	LOC	GPE-Luxembourg
+1736	1743	Брюксел	Брюксел	LOC	GPE-Brussles
+1748	1758	Люксембург	Люксембург	LOC	GPE-Luxembourg
+2069	2090	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+2360	2369	Комисията	Комисия	ORG	ORG-European-Commission
+2499	2519	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+2766	2773	Брюксел	Брюксел	LOC	GPE-Brussles
+2877	2888	коронавирус	коронавирус	EVT	EVT-Covid-19
+2962	2964	ЕС	ЕС	ORG	ORG-European-Union
+3007	3014	Брюксел	Брюксел	LOC	GPE-Brussles
+3139	3151	коронавируса	коронавирус	EVT	EVT-Covid-19
+3160	3172	Гералд Улрих	Гералд Улрих	PER	PER-Gerald-Ullrich
+3188	3218	Свободна демократическа партия	Свободна демократическа партия	ORG	ORG-FDP-Free-Democratic-Party
+3276	3329	Генералният секретариат на Съвета на Европейския съюз	Генерален секретариат на Съвета на Европейския съюз	ORG	ORG-Secretariat-of-Council-of-the-EU
+3531	3551	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+3625	3631	Коледа	Коледа	EVT	EVT-Christmas

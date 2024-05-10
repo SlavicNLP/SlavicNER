@@ -1,0 +1,29 @@
+0	5	Putin	Putin	PER	PER-Vladimir-Putin
+32	40	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+42	47	Trump	Trump	PER	PER-Donald-Trump
+88	102	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+105	123	Angelou Merkelovou	Angela Merkelová	PER	PER-Angela-Merkel
+149	162	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+184	190	Evropy	Evropa	LOC	LOC-Europe
+252	258	Evropy	Evropa	LOC	LOC-Europe
+261	277	Donaldu Trumpovi	Donald Trump	PER	PER-Donald-Trump
+324	343	Mülheim an der Ruhr	Mülheim an der Ruhr	LOC	GPE-Mulheim-an-der-Ruhr
+346	372	Severním Porýní-Vestfálsku	Severní Porýní-Vestfálsko	LOC	GPE-North-Rhine-Westphalia
+546	560	Baltskému moři	Baltské moře	LOC	LOC-Baltic-Sea
+571	579	Mülheimu	Mülheim	LOC	GPE-Mulheim-an-der-Ruhr
+768	789	Greifswaldském zálivu	Greifswaldský záliv	LOC	LOC-Bay-of-Greifswald
+846	859	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+874	879	Rusko	Rusko	LOC	GPE-Russia
+931	938	Německa	Německo	LOC	GPE-Germany
+970	980	Bílém domě	Bílý dům	LOC	LOC-White-House
+985	992	Varšavě	Varšava	LOC	GPE-Warsaw
+996	1000	Soči	Soči	LOC	GPE-Sochi
+1010	1020	Bratislavě	Bratislava	LOC	GPE-Bratislava
+1083	1089	Evropy	Evropa	LOC	LOC-Europe
+1121	1129	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+1164	1170	Evropy	Evropa	LOC	LOC-Europe
+1215	1220	Rusko	Rusko	LOC	GPE-Russia
+1256	1262	Evropy	Evropa	LOC	LOC-Europe
+1330	1339	Garzpromu	Gazprom	ORG	ORG-Gazprom
+1414	1419	Kreml	Kreml	LOC	LOC-Kremlin
+1442	1447	Kreml	Kreml	LOC	LOC-Kremlin

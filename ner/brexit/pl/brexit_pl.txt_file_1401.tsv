@@ -1,0 +1,47 @@
+12	18	Niemcy	Niemcy	PER	GPE-Germany
+29	37	Skribala	Skribal	PER	PER-Siergiej-Skripal
+43	45	UE	UE	ORG	ORG-European-Union
+76	89	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+102	107	Rosji	Rosja	LOC	GPE-Russia
+110	116	Europa	Europa	LOC	LOC-Europe
+138	155	Wolfgang Schäuble	Wolfgang Schäuble	PER	PER-Wolfgang-Schäuble
+179	190	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+203	205	UE	UE	ORG	ORG-European-Union
+217	225	Schäuble	Schäuble	PER	PER-Wolfgang-Schäuble
+252	259	brexitu	Brexit	EVT	EVT-Brexit
+303	311	Skribala	Skribal	PER	PER-Siergiej-Skripal
+317	319	UE	UE	ORG	ORG-European-Union
+350	363	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+376	381	Rosji	Rosja	LOC	GPE-Russia
+384	390	Europa	Europa	LOC	LOC-Europe
+412	429	Wolfgang Schäuble	Wolfgang Schäuble	PER	PER-Wolfgang-Schäuble
+453	464	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+477	479	UE	UE	ORG	ORG-European-Union
+482	499	Wolfgang Schäuble	Wolfgang Schäuble	PER	PER-Wolfgang-Schäuble
+525	536	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+549	551	UE	UE	ORG	ORG-European-Union
+569	579	Bundestagu	Bundestag	ORG	ORG-Bundestag
+580	588	Schäuble	Schäuble	PER	PER-Wolfgang-Schäuble
+602	615	Wlk. Brytania	Wlk. Brytania	LOC	GPE-Great-Britain
+635	652	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+678	689	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+702	704	UE	UE	ORG	ORG-European-Union
+760	765	Funke	Funke	ORG	ORG-Funke
+942	958	Sergeja Skripala	Sergej Skripal	PER	PER-Siergiej-Skripal
+961	970	Salisbury	Salisbury	LOC	GPE-Salisbury
+972	983	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1041	1052	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1163	1171	Schäuble	Schäuble	PER	PER-Wolfgang-Schäuble
+1197	1203	Europa	Europa	LOC	LOC-Europe
+1237	1243	Niemcy	Niemcy	LOC	GPE-Germany
+1314	1320	Moskwę	Moskwa	LOC	GPE-Moscow
+1331	1339	Skripala	Skripal	PER	PER-Siergiej-Skripal
+1379	1381	UE	UE	ORG	ORG-European-Union
+1384	1388	NATO	NATO	ORG	ORG-NATO
+1397	1410	Wlk. Brytanię	Wlk. Brytania	LOC	GPE-Great-Britain
+1485	1491	Niemcy	Niemcy	LOC	GPE-Germany
+1493	1500	Francja	Francja	LOC	GPE-France
+1503	1520	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1613	1618	Rosji	Rosja	LOC	GPE-Russia
+1620	1634	Barbara Cöllen	Barbara Cöllen	PER	PER-Barbara-Cöllen
+1636	1639	dpa	DPA	ORG	ORG-DPA

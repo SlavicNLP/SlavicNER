@@ -1,0 +1,20 @@
+1	9	Райънеър	Райънеър	ORG	ORG-Ryanair
+27	34	Брекзит	Брекзит	EVT	EVT-Brexit
+116	124	Райънеър	Райънеър	ORG	ORG-Ryanair
+182	189	Брекзит	Брекзит	EVT	EVT-Brexit
+302	316	Великобритания	Великобритания	LOC	GPE-Great-Britain
+319	335	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+478	494	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+510	513	САЩ	САЩ	LOC	GPE-USA
+516	530	Великобритания	Великобритания	LOC	GPE-Great-Britain
+552	583	споразумението за отворено небе	Споразумение за отворено небе	PRO	PRO-Open-skies
+585	595	Open skies	Open skies	PRO	PRO-Open-skies
+638	658	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+665	672	Брекзит	Брекзит	EVT	EVT-Brexit
+727	737	Open skies	Open skies	PRO	PRO-Open-skies
+840	854	Великобритания	Великобритания	LOC	GPE-Great-Britain
+863	872	Евросъюза	Евросъюз	ORG	ORG-European-Union
+956	970	Бритиш еъруейз	Бритиш еъруейз	ORG	ORG-British-Airways
+975	983	Изи Джет	Изи Джет	ORG	ORG-EasyJet
+1023	1030	Брекзит	Брекзит	EVT	EVT-Brexit
+1033	1038	Днес+	Днес+	ORG	ORG-DnesPlus

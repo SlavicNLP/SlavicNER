@@ -1,0 +1,11 @@
+6	12	Макрон	Макрон	PER	PER-Emmanuel-Macron
+71	77	Европа	Европа	LOC	LOC-Europe
+94	101	Франция	Франция	LOC	GPE-France
+102	116	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+218	225	Брекзит	Брекзит	EVT	EVT-Brexit
+305	320	The Independent	The Independent	PRO	PRO-The-Independent
+403	410	Брекзит	Брекзит	EVT	EVT-Brexit
+639	644	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+747	753	Макрон	Макрон	PER	PER-Emmanuel-Macron
+933	935	ЕС	ЕС	ORG	ORG-European-Union
+1051	1058	Брекзит	Брекзит	EVT	EVT-Brexit

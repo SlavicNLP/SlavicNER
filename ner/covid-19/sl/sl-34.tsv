@@ -1,0 +1,29 @@
+0	7	Bruselj	Bruselj	LOC	GPE-Brussles
+20	31	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+94	103	covidu-19	covid-19	EVT	EVT-Covid-19
+105	122	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+163	174	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+255	264	covidu-19	covid-19	EVT	EVT-Covid-19
+286	288	EU	EU	ORG	ORG-European-Union
+363	370	Bruslju	Bruselj	LOC	GPE-Brussles
+497	508	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+821	823	EU	EU	ORG	ORG-European-Union
+877	886	covidu-19	covid-19	EVT	EVT-Covid-19
+928	939	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1005	1022	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+1023	1043	Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+1175	1182	Bruslju	Bruselj	LOC	GPE-Brussles
+1324	1330	Sanofi	Sanofi	ORG	ORG-Sanofi
+1331	1334	GSK	GSK	ORG	ORG-GSK
+1336	1353	Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+1355	1362	CureVac	CureVac	ORG	ORG-CureVac
+1366	1373	Moderna	Moderna	ORG	ORG-Moderna
+1414	1430	Stela Kiriakides	Stela Kiriakides	PER	PER-Stella-Kyriakides
+1504	1512	Francije	Francija	LOC	GPE-France
+1514	1521	Nemčije	Nemčija	LOC	GPE-Germany
+1523	1530	Italije	Italija	LOC	GPE-Italy
+1534	1544	Nizozemske	Nizozemska	LOC	GPE-Holland
+1675	1686	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1690	1708	univerza v Oxfordu	univerza v Oxfordu	ORG	ORG-University-of-Oxford
+1852	1871	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+2054	2071	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission

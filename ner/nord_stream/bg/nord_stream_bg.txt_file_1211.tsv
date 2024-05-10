@@ -1,0 +1,60 @@
+0	5	Путин	Путин	PER	PER-Vladimir-Putin
+8	14	Меркел	Меркел	PER	PER-Angela-Merkel
+51	66	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+69	83	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+92	99	РОЙТЕРС	Ройтерс	ORG	ORG-Reuters
+115	120	Русия	Русия	LOC	GPE-Russia
+121	135	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+151	159	Германия	Германия	LOC	GPE-Germany
+160	173	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+246	261	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+272	276	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+303	308	Русия	Русия	LOC	GPE-Russia
+311	319	Германия	Германия	LOC	GPE-Germany
+381	396	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+422	428	Кремъл	Кремъл	LOC	LOC-Kremlin
+447	455	Германия	Германия	LOC	GPE-Germany
+545	548	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+550	565	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+617	630	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+647	652	Русия	Русия	LOC	GPE-Russia
+655	663	Германия	Германия	LOC	GPE-Germany
+677	691	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+726	733	Украйна	Украйна	LOC	GPE-Ukraine
+735	742	Беларус	Беларус	LOC	GPE-Belarus
+744	749	Полша	Полша	LOC	GPE-Poland
+841	854	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+943	948	Русия	Русия	LOC	GPE-Russia
+950	959	Финландия	Финландия	LOC	GPE-Finland
+961	967	Швеция	Швеция	LOC	GPE-Sweden
+969	974	Дания	Дания	LOC	GPE-Denmark
+977	985	Германия	Германия	LOC	GPE-Germany
+1162	1177	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+1327	1333	Европа	Европа	LOC	LOC-Europe
+1339	1346	Украйна	Украйна	LOC	GPE-Ukraine
+1411	1422	Ханделсблат	Ханделсблат	PRO	PRO-Handelsblatt
+1425	1434	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+1491	1496	Русия	Русия	LOC	GPE-Russia
+1580	1594	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1701	1706	Сирия	Сирия	LOC	GPE-Syria
+1731	1737	Кремъл	Кремъл	LOC	LOC-Kremlin
+1751	1755	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+1799	1804	Сирия	Сирия	LOC	GPE-Syria
+1862	1868	Дамаск	Дамаск	LOC	GPE-Damascus
+2061	2066	Путин	Путин	PER	PER-Vladimir-Putin
+2069	2075	Меркел	Меркел	PER	PER-Angela-Merkel
+2160	2167	Украйна	Украйна	LOC	GPE-Ukraine
+2180	2199	нормандска четворка	нормандска четворка	ORG	ORG-Normandy-Four
+2202	2210	Германия	Германия	LOC	GPE-Germany
+2212	2219	Франция	Франция	LOC	GPE-France
+2221	2226	Русия	Русия	LOC	GPE-Russia
+2228	2235	Украйна	Украйна	LOC	GPE-Ukraine
+2265	2270	Тръмп	Тръмп	PER	PER-Donald-Trump
+2276	2284	Германия	Германия	LOC	GPE-Germany
+2298	2313	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+2342	2351	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+2362	2369	Скрипал	Скрипал	EVT	EVT-Skripal-Affair
+2388	2403	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+2423	2430	Скрипал	Скрипал	EVT	EVT-Skripal-Affair
+2432	2440	Германия	Германия	LOC	GPE-Germany
+2461	2476	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2

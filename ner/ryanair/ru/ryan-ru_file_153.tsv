@@ -1,0 +1,21 @@
+0	7	Ryanair	Ryanair	ORG	ORG-Ryanair
+87	93	Европе	Европа	LOC	LOC-Europe
+151	159	BBC News	BBC News	ORG	ORG-BBC-News-Russian
+189	196	Ryanair	Ryanair	ORG	ORG-Ryanair
+236	243	Ryanair	Ryanair	ORG	ORG-Ryanair
+426	433	Ryanair	Ryanair	ORG	ORG-Ryanair
+448	462	Кенни Джейкобс	Кенни Джейкобс	PER	PER-Kenny-Jacobs
+617	624	Ryanair	Ryanair	ORG	ORG-Ryanair
+627	634	Испании	Испания	LOC	GPE-Spain
+636	643	Бельгии	Бельгия	LOC	GPE-Belgium
+645	654	Голландии	Голландия	LOC	GPE-Holland
+656	666	Португалии	Португалия	LOC	GPE-Portugal
+668	674	Италии	Италия	LOC	GPE-Italy
+677	685	Германии	Германия	LOC	GPE-Germany
+862	871	Борисполь	Борисполь	LOC	LOC-Boryspil-Airport-Kiev
+891	895	Киев	Киев	LOC	GPE-Kiev
+896	902	Берлин	Берлин	LOC	GPE-Berlin
+1113	1122	Борисполь	Борисполь	LOC	LOC-Boryspil-Airport-Kiev
+1125	1130	Львов	Львов	LOC	LOC-Lviv-Airport
+1152	1159	Ryanair	Ryanair	ORG	ORG-Ryanair
+1179	1202	Украинское государство.	Украинское государство.	LOC	GPE-Ukraine

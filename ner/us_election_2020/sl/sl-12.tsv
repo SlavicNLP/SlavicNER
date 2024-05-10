@@ -1,0 +1,40 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+112	124	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+180	201	Upravi splošnih služb	Uprava splošnih služb	ORG	ORG-General-Services-Administration
+203	206	GSA	GSA	ORG	ORG-General-Services-Administration
+328	340	Joseph Biden	Joseph Biden	PER	PER-Joe-Biden
+422	427	Biden	Biden	PER	PER-Joe-Biden
+564	583	zvezne policije FBI	zvezna policija FBI	ORG	ORG-FBI
+736	741	Trump	Trump	PER	PER-Donald-Trump
+806	809	GSA	GSA	ORG	ORG-General-Services-Administration
+810	822	Emily Murphy	Emily Murphy	PER	PER-Emily-Murphy
+1068	1073	Bidnu	Biden	PER	PER-Joe-Biden
+1129	1138	Michigana	Michigan	LOC	GPE-Michigan
+1148	1155	Bidnovo	Biden	PER	PER-Joe-Biden
+1164	1169	Trump	Trump	PER	PER-Donald-Trump
+1217	1225	Trumpova	Trump	PER	PER-Donald-Trump
+1287	1292	Bidna	Biden	PER	PER-Joe-Biden
+1319	1325	Nevada	Nevada	LOC	GPE-Nevada
+1386	1395	Michigana	Michigan	LOC	GPE-Michigan
+1433	1440	Bidnovo	Biden	PER	PER-Joe-Biden
+1459	1466	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1534	1542	Turmpove	Trump	PER	PER-Donald-Trump
+1554	1559	Trump	Trump	PER	PER-Donald-Trump
+1688	1693	Emily	Emily	PER	PER-Emily-Murphy
+1793	1798	Trump	Trump	PER	PER-Donald-Trump
+1836	1845	Michiganu	Michigan	LOC	GPE-Michigan
+1871	1884	republikancev	republikanci	PER	ORG-Republican-Party-USA
+1949	1960	Tennesseeja	Tennessee	LOC	GPE-Tennessee
+1961	1976	Lamar Alexander	Lamar Alexander	PER	PER-Lamar-Alexander
+2032	2036	Ohia	Ohio	LOC	GPE-Ohio
+2037	2048	Rob Portman	Rob Portman	PER	PER-Rob-Portman
+2095	2106	Mitt Romney	Mitt Romney	PER	PER-Mitt-Romney
+2110	2115	Utaha	Utah	LOC	GPE-Utah
+2117	2131	Lisa Murkowski	Lisa Murkowski	PER	PER-Lisa-Murkowski
+2135	2142	Aljaske	Aljaska	LOC	GPE-Alaska
+2144	2153	Ben Sasse	Ben Sasse	PER	PER-Ben-Sasse
+2157	2165	Nebraske	Nebraska	LOC	GPE-Nebraska
+2167	2187	Shelley Moore Capito	Shelley Moore Capito	PER	PER-Shelley-Moore-Capito
+2191	2208	Zahodne Virginije	Zahodna Virginija	LOC	GPE-West-Virginia
+2212	2225	Susan Collins	Susan Collins	PER	PER-Susan-Collins
+2229	2234	Maina	Maine	LOC	GPE-Maine

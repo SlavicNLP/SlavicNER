@@ -1,0 +1,79 @@
+11	14	SDS	SDS	ORG	ORG-Slovenian-Democratic-Party
+15	26	Janez Janša	Janez Janša	PER	PER-Janez-Janša
+39	41	EU	EU	ORG	ORG-European-Union
+45	49	NATO	NATO	ORG	ORG-NATO
+56	65	Slovenijo	Slovenija	LOC	GPE-Slovenia
+77	88	Janez Janša	Janez Janša	PER	PER-Janez-Janša
+90	99	Slovenija	Slovenija	LOC	GPE-Slovenia
+255	269	Evropske unije	Evropska unija	ORG	ORG-European-Union
+290	293	SDS	SDS	ORG	ORG-Slovenian-Democratic-Party
+294	305	Janez Janša	Janez Janša	PER	PER-Janez-Janša
+335	349	Dimitrij Rupel	Dimitrij Rupel	PER	PER-Dimitrij-Rupel
+380	389	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+409	464	referenduma o vstopu Slovenije v Evropsko unijo in Nato	referenduma o vstopu Slovenije v Evropsko unijo in Nato	EVT	EVT-2003-Slovenian-European-Union-and-NATO-membership-referendum
+556	567	Igor Senčar	Igor Senčar	PER	PER-Igor-Senčar
+575	580	Janša	Janša	PER	PER-Janez-Janša
+585	590	Rupel	Rupel	PER	PER-Dimitrij-Rupel
+614	659	referendumoma o vstopu Slovenije v EU in Nato	referenduma o vstopu Slovenije v EU in Nato	EVT	EVT-2003-Slovenian-European-Union-and-NATO-membership-referendum
+786	791	Rupel	Rupel	PER	PER-Dimitrij-Rupel
+821	824	LDS	LDS	ORG	ORG-Liberal-Democracy-of-Slovenia
+890	894	Nato	Nato	ORG	ORG-NATO
+995	999	Natu	Nato	ORG	ORG-NATO
+1022	1025	LDS	LDS	ORG	ORG-Liberal-Democracy-of-Slovenia
+1108	1110	EU	EU	ORG	ORG-European-Union
+1162	1166	Nato	Nato	ORG	ORG-NATO
+1233	1242	Slovenija	Slovenija	LOC	GPE-Slovenia
+1272	1276	Nato	Nato	ORG	ORG-NATO
+1301	1303	EU	EU	ORG	ORG-European-Union
+1407	1426	schengensko območje	schengensko območje	LOC	LOC-Schengen-Area
+1476	1484	Svetu EU	Svet EU	ORG	ORG-EU-Council
+1547	1552	Janše	Janša	PER	PER-Janez-Janša
+1597	1606	Slovenije	Slovenija	LOC	GPE-Slovenia
+1609	1611	EU	EU	ORG	ORG-European-Union
+1615	1619	NATO	NATO	ORG	ORG-NATO
+1637	1649	Janeza Janše	Janez Janša	PER	PER-Janez-Janša
+1929	1945	Prešernovem trgu	Prešernov trg	LOC	LOC-Prešeren-Square
+2094	2096	EU	EU	ORG	ORG-European-Union
+2100	2104	NATO	NATO	ORG	ORG-NATO
+2253	2255	EU	EU	ORG	ORG-European-Union
+2483	2492	Slovenija	Slovenija	LOC	GPE-Slovenia
+2501	2515	Evropske unije	Evropska unija	ORG	ORG-European-Union
+2684	2693	Pahorjeva	Pahor	PER	PER-Borut-Pahor
+2966	2975	Slovenija	Slovenija	LOC	GPE-Slovenia
+2989	2991	EU	EU	ORG	ORG-European-Union
+3094	3097	SDS	SDS	ORG	ORG-Slovenian-Democratic-Party
+3178	3187	Slovenija	Slovenija	LOC	GPE-Slovenia
+3212	3224	Janeza Janšo	Janez Janša	PER	PER-Janez-Janša
+3303	3305	EU	EU	ORG	ORG-European-Union
+3602	3604	EU	EU	ORG	ORG-European-Union
+3735	3742	Obrežje	Obrežje	LOC	LOC-Obrežje
+3781	3787	Kosova	Kosovo	LOC	GPE-Kosovo
+3791	3801	Makedonije	Makedonija	LOC	GPE-North-Macedonia
+4007	4018	Janez Janša	Janez Janša	PER	PER-Janez-Janša
+4090	4096	Siriji	Sirija	LOC	GPE-Syria
+4098	4106	Somaliji	Somalija	LOC	GPE-Somalia
+4111	4117	Libiji	Libija	LOC	GPE-Libya
+4205	4211	Evropi	Evropa	LOC	LOC-Europe
+4262	4268	Evropi	Evropa	LOC	LOC-Europe
+4365	4383	podsaharski Afriki	podsaharska Afrika	LOC	LOC-Sub-Saharan-Africa
+4454	4460	Evropi	Evropa	LOC	LOC-Europe
+4497	4503	Afriki	Afrika	LOC	LOC-Africa
+4529	4532	SDS	SDS	ORG	ORG-Slovenian-Democratic-Party
+4547	4553	Evropo	Evropa	LOC	LOC-Europe
+4786	4792	Evropi	Evropa	LOC	LOC-Europe
+4897	4903	brexit	brexit	EVT	EVT-Brexit
+4940	4946	Evropa	Evropa	LOC	LOC-Europe
+4950	4957	brexitu	brexit	EVT	EVT-Brexit
+4978	4984	Evropa	Evropa	LOC	LOC-Europe
+5095	5102	Nemčija	Nemčija	LOC	GPE-Germany
+5137	5143	Evropo	Evropa	LOC	LOC-Europe
+5325	5338	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+5382	5396	zahodne Evrope	zahodna Evropa	LOC	LOC-Western-Europe
+5400	5406	Rusije	Rusija	LOC	GPE-Russia
+5460	5469	Slovenije	Slovenija	LOC	GPE-Slovenia
+5621	5626	Janša	Janša	PER	PER-Janez-Janša
+5649	5658	Slovenijo	Slovenija	LOC	GPE-Slovenia
+5825	5827	EU	EU	ORG	ORG-European-Union
+6088	6092	NATO	NATO	ORG	ORG-NATO
+6105	6114	Slovenije	Slovenija	LOC	GPE-Slovenia
+6136	6140	NATO	NATO	ORG	ORG-NATO

@@ -1,0 +1,41 @@
+21	27	brexit	Brexit	EVT	EVT-Brexit
+171	188	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+208	227	Wyspach Brytyjskich	Wyspy Brytyjskie	LOC	GPE-Great-Britain
+300	308	brexicie	Brexit	EVT	EVT-Brexit
+408	422	Caroline Nokes	Caroline Nokes	PER	PER-Caroline-Nokes
+462	465	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+767	784	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+810	815	Nokes	Nokes	PER	PER-Caroline-Nokes
+865	876	Home Office	Home Office	ORG	ORG-Home-Office-UK
+1106	1123	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1124	1137	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1595	1612	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1640	1643	MSW	MSW	ORG	ORG-Home-Office-UK
+2061	2063	UE	UE	ORG	ORG-European-Union
+2117	2119	UE	UE	ORG	ORG-European-Union
+2184	2201	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2668	2685	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3056	3073	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3121	3138	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3141	3147	Polacy	Polacy	PER	GPE-Poland
+3160	3179	Wyspach Brytyjskich	Wyspy Brytyjskie	LOC	GPE-Great-Britain
+3239	3244	Nokes	Nokes	PER	PER-Caroline-Nokes
+3264	3267	MSW	MSW	ORG	ORG-Home-Office-UK
+3332	3349	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3366	3373	Polaków	Polacy	PER	GPE-Poland
+3383	3398	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+3503	3509	Polacy	Polacy	PER	GPE-Poland
+3527	3529	UE	UE	ORG	ORG-European-Union
+3563	3587	narodowej służby zdrowia	Narodowa Służba Zdrowia	ORG	ORG-NHS
+3589	3592	NHS	NHS	ORG	ORG-NHS
+3677	3679	UE	UE	ORG	ORG-European-Union
+3794	3811	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3870	3877	brexitu	Brexit	EVT	EVT-Brexit
+3949	3951	UE	UE	ORG	ORG-European-Union
+4000	4017	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4555	4570	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4734	4741	Polaków	Polacy	PER	GPE-Poland
+4777	4794	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4810	4825	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4854	4856	UE	UE	ORG	ORG-European-Union
+4899	4908	Wspólnotę	Wspólnota	ORG	ORG-European-Union

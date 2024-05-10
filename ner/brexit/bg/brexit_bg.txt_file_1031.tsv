@@ -1,0 +1,19 @@
+0	6	Макрон	Макрон	PER	PER-Emmanuel-Macron
+8	14	Лондон	Лондон	LOC	GPE-London
+53	55	ЕС	ЕС	ORG	ORG-European-Union
+118	132	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+154	162	Би Би Си	Би Би Си	PRO	PRO-BBC
+167	181	Великобритания	Великобритания	LOC	GPE-Great-Britain
+230	232	ЕС	ЕС	ORG	ORG-European-Union
+358	373	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+387	390	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+476	482	Макрон	Макрон	PER	PER-Emmanuel-Macron
+495	501	Лондон	Лондон	LOC	GPE-London
+554	556	ЕС	ЕС	ORG	ORG-European-Union
+630	650	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+864	870	Макрон	Макрон	PER	PER-Emmanuel-Macron
+920	928	Брекзита	Брекзит	EVT	EVT-Brexit
+1069	1071	ЕС	ЕС	ORG	ORG-European-Union
+1150	1155	Париж	Париж	LOC	GPE-Paris
+1177	1183	Берлин	Берлин	LOC	GPE-Berlin
+1216	1224	Брекзита	Брекзит	EVT	EVT-Brexit

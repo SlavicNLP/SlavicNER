@@ -1,0 +1,14 @@
+156	167	Pensylvánie	Pensylvánie	LOC	GPE-Pennsylvania
+169	177	Michigan	Michigan	LOC	GPE-Michigan
+179	188	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+235	248	Velkých jezer	Velká jezera	LOC	LOC-Great-Lakes
+272	279	Amerika	Amerika	LOC	GPE-USA
+338	341	USA	USA	LOC	GPE-USA
+342	352	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+355	366	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+392	394	AP	AP	ORG	ORG-AP-The-Associated-Press
+458	470	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+645	661	Severní Karolíně	Severní Karolína	LOC	GPE-North-Carolina-US-State
+663	670	Georgii	Georgie	LOC	GPE-Georgia-US-state
+685	696	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+807	823	amerických voleb	americké volby	EVT	EVT-2020-United-States-Presidential-Election

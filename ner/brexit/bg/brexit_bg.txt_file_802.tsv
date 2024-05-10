@@ -1,0 +1,68 @@
+189	191	ЕС	ЕС	ORG	ORG-European-Union
+214	221	Брекзит	Брекзит	EVT	EVT-Brexit
+242	252	британците	британци	PER	GPE-Great-Britain
+266	273	Брюксел	Брюксел	LOC	GPE-Brussles
+721	737	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+869	883	Великобритания	Великобритания	LOC	GPE-Great-Britain
+953	961	Ирландия	Ирландия	LOC	GPE-Ireland
+1012	1019	Белфаст	Белфаст	LOC	GPE-Belfast
+1109	1117	Шин Фейн	Шин Фейн	ORG	ORG-Sinn-Fein
+1205	1212	Брекзит	Брекзит	EVT	EVT-Brexit
+1309	1325	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1328	1334	Лондон	Лондон	LOC	GPE-London
+1401	1407	Дъблин	Дъблин	LOC	GPE-Dublin
+1439	1441	ЕС	ЕС	ORG	ORG-European-Union
+1442	1454	Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+1588	1606	Смарагдовия остров	Смарагдов остров	LOC	GPE-Ireland
+1801	1807	Лондон	Лондон	LOC	GPE-London
+1810	1816	Дъблин	Дъблин	LOC	GPE-Dublin
+1827	1834	Брюксел	Брюксел	LOC	GPE-Brussles
+2087	2089	ЕС	ЕС	ORG	ORG-European-Union
+2183	2190	Брюксел	Брюксел	LOC	GPE-Brussles
+2227	2234	Брекзит	Брекзит	EVT	EVT-Brexit
+2267	2281	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2357	2359	ЕС	ЕС	ORG	ORG-European-Union
+2527	2537	британците	британци	PER	GPE-Great-Britain
+2552	2563	европейците	европейци	PER	LOC-Europe
+2761	2771	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2838	2845	Брекзит	Брекзит	EVT	EVT-Brexit
+2926	2932	Лондон	Лондон	LOC	GPE-London
+2968	2970	ЕС	ЕС	ORG	ORG-European-Union
+2995	3009	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3162	3164	ЕС	ЕС	ORG	ORG-European-Union
+3206	3238	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+3240	3243	СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+3332	3335	САЩ	САЩ	LOC	GPE-USA
+3343	3355	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3390	3400	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3403	3408	Давос	Давос	LOC	GPE-Davos
+3678	3685	Брекзит	Брекзит	EVT	EVT-Brexit
+3701	3715	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+3925	3931	Англия	Англия	LOC	GPE-England
+4102	4112	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4256	4261	Китай	Китай	LOC	GPE-China
+4383	4390	Брекзит	Брекзит	EVT	EVT-Brexit
+4643	4648	Китай	Китай	LOC	GPE-China
+4749	4757	Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+4850	4870	Поднебесната империя	Поднебесна империя	LOC	GPE-China
+4995	5009	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5012	5017	Китай	Китай	LOC	GPE-China
+5023	5030	Брекзит	Брекзит	EVT	EVT-Brexit
+5090	5096	Лондон	Лондон	LOC	GPE-London
+5125	5134	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+5147	5152	Пекин	Пекин	LOC	GPE-Beijing
+5313	5319	Лондон	Лондон	LOC	GPE-London
+5345	5347	Иу	Иу	LOC	GPE-Yiwu
+5372	5381	Казахстан	Казахстан	LOC	GPE-Kazakhstan
+5383	5388	Русия	Русия	LOC	GPE-Russia
+5390	5397	Беларус	Беларус	LOC	GPE-Belarus
+5400	5405	Полша	Полша	LOC	GPE-Poland
+5409	5417	Дуисбург	Дуисбург	LOC	GPE-Duisburg
+5420	5428	Германия	Германия	LOC	GPE-Germany
+5514	5528	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5530	5536	Италия	Италия	LOC	GPE-Italy
+5539	5546	Испания	Испания	LOC	GPE-Spain
+5597	5602	Пекин	Пекин	LOC	GPE-Beijing
+5656	5670	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+5805	5811	БДЖ-то	БДЖ	ORG	ORG-Bulgarian-State-Railways
+5815	5824	китайците	китайци	PER	GPE-China

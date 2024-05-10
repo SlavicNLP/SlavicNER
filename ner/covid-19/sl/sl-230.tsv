@@ -1,0 +1,43 @@
+14	17	ZDA	ZDA	LOC	GPE-USA
+47	55	covid-19	covid-19	EVT	EVT-Covid-19
+59	66	Trumpov	Trumpov	PER	PER-Donald-Trump
+76	84	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+101	110	New Yorka	New York	LOC	GPE-New-York
+145	148	ZDA	ZDA	LOC	GPE-USA
+185	197	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+277	289	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+320	333	koronavirusom	koronavirus	EVT	EVT-Covid-19
+357	370	Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+383	393	Giulianija	Giuliani	PER	PER-Rudy-Giuliani
+464	475	Washingtonu	Washington	LOC	GPE-WashingtonDC
+504	513	New Yorka	New York	LOC	GPE-New-York
+521	530	Američani	Američani	PER	GPE-USA
+593	599	Trumpa	Trump	PER	PER-Donald-Trump
+626	631	Trump	Trump	PER	PER-Donald-Trump
+716	727	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+731	765	predsedniških volitvah 3. novembra	predsedniške volitve 3. novembra	EVT	EVT-2020-United-States-Presidential-Election
+768	776	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+811	814	ZDA	ZDA	LOC	GPE-USA
+851	856	Trump	Trump	PER	PER-Donald-Trump
+932	940	Lansingu	Lansing	LOC	GPE-Lansing
+943	952	Michiganu	Michigan	LOC	GPE-Michigan
+1020	1027	Bidnovo	Biden	PER	PER-Joe-Biden
+1059	1065	Trumpa	Trump	PER	PER-Donald-Trump
+1096	1103	Georgii	Georgia	LOC	GPE-Georgia-US-state
+1141	1151	Brian Kemp	Brian Kemp	PER	PER-Brian-Kemp
+1199	1218	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+1221	1224	ZDA	ZDA	LOC	GPE-USA
+1287	1298	Kaliforniji	Kalifornija	LOC	GPE-California
+1322	1331	covida-19	covid-19	EVT	EVT-Covid-19
+1361	1373	Gavin Newsom	Gavin Newsom	PER	PER-Gavin-Newsom
+1703	1714	Kaliforniji	Kalifornija	LOC	GPE-California
+1723	1729	Teksas	Teksas	LOC	GPE-Texas
+1783	1792	covida-19	covid-19	EVT	EVT-Covid-19
+1794	1801	Florida	Florida	LOC	GPE-Florida
+1841	1849	Illinois	Illinois	LOC	GPE-Illionis
+1886	1894	New York	New York	LOC	GPE-New-York
+1934	1943	covida-19	covid-19	EVT	EVT-Covid-19
+1972	1975	ZDA	ZDA	LOC	GPE-USA
+2157	2160	ZDA	ZDA	LOC	GPE-USA
+2466	2477	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+2532	2548	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19

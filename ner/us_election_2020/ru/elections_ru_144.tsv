@@ -1,0 +1,41 @@
+0	12	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+56	58	РФ	РФ	LOC	GPE-Russia
+88	100	Getty Images	Getty Images	PRO	PRO-Getty-Images
+160	166	России	России	LOC	GPE-Russia
+190	193	США	США	LOC	GPE-USA
+272	285	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+425	431	России	Россия	LOC	GPE-Russia
+434	459	президентские выборы 2016	президентские выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+560	573	республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+738	741	США	США	LOC	GPE-USA
+742	757	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+760	770	российской	российская	LOC	GPE-Russia
+816	823	Мюллера	Мюллер	PER	PER-Robert-Mueller
+835	841	Россия	Россия	LOC	GPE-Russia
+869	876	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+886	892	Трампу	Трамп	PER	PER-Donald-Trump
+934	943	Белый дом	Белый дом	ORG	ORG-The-White-House
+1157	1165	Politico	ORG-Politico	PRO	PRO-Politico
+1202	1216	республиканцев	республиканцев	PER	ORG-Republican-Party-USA
+1238	1249	Адаму Шиффу	Адам Шифф	PER	PER-Adam-Schiff
+1251	1259	демократ	демократ	PER	ORG-Democratic-Party-USA
+1263	1279	штата Калифорния	штата Калифорния	LOC	GPE-USA
+1385	1395	российское	российское	LOC	GPE-Russia
+1414	1420	Москва	Москва	LOC	GPE-Moscow
+1478	1488	российским	российское	LOC	GPE-Russia
+1506	1518	американские	американские	LOC	GPE-USA
+1561	1569	Дональда	Дональд	PER	PER-Donald-Trump
+1570	1576	Трампа	Трамп	PER	PER-Donald-Trump
+1589	1592	США	США	LOC	GPE-USA
+1615	1625	Минюст США	Минюст США	ORG	ORG-Foreign-Office
+1645	1652	Мюллера	Мюллер	PER	PER-Robert-Mueller
+1725	1728	США	США	LOC	GPE-USA
+1731	1738	Россией	Россия	LOC	GPE-Russia
+1748	1781	президентских выборов в 2016 году	президентские выборы в 2016	EVT	EVT-2016-United-States-Presidential-Election
+1811	1813	РФ	РФ	LOC	GPE-Russia
+1828	1866	президентские выборы в США в 2016 году	президентские выборы в США в 2016	EVT	EVT-2016-United-States-Presidential-Election
+1890	1896	Трампа	Трамп	PER	PER-Donald-Trump
+2118	2135	Корреспондент.net	Корреспондент.net	PRO	PRO-Korrespondent-net
+2178	2202	«Новости Украины и мира»	«Новости Украины и мира»	PRO	"PRO-""Новости Украины и Мира"""
+2747	2766	"""Интерфакс-Украина"""	"""Интерфакс-Украина"""	PRO	"PRO-""Интерфакс-Украина"""
+2768	2777	EPA / UPG	EPA / UPG	PRO	PRO-EPA/UPG

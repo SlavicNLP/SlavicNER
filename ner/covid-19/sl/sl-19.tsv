@@ -1,0 +1,27 @@
+0	6	Pfizer	Pfizer	ORG	ORG-Pfizer
+10	18	BioNTech	BioNTech	ORG	ORG-BioNTech
+33	42	covidu-19	covid-19	EVT	EVT-Covid-19
+94	103	covidu-19	covid-19	EVT	EVT-Covid-19
+158	164	Pfizer	Pfizer	ORG	ORG-Pfizer
+198	206	BioNTech	BioNTech	ORG	ORG-BioNTech
+440	448	BNT162b2	BNT162b2	PRO	PRO-BNT162b2-Tozinameran
+736	755	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+870	873	dpa	dpa	ORG	ORG-DPA
+944	950	Pfizer	Pfizer	ORG	ORG-Pfizer
+954	962	BioNTech	BioNTech	ORG	ORG-BioNTech
+1145	1154	covidu-19	covid-19	EVT	EVT-Covid-19
+1273	1281	Pfizerja	Pfizer	ORG	ORG-Pfizer
+1282	1295	Albert Bourla	Albert Bourla	PER	PER-Albert-Bourla
+1506	1512	Bourla	Bourla	PER	PER-Albert-Bourla
+1572	1581	covida-19	covid-19	EVT	EVT-Covid-19
+1637	1656	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1736	1742	Pfizer	Pfizer	ORG	ORG-Pfizer
+1746	1754	BioNTech	BioNTech	ORG	ORG-BioNTech
+1784	1822	ameriški agenciji za zdravila in hrano	ameriška agencija za zdravila in hrano	ORG	ORG-FDA-Food-and-Drug-Administration
+2137	2145	Pfizerja	Pfizer	ORG	ORG-Pfizer
+2171	2180	BoiNtecha	BoiNtech	ORG	ORG-BioNTech
+2281	2293	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2396	2401	Trump	Trump	PER	PER-Donald-Trump
+2438	2447	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2558	2567	covidu-19	covid-19	EVT	EVT-Covid-19
+2674	2693	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

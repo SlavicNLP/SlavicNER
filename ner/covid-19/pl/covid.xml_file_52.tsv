@@ -1,0 +1,23 @@
+29	35	Polski	Polska	LOC	GPE-Poland
+81	87	Polski	Polska	LOC	GPE-Poland
+139	153	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+160	166	Pfizer	Pfizer	ORG	ORG-Pfizer
+180	208	Agencja Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+324	327	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+328	348	Michał Kuczmierowski	Michał Kuczmierowski	PER	PER-Michał-Kuczmierowski
+350	363	Kuczmierowski	Kuczmierowski	PER	PER-Michał-Kuczmierowski
+390	393	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+455	463	Warszawy	Warszawa	LOC	GPE-Warsaw
+528	531	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+534	540	Wąwale	Wąwal	LOC	GPE-Wąwal
+545	567	Tomaszowem Mazowieckim	Tomaszów Mazowiecki	LOC	GPE-Tomaszów-Mazowiecki
+844	852	Covid-19	Covid-19	EVT	EVT-Covid-19
+965	968	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+1036	1042	Polski	Polska	LOC	GPE-Poland
+1301	1314	Kuczmierowski	Kuczmierowski	PER	PER-Michał-Kuczmierowski
+1361	1364	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1757	1763	Polski	Polska	LOC	GPE-Poland
+1940	1943	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+2209	2222	Kuczmierowski	Kuczmierowski	PER	PER-Michał-Kuczmierowski
+2386	2392	Polsce	Polska	LOC	GPE-Poland
+2413	2421	COVID-19	COVID-19	EVT	EVT-Covid-19

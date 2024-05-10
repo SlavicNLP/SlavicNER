@@ -1,0 +1,27 @@
+0	9	Discovery	Discovery	ORG	ORG-Discovery-Inc
+29	36	Londynu	Londyn	LOC	GPE-London
+69	77	Warszawy	Warszawa	LOC	GPE-Warsaw
+85	91	Brexit	Brexit	EVT	EVT-Brexit
+152	160	Londynie	Londyn	LOC	GPE-London
+220	227	Europie	Europa	LOC	LOC-Europe
+309	317	Guardian	Guardian	PRO	PRO-The-Guardian
+339	348	Discovery	Discovery	ORG	ORG-Discovery-Inc
+388	395	Londynu	Londyn	LOC	GPE-London
+512	518	Stanów	Stany	LOC	GPE-USA
+591	601	Amsterdamu	Amsterdam	LOC	GPE-Amsterdam
+651	659	Netflixa	Netflix	ORG	ORG-Netflix
+682	691	Discovery	Discovery	ORG	ORG-Discovery-Inc
+749	758	Discovery	Discovery	ORG	ORG-Discovery-Inc
+779	787	Warszawy	Warszawa	LOC	GPE-Warsaw
+789	795	Polska	Polska	LOC	GPE-Poland
+944	953	Discovery	Discovery	ORG	ORG-Discovery-Inc
+959	964	Polka	Polka	PER	GPE-Poland
+965	980	Katarzyna Kieli	Katarzyna Kieli	PER	PER-Katarzyna-Kieli
+1025	1042	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1044	1055	Skandynawii	Skandynawia	LOC	LOC-Scandinavia
+1057	1076	Europie Południowej	Europa Południowa	LOC	LOC-Southern-Europe
+1079	1098	Środkowo-Wschodniej	Środkowo-Wschodnia	LOC	LOC-Middle-East-Europe
+1100	1117	Bliskim Wschodzie	Bliski Wschód	LOC	LOC-Near-East
+1120	1126	Afryce	Afryka	LOC	LOC-Africa
+1198	1226	Scripps Networks Interactive	Scripps Networks Interactive	ORG	ORG-SNI-Scripps-Networks-Interactive
+1240	1243	TVN	TVN	PRO	PRO-TVN

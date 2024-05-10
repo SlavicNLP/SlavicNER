@@ -1,0 +1,35 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+64	66	ЕС	ЕС	ORG	ORG-European-Union
+87	97	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+162	164	ЕС	ЕС	ORG	ORG-European-Union
+170	177	Брекзит	Брекзит	EVT	EVT-Brexit
+205	219	Дейли телеграф	Дейли телеграф	PRO	PRO-The-Daily-Telegraph
+243	253	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+318	320	ЕС	ЕС	ORG	ORG-European-Union
+326	333	Брекзит	Брекзит	EVT	EVT-Brexit
+361	375	Дейли телеграф	Дейли телеграф	PRO	PRO-The-Daily-Telegraph
+378	381	Мей	Мей	PER	PER-Theresa-May
+412	426	Великобритания	Великобритания	LOC	GPE-Great-Britain
+529	543	Великобритания	Великобритания	LOC	GPE-Great-Britain
+574	580	Европа	Европа	LOC	LOC-Europe
+612	624	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+651	658	Брезкит	Брекзит	EVT	EVT-Brexit
+659	672	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+701	704	Мей	Мей	PER	PER-Theresa-May
+706	712	Хамънд	Хамънд	PER	PER-Philip-Hammond
+756	770	Великобритания	Великобритания	LOC	GPE-Great-Britain
+784	786	ЕС	ЕС	ORG	ORG-European-Union
+814	820	Дейвис	Дейвис	PER	PER-David-Davis
+996	1017	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+1080	1087	Брекзит	Брекзит	EVT	EVT-Brexit
+1158	1160	ЕС	ЕС	ORG	ORG-European-Union
+1191	1198	Брюксел	Брюксел	LOC	GPE-Brussles
+1339	1359	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+1368	1371	Мей	Мей	PER	PER-Theresa-May
+1476	1497	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+1534	1537	Мей	Мей	PER	PER-Theresa-May
+1622	1629	Брюксел	Брюксел	LOC	GPE-Brussles
+1700	1702	ЕС	ЕС	ORG	ORG-European-Union
+1847	1854	Брюксел	Брюксел	LOC	GPE-Brussles
+1928	1930	ЕС	ЕС	ORG	ORG-European-Union
+1956	1973	Дъглас Мартин Хог	Дъглас Мартин Хог	PER	PER-Douglas-Martin-Hogg

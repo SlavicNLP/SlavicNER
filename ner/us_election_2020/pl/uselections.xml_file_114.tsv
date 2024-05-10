@@ -1,0 +1,55 @@
+6	12	Bidena	Biden	PER	PER-Joe-Biden
+15	21	Trumpa	Trump	PER	PER-Donald-Trump
+62	74	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+89	112	Powstania Warszawskiego	Powstanie Warszawskie	EVT	EVT-Warsaw-Uprising
+116	133	placu Krasińskich	plac Krasińskich	LOC	LOC-Krasiński-Square
+149	155	Polska	Polska	LOC	GPE-Poland
+178	185	Zachodu	Zachód	LOC	LOC-West
+242	251	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+338	347	Warszawie	Warszawa	LOC	GPE-Warsaw
+461	467	Polska	Polska	LOC	GPE-Poland
+585	597	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+620	631	Białym Domu	Biały Dom	LOC	LOC-White-House
+679	691	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+728	734	Polską	Polska	LOC	GPE-Poland
+737	758	Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+806	819	Andrzeja Dudy	Andrzej Duda	PER	PER-Andrzej-Duda
+835	847	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+936	939	USA	USA	LOC	GPE-USA
+955	961	Polską	Polska	LOC	GPE-Poland
+1067	1073	Trumpa	Trump	PER	PER-Donald-Trump
+1100	1106	Polski	Polska	LOC	GPE-Poland
+1158	1167	Niemczech	Niemcy	LOC	GPE-Germany
+1169	1178	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1215	1218	USA	USA	LOC	GPE-USA
+1222	1235	Baracka Obamy	Barack Obama	PER	PER-Barack-Obama
+1263	1269	Polską	Polska	LOC	GPE-Poland
+1289	1295	Polskę	Polska	LOC	GPE-Poland
+1326	1335	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1379	1385	Mińsku	Mińsk	LOC	GPE-Minsk
+1387	1396	Warszawie	Warszawa	LOC	GPE-Warsaw
+1402	1413	Budapeszcie	Budapeszt	LOC	GPE-Budapest
+1525	1554	Sojuszu Północnoatlantyckiego	Sojusz Północnoatlantycki	ORG	ORG-NATO
+1557	1561	NATO	NATO	ORG	ORG-NATO
+1633	1642	Białorusi	Białoruś	LOC	GPE-Belarus
+1646	1652	Polskę	Polska	LOC	GPE-Poland
+1655	1660	Węgry	Węgry	LOC	GPE-Hungary
+1741	1747	Bidena	Biden	PER	PER-Joe-Biden
+1780	1790	Filadelfii	Filadelfia	LOC	GPE-Philadelphia
+1871	1878	Polonii	Polonia	ORG	ORG-Polonia
+1925	1932	Polaków	Polacy	PER	GPE-Poland
+1935	1938	USA	USA	LOC	GPE-USA
+1997	2003	Polacy	Polacy	PER	GPE-Poland
+2049	2066	Ameryki Północnej	Ameryka Północna	LOC	LOC-North-America
+2161	2164	USA	USA	LOC	GPE-USA
+2423	2434	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+2436	2443	Florida	Florida	LOC	GPE-Florida
+2445	2453	Michigan	Michigan	LOC	GPE-Michigan
+2456	2465	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+2540	2547	Clinton	Clinton	PER	PER-Hillary-Clinton
+2551	2559	Michigan	Michigan	LOC	GPE-Michigan
+2562	2573	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+2574	2586	republikanin	republikanin	PER	ORG-Republican-Party-USA
+2630	2639	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+2684	2690	Trumpa	Trump	PER	PER-Donald-Trump
+2752	2759	Polonii	Polonia	ORG	ORG-Polonia

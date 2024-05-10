@@ -1,0 +1,39 @@
+29	35	Лондон	Лондон	LOC	GPE-London
+65	72	Брекзит	Брекзит	EVT	EVT-Brexit
+118	124	Лондон	Лондон	LOC	GPE-London
+126	140	Великобритания	Великобритания	LOC	GPE-Great-Britain
+188	190	ЕС	ЕС	ORG	ORG-European-Union
+212	219	Гринуич	Гринуич	LOC	GPE-Greenwich
+276	278	ЕС	ЕС	ORG	ORG-European-Union
+307	321	Великобритания	Великобритания	LOC	GPE-Great-Britain
+322	334	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+347	350	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+369	371	ЕС	ЕС	ORG	ORG-European-Union
+484	505	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+551	553	ЕС	ЕС	ORG	ORG-European-Union
+555	561	Барние	Барние	PER	PER-Michel-Barnier
+616	626	британците	британци	PER	GPE-Great-Britain
+671	683	Съвета на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+728	746	Европейският съвет	Европейски съвет	ORG	ORG-European-Council
+815	821	Лондон	Лондон	LOC	GPE-London
+824	830	Барние	Барние	PER	PER-Michel-Barnier
+857	863	Лондон	Лондон	LOC	GPE-London
+912	914	ЕС	ЕС	ORG	ORG-European-Union
+933	947	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1040	1059	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+1098	1110	Съвета на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+1320	1326	Барние	Барние	PER	PER-Michel-Barnier
+1328	1337	Захариева	Захариева	PER	PER-Ekaterina-Zakharieva
+1420	1422	ЕС	ЕС	ORG	ORG-European-Union
+1464	1491	българското председателство	Българско председателство	EVT	EVT-Bulgarian-Presidency-EU
+1503	1509	Барние	Барние	PER	PER-Michel-Barnier
+1601	1603	ЕС	ЕС	ORG	ORG-European-Union
+1648	1662	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1789	1799	Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+1855	1869	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1893	1895	ЕС	ЕС	ORG	ORG-European-Union
+1987	2006	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+2030	2032	ЕС	ЕС	ORG	ORG-European-Union
+2083	2097	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2139	2151	Съвета на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+2181	2208	българското председателство	Българско председателство	EVT	EVT-Bulgarian-Presidency-EU

@@ -1,0 +1,57 @@
+23	26	USA	USA	LOC	GPE-USA
+28	33	Biden	Biden	PER	PER-Joe-Biden
+36	45	Lady Gagą	Lady Gaga	PER	PER-Lady-Gaga
+47	52	Trump	Trump	PER	PER-Donald-Trump
+200	203	USA	USA	LOC	GPE-USA
+344	354	Amerykanów	Amerykanie	PER	GPE-USA
+448	451	USA	USA	LOC	GPE-USA
+523	532	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+533	542	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+574	585	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+616	625	Lady Gaga	Lady Gaga	PER	PER-Lady-Gaga
+635	647	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+659	667	Michigan	Michigan	LOC	GPE-Michigan
+763	772	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+802	818	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+922	941	Bartłomiej M. Nowak	Bartłomiej M. Nowak	PER	PER-Bartłomiej-Nowak
+955	990	Akademii Finansów i Biznesu Vistula	Akademia Finansów i Biznesu Vistula	ORG	ORG-Akademia-Vistula
+1095	1105	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1106	1121	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1128	1140	Białego Domu	Biały Dom	LOC	LOC-White-House
+1156	1168	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1214	1228	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1496	1515	Bartłomiej M. Nowak	Bartłomiej M. Nowak	PER	PER-Bartłomiej-Nowak
+1647	1657	Amerykanów	Amerykanie	PER	GPE-USA
+1731	1743	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1821	1841	Kolegium Elektorskim	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+1989	1994	Trump	Trump	PER	PER-Donald-Trump
+2048	2054	Trumpa	Trump	PER	PER-Donald-Trump
+2308	2313	Biden	Biden	PER	PER-Joe-Biden
+2342	2361	The New York Timesa	The New York Timesa	PRO	PRO-The-New-York-Times
+2363	2375	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2458	2498	Trump International Hotel w Waszyngtonie	Trump International Hotel w Waszyngtonie	LOC	LOC-Trump-International-Hotel
+2537	2548	Białym Domu	Biały Dom	LOC	LOC-White-House
+2571	2581	Eric Trump	Eric Trump	PER	PER-Eric-Trump
+2598	2606	Fox News	Fox News	PRO	PRO-Fox-News
+2691	2697	Trumpa	Trump	PER	PER-Donald-Trump
+2793	2804	Waszyngtonu	Waszyngton	LOC	GPE-WashingtonDC
+2821	2827	Trumpa	Trump	PER	PER-Donald-Trump
+2904	2915	Waszyngtonu	Waszyngton	LOC	GPE-WashingtonDC
+2916	2929	Muriel Bowser	Muriel Bowser	PER	PER-Muriel-Bowser
+2999	3011	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+3014	3033	Trump International	Trump International	LOC	LOC-Trump-International-Hotel
+3107	3116	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+3119	3132	Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+3150	3159	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+3183	3193	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+3210	3222	koronawirusa	koronawirus	EVT	EVT-Covid-19
+3238	3243	Biden	Biden	PER	PER-Joe-Biden
+3287	3295	Delaware	Delaware	LOC	GPE-Delaware
+3299	3305	Harris	Harris	PER	PER-Kamala-Harris
+3380	3390	Wilmington	Wilmington	LOC	GPE-Wilmington
+3400	3408	Delaware	Delaware	LOC	GPE-Delaware
+3420	3432	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+3486	3492	Trumpa	Trump	PER	PER-Donald-Trump
+3531	3542	Białym Domu	Biały Dom	LOC	LOC-White-House
+3585	3597	republikanów	republikanie	ORG	ORG-Republican-Party-USA
+3670	3684	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump

@@ -1,0 +1,25 @@
+0	10	Jan Urbach	Jan Urbach	PER	PER-Jan-Urbach
+12	25	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+47	53	Rusové	Rusové	PER	GPE-Russia
+55	60	Rusko	Rusko	LOC	GPE-Russia
+149	162	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+235	254	Süddeutsche Zeitung	Süddeutsche Zeitung	PRO	PRO-SUddeutsche-Zeitung
+272	278	Kremlu	Kreml	LOC	LOC-Kremlin
+279	293	Dmitrij Peskov	Dmitrij Peskov	PER	PER-Dmitry-Peskov
+360	375	Vlaimira Putina	Vladimir Putin	PER	PER-Vladimir-Putin
+378	396	Angelou Merkelovou	Angela Merkelová	PER	PER-Angela-Merkel
+459	467	Gazpromu	Gazprom	ORG	ORG-Gazprom
+691	697	Moskva	Moskva	LOC	GPE-Moscow
+832	845	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+877	880	USA	USA	LOC	GPE-USA
+923	929	Ruskem	Rusko	LOC	GPE-Russia
+979	985	Berlín	Berlín	LOC	GPE-Berlin
+1059	1065	Ruskem	Rusko	LOC	GPE-Russia
+1072	1087	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+1247	1260	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1294	1303	Ukrqajinu	Ukrajina	LOC	GPE-Ukraine
+1385	1395	Washington	Washington	LOC	GPE-WashingtonDC
+1444	1450	Evropy	Evropa	LOC	LOC-Europe
+1484	1498	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1501	1525	Jeanem-Claudem Junckerem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+1535	1545	Vasevec.cz	Vasevec.cz	PRO	PRO-Vasevec.cz

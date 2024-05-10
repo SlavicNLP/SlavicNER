@@ -1,0 +1,17 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+12	26	Консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+76	83	Брекзит	Брекзит	EVT	EVT-Brexit
+120	130	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+166	178	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+288	295	Брекзит	Брекзит	EVT	EVT-Brexit
+305	320	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+353	369	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+414	428	Великобритания	Великобритания	LOC	GPE-Great-Britain
+484	505	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+591	594	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+696	716	камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+785	797	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+839	841	ЕС	ЕС	ORG	ORG-European-Union
+853	867	Великобритания	Великобритания	LOC	GPE-Great-Britain
+897	900	Мей	Мей	PER	PER-Theresa-May
+994	1005	Джеймс Слак	Джеймс Слак	PER	PER-James-Slack

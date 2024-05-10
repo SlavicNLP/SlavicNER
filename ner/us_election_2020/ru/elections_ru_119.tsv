@@ -1,0 +1,137 @@
+39	96	Федерального агентства по печати и массовым коммуникациям	Федеральное агенство по печати и массовым коммуникациям	ORG	ORG-Federal-Agency-for-Press-and-Mass-Communications-Russia
+108	111	США	США	LOC	GPE-USA
+171	189	Соединённых Штатов	Соединенные Штаты	LOC	GPE-USA
+522	537	демократической	демократический	ORG	ORG-Democratic-Party-USA
+637	642	Лайфа	Лайф	ORG	ORG-Life
+699	702	США	США	LOC	GPE-USA
+836	842	России	Россия	LOC	GPE-Russia
+944	962	Соединённых Штатах	Соединенные Штаты	LOC	GPE-USA
+1259	1268	Финляндии	Финляндия	LOC	GPE-Finland
+1271	1278	Эстонии	Эстония	LOC	GPE-Estonia
+1471	1474	США	США	LOC	GPE-USA
+1499	1512	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+1515	1523	демократ	демократ	ORG	ORG-Democratic-Party-USA
+1608	1617	"""Зелёной"""	"""Зеленая"""	ORG	ORG-Green-Party-of-the-United-States
+1619	1634	Либертарианской	Либертарианская	ORG	ORG-Libertarian-Party-USA
+1636	1651	Конституционной	Конституционная	ORG	ORG-Constitution-Party-USA
+1710	1725	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+1729	1739	демократов	демократ	ORG	ORG-Democratic-Party-USA
+1742	1757	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1761	1775	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+1803	1815	Гэри Джонсон	Гэри Джонсон	PER	PER-Gary-Johnson
+1817	1839	Либертарианская партия	Либертарианская партия	ORG	ORG-Libertarian-Party-USA
+1842	1853	Джилл Стайн	Джилл Стайн	PER	PER-Jill-Stein
+1855	1869	Партия зелёных	Партия зелёных	ORG	ORG-Green-Party-USA
+1872	1884	Даррелл Касл	Даррелл Касл	PER	PER-Darrell-Castle
+1886	1908	Конституционная партия	Конституционная партия	ORG	ORG-Constitution-Party-USA
+1912	1926	Эван Макмаллин	Эван Макмаллин	PER	PER-Evan-McMullin
+1959	1962	Юта	Юта	LOC	GPE-Utah
+2087	2099	американских	американский	LOC	GPE-USA
+2378	2381	США	США	LOC	GPE-USA
+2421	2433	американской	американская	LOC	GPE-USA
+2493	2511	Соединённых Штатах	Соединенные Штаты	LOC	GPE-USA
+3036	3046	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+3278	3281	США	США	LOC	GPE-USA
+3534	3549	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+3847	3857	Американцы	американцы	PER	GPE-USA
+3888	3898	демократию	демократия	ORG	ORG-Democratic-Party-USA
+4044	4062	Соединённых Штатов	Соединенные Штаты	LOC	GPE-USA
+4103	4106	США	США	LOC	GPE-USA
+4235	4241	Эл Гор	Эл Гор	PER	PER-Al-Gore
+4263	4269	Техаса	Техас	LOC	GPE-Texas
+4270	4282	Джорджа Буша	Джордж Буш	PER	PER-George-Bush-Jr
+4436	4443	Флориде	Флорида	LOC	GPE-Florida
+4605	4612	Флориды	Флорида	LOC	GPE-Florida
+4627	4639	Джорджу Бушу	Джордж Буш	PER	PER-George-Bush-Jr
+4675	4689	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+4716	4727	американцев	американцы	PER	GPE-USA
+4838	4841	США	США	LOC	GPE-USA
+4886	4901	демократическая	демократический	ORG	ORG-Democratic-Party-USA
+4902	4914	американская	американская	LOC	GPE-USA
+4939	4957	Соединённых Штатов	Соединенные Штаты	LOC	GPE-USA
+5294	5304	Калифорния	Калифорния	LOC	GPE-California
+5528	5536	Вайоминг	Вайоминг	LOC	GPE-Wyoming
+5621	5632	американцев	американцы	PER	GPE-USA
+5707	5710	США	США	LOC	GPE-USA
+5733	5742	Демократы	демократы	ORG	ORG-Democratic-Party-USA
+5746	5759	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+5764	5771	Америке	Америка	LOC	GPE-USA
+5816	5831	демократические	демократический	ORG	ORG-Democratic-Party-USA
+5833	5848	республиканские	республиканский	ORG	ORG-Republican-Party-USA
+6004	6007	США	США	LOC	GPE-USA
+6052	6059	Аризона	Аризона	LOC	GPE-Arizona
+6072	6086	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+6164	6179	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+6182	6194	Билл Клинтон	Билл Клинтон	PER	PER-Bill-Clinton
+6217	6232	демократическую	демократический	ORG	ORG-Democratic-Party-USA
+6333	6343	Боба Доула	Боб Доул	PER	PER-Bob-Dole
+6362	6369	Аризона	Аризона	LOC	GPE-Arizona
+6479	6486	Аризона	Аризона	LOC	GPE-Arizona
+6521	6528	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+6551	6560	Миннесота	Миннесота	LOC	GPE-Minnesota
+6563	6574	Массачусетс	Масачузетс	LOC	GPE-Massachusetts
+6594	6616	Демократическую партию	Демократическая партия	ORG	ORG-Democratic-Party-USA
+6694	6701	Америка	Америка	LOC	GPE-USA
+6794	6807	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+6808	6821	Ричард Никсон	Ричард Никсон	PER	PER-Richard-Nixon
+6828	6839	Массачусетс	Масачузетс	LOC	GPE-Massachusetts
+6866	6875	демократа	демократ	ORG	ORG-Democratic-Party-USA
+6876	6894	Джорджа Макговерна	Джордж Макговерн	PER	PER-George-McGovern
+6898	6907	Миннесота	Миннесота	LOC	GPE-Minnesota
+6960	6976	Уолтера Мондейла	Уолтер Мондейл	PER	PER-Walter-Mondale
+7008	7021	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+7022	7038	Рональда Рейгана	Рональд Рейган	PER	PER-Ronald-Reagan
+7132	7143	демократами	демократы	ORG	ORG-Democratic-Party-USA
+7259	7276	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+7278	7293	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+7305	7317	американских	американский	LOC	GPE-USA
+7604	7626	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+7673	7681	демократ	демократ	ORG	ORG-Democratic-Party-USA
+7682	7696	Линдон Джонсон	Линдон Джонсон	PER	PER-Lyndon-Johnson
+7767	7783	Барри Голдуотера	Барри Голдуотер	PER	PER-Barry-Goldwater
+7808	7830	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+7883	7896	Джона Кеннеди	Джон Кеннеди	PER	PER-John-F-Kennedy
+7898	7906	Джонсона	Джонсон	PER	PER-Boris-Johnson
+7957	7971	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+7980	7987	Аризона	Аризона	LOC	GPE-Arizona
+7989	7997	Луизиана	Луизиана	LOC	GPE-Louisiana
+7999	8008	Миссисипи	Миссисипи	LOC	GPE-Mississippi
+8010	8017	Алабама	Алабама	LOC	GPE-USA-Alabama
+8019	8027	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+8030	8044	Южная Каролина	Южная Каролина	LOC	GPE-South-Carolina-US-State
+8101	8115	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+8173	8176	США	США	LOC	GPE-USA
+8177	8189	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+8231	8240	демократа	демократ	ORG	ORG-Democratic-Party-USA
+8381	8391	демократам	демократы	ORG	ORG-Democratic-Party-USA
+8397	8400	Юта	Юта	LOC	GPE-Utah
+8421	8438	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+8463	8466	США	США	LOC	GPE-USA
+8511	8523	swing states	swing states	ORG	ORG-Swing-State
+8529	8547	колеблющиеся штаты	колеблющиеся штаты	ORG	ORG-Swing-State
+8572	8588	фиолетовые штаты	фиолетовые штаты	ORG	ORG-Swing-State
+8668	8682	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+8694	8704	демократов	демократ	ORG	ORG-Democratic-Party-USA
+8752	8764	американской	американская	LOC	GPE-USA
+9197	9200	США	США	LOC	GPE-USA
+9230	9238	Мэриленд	Мериленд	LOC	GPE-Maryland
+9239	9253	Джейми Раскина	Джейми Раскин	PER	PER-Jamie-Ruskin
+9418	9428	демократам	демократы	ORG	ORG-Democratic-Party-USA
+9478	9500	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+9501	9510	Миннесота	Миннесота	LOC	GPE-Minnesota
+9513	9522	Висконсин	Висконсин	LOC	GPE-Wisconsin
+9572	9582	демократов	демократ	ORG	ORG-Democratic-Party-USA
+9608	9613	Огайо	Огайо	LOC	GPE-Ohio
+9637	9644	Америки	Америка	LOC	GPE-USA
+9802	9814	Джон Кеннеди	Джон Кеннеди	PER	PER-John-F-Kennedy
+9822	9827	Огайо	Огайо	LOC	GPE-Ohio
+9845	9858	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+9859	9874	Ричарда Никсона	Ричард Никсон	PER	PER-Richard-Nixon
+9891	9896	Огайо	Огайо	LOC	GPE-Ohio
+9986	9993	Аризона	Аризона	LOC	GPE-Arizona
+10029	10043	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+10093	10096	США	США	LOC	GPE-USA
+10121	10125	Лайф	Лайф	ORG	ORG-Life
+10644	10649	Обамы	Обама	PER	PER-Barack-Obama
+10705	10708	США	США	LOC	GPE-USA
+10709	10714	Обама	Обама	PER	PER-Barack-Obama

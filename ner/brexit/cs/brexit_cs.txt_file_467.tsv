@@ -1,0 +1,28 @@
+16	24	Británii	Británie	LOC	GPE-Great-Britain
+48	50	EU	EU	ORG	ORG-European-Union
+88	94	Londýn	Londýn	LOC	GPE-London
+96	103	Reuters	Reuters	ORG	ORG-Reuters
+122	124	EU	EU	ORG	ORG-European-Union
+176	188	The Guardian	The Guardian	PRO	PRO-The-Guardian
+304	312	Británie	Británie	LOC	GPE-Great-Britain
+315	317	EU	EU	ORG	ORG-European-Union
+320	328	brexitem	brexit	EVT	EVT-Brexit
+330	345	Nicola Whiteová	Nicola Whiteová	PER	PER-Nicola-White
+384	387	OSN	OSN	ORG	ORG-United-Nations
+455	469	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+472	474	EU	EU	ORG	ORG-European-Union
+478	484	Brexit	Brexit	EVT	EVT-Brexit
+554	562	Británie	Británie	LOC	GPE-Great-Britain
+752	757	Britů	Britové	PER	GPE-Great-Britain
+829	843	Evropskou unii	Evropská unie	ORG	ORG-European-Union
+880	894	Velké Británie	Velké Británie	LOC	GPE-Great-Britain
+923	927	Unii	Unie	ORG	ORG-European-Union
+977	979	EU	EU	ORG	ORG-European-Union
+990	998	Británii	Británie	LOC	GPE-Great-Britain
+1062	1065	BBC	BBC	PRO	PRO-BBC
+1066	1076	Danny Shaw	Danny Shaw	PER	PER-Danny-Shaw
+1226	1231	Shawa	Shaw	PER	PER-Danny-Shaw
+1271	1291	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+1294	1296	EU	EU	ORG	ORG-European-Union
+1391	1404	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1448	1456	Británie	Británie	LOC	GPE-Great-Britain

@@ -1,0 +1,35 @@
+0	10	Washington	Washington	LOC	GPE-WashingtonDC
+22	27	Trump	Trump	PER	PER-Donald-Trump
+183	195	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+198	208	Washington	Washington	LOC	GPE-WashingtonDC
+222	234	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+261	270	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+376	381	Trump	Trump	PER	PER-Donald-Trump
+495	500	Trump	Trump	PER	PER-Donald-Trump
+724	730	Teksas	Teksas	LOC	GPE-Texas
+778	793	Dominion Voting	Dominion Voting	ORG	ORG-Dominion-Voting-Systems
+920	932	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1079	1093	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1179	1184	Bidna	Biden	PER	PER-Joe-Biden
+1286	1295	Twitterju	Twitter	ORG	PRO-Twitter
+1356	1361	Trump	Trump	PER	PER-Donald-Trump
+1410	1423	Sydney Powell	Sydney Powell	PER	PER-Sidney-Powell
+1521	1536	Michaela Flynna	Michael Flynn	PER	PER-Michael-Flynn
+1594	1623	zveznega preiskovalnega urada	zvezni preiskovalni urad	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+1624	1627	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+1749	1759	Trumpovega	Trump	PER	PER-Donald-Trump
+1804	1817	Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+1863	1869	Borata	Borat	PRO	PRO-Borat-Subsequent-Moviefilm
+1871	1890	Sache Barona Cohena	Sacha Baron Cohen	PER	PER-Sacha-Baron-Cohen
+2130	2138	Georgiji	Georgia	LOC	GPE-Georgia-US-state
+2157	2165	Trumpovi	Trump	PER	PER-Donald-Trump
+2179	2185	Bidnom	Biden	PER	PER-Joe-Biden
+2189	2198	Trumpovem	Trump	PER	PER-Donald-Trump
+2423	2438	Dominion Voting	Dominion Voting	ORG	ORG-Dominion-Voting-Systems
+2480	2488	Trumpove	Trump	PER	PER-Donald-Trump
+2511	2516	Bidnu	Biden	PER	PER-Joe-Biden
+2583	2596	Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+2653	2663	Američanov	Američani	PER	GPE-USA
+2720	2730	Washington	Washington	LOC	GPE-WashingtonDC
+2915	2924	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2928	2934	Trumpu	Trump	PER	PER-Donald-Trump

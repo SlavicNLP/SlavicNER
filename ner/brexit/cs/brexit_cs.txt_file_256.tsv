@@ -1,0 +1,17 @@
+14	21	brexitu	brexit	EVT	EVT-Brexit
+80	87	brexitu	brexit	EVT	EVT-Brexit
+166	174	Británie	Británie	LOC	GPE-Great-Britain
+177	190	Evropské unii	Evropská unie	ORG	ORG-European-Union
+224	230	Londýn	Londýn	LOC	GPE-London
+259	261	EU	EU	ORG	ORG-European-Union
+281	289	Británie	Británie	LOC	GPE-Great-Britain
+327	336	článku 50	článek 50	PRO	PRO-Article-50
+337	355	lisabonské smlouvy	lisabonská smlouva	PRO	PRO-Treaty-of-Lisbon
+364	379	Raymond Doherty	Raymond Doherty	PER	PER-Raymond-Doherty
+423	425	EU	EU	ORG	ORG-European-Union
+523	533	Jo Maugham	Jo Maugham	PER	PER-Jo-Maugham
+678	704	britskému nejvyššímu soudu	britský nejvyšší soud	ORG	ORG-Supreme-Court-of-Great-Britain
+707	714	Londýně	Londýn	LOC	GPE-London
+722	729	Maugham	Maugham	PER	PER-Jo-Maugham
+731	739	Británie	Británie	LOC	GPE-Great-Britain
+750	763	Evropské unie	Evropská unie	ORG	ORG-European-Union

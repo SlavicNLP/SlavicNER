@@ -1,0 +1,39 @@
+57	65	Trumpovo	Trump	PER	PER-Donald-Trump
+112	124	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+150	167	Amy Coney Barrett	Amy Coney Barrett	PER	PER-Amy-Coney-Barrett
+211	228	Amy Coney Barrett	Amy Coney Barrett	PER	PER-Amy-Coney-Barrett
+495	512	Amy Coney Barrett	Amy Coney Barrett	PER	PER-Amy-Coney-Barrett
+660	673	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+686	700	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+990	1001	Joeju Bidnu	Joe Biden	PER	PER-Joe-Biden
+1039	1049	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+1158	1167	Američani	Američani	PER	GPE-USA
+1321	1333	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+1404	1409	Trump	Trump	PER	PER-Donald-Trump
+1477	1496	Ruth Bader Ginsburg	Ruth Bader Ginsburg	PER	PER-Ruth-Bader-Ginsburg
+1582	1587	Trump	Trump	PER	PER-Donald-Trump
+1591	1608	Amy Coney Barrett	Amy Coney Barrett	PER	PER-Amy-Coney-Barrett
+1642	1659	Bader Ginsburgove	Bader Ginsburg	PER	PER-Ruth-Bader-Ginsburg
+1682	1694	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+1766	1783	Merricka Garlanda	Merrick Garland	PER	PER-Merrick-Garland
+1816	1828	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+1932	1938	ustavi	ustava	PRO	PRO-The-USA-Constitution
+1954	1966	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+1986	2003	Amy Coney Barrett	Amy Coney Barrett	PER	PER-Amy-Coney-Barrett
+2135	2140	Trump	Trump	PER	PER-Donald-Trump
+2351	2362	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+2542	2550	Trumpovo	Trump	PER	PER-Donald-Trump
+2583	2600	Amy Coney Barrett	Amy Coney Barrett	PER	PER-Amy-Coney-Barrett
+2642	2645	ZDA	ZDA	LOC	GPE-USA
+3208	3220	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+3240	3249	Belo hišo	Bela hiša	LOC	LOC-White-House
+3295	3312	Amy Coney Barrett	Amy Coney Barrett	PER	PER-Amy-Coney-Barrett
+3398	3403	Trump	Trump	PER	PER-Donald-Trump
+3419	3432	koronavirusom	koronavirus	EVT	EVT-Covid-19
+3486	3493	Melania	Melania	PER	PER-Melania-Trump
+3534	3537	ZDA	ZDA	LOC	GPE-USA
+3646	3656	covidom-19	covid-19	EVT	EVT-Covid-19
+4315	4320	Trump	Trump	PER	PER-Donald-Trump
+4486	4489	ZDA	ZDA	LOC	GPE-USA
+4706	4725	vrhovno sodišče ZDA	vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+4923	4926	ZDA	ZDA	LOC	GPE-USA

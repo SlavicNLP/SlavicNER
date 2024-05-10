@@ -1,0 +1,52 @@
+29	32	США	США	LOC	GPE-USA
+52	72	«Северного потока-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
+74	92	Госдепартамент США	Госдепартамент США	ORG	ORG-Department-of-State-USA
+196	212	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+248	260	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+315	322	Allseas	Allseas	ORG	ORG-Allseas
+377	392	Шатель-Сен-Дени	Шатель-Сен-Дени	LOC	GPE-Chatel-Saint-Denis
+414	420	Saipem	Saipem	ORG	ORG-Saipem
+441	448	Allseas	Allseas	ORG	ORG-Allseas
+484	495	Нидерландах	Нидерланды	LOC	GPE-Holland
+580	587	Allseas	Allseas	ORG	ORG-Allseas
+714	720	Saipem	Saipem	ORG	ORG-Saipem
+847	855	Германии	Германия	LOC	GPE-Germany
+902	905	США	США	LOC	GPE-USA
+967	974	Берлине	Берлин	LOC	GPE-Berlin
+1015	1018	США	США	LOC	GPE-USA
+1019	1034	Ричард Греннелл	Ричард Греннелл	PER	PER-Richard-Grenell
+1055	1067	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+1100	1118	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1262	1268	России	Россия	LOC	GPE-Russia
+1272	1280	Германии	Германия	LOC	GPE-Germany
+1288	1304	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
+1318	1336	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1355	1358	OMV	OMV	ORG	ORG-OMV
+1360	1366	Uniper	Uniper	ORG	ORG-Uniper
+1368	1373	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+1375	1380	Engie	Engie	ORG	ORG-Engie
+1383	1394	Wintershell	Wintershell	ORG	ORG-Wintershall
+1396	1399	США	США	LOC	GPE-USA
+1431	1449	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1461	1474	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1483	1491	Германию	Германия	LOC	GPE-Germany
+1503	1509	Кремля	Кремль	LOC	LOC-Kremlin
+1576	1579	ФРГ	ФРГ	LOC	GPE-Germany
+1580	1594	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+1734	1742	Германии	Германия	LOC	GPE-Germany
+1743	1757	Герхард Шрёдер	Герхард Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+1772	1781	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1834	1841	Украине	Украина	LOC	GPE-Ukraine
+1872	1875	ФРГ	ФРГ	LOC	GPE-Germany
+1915	1933	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1934	1940	Россия	Россия	LOC	GPE-Russia
+1965	1971	Европу	Европа	LOC	LOC-Europe
+1980	1987	Украины	Украина	LOC	GPE-Ukraine
+1999	2013	Петр Порошенко	Петр Порошенко	PER	PER-Petro-Poroshenko
+2022	2038	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+2055	2061	Кремля	Кремль	LOC	LOC-Kremlin
+2130	2136	Кремле	Кремль	LOC	LOC-Kremlin
+2152	2158	Россия	Россия	LOC	GPE-Russia
+2213	2216	США	США	LOC	GPE-USA
+2254	2263	Минэнерго	Минэнерго	ORG	ORG-Ministry-of-Energy-Russia
+2264	2279	Александр Новак	Александр Новак	PER	PER-Aleksandr-Novak

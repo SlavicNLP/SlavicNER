@@ -1,0 +1,80 @@
+0	11	Коронавирус	Коронавирус	EVT	EVT-Covid-19
+69	75	Англии	Англия	LOC	GPE-Great-Britain
+133	158	Оксфордским университетом	Оксфордский университет	ORG	ORG-University-of-Oxford
+171	182	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+203	209	Англия	Англия	LOC	GPE-Great-Britain
+239	248	Каталония	Каталония	LOC	GPE-Catalonia
+270	274	Чили	Чили	LOC	GPE-Chile
+359	371	коронавируса	коронавирус	EVT	EVT-Covid-19
+413	423	британской	британский	PER	GPE-Great-Britain
+462	472	британской	британский	PER	GPE-Great-Britain
+484	496	коронавируса	коронавирус	EVT	EVT-Covid-19
+512	537	Оксфордским университетом	Оксфордский университет	ORG	ORG-University-of-Oxford
+550	561	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+644	650	Pfizer	Pfizer	ORG	ORG-Pfizer
+653	660	Moderna	Moderna	ORG	ORG-Moderna
+703	713	российской	российский	PER	GPE-Russia
+722	733	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+760	770	британская	британский	PER	GPE-Great-Britain
+1111	1123	Сара Гилберт	Сара Гилберт	PER	PER-Sarah-Gilbert
+1161	1172	Коронавирус	Коронавирус	EVT	EVT-Covid-19
+1174	1187	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1214	1220	Англия	Англия	LOC	GPE-Great-Britain
+1236	1247	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1296	1304	Британии	Британия	LOC	GPE-Great-Britain
+1614	1628	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1631	1639	Бразилии	Бразилия	LOC	GPE-Brazil
+2024	2032	Би-би-си	Би-би-си	ORG	ORG-BBC-Ltd
+2043	2056	Эндрю Поллард	Эндрю Поллард	PER	Эндрю
+2320	2332	коронавируса	коронавирус	EVT	EVT-Covid-19
+2444	2456	коронавируса	коронавирус	EVT	EVT-Covid-19
+2521	2527	Англии	Англия	LOC	GPE-Great-Britain
+2606	2620	Великобритании	Великобритания	LOC	GPE-Great-Britain
+2621	2634	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+2719	2725	Англии	Англия	LOC	GPE-Great-Britain
+2789	2796	Джонсон	Джонсон	PER	PER-Boris-Johnson
+2825	2831	Англии	Англия	LOC	GPE-Great-Britain
+2875	2881	Англии	Англия	LOC	GPE-Great-Britain
+3548	3556	Covid-19	Covid-19	EVT	EVT-Covid-19
+3719	3725	Qantas	Qantas	ORG	ORG-Quantas
+3762	3775	австралийской	австралийский	PER	GPE-Australia
+3789	3805	Qantas Airlinies	Qantas Airlinies	ORG	ORG-Quantas
+3806	3816	Алан Джойс	Алан Джойс	PER	PER-Alan-Joyce
+3862	3874	коронавируса	коронавирус	EVT	EVT-Covid-19
+3970	3976	Qantas	Qantas	ORG	ORG-Quantas
+4260	4265	Джойс	Джойс	PER	PER-Alan-Joyce
+4277	4291	австралийскому	австралийский	PER	GPE-Australia
+4292	4309	"""Девятому каналу"""	"""Девятый канал"""	PRO	PRO-Channel-Nine
+4588	4624	ассоциации воздушного траспорта ИАТА	ассоциация воздушного транспорта ИАТА	ORG	ORG-International-Air-Transport-Association
+4625	4637	Дэвид Пауэлл	Дэвид Пауэлл	PER	PER-David-Powell
+4891	4906	Financial Times	Financial Times	PRO	PRO-Financial-Times
+5009	5023	Pfizer Medical	Pfizer Medical	ORG	LOC-University-medical-centre-Ljubljana
+5132	5141	Аргентина	Аргентина	LOC	GPE-Argentina
+5143	5151	Бразилия	Бразилия	LOC	GPE-Brazil
+5153	5161	Германия	Германия	LOC	GPE-Germany
+5163	5166	США	США	LOC	GPE-USA
+5168	5174	Турция	Турция	LOC	GPE-Turkey
+5177	5180	ЮАР	ЮАР	LOC	GPE-Republic-of-South-Africa
+5248	5257	Каталония	Каталония	LOC	GPE-Catalonia
+5287	5296	Каталония	Каталония	LOC	GPE-Catalonia
+5520	5527	Испании	Испания	LOC	GPE-Spain
+5763	5772	испанских	испанский	PER	GPE-Spain
+5904	5912	Covid-19	Covid-19	EVT	EVT-Covid-19
+6045	6049	Чили	Чили	LOC	GPE-Chile
+6102	6106	Чили	Чили	LOC	GPE-Chile
+6155	6172	Себастьян Пиньера	Себастьян Пиньера	PER	PER-Sebastian-Pinera
+6350	6358	чилийцев	чилийцы	PER	GPE-Chile
+6566	6574	Сантьяго	Сантьяго	LOC	GPE-Santiago
+6624	6635	коронавирус	коронавирус	EVT	EVT-Covid-19
+6744	6748	Чили	Чили	LOC	GPE-Chile
+6975	6981	ЮНИСЕФ	ЮНИСЕФ	ORG	ORG-United-Nations-International-Children's-Emergency-Fund
+7092	7098	ЮНИСЕФ	ЮНИСЕФ	ORG	ORG-United-Nations-International-Children's-Emergency-Fund
+7184	7187	ООН	ООН	ORG	ORG-United-Nations
+7221	7226	Covax	Covax	PRO	PRO-Covax-initiative
+7365	7372	Бурунди	Бурунди	LOC	GPE-Burundi
+7374	7384	Афганистан	Афганистан	LOC	GPE-Afghanistan
+7387	7392	Йемен	Йемен	LOC	GPE-Yemen
+7404	7409	Covax	Covax	PRO	PRO-Covax-initiative
+7422	7460	Всемирной организацией здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+7682	7688	ЮНИСЕФ	ЮНИСЕФ	ORG	ORG-United-Nations-International-Children's-Emergency-Fund
+7689	7703	Этлева Кадилли	Этлева Кадилли	PER	PER-Etleva-Kadilli

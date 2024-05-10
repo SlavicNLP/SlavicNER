@@ -1,0 +1,24 @@
+8	14	czexit	czexit	EVT	EVT-Czexit
+55	68	Tomio Okamura	Tomio Okamura	PER	PER-Tomio-Okamura
+72	79	czexitu	czexit	EVT	EVT-Czexit
+132	137	Tokia	Tokio	LOC	GPE-Tokyo
+299	302	SPD	SPD	ORG	ORG-SPD-Party-CZ
+324	330	czexit	czexit	EVT	EVT-Czexit
+380	382	ČT	ČT	PRO	PRO-Czech-Television-Ceska-Televize
+408	411	SPD	SPD	ORG	ORG-SPD-Party-CZ
+450	455	Česka	Česko	LOC	GPE-Czech-Republic
+458	471	Evropské unie	Evropská unie	ORG	ORG-European-Union
+599	606	Bruselu	Brusel	LOC	GPE-Brussles
+689	696	Okamura	Okamura	PER	PER-Tomio-Okamura
+808	834	Svoboda a přímá demokracie	Svoboda a přímá demokracie	ORG	ORG-SPD-Party-CZ
+835	841	czexit	czexit	EVT	EVT-Czexit
+917	924	Okamura	Okamura	PER	PER-Tomio-Okamura
+1048	1051	SPD	SPD	ORG	ORG-SPD-Party-CZ
+1103	1110	Okamura	Okamura	PER	PER-Tomio-Okamura
+1127	1138	Radim Fiala	Radim Fiala	PER	PER-Radim-Fiala
+1162	1165	SPD	SPD	ORG	ORG-SPD-Party-CZ
+1180	1185	Česko	Česko	LOC	GPE-Czech-Republic
+1300	1309	Angličané	Angličané	PER	GPE-Great-Britain
+1330	1344	Evropskou unii	Evropská unie	ORG	ORG-European-Union
+1426	1440	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+1690	1696	brexit	brexit	EVT	EVT-Brexit

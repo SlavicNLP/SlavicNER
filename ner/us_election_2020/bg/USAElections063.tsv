@@ -1,0 +1,12 @@
+12	22	американци	американци	PER	GPE-USA
+44	71	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+89	99	американци	американци	PER	GPE-USA
+128	155	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+210	232	Флоридския университет	Флоридски университет	ORG	ORG-University-of-Florida
+242	249	Ройтерс	Ройтерс	ORG	ORG-Reuters
+388	401	републиканеца	републиканец	PER	ORG-Republican-Party-USA
+402	414	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+430	441	демократите	демократи	PER	ORG-Democratic-Party-USA
+442	452	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+560	569	демократи	демократи	PER	ORG-Democratic-Party-USA
+584	596	републиканци	републиканци	PER	ORG-Republican-Party-USA

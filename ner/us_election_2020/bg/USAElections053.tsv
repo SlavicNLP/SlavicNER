@@ -1,0 +1,23 @@
+15	27	републиканци	републиканци	PER	ORG-Republican-Party-USA
+30	38	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+61	67	Байдън	Байдън	PER	PER-Joe-Biden
+130	133	САЩ	САЩ	LOC	GPE-USA
+135	149	републиканецът	републиканец	PER	ORG-Republican-Party-USA
+150	162	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+186	195	демократа	демократ	PER	ORG-Democratic-Party-USA
+196	210	Джоузеф Байдън	Джоузеф Байдън	PER	PER-Joe-Biden
+214	235	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+261	275	Вашингтон пост	Вашингтон пост	PRO	PRO-Washington-Post
+359	365	Сената	Сенат	ORG	ORG-United-States-Senate
+368	402	Камарата на представителите на САЩ	Камара на представителите на САЩ	ORG	ORG-House-of-Representatives(USA)
+490	496	Байдън	Байдън	PER	PER-Joe-Biden
+511	516	Тръмп	Тръмп	PER	PER-Donald-Trump
+639	651	републиканци	републиканци	PER	ORG-Republican-Party-USA
+696	702	Байдън	Байдън	PER	PER-Joe-Biden
+731	752	избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+863	872	Белия дом	Белия дом	LOC	LOC-White-House
+978	990	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1190	1204	Изборите в САЩ	избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+1281	1287	Байдън	Байдън	PER	PER-Joe-Biden
+1331	1352	избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+1393	1398	Тръмп	Тръмп	PER	PER-Donald-Trump

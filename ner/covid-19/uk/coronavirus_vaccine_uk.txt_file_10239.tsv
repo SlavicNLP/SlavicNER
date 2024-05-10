@@ -1,0 +1,10 @@
+8	17	Німеччини	Німеччина	LOC	GPE-Germany
+18	32	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+50	80	пандемію коронавірусу COVID-19	пандемія коронавірусу COVID-19	EVT	EVT-Covid-19
+103	124	Пандемія коронавірусу	Пандемія коронавірусу	EVT	EVT-Covid-19
+529	536	Меркель	Меркель	PER	PER-Angela-Merkel
+572	580	COVID-19	COVID-19	EVT	EVT-Covid-19
+786	793	Меркель	Меркель	PER	PER-Angela-Merkel
+850	859	Німеччині	Німеччина	LOC	GPE-Germany
+944	952	Biontech	Biontech	ORG	ORG-BioNTech
+996	1002	Pfizer	Pfizer	ORG	ORG-Pfizer

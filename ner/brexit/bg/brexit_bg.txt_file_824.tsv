@@ -1,0 +1,18 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+43	56	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+60	67	Брекзит	Брекзит	EVT	EVT-Brexit
+89	99	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+154	162	Германия	Германия	LOC	GPE-Germany
+163	176	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+245	258	Daily Express	Daily Express	PRO	PRO-Daily-Express
+260	270	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+279	285	Берлин	Берлин	LOC	GPE-Berlin
+313	326	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+402	418	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+429	436	Брекзит	Брекзит	EVT	EVT-Brexit
+544	550	Меркел	Меркел	PER	PER-Angela-Merkel
+726	755	Социалдемократическата партия	Социалдемократическа партия	ORG	ORG-SPD-Party
+885	891	Европа	Европа	LOC	LOC-Europe
+928	935	Брекзит	Брекзит	EVT	EVT-Brexit
+947	950	Мей	Мей	PER	PER-Theresa-May
+1138	1142	ТРУД	Труд	PRO	PRO-Trud

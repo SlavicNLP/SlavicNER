@@ -1,0 +1,26 @@
+5	7	ЕС	ЕС	ORG	ORG-European-Union
+12	26	Великобритания	Великобритания	LOC	GPE-Great-Britain
+54	68	Великобритания	Великобритания	LOC	GPE-Great-Britain
+114	116	ЕС	ЕС	ORG	ORG-European-Union
+122	129	Брекзит	Брекзит	EVT	EVT-Brexit
+164	172	Брекзита	Брекзит	EVT	EVT-Brexit
+173	185	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+188	194	Лондон	Лондон	LOC	GPE-London
+203	210	Ройтерс	Ройтерс	ORG	ORG-Reuters
+391	397	Барние	Барние	PER	PER-Michel-Barnier
+420	434	Великобритания	Великобритания	LOC	GPE-Great-Britain
+526	534	Брекзита	Брекзит	EVT	EVT-Brexit
+535	548	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+650	652	ЕС	ЕС	ORG	ORG-European-Union
+664	678	Великобритания	Великобритания	LOC	GPE-Great-Britain
+710	712	ЕС	ЕС	ORG	ORG-European-Union
+718	725	Брекзит	Брекзит	EVT	EVT-Brexit
+748	755	Брюксел	Брюксел	LOC	GPE-Brussles
+828	834	Дейвис	Дейвис	PER	PER-David-Davis
+847	851	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+952	962	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1050	1052	ЕС	ЕС	ORG	ORG-European-Union
+1063	1065	АП	АП	ORG	ORG-AP-The-Associated-Press
+1067	1089	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1093	1096	Мей	Мей	PER	PER-Theresa-May
+1143	1152	Евросъюза	Евросъюз	ORG	ORG-European-Union

@@ -1,0 +1,57 @@
+42	48	brexit	brexit	EVT	EVT-Brexit
+69	76	Londonu	London	LOC	GPE-London
+102	109	brexita	brexit	EVT	EVT-Brexit
+228	230	EU	EU	ORG	ORG-European-Union
+252	268	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+344	349	Otoka	Otok	LOC	GPE-Great-Britain
+353	367	Evropske unije	Evropska unija	ORG	ORG-European-Union
+437	443	brexit	brexit	EVT	EVT-Brexit
+460	476	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+606	612	brexit	brexit	EVT	EVT-Brexit
+687	693	brexit	brexit	EVT	EVT-Brexit
+719	725	London	London	LOC	GPE-London
+729	736	Bruselj	Bruselj	LOC	GPE-Brussles
+829	845	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+1024	1040	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+1166	1168	EU	EU	ORG	ORG-European-Union
+1184	1190	London	London	LOC	GPE-London
+1296	1307	Thereso May	Theresa May	PER	PER-Theresa-May
+1324	1341	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+1342	1365	Jean-Claudom Junckerjem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+1530	1532	EU	EU	ORG	ORG-European-Union
+1601	1612	Theresa May	Theresa May	PER	PER-Theresa-May
+1665	1681	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+1682	1693	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1746	1765	Aleksandra Velikega	Aleksander Veliki	PER	PER-Alexander-the-Great
+1813	1820	brexitu	brexit	EVT	EVT-Brexit
+1826	1832	Mayevo	May	PER	PER-Theresa-May
+1908	1914	Mayeva	May	PER	PER-Theresa-May
+1917	1924	Bruselj	Bruselj	LOC	GPE-Brussles
+1943	1945	EU	EU	ORG	ORG-European-Union
+2192	2198	Mayeva	May	PER	PER-Theresa-May
+2277	2289	irskem otoku	irski otok	LOC	GPE-Ireland
+2300	2307	brexitu	brexit	EVT	EVT-Brexit
+2332	2353	Združenim kraljestvom	Združeno kraljestvo	LOC	GPE-Great-Britain
+2357	2359	EU	EU	ORG	ORG-European-Union
+2361	2363	EU	EU	ORG	ORG-European-Union
+2391	2404	Severna Irska	Severna Irska	LOC	GPE-Northern-Ireland
+2522	2537	Republiko Irsko	Republika Irska	LOC	GPE-Republic-of-Ireland
+2553	2555	EU	EU	ORG	ORG-European-Union
+2560	2573	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+2580	2596	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+2662	2669	brexitu	brexit	EVT	EVT-Brexit
+2670	2684	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+2826	2841	Severnem Irskem	Severna Irska	LOC	GPE-Northern-Ireland
+2843	2862	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+3044	3057	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+3074	3085	Grand Place	Grand Place	LOC	LOC-Grand-Place
+3152	3171	Emmanuelom Macronom	Emmanuel Macron	PER	PER-Emmanuel-Macron
+3215	3233	Charlesom Michelom	Charles Michel	PER	PER-Charles-Michel
+3237	3254	Xavierjem Bettlom	Xavier Bettel	PER	PER-Xavier-Bettel
+3326	3332	Bettel	Bettel	PER	PER-Xavier-Bettel
+3485	3487	EU	EU	ORG	ORG-European-Union
+3565	3581	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+3583	3585	EU	EU	ORG	ORG-European-Union
+3589	3608	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+3887	3905	Evropski parlament	Evropski parlament	ORG	ORG-European-Parliament
+3909	3916	Svet EU	Svet EU	ORG	ORG-EU-Council

@@ -1,0 +1,19 @@
+0	12	PETR BYSTROŇ	PETR BYSTROŇ	PER	PER-Petr-Bystron
+21	26	Trump	Trump	PER	PER-Donald-Trump
+29	34	Biden	Biden	PER	PER-Joe-Biden
+82	115	amerických prezidentských volbách	americké prezidentské volby	EVT	EVT-2020-United-States-Presidential-Election
+118	121	ARD	ARD	PRO	PRO-ARD-Television
+124	127	CNN	CNN	PRO	PRO-CNN
+150	160	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+167	180	Kamalu Harris	Kamala Harris	PER	PER-Kamala-Harris
+183	195	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+265	271	Nevadě	Nevada	LOC	GPE-Nevada
+273	283	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+285	294	Michiganu	Michigan	LOC	GPE-Michigan
+296	307	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+310	316	Gruzii	Gruzie	LOC	GPE-Georgia
+356	359	AfD	AfD	ORG	ORG-Afd
+360	376	Petrem Bystroněm	Petr Bystroň	PER	PER-Petr-Bystron
+440	447	Bystroň	Bystroň	PER	PER-Petr-Bystron
+462	465	USA	USA	LOC	GPE-USA
+468	480	Petr Bystroň	Petr Bystroň	PER	PER-Petr-Bystron

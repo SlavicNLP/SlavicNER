@@ -1,0 +1,40 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+49	66	Amy Coney Barrett	Amy Coney Barrett	PER	PER-Amy-Coney-Barrett
+68	73	Trump	Trump	PER	PER-Donald-Trump
+98	117	Ruth Bader Ginsburg	Ruth Bader Ginsburg	PER	PER-Ruth-Bader-Ginsburg
+207	216	Belo hišo	Bela hiša	LOC	LOC-White-House
+254	266	republikanci	republikanci	PER	ORG-Republican-Party-USA
+362	379	Bader Ginsburgove	Bader Ginsburg	PER	PER-Ruth-Bader-Ginsburg
+479	489	Arlingtonu	Arlington	LOC	GPE-Arlington
+570	587	Amy Coney Barrett	Amy Coney Barrett	PER	PER-Amy-Coney-Barrett
+673	682	Demokrati	Demokrati	PER	ORG-Democratic-Party-USA
+813	823	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+851	863	republikanci	republikanci	PER	ORG-Republican-Party-USA
+994	1006	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1076	1086	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+1087	1096	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1116	1128	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1180	1190	Američanov	Američani	PER	GPE-USA
+1206	1212	Trumpa	Trump	PER	PER-Donald-Trump
+1216	1229	republikancev	republikanci	PER	ORG-Republican-Party-USA
+1295	1312	Bader Ginsburgove	Bader Ginsburg	PER	PER-Ruth-Bader-Ginsburg
+1372	1375	ABC	ABC	PRO	PRO-ABC-News
+1379	1395	Washington Posta	Washington Post	PRO	PRO-Washington-Post
+1429	1442	republikancem	republikanci	PER	ORG-Republican-Party-USA
+1461	1471	Rassmussen	Rassmussen	PRO	PRO-Rassmussen
+1515	1525	Američanov	Američani	PER	GPE-USA
+1676	1681	Trump	Trump	PER	PER-Donald-Trump
+1799	1811	republikanci	republikanci	PER	ORG-Republican-Party-USA
+1858	1868	Trumpovega	Trump	PER	PER-Donald-Trump
+1922	1930	Trumpovi	Trump	PER	PER-Donald-Trump
+1996	2001	Trump	Trump	PER	PER-Donald-Trump
+2009	2014	Trump	Trump	PER	PER-Donald-Trump
+2091	2099	Trumpove	Trump	PER	PER-Donald-Trump
+2119	2131	Stuart Jolly	Stuart Jolly	PER	PER-Stuart-Jolly
+2164	2167	ZDA	ZDA	LOC	GPE-USA
+2441	2449	Trumpova	Trump	PER	PER-Donald-Trump
+2491	2508	Elizabeth Neumann	Elizabeth Neumann	PER	PER-Elizabeth-Neumann
+2511	2520	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+2544	2549	Trump	Trump	PER	PER-Donald-Trump
+2680	2688	Facebook	Facebook	PRO	PRO-Facebook
+2692	2699	Twitter	Twitter	PRO	PRO-Twitter

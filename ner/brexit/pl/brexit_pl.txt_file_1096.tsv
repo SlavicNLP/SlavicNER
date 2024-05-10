@@ -1,0 +1,9 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+245	253	Irlandią	Irlandia	LOC	GPE-Ireland
+266	283	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+320	327	brexitu	Brexit	EVT	EVT-Brexit
+349	361	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+362	373	Hilary Benn	Hilary Benn	PER	PER-Hilary-Benn
+577	594	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+597	614	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+675	684	brexitowi	Brexit	EVT	EVT-Brexit

@@ -1,0 +1,27 @@
+85	98	Елка Василева	Елка Василева	PER	PER-Elka-Vasileva
+159	171	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+201	209	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+325	339	Вашингтон пост	Вашингтон пост	PRO	PRO-Washington-Post
+342	354	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+390	398	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+625	643	Брад Рафенс-Пъргър	Брад Рафенспъргър	PER	PER-Brad-Raffensperger
+672	675	БНТ	БНТ	ORG	ORG-Bulgarian-National-Television
+796	801	Райън	Райън	PER	PER-Ryan-Germany
+826	831	Тръмп	Тръмп	PER	PER-Donald-Trump
+847	859	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+961	971	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1096	1101	Тръмп	Тръмп	PER	PER-Donald-Trump
+1131	1143	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+1366	1371	Харис	Харис	PER	PER-Kamala-Harris
+1415	1427	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1469	1483	Вашингтон пост	Вашингтон пост	PRO	PRO-Washington-Post
+1592	1598	Байдън	Байдън	PER	PER-Joe-Biden
+1715	1738	117 американски конгрес	117 американски конгрес	ORG	ORG-United-States-Congress
+1752	1762	демократка	демократка	PER	ORG-Democratic-Party-USA
+1763	1775	Нанси Пелоси	Нанси Пелоси	PER	PER-Nancy-Pelosi
+1812	1839	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+1897	1909	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1953	1959	Байдън	Байдън	PER	PER-Joe-Biden
+1961	1973	Нанси Пелоси	Нанси Пелоси	PER	PER-Nancy-Pelosi
+2042	2048	Сената	Сенат	ORG	ORG-United-States-Senate
+2083	2091	Джорджия	Джорджия	LOC	GPE-Georgia-US-state

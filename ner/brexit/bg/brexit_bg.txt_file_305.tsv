@@ -1,0 +1,33 @@
+0	19	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+21	23	ЕС	ЕС	ORG	ORG-European-Union
+40	54	Великобритания	Великобритания	LOC	GPE-Great-Britain
+83	91	България	България	LOC	GPE-Bulgaria
+114	116	ЕС	ЕС	ORG	ORG-European-Union
+130	144	Великобритания	Великобритания	LOC	GPE-Great-Britain
+224	232	Брекзита	Брекзит	EVT	EVT-Brexit
+295	303	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+347	349	ЕС	ЕС	ORG	ORG-European-Union
+630	638	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+641	648	Брюксел	Брюксел	LOC	GPE-Brussles
+666	688	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+769	785	Джейкъб Рийс-Мог	Джейкъб Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+850	852	ЕС	ЕС	ORG	ORG-European-Union
+874	888	Великобритания	Великобритания	LOC	GPE-Great-Britain
+913	915	ЕС	ЕС	ORG	ORG-European-Union
+931	940	евросъюза	Евросъюз	ORG	ORG-European-Union
+1007	1009	ЕС	ЕС	ORG	ORG-European-Union
+1079	1081	ЕС	ЕС	ORG	ORG-European-Union
+1107	1121	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1140	1148	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+1150	1159	Захариева	Захариева	PER	PER-Ekaterina-Zakharieva
+1170	1184	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1212	1226	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1389	1397	Норвегия	Норвегия	LOC	GPE-Norway
+1400	1409	Швейцария	Швейцария	LOC	GPE-Switzerland
+1453	1462	Захариева	Захариева	PER	PER-Ekaterina-Zakharieva
+1482	1496	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1520	1522	ЕС	ЕС	ORG	ORG-European-Union
+1648	1650	ЕС	ЕС	ORG	ORG-European-Union
+1653	1667	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2054	2063	Захариева	Захариева	PER	PER-Ekaterina-Zakharieva
+2077	2085	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP

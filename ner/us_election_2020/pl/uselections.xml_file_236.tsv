@@ -1,0 +1,45 @@
+9	12	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+24	30	Bidena	Biden	PER	PER-Joe-Biden
+115	118	CNN	CNN	PRO	PRO-CNN
+120	128	Fox News	Fox News	PRO	PRO-Fox-News
+133	136	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+171	192	Partii Demokratycznej	Partia Demokratyczna	ORG	ORG-Democratic-Party-USA
+193	202	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+296	307	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+346	349	CNN	CNN	PRO	PRO-CNN
+388	394	Nevady	Nevada	LOC	GPE-Nevada
+501	515	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+618	621	USA	USA	LOC	GPE-USA
+629	638	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+673	691	Stanów Zjednoczony	Stany Zjednoczone	LOC	GPE-USA
+774	794	Kolegium Elektorskie	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+880	890	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+913	916	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+959	970	Waszyngtonu	Waszyngton	LOC	GPE-WashingtonDC
+1002	1008	Polska	Polska	LOC	GPE-Poland
+1044	1065	Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+1092	1106	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1212	1216	NATO	NATO	ORG	ORG-NATO
+1396	1412	Europy Środkowej	Europa Środkowa	LOC	LOC-Central-Europe
+1414	1420	Polski	Polska	LOC	GPE-Poland
+1423	1449	wspólnoty euroatlantyckiej	wspólnota euroatlantycka	ORG	ORG-NATO
+1463	1471	Przydacz	Przydacz	PER	PER-Przydacz
+1569	1579	demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+1672	1683	demokratami	demokraci	ORG	ORG-Democratic-Party-USA
+1699	1714	Barackiem Obamą	Barack Obama	PER	PER-Barack-Obama
+1759	1768	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1820	1836	Europy Środkowej	Europa Środkowa	LOC	LOC-Central-Europe
+1839	1849	Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+1885	1892	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1936	1940	NATO	NATO	ORG	ORG-NATO
+1978	1982	NATO	NATO	ORG	ORG-NATO
+1985	1991	Polsce	Polska	LOC	GPE-Poland
+2022	2032	demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+2035	2046	Białym Domu	Biały Dom	LOC	LOC-White-House
+2148	2151	USA	USA	LOC	GPE-USA
+2227	2236	Trójmorza	Trójmorze	ORG	ORG-Three-Seas-Initiative
+2293	2302	Trójmorza	Trójmorze	ORG	ORG-Three-Seas-Initiative
+2337	2341	Duda	Duda	PER	PER-Andrzej-Duda
+2385	2397	republikanów	republikanie	ORG	ORG-Republican-Party-USA
+2404	2414	demokratów	demokranie	ORG	ORG-Democratic-Party-USA
+2431	2439	Przydacz	Przydacz	PER	PER-Przydacz

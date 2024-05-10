@@ -1,0 +1,17 @@
+7	11	Труд	Труд	PRO	PRO-Trud
+20	27	Америка	Америка	LOC	GPE-USA
+103	113	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+169	181	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+212	215	САЩ	САЩ	LOC	GPE-USA
+216	226	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+263	275	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+307	318	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+393	399	Байдън	Байдън	PER	PER-Joe-Biden
+443	451	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+454	460	Байдън	Байдън	PER	PER-Joe-Biden
+472	477	Тръмп	Тръмп	PER	PER-Donald-Trump
+548	556	COVID-19	COVID-19	EVT	EVT-Covid-19
+559	586	Президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+625	635	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+670	675	Тръмп	Тръмп	PER	PER-Donald-Trump
+753	761	Конгреса	Конгрес	ORG	ORG-United-States-Congress

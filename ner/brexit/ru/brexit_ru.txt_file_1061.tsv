@@ -1,0 +1,9 @@
+90	105	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+203	217	Великобритании	Великобритания	LOC	GPE-Great-Britain
+218	233	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+267	274	Джонсон	Джонсон	PER	PER-Boris-Johnson
+297	322	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+374	388	Великобритании	Великобритания	LOC	GPE-Great-Britain
+402	404	ЕС	ЕС	ORG	ORG-European-Union
+441	449	брекзита	брекзит	EVT	EVT-Brexit
+450	461	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis

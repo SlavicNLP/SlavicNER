@@ -1,0 +1,48 @@
+11	14	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+46	62	Solidarna Polska	Solidarna Polska	ORG	ORG-United-Poland
+76	91	Tomasz Pajączek	Tomasz Pajączek	PER	PER-Tomasz-Pajączek
+93	109	Solidarna Polska	Solidarna Polska	ORG	ORG-United-Poland
+149	152	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+154	176	Andrzeja Kruczkiewicza	Andrzej Kruczkiewicz	PER	PER-Andrzej-Kruczkiewicz
+202	210	COVID-19	COVID-19	EVT	EVT-Covid-19
+250	253	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+291	304	Kruczkiewicza	Kruczkiewicz	PER	PER-Andrzej-Kruczkiewicz
+399	402	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+423	437	Tomasz Staniek	Tomasz Staniek	PER	PER-Tomasz-Staniek
+495	498	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+517	525	COVID-19	COVID-19	EVT	EVT-Covid-19
+666	686	Andrzej Kruczkiewicz	Andrzej Kruczkiewicz	PER	PER-Andrzej-Kruczkiewicz
+688	704	Solidarna Polska	Solidarna Polska	ORG	ORG-United-Poland
+721	724	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+782	795	Kruczkiewicza	Kruczkiewicz	PER	PER-Andrzej-Kruczkiewicz
+837	857	Andrzej Kruczkiewicz	Andrzej Kruczkiewicz	PER	PER-Andrzej-Kruczkiewicz
+883	897	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+1050	1065	Norbert Krajczy	Norbert Krajczy	PER	PER-Norbert-Krajczy
+1071	1083	Kruczkiewicz	Kruczkiewicz	PER	PER-Andrzej-Kruczkiewicz
+1314	1317	ZOZ	ZOZ	ORG	ORG-ZOZ-Poland
+1320	1325	Nysie	Nysa	LOC	GPE-Nysa-Poland
+1331	1349	Norberta Krajczego	Norbert Krajczy	PER	PER-Norbert-Krajczy
+1420	1440	Andrzej Kruczkiewicz	Andrzej Kruczkiewicz	PER	PER-Andrzej-Kruczkiewicz
+1459	1474	Norbert Krajczy	Norbert Krajczy	PER	PER-Norbert-Krajczy
+1620	1632	Kruczkiewicz	Kruczkiewicz	PER	PER-Andrzej-Kruczkiewicz
+1682	1685	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+1772	1775	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+1873	1887	Tomasz Staniek	Tomasz Staniek	PER	PER-Tomasz-Staniek
+1916	1919	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+1964	1973	Twitterze	Twitter	PRO	PRO-Twitter
+1974	1994	Krzysztof Sobolewski	Krzysztof Sobolewski	PER	PER-Krzysztof-Sobolewski
+2023	2026	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+2035	2047	Kruczkiewicz	Kruczkiewicz	PER	PER-Andrzej-Kruczkiewicz
+2109	2112	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+2164	2180	Solidarna Polska	Solidarna Polska	ORG	ORG-United-Poland
+2211	2214	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+2226	2242	Solidarna Polska	Solidarna Polska	ORG	ORG-United-Poland
+2606	2614	COVID-19	COVID-19	EVT	EVT-Covid-19
+2637	2657	Zjednoczonej Prawicy	Zjednoczona Prawica	ORG	ORG-United-Right
+2845	2862	Solidarnej Polski	Solidarna Polska	ORG	ORG-United-Poland
+2865	2878	woj. opolskim	woj. opolskie	LOC	GPE-Poland-Opole-Voivodeship
+2906	2918	Kruczkiewicz	Kruczkiewicz	PER	PER-Andrzej-Kruczkiewicz
+2960	2963	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+3081	3098	Solidarnej Polski	Solidarna Polska	ORG	ORG-United-Poland
+3101	3116	powiecie nyskim	powiat nyski	LOC	GPE-Poland-Nysa-County
+3146	3163	Solidarnej Polski	Solidarna Polska	ORG	ORG-United-Poland

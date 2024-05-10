@@ -1,0 +1,22 @@
+0	11	Koronawirus	koronawirus	EVT	EVT-Covid-19
+46	54	Covid-19	Covid-19	EVT	EVT-Covid-19
+57	60	USA	USA	LOC	GPE-USA
+79	100	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+137	144	Indiach	Indie	LOC	GPE-India
+162	170	Brazylii	Brazylia	LOC	GPE-Brazil
+252	255	USA	USA	LOC	GPE-USA
+359	367	Covid-19	Covid-19	EVT	EVT-Covid-19
+393	400	Stanach	Stany	LOC	GPE-USA
+731	740	Nowy Jork	Nowy Jork	LOC	GPE-New-York
+742	759	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+867	877	Amerykanów	Amerykanie	PER	GPE-USA
+881	919	wielkie rodzinne Święto Dziękczynienia	wielkie rodzinne Święto Dziękczynienia	EVT	EVT-Thanksgiving-Day
+1007	1017	Amerykanie	Amerykanie	PER	GPE-USA
+1141	1161	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1226	1229	USA	USA	LOC	GPE-USA
+1281	1289	Covid-19	Covid-19	EVT	EVT-Covid-19
+1308	1363	Amerykańskiego Centrum Kontroli i Zapobiegania Chorobom	Amerykańskiego Centrum Kontroli i Zapobiegania Chorobom	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+1365	1368	CDC	CDC	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+1426	1440	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1562	1571	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1797	1806	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA

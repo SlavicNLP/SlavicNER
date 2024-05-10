@@ -1,0 +1,46 @@
+21	29	brexicie	Brexit	EVT	EVT-Brexit
+149	158	Euroatomu	Euroatom	ORG	ORG-EAEC-European-Atomic-Energy-Community-Eur
+165	180	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+234	263	Komisja Kontroli Europejskiej	Komisja Kontroli Europejskiej	ORG	ORG-British-Committee-on-European-Control
+286	296	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+482	490	brexicie	Brexit	EVT	EVT-Brexit
+528	536	brexicie	Brexit	EVT	EVT-Brexit
+642	659	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+674	685	Theresa May	Theresa May	PER	PER-Theresa-May
+715	732	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+733	746	Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+780	789	Euroatomu	Euroatom	ORG	ORG-EAEC-European-Atomic-Energy-Community-Eur
+796	811	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+859	862	TUE	TUE	PRO	PRO-TUE-Treaty-on-European-Union
+883	887	Unii	Unia	ORG	ORG-European-Union
+918	925	brexitu	Brexit	EVT	EVT-Brexit
+926	937	David Davis	David Davis	PER	PER-David-Davis
+968	997	Komisją Kontroli Europejskiej	Komisja Kontroli Europejskiej	ORG	ORG-British-Committee-on-European-Control
+1002	1017	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1233	1246	John Buscombe	John Buscombe	PER	PER-John-Buscombe
+1264	1311	Brytyjskiego Naukowego Stowarzyszenia Jądrowego	Brytyjskie Naukowe Stowarzyszenie Jądrowe	ORG	ORG-BASA-British-Atomic-Scientists-Associatio
+1330	1341	Izbą Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+1521	1538	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1574	1592	Richard Harrington	Richard Harrington	PER	PER-Richard-Harrington
+1606	1612	brexit	Brexit	EVT	EVT-Brexit
+1693	1710	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1912	1920	Kanadzie	Kanada	LOC	GPE-Canada
+1923	1931	Holandii	Holandia	LOC	GPE-Holland
+2365	2382	Philippa Withford	Philippa Withford	PER	PER-Philippa-Withford
+2394	2428	Europejskiego Komitetu Kontrolnego	Europejski Komitet Kontrolny	ORG	ORG-British-Committee-on-European-Control
+2451	2485	Stowarzyszenie Przemysłu Jądrowego	Stowarzyszenie Przemysłu Jądrowego	ORG	ORG-BASA-British-Atomic-Scientists-Associatio
+2559	2574	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2597	2607	Euroatomie	Euroatom	ORG	ORG-EAEC-European-Atomic-Energy-Community-Eur
+2701	2707	Brexit	Brexit	EVT	EVT-Brexit
+2775	2782	Wyspach	Wyspy	LOC	GPE-Great-Britain
+2784	2792	Bruksela	Bruksela	LOC	GPE-Brussles
+2841	2853	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2868	2870	UE	UE	ORG	ORG-European-Union
+2896	2904	Londynie	Londyn	LOC	GPE-London
+2978	2991	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+3047	3071	Europejska Agencja Leków	Europejska Agencja Leków	ORG	ORG-EMA-European-Medicines-Agency
+3098	3128	Komitet ds. spraw wyjścia z UE	Komitet ds. spraw wyjścia z UE	ORG	ORG-EU-Exit-Committee
+3165	3192	Instytutem Badań nad Rakiem	Instytut Badań nad Rakiem	ORG	ORG-ICR-Institute-of-Cancer-Research
+3213	3236	Uniwersytecie Cambridge	Uniwersytet Cambridge	ORG	ORG-University-of-Cambridge
+3319	3336	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3429	3437	brexicie	Brexit	EVT	EVT-Brexit

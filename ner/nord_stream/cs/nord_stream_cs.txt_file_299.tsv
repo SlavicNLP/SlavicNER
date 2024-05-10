@@ -1,0 +1,35 @@
+0	3	DWN	DWN	PRO	PRO-Deutsche-Wirtschafts-Nachrichten
+28	34	Evropě	Evropa	LOC	LOC-Europe
+105	111	Evropě	Evropa	LOC	LOC-Europe
+155	166	Portugalsko	Portugalsko	LOC	GPE-Portugal
+168	174	Itálie	Itálie	LOC	GPE-Italy
+176	183	Turecko	Turecko	LOC	GPE-Turkey
+186	195	Španělsko	Španělsko	LOC	GPE-Spain
+236	242	Polska	Polsko	LOC	GPE-Poland
+245	250	Litvy	Litva	LOC	GPE-Lithuania
+319	332	Spojené státy	Spojené státy	LOC	GPE-USA
+341	347	Ruskem	Rusko	LOC	GPE-Russia
+370	377	Norskem	Norsko	LOC	GPE-Norway
+379	386	Katarem	Katar	LOC	GPE-Qatar
+388	397	Alžírskem	Alžírsko	LOC	GPE-Algeria
+399	404	Libyí	Libye	LOC	GPE-Libya
+406	419	Ázerbájdžánem	Ázerbájdžán	LOC	GPE-Azerbaijan
+421	428	Nigérií	Nigérie	LOC	GPE-Nigeria
+431	435	Peru	Peru	LOC	GPE-Peru
+446	478	Deutsche Wirtschafts Nachrichten	Deutsche Wirtschafts Nachrichten	PRO	PRO-Deutsche-Wirtschafts-Nachrichten
+537	552	Spojených států	Spojené státy	LOC	GPE-USA
+580	586	Evropě	Evropa	LOC	LOC-Europe
+654	665	Commerzbank	Commerzbank	ORG	ORG-Commerzbank
+666	682	Eugena Weinberga	Eugen Weinberg	PER	PER-Eugen-Weinberg
+751	766	Spojených států	Spojené státy	LOC	GPE-USA
+880	893	Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+898	911	Spojené státy	Spojené státy	LOC	GPE-USA
+943	949	Evropy	Evropa	LOC	LOC-Europe
+1019	1025	Evropě	Evropa	LOC	LOC-Europe
+1072	1077	Rusko	Rusko	LOC	GPE-Russia
+1107	1113	Evropy	Evropa	LOC	LOC-Europe
+1154	1157	USA	USA	LOC	GPE-USA
+1317	1322	Ruska	Rusko	LOC	GPE-Russia
+1437	1458	Brookings Institution	Brookings Institution	ORG	ORG-RICS-Royal-Institution-of-Chartered-Surveyors
+1471	1479	Oilprice	Oilprice	PRO	PRO-Oilprice
+1491	1523	Deutsche Wirtschafts Nachrichten	Deutsche Wirtschafts Nachrichten	PRO	PRO-Deutsche-Wirtschafts-Nachrichten

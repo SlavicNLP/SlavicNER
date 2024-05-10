@@ -1,0 +1,17 @@
+2	22	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+46	53	Брекзит	Брекзит	EVT	EVT-Brexit
+79	93	Великобритания	Великобритания	LOC	GPE-Great-Britain
+97	99	ЕС	ЕС	ORG	ORG-European-Union
+206	213	Брекзит	Брекзит	EVT	EVT-Brexit
+252	255	АФП	АФП	ORG	ORG-France-Presse
+324	326	ЕС	ЕС	ORG	ORG-European-Union
+440	456	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+459	477	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+487	501	Великобритания	Великобритания	LOC	GPE-Great-Britain
+520	522	ЕС	ЕС	ORG	ORG-European-Union
+575	582	Брекзит	Брекзит	EVT	EVT-Brexit
+949	951	ЕС	ЕС	ORG	ORG-European-Union
+980	990	Хилари Бен	Хилари Бен	PER	PER-Hilary-Benn
+1133	1140	Брекзит	Брекзит	EVT	EVT-Brexit
+1220	1234	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1238	1240	ЕС	ЕС	ORG	ORG-European-Union

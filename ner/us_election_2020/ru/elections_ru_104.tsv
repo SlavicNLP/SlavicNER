@@ -1,0 +1,58 @@
+403	406	США	США	LOC	GPE-USA
+419	445	федеральным правительством	федеральное правительство	ORG	ORG-The-Federal-government-of-the-United-States
+617	630	американского	американский	LOC	GPE-USA
+708	711	США	США	LOC	GPE-USA
+894	897	США	США	LOC	GPE-USA
+994	1014	Коллегией выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1346	1365	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1663	1701	Двенадцатой поправки к Конституции США	Двенадцатая поправка к Конституции США	PRO	PRO-Twelfth-Amendment-to-the-United-States-Constitution
+1807	1810	США	США	LOC	GPE-USA
+2017	2036	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2485	2488	США	США	LOC	GPE-USA
+2664	2671	Флорида	Флорида	LOC	GPE-Florida
+3124	3134	Калифорния	Калифорния	LOC	GPE-California
+3277	3290	Альберта Гора	Альберт Гор	PER	PER-Al-Gore
+3293	3303	Калифорнии	Калифорния	LOC	GPE-California
+3403	3406	Гор	Гор	PER	PER-Al-Gore
+3439	3449	Калифорния	Калифорния	LOC	GPE-California
+3491	3501	Калифорнии	Калифорния	LOC	GPE-California
+3506	3513	Флориде	Флорида	LOC	GPE-Florida
+3514	3517	Гор	Гор	PER	PER-Al-Gore
+3546	3549	Буш	Буш	PER	PER-George-Bush-Jr
+3600	3604	Бушу	Буш	PER	PER-George-Bush-Jr
+3629	3639	Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+3683	3690	Флорида	Флорида	LOC	GPE-Florida
+3720	3732	выборов 2000	выборы 2000	EVT	EVT-2000-United-States-Presidential-Election
+3750	3753	Гор	Гор	PER	PER-Al-Gore
+3784	3787	Буш	Буш	PER	PER-George-Bush-Jr
+3917	3921	Гора	Гор	PER	PER-Al-Gore
+3985	3989	Буша	Буш	PER	PER-George-Bush-Jr
+4027	4030	Буш	Буш	PER	PER-George-Bush-Jr
+4114	4121	Америки	Америка	LOC	GPE-USA
+4366	4393	Президентские кампании 2008	Президентская кампания 2008	EVT	EVT-2008-US-Election-Campaign
+5393	5405	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+5429	5450	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+5496	5502	Сената	Сенат	ORG	ORG-United-States-Senate
+5592	5613	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+5735	5740	Сенат	Сенат	ORG	ORG-United-States-Senate
+5929	5956	17-й поправки к Конституции	17-я поправка к Конституции	PRO	PRO-17th-Amendment-to-the-United-States-Constitution
+6031	6052	Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+6147	6152	Сенат	Сенат	ORG	ORG-United-States-Senate
+6168	6179	Конституция	Конституция	PRO	PRO-The-USA-Constitution
+6249	6252	США	США	LOC	GPE-USA
+6359	6367	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+6528	6531	США	США	LOC	GPE-USA
+6822	6834	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+7304	7326	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+7327	7338	Альберт Гор	Альберт Гор	PER	PER-Al-Gore
+7406	7419	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+7420	7438	Джордж Буш-младший	Джордж Буш-младший	PER	PER-George-Bush-Jr
+7524	7542	Джордж Буш-младший	Джордж Буш-младший	PER	PER-George-Bush-Jr
+7604	7619	Дж. Буш-младший	Дж. Буш-младший	PER	PER-George-Bush-Jr
+7658	7661	США	США	LOC	GPE-USA
+7700	7703	США	США	LOC	GPE-USA
+7834	7837	США	США	LOC	GPE-USA
+7957	7972	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+7975	8001	Республиканской партий США	Республиканская партия США	ORG	ORG-Republican-Party-USA
+8054	8066	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+8113	8125	американские	американские	LOC	GPE-USA

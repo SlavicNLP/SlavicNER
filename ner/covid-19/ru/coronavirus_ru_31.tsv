@@ -1,0 +1,76 @@
+142	150	Германия	Германия	LOC	GPE-Germany
+164	176	коронавируса	коронавирус	EVT	EVT-Covid-19
+180	188	Германии	Германия	LOC	GPE-Germany
+244	256	коронавируса	коронавирус	EVT	EVT-Covid-19
+286	294	Немецкая	Немецкая	PER	GPE-Germany
+320	327	Curevac	Curevac	ORG	ORG-CureVac
+369	371	DW	DW	PRO	PRO-Deutsche-Welle
+417	424	Curevac	Curevac	ORG	ORG-CureVac
+425	436	фон Боленом	фон Болен	PER	PER-Friedrich-von-Bohlen
+463	470	Curevac	Curevac	ORG	ORG-CureVac
+516	528	коронавируса	коронавирус	EVT	EVT-Covid-19
+549	557	Немецкая	немецкая	PER	GPE-Germany
+583	590	Curevac	Curevac	ORG	ORG-CureVac
+643	653	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+784	796	коронавируса	коронавирус	EVT	EVT-Covid-19
+865	867	DW	DW	PRO	PRO-Deutsche-Welle
+875	894	Фридриху фон Болену	Фридрих фон Болен	PER	PER-Friedrich-von-Bohlen
+896	916	Friedrich von Bohlen	Friedrich von Bohlen	PER	PER-Friedrich-von-Bohlen
+952	959	dievini	dievini	ORG	ORG-Dievini
+1013	1020	Curevac	Curevac	ORG	ORG-CureVac
+1024	1038	Deutsche Welle	Deutsche Welle	ORG	ORG-Deutsche-Welle
+1111	1123	коронавируса	коронавирус	EVT	EVT-Covid-19
+1231	1248	Фридрих фон Болен	Фридрих фон Болен	PER	PER-Friedrich-von-Bohlen
+1585	1595	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1669	1677	COVID-19	COVID-19	EVT	EVT-Covid-19
+1818	1835	Фридрих фон Болен	Фридрих фон Болен	PER	PER-Friedrich-von-Bohlen
+1888	1895	Curevac	Curevac	ORG	ORG-CureVac
+1929	1941	коронавируса	коронавирус	EVT	EVT-Covid-19
+3481	3492	Коронавирус	коронавирус	EVT	EVT-Covid-19
+3750	3757	Curevac	Curevac	ORG	ORG-CureVac
+4464	4472	Германии	Германия	LOC	GPE-Germany
+4742	4754	коронавируса	коронавирус	EVT	EVT-Covid-19
+4787	4795	Германии	Германия	LOC	GPE-Germany
+4828	4836	"""Шарите"""	Шарите	ORG	ORG-Charité
+4889	4897	Германии	Германия	LOC	GPE-Germany
+4940	4943	ФРГ	ФРГ	LOC	GPE-Germany
+5619	5627	Германия	Германия	LOC	GPE-Germany
+5883	5896	коронавирусом	коронавирус	EVT	EVT-Covid-19
+5942	5954	коронавирусы	коронавирус	EVT	EVT-Covid-19
+6104	6114	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+6365	6378	коронавирусом	коронавирус	EVT	EVT-Covid-19
+6420	6433	коронавирусом	коронавирус	EVT	EVT-Covid-19
+6627	6676	немецкого Федерального ведомства по оценке рисков	немецкое федеральное ведомство по оценке рисков	ORG	ORG-BfR
+6678	6681	BfR	BfR	ORG	ORG-BfR
+6708	6718	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+6824	6837	коронавирусом	коронавирус	EVT	EVT-Covid-19
+6850	6855	Китая	Китай	LOC	GPE-China
+6886	6899	коронавирусом	коронавирус	EVT	EVT-Covid-19
+6906	6915	китайские	китайские	PER	GPE-China
+6935	6938	BfR	BfR	ORG	ORG-BfR
+7063	7074	коронавирус	коронавирус	EVT	EVT-Covid-19
+7225	7238	коронавирусом	коронавирус	EVT	EVT-Covid-19
+7309	7321	коронавирусы	коронавирус	EVT	EVT-Covid-19
+7486	7489	BfR	BfR	ORG	ORG-BfR
+7509	7519	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+7673	7686	коронавирусом	коронавирус	EVT	EVT-Covid-19
+7730	7743	коронавирусом	коронавирус	EVT	EVT-Covid-19
+7829	7839	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+8101	8114	коронавирусом	коронавирус	EVT	EVT-Covid-19
+8143	8156	коронавирусом	коронавирус	EVT	EVT-Covid-19
+8157	8167	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+8335	8347	коронавируса	коронавирус	EVT	EVT-Covid-19
+8511	8524	коронавирусом	коронавирус	EVT	EVT-Covid-19
+8570	8582	коронавирусы	коронавирус	EVT	EVT-Covid-19
+8589	8593	SARS	SARS	EVT	EVT-SARS
+8597	8601	MERS	MERS	EVT	EVT-MERS-CoV
+8700	8707	Цельсию	Цельсий	PER	PER-Celsius
+8786	8789	BfR	BfR	ORG	ORG-BfR
+8808	8820	коронавируса	коронавирус	EVT	EVT-Covid-19
+8821	8831	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+8963	8976	коронавирусом	коронавирус	EVT	EVT-Covid-19
+9027	9039	коронавируса	коронавирус	EVT	EVT-Covid-19
+9042	9047	Китае	Китай	LOC	GPE-China
+9121	9132	коронавирус	коронавирус	EVT	EVT-Covid-19
+9240	9249	китайском	китайский	PER	GPE-China
+9257	9262	Ухань	Ухань	LOC	GPE-Wuhan

@@ -1,0 +1,34 @@
+6	24	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+25	38	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+162	176	Великобритании	Великобритания	LOC	GPE-Great-Britain
+180	189	Евросоюза	Евросоюз	ORG	ORG-European-Union
+190	201	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+263	269	Brexit	Brexit	EVT	EVT-Brexit
+272	277	Дэвис	Дэвис	PER	PER-David-Davis
+366	376	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+390	398	кабинета	кабинет	ORG	ORG-Cabinet-of-the-United-Kingdom
+495	497	ЕС	ЕС	ORG	ORG-European-Union
+504	510	Brexit	Brexit	EVT	EVT-Brexit
+597	599	ЕС	ЕС	ORG	ORG-European-Union
+642	648	Brexit	Brexit	EVT	EVT-Brexit
+651	656	Дэвис	Дэвис	PER	PER-David-Davis
+673	676	Мэй	Мэй	PER	PER-Theresa-May
+752	758	Brexit	Brexit	EVT	EVT-Brexit
+791	799	Британия	Британия	LOC	GPE-Great-Britain
+811	826	таможенный союз	таможенный союз	ORG	ORG-European-Union-Customs-Union
+976	984	Брюсселя	Брюссель	LOC	GPE-Brussles
+998	1008	УРА-Информ	УРА-Информ	ORG	ORG-URA-Inform
+1045	1059	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1060	1070	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1090	1105	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1154	1163	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1168	1182	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1220	1229	Coca-Cola	Coca-Cola	ORG	ORG-The-Coca-Cola-Company
+1231	1237	Nestle	Nestle	ORG	ORG-Nestle-SA
+1239	1247	Unilever	Unilever	ORG	ORG-Unilever
+1250	1266	Procter & Gamble	Procter & Gamble	ORG	ORG-The-Procter-&-Gamble-Company
+1338	1375	Министерства иностранных дел Британии	Министерство иностранных дел Британии	ORG	ORG-Foreign-Office
+1376	1389	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1432	1446	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1532	1539	Новичок	Новичок	PRO	PRO-Novichok
+1593	1601	Британии	Британия	LOC	GPE-Great-Britain

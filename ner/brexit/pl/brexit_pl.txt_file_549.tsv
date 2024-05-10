@@ -1,0 +1,29 @@
+0	15	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+52	59	Brexitu	Brexit	EVT	EVT-Brexit
+104	106	EY	EY	ORG	ORG-EY
+130	132	AP	AP	ORG	ORG-AP-The-Associated-Press
+134	149	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+332	349	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+352	357	Chiny	Chiny	LOC	GPE-China
+374	376	AP	AP	ORG	ORG-AP-The-Associated-Press
+378	393	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+531	538	Brexitu	Brexit	EVT	EVT-Brexit
+647	661	Steve Krouskos	Steve Krouskos	PER	PER-Steve-Krouskos
+664	666	EY	EY	ORG	ORG-EY
+683	685	AP	AP	ORG	ORG-AP-The-Associated-Press
+722	737	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+738	755	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+875	879	City	City	LOC	LOC-City-of-London
+931	933	AP	AP	ORG	ORG-AP-The-Associated-Press
+985	992	Europie	Europa	LOC	LOC-Europe
+1108	1116	Brexitem	Brexit	EVT	EVT-Brexit
+1141	1156	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1286	1297	Theresa May	Theresa May	PER	PER-Theresa-May
+1329	1346	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1390	1392	EY	EY	ORG	ORG-EY
+1925	1927	AP	AP	ORG	ORG-AP-The-Associated-Press
+1929	1937	Krouskos	Krouskos	PER	PER-Steve-Krouskos
+2008	2015	Brexitu	Brexit	EVT	EVT-Brexit
+2065	2072	Ameryką	Ameryka	LOC	GPE-USA
+2075	2081	Europą	Europa	LOC	LOC-Europe
+2113	2127	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump

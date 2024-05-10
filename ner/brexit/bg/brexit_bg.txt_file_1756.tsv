@@ -1,0 +1,31 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+55	63	Ирландия	Ирландия	LOC	GPE-Ireland
+85	95	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+235	251	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+254	272	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+284	298	Великобритания	Великобритания	LOC	GPE-Great-Britain
+309	325	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+337	352	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+422	429	Брекзит	Брекзит	EVT	EVT-Brexit
+430	443	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+504	507	Мей	Мей	PER	PER-Theresa-May
+524	538	Великобритания	Великобритания	LOC	GPE-Great-Britain
+572	588	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+695	709	Великобритания	Великобритания	LOC	GPE-Great-Britain
+837	853	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+856	874	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+896	903	Брекзит	Брекзит	EVT	EVT-Brexit
+978	981	Мей	Мей	PER	PER-Theresa-May
+1048	1050	ЕС	ЕС	ORG	ORG-European-Union
+1222	1244	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1245	1258	Дейвид Джоунс	Дейвид Джоунс	PER	PER-David-Jones
+1274	1280	БиБиСи	БиБиСи	PRO	PRO-BBC
+1316	1326	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1349	1362	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+1468	1470	ЕС	ЕС	ORG	ORG-European-Union
+1549	1559	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1613	1620	Брекзит	Брекзит	EVT	EVT-Brexit
+1634	1648	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1743	1757	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1781	1783	ЕС	ЕС	ORG	ORG-European-Union
+1828	1842	Великобритания	Великобритания	LOC	GPE-Great-Britain

@@ -1,0 +1,54 @@
+0	4	Туск	Туск	PER	PER-Donald-Tusk
+33	39	Brexit	Brexit	EVT	EVT-Brexit
+57	64	Дэвисом	Дэвис	PER	PER-David-Davis
+67	76	Джонсоном	Джонсон	PER	PER-Boris-Johnson
+78	82	Туск	Туск	PER	PER-Donald-Tusk
+111	117	Brexit	Brexit	EVT	EVT-Brexit
+135	142	Дэвисом	Дэвис	PER	PER-David-Davis
+145	154	Джонсоном	Джонсон	PER	PER-Boris-Johnson
+157	161	Киев	Киев	LOC	GPE-Kiev
+174	183	Совета ЕС	Совет ЕС	ORG	ORG-European-Council
+184	196	Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+251	275	британском правительстве	британское правительство	ORG	ORG-the-UK-Government
+323	329	Brexit	Brexit	EVT	EVT-Brexit
+430	440	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+462	464	ЕС	ЕС	ORG	ORG-European-Union
+582	588	Brexit	Brexit	EVT	EVT-Brexit
+599	606	Дэвисом	Дэвис	PER	PER-David-Davis
+609	618	Джонсоном	Джонсон	PER	PER-Boris-Johnson
+648	652	Туск	Туск	PER	PER-Donald-Tusk
+695	709	Великобритании	Великобритания	LOC	GPE-Great-Britain
+710	723	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+756	762	Brexit	Brexit	EVT	EVT-Brexit
+798	822	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+823	834	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+842	851	Джонсоном	Джонсон	PER	PER-Boris-Johnson
+905	911	Brexit	Brexit	EVT	EVT-Brexit
+912	923	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+944	981	Департаменте по выходу Британии из ЕС	Департамент по выходу Британии из ЕС	ORG	ORG-Ministry-of-Brexity
+982	993	Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+1013	1019	Brexit	Brexit	EVT	EVT-Brexit
+1053	1061	Британии	Британия	LOC	GPE-Great-Britain
+1062	1070	Филип Ли	Филип Ли	PER	PER-Phillip-Lee
+1113	1127	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1128	1138	Грег Хэндс	Грег Хэндс	PER	PER-Greg-Hands
+1189	1213	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+1217	1219	ЕС	ЕС	ORG	ORG-European-Union
+1274	1280	Хитроу	Хитроу	LOC	LOC-Heathrow-Airport
+1313	1327	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1328	1340	Елизавета II	Елизавета II	PER	PER-Queen-Elizabeth-II
+1380	1404	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+1416	1434	Европейского Союза	Европейский Союз	ORG	ORG-European-Union
+1436	1460	Совет Европейского союза	Совет Европейского союза	ORG	ORG-European-Council
+1505	1519	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1530	1532	ЕС	ЕС	ORG	ORG-European-Union
+1615	1635	Европейская комиссия	Европейская комиссия	ORG	ORG-European-Commission
+1656	1712	Соглашения о выходе Великобритании из Европейского Союза	Соглашение о выходе Великобритании из Европейского Союза	PRO	PRO-Brexit-withdrawal-agreement
+1972	1981	Ирландией	Ирландия	LOC	GPE-Ireland
+1984	2002	Северной Ирландией	Северная Ирландия	LOC	GPE-Northern-Ireland
+2041	2051	Соглашения	Соглашение	PRO	PRO-Brexit-withdrawal-agreement
+2075	2084	Совету ЕС	Совет ЕС	ORG	ORG-European-Council
+2125	2148	Европейского парламента	Европейский парламент	ORG	ORG-European-Parliament
+2192	2215	Соединенное Королевство	Соединенное Королевство	LOC	GPE-Great-Britain
+2233	2256	Соединенное Королевство	Соединенное Королевство	LOC	GPE-Great-Britain
+2265	2281	Европейский Союз	Европейский Союз	ORG	ORG-European-Union

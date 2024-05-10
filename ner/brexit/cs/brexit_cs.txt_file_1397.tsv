@@ -1,0 +1,25 @@
+0	10	Škoda Auto	Škoda Auto	ORG	ORG-Skoda-Auto-Company
+26	33	brexitu	brexit	EVT	EVT-Brexit
+58	66	Británii	Británie	LOC	GPE-Great-Britain
+98	103	Česku	Česko	LOC	GPE-Czech-Republic
+141	151	Škoda Auto	Škoda Auto	ORG	ORG-Skoda-Auto-Company
+245	271	úřadu pro certifikaci vozů	úřad pro certifikaci vozů	ORG	ORG-Vehicle-Certification-Agency
+273	276	VCA	VCA	ORG	ORG-Vehicle-Certification-Agency
+332	340	Británie	Británie	LOC	GPE-Great-Britain
+343	356	Evropské unie	Evropská unie	ORG	ORG-European-Union
+358	361	VCA	VCA	ORG	ORG-Vehicle-Certification-Agency
+414	416	EU	EU	ORG	ORG-European-Union
+480	482	EU	EU	ORG	ORG-European-Union
+484	487	VCA	VCA	ORG	ORG-Vehicle-Certification-Agency
+515	532	Jaguar Land Rover	Jaguar Land Rover	ORG	ORG-Jaguar-Land-Rover
+534	540	Nissan	Nissan	ORG	ORG-Nissan
+543	555	Aston Martin	Aston Martin	ORG	ORG-Aston-Martin-Company
+573	580	Reuters	Reuters	ORG	ORG-Reuters
+592	595	VCA	VCA	ORG	ORG-Vehicle-Certification-Agency
+620	627	brexitu	brexit	EVT	EVT-Brexit
+800	810	Škoda Auto	Škoda Auto	ORG	ORG-Skoda-Auto-Company
+811	826	Zdeněk Štěpánek	Zdeněk Štěpánek	PER	PER-Zdenek-Turek
+899	906	brexitu	brexit	EVT	EVT-Brexit
+974	982	Británie	Británie	LOC	GPE-Great-Britain
+985	987	EU	EU	ORG	ORG-European-Union
+1035	1048	Evropské unie	Evropská unie	ORG	ORG-European-Union

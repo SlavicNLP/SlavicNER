@@ -1,0 +1,108 @@
+28	35	Байдена	Байден	PER	PER-Joe-Biden
+74	79	Трамп	Трамп	PER	PER-Donald-Trump
+218	224	Meduza	Meduza	PRO	PRO-Russia-Meduza
+333	336	США	США	LOC	GPE-USA
+433	445	американской	американская	LOC	GPE-USA
+983	986	Мэн	Мэн	LOC	GPE-Maine
+989	997	Небраска	Небраска	LOC	GPE-Nebraska
+1043	1047	Мэне	Мэн	LOC	GPE-Maine
+1056	1064	Небраске	Небраска	LOC	GPE-Nebraska
+1447	1460	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1546	1557	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1625	1630	Трамп	Трамп	PER	PER-Donald-Trump
+1770	1780	демократов	демократ	ORG	ORG-Democratic-Party-USA
+1791	1796	Трамп	Трамп	PER	PER-Donald-Trump
+1924	1927	США	США	LOC	GPE-USA
+1969	1985	демократического	демократический	ORG	ORG-Democratic-Party-USA
+2005	2016	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2054	2060	Трампа	Трамп	PER	PER-Donald-Trump
+2068	2074	Байден	Байден	PER	PER-Joe-Biden
+2079	2084	Трамп	Трамп	PER	PER-Donald-Trump
+2158	2164	Байден	Байден	PER	PER-Joe-Biden
+2188	2194	Трампа	Трамп	PER	PER-Donald-Trump
+2285	2291	Аляски	Аляска	LOC	GPE-Alaska
+2369	2375	Трампу	Трамп	PER	PER-Donald-Trump
+2641	2647	Трампа	Трамп	PER	PER-Donald-Trump
+2743	2753	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+2917	2923	Трампа	Трамп	PER	PER-Donald-Trump
+3088	3094	Байден	Байден	PER	PER-Joe-Biden
+3202	3240	Второго избирательного округа Небраски	Второй избирательный округ Небраски	ORG	ORG-Nebraska's-second-congressional-district
+3270	3275	Омаха	Омаха	LOC	GPE-Omaha
+3339	3345	Байден	Байден	PER	PER-Joe-Biden
+3349	3358	Висконсин	Висконсин	LOC	GPE-Wisconsin
+3411	3416	Трамп	Трамп	PER	PER-Donald-Trump
+3559	3566	Милуоки	Милуоки	LOC	GPE-Milwaukee
+3569	3577	Грин Бэй	Грин Бэй	LOC	PER-Green Bay
+3608	3614	Байден	Байден	PER	PER-Joe-Biden
+3777	3787	демократов	демократ	ORG	ORG-Democratic-Party-USA
+3820	3826	Трампа	Трамп	PER	PER-Donald-Trump
+3840	3846	Невада	Невада	LOC	GPE-Nevada
+3907	3922	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+4023	4029	Байден	Байден	PER	PER-Joe-Biden
+4122	4132	Лас-Вегаса	Лас-Вегас	LOC	GPE-Las-Vegas
+4135	4139	Рино	Рино	LOC	GPE-Reno
+4246	4252	Трампа	Трамп	PER	PER-Donald-Trump
+4269	4276	Байдену	Байден	PER	PER-Joe-Biden
+4375	4384	Лас-Вегас	Лас-Вегас	LOC	GPE-Las-Vegas
+4390	4396	Байден	Байден	PER	PER-Joe-Biden
+4419	4426	Аризона	Аризона	LOC	GPE-Arizona
+4477	4482	Трамп	Трамп	PER	PER-Donald-Trump
+4562	4568	Байден	Байден	PER	PER-Joe-Biden
+4648	4654	Тусоне	Тусон	LOC	GPE-Tucson
+4660	4666	Байден	Байден	PER	PER-Joe-Biden
+4798	4805	Байдена	Байден	PER	PER-Joe-Biden
+4897	4904	Мичиган	Мичиган	LOC	GPE-Michigan
+4929	4934	Трамп	Трамп	PER	PER-Donald-Trump
+5017	5021	Уэйн	Уэйн	LOC	GPE-Wayne
+5054	5061	Детройт	Детройт	LOC	GPE-Detroit
+5091	5102	детройтских	детройтский	LOC	GPE-Detroit
+5118	5125	Байдена	Байден	PER	PER-Joe-Biden
+5247	5263	демократическими	демократический	ORG	ORG-Democratic-Party-USA
+5350	5355	Трамп	Трамп	PER	PER-Donald-Trump
+5359	5376	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+5401	5406	Трамп	Трамп	PER	PER-Donald-Trump
+5613	5619	Трампу	Трамп	PER	PER-Donald-Trump
+5721	5725	Роли	Роли	LOC	GPE-Raleigh
+5728	5735	Шарлотт	Шарлотт	LOC	GPE-Charlotte
+5753	5759	Байден	Байден	PER	PER-Joe-Biden
+5799	5807	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+5904	5909	Трамп	Трамп	PER	PER-Donald-Trump
+6054	6061	Атланты	Алтанта	LOC	GPE-Atlanta
+6141	6147	Трампа	Трамп	PER	PER-Donald-Trump
+6177	6184	Атланте	Атланта	LOC	GPE-Atlanta
+6344	6356	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+6434	6440	Байден	Байден	PER	PER-Joe-Biden
+6522	6537	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+6570	6576	Трампу	Трамп	PER	PER-Donald-Trump
+6708	6719	Филадельфии	Филадельфия	LOC	GPE-Philadelphia
+6741	6751	демократов	демократ	ORG	ORG-Democratic-Party-USA
+6767	6782	«Ржавого пояса»	"""Ржавый пояс"""	LOC	GPE-Rust-Belt
+6809	6815	Трампа	Трамп	PER	PER-Donald-Trump
+6852	6857	Трамп	Трамп	PER	PER-Donald-Trump
+6887	6894	Байдена	Байден	PER	PER-Joe-Biden
+6986	6997	Филадельфии	Филадельфия	LOC	GPE-Philadelphia
+7000	7010	Питтсбурга	Питтсбург	LOC	GPE-Pittsburgh
+7038	7044	Байден	Байден	PER	PER-Joe-Biden
+7078	7084	Трампа	Трамп	PER	PER-Donald-Trump
+7198	7231	2-й избирательный округ штата Мэн	2-й избирательный округ штата Мэн	ORG	ORG-Maine's-second-congressional-district
+7245	7255	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+7438	7443	Трамп	Трамп	PER	PER-Donald-Trump
+7918	7924	Байден	Байден	PER	PER-Joe-Biden
+7948	7960	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+8105	8110	Омаха	Омаха	LOC	GPE-Omaha
+8127	8159	2-й избирательный округ Небраски	2-й избирательный округ Небраски	ORG	ORG-Nebraska's-second-congressional-district
+8218	8225	Байдена	Байден	PER	PER-Joe-Biden
+8285	8291	Трампа	Трамп	PER	PER-Donald-Trump
+8322	8329	Байдена	Байден	PER	PER-Joe-Biden
+8446	8451	Трамп	Трамп	PER	PER-Donald-Trump
+8454	8466	Пенсильванию	Пенсильвания	LOC	GPE-Pennsylvania
+8468	8476	Джорджию	Джорджия	LOC	GPE-Georgia-US-state
+8481	8498	Северную Каролину	Северная Каролина	LOC	GPE-North-Carolina-US-State
+8509	8515	Трампа	Трамп	PER	PER-Donald-Trump
+8580	8592	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+8594	8602	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+8605	8622	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+8642	8650	Мичигане	Мичиган	LOC	GPE-Michigan
+8652	8659	Аризоне	Аризона	LOC	GPE-Arizona
+8664	8670	Неваде	Невада	LOC	GPE-Nevada
+8687	8697	демократов	демократ	ORG	ORG-Democratic-Party-USA

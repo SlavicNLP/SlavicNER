@@ -1,0 +1,37 @@
+48	60	коронавируса	коронавирус	EVT	EVT-Covid-19
+61	68	Испания	Испания	LOC	GPE-Spain
+71	78	Франция	Франция	LOC	GPE-France
+135	147	коронавируса	коронавирус	EVT	EVT-Covid-19
+170	197	"Университета ""Джон Хопкинс"""	"Университет ""Джон Хопкинс"""	ORG	ORG-Johns-Hopkins-University
+226	237	коронавирус	коронавирус	EVT	EVT-Covid-19
+310	316	Италия	Италия	LOC	GPE-Italy
+362	367	Китай	Китай	LOC	GPE-China
+393	397	Иран	Иран	LOC	GPE-Iran
+400	407	Испания	Испания	LOC	GPE-Spain
+434	441	Испания	Испания	LOC	GPE-Spain
+696	708	Бегоня Гомес	Бегоня Гомес	PER	PER-Begonia-Gomez
+739	751	Педро Санчес	Педро Санчес	PER	PER-Pedro-Sanchez
+772	783	коронавирус	коронавирус	EVT	EVT-Covid-19
+816	827	коронавирус	коронавирус	EVT	EVT-Covid-19
+851	858	Испания	Испания	LOC	GPE-Spain
+885	892	Франция	Франция	LOC	GPE-France
+1032	1043	Едуар Филип	Едуар Филип	PER	PER-Edouard-Philippe
+1085	1097	коронавируса	коронавирус	EVT	EVT-Covid-19
+1125	1136	коронавирус	коронавирус	EVT	EVT-Covid-19
+1207	1221	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1276	1299	Правителството на Литва	Правителство на Литва	ORG	ORG-Parliament-of-Lithuania
+1481	1501	Чешкото правителство	Чешко правителство	ORG	ORG-Parliament-of-the-Czech-Republic
+1567	1591	Словенското правителство	Словенско правителство	ORG	ORG-Slovenian-Parliament
+1689	1701	коронавируса	коронавирус	EVT	EVT-Covid-19
+1747	1753	Турция	Турция	LOC	GPE-Turkey
+1773	1788	Фахреттин Коджа	Фахреттин Коджа	PER	PER-Fahrettin-Koca
+1843	1854	коронавирус	коронавирус	EVT	EVT-Covid-19
+1877	1884	Румъния	Румъния	LOC	GPE-Romania
+1929	1940	коронавирус	коронавирус	EVT	EVT-Covid-19
+1996	2009	Клаус Йоханис	Клаус Йоханис	PER	PER-Klaus-Iohannis
+2130	2133	САЩ	САЩ	LOC	GPE-USA
+2161	2169	Ирландия	Ирландия	LOC	GPE-Ireland
+2172	2186	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2336	2345	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2473	2485	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2489	2500	коронавирус	коронавирус	EVT	EVT-Covid-19

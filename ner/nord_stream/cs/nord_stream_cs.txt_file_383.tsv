@@ -1,0 +1,19 @@
+0	7	Gazprom	Gazprom	ORG	ORG-Gazprom
+31	37	Evropy	Evropa	LOC	LOC-Europe
+40	47	Turecka	Turecko	LOC	GPE-Turkey
+101	107	Evropy	Evropa	LOC	LOC-Europe
+110	117	Turecka	Turecko	LOC	GPE-Turkey
+244	252	Gazpromu	Gazprom	ORG	ORG-Gazprom
+253	268	Alexeje Millera	Alexej Miller	PER	PER-Aleksey-Miller
+349	356	Gazprom	Gazprom	ORG	ORG-Gazprom
+446	457	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+484	490	Evropy	Evropa	LOC	LOC-Europe
+709	717	Gazpromu	Gazprom	ORG	ORG-Gazprom
+1396	1402	Evropě	Evropa	LOC	LOC-Europe
+1456	1464	Nizozemí	Nizozemsko	LOC	GPE-Holland
+1470	1478	Rumunsko	Rumunsko	LOC	GPE-Romania
+1583	1587	NATO	NATO	ORG	ORG-NATO
+1590	1592	EU	EU	ORG	ORG-European-Union
+1615	1618	USA	USA	LOC	GPE-USA
+1683	1686	USA	USA	LOC	GPE-USA
+1689	1693	NATO	NATO	ORG	ORG-NATO

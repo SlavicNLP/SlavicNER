@@ -1,0 +1,14 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+133	141	Británie	Británie	LOC	GPE-Great-Britain
+243	260	Jaguar Land Rover	Jaguar Land Rover	ORG	ORG-Jaguar-Land-Rover
+476	485	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+531	537	brexit	brexit	EVT	EVT-Brexit
+561	567	Cooper	Cooper	PER	PER-Cooper
+584	598	Ellesmere Port	Ellesmere Port	LOC	GPE-Ellesmere-Port
+608	618	Liverpoolu	Liverpool	LOC	GPE-Liverpool
+662	668	Nissan	Nissan	ORG	ORG-Nissan
+712	718	Anglie	Anglie	LOC	GPE-England
+740	749	Španělsku	Španělsko	LOC	GPE-Spain
+1048	1054	Londýn	Londýn	LOC	GPE-London
+1057	1063	Brusel	Brusel	LOC	GPE-Brussles
+1101	1108	brexitu	brexit	EVT	EVT-Brexit

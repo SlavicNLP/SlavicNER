@@ -1,0 +1,51 @@
+39	51	коронавируса	коронавирус	EVT	EVT-Covid-19
+127	143	Амурской области	Амурская область	LOC	GPE-Amur-region
+198	212	коронавирусной	коронавирусной	EVT	EVT-Covid-19
+285	291	ковида	ковид	EVT	EVT-Covid-19
+421	439	Светлана Леонтьева	Светлана Леонтьева	PER	PER-Svetlana-Leonteva
+803	822	Светланы Леонтьевой	Светлана Леонтьева	PER	PER-Svetlana-Leonteva
+848	862	коронавирусной	коронавирусной	EVT	EVT-Covid-19
+951	960	Приамурье	Приамурье	LOC	GPE-Amur-region
+993	1008	«Гам-Ковид-Вак»	«Гам-Ковид-Вак»	PRO	PRO-Gam-COVID-Vac
+1011	1025	«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+1165	1172	амурчан	амурчане	PER	GPE-Amur-Region
+1190	1197	ковидом	ковид	EVT	EVT-Covid-19
+1298	1317	Светлана Николаевна	Светлана Леонтьева	PER	PER-Svetlana-Leonteva
+1628	1640	коронавируса	коронавирус	EVT	EVT-Covid-19
+1823	1834	«Госуслуги»	Госуслуги	ORG	ORG-Gosuslugi
+2095	2102	амурчан	амурчане	PER	GPE-Amur-Region
+2258	2278	Российской Федерации	Российская Федерация	LOC	GPE-Russia
+2319	2337	Светлана Леонтьева	Светлана Леонтьева	PER	PER-Svetlana-Leonteva
+2382	2397	«Гам-Ковид-Вак»	«Гам-Ковид-Вак»	PRO	PRO-Gam-COVID-Vac
+2399	2410	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+2433	2447	«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+2583	2597	коронавирусной	коронавирусной	EVT	EVT-Covid-19
+3526	3538	коронавируса	коронавирус	EVT	EVT-Covid-19
+3603	3618	«Гам-Ковид-Вак»	«Гам-Ковид-Вак»	PRO	PRO-Gam-COVID-Vac
+3635	3646	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+3701	3715	коронавирусной	коронавирусной	EVT	EVT-Covid-19
+3745	3755	SARS-Cov-2	SARS-Cov-2	EVT	EVT-Covid-19
+3773	3802	ФГБУ «НИЦЭМ им. Н.Ф. Гамалеи»	ФГБУ «НИЦЭМ им. Н.Ф. Гамалеи»	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+3806	3820	«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+3870	3942	ФБУН «Государственный научный центр вирусологии и биотехнологии «Вектор»	ФБУН «Государственный научный центр вирусологии и биотехнологии «Вектор»	ORG	ORG-Vector
+3965	3967	РФ	РФ	LOC	GPE-Russia
+3995	4002	амурчан	амурчане	PER	GPE-Amur-Region
+4032	4045	Минздравом РФ	Минздрав РФ	ORG	ORG-Ministry-of-Health-Russia
+4163	4166	МФЦ	МФЦ	ORG	ORG-Multifunctional-center
+4521	4527	ковида	ковид	EVT	EVT-Covid-19
+4553	4573	Российской Федерации	Российская Федерация	LOC	GPE-Russia
+4641	4661	космодрома Восточный	космодром Восточный	ORG	ORG-Vostochny-Cosmodrome
+4664	4702	Амурского газоперерабатывающего завода	Амурский газоперерабатывающий завод	ORG	ORG-Amur-Gas-Processing-Plant
+4861	4879	Светлана Леонтьева	Светлана Леонтьева	PER	PER-Svetlana-Leonteva
+5025	5031	ковида	ковид	EVT	EVT-Covid-19
+5824	5830	ковида	ковид	EVT	EVT-Covid-19
+5862	5871	минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+6026	6033	амурчан	амурчане	PER	GPE-Amur-Region
+6651	6663	коронавируса	коронавирус	EVT	EVT-Covid-19
+6673	6684	Коронавирус	коронавирус	EVT	EVT-Covid-19
+6774	6781	амурчан	амурчане	PER	GPE-Amur-Region
+6797	6805	«короны»	коронавирус	EVT	EVT-Covid-19
+6828	6846	Светлана Леонтьева	Светлана Леонтьева	PER	PER-Svetlana-Leonteva
+6872	6888	Амурской области	Амурская область	LOC	GPE-Amur-region
+7101	7115	коронавирусной	коронавирусной	EVT	EVT-Covid-19
+7415	7432	«Амурской правды»	Амурская правда	PRO	PRO-Amur-truth

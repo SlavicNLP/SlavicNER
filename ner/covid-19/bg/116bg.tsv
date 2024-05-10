@@ -1,0 +1,21 @@
+0	2	ЕК	ЕК	ORG	ORG-European-Commission
+77	79	ЕС	ЕС	ORG	ORG-European-Union
+80	87	Брюксел	Брюксел	LOC	GPE-Brussles
+197	209	коронавируса	коронавирус	EVT	EVT-Covid-19
+211	231	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+339	354	Европейски съюз	Европейски съюз	ORG	ORG-European-Union
+530	542	коронавируса	коронавирус	EVT	EVT-Covid-19
+632	634	ЕС	ЕС	ORG	ORG-European-Union
+855	873	Валдис Домбровскис	Валдис Домбровскис	PER	PER-Valdis-Dombrovskis
+900	902	ЕК	ЕК	ORG	ORG-European-Commission
+906	908	ЕК	ЕК	ORG	ORG-European-Commission
+1012	1014	ЕС	ЕС	ORG	ORG-European-Union
+1027	1064	Регламента за капиталовите изисквания	Регламент за капиталовите изисквания	PRO	PRO-Regulation-on-capital-requirements
+1172	1184	коронавируса	коронавирус	EVT	EVT-Covid-19
+1186	1195	Комисията	Комисия	ORG	ORG-European-Commission
+1703	1712	Комисията	Комисия	ORG	ORG-European-Commission
+1846	1849	МСП	МСП	ORG	ORG-Small-and-medium-enterprises
+1885	1894	Комисията	Комисия	ORG	ORG-European-Commission
+2025	2027	ЕС	ЕС	ORG	ORG-European-Union
+2141	2143	ЕС	ЕС	ORG	ORG-European-Union
+2240	2243	ЕБО	ЕБО	ORG	ORG-EBA-European-Banking-Authority

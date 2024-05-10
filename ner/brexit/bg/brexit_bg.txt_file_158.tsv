@@ -1,0 +1,16 @@
+0	2	ЕК	ЕК	ORG	ORG-European-Commission
+14	20	Лондон	Лондон	LOC	GPE-London
+41	48	Брекзит	Брекзит	EVT	EVT-Brexit
+151	165	Великобритания	Великобритания	LOC	GPE-Great-Britain
+195	197	ЕС	ЕС	ORG	ORG-European-Union
+259	262	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+369	388	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+427	439	Съвета на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+441	443	ЕК	ЕК	ORG	ORG-European-Commission
+550	556	Лондон	Лондон	LOC	GPE-London
+585	599	Великобритания	Великобритания	LOC	GPE-Great-Britain
+655	657	ЕС	ЕС	ORG	ORG-European-Union
+917	919	ЕС	ЕС	ORG	ORG-European-Union
+938	952	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1004	1006	ЕС	ЕС	ORG	ORG-European-Union
+1136	1138	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,97 @@
+18	25	Moderna	Moderna	ORG	ORG-Moderna
+77	86	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+117	127	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+151	158	Moderna	Moderna	ORG	ORG-Moderna
+261	270	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+296	306	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+392	402	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+431	438	Moderna	Moderna	ORG	ORG-Moderna
+579	586	Moderna	Moderna	ORG	ORG-Moderna
+763	772	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+835	842	Moderna	Moderna	ORG	ORG-Moderna
+892	900	Catalent	Catalent	ORG	ORG-Catalent
+925	933	Catalent	Catalent	ORG	ORG-Catalent
+984	992	Catalent	Catalent	ORG	ORG-Catalent
+1060	1067	Moderna	Moderna	ORG	ORG-Moderna
+1110	1141	Laboratorios Farmacéuticos Rovi	Laboratorios Farmacéuticos Rovi	ORG	ORG-Laboratorios-Farmacéuticos-Rovi
+1203	1210	Moderna	Moderna	ORG	ORG-Moderna
+1290	1299	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+1804	1811	Moderna	Moderna	ORG	ORG-Moderna
+1884	1904	Operation Warp Speed	Operation Warp Speed	ORG	ORG-Operation-Warp-Speed
+2100	2107	Модерна	Модерна	ORG	ORG-Nowoczesna-Party
+2350	2357	Moderna	Moderna	ORG	ORG-Moderna
+2361	2417	Національний інститут алергії та інфекційних захворювань	Національний інститут алергії та інфекційних захворювань	ORG	ORG-National-Institute-of-Allergy-and-Infectious-Diseases
+2478	2481	США	США	LOC	GPE-USA
+2592	2601	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+2749	2756	Moderna	Moderna	ORG	ORG-Moderna
+2866	2880	Стефан Бансель	Стефан Бансель	PER	PER-Stephan-Bancel
+3056	3063	Moderna	Moderna	ORG	ORG-Moderna
+3164	3202	Національний інститут охорони здоров'я	Національний інститут охорони здоров'я	ORG	ORG-National-Institute-of-Health
+3203	3206	США	США	LOC	GPE-USA
+3318	3325	Moderna	Moderna	ORG	ORG-Moderna
+3439	3447	COVID-19	COVID-19	EVT	EVT-Covid-19
+3485	3489	грип	грип	EVT	EVT-Influenza
+3686	3692	Nature	Nature	PRO	PRO-Nature-(journal)
+3846	3853	Moderna	Moderna	ORG	ORG-Moderna
+3857	3865	BioNtech	BioNTech	ORG	ORG-BioNTech
+4068	4075	Moderna	Moderna	ORG	ORG-Moderna
+4094	4119	Elecsys Anti-SARS-CoV-2 S	Elecsys Anti-SARS-CoV-2 S	PRO	PRO-Elecsys-Anti-SARS-CoV-2-S
+4129	4146	Roche Diagnostics	Roche Diagnostics	ORG	ORG-Roche-Diagnostics
+4162	4204	Управлінням з продовольства і медикаментів	Управління з продовольства і медикаментів	ORG	ORG-FDA-Food-and-Drug-Administration
+4205	4208	США	США	LOC	GPE-USA
+4210	4213	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+4408	4418	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4553	4558	Roche	Roche Holding	ORG	ORG-Roche-Holding
+4602	4643	Управління з продовольства і медикаментів	Управління з продовольства і медикаментів	ORG	ORG-FDA-Food-and-Drug-Administration
+4644	4647	США	США	LOC	GPE-USA
+4720	4729	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+4793	4801	COVID-19	COVID-19	EVT	EVT-Covid-19
+4860	4863	США	США	LOC	GPE-USA
+4918	4925	Moderna	Moderna	ORG	ORG-Moderna
+5165	5172	Moderna	Moderna	ORG	ORG-Moderna
+5247	5253	Pfizer	Pfizer	ORG	ORG-Pfizer
+5254	5262	BioNTech	BioNTech	ORG	ORG-BioNTech
+5263	5271	BNT162b2	BNT162b2	PRO	PRO-BNT162b2-Tozinameran
+5281	5288	Moderna	Moderna	ORG	ORG-Moderna
+5470	5476	Pfizer	Pfizer	ORG	ORG-Pfizer
+5477	5485	BioNTech	BioNTech	ORG	ORG-BioNTech
+5588	5593	Індія	Індія	LOC	GPE-India
+5850	5860	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+6059	6067	COVID-19	COVID-19	EVT	EVT-Covid-19
+6602	6610	COVID-19	COVID-19	EVT	EVT-Covid-19
+6725	6728	США	США	LOC	GPE-USA
+6796	6803	Moderna	Moderna	ORG	ORG-Moderna
+6822	6837	Financial Times	Financial Times	PRO	PRO-Financial-Times
+6839	6846	Moderna	Moderna	ORG	ORG-Moderna
+6886	6889	США	США	LOC	GPE-USA
+6936	6943	Moderna	Moderna	ORG	ORG-Moderna
+7026	7029	США	США	LOC	GPE-USA
+7047	7049	ЄС	ЄС	LOC	ORG-European-Union
+7087	7090	США	США	LOC	GPE-USA
+7148	7155	Moderna	Moderna	ORG	ORG-Moderna
+7179	7186	Moderna	Moderna	ORG	ORG-Moderna
+7224	7233	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+7236	7255	Європейським Союзом	Європейський Союз	LOC	ORG-European-Union
+7282	7289	Канадою	Канада	LOC	GPE-Canada
+7375	7382	Бельгії	Бельгія	LOC	GPE-Belgium
+7404	7406	ЄС	ЄС	LOC	ORG-European-Union
+7428	7431	США	США	LOC	GPE-USA
+7449	7463	Нью-Йорк таймс	Нью-Йорк Таймс	PRO	PRO-The-New-York-Times
+7478	7481	США	США	LOC	GPE-USA
+7503	7506	США	США	LOC	GPE-USA
+7550	7559	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+7709	7725	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+7727	7746	Європейському Союзі	Європейський Союз	ORG	ORG-European-Union
+7748	7754	Канаді	Канада	LOC	GPE-Canada
+7758	7761	США	США	LOC	GPE-USA
+7820	7827	Moderna	Moderna	ORG	ORG-Moderna
+8300	8309	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+8310	8318	COVID-19	COVID-19	EVT	EVT-Covid-19
+8374	8392	ClinicalTrials.gov	ClinicalTrials.gov	PRO	PRO-ClinicalTrials.gov
+8405	8420	Ліндсі Р. Баден	Ліндсі Р. Баден	PER	PER-Lindsey-R-Baden
+8466	8475	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+8476	8486	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+8496	8527	New England Journal of Medicine	New England Journal of Medicine	PRO	PRO-Digital-Journal
+8689	8698	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+8752	8760	COVID-19	COVID-19	EVT	EVT-Covid-19
+8774	8792	ClinicalTrials.gov	ClinicalTrials.gov	PRO	PRO-ClinicalTrials.gov

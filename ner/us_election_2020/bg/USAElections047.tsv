@@ -1,0 +1,47 @@
+0	10	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+33	43	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+98	109	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+111	119	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+122	129	Аризона	Аризона	LOC	GPE-Arizona
+145	156	демократите	демократи	PER	ORG-Democratic-Party-USA
+314	325	демократите	демократи	PER	ORG-Democratic-Party-USA
+326	336	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+345	357	американците	американци	PER	GPE-USA
+626	632	Байдън	Байдън	PER	PER-Joe-Biden
+663	673	Уилмингтън	Уилмингтън	LOC	GPE-Wilmington
+681	689	Делауеър	Делауеър	LOC	GPE-Delaware
+707	713	Байдън	Байдън	PER	PER-Joe-Biden
+724	729	Тръмп	Тръмп	PER	PER-Donald-Trump
+816	827	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+829	837	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+839	846	Аризона	Аризона	LOC	GPE-Arizona
+849	855	Невада	Невада	LOC	GPE-Nevada
+864	874	демократът	демократ	PER	ORG-Democratic-Party-USA
+896	902	Байдън	Байдън	PER	PER-Joe-Biden
+1001	1013	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1106	1117	демократите	демократи	PER	ORG-Democratic-Party-USA
+1180	1190	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1220	1226	Невада	Невада	LOC	GPE-Nevada
+1304	1309	Тръмп	Тръмп	PER	PER-Donald-Trump
+1415	1431	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+1440	1447	Аризона	Аризона	LOC	GPE-Arizona
+1468	1474	Байдън	Байдън	PER	PER-Joe-Biden
+1531	1537	Байдън	Байдън	PER	PER-Joe-Biden
+1715	1727	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+1786	1811	пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+1911	1917	Байдън	Байдън	PER	PER-Joe-Biden
+1954	1959	Тръмп	Тръмп	PER	PER-Donald-Trump
+1968	1978	пандемията	пандемия	EVT	EVT-Pandemic
+2032	2042	американци	американци	PER	GPE-USA
+2066	2069	САЩ	САЩ	LOC	GPE-USA
+2220	2225	Тръмп	Тръмп	PER	PER-Donald-Trump
+2266	2288	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+2296	2307	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2318	2331	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+2451	2463	Самюел Алито	Самюел Алито	PER	PER-Samuel-Alito
+2576	2586	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2774	2786	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2795	2801	Туитър	Туитър	PRO	PRO-Twitter
+2810	2820	Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+2827	2838	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2955	2966	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania

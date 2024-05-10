@@ -1,0 +1,31 @@
+14	26	коронавируса	коронавирус	EVT	EVT-Covid-19
+29	40	Красноярске	Красноярск	LOC	GPE-Krasnoyarsk-Krai
+88	94	ковида	ковид	EVT	EVT-Covid-19
+145	157	коронавируса	коронавирус	EVT	EVT-Covid-19
+160	171	Красноярске	Красноярск	LOC	GPE-Krasnoyarsk-Krai
+176	187	Красноярске	Красноярск	LOC	GPE-Krasnoyarsk-Krai
+217	229	коронавируса	коронавирус	EVT	EVT-Covid-19
+238	248	Мария ЛЕНЦ	Мария ЛЕНЦ	PER	PER-Maria-Lenz
+253	259	России	Россия	LOC	GPE-Russia
+296	308	коронавируса	коронавирус	EVT	EVT-Covid-19
+366	377	Нового года	Новый год	EVT	EVT-New-Year
+432	444	коронавируса	коронавирус	EVT	EVT-Covid-19
+447	458	Красноярске	Красноярск	LOC	GPE-Krasnoyarsk-Krai
+530	543	коронавирусом	коронавирус	EVT	EVT-Covid-19
+567	615	министерством здравоохранения Красноярского края	Министерство здравоохранения Красноярского края	ORG	ORG-Ministry-of-Health-of -the-Krasnoyarsk
+878	894	Зоя Масленникова	Зоя Масленникова	PER	PER-Zoya-Maslennikova
+1048	1061	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+1088	1097	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+1595	1612	Губернские аптеки	Губернские аптеки	PRO	PRO-Gubernskie-Apteki
+1898	1908	Центр СПИД	Центр СПИД	LOC	LOC-Krasnoyarsk-Regional-Center-for-AIDS-Prevention-and-Control
+2094	2106	коронавируса	коронавирус	EVT	EVT-Covid-19
+2157	2165	минздрав	Минздрав	ORG	ORG-Ministry-of-Health-of -the-Krasnoyarsk
+2336	2364	министерства здравоохранения	Министерство здравоохранения	ORG	ORG-Ministry-of-Health-Krasnoyarsky-krai
+2762	2771	минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Krasnoyarsky-krai
+2907	2918	коронавирус	коронавирус	EVT	EVT-Covid-19
+3720	3728	COVID-19	COVID-19	EVT	EVT-Covid-19
+3908	3921	КП (107,1 FM)	КП	PRO	PRO-Komsomolskaya-Pravda
+4182	4195	коронавирусом	коронавирус	EVT	EVT-Covid-19
+4438	4446	COVID-19	COVID-19	EVT	EVT-Covid-19
+4607	4620	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+4656	4665	Спутник V	Спутник V	PRO	PRO-Sputnik-V

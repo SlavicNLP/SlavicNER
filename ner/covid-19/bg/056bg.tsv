@@ -1,0 +1,47 @@
+0	12	Американците	американци	PER	GPE-USA
+46	109	Американската агенция за контрол на храните и лекарствата (FDA)	Американска агенция за контрол на храните и лекарствата (FDA)	ORG	ORG-FDA-Food-and-Drug-Administration
+156	162	Pfizer	Pfizer	ORG	ORG-Pfizer
+165	173	BioNTech	BioNTech	ORG	ORG-BioNTech
+200	211	коронавирус	коронавирус	EVT	EVT-Covid-19
+316	324	BioNTech	BioNTech	ORG	ORG-BioNTech
+352	358	Pfizer	Pfizer	ORG	ORG-Pfizer
+380	429	Агенцията за контрол на храните и лекарствата FDA	Агенция за контрол на храните и лекарствата FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+549	552	САЩ	САЩ	LOC	GPE-USA
+633	636	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+675	720	Агенцията за контрол на храните и лекарствата	Агенция за контрол на храните и лекарствата	ORG	ORG-FDA-Food-and-Drug-Administration
+840	843	САЩ	САЩ	LOC	GPE-USA
+844	856	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+960	966	Туитър	Туитър	PRO	PRO-Twitter
+968	973	Тръмп	Тръмп	PER	PER-Donald-Trump
+1044	1049	Тръмп	Тръмп	PER	PER-Donald-Trump
+1103	1106	САЩ	САЩ	LOC	GPE-USA
+1285	1288	САЩ	САЩ	LOC	GPE-USA
+1357	1367	Белият дом	Белия дом	LOC	LOC-White-House
+1399	1402	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+1403	1413	Стивън Хан	Стивън Хан	PER	PER-Stephen-Hahn
+1485	1488	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+1616	1622	Pfizer	Pfizer	ORG	ORG-Pfizer
+1625	1633	BioNTech	BioNTech	ORG	ORG-BioNTech
+1643	1656	Ню Йорк Таймс	Ню Йорк Таймс	PRO	PRO-The-New-York-Times
+1736	1741	Тръмп	Тръмп	PER	PER-Donald-Trump
+1761	1764	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+1840	1843	Хан	Хан	PER	PER-Stephen-Hahn
+1877	1880	САЩ	САЩ	LOC	GPE-USA
+1924	1936	коронавируса	коронавирус	EVT	EVT-Covid-19
+1946	1975	"университетът ""Джонс Хопкинс"""	"университет ""Джонс Хопкинс"""	ORG	ORG-Johns-Hopkins-University
+2178	2188	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2221	2233	коронавируса	коронавирус	EVT	EVT-Covid-19
+2344	2355	Пърл Харбър	Пърл Харбър	LOC	LOC-Pearl-Harbor
+2393	2399	Байдън	Байдън	PER	PER-Joe-Biden
+2549	2551	ЕС	ЕС	ORG	ORG-European-Union
+2580	2586	Канада	Канада	LOC	GPE-Canada
+2588	2595	Мексико	Мексико	LOC	GPE-Мexico
+2597	2604	Бахрейн	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+2607	2623	Саудитска Арабия	Саудитска Арабия	LOC	GPE-Saudi-Arabia
+2728	2732	mRNA	mRNA	PRO	PRO-mRNA-Vaccine
+2744	2750	Pfizer	Pfizer	ORG	ORG-Pfizer
+2753	2761	BioNTech	BioNTech	ORG	ORG-BioNTech
+2840	2881	Европейската агенция по лекарствата (Ema)	Европейска агенция по лекарствата (Ema)	ORG	ORG-EMA-European-Medicines-Agency
+3052	3060	BioNTech	BioNTech	ORG	ORG-BioNTech
+3063	3069	Pfizer	Pfizer	ORG	ORG-Pfizer
+3076	3090	Великобритания	Великобритания	LOC	GPE-Great-Britain

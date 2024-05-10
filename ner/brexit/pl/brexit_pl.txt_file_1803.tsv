@@ -1,0 +1,22 @@
+13	15	UE	UE	ORG	ORG-European-Union
+42	49	Brexitu	Brexit	EVT	EVT-Brexit
+146	153	Barnier	Barnier	PER	PER-Michel-Barnier
+223	225	27	27	ORG	ORG-European-Union
+258	265	Brexitu	Brexit	EVT	EVT-Brexit
+517	524	Barnier	Barnier	PER	PER-Michel-Barnier
+741	748	Barnier	Barnier	PER	PER-Michel-Barnier
+780	782	UE	UE	ORG	ORG-European-Union
+888	928	traktat o wyjściu Wielkiej Brytanii z UE	Traktat o wyjściu Wielkiej Brytanii z UE	PRO	PRO-Brexit-withdrawal-agreement
+1082	1084	UE	UE	ORG	ORG-European-Union
+1113	1121	Brukseli	Bruksela	LOC	GPE-Brussles
+1140	1147	Brexitu	Brexit	EVT	EVT-Brexit
+1218	1235	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1236	1247	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1387	1389	UE	UE	ORG	ORG-European-Union
+1714	1721	Brexitu	Brexit	EVT	EVT-Brexit
+1768	1783	kanał La Manche	Kanał La Manche	LOC	LOC-English-Channel
+1887	1900	Europejczyków	Europejczycy	PER	LOC-Europe
+1911	1915	Tusk	Tusk	PER	PER-Donald-Tusk
+2073	2084	Theresy May	Theresa May	PER	PER-Theresa-May
+2142	2150	Irlandią	Irlandia	LOC	GPE-Ireland
+2153	2170	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries

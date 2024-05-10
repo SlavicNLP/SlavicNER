@@ -1,0 +1,37 @@
+0	3	САЩ	САЩ	LOC	GPE-USA
+46	61	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+64	80	Съединените щати	Съединени щати	LOC	GPE-USA
+154	159	Русия	Русия	LOC	GPE-Russia
+162	170	Германия	Германия	LOC	GPE-Germany
+172	187	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+248	260	Майк Помпейо	Майк Помпейо	PER	PER-Mike-Pompeo
+273	283	Франс прес	Франс прес	ORG	ORG-AFP-Agence-France-Press
+309	316	Помпейо	Помпейо	PER	PER-Mike-Pompeo
+361	370	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+419	425	Берлин	Берлин	LOC	GPE-Berlin
+456	464	Германия	Германия	LOC	GPE-Germany
+538	541	САЩ	САЩ	LOC	GPE-USA
+598	613	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+679	684	Русия	Русия	LOC	GPE-Russia
+716	722	Европа	Европа	LOC	LOC-Europe
+730	737	Помпейо	Помпейо	PER	PER-Mike-Pompeo
+771	778	Варшава	Варшава	LOC	GPE-Warsaw
+817	831	Яцек Чапутович	Яцек Чапутович	PER	PER-Jacek-Czaputowicz
+857	872	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+990	997	Помпейо	Помпейо	PER	PER-Mike-Pompeo
+1043	1058	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1097	1103	Европа	Европа	LOC	LOC-Europe
+1201	1210	Чапутович	Чапутович	PER	PER-Jacek-Czaputowicz
+1235	1238	САЩ	САЩ	LOC	GPE-USA
+1411	1417	Доналд	Доналд	PER	PER-Donald-Trump
+1419	1424	Тръмп	Тръмп	PER	PER-Donald-Trump
+1454	1470	Съединените щати	Съединени щати	LOC	GPE-USA
+1600	1607	Помпейо	Помпейо	PER	PER-Mike-Pompeo
+1622	1631	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1655	1670	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1754	1767	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+1809	1814	Русия	Русия	LOC	GPE-Russia
+1818	1826	Германия	Германия	LOC	GPE-Germany
+1862	1869	Франция	Франция	LOC	GPE-France
+1894	1899	Полша	Полша	LOC	GPE-Poland
+1934	1944	Франс прес	Франс прес	ORG	ORG-AFP-Agence-France-Press

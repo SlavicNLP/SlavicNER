@@ -1,0 +1,65 @@
+37	42	Covid	Covid	EVT	EVT-Covid-19
+185	197	коронавірусу	коронавірус	EVT	EVT-Covid-19
+201	211	Угур Шахін	Угур Шахін	PER	PER-Ugur-Sahin
+230	239	Туреччині	Туреччина	LOC	GPE-Turkey
+273	281	BioNTech	BioNTech	ORG	ORG-BioNTech
+325	338	Озлем Тюреджі	Озлем Тюреджі	PER	PER-Özlem-Türeci
+405	422	Крістофом Губером	Крістоф Губер	PER	PER-Christoph-Huber
+426	434	BioNTech	BioNTech	ORG	ORG-BioNTech
+474	480	Pfizer	Pfizer	ORG	ORG-Pfizer
+553	561	Covid-19	Covid-19	EVT	EVT-Covid-19
+657	662	Шахін	Шахін	PER	PER-Ugur-Sahin
+673	680	Тюреджі	Тюреджі	PER	PER-Özlem-Türeci
+718	726	BioNTech	BioNTech	ORG	ORG-BioNTech
+735	740	Майнц	Майнц	LOC	GPE-Mainz
+751	760	Німеччини	Німеччина	LOC	GPE-Germany
+815	827	Угуру Шахіну	Угур Шахін	PER	PER-Ugur-Sahin
+877	886	Німеччину	Німеччина	LOC	GPE-Germany
+928	932	Ford	Ford	ORG	ORG-Ford
+935	940	Кельн	Кельн	LOC	GPE-Koln
+969	993	Кельнському університеті	Кельнський університет	ORG	ORG-University-of-Cologne
+1181	1195	Deutsche Welle	Deutsche Welle	ORG	ORG-Deutsche-Welle
+1374	1390	Маттіас Кромайер	Маттіас Кромайер	PER	PER-Matthias-Kromayer
+1402	1408	MIG AG	MIG AG	ORG	ORG-MIG-Verwaltungs-AG-(MIG-AG)
+1428	1436	BioNTech	BioNTech	ORG	ORG-BioNTech
+1486	1491	Шахін	Шахін	PER	PER-Ugur-Sahin
+1532	1556	Кельнського університету	Кельнський університет	ORG	ORG-University-of-Cologne
+1646	1673	Саарландського університету	Саарландський університет	ORG	ORG-Saarland-University
+1760	1773	Озлем Тюреджі	Озлем Тюреджі	PER	PER-Özlem-Türeci
+1851	1859	Стамбула	Стамбул	LOC	GPE-Istanbul
+1863	1872	Німеччини	Німеччина	LOC	GPE-Germany
+2062	2067	Шахін	Шахін	PER	PER-Ugur-Sahin
+2107	2130	Майнцького університету	Майнцький університет	ORG	ORG-University-of-Mainz
+2248	2271	Ganymed Pharmaceuticals	Ganymed Pharmaceuticals	ORG	ORG-Ganymed-Pharmaceuticals-AG
+2427	2435	BioNTech	BioNTech	ORG	ORG-BioNTech
+2442	2450	пандемії	пандемія	EVT	EVT-Covid-19
+2738	2744	Nasdaq	Nasdaq	ORG	ORG-Nasdaq-trading-exchange
+2748	2753	Шахін	Шахін	PER	PER-Ugur-Sahin
+2857	2864	Тюреджі	Тюреджі	PER	PER-Özlem-Türeci
+2936	2959	Майнцькому університеті	Майнцький університет	ORG	ORG-University-of-Mainz
+2965	2973	BioNTech	BioNTech	ORG	ORG-BioNTech
+3068	3082	Deutsche Welle	Deutsche Welle	ORG	ORG-Deutsche-Welle
+3155	3182	Фонд Білла та Мелінди Гейтс	Фонд Білла та Мелінди Гейтс	ORG	ORG-Bill-and-Melinda-Gates-Foundation
+3302	3308	Lancet	Lancet	PRO	PRO-The-Lancet
+3330	3342	коронавірусу	коронавірус	EVT	EVT-Covid-19
+3345	3350	Китаї	Китай	LOC	GPE-China
+3352	3357	Шахін	Шахін	PER	PER-Ugur-Sahin
+3406	3414	пандемію	пандемія	EVT	EVT-Covid-19
+3421	3435	New York Times	New York Times	ORG	ORG-New-York-Times
+3695	3700	Шахін	Шахін	PER	PER-Ugur-Sahin
+3869	3877	BioNTech	BioNTech	ORG	ORG-BioNTech
+3929	3935	Pfizer	Pfizer	ORG	ORG-Pfizer
+4035	4047	коронавірусу	коронавірус	EVT	EVT-Covid-19
+4069	4075	Pfizer	Pfizer	ORG	ORG-Pfizer
+4082	4095	Альберт Бурла	Альберт Бурла	PER	PER-Albert-Bourla
+4247	4252	Шахін	Шахін	PER	PER-Ugur-Sahin
+4256	4263	Тюреджі	Тюреджі	PER	PER-Özlem-Türeci
+4326	4340	New York Times	New York Times	ORG	ORG-New-York-Times
+4400	4404	Угур	Угур	PER	PER-Ugur-Sahin
+4448	4453	Бурла	Бурла	PER	PER-Albert-Bourla
+4630	4636	Pfizer	Pfizer	ORG	ORG-Pfizer
+4640	4645	Шахін	Шахін	PER	PER-Ugur-Sahin
+4845	4858	Ганна Чорноус	Ганна Чорноус	PER	PER-Hanna-Chornous
+4879	4882	BBC	BBC	ORG	ORG-BBC-Ltd
+4956	4964	Telegram	Telegram	PRO	PRO-Telegram
+4969	4974	Viber	Viber	PRO	PRO-Viber

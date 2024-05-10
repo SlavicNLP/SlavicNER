@@ -1,0 +1,17 @@
+0	12	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+62	69	Брекзит	Брекзит	EVT	EVT-Brexit
+94	110	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+142	156	Великобритания	Великобритания	LOC	GPE-Great-Britain
+157	169	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+211	217	Лондон	Лондон	LOC	GPE-London
+250	253	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+254	260	Барние	Барние	PER	PER-Michel-Barnier
+360	366	Лондон	Лондон	LOC	GPE-London
+495	509	Великобритания	Великобритания	LOC	GPE-Great-Britain
+522	524	ЕС	ЕС	ORG	ORG-European-Union
+574	590	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+622	636	Великобритания	Великобритания	LOC	GPE-Great-Britain
+637	649	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+691	697	Лондон	Лондон	LOC	GPE-London
+730	733	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+735	741	Барние	Барние	PER	PER-Michel-Barnier

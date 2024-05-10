@@ -1,0 +1,35 @@
+21	33	коронавируса	коронавирус	EVT	EVT-Covid-19
+71	80	Тара Смит	Тара Смит	PER	PER-Tara-Smith
+86	96	Economy.bg	Economy.bg	PRO	PRO-Economy.bg
+98	123	Пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Pandemic
+165	195	Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+350	362	коронавируса	коронавирус	EVT	EVT-Covid-19
+603	611	COVID-19	COVID-19	EVT	EVT-Covid-19
+686	695	Тара Смит	Тара Смит	PER	PER-Tara-Smith
+703	717	New York Times	New York Times	PRO	PRO-The-New-York-Times
+938	947	Тара Смит	Тара Смит	PER	PER-Tara-Smith
+978	1017	държавния университет Кент в Охайо, САЩ	държавен университет Кент в Охайо, САЩ	ORG	ORG-Kent State University
+1140	1147	Science	Science	PRO	PRO-Science-journal
+1149	1155	Nature	Nature	PRO	PRO-Nature-(journal)
+1158	1176	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+1179	1183	Тара	Тара	PER	PER-Tara-Smith
+1232	1240	COVID-19	COVID-19	EVT	EVT-Covid-19
+1430	1465	пандемията от испански грип от 1918	пандемия от испански грип от 1918	EVT	EVT-Influenza-Pandemic-1918
+1692	1704	коронавируса	коронавирус	EVT	EVT-Covid-19
+1835	1845	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+1848	1856	Исландия	Исландия	LOC	GPE-Iceland
+1890	1893	САЩ	САЩ	LOC	GPE-USA
+2056	2068	коронавируса	коронавирус	EVT	EVT-Covid-19
+2099	2109	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+2147	2150	САЩ	САЩ	LOC	GPE-USA
+2152	2158	Италия	Италия	LOC	GPE-Italy
+2244	2247	САЩ	САЩ	LOC	GPE-USA
+2516	2524	Сингапур	Сингапур	LOC	GPE-Singapore
+2527	2536	Австралия	Австралия	LOC	GPE-Australia
+2881	2893	коронавируса	коронавирус	EVT	EVT-Covid-19
+3001	3012	коронавирус	коронавирус	EVT	EVT-Covid-19
+3165	3169	САРС	САРС	EVT	EVT-SARS
+3368	3380	коронавируса	коронавирус	EVT	EVT-Covid-19
+3471	3482	коронавирус	коронавирус	EVT	EVT-Covid-19
+3706	3728	пандемията от COVID-19	пандемия от COVID-19	EVT	EVT-Pandemic
+4359	4369	Южна Корея	Южна Корея	LOC	GPE-South-Korea

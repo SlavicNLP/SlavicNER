@@ -1,0 +1,43 @@
+0	6	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+9	16	Izraelu	Izrael	LOC	GPE-Israel
+42	58	Golanske planote	Golanska planota	LOC	LOC-Golan-Heights
+86	97	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+143	166	Benjaminom Netanjahujem	Benjamin Netanjahu	PER	PER-Benjamin-Netanyahu
+201	217	Golansko planoto	Golanska planota	LOC	LOC-Golan-Heights
+256	262	Izrael	Izrael	LOC	GPE-Israel
+271	277	Siriji	Sirija	LOC	GPE-Syria
+282	298	šestdnevno vojno	šestdnevna vojna	EVT	EVT-Six-Day-War
+348	362	Zahodnem bregu	Zahodni breg	LOC	GPE-West-Bank
+380	390	Palestince	Plestinci	PER	GPE-Palestine
+393	399	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+449	465	Golansko planoto	Golanska planota	LOC	LOC-Golan-Heights
+549	563	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+600	603	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+614	619	Trump	Trump	PER	PER-Donald-Trump
+701	717	Golansko planoto	Golanska planota	LOC	LOC-Golan-Heights
+719	725	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+829	835	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+853	865	Netanjahujem	Netanjahu	PER	PER-Benjamin-Netanyahu
+971	974	BDS	BDS	ORG	ORG-BDS-Boycott,-Divestment-and-Sanctions
+977	988	Washingtonu	Washington	LOC	GPE-WashingtonDC
+1191	1197	Izrael	Izrael	LOC	GPE-Israel
+1308	1315	Izraela	Izrael	LOC	GPE-Israel
+1344	1354	Palestinci	Palestinci	PER	GPE-Palestine
+1436	1439	BDS	BDS	ORG	ORG-BDS-Boycott,-Divestment-and-Sanctions
+1510	1516	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+1574	1577	BDS	BDS	ORG	ORG-BDS-Boycott,-Divestment-and-Sanctions
+1609	1615	Izrael	Izrael	LOC	GPE-Israel
+1619	1622	BDS	BDS	ORG	ORG-BDS-Boycott,-Divestment-and-Sanctions
+1710	1717	Izraelu	Izrael	LOC	GPE-Israel
+2001	2013	Južni Afriki	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+2016	2022	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+2067	2074	Izraela	Izrael	LOC	GPE-Israel
+2078	2094	Bližnjega vzhoda	Bližnji vzhod	LOC	LOC-Middle-East
+2105	2111	Trumpa	Trump	PER	PER-Donald-Trump
+2133	2143	Palestince	Palestinci	PER	GPE-Palestine
+2203	2217	Zahodnem bregu	Zahodni breg	LOC	GPE-West-Bank
+2308	2326	vinsko klet Psagot	vinska klet Psagot	ORG	ORG-Psagot Winery
+2333	2339	Ramale	Ramala	LOC	GPE-Ramala
+2549	2552	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+2645	2653	Trumpovo	Trump	PER	PER-Donald-Trump
+2689	2696	Izraelu	Izrael	LOC	GPE-Israel

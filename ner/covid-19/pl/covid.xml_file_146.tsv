@@ -1,0 +1,15 @@
+0	9	CSK MSWiA	CSK MSWiA	LOC	LOC-CSK-MSWiA-Central-Clinical-Hospital-of-the-MSWiA-Poland
+40	48	COVID-19	COVID-19	EVT	EVT-Covid-19
+118	124	Polsce	Polska	LOC	GPE-Poland
+147	161	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+178	187	CSK MSWiA	CSK MSWiA	LOC	LOC-CSK-MSWiA-Central-Clinical-Hospital-of-the-MSWiA-Poland
+198	217	Artura Zaczyńskiego	Artur Zaczyński	PER	PER-Artur-Zaczyński
+328	345	Alicja Jakubowska	Alicja Jakubowska	PER	PER-Alicja-Jakubowska
+463	478	Artur Zaczyński	Artur Zaczyński	PER	PER-Artur-Zaczyński
+685	695	Jakubowska	Jakubowska	PER	PER-Alicja-Jakubowska
+752	797	rozporządzeniem Ministra Zdrowia z 10.12.2020	rozporządzenie Ministra Zdrowia z 10.12.2020	PRO	PRO-ordinance-of-the-minister-of-health-from-10.12.2020-Poland
+1257	1264	Polaków	Polacy	PER	GPE-Poland
+1288	1302	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+1439	1456	Tadeusza Zielonki	Tadeusz Zielonka	PER	PER-Tadeusz-Zielonka
+1468	1480	radia TOK FM	radio TOK FM	PRO	PRO-TOK-FM
+1902	1910	Zielonka	Zielonka	PER	PER-Tadeusz-Zielonka

@@ -1,0 +1,24 @@
+0	10	МИД Польши	МИД Польши	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+12	30	«Северный поток-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
+57	63	России	Россия	LOC	GPE-Russia
+76	94	Северный поток - 2	Северный поток - 2	PRO	PRO-Nord-Stream-2
+105	112	Украину	Украина	LOC	GPE-Ukraine
+145	151	Польши	Польша	LOC	GPE-Poland
+152	166	Яцек Чапутович	Яцек Чапутович	PER	PER-Jacek-Czaputowicz
+196	208	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+230	246	Европейский Союз	Европейский Союз	ORG	ORG-European-Union
+249	253	НАТО	НАТО	ORG	ORG-NATO
+299	305	России	Россия	LOC	GPE-Russia
+385	403	Северный поток - 2	Северный поток - 2	PRO	PRO-Nord-Stream-2
+412	419	Украину	Украина	LOC	GPE-Ukraine
+457	464	Украину	Украина	LOC	GPE-Ukraine
+604	613	Чапутович	Чапутович	PER	PER-Jacek-Czaputowicz
+615	633	Северный поток - 2	Северный поток - 2	PRO	PRO-Nord-Stream-2
+683	699	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+744	751	Газпром	Газпром	ORG	ORG-Gazprom
+829	845	Северным потоком	Северный поток	PRO	PRO-Nord-Stream-1
+870	888	Северный поток - 2	Северный поток - 2	PRO	PRO-Nord-Stream-2
+915	929	Северный поток	Северный поток	PRO	PRO-Nord-Stream-1
+937	953	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
+974	984	Грайфсваль	Грайфсваль	LOC	GPE-Greifswald
+1027	1034	Украину	Украина	LOC	GPE-Ukraine

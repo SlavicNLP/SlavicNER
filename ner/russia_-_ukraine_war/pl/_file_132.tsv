@@ -1,0 +1,59 @@
+0	16	Wojna w Ukrainie	Wojna w Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+1108	1113	Rosja	Rosja	LOC	GPE-Russia
+1219	1227	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1383	1390	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1393	1400	Ukraina	Ukraina	LOC	GPE-Ukraine
+3230	3238	Ukrainie	Ukraina	LOC	GPE-Ukraine
+4815	4820	Rosji	Rosja	LOC	GPE-Russia
+4836	4854	państwo ukraińskie	państwo ukraińskie	LOC	GPE-Ukraine
+5206	5211	Rosji	Rosja	LOC	GPE-Russia
+5284	5310	wojny rosyjsko-ukraińskiej	wojna rosyjsko-ukraińska	EVT	EVT-2014-Russo-Ukrainian-War
+5562	5569	Zachodu	Zachód	LOC	LOC-West
+5576	5581	Rosji	Rosja	LOC	GPE-Russia
+5612	5618	Putina	Putin	PER	PER-Vladimir-Putin
+5852	5859	Zachodu	Zachód	LOC	LOC-West
+5916	5922	Putina	Putin	PER	PER-Vladimir-Putin
+6013	6038	aneksji Krymu przez Rosję	aneksja Krymu przez Rosję	EVT	EVT-Annexation-of-Crimea
+6150	6154	Krym	Krym	LOC	GPE-Crimea
+6174	6179	Rosji	Rosja	LOC	GPE-Russia
+6552	6557	Rosji	Rosja	LOC	GPE-Russia
+6584	6591	Zachodu	Zachód	LOC	LOC-West
+6658	6667	wspólnoty	wspólnota	ORG	ORG-European-Union
+6720	6739	państwa rosyjskiego	państwo rosyjskie	LOC	GPE-Russia
+6817	6822	Rosji	Rosja	LOC	GPE-Russia
+6901	6907	Zachód	Zachód	LOC	LOC-West
+7074	7097	Banku Centralnego Rosji	Bank Centralny Rosji	ORG	ORG-Central-Bank-Russia
+7265	7270	SWIFT	SWIFT	ORG	ORG-SWIFT
+7381	7386	Rosję	Rosja	LOC	GPE-Russia
+7445	7452	Zachodu	Zachód	LOC	LOC-West
+7687	7692	Rosji	Rosja	LOC	GPE-Russia
+7814	7819	Rosji	Rosja	LOC	GPE-Russia
+7898	7903	SWIFT	SWIFT	ORG	ORG-SWIFT
+8052	8059	Zachodu	Zachód	LOC	LOC-West
+8074	8079	Rosji	Rosja	LOC	GPE-Russia
+8190	8216	wojny rosyjsko-ukraińskiej	wojna rosyjsko-ukraińska	EVT	EVT-2014-Russo-Ukrainian-War
+8392	8397	Rosji	Rosja	LOC	GPE-Russia
+8470	8486	armii rosyjskiej	armia rosyjska	ORG	ORG-Russian-Armed-Forces
+8490	8498	Ukrainie	Ukraina	LOC	GPE-Ukraine
+8689	8696	Ukrainy	Ukraina	LOC	GPE-Ukraine
+8983	8990	Ukraina	Ukraina	LOC	GPE-Ukraine
+9114	9127	Goldman Sachs	Goldman Sachs	ORG	ORG-Goldman-Sachs
+9402	9407	Rosji	Rosja	LOC	GPE-Russia
+9410	9417	Ukrainy	Ukraina	LOC	GPE-Ukraine
+9536	9543	Ukraina	Ukraina	LOC	GPE-Ukraine
+9551	9556	Rosja	Rosja	LOC	GPE-Russia
+9633	9649	wojna w Ukrainie	wojna w Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+10028	10033	Egipt	Egipt	LOC	GPE-Egypt
+10131	10138	Ukrainy	Ukraina	LOC	GPE-Ukraine
+11019	11024	Rosji	Rosja	LOC	GPE-Russia
+11027	11034	Ukrainy	Ukraina	LOC	GPE-Ukraine
+11260	11267	Ukrainy	Ukraina	LOC	GPE-Ukraine
+11279	11287	Białoruś	Białoruś	LOC	GPE-Belarus
+11307	11327	Władimirowi Putinowi	Władimir Putin	PER	PER-Vladimir-Putin
+11352	11375	obwodem kaliningradzkim	obwód kaliningradzki	LOC	GPE-Kaliningrad
+11472	11478	Polski	Polska	LOC	GPE-Poland
+11634	11640	Polski	Polska	LOC	GPE-Poland
+12420	12446	wojny rosyjsko-ukraińskiej	wojna rosyjsko-ukraińska	EVT	EVT-2014-Russo-Ukrainian-War
+12567	12574	Ukrainy	Ukraina	LOC	GPE-Ukraine
+12695	12721	wojny ukraińsko-rosyjskiej	wojna ukraińsko-rosyjska	EVT	EVT-2014-Russo-Ukrainian-War
+12740	12746	Polski	Polska	LOC	GPE-Poland

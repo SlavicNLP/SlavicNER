@@ -1,0 +1,16 @@
+22	34	коронавірусу	коронавірус	EVT	EVT-Covid-19
+37	44	Україні	Україна	LOC	GPE-Ukraine
+228	240	коронавірусу	коронавірус	EVT	EVT-Covid-19
+243	250	Україні	Україна	LOC	GPE-Ukraine
+350	360	Україна 24	Україна 24	PRO	PRO-Ukraine-24
+386	403	Андрій Волянський	Андрій Волянський	PER	PER-Andriy-Volyansky
+727	734	Україні	Україна	LOC	GPE-Ukraine
+807	810	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+957	965	COVID-19	COVID-19	EVT	EVT-Covid-19
+1015	1024	пандемією	пандемія	EVT	EVT-Covid-19
+1025	1033	COVID-19	COVID-19	EVT	EVT-Covid-19
+1127	1135	COVID-19	COVID-19	EVT	EVT-Covid-19
+1251	1259	COVID-19	COVID-19	EVT	EVT-Covid-19
+1427	1435	COVID-19	COVID-19	EVT	EVT-Covid-19
+1612	1623	Коронавірус	коронавірус	EVT	EVT-Covid-19
+1929	1932	ТСН	ТСН	PRO	PRO-TSN.ua

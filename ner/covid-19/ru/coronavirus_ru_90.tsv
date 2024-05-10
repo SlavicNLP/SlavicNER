@@ -1,0 +1,23 @@
+0	7	Moderna	Moderna	ORG	ORG-Moderna
+66	78	коронавируса	коронавирус	EVT	EVT-Covid-19
+172	184	коронавируса	коронавирус	EVT	EVT-Covid-19
+207	214	Moderna	Moderna	ORG	ORG-Moderna
+440	447	Moderna	Moderna	ORG	ORG-Moderna
+490	493	США	США	LOC	GPE-USA
+651	659	COVID-19	COVID-19	EVT	EVT-Covid-19
+851	859	COVID-19	COVID-19	EVT	EVT-Covid-19
+1087	1094	Moderna	Moderna	ORG	ORG-Moderna
+1098	1110	коронавируса	коронавирус	EVT	EVT-Covid-19
+1160	1167	Moderna	Moderna	ORG	ORG-Moderna
+1207	1215	COVID-19	COVID-19	EVT	EVT-Covid-19
+1311	1325	Стефан Бансель	Стефан Бансель	PER	PER-Stephan-Bancel
+1379	1386	Moderna	Moderna	ORG	ORG-Moderna
+1476	1484	COVID-19	COVID-19	EVT	EVT-Covid-19
+1645	1648	США	США	LOC	GPE-USA
+1855	1858	США	США	LOC	GPE-USA
+1931	1939	Telegram	Telegram	PRO	PRO-Telegram
+2547	2554	Украины	Украина	LOC	GPE-Ukraine
+3573	3580	«ZN.UA»	«ZN.UA»	PRO	PRO-zn.ua
+3615	3622	«ZN.UA»	«ZN.UA»	PRO	PRO-zn.ua
+3817	3836	«Интерфакс-Украина»	"""Интерфакс-Украина"""	PRO	"PRO-""Интерфакс-Украина"""
+3961	3980	«Интерфакс-Украина»	"""Интерфакс-Украина"""	PRO	"PRO-""Интерфакс-Украина"""

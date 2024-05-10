@@ -1,0 +1,49 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+47	53	Brexit	Brexit	EVT	EVT-Brexit
+55	59	КИЇВ	Київ	LOC	GPE-Kiev
+75	78	УНН	УНН	ORG	ORG-UNN
+96	112	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+113	125	Тереза   Мей	Тереза Мей	PER	PER-Theresa-May
+185	204	Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+308	311	УНН	УНН	ORG	ORG-UNN
+339	346	Reuters	Reuters	ORG	ORG-Reuters
+348	351	Мей	Мей	PER	PER-Theresa-May
+439	455	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+458	460	ЄС	ЄС	LOC	ORG-European-Union
+630	646	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+806	809	Мей	Мей	PER	PER-Theresa-May
+891	897	Європа	Європа	LOC	LOC-Europe
+1038	1054	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+1108	1110	ЄС	ЄС	LOC	ORG-European-Union
+1213	1219	Brexit	Brexit	EVT	EVT-Brexit
+1283	1292	Німеччина	Німеччина	LOC	GPE-Germany
+1333	1335	ЄС	ЄС	LOC	ORG-European-Union
+1341	1347	Brexit	Brexit	EVT	EVT-Brexit
+1348	1361	Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+1418	1421	Мей	Мей	PER	PER-Theresa-May
+1476	1482	Brexit	Brexit	EVT	EVT-Brexit
+1498	1506	Британія	Британія	LOC	GPE-Great-Britain
+1708	1711	Мей	Мей	PER	PER-Theresa-May
+1751	1753	ЄС	ЄС	LOC	ORG-European-Union
+1759	1765	Brexit	Brexit	EVT	EVT-Brexit
+1766	1779	Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+1822	1839	Великою Британією	Велика Британія	LOC	GPE-Great-Britain
+1865	1874	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1888	1894	Барньє	Барньє	PER	PER-Michel-Barnier
+1960	1976	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+1987	2006	Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+2025	2028	УНН	УНН	ORG	ORG-UNN
+2055	2063	Лондоном	Лондон	LOC	GPE-London
+2066	2075	Брюсселем	Брюссель	LOC	GPE-Brussles
+2096	2111	Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+2120	2122	ЄС	ЄС	LOC	ORG-European-Union
+2226	2234	Британії	Британія	LOC	GPE-Great-Britain
+2316	2322	Brexit	Brexit	EVT	EVT-Brexit
+2403	2416	Європарламент	Європарламент	ORG	ORG-European-Parliament
+2419	2430	Вестмінстер	Вестмінстер	LOC	GPE-Westminster
+2436	2442	Brexit	Brexit	EVT	EVT-Brexit
+2588	2604	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+2643	2654	Єврокомісія	Єврокомісія	ORG	ORG-European-Commission
+2723	2739	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+2742	2744	ЄС	ЄС	LOC	ORG-European-Union
+2746	2752	Brexit	Brexit	EVT	EVT-Brexit

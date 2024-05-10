@@ -1,0 +1,73 @@
+29	34	Bidnu	Biden	PER	PER-Joe-Biden
+261	264	ZDA	ZDA	LOC	GPE-USA
+300	311	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+340	343	ZDA	ZDA	LOC	GPE-USA
+437	450	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+490	506	Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+600	603	ZDA	ZDA	LOC	GPE-USA
+756	766	Heiko Maas	Heiko Maas	PER	PER-Heiko-Maas
+773	782	twitterju	twitter	PRO	PRO-Twitter
+1017	1034	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+1035	1055	Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+1079	1093	Evropska unija	Evropska unija	ORG	ORG-European-Union
+1097	1100	ZDA	ZDA	LOC	GPE-USA
+1177	1188	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1259	1262	SDS	SDS	ORG	ORG-Slovenian-Democratic-Party
+1264	1267	NSi	NSi	ORG	ORG-New-Slovenia-party
+1271	1274	SLS	SLS	ORG	ORG-Slovenian-People's-Party
+1279	1288	twitterju	twitter	PRO	PRO-Twitter
+1314	1321	Trumpov	Trumpov	PER	PER-Donald-Trump
+1367	1373	Evorpi	Evropa	LOC	LOC-Europe
+1389	1394	Bidnu	Biden	PER	PER-Joe-Biden
+1464	1484	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+1526	1533	Londona	London	LOC	GPE-London
+1534	1544	Sadiq Khan	Sadiq Khan	PER	PER-Sadiq-Khan
+1546	1551	Bidnu	Biden	PER	PER-Joe-Biden
+1555	1568	Kamali Harris	Kamala Harris	PER	PER-Kamala-Harris
+1581	1590	facebooku	facebook	PRO	PRO-Facebook
+1677	1686	twitterju	twitter	PRO	PRO-Twitter
+1730	1743	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1768	1771	ZDA	ZDA	LOC	GPE-USA
+1930	1937	Škotske	Škotska	LOC	GPE-Scotland
+1938	1953	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+2023	2032	Harrisova	Harris	PER	PER-Kamala-Harris
+2105	2108	ZDA	ZDA	LOC	GPE-USA
+2149	2165	Emmanuele Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+2252	2258	Pariza	Pariz	LOC	GPE-Paris
+2259	2271	Anne Hidalgo	Anne Hidalgo	PER	PER-Anne-Hidalgo
+2283	2292	twitterju	twitter	PRO	PRO-Twitter
+2304	2311	Amerika	Amerika	LOC	GPE-USA
+2344	2349	Bidnu	Biden	PER	PER-Joe-Biden
+2368	2374	Harris	Harris	PER	PER-Kamala-Harris
+2423	2442	Pariškega sporazuma	Pariškega sporazuma	PRO	PRO-Paris-Agreement
+2504	2507	ZDA	ZDA	LOC	GPE-USA
+2514	2533	Pariškega sporazuma	Pariški sporazum	PRO	PRO-Paris-Agreement
+2542	2550	Trumpove	Trump	PER	PER-Donald-Trump
+2680	2683	ZDA	ZDA	LOC	GPE-USA
+2684	2696	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+2705	2710	Bidnu	Biden	PER	PER-Joe-Biden
+2791	2796	Biden	Biden	PER	PER-Joe-Biden
+2809	2818	Belo hišo	Bela hiša	LOC	LOC-White-House
+2874	2877	ZDA	ZDA	LOC	GPE-USA
+3044	3057	Amy Klobuchar	Amy Klobuchar	PER	PER-Amy-Klobuchar
+3077	3084	Bidnova	Biden	PER	PER-Joe-Biden
+3283	3297	Michael Martin	Michael Martin	PER	PER-Michael-Martin
+3318	3331	Simon Coveney	Simon Coveney	PER	PER-Simon-Coveney
+3397	3402	Irska	Irska	LOC	GPE-Ireland
+3409	3412	ZDA	ZDA	LOC	GPE-USA
+3515	3528	Narendra Modi	Narendra Modi	PER	PER-Narendra-Modi
+3548	3555	Trumpom	Trump	PER	PER-Donald-Trump
+3615	3621	Bidnov	Biden	PER	PER-Joe-Biden
+3651	3654	ZDA	ZDA	LOC	GPE-USA
+3658	3664	Indijo	Indija	LOC	GPE-India
+3724	3733	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+3756	3761	Biden	Biden	PER	PER-Joe-Biden
+3798	3808	Trumpovemu	Trumpovemu	PER	PER-Donald-Trump
+3849	3863	Severne Koreje	Severne Koreje	LOC	GPE-North-Korea
+3945	3953	Kitajsko	Kitajska	LOC	GPE-China
+3957	3963	Rusijo	Rusija	LOC	GPE-Russia
+3997	4001	Nata	Nato	ORG	ORG-NATO
+4002	4018	Jens Stoltenberg	Jens Stoltenberg	PER	PER-Jens-Stoltenberg
+4031	4036	Bidnu	Biden	PER	PER-Joe-Biden
+4053	4058	Bidna	Biden	PER	PER-Joe-Biden
+4115	4119	Nato	Nato	ORG	ORG-NATO

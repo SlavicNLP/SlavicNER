@@ -1,0 +1,40 @@
+0	8	Ирландия	Ирландия	LOC	GPE-Ireland
+10	16	Лондон	Лондон	LOC	GPE-London
+68	70	ЕС	ЕС	ORG	ORG-European-Union
+98	106	Ирландия	Ирландия	LOC	GPE-Ireland
+107	119	Лио Варадкар	Лио Варадкар	PER	PER-Leo-Varadkar
+136	150	Великобритания	Великобритания	LOC	GPE-Great-Britain
+216	218	ЕС	ЕС	ORG	ORG-European-Union
+230	237	Ройтерс	Ройтерс	ORG	ORG-Reuters
+240	243	ДПА	ДПА	ORG	ORG-DPA
+372	386	Великобритания	Великобритания	LOC	GPE-Great-Britain
+395	411	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+452	472	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+474	476	ЕК	ЕК	ORG	ORG-European-Commission
+478	492	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+517	519	ЕС	ЕС	ORG	ORG-European-Union
+523	531	Брекзита	Брекзит	EVT	EVT-Brexit
+532	544	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+554	557	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+572	580	Варадкар	Варадкар	PER	PER-Leo-Varadkar
+755	768	Саймън Ковини	Саймън Ковини	PER	PER-Simon-Coveney
+819	829	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+887	901	Великобритания	Великобритания	LOC	GPE-Great-Britain
+904	912	Ирландия	Ирландия	LOC	GPE-Ireland
+949	956	Ар Ти И	Ар Ти И	PRO	PRO-RTE-Ireland
+957	963	Ковини	Ковини	PER	PER-Simon-Coveney
+1147	1153	Дъблин	Дъблин	LOC	GPE-Dublin
+1173	1178	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1239	1241	ЕС	ЕС	ORG	ORG-European-Union
+1375	1383	Ирландия	Ирландия	LOC	GPE-Ireland
+1395	1403	Ирландия	Ирландия	LOC	GPE-Ireland
+1503	1505	ЕК	ЕК	ORG	ORG-European-Commission
+1622	1630	Ирландия	Ирландия	LOC	GPE-Ireland
+1632	1640	Ирландия	Ирландия	LOC	GPE-Ireland
+1711	1721	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1730	1736	Лондон	Лондон	LOC	GPE-London
+1737	1754	Мери Лу Макдоналд	Мери Лу Макдоналд	PER	PER-Mary-Lou-McDonald
+1799	1807	Шин Фейн	Шин Фейн	ORG	ORG-Sinn-Fein
+1909	1915	Дъблин	Дъблин	LOC	GPE-Dublin
+1953	1955	ЕС	ЕС	ORG	ORG-European-Union
+1996	2010	Великобритания	Великобритания	LOC	GPE-Great-Britain

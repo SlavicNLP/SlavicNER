@@ -1,0 +1,119 @@
+0	14	Конгресс в США	Конгресс в США	ORG	ORG-United-States-Congress
+16	27	Выборы 2018	Выборы в 2018 	EVT	EVT-2018-Congress-Elections-USA
+33	48	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+183	191	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+331	339	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+395	398	США	США	LOC	GPE-USA
+541	564	американского Конгресса	Американский Конгресс	ORG	ORG-United-States-Congress
+592	603	Филадельфии	Филадельфия	LOC	GPE-Philadelphia
+629	644	Первый Конгресс	Первый Конгресс	ORG	ORG-United-States-Congress
+656	659	США	США	LOC	GPE-USA
+716	742	Декларацию о независимости	Декларация о независимости	PRO	PRO-United-States-Declaration-of-Independence
+756	764	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+854	863	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+875	898	вашингтонском Капитолии	Вашингтонский Капитолий	ORG	ORG-United-States-Congress
+912	921	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+924	946	Американский парламент	Американский парламент	ORG	ORG-United-States-Congress
+985	992	Сенатом	Сенат	ORG	ORG-United-States-Senate
+1004	1026	Палатой представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+1028	1033	Сенат	Сенат	ORG	ORG-United-States-Senate
+1199	1205	Сената	Сенат	ORG	ORG-United-States-Senate
+1295	1304	Парламент	Парламент	ORG	ORG-British-Parlament
+1331	1336	Сенат	Сенат	ORG	ORG-United-States-Senate
+1352	1355	США	США	LOC	GPE-USA
+1430	1436	Палате	Палата	ORG	ORG-United-States-House-of-Representatives
+1553	1559	Палата	Палата	ORG	ORG-United-States-House-of-Representatives
+1813	1819	Палаты	Палата	ORG	ORG-United-States-House-of-Representatives
+1860	1869	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+1875	1885	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+2496	2504	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+2555	2566	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+2612	2633	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2666	2672	Сенату	Сенат	ORG	ORG-United-States-Senate
+2793	2814	Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2817	2830	парламент США	Парламент США	ORG	ORG-United-States-Congress
+2885	2897	американское	американский	LOC	GPE-USA
+3017	3029	американским	американский	LOC	GPE-USA
+3144	3152	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+3233	3254	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+3290	3295	Сенат	Сенат	ORG	ORG-United-States-Senate
+3318	3325	Сенатом	Сенат	ORG	ORG-United-States-Senate
+3503	3509	Палату	Палата	ORG	ORG-United-States-House-of-Representatives
+3661	3666	Сенат	Сенат	ORG	ORG-United-States-Senate
+3752	3760	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+3869	3878	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+3882	3890	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+3980	3988	Пентагон	Пентагон	ORG	ORG-The-Pentagon
+4089	4098	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+4156	4164	Пентагон	Пентагон	ORG	ORG-The-Pentagon
+4188	4198	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+4727	4736	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+4789	4792	США	США	LOC	GPE-USA
+4803	4824	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+4843	4852	Пол Райан	Пол Райан	PER	PER-Paul-Ryan
+4869	4891	республиканскую партию	Республиканская партия	ORG	ORG-Republican-Party-USA
+4910	4920	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4943	4949	Сенате	Сенат	ORG	ORG-United-States-Senate
+5011	5024	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+5076	5089	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+5092	5113	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+5116	5121	Сенат	Сенат	ORG	ORG-United-States-Senate
+5124	5157	Выборы в Конгресс США в 2018 году	Выборы в Конгресс США в 2018 году	EVT	EVT-2018-Congress-Elections-USA
+5226	5239	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+5247	5256	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+5261	5270	демократы	демократ	ORG	ORG-Democratic-Party-USA
+5307	5316	демократы	демократ	ORG	ORG-Democratic-Party-USA
+5401	5423	демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+5455	5477	республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+5640	5649	демократа	демократ	ORG	ORG-Democratic-Party-USA
+5699	5713	республиканцам	республиканцы	ORG	ORG-Republican-Party-USA
+5735	5745	демократам	демократы	ORG	ORG-Democratic-Party-USA
+5850	5864	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+5888	5898	демократов	демократы	ORG	ORG-Democratic-Party-USA
+5949	5959	демократов	демократы	ORG	ORG-Democratic-Party-USA
+6094	6104	демократов	демократы	ORG	ORG-Democratic-Party-USA
+6202	6224	демократическую партию	демократическая партия	ORG	ORG-Democratic-Party-USA
+6232	6247	республиканскую	республиканский	ORG	ORG-Republican-Party-USA
+6251	6256	Трамп	Трамп	PER	PER-Donald-Trump
+6281	6318	выборах в Конгресс в ноябре 2018 года	Выборы в Конгресс в ноябре 2018 года	EVT	EVT-2018-Congress-Elections-USA
+6349	6364	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+6401	6415	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+6519	6524	Трамп	Трамп	PER	PER-Donald-Trump
+6901	6923	республиканскую партию	республиканская партия	ORG	ORG-Republican-Party-USA
+6971	6993	демократическую партию	демократическая партия	ORG	ORG-Democratic-Party-USA
+7097	7105	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+7130	7135	Обамы	Обама	PER	PER-Barack-Obama
+7317	7326	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+7476	7485	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+7706	7709	США	США	LOC	GPE-USA
+7798	7806	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+7914	7922	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+8150	8183	Выборы в Конгресс США в 2018 году	Выборы в Конгресс США в 2018 году	EVT	EVT-2018-Congress-Elections-USA
+8216	8222	Трампу	Трамп	PER	PER-Donald-Trump
+8485	8495	демократов	демократы	ORG	ORG-Democratic-Party-USA
+8524	8530	Трампа	Трамп	PER	PER-Donald-Trump
+8566	8572	России	Россия	LOC	GPE-Russia
+8606	8639	президентских выборов в 2020 году	Президентские выборы в 2020 году	EVT	EVT-2020-United-States-Presidential-Election
+8758	8770	американские	американский	LOC	GPE-USA
+8812	8818	Палаты	Палата	ORG	ORG-United-States-House-of-Representatives
+8831	8837	Сената	Сенат	ORG	ORG-United-States-Senate
+8858	8880	республиканская партия	республиканская партия	ORG	ORG-Republican-Party-USA
+8901	8907	Палате	Палата	ORG	ORG-United-States-House-of-Representatives
+8917	8923	Сенате	Сенат	ORG	ORG-United-States-Senate
+8941	8950	демократы	демократы	ORG	ORG-Democratic-Party-USA
+8994	9016	республиканская партия	республиканская партия	ORG	ORG-Republican-Party-USA
+9136	9144	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+9219	9228	Пол Райан	Пол Райан	PER	PER-Paul-Ryan
+9237	9250	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+9253	9274	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+9346	9361	Кевина Маккорти	Кевин Маккорти	PER	PER-Kevin-McCarthy
+9366	9379	Стива Скэлиса	Стив Скэлис	PER	PER-Steve-Scalise
+9428	9437	Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+9463	9475	Ненси Пелоси	Ненси Пелоси	PER	PER-Nancy-Pelosi
+9519	9525	России	Россия	LOC	GPE-Russia
+9580	9592	американских	американский	LOC	GPE-USA
+9605	9614	Конгрессу	Конгресс	ORG	ORG-United-States-Congress
+9653	9662	демократы	демократы	ORG	ORG-Democratic-Party-USA
+9730	9744	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+9785	9795	российский	российский	LOC	GPE-Russia
+9824	9834	российской	российский	LOC	GPE-Russia

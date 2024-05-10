@@ -1,0 +1,27 @@
+0	3	May	May	PER	PER-Theresa-May
+31	33	UE	UE	ORG	ORG-European-Union
+62	70	Brexicie	Brexit	EVT	EVT-Brexit
+118	124	Europy	Europa	LOC	LOC-Europe
+164	167	May	May	PER	PER-Theresa-May
+182	222	Monachijskiej Konferencji Bezpieczeństwa	Monachijska Konferencja Bezpieczeństwa	EVT	EVT-MSC-Munich-Security-Conference
+403	420	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+423	425	UE	UE	ORG	ORG-European-Union
+596	613	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+813	821	Brexicie	Brexit	EVT	EVT-Brexit
+1038	1045	Brexitu	Brexit	EVT	EVT-Brexit
+1059	1061	UE	UE	ORG	ORG-European-Union
+1126	1137	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1289	1304	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1333	1335	UE	UE	ORG	ORG-European-Union
+1373	1382	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+1541	1579	Monachijska Konferencja Bezpieczeństwa	Monachijska Konferencja Bezpieczeństwa	EVT	EVT-MSC-Munich-Security-Conference
+1581	1584	MSC	MSC	EVT	EVT-MSC-Munich-Security-Conference
+1739	1742	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1765	1768	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+1769	1776	Niemiec	Niemcy	LOC	GPE-Germany
+1777	1791	Sigmar Gabriel	Sigmar Gabriel	PER	PER-Sigmar-Gabriel
+1847	1853	Europą	Europa	LOC	LOC-Europe
+1856	1859	USA	USA	LOC	GPE-USA
+1887	1891	Chin	Chiny	LOC	GPE-China
+1904	1910	Europa	Europa	LOC	LOC-Europe
+1913	1916	USA	USA	LOC	GPE-USA

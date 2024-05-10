@@ -1,0 +1,51 @@
+29	45	Антония Руменова	Антония Руменова	PER	PER-Antonia-Rumenova
+56	72	Антония Руменова	Антония Руменова	PER	PER-Antonia-Rumenova
+143	159	Съединените щати	Съединени щати	LOC	GPE-USA
+173	185	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+202	225	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+226	236	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+333	342	Белия дом	Белия дом	LOC	LOC-White-House
+369	375	Сената	Сенат	ORG	ORG-United-States-Senate
+378	405	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+463	474	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+476	485	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+488	495	Мичиган	Мичиган	LOC	GPE-Michigan
+534	550	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+553	561	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+622	625	САЩ	САЩ	LOC	GPE-USA
+626	638	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+685	690	Тръмп	Тръмп	PER	PER-Donald-Trump
+826	829	САЩ	САЩ	LOC	GPE-USA
+853	863	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+949	962	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+1097	1111	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1123	1129	Байдън	Байдън	PER	PER-Joe-Biden
+1177	1188	демократите	демократи	PER	ORG-Democratic-Party-USA
+1312	1317	Тръмп	Тръмп	PER	PER-Donald-Trump
+1358	1368	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1450	1460	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1551	1558	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1597	1607	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1637	1649	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1823	1844	избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+1966	1969	БНР	БНР	ORG	ORG-Bulgarian-National-Radio
+2104	2110	Байдън	Байдън	PER	PER-Joe-Biden
+2154	2163	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+2186	2191	Тръмп	Тръмп	PER	PER-Donald-Trump
+2316	2324	Си Ен Ен	Си Ен Ен	PRO	PRO-CNN
+2326	2334	Фокс Нюз	Фокс Нюз	PRO	PRO-Fox-News
+2337	2345	Би Би Си	Би Би Си	PRO	PRO-BBC
+2367	2373	Байдън	Байдън	PER	PER-Joe-Biden
+2414	2423	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+2426	2433	Мичиган	Мичиган	LOC	GPE-Michigan
+2466	2471	Тръмп	Тръмп	PER	PER-Donald-Trump
+2495	2511	Съединените щати	Съединени щати	LOC	GPE-USA
+2659	2665	Байдън	Байдън	PER	PER-Joe-Biden
+2753	2759	Невада	Невада	LOC	GPE-Nevada
+2761	2768	Аризона	Аризона	LOC	GPE-Arizona
+2771	2775	Мейн	Мейн	LOC	GPE-Maine
+2784	2789	Тръмп	Тръмп	PER	PER-Donald-Trump
+2801	2812	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2814	2822	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2825	2841	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+2975	2985	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden

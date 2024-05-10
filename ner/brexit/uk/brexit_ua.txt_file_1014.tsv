@@ -1,0 +1,43 @@
+6	16	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+42	48	Brexit	Brexit	EVT	EVT-Brexit
+81	97	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+98	108	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+158	172	Великобританії	Великобританія	LOC	GPE-Great-Britain
+175	194	Європейського союзу	Європейський союз	ORG	ORG-European-Union
+220	223	Мей	Мей	PER	PER-Theresa-May
+315	321	Brexit	Brexit	EVT	EVT-Brexit
+348	351	Мей	Мей	PER	PER-Theresa-May
+448	464	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+467	476	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+478	481	Мей	Мей	PER	PER-Theresa-May
+625	631	Brexit	Brexit	EVT	EVT-Brexit
+644	647	Мей	Мей	PER	PER-Theresa-May
+674	690	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+851	869	Європейського суду	Європейський суд	ORG	ORG-European-Court-of-Justice
+874	888	Великобританії	Великобританія	LOC	GPE-Great-Britain
+906	908	ЄС	ЄС	LOC	ORG-European-Union
+957	963	Brexit	Brexit	EVT	EVT-Brexit
+1046	1052	Brexit	Brexit	EVT	EVT-Brexit
+1084	1101	Раніл Джаявардена	Раніл Джаяварден	PER	PER-Ranil-Dzhayavardena
+1121	1139	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+1140	1151	Шейлеш Вара	Шейлеш Вара	PER	PER-Shailesh-Vara
+1166	1172	Brexit	Brexit	EVT	EVT-Brexit
+1173	1185	Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+1221	1233	Естер Маквей	Естер Маквей	PER	PER-Ester-Makvi
+1254	1260	Brexit	Brexit	EVT	EVT-Brexit
+1261	1270	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1274	1290	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+1411	1419	Британії	Британія	LOC	GPE-Great-Britain
+1422	1424	ЄС	ЄС	LOC	ORG-European-Union
+1475	1478	Мей	Мей	PER	PER-Theresa-May
+1504	1510	Brexit	Brexit	EVT	EVT-Brexit
+1518	1524	Brexit	Brexit	EVT	EVT-Brexit
+1623	1631	Британії	Британія	LOC	GPE-Great-Britain
+1640	1643	МЗС	МЗС	ORG	ORG-Foreign-Office
+1644	1657	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1683	1689	Brexit	Brexit	EVT	EVT-Brexit
+1712	1722	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1770	1772	ЄС	ЄС	LOC	ORG-European-Union
+1799	1802	Мей	Мей	PER	PER-Theresa-May
+1824	1832	Британії	Британія	LOC	GPE-Great-Britain
+1903	1909	Brexit	Brexit	EVT	EVT-Brexit

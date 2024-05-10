@@ -1,0 +1,22 @@
+4	10	Европа	Европа	LOC	LOC-Europe
+40	51	коронавирус	коронавирус	EVT	EVT-Covid-19
+192	198	Европа	Европа	LOC	LOC-Europe
+430	436	Англия	Англия	LOC	GPE-England
+466	471	Полша	Полша	LOC	GPE-Poland
+517	522	Литва	Литва	LOC	GPE-Lithuania
+551	560	Швейцария	Швейцария	LOC	GPE-Switzerland
+636	643	Франция	Франция	LOC	GPE-France
+711	725	Великобритания	Великобритания	LOC	GPE-Great-Britain
+736	749	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+762	772	Парламента	Парламент	ORG	ORG-British-Parlament
+1048	1066	Лейбъристка партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+1105	1119	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1162	1168	Европа	Европа	LOC	LOC-Europe
+1206	1212	Лондон	Лондон	LOC	GPE-London
+1566	1574	Германия	Германия	LOC	GPE-Germany
+1577	1584	Франция	Франция	LOC	GPE-France
+1691	1739	Европейския център за превенция и контрол (ECDC)	Европейски център за превенция и контрол (ECDC)	ORG	ORG-European-Centre-for-Disease-Prevention-and-Control
+1756	1758	ЕС	ЕС	ORG	ORG-European-Union
+1760	1804	Европейското икономическо пространство (ЕИП)	Европейско икономическо пространство (ЕИП)	ORG	ORG-EEA-European-Economic-Area
+1807	1821	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1874	1885	коронавирус	коронавирус	EVT	EVT-Covid-19

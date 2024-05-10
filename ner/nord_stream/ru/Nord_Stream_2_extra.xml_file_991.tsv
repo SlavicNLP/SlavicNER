@@ -1,0 +1,23 @@
+6	13	Меркель	Меркель	PER	PER-Angela-Merkel
+74	81	Меркель	Меркель	PER	PER-Angela-Merkel
+95	97	ЕС	ЕС	ORG	ORG-European-Union
+176	194	«Северный поток-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
+205	209	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+235	245	Братиславе	Братислава	LOC	GPE-Bratislava
+303	322	Вишеградской группы	Вишеградская группа	ORG	ORG-Visegrad-Group
+325	332	Венгрии	Венгрия	LOC	GPE-Hungary
+334	340	Польши	Польша	LOC	GPE-Poland
+342	350	Словакии	Словакия	LOC	GPE-Slovakia
+352	357	Чехии	Чехия	LOC	GPE-Czech-Republic
+392	398	России	Россия	LOC	GPE-Russia
+505	512	Меркель	Меркель	PER	PER-Angela-Merkel
+558	566	Германии	Германия	LOC	GPE-Germany
+679	685	России	Россия	LOC	GPE-Russia
+686	694	Германия	Германия	LOC	GPE-Germany
+740	751	Нидерландов	Нидерланды	LOC	GPE-Holland
+798	806	Германия	Германия	LOC	GPE-Germany
+819	827	Норвегии	Норвегия	LOC	GPE-Norway
+1031	1058	Газовой директиве Евросоюза	Газовая директива Евросоюза	PRO	PRO-Gas-Directive-EU
+1095	1115	«Северного потока-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
+1124	1131	Франция	Франция	LOC	GPE-France
+1139	1144	Париж	Париж	LOC	GPE-Paris

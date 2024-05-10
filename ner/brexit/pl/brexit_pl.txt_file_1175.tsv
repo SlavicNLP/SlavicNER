@@ -1,0 +1,25 @@
+0	12	Jan Olbrycht	Jan Olbrycht	PER	PER-Jan-Olbrycht
+14	20	Polacy	Polacy	PER	GPE-Poland
+61	82	Dziennika Zachodniego	Dziennik Zachodni	PRO	PRO-DZ-Western-Daily
+85	98	Radia Piekary	Radio Piekary	PRO	PRO-Radio-Piekary
+149	155	Polska	Polska	LOC	GPE-Poland
+284	296	Jan Olbrycht	Jan Olbrycht	PER	PER-Jan-Olbrycht
+310	325	Marcinem Zasadą	Marcin Zasada	PER	PER-Marcin-Zasada
+343	364	Dziennika Zachodniego	Dziennik Zachodni	PRO	PRO-DZ-Western-Daily
+367	380	Radia Piekary	Radio Piekary	PRO	PRO-Radio-Piekary
+383	396	Marcin Zasada	Marcin Zasada	PER	PER-Marcin-Zasada
+413	415	PO	PO	ORG	ORG-PO-Civic-Platform
+416	430	Jana Olbrychta	Jan Olbrycht	PER	PER-Jan-Olbrycht
+447	464	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+550	552	UE	UE	ORG	ORG-European-Union
+568	581	Europejczyków	Europejczycy	PER	LOC-Europe
+616	618	UE	UE	ORG	ORG-European-Union
+699	703	unią	Unia	ORG	ORG-European-Union
+719	723	unii	Unia	ORG	ORG-European-Union
+738	745	brexitu	Brexit	EVT	EVT-Brexit
+1022	1034	Jan Olbrycht	Jan Olbrycht	PER	PER-Jan-Olbrycht
+1049	1070	Dziennika Zachodniego	Dziennik Zachodni	PRO	PRO-DZ-Western-Daily
+1073	1086	Radia Piekary	Radio Piekary	PRO	PRO-Radio-Piekary
+1119	1126	śląskie	Śląskie	LOC	GPE-Silesian-Voivodeship
+1174	1191	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1292	1313	Dziennika Zachodniego	Dziennik Zachodni	PRO	PRO-DZ-Western-Daily

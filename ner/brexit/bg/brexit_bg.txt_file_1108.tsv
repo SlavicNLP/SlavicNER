@@ -1,0 +1,17 @@
+54	57	Мей	Мей	PER	PER-Theresa-May
+77	84	Брекзит	Брекзит	EVT	EVT-Brexit
+176	183	Брекзит	Брекзит	EVT	EVT-Brexit
+264	271	Брюксел	Брюксел	LOC	GPE-Brussles
+287	301	Великобритания	Великобритания	LOC	GPE-Great-Britain
+305	307	ЕС	ЕС	ORG	ORG-European-Union
+319	326	Ройтерс	Ройтерс	ORG	ORG-Reuters
+329	339	Франс прес	Франс прес	ORG	ORG-France-Presse
+394	415	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+447	449	ЕС	ЕС	ORG	ORG-European-Union
+467	487	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+601	608	Брюксел	Брюксел	LOC	GPE-Brussles
+759	766	Брекзит	Брекзит	EVT	EVT-Brexit
+860	863	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+870	880	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+999	1002	ДПА	ДПА	ORG	ORG-DPA
+1066	1078	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK

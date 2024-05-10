@@ -1,0 +1,14 @@
+0	8	Mazowsze	Mazowsze	LOC	GPE-Poland-Masovian-Voivodeship
+48	61	koronawirusem	koronawirus	EVT	EVT-Covid-19
+90	98	Nowy Rok	Nowy Rok	EVT	EVT-New-Year
+253	298	Powiatowej Stacji Sanitarno-Epidemiologicznej	Powiatowa Stacja Sanitarno-Epidemiologiczna	ORG	LOC-Powiatowa-Stacja-Sanitarno-Epidemiologiczna
+400	408	COVID-19	COVID-19	EVT	EVT-Covid-19
+452	467	Pfizer-BioNTech	Pfizer-BioNTech	ORG	ORG-Pfizer-BioNTech
+532	538	Polsce	Polska	LOC	GPE-Poland
+572	598	szpitala MSWiA w Warszawie	szpital MSWiA w Warszawie	LOC	LOC-CSK-MSWiA-Central-Clinical-Hospital-of-the-MSWiA-Poland
+614	623	CSK MSWiA	CSK MSWiA	ORG	LOC-CSK-MSWiA-Central-Clinical-Hospital-of-the-MSWiA-Poland
+647	655	Nowy Rok	Nowy Rok	EVT	EVT-New-Year
+778	781	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1289	1318	Narodowym Programem Szczepień	Narodowy Programem Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+1453	1459	DPS-ów	DPS-y	ORG	ORG-DPS
+1462	1469	MOPS-ów	MOPS-y	ORG	ORG-MOPS-Poland

@@ -1,0 +1,57 @@
+20	27	Брекзит	Брекзит	EVT	EVT-Brexit
+59	65	Макрон	Макрон	PER	PER-Emmanuel-Macron
+90	97	Брекзит	Брекзит	EVT	EVT-Brexit
+118	128	Обновление	Обновление	ORG	ORG-Renew
+131	136	Renew	Renew	ORG	ORG-Renew
+156	170	Великобритания	Великобритания	LOC	GPE-Great-Britain
+187	205	Република, напред!	Република, напред!	ORG	ORG-La-Republique-En-Marche
+208	217	En Marche	En Marche	ORG	ORG-La-Republique-En-Marche
+241	255	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+265	268	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+312	319	Брекзит	Брекзит	EVT	EVT-Brexit
+476	478	ЕС	ЕС	ORG	ORG-European-Union
+544	556	Джеймс Кларк	Джеймс Кларк	PER	PER-James-Clark
+585	595	Обновление	Обновление	ORG	ORG-Renew
+615	635	Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+761	775	великобритания	Великобритания	LOC	GPE-Great-Britain
+787	789	ЕС	ЕС	ORG	ORG-European-Union
+830	847	Либерал-демократи	Либерал-демократи	ORG	ORG-Liberal-Democrats-UK
+896	903	Брекзит	Брекзит	EVT	EVT-Brexit
+931	941	Обновление	Обновление	ORG	ORG-Renew
+1058	1063	Кларк	Кларк	PER	PER-Greg-Clark
+1100	1118	Република, напред!	Република, напред!	ORG	ORG-La-Republique-En-Marche
+1133	1147	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+1457	1467	Обновление	Обновление	ORG	ORG-Renew
+1472	1490	Република, напред!	Република, напред!	ORG	ORG-La-Republique-En-Marche
+1571	1577	Макрон	Макрон	PER	PER-Emmanuel-Macron
+1591	1598	Франция	Франция	LOC	GPE-France
+1608	1613	Кларк	Кларк	PER	PER-Greg-Clark
+1619	1622	АФП	АФП	ORG	ORG-France-Presse
+1629	1635	Макрон	Макрон	PER	PER-Emmanuel-Macron
+1826	1836	Обновление	Обновление	ORG	ORG-Renew
+1920	1925	Кларк	Кларк	PER	PER-Greg-Clark
+2129	2139	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2402	2407	Кларк	Кларк	PER	PER-Greg-Clark
+2441	2451	Обновление	Обновление	ORG	ORG-Renew
+2554	2564	Обновление	Обновление	ORG	ORG-Renew
+2597	2608	Крис Коглан	Крис Коглан	PER	PER-Chris-Coghlan
+2693	2704	Южен Лондон	Южен Лондон	LOC	LOC-South-London
+2713	2720	Брекзит	Брекзит	EVT	EVT-Brexit
+2834	2854	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2896	2903	Брекзит	Брекзит	EVT	EVT-Brexit
+3136	3138	ЕС	ЕС	ORG	ORG-European-Union
+3221	3228	Брекзит	Брекзит	EVT	EVT-Brexit
+3254	3283	Grassroots Coordinating Group	Grassroots Coordinating Group	ORG	ORG-Grassroots-Coordinating-Group
+3344	3351	Брюксел	Брюксел	LOC	GPE-Brussles
+3481	3493	Андрю Адонис	Андрю Адонис	PER	PER-Andrew-Adonis
+3514	3535	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+3605	3612	Брекзит	Брекзит	EVT	EVT-Brexit
+3636	3663	Нашето бъдеще, нашият избор	Нашето бъдеще, нашият избор	ORG	ORG-Our-Future-Our-Choice
+3666	3687	Our Future Our Choice	Our Future Our Choice	ORG	ORG-Our-Future-Our-Choice
+3721	3744	Най-доброто за Британия	Най-доброто за Британия	ORG	ORG-Best-for-Britain
+3747	3763	Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+3845	3857	Джордж Сорос	Джордж Сорос	PER	PER-George-Soros
+3860	3870	Обновление	Обновление	ORG	ORG-Renew
+3959	3966	Брекзит	Брекзит	EVT	EVT-Brexit
+4136	4142	Лондон	Лондон	LOC	GPE-London
+4300	4307	Брекзит	Брекзит	EVT	EVT-Brexit

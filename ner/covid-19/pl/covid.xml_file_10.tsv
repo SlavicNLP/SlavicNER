@@ -1,0 +1,25 @@
+42	48	Polski	Polska	LOC	GPE-Poland
+50	58	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+102	108	Polski	Polska	LOC	GPE-Poland
+153	167	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+174	207	Kancelarii Prezesa Rady Ministrów	Kancelaria Prezesa Rady Ministrów	ORG	ORG-Office-of-the-Prime-Minister-Poland
+208	223	Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+240	246	Polsce	Polska	LOC	GPE-Poland
+291	297	Pfizer	Pfizer	ORG	ORG-Pfizer
+300	308	BioNTech	BioNTech	ORG	ORG-BioNTech
+317	345	Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+346	366	Michał Kuczmierowski	Michał Kuczmierowski	PER	PER-Michał-Kuczmierowski
+529	535	Polski	Polska	LOC	GPE-Poland
+578	606	Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+607	627	Michał Kuczmierowski	Michał Kuczmierowski	PER	PER-Michał-Kuczmierowski
+714	717	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+939	956	Michała Dworczyka	Michał Dworczyk	PER	PER-Michał-Dworczyk
+1030	1039	Radiu ZET	Radio ZET	PRO	PRO-RadioZET
+1067	1073	Polski	Polska	LOC	GPE-Poland
+1140	1160	Michał Kuczmierowski	Michał Kuczmierowski	PER	PER-Michał-Kuczmierowski
+1348	1356	COVID-19	COVID-19	EVT	EVT-Covid-19
+1470	1473	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+1544	1550	Polski	Polska	LOC	GPE-Poland
+1812	1825	Kuczmierowski	Kuczmierowski	PER	PER-Michał-Kuczmierowski
+2261	2267	Polski	Polska	LOC	GPE-Poland
+2444	2472	Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland

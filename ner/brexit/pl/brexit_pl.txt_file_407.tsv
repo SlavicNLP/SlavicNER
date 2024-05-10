@@ -1,0 +1,21 @@
+0	7	Solberg	Solberg	PER	PER-Erna-Solberg
+9	20	W. Brytania	W. Brytania	LOC	GPE-Great-Britain
+145	160	agencji Reutera	Agencja Reutera	ORG	ORG-Reuters
+161	168	Solberg	Solberg	PER	PER-Erna-Solberg
+261	278	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+281	283	UE	UE	ORG	ORG-European-Union
+287	295	Brexicie	Brexit	EVT	EVT-Brexit
+317	321	Oslo	Oslo	LOC	GPE-Oslo
+395	403	Londynem	Londyn	LOC	GPE-London
+406	414	Brukselą	Bruksela	LOC	GPE-Brussles
+416	424	Norwegia	Norwegia	LOC	GPE-Norway
+456	471	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+480	482	UE	UE	ORG	ORG-European-Union
+509	517	Norwegia	Norwegia	LOC	GPE-Norway
+556	574	Europie Zachodniej	Europa Zachodnia	LOC	LOC-Western-Europe
+649	666	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+668	675	Solberg	Solberg	PER	PER-Erna-Solberg
+686	692	Brexit	Brexit	EVT	EVT-Brexit
+737	745	Norwegia	Norwegia	LOC	GPE-Norway
+760	762	UE	UE	ORG	ORG-European-Union
+783	818	Europejskiego Obszaru Gospodarczego	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area

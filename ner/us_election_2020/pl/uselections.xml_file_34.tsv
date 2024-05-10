@@ -1,0 +1,26 @@
+37	46	Cejrowski	Cejrowski	PER	PER-Wojciech-Cejrowski
+98	101	USA	USA	LOC	GPE-USA
+190	211	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+339	344	Trump	Trump	PER	PER-Donald-Trump
+355	364	Florydzie	Floryda	LOC	GPE-Florida
+423	432	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+435	443	Michigan	Michigan	LOC	GPE-Michigan
+486	495	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+643	648	Trump	Trump	PER	PER-Donald-Trump
+656	663	Florydy	Floryda	LOC	GPE-Florida
+683	687	Ohio	Ohio	LOC	GPE-Ohio
+763	768	Biden	Biden	PER	PER-Joe-Biden
+802	811	Minnesotę	Minnesota	LOC	GPE-Minnesota
+839	847	Arizonie	Arizona	LOC	GPE-Arizona
+862	866	Onet	Onet	PRO	PRO-Onet
+1006	1015	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+1235	1240	Trump	Trump	PER	PER-Donald-Trump
+1309	1327	Wojciech Cejrowski	Wojciech Cejrowski	PER	PER-Wojciech-Cejrowski
+1359	1368	Twitterze	Twitter	PRO	PRO-Twitter
+1385	1390	Trump	Trump	PER	PER-Donald-Trump
+1444	1451	Ameryka	Ameryka	LOC	GPE-USA
+1525	1530	Biden	Biden	PER	PER-Joe-Biden
+1599	1605	Bidena	Biden	PER	PER-Joe-Biden
+1625	1631	Trumpa	Trump	PER	PER-Donald-Trump
+1659	1668	Cejrowski	Cejrowski	PER	PER-Wojciech-Cejrowski
+1853	1865	koronawirusa	koronawirus	EVT	EVT-Covid-19

@@ -1,0 +1,37 @@
+92	101	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+112	123	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+135	148	американского	американский	LOC	GPE-USA
+155	160	Техас	Техас	LOC	GPE-Texas
+227	240	республиканцу	республиканец	PER	ORG-Republican-Party-USA
+241	256	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+297	302	Трамп	Трамп	PER	PER-Donald-Trump
+320	326	Техасе	Техас	LOC	GPE-Texas
+372	383	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+507	513	Техаса	Техас	LOC	GPE-Texas
+562	565	США	США	LOC	GPE-USA
+754	764	демократов	демократы	ORG	ORG-Democratic-Party-USA
+765	775	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+839	852	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+853	868	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+944	947	США	США	LOC	GPE-USA
+1143	1148	Трамп	Трамп	PER	PER-Donald-Trump
+1181	1187	Техаса	Техас	LOC	GPE-Texas
+1190	1199	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+1210	1221	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+1233	1246	американского	американский	LOC	GPE-USA
+1253	1258	Техас	Техас	LOC	GPE-Texas
+1325	1338	республиканцу	республиканец	ORG	ORG-Republican-Party-USA
+1339	1354	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+1398	1403	Трамп	Трамп	PER	PER-Donald-Trump
+1421	1427	Техасе	Техас	LOC	GPE-Texas
+1473	1484	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1608	1614	Техаса	Техас	LOC	GPE-Texas
+1666	1669	США	США	LOC	GPE-USA
+1861	1871	демократов	демократы	ORG	ORG-Democratic-Party-USA
+1872	1882	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1946	1959	республиканца	республиканец	PER	ORG-Republican-Party-USA
+1960	1975	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+2054	2057	США	США	LOC	GPE-USA
+2359	2414	Международное информационное агентство «Россия сегодня»	Международное информационное агентство «Россия сегодня»	PRO	PRO-RIA-Novosti
+2416	2436	МИА «Россия сегодня»	МИА «Россия сегодня»	PRO	PRO-RIA-Novosti
+2492	2506	Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.

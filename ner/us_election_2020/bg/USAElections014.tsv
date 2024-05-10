@@ -1,0 +1,26 @@
+10	16	Байдън	Байдън	PER	PER-Joe-Biden
+53	56	САЩ	САЩ	LOC	GPE-USA
+68	77	демократа	демократ	PER	ORG-Democratic-Party-USA
+185	210	Moody's Investors Service	Moody's Investors Service	ORG	ORG-Moody's-Investors-Service
+233	242	демократа	демократ	PER	ORG-Democratic-Party-USA
+243	253	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+270	295	президентски избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+414	439	Moody's Investors Service	Moody's Investors Service	ORG	ORG-Moody's-Investors-Service
+479	489	Бен Нелсън	Бен Нелсън	PER	PER-Ben-Nelson
+590	593	САЩ	САЩ	LOC	GPE-USA
+597	607	пандемията	пандемия	EVT	EVT-Pandemic
+642	647	Обама	Обама	PER	PER-Barack-Obama
+648	658	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+766	769	САЩ	САЩ	LOC	GPE-USA
+777	783	Нелсън	Нелсън	PER	PER-Ben-Nelson
+796	813	S&P Global Platts	S&P Global Platts	ORG	ORG-S&P-Global-Platts
+906	935	Alliance Resource Partners LP	Alliance Resource Partners LP	ORG	ORG-Alliance-Resource-Partners-LP
+937	956	Arch Resources Inc.	Arch Resources Inc.	ORG	ORG-Arch-Resources-Inc.
+958	976	Consol Energy Inc.	Consol Energy Inc.	ORG	ORG-Consol-Energy-Inc.
+979	999	Peabody Energy Corp.	Peabody Energy Corp.	ORG	ORG-Peabody-Energy-Corp.
+1060	1066	Байдън	Байдън	PER	PER-Joe-Biden
+1972	1978	Нелсън	Нелсън	PER	PER-Ben-Nelson
+1981	1993	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2180	2185	Тръмп	Тръмп	PER	PER-Donald-Trump
+2469	2474	Тръмп	Тръмп	PER	PER-Donald-Trump
+2725	2731	Нелсън	Нелсън	PER	PER-Ben-Nelson

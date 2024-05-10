@@ -1,0 +1,23 @@
+86	94	Británií	Británie	LOC	GPE-Great-Britain
+96	109	Evropská unie	Evropská unie	ORG	ORG-European-Union
+121	136	Velkou Británií	Velká Británie	LOC	GPE-Great-Britain
+142	149	brexitu	brexit	EVT	EVT-Brexit
+168	175	Britové	Britové	PER	GPE-Great-Britain
+426	428	EU	EU	ORG	ORG-European-Union
+520	528	Londýnem	Londýn	LOC	GPE-London
+555	557	EU	EU	ORG	ORG-European-Union
+560	568	Británií	Británie	LOC	GPE-Great-Britain
+643	651	Twitteru	Twitter	PRO	PRO-Twitter
+661	674	Evropské rady	Evropská rada	ORG	ORG-European-Council
+675	686	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+800	808	Británie	Británie	LOC	GPE-Great-Britain
+832	836	Unie	Unie	ORG	ORG-European-Union
+980	995	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+1040	1056	Michela Barniera	Michel Barnier	PER	PER-Michel-Barnier
+1069	1075	Mayová	Mayová	PER	PER-Theresa-May
+1305	1312	Bruselu	Brusel	LOC	GPE-Brussles
+1341	1355	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+1381	1385	EU27	EU27	ORG	ORG-European-Union
+1487	1493	Irskem	Irsko	LOC	GPE-Ireland
+1505	1520	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+1619	1621	EU	EU	ORG	ORG-European-Union

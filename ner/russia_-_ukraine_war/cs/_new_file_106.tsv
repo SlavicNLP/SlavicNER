@@ -1,0 +1,18 @@
+31	36	Putin	Putin	PER	PER-Vladimir-Putin
+39	49	Petrohradu	Petrohrad	LOC	GPE-Saint-Petersburg
+67	81	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+105	115	Petrohradu	Petrohrad	LOC	GPE-Saint-Petersburg
+207	212	Rusko	Rusko	LOC	GPE-Russia
+217	243	speciální vojenské operaci	speciální vojenská operace	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+248	256	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+325	338	Spojené státy	Spojené státy	LOC	GPE-USA
+346	354	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+409	414	Putin	Putin	PER	PER-Vladimir-Putin
+688	698	Petrohradu	Petrohrad	LOC	GPE-Saint-Petersburg
+726	731	Almaz	Almaz	ORG	ORG-Almaz-Russian-Company
+800	808	Soledaru	Soledar	LOC	GPE-Soledar
+816	822	Moskva	Moskva	LOC	GPE-Moscow
+847	856	Ukrajinci	Ukrajinci	PER	GPE-Ukraine
+995	1013	Charkovské oblasti	Charkovská oblast	LOC	LOC-Charkov-Area
+1058	1065	Cherson	Cherson	LOC	GPE-Kherson
+1105	1111	Rusové	Rusové	PER	GPE-Russia

@@ -1,0 +1,19 @@
+0	15	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+17	26	Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+41	62	ustawę o wyjściu z UE	Ustawa o wyjściu z UE	PRO	PRO-Brexit-withdrawal-agreement
+74	110	Ustawa o Wyjściu z Unii Europejskiej	Ustawa o Wyjściu z Unii Europejskiej	PRO	PRO-Brexit-withdrawal-agreement
+153	168	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+189	198	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+300	317	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+371	378	Brexitu	Brexit	EVT	EVT-Brexit
+379	390	David Davis	David Davis	PER	PER-David-Davis
+432	443	Theresy May	Theresa May	PER	PER-Theresa-May
+527	529	UE	UE	ORG	ORG-European-Union
+537	549	Izbie Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+557	577	Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+632	647	agencja Reutera	Agencja Reutera	ORG	ORG-Reuters
+813	822	Izbę Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+904	916	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+917	930	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+1151	1166	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1183	1185	UE	UE	ORG	ORG-European-Union

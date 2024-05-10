@@ -1,0 +1,37 @@
+50	55	Putin	Putin	PER	PER-Vladimir-Putin
+141	148	Łukoilu	Łukoil	ORG	ORG-Lukoil
+149	164	Wagit Alekperow	Wagit Alekperow	PER	PER-Vagit-Alekperov
+314	321	Łukoilu	Łukoil	ORG	ORG-Lukoil
+322	338	Wagit Alekpierow	Wagit Alekpierow	PER	PER-Vagit-Alekperov
+410	415	Nexta	Nexta	PRO	PRO-Nexta-TV
+435	448	La Repubblica	La Repubblica	PRO	PRO-La-Repubblica
+451	459	Rosyjski	Rosyjski	LOC	GPE-Russia
+523	533	Bloomberga	Bloomberg	PRO	PRO-Bloomberg
+705	722	wojny na Ukrainie	wojna na Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+829	837	Rosjanin	Rosjanin	PER	GPE-Russia
+875	884	Alekperow	Alekperow	PER	PER-Vagit-Alekperov
+1091	1097	Łukoil	Łukoil	ORG	ORG-Lukoil
+1190	1196	Łukoil	Łukoil	ORG	ORG-Lukoil
+1249	1259	Alekpierow	Alekpierow	PER	PER-Vagit-Alekperov
+1274	1278	Baku	Baku	LOC	GPE-Baku
+1404	1467	Instytucie Nafty i Chemii Państwowego Uniwersytetu Azerbejdżanu	Instytut Nafty i Chemii Państwowego Uniwersytetu Azerbejdżanu	ORG	ORG-Kasmornieft
+1479	1492	Kasmorniefcie	Kasmornieft	ORG	ORG-Kasmornieft
+1584	1601	Kogałymnieftiegaz	Kogałymnieftiegaz	ORG	ORG-Kogałymnieftiegaz
+1695	1699	ZSRR	ZSRR	LOC	GPE-Soviet-Union-USSR
+1711	1731	Związku Radzieckiego	Związek Radziecki	LOC	GPE-Soviet-Union-USSR
+1783	1789	Łukoil	Łukoil	ORG	ORG-Lukoil
+1792	1807	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1861	1866	Rosji	Rosja	LOC	GPE-Russia
+1885	1890	Rosją	Rosja	LOC	GPE-Russia
+1928	1935	Ukrainę	Ukraina	LOC	GPE-Ukraine
+1970	1987	Wiktor Medwedczuk	Wiktor Medwedczuk	PER	PER-Victor-Medvedchuk
+2011	2018	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2065	2080	siły ukraińskie	siły ukraińskie	ORG	ORG-Armed-Forces-of-Ukraine
+2130	2136	Łukoil	Łukoil	ORG	ORG-Lukoil
+2138	2154	Wagit Alekpierow	Wagit Alekpierow	PER	PER-Vagit-Alekperov
+2305	2312	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2320	2325	Rosja	Rosja	LOC	GPE-Russia
+2420	2448	Donieckiej Republiki Ludowej	Doniecka Republika Ludowa	LOC	GPE-Donetsk-Peoples-Republic
+2449	2481	Ołeksandr (Aleksandr) Ananczenko	Ołeksandr (Aleksandr) Ananczenko	PER	PER-Alexander-Ananchenko
+2499	2519	Ługańskiej Republiki	Ługańska Republika	LOC	GPE-Luxembourg
+2520	2544	Serhij (Siergiej) Kozłow	Serhij (Siergiej) Kozłow	PER	PER-Sergey-Kozlov

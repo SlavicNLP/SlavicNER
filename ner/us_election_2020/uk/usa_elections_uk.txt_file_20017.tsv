@@ -1,0 +1,20 @@
+0	12	Вибори у США	Вибори у США	EVT	EVT-2020-United-States-Presidential-Election
+14	19	Трамп	Трамп	PER	PER-Donald-Trump
+108	121	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+142	153	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+261	268	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+287	305	Європейська правда	Європейська правда	ORG	PRO-European-Truth
+356	364	Politico	Politico	PRO	PRO-Politico
+368	373	Трамп	Трамп	PER	PER-Donald-Trump
+383	390	Флориді	Флорида	LOC	GPE-Florida
+435	443	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+539	544	Айові	Айова	LOC	GPE-Iowa
+593	599	Трампа	Трамп	PER	PER-Donald-Trump
+604	612	Байденом	Байден	PER	PER-Joe-Biden
+627	645	Північній Кароліні	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+690	695	Трамп	Трамп	PER	PER-Donald-Trump
+714	720	Техасі	Техас	LOC	GPE-Texas
+797	802	Огайо	Огайо	LOC	GPE-Ohio
+843	848	Трамп	Трамп	PER	PER-Donald-Trump
+876	882	Байден	Байден	PER	PER-Joe-Biden
+999	1006	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election

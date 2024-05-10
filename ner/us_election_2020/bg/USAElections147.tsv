@@ -1,0 +1,17 @@
+22	25	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+27	37	Белият дом	Бял дом	LOC	LOC-White-House
+135	147	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+201	204	ДПА	ДПА	ORG	ORG-DPA
+256	266	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+269	283	Републиканецът	републиканец	PER	ORG-Republican-Party-USA
+284	289	Тръмп	Тръмп	PER	PER-Donald-Trump
+340	349	Вирджиния	Вирджиния	LOC	GPE-Virginia
+388	391	САЩ	САЩ	LOC	GPE-USA
+412	421	демократа	демократ	PER	ORG-Democratic-Party-USA
+422	432	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+465	470	Тръмп	Тръмп	PER	PER-Donald-Trump
+482	491	Белия дом	Бял дом	LOC	LOC-White-House
+600	610	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+633	636	САЩ	САЩ	LOC	GPE-USA
+687	692	Тръмп	Тръмп	PER	PER-Donald-Trump
+724	735	демократите	демократи	PER	ORG-Democratic-Party-USA

@@ -1,0 +1,28 @@
+0	10	Espreso.tv	Espreso.tv	PRO	PRO-Espreso.tv
+21	42	Вибори президента США	Вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+44	49	Трамп	Трамп	PER	PER-Donald-Trump
+60	67	Флориді	Флорида	LOC	GPE-Florida
+98	119	Вибори президента США	Вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+121	126	Трамп	Трамп	PER	PER-Donald-Trump
+137	144	Флориді	Флорида	LOC	GPE-Florida
+208	215	Reuters	Reuters	ORG	ORG-Reuters
+262	265	США	США	LOC	GPE-USA
+281	294	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+328	339	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+348	355	Флорида	Флорида	LOC	GPE-Florida
+399	406	Флориді	Флорида	LOC	GPE-Florida
+407	412	Трамп	Трамп	PER	PER-Donald-Trump
+448	455	Байдена	Байден	PER	PER-Joe-Biden
+485	492	Флорида	Флорида	LOC	GPE-Florida
+606	613	Флорида	Флорида	LOC	GPE-Florida
+647	665	Колегії виборників	Колегія виборників	ORG	ORG-United-States-Electoral-College
+699	702	США	США	LOC	GPE-USA
+809	816	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+874	877	CNN	CNN	ORG	ORG-CNN
+894	904	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+937	950	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+996	1002	Байден	Байден	PER	PER-Joe-Biden
+1014	1020	Трампа	Трамп	PER	PER-Donald-Trump
+1095	1102	Україні	Україна	LOC	GPE-Ukraine
+1120	1127	Еспресо	Еспресо	PRO	PRO-Espreso.tv
+1145	1153	Telegram	Telegram	PRO	PRO-Telegram

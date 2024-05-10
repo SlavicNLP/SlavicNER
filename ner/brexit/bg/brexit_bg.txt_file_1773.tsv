@@ -1,0 +1,19 @@
+19	29	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+57	59	ЕС	ЕС	ORG	ORG-European-Union
+107	117	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+160	176	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+182	189	Брекзит	Брекзит	EVT	EVT-Brexit
+237	244	Ройтерс	Ройтерс	ORG	ORG-Reuters
+340	350	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+405	420	GlaxoSmithKline	GlaxoSmithKline	ORG	ORG-GlaxoSmithKline
+435	440	Tesco	Tesco	ORG	ORG-Tesco
+470	482	Aston Martin	Aston Martin	ORG	ORG-Aston-Martin-Company
+511	513	BT	BT	ORG	ORG-BT
+538	552	Balfour Beatty	Balfour Beatty	ORG	ORG-Balfour-Beatty
+555	569	Великобритания	Великобритания	LOC	GPE-Great-Britain
+572	574	ЕС	ЕС	ORG	ORG-European-Union
+624	630	Brexit	Brexit	EVT	EVT-Brexit
+729	735	Лондон	Лондон	LOC	GPE-London
+827	833	Brexit	Brexit	EVT	EVT-Brexit
+856	870	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1019	1021	ЕС	ЕС	ORG	ORG-European-Union

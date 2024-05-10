@@ -1,0 +1,71 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+23	37	Великобритания	Великобритания	LOC	GPE-Great-Britain
+49	52	САЩ	САЩ	LOC	GPE-USA
+54	59	Париж	Париж	LOC	GPE-Paris
+62	68	Берлин	Берлин	LOC	GPE-Berlin
+106	112	Европа	Европа	LOC	LOC-Europe
+116	125	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+139	149	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+195	209	Великобритания	Великобритания	LOC	GPE-Great-Britain
+229	232	САЩ	САЩ	LOC	GPE-USA
+235	241	Европа	Европа	LOC	LOC-Europe
+255	265	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+323	343	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+346	350	НАТО	НАТО	ORG	ORG-NATO
+351	363	Питър Рикетс	Питър Рикетс	PER	PER-Peter-Ricketts
+374	380	Байдън	Байдън	PER	PER-Joe-Biden
+394	400	Европа	Европа	LOC	LOC-Europe
+410	415	Париж	Париж	LOC	GPE-Paris
+418	424	Берлин	Берлин	LOC	GPE-Berlin
+483	490	Америка	Америка	LOC	GPE-USA
+493	499	Европа	Европа	LOC	LOC-Europe
+542	550	Politico	Politico	PRO	PRO-Politico
+552	566	Великобритания	Великобритания	LOC	GPE-Great-Britain
+615	621	Европа	Европа	LOC	LOC-Europe
+624	630	Лондон	Лондон	LOC	GPE-London
+899	913	Дейвид Камерън	Дейвид Камерън	PER	PER-David-Cameron
+1080	1089	Белия дом	Белия дом	LOC	LOC-White-House
+1091	1104	Айвън Роджърс	Айвън Роджърс	PER	PER-Ivan-Rogers
+1122	1136	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1139	1141	ЕС	ЕС	ORG	ORG-European-Union
+1249	1252	САЩ	САЩ	LOC	GPE-USA
+1289	1291	ЕС	ЕС	ORG	ORG-European-Union
+1318	1328	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1329	1335	Brexit	Brexit	EVT	EVT-Brexit
+1348	1350	ЕС	ЕС	ORG	ORG-European-Union
+1357	1371	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1379	1385	Рикетс	Рикетс	PER	PER-Peter-Ricketts
+1416	1425	Белия дом	Белия дом	LOC	LOC-White-House
+1427	1433	Лондон	Лондон	LOC	GPE-London
+1504	1510	Байдън	Байдън	PER	PER-Joe-Biden
+1594	1596	ЕС	ЕС	ORG	ORG-European-Union
+1631	1645	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1648	1656	Ирландия	Ирландия	LOC	GPE-Ireland
+1679	1685	Байдън	Байдън	PER	PER-Joe-Biden
+1774	1788	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1795	1797	ЕС	ЕС	ORG	ORG-European-Union
+1810	1822	Питър Рикетс	Питър Рикетс	PER	PER-Peter-Ricketts
+1854	1860	Лондон	Лондон	LOC	GPE-London
+1863	1870	Брюксел	Брюксел	LOC	GPE-Brussles
+1888	1902	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1989	1995	Brexit	Brexit	EVT	EVT-Brexit
+2059	2073	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+2161	2167	Brexit	Brexit	EVT	EVT-Brexit
+2170	2192	консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+2195	2207	Питър Рикетс	Питър Рикетс	PER	PER-Peter-Ricketts
+2222	2229	Джонсън	Джонсън	PER	PER-Boris-Johnson
+2326	2340	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2374	2387	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+2477	2491	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+2578	2602	Британското правителство	Британско правителство	ORG	ORG-the-UK-Government
+2739	2753	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+2843	2846	САЩ	САЩ	LOC	GPE-USA
+2987	2990	САЩ	САЩ	LOC	GPE-USA
+3047	3049	ЕС	ЕС	ORG	ORG-European-Union
+3052	3064	Питър Рикетс	Питър Рикетс	PER	PER-Peter-Ricketts
+3080	3086	Лондон	Лондон	LOC	GPE-London
+3089	3096	Брюксел	Брюксел	LOC	GPE-Brussles
+3288	3295	Джонсън	Джонсън	PER	PER-Boris-Johnson
+3456	3458	ЕС	ЕС	ORG	ORG-European-Union
+3550	3564	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3600	3606	Рикетс	Рикетс	PER	PER-Peter-Ricketts

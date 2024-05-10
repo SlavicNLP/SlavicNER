@@ -1,0 +1,37 @@
+40	46	Brexit	Brexit	EVT	EVT-Brexit
+78	84	Италия	Италия	LOC	GPE-Italy
+159	176	Берлинската стена	Берлинска стена	LOC	LOC-Berlin-Wall
+224	233	Ндрангета	Ндрангета	ORG	ORG-Ndrangheta
+262	278	Западна Германия	Западна Германия	LOC	GPE-Germany
+301	306	Изток	Изток	LOC	LOC-Eastern-Europe
+398	412	Антонио Никасо	Антонио Никасо	PER	PER-Antonio-Nicaso
+440	449	Ndrangete	Ndrangheta	ORG	ORG-Ndrangheta
+593	610	Берлинската стена	Берлинска стена	LOC	LOC-Berlin-Wall
+666	680	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+752	758	Brexit	Brexit	EVT	EVT-Brexit
+797	803	Европа	Европа	LOC	LOC-Europe
+957	969	Джон Спенсър	Джон Спенсър	PER	PER-John-Spencer
+976	989	The Economist	The Economist	PRO	PRO-The-Economist
+1056	1076	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1079	1081	ЕС	ЕС	ORG	ORG-European-Union
+1316	1330	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1336	1344	Ирландия	Ирландия	LOC	GPE-Ireland
+1487	1489	ЕС	ЕС	ORG	ORG-European-Union
+1601	1617	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1871	1884	The Economist	The Economist	PRO	PRO-The-Economist
+2238	2240	ЕС	ЕС	ORG	ORG-European-Union
+2251	2271	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2407	2413	Лондон	Лондон	LOC	GPE-London
+2729	2735	Лондон	Лондон	LOC	GPE-London
+2816	2823	Брекзит	Брекзит	EVT	EVT-Brexit
+2897	2911	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2920	2927	Европол	Европол	ORG	ORG-Europol
+2962	2964	ЕС	ЕС	ORG	ORG-European-Union
+3360	3367	Европол	Европол	ORG	ORG-Europol
+3441	3448	Брекзит	Брекзит	EVT	EVT-Brexit
+3486	3500	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3539	3563	Шенгенското пространство	шенгенско пространство	LOC	LOC-Schengen-Area
+3687	3693	Лондон	Лондон	LOC	GPE-London
+3710	3739	Европейската заповед за арест	Европейската заповед за арест	PRO	PRO-European-Arrest-Warrant
+3741	3744	EAW	EAW	PRO	PRO-European-Arrest-Warrant
+3786	3788	ЕС	ЕС	ORG	ORG-European-Union

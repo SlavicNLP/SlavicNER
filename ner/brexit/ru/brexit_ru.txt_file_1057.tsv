@@ -1,0 +1,12 @@
+6	24	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+48	91	министерства иностранных дел Великобритании	министерство иностранных дел Великобритании	ORG	ORG-Foreign-Office
+92	105	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+141	144	BBC	BBC	ORG	ORG-BBC-Ltd
+207	225	Европейского союза	Европейский союз	ORG	ORG-European-Union
+226	237	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+285	293	брексита	брексит	EVT	EVT-Brexit
+316	327	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+338	363	Русская служба «Би-би-си»	Русская служба «Би-би-си»	ORG	ORG-BBC-News-Russian
+392	397	Дэвис	Дэвис	PER	PER-David-Davis
+496	504	Британии	Британия	LOC	GPE-Great-Britain
+508	525	таможенного союза	таможенный союз	ORG	ORG-European-Union-Customs-Union

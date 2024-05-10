@@ -1,0 +1,59 @@
+15	25	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+26	33	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+65	67	UE	UE	ORG	ORG-European-Union
+169	176	Reutera	Reuter	ORG	ORG-Reuters
+300	315	Zbigniew Ziobro	Zbigniew Ziobro	PER	PER-Zbigniew-Ziobro
+477	483	Polska	Polska	LOC	GPE-Poland
+535	552	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+581	583	AP	AP	ORG	ORG-AP-The-Associated-Press
+612	627	Washington Post	Washington Post	PRO	PRO-Washington-Post
+727	729	UE	UE	ORG	ORG-European-Union
+875	877	KE	KE	ORG	ORG-European-Commission
+896	904	Brukseli	Bruksela	LOC	GPE-Brussles
+1109	1116	Reuters	Reuters	ORG	ORG-Reuters
+1194	1196	UE	UE	ORG	ORG-European-Union
+1213	1221	Warszawy	Warszawa	LOC	GPE-Warsaw
+1224	1232	Brukselą	Bruksela	LOC	GPE-Brussles
+1240	1248	Brukseli	Bruksela	LOC	GPE-Brussles
+1276	1285	Warszawie	Warszawa	LOC	GPE-Warsaw
+1376	1393	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1416	1424	Wschodem	Wschód	LOC	LOC-East
+1446	1454	Brexitem	Brexit	EVT	EVT-Brexit
+1518	1525	Reuters	Reuters	ORG	ORG-Reuters
+1555	1568	Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+1571	1580	Junckerem	Juncker	PER	PER-Jean-Claude-Juncker
+1719	1721	UE	UE	ORG	ORG-European-Union
+1795	1814	Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+1816	1831	Laurence Norman	Laurence Norman	PER	PER-Laurence-Norman
+1834	1846	Drew Hinshaw	Drew Hinshaw	PER	PER-Drew-Hinshaw
+1891	1901	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+1902	1909	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+1924	1939	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+1951	1957	Polski	Polska	LOC	GPE-Poland
+2072	2078	Polska	Polska	LOC	GPE-Poland
+2127	2129	UE	UE	ORG	ORG-European-Union
+2161	2164	WSJ	WSJ	PRO	PRO-Wall-Street-Journal
+2168	2174	Polska	Polska	LOC	GPE-Poland
+2230	2232	UE	UE	ORG	ORG-European-Union
+2287	2289	UE	UE	ORG	ORG-European-Union
+2320	2327	Brexitu	Brexit	EVT	EVT-Brexit
+2388	2406	Guenther Oettinger	Guenther Oettinger	PER	PER-Guenther-Oettinger
+2417	2434	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2437	2439	UE	UE	ORG	ORG-European-Union
+2488	2492	Unii	Unia	ORG	ORG-European-Union
+2569	2575	Polski	Polska	LOC	GPE-Poland
+2607	2609	UE	UE	ORG	ORG-European-Union
+2633	2639	Polski	Polska	LOC	GPE-Poland
+2699	2701	UE	UE	ORG	ORG-European-Union
+2722	2725	WSJ	WSJ	PRO	PRO-Wall-Street-Journal
+2773	2775	UE	UE	ORG	ORG-European-Union
+2807	2813	Polskę	Polska	LOC	GPE-Poland
+2834	2836	UE	UE	ORG	ORG-European-Union
+2854	2860	Polska	Polska	LOC	GPE-Poland
+2937	2939	UE	UE	ORG	ORG-European-Union
+3031	3034	WSJ	WSJ	PRO	PRO-Wall-Street-Journal
+3089	3095	Polacy	Polacy	PER	GPE-Poland
+3142	3144	UE	UE	ORG	ORG-European-Union
+3199	3207	Brukseli	Bruksela	LOC	GPE-Brussles
+3211	3219	Warszawę	Warszawa	LOC	GPE-Warsaw
+3244	3250	Polski	Polska	LOC	GPE-Poland

@@ -1,0 +1,17 @@
+13	20	Brexitu	Brexit	EVT	EVT-Brexit
+74	82	Teesport	Teesport	LOC	LOC-Teesport
+106	112	Anglii	Anglia	LOC	GPE-England
+114	119	Davis	Davis	PER	PER-David-Davis
+294	309	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+313	321	Brexicie	Brexit	EVT	EVT-Brexit
+600	617	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+639	641	UE	UE	ORG	ORG-European-Union
+664	672	Brukseli	Bruksela	LOC	GPE-Brussles
+734	751	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+759	776	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1222	1224	UE	UE	ORG	ORG-European-Union
+1353	1360	Brexitu	Brexit	EVT	EVT-Brexit
+1371	1376	Davis	Davis	PER	PER-David-Davis
+1448	1465	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1558	1597	Europejskiego Trybunału Sprawiedliwości	Europejski Trybunał Sprawiedliwości	ORG	ORG-European-Court-of-Justice
+1840	1842	UE	UE	ORG	ORG-European-Union

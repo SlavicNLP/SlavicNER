@@ -1,0 +1,15 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+97	114	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+117	134	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+242	251	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+343	350	Brexitu	Brexit	EVT	EVT-Brexit
+424	428	Unii	Unia	ORG	ORG-European-Union
+523	544	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+553	564	Theresy May	Theresa May	PER	PER-Theresa-May
+801	808	Brexitu	Brexit	EVT	EVT-Brexit
+857	901	Ministerstwo ds. wyjścia z Unii Europejskiej	Ministerstwo ds. wyjścia z Unii Europejskiej	ORG	ORG-Ministry-of-Brexity
+1032	1041	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1228	1239	Elżbiety II	Elżbieta II	PER	PER-Queen-Elizabeth-II
+1241	1256	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1285	1302	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1345	1354	Wspólnotę	Wspólnota	ORG	ORG-European-Union

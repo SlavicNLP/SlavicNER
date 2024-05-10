@@ -1,0 +1,26 @@
+0	8	MACHÁČEK	MACHÁČEK	PER	PER-Jan-Machacek
+10	15	Praha	Praha	LOC	GPE-Prague
+18	23	Trump	Trump	PER	PER-Donald-Trump
+42	47	PRAHA	PRAHA	LOC	GPE-Prague
+48	55	Reuters	Reuters	ORG	ORG-Reuters
+56	81	Americká tisková agentura	Americká tisková agentura	ORG	ORG-American-Press-Agency
+91	100	McClatchy	McClatchy	PRO	PRO-McClatchy
+142	145	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+146	160	Robert Mueller	Robert Mueller	PER	PER-Cynthia-Roberts
+181	188	Trumpův	Trump	PER	PER-Donald-Trump
+223	236	Michael Cohen	Michael Cohen	PER	PER-Michael-Cohen
+278	283	Praze	Praha	LOC	GPE-Prague
+297	301	Rusy	Rusové	PER	GPE-Russia
+417	425	Trumpovi	Trump	PER	PER-Donald-Trump
+541	556	Kubiceho zprávě	Kubiceho zpráva	PRO	PRO-Kubiceho-zprava
+722	731	McClatchy	McClatchy	PRO	PRO-McClatchy
+770	788	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+837	844	Reuters	Reuters	ORG	ORG-Reuters
+879	884	Cohen	Cohen	PER	PER-Michael-Cohen
+900	905	Prahy	Praha	LOC	GPE-Prague
+908	915	Německa	Německo	LOC	GPE-Germany
+954	957	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+982	989	Cohenův	Cohen	PER	PER-Michael-Cohen
+1148	1166	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+1186	1191	Praze	Praha	LOC	GPE-Prague
+1278	1283	Cohen	Cohen	PER	PER-Michael-Cohen

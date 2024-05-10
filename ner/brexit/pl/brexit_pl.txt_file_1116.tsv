@@ -1,0 +1,33 @@
+17	24	brexitu	Brexit	EVT	EVT-Brexit
+106	118	Oliver Wyman	Oliver Wyman	ORG	ORG-Oliver-Wyman-ltd
+138	153	Clifford Chance	Clifford Chance	ORG	ORG-Clifford-Chance-LLP
+195	212	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+215	230	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+372	387	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+403	431	Światowej Organizacji Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization
+433	436	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+441	449	brexicie	Brexit	EVT	EVT-Brexit
+508	510	UE	UE	ORG	ORG-European-Union
+525	532	Wyspach	Wyspy	LOC	GPE-Great-Britain
+688	695	brexitu	Brexit	EVT	EVT-Brexit
+779	789	Kumar Iyer	Kumar Iyer	PER	PER-Kumar-Iyer
+801	813	Oliver Wyman	Oliver Wyman	ORG	ORG-Oliver-Wyman-ltd
+815	845	Brytyjska Partia Konserwatywna	Brytyjska Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+859	874	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+958	967	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1063	1065	UE	UE	ORG	ORG-European-Union
+1229	1231	UE	UE	ORG	ORG-European-Union
+1350	1367	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1368	1379	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1411	1428	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1537	1558	umowy o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement
+1723	1731	brexicie	Brexit	EVT	EVT-Brexit
+1912	1914	UE	UE	ORG	ORG-European-Union
+1939	1956	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2007	2019	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+2081	2098	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2116	2124	brexicie	Brexit	EVT	EVT-Brexit
+2307	2311	Unii	Unia	ORG	ORG-European-Union
+2339	2356	Jessica Gladstone	Jessica Gladstone	PER	PER-Jessica-Gladstone
+2368	2383	Clifford Chance	Clifford Chance	ORG	ORG-Clifford-Chance-LLP
+2484	2490	brexit	Brexit	EVT	EVT-Brexit

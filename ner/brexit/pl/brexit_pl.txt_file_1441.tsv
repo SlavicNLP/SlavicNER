@@ -1,0 +1,24 @@
+49	56	Wyspach	Wyspy	LOC	GPE-Great-Britain
+57	63	brexit	Brexit	EVT	EVT-Brexit
+115	130	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+138	153	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+159	170	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+199	207	brexitem	Brexit	EVT	EVT-Brexit
+409	421	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+719	736	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+740	744	Unii	Unia	ORG	ORG-European-Union
+847	856	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+883	889	Anglii	Anglia	LOC	GPE-England
+972	978	Anglii	Anglia	LOC	GPE-England
+1015	1022	Szkocja	Szkocja	LOC	GPE-Scotland
+1027	1044	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+1279	1296	Margaret Thatcher	Margaret Thatcher	PER	PER-Margaret-Thatcher
+1306	1321	Tony’ego Blaira	Tony Blair	PER	PER-Tony-Blair
+1746	1758	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1787	1791	Unii	Unia	ORG	ORG-European-Union
+1917	1919	UE	UE	ORG	ORG-European-Union
+2064	2076	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2199	2216	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2477	2483	brexit	Brexit	EVT	EVT-Brexit
+2574	2581	Szkocja	Szkocja	LOC	GPE-Scotland
+2773	2785	INFOR Biznes	INFOR Biznes	ORG	ORG-Infor-Biznes

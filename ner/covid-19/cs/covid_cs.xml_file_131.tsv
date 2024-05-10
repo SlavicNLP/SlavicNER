@@ -1,0 +1,36 @@
+127	133	Kremlu	Kreml	LOC	LOC-Kremlin
+134	148	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+238	246	covid-19	covid-19	EVT	EVT-Covid-19
+265	274	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+297	331	ruským ministerstvem zdravotnictví	ruské ministerstvo zdravotnictví	ORG	ORG-Ministry-of-Health-Russia
+487	501	New York Times	New York Times	PRO	PRO-The-New-York-Times
+551	557	Moskva	Moskva	LOC	GPE-Moscow
+597	606	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+715	728	Anton Vaganov	Anton Vaganov	PER	PER-Anton-Vaganov
+738	745	Reuters	Reuters	ORG	ORG-Reuters
+836	847	koronavirem	koronavirus	EVT	EVT-Covid-19
+870	875	Putin	Putin	PER	PER-Vladimir-Putin
+940	945	Rusko	Rusko	LOC	GPE-Russia
+980	990	koronaviru	koronavirus	EVT	EVT-Covid-19
+1074	1080	Kremlu	Kreml	LOC	LOC-Kremlin
+1172	1218	Národním výzkumném středisku Nikolaje Gamaleji	Národní výzkumné středisko Nikolaje Gamaleji	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1440	1458	Univerzity Karlovy	Univerzita Karlova	ORG	ORG-Charles-University
+1459	1476	Michala Romancova	Michal Romancov	PER	PER-Michal-Romancov
+1489	1495	Moskvy	Moskva	LOC	GPE-Moscow
+1533	1538	Rusko	Rusko	LOC	GPE-Russia
+1575	1584	covidu-19	covid-19	EVT	EVT-Covid-19
+1624	1633	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+1681	1685	Země	Země	LOC	LOC-Earth
+1694	1710	Sovětským svazem	Sovětský svaz	LOC	GPE-USSR
+1730	1738	Putinova	Putin	PER	PER-Vladimir-Putin
+1770	1788	Taťjana Golikovová	Taťjana Golikovová	PER	PER-Tatjana-Golikova
+2029	2061	ruské ministerstvo zdravotnictví	ruské ministerstvo zdravotnictví	ORG	ORG-Ministry-of-Healthcare-Russia
+2444	2462	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+2530	2535	Rusku	Rusko	LOC	GPE-Russia
+2815	2831	Michaila Muraška	Michail Muraška	PER	PER-Mikhail-Murashko
+2957	2962	Rusku	Rusko	LOC	GPE-Russia
+3034	3043	Hostomský	Hostomský	PER	PER-Zdenek-Hostomsky
+3045	3056	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+3173	3181	NY Times	NY Times	PRO	PRO-The-New-York-Times
+3210	3253	Asociace pro medicínu založenou na důkazech	Asociace pro medicínu založenou na důkazech	ORG	ORG-Russian-Evidence-Based-Association
+3254	3268	Vasilij Vlasov	Vasilij Vlasov	PER	PER-Vasilij-Vlasov

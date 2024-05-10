@@ -1,0 +1,24 @@
+30	50	Krzysztof Kucharczyk	Krzysztof Kucharczyk	PER	PER-Krzysztof-Kucharczyk
+75	83	COVID-19	COVID-19	EVT	EVT-Covid-19
+298	325	Programie 1 Polskiego Radia	Program 1 Polskiego Radia	PRO	PRO-Polish-Radio-1
+342	362	Krzysztof Kucharczyk	Krzysztof Kucharczyk	PER	PER-Krzysztof-Kucharczyk
+420	434	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+479	487	COVID-19	COVID-19	EVT	EVT-Covid-19
+490	496	Polska	Polska	LOC	GPE-Poland
+506	535	Narodowego Programu Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+736	748	Astra Zeneca	Astra Zeneca	ORG	GPE-AstraZeneсa
+765	771	Pfizer	Pfizer	ORG	ORG-Pfizer
+772	780	BioNTech	BioNTech	ORG	ORG-BioNTech
+798	822	Janssen Pharmaceutica NV	Janssen Pharmaceutica NV	ORG	ORG-Janssen-Pharmaceutica
+824	841	Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+957	964	CureVac	CureVac	ORG	ORG-CureVac
+987	994	Moderna	Moderna	ORG	ORG-Moderna
+1025	1031	Pfizer	Pfizer	ORG	ORG-Pfizer
+1032	1040	BioNTech	BioNTech	ORG	ORG-BioNTech
+1046	1053	Moderna	Moderna	ORG	ORG-Moderna
+1133	1153	Krzysztof Kucharczyk	Krzysztof Kucharczyk	PER	PER-Krzysztof-Kucharczyk
+1163	1177	Sygnałach Dnia	Sygnały Dnia	PRO	PRO-Sygnały-Dnia
+1235	1241	Pfizer	Pfizer	ORG	ORG-Pfizer
+1244	1251	Moderna	Moderna	ORG	ORG-Moderna
+1372	1384	Astra Zeneca	Astra Zeneca	ORG	GPE-AstraZeneсa
+1666	1674	COVID-19	COVID-19	EVT	EVT-Covid-19

@@ -1,0 +1,92 @@
+161	167	Познер	Познер	PER	PER-Vladimir-Pozner
+187	190	США	США	LOC	GPE-USA
+202	208	Россию	Россия	LOC	GPE-Russia
+211	217	Познер	Познер	PER	PER-Vladimir-Pozner
+237	240	США	США	LOC	GPE-USA
+252	258	Россию	Россия	LOC	GPE-Russia
+300	303	США	США	LOC	GPE-USA
+304	315	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+327	336	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+371	377	Москву	Москва	LOC	GPE-Moscow
+417	428	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+462	468	россия	Россия	LOC	GPE-Russia
+471	629	федеральное агентство по делам содружества независимых государств, соотечественников, проживающих за рубежом, и по международному гуманитарному сотрудничеству	Федеральное агентство по делам Содружества Независимых государств, соотечественников, проживающих за рубежом, и по международному гуманитарному сотрудничеству	ORG	ORG-Rossotrudnichestvo
+631	648	россотрудничество	Россотрудничество	ORG	ORG-Rossotrudnichestvo
+652	658	МОСКВА	Москва	LOC	GPE-Moscow
+668	679	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+720	723	США	США	LOC	GPE-USA
+724	735	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+747	756	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+791	797	Москву	Москва	LOC	GPE-Moscow
+834	852	Россотрудничеством	Россотрудничество	ORG	ORG-Rossotrudnichestvo
+877	892	Владимир Познер	Владимир Познер	PER	PER-Vladimir-Pozner
+918	927	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+964	992	Конгресс русских американцев	Конгресс русских американцев	ORG	ORG-Congress-of-Russian-Americans
+994	997	CRA	CRA	ORG	ORG-Congress-of-Russian-Americans
+1017	1039	Manhattan Mini Storage	Manhattan Mini Storage	ORG	ORG-The-Manhattan-Project
+1148	1165	Наталья Сабельник	Наталья Сабельник	PER	PER-Natalia-Sabelnik
+1239	1257	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+1349	1355	России	Россия	LOC	GPE-Russia
+1409	1431	Демократическая партия	Демократическая партия	ORG	ORG-Democratic-Party-USA
+1445	1455	российскую	российская	LOC	GPE-Russia
+1485	1497	американские	американские	LOC	GPE-USA
+1645	1651	Россию	Россия	LOC	GPE-Russia
+1654	1657	США	США	LOC	GPE-USA
+1784	1787	ФБР	ФБР	ORG	ORG-FBI
+1788	1801	Кристофер Рэй	Кристофер Рэй	PER	PER-Christopher-Ray
+1803	1813	российская	российская	LOC	GPE-Russia
+1849	1873	выборы в США в 2020 году	выборы в США в 2020 году	EVT	EVT-2020-United-States-Presidential-Election
+1988	2000	американская	американская	LOC	GPE-USA
+2022	2028	Россию	Россия	LOC	GPE-Russia
+2030	2035	Китай	Китай	LOC	GPE-China
+2038	2042	Иран	Иран	LOC	GPE-Iran
+2065	2099	избирательную кампанию в 2020 году	избирательная кампания в 2020 году	EVT	EVT-2020-United-States-Presidential-Election
+2101	2107	Москва	Москва	LOC	GPE-Moscow
+2159	2165	россия	Россия	LOC	GPE-Russia
+2167	2170	фбр	ФБР	ORG	ORG-FBI
+2172	2185	кристофер рэй	Кристофер Рэй	PER	PER-Christopher-Ray
+2187	2345	федеральное агентство по делам содружества независимых государств, соотечественников, проживающих за рубежом, и по международному гуманитарному сотрудничеству	Федеральное агентство по делам Содружества Независимых государств, соотечественников, проживающих за рубежом, и по международному гуманитарному сотрудничеству	ORG	ORG-Rossotrudnichestvo
+2347	2364	россотрудничество	Россотрудничество	ORG	ORG-Rossotrudnichestvo
+2367	2382	владимир познер	Владимир Познер	PER	PER-Vladimir-Pozner
+2384	2394	джо байден	Джо Байден	PER	PER-Joe-Biden
+2396	2402	москва	Москва	LOC	GPE-Moscow
+2404	2412	нью-йорк	Нью-Йорк	LOC	GPE-New-York
+2422	2431	вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2441	2444	сша	США	LOC	GPE-USA
+2455	2461	МОСКВА	Москва	LOC	GPE-Moscow
+2471	2482	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+2523	2526	США	США	LOC	GPE-USA
+2527	2538	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2550	2559	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2594	2600	Москву	Москва	LOC	GPE-Moscow
+2637	2655	Россотрудничеством	Россотрудничество	ORG	ORG-Rossotrudnichestvo
+2680	2695	Владимир Познер	Владимир Познер	PER	PER-Vladimir-Pozner
+2721	2730	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+2770	2798	Конгресс русских американцев	Конгресс русских американцев	ORG	ORG-Congress-of-Russian-Americans
+2800	2803	CRA	CRA	ORG	ORG-Congress-of-Russian-Americans
+2823	2845	Manhattan Mini Storage	Manhattan Mini Storage	ORG	ORG-The-Manhattan-Project
+2954	2971	Наталья Сабельник	Наталья Сабельник	PER	PER-Natalia-Sabelnik
+3045	3063	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+3155	3161	России	Россия	LOC	GPE-Russia
+3218	3240	Демократическая партия	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3254	3264	российскую	российская	LOC	GPE-Russia
+3294	3306	американские	американские	LOC	GPE-USA
+3456	3462	России	Россия	LOC	GPE-Russia
+3498	3520	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3629	3635	Россию	Россия	LOC	GPE-Russia
+3705	3711	Познер	Познер	PER	PER-Vladimir-Pozner
+3782	3788	Россию	Россия	LOC	GPE-Russia
+3791	3794	США	США	LOC	GPE-USA
+3984	3987	ФБР	ФБР	ORG	ORG-FBI
+3988	4001	Кристофер Рэй	Кристофер Рэй	PER	PER-Christopher-Ray
+4003	4013	российская	российская	LOC	GPE-Russia
+4049	4073	выборы в США в 2020 году	выборы в США в 2020 году	EVT	EVT-2020-United-States-Presidential-Election
+4188	4200	американская	американская	LOC	GPE-USA
+4222	4228	Россию	Россия	LOC	GPE-Russia
+4230	4235	Китай	Китай	LOC	GPE-China
+4238	4242	Иран	Иран	LOC	GPE-Iran
+4265	4299	избирательную кампанию в 2020 году	избирательная кампания в 2020 году	EVT	EVT-2020-United-States-Presidential-Election
+4301	4307	Москва	Москва	LOC	GPE-Moscow
+4415	4520	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-RussiaToday
+4522	4542	МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+4598	4612	Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.

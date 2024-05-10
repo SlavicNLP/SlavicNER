@@ -1,0 +1,90 @@
+29	46	Корреспондент.net	Корреспондент.net	PRO	PRO-Korrespondent-net
+87	101	Deutsche Welle	Deutsche Welle	ORG	ORG-Deutsche-Welle
+117	125	COVID-19	COVID-19	EVT	EVT-Covid-19
+132	139	Україна	Україна	LOC	GPE-Ukraine
+172	189	Українська служба	Українська служба	PRO	ORG-DW-Ukrainian-Service
+190	192	DW	DW	ORG	ORG-Deutsche-Welle
+257	266	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+307	314	Україна	Україна	LOC	GPE-Ukraine
+345	357	коронавірусу	коронавірус	EVT	EVT-Covid-19
+455	470	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+523	530	Україна	Україна	LOC	GPE-Ukraine
+561	573	коронавірусу	коронавірус	EVT	EVT-Covid-19
+671	686	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+763	769	Заходу	Захід	LOC	GPE-Western-World
+814	822	COVID-19	COVID-19	EVT	EVT-Covid-19
+866	869	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+927	939	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1029	1044	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+1146	1153	Україні	Україна	LOC	GPE-Ukraine
+1268	1277	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+1500	1507	Україні	Україна	LOC	GPE-Ukraine
+1509	1511	DW	DW	ORG	ORG-Deutsche-Welle
+1586	1595	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+1619	1626	Україна	Україна	LOC	GPE-Ukraine
+1874	1886	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1887	1897	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1987	1993	ковіду	ковід	EVT	EVT-Covid-19
+2056	2065	Туреччині	Туреччина	LOC	GPE-Turkey
+2067	2075	Бразилії	Бразилія	LOC	GPE-Brazil
+2079	2088	Індонезії	Індонезія	LOC	GPE-Indonesia
+2167	2173	Lancet	Lancet	PRO	PRO-The-Lancet
+2332	2341	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+2502	2509	України	Україна	LOC	GPE-Ukraine
+2681	2689	BioNtech	BioNtech	ORG	ORG-BioNTech
+2720	2726	Pfizer	Pfizer	ORG	ORG-Pfizer
+2760	2762	ЄС	ЄС	LOC	ORG-European-Union
+2878	2885	Україні	Україна	LOC	GPE-Ukraine
+2951	2958	Україна	Україна	LOC	GPE-Ukraine
+3118	3121	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+3293	3305	коронавірусу	коронавірус	EVT	EVT-Covid-19
+3370	3373	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+3374	3389	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+3498	3518	Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+3554	3562	Степанов	Степанов	PER	PER-Maksym-Stepanov
+3577	3584	Україна	Україна	LOC	GPE-Ukraine
+3712	3715	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+3782	3789	Україна	Україна	LOC	GPE-Ukraine
+3834	3843	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+3864	3879	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+4011	4014	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+4127	4133	Лекхім	Лекхім	ORG	ORG-Lekhim
+4146	4162	Офісу президента	Офіс президента	ORG	ORG-The-Presidents-Office-Ukraine
+4237	4244	Україні	Україна	LOC	GPE-Ukraine
+4247	4253	Лекхім	Лекхім	ORG	ORG-Lekhim
+4283	4290	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+4443	4455	коронавірусу	коронавірус	EVT	EVT-Covid-19
+4527	4544	Медичні закупівлі	Медичні закупівлі	ORG	ORG-Medical-Procurement-of-Ukraine
+4607	4624	Медичні закупівлі	Медичні закупівлі	ORG	ORG-Medical-Procurement-of-Ukraine
+4695	4698	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+4765	4778	Медзакупівель	Медзакупівлі	ORG	ORG-Medical-Procurement-of-Ukraine
+4780	4797	Арсена Жумаділова	Арсен Жумаділов	PER	PER-Arsen-Zhumadilov
+4799	4806	Україна	Україна	LOC	GPE-Ukraine
+4967	4970	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+4982	4999	Медичні закупівлі	Медичні закупівлі	ORG	ORG-Medical-Procurement-of-Ukraine
+5199	5216	Медичні закупівлі	Медичні закупівлі	ORG	ORG-Medical-Procurement-of-Ukraine
+5266	5283	Максима Степанова	Максим Степанов	PER	PER-Maksym-Stepanov
+5382	5399	Медичні закупівлі	Медичні закупівлі	ORG	ORG-Medical-Procurement-of-Ukraine
+5616	5632	Пацієнти України	Пацієнти України	ORG	ORG-Patients-of-Ukraine-Fund
+5634	5648	Інна Іванченко	Інна Іванченко	PER	PER-Inna-Ivanchenko
+5661	5687	Раду громадського контролю	Рада громадського контролю	ORG	ORG-Council-of-Public-Control
+5692	5720	Національній службі здоров'я	Національна служба здоров'я	ORG	ORG-National-Health-Service-of-Ukraine
+5734	5736	DW	DW	ORG	ORG-Deutsche-Welle
+5761	5768	Україні	Україна	LOC	GPE-Ukraine
+5844	5861	Раїса Богатирьова	Раїса Богатирьова	PER	PER-Rayisa-Bohatyriova
+5894	5898	МОЗу	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+6013	6022	Іванченко	Іванченко	PER	PER-Inna-Ivanchenko
+6024	6033	Іванченко	Іванченко	PER	PER-Inna-Ivanchenko
+6125	6133	Степанов	Степанов	PER	PER-Maksym-Stepanov
+6248	6257	Іванченко	Іванченко	PER	PER-Inna-Ivanchenko
+6261	6264	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+6357	6372	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+6396	6411	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+6551	6558	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+6564	6570	Лекхім	Лекхім	ORG	ORG-Lekhim
+6659	6666	України	Україна	LOC	GPE-Ukraine
+6692	6698	Лекхім	Лекхім	ORG	ORG-Lekhim
+6733	6735	DW	DW	ORG	ORG-Deutsche-Welle
+6785	6792	Україна	Україна	LOC	GPE-Ukraine
+6944	6951	України	Україна	LOC	GPE-Ukraine
+7016	7029	Медзакупівель	Медзакупівлі	ORG	ORG-Medical-Procurement-of-Ukraine

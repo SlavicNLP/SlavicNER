@@ -1,0 +1,17 @@
+76	83	Брекзит	Брекзит	EVT	EVT-Brexit
+89	94	БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+95	109	Веселин Паунов	Веселин Паунов	PER	PER-Veselin-Paunov
+120	123	БНР	БНР	ORG	ORG-Bulgarian-National-Radio
+126	132	Лондон	Лондон	LOC	GPE-London
+279	286	Брекзит	Брекзит	EVT	EVT-Brexit
+352	358	Лондон	Лондон	LOC	GPE-London
+397	404	Брекзит	Брекзит	EVT	EVT-Brexit
+476	498	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+559	566	Брекзит	Брекзит	EVT	EVT-Brexit
+755	765	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+986	994	Би Би Си	Би Би Си	PRO	PRO-BBC
+1082	1084	ЕС	ЕС	ORG	ORG-European-Union
+1174	1176	ЕС	ЕС	ORG	ORG-European-Union
+1178	1188	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1295	1301	Лондон	Лондон	LOC	GPE-London
+1380	1387	Брюксел	Брюксел	LOC	GPE-Brussles

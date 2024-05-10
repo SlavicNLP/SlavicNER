@@ -1,0 +1,10 @@
+0	5	Rusko	Rusko	LOC	GPE-Russia
+25	34	covidu-19	covid-19	EVT	EVT-Covid-19
+225	232	Logunov	Logunov	PER	PER-Denis-Logunov
+359	363	TASS	TASS	ORG	ORG-TASS-Agency
+404	411	Sputnik	Sputnik	PRO	PRO-Sputnik-V
+510	517	Logunov	Logunov	PER	PER-Denis-Logunov
+858	865	Logunov	Logunov	PER	PER-Denis-Logunov
+962	973	koronavirus	koronavirus	EVT	EVT-Covid-19
+985	992	Logunov	Logunov	PER	PER-Denis-Logunov
+1061	1069	covid-19	covid-19	EVT	EVT-Covid-19

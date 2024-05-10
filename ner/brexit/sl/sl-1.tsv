@@ -1,0 +1,22 @@
+0	18	Britanski poslanci	Britanski poslanci	PER	PER-UK-MP
+69	75	brexit	brexit	EVT	EVT-Brexit
+86	111	spodnjega doma parlamenta	spodnji dom parlamenta	ORG	ORG-House-of-Commons
+114	121	Londonu	London	LOC	GPE-London
+208	220	Geoffrey Cox	Geoffrey Cox	PER	PER-Geoffrey-Cox
+307	314	brexitu	brexit	EVT	EVT-Brexit
+833	858	spodnjega doma parlamenta	spodnji dom parlamenta	ORG	ORG-House-of-Commons
+859	873	Andrea Leadsom	Andrea Leadsom	PER	PER-Andrea-Leadsom
+990	993	BBC	BBC	ORG	ORG-BBC-Ltd
+1178	1189	Theresa May	Theresa May	PER	PER-Theresa-May
+1269	1290	Združenega kraljestva	Združeno kraljestvo	ORG	GPE-UK
+1294	1308	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1520	1531	Therese May	Theresa May	PER	PER-Theresa-May
+1583	1589	Mayeva	May	PER	PER-Theresa-May
+1681	1695	konservativcev	konservativci	PER	ORG-Conservative-and-Unionist-Party-UK
+1699	1723	severnoirskih unionistov	severnoirski unionisti	PER	ORG-DUP
+1725	1728	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+1818	1836	Evropski parlament	Evropski parlament	ORG	ORG-British-Parlament
+1840	1847	Svet EU	Svet EU	ORG	ORG-EU-Council
+1941	1943	EU	EU	ORG	ORG-European-Union
+1977	1984	Bruslju	Bruselj	LOC	GPE-Brussles
+2002	2019	Evropski poslanci	Evropski poslanci	PER	PER-EU-MP

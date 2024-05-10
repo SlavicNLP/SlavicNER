@@ -1,0 +1,65 @@
+133	145	Nancy Pelosi	Nancy Pelosi	PER	PER-Nancy-Pelosi
+226	236	Washington	Washington	LOC	GPE-WashingtonDC
+392	401	demokrati	demokrati	PER	ORG-Democratic-Party-USA
+460	468	Trumpove	Trump	PER	PER-Donald-Trump
+654	668	Louisa DeJoyja	Louis DeJoyj	PER	PER-Louis-DeJoy
+742	745	ZDA	ZDA	LOC	GPE-USA
+746	760	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+796	803	Trumpov	Trumpov	PER	PER-Donald-Trump
+812	817	DeJoy	DeJoy	PER	PER-Louis-DeJoy
+1016	1022	De Joy	De Joy	PER	PER-Louis-DeJoy
+1173	1176	ZDA	ZDA	LOC	GPE-USA
+1311	1314	ZDA	ZDA	LOC	GPE-USA
+1368	1380	koronavirusa	koronavirus	EVT	EVT-Covid-19
+1382	1412	Center za nadzor nad boleznimi	Center za nadzor nad boleznimi	ORG	ORG-Centers-for-Disease-Control
+1414	1417	CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+1419	1429	Američanom	Američani	PER	GPE-USA
+1486	1491	Trump	Trump	PER	PER-Donald-Trump
+1572	1582	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+1603	1616	Melanio Trump	Melania Trump	PER	PER-Melania-Trump
+1671	1678	Floride	Florida	LOC	GPE-Florida
+1727	1730	ZDA	ZDA	LOC	GPE-USA
+1771	1776	Trump	Trump	PER	PER-Donald-Trump
+1886	1895	demokrati	demokrati	PER	ORG-Democratic-Party-USA
+2015	2018	ZDA	ZDA	LOC	GPE-USA
+2176	2184	Vermonta	Vermont	LOC	GPE-Vermont
+2185	2199	Bernie Sanders	Bernie Sanders	PER	PER-Bernie-Sanders
+2203	2212	Demokrati	demokrati	PER	ORG-Democratic-Party-USA
+2231	2236	Trump	Trump	PER	PER-Donald-Trump
+2277	2292	Josephom Bidnom	Joseph Biden	PER	PER-Joe-Biden
+2358	2363	DeJoy	DeJoy	PER	PER-Louis-DeJoy
+2422	2427	DeJoy	DeJoy	PER	PER-Louis-DeJoy
+2509	2518	demokrati	demokrati	PER	ORG-Democratic-Party-USA
+2540	2546	DeJoya	DeJoy	PER	PER-Louis-DeJoy
+2617	2622	Trump	Trump	PER	PER-Donald-Trump
+2635	2642	DeJoyja	DeJoy	PER	PER-Louis-DeJoy
+2771	2776	DeJoy	DeJoy	PER	PER-Louis-DeJoy
+2783	2790	Trumpov	Trump	PER	PER-Donald-Trump
+2804	2816	Mark Meadows	Mark Meadows	PER	PER-Mark-Meadows
+3001	3008	Bidnovo	Biden	PER	PER-Joe-Biden
+3095	3100	Trump	Trump	PER	PER-Donald-Trump
+3187	3196	demokrati	demokrati	PER	ORG-Democratic-Party-USA
+3219	3222	ZDA	ZDA	LOC	GPE-USA
+3223	3235	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+3262	3267	Trump	Trump	PER	PER-Donald-Trump
+3322	3334	republikanci	republikanci	PER	ORG-Republican-Party-USA
+3416	3421	Trump	Trump	PER	PER-Donald-Trump
+3471	3474	ZDA	ZDA	LOC	GPE-USA
+3539	3544	Obama	Obama	PER	PER-Barack-Obama
+3763	3770	DeJoyja	DeJoy	PER	PER-Louis-DeJoy
+3880	3891	Washingtonu	Washington	LOC	GPE-WashingtonDC
+4016	4024	Kim Frum	Kim Frum	PER	PER-Kim-Frum
+4168	4178	Trumpovega	Trump	PER	PER-Donald-Trump
+4188	4195	Meadows	Meadows	PER	PER-Mark-Meadows
+4370	4373	ZDA	ZDA	LOC	GPE-USA
+4643	4648	FedEx	FedEx	ORG	ORG-FedEx
+4652	4655	UPS	UPS	ORG	ORG-UPS
+4814	4822	Kolorado	Kolorado	LOC	GPE-Colorado
+4824	4830	Havaji	Havaji	LOC	GPE-Hawaii
+4832	4838	Oregon	Oregon	LOC	GPE-Oregon
+4840	4844	Utah	Utah	LOC	GPE-Utah
+4855	4865	Washington	Washington	LOC	GPE-WashingtonDC
+4893	4904	Kalifornija	Kalifornija	LOC	GPE-California
+4906	4912	Nevada	Nevada	LOC	GPE-Nevada
+4916	4923	Vermont	Vermont	LOC	GPE-Vermont
+5069	5081	Pensilvanija	Pensilvanija	LOC	GPE-Pennsylvania

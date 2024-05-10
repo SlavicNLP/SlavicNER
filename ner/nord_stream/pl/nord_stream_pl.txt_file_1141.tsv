@@ -1,0 +1,24 @@
+33	38	Rosji	Rosja	LOC	GPE-Russia
+41	47	Europy	Europa	LOC	LOC-Europe
+61	66	UOKiK	UOKiK	ORG	ORG-UOKiK-Office
+77	90	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+92	131	Urząd Ochrony Konkurencji i Konsumentów	Urząd Ochrony Konkurencji i Konsumentów	ORG	ORG-UOKiK-Office
+166	176	Gazpromowi	Gazprom	ORG	ORG-Gazprom
+244	257	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+286	293	UOKiK-u	UOKiK	ORG	ORG-UOKiK-Office
+294	309	Marek Niechciał	Marek Niechciał	PER	PER-Marek-Niechcial
+318	324	Urzędu	Urząd	ORG	ORG-UOKiK-Office
+400	413	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+452	459	UOKIK-u	UOKIK	ORG	ORG-UOKiK-Office
+532	539	UOKiK-u	UOKIK	ORG	ORG-UOKiK-Office
+583	592	Niechciał	Niechciał	PER	PER-Marek-Niechcial
+686	693	Gazprom	Gazprom	ORG	ORG-Gazprom
+722	735	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+790	795	UOKiK	UOKiK	ORG	ORG-UOKiK-Office
+796	811	Marek Niechciał	Marek Niechciał	PER	PER-Marek-Niechcial
+823	828	UOKiK	UOKiK	ORG	ORG-UOKiK-Office
+844	854	Gazpromowi	Gazprom	ORG	ORG-Gazprom
+899	905	Urzędu	Urząd	ORG	ORG-UOKiK-Office
+959	998	Urząd Ochrony Konkurencji i Konsumentów	Urząd Ochrony Konkurencji i Konsumentów	ORG	ORG-UOKiK-Office
+1030	1040	Gazpromowi	Gazprom	ORG	ORG-Gazprom
+1115	1128	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2

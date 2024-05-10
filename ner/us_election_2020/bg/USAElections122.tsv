@@ -1,0 +1,40 @@
+45	48	САЩ	САЩ	LOC	GPE-USA
+120	126	Тексас	Тексас	LOC	GPE-Texas
+219	229	американци	американци	PER	GPE-USA
+266	276	Калифорния	Калифорния	LOC	GPE-California
+279	286	Флорида	Флорида	LOC	GPE-Florida
+304	320	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+433	441	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+443	450	Мичиган	Мичиган	LOC	GPE-Michigan
+452	461	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+463	472	Вирджиния	Вирджиния	LOC	GPE-Virginia
+474	481	Илинойс	Илинойс	LOC	GPE-Illinois
+483	488	Охайо	Охайо	LOC	GPE-Ohio
+490	501	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+503	509	Тенеси	Тенеси	LOC	GPE-Tennessee
+511	520	Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+522	529	Аризона	Аризона	LOC	GPE-Arizona
+531	539	Колорадо	Колорадо	LOC	GPE-Colorado
+541	550	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+552	560	Минесота	Минесота	LOC	GPE-Minnesota
+563	573	Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+605	627	пандемията от Covid-19	пандемия от Covid-19	EVT	EVT-Pandemic
+662	672	американци	американци	PER	GPE-USA
+736	748	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+790	799	Белия Дом	Бял дом	LOC	LOC-White-House
+823	833	демократът	демократ	PER	ORG-Democratic-Party-USA
+834	844	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+952	961	демократи	демократи	PER	ORG-Democratic-Party-USA
+976	988	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1054	1059	Тръмп	Тръмп	PER	PER-Donald-Trump
+1193	1209	Election Project	Election Project	ORG	ORG-Election-Project
+1494	1503	Белия дом	Бял дом	LOC	LOC-White-House
+1551	1565	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+1615	1623	Covid-19	COVID-19	EVT	EVT-Covid-19
+1627	1638	демократите	демократи	PER	ORG-Democratic-Party-USA
+1730	1733	САЩ	САЩ	LOC	GPE-USA
+1826	1853	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+1900	1914	Републиканецът	републиканец	PER	ORG-Republican-Party-USA
+1915	1927	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1930	1940	демократът	демократ	PER	ORG-Democratic-Party-USA
+1941	1955	Джоузеф Байдън	Джоузеф Байдън	PER	PER-Joe-Biden

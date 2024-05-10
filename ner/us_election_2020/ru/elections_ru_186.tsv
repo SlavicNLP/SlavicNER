@@ -1,0 +1,57 @@
+10	21	Белого дома	Белый дом	ORG	ORG-White-House
+27	33	Байден	Байден	PER	PER-Joe-Biden
+42	48	Трампа	Трамп	PER	PER-Donald-Trump
+71	92	Американский Конгресс	Американский Конгресс	ORG	ORG-United-States-Congress
+139	150	Джо Байдена	Джо Байдена	PER	PER-Joe-Biden
+173	176	США	США	LOC	GPE-USA
+284	303	Капитолийском холме	Капитолийский холм	LOC	LOC-Capitol-Hill
+307	318	РБК-Украина	РБК-Украина	PRO	PRO-RBK-Ukraine
+356	362	Байден	Байден	PER	PER-Joe-Biden
+379	389	Белом доме	Белый дом	ORG	ORG-White-House
+393	401	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+425	431	Сената	Сенат	ORG	ORG-United-States-Senate
+434	455	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+544	547	США	США	LOC	GPE-USA
+595	614	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+702	715	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+716	731	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+763	784	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+788	795	Аризоны	Аризона	LOC	GPE-Arizona
+796	805	Пол Госар	Пол Госар	PER	PER-Pau-Gasol
+931	943	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+993	1000	Сенатом	Сенат	ORG	ORG-United-States-Senate
+1008	1030	Палатой представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+1053	1072	инаугурации Байдена	инаугурация Байдена	EVT	EVT-Inauguration-of-Joe-Biden
+1141	1150	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+1254	1263	Сенаторов	Сенаторы	ORG	ORG-United-States-Senate
+1266	1279	конгрессменов	конгрессмены	ORG	ORG-United-States-Congress
+1400	1421	Выборы президента США	Выбор президента США	EVT	EVT-2020-United-States-Presidential-Election
+1641	1656	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1814	1822	COVID-19	COVID-19	EVT	EVT-Covid-19
+1834	1842	демократ	демократ	ORG	ORG-Democratic-Party-USA
+1843	1853	Джо Байден	Джо Байдена	PER	PER-Joe-Biden
+1902	1908	Трампа	Трамп	PER	PER-Donald-Trump
+1919	1925	Байден	Байден	PER	PER-Joe-Biden
+1998	2017	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2067	2099	президентской кампании 2020 года	президентская кампания 2020 года	EVT	EVT-2020-Presidential-Election-Campaign-USA
+2102	2105	США	США	LOC	GPE-USA
+2227	2232	Трамп	Трамп	PER	PER-Donald-Trump
+2243	2251	COVID-19	COVID-19	EVT	EVT-Covid-19
+2268	2274	Байден	Байден	PER	PER-Joe-Biden
+2286	2292	Трампа	Трамп	PER	PER-Donald-Trump
+2454	2460	Байден	Байден	PER	PER-Joe-Biden
+2476	2481	Трамп	Трамп	PER	PER-Donald-Trump
+2490	2497	Байдена	Байден	PER	PER-Joe-Biden
+2649	2655	Байден	Байден	PER	PER-Joe-Biden
+2688	2691	США	США	LOC	GPE-USA
+2700	2706	Путина	Путин	PER	PER-Vladimir-Putin
+2781	2787	Байден	Байден	PER	PER-Joe-Biden
+2841	2853	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+2877	2889	выборов-2016	выборы-2016	EVT	EVT-2016-United-States-Presidential-Election
+2906	2911	Трамп	Трамп	PER	PER-Donald-Trump
+2940	2947	Байдена	Байден	PER	PER-Joe-Biden
+2979	2990	Афганистана	Афганистан	LOC	GPE-Afghanistan
+3035	3051	Восточной Европы	Восточная Европа	LOC	LOC-Eastern-Europe
+3081	3087	Ираном	Иран	LOC	GPE-Iran
+3143	3148	Трамп	Трамп	PER	PER-Donald-Trump
+3309	3314	Китая	Китай	LOC	GPE-China

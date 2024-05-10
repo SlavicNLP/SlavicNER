@@ -1,0 +1,34 @@
+0	8	Michigan	Michigan	LOC	GPE-Michigan
+39	64	Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+70	82	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+104	124	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+170	180	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+181	190	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+253	258	Trump	Trump	PER	PER-Donald-Trump
+285	289	Ohio	Ohio	LOC	GPE-Ohio
+295	304	Florydzie	Floryda	LOC	GPE-Florida
+306	311	Biden	Biden	PER	PER-Joe-Biden
+331	340	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+617	626	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+642	650	Michigan	Michigan	LOC	GPE-Michigan
+653	662	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+711	719	Arizonie	Arizona	LOC	GPE-Arizona
+722	730	Nevadzie	Nevada	LOC	GPE-Nevada
+733	742	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+793	798	Trump	Trump	PER	PER-Donald-Trump
+821	830	Florydzie	Floryda	LOC	GPE-Florida
+842	846	Ohio	Ohio	LOC	GPE-Ohio
+922	927	Biden	Biden	PER	PER-Joe-Biden
+961	970	Minnesotę	Minnesota	LOC	GPE-Minnesota
+989	1003	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1108	1117	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1179	1198	Dystrykcie Kolumbii	Dystrykt Kolumbia	LOC	GPE-District-of-Columbia
+1206	1211	Biden	Biden	PER	PER-Joe-Biden
+1254	1259	Trump	Trump	PER	PER-Donald-Trump
+1345	1350	Trump	Trump	PER	PER-Donald-Trump
+1480	1491	Amerykanach	Amerykanie	PER	GPE-USA
+1526	1542	Sądu Najwyższego	Sąd Najwyższy	ORG	ORG-Supreme-Court-of-Pakistan
+1544	1554	Amerykanie	Amerykanie	PER	GPE-USA
+1580	1586	Senatu	Senat	ORG	ORG-United-States-Senate
+1603	1622	Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+1685	1708	Alexandra Ocasio-Cortez	Alexandra Ocasio-Cortez	PER	PER-Alexandria-Ocasio-Cortez

@@ -1,0 +1,21 @@
+46	52	Brexit	Brexit	EVT	EVT-Brexit
+70	84	Великобритании	Великобритания	LOC	GPE-Great-Britain
+97	103	Brexit	Brexit	EVT	EVT-Brexit
+113	125	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+238	245	Тwitter	Тwitter	PRO	PRO-Twitter
+281	291	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+339	353	Доминика Рааба	Доминик Рааб	PER	PER-Dominic-Raab
+383	397	Великобритании	Великобритания	LOC	GPE-Great-Britain
+401	403	ЕС	ЕС	ORG	ORG-European-Union
+442	447	Рааба	Рааб	PER	PER-Dominic-Raab
+494	500	Brexit	Brexit	EVT	EVT-Brexit
+501	514	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+529	533	"""РГ"""	"""РГ"""	ORG	ORG-Rossijskaja-Gazeta
+623	626	Мэй	Мэй	PER	PER-Theresa-May
+639	641	ЕС	ЕС	ORG	ORG-European-Union
+788	795	Лондона	Лондон	LOC	GPE-London
+836	845	Брюсселем	Брюссель	LOC	GPE-Brussles
+904	917	"""Белую книгу"""	Белая книга	PRO	PRO-White-paper-UK
+948	958	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+966	980	Великобритании	Великобритания	LOC	GPE-Great-Britain
+984	986	ЕС	ЕС	ORG	ORG-European-Union

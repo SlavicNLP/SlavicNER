@@ -1,0 +1,43 @@
+0	8	Jeralovo	Jerala	PER	PER-Roman-Jerala
+22	40	novem koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+101	119	novem koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+172	185	Romana Jerale	Roman Jerala	PER	PER-Roman-Jerala
+260	266	Jerala	Jerala	PER	PER-Roman-Jerala
+292	310	novem koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+439	445	Jerala	Jerala	PER	PER-Roman-Jerala
+496	537	Pisarna Evropskega parlamenta v Sloveniji	Pisarna Evropskega parlamenta v Sloveniji	ORG	ORG-European-Parliament-Liaison-Office-in-Slovenia
+541	558	Kemijski inštitut	Kemijski inštitut	ORG	ORG-National-Institute-of-Chemistry
+612	630	novem koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+992	998	Jerala	Jerala	PER	PER-Roman-Jerala
+1012	1014	EU	EU	ORG	ORG-European-Union
+1116	1119	ZDA	ZDA	LOC	GPE-USA
+1310	1312	EU	EU	ORG	ORG-European-Union
+1326	1340	Obzorje Evropa	Obzorje Evropa	PRO	PRO-Horizon-Europe
+1403	1421	Evropski parlament	Evropski parlament	ORG	ORG-European-Parliament
+1481	1494	Franc Bogovič	Franc Bogovič	PER	PER-Franc-Bogovič
+1496	1499	EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+1608	1617	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1717	1723	Evropi	Evropa	LOC	LOC-Europe
+1882	1888	Evropi	Evropa	LOC	LOC-Europe
+1900	1922	Instituta Jožef Stefan	Institut Jožef Stefan	ORG	ORG-Jožef-Stefan-Institute
+1923	1938	Jadran Lenarčič	Jadran Lenarčič	PER	PER-Jadran-Lenarčič
+1955	1961	Evropa	Evropa	LOC	LOC-Europe
+2191	2194	ZDA	ZDA	LOC	GPE-USA
+2198	2206	Kitajska	Kitajska	LOC	GPE-China
+2216	2225	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2260	2262	EU	EU	ORG	ORG-European-Union
+2500	2514	Klemen Grošelj	Klemen Grošelj	PER	PER-Klemen-Grošelj
+2516	2521	Renew	Renew	ORG	ORG-Renew
+2643	2652	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2896	2916	Kemijskega inštituta	Kemijski inštitut	ORG	ORG-National-Institute-of-Chemistry
+2917	2932	Gregor Anderluh	Gregor Anderluh	PER	PER-Gregor-Anderluh
+3053	3061	Francija	Francija	LOC	GPE-France
+3065	3073	Estonija	Estonija	LOC	GPE-Estonia
+3125	3134	Slovenija	Slovenija	LOC	GPE-Slovenia
+3167	3186	program Marie Curie	program Marie Curie	PRO	PRO-Marie-Skłodowska-Curie-Actions
+3348	3379	Evropskega raziskovalnega sveta	Evropski raziskovalni svet	ORG	ORG-ERC-European-Research-Council
+3413	3420	Bregant	Bregant	PER	PER-Tina-Bregant
+3546	3558	Tina Bregant	Tina Bregant	PER	PER-Tina-Bregant
+3952	4003	Kliničnega oddelka za hematologijo na UKC Ljubljana	Klinični oddelek za hematologijo na UKC Ljubljana	ORG	ORG-Department-Of-Hematology-Of-Clinical-Health-Center-Ljubljana
+4004	4013	Samo Zver	Samo Zver	PER	PER-Samo-Zver
+4051	4059	covid-19	covid-19	EVT	EVT-Covid-19

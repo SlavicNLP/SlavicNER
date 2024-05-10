@@ -1,0 +1,40 @@
+0	12	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+62	69	Брекзит	Брекзит	EVT	EVT-Brexit
+71	83	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+107	123	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+155	169	Великобритания	Великобритания	LOC	GPE-Great-Britain
+170	182	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+224	230	Лондон	Лондон	LOC	GPE-London
+263	266	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+268	274	Барние	Барние	PER	PER-Michel-Barnier
+374	380	Лондон	Лондон	LOC	GPE-London
+510	524	Великобритания	Великобритания	LOC	GPE-Great-Britain
+537	539	ЕС	ЕС	ORG	ORG-European-Union
+582	588	Барние	Барние	PER	PER-Michel-Barnier
+657	659	ЕС	ЕС	ORG	ORG-European-Union
+760	774	Великобритания	Великобритания	LOC	GPE-Great-Britain
+989	1007	Европейският съвет	Европейски съвет	ORG	ORG-European-Council
+1062	1068	Лондон	Лондон	LOC	GPE-London
+1136	1142	Барние	Барние	PER	PER-Michel-Barnier
+1185	1191	Лондон	Лондон	LOC	GPE-London
+1254	1256	ЕС	ЕС	ORG	ORG-European-Union
+1275	1289	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1350	1365	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+1380	1382	ЕС	ЕС	ORG	ORG-European-Union
+1396	1406	Люксембург	Люксембург	LOC	GPE-Luxembourg
+1465	1479	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1585	1599	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1602	1610	Ирландия	Ирландия	LOC	GPE-Ireland
+1611	1613	ЕС	ЕС	ORG	ORG-European-Union
+1656	1662	Барние	Барние	PER	PER-Michel-Barnier
+1744	1746	ЕС	ЕС	ORG	ORG-European-Union
+1842	1848	Барние	Барние	PER	PER-Michel-Barnier
+1885	1898	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+1900	1906	Барние	Барние	PER	PER-Michel-Barnier
+1977	1983	Дейвис	Дейвис	PER	PER-David-Davis
+2058	2064	Барние	Барние	PER	PER-Michel-Barnier
+2243	2245	ЕС	ЕС	ORG	ORG-European-Union
+2248	2262	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2374	2388	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2400	2402	ЕС	ЕС	ORG	ORG-European-Union
+2516	2534	Европейският съвет	Европейски съвет	ORG	ORG-European-Council

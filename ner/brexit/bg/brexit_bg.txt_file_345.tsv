@@ -1,0 +1,23 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+60	67	Брекзит	Брекзит	EVT	EVT-Brexit
+128	138	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+208	222	Великобритания	Великобритания	LOC	GPE-Great-Britain
+225	242	Европейския съю з	Европейски съюз	ORG	ORG-European-Union
+368	371	Мей	Мей	PER	PER-Theresa-May
+384	391	Ройтерс	Ройтерс	ORG	ORG-Reuters
+515	518	Мей	Мей	PER	PER-Theresa-May
+541	553	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+591	605	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+704	714	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+817	819	ЕС	ЕС	ORG	ORG-European-Union
+823	830	Брекзит	Брекзит	EVT	EVT-Brexit
+840	847	Ройтерс	Ройтерс	ORG	ORG-Reuters
+960	967	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1053	1056	Мей	Мей	PER	PER-Theresa-May
+1075	1082	Брекзит	Брекзит	EVT	EVT-Brexit
+1091	1098	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1142	1156	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1220	1230	Франс прес	Франс прес	ORG	ORG-France-Presse
+1292	1299	Брекзит	Брекзит	EVT	EVT-Brexit
+1379	1381	ЕС	ЕС	ORG	ORG-European-Union
+1390	1393	АФП	АФП	ORG	ORG-France-Presse

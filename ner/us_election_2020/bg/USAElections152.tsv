@@ -1,0 +1,19 @@
+0	16	Атанаска Маркова	Атанаска Маркова	PER	PER-Atanaska-Markova
+49	52	САЩ	САЩ	LOC	GPE-USA
+53	65	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+96	108	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+202	210	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+310	315	БГНЕС	БГНЕС	PRO	PRO-BGNES
+481	484	САЩ	САЩ	LOC	GPE-USA
+492	497	Харис	Харис	PER	PER-Kamala-Harris
+519	527	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+547	561	Вашингтон Пост	Вашингтон пост	PRO	PRO-Washington-Post
+612	617	Тръмп	Тръмп	PER	PER-Donald-Trump
+642	650	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+651	668	Брад Рафенспергер	Брад Рафенспергер	PER	PER-Brad-Raffensperger
+876	881	Тръмп	Тръмп	PER	PER-Donald-Trump
+929	941	Рафенспергер	Рафенспергер	PER	PER-Brad-Raffensperger
+955	963	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1032	1041	демократа	демократ	PER	ORG-Democratic-Party-USA
+1042	1052	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1067	1072	Тръмп	Тръмп	PER	PER-Donald-Trump

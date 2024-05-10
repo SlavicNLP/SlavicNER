@@ -1,0 +1,27 @@
+16	26	Сенаті США	Сенат США	ORG	ORG-United-States-Senate
+62	68	Трампа	Трамп	PER	PER-Donald-Trump
+120	130	Сенаті США	Сенат США	ORG	ORG-United-States-Senate
+201	216	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+249	267	Європейська правда	Європейська правда	ORG	PRO-European-Truth
+285	288	BBC	BBC	ORG	ORG-BBC-Ltd
+322	337	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+464	473	Капітолій	Капітолій	LOC	LOC-United-States-Capitol
+487	507	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+550	556	Сенату	Сенат	ORG	ORG-United-States-Senate
+560	573	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+586	593	Флориди	Флорида	LOC	GPE-Florida
+657	668	інавгурацію	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+686	697	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+742	757	Мітч Макконнелл	Мітч Макконнелл	PER	PER-Mitch-McConnell
+787	807	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+859	865	Сенату	Сенат	ORG	ORG-United-States-Senate
+898	903	Трамп	Трамп	PER	PER-Donald-Trump
+1068	1073	Сенат	Сенат	ORG	ORG-United-States-Senate
+1121	1132	Чака Шумера	Чак Шумер	PER	PER-Chuck-Schumer
+1169	1175	Палата	Палата	ORG	ORG-United-States-House-of-Representatives
+1216	1222	Трампа	Трамп	PER	PER-Donald-Trump
+1269	1272	США	США	LOC	GPE-USA
+1318	1327	Капітолій	Капітолій	LOC	LOC-United-States-Capitol
+1343	1350	Конгрес	Конгрес	ORG	ORG-United-States-Congress
+1381	1392	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1396	1403	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election

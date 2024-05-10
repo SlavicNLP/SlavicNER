@@ -1,0 +1,83 @@
+11	14	США	США	LOC	GPE-USA
+65	73	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+213	226	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+231	241	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+364	376	американских	американский	LOC	GPE-USA
+488	520	59-х президентских выборов в США	59-е президентские выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+542	548	Москве	Москва	LOC	GPE-Moscow
+561	570	Нью-Йорку	Нью-Йорк	LOC	GPE-New-York
+619	631	Нью-Гэмпшире	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+732	736	Гуам	Гуам	LOC	GPE-Territory-of-Guam
+784	787	США	США	LOC	GPE-USA
+874	880	Москве	Москва	LOC	GPE-Moscow
+932	935	США	США	LOC	GPE-USA
+1007	1013	Москве	Москва	LOC	GPE-Moscow
+1059	1077	Алеутских островах	Аллеутские острова	LOC	GPE-Aleutian-Islands
+1081	1087	Аляске	Аляска	LOC	GPE-Alaska
+1320	1329	демократы	демократы	PER	ORG-Democratic-Party-USA
+1407	1414	Байдена	Байден	PER	PER-Joe-Biden
+1450	1456	России	Россия	LOC	GPE-Russia
+1459	1466	Украине	Украина	LOC	GPE-Ukraine
+1468	1473	Трамп	Трамп	PER	PER-Donald-Trump
+1506	1515	Демократы	демократы	PER	ORG-Democratic-Party-USA
+1565	1570	Трамп	Трамп	PER	PER-Donald-Trump
+1593	1599	Хуавей	Хуавей	ORG	ORG-Huawei
+1685	1688	США	США	LOC	GPE-USA
+1718	1724	Хуавэй	Хуавей	ORG	ORG-Huawei
+1772	1780	китайцев	китайцы	PER	GPE-China
+1903	1909	Путина	Путин	PER	PER-Vladimir-Putin
+1919	1925	России	Россия	LOC	GPE-Russia
+1979	1989	Канье Уэст	Канье Уэст	PER	PER-Kanye-West
+1999	2005	Трампа	Трамп	PER	PER-Donald-Trump
+2363	2368	Трамп	Трамп	PER	PER-Donald-Trump
+2469	2477	твиттере	твиттер	PRO	PRO-Twitter
+2551	2556	Трамп	Трамп	PER	PER-Donald-Trump
+2601	2607	Байден	Байден	PER	PER-Joe-Biden
+2773	2778	Путин	Путин	PER	PER-Vladimir-Putin
+2811	2821	американцы	американцы	PER	GPE-USA
+2860	2866	Европа	Европа	LOC	LOC-Europe
+3033	3048	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3054	3060	Байден	Байден	PER	PER-Joe-Biden
+3115	3127	13-го Района	13-ый район	PRO	PRO-District-13
+3223	3228	Китай	Китай	LOC	GPE-China
+3249	3255	Путина	Путин	PER	PER-Vladimir-Putin
+3274	3279	Путин	Путин	PER	PER-Vladimir-Putin
+3280	3287	Хиллари	Хиллари	PER	PER-Hillary-Clinton
+3468	3475	Путиным	Путин	PER	PER-Vladimir-Putin
+3569	3576	Байдена	Байден	PER	PER-Joe-Biden
+3595	3609	Камалла Харрис	Камала Харрис	PER	PER-Kamala-Harris
+3695	3702	Дональд	Дональд	PER	PER-Donald-Trump
+3764	3779	Анатолий Чиквин	Анатолий Чиквин	PER	PER-Anatoly-Chikvin
+3809	3819	Калифорния	Калифорния	LOC	GPE-California
+3821	3831	Калифорния	Калифорния	LOC	GPE-California
+3889	3901	американской	американская	LOC	GPE-USA
+4322	4329	зеленых	зелёные	PER	ORG-Green-Party-USA
+4331	4345	либертерианцев	либертерианцы	PER	ORG-Liberterian-Party-USA
+4650	4660	американцы	американцы	PER	GPE-USA
+4786	4790	USPS	USPS	ORG	ORG-United-States-Postal-Service
+5147	5160	Priority Mail	Priority Mail	ORG	ORG-United-States-Postal-Service
+5803	5818	Анатолий Чиквин	Анатолий Чиквин	PER	PER-Anatoly-Chikvin
+6025	6030	Техас	Техас	LOC	GPE-Texas
+6103	6109	Трампа	Трам	PER	PER-Donald-Trump
+6112	6119	Фейсбук	Фейсбук	PRO	PRO-Facebook
+6151	6158	Байдена	Байден	PER	PER-Joe-Biden
+6370	6376	Трампа	Трамп	PER	PER-Donald-Trump
+6390	6393	BLM	BLM	PER	ORG-Black-Lives-Matter
+6394	6400	Antifa	Antifa	PER	ORG-Anti-fascist-movement
+6424	6434	демократов	демократы	PER	ORG-Democratic-Party-USA
+6533	6542	демократы	демократы	PER	ORG-Democratic-Party-USA
+6560	6565	Трамп	Трамп	PER	PER-Donald-Trump
+6632	6641	Демократы	демократы	PER	ORG-Democratic-Party-USA
+6828	6835	флориды	Флорида	LOC	GPE-Florida
+7091	7108	Аркадий Ротенберг	Аркадий Ротенберг	PER	PER-Аркадий-Роттенберг
+7113	7121	твиттере	твиттер	PRO	PRO-Twitter
+7186	7196	Геленджике	Геленджик	LOC	GPE-Gelendzhik
+7216	7226	Навального	Навальний	PER	PER-Alexei-Navalny
+7227	7237	Киру Ярмыш	Кира Ярмыш	PER	PER-Кира-Ярмыш
+7443	7450	Америки	Америка	LOC	GPE-USA
+7464	7470	Жасмин	Жасмин	PER	PER-Jasmine
+7584	7588	Mash	Mash	PRO	PRO-Mash
+7612	7632	Аркадием Ротенбергом	Аркадий Ротенберг	PER	PER-Аркадий-Роттенберг
+7669	7675	Путина	Путин	PER	PER-Vladimir-Putin
+7679	7688	Ротенберг	Ротенберг	PER	PER-Аркадий-Роттенберг
+7712	7723	Геленджиком	Геленджик	LOC	GPE-Gelendzhik

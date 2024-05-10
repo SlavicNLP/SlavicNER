@@ -1,0 +1,35 @@
+28	42	изборите в САЩ	избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+66	78	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+113	124	демократите	демократи	PER	ORG-Democratic-Party-USA
+125	135	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+235	256	електоралната колегия	електорална колегия	ORG	ORG-United-States-Electoral-College
+257	263	Байдън	Байдън	PER	PER-Joe-Biden
+273	278	Тръмп	Тръмп	PER	PER-Donald-Trump
+295	298	БНР	БНР	ORG	ORG-Bulgarian-National-Radio
+450	462	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+519	532	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+732	745	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+783	795	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+863	886	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+887	897	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1258	1279	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+1282	1296	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+1317	1323	Сената	Сенат	ORG	ORG-United-States-Senate
+1327	1338	демократите	демократи	PER	ORG-Democratic-Party-USA
+1359	1386	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+1403	1408	Тръмп	Тръмп	PER	PER-Donald-Trump
+1422	1429	Twitter	Twitter	PRO	PRO-Twitter
+1477	1488	демократите	демократи	PER	ORG-Democratic-Party-USA
+1719	1725	Байдън	Байдън	PER	PER-Joe-Biden
+1796	1805	Белия дом	Бял дом	LOC	LOC-White-House
+1806	1811	Тръмп	Тръмп	PER	PER-Donald-Trump
+1968	1973	Тръмп	Тръмп	PER	PER-Donald-Trump
+2061	2066	Тръмп	Тръмп	PER	PER-Donald-Trump
+2087	2094	Флорида	Флорида	LOC	GPE-Florida
+2116	2122	Байдън	Байдън	PER	PER-Joe-Biden
+2127	2136	Белия дом	Бял дом	LOC	LOC-White-House
+2220	2231	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2233	2242	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+2244	2251	Мичиган	Мичиган	LOC	GPE-Michigan
+2387	2392	Тръмп	Тръмп	PER	PER-Donald-Trump
+2491	2501	американци	американци	PER	GPE-USA

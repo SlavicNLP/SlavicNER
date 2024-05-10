@@ -1,0 +1,21 @@
+25	33	COVID-19	COVID-19	EVT	EVT-Covid-19
+182	193	коронавирус	коронавирус	EVT	EVT-Covid-19
+440	468	Единния информационен портал	Единен информационен портал	PRO	PRO-Unified-Information-Portal-Bulgaria
+768	781	PCR тестовете	PCR тест	PRO	PRO-PCR-Test
+930	939	PCR теста	PCR тест	PRO	PRO-PCR-Test
+990	1001	коронавирус	коронавирус	EVT	EVT-Covid-19
+1233	1243	пандемията	пандемия	EVT	EVT-Pandemic
+1279	1287	COVID-19	COVID-19	EVT	EVT-Covid-19
+1395	1406	коронавирус	коронавирус	EVT	EVT-Covid-19
+1568	1579	коронавирус	коронавирус	EVT	EVT-Covid-19
+1694	1704	София-град	София-град	LOC	GPE-Sofia
+1719	1724	Варна	Варна	LOC	GPE-Varna
+1735	1742	Пловдив	Пловдив	LOC	GPE-Plovdiv
+1801	1810	Търговище	Търговище	LOC	GPE-Targovishte
+1822	1827	Видин	Видин	LOC	GPE-Vidin
+1830	1836	Смолян	Смолян	LOC	GPE-Smolyan
+1909	1912	РЗИ	РЗИ	ORG	ORG-Regional-Health-Inspectorate-Bulgaria
+1979	1991	Летище София	Летище София	LOC	LOC-Sofia-airport
+2038	2044	Pfizer	Pfizer	ORG	ORG-Pfizer
+2055	2059	NOVA	NOVA	PRO	PRO-NOVATV
+2099	2115	Костадин Ангелов	Костадин Ангелов	PER	PER-Kostadin-Angelov

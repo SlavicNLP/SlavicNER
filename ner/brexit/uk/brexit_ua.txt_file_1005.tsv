@@ -1,0 +1,28 @@
+2	10	Британії	Британія	LOC	GPE-Great-Britain
+47	53	Brexit	Brexit	EVT	EVT-Brexit
+57	73	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+110	116	Brexit	Brexit	EVT	EVT-Brexit
+169	182	Стівен Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+203	209	Барклі	Барклі	PER	PER-Stiven-Barkli
+233	247	Домініка Рааба	Домінік Рааб	PER	PER-Dominic-Raab
+326	334	Британії	Британія	LOC	GPE-Great-Britain
+337	339	ЄС	ЄС	LOC	ORG-European-Union
+342	346	Рааб	Рааб	PER	PER-Dominic-Raab
+378	384	Brexit	Brexit	EVT	EVT-Brexit
+455	466	Девід Девіс	Девід Девіс	PER	PER-David-Davis
+514	522	Британії	Британія	LOC	GPE-Great-Britain
+525	527	ЄС	ЄС	LOC	ORG-European-Union
+534	540	Brexit	Brexit	EVT	EVT-Brexit
+543	549	Барклі	Барклі	PER	PER-Stiven-Barkli
+571	579	Британії	Британія	LOC	GPE-Great-Britain
+605	610	Leave	Leave	ORG	ORG-Leave-EU
+624	626	ЄС	ЄС	LOC	ORG-European-Union
+736	742	Барклі	Барклі	PER	PER-Stiven-Barkli
+799	827	Управлінні фінансових послуг	Управління фінансових послуг	ORG	ORG-Financial-services-of-the-United-Kingdom
+856	864	Barclays	Barclays	ORG	ORG-Barclays
+960	976	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+1013	1019	Brexit	Brexit	EVT	EVT-Brexit
+1035	1044	Брюсселем	Брюссель	LOC	GPE-Brussles
+1126	1132	Brexit	Brexit	EVT	EVT-Brexit
+1142	1161	Європейського союзу	Європейський союз	ORG	ORG-European-Union
+1179	1188	саміті ЄС	саміт ЄС	EVT	EVT-EU-summit

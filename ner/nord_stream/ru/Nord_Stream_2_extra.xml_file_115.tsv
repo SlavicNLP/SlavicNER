@@ -1,0 +1,22 @@
+6	18	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+27	30	США	США	LOC	GPE-USA
+48	52	СП-2	СП-2	PRO	PRO-Nord-Stream-2
+60	72	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+73	83	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+92	95	США	США	LOC	GPE-USA
+174	184	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+213	231	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+296	302	Европе	Европа	LOC	LOC-Europe
+311	314	США	США	LOC	GPE-USA
+330	334	Маас	Маас	PER	PER-Heiko-Maas
+358	376	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+514	520	Берлин	Берлин	LOC	GPE-Berlin
+563	574	Центральной	Центральная	LOC	LOC-Central-Europe
+577	593	Восточной Европы	Восточная Европа	LOC	LOC-Eastern-Europe
+636	640	Маас	Маас	PER	PER-Heiko-Maas
+740	742	ЕС	ЕС	ORG	ORG-European-Union
+837	840	США	США	LOC	GPE-USA
+848	854	России	Россия	LOC	GPE-Russia
+904	907	США	США	LOC	GPE-USA
+966	984	Allseas Group S.A.	Allseas Group S.A.	ORG	ORG-Allseas
+1029	1047	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2

@@ -1,0 +1,23 @@
+2	8	России	Россия	LOC	GPE-Russia
+31	39	Джонсона	Джонсон	PER	PER-Boris-Johnson
+93	108	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+151	164	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+344	352	Захарова	Захарова	PER	PER-Maria-Zaharova
+373	381	Facebook	Facebook	PRO	PRO-Facebook
+394	403	Захаровой	Захарова	PER	PER-Maria-Zaharova
+405	418	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+569	575	Кремля	Кремль	LOC	LOC-Moscow-Kremlin
+595	609	Великобритании	Великобритания	LOC	GPE-Great-Britain
+624	638	Великобритании	Великобритания	LOC	GPE-Great-Britain
+642	649	Новичок	Новичок	PRO	PRO-Novichok
+652	659	ЧМ-2018	ЧМ-2018	EVT	EVT-FIFA-World-Cup-2018
+703	711	Захарова	Захарова	PER	PER-Maria-Zaharova
+753	761	Джонсона	Джонсон	PER	PER-Boris-Johnson
+802	823	отравления в Эймсбери	отравление в Эймсбери	EVT	EVT-Amesbury-poisoning
+889	902	Даунинг-стрит	Даунинг-стрит	LOC	LOC-Downing-Street
+1066	1080	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1081	1091	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1115	1118	МИД	МИД	ORG	ORG-Foreign-Office
+1119	1134	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1242	1256	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1329	1335	Brexit	Brexit	EVT	EVT-Brexit

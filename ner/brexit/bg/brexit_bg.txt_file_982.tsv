@@ -1,0 +1,37 @@
+6	19	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+22	32	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+42	50	Брекзита	Брекзит	EVT	EVT-Brexit
+62	68	Берлин	Берлин	LOC	GPE-Berlin
+97	105	Брекзита	Брекзит	EVT	EVT-Brexit
+153	167	Великобритания	Великобритания	LOC	GPE-Great-Britain
+202	204	ЕС	ЕС	ORG	ORG-European-Union
+293	306	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+320	326	Берлин	Берлин	LOC	GPE-Berlin
+348	358	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+368	375	Ройтерс	Ройтерс	ORG	ORG-Reuters
+377	383	Меркел	Меркел	PER	PER-Angela-Merkel
+613	621	Брекзита	Брекзит	EVT	EVT-Brexit
+631	634	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+636	642	Лондон	Лондон	LOC	GPE-London
+721	728	Брюксел	Брюксел	LOC	GPE-Brussles
+746	756	британците	британци	PER	GPE-Great-Britain
+862	864	ЕС	ЕС	ORG	ORG-European-Union
+901	916	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+927	934	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1075	1081	Меркел	Меркел	PER	PER-Angela-Merkel
+1104	1106	ЕС	ЕС	ORG	ORG-European-Union
+1130	1138	Брекзита	Брекзит	EVT	EVT-Brexit
+1208	1210	ЕС	ЕС	ORG	ORG-European-Union
+1213	1223	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1329	1331	ЕС	ЕС	ORG	ORG-European-Union
+1368	1388	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1492	1506	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1530	1537	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1560	1566	Меркел	Меркел	PER	PER-Angela-Merkel
+1569	1572	Мей	Мей	PER	PER-Theresa-May
+1636	1640	Иран	Иран	LOC	GPE-Iran
+1698	1705	Техеран	Техеран	LOC	GPE-Tehran
+1715	1719	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+1781	1786	Сирия	Сирия	LOC	GPE-Syria
+1822	1828	Турция	Турция	LOC	GPE-Turkey
+1911	1915	НАТО	НАТО	ORG	ORG-NATO

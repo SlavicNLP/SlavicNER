@@ -1,0 +1,28 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+26	40	Великобритания	Великобритания	LOC	GPE-Great-Britain
+110	124	Великобритания	Великобритания	LOC	GPE-Great-Britain
+184	186	ЕС	ЕС	ORG	ORG-European-Union
+258	279	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+374	388	Великобритания	Великобритания	LOC	GPE-Great-Britain
+392	399	Брекзит	Брекзит	EVT	EVT-Brexit
+491	511	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+703	705	ЕС	ЕС	ORG	ORG-European-Union
+768	782	Великобритания	Великобритания	LOC	GPE-Great-Britain
+897	899	ЕС	ЕС	ORG	ORG-European-Union
+903	910	Брекзит	Брекзит	EVT	EVT-Brexit
+911	923	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+941	947	Лондон	Лондон	LOC	GPE-London
+993	1001	Норвегия	Норвегия	LOC	GPE-Norway
+1004	1013	Швейцария	Швейцария	LOC	GPE-Switzerland
+1030	1037	Брекзит	Брекзит	EVT	EVT-Brexit
+1065	1078	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+1162	1164	ЕС	ЕС	ORG	ORG-European-Union
+1204	1217	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+1245	1252	Брекзит	Брекзит	EVT	EVT-Brexit
+1347	1349	ЕС	ЕС	ORG	ORG-European-Union
+1672	1678	Дейвис	Дейвис	PER	PER-David-Davis
+1730	1735	Виена	Виена	LOC	GPE-Vienna
+1790	1810	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1878	1880	ЕС	ЕС	ORG	ORG-European-Union
+1971	1985	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2061	2071	Тереза Мей	Тереза Мей	PER	PER-Theresa-May

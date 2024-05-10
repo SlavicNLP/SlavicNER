@@ -1,0 +1,55 @@
+21	28	Polaków	Polacy	PER	GPE-Poland
+32	39	Wyspach	Wyspy	LOC	GPE-Great-Britain
+71	78	brexitu	Brexit	EVT	EVT-Brexit
+211	218	brexitu	Brexit	EVT	EVT-Brexit
+219	233	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+289	306	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+309	326	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+565	579	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+669	673	Unią	Unia	ORG	ORG-European-Union
+676	691	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+693	700	Barnier	Barnier	PER	PER-Michel-Barnier
+977	984	brexitu	Brexit	EVT	EVT-Brexit
+985	996	David Davis	David Davis	PER	PER-David-Davis
+1010	1041	ministerstwo spraw wewnętrznych	Ministerstwo spraw wewnętrznych	ORG	ORG-Home-Office-UK
+1180	1203	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1206	1223	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1276	1281	Davis	Davis	PER	PER-David-Davis
+1399	1416	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1420	1429	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1620	1625	Davis	Davis	PER	PER-David-Davis
+1706	1714	Irlandią	Irlandia	LOC	GPE-Ireland
+1717	1734	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+1738	1746	brexicie	Brexit	EVT	EVT-Brexit
+1770	1785	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1854	1859	Davis	Davis	PER	PER-David-Davis
+1870	1879	Londynowi	Londyn	LOC	GPE-London
+1882	1890	Brukseli	Bruksela	LOC	GPE-Brussles
+2179	2192	Davida Davisa	David Davis	PER	PER-David-Davis
+2196	2204	Brukseli	Bruksela	LOC	GPE-Brussles
+2248	2250	UE	UE	ORG	ORG-European-Union
+2388	2403	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2499	2507	Brukseli	Bruksela	LOC	GPE-Brussles
+2555	2586	ministerstwo spraw wewnętrznych	Ministerstwo spraw wewnętrznych	ORG	ORG-Home-Office-UK
+2615	2632	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2685	2693	brexicie	Brexit	EVT	EVT-Brexit
+2816	2824	brexicie	Brexit	EVT	EVT-Brexit
+2957	2959	UE	UE	ORG	ORG-European-Union
+2980	2997	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3006	3013	brexitu	Brexit	EVT	EVT-Brexit
+3369	3375	Polacy	Polacy	PER	GPE-Poland
+3379	3386	Wyspach	Wyspy	LOC	GPE-Great-Britain
+3390	3407	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3429	3436	Polaków	Polacy	PER	GPE-Poland
+3460	3475	Companies House	Companies House	ORG	ORG-Companies-House
+3589	3597	Londynie	Londyn	LOC	GPE-London
+3620	3626	Polsce	Polska	LOC	GPE-Poland
+3648	3653	Tesco	Tesco	ORG	ORG-Tesco
+3655	3666	Rolls Royce	Rolls Royce	ORG	ORG-Rolls-Royce-ltd
+3668	3690	Royal Bank of Scotland	Royal Bank of Scotland	ORG	ORG-Royal-Bank-of-Scotland
+3692	3699	EasyJet	EasyJet	ORG	ORG-EasyJet
+3702	3713	BAE Systems	BAE Systems	ORG	ORG-BAE-Systems
+3715	3730	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3759	3761	UE	UE	ORG	ORG-European-Union
+3799	3808	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+3937	3939	UE	UE	ORG	ORG-European-Union

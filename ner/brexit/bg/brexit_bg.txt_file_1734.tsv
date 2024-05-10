@@ -1,0 +1,10 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+52	54	ЕС	ЕС	ORG	ORG-European-Union
+60	67	Брекзит	Брекзит	EVT	EVT-Brexit
+115	135	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+170	177	Брекзит	Брекзит	EVT	EVT-Brexit
+185	193	Политико	Политико	ORG	ORG-Politico
+261	268	Брекзит	Брекзит	EVT	EVT-Brexit
+536	550	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+666	673	Гардиън	Гардиън	PRO	PRO-The-Guardian
+799	801	ЕС	ЕС	ORG	ORG-European-Union

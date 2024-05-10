@@ -1,0 +1,24 @@
+0	7	Francja	Francja	LOC	GPE-France
+17	24	Japonię	Japonia	LOC	GPE-Japan
+40	47	brexitu	Brexit	EVT	EVT-Brexit
+70	87	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+187	194	Wyspach	Wyspy	LOC	GPE-Great-Britain
+248	266	Jean-Yves Le Drian	Jean-Yves Le Drian	PER	PER-Jean-Yves-Le-Drian
+292	299	Japonii	Japonia	LOC	GPE-Japan
+340	348	brexitem	Brexit	EVT	EVT-Brexit
+358	368	Shinzo Abe	Shinzo Abe	PER	PER-Shinzo-Abe
+406	423	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+430	445	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+541	548	Wyspach	Wyspy	LOC	GPE-Great-Britain
+601	608	Nissana	Nissan	ORG	ORG-Nissan
+611	616	Hondę	Honda	ORG	ORG-Honda
+677	694	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+697	714	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+749	757	Le Drian	Le Drian	PER	PER-Jean-Yves-Le-Drian
+866	881	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+948	952	Unią	Unia	ORG	ORG-European-Union
+968	980	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1083	1092	Taro Kono	Taro Kono	PER	PER-Taro-Kono
+1103	1110	Francja	Francja	LOC	GPE-France
+1194	1211	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1319	1326	Wyspach	Wyspy	LOC	GPE-Great-Britain

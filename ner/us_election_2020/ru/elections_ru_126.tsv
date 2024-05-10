@@ -1,0 +1,184 @@
+81	86	Трамп	Трамп	PER	PER-Donald-Trump
+138	145	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+228	242	Колина Пауэлла	Колин Пауэлл	PER	PER-Colin-Powell
+248	261	Джона Кейсика	Джон Кейсик	PER	PER-John-Kasich
+267	276	Рона Пола	Рон Пол	PER	PER-Ron-Paul
+282	301	Фейт Пятнистый Орёл	Фейт Пятнистый Орёл	PER	PER-Faith-Spotted-Eagle
+308	322	Берни Сандерса	Берни Сандерс	PER	PER-Bernie-Sanders
+502	505	США	США	LOC	GPE-USA
+949	957	Колумбия	Колумбия	LOC	GPE-Colombia
+1003	1016	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1062	1077	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+1104	1123	коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1188	1194	Трампа	Трамп	PER	PER-Donald-Trump
+1204	1211	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+1223	1230	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+1241	1247	Трампа	Трамп	PER	PER-Donald-Trump
+1371	1374	США	США	LOC	GPE-USA
+1510	1523	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1569	1572	США	США	LOC	GPE-USA
+1591	1607	Рональда Рейгана	Рональд Рейган	PER	PER-Ronald-Reagan
+1675	1678	США	США	LOC	GPE-USA
+1767	1777	российском	российский	LOC	GPE-Russia
+1872	1878	Трампа	Трамп	PER	PER-Donald-Trump
+1906	1913	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+1970	2013	Национальный комитет Демократической партии	Национальный комитет Демократической партии	ORG	ORG-Democratic-National-Committee
+2065	2068	США	США	LOC	GPE-USA
+2069	2079	российских	российский	LOC	GPE-Russia
+2095	2097	RT	RT	ORG	ORG-RT
+2100	2107	Sputnik	Sputnik	ORG	ORG-Sputnik
+2119	2168	Российского института стратегических исследований	Российский институт стратегических исследований	ORG	ORG-Russian-Institute-for-Strategic-Studies
+2214	2245	Агентства интернет-исследований	Агентство интернет-исследований	ORG	ORG-Internet-Research-Agency
+2315	2321	Трампа	Трамп	PER	PER-Donald-Trump
+2324	2359	Российским фондом прямых инвестиций	Российский Фонд Прямых Инвестиций	ORG	ORG-Russian-Direct-Investment-Fund
+2406	2408	RT	RT	ORG	ORG-RT
+2421	2434	Майкла Флинна	Майкл Флинн	PER	PER-Michael-Flynn
+2445	2455	Российские	Российский	LOC	GPE-Russia
+2527	2533	Трампа	Трамп	PER	PER-Donald-Trump
+2587	2600	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+2677	2680	США	США	LOC	GPE-USA
+2692	2695	ФБР	ФБР	ORG	ORG-FBI
+2696	2713	Робертом Мюллером	Роберт Мюллер	PER	Роберт Мюллер
+2795	2801	Трампа	Трамп	PER	PER-Donald-Trump
+2803	2816	Майкла Флинна	Майкл Флинн	PER	PER-Michael-Flynn
+2900	2906	Трампа	Трамп	PER	PER-Donald-Trump
+3059	3061	RT	RT	ORG	ORG-RT
+3064	3071	Sputnik	Sputnik	ORG	ORG-Sputnik
+3186	3189	США	США	LOC	GPE-USA
+3190	3205	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+3231	3237	Сенате	Сенат	ORG	ORG-United-States-Senate
+3262	3265	США	США	LOC	GPE-USA
+3294	3316	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3317	3320	США	США	LOC	GPE-USA
+3402	3417	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+3461	3483	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3560	3567	Вермонт	Вермонт	LOC	GPE-Vermont
+3568	3581	Берни Сандерс	Берни Сандерс	PER	PER-Bernie-Sanders
+3617	3639	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3743	3753	демократов	демократ	ORG	ORG-Democratic-Party-USA
+3784	3794	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3923	3930	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+3999	4007	Колумбия	Колумбия	LOC	GPE-Colombia
+4027	4042	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+4085	4088	США	США	LOC	GPE-USA
+4092	4114	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+4139	4147	Виргиния	Вирджиния	LOC	GPE-Virginia
+4148	4156	Тим Кейн	Тим Кейн	PER	PER-Tim-Kane
+4189	4211	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+4228	4241	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+4285	4313	Северных Марианских Островах	Северные Марианские острова	LOC	GPE-Northern-Mariana-Islands
+4344	4347	США	США	LOC	GPE-USA
+4351	4373	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+4392	4399	Индианы	Индиана	LOC	GPE-Indiana
+4400	4409	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+4417	4439	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+4482	4497	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+4534	4537	США	США	LOC	GPE-USA
+4541	4553	Майкла Пенса	Майкл Пенс	PER	PER-Mike-Pence
+4595	4598	США	США	LOC	GPE-USA
+4602	4624	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+4950	4953	США	США	LOC	GPE-USA
+4963	4985	Либертарианской партии	Либертарианская партия	ORG	ORG-Libertarian-Party-USA
+5027	5040	Гэри Джонсона	Гэри Джонсон	PER	PER-Gary-Johnson
+5077	5080	США	США	LOC	GPE-USA
+5084	5097	Уильяма Уэлда	Уильям Уэлд	PER	PER-William-Weld
+5139	5142	США	США	LOC	GPE-USA
+5146	5168	Либертарианской партии	Либертарианская партия	ORG	ORG-Libertarian-Party-USA
+5416	5430	партии зелёных	партия зеленых	ORG	ORG-Green-Party-USA
+5474	5485	Джилл Стайн	Джилл Стайн	PER	PER-Jill-Stein
+5522	5525	США	США	LOC	GPE-USA
+5529	5542	Аджаму Барака	Аджаму Барака	PER	PER-Ajamu-Baraka
+5584	5587	США	США	LOC	GPE-USA
+5591	5605	партии зелёных	партия зеленых	ORG	ORG-Green-Party-USA
+5609	5623	Партии зелёных	Партия зеленых	ORG	ORG-Green-Party-USA
+5764	5786	Конституционной партии	Конституционная партия	ORG	ORG-Constitution-Party-USA
+5852	5874	Конституционной партии	Конституционная партия	ORG	ORG-Constitution-Party-USA
+6045	6053	Колумбия	Колумбия	LOC	GPE-Colombia
+6126	6152	Независимой партии Флориды	Независимая партия Флориды	ORG	ORG-Independent-Party-of-Florida
+6154	6182	Независимой партии Миннесоты	Независимая партия Миннесоты	ORG	ORG-Independent-Party-of-Minnesota
+6184	6217	независимой партии Южная Каролина	независимая партия Южной Каролины	ORG	ORG-South-Carolina-Independent-Party
+6315	6341	американской партии Дельта	американская партия Дельта	ORG	ORG-American-Delta-party
+6408	6434	американской партии Дельта	американская партия Дельта	ORG	ORG-American-Delta-party
+6649	6657	Колумбия	Колумбия	LOC	GPE-Colombia
+7114	7117	США	США	LOC	GPE-USA
+7121	7135	Мими Солтисайк	Мими Солтисайк	PER	PER-Mimi-Soltysik
+7171	7198	Социалистической партии США	Социалистическая партия США	ORG	ORG-Socialist-Party-of-The-United-States
+7208	7218	Калифорния	Калифорния	LOC	GPE-California
+7262	7267	Айова	Айова	LOC	GPE-Iowa
+7329	7344	демократических	демократический	ORG	ORG-Democratic-Party-USA
+7351	7366	республиканских	республиканский	ORG	ORG-Republican-Party-USA
+7397	7400	США	США	LOC	GPE-USA
+7408	7418	демократов	демократ	ORG	ORG-Democratic-Party-USA
+7450	7465	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+7476	7489	Берни Сандерс	Берни Сандерс	PER	PER-Bernie-Sanders
+7530	7544	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+7545	7553	Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+7588	7601	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+7610	7621	Марко Рубио	Марко Рубио	PER	PER-Marco-Rubio
+7702	7713	Нью-Гэмпшир	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+8039	8054	республиканской	республиканский	ORG	ORG-Republican-Party-USA
+8057	8072	демократических	демократический	ORG	ORG-Democratic-Party-USA
+8111	8114	США	США	LOC	GPE-USA
+8124	8139	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+8142	8155	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+8369	8381	Американская	Американский	LOC	GPE-USA
+8393	8402	Белый дом	Белый дом	ORG	ORG-The-White-House
+8482	8492	российских	российский	LOC	GPE-Russia
+8590	8593	США	США	LOC	GPE-USA
+8594	8605	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+8629	8641	американские	американские	LOC	GPE-USA
+8657	8663	Москве	Москва	LOC	GPE-Moscow
+8855	8858	США	США	LOC	GPE-USA
+9448	9463	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+9568	9581	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+9628	9643	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+9749	9755	Трампа	Трамп	PER	PER-Donald-Trump
+9765	9772	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+9900	9913	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+9916	9931	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+9941	9978	президентских выборов в США 2016 года	президентские выборы в США 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+10025	10028	США	США	LOC	GPE-USA
+10029	10044	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+10110	10113	США	США	LOC	GPE-USA
+10153	10168	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+10225	10234	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+10311	10324	Лос-Анджелесе	Лос-Анджелес	LOC	GPE-Los-Angeles
+10327	10336	Портленде	Портленд	LOC	GPE-Portland
+10610	10625	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+10639	10648	Портланде	Портланд	LOC	GPE-Portland
+10703	10716	Лос-Анджелесе	Лос-Анджелес	LOC	GPE-Los-Angeles
+10724	10733	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+10869	10884	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+10950	10967	Великолепной миле	Великолепная Миля	LOC	GPE-Magnificent-Mile
+10970	10976	Чикаго	Чикаго	LOC	GPE-Chicago
+11014	11017	США	США	LOC	GPE-USA
+11137	11152	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+11268	11271	США	США	LOC	GPE-USA
+11312	11317	Техас	Техас	LOC	GPE-Texas
+11343	11358	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+11365	11378	Джона Кейсика	Джон Кейсик	PER	PER-John-Kasich
+11381	11390	Рона Пола	Рон Пол	PER	PER-Ron-Paul
+11422	11431	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+11458	11473	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+11501	11515	Колина Пауэлла	Колин Пауэлл	PER	PER-Colin-Powell
+11529	11549	Веру Пятнистого Орла	Вера Пятнистый Орёл	PER	PER-Faith-Spotted-Eagle
+11637	11650	Dakota Access	Dakota Access	PRO	PRO-Dakota-Access-Pipeline
+11678	11685	Гавайев	Гавайи	LOC	GPE-Hawaii
+11702	11716	Берни Сандерса	Берни Сандерс	PER	PER-Bernie-Sanders
+11768	11771	Мэн	Мэн	LOC	GPE-Maine
+11839	11846	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+11889	11898	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+11969	11982	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+12117	12123	Сената	Сенат	ORG	ORG-United-States-Senate
+12138	12141	США	США	LOC	GPE-USA
+12228	12240	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+12326	12339	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+12340	12355	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+12442	12455	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+12458	12473	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+12620	12626	Трампа	Трамп	PER	PER-Donald-Trump
+12643	12650	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+12662	12667	Трамп	Трамп	PER	PER-Donald-Trump
+12688	12695	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+12715	12727	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+12749	12787	Федеральная избирательная комиссия США	Федеральная избирательная комиссия США	ORG	ORG-Federal-Elections-Commission

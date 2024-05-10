@@ -1,0 +1,14 @@
+0	12	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+52	58	Brexit	Brexit	EVT	EVT-Brexit
+85	91	Brexit	Brexit	EVT	EVT-Brexit
+97	109	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+178	191	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+199	203	Рааб	Рааб	PER	PER-Dominic-Raab
+215	275	министерство по делам жилищного строительства Великобритании	министерство по делам жилищного строительства Великобритании	ORG	ORG-Ministry-of-Housing-Communities-and-Local
+360	374	Великобритании	Великобритания	LOC	GPE-Great-Britain
+526	535	Евросоюза	Евросоюз	ORG	ORG-European-Union
+571	585	Доминика Рааба	Доминик Рааб	PER	PER-Dominic-Raab
+675	680	Дэвис	Дэвис	PER	PER-David-Davis
+723	733	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+750	752	ЕС	ЕС	ORG	ORG-European-Union
+814	823	Евросоюза	Евросоюз	ORG	ORG-European-Union

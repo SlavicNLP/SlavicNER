@@ -1,0 +1,17 @@
+25	32	Londýně	Londýn	LOC	GPE-London
+57	64	brexitu	brexit	EVT	EVT-Brexit
+84	90	LONDÝN	LONDÝN	LOC	GPE-London
+91	98	Reuters	Reuters	ORG	ORG-Reuters
+128	136	Británie	Británie	LOC	GPE-Great-Britain
+139	152	Evropské unie	Evropská unie	ORG	ORG-European-Union
+180	187	Londýna	Londýn	LOC	GPE-London
+238	245	brexitu	brexit	EVT	EVT-Brexit
+335	348	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+368	383	Theresu Mayovou	Theresa Mayová	PER	PER-Theresa-May
+428	434	brexit	brexit	EVT	EVT-Brexit
+589	596	brexitu	brexit	EVT	EVT-Brexit
+601	618	britský parlament	britský parlament	ORG	ORG-British-Parlament
+663	669	Mayové	Mayová	PER	PER-Theresa-May
+684	690	Britům	Britové	PER	GPE-Great-Britain
+756	769	People’s Vote	People’s Vote	ORG	ORG-Peoples-Vote
+789	795	brexit	brexit	EVT	EVT-Brexit

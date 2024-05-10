@@ -1,0 +1,50 @@
+1	9	Газпрому	Газпром	ORG	ORG-Gazprom
+23	32	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+75	83	Британії	Британія	LOC	GPE-Great-Britain
+117	124	Газпром	Газпром	ORG	ORG-Gazprom
+205	213	Газпрому	Газпром	ORG	ORG-Gazprom
+228	234	Англії	Англія	LOC	GPE-England
+238	244	Уельсу	Уельс	LOC	GPE-Wales
+270	277	Газпром	Газпром	ORG	ORG-Gazprom
+306	315	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+316	323	України	Україна	LOC	GPE-Ukraine
+373	379	Англії	Англія	LOC	GPE-England
+383	389	Уельсу	Уельс	LOC	GPE-Wales
+414	428	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+474	481	Газпром	Газпром	ORG	ORG-Gazprom
+497	506	Міненерго	Міненерго	ORG	ORG-Ministry-of-Energy-Ukraine
+507	512	Росії	Росія	LOC	GPE-Russia
+566	572	Англії	Англія	LOC	GPE-England
+576	582	Уельсу	Уельс	LOC	GPE-Wales
+726	740	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+757	765	Газпрому	Газпром	ORG	ORG-Gazprom
+840	854	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+897	906	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+907	914	України	Україна	LOC	GPE-Ukraine
+966	973	Газпром	Газпром	ORG	ORG-Gazprom
+1054	1062	Газпрому	Газпром	ORG	ORG-Gazprom
+1077	1083	Англії	Англія	LOC	GPE-England
+1087	1093	Уельсу	Уельс	LOC	GPE-Wales
+1169	1194	Стокгольмського арбітражу	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+1293	1300	Газпром	Газпром	ORG	ORG-Gazprom
+1420	1425	УНІАН	УНІАН	ORG	ORG-UNIAN
+1478	1485	Газпром	Газпром	ORG	ORG-Gazprom
+1511	1521	Нафтогазом	Нафтогаз	ORG	ORG-Naftogaz
+1525	1550	Стокгольмському арбітражі	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+1815	1824	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+1844	1851	Газпром	Газпром	ORG	ORG-Gazprom
+1920	1928	Україною	Україна	LOC	GPE-Ukraine
+1972	1979	Газпром	Газпром	ORG	ORG-Gazprom
+2004	2012	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+2092	2100	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+2101	2108	України	Україна	LOC	GPE-Ukraine
+2148	2156	Газпрому	Газпром	ORG	ORG-Gazprom
+2236	2242	Англії	Англія	LOC	GPE-England
+2244	2253	Швейцарії	Швейцарія	LOC	GPE-Switzerland
+2257	2268	Нідерландах	Нідерланди	LOC	GPE-Holland
+2360	2377	Північний потік-1	Північний потік-1	ORG	ORG-Nord-Stream-AG
+2382	2399	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+2421	2428	Газпром	Газпром	ORG	ORG-Gazprom
+2445	2451	Швеції	Швеція	LOC	GPE-Sweden
+2481	2506	Стокгольмського арбітражу	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+2572	2580	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz

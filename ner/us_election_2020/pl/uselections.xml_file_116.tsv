@@ -1,0 +1,14 @@
+19	22	USA	USA	LOC	GPE-USA
+39	48	Mosbacher	Mosbacher	PER	PER-Georgette-Mosbacher
+100	103	USA	USA	LOC	GPE-USA
+161	170	Mosbacher	Mosbacher	PER	PER-Georgette-Mosbacher
+274	279	Trump	Trump	PER	PER-Donald-Trump
+290	299	Florydzie	Floryda	LOC	GPE-Florida
+358	367	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+370	378	Michigan	Michigan	LOC	GPE-Michigan
+421	430	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+579	604	Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+785	804	Georgette Mosbacher	Georgette Mosbacher	PER	PER-Georgette-Mosbacher
+808	817	Twitterze	Twitter	PRO	PRO-Twitter
+887	893	Polską	Polska	LOC	GPE-Poland
+896	917	Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA

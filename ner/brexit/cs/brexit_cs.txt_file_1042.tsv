@@ -1,0 +1,32 @@
+15	17	EU	EU	ORG	ORG-European-Union
+63	65	HN	HN	PRO	PRO-Hospodarske-Noviny
+77	100	ministerstva pro brexit	ministerstvo pro brexit	ORG	ORG-Ministry-of-Brexity
+129	135	Brexit	Brexit	EVT	EVT-Brexit
+143	151	Británii	Británie	LOC	GPE-Great-Britain
+203	205	HN	HN	PRO	PRO-Hospodarske-Noviny
+206	225	Suella Bravermanová	Suella Bravermanová	PER	PER-Suella-Braverman
+250	273	ministerstvu pro brexit	ministerstvo pro brexit	ORG	ORG-Ministry-of-Brexity
+347	359	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+393	397	Číny	Čína	LOC	GPE-China
+404	417	Evropské unie	Evropská unie	ORG	ORG-European-Union
+421	427	Kanady	Kanada	LOC	GPE-Canada
+476	489	studené války	studená válka	EVT	EVT-Cold-War
+491	505	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+528	530	EU	EU	ORG	ORG-European-Union
+746	758	Bravermanová	Bravermanová	PER	PER-Suella-Braverman
+800	802	EU	EU	ORG	ORG-European-Union
+936	943	Britové	Britové	PER	GPE-Great-Britain
+944	946	EU	EU	ORG	ORG-European-Union
+1025	1032	brexitu	brexit	EVT	EVT-Brexit
+1043	1049	Londýn	Londýn	LOC	GPE-London
+1184	1186	EU	EU	ORG	ORG-European-Union
+1285	1303	Spojené království	Spojené království	LOC	GPE-Great-Britain
+1305	1307	EU	EU	ORG	ORG-European-Union
+1358	1365	Britové	Britové	PER	GPE-Great-Britain
+1493	1511	Spojené království	Spojené království	LOC	GPE-Great-Britain
+1554	1560	Evropu	Evropa	LOC	LOC-Europe
+1684	1692	Sam Lowe	Sam Lowe	PER	PER-Sam-Lowe
+1707	1733	Centre for European Reform	Centre for European Reform	ORG	ORG-Centre-For-European-Reform
+1745	1761	Business Insider	Business Insider	PRO	PRO-Business-Insider
+1805	1813	Británii	Británie	LOC	GPE-Great-Britain
+1869	1884	Spojenými státy	Spojené státy	LOC	GPE-USA

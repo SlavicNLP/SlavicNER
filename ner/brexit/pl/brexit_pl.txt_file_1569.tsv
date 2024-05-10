@@ -1,0 +1,49 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+116	122	Brexit	Brexit	EVT	EVT-Brexit
+190	213	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+297	304	Londynu	Londyn	LOC	GPE-London
+305	307	UE	UE	ORG	ORG-European-Union
+468	474	Brexit	Brexit	EVT	EVT-Brexit
+790	796	Polacy	Polacy	PER	GPE-Poland
+859	866	Polaków	Polacy	PER	GPE-Poland
+883	900	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1053	1076	Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1342	1350	Brexicie	Brexit	EVT	EVT-Brexit
+1351	1354	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+1381	1388	Wyspach	Wyspy	LOC	GPE-Great-Britain
+1589	1610	Michaela Dembinskiego	Michael Dembinski	PER	PER-Michael-Dembinski
+1629	1662	Polsko-Brytyjskiej Izby Handlowej	Polsko-Brytyjska Izba Handlowa	ORG	ORG-British-Polish-Chamber-of-Commerce
+1703	1710	Polaków	Polacy	PER	GPE-Poland
+1814	1831	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2111	2119	Brexicie	Brexit	EVT	EVT-Brexit
+2120	2126	Londyn	Londyn	LOC	GPE-London
+2341	2344	PRL	PRL	LOC	GPE-Poland
+2627	2660	Polsko-Brytyjskiej Izby Handlowej	Polsko-Brytyjska Izba Handlowa	ORG	ORG-British-Polish-Chamber-of-Commerce
+2729	2731	UE	UE	ORG	ORG-European-Union
+2803	2809	Polska	Polska	LOC	GPE-Poland
+2821	2824	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+2911	2928	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3103	3105	UE	UE	ORG	ORG-European-Union
+3108	3123	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3223	3227	CETA	CETA	PRO	PRO-CETA
+3293	3295	UE	UE	ORG	ORG-European-Union
+3394	3396	UE	UE	ORG	ORG-European-Union
+3399	3405	Polska	Polska	LOC	GPE-Poland
+3456	3471	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3518	3520	UE	UE	ORG	ORG-European-Union
+3534	3537	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+3539	3556	Michael Dembinski	Michael Dembinski	PER	PER-Michael-Dembinski
+3626	3633	Londynu	Londyn	LOC	GPE-London
+3699	3714	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3842	3849	Francja	Francja	LOC	GPE-France
+3887	3893	Londyn	Londyn	LOC	GPE-London
+3940	3949	Francuzów	Francuzi	PER	GPE-France
+3977	3982	Wyspy	Wyspy	LOC	GPE-Great-Britain
+4092	4104	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+4129	4137	Polakami	Polacy	PER	GPE-Poland
+4183	4186	USA	USA	LOC	GPE-USA
+4188	4193	Indii	Indie	LOC	GPE-India
+4196	4200	Chin	Chiny	LOC	GPE-China
+4348	4357	Dembinski	Dembinski	PER	PER-Michael-Dembinski
+4502	4510	Brexicie	Brexit	EVT	EVT-Brexit
+4786	4793	Brexitu	Brexit	EVT	EVT-Brexit

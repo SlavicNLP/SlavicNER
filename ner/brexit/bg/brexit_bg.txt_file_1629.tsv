@@ -1,0 +1,12 @@
+52	59	Брекзит	Брекзит	EVT	EVT-Brexit
+70	76	Лондон	Лондон	LOC	GPE-London
+102	109	Брекзит	Брекзит	EVT	EVT-Brexit
+110	123	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+156	176	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+216	218	ЕС	ЕС	ORG	ORG-European-Union
+295	302	Ройтерс	Ройтерс	ORG	ORG-Reuters
+494	500	Дейвис	Дейвис	PER	PER-David-Davis
+615	617	ЕС	ЕС	ORG	ORG-European-Union
+654	675	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+681	701	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+729	736	Брекзит	Брекзит	EVT	EVT-Brexit

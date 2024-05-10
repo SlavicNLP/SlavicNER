@@ -1,0 +1,108 @@
+9	12	США	США	LOC	GPE-USA
+53	59	Трампа	Трамп	PER	PER-Donald-Trump
+62	68	России	Россия	LOC	GPE-Russia
+85	98	Наталка Писня	Наталка Писня	PER	PER-Natalka-Pisnya
+100	114	Сергей Горяшко	Сергей Горяшко	PER	PER-Sergey-Goryashko
+117	125	Би-би-си	Би-би-си	ORG	ORG-BBC-Ltd
+127	136	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+155	181	Промежуточные выборы в США	Промежуточные выборы в США	EVT	EVT-2018-United-States-Election
+303	318	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+352	363	российского	российский	LOC	GPE-Russia
+413	428	Роберта Мюллера	Роберт Мюллер	PER	Роберт Мюллер
+474	483	демократы	демократ	ORG	ORG-Democratic-Party-USA
+550	563	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+642	645	США	США	LOC	GPE-USA
+646	657	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+723	736	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+908	911	США	США	LOC	GPE-USA
+988	996	Мексикой	Мексика	LOC	GPE-Mexico
+1169	1173	SSRS	SSRS	ORG	ORG-SSRS
+1209	1217	Си-эн-эн	Си-эн-эн	ORG	ORG-SNN
+1222	1232	демократов	демократ	ORG	ORG-Democratic-Party-USA
+1284	1299	республиканцами	республиканец	ORG	ORG-Republican-Party-USA
+1342	1357	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1405	1409	SSRS	SSRS	ORG	ORG-SSRS
+1425	1431	Трампа	Трамп	PER	PER-Donald-Trump
+1596	1610	New York Times	New York Times	PRO	PRO-The-New-York-Times
+1673	1685	американская	американский	LOC	GPE-USA
+1803	1806	США	США	LOC	GPE-USA
+1885	1899	Билла Клинтона	Бил Клинтон	PER	PER-Bill-Clinton
+1986	1995	демократы	демократ	ORG	ORG-Democratic-Party-USA
+2028	2050	палатой представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+2066	2080	республиканцам	республиканец	ORG	ORG-Republican-Party-USA
+2115	2136	Джорджа Буша-младшего	Джордж Буш-младший	PER	PER-George-Bush-Jr
+2263	2288	иракской военной кампании	иракская военная кампания	EVT	EVT-Iraqi-Military-Campaign
+2318	2327	Белый дом	Белый дом	ORG	ORG-The-White-House
+2355	2370	урагана Катрина	ураган Катрина	EVT	EVT-Hurricane-Katrina
+2450	2464	республиканцам	республиканец	ORG	ORG-Republican-Party-USA
+2479	2500	палате представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+2504	2527	Русская служба Би-би-си	Русская служба Би-би-си	ORG	ORG-BBC-News-Russian
+2579	2591	выборов-2018	выборы-2018	EVT	EVT-2018-United-States-Election
+2652	2655	США	США	LOC	GPE-USA
+2684	2693	Демократы	демократ	ORG	ORG-Democratic-Party-USA
+2717	2738	палате представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+2740	2753	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+2804	2815	Белого дома	Белый дом	ORG	ORG-The-White-House
+2924	2934	парламента	парламент	ORG	ORG-British-Parlament
+2958	2964	Трампа	Трамп	PER	PER-Donald-Trump
+3213	3216	США	США	LOC	GPE-USA
+3219	3222	ООН	ООН	ORG	ORG-United-Nations
+3291	3301	демократов	демократ	ORG	ORG-Democratic-Party-USA
+3348	3369	палаты представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+3370	3382	Нэнси Пэлоси	Нэнси Пэлоси	PER	PER-Nancy-Pelosi
+3436	3465	Акт о защите гражданских прав	Акт о защите гражданских прав	PRO	PRO-US-The-Civil-Rights-Act
+3486	3499	администрации	администрация	ORG	ORG-US-Executive-Office-of-the-President
+3631	3644	администрации	администрация	ORG	ORG-US-Executive-Office-of-the-President
+3645	3651	Трампа	Трамп	PER	PER-Donald-Trump
+3727	3730	США	США	LOC	GPE-USA
+3930	3936	России	Россия	LOC	GPE-Russia
+3949	3959	демократов	демократ	ORG	ORG-Democratic-Party-USA
+4009	4031	Брукингского института	Брукингский институт	ORG	ORG-Brookings-Institute
+4044	4059	Алины Поляковой	Алина Полякова	PER	PER-Alina-Polyakova
+4083	4093	российское	российский	LOC	GPE-Russia
+4137	4158	палаты представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+4376	4382	Сенате	Сенат	ORG	ORG-United-States-Senate
+4387	4393	Палате	Палата	ORG	ORG-United-States-House-of-Representatives
+4398	4420	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+4483	4489	Трампа	Трамп	PER	PER-Donald-Trump
+4515	4529	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+4613	4618	Трамп	Трамп	PER	PER-Donald-Trump
+4639	4654	республиканских	республиканский	ORG	ORG-Republican-Party-USA
+4774	4790	конституцией США	конституция США	PRO	PRO-The-USA-Constitution
+4880	4883	США	США	LOC	GPE-USA
+4908	4920	американское	американский	LOC	GPE-USA
+5131	5140	Obamacare	Obamacare	PRO	PRO-Obamacare
+5193	5202	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+5239	5242	США	США	LOC	GPE-USA
+5245	5253	Мексикой	Мексика	LOC	GPE-Mexico
+5273	5287	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+5343	5353	российское	российский	LOC	GPE-Russia
+5451	5457	Трампа	Трамп	PER	PER-Donald-Trump
+5460	5467	Кремлем	Кремль	ORG	ORG-Kremlin
+5608	5614	Трампа	Трамп	PER	PER-Donald-Trump
+5648	5661	Ричарда Вайца	Ричард Вайц	PER	PER-Richard-Weitz
+5676	5733	центра военного и политического анализа Института Хадсона	центр военного и политического анализа Института Хадсона	ORG	ORG-Hudson Institute-Centre-for-Military-and-Political-Analysis
+5761	5774	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+5818	5821	США	США	LOC	GPE-USA
+5822	5835	Джеффа Сешнса	Джефф Сешнс	PER	PER-Jeff-Sessions
+5894	5910	Рода Розенстайна	Род Розенстайн	PER	PER-Rod-Rosenstein
+5925	5935	российское	российский	LOC	GPE-Russia
+6081	6096	Роберта Мюллера	Роберт Мюллер	PER	PER-Robert-Mueller
+6122	6131	Демократы	демократ	ORG	ORG-Democratic-Party-USA
+6202	6205	США	США	LOC	GPE-USA
+6276	6287	Белого дома	Белый дом	ORG	ORG-The-White-House
+6402	6427	законодательного собрания	законодательное собрание	ORG	ORG-United-States-State-Legislature
+6430	6443	администрации	администрация	ORG	ORG-US-Executive-Office-of-the-President
+6507	6516	конгресса	конгресс	ORG	ORG-United-States-Congress
+6542	6552	демократов	демократ	ORG	ORG-Democratic-Party-USA
+6614	6620	Трампа	Трамп	PER	PER-Donald-Trump
+6623	6630	Кремлем	Кремль	ORG	ORG-Kremlin
+6674	6690	выборы 2016 года	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+6905	6911	России	Россия	LOC	GPE-Russia
+6941	6955	Алина Полякова	Алина Полякова	PER	PER-Alina-Polyakova
+7115	7130	республиканские	республиканский	ORG	ORG-Republican-Party-USA
+7159	7174	демократических	демократический	ORG	ORG-Democratic-Party-USA
+7240	7264	президентской гонке-2020	президентская гонка-2020	EVT	EVT-2020-United-States-Presidential-Election
+7356	7362	Трампу	Трамп	PER	PER-Donald-Trump
+7382	7405	Русская служба Би-би-си	Русская служба Би-би-си	ORG	ORG-BBC-News-Russian
+7474	7492	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA

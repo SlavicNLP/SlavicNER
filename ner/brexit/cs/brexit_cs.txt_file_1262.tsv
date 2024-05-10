@@ -1,0 +1,22 @@
+39	45	Brexit	Brexit	EVT	EVT-Brexit
+124	133	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+191	202	John Cooper	John Cooper	PER	PER-Cooper
+271	277	brexit	brexit	EVT	EVT-Brexit
+540	546	brexit	brexit	EVT	EVT-Brexit
+570	576	Cooper	Cooper	PER	PER-Cooper
+593	607	Ellesmere Port	Ellesmere Port	LOC	GPE-Ellesmere-Port
+617	627	Liverpoolu	Liverpool	LOC	GPE-Liverpool
+671	677	Nissan	Nissan	ORG	ORG-Nissan
+721	727	Anglie	Anglie	LOC	GPE-England
+749	758	Španělsku	Španělsko	LOC	GPE-Spain
+1057	1063	Londýn	Londýn	LOC	GPE-London
+1066	1072	Brusel	Brusel	LOC	GPE-Brussles
+1110	1117	brexitu	brexit	EVT	EVT-Brexit
+1132	1140	Vauxhall	Vauxhall	PRO	PRO-Vauxhall-brand
+1200	1209	PSA Group	PSA Group	ORG	ORG-PSA-Group
+1247	1252	Astra	Astra	PRO	PRO-Astra-car-model
+1254	1257	PSA	PSA	ORG	ORG-PSA-Group
+1292	1300	Vauxhall	Vauxhall	PRO	PRO-Vauxhall-brand
+1325	1339	General Motors	General Motors	ORG	ORG-General-Motors
+1416	1423	Francii	Francie	LOC	GPE-France
+1427	1434	Německu	Německo	LOC	GPE-Germany

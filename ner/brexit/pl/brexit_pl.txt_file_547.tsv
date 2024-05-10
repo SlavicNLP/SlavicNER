@@ -1,0 +1,24 @@
+0	6	Biskup	Biskup	PER	PER-Przemysław-Biskup
+49	56	Wyspach	Wyspy	LOC	GPE-Great-Britain
+57	63	brexit	Brexit	EVT	EVT-Brexit
+115	130	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+138	153	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+159	170	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+199	207	brexitem	Brexit	EVT	EVT-Brexit
+409	421	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+718	735	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+739	743	Unii	Unia	ORG	ORG-European-Union
+930	939	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+966	972	Anglii	Anglia	LOC	GPE-England
+1055	1061	Anglii	Anglia	LOC	GPE-England
+1098	1105	Szkocja	Szkocja	LOC	GPE-Scotland
+1110	1127	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+1361	1378	Margaret Thatcher	Margaret Thatcher	PER	PER-Margaret-Thatcher
+1388	1403	Tony’ego Blaira	Tony Blair	PER	PER-Tony-Blair
+1828	1840	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1869	1873	Unii	Unia	ORG	ORG-European-Union
+1998	2000	UE	UE	ORG	ORG-European-Union
+2144	2156	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2279	2296	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2557	2563	brexit	Brexit	EVT	EVT-Brexit
+2654	2661	Szkocja	Szkocja	LOC	GPE-Scotland

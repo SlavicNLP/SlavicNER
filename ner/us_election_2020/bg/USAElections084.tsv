@@ -1,0 +1,66 @@
+36	43	Монитор	Монитор	ORG	ORG-Monitor-Agency
+53	63	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+76	87	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+123	144	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+170	189	Избирателна колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+200	203	BBC	BBC	PRO	PRO-BBC
+205	208	CNN	CNN	PRO	PRO-CNN
+210	218	Fox News	Fox News	PRO	PRO-Fox-News
+221	237	Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+299	310	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+369	372	САЩ	САЩ	LOC	GPE-USA
+381	387	Байдън	Байдън	PER	PER-Joe-Biden
+390	397	Twitter	Twitter	PRO	PRO-Twitter
+430	442	американците	американци	PER	GPE-USA
+599	613	(Камала) Харис	Камала Харис	PER	PER-Kamala-Harris
+677	687	американци	американци	PER	GPE-USA
+696	702	Байдън	Байдън	PER	PER-Joe-Biden
+705	711	Туитър	Туитър	PRO	PRO-Twitter
+843	850	Америка	Америка	LOC	GPE-USA
+920	927	Twitter	Twitter	PRO	PRO-Twitter
+929	935	Байдън	Байдън	PER	PER-Joe-Biden
+971	981	американци	американци	PER	GPE-USA
+986	993	Америка	Америка	LOC	GPE-USA
+1141	1151	американци	американци	PER	GPE-USA
+1240	1243	САЩ	САЩ	LOC	GPE-USA
+1289	1301	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+1443	1450	Америка	Америка	LOC	GPE-USA
+1529	1534	Харис	Харис	PER	PER-Kamala-Harris
+1537	1544	Twitter	Twitter	PRO	PRO-Twitter
+1549	1556	Twitter	Twitter	PRO	PRO-Twitter
+1646	1660	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1661	1674	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+1691	1698	Франция	Франция	LOC	GPE-France
+1699	1713	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+1735	1747	Михол Мартин	Михол Мартин	PER	PER-Micheál-Martin
+1762	1768	Гърция	Гърция	LOC	GPE-Greece
+1769	1787	Кириакос Мицотакис	Кириакос Мицотакис	PER	PER-Kyriakos-Mitsotakis
+1802	1809	Австрия	Австрия	LOC	GPE-Austria
+1810	1824	Себастиан Курц	Себастиан Курц	PER	PER-Sebastian-Kurz
+1859	1867	Германия	Германия	LOC	GPE-Germany
+1868	1878	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+1897	1899	ЕК	ЕК	ORG	ORG-European-Commission
+1900	1920	Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+1935	1943	Германия	Германия	LOC	GPE-Germany
+1944	1957	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+1989	1994	Тръмп	Тръмп	PER	PER-Donald-Trump
+2125	2132	Ройтерс	Ройтерс	ORG	ORG-Reuters
+2153	2163	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2378	2388	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2669	2680	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2860	2865	Тръмп	Тръмп	PER	PER-Donald-Trump
+3329	3335	Байдън	Байдън	PER	PER-Joe-Biden
+3555	3560	Тръмп	Тръмп	PER	PER-Donald-Trump
+3561	3574	Руди Джулиани	Руди Джулиани	PER	PER-Rudy-Giuliani
+3611	3622	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+3734	3744	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3760	3787	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+3799	3806	Ройтерс	Ройтерс	ORG	ORG-Reuters
+3809	3812	ДПА	ДПА	ORG	ORG-DPA
+3817	3824	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+3947	3956	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3986	3995	Белия дом	Бял дом	LOC	LOC-White-House
+4218	4224	Байдън	Байдън	PER	PER-Joe-Biden
+4299	4309	Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+4355	4362	Атланта	Атланта	LOC	GPE-Atlanta
+4395	4401	Байдън	Байдън	PER	PER-Joe-Biden

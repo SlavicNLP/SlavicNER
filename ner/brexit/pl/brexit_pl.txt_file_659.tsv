@@ -1,0 +1,28 @@
+13	24	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+44	46	UE	UE	ORG	ORG-European-Union
+83	95	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+145	152	Brexitu	Brexit	EVT	EVT-Brexit
+216	233	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+336	338	UE	UE	ORG	ORG-European-Union
+373	380	Brexitu	Brexit	EVT	EVT-Brexit
+397	406	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+434	446	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+463	508	Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+510	514	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+583	590	Brexitu	Brexit	EVT	EVT-Brexit
+832	834	UE	UE	ORG	ORG-European-Union
+908	923	The Independent	The Independent	PRO	PRO-The-Independent
+999	1005	ComRes	ComRes	ORG	ORG-ComRes-Ltd
+1026	1038	Daily Mirror	Daily Mirror	PRO	PRO-Daily-Mirror
+1195	1202	Brexitu	Brexit	EVT	EVT-Brexit
+1341	1352	Theresa May	Theresa May	PER	PER-Theresa-May
+1384	1391	Brexitu	Brexit	EVT	EVT-Brexit
+1451	1463	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1488	1505	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1577	1584	Torysów	torysi	PER	ORG-Tories
+1614	1616	UE	UE	ORG	ORG-European-Union
+1627	1635	Brexitem	Brexit	EVT	EVT-Brexit
+1637	1651	Downing Street	Downing Street	LOC	LOC-Downing-Street
+1681	1689	Farage’a	Farage	PER	PER-Nigel-Farage
+1710	1721	Theresy May	Theresa May	PER	PER-Theresa-May
+1778	1785	Brexitu	Brexit	EVT	EVT-Brexit

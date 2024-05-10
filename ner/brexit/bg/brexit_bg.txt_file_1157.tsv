@@ -1,0 +1,30 @@
+58	60	ЕС	ЕС	ORG	ORG-European-Union
+75	81	Лондон	Лондон	LOC	GPE-London
+83	100	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+129	133	СССР	СССР	LOC	GPE-USSR
+238	270	Лондонското училище по икономика	Лондонско училище по икономика	ORG	ORG-London-School-of-Economics-and-Political-Science
+279	284	Принс	Принс	PER	PER-Gwythian-Prins
+311	320	The Times	The Times	PRO	PRO-The-Times
+357	370	EurAsia Daily	EurAsia Daily	PRO	PRO-EurAsia-Daily
+473	489	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+500	505	Принс	Принс	PER	PER-Gwythian-Prins
+528	548	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+603	605	ЕС	ЕС	ORG	ORG-European-Union
+717	731	Съветския съюз	Съветски съюз	LOC	GPE-USSR
+819	824	Принс	Принс	PER	PER-Gwythian-Prins
+872	874	ЕС	ЕС	ORG	ORG-European-Union
+1211	1213	ЕС	ЕС	ORG	ORG-European-Union
+1430	1435	Принс	Принс	PER	PER-Gwythian-Prins
+1767	1777	британците	британци	PER	GPE-Great-Britain
+1893	1895	ЕС	ЕС	ORG	ORG-European-Union
+1994	1999	Принс	Принс	PER	PER-Gwythian-Prins
+2030	2050	Briefings for Brexit	Briefings for Brexit	ORG	ORG-Briefings-for-Brexit
+2097	2104	Брекзит	Брекзит	EVT	EVT-Brexit
+2153	2167	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2237	2261	университета в Кеймбридж	Университет в Кеймбридж	ORG	ORG-University-of-Cambridge
+2287	2298	Грем Гаджин	Грем Гаджин	PER	PER-Graham-Gudgin
+2334	2341	Франция	Франция	LOC	GPE-France
+2342	2353	Роберт Тумс	Роберт Тумс	PER	PER-Robert-Tombs
+2364	2373	The Times	The Times	PRO	PRO-The-Times
+2394	2406	Иван Христов	Иван Христов	PER	PER-Ivan-Hristov
+2546	2575	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

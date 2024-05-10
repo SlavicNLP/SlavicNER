@@ -1,0 +1,36 @@
+132	136	КНСБ	КНСБ	ORG	ORG-KNSB-Bulgaria
+270	300	глобалната пандемия с COVID-19	глобална пандемия с COVID-19	EVT	EVT-Covid-19
+314	334	извънредно положение	извънредно положение	EVT	EVT-State-of-Emergency
+368	372	КНСБ	КНСБ	ORG	ORG-KNSB-Bulgaria
+876	888	Димитровград	Димитровград	LOC	GPE-Dimitrovgrad
+890	901	Благоевград	Благоевград	LOC	GPE-Blagoevgrad
+903	911	Казанлък	Казанлък	LOC	GPE-Kazanlak
+913	919	Разлог	Разлог	LOC	GPE-Razlog
+921	927	Банско	Банско	LOC	GPE-Bansko
+941	947	Бургас	Бургас	LOC	GPE-Burgas
+960	964	Русе	Русе	LOC	GPE-Ruse
+967	974	Габрово	Габрово	LOC	GPE-Gabrovo
+1065	1070	Язаки	Язаки	ORG	ORG-Yazaki
+1092	1104	Димитровград	Димитровград	LOC	GPE-Dimitrovgrad
+1106	1112	Сливен	Сливен	LOC	GPE-Sliven
+1115	1120	Ямбол	Ямбол	LOC	GPE-Yambol
+1304	1315	коронавирус	коронавирус	EVT	EVT-Covid-19
+1353	1365	Димитровград	Димитровград	LOC	GPE-Dimitrovgrad
+1368	1374	Сливен	Сливен	LOC	GPE-Sliven
+1398	1403	Ямбол	Ямбол	LOC	GPE-Yambol
+1448	1454	Сливен	Сливен	LOC	GPE-Sliven
+1500	1512	Димитровград	Димитровград	LOC	GPE-Dimitrovgrad
+1831	1835	КНСБ	КНСБ	ORG	ORG-KNSB-Bulgaria
+1873	1893	Агенция по заетостта	Агенция по заетостта	ORG	ORG-Agency-of-Labor
+1987	1998	Благоевград	Благоевград	LOC	GPE-Blagoevgrad
+2000	2008	Казанлък	Казанлък	LOC	GPE-Kazanlak
+2010	2022	Димитровград	Димитровград	LOC	GPE-Dimitrovgrad
+2024	2030	Перник	Перник	LOC	GPE-Pernik
+2032	2038	Разлог	Разлог	LOC	GPE-Razlog
+2040	2047	Дупница	Дупница	LOC	GPE-Dupnitsa
+2050	2062	Стара Загора	Стара Загора	LOC	GPE-Stara-Zagora
+2121	2129	COVID-19	COVID-19	EVT	EVT-Covid-19
+2145	2158	Бюро по труда	Бюро по труда	ORG	ORG-Labor-Quarters
+2160	2174	Велико Търново	Велико Търново	LOC	GPE-Veliko-Tarnovo
+2412	2424	коронавируса	коронавирус	EVT	EVT-Covid-19
+2796	2800	КНСБ	КНСБ	ORG	ORG-KNSB-Bulgaria

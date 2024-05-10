@@ -1,0 +1,39 @@
+0	7	Ukraina	Ukraina	LOC	GPE-Ukraine
+14	17	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Ukraine
+29	35	Bidena	Biden	PER	PER-Joe-Biden
+38	45	Putinem	Putin	PER	PER-Vladimir-Putin
+67	70	USA	USA	LOC	GPE-USA
+73	78	Rosji	Rosja	LOC	GPE-Russia
+80	90	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+93	109	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+178	189	MSZ Ukrainy	MSZ Ukrainy	ORG	ORG-Ministry-of-Foreign-Affairs-Ukraine
+190	203	Dmytro Kułeba	Dmytro Kułeba	PER	PER-Dmytro-Kuleba
+220	235	Agencję Reutera	Agencja Reutera	ORG	ORG-Reuters
+237	246	Ukraiński	Ukraiński	LOC	GPE-Ukraine
+290	295	Kijów	Kijów	LOC	GPE-Kiev
+351	356	Rosji	Rosja	LOC	GPE-Russia
+457	463	Kułeba	Kułeba	PER	PER-Dmytro-Kuleba
+481	489	Reutersa	Reuters	ORG	ORG-Reuters
+578	584	Moskwę	Moskwa	LOC	GPE-Moscow
+675	681	Bidena	Biden	PER	PER-Joe-Biden
+684	691	Putinem	Putin	PER	PER-Vladimir-Putin
+692	708	Mychajło Podolak	Mychajło Podolak	PER	PER-Mykhailo-Podolyak
+742	749	Ukrainy	Ukraina	LOC	GPE-Ukraine
+814	821	Ukraina	Ukraina	LOC	GPE-Ukraine
+837	840	USA	USA	LOC	GPE-USA
+950	955	Biden	Biden	PER	PER-Joe-Biden
+983	990	Ukrainy	Ukraina	LOC	GPE-Ukraine
+991	1012	Wołodymyrem Zełenskim	Wołodymyr Zełenski	PER	PER-Volodymyr-Zelensky
+1014	1023	Biały Dom	Biały Dom	LOC	LOC-White-House
+1041	1046	Biden	Biden	PER	PER-Joe-Biden
+1080	1087	Putinem	Putin	PER	PER-Vladimir-Putin
+1092	1109	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1221	1229	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1231	1236	Kreml	Kreml	LOC	LOC-Kremlin
+1264	1269	Rosja	Rosja	LOC	GPE-Russia
+1339	1343	NATO	NATO	ORG	ORG-NATO
+1372	1375	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1402	1417	NaszDziennik.pl	NaszDziennik.pl	PRO	PRO-NaszDziennik.pl
+1564	1615	Ogólnego rozporządzenia o ochronie danych osobowych	Ogólne rozporządzenie o ochronie danych osobowych	PRO	PRO-GDPR-The-General-Data-Protection-Regulation
+1644	1648	RODO	RODO	PRO	PRO-GDPR-The-General-Data-Protection-Regulation
+1889	1904	NaszDziennik.pl	NaszDziennik.pl	PRO	PRO-NaszDziennik.pl

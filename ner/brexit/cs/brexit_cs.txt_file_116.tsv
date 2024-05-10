@@ -1,0 +1,22 @@
+17	23	brexit	brexit	EVT	EVT-Brexit
+66	72	Brexit	Brexit	EVT	EVT-Brexit
+100	108	Británie	Británie	LOC	GPE-Great-Britain
+190	203	Evropské unie	Evropská unie	ORG	ORG-European-Union
+240	246	Anglii	Anglie	LOC	GPE-England
+352	360	Sky News	Sky News	PRO	PRO-Sky-News-TV
+383	391	Británie	Británie	LOC	GPE-Great-Britain
+394	396	EU	EU	ORG	ORG-European-Union
+465	477	The Guardian	The Guardian	PRO	PRO-The-Guardian
+504	510	brexit	brexit	EVT	EVT-Brexit
+705	707	EU	EU	ORG	ORG-European-Union
+710	718	Británií	Británie	LOC	GPE-Great-Britain
+741	756	Financial Times	Financial Times	PRO	PRO-Financial-Times
+757	763	brexit	brexit	EVT	EVT-Brexit
+848	855	brexitu	brexit	EVT	EVT-Brexit
+952	958	brexit	brexit	EVT	EVT-Brexit
+975	981	Anglie	Anglie	LOC	GPE-England
+991	1004	West Midlands	West Midlands	LOC	LOC-West-Midlands
+1014	1020	Londýn	Londýn	LOC	GPE-London
+1072	1074	EU	EU	ORG	ORG-European-Union
+1118	1125	brexitu	brexit	EVT	EVT-Brexit
+1222	1229	brexitu	brexit	EVT	EVT-Brexit

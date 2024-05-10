@@ -1,0 +1,24 @@
+15	27	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+60	66	brexit	brexit	EVT	EVT-Brexit
+67	82	Davidem Davisem	David Davis	PER	PER-David-Davis
+123	138	České republiky	Česká republika	LOC	GPE-Czech-Republic
+139	152	Andrej Babiše	Andrej Babiš	PER	PER-Andrej-Babis
+187	201	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+204	206	EU	EU	ORG	ORG-European-Union
+207	222	Davidem Davisem	David Davis	PER	PER-David-Davis
+288	306	Michelem Barnierem	Michel Barnier	PER	PER-Michel-Barnier
+355	359	EU27	EU27	ORG	ORG-European-Union
+368	381	Hans Štembera	Hans Štembera	PER	PER-Hans-Stembera
+415	427	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+440	454	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+482	496	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+506	522	Českou republiku	Česká republika	LOC	GPE-Czech-Republic
+525	527	EU	EU	ORG	ORG-European-Union
+580	586	Brexit	Brexit	EVT	EVT-Brexit
+749	760	Andrej Babi	Andrej Babiš	PER	PER-Andrej-Babis
+822	838	Michela Barniera	Michel Barnier	PER	PER-Michel-Barnier
+870	877	brexitu	brexit	EVT	EVT-Brexit
+1042	1048	Brexit	brexit	EVT	EVT-Brexit
+1091	1104	Evropské rady	Evropská rada	ORG	ORG-European-Council
+1166	1181	Velkou Británií	Velká Británie	LOC	GPE-Great-Britain
+1217	1232	Evropská komise	Evropská komise	ORG	ORG-European-Commission

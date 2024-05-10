@@ -1,0 +1,38 @@
+52	60	brexicie	Brexit	EVT	EVT-Brexit
+86	88	UE	UE	ORG	ORG-European-Union
+89	107	Guenther Oettinger	Guenther Oettinger	PER	PER-Guenther-Oettinger
+177	185	brexicie	Brexit	EVT	EVT-Brexit
+214	222	Brukseli	Bruksela	LOC	GPE-Brussles
+328	336	Brukseli	Bruksela	LOC	GPE-Brussles
+371	380	Oettinger	Oettinger	PER	PER-Guenther-Oettinger
+505	507	UE	UE	ORG	ORG-European-Union
+660	669	Oettinger	Oettinger	PER	PER-Guenther-Oettinger
+769	775	Paryżu	Paryż	LOC	GPE-Paris
+778	788	Marrakeszu	Marrakesz	LOC	GPE-Marrakesh
+883	903	Gareth’a Goldsmith’a	Gareth Goldsmith	PER	PER-Gareth-Goldsmith
+966	980	parlamencie UE	Parlament UE	ORG	ORG-European-Parliament
+1132	1141	Goldsmith	Goldsmith	PER	PER-Gareth-Goldsmith
+1192	1194	UE	UE	ORG	ORG-European-Union
+1432	1439	Komisji	Komisja	ORG	ORG-European-Commission
+1532	1534	UE	UE	ORG	ORG-European-Union
+1727	1729	UE	UE	ORG	ORG-European-Union
+1754	1760	Włochy	Włochy	LOC	GPE-Italy
+1763	1772	Hiszpania	Hiszpania	LOC	GPE-Spain
+1831	1838	Rumunia	Rumunia	LOC	GPE-Romania
+1916	1924	Holandia	Holandia	LOC	GPE-Holland
+1945	1951	brexit	Brexit	EVT	EVT-Brexit
+2033	2056	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+2196	2213	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2290	2292	UE	UE	ORG	ORG-European-Union
+2345	2351	Londyn	Londyn	LOC	GPE-London
+2391	2399	brexicie	Brexit	EVT	EVT-Brexit
+2495	2497	UE	UE	ORG	ORG-European-Union
+2828	2830	UE	UE	ORG	ORG-European-Union
+3480	3482	UE	UE	ORG	ORG-European-Union
+3594	3598	Unii	Unia	ORG	ORG-European-Union
+3737	3739	UE	UE	ORG	ORG-European-Union
+3962	3970	b rexitu	Brexit	EVT	EVT-Brexit
+3971	3973	UE	UE	ORG	ORG-European-Union
+4146	4154	Bruksela	Bruksela	LOC	GPE-Brussles
+4322	4333	EU Observer	EU Observer	PRO	PRO-EUobserver
+4334	4349	Roma Bojanowicz	Roma Bojanowicz	PER	PER-Roma-Bojanowicz

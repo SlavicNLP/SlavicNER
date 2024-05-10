@@ -1,0 +1,12 @@
+15	22	Ізраїлі	Ізраїль	LOC	GPE-Israel
+36	44	COVID-19	COVID-19	EVT	EVT-Covid-19
+144	151	Ізраїлі	Ізраїль	LOC	GPE-Israel
+208	212	CBNC	CBNC	PRO	PRO-CBNC
+235	272	міністерства охорони здоров’я Ізраїля	міністерство охорони здоров’я Ізраїля	ORG	ORG-Ministry-of-Health-Israel
+410	417	Ізраїль	Ізраїль	LOC	GPE-Israel
+452	460	COVID-19	COVID-19	EVT	EVT-Covid-19
+643	646	США	США	LOC	GPE-USA
+786	793	Ізраїль	Ізраїль	LOC	GPE-Israel
+899	906	Ізраїлю	Ізраїль	LOC	GPE-Israel
+907	925	Біньямін Нетаньягу	Біньямін Нетаньягу	PER	PER-Benjamin-Netanyahu
+953	959	RBC.UA	RBC.UA	ORG	ORG-RBC-Ukraine

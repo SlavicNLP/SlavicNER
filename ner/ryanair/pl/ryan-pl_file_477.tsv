@@ -1,0 +1,15 @@
+0	7	Ryanair	Ryanair	ORG	ORG-Ryanair
+24	31	Krakowa	Kraków	LOC	GPE-Kraków
+49	56	Berlina	Berlin	LOC	GPE-Berlin
+59	69	Sztokholmu	Sztokholm	LOC	GPE-Stockholm
+124	131	Ryanair	Ryanair	ORG	ORG-Ryanair
+140	147	Europie	Europa	LOC	LOC-Europe
+229	236	Krakowa	Kraków	LOC	GPE-Kraków
+282	292	Sztokholmu	Sztokholm	LOC	GPE-Stockholm
+294	302	Brukseli	Bruksela	LOC	GPE-Brussles
+309	316	Berlina	Berlin	LOC	GPE-Berlin
+319	330	Norymbergii	Norymberga	LOC	GPE-Nuremberg
+496	507	ryanair.com	ryanair.com	PRO	PRO-Ryanair.com
+539	546	Ryanair	Ryanair	ORG	ORG-Ryanair
+667	675	Irlandii	Irlandia	LOC	GPE-Ireland
+785	793	Irlandii	Irlandia	LOC	GPE-Ireland

@@ -1,0 +1,16 @@
+7	10	ООН	ООН	ORG	ORG-United-Nations
+56	64	пандемії	пандемія	EVT	EVT-Covid-19
+88	116	Організації Об'єднаних Націй	Організація Об'єднаних Націй	ORG	ORG-United-Nations
+117	133	Антоніу Гутерреш	Антоніу Гутерреш	PER	PER-Antonio-Guterres
+264	272	пандемії	пандемія	EVT	EVT-Covid-19
+273	285	коронавірусу	коронавірус	EVT	EVT-Covid-19
+389	397	COVID-19	COVID-19	EVT	EVT-Covid-19
+452	455	ООН	ООН	ORG	ORG-United-Nations
+470	479	Гутерреша	Гутерреш	PER	PER-Antonio-Guterres
+514	522	пандемії	пандемія	EVT	EVT-Covid-19
+753	764	РБК-Україна	РБК-Україна	ORG	ORG-RBC-Ukraine
+778	787	Євросоюзі	Євросоюз	LOC	ORG-European-Union
+819	831	коронавірусу	коронавірус	EVT	EVT-Covid-19
+888	894	Pfizer	Pfizer	ORG	ORG-Pfizer
+897	905	BioNTech	BioNTech	ORG	ORG-BioNTech
+933	939	RBC.UA	RBC.UA	ORG	ORG-RBC-Ukraine

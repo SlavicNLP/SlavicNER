@@ -1,0 +1,13 @@
+0	3	PES	PES	PRO	PRO-PES-Anti-epidemic-system-Czech-Republic
+110	120	koronaviru	koronavirus	EVT	EVT-Covid-19
+208	218	Libereckém	Liberecký	LOC	GPE-Liberec-region
+220	232	Karlovarském	Karlovarský	LOC	GPE-Karlovy-Vary-region
+235	249	Zlínském kraji	Zlínský kraj	LOC	GPE-Zlin-region
+446	458	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+460	463	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+795	800	Česku	Česko	LOC	GPE-Czech-Republic
+876	886	koronaviru	koronavirus	EVT	EVT-Covid-19
+1027	1038	koronavirus	koronavirus	EVT	EVT-Covid-19
+1134	1139	Česka	Česko	LOC	GPE-Czech-Republic
+1291	1299	Vánocích	Vánoce	EVT	EVT-Christmas
+1527	1535	covid-19	covid-19	EVT	EVT-Covid-19

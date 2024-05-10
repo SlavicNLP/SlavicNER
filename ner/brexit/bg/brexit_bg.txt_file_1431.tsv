@@ -1,0 +1,25 @@
+0	7	Reuters	Reuters	ORG	ORG-Reuters
+9	23	Великобритания	Великобритания	LOC	GPE-Great-Britain
+26	28	ЕС	ЕС	ORG	ORG-European-Union
+75	81	Лондон	Лондон	LOC	GPE-London
+109	123	Великобритания	Великобритания	LOC	GPE-Great-Britain
+124	134	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+200	207	Брекзит	Брекзит	EVT	EVT-Brexit
+292	308	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+384	391	Reuters	Reuters	ORG	ORG-Reuters
+440	450	британците	британци	PER	GPE-Great-Britain
+479	481	ЕС	ЕС	ORG	ORG-European-Union
+523	525	ЕС	ЕС	ORG	ORG-European-Union
+594	596	ЕС	ЕС	ORG	ORG-European-Union
+608	622	Великобритания	Великобритания	LOC	GPE-Great-Britain
+802	805	Мей	Мей	PER	PER-Theresa-May
+830	832	ЕС	ЕС	ORG	ORG-European-Union
+845	859	Великобритания	Великобритания	LOC	GPE-Great-Britain
+928	942	Великобритания	Великобритания	LOC	GPE-Great-Britain
+965	967	ЕС	ЕС	ORG	ORG-European-Union
+1093	1107	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1126	1142	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1236	1250	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1253	1255	ЕС	ЕС	ORG	ORG-European-Union
+1456	1471	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+1610	1639	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

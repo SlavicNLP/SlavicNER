@@ -1,0 +1,27 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+52	60	Британії	Британія	LOC	GPE-Great-Britain
+62	66	КИЇВ	Київ	LOC	GPE-Kiev
+82	85	УНН	УНН	ORG	ORG-UNN
+104	118	Великобританії	Великобританія	LOC	GPE-Great-Britain
+170	176	Brexit	Brexit	EVT	EVT-Brexit
+241	244	УНН	УНН	ORG	ORG-UNN
+261	263	DW	DW	ORG	ORG-Deutsche-Welle
+423	429	Brexit	Brexit	EVT	EVT-Brexit
+457	460	Мей	Мей	PER	PER-Theresa-May
+470	478	Брюсселя	Брюссель	LOC	GPE-Brussles
+505	516	Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+517	535	Жан-Клодом Юнкером	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+552	555	Мей	Мей	PER	PER-Theresa-May
+592	598	Brexit	Brexit	EVT	EVT-Brexit
+608	618	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+882	888	Brexit	Brexit	EVT	EVT-Brexit
+912	915	УНН	УНН	ORG	ORG-UNN
+931	946	Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+949	957	Євросоюз	Євросоюз	ORG	ORG-European-Union
+981	987	Brexit	Brexit	EVT	EVT-Brexit
+1046	1056	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1238	1244	Brexit	Brexit	EVT	EVT-Brexit
+1346	1349	Мей	Мей	PER	PER-Theresa-May
+1377	1383	Brexit	Brexit	EVT	EVT-Brexit
+1384	1396	Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+1434	1446	Естер Маквей	Естер Маквей	PER	PER-Emanuelе-Ferarrio

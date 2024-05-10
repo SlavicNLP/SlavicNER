@@ -1,0 +1,13 @@
+0	6	Байдън	Байдън	PER	PER-Joe-Biden
+39	44	Тръмп	Тръмп	PER	PER-Donald-Trump
+60	71	демократите	демократи	PER	ORG-Democratic-Party-USA
+75	84	Белия дом	Бял дом	LOC	LOC-White-House
+85	95	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+128	155	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+211	223	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+315	329	Вашингтон пост	Вашингтон пост	PRO	PRO-Washington-Post
+343	347	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+380	390	демократът	демократ	PER	ORG-Democratic-Party-USA
+408	411	САЩ	САЩ	LOC	GPE-USA
+414	447	Парижкото споразумение за климата	Парижко споразумение за климата	PRO	PRO-Paris-Agreement
+477	507	Световната здравна организация	Световна здравна организация	ORG	ORG-WHO

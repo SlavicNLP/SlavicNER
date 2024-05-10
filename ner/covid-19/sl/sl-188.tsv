@@ -1,0 +1,46 @@
+22	30	Covid 19	Covid 19	EVT	EVT-Covid-19
+71	77	Gantar	Gantar	PER	PER-Tomaž-Gantar
+129	137	Covid 19	Covid 19	EVT	EVT-Covid-19
+178	184	Gantar	Gantar	PER	PER-Tomaž-Gantar
+196	208	Biserka Ilin	Biserka Ilin	PER	PER-Biserka-Ilin
+327	339	Biserka Ilin	Biserka Ilin	PER	PER-Biserka-Ilin
+398	403	covid	covid	EVT	EVT-Covid-19
+443	447	kugo	kuga	EVT	EVT-Plague
+517	526	covida 19	covid 19	EVT	EVT-Covid-19
+570	582	Biserke Ilin	Biserka Ilin	PER	PER-Biserka-Ilin
+763	771	covid 19	covid 19	EVT	EVT-Covid-19
+1126	1148	ministrstvo za zdravje	ministrstvo za zdravje	ORG	ORG-Ministry-of-Health-Slovenia
+1167	1179	Biserke Ilin	Biserka Ilin	PER	PER-Biserka-Ilin
+1222	1234	Biserka Ilin	Biserka Ilin	PER	PER-Biserka-Ilin
+1264	1272	covid 19	covid 19	EVT	EVT-Covid-19
+1328	1332	kuga	kuga	EVT	EVT-Plague
+1504	1512	covid 19	covid 19	EVT	EVT-Covid-19
+1731	1736	ebola	ebola	EVT	EVT-Ebola
+1770	1774	kuga	kuga	EVT	EVT-Plague
+2180	2192	Biserka Ilin	Biserka Ilin	PER	PER-Biserka-Ilin
+2245	2254	covida 19	covid 19	EVT	EVT-Covid-19
+2492	2500	Vlada RS	Vlada RS	ORG	ORG-Government-of-Slovenia
+2539	2551	Biserka Ilin	Biserka Ilin	PER	PER-Biserka-Ilin
+2827	2830	WHO	WHO	ORG	ORG-World-Health-Organization
+2870	2892	Ministrstvo za zdravje	Ministrstvo za zdravje	ORG	ORG-Ministry-of-Health-Slovenia
+2933	2935	EU	EU	ORG	ORG-European-Union
+2943	2952	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2978	2999	koronavirusni bolezni	koronavirusna bolezen	EVT	EVT-Covid-19
+3044	3073	Evropski agenciji za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+3224	3226	EU	EU	ORG	ORG-European-Union
+3228	3245	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+3460	3472	Biserka Ilin	Biserka Ilin	PER	PER-Biserka-Ilin
+3646	3661	Maja Kostanjšek	Maja Kostanjšek	PER	PER-Maja-Kostanjšek
+3663	3668	NLZOH	NLZOH	ORG	ORG-National-Laboratory-of-Health-Environment-and-Food
+3807	3823	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+3846	3851	NLZOH	NLZOH	ORG	ORG-National-Laboratory-of-Health-Environment-and-Food
+4324	4336	Biserka Ilin	Biserka Ilin	PER	PER-Biserka-Ilin
+4640	4646	Gantar	Gantar	PER	PER-Tomaž-Gantar
+4720	4742	Ministrstvo za zdravje	Ministrstvo za zdravje	ORG	ORG-Ministry-of-Health-Slovenia
+4772	4801	zakona o nalezljivih boleznih	zakon o nalezljivih boleznih	PRO	PRO-Infectious-Diseases-Act-Slovenia
+4914	4925	Dejan Židan	Dejan Židan	PER	PER-Dejan-Židan
+4970	4972	SD	SD	ORG	ORG-Social-Democrats-Slovenia
+4988	4996	Gantarja	Gantar	PER	PER-Tomaž-Gantar
+5092	5101	covida 19	covid 19	EVT	EVT-Covid-19
+5545	5550	Židan	Židan	PER	PER-Dejan-Židan
+5692	5702	covidom 19	covid 19	EVT	EVT-Covid-19

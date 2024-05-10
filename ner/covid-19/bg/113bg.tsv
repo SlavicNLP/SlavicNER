@@ -1,0 +1,27 @@
+0	2	ЕП	ЕП	ORG	ORG-European-Parliament
+77	85	COVID-19	COVID-19	EVT	EVT-Covid-19
+164	176	коронавируса	коронавирус	EVT	EVT-Covid-19
+216	237	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+351	353	ЕС	ЕС	ORG	ORG-European-Union
+369	377	COVID-19	COVID-19	EVT	EVT-Covid-19
+504	525	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+678	704	пандемията от коронавируса	пандемия от коронавирус	EVT	EVT-Covid-19
+748	769	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+770	781	Отмар Карас	Отмар Карас	PER	PER-Othmar-Karas
+784	798	Катарина Барли	Катарина Барли	PER	PER-Katarina-Barley
+1110	1112	ЕС	ЕС	ORG	ORG-European-Union
+1148	1159	Отмар Карас	Отмар Карас	PER	PER-Othmar-Karas
+1244	1246	ЕС	ЕС	ORG	ORG-European-Union
+1330	1332	ЕС	ЕС	ORG	ORG-European-Union
+1522	1544	Европейската комисията	Европейска комисия	ORG	ORG-European-Commission
+1545	1561	У. фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+1664	1669	Карас	Карас	PER	PER-Othmar-Karas
+1696	1710	Катарина Барли	Катарина Барли	PER	PER-Katarina-Barley
+1771	1773	ЕС	ЕС	ORG	ORG-European-Union
+1810	1831	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+2521	2526	Барли	Барли	PER	PER-Katarina-Barley
+2530	2532	ЕС	ЕС	ORG	ORG-European-Union
+2535	2538	ЕЦБ	ЕЦБ	ORG	ORG-European-Central-Bank
+2707	2723	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2797	2802	Карас	Карас	PER	PER-Othmar-Karas
+2829	2843	Катарина Барли	Катарина Барли	PER	PER-Katarina-Barley

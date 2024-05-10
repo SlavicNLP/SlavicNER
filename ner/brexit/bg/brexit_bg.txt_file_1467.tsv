@@ -1,0 +1,29 @@
+0	12	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+37	51	Великобритания	Великобритания	LOC	GPE-Great-Britain
+75	81	Лондон	Лондон	LOC	GPE-London
+106	108	ЕС	ЕС	ORG	ORG-European-Union
+112	119	Брекзит	Брекзит	EVT	EVT-Brexit
+120	132	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+157	163	Лондон	Лондон	LOC	GPE-London
+232	239	Брекзит	Брекзит	EVT	EVT-Brexit
+240	253	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+293	303	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+342	356	Великобритания	Великобритания	LOC	GPE-Great-Britain
+360	362	ЕС	ЕС	ORG	ORG-European-Union
+369	375	Барние	Барние	PER	PER-Michel-Barnier
+397	404	Брекзит	Брекзит	EVT	EVT-Brexit
+423	430	Брюксел	Брюксел	LOC	GPE-Brussles
+516	533	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+535	541	Дейвис	Дейвис	PER	PER-David-Davis
+611	618	Брекзит	Брекзит	EVT	EVT-Brexit
+654	656	ЕС	ЕС	ORG	ORG-European-Union
+688	700	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+780	782	ЕС	ЕС	ORG	ORG-European-Union
+785	799	Великобритания	Великобритания	LOC	GPE-Great-Britain
+923	930	Брекзит	Брекзит	EVT	EVT-Brexit
+947	954	Брекзит	Брекзит	EVT	EVT-Brexit
+1023	1043	Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1075	1082	Брюксел	Брюксел	LOC	GPE-Brussles
+1097	1111	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1134	1136	ЕС	ЕС	ORG	ORG-European-Union
+1178	1193	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov

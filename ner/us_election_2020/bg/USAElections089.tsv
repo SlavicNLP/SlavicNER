@@ -1,0 +1,37 @@
+7	19	Иван Гуляшки	Иван Гуляшки	PER	GPE-Ivan-Gulyashki
+68	79	демократите	демократи	PER	ORG-Democratic-Party-USA
+96	99	САЩ	САЩ	LOC	GPE-USA
+100	110	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+139	151	републиканец	републиканец	PER	ORG-Republican-Party-USA
+152	164	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+189	210	избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+247	249	АП	АП	ORG	ORG-AP-The-Associated-Press
+381	387	Байдън	Байдън	PER	PER-Joe-Biden
+409	414	Тръмп	Тръмп	PER	PER-Donald-Trump
+455	469	републиканците	републиканци	PER	ORG-Republican-Party-USA
+527	534	Аризона	Аризона	LOC	GPE-Arizona
+563	584	избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+603	611	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+613	627	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+645	652	Аризона	Аризона	LOC	GPE-Arizona
+705	713	демократ	демократ	PER	ORG-Democratic-Party-USA
+758	769	Бил Клинтън	Бил Клинтън	PER	PER-Bill-Clinton
+784	789	Тръмп	Тръмп	PER	PER-Donald-Trump
+806	812	Байдън	Байдън	PER	PER-Joe-Biden
+815	820	Охайо	Охайо	LOC	GPE-Ohio
+896	904	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+907	912	Охайо	Охайо	LOC	GPE-Ohio
+970	973	САЩ	САЩ	LOC	GPE-USA
+1109	1114	Тръмп	Тръмп	PER	PER-Donald-Trump
+1154	1160	Байдън	Байдън	PER	PER-Joe-Biden
+1189	1194	Тръмп	Тръмп	PER	PER-Donald-Trump
+1214	1220	Тексас	Тексас	LOC	GPE-Texas
+1223	1230	Флорида	Флорида	LOC	GPE-Florida
+1320	1331	демократите	демократи	PER	ORG-Democratic-Party-USA
+1344	1349	Айова	Айова	LOC	GPE-Iowa
+1391	1403	републиканец	републиканец	PER	ORG-Republican-Party-USA
+1424	1429	Тръмп	Тръмп	PER	PER-Donald-Trump
+1478	1489	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1496	1512	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+1520	1529	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+1596	1602	Байдън	Байдън	PER	PER-Joe-Biden

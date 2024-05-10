@@ -1,0 +1,23 @@
+181	194	Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+239	250	Bílého domu	Bílý dům	LOC	LOC-White-House
+261	272	koronavirem	koronavirus	EVT	EVT-Covid-19
+290	296	Rusové	Rusové	PER	GPE-Russia
+417	428	koronavirus	koronavirus	EVT	EVT-Covid-19
+441	450	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+563	568	Rusko	Rusko	LOC	GPE-Russia
+646	655	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+696	711	Rodrigo Duterte	Rodrigo Duterte	PER	PER-Rodrigo-Duterte
+902	907	Rusku	Rusko	LOC	GPE-Russia
+956	962	Rusové	Rusové	PER	GPE-Russia
+1088	1102	Michail Murako	Michail Murako	PER	PER-Mikhail-Murashko
+1325	1331	Murako	Murako	PER	PER-Mikhail-Murashko
+1377	1391	Romana Chlíbka	Roman Chlíbek	PER	PER-Roman-Chlibek
+1394	1426	České vakcinologické společnosti	Česká vakcinologická společnost	ORG	ORG-Czech-Vaccinological-Society
+1490	1496	Rusové	Rusové	PER	GPE-Russia
+1704	1709	Rusku	Rusko	LOC	GPE-Russia
+1930	1941	Aktuálně.cz	Aktuálně.cz	PRO	PRO-Aktualne.cz-webserver
+2518	2524	Rusové	Rusové	PER	GPE-Russia
+2639	2653	New York Times	New York Times	PRO	PRO-The-New-York-Times
+2900	2958	Ústavu pro bezpečnost vakcín na Univerzitě Johnse Hopkinse	Ústav pro bezpečnost vakcín na Univerzitě Johnse Hopkinse	ORG	ORG-Institute-for-Vaccine-Safety-John-Hopkins-University
+2959	2974	Daniela Salmona	Daniel Salmon	PER	PER-Daniel-Salomon
+3045	3052	Chlíbka	Chlíbek	PER	PER-Roman-Chlibek

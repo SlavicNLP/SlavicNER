@@ -1,0 +1,22 @@
+0	7	Ryanair	Ryanair	ORG	ORG-Ryanair
+35	44	Німеччини	Німеччина	LOC	GPE-Germany
+60	64	КИЇВ	Київ	LOC	GPE-Kiev
+76	79	УНН	УНН	ORG	ORG-UNN
+113	120	Ryanair	Ryanair	ORG	ORG-Ryanair
+158	167	Німеччини	Німеччина	LOC	GPE-Germany
+306	309	УНН	УНН	ORG	ORG-UNN
+326	329	CNN	CNN	ORG	ORG-CNN
+353	360	Ryanair	Ryanair	ORG	ORG-Ryanair
+363	372	Німеччині	Німеччина	LOC	GPE-Germany
+464	471	Ryanair	Ryanair	ORG	ORG-Ryanair
+645	651	Європі	Європа	LOC	LOC-Europe
+686	696	Франкфурті	Франкфурт	LOC	GPE-Frankfurt-am-Main
+729	736	Ryanair	Ryanair	ORG	ORG-Ryanair
+737	751	Кенні Джейкобс	Кенні Джейкобс	PER	PER-Kenny-Jacobs
+846	851	Якобс	Якобс	PER	PER-Kenny-Jacobs
+968	971	США	США	LOC	GPE-USA
+1077	1084	Ryanair	Ryanair	ORG	ORG-Ryanair
+1129	1136	Бельгії	Бельгія	LOC	GPE-Belgium
+1138	1145	Іспанії	Іспанія	LOC	GPE-Spain
+1147	1157	Португалії	Португалія	LOC	GPE-Portugal
+1161	1167	Італії	Італія	LOC	GPE-Italy

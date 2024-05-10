@@ -1,0 +1,50 @@
+42	49	Байдена	Байден	PER	PER-Joe-Biden
+98	104	Трампа	Трамп	PER	PER-Donald-Trump
+245	252	Байдена	Байден	PER	PER-Joe-Biden
+301	307	Трампа	Трамп	PER	PER-Donald-Trump
+472	477	Сенат	Сенат	ORG	ORG-United-States-Senate
+523	531	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+532	543	Moscow-Live	Moscow-Live	PRO	PRO-Moscow-Live
+546	558	Крылов Антон	Крылов Антон	PER	PER-Krylov-Anton
+561	580	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+623	626	США	США	LOC	GPE-USA
+630	652	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+653	664	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+755	768	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+795	803	Fox News	Fox News	PRO	PRO-Fox-News
+841	844	США	США	LOC	GPE-USA
+1060	1069	конгрессе	конгресс	ORG	ORG-United-States-Congress
+1213	1218	Сенат	Сенат	ORG	ORG-United-States-Senate
+1264	1272	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+1411	1420	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+1421	1427	Байден	Байден	PER	PER-Joe-Biden
+1459	1462	США	США	LOC	GPE-USA
+1485	1492	Байдена	Байден	PER	PER-Joe-Biden
+1510	1513	США	США	LOC	GPE-USA
+1521	1534	Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+1558	1568	демократов	демократы	ORG	ORG-Democratic-Party-USA
+1585	1597	американские	американские	LOC	GPE-USA
+1677	1687	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1749	1754	Трамп	Трамп	PER	PER-Donald-Trump
+1802	1807	Трамп	Трамп	PER	PER-Donald-Trump
+2015	2021	Байден	Байден	PER	PER-Joe-Biden
+2041	2050	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+2066	2072	Байден	Байден	PER	PER-Joe-Biden
+2158	2167	конгресса	конгресс	ORG	ORG-United-States-Congress
+2177	2183	Трампа	Трамп	PER	PER-Donald-Trump
+2275	2289	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+2292	2298	сенате	сенат	ORG	ORG-United-States-Senate
+2479	2492	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2776	2787	Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+2799	2805	Байден	Байден	PER	PER-Joe-Biden
+2895	2898	США	США	LOC	GPE-USA
+3027	3040	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+3061	3070	Белый дом	Белый дом	ORG	ORG-The-White-House
+3207	3213	Минюст	Минюст	ORG	ORG-Ministry-of-Justice-Russia
+3216	3219	ФБР	ФБР	ORG	ORG-FBI
+3367	3370	США	США	LOC	GPE-USA
+3425	3432	Байдену	Байден	PER	PER-Joe-Biden
+3454	3465	Эмили Мерфи	Эмили Мерфи	PER	PER-Emily-Murphy
+3486	3532	Управление по общим вопросам администрации США	Управление по общим вопросам администрации США	ORG	ORG-Office-of-General-Affairs-of-the-United-States-Administration
+3559	3569	демократов	демократ	ORG	ORG-Democratic-Party-USA
+3613	3622	Пентагоне	Пентагон	ORG	ORG-The-Pentagon

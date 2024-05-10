@@ -1,0 +1,13 @@
+71	77	Evropy	Evropa	LOC	LOC-Europe
+82	88	Evropa	Evropa	LOC	LOC-Europe
+131	138	brexitu	brexit	EVT	EVT-Brexit
+263	281	Radě Evropské unie	Rada Evropské unie	ORG	ORG-European-Council
+333	339	Dánska	Dánsko	LOC	GPE-Denmark
+342	362	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+682	689	brexitu	brexit	EVT	EVT-Brexit
+787	795	Estonsko	Estonsko	LOC	GPE-Estonia
+832	839	Radě EU	Rada EU	ORG	ORG-European-Council
+978	980	EU	EU	ORG	ORG-European-Union
+1025	1040	Pařížské dohody	Pařížská dohoda	PRO	PRO-Paris-Agreement
+1172	1185	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1328	1334	Evropě	Evropa	LOC	LOC-Europe

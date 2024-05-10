@@ -1,0 +1,176 @@
+24	33	Facebooka	Facebook	PRO	PRO-Facebook
+42	48	Trumpa	Trump	PER	PER-Donald-Trump
+50	56	Rosjan	Rosjanie	PER	GPE-Russia
+59	66	Brexitu	Brexit	EVT	EVT-Brexit
+80	99	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+102	111	SCL Group	SCL Group	ORG	ORG-SCL-Group
+151	166	Dariusz Ćwiklak	Dariusz Ćwiklak	PER	PER-Dariusz-Ćwiklak
+168	187	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+209	212	SCL	SCL	ORG	ORG-SCL-Group
+276	295	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+297	299	CA	CA	ORG	ORG-Cambridge-Analytica
+315	318	SCL	SCL	ORG	ORG-SCL-Group
+344	359	Roberta Mercera	Robert Mercer	PER	PER-Robert-mercer
+361	363	CA	CA	ORG	ORG-Cambridge-Analytica
+607	616	Channel 4	Channel 4	PRO	PRO-Channel-4
+629	631	CA	CA	ORG	ORG-Cambridge-Analytica
+758	766	Ukrainek	Ukrainki	PER	GPE-Ukraine
+809	823	Alexandra Nixa	Alexandr Nix	PER	PER-Alexander-Nix
+860	862	CA	CA	ORG	ORG-Cambridge-Analytica
+903	910	Nigerii	Nigeria	LOC	GPE-Nigeria
+912	918	Ghanie	Ghana	LOC	GPE-Ghana
+923	943	St. Kitt's and Nevis	St. Kitt's and Nevis	LOC	GPE-Saint-Kitts-i-Nevis
+947	956	Karaibach	Karaiby	LOC	LOC-Caribbean
+1093	1098	Wylie	Wylie	PER	PER-Christopher-Wylie
+1115	1117	CA	CA	ORG	ORG-Cambridge-Analytica
+1286	1288	UE	UE	ORG	ORG-European-Union
+1328	1336	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+1362	1366	UKiP	UKiP	ORG	ORG-UK-Independence-Party
+1367	1382	Nigela Farage’a	Nigel Farage	PER	PER-Nigel-Farage
+1388	1398	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+1435	1456	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+1458	1465	Cameron	Cameron	PER	PER-David-Cameron
+1567	1569	UE	UE	ORG	ORG-European-Union
+1589	1599	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+1651	1664	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1700	1712	Michael Gove	Michael Gove	PER	PER-Michael-Gove
+1755	1762	Brexitu	Brexit	EVT	EVT-Brexit
+1806	1813	BeLeave	BeLeave	ORG	ORG-BeLeave
+1816	1836	Veterans for Britain	Veterans for Britain	ORG	ORG-Veterans-for-Britain
+2071	2078	Brexitu	Brexit	EVT	EVT-Brexit
+2094	2102	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+2152	2154	CA	CA	ORG	ORG-Cambridge-Analytica
+2180	2195	Roberta Mercera	Robert Mercer	PER	PER-Robert-mercer
+2206	2208	CA	CA	ORG	ORG-Cambridge-Analytica
+2212	2227	Nigela Farage’a	Nigel Farage	PER	PER-Nigel-Farage
+2235	2243	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+2265	2267	CA	CA	ORG	ORG-Cambridge-Analytica
+2367	2377	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+2430	2446	Dominic Cummings	Dominic Cummings	PER	PER-Dominic-Cummings
+2612	2614	UE	UE	ORG	ORG-European-Union
+2628	2631	NHS	NHS	ORG	ORG-NHS
+2644	2647	NFZ	NFZ	ORG	ORG-NFZ
+2860	2870	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+2887	2898	AggregateIQ	AggregateIQ	ORG	ORG-Aggregate-IQ
+2917	2927	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+2930	2938	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+3027	3034	UpGuard	UpGuard	ORG	ORG-UpGuard
+3118	3129	AggregateIQ	AggregateIQ	ORG	ORG-Aggregate-IQ
+3175	3194	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+3245	3255	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+3430	3437	BeLeave	BeLeave	ORG	ORG-BeLeave
+3484	3494	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+3508	3521	Darren Grimes	Darren Grimes	PER	PER-Darren-Grimes
+3562	3572	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+3578	3591	Shahmir Sanni	Shahmir Sanni	PER	PER-Shahmir-Sanni
+3616	3626	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+3657	3664	Wyliego	Wylie	PER	PER-Christopher-Wylie
+3719	3729	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+3782	3793	AggregateIQ	AggregateIQ	ORG	ORG-Aggregate-IQ
+3814	3834	Veterans for Britain	Veterans for Britain	ORG	ORG-Veterans-for-Britain
+3869	3876	torysów	torysi	PER	ORG-Tories
+3879	3889	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+3913	3919	Kanady	Kanada	LOC	GPE-Canada
+3925	3936	AggregateIQ	AggregateIQ	ORG	ORG-Aggregate-IQ
+3971	3984	Kanadyjczykom	Kanadyjczycy	PER	GPE-Canada
+3985	4019	Demokratyczna Partia Unionistyczna	Demokratyczna Partia Unionistyczna	ORG	ORG-DUP-Democratic-Unionist-Party
+4021	4024	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+4030	4037	BeLeave	BeLeave	ORG	ORG-BeLeave
+4088	4097	Cummingsa	Cummings	PER	PER-Dominic-Cummings
+4135	4140	Wylie	Wylie	PER	PER-Christopher-Wylie
+4154	4164	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+4190	4197	BeLeave	BeLeave	ORG	ORG-BeLeave
+4473	4478	Wylie	Wylie	PER	PER-Christopher-Wylie
+4480	4493	Shahmir Sanni	Shahmir Sanni	PER	PER-Shahmir-Sanni
+4508	4513	Wylie	Wylie	PER	PER-Christopher-Wylie
+4574	4581	torysów	torysi	PER	ORG-Tories
+4678	4688	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+4840	4845	Sanni	Sanni	PER	PER-Shahmir-Sanni
+4874	4883	Channel 4	Channel 4	PRO	PRO-Channel-4
+4931	4938	torysów	torysi	PER	ORG-Tories
+5014	5017	May	May	PER	PER-Theresa-May
+5018	5035	Stephen Parkinson	Stephen Parkinson	PER	PER-Stephen-Parkinson
+5048	5061	Shahmir Sanni	Shahmir Sanni	PER	PER-Shahmir-Sanni
+5154	5161	Shahmir	Shahmir	PER	PER-Shahmir-Sanni
+5228	5237	Parkinson	Parkinson	PER	PER-Stephen-Parkinson
+5254	5262	Sanniego	Sanni	PER	PER-Shahmir-Sanni
+5358	5363	Sanni	Sanni	PER	PER-Shahmir-Sanni
+5375	5384	Pakistanu	Pakistan	LOC	GPE-Pakistan
+5467	5476	Parkinson	Parkinson	PER	PER-Stephen-Parkinson
+5538	5555	Christopher Wylie	Christopher Wylie	PER	PER-Christopher-Wylie
+5565	5568	May	May	PER	PER-Theresa-May
+5619	5629	Parkinsona	Parkinson	PER	PER-Stephen-Parkinson
+5647	5649	CA	CA	ORG	ORG-Cambridge-Analytica
+5671	5677	Trumpa	Trump	PER	PER-Donald-Trump
+5800	5809	Facebooka	Facebook	PRO	PRO-Facebook
+5838	5857	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+5915	5918	USA	USA	LOC	GPE-USA
+5941	5960	Robertowi Mercerowi	Robert Mercer	PER	PER-Robert-mercer
+5963	5982	Stevenowi Bannonowi	Steven Bannon	PER	PER-Steve-Bannon
+6032	6046	Breitbart News	Breitbart News	PRO	PRO-Breitbart-News
+6048	6054	Mercer	Mercer	PER	PER-Robert-mercer
+6074	6083	Breitbart	Breitbart	PRO	PRO-Breitbart-News
+6141	6148	Bannona	Bannon	PER	PER-Steve-Bannon
+6195	6206	Waszyngtonu	Waszyngton	LOC	GPE-WashingtonDC
+6213	6223	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+6234	6236	CA	CA	ORG	ORG-Cambridge-Analytica
+6247	6253	Mercer	Mercer	PER	PER-Robert-mercer
+6263	6270	Bannona	Bannon	PER	PER-Steve-Bannon
+6308	6319	Facebookiem	Facebook	PRO	PRO-Facebook
+6332	6341	Facebooka	Facebook	PRO	PRO-Facebook
+6342	6357	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+6453	6455	CA	CA	ORG	ORG-Cambridge-Analytica
+6515	6525	Zuckerberg	Zuckerberg	PER	PER-Mark-Zuckerberg
+6676	6686	Zuckerberg	Zuckerberg	PER	PER-Mark-Zuckerberg
+6726	6728	CA	CA	ORG	ORG-Cambridge-Analytica
+6988	7000	The Atlantic	The Atlantic	PRO	PRO-The-Atlantic
+7011	7021	Ian Bogost	Ian Bogost	PER	PER-Ian-Bogost
+7024	7055	Georgia Institute of Technology	Georgia Institute of Technology	ORG	ORG-Georgia-Institute-of-Technology
+7090	7099	Facebooku	Facebook	PRO	PRO-Facebook
+7120	7131	Cow Clicker	Cow Clicker	PRO	PRO-Cow-Clicker
+7202	7208	Bogost	Bogost	PER	PER-Ian-Bogost
+7456	7465	Facebooka	Facebook	PRO	PRO-Facebook
+7553	7562	Facebooka	Facebook	PRO	PRO-Facebook
+7640	7650	Zuckerberg	Zuckerberg	PER	PER-Mark-Zuckerberg
+7700	7705	Wired	Wired	PRO	PRO-Wired
+7854	7878	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+7897	7909	Kongresu USA	Kongres USA	ORG	ORG-United-States-Congress
+7919	7942	parlamentu brytyjskiego	Parlament brytyjski	ORG	ORG-British-Parlament
+7953	7981	Federalną Komisję Handlu USA	Federalna Komisja Handlu USA	ORG	ORG-Federal-Trade-Commission
+7996	8006	Zuckerberg	Zuckerberg	PER	PER-Mark-Zuckerberg
+8097	8107	Zuckerberg	Zuckerberg	PER	PER-Mark-Zuckerberg
+8165	8172	Wyliego	Wylie	PER	PER-Christopher-Wylie
+8240	8248	Guardian	Guardian	PRO	PRO-The-Guardian
+8256	8258	CA	CA	ORG	ORG-Cambridge-Analytica
+8326	8332	Łukoil	Łukoil	ORG	ORG-Lukoil
+8336	8342	Łukoil	Łukoil	ORG	ORG-Lukoil
+8386	8389	FSB	FSB	ORG	ORG-FCB-Federal-Security-Service-of-the-Russian-Federation
+8428	8431	Nix	Nix	PER	PER-Alexander-Nix
+8460	8462	CA	CA	ORG	ORG-Cambridge-Analytica
+8465	8472	Nigerii	Nigeria	LOC	GPE-Nigeria
+8569	8574	Wylie	Wylie	PER	PER-Christopher-Wylie
+8576	8579	Nix	Nix	PER	PER-Alexander-Nix
+8611	8620	Łukoilowi	Łukoil	ORG	ORG-Lukoil
+8637	8642	Wylie	Wylie	PER	PER-Christopher-Wylie
+8773	8779	Rosjan	Rosjanie	PER	GPE-Russia
+8816	8825	Facebooka	Facebook	PRO	PRO-Facebook
+8843	8856	Alexander Nix	Alexander Nix	PER	PER-Alexander-Nix
+8861	8875	Alexandr Kogan	Alexandr Kogan	PER	PER-Alexander-Kogan
+8901	8910	Rosjanami	Rosjanie	PER	GPE-Russia
+8927	8933	Łukoil	Łukoil	ORG	ORG-Lukoil
+8953	8956	Nix	Nix	PER	PER-Alexander-Nix
+8989	8994	Kogan	Kogan	PER	PER-Alexander-Kogan
+9021	9026	Rosji	Rosja	LOC	GPE-Russia
+9115	9123	Kosiński	Kosiński	PER	PER-Michał-Kosiński
+9156	9161	Rosji	Rosja	LOC	GPE-Russia
+9208	9216	Rosjanie	Rosjanie	PER	GPE-Russia
+9231	9236	Kogan	Kogan	PER	PER-Alexander-Kogan
+9253	9255	CA	CA	ORG	ORG-Cambridge-Analytica
+9268	9277	Facebooka	Facebook	PRO	PRO-Facebook
+9317	9330	Alexander Nix	Alexander Nix	PER	PER-Alexander-Nix
+9405	9408	SCL	SCL	ORG	ORG-SCL-Group
+9411	9413	CA	CA	ORG	ORG-Cambridge-Analytica
+9428	9432	NATO	NATO	ORG	ORG-NATO
+9486	9491	Wylie	Wylie	PER	PER-Christopher-Wylie
+9505	9527	Katarzyna Szymielewicz	Katarzyna Szymielewicz	PER	PER-Katarzyna-Szymielewicz
+9537	9556	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica

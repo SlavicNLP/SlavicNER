@@ -1,0 +1,31 @@
+22	33	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+43	46	May	May	PER	PER-Theresa-May
+119	122	Ayr	Ayr	LOC	GPE-Ayr
+156	173	Alex Begg and Co.	Alex Begg and Co.	ORG	ORG-Alex-Begg-and-Co
+224	233	Newcastle	Newcastle	LOC	GPE-Newcastle
+256	259	May	May	PER	PER-Theresa-May
+312	329	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+332	349	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+378	387	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+435	449	Downing Street	Downing Street	LOC	LOC-Downing-Street
+487	499	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+623	629	Brexit	Brexit	EVT	EVT-Brexit
+632	647	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+793	795	UE	UE	ORG	ORG-European-Union
+950	959	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+976	987	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1115	1117	UE	UE	ORG	ORG-European-Union
+1195	1210	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1218	1225	Szkocji	Szkocja	LOC	GPE-Scotland
+1316	1324	Londynie	Londyn	LOC	GPE-London
+1497	1514	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+1517	1525	Irlandią	Irlandia	LOC	GPE-Ireland
+1676	1694	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+1740	1756	Morze Irlandzkie	Morze Irlandzkie	LOC	LOC-Irish-Sea
+1772	1789	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1837	1854	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1920	1937	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2008	2011	May	May	PER	PER-Theresa-May
+2148	2156	Belfastu	Belfast	LOC	GPE-Belfast
+2159	2177	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+2190	2195	Barry	Barry	LOC	GPE-Barry

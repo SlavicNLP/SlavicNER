@@ -1,0 +1,34 @@
+13	31	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+78	92	Великобритании	Великобритания	LOC	GPE-Great-Britain
+93	103	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+114	127	Джереми Ханта	Джереми Хант	PER	PER-Jeremy-Hunt
+165	180	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+205	217	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+260	274	Великобритании	Великобритания	LOC	GPE-Great-Britain
+354	369	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+388	400	gordonua.com	gordonua.com	PRO	PRO-Gordonua
+415	422	Twitter	Twitter	PRO	PRO-Twitter
+440	450	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+465	470	Ханта	Хант	PER	PER-Jeremy-Hunt
+552	563	Мэтт Хэнкок	Мэтт Хэнкок	PER	PER-Matthew-Hancock
+571	578	Хэнкока	Хэнкок	PER	PER-Matthew-Hancock
+588	623	министерства культуры, СМИ и спорта	министерство культуры, СМИ и спорта	ORG	ORG-UK-Department-for-Digital-Culture-Media-and-Sport
+658	670	Джереми Райт	Джереми Райт	PER	PER-Jeremy-Wright
+672	694	Британскую прокуратуру	Британская прокуратура	ORG	ORG-Attorney-General
+702	707	Райта	Райт	PER	PER-Jeremy-Wright
+718	730	Джеффри Кокс	Джеффри Кокс	PER	PER-Geoffrey-Cox
+732	736	Хант	Хант	PER	PER-Jeremy-Hunt
+842	849	Лондона	Лондон	LOC	GPE-London
+852	866	Олимпиаде 2012	Олимпиада 2012	EVT	EVT-2012-Summer_Olympics
+880	883	МИД	МИД	ORG	ORG-Foreign-Office
+894	901	Twitter	Twitter	PRO	PRO-Twitter
+1071	1077	Brexit	Brexit	EVT	EVT-Brexit
+1121	1128	Reuters	Reuters	ORG	ORG-Reuters
+1145	1149	Хант	Хант	PER	PER-Jeremy-Hunt
+1186	1194	Британии	Британия	LOC	GPE-Great-Britain
+1198	1207	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1290	1296	Brexit	Brexit	EVT	EVT-Brexit
+1305	1312	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1333	1351	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+1395	1398	Мэй	Мэй	PER	PER-Theresa-May
+1474	1480	Brexit	Brexit	EVT	EVT-Brexit

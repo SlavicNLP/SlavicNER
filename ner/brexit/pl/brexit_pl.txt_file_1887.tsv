@@ -1,0 +1,29 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+46	53	Europie	Europa	LOC	LOC-Europe
+63	74	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+77	94	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+259	267	Statnett	Statnett	ORG	ORG-Statnett
+270	280	Norwegowie	Norwegowie	PER	GPE-Norway
+283	294	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+297	310	National Grid	National Grid	ORG	ORG-National-Grid
+346	354	Brexicie	Brexit	EVT	EVT-Brexit
+486	496	Vattenfall	Vattenfall	ORG	ORG-Vattenfall
+587	593	Brexit	Brexit	EVT	EVT-Brexit
+717	728	W. Brytania	W. Brytania	LOC	GPE-Great-Britain
+888	899	W. Brytania	W. Brytania	LOC	GPE-Great-Britain
+931	941	Szwajcaria	Szwajcaria	LOC	GPE-Switzerland
+956	964	Statnett	Statnett	ORG	ORG-Statnett
+966	972	Brexit	Brexit	EVT	EVT-Brexit
+999	1010	W. Brytanię	W. Brytania	LOC	GPE-Great-Britain
+1418	1425	Stanett	Stanett	ORG	ORG-Statnett
+1438	1450	NorthConnect	NorthConnect	PRO	PRO-NorthConnect
+1485	1493	Norwegii	Norwegia	LOC	GPE-Norway
+1632	1640	Statnett	Statnett	ORG	ORG-Statnett
+1674	1686	NorthConnect	NorthConnect	PRO	PRO-NorthConnect
+1837	1849	NorthConnect	NorthConnect	PRO	PRO-NorthConnect
+1851	1864	Odd Oeygarden	Odd Oeygarden	PER	PER-Odd-Oeygarden
+1880	1886	Brexit	Brexit	EVT	EVT-Brexit
+1938	1946	Statnett	Statnett	ORG	ORG-Statnett
+2010	2016	Europą	Europa	LOC	LOC-Europe
+2055	2066	W. Brytania	W. Brytania	LOC	GPE-Great-Britain
+2069	2084	Unia Europejska	Unia Europejska	ORG	ORG-European-Union

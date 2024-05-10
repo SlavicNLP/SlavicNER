@@ -1,0 +1,17 @@
+0	13	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+63	71	Британии	Британия	LOC	GPE-Great-Britain
+73	86	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+125	139	Великобритании	Великобритания	LOC	GPE-Great-Britain
+222	231	Евросоюза	Евросоюз	ORG	ORG-European-Union
+263	281	кабинете министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+335	343	брексита	брексит	EVT	EVT-Brexit
+345	356	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+380	388	Джонсона	Джонсон	PER	PER-Boris-Johnson
+437	447	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+470	497	плане выхода Британии из ЕС	план выхода Британии из ЕС	PRO	PRO-Brexit-withdrawal-agreement
+547	560	Даунинг-стрит	Даунинг-стрит	LOC	LOC-Downing-Street
+619	634	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+744	750	Бориса	Борис	PER	PER-Boris-Johnson
+775	782	Джонсон	Джонсон	PER	PER-Boris-Johnson
+909	932	Балканского полуострова	Балканский полуостров	LOC	LOC-the-Balkan-Peninsula
+1002	1009	Джонсон	Джонсон	PER	PER-Boris-Johnson

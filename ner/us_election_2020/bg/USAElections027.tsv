@@ -1,0 +1,49 @@
+0	6	Меркел	Меркел	PER	PER-Angela-Merkel
+10	16	Байдън	Байдън	PER	PER-Joe-Biden
+32	40	Германия	Германия	LOC	GPE-Germany
+43	49	Европа	Европа	LOC	LOC-Europe
+102	128	пандемията на коронавируса	пандемия на коронавирус	EVT	EVT-Pandemic
+193	201	Германия	Германия	LOC	GPE-Germany
+233	246	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+286	296	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+300	314	изборите в САЩ	избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+330	338	Германия	Германия	LOC	GPE-Germany
+433	436	Шоа	Шоа	EVT	EVT-Holokost
+458	475	Берлинската стена	Берлинска стена	LOC	LOC-Berlin-Wall
+574	586	американците	американци	PER	GPE-USA
+660	670	германците	германци	PER	GPE-Germany
+714	742	Съединените американски щати	Съединени американски щати	LOC	GPE-USA
+793	799	Меркел	Меркел	PER	PER-Angela-Merkel
+892	900	Германия	Германия	LOC	GPE-Germany
+905	911	Европа	Европа	LOC	LOC-Europe
+956	959	DPA	DPA	ORG	ORG-DPA
+964	970	Меркел	Меркел	PER	PER-Angela-Merkel
+992	998	Байдън	Байдън	PER	PER-Joe-Biden
+1049	1055	Байдън	Байдън	PER	PER-Joe-Biden
+1139	1147	Германия	Германия	LOC	GPE-Germany
+1150	1156	Европа	Европа	LOC	LOC-Europe
+1300	1312	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+1435	1442	Америка	Америка	LOC	GPE-USA
+1445	1451	Меркел	Меркел	PER	PER-Angela-Merkel
+1532	1538	Меркел	Меркел	PER	PER-Angela-Merkel
+1590	1593	САЩ	САЩ	LOC	GPE-USA
+1596	1600	НАТО	НАТО	ORG	ORG-NATO
+1762	1788	пандемията на коронавируса	пандемия на коронавирус	EVT	EVT-Pandemic
+2020	2039	Атлантическия океан	Атлантически океан	LOC	LOC-Atlantic-Ocean
+2043	2049	Меркел	Меркел	PER	PER-Angela-Merkel
+2086	2089	САЩ	САЩ	LOC	GPE-USA
+2109	2117	Германия	Германия	LOC	GPE-Germany
+2126	2130	НАТО	НАТО	ORG	ORG-NATO
+2167	2172	Тръмп	Тръмп	PER	PER-Donald-Trump
+2187	2195	Германия	Германия	LOC	GPE-Germany
+2324	2329	Тръмп	Тръмп	PER	PER-Donald-Trump
+2358	2366	Германия	Германия	LOC	GPE-Germany
+2382	2391	демократи	демократи	PER	ORG-Democratic-Party-USA
+2394	2400	Байдън	Байдън	PER	PER-Joe-Biden
+2511	2517	Меркел	Меркел	PER	PER-Angela-Merkel
+2519	2526	Америка	Америка	LOC	GPE-USA
+2631	2637	Меркел	Меркел	PER	PER-Angela-Merkel
+2647	2658	европейците	европейци	PER	LOC-Europe
+2696	2702	Меркел	Меркел	PER	PER-Angela-Merkel
+2776	2782	Байдън	Байдън	PER	PER-Joe-Biden
+2785	2790	Харис	Харис	PER	PER-Kamala-Harris

@@ -1,0 +1,45 @@
+0	7	Україна	Україна	LOC	GPE-Ukraine
+31	36	COVID	COVID	EVT	EVT-Covid-19
+45	51	Pfizer	Pfizer	ORG	ORG-Pfizer
+55	60	Ляшко	Ляшко	PER	PER-Viktor-Liashko
+91	96	COVAX	COVAX	PRO	PRO-Covax-initiative
+97	104	Україна	Україна	LOC	GPE-Ukraine
+131	143	коронавірусу	коронавірус	EVT	EVT-Covid-19
+195	203	Цельсієм	Цельсій	PER	PER-Celsius
+262	268	Pfizer	Pfizer	ORG	ORG-Pfizer
+269	277	BioNTech	BioNTech	ORG	ORG-BioNTech
+299	304	LB.ua	LB.ua	PRO	PRO-LB.ua
+378	385	України	Україна	LOC	GPE-Ukraine
+386	398	Віктор Ляшко	Віктор Ляшко	PER	PER-Viktor-Liashko
+419	426	Україна	Україна	LOC	GPE-Ukraine
+445	487	Глобального альянсу з вакцин та імунізації	Глобальний альянс з вакцин та імунізації	ORG	ORG-Gavi
+489	493	GAVI	GAVI	ORG	ORG-Gavi
+550	562	мРНК-вакцину	мРНК-вакцина	PRO	PRO-mRNA-Vaccine
+599	604	Ляшко	Ляшко	PER	PER-Viktor-Liashko
+664	670	Pfizer	Pfizer	ORG	ORG-Pfizer
+671	679	BioNTech	BioNTech	ORG	ORG-BioNTech
+683	690	Moderna	Moderna	ORG	ORG-Moderna
+705	711	Pfizer	Pfizer	ORG	ORG-Pfizer
+722	727	COVAХ	COVAХ	PRO	PRO-Covax-initiative
+768	772	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+807	819	мРНК-вакцина	мРНК-вакцина	PRO	PRO-mRNA-Vaccine
+850	856	Pfizer	Pfizer	ORG	ORG-Pfizer
+870	875	Ляшко	Ляшко	PER	PER-Viktor-Liashko
+901	907	Pfizer	Pfizer	ORG	ORG-Pfizer
+932	940	BioNTech	BioNTech	ORG	ORG-BioNTech
+943	949	Pfizer	Pfizer	ORG	ORG-Pfizer
+1001	1013	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1089	1095	Pfizer	Pfizer	ORG	ORG-Pfizer
+1198	1204	Pfizer	Pfizer	ORG	ORG-Pfizer
+1209	1221	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1252	1256	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+1350	1356	Pfizer	Pfizer	ORG	ORG-Pfizer
+1369	1377	BioNTech	BioNTech	ORG	ORG-BioNTech
+1405	1408	США	США	LOC	GPE-USA
+1449	1456	Україні	Україна	LOC	GPE-Ukraine
+1461	1468	Україні	Україна	LOC	GPE-Ukraine
+1510	1522	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1667	1674	України	Україна	LOC	GPE-Ukraine
+1675	1688	Денис Шмигаль	Денис Шмигаль	PER	PER-Denys-Shmyhal
+1698	1718	Європейській комісії	Європейська комісія	ORG	ORG-European-Commission
+1771	1776	COVID	COVID	EVT	EVT-Covid-19

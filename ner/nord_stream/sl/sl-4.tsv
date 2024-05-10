@@ -1,0 +1,40 @@
+0	8	Merklova	Merkel	PER	PER-Angela-Merkel
+21	42	višegrajske četverice	višegrajska četverica	ORG	ORG-Visegrád-Group
+54	61	brexitu	brexit	EVT	EVT-Brexit
+63	71	Merklova	Merkel	PER	PER-Angela-Merkel
+95	109	Evropska unija	Evropska unija	ORG	ORG-European-Union
+113	129	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+167	174	brexitu	brexit	EVT	EVT-Brexit
+305	307	EU	EU	ORG	ORG-European-Union
+401	406	Irsko	Irska	LOC	GPE-Ireland
+440	443	dpa	dpa	ORG	ORG-DPA
+490	498	Slovaška	Slovaška	LOC	GPE-Slovakia
+500	509	Madžarska	Madžarska	LOC	GPE-Hungary
+511	518	Poljska	Poljska	LOC	GPE-Poland
+522	527	Češka	Češka	LOC	GPE-Czech-Republic
+622	629	Nemčijo	Nemčija	LOC	GPE-Germany
+667	673	Maroku	Maroko	LOC	GPE-Morocco
+717	725	Merklove	Merkel	PER	PER-Angela-Merkel
+759	766	Nemčijo	Nemčija	LOC	GPE-Germany
+810	820	Bratislavi	Bratislava	LOC	GPE-Bratislava
+873	881	Francija	Francija	LOC	GPE-France
+934	947	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+949	954	Pariz	Pariz	LOC	GPE-Paris
+988	1019	evropski direktivi o plinovodih	evropska direktiva o plinovodih	PRO	PRO-Gas-Directive-EU
+1066	1082	Severnega toka 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1156	1163	Nemčijo	Nemčija	LOC	GPE-Germany
+1180	1188	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1263	1269	Kijeva	Kijev	LOC	GPE-Kiev
+1273	1284	Washingtona	Washington	LOC	GPE-WashingtonDC
+1320	1336	Severnega toka 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1337	1344	Nemčija	Nemčija	LOC	GPE-Germany
+1348	1350	EU	EU	ORG	ORG-European-Union
+1370	1376	Rusije	Rusija	LOC	GPE-Russia
+1413	1421	Slovaška	Slovaška	LOC	GPE-Slovakia
+1423	1428	Češka	Češka	LOC	GPE-Czech-Republic
+1430	1439	Madžarska	Madžarska	LOC	GPE-Hungary
+1443	1450	Poljska	Poljska	LOC	GPE-Poland
+1554	1557	dpa	dpa	ORG	ORG-DPA
+1615	1637	padca berlinskega zidu	padec berlinskega zidu	EVT	EVT-Fall-of-the-Berlin-Wall
+1639	1647	Merklova	Merkel	PER	PER-Angela-Merkel
+1764	1771	Nemčije	Nemčija	LOC	GPE-Germany

@@ -1,0 +1,32 @@
+32	40	covid-19	covid-19	EVT	EVT-Covid-19
+142	155	koronavirusom	koronavirus	EVT	EVT-Covid-19
+203	214	TiB MolBiol	TiB MolBiol	ORG	ORG-TIB-Molbiol-Syntheselabor-GmbH
+434	445	koronavirus	koronavirus	EVT	EVT-Covid-19
+531	539	Mariboru	Maribor	LOC	GPE-Maribor
+541	550	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+554	559	Kopru	Koper	LOC	GPE-Koper
+561	602	inštitut za mikrobiologijo in imunologijo	Inštitut za mikrobiologijo in imunologijo	ORG	ORG-Institute-of-Microbiology-and-Immunology
+640	654	klinika Golnik	klinika Golnik	ORG	ORG-University-Clinic-of-Respiratory-and-Allergic-Diseases-Golnik
+712	723	TiB MolBiol	TiB MolBiol	ORG	ORG-TIB-Molbiol-Syntheselabor-GmbH
+766	773	Seegene	Seegene	ORG	ORG-Seegene
+838	861	koronavirusa SARS-CoV-2	koronavirus SARS-CoV-2	EVT	EVT-Covid-19
+1222	1252	TIB Molbiol Syntheselabor GmbH	TIB Molbiol Syntheselabor GmbH	ORG	ORG-TIB-Molbiol-Syntheselabor-GmbH
+1300	1312	Tagesspiegel	Tagesspiegel	PRO	PRO-Tagesspiegel
+1406	1418	Olfert Landt	Olfert Landt	PER	PER-Olfert-Landt
+1449	1456	Berlinu	Berlin	LOC	GPE-Berlin
+1946	1951	Landt	Landt	PER	PER-Olfert-Landt
+1963	1975	Tagesspiegel	Tagesspiegel	PRO	PRO-Tagesspiegel
+2611	2622	koronavirus	koronavirus	EVT	EVT-Covid-19
+2660	2668	Hongkong	Hongkong	LOC	GPE-Hong-Kong
+2851	2863	Tagesspiegel	Tagesspiegel	PRO	PRO-Tagesspiegel
+2964	2970	Evropi	Evropa	LOC	LOC-Europe
+3003	3006	DHL	DHL	ORG	ORG-DHL
+3010	3013	UPS	UPS	ORG	ORG-UPS
+3148	3165	Frankfurt am Main	Frankfurt am Main	LOC	GPE-Frankfurt-am-Main
+3251	3263	Tagesspiegel	Tagesspiegel	PRO	PRO-Tagesspiegel
+3384	3389	Landt	Landt	PER	PER-Olfert-Landt
+3642	3649	Landtov	Landt	PER	PER-Olfert-Landt
+3682	3687	Landt	Landt	PER	PER-Olfert-Landt
+4038	4042	Iran	Iran	LOC	GPE-Iran
+4077	4090	koronavirusom	koronavirus	EVT	EVT-Covid-19
+4123	4128	Landt	Landt	PER	PER-Olfert-Landt

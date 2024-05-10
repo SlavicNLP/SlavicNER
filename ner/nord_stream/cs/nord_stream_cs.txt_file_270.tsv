@@ -1,0 +1,15 @@
+0	3	DPA	DPA	ORG	ORG-DPA
+11	19	Trumpovy	Trump	PER	PER-Donald-Trump
+28	35	Německa	Německo	LOC	GPE-Germany
+73	79	Brusel	Brusel	LOC	GPE-Brussles
+80	86	Berlín	Berlín	LOC	GPE-Berlin
+87	94	Reuters	Reuters	ORG	ORG-Reuters
+95	107	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+122	129	Německa	Německo	LOC	GPE-Germany
+147	152	Ruska	Rusko	LOC	GPE-Russia
+244	251	Berlína	Berlín	LOC	GPE-Berlin
+302	306	NATO	NATO	ORG	ORG-NATO
+362	365	DPA	DPA	ORG	ORG-DPA
+491	494	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+508	527	The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+531	536	Trump	Trump	PER	PER-Donald-Trump

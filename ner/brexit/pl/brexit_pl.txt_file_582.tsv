@@ -1,0 +1,54 @@
+0	10	W.Brytania	W.Brytania	LOC	GPE-Great-Britain
+63	70	Brexitu	Brexit	EVT	EVT-Brexit
+248	263	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+332	343	Theresy May	Theresa May	PER	PER-Theresa-May
+355	364	The Times	The Times	PRO	PRO-The-Times
+588	596	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+702	709	Brexitu	Brexit	EVT	EVT-Brexit
+714	731	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+820	830	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+868	870	UE	UE	ORG	ORG-European-Union
+993	1011	Komisją Europejską	Komisja Europejska	ORG	ORG-European-Commission
+1062	1064	UE	UE	ORG	ORG-European-Union
+1111	1138	Światową Organizację Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization
+1140	1143	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+1252	1261	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1293	1326	Europejskim Obszarze Gospodarczym	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+1375	1377	UE	UE	ORG	ORG-European-Union
+1674	1689	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1763	1784	Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+1794	1801	Chinami	Chiny	LOC	GPE-China
+1803	1810	Indiami	Indie	LOC	GPE-India
+1812	1821	Australią	Australią	LOC	GPE-Australia
+1832	1847	Zatoki Perskiej	Zatoka Perska	LOC	LOC-Persian-Gulf
+1895	1902	Brexitu	Brexit	EVT	EVT-Brexit
+2037	2039	UE	UE	ORG	ORG-European-Union
+2093	2100	Londynu	Londyn	LOC	GPE-London
+2262	2269	Brexitu	Brexit	EVT	EVT-Brexit
+2487	2493	Anglii	Anglia	LOC	GPE-England
+2502	2515	West Midlands	West Midlands	LOC	LOC-West-Midlands
+2523	2533	Birmingham	Birmingham	LOC	GPE-Birmingham
+2540	2557	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+2637	2645	Irlandią	Irlandia	LOC	GPE-Ireland
+2701	2711	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+2731	2775	ministerstwa ds. wyjścia z Unii Europejskiej	Ministerstwo ds. wyjścia z Unii Europejskiej	ORG	ORG-Ministry-of-Brexity
+2847	2858	Steve Baker	Steve Baker	PER	PER-Steve-Baker
+2877	2885	Brukseli	Bruksela	LOC	GPE-Brussles
+2932	2942	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+2981	2998	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3027	3044	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3175	3191	Michela Barniera	Michel Barnier	PER	PER-Michel-Barnier
+3393	3416	Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+3509	3511	UE	UE	ORG	ORG-European-Union
+3531	3533	27	27	ORG	ORG-European-Union
+3572	3574	UE	UE	ORG	ORG-European-Union
+3625	3642	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3703	3714	Theresy May	Theresa May	PER	PER-Theresa-May
+3730	3745	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3763	3765	UE	UE	ORG	ORG-European-Union
+3936	3951	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3980	3997	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4022	4031	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+4054	4061	Londynu	Londyn	LOC	GPE-London
+4062	4073	Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa
+4075	4078	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

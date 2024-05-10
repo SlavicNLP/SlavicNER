@@ -1,0 +1,23 @@
+31	33	EU	EU	ORG	ORG-European-Union
+183	196	Evropské unie	Evropská unie	ORG	ORG-European-Union
+279	298	Airlines for Europe	Airlines for Europe	ORG	ORG-Airlines-for-Europe
+300	303	A4E	A4E	ORG	ORG-Airlines-for-Europe
+385	391	Brusel	Brusel	LOC	GPE-Brussles
+414	421	Ryanair	Ryanair	ORG	ORG-Ryanair
+448	463	Wolfgang Rattay	Wolfgang Rattay	PER	PER-Wolfgang-Buchele
+473	480	Reuters	Reuters	ORG	ORG-Reuters
+720	726	Českem	Česko	LOC	GPE-Czech-Republic
+906	909	A4E	A4E	ORG	ORG-Airlines-for-Europe
+910	925	Michael O'Leary	Michael O'Leary	PER	PER-Michael-O'Leary
+970	977	Ryanair	Ryanair	ORG	ORG-Ryanair
+980	993	Evropská unie	Evropská unie	ORG	ORG-European-Union
+1226	1234	Schiphol	Schiphol	LOC	LOC-Amsterdam-Airport-Schiphol
+1326	1329	A4E	A4E	ORG	ORG-Airlines-for-Europe
+1344	1347	IAG	IAG	ORG	ORG-IAG-International-Airlines-Group
+1365	1380	British Airways	British Airways	ORG	ORG-British-Airways
+1389	1396	easyJet	easyJet	ORG	ORG-EasyJet
+1398	1407	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+1410	1417	Ryanair	Ryanair	ORG	ORG-Ryanair
+1461	1468	Bruselu	Brusel	LOC	GPE-Brussles
+2028	2035	Reuters	Reuters	ORG	ORG-Reuters
+2037	2040	ČTK	ČTK	ORG	ORG-CTK

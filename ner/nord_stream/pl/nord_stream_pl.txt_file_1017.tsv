@@ -1,0 +1,30 @@
+8	11	USA	USA	LOC	GPE-USA
+28	41	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+65	68	USA	USA	LOC	GPE-USA
+121	134	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+192	195	USA	USA	LOC	GPE-USA
+196	206	Rick Perry	Rick Perry	PER	PER-Rick-Perry
+220	242	Rady Energetycznej USA	Rada Energetyczna USA	ORG	ORG-US-Energy-Council
+243	258	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+288	296	Brukseli	Bruksela	LOC	GPE-Brussles
+359	377	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+378	385	Ukraina	Ukraina	LOC	GPE-Ukraine
+386	391	Rosja	Rosja	LOC	GPE-Russia
+508	515	Ukrainę	Ukraina	LOC	GPE-Ukraine
+591	594	USA	USA	LOC	GPE-USA
+614	620	Polska	Polska	LOC	GPE-Poland
+679	685	Moskwy	Moskwa	LOC	GPE-Moscow
+687	696	Senat USA	Senat USA	ORG	ORG-United-States-Senate
+850	862	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+943	947	NATO	NATO	ORG	ORG-NATO
+962	970	Brukseli	Bruksela	LOC	GPE-Brussles
+985	992	Niemców	Niemcy	PER	GPE-Germany
+1024	1037	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1041	1044	USA	USA	LOC	GPE-USA
+1059	1072	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1077	1091	Turkish Stream	Turkish Stream	PRO	PRO-Turkish-Stream
+1158	1163	Perry	Perry	PER	PER-Rick-Perry
+1296	1306	Amerykanie	Amerykanie	PER	GPE-USA
+1353	1366	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1368	1379	Kommiersant	Kommiersant	PRO	PRO-Kommersant
+1380	1396	Wojciech Jakóbik	Wojciech Jakóbik	PER	PER-Wojciech-Jakóbik

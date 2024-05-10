@@ -1,0 +1,29 @@
+0	11	Niedzielski	Niedzielski	PER	PER-Adam-Niedzielski
+131	143	koronawirusa	koronawirus	EVT	EVT-Covid-19
+186	190	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+191	206	Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+473	477	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+686	721	Warszawskim Uniwersytetem Medycznym	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+933	945	koronawirusa	koronawirus	EVT	EVT-Covid-19
+988	992	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+993	1008	Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+1161	1169	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+1207	1213	Polski	Polska	LOC	GPE-Poland
+1261	1267	Pfizer	Pfizer	ORG	ORG-Pfizer
+1617	1621	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+1624	1644	Ministerstwa Zdrowia	Ministerstwo Zdrowia	ORG	ORG-Ministry-of-Health-Poland
+1645	1667	Naczelna Rada Lekarska	Naczelna Rada Lekarska	ORG	ORG-Naczelna-Rada-Lekarska-Poland
+1813	1821	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+1890	1893	NFZ	NFZ	ORG	ORG-National-Health-Fund-Poland
+2061	2094	Kancelarii Prezesa Rady Ministrów	Kancelaria Prezesa Rady Ministrów	ORG	ORG-Office-of-the-Prime-Minister-Poland
+2498	2514	Adam Niedzielski	Adam Niedzielski	PER	PER-Adam-Niedzielski
+2575	2612	Warszawskiego Uniwersytetu Medycznego	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+2761	2773	koronawirusa	koronawirus	EVT	EVT-Covid-19
+2802	2830	Światowa Organizacja Zdrowia	Światowa Organizacja Zdrowia	ORG	ORG-World-Health-Organization
+2872	2889	Pfizer & BioNTech	Pfizer & BioNTech	ORG	ORG-Pfizer-BioNTech
+3064	3093	Narodowym Programem Szczepień	Narodowy Programem Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+3102	3110	COVID-19	COVID-19	EVT	EVT-Covid-19
+3149	3156	Polaków	Polacy	PER	GPE-Poland
+3299	3308	Comirnaty	Comirnaty	ORG	ORG-Comirnaty
+3330	3337	Pfizera	Pfizer	ORG	ORG-Pfizer
+3340	3348	BioNTech	BioNTech	ORG	ORG-BioNTech

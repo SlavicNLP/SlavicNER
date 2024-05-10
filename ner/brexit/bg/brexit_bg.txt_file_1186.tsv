@@ -1,0 +1,45 @@
+0	13	The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+15	25	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+59	62	САЩ	САЩ	LOC	GPE-USA
+65	69	Кана	Кана	LOC	GPE-Canada
+74	80	Лондон	Лондон	LOC	GPE-London
+195	198	CNN	CNN	PRO	PRO-CNN
+202	216	Джон МакТернан	Джон МакТернан	PER	PER-John-McTernan
+242	252	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+516	523	Брекзит	Брекзит	EVT	EVT-Brexit
+697	713	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+735	755	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+793	813	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1015	1044	Камарата на общините в Лондон	Камара на общините в Лондон	ORG	ORG-House-of-Commons
+1169	1179	Теса Йоуъл	Теса Йоуъл	PER	PER-Tessa-Jowell
+1603	1610	Брекзит	Брекзит	EVT	EVT-Brexit
+1738	1751	Мартин Донъли	Мартин Донъли	PER	PER-Martin-Donnelly
+1783	1799	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2058	2067	Лиъм Фокс	Лиъм Фокс	PER	PER-Liam-Fox
+2082	2089	Брекзит	Брекзит	EVT	EVT-Brexit
+2477	2490	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+2516	2524	Ирландия	Ирландия	LOC	GPE-Ireland
+2527	2543	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2607	2613	Камдън	Камдън	LOC	LOC-Camden-Town
+2616	2627	Уестминстър	Уестминстър	LOC	LOC-Westminster
+2820	2834	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3062	3072	Тереза Май	Тереза Мей	PER	PER-Theresa-May
+3176	3183	Брекзит	Брекзит	EVT	EVT-Brexit
+3206	3222	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+3235	3237	ЕС	ЕС	ORG	ORG-European-Union
+3254	3281	шотландската народна партия	Шотландска народна партия	ORG	ORG-Scottish-National-Party
+3353	3375	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+3547	3554	Брекзит	Брекзит	EVT	EVT-Brexit
+3590	3605	Партия на труда	Партия на труда	ORG	ORG-Labour-Party-UK
+3718	3732	Джеръми Корбин	Джеръми Корбин	PER	PER-Jeremy-Corbyn
+3873	3887	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4179	4186	Брекзит	Брекзит	EVT	EVT-Brexit
+4212	4226	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4334	4348	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4368	4370	ЕС	ЕС	ORG	ORG-European-Union
+4434	4448	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4482	4484	ЕС	ЕС	ORG	ORG-European-Union
+4537	4539	ЕС	ЕС	ORG	ORG-European-Union
+5066	5080	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5145	5159	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+5183	5195	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov

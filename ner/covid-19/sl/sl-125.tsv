@@ -1,0 +1,19 @@
+0	6	Maduro	Maduro	PER	PER-Nicolas-Maduro
+48	56	covid-19	covid-19	EVT	EVT-Covid-19
+106	110	Ivic	Ivic	ORG	ORG-IVIC-Venezuelan-Institute-for-Scientific-Research
+259	269	sars-cov-2	sars-cov-2	EVT	EVT-Covid-19
+308	312	Ansa	Ansa	ORG	ORG-Ansa
+337	370	Svetovni zdravstveni organizaciji	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+372	375	WHO	WHO	ORG	ORG-World-Health-Organization
+447	450	WHO	WHO	ORG	ORG-World-Health-Organization
+528	536	covid-19	covid-19	EVT	EVT-Covid-19
+581	584	WHO	WHO	ORG	ORG-World-Health-Organization
+689	699	remdesivir	remdesivir	PRO	PRO-Remdesivir-(Veklury)
+738	741	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+780	788	covid-19	covid-19	EVT	EVT-Covid-19
+791	794	ZDA	ZDA	LOC	GPE-USA
+828	831	dpa	dpa	ORG	ORG-DPA
+834	840	Maduro	Maduro	PER	PER-Nicolas-Maduro
+862	871	Venezueli	Venezuela	LOC	GPE-Venezuela
+1111	1129	novim kornavirusom	nov koronavirus	EVT	EVT-Covid-19
+1138	1147	covida-19	covid-19	EVT	EVT-Covid-19

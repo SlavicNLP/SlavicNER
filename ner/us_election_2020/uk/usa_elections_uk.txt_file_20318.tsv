@@ -1,0 +1,132 @@
+10	13	США	США	LOC	GPE-USA
+14	27	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+51	60	Білий дім	Білий дім	ORG	ORG-White-House
+122	129	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+178	189	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+228	239	РБК-Україна	РБК-Україна	ORG	ORG-RBC-Ukraine
+296	309	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+349	357	Твіттері	Твіттер	PRO	PRO-Twitter
+371	378	виборам	вибори	EVT	EVT-2020-United-States-Presidential-Election
+611	617	Трампа	Трамп	PER	PER-Donald-Trump
+844	847	США	США	LOC	GPE-USA
+869	879	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+939	945	Трампа	Трамп	PER	PER-Donald-Trump
+1252	1259	Байдена	Байден	PER	PER-Joe-Biden
+1370	1377	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1532	1539	Арізона	Арізона	LOC	GPE-Arizona
+1541	1547	Невада	Невада	LOC	GPE-Nevada
+1549	1556	Мічиган	Мічиган	LOC	GPE-Michigan
+1558	1567	Вісконсін	Вісконсін	LOC	GPE-Wisconsin
+1569	1581	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+1583	1591	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+1647	1653	Трампа	Трамп	PER	PER-Donald-Trump
+1714	1726	Пенсільванії	Пенсільванія	LOC	GPE-Pennsylvania
+1818	1836	Колегію виборників	Колегія виборників	ORG	ORG-United-States-Electoral-College
+1883	1889	Трампа	Трамп	PER	PER-Donald-Trump
+1923	1930	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1967	1979	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+1980	1985	Трамп	Трамп	PER	PER-Donald-Trump
+2031	2039	виборами	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2376	2387	Метью Бранн	Метью Бранн	PER	PER-Matthew-Brann
+2468	2474	Трампа	Трамп	PER	PER-Donald-Trump
+2564	2570	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2829	2841	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+2869	2875	Трампа	Трамп	PER	PER-Donald-Trump
+2885	2894	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+2895	2908	Руді Джуліані	Руді Джуліані	PER	PER-Rudy-Giuliani
+2998	3005	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3192	3214	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+3257	3269	Сідні Пауелл	Сідні Пауелл	PER	PER-Sidney-Powell
+3303	3309	Трампа	Трамп	PER	PER-Donald-Trump
+3410	3414	Куба	Куба	LOC	GPE-Cuba
+3416	3425	Венесуела	Венесуела	LOC	GPE-Venezuela
+3427	3432	Китай	Китай	LOC	GPE-China
+3455	3458	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+3477	3483	Пауелл	Пауелл	PER	PER-Sidney-Powell
+3517	3524	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3595	3603	Dominion	Dominion	ORG	ORG-Dominion-Voting-Systems
+3659	3668	Венесуели	Венесуела	LOC	GPE-Venezuela
+3669	3679	Уго Чавеса	Уго Чавес	PER	PER-Hugo-Chavez
+3748	3754	Трампу	Трамп	PER	PER-Donald-Trump
+3863	3869	Трампу	Трамп	PER	PER-Donald-Trump
+3877	3885	Fox News	Fox News	PRO	PRO-Fox-News
+3925	3931	Пауелл	Пауелл	PER	PER-Sidney-Powell
+4028	4034	Пауелл	Пауелл	PER	PER-Sidney-Powell
+4082	4088	Трампа	Трамп	PER	PER-Donald-Trump
+4317	4325	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+4389	4394	Трамп	Трамп	PER	PER-Donald-Trump
+4426	4433	Байдена	Байден	PER	PER-Joe-Biden
+4630	4637	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+4701	4710	Вісконсін	Вісконсін	LOC	GPE-Wisconsin
+4722	4729	Байдена	Байден	PER	PER-Joe-Biden
+4804	4810	Трампу	Трамп	PER	PER-Donald-Trump
+4897	4904	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+5034	5053	Верховного суду США	Верховний суд США	ORG	ORG-Supreme-Court-of-the-United-States
+5222	5229	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+5286	5292	Трампа	Трамп	PER	PER-Donald-Trump
+5380	5387	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+5401	5414	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+5448	5455	Флориді	Флорида	LOC	GPE-Florida
+5558	5570	Джорджа Буша	Джордж Буша	PER	PER-George-Bush-Jr
+5583	5590	Ел Гора	Ел Гор	PER	PER-Al-Gore
+5633	5640	Байдена	Байден	PER	PER-Joe-Biden
+5707	5725	Колегії виборників	Колегія виборників	ORG	ORG-United-States-Electoral-College
+5762	5768	Трампа	Трамп	PER	PER-Donald-Trump
+5800	5807	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+5892	5898	Трампа	Трамп	PER	PER-Donald-Trump
+5901	5908	Байдена	Байден	PER	PER-Joe-Biden
+5946	5957	РБК-Україна	РБК-Україна	ORG	ORG-RBC-Ukraine
+5967	5972	Трамп	Трамп	PER	PER-Donald-Trump
+6528	6535	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+6682	6693	Білого дому	Білий дім	ORG	ORG-White-House
+6834	6840	Трампа	Трамп	PER	PER-Donald-Trump
+7071	7089	колегії виборників	колегія виборників	ORG	ORG-United-States-Electoral-College
+7145	7148	США	США	LOC	GPE-USA
+7200	7207	Конгрес	Конгрес	ORG	ORG-United-States-Congress
+7321	7324	США	США	LOC	GPE-USA
+7474	7479	Трамп	Трамп	PER	PER-Donald-Trump
+7510	7516	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+7682	7704	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+7885	7890	Трамп	Трамп	PER	PER-Donald-Trump
+7990	7997	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+8021	8027	Трампа	Трамп	PER	PER-Donald-Trump
+8363	8380	виборах 2020 року	вибори 2020 року	EVT	EVT-2020-United-States-Presidential-Election
+8474	8478	Куби	Куба	LOC	GPE-Cuba
+8480	8483	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+8496	8506	Уго Чавеса	Уго Чавес	PER	PER-Hugo-Chavez
+8570	8576	Трампу	Трамп	PER	PER-Donald-Trump
+8769	8772	США	США	LOC	GPE-USA
+8838	8845	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+8865	8871	Трампа	Трамп	PER	PER-Donald-Trump
+9028	9034	Байден	Байден	PER	PER-Joe-Biden
+9191	9198	Байдену	Байден	PER	PER-Joe-Biden
+9343	9348	Китаю	Китай	LOC	GPE-China
+9444	9473	Адміністрація загальних служб	Адміністрація загальних служб	ORG	ORG-General-Services-Administration
+9474	9477	США	США	LOC	GPE-USA
+9495	9502	Байдена	Байден	PER	PER-Joe-Biden
+9822	9828	Трампа	Трамп	PER	PER-Donald-Trump
+9942	9949	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+9964	9970	Байден	Байден	PER	PER-Joe-Biden
+10067	10082	Ентоні Блинкена	Ентоні Блинкен	PER	PER-Antony-Blinken
+10095	10107	Меїр Блінкен	Меїр Блінкен	PER	PER-Meir-Blinken
+10144	10147	США	США	LOC	GPE-USA
+10150	10157	України	Україна	LOC	GPE-Ukraine
+10161	10168	Блінкен	Блінкен	PER	PER-Antony-Blinken
+10206	10209	США	США	LOC	GPE-USA
+10210	10224	Білла Клінтона	Білл Клінтон	PER	PER-Bill-Clinton
+10250	10290	сенатського комітету з міжнародних справ	сенатський комітет з міжнародних справ	ORG	ORG-United-States-Senate-Committee-on-Foreign-Relations
+10323	10326	США	США	LOC	GPE-USA
+10344	10351	Україні	Україна	LOC	GPE-Ukraine
+10413	10418	Криму	Крим	LOC	GPE-Crimea
+10425	10432	Донбасі	Донбас	LOC	LOC-Donbass
+10461	10463	РФ	РФ	LOC	GPE-Russia
+10497	10504	України	Україна	LOC	GPE-Ukraine
+10561	10575	Джейк Салліван	Джейк Салліван	PER	PER-Jake-Sullivan
+10598	10610	Барака Обами	Барак Обама	PER	PER-Barack-Obama
+10652	10659	Байдена	Байден	PER	PER-Joe-Biden
+10707	10722	Хілларі Клінтон	Хілларі Клінтон	PER	PER-Hillary-Clinton
+10802	10812	Джон Керрі	Джон Керрі	PER	PER-John-Kerry
+10884	10904	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+11002	11009	України	Україна	LOC	GPE-Ukraine
+11089	11096	Байдена	Байден	PER	PER-Joe-Biden
+11145	11151	RBC.UA	RBC.UA	ORG	ORG-RBC-Ukraine

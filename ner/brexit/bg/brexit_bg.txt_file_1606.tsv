@@ -1,0 +1,29 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+16	21	София	София	LOC	GPE-Sofia
+56	58	ЕС	ЕС	ORG	ORG-European-Union
+86	89	Мей	Мей	PER	PER-Theresa-May
+186	194	Телеграф	Телеграф	PRO	PRO-The-Daily-Telegraph
+205	219	Великобритания	Великобритания	LOC	GPE-Great-Britain
+361	368	Брекзит	Брекзит	EVT	EVT-Brexit
+470	472	ЕС	ЕС	ORG	ORG-European-Union
+545	559	Ирландско море	Ирландско море	LOC	LOC-Irish-Sea
+962	976	Великобритания	Великобритания	LOC	GPE-Great-Britain
+987	992	София	София	LOC	GPE-Sofia
+997	1003	Лондон	Лондон	LOC	GPE-London
+1043	1045	ЕС	ЕС	ORG	ORG-European-Union
+1057	1077	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1154	1156	ЕС	ЕС	ORG	ORG-European-Union
+1193	1209	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1211	1214	Мей	Мей	PER	PER-Theresa-May
+1290	1304	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1348	1350	ЕС	ЕС	ORG	ORG-European-Union
+1422	1424	ЕС	ЕС	ORG	ORG-European-Union
+1452	1472	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1512	1520	България	България	LOC	GPE-Bulgaria
+1521	1534	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+1567	1569	ЕС	ЕС	ORG	ORG-European-Union
+1570	1587	Западните Балкани	Западни Балкани	LOC	LOC-Western-Balkans
+1605	1612	Брекзит	Брекзит	EVT	EVT-Brexit
+1646	1652	Лондон	Лондон	LOC	GPE-London
+1671	1688	Западните Балкани	Западни Балкани	LOC	LOC-Western-Balkans
+1711	1718	Борисов	Борисов	PER	PER-Boyko-Borisov

@@ -1,0 +1,50 @@
+41	48	brexitu	brexit	EVT	EVT-Brexit
+139	146	brexitu	brexit	EVT	EVT-Brexit
+186	194	Británií	Británie	LOC	GPE-Great-Britain
+197	199	EU	EU	ORG	ORG-European-Union
+258	278	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+281	283	EU	EU	ORG	ORG-European-Union
+391	398	Bruselu	Brusel	LOC	GPE-Brussles
+401	408	Londýna	Londýn	LOC	GPE-London
+486	500	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+628	633	Brity	Britové	PER	GPE-Great-Britain
+762	770	Terramet	Terramet	ORG	ORG-Terramet
+780	788	Británie	Británie	LOC	GPE-Great-Britain
+792	807	České republiky	Česká republika	LOC	GPE-Czech-Republic
+853	859	brexit	brexit	EVT	EVT-Brexit
+937	939	EU	EU	ORG	ORG-European-Union
+1063	1075	Petr Kotršál	Petr Kotršál	PER	PER-Petr-Kotrsal
+1157	1160	USA	USA	LOC	GPE-USA
+1163	1176	Evropská unie	Evropská unie	ORG	ORG-European-Union
+1255	1260	Čínou	Čína	LOC	GPE-China
+1320	1327	Kotršál	Kotršál	PER	PER-Petr-Kotrsal
+1413	1421	Británie	Británie	LOC	GPE-Great-Britain
+1427	1429	EU	EU	ORG	ORG-European-Union
+1581	1593	Cyril Svozil	Cyril Svozil	PER	PER-Cyril-Svozil
+1627	1640	Fenix Trading	Fenix Trading	ORG	ORG-Fenix-Trading-company
+1722	1724	ČR	ČR	LOC	GPE-Czech-Republic
+1740	1760	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+1792	1807	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+1817	1825	Británie	Británie	LOC	GPE-Great-Britain
+1969	1975	Svozil	Svozil	PER	PER-Cyril-Svozil
+1979	1986	brexitu	brexit	EVT	EVT-Brexit
+2095	2103	Británií	Británie	LOC	GPE-Great-Britain
+2105	2112	Britové	Britové	PER	GPE-Great-Britain
+2257	2265	Británie	Británie	LOC	GPE-Great-Britain
+2358	2360	EU	EU	ORG	ORG-European-Union
+2368	2376	Británii	Británie	LOC	GPE-Great-Britain
+2476	2482	Svozil	Svozil	PER	PER-Cyril-Svozil
+2497	2505	Londýnem	Londýn	LOC	GPE-London
+2508	2516	Bruselem	Brusel	LOC	GPE-Brussles
+2838	2872	Třinecké železárny – Moravia Steel	Třinecké železárny – Moravia Steel	ORG	ORG-Trinecke-zelezarny-Moravia-Steel
+2875	2881	Brexit	Brexit	EVT	EVT-Brexit
+3078	3101	Petra Macková Jurásková	Petra Macková Jurásková	PER	PER-Petra-Mackova-Juráskova
+3142	3149	brexitu	brexit	EVT	EVT-Brexit
+3200	3208	Británií	Británie	LOC	GPE-Great-Britain
+3413	3422	Jurásková	Jurásková	PER	PER-Petra-Mackova-Juráskova
+3424	3437	Evropská unie	Evropská unie	ORG	ORG-European-Union
+3440	3448	Británie	Británie	LOC	GPE-Great-Britain
+3693	3701	Británii	Británie	LOC	GPE-Great-Britain
+3709	3714	Britů	Britové	PER	GPE-Great-Britain
+3733	3735	EU	EU	ORG	ORG-European-Union
+3793	3813	Spojeného království	Spojené království	LOC	GPE-Great-Britain

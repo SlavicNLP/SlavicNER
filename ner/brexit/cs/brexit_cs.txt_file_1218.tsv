@@ -1,0 +1,31 @@
+18	25	brexitu	brexit	EVT	EVT-Brexit
+38	46	Londýnem	Londýn	LOC	GPE-London
+48	55	Johnson	Johnson	PER	PER-Boris-Johnson
+75	77	EU	EU	ORG	ORG-European-Union
+131	138	brexitu	brexit	EVT	EVT-Brexit
+143	160	britský parlament	britský parlament	ORG	ORG-British-Parlament
+205	211	Mayové	Mayová	PER	PER-Theresa-May
+226	232	Britům	Britové	PER	GPE-Great-Britain
+298	311	People's Vote	People's Vote	ORG	ORG-Peoples-Vote
+331	337	brexit	brexit	EVT	EVT-Brexit
+519	526	brexitu	brexit	EVT	EVT-Brexit
+586	588	AP	AP	ORG	ORG-AP-The-Associated-Press
+615	627	James McGory	James McGory	PER	PER-James-McGory
+787	797	labouristů	labouristé	PER	ORG-Labour-Party-UK
+799	820	liberálních demokratů	liberální demokraté	PER	ORG-Liberal-Democrats-UK
+836	849	konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+866	868	AP	AP	ORG	ORG-AP-The-Associated-Press
+913	934	Liberálních demokratů	liberální demokraté	PER	ORG-Liberal-Democrats-UK
+935	946	Vince Cable	Vince Cable	PER	PER-Vince-Cable
+987	994	brexitu	brexit	EVT	EVT-Brexit
+1072	1074	EU	EU	ORG	ORG-European-Union
+1186	1194	Británie	Británie	LOC	GPE-Great-Britain
+1233	1240	Mayovou	Mayová	PER	PER-Theresa-May
+1255	1257	EU	EU	ORG	ORG-European-Union
+1269	1276	Johnson	Johnson	PER	PER-Boris-Johnson
+1307	1314	The Sun	The Sun	PRO	PRO-The-Sun
+1329	1335	Mayová	Mayová	PER	PER-Theresa-May
+1365	1371	brexit	brexit	EVT	EVT-Brexit
+1494	1502	Liam Fox	Liam Fox	PER	PER-Liam-Fox
+1517	1523	brexit	brexit	EVT	EVT-Brexit
+1524	1535	David Davis	David Davis	PER	PER-David-Davis

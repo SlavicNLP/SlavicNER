@@ -1,0 +1,8 @@
+4	10	Motola	Motol	LOC	LOC-Universtiy-Hospital-Motol-Prague
+11	17	Ludvík	Ludvík	PER	PER-Miloslav-Ludvík
+40	47	covidem	covid	EVT	EVT-Covid-19
+84	90	Itálie	Itálie	LOC	GPE-Italy
+163	181	motolské nemocnice	motolská nemocnice	LOC	LOC-Universtiy-Hospital-Motol-Prague
+196	202	Senátu	Senát	ORG	ORG-Senate-of-the-Czech-Republic
+203	218	Miloslav Ludvík	Miloslav Ludvík	PER	PER-Miloslav-Ludvík
+297	304	covidem	covid	EVT	EVT-Covid-19

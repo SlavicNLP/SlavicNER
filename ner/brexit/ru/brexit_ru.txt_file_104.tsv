@@ -1,0 +1,105 @@
+48	73	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+91	97	Чекерс	Чекерс	LOC	LOC-Chequers-Court
+98	101	Мэй	Мэй	PER	PER-Theresa-May
+166	174	Джонсона	Джонсон	PER	PER-Boris-Johnson
+259	268	Евросоюза	Евросоюз	ORG	ORG-European-Union
+286	295	The Times	The Times	PRO	PRO-The-Times
+344	353	Брюсселем	Брюссель	LOC	GPE-Brussles
+521	524	Мэй	Мэй	PER	PER-Theresa-May
+577	594	Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland
+639	641	ЕС	ЕС	ORG	ORG-European-Union
+642	664	Ирландской Республикой	Ирландская Республика	LOC	GPE-Ireland
+708	718	Ирландиями	Ирландии	LOC	GPE-Ireland
+754	787	Белфастского соглашения 1998 года	Белфастское соглашение 1998 года	PRO	PRO-GFA-Good-Friday-Agreement
+855	869	Великобритании	Великобритания	LOC	GPE-Great-Britain
+918	920	ЕС	ЕС	ORG	ORG-European-Union
+1035	1044	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1077	1080	Мэй	Мэй	PER	PER-Theresa-May
+1145	1151	Brexit	Brexit	EVT	EVT-Brexit
+1160	1167	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1195	1216	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1264	1266	ЕС	ЕС	ORG	ORG-European-Union
+1268	1274	Brexit	Brexit	EVT	EVT-Brexit
+1425	1427	ЕС	ЕС	ORG	ORG-European-Union
+1429	1439	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1558	1566	Британии	Британия	LOC	GPE-Great-Britain
+1569	1571	ЕС	ЕС	ORG	ORG-European-Union
+1623	1629	Brexit	Brexit	EVT	EVT-Brexit
+1710	1715	Дэвис	Дэвис	PER	PER-David-Davis
+1719	1726	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1786	1789	РБК	РБК	ORG	ORG-RBK-Group
+1803	1854	Центра британских исследований Института Европы РАН	Центр британских исследований Института Европы РАН	ORG	ORG-UK-Studies-Center-of-the-RAS-Institute-of-the-Russian-Academy-of-Sciences
+1855	1869	Елена Ананьева	Елена Ананьева	PER	PER-Elena-Ananieva
+1903	1906	Мэй	Мэй	PER	PER-Theresa-May
+1922	1940	Европейскому союзу	Европейский союз	ORG	ORG-European-Union
+2019	2027	Ананьева	Ананьева	PER	PER-Elena-Ananieva
+2042	2045	Мэй	Мэй	PER	PER-Theresa-May
+2230	2240	Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+2298	2318	Лейбористской партии	Лейбористская партия	ORG	ORG-Labour-Party-UK
+2321	2345	шотландские националисты	шотландские националисты	PER	ORG-Scottish-National-Party
+2368	2389	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+2429	2447	компромисса Чекерс	компромисс Чекерс	PRO	PRO-Chequers-plan
+2497	2508	лейбористов	лейбористы	PER	ORG-Labour-Party-UK
+2509	2523	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+2653	2656	Мэй	Мэй	PER	PER-Theresa-May
+2679	2685	Brexit	Brexit	EVT	EVT-Brexit
+2696	2699	Мэй	Мэй	PER	PER-Theresa-May
+2716	2726	Пит Вишарт	Пит Вишарт	PER	PER-Pete-Wishart
+2730	2761	Шотландской национальной партии	Шотландская национальная партия	ORG	ORG-Scottish-National-Party
+2842	2845	Мэй	Мэй	PER	PER-Theresa-May
+2995	3008	консерваторов	консерваторы	PER	ORG-Conservative-and-Unionist-Party-UK
+3061	3064	Мэй	Мэй	PER	PER-Theresa-May
+3452	3458	Brexit	Brexit	EVT	EVT-Brexit
+3536	3538	ЕС	ЕС	ORG	ORG-European-Union
+3588	3591	РБК	РБК	ORG	ORG-RBK-Group
+3622	3635	Chatham House	Chatham House	ORG	ORG-Chatham-House
+3636	3647	Джеймс Шерр	Джеймс Шерр	PER	PER-James-Sherr
+3663	3675	консерваторы	консерваторы	PER	ORG-Conservative-and-Unionist-Party-UK
+3718	3736	Иана Дункана Смита	Иан Дункан Смит	PER	PER-Iain-Duncan-Smith
+3744	3756	Майкл Говард	Майкл Говард	PER	PER-Michael-Howard
+3821	3834	консерваторов	консерваторы	PER	ORG-Conservative-and-Unionist-Party-UK
+3890	3905	Гэвин Уильямсон	Гэвин Уильямсон	PER	PER-Gavin-Williamson
+3916	3924	Ананьева	Ананьева	PER	PER-Elena-Ananieva
+3932	3940	Джонсона	Джонсон	PER	PER-Boris-Johnson
+4075	4078	РБК	РБК	ORG	ORG-RBK-Group
+4123	4160	Кентского университета Великобритании	Кентский университет Великобритании	ORG	ORG-University-of-Kent-UK
+4161	4173	Ричард Саква	Ричард Саква	PER	PER-Richard-Sakwa
+4260	4265	Саква	Саква	PER	PER-Richard-Sakwa
+4277	4290	консерваторов	консерваторы	PER	ORG-Conservative-and-Unionist-Party-UK
+4293	4304	лейбористов	лейбористы	PER	ORG-Labour-Party-UK
+4364	4370	YouGov	YouGov	ORG	ORG-YouGov
+4411	4424	консерваторов	консерваторы	PER	ORG-Conservative-and-Unionist-Party-UK
+4458	4469	лейбористов	лейбористы	PER	ORG-Labour-Party-UK
+4553	4559	Brexit	Brexit	EVT	EVT-Brexit
+4617	4633	Европейский союз	Европейский союз	ORG	ORG-European-Union
+4669	4693	британское правительство	британское правительство	ORG	ORG-the-UK-Government
+4709	4712	Мэй	Мэй	PER	PER-Theresa-May
+4751	4762	лейбористов	лейбористы	PER	ORG-Labour-Party-UK
+4763	4770	Корбина	Корбин	PER	PER-Jeremy-Corbyn
+4816	4823	Корбина	Корбин	PER	PER-Jeremy-Corbyn
+4830	4843	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+4994	5015	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+5081	5088	Лондона	Лондон	LOC	GPE-London
+5101	5109	Джонсона	Джонсон	PER	PER-Boris-Johnson
+5128	5134	Дэвиса	Дэвис	PER	PER-David-Davis
+5152	5164	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+5314	5332	закона Магнитского	закон Магнитского	PRO	PRO-Magnitsky-Act
+5368	5375	Джонсон	Джонсон	PER	PER-Boris-Johnson
+5443	5449	Москву	Москва	LOC	GPE-Moscow
+5466	5494	правительство Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government
+5566	5572	Лондон	Лондон	LOC	GPE-London
+5650	5656	Россия	Россия	LOC	GPE-Russia
+5699	5702	ГРУ	ГРУ	ORG	ORG-GRU-(Russian-GU)
+5703	5718	Сергея Скрипаля	Сергей Скрипаль	PER	PER-Siergiej-Skripal
+5730	5734	Юлию	Юлия	PER	PER-Yulia-Skripal
+5784	5791	Новичок	Новичок	PRO	PRO-Novichok
+5800	5815	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+5865	5871	России	Россия	LOC	GPE-Russia
+6072	6078	России	Россия	LOC	GPE-Russia
+6107	6118	лейбористов	лейбористы	PER	ORG-Labour-Party-UK
+6128	6139	Джеймс Шерр	Джеймс Шерр	PER	PER-James-Sherr
+6143	6156	Chatham House	Chatham House	ORG	ORG-Chatham-House
+6190	6198	Ананьева	Ананьева	PER	PER-Elena-Ananieva
+6300	6304	МИДе	МИД	ORG	ORG-Foreign-Office
+6558	6598	международного комитета Совета Федерации	международный комитет Совета Федерации	ORG	ORG-Federation-Council-Foreign-Affairs-Commit
+6599	6617	Константин Косачев	Константин Косачев	PER	PER-Konstantin-Kosachev

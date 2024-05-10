@@ -1,0 +1,20 @@
+7	15	Covid-19	Covid-19	EVT	EVT-Covid-19
+56	72	Reiner Fuellmich	Reiner Fuellmich	PER	PER-Reiner-Fuellmich
+81	90	Covidu-19	Covid-19	EVT	EVT-Covid-19
+201	214	německá vláda	německá vláda	ORG	ORG-German-Government
+299	320	koronavirové pandemie	koronavirová pandemie	EVT	EVT-Covid-19
+327	336	Drostenem	Drosten	PER	PER-Christian-Drosten
+360	367	Charité	Charité	LOC	LOC-Charite-University-Hospital-Berlin
+370	377	Berlíně	Berlín	LOC	GPE-Berlin
+385	393	Wielerem	Wieler	PER	PER-Lothar-Wieler
+404	407	Rki	Rki	ORG	ORG-Robert-Koch-Institute
+424	427	CDC	CDC	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+437	445	Tedrosem	Tedros	PER	PER-Tedros-Adhanom-Ghebreyesus
+457	488	Světové zdravotnické organizace	Světová zdravotnická organizace	ORG	ORG-World-Health-Organization
+496	499	WHO	WHO	ORG	ORG-World-Health-Organization
+509	516	Německo	Německo	LOC	GPE-Germany
+772	783	koronavirus	koronavirus	EVT	EVT-Covid-19
+850	857	Německu	Německo	LOC	GPE-Germany
+931	940	PCR testů	PCR test	PRO	PRO-PCR-Test
+999	1007	Drostena	Drosten	PER	PER-Christian-Drosten
+1156	1165	Austrálii	Austrálie	LOC	GPE-Australia

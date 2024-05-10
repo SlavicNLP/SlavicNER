@@ -1,0 +1,29 @@
+0	9	Белый дом	Белый дом	LOC	LOC-White-House
+11	16	Трамп	Трамп	PER	PER-Donald-Trump
+19	22	Мэй	Мэй	PER	PER-Theresa-May
+84	99	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+121	136	английского МИД	английский МИД	ORG	ORG-Foreign-Office
+165	180	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+197	203	Англию	Англия	LOC	GPE-Great-Britain
+338	370	Кабмине Соединенного Королевства	Кабмин Соединенного Королевства	ORG	ORG-Cabinet-of-the-United-Kingdom
+390	395	Трамп	Трамп	PER	PER-Donald-Trump
+431	441	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+497	500	США	США	LOC	GPE-USA
+503	511	Британии	Британия	LOC	GPE-Great-Britain
+515	521	Brexit	Brexit	EVT	EVT-Brexit
+635	646	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+649	657	Лондоном	Лондон	LOC	GPE-London
+669	672	США	США	LOC	GPE-USA
+673	686	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+724	730	Англии	Англия	LOC	GPE-Great-Britain
+731	742	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+854	860	Англии	Англия	LOC	GPE-Great-Britain
+863	865	EC	EC	ORG	ORG-European-Union
+872	878	Brexit	Brexit	EVT	EVT-Brexit
+880	885	Трамп	Трамп	PER	PER-Donald-Trump
+969	975	Англию	Англия	LOC	GPE-Great-Britain
+1021	1024	Мэй	Мэй	PER	PER-Theresa-May
+1056	1068	Елизаветы II	Елизавета II	PER	PER-Queen-Elizabeth-II
+1093	1096	США	США	LOC	GPE-USA
+1112	1119	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1162	1168	Англии	Англия	LOC	GPE-Great-Britain

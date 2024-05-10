@@ -1,0 +1,56 @@
+12	24	коронавируса	коронавирус	EVT	EVT-Covid-19
+41	49	COVID-19	COVID-19	EVT	EVT-Covid-19
+64	76	коронавируса	коронавирус	EVT	EVT-Covid-19
+166	180	коронавирусной	коронавирус	EVT	EVT-Covid-19
+440	452	коронавируса	коронавирус	EVT	EVT-Covid-19
+499	507	COVID-19	COVID-19	EVT	EVT-Covid-19
+568	573	КОВИД	Ковид	EVT	EVT-Covid-19
+656	659	США	США	LOC	GPE-USA
+661	675	Великобритании	Великобритания	LOC	GPE-Great-Britain
+677	682	Китае	Китай	LOC	GPE-China
+684	693	Австралии	Австралия	LOC	GPE-Australia
+695	703	Германии	Германия	LOC	GPE-Germany
+749	755	Россия	Россия	LOC	GPE-Russia
+832	844	коронавируса	коронавирус	EVT	EVT-Covid-19
+847	853	России	Россия	LOC	GPE-Russia
+891	904	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+930	939	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+962	1032	Национальным центром эпидемиологии и микробиологии имени Н. Ф. Гамалеи	Национальный центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1050	1056	Москве	Москва	LOC	GPE-Moscow
+1742	1750	COVID‑19	COVID‑19	EVT	EVT-Covid-19
+2174	2180	России	Россия	LOC	GPE-Russia
+2261	2273	коронавируса	коронавирус	EVT	EVT-Covid-19
+2313	2320	россиян	россияне	PER	GPE-Russia
+2324	2329	КОВИД	Ковид	EVT	EVT-Covid-19
+2418	2430	коронавируса	коронавирус	EVT	EVT-Covid-19
+2452	2475	НИЦЭМ им. Н. Ф. Гамалеи	НИЦЭМ им. Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+2476	2488	Минздрава РФ	Минздрав РФ	ORG	ORG-Ministry-of-Health-Russia
+2636	2642	России	Россия	LOC	GPE-Russia
+2719	2732	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+2892	2900	COVID-19	COVID-19	EVT	EVT-Covid-19
+3030	3035	КОВИД	Ковид	EVT	EVT-Covid-19
+3038	3051	Гам-Ковид-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+3260	3270	SARS-CoV-2	SARS-CoV-2	PRO	PRO-Elecsys-Anti-SARS-CoV-2-S
+3409	3419	SARS-CoV-2	SARS-CoV-2	PRO	PRO-Elecsys-Anti-SARS-CoV-2-S
+3465	3477	коронавируса	коронавирус	EVT	EVT-Covid-19
+3604	3612	COVID-19	COVID-19	EVT	EVT-Covid-19
+3841	3853	коронавируса	коронавирус	EVT	EVT-Covid-19
+4022	4034	короновируса	короновирус	EVT	EVT-Covid-19
+4036	4046	SARS-CoV-2	SARS-CoV-2	PRO	PRO-Elecsys-Anti-SARS-CoV-2-S
+4322	4335	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+4368	4376	COVID-19	COVID-19	EVT	EVT-Covid-19
+4426	4438	коронавируса	коронавирус	EVT	EVT-Covid-19
+5916	5928	коронавируса	коронавирус	EVT	EVT-Covid-19
+6018	6026	COVID-19	COVID-19	EVT	EVT-Covid-19
+6110	6124	коронавирусной	коронавирус	EVT	EVT-Covid-19
+6206	6211	КОВИД	Ковид	EVT	EVT-Covid-19
+6247	6259	коронавируса	коронавирус	EVT	EVT-Covid-19
+6374	6388	коронавирусной	коронавирус	EVT	EVT-Covid-19
+6417	6423	России	Россия	LOC	GPE-Russia
+6502	6508	России	Россия	LOC	GPE-Russia
+6697	6709	коронавирусу	коронавирус	EVT	EVT-Covid-19
+6803	6814	коронавирус	коронавирус	EVT	EVT-Covid-19
+6945	6963	Конституции России	Конституция России	PRO	PRO-Russian-Constitution
+7018	7029	Конституции	Конституция	PRO	PRO-Russian-Constitution
+7104	7122	Конституции России	Конституция России	PRO	PRO-Russian-Constitution
+7147	7153	Москве	Москва	LOC	GPE-Moscow

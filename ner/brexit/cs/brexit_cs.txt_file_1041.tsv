@@ -1,0 +1,49 @@
+212	227	východní Evropy	východní Evropa	LOC	LOC-Eastern-Europe
+241	245	Češi	Češi	PER	GPE-Czech-Republic
+248	254	Londýn	Londýn	LOC	GPE-London
+382	390	brexitem	brexit	EVT	EVT-Brexit
+482	496	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+579	594	východní Evropy	východní Evropa	LOC	LOC-Eastern-Europe
+612	618	Rumuni	Rumuni	PER	GPE-Romania
+620	627	Bulhaři	Bulhaři	PER	GPE-Bulgaria
+630	636	Poláci	Poláci	PER	GPE-Poland
+702	707	Česka	Česko	LOC	GPE-Czech-Republic
+758	780	Národní farmářská unie	Národní farmářská unie	ORG	ORG-National-Agricultural-Union-UK
+990	993	BBC	BBC	PRO	PRO-BBC
+1128	1136	Bukureti	Bukurešť	LOC	GPE-Bucharest
+1330	1359	AG Recruitment and Management	AG Recruitment and Management	ORG	ORG-AG-Recruitment-And-Management
+1360	1375	Estera Ameszová	Ester Ameszová	PER	PER-Ester-Amesz
+1915	1921	brexit	brexit	EVT	EVT-Brexit
+1981	2000	Britských ostrovech	Britské ostrovy	LOC	GPE-Great-Britain
+2116	2123	Bruselu	Brusel	LOC	GPE-Brussles
+2221	2228	brexitu	brexit	EVT	EVT-Brexit
+2265	2267	EU	EU	ORG	ORG-European-Union
+2330	2342	The Guardian	The Guardian	PRO	PRO-The-Guardian
+2454	2456	EU	EU	ORG	ORG-European-Union
+2483	2503	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+2511	2516	Česka	Česko	LOC	GPE-Czech-Republic
+2518	2527	Slovenska	Slovensko	LOC	GPE-Slovakia
+2529	2535	Polska	Polsko	LOC	GPE-Poland
+2537	2545	Estonska	Estonsko	LOC	GPE-Estonia
+2547	2555	Maďarska	Maďarsko	LOC	GPE-Hungary
+2557	2564	Lotyska	Lotyšsko	LOC	GPE-Latvia
+2566	2571	Litvy	Litva	LOC	GPE-Lithuania
+2575	2584	Slovinska	Slovinsko	LOC	GPE-Slovenia
+2610	2625	Východoevropané	Východoevropané	PER	LOC-Eastern-Europe
+2643	2663	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+2698	2704	Britům	Britové	PER	GPE-Great-Britain
+2886	2899	Alina Stanová	Alina Stanová	PER	PER-Alina-Stanova
+2902	2910	Rumunska	Rumunsko	LOC	GPE-Romania
+2930	2944	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+2980	2988	Rumunsko	Rumunsko	LOC	GPE-Romania
+3056	3069	Evropské unie	Evropská unie	ORG	ORG-European-Union
+3079	3082	BBC	BBC	PRO	PRO-BBC
+3207	3215	Rumunsku	Rumunsko	LOC	GPE-Romania
+3292	3297	Alina	Alina	PER	PER-Alina-Stanova
+3329	3338	Angličané	Angličané	PER	GPE-Great-Britain
+3474	3478	Iasi	Iasi	LOC	LOC-Iasi
+3479	3489	Puiu Jonut	Puiu Jonut	PER	PER-Puiu-Jonut
+3501	3510	Angličanů	Angličané	PER	GPE-Great-Britain
+3590	3596	brexit	brexit	EVT	EVT-Brexit
+3849	3859	Chong-Alay	Chong-Alay	LOC	LOC-Chong-Alay
+3949	3970	Rádio Svobodná Evropa	Rádio Svobodná Evropa	PRO	PRO-Radio-Free-Europe-Radio-Liberty

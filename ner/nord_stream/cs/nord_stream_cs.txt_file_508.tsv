@@ -1,0 +1,38 @@
+0	6	Polsko	Polsko	LOC	GPE-Poland
+32	40	Gazpromu	Gazprom	ORG	ORG-Gazprom
+69	72	USA	USA	LOC	GPE-USA
+83	92	Gazpromem	Gazprom	ORG	ORG-Gazprom
+114	119	PGNiG	PGNiG	ORG	ORG-PGNiG
+263	276	Baltském moři	Baltské moře	LOC	LOC-Baltic-Sea
+280	288	Chenieru	Cheniere	ORG	ORG-Cheniere-Energy
+372	378	Polsko	Polsko	LOC	GPE-Poland
+448	455	Reuters	Reuters	ORG	ORG-Reuters
+512	521	Gazpromem	Gazprom	ORG	ORG-Gazprom
+576	581	PGNiG	PGNiG	ORG	ORG-PGNiG
+582	595	Piotr Woźniak	Piotr Woźniak	PER	PER-Piotr-Wozniak
+625	631	Polsko	Polsko	LOC	GPE-Poland
+742	747	PGNiG	PGNiG	ORG	ORG-PGNiG
+807	825	Venture Global LNG	Venture Global LNG	ORG	ORG-Venture-Global-LNG
+866	878	Centrica LNG	Centrica LNG	ORG	ORG-Centrica-LNG
+880	886	Polsko	Polsko	LOC	GPE-Poland
+924	936	Baltské moře	Baltské moře	LOC	LOC-Baltic-Sea
+940	946	Norska	Norsko	LOC	GPE-Norway
+949	955	Dánska	Dánsko	LOC	GPE-Denmark
+997	1011	Severním mořem	Severní moře	LOC	LOC-North-Sea
+1066	1078	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+1094	1100	TVN 24	TVN 24	PRO	PRO-TVN24
+1135	1140	PGNiG	PGNiG	ORG	ORG-PGNiG
+1143	1175	Cheniere Marketing International	Cheniere Marketing International	ORG	ORG-Cheniere-Energy
+1250	1257	Polskem	Polsko	LOC	GPE-Poland
+1260	1263	USA	USA	LOC	GPE-USA
+1315	1325	Rick Perry	Rick Perry	PER	PER-Rick-Perry
+1381	1387	Evropu	Evropa	LOC	LOC-Europe
+1478	1483	Perry	Perry	PER	PER-Rick-Perry
+1495	1502	Reuters	Reuters	ORG	ORG-Reuters
+1513	1526	Spojené státy	Spojené státy	LOC	GPE-USA
+1616	1629	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1701	1708	Německa	Německo	LOC	GPE-Germany
+1716	1721	Baltu	Balt	LOC	LOC-Baltic-Sea
+1744	1752	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+1754	1760	Polsko	Polsko	LOC	GPE-Poland
+1763	1766	USA	USA	LOC	GPE-USA

@@ -1,0 +1,28 @@
+0	9	Telegraph	Telegraph	PRO	PRO-The-Daily-Telegraph
+20	26	Трампа	Трамп	PER	PER-Donald-Trump
+54	60	Англии	Англия	LOC	GPE-Great-Britain
+75	81	Brexit	Brexit	EVT	EVT-Brexit
+116	119	США	США	LOC	GPE-USA
+120	135	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+168	179	Джон Болтон	Джон Болтон	PER	PER-John-Bolton
+189	197	Британии	Британия	LOC	GPE-Great-Britain
+269	287	Европейского союза	Европейский союз	ORG	ORG-European-Union
+289	295	Brexit	Brexit	EVT	EVT-Brexit
+315	328	The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+379	385	Болтон	Болтон	PER	PER-John-Bolton
+416	429	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+465	471	Англии	Англия	LOC	GPE-Great-Britain
+475	477	ЕС	ЕС	ORG	ORG-European-Union
+535	549	столице Англии	столица Англии	LOC	GPE-London
+550	556	Болтон	Болтон	PER	PER-John-Bolton
+589	620	Группы европейских исследований	Группа европейских исследований	ORG	ORG-European-Research-Group
+674	678	тори	тори	ORG	ORG-Conservative-and-Unionist-Party-UK
+680	685	Трамп	Трамп	PER	PER-Donald-Trump
+739	745	Англии	Англия	LOC	GPE-Great-Britain
+766	768	ЕС	ЕС	ORG	ORG-European-Union
+825	833	Лондоном	Лондон	LOC	GPE-London
+855	863	брексита	брексит	EVT	EVT-Brexit
+902	908	Болтон	Болтон	PER	PER-John-Bolton
+983	999	Марком Седвиллом	Марк Седвилл	PER	PER-Mark-Sedwill
+1084	1090	Англии	Англия	LOC	GPE-Great-Britain
+1094	1096	ЕС	ЕС	ORG	ORG-European-Union

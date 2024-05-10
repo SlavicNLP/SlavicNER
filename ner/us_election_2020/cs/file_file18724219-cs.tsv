@@ -1,0 +1,13 @@
+8	32	Prezidentské volby v USA	Prezidentské volby v USA	EVT	EVT-2020-United-States-Presidential-Election
+34	43	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+136	147	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+230	244	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+246	258	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+408	417	demokraty	demokraté	PER	ORG-Democratic-Party-USA
+584	592	Trumpovy	Trump	PER	PER-Donald-Trump
+611	622	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+679	690	republikánů	republikáni	PER	ORG-Republican-Party-USA
+708	715	Georgii	Georgie	LOC	GPE-Georgia-US-state
+720	729	Michiganu	Michigan	LOC	GPE-Michigan
+736	744	Trumpova	Trump	PER	PER-Donald-Trump
+783	789	Nevadě	Nevada	LOC	GPE-Nevada

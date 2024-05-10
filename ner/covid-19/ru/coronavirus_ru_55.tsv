@@ -1,0 +1,17 @@
+11	23	коронавируса	коронавирус	EVT	EVT-Covid-19
+51	62	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+76	84	COVID-19	COVID-19	EVT	EVT-Covid-19
+125	129	ОРВИ	ОРВИ	EVT	EVT-ORVI
+266	269	СМИ	СМИ	PRO	PRO-Mass-Media
+279	290	ЦГБ Бердска	ЦГБ Бердска	ORG	ORG-Berdsk-Central-City-Hospital
+291	306	Алла Дробинская	Алла Дробинская	PER	PER-Alla-Drobinsky
+329	342	коронавирусом	коронавирус	EVT	EVT-Covid-19
+380	391	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+437	461	коронавирусной инфекцией	коронавирусная инфекция	EVT	EVT-Covid-19
+508	523	Алла Николаевна	Алла Николаевна	PER	PER-Alla-Drobinsky
+533	543	Дробинская	Дробинская	PER	PER-Alla-Drobinsky
+1025	1049	коронавирусной инфекцией	коронавирусная инфекция	EVT	EVT-Covid-19
+1257	1272	Алла Дробинская	Алла Дробинская	PER	PER-Alla-Drobinsky
+1328	1332	ОРВИ	ОРВИ	EVT	EVT-ORVI
+1448	1463	Алла Николаевна	Алла Николаевна	PER	PER-Alla-Drobinsky
+1491	1497	ковида	ковид	EVT	EVT-Covid-19

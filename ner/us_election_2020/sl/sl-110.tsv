@@ -1,0 +1,52 @@
+0	9	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+88	91	ZDA	ZDA	LOC	GPE-USA
+92	101	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+125	134	Američane	Američani	PER	GPE-USA
+236	245	Američane	Američani	PER	GPE-USA
+301	314	Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+363	366	ZDA	ZDA	LOC	GPE-USA
+382	389	Amerika	Amerika	LOC	GPE-USA
+457	466	Američani	Američani	PER	GPE-USA
+626	631	Biden	Biden	PER	PER-Joe-Biden
+686	697	Wilmingtonu	Wilmington	LOC	GPE-Wilmington
+707	715	Delaware	Delaware	LOC	GPE-Delaware
+822	834	koronavirusa	koronavirus	EVT	EVT-Covid-19
+837	840	ZDA	ZDA	LOC	GPE-USA
+963	966	ZDA	ZDA	LOC	GPE-USA
+1001	1011	Američanov	Američani	PER	GPE-USA
+1064	1069	Biden	Biden	PER	PER-Joe-Biden
+1365	1388	Združene države Amerike	Združene države Amerike	LOC	GPE-USA
+1475	1478	ZDA	ZDA	LOC	GPE-USA
+1546	1556	Američanov	Američani	PER	GPE-USA
+1735	1740	Biden	Biden	PER	PER-Joe-Biden
+1843	1846	ZDA	ZDA	LOC	GPE-USA
+1847	1861	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1879	1884	Trump	Trump	PER	PER-Donald-Trump
+2012	2017	Trump	Trump	PER	PER-Donald-Trump
+2047	2054	Bidnovo	Biden	PER	PER-Joe-Biden
+2092	2098	Trumpu	Trump	PER	PER-Donald-Trump
+2130	2138	Fox News	Fox News	PRO	PRO-Fox-News
+2186	2191	Bidna	Biden	PER	PER-Joe-Biden
+2195	2204	Harrisove	Harris	PER	PER-Kamala-Harris
+2250	2255	Trump	Trump	PER	PER-Donald-Trump
+2289	2295	Bidnom	Biden	PER	PER-Joe-Biden
+2320	2329	Harrisova	Harris	PER	PER-Kamala-Harris
+2389	2392	ZDA	ZDA	LOC	GPE-USA
+2404	2409	Biden	Biden	PER	PER-Joe-Biden
+2480	2487	Jamajke	Jamajka	LOC	GPE-Jamaica
+2506	2512	Indije	Indija	LOC	GPE-India
+2601	2616	ameriški ustavi	ameriška ustava	PRO	PRO-The-USA-Constitution
+2664	2673	Američani	Američani	PER	GPE-USA
+2691	2700	Joa Bidna	Joe Biden	PER	PER-Joe-Biden
+2722	2729	Ameriko	Amerika	LOC	GPE-USA
+2859	2866	Georgie	Georgia	LOC	GPE-Georgia-US-state
+2867	2879	Johna Lewisa	John Lewis	PER	PER-John-Lewis
+2901	2906	Bidna	Biden	PER	PER-Joe-Biden
+3128	3135	Amerike	Amerika	LOC	GPE-USA
+3183	3186	ZDA	ZDA	LOC	GPE-USA
+3215	3221	Indije	Indija	LOC	GPE-India
+3284	3289	Bidna	Biden	PER	PER-Joe-Biden
+3292	3295	Joe	Joe	PER	PER-Joe-Biden
+3297	3300	Joe	Joe	PER	PER-Joe-Biden
+3343	3350	Ameriki	Amerika	LOC	GPE-USA
+3435	3442	Amerika	Amerika	LOC	GPE-USA

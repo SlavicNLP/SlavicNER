@@ -1,0 +1,48 @@
+2	5	США	США	LOC	GPE-USA
+20	26	Россия	Россия	LOC	GPE-Russia
+75	81	МОСКВА	Москва	LOC	GPE-Moscow
+92	103	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+105	111	Россия	Россия	LOC	GPE-Russia
+199	202	США	США	LOC	GPE-USA
+261	277	American Thinker	American Thinker	PRO	PRO-American-Thinker
+290	296	Москва	Москва	LOC	GPE-Moscow
+357	364	Западом	Запад	LOC	LOC-West
+441	447	Россия	Россия	LOC	GPE-Russia
+514	518	Азии	Азия	LOC	LOC-Asia
+520	526	Африке	Африка	LOC	LOC-Africa
+529	546	Латинской Америке	Латинская Америка	LOC	LOC-Latin-America
+597	605	Бразилию	Бразилия	LOC	GPE-Brazil
+607	619	Южную Африку	Южная Африка	LOC	GPE-Republic-of-South-Africa
+621	626	Китай	Китай	LOC	GPE-China
+629	634	Индию	Индия	LOC	GPE-India
+755	762	Москвой	Москва	LOC	GPE-Moscow
+836	842	Путину	Путин	PER	PER-Vladimir-Putin
+935	952	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+988	994	Россия	Россия	LOC	GPE-Russia
+1024	1030	Китаем	Китай	LOC	GPE-China
+1033	1039	Индией	Индия	LOC	GPE-India
+1173	1179	Западу	Запада	LOC	LOC-Europe
+1186	1203	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+1320	1326	Россия	Россия	LOC	GPE-Russia
+1424	1430	России	Россия	LOC	GPE-Russia
+1661	1665	БРИК	БРИК	ORG	ORG-BRIC
+1675	1680	БРИКС	БРИКС	ORG	ORG-BRICS
+1748	1753	БРИКС	БРИКС	ORG	ORG-BRICS
+1814	1825	МИНТ (MINT)	МИНТ (MINT)	ORG	ORG-MINT
+1827	1834	Мексика	Мексика	LOC	GPE-Mexico
+1836	1845	Индонезия	Индонезия	LOC	GPE-Indonesia
+1847	1854	Нигерия	Нигерия	LOC	GPE-Nigeria
+1857	1863	Турция	Турция	LOC	GPE-Turkey
+1864	1870	Москва	Москва	LOC	GPE-Moscow
+1940	1947	Западом	Запад	LOC	LOC-West
+2000	2006	Россию	Россия	LOC	GPE-Russia
+2066	2072	Путину	Путин	PER	PER-Vladimir-Putin
+2151	2156	БРИКС	БРИКС	ORG	ORG-BRICS
+2159	2163	МИНТ	МИНТ	ORG	ORG-MINT
+2179	2195	American Thinker	American Thinker	PRO	PRO-American-Thinker
+2233	2239	России	Россия	LOC	GPE-Russia
+2246	2274	специальной военной операции	специальная военная операция	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+2310	2317	Украины	Украина	LOC	GPE-Ukraine
+2552	2558	Европе	Европа	LOC	LOC-Europe
+2561	2564	США	США	LOC	GPE-USA
+2655	2661	ИноСМИ	ИноСМИ	PRO	PRO-InoSMI

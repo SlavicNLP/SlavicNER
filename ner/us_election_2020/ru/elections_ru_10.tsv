@@ -1,0 +1,71 @@
+16	20	Пенс	Пенс	PER	PER-Mike-Pence
+29	35	Трампу	Трамп	PER	PER-Donald-Trump
+61	64	США	США	LOC	GPE-USA
+102	121	американские выборы	Американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+143	149	Трампа	Трамп	PER	PER-Donald-Trump
+156	170	конгрессменами	конгрессмены	ORG	ORG-United-States-Congress
+214	217	США	США	LOC	GPE-USA
+218	227	демократа	демократ	ORG	ORG-Democratic-Party-USA
+228	243	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+337	350	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+453	464	Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+486	499	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+522	526	Пенс	Пенс	PER	PER-Mike-Pence
+542	548	Сената	Сенат	ORG	ORG-United-States-Senate
+609	622	конгрессменов	конгрессмены	ORG	ORG-United-States-Congress
+681	692	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+701	706	Трамп	Трамп	PER	PER-Donald-Trump
+828	846	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+848	851	NYT	NYT	PRO	PRO-The-New-York-Times
+967	977	Белом доме	Белый дом	ORG	ORG-White-House
+993	1002	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1031	1046	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1138	1151	конгрессменов	конгрессмены	ORG	ORG-United-States-Congress
+1228	1239	Белого дома	Белый дом	ORG	ORG-White-House
+1266	1269	NYT	NYT	PRO	PRO-The-New-York-Times
+1338	1347	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1396	1414	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+1458	1469	Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+1716	1721	Трамп	Трамп	PER	PER-Donald-Trump
+1727	1734	Twitter	Twitter	PRO	PRO-Twitter
+1786	1791	Пенса	Пенс	PER	PER-Mike-Pence
+1813	1822	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+1841	1855	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+1905	1927	Республиканскую партию	Республиканская партия	ORG	ORG-RIA-Novosti
+2095	2099	Майк	Майк	PER	PER-Mike-Pence
+2133	2138	Трамп	Трамп	PER	PER-Donald-Trump
+2174	2189	Республиканской	Республиканская партия	ORG	ORG-Republican-Party-USA
+2192	2216	Демократической партиями	Демократическая партия	ORG	ORG-Democratic-Party-USA
+2255	2258	США	США	LOC	GPE-USA
+2314	2360	Центра Североамериканских исследований ИВИ РАН	Центр Североамериканских исследований ИВИ РАН	ORG	ORG-Centre-of-North-American-Studies-Russian-Academy-of-Science
+2361	2377	Александр Петров	Александр Петров	PER	PER-Aleksandr-Petrov
+2402	2411	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+2610	2616	Трампа	Трамп	PER	PER-Donald-Trump
+2619	2624	Пенса	Пенса	PER	PER-Mike-Pence
+2698	2720	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+2777	2783	Трампа	Трамп	PER	PER-Donald-Trump
+2825	2838	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+2878	2887	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+2946	2952	Трампа	Трамп	PER	PER-Donald-Trump
+2954	2960	Байден	Байден	PER	PER-Joe-Biden
+2987	3002	демократической	демократический	ORG	ORG-Democratic-Party-USA
+3005	3027	республиканской партий	республиканская партия	ORG	ORG-Republican-Party-USA
+3031	3036	Трамп	Трамп	PER	PER-Donald-Trump
+3113	3124	Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+3185	3200	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3264	3271	Байдена	Байден	PER	PER-Joe-Biden
+3272	3286	Камалой Харрис	Камала Харрис	PER	PER-Kamala-Harris
+3422	3435	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+3477	3483	Петров	Петров	PER	PER-Aleksandr-Petrov
+3488	3494	Харрис	Харрис	PER	PER-Kamala-Harris
+3511	3515	Пенс	Пенс	PER	PER-Mike-Pence
+3653	3659	Трампа	Трамп	PER	PER-Donald-Trump
+3688	3692	Пенс	Пенс	PER	PER-Mike-Pence
+3922	3937	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+4056	4065	Висконсин	Висконсин	LOC	GPE-Wisconsin
+4098	4103	Трамп	Трамп	PER	PER-Donald-Trump
+4157	4168	Джо Байдена	Джо Байден	PER	PER-David-Davis
+4306	4319	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+4337	4347	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4405	4415	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4459	4472	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump

@@ -1,0 +1,37 @@
+0	12	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+14	28	Великобритания	Великобритания	LOC	GPE-Great-Britain
+31	33	ЕС	ЕС	ORG	ORG-European-Union
+88	95	Брекзит	Брекзит	EVT	EVT-Brexit
+97	111	Великобритания	Великобритания	LOC	GPE-Great-Britain
+114	131	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+216	218	ЕС	ЕС	ORG	ORG-European-Union
+254	256	ЕС	ЕС	ORG	ORG-European-Union
+260	267	Брекзит	Брекзит	EVT	EVT-Brexit
+268	280	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+329	333	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+504	510	Барние	Барние	PER	PER-Michel-Barnier
+552	566	Великобритания	Великобритания	LOC	GPE-Great-Britain
+582	584	ЕС	ЕС	ORG	ORG-European-Union
+761	763	ЕС	ЕС	ORG	ORG-European-Union
+780	786	Барние	Барние	PER	PER-Michel-Barnier
+825	832	Брекзит	Брекзит	EVT	EVT-Brexit
+833	846	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+882	888	Лондон	Лондон	LOC	GPE-London
+891	898	Брюксел	Брюксел	LOC	GPE-Brussles
+956	971	Прес Асошиейшън	Прес Асошиейшън	ORG	ORG-Press-Association
+1039	1049	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1062	1076	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1144	1153	Евросъюза	Евросъюз	ORG	ORG-European-Union
+1164	1175	Сънди Таймс	Сънди Таймс	PRO	PRO-The-Sunday-Times
+1199	1202	Мей	Мей	PER	PER-Theresa-May
+1288	1308	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1377	1399	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1434	1447	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+1509	1512	Мей	Мей	PER	PER-Theresa-May
+1564	1575	Майкъл Гоув	Майкъл Гоув	PER	PER-Michael-Gove
+1603	1610	Брекзит	Брекзит	EVT	EVT-Brexit
+1611	1627	Джейкъб Рийс-Мог	Джейкъб Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+1684	1691	Джонсън	Джонсън	PER	PER-Boris-Johnson
+1736	1743	Брекзит	Брекзит	EVT	EVT-Brexit
+1908	1915	Брекзит	Брекзит	EVT	EVT-Brexit
+2145	2149	ТРУД	Труд	PRO	PRO-Trud

@@ -1,0 +1,41 @@
+0	3	САЩ	САЩ	LOC	GPE-USA
+10	15	Русия	Русия	LOC	GPE-Russia
+18	33	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+69	75	Европа	Европа	LOC	LOC-Europe
+77	80	САЩ	САЩ	LOC	GPE-USA
+111	126	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+134	139	Русия	Русия	LOC	GPE-Russia
+142	150	Германия	Германия	LOC	GPE-Germany
+192	198	Европа	Европа	LOC	LOC-Europe
+235	238	САЩ	САЩ	LOC	GPE-USA
+239	252	Рекс Тилърсън	Рекс Тилърсън	PER	PER-Rex-Tillerson
+266	273	Ройтерс	Ройтерс	ORG	ORG-Reuters
+276	281	Полша	Полша	LOC	GPE-Poland
+283	290	Украйна	Украйна	LOC	GPE-Ukraine
+371	377	Европа	Европа	LOC	LOC-Europe
+408	414	Кремъл	Кремъл	LOC	LOC-Kremlin
+505	510	Русия	Русия	LOC	GPE-Russia
+537	539	ЕС	ЕС	ORG	ORG-European-Union
+553	558	Полша	Полша	LOC	GPE-Poland
+560	563	САЩ	САЩ	LOC	GPE-USA
+599	614	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+696	702	Европа	Европа	LOC	LOC-Europe
+714	722	Тилърсън	Тилърсън	PER	PER-Rex-Tillerson
+772	786	Яцек Чапутович	Яцек Чапутович	PER	PER-Jacek-Czaputowicz
+905	908	САЩ	САЩ	LOC	GPE-USA
+962	968	Москва	Москва	LOC	GPE-Moscow
+971	978	Украйна	Украйна	LOC	GPE-Ukraine
+1055	1060	Русия	Русия	LOC	GPE-Russia
+1092	1097	Полша	Полша	LOC	GPE-Poland
+1115	1117	ЕС	ЕС	ORG	ORG-European-Union
+1140	1145	Русия	Русия	LOC	GPE-Russia
+1215	1221	Москва	Москва	LOC	GPE-Moscow
+1231	1235	Крим	Крим	LOC	GPE-Crimea
+1247	1254	Украйна	Украйна	LOC	GPE-Ukraine
+1299	1306	News.bg	News.bg	PRO	PRO-News.bg
+1325	1344	"""Уеб Медия Груп"" АД"	"""Уеб Медия Груп"" АД"	ORG	ORG-Web-Media-Group
+1366	1412	Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+1455	1474	"""Уеб Медия Груп"" АД"	"""Уеб Медия Груп"" АД"	ORG	ORG-Web-Media-Group
+1718	1737	"""Уеб Медия Груп"" АД"	"""Уеб Медия Груп"" АД"	ORG	ORG-Web-Media-Group
+1815	1830	WEB MEDIA GROUP	Web media group	ORG	ORG-Web-Media-Group
+1832	1839	NEWS.BG	news.bg	PRO	PRO-News.bg

@@ -1,0 +1,117 @@
+11	25	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+68	80	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+214	229	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+272	285	Josephu Bidnu	Joseph Biden	PER	PER-Joe-Biden
+350	367	Donald John Trump	Donald John Trump	PER	PER-Donald-Trump
+430	439	Manhattnu	Manhattan	LOC	LOC-Manhattan
+491	497	Mehika	Mehika	LOC	GPE-Mexico
+500	503	ZDA	ZDA	LOC	GPE-USA
+658	670	Steve Bannon	Steve Bannon	PER	PER-Steve-Bannon
+727	730	ZDA	ZDA	LOC	GPE-USA
+774	781	Queensu	Queens	LOC	LOC-Queens
+802	806	Fred	Fred	PER	PER-Fred-Trump-Jr
+861	868	Trumpov	Trump	PER	PER-Donald-Trump
+915	932	Mary Anne MacLeod	Mary Anne MacLeod	PER	PER-Mary-Anne-MacLeod
+946	952	Donald	Donald	PER	PER-Donald-Trump
+983	987	Fred	Fred	PER	PER-Fred-Trump-Jr
+991	997	Robert	Robert	PER	PER-Robert-Trump
+1014	1020	Donald	Donald	PER	PER-Donald-Trump
+1122	1131	New Yorka	New York	LOC	GPE-New-York
+1203	1228	univerzi Fordham v Bronxu	univerza Fordham v Bronxu	ORG	ORG-Fordham-University
+1253	1265	Pensilvanijo	Pensilvanija	LOC	GPE-Pennsylvania
+1283	1290	Wharton	Wharton	ORG	ORG-Wharton-School-of-the-University-of-Pennsylvania
+1363	1377	Maryanne Barry	Maryanne Barry	PER	PER-Maryanne-Trump-Barry
+1422	1426	Mary	Mary	PER	PER-Mary-Trump
+1445	1450	Freda	Fred	PER	PER-Fred-Trump-Jr
+1468	1476	Trumpove	Trump	PER	PER-Donald-Trump
+1497	1504	Fordham	Fordham	ORG	ORG-Fordham-University
+1539	1546	Wharton	Wharton	ORG	ORG-Wharton-School-of-the-University-of-Pennsylvania
+1606	1627	univerzi Pensilvanija	univerza Pensilvanija	ORG	ORG-University-of-Pennsylvania
+1641	1657	vietnamski vojni	vietnamska vojna	EVT	EVT-Vietnam-War
+1843	1864	Trumpovo organizacijo	Trumpova organizacija	ORG	ORG-The-Trump-Organization
+2121	2135	New York Times	New York Times	ORG	ORG-New-York-Times
+2192	2202	Trumpovega	Trump	PER	PER-Donald-Trump
+2420	2425	Trump	Trump	PER	PER-Donald-Trump
+2671	2686	Atlantic Cityju	Atlantic City	LOC	LOC-Atlantic-City
+2730	2735	Trump	Trump	PER	PER-Donald-Trump
+2760	2766	Robert	Robert	PER	PER-Robert-Trump
+2813	2817	Mary	Mary	PER	PER-Mary-Trump
+2988	2993	Trump	Trump	PER	PER-Donald-Trump
+3079	3088	Manhattnu	Manhattan	LOC	LOC-Manhattan
+3133	3142	New Yorku	New York	LOC	GPE-New-York
+3196	3206	Mar-a-Lago	Mar-a-Lago	LOC	LOC-Mar-a-Lago
+3210	3217	Floridi	Florida	LOC	GPE-Florida
+3252	3255	ZDA	ZDA	LOC	GPE-USA
+3263	3268	Trump	Trump	PER	PER-Donald-Trump
+3382	3390	Miss USA	Miss USA	EVT	EVT-Miss-USA
+3392	3405	Miss Teen USA	Miss Teen USA	EVT	EVT-Miss-Teen-USA
+3409	3422	Miss Universe	Miss Universe	EVT	EVT-Miss-Universe
+3470	3473	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+3488	3495	Vajenec	Vajenec	PRO	PRO-The-Apprentice
+3665	3670	Trump	Trump	PER	PER-Donald-Trump
+3949	3956	Floride	Florida	LOC	GPE-Florida
+4026	4034	demokrat	demokrat	PER	ORG-Democratic-Party-USA
+4053	4065	republikanec	republikanec	PER	ORG-Republican-Party-USA
+4072	4080	demokrat	demokrat	ORG	ORG-Democratic-Party-USA
+4168	4180	republikanec	republikanec	ORG	ORG-Republican-Party-USA
+4345	4352	Hillary	Hillary	PER	PER-Hillary-Clinton
+4356	4368	Bill Clinton	Bill Clinton	PER	PER-Bill-Clinton
+4416	4430	Melanijo Knavs	Melanija Knavs	PER	PER-Melania-Trump
+4529	4541	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+4550	4553	ZDA	ZDA	LOC	GPE-USA
+4570	4579	Obamovega	Obama	PER	PER-Barack-Obama
+4647	4652	Trump	Trump	PER	PER-Donald-Trump
+4691	4696	Obama	Obama	PER	PER-Barack-Obama
+4705	4708	ZDA	ZDA	LOC	GPE-USA
+4965	4968	ZDA	ZDA	LOC	GPE-USA
+5068	5071	ZDA	ZDA	LOC	GPE-USA
+5118	5124	Mehiko	Mehika	LOC	GPE-Mexico
+5146	5153	Obamovo	Obama	PER	PER-Barack-Obama
+5350	5353	ZDA	ZDA	LOC	GPE-USA
+5447	5456	Belo hišo	Bela hiša	LOC	LOC-White-House
+5555	5564	Beli hiši	Bela hiša	LOC	LOC-White-House
+5584	5590	Ivanko	Ivanka	PER	PER-Ivanka-Trump
+5599	5615	Jareda Kushnerja	Jared Kushner	PER	PER-Jared-Kushner
+5909	5922	Steva Bannona	Steve Bannon	PER	PER-Steve-Bannon
+6010	6016	Mehiko	Mehika	LOC	GPE-Mexico
+6052	6057	Trump	Trump	PER	PER-Donald-Trump
+6099	6103	Natu	Nato	ORG	ORG-NATO
+6120	6149	iranskega jedrskega sporazuma	iranski jedrski sporazum	PRO	PRO-Iran-nuclear-deal
+6151	6157	Rusiji	Rusija	LOC	GPE-Russia
+6161	6167	Siriji	Sirija	LOC	GPE-Syria
+6198	6204	Siriji	Sirija	LOC	GPE-Syria
+6221	6251	pariškega podnebnega sporazuma	pariški podnebni sporazum	PRO	PRO-Paris-Agreement
+6261	6270	Jeruzalem	Jeruzalem	LOC	GPE-Jerusalem
+6287	6294	Izraela	Izrael	LOC	GPE-Israel
+6370	6384	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+6406	6414	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+6463	6468	Bidna	Biden	PER	PER-Joe-Biden
+6528	6531	ZDA	ZDA	LOC	GPE-USA
+6746	6765	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+6768	6773	Trump	Trump	PER	PER-Donald-Trump
+6934	6945	koronavirus	koronavirus	EVT	EVT-Covid-19
+7488	7494	Bidnom	Biden	PER	PER-Joe-Biden
+7559	7566	Floridi	Florida	LOC	GPE-Florida
+7648	7654	Bidnom	Biden	PER	PER-Joe-Biden
+7657	7667	Clevelandu	Cleveland	LOC	GPE-Cleveland
+7799	7806	Ameriko	Amerika	LOC	GPE-USA
+8140	8155	Islamska država	Islamska država	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+8217	8245	Združenimi arabskimi emirati	Združeni arabski emirati	LOC	GPE-UEA-United-Arab-Emirates
+8249	8257	Izraelom	Izrael	LOC	GPE-Israel
+8295	8309	Severno Korejo	Severna Koreja	LOC	GPE-North-Korea
+8337	8345	Kitajsko	Kitajska	LOC	GPE-China
+8489	8499	Američanom	Američani	PER	GPE-USA
+8722	8726	Rusi	Rusi	PER	GPE-Russia
+8743	8751	Trumpovi	Trump	PER	PER-Donald-Trump
+8765	8775	Clintonovi	Clinton	PER	PER-Hillary-Clinton
+8778	8783	Trump	Trump	PER	PER-Donald-Trump
+8797	8807	Američanko	Američan	PER	GPE-USA
+8825	8838	Melanio Trump	Melania Trump	PER	PER-Melania-Trump
+8861	8868	Barrona	Barron	PER	PER-Barron-Trump
+8913	8920	Čehinjo	Čeh	PER	GPE-Czech-Republic
+8921	8937	Ivano Zelničkovo	Ivana Zelničkova	PER	PER-Ivana-Trump
+8966	8982	Donalda mlajšega	Donald mlajši	PER	PER-Donald-Trump-Jr.
+8984	8990	Ivanko	Ivanka	PER	PER-Ivanka-Trump
+8994	8999	Erica	Eric	PER	PER-Eric-Trump
+9045	9057	Marlo Maples	Marla Maples	PER	PER-Marla-Maples
+9081	9088	Tiffany	Tiffany	PER	PER-Tiffany-Trump

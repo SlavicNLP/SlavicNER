@@ -1,0 +1,24 @@
+0	13	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+15	29	Великобритания	Великобритания	LOC	GPE-Great-Britain
+62	64	ЕС	ЕС	ORG	ORG-European-Union
+75	81	Лондон	Лондон	LOC	GPE-London
+99	105	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+149	163	Великобритания	Великобритания	LOC	GPE-Great-Britain
+176	183	Брекзит	Брекзит	EVT	EVT-Brexit
+247	263	Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+379	393	Великобритания	Великобритания	LOC	GPE-Great-Britain
+466	480	Великобритания	Великобритания	LOC	GPE-Great-Britain
+615	622	Брекзит	Брекзит	EVT	EVT-Brexit
+1001	1015	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1132	1142	Том Уилямс	Том Уилямс	PER	PER-Tom-Williams
+1177	1183	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+1214	1221	Брекзит	Брекзит	EVT	EVT-Brexit
+1292	1298	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+1404	1410	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+1628	1634	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+1846	1852	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+1884	1891	Брекзит	Брекзит	EVT	EVT-Brexit
+1941	1947	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+1952	1966	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1975	1985	Том Уилямс	Том Уилямс	PER	PER-Tom-Williams
+2006	2020	Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev

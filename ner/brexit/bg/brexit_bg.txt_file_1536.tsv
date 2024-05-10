@@ -1,0 +1,15 @@
+25	32	Брекзит	Брекзит	EVT	EVT-Brexit
+65	67	ЕС	ЕС	ORG	ORG-European-Union
+110	124	Великобритания	Великобритания	LOC	GPE-Great-Britain
+125	134	Лиъм Фокс	Лиъм Фокс	PER	PER-Liam-Fox
+150	157	Брекзит	Брекзит	EVT	EVT-Brexit
+208	210	ЕС	ЕС	ORG	ORG-European-Union
+220	228	Politico	Politico	PRO	PRO-Politico
+385	387	ЕС	ЕС	ORG	ORG-European-Union
+434	438	Фокс	Фокс	PER	PER-Liam-Fox
+452	457	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+553	555	ЕС	ЕС	ORG	ORG-European-Union
+708	718	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+783	790	Брюксел	Брюксел	LOC	GPE-Brussles
+864	878	Великобритания	Великобритания	LOC	GPE-Great-Britain
+920	926	Европа	Европа	LOC	LOC-Europe

@@ -1,0 +1,14 @@
+5	12	брекзит	Брекзит	EVT	EVT-Brexit
+29	38	българите	българи	PER	GPE-Bulgaria
+41	47	Англия	Англия	LOC	GPE-England
+52	61	българите	българи	PER	GPE-Bulgaria
+92	106	Великобритания	Великобритания	LOC	GPE-Great-Britain
+156	164	брекзита	Брекзит	EVT	EVT-Brexit
+203	217	Омуртаг Петков	Омуртаг Петков	PER	PER-Omourtag-Petkov
+249	287	Британо-българската бизнес организация	Британо-българска бизнес организация	ORG	ORG-BBBA
+406	420	Великобритания	Великобритания	LOC	GPE-Great-Britain
+424	426	ЕС	ЕС	ORG	ORG-European-Union
+466	475	Евросъюза	Евросъюз	ORG	ORG-European-Union
+496	516	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+569	585	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+586	600	Великобритания	Великобритания	LOC	GPE-Great-Britain

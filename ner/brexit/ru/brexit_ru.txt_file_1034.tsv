@@ -1,0 +1,22 @@
+46	52	Brexit	Brexit	EVT	EVT-Brexit
+54	62	БРЮССЕЛЬ	БРЮССЕЛЬ	LOC	GPE-Brussles
+64	73	КАЗИНФОРМ	КАЗИНФОРМ	ORG	ORG-Kazinform
+92	106	Великобритании	Великобритания	LOC	GPE-Great-Britain
+119	125	Brexit	Brexit	EVT	EVT-Brexit
+135	147	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+265	278	МИА Казинформ	МИА Казинформ	ORG	ORG-Kazinform
+325	339	Доминика Рааба	Доминик Рааб	PER	PER-Dominic-Raab
+382	384	ЕС	ЕС	ORG	ORG-European-Union
+412	419	Twitter	Twitter	PRO	PRO-Twitter
+437	451	Великобритании	Великобритания	LOC	GPE-Great-Britain
+467	471	Рааб	Рааб	PER	PER-Dominic-Raab
+480	493	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+619	633	Великобритании	Великобритания	LOC	GPE-Great-Britain
+636	638	ЕС	ЕС	ORG	ORG-European-Union
+645	651	Brexit	Brexit	EVT	EVT-Brexit
+669	675	Лондон	Лондон	LOC	GPE-London
+705	713	Брюсселю	Брюссель	LOC	GPE-Brussles
+727	783	министерстве по делам регионов и местного самоуправления	министерство по делам регионов и местного самоуправления	ORG	ORG-Ministry-of-Housing-Communities-and-Local
+794	800	Д.Рааб	Д.Рааб	PER	PER-Dominic-Raab
+896	910	Великобритания	Великобритания	LOC	GPE-Great-Britain
+927	929	ЕС	ЕС	ORG	ORG-European-Union

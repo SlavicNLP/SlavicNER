@@ -1,0 +1,175 @@
+26	31	Трамп	Трамп	PER	PER-Donald-Trump
+48	55	Америку	Америка	LOC	GPE-USA
+72	80	Байденом	Байден	PER	PER-Joe-Biden
+137	146	Белый дом	Белый дом	ORG	ORG-The-White-House
+203	218	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+250	272	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+273	284	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+476	482	Трампа	Трамп	PER	PER-Donald-Trump
+579	582	США	США	LOC	GPE-USA
+677	689	американская	американский	LOC	GPE-USA
+827	837	«Ленты.ру»	«Лента.ру»	PRO	PRO-Lenta-Ru
+854	866	американских	американские	LOC	GPE-USA
+995	1005	американцы	американцы	PER	GPE-USA
+1080	1093	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1170	1173	США	США	LOC	GPE-USA
+1175	1178	США	США	LOC	GPE-USA
+1304	1316	коронавируса	коронавирус	EVT	EVT-Covid-19
+1430	1435	Техас	Техас	LOC	GPE-Texas
+1544	1557	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+1925	1930	Трамп	Трамп	PER	PER-Donald-Trump
+1981	1993	американской	американский	LOC	GPE-USA
+2363	2375	американских	американские	LOC	GPE-USA
+2478	2496	Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+2807	2835	нижняя палата парламента США	нижняя палата парламента США	ORG	ORG-United-States-House-of-Representatives
+2845	2876	палата представителей Конгресса	палата представителей Конгресса	ORG	ORG-United-States-House-of-Representatives
+2948	2974	Декларации о независимости	Декларация о независимости	PRO	PRO-United-States-Declaration-of-Independence
+3028	3040	американской	американский	LOC	GPE-USA
+3065	3077	выборах 1800	выборы 1800	EVT	EVT-1800-United-States-Presidential-Election
+3140	3170	Демократическо-республиканская	Демократическо-республиканская	ORG	ORG-Democratic-Republican-Party-USA
+3173	3187	Федералистская	Федералистская	ORG	ORG-Federalist-Party-USA
+3404	3413	Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+3414	3427	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+3533	3551	Томасу Джефферсону	Томас Джефферсон	PER	PER-Thomas-Jefferson
+3591	3601	Аарон Бёрр	Аарон Бёрр	PER	PER-Aaron-Burr-Jr
+3836	3848	федералистов	федералисты	ORG	ORG-Federalist-Party-USA
+3889	3900	Джефферсона	Джефферсона	PER	PER-Thomas-Jefferson
+3929	3940	федералисты	федералисты	ORG	ORG-Federalist-Party-USA
+3962	3967	Бёрра	Бёрр	PER	PER-Aaron-Burr-Jr
+4211	4223	федералистов	федералисты	ORG	ORG-Federalist-Party-USA
+4224	4243	Александр Гамильтон	Александр Гамильтон	PER	PER-Alexander-Hamilton
+4268	4274	Бёрром	Бёрр	PER	PER-Aaron-Burr-Jr
+4378	4388	Гамильтона	Гамильтон	PER	PER-Alexander-Hamilton
+4464	4475	Джефферсона	Джефферсон	PER	PER-Thomas-Jefferson
+4494	4498	Бёрр	Бёрр	PER	PER-Aaron-Burr-Jr
+4532	4543	Гамильтоном	Гамильтон	PER	PER-Alexander-Hamilton
+4567	4576	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+4688	4698	Гамильтона	Гамильтон	PER	PER-Alexander-Hamilton
+4805	4810	Бёрру	Бёрр	PER	PER-Aaron-Burr-Jr
+4887	4899	американским	американские	LOC	GPE-USA
+4966	4993	12-ю поправку к Конституции	12-ю поправка к Конституции	PRO	PRO-Twelfth-Amendment-to-the-United-States-Constitution
+5065	5086	палаты представителей	палаты представителей	ORG	ORG-United-States-House-of-Representatives
+5181	5202	Федералистская партия	Федералистская партия	ORG	ORG-Federalist-Party-USA
+5228	5237	демократы	демократ	ORG	ORG-Democratic-Party-USA
+5398	5410	американские	американские	LOC	GPE-USA
+5980	5988	Кентукки	Кентукки	LOC	GPE-Kentucky
+5990	5999	Вирджинии	Вирджиния	LOC	GPE-Virginia
+6880	6894	Эдгар Аллан По	Эдгар Аллан По	PER	PER-Edgar-Allan-Poe
+7516	7528	американское	американское	LOC	GPE-USA
+7676	7691	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+7734	7737	США	США	LOC	GPE-USA
+7821	7838	Гражданская война	Гражданская война	EVT	EVT-USA-Civil-War
+7855	7872	Авраама Линкольна	Авраам Линкольн	PER	PER-Abraham-Lincoln
+7887	7901	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+8040	8050	демократов	демократы	ORG	ORG-Democratic-Party-USA
+8052	8060	Линкольн	Линкольн	PER	PER-Abraham-Lincoln
+8140	8154	Южная Каролина	Южная Каролина	LOC	GPE-South-Carolina-US-State
+8245	8248	США	США	LOC	GPE-USA
+8302	8331	Конфедеративные Штаты Америки	Конфедеративные Штаты Америки	LOC	GPE-Confederate-States-of-America
+8402	8419	Гражданская война	Гражданская война	EVT	EVT-USA-Civil-War
+8464	8475	американцев	американцы	PER	GPE-USA
+8477	8479	Юг	Юг	ORG	GPE-Southern-States-USA
+8515	8533	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+8536	8545	Линкольна	Линкольн	PER	PER-Abraham-Lincoln
+8750	8762	выборах 1876	выборы 1876	EVT	EVT-1876-United-States-Presidential-Election
+8798	8811	Сэмюэл Тилден	Сэмюэл Тилден	PER	PER-Samuel-Jones-Tilden
+8837	8850	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+8851	8867	Ратерфорда Хейза	Ратерфорд Хейз	PER	PER-Rutherford-Hayes
+8979	8991	выборов 1876	выборы 1876	EVT	EVT-1876-United-States-Presidential-Election
+9099	9105	Тилден	Тилден	PER	PER-Samuel-Jones-Tilden
+9301	9310	Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+9456	9462	Трампа	Трамп	PER	PER-Donald-Trump
+9562	9571	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+9653	9657	Хейз	Хейз	PER	PER-Rutherford-Hayes
+9743	9745	Юг	Юг	ORG	GPE-Southern-States-USA
+9796	9810	Реконструкцией	Реконструкция	EVT	EVT-The-Reconstruction-era
+9959	9981	Демократическая партия	Демократическая партия	ORG	ORG-Democratic-Party-USA
+10140	10152	американский	американский	LOC	GPE-USA
+10195	10198	США	США	LOC	GPE-USA
+10313	10326	американского	американский	LOC	GPE-USA
+10417	10420	США	США	LOC	GPE-USA
+10584	10591	Америки	Америка	LOC	GPE-USA
+10621	10636	Теодор Рузвельт	Теодор Рузвельт	PER	PER-Theodore-Roosevelt
+10653	10656	США	США	LOC	GPE-USA
+10718	10739	Уильяму Говарду Тафту	Уильям Говард Тафт	PER	PER-William-Howard-Taft
+10750	10758	Рузвельт	Рузвельт	PER	PER-Franklin-Roosevelt
+10892	10912	Прогрессивной партии	Прогрессивная партия	ORG	ORG-Progressive-Party
+10929	10943	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+10946	10956	демократов	демократы	ORG	ORG-Democratic-Party-USA
+11084	11093	Рузвельта	Рузвельт	PER	PER-Franklin-Roosevelt
+11134	11143	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+11318	11326	Рузвельт	Рузвельт	PER	PER-Franklin-Roosevelt
+11513	11527	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+11551	11555	Тафт	Тафт	PER	PER-William-Howard-Taft
+11705	11714	Рузвельта	Рузвельт	PER	PER-Franklin-Roosevelt
+11784	11792	демократ	демократ	ORG	ORG-Democratic-Party-USA
+11793	11806	Вудро Вильсон	Вудро Вильсон	PER	PER-Woodrow-Wilson
+11977	11989	американских	американские	LOC	GPE-USA
+12002	12012	Юджин Дебс	Юджин Дебс	PER	PER-Eugene-V.-Debs
+12085	12098	Берни Сандерс	Берни Сандерс	PER	PER-Bernie-Sanders
+12167	12189	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+12257	12269	американских	американские	LOC	GPE-USA
+12275	12288	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+12289	12302	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+12413	12416	США	США	LOC	GPE-USA
+12501	12507	Трампа	Трамп	PER	PER-Donald-Trump
+12626	12634	демократ	демократ	ORG	ORG-Democratic-Party-USA
+12635	12647	Гарри Труман	Гарри Труман	PER	PER-Harry-S.-Truman
+12805	12811	Труман	Труман	PER	PER-Harry-S.-Truman
+12895	12903	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+12929	12942	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+12946	12968	Демократическая партия	Демократическая партия	ORG	ORG-Democratic-Party-USA
+13149	13155	Труман	Труман	PER	PER-Harry-S.-Truman
+13171	13185	республиканцем	республиканец	ORG	ORG-Republican-Party-USA
+13186	13198	Томасом Дьюи	Томас Дьюи	PER	PER-Thomas-E.-Dewey
+13324	13330	Труман	Труман	PER	PER-Harry-S.-Truman
+13496	13500	Дьюи	Дьюи	PER	PER-Thomas-E.-Dewey
+13536	13545	Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+13576	13585	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+13653	13675	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+13705	13711	Труман	Труман	PER	PER-Harry-S.-Truman
+13827	13842	Chicago Tribune	Chicago Tribune	PRO	PRO-Chicago-Tribune
+13880	13884	Дьюи	Дьюи	PER	PER-Thomas-E.-Dewey
+13895	13902	Трумана	Труман	PER	PER-Harry-S.-Truman
+14052	14060	демократ	демократ	ORG	ORG-Democratic-Party-USA
+14061	14067	Ал Гор	Ал Гор	PER	PER-Al-Gore
+14070	14083	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+14084	14102	Джордж Буш-младший	Джордж Буш-младший	PER	PER-George-Bush-Jr
+14166	14173	Флорида	Флорида	LOC	GPE-Florida
+14212	14216	Гору	Гор	PER	PER-Al-Gore
+14355	14367	американской	американский	LOC	GPE-USA
+14486	14489	Буш	Буш	PER	PER-George-Bush-Jr
+14646	14659	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+14678	14689	демократами	демократы	ORG	ORG-Democratic-Party-USA
+14741	14754	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+14854	14858	Бушу	Буш	PER	PER-George-Bush-Jr
+14871	14893	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+14972	14985	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+15062	15070	демократ	демократ	ORG	ORG-Democratic-Party-USA
+15071	15074	Гор	Гор	PER	PER-Al-Gore
+15075	15088	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+15089	15093	Буша	Буш	PER	PER-George-Bush-Jr
+15097	15109	выборах 2000	выборы 2000	EVT	EVT-2000-United-States-Presidential-Election
+15403	15418	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+15453	15457	Бушу	Буш	PER	PER-George-Bush-Jr
+15487	15500	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+15535	15542	Америка	Америка	LOC	GPE-USA
+15545	15567	Республиканская партия	Республиканская партия	ORG	ORG-Republican-Party-USA
+15646	15652	Трампу	Трамп	PER	PER-Donald-Trump
+15666	15676	Белом доме	Белый дом	LOC	LOC-White-House
+15713	15726	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+15872	15877	Трамп	Трамп	PER	PER-Donald-Trump
+15942	15957	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+16038	16045	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+16095	16101	Трампа	Трамп	PER	PER-Donald-Trump
+16537	16544	Америки	Америка	LOC	GPE-USA
+16645	16650	Трамп	Трамп	PER	PER-Donald-Trump
+16817	16827	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+16925	16931	Трампа	Трам	PER	PER-Donald-Trump
+16934	16950	демократическими	демократические	ORG	ORG-Democratic-Party-USA
+16985	16997	американское	американский	LOC	GPE-USA
+17244	17255	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+17321	17333	Американское	Американский	LOC	GPE-USA
+17376	17386	английских	английские	LOC	GPE-Great-Britain
+17519	17522	США	США	LOC	GPE-USA
+17567	17577	американцы	американцы	PER	GPE-USA

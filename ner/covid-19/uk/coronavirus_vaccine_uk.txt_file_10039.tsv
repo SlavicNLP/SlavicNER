@@ -1,0 +1,26 @@
+28	36	Covid-19	Covid-19	EVT	EVT-Covid-19
+39	49	Ніредьгазі	Ніредьгаз	LOC	GPE-Nyíregyháza
+53	62	Дебрецені	Дебрецен	LOC	GPE-Debrecen
+124	139	Pfizer-BioNTech	Pfizer-BioNTech	ORG	ORG-BioNTech
+171	183	коронавірусу	коронавірус	EVT	EVT-Covid-19
+186	205	Європейському Союзі	Європейський Союз	ORG	ORG-European-Union
+218	226	Угорщини	Угорщина	LOC	GPE-Hungary
+271	281	Ніредьгази	Ніредьгаз	LOC	GPE-Nyíregyháza
+285	294	Дебрецена	Дебрецен	LOC	GPE-Debrecen
+488	498	Зіта Сонді	Зіта Сонді	PER	PER-Zita-Sondi
+526	545	Саболч-Сатмар-Берег	Саболч-Сатмар-Берег	LOC	GPE-Szabolcs-Szatmár-Bereg
+596	606	Ніредьгазі	Ніредьгаз	LOC	GPE-Nyíregyháza
+608	621	Вашарошнамені	Вашарошнамен	LOC	GPE-Vásárosnamény
+623	632	Матесалці	Матесалц	LOC	GPE-Mátészalka
+636	644	Кішварді	Кішвард	LOC	GPE-Kisvárda
+771	783	коронавірусу	коронавірус	EVT	EVT-Covid-19
+786	796	Ніредьгазі	Ніредьгаз	LOC	GPE-Nyíregyháza
+811	820	Дебрецені	Дебрецен	LOC	GPE-Debrecen
+1017	1052	Дебреценського центру епідеміології	Дебреценський центр епідеміології	ORG	ORG-Debrecen-Center-for-Epidemiology
+1099	1113	Іштван Варконі	Іштван Варконі	PER	PER-Istvan-Varkoni
+1630	1642	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2058	2070	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2135	2143	Угорщині	Угорщина	LOC	GPE-Hungary
+2177	2185	Covid-19	Covid-19	EVT	EVT-Covid-19
+2268	2276	Угорщині	Угорщина	LOC	GPE-Hungary
+2409	2417	Covid-19	Covid-19	EVT	EVT-Covid-19

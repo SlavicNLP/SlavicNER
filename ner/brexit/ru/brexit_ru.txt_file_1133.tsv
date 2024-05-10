@@ -1,0 +1,39 @@
+2	8	Кремле	Кремль	ORG	ORG-Kremlin
+39	47	Британии	Британия	LOC	GPE-Great-Britain
+60	68	Джонсона	Джонсон	PER	PER-Boris-Johnson
+111	117	Кремле	Кремль	ORG	ORG-Kremlin
+189	196	Россией	Россия	LOC	GPE-Russia
+244	250	России	Россия	LOC	GPE-Russia
+251	265	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+290	293	РБК	РБК	ORG	ORG-RBK-Group
+317	332	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+376	394	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+398	404	Кремле	Кремль	ORG	ORG-Kremlin
+416	423	Пескова	Песков	PER	PER-Dmitry-Peskov
+474	489	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+632	638	России	Россия	LOC	GPE-Russia
+641	647	Песков	Песков	PER	PER-Dmitry-Peskov
+666	682	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+735	750	Великобританией	Великобритания	LOC	GPE-Great-Britain
+777	785	Джонсона	Джонсон	PER	PER-Boris-Johnson
+788	794	Кремле	Кремль	ORG	ORG-Kremlin
+803	810	Лондона	Лондон	LOC	GPE-London
+877	891	Великобритании	Великобритания	LOC	GPE-Great-Britain
+900	906	Песков	Песков	PER	PER-Dmitry-Peskov
+956	962	Кремле	Кремль	ORG	ORG-Kremlin
+971	978	Лондона	Лондон	LOC	GPE-London
+1022	1030	Солсбери	Солсбери	LOC	GPE-Salisbury
+1032	1039	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1100	1110	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+1130	1138	Британии	Британия	LOC	GPE-Great-Britain
+1142	1151	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1153	1159	Brexit	Brexit	EVT	EVT-Brexit
+1182	1185	Мэй	Мэй	PER	PER-Theresa-May
+1186	1193	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1211	1219	Британия	Британия	LOC	GPE-Great-Britain
+1248	1250	ЕС	ЕС	ORG	ORG-European-Union
+1254	1269	российском МИДе	российский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+1275	1283	Джонсона	Джонсон	PER	PER-Boris-Johnson
+1401	1415	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1451	1467	российского МИДа	российский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+1468	1482	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova

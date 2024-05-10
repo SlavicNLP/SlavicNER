@@ -1,0 +1,22 @@
+0	8	Скрипали	Скрипали	PER	PER-Skripals
+29	42	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+51	64	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+72	89	GLOBAL LOOK press	GLOBAL LOOK press	PRO	PRO-Global-Look-Press
+90	104	Dinendra Haria	Dinendra Haria	PER	PER-Dinendra-Haria
+112	149	министерства иностранных дел Британии	министерство иностранных дел Британии	ORG	ORG-Foreign-Office
+292	307	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+420	426	Бориса	Борис	PER	PER-Boris-Johnson
+445	451	Рейтер	Рейтер	ORG	ORG-Reuters
+478	507	внешнеполитического ведомства	внешнеполитическое ведомство	ORG	ORG-Foreign-Office
+587	593	Brexit	Brexit	EVT	EVT-Brexit
+594	607	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+626	637	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+735	759	Соединенному Королевству	Соединенное Королевство	LOC	GPE-Great-Britain
+784	786	ЕС	ЕС	ORG	ORG-European-Union
+808	823	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+850	879	внешнеполитического ведомства	внешнеполитическое ведомство	ORG	ORG-Foreign-Office
+967	970	Мэй	Мэй	PER	PER-Theresa-May
+1041	1043	AP	AP	ORG	ORG-AP-The-Associated-Press
+1081	1089	Джонсона	Джонсон	PER	PER-Boris-Johnson
+1117	1124	Дэвисом	Дэвис	PER	PER-David-Davis
+1153	1162	Евросоюза	Евросоюз	ORG	ORG-European-Union

@@ -1,0 +1,26 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+60	66	Трампа	Трамп	PER	PER-Donald-Trump
+84	95	Білого дому	Білий дім	ORG	ORG-White-House
+96	106	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+180	189	Сенат США	Сенат США	ORG	ORG-United-States-Senate
+236	251	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+356	362	Байден	Байден	PER	PER-Joe-Biden
+404	427	Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+506	515	ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
+532	535	CNN	CNN	ORG	ORG-CNN
+574	577	США	США	LOC	GPE-USA
+679	684	Сенат	Сенат	ORG	ORG-United-States-Senate
+791	802	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+950	960	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1054	1059	Сенат	Сенат	ORG	ORG-United-States-Senate
+1097	1112	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+1201	1212	Чака Шумера	Чак Шумер	PER	PER-Chuck-Schumer
+1502	1511	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+1562	1569	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1581	1584	США	США	LOC	GPE-USA
+1799	1808	Чак Шумер	Чак Шумер	PER	PER-Chuck-Schumer
+1833	1846	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1867	1873	Штатів	Штат	LOC	GPE-USA
+1978	2000	Володимира Зеленського	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+2020	2033	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2048	2055	Флориді	Флорида	LOC	GPE-Florida

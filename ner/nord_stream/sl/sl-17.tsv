@@ -1,0 +1,79 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+14	18	Nata	NATO	ORG	ORG-NATO
+28	35	Nemčije	Nemčija	LOC	GPE-Germany
+133	145	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+169	173	Nato	Nato	ORG	ORG-NATO
+176	183	Bruslju	Bruselj	LOC	GPE-Brussles
+290	297	Nemčijo	Nemčija	LOC	GPE-Germany
+350	363	Angelo Merkel	Angela Merkel	PER	PER-Angela-Merkel
+394	401	Nemčiji	Nemčija	LOC	GPE-Germany
+405	409	Natu	Nato	ORG	ORG-NATO
+457	461	Nato	Nato	ORG	ORG-NATO
+531	559	iranskega jedrskega dogovora	iranski jedrski dogovor	PRO	PRO-Iran-nuclear-deal
+786	792	Trumpa	Trump	PER	PER-Donald-Trump
+872	879	Bruslju	Bruselj	LOC	GPE-Brussles
+936	941	Trump	Trump	PER	PER-Donald-Trump
+992	996	Nata	NATO	ORG	ORG-NATO
+1123	1125	G7	G7	ORG	ORG-G7
+1128	1134	Kanadi	Kanada	LOC	GPE-Canada
+1142	1147	Trump	Trump	PER	PER-Donald-Trump
+1296	1303	Nemčijo	Nemčija	LOC	GPE-Germany
+1334	1347	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1378	1384	Rusije	Rusija	LOC	GPE-Russia
+1492	1497	Trump	Trump	PER	PER-Donald-Trump
+1501	1509	Merklova	Merkel	PER	PER-Angela-Merkel
+1639	1647	Merklova	Merkel	PER	PER-Angela-Merkel
+1663	1671	Trumpove	Trump	PER	PER-Donald-Trump
+1686	1692	Rusije	Rusija	LOC	GPE-Russia
+1735	1750	Sovjetsko zvezo	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+1773	1780	Nemčija	Nemčija	LOC	GPE-Germany
+1784	1791	Amerika	Amerika	LOC	GPE-USA
+1844	1849	Trump	Trump	PER	PER-Donald-Trump
+1983	1987	Nato	Nato	ORG	ORG-NATO
+1992	1999	Nemčija	Nemčija	LOC	GPE-Germany
+2008	2014	Rusiji	Rusija	LOC	GPE-Russia
+2099	2102	ZDA	ZDA	LOC	GPE-USA
+2124	2130	Evrope	Evropa	LOC	LOC-Europe
+2264	2269	Trump	Trump	PER	PER-Donald-Trump
+2375	2384	Bele hiše	Bela hiša	ORG	ORG-White-House
+2385	2398	Sarah Sanders	Sarah Sanders	PER	PER-Sarah-Sanders
+2452	2459	Bruslju	Bruselj	LOC	GPE-Brussles
+2568	2572	Nata	NATO	ORG	ORG-NATO
+2573	2589	Jens Stoltenberg	Jens Stoltenberg	PER	PER-Jens-Stoltenberg
+2676	2680	Nata	NATO	ORG	ORG-NATO
+2827	2830	ZDA	ZDA	LOC	GPE-USA
+2834	2850	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+2852	2858	Grčija	Grčija	LOC	GPE-Greece
+2860	2868	Estonija	Estonija	LOC	GPE-Estonia
+2870	2877	Latvija	Latvija	LOC	GPE-Latvia
+2879	2886	Poljska	Poljska	LOC	GPE-Poland
+2888	2896	Romunija	Romunija	LOC	GPE-Romania
+2900	2905	Litva	Litva	LOC	GPE-Lithuania
+2965	2974	Slovenija	Slovenija	LOC	GPE-Slovenia
+3273	3282	Slovenija	Slovenija	LOC	GPE-Slovenia
+3369	3379	Luksemburg	Luksemburg	LOC	GPE-Luxembourg
+3381	3388	Španija	Španija	LOC	GPE-Spain
+3392	3399	Belgija	Belgija	LOC	GPE-Belgium
+3421	3431	Miro Cerar	Miro Cerar	PER	PER-Miro-Cerar
+3615	3630	Stoltenbergovih	Stoltenberg	PER	PER-Jens-Stoltenberg
+3656	3660	Nata	NATO	ORG	ORG-NATO
+3741	3751	Makedonija	Makedonija	LOC	GPE-North-Macedonia
+3825	3829	Nato	Nato	ORG	ORG-NATO
+3955	3961	Skopja	Skopje	LOC	GPE-Skopje
+3965	3969	Aten	Atene	LOC	GPE-Athens
+3978	3988	Makedonije	Makedonija	LOC	GPE-North-Macedonia
+4005	4011	Natovi	Nato	ORG	ORG-NATO
+4250	4255	Iraku	Irak	LOC	GPE-Iraq
+4273	4279	Kanada	Kanada	LOC	GPE-Canada
+4349	4364	Islamska država	Islamska država	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+4536	4544	Atlantik	Atlantik	LOC	LOC-Atlantic-Ocean
+4557	4565	Norfolku	Norfolk	LOC	GPE-Norfolk
+4638	4644	Evropi	Evropa	LOC	LOC-Europe
+4655	4659	Ulmu	Ulm	LOC	GPE-Ulm
+4717	4721	Nata	NATO	ORG	ORG-NATO
+5009	5023	Cinquantenaire	Cinquantenaire	LOC	LOC-The-Parc-du-Cinquantenaire
+5146	5158	Karl Erjavec	Karl Erjavec	PER	PER-Karl-Erjavec
+5182	5195	Andreja Katič	Andreja Katič	PER	PER-Andreja-Katic
+5198	5207	Slovenija	Slovenija	LOC	GPE-Slovenia
+5291	5307	Slovenske vojske	Slovenska vojska	ORG	ORG-Slovenian-Armed-Forces
+5410	5420	Afganistan	Afganistan	LOC	GPE-Afghanistan

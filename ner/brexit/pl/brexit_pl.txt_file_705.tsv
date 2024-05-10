@@ -1,0 +1,40 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+8	14	Europa	Europa	LOC	LOC-Europe
+24	33	Islamabad	Islamabad	LOC	GPE-Islamabad
+35	50	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+87	98	Pakistanowi	Pakistan	LOC	GPE-Pakistan
+175	183	Pakistan	Pakistan	LOC	GPE-Pakistan
+218	222	GSP+	GSP+	PRO	PRO-GSP+
+264	266	UE	UE	ORG	ORG-European-Union
+376	378	UE	UE	ORG	ORG-European-Union
+439	445	Londyn	Londyn	LOC	GPE-London
+511	515	GSP+	GSP+	PRO	PRO-GSP+
+516	525	Islamabad	Islamabad	LOC	GPE-Islamabad
+658	660	UE	UE	ORG	ORG-European-Union
+737	747	Komisji UE	Komisja UE	ORG	ORG-European-Commission
+783	791	Pakistan	Pakistan	LOC	GPE-Pakistan
+831	835	GSP+	GSP+	PRO	PRO-GSP+
+971	973	UE	UE	ORG	ORG-European-Union
+1055	1063	Mahometa	Mahomet	PER	PER-Mahomet
+1093	1107	Nadeema Jamesa	Nadeem James	PER	PER-Nadeem-James
+1231	1239	Mahometa	Mahomet	PER	PER-Mahomet
+1262	1264	UE	UE	ORG	ORG-European-Union
+1322	1331	Pakistanu	Pakistan	LOC	GPE-Pakistan
+1444	1450	Polska	Polska	LOC	GPE-Poland
+1454	1461	Europie	Europa	LOC	LOC-Europe
+1495	1501	Chinom	Chiny	LOC	GPE-China
+1508	1516	Pakistan	Pakistan	LOC	GPE-Pakistan
+1537	1543	Gwadar	Gwadar	LOC	LOC-Gwadar
+1612	1614	UE	UE	ORG	ORG-European-Union
+1665	1669	GSP+	GSP+	PRO	PRO-GSP+
+1684	1693	Pakistanu	Pakistan	LOC	GPE-Pakistan
+1722	1728	Europy	Europa	LOC	LOC-Europe
+1754	1768	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1813	1822	Pakistanu	Pakistan	LOC	GPE-Pakistan
+1880	1887	talibów	Talibowie	ORG	ORG-Taliban
+1995	2006	Afganistanu	Afganistan	LOC	GPE-Afghanistan
+2046	2058	Afganistanie	Afganistan	LOC	GPE-Afghanistan
+2082	2099	Państwo Islamskie	Państwo Islamskie	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+2152	2157	Syrii	Syria	LOC	GPE-Syria
+2160	2165	Iraku	Irak	LOC	GPE-Iraq
+2167	2177	Waszyngton	Waszyngton	LOC	GPE-WashingtonDC

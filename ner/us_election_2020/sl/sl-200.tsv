@@ -1,0 +1,62 @@
+0	8	New York	New York	LOC	GPE-New-York
+22	34	Ivanko Trump	Ivanka Trump	PER	PER-Ivanka-Trump
+85	99	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+144	156	Ivanke Trump	Ivanka Trump	PER	PER-Ivanka-Trump
+166	184	Jaredom Kushnerjem	Jared Kushner	PER	PER-Jared-Kushner
+206	215	New Yorku	New York	LOC	GPE-New-York
+239	247	Ivankino	Ivankin	PER	PER-Ivanka-Trump
+284	295	Vanity Fair	Vanity Fair	PRO	ORG-Vanity-Fair
+344	361	Lysandra Ohrstrom	Lysandra Ohrstrom	PER	PER-Lysandra-Ohrstrom
+369	375	Ivanko	Ivanka	PER	PER-Ivanka-Trump
+395	414	osnovni šoli Chapin	osnovna šola Chapin	ORG	ORG-The-Chapin-School
+418	427	Manhattnu	Manhattan	LOC	LOC-Manhattan
+571	577	Ivanka	Ivanka	PER	PER-Ivanka-Trump
+584	595	Ohrstromovi	Ohrstrom	PER	PER-Lysandra-Ohrstrom
+852	858	Ivanka	Ivanka	PER	PER-Ivanka-Trump
+993	1004	Ohrstromova	Ohrstrom	PER	PER-Lysandra-Ohrstrom
+1160	1170	Ivankinega	Ivanka	PER	PER-Ivanka-Trump
+1323	1331	Libanona	Libanon	LOC	GPE-Lebanon
+1357	1369	Ivanki Trump	Ivanka Trump	PER	PER-Ivanka-Trump
+1436	1449	družine Trump	družina Trump	PER	PER-Trump-Family
+1475	1481	Ivanka	Ivanka	PER	PER-Ivanka-Trump
+1495	1506	Ohrstromova	Ohrstrom	PER	PER-Lysandra-Ohrstrom
+1515	1522	Trumpov	Trumpov	PER	PER-Donald-Trump
+1712	1723	Ohrstromovi	Ohrstrom	PER	PER-Lysandra-Ohrstrom
+1792	1808	Richarda Russoja	Richard Russo	PER	PER-Richard-Russo
+1809	1821	Empire Falls	Empire Falls	PRO	PRO-Empire-Falls
+1893	1895	Ly	Ly	PER	PER-Lysandra-Ohrstrom
+2017	2023	Ivanka	Ivanka	PER	PER-Ivanka-Trump
+2292	2304	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2365	2371	Ivanka	Ivanka	PER	PER-Ivanka-Trump
+2448	2456	Trumpovi	Trumpovi	PER	PER-Donald-Trump
+2644	2650	Ivanke	Ivanka	PER	PER-Ivanka-Trump
+2655	2667	Ivanka Trump	Ivanka Trump	PER	PER-Ivanka-Trump
+2678	2694	Marija Antoaneta	Marija Antoaneta	PER	PER-Marie-Antoinette
+2696	2713	Lysandra Ohrstrom	Lysandra Ohrstrom	PER	PER-Lysandra-Ohrstrom
+2717	2731	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2757	2760	ZDA	ZDA	LOC	GPE-USA
+2904	2910	Ivanka	Ivanka	PER	PER-Ivanka-Trump
+3157	3169	koronavirusa	koronavirus	EVT	EVT-Covid-19
+3414	3422	New York	New York	LOC	GPE-New-York
+3453	3462	covidu-19	covid-19	EVT	EVT-Covid-19
+3499	3507	New York	New York	LOC	GPE-New-York
+3579	3590	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+3635	3644	Trumpovim	Trumpovi	PER	PER-Donald-Trump
+3816	3825	New Yorka	New York	LOC	GPE-New-York
+3830	3842	Times Squaru	Times Square	LOC	LOC-Times-Square
+3889	3901	Ivanke Trump	Ivanka Trump	PER	PER-Ivanka-Trump
+3905	3921	Jareda Kushnerja	Jared Kushner	PER	PER-Jared-Kushner
+3946	3955	New Yorku	New York	LOC	GPE-New-York
+3959	3962	ZDA	ZDA	LOC	GPE-USA
+3970	3979	covida-19	covid-19	EVT	EVT-Covid-19
+3985	3994	Kushnerja	Kushner	PER	PER-Jared-Kushner
+4019	4029	Newyorčani	Newyorčani	PER	GPE-New-York
+4173	4184	Trump Tower	Trump Tower	LOC	LOC-Trump-Tower
+4204	4214	Trumpovega	Trumpov	PER	PER-Donald-Trump
+4231	4241	Mar-a-Lago	Mar-a-Lago	LOC	LOC-Mar-a-Lago
+4245	4252	Floridi	Florida	LOC	GPE-Florida
+4337	4342	Trump	Trump	PER	PER-Donald-Trump
+4383	4393	Newyorčani	Newyorčani	PER	GPE-New-York
+4426	4431	Trump	Trump	PER	PER-Donald-Trump
+4435	4451	velikega jabolka	Veliko jabolko	LOC	GPE-New-York
+4490	4504	Veliko jabolko	Veliko jabolko	LOC	GPE-New-York

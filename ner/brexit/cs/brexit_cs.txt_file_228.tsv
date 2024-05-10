@@ -1,0 +1,27 @@
+35	41	Evropu	Evropa	LOC	LOC-Europe
+44	50	brexit	brexit	EVT	EVT-Brexit
+54	61	Německu	Německo	LOC	GPE-Germany
+90	93	CDU	CDU	ORG	ORG-Christlich-Demokratische-Union
+94	97	CSU	CSU	ORG	ORG-CSU-Christian-Social-Union-in-Bavaria
+108	124	Angely Merkelové	Angela Merklová	PER	PER-Angela-Merkel
+127	147	sociálních demokratů	sociální demokraté	PER	ORG-Sozialdemokratische-Partei-Deutschlands
+149	152	SPD	SPD	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+172	185	Martin Schulz	Martin Schulz	PER	PER-Martin-Schulz
+304	306	EU	EU	ORG	ORG-European-Union
+336	348	The Guardian	The Guardian	PRO	PRO-The-Guardian
+394	402	Die Welt	Die Welt	PRO	PRO-Die-Welt
+403	415	Alan Posener	Alan Posener	PER	PER-Alan-Posener
+467	470	SPD	SPD	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+533	540	Německu	Německo	LOC	GPE-Germany
+584	604	sociálních demokratů	sociální demokraté	PER	ORG-Sozialdemokratische-Partei-Deutschlands
+819	842	Alternativy pro Německo	Alternativa pro Německo	ORG	ORG-AfG-Alternative-for-Germany
+844	847	AfD	AfD	ORG	ORG-AfG-Alternative-for-Germany
+885	888	SPD	SPD	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+960	966	Evropu	Evropa	LOC	LOC-Europe
+969	977	Británii	Británie	LOC	GPE-Great-Britain
+979	992	Martin Schulz	Martin Schulz	PER	PER-Martin-Schulz
+1041	1062	Evropského parlamentu	Evropský parlament	ORG	ORG-European-Parliament
+1242	1248	Schulz	Schulz	PER	PER-Martin-Schulz
+1354	1369	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+1786	1792	Schulz	Schulz	PER	PER-Martin-Schulz
+1912	1914	EU	EU	ORG	ORG-European-Union

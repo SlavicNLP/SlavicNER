@@ -1,0 +1,13 @@
+0	7	Брекзит	Брекзит	EVT	EVT-Brexit
+37	51	Великобритания	Великобритания	LOC	GPE-Great-Britain
+81	95	Великобритания	Великобритания	LOC	GPE-Great-Britain
+248	264	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+301	307	Лондон	Лондон	LOC	GPE-London
+308	317	Садик Кан	Садик Кан	PER	PER-Sadiq-Khan
+328	335	Ройтерс	Ройтерс	ORG	ORG-Reuters
+338	360	Cambridge Econometrics	Cambridge Econometrics	ORG	ORG-Cambridge-Econometrics
+460	474	Великобритания	Великобритания	LOC	GPE-Great-Britain
+478	480	ЕС	ЕС	ORG	ORG-European-Union
+521	528	Брекзит	Брекзит	EVT	EVT-Brexit
+983	997	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1000	1002	ЕС	ЕС	ORG	ORG-European-Union

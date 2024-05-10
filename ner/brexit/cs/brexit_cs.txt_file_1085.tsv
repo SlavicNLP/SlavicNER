@@ -1,0 +1,23 @@
+61	68	brexitu	brexit	EVT	EVT-Brexit
+131	138	brexitu	brexit	EVT	EVT-Brexit
+152	163	Lukáš Vaněk	Lukáš Vaněk	PER	PER-Lukas-Vanek
+182	196	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+302	315	Evropské unie	Evropská unie	ORG	ORG-European-Union
+317	331	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+400	406	brexit	brexit	EVT	EVT-Brexit
+462	468	Irskem	Irsko	LOC	GPE-Ireland
+538	551	konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+562	568	Mayové	Mayová	PER	PER-Theresa-May
+616	630	Sněmovny lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+644	658	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+799	806	brexitu	brexit	EVT	EVT-Brexit
+836	850	Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+887	907	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+923	925	EU	EU	ORG	ORG-European-Union
+996	1009	Severní Irsko	Severní Irsko	LOC	GPE-Northern-Ireland
+1032	1038	Anglie	Anglie	LOC	GPE-England
+1040	1047	Skotsko	Skotsko	LOC	GPE-Scotland
+1050	1055	Wales	Wales	LOC	GPE-Wales
+1065	1085	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+1095	1102	brexitu	brexit	EVT	EVT-Brexit
+1153	1155	EU	EU	ORG	ORG-European-Union

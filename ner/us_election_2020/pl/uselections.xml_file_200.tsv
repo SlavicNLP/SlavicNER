@@ -1,0 +1,37 @@
+0	3	USA	USA	LOC	GPE-USA
+212	234	Kolegium Elektorskiego	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+482	490	Nebrasce	Nebraska	LOC	GPE-Nebraska
+493	498	Maine	Maine	LOC	GPE-Maine
+673	683	Kalifornia	Kalifornia	LOC	GPE-California
+849	852	USA	USA	LOC	GPE-USA
+853	865	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1101	1110	Nowy Jork	Nowy Jork	LOC	GPE-New-York
+1122	1132	Demokratom	Demokraci	ORG	ORG-Democratic-Party-USA
+1136	1155	Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+1158	1170	Republikanom	Republikanie	ORG	ORG-Republican-Party-USA
+1277	1284	Floryda	Floryda	LOC	GPE-Florida
+1286	1297	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1299	1307	Michigan	Michigan	LOC	GPE-Michigan
+1309	1318	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1320	1337	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1339	1343	Iowa	Iowa	LOC	GPE-Iowa
+1349	1356	Arizona	Arizona	LOC	GPE-Arizona
+1369	1376	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1378	1384	Teksas	Teksas	LOC	GPE-Texas
+1390	1394	Ohio	Ohio	LOC	GPE-Ohio
+1514	1526	koronawirusa	koronawirus	EVT	EVT-Covid-19
+1546	1555	Biały Dom	Biały Dom	LOC	LOC-White-House
+1594	1599	Trump	Trump	PER	PER-Donald-Trump
+1683	1693	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1694	1703	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1734	1744	Wilmington	Wilmington	LOC	GPE-Wilmington
+1754	1762	Delaware	Delaware	LOC	GPE-Delaware
+1942	1947	Trump	Trump	PER	PER-Donald-Trump
+1970	1980	Demokracie	Demokrata	PER	ORG-Democratic-Party-USA
+2094	2106	koronawirusa	koronawirus	EVT	EVT-Covid-19
+2139	2144	Biden	Biden	PER	PER-Joe-Biden
+2193	2198	Trump	Trump	PER	PER-Donald-Trump
+2399	2402	USA	USA	LOC	GPE-USA
+2485	2496	Waszyngtonu	Waszyngton	LOC	GPE-WashingtonDC
+2497	2513	Mateusz Obremski	Mateusz Obremski	PER	PER-Mateusz-Obremski
+2515	2518	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

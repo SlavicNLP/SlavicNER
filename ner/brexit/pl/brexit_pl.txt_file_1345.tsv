@@ -1,0 +1,55 @@
+43	49	Putina	Putin	PER	PER-Vladimir-Putin
+52	67	Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+91	98	Europie	Europa	LOC	LOC-Europe
+133	139	Putina	Putin	PER	PER-Vladimir-Putin
+163	169	Europę	Europa	LOC	LOC-Europe
+206	212	Le Pen	Le Pen	PER	PER-Marine-Le-Pen
+214	221	Wilders	Wilders	PER	PER-Geert-Wilders
+223	229	Farage	Farage	PER	PER-Nigel-Farage
+231	236	Orbán	Orbán	PER	PER-Viktor-Orban
+238	247	Kaczyński	Kaczyński	PER	PER-Jaroslav-Kaczyński
+249	256	Salvini	Salvini	PER	PER-Matteo-Salvini
+334	342	Farage’a	Farage	PER	PER-Nigel-Farage
+343	354	Arron Banks	Arron Banks	PER	PER-Arron-Banks
+373	382	Rosjanami	Rosjanie	PER	GPE-Russia
+398	405	Brexitu	Brexit	EVT	EVT-Brexit
+437	443	Belgii	Belgia	LOC	GPE-Belgium
+476	487	Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+528	551	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+682	688	Kremla	Kreml	LOC	LOC-Kremlin
+696	707	Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+760	773	Beata Mazurek	Beata Mazurek	PER	PER-Beata-Mazurek
+792	797	PiS-u	PiS	ORG	ORG-PiS-Law-and-Justice
+802	808	Europe	Europe	LOC	LOC-Europe
+842	849	Putin's	Putin	PER	PER-Vladimir-Putin
+883	889	Europe	Europe	LOC	LOC-Europe
+925	931	Le Pen	Le Pen	PER	PER-Marine-Le-Pen
+933	940	Wilders	Wilders	PER	PER-Geert-Wilders
+942	948	Farage	Farage	PER	PER-Nigel-Farage
+950	955	Orbàn	Orbàn	PER	PER-Viktor-Orban
+957	966	Kaczynski	Kaczyński	PER	PER-Jaroslav-Kaczyński
+968	975	Salvini	Salvini	PER	PER-Matteo-Salvini
+1010	1018	Farage's	Farage	PER	PER-Nigel-Farage
+1026	1037	Arron Banks	Arron Banks	PER	PER-Arron-Banks
+1076	1082	Brexit	Brexit	EVT	EVT-Brexit
+1085	1100	Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+1251	1264	Marine Le Pen	Marine Le Pen	PER	PER-Marine-Le-Pen
+1315	1356	Frontu Narodowego/Zgromadzenia Narodowego	Front Narodowy/Zgromadzenie Narodowe	ORG	ORG-National-Rally-FR
+1358	1363	FN/RN	FN/RN	ORG	ORG-National-Rally-FR
+1380	1404	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+1418	1441	Zgromadzenia Narodowego	Zgromadzenie Narodowe	ORG	ORG-National-Rally-FR
+1443	1456	Geert Wilders	Geert Wilders	PER	PER-Geert-Wilders
+1488	1500	Tweede Kamer	Tweede Kamer	ORG	ORG-Tweede-Kamer
+1516	1535	Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-Chamber-of-Representatives-NL
+1568	1613	Partii Ludowej na rzecz Wolności i Demokracji	Partia Ludowa na rzecz Wolności i Demokracji	ORG	ORG-VVD-Peoples-Party-for-Freedom-and-Democracy
+1615	1618	VVD	VVD	ORG	ORG-VVD-Peoples-Party-for-Freedom-and-Democracy
+1638	1653	Partii Wolności	Partia Wolności	ORG	ORG-PVV-Party-for-Freedom
+1655	1658	PVV	PVV	ORG	ORG-PVV-Party-for-Freedom
+1699	1711	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+1744	1789	Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+1791	1795	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+1861	1863	PE	PE	ORG	ORG-European-Parliament
+1865	1877	Viktor Orbán	Viktor Orbán	PER	PER-Viktor-Orban
+1888	1894	Węgier	Węgry	LOC	GPE-Hungary
+1927	1941	Matteo Salvini	Matteo Salvini	PER	PER-Matteo-Salvini
+1986	2000	Ligi Północnej	Liga Północna	ORG	ORG-Lega-Nord

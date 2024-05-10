@@ -1,0 +1,49 @@
+0	7	Ukraina	Ukraina	LOC	GPE-Ukraine
+24	36	Most Krymski	Most Krymski	LOC	LOC-Crimean-Bridge
+65	70	Rosja	Rosja	LOC	GPE-Russia
+84	91	Ukraina	Ukraina	LOC	GPE-Ukraine
+111	123	Most Krymski	Most Krymski	LOC	LOC-Crimean-Bridge
+183	230	Rady Bezpieczeństwa Narodowego i Obrony Ukrainy	Rada Bezpieczeństwa Narodowego i Obrony Ukrainy	ORG	ORG-National-Security-and-Defense-Council-of-Ukraine
+231	246	Ołeksij Daniłow	Ołeksij Daniłow	PER	PER-Oleksiy-Danilov
+303	309	Kremla	Kreml	LOC	LOC-Kremlin
+310	325	Dmitrij Pieskow	Dmitrij Pieskow	PER	PER-Dmitrij-Pieskow
+343	362	Dmitrij Miedwiediew	Dmitrij Miedwiediew	PER	PER-Dmitry-Medvedev
+365	374	Ukraiński	Ukraiński	LOC	GPE-Ukraine
+385	424	Rady Bezpieczeństwa Narodowego i Obrony	Rada Bezpieczeństwa Narodowego i Obrony	ORG	ORG-National-Security-and-Defense-Council-of-Ukraine
+425	440	Ołeksij Daniłow	Ołeksij Daniłow	PER	PER-Oleksiy-Danilov
+482	489	Ukraina	Ukraina	LOC	GPE-Ukraine
+500	512	Most Krymski	Most Krymski	LOC	LOC-Crimean-Bridge
+556	568	Most Krymski	Most Krymski	LOC	LOC-Crimean-Bridge
+589	594	Rosją	Rosja	LOC	GPE-Russia
+634	641	Daniłow	Daniłow	PER	PER-Oleksiy-Danilov
+653	661	Radia NW	Radio NW	PRO	PRO-Radio-NW
+923	931	Ukrainie	Ukraina	LOC	GPE-Ukraine
+935	951	Mostu Krymskiego	Most Krymski	LOC	LOC-Crimean-Bridge
+1010	1017	Ukraina	Ukraina	LOC	GPE-Ukraine
+1028	1040	Most Krymski	Most Krymski	LOC	LOC-Crimean-Bridge
+1057	1062	Rosji	Rosja	LOC	GPE-Russia
+1073	1081	Daniłowa	Daniłow	PER	PER-Oleksiy-Danilov
+1102	1108	Kremla	Kreml	LOC	LOC-Kremlin
+1109	1124	Dmitrij Pieskow	Dmitrij Pieskow	PER	PER-Dmitrij-Pieskow
+1236	1241	Rosji	Rosja	LOC	GPE-Russia
+1252	1258	Kremla	Kreml	LOC	LOC-Kremlin
+1276	1323	Rady Bezpieczeństwa Narodowego i Obrony Ukrainy	Rada Bezpieczeństwa Narodowego i Obrony Ukrainy	ORG	ORG-National-Security-and-Defense-Council-of-Ukraine
+1508	1515	Pieskow	Pieskow	PER	PER-Dmitrij-Pieskow
+1539	1555	Mostu Krymskiego	Most Krymski	LOC	LOC-Crimean-Bridge
+1572	1591	Dmitrij Miedwiediew	Dmitrij Miedwiediew	PER	PER-Dmitry-Medvedev
+1608	1613	Rosji	Rosja	LOC	GPE-Russia
+1642	1682	Rady Bezpieczeństwa Federacji Rosyjskiej	Rada Bezpieczeństwa Federacji Rosyjskiej	ORG	ORG-Security-Council-of-Russia
+1762	1774	most Krymski	most Krymski	LOC	LOC-Crimean-Bridge
+1884	1891	Europie	Europa	LOC	LOC-Europe
+1929	1948	Półwyspu Krymskiego	Półwysep Krymski	LOC	LOC-Crimea
+1955	1960	Rosję	Rosja	LOC	GPE-Russia
+1961	1978	rosyjskiej władze	rosyjska władza	ORG	ORG-The-Government-of-Russia
+2005	2024	Cieśniną Kerczeńską	Cieśnina Kerczeńska	LOC	LOC-Kerch-Strait
+2034	2038	Krym	Krym	LOC	GPE-Crimea
+2114	2121	Europie	Europa	LOC	LOC-Europe
+2145	2150	Rosji	Rosja	LOC	GPE-Russia
+2154	2158	Krym	Krym	LOC	GPE-Crimea
+2309	2316	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2386	2391	Krymu	Krym	LOC	GPE-Crimea
+2422	2429	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2445	2460	Unia Europejska	Unia Europejska	ORG	ORG-European-Union

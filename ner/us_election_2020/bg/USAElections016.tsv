@@ -1,0 +1,27 @@
+27	39	републиканци	републиканци	PER	ORG-Republican-Party-USA
+42	51	демократи	демократи	PER	ORG-Democratic-Party-USA
+96	104	европеец	европеец	PER	LOC-Europe
+131	141	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+152	157	Тръмп	Тръмп	PER	PER-Donald-Trump
+190	196	Европа	Европа	LOC	LOC-Europe
+216	234	Христо Анастасасов	Христо Анастасасов	PER	PER-Hristo-Anastasov
+293	305	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+436	452	Христо Анастасов	Христо Анастасов	PER	PER-Hristo-Anastasov
+464	485	Bloomberg TV Bulgaria	Bloomberg TV Bulgaria	PRO	PRO-Bloomberg-TV-Bulgaria
+537	557	американските избори	американски избори	EVT	EVT-2020-United-States-Presidential-Election
+636	643	Америка	Америка	LOC	GPE-USA
+673	691	Гражданската война	Гражданска война	EVT	EVT-USA-Civil-War
+792	801	Анастасов	Анастасов	PER	PER-Hristo-Anastasov
+926	935	Анастасов	Анастасов	PER	PER-Hristo-Anastasov
+1136	1146	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1157	1162	Тръмп	Тръмп	PER	PER-Donald-Trump
+1205	1210	Китай	Китай	LOC	GPE-China
+1221	1227	Европа	Европа	LOC	LOC-Europe
+1268	1273	Китай	Китай	LOC	GPE-China
+1349	1354	Тръмп	Тръмп	PER	PER-Donald-Trump
+1487	1499	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1566	1572	Brexit	Brexit	EVT	EVT-Brexit
+1574	1583	Анастасов	Анастасов	PER	PER-Hristo-Anastasov
+2065	2074	Анастасов	Анастасов	PER	PER-Hristo-Anastasov
+2208	2223	Студената война	Студена война	EVT	EVT-Cold-War
+2245	2267	Втората световна война	Втора световна война	EVT	EVT-World-War-II

@@ -1,0 +1,25 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+152	157	Trump	Trump	PER	PER-Donald-Trump
+314	316	AP	AP	ORG	ORG-AP-The-Associated-Press
+339	342	ZDA	ZDA	LOC	GPE-USA
+561	566	Trump	Trump	PER	PER-Donald-Trump
+646	658	koronavirusa	koronavirus	EVT	EVT-Covid-19
+765	775	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+811	832	vrhovnim sodiščem ZDA	vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+844	849	Trump	Trump	PER	PER-Donald-Trump
+936	941	Trump	Trump	PER	PER-Donald-Trump
+1073	1078	Trump	Trump	PER	PER-Donald-Trump
+1227	1232	Trump	Trump	PER	PER-Donald-Trump
+1543	1548	Busha	Bush	PER	PER-George-Bush-Jr
+1550	1569	Vrhovno sodišče ZDA	Vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+1650	1657	Floridi	Florida	LOC	GPE-Florida
+1690	1711	Georgu Bushu mlajšemu	George Bush mlajši	PER	PER-George-Bush-Jr
+1732	1739	Al Gore	Al Gore	PER	PER-Al-Gore
+1790	1795	Busha	Bush	PER	PER-George-Bush-Jr
+1804	1807	ZDA	ZDA	LOC	GPE-USA
+1810	1815	Trump	Trump	PER	PER-Donald-Trump
+1972	1985	Josepha Bidna	Joseph Biden	PER	PER-Joe-Biden
+1988	2000	Republikanci	Republikanci	ORG	ORG-Republican-Party-USA
+2047	2062	Antonina Scalie	Antonin Scalia	PER	PER-Antonin-Scalia
+2102	2119	Merricka Garlanda	Merrick Garland	PER	PER-Merrick-Garland
+2226	2243	Bader Ginsburgove	Bader Ginsburg	PER	PER-Ruth-Bader-Ginsburg

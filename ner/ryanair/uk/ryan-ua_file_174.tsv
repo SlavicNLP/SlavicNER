@@ -1,0 +1,26 @@
+11	17	Європі	Європа	LOC	LOC-Europe
+31	38	Ryanair	Ryanair	ORG	ORG-Ryanair
+61	65	КИЇВ	Київ	LOC	GPE-Kiev
+78	81	УНН	УНН	ORG	ORG-UNN
+134	141	Ryanair	Ryanair	ORG	ORG-Ryanair
+249	252	УНН	УНН	ORG	ORG-UNN
+269	271	DW	DW	ORG	ORG-Deutsche-Welle
+423	432	Німеччині	Німеччина	LOC	GPE-Germany
+434	441	Бельгії	Бельгія	LOC	GPE-Belgium
+443	449	Швеції	Швеція	LOC	GPE-Sweden
+451	459	Ірландії	Ірландія	LOC	GPE-Ireland
+463	474	Нідерландах	Нідерланди	LOC	GPE-Holland
+604	611	Ryanair	Ryanair	ORG	ORG-Ryanair
+650	659	Німеччині	Німеччина	LOC	GPE-Germany
+775	784	Німеччини	Німеччина	LOC	GPE-Germany
+815	822	Ryanair	Ryanair	ORG	ORG-Ryanair
+971	980	Німеччині	Німеччина	LOC	GPE-Germany
+1180	1199	Vereinigung Cockpit	Vereinigung Cockpit	ORG	ORG-Vereinigung-Cockpit
+1200	1212	Мартін Лохер	Мартін Лохер	PER	PER-Martin-Locher
+1224	1231	Ryanair	Ryanair	ORG	ORG-Ryanair
+1377	1384	Ryanair	Ryanair	ORG	ORG-Ryanair
+1483	1490	Ryanair	Ryanair	ORG	ORG-Ryanair
+1535	1542	Бельгії	Бельгія	LOC	GPE-Belgium
+1544	1551	Іспанії	Іспанія	LOC	GPE-Spain
+1553	1563	Португалії	Португалія	LOC	GPE-Portugal
+1567	1573	Італії	Італія	LOC	GPE-Italy

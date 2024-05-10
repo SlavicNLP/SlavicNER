@@ -1,0 +1,106 @@
+12	17	ковид	ковид	EVT	EVT-Covid-19
+33	40	Украине	Украина	LOC	GPE-Ukraine
+60	71	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+76	92	Минздрав Украины	Минздрав Украины	ORG	Ministry-of-Health-Ukraine
+147	159	коронавируса	коронавирус	EVT	EVT-Covid-19
+160	169	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+214	221	Украине	Украина	LOC	GPE-Ukraine
+277	316	украинское министерство здравоохранения	Украинское министерство здравоохранения	ORG	ORG-Ministry-of-Healthcare-Ukraine
+318	321	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+364	372	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+425	437	коронавируса	коронавирус	EVT	EVT-Covid-19
+438	447	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+449	462	Gam-COVID-Vac	Gam-COVID-Vac	PRO	PRO-Sputnik-V
+503	515	коронавируса	коронавирус	EVT	EVT-Covid-19
+581	587	России	Россия	LOC	GPE-Russia
+589	597	Беларуси	Беларусь	LOC	GPE-Belarus
+599	604	Индии	Индия	LOC	GPE-India
+628	635	Украине	Украина	LOC	GPE-Ukraine
+747	758	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+776	783	Украины	Украина	LOC	GPE-Ukraine
+793	800	Украине	Украина	LOC	GPE-Ukraine
+887	894	Украине	Украина	LOC	GPE-Ukraine
+960	996	"""Оппозиционная платформа - За жизнь"""	Оппозиционная платформа За жизнь	ORG	ORG-Opposition-Platform-For-Life
+998	1002	ОПЗЖ	Оппозиционная платформа За жизнь	ORG	ORG-Opposition-Platform-For-Life
+1033	1049	Виктор Медведчук	Виктор Медведчук	PER	PER-Victor-Medvedchuk
+1121	1128	Россией	Россия	LOC	GPE-Russia
+1129	1134	Крыму	Крым	LOC	GPE-Crimea
+1199	1201	РФ	РФ	LOC	GPE-Russia
+1202	1220	Владимиром Путиным	Владимир Путин	PER	PER-Vladimir-Putin
+1268	1279	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+1280	1287	Украине	Украина	LOC	GPE-Ukraine
+1289	1294	Путин	Путин	PER	PER-Vladimir-Putin
+1371	1377	России	Россия	LOC	GPE-Russia
+1385	1392	Украине	Украина	LOC	GPE-Ukraine
+1420	1430	Медведчуку	Медведчук	PER	PER-Victor-Medvedchuk
+1539	1547	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+1604	1613	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+1670	1672	РФ	РФ	LOC	GPE-Russia
+1675	1683	Беларуси	Беларусь	LOC	GPE-Belarus
+1735	1744	Аргентине	Аргентина	LOC	GPE-Argentina
+1794	1802	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+1837	1844	Украины	Украина	LOC	GPE-Ukraine
+1854	1863	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+1916	1920	ОПЗЖ	"""Оппозиционная платформа - За жизнь"""	ORG	ORG-Opposition-Platform-For-Life
+1963	1979	Минздрав Украины	Минздрав Украины	ORG	ORG-Ministry-of-Healthcare-Ukraine
+2014	2022	Германии	Германия	LOC	GPE-Germany
+2023	2038	Виктора Мартина	Виктор Мартин	PER	PER-Victor-Martin
+2040	2053	Viktor Martin	Виктор Мартин	PER	PER-Victor-Martin
+2072	2080	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+2098	2107	Sputnik V	Спутник V	PRO	PRO-Sputnik-V
+2255	2263	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+2344	2358	"""Фармстандарт"""	"""Фармстандарт"""	ORG	ORG-Pharmstandart
+2424	2437	Виктор Мартин	Виктор Мартин	PER	PER-Victor-Martin
+2555	2573	Виктора Харитонина	Виктор Харитонин	PER	PER-Victor-Kharitonin
+2591	2598	Украине	Украина	LOC	GPE-Ukraine
+2662	2669	Украине	Украина	LOC	GPE-Ukraine
+2707	2716	Минздраве	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+2719	2751	Государственный экспертный центр	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+2753	2756	ГЭЦ	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+2949	2952	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+2972	2981	Евросоюзе	Евросоюз	ORG	ORG-European-Union
+3036	3039	США	США	LOC	GPE-USA
+3041	3050	Швейцария	Швейцария	LOC	GPE-Switzerland
+3052	3058	Япония	Япония	LOC	GPE-Japan
+3060	3069	Австралия	Австралия	LOC	GPE-Australia
+3074	3080	Канада	Канада	LOC	GPE-Canada
+3146	3152	Китаем	Китай	LOC	GPE-China
+3154	3162	Израилем	Израиль	LOC	GPE-Israel
+3164	3170	Индией	Индия	LOC	GPE-India
+3172	3180	Мексикой	Мексика	LOC	GPE-Mexico
+3183	3192	Бразилией	Бразилия	LOC	GPE-Brazil
+3194	3200	России	Россия	LOC	GPE-Russia
+3351	3358	Украине	Украина	LOC	GPE-Ukraine
+3476	3486	The Lancet	The Lancet	PRO	PRO-The-Lancet
+3620	3622	DW	DW	PRO	PRO-Deutsche-Welle
+3663	3666	ГЭЦ	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+3671	3680	Минздраве	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+3681	3692	Федор Лапий	Федор Лапий	PER	PER-Fyodor-Lapiy
+3771	3778	Украине	Украина	LOC	GPE-Ukraine
+3982	4017	Государственного экспертного центра	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+4018	4033	Татьяна Думенко	Татьяна Думенко	PER	PER-Tatiana-Dumenko
+4179	4186	Украине	Украина	LOC	GPE-Ukraine
+4226	4234	"""Биолик"""	"""Биолик"""	ORG	ORG-Biolic
+4311	4314	ГЭЦ	Государственный экспертный центр	ORG	ORG-State-Expert-Center
+4354	4371	Минздраве Украины	Минздрав Украины	ORG	ORG-Ministry-of-Healthcare-Ukraine
+4423	4425	РФ	РФ	LOC	GPE-Russia
+4428	4456	Министерство здравоохранения	Министерство здравоохранения	ORG	ORG-Ministry-of-Healthcare-Ukraine
+4668	4675	Украины	Украина	LOC	GPE-Ukraine
+4712	4727	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+4742	4744	DW	DW	ORG	ORG-Deutsche-Welle
+4795	4802	Украины	Украина	LOC	GPE-Ukraine
+4803	4821	Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+4856	4866	Зеленского	Зеленский	PER	PER-Volodymyr-Zelensky
+5161	5167	России	Россия	LOC	GPE-Russia
+5318	5325	Украины	Украина	LOC	GPE-Ukraine
+5355	5362	Украина	Украина	LOC	GPE-Ukraine
+5416	5431	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+5520	5527	Украина	Украина	LOC	GPE-Ukraine
+5588	5595	Украине	Украина	LOC	GPE-Ukraine
+5672	5680	"""Лекхим"""	"""Лекхим"""	ORG	ORG-Leckhim
+5844	5851	Украине	Украина	LOC	GPE-Ukraine
+5880	5895	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+6074	6081	Украина	Украина	LOC	GPE-Ukraine
+6113	6118	COVAX	COVAX	ORG	ORG-Covax
+6122	6159	Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+6161	6164	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization

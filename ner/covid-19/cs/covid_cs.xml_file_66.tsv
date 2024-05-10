@@ -1,0 +1,18 @@
+57	60	PES	PES	PRO	PRO-PES-Anti-epidemic-system-Czech-Republic
+98	108	koronaviru	koronavirus	EVT	EVT-Covid-19
+190	200	Libereckém	Liberecký	LOC	GPE-Liberec-region
+202	214	Karlovarském	Karlovarský	LOC	GPE-Karlovy-Vary-region
+217	231	Zlínském kraji	Zlínský kraj	LOC	GPE-Zlin-region
+312	330	Karlovarském kraji	Karlovarský kraj	LOC	GPE-Karlovy-Vary-region
+415	431	Karlových Varech	Karlovy Vary	LOC	GPE-Karlovy-Vary
+434	439	Chebu	Cheb	LOC	GPE-Cheb
+459	490	Karlovarskou krajskou nemocnici	Karlovarská krajská nemocnice	LOC	LOC-Karlovy-Vary-region-hospital
+557	586	Karlovarské krajské nemocnice	Karlovarská krajská nemocnice	LOC	LOC-Karlovy-Vary-region-hospital
+587	608	Vladislava Podrackého	Vladislav Podracký	PER	PER-Vladislav-Podracky
+703	719	Libereckém kraji	Liberecký kraj	LOC	GPE-Liberec-region
+791	801	covidem-19	covid-19	EVT	EVT-Covid-19
+892	906	Tomáš Klimovič	Tomáš Klimovič	PER	PER-Tomas-Klimovic
+1005	1015	covidem-19	covid-19	EVT	EVT-Covid-19
+1233	1243	covidem-19	covid-19	EVT	EVT-Covid-19
+1344	1356	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+1358	1361	ANO	ANO	ORG	ORG-ANO-political-party-CZ

@@ -1,0 +1,19 @@
+76	84	COVID-19	COVID-19	EVT	EVT-Covid-19
+161	168	Maribor	Maribor	LOC	GPE-Maribor
+363	373	SARS-Cov-2	SARS-Cov-2	EVT	EVT-Covid-19
+571	592	Mestne občine Maribor	Mestna občine Maribor	ORG	ORG-City-Municipality-of-Maribor
+707	712	Covid	Covid	EVT	EVT-Covid-19
+845	889	Zdravstvenega doma dr. Adolfa Drolca Maribor	Zdravstveni dom dr. Adolfa Drolca Maribor	ORG	LOC-Community-Health-Centre-Maribor
+890	905	Jernej Završnik	Jernej Završnik	PER	PER-Jernej-Završnik
+1022	1030	COVID-19	COVID-19	EVT	EVT-Covid-19
+1379	1406	Splošno zdravstveno varstvo	Splošno zdravstveno varstvo	ORG	ORG-General-Health-Care-Unit
+1493	1507	Aleksander Jus	Aleksander Jus	PER	PER-Aleksander-Jus
+1540	1559	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1836	1841	Večer	Večer	PRO	PRO-Večer
+1851	1865	Aleksander Jus	Aleksander Jus	PER	PER-Aleksander-Jus
+2351	2354	Jus	Jus	PER	PER-Aleksander-Jus
+2745	2748	Jus	Jus	PER	PER-Aleksander-Jus
+3350	3365	Jernej Završnik	Jernej Završnik	PER	PER-Jernej-Završnik
+3955	3963	COVID-19	COVID-19	EVT	EVT-Covid-19
+4513	4528	Jernej Završnik	Jernej Završnik	PER	PER-Jernej-Završnik
+4891	4899	Covid-19	Covid-19	EVT	EVT-Covid-19

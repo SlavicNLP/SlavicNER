@@ -1,0 +1,23 @@
+0	6	Меркел	Меркел	PER	PER-Angela-Merkel
+8	15	Брекзит	Брекзит	EVT	EVT-Brexit
+24	26	ЕС	ЕС	ORG	ORG-European-Union
+73	80	Брекзит	Брекзит	EVT	EVT-Brexit
+95	111	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+185	198	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+238	240	ЕС	ЕС	ORG	ORG-European-Union
+243	250	Брекзит	Брекзит	EVT	EVT-Brexit
+265	281	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+355	368	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+408	410	ЕС	ЕС	ORG	ORG-European-Union
+469	476	Ройтерс	Ройтерс	ORG	ORG-Reuters
+490	495	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+519	529	Бундестага	Бундестаг	ORG	ORG-Bundestag
+531	537	Меркел	Меркел	PER	PER-Angela-Merkel
+578	580	ЕС	ЕС	ORG	ORG-European-Union
+734	737	ХДС	ХДС	ORG	ORG-Christlich-Demokratische-Union
+738	741	ХСС	ХСС	ORG	ORG-Christlich-Soziale-Union-in-Bayern
+745	784	Германската социалдемократическа партия	Германска социалдемократическа партия	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+786	790	ГСДП	ГСДП	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+878	884	Европа	Европа	LOC	LOC-Europe
+969	971	ЕС	ЕС	ORG	ORG-European-Union
+1131	1137	Меркел	Меркел	PER	PER-Angela-Merkel

@@ -1,0 +1,14 @@
+38	44	Polski	Polska	LOC	GPE-Poland
+69	75	Polski	Polska	LOC	GPE-Poland
+120	134	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+141	147	Pfizer	Pfizer	ORG	ORG-Pfizer
+181	209	Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+210	230	Michał Kuczmierowski	Michał Kuczmierowski	PER	PER-Michał-Kuczmierowski
+264	277	Kuczmierowski	Kuczmierowski	PER	PER-Michał-Kuczmierowski
+413	441	Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+442	462	Michał Kuczmierowski	Michał Kuczmierowski	PER	PER-Michał-Kuczmierowski
+535	543	Warszawy	Warszawa	LOC	GPE-Warsaw
+608	611	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+614	620	Wąwale	Wąwal	LOC	GPE-Wąwal
+625	647	Tomaszowem Mazowieckim	Tomaszów Mazowiecki	LOC	GPE-Tomaszów-Mazowiecki
+650	670	województwie łódzkim	województwo łódzkie	LOC	GPE-Poland-Łódzkie-Voivodship

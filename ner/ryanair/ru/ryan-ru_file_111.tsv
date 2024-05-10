@@ -1,0 +1,30 @@
+16	23	Ryanair	Ryanair	ORG	ORG-Ryanair
+83	90	Ryanair	Ryanair	ORG	ORG-Ryanair
+174	180	Европы	Европа	LOC	LOC-Europe
+304	310	Польшу	Польша	LOC	GPE-Poland
+341	361	The Sunday Telegraph	The Sunday Telegraph	PRO	PRO-The-Sunday-Telegraph
+362	375	Дирк Поллочек	Дирк Поллочек	PER	PER-Dirk-Polloczek
+383	413	Европейской ассоциации пилотов	Европейская ассоциация пилотов	ORG	ORG-ECA-European-Cockpit-Association
+415	418	ECA	ECA	ORG	ORG-ECA-European-Cockpit-Association
+540	547	Ryanair	Ryanair	ORG	ORG-Ryanair
+569	578	Поллочика	Поллочик	PER	PER-Dirk-Polloczek
+641	647	Польши	Польша	LOC	GPE-Poland
+714	754	Польская ассоциация пилотов авиакомпаний	Польская ассоциация пилотов авиакомпаний	ORG	ORG-Airline-Pilots'-Union-Poland
+827	830	LOT	LOT	ORG	ORG-PLL-LOT
+906	913	Ryanair	Ryanair	ORG	ORG-Ryanair
+928	936	Ирландии	Ирландия	LOC	GPE-Ireland
+938	944	Швеции	Швеция	LOC	GPE-Sweden
+946	953	Бельгии	Бельгия	LOC	GPE-Belgium
+955	966	Нидерландах	Нидерланды	LOC	GPE-Holland
+969	977	Германии	Германия	LOC	GPE-Germany
+1094	1101	Ryanair	Ryanair	ORG	ORG-Ryanair
+1182	1189	Ryanair	Ryanair	ORG	ORG-Ryanair
+1263	1269	Польшу	Польша	LOC	GPE-Poland
+1284	1287	ECA	ECA	ORG	ORG-ECA-European-Cockpit-Association
+1303	1310	Ryanair	Ryanair	ORG	ORG-Ryanair
+1407	1414	Румынию	Румыния	LOC	GPE-Romania
+1416	1421	Литву	Литва	LOC	GPE-Lithuania
+1423	1429	Латвию	Латвия	LOC	GPE-Latvia
+1431	1438	Эстонию	Эстония	LOC	GPE-Estonia
+1440	1448	Болгарию	Болгария	LOC	GPE-Bulgaria
+1450	1468	Яна Рождественская	Яна Рождественская	PER	PER-Yana-Rozhdestventskaya

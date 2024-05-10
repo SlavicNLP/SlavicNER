@@ -1,0 +1,34 @@
+39	53	Dixville Notch	Dixville Notch	LOC	LOC-Dixville-Notch
+56	66	Millsfield	Millsfield	LOC	LOC-Millsfield
+110	120	Amerykanie	Amerykanie	PER	GPE-USA
+183	202	Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+283	302	Izbą Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+309	319	demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+371	378	Senatem	Senat	ORG	ORG-United-States-Senate
+409	421	republikanie	republikanie	ORG	ORG-Republican-Party-USA
+460	479	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+482	493	Południowej	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+497	504	Georgii	Georgia	LOC	GPE-Georgia-US-state
+506	514	Arizonie	Arizona	LOC	GPE-Arizona
+516	524	Colorado	Colorado	LOC	GPE-Colorado
+527	535	Montanie	Montana	LOC	GPE-Montana-US-State
+843	851	Nebraska	Nebraska	LOC	GPE-Nebraska
+854	859	Maine	Maine	LOC	GPE-Maine
+943	951	Nebrasce	Nebraska	LOC	GPE-Nebraska
+958	963	Maine	Maine	LOC	GPE-Maine
+1106	1116	Kalifornia	Kalifornia	LOC	GPE-California
+1128	1133	Idaho	Idaho	LOC	GPE-Idaho
+1280	1283	USA	USA	LOC	GPE-USA
+1284	1296	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1532	1541	Nowy Jork	Nowy Jork	LOC	GPE-New-York
+1567	1586	Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+1708	1715	Floryda	Floryda	LOC	GPE-Florida
+1717	1728	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1730	1738	Michigan	Michigan	LOC	GPE-Michigan
+1740	1749	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1751	1768	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1770	1774	Iowa	Iowa	LOC	GPE-Iowa
+1780	1787	Arizona	Arizona	LOC	GPE-Arizona
+1800	1807	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1809	1815	Teksas	Teksas	LOC	GPE-Texas
+1821	1825	Ohio	Ohio	LOC	GPE-Ohio

@@ -1,0 +1,16 @@
+0	9	Німеччина	Німеччина	LOC	GPE-Germany
+122	131	Німеччини	Німеччина	LOC	GPE-Germany
+172	180	COVID-19	COVID-19	EVT	EVT-Covid-19
+289	298	Німеччині	Німеччина	LOC	GPE-Germany
+519	526	Меркель	Меркель	PER	PER-Angela-Merkel
+793	802	Німеччині	Німеччина	LOC	GPE-Germany
+812	831	Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+877	886	Німеччині	Німеччина	LOC	GPE-Germany
+972	994	Інституті Роберта Коха	Інститут Роберта Коха	ORG	ORG-Robert-Koch-Institute
+1058	1067	Німеччини	Німеччина	LOC	GPE-Germany
+1113	1115	ЄС	ЄС	LOC	ORG-European-Union
+1124	1130	Pfizer	Pfizer	ORG	ORG-Pfizer
+1131	1139	BioNTech	BioNTech	ORG	ORG-BioNTech
+1199	1201	ЄС	ЄС	LOC	ORG-European-Union
+1222	1224	ЄС	ЄС	LOC	ORG-European-Union
+1256	1263	Moderna	Moderna	ORG	ORG-Moderna

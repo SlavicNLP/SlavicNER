@@ -1,0 +1,14 @@
+48	54	Kremlu	Kreml	LOC	LOC-Kremlin
+72	80	Putinova	Putin	PER	PER-Vladimir-Putin
+134	140	Kremlu	Kreml	LOC	LOC-Kremlin
+294	302	Putinovi	Putin	PER	PER-Vladimir-Putin
+436	441	Haagu	Haag	LOC	GPE-Hague
+480	488	Galeotti	Galeotti	PER	PER-Mark-Galeotti
+627	633	Rusové	Rusové	PER	GPE-Russia
+715	723	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+764	780	Vladimira Putina	Vladimir Putin	PER	PER-Vladimir-Putin
+823	828	Rusku	Rusko	LOC	GPE-Russia
+1104	1130	speciální vojenské operace	speciální vojenská operace	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1153	1158	Rusům	Rusové	PER	GPE-Russia
+1262	1270	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+1316	1320	Rusů	Rusové	PER	GPE-Russia

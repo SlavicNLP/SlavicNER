@@ -1,0 +1,15 @@
+0	5	Литва	Литва	LOC	GPE-Lithuania
+7	13	Латвия	Латвия	LOC	GPE-Latvia
+16	21	Полша	Полша	LOC	GPE-Poland
+47	62	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+99	104	Литва	Литва	LOC	GPE-Lithuania
+106	112	Латвия	Латвия	LOC	GPE-Latvia
+115	120	Полша	Полша	LOC	GPE-Poland
+186	188	ЕС	ЕС	ORG	ORG-European-Union
+215	230	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+242	252	Дойче веле	Дойче веле	PRO	PRO-Deutsche-Welle
+376	392	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+423	428	Русия	Русия	LOC	GPE-Russia
+506	510	Сейм	Сейм	ORG	ORG-Seimas-Lithuania
+513	528	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+612	617	Русия	Русия	LOC	GPE-Russia

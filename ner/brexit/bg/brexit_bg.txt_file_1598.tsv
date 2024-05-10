@@ -1,0 +1,40 @@
+19	21	ЕП	ЕП	ORG	ORG-European-Parliament
+25	32	Брекзит	Брекзит	EVT	EVT-Brexit
+151	171	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+174	190	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+194	210	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+230	232	ЕП	ЕП	ORG	ORG-European-Parliament
+241	248	Брекзит	Брекзит	EVT	EVT-Brexit
+297	318	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+327	334	Брекзит	Брекзит	EVT	EVT-Brexit
+567	589	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+599	617	Европейският съвет	Европейски съвет	ORG	ORG-European-Council
+773	775	ЕС	ЕС	ORG	ORG-European-Union
+786	806	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+948	968	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+991	993	ЕС	ЕС	ORG	ORG-European-Union
+1097	1117	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1201	1221	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1257	1265	Ирландия	Ирландия	LOC	GPE-Ireland
+1387	1407	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1410	1412	ЕС	ЕС	ORG	ORG-European-Union
+1421	1428	Брекзит	Брекзит	EVT	EVT-Brexit
+1470	1490	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1529	1531	ЕС	ЕС	ORG	ORG-European-Union
+1615	1617	ЕС	ЕС	ORG	ORG-European-Union
+1633	1653	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1763	1765	ЕС	ЕС	ORG	ORG-European-Union
+1768	1788	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1841	1843	ЕС	ЕС	ORG	ORG-European-Union
+1849	1869	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1892	1894	ЕП	ЕП	ORG	ORG-European-Parliament
+2002	2006	LIBE	LIBE	ORG	ORG-LIBE
+2024	2028	AFCO	AFCO	ORG	ORG-AFCO
+2047	2051	JURI	JURI	ORG	ORG-JURI
+2082	2086	EMPL	EMPL	ORG	ORG-EMPL-European-Parliaments-Committee-on-Employment-and-Social-Affairs
+2090	2149	Министерството на вътрешните работи на Обединеното кралство	Министерство на вътрешните работи на Обединеното кралство	ORG	ORG-Home-Office-UK
+2407	2427	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2430	2432	ЕС	ЕС	ORG	ORG-European-Union
+2468	2489	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+2511	2513	ЕП	ЕП	ORG	ORG-European-Parliament
+2517	2524	Брекзит	Брекзит	EVT	EVT-Brexit

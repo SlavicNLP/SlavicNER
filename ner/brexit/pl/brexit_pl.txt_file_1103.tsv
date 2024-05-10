@@ -1,0 +1,41 @@
+17	24	brexitu	Brexit	EVT	EVT-Brexit
+112	126	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+430	444	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+685	691	brexit	Brexit	EVT	EVT-Brexit
+973	980	brexitu	Brexit	EVT	EVT-Brexit
+981	992	David Davis	David Davis	PER	PER-David-Davis
+1056	1073	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1076	1093	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1194	1201	Londynu	Londyn	LOC	GPE-London
+1204	1206	UE	UE	ORG	ORG-European-Union
+1363	1365	UE	UE	ORG	ORG-European-Union
+1368	1385	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1424	1431	brexitu	Brexit	EVT	EVT-Brexit
+1533	1544	Theresa May	Theresa May	PER	PER-Theresa-May
+1562	1569	Barnier	Barnier	PER	PER-Michel-Barnier
+1614	1629	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1831	1838	Londynu	Londyn	LOC	GPE-London
+1903	1905	UE	UE	ORG	ORG-European-Union
+1982	1999	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2223	2240	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2506	2520	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+2644	2652	Irlandią	Irlandia	LOC	GPE-Ireland
+2655	2672	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+2780	2787	Barnier	Barnier	PER	PER-Michel-Barnier
+2918	2924	Londyn	Londyn	LOC	GPE-London
+2930	2938	Bruksela	Bruksela	LOC	GPE-Brussles
+3059	3065	Londyn	Londyn	LOC	GPE-London
+3408	3426	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+3465	3492	Porozumienie Wielkopiątkowe	Porozumienie Wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+3503	3505	UE	UE	ORG	ORG-European-Union
+3589	3607	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+3753	3770	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3791	3801	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+3802	3809	torysów	torysi	PER	ORG-Tories
+3842	3878	Demokratycznej Partii Unionistycznej	Demokratyczna Partia Unionistyczna	ORG	ORG-DUP-Democratic-Unionist-Party
+3880	3883	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+3886	3892	Londyn	Londyn	LOC	GPE-London
+3970	3988	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+3999	4022	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+4024	4027	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+4053	4062	Dublinowi	Dublin	LOC	GPE-Dublin

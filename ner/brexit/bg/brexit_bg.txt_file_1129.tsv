@@ -1,0 +1,17 @@
+51	58	Брекзит	Брекзит	EVT	EVT-Brexit
+130	144	Великобритания	Великобритания	LOC	GPE-Great-Britain
+195	203	Брекзита	Брекзит	EVT	EVT-Brexit
+286	296	Франс прес	Франс прес	ORG	ORG-France-Presse
+308	314	Англия	Англия	LOC	GPE-England
+415	419	Тайн	Тайн	LOC	LOC-Tyne
+423	434	Норт Шийлдс	Норт Шийлдс	LOC	GPE-North-Shields
+438	445	Нюкасъл	Нюкасъл	LOC	GPE-Newcastle
+493	501	Брекзита	Брекзит	EVT	EVT-Brexit
+522	537	Фишинг фор лийв	Фишинг фор лийв	ORG	ORG-Fishing-for-Leave
+541	558	Fishing for Leave	Fishing for Leave	ORG	ORG-Fishing-for-Leave
+683	686	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+769	789	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+918	920	ЕС	ЕС	ORG	ORG-European-Union
+1216	1225	Брекзитът	Брекзит	EVT	EVT-Brexit
+1568	1588	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1773	1775	ЕС	ЕС	ORG	ORG-European-Union

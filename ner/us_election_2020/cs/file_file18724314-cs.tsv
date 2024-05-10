@@ -1,0 +1,17 @@
+17	20	USA	USA	LOC	GPE-USA
+26	32	Bidena	Biden	PER	PER-Joe-Biden
+54	65	Bílého domu	Bílý dům	LOC	LOC-White-House
+67	76	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+113	140	americké prezidentské volby	americké prezidentské volby	EVT	EVT-2020-United-States-Presidential-Election
+219	224	Biden	Biden	PER	PER-Joe-Biden
+241	256	Oválné pracovny	Oválná pracovna	LOC	LOC-Oval-Office
+298	307	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+326	337	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+362	365	CNN	CNN	PRO	PRO-CNN
+550	559	Američané	Američané	PER	GPE-USA
+693	703	koronaviru	koronavirus	EVT	EVT-Covid-19
+926	939	Johna McCaina	John McCain	PER	PER-John-McCain
+973	985	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+1006	1012	McCain	McCain	PER	PER-John-McCain
+1036	1041	Obamu	Obama	PER	PER-Barack-Obama
+1062	1071	Američanů	Američané	PER	GPE-USA

@@ -1,0 +1,26 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+41	48	Брекзит	Брекзит	EVT	EVT-Brexit
+70	80	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+104	118	Великобритания	Великобритания	LOC	GPE-Great-Britain
+125	127	ЕС	ЕС	ORG	ORG-European-Union
+183	190	Брекзит	Брекзит	EVT	EVT-Brexit
+203	210	Ройтерс	Ройтерс	ORG	ORG-Reuters
+213	227	Великобритания	Великобритания	LOC	GPE-Great-Britain
+261	268	Гринуич	Гринуич	LOC	GPE-Greenwich
+378	381	Мей	Мей	PER	PER-Theresa-May
+437	444	Брекзит	Брекзит	EVT	EVT-Brexit
+484	490	Англия	Англия	LOC	GPE-England
+492	501	Шотландия	Шотландия	LOC	GPE-Scotland
+503	507	Уелс	Уелс	LOC	GPE-Wales
+510	526	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+562	569	Брекзит	Брекзит	EVT	EVT-Brexit
+620	630	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+683	692	Шотландия	Шотландия	LOC	GPE-Scotland
+714	717	Мей	Мей	PER	PER-Theresa-May
+948	955	Брекзит	Брекзит	EVT	EVT-Brexit
+957	960	Мей	Мей	PER	PER-Theresa-May
+977	991	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1019	1026	Брекзит	Брекзит	EVT	EVT-Brexit
+1037	1043	БиБиСи	БиБиСи	PRO	PRO-BBC
+1074	1084	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+1146	1153	Брекзит	Брекзит	EVT	EVT-Brexit

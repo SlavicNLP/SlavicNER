@@ -1,0 +1,24 @@
+14	17	USA	USA	LOC	GPE-USA
+18	31	Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+50	54	Meta	Meta	ORG	ORG-Meta
+55	70	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+91	96	Rosji	Rosja	LOC	GPE-Russia
+171	176	Rosji	Rosja	LOC	GPE-Russia
+189	205	Ukrainska Prawda	Ukrainska Prawda	PRO	PRO-Ukrajinśka-prawda
+207	220	rosyjskie MSZ	rosyjskie MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+252	262	Amerykanów	Amerykanie	PER	GPE-USA
+429	439	Amerykanie	Amerykanie	PER	GPE-USA
+473	478	Rosji	Rosja	LOC	GPE-Russia
+497	500	USA	USA	LOC	GPE-USA
+501	514	Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+525	544	Departamentu Obrony	Departament Obrony	ORG	ORG-United-States-Department-of-Defense
+545	555	John Kirby	John Kirby	PER	PER-John-Kirby
+558	573	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+600	604	Meta	Meta	ORG	ORG-Meta
+616	624	Facebook	Facebook	ORG	ORG-Facebook
+649	655	Kanady	Kanada	LOC	GPE-Canada
+736	742	Ottawę	Ottawa	LOC	GPE-Ottawa
+766	772	Kanady	Kanada	LOC	GPE-Canada
+1012	1017	Rosji	Rosja	LOC	GPE-Russia
+1131	1139	Kanadzie	Kanada	LOC	GPE-Canada
+1149	1165	Kamila Wronowska	Kamila Wronowska	PER	PER-Kamila-Wronowska

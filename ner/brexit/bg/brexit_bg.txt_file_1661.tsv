@@ -1,0 +1,17 @@
+0	13	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+60	67	Брекзит	Брекзит	EVT	EVT-Brexit
+90	104	Великобритания	Великобритания	LOC	GPE-Great-Britain
+105	118	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+203	217	Великобритания	Великобритания	LOC	GPE-Great-Britain
+221	237	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+366	386	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+411	426	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+470	483	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+561	563	ЕС	ЕС	ORG	ORG-European-Union
+570	577	Брекзит	Брекзит	EVT	EVT-Brexit
+640	654	Великобритания	Великобритания	LOC	GPE-Great-Britain
+673	680	Брекзит	Брекзит	EVT	EVT-Brexit
+774	788	Великобритания	Великобритания	LOC	GPE-Great-Britain
+792	794	ЕС	ЕС	ORG	ORG-European-Union
+870	877	Джонсън	Джонсън	PER	PER-Boris-Johnson
+899	906	Брекзит	Брекзит	EVT	EVT-Brexit

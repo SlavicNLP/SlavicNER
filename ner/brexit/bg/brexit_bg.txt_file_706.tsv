@@ -1,0 +1,19 @@
+0	6	Лондон	Лондон	LOC	GPE-London
+42	50	Брекзита	Брекзит	EVT	EVT-Brexit
+93	109	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+156	164	Брекзита	Брекзит	EVT	EVT-Brexit
+278	285	Ройтерс	Ройтерс	ORG	ORG-Reuters
+288	296	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+460	468	Брекзита	Брекзит	EVT	EVT-Brexit
+477	483	Лондон	Лондон	LOC	GPE-London
+556	558	ЕС	ЕС	ORG	ORG-European-Union
+581	589	Брекзита	Брекзит	EVT	EVT-Brexit
+630	632	ЕС	ЕС	ORG	ORG-European-Union
+826	834	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+848	852	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+939	945	Лондон	Лондон	LOC	GPE-London
+948	955	Брюксел	Брюксел	LOC	GPE-Brussles
+1068	1076	Брекзита	Брекзит	EVT	EVT-Brexit
+1197	1199	ЕС	ЕС	ORG	ORG-European-Union
+1205	1219	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1384	1387	БТА	БТА	ORG	ORG-Bulgarian-News-Agency

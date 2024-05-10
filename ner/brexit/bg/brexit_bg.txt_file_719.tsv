@@ -1,0 +1,25 @@
+13	19	Мюнхен	Мюнхен	LOC	GPE-München
+20	30	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+62	64	ЕС	ЕС	ORG	ORG-European-Union
+140	154	Великобритания	Великобритания	LOC	GPE-Great-Britain
+157	159	ЕС	ЕС	ORG	ORG-European-Union
+219	229	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+279	285	Мюнхен	Мюнхен	LOC	GPE-München
+377	384	Брекзит	Брекзит	EVT	EVT-Brexit
+454	468	Великобритания	Великобритания	LOC	GPE-Great-Britain
+469	479	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+503	505	ЕС	ЕС	ORG	ORG-European-Union
+614	621	Брекзит	Брекзит	EVT	EVT-Brexit
+692	698	Мюнхен	Мюнхен	LOC	GPE-München
+700	703	Мей	Мей	PER	PER-Theresa-May
+754	768	Великобритания	Великобритания	LOC	GPE-Great-Britain
+771	773	ЕС	ЕС	ORG	ORG-European-Union
+977	980	Мей	Мей	PER	PER-Theresa-May
+1143	1150	Брекзит	Брекзит	EVT	EVT-Brexit
+1186	1192	Лондон	Лондон	LOC	GPE-London
+1246	1259	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+1261	1264	Мей	Мей	PER	PER-Theresa-May
+1334	1340	Мюнхен	Мюнхен	LOC	GPE-München
+1341	1344	Мей	Мей	PER	PER-Theresa-May
+1586	1596	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1654	1661	Брекзит	Брекзит	EVT	EVT-Brexit

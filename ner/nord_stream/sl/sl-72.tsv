@@ -1,0 +1,48 @@
+32	39	Nemčije	Nemčija	LOC	GPE-Germany
+78	80	EU	EU	ORG	ORG-European-Union
+83	90	Bruslju	Bruselj	LOC	GPE-Brussles
+126	134	Berlinom	Berlin	LOC	GPE-Berlin
+138	145	Parizom	Pariz	LOC	GPE-Paris
+200	215	Severnim morjem	Severno morje	LOC	LOC-North-Sea
+355	374	Gerharda Schröderja	Gerhard Schröder	PER	PER-Gerhard-Fritz-Kurt-Schröder
+378	384	Berlin	Berlin	LOC	GPE-Berlin
+467	475	Francije	Francija	LOC	GPE-France
+518	525	Poljske	Poljska	LOC	GPE-Poland
+542	558	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+597	610	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+633	643	Washington	Washington	LOC	GPE-WashingtonDC
+707	710	ZDA	ZDA	LOC	GPE-USA
+866	868	EU	EU	ORG	ORG-European-Union
+872	878	Rusijo	Rusija	LOC	GPE-Russia
+914	922	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+926	929	ZDA	ZDA	LOC	GPE-USA
+999	1005	Moskve	Moskva	LOC	GPE-Moscow
+1057	1059	EU	EU	ORG	ORG-European-Union
+1061	1078	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+1138	1155	direktive o plinu	direktiva o plinu	PRO	PRO-Gas-Directive-EU
+1180	1186	Rusije	Rusija	LOC	GPE-Russia
+1403	1411	Gazpromu	Gazprom	ORG	ORG-Gazprom
+1486	1507	evropskim parlamentom	evropski parlament	ORG	ORG-European-Parliament
+1598	1611	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+1852	1865	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2024	2041	Emmanuela Macrona	Emmanuel Macron	PER	PER-Emmanuel-Macron
+2073	2081	Francijo	Francija	LOC	GPE-France
+2233	2235	EU	EU	ORG	ORG-European-Union
+2245	2254	Bolgarije	Bolgarija	LOC	GPE-Bulgaria
+2274	2292	evropski parlament	evropski parlament	ORG	ORG-European-Parliament
+2368	2375	Gazprom	Gazprom	ORG	ORG-Gazprom
+2502	2517	Severnem toku 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+2601	2609	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+2703	2709	Rusijo	Rusija	LOC	GPE-Russia
+2793	2800	srednje	srednji	LOC	LOC-Central-Europe
+2804	2818	zahodne Evrope	zahodna Evropa	LOC	LOC-Western-Europe
+2819	2825	Moskva	Moskva	LOC	GPE-Moscow
+2841	2849	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+2853	2860	Poljsko	Poljska	LOC	GPE-Poland
+2936	2950	severnega toka	severni tok	PRO	PRO-Nord-Stream-1
+2980	2992	južnega toka	južni tok	PRO	PRO-South-Stream
+3023	3033	turški tok	turški tok	PRO	PRO-TurkStream
+3057	3063	Evropi	Evropa	LOC	LOC-Europe
+3073	3076	ZDA	ZDA	LOC	GPE-USA
+3139	3146	Hrvaško	Hrvaška	LOC	GPE-Croatia
+3169	3172	Krk	Krk	LOC	GPE-Krk

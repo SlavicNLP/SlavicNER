@@ -1,0 +1,138 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+8	14	Байден	Байден	PER	PER-Joe-Biden
+195	208	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+233	243	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+286	303	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+406	412	Трампа	Трамп	PER	PER-Donald-Trump
+414	421	Америка	Америка	LOC	GPE-USA
+449	456	Байдена	Байден	PER	PER-Joe-Biden
+624	628	НАТО	НАТО	ORG	ORG-NATO
+631	636	Трамп	Трамп	PER	PER-Donald-Trump
+783	789	Трампа	Трамп	PER	PER-Donald-Trump
+849	853	НАТО	НАТО	ORG	ORG-NATO
+958	966	Германии	Германия	LOC	GPE-Germany
+1008	1011	США	США	LOC	GPE-USA
+1049	1055	Байден	Байден	PER	PER-Joe-Biden
+1063	1067	НАТО	НАТО	ORG	ORG-NATO
+1103	1121	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+1162	1168	Трампа	Трамп	PER	PER-Donald-Trump
+1311	1317	Россия	Россия	LOC	GPE-Russia
+1320	1326	Байден	Байден	PER	PER-Joe-Biden
+1366	1372	России	Россия	LOC	GPE-Russia
+1373	1389	Владимиру Путину	Владимиру Путину	PER	PER-Vladimir-Putin
+1414	1420	России	Россия	LOC	GPE-Russia
+1540	1546	Путину	Путин	PER	PER-Vladimir-Putin
+1623	1634	Афганистане	Афганистан	LOC	GPE-Afghanistan
+1692	1696	НАТО	НАТО	ORG	ORG-NATO
+1708	1714	Байден	Байден	PER	PER-Joe-Biden
+1718	1723	Трамп	Трамп	PER	PER-Donald-Trump
+1738	1750	американских	американский	LOC	GPE-USA
+1772	1778	Россия	Россия	LOC	GPE-Russia
+2075	2081	России	Россия	LOC	GPE-Russia
+2115	2122	Россией	Россия	LOC	GPE-Russia
+2135	2148	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2166	2171	Китай	Китай	LOC	GPE-China
+2183	2189	Трампа	Трамп	PER	PER-Donald-Trump
+2202	2207	Китая	Китай	LOC	GPE-China
+2308	2311	КНР	КНР	LOC	GPE-China
+2312	2325	Си Цзиньпином	Си Цзиньпин	PER	PER-Xi-Jinping
+2465	2477	коронавируса	короновирус	EVT	EVT-Covid-19
+2490	2495	Трамп	Трамп	PER	PER-Donald-Trump
+2508	2513	Китай	Китай	LOC	GPE-China
+2577	2586	китайских	китайский	PER	GPE-China
+2598	2604	TikTok	TikTok	ORG	ORG-TikTok
+2607	2613	WeChat	WeChat	ORG	ORG-WeChat
+2628	2633	Трамп	Трамп	PER	PER-Donald-Trump
+2647	2652	Китаю	Китай	LOC	GPE-China
+2727	2736	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+2769	2775	Байден	Байден	PER	PER-Joe-Biden
+2839	2844	Китае	Китай	LOC	GPE-China
+2858	2866	Гонконге	Гонконг	LOC	GPE-China
+2893	2898	Пекин	Пекин	LOC	GPE-Beijing
+2927	2940	Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+2967	2975	Байденом	Байден	PER	PER-Joe-Biden
+2996	3002	Пенсом	Пенс	PER	PER-Mike-Pence
+3030	3036	Трампа	Трамп	PER	PER-Donald-Trump
+3165	3171	Харрис	Харрис	PER	PER-Kamala-Harris
+3175	3179	Иран	Иран	LOC	GPE-Iran
+3182	3188	Байден	Байден	PER	PER-Joe-Biden
+3237	3240	США	США	LOC	GPE-USA
+3290	3296	Ираном	Иран	LOC	GPE-Iran
+3365	3370	Трамп	Трамп	PER	PER-Donald-Trump
+3485	3490	Ирана	Иран	LOC	GPE-Iran
+3544	3550	Байден	Байден	PER	PER-Joe-Biden
+3631	3635	Иран	Иран	LOC	GPE-Iran
+3674	3681	Израиль	Израиль	LOC	GPE-Israel
+3774	3782	Израилем	Израиль	LOC	GPE-Israel
+3785	3797	палестинцами	палестинцы	PER	GPE-Palestine
+3801	3806	Трамп	Трамп	PER	PER-Donald-Trump
+3845	3852	Израиля	Израиль	LOC	GPE-Israel
+3853	3872	Биньямина Нетаньяху	Биньямин Нетаньяху	PER	PER-Benjamin-Netanyahu
+3883	3907	посольство США в Израиле	посольство США в Израиле	ORG	ORG-United-States-Embassy-in-Israel
+3911	3921	Тель-Авива	Тель-Авив	LOC	LOC-Tel-Aviv
+3924	3933	Иерусалим	Иерусалим	LOC	GPE-Jerusalem
+3937	3943	Байден	Байден	PER	PER-Joe-Biden
+4025	4028	США	США	LOC	GPE-USA
+4031	4051	Восточном Иерусалиме	Восточный Иерусалим	LOC	LOC-East-Jerusalem
+4101	4111	демократов	демократ	ORG	ORG-Democratic-Party-USA
+4156	4162	Трампа	Трамп	PER	PER-Donald-Trump
+4231	4238	Израиля	Израиль	LOC	GPE-Israel
+4241	4250	Бахрейном	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+4253	4286	Объединенными Арабскими Эмиратами	Объединённые Арабские Эмираты	LOC	GPE-United-Arab-Emirates
+4291	4297	Байден	Байден	PER	PER-Joe-Biden
+4312	4318	Трампа	Трамп	PER	PER-Donald-Trump
+4413	4416	США	США	LOC	GPE-USA
+4436	4446	Афганистан	Афганистан	LOC	GPE-Afghanistan
+4463	4469	Трампа	Трамп	PER	PER-Donald-Trump
+4527	4539	американских	американский	LOC	GPE-USA
+4549	4560	Афганистана	Афганистан	LOC	GPE-Afghanistan
+4606	4616	«Твиттере»	Твиттер	PRO	PRO-Twitter
+4675	4681	Байден	Байден	PER	PER-Joe-Biden
+4748	4759	Афганистане	Афганистан	LOC	GPE-Afghanistan
+4763	4777	Северная Корея	Северная Корея	LOC	GPE-North-Korea
+4780	4785	Трамп	Трамп	PER	PER-Donald-Trump
+4826	4840	Северной Кореи	Северная Корея	LOC	GPE-North-Korea
+4841	4853	Ким Чен Ыном	Ким Чен Ын	PER	PER-Kim-Jong-Un
+4932	4954	Корейского полуострова	Корейский полуостров	LOC	LOC-Korean-peninsula
+5007	5014	Пхеньян	Пхеньян	LOC	GPE-Pyongyang
+5101	5106	Трамп	Трамп	PER	PER-Donald-Trump
+5164	5179	северокорейским	северокорейский	LOC	GPE-North-Korea
+5256	5262	Байден	Байден	PER	PER-Joe-Biden
+5301	5313	Ким Чен Ыном	Ким Чен Ын	PER	PER-Kim-Jong-Un
+5367	5374	Байдена	Байден	PER	PER-Joe-Biden
+5451	5458	Пхеньян	Пхеньян	LOC	GPE-Pyongyang
+5476	5482	Африка	Африка	LOC	LOC-Africa
+5485	5491	Байден	Байден	PER	PER-Joe-Biden
+5549	5556	Трампом	Трамп	PER	PER-Donald-Trump
+5708	5715	Нигерию	Нигерия	LOC	GPE-Nigeria
+5717	5722	Судан	Судан	LOC	GPE-Sudan
+5725	5731	Сомали	Сомали	LOC	GPE-Somalia
+5733	5738	Трамп	Трамп	PER	PER-Donald-Trump
+5943	5955	африканскими	африканский	LOC	LOC-Africa
+5986	6005	Центральная Америка	Центральная Америка	LOC	GPE-Central-America
+6034	6040	Трампа	Трамп	PER	PER-Donald-Trump
+6064	6074	Гватемалой	Гватемала	LOC	GPE-Guatemala
+6076	6087	Сальвадором	Сальвадор	LOC	GPE-El-Salvador
+6090	6100	Гондурасом	Гондурас	LOC	GPE-Honduras
+6204	6207	США	США	LOC	GPE-USA
+6210	6217	Мексики	Мексика	LOC	GPE-Mexico
+6277	6290	Стивен Миллер	Стивен Миллер	PER	PER-Stephen-Miller
+6326	6332	Трампа	Трамп	PER	PER-Donald-Trump
+6400	6406	Байден	Байден	PER	PER-Joe-Biden
+6449	6455	Трампа	Трамп	PER	PER-Donald-Trump
+6682	6685	США	США	LOC	GPE-USA
+6707	6713	Трампа	Трамп	PER	PER-Donald-Trump
+6818	6830	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+6973	6984	американцев	американцы	PER	GPE-USA
+7027	7035	COVID-19	COVID-19	EVT	EVT-Covid-19
+7040	7046	Байден	Байден	PER	PER-Joe-Biden
+7126	7131	Трамп	Трамп	PER	PER-Donald-Trump
+7157	7164	Америка	Америка	LOC	GPE-USA
+7233	7265	Парижского соглашения по климату	Парижское соглашение по климату	PRO	PRO-Paris-Agreement
+7268	7314	переговоров по Транстихоокеанскому партнерству	переговоры по Транстихоокеанскому партнерству	EVT	EVT-Trans-Pacific-Partnership-negotiations
+7342	7379	Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+7413	7419	Байден	Байден	PER	PER-Joe-Biden
+7436	7456	Парижское соглашение	Парижское соглашение	PRO	PRO-Paris-Agreement
+7464	7467	ТТП	ТТП	PRO	PRO-Trans-Pacific-Partnership-Agreement
+7557	7560	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+7632	7640	Facebook	Facebook	PRO	PRO-Facebook

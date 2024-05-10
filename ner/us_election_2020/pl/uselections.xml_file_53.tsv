@@ -1,0 +1,24 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+43	70	wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+145	152	Arizonę	Arizona	LOC	GPE-Arizona
+154	160	Nevadę	Nevada	LOC	GPE-Nevada
+162	173	Pensylwanię	Pensylwania	LOC	GPE-Pennsylvania
+175	192	Karolinę Północną	Karolina Północna	LOC	GPE-North-Carolina-US-State
+195	202	Georgię	Georgia	LOC	GPE-Georgia-US-state
+298	309	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+332	344	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+470	480	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+546	560	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+693	712	Dystrykcie Kolumbii	Dystrykt Kolumbia	LOC	GPE-District-of-Columbia
+720	725	Biden	Biden	PER	PER-Joe-Biden
+768	773	Trump	Trump	PER	PER-Donald-Trump
+843	857	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+954	963	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+966	974	Michigan	Michigan	LOC	GPE-Michigan
+976	988	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+991	1000	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1021	1032	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+1034	1041	Georgii	Georgie	LOC	GPE-Georgia-US-state
+1043	1051	Arizonie	Arizona	LOC	GPE-Arizona
+1054	1062	Nevadzie	Nevada	LOC	GPE-Nevada
+1323	1335	Donald Trump	Donald Trump	PER	PER-Donald-Trump

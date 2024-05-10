@@ -1,0 +1,21 @@
+0	13	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+64	78	Великобритании	Великобритания	LOC	GPE-Great-Britain
+80	84	КИЕВ	КИЕВ	LOC	GPE-Kiev
+94	97	УНН	УНН	ORG	ORG-UNN
+99	112	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+163	177	Великобритании	Великобритания	LOC	GPE-Great-Britain
+196	208	The Guardian	The Guardian	PRO	PRO-The-Guardian
+219	222	УНН	УНН	ORG	ORG-UNN
+270	285	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+402	408	Бориса	Борис	PER	PER-Boris-Johnson
+490	497	Джонсон	Джонсон	PER	PER-Boris-Johnson
+621	635	Великобритании	Великобритания	LOC	GPE-Great-Britain
+639	641	ЕС	ЕС	ORG	ORG-European-Union
+642	653	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+680	686	Brexit	Brexit	EVT	EVT-Brexit
+687	698	Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+732	746	Великобритании	Великобритания	LOC	GPE-Great-Britain
+747	757	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+795	823	МИД Соединенного Королевства	МИД Соединенного Королевства	ORG	ORG-Foreign-Office
+824	839	Бориса Джонсона	Бориса Джонсона	PER	PER-Boris-Johnson
+952	954	ЕС	ЕС	ORG	ORG-European-Union

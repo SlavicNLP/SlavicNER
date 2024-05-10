@@ -1,0 +1,16 @@
+6	14	Bílý dům	Bílý dům	LOC	LOC-White-House
+16	25	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+28	40	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+46	66	Fotobanka Profimedia	Fotobanka Profimedia	PRO	PRO-Profimedia-photobank
+75	80	Trump	Trump	PER	PER-Donald-Trump
+85	90	Biden	Biden	PER	PER-Joe-Biden
+195	209	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+247	258	Joea Bidena	Joe Biden	PER	PER-Joe-Biden
+270	280	Jan Kaliba	Jan Kaliba	PER	PER-Jan-Kaliba
+289	316	americké prezidentské volby	americké prezidentské volby	EVT	EVT-2020-United-States-Presidential-Election
+325	328	USA	USA	LOC	GPE-USA
+357	369	Radiožurnálu	Radiožurnál	PRO	PRO-Radiozurnal
+413	440	americké prezidentské volby	americké prezidentské volby	EVT	EVT-2020-United-States-Presidential-Election
+444	460	Severní Karolíně	Severní Karolína	LOC	GPE-North-Carolina-US-State
+507	534	Americké prezidentské volby	Americké prezidentské volby	EVT	EVT-2020-United-States-Presidential-Election
+606	615	Joe Biden	Joe Biden	PER	PER-Joe-Biden

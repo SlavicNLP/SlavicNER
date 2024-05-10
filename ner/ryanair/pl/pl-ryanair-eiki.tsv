@@ -1,0 +1,31 @@
+0	7	Ryanair	Ryanair	ORG	ORG-Ryanair
+49	57	Dublinie	Dublin	LOC	GPE-Dublin
+72	79	Europie	Europa	LOC	LOC-Europe
+162	169	Ryanair	Ryanair	ORG	ORG-Ryanair
+195	209	Boeing 737-800	Boeing 737-800	PRO	PRO-Boeing-737
+253	267	Tony’ego Ryana	Tony Ryan	PER	PER-Tony-Ryan
+325	334	Waterford	Waterford	LOC	GPE-Waterford
+336	339	WAT	WAT	LOC	GPE-Waterford
+344	375	portu lotniczego Londyn-Gatwick	port lotniczy Londyn-Gatwick	LOC	LOC-Gatwick-Airport
+377	380	LGW	LGW	LOC	LOC-Gatwick-Airport
+445	452	Ryanair	Ryanair	ORG	ORG-Ryanair
+506	512	Europy	Europa	LOC	LOC-Europe
+518	525	Izraelu	Izrael	LOC	GPE-Israel
+527	533	Cyprze	Cypr	LOC	GPE-Cyprus
+536	542	Maroku	Maroko	LOC	GPE-Morocco
+758	764	Polsce	Polska	LOC	GPE-Poland
+765	772	Ryanair	Ryanair	ORG	ORG-Ryanair
+858	878	lotniska Strachowice	lotnisko Strachowice	LOC	LOC-Copernicus-Airport-Wroclaw
+880	883	WRO	WRO	LOC	LOC-Copernicus-Airport-Wroclaw
+888	904	Londynu-Stansted	Londyn-Stansted	LOC	LOC-Stansted-airport
+906	909	STN	STN	LOC	LOC-Stansted-airport
+954	961	Ryanair	Ryanair	ORG	ORG-Ryanair
+990	1004	Boeing 737-8AS	Boeing 737-8AS	PRO	PRO-Boeing-737
+1022	1029	Ryanair	Ryanair	ORG	ORG-Ryanair
+1066	1074	Krakowie	Kraków	LOC	GPE-Kraków
+1076	1079	KRK	KRK	LOC	LOC-Cracow-Airport-Poland
+1095	1102	Ryanair	Ryanair	ORG	ORG-Ryanair
+1115	1121	Polsce	Polska	LOC	GPE-Poland
+1139	1150	Ryanair Sun	Ryanair Sun	ORG	ORG-Ryanair
+1195	1203	Poznania	Poznań	LOC	GPE-Poznań
+1207	1215	Zakintos	Zakintos	LOC	LOC-Zakynthos

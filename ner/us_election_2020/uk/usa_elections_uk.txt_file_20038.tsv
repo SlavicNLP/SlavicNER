@@ -1,0 +1,53 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+51	58	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+70	73	США	США	LOC	GPE-USA
+124	131	Байдена	Байден	PER	PER-Joe-Biden
+178	184	Трампа	Трамп	PER	PER-Donald-Trump
+193	221	президентських виборів у США	президентські вибори у США	EVT	EVT-2020-United-States-Presidential-Election
+230	243	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+270	283	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+342	347	Техас	Техас	LOC	GPE-Texas
+415	422	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+509	524	Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+551	557	Трампа	Трамп	PER	PER-Donald-Trump
+589	596	Америки	Америка	LOC	GPE-USA
+739	746	Байдена	Байден	PER	PER-Joe-Biden
+862	869	Трампом	Трамп	PER	PER-Donald-Trump
+894	905	Майкл Флінн	Майкл Флінн	PER	PER-Michael-Flynn
+942	945	ФБР	ФБР	ORG	ORG-FBI
+1017	1020	США	США	LOC	GPE-USA
+1058	1061	США	США	LOC	GPE-USA
+1089	1095	Трампа	Трамп	PER	PER-Donald-Trump
+1196	1202	Техасу	Техас	LOC	GPE-Texas
+1222	1234	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+1236	1244	Мічигані	Мічиган	LOC	GPE-Michigan
+1246	1256	Вісконсині	Вісконсин	LOC	GPE-Wisconsin
+1260	1268	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1269	1275	Байден	Байден	PER	PER-Joe-Biden
+1413	1418	Техас	Техас	LOC	GPE-Texas
+1644	1647	ТСН	ТСН	PRO	PRO-TSN.ua
+1681	1696	Верховним судом	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+1784	1791	Байдена	Байден	PER	PER-Joe-Biden
+1835	1841	Трампа	Трамп	PER	PER-Donald-Trump
+1864	1886	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1895	1908	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+1985	1990	Техас	Техас	LOC	GPE-Texas
+2058	2065	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2146	2152	Трампа	Трамп	PER	PER-Donald-Trump
+2182	2193	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2196	2205	Білий дім	Білий дім	ORG	ORG-White-House
+2220	2225	Трамп	Трамп	PER	PER-Donald-Trump
+2237	2252	Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+2267	2275	Твіттері	Твіттер	PRO	PRO-Twitter
+2311	2324	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+2378	2393	Верховним судом	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+2404	2413	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+2667	2674	Байдена	Байден	PER	PER-Joe-Biden
+2709	2716	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2806	2809	США	США	LOC	GPE-USA
+2884	2896	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+2898	2905	Мічиган	Мічиган	LOC	GPE-Michigan
+2908	2917	Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+2964	2970	Трампу	Трамп	PER	PER-Donald-Trump
+2993	3000	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3084	3091	Конгрес	Конгрес	ORG	ORG-United-States-Congress

@@ -1,0 +1,33 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+14	20	Trumpa	Trump	PER	PER-Donald-Trump
+87	103	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+254	257	CNN	CNN	PRO	PRO-CNN
+271	274	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+285	304	Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+358	364	Trumpa	Trump	PER	PER-Donald-Trump
+401	406	Biden	Biden	PER	PER-Joe-Biden
+573	585	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+589	601	koronawirusa	koronawirus	EVT	EVT-Covid-19
+620	625	Trump	Trump	PER	PER-Donald-Trump
+662	678	Chrisa Wallace'a	Chrisa Wallace	PER	PER-Chris-Wallace
+701	709	Bidenowi	Biden	PER	PER-Joe-Biden
+760	763	CNN	CNN	PRO	PRO-CNN
+831	837	Bidena	Biden	PER	PER-Joe-Biden
+853	859	Trumpa	Trump	PER	PER-Donald-Trump
+876	879	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+897	903	Bidena	Biden	PER	PER-Joe-Biden
+908	915	Trumpem	Trump	PER	PER-Donald-Trump
+958	961	CNN	CNN	PRO	PRO-CNN
+974	979	Biden	Biden	PER	PER-Joe-Biden
+1045	1048	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+1128	1131	USA	USA	LOC	GPE-USA
+1150	1175	Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+1263	1269	Bidena	Biden	PER	PER-Joe-Biden
+1307	1328	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1671	1682	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1684	1691	Floryda	Floryda	LOC	GPE-Florida
+1693	1702	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1704	1711	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1713	1730	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1732	1740	Michigan	Michigan	LOC	GPE-Michigan
+1904	1929	Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election

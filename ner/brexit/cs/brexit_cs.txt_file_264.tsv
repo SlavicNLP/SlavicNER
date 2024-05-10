@@ -1,0 +1,17 @@
+0	6	Mayová	Mayová	PER	PER-Theresa-May
+17	24	brexitu	brexit	EVT	EVT-Brexit
+59	61	EU	EU	ORG	ORG-European-Union
+70	73	BBC	BBC	PRO	PRO-BBC
+129	131	EU	EU	ORG	ORG-European-Union
+219	225	Mayová	Mayová	PER	PER-Theresa-May
+260	274	Downing Street	Downing Street	LOC	LOC-Downing-Street
+304	322	Philipem Hammondem	Philip Hammond	PER	PER-Philip-Hammond
+407	415	Barclays	Barclays	ORG	ORG-Barclays
+417	430	Deutsche Bank	Deutsche Bank	ORG	ORG-Deutsche-Bank
+432	436	HSBC	HSBC	ORG	ORG-HSBC
+459	472	Goldman Sachs	Goldman Sachs	ORG	ORG-Goldman-Sachs
+573	581	Británie	Británie	LOC	GPE-Great-Britain
+584	586	EU	EU	ORG	ORG-European-Union
+661	663	EU	EU	ORG	ORG-European-Union
+778	786	Británie	Británie	LOC	GPE-Great-Britain
+828	834	brexit	brexit	EVT	EVT-Brexit

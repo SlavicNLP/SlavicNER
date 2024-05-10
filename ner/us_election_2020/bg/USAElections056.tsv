@@ -1,0 +1,26 @@
+30	36	Байдън	Байдън	PER	PER-Joe-Biden
+93	103	Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+129	139	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+158	185	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+192	201	Интерфакс	Интерфакс	ORG	ORG-Interfax
+218	248	Централната телевизия на Китай	Централна телевизия на Китай	PRO	PRO-China-Central-Television
+269	279	Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+301	311	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+409	419	Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+475	478	КНР	КНР	LOC	GPE-China
+481	484	САЩ	САЩ	LOC	GPE-USA
+562	565	САЩ	САЩ	LOC	GPE-USA
+579	598	президентски избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+640	648	ABC News	ABC News	PRO	PRO-ABC-News
+650	658	FOX News	FOX News	PRO	PRO-Fox-News
+660	663	CNN	CNN	PRO	PRO-CNN
+665	667	AP	AP	ORG	ORG-AP-The-Associated-Press
+670	673	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+696	705	демократа	демократ	PER	ORG-Democratic-Party-USA
+706	716	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+743	748	Тръмп	Тръмп	PER	PER-Donald-Trump
+844	850	Байдън	Байдън	PER	PER-Joe-Biden
+874	890	Саудитска Арабия	Саудитска Арабия	LOC	GPE-Saudi-Arabia
+916	919	ООН	ООН	ORG	ORG-United-Nations
+937	943	Турция	Турция	LOC	GPE-Turkey
+946	954	Словения	Словения	LOC	GPE-Slovenia

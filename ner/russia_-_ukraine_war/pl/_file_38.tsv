@@ -1,0 +1,46 @@
+5	16	MSZ Ukrainy	MSZ Ukrainy	ORG	ORG-Ministry-of-Foreign-Affairs-Ukraine
+29	34	Biden	Biden	PER	PER-Joe-Biden
+35	40	Putin	Putin	PER	PER-Vladimir-Putin
+99	106	Ukrainy	Ukraina	LOC	GPE-Ukraine
+168	171	USA	USA	LOC	GPE-USA
+174	179	Rosji	Rosja	LOC	GPE-Russia
+182	195	Dmytro Kułeba	Dmytro Kułeba	PER	PER-Dmytro-Kuleba
+230	237	Reuters	Reuters	PRO	ORG-Reuters
+271	282	Joe Bidenem	Joe Biden	PER	PER-Joe-Biden
+285	303	Władimirem Putinem	Władimir Putin	PER	PER-Vladimir-Putin
+368	375	Ukrainy	Ukraina	LOC	GPE-Ukraine
+442	445	USA	USA	LOC	GPE-USA
+446	456	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+469	489	Federacji Rosyjskiej	Federacja Rosyjska	LOC	GPE-Russia
+490	508	Władimirem Putinem	Władimir Putin	PER	PER-Vladimir-Putin
+781	788	Putinem	Putin	PER	PER-Vladimir-Putin
+791	799	Niemcami	Niemcy	LOC	GPE-Germany
+801	809	Włochami	Włosi	LOC	GPE-Italy
+811	818	Francją	Francja	LOC	GPE-France
+824	839	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+863	868	Biden	Biden	PER	PER-Joe-Biden
+900	907	Ukrainy	Ukraina	LOC	GPE-Ukraine
+908	929	Wołodymyrem Zełenskim	Wołodymyr Zełenski	PER	PER-Volodymyr-Zelensky
+949	961	politico.com	politico.com	PRO	PRO-Politico
+1059	1077	Federację Rosyjską	Federacja Rosyjska	LOC	GPE-Russia
+1078	1107	inwazji na terytorium Ukrainy	inwazja na terytorium Ukrainy	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1198	1204	Polska	Polska	LOC	GPE-Poland
+1218	1228	Amerykanów	Amerykanie	LOC	GPE-USA
+1236	1245	Ukraińców	Ukraińcy	LOC	GPE-Ukraine
+1291	1307	ukraińskiego MSZ	ukraińskie MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Ukraine
+1308	1321	Dmytro Kułeba	Dmytro Kułeba	PER	PER-Dmytro-Kuleba
+1379	1385	Moskwę	Moskwa	LOC	GPE-Moscow
+1474	1481	Ukrainą	Ukraina	LOC	GPE-Ukraine
+1569	1575	Bidena	Biden	PER	PER-Joe-Biden
+1591	1604	Jake Sullivan	Jake Sullivan	PER	PER-Jake-Sullivan
+1625	1663	Stanów Zjednoczonych Ameryki Północnej	Stany Zjednoczone Ameryki Północnej	LOC	GPE-USA
+1700	1709	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1718	1738	Władimirowi Putinowi	Władimir Putin	PER	PER-Vladimir-Putin
+1754	1761	Ukraina	Ukraina	LOC	GPE-Ukraine
+1791	1820	Sojuszu Północnoatlantyckiego	Sojusz Północnoatlantycki	ORG	ORG-NATO
+1873	1893	Federacji Rosyjskiej	Federacja Rosyjska	LOC	GPE-Russia
+1895	1900	Biden	Biden	PER	PER-Joe-Biden
+1962	1969	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2005	2009	NATO	NATO	ORG	ORG-NATO
+2089	2098	Atlantyku	Atlantyk	LOC	LOC-Atlantic-Ocean
+2122	2135	Dmytro Kułeba	Dmytro Kułeba	PER	PER-Dmytro-Kuleba

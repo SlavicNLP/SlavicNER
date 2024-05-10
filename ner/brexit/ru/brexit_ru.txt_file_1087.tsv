@@ -1,0 +1,24 @@
+24	38	Великобритании	Великобритания	LOC	GPE-Great-Britain
+39	52	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+100	114	Великобритании	Великобритания	LOC	GPE-Great-Britain
+115	128	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+232	246	Великобритании	Великобритания	LOC	GPE-Great-Britain
+247	260	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+324	334	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+392	407	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+422	425	МИД	МИД	ORG	ORG-Foreign-Office
+501	504	Мэй	Мэй	PER	PER-Theresa-May
+697	711	Великобритании	Великобритания	LOC	GPE-Great-Britain
+715	724	Евросоюза	Евросоюз	ORG	ORG-European-Union
+725	736	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+798	804	Brexit	Brexit	EVT	EVT-Brexit
+813	816	Мэй	Мэй	PER	PER-Theresa-May
+883	893	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+909	916	Джонсон	Джонсон	PER	PER-Boris-Johnson
+919	924	Дэвис	Дэвис	PER	PER-David-Davis
+947	953	Brexit	Brexit	EVT	EVT-Brexit
+1100	1113	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1122	1152	чемпионат мира по футболу в РФ	чемпионат мира по футболу в РФ	EVT	EVT-FIFA-World-Cup-2018
+1155	1165	Олимпиадой	Олимпиада	EVT	EVT-Olympics-1936
+1170	1177	Гитлере	Гитлер	PER	PER-Adolf-Hitler
+1181	1195	Великобритании	Великобритания	LOC	GPE-Great-Britain

@@ -1,0 +1,80 @@
+92	100	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+119	130	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+143	146	США	США	LOC	GPE-USA
+149	157	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+176	187	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+200	203	США	США	LOC	GPE-USA
+206	218	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+237	248	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+301	312	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+327	336	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+346	357	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+359	371	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+390	401	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+453	459	Байден	Байден	PER	PER-Joe-Biden
+597	612	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+634	643	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+676	685	Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+721	725	Пенс	Пенс	PER	PER-Mike-Pence
+933	944	инаугурация	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+1040	1049	конгрессе	Конгресс	ORG	ORG-United-States-Congress
+1088	1098	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+1143	1156	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1334	1340	Трампа	Трам	PER	PER-Donald-Trump
+1350	1359	Капитолию	Капитолий	LOC	LOC-United-States-Capitol
+1536	1543	ВВС США	ВВС США	ORG	ORG-United-States-Air-Force
+1764	1775	Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+1877	1882	Трамп	Трамп	PER	PER-Donald-Trump
+1902	1922	Национальную гвардию	Национальная гвардия США	ORG	ORG-United-States-National-Guard
+2124	2131	Байдена	Байден	PER	PER-Joe-Biden
+2180	2186	Неваде	Невада	LOC	GPE-Nevada
+2188	2196	Мичигане	Мичиган	LOC	GPE-Michigan
+2198	2206	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+2267	2279	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+2281	2291	Висконсину	Висконсин	LOC	GPE-Wisconsin
+2293	2300	Аризоне	Аризона	LOC	GPE-Arizona
+2596	2602	Трампа	Трамп	PER	PER-Donald-Trump
+2605	2612	Twitter	Twitter	PRO	PRO-Twitter
+2626	2637	Дэн Скавино	Дэн Скавино	PER	PER-Dan-Scavino
+2672	2679	Twitter	Twitter	PRO	PRO-Twitter
+2681	2689	Facebook	Facebook	PRO	PRO-Facebook
+2913	2920	Америку	Америка	LOC	GPE-USA
+2933	2941	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+2960	2971	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2984	2987	США	США	LOC	GPE-USA
+2990	2999	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+3009	3020	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+3022	3034	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+3053	3064	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3119	3125	Байден	Байден	PER	PER-Joe-Biden
+3263	3278	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3354	3363	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+3396	3405	Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+3441	3445	Пенс	Пенс	PER	PER-Mike-Pence
+3659	3670	инаугурация	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+3724	3740	Захват Капитолия	Захват Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+3820	3830	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+3875	3888	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+4068	4074	Трампа	Трам	PER	PER-Donald-Trump
+4084	4093	Капитолию	Капитолий	LOC	LOC-United-States-Capitol
+4270	4277	ВВС США	ВВС США	ORG	ORG-United-States-Air-Force
+4459	4465	сената	Сенат	ORG	ORG-United-States-Senate
+4468	4489	палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+4552	4563	Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+4665	4670	Трамп	Трамп	PER	PER-Donald-Trump
+4690	4710	Национальную гвардию	Национальная гвардия США	ORG	ORG-United-States-National-Guard
+4915	4922	Байдена	Байден	PER	PER-Joe-Biden
+4971	4977	Неваде	Невада	LOC	GPE-Nevada
+4979	4987	Мичигане	Мичиган	LOC	GPE-Michigan
+4989	4997	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+5058	5070	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+5072	5082	Висконсину	Висконсин	LOC	GPE-Wisconsin
+5084	5091	Аризоне	Аризона	LOC	GPE-Arizona
+5141	5147	Трампа	Трамп	PER	PER-Donald-Trump
+5396	5402	Трампа	Трамп	PER	PER-Donald-Trump
+5405	5412	Twitter	Twitter	PRO	PRO-Twitter
+5426	5437	Дэн Скавино	Дэн Скавино	PER	PER-Dan-Scavino
+5475	5482	Twitter	Twitter	PRO	PRO-Twitter
+5484	5492	Facebook	Facebook	PRO	PRO-Facebook
+5576	5582	Трампа	Трам	PER	PER-Donald-Trump
+5718	5725	Америку	Америка	LOC	GPE-USA

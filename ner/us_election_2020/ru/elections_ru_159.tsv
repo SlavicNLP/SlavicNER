@@ -1,0 +1,62 @@
+7	38	выборы президента США 2020 года	выборы президента США 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+79	82	CNN	CNN	ORG	ORG-CNN
+99	110	американцев	американцы	PER	GPE-USA
+180	207	выборов президента США 2020	выборы президента США 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+384	394	демократом	демократ	ORG	ORG-Democratic-Party-USA
+395	407	Джо Байденом	Джо Байден	PER	PER-Joe-Biden
+410	424	республиканцем	республиканец	ORG	ORG-Republican-Party-USA
+425	442	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+550	553	CNN	CNN	ORG	ORG-CNN
+579	586	Америке	Америка	LOC	GPE-USA
+1346	1357	американцам	американцы	PER	GPE-USA
+1625	1637	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1640	1647	Флориде	Флорида	LOC	GPE-Florida
+2806	2822	Линдона Джонсона	Линдон Джонсон	PER	PER-Lyndon-Johnson
+2825	2834	Сенат США	Сенат США	ORG	ORG-United-States-Senate
+3319	3357	декрет Федерального согласия 1982 года	декрет Федерального согласия 1982 года	EVT	EVT-Federal-Consent-Decree-of-1982
+3546	3549	США	США	LOC	GPE-USA
+3760	3765	Техас	Техас	LOC	GPE-Texas
+3803	3811	COVID-19	COVID-19	EVT	EVT-Covid-19
+3858	3871	коронавирусом	коронавирус	EVT	EVT-Covid-19
+4180	4185	QAnon	QAnon	ORG	ORG-QAnon
+4295	4300	Трамп	Трамп	PER	PER-Donald-Trump
+4330	4335	QAnon	QAnon	ORG	ORG-QAnon
+4550	4557	Америки	Америка	LOC	GPE-USA
+4633	4639	Трампа	Трамп	PER	PER-Donald-Trump
+4701	4709	Мичигане	Мичиган	LOC	GPE-Michigan
+4819	4822	США	США	LOC	GPE-USA
+4907	4917	американцы	американцы	PER	GPE-USA
+5116	5126	Калифорнии	Калифорния	LOC	GPE-California
+5231	5238	Монтана	Монтана	LOC	GPE-Montana-US-State
+5241	5249	Вайоминг	Вайоминг	LOC	GPE-Wyoming
+5410	5417	Америке	Америка	LOC	GPE-USA
+5443	5454	американцев	американцы	PER	GPE-USA
+5550	5553	США	США	LOC	GPE-USA
+5774	5777	США	США	LOC	GPE-USA
+5916	5923	Америке	Америка	LOC	GPE-USA
+5951	5954	США	США	LOC	GPE-USA
+6183	6186	CNN	CNN	ORG	ORG-CNN
+6190	6195	Трамп	Трамп	PER	PER-Donald-Trump
+6243	6251	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+6263	6271	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+6298	6303	Трамп	Трамп	PER	PER-Donald-Trump
+6500	6508	Мичигана	Мичиган	LOC	GPE-Michigan
+6511	6523	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+6532	6538	Трампа	Трамп	PER	PER-Donald-Trump
+6574	6584	Висконсине	Висконсин	LOC	GPE-Wisconsin
+6634	6644	демократов	демократ	ORG	ORG-Democratic-Party-USA
+6668	6674	Байден	Байден	PER	PER-Joe-Biden
+6684	6690	Трампа	Трамп	PER	PER-Donald-Trump
+6733	6743	Висконсине	Висконсин	LOC	GPE-Wisconsin
+6849	6864	Еdison research	Еdison research	ORG	ORG-Edison-research
+6868	6875	Байдена	Байден	PER	PER-Joe-Biden
+6887	6893	Трампа	Трамп	PER	PER-Donald-Trump
+6905	6918	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+6973	6985	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+6987	7004	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+7006	7014	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+7075	7083	Мичигане	Мичиган	LOC	GPE-Michigan
+7109	7112	США	США	LOC	GPE-USA
+7244	7252	Telegram	Telegram	PRO	PRO-Telegram
+9130	9149	«Интерфакс-Украина»	"""Интерфакс-Украина"""	ORG	ORG-Interfax-Ukraine
+9274	9293	«Интерфакс-Украина»	"""Интерфакс-Украина"""	ORG	ORG-Interfax-Ukraine

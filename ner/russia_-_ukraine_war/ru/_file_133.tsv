@@ -1,0 +1,34 @@
+7	13	России	Россия	LOC	GPE-Russia
+25	27	ИГ	ИГ	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+39	45	Кабуле	Кабул	LOC	GPE-Kabul
+73	79	МОСКВА	Москва	LOC	GPE-Moscow
+90	101	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+112	118	Кабуле	Кабул	LOC	GPE-Kabul
+143	154	Афганистана	Афганистан	LOC	GPE-Afghanistan
+179	181	ИГ	ИГ	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+225	227	РФ	РФ	LOC	GPE-Russia
+253	259	России	Россия	LOC	GPE-Russia
+289	300	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+330	341	Афганистана	Афганистан	LOC	GPE-Afghanistan
+344	350	Москве	Москва	LOC	GPE-Moscow
+351	370	Джамал Насир Гарвал	Джамал Насир Гарвал	PER	PER-Jamal-Nasir-Garwal
+371	377	Гарвал	Гарвал	PER	PER-Jamal-Nasir-Garwal
+391	399	талибами	талибы	PER	ORG-Taliban
+434	437	ООН	ООН	ORG	ORG-United-Nations
+494	500	Москве	Москва	LOC	GPE-Moscow
+526	532	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+636	640	ИГИЛ	ИГИЛ	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+1069	1074	Кабул	Кабул	LOC	GPE-Kabul
+1094	1096	РФ	РФ	LOC	GPE-Russia
+1144	1146	ИГ	ИГ	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+1196	1230	комитета начштабов американских ВС	комитет начштабов американских ВС	ORG	ORG-Joint-Chiefs-of-Staff
+1231	1241	Марк Милли	Марк Милли	PER	PER-Mark-Milley
+1254	1257	США	США	LOC	GPE-USA
+1293	1295	ИГ	ИГ	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+1346	1357	Афганистане	Афганистан	LOC	GPE-Afghanistan
+1374	1403	американской военной разведки	американская военная разведка	ORG	ORG-Defense-Intelligence-Agency
+1404	1416	Скотт Беррье	Скотт Беррье	PER	PER-Scott-Berrier
+1458	1460	ИГ	ИГ	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+1464	1473	Аль-Каида	Аль-Каида	ORG	ORG-Al-Quaeda
+1499	1510	Афганистане	Афганистан	LOC	GPE-Afghanistan
+1653	1659	России	Россия	LOC	GPE-Russia

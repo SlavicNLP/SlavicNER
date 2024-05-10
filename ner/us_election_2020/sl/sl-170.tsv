@@ -1,0 +1,50 @@
+0	11	Kalifornija	Kalifornija	LOC	GPE-California
+12	23	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+60	63	ZDA	ZDA	LOC	GPE-USA
+67	76	Trumpovem	Trump	PER	PER-Donald-Trump
+108	115	Atlante	Atlanta	LOC	GPE-Atlanta
+169	179	Washington	Washington	LOC	GPE-WashingtonDC
+228	239	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+243	254	Kalifornija	Kalifornija	LOC	GPE-California
+427	439	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+566	579	Alexa Padille	Alex Padilla	PER	PER-Alex-Padilla
+580	585	Bidnu	Biden	PER	PER-Joe-Biden
+726	736	Trumpovima	Trump	PER	PER-Donald-Trump
+770	778	Koloradu	Kolorado	LOC	GPE-Colorado
+780	787	Havajih	Havaji	LOC	GPE-Hawaii
+791	802	New Jerseyu	New Jersey	LOC	GPE-New-Jersey
+860	865	Bidna	Biden	PER	PER-Joe-Biden
+978	991	Baracka Obama	Barack Obama	PER	PER-Barack-Obama
+1018	1026	Delawara	Delaware	LOC	GPE-Delaware
+1144	1153	Američane	Američani	PER	GPE-USA
+1233	1242	covida 19	covid 19	EVT	EVT-Covid-19
+1404	1420	ameriški kongres	ameriški kongres	ORG	ORG-United-States-Congress
+1569	1577	Trumpovi	Trump	PER	PER-Donald-Trump
+1641	1648	Atlante	Atlanta	LOC	GPE-Atlanta
+1892	1897	Trump	Trump	PER	PER-Donald-Trump
+1905	1913	Georgiji	Georgia	LOC	GPE-Georgia-US-state
+2059	2068	Trumpovem	Trump	PER	PER-Donald-Trump
+2422	2438	Georgea W. Busha	George W. Bush	PER	PER-George-Bush-Jr
+2442	2456	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2555	2564	Mo Brooks	Mo Brooks	PER	PER-Mo-Brooks
+2568	2575	Arizone	Arizona	LOC	GPE-Arizona
+2746	2751	Trump	Trump	PER	PER-Donald-Trump
+2807	2815	Georgiji	Georgia	LOC	GPE-Georgia-US-state
+2835	2849	Kelly Loeffler	Kelly Loeffler	PER	PER-Kelly-Loeffler
+2853	2865	David Perdue	David Perdue	PER	PER-David-Perdue
+3036	3044	Trumpova	Trump	PER	PER-Donald-Trump
+3076	3083	Georgie	Georgia	LOC	GPE-Georgia-US-state
+3138	3146	Trumpovi	Trump	PER	PER-Donald-Trump
+3259	3283	Mariannette Miller-Meeks	Mariannette Miller-Meeks	PER	PER-Mariannette-Miller-Meeks
+3293	3297	Iowi	Iowa	LOC	GPE-Iowa
+3347	3356	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+3502	3509	Indiane	Indiana	LOC	GPE-Indiana
+3564	3573	New Yorku	New York	LOC	GPE-New-York
+3687	3701	Claudia Tenney	Claudia Tenney	PER	PER-Claudia-Tenney
+3713	3722	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+3828	3840	Nancy Pelosi	Nancy Pelosi	PER	PER-Nancy-Pelosi
+3878	3881	ZDA	ZDA	LOC	GPE-USA
+3955	3958	ZDA	ZDA	LOC	GPE-USA
+4099	4102	ZDA	ZDA	LOC	GPE-USA
+4124	4136	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+4201	4214	Baracka Obame	Barack Obama	PER	PER-Barack-Obama

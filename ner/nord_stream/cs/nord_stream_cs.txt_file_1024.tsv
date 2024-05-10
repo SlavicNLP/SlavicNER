@@ -1,0 +1,35 @@
+28	34	Moskvy	Moskva	LOC	GPE-Moscow
+52	66	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+99	115	Bojku Borisovovi	Bojko Borisov	PER	PER-Boyko-Borisov
+165	173	Borisova	Borisov	PER	PER-Boyko-Borisov
+176	182	Kremlu	Kreml	LOC	LOC-Kremlin
+216	223	Turecka	Turecko	LOC	GPE-Turkey
+229	238	Bulharsko	Bulharsko	LOC	GPE-Bulgaria
+249	257	Maďarska	Maďarsko	LOC	GPE-Hungary
+263	277	západní Balkán	západní Balkán	LOC	LOC-Western-Balkans
+308	316	Borisova	Borisov	PER	PER-Boyko-Borisov
+338	351	Evropské unie	Evropská unie	ORG	ORG-European-Union
+354	369	Spojených států	Spojené státy	LOC	GPE-USA
+414	426	South Stream	South Stream	PRO	PRO-South-Stream
+439	445	Moskva	Moskva	LOC	GPE-Moscow
+465	473	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+532	537	Kreml	Kreml	LOC	LOC-Kremlin
+679	685	Moskva	Moskva	LOC	GPE-Moscow
+706	714	Tureckem	Turecko	LOC	GPE-Turkey
+742	756	Turkish Stream	Turkish Stream	PRO	PRO-Turkish-Stream
+764	776	Černého moře	Černé moře	LOC	LOC-Black-Sea
+799	806	Gazprom	Gazprom	ORG	ORG-Gazprom
+807	813	Ankaře	Ankara	LOC	GPE-Ankara
+889	896	Turecka	Turecko	LOC	GPE-Turkey
+925	931	Evropy	Evropa	LOC	LOC-Europe
+943	956	South Streamu	South Stream	PRO	PRO-South-Stream
+957	962	Kreml	Kreml	LOC	LOC-Kremlin
+1003	1008	Řecko	Řecko	LOC	GPE-Greece
+1018	1035	Adriatického moře	Adriatické moře	LOC	LOC-Adriatic-sea
+1044	1050	Itálie	Itálie	LOC	GPE-Italy
+1115	1120	Ruska	Rusko	LOC	GPE-Russia
+1122	1128	Srbsko	Srbsko	LOC	GPE-Serbia
+1131	1139	Maďarsko	Maďarsko	LOC	GPE-Hungary
+1192	1206	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+1216	1226	Borisovovi	Borisov	PER	PER-Boyko-Borisov
+1237	1250	South Streamu	South Stream	PRO	PRO-South-Stream

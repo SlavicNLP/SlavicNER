@@ -1,0 +1,22 @@
+3	8	Тръмп	Тръмп	PER	PER-Donald-Trump
+10	12	ЕС	ЕС	ORG	ORG-European-Union
+38	41	САЩ	САЩ	LOC	GPE-USA
+55	58	БНР	БНР	ORG	ORG-Bulgarian-National-Radio
+84	96	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+138	146	Ай Ти Ви	Ай Ти Ви	PRO	PRO-ITV
+173	187	Великобритания	Великобритания	LOC	GPE-Great-Britain
+224	236	Пиърс Морган	Пиърс Морган	PER	PER-Piers-Morgan
+266	302	Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+304	309	Тръмп	Тръмп	PER	PER-Donald-Trump
+339	353	Великобритания	Великобритания	LOC	GPE-Great-Britain
+383	397	Елизабет Втора	Елизабет Втора	PER	PER-Queen-Elizabeth-II
+444	460	Съединените щати	Съединени щати	LOC	GPE-USA
+525	535	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+552	561	Евросъюза	Евросъюз	ORG	ORG-European-Union
+565	572	Брекзит	Брекзит	EVT	EVT-Brexit
+599	615	Съединените щати	Съединени щати	LOC	GPE-USA
+641	655	Великобритания	Великобритания	LOC	GPE-Great-Britain
+725	735	Франс прес	Франс прес	ORG	ORG-France-Presse
+753	758	Тръмп	Тръмп	PER	PER-Donald-Trump
+763	780	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+806	822	Съединените щати	Съединени щати	LOC	GPE-USA

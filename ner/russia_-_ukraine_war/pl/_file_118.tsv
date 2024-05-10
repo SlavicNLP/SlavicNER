@@ -1,0 +1,29 @@
+14	19	Rosji	Rosja	LOC	GPE-Russia
+38	47	polskiego	polski	ORG	ORG-Sejm-of-the-Republic-of-Poland
+50	68	niemieckiego Sejmu	niemiecki Sejm	ORG	ORG-Bundestag
+101	117	Obrony Narodowej	Obrony Narodowej	ORG	ORG-Komisja-Obrony-Narodowej
+119	138	Spraw Zagranicznych	Spraw Zagranicznych	ORG	ORG-Komisja-Spraw-Zagranicznych
+141	167	do spraw Unii Europejskiej	do spraw Unii Europejskiej	ORG	ORG-Komisja-do-spraw-Unii-Europejskiej
+168	183	polskiego Sejmu	polski Sejm	ORG	ORG-Sejm-of-the-Republic-of-Poland
+207	226	Spraw Zagranicznych	Spraw Zagranicznych	ORG	ORG-Auswärtiger-Ausschuss
+228	246	Spraw Europejskich	Spraw Europejskich	ORG	ORG-Ausschuss-für-die-Angelegenheiten-der-Europäischen-Union
+249	255	Obrony	Obrony	ORG	ORG-Verteidigungsausschuss
+256	278	niemieckiego Budestagu	niemiecki Budestag	ORG	ORG-Bundestag
+377	382	Rosji	Rosja	LOC	GPE-Russia
+431	438	Ukrainy	Ukraina	LOC	GPE-Ukraine
+441	458	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+686	691	Sejmu	Sejm	ORG	ORG-Sejm-of-the-Republic-of-Poland
+694	704	Bundestagu	Bundestag	ORG	ORG-Bundestag
+736	753	wojna na Ukrainie	wojna na Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+769	774	Rosję	Rosja	LOC	GPE-Russia
+997	1002	Rosji	Rosja	LOC	GPE-Russia
+1171	1180	polskiego	polski	ORG	ORG-Sejm-of-the-Republic-of-Poland
+1183	1201	niemieckiego Sejmu	niemiecki Sejm	ORG	ORG-Bundestag
+1279	1284	Buczy	Bucza	LOC	GPE-Bucha
+1286	1294	Irpienia	Irpień	LOC	GPE-Irpin
+1299	1308	Mariupolu	Mariupol	LOC	GPE-Mariupol
+1409	1414	Rosję	Rosja	LOC	GPE-Russia
+1508	1525	Wojna na Ukrainie	Wojna na Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+1568	1586	II wojny światowej	II wojna światowa	EVT	EVT-World-War-II
+1695	1713	II wojny światowej	II wojna światowa	EVT	EVT-World-War-II
+1875	1892	wojną na Ukrainie	wojna na Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War

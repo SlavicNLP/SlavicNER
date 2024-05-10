@@ -1,0 +1,24 @@
+0	6	Brexit	brexit	EVT	EVT-Brexit
+7	15	Británii	Británie	LOC	GPE-Great-Britain
+84	90	Londýn	Londýn	LOC	GPE-London
+93	101	Bruselem	Brusel	LOC	GPE-Brussles
+128	130	EU	EU	ORG	ORG-European-Union
+133	141	Británií	Británie	LOC	GPE-Great-Britain
+186	213	Světové obchodní organizace	Světová obchodní organizace	ORG	ORG-WTO-World-Trade-Organization
+215	218	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+320	326	Mayová	Mayová	PER	PER-Theresa-May
+388	419	Evropském hospodářském prostoru	Evropský hospodářský prostor	ORG	ORG-EEA-European-Economic-Area
+496	501	Davis	Davis	PER	PER-David-Davis
+535	541	brexit	brexit	EVT	EVT-Brexit
+602	615	BuzzFeed News	BuzzFeed News	PRO	PRO-Buzzfeed-website
+727	750	Ministerstvo pro brexit	Ministerstvo pro brexit	ORG	ORG-Ministry-of-Brexity
+763	774	David Davis	David Davis	PER	PER-David-Davis
+799	812	BuzzFeed News	BuzzFeed News	PRO	PRO-Buzzfeed-website
+867	875	Británie	Británie	LOC	GPE-Great-Britain
+878	880	EU	EU	ORG	ORG-European-Union
+881	898	Iain Duncan Smith	Iain Duncan Smith	PER	PER-Iain-Duncan-Smith
+1020	1027	brexitu	brexit	EVT	EVT-Brexit
+1173	1175	EU	EU	ORG	ORG-European-Union
+1214	1221	brexitu	brexit	EVT	EVT-Brexit
+1332	1340	Británii	Británie	LOC	GPE-Great-Britain
+1358	1360	EU	EU	ORG	ORG-European-Union

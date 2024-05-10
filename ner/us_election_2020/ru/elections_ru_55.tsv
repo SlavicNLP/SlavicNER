@@ -1,0 +1,129 @@
+9	12	США	США	LOC	GPE-USA
+14	19	Трамп	Трамп	PER	PER-Donald-Trump
+22	28	Байден	Байден	PER	PER-Joe-Biden
+73	79	Путина	Путин	PER	PER-Vladimir-Putin
+95	102	Украине	Украина	LOC	GPE-Ukraine
+127	130	США	США	LOC	GPE-USA
+169	174	Китая	Китай	LOC	GPE-China
+176	183	Украины	Украина	LOC	GPE-Ukraine
+186	192	России	Россия	LOC	GPE-Russia
+213	220	Байдена	Байден	PER	PER-Joe-Biden
+255	258	США	США	LOC	GPE-USA
+259	265	Трампа	Трамп	PER	PER-Donald-Trump
+268	275	Байдена	Байден	PER	PER-Joe-Biden
+283	290	REUTERS	REUTERS	PRO	ORG-Reuters
+315	341	Соединенных Штатов Америки	Соединенные Штаты Америки	LOC	GPE-USA
+345	367	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+368	378	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+400	406	Россию	Россия	LOC	GPE-Russia
+408	413	Китай	Китай	LOC	GPE-China
+416	420	Иран	Иран	LOC	GPE-Iran
+455	467	американские	американские	LOC	GPE-USA
+514	517	США	США	LOC	GPE-USA
+548	553	УНИАН	УНИАН	PRO	PRO-UNIAN
+616	624	Байденом	Байден	PER	PER-Joe-Biden
+627	634	Трампом	Трамп	PER	PER-Donald-Trump
+656	664	Нэшвилле	Нэшвилл	LOC	GPE-Nashville
+690	702	американским	американский	LOC	GPE-USA
+719	725	C-SPAN	C-SPAN	PRO	PRO-C-SPAN
+728	735	Youtube	Youtube	PRO	PRO-YouTube
+820	832	американские	американский	LOC	GPE-USA
+867	873	Байден	Байден	PER	PER-Joe-Biden
+898	904	Байден	Байден	PER	PER-Joe-Biden
+906	912	Россия	Россия	LOC	GPE-Russia
+997	1002	Китай	Китай	LOC	GPE-China
+1048	1052	Иран	Иран	LOC	GPE-Iran
+1123	1135	американский	американский	LOC	GPE-USA
+1199	1211	американский	американский	LOC	GPE-USA
+1239	1245	Байден	Байден	PER	PER-Joe-Biden
+1303	1316	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1340	1346	Путину	Путин	PER	PER-Vladimir-Putin
+1465	1471	Путину	Путин	PER	PER-Vladimir-Putin
+1492	1498	Байден	Байден	PER	PER-Joe-Biden
+1514	1524	демократов	демократы	ORG	ORG-Democratic-Party-USA
+1614	1620	Байден	Байден	PER	PER-Joe-Biden
+1645	1650	Трамп	Трамп	PER	PER-Donald-Trump
+1674	1685	российского	российский	LOC	GPE-Russia
+1697	1713	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+1774	1786	американских	американские	LOC	GPE-USA
+1796	1807	Афганистане	Афганистан	LOC	GPE-Afghanistan
+1817	1827	российский	российский	LOC	GPE-Russia
+1891	1895	НАТО	НАТО	ORG	ORG-NATO
+1912	1925	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1967	1987	Российской Федерации	Российская Федерация	LOC	GPE-Russia
+2025	2031	России	Россия	LOC	GPE-Russia
+2057	2062	Трамп	Трамп	PER	PER-Donald-Trump
+2077	2084	Байдена	Байден	PER	PER-Joe-Biden
+2121	2127	России	Россия	LOC	GPE-Russia
+2164	2170	Москвы	Москва	LOC	GPE-Moscow
+2194	2200	Путина	Путин	PER	PER-Vladimir-Putin
+2252	2258	Москвы	Москва	LOC	GPE-Moscow
+2270	2275	Трамп	Трамп	PER	PER-Donald-Trump
+2289	2292	США	США	LOC	GPE-USA
+2313	2320	Байдену	Байден	PER	PER-Joe-Biden
+2409	2414	Трамп	Трамп	PER	PER-Donald-Trump
+2442	2444	РФ	РФ	LOC	GPE-Russia
+2486	2492	России	Россия	LOC	GPE-Russia
+2519	2525	России	Россия	LOC	GPE-Russia
+2539	2544	Трамп	Трамп	PER	PER-Donald-Trump
+2558	2561	США	США	LOC	GPE-USA
+2603	2609	России	Россия	LOC	GPE-Russia
+2667	2672	Трамп	Трамп	PER	PER-Donald-Trump
+2731	2735	НАТО	НАТО	ORG	ORG-NATO
+2859	2865	России	Россия	LOC	GPE-Russia
+2881	2886	Трамп	Трамп	PER	PER-Donald-Trump
+2896	2901	Трамп	Трамп	PER	PER-Donald-Trump
+2960	2972	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+2988	2995	Украине	Украина	LOC	GPE-Ukraine
+3003	3009	Байден	Байден	PER	PER-Joe-Biden
+3114	3121	Украине	Украина	LOC	GPE-Ukraine
+3159	3172	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+3195	3198	США	США	LOC	GPE-USA
+3218	3223	Трамп	Трамп	PER	PER-Donald-Trump
+3238	3245	Байдена	Байден	PER	PER-Joe-Biden
+3251	3257	Россия	Россия	LOC	GPE-Russia
+3296	3299	США	США	LOC	GPE-USA
+3338	3343	Китая	Китай	LOC	GPE-China
+3345	3352	Украины	Украина	LOC	GPE-Ukraine
+3355	3361	России	Россия	LOC	GPE-Russia
+3382	3389	Байдена	Байден	PER	PER-Joe-Biden
+3400	3406	Трампа	Трамп	PER	PER-Donald-Trump
+3409	3416	Байдена	Байден	PER	PER-Joe-Biden
+3434	3441	Украине	Украина	LOC	GPE-Ukraine
+3478	3481	США	США	LOC	GPE-USA
+3485	3507	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3531	3541	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3599	3605	Путина	Путин	PER	PER-Vladimir-Putin
+3628	3643	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3721	3727	России	Россия	LOC	GPE-Russia
+3731	3736	Трамп	Трамп	PER	PER-Donald-Trump
+3745	3752	Байдена	Байден	PER	PER-Joe-Biden
+3887	3894	Украине	Украина	LOC	GPE-Ukraine
+3971	3976	Трамп	Трамп	PER	PER-Donald-Trump
+3980	3986	Байден	Байден	PER	PER-Joe-Biden
+4036	4043	Украине	Украина	LOC	GPE-Ukraine
+4047	4052	Китае	Китай	LOC	GPE-China
+4056	4062	Москве	Москва	LOC	GPE-Moscow
+4098	4103	Трамп	Трамп	PER	PER-Donald-Trump
+4122	4135	Хантер Байден	Хантер Байден	PER	PER-Hunter-Biden
+4179	4185	Москвы	Москва	LOC	GPE-Moscow
+4197	4202	УНИАН	УНИАН	PRO	PRO-UNIAN
+4205	4225	Президентские выборы	Президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+4228	4231	США	США	LOC	GPE-USA
+4269	4274	Трамп	Трамп	PER	PER-Donald-Trump
+4291	4305	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+4351	4361	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4386	4389	США	США	LOC	GPE-USA
+4390	4400	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4453	4460	Трампом	Трамп	PER	PER-Donald-Trump
+4463	4471	Байденом	Байден	PER	PER-Joe-Biden
+4506	4511	Трамп	Трамп	PER	PER-Donald-Trump
+4520	4533	коронавирусом	коронавирус	EVT	EVT-Covid-19
+4626	4632	Байден	Байден	PER	PER-Joe-Biden
+4642	4648	Трампа	Трамп	PER	PER-Donald-Trump
+4732	4737	Трамп	Трамп	PER	PER-Donald-Trump
+4775	4782	Байдена	Байден	PER	PER-Joe-Biden
+4817	4827	украинской	украинская	LOC	GPE-Ukraine
+4868	4875	Украины	Украина	LOC	GPE-Ukraine
+4893	4898	УНИАН	УНИАН	PRO	PRO-UNIAN
+4901	4909	Telegram	Telegram	PRO	PRO-Telegram

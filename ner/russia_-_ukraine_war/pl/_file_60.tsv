@@ -1,0 +1,58 @@
+30	35	Rosji	Rosja	LOC	GPE-Russia
+52	55	USA	USA	LOC	GPE-USA
+93	103	Bloomberga	Bloomberg	PRO	PRO-Bloomberg
+136	141	Rosji	Rosja	LOC	GPE-Russia
+179	197	Komisję Europejską	Komisja Europejska	ORG	ORG-European-Commission
+232	247	atak na Ukrainę	atak na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+292	299	Komisja	Komisja	ORG	ORG-European-Commission
+376	381	Rosji	Rosja	LOC	GPE-Russia
+385	388	USA	USA	LOC	GPE-USA
+487	496	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+565	571	Rosjan	Rosjanie	PER	GPE-Russia
+583	590	Europie	Europa	LOC	LOC-Europe
+628	636	Rosjanom	Rosjanie	PER	GPE-Russia
+736	742	Moskwa	Moskwa	LOC	GPE-Moscow
+861	876	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+880	902	ataku Rosji na Ukrainę	atak Rosji na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+924	929	Węgry	Węgry	LOC	GPE-Hungary
+1003	1019	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+1021	1028	Austria	Austria	LOC	GPE-Austria
+1031	1037	Niemcy	Niemcy	LOC	GPE-Germany
+1194	1199	Rosji	Rosja	LOC	GPE-Russia
+1290	1307	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1339	1346	Komisja	Komisja	ORG	ORG-European-Commission
+1422	1439	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1441	1447	Polska	Polska	LOC	GPE-Poland
+1449	1466	państwa bałtyckie	państwa bałtyckie	LOC	LOC-Baltic-countries
+1472	1481	nordyckie	nordyckie	LOC	LOC-Nordic-Countries
+1561	1564	USA	USA	LOC	GPE-USA
+1570	1603	Organizacji Narodów Zjednoczonych	Organizacja Narodów Zjednoczonych	ORG	ORG-United-Nations
+1604	1615	Nikki Haley	Nikki Haley	PER	PER-Nikki-Haley
+1649	1663	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1699	1709	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+1746	1753	Gazprom	Gazprom	ORG	ORG-Gazprom
+1756	1764	Rosnieft	Rosnieft	ORG	ORG-Rosneft
+1776	1784	Fox News	Fox News	PRO	PRO-Fox-News
+1845	1851	Putina	Putin	PER	PER-Vladimir-Putin
+1911	1916	Haley	Haley	PER	PER-Nikki-Haley
+1989	1994	Rosji	Rosja	LOC	GPE-Russia
+2041	2049	Putinowi	Putin	PER	PER-Vladimir-Putin
+2071	2080	Ukraińców	Ukraińcy	PER	GPE-Ukraine
+2139	2142	USA	USA	LOC	GPE-USA
+2209	2217	Gazpromu	Gazprom	ORG	ORG-Gazprom
+2220	2229	Rosnieftu	Rosnieft	ORG	ORG-Rosneft
+2278	2285	Europie	Europa	LOC	LOC-Europe
+2287	2297	Amerykanie	Amerykanie	PER	GPE-USA
+2323	2338	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+2425	2431	Europy	Europa	LOC	LOC-Europe
+2450	2455	Rosji	Rosja	LOC	GPE-Russia
+2457	2471	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+2577	2584	Niemiec	Niemcy	LOC	GPE-Germany
+2713	2755	Niemieckiego Instytutu Badań Ekonomicznych	Niemiecki Instytut Badań Ekonomicznych	ORG	ORG-German-Institute-for-Economic-Research
+2756	2773	Marcel Fratzscher	Marcel Fratzscher	PER	PER-Marcel-Fratzscher
+2785	2800	Financial Times	Financial Times	PRO	PRO-Financial-Times
+2950	2959	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+2960	2967	Reuters	Reuters	PRO	ORG-Reuters
+2968	2976	The Hill	The Hill	PRO	PRO-The-Hill
+2977	2992	Financial Times	Financial Times	PRO	PRO-Financial-Times
+2993	3009	Wojciech Jakóbik	Wojciech Jakóbik	PER	PER-Wojciech-Jakóbik

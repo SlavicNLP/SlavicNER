@@ -1,0 +1,30 @@
+0	12	The Guardian	The Guardian	PRO	PRO-The-Guardian
+14	21	Франция	Франция	LOC	GPE-France
+24	38	Великобритания	Великобритания	LOC	GPE-Great-Britain
+75	81	Лондон	Лондон	LOC	GPE-London
+82	87	Париж	Париж	LOC	GPE-Paris
+89	96	Франция	Франция	LOC	GPE-France
+99	113	Великобритания	Великобритания	LOC	GPE-Great-Britain
+149	156	Брекзит	Брекзит	EVT	EVT-Brexit
+201	206	Париж	Париж	LOC	GPE-Paris
+213	219	Рикетс	Рикетс	PER	PER-Peter-Ricketts
+276	282	Рикетс	Рикетс	PER	PER-Peter-Ricketts
+366	376	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+390	404	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+424	429	Париж	Париж	LOC	GPE-Paris
+432	438	Лондон	Лондон	LOC	GPE-London
+519	526	Брекзит	Брекзит	EVT	EVT-Brexit
+604	610	Рикетс	Рикетс	PER	PER-Peter-Ricketts
+765	781	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+849	863	Великобритания	Великобритания	LOC	GPE-Great-Britain
+885	889	НАТО	НАТО	ORG	ORG-NATO
+954	956	ЕС	ЕС	ORG	ORG-European-Union
+965	971	Рикетс	Рикетс	PER	PER-Peter-Ricketts
+973	987	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1012	1018	Макрон	Макрон	PER	PER-Emmanuel-Macron
+1107	1117	Форин офис	Форин офис	ORG	ORG-Foreign-Office
+1120	1127	Брекзит	Брекзит	EVT	EVT-Brexit
+1229	1235	Лондон	Лондон	LOC	GPE-London
+1238	1243	Париж	Париж	LOC	GPE-Paris
+1296	1307	Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov
+1354	1383	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

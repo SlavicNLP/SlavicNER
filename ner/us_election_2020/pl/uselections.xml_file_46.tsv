@@ -1,0 +1,26 @@
+0	3	CNN	CNN	PRO	PRO-CNN
+21	27	Bidena	Biden	PER	PER-Joe-Biden
+40	46	Trumpa	Trump	PER	PER-Donald-Trump
+48	66	Wirginia Zachodnia	Wirginia Zachodnia	LOC	GPE-West-Virginia
+71	85	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+146	148	AP	AP	ORG	ORG-AP-The-Associated-Press
+152	171	Wirginii Zachodniej	Wirginia Zachodnia	LOC	GPE-West-Virginia
+212	224	republikanie	republikanie	ORG	ORG-Republican-Party-USA
+263	275	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+361	376	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+430	449	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+451	455	Ohio	Ohio	LOC	GPE-Ohio
+461	480	Wirginii Zachodniej	Wirginia Zachodnia	LOC	GPE-West-Virginia
+482	486	Ohio	Ohio	LOC	GPE-Ohio
+663	698	amerykańskich wyborów prezydenckich	amerykańskie wybory prezydenckie	EVT	EVT-2020-United-States-Presidential-Election
+901	910	Florydzie	Floryda	LOC	GPE-Florida
+1045	1057	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1106	1111	Miami	Miami	LOC	GPE-Miami
+1114	1121	Orlando	Orlando	LOC	GPE-Orlando
+1143	1153	demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+1208	1220	republikanów	republikanie	ORG	ORG-Republican-Party-USA
+1320	1329	Florydzie	Floryda	LOC	GPE-Florida
+1332	1341	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1352	1361	Vermoncie	Vermont	LOC	GPE-Vermont
+1379	1381	AP	AP	ORG	ORG-AP-The-Associated-Press
+1434	1443	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA

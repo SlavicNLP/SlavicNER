@@ -1,0 +1,38 @@
+0	8	Covid-19	Covid-19	EVT	EVT-Covid-19
+29	57	Savinjski statistični regiji	Savinjska statistična regija	LOC	LOC-Savinjska-Statistical-Region
+69	77	SB Celje	SB Celje	LOC	LOC-Celje-General-Hospital
+116	130	Franc Vidnišar	Franc Vindišar	PER	PER-Franc-Vindišar
+172	177	covid	covid	EVT	EVT-Covid-19
+338	399	Regijskega regijskega štaba Civilne zaščite Zahodno Štajerske	Regijski štab Civilne zaščite Zahodno Štajerske	ORG	ORG-Regional-Headquarters-Of-Civil-Protection-ZahodnaStajerska
+446	456	covidom-19	covid-19	EVT	EVT-Covid-19
+490	509	Mestni občini Celje	Mestna občina Celje	LOC	GPE-Celje
+536	557	Mestni občini Velenje	Mestna občina Velenje	LOC	GPE-Velenje
+579	598	Domu svetega Jožefa	Dom svetega Jožefa	LOC	ORG-Saint-Joseph-Nursing-Home-for-Elderly
+705	720	Domu ob Savinji	Dom ob Savinji	LOC	ORG-Savinja-Nursing-Home-for-Eldely
+815	831	Teodor Gozdnikar	Teodor Gozdnikar	PER	PER-Teodor-Gozdnikar
+836	843	Velenju	Velenje	LOC	GPE-Velenje
+979	1007	Mladinskega centra in hostla	Mladinski center in hostel	LOC	ORG-Youth-Center-Celje
+1216	1237	Mestni občini Velenje	Mestna občina Velenje	LOC	GPE-Velenje
+1238	1253	Drago Martinšek	Drago Martinšek	PER	PER-Drago-Martinšek
+1309	1333	Splošni bolnišnici Celje	Splošna bolnišnica Celje	LOC	LOC-Celje-General-Hospital
+1378	1383	covid	covid	EVT	EVT-Covid-19
+1444	1458	Franc Vindišar	Franc Vindišar	PER	PER-Franc-Vindišar
+1513	1518	covid	covid	EVT	EVT-Covid-19
+1950	1958	ZD Laško	ZD Laško	ORG	ORG-Laško-Health-Center
+2143	2156	Rdečega križa	Rdeči križ	ORG	ORG-Red-Cross-Slovenia
+2293	2312	Mestni občini Celje	Mestna občina Celje	LOC	GPE-Celje
+2573	2596	Mladinskem centru Celje	Mladinski center Celje	LOC	ORG-Youth-Center-Celje
+2598	2600	MC	MC	ORG	ORG-Youth-Center-Celje
+2608	2630	Gimnaziji Center Celje	Gimnazija Center Celje	LOC	ORG-Gimnazija-Center-Celje
+2632	2635	GCC	GCC	ORG	ORG-Gimnazija-Celje-Center
+2788	2796	Vindišar	Vindišar	PER	PER-Franc-Vindišar
+2810	2819	Gozdnikar	Gozdnikar	PER	PER-Teodor-Gozdnikar
+3282	3284	MC	MC	ORG	ORG-Youth-Center-Celje
+3288	3291	GCC	GCC	ORG	ORG-Gimnazija-Celje-Center
+3466	3470	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+3497	3506	Martinšek	Martinšek	PER	PER-Drago-Martinšek
+3521	3526	Celja	Celje	LOC	GPE-Celje
+3569	3576	Velenju	Velenje	LOC	GPE-Velenje
+3654	3662	Vindišar	Vindišar	PER	PER-Franc-Vindišar
+4161	4169	Vindišar	Vindišar	PER	PER-Franc-Vindišar
+4507	4515	Vindišar	Vindišar	PER	PER-Franc-Vindišar

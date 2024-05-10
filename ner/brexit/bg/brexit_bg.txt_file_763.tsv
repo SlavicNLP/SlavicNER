@@ -1,0 +1,12 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+33	47	Великобритания	Великобритания	LOC	GPE-Great-Britain
+51	58	Брекзит	Брекзит	EVT	EVT-Brexit
+93	107	Великобритания	Великобритания	LOC	GPE-Great-Britain
+136	138	ЕС	ЕС	ORG	ORG-European-Union
+211	215	Билд	Билд	PRO	PRO-Bild
+218	228	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+311	320	Евросъюза	Евросъюз	ORG	ORG-European-Union
+330	336	Европа	Европа	LOC	LOC-Europe
+369	372	Мей	Мей	PER	PER-Theresa-May
+407	413	Лондон	Лондон	LOC	GPE-London
+625	629	ТРУД	Труд	PRO	PRO-Trud

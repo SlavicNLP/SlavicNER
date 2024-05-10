@@ -1,0 +1,14 @@
+36	44	Степанов	Степанов	PER	PER-Maksym-Stepanov
+71	78	Україну	Україна	LOC	GPE-Ukraine
+105	117	коронавірусу	коронавірус	EVT	EVT-Covid-19
+130	137	Україну	Україна	LOC	GPE-Ukraine
+173	188	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+205	212	Україна	Україна	LOC	GPE-Ukraine
+221	227	Японія	Японія	LOC	GPE-Japan
+229	243	Південна Корея	Південна Корея	LOC	GPE-South-Korea
+431	438	Україну	Україна	LOC	GPE-Ukraine
+533	538	грипу	грип	EVT	EVT-Influenza
+739	748	Степанова	Степанов	PER	PER-Maksym-Stepanov
+845	852	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+950	956	Pfizer	Pfizer	ORG	ORG-Pfizer
+1404	1414	Україна 24	Україна 24	PRO	PRO-Ukraine-24

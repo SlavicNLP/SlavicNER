@@ -1,0 +1,37 @@
+0	8	Facebook	Facebook	PRO	PRO-Facebook
+94	102	Guardian	Guardian	PRO	PRO-The-Guardian
+110	118	Observer	Observer	PRO	PRO-The-Observer
+146	157	Facebookiem	Facebook	PRO	PRO-Facebook
+169	188	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+341	355	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+358	361	USA	USA	LOC	GPE-USA
+382	389	Brexitu	Brexit	EVT	EVT-Brexit
+392	409	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+451	470	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+471	482	Chris Wylie	Chris Wylie	PER	PER-Christopher-Wylie
+578	587	Facebooka	Facebook	PRO	PRO-Facebook
+779	782	USA	USA	LOC	GPE-USA
+1005	1017	Steve Bannon	Steve Bannon	PER	PER-Steve-Bannon
+1048	1062	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1106	1120	Alexandr Kogan	Alexandr Kogan	PER	PER-Alexander-Kogan
+1136	1144	Mołdawii	Mołdawia	LOC	GPE-Moldova
+1170	1175	Rosji	Rosja	LOC	GPE-Russia
+1181	1202	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1268	1277	Facebooka	Facebook	PRO	PRO-Facebook
+1312	1317	Leave	Leave	ORG	ORG-Leave-EU
+1342	1359	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1362	1379	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1404	1412	Kongresu	Kongres	ORG	ORG-United-States-Congress
+1439	1448	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+1518	1527	Facebooka	Facebook	PRO	PRO-Facebook
+1528	1545	Marka Zuckerberga	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+1562	1583	Cambridge Ananalytica	Cambridge Ananalytica	ORG	ORG-Cambridge-Analytica
+1584	1598	Alexandra Nixa	Alexander Nix	PER	PER-Alexander-Nix
+1680	1699	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+1781	1797	Alexandra Kogana	Alexandr Kogan	PER	PER-Alexander-Kogan
+1822	1845	Global Science Research	Global Science Research	ORG	ORG-Global-Science-Research
+1877	1886	Facebooka	Facebook	PRO	PRO-Facebook
+1976	1981	Rosją	Rosja	LOC	GPE-Russia
+1983	1988	Kogan	Kogan	PER	PER-Alexander-Kogan
+2020	2041	Thisisyourdigitallife	Thisisyourdigitallife	PRO	PRO-Thisisyourdigitallife
+2173	2178	Rosji	Rosja	LOC	GPE-Russia

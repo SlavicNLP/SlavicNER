@@ -1,0 +1,14 @@
+0	10	Британците	британци	PER	GPE-Great-Britain
+41	43	ЕС	ЕС	ORG	ORG-European-Union
+78	88	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+99	105	Мюнхен	Мюнхен	LOC	GPE-München
+144	159	Европейски съюз	Европейски съюз	ORG	ORG-European-Union
+304	318	Великобритания	Великобритания	LOC	GPE-Great-Britain
+337	344	Ройтерс	Ройтерс	ORG	ORG-Reuters
+455	458	Мей	Мей	PER	PER-Theresa-May
+512	550	Мюнхенската конференция по сигурността	Мюнхенска конференция по сигурността	EVT	EVT-MSC-Munich-Security-Conference
+610	630	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+633	635	ЕС	ЕС	ORG	ORG-European-Union
+811	818	Брекзит	Брекзит	EVT	EVT-Brexit
+918	928	британците	британци	PER	GPE-Great-Britain
+987	989	ЕС	ЕС	ORG	ORG-European-Union

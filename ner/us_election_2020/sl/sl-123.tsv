@@ -1,0 +1,31 @@
+0	8	Cohenova	Cohen	PER	PER-Michael-Cohen
+18	24	Trumpu	Trump	PER	PER-Donald-Trump
+60	70	Las Vegasu	Las Vegas	LOC	GPE-Las-Vegas
+82	89	Melania	Melania	PER	PER-Melania-Trump
+166	180	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+181	194	Michael Cohen	Michael Cohen	PER	PER-Michael-Cohen
+250	333	Nelojalen: resnična zgodba nekdanjega osebnega odvetnika predsednika Donalda Trumpa	Nelojalen: resnična zgodba nekdanjega osebnega odvetnika predsednika Donalda Trumpa	PRO	PRO-Disloyal:-A-Memoir:-The-True-Story-of-the-Former-Personal-Attorney-to-President-Donald-J.-Trump
+372	377	Trump	Trump	PER	PER-Donald-Trump
+438	446	Skyhorse	Skyhorse	ORG	ORG-Skyhorse-Publishing
+651	656	Cohen	Cohen	PER	PER-Michael-Cohen
+881	887	Trumpa	Trump	PER	PER-Donald-Trump
+916	930	Stormy Daniels	Stormy Daniels	PER	PER-Stormy-Daniels
+968	975	Trumpom	Trump	PER	PER-Donald-Trump
+1028	1037	covida-19	covid-19	EVT	EVT-Covid-19
+1111	1117	Trumpu	Trump	PER	PER-Donald-Trump
+1171	1176	Cohen	Cohen	PER	PER-Michael-Cohen
+1212	1217	Trump	Trump	PER	PER-Donald-Trump
+1533	1539	Trumpa	Trump	PER	PER-Donald-Trump
+1595	1600	Cohen	Cohen	PER	PER-Michael-Cohen
+1617	1622	Trump	Trump	PER	PER-Donald-Trump
+1634	1638	Rusi	Rusi	PER	GPE-Russia
+1719	1723	Rusi	Rusi	PER	GPE-Russia
+1879	1885	Trumpa	Trump	PER	PER-Donald-Trump
+1984	1991	Trumpov	Trump	PER	PER-Donald-Trump
+2200	2219	Vladimirjem Putinom	Vladimir Putin	PER	PER-Vladimir-Putin
+2228	2240	Kremenčkovih	Kremenčkovi	PER	PER-The-Flintstones
+2322	2329	Melanii	Melania	PER	PER-Melania-Trump
+2400	2408	Trumpovo	Trump	PER	PER-Donald-Trump
+2455	2465	Las Vegasu	Las Vegas	LOC	GPE-Las-Vegas
+2530	2545	Sovjetske zveze	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+2639	2644	Cohen	Cohen	PER	PER-Michael-Cohen

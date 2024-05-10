@@ -1,0 +1,41 @@
+112	137	vladimir.vladimirovich.ru	vladimir.vladimirovich.ru	PRO	PRO-vladimir.vladimirovich.ru
+441	460	американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+534	544	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+590	593	США	США	LOC	GPE-USA
+844	849	Трамп	Трамп	PER	PER-Donald-Trump
+913	919	Байден	Байден	PER	PER-Joe-Biden
+1115	1122	русские	русские	PER	GPE-Russia
+1124	1131	китайцы	китайцы	PER	GPE-China
+1155	1159	Иран	Иран	LOC	GPE-Iran
+1183	1193	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+1281	1284	BLM	BLM	ORG	ORG-Black-Lives-Matter
+1297	1308	Белому дому	Белый дом	LOC	LOC-White-House
+1348	1354	Трампа	Трамп	PER	PER-Donald-Trump
+1393	1399	Байден	Байден	PER	PER-Joe-Biden
+1415	1421	Трампа	Трамп	PER	PER-Donald-Trump
+1541	1544	США	США	LOC	GPE-USA
+1572	1580	Нэшвилле	Нэшвилл	LOC	GPE-Nashville
+1688	1695	Украине	Украина	LOC	GPE-Ukraine
+1840	1849	Шепетовке	Шепетовка	LOC	GPE-Shepetivka
+1889	1897	Нэшвилле	Нэшвилл	LOC	GPE-Nashville
+1955	1961	Трампа	Трамп	PER	PER-Donald-Trump
+2094	2100	Трампа	Трамп	PER	PER-Donald-Trump
+2306	2316	демократов	демократы	ORG	ORG-Democratic-Party-USA
+2331	2361	Валерия Ильинична Новодворская	Валерия Ильинична Новодворская	PER	PER-Valeriya-Novodvorskaya
+2699	2706	майдана	майдан	EVT	EVT-Revolution-of-Dignity-Euromaidan-Ukraine-2014
+2778	2784	Байден	Байден	PER	PER-Joe-Biden
+2982	2988	Байден	Байден	PER	PER-Joe-Biden
+3079	3085	Трампа	Трамп	PER	PER-Donald-Trump
+3670	3684	Верховном суде	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+3716	3719	США	США	LOC	GPE-USA
+3751	3766	Верховным судом	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+3846	3857	Альберт Гор	Альберт Гор	PER	PER-Al-Gore
+3867	3887	Джордж Буш — младший	Джордж Буш — младший	PER	PER-George-Bush-Jr
+3919	3922	США	США	LOC	GPE-USA
+4022	4027	Трамп	Трамп	PER	PER-Donald-Trump
+4222	4234	коронавируса	коронавирус	EVT	EVT-Covid-19
+4799	4805	rt.com	rt.com	PRO	PRO-rt.com
+4823	4837	Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+4909	4922	Симоньян М. С	Симоньян М. С	PER	PER-Margarita-Simonyan
+4948	4954	Москва	Москва	LOC	GPE-Moscow
+4956	4969	Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street

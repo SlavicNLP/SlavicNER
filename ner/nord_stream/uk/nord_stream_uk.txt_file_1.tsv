@@ -1,0 +1,202 @@
+18	37	Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+147	149	ЄС	ЄС	LOC	ORG-European-Union
+425	456	Договорі до Енергетичної хартії	Договір до Енергетичної хартії	EVT	EVT-Energy-Charter-Treaty
+460	512	Договорі про заснування Енергетичного співтовариства	Договір про заснування Енергетичного співтовариства	EVT	EVT-Energy-Community-Treaty
+947	949	ЄС	ЄС	LOC	ORG-European-Union
+1072	1078	Швеції	Швеція	LOC	GPE-Sweden
+1088	1099	Нідерландах	Нідерланди	LOC	GPE-Holland
+1243	1249	Європі	Європа	LOC	LOC-Europe
+1446	1452	Європі	Європа	LOC	LOC-Europe
+1931	1937	Європі	Європа	LOC	LOC-Europe
+2201	2210	Німеччина	Німеччина	LOC	GPE-Germany
+2568	2574	Європі	Європа	LOC	LOC-Europe
+2585	2592	Газпром	Газпром	ORG	ORG-Gazprom
+2656	2661	Росія	Росія	LOC	GPE-Russia
+2750	2765	Східного Сибіру	Східний Сибір	LOC	LOC-East-Siberia
+2769	2774	Китаю	Китай	LOC	GPE-China
+2934	2939	Росії	Росія	LOC	GPE-Russia
+2967	2975	Газпрому	Газпром	ORG	ORG-Gazprom
+2991	2997	Європі	Європа	LOC	LOC-Europe
+3013	3018	Росії	Росія	LOC	GPE-Russia
+3068	3088	європейських країнах	європейська країна	LOC	LOC-Europe
+3141	3147	Європи	Європа	LOC	LOC-Europe
+3148	3153	Росія	Росія	LOC	GPE-Russia
+3200	3205	Ямалі	Ямал	LOC	GPE-Yamal
+3267	3284	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+3360	3377	Північний потік-1	Північний потік-1	ORG	ORG-Nord-Stream-AG
+3461	3467	Європі	Європа	LOC	LOC-Europe
+3787	3793	Європі	Європа	LOC	LOC-Europe
+3945	3952	Statoil	Statoil	ORG	ORG-Statoil
+3955	3963	GasTerra	GasTerra	ORG	ORG-GasTerra
+4545	4550	Росії	Росія	LOC	GPE-Russia
+4554	4560	Алжиру	Алжир	LOC	GPE-Algeria
+4619	4636	арбітражного суду	арбітражний суд	ORG	ORG-Arbitration-Court
+4639	4649	Стокгольмі	Стокгольм	LOC	GPE-Stockholm
+4696	4702	Європи	Європа	LOC	LOC-Europe
+4737	4740	США	США	LOC	GPE-USA
+5015	5041	Міжнародним газовим союзом	Міжнародний газовий союз	ORG	ORG-International-Gas-Union
+5096	5102	Європі	Європа	LOC	LOC-Europe
+5446	5448	ЄС	ЄС	LOC	ORG-European-Union
+5502	5509	Україна	Україна	LOC	GPE-Ukraine
+5510	5515	Росія	Росія	LOC	GPE-Russia
+5516	5524	Білорусь	Білорусь	LOC	GPE-Belarus
+5569	5576	Україну	Україна	LOC	GPE-Ukraine
+5615	5623	Білорусі	Білорусь	LOC	GPE-Belarus
+5634	5636	РФ	РФ	LOC	GPE-Russia
+5770	5775	Росія	Росія	LOC	GPE-Russia
+5897	5904	України	Україна	LOC	GPE-Ukraine
+5989	5991	РФ	РФ	LOC	GPE-Russia
+6012	6020	Білорусі	Білорусь	LOC	GPE-Belarus
+6069	6076	Мінська	Мінськ	LOC	GPE-Minsk
+6137	6139	РФ	РФ	LOC	GPE-Russia
+6142	6151	Білоруссю	Білорусь	LOC	GPE-Belarus
+6274	6281	Мінська	Мінськ	LOC	GPE-Minsk
+6498	6515	арбітражного суду	арбітражний суд	ORG	ORG-Arbitration-Court
+6611	6629	президент Білорусі	президент Білорусі	PER	PER-Alexander-Lukashenko
+6872	6878	Європи	Європа	LOC	LOC-Europe
+6922	6938	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+6968	6971	NBP	NBP	ORG	ORG-NBP
+6973	6997	National Balancing Point	National Balancing Point	ORG	ORG-National-Balancing-Point
+7009	7015	Європі	Європа	LOC	LOC-Europe
+7070	7075	Чехії	Чехія	LOC	GPE-Czech-Republic
+7077	7084	Іспанії	Іспанія	LOC	GPE-Spain
+7088	7094	Польщі	Польща	LOC	GPE-Poland
+7175	7181	Європі	Європа	LOC	LOC-Europe
+7221	7239	ICE Futures Europe	ICE Futures Europe	ORG	ORG-ICE-Futures-Europe
+7241	7247	Лондон	Лондон	LOC	GPE-London
+7250	7259	APX-Endex	APX-Endex	ORG	ORG-APX-Endex
+7261	7270	Амстердам	Амстердам	LOC	GPE-Amsterdam
+7273	7276	EEX	EEX	ORG	ORG-EEX
+7278	7285	Лейпциг	Лейпциг	LOC	GPE-Leipzig
+7453	7456	TTF	TTF	ORG	ORG-TTF
+7489	7492	NBP	NBP	ORG	ORG-NBP
+7636	7639	NCG	NCG	ORG	ORG-NCG-NetConnect-Germany
+7641	7652	Дюссельдорф	Дюссельдорф	LOC	GPE-Dusseldorf
+7724	7731	Україні	Україна	LOC	GPE-Ukraine
+8439	8444	Росії	Росія	LOC	GPE-Russia
+8655	8663	Газпрому	Газпром	ORG	ORG-Gazprom
+8743	8749	Європу	Європа	LOC	LOC-Europe
+8974	8979	Росії	Росія	LOC	GPE-Russia
+9179	9184	Росії	Росія	LOC	GPE-Russia
+9331	9339	Газпрому	Газпром	ORG	ORG-Gazprom
+9376	9395	Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+9541	9543	ЄС	ЄС	LOC	ORG-European-Union
+9546	9548	РФ	РФ	LOC	GPE-Russia
+9747	9756	Євросоюзі	Євросоюз	LOC	ORG-European-Union
+9911	9913	РФ	РФ	LOC	GPE-Russia
+9944	9951	Газпром	Газпром	ORG	ORG-Gazprom
+10029	10036	України	Україна	LOC	GPE-Ukraine
+10142	10155	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+10199	10202	EWI	EWI	ORG	ORG-EWI
+10204	10236	Energiewirtschaftliches Institut	Energiewirtschaftliches Institut	ORG	ORG-EWI
+10241	10246	Кельн	Кельн	LOC	GPE-Koln
+10281	10283	ЄС	ЄС	LOC	ORG-European-Union
+10494	10504	Словаччини	Словаччина	LOC	GPE-Slovakia
+10506	10511	Чехії	Чехія	LOC	GPE-Czech-Republic
+10513	10521	Угорщини	Угорщина	LOC	GPE-Hungary
+10525	10531	Польщі	Польща	LOC	GPE-Poland
+10663	10668	Росія	Росія	LOC	GPE-Russia
+10760	10766	Кремля	Кремль	ORG	ORG-Kremlin
+10940	10947	України	Україна	LOC	GPE-Ukraine
+11014	11043	Центральної та Східної Європи	Центральна та Східна Європа	LOC	LOC-Central-Eastern-Europe
+11090	11097	Україні	Україна	LOC	GPE-Ukraine
+11269	11274	Росія	Росія	LOC	GPE-Russia
+11321	11323	ЄС	ЄС	LOC	ORG-European-Union
+11344	11366	"НАК ""Нафтогаз України"""	"НАК ""Нафтогаз України"""	ORG	ORG-Naftogaz
+11464	11483	Північного потоку-1	Північний потік-1	ORG	ORG-Nord-Stream-AG
+11565	11572	України	Україна	LOC	GPE-Ukraine
+11628	11630	ЄС	ЄС	LOC	ORG-European-Union
+11728	11735	Газпром	Газпром	ORG	ORG-Gazprom
+11768	11774	Європі	Європа	LOC	LOC-Europe
+11996	12011	Західній Європі	Західна Європа	LOC	LOC-Western-Europe
+12069	12077	Україною	Україна	LOC	GPE-Ukraine
+12122	12132	Словаччині	Словаччина	LOC	GPE-Slovakia
+12136	12141	Чехії	Чехія	LOC	GPE-Czech-Republic
+12428	12450	"НАК ""Нафтогаз України"""	"НАК ""Нафтогаз України"""	ORG	ORG-Naftogaz
+12453	12466	"ВАТ ""Газпром"""	"ВАТ ""Газпром"""	ORG	ORG-Gazprom
+12732	12749	Північний потік-1	Північний потік-1	ORG	ORG-Nord-Stream-AG
+12813	12819	Європи	Європа	LOC	LOC-Europe
+12855	12862	Україну	Україна	LOC	GPE-Ukraine
+12958	12975	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+13065	13082	Північний поток-1	Північний поток-1	ORG	ORG-Nord-Stream-AG
+13130	13137	Газпром	Газпром	ORG	ORG-Gazprom
+13175	13182	Україну	Україна	LOC	GPE-Ukraine
+13217	13223	Європу	Європа	LOC	LOC-Europe
+13256	13263	Україна	Україна	LOC	GPE-Ukraine
+13310	13312	ЄС	ЄС	LOC	ORG-European-Union
+13488	13497	Болгарією	Болгарія	LOC	GPE-Bulgaria
+13523	13526	США	США	LOC	GPE-USA
+13560	13575	Південний потік	Південний потік	ORG	ORG-South-Stream
+13641	13656	Турецький потік	Турецький потік	ORG	ORG-TurkStream
+13694	13701	Румунію	Румунія	LOC	GPE-Romania
+13772	13784	Єврокомісією	Єврокомісія	ORG	ORG-European-Commission
+13972	13979	України	Україна	LOC	GPE-Ukraine
+14084	14092	Болгарія	Болгарія	LOC	GPE-Bulgaria
+14094	14102	Угорщина	Угорщина	LOC	GPE-Hungary
+14104	14110	Боснія	Боснія	LOC	GPE-Bosnia-and-Herzegovina
+14104	14124	Боснія і Герцеговина	Боснія і Герцеговина	LOC	GPE-Bosnia-and-Herzegovina
+14126	14135	Македонія	Македонія	LOC	GPE-Northern-Macedonia
+14137	14143	Сербія	Сербія	LOC	GPE-Serbia
+14145	14154	Фінляндія	Фінляндія	LOC	GPE-Finland
+14164	14170	Балтії	Балтії	LOC	LOC-Baltic-countries
+14237	14243	Польща	Польща	LOC	GPE-Poland
+14245	14252	Румунія	Румунія	LOC	GPE-Romania
+14255	14261	Греція	Греція	LOC	GPE-Greece
+14337	14345	Болгарії	Болгарія	LOC	GPE-Bulgaria
+14347	14356	Фінляндії	Фінляндія	LOC	GPE-Finland
+14358	14364	Боснії	Боснія	LOC	GPE-Bosnia-and-Herzegovina
+14358	14379	Боснії та Герцеговині	Боснія та Герцеговина	LOC	GPE-Bosnia-and-Herzegovina
+14383	14392	Македонії	Македонія	LOC	GPE-Northern-Macedonia
+14399	14406	Естонії	Естонія	LOC	GPE-Estonia
+14413	14419	Сербії	Сербія	LOC	GPE-Serbia
+14426	14431	Литві	Литва	LOC	GPE-Lithuania
+14438	14446	Угорщині	Угорщина	LOC	GPE-Hungary
+14453	14460	Румунії	Румунія	LOC	GPE-Romania
+14469	14475	Польщі	Польща	LOC	GPE-Poland
+14494	14497	МЕА	МЕА	ORG	ORG-MEA
+14589	14591	ЄС	ЄС	LOC	ORG-European-Union
+14825	14832	України	Україна	LOC	GPE-Ukraine
+14983	14989	Європи	Європа	LOC	LOC-Europe
+14991	14994	США	США	LOC	GPE-USA
+14998	15002	Азії	Азія	LOC	LOC-Asia
+15065	15072	України	Україна	LOC	GPE-Ukraine
+15610	15617	України	Україна	LOC	GPE-Ukraine
+15865	15872	України	Україна	LOC	GPE-Ukraine
+15884	15895	Ernst&Young	Ernst&Young	ORG	ORG-Ernst-and-Young
+16181	16196	Mac Donald Mott	Mac Donald Mott	ORG	ORG-Mac-Donald-Mott
+16218	16225	України	Україна	LOC	GPE-Ukraine
+16383	16395	Укртрансгазу	Укртрансгаз	ORG	ORG-Ukrtransgas
+16472	16479	України	Україна	LOC	GPE-Ukraine
+16562	16571	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+16705	16730	Стокгольмського арбітражу	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+16740	16749	Газпромом	Газпромом	ORG	ORG-Gazprom
+16870	16874	НАКу	НАК	ORG	ORG-Naftogaz
+16950	16961	Укртрансгаз	Укртрансгаз	ORG	ORG-Ukrtransgas
+17236	17243	України	Україна	LOC	GPE-Ukraine
+17425	17445	Російської Федерації	Російська Федерація	LOC	GPE-Russia
+17461	17492	Договору до Енергетичної хартії	Договір до Енергетичної хартії	EVT	EVT-Energy-Charter-Treaty
+17494	17497	ДЕХ	ДЕХ	EVT	EVT-Energy-Charter-Treaty
+17700	17703	ДЕХ	ДЕХ	EVT	EVT-Energy-Charter-Treaty
+17987	17989	ЄС	ЄС	LOC	ORG-European-Union
+18095	18146	Договір про заснування Енергетичного співтовариства	Договір про заснування Енергетичного співтовариства	EVT	EVT-Energy-Charter-Treaty
+18149	18187	Угода про асоціацію між Україною та ЄС	Угода про асоціацію між Україною та ЄС	EVT	EVT-Association-Agreement-Ukraine-and-European-Union
+18328	18347	Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+18471	18478	України	Україна	LOC	GPE-Ukraine
+18519	18526	Україна	Україна	LOC	GPE-Ukraine
+18590	18628	Конференції сторін Енергетичної хартії	Конференція сторін Енергетичної хартії	EVT	EVT-Energy-Charter-Conference
+18687	18690	ДЕХ	ДЕХ	EVT	EVT-Energy-Charter-Treaty
+18801	18823	Конференції сторін ДЕХ	Конференція сторін ДЕХ	EVT	EVT-Energy-Charter-Conference
+18826	18839	Туркменистані	Туркменистан	LOC	GPE-Turkmenistan
+18865	18884	Енергетичній хартії	Енергетична хартія	EVT	EVT-Energy-Charter-Treaty
+18893	18900	Румунія	Румунія	LOC	GPE-Romania
+18963	18968	Чехії	Чехія	LOC	GPE-Czech-Republic
+18970	18980	Словаччини	Словаччина	LOC	GPE-Slovakia
+18982	18988	Польщі	Польща	LOC	GPE-Poland
+18990	18998	Угорщини	Угорщина	LOC	GPE-Hungary
+19000	19007	Естонії	Естонія	LOC	GPE-Estonia
+19009	19014	Литви	Литва	LOC	GPE-Lithuania
+19016	19022	Латвії	Латвія	LOC	GPE-Latvia
+19026	19033	Румунії	Румунія	LOC	GPE-Romania
+19065	19076	Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+19096	19115	Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+19130	19137	України	Україна	LOC	GPE-Ukraine

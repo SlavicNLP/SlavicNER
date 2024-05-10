@@ -1,0 +1,37 @@
+12	19	Moderna	Moderna	ORG	ORG-Moderna
+70	78	Covid-19	Covid-19	EVT	EVT-Covid-19
+110	118	Covid-19	Covid-19	EVT	EVT-Covid-19
+236	253	Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+258	264	Sanofi	Sanofi	ORG	ORG-Sanofi
+353	366	коронавірусом	коронавірус	EVT	EVT-Covid-19
+453	460	Moderna	Moderna	ORG	ORG-Moderna
+710	717	Moderna	Moderna	ORG	ORG-Moderna
+803	873	Управлінням по передовим дослідженням і розробкам в галузі біомедицини	Управлінням по передовим дослідженням і розробкам в галузі біомедицини	ORG	ORG-BARDA-USA
+879	884	BARDA	BARDA	ORG	ORG-BARDA-USA
+908	937	Міністерства охорони здоров’я	Міністерство охорони здоров’я	ORG	ORG-Ministry-of-Healthcare-Ukraine
+984	997	Стефан Бансел	Стефан Бансел	PER	PER-Stefan-Bansel
+1019	1026	Moderna	Moderna	ORG	ORG-Moderna
+1054	1060	Трампа	Трам	PER	PER-Donald-Trump
+1242	1250	пандемію	пандемія	EVT	EVT-Covid-19
+1553	1560	Moderna	Moderna	ORG	ORG-Moderna
+1595	1605	Lonza Ltd.	Lonza Ltd.	ORG	ORG-Lonza
+1647	1653	Базелі	Базель	LOC	GPE-Basel
+1655	1664	Швейцарія	Швейцарія	LOC	GPE-Switzerland
+1791	1796	Lonza	Lonza	ORG	ORG-Lonza
+1934	1947	Стефан Бансел	Стефан Бансел	PER	PER-Stefan-Bansel
+1991	2004	коронавірусом	коронавірус	EVT	EVT-Covid-19
+2126	2133	Moderna	Moderna	ORG	ORG-Moderna
+2293	2300	Бансель	Бансель	PER	PER-Stefan-Bansel
+2450	2456	Стефан	Стефан	PER	PER-Stefan-Bansel
+3066	3074	Covid-19	Covid-19	EVT	EVT-Covid-19
+3085	3094	мРНК-1273	мРНК-1273	PRO	PRO-mRNA-Vaccine
+3668	3677	мРНК-1273	мРНК-1273	PRO	PRO-mRNA-Vaccine
+3680	3688	пандемія	пандемія	EVT	EVT-Covid-19
+3746	3753	Модерні	Модерн	ORG	ORG-Moderna
+4047	4055	COVID-19	COVID-19	EVT	EVT-Covid-19
+4515	4522	Moderna	Moderna	ORG	ORG-Moderna
+4738	4745	Moderna	Moderna	ORG	ORG-Moderna
+5026	5034	РНК-1273	РНК-1273	PRO	PRO-mRNA-Vaccine
+5270	5281	коронавірус	коронавірус	EVT	EVT-Covid-19
+5552	5559	Тік-Ток	Тік-Ток	PRO	PRO-Tik-Tok
+5700	5707	Україні	Україна	LOC	GPE-Ukraine

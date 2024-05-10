@@ -1,0 +1,14 @@
+136	146	covidem-19	covid-19	EVT	EVT-Covid-19
+200	211	koronavirem	koronavirus	EVT	EVT-Covid-19
+281	285	Čech	Čech	PER	GPE-Czech-Republic
+299	326	Českého statistického úřadu	Český statistický úřad	ORG	ORG-Czech-Statistical-Agency
+445	451	Evropy	Evropa	LOC	LOC-Europe
+453	457	Asie	Asie	LOC	LOC-Asia
+460	467	Ameriky	Amerika	LOC	LOC-America
+776	787	Jozef Čupka	Jozef Čupka	PER	PER-Jozef-Čupka
+793	801	covid-19	covid-19	EVT	EVT-Covid-19
+1420	1431	koronavirus	koronavirus	EVT	EVT-Covid-19
+1447	1452	Čupky	Čupka	PER	PER-Jozef-Čupka
+2371	2376	Čupky	Čupka	PER	PER-Jozef-Čupka
+2499	2510	koronavirem	koronavirus	EVT	EVT-Covid-19
+2528	2533	Česku	Česko	LOC	GPE-Czech-Republic

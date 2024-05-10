@@ -1,0 +1,44 @@
+11	19	Covid-19	Covid-19	EVT	EVT-Covid-19
+25	34	Sloveniji	Slovenija	LOC	GPE-Slovenia
+101	117	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+134	143	covida-19	covid-19	EVT	EVT-Covid-19
+206	212	Evropi	Evropa	LOC	LOC-Europe
+256	317	ameriškega Inštituta za zdravstveno meroslovje in ocenjevanje	ameriški Inštitut za zdravstveno meroslovje in ocenjevanje	ORG	ORG-Institute-for-Health-Metrics-and-Evaluation
+319	323	IHME	IHME	ORG	ORG-Institute-for-Health-Metrics-and-Evaluation
+328	334	Evropi	Evropa	LOC	LOC-Europe
+404	423	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+427	436	Sloveniji	Slovenija	LOC	GPE-Slovenia
+443	459	Novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+496	505	Kitajskem	Kitajska	LOC	GPE-China
+550	555	Aziji	Azija	LOC	LOC-Asia
+583	616	Svetovne zdravstvene organizacije	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+618	621	WHO	WHO	ORG	ORG-World-Health-Organization
+642	648	Evropa	Evropa	LOC	LOC-Europe
+764	780	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+800	809	covida-19	covid-19	EVT	EVT-Covid-19
+854	861	Španiji	Španija	LOC	GPE-Spain
+863	870	Italiji	Italija	LOC	GPE-Italy
+874	882	Franciji	Francija	LOC	GPE-France
+903	908	Otoku	Otok	LOC	GPE-Great-Britain
+1043	1070	francoska tiskovna agencija	francoska tiskovna agencija	ORG	ORG-AFP-Agence-France-Press
+1071	1074	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1077	1081	IHME	IHME	ORG	ORG-Institute-for-Health-Metrics-and-Evaluation
+1373	1389	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+1454	1473	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1498	1505	Italiji	Italija	LOC	GPE-Italy
+1568	1575	Španija	Španija	LOC	GPE-Spain
+1607	1615	Francija	Francija	LOC	GPE-France
+1688	1692	IHME	IHME	ORG	ORG-Institute-for-Health-Metrics-and-Evaluation
+1693	1714	Christopherja Murraya	Christopher Murray	PER	PER-Christopher-Murray
+1817	1820	ZDA	ZDA	LOC	GPE-USA
+1828	1837	covida-19	covid-19	EVT	EVT-Covid-19
+1864	1870	Murray	Murray	PER	PER-Christopher-Murray
+2009	2012	ZDA	ZDA	LOC	GPE-USA
+2056	2065	covida-19	covid-19	EVT	EVT-Covid-19
+2068	2075	Italiji	Italija	LOC	GPE-Italy
+2079	2086	Španiji	Španija	LOC	GPE-Spain
+2171	2187	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+2329	2333	IHME	IHME	ORG	ORG-Institute-for-Health-Metrics-and-Evaluation
+2426	2432	Murray	Murray	PER	PER-Christopher-Murray
+2714	2723	Slovenijo	Slovenija	LOC	GPE-Slovenia
+2769	2778	covidu-19	covid-19	EVT	EVT-Covid-19

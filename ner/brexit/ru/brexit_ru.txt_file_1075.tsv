@@ -1,0 +1,28 @@
+0	8	Захарова	Захарова	PER	PER-Maria-Zaharova
+26	34	Джонсона	Джонсон	PER	PER-Boris-Johnson
+83	86	Мэй	Мэй	PER	PER-Theresa-May
+88	96	Захарова	Захарова	PER	PER-Maria-Zaharova
+114	122	Джонсона	Джонсон	PER	PER-Boris-Johnson
+171	174	Мэй	Мэй	PER	PER-Theresa-May
+202	212	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+213	227	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+286	301	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+382	406	британском правительстве	британское правительство	ORG	ORG-the-UK-Government
+421	431	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+462	470	Facebook	Facebook	PRO	PRO-Facebook
+516	531	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+804	809	Т.Мэй	Т.Мэй	PER	PER-Theresa-May
+822	831	Захаровой	Захарова	PER	PER-Maria-Zaharova
+943	951	Эймсбери	Эймсбери	LOC	LOC-Amesbury
+1042	1050	Захарова	Захарова	PER	PER-Maria-Zaharova
+1072	1078	Сергей	Сергей	PER	PER-Siergiej-Skripal
+1081	1094	Юлия Скрипали	Юлия Скрипаль	PER	PER-Yulia-Skripal
+1118	1126	Солсбери	Солсбери	LOC	GPE-Salisbury
+1294	1309	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1358	1366	Захарова	Захарова	PER	PER-Maria-Zaharova
+1445	1458	Даунинг-Стрит	Даунинг-Стрит	LOC	LOC-Downing-Street
+1497	1511	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1564	1582	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+1583	1598	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1726	1733	Брексит	Брексит	EVT	EVT-Brexit
+1734	1745	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis

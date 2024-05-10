@@ -1,0 +1,17 @@
+0	9	Австралия	Австралия	LOC	GPE-Australia
+43	55	коронавируса	коронавирус	EVT	EVT-Covid-19
+56	63	Франция	Франция	LOC	GPE-France
+66	80	Великобритания	Великобритания	LOC	GPE-Great-Britain
+120	129	Австралия	Австралия	LOC	GPE-Australia
+253	265	коронавируса	коронавирус	EVT	EVT-Covid-19
+315	318	САЩ	САЩ	LOC	GPE-USA
+319	331	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+392	406	Великобритания	Великобритания	LOC	GPE-Great-Britain
+409	416	Франция	Франция	LOC	GPE-France
+493	503	пандемията	пандемия	EVT	EVT-Pandemic
+542	554	Скот Морисън	Скот Морисън	PER	PER-Scott-Morrison
+590	603	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+627	630	СЗО	СЗО	ORG	ORG-WHO
+661	670	Австралия	Австралия	LOC	GPE-Australia
+738	741	СЗО	СЗО	ORG	ORG-WHO
+831	838	Ройтерс	Ройтерс	ORG	ORG-Reuters

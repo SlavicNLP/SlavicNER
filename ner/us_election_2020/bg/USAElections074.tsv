@@ -1,0 +1,47 @@
+0	6	Байдън	Байдън	PER	PER-Joe-Biden
+60	74	републиканците	републиканци	PER	ORG-Republican-Party-USA
+101	107	Байдън	Байдън	PER	PER-Joe-Biden
+472	482	либералите	либерали	PER	ORG-Democratic-Party-USA
+505	516	центристите	центристи	PER	ORG-Republican-Party-USA
+613	625	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+644	650	Байдън	Байдън	PER	PER-Joe-Biden
+895	901	Байдън	Байдън	PER	PER-Joe-Biden
+957	968	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+971	980	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+1160	1165	Тръмп	Тръмп	PER	PER-Donald-Trump
+1295	1317	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+1347	1353	Байдън	Байдън	PER	PER-Joe-Biden
+1456	1462	Байдън	Байдън	PER	PER-Joe-Biden
+1523	1534	демократите	демократи	PER	ORG-Democratic-Party-USA
+1558	1564	Сената	Сенат	ORG	ORG-United-States-Senate
+1639	1653	горната камара	Горна камара	ORG	ORG-United-States-Senate
+1668	1674	Байдън	Байдън	PER	PER-Joe-Biden
+1811	1819	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1944	1949	Тръмп	Тръмп	PER	PER-Donald-Trump
+1971	1981	американци	американци	PER	GPE-USA
+2013	2018	Тръмп	Тръмп	PER	PER-Donald-Trump
+2114	2123	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2127	2134	Холивуд	Холивуд	LOC	GPE-Hollywood
+2293	2298	Тръмп	Тръмп	PER	PER-Donald-Trump
+2329	2335	Байдън	Байдън	PER	PER-Joe-Biden
+2513	2519	Байдън	Байдън	PER	PER-Joe-Biden
+2522	2527	Тръмп	Тръмп	PER	PER-Donald-Trump
+2571	2577	Байдън	Байдън	PER	PER-Joe-Biden
+2582	2591	Белия дом	Бял дом	LOC	LOC-White-House
+2725	2734	Белия дом	Бял дом	LOC	LOC-White-House
+2779	2785	Туитър	Туитър	PRO	PRO-Twitter
+2893	2899	Байдън	Байдън	PER	PER-Joe-Biden
+2951	2963	американците	американци	PER	GPE-USA
+2971	2980	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3067	3076	демократи	демократи	PER	ORG-Democratic-Party-USA
+3119	3133	републиканците	републиканци	PER	ORG-Republican-Party-USA
+3167	3173	Байдън	Байдън	PER	PER-Joe-Biden
+3218	3224	Байдън	Байдън	PER	PER-Joe-Biden
+3227	3233	Сената	Сенат	ORG	ORG-United-States-Senate
+3283	3304	Голямата стара партия	Голяма стара партия	ORG	ORG-Republican-Party-USA
+3350	3362	републиканци	републиканци	PER	ORG-Republican-Party-USA
+3365	3392	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+3395	3401	Сената	Сенат	ORG	ORG-United-States-Senate
+3458	3471	Валери Джарет	Валери Джарет	PER	PER-Valerie-Jarrett
+3492	3498	Байдън	Байдън	PER	PER-Joe-Biden
+3542	3553	Барак Обама	Барак Обама	PER	PER-Barack-Obama

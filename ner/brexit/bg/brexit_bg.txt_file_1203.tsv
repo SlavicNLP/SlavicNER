@@ -1,0 +1,48 @@
+55	61	Лондон	Лондон	LOC	GPE-London
+77	87	британците	британци	PER	GPE-Great-Britain
+144	151	Брекзит	Брекзит	EVT	EVT-Brexit
+208	223	The Independent	The Independent	PRO	PRO-The-Independent
+257	277	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+289	303	Великобритания	Великобритания	LOC	GPE-Great-Britain
+348	355	Брекзит	Брекзит	EVT	EVT-Brexit
+437	453	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+508	516	британци	британци	PER	GPE-Great-Britain
+586	588	ЕС	ЕС	ORG	ORG-European-Union
+646	653	Брекзит	Брекзит	EVT	EVT-Brexit
+700	702	ЕС	ЕС	ORG	ORG-European-Union
+740	742	ЕС	ЕС	ORG	ORG-European-Union
+775	781	Лондон	Лондон	LOC	GPE-London
+804	814	британците	британци	PER	GPE-Great-Britain
+870	877	Брекзит	Брекзит	EVT	EVT-Brexit
+894	908	Великобритания	Великобритания	LOC	GPE-Great-Britain
+983	995	The Guardian	The Guardian	PRO	PRO-The-Guardian
+1365	1371	Берлин	Берлин	LOC	GPE-Berlin
+1421	1428	Брекзит	Брекзит	EVT	EVT-Brexit
+1431	1451	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1689	1696	Франция	Франция	LOC	GPE-France
+1764	1778	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1808	1815	Франция	Франция	LOC	GPE-France
+1907	1914	Испания	Испания	LOC	GPE-Spain
+2135	2141	Лондон	Лондон	LOC	GPE-London
+2161	2168	Брекзит	Брекзит	EVT	EVT-Brexit
+2213	2229	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+2253	2267	Доминик Лоусън	Доминик Лоусън	PER	PER-Dominic-Lawson
+2316	2323	Брекзит	Брекзит	EVT	EVT-Brexit
+2363	2393	член 50 от Лисабонския договор	член 50 от Лисабонския договор	PRO	PRO-Article-50
+2434	2450	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2534	2554	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+2610	2617	Брекзит	Брекзит	EVT	EVT-Brexit
+2644	2651	Брюксел	Брюксел	LOC	GPE-Brussles
+2691	2711	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2714	2716	ЕС	ЕС	ORG	ORG-European-Union
+2718	2725	Брюксел	Брюксел	LOC	GPE-Brussles
+2744	2761	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+2799	2806	Брекзит	Брекзит	EVT	EVT-Brexit
+2807	2821	Ги Верховстадт	Ги Верховстадт	PER	PER-Guy-Verhofstadt
+2890	2904	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2917	2933	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2960	2975	Sunday Exspress	Sunday Express	PRO	PRO-Sunday-Express
+2992	3003	Верховстадт	Верховстадт	PER	PER-Guy-Verhofstadt
+3041	3048	Брекзит	Брекзит	EVT	EVT-Brexit
+3053	3065	Доналд Туска	Доналд Туск	PER	PER-Donald-Tusk
+3330	3359	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

@@ -1,0 +1,27 @@
+102	117	Pfizer&BioNTech	Pfizer&BioNTech	ORG	ORG-Pfizer-BioNTech
+135	147	Astra Zeneca	Astra Zeneca	ORG	GPE-AstraZeneсa
+214	234	Krzysztof Kucharczyk	Krzysztof Kucharczyk	PER	PER-Krzysztof-Kucharczyk
+401	417	Katarzyną Gójską	Katarzyna Gójska	PER	PER-Katarzyna-Grójska
+429	436	Jedynce	Jedynka	PRO	PRO-Polish-Radio-1
+443	449	Polsce	Polska	LOC	GPE-Poland
+499	518	Pfizera i BioNTechu	Pfizer i BioNTech	ORG	ORG-Pfizer-BioNTech
+590	612	Polski Związek Higieny	Polski Związek Higieny	ORG	ORG-National-Institute-of-Public-Health-National-Institute-of-Hygiene-Poland
+675	683	COVID-19	COVID-19	EVT	EVT-Covid-19
+731	741	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1277	1292	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1365	1377	Astra Zeneca	Astra Zeneca	ORG	GPE-AstraZeneсa
+1380	1402	Uniwersytet Oksfordzki	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+1537	1560	koronawirusa SARS-CoV-2	koronawirus SARS-CoV-2	EVT	EVT-Covid-19
+1655	1668	koronawirusem	koronawirus	EVT	EVT-Covid-19
+1763	1775	Astra Zeneca	Astra Zeneca	ORG	GPE-AstraZeneсa
+1855	1870	Johnson&Johnson	Johnson&Johnson	ORG	ORG-Johnson-&-Johnson
+1981	1988	Jedynce	Jedynka	PRO	PRO-Polish-Radio-1
+1992	2012	Krzysztof Kucharczyk	Krzysztof Kucharczyk	PER	PER-Krzysztof-Kucharczyk
+2076	2086	Kucharczyk	Kucharczyk	PER	PER-Krzysztof-Kucharczyk
+2281	2310	Narodowym Programie Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+2362	2374	Astra Zeneca	Astra Zeneca	ORG	GPE-AstraZeneсa
+2392	2407	Johnson&Johnson	Johnson&Johnson	ORG	ORG-Johnson-&-Johnson
+2427	2442	Pfizer&BioNTech	Pfizer&BioNTech	ORG	ORG-Pfizer-BioNTech
+2455	2462	CureVac	CureVac	ORG	ORG-CureVac
+2495	2502	Moderny	Moderna	ORG	ORG-Moderna
+2516	2523	Pfizera	Pfizer	ORG	ORG-Pfizer

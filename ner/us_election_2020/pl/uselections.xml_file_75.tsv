@@ -1,0 +1,33 @@
+0	25	Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+75	85	Amerykanie	Amerykanie	PER	GPE-USA
+166	178	republikanin	republikanin	PER	ORG-Republican-Party-USA
+179	191	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+204	213	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+320	337	Wybory w USA 2020	Wybory w USA 2020	EVT	EVT-2020-United-States-Presidential-Election
+358	361	USA	USA	LOC	GPE-USA
+424	430	Polsce	Polska	LOC	GPE-Poland
+558	561	USA	USA	LOC	GPE-USA
+821	832	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1193	1204	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1206	1213	Floryda	Floryda	LOC	GPE-Florida
+1215	1221	Teksas	Teksas	LOC	GPE-Texas
+1223	1231	Michigan	Michigan	LOC	GPE-Michigan
+1233	1250	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1252	1256	Ohio	Ohio	LOC	GPE-Ohio
+1261	1268	Arizona	Arizona	LOC	GPE-Arizona
+1291	1301	Kalifornia	Kalifornia	LOC	GPE-California
+1311	1321	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1327	1335	Oklahoma	Oklahoma	LOC	GPE-Oklahoma
+1345	1357	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+1459	1464	Trump	Trump	PER	PER-Donald-Trump
+1472	1477	Biden	Biden	PER	PER-Joe-Biden
+1539	1556	Wybory w USA 2020	Wybory w USA 2020	EVT	EVT-2020-United-States-Presidential-Election
+1595	1608	wyborów w USA	wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+2155	2157	AP	AP	ORG	ORG-AP-The-Associated-Press
+2507	2519	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2614	2617	USA	USA	LOC	GPE-USA
+2714	2726	koronawirusa	koronawirus	EVT	EVT-Covid-19
+2768	2778	Amerykanów	Amerykanie	PER	GPE-USA
+2894	2904	Amerykanów	Amerykanie	PER	GPE-USA
+3094	3106	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+3155	3165	Joe Bidena	Joe Biden	PER	PER-Joe-Biden

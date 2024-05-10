@@ -1,0 +1,32 @@
+16	23	Брекзит	Брекзит	EVT	EVT-Brexit
+38	41	Мей	Мей	PER	PER-Theresa-May
+64	66	ЕС	ЕС	ORG	ORG-European-Union
+93	115	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+170	180	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+217	233	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+243	250	Ройтерс	Ройтерс	ORG	ORG-Reuters
+264	267	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+313	316	Мей	Мей	PER	PER-Theresa-May
+347	354	Брекзит	Брекзит	EVT	EVT-Brexit
+412	426	Великобритания	Великобритания	LOC	GPE-Great-Britain
+456	458	ЕС	ЕС	ORG	ORG-European-Union
+491	511	Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+539	546	Брекзит	Брекзит	EVT	EVT-Brexit
+548	551	Мей	Мей	PER	PER-Theresa-May
+617	619	ЕС	ЕС	ORG	ORG-European-Union
+637	651	Великобритания	Великобритания	LOC	GPE-Great-Britain
+783	797	Великобритания	Великобритания	LOC	GPE-Great-Britain
+833	835	ЕС	ЕС	ORG	ORG-European-Union
+1098	1112	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+1113	1128	Иън Дънкан Смит	Иън Дънкан Смит	PER	PER-Iain-Duncan-Smith
+1177	1188	Прити Пател	Прити Пател	PER	PER-Priti-Patel
+1190	1192	ЕС	ЕС	ORG	ORG-European-Union
+1198	1201	Мей	Мей	PER	PER-Theresa-May
+1244	1258	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1500	1503	Мей	Мей	PER	PER-Theresa-May
+1859	1866	Брекзит	Брекзит	EVT	EVT-Brexit
+1879	1893	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1943	1945	ЕС	ЕС	ORG	ORG-European-Union
+2045	2059	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2116	2123	Брюксел	Брюксел	LOC	GPE-Brussles
+2162	2164	ЕС	ЕС	ORG	ORG-European-Union

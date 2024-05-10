@@ -1,0 +1,17 @@
+53	56	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+57	72	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+75	83	brexicie	Brexit	EVT	EVT-Brexit
+125	132	torysów	torysi	PER	ORG-Tories
+133	146	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+243	246	USA	USA	LOC	GPE-USA
+247	261	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+330	354	Conservative Way Forward	Conservative Way Forward	ORG	ORG-Conservative-Way-Forward
+355	362	Johnson	Johnson	PER	PER-Boris-Johnson
+494	502	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+616	619	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+622	630	brexicie	Brexit	EVT	EVT-Brexit
+858	860	UE	UE	ORG	ORG-European-Union
+891	899	Johnsona	Johnson	PER	PER-Boris-Johnson
+1000	1008	Brukseli	Bruksela	LOC	GPE-Brussles
+1093	1100	Johnson	Johnson	PER	PER-Boris-Johnson
+1116	1122	Trumpa	Trump	PER	PER-Donald-Trump

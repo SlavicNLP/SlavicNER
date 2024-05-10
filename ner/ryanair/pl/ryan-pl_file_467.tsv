@@ -1,0 +1,27 @@
+21	27	Burgas	Burgas	LOC	GPE-Burgas
+29	36	Ryanair	Ryanair	ORG	ORG-Ryanair
+52	60	Jasionki	Jasionka	LOC	GPE-Jesionka
+88	94	Burgas	Burgas	LOC	GPE-Burgas
+98	106	Jasionki	Jasionka	LOC	GPE-Jesionka
+122	130	Rzeszowa	Rzeszów	LOC	GPE-Reszów
+221	228	Ryanair	Ryanair	ORG	ORG-Ryanair
+244	252	Bristolu	Bristol	LOC	GPE-Bristol
+256	264	Jasionki	Jasionka	LOC	GPE-Jesionka
+269	277	Jasionki	Jasionka	LOC	GPE-Jesionka
+281	289	Bristolu	Bristol	LOC	GPE-Bristol
+303	311	Rzeszowa	Rzeszów	LOC	GPE-Rzeszów
+362	368	Burgas	Burgas	LOC	GPE-Burgas
+371	379	Bułgarii	Bułgaria	LOC	GPE-Bulgaria
+460	466	Burgas	Burgas	LOC	GPE-Burgas
+470	478	Rzeszowa	Rzeszów	LOC	GPE-Rzeszów
+644	651	Bartosz	Bartosz	PER	PER-Bartosz-reader-of-Nowiny
+663	668	Nowin	Nowiny	PRO	PRO-Nowiny
+822	829	Ryanair	Ryanair	ORG	ORG-Ryanair
+884	892	Ryanaira	Ryanair	ORG	ORG-Ryanair
+981	994	Marcin Kołacz	Marcin Kołacz	PER	PER-Marcin-Kolacz
+997	1030	Portu Lotniczego Rzeszów-Jasionka	Port Lotniczy Rzeszów-Jasionka	LOC	LOC-Airport-Rzeszow-Jesionka
+1076	1084	Ryanaira	Ryanair	ORG	ORG-Ryanair
+1140	1147	Ryanair	Ryanair	ORG	ORG-Ryanair
+1175	1183	Jasionki	Jasionka	LOC	GPE-Jesionka
+1187	1193	Burgas	Burgas	LOC	GPE-Burgas
+1196	1200	Aten	Ateny	LOC	GPE-Ateny

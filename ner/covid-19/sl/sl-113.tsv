@@ -1,0 +1,32 @@
+0	8	Covid-19	Covid-19	EVT	EVT-Covid-19
+69	82	UKC Ljubljana	UKC Ljubljana	LOC	LOC-University-Medical-Centre-Ljubljana
+265	268	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+315	325	covidom-19	covid-19	EVT	EVT-Covid-19
+374	383	covida-19	covid-19	EVT	EVT-Covid-19
+523	530	covidom	covid	EVT	EVT-Covid-19
+663	666	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+799	803	ZZZS	ZZZS	ORG	ORG-Health-Insurance-Institute-of-Slovenia
+847	861	Janez Poklukar	Janez Poklukar	PER	PER-Janez-Poklukar
+882	885	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+929	933	ZZZS	ZZZS	ORG	ORG-Health-Insurance-Institute-of-Slovenia
+949	952	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+1177	1180	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+1290	1298	Poklukar	Poklukar	PER	PER-Janez-Poklukar
+1437	1442	covid	covid	EVT	EVT-Covid-19
+1529	1532	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+1556	1561	covid	covid	EVT	EVT-Covid-19
+1638	1643	covid	covid	EVT	EVT-Covid-19
+1701	1704	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+1847	1855	Poklukar	Poklukar	PER	PER-Janez-Poklukar
+2008	2012	ZZZS	ZZZS	ORG	ORG-Health-Insurance-Institute-of-Slovenia
+2169	2173	ZZZS	ZZZS	ORG	ORG-Health-Insurance-Institute-of-Slovenia
+2320	2323	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+2604	2637	Evropskega solidarnostnega sklada	Evropski solidarnostni sklad	ORG	ORG-EU-Solidarity-Fund
+2862	2870	Poklukar	Poklukar	PER	PER-Janez-Poklukar
+2906	2915	covida-19	covid-19	EVT	EVT-Covid-19
+3053	3056	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+3473	3478	Bosni	Bosna	LOC	GPE-Bosnia-and-Herzegovina
+3519	3522	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+3564	3567	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+3623	3626	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+3739	3751	Jože Golobič	Jože Golobič	PER	PER-Jože-Golobič

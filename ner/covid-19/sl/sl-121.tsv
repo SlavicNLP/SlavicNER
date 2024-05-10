@@ -1,0 +1,18 @@
+9	17	SB Celje	SB Celje	LOC	LOC-Celje-General-Hospital
+29	37	COVID 19	COVID-19	EVT	EVT-Covid-19
+193	201	COVID 19	COVID-19	EVT	EVT-Covid-19
+228	236	SB Celje	SB Celje	LOC	LOC-Celje-General-Hospital
+325	349	Splošna bolnišnica Celje	Splošna bolnišnica Celje	LOC	LOC-Celje-General-Hospital
+410	420	Sars-Cov 2	Sars-Cov 2	EVT	EVT-Covid-19
+463	513	Oddelku za infekcijske bolezni in vročinska stanja	Oddelek za infekcijske bolezni in vročinska stanja	LOC	LOC-Oddelek-za-infekcijske-bolezni-in-vročinska-stanja-SB-Celje
+537	542	COVID	COVID	EVT	EVT-Covid-19
+799	803	ZZZS	ZZZS	ORG	ORG-Health-Insurance-Institute-of-Slovenia
+1212	1239	Federica Viktorja Potočnika	Federico Victor Potočnik	PER	PER-Federico-Victor-Potočnik
+1272	1277	covid	covid	EVT	EVT-Covid-19
+1337	1346	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1399	1407	COVID 19	COVID-19	EVT	EVT-Covid-19
+1604	1618	Dragan Marušič	Dragan Marušič	PER	PER-Dragan-Marušič
+1622	1644	Univerze na Primorskem	Univerza na Primorskem	ORG	ORG-University-of-Primorska
+1933	1940	Bergama	Bergamo	LOC	GPE-Bergamo
+1948	1957	New Yorka	New York	LOC	GPE-New-York
+2095	2108	Vane T. Costa	Vane T. Costa	PER	PER-Vane-T-Costa

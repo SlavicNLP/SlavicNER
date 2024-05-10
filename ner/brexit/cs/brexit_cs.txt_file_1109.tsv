@@ -1,0 +1,13 @@
+0	8	Británie	Británie	LOC	GPE-Great-Britain
+28	30	EU	EU	ORG	ORG-European-Union
+34	39	Česko	Česko	LOC	GPE-Czech-Republic
+80	94	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+152	158	brexit	brexit	EVT	EVT-Brexit
+459	467	Británie	Británie	LOC	GPE-Great-Britain
+522	530	Británii	Británie	LOC	GPE-Great-Britain
+692	700	Británie	Británie	LOC	GPE-Great-Britain
+799	814	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+828	844	Evropského soudu	Evropský soud	ORG	ORG-European-Court-of-Justice
+990	1004	Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+1044	1051	brexitu	brexit	EVT	EVT-Brexit
+1100	1107	Bruselu	Brusel	LOC	GPE-Brussles

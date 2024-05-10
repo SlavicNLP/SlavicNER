@@ -1,0 +1,37 @@
+55	61	Лондон	Лондон	LOC	GPE-London
+63	77	Великобритания	Великобритания	LOC	GPE-Great-Britain
+113	122	Палестина	Палестина	LOC	GPE-Palestine
+221	228	Джихада	Джихада	EVT	EVT-Jihad
+255	264	The Times	The Times	PRO	PRO-The-Times
+343	355	Аластър Бърт	Аластър Бърт	PER	PER-Alastair-Birt
+491	497	Израел	Израел	LOC	GPE-Israel
+564	569	Нютон	Нютон	PER	PER-Isaac-Newton
+860	863	Рая	Рай	LOC	LOC-Heaven
+1031	1037	Израел	Израел	LOC	GPE-Israel
+1296	1302	Лондон	Лондон	LOC	GPE-London
+1441	1453	The Guardian	The Guardian	PRO	PRO-The-Guardian
+1750	1762	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1870	1882	Джина Хаспел	Джина Хаспел	PER	PER-Gina-Haspel
+1898	1901	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+1955	1958	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+1961	1968	Тайланд	Тайланд	LOC	GPE-Thailand
+2009	2015	Лондон	Лондон	LOC	GPE-London
+2017	2027	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2114	2121	Брекзит	Брекзит	EVT	EVT-Brexit
+2149	2165	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2195	2215	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2305	2318	Daily Express	Daily Express	PRO	PRO-Daily-Express
+2406	2408	ЕС	ЕС	ORG	ORG-European-Union
+2479	2488	Евросъюза	Евросъюз	ORG	ORG-European-Union
+2579	2588	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+2590	2602	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+2604	2617	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+2620	2631	Майкъл Гоув	Майкъл Гоув	PER	PER-Michael-Gove
+2668	2675	Брекзит	Брекзит	EVT	EVT-Brexit
+2676	2689	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+2741	2755	Гавин Уилямсън	Гавин Уилямсън	PER	PER-Gavin-Williamson
+2772	2788	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2789	2801	Карън Брадли	Карън Брадли	PER	PER-Karen-Bradley
+2832	2836	Южна	Южна	LOC	LOC-Southern-Europe
+2839	2853	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+3076	3105	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

@@ -1,0 +1,14 @@
+0	6	Mayová	Mayová	PER	PER-Theresa-May
+45	52	Britové	Britové	PER	GPE-Great-Britain
+63	67	Unií	Unie	ORG	ORG-European-Union
+167	169	EU	EU	ORG	ORG-European-Union
+331	333	EU	EU	ORG	ORG-European-Union
+358	364	brexit	brexit	EVT	EVT-Brexit
+365	379	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+485	492	brexitu	brexit	EVT	EVT-Brexit
+651	658	Londýna	Londýn	LOC	GPE-London
+786	792	Mayová	Mayová	PER	PER-Theresa-May
+955	963	Británie	Británie	LOC	GPE-Great-Britain
+966	968	EU	EU	ORG	ORG-European-Union
+1017	1035	Spojené království	Spojené království	LOC	GPE-Great-Britain
+1044	1048	Unii	Unie	ORG	ORG-European-Union

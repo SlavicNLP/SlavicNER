@@ -1,0 +1,65 @@
+10	18	Londynem	Londyn	LOC	GPE-London
+120	131	Theresa May	Theresa May	PER	PER-Theresa-May
+143	151	Brukselą	Bruksela	LOC	GPE-Brussles
+197	208	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+259	263	Unii	Unia	ORG	ORG-European-Union
+337	346	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+349	355	Brexit	Brexit	EVT	EVT-Brexit
+410	418	Die Welt	Die Welt	PRO	PRO-Die-Welt
+420	430	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+440	467	Institute for Global Change	Institute for Global Change	ORG	ORG-Institute-for-Global-Change
+559	566	Europie	Europa	LOC	LOC-Europe
+651	655	Unii	Unia	ORG	ORG-European-Union
+656	679	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+710	725	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+838	845	brexitu	Brexit	EVT	EVT-Brexit
+891	896	Blair	Blair	PER	PER-Tony-Blair
+954	969	Agata Gostyńska	Agata Gostyńska	PER	PER-Agata-Gostyńska-Jakubowska
+994	1020	Center for European Reform	Center for European Reform	ORG	ORG-Centre-For-European-Reform
+1022	1025	CER	CER	ORG	ORG-Centre-For-European-Reform
+1151	1157	torysi	torysi	PER	ORG-Tories
+1169	1181	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1182	1200	Jeremy'ego Corbyna	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+1275	1284	Gostyńska	Gostyńska	PER	PER-Agata-Gostyńska-Jakubowska
+1314	1335	Queen Mary University	Queen Mary University	ORG	ORG-Queen-Mary-University
+1338	1346	Londynie	Londyn	LOC	GPE-London
+1416	1422	Blaira	Blair	PER	PER-Tony-Blair
+1446	1455	Corbynowi	Corbyn	PER	PER-Jeremy-Corbyn
+1486	1498	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1517	1539	Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+1600	1607	torysów	torysi	PER	ORG-Tories
+1646	1657	laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+1769	1779	New Labour	New Labour	ORG	ORG-New-Labour
+1780	1795	Tony'ego Blaira	Tony Blair	PER	PER-Tony-Blair
+1873	1882	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+1916	1937	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+1938	1952	Kenneth Clarke	Kenneth Clarke	PER	PER-Kenneth-Clarke
+1978	1980	Rz	Rz	PRO	PRO-Rzeczpospolita
+2039	2046	brexitu	Brexit	EVT	EVT-Brexit
+2205	2217	Independenta	Independent	PRO	PRO-The-Independent
+2281	2285	Unii	Unia	ORG	ORG-European-Union
+2459	2462	May	May	PER	PER-Theresa-May
+2480	2488	Brukselą	Bruksela	LOC	GPE-Brussles
+2532	2547	Agata Gostyńska	Agata Gostyńska	PER	PER-Agata-Gostyńska-Jakubowska
+2651	2655	Unii	Unia	ORG	ORG-European-Union
+2762	2765	May	May	PER	PER-Theresa-May
+2808	2818	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+2863	2871	brexicie	Brexit	EVT	EVT-Brexit
+2941	2945	Unii	Unia	ORG	ORG-European-Union
+3010	3013	May	May	PER	PER-Theresa-May
+3080	3086	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+3138	3142	Unią	Unia	ORG	ORG-European-Union
+3146	3154	brexicie	Brexit	EVT	EVT-Brexit
+3163	3184	Queen Mary University	Queen Mary University	ORG	ORG-Queen-Mary-University
+3228	3240	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+3348	3355	torysów	torysi	PER	ORG-Tories
+3358	3363	Blair	Blair	PER	PER-Tony-Blair
+3400	3415	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3533	3541	Brukseli	Bruksela	LOC	GPE-Brussles
+3598	3604	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+3740	3755	Davida Camerona	David Cameron	PER	PER-David-Cameron
+3764	3769	Blair	Blair	PER	PER-Tony-Blair
+3788	3792	Unią	Unia	ORG	ORG-European-Union
+3793	3808	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3892	3903	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+3926	3934	brexitem	Brexit	EVT	EVT-Brexit

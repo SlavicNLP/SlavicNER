@@ -1,0 +1,30 @@
+2	13	Конгрес США	Конгрес США	ORG	ORG-United-States-Congress
+45	51	Трампа	Трамп	PER	PER-Donald-Trump
+117	120	США	США	LOC	GPE-USA
+137	157	Палаті представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+173	181	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+231	234	США	США	LOC	GPE-USA
+235	250	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+294	314	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+381	402	Дональда Джона Трампа	Дональд Джон Трамп	PER	PER-Donald-Trump
+415	432	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+529	538	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+569	580	Конституції	Конституція	PRO	PRO-The-USA-Constitution
+581	584	США	США	LOC	GPE-USA
+609	615	Трампа	Трамп	PER	PER-Donald-Trump
+692	695	США	США	LOC	GPE-USA
+768	774	Трампа	Трамп	PER	PER-Donald-Trump
+809	817	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+902	914	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+939	945	Трампа	Трамп	PER	PER-Donald-Trump
+1005	1016	Конституції	Конституція	PRO	PRO-The-USA-Constitution
+1017	1020	США	США	LOC	GPE-USA
+1058	1078	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+1079	1087	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+1088	1105	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+1167	1182	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1189	1204	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+1314	1336	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1382	1391	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+1392	1403	Конгрес США	Конгрес США	ORG	ORG-United-States-Congress
+1422	1433	Джо Байдена	Джо Байден	PER	PER-Joe-Biden

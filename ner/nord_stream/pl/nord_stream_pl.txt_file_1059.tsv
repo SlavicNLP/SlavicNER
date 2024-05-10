@@ -1,0 +1,27 @@
+0	6	Polska	Polska	LOC	GPE-Poland
+22	27	Danią	Dania	LOC	GPE-Denmark
+30	37	Szwecją	Szwecja	LOC	GPE-Sweden
+48	61	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+84	98	Michał Kurtyka	Michał Kurtyka	PER	PER-Michal-Kurtyka
+116	122	Polska	Polska	LOC	GPE-Poland
+125	130	Dania	Dania	LOC	GPE-Denmark
+175	188	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+208	213	Rosję	Rosja	LOC	GPE-Russia
+216	224	Niemcami	Niemcy	LOC	GPE-Germany
+267	274	Ukrainę	Ukraina	LOC	GPE-Ukraine
+307	315	Gazpromu	Gazprom	ORG	ORG-Gazprom
+339	353	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+369	374	Danią	Dania	LOC	GPE-Denmark
+376	383	Kurtyka	Kurtyka	PER	PER-Michal-Kurtyka
+456	467	Baltic Pipe	Baltic Pipe	PRO	PRO-Baltic-Pipe
+489	502	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+535	542	Szwecją	Szwecja	LOC	GPE-Sweden
+559	564	Danią	Dania	LOC	GPE-Denmark
+781	786	Dania	Dania	LOC	GPE-Denmark
+789	802	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+804	809	Dania	Dania	LOC	GPE-Denmark
+890	903	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1021	1038	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1126	1139	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1221	1239	Bartłomiej Sawicki	Bartłomiej Sawicki	PER	PER-Bartłomiej-Sawicki
+1240	1256	Wojciech Jakóbik	Wojciech Jakóbik	PER	PER-Wojciech-Jakóbik

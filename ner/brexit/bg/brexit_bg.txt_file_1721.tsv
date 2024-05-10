@@ -1,0 +1,26 @@
+18	21	Мей	Мей	PER	PER-Theresa-May
+38	45	Брекзит	Брекзит	EVT	EVT-Brexit
+60	74	Великобритания	Великобритания	LOC	GPE-Great-Britain
+75	85	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+111	118	Брекзит	Брекзит	EVT	EVT-Brexit
+144	147	АФП	АФП	ORG	ORG-France-Presse
+150	157	Ройтерс	Ройтерс	ORG	ORG-Reuters
+162	169	Гардиън	Гардиън	PRO	PRO-The-Guardian
+172	192	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+334	336	ЕС	ЕС	ORG	ORG-European-Union
+340	347	Брекзит	Брекзит	EVT	EVT-Brexit
+490	497	Брекзит	Брекзит	EVT	EVT-Brexit
+511	513	ЕС	ЕС	ORG	ORG-European-Union
+621	643	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+644	657	Доминик Грийв	Доминик Грийв	PER	PER-Dominic-Grieve
+775	782	Брекзит	Брекзит	EVT	EVT-Brexit
+797	800	Мей	Мей	PER	PER-Theresa-May
+889	892	Мей	Мей	PER	PER-Theresa-May
+937	959	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1099	1101	ЕС	ЕС	ORG	ORG-European-Union
+1221	1223	ЕС	ЕС	ORG	ORG-European-Union
+1329	1342	Доминик Грийв	Доминик Грийв	PER	PER-Dominic-Grieve
+1483	1504	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+1532	1535	Мей	Мей	PER	PER-Theresa-May
+1538	1558	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+1662	1669	Брюксел	Брюксел	LOC	GPE-Brussles

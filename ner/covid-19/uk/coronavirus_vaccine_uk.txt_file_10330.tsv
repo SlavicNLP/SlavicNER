@@ -1,0 +1,73 @@
+14	25	коронавірус	коронавірус	EVT	EVT-Covid-19
+28	35	Україні	Україна	LOC	GPE-Ukraine
+178	190	коронавірусу	коронавірус	EVT	EVT-Covid-19
+193	199	ТСН.ua	ТСН.ua	PRO	PRO-TSN.ua
+219	224	Києва	Київ	LOC	GPE-Kyiv
+228	234	Львова	Львів	LOC	GPE-Lviv
+240	247	Україні	Україна	LOC	GPE-Ukraine
+274	286	коронавірусу	коронавірус	EVT	EVT-Covid-19
+325	328	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+491	499	пандемії	пандемія	EVT	EVT-Covid-19
+502	508	ТСН.ua	ТСН.ua	PRO	PRO-TSN.ua
+533	540	Україні	Україна	LOC	GPE-Ukraine
+813	821	Феофанія	Феофанія	ORG	LOC-Feofaniya-Hospital
+823	835	Світлана Гук	Світлана Гук	PER	PER-Svitlana-Huk
+1063	1076	коронавірусом	коронавірус	EVT	EVT-Covid-19
+1181	1187	Львова	Львів	LOC	GPE-Lviv
+1188	1205	Тарас Жиравецький	Тарас Жиравецький	PER	PER-Taras-Zhyravetskyi
+1411	1418	Україні	Україна	LOC	GPE-Ukraine
+1754	1765	Нового року	Новий рік	EVT	EVT-New-Year
+1884	1891	Україні	Україна	LOC	GPE-Ukraine
+2535	2541	Італія	Італія	LOC	GPE-Italy
+2543	2550	Іспанія	Іспанія	LOC	GPE-Spain
+2552	2567	Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+2728	2746	Дарницькому районі	Дарницький район	LOC	LOC-Darnytsya-District
+2747	2752	Києва	Київ	LOC	GPE-Kyiv
+2753	2761	Олена Л.	Олена Л.	PER	PER-Olena-L
+2846	2854	пандемії	пандемія	EVT	EVT-Covid-19
+2885	2893	COVID-19	COVID-19	EVT	EVT-Covid-19
+2937	2941	ГРВІ	ГРВІ	EVT	EVT-Viral-Respiratory-Infection
+3050	3061	коронавірус	коронавірус	EVT	EVT-Covid-19
+3667	3678	коронавірус	коронавірус	EVT	EVT-Covid-19
+3712	3716	ГРВІ	ГРВІ	EVT	EVT-Viral-Respiratory-Infection
+3882	3894	коронавірусу	коронавірус	EVT	EVT-Covid-19
+3955	3966	коронавірус	коронавірус	EVT	EVT-Covid-19
+4064	4072	COVID-19	COVID-19	EVT	EVT-Covid-19
+4183	4195	коронавірусу	коронавірус	EVT	EVT-Covid-19
+4224	4230	Європи	Європа	LOC	LOC-Europe
+4262	4270	COVID-19	COVID-19	EVT	EVT-Covid-19
+4360	4366	Львова	Львів	LOC	GPE-Lviv
+4367	4384	Тарас Жиравецький	Тарас Жиравецький	PER	PER-Taras-Zhyravetskyi
+4671	4679	COVID-19	COVID-19	EVT	EVT-Covid-19
+5141	5149	Феофанія	Феофанія	ORG	LOC-Feofaniya-Hospital
+5151	5163	Світлана Гук	Світлана Гук	PER	PER-Svitlana-Huk
+5459	5477	Дарницькому районі	Дарницький район	LOC	LOC-Darnytsya-District
+5478	5483	Києва	Київ	LOC	GPE-Kyiv
+5484	5492	Олена Л.	Олена Л.	PER	PER-Olena-L
+5627	5631	ГРВІ	ГРВІ	EVT	EVT-Viral-Respiratory-Infection
+5641	5654	коронавірусом	коронавірус	EVT	EVT-Covid-19
+5711	5723	коронавірусу	коронавірус	EVT	EVT-Covid-19
+5752	5770	Дарницькому районі	Дарницький район	LOC	LOC-Darnytsya-District
+5771	5776	Києва	Київ	LOC	GPE-Kyiv
+5777	5785	Олена Л.	Олена Л.	PER	PER-Olena-L
+5850	5862	коронавірусу	коронавірус	EVT	EVT-Covid-19
+6112	6120	Феофанія	Феофанія	ORG	LOC-Feofaniya-Hospital
+6122	6134	Світлана Гук	Світлана Гук	PER	PER-Svitlana-Huk
+6248	6260	коронавірусу	коронавірус	EVT	EVT-Covid-19
+6291	6299	пандемію	пандемія	EVT	EVT-Covid-19
+6510	6516	Львова	Львів	LOC	GPE-Lviv
+6517	6534	Тарас Жиравецький	Тарас Жиравецький	PER	PER-Taras-Zhyravetskyi
+6798	6813	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+6853	6860	Україні	Україна	LOC	GPE-Ukraine
+6886	6898	коронавірусу	коронавірус	EVT	EVT-Covid-19
+6901	6908	Україні	Україна	LOC	GPE-Ukraine
+6961	6969	пандемія	пандемія	EVT	EVT-Covid-19
+6970	6982	коронавірусу	коронавірус	EVT	EVT-Covid-19
+7020	7024	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+7036	7039	США	США	LOC	GPE-USA
+7055	7063	COVID-19	COVID-19	EVT	EVT-Covid-19
+7136	7148	коронавірусу	коронавірус	EVT	EVT-Covid-19
+7149	7156	B.1.1.7	B.1.1.7	EVT	EVT-B.1.1.7
+7221	7228	Україна	Україна	LOC	GPE-Ukraine
+7311	7314	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+7512	7517	Києві	Київ	LOC	GPE-Kyiv

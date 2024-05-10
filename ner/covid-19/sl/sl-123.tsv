@@ -1,0 +1,18 @@
+0	5	Kacin	Kacin	PER	PER-Jelko-Kacin
+51	59	COVID-19	COVID-19	EVT	EVT-Covid-19
+140	151	Jelko Kacin	Jelko Kacin	PER	PER-Jelko-Kacin
+459	463	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+597	602	Kacin	Kacin	PER	PER-Jelko-Kacin
+806	815	Sloveniji	Slovenija	LOC	GPE-Slovenia
+913	921	COVID-19	COVID-19	EVT	EVT-Covid-19
+1072	1081	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+1083	1091	Rakičanu	Rakičan	LOC	ORG-Dom-starejših-Rakičan
+1135	1144	CUDV Črna	CUDV Črna	LOC	ORG-CUDV-Črna
+1190	1213	aplikacije #Ostanizdrav	#Ostanizdrav	PRO	PRO-mobile-application-#ostanizdrav
+1314	1322	COVID-19	COVID-19	EVT	EVT-Covid-19
+1740	1749	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1836	1843	Italiji	Italija	LOC	GPE-Italy
+1855	1863	Hrvaškem	Hrvaška	LOC	GPE-Croatia
+1890	1900	Madžarskem	Madžarska	LOC	GPE-Hungary
+1911	1919	Avstriji	Avstrija	LOC	GPE-Austria
+1929	1934	Kacin	Kacin	PER	PER-Jelko-Kacin

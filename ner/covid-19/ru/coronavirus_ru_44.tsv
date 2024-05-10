@@ -1,0 +1,235 @@
+104	112	COVID-19	COVID-19	EVT	EVT-Covid-19
+175	183	COVID-19	COVID-19	EVT	EVT-Covid-19
+256	267	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+293	297	РФПИ	РФПИ	ORG	ORG-Russian-Direct-Investment-Fund
+324	369	Исследовательского центра имени Н. Ф. Гамалеи	Исследовательский центр имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+380	392	"ГНЦ ""Вектор"""	"ГНЦ ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+396	407	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+422	428	МОСКВА	Москва	LOC	GPE-Moscow
+439	450	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+452	468	Татьяна Пичугина	Татьяна Пичугина	PER	PER-Tatiana-Pichugina
+492	503	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+529	533	РФПИ	РФПИ	ORG	ORG-Russian-Direct-Investment-Fund
+560	605	Исследовательского центра имени Н. Ф. Гамалеи	Исследовательский центр имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+616	628	"ГНЦ ""Вектор"""	"ГНЦ ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+692	728	Научного центра имени М. П. Чумакова	Научный центр имени М. П. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+812	818	Pfizer	Pfizer	ORG	ORG-Pfizer
+897	900	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+993	1004	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+1624	1628	CNBC	CNBC	PRO	PRO-CNBC
+1707	1714	Moderna	Moderna	ORG	ORG-Moderna
+1726	1734	BioNTech	BioNTech	ORG	ORG-BioNTech
+1735	1741	Pfizer	Pfizer	ORG	ORG-Pfizer
+1850	1856	Pfizer	Pfizer	ORG	ORG-Pfizer
+2153	2167	Альберта Бурла	Альберт Бурла	PER	PER-Albert-Bourla
+2314	2326	коронавируса	коронавирус	EVT	EVT-Covid-19
+2444	2447	США	США	LOC	GPE-USA
+2483	2504	Johnson &amp; Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+2939	2964	Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+3004	3015	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+3019	3022	США	США	LOC	GPE-USA
+3144	3158	Великобритании	Великобритания	LOC	GPE-Great-Britain
+3184	3192	Бразилии	Бразилия	LOC	GPE-Brazil
+3274	3277	СМИ	СМИ	PRO	PRO-Mass-Media
+3393	3396	ЮАР	ЮАР	LOC	GPE-Republic-of-South-Africa
+3398	3403	Индии	Индия	LOC	GPE-India
+3406	3412	Японии	Япония	LOC	GPE-Japan
+3458	3466	Бразилии	Бразилия	LOC	GPE-Brazil
+3503	3512	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+3529	3536	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+3862	3872	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4196	4209	Павел Волчков	Павел Волчков	PER	PER-Pavel-Volchkov
+4254	4258	МФТИ	МФТИ	ORG	ORG-MFTI-Moscow-Institute-of-Physics-and-Technology
+4315	4327	коронавируса	коронавирус	EVT	EVT-Covid-19
+4330	4336	России	Россия	LOC	GPE-Russia
+4347	4380	постановление правительства № 441	Постановление правительства № 441	PRO	PRO-Decree-441-on-the-Circulation-of-Pharmaceutical-Products-Russia
+4798	4809	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+4823	4843	Центре имени Гамалеи	Центр имени Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+5067	5078	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+5197	5207	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+5675	5682	Гамалеи	Гамалея	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+5812	5819	Волчков	Волчков	PER	PER-Pavel-Volchkov
+5926	5940	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+5944	5956	"ГНЦ ""Вектор"""	"ГНЦ ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+5989	6001	коронавируса	коронавирус	EVT	EVT-Covid-19
+6386	6399	Павел Волчков	Павел Волчков	PER	PER-Vladimir-Putin
+6945	6959	"""ЭпиВакКороны"""	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+7033	7045	Новосибирске	Новосибирск	LOC	GPE-Novosibirsk
+7127	7147	МГУ имени Ломоносова	МГУ имени Ломоносова	ORG	ORG-Moscow-State-University
+7359	7372	Ольга Карпова	Ольга Карпова	PER	PER-Olga-Karpova
+7638	7648	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+7670	7684	коронавирусной	коронавирусной	EVT	EVT-Covid-19
+8021	8034	коронавирусов	коронавирусы	EVT	EVT-Covid-19
+8044	8048	SARS	SARS	EVT	EVT-SARS
+8050	8054	MERS	MERS	EVT	EVT-MERS-CoV
+8583	8590	Карпова	Карпова	PER	PER-Olga-Karpova
+8666	8695	Научном центре имени Чумакова	Научный центр имени Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+8772	8782	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+9045	9058	Павел Волчков	Павел Волчков	PER	PER-Pavel-Volchkov
+9159	9170	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+9177	9180	РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+9181	9198	Александр Сергеев	Александр Сергеев	PER	Александра Филиппенко
+9244	9256	Новосибирске	Новосибирск	LOC	GPE-Novosibirsk
+9362	9383	центра имени Чумакова	центр имени Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+9384	9403	Айдара Ишмухаметова	Айдар Ишмухаметов	PER	PER-Aidar-Ishmukhametov
+9407	9413	Кирове	Киров	LOC	GPE-Kirov
+9416	9432	Санкт-Петербурге	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+9493	9499	России	Россия	LOC	GPE-Russia
+9566	9600	Пекинским институтом биотехнологий	Пекинский институт биотехнологий	ORG	ORG-Beijing-Institute-of-Biotechnology
+9623	9641	CanSino Biological	CanSino Biological	ORG	ORG-Cansino-Biologics
+9697	9703	Москве	Москва	LOC	GPE-Moscow
+9706	9722	Санкт-Петербурге	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+9761	9772	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+9848	9851	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+9884	9892	COVID-19	COVID-19	EVT	EVT-Covid-19
+10100	10108	COVID-19	COVID-19	EVT	EVT-Covid-19
+10303	10315	Андрей Васин	Андрей Васин	PER	PER-‪Andrey-Vasin
+10333	10380	Института биомедицинских систем и биотехнологий	Институт биомедицинских систем и биотехнологий	ORG	ORG-Institute-of-Biomedical-Systems-and-Biotechnology-SPBSTU
+10381	10446	Санкт-Петербургского политехнического университета Петра Великого	Санкт-Петербургский политехнический университет Петра Великого	ORG	ORG-SPBSTU-Saint-Petersburg-State-Polytechnical-University
+10448	10453	СПбПУ	СПбПУ	ORG	ORG-SPBSTU-Saint-Petersburg-State-Polytechnical-University
+10488	10493	СПбПУ	СПбПУ	ORG	ORG-SPBSTU-Saint-Petersburg-State-Polytechnical-University
+10864	10879	Оксана Таланова	Оксана Таланова	PER	PER-Oksana-Talanova
+10949	10964	"""Санофи Пастер"""	Санофи Пастер	ORG	ORG-Sanofi-Pasteur
+10975	10982	Евразия	Евразия	LOC	LOC-Eurasia
+11130	11148	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+11214	11223	Талановой	Таланова	PER	PER-Oksana-Talanova
+11802	11809	Карпова	Карпова	PER	PER-Olga-Karpova
+12069	12072	США	США	LOC	GPE-USA
+12296	12304	Таланова	Таланова	PER	PER-Oksana-Talanova
+12587	12595	COVID-19	COVID-19	EVT	EVT-Covid-19
+12599	12608	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+12613	12619	России	Россия	LOC	GPE-Russia
+12662	12670	COVID-19	COVID-19	EVT	EVT-Covid-19
+12675	12681	России	Россия	LOC	GPE-Russia
+12728	12740	коронавируса	коронавирус	EVT	EVT-Covid-19
+12808	12817	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+12998	13009	"""спутник v"""	Спутник V	PRO	PRO-Sputnik-V
+13011	13024	павел волчков	Павел Волчков	PER	PER-Pavel-Volchkov
+13027	13038	коронавирус	коронавирус	EVT	EVT-Covid-19
+13041	13047	россии	Россия	LOC	GPE-Russia
+13049	13060	коронавирус	коронавирус	EVT	EVT-Covid-19
+13061	13069	covid-19	covid-19	EVT	EVT-Covid-19
+13071	13088	александр сергеев	Александр Сергеев	PER	Александра Филиппенко
+13090	13093	ран	РАН	ORG	ORG-Russian-Academy-of-Sciences
+13096	13111	нии им. гамалеи	НИИ им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+13123	13189	"государственный научный центр вирусологии и биотехнологий ""вектор"""	"Государственный научный центр вирусологии и биотехнологий ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+13206	13253	санкт-петербургский политехнический университет	Санкт-петербургский политехнический университет	ORG	ORG-SPBSTU-Saint-Petersburg-State-Polytechnical-University
+13268	13276	COVID-19	COVID-19	EVT	EVT-Covid-19
+13327	13333	МОСКВА	Москва	LOC	GPE-Moscow
+13344	13355	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+13357	13373	Татьяна Пичугина	Татьяна Пичугина	PER	PER-Tatiana-Pichugina
+13397	13408	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+13434	13438	РФПИ	РФПИ	ORG	ORG-Russian-Direct-Investment-Fund
+13465	13510	Исследовательского центра имени Н. Ф. Гамалеи	Исследовательский центр имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+13521	13533	"ГНЦ ""Вектор"""	"ГНЦ ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+13597	13633	Научного центра имени М. П. Чумакова	Научный центр имени М. П. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+13717	13723	Pfizer	Pfizer	ORG	ORG-Pfizer
+13802	13805	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+13898	13909	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+14541	14545	CNBC	CNBC	ORG	ORG-CNBC
+14624	14631	Moderna	Moderna	ORG	ORG-Moderna
+14643	14651	BioNTech	BioNTech	ORG	ORG-BioNTech
+14652	14658	Pfizer	Pfizer	ORG	ORG-Pfizer
+14770	14776	Pfizer	Pfizer	ORG	ORG-Pfizer
+15073	15087	Альберта Бурла	Альберт Бурла	PER	PER-Albert-Bourla
+15234	15246	коронавируса	коронавирус	EVT	EVT-Covid-19
+15367	15370	США	США	LOC	GPE-USA
+15406	15423	Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+15864	15889	Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+15929	15940	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+15944	15947	США	США	LOC	GPE-USA
+16069	16083	Великобритании	Великобритания	LOC	GPE-Great-Britain
+16109	16117	Бразилии	Бразилия	LOC	GPE-Brazil
+16318	16321	ЮАР	ЮАР	LOC	GPE-Republic-of-South-Africa
+16323	16328	Индии	Индия	LOC	GPE-India
+16331	16337	Японии	Япония	LOC	GPE-Japan
+16383	16391	Бразилии	Бразилия	LOC	GPE-Brazil
+16428	16437	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+16454	16461	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+16793	16803	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+17127	17140	Павел Волчков	Павел Волчков	PER	PER-Pavel-Volchkov
+17185	17189	МФТИ	МФТИ	ORG	ORG-MFTI-Moscow-Institute-of-Physics-and-Technology
+17246	17258	коронавируса	коронавирус	EVT	EVT-Covid-19
+17264	17270	России	Россия	LOC	GPE-Russia
+17281	17314	постановление правительства № 441	Постановление правительства № 441	PRO	PRO-Decree-441-on-the-Circulation-of-Pharmaceutical-Products-Russia
+17735	17746	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+17760	17780	Центре имени Гамалеи	Центр имени Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+18007	18018	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+18137	18147	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+18618	18625	Гамалеи	Гамалея	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+18755	18762	Волчков	Волчков	PER	PER-Pavel-Volchkov
+18926	18940	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+18944	18956	"ГНЦ ""Вектор"""	"ГНЦ ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+18989	19001	коронавируса	коронавирус	EVT	EVT-Covid-19
+19389	19402	Павел Волчков	Павел Волчков	PER	PER-Pavel-Volchkov
+19944	19952	COVID-19	COVID-19	EVT	EVT-Covid-19
+20082	20090	COVID-19	COVID-19	EVT	EVT-Covid-19
+20211	20221	Краснодаре	Краснодар	LOC	GPE-Krasnodar
+20261	20269	COVID-19	COVID-19	EVT	EVT-Covid-19
+20274	20297	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+20307	20322	"""Гам-Ковид-Вак"""	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+20388	20398	Краснодаре	Краснодар	LOC	GPE-Krasnodar
+20438	20446	COVID-19	COVID-19	EVT	EVT-Covid-19
+20451	20474	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+20484	20499	"""Гам-Ковид-Вак"""	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+20514	20526	коронавируса	коронавирус	EVT	EVT-Covid-19
+20527	20541	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+20557	20642	"Государственным научным центром вирусологии и биотехнологии ""Вектор"" Роспотребнадзора"	"Государственный научный центр вирусологии и биотехнологии ""Вектор"" Роспотребнадзора"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+20666	20678	коронавируса	коронавирус	EVT	EVT-Covid-19
+20679	20693	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+20709	20794	"Государственным научным центром вирусологии и биотехнологии ""Вектор"" Роспотребнадзора"	"Государственный научный центр вирусологии и биотехнологии ""Вектор"" Роспотребнадзора"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+20851	20859	COVID-19	COVID-19	EVT	EVT-Covid-19
+20980	20990	Краснодаре	Краснодар	LOC	GPE-Krasnodar
+21030	21038	COVID-19	COVID-19	EVT	EVT-Covid-19
+21043	21066	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+21076	21091	"""Гам-Ковид-Вак"""	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+21106	21118	коронавируса	коронавирус	EVT	EVT-Covid-19
+21119	21133	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+21304	21318	"""ЭпиВакКороны"""	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+21392	21404	Новосибирске	Новосибирск	LOC	GPE-Novosibirsk
+21489	21509	МГУ имени Ломоносова	МГУ имени Ломоносова	ORG	ORG-Moscow-State-University
+21724	21737	Ольга Карпова	Ольга Карпова	PER	PER-Olga-Karpova
+22006	22016	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+22038	22052	коронавирусной	коронавирусный	EVT	EVT-Covid-19
+22395	22408	коронавирусов	коронавирус	EVT	EVT-Covid-19
+22418	22422	SARS	SARS	EVT	EVT-SARS
+22424	22428	MERS	MERS	EVT	EVT-MERS-CoV
+22873	22896	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+22960	22967	Карпова	Карпова	PER	PER-Olga-Karpova
+23049	23078	Научном центре имени Чумакова	Научный центр имени Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+23155	23165	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+23431	23444	Павел Волчков	Павел Волчков	PER	PER-Pavel-Volchkov
+23548	23559	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+23566	23569	РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+23570	23587	Александр Сергеев	Александр Сергеев	PER	Александра Филиппенко
+23633	23645	Новосибирске	Новосибирск	LOC	GPE-Novosibirsk
+23751	23772	центра имени Чумакова	центр имени Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+23773	23792	Айдара Ишмухаметова	Айдар Ишмухаметов	PER	PER-Aidar-Ishmukhametov
+23796	23802	Кирове	Киров	LOC	GPE-Kirov
+23805	23821	Санкт-Петербурге	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+23885	23891	России	Россия	LOC	GPE-Russia
+23958	23992	Пекинским институтом биотехнологий	Пекинский институт биотехнологий	ORG	ORG-Beijing-Institute-of-Biotechnology
+24015	24033	CanSino Biological	CanSino Biological	ORG	ORG-Cansino-Biologics
+24089	24095	Москве	Москва	LOC	GPE-Moscow
+24098	24114	Санкт-Петербурге	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+24153	24164	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+24240	24243	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+24279	24287	COVID-19	COVID-19	EVT	EVT-Covid-19
+24495	24503	COVID-19	COVID-19	EVT	EVT-Covid-19
+24698	24710	Андрей Васин	Андрей Васин	PER	PER-‪Andrey-Vasin
+24728	24775	Института биомедицинских систем и биотехнологий	Институт биомедицинских систем и биотехнологий	ORG	ORG-Institute-of-Biomedical-Systems-and-Biotechnology-SPBSTU
+24776	24841	Санкт-Петербургского политехнического университета Петра Великого	Санкт-Петербургский политехнический университет Петра Великого	ORG	ORG-SPBSTU-Saint-Petersburg-State-Polytechnical-University
+24843	24848	СПбПУ	СПбПУ	ORG	ORG-SPBSTU-Saint-Petersburg-State-Polytechnical-University
+24883	24888	СПбПУ	СПбПУ	ORG	ORG-SPBSTU-Saint-Petersburg-State-Polytechnical-University
+25262	25277	Оксана Таланова	Оксана Таланова	PER	PER-Oksana-Talanova
+25347	25362	"""Санофи Пастер"""	Санофи Пастер	ORG	ORG-Sanofi-Pasteur
+25373	25380	Евразия	Евразия	LOC	LOC-Eurasia
+25528	25546	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+25615	25624	Талановой	Таланова	PER	PER-Oksana-Talanova
+26206	26213	Карпова	Карпова	PER	PER-Olga-Karpova
+26476	26479	США	США	LOC	GPE-USA
+26706	26714	Таланова	Таланова	PER	PER-Oksana-Talanova
+27000	27008	COVID-19	COVID-19	EVT	EVT-Covid-19
+27068	27173	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-RussiaToday
+27175	27195	МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+27251	27265	Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.

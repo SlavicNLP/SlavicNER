@@ -1,0 +1,35 @@
+19	28	Англичане	Англичане	PER	GPE-Great-Britain
+65	98	Английская служба здравоохранения	Английская национальная служба здравоохранения	ORG	ORG-National-Health-Service-UK
+114	129	соборе Солсбери	Собор в Солсбери	LOC	GPE-Salisbury
+149	163	Собор Солсбери	Собор в Солсбери	LOC	GPE-Salisbury
+193	207	Великобритании	Великобритания	LOC	GPE-Great-Britain
+289	304	Pfizer-BioNTech	Pfizer-BioNTech	PRO	PRO-BioNTech-Vac
+312	324	коронавируса	Коронавирус	EVT	EVT-Covid-19
+370	388	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+401	415	Великобритании	Великобритания	LOC	GPE-Great-Britain
+654	700	Английская национальная служба здравоохранения	Английская национальная служба здравоохранения	ORG	ORG-National-Health-Service-UK
+872	880	Оксфорде	Оксфорд	LOC	GPE-Oxford
+970	978	Солсбери	Собор в Солсбери	LOC	GPE-Salisbury
+1132	1143	Дэвид Холлз	Дэвид Холлз	PER	PER-David-Hollz
+1146	1161	Джон Челленджер	Джон Челленджер	PER	PER-John-Challenger
+1320	1331	Дэвид Холлз	Дэвид Холлз	PER	PER-David-Hollz
+1344	1356	Tom Jamieson	Tom Jamieson	PER	PER-Tom-Jamieson
+1361	1379	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+1489	1497	Британии	Британия	LOC	GPE-Great-Britain
+1628	1653	британского правительства	Британское правительство	ORG	ORG-the-UK-Government
+1783	1810	Музей медицины ТАКР в Лидсе	Музей медицины Такрей	LOC	GPE-Thackray-Museum
+1821	1827	Англии	Англия	LOC	GPE-Great-Britain
+1830	1844	театр Хартфорд	театр Хартфорд	LOC	LOC-Hartford-Stage
+1862	1869	Лондона	Лондон	LOC	GPE-London
+2129	2144	Джон Челленджер	Джон Челленджер	PER	PER-John-Challenger
+2157	2169	Tom Jamieson	Tom Jamieson	PER	PER-Tom-Jamieson
+2174	2192	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+2195	2209	Собор Солсбери	Собор в Солсбери	LOC	GPE-Salisbury
+2362	2368	Англии	Англия	LOC	GPE-Great-Britain
+2508	2518	Генри Мура	Генри Мур	PER	PER-Henry-Moore
+2564	2577	Грейсон Перри	Грейсон Перри	PER	PER-Grayson-Perry
+2581	2600	Николас Пападопулос	Николас Пападопулос	PER	PER-Nikolas-Papadopoulos
+2844	2855	Пападопулос	Николас Пападопулос	PER	PER-Nikolas-Papadopoulos
+2859	2872	Дэн Хендерсон	Дэн Хендерсон	PER	PER-John-Henderson
+3531	3540	Хендерсон	Дэн Хендерсон	PER	PER-John-Henderson
+3617	3635	Элеонора Журавлева	Элеонора Журавлева	PER	PER-Eleonora-Zhuravleva

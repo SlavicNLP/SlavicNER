@@ -1,0 +1,82 @@
+0	16	Atlantic Council	Atlantic Council	ORG	ORG-Atlantic-Council
+18	31	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+50	56	Europy	Europa	LOC	LOC-Europe
+67	80	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+134	140	Europy	Europa	LOC	LOC-Europe
+262	282	The Atlantic Council	The Atlantic Council	ORG	ORG-Atlantic-Council
+349	360	Ron Johnson	Ron Johnson	PER	PER-Ron-Johnson
+381	405	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+415	436	Zdzisław Krasnodębski	Zdzisław Krasnodębski	PER	PER-Zdzisław-Krasnodębski
+458	471	Piotr Naimski	Piotr Naimski	PER	PER-Piotr-Naimski
+473	484	Ron Johnson	Ron Johnson	PER	PER-Ron-Johnson
+535	541	Europy	Europa	LOC	LOC-Europe
+623	629	Moskwa	Moskwa	LOC	GPE-Moscow
+660	665	Rosji	Rosja	LOC	GPE-Russia
+668	673	Syrii	Syria	LOC	GPE-Syria
+683	688	Krymu	Krym	LOC	GPE-Crimea
+702	710	Ukrainie	Ukraina	LOC	GPE-Ukraine
+772	777	Rosja	Rosja	LOC	GPE-Russia
+890	897	Johnson	Johnson	PER	PER-Boris-Johnson
+915	928	Piotr Naimski	Piotr Naimski	PER	PER-Piotr-Naimski
+944	961	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+964	970	Polska	Polska	LOC	GPE-Poland
+1008	1021	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1050	1067	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+1230	1247	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1341	1348	Naimski	Naimski	PER	PER-Piotr-Naimski
+1368	1401	Kancelarii Prezesa Rady Ministrów	Kancelaria Prezesa Rady Ministrów	ORG	ORG-Office-of-the-Prime-Minister-Poland
+1429	1446	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1483	1496	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1596	1599	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1685	1698	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1700	1707	Naimski	Naimski	PER	PER-Piotr-Naimski
+1721	1738	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1792	1805	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1849	1863	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1988	2001	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2048	2066	Departamentu Stanu	Departament Stanu	ORG	ORG-Department-of-State-USA
+2067	2081	Sandra Oudkirk	Sandra Oudkirk	PER	PER-Sandra-Oudkirk
+2119	2127	Berlinie	Berlin	LOC	GPE-Berlin
+2201	2214	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2312	2315	USA	USA	LOC	GPE-USA
+2316	2327	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+2389	2410	Jackiem Czaputowiczem	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+2497	2510	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2636	2643	Ameryki	Ameryka	LOC	GPE-USA
+2661	2667	CAATSA	CAATSA	PRO	PRO-CAATSA-Bill
+2695	2701	Trumpa	Trump	PER	PER-Donald-Trump
+2800	2819	Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+2916	2922	Trumpa	Trump	PER	PER-Donald-Trump
+2941	2958	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+2982	2989	Niemiec	Niemcy	LOC	GPE-Germany
+3006	3019	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+3085	3087	UE	UE	ORG	ORG-European-Union
+3105	3111	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+3180	3199	Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-Chamber-of-Representatives-NL
+3251	3259	Kapitolu	Kapitol	LOC	LOC-United-States-Capitol
+3277	3294	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+3365	3376	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+3388	3395	Naimski	Naimski	PER	PER-Piotr-Naimski
+3409	3412	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+3531	3539	Berlinie	Berlin	LOC	GPE-Berlin
+3602	3615	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+3670	3678	Niemcami	Niemcy	LOC	GPE-Germany
+3691	3707	Europy Środkowej	Europa Środkowa	LOC	LOC-Central-Europe
+3835	3842	Naimski	Naimski	PER	PER-Piotr-Naimski
+3911	3919	Kapitolu	Kapitol	LOC	LOC-United-States-Capitol
+3939	3963	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+3974	3995	Zdzisław Krasnodębski	Zdzisław Krasnodębski	PER	PER-Zdzisław-Krasnodębski
+4053	4061	Berlinie	Berlin	LOC	GPE-Berlin
+4085	4087	PE	PE	ORG	ORG-European-Parliament
+4162	4175	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+4221	4228	Niemiec	Niemcy	LOC	GPE-Germany
+4441	4464	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+4511	4519	Kapitolu	Kapitol	LOC	LOC-United-States-Capitol
+4532	4551	Richard Morningstar	Richard Morningstar	PER	PER-Richard-Morningstar
+4581	4629	Globalnego Ośrodka ds. Energii Rady Atlantyckiej	Globalny Ośrodek ds. Energii Rady Atlantyckiej	ORG	ORG-Global-Energy-Center-Atlantic-Council
+4702	4709	Eurazji	Eurazja	LOC	LOC-Eurasia
+4725	4728	USA	USA	LOC	GPE-USA
+4731	4733	UE	UE	ORG	ORG-European-Union
+4736	4749	Azerbejdżanie	Azerbejdżan	LOC	GPE-Azerbaijan
+4751	4779	Informacyjna Agencja Radiowa	Informacyjna Agencja Radiowa	ORG	ORG-IAR-Informacyjna-Agencja-Radiowa
+4780	4802	Polska Agencja Prasowa	Polska Agencja Prasowa	ORG	ORG-PAP-Polish-Press-Agency

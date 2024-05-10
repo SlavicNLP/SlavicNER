@@ -1,0 +1,20 @@
+0	5	Полша	Полша	LOC	GPE-Poland
+11	14	САЩ	САЩ	LOC	GPE-USA
+26	41	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+55	60	Полша	Полша	LOC	GPE-Poland
+74	77	САЩ	САЩ	LOC	GPE-USA
+110	125	Северен Поток 2	Северен Поток 2	PRO	PRO-Nord-Stream-2
+157	162	Русия	Русия	LOC	GPE-Russia
+165	173	Германия	Германия	LOC	GPE-Germany
+183	190	Ройтерс	Ройтерс	ORG	ORG-Reuters
+240	243	САЩ	САЩ	LOC	GPE-USA
+244	257	Рекс Тилърсън	Рекс Тилърсън	PER	PER-Rex-Tillerson
+274	281	Варшава	Варшава	LOC	GPE-Warsaw
+372	387	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+422	427	Русия	Русия	LOC	GPE-Russia
+448	462	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+467	475	Германия	Германия	LOC	GPE-Germany
+510	513	БНР	БНР	PRO	PRO-Bulgarian-National-Radio
+557	573	Ивайло Московски	Ивайло Московски	PER	PER-Ivaylo-Moskovski
+616	619	БСП	БСП	ORG	ORG-Bulgarian-Communist-Party
+636	639	БДЖ	БДЖ	ORG	ORG-Bulgarian-State-Railways

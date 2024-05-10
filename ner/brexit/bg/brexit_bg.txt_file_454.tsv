@@ -1,0 +1,40 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+22	28	Лондон	Лондон	LOC	GPE-London
+66	76	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+77	94	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+126	140	Великобритания	Великобритания	LOC	GPE-Great-Britain
+146	152	Лондон	Лондон	LOC	GPE-London
+212	219	Брекзит	Брекзит	EVT	EVT-Brexit
+255	275	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+287	297	EUobserver	EUobserver	PRO	PRO-EUobserver
+306	313	Брюксел	Брюксел	LOC	GPE-Brussles
+359	373	Великобритания	Великобритания	LOC	GPE-Great-Britain
+377	379	ЕС	ЕС	ORG	ORG-European-Union
+644	664	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+743	753	Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+923	925	ЕС	ЕС	ORG	ORG-European-Union
+945	959	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1091	1101	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1155	1162	Брекзит	Брекзит	EVT	EVT-Brexit
+1206	1220	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1525	1539	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1555	1565	Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+1567	1587	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1642	1644	ЕС	ЕС	ORG	ORG-European-Union
+1787	1793	Лондон	Лондон	LOC	GPE-London
+1922	1924	ЕС	ЕС	ORG	ORG-European-Union
+1973	1987	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2009	2019	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2253	2260	Брекзит	Брекзит	EVT	EVT-Brexit
+2290	2297	Брекзит	Брекзит	EVT	EVT-Brexit
+2298	2311	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+2343	2357	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2403	2405	ЕС	ЕС	ORG	ORG-European-Union
+2490	2492	ЕС	ЕС	ORG	ORG-European-Union
+2593	2599	Дейвис	Дейвис	PER	PER-David-Davis
+2631	2653	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+2657	2660	Мей	Мей	PER	PER-Theresa-May
+2809	2811	ЕС	ЕС	ORG	ORG-European-Union
+2889	2903	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2930	2936	Лондон	Лондон	LOC	GPE-London
+3038	3040	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,58 @@
+10	17	Wyspach	Wyspy	LOC	GPE-Great-Britain
+19	25	Polacy	Polacy	PER	GPE-Poland
+64	70	Polacy	Polacy	PER	GPE-Poland
+83	102	Wyspach Brytyjskich	Wyspy Brytyjskie	LOC	GPE-Great-Britain
+132	147	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+236	253	Jadwiga Emilewicz	Jadwiga Emilewicz	PER	PER-Jadwiga-Emilewicz
+271	313	Forum Gospodarczego Wielka Brytania-Polska	Forum Gospodarcze Wielka Brytania-Polska	EVT	EVT-Economic-Forum-United-Kingdom-Poland
+326	332	Polsce	Polska	LOC	GPE-Poland
+369	377	brexicie	Brexit	EVT	EVT-Brexit
+412	416	MPiT	MPiT	ORG	ORG-MPiT
+510	516	Polski	Polska	LOC	GPE-Poland
+592	598	Polski	Polska	LOC	GPE-Poland
+602	619	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+657	666	Emilewicz	Emilewicz	PER	PER-Jadwiga-Emilewicz
+689	696	Polaków	Polacy	PER	GPE-Poland
+783	798	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+843	849	Polacy	Polacy	PER	GPE-Poland
+852	869	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+960	975	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1111	1128	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1137	1180	Strategia na rzecz Odpowiedzialnego Rozwoju	Strategia na rzecz Odpowiedzialnego Rozwoju	PRO	PRO-Strategy-for-Responsible-Development
+1485	1493	brexitem	Brexit	EVT	EVT-Brexit
+1495	1504	Emilewicz	Emilewicz	PER	PER-Jadwiga-Emilewicz
+1533	1540	brexitu	Brexit	EVT	EVT-Brexit
+1609	1624	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1627	1642	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1769	1784	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1790	1792	KE	KE	ORG	ORG-European-Commission
+1815	1821	Polska	Polska	LOC	GPE-Poland
+2056	2065	Emilewicz	Emilewicz	PER	PER-Jadwiga-Emilewicz
+2121	2138	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2176	2184	brexitem	Brexit	EVT	EVT-Brexit
+2273	2290	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2322	2328	Polsce	Polska	LOC	GPE-Poland
+2432	2438	Polska	Polska	LOC	GPE-Poland
+2524	2531	brexitu	Brexit	EVT	EVT-Brexit
+2532	2546	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+2677	2687	Greg Hands	Greg Hands	PER	PER-Greg-Hands
+2690	2705	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2717	2734	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2755	2761	Europy	Europa	LOC	LOC-Europe
+2831	2835	Unia	Unia	ORG	ORG-European-Union
+2990	2995	Hands	Hands	PER	PER-Greg-Hands
+3057	3063	Polski	Polska	LOC	GPE-Poland
+3151	3168	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3211	3220	Niemczech	Niemcy	LOC	GPE-Germany
+3221	3227	Polska	Polska	LOC	GPE-Poland
+3273	3290	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3292	3298	Polska	Polska	LOC	GPE-Poland
+3348	3365	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3719	3724	Hands	Hands	PER	PER-Greg-Hands
+3891	3897	Wysypy	Wyspy	LOC	GPE-Great-Britain
+3899	3904	Forum	Forum	EVT	EVT-Economic-Forum-United-Kingdom-Poland
+3949	3994	Ministerstwo Przedsiębiorczości i Technologii	Ministerstwo Przedsiębiorczości i Technologii	ORG	ORG-MPiT
+4273	4303	Głównego Urzędu Statystycznego	Główny Urząd Statystyczny	ORG	ORG-GUS-Poland
+4332	4349	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4586	4603	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4673	4688	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain

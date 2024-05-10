@@ -1,0 +1,38 @@
+0	10	Nizozemsko	Nizozemsko	LOC	GPE-Holland
+19	27	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+28	36	patrioty	patriot	PRO	PRO-Patriot-Anti-Aircraft-System
+38	48	Nizozemsko	Nizozemsko	LOC	GPE-Holland
+57	65	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+101	108	Patriot	Patriot	PRO	PRO-Patriot-Anti-Aircraft-System
+153	166	Joeem Bidenem	Joe Biden	PER	PER-Joe-Biden
+169	179	Bílém domě	Bílý dům	LOC	LOC-White-House
+198	205	Reuters	Reuters	ORG	ORG-Reuters
+230	240	Mark Rutte	Mark Rutte	PER	PER-Mark-Rutte
+257	259	AP	AP	ORG	ORG-AP-The-Associated-Press
+264	269	Rutte	Rutte	PER	PER-Mark-Rutte
+295	302	Bidenem	Biden	PER	PER-Joe-Biden
+319	329	Nizozemsko	Nizozemsko	LOC	GPE-Holland
+333	341	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+349	356	Patriot	Patriot	PRO	PRO-Patriot-Anti-Aircraft-System
+480	488	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+491	501	Nizozemsko	Nizozemsko	LOC	GPE-Holland
+520	535	Spojeným státům	Spojené státy	LOC	GPE-USA
+538	545	Německu	Německo	LOC	GPE-Germany
+632	640	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+677	699	ruské ozbrojené agresi	ruská ozbrojená agrese	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+819	834	Olafem Scholzem	Olaf Scholz	PER	PER-Olaf-Scholz
+843	848	Rutte	Rutte	PER	PER-Mark-Rutte
+850	855	Rutte	Rutte	PER	PER-Mark-Rutte
+871	874	ANP	ANP	ORG	ORG-ANP-Agency
+932	953	Volodymyrem Zelenským	Volodymyr Zelensky	PER	PER-Volodymyr-Zelensky
+956	961	Biden	Biden	PER	PER-Joe-Biden
+972	979	Ruttemu	Rutte	PER	PER-Mark-Rutte
+991	999	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+1070	1075	Rutte	Rutte	PER	PER-Mark-Rutte
+1100	1110	Nizozemsko	Nizozemsko	LOC	GPE-Holland
+1141	1149	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+1218	1228	Nizozemska	Nizozemsko	LOC	GPE-Holland
+1234	1239	Rutte	Rutte	PER	PER-Mark-Rutte
+1242	1249	Bidenem	Biden	PER	PER-Joe-Biden
+1273	1281	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+1400	1407	Patriot	Patriot	PRO	PRO-Patriot-Anti-Aircraft-System

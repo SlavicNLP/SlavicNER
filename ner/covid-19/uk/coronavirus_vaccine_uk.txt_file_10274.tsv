@@ -1,0 +1,14 @@
+36	43	Лондоні	Лондон	LOC	GPE-London
+50	58	COVID-19	COVID-19	EVT	EVT-Covid-19
+85	92	Лондона	Лондон	LOC	GPE-London
+93	102	Садік Кан	Садік Кан	PER	PER-Sadiq-Khan
+379	386	Лондона	Лондон	LOC	GPE-London
+424	432	COVID-19	COVID-19	EVT	EVT-Covid-19
+677	693	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+694	705	Метт Генкок	Метт Генкок	PER	PER-Matthew-Hancock
+816	823	Moderna	Moderna	ORG	ORG-Moderna
+857	862	COVID	COVID	EVT	EVT-Covid-19
+888	894	Pfizer	Pfizer	ORG	ORG-Pfizer
+897	905	BioNTech	BioNTech	ORG	ORG-BioNTech
+909	935	Оксфордського університету	Оксфордський університет	ORG	ORG-Oxford-University
+948	959	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca

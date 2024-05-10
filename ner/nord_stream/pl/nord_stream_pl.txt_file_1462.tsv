@@ -1,0 +1,46 @@
+0	6	Niemcy	Niemcy	LOC	GPE-Germany
+33	46	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+63	69	Lubmin	Lubmin	LOC	GPE-Lubmin
+82	89	Bałtyku	Bałtyk	LOC	LOC-Baltic-Sea
+143	156	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+205	211	Polska	Polska	LOC	GPE-Poland
+240	243	DPA	DPA	ORG	ORG-DPA
+278	286	Gazpromu	Gazprom	ORG	ORG-Gazprom
+308	316	Lubminie	Lubmin	LOC	GPE-Lubmin
+437	450	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+540	547	Gazprom	Gazprom	ORG	ORG-Gazprom
+582	588	Niemcy	Niemcy	LOC	GPE-Germany
+660	669	Finlandia	Finlandia	LOC	GPE-Finland
+682	689	Szwecji	Szwecja	LOC	GPE-Sweden
+692	697	Danii	Dania	LOC	GPE-Denmark
+760	771	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+789	795	Polska	Polska	LOC	GPE-Poland
+851	857	Europy	Europa	LOC	LOC-Europe
+894	914	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+949	967	Unii Energetycznej	Unia Energetyczna	ORG	ORG-Energy-union
+987	1004	Departament Stanu	Departament Stanu	ORG	ORG-Department-of-State-USA
+1055	1062	Gazprom	Gazprom	ORG	ORG-Gazprom
+1167	1174	Bałtyku	Bałtyk	LOC	LOC-Baltic-Sea
+1230	1233	IAR	IAR	ORG	ORG-IAR
+1251	1277	Medżlisu Tatarów Krymskich	Medżlis Tatarów Krymskich	ORG	ORG-Mejlis-of-the-Crimean-Tatar-People
+1278	1292	Refat Czubarow	Refat Czubarow	PER	PER-Refat-Czubarow
+1298	1304	Putina	Putin	PER	PER-Vladimir-Putin
+1305	1309	Krym	Krym	LOC	GPE-Crimea
+1427	1431	Krym	Krym	LOC	GPE-Crimea
+1455	1462	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1581	1599	Władimirem Wielkim	Władimir Wielki	PER	PER-Vladimir-the-Great
+1614	1618	ZSRR	ZSRR	LOC	GPE-ZSRR
+1651	1658	Ukrainą	Ukraina	LOC	GPE-Ukraine
+1660	1670	Białorusią	Białoruś	LOC	GPE-Belarus
+1673	1678	Putin	Putin	PER	PER-Vladimir-Putin
+1762	1777	PolskieRadio.pl	PolskieRadio.pl	PRO	PRO-PolskieRadio.pl
+1785	1790	Rosji	Rosja	LOC	GPE-Russia
+1792	1809	Marcel Van Herpen	Marcel Van Herpen	PER	PER-Marcel-Van-Herpen
+1823	1828	Rosji	Rosja	LOC	GPE-Russia
+1869	1874	A2/AD	A2/AD	PRO	PRO-A2AD
+1910	1914	NATO	NATO	ORG	ORG-NATO
+1945	1951	Polski	Polska	LOC	GPE-Poland
+1953	1960	Rumunii	Rumunia	LOC	GPE-Romania
+2028	2043	PolskieRadio.pl	PolskieRadio.pl	PRO	PRO-PolskieRadio.pl
+2044	2057	Joerg Forbrig	Joerg Forbrig	PER	PER-Joerg-Forbrig
+2079	2099	German Marshall Fund	German Marshall Fund	ORG	ORG-German-Marshall-Fund

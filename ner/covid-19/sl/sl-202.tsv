@@ -1,0 +1,41 @@
+0	8	Covid-19	Covid-19	EVT	EVT-Covid-19
+37	45	Slovenci	Slovenci	PER	GPE-Slovenia
+105	121	Srečkom Šestanom	Srečko Šestan	PER	PER-Srečko-Šestan
+167	186	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+189	202	Srečko Šestan	Srečko Šestan	PER	PER-Srečko-Šestan
+290	303	koronavirusom	koronavirus	EVT	EVT-Covid-19
+328	337	Ljubljana	Ljubljana	LOC	GPE-Ljubljana
+561	574	Srečko Šestan	Srečko Šestan	PER	PER-Srečko-Šestan
+668	687	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+719	728	Sloveniji	Slovenija	LOC	GPE-Slovenia
+859	872	Srečko Šestan	Srečko Šestan	PER	PER-Srečko-Šestan
+1135	1154	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1682	1690	Hrvaškem	Hrvaška	LOC	GPE-Croatia
+1723	1730	Hrvatih	Hrvati	PER	GPE-Croatia
+1790	1797	Italiji	Italija	LOC	GPE-Italy
+1958	1965	Italije	Italija	LOC	GPE-Italy
+2606	2614	Kitajske	Kitajska	LOC	GPE-China
+2616	2624	Kitajska	Kitajska	LOC	GPE-China
+2670	2677	Italijo	Italija	LOC	GPE-Italy
+2768	2776	Kitajski	Kitajska	LOC	GPE-China
+2850	2858	Kitajcem	Kitajci	PER	GPE-China
+2937	2946	Slovenije	Slovenija	LOC	GPE-Slovenia
+2951	2958	Kitajci	Kitajci	PER	GPE-China
+4748	4770	Ministrstvo za zdravje	Ministrstvo za zdravje	ORG	ORG-Ministry-of-Health-Slovenia
+5113	5121	Kitajske	Kitajska	LOC	GPE-China
+5176	5184	Kitajske	Kitajska	LOC	GPE-China
+5545	5552	Italiji	Italija	LOC	GPE-Italy
+5559	5567	Hrvaškem	Hrvaška	LOC	GPE-Croatia
+5737	5746	Italijani	Italijani	PER	GPE-Italy
+5847	5854	Italije	Italija	LOC	GPE-Italy
+6118	6125	Italiji	Italija	LOC	GPE-Italy
+6367	6374	Italijo	Italija	LOC	GPE-Italy
+6888	6910	ministrstva za zdravje	ministrstvo za zdravje	ORG	ORG-Ministry-of-Health-Slovenia
+7368	7379	Janez Janša	Janez Janša	PER	PER-Janez-Janša
+7538	7564	Svet za nacionalno varnost	Svet za nacionalno varnost	ORG	ORG-National-Security-Council-Slovenia
+8731	8741	Rdeči križ	Rdeči križ	ORG	ORG-Red-Cross-Slovenia
+8822	8829	Metliki	Metlika	LOC	GPE-Metlika
+8877	8886	Sloveniji	Slovenija	LOC	GPE-Slovenia
+9314	9325	Matej Tonin	Matej Tonin	PER	PER-Matej-Tonin
+9926	9934	Slovenci	Slovenci	PER	GPE-Slovenia
+10036	10045	Sloveniji	Slovenija	LOC	GPE-Slovenia

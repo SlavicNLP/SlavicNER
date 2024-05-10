@@ -1,0 +1,38 @@
+0	13	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+80	82	ЕС	ЕС	ORG	ORG-European-Union
+101	115	Великобритания	Великобритания	LOC	GPE-Great-Britain
+145	161	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+167	174	Брекзит	Брекзит	EVT	EVT-Brexit
+232	245	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+304	314	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+326	333	Ройтерс	Ройтерс	ORG	ORG-Reuters
+336	343	Джонсън	Джонсън	PER	PER-Boris-Johnson
+367	376	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+425	437	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+452	455	САЩ	САЩ	LOC	GPE-USA
+483	487	Иран	Иран	LOC	GPE-Iran
+508	518	Дейли мейл	Дейли мейл	PRO	PRO-Daily-Mail
+609	623	Великобритания	Великобритания	LOC	GPE-Great-Britain
+641	648	Брекзит	Брекзит	EVT	EVT-Brexit
+730	733	Мей	Мей	PER	PER-Theresa-May
+756	772	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+964	974	Грег Кларк	Грег Кларк	PER	PER-Greg-Clark
+1044	1058	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1089	1091	ЕС	ЕС	ORG	ORG-European-Union
+1093	1100	Джонсън	Джонсън	PER	PER-Boris-Johnson
+1265	1272	Джонсън	Джонсън	PER	PER-Boris-Johnson
+1410	1412	ЕС	ЕС	ORG	ORG-European-Union
+1429	1449	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1545	1559	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1698	1700	ЕС	ЕС	ORG	ORG-European-Union
+1770	1777	Брекзит	Брекзит	EVT	EVT-Brexit
+1794	1797	Мей	Мей	PER	PER-Theresa-May
+1829	1831	ЕС	ЕС	ORG	ORG-European-Union
+1948	1955	Брекзит	Брекзит	EVT	EVT-Brexit
+1960	1974	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2024	2026	ЕС	ЕС	ORG	ORG-European-Union
+2100	2110	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2220	2236	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2251	2253	ЕС	ЕС	ORG	ORG-European-Union
+2254	2262	Ирландия	Ирландия	LOC	GPE-Ireland
+2375	2382	Брекзит	Брекзит	EVT	EVT-Brexit

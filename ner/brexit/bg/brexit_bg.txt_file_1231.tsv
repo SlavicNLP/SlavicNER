@@ -1,0 +1,28 @@
+21	32	европейците	европейци	PER	LOC-Europe
+46	60	Великобритания	Великобритания	LOC	GPE-Great-Britain
+66	73	Брекзит	Брекзит	EVT	EVT-Brexit
+89	91	ЕС	ЕС	ORG	ORG-European-Union
+113	127	Великобритания	Великобритания	LOC	GPE-Great-Britain
+402	416	Великобритания	Великобритания	LOC	GPE-Great-Britain
+428	439	европейците	европейци	PER	LOC-Europe
+445	452	Брекзит	Брекзит	EVT	EVT-Brexit
+493	499	Лондон	Лондон	LOC	GPE-London
+569	571	ЕС	ЕС	ORG	ORG-European-Union
+584	598	Великобритания	Великобритания	LOC	GPE-Great-Britain
+847	860	Саджид Джавид	Саджид Джавид	PER	PER-Sajid-Javid
+1175	1189	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1198	1200	ЕС	ЕС	ORG	ORG-European-Union
+1377	1391	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1645	1650	Apple	Apple	ORG	ORG-Apple
+1888	1897	европейци	европейци	PER	PER-Europe
+1909	1923	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1941	1949	британци	британци	PER	GPE-Great-Britain
+1954	1956	ЕС	ЕС	ORG	ORG-European-Union
+2059	2066	Франция	Франция	LOC	GPE-France
+2069	2076	Испания	Испания	LOC	GPE-Spain
+2185	2192	Брекзит	Брекзит	EVT	EVT-Brexit
+2273	2275	ЕС	ЕС	ORG	ORG-European-Union
+2334	2355	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+2403	2413	британците	британци	PER	GPE-Great-Britain
+2455	2461	Лондон	Лондон	LOC	GPE-London
+2507	2518	европейците	европейци	PER	LOC-Europe

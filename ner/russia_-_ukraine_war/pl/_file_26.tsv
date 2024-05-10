@@ -1,0 +1,70 @@
+27	35	Azowstal	Azowstal	ORG	ORG-Azovstal
+37	42	Biden	Biden	PER	PER-Joe-Biden
+68	75	Ukrainy	Ukraina	LOC	GPE-Ukraine
+122	130	Azowstal	Azowstal	ORG	ORG-Azovstal
+192	201	Mariupolu	Mariupol	LOC	GPE-Mariupol
+221	230	LiveUAMap	LiveUAMap	PRO	PRO-LiveUAMap
+277	282	Rosji	Rosja	LOC	GPE-Russia
+283	297	Władimir Putin	Władimir Putin	PER	PER-Vladimir-Putin
+330	347	Siergiejem Szojgu	Siergiej Szojgu	PER	PER-Sergei-Shoigu
+384	392	Azowstal	Azowstal	ORG	ORG-Azovstal
+395	404	Mariupolu	Mariupol	LOC	GPE-Mariupol
+584	587	USA	USA	LOC	GPE-USA
+588	601	Wendy Sherman	Wendy Sherman	PER	PER-Wendy-Sherman
+616	624	Brukseli	Bruksela	LOC	GPE-Brussles
+629	634	Rosja	Rosja	LOC	GPE-Russia
+667	685	inwazji na Ukrainę	inwazja na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+795	800	Rosji	Rosja	LOC	GPE-Russia
+802	818	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+821	827	Kremla	Kreml	LOC	LOC-Kremlin
+898	905	Ukraina	Ukraina	LOC	GPE-Ukraine
+929	936	Sherman	Sherman	PER	PER-Wendy-Sherman
+1000	1017	Friends of Europe	Friends of Europe	ORG	ORG-Friends-of-Europe
+1029	1037	Donbasie	Donbas	LOC	LOC-Donbass
+1045	1050	Rosja	Rosja	LOC	GPE-Russia
+1109	1120	Jacek Raubo	Jacek Raubo	PER	PER-Jacek-Raubo
+1146	1152	Putina	Putin	PER	PER-Vladimir-Putin
+1297	1302	Rosja	Rosja	LOC	GPE-Russia
+1573	1581	Zaporoże	Zaporoże	LOC	GPE-Zaporizhzhia
+1582	1586	Lwów	Lwów	LOC	GPE-Lviv
+1614	1624	ukraińskie	ukraiński	LOC	GPE-Ukraine
+1642	1655	Ukrzaliznycia	Ukrzaliznycia	ORG	ORG-Ukrainian-Railways
+1959	1969	Ussuryjsku	Ussuryjsk	LOC	GPE-Ussuriysk
+1972	1988	Kraju Nadmorskim	Kraj Nadmorski	LOC	GPE-Primorsky-Krai
+2038	2044	Msta-S	Msta-S	PRO	PRO-Msta-S
+2059	2064	Omsku	Omsk	LOC	GPE-Omsk
+2095	2101	Akacja	Akacja	PRO	PRO-2S3-Akatsiya
+2121	2134	Nowoczerkasku	Nowoczerkask	LOC	GPE-Novocherkassk
+2146	2156	rostowskim	rostowski	LOC	GPE-Rostov-Oblast
+2172	2179	Ukrainą	Ukraina	LOC	GPE-Ukraine
+2201	2216	swierdłowskiego	swierdłowski	LOC	GPE-Sverdlovsk-Oblast
+2220	2225	Uralu	Ural	LOC	GPE-Ural-Region
+2242	2248	Akacja	Akacja	PRO	PRO-2S3-Akatsiya
+2250	2256	Msta-S	Msta-S	PRO	PRO-Msta-S
+2285	2292	Goździk	Goździk	PRO	PRO-2S1-Gvozdika
+2303	2313	irkuckiego	irkucki	LOC	GPE-Irkutsk-Oblast
+2350	2358	Toczka-U	Toczka-U	PRO	PRO-OTR-21-Tochka
+2373	2379	Uragan	Uragan	PRO	PRO-BM-27-Uragan
+2426	2431	Rosji	Rosja	LOC	GPE-Russia
+2484	2489	Omsku	Omsk	LOC	GPE-Omsk
+2511	2527	rosyjskiej armii	rosyjska armia	ORG	ORG-Russian-Armed-Forces
+2543	2550	Ukrainę	Ukraina	LOC	GPE-Ukraine
+2867	2870	SBU	SBU	ORG	ORG-Security-Service-Ukraine
+3159	3166	Ukrainy	Ukraina	LOC	GPE-Ukraine
+3320	3328	Donbasie	Donbas	LOC	LOC-Donbass
+3329	3337	Rosjanie	Rosjanie	PER	GPE-Russia
+3562	3565	ISW	ISW	ORG	ORG-Institute-for-the-Study-of-War
+3821	3837	Wojska rosyjskie	Wojska rosyjskie	ORG	ORG-Russian-Armed-Forces
+3896	3904	Donbasie	Donbas	LOC	LOC-Donbass
+3955	3971	Siewierodoniecka	Siewierodonieck	LOC	GPE-Sievierodonetsk
+4009	4018	Rubiżnego	Rubiżne	LOC	GPE-Rubizhne
+4021	4029	Popasnej	Popasna	LOC	GPE-Popasna
+4065	4089	Instytut Badań nad Wojną	Instytut Badań nad Wojną	ORG	ORG-Institute-for-the-Study-of-War
+4091	4094	ISW	ISW	ORG	ORG-Institute-for-the-Study-of-War
+4110	4115	Onetu	Onet	PRO	PRO-Onet
+4139	4146	Ukrainy	Ukraina	LOC	GPE-Ukraine
+4216	4221	Rosję	Rosja	LOC	GPE-Russia
+4224	4232	Ukrainie	Ukraina	LOC	GPE-Ukraine
+4244	4257	Marcin Wyrwał	Marcin Wyrwał	PER	PER-Marcin
+4288	4293	Lwowa	Lwów	LOC	GPE-Lviv
+4297	4303	Kijowa	Kijów	LOC	GPE-Kiev

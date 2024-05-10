@@ -1,0 +1,12 @@
+2	11	Шотландия	Шотландия	LOC	GPE-Scotland
+73	82	Шотландия	Шотландия	LOC	GPE-Scotland
+83	98	Никола Стърджън	Никола Стърджън	PER	PER-Nicola-Sturgeon
+201	208	Ройтерс	Ройтерс	ORG	ORG-Reuters
+226	229	ITV	ITV	PRO	PRO-ITV-Network
+230	238	Стърджън	Стърджън	PER	PER-Nicola-Sturgeon
+252	282	Шотландската национална партия	Шотландска национална партия	ORG	ORG-Scottish-National-Party
+329	336	Брекзит	Брекзит	EVT	EVT-Brexit
+397	411	Великобритания	Великобритания	LOC	GPE-Great-Britain
+599	606	Брекзит	Брекзит	EVT	EVT-Brexit
+634	648	Великобритания	Великобритания	LOC	GPE-Great-Britain
+651	653	ЕС	ЕС	ORG	ORG-European-Union

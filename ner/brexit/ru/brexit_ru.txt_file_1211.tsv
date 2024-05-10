@@ -1,0 +1,22 @@
+6	18	МИД Британии	МИД Британии 	ORG	ORG-Foreign-Office
+19	26	Джонсон	Джонсон	PER	PER-Boris-Johnson
+55	63	брекзита	брекзит	EVT	EVT-Brexit
+151	161	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+190	218	министерства иностранных дел	министерство иностранных дел	ORG	ORG-Foreign-Office
+221	236	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+338	365	выхода Великобритании из ЕС	выход Великобритании из ЕС	EVT	EVT-Brexit
+422	429	брекзит	брекзит	EVT	EVT-Brexit
+432	443	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+465	476	Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+484	490	Дэвиса	Дэвис	PER	PER-David-Davis
+497	509	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+725	734	Евросоюза	Евросоюз	ORG	ORG-European-Union
+740	754	Великобритании	Великобритания	LOC	GPE-Great-Britain
+765	773	Джонсона	Джонсон	PER	PER-Boris-Johnson
+879	882	Мэй	Мэй	PER	PER-Theresa-May
+939	951	Палате общин	Палата общин	ORG	ORG-House-of-Commons
+977	980	Мэй	Мэй	PER	PER-Theresa-May
+1075	1082	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1224	1232	брекзита	брекзит	EVT	EVT-Brexit
+1321	1329	Джонсону	Джонсон	PER	PER-Boris-Johnson
+1385	1397	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt

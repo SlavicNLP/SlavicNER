@@ -1,0 +1,40 @@
+39	50	коронавирус	коронавирус	EVT	EVT-Covid-19
+103	124	втора вълна на вируса	втора вълна на вируса	EVT	EVT-COVID-19-second-wave
+169	181	коронавируса	коронавирус	EVT	EVT-Covid-19
+229	237	България	България	LOC	GPE-Bulgaria
+239	254	Грегорж Шилевич	Грегорж Шилевич	PER	PER-Grzegorz-Sielewicz
+280	290	Кофас груп	Кофас груп	ORG	ORG-Coface-Group
+371	392	втора вълна на вируса	втора вълна на вируса	EVT	EVT-COVID-19-second-wave
+395	402	Шилевич	Шилевич	PER	PER-Grzegorz-Sielewicz
+454	495	Последиците от COVID-19 върху икономиката	Последиците от COVID-19 върху икономиката	PRO	PRO-Consequences-of-COVID-19-on-economics
+1108	1114	Европа	Европа	LOC	LOC-Europe
+1117	1125	Германия	Германия	LOC	GPE-Germany
+1127	1134	Франция	Франция	LOC	GPE-France
+1136	1142	Италия	Италия	LOC	GPE-Italy
+1144	1158	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1255	1264	Централна	Централна	LOC	LOC-Central-Europe
+1267	1281	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+1328	1331	БВП	БВП	PRO	PRO-GDP
+1465	1474	Централна	Централна	LOC	LOC-Central-Europe
+1477	1491	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+1502	1517	Грегорж Шилевич	Грегорж Шилевич	PER	PER-Grzegorz-Sielewicz
+1607	1617	пандемията	пандемия	EVT	EVT-Pandemic
+1664	1672	Германия	Германия	LOC	GPE-Germany
+1674	1681	Франция	Франция	LOC	GPE-France
+1684	1690	Италия	Италия	LOC	GPE-Italy
+1768	1773	Китай	Китай	LOC	GPE-China
+1776	1779	САЩ	САЩ	LOC	GPE-USA
+1862	1868	Европа	Европа	LOC	LOC-Europe
+2060	2067	Шилевич	Шилевич	PER	PER-Grzegorz-Sielewicz
+2079	2089	пандемията	пандемия	EVT	EVT-Pandemic
+2166	2175	Централна	Централна	LOC	LOC-Central-Europe
+2178	2192	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+2228	2235	Румъния	Румъния	LOC	GPE-Romania
+2238	2246	Хърватия	Хърватия	LOC	GPE-Croatia
+2268	2271	БВП	БВП	PRO	PRO-GDP
+2302	2310	Словакия	Словакия	LOC	GPE-Slovakia
+2370	2372	ЕС	ЕС	ORG	ORG-European-Union
+2403	2408	Кофас	Кофас	ORG	ORG-Coface-Group
+2432	2440	България	България	LOC	GPE-Bulgaria
+2462	2465	БВП	БВП	PRO	PRO-GDP
+2801	2804	БВП	БВП	PRO	PRO-GDP

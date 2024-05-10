@@ -1,0 +1,11 @@
+0	6	Лондон	Лондон	LOC	GPE-London
+9	16	Брюксел	Брюксел	LOC	GPE-Brussles
+67	74	Брекзит	Брекзит	EVT	EVT-Brexit
+111	117	Лондон	Лондон	LOC	GPE-London
+175	189	Великобритания	Великобритания	LOC	GPE-Great-Britain
+292	306	Великобритания	Великобритания	LOC	GPE-Great-Britain
+450	452	ЕС	ЕС	ORG	ORG-European-Union
+487	501	Великобритания	Великобритания	LOC	GPE-Great-Britain
+635	637	ЕС	ЕС	ORG	ORG-European-Union
+642	656	Великобритания	Великобритания	LOC	GPE-Great-Britain
+698	705	Брекзит	Брекзит	EVT	EVT-Brexit

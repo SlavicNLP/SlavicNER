@@ -1,0 +1,41 @@
+0	12	The Guardian	The Guardian	PRO	PRO-The-Guardian
+14	21	Брюксел	Брюксел	LOC	GPE-Brussles
+39	49	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+53	60	Брекзит	Брекзит	EVT	EVT-Brexit
+75	82	Брюксел	Брюксел	LOC	GPE-Brussles
+125	135	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+179	181	ЕС	ЕС	ORG	ORG-European-Union
+198	205	Брюксел	Брюксел	LOC	GPE-Brussles
+281	288	Брекзит	Брекзит	EVT	EVT-Brexit
+289	301	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+392	406	Великобритания	Великобритания	LOC	GPE-Great-Britain
+411	417	Европа	Европа	LOC	LOC-Europe
+424	436	The Guardian	The Guardian	PRO	PRO-The-Guardian
+569	577	Ирландия	Ирландия	LOC	GPE-Ireland
+580	582	ЕС	ЕС	ORG	ORG-European-Union
+619	630	Алеш Шмелар	Алеш Шмелар	PER	PER-Ales-Chmelar
+655	672	Чешката република	Чешка република	LOC	GPE-Czech-Republic
+710	724	Великобритания	Великобритания	LOC	GPE-Great-Britain
+783	791	Норвегия	Норвегия	LOC	GPE-Norway
+814	816	ЕС	ЕС	ORG	ORG-European-Union
+848	854	Канада	Канада	LOC	GPE-Canada
+899	913	Великобритания	Великобритания	LOC	GPE-Great-Britain
+930	938	Норвегия	Норвегия	LOC	GPE-Norway
+957	963	Канада	Канада	LOC	GPE-Canada
+988	991	Мей	Мей	PER	PER-Theresa-May
+992	1006	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1052	1054	ЕС	ЕС	ORG	ORG-European-Union
+1060	1107	Европейската агенция за сигурността на полетите	Европейска агенция за сигурността на полетите	ORG	ORG-EASA-European-Aviation-Safety-Agency
+1129	1131	ЕС	ЕС	ORG	ORG-European-Union
+1184	1205	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+1209	1216	Брекзит	Брекзит	EVT	EVT-Brexit
+1217	1230	Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+1232	1242	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1428	1435	Брекзит	Брекзит	EVT	EVT-Brexit
+1463	1476	Манфред Вебер	Манфред Вебер	PER	PER-Manfred-Weber
+1504	1507	ЕНП	ЕНП	ORG	ORG-EPP
+1510	1512	ЕП	ЕП	ORG	ORG-European-Parliament
+1556	1566	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1610	1617	Брекзит	Брекзит	EVT	EVT-Brexit
+1728	1743	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+1882	1911	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

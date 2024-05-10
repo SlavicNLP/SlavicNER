@@ -1,0 +1,18 @@
+11	25	Великобритания	Великобритания	LOC	GPE-Great-Britain
+54	61	Брекзит	Брекзит	EVT	EVT-Brexit
+74	88	Великобритания	Великобритания	LOC	GPE-Great-Britain
+117	124	Брекзит	Брекзит	EVT	EVT-Brexit
+184	190	Лондон	Лондон	LOC	GPE-London
+191	200	Садик Кан	Садик Кан	PER	PER-Sadiq-Khan
+222	229	Брекзит	Брекзит	EVT	EVT-Brexit
+334	337	Кан	Кан	PER	PER-Sadiq-Khan
+348	370	Cambridge Econometrics	Cambridge Econometrics	ORG	ORG-Cambridge-Econometrics
+418	425	Брекзит	Брекзит	EVT	EVT-Brexit
+492	512	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+586	588	ЕС	ЕС	ORG	ORG-European-Union
+591	597	Лондон	Лондон	LOC	GPE-London
+686	700	Великобритания	Великобритания	LOC	GPE-Great-Britain
+842	848	Лондон	Лондон	LOC	GPE-London
+887	894	Брекзит	Брекзит	EVT	EVT-Brexit
+929	937	money.bg	money.bg	PRO	PRO-money.bg
+939	944	Днес+	Днес+	ORG	ORG-DnesPlus

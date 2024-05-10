@@ -1,0 +1,12 @@
+25	32	brexitu	brexit	EVT	EVT-Brexit
+72	77	Davis	Davis	PER	PER-David-Davis
+298	303	Davis	Davis	PER	PER-David-Davis
+306	325	britském parlamentu	britský parlament	ORG	ORG-British-Parlament
+352	359	Reuters	Reuters	ORG	ORG-Reuters
+556	561	Davis	Davis	PER	PER-David-Davis
+708	716	Británie	Británie	LOC	GPE-Great-Britain
+719	732	Evropské unie	Evropská unie	ORG	ORG-European-Union
+734	736	EU	EU	ORG	ORG-European-Union
+803	811	Bruselem	Brusel	LOC	GPE-Brussles
+861	874	BuzzFeed News	BuzzFeed News	PRO	PRO-Buzzfeed-website
+906	912	brexit	brexit	EVT	EVT-Brexit

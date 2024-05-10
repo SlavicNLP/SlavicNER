@@ -1,0 +1,11 @@
+0	20	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+44	51	Брекзит	Брекзит	EVT	EVT-Brexit
+53	73	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+87	150	законопроекта за излизане на Великобритания от Европейския съюз	Законопроект за излизане на Великобритания от Европейския съюз	PRO	PRO-Brexit-law-draft
+159	162	БНТ	БНТ	ORG	ORG-Bulgarian-National-Television
+188	209	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+251	261	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+279	297	Законът за Брекзит	Закон за Брекзит	PRO	PRO-Brexit-law
+332	346	Великобритания	Великобритания	LOC	GPE-Great-Britain
+361	377	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+465	474	Евросъюза	Евросъюз	ORG	ORG-European-Union

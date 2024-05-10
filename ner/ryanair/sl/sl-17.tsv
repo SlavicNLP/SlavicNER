@@ -1,0 +1,52 @@
+17	21	Pulj	Pulj	LOC	GPE-Pulj
+25	30	Zadar	Zadar	LOC	GPE-Zadar
+139	146	Rynaira	Rynair	ORG	ORG-Ryanair
+150	155	Zadru	Zadar	LOC	GPE-Zadar
+159	164	Pulju	Pulj	LOC	GPE-Pulj
+268	278	Ryanairovi	Ryanairov	ORG	ORG-Ryanair
+288	295	Nemčiji	Nemčija	LOC	GPE-Germany
+578	585	Švedske	Švedska	LOC	GPE-Sweden
+587	592	Irske	Irska	LOC	GPE-Ireland
+596	603	Belgije	Belgija	LOC	GPE-Belgium
+687	694	Ryanair	Ryanair	ORG	ORG-Ryanair
+705	713	Haarlemu	Haarlem	LOC	GPE-Haarlem
+768	776	Ryanairu	Ryanair	ORG	ORG-Ryanair
+777	789	Kenny Jacobs	Kenny Jacobs	PER	PER-Kenny-Jacobs
+818	828	Frankfurtu	Frankfurt	LOC	GPE-Frankfurt-am-Main
+971	990	Vereinigung Cockpit	Vereinigung Cockpit	ORG	ORG-Vereinigung-Cockpit
+992	994	VC	VC	ORG	ORG-Vereinigung-Cockpit
+996	1009	Martin Locher	Martin Locher	PER	PER-Martin-Locher
+1051	1059	Ryanairu	Ryanair	ORG	ORG-Ryanair
+1235	1238	SPF	SPF	ORG	ORG-SPF-Svensk-Pilotförening
+1239	1254	Martin Lindgren	Martin Lindgren	PER	PER-Martin-Lindgren
+1330	1338	Ryanairu	Ryanair	ORG	ORG-Ryanair
+1404	1411	Ryanair	Ryanair	ORG	ORG-Ryanair
+1422	1431	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1449	1454	Pulja	Pulj	LOC	GPE-Pulj
+1458	1463	Zadra	Zadar	LOC	GPE-Zadar
+1572	1579	Jadrana	Jadran	LOC	LOC-Adriatic-sea
+1612	1620	Ryanaira	Ryanair	ORG	ORG-Ryanair
+1641	1646	Zadru	Zadar	LOC	GPE-Zadar
+1650	1655	Pulju	Pulj	LOC	GPE-Pulj
+1755	1762	Španiji	Španija	LOC	GPE-Spain
+1764	1771	Belgiji	Belgija	LOC	GPE-Belgium
+1778	1790	Portugalskem	Portugalska	LOC	GPE-Portugal
+1875	1883	Ryanairu	Ryanair	ORG	ORG-Ryanair
+2001	2007	Evropi	Evropa	LOC	LOC-Europe
+2189	2199	Bert Logar	Bert Logar	PER	PER-Bert-Logar
+2234	2241	Posvetu	Po svetu	PRO	PRO-Po-svetu
+2721	2726	Logar	Logar	PER	PER-Bert-Logar
+3011	3027	Croatia Airlines	Croatia Airlines	ORG	ORG-Croatia-Airlines
+3044	3053	Zagrebško	Zagrebški	LOC	GPE-Zagreb
+3157	3173	Croatia Airlines	Croatia Airlines	ORG	ORG-Croatia-Airlines
+3211	3224	sindikat Orca	sindikat Orca	ORG	ORG-Organisation-of-Croatia-Airlines-Workers
+3379	3388	Zagrebško	Zagrebški	ORG	GPE-Zagreb
+3776	3780	Orci	Orca	ORG	ORG-Organisation-of-Croatia-Airlines-Workers
+3800	3813	Damjana Bokal	Damjana Bokal	PER	PER-Damjana-Bokal
+3817	3848	Evropskega potrošniškega centra	Evropski potrošniški center	ORG	ORG-EPC-European-Consumer-Centre-Slovenia
+3850	3853	EPC	EPC	ORG	ORG-EPC-European-Consumer-Centre-Slovenia
+3855	3864	Slovenija	Slovenija	LOC	GPE-Slovenia
+4941	4949	Bokalova	Bokal	PER	PER-Damjana-Bokal
+5181	5183	EU	EU	ORG	ORG-European-Union
+5343	5351	Bokalova	Bokal	PER	PER-Damjana-Bokal
+5533	5535	EU	EU	ORG	ORG-European-Union

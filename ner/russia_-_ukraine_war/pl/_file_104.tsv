@@ -1,0 +1,14 @@
+23	26	USA	USA	LOC	GPE-USA
+28	33	Rosja	Rosja	LOC	GPE-Russia
+66	84	inwazji na Ukrainę	inwazja na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+112	115	USA	USA	LOC	GPE-USA
+116	129	Wendy Sherman	Wendy Sherman	PER	PER-Wendy-Sherman
+155	163	Brukseli	Bruksela	LOC	GPE-Brussles
+168	173	Rosja	Rosja	LOC	GPE-Russia
+206	224	inwazji na Ukrainę	inwazja na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+334	339	Rosji	Rosja	LOC	GPE-Russia
+341	357	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+360	366	Kremla	Kreml	LOC	LOC-Kremlin
+436	443	Ukraina	Ukraina	LOC	GPE-Ukraine
+468	475	Sherman	Sherman	PER	PER-Wendy-Sherman
+539	556	Friends of Europe	Friends of Europe	ORG	ORG-Friends-of-Europe

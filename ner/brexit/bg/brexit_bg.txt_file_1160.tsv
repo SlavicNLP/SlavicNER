@@ -1,0 +1,20 @@
+32	34	ЕС	ЕС	ORG	ORG-European-Union
+38	45	Брекзит	Брекзит	EVT	EVT-Brexit
+46	58	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+75	80	София	София	LOC	GPE-Sofia
+138	140	ЕС	ЕС	ORG	ORG-European-Union
+144	151	Брекзит	Брекзит	EVT	EVT-Brexit
+152	164	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+196	204	България	България	LOC	GPE-Bulgaria
+251	264	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+281	324	Българското председателство на Съвета на ЕС	Българско председателство на Съвета на ЕС	EVT	EVT-Bulgarian-Presidency-EU
+325	339	Лиляна Павлова	Лиляна Павлова	PER	PER-Lilyana-Pavlova
+389	407	Народното събрание	Народно събрание	ORG	ORG-National-Assembly-Bulgaria
+453	461	България	България	LOC	GPE-Bulgaria
+462	474	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+531	538	Брекзит	Брекзит	EVT	EVT-Brexit
+606	628	Eurofi Financial Forum	Eurofi Financial Forum	ORG	ORG-The-Eurofi-Financial-Forum
+684	686	ЕС	ЕС	ORG	ORG-European-Union
+804	822	Йорданка Фандъкова	Йорданка Фандъкова	PER	PER-Yordanka-Fandakova
+906	921	Европейски съюз	Европейски съюз	ORG	ORG-European-Union
+1062	1091	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

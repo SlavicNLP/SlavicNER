@@ -1,0 +1,27 @@
+97	109	Американские	Американские	LOC	GPE-USA
+176	182	Байден	Байден	PER	PER-Joe-Biden
+191	198	Мичиган	Мичиган	LOC	GPE-Michigan
+274	280	Трампа	Трам	PER	PER-Donald-Trump
+367	374	Байдена	Байден	PER	PER-Joe-Biden
+447	455	Мичигана	Мичиган	LOC	GPE-Michigan
+571	578	Байдена	Байден	PER	PER-Joe-Biden
+620	626	Трампа	Трамп	PER	PER-Donald-Trump
+630	637	Байдена	Байден	PER	PER-Joe-Biden
+710	718	Dominion	Dominion	PRO	PRO-Dominion-Voting-Systems
+852	858	Трампа	Трамп	PER	PER-Donald-Trump
+862	869	Байдена	Байден	PER	PER-Joe-Biden
+964	971	Байдена	Байден	PER	PER-Joe-Biden
+983	987	Уэйн	Уэйн	LOC	GPE-Wayne
+1580	1588	Мичигане	Мичиган	LOC	GPE-Michigan
+1678	1683	Трамп	Трамп	PER	PER-Donald-Trump
+1809	1814	Трамп	Трамп	PER	PER-Donald-Trump
+1942	1950	Мичигана	Мичиган	LOC	GPE-Michigan
+2163	2175	Детройтского	Детройтский	LOC	GPE-Detroit
+2314	2327	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+2386	2398	Сидни Пауэлл	Сидни Пауэлл	PER	PER-Sidney-Powell
+2441	2447	Трампа	Трамп	PER	PER-Donald-Trump
+2514	2521	Мичиган	Мичиган	LOC	GPE-Michigan
+2576	2583	Аризоны	Аризона	LOC	GPE-Arizona
+2602	2609	Байдена	Байден	PER	PER-Joe-Biden
+2825	2831	Байден	Байден	PER	PER-Joe-Biden
+2923	2935	Американские	Американские	LOC	GPE-USA

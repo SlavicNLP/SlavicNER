@@ -1,0 +1,15 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+47	53	Ruskem	Rusko	LOC	GPE-Russia
+109	113	NATO	NATO	ORG	ORG-NATO
+145	159	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+219	222	USA	USA	LOC	GPE-USA
+229	235	Evropu	Evropa	LOC	LOC-Europe
+241	247	Ruskem	Rusko	LOC	GPE-Russia
+282	289	Německo	Německo	LOC	GPE-Germany
+297	302	Rusku	Rusko	LOC	GPE-Russia
+341	347	Trumpa	Trump	PER	PER-Donald-Trump
+353	368	Spojeným státům	Spojené státy	LOC	GPE-USA
+396	407	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+487	511	Severoatlantická aliance	Severoatlantická aliance	ORG	ORG-NATO
+541	545	NATO	NATO	ORG	ORG-NATO
+546	562	Jens Stoltenberg	Jens Stoltenberg	PER	PER-Jens-Stoltenberg

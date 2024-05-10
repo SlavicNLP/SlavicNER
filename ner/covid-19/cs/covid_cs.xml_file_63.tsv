@@ -1,0 +1,17 @@
+21	26	Česku	Česko	LOC	GPE-Czech-Republic
+61	68	Prymula	Prymula	PER	PER-Roman-Prymula
+158	166	covid-19	covid-19	EVT	EVT-Covid-19
+177	182	Česku	Česko	LOC	GPE-Czech-Republic
+213	218	Česku	Česko	LOC	GPE-Czech-Republic
+363	368	Česku	Česko	LOC	GPE-Czech-Republic
+531	542	koronavirus	koronavirus	EVT	EVT-Covid-19
+558	566	panělska	Španělsko	LOC	GPE-Spain
+626	642	Kanárské ostrovy	Kanárské ostrovy	LOC	LOC-Canary-Islands
+685	688	PES	PES	PRO	PRO-PES-Anti-epidemic-system-Czech-Republic
+857	866	covidu-19	covid-19	EVT	EVT-Covid-19
+906	934	Veobecné zdravotní pojiťovny	Veobecná zdravotní pojiťovna	ORG	ORG-Vseobecna-zdravotni-pojistovna
+936	939	VZP	VZP	ORG	ORG-Vseobecna-zdravotni-pojistovna
+1042	1056	Velké Británii	Velká Británie	LOC	GPE-Great-Britain
+1062	1076	Severním Irsku	Serverní Irsko	LOC	GPE-Northern-Ireland
+1154	1156	ČR	ČR	LOC	GPE-Czech-Republic
+1218	1226	covid-19	covid-19	EVT	EVT-Covid-19

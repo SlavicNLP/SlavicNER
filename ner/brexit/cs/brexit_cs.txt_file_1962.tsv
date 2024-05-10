@@ -1,0 +1,14 @@
+3	10	brexitu	brexit	EVT	EVT-Brexit
+22	26	EU27	EU27	ORG	ORG-European-Union
+29	35	Londýn	Londýn	LOC	GPE-London
+65	78	Evropská unie	Evropská unie	ORG	ORG-European-Union
+81	89	Británie	Británie	LOC	GPE-Great-Britain
+400	402	EU	EU	ORG	ORG-European-Union
+488	494	Irskem	Irsko	LOC	GPE-Ireland
+506	521	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+624	637	Fabian Zuleeg	Fabian Zuleeg	PER	PER-Fabian-Zuleeg
+652	680	Střediska evropských politik	Středisko evropských politik	ORG	ORG-European-Political-Community
+682	685	EPC	EPC	ORG	ORG-European-Political-Community
+748	754	Londýn	Londýn	LOC	GPE-London
+800	802	EU	EU	ORG	ORG-European-Union
+815	825	článkem 50	článek 50	PRO	PRO-Article-50

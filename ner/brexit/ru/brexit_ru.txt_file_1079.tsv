@@ -1,0 +1,23 @@
+0	3	Мэй	Мэй	PER	PER-Theresa-May
+5	12	Джонсон	Джонсон	PER	PER-Boris-Johnson
+15	20	Дэвис	Дэвис	PER	PER-David-Davis
+64	71	Европой	Европа	LOC	LOC-Europe
+95	101	Brexit	Brexit	EVT	EVT-Brexit
+102	113	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+173	175	ЕС	ЕС	ORG	ORG-European-Union
+201	209	Лондоном	Лондон	LOC	GPE-London
+212	221	Брюсселем	Брюссель	LOC	GPE-Brussles
+291	301	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+328	363	Палате общин британского парламента	Палата общин британского парламента	ORG	ORG-House-of-Commons
+470	481	референдума	референдум	EVT	EVT-Brexit-Referendum
+557	559	ЕС	ЕС	ORG	ORG-European-Union
+845	859	Великобритании	Великобритания	LOC	GPE-Great-Britain
+892	894	ЕС	ЕС	ORG	ORG-European-Union
+906	909	Мэй	Мэй	PER	PER-Theresa-May
+944	951	Лондона	Лондон	LOC	GPE-London
+964	973	Брюсселем	Брюссель	LOC	GPE-Brussles
+1025	1040	Великобританией	Великобритания	LOC	GPE-Great-Britain
+1043	1045	ЕС	ЕС	ORG	ORG-European-Union
+1046	1057	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1126	1129	Мэй	Мэй	PER	PER-Theresa-May
+1177	1192	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson

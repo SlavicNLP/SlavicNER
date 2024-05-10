@@ -1,0 +1,24 @@
+0	16	Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+45	55	Тереза Май	Тереза Мей	PER	PER-Theresa-May
+58	69	Еврокомисия	Еврокомисия	ORG	ORG-European-Commission
+74	80	Лондон	Лондон	LOC	GPE-London
+109	119	Тереза Май	Тереза Мей	PER	PER-Theresa-May
+122	135	Еврокомисията	Еврокомисия	ORG	ORG-European-Commission
+154	169	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+175	182	Брекзит	Брекзит	EVT	EVT-Brexit
+209	225	Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+291	307	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+336	350	Великобритания	Великобритания	LOC	GPE-Great-Britain
+353	355	ЕС	ЕС	ORG	ORG-European-Union
+373	388	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+390	403	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+618	633	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+701	708	Джонсън	Джонсън	PER	PER-Boris-Johnson
+783	797	Великобритания	Великобритания	LOC	GPE-Great-Britain
+800	802	ЕС	ЕС	ORG	ORG-European-Union
+829	839	Люксембург	Люксембург	LOC	GPE-Luxembourg
+841	854	Ги Верховстад	Ги Верховстад	PER	PER-Guy-Verhofstadt
+871	878	Брекзит	Брекзит	EVT	EVT-Brexit
+882	903	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+1087	1099	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+1238	1267	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

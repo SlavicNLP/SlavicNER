@@ -1,0 +1,35 @@
+23	30	brexitu	Brexit	EVT	EVT-Brexit
+66	72	Davisa	Davis	PER	PER-David-Davis
+78	88	Telegrapha	Telegraph	PRO	PRO-The-Daily-Telegraph
+134	142	Londynie	Londyn	LOC	GPE-London
+201	218	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+222	231	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+278	280	UE	UE	ORG	ORG-European-Union
+668	677	Florencji	Florencja	LOC	GPE-Florence
+687	698	Theresa May	Theresa May	PER	PER-Theresa-May
+740	757	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+771	773	UE	UE	ORG	ORG-European-Union
+969	974	Davis	Davis	PER	PER-David-Davis
+1055	1061	Kanada	Kanada	LOC	GPE-Canada
+1066	1073	Japonia	Japonia	LOC	GPE-Japan
+1086	1094	Norwegia	Norwegia	LOC	GPE-Norway
+1209	1211	UE	UE	ORG	ORG-European-Union
+1440	1465	brytyjskiemu parlamentowi	Brytyjski Parlament	ORG	ORG-British-Parlament
+1527	1530	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1861	1878	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2240	2246	Davisa	Davis	PER	PER-David-Davis
+2283	2291	Londynie	Londyn	LOC	GPE-London
+2425	2429	City	City	LOC	LOC-City-of-London
+2655	2663	Brexicie	Brexit	EVT	EVT-Brexit
+2673	2690	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2721	2727	Europy	Europa	LOC	LOC-Europe
+2763	2768	Davis	Davis	PER	PER-David-Davis
+2961	2973	Europejczycy	Europejczycy	PER	LOC-Europe
+3019	3031	Manchesterze	Manchester	LOC	GPE-Manchester
+3060	3068	Berlinie	Berlin	LOC	GPE-Berlin
+3357	3372	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3401	3418	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3447	3456	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+3537	3539	UE	UE	ORG	ORG-European-Union
+3649	3667	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+3670	3678	Irlandią	Irlandia	LOC	GPE-Ireland

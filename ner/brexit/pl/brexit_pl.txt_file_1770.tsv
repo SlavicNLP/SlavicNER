@@ -1,0 +1,79 @@
+23	30	Londynu	Londyn	LOC	GPE-London
+33	41	Brukseli	Bruksela	LOC	GPE-Brussles
+61	69	Polakami	Polakacy	PER	GPE-Poland
+130	134	Unii	Unia	ORG	ORG-European-Union
+165	178	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+201	208	Polaków	Polacy	PER	GPE-Poland
+219	230	Theresa May	Theresa May	PER	PER-Theresa-May
+341	348	brexitu	Brexit	EVT	EVT-Brexit
+441	447	Londyn	Londyn	LOC	GPE-London
+610	612	UE	UE	ORG	ORG-European-Union
+637	639	UE	UE	ORG	ORG-European-Union
+640	646	Londyn	Londyn	LOC	GPE-London
+794	796	UE	UE	ORG	ORG-European-Union
+841	854	Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+965	971	Polsce	Polska	LOC	GPE-Poland
+1059	1061	UE	UE	ORG	ORG-European-Union
+1089	1093	Unii	Unia	ORG	ORG-European-Union
+1103	1108	Polak	Polak	PER	GPE-Poland
+1111	1124	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+1160	1167	Londynu	Londyn	LOC	GPE-London
+1298	1304	Londyn	Londyn	LOC	GPE-London
+1548	1560	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1636	1642	Polski	Polska	LOC	GPE-Poland
+1681	1686	Indii	Indie	LOC	GPE-India
+1689	1702	Wlk. Brytania	Wlk. Brytania	LOC	GPE-Great-Britain
+1787	1789	UE	UE	ORG	ORG-European-Union
+1835	1837	UE	UE	ORG	ORG-European-Union
+1867	1875	brexicie	Brexit	EVT	EVT-Brexit
+1919	1925	Londyn	Londyn	LOC	GPE-London
+1978	1980	UE	UE	ORG	ORG-European-Union
+2009	2012	May	May	PER	PER-Theresa-May
+2068	2081	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+2084	2090	Londyn	Londyn	LOC	GPE-London
+2153	2155	UE	UE	ORG	ORG-European-Union
+2267	2273	Londyn	Londyn	LOC	GPE-London
+2307	2309	UE	UE	ORG	ORG-European-Union
+2345	2349	Unii	Unia	ORG	ORG-European-Union
+2372	2376	Unii	Unia	ORG	ORG-European-Union
+2418	2420	UE	UE	ORG	ORG-European-Union
+2482	2490	Londynem	Londyn	LOC	GPE-London
+2588	2592	Unią	Unia	ORG	ORG-European-Union
+2595	2608	Wlk. Brytanią	Wlk. Brytania	LOC	GPE-Great-Britain
+2632	2634	UE	UE	ORG	ORG-European-Union
+2739	2747	Irlandią	Irlandia	LOC	GPE-Ireland
+2750	2754	Unia	Unia	ORG	ORG-European-Union
+2757	2763	Londyn	Londyn	LOC	GPE-London
+2798	2804	brexit	Brexit	EVT	EVT-Brexit
+2910	2918	Irlandią	Irlandia	LOC	GPE-Ireland
+2931	2944	Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+2988	2996	Bruksela	Bruksela	LOC	GPE-Brussles
+3034	3047	Irlandia Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+3150	3158	Ulsterem	Ulster	LOC	GPE-Ulster
+3168	3181	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+3193	3196	May	May	PER	PER-Theresa-May
+3238	3245	Barnier	Barnier	PER	PER-Michel-Barnier
+3248	3253	Davis	Davis	PER	PER-David-Davis
+3308	3310	UE	UE	ORG	ORG-European-Union
+3313	3321	Londynem	Londyn	LOC	GPE-London
+3568	3570	UE	UE	ORG	ORG-European-Union
+3573	3586	Wlk. Brytanią	Wlk. Brytania	LOC	GPE-Great-Britain
+3590	3598	brexicie	Brexit	EVT	EVT-Brexit
+3630	3643	Irlandii Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+3698	3703	Davis	Davis	PER	PER-David-Davis
+3709	3716	Barnier	Barnier	PER	PER-Michel-Barnier
+3841	3849	Brukseli	Bruksela	LOC	GPE-Brussles
+3852	3865	Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+3909	3918	Londynowi	Londyn	LOC	GPE-London
+4080	4091	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+4102	4104	UE	UE	ORG	ORG-European-Union
+4144	4147	May	May	PER	PER-Theresa-May
+4152	4165	Wlk. Brytania	Wlk. Brytania	LOC	GPE-Great-Britain
+4225	4227	UE	UE	ORG	ORG-European-Union
+4300	4302	UE	UE	ORG	ORG-European-Union
+4364	4366	UE	UE	ORG	ORG-European-Union
+4434	4436	UE	UE	ORG	ORG-European-Union
+4510	4512	UE	UE	ORG	ORG-European-Union
+4558	4570	Trybunału UE	Trybunał UE	ORG	ORG-European-Court-of-Justice
+4689	4691	UE	UE	ORG	ORG-European-Union
+4737	4741	Tusk	Tusk	PER	PER-Donald-Tusk

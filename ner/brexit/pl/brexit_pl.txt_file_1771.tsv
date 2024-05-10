@@ -1,0 +1,45 @@
+0	11	Theresa May	Theresa May	PER	PER-Theresa-May
+23	30	Polaków	Polacy	PER	GPE-Poland
+110	113	Ayr	Ayr	LOC	GPE-Ayr
+135	144	Newcastle	Newcastle	LOC	GPE-Newcastle
+175	184	Belfastem	Belfast	LOC	GPE-Belfast
+235	240	Barry	Barry	LOC	GPE-Barry
+287	299	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+423	429	Brexit	Brexit	EVT	EVT-Brexit
+431	446	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+600	602	UE	UE	ORG	ORG-European-Union
+612	615	May	May	PER	PER-Theresa-May
+632	635	May	May	PER	PER-Theresa-May
+651	688	Polskim Ośrodku Społeczno-Kulturalnym	Polski Ośrodek Społeczno-Kulturalny	ORG	ORG-POSK-Polish-Social-and-Cultural-Association
+692	703	Hammersmith	Hammersmith	LOC	LOC-Hammersmith
+709	717	Polakami	Polacy	PER	GPE-Poland
+857	864	Polaków	Polacy	PER	GPE-Poland
+1066	1083	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1086	1103	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1311	1318	Polaków	Polacy	PER	GPE-Poland
+1321	1338	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1377	1384	Polaków	Polacy	PER	GPE-Poland
+1516	1518	UE	UE	ORG	ORG-European-Union
+1535	1552	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1764	1779	Marta Krupińska	Marta Krupińska	PER	PER-Marta-Krupińska
+1799	1804	Polka	Polka	PER	GPE-Poland
+1903	1919	Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+2010	2017	Polaków	Polacy	PER	GPE-Poland
+2178	2195	Joanna Bagniewska	Joanna Bagniewska	PER	PER-Joanna-Bagniewska
+2250	2267	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2292	2307	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+2543	2561	Barbara Drozdowicz	Barbara Drozdowicz	PER	PER-Barbara-Drozdowicz
+2612	2641	East European Resource Centre	East European Resource Centre	ORG	ORG-EERC-East-European-Resource-Centre
+2732	2749	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3181	3188	Polaków	Polacy	PER	GPE-Poland
+3489	3497	Brexicie	Brexit	EVT	EVT-Brexit
+3580	3597	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3601	3607	Polacy	Polacy	PER	GPE-Poland
+3705	3724	Roch Dunin-Wąsowicz	Roch Dunin-Wąsowicz	PER	PER-Roch-Dunin-Wąsowicz
+3727	3753	London School of Economics	London School of Economics	ORG	ORG-London-School-of-Economics-and-Political-Science
+3757	3774	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3805	3822	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3843	3850	Polaków	Polacy	PER	GPE-Poland
+3900	3915	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3944	3946	UE	UE	ORG	ORG-European-Union
+3971	3980	Wspólnotę	Wspólnota	ORG	ORG-European-Union

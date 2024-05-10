@@ -1,0 +1,20 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+31	38	Брекзит	Брекзит	EVT	EVT-Brexit
+68	85	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+136	150	Великобритания	Великобритания	LOC	GPE-Great-Britain
+194	197	АФП	АФП	ORG	ORG-France-Presse
+201	208	Ройтерс	Ройтерс	ORG	ORG-Reuters
+334	354	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+389	391	ЕС	ЕС	ORG	ORG-European-Union
+431	438	Брекзит	Брекзит	EVT	EVT-Brexit
+443	449	Лондон	Лондон	LOC	GPE-London
+562	569	Брекзит	Брекзит	EVT	EVT-Brexit
+571	585	Великобритания	Великобритания	LOC	GPE-Great-Britain
+718	738	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+793	795	ЕС	ЕС	ORG	ORG-European-Union
+815	829	Великобритания	Великобритания	LOC	GPE-Great-Britain
+908	915	Брюксел	Брюксел	LOC	GPE-Brussles
+970	990	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1031	1038	Брекзит	Брекзит	EVT	EVT-Brexit
+1039	1052	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+1072	1074	ЕС	ЕС	ORG	ORG-European-Union

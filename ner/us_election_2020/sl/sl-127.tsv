@@ -1,0 +1,107 @@
+0	5	Pence	Pence	PER	PER-Mike-Pence
+15	24	Američane	Američani	PER	GPE-USA
+31	38	Bidnovi	Biden	PER	PER-Joe-Biden
+39	46	Ameriki	Amerika	LOC	GPE-USA
+76	83	Ameriko	Amerika	LOC	GPE-USA
+157	162	Pence	Pence	PER	PER-Mike-Pence
+173	182	Američani	Američani	PER	GPE-USA
+185	192	Bidnovi	Biden	PER	PER-Joe-Biden
+193	200	Ameriki	Amerika	LOC	GPE-USA
+264	267	ZDA	ZDA	LOC	GPE-USA
+268	278	Mike Pence	Mike Pence	PER	PER-Mike-Pence
+339	360	republikanske stranke	republikanska stranka	ORG	ORG-Republican-Party-USA
+430	439	Američane	Američani	PER	GPE-USA
+470	483	Josepha Bidna	Joseph Biden	PER	PER-Joe-Biden
+484	491	Amerika	Amerika	LOC	GPE-USA
+517	522	Pence	Pence	PER	PER-Mike-Pence
+548	564	trdnjavi McHenry	trdnjava McHenry	LOC	LOC-Fort-McHenry
+567	576	Baltimoru	Baltimore	LOC	GPE-Baltimore
+586	595	Američani	Američani	PER	GPE-USA
+623	631	Britance	Britanci	PER	GPE-Great-Britain
+677	682	Karen	Karen	PER	PER-Karen-Pence
+749	761	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+775	788	Melania Trump	Melania Trump	PER	PER-Melania-Trump
+791	796	Trump	Trump	PER	PER-Donald-Trump
+833	842	Belo hišo	Bela hiša	LOC	LOC-White-House
+893	902	Charlotta	Charlotte	LOC	GPE-Charlotte
+905	921	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+991	994	ZDA	ZDA	LOC	GPE-USA
+1006	1011	Pence	Pence	PER	PER-Mike-Pence
+1033	1042	Trumpovim	Trump	PER	PER-Donald-Trump
+1078	1088	Američanov	Američani	PER	GPE-USA
+1178	1183	Trump	Trump	PER	PER-Donald-Trump
+1282	1295	Baracka Obame	Barack Obama	PER	PER-Barack-Obama
+1310	1319	Trumpovem	Trump	PER	PER-Donald-Trump
+1367	1372	Trump	Trump	PER	PER-Donald-Trump
+1442	1447	Pence	Pence	PER	PER-Mike-Pence
+1587	1594	Amerike	Amerika	LOC	GPE-USA
+1605	1615	Trumpovega	Trump	PER	PER-Donald-Trump
+1667	1674	Amerika	Amerika	LOC	GPE-USA
+1710	1715	Biden	Biden	PER	PER-Joe-Biden
+1718	1723	Pence	Pence	PER	PER-Mike-Pence
+1768	1774	Trumpu	Trump	PER	PER-Donald-Trump
+1789	1798	Američani	Američani	PER	GPE-USA
+1859	1866	Ameriko	Amerika	LOC	GPE-USA
+2082	2093	Washingtona	Washington	LOC	GPE-WashingtonDC
+2107	2114	Ameriko	Amerika	LOC	GPE-USA
+2138	2143	Pence	Pence	PER	PER-Mike-Pence
+2267	2274	Amerike	Amerika	LOC	GPE-USA
+2299	2304	Biden	Biden	PER	PER-Joe-Biden
+2339	2344	Trump	Trump	PER	PER-Donald-Trump
+2361	2368	Ameriko	Amerika	LOC	GPE-USA
+2442	2447	Pence	Pence	PER	PER-Mike-Pence
+2458	2467	Američani	Američani	PER	GPE-USA
+2470	2477	Bidnovi	Biden	PER	PER-Joe-Biden
+2478	2485	Ameriki	Amerika	LOC	GPE-USA
+2534	2539	Biden	Biden	PER	PER-Joe-Biden
+2612	2615	ZDA	ZDA	LOC	GPE-USA
+2676	2681	Pence	Pence	PER	PER-Mike-Pence
+2685	2690	Bidna	Biden	PER	PER-Joe-Biden
+2761	2775	Bernie Sanders	Bernie Sanders	PER	PER-Bernie-Sanders
+2789	2794	Biden	Biden	PER	PER-Joe-Biden
+2844	2847	ZDA	ZDA	LOC	GPE-USA
+2885	2890	Biden	Biden	PER	PER-Joe-Biden
+2971	2978	Amerika	Amerika	LOC	GPE-USA
+3006	3011	Pence	Pence	PER	PER-Mike-Pence
+3052	3058	Trumpa	Trump	PER	PER-Donald-Trump
+3137	3144	Bidnove	Biden	PER	PER-Joe-Biden
+3172	3184	republikanci	republikanci	PER	ORG-Republican-Party-USA
+3187	3194	Trumpom	Trump	PER	PER-Donald-Trump
+3208	3217	demokrati	demokrati	PER	ORG-Democratic-Party-USA
+3220	3226	Bidnom	Biden	PER	PER-Joe-Biden
+3304	3311	Kenoshi	Kenosha	LOC	GPE-Kenosha
+3314	3324	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+3396	3405	Američana	Američan	PER	GPE-USA
+3407	3419	Republikanci	republikanci	PER	ORG-Republican-Party-USA
+3473	3483	demokratom	demokrati	PER	ORG-Democratic-Party-USA
+3615	3627	Republikanci	republikanci	PER	ORG-Republican-Party-USA
+3724	3727	NFL	NFL	ORG	ORG-NFL
+3739	3752	Burgess Owens	Burgess Owens	PER	PER-Burgess-Owens
+3789	3794	Utaha	Utah	LOC	GPE-Utah
+3840	3849	demokrati	demokrati	PER	ORG-Democratic-Party-USA
+4013	4028	Sovjetsko zvezo	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+4040	4043	ZDA	ZDA	LOC	GPE-USA
+4109	4120	Washingtona	Washington	LOC	GPE-WashingtonDC
+4121	4133	Deidre Byrne	Deidre Byrne	PER	PER-Deidre-Byrne
+4163	4172	demokrate	demokrati	PER	ORG-Democratic-Party-USA
+4238	4243	Trump	Trump	PER	PER-Donald-Trump
+4305	4310	Trump	Trump	PER	PER-Donald-Trump
+4387	4408	republikanske stranke	republikanska stranka	ORG	ORG-Republican-Party-USA
+4455	4464	New Yorka	New York	LOC	GPE-New-York
+4501	4513	Južne Dakote	Južna Dakota	LOC	GPE-South-Dakota-US-State
+4514	4525	Kristi Noem	Kristi Noem	PER	PER-Kristi Noem
+4624	4627	ZDA	ZDA	LOC	GPE-USA
+4631	4644	gori Rushmore	gora Rushmore	LOC	LOC-Mount-Rushmore
+4757	4766	demokrati	demokrati	PER	ORG-Democratic-Party-USA
+4787	4795	Trumpova	Trump	PER	PER-Donald-Trump
+4807	4823	Kellyanne Conway	Kellyanne Conway	PER	PER-Kellyanne-Conway
+4922	4928	Trumpu	Trump	PER	PER-Donald-Trump
+4949	4954	Trump	Trump	PER	PER-Donald-Trump
+5058	5064	Trumpa	Trump	PER	PER-Donald-Trump
+5254	5257	NFL	NFL	ORG	ORG-NFL
+5258	5269	Jack Brewer	Jack Brewer	PER	PER-Jack-Brewer
+5284	5293	Američane	Američane	PER	GPE-USA
+5306	5312	Trumpa	Trump	PER	PER-Donald-Trump
+5337	5342	Bidna	Biden	PER	PER-Joe-Biden
+5368	5378	Trumpovega	Trump	PER	PER-Donald-Trump
+5385	5391	Brewer	Brewer	PER	PER-Jack-Brewer

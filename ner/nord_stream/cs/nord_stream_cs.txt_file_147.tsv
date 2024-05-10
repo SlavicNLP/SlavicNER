@@ -1,0 +1,19 @@
+0	7	Turecko	Turecko	LOC	GPE-Turkey
+49	59	TurkStream	TurkStream	PRO	PRO-Turkish-Stream
+61	68	Turecko	Turecko	LOC	GPE-Turkey
+122	132	TurkStream	TurkStream	PRO	PRO-Turkish-Stream
+195	202	Gazprom	Gazprom	ORG	ORG-Gazprom
+310	322	Černého moře	Černé moře	LOC	LOC-Black-Sea
+325	330	Ruska	Rusko	LOC	GPE-Russia
+334	341	Turecka	Turecko	LOC	GPE-Turkey
+448	454	Evropy	Evropa	LOC	LOC-Europe
+540	547	Gazprom	Gazprom	ORG	ORG-Gazprom
+595	605	TurkStream	TurkStream	PRO	PRO-Turkish-Stream
+744	757	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+775	789	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+792	797	Ruska	Rusko	LOC	GPE-Russia
+801	808	Německa	Německo	LOC	GPE-Germany
+810	816	Moskva	Moskva	LOC	GPE-Moscow
+890	900	TurkStream	TurkStream	PRO	PRO-Turkish-Stream
+903	916	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1005	1012	Reuters	Reuters	ORG	ORG-Reuters

@@ -1,0 +1,28 @@
+48	55	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+70	77	Україна	Україна	LOC	GPE-Ukraine
+106	112	Pfizer	Pfizer	ORG	ORG-Pfizer
+116	123	Moderna	Moderna	ORG	ORG-Moderna
+149	161	коронавірусу	коронавірус	EVT	EVT-Covid-19
+162	177	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+210	218	Covid-19	Covid-19	EVT	EVT-Covid-19
+251	259	Бразилії	Бразилія	LOC	GPE-Brazil
+343	350	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+407	416	Сан-Паулу	Сан-Паулу	LOC	GPE-Sao-Paulo-state
+622	633	Pfizer Inc.	Pfizer Inc.	ORG	ORG-Pfizer
+636	648	Moderna Inc.	Moderna Inc.	ORG	ORG-Moderna
+741	763	коронавірусної хвороби	коронавірусна хвороба	EVT	EVT-Covid-19
+788	791	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+847	855	COVID-19	COVID-19	EVT	EVT-Covid-19
+951	954	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+999	1006	України	Україна	LOC	GPE-Ukraine
+1067	1082	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+1092	1097	Китай	Китай	LOC	GPE-China
+1127	1135	COVID-19	COVID-19	EVT	EVT-Covid-19
+1149	1162	коронавірусом	коронавірус	EVT	EVT-Covid-19
+1176	1191	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+1477	1482	Китаю	Китай	LOC	GPE-China
+1504	1511	Україна	Україна	LOC	GPE-Ukraine
+1598	1610	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1764	1767	ТСН	ТСН	PRO	PRO-TSN.ua
+1793	1808	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+1867	1874	Україна	Україна	LOC	GPE-Ukraine

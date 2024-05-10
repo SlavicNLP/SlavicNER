@@ -1,0 +1,29 @@
+19	21	ЕС	ЕС	ORG	ORG-European-Union
+62	69	Брекзит	Брекзит	EVT	EVT-Brexit
+87	89	ЕС	ЕС	ORG	ORG-European-Union
+108	116	Брекзита	Брекзит	EVT	EVT-Brexit
+239	255	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+275	277	ЕС	ЕС	ORG	ORG-European-Union
+296	304	Брекзита	Брекзит	EVT	EVT-Brexit
+427	443	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+453	460	Ройтерс	Ройтерс	ORG	ORG-Reuters
+519	525	Лондон	Лондон	LOC	GPE-London
+544	553	Брекзитът	Брекзит	EVT	EVT-Brexit
+600	603	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+664	671	Брюксел	Брюксел	LOC	GPE-Brussles
+695	697	ЕС	ЕС	ORG	ORG-European-Union
+700	714	Великобритания	Великобритания	LOC	GPE-Great-Britain
+790	800	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+856	864	Ирландия	Ирландия	LOC	GPE-Ireland
+879	893	Великобритания	Великобритания	LOC	GPE-Great-Britain
+953	955	ЕС	ЕС	ORG	ORG-European-Union
+1064	1067	Мей	Мей	PER	PER-Theresa-May
+1191	1199	Ирландия	Ирландия	LOC	GPE-Ireland
+1212	1228	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1265	1272	Брюксел	Брюксел	LOC	GPE-Brussles
+1289	1295	Лондон	Лондон	LOC	GPE-London
+1371	1385	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1387	1389	ЕС	ЕС	ORG	ORG-European-Union
+1430	1446	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1469	1481	Лио Варадкар	Лио Варадкар	PER	PER-Leo-Varadkar
+1590	1596	Лондон	Лондон	LOC	GPE-London

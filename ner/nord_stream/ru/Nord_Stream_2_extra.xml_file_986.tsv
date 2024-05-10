@@ -1,0 +1,26 @@
+0	7	Меркель	Меркель	PER	PER-Angela-Merkel
+53	55	РФ	РФ	LOC	GPE-Russia
+57	77	«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+122	130	Германии	Германия	LOC	GPE-Germany
+134	140	России	Россия	LOC	GPE-Russia
+209	212	ФРГ	ФРГ	LOC	GPE-Germany
+213	227	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+282	288	России	Россия	LOC	GPE-Russia
+429	436	Меркель	Меркель	PER	PER-Angela-Merkel
+485	492	Украину	Украина	LOC	GPE-Ukraine
+494	514	«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+531	547	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
+551	557	России	Россия	LOC	GPE-Russia
+561	569	Германии	Германия	LOC	GPE-Germany
+606	612	Европу	Европа	LOC	LOC-Europe
+639	656	страны Прибалтики	страны Прибалтики	LOC	LOC-Baltic-countries
+658	664	Польша	Польша	LOC	GPE-Poland
+666	673	Украина	Украина	LOC	GPE-Ukraine
+727	730	США	США	LOC	GPE-USA
+754	756	ЕС	ЕС	ORG	ORG-European-Union
+826	829	ФРГ	ФРГ	LOC	GPE-Germany
+850	857	Россией	Россия	LOC	GPE-Russia
+858	867	Дирк Визе	Дирк Визе	PER	PER-Dirk-Wiese
+880	888	Германия	Германия	LOC	GPE-Germany
+953	959	Берлин	Берлин	LOC	GPE-Berlin
+987	1009	«Северного потока — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2

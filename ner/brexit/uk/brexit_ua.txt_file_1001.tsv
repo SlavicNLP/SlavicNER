@@ -1,0 +1,13 @@
+16	32	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+35	41	Brexit	Brexit	EVT	EVT-Brexit
+63	66	МОЗ	МОЗ	ORG	ORG-British-Ministry-of-Health
+84	100	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+103	109	Brexit	Brexit	EVT	EVT-Brexit
+115	128	Стівен Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+209	223	Стівена Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+255	274	Європейського союзу	Європейський Союз	ORG	ORG-European-Union
+361	368	Twitter	Twitter	PRO	PRO-Twitter
+396	409	Домініка Рабе	Домінік Рабе	PER	PER-Dominic-Raab
+462	468	Brexit	Brexit	EVT	EVT-Brexit
+476	484	С.Барклі	С.Барклі	PER	PER-Stiven-Barkli
+507	551	міністерстві охорони здоров'я Великобританії	міністерство хорони здоров'я Великобританії	ORG	ORG-British-Ministry-of-Health

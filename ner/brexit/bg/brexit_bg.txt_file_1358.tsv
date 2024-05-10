@@ -1,0 +1,37 @@
+6	16	Ева Майдел	Ева Майдел	PER	PER-Eva-Maydell
+65	72	Брекзит	Брекзит	EVT	EVT-Brexit
+189	191	ЕС	ЕС	ORG	ORG-European-Union
+209	223	Великобритания	Великобритания	LOC	GPE-Great-Britain
+275	282	Брекзит	Брекзит	EVT	EVT-Brexit
+408	418	Ева Майдел	Ева Майдел	PER	PER-Eva-Maydell
+436	441	София	София	LOC	GPE-Sofia
+484	491	Брекзит	Брекзит	EVT	EVT-Brexit
+505	507	ЕС	ЕС	ORG	ORG-European-Union
+508	520	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+697	723	Управителния съвет на КРИБ	Управителен съвет на КРИБ	ORG	ORG-KRIB-BG-Management-Board
+724	739	Боряна Манолова	Боряна Манолова	PER	PER-Boryana-Manolova
+759	767	България	България	LOC	GPE-Bulgaria
+789	803	Великобритания	Великобритания	LOC	GPE-Great-Britain
+905	915	британците	британци	PER	GPE-Great-Britain
+923	935	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+978	980	ЕС	ЕС	ORG	ORG-European-Union
+1047	1054	Брекзит	Брекзит	EVT	EVT-Brexit
+1086	1100	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1128	1130	ЕС	ЕС	ORG	ORG-European-Union
+1230	1237	Брекзит	Брекзит	EVT	EVT-Brexit
+1258	1268	британците	британци	PER	GPE-Great-Britain
+1349	1357	България	България	LOC	GPE-Bulgaria
+1537	1543	Барние	Барние	PER	PER-Michel-Barnier
+1566	1573	Брекзит	Брекзит	EVT	EVT-Brexit
+1684	1691	българи	българи	PER	GPE-Bulgaria
+1696	1710	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1723	1729	Барние	Барние	PER	PER-Michel-Barnier
+1761	1766	София	София	LOC	GPE-Sofia
+1767	1785	Йорданка Фандъкова	Йорданка Фандъкова	PER	PER-Yordanka-Fandakova
+1813	1819	Барние	Барние	PER	PER-Michel-Barnier
+1843	1856	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+1898	1905	Брюксел	Брюксел	LOC	GPE-Brussles
+1908	1914	Лондон	Лондон	LOC	GPE-London
+2020	2026	Барние	Барние	PER	PER-Michel-Barnier
+2037	2044	Борисов	Борисов	PER	PER-Boyko-Borisov
+2072	2103	българското европредседателство	Българско европредседателство	EVT	EVT-Bulgarian-Presidency-EU

@@ -1,0 +1,51 @@
+43	60	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+71	78	brexitu	Brexit	EVT	EVT-Brexit
+79	93	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+207	224	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+228	237	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+313	321	Londynie	Londyn	LOC	GPE-London
+342	353	Theresą May	Theresa May	PER	PER-Theresa-May
+380	397	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+398	413	Davidem Davisem	David Davis	PER	PER-David-Davis
+656	673	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+676	678	UE	UE	ORG	ORG-European-Union
+856	858	UE	UE	ORG	ORG-European-Union
+931	938	Barnier	Barnier	PER	PER-Michel-Barnier
+1065	1073	Irlandią	Irlandia	LOC	GPE-Ireland
+1094	1111	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1112	1129	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+1150	1152	UE	UE	ORG	ORG-European-Union
+1221	1223	UE	UE	ORG	ORG-European-Union
+1292	1309	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1313	1322	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1480	1487	Barnier	Barnier	PER	PER-Michel-Barnier
+1530	1538	Londynie	Londyn	LOC	GPE-London
+1704	1709	Davis	Davis	PER	PER-David-Davis
+1724	1739	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1775	1796	umowy o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement
+2095	2097	UE	UE	ORG	ORG-European-Union
+2099	2104	Davis	Davis	PER	PER-David-Davis
+2315	2332	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+2382	2403	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+2451	2454	May	May	PER	PER-Theresa-May
+2486	2501	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2529	2531	UE	UE	ORG	ORG-European-Union
+2553	2564	Theresy May	Theresa May	PER	PER-Theresa-May
+2579	2594	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2672	2682	Amber Rudd	Amber Rudd	PER	PER-Amber-Rudd
+2751	2768	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2771	2773	UE	UE	ORG	ORG-European-Union
+2839	2841	UE	UE	ORG	ORG-European-Union
+2917	2929	Dominic Raab	Dominic Raab	PER	PER-Dominic-Raab
+2987	2996	The Times	The Times	PRO	PRO-The-Times
+3029	3043	Downing Street	Downing Street	LOC	LOC-Downing-Street
+3191	3193	UE	UE	ORG	ORG-European-Union
+3289	3304	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3333	3335	UE	UE	ORG	ORG-European-Union
+3373	3382	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+3620	3635	Agencja Reutera	Agencja Reutera	ORG	ORG-Reuters
+3692	3712	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+3771	3788	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3816	3833	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3885	3903	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+3922	3929	Londynu	Londyn	LOC	GPE-London

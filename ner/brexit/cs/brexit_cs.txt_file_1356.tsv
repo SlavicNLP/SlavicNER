@@ -1,0 +1,17 @@
+0	2	EU	EU	ORG	ORG-European-Union
+23	28	Britů	Britové	PER	GPE-Great-Britain
+31	38	brexitu	brexit	EVT	EVT-Brexit
+46	59	konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+89	95	Mayová	Mayová	PER	PER-Theresa-May
+123	137	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+318	324	Mayová	Mayová	PER	PER-Theresa-May
+366	386	konzervativní strany	konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+486	492	brexit	brexit	EVT	EVT-Brexit
+533	551	Spojené království	Spojené království	LOC	GPE-Great-Britain
+618	631	Evropské unie	Evropská unie	ORG	ORG-European-Union
+640	647	Mayovou	Mayová	PER	PER-Theresa-May
+699	701	EU	EU	ORG	ORG-European-Union
+771	778	Londýně	Londýn	LOC	GPE-London
+821	834	konzervativci	konzervativci	ORG	ORG-Conservative-and-Unionist-Party-UK
+835	841	Mayové	Mayová	PER	PER-Theresa-May
+917	923	Mayová	Mayová	PER	PER-Theresa-May

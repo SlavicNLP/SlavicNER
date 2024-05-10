@@ -1,0 +1,38 @@
+0	6	Farage	Farage	PER	PER-Nigel-Farage
+14	22	Johnsona	Johnson	PER	PER-Boris-Johnson
+54	60	brexit	brexit	EVT	EVT-Brexit
+132	138	brexit	brexit	EVT	EVT-Brexit
+272	278	Farage	Farage	PER	PER-Nigel-Farage
+287	293	brexit	brexit	EVT	EVT-Brexit
+404	415	Therese May	Theresa May	PER	PER-Theresa-May
+569	575	brexit	brexit	EVT	EVT-Brexit
+583	592	Farageova	Farage	PER	PER-Nigel-Farage
+718	725	Angliji	Anglija	LOC	GPE-England
+727	735	Škotskem	Škotska	LOC	GPE-Scotland
+739	745	Walesu	Wales	LOC	GPE-Wales
+814	835	konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+836	850	James Cleverly	James Cleverly	PER	PER-James-Cleverly
+878	884	Brexit	Brexit	ORG	ORG-Brexit-Party
+895	902	Faragea	Farage	PER	PER-Nigel-Farage
+923	936	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+967	981	Downing Street	Downing Street	LOC	LOC-Downing-Street
+1032	1039	brexitu	Brexit	EVT	EVT-Brexit
+1077	1085	Cleverly	Cleverly	PER	PER-James-Cleverly
+1108	1115	brexita	brexit	EVT	EVT-Brexit
+1216	1225	Johnsonom	Johnson	PER	PER-Boris-Johnson
+1275	1282	Faragea	Farage	PER	PER-Nigel-Farage
+1313	1325	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1366	1373	brexitu	brexit	EVT	EVT-Brexit
+1382	1389	Brexita	Brexit	ORG	ORG-Brexit-Party
+1454	1456	EU	EU	ORG	ORG-European-Union
+1492	1501	laburiste	laburisti	PER	ORG-Labour-Party-UK
+1569	1583	konservativcem	konservativci	PER	ORG-Conservative-and-Unionist-Party-UK
+1679	1685	Yougov	Yougov	ORG	ORG-YouGov
+1726	1735	laburisti	laburist	PER	ORG-Labour-Party-UK
+1808	1827	liberalni demokrati	liberalni demokrati	PER	ORG-Sozialdemokratische-Partei-Deutschlands
+1837	1843	Brexit	Brexit	ORG	ORG-Brexit-Party
+1901	1907	zeleni	zeleni	PER	ORG-UK-Green-Party
+1953	1979	Škotska nacionalna stranka	Škotska nacionalna stranka	ORG	ORG-Scottish-National-Party
+2114	2121	Johnson	Johnson	PER	PER-Boris-Johnson
+2146	2153	brexitu	brexit	EVT	EVT-Brexit
+2179	2198	britanski parlament	britanski parlament	ORG	ORG-British-Parlament

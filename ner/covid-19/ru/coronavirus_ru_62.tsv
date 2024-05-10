@@ -1,0 +1,37 @@
+2	12	Петербурге	Петербург	LOC	GPE-Saint-Petersburg
+30	38	COVID-19	COVID-19	EVT	EVT-Covid-19
+70	85	Санкт-Петербург	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+110	116	REGNUM	REGNUM	ORG	ORG-REGNUM-News-Agency
+117	160	Комитет по здравоохранению Санкт-Петербурга	Комитет по здравоохранению Санкт-Петербурга	ORG	ORG-Healthcare-Committee-Saint-Petersburg
+268	280	коронавируса	коронавирус	EVT	EVT-Covid-19
+281	291	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+373	385	петербуржцев	петербуржцы	PER	GPE-Saint-Petersburg
+620	630	Петербурга	Петербург	LOC	GPE-Saint-Petersburg
+645	653	COVID-19	COVID-19	EVT	EVT-Covid-19
+783	810	комитета по здравоохранению	комитет по здравоохранению	ORG	ORG-Health-Committee
+821	832	«ВКонтакте»	ВКонтакте	PRO	PRO-VKontakte
+1060	1073	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1299	1322	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+1976	1988	коронавируса	коронавирус	EVT	EVT-Covid-19
+2004	2019	"""Гам-КОВИД-Вак"""	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+2020	2031	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+2047	2072	НИЦЭМ имени Н. Ф. Гамалеи	НИЦЭМ имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+2074	2084	«BNT162b2»	BNT162b2	PRO	PRO-BNT162b2-Tozinameran
+2093	2099	Pfizer	Pfizer	ORG	ORG-Pfizer
+2102	2110	BioNTech	BioNTech	ORG	ORG-BioNTech
+2112	2121	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+2143	2150	Moderna	Moderna	ORG	ORG-Moderna
+2152	2161	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+2202	2217	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+2270	2276	России	Россия	LOC	GPE-Russia
+2292	2306	Великобритании	Великобритания	LOC	GPE-Great-Britain
+2316	2319	США	США	LOC	GPE-USA
+2321	2330	Евросоюзе	Евросоюз	ORG	ORG-European-Union
+2332	2337	Китае	Китай	LOC	GPE-China
+2339	2346	Израиле	Израиль	LOC	GPE-Israel
+2409	2418	ИА REGNUM	ИА REGNUM	PRO	PRO-REGNUM
+2459	2468	ИА REGNUM	ИА REGNUM	PRO	PRO-REGNUM
+2593	2688	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+2690	2702	Роскомнадзор	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+2754	2849	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+2851	2863	Роскомнадзор	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media

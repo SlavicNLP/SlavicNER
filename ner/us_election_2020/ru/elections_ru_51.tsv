@@ -1,0 +1,36 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+44	55	Белого дома	Белый дом	ORG	ORG-The-White-House
+62	68	Трампа	Трамп	PER	PER-Donald-Trump
+91	94	США	США	LOC	GPE-USA
+95	108	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+134	143	Белый дом	Белый дом	ORG	ORG-The-White-House
+240	243	TMZ	TMZ	PRO	PRO-TMZ
+445	448	СМИ	СМИ	ORG	PRO-Mass-Media
+496	504	COVID-19	COVID-19	EVT	EVT-Covid-19
+542	545	США	США	LOC	GPE-USA
+546	559	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+616	629	коронавирусом	коронавирус	EVT	EVT-Covid-19
+683	698	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+711	714	США	США	LOC	GPE-USA
+731	736	Трамп	Трамп	PER	PER-Donald-Trump
+754	761	Байдена	Байден	PER	PER-Joe-Biden
+938	946	конгресс	конгресс	ORG	ORG-United-States-Congress
+948	954	Байден	Байден	PER	PER-Joe-Biden
+1002	1005	США	США	LOC	GPE-USA
+1025	1046	Выборы президента США	Выборы президента США	EVT	EVT-2020-United-States-Presidential-Election
+1090	1096	Байден	Байден	PER	PER-Joe-Biden
+1124	1129	Трамп	Трамп	PER	PER-Donald-Trump
+1182	1187	Трамп	Трамп	PER	PER-Donald-Trump
+1214	1223	Белый дом	Белый дом	ORG	ORG-The-White-House
+1243	1254	Джо Байдена	Джо Байдена	PER	PER-Joe-Biden
+1302	1308	m24.ru	m24.ru	PRO	PRO-m24.ru
+1356	1358	РФ	РФ	LOC	GPE-Russia
+1460	1466	m24.ru	m24.ru	PRO	PRO-m24.ru
+1665	1704	«Городской информационный канал m24.ru»	«Городской информационный канал m24.ru»	PRO	PRO-m24.ru
+1961	2000	«Городской информационный канал m24.ru»	«Городской информационный канал m24.ru»	PRO	PRO-m24.ru
+2088	2094	Москвы	Москва	LOC	GPE-Moscow
+2103	2117	«Москва Медиа»	«Москва Медиа»	PRO	PRO-«Москва. Кремль. Путин»
+2148	2162	«Москва Медиа»	«Москва Медиа»	PRO	PRO-«Москва. Кремль. Путин»
+2181	2194	И.Л. Шестаков	И.Л. Шестаков	PER	PER-Ilya-Shestakov
+2227	2233	Москва	Москва	LOC	GPE-Moscow
+2235	2245	ул. Правды	ул. Правды	LOC	GPE-Pravda-Street

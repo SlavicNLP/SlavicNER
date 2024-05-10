@@ -1,0 +1,37 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+38	52	Великобритании	Великобритания	LOC	GPE-Great-Britain
+55	57	ЕС	ЕС	ORG	ORG-European-Union
+106	110	Туск	Туск	PER	PER-Donald-Tusk
+155	168	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+193	217	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+221	223	ЕС	ЕС	ORG	ORG-European-Union
+262	268	Brexit	Brexit	EVT	EVT-Brexit
+291	310	Европейского совета	Европейский совет	ORG	ORG-European-Council
+311	323	Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+417	423	Д.Туск	Д.Туск	PER	PER-Donald-Tusk
+447	455	Брюсселе	Брюссель	LOC	GPE-Brussles
+506	512	Brexit	Brexit	EVT	EVT-Brexit
+561	585	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+599	617	Европейского союза	Европейский союз	ORG	ORG-European-Union
+664	671	Дэвисом	Дэвис	PER	PER-David-Davis
+707	713	Brexit	Brexit	EVT	EVT-Brexit
+745	752	Дэвисом	Дэвис	PER	PER-David-Davis
+777	787	Евросовета	Евросовет	ORG	ORG-European-Council
+799	806	Twitter	Twitter	PRO	PRO-Twitter
+848	854	Brexit	Brexit	EVT	EVT-Brexit
+888	903	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+918	947	внешнеполитического ведомства	внешнеполитическое ведомство	ORG	ORG-Foreign-Office
+983	989	Brexit	Brexit	EVT	EVT-Brexit
+1007	1014	Дэвисом	Дэвис	PER	PER-David-Davis
+1017	1026	Джонсоном	Джонсон	PER	PER-Boris-Johnson
+1057	1063	Д.Туск	Д.Туск	PER	PER-Donald-Tusk
+1066	1073	Twitter	Twitter	PRO	PRO-Twitter
+1100	1128	правительство Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government
+1170	1176	Brexit	Brexit	EVT	EVT-Brexit
+1177	1184	Д.Дэвис	Д.Дэвис	PER	PER-David-Davis
+1193	1196	МИД	МИД	ORG	ORG-Foreign-Office
+1197	1206	Б.Джонсон	Б.Джонсон	PER	PER-Boris-Johnson
+1208	1215	Д.Дэвис	Д.Дэвис	PER	PER-David-Davis
+1287	1299	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+1395	1405	Б.Джонсона	Б.Джонсон	PER	PER-Boris-Johnson
+1429	1435	Brexit	Brexit	EVT	EVT-Brexit

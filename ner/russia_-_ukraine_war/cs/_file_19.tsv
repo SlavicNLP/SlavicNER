@@ -1,0 +1,30 @@
+0	5	Rusko	Rusko	LOC	GPE-Russia
+72	78	Moskva	Moskva	LOC	GPE-Moscow
+81	86	Rusko	Rusko	LOC	GPE-Russia
+174	176	G7	G7	ORG	ORG-G7
+243	257	Dmitrij Peskov	Dmitrij Peskov	PER	PER-Dmitry-Peskov
+266	272	Kremlu	Kreml	LOC	LOC-Kremlin
+334	347	Nord Stream 1	Nord Stream 1	PRO	PRO-Nord-Stream-1
+351	357	Evropy	Evropa	LOC	LOC-Europe
+440	445	Rusko	Rusko	LOC	GPE-Russia
+520	524	TASS	TASS	ORG	ORG-TASS-Agency
+525	531	Peskov	Peskov	PER	PER-Dmitry-Peskov
+565	571	Moskva	Moskva	LOC	GPE-Moscow
+619	621	G7	G7	ORG	ORG-G7
+741	743	G7	G7	ORG	ORG-G7
+985	991	Peskov	Peskov	PER	PER-Dmitry-Peskov
+1019	1024	Rusko	Rusko	LOC	GPE-Russia
+1070	1076	Evropy	Evropa	LOC	LOC-Europe
+1086	1099	Nord Stream 1	Nord Stream 1	PRO	PRO-Nord-Stream-1
+1165	1170	Rusko	Rusko	LOC	GPE-Russia
+1226	1231	Západ	Západ	LOC	LOC-West
+1254	1267	Evropská unie	Evropská unie	ORG	ORG-European-Union
+1269	1275	Kanada	Kanada	LOC	GPE-Canada
+1278	1286	Británie	Británie	LOC	GPE-Great-Britain
+1418	1425	Gazprom	Gazprom	ORG	ORG-Gazprom
+1481	1494	Nord Stream 1	Nord Stream 1	PRO	PRO-Nord-Stream-1
+1520	1525	Ruska	Rusko	LOC	GPE-Russia
+1529	1536	Německa	Německo	LOC	GPE-Germany
+1544	1558	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+1640	1647	Gazprom	Gazprom	ORG	ORG-Gazprom
+1799	1805	Evropě	Evropa	LOC	LOC-Europe

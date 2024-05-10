@@ -1,0 +1,21 @@
+25	37	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+52	65	Марджорі Грін	Марджорі Грін	PER	PER-Marjorie-Taylor-Greene
+76	96	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+136	153	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+154	165	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+273	276	США	США	LOC	GPE-USA
+291	301	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+421	426	Обами	Обама	PER	PER-Barack-Obama
+502	509	Гантера	Гантер	PER	PER-Hunter-Biden
+618	622	Грін	Грін	PER	PER-Marjorie-Taylor-Greene
+657	663	Байден	Байден	PER	PER-Joe-Biden
+685	688	США	США	LOC	GPE-USA
+716	722	Гантер	Гантер	PER	PER-Hunter-Biden
+783	790	Burisma	Burisma	ORG	ORG-Burisma
+826	830	Грін	Грін	PER	PER-Marjorie-Taylor-Greene
+847	854	Байдена	Байден	PER	PER-Joe-Biden
+908	928	Палаті представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+1004	1024	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+1078	1084	Трампа	Трамп	PER	PER-Donald-Trump
+1161	1166	Сенат	Сенат	ORG	ORG-United-States-Senate
+1194	1200	RBC.UA	RBC.UA	ORG	ORG-RBC-Ukraine

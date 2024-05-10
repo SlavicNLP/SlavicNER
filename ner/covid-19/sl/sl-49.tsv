@@ -1,0 +1,32 @@
+7	19	koronavirusa	koronavirus	EVT	EVT-Covid-19
+127	146	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+206	212	Wuhanu	Wuhan	LOC	GPE-Wuhan
+370	379	Filipinih	Filipini	LOC	GPE-Republic-of-the-Philippines
+383	392	Hongkongu	Hongkong	LOC	GPE-Hong-Kong
+394	402	Japonske	Japonska	LOC	GPE-Japan
+507	515	Japonske	Japonska	LOC	GPE-Japan
+735	744	Hongkongu	Hongkong	LOC	GPE-Hong-Kong
+990	996	Wuhana	Wuhan	LOC	GPE-Wuhan
+1001	1009	Kitajske	Kitajska	LOC	GPE-China
+1016	1019	ZDA	ZDA	LOC	GPE-USA
+1043	1053	Američanov	Američani	PER	GPE-USA
+1141	1151	Američanov	Američani	PER	GPE-USA
+1190	1198	Kitajsko	Kitajska	LOC	GPE-China
+1212	1221	Brazilija	Brazilija	LOC	GPE-Brazil
+1276	1284	Kitajska	Kitajska	LOC	GPE-China
+1434	1439	Hubei	Hubei	LOC	GPE-Hubei
+1633	1641	Zhejiang	Zhejiang	LOC	GPE-Zhejiang
+1668	1680	Heilongjiang	Heilongjiang	LOC	GPE-Heilongjiang
+1683	1691	Britanci	Britanci	PER	GPE-Great-Britain
+1799	1818	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+1839	1848	Kitajskem	Kitajska	LOC	GPE-China
+2038	2052	Robin Shattock	Robin Shattock	PER	PER-Robin-John-Shattock
+2170	2178	Shattock	Shattock	PER	PER-Robin-John-Shattock
+2200	2223	Imperial College London	Imperial College London	ORG	ORG-Imperial-College-London
+2559	2567	Sky News	Sky News	ORG	ORG-Sky-News
+2614	2633	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+2828	2840	koronavirusu	koronavirus	EVT	EVT-Covid-19
+2873	2882	Kitajskem	Kitajska	LOC	GPE-China
+2886	2889	ZDA	ZDA	LOC	GPE-USA
+2891	2901	Avstraliji	Avstralija	LOC	GPE-Australia
+2905	2911	Evropi	Evropa	LOC	LOC-Europe

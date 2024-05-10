@@ -1,0 +1,37 @@
+0	8	Holandia	Holandia	LOC	GPE-Holland
+29	41	Trybunału UE	Trybunał UE	ORG	ORG-European-Court-of-Justice
+51	63	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+67	75	Brexicie	Brexit	EVT	EVT-Brexit
+116	144	Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+177	188	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+191	208	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+212	220	Brexicie	Brexit	EVT	EVT-Brexit
+248	260	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+277	285	Holandii	Holandia	LOC	GPE-Holland
+325	336	Amsterdamie	Amsterdam	LOC	GPE-Amsterdam
+362	390	Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+393	404	Luksemburgu	Luksemburg	LOC	GPE-Luxembourg
+495	507	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+580	588	Brexicie	Brexit	EVT	EVT-Brexit
+663	669	Europy	Europa	LOC	LOC-Europe
+719	721	UE	UE	ORG	ORG-European-Union
+733	735	AP	AP	ORG	ORG-AP-The-Associated-Press
+800	812	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+847	858	Amsterdamie	Amsterdam	LOC	GPE-Amsterdam
+892	904	Trybunału UE	Trybunał UE	ORG	ORG-European-Court-of-Justice
+980	987	Brexitu	Brexit	EVT	EVT-Brexit
+1037	1048	Luksemburga	Luksemburg	LOC	GPE-Luxembourg
+1062	1068	Brexit	Brexit	EVT	EVT-Brexit
+1081	1092	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1224	1236	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1237	1264	Christiaan Alberdingk Thijm	Christiaan Alberdingk Thijm	PER	PER-Christiaan-Alberdingk-Thijm
+1266	1280	Stephen Huyton	Stephen Huyton	PER	PER-Stephen-Huyton
+1289	1301	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1487	1504	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1507	1511	Unii	Unia	ORG	ORG-European-Union
+1606	1614	Brexicie	Brexit	EVT	EVT-Brexit
+1685	1728	Trybunału Sprawiedliwości Unii Europejskiej	Trybunał Sprawiedliwości Unii Europejskiej	ORG	ORG-European-Court-of-Justice
+1769	1771	UE	UE	ORG	ORG-European-Union
+1774	1791	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1930	1942	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1967	1984	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union

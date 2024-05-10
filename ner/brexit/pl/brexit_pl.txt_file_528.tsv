@@ -1,0 +1,47 @@
+0	9	Szymański	Szymański	PER	PER-Konrad-Szymański
+34	42	Brexicie	Brexit	EVT	EVT-Brexit
+77	85	Londynem	Londyn	LOC	GPE-London
+230	234	NATO	NATO	ORG	ORG-NATO
+279	283	NATO	NATO	ORG	ORG-NATO
+339	344	Rosji	Rosja	LOC	GPE-Russia
+406	426	Bałkanach Zachodnich	Bałkany Zachodnie	LOC	LOC-Western-Balkans
+528	557	Sojuszu Północnoatlantyckiego	Sojusz Północnoatlantycki	ORG	ORG-NATO
+616	625	Warszawie	Warszawa	LOC	GPE-Warsaw
+628	631	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+682	691	Szymański	Szymański	PER	PER-Konrad-Szymański
+787	804	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+807	824	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+862	869	Polaków	Polacy	PER	GPE-Poland
+886	903	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1047	1055	Londynem	Londyn	LOC	GPE-London
+1058	1066	Brukselą	Bruksela	LOC	GPE-Brussles
+1316	1333	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1392	1409	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1616	1625	Szymański	Szymański	PER	PER-Konrad-Szymański
+1749	1766	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1802	1817	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2052	2060	Norwegia	Norwegia	LOC	GPE-Norway
+2209	2226	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2378	2381	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+2573	2582	Szymański	Szymański	PER	PER-Konrad-Szymański
+2620	2622	UE	UE	ORG	ORG-European-Union
+2641	2646	Wyspy	Wyspy	LOC	GPE-Great-Britain
+3497	3512	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3515	3517	UE	UE	ORG	ORG-European-Union
+3756	3759	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+3974	3976	UE	UE	ORG	ORG-European-Union
+4262	4271	Szymański	Szymański	PER	PER-Konrad-Szymański
+4504	4521	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4563	4569	Polska	Polska	LOC	GPE-Poland
+4624	4639	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+4690	4696	Brexit	Brexit	EVT	EVT-Brexit
+4745	4760	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+4880	4895	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+5128	5140	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+5315	5324	Szymański	Szymański	PER	PER-Konrad-Szymański
+5341	5344	GUS	GUS	ORG	ORG-GUS-Poland
+5375	5392	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+5450	5465	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+5587	5602	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+5631	5633	UE	UE	ORG	ORG-European-Union
+5671	5680	Wspólnotę	Wspólnota	ORG	ORG-European-Union

@@ -1,0 +1,13 @@
+4	10	Anglia	Anglia	LOC	GPE-England
+21	27	Europę	Europa	LOC	LOC-Europe
+102	123	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+191	204	David Cameron	David Cameron	PER	PER-David-Cameron
+327	340	David Cameron	David Cameron	PER	PER-David-Cameron
+468	485	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+488	505	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+619	631	Craig Oliver	Craig Oliver	PER	PER-Craig-Oliver
+643	688	Unleashing Demons: The Inside Story of Brexit	Unleashing Demons: The Inside Story of Brexit	PRO	PRO-Unleashing-Demons-The-Inside-Story-of-Brexit
+692	725	Uwalniając Demony: Kulisy Brexitu	Uwalniając Demony: Kulisy Brexitu	PRO	PRO-Unleashing-Demons-The-Inside-Story-of-Brexit
+847	864	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+964	971	brexitu	Brexit	EVT	EVT-Brexit
+1035	1042	Cameron	Cameron	PER	PER-David-Cameron

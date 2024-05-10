@@ -1,0 +1,97 @@
+0	8	Zełenski	Zełenski	PER	PER-Volodymyr-Zelensky
+48	53	Litwa	Litwa	LOC	GPE-Lithuania
+79	97	Wołodymyr Zełenski	Wołodymyr Zełenski	PER	PER-Volodymyr-Zelensky
+135	147	Sejmie Litwy	Sejm Litwy	ORG	ORG-Seimas-Lithuania
+159	166	Ukrainy	Ukraina	LOC	GPE-Ukraine
+179	185	Litwie	Litwa	LOC	GPE-Lithuania
+199	206	Sejm RL	Sejm RL	ORG	ORG-Seimas-Lithuania
+245	250	Rosji	Rosja	LOC	GPE-Russia
+267	274	Zachodu	Zachód	LOC	LOC-West
+280	285	Rosja	Rosja	LOC	GPE-Russia
+288	296	Białoruś	Białoruś	LOC	GPE-Belarus
+424	429	Sejmu	Sejm	ORG	ORG-Seimas-Lithuania
+430	455	Viktorija Čmilytė-Nielsen	Viktorija Čmilytė-Nielsen	PER	PER-Viktorija-Čmilytė-Nielsen
+537	544	Europie	Europa	LOC	LOC-Europe
+715	720	Rosji	Rosja	LOC	GPE-Russia
+891	906	Gitanas Nausėda	Gitanas Nausėda	PER	PER-Gitanas-Nauseda
+909	915	Sejmie	Sejm	ORG	ORG-Seimas-Lithuania
+925	936	Zełenskiego	Zełenski	PER	PER-Volodymyr-Zelensky
+948	953	Litwy	Litwa	LOC	GPE-Lithuania
+1040	1045	Rosję	Rosja	LOC	GPE-Russia
+1063	1068	Litwa	Litwa	LOC	GPE-Lithuania
+1396	1415	litewskiego państwa	litewskie państwo	LOC	GPE-Lithuania
+1470	1488	Wołodymyr Zełenski	Wołodymyr Zełenski	PER	PER-Volodymyr-Zelensky
+1582	1599	parlamencie Litwy	parlament Litwy	ORG	ORG-Parliament-of-Lithuania
+1633	1642	Ukraińców	Ukraińcy	PER	GPE-Ukraine
+1676	1681	Litwy	Litwa	LOC	GPE-Lithuania
+1745	1752	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1904	1911	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1913	1921	Zełenski	Zełenski	PER	PER-Volodymyr-Zelensky
+1934	1940	Litwie	Litwa	LOC	GPE-Lithuania
+1943	1951	Litwinom	Litwini	PER	GPE-Lithuania
+2015	2021	Litwie	Litwa	LOC	GPE-Lithuania
+2033	2040	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2074	2087	kraje Zachodu	kraje Zachodu	LOC	LOC-West
+2131	2136	Rosję	Rosja	LOC	GPE-Russia
+2160	2168	Ukrainie	Ukrainia	LOC	GPE-Ukraine
+2260	2266	Europy	Europa	LOC	LOC-Europe
+2270	2289	II wojnie światowej	II wojna światowa	EVT	EVT-World-War-II
+2437	2445	Zełenski	Zełenski	PER	PER-Volodymyr-Zelensky
+2518	2524	Europy	Europa	LOC	LOC-Europe
+2543	2550	Europie	Europa	LOC	LOC-Europe
+2629	2635	Litwie	Litwa	LOC	GPE-Lithuania
+2715	2723	Zełenski	Zełenski	PER	PER-Volodymyr-Zelensky
+2743	2748	Litwy	Litwa	LOC	GPE-Lithuania
+2751	2760	Zachodowi	Zachód	LOC	LOC-West
+2849	2854	Bucza	Bucza	LOC	GPE-Bucha
+3330	3337	Ukrainy	Ukraina	LOC	GPE-Ukraine
+3338	3351	litewski Sejm	litewski Sejm	ORG	ORG-Seimas-Lithuania
+3372	3457	W sprawie potępienia dokonywanej agresji przez Rosyjską Federację i zbrodni wojennych	W sprawie potępienia dokonywanej agresji przez Rosyjską Federację i zbrodni wojennych	PRO	PRO-Lithuanian-Resolution-Against-Russian-Invasion
+3460	3475	Parlament Litwy	Parlament Litwy	ORG	ORG-Parliament-of-Lithuania
+3543	3550	Ukrainy	Ukraina	LOC	GPE-Ukraine
+3592	3597	Rosji	Rosja	LOC	GPE-Russia
+3600	3609	Białorusi	Białoruś	LOC	GPE-Belarus
+3648	3656	Białoruś	Białoruś	LOC	GPE-Belarus
+3776	3784	Ukrainie	Ukraina	LOC	GPE-Ukraine
+3926	3931	Rosji	Rosja	LOC	GPE-Russia
+3935	3943	Ukrainie	Ukraina	LOC	GPE-Ukraine
+4078	4083	Rosji	Rosja	LOC	GPE-Russia
+4184	4191	Ukrainy	Ukraina	LOC	GPE-Ukraine
+4240	4257	litewskiego sejmu	litewski sejm	ORG	ORG-Seimas-Lithuania
+4276	4281	Rosji	Rosja	LOC	GPE-Russia
+4284	4291	Ukrainą	Ukraina	LOC	GPE-Ukraine
+4464	4471	Ukrainy	Ukraina	LOC	GPE-Ukraine
+4510	4515	Sejmu	Sejm	ORG	ORG-Seimas-Lithuania
+4600	4605	Litwy	Litwa	LOC	GPE-Lithuania
+4673	4679	Europa	Europa	LOC	LOC-Europe
+4844	4849	Rosja	Rosja	LOC	GPE-Russia
+4952	4957	Sejmu	Sejm	ORG	ORG-Seimas-Lithuania
+4969	4976	Sejm RL	Sejm RL	ORG	ORG-Seimas-Lithuania
+5008	5033	Viktorija Čmilytė-Nielsen	Viktorija Čmilytė-Nielsen	PER	PER-Viktorija-Čmilytė-Nielsen
+5050	5055	Litwa	Litwa	LOC	GPE-Lithuania
+5118	5123	Rosji	Rosja	LOC	GPE-Russia
+5143	5147	Sejm	Sejm	ORG	ORG-Seimas-Lithuania
+5311	5326	parlament Litwy	parlament Litwy	ORG	ORG-Parliament-of-Lithuania
+5392	5402	Sejm Litwy	Sejm Litwy	ORG	ORG-Seimas-Lithuania
+5449	5454	Rosji	Rosja	LOC	GPE-Russia
+5467	5481	Olga Posaškova	Olga Posaškova	PER	PER-Olga-Posaškova
+5494	5502	Ukrainie	Ukraina	LOC	GPE-Ukraine
+5522	5529	Ukrainy	Ukraina	LOC	GPE-Ukraine
+5548	5553	Litwy	Litwa	LOC	GPE-Lithuania
+5554	5570	Ingrida Šimonytė	Ingrida Šimonytė	PER	PER-Ingrida-Šimonytė
+5589	5600	Borodziankę	Borodzianka	LOC	GPE-Borodianka
+5641	5647	Rosjan	Rosjanie	PER	GPE-Russia
+5654	5661	Ukrainy	Ukraina	LOC	GPE-Ukraine
+5874	5879	Rosję	Rosja	LOC	GPE-Russia
+5943	5948	Litwa	Litwa	LOC	GPE-Lithuania
+6029	6034	Litwy	Litwa	LOC	GPE-Lithuania
+6058	6060	UE	UE	ORG	ORG-European-Union
+6070	6075	Rosji	Rosja	LOC	GPE-Russia
+6124	6129	SWIFT	SWIFT	ORG	ORG-SWIFT
+6131	6139	rosyjski	rosyjski	LOC	GPE-Russia
+6236	6241	Litwa	Litwa	LOC	GPE-Lithuania
+6243	6248	Łotwa	Łotwa	LOC	GPE-Latvia
+6250	6257	Estonia	Estonia	LOC	GPE-Estonia
+6315	6320	Rosji	Rosja	LOC	GPE-Russia
+6335	6337	UE	UE	ORG	ORG-European-Union
+6402	6410	Šimonytė	Šimonytė	PER	PER-Ingrida-Šimonytė

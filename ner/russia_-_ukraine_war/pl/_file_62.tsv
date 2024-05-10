@@ -1,0 +1,19 @@
+0	8	Przydacz	Przydacz	PER	PER-Przydacz
+10	15	Rosję	Rosja	LOC	GPE-Russia
+94	102	Przydacz	Przydacz	PER	PER-Przydacz
+121	126	Rosja	Rosja	LOC	GPE-Russia
+232	239	Lizbony	Lizbona	LOC	GPE-Lisbon
+244	256	Władywostoku	Władywostok	LOC	GPE-Vladivostok
+316	322	Moskwa	Moskwa	LOC	GPE-Moscow
+451	459	Ukrainie	Ukraina	LOC	GPE-Ukraine
+480	483	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+568	573	Rosji	Rosja	LOC	GPE-Russia
+727	729	UE	UE	ORG	ORG-European-Union
+742	745	USA	USA	LOC	GPE-USA
+748	763	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+811	816	Rosja	Rosja	LOC	GPE-Russia
+873	882	Przydacza	Przydacz	PER	PER-Przydacz
+913	918	Rosję	Rosja	LOC	GPE-Russia
+926	932	Polska	Polska	LOC	GPE-Poland
+1252	1259	Ukraina	Ukraina	LOC	GPE-Ukraine
+1518	1521	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

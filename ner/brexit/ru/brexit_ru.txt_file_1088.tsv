@@ -1,0 +1,11 @@
+6	22	британского МИДа	британский МИД	ORG	ORG-Foreign-Office
+69	83	Великобритании	Великобритания	LOC	GPE-Great-Britain
+84	97	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+135	138	360	360	PRO	PRO-360-TV-channel
+158	168	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+281	289	Джонсона	Джонсон	PER	PER-Boris-Johnson
+309	329	британских министров	британские министры	PER	ORG-Cabinet-of-the-United-Kingdom
+387	395	брекзита	брекзит	EVT	EVT-Brexit
+396	407	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+484	498	Великобритании	Великобритания	LOC	GPE-Great-Britain
+502	511	Евросоюза	Евросоюз	ORG	ORG-European-Union

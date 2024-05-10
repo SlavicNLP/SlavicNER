@@ -1,0 +1,31 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+131	141	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+167	179	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+226	233	Twitter	Twitter	PRO	PRO-Twitter
+238	252	републиканците	републиканци	PER	ORG-Republican-Party-USA
+376	381	Тръмп	Тръмп	PER	PER-Donald-Trump
+775	785	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+813	840	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+919	929	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+950	955	Тръмп	Тръмп	PER	PER-Donald-Trump
+1013	1027	Bloomberg L.P.	Bloomberg L.P.	ORG	ORG-Bloomberg-LP
+1053	1065	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1112	1119	Twitter	Twitter	PRO	PRO-Twitter
+1124	1138	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1262	1267	Тръмп	Тръмп	PER	PER-Donald-Trump
+1339	1344	Тръмп	Тръмп	PER	PER-Donald-Trump
+1352	1355	Юга	Юг	LOC	LOC-Southern-States-of-America
+1357	1363	Байдън	Байдън	PER	PER-Joe-Biden
+1366	1372	Запада	Запад	LOC	LOC-Western-states-of-America
+1726	1736	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1764	1791	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+1811	1818	Аризона	Аризона	LOC	GPE-Arizona
+1821	1829	Минесота	Минесота	LOC	GPE-Minnesota
+1850	1858	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1913	1922	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+1925	1932	Мичиган	Мичиган	LOC	GPE-Michigan
+2012	2023	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2053	2065	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2109	2127	американския народ	американски народ	PER	GPE-USA
+2216	2222	Байдън	Байдън	PER	PER-Joe-Biden
+2373	2379	Байдън	Байдън	PER	PER-Joe-Biden

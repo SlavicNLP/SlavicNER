@@ -1,0 +1,21 @@
+17	22	covid	covid	EVT	EVT-Covid-19
+337	344	Polaków	Polacy	PER	GPE-Poland
+1198	1210	koronawirusa	koronawirus	EVT	EVT-Covid-19
+1567	1579	koronawirusa	koronawirus	EVT	EVT-Covid-19
+3742	3747	covid	covid	EVT	EVT-Covid-19
+4213	4220	Pfizera	Pfizer	ORG	ORG-Pfizer
+4226	4233	Moderny	Moderna	ORG	ORG-Moderna
+4483	4495	koronawirusa	koronawirus	EVT	EVT-Covid-19
+4838	4846	covid-19	covid-19	EVT	EVT-Covid-19
+4984	5004	Ministerstwa Zdrowia	Ministerstwo Zdrowia	ORG	ORG-Ministry-of-Health-Poland
+5328	5333	Wisłą	Wisła	LOC	LOC-Wisła
+8266	8279	koronawirusem	koronawirus	EVT	EVT-Covid-19
+8572	8579	Europie	Europa	LOC	LOC-Europe
+8605	8613	covid-19	covid-19	EVT	EVT-Covid-19
+9792	9802	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+10171	10174	USA	USA	LOC	GPE-USA
+10381	10388	Pfizera	Pfizer	ORG	ORG-Pfizer
+10389	10398	BioNTechu	BioNTech	ORG	ORG-BioNTech
+10649	10654	covid	covid	EVT	EVT-Covid-19
+10782	10794	Biała Księga	Biała Księga	PRO	PRO-White-paper-Poland
+10826	10848	Nauka Przeciw Pandemii	Nauka Przeciw Pandemii	PRO	PRO-Szczepienia-przeciw-COVID-19-publication

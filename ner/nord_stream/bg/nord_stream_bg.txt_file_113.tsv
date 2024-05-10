@@ -1,0 +1,52 @@
+0	9	Моравецки	Моравецки	PER	PER-Mateusz-Morawiecki
+12	27	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+43	48	Русия	Русия	LOC	GPE-Russia
+73	77	Киев	Киев	LOC	GPE-Kiev
+131	146	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+236	252	Матеуш Моравецки	Матеуш Моравецки	PER	PER-Mateusz-Morawiecki
+253	257	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+276	292	Матеуш Моравецки	Матеуш Моравецки	PER	PER-Mateusz-Morawiecki
+330	347	Северен поток - 2	Северен поток  2	PRO	PRO-Nord-Stream-2
+429	435	Москва	Москва	LOC	GPE-Moscow
+453	457	Киев	Киев	LOC	GPE-Kiev
+483	488	Полша	Полша	LOC	GPE-Poland
+506	513	Хамбург	Хамбург	LOC	GPE-Hamburg
+522	531	Моравецки	Моравецки	PER	PER-Mateusz-Morawiecki
+545	549	Одер	Одер	LOC	LOC-Oder
+576	591	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+651	656	Ленин	Ленин	PER	PER-Lenin
+762	773	европейците	европейци	PER	LOC-Europe
+795	804	руснаците	руснаци	PER	GPE-Russia
+941	946	Русия	Русия	LOC	GPE-Russia
+989	994	Ленин	Ленин	PER	PER-Lenin
+1005	1014	Моровецки	Моравецки	PER	PER-Mateusz-Morawiecki
+1015	1039	Полската печатна агенция	Полска печатна агенция	ORG	ORG-PAP-Polish-Press-Agency
+1052	1067	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1191	1196	Русия	Русия	LOC	GPE-Russia
+1202	1216	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+1220	1228	Германия	Германия	LOC	GPE-Germany
+1396	1403	Украйна	Украйна	LOC	GPE-Ukraine
+1405	1412	Беларус	Беларус	LOC	GPE-Belarus
+1414	1419	Полша	Полша	LOC	GPE-Poland
+1554	1559	Русия	Русия	LOC	GPE-Russia
+1561	1570	Финландия	Финландия	LOC	GPE-Finland
+1572	1578	Швеция	Швеция	LOC	GPE-Sweden
+1580	1585	Дания	Дания	LOC	GPE-Denmark
+1588	1596	Германия	Германия	LOC	GPE-Germany
+1662	1667	Дания	Дания	LOC	GPE-Denmark
+1703	1722	Ларс Льоке Расмусен	Ларс Льоке Расмусен	PER	PER-Lars-Lokke
+1794	1798	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+1862	1878	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+1908	1915	Газпром	Газпром	ORG	ORG-Gazprom
+1934	1941	Газпром	Газпром	ORG	ORG-Gazprom
+1954	1965	Wintershall	Wintershall	ORG	ORG-Wintershall
+1968	1974	Uniper	Uniper	ORG	ORG-Uniper
+1998	2001	OMV	OMV	ORG	ORG-OMV
+2013	2018	Engie	Engie	ORG	ORG-Engie
+2021	2038	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+2040	2054	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2057	2065	Холандия	Холандия	LOC	GPE-Holland
+2097	2117	Александър Иванников	Александър Иванников	PER	PER-Alexander-Ivannikov
+2149	2156	Газпром	Газпром	ORG	ORG-Gazprom
+2219	2234	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+2301	2305	ТАСС	ТАСС	ORG	ORG-TASS-Agency

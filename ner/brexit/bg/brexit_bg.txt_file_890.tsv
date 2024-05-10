@@ -1,0 +1,28 @@
+31	38	Брекзит	Брекзит	EVT	EVT-Brexit
+81	94	Съветът на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+106	126	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+150	156	Лондон	Лондон	LOC	GPE-London
+201	215	Великобритания	Великобритания	LOC	GPE-Great-Britain
+256	278	Съвета по общи въпроси	Съвет по общи въпроси	ORG	ORG-General-Affairs-Council
+367	375	България	България	LOC	GPE-Bulgaria
+376	395	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+409	440	българското европредседателство	Българско европредседателство	EVT	EVT-Bulgarian-Presidency-EU
+516	530	Великобритания	Великобритания	LOC	GPE-Great-Britain
+560	562	ЕС	ЕС	ORG	ORG-European-Union
+617	636	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+672	694	Съвета по общи въпроси	Съвет по общи въпроси	ORG	ORG-General-Affairs-Council
+753	759	Барние	Барние	PER	PER-Michel-Barnier
+842	849	Брекзит	Брекзит	EVT	EVT-Brexit
+889	896	Брекзит	Брекзит	EVT	EVT-Brexit
+950	964	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1032	1034	ЕК	ЕК	ORG	ORG-European-Commission
+1141	1147	Лондон	Лондон	LOC	GPE-London
+1176	1190	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1246	1248	ЕС	ЕС	ORG	ORG-European-Union
+1345	1365	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1510	1512	ЕС	ЕС	ORG	ORG-European-Union
+1525	1531	Лондон	Лондон	LOC	GPE-London
+1573	1588	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+1607	1621	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1673	1675	ЕС	ЕС	ORG	ORG-European-Union
+1805	1807	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,28 @@
+0	8	Sikorski	Sikorski	PER	PER-Radosław-Sikorski
+11	28	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+30	36	Polska	Polska	LOC	GPE-Poland
+50	52	UE	UE	ORG	ORG-European-Union
+64	67	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+68	85	Radosław Sikorski	Radosław Sikorski	PER	PER-Radosław-Sikorski
+131	140	Greenwich	Greenwich	LOC	GPE-Greenwich
+159	166	Polexit	Polexit	EVT	EVT-Polexit
+214	231	Radosław Sikorski	Radosław Sikorski	PER	PER-Radosław-Sikorski
+247	269	Prawo i Sprawiedliwość	Prawo i Sprawiedliwość	ORG	ORG-PiS-Law-and-Justice
+308	314	Polski	Polska	LOC	GPE-Poland
+317	334	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+390	399	Greenwich	Greenwich	LOC	GPE-Greenwich
+411	414	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+481	499	Jarosław Kaczyński	Jarosław Kaczyński	PER	PER-Jaroslav-Kaczyński
+512	520	Brukseli	Bruksela	LOC	GPE-Brussles
+540	562	Jarosława Kaczyńskiego	Jarosław Kaczyński	PER	PER-Jaroslav-Kaczyński
+593	600	Brexitu	Brexit	EVT	EVT-Brexit
+711	728	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+744	752	Sikorski	Sikorski	PER	PER-Radosław-Sikorski
+760	769	Kaczyński	Kaczyński	PER	PER-Jaroslav-Kaczyński
+810	818	Brukselą	Bruksela	LOC	GPE-Brussles
+849	856	Wyspach	Wyspy	LOC	GPE-Great-Britain
+961	969	Polexitu	Polexit	EVT	EVT-Polexit
+1002	1010	Sikorski	Sikorski	PER	PER-Radosław-Sikorski
+1074	1091	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1132	1140	Włoszech	Włochy	LOC	GPE-Italy
+1144	1153	Niemczech	Niemcy	LOC	GPE-Germany

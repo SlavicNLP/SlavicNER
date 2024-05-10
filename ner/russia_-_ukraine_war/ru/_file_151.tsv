@@ -1,0 +1,38 @@
+0	6	Лавров	Лавров	PER	PER-Sergey-Lavrov
+15	20	Запад	Запад	LOC	LOC-West
+59	62	СНГ	СНГ	ORG	ORG-The-Commonwealth
+64	68	ОДКБ	ОДКБ	ORG	ORG-Collective-Security-Treaty-Organization
+70	73	ШОС	ШОС	ORG	ORG-Shanghai-Cooperation-Organisation
+76	80	ЕАЭС	ЕАЭС	ORG	ORG-Eurasian-Economic-Union
+88	98	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+99	112	Сергей Лавров	Сергей Лавров	PER	PER-Sergey-Lavrov
+132	138	Запада	Запад	LOC	LOC-West
+182	222	Содружества независимых государств (СНГ)	Содружествр независимых государств (СНГ)	ORG	ORG-The-Commonwealth
+224	279	Организации о Договоре коллективной безопасности (ОДКБ)	Организация о Договоре коллективной безопасности (ОДКБ)	ORG	ORG-Collective-Security-Treaty-Organization
+281	324	Шанхайской организации сотрудничества (ШОС)	Шанхайская организация сотрудничества (ШОС)	ORG	ORG-Shanghai-Cooperation-Organisation
+327	367	Евразийского экономического союза (ЕАЭС)	Евразийский экономический союз (ЕАЭС)	ORG	ORG-Eurasian-Economic-Union
+388	393	Запад	Запад	LOC	LOC-West
+422	438	Центральной Азии	Центральная Азия	LOC	LOC-Central-Asia
+465	481	Центральной Азии	Центральная Азия	LOC	LOC-Central-Asia
+528	556	Центральноазиатского региона	Центральноазиатский регион	LOC	LOC-Central-Asia
+602	605	США	США	LOC	GPE-USA
+607	609	ЕС	ЕС	ORG	ORG-European-Union
+611	618	натовцы	натовцы	PER	ORG-NATO
+726	730	ОДКБ	ОДКБ	ORG	ORG-Collective-Security-Treaty-Organization
+741	744	СНГ	СНГ	ORG	ORG-The-Commonwealth
+755	758	ШОС	ШОС	ORG	ORG-Shanghai-Cooperation-Organisation
+761	794	Евразийского экономического союза	Евразийский экономический союз	ORG	ORG-Eurasian-Economic-Union
+813	819	Лавров	Лавров	PER	PER-Sergey-Lavrov
+862	865	МИД	МИД	ORG	ORG-Foreign-Office
+872	875	СНГ	СНГ	ORG	ORG-The-Commonwealth
+878	890	Таджикистане	Таджикистан	LOC	GPE-Tajikistan
+903	916	Сергей Лавров	Сергей Лавров	PER	PER-Sergey-Lavrov
+930	936	Россия	Россия	LOC	GPE-Russia
+954	958	ОДКБ	ОДКБ	ORG	ORG-Collective-Security-Treaty-Organization
+1123	1130	Лаврова	Лавров	PER	PER-Sergey-Lavrov
+1145	1157	Таджикистане	Таджикистан	LOC	GPE-Tajikistan
+1170	1173	СНГ	СНГ	ORG	ORG-The-Commonwealth
+1249	1252	СНГ	СНГ	ORG	ORG-The-Commonwealth
+1277	1281	ОДКБ	ОДКБ	ORG	ORG-Collective-Security-Treaty-Organization
+1299	1306	Украине	Украина	LOC	GPE-Ukraine
+1372	1378	России	Россия	LOC	GPE-Russia

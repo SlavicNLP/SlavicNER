@@ -1,0 +1,102 @@
+21	28	Америка	Америка	LOC	GPE-USA
+62	67	Тръмп	Тръмп	PER	PER-Donald-Trump
+87	114	Президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+226	235	Белия дом	Бял дом	LOC	LOC-White-House
+433	444	демократите	демократи	PER	ORG-Democratic-Party-USA
+445	455	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+513	527	републиканците	републиканци	PER	ORG-Republican-Party-USA
+528	540	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+602	607	Тръмп	Тръмп	PER	PER-Donald-Trump
+682	696	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+777	780	САЩ	САЩ	LOC	GPE-USA
+797	825	Съединените американски щати	Съединени американски щати	LOC	GPE-USA
+992	995	САЩ	САЩ	LOC	GPE-USA
+1134	1142	Би Би Си	Би Би Си	PRO	PRO-BBC
+1390	1393	САЩ	САЩ	LOC	GPE-USA
+1482	1496	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+1535	1538	САЩ	САЩ	LOC	GPE-USA
+1606	1618	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1678	1700	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+1721	1748	Великата стара партия (GOP)	Велика стара партия (GOP)	ORG	ORG-Republican-Party-USA
+1996	2006	Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+2008	2021	Роналд Рейгън	Роналд Рейгън	PER	PER-Ronald-Reagan
+2024	2037	Ричард Никсън	Ричард Никсън	PER	PER-Richard-Nixon
+2039	2050	Демократите	демократи	PER	ORG-Democratic-Party-USA
+2085	2088	САЩ	САЩ	LOC	GPE-USA
+2109	2119	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2202	2213	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+2215	2238	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2566	2573	Америка	Америка	LOC	GPE-USA
+2599	2608	демократи	демократи	PER	ORG-Democratic-Party-USA
+2612	2623	Джон Кенеди	Джон Кенеди	PER	PER-John-F-Kennedy
+2626	2637	Бил Клинтън	Бил Клинтън	PER	PER-Bill-Clinton
+2640	2651	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+2684	2689	Тръмп	Тръмп	PER	PER-Donald-Trump
+2775	2781	Байдън	Байдън	PER	PER-Joe-Biden
+2860	2863	САЩ	САЩ	LOC	GPE-USA
+2900	2914	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+3039	3053	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+3071	3083	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3164	3169	Тръмп	Тръмп	PER	PER-Donald-Trump
+3225	3232	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+3235	3245	Калифорния	Калифорния	LOC	GPE-California
+3285	3306	избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+3448	3469	избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+3520	3541	избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+3714	3733	избирателният колеж	избирателен колеж	ORG	ORG-United-States-Electoral-College
+3852	3868	Съединените щати	Съединени щати	LOC	GPE-USA
+4010	4022	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+4150	4171	избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+4728	4739	демократите	демократи	PER	ORG-Democratic-Party-USA
+4742	4756	републиканците	републиканци	PER	ORG-Republican-Party-USA
+4794	4801	Флорида	Флорида	LOC	GPE-Florida
+4804	4809	Охайо	Охайо	LOC	GPE-Ohio
+4822	4829	Аризона	Аризона	LOC	GPE-Arizona
+4832	4838	Тексас	Тексас	LOC	GPE-Texas
+4870	4884	републиканците	републиканци	PER	ORG-Republican-Party-USA
+4952	4975	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+5047	5050	САЩ	САЩ	LOC	GPE-USA
+5239	5282	Бюрото за преброяване на населението на САЩ	Бюро за преброяване на населението на САЩ	ORG	ORG-United-States-Census-Bureau
+5648	5662	републиканците	републиканци	PER	ORG-Republican-Party-USA
+5746	5757	демократите	демократи	PER	ORG-Democratic-Party-USA
+6464	6490	пандемията на коронавируса	пандемия на коронавирус	EVT	EVT-Pandemic
+6580	6585	Тръмп	Тръмп	PER	PER-Donald-Trump
+6836	6848	републиканци	републиканци	PER	ORG-Republican-Party-USA
+6855	6864	демократи	демократи	PER	ORG-Democratic-Party-USA
+7051	7056	Тръмп	Тръмп	PER	PER-Donald-Trump
+7059	7065	Байдън	Байдън	PER	PER-Joe-Biden
+7112	7120	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+7148	7157	Конгресът	Конгрес	ORG	ORG-United-States-Congress
+7185	7188	САЩ	САЩ	LOC	GPE-USA
+7216	7243	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+7246	7253	Сенатът	Сенат	ORG	ORG-United-States-Senate
+7268	7295	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+7483	7494	Демократите	демократи	PER	ORG-Democratic-Party-USA
+7518	7545	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+7655	7661	Сената	Сенат	ORG	ORG-United-States-Senate
+7767	7772	Тръмп	Тръмп	PER	PER-Donald-Trump
+7817	7844	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+7858	7864	Сената	Сенат	ORG	ORG-United-States-Senate
+8087	8099	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+8121	8128	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+8459	8475	Съединените щати	Съединени щати	LOC	GPE-USA
+8824	8849	епидемията от коронавирус	епидемия от коронавирус	EVT	EVT-Epidemic
+9116	9129	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+9201	9215	републиканците	републиканци	PER	ORG-Republican-Party-USA
+9216	9229	Джордж У. Буш	Джордж У. Буш	PER	PER-George-Bush-Jr
+9247	9270	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+9271	9277	Ал Гор	Ал Гор	PER	PER-Al-Gore
+9301	9308	Флорида	Флорида	LOC	GPE-Florida
+9440	9454	Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+9482	9485	Буш	Буш	PER	PER-George-Bush-Jr
+9544	9576	избирателната колегия от Флорида	избирателна колегия	ORG	ORG-United-States-Electoral-College
+9628	9649	избирателната колегия	избирателна колегия	ORG	ORG-United-States-Electoral-College
+9651	9654	Гор	Гор	PER	PER-Al-Gore
+9699	9702	Буш	Буш	PER	PER-George-Bush-Jr
+9764	9774	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+9833	9838	Тръмп	Тръмп	PER	PER-Donald-Trump
+10130	10139	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+10157	10166	Конгресът	Конгрес	ORG	ORG-United-States-Congress
+10169	10178	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+10229	10238	Белия дом	Бял дом	LOC	LOC-White-House
+10299	10302	САЩ	САЩ	LOC	GPE-USA

@@ -1,0 +1,53 @@
+16	24	covid-19	covid-19	EVT	EVT-Covid-19
+27	43	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+47	53	Rusiji	Rusija	LOC	GPE-Russia
+121	176	regulatorne agencije za zdravila in zdravstvene izdelke	Regulatorna agencija za zdravila in zdravstvene izdelke	ORG	ORG-British-Medicines-and-Healthcare-Products-Regulatory-Agency
+178	182	MHRA	MHRA	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+213	219	Pfizer	Pfizer	ORG	ORG-Pfizer
+220	228	BioNTech	BioNTech	ORG	ORG-BioNTech
+235	244	covidu-19	covid-19	EVT	EVT-Covid-19
+299	333	britanskega ministrstva za zdravje	britansko ministrstvo za zdravje	ORG	ORG-British-Ministry-of-Health
+354	370	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+438	442	MHRA	MHRA	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+516	524	covid-19	covid-19	EVT	EVT-Covid-19
+586	589	BBC	BBC	ORG	ORG-BBC-Ltd
+794	810	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+833	849	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+951	954	BBC	BBC	ORG	ORG-BBC-Ltd
+1037	1053	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+1348	1360	koronavirusa	koronavirus	EVT	EVT-Covid-19
+1454	1462	Pfizerju	Pfizer	ORG	ORG-Pfizer
+1549	1569	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+1609	1618	covidu-19	covid-19	EVT	EVT-Covid-19
+1649	1657	Pfizerja	Pfizer	ORG	ORG-Pfizer
+1658	1671	Albert Bourla	Albert Bourla	PER	PER-Albert-Bourla
+1842	1850	BioNTech	BioNTech	ORG	ORG-BioNTech
+1851	1861	Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+1912	1928	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+2024	2027	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+2056	2062	Pfizer	Pfizer	ORG	ORG-Pfizer
+2066	2074	BioNTech	BioNTech	ORG	ORG-BioNTech
+2365	2379	Borut Štrukelj	Borut Štrukelj	PER	PER-Borut-Štrukelj
+2382	2404	fakultete za farmacijo	fakulteta za farmacijo	ORG	ORG-Faculty-of-Pharmacy-Ljubljana
+2778	2784	Pfizer	Pfizer	ORG	ORG-Pfizer
+2953	2982	Evropski agenciji za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+2984	2987	Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+3067	3076	covidu-19	covid-19	EVT	EVT-Covid-19
+3079	3081	EU	EU	ORG	ORG-European-Union
+3184	3187	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+3268	3277	covidu-19	covid-19	EVT	EVT-Covid-19
+3286	3292	Rusiji	Rusija	LOC	GPE-Russia
+3362	3376	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+3460	3466	Rusiji	Rusija	LOC	GPE-Russia
+3522	3531	covidu-19	covid-19	EVT	EVT-Covid-19
+3620	3625	Putin	Putin	PER	PER-Vladimir-Putin
+3749	3765	Tatjano Golikovo	Tatjana Golikova	PER	PER-Tatjana-Golikova
+3879	3885	Rusija	Rusija	LOC	GPE-Russia
+3930	3949	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+3980	3990	covidom-19	covid-19	EVT	EVT-Covid-19
+4073	4097	univerze Johnsa Hopkinsa	Univerza John Hopkins	ORG	ORG-John-Hopkins-University
+4100	4106	Moskva	Moskva	LOC	GPE-Moscow
+4188	4194	Rusija	Rusija	LOC	GPE-Russia
+4225	4234	covidu-19	covid-19	EVT	EVT-Covid-19
+4236	4245	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+4249	4261	EpiVacCorona	EpiVacCorona	PRO	PRO-EpiVacCorona

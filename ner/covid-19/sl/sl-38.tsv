@@ -1,0 +1,16 @@
+0	9	Modernino	Moderna	ORG	ORG-Moderna
+59	67	covid-19	covid-19	EVT	EVT-Covid-19
+129	132	ZDA	ZDA	LOC	GPE-USA
+136	144	covid-19	covid-19	EVT	EVT-Covid-19
+371	379	covid-19	covid-19	EVT	EVT-Covid-19
+800	803	ZDA	ZDA	LOC	GPE-USA
+997	1008	Moderninega	Moderna	ORG	ORG-Moderna
+1042	1052	Pfizerjevo	Pfizer	ORG	ORG-Pfizer
+1056	1067	BioNTehcovo	BioNTech	ORG	ORG-BioNTech
+1214	1221	Moderne	Moderna	ORG	ORG-Moderna
+1582	1585	ZDA	ZDA	LOC	GPE-USA
+1589	1595	Evropo	Evropa	LOC	LOC-Europe
+1597	1604	Moderna	Moderna	ORG	ORG-Moderna
+1658	1661	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+1749	1755	Evropi	Evropa	LOC	LOC-Europe
+1881	1891	Američanom	Američani	PER	GPE-USA

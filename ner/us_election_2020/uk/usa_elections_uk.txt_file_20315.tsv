@@ -1,0 +1,25 @@
+0	12	Вибори в США	Вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+14	20	Байден	Байден	PER	PER-Joe-Biden
+29	35	Трампа	Трамп	PER	PER-Donald-Trump
+67	75	Мічигані	Мічиган	LOC	GPE-Michigan
+117	127	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+138	144	Трампа	Трамп	PER	PER-Donald-Trump
+153	160	Мічиган	Мічиган	LOC	GPE-Michigan
+168	175	REUTERS	REUTERS	ORG	ORG-Reuters
+230	250	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+251	261	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+292	295	США	США	LOC	GPE-USA
+296	311	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+320	327	Мічиган	Мічиган	LOC	GPE-Michigan
+379	384	Трамп	Трамп	PER	PER-Donald-Trump
+435	442	Байдена	Байден	PER	PER-Joe-Biden
+493	501	Мічигані	Мічиган	LOC	GPE-Michigan
+523	535	Вибори в США	Вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+549	575	Президентські вибори в США	Президентські вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+608	613	Трамп	Трамп	PER	PER-Donald-Trump
+729	732	США	США	LOC	GPE-USA
+733	743	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+763	766	США	США	LOC	GPE-USA
+1075	1082	України	Україна	LOC	GPE-Ukraine
+1102	1107	УНІАН	УНІАН	ORG	ORG-UNIAN
+1110	1118	Telegram	Telegram	PRO	PRO-Telegram

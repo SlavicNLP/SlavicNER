@@ -1,0 +1,12 @@
+0	12	George Soros	George Soros	PER	PER-George-Soros
+30	36	brexit	Brexit	EVT	EVT-Brexit
+38	43	Soros	Soros	PER	PER-George-Soros
+106	114	Politico	Politico	PRO	PRO-Politico
+133	139	Paryżu	Paryż	LOC	GPE-Paris
+155	157	UE	UE	ORG	ORG-European-Union
+240	255	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+280	285	Soros	Soros	PER	PER-George-Soros
+287	297	Amerykanin	Amerykanin	PER	GPE-USA
+345	351	brexit	Brexit	EVT	EVT-Brexit
+426	432	Brexit	Brexit	EVT	EVT-Brexit
+622	634	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain

@@ -1,0 +1,17 @@
+12	19	brexitu	brexit	EVT	EVT-Brexit
+40	93	Spojeným královstvím Velké Británie a Severního Irska	Spojené království  Velké Británie a Severního Irska	LOC	GPE-Great-Britain
+96	110	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+124	131	brexitu	brexit	EVT	EVT-Brexit
+259	273	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+299	306	Londýně	Londýn	LOC	GPE-London
+309	316	brexitu	brexit	EVT	EVT-Brexit
+355	364	Florencii	Florencie	LOC	GPE-Florence
+460	474	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+477	482	Irsko	Irsko	LOC	GPE-Ireland
+485	498	Severní Irsko	Severní Irsko	LOC	GPE-Northern-Ireland
+616	622	Brusel	Brusel	LOC	GPE-Brussles
+625	633	Londýnem	Londýn	LOC	GPE-London
+661	681	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+684	686	EU	EU	ORG	ORG-European-Union
+719	725	Brusel	Brusel	LOC	GPE-Brussles
+910	923	Evropská rada	Evropská rada	ORG	ORG-European-Council

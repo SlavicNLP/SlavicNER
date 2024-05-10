@@ -1,0 +1,38 @@
+103	121	The New York Times	The New York Times	ORG	ORG-Financial-Times-Stock-Exchange-FTSE-100
+135	140	Обамы	Обама	PER	PER-Barack-Obama
+200	207	Netflix	Netflix	ORG	ORG-Netflix
+221	237	Тедом Сарандосом	Тед Сарандос	PER	PER-Theodore-Sarandos
+272	280	Сарандос	Сарандос	PER	PER-Theodore-Sarandos
+290	302	Николь Авант	Николь Авант	PER	PER-Nicole-Avant
+309	314	Обаме	Обама	PER	PER-Barack-Obama
+334	341	Багамах	Багамы	LOC	GPE-Bahamas
+350	357	Netflix	Netflix	ORG	ORG-Netflix
+394	400	Обамой	Обама	PER	PER-Barack-Obama
+469	475	Amazon	Amazon	ORG	ORG-Amazon
+478	483	Apple	Apple	ORG	ORG-Apple
+505	510	Обама	Обама	PER	PER-Barack-Obama
+598	608	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+715	722	Америки	Америка	LOC	GPE-USA
+1059	1067	Fox News	Fox News	PRO	PRO-Fox-News
+1152	1160	Нью-Дели	Нью-Дели	LOC	GPE-New-Deli
+1249	1259	Диоклетиан	Диоклетиан	PER	PER-Diocletian
+1519	1529	Диоклетиан	Диоклетиан	PER	PER-Diocletian
+1840	1854	Герхард Шрёдер	Герхард Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+1869	1877	Германии	Германия	LOC	GPE-Germany
+1934	1942	Германия	Германия	LOC	GPE-Germany
+1957	1977	Второй мировой войны	Вторая мировая война	EVT	EVT-World-War-II
+2071	2079	Балканах	Балканы	LOC	LOC-Balkans
+2084	2095	Афганистане	Афганистан	LOC	GPE-Afghanistan
+2158	2164	Шрёдер	Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+2259	2273	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+2304	2318	Северный поток	Северный поток	PRO	PRO-Nord-Stream-2
+2421	2434	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+2474	2492	Северный поток – 2	Северный поток – 2	PRO	PRO-Nord-Stream-2
+2504	2511	Шрёдера	Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+2553	2561	Роснефти	Роснефть	ORG	ORG-Rosneft
+2780	2787	Шрёдера	Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+2805	2816	Южной Кореи	Южная Корея	LOC	GPE-South-Korea
+2817	2826	Ким Со Ён	Ким Со Ён	PER	PER-Km-So-Yeon
+2986	3004	Махмуд Ахмадинежад	Махмуд Ахмадинежад	PER	PER-Mahmoud-Ahmadinejad
+3029	3034	Ирана	Иран	LOC	GPE-Iran
+3175	3186	Ахмадинежад	Ахмадинежад	PER	PER-Mahmoud-Ahmadinejad

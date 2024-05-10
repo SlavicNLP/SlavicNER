@@ -1,0 +1,33 @@
+0	4	Tusk	Tusk	PER	PER-Donald-Tusk
+23	25	27	27	ORG	ORG-European-Union
+66	74	Brexicie	Brexit	EVT	EVT-Brexit
+103	105	27	27	ORG	ORG-European-Union
+171	179	Brexicie	Brexit	EVT	EVT-Brexit
+259	266	Brexitu	Brexit	EVT	EVT-Brexit
+300	304	Tusk	Tusk	PER	PER-Donald-Tusk
+308	317	Twitterze	Twitter	PRO	PRO-Twitter
+319	337	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+340	355	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+547	562	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+645	647	UE	UE	ORG	ORG-European-Union
+684	691	Polaków	Polacy	PER	GPE-Poland
+800	808	Brexitem	Brexit	EVT	EVT-Brexit
+864	872	Brukseli	Bruksela	LOC	GPE-Brussles
+895	902	Brexitu	Brexit	EVT	EVT-Brexit
+903	917	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+1016	1031	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1063	1065	UE	UE	ORG	ORG-European-Union
+1316	1322	Brexit	Brexit	EVT	EVT-Brexit
+1397	1404	Barnier	Barnier	PER	PER-Michel-Barnier
+1617	1624	Brexitu	Brexit	EVT	EVT-Brexit
+1625	1636	David Davis	David Davis	PER	PER-David-Davis
+1722	1745	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1748	1765	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1812	1827	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1830	1832	UE	UE	ORG	ORG-European-Union
+1875	1883	Brexicie	Brexit	EVT	EVT-Brexit
+2031	2048	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2051	2053	UE	UE	ORG	ORG-European-Union
+2579	2587	Irlandią	Irlandia	LOC	GPE-Ireland
+2590	2603	Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+2620	2648	Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice

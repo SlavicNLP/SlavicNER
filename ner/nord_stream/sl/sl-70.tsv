@@ -1,0 +1,111 @@
+0	8	Trumpova	Trump	PER	PER-Donald-Trump
+50	53	ZDA	ZDA	LOC	GPE-USA
+54	70	Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+73	82	Helsinkih	Helsinki	LOC	GPE-Helsinki
+118	132	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+226	241	Vzhodni Nemčiji	Vzhodna Nemčija	LOC	GPE-East-Germany
+243	248	Trump	Trump	PER	PER-Donald-Trump
+257	266	Putinovim	Putin	PER	PER-Vladimir-Putin
+312	318	KGB-ju	KGB	ORG	ORG-KGB
+344	349	Trump	Trump	PER	PER-Donald-Trump
+370	380	Putinovemu	Putin	PER	PER-Vladimir-Putin
+399	405	Rusija	Rusija	LOC	GPE-Russia
+434	473	ameriške predsedniške volitve leta 2016	ameriške predsedniške volitve leta 2016	EVT	EVT-2016-United-States-Presidential-Election
+612	621	demokrati	demokrati	PER	ORG-Democratic-Party-USA
+639	651	republikanci	republikanci	PER	ORG-Republican-Party-USA
+708	717	Paul Ryan	Paul Ryan	PER	PER-Paul-Ryan
+730	735	Trump	Trump	PER	PER-Donald-Trump
+754	760	Rusija	Rusija	LOC	GPE-Russia
+820	828	Trumpovo	Trump	PER	PER-Donald-Trump
+859	864	Trump	Trump	PER	PER-Donald-Trump
+1038	1044	Rusija	Rusija	LOC	GPE-Russia
+1189	1194	Trump	Trump	PER	PER-Donald-Trump
+1215	1221	Rusija	Rusija	LOC	GPE-Russia
+1269	1279	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+1333	1338	Putin	Putin	PER	PER-Vladimir-Putin
+1350	1356	Trumpu	Trump	PER	PER-Donald-Trump
+1402	1411	Helsinkih	Helsinki	LOC	GPE-Helsinki
+1415	1420	Putin	Putin	PER	PER-Vladimir-Putin
+1468	1473	Trump	Trump	PER	PER-Donald-Trump
+1578	1586	Trumpova	Trump	PER	PER-Donald-Trump
+1631	1639	Kremljem	Kremelj	ORG	ORG-Kremlin
+1692	1697	Trump	Trump	PER	PER-Donald-Trump
+1716	1722	Rusiji	Rusija	LOC	GPE-Russia
+1730	1735	Putin	Putin	PER	PER-Vladimir-Putin
+1893	1905	hladno vojno	hladna vojna	EVT	EVT-Cold-War
+1909	1916	Sovjeti	Sovjeti	PER	GPE-Soviet-Union-USSR
+1930	1954	Komunistično stranko ZDA	Komunistična stranka ZDA	ORG	ORG-Communist-Party-USA
+1963	1968	Trump	Trump	PER	PER-Donald-Trump
+2000	2003	ZDA	ZDA	LOC	GPE-USA
+2079	2094	Sovjetske zveze	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+2114	2123	Američani	Američani	PER	GPE-USA
+2210	2224	Borisa Jelcina	Boris Jelcin	PER	PER-Boris-Jelcin
+2268	2273	Zahod	Zahod	LOC	LOC-West
+2318	2324	Putinu	Putin	PER	PER-Vladimir-Putin
+2352	2356	Rusi	Rusi	PER	GPE-Russia
+2434	2439	Putin	Putin	PER	PER-Vladimir-Putin
+2570	2576	Trumpa	Trump	PER	PER-Donald-Trump
+2644	2650	Rusijo	Rusija	LOC	GPE-Russia
+2674	2677	ZDA	ZDA	LOC	GPE-USA
+2682	2687	Trump	Trump	PER	PER-Donald-Trump
+2710	2716	Putina	Putin	PER	PER-Vladimir-Putin
+2739	2748	Belo hišo	Bela hiša	LOC	LOC-White-House
+2750	2755	Putin	Putin	PER	PER-Vladimir-Putin
+2783	2789	Trumpa	Trump	PER	PER-Donald-Trump
+2792	2799	Kremelj	Kremelj	LOC	LOC-Kremlin
+2809	2817	Trumpova	Trump	PER	PER-Donald-Trump
+2986	3003	Dwight Eisenhower	Dwight Eisenhower	PER	PER-Dwight-Eisenhower
+3012	3027	Nikito Hruščova	Nikita Hruščov	PER	PER-Nikita-Khrushchev
+3037	3040	ZDA	ZDA	LOC	GPE-USA
+3067	3082	Mihail Gorbačov	Mihail Gorbačov	PER	PER-Mikhail-Gorbachev
+3086	3099	Ronald Reagan	Ronald Reagan	PER	PER-Ronald-Reagan
+3110	3120	Reykjaviku	Reykjavik	LOC	GPE-Reykjavik
+3138	3146	Trumpova	Trump	PER	PER-Donald-Trump
+3289	3296	Putinov	Putin	PER	PER-Vladimir-Putin
+3313	3319	Trumpa	Trump	PER	PER-Donald-Trump
+3401	3413	hladne vojne	hladna vojna	EVT	EVT-Cold-War
+3428	3443	Sovjetska zveza	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+3480	3486	Rusije	Rusija	LOC	GPE-Russia
+3579	3585	Putinu	Putin	PER	PER-Vladimir-Putin
+3698	3705	Gruzijo	Gruzija	LOC	GPE-Georgia
+3722	3728	Rusiji	Rusija	LOC	GPE-Russia
+3740	3744	Krim	Krim	LOC	GPE-Crimea
+3769	3775	Siriji	Sirija	LOC	GPE-Syria
+3808	3824	Bašarja Al Asada	Bašar Al Asad	PER	PER-Bashar-al-Assad
+3889	3904	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+3923	3930	Kremlja	Kremelj 	ORG	ORG-Kremlin
+3969	3974	Putin	Putin	PER	PER-Vladimir-Putin
+3989	3995	Trumpu	Trump	PER	PER-Donald-Trump
+3999	4002	ZDA	ZDA	LOC	GPE-USA
+4097	4103	Rusija	Rusija	LOC	GPE-Russia
+4138	4143	Putin	Putin	PER	PER-Vladimir-Putin
+4263	4271	Trumpovo	Trump	PER	PER-Donald-Trump
+4351	4357	Putinu	Putin	PER	PER-Vladimir-Putin
+4404	4407	ZDA	ZDA	LOC	GPE-USA
+4432	4440	Trumpova	Trump	PER	PER-Donald-Trump
+4557	4563	Rusijo	Rusija	LOC	GPE-Russia
+4566	4573	Nemčija	Nemčija	LOC	GPE-Germany
+4584	4589	Trump	Trump	PER	PER-Donald-Trump
+4627	4633	Rusije	Rusija	LOC	GPE-Russia
+4652	4660	Trumpova	Trump	PER	PER-Donald-Trump
+4723	4736	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+4752	4758	Rusijo	Rusija	LOC	GPE-Russia
+4762	4769	Nemčijo	Nemčija	LOC	GPE-Germany
+4788	4801	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+4830	4837	Nemčija	Nemčija	LOC	GPE-Germany
+4897	4905	Kitajska	Kitajska	LOC	GPE-China
+4921	4929	Trumpove	Trump	PER	PER-Donald-Trump
+5077	5086	Japonskem	Japonska	LOC	GPE-Japan
+5092	5104	Južni Koreji	Južna Koreja	LOC	GPE-South-Korea
+5134	5148	Nikita Hruščov	Nikita Hruščov	PER	PER-Nikita-Khrushchev
+5206	5220	Andrej Gromiko	Andrej Gromiko	PER	PER-Andrei-Gromyko
+5240	5247	Hruščov	Hruščov	PER	PER-Nikita-Khrushchev
+5314	5320	Moskvo	Moskva	LOC	GPE-Moscow
+5323	5330	Gromiko	Gromiko	PER	PER-Andrei-Gromyko
+5342	5364	kubansko raketno krizo	kubanska raketna kriza	EVT	EVT-Cuban-Missile-Crisis
+5406	5414	Hruščova	Hruščov	PER	PER-Nikita-Khrushchev
+5492	5495	ZDA	ZDA	LOC	GPE-USA
+5525	5529	Kube	Kuba	LOC	GPE-Cuba
+5592	5601	Bele hiše	Bela hiša	LOC	LOC-White-House
+5603	5608	Trump	Trump	PER	PER-Donald-Trump
+5782	5785	ZDA	ZDA	LOC	GPE-USA

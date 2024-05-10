@@ -1,0 +1,70 @@
+114	123	Asia Bibi	Asia Bibi	PER	PER-Asia-Bibi
+280	294	Saif ul-Mulook	Saif ul-Mulook	PER	PER-Saif-Ul-Malook
+437	445	Asi Bibi	Asia Bibi	PER	PER-Asia-Bibi
+471	474	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+494	497	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+546	550	Bibi	Bibi	PER	PER-Asia-Bibi
+572	602	więzienia w Multan w Pendżabie	więzienie w Multan w Pendżabie	LOC	LOC-Multan-prison
+622	631	Pakistanu	Pakistan	LOC	GPE-Pakistan
+660	663	EFE	EFE	ORG	ORG-EFE
+666	669	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+686	695	Asię Bibi	Asia Bibi	PER	PER-Asia-Bibi
+747	749	AP	AP	ORG	ORG-AP-The-Associated-Press
+755	765	Islamabadu	Islamabad	LOC	GPE-Islamabad
+847	853	Multan	Multan	LOC	GPE-Multan
+927	942	Pakistańczykami	Pakistańczycy	PER	GPE-Pakistan
+1004	1007	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1028	1035	Reutera	Reuter	ORG	ORG-Reuters
+1037	1046	Asia Bibi	Asia Bibi	PER	PER-Asia-Bibi
+1192	1196	Bibi	Bibi	PER	PER-Asia-Bibi
+1344	1361	lotnisko w Multan	lotnisko w Multan	LOC	LOC-Multan-Airport
+1395	1397	AP	AP	ORG	ORG-AP-The-Associated-Press
+1497	1501	Bibi	Bibi	PER	PER-Asia-Bibi
+1537	1558	więzienia w Pendżabie	więzienie w Pendżabie	LOC	LOC-Multan-prison
+1633	1640	Reutera	Reuter	ORG	ORG-Reuters
+1641	1647	Mulook	Mulook	PER	PER-Saif-Ul-Malook
+1672	1680	Holandii	Holandia	LOC	GPE-Holland
+1757	1781	holenderskim parlamencie	holenderski parlament	ORG	ORG-Dutch-Parlament
+1839	1843	Bibi	Bibi	PER	PER-Asia-Bibi
+1894	1902	Holandii	Holandia	LOC	GPE-Holland
+1975	1982	Pendżab	Pendżab	LOC	GPE-Punjab
+1984	2007	Fayaz Ul-Hassan Chauhan	Fayaz Ul-Hassan Chauhan	PER	PER-Fayaz-Ul-Hassan-Chauhan
+2019	2022	EFE	EFE	ORG	ORG-EFE
+2027	2036	Asia Bibi	Asia Bibi	PER	PER-Asia-Bibi
+2119	2135	Sądu Najwyższego	Sądu Najwyższy	ORG	ORG-Supreme-Court-of-Pakistan
+2138	2151	Sąd Najwyższy	Sąd Najwyższy	ORG	ORG-Supreme-Court-of-Pakistan
+2283	2305	Sąd Najwyższy w Lahaur	Sąd Najwyższy w Lahaur	ORG	ORG-Court-in-Lahur
+2432	2449	Tehreek-e-Labbaik	Tehreek-e-Labbaik	ORG	ORG-Tehreek-e-Labbaik-Pakistan
+2451	2454	TLP	TLP	ORG	ORG-Tehreek-e-Labbaik-Pakistan
+2651	2655	Bibi	Bibi	PER	PER-Asia-Bibi
+2836	2840	Bibi	Bibi	PER	PER-Asia-Bibi
+2849	2858	Pakistanu	Pakistan	LOC	GPE-Pakistan
+2884	2893	Islamabad	Islamabad	LOC	GPE-Islamabad
+3034	3043	Pakistanu	Pakistan	LOC	GPE-Pakistan
+3135	3144	Islamabad	Islamabad	LOC	GPE-Islamabad
+3159	3167	Asi Bibi	Asia Bibi	PER	PER-Asia-Bibi
+3180	3189	Pakistanu	Pakistan	LOC	GPE-Pakistan
+3288	3297	Le Figaro	Le Figaro	PRO	PRO-Le-Figaro-newspaper
+3319	3325	Paryża	Paryż	LOC	GPE-Paris
+3326	3338	Anne Hidalgo	Anne Hidalgo	PER	PER-Ann-Hidalgo
+3369	3377	Asi Bibi	Asia Bibi	PER	PER-Asia-Bibi
+3403	3410	Francji	Francja	LOC	GPE-France
+3432	3435	EFE	EFE	ORG	ORG-EFE
+3472	3486	Matteo Salvini	Matteo Salvini	PER	PER-Matteo-Salvini
+3513	3519	Włochy	Włochy	LOC	GPE-Italy
+3579	3583	Bibi	Bibi	PER	PER-Asia-Bibi
+3592	3600	Pakistan	Pakistan	LOC	GPE-Pakistan
+3615	3623	Asi Bibi	Asia Bibi	PER	PER-Asia-Bibi
+3660	3681	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+3683	3700	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3705	3713	Kanadzie	Kanada	LOC	GPE-Canada
+3745	3755	Pakistanie	Pakistan	LOC	GPE-Pakistan
+3808	3822	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+3877	3888	Theresę May	Theresa May	PER	PER-Theresa-May
+3946	3950	Bibi	Bibi	PER	PER-Asia-Bibi
+3952	3963	Ashiq Masih	Ashiq Masih	PER	PER-Ashiq-Masih
+4033	4042	Asia Bibi	Asia Bibi	PER	PER-Asia-Bibi
+4056	4067	Asia Noreen	Asia Noreen	PER	PER-Asia-Bibi
+4101	4111	Pakistanie	Pakistan	LOC	GPE-Pakistan
+4143	4151	Mahometa	Mahomet	PER	PER-Mahomet
+4497	4506	Pakistanu	Pakistan	LOC	GPE-Pakistan

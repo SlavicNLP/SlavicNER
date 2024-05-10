@@ -1,0 +1,53 @@
+1	8	Гардиън	Гардиън	PRO	PRO-The-Guardian
+57	63	Европа	Европа	LOC	LOC-Europe
+66	73	Брекзит	Брекзит	EVT	EVT-Brexit
+75	83	Германия	Германия	LOC	GPE-Germany
+202	241	Германската социалдемократическа партия	Германска социалдемократическа партия	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+264	271	Гардиън	Гардиън	PRO	PRO-The-Guardian
+373	381	Германия	Германия	LOC	GPE-Germany
+440	444	ГСДП	ГСДП	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+957	961	ГСДП	ГСДП	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+1000	1006	Левите	Левите	ORG	ORG-Die-Linke
+1019	1022	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+1048	1052	ГСДП	ГСДП	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+1053	1064	Мартин Шулц	Мартин Шулц	PER	PER-Martin-Schulz
+1188	1192	ГСДП	ГСДП	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+1234	1249	Волфганг Шойбле	Волфганг Шойбле	PER	PER-Wolfgang-Schauble
+1297	1305	Германия	Германия	LOC	GPE-Germany
+1308	1314	Европа	Европа	LOC	LOC-Europe
+1352	1369	Елисейския дворец	Елисейски дворец	LOC	LOC-Palais-de-l'Еlysеe
+1374	1381	Брюксел	Брюксел	LOC	GPE-Brussles
+1490	1496	Меркел	Меркел	PER	PER-Angela-Merkel
+1498	1506	Зелените	Зелените	ORG	ORG-Die-Grunen
+1566	1586	Свободните демократи	Свободни демократи	ORG	ORG-Freie-Demokratische-Partei
+1612	1616	ГСДП	ГСДП	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+1694	1700	Меркел	Меркел	PER	PER-Angela-Merkel
+1759	1766	Гардиън	Гардиън	PRO	PRO-The-Guardian
+1899	1905	Меркел	Меркел	PER	PER-Angela-Merkel
+1917	1921	ГСДП	ГСДП	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+1984	2007	Алтернатива за Германия	Алтернатива за Германия	ORG	ORG-Alternative-fur-Deutschland
+2009	2012	АзГ	АзГ	ORG	ORG-Alternative-fur-Deutschland
+2123	2129	Меркел	Меркел	PER	PER-Angela-Merkel
+2164	2167	АзГ	АзГ	ORG	ORG-Alternative-fur-Deutschland
+2235	2263	Християндемократическия съюз	Християндемократическия съюз	ORG	ORG-Christlich-Demokratische-Union
+2265	2268	ХДС	ХДС	ORG	ORG-Christlich-Demokratische-Union
+2273	2279	Меркел	Меркел	PER	PER-Angela-Merkel
+2304	2307	АзГ	АзГ	ORG	ORG-Alternative-fur-Deutschland
+2518	2524	Меркел	Меркел	PER	PER-Angela-Merkel
+2584	2592	Германия	Германия	LOC	GPE-Germany
+2601	2612	Мартин Шулц	Мартин Шулц	PER	PER-Martin-Schulz
+2645	2670	Съединени европейски щати	Съединени европейски щати	LOC	GPE-United-States-of-Europe
+2712	2716	Шулц	Шулц	PER	PER-Martin-Schulz
+2818	2832	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+2908	2918	еврозоната	Еврозона	LOC	LOC-Eurozone
+3104	3115	Южна Европа	Южна Европа	LOC	LOC-Southern-Europe
+3140	3162	Вишеградската четворка	Вишеградска четворка	ORG	ORG-Visegrad-Group
+3170	3174	Шулц	Шулц	PER	PER-Martin-Schulz
+3349	3357	Брекзита	Брекзит	EVT	EVT-Brexit
+3368	3377	Брекзитът	Брекзит	EVT	EVT-Brexit
+3401	3408	унгарци	унгарци	PER	GPE-Hungary
+3410	3416	поляци	поляци	PER	GPE-Poland
+3418	3425	словаци	словаци	PER	GPE-Slovakia
+3428	3432	чехи	чехи	PER	GPE-Czech-Republic
+3452	3454	ЕС	ЕС	ORG	ORG-European-Union
+3521	3528	Гардиън	Гардиън	PRO	PRO-The-Guardian

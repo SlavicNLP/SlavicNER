@@ -1,0 +1,22 @@
+26	33	Niemiec	Niemcy	LOC	GPE-Germany
+78	85	Brexitu	Brexit	EVT	EVT-Brexit
+106	123	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+151	154	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+271	288	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+291	293	UE	UE	ORG	ORG-European-Union
+319	321	UE	UE	ORG	ORG-European-Union
+324	331	Ukrainą	Ukraina	LOC	GPE-Ukraine
+334	344	Białorusią	Białoruś	LOC	GPE-Belarus
+365	372	Spiegel	Spiegel	PRO	PRO-Der-Spiegel
+470	481	Skandynawii	Skandynawia	LOC	LOC-Scandinavia
+483	502	Ameryce Południowej	Ameryka Południowa	LOC	LOC-North-America
+538	541	dpa	DPA	ORG	ORG-DPA
+651	656	Snake	Snake	ORG	ORG-Snake
+659	662	Wąż	Wąż	ORG	ORG-Snake
+879	886	Spiegel	Spiegel	PRO	PRO-Der-Spiegel
+924	955	ministerstwo spraw wewnętrznych	Ministerstwo Spraw Wewnętrznych	ORG	ORG-Home-Office-UK
+1009	1012	MSW	MSW	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+1034	1036	UE	UE	ORG	ORG-European-Union
+1233	1235	UE	UE	ORG	ORG-European-Union
+1290	1293	dpa	DPA	ORG	ORG-DPA
+1300	1303	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

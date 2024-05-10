@@ -1,0 +1,71 @@
+279	287	Германии	Германия	LOC	GPE-Germany
+380	392	коронавируса	коронавирус	EVT	EVT-Covid-19
+480	488	немецкие	немецкие	PER	GPE-Germany
+520	528	Германии	Германия	LOC	GPE-Germany
+738	743	Stiko	Stiko	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+901	918	ZDF Morgenmagazin	ZDF Morgenmagazin	PRO	PRO-ZDF-Morgenmagazin
+938	946	Германии	Германия	LOC	GPE-Germany
+955	969	Карл Лаутербах	Карл Лаутербах	PER	PER-Karl-Lauterbach
+971	986	Karl Lauterbach	Karl Lauterbach	PER	PER-Karl-Lauterbach
+1058	1074	Северной Америке	Северная Америка	LOC	LOC-North-America
+1079	1096	Европейском Союзе	Европейский Союз	ORG	ORG-European-Union
+1219	1233	Карл Лаутербах	Карл Лаутербах	PER	PER-Karl-Lauterbach
+1279	1294	Мартин Терхардт	Мартин Терхардт	PER	PER-Martin-Terhardt
+1296	1311	Martin Terhardt	Martin Terhardt	PER	PER-Martin-Terhardt
+1371	1379	COVID-19	COVID-19	EVT	EVT-Covid-19
+1390	1393	ФРГ	ФРГ	LOC	GPE-Germany
+1485	1491	России	Россия	LOC	GPE-Russia
+1639	1677	Frankfurter Allgemeine Sonntagszeitung	Frankfurter Allgemeine Sonntagszeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+1679	1687	Германия	Германия	LOC	GPE-Germany
+1746	1761	Мартин Терхардт	Мартин Терхардт	PER	PER-Martin-Terhardt
+1800	1833	Постоянную комиссию по вакцинации	Постоянная комиссия по вакцинации	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+1835	1840	Stiko	Stiko	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+1846	1856	берлинском	берлинский	LOC	GPE-Berlin
+1873	1901	Институте имени Роберта Коха	Институт имени Роберта Коха	ORG	ORG-Robert-Koch-Institute
+1903	1906	RKI	RKI	ORG	ORG-Robert-Koch-Institute
+1932	1940	Германии	Германия	LOC	GPE-Germany
+2026	2029	ФРГ	ФРГ	LOC	GPE-Germany
+2360	2365	Stiko	Stiko	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+2505	2543	Frankfurter Allgemeine Sonntagszeitung	Frankfurter Allgemeine Sonntagszeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+2728	2731	ФРГ	ФРГ	LOC	GPE-Germany
+2975	2983	Немецкая	Немецкая	PER	GPE-Germany
+2990	2996	Schott	Schott	ORG	ORG-Schott
+3179	3187	Германии	Германия	LOC	GPE-Germany
+3247	3252	Stiko	Stiko	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+3273	3296	Майнцского университета	Майнцский университет	ORG	ORG-University-of-Mainz
+3297	3306	Фред Цепп	Фред Цепп	PER	PER-Fred-Zepp
+3308	3317	Fred Zepp	Fred Zepp	PER	PER-Fred-Zepp
+3417	3425	Германия	Германия	LOC	GPE-Germany
+3484	3496	коронавируса	коронавирус	EVT	EVT-Covid-19
+3583	3591	Германия	Германия	LOC	GPE-Germany
+3634	3637	ФРГ	ФРГ	LOC	GPE-Germany
+4076	4081	Stiko	Stiko	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+4094	4132	Frankfurter Allgemeine Sonntagszeitung	Frankfurter Allgemeine Sonntagszeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+4563	4566	ФРГ	ФРГ	LOC	GPE-Germany
+4567	4576	Йенс Шпан	Йенс Шпан	PER	PER-Jens-Spahn
+4614	4617	ФРГ	ФРГ	LOC	GPE-Germany
+4618	4629	Йенса Шпана	Йенс Шпан	PER	PER-Jens-Spahn
+4631	4641	Jens Spahn	Jens Spahn	PER	PER-Jens-Spahn
+4653	4658	Stiko	Stiko	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+4706	4731	Немецким советом по этике	Немецкий совет по этике	ORG	ORG-German-ethics-Council
+4733	4751	Deutscher Ethikrat	Deutscher Ethikrat	ORG	ORG-VDMA-Verband-Deutscher-Maschinen-und-Anla
+4757	4795	Национальной академией наук Leopoldina	Национальная академия наук Leopoldina	ORG	ORG-National-Academy-of-Sciences-Leopoldina
+4825	4833	Германии	Германия	LOC	GPE-Germany
+5239	5247	Германии	Германия	LOC	GPE-Germany
+5627	5679	Института вирусологии клиники Ульмского университета	Институт вирусологии клиники Ульмского университета	ORG	ORG-Institute-of-Virology-of-the-Ulm-University-Clinic
+5680	5693	Томас Мертенс	Томас Мертенс	PER	PER-Thomas-Mertens
+5695	5709	Thomas Mertens	Thomas Mertens	PER	PER-Thomas-Mertens
+5729	5767	Frankfurter Allgemeine Sonntagszeitung	Frankfurter Allgemeine Sonntagszeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+6261	6268	Берлине	Берлин	LOC	GPE-Berlin
+6294	6302	COVID-19	COVID-19	EVT	EVT-Covid-19
+6417	6425	Германии	Германия	LOC	GPE-Germany
+6461	6468	Россией	Россия	LOC	GPE-Russia
+6524	6527	ФРГ	ФРГ	LOC	GPE-Germany
+6528	6537	Йенс Шпан	Йенс Шпан	PER	PER-Jens-Spahn
+6747	6757	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+6813	6821	Германии	Германия	LOC	GPE-Germany
+6949	6956	ковидом	ковид	EVT	EVT-Covid-19
+7070	7078	Германии	Германия	LOC	GPE-Germany
+7152	7190	Frankfurter Allgemeine Sonntagszeitung	Frankfurter Allgemeine Sonntagszeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+7202	7207	Stiko	Stiko	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+7259	7271	коронавируса	коронавирус	EVT	EVT-Covid-19

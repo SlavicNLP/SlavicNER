@@ -1,0 +1,19 @@
+0	2	EU	EU	ORG	ORG-European-Union
+5	13	Británie	Británie	LOC	GPE-Great-Britain
+45	52	brexitu	brexit	EVT	EVT-Brexit
+116	123	Londýna	Londýn	LOC	GPE-London
+190	195	Focus	Focus	PRO	PRO-Focus-magazine
+216	229	Evropské unie	Evropská unie	ORG	ORG-European-Union
+232	246	Velké Británie	Velké Británie	LOC	GPE-Great-Britain
+381	383	EU	EU	ORG	ORG-European-Union
+386	394	Británii	Británie	LOC	GPE-Great-Britain
+398	405	brexitu	brexit	EVT	EVT-Brexit
+546	554	Británie	Británie	LOC	GPE-Great-Britain
+588	590	EU	EU	ORG	ORG-European-Union
+671	673	EU	EU	ORG	ORG-European-Union
+696	699	DPA	DPA	ORG	ORG-DPA
+795	802	Barnier	Barnier	PER	PER-Michel-Barnier
+899	905	Irskem	Irsko	LOC	GPE-Ireland
+917	932	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+954	961	Barnier	Barnier	PER	PER-Michel-Barnier
+1033	1048	Evropská komise	Evropská komise	ORG	ORG-European-Commission

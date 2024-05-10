@@ -1,0 +1,42 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+35	42	Esperja	Esper	PER	PER-Mark-Esper
+161	170	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+185	194	Bele hiše	Bela hiša	LOC	LOC-White-House
+207	212	Trump	Trump	PER	PER-Donald-Trump
+246	254	Esperjem	Esper	PER	PER-Mark-Esper
+257	267	Washington	Washington	LOC	GPE-WashingtonDC
+290	293	ZDA	ZDA	LOC	GPE-USA
+294	306	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+341	354	Marka Esperja	Mark Esper	PER	PER-Mark-Esper
+497	526	zveznega preiskovalnega urada	zvezni preiskovalni urad	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+527	546	Christopherja Wraya	Christopher Wray	PER	PER-Christopher-Wray
+563	588	obveščevalne agencije Cia	obveščevalna agencija Cia	ORG	ORG-CIA-Central-Intelligence-Agency
+589	600	Gino Haspel	Gina Haspel	PER	PER-Gina-Haspel
+622	627	Esper	Esper	PER	PER-Mark-Esper
+687	701	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+786	800	Georgea Floyda	George Floyd	PER	PER-George-Floyd
+828	840	Minneapolisu	Minneapolis	LOC	GPE-Minneapolis
+907	924	cerkvi Sv. Janeza	cerkev sv. Janeza	LOC	LOC-St.-John's-Episcopal-Church
+927	934	Biblijo	Biblija	PRO	PRO-The-Bible
+963	972	Bele hiše	Bela hiša	LOC	LOC-White-House
+1056	1077	Christopher C. Miller	Christopher C. Miller	PER	PER-Christopher-Miller
+1090	1093	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+1097	1113	Christopher Wray	Christopher Wray	PER	PER-Christopher-Wray
+1128	1133	Esper	Esper	PER	PER-Mark-Esper
+1273	1278	Trump	Trump	PER	PER-Donald-Trump
+1295	1303	Pentagon	Pentagon	ORG	ORG-The-Pentagon
+1388	1391	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+1398	1401	Cie	cia	ORG	ORG-CIA-Central-Intelligence-Agency
+1402	1406	Wray	Wray	PER	PER-Christopher-Wray
+1410	1419	Haspelova	Haspel	PER	PER-Gina-Haspel
+1485	1495	Trumpovemu	Trump	PER	PER-Donald-Trump
+1522	1533	Joeju Bidnu	Joe Biden	PER	PER-Joe-Biden
+1552	1560	Hunterju	Hunter	PER	PER-Hunter-Biden
+1588	1596	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1609	1613	Wray	Wray	PER	PER-Christopher-Wray
+1851	1859	Trumpovi	Trump	PER	PER-Donald-Trump
+1954	1963	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2053	2062	covida 19	covid 19	EVT	EVT-Covid-19
+2067	2076	Američane	Američani	PER	GPE-USA
+2163	2171	Pfizerja	Pfizer	ORG	ORG-Pfizer
+2184	2193	BioNTecha	BioNTech	ORG	ORG-BioNTech

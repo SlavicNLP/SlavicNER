@@ -1,0 +1,373 @@
+29	36	Байдена	Байден	PER	PER-Joe-Biden
+64	67	США	США	LOC	GPE-USA
+163	166	США	США	LOC	GPE-USA
+167	182	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+196	206	демократов	демократ	ORG	ORG-Democratic-Party-USA
+245	257	Американский	Американский	LOC	GPE-USA
+265	282	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+330	342	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+355	366	Джо Баденом	Джо Байден	PER	PER-Joe-Biden
+399	404	Сенат	Сенат	ORG	ORG-United-States-Senate
+407	442	Палата представителей Конгресса США	Палата представителей Конгресса США	ORG	ORG-House-of-Representatives(USA)
+494	503	демократа	демократ	ORG	ORG-Democratic-Party-USA
+504	519	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+553	565	Американский	Американский	LOC	GPE-USA
+573	590	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+638	650	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+663	674	Джо Баденом	Джо Байден	PER	PER-Joe-Biden
+727	744	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+792	804	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+817	828	Джо Баденом	Джо Байден	PER	PER-Joe-Biden
+861	873	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+936	947	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+977	989	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+1044	1054	демократов	демократ	ORG	ORG-Democratic-Party-USA
+1055	1066	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1119	1124	Сенат	Сенат	ORG	ORG-United-States-Senate
+1127	1162	Палата представителей Конгресса США	Палата представителей Конгресса США	ORG	ORG-House-of-Representatives(USA)
+1214	1223	демократа	демократ	ORG	ORG-Democratic-Party-USA
+1224	1239	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+1286	1299	американского	американский	LOC	GPE-USA
+1306	1314	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1315	1333	Брэд Рэффенспергер	Брэд Рэффенспергер	PER	PER-Brad-Raffensperger
+1413	1416	США	США	LOC	GPE-USA
+1440	1447	Аризона	Аризона	LOC	GPE-Arizona
+1502	1505	США	США	LOC	GPE-USA
+1540	1562	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+1563	1574	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1602	1605	США	США	LOC	GPE-USA
+1606	1619	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1668	1694	Демократической партии США	Демократическая партия США	ORG	ORG-Democratic-Party-USA
+1695	1710	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+1734	1744	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1787	1790	США	США	LOC	GPE-USA
+1793	1796	США	США	LOC	GPE-USA
+1877	1890	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1994	2019	"""Действие и солидарность"""	"""Действие и солидарность"""	ORG	ORG-Action-and-Solidarity-Party
+2020	2030	Майя Санду	Майя Санду	PER	PER-Maia-Sandu
+2142	2152	Висконсина	Висконсин	LOC	GPE-Wisconsin
+2242	2245	США	США	LOC	GPE-USA
+2246	2257	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2300	2315	Еdison research	Еdison research	ORG	ORG-Edison-research
+2317	2330	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+2355	2368	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2371	2379	демократ	демократ	ORG	ORG-Democratic-Party-USA
+2380	2390	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+2429	2452	Европейского парламента	Европейский парламент	ORG	ORG-European-Parliament
+2453	2466	Давид Сассоли	Давид Сассоли	PER	PER-David-Sassoli
+2498	2501	США	США	LOC	GPE-USA
+2502	2513	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+2529	2537	твиттере	Твиттер	PRO	PRO-Twitter
+2580	2586	России	Россия	LOC	GPE-Russia
+2587	2601	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+2622	2633	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+2685	2688	США	США	LOC	GPE-USA
+2710	2716	Кремля	Кремль	ORG	ORG-Kremlin
+2732	2738	России	Россия	LOC	GPE-Russia
+2739	2753	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+2805	2816	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2849	2852	США	США	LOC	GPE-USA
+2882	2905	украинского государства	Украинское государство	LOC	GPE-Ukraine
+2935	2946	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+2949	2955	Киевом	Киев	LOC	GPE-Kiev
+3000	3003	КНР	КНР	LOC	GPE-China
+3004	3015	Си Цзиньпин	Си Цзиньпин	PER	PER-Xi-Jinping
+3075	3078	США	США	LOC	GPE-USA
+3082	3104	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3105	3120	Джозефу Байдену	Джозеф Байден	PER	PER-Joe-Biden
+3141	3155	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+3166	3177	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3210	3213	США	США	LOC	GPE-USA
+3225	3227	РФ	РФ	LOC	GPE-Russia
+3236	3243	Байдену	Байден	PER	PER-Joe-Biden
+3272	3275	США	США	LOC	GPE-USA
+3304	3310	Турции	Турция	LOC	GPE-Turkey
+3311	3331	Реджеп Тайип Эрдоган	Реджеп Тайип Эрдоган	PER	PER-Recep-Tayyip-Erdoğan
+3366	3369	США	США	LOC	GPE-USA
+3370	3381	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3433	3443	Haber Turk	Haber Turk	PRO	PRO-A-Haber-TV
+3448	3453	Китай	Китай	LOC	GPE-China
+3487	3490	США	США	LOC	GPE-USA
+3494	3516	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3517	3528	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3601	3608	Косачев	Косачев	PER	PER-Konstantin-Kosachev
+3633	3640	Байдена	Байден	PER	PER-Joe-Biden
+3682	3693	американцев	американцы	PER	GPE-USA
+3694	3704	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3745	3748	США	США	LOC	GPE-USA
+3766	3777	Белого дома	Белый дом	ORG	ORG-The-White-House
+3806	3811	Трамп	Трамп	PER	PER-Donald-Trump
+3831	3838	Байдена	Байден	PER	PER-Joe-Biden
+3852	3855	США	США	LOC	GPE-USA
+3878	3881	США	США	LOC	GPE-USA
+3882	3895	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+3964	3986	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3987	3998	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+4010	4017	Аризона	Аризона	LOC	GPE-Arizona
+4035	4042	Байдена	Байден	PER	PER-Joe-Biden
+4059	4066	Аризона	Аризона	LOC	GPE-Arizona
+4115	4118	США	США	LOC	GPE-USA
+4132	4142	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4143	4154	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+4165	4173	Fox News	Fox News	PRO	PRO-Fox-News
+4176	4183	Аризоне	Аризона	LOC	GPE-Arizona
+4208	4215	Мичиган	Мичиган	LOC	GPE-Michigan
+4232	4239	Байдена	Байден	PER	PER-Joe-Biden
+4282	4289	Мичиган	Мичиган	LOC	GPE-Michigan
+4354	4366	американских	американский	LOC	GPE-USA
+4425	4428	США	США	LOC	GPE-USA
+4446	4453	Байдена	Байден	PER	PER-Joe-Biden
+4463	4476	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+4508	4511	США	США	LOC	GPE-USA
+4512	4527	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+4608	4614	Байден	Байден	PER	PER-Joe-Biden
+4685	4703	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+4707	4729	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+4730	4740	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4810	4819	Памфилова	Памфилова	PER	PER-Ella-Pamfilova
+4861	4875	Центризбиркома	Центризбирком	ORG	ORG-Central-Election-Commission-of-the-Russia
+4876	4890	Элла Памфилова	Элла Памфилова	PER	PER-Ella-Pamfilova
+4986	5004	Костромской област	Костромская область	LOC	GPE-Kostroma-oblast
+5011	5017	Трампа	Трамп	PER	PER-Donald-Trump
+5050	5063	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+5169	5176	Америки	Америка	LOC	GPE-USA
+5204	5217	Адольф Гитлер	Адольф Гитлер	PER	PER-Adolf-Hitler
+5246	5253	Намибии	Намибия	LOC	GPE-Namibia
+5254	5274	Адольф Гитлер Уунона	Адольф Гитлер Уунона	PER	PER-Adolf-Hitler-Uunona
+5311	5318	Намибии	Намибия	LOC	GPE-Namibia
+5377	5385	Германии	Германия	LOC	GPE-Germany
+5428	5435	Намибии	Намибия	LOC	GPE-Namibia
+5444	5457	Адольф Гитлер	Адольф Гитлер	PER	PER-Adolf-Hitler
+5503	5511	Германии	Германия	LOC	GPE-Germany
+5512	5527	Адольфа Гитлера	Адольф Гитлер	PER	PER-Adolf-Hitler
+5556	5563	Намибии	Намибиия	LOC	GPE-Namibia
+5622	5628	Трампа	Трамп	PER	PER-Donald-Trump
+5661	5674	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+5780	5787	Америке	Америка	LOC	GPE-USA
+5817	5825	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+5843	5850	Байдена	Байден	PER	PER-Joe-Biden
+5870	5878	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+5879	5897	Брэд Раффенспергер	Брэд Раффенспергер	PER	PER-Brad-Raffensperger
+5926	5939	американского	американский	LOC	GPE-USA
+5991	6000	Демократи	Демократическая партия	ORG	ORG-Democratic-Party-USA
+6005	6017	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+6036	6043	Байдена	Байден	PER	PER-Joe-Biden
+6044	6056	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+6075	6082	Байдена	Байден	PER	PER-Joe-Biden
+6122	6149	штурма Капитолийского холма	штурм Капитолийского холма	EVT	EVT-2021-storming-of -the-United-States-Capitol
+6221	6228	Байдена	Байден	PER	PER-Joe-Biden
+6231	6234	США	США	LOC	GPE-USA
+6344	6351	Америка	Америка	LOC	GPE-USA
+6383	6392	Цукерберг	Цукерберг	PER	PER-Mark-Zuckerberg
+6418	6425	Байдена	Байден	PER	PER-Joe-Biden
+6439	6446	Атланте	Атланта	LOC	GPE-Atlanta
+6447	6456	Цукерберг	Цукерберг	PER	PER-Mark-Zuckerberg
+6542	6549	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+6582	6590	Мичигане	Мичиган	LOC	GPE-Michigan
+6608	6615	Байдена	Байден	PER	PER-Joe-Biden
+6632	6639	Мичиган	Мичиган	LOC	GPE-Michigan
+6668	6671	США	США	LOC	GPE-USA
+6675	6697	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+6725	6734	Висконсин	Висконсин	LOC	GPE-Wisconsin
+6753	6760	Байдена	Байден	PER	PER-Joe-Biden
+6766	6775	Висконсин	Висконсин	LOC	GPE-Wisconsin
+6818	6825	Байдена	Байден	PER	PER-Joe-Biden
+6852	6858	Трампа	Трамп-	PER	PER-Donald-Trump
+6942	6949	Байдена	Байден	PER	PER-Joe-Biden
+7086	7096	демократов	демократ	ORG	ORG-Democratic-Party-USA
+7153	7160	Байдена	Байден	PER	PER-Joe-Biden
+7211	7222	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+7245	7248	США	США	LOC	GPE-USA
+7321	7328	Аризоны	Аризона	LOC	GPE-Arizona
+7346	7353	Байдена	Байден	PER	PER-Joe-Biden
+7367	7374	Аризона	Аризона	LOC	GPE-Arizona
+7439	7461	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+7462	7473	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+7508	7516	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+7545	7552	Байдена	Байден	PER	PER-Joe-Biden
+7558	7566	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+7612	7615	США	США	LOC	GPE-USA
+7646	7656	демократов	демократы	ORG	ORG-Democratic-Party-USA
+7657	7668	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+7707	7710	CNN	CNN	PRO	PRO-CNN
+7731	7738	Байдена	Байден	PER	PER-Joe-Biden
+7747	7755	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+7778	7781	США	США	LOC	GPE-USA
+7785	7795	демократов	демократы	ORG	ORG-Democratic-Party-USA
+7796	7806	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+7825	7833	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+7848	7851	CNN	CNN	PRO	PRO-CNN
+7914	7923	Миннесота	Миннесота	LOC	GPE-Minnesota
+7940	7947	Байдена	Байден	PER	PER-Joe-Biden
+7948	7960	Американский	Американский	LOC	GPE-USA
+7966	7975	Миннесота	Миннесота	LOC	GPE-Minnesota
+8036	8046	демократов	демократы	ORG	ORG-Democratic-Party-USA
+8047	8058	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+8069	8085	Associated Press	Associated Press	PRO	PRO-The-Associated-Press
+8090	8100	Калифорния	Калифорния	LOC	GPE-California
+8129	8136	Байдена	Байден	PER	PER-Joe-Biden
+8150	8160	Калифорния	Калифорния	LOC	GPE-California
+8264	8267	США	США	LOC	GPE-USA
+8291	8299	Fox News	Fox News	PRO	PRO-Fox-News
+8318	8325	Байдена	Байден	PER	PER-Joe-Biden
+8328	8338	Висконсине	Висконсин	LOC	GPE-Wisconsin
+8349	8357	Fox News	Fox News	PRO	PRO-Fox-News
+8412	8434	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+8435	8446	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+8477	8486	Висконсин	Висконсин	LOC	GPE-Wisconsin
+8492	8500	Горбачёв	Горбачёв	PER	PER-Mikhail-Gorbachev
+8525	8532	Байдена	Байден	PER	PER-Joe-Biden
+8556	8560	СССР	СССР	LOC	GPE-USSR
+8561	8576	Михаил Горбачёв	Михаил Горбачёв	PER	PER-Mikhail-Gorbachev
+8602	8615	«РИА Новости»	«РИА Новости»	PRO	PRO-RIA-Novosti
+8688	8699	американцев	американцы	PER	GPE-USA
+8716	8723	Байдена	Байден	PER	PER-Joe-Biden
+8736	8747	американцев	американцы	PER	GPE-USA
+8804	8807	США	США	LOC	GPE-USA
+8816	8829	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+8877	8884	Мичиган	Мичиган	LOC	GPE-Michigan
+8912	8919	Байдена	Байден	PER	PER-Joe-Biden
+8943	8950	Мичиган	Мичиган	LOC	GPE-Michigan
+8997	9000	США	США	LOC	GPE-USA
+9031	9041	демократов	демократы	ORG	ORG-Democratic-Party-USA
+9042	9053	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+9064	9069	Reute	Reuters	PRO	ORG-Reuters
+9076	9085	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+9107	9114	Байдена	Байден	PER	PER-Joe-Biden
+9117	9123	Харрис	Харрис	PER	PER-Kamala-Harris
+9136	9167	Парижское соглашение по климату	Парижское соглашение по климату	PRO	PRO-Paris-Agreement
+9188	9225	Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+9234	9244	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+9280	9290	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+9317	9324	Байдена	Байден	PER	PER-Joe-Biden
+9335	9361	Соединенных штатов Америки	Соединенные штаты Америки	LOC	GPE-USA
+9388	9399	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+9472	9484	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+9502	9509	Байдена	Байден	PER	PER-Joe-Biden
+9521	9533	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+9534	9542	Том Вулф	Том Вулф	PER	PER-Tom-Wolf
+9555	9562	Twitter	Twitter	PRO	PRO-Twitter
+9595	9617	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+9618	9633	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+9649	9659	Пенсильван	Пенсильвания	LOC	GPE-Pennsylvania
+9670	9681	американцев	американцы	PER	GPE-USA
+9701	9708	Байдена	Байден	PER	PER-Joe-Biden
+9715	9726	американцев	американцы	PER	GPE-USA
+9745	9756	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+9790	9805	Вашингтон-сквер	Вашингтон-сквер	LOC	GPE-Washington-Square-Park
+9808	9817	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+9872	9878	Трампа	Трамп	PER	PER-Donald-Trump
+9894	9901	Байдена	Байден	PER	PER-Joe-Biden
+9924	9927	США	США	LOC	GPE-USA
+9931	9953	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+9954	9964	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+10041	10051	Дональда Т	Дональд Трамп	PER	PER-Donald-Trump
+10097	10104	Байдена	Байден	PER	PER-Joe-Biden
+10146	10152	Европе	Европа	LOC	LOC-Europe
+10220	10230	демократов	демократы	ORG	ORG-Democratic-Party-USA
+10231	10242	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+10259	10264	Трамп	Трамп	PER	PER-Donald-Trump
+10279	10286	Байдена	Байден	PER	PER-Joe-Biden
+10319	10322	США	США	LOC	GPE-USA
+10323	10336	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+10373	10386	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+10463	10468	Трамп	Трамп	PER	PER-Donald-Trump
+10485	10492	Байдена	Байден	PER	PER-Joe-Biden
+10520	10523	США	США	LOC	GPE-USA
+10524	10537	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+10566	10577	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+10707	10714	Байдена	Байден	PER	PER-Joe-Biden
+10774	10781	Betfair	Betfair	ORG	ORG-Betfair
+10796	10799	CNN	CNN	PRO	PRO-CNN
+10876	10883	Аризоны	Аризона	LOC	GPE-Arizona
+10901	10908	Байдена	Байден	PER	PER-Joe-Biden
+10995	11002	Аризоны	Аризона	LOC	GPE-Arizona
+11095	11101	Трампа	Трамп	PER	PER-Donald-Trump
+11104	11111	Байдена	Байден	PER	PER-Joe-Biden
+11144	11147	США	США	LOC	GPE-USA
+11151	11161	демократов	демократы	ORG	ORG-Democratic-Party-USA
+11162	11175	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+11199	11212	американского	американский	LOC	GPE-USA
+11220	11235	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+11276	11279	Бут	Бут	PER	PER-Viktor-Bout
+11293	11299	Трампа	Трамп	PER	PER-Donald-Trump
+11302	11309	Байдена	Байден	PER	PER-Joe-Biden
+11342	11352	Виктор Бут	Виктор Бут	PER	PER-Viktor-Bout
+11475	11486	Си Цзиньпин	Си Цзиньпин	PER	PER-Xi-Jinping
+11497	11504	Байдена	Байден	PER	PER-Joe-Biden
+11539	11542	КНР	КНР	LOC	GPE-China
+11543	11554	Си Цзиньпин	Си Цзиньпин	PER	PER-Xi-Jinping
+11564	11575	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+11626	11629	США	США	LOC	GPE-USA
+11637	11648	"""Интерфакс"""	"""Интерфакс"""	PRO	PRO-Interfax
+11679	11684	Вучич	Вучич	PER	PER-Aleksandar-Vučić
+11695	11702	Байдена	Байден	PER	PER-Joe-Biden
+11734	11740	Сербии	Сербия	LOC	GPE-Serbia
+11741	11756	Александр Вучич	Александр Вучич	PER	PER-Aleksandar-Vučić
+11795	11798	США	США	LOC	GPE-USA
+11799	11810	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+11855	11868	американского	американский	LOC	GPE-USA
+11878	11883	Путин	Путин	PER	PER-Vladimir-Putin
+11894	11901	Байдена	Байден	PER	PER-Joe-Biden
+11933	11939	России	Россия	LOC	GPE-Russia
+11940	11954	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+11965	11976	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+12009	12012	США	США	LOC	GPE-USA
+12022	12026	ТАСС	ТАСС	PRO	ORG-Russian's leading news company
+12028	12038	Российский	Российский	LOC	GPE-Russia
+12077	12084	Эстония	Эстония	LOC	GPE-Estonia
+12103	12110	Байдена	Байден	PER	PER-Joe-Biden
+12124	12127	США	США	LOC	GPE-USA
+12144	12151	Эстонии	Эстония	LOC	GPE-Estonia
+12152	12161	Юри Ратас	Юри Ратас	PER	PER-Jüri-Ratas
+12163	12182	Центристская партия	Центристская партия	ORG	ORG-Estonian-Centre-Party
+12205	12216	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+12254	12257	США	США	LOC	GPE-USA
+12288	12291	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+12302	12309	Байдена	Байден	PER	PER-Joe-Biden
+12352	12389	Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+12391	12394	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+12396	12420	Тедрос Аданом Гебрейесус	Тедрос Аданом Гебрейесус	PER	PER-Tedros-Adhanom-Ghebreyesus
+12431	12442	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+12475	12478	США	США	LOC	GPE-USA
+12484	12489	Китай	Китай	LOC	GPE-China
+12500	12507	Байдена	Байден	PER	PER-Joe-Biden
+12538	12543	Китая	Китай	LOC	GPE-China
+12638	12651	американского	американский	LOC	GPE-USA
+12674	12683	Нетаньяху	Нетаньяху	PER	PER-Benjamin-Netanyahu
+12694	12701	Байдена	Байден	PER	PER-Joe-Biden
+12731	12738	Израиля	Израиль	LOC	GPE-Israel
+12739	12757	Биньямин Нетаньяху	Биньямин Нетаньяху	PER	PER-Benjamin-Netanyahu
+12768	12779	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+12812	12815	США	США	LOC	GPE-USA
+12837	12844	Байдена	Байден	PER	PER-Joe-Biden
+12860	12867	Израиля	Израиль	LOC	GPE-Israel
+12877	12884	Эрдоган	Эрдоган	PER	PER-Recep-Tayyip-Erdoğan
+12895	12902	Байдена	Байден	PER	PER-Joe-Biden
+12934	12940	Турции	Турция	LOC	GPE-Turkey
+12941	12961	Реджеп Тайип Эрдоган	Реджеп Тайип Эрдоган	PER	PER-Recep-Tayyip-Erdoğan
+13001	13004	США	США	LOC	GPE-USA
+13008	13018	демократов	демократы	ORG	ORG-Democratic-Party-USA
+13019	13030	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+13078	13087	Зеленский	Зеленский	PER	PER-Volodymyr-Zelensky
+13098	13105	Байдена	Байден	PER	PER-Joe-Biden
+13144	13162	Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+13186	13208	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+13228	13231	США	США	LOC	GPE-USA
+13232	13247	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+13261	13270	Джо Байде	Джо Байден	PER	PER-Joe-Biden
+13275	13284	Нетаньяху	Нетаньяху	PER	PER-Benjamin-Netanyahu
+13295	13302	Байдена	Байден	PER	PER-Joe-Biden
+13342	13349	Израиля	Израиль	LOC	GPE-Israel
+13350	13368	Биньямин Нетаньяху	Биньямин Нетаньяху	PER	PER-Benjamin-Netanyahu
+13442	13445	США	США	LOC	GPE-USA
+13449	13471	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+13472	13475	Джо	Джо	PER	PER-Joe-Biden
+13480	13485	Трамп	Трамп	PER	PER-Donald-Trump
+13495	13502	Байдена	Байден	PER	PER-Joe-Biden
+13522	13527	Огайо	Огайо	LOC	GPE-Ohio
+13540	13562	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+13563	13576	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+13599	13621	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+13622	13633	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+13667	13672	Огайо	Огайо	LOC	GPE-Ohio

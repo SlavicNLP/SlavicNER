@@ -1,0 +1,37 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+8	15	Bidenie	Biden	PER	PER-Joe-Biden
+49	53	Chin	Chiny	LOC	GPE-China
+55	60	Trump	Trump	PER	PER-Donald-Trump
+86	92	Bidena	Biden	PER	PER-Joe-Biden
+191	194	USA	USA	LOC	GPE-USA
+198	202	Chin	Chiny	LOC	GPE-China
+204	209	Chiny	Chiny	LOC	GPE-China
+341	344	USA	USA	LOC	GPE-USA
+348	353	Biden	Biden	PER	PER-Joe-Biden
+463	468	Trump	Trump	PER	PER-Donald-Trump
+520	526	Trumpa	Trump	PER	PER-Donald-Trump
+537	544	Chinami	Chiny	LOC	GPE-China
+618	623	Trump	Trump	PER	PER-Donald-Trump
+657	674	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+777	784	Trumpem	Trump	PER	PER-Donald-Trump
+787	794	Bidenem	Biden	PER	PER-Joe-Biden
+890	897	Reuters	Reuters	ORG	ORG-Reuters
+923	940	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+993	997	Chin	Chiny	LOC	GPE-China
+1014	1018	Azji	Azja	LOC	LOC-Asia
+1042	1047	Trump	Trump	PER	PER-Donald-Trump
+1076	1082	Bidena	Biden	PER	PER-Joe-Biden
+1157	1170	Kamalę Harris	Kamala Harris	PER	PER-Kamala-Harris
+1257	1265	COVID-19	COVID-19	EVT	EVT-Covid-19
+1278	1281	USA	USA	LOC	GPE-USA
+1295	1301	Trumpa	Trump	PER	PER-Donald-Trump
+1380	1385	Trump	Trump	PER	PER-Donald-Trump
+1387	1392	Biden	Biden	PER	PER-Joe-Biden
+1476	1482	Trumpa	Trump	PER	PER-Donald-Trump
+1510	1513	USA	USA	LOC	GPE-USA
+1550	1560	Amerykanów	Amerykanie	PER	GPE-USA
+1620	1626	Trumpa	Trump	PER	PER-Donald-Trump
+1669	1672	USA	USA	LOC	GPE-USA
+1704	1709	Trump	Trump	PER	PER-Donald-Trump
+1722	1728	Harris	Harris	PER	PER-Kamala-Harris
+1759	1780	Partii Demokratycznej	Partia Demokratyczna	ORG	ORG-Democratic-Party-USA

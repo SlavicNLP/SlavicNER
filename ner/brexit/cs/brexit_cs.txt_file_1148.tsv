@@ -1,0 +1,15 @@
+0	6	Airbus	Airbus	ORG	ORG-Airbus-SE
+24	32	Británie	Británie	LOC	GPE-Great-Britain
+60	62	EU	EU	ORG	ORG-European-Union
+89	96	Airbusu	Airbus	ORG	ORG-Airbus-SE
+125	133	Británii	Británie	LOC	GPE-Great-Britain
+193	196	BBC	BBC	PRO	PRO-BBC
+259	262	BBC	BBC	PRO	PRO-BBC
+426	440	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+490	492	EU	EU	ORG	ORG-European-Union
+527	539	Tom Williams	Tom Williams	PER	PER-Tom-Williams
+567	574	brexitu	brexit	EVT	EVT-Brexit
+849	857	Williams	Williams	PER	PER-Tom-Williams
+1085	1087	EU	EU	ORG	ORG-European-Union
+1092	1098	brexit	brexit	EVT	EVT-Brexit
+1099	1113	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier

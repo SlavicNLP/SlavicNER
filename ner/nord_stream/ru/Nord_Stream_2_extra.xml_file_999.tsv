@@ -1,0 +1,17 @@
+0	5	Париж	Париж	LOC	GPE-Paris
+38	40	ЕС	ЕС	ORG	ORG-European-Union
+53	73	«Северного потока-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
+75	87	Еврокомиссия	Еврокомиссия	ORG	ORG-European-Commission
+149	155	Москва	Москва	LOC	GPE-Moscow
+169	179	АиФ-Москва	АиФ-Москва	PRO	PRO-Agrymenty-i-Facty-(Newspaper)
+181	188	Франция	Франция	LOC	GPE-France
+230	239	Евросоюза	Евросоюз	ORG	ORG-European-Union
+266	282	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+410	419	Германией	Германия	LOC	GPE-Germany
+570	586	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+602	614	Еврокомиссия	Еврокомиссия	ORG	ORG-European-Commission
+770	772	ЕС	ЕС	ORG	ORG-European-Union
+1183	1201	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1233	1235	РФ	РФ	LOC	GPE-Russia
+1239	1247	Германии	Германия	LOC	GPE-Germany
+1254	1269	Балтийское море	Балтийское море	LOC	LOC-Baltic-Sea

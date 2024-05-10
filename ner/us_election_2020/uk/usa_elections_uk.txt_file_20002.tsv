@@ -1,0 +1,30 @@
+6	13	України	Україна	LOC	GPE-Ukraine
+16	19	США	США	LOC	GPE-USA
+35	46	інавгурацію	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+47	54	Байдена	Байден	PER	PER-Joe-Biden
+91	108	Сполучених Штатах	Сполучених Штатах	LOC	GPE-USA
+111	121	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+180	187	України	Україна	LOC	GPE-Ukraine
+204	215	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+216	223	Байдена	Байден	PER	PER-Joe-Biden
+263	270	України	Україна	LOC	GPE-Ukraine
+273	290	Сполучених Штатах	Сполучених Штатах	LOC	GPE-USA
+291	298	Америки	Америка	LOC	GPE-USA
+299	317	Володимир Єльченко	Володимир Єльченко	PER	PER-Volodymyr-Yelchenko
+344	355	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+373	376	США	США	LOC	GPE-USA
+377	388	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+408	421	Камали Гарріс	Камала Гарріс	PER	PER-Kamala-Harris
+439	455	Держдепартаменту	Держдепартамент	ORG	ORG-United-States-Department-of-State
+488	499	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+511	518	Байдена	Байден	PER	PER-Joe-Biden
+596	604	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+681	692	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+812	823	Інавгурація	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+824	831	Байдена	Байден	PER	PER-Joe-Biden
+856	868	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+898	916	колегії виборників	колегія виборників	ORG	ORG-United-States-Electoral-College
+939	946	Байдена	Байден	PER	PER-Joe-Biden
+950	957	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+985	990	Трамп	Трамп	PER	PER-Donald-Trump
+1028	1035	Байдену	Байден	PER	PER-Joe-Biden

@@ -1,0 +1,53 @@
+0	9	Porošenko	Porošenko	PER	PER-Petro-Poroshenko
+17	21	Nato	Nato	ORG	ORG-NATO
+42	55	Azovsko morje	Azovsko morje	LOC	LOC-The-Sea-of-Azov
+58	63	Putin	Putin	PER	PER-Vladimir-Putin
+119	134	Petro Porošenko	Petro Porošenko	PER	PER-Petro-Poroshenko
+144	148	Nato	Nato	ORG	ORG-NATO
+163	176	Azovsko morje	Azovsko morje	LOC	LOC-The-Sea-of-Azov
+214	222	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+296	313	Vladimirja Putina	Vladimir Putin	PER	PER-Vladimir-Putin
+356	364	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+367	376	Porošenko	Porošenko	PER	PER-Petro-Poroshenko
+400	417	Vladimirja Putina	Vladimir Putin	PER	PER-Vladimir-Putin
+454	462	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+465	480	Petro Porošenko	Petro Porošenko	PER	PER-Petro-Poroshenko
+513	517	Bild	Bild	ORG	ORG-Bild
+527	534	Nemčija	Nemčija	LOC	GPE-Germany
+589	593	Nata	Nato	ORG	ORG-NATO
+629	642	Azovsko morje	Azovsko morje	LOC	LOC-The-Sea-of-Azov
+653	661	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+692	697	Putin	Putin	PER	PER-Vladimir-Putin
+726	735	Porošenko	Porošenko	PER	PER-Petro-Poroshenko
+759	776	Vladimirja Putina	Vladimir Putin	PER	PER-Vladimir-Putin
+813	821	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+842	848	Rusije	Rusija	LOC	GPE-Russia
+898	910	Kerško ožino	Kerška ožina	LOC	LOC-Kerch-Strait
+999	1007	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1026	1033	Nemčija	Nemčija	LOC	GPE-Germany
+1088	1092	Nata	Nato	ORG	ORG-NATO
+1128	1141	Azovsko morje	Azovsko morje	LOC	LOC-The-Sea-of-Azov
+1152	1160	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1204	1213	Putinovim	Putin	PER	PER-Vladimir-Putin
+1237	1241	Bild	Bild	ORG	ORG-Bild
+1246	1251	Putin	Putin	PER	PER-Vladimir-Putin
+1359	1367	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1403	1412	Porošenko	Porošenko	PER	PER-Petro-Poroshenko
+1440	1447	Nemčijo	Nemčija	LOC	GPE-Germany
+1478	1484	Moskvi	Moskva	LOC	GPE-Moscow
+1545	1551	Rusiji	Rusija	LOC	GPE-Russia
+1587	1595	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1667	1673	Rusije	Rusija	LOC	GPE-Russia
+1686	1695	Porošenko	Porošenko	PER	PER-Petro-Poroshenko
+1762	1775	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1803	1810	Nemčijo	Nemčija	LOC	GPE-Germany
+1841	1847	Moskvi	Moskva	LOC	GPE-Moscow
+1908	1914	Rusiji	Rusija	LOC	GPE-Russia
+1950	1958	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1963	1971	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+2039	2048	Porošenko	Porošenko	PER	PER-Petro-Poroshenko
+2134	2146	Kerški ožini	Kerška ožina	LOC	LOC-Kerch-Strait
+2184	2188	Krim	Krim	LOC	GPE-Crimea
+2238	2250	Črnega morja	Črno morje	LOC	LOC-Black-Sea
+2282	2290	Mariupol	Mariupol	LOC	GPE-Mariupol
+2293	2307	Azovskem morju	Azovsko morje	LOC	LOC-The-Sea-of-Azov

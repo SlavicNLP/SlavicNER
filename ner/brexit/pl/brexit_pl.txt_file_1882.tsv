@@ -1,0 +1,39 @@
+32	40	Londynie	Londyn	LOC	GPE-London
+72	79	Brexitu	Brexit	EVT	EVT-Brexit
+93	101	Londynie	Londyn	LOC	GPE-London
+173	190	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+193	210	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+388	397	Zielonych	Zieloni	ORG	ORG-Green-Party-UK
+400	422	Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+486	498	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+647	653	Brexit	Brexit	EVT	EVT-Brexit
+674	681	Analizy	Analizy	PRO	PRO-Analizy
+682	700	Jarosław Błaszczak	Jarosław Błaszczak	PER	PER-Jarosław-Błaszczak
+704	743	Instytutu Stosunków Międzynarodowych UW	Instytut Stosunków Międzynarodowych UW	ORG	ORG-Institute-of-International-Relations-of-the-University-of-Warsaw
+832	849	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+852	854	UE	UE	ORG	ORG-European-Union
+964	971	Brexitu	Brexit	EVT	EVT-Brexit
+1042	1057	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1078	1082	Unii	Unia	ORG	ORG-European-Union
+1194	1210	Agaty Kowalskiej	Agata Kowalska	PER	PER-Agata-Kowalska
+1235	1237	UE	UE	ORG	ORG-European-Union
+1247	1264	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1267	1269	UE	UE	ORG	ORG-European-Union
+1400	1411	Theresy May	Theresa May	PER	PER-Theresa-May
+1676	1687	Theresa May	Theresa May	PER	PER-Theresa-May
+1801	1818	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1861	1863	UE	UE	ORG	ORG-European-Union
+1873	1894	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1927	1935	Brukseli	Bruksela	LOC	GPE-Brussles
+1961	1965	Unii	Unia	ORG	ORG-European-Union
+1995	2012	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2087	2089	UE	UE	ORG	ORG-European-Union
+2165	2177	Theresie May	Theresa May	PER	PER-Theresa-May
+2210	2221	brexitowców	brexitowcy	PER	EVT-Brexit
+2235	2241	Brexit	Brexit	EVT	EVT-Brexit
+2376	2387	Theresy May	Theresa May	PER	PER-Theresa-May
+2488	2503	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2514	2531	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2776	2794	Jarosław Błaszczak	Jarosław Błaszczak	PER	PER-Jarosław-Błaszczak
+2903	2914	Theresa May	Theresa May	PER	PER-Theresa-May
+2972	3035	Instytutu Stosunków Międzynarodowych Uniwersytetu Warszawskiego	Instytut Stosunków Międzynarodowych Uniwersytetu Warszawskiego	ORG	ORG-Institute-of-International-Relations-of-the-University-of-Warsaw

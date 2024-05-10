@@ -1,0 +1,56 @@
+0	8	Merklova	Merkel	PER	PER-Angela-Merkel
+12	17	Putin	Putin	PER	PER-Vladimir-Putin
+43	49	Siriji	Sirija	LOC	GPE-Syria
+53	61	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+80	93	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+114	128	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+190	196	Siriji	Sirija	LOC	GPE-Syria
+200	208	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+305	319	gradu Meseberg	grad Meseberg	LOC	GPE-Schloss-Meseberg
+324	331	Berlinu	Berlin	LOC	GPE-Berlin
+335	340	Putin	Putin	PER	PER-Vladimir-Putin
+369	375	Rusijo	Rusija	LOC	GPE-Russia
+409	412	dpa	dpa	ORG	ORG-DPA
+441	449	Merklova	Merkel	PER	PER-Angela-Merkel
+474	481	Nemčije	Nemčija	LOC	GPE-Germany
+485	491	Rusije	Rusija	LOC	GPE-Russia
+510	518	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+522	528	Siriji	Sirija	LOC	GPE-Syria
+567	574	Putinom	Putin	PER	PER-Vladimir-Putin
+661	667	Siriji	Sirija	LOC	GPE-Syria
+733	738	Putin	Putin	PER	PER-Vladimir-Putin
+745	751	Evropo	Evropa	LOC	LOC-Europe
+779	785	Sirije	Sirija	LOC	GPE-Syria
+945	951	Evropo	Evropa	LOC	LOC-Europe
+998	1007	Jordaniji	Jordanija	LOC	GPE-Jordan
+1009	1017	Libanonu	Libanon	LOC	GPE-Lebanon
+1021	1028	Turčiji	Turčija	LOC	GPE-Turkey
+1070	1076	Evrope	Evropa	LOC	LOC-Europe
+1163	1169	Rusije	Rusija	LOC	GPE-Russia
+1193	1206	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1243	1248	Putin	Putin	PER	PER-Vladimir-Putin
+1302	1310	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1404	1412	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1470	1478	Merklova	Merkel	PER	PER-Angela-Merkel
+1536	1543	Gruzijo	Gruzija	LOC	GPE-Georgia
+1545	1553	Armenijo	Armenija	LOC	GPE-Armenia
+1557	1568	Azerbajdžan	Azerbajdžan	LOC	GPE-Azerbaijan
+1583	1595	Azerbajdžanu	Azerbajdžan	LOC	GPE-Azerbaijan
+1652	1658	Evrope	Evropa	LOC	LOC-Europe
+1737	1743	Rusiji	Rusija	LOC	GPE-Russia
+1755	1769	Evropska unija	Evropska unija	ORG	ORG-European-Union
+1802	1806	Krim	Krim	LOC	GPE-Crimea
+1807	1813	Rusiji	Rusija	LOC	GPE-Russia
+1818	1823	Putin	Putin	PER	PER-Vladimir-Putin
+1838	1845	Nemčija	Nemčija	LOC	GPE-Germany
+1888	1894	Rusije	Rusija	LOC	GPE-Russia
+2018	2032	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2075	2081	Rusiji	Rusija	LOC	GPE-Russia
+2148	2153	Trump	Trump	PER	PER-Donald-Trump
+2172	2179	Nemčiji	Nemčija	LOC	GPE-Germany
+2194	2200	Rusija	Rusija	LOC	GPE-Russia
+2267	2272	Putin	Putin	PER	PER-Vladimir-Putin
+2290	2298	Merklovi	Merkel	PER	PER-Angela-Merkel
+2310	2318	Avstrije	Avstrija	LOC	GPE-Austria
+2331	2353	avstrijskem Štajerskem	avstrijska Štajerska	LOC	GPE-Austrian-Styria
+2400	2413	Karin Kneissl	Karin Kneissl	PER	PER-Karin-Kneissl

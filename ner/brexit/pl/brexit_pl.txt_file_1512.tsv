@@ -1,0 +1,18 @@
+2	9	Europie	Europa	LOC	LOC-Europe
+153	160	easyJet	easyJet	ORG	ORG-EasyJet
+162	176	Johan Lundgren	Johan Lundgren	PER	PER-Johan-Lundgren
+209	224	Sonntagszeitung	Sonntagszeitung	PRO	PRO-Sonntagszeitung
+370	380	Air Berlin	Air Berlin	ORG	ORG-Air-Berlin
+382	390	Alitalia	Alitalia	ORG	ORG-Alitalia
+393	400	Monarch	Monarch	ORG	ORG-Monarch-Airlines
+675	683	easyJeta	easyJet	ORG	ORG-EasyJet
+684	692	Alitalią	Alitalia	ORG	ORG-Alitalia
+859	870	J. Lundgren	J. Lundgren	PER	PER-Johan-Lundgren
+925	929	Unii	Unia	ORG	ORG-European-Union
+936	947	W. Brytanię	W. Brytania	LOC	GPE-Great-Britain
+965	973	Brukseli	Bruksela	LOC	GPE-Brussles
+978	989	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1049	1056	brexitu	Brexit	EVT	EVT-Brexit
+1102	1106	Unię	Unia	ORG	ORG-European-Union
+1109	1120	W. Brytanię	W. Brytania	LOC	GPE-Great-Britain
+1269	1276	Austrii	Austria	LOC	GPE-Austria

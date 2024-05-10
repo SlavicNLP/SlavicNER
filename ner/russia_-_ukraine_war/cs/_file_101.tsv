@@ -1,0 +1,19 @@
+0	5	Rusko	Rusko	LOC	GPE-Russia
+71	77	Evropě	Evropa	LOC	LOC-Europe
+121	127	Moskva	Moskva	LOC	GPE-Moscow
+217	224	Gazprom	Gazprom	ORG	ORG-Gazprom
+227	240	Evropské unii	Evropská unie	ORG	ORG-European-Union
+343	349	Evropy	Evropa	LOC	LOC-Europe
+388	396	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+517	533	Gazprom Germania	Gazprom Germania	ORG	ORG-Gazprom-Germania
+551	559	Gazpromu	Gazprom	ORG	ORG-Gazprom
+603	616	německá vláda	německá vláda	ORG	ORG-German-Government
+647	660	Robert Habeck	Robert Habeck	PER	PER-Robert-Habeck
+710	726	Gazprom Germania	Gazprom Germania	ORG	ORG-Gazprom-Germania
+895	901	Habeck	Habeck	PER	PER-Robert-Habeck
+948	955	Německa	Německo	LOC	GPE-Germany
+1155	1161	Habeck	Habeck	PER	PER-Robert-Habeck
+1242	1247	Rusko	Rusko	LOC	GPE-Russia
+1407	1427	severozápadní Evropě	severozápadní Evropa	LOC	LOC-Northen-Western-Europe
+1480	1494	Velké Británii	Velká Británie	LOC	GPE-Great-Britain
+1530	1537	Německu	Německo	LOC	GPE-Germany

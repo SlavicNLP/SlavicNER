@@ -1,0 +1,12 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+15	29	Великобритания	Великобритания	LOC	GPE-Great-Britain
+120	136	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+166	173	Брекзит	Брекзит	EVT	EVT-Brexit
+174	186	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+202	216	Великобритания	Великобритания	LOC	GPE-Great-Britain
+323	343	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+437	456	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+575	595	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+716	736	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+998	1017	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+1056	1082	Съвета на Европейския съюз	Съвет на Европейския съюз	ORG	ORG-Council-of-the-European-Union

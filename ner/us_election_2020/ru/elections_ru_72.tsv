@@ -1,0 +1,30 @@
+9	12	США	США	LOC	GPE-USA
+16	26	Белом доме	Белый дом	ORG	ORG-The-White-House
+55	60	Трамп	Трамп	PER	PER-Donald-Trump
+127	130	США	США	LOC	GPE-USA
+131	144	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+227	240	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+298	301	США	США	LOC	GPE-USA
+302	315	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+483	491	Fox News	Fox News	PRO	PRO-Fox-News
+509	520	Белого дома	Белый дом	ORG	ORG-The-White-House
+553	565	Алисса Фарах	Алисса Фарах	PER	PER-Alyssa-Farah
+583	588	Трамп	Трамп	PER	PER-Donald-Trump
+700	715	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+948	954	Трампа	Трамп	PER	PER-Donald-Trump
+968	973	Фарах	Фарах	PER	PER-Alyssa-Farah
+1060	1063	США	США	LOC	GPE-USA
+1087	1093	Трампу	Трамп	PER	PER-Donald-Trump
+1141	1144	США	США	LOC	GPE-USA
+1174	1184	американцы	американцы	PER	GPE-USA
+1260	1281	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+1425	1428	США	США	LOC	GPE-USA
+1432	1454	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+1455	1468	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+1529	1536	Reuters	Reuters	ORG	ORG-Reuters
+1537	1542	Ipsos	Ipsos	ORG	ORG-Ipsos-Group-S.A.
+1596	1601	Трамп	Трамп	PER	PER-Donald-Trump
+1808	1825	Корреспондент.net	Корреспондент.net	ORG	ORG-Korrespondent-Net
+2438	2455	Интерфакс-Украина	Интерфакс-Украина	PRO	"PRO-""Интерфакс-Украина"""
+2458	2461	EPA	EPA	PRO	PRO-EPA
+2464	2467	UPG	UPG	PRO	PRO-UPG

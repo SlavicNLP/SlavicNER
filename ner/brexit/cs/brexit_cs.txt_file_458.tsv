@@ -1,0 +1,14 @@
+0	6	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+29	31	EU	EU	ORG	ORG-European-Union
+33	39	Mayová	Mayová	PER	PER-Theresa-May
+83	90	brexitu	brexit	EVT	EVT-Brexit
+124	134	labouristů	labouristé	PER	ORG-Labour-Party-UK
+135	148	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+186	199	Evropské unie	Evropská unie	ORG	ORG-European-Union
+252	262	Labouristé	Labouristé	PER	ORG-Labour-Party-UK
+321	329	Británií	Británie	LOC	GPE-Great-Britain
+332	334	EU	EU	ORG	ORG-European-Union
+347	353	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+375	383	Coventry	Coventry	LOC	GPE-Coventry
+386	389	BBC	BBC	PRO	PRO-BBC
+391	394	ČTK	ČTK	ORG	ORG-CTK

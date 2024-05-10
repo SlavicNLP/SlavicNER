@@ -1,0 +1,48 @@
+0	2	UE	UE	ORG	ORG-European-Union
+26	43	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+92	109	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+138	155	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+241	249	Brukseli	Bruksela	LOC	GPE-Brussles
+296	306	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+384	400	Michela Barniera	Michel Barnier	PER	PER-Michel-Barnier
+601	624	Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+717	719	UE	UE	ORG	ORG-European-Union
+739	741	27	27	ORG	ORG-European-Union
+780	782	UE	UE	ORG	ORG-European-Union
+833	850	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1029	1072	Trybunału Sprawiedliwości Unii Europejskiej	Trybunał Sprawiedliwości Unii Europejskiej	ORG	ORG-European-Court-of-Justice
+1132	1147	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1192	1195	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1314	1316	UE	UE	ORG	ORG-European-Union
+1347	1362	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1457	1466	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+1560	1567	Londynu	Londyn	LOC	GPE-London
+1837	1852	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1889	1891	UE	UE	ORG	ORG-European-Union
+1998	2002	Unii	Unia	ORG	ORG-European-Union
+2024	2039	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2228	2235	Londynu	Londyn	LOC	GPE-London
+2470	2487	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2515	2517	UE	UE	ORG	ORG-European-Union
+2583	2591	Brukseli	Bruksela	LOC	GPE-Brussles
+2633	2654	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+2689	2691	UE	UE	ORG	ORG-European-Union
+2818	2820	27	27	ORG	ORG-European-Union
+3021	3023	UE	UE	ORG	ORG-European-Union
+3048	3057	Radzie UE	Rada UE	ORG	ORG-European-Council
+3180	3203	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+3342	3385	Trybunału Sprawiedliwości Unii Europejskiej	Trybunał Sprawiedliwości Unii Europejskiej	ORG	ORG-European-Court-of-Justice
+3646	3663	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3825	3832	Brexitu	Brexit	EVT	EVT-Brexit
+3833	3844	David Davis	David Davis	PER	PER-David-Davis
+3883	3885	UE	UE	ORG	ORG-European-Union
+3948	3963	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4030	4037	Brexitu	Brexit	EVT	EVT-Brexit
+4109	4126	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4219	4223	TSUE	TSUE	ORG	ORG-European-Court-of-Justice
+4289	4304	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4333	4350	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4373	4382	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+4405	4413	Brukseli	Bruksela	LOC	GPE-Brussles
+4414	4429	Grzegorz Paluch	Grzegorz Paluch	PER	PER-Grzegorz-Paluch
+4431	4434	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

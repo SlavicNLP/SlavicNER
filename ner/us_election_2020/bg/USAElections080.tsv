@@ -1,0 +1,31 @@
+0	7	Webcafe	Webcafe	PRO	PRO-Webcafe.bg
+28	40	Американците	американци	PER	GPE-USA
+82	85	САЩ	САЩ	LOC	GPE-USA
+114	126	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+131	141	демократът	демократ	PER	ORG-Democratic-Party-USA
+142	152	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+349	356	Америка	Америка	LOC	GPE-USA
+382	389	Америки	Америки	LOC	GPE-USA
+419	429	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+536	550	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+620	632	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+829	841	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+847	857	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+880	892	американците	американци	PER	GPE-USA
+936	944	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+996	1008	горна камара	Горна камара	ORG	ORG-United-States-Senate
+1059	1083	долна камара на Конгреса	Долна камара на Конгреса	ORG	ORG-House-of-Representatives(USA)
+1096	1107	демократите	демократи	PER	ORG-Democratic-Party-USA
+1120	1147	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+1151	1165	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1168	1174	Сената	Сенат	ORG	ORG-United-States-Senate
+1215	1226	демократите	демократи	PER	ORG-Democratic-Party-USA
+1263	1271	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1308	1322	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1325	1331	Сената	Сенат	ORG	ORG-United-States-Senate
+1430	1440	американци	американци	PER	GPE-USA
+1744	1767	Университета на Флорида	Университет на Флорида	ORG	ORG-University-of-Florida
+1768	1784	Майкъл Макдоналд	Майкъл Макдоналд	PER	PER-Michael-McDonald
+1818	1836	Американски избори	Американски избори	PRO	PRO-United-States-Elections-Project
+2038	2043	Тръмп	Тръмп	PER	PER-Donald-Trump
+2126	2136	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden

@@ -1,0 +1,107 @@
+12	19	Webcafe	Webcafe	PRO	PRO-Webcafe.bg
+151	154	САЩ	САЩ	LOC	GPE-USA
+289	301	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+304	314	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+496	509	Коронавирусът	коронавирус	EVT	EVT-Covid-19
+554	580	пандемията от коронавируса	пандемия от коронавирус	EVT	EVT-Pandemic
+619	622	САЩ	САЩ	LOC	GPE-USA
+807	812	Тръмп	Тръмп	PER	PER-Donald-Trump
+835	840	Китай	Китай	LOC	GPE-China
+987	997	американци	американци	PER	GPE-USA
+1015	1018	CNN	CNN	ORG	ORG-CNN
+1120	1130	американци	американци	PER	GPE-USA
+1148	1156	COVID-19	COVID-19	EVT	EVT-Covid-19
+1193	1203	Белият дом	Бял дом	LOC	LOC-White-House
+1326	1331	Тръмп	Тръмп	PER	PER-Donald-Trump
+1389	1392	САЩ	САЩ	LOC	GPE-USA
+1583	1593	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1601	1606	Тръмп	Тръмп	PER	PER-Donald-Trump
+1637	1650	COVID-кризата	COVID-криза	EVT	EVT-Pandemic
+1842	1854	коронавируса	коронавирус	EVT	EVT-Covid-19
+1856	1862	Байдън	Байдън	PER	PER-Joe-Biden
+1875	1880	Тръмп	Тръмп	PER	PER-Donald-Trump
+2005	2021	Съединените щати	Съединени щати	LOC	GPE-USA
+2031	2037	Байдън	Байдън	PER	PER-Joe-Biden
+2040	2052	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2291	2297	Байдън	Байдън	PER	PER-Joe-Biden
+2513	2521	COVID-19	COVID-19	EVT	EVT-Covid-19
+2538	2544	Байдън	Байдън	PER	PER-Joe-Biden
+2645	2655	американци	американци	PER	GPE-USA
+2760	2766	Байдън	Байдън	PER	PER-Joe-Biden
+2768	2780	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2823	2833	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2854	2861	Украйна	Украйна	LOC	GPE-Ukraine
+2883	2888	Тръмп	Тръмп	PER	PER-Donald-Trump
+2939	2949	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3004	3011	Украйна	Украйна	LOC	GPE-Ukraine
+3014	3019	Китай	Китай	LOC	GPE-China
+3099	3112	Хънтър Байдън	Хънтър Байдън	PER	PER-Hunter-Biden
+3167	3172	Тръмп	Тръмп	PER	PER-Donald-Trump
+3175	3190	Рудолф Джулиани	Рудолф Джулиани	PER	PER-Rudolph-Giuliani
+3206	3219	New York Post	New York Post	PRO	PRO-New-York-Post
+3259	3272	Хънтър Байдън	Хънтър Байдън	PER	PER-Hunter-Biden
+3288	3291	ФБР	ФБР	ORG	ORG-FBI
+3476	3486	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3540	3543	САЩ	САЩ	LOC	GPE-USA
+3546	3553	Украйна	Украйна	LOC	GPE-Ukraine
+3642	3648	Хънтър	Хънтър	PER	PER-Hunter-Biden
+3674	3680	Байдън	Байдън	PER	PER-Joe-Biden
+3755	3760	Тръмп	Тръмп	PER	PER-Donald-Trump
+3768	3778	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3923	3928	Русия	Русия	LOC	GPE-Russia
+3931	3937	Байдън	Байдън	PER	PER-Joe-Biden
+4135	4142	Украйна	Украйна	LOC	GPE-Ukraine
+4151	4161	демократът	демократ	PER	ORG-Democratic-Party-USA
+4191	4197	Хънтър	Хънтър	PER	PER-Hunter-Biden
+4245	4252	Бурисма	Бурисма	ORG	ORG-Burisma
+4281	4292	демократите	демократи	PER	ORG-Democratic-Party-USA
+4358	4363	Тръмп	Тръмп	PER	PER-Donald-Trump
+4439	4442	САЩ	САЩ	LOC	GPE-USA
+4528	4533	Русия	Русия	LOC	GPE-Russia
+4536	4540	Иран	Иран	LOC	GPE-Iran
+4561	4564	САЩ	САЩ	LOC	GPE-USA
+4705	4714	Белия дом	Бял дом	LOC	LOC-White-House
+4730	4736	Байдън	Байдън	PER	PER-Joe-Biden
+4844	4847	САЩ	САЩ	LOC	GPE-USA
+4888	4893	Русия	Русия	LOC	GPE-Russia
+4905	4910	Тръмп	Тръмп	PER	PER-Donald-Trump
+4932	4938	Байдън	Байдън	PER	PER-Joe-Biden
+4953	4959	Кремъл	Кремъл	LOC	LOC-Kremlin
+4962	4967	Русия	Русия	LOC	GPE-Russia
+5028	5031	САЩ	САЩ	LOC	GPE-USA
+5097	5107	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+5115	5127	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+5155	5169	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+5212	5217	Тръмп	Тръмп	PER	PER-Donald-Trump
+5313	5324	демократите	демократи	PER	ORG-Democratic-Party-USA
+5337	5342	Тръмп	Тръмп	PER	PER-Donald-Trump
+5384	5389	Русия	Русия	LOC	GPE-Russia
+5437	5441	НАТО	НАТО	ORG	ORG-NATO
+5675	5681	Байдън	Байдън	PER	PER-Joe-Biden
+5745	5750	Тръмп	Тръмп	PER	PER-Donald-Trump
+6185	6190	Тръмп	Тръмп	PER	PER-Donald-Trump
+6317	6322	Обама	Обама	PER	PER-Barack-Obama
+6508	6513	Тръмп	Тръмп	PER	PER-Donald-Trump
+6537	6542	Тръмп	Тръмп	PER	PER-Donald-Trump
+6562	6568	Байдън	Байдън	PER	PER-Joe-Biden
+6694	6701	Америка	Америка	LOC	GPE-USA
+6931	6937	Байдън	Байдън	PER	PER-Joe-Biden
+6940	6945	Тръмп	Тръмп	PER	PER-Donald-Trump
+7269	7276	Америка	Америка	LOC	GPE-USA
+7279	7284	Тръмп	Тръмп	PER	PER-Donald-Trump
+7365	7381	Ейбрахам Линкълн	Ейбрахам Линкълн	PER	PER-Abraham-Lincoln
+7496	7502	Байдън	Байдън	PER	PER-Joe-Biden
+7532	7548	Ейбрахам Линкълн	Ейбрахам Линкълн	PER	PER-Abraham-Lincoln
+7659	7665	Байдън	Байдън	PER	PER-Joe-Biden
+7731	7745	републиканците	републиканци	PER	ORG-Republican-Party-USA
+7838	7848	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+7908	7911	САЩ	САЩ	LOC	GPE-USA
+7949	7954	Тръмп	Тръмп	PER	PER-Donald-Trump
+8003	8009	Тексас	Тексас	LOC	GPE-Texas
+8032	8043	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+8045	8053	Оклахома	Оклахома	LOC	GPE-Oklahoma
+8055	8060	Охайо	Охайо	LOC	GPE-Ohio
+8070	8084	републиканецът	републиканец	PER	ORG-Republican-Party-USA
+8213	8219	Байдън	Байдън	PER	PER-Joe-Biden
+8560	8572	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+8627	8637	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden

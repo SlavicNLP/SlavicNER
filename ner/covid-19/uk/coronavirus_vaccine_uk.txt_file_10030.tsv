@@ -1,0 +1,35 @@
+47	57	Зеленський	Зеленський	PER	PER-Volodymyr-Zelensky
+104	124	Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+133	136	СБУ	СБУ	ORG	ORG-Security-Service-Ukraine
+214	221	Україні	Україна	LOC	GPE-Ukraine
+371	382	Зеленського	Зеленський	PER	PER-Volodymyr-Zelensky
+385	393	Telegram	Telegram	PRO	PRO-Telegram
+547	555	Covid-19	Covid-19	EVT	EVT-Covid-19
+643	646	МВС	МВС	ORG	ORG-Home-Office-UK
+650	653	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+670	683	Денис Шмигаль	Денис Шмигаль	PER	PER-Denys-Shmyhal
+707	715	"""Страна"""	Страна	PRO	PRO-Strana
+765	772	Україні	Україна	LOC	GPE-Ukraine
+898	904	Pfizer	Pfizer	ORG	ORG-Pfizer
+907	915	BioNTech	BioNTech	ORG	ORG-BioNTech
+943	950	Україну	Україна	LOC	GPE-Ukraine
+977	985	"""Страни"""	Страна	PRO	PRO-Strana
+1166	1183	Михайло Бродський	Михайло Бродський	PER	PER-Mykhailo-Brodskyi
+1284	1297	Денис Шмигаль	Денис Шмигаль	PER	PER-Denys-Shmyhal
+1326	1340	Верховної Ради	Верховна Рада	ORG	ORG-Verkhovna-Rada
+1341	1358	Михайло Радуцький	Михайло Радуцький	PER	PER-Mykhailo-Radutsky
+1397	1406	Бродський	Бродський	PER	PER-Mykhailo-Brodskyi
+1437	1450	Денис Шмигаль	Денис Шмигаль	PER	PER-Denys-Shmyhal
+1570	1577	Україні	Україна	LOC	GPE-Ukraine
+1654	1661	Україну	Україна	LOC	GPE-Ukraine
+1690	1700	Бродського	Бродський	PER	PER-Mykhailo-Brodskyi
+1764	1767	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+1843	1851	COVID-19	COVID-19	EVT	EVT-Covid-19
+1982	1989	Шмигаль	Шмигаль	PER	PER-Denys-Shmyhal
+2018	2035	Михайло Радуцький	Михайло Радуцький	PER	PER-Mykhailo-Radutsky
+2064	2073	"""Страною"""	Страна	PRO	PRO-Strana
+2077	2095	Михайлом Бродським	Михайло Бродський	PER	PER-Mykhailo-Brodskyi
+2231	2238	Україні	Україна	LOC	GPE-Ukraine
+2317	2326	"""Сегодня"""	Сегодня	PRO	PRO-Siohodni
+2338	2345	Україні	Україна	LOC	GPE-Ukraine
+2538	2546	Telegram	Telegram	PRO	PRO-Telegram

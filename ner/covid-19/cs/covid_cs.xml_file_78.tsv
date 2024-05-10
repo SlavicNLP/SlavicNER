@@ -1,0 +1,20 @@
+0	11	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+41	43	ČR	ČR	LOC	GPE-Czech-Republic
+47	55	Slovinci	Slovinci	PER	GPE-Slovenia
+75	80	Čechy	Češi	PER	GPE-Czech-Republic
+82	87	Česko	Česko	LOC	GPE-Czech-Republic
+107	118	koronavirem	koronavirus	EVT	EVT-Covid-19
+264	276	Adam Vojtěch	Adam Vojtěch	PER	PER-Adam-Vojtěch
+281	284	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+336	356	Moravskoslezský kraj	Moravskoslezský kraj	LOC	GPE-Moravian-Silesian-Region
+360	368	Sovinsko	Sovinsko	LOC	GPE-Slovenia
+394	396	ČR	ČR	LOC	GPE-Czech-Republic
+462	470	Blesk.cz	Blesk.cz	PRO	PRO-Blesk.cz
+903	908	Rusko	Rusko	LOC	GPE-Russia
+971	977	Covidu	Covid	EVT	EVT-Covid-19
+989	996	Britove	Britove	PER	GPE-Great-Britain
+1111	1120	Americani	Americani	PER	GPE-USA
+1145	1149	Ciny	Cina	LOC	GPE-China
+1188	1195	Britove	Britove	PER	GPE-Great-Britain
+1224	1229	Amiky	Amici	PER	GPE-USA
+1305	1313	Kalousek	Kalousek	PER	PER-Miroslav-Kalousek

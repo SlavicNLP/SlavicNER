@@ -1,0 +1,24 @@
+0	12	Matthew Ryan	Matthew Ryan	PER	PER-Matthew-Ryan
+14	19	Ebury	Ebury	ORG	ORG-Ebury
+332	335	USA	USA	LOC	GPE-USA
+336	341	Chiny	Chiny	LOC	GPE-China
+544	565	Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+568	592	Chińską Republiką Ludową	Chińska Republika Ludowa	LOC	GPE-China
+834	838	Chin	Chiny	LOC	GPE-China
+1229	1238	Niemczech	Niemcy	LOC	GPE-Germany
+1509	1515	Merkel	Merkel	PER	PER-Angela-Merkel
+1581	1583	UE	UE	ORG	ORG-European-Union
+1757	1759	G3	G3	ORG	ORG-G3
+1820	1829	Niemczech	Niemcy	LOC	GPE-Germany
+1962	1983	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+2087	2093	Carney	Carney	PER	PER-Mark-Carney
+2109	2117	Brexitem	Brexit	EVT	EVT-Brexit
+2200	2212	Banku Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+2525	2537	Banku Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+2539	2550	Mark Carney	Mark Carney	PER	PER-Mark-Carney
+2631	2638	Brexitu	Brexit	EVT	EVT-Brexit
+2741	2744	BoE	BoE	ORG	ORG-Bank-of-England
+2820	2837	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2888	2890	UK	UK	LOC	GPE-Great-Britain
+2934	2951	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3002	3016	Strefa Biznesu	Strefa Biznesu	PRO	PRO-Strefa-Biznesu

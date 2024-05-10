@@ -1,0 +1,13 @@
+0	3	НАП	НАП	ORG	ORG-National-Revenue-Agency-of-the-Republic-of-Bulgaria
+130	169	Националната агенция за приходите (НАП)	Национална агенция за приходите (НАП)	ORG	ORG-National-Revenue-Agency-of-the-Republic-of-Bulgaria
+297	305	COVID-19	COVID-19	EVT	EVT-Covid-19
+466	484	приходната агенция	приходна агенция	ORG	ORG-National-Revenue-Agency-of-the-Republic-of-Bulgaria
+490	493	НАП	НАП	ORG	ORG-National-Revenue-Agency-of-the-Republic-of-Bulgaria
+764	770	Гърция	Гърция	LOC	GPE-Greece
+831	839	PCR тест	PCR тест	PRO	PRO-PCR-Test
+843	854	коронавирус	коронавирус	EVT	EVT-Covid-19
+910	939	българското посолство в Атина	българско посолство в Атина	ORG	ORG-Embassy-of-Bulgaria-in-Athens
+1117	1158	формуляр за локализиране на пътници (PLF)	формуляр за локализиране на пътници (PLF)	PRO	PRO-Passenger-Locator-Form
+1208	1214	Гърция	Гърция	LOC	GPE-Greece
+1280	1288	COVID-19	COVID-19	EVT	EVT-Covid-19
+1353	1375	здравното министерство	здравно министерство	ORG	ORG-Ministry-of-Health-Bulgaria

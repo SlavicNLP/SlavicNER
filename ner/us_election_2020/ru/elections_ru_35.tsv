@@ -1,0 +1,53 @@
+105	114	Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+116	129	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+131	134	BLM	BLM	ORG	ORG-Black-Lives-Matter
+136	142	Антифа	Антифа	ORG	ORG-Antifa-USA
+144	165	стрелковая ассоциация	стрелковая ассоциация	ORG	ORG-National-Rifle-Association
+353	356	США	США	LOC	GPE-USA
+461	466	Трамп	Трамп	PER	PER-Donald-Trump
+613	620	Америке	Америка	LOC	GPE-USA
+854	857	США	США	LOC	GPE-USA
+1190	1201	Дж. Р. Форд	Дж. Р. Форд	PRO	PRO-USS-Gerald-R.-Ford-(CVN-78)
+1211	1218	Замволт	Замволт	PRO	PRO-Zumwalt
+1220	1224	F-35	F-35	PRO	PRO-Lockheed-Martin-F-35-Lightning-II
+1535	1545	американец	американец	PER	GPE-USA
+2018	2030	американских	американский	LOC	GPE-USA
+2142	2147	Китай	Китай	LOC	GPE-China
+2228	2257	Федеральная резервная система	Федеральная резервная система	ORG	ORG-Federal-Reserve-System
+2355	2366	Фед.резерву	Фед.резерв	ORG	ORG-Federal-Reserve-System
+2517	2529	американские	американские	LOC	GPE-USA
+2664	2675	Фед.резерва	Фед.резерв	ORG	ORG-Federal-Reserve-System
+2763	2775	американское	американское	LOC	GPE-USA
+2893	2896	США	США	LOC	GPE-USA
+3116	3123	Украина	Украина	LOC	GPE-Ukraine
+3126	3132	Грузия	Грузия	LOC	GPE-Georgia
+3137	3146	китайских	китайский	LOC	GPE-China
+3184	3192	уйгурами	уйгуры	PER	GPE-China
+3214	3224	игиловцами	игиловцы	ORG	ORG-Islamic-State-of-Iraq-and-the-Levant
+3227	3235	индусами	индусы	PER	GPE-India
+3237	3248	вьетнамцами	вьетнамцы	PER	GPE-Vietnam
+3250	3258	японцами	японцы	PER	GPE-Japan
+3282	3286	Иран	Иран	LOC	GPE-Iran
+3313	3319	Туркам	Турки	PER	GPE-Turkey
+3399	3404	Сирии	Сирия	LOC	GPE-Syria
+3407	3412	Ливии	Ливия	LOC	GPE-Libya
+3414	3422	Северная	Северная Дакота	LOC	GPE-North-Dakota
+3425	3436	Южная Кореи	Южная Корея	LOC	GPE-South-Korea
+3455	3461	Африка	Африка	LOC	LOC-Africa
+3510	3520	китайского	китайский	LOC	GPE-China
+3523	3535	европейского	европейский	LOC	LOC-Europe
+3644	3651	Америку	Америка	LOC	GPE-USA
+3837	3843	Трампа	Трамп	PER	PER-Donald-Trump
+3846	3853	Байдена	Байден	PER	PER-Joe-Biden
+3941	3950	Эйнштейна	Эйнштейн	PER	PER-Albert-Einstein
+4042	4045	США	США	LOC	GPE-USA
+4095	4102	Америке	Америка	LOC	GPE-USA
+4112	4117	Индии	Индия	LOC	GPE-India
+4120	4125	Китая	Китай	LOC	GPE-China
+4465	4469	СССР	СССР	LOC	GPE-USSR
+4486	4489	США	США	LOC	GPE-USA
+4748	4752	Иран	Иран	LOC	GPE-Iran
+4778	4783	Китая	Китай	LOC	GPE-China
+5439	5449	федрезерву	федрезерв	ORG	ORG-Federal-Reserve-System
+5552	5555	США	США	LOC	GPE-USA
+5621	5624	США	США	LOC	GPE-USA

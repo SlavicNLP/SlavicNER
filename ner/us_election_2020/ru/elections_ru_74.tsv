@@ -1,0 +1,115 @@
+21	26	Путин	Путин	PER	PER-Vladimir-Putin
+29	34	Трамп	Трамп	PER	PER-Donald-Trump
+48	60	конгресс США	конгресс США	ORG	ORG-United-States-Congress
+64	68	АТЭС	АТЭС	EVT	EVT-Asia-Pacific-Economic-Cooperation
+80	89	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+91	94	США	США	LOC	GPE-USA
+124	129	Трамп	Трамп	PER	PER-Donald-Trump
+150	157	Путиным	Путин	PER	PER-Vladimir-Putin
+177	183	Москвы	Москва	LOC	GPE-Moscow
+186	198	американские	американские	LOC	GPE-USA
+286	334	сектором внешней и внутренней политики ИМЭМО РАН	сектор внешней и внутренней политики ИМЭМО РАН	ORG	ORG-Sector-of-US-Foreign-and-Domestic-Policy-IMEMO
+335	353	Виктория Журавлева	Виктория Журавлева	PER	PER-Victoria-Zhuravleva
+367	373	России	Россия	LOC	GPE-Russia
+376	379	США	США	LOC	GPE-USA
+466	477	российского	российский	LOC	GPE-Russia
+485	499	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+523	526	США	США	LOC	GPE-USA
+527	540	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+566	568	РФ	РФ	LOC	GPE-Russia
+569	587	Владимиром Путиным	Владимир Путин	PER	PER-Vladimir-Putin
+629	641	американские	американские	LOC	GPE-USA
+650	655	Трамп	Трамп	PER	PER-Donald-Trump
+702	714	американской	американский	LOC	GPE-USA
+742	748	Путина	Путин	PER	PER-Vladimir-Putin
+786	796	Российский	Российский	LOC	GPE-Russia
+972	975	США	США	LOC	GPE-USA
+1011	1017	Трампа	Трамп	PER	PER-Donald-Trump
+1071	1082	Белого дома	Белый дом	ORG	ORG-The-White-House
+1141	1147	России	Россия	LOC	GPE-Russia
+1150	1153	США	США	LOC	GPE-USA
+1228	1245	«демократические»	«демократические»	ORG	ORG-Democratic-Party-USA
+1267	1273	Трампа	Трамп	PER	PER-Donald-Trump
+1287	1293	Кремля	Кремль	ORG	ORG-Kremlin
+1354	1360	Трампа	Трамп	PER	PER-Donald-Trump
+1392	1398	Путину	Путин	PER	PER-Vladimir-Putin
+1439	1451	американские	американские	LOC	GPE-USA
+1506	1513	Россией	Россия	LOC	GPE-Russia
+1525	1531	Путина	Путин	PER	PER-Vladimir-Putin
+1534	1540	Трампа	Трамп	PER	PER-Donald-Trump
+1574	1577	США	США	LOC	GPE-USA
+1591	1639	сектором внешней и внутренней политики ИМЭМО РАН	сектор внешней и внутренней политики ИМЭМО РАН	ORG	ORG-Sector-of-US-Foreign-and-Domestic-Policy-IMEMO
+1640	1658	Виктория Журавлева	Виктория Журавлева	PER	PER-Victoria-Zhuravleva
+1677	1696	«Экономика сегодня»	«Экономика сегодня»	PRO	PRO-Rueconomics
+1800	1804	АТЭС	АТЭС	EVT	EVT-Asia-Pacific-Economic-Cooperation
+1826	1831	Трамп	Трамп	PER	PER-Donald-Trump
+1834	1839	Путин	Путин	PER	PER-Vladimir-Putin
+1950	1955	Сирию	Сирия	LOC	GPE-Syria
+1990	1997	Путиным	Путин	PER	PER-Vladimir-Putin
+2000	2007	Трампом	Трамп	PER	PER-Donald-Trump
+2062	2072	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2114	2125	российскими	российские	LOC	GPE-Russia
+2194	2200	России	Россия	LOC	GPE-Russia
+2203	2206	США	США	LOC	GPE-USA
+2221	2230	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+2253	2263	российских	российские	LOC	GPE-Russia
+2326	2329	США	США	LOC	GPE-USA
+2435	2440	Путин	Путин	PER	PER-Vladimir-Putin
+2443	2448	Трамп	Трамп	PER	PER-Donald-Trump
+2690	2699	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+2703	2708	Трамп	Трамп	PER	PER-Donald-Trump
+2760	2769	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+2782	2798	Виктории Юрьевны	Виктория Юрьевна	PER	PER-Victoria-Zhuravleva
+2826	2831	Путин	Путин	PER	PER-Vladimir-Putin
+2875	2882	Трампом	Трамп	PER	PER-Donald-Trump
+2924	2927	США	США	LOC	GPE-USA
+2993	2998	Путин	Путин	PER	PER-Vladimir-Putin
+2999	3004	Трамп	Трамп	PER	PER-Donald-Trump
+3017	3025	Вьетнаме	Вьетнам	LOC	GPE-Vietnam
+3079	3089	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3112	3121	Белый дом	Белый дом	ORG	ORG-The-White-House
+3132	3138	Трампу	Трамп	PER	PER-Donald-Trump
+3199	3205	России	Россия	LOC	GPE-Russia
+3221	3230	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+3255	3267	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+3400	3411	Белого дома	Белый дом	ORG	ORG-The-White-House
+3467	3479	американской	американский	LOC	GPE-USA
+3557	3563	России	Россия	LOC	GPE-Russia
+3599	3602	США	США	LOC	GPE-USA
+3610	3620	Вашингтону	Вашингтон	LOC	GPE-WashingtonDC
+3673	3682	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+3739	3752	американского	американский	LOC	GPE-USA
+3823	3826	США	США	LOC	GPE-USA
+3838	3848	демократов	демократы	ORG	ORG-Democratic-Party-USA
+3856	3870	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+3918	3923	Путин	Путин	PER	PER-Vladimir-Putin
+3926	3931	Трамп	Трамп	PER	PER-Donald-Trump
+4003	4009	России	Россия	LOC	GPE-Russia
+4012	4015	США	США	LOC	GPE-USA
+4318	4327	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+4371	4383	американской	американская	LOC	GPE-USA
+4414	4419	Трамп	Трамп	PER	PER-Donald-Trump
+4501	4508	Путиным	Путин	PER	PER-Vladimir-Putin
+4620	4622	РФ	РФ	LOC	GPE-Russia
+4698	4704	России	Россия	LOC	GPE-Russia
+4707	4710	США	США	LOC	GPE-USA
+4848	4854	России	Россия	LOC	GPE-Russia
+4857	4860	США	США	LOC	GPE-USA
+4896	4902	Москве	Москва	LOC	GPE-Moscow
+4905	4915	Вашингтону	Вашингтон	LOC	GPE-WashingtonDC
+4974	4983	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+5073	5083	российской	российская	LOC	GPE-Russia
+5093	5106	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+5231	5242	российскими	российские	LOC	GPE-Russia
+5264	5277	американского	американские	LOC	GPE-USA
+5417	5427	российским	российский	LOC	GPE-Russia
+5445	5457	американские	американские	LOC	GPE-USA
+5519	5522	США	США	LOC	GPE-USA
+5541	5549	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+5578	5584	Трампа	Трамп	PER	PER-Donald-Trump
+5596	5606	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+5662	5671	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+5694	5700	Россия	Россия	LOC	GPE-Russia
+5791	5801	сирийского	сирийский	LOC	GPE-Syria
+5865	5871	Москвы	Москва	LOC	GPE-Moscow
+5874	5884	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC

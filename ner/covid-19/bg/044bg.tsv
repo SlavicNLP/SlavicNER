@@ -1,0 +1,18 @@
+0	8	Novartis	Novartis	ORG	ORG-Novartis
+59	71	коронавируса	коронавирус	EVT	EVT-Covid-19
+119	127	Covid-19	COVID-19	EVT	EVT-Covid-19
+206	220	Вас Нарасимхан	Вас Нарасимхан	PER	PER-Vas-Narasimhan
+278	290	коронавируса	коронавирус	EVT	EVT-Covid-19
+341	349	Novartis	Novartis	ORG	ORG-Novartis
+350	364	Вас Нарасимхан	Вас Нарасимхан	PER	PER-Vas-Narasimhan
+425	435	Нарасимхан	Нарасимхан	PER	PER-Vas-Narasimhan
+530	539	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+627	642	GlaxoSmithKline	GlaxoSmithKline	ORG	ORG-GlaxoSmithKline
+962	972	Нарасимхан	Нарасимхан	PER	PER-Vas-Narasimhan
+1506	1512	Pfizer	Pfizer	ORG	ORG-Pfizer
+1572	1580	Novartis	Novartis	ORG	ORG-Novartis
+1677	1688	канакинумаб	канакинумаб	PRO	PRO-Canakinumab
+1734	1742	Covid-19	COVID-19	EVT	EVT-Covid-19
+1818	1830	Incyte Corp.	Incyte Corp.	ORG	ORG-Incyte-Corp
+1874	1886	руксолитиниб	руксолитиниб	PRO	PRO-Ruxolitinib
+1902	1913	коронавирус	коронавирус	EVT	EVT-Covid-19

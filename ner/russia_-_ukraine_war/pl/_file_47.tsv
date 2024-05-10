@@ -1,0 +1,34 @@
+1	10	Rosyjskie	Rosyjski	LOC	GPE-Russia
+11	16	Davos	Davos	LOC	GPE-Davos
+19	33	Władimir Putin	Władimir Putin	PER	PER-Vladimir-Putin
+43	45	UE	UE	ORG	ORG-European-Union
+120	125	Rosję	Rosja	LOC	GPE-Russia
+135	140	Putin	Putin	PER	PER-Vladimir-Putin
+770	775	Putin	Putin	PER	PER-Vladimir-Putin
+854	856	UE	UE	ORG	ORG-European-Union
+992	997	Rosji	Rosja	LOC	GPE-Russia
+1169	1174	Rosja	Rosja	LOC	GPE-Russia
+1208	1214	Zachód	Zachód	LOC	LOC-West
+1294	1299	Rosji	Rosja	LOC	GPE-Russia
+1363	1374	zimną wojnę	zimna wojna	EVT	EVT-Cold-War
+1376	1393	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1425	1429	Boga	Bóg	PER	PER-God
+1433	1438	ziemi	ziemia	LOC	LOC-Earth
+1632	1637	Rosji	Rosja	LOC	GPE-Russia
+1680	1697	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1713	1722	Wspólnota	Wspólnota	ORG	ORG-European-Union
+1849	1862	Europejczyków	Europejczycy	PER	LOC-Europe
+1951	1956	Putin	Putin	PER	PER-Vladimir-Putin
+2000	2017	wojny na Ukrainie	wojna na Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+2019	2033	Władimir Putin	Władimir Putin	PER	PER-Vladimir-Putin
+2071	2079	Donbasie	Donbas	LOC	LOC-Donbass
+2120	2125	Rosji	Rosja	LOC	GPE-Russia
+2156	2162	Zachód	Zachód	LOC	LOC-West
+2406	2411	Rosji	Rosja	LOC	GPE-Russia
+2430	2459	specjalnej operacji wojskowej	specjalna operacja wojskowa	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+2548	2564	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+2576	2587	Petersburgu	Petersburg	LOC	GPE-Saint-Petersburg
+2644	2650	Kremla	Kreml	LOC	LOC-Kremlin
+2651	2666	Dmitrij Pieskow	Dmitrij Pieskow	PER	PER-Dmitrij-Pieskow
+2742	2745	CNN	CNN	ORG	ORG-CNN
+2747	2754	Reuters	Reuters	ORG	ORG-Reuters

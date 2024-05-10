@@ -1,0 +1,32 @@
+92	98	Корона	Коронавирус	EVT	EVT-Covid-19
+140	150	российские	Российский	LOC	GPE-Russia
+161	167	Корона	Коронавирус	EVT	EVT-Covid-19
+209	219	российские	Российский	LOC	GPE-Russia
+248	258	российские	Российский	PER	GPE-Russia
+295	303	COVID-19	COVID-19	EVT	EVT-Covid-19
+335	344	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+352	365	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+389	400	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+433	443	российские	Российский	LOC	GPE-Russia
+480	488	COVID-19	COVID-19	EVT	EVT-Covid-19
+520	529	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+537	550	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+553	579	Центра имени Н. Ф. Гамалеи	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+582	594	ЭпиВакКорона	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+596	610	новосибирского	Yовосибирский	LOC	GPE-Novosibirsk
+612	619	Вектора	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+631	658	Центра имени М. П. Чумакова	Научный центр исследований и разработки иммунобиологических препаратов имени М.П. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+830	836	Ria.ru	Ria.ru	PRO	ORG-RIA-Novosti
+853	877	центр им. м. п. чумакова	Научный центр исследований и разработки иммунобиологических препаратов имени М.П. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+890	897	россиян	Россияне	PER	GPE-Russia
+901	909	covid-19	Covid-19	EVT	EVT-Covid-19
+920	932	эпиваккорона	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+944	953	спутник v	Спутник V	PRO	PRO-Sputnik-V
+956	967	коронавирус	коронавирус	EVT	EVT-Covid-19
+970	976	россии	Россия	LOC	GPE-Russia
+978	989	коронавирус	коронавирус	EVT	EVT-Covid-19
+990	998	covid-19	covid-19	EVT	EVT-Covid-19
+1000	1006	россия	Россия	LOC	GPE-Russia
+1008	1023	нии им. гамалеи	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1025	1037	коронавирусы	коронавирус	EVT	EVT-Covid-19
+1039	1105	"государственный научный центр вирусологии и биотехнологий ""вектор"""	Государственный научный центр вирусологии и биотехнологии «Вектор»	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR

@@ -1,0 +1,92 @@
+0	6	Polska	Polska	LOC	GPE-Poland
+29	46	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+48	61	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+99	108	Warszawie	Warszawa	LOC	GPE-Warsaw
+125	146	Mateuszem Morawieckim	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+174	193	Pałacu Prezydenckim	Pałac Prezydencki	LOC	LOC-Presidential-Palace-Warsaw
+323	340	Pałacu Elizejskim	Pałac Elizejski	LOC	LOC-Élysée-Palace
+343	362	Emmanuelem Macronem	Emmanuel Macron	PER	PER-Emmanuel-Macron
+370	377	Berlina	Berlin	LOC	GPE-Berlin
+429	432	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+435	443	Brukselą	Bruksela	LOC	GPE-Brussles
+444	450	Niemcy	Niemcy	LOC	GPE-Germany
+465	471	Polskę	Polska	LOC	GPE-Poland
+538	542	Unii	Unia	ORG	ORG-European-Union
+546	562	Szczyt Weimarski	Szczyt Weimarski	EVT	EVT-Weimar-Summit
+568	574	Merkel	Merkel	PER	PER-Angela-Merkel
+594	605	Morawieckim	Morawiecki	PER	PER-Mateusz-Morawiecki
+720	728	Brexicie	Brexit	EVT	EVT-Brexit
+758	762	Unii	Unia	ORG	ORG-European-Union
+847	856	Warszawie	Warszawa	LOC	GPE-Warsaw
+890	900	Heiko Maas	Heiko Maas	PER	PER-Heiko-Maas
+916	922	Niemcy	Niemcy	LOC	GPE-Germany
+953	962	Radzie UE	Rada UE	ORG	ORG-European-Council
+982	988	Polskę	Polska	LOC	GPE-Poland
+1049	1062	traktatu o UE	Traktat o UE	PRO	PRO-TUE-Treaty-on-European-Union
+1072	1080	Warszawa	Warszawa	LOC	GPE-Warsaw
+1294	1300	Polska	Polska	LOC	GPE-Poland
+1337	1343	Polskę	Polska	LOC	GPE-Poland
+1378	1386	Brukseli	Bruksela	LOC	GPE-Brussles
+1438	1446	Warszawę	Warszawa	LOC	GPE-Warsaw
+1449	1455	Berlin	Berlin	LOC	GPE-Berlin
+1494	1500	Niemcy	Niemcy	LOC	GPE-Germany
+1562	1565	CSU	CSU	ORG	ORG-CSU-Christian-Social-Union-in-Bavaria
+1593	1596	AfD	AfD	ORG	ORG-AfG-Alternative-for-Germany
+1701	1708	Francja	Francja	LOC	GPE-France
+1732	1739	Berlina	Berlin	LOC	GPE-Berlin
+1755	1762	Europie	Europa	LOC	LOC-Europe
+1905	1919	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1921	1927	Polska	Polska	LOC	GPE-Poland
+1960	1967	Niemiec	Niemcy	LOC	GPE-Germany
+2116	2120	Unii	Unia	ORG	ORG-European-Union
+2157	2164	Trumpem	Trump	PER	PER-Donald-Trump
+2197	2212	Recepa Erdogana	Recep Erdogan	PER	PER-Recep-Tayyip-Erdoğan
+2235	2251	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+2274	2292	Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+2323	2336	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2461	2471	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+2558	2564	Polski	Polska	LOC	GPE-Poland
+2567	2571	Unią	Unia	ORG	ORG-European-Union
+2619	2640	Trójkąta Weimarskiego	Trójkąt Weimarski	ORG	ORG-Weimar-Triangle
+2693	2699	Niemcy	Niemcy	LOC	GPE-Germany
+2733	2740	Francja	Francja	LOC	GPE-France
+2851	2860	Francuzów	Francuzi	PER	GPE-France
+3002	3009	Caracal	Caracal	PRO	PRO-Caracal
+3040	3050	Hollande'a	Hollande	PER	PER-François-Hollande
+3151	3157	Paryżu	Paryż	LOC	GPE-Paris
+3243	3248	PESCO	PESCO	PRO	PRO-PESCO
+3251	3259	Warszawa	Warszawa	LOC	GPE-Warsaw
+3440	3446	Polsce	Polska	LOC	GPE-Poland
+3485	3491	Macron	Macron	PER	PER-Emmanuel-Macron
+3666	3672	Europy	Europa	LOC	LOC-Europe
+3717	3726	Warszawie	Warszawa	LOC	GPE-Warsaw
+3774	3791	Pałacu Elizejskim	Pałac Elizejski	LOC	LOC-Élysée-Palace
+3801	3807	Merkel	Merkel	PER	PER-Angela-Merkel
+3809	3815	Macron	Macron	PER	PER-Emmanuel-Macron
+3917	3923	Europy	Europa	LOC	LOC-Europe
+4191	4227	Europejskiego Mechanizmu Stabilności	Europejski Mechanizm Stabilności	ORG	ORG-ESM-European-Stability-Mechanism
+4230	4257	Europejski Fundusz Walutowy	Europejski Fundusz Walutowy	ORG	ORG-International-Monetary-Fund
+4357	4361	Unii	Unia	ORG	ORG-European-Union
+4406	4415	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+4451	4457	Europy	Europa	LOC	LOC-Europe
+4508	4532	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+4618	4624	Merkel	Merkel	PER	PER-Angela-Merkel
+4627	4633	Macron	Macron	PER	PER-Emmanuel-Macron
+4736	4742	Rzymie	Rzym	LOC	GPE-Rome
+4747	4754	Wiedniu	Wiedeń	LOC	GPE-Vienna
+4772	4775	CSU	CSU	ORG	ORG-CSU-Christian-Social-Union-in-Bavaria
+4817	4840	Alternatywy dla Niemiec	Alternatywa dla Niemiec	ORG	ORG-AfG-Alternative-for-Germany
+4842	4845	AfD	AfD	ORG	ORG-AfG-Alternative-for-Germany
+4850	4858	Berlinie	Berlin	LOC	GPE-Berlin
+4920	4926	Włochy	Włochy	LOC	GPE-Italy
+4988	4994	Polski	Polska	LOC	GPE-Poland
+5104	5112	Brukseli	Bruksela	LOC	GPE-Brussles
+5181	5190	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+5261	5274	Morawieckiemu	Morawiecki	PER	PER-Mateusz-Morawiecki
+5321	5325	Unii	Unia	ORG	ORG-European-Union
+5340	5348	Brukseli	Bruksela	LOC	GPE-Brussles
+5381	5388	brexitu	Brexit	EVT	EVT-Brexit
+5449	5457	Warszawa	Warszawa	LOC	GPE-Warsaw
+5507	5516	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+5531	5544	Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+5683	5685	UE	UE	ORG	ORG-European-Union

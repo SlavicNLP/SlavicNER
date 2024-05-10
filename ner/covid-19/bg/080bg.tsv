@@ -1,0 +1,28 @@
+68	79	коронавирус	коронавирус	EVT	EVT-Covid-19
+128	137	ВМА-София	ВМА-София	LOC	LOC-Military-medicine-academia-hospital-Sofia
+139	146	Пловдив	Пловдив	LOC	GPE-Plovdiv
+149	155	Бургас	Бургас	LOC	GPE-Burgas
+188	204	Костадин Ангелов	Костадин Ангелов	PER	PER-Kostadin-Angelov
+242	253	коронавирус	коронавирус	EVT	EVT-Covid-19
+319	327	Св. Анна	Св. Анна	LOC	LOC-University-Hospital-St-Anna
+330	345	Окръжна болница	Окръжна болница	LOC	LOC-University-Hospital-St-Anna
+381	395	Рада Прокопова	Рада Прокопова	PER	PER-Rada-Prokopova
+440	469	Клиниката по вътрешни болести	Клиника по вътрешни болести	LOC	LOC-Internal-Diseases-Clinic-St.-Anna-Hospital
+487	492	COVID	COVID	EVT	EVT-Covid-19
+539	549	Ани Кирова	Ани Кирова	PER	PER-Ani-Kirova
+571	619	Клиниката по анестезиология и интензивно лечение	Клиника по анестезиология и интензивно лечение	LOC	LOC-Anesthesiology-and-Intensive-Care-Clinic-St.-Anna
+630	637	Dnes.bg	Dnes.bg	PRO	PRO-Dnes-bg
+775	786	коронавирус	коронавирус	EVT	EVT-Covid-19
+834	873	Военномедицинска академия – София (ВМА)	Военномедицинска академия – София (ВМА)	LOC	LOC-Military-medicine-academia-hospital-Sofia
+932	953	Венцислав Мутафчийски	Венцислав Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+996	1008	коронавируса	коронавирус	EVT	EVT-Covid-19
+1011	1022	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+1042	1047	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+1280	1287	Пловдив	Пловдив	LOC	GPE-Plovdiv
+1415	1426	коронаверус	коронавирус	EVT	EVT-Covid-19
+1431	1437	Бургас	Бургас	LOC	GPE-Burgas
+1492	1522	Комплексния онкологичен център	Комплексен онкологичен център	LOC	LOC-Oncology-Complex-Center-Burgas
+1562	1573	коронавирус	коронавирус	EVT	EVT-Covid-19
+1582	1584	ЕС	ЕС	ORG	ORG-European-Union
+1635	1641	Pfizer	Pfizer	ORG	ORG-Pfizer
+1642	1650	BionTech	BionTech	ORG	ORG-BioNTech

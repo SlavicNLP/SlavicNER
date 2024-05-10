@@ -1,0 +1,26 @@
+0	13	Roman Prymula	Roman Prymula	PER	PER-Roman-Prymula
+49	55	Hradem	Hrad	LOC	LOC-Prague-Castle
+58	63	Čínou	Čína	LOC	GPE-China
+203	217	Romana Prymuly	Roman Prymula	PER	PER-Roman-Prymula
+602	613	koronavirem	koronavirus	EVT	EVT-Covid-19
+621	632	koronavirus	koronavirus	EVT	EVT-Covid-19
+898	910	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+1043	1048	Krétu	Kréta	LOC	LOC-Crete
+1074	1079	Česku	Česko	LOC	GPE-Czech-Republic
+1106	1111	covid	covid	EVT	EVT-Covid-19
+1170	1191	Ústřední krizový štáb	Ústřední krizový štáb	ORG	ORG-Ustredni-krizovy-stab
+1245	1261	Romanu Prymulovi	Roman Prymula	PER	PER-Roman-Prymula
+1290	1296	Hradem	Hrad	LOC	LOC-Prague-Castle
+1517	1543	Vojenské lékařské akademie	Vojenská lékařská akademie	ORG	ORG-Vojenska-lekarska-akademie
+1558	1611	Fakulty vojenského zdravotnictví na Univerzitě obrany	Fakulta vojenského zdravotnictví na Univerzitě obrany	ORG	ORG-Fakulta-vojenskeho-zdravotnictvi-na-univerzite-obrany
+1686	1701	prasečí chřipky	prasečí chřipka	EVT	EVT-Swine-Influenza
+1715	1722	Prymula	Prymula	PER	PER-Roman-Prymula
+1938	1943	Česko	Česko	LOC	GPE-Czech-Republic
+2133	2138	Praze	Praha	LOC	GPE-Prague
+2172	2184	Leoše Hegera	Leoš Heger	PER	PER-Leos-Heger
+2186	2192	TOP 09	TOP 09	ORG	ORG-TOP-09-political-party-CZ
+2199	2206	Prymulu	Prymula	PER	PER-Roman-Prymula
+2275	2297	Královéhradeckém kraji	Královéhradecký kraj	LOC	GPE-Hradec-Kralove-region
+2299	2306	Prymula	Prymula	PER	PER-Roman-Prymula
+2360	2364	SPOZ	SPOZ	ORG	ORG-SPOZ-Czech-political-party
+2423	2431	Hegerovi	Heger	PER	PER-Leos-Heger

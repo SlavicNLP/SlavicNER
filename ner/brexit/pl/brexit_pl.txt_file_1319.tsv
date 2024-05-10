@@ -1,0 +1,17 @@
+50	56	Brexit	Brexit	EVT	EVT-Brexit
+83	86	USA	USA	LOC	GPE-USA
+190	213	Brytyjska Izba Handlowa	Brytyjska Izba Handlowa	ORG	ORG-British-Chambers-of-Commerce
+287	313	Brytyjskiej Izby Handlowej	Brytyjska Izba Handlowa	ORG	ORG-British-Chambers-of-Commerce
+315	318	BCC	BCC	ORG	ORG-British-Chambers-of-Commerce
+331	354	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+478	489	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+554	561	Reuters	Reuters	ORG	ORG-Reuters
+663	665	G7	G7	ORG	ORG-G7
+732	739	Wyspach	Wyspy	LOC	GPE-Great-Britain
+975	978	BCC	BCC	ORG	ORG-British-Chambers-of-Commerce
+1046	1054	brexitem	Brexit	EVT	EVT-Brexit
+1081	1088	Ameryką	Ameryka	LOC	GPE-USA
+1090	1101	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1115	1132	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1264	1271	Londynu	Londyn	LOC	GPE-London
+1274	1276	UE	UE	ORG	ORG-European-Union

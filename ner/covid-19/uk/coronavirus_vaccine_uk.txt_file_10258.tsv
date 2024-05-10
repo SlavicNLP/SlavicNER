@@ -1,0 +1,28 @@
+0	6	Pfizer	Pfizer	ORG	ORG-Pfizer
+39	47	COVID-19	COVID-19	EVT	EVT-Covid-19
+50	56	Європу	Європа	LOC	LOC-Europe
+61	69	Норвегії	Норвегія	LOC	GPE-Norway
+116	122	Pfizer	Pfizer	ORG	ORG-Pfizer
+233	239	Pfizer	Pfizer	ORG	ORG-Pfizer
+327	333	Європу	Європа	LOC	LOC-Europe
+354	394	інституті громадського здоров'я Норвегії	інститут громадського здоров'я Норвегії	ORG	ORG-Norwegian-Institute-of-Public-Health
+426	433	Reuters	Reuters	ORG	ORG-Reuters
+464	470	Pfizer	Pfizer	ORG	ORG-Pfizer
+499	507	Норвегію	Норвегія	LOC	GPE-Norway
+510	516	Європу	Європа	LOC	LOC-Europe
+578	586	Норвегії	Норвегія	LOC	GPE-Norway
+633	639	Pfizer	Pfizer	ORG	ORG-Pfizer
+719	727	Норвегії	Норвегія	LOC	GPE-Norway
+772	778	Pfizer	Pfizer	ORG	ORG-Pfizer
+781	789	BioNTech	BioNTech	ORG	ORG-BioNTech
+907	910	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+955	962	Україна	Україна	LOC	GPE-Ukraine
+971	976	COVAX	COVAX	PRO	PRO-Covax-initiative
+1022	1027	COVAX	COVAX	PRO	PRO-Covax-initiative
+1028	1035	Україна	Україна	LOC	GPE-Ukraine
+1129	1135	Pfizer	Pfizer	ORG	ORG-Pfizer
+1136	1144	BioNTech	BioNTech	ORG	ORG-BioNTech
+1149	1156	Moderna	Moderna	ORG	ORG-Moderna
+1220	1228	COVID-19	COVID-19	EVT	EVT-Covid-19
+1372	1392	Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+1432	1438	ТСН.ua	ТСН.ua	PRO	PRO-TSN.ua

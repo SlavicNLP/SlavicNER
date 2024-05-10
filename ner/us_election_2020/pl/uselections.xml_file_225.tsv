@@ -1,0 +1,52 @@
+0	3	USA	USA	LOC	GPE-USA
+32	38	Trumpa	Trump	PER	PER-Donald-Trump
+41	47	Bidena	Biden	PER	PER-Joe-Biden
+74	83	Biały Dom	Biały Dom	LOC	LOC-White-House
+133	145	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+146	158	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+188	207	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+209	220	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+222	230	Michigan	Michigan	LOC	GPE-Michigan
+236	245	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+247	256	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+257	266	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+286	290	Ohio	Ohio	LOC	GPE-Ohio
+293	304	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+356	361	Trump	Trump	PER	PER-Donald-Trump
+364	369	Biden	Biden	PER	PER-Joe-Biden
+423	441	Wschodnim Wybrzeżu	Wschodnie Wybrzeże	LOC	LOC-USA-East-Coast
+444	463	Środkowym Zachodzie	Środkowy Zachód	LOC	LOC-Midwestern-United-States
+506	514	Scranton	Scranton	LOC	GPE-Scranton
+517	528	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+581	588	Kenoshę	Kenosha	LOC	GPE-Kenosha
+591	600	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+659	671	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+728	734	Bidena	Biden	PER	PER-Joe-Biden
+920	932	koronawirusa	koronawirus	EVT	EVT-Covid-19
+944	950	Bidena	Biden	PER	PER-Joe-Biden
+1032	1053	Święta Dziękczynienia	Święto Dziękczynienia	EVT	EVT-Thanksgiving-Day
+1060	1070	Wielkanocy	Wielkanoc	EVT	EVT-Easter
+1077	1094	Bożego Narodzenia	Boże Narodzenie	EVT	EVT-Christmas
+1101	1116	Czwartego Lipca	Czwarty Lipca	EVT	EVT-Independence-Day
+1202	1207	Biden	Biden	PER	PER-Joe-Biden
+1348	1360	Białego Domu	Biały Dom	LOC	LOC-White-House
+1446	1454	Covid-19	Covid-19	EVT	EVT-Covid-19
+1464	1474	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1552	1572	Anthony'ego Fauciego	Anthony Fauci	PER	PER-Anthony-Fauci
+1583	1588	Trump	Trump	PER	PER-Donald-Trump
+1611	1619	Fauciego	Fauci	PER	PER-Anthony-Fauci
+1678	1686	Fauciego	Fauci	PER	PER-Anthony-Fauci
+1698	1704	Trumpa	Trump	PER	PER-Donald-Trump
+1762	1771	Cleveland	Cleveland	LOC	GPE-Cleveland
+1803	1824	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1845	1848	USA	USA	LOC	GPE-USA
+2081	2093	koronawirusa	koronawirus	EVT	EVT-Covid-19
+2113	2122	Biały Dom	Biały Dom	LOC	LOC-White-House
+2172	2177	Trump	Trump	PER	PER-Donald-Trump
+2248	2253	Biden	Biden	PER	PER-Joe-Biden
+2284	2294	Wilmington	Wilmington	LOC	GPE-Wilmington
+2304	2312	Delaware	Delaware	LOC	GPE-Delaware
+2491	2503	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+2512	2522	Demokracie	Demokrata	PER	ORG-Democratic-Party-USA
+2668	2673	Biden	Biden	PER	PER-Joe-Biden
+2696	2701	Trump	Trump	PER	PER-Donald-Trump

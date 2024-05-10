@@ -1,0 +1,42 @@
+360	368	Немецкий	немецкий	LOC	GPE-Germany
+369	378	«Шпигель»	Шпигель	PRO	PRO-Der-Spiegel
+458	464	Трампа	Трам	PER	PER-Donald-Trump
+467	474	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+505	508	США	США	LOC	GPE-USA
+570	583	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+601	610	WikiLeaks	WikiLeaks	PRO	PRO-Wikileaks
+664	679	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+806	813	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+906	915	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+1194	1201	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+1249	1252	США	США	LOC	GPE-USA
+1253	1259	Трампа	Трам	PER	PER-Donald-Trump
+1341	1346	Трамп	Трамп	PER	PER-Donald-Trump
+1401	1408	Америки	Америка	LOC	GPE-USA
+1708	1720	«Лиги плюща»	«Лига плюща»	ORG	ORG-The-Ivy-League
+2073	2076	США	США	LOC	GPE-USA
+2317	2329	американской	американская	LOC	GPE-USA
+2671	2690	Институт выборщиков	Институт выборщиков	ORG	ORG-United-States-Electoral-College
+3021	3029	конгресс	Конгресс	ORG	ORG-United-States-Congress
+3439	3463	22 президентских выборах	22 президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+3466	3469	США	США	LOC	GPE-USA
+3735	3743	демократ	демократ	PER	ORG-Democratic-Party-USA
+3744	3757	Сэмюэл Тилден	Сэмюэл Тилден	PER	PER-Samuel-Jones-Tilden
+3870	3877	Тилдена	Тилден	PER	PER-Samuel-Jones-Tilden
+3880	3885	Хейса	Хейс	PER	PER-Rutherford-Hayes
+3983	3996	республиканец	республиканец	PER	ORG-Republican-Party-USA
+3997	4011	Резерфорд Хейс	Резерфорд Хейс	PER	PER-Rutherford-Hayes
+4044	4061	Реконструкции Юга	Реконструкция Юга	EVT	EVT-The-Reconstruction-era
+4101	4118	Гражданской войны	Гражданская война	EVT	EVT-USA-Civil-War
+4162	4165	Юге	Юг	LOC	LOC-Southern-States-of-America
+4748	4751	США	США	LOC	GPE-USA
+5733	5736	США	США	LOC	GPE-USA
+6157	6164	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+6226	6239	республиканец	республиканец	PER	ORG-Republican-Party-USA
+6240	6248	Джеб Буш	Джеб Буш	PER	PER-Jeb-Bush
+6268	6275	Джорджу	Джордж	PER	PER-George-Bush-Jr
+6315	6322	Флориде	Флорида	LOC	GPE-Florida
+6736	6746	демократов	демократ	PER	ORG-Democratic-Party-USA
+6898	6905	Америке	Америка	LOC	GPE-USA
+6993	7002	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+7289	7296	Америке	Америка	LOC	GPE-USA

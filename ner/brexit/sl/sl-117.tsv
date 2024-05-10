@@ -1,0 +1,18 @@
+0	15	Britanska vlada	Britanska vlada	ORG	ORG-British-Government
+29	35	brexit	brexit	EVT	EVT-Brexit
+81	90	Laburisti	Laburisti	PER	ORG-Labour-Party-UK
+185	197	Yellowhammer	Yellowhammer	EVT	EVT-Operation-Yellowhammer
+214	220	brexit	brexit	EVT	EVT-Brexit
+517	532	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+648	666	Rokavskega preliva	Rokavski preliv	LOC	LOC-English-Channel
+782	791	Laburisti	Laburisti	PER	ORG-Labour-Party-UK
+820	829	Laburisti	Laburisti	PER	ORG-Labour-Party-UK
+932	944	Keir Starmer	Keir Starmer	PER	PER-Keir-Starmer
+1013	1020	brexita	brexit	EVT	EVT-Brexit
+1136	1154	Britanski poslanci	Britanski poslanci	PER	PER-UK-MP
+1262	1273	Ben Wallace	Ben Wallace	PER	PER-Chris-Wallace
+1344	1351	brexita	brexit	EVT	EVT-Brexit
+1557	1569	Michael Gove	Michael Gove	PER	PER-Michael-Gove
+1607	1613	brexit	brexit	EVT	EVT-Brexit
+1728	1742	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1859	1872	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson

@@ -1,0 +1,13 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+55	57	EU	EU	ORG	ORG-European-Union
+60	66	Putina	Putin	PER	PER-Vladimir-Putin
+68	82	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+104	106	EU	EU	ORG	ORG-European-Union
+163	181	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+267	274	Moskvou	Moskva	LOC	GPE-Moscow
+299	314	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+410	424	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+531	545	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+593	599	Ruskem	Rusko	LOC	GPE-Russia
+602	604	EU	EU	ORG	ORG-European-Union
+620	632	Donald Trump	Donald Trump	PER	PER-Donald-Trump

@@ -1,0 +1,38 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+76	93	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+96	113	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+117	125	Brexicie	Brexit	EVT	EVT-Brexit
+139	148	Warszawie	Warszawa	LOC	GPE-Warsaw
+203	253	Zrzeszenia Międzynarodowych Przewoźników Drogowych	Zrzeszenie Międzynarodowych Przewoźników Drogowych	ORG	ORG-ZMPD-Zrzeszenie-Międzynarodowych-Przewoźn
+256	262	Polsce	Polska	LOC	GPE-Poland
+263	273	Jan Buczek	Jan Buczek	PER	PER-Jan-Buczek
+283	289	Brexit	Brexit	EVT	EVT-Brexit
+428	443	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+446	461	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+486	494	Brexitem	Brexit	EVT	EVT-Brexit
+570	586	Kanału La Manche	Kanał La Manche	LOC	LOC-English-Channel
+633	650	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+653	659	Polsce	Polska	LOC	GPE-Poland
+660	674	Jonathan Knott	Jonathan Knott	PER	PER-Jonathan-Knott
+819	840	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+890	894	Unią	Unia	ORG	ORG-European-Union
+1139	1147	Brukselą	Bruksela	LOC	GPE-Brussles
+1188	1195	Londynu	Londyn	LOC	GPE-London
+1256	1272	Kanału La Manche	Kanał La Manche	LOC	LOC-English-Channel
+1323	1325	UE	UE	ORG	ORG-European-Union
+1415	1439	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+1507	1523	Europy Środkowej	Europa Środkowa	LOC	LOC-Central-Europe
+1526	1536	Wschodniej	Wschodnia	LOC	LOC-Western-Europe
+1569	1584	Rządy Pieniądza	Rządy Pieniądza	PRO	PRO-Rządy-Pieniądza
+1585	1602	Marcin Roszkowski	Marcin Roszkowski	PER	PER-Marcin-Roszkowski
+1604	1621	Klub Jagielloński	Klub Jagielloński	ORG	ORG-Jagiellonian-Club
+1624	1638	Michał Kobosko	Michał Kobosko	PER	PER-Michał-Kobosko
+1640	1656	Atlantic Council	Atlantic Council	ORG	ORG-Atlantic-Council
+1660	1677	Jarosław Nowrotek	Jarosław Nowrotek	PER	PER-Jarosław-Nowrotek
+1679	1720	Centralny Ośrodek Informacji Gospodarczej	Centralny Ośrodek Informacji Gospodarczej	ORG	ORG-Central-Business-Information-Centre
+1749	1756	EasyJet	EasyJet	ORG	ORG-EasyJet
+1803	1817	EasyJet Europe	EasyJet Europe	ORG	ORG-EasyJet-Europe
+1839	1846	Austrii	Austria	LOC	GPE-Austria
+1916	1933	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1945	1962	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1966	1975	Wspólnoty	Wspólnota	ORG	ORG-European-Union

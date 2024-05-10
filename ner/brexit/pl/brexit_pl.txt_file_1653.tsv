@@ -1,0 +1,19 @@
+0	6	Londyn	Londyn	LOC	GPE-London
+103	105	EY	EY	ORG	ORG-EY
+193	200	Europie	Europie	LOC	LOC-Europe
+351	377	Europy Środkowo-Wschodniej	Europy Środkowo-Wschodniej	LOC	LOC-Central-Eastern-Europe
+387	393	Polsce	Polska	LOC	GPE-Poland
+474	510	Polskiej Agencji Inwestycji i Handlu	Polska Agencja Inwestycji i Handlu	ORG	ORG-Polish-Investment-and-Trade-Agency
+544	550	Polsce	Polska	LOC	GPE-Poland
+666	683	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+685	694	Niemczech	Niemcy	LOC	GPE-Germany
+700	707	Francji	Francja	LOC	GPE-France
+732	738	brexit	Brexit	EVT	EVT-Brexit
+804	821	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1008	1014	Londyn	Londyn	LOC	GPE-London
+1077	1083	Paryża	Paryż	LOC	GPE-Paris
+1116	1118	EY	EY	ORG	ORG-EY
+1200	1216	Europa Zachodnia	Europa Zachodnia	LOC	LOC-Western-Europe
+1239	1244	Chiny	Chiny	LOC	GPE-China
+1268	1293	Europę Środkowo-Wschodnią	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+1309	1325	Amerykę Północną	Ameryka Północna	LOC	LOC-North-America

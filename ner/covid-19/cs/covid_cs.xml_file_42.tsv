@@ -1,0 +1,26 @@
+65	76	koronavirus	koronavirus	EVT	EVT-Covid-19
+227	233	covidu	covid	EVT	EVT-Covid-19
+694	700	Pfizer	Pfizer	ORG	ORG-Pfizer
+724	732	BioNTech	BioNTech	ORG	ORG-BioNTech
+785	792	Moderna	Moderna	ORG	ORG-Moderna
+849	865	Zdeněk Hostomský	Zdeněk Hostomský	PER	PER-Zdenek-Hostomsky
+875	923	Ústavu organické chemie a biochemie Akademie věd	Ústav organické chemie a biochemie Akademie věd	ORG	ORG-Ustav-organicke-chemie-biochemie-akademie-ved
+956	971	Antonína Holého	Antonín Holý	PER	PER-Antonin-Holy
+990	993	HIV	HIV	EVT	EVT-AIDS
+1712	1719	Amerika	Amerika	LOC	GPE-USA
+1783	1797	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2069	2076	Amerika	Amerika	LOC	GPE-USA
+2156	2162	Evropy	Evropa	LOC	LOC-Europe
+2174	2179	Němci	Němci	PER	GPE-Germany
+2189	2197	BioNTech	BioNTech	ORG	ORG-BioNTech
+2200	2208	Pfizerem	Pfizer	ORG	ORG-Pfizer
+2247	2254	Pfizeru	Pfizer	ORG	ORG-Pfizer
+2283	2290	Britové	Britové	PER	GPE-Great-Britain
+2312	2318	Izrael	Izrael	LOC	GPE-Israel
+2333	2346	Spojené státy	Spojené státy	LOC	GPE-USA
+2348	2361	Evropská unie	Evropská unie	ORG	ORG-European-Union
+2389	2398	Američané	Američané	PER	GPE-USA
+2400	2408	Izraelci	Izraelci	PER	GPE-Israel
+2410	2417	Britové	Britové	PER	GPE-Great-Britain
+2498	2505	Pfizeru	Pfizer	ORG	ORG-Pfizer
+2508	2515	Moderny	Moderna	ORG	ORG-Moderna

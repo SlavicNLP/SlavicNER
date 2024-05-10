@@ -1,0 +1,22 @@
+0	2	ЕК	ЕК	ORG	ORG-European-Commission
+184	209	Европейската комисия (ЕК)	Европейска комисия (ЕК)	ORG	ORG-European-Commission
+374	399	пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+429	463	Временната рамка за държавна помощ	Временна рамка за държавна помощ	PRO	PRO-State-Aid-Temporary-Framework
+475	477	ЕС	ЕС	ORG	ORG-European-Union
+480	500	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+568	584	Временната рамка	Временна рамка	PRO	PRO-State-Aid-Temporary-Framework
+743	753	пандемията	пандемия	EVT	EVT-Pandemic
+807	809	ЕК	ЕК	ORG	ORG-European-Commission
+1105	1173	Министерство на транспорта, информационните технологии и съобщенията	Министерство на транспорта, информационните технологии и съобщенията	ORG	ORG-Ministry-of-Transport-Buglaria
+1373	1382	Комисията	Комисия	ORG	ORG-European-Commission
+1557	1561	ДФЕС	ДФЕС	PRO	PRO-TFUE-Treaty-on-the-Functioning-of-the-European-Union
+1577	1593	Временната рамка	Временна рамка	PRO	PRO-State-Aid-Temporary-Framework
+1684	1686	ЕК	ЕК	ORG	ORG-European-Commission
+1712	1719	Брюксел	Брюксел	LOC	GPE-Brussles
+1730	1738	България	България	LOC	GPE-Bulgaria
+1797	1812	Зелената сделка	Зелена сделка	PRO	PRO-European-Green-Deal
+2074	2088	Росен Желязков	Росен Желязков	PER	PER-Rosen-Zhelyazkov
+2116	2131	Лъчезар Борисов	Лъчезар Борисов	PER	PER-Lachezar-Borisov
+2189	2215	транспортното министерство	транспортно министерство	ORG	ORG-Ministry-of-Transport-Buglaria
+2294	2421	Подкрепа за малки и средни предприятия, извършващи автобусни превози, за преодоляване на икономическите последствия от COVID-19	Подкрепа за малки и средни предприятия, извършващи автобусни превози, за преодоляване на икономическите последствия от COVID-19	PRO	PRO-Auto-Support-BG
+2565	2591	транспортното министерство	транспортно министерство	ORG	ORG-Ministry-of-Transport-Buglaria

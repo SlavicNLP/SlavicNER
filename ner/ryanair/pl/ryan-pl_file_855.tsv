@@ -1,0 +1,15 @@
+31	39	Zaventem	Zaventem	LOC	LOC-Brussel-Airport-Zaventem
+393	400	EasyJet	EasyJet	ORG	ORG-EasyJet
+402	416	Etihad Airways	Etihad Airways	ORG	ORG-British-Airways
+418	424	Iberii	Iberia	ORG	ORG-Iberia
+426	429	KLM	KLM	ORG	ORG-KLM
+431	439	Ryanaira	Ryanair	ORG	ORG-Ryanair
+441	453	TAP Portugal	TAP Portugal	ORG	ORG-TAP-Air-Portugal
+455	462	TUI fly	TUI fly	ORG	ORG-Tui-Airways
+468	484	Turkish Airlines	Turkish Airlines	ORG	ORG-Turkish-Airlines
+563	570	PLL LOT	PLL LOT	ORG	ORG-PLL-LOT
+601	612	Aviapartner	Aviapartner	ORG	ORG-Aviapartners
+799	804	Belga	Belga	ORG	ORG-Belga
+922	933	Aviapartner	Aviapartner	ORG	ORG-Aviapartners
+1000	1008	Zaventem	Zaventem	LOC	LOC-Brussel-Airport-Zaventem
+1049	1055	Belgii	Belgia	LOC	GPE-Belgium

@@ -1,0 +1,22 @@
+0	9	Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+44	55	Izby Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+60	67	brexitu	Brexit	EVT	EVT-Brexit
+178	195	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+320	328	brexicie	Brexit	EVT	EVT-Brexit
+507	514	brexitu	Brexit	EVT	EVT-Brexit
+611	621	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+669	690	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+748	759	Theresy May	Theresa May	PER	PER-Theresa-May
+1036	1048	Izbie Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+1207	1224	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1252	1267	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1381	1390	Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+1849	1862	Daily Express	Daily Express	PRO	PRO-Daily-Express
+1945	1956	Izby Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+2037	2039	UE	UE	ORG	ORG-European-Union
+2056	2058	UE	UE	ORG	ORG-European-Union
+2157	2172	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2201	2203	UE	UE	ORG	ORG-European-Union
+2266	2273	Londynu	Londyn	LOC	GPE-London
+2274	2285	Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa
+2287	2290	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

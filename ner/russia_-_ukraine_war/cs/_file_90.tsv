@@ -1,0 +1,9 @@
+12	18	Archer	Archer	PER	PER-Nick-Archer
+22	30	Británii	Británie	LOC	GPE-Great-Britain
+399	414	České republice	Česká republika	LOC	GPE-Czech-Republic
+484	501	Mnichovské dohody	Mnichovská dohoda	EVT	EVT-Munich-Agreement
+715	735	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+737	743	Kanady	Kanada	LOC	GPE-Canada
+745	754	Austrálie	Austrálie	LOC	GPE-Australia
+756	770	Nového Zélandu	Nový Zéland	LOC	GPE-New-Zealand
+912	936	Vláda Jejího Veličenstva	Vláda Jejího Veličenstva	ORG	ORG-British-Government

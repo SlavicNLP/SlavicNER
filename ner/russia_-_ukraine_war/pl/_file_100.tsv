@@ -1,0 +1,146 @@
+30	38	Rosyjscy	Rosyjski	LOC	GPE-Russia
+56	63	Putinem	Putin	PER	PER-Vladimir-Putin
+172	192	Federacji Rosyjskiej	Federacja Rosyjska	LOC	GPE-Russia
+252	266	Dumę Państwową	Duma Państwowa	ORG	ORG-Russia-The-State-Duma
+268	282	Radę Federacji	Rada Federacji	ORG	ORG-Council-of-Federation-Russia
+368	401	"""operacji specjalnej"" na Ukrainie"	"""operacja specjalna"" na Ukrainie"	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+424	429	Kreml	Kreml	LOC	LOC-Kremlin
+478	485	Ukrainy	Ukraina	LOC	GPE-Ukraine
+487	507	operacji specjalnych	operacja spcjalna	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+510	517	Donbasu	Donbas	LOC	LOC-Donbass
+680	695	Dmitrij Pieskow	Dmitrij Pieskow	PER	PER-Dmitrij-Pieskow
+714	720	Kremla	Kreml	LOC	LOC-Kremlin
+822	842	Federacji Rosyjskiej	Federacja Rosyjska	LOC	GPE-Russia
+876	881	Rosji	Rosja	LOC	GPE-Russia
+895	900	Rosji	Rosja	LOC	GPE-Russia
+901	912	W.W. Putina	W. W. Putin	PER	PER-Vladimir-Putin
+916	924	Ukrainie	Ukraina	LOC	GPE-Ukraine
+943	968	aneksji Krymu w 2014 roku	aneksja Krymu w 2014 roku	EVT	EVT-Annexation-of-Crimea
+1069	1111	Ministerstwie Kultury Federacji Rosyjskiej	Ministerstwo Kultury Federacji Rosyjskiej	ORG	ORG-Russian-Ministry-of-Culture
+1303	1311	Pieskowa	Pieskow	PER	PER-Dmitrij-Pieskow
+1339	1345	Rosjan	Rosjanie	PER	GPE-Russia
+1688	1690	FR	FR	LOC	GPE-Russia
+1691	1709	Władimir Miedinski	Władimir Miedinski	PER	PER-Vladimir-Miedinski
+1779	1788	Zachodzie	Zachód	LOC	LOC-West
+1790	1795	Rosja	Rosja	LOC	GPE-Russia
+1835	1853	Siergiej Kirijenko	Siergiej Kirijenko	PER	PER-Siergiej-Kirijenko
+1907	1927	Federacji Rosyjskiej	Federacja Rosyjska	LOC	GPE-Russia
+1945	1950	Rosja	Rosja	LOC	GPE-Russia
+2217	2234	Walerij Giergijew	Walerij Giergijew	PER	PER-Walerij-Giergijew
+2288	2309	Herberta von Karajana	Herbert von Karajan	PER	PER-Herbert-von-Karajan
+2336	2341	NSDAP	NSDAP	ORG	ORG-NSDAP
+2390	2400	III Rzeszy	III Rzesza	LOC	GPE-Nazi-Germany
+2481	2490	Giergijew	Giergijew	PER	PER-Walerij-Giergijew
+2509	2515	Forbes	Forbes	PRO	PRO-Forbes
+2674	2683	Nawalnego	Nawalny	PER	PER-Alexei-Navalny
+2716	2727	Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+2739	2753	Lincoln Center	Lincoln Center	LOC	LOC-Lincoln-Center
+2939	2946	Wenecji	Wenecja	LOC	GPE-Venice
+2951	2966	Placu św. Marka	Plac św. Marka	LOC	LOC-Piazza-San-Marco
+2983	2995	Canal Grande	Canal Grande	LOC	LOC-Canal-Grande-Venice
+2998	3015	Palazzo Barbarigo	Palazzo Barbarigo	LOC	LOC-Palazzo-Barbarigo-Venice
+3036	3060	Palazzo da Mula Morosini	Palazzo da Mula Morosini	LOC	LOC-Palazzo-da-Mula-Morosini-Venice
+3090	3100	Giergijewa	Giergijew	PER	PER-Walerij-Giergijew
+3207	3225	Teatru Maryjskiego	Teatr Maryjski	LOC	LOC-Mariinsky-Theatre
+3581	3589	La Scala	La Scala	ORG	ORG-La-Scala
+3591	3626	Orkiestra Filharmonii Monachijskiej	Orkiestra Filharmonii Monachijskiej	ORG	ORG-Munich-Philharmonic-Orchestra
+3631	3660	Vienna Philharmonic Orchestra	Vienna Philharmonic Orchestra	ORG	ORG-Vienna-Philharmonic-Orchestra
+3682	3691	Giergijew	Giergijew	PER	PER-Walerij-Giergijew
+3724	3730	Putina	Putin	PER	PER-Vladimir-Putin
+3732	3737	Rosja	Rosja	LOC	GPE-Russia
+3776	3785	Giergijew	Giergijew	PER	PER-Walerij-Giergijew
+3838	3851	Teatru Kirowa	Teatr Kirowa	LOC	LOC-Mariinsky-Theatre
+3889	3897	Maryjski	Maryjski	LOC	LOC-Mariinsky-Theatre
+3902	3907	Putin	Putin	PER	PER-Vladimir-Putin
+4044	4060	wojska rosyjskie	wojska rosyjskie	ORG	ORG-Russian-Armed-Forces
+4071	4077	Gruzji	Gruzja	LOC	GPE-Georgia
+4105	4123	Osetii Południowej	Osetia Południowa	LOC	GPE-South-Ossetia
+4125	4134	Giergijew	Giergijew	PER	PER-Walerij-Giergijew
+4136	4146	Osetyjczyk	Osetyjczyk	LOC	GPE-South-Ossetia
+4177	4205	Orkiestry Teatru Maryjskiego	Orkiestra Teatru Maryjskiego	ORG	ORG-Mariinsky-Theatre-Orchestra
+4208	4217	Cchinwale	Cchinwali	LOC	LOC-Tskhinvali
+4247	4257	Osetyjczyk	Osetyjczyk	LOC	GPE-South-Ossetia
+4310	4315	Rosji	Rosja	LOC	GPE-Russia
+4373	4379	Putina	Putin	PER	PER-Vladimir-Putin
+4635	4641	Rosjan	Rosjanie	PER	GPE-Russia
+4642	4647	Krymu	Krym	LOC	GPE-Crimea
+4762	4767	Rosja	Rosja	LOC	GPE-Russia
+4813	4822	Giergijew	Giergijew	PER	PER-Walerij-Giergijew
+4887	4905	Związku Radzieckim	Związek Radziecki	LOC	GPE-Soviet-Union-USSR
+4972	4982	Prokofiewa	Prokofiew	PER	PER-Sergei-Prokofiev
+4985	4998	Szostakowicza	Szostakowicz	PER	PER-Dmitri-Shostakovich
+5123	5135	Szostakowicz	Szostakowicz	PER	PER-Dmitri-Shostakovich
+5138	5147	Prokofiew	Prokofiew	PER	PER-Sergei-Prokofiev
+5179	5186	Zachodu	Zachód	LOC	LOC-West
+5229	5241	The Guardian	The Guardian	PRO	PRO-The-Guardian
+5279	5284	Rosji	Rosja	LOC	GPE-Russia
+5332	5337	Putin	Putin	PER	PER-Vladimir-Putin
+5369	5382	Teatr Bolszoj	Teatr Bolszoj	LOC	LOC-Bolshoi-Theatre
+5385	5399	Teatr Maryjski	Teatr Maryjski	LOC	LOC-Mariinsky-Theatre
+5567	5577	Giergijewa	Giergijew	PER	PER-Walerij-Giergijew
+5587	5601	Denis Matsujew	Denis Matsujew	PER	PER-Denis-Matsuev
+5853	5858	Rosji	Rosja	LOC	GPE-Russia
+5958	5963	Kreml	Kreml	LOC	LOC-Kremlin
+6044	6049	Rosja	Rosja	LOC	GPE-Russia
+6150	6155	ziemi	ziemia	LOC	LOC-Earth
+6630	6636	Putina	Putin	PER	PER-Vladimir-Putin
+6887	6896	Giergijew	Giergijew	PER	PER-Walerij-Giergijew
+6930	6938	Matsujew	Matsujew	PER	PER-Denis-Matsuev
+6957	6977	Gwiazdy nad Bajkałem	Gwiazdy nad Bajkałem	EVT	EVT-Stars-on-Baikal-Festival
+7069	7102	Zagórski Irkucki Teatr Regionalny	Zagórski Irkucki Teatr Regionalny	LOC	LOC-Irkutsk-Theather
+7113	7118	Rosja	Rosja	LOC	GPE-Russia
+7221	7235	Nikołaj Baskow	Nikołaj Baskow	PER	PER-Nikola-Baskov
+7432	7437	Rosji	Rosja	LOC	GPE-Russia
+7580	7587	Zachodu	Zachód	LOC	LOC-West
+7739	7756	operacja rosyjska	operacja rosyjska	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+7758	7775	napaść na Ukrainę	napaść na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+7856	7885	specjalnej operacji wojskowej	specjalna operacja wojskowa	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+7921	7948	Karty Narodów Zjednoczonych	Karta Narodów Zjednoczonych	PRO	PRO-Charter-of-the-United-Nations
+8049	8054	Rosji	Rosja	LOC	GPE-Russia
+8068	8071	ONZ	ONZ	ORG	ORG-United-Nations
+8116	8121	Rosję	Rosja	LOC	GPE-Russia
+8145	8148	DRL	DRL	LOC	GPE-Donetsk-Peoples-Republic
+8151	8154	ŁRL	ŁRL	LOC	GPE-Luhansk-People's-Republic
+8156	8161	Rosja	Rosja	LOC	GPE-Russia
+8239	8246	Putinem	Putin	PER	PER-Vladimir-Putin
+8280	8286	Polsce	Polska	LOC	GPE-Poland
+8294	8304	9 kompania	9 kompania	PRO	PRO-The-9th-Company-Movie
+8306	8323	Fiodor Bondarczuk	Fiodor Bondarczuk	PER	PER-Fyodor-Bondarchuk
+8335	8341	Putina	Putin	PER	PER-Vladimir-Putin
+8343	8354	Jedna Rosja	Jedna Rosja	ORG	ORG-United-Russia
+8470	8477	Lenfilm	Lenfilm	ORG	ORG-Lenfilm
+8509	8515	Putina	Putin	PER	PER-Vladimir-Putin
+8652	8660	Lenfilmu	Lenfilm	ORG	ORG-Lenfilm
+8848	8855	Donbasu	Donbas	LOC	LOC-Donbass
+8896	8915	ministerstwa obrony	ministerstwo obrony	ORG	ORG-Russian-Ministry-of-Defence
+8918	8925	kultury	kultury	ORG	ORG-Russian-Ministry-of-Culture
+9138	9151	Anna Netrebko	Anna Netrebko	PER	PER-Anna-Netrebko
+9241	9257	Julii Cziczeriny	Julia Cziczerina	PER	PER-Yulia-Chicherina
+9278	9286	Doniecku	Donieck	LOC	GPE-Donetsk
+9303	9306	DRL	DRL	LOC	GPE-Donetsk-Peoples-Republic
+9318	9323	Husky	Husky	PER	PER-Dmitry-Nikolayevich-Kuznetsov-Husky
+9349	9357	Netrebko	Netrebko	PER	PER-Anna-Netrebko
+9399	9405	Rosjan	Rosjanie	PER	GPE-Russia
+9463	9481	Metropolitan Opera	Metropolitan Opera	LOC	LOC-Metropolitan-Opera
+9591	9607	wojny w Ukrainie	wojna w Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+9679	9687	Netrebko	Netrebko	PER	PER-Anna-Netrebko
+9728	9803	parlamentu konfederacji samozwańczych republik ludowych Doniecka i Ługańska	parlament konfederacji samozwańczych republik ludowych Doniecka i Ługańska	ORG	ORG-Parliament-of-Novorossiya
+9832	9841	Noworosji	Noworosja	LOC	GPE-Novorossiya
+10000	10009	Facebooku	Facebook	PRO	PRO-Facebook
+10206	10211	Rosji	Rosja	LOC	GPE-Russia
+10253	10260	Zachodu	Zachód	LOC	LOC-West
+10328	10344	wojnę w Ukrainie	wojna w Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+10510	10515	Rosji	Rosja	LOC	GPE-Russia
+10750	10770	Opera w Nowosybirsku	Opera w Nowosybirsku	LOC	LOC-Novosibirsk-Opera
+11165	11180	Dumy Państwowej	Duma Państwowa	ORG	ORG-Russia-The-State-Duma
+11181	11199	Wiaczesław Wołodin	Wiaczesław Wołodin	PER	PER-Viacheslav-Volodin
+11224	11232	Netrebko	Netrebko	PER	PER-Anna-Netrebko
+11453	11455	FR	FR	LOC	GPE-Russia
+11473	11493	Swietłana Bezrodnaja	Swietłana Bezrodnaja	PER	PER-Svetlana-Bezrodnaya
+11511	11519	Rosjanie	Rosjanie	PER	GPE-Russia
+11529	11537	Donbasie	Donbas	LOC	LOC-Donbass
+11676	11694	Nikołaj Rastorguev	Nikołaj Rastorguev	PER	PER-Nikolay-Rastorguyev
+11760	11779	operacji specjalnej	operacja specjalna	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+11784	11792	Ukrainie	Ukraina	LOC	GPE-Ukraine
+11822	11827	Rosja	Rosja	LOC	GPE-Russia
+11932	11944	Ewa Zarzycka	Ewa Zarzycka	PER	PER-Ewa-Zarzycka

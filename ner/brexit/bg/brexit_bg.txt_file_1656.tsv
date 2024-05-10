@@ -1,0 +1,22 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+30	51	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+55	62	Брекзит	Брекзит	EVT	EVT-Brexit
+84	94	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+116	137	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+167	174	Брекзит	Брекзит	EVT	EVT-Brexit
+185	192	Ройтерс	Ройтерс	ORG	ORG-Reuters
+326	342	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+662	672	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+753	774	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+801	804	Мей	Мей	PER	PER-Theresa-May
+805	825	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+858	860	ЕС	ЕС	ORG	ORG-European-Union
+866	873	Брекзит	Брекзит	EVT	EVT-Brexit
+1043	1046	Мей	Мей	PER	PER-Theresa-May
+1071	1085	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+1119	1126	News.bg	News.bg	PRO	PRO-News.bg
+1146	1160	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+1186	1232	Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+1276	1290	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+1539	1553	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+1635	1650	WEB MEDIA GROUP	Web media group	ORG	ORG-Web-Media-Group

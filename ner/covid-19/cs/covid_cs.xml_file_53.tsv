@@ -1,0 +1,22 @@
+12	19	Francii	Francie	LOC	GPE-France
+27	36	Macronova	Macron	PER	PER-Emmanuel-Macron
+87	94	Francie	Francie	LOC	GPE-France
+137	143	Pfizer	Pfizer	ORG	ORG-Pfizer
+146	154	BioNTech	BioNTech	ORG	ORG-BioNTech
+250	290	francouzského ministerstva zdravotnictví	francouzské ministerstvo zdravotnictví	ORG	ORG-Ministry-of-Health-France
+303	310	Německu	Německo	LOC	GPE-Germany
+355	363	Británii	Británie	LOC	GPE-Great-Britain
+513	528	Bruno Megarbane	Bruno Megarbane	PER	PER-Bruno-Megarbane
+602	614	Lariboisière	Lariboisière	LOC	LOC-Lariboisiere-Hospital
+659	666	Německo	Německo	LOC	GPE-Germany
+704	719	Jordan Bardella	Jordan Bardella	PER	PER-Jordan-Bardella
+774	790	Národní sdružení	Národní sdružení	ORG	ORG-National-Rally-FR
+792	794	RN	RN	ORG	ORG-National-Rally-FR
+805	817	Jean Rottner	Jean Rottner	PER	PER-Jean-Rottner
+849	858	Grand Est	Grand Est	LOC	LOC-GrandEst
+958	971	Yannick Jadot	Yannick Jadot	PER	PER-Yannick-Jadot
+1290	1303	Yannick Jadot	Yannick Jadot	PER	PER-Yannick-Jadot
+1330	1335	Paříž	Paříž	LOC	GPE-Paris
+1399	1418	Elisabeth Bouvetová	Elisabeth Bouvetová	PER	PER-Elisabeth-Bouvet
+1570	1579	Bouvetová	Bouvetová	PER	PER-Elisabeth-Bouvet
+1599	1611	France Inter	France Inter	PRO	PRO-France-Inter-broadcast-station

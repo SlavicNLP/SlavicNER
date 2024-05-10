@@ -1,0 +1,31 @@
+0	4	Киев	Киев	LOC	GPE-Kiev
+65	72	Украины	Украина	LOC	GPE-Ukraine
+131	133	ЕС	ЕС	ORG	ORG-European-Union
+134	140	Россия	Россия	LOC	GPE-Russia
+141	148	Украина	Украина	LOC	GPE-Ukraine
+183	189	REGNUM	REGNUM	ORG	ORG-REGNUM-News-Agency
+190	194	Киев	Киев	LOC	GPE-Kiev
+317	319	ЕС	ЕС	ORG	ORG-European-Union
+457	464	Украины	Украина	LOC	GPE-Ukraine
+513	520	Украины	Украина	LOC	GPE-Ukraine
+521	534	Павел Климкин	Павел Климкин	PER	PER-Pavlo-Klimkin
+625	627	ЕС	ЕС	ORG	ORG-European-Union
+700	707	Украины	Украина	LOC	GPE-Ukraine
+792	800	Климкина	Климкин	PER	PER-Pavlo-Klimkin
+845	850	Киева	Киев	LOC	GPE-Kiev
+975	984	ИА REGNUM	ИА REGNUM	ORG	ORG-REGNUM-News-Agency
+1015	1022	Берлине	Берлин	LOC	GPE-Berlin
+1029	1036	Россией	Россия	LOC	GPE-Russia
+1038	1051	Еврокомиссией	Еврокомиссия	ORG	ORG-European-Commission
+1054	1062	Украиной	Украина	LOC	GPE-Ukraine
+1193	1195	ЕС	ЕС	ORG	ORG-European-Union
+1196	1202	Россия	Россия	LOC	GPE-Russia
+1203	1210	Украина	Украина	LOC	GPE-Ukraine
+1274	1282	Брюсселе	Брюссель	LOC	GPE-Brussles
+1309	1315	Россия	Россия	LOC	GPE-Russia
+1365	1373	Брюсселе	Брюссель	LOC	GPE-Brussles
+1479	1495	Северный поток 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+1589	1596	Украину	Украина	LOC	GPE-Ukraine
+1620	1624	Киев	Киев	LOC	GPE-Kiev
+1960	1969	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1986	2002	Nord Stream OPAL	Nord Stream OPAL	PRO	PRO-Nord-Stream-Opal

@@ -1,0 +1,43 @@
+55	60	Kyjev	Kyjev	LOC	GPE-Kiev
+119	145	válku Ruska proti Ukrajině	válka Ruska proti Ukrajině	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+173	182	Ukrajinců	Ukrajinci	PER	GPE-Ukraine
+227	233	Evropě	Evropa	LOC	LOC-Europe
+249	284	ukrajinského ministerstva zahraničí	ukrajinské ministerstvo zahraničí	ORG	ORG-Ministry-of-Foreign-Affairs-Ukraine
+285	299	Oleg Nikolenko	Oleg Nikolenko	PER	PER-Oleg-Nikolenko
+376	381	Česku	Česko	LOC	GPE-Czech-Republic
+432	437	Čechů	Češi	PER	GPE-Czech-Republic
+459	468	Ukrajinců	Ukrajinci	PER	GPE-Ukraine
+537	543	Kolína	Kolín	LOC	GPE-Cologne
+546	551	Prahy	Praha	LOC	GPE-Prague
+620	629	Nikolenko	Nikolenko	PER	PER-Oleg-Nikolenko
+651	656	Praze	Praha	LOC	GPE-Prague
+718	734	Kolíně nad Rýnem	Kolín nad Rýnem	LOC	GPE-Koln-German-City
+779	784	Rusko	Rusko	LOC	GPE-Russia
+803	811	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+893	900	Německu	Německo	LOC	GPE-Germany
+903	918	České republice	Česká republika	LOC	GPE-Czech-Republic
+969	974	vládě	vláda	ORG	ORG-Government-of-the-Czech-Republic
+990	1008	Václavském náměstí	Václavské náměstí	LOC	LOC-Wenceslas-Square
+1011	1016	Praze	Praha	LOC	GPE-Prague
+1066	1093	Česká republika na 1. místě	Česká republika na 1. místě	EVT	EVT-Ceska-Republika-na-1-miste-protest
+1156	1171	Zuzana Majerová	Zuzana Majerová	PER	PER-Zuzana-Majerova
+1187	1196	Trikolóry	Trikolóra	ORG	ORG-Trikolora-political-party-CZ
+1216	1226	Volný blok	Volný blok	ORG	ORG-Volny-Blok-Political-Party
+1227	1240	Lubomír Volný	Lubomír Volný	PER	PER-Lubomir-Volny
+1244	1255	Josef Skála	Josef Skála	PER	PER-Josef-Jirasek
+1258	1291	Komunistické strany Čech a Moravy	Komunistická strana Čech a Moravy	ORG	ORG-Communist-Party-of-Czech-Republic
+1349	1357	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+1429	1436	Fialova	Fiala	PER	PER-Petr-Fiala
+1555	1570	České republiky	Česká republika	LOC	GPE-Czech-Republic
+1602	1605	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1623	1631	El Mundo	El Mundo	PRO	PRO-Mundo-Deportivo
+1653	1657	RTBF	RTBF	PRO	PRO-RTBF-TV-Channel
+1693	1700	Infobae	Infobae	PRO	PRO-Infrobae-Website
+1821	1832	české vládě	česká vláda	ORG	ORG-Government-of-the-Czech-Republic
+1866	1868	AP	AP	ORG	ORG-AP-The-Associated-Press
+1920	1925	vlády	vláda	ORG	ORG-Government-of-the-Czech-Republic
+1951	1962	Petra Fialy	Petr Fiala	PER	PER-Petr-Fiala
+2040	2045	Fiala	Fiala	PER	PER-Petr-Fiala
+2158	2173	České republiky	Česká republika	LOC	GPE-Czech-Republic
+2200	2202	AP	AP	ORG	ORG-AP-The-Associated-Press
+2234	2253	The Washington Post	The Washington Post	PRO	PRO-Washington-Post

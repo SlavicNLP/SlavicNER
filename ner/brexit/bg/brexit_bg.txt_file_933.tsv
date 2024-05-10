@@ -1,0 +1,36 @@
+6	13	Испания	Испания	LOC	GPE-Spain
+15	22	Брекзит	Брекзит	EVT	EVT-Brexit
+48	57	Гибралтар	Гибралтар	LOC	GPE-Gibraltar
+86	100	Алфонсо Дастис	Алфонсо Дастис	PER	PER-Alfonso-Dastis
+162	171	Гибралтар	Гибралтар	LOC	GPE-Gibraltar
+174	181	Испания	Испания	LOC	GPE-Spain
+208	215	Брекзит	Брекзит	EVT	EVT-Brexit
+239	245	Мадрид	Мадрид	LOC	GPE-Madrid
+286	296	Франс прес	Франс прес	ORG	ORG-France-Presse
+310	313	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+360	374	Великобритания	Великобритания	LOC	GPE-Great-Britain
+378	380	ЕС	ЕС	ORG	ORG-European-Union
+388	394	Дастис	Дастис	PER	PER-Alfonso-Dastis
+612	619	испанци	испанци	PER	GPE-Spain
+636	643	Испания	Испания	LOC	GPE-Spain
+801	812	гибралтарци	гибралтарци	PER	GPE-Gibraltar
+846	853	Испания	Испания	LOC	GPE-Spain
+905	919	Великобритания	Великобритания	LOC	GPE-Great-Britain
+966	975	Гибралтар	Гибралтар	LOC	GPE-Gibraltar
+1038	1044	Дастис	Дастис	PER	PER-Alfonso-Dastis
+1115	1124	Гибралтар	Гибралтар	LOC	GPE-Gibraltar
+1185	1199	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1203	1205	ЕС	ЕС	ORG	ORG-European-Union
+1273	1287	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1350	1364	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1516	1525	Гибралтар	Гибралтар	LOC	GPE-Gibraltar
+1550	1552	ЕС	ЕС	ORG	ORG-European-Union
+1555	1569	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1573	1581	Брекзита	Брекзит	EVT	EVT-Brexit
+1692	1701	Гибралтар	Гибралтар	LOC	GPE-Gibraltar
+1744	1750	Дастис	Дастис	PER	PER-Alfonso-Dastis
+1803	1812	Гибралтар	Гибралтар	LOC	GPE-Gibraltar
+1815	1822	Испания	Испания	LOC	GPE-Spain
+1865	1874	Гибралтар	Гибралтар	LOC	GPE-Gibraltar
+1886	1893	Испания	Испания	LOC	GPE-Spain
+1949	1958	Гибралтар	Гибралтар	LOC	GPE-Gibraltar

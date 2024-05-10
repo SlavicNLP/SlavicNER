@@ -1,0 +1,21 @@
+33	42	covida-19	covid-19	EVT	EVT-Covid-19
+105	121	Novi koronavirus	Novi koronavirus	EVT	EVT-Covid-19
+495	514	Christiana Drostena	Christian Drosten	PER	PER-Christian-Drosten
+536	543	Charite	Charite	LOC	LOC-Charite-University-Hospital-Berlin
+560	579	Clemensa Wendtnerja	Clemens Wendtner	PER	PER-Clemens-Wendtner
+602	611	Schwabing	Schwabing	LOC	LOC-Munchen-Klinik-Schwabing
+642	652	covidom-19	covid-19	EVT	EVT-Covid-19
+655	662	Nemčiji	Nemčija	LOC	GPE-Germany
+707	714	Münchna	München	LOC	GPE-Munich
+758	764	Nature	Nature	PRO	PRO-Nature-(journal)
+806	809	dpa	dpa	ORG	ORG-DPA
+2200	2210	sars-cov-2	sars-cov-2	EVT	EVT-Covid-19
+2479	2488	covidu-19	covid-19	EVT	EVT-Covid-19
+2529	2553	koronavirusni bolezni 19	koronavirusna bolezen 19	EVT	EVT-Covid-19
+2676	2705	Evropska agencija za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+2707	2710	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+2836	2850	Evropske unije	evropska unija	ORG	ORG-European-Union
+2892	2895	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+3169	3178	covida-19	covid-19	EVT	EVT-Covid-19
+3206	3209	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+3258	3277	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

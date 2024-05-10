@@ -1,0 +1,22 @@
+19	25	Brexit	Brexit	EVT	EVT-Brexit
+47	49	РФ	РФ	LOC	GPE-Russia
+109	115	Brexit	Brexit	EVT	EVT-Brexit
+203	205	РФ	РФ	LOC	GPE-Russia
+354	360	Бенкса	Бенкс	PER	PER-Arron-Banks
+419	421	РФ	РФ	LOC	GPE-Russia
+424	431	Лондоні	Лондон	LOC	GPE-London
+432	453	Алєксандром Яковенком	Алєксандр Яковенко	PER	PER-Alyeksandr-Yakovenko
+482	488	Бенксу	Бенкс	PER	PER-Arron-Banks
+509	515	Brexit	Brexit	EVT	EVT-Brexit
+596	601	Бенкс	Бенкс	PER	PER-Arron-Banks
+713	718	Бенкс	Бенкс	PER	PER-Arron-Banks
+771	776	Бенкс	Бенкс	PER	PER-Arron-Banks
+808	810	РФ	РФ	LOC	GPE-Russia
+813	820	Лондоні	Лондон	LOC	GPE-London
+846	861	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+895	898	США	США	LOC	GPE-USA
+913	930	Українська правда	Українська правда	ORG	ORG-Ukrainian-Pravda
+1028	1047	«Українську правду»	"""Українська правда"""	PRO	PRO-Ukrainian-Pravda
+1150	1169	«Iнтерфакс-Україна»	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
+1277	1296	«Українські Новини»	"""Українські Новини"""	ORG	ORG-Ukrainian-News
+1435	1451	Георгій Гонгадзе	Георгій Гонгадзе	PER	PER-Heorhiy-Honhadze

@@ -1,0 +1,12 @@
+0	7	Bidenův	Biden	PER	PER-Joe-Biden
+40	50	Filadelfie	Filadelfie	LOC	GPE-Philadelphia
+60	72	Pennsylvania	Pennsylvanie	LOC	GPE-Pennsylvania
+161	171	Filadelfie	Filadelfie	LOC	GPE-Philadelphia
+302	308	Camden	Camden	LOC	LOC-Camden-Town
+318	328	New Jersey	New Jersey	LOC	GPE-New-Jersey
+459	462	NYT	NYT	PRO	PRO-The-New-York-Times
+517	522	BIDEN	BIDEN	PER	PER-Joe-Biden
+558	568	Filadelfii	Filadelfie	LOC	GPE-Philadelphia
+665	675	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+760	780	Republikánské strany	Republikánská strana	ORG	ORG-Republican-Party-USA
+829	849	Demokratickou stranu	Demokratická strana	ORG	ORG-Democratic-Party-USA

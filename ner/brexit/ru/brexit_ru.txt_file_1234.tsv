@@ -1,0 +1,40 @@
+22	28	Brexit	Brexit	EVT	EVT-Brexit
+74	77	Мэй	Мэй	PER	PER-Theresa-May
+79	84	Дэвис	Дэвис	PER	PER-David-Davis
+112	119	Лондона	Лондон	LOC	GPE-London
+132	141	Брюсселем	Брюссель	LOC	GPE-Brussles
+154	160	Brexit	Brexit	EVT	EVT-Brexit
+237	240	МИД	МИД	ORG	ORG-Foreign-Office
+241	254	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+282	291	Лиам Фокс	Лиам Фокс	PER	PER-Liam-Fox
+302	306	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+380	386	Brexit	Brexit	EVT	EVT-Brexit
+428	431	Мэй	Мэй	PER	PER-Theresa-May
+512	514	ЕС	ЕС	ORG	ORG-European-Union
+537	546	Брюсселем	Брюссель	LOC	GPE-Brussles
+634	648	Великобритании	Великобритания	LOC	GPE-Great-Britain
+651	671	Республикой Ирландия	Республика Ирландия	LOC	GPE-Ireland
+835	842	Минфина	Минфин	ORG	ORG-Chancellor-of-the-Exchequer
+843	860	Филипом Хаммондом	Филип Хаммонд	PER	PER-Philip-Hammond
+887	894	Лондона	Лондон	LOC	GPE-London
+930	932	ЕС	ЕС	ORG	ORG-European-Union
+1009	1018	Брюсселем	Брюссель	LOC	GPE-Brussles
+1029	1053	Соединенному Королевству	Соединенное Королевство	LOC	GPE-Great-Britain
+1088	1108	Таможенному союзу ЕС	Таможенный союз ЕС	ORG	ORG-European-Union-Customs-Union
+1159	1175	лондонского Сити	лондонское Сити	LOC	LOC-City-of-London
+1231	1235	тори	тори	PER	ORG-Conservative-and-Unionist-Party-UK
+1288	1309	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1311	1316	Дэвис	Дэвис	PER	PER-David-Davis
+1328	1337	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1363	1366	Мэй	Мэй	PER	PER-Theresa-May
+1476	1491	The Independent	The Independent	PRO	PRO-The-Independent
+1493	1496	Мэй	Мэй	PER	PER-Theresa-May
+1560	1563	МИД	МИД	ORG	ORG-Foreign-Office
+1658	1664	Дэвиса	Дэвис	PER	PER-David-Davis
+1702	1705	Мэй	Мэй	PER	PER-Theresa-May
+1871	1883	Майкл Фэллон	Майкл Фэллон	PER	PER-Michael-Fallon
+1975	1986	Прити Пател	Прити Пател	PER	PER-Priti-Patel
+2036	2053	Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland
+2054	2070	Джеймс Брокеншир	Джеймс Брокеншир	PER	PER-James-Brokenshire
+2186	2189	МВД	МВД	ORG	ORG-Home-Office-UK
+2190	2200	Эмбер Радд	Эмбер Радд	PER	PER-Amber-Rudd

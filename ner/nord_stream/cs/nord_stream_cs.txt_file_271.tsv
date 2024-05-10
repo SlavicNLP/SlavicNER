@@ -1,0 +1,19 @@
+14	20	Moskvy	Moskva	LOC	GPE-Moscow
+30	35	Trump	Trump	PER	PER-Donald-Trump
+39	46	Německa	Německo	LOC	GPE-Germany
+79	83	NATO	NATO	ORG	ORG-NATO
+91	98	Německo	Německo	LOC	GPE-Germany
+105	110	Rusku	Rusko	LOC	GPE-Russia
+205	208	USA	USA	LOC	GPE-USA
+226	232	Evropy	Evropa	LOC	LOC-Europe
+335	340	Trump	Trump	PER	PER-Donald-Trump
+439	443	NATO	NATO	ORG	ORG-NATO
+451	458	Německa	Německo	LOC	GPE-Germany
+540	544	NATO	NATO	ORG	ORG-NATO
+545	565	Jensem Stoltenbergem	Jens Stoltenberg	PER	PER-Jens-Stoltenberg
+567	574	Německo	Německo	LOC	GPE-Germany
+597	602	Ruska	Rusko	LOC	GPE-Russia
+683	691	Trumpova	Trump	PER	PER-Donald-Trump
+739	745	Ruskem	Rusko	LOC	GPE-Russia
+775	780	Rusku	Rusko	LOC	GPE-Russia
+855	857	AP	AP	ORG	ORG-AP-The-Associated-Press

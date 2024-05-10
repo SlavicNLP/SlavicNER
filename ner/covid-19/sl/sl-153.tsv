@@ -1,0 +1,38 @@
+5	14	ZD Idrija	ZD Idrija	ORG	ORG-Zdravstveni-dom-Idrija
+45	53	Covid-19	Covid-19	EVT	EVT-Covid-19
+181	187	Idrija	Idrija	LOC	GPE-Idrija
+197	203	Idrije	Idrija	LOC	GPE-Idrija
+207	215	Cerknega	Cerkno	LOC	GPE-Cerkno
+239	252	koronavirusom	koronavirus	EVT	EVT-Covid-19
+285	291	Tolmin	Tolmin	LOC	GPE-Tolmin
+296	304	Šempeter	Šempeter	LOC	LOC-Šempeter
+316	338	ministrstvu za zdravje	ministrstvo za zdravje	ORG	ORG-Ministry-of-Health-Slovenia
+509	517	Covid-19	Covid-19	EVT	EVT-Covid-19
+575	602	Zdravstveni dom (ZD) Idrija	Zdravstveni dom (ZD) Idrija	ORG	ORG-Zdravstveni-dom-Idrija
+695	721	Centra za krepitev zdravja	Center za krepitev zdravja	ORG	ORG-Center-za-krepitev-zdravja
+801	814	koronavirusom	koronavirus	EVT	EVT-Covid-19
+960	968	Covid-19	Covid-19	EVT	EVT-Covid-19
+974	983	ZD Idrija	ZD Idrija	ORG	ORG-Zdravstveni-dom-Idrija
+1316	1324	Covid-19	Covid-19	EVT	EVT-Covid-19
+1442	1451	ZD Idrija	ZD Idrija	ORG	ORG-Zdravstveni-dom-Idrija
+1617	1630	koronavirusom	koronavirus	EVT	EVT-Covid-19
+1691	1714	Domu upokojencev Idrija	Dom upokojencev Idrija	ORG	ORG-Dom-upokojencev-Idrija
+1774	1813	Nacionalnega instituta za javno zdravje	Nacionalni institut za javno zdravje	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1815	1819	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1879	1892	koronavirusom	koronavirus	EVT	EVT-Covid-19
+1906	1910	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1956	1965	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2090	2107	osrednjeslovenske	osrednjeslovenska	LOC	GPE-Central-Slovenia-statistical-region
+2115	2136	juhovzhodne Slovenije	jugovzhodna Slovenija	LOC	GPE-Southeast-Slovenia
+2144	2153	savinjske	savinjska	LOC	GPE-Savinja-statistical-region
+2161	2170	podravske	podravska	LOC	GPE-Drava-statistical-region
+2178	2187	gorenjske	gorenjska	LOC	LOC-Gorenjska
+2195	2215	primorsko-notranjske	primorsko-notranjska	LOC	GPE-Littoral-Inner-Carniola-statistical-region
+2226	2233	koroške	koroška	LOC	GPE-Carinthia-statistical-region
+2243	2256	obalno-kraške	obalno-kraška	LOC	GPE-Coastal-Karst-statistical-region
+2267	2275	pomurske	pomurska	LOC	GPE-Pomurje-statistical-region
+2286	2293	goriške	goriška	LOC	GPE-Gorizia-statistical-region
+2304	2319	posavske regije	posavska regija	LOC	GPE-Lower-Sava-statistical-region
+2423	2427	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+2526	2534	Covid-19	Covid-19	EVT	EVT-Covid-19
+2730	2738	Covid-19	Covid-19	EVT	EVT-Covid-19

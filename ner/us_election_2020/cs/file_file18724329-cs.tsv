@@ -1,0 +1,14 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+13	20	Floridu	Florida	LOC	GPE-Florida
+22	27	Biden	Biden	PER	PER-Joe-Biden
+28	35	Arizonu	Arizona	LOC	GPE-Arizona
+97	130	amerických prezidentských volbách	americké prezidentské volby	EVT	EVT-2020-United-States-Presidential-Election
+144	151	Floridě	Florida	LOC	GPE-Florida
+180	192	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+249	260	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+303	310	Arizoně	Arizona	LOC	GPE-Arizona
+316	325	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+340	358	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+493	500	Aljaška	Aljaška	LOC	GPE-Alaska
+553	558	Trump	Trump	PER	PER-Donald-Trump
+584	591	Floridě	Florida	LOC	GPE-Florida

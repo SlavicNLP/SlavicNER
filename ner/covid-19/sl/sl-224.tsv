@@ -1,0 +1,41 @@
+0	8	Covid-19	Covid-19	EVT	EVT-Covid-19
+11	20	sloveniji	Slovenija	LOC	GPE-Slovenia
+59	72	koronavirusom	koronavirus	EVT	EVT-Covid-19
+96	105	Sloveniji	Slovenija	LOC	GPE-Slovenia
+172	185	koronavirusom	koronavirus	EVT	EVT-Covid-19
+214	223	covida-19	covid-19	EVT	EVT-Covid-19
+324	334	covidom-19	covid-19	EVT	EVT-Covid-19
+429	440	Jelko Kacin	Jelko Kacin	PER	PER-Jelko-Kacin
+473	482	Sloveniji	Slovenija	LOC	GPE-Slovenia
+699	704	Kacin	Kacin	PER	PER-Jelko-Kacin
+719	728	Sloveniji	Slovenija	LOC	GPE-Slovenia
+807	817	covidom-19	covid-19	EVT	EVT-Covid-19
+1046	1051	Kacin	Kacin	PER	PER-Jelko-Kacin
+1057	1093	osrednjeslovenske statistične regije	osrednjeslovenska statistična regija	LOC	GPE-Central-Slovenia-statistical-region
+1117	1136	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1145	1154	savinjske	savinjska	LOC	GPE-Savinja-statistical-region
+1163	1171	pomurske	pomurska	LOC	GPE-Pomurje-statistical-region
+1180	1201	jugovzhodne Slovenije	jugovzhodna Slovenija	LOC	GPE-Southwest-Slovenia
+1210	1219	podravske	podravska	LOC	GPE-Drava-statistical-region
+1227	1236	gorenjske	gorenjska	LOC	GPE-Gorenjska-statistical-region
+1244	1251	koroške	koroška	LOC	GPE-Carinthia-statistical-region
+1259	1279	primorsko-notranjske	primorsko-notranjska	LOC	GPE-Littoral-Inner-Carniola-statistical-region
+1287	1295	zasavske	zasavska	LOC	GPE-Central-Sava-statistical-region
+1303	1316	obalno-kraške	obalno-kraška	LOC	GPE-Coastal-Karst-statistical-region
+1324	1331	goriške	goriška	LOC	GPE-Gorizia-statistical-region
+1342	1357	posavske regije	posavska regija	LOC	GPE-Lower-Sava-statistical-region
+1399	1446	Univerzitetnem kliničnem centru (UKC) Ljubljana	Univerzitetni klinični center Ljubljana	LOC	ORG-University-Medical-Centre-Ljubljana
+1491	1501	covidom-19	covid-19	EVT	EVT-Covid-19
+1628	1637	Twitterju	Twitter	PRO	PRO-Twitter
+1752	1763	UKC Maribor	UKC Maribor	LOC	ORG-University-Medical-Centre-Maribor
+1806	1816	covidom-19	covid-19	EVT	EVT-Covid-19
+1886	1905	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+2102	2111	covida-19	covid-19	EVT	EVT-Covid-19
+2157	2181	Splošni bolnišnici Celje	Splošna bolnišnica Celje	LOC	ORG-Celje-General-Hospital
+2229	2239	covidom-19	covid-19	EVT	EVT-Covid-19
+2341	2350	Twitterju	Twitter	PRO	PRO-Twitter
+2356	2370	Kliniki Golnik	Klinika Golnik	LOC	ORG-Hospital-Golnik
+2395	2405	covidom-19	covid-19	EVT	EVT-Covid-19
+2565	2598	Splošni bolnišnici Slovenj Gradec	Splošna bolnišnica Slovenj Gradec	LOC	ORG-Slovenj-Gradec-General-Hospital
+2646	2654	covid-19	covid-19	EVT	EVT-Covid-19
+2997	3030	Splošne bolnišnice Slovenj Gradec	Splošna bolnišnica Slovenj Gradec	LOC	ORG-Slovenj-Gradec-General-Hospital

@@ -1,0 +1,49 @@
+0	6	Lavrov	Lavrov	PER	PER-Sergey-Lavrov
+27	40	studená válka	studená válka	EVT	EVT-Cold-War
+49	57	Skripala	Skripal	PER	PER-Siergiej-Skripal
+72	78	brexit	brexit	EVT	EVT-Brexit
+113	129	Sergeje Skripala	Sergej Skripal	PER	PER-Siergiej-Skripal
+161	169	Británie	Británie	LOC	GPE-Great-Britain
+239	252	Evropské unie	Evropská unie	ORG	ORG-European-Union
+313	326	Sergej Lavrov	Sergej Lavrov	PER	PER-Sergey-Lavrov
+354	359	Rusku	Rusko	LOC	GPE-Russia
+376	383	Skripal	Skripal	PER	PER-Siergiej-Skripal
+440	446	Moskva	Moskva	LOC	GPE-Moscow
+480	518	Organizaci pro zákaz chemických zbraní	Organizace pro zákaz chemických zbraní	ORG	ORG-Organisation-for-the-Prohibition-of-Chemical-Weapons
+520	524	OPCW	OPCW	ORG	ORG-Organisation-for-the-Prohibition-of-Chemical-Weapons
+569	579	Skripalova	Skripal	PER	PER-Siergiej-Skripal
+593	600	Lavrova	Lavrov	PER	PER-Sergey-Lavrov
+733	740	brexitu	brexit	EVT	EVT-Brexit
+752	765	studené války	studená válka	EVT	EVT-Cold-War
+837	850	Spojené státy	Spojené státy	LOC	GPE-USA
+853	861	Británie	Británie	LOC	GPE-Great-Britain
+913	920	Skripal	Skripal	PER	PER-Siergiej-Skripal
+958	964	Moskvě	Moskva	LOC	GPE-Moscow
+995	1001	Londýn	Londýn	LOC	GPE-London
+1025	1041	Sergeje Skripala	Sergej Skipal	PER	PER-Siergiej-Skripal
+1055	1061	Juliji	Julija	PER	PER-Yulia-Skripal
+1084	1093	Salisbury	Salisbury	LOC	GPE-Salisbury
+1136	1141	Rusko	Rusko	LOC	GPE-Russia
+1143	1149	Moskva	Moskva	LOC	GPE-Moscow
+1173	1180	Skripal	Skripal	PER	PER-Siergiej-Skripal
+1270	1276	Moskva	Moskva	LOC	GPE-Moscow
+1376	1383	Skripal	Skripal	PER	PER-Siergiej-Skripal
+1398	1403	Rusko	Rusko	LOC	GPE-Russia
+1421	1428	Francii	Francie	LOC	GPE-France
+1431	1439	Británii	Británie	LOC	GPE-Great-Britain
+1449	1455	Moskva	Moskva	LOC	GPE-Moscow
+1476	1514	Organizaci pro zákaz chemických zbraní	Organizace pro zákaz chemických zbraní	ORG	ORG-Organisation-for-the-Prohibition-of-Chemical-Weapons
+1516	1520	OPCW	OPCW	ORG	ORG-Organisation-for-the-Prohibition-of-Chemical-Weapons
+1595	1604	Salisbury	Salisbury	LOC	GPE-Salisbury
+1663	1668	Rusko	Rusko	LOC	GPE-Russia
+1674	1682	Británii	Británie	LOC	GPE-Great-Britain
+1685	1692	Francii	Francie	LOC	GPE-France
+1694	1699	Paříž	Paříž	LOC	GPE-Paris
+1759	1763	OPCW	OPCW	ORG	ORG-Organisation-for-the-Prohibition-of-Chemical-Weapons
+1775	1793	Rossijskaja gazeta	Rossijskaja gazeta	PRO	PRO-Gazeta-ua
+1803	1809	Moskva	Moskva	LOC	GPE-Moscow
+1894	1906	Skripalových	Skripalovi	PER	PER-Skripal-Family
+1992	2001	Salisbury	Salisbury	LOC	GPE-Salisbury
+2010	2025	Alexandr Šulgin	Alexandr Šulgin	PER	PER-Alexander-Shulgin
+2128	2133	Rusko	Rusko	LOC	GPE-Russia
+2171	2175	OPCW	OPCW	ORG	ORG-Organisation-for-the-Prohibition-of-Chemical-Weapons

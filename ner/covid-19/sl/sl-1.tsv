@@ -1,0 +1,58 @@
+2	5	ZDA	ZDA	LOC	GPE-USA
+57	64	Seattlu	Seattle	LOC	GPE-Seattle
+114	121	Moderna	Moderna	ORG	ORG-Moderna
+282	287	Trump	Trump	PER	PER-Donald-Trump
+357	367	Američanom	Američani	PER	GPE-USA
+537	542	Trump	Trump	PER	PER-Donald-Trump
+550	559	Američani	Američani	PER	GPE-USA
+1046	1051	Trump	Trump	PER	PER-Donald-Trump
+1292	1295	ZDA	ZDA	LOC	GPE-USA
+1338	1344	Amazon	Amazon	ORG	ORG-Amazon
+1466	1472	Amazon	Amazon	ORG	ORG-Amazon
+1612	1615	ZDA	ZDA	LOC	GPE-USA
+1882	1885	ZDA	ZDA	LOC	GPE-USA
+1897	1901	Nike	Nike	ORG	ORG-Nike
+1942	1945	ZDA	ZDA	LOC	GPE-USA
+1952	1958	Kanadi	Kanada	LOC	GPE-Canada
+1962	1976	zahodni Evropi	zahodna Evropa	LOC	LOC-Western-Europe
+1978	1988	Avstraliji	Avstralija	LOC	GPE-Australia
+1992	2006	Novi Zelandiji	Nova Zelandija	LOC	GPE-New-Zealand
+2027	2039	Južni Koreji	Južna Koreja	LOC	GPE-South-Korea
+2044	2053	Japonskem	Japonska	LOC	GPE-Japan
+2057	2066	Kitajskem	Kitajska	LOC	GPE-China
+2131	2140	Patagonia	Patagonia	ORG	ORG-Patagonia
+2142	2147	Apple	Apple	ORG	ORG-Apple
+2149	2161	Warby Parker	Warby Parker	ORG	ORG-Warby-Parker
+2163	2179	Urban Outfitters	Urban Outfitters	ORG	ORG-Urban-Outfitters
+2181	2189	Glossier	Glossier	ORG	ORG-Glossier
+2193	2201	Allbirds	Allbirds	ORG	ORG-Allbirds
+2243	2247	Nike	Nike	ORG	ORG-Nike
+2382	2385	ZDA	ZDA	LOC	GPE-USA
+2386	2400	Steven Mnuchin	Steven Mnuchin	PER	PER-Steven-Mnuchin
+2455	2460	Delta	Delta	ORG	ORG-Delta-Airlines
+2493	2499	Evropo	Evropa	LOC	LOC-Europe
+2512	2517	Irsko	Irska	LOC	GPE-Ireland
+2521	2537	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+2539	2556	American Airlines	American Airlines	ORG	ORG-American-Airlines
+2629	2635	United	United	ORG	ORG-United-Airlines
+2723	2756	Nacionalnega inštituta za zdravje	Nacionalni inštitut za zdravje	ORG	ORG-National-Institute-of-Health
+2757	2770	Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+2774	2784	Američanom	Američani	PER	GPE-USA
+2868	2911	Center za nadzor nad nalezljivimi boleznimi	Center za nadzor nad nalezljivimi boleznimi	ORG	ORG-Centers-for-Disease-Control
+2913	2916	CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+2934	2944	Američanom	Američani	PER	GPE-USA
+3040	3049	New Yorku	New York	LOC	GPE-New-York
+3067	3075	New York	New York	LOC	GPE-New-York
+3076	3088	Andrew Cuomo	Andrew Cuomo	PER	PER-Andrew-Cuomo
+3104	3112	New York	New York	LOC	GPE-New-York
+3113	3126	Bill DeBlasio	Bill DeBlasio	PER	PER-Bill-DeBiasio
+3412	3420	DeBlasio	DeBlasio	PER	PER-Bill-DeBiasio
+3644	3653	New Yorka	New York	LOC	GPE-New-York
+3686	3695	Newyorčan	Newyorčan	PER	GPE-New-York
+3850	3861	Kalifornija	Kalifornija	LOC	GPE-California
+3969	3973	Ohiu	Ohio	LOC	GPE-Ohio
+3975	3989	Južna Karolina	Južna Karolina	LOC	GPE-South-Carolina-US-State
+4021	4028	Vermont	Vermont	LOC	GPE-Vermont
+4106	4109	ZDA	ZDA	LOC	GPE-USA
+4110	4123	Melanie Trump	Melania Trump	PER	PER-Melania-Trump
+4185	4188	CDC	CDC	ORG	ORG-Centers-for-Disease-Control

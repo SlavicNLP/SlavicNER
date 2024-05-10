@@ -1,0 +1,43 @@
+18	25	Байдена	Байден	PER	PER-Joe-Biden
+38	41	США	США	LOC	GPE-USA
+81	84	США	США	LOC	GPE-USA
+92	102	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+125	138	Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+174	193	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+204	207	РБК	РБК	PRO	PRO-RBK
+232	238	Байден	Байден	PER	PER-Joe-Biden
+276	282	Трампа	Трамп	PER	PER-Donald-Trump
+318	321	CNN	CNN	PRO	PRO-CNN
+370	376	Байден	Байден	PER	PER-Joe-Biden
+437	447	Калифорнии	Калифорния	LOC	GPE-California
+468	470	AP	AP	PRO	PRO-Assosiated-Press
+559	569	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+600	603	США	США	LOC	GPE-USA
+626	648	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+649	659	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+684	696	Бараке Обаме	Барак Обама	PER	PER-Barack-Obama
+757	760	США	США	LOC	GPE-USA
+877	896	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1030	1039	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+1210	1213	Мэн	Мэн	LOC	GPE-Maine
+1216	1224	Небраска	Небраска	LOC	GPE-Nebraska
+1504	1509	Сенат	Сенат	ORG	ORG-United-States-Senate
+1768	1774	Байден	Байден	PER	PER-Joe-Biden
+1808	1813	Трамп	Трамп	PER	PER-Donald-Trump
+1848	1856	Колумбия	Колумбия	LOC	GPE-Colombia
+1994	1997	США	США	LOC	GPE-USA
+2197	2212	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+2233	2248	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+2265	2268	США	США	LOC	GPE-USA
+2503	2510	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+2536	2545	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2580	2583	США	США	LOC	GPE-USA
+2870	2879	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+2908	2915	Байдену	Байден	PER	PER-Joe-Biden
+2985	2992	Аризоне	Аризона	LOC	GPE-Arizona
+2994	3006	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+3008	3016	Мичигане	Мичиган	LOC	GPE-Michigan
+3018	3028	Висконсине	Висконсин	LOC	GPE-Wisconsin
+3031	3039	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+3052	3058	Трампа	Трамп	PER	PER-Donald-Trump
+3323	3331	WhatsApp	WhatsApp	PRO	PRO-WhatsApp

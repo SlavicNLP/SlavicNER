@@ -1,0 +1,39 @@
+32	47	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+62	65	МИД	МИД	ORG	ORG-Foreign-Office
+79	87	Джонсона	Джонсон	PER	PER-Boris-Johnson
+136	146	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+204	212	Британии	Британия	LOC	GPE-Great-Britain
+216	218	ЕС	ЕС	ORG	ORG-European-Union
+265	268	BBC	BBC	ORG	ORG-BBC-Ltd
+271	299	Правительство Великобритании	Правительство Великобритании	ORG	ORG-the-UK-Government
+325	335	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+353	361	Джонсона	Джонсон	PER	PER-Boris-Johnson
+429	432	BBC	BBC	ORG	ORG-BBC-Ltd
+452	460	Джонсона	Джонсон	PER	PER-Boris-Johnson
+568	582	Великобритании	Великобритания	LOC	GPE-Great-Britain
+607	617	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+618	632	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+653	661	Facebook	Facebook	PRO	PRO-Facebook
+685	693	Джонсона	Джонсон	PER	PER-Boris-Johnson
+712	726	Великобритании	Великобритания	LOC	GPE-Great-Britain
+789	803	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+806	812	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+912	929	правительства Мэй	правительство Мэй	ORG	ORG-the-UK-Government
+1089	1103	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1107	1116	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1117	1128	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1165	1171	Дэвиса	Дэвис	PER	PER-David-Davis
+1198	1208	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+1245	1247	ЕС	ЕС	ORG	ORG-European-Union
+1272	1300	британский кабинет министров	британский кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+1331	1340	Брюсселем	Брюссель	LOC	GPE-Brussles
+1344	1354	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1365	1379	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1428	1438	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+1562	1568	Brexit	Brexit	EVT	EVT-Brexit
+1635	1647	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+1654	1664	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+1713	1715	ЕС	ЕС	ORG	ORG-European-Union
+1854	1860	Brexit	Brexit	EVT	EVT-Brexit
+1918	1932	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1936	1945	Евросоюза	Евросоюз	ORG	ORG-European-Union

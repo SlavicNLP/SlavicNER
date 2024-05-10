@@ -1,0 +1,47 @@
+0	12	Вибори у США	Вибори у США	EVT	EVT-2020-United-States-Presidential-Election
+14	20	Байден	Байден	PER	PER-Joe-Biden
+39	47	Мічигані	Мічиган	LOC	GPE-Michigan
+51	61	Вісконсині	Вісконсин	LOC	GPE-Wisconsin
+128	136	Facebook	Facebook	PRO	PRO-Facebook
+139	146	Twitter	Twitter	PRO	PRO-Twitter
+155	158	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+159	162	UPG	UPG	ORG	ORG-UPG
+168	175	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+178	181	США	США	LOC	GPE-USA
+208	228	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+229	239	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+265	272	Мічиган	Мічиган	LOC	GPE-Michigan
+276	285	Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+357	370	Радіо Свобода	Радіо Свобода	PRO	PRO-Radio-Free-Europe-Radio-Liberty
+399	407	Мічигану	Мічиган	LOC	GPE-Michigan
+414	424	Вісконсину	Вісконсин	LOC	GPE-Wisconsin
+425	431	Байден	Байден	PER	PER-Joe-Biden
+478	493	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+516	523	Аризоні	Аризона	LOC	GPE-Arizona
+527	533	Неваді	Невада	LOC	GPE-Nevada
+591	597	Байден	Байден	PER	PER-Joe-Biden
+644	651	Аризоні	Аризона	LOC	GPE-Arizona
+668	674	Байден	Байден	PER	PER-Joe-Biden
+783	790	Аризона	Аризона	LOC	GPE-Arizona
+828	850	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+902	909	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+910	915	Трамп	Трамп	PER	PER-Donald-Trump
+950	958	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+999	1004	Трамп	Трамп	PER	PER-Donald-Trump
+1006	1012	Байден	Байден	PER	PER-Joe-Biden
+1074	1082	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+1137	1159	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1173	1178	Трамп	Трамп	PER	PER-Donald-Trump
+1213	1219	Неваді	Невада	LOC	GPE-Nevada
+1267	1274	Байдена	Байден	PER	PER-Joe-Biden
+1294	1300	Трампа	Трамп	PER	PER-Donald-Trump
+1343	1355	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+1388	1393	Трамп	Трамп	PER	PER-Donald-Trump
+1413	1420	Байдена	Байден	PER	PER-Joe-Biden
+1469	1481	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+1531	1538	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1584	1589	Трамп	Трамп	PER	PER-Donald-Trump
+1602	1617	Гілларі Клінтон	Гілларі Клінтон	PER	PER-Hillary-Clinton
+1623	1626	США	США	LOC	GPE-USA
+1666	1673	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1756	1764	Конгресу	Конгрес	ORG	ORG-United-States-Congress

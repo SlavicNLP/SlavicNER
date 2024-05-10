@@ -1,0 +1,103 @@
+14	20	Байдън	Байдън	PER	PER-Joe-Biden
+59	81	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+151	156	Тръмп	Тръмп	PER	PER-Donald-Trump
+229	239	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+249	276	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+277	283	Европа	Европа	LOC	LOC-Europe
+321	334	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+414	420	Байдън	Байдън	PER	PER-Joe-Biden
+423	435	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+454	460	Меркел	Меркел	PER	PER-Angela-Merkel
+554	566	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+648	659	Politico.eu	Politico.eu	PRO	PRO-Politico
+701	707	Байдън	Байдън	PER	PER-Joe-Biden
+763	768	Тръмп	Тръмп	PER	PER-Donald-Trump
+792	798	Европа	Европа	LOC	LOC-Europe
+877	883	Европа	Европа	LOC	LOC-Europe
+1065	1081	Стария континент	Стар континент	LOC	LOC-Europe
+1086	1092	Байдън	Байдън	PER	PER-Joe-Biden
+1154	1160	Европа	Европа	LOC	LOC-Europe
+1165	1174	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1200	1205	Тръмп	Тръмп	PER	PER-Donald-Trump
+1271	1279	Германия	Германия	LOC	GPE-Germany
+1283	1290	Франция	Франция	LOC	GPE-France
+1295	1303	Ирландия	Ирландия	LOC	GPE-Ireland
+1307	1316	Финландия	Финландия	LOC	GPE-Finland
+1372	1381	демократи	демократи	PER	ORG-Democratic-Party-USA
+1429	1443	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1489	1506	християндемократи	християндемократи	PER	ORG-Christlich-Demokratische-Union
+1523	1534	Fianna Fáil	Fianna Fáil	ORG	ORG-Fianna-Fáil
+1552	1557	Тръмп	Тръмп	PER	PER-Donald-Trump
+1615	1623	Ирландия	Ирландия	LOC	GPE-Ireland
+1626	1639	Майкъл Мартин	Майкъл Мартин	PER	PER-Micheál-Martin
+1643	1654	Fianna Fáil	Fianna Fáil	ORG	ORG-Fianna-Fáil
+1709	1715	Мартин	Мартин	PER	PER-Micheál-Martin
+1724	1730	Европа	Европа	LOC	LOC-Europe
+1797	1803	Меркел	Меркел	PER	PER-Angela-Merkel
+1806	1811	Тръмп	Тръмп	PER	PER-Donald-Trump
+1888	1902	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1917	1934	християндемократи	християндемократи	PER	ORG-Christlich-Demokratische-Union
+1936	1939	ХДС	ХДС	ORG	ORG-Christlich-Demokratische-Union
+2053	2067	Кери Редингтън	Кери Редингтън	PER	PER-Kerry-Reddington
+2084	2112	Republicans Overseas Germany	Republicans Overseas Germany	ORG	ORG-Republicans-Overseas-Germany
+2153	2168	Норберт Рьотген	Норберт Рьотген	PER	PER-Norbert-Röttgen
+2240	2243	ХДС	ХДС	ORG	ORG-Christlich-Demokratische-Union
+2282	2289	Рьотген	Рьотген	PER	PER-Norbert-Röttgen
+2330	2333	ХДС	ХДС	ORG	ORG-Christlich-Demokratische-Union
+2357	2363	Меркел	Меркел	PER	PER-Angela-Merkel
+2442	2448	Байдън	Байдън	PER	PER-Joe-Biden
+2464	2469	Тръмп	Тръмп	PER	PER-Donald-Trump
+2480	2489	Редингтън	Редингтън	PER	PER-Kerry-Reddington
+2524	2533	германеца	германец	PER	GPE-Germany
+2539	2578	Републиканския национален комитет в САЩ	Републикански национален комитет в САЩ	ORG	ORG-Republican-National-Committee
+2632	2639	Рьотген	Рьотген	PER	PER-Norbert-Röttgen
+2668	2671	ХДС	ХДС	ORG	ORG-Christlich-Demokratische-Union
+2674	2688	републиканците	републиканци	PER	ORG-Republican-Party-USA
+2712	2719	Рьотген	Рьотген	PER	PER-Norbert-Röttgen
+2725	2733	Politico	Politico	PRO	PRO-Politico
+2800	2814	републиканците	републиканци	PER	ORG-Republican-Party-USA
+2928	2943	Джордж Буш баща	Джордж Буш-баща	PER	PER-George-Bush-Sr
+2956	2968	Обединението	Обединение	EVT	EVT-German-reunification
+3057	3079	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+3083	3095	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3126	3148	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+3218	3223	Тръмп	Тръмп	PER	PER-Donald-Trump
+3324	3329	Тръмп	Тръмп	PER	PER-Donald-Trump
+3412	3424	Виктор Орбан	Виктор Орбан	PER	PER-Viktor-Orban
+3444	3449	Тръмп	Тръмп	PER	PER-Donald-Trump
+3497	3507	Март Хелме	Март Хелме	PER	PER-Mart-Helme
+3545	3557	Мартин Хелме	Мартин Хелме	PER	PER-Martin-Helme
+3570	3575	Хелме	Хелме	PER	PER-Mart-Helme
+3697	3703	Байдън	Байдън	PER	PER-Joe-Biden
+3792	3797	Тръмп	Тръмп	PER	PER-Donald-Trump
+3806	3815	Белия дом	Белия дом	LOC	LOC-White-House
+3818	3838	конституцията на САЩ	конституция на САЩ	PRO	PRO-The-USA-Constitution
+3907	3921	републиканците	републиканци	PER	ORG-Republican-Party-USA
+3994	4024	Консервативната народна партия	Консервативна народна партия	ORG	ORG-Conservative-People's-Party-of-Estonia
+4028	4033	Хелмс	Хелме	PER	PER-Mart-Helme
+4035	4039	EKRE	EKRE	ORG	ORG-Conservative-People's-Party-of-Estonia
+4096	4101	Тръмп	Тръмп	PER	PER-Donald-Trump
+4196	4202	Европа	Европа	LOC	LOC-Europe
+4475	4483	Германия	Германия	LOC	GPE-Germany
+4488	4499	демократите	демократи	PER	ORG-Democratic-Party-USA
+4521	4529	Германия	Германия	LOC	GPE-Germany
+4534	4543	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+4564	4575	Емили Хабер	Емили Хабер	PER	PER-Emily-Haber
+4842	4848	Европа	Европа	LOC	LOC-Europe
+4853	4859	Байдън	Байдън	PER	PER-Joe-Biden
+4862	4873	демократите	демократи	PER	ORG-Democratic-Party-USA
+4897	4911	републиканците	републиканци	PER	ORG-Republican-Party-USA
+5005	5010	Тръмп	Тръмп	PER	PER-Donald-Trump
+5058	5067	Белия дом	Белия дом	LOC	LOC-White-House
+5114	5120	Байдън	Байдън	PER	PER-Joe-Biden
+5161	5167	Европа	Европа	LOC	LOC-Europe
+5191	5197	Меркел	Меркел	PER	PER-Angela-Merkel
+5224	5226	ЕС	ЕС	ORG	ORG-European-Union
+5384	5390	Европа	Европа	LOC	LOC-Europe
+5509	5515	Европа	Европа	LOC	LOC-Europe
+5552	5562	пандемията	пандемия	EVT	EVT-Pandemic
+5674	5682	Германия	Германия	LOC	GPE-Germany
+5711	5717	Европа	Европа	LOC	LOC-Europe
+5747	5759	американците	американци	PER	GPE-USA
+5773	5785	републиканец	републиканец	PER	ORG-Republican-Party-USA
+5802	5811	Белия дом	Белия дом	LOC	LOC-White-House

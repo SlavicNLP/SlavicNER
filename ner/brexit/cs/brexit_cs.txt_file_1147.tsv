@@ -1,0 +1,24 @@
+0	6	Mayová	Mayová	PER	PER-Theresa-May
+43	51	Británie	Británie	LOC	GPE-Great-Britain
+54	67	Evropské unie	Evropská unie	ORG	ORG-European-Union
+76	82	Mayová	Mayová	PER	PER-Theresa-May
+120	128	Británie	Británie	LOC	GPE-Great-Britain
+131	133	EU	EU	ORG	ORG-European-Union
+153	167	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+282	295	Evropské unie	Evropská Unie	ORG	ORG-European-Union
+297	303	Mayová	Mayová	PER	PER-Theresa-May
+383	396	konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+401	415	Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+470	485	Sněmovnou lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+508	515	brexitu	brexit	EVT	EVT-Brexit
+536	542	Mayová	Mayová	PER	PER-Theresa-May
+556	558	EU	EU	ORG	ORG-European-Union
+626	632	brexit	brexit	EVT	EVT-Brexit
+633	644	David David	David Davis	PER	PER-David-Davis
+769	783	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+842	848	Mayová	Mayová	PER	PER-Theresa-May
+904	915	Alžběta II.	Alžběta II.	PER	PER-Queen-Elizabeth-II
+997	1010	konzervativců	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+1023	1037	Dolné sněmovně	Dolní sněmovna	ORG	ORG-House-of-Commons
+1039	1045	Mayová	Mayová	PER	PER-Theresa-May
+1071	1084	konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK

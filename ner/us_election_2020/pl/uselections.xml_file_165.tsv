@@ -1,0 +1,23 @@
+55	58	USA	USA	LOC	GPE-USA
+105	108	USA	USA	LOC	GPE-USA
+119	124	Trump	Trump	PER	PER-Donald-Trump
+198	206	ABC News	ABC News	PRO	PRO-ABC-News
+209	224	Washington Post	Washington Post	PRO	PRO-Washington-Post
+255	261	Bidena	Biden	PER	PER-Joe-Biden
+396	408	Bill Clinton	Bill Clinton	PER	PER-Bill-Clinton
+599	604	Biden	Biden	PER	PER-Joe-Biden
+756	759	USA	USA	LOC	GPE-USA
+792	797	Biden	Biden	PER	PER-Joe-Biden
+822	829	Trumpem	Trump	PER	PER-Donald-Trump
+866	874	COVID-19	COVID-19	EVT	EVT-Covid-19
+953	956	CNN	CNN	PRO	PRO-CNN
+975	980	Biden	Biden	PER	PER-Joe-Biden
+1047	1055	Trumpowi	Trump	PER	PER-Donald-Trump
+1144	1150	Bidena	Biden	PER	PER-Joe-Biden
+1188	1209	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1537	1548	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1550	1557	Floryda	Floryda	LOC	GPE-Florida
+1559	1568	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1570	1577	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1579	1596	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1598	1606	Michigan	Michigan	LOC	GPE-Michigan

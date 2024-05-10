@@ -1,0 +1,18 @@
+0	6	Brexit	brexit	EVT	EVT-Brexit
+148	155	brexita	brexit	EVT	EVT-Brexit
+176	192	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+234	246	Yellowhammer	Yellowhammer	EVT	EVT-Operation-Yellowhammer
+292	310	Britanski poslanci	Britanski poslanci	PER	PER-UK-MP
+420	432	Yellowhammer	Yellowhammer	EVT	EVT-Operation-Yellowhammer
+503	519	Velika Britanije	Velika Britanija	LOC	GPE-Great-Britain
+523	537	Evropske unije	Evropska unija	ORG	ORG-European-Union
+572	582	laburistov	laburisti	ORG	ORG-Labour-Party-UK
+583	596	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+613	616	BBC	BBC	ORG	ORG-BBC-Ltd
+663	676	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+857	862	Dovru	Dover	LOC	GPE-Dover
+1241	1247	brexit	brexit	EVT	EVT-Brexit
+1430	1446	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+1482	1496	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+1534	1549	Rokavski preliv	Rokavski preliv	LOC	LOC-English-Channel
+1837	1855	Rokavskega preliva	Rokavski preliv	LOC	LOC-English-Channel

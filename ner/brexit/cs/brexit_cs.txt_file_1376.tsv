@@ -1,0 +1,15 @@
+0	6	Macron	Macron	PER	PER-Emmanuel-Macron
+9	15	Mayová	Mayová	PER	PER-Theresa-May
+51	57	Britům	Britové	PER	GPE-Great-Britain
+155	168	Evropské unie	Evropská unie	ORG	ORG-European-Union
+274	289	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+335	351	Theresou Mayovou	Theresa Mayová	PER	PER-Theresa-May
+585	587	EU	EU	ORG	ORG-European-Union
+811	820	Macronovo	Macron	PER	PER-Emmanuel-Macron
+831	838	Mayovou	Mayová	PER	PER-Theresa-May
+1058	1064	Macron	Macron	PER	PER-Emmanuel-Macron
+1067	1073	Mayová	Mayová	PER	PER-Theresa-May
+1178	1184	Calais	Calais	LOC	GPE-Calais
+1201	1209	Afričané	Afričané	PER	LOC-Africa
+1236	1252	Středozemní moře	Středozemní moře	LOC	LOC-Mediterranean-Sea
+1270	1278	Británie	Británie	LOC	GPE-Great-Britain

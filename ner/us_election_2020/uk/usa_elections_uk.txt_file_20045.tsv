@@ -1,0 +1,24 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+35	43	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+80	87	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+103	110	Байдену	Байден	PER	PER-Joe-Biden
+169	182	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+224	227	США	США	LOC	GPE-USA
+236	244	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+310	316	Байден	Байден	PER	PER-Joe-Biden
+416	424	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+472	478	Байден	Байден	PER	PER-Joe-Biden
+543	565	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+609	617	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+634	641	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+653	659	Трампа	Трамп	PER	PER-Donald-Trump
+666	683	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+723	759	виборів Президента Сполучених Штатів	вибори Президента Сполучених Штатів	EVT	EVT-2020-United-States-Presidential-Election
+793	801	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+847	853	Трампа	Трамп	PER	PER-Donald-Trump
+856	864	Байденом	Байден	PER	PER-Joe-Biden
+901	909	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+914	921	Байдена	Байден	PER	PER-Joe-Biden
+954	961	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+988	998	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+1007	1010	ТСН	ТСН	PRO	PRO-TSN.ua

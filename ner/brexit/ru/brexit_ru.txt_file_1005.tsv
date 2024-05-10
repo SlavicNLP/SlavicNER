@@ -1,0 +1,26 @@
+0	10	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+36	53	Борисом Джонсоном	Борис Джонсон	PER	PER-Boris-Johnson
+87	97	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+147	162	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+165	178	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+222	228	Brexit	Brexit	EVT	EVT-Brexit
+231	241	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+300	314	Великобритании	Великобритания	LOC	GPE-Great-Britain
+318	327	Евросоюза	Евросоюз	ORG	ORG-European-Union
+362	379	Борисом Джонсоном	Борис Джонсон	PER	PER-Boris-Johnson
+382	397	Дэвидом Дэвисом	Дэвид Дэвис	PER	PER-David-Davis
+533	536	МИД	МИД	ORG	ORG-Foreign-Office
+568	574	Brexit	Brexit	EVT	EVT-Brexit
+597	600	Мэй	Мэй	PER	PER-Theresa-May
+621	629	Джонсона	Джонсон	PER	PER-Boris-Johnson
+666	672	Дэвиса	Дэвис	PER	PER-David-Davis
+707	713	Brexit	Brexit	EVT	EVT-Brexit
+739	746	Джонсон	Джонсон	PER	PER-Boris-Johnson
+817	827	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+926	936	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+1059	1073	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1117	1119	ЕС	ЕС	ORG	ORG-European-Union
+1167	1173	Brexit	Brexit	EVT	EVT-Brexit
+1185	1198	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1261	1275	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1279	1288	Евросоюза	Евросоюз	ORG	ORG-European-Union

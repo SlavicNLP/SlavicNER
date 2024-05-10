@@ -1,0 +1,24 @@
+27	34	Брекзит	Брекзит	EVT	EVT-Brexit
+58	60	ЕС	ЕС	ORG	ORG-European-Union
+133	140	Брекзит	Брекзит	EVT	EVT-Brexit
+164	166	ЕС	ЕС	ORG	ORG-European-Union
+349	360	Индипендънт	Индипендънт	PRO	PRO-The-Independent
+380	387	Брюксел	Брюксел	LOC	GPE-Brussles
+392	402	британците	британци	PER	GPE-Great-Britain
+662	676	Великобритания	Великобритания	LOC	GPE-Great-Britain
+743	750	Брекзит	Брекзит	EVT	EVT-Brexit
+781	788	Брюксел	Брюксел	LOC	GPE-Brussles
+811	822	Индипендънт	Индипендънт	PRO	PRO-The-Independent
+1023	1031	Ирландия	Ирландия	LOC	GPE-Ireland
+1032	1045	Саймън Ковъни	Саймън Ковъни	PER	PER-Simon-Coveney
+1136	1149	Джон Макдонъл	Джон Макдонъл	PER	PER-John-McDonnell
+1217	1219	ЕС	ЕС	ORG	ORG-European-Union
+1220	1232	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+1314	1324	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1354	1363	Флоренция	Флоренция	LOC	GPE-Florence
+1484	1498	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1632	1642	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1699	1719	Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1755	1762	Брекзит	Брекзит	EVT	EVT-Brexit
+1765	1771	bnr.bg	bnr.bg	PRO	PRO-bnr.bg
+1772	1777	Днес+	Днес+	ORG	ORG-DnesPlus

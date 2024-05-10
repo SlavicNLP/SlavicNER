@@ -1,0 +1,96 @@
+18	21	США	США	LOC	GPE-USA
+53	63	американцы	американцы	PER	GPE-USA
+81	87	Путина	Путин	PER	PER-Vladimir-Putin
+114	117	США	США	LOC	GPE-USA
+342	354	американские	американские	LOC	GPE-USA
+383	391	«Медуза»	Медуза	PRO	PRO-Russia-Meduza
+479	482	США	США	LOC	GPE-USA
+507	510	США	США	LOC	GPE-USA
+586	601	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+755	765	американцы	американцы	PER	GPE-USA
+851	854	США	США	LOC	GPE-USA
+1107	1110	США	США	LOC	GPE-USA
+1148	1157	конгресса	конгресс	ORG	ORG-United-States-Congress
+1255	1264	конгрессе	конгресс	ORG	ORG-United-States-Congress
+1317	1320	США	США	LOC	GPE-USA
+1322	1332	Калифорния	Калифорния	LOC	GPE-California
+1466	1474	Колумбия	Колумбия	LOC	GPE-Colombia
+1844	1865	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2007	2010	США	США	LOC	GPE-USA
+2874	2884	Калифорнии	Калифорния	LOC	GPE-California
+3177	3185	демократ	демократ	PER	ORG-Democratic-Party-USA
+3186	3192	Эл Гор	Эл Гор	PER	PER-Al-Gore
+3225	3238	республиканец	республиканец	PER	ORG-Republican-Party-USA
+3239	3257	Джордж Буш-младший	Джордж Буш-младший	PER	PER-George-Bush-Jr
+3326	3330	Буша	Буш	PER	PER-George-Bush-Jr
+4211	4216	Айове	Айова	LOC	GPE-Iowa
+4269	4275	Трампа	Трамп	PER	PER-Donald-Trump
+4491	4494	США	США	LOC	GPE-USA
+4925	4940	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+4943	4958	Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+5026	5033	Зеленой	Зеленая	ORG	ORG-Green-Party-of-the-United-States
+5035	5050	Либертарианской	Либертарианская	ORG	ORG-Libertarian-Party-USA
+5052	5067	Конституционной	Конституционная	ORG	ORG-Constitution-Party-USA
+5195	5206	Нью-Мексико	Нью-Мексико	LOC	GPE-New-Mexico
+5207	5219	Гэри Джонсон	Гэри Джонсон	PER	PER-Gary-Johnson
+5309	5324	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+5327	5340	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+5771	5781	американцы	американцы	PER	GPE-USA
+5858	5868	Белом доме	Белый дом	ORG	ORG-The-White-House
+5869	5882	магистра Йоду	магистр Йода	PER	PER-Yoda
+5886	5901	«Звездных войн»	Звездные войны	PRO	PRO-Star-Wars
+5903	5915	Чака Норриса	Чак Норрис	PER	PER-Chuck-Norris
+5923	5939	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+5947	5953	Трампа	Трамп	PER	PER-Donald-Trump
+6016	6031	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+6139	6154	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+6207	6222	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+6268	6279	американцев	американцы	PER	GPE-USA
+6286	6293	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+6436	6451	республиканцами	республиканцы	PER	ORG-Republican-Party-USA
+6453	6458	Трамп	Трамп	PER	PER-Donald-Trump
+6562	6573	американцев	американцы	PER	GPE-USA
+6634	6646	американском	американский	LOC	GPE-USA
+6737	6750	вашингтонских	вашингтонский	LOC	GPE-WashingtonDC
+6784	6791	Хиллари	Хиллари	PER	PER-Hillary-Clinton
+6906	6909	США	США	LOC	GPE-USA
+6961	6972	американцев	американцы	PER	GPE-USA
+6980	6995	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+7085	7091	Трампа	Трамп	PER	PER-Donald-Trump
+7112	7127	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+7148	7155	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+7240	7243	ФБР	ФБР	ORG	ORG-FBI
+7273	7280	Хиллари	Хиллари	PER	PER-Hillary-Clinton
+7340	7347	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+7409	7428	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+7732	7751	Коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+7820	7829	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+8049	8059	сената США	сенат США	ORG	ORG-United-States-Senate
+8119	8122	США	США	LOC	GPE-USA
+8134	8146	сената штата	сенат штата	ORG	ORG-United-States-State-Legislature
+8292	8305	конгресса США	конгресс США	ORG	ORG-United-States-Congress
+8338	8344	сената	сенат	ORG	ORG-United-States-Senate
+8529	8548	коллегию выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+8663	8682	коллегию выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+8710	8716	Хилари	Хилари	PER	PER-Hillary-Clinton
+8719	8724	трамп	Трамп	PER	PER-Donald-Trump
+9112	9118	Россия	Россия	LOC	GPE-Russia
+9143	9149	Сибири	Сибирь	LOC	LOC-Siberia
+9211	9220	Краснодар	Краснодар	LOC	GPE-Krasnodar
+9222	9228	Ростов	Ростов	LOC	GPE-Rostov-on-Don
+9230	9236	Москва	Москва	LOC	GPE-Moscow
+9239	9244	Питер	Питер	LOC	GPE-Saint-Petersburg
+9253	9259	Путина	Путин	PER	PER-Vladimir-Putin
+9305	9311	Сибири	Сибирь	LOC	LOC-Siberia
+9415	9424	россиянах	россияне	PER	GPE-Russia
+9465	9471	якутян	якутяне	PER	GPE-Yakutia
+9668	9681	американского	американский	LOC	GPE-USA
+9979	9986	Америке	Америка	LOC	GPE-USA
+10195	10205	Аль Капоне	Аль Капоне	PER	PER-Alphonse-Capone
+10266	10272	Чикаго	Чикаго	LOC	GPE-Chicago
+10373	10378	Путин	Путин	PER	PER-Vladimir-Putin
+10501	10506	"""Ykt"""	"""Ykt"""	PRO	PRO-Ykt.Ru
+10509	10517	"""Ykt.Ru"""	"""Ykt.Ru"""	PRO	PRO-Ykt.Ru
+10535	10541	Ykt.Ru	Ykt.Ru	PRO	PRO-Ykt.Ru
+10584	10590	Якутск	Якутск	LOC	GPE-Yakutsk
+10592	10607	Глухой переулок	Глухой переулок	LOC	GPE-Gluhoy-pereulok-Yakutia

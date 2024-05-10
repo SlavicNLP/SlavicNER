@@ -1,0 +1,16 @@
+25	42	španělské chřipky	španělská chřipka	EVT	EVT-Spanish-Flu
+46	57	koronavirem	koronavirus	EVT	EVT-Covid-19
+140	166	Ústředního krizového štábu	Ústřední krizový štáb	ORG	ORG-Ustredni-krizovy-stab
+167	178	Jan Hamáček	Jan Hamáček	PER	PER-Jan-Hamacek
+180	184	ČSSD	ČSSD	ORG	ORG-CSSD-political-party-CZ
+199	207	iDNES.cz	iDNES.cz	PRO	PRO-iDnes.cz
+215	224	Prymulově	Prymula	PER	PER-Roman-Prymula
+290	297	Prymula	Prymula	PER	PER-Roman-Prymula
+385	393	covid-19	covid-19	EVT	EVT-Covid-19
+722	729	Prymula	Prymula	PER	PER-Roman-Prymula
+740	748	Respektu	Respekt	PRO	PRO-Respekt-news
+866	873	Hamáčka	Hamáček	PER	PER-Jan-Hamacek
+1050	1057	Hamáček	Hamáček	PER	PER-Jan-Hamacek
+1066	1074	iDNES.cz	iDNES.cz	PRO	PRO-iDnes.cz
+1094	1097	ODS	ODS	ORG	ORG-ODS-czech-political-party
+1101	1109	Twitteru	Twitter	PRO	PRO-Twitter

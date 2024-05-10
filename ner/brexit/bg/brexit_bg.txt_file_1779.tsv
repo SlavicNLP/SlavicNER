@@ -1,0 +1,36 @@
+16	22	Лондон	Лондон	LOC	GPE-London
+54	61	Брекзит	Брекзит	EVT	EVT-Brexit
+104	110	Лондон	Лондон	LOC	GPE-London
+169	183	Великобритания	Великобритания	LOC	GPE-Great-Britain
+187	203	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+205	212	Брекзит	Брекзит	EVT	EVT-Brexit
+225	235	Франс прес	Франс прес	ORG	ORG-France-Presse
+256	263	Брекзит	Брекзит	EVT	EVT-Brexit
+490	500	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+511	513	ЕС	ЕС	ORG	ORG-European-Union
+657	670	Чиара Лидуори	Чиара Лидуори	PER	PER-Chiara-Liduori
+704	710	Лондон	Лондон	LOC	GPE-London
+728	735	Брекзит	Брекзит	EVT	EVT-Brexit
+875	884	Емили Хил	Емили Хил	PER	PER-Emily-Hill
+916	918	ЕС	ЕС	ORG	ORG-European-Union
+1015	1017	ЕС	ЕС	ORG	ORG-European-Union
+1111	1124	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+1182	1196	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1200	1216	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1229	1239	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1246	1253	Брекзит	Брекзит	EVT	EVT-Brexit
+1349	1352	Мей	Мей	PER	PER-Theresa-May
+1420	1427	Брекзит	Брекзит	EVT	EVT-Brexit
+1440	1450	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1519	1521	ЕС	ЕС	ORG	ORG-European-Union
+1595	1609	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1614	1630	Стария континент	Стар континент	LOC	LOC-Europe
+1697	1706	Лиъм Фокс	Лиъм Фокс	PER	PER-Liam-Fox
+1956	1960	Фокс	Фокс	PER	PER-Liam-Fox
+1974	1980	БиБиСи	БиБиСи	PRO	PRO-BBC
+2013	2020	News.bg	News.bg	PRO	PRO-News.bg
+2040	2054	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+2080	2126	Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+2170	2184	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+2433	2447	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+2529	2544	WEB MEDIA GROUP	Web media group	ORG	ORG-Web-Media-Group

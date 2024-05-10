@@ -1,0 +1,19 @@
+4	10	covidu	covid	EVT	EVT-Covid-19
+18	24	Bidena	Biden	PER	PER-Joe-Biden
+36	42	Trumpa	Trump	PER	PER-Donald-Trump
+76	87	republikáni	republikáni	PER	ORG-Republican-Party-USA
+115	135	Republikánské strany	Republikánská strana	ORG	ORG-Republican-Party-USA
+268	281	EuroZprávy.cz	EuroZprávy.cz	PRO	PRO-EuroZprávy.cz
+282	296	Tomáš Hostýnek	Tomáš Hostýnek	PER	PER-Tomas-Hostynek
+299	360	Katedry anglického jazyka a literatury a mezinárodních vztahů	Katedra anglického jazyka a literatury a mezinárodních vztahů	ORG	ORG-Katedra-anglickeho-jazyka-a-literatury-a-mezinarodnich-vztahu(ZCU-CZ)
+364	394	Západočeské univerzitě v Plzni	Západočeská univerzita v Plzni	ORG	ORG-University-of-West-Bohemia
+410	421	republikáni	republikáni	PER	ORG-Republican-Party-USA
+424	433	demokraté	demokraté	PER	ORG-Democratic-Party-USA
+641	661	Republikánské strany	Republikánská strana	ORG	ORG-Republican-Party-USA
+811	831	Republikánské strany	Republikánská strana	ORG	ORG-Republican-Party-USA
+887	896	demokraty	demokraté	PER	ORG-Democratic-Party-USA
+899	909	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+1113	1124	republikáni	republikáni	PER	ORG-Republican-Party-USA
+1149	1158	Demokraté	Demokraté	PER	ORG-Democratic-Party-USA
+1270	1281	Republikáni	Republikáni	PER	ORG-Republican-Party-USA
+1326	1335	demokratů	demokraté	PER	ORG-Democratic-Party-USA

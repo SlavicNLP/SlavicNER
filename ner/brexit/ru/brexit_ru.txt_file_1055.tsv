@@ -1,0 +1,19 @@
+29	37	брексита	брексит	EVT	EVT-Brexit
+61	75	Великобритании	Великобритания	LOC	GPE-Great-Britain
+76	86	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+138	156	Европейского Союза	Европейский Союз	ORG	ORG-European-Union
+157	171	Доминика Рааба	Доминик Рааб	PER	PER-Dominic-Raab
+327	335	брексита	брексит	EVT	EVT-Brexit
+337	348	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+350	362	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+385	404	референдуму 2016 г.	референдум 2016 г.	EVT	EVT-Brexit-Referendum
+435	444	Евросоюза	Евросоюз	ORG	ORG-European-Union
+447	458	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+521	531	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+548	557	Евросоюза	Евросоюз	ORG	ORG-European-Union
+600	615	Великобританией	Великобритания	LOC	GPE-Great-Britain
+618	620	ЕС	ЕС	ORG	ORG-European-Union
+689	706	Европейского суда	Европейский суд	ORG	ORG-European-Court-of-Justice
+709	720	Люксембурге	Люксембург	LOC	GPE-Luxembourg
+722	732	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+754	763	брекситом	брексит	EVT	EVT-Brexit

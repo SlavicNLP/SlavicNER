@@ -1,0 +1,21 @@
+0	9	М. Барние	М. Барние	PER	PER-Michel-Barnier
+49	63	Великобритания	Великобритания	LOC	GPE-Great-Britain
+113	115	ЕС	ЕС	ORG	ORG-European-Union
+119	126	Брекзит	Брекзит	EVT	EVT-Brexit
+127	139	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+152	158	Лондон	Лондон	LOC	GPE-London
+182	195	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+209	219	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+221	227	Барние	Барние	PER	PER-Michel-Barnier
+335	337	ЕС	ЕС	ORG	ORG-European-Union
+413	419	Барние	Барние	PER	PER-Michel-Barnier
+422	428	Дейвис	Дейвис	PER	PER-David-Davis
+457	471	Великобритания	Великобритания	LOC	GPE-Great-Britain
+541	553	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+627	641	Великобритания	Великобритания	LOC	GPE-Great-Britain
+698	718	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+771	779	Ирландия	Ирландия	LOC	GPE-Ireland
+813	819	Барние	Барние	PER	PER-Michel-Barnier
+993	1001	британци	британци	PER	GPE-Great-Britain
+1036	1042	Барние	Барние	PER	PER-Michel-Barnier
+1147	1160	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis

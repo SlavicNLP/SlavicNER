@@ -1,0 +1,13 @@
+8	19	koronavirus	koronavirus	EVT	EVT-Covid-19
+152	160	covid-19	covid-19	EVT	EVT-Covid-19
+353	361	Jaroslav	Jaroslav	PER	PER-Jaroslov-nekdo
+578	592	CNN Prima NEWS	CNN Prima NEWS	PRO	PRO-Prima-CNN-News
+593	604	Jaroslavova	Jaroslavova	PER	PER-Jaroslov-nekdo
+610	619	Miroslava	Miroslava	PER	PER-Miroslava-nekdo
+861	890	klíšťovou meningoencefalitidu	klíšťová meningoencefalitida	EVT	EVT-Meningoencephalitis
+1334	1343	Miroslava	Miroslava	PER	PER-Miroslava-nekdo
+1427	1443	Ostrově nad Ohří	Ostrov nad Ohří	LOC	GPE-Ostrov-nad-Ohri
+1645	1661	Hana Cabrnochová	Hana Cabrnochová	PER	PER-Hana-Cabrnochova
+1763	1818	Odborné společnosti praktických dětských lékařů ČLS JEP	Odborná společnost praktických dětských lékařů ČLS JEP	ORG	ORG-Oborna-spolecnost-praktickych-detskych-CLS-JEP
+1838	1878	České vakcinologické společnosti ČLS JEP	Česká vakcinologická společnost ČLS JEP	ORG	ORG-Oborna-spolecnost-praktickych-detskych-CLS-JEP
+2037	2053	lymské boreliózy	lymská borelióza	EVT	EVT-Lyme-disease

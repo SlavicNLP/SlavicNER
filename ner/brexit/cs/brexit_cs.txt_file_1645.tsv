@@ -1,0 +1,22 @@
+2	9	Brexitu	brexit	EVT	EVT-Brexit
+24	26	EU	EU	ORG	ORG-European-Union
+112	126	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+269	276	Barnier	Barnier	PER	PER-Michel-Barnier
+421	434	Evropské rady	Evropská rada	ORG	ORG-European-Council
+435	448	Preben Aamann	Preben Aamann	PER	PER-Preben-Aamann
+452	460	Twitteru	Twitter	PRO	PRO-Twitter
+496	500	Tusk	Tusk	PER	PER-Donald-Tusk
+748	755	Barnier	Barnier	PER	PER-Michel-Barnier
+870	876	Irskem	Irsko	LOC	GPE-Ireland
+888	903	severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+905	914	Španělsko	Španělsko	LOC	GPE-Spain
+994	1004	Gibraltaru	Gibraltar	LOC	GPE-Gibraltar
+1031	1040	Španělska	Španělsko	LOC	GPE-Spain
+1047	1054	brexitu	brexit	EVT	EVT-Brexit
+1058	1060	EU	EU	ORG	ORG-European-Union
+1073	1081	Británií	Británie	LOC	GPE-Great-Britain
+1216	1223	Barnier	Barnier	PER	PER-Michel-Barnier
+1239	1241	EU	EU	ORG	ORG-European-Union
+1272	1279	Britové	Britové	PER	GPE-Great-Britain
+1354	1356	EU	EU	ORG	ORG-European-Union
+1528	1535	Bruselu	Brusel	LOC	GPE-Brussles

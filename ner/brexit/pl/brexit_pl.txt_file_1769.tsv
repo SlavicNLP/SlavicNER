@@ -1,0 +1,33 @@
+19	27	Londynie	Londyn	LOC	GPE-London
+51	60	Brexitowi	Brexit	EVT	EVT-Brexit
+179	190	Theresy May	Theresa May	PER	PER-Theresa-May
+194	208	Downing Street	Downing Street	LOC	LOC-Downing-Street
+265	277	Partią Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+301	314	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+390	413	brytyjskiego parlamentu	Brytyjski Parlament	ORG	ORG-British-Parlament
+478	495	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+498	500	UE	UE	ORG	ORG-European-Union
+550	561	Gina Miller	Gina Miller	PER	PER-Gina-Miller
+691	700	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1035	1057	Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+1058	1069	Vince Cable	Vince Cable	PER	PER-Vince-Cable
+1085	1091	Brexit	Brexit	EVT	EVT-Brexit
+1150	1166	Partii Zielonych	Partia Zielonych	ORG	ORG-Green-Party-UK
+1167	1181	Caroline Lucas	Caroline Lucas	PER	PER-Caroline-Lucas
+1207	1209	UE	UE	ORG	ORG-European-Union
+1336	1347	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1374	1376	UE	UE	ORG	ORG-European-Union
+1394	1403	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1588	1599	Głos narodu	Głos narodu	EVT	EVT-Peoples-Vote
+1607	1620	People's Vote	People's Vote	EVT	EVT-Peoples-Vote
+1691	1700	Brexitowi	Brexit	EVT	EVT-Brexit
+1729	1741	Open Britain	Open Britain	ORG	ORG-Open-Britain
+1793	1795	UE	UE	ORG	ORG-European-Union
+1838	1847	Survation	Survation	ORG	ORG-Survation
+1969	1986	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1989	1991	UE	UE	ORG	ORG-European-Union
+2008	2016	Brexitem	Brexit	EVT	EVT-Brexit
+2131	2146	Johna Curtice'a	John Curtice	PER	PER-John-Curtice
+2321	2336	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2365	2367	UE	UE	ORG	ORG-European-Union
+2401	2410	Wspólnotę	Wspólnota	ORG	ORG-European-Union

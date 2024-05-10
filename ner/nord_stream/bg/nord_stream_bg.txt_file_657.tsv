@@ -1,0 +1,33 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+11	17	Берлин	Берлин	LOC	GPE-Berlin
+35	50	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+68	71	САЩ	САЩ	LOC	GPE-USA
+72	84	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+95	103	Германия	Германия	LOC	GPE-Germany
+168	183	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+228	231	САЩ	САЩ	LOC	GPE-USA
+299	301	ЕС	ЕС	ORG	ORG-European-Union
+313	323	Дау Джоунс	Дау Джоунс	PRO	PRO-Dow-Jones
+326	335	Dow Jones	Dow Jones	PRO	PRO-Dow-Jones
+476	489	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+501	506	Тръмп	Тръмп	PER	PER-Donald-Trump
+520	526	Берлин	Берлин	LOC	GPE-Berlin
+586	589	САЩ	САЩ	LOC	GPE-USA
+645	647	ЕС	ЕС	ORG	ORG-European-Union
+649	654	Тръмп	Тръмп	PER	PER-Donald-Trump
+760	766	Меркел	Меркел	PER	PER-Angela-Merkel
+880	894	Бълтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+1010	1024	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1098	1105	Газпром	Газпром	ORG	ORG-Gazprom
+1130	1137	Украйна	Украйна	LOC	GPE-Ukraine
+1139	1144	Полша	Полша	LOC	GPE-Poland
+1146	1151	Литва	Литва	LOC	GPE-Lithuania
+1154	1160	Латвия	Латвия	LOC	GPE-Latvia
+1225	1238	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+1284	1290	Европа	Европа	LOC	LOC-Europe
+1374	1382	Германия	Германия	LOC	GPE-Germany
+1416	1431	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1479	1488	Финландия	Финландия	LOC	GPE-Finland
+1579	1585	Швеция	Швеция	LOC	GPE-Sweden
+1588	1593	Дания	Дания	LOC	GPE-Denmark
+1602	1607	Русия	Русия	LOC	GPE-Russia

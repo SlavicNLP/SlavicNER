@@ -1,0 +1,37 @@
+6	12	Байден	Байден	PER	PER-Joe-Biden
+43	50	Россией	Россия	LOC	GPE-Russia
+74	77	США	США	LOC	GPE-USA
+79	82	США	США	LOC	GPE-USA
+114	121	Россией	Россия	LOC	GPE-Russia
+171	174	США	США	LOC	GPE-USA
+175	185	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+199	209	Белом доме	Белый дом	ORG	ORG-The-White-House
+236	243	Украины	Украина	LOC	GPE-Ukraine
+260	263	США	США	LOC	GPE-USA
+275	282	Украине	Украина	LOC	GPE-Ukraine
+488	495	Украины	Украина	LOC	GPE-Ukraine
+532	540	Донбассе	Донбасс	LOC	LOC-Donbass
+733	739	Байден	Байден	PER	PER-Joe-Biden
+797	810	Конгрессу США	Конгресс США	ORG	ORG-United-States-Congress
+862	869	Украине	Украина	LOC	GPE-Ukraine
+957	965	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+970	977	Украины	Украина	LOC	GPE-Ukraine
+1041	1049	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+1144	1149	Киеву	Киев	LOC	GPE-Kiev
+1201	1204	США	США	LOC	GPE-USA
+1278	1285	Украине	Украина	LOC	GPE-Ukraine
+1328	1336	Донбассе	Донбасс	LOC	LOC-Donbass
+1338	1341	США	США	LOC	GPE-USA
+1431	1438	Украине	Украина	LOC	GPE-Ukraine
+1512	1518	Байден	Байден	PER	PER-Joe-Biden
+1584	1591	Украины	Украина	LOC	GPE-Ukraine
+1607	1615	Донбассе	Донбасс	LOC	LOC-Donbass
+1647	1654	Байдена	Байден	PER	PER-Joe-Biden
+1656	1659	США	США	LOC	GPE-USA
+1705	1712	Украине	Украина	LOC	GPE-Ukraine
+1766	1771	Запад	Запад	LOC	LOC-West
+1787	1793	России	Россия	LOC	GPE-Russia
+1817	1824	Байдена	Байден	PER	PER-Joe-Biden
+1826	1829	США	США	LOC	GPE-USA
+1842	1849	Украине	Украина	LOC	GPE-Ukraine
+1974	1981	Украины	Украина	LOC	GPE-Ukraine

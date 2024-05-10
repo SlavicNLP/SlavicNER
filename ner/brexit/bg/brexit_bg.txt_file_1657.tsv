@@ -1,0 +1,18 @@
+15	24	Шотландия	Шотландия	LOC	GPE-Scotland
+46	53	Брекзит	Брекзит	EVT	EVT-Brexit
+70	79	Шотландия	Шотландия	LOC	GPE-Scotland
+101	108	Брекзит	Брекзит	EVT	EVT-Brexit
+146	153	Ройтерс	Ройтерс	ORG	ORG-Reuters
+222	228	Лондон	Лондон	LOC	GPE-London
+275	284	Шотландия	Шотландия	LOC	GPE-Scotland
+328	335	Брекзит	Брекзит	EVT	EVT-Brexit
+436	444	Единбург	Единбург	LOC	GPE-Edinburgh
+447	453	Лондон	Лондон	LOC	GPE-London
+498	508	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+556	569	Дейвид Мъндел	Дейвид Мъндел	PER	PER-David-Mandel
+738	746	Би Би Си	Би Би Си	PRO	PRO-BBC
+809	839	Шотландската национална партия	Шотландска национална партия	ORG	ORG-Scottish-National-Party
+874	883	Шотландия	Шотландия	LOC	GPE-Scotland
+910	916	Лондон	Лондон	LOC	GPE-London
+936	944	Единбург	Единбург	LOC	GPE-Edinburgh
+1144	1174	Шотландската национална партия	Шотландска национална партия	ORG	ORG-Scottish-National-Party

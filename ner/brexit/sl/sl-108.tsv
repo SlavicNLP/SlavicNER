@@ -1,0 +1,42 @@
+0	8	Krimexit	Krimexit	EVT	EVT-Crimexit
+12	18	brexit	brexit	EVT	EVT-Brexit
+20	33	Violeta Tomić	Violeta Tomić	PER	PER-Violeta-Tomić
+50	54	Krim	Krim	LOC	GPE-Crimea
+92	106	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+330	350	evropskem parlamentu	evropski parlament	ORG	ORG-European-Parliament
+382	393	Maastrichtu	Maastricht	LOC	GPE-Maastricht
+400	418	Fransu Timmermansu	Frans Timmermans	PER	PER-Frans-Timmermans
+420	423	S&D	S&D	ORG	ORG-SD-Progressive-Alliance-of-Socialists-and-Democrats
+426	443	Guyu Verhofstadtu	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+445	449	ALDE	ALDE	ORG	ORG-ALDE
+452	466	Busu Eickhoutu	Bus Eickhout	PER	PER-Bus-Eickhout
+468	474	Zeleni	Zeleni	ORG	ORG-Green-Party-Germany
+479	493	Janu Zahradilu	Jan Zahradil	PER	PER-Jan-Zahradil
+495	531	Evropski konservativci in reformisti	Evropski konservativci in reformisti	ORG	ORG-European-Conservatives-and-Reformists-Group
+549	562	Violeta Tomić	Violeta Tomić	PER	PER-Violeta-Tomić
+571	579	Slovenka	Slovenka	PER	GPE-Slovenia
+666	681	Evropske levice	Evropska levica	ORG	ORG-Party-of-the-European-Left
+756	764	Tomićeva	Tomić	PER	PER-Violeta-Tomić
+865	880	Evropske levice	Evropska levica	ORG	ORG-Party-of-the-European-Left
+1264	1288	Evropske centralne banke	Evropska centralna banka	ORG	ORG-European-Central-Bank
+1433	1440	Firence	Firence	LOC	GPE-Florence
+1523	1526	EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+1527	1540	Manfred Weber	Manfred Weber	PER	PER-Manfred-Weber
+1649	1662	Violeta Tomić	Violeta Tomić	PER	PER-Violeta-Tomić
+1809	1818	Euronewsa	Euronews	ORG	ORG-Euronews
+1935	1941	Evropa	Evropa	LOC	LOC-Europe
+2080	2086	Rusija	Rusija	LOC	GPE-Russia
+2094	2109	krimski polotok	krimski polotok	LOC	GPE-Crimea
+2110	2118	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+2120	2128	Tomićeva	Tomić	PER	PER-Violeta-Tomić
+2364	2370	Kijevu	Kijev	LOC	GPE-Kiev
+2375	2377	EU	EU	ORG	ORG-European-Union
+2381	2384	ZDA	ZDA	LOC	GPE-USA
+2413	2419	Rusija	Rusija	LOC	GPE-Russia
+2503	2509	Rusijo	Rusija	LOC	GPE-Russia
+2533	2538	Krima	Krim	LOC	GPE-Crimea
+2605	2613	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+2615	2617	EU	EU	ORG	ORG-European-Union
+2621	2624	ZDA	ZDA	LOC	GPE-USA
+2646	2651	Krima	Krim	LOC	GPE-Crimea
+2654	2660	Rusiji	Rusija	LOC	GPE-Russia

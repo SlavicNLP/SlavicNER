@@ -1,0 +1,13 @@
+0	11	Theresa May	Theresa May	PER	PER-Theresa-May
+13	19	brexit	Brexit	EVT	EVT-Brexit
+56	73	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+93	104	Theresa May	Theresa May	PER	PER-Theresa-May
+136	153	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+174	191	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+218	226	brexicie	Brexit	EVT	EVT-Brexit
+333	335	AP	AP	ORG	ORG-AP-The-Associated-Press
+358	369	Theresa May	Theresa May	PER	PER-Theresa-May
+403	405	UE	UE	ORG	ORG-European-Union
+426	437	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+464	472	brexicie	Brexit	EVT	EVT-Brexit
+593	595	AP	AP	ORG	ORG-AP-The-Associated-Press

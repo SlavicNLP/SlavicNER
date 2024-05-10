@@ -1,0 +1,14 @@
+0	6	Лондон	Лондон	LOC	GPE-London
+20	29	Армагедон	Армагедон	EVT	EVT-Armageddon
+35	42	Брекзит	Брекзит	EVT	EVT-Brexit
+62	76	Великобритания	Великобритания	LOC	GPE-Great-Britain
+103	112	Армагедон	Армагедон	EVT	EVT-Armageddon
+118	125	Брекзит	Брекзит	EVT	EVT-Brexit
+175	185	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+199	206	Ройтерс	Ройтерс	ORG	ORG-Reuters
+368	370	ЕС	ЕС	ORG	ORG-European-Union
+419	431	Съндей таймс	Съндей таймс	PRO	PRO-The-Sunday-Times
+460	462	ЕС	ЕС	ORG	ORG-European-Union
+479	488	Армагедон	Армагедон	EVT	EVT-Armageddon
+493	507	Великобритания	Великобритания	LOC	GPE-Great-Britain
+790	797	Брекзит	Брекзит	EVT	EVT-Brexit

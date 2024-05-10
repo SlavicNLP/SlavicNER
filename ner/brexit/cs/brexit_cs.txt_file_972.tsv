@@ -1,0 +1,25 @@
+0	8	Británie	Británie	LOC	GPE-Great-Britain
+19	26	brexitu	brexit	EVT	EVT-Brexit
+48	50	EU	EU	ORG	ORG-European-Union
+66	68	EU	EU	ORG	ORG-European-Union
+74	92	Spojené království	Spojené království	LOC	GPE-Great-Britain
+377	379	EU	EU	ORG	ORG-European-Union
+393	401	Británií	Británie	LOC	GPE-Great-Britain
+494	496	EU	EU	ORG	ORG-European-Union
+499	507	Británie	Británie	LOC	GPE-Great-Britain
+694	702	Británie	Británie	LOC	GPE-Great-Britain
+706	713	brexitu	brexit	EVT	EVT-Brexit
+1116	1122	Londýn	Londýn	LOC	GPE-London
+1151	1153	EU	EU	ORG	ORG-European-Union
+1189	1209	Rady bezpečnosti OSN	Rada bezpečnosti OSN	ORG	ORG-UN-Security-Council
+1245	1268	Mezinárodní měnový fond	Mezinárodní měnový fond	ORG	ORG-International-Monetary-Fund
+1270	1273	MMF	MMF	ORG	ORG-International-Monetary-Fund
+1276	1289	Světová banka	Světová banka	ORG	ORG-World-Bank
+1318	1320	G7	G7	ORG	ORG-G7
+1322	1369	Organizace pro hospodářskou spolupráci a rozvoj	Organizace pro hospodářskou spolupráci a rozvoj	ORG	ORG-OECD-Organisation-for-Economic-Co-operation-and-Development
+1371	1375	OECD	OECD	ORG	ORG-OECD-Organisation-for-Economic-Co-operation-and-Development
+1379	1383	NATO	NATO	ORG	ORG-NATO
+1609	1615	Londýn	Londýn	LOC	GPE-London
+1855	1860	PESCO	PESCO	PRO	PRO-PESCO
+1862	1870	Británie	Británie	LOC	GPE-Great-Britain
+1891	1893	EU	EU	ORG	ORG-European-Union

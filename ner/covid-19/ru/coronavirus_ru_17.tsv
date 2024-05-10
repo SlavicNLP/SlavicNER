@@ -1,0 +1,28 @@
+92	98	МОСКВА	Москва	LOC	GPE-Moscow
+109	120	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+142	149	россиян	Россияне	PER	GPE-Russia
+153	165	коронавируса	Коронавирус	EVT	EVT-Covid-19
+207	223	Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+244	253	Россия 24	Россия 24	PRO	PRO-Russia-24-TV
+329	345	центром Чумакова	Научный центр исследований и разработки иммунобиологических препаратов имени М.П. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+380	396	Роспотребнадзора	Роспотребнадзор	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+397	408	Анна Попова	Анна Попова	PER	PER-Anna-Popova
+458	464	России	Россия	LOC	GPE-Russia
+482	494	коронавируса	Коронавирус	EVT	EVT-Covid-19
+715	729	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+732	738	России	Россия	LOC	GPE-Russia
+792	798	Москве	Москва	LOC	GPE-Moscow
+1015	1018	МФЦ	МФЦ	ORG	ORG-Multifunctional-center
+1304	1312	COVID-19	COVID-19	EVT	EVT-Covid-19
+1315	1321	России	Россия	LOC	GPE-Russia
+1353	1371	стопкоронавирус.рф	Стопкоронавирус.рф	PRO	PRO-Stop-Coronavirus
+1384	1393	спутник v	Спутник V	PRO	PRO-Sputnik-V
+1396	1407	коронавирус	Коронавирус	EVT	EVT-Covid-19
+1410	1416	россии	Россия	LOC	GPE-Russia
+1418	1429	коронавирус	Коронавирус	EVT	EVT-Covid-19
+1430	1438	covid-19	COVID-19	EVT	EVT-Covid-19
+1440	1446	россия	Россия	LOC	GPE-Russia
+1457	1469	коронавирусы	Коронавирус	EVT	EVT-Covid-19
+1492	1508	татьяна голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+1510	1524	владимир путин	Владимир Путин	PER	PER-Vladimir-Putin
+1526	1532	москва	Москва	LOC	GPE-Moscow

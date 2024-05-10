@@ -1,0 +1,38 @@
+0	8	Covid-19	Covid-19	EVT	EVT-Covid-19
+35	44	Sloveniji	Slovenija	LOC	GPE-Slovenia
+46	71	Yildizlar Yatirim Holding	Yildizlar Yatirim Holding	ORG	ORG-Yildizlar-Yatirim-Holding
+182	191	Dravograd	Dravograd	LOC	LOC-Dravograd
+212	237	Yildizlar Yatirim Holding	Yildizlar Yatirim Holding	ORG	ORG-Yildizlar-Yatirim-Holding
+267	279	Otiškem Vrhu	Otiški Vrh	LOC	LOC-Otiški-Vrh
+353	401	ministrstvo za gospodarski razvoj in tehnologijo	ministrstvo za gospodarski razvoj in tehnologijo	ORG	ORG-Ministry-of-Economic-Development-and-Technology-Slovenia
+494	503	covida-19	covid-19	EVT	EVT-Covid-19
+561	569	Koroškem	Koroška	LOC	GPE-Carinthia-statistical-region
+575	623	ministrstvu za gospodarski razvoj in tehnologijo	ministrstvo za gospodarski razvoj in tehnologijo	ORG	ORG-Ministry-of-Economic-Development-and-Technology-Slovenia
+858	882	Yidizlar Yatirim Holding	Yildizlar Yatirim Holding	ORG	ORG-Yildizlar-Yatirim-Holding
+1342	1354	Otiškem Vrhu	Otiški Vrh	LOC	LOC-Otiški-Vrh
+1458	1468	Luke Koper	Luka Koper	LOC	GPE-Koper
+1471	1477	Afriko	Afrika	LOC	LOC-Africa
+1479	1493	Yildiz Entegre	Yildiz Entegre	ORG	ORG-Yildiz-Entegre
+1543	1550	Turčiji	Turčija	LOC	GPE-Turkey
+1552	1560	Romuniji	Romunija	LOC	GPE-Romania
+1564	1589	Združenih državah Amerike	Združene države Amerike	LOC	GPE-USA
+1755	1764	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1820	1826	Evropi	Evropa	LOC	LOC-Europe
+1833	1843	Luke Koper	Luka Koper	LOC	LOC-Luka-Koper
+1904	1929	Yildizlar Yatirim Holding	Yildizlar Yatirim Holding	ORG	ORG-Yildizlar-Yatirim-Holding
+2027	2036	Slovenijo	Slovenija	LOC	GPE-Slovenia
+2089	2102	Dejana Židana	Dejan Židan	PER	PER-Dejan-Židan
+2161	2182	Heta Asset Resolution	Heta Asset Resolution	ORG	ORG-HETA-Asset-Resolution
+2471	2479	Romuniji	Romunija	LOC	GPE-Romania
+2503	2517	Yildiz Entegre	Yildiz Entegre	ORG	ORG-Yildiz-Entegre
+2551	2558	Piteşti	Piteşti	LOC	LOC-Piteşti
+2817	2824	Turčiji	Turčija	LOC	GPE-Turkey
+2834	2841	Kartepe	Kartepe	LOC	LOC-Kartepe
+3356	3366	Otiški Vrh	Otiški Vrh	LOC	LOC-Otiški-Vrh
+3370	3377	Nemčije	Nemčija	LOC	GPE-Germany
+3408	3413	Turki	Turki	PER	GPE-Turkey
+3561	3586	Slovenski državni gozdovi	Slovenski državni gozdovi	ORG	ORG-SiDG
+3596	3604	Koroškem	Koroška	LOC	GPE-Carinthia-statistical-region
+3773	3789	Preventa Globala	Prevent Global	ORG	ORG-Prevent-Global
+3803	3809	Miador	Miador	ORG	ORG-Miador
+3813	3822	Istanbula	Istanbul	LOC	GPE-Istanbul

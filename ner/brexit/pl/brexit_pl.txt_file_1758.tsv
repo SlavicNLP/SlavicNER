@@ -1,0 +1,68 @@
+8	16	Irlandii	Irlandia	LOC	GPE-Ireland
+50	56	brexit	Brexit	EVT	EVT-Brexit
+80	86	brexit	Brexit	EVT	EVT-Brexit
+169	182	Irlandii Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+219	226	Kłopoty	Kłopoty	EVT	EVT-The-Troubles
+248	253	Newry	Newry	LOC	GPE-Newry
+294	303	Kłopotami	Kłopoty	EVT	EVT-The-Troubles
+313	325	the Troubles	The Troubles	EVT	EVT-The-Troubles
+338	346	Irlandii	Irlandia	LOC	GPE-Ireland
+527	554	porozumienie wielkopiątkowe	Porozumienie wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+567	576	Belfaście	Belfast	LOC	GPE-Belfast
+641	659	Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+726	732	Londyn	Londyn	LOC	GPE-London
+736	743	Belfast	Belfast	LOC	GPE-Belfast
+827	840	Irlandii Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+944	957	Irlandii Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+1197	1211	Ciaran Shannon	Ciaran Shannon	PER	PER-Ciaran-Shannon
+1255	1269	Alexandra Park	Alexandra Park	LOC	LOC-Alexandra-Park
+1272	1281	Belfaście	Belfast	LOC	GPE-Belfast
+1582	1591	Belfaście	Belfast	LOC	GPE-Belfast
+1895	1909	Alexandra Park	Alexandra Park	LOC	LOC-Alexandra-Park
+1944	1954	Shannonowi	Shannon	PER	PER-Ciaran-Shannon
+2345	2352	Shannon	Shannon	PER	PER-Ciaran-Shannon
+2395	2408	Irlandii Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+2450	2459	Belfaście	Belfast	LOC	GPE-Belfast
+2981	2989	Kłopotów	Kłopoty	EVT	EVT-The-Troubles
+3264	3275	Brian McKee	Brian McKee	PER	PER-Brian-McKee
+3278	3291	Houben Centre	Houben Centre	ORG	ORG-Houben-Centre
+3322	3331	Belfaście	Belfast	LOC	GPE-Belfast
+3358	3371	Houben Centre	Houben Centre	ORG	ORG-Houben-Centre
+3500	3513	Irlandii Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+3943	3956	Houben Centre	Houben Centre	ORG	ORG-Houben-Centre
+3972	3979	brexitu	Brexit	EVT	EVT-Brexit
+4012	4018	brexit	Brexit	EVT	EVT-Brexit
+4163	4176	Houben Centre	Houben Centre	ORG	ORG-Houben-Centre
+4185	4214	porozumieniu wielkopiątkowemu	Porozumienie wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+4253	4261	Irlandią	Irlandia	LOC	GPE-Ireland
+4264	4277	Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+4334	4342	brexicie	Brexit	EVT	EVT-Brexit
+4562	4570	Dublinie	Dublin	LOC	GPE-Dublin
+4659	4665	brexit	Brexit	EVT	EVT-Brexit
+4710	4717	Londynu	Londyn	LOC	GPE-London
+4720	4724	Unią	Unia	ORG	ORG-European-Union
+4828	4830	UE	UE	ORG	ORG-European-Union
+4845	4853	brexicie	Brexit	EVT	EVT-Brexit
+4966	4974	Dublinem	Dublin	LOC	GPE-Dublin
+4977	4986	Belfastem	Belfast	LOC	GPE-Belfast
+5002	5013	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+5046	5050	Unią	Unia	ORG	ORG-European-Union
+5140	5144	Unii	Unia	ORG	ORG-European-Union
+5146	5152	Londyn	Londyn	LOC	GPE-London
+5161	5169	Brukseli	Bruksela	LOC	GPE-Brussles
+5176	5184	Irlandii	Irlandia	LOC	GPE-Ireland
+5233	5244	Theresy May	Theresa May	PER	PER-Theresa-May
+5302	5315	Irlandii Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+5355	5357	UE	UE	ORG	ORG-European-Union
+5400	5402	UE	UE	ORG	ORG-European-Union
+5438	5451	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+5494	5502	Belfastu	Belfast	LOC	GPE-Belfast
+5718	5732	Alexandra Park	Alexandra Park	LOC	LOC-Alexandra-Park
+5816	5824	Irlandią	Irlandia	LOC	GPE-Ireland
+5950	5958	Belfastu	Belfast	LOC	GPE-Belfast
+6070	6084	Alexandra Park	Alexandra Park	LOC	LOC-Alexandra-Park
+6089	6102	Houben Centre	Houben Centre	ORG	ORG-Houben-Centre
+6107	6120	Irlandii Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+6395	6405	John Lynch	John Lynch	PER	PER-John-Lynch
+6449	6454	Newry	Newry	LOC	GPE-Newry
+6555	6563	Kłopotów	Kłopoty	EVT	EVT-The-Troubles

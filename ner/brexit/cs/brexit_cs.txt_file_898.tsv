@@ -1,0 +1,16 @@
+10	18	brexitem	brexit	EVT	EVT-Brexit
+26	31	Britů	Britové	PER	GPE-Great-Britain
+55	57	EU	EU	ORG	ORG-European-Union
+89	94	Britů	Britové	PER	GPE-Great-Britain
+139	141	EU	EU	ORG	ORG-European-Union
+171	178	Německa	Německo	LOC	GPE-Germany
+276	283	Reuters	Reuters	ORG	ORG-Reuters
+381	388	Francii	Francie	LOC	GPE-France
+446	451	Britů	Britové	PER	GPE-Great-Britain
+632	637	Britů	Britové	PER	GPE-Great-Britain
+682	689	brexitu	brexit	EVT	EVT-Brexit
+696	704	Eurostat	Eurostat	ORG	ORG-Eurostat
+741	748	Britové	Britové	PER	GPE-Great-Britain
+769	776	brexitu	brexit	EVT	EVT-Brexit
+842	844	EU	EU	ORG	ORG-European-Union
+962	964	EU	EU	ORG	ORG-European-Union

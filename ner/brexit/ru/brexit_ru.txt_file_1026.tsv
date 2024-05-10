@@ -1,0 +1,44 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+29	35	Дэвиса	Дэвис	PER	PER-David-Davis
+45	56	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+82	90	Британии	Британия	LOC	GPE-Great-Britain
+94	96	ЕС	ЕС	ORG	ORG-European-Union
+191	199	Британии	Британия	LOC	GPE-Great-Britain
+200	211	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+350	375	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+439	444	Дэвис	Дэвис	PER	PER-David-Davis
+452	467	Financial Times	Financial Times	PRO	PRO-Financial-Times
+526	529	Мэй	Мэй	PER	PER-Theresa-May
+651	654	Мэй	Мэй	PER	PER-Theresa-May
+744	750	Дэвиса	Дэвис	PER	PER-David-Davis
+814	816	FT	FT	PRO	PRO-Financial-Times
+950	955	Дэвис	Дэвис	PER	PER-David-Davis
+1003	1005	ЕС	ЕС	ORG	ORG-European-Union
+1045	1051	Дэвису	Дэвис	PER	PER-David-Davis
+1061	1064	Мэй	Мэй	PER	PER-Theresa-May
+1097	1105	Британию	Британия	LOC	GPE-Great-Britain
+1203	1211	Брюссель	Брюссель	LOC	GPE-Brussles
+1239	1247	Британии	Британия	LOC	GPE-Great-Britain
+1333	1336	Мэй	Мэй	PER	PER-Theresa-May
+1372	1387	таможенный союз	таможенный союз	ORG	ORG-European-Union-Customs-Union
+1391	1415	британском правительстве	британское правительство	ORG	ORG-the-UK-Government
+1505	1511	Дэвиса	Дэвис	PER	PER-David-Davis
+1549	1564	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1566	1573	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1682	1688	Дэвиса	Дэвис	PER	PER-David-Davis
+1870	1879	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1957	1981	британском правительстве	британское правительство	ORG	ORG-the-UK-Government
+2038	2040	ЕС	ЕС	ORG	ORG-European-Union
+2263	2269	Дэвиса	Дэвис	PER	PER-David-Davis
+2383	2389	Дэвиса	Дэвис	PER	PER-David-Davis
+2639	2644	Дэвис	Дэвис	PER	PER-David-Davis
+2745	2751	Дэвиса	Дэвис	PER	PER-David-Davis
+2799	2802	Мэй	Мэй	PER	PER-Theresa-May
+2965	2967	ЕС	ЕС	ORG	ORG-European-Union
+2982	2985	BBC	BBC	ORG	ORG-BBC-Ltd
+2997	3003	Дэвиса	Дэвис	PER	PER-David-Davis
+3058	3061	Мэй	Мэй	PER	PER-Theresa-May
+3150	3152	ЕС	ЕС	ORG	ORG-European-Union
+3208	3210	ЕС	ЕС	ORG	ORG-European-Union
+3271	3275	тори	тори	PER	ORG-Conservative-and-Unionist-Party-UK
+3303	3305	ЕС	ЕС	ORG	ORG-European-Union

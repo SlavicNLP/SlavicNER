@@ -1,0 +1,23 @@
+12	46	извънредната епидемична обстановка	извънредна епидемична обстановка	EVT	EVT-State-of-Emergency
+78	90	коронавируса	коронавирус	EVT	EVT-Covid-19
+127	146	Министерският съвет	Министерски съвет	ORG	ORG-Council-of-Ministers-Bulgaria
+172	206	Министерството на здравеопазването	Министерство на здравеопазването	ORG	ORG-Ministry-of-Health-Bulgaria
+209	235	Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+253	287	извънредната епидемична обстановка	извънредна епидемична обстановка	EVT	EVT-State-of-Emergency
+352	369	Министерски съвет	Министерски съвет	ORG	ORG-Council-of-Ministers-Bulgaria
+401	414	Кирил Ананиев	Кирил Ананиев	PER	PER-Kiril-Ananiev
+460	472	коронавируса	коронавирус	EVT	EVT-Covid-19
+666	677	коронавирус	коронавирус	EVT	EVT-Covid-19
+1143	1155	коронавируса	коронавирус	EVT	EVT-Covid-19
+1296	1304	Covid-19	COVID-19	EVT	EVT-Covid-19
+1495	1503	Covid-19	COVID-19	EVT	EVT-Covid-19
+1858	1866	Covid-19	COVID-19	EVT	EVT-Covid-19
+1879	1886	Ананиев	Ананиев	PER	PER-Kiril-Ananiev
+2482	2516	извънредната епидемична обстановка	извънредна епидемична обстановка	EVT	EVT-State-of-Emergency
+2556	2564	България	България	LOC	GPE-Bulgaria
+2611	2619	Covid-19	COVID-19	EVT	EVT-Covid-19
+2708	2720	Ангел Кунчев	Ангел Кунчев	PER	PER-Angel-Kunchev
+2809	2821	коронавируса	коронавирус	EVT	EVT-Covid-19
+3148	3155	Ананиев	Ананиев	PER	PER-Kiril-Ananiev
+3428	3434	Кунчев	Кунчев	PER	PER-Angel-Kunchev
+3582	3610	образователното министерство	образователно министерство	ORG	ORG-Ministry-of-education-and-science-Bulgaria

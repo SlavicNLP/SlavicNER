@@ -1,0 +1,26 @@
+0	7	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
+40	43	США	США	LOC	GPE-USA
+67	73	Европы	Европа	LOC	LOC-Europe
+81	93	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+94	104	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+142	145	США	США	LOC	GPE-USA
+165	181	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+248	254	Европе	Европа	LOC	LOC-Europe
+263	266	США	США	LOC	GPE-USA
+307	325	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+408	411	США	США	LOC	GPE-USA
+437	455	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+545	551	Европы	Европа	LOC	LOC-Europe
+562	575	Европарламент	Европарламент	ORG	ORG-European-Parliament
+736	743	Украина	Украина	LOC	GPE-Ukraine
+768	771	ФРГ	ФРГ	LOC	GPE-Germany
+772	788	Герхарда Шредера	Герхард Шредер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+802	818	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+821	824	США	США	LOC	GPE-USA
+848	858	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+886	893	Берлина	Берлин	LOC	GPE-Berlin
+895	901	Шредер	Шредер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+949	957	Роснефти	Роснефть	ORG	ORG-Rosneft
+1018	1024	Шредер	Шредер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+1094	1108	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+1162	1176	Северный поток	Северный поток	PRO	PRO-Nord-Stream-1

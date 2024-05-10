@@ -1,0 +1,26 @@
+0	4	Киев	Киев	LOC	GPE-Kiev
+17	23	Берлин	Берлин	LOC	GPE-Berlin
+67	82	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+100	115	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+154	159	Русия	Русия	LOC	GPE-Russia
+246	253	Украйна	Украйна	LOC	GPE-Ukraine
+356	363	Украйна	Украйна	LOC	GPE-Ukraine
+364	379	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+431	446	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+457	463	Regnum	Regnum	ORG	ORG-REGNUM-News-Agency
+477	492	"Агенция ""Фокус"""	"Агенция ""Фокус"""	ORG	ORG-Focus-News-Agency
+494	503	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+567	582	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+603	608	Русия	Русия	LOC	GPE-Russia
+715	722	Украйна	Украйна	LOC	GPE-Ukraine
+794	796	ЕС	ЕС	ORG	ORG-European-Union
+809	818	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+845	860	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+884	891	Газпром	Газпром	ORG	ORG-Gazprom
+923	930	Украйна	Украйна	LOC	GPE-Ukraine
+959	967	Германия	Германия	LOC	GPE-Germany
+1006	1021	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1180	1185	Русия	Русия	LOC	GPE-Russia
+1187	1196	Финландия	Финландия	LOC	GPE-Finland
+1198	1204	Швеция	Швеция	LOC	GPE-Sweden
+1207	1212	Дания	Дания	LOC	GPE-Denmark

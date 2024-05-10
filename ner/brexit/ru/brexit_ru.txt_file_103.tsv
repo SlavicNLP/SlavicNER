@@ -1,0 +1,24 @@
+10	17	Лондона	Лондон	LOC	GPE-London
+37	45	Брекситу	Брексит	EVT	EVT-Brexit
+122	150	правительства Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government
+168	178	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+208	210	ЕС	ЕС	ORG	ORG-European-Union
+259	267	Британии	Британия	LOC	GPE-Great-Britain
+286	292	Brexit	Brexit	EVT	EVT-Brexit
+309	323	Великобритания	Великобритания	LOC	GPE-Great-Britain
+383	393	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+426	428	ЕС	ЕС	ORG	ORG-European-Union
+482	493	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+537	551	Великобритании	Великобритания	LOC	GPE-Great-Britain
+552	562	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+579	587	Брекситу	Брексит	EVT	EVT-Brexit
+622	625	Мэй	Мэй	PER	PER-Theresa-May
+773	777	МИДа	МИД	ORG	ORG-Foreign-Office
+778	793	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+848	855	Джонсон	Джонсон	PER	PER-Boris-Johnson
+923	937	Великобритании	Великобритания	LOC	GPE-Great-Britain
+941	943	ЕС	ЕС	ORG	ORG-European-Union
+1022	1034	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+1066	1080	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1084	1086	ЕС	ЕС	ORG	ORG-European-Union
+1214	1215	Ъ	ъ	PRO	PRO-Kommersant

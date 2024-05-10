@@ -1,0 +1,76 @@
+75	81	Лондон	Лондон	LOC	GPE-London
+110	124	Великобритания	Великобритания	LOC	GPE-Great-Britain
+125	137	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+170	191	Александър Литвиненко	Александър Литвиненко	PER	PER-Alexander-Litvinenko
+194	200	Марина	Марина	PER	PER-Marina-Litvinenko
+205	227	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+397	412	The Independent	The Independent	PRO	PRO-The-Independent
+439	445	Кремъл	Кремъл	LOC	LOC-Kremlin
+463	477	Великобритания	Великобритания	LOC	GPE-Great-Britain
+532	535	ГРУ	ГРУ	ORG	ORG-GRU
+536	550	Сергей Скрипал	Сергей Скрипал	PER	PER-Siergiej-Skripal
+570	575	Русия	Русия	LOC	GPE-Russia
+597	608	Independent	Independent	PRO	PRO-The-Independent
+622	628	Марина	Марина	PER	PER-Marina-Litvinenko
+709	719	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+737	757	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+777	783	Лондон	Лондон	LOC	GPE-London
+844	850	Хамънд	Хамънд	PER	PER-Philip-Hammond
+1125	1130	Путин	Путин	PER	PER-Vladimir-Putin
+1144	1155	Independent	Independent	PRO	PRO-The-Independent
+1166	1172	Торите	тори	PER	ORG-Conservative-and-Unionist-Party-UK
+1358	1364	Лондон	Лондон	LOC	GPE-London
+1365	1371	Москва	Москва	LOC	GPE-Moscow
+1372	1378	Мадрид	Мадрид	LOC	GPE-Madrid
+1457	1471	Сергей Скрипал	Сергей Скрипал	PER	PER-Siergiej-Skripal
+1647	1656	The Times	The Times	PRO	PRO-The-Times
+1665	1671	Флорес	Флорес	PER	PER-Roberto-Flores-Garcia
+1713	1720	Скрипал	Скрипал	PER	PER-Siergiej-Skripal
+1758	1765	Испания	Испания	LOC	GPE-Spain
+1883	1889	Мадрид	Мадрид	LOC	GPE-Madrid
+1919	1925	Флорес	Флорес	PER	PER-Roberto-Flores-Garcia
+1982	1985	ЦНР	ЦНР	ORG	ORG-National-Intelligence-Centre-Spain
+2083	2107	Пьотр Яковлевич Мелников	Пьотр Яковлевич Мелников	PER	PER-Petr-Yakovlevich-Melnikov
+2233	2239	Флорес	Флорес	PER	PER-Roberto-Flores-Garcia
+2329	2337	Мелников	Мелников	PER	PER-Petr-Yakovlevich-Melnikov
+2473	2478	Русия	Русия	LOC	GPE-Russia
+2506	2509	ЦНР	ЦНР	ORG	ORG-National-Intelligence-Centre-Spain
+2617	2620	ЦНР	ЦНР	ORG	ORG-National-Intelligence-Centre-Spain
+2807	2816	The Times	The Times	PRO	PRO-The-Times
+2867	2873	Флорес	Флорес	PER	PER-Roberto-Flores-Garcia
+2907	2914	Скрипал	Скрипал	PER	PER-Siergiej-Skripal
+2972	2975	ЦНР	ЦНР	ORG	ORG-National-Intelligence-Centre-Spain
+3019	3025	Флорес	Флорес	PER	PER-Roberto-Flores-Garcia
+3079	3083	Ирак	Ирак	LOC	GPE-Iraq
+3206	3212	Флорес	Флорес	PER	PER-Roberto-Flores-Garcia
+3356	3365	The Times	The Times	PRO	PRO-The-Times
+3367	3373	Флорес	Флорес	PER	PER-Roberto-Flores-Garcia
+3422	3429	Испания	Испания	LOC	GPE-Spain
+3507	3510	ЦНР	ЦНР	ORG	ORG-National-Intelligence-Centre-Spain
+3578	3582	Перу	Перу	LOC	GPE-Peru
+3584	3592	Парагвай	Парагвай	LOC	GPE-Paraguay
+3634	3640	Мадрид	Мадрид	LOC	GPE-Madrid
+3798	3804	Флорес	Флорес	PER	PER-Roberto-Flores-Garcia
+3876	3883	Скрипал	Скрипал	PER	PER-Siergiej-Skripal
+3935	3941	Мадрид	Мадрид	LOC	GPE-Madrid
+3981	3986	Русия	Русия	LOC	GPE-Russia
+3987	3990	ГРУ	ГРУ	ORG	ORG-GRU
+4256	4261	Русия	Русия	LOC	GPE-Russia
+4272	4279	Скрипал	Скрипал	PER	PER-Siergiej-Skripal
+4320	4323	ГРУ	ГРУ	ORG	ORG-GRU
+4391	4397	Лондон	Лондон	LOC	GPE-London
+4410	4459	Либерално-демократичната партия на Великобритания	Либерално-демократична партия на Великобритания	ORG	ORG-Liberal-Democrats-UK
+4464	4475	Винс Кейбъл	Винс Кейбъл	PER	PER-Vince-Cable
+4510	4526	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+4537	4551	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4668	4685	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+4697	4716	либерал-демократите	либерал-демократи	PER	ORG-Liberal-Democrats-UK
+4776	4790	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4813	4817	Винс	Винс	PER	PER-Vince-Cable
+4881	4888	Брекзит	Брекзит	EVT	EVT-Brexit
+4892	4906	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4996	5016	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+5030	5032	ЕС	ЕС	ORG	ORG-European-Union
+5355	5362	Брекзит	Брекзит	EVT	EVT-Brexit
+5368	5379	Винс Кейбъл	Винс Кейбъл	PER	PER-Vince-Cable
+5746	5775	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

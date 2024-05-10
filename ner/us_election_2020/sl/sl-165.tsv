@@ -1,0 +1,34 @@
+104	113	Beli hiši	Bela hiša	LOC	LOC-White-House
+136	146	Washington	Washington	LOC	GPE-WashingtonDC
+183	192	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+226	235	covida-19	covid-19	EVT	EVT-Covid-19
+354	358	Jill	Jill	PER	PER-Jill-Biden
+370	377	Bidnovi	Biden	PER	PER-Joe-Biden
+555	568	Melania Trump	Melania Trump	PER	PER-Melania-Trump
+586	602	Vanessa Friedman	Vanessa Friedman	PER	PER-Vanessa-Friedman
+616	630	New York Times	New York Times	PRO	PRO-The-New-York-Times
+922	937	New York Timesa	New York Times	PRO	PRO-The-New-York-Times
+1015	1029	Michelle Obama	Michelle Obama	PER	PER-MIchelle-Obama
+1043	1046	ZDA	ZDA	LOC	GPE-USA
+1149	1159	Jill Biden	Jill Biden	PER	PER-Jill-Biden
+1191	1200	Belo hišo	Bela hiša	LOC	LOC-White-House
+1337	1350	Baracka Obame	Barack Obama	PER	PER-Barack-Obama
+1596	1612	Georgea W. Busha	George W. Bush	PER	PER-George-Bush-Jr
+1644	1653	Bidnovega	Biden	PER	PER-Joe-Biden
+1659	1665	Beauja	Beau	PER	PER-Beau-Biden
+1668	1680	iraški vojni	iraška vojna	EVT	EVT-Iraq-War
+1860	1864	Beau	Beau	PER	PER-Beau-Biden
+1865	1870	Biden	Biden	PER	PER-Joe-Biden
+1927	1933	Neilie	Neilia	PER	PER-Neilia-Biden
+1979	1983	Jill	Jill	PER	PER-Jill-Biden
+1987	1996	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2086	2092	Beauju	Beau	PER	PER-Beau-Biden
+2112	2120	Hunterju	Hunter	PER	PER-Hunter-Biden
+2153	2167	Bill Stevenson	Bill Stevenson	PER	PER-Bill-Stevenson
+2196	2200	Jill	Jill	PER	PER-Jill-Biden
+2204	2213	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2384	2390	Ashley	Ashley	PER	PER-Ashley-Biden
+2521	2535	Michelle Obama	Michelle Obama	PER	PER-MIchelle-Obama
+3034	3042	Hunterja	Hunter	PER	PER-Hunter-Biden
+3080	3088	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+3138	3145	Bidnovi	Biden	PER	PER-Joe-Biden

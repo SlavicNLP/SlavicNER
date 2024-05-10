@@ -1,0 +1,28 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+45	48	BMW	BMW	ORG	ORG-BMW-Company
+51	68	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+70	73	BMW	BMW	ORG	ORG-BMW-Company
+100	107	brexitu	Brexit	EVT	EVT-Brexit
+147	164	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+318	335	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+377	392	Financial Times	Financial Times	PRO	PRO-Financial-Times
+403	406	BWM	BWM	ORG	ORG-BMW-Company
+415	432	Stephan Freismuth	Stephan Freismuth	PER	PER-Stephan-Freismuth
+478	495	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+518	522	Mini	Mini	PRO	PRO-Mini-Car-Model
+525	536	Rolls-Royce	Rolls-Royce	PRO	PRO-Rolls-Royce
+593	597	Mini	Mini	PRO	PRO-Mini-Car-Model
+639	648	Oxfordzie	Oxford	LOC	GPE-Oxford
+650	653	BMW	BMW	ORG	ORG-BMW-Company
+671	678	Swindon	Swindon	LOC	GPE-Swindon
+681	690	Hams Hall	Hams Hall	LOC	LOC-Hams-Hall
+742	745	BMW	BMW	ORG	ORG-BMW-Company
+746	749	BMW	BMW	ORG	ORG-BMW-Company
+785	794	Freismuth	Freismuth	PER	PER-Stephan-Freismuth
+1125	1131	Europy	Europa	LOC	LOC-Europe
+1148	1151	BMW	BMW	ORG	ORG-BMW-Company
+1220	1237	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1240	1257	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1595	1604	Facebooka	Facebook	PRO	PRO-Facebook
+1713	1724	Facebookowi	Facebook	PRO	PRO-Facebook
+1783	1792	Facebooku	Facebook	PRO	PRO-Facebook

@@ -1,0 +1,22 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+119	139	Spojeného království	Spojenié království	LOC	GPE-Great-Britain
+160	167	Reuters	Reuters	ORG	ORG-Reuters
+256	264	Británie	Británie	LOC	GPE-Great-Britain
+267	280	Evropské unie	Evropská unie	ORG	ORG-European-Union
+293	299	brexit	brexit	EVT	EVT-Brexit
+310	318	Británii	Británie	LOC	GPE-Great-Britain
+421	428	Britové	Britové	PER	GPE-Great-Britain
+452	456	Unie	Unie	ORG	ORG-European-Union
+550	564	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+724	743	Druhé světové války	Druhá světová válka	EVT	EVT-World-War-II
+745	755	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+784	805	Labouristickou stranu	Labouristická strana	ORG	ORG-Labour-Party-UK
+816	824	Británie	Británie	LOC	GPE-Great-Britain
+915	921	Mayová	Mayová	PER	PER-Theresa-May
+1138	1145	Evropou	Evropa	LOC	LOC-Europe
+1183	1188	Blair	Blair	PER	PER-Tony-Blair
+1230	1235	Blair	Blair	PER	PER-Tony-Blair
+1269	1276	brexitu	brexit	EVT	EVT-Brexit
+1412	1432	Labouristické strany	Labouristická strana	ORG	ORG-Labour-Party-UK
+1433	1449	Jeremyho Corbyna	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+1490	1497	brexitu	brexit	EVT	EVT-Brexit

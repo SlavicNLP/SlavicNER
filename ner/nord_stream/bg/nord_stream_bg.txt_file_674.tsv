@@ -1,0 +1,18 @@
+0	6	Берлин	Берлин	LOC	GPE-Berlin
+35	40	Русия	Русия	LOC	GPE-Russia
+43	50	Украйна	Украйна	LOC	GPE-Ukraine
+55	70	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+73	79	Берлин	Берлин	LOC	GPE-Berlin
+108	113	Русия	Русия	LOC	GPE-Russia
+116	123	Украйна	Украйна	LOC	GPE-Ukraine
+128	143	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+179	220	Източния комитет на германската икономика	Източен комитет на германската икономика	ORG	ORG-GCEEER-Committee
+221	233	Михаел Хармс	Михаел Хармс	PER	PER-Michael-Harms
+247	250	DPA	DPA	ORG	ORG-DPA
+263	274	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+289	294	Хармс	Хармс	PER	PER-Michael-Harms
+339	346	Украйна	Украйна	LOC	GPE-Ukraine
+377	381	Киев	Киев	LOC	GPE-Kiev
+452	467	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+574	577	ФРГ	ФРГ	LOC	GPE-Germany
+609	617	Германия	Германия	LOC	GPE-Germany

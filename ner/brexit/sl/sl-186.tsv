@@ -1,0 +1,33 @@
+39	45	brexit	brexit	EVT	EVT-Brexit
+185	192	brexitu	brexit	EVT	EVT-Brexit
+228	234	LONDON	London	LOC	GPE-London
+270	277	brexitu	brexit	EVT	EVT-Brexit
+325	338	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+339	353	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+383	390	brexita	brexit	EVT	EVT-Brexit
+473	489	Oliverja Letwina	Oliver Letwin	PER	PER-Oliver-Letwin
+538	546	Londonom	London	LOC	GPE-London
+550	552	EU	EU	ORG	ORG-European-Union
+563	584	Združenega kraljestva	Združeno kraljestvo	ORG	GPE-UK
+763	765	EU	EU	ORG	ORG-European-Union
+782	789	Johnson	Johnson	PER	PER-Boris-Johnson
+837	845	Brusljem	Bruselj	LOC	GPE-Brussles
+900	907	brexita	brexit	EVT	EVT-Brexit
+936	955	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+1160	1162	EU	EU	ORG	ORG-European-Union
+1242	1249	Johnson	Johnson	PER	PER-Boris-Johnson
+1364	1371	brexitu	brexit	EVT	EVT-Brexit
+1394	1401	Bruselj	Bruselj	LOC	GPE-Brussles
+1416	1423	brexita	brexit	EVT	EVT-Brexit
+1498	1505	Londona	London	LOC	GPE-London
+1517	1534	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+1589	1595	London	London	LOC	GPE-London
+1655	1662	brexita	brexit	EVT	EVT-Brexit
+1685	1704	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+1712	1726	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+1746	1753	Johnson	Johnson	PER	PER-Boris-Johnson
+1855	1857	EU	EU	ORG	ORG-European-Union
+1917	1925	Francija	Francija	LOC	GPE-France
+1962	1969	brexita	brexit	EVT	EVT-Brexit
+2033	2053	britanskem parlament	britanski parlament	ORG	ORG-British-Parlament
+2121	2142	britanskem parlamentu	britanski parlament	ORG	ORG-British-Parlament

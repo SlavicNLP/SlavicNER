@@ -1,0 +1,131 @@
+6	9	ZDA	ZDA	LOC	GPE-USA
+26	32	Rusijo	Rusija	LOC	GPE-Russia
+36	42	Evrope	Evropa	LOC	LOC-Europe
+73	86	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+120	123	ZDA	ZDA	LOC	GPE-USA
+146	148	EU	EU	ORG	ORG-European-Union
+152	159	Nemčijo	Nemčija	LOC	GPE-Germany
+192	205	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+287	293	Evropi	Evropa	LOC	LOC-Europe
+335	352	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+353	372	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+396	408	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+427	429	EU	EU	ORG	ORG-European-Union
+453	456	ZDA	ZDA	LOC	GPE-USA
+555	557	EU	EU	ORG	ORG-European-Union
+623	626	ZDA	ZDA	LOC	GPE-USA
+649	656	Nemčijo	Nemčija	LOC	GPE-Germany
+660	662	EU	EU	ORG	ORG-European-Union
+699	710	Severni tok	Severni tok	PRO	PRO-Nord-Stream-1
+726	733	Nemčija	Nemčija	LOC	GPE-Germany
+754	760	Rusije	Rusija	LOC	GPE-Russia
+817	822	Nemci	Nemci	PER	GPE-Germany
+864	870	Rusije	Rusija	LOC	GPE-Russia
+884	897	Severni tok 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+913	916	ZDA	ZDA	LOC	GPE-USA
+919	926	Nemčiji	Nemčija	LOC	GPE-Germany
+927	942	Richard Grenell	Richard Grenell	PER	PER-Richard-Grenell
+1008	1021	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1124	1130	Evropi	Evropa	LOC	LOC-Europe
+1171	1177	Rusije	Rusija	LOC	GPE-Russia
+1243	1249	Evropi	Evropa	LOC	LOC-Europe
+1356	1358	EU	EU	ORG	ORG-European-Union
+1576	1589	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1744	1750	Evropo	Evropa	LOC	LOC-Europe
+1758	1788	Frankfurter Allgemeine Zeitung	Frankfurter Allgemeine Zeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+1797	1810	Charlie Riedl	Charlie Riedl	PER	PER-Charlie-Riedl
+1914	1916	BP	BP	ORG	ORG-BP
+1918	1925	Chevron	Chevron	ORG	ORG-Chevron-Corporation
+1927	1938	Exxon Mobil	Exxon Mobil	ORG	ORG-Exxon-Mobil-Corporation
+1940	1945	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+1949	1954	Total	Total	ORG	ORG-Total-SE
+1963	1966	ZDA	ZDA	LOC	GPE-USA
+2041	2043	EU	EU	ORG	ORG-European-Union
+2062	2068	Forbes	Forbes	ORG	ORG-Forbes
+2134	2142	Kitajsko	Kitajska	LOC	GPE-China
+2143	2146	ZDA	ZDA	LOC	GPE-USA
+2193	2195	EU	EU	ORG	ORG-European-Union
+2269	2275	Rusije	Rusija	LOC	GPE-Russia
+2277	2286	Američani	Američani	PER	GPE-USA
+2347	2353	Evropo	Evropa	LOC	LOC-Europe
+2356	2371	Mehiškem zalivu	Mehiški zaliv	LOC	LOC-Gulf-of-Mexico
+2411	2417	Evropi	Evropa	LOC	LOC-Europe
+2458	2464	Rusije	Rusija	LOC	GPE-Russia
+2527	2533	Evropi	Evropa	LOC	LOC-Europe
+2617	2626	Američani	Američani	PER	GPE-USA
+2692	2698	Evropi	Evropa	LOC	LOC-Europe
+2704	2710	Rusije	Rusija	LOC	GPE-Russia
+2714	2722	Alžirije	Alžirija	LOC	GPE-Algeria
+2724	2733	Slovenija	Slovenija	LOC	GPE-Slovenia
+2758	2764	Rusije	Rusija	LOC	GPE-Russia
+2768	2776	Alžirije	Alžirija	LOC	GPE-Algeria
+2781	2787	Rusije	Rusija	LOC	GPE-Russia
+2818	2825	Geoplin	Geoplin	ORG	ORG-Geoplin
+2843	2852	Gazpromom	Gazprom	ORG	ORG-Gazprom
+2921	2927	Evropa	Evropa	LOC	LOC-Europe
+2961	2992	Mednarodna agencija za energijo	Mednarodna agencija za energijo	ORG	ORG-International-Energy-Agency
+2994	2997	IEA	IEA	ORG	ORG-International-Energy-Agency
+3022	3028	Evropi	Evropa	LOC	LOC-Europe
+3297	3299	EU	EU	ORG	ORG-European-Union
+3399	3405	Evropa	Evropa	LOC	LOC-Europe
+3492	3494	EU	EU	ORG	ORG-European-Union
+3520	3536	Bližnjega vzhoda	Bližnji vzhod	LOC	LOC-Middle-East
+3543	3548	Azije	Azija	LOC	LOC-Asia
+3653	3656	ZDA	ZDA	LOC	GPE-USA
+3760	3763	ZDA	ZDA	LOC	GPE-USA
+3802	3808	Forbes	Forbes	ORG	ORG-Forbes
+3878	3885	Gazprom	Gazprom	ORG	ORG-Gazprom
+3900	3913	Handelsblatta	Handelsblatt	ORG	ORG-Handelsblatt
+3966	3979	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+3999	4014	Baltskega morja	Baltsko morje	LOC	LOC-Baltic-Sea
+4060	4072	Rainer Seele	Rainer Seele	PER	PER-Rainer-Seele
+4092	4095	OMV	OMV	ORG	ORG-OMV
+4121	4124	ZDA	ZDA	LOC	GPE-USA
+4133	4140	Bruslja	Bruselj	LOC	GPE-Brussles
+4204	4210	Evrope	Evropa	LOC	LOC-Europe
+4219	4222	ZDA	ZDA	LOC	GPE-USA
+4224	4227	OMV	OMV	ORG	ORG-OMV
+4315	4324	Gazpromom	Gazprom	ORG	ORG-Gazprom
+4393	4406	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+4409	4418	Južni tok	Južni tok	PRO	PRO-South-Stream
+4425	4434	Slovenije	Slovenija	LOC	GPE-Slovenia
+4464	4471	Gazprom	Gazprom	ORG	ORG-Gazprom
+4523	4532	Južni tok	Južni tok	PRO	PRO-South-Stream
+4561	4570	Slovenijo	Slovenija	LOC	GPE-Slovenia
+4585	4591	Rusija	Rusija	LOC	GPE-Russia
+4665	4667	EU	EU	ORG	ORG-European-Union
+4771	4783	južne Rusije	južna Rusija	LOC	GPE-Russia
+4791	4803	Črnega morja	Črno morje	LOC	LOC-Black-Sea
+4807	4816	Bolgarije	Bolgarija	LOC	GPE-Bulgaria
+4829	4835	Srbijo	Srbija	LOC	GPE-Serbia
+4837	4846	Madžarsko	Madžarska	LOC	GPE-Hungary
+4869	4879	Baumgarten	Baumgarten	LOC	GPE-Baumgarten
+4886	4892	Dunaja	Dunaj	LOC	GPE-Vienna
+4910	4919	Bolgariji	Bolgarija	LOC	GPE-Bulgaria
+4934	4940	Grčiji	Grčija	LOC	GPE-Greece
+4956	4963	Italijo	Italija	LOC	GPE-Italy
+5004	5011	Bruslju	Bruselj	LOC	GPE-Brussles
+5079	5096	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+5176	5178	EU	EU	ORG	ORG-European-Union
+5215	5217	EU	EU	ORG	ORG-European-Union
+5306	5319	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+5365	5372	Gazprom	Gazprom	ORG	ORG-Gazprom
+5444	5446	EU	EU	ORG	ORG-European-Union
+5527	5540	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+5605	5612	Nemčija	Nemčija	LOC	GPE-Germany
+5616	5624	Francija	Francija	LOC	GPE-France
+5626	5635	Slovenija	Slovenija	LOC	GPE-Slovenia
+5665	5668	STA	STA	ORG	ORG-Slovenian-Press-Agency
+5722	5735	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+5907	5928	Evropskim parlamentom	Evropski parlament	ORG	ORG-European-Parliament
+5931	5948	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+6227	6229	EU	EU	ORG	ORG-European-Union
+6234	6251	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+6290	6296	Rusijo	Rusija	LOC	GPE-Russia
+6338	6340	EU	EU	ORG	ORG-European-Union
+6342	6355	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+6377	6383	Rusijo	Rusija	LOC	GPE-Russia
+6387	6394	Nemčijo	Nemčija	LOC	GPE-Germany
+6420	6435	Baltskega morja	Baltsko morje	LOC	LOC-Baltic-Sea
+6462	6464	EU	EU	ORG	ORG-European-Union
+6465	6472	Poljski	Poljska	LOC	GPE-Poland

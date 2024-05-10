@@ -1,0 +1,62 @@
+9	12	США	США	LOC	GPE-USA
+18	28	американцы	американцы	LOC	GPE-USA
+49	55	Трампа	Трамп	PER	PER-Donald-Trump
+60	67	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+72	75	США	США	LOC	GPE-USA
+125	135	Американцы	американцы	LOC	GPE-USA
+167	179	Барака Обаму	Барак Обама	PER	PER-Barack-Obama
+182	192	демократка	демократка	PER	ORG-Democratic-Party-USA
+193	208	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+213	226	республиканец	республиканец	PER	ORG-Republican-Party-USA
+227	240	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+292	299	Америке	Америка	LOC	GPE-USA
+342	349	Украине	Украина	LOC	GPE-Ukraine
+409	412	США	США	LOC	GPE-USA
+502	512	американцы	американцы	LOC	GPE-USA
+555	558	США	США	LOC	GPE-USA
+608	618	Американцы	американцы	LOC	GPE-USA
+650	662	Барака Обаму	Барак Обама	PER	PER-Barack-Obama
+665	675	демократка	демократка	PER	ORG-Democratic-Party-USA
+676	691	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+696	709	республиканец	республиканец	PER	ORG-Republican-Party-USA
+710	723	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+775	782	Америке	Америка	LOC	GPE-USA
+825	832	Украине	Украина	LOC	GPE-Ukraine
+892	895	США	США	LOC	GPE-USA
+985	995	американцы	американцы	LOC	GPE-USA
+1090	1093	США	США	LOC	GPE-USA
+1443	1446	США	США	LOC	GPE-USA
+2155	2158	США	США	LOC	GPE-USA
+2510	2513	США	США	LOC	GPE-USA
+2555	2582	Federal Election Commission	Federal Election Commission	ORG	ORG-FEC-Federal-Election-Commission
+2629	2632	США	США	LOC	GPE-USA
+2651	2659	Колумбия	Колумбия	LOC	GPE-Colombia
+2763	2771	Колумбия	Колумбия	LOC	GPE-Colombia
+2823	2833	Калифорния	Калифорния	LOC	GPE-California
+2842	2850	Колумбия	Колумбия	LOC	GPE-Colombia
+3190	3200	Калифорния	Калифорния	LOC	GPE-California
+3202	3208	Орегон	Орегон	LOC	GPE-Oregon
+3211	3220	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3641	3652	американцев	американцы	LOC	GPE-USA
+4118	4135	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+4240	4247	Алабама	Алабама	LOC	GPE-USA-Alabama
+4266	4275	Миннесота	Миннесота	LOC	GPE-Minnesota
+4408	4420	Южной Дакоте	Южная Дакота	LOC	GPE-South-Dakota-US-State
+4501	4510	Мэриленде	Мэриленд	LOC	GPE-Maryland
+4581	4591	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+4593	4601	Колорадо	Колорадо	LOC	GPE-Colorado
+4604	4611	Орегоне	Орегон	LOC	GPE-Oregon
+5014	5031	Северной Каролины	Северная Каролина	LOC	GPE-North-Carolina-US-State
+5054	5067	Франсуа Фарже	Франсуа Фарже	PER	PER-Francois-Farzhe
+5102	5124	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+5152	5159	Франции	Франция	LOC	GPE-France
+5247	5264	Северной Каролины	Северная Каролина	LOC	GPE-North-Carolina-US-State
+5308	5319	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+5365	5371	Чикаго	Чикаго	LOC	GPE-Chicago
+5401	5412	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+5508	5511	США	США	LOC	GPE-USA
+5829	5832	США	США	LOC	GPE-USA
+6294	6306	американских	американский	LOC	GPE-USA
+6435	6446	американцев	американцы	LOC	GPE-USA
+6477	6480	США	США	LOC	GPE-USA
+6833	6850	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA

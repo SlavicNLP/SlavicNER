@@ -1,0 +1,7 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+41	48	Britové	Britové	PER	GPE-Great-Britain
+194	206	Black Friday	Black Friday	EVT	EVT-Black-Friday
+525	540	Bank of England	Bank of England	ORG	ORG-Bank-of-England
+705	712	brexitu	brexit	EVT	EVT-Brexit
+736	756	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+1139	1173	Úřadu pro rozpočtovou zodpovědnost	Úřad pro rozpočtovou zodpovědnost	ORG	ORG-Office-for-Budget-Responsibility

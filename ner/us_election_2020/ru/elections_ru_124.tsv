@@ -1,0 +1,116 @@
+151	156	Трамп	Трамп	PER	PER-Donald-Trump
+229	242	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+442	450	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+477	487	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+506	518	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+632	638	Трампа	Трамп	PER	PER-Donald-Trump
+656	671	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+672	675	США	США	LOC	GPE-USA
+717	723	Трампа	Трамп	PER	PER-Donald-Trump
+802	815	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+973	983	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1387	1412	Соединённые Штаты Америки	Соединённые Штаты Америки	LOC	GPE-USA
+1458	1469	Белого дома	Белый дом	ORG	ORG-The-White-House
+1478	1485	Twitter	Twitter	PRO	PRO-Twitter
+1507	1513	Трампа	Трамп	PER	PER-Donald-Trump
+1552	1560	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+1607	1610	США	США	LOC	GPE-USA
+1855	1863	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+1864	1875	Брайан Кемп	Брайан Кемп	PER	PER-Brian-Kemp
+2058	2076	Брэд Раффенспергер	Брэд Раффенспергер	PER	PER-Brad-Raffensperger
+2134	2142	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+2156	2166	демократов	демократ	PER	ORG-Democratic-Party-USA
+2167	2178	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2225	2237	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+2271	2277	Трампа	Трамп	PER	PER-Donald-Trump
+2458	2471	американского	американский	LOC	GPE-USA
+2479	2495	Рудольф Джулиани	Рудольф Джулиани	PER	PER-Rudolph-Giuliani
+2502	2508	Трампа	Трам	PER	PER-Donald-Trump
+2575	2578	США	США	LOC	GPE-USA
+2669	2684	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+2685	2688	США	США	LOC	GPE-USA
+2802	2814	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+2818	2826	Мичигане	Мичиган	LOC	GPE-Michigan
+2989	3001	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+3210	3218	Мичигана	Мичиган	LOC	GPE-Michigan
+3219	3237	Джонатана Брейтера	Джонатан Брейтер	PER	PER-Jonathan-Breiter
+3595	3598	США	США	LOC	GPE-USA
+3610	3616	Трампу	Трамп	PER	PER-Donald-Trump
+3675	3683	Байденом	Байден	PER	PER-Joe-Biden
+3765	3771	Невада	Невада	LOC	GPE-Nevada
+3774	3781	Аризона	Аризона	LOC	GPE-Arizona
+3818	3833	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+3840	3846	Невада	Невада	LOC	GPE-Nevada
+3915	3923	демократ	демократ	ORG	ORG-Democratic-Party-USA
+3924	3937	Стив Сайсолак	Стив Сайсолак	PER	PER-Steve-Sisolak
+3970	3977	Аризоне	Аризона	LOC	GPE-Arizona
+4127	4137	Висконсине	Висконсин	LOC	GPE-Wisconsin
+4245	4257	американские	американские	LOC	GPE-USA
+4276	4282	России	Россия	LOC	GPE-Russia
+4283	4297	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+4352	4355	США	США	LOC	GPE-USA
+4445	4456	американцев	американцы	PER	GPE-USA
+4500	4503	США	США	LOC	GPE-USA
+4536	4546	российский	российский	LOC	GPE-Russia
+4583	4606	«Москва. Кремль. Путин»	«Москва. Кремль. Путин»	PRO	PRO-Moscow.-Kremlin.-Putin.
+4621	4631	«Россия 1»	Россия 1	PRO	PRO-Russia-1-TV
+4632	4646	Павлу Зарубину	Павел Зарубин	PER	PER-Pavel-Zarubin
+4675	4678	США	США	LOC	GPE-USA
+4934	4946	американскую	американская	LOC	GPE-USA
+5037	5049	американских	американские	LOC	GPE-USA
+5183	5197	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+5273	5280	Байдена	Байден	PER	PER-Joe-Biden
+5332	5337	Трамп	Трамп	PER	PER-Donald-Trump
+5377	5385	Мичигане	Мичиган	LOC	GPE-Michigan
+5388	5400	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+5550	5557	Байдена	Байден	PER	PER-Joe-Biden
+5600	5606	Байден	Байден	PER	PER-Joe-Biden
+5961	5963	RT	RT	PRO	PRO-RT-Russia-Today
+5986	5999	Малек Дудаков	Малек Дудаков	PER	PER-Malek-Dudakov
+6012	6064	Фонда изучения США имени Франклина Рузвельта при МГУ	Фонд Франклина Рузвельта по изучению США при МГУ	ORG	ORG-Roosevelt-Fund-for-US-Studies-at-the-Moscow-State-University
+6065	6077	Юрий Рогулёв	Юрий Рогулёв	PER	PER-Yury-Rogulev
+6163	6170	Мичиган	Мичиган	LOC	GPE-Michigan
+6173	6185	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+6201	6207	Трампу	Трамп	PER	PER-Donald-Trump
+6283	6291	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+6335	6341	Байден	Байден	PER	PER-Joe-Biden
+6419	6421	RT	RT	PRO	PRO-RT-Russia-Today
+6484	6490	Трампа	Трамп	PER	PER-Donald-Trump
+6603	6618	Малека Дудакова	Малек Дудаков	PER	PER-Malek-Dudakov
+6626	6637	Белого дома	Белый дом	ORG	ORG-The-White-House
+6728	6741	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+6826	6832	Трампа	Трамп	PER	PER-Donald-Trump
+6909	6921	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+6972	6980	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+6982	6990	Мичигане	Мичиган	LOC	GPE-Michigan
+6993	7003	Висконсине	Висконсин	LOC	GPE-Wisconsin
+7073	7078	Трамп	Трамп	PER	PER-Donald-Trump
+7248	7260	Юрий Рогулёв	Юрий Рогулёв	PER	PER-Yury-Rogulev
+7274	7287	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+7516	7531	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+7598	7601	США	США	LOC	GPE-USA
+7635	7641	Трампа	Трамп	PER	PER-Donald-Trump
+7735	7775	Центра исследования проблем безопасности	Центр исследования проблем безопасности	ORG	ORG-Security-Research-Center
+7776	7779	РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+7780	7797	Константин Блохин	Константин Блохин	PER	PER-Konstantin-Blohin
+7816	7818	RT	RT	PRO	PRO-RT-Russia-Today
+7879	7890	Белого дома	Белый дом	ORG	ORG-The-White-House
+8013	8018	Трамп	Трамп	PER	PER-Donald-Trump
+8333	8348	Малека Дудакова	Малек Дудаков	PER	PER-Malek-Dudakov
+8404	8410	Трампа	Трамп	PER	PER-Donald-Trump
+8431	8442	Белого дома	Белый дом	ORG	ORG-The-White-House
+8588	8593	Трамп	Трамп	PER	PER-Donald-Trump
+8633	8641	Мичигана	Мичиган	LOC	GPE-Michigan
+8710	8724	республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+8746	8755	Висконсин	Висконсин	LOC	GPE-Wisconsin
+8757	8764	Мичиган	Мичиган	LOC	GPE-Michigan
+8766	8778	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+8780	8788	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+8790	8797	Аризона	Аризона	LOC	GPE-Arizona
+8810	8825	республиканские	республиканские	ORG	ORG-Republican-Party-USA
+8888	8895	Байдена	Байден	PER	PER-Joe-Biden
+8902	8908	Трампа	Трамп	PER	PER-Donald-Trump
+8917	8922	Трамп	Трамп	PER	PER-Donald-Trump
+8955	8962	Байдена	Байден	PER	PER-Joe-Biden
+9158	9163	Трамп	Трамп	PER	PER-Donald-Trump
+9302	9309	Байдена	Байден	PER	PER-Joe-Biden

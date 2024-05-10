@@ -1,0 +1,43 @@
+12	18	Байден	Байден	PER	PER-Joe-Biden
+71	78	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+81	84	США	США	LOC	GPE-USA
+89	92	США	США	LOC	GPE-USA
+144	150	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+201	216	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+232	252	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+277	287	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+359	367	CBS News	CBS News	PRO	PRO-CBS-News
+379	385	YouGov	YouGov	ORG	ORG-YouGov
+387	398	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+530	541	коронавірус	коронавірус	EVT	EVT-Covid-19
+578	584	Трампа	Трамп	PER	PER-Donald-Trump
+597	602	Трамп	Трамп	PER	PER-Donald-Trump
+651	658	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+677	684	Байдена	Байден	PER	PER-Joe-Biden
+736	742	Байден	Байден	PER	PER-Joe-Biden
+766	771	Трамп	Трамп	PER	PER-Donald-Trump
+795	798	BBC	BBC	ORG	ORG-BBC-Ltd
+1030	1047	виборах 2020 року	вибори 2020 року	EVT	EVT-2020-United-States-Presidential-Election
+1065	1072	Флорида	Флорида	LOC	GPE-Florida
+1074	1079	Огайо	Огайо	LOC	GPE-Ohio
+1081	1086	Айова	Айова	LOC	GPE-Iowa
+1088	1105	Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+1107	1115	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+1119	1124	Техас	Техас	LOC	GPE-Texas
+1135	1140	Трамп	Трамп	PER	PER-Donald-Trump
+1184	1189	Айови	Айова	LOC	GPE-Iowa
+1191	1196	Огайо	Огайо	LOC	GPE-Ohio
+1199	1205	Техасу	Техас	LOC	GPE-Texas
+1231	1234	США	США	LOC	GPE-USA
+1239	1259	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+1260	1270	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1315	1322	Twitter	Twitter	PRO	PRO-Twitter
+1529	1534	Трамп	Трамп	PER	PER-Donald-Trump
+1690	1693	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1697	1723	Президентські вибори в США	Президентські вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+1765	1787	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1788	1804	Емі Коні Барретт	Емі Коні Барретт	PER	PER-Amy-Coney-Barrett
+1850	1869	Верховного суду США	Верховний суд США	ORG	ORG-Supreme-Court-of-the-United-States
+1871	1890	Демократична партія	Демократична партія	ORG	ORG-Democratic-Party-USA
+1974	1981	Барретт	Барретт	PER	PER-Amy-Coney-Barrett
+2010	2017	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election

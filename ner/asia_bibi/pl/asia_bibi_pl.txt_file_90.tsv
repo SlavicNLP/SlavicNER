@@ -1,0 +1,38 @@
+115	123	Pakistan	Pakistan	LOC	GPE-Pakistan
+355	367	Ejaz Ashrafi	Ejaz Ashrafi	PER	PER-Ejaz-Ashrafi
+378	393	Tehrik-e-Labaik	Tehrik-e-Labaik	ORG	ORG-Tehreek-e-Labbaik-Pakistan
+395	398	TLP	TLP	ORG	ORG-Tehreek-e-Labbaik-Pakistan
+597	613	Sądu Najwyższego	Sąd Najwyższy	ORG	ORG-Supreme-Court-of-Pakistan
+644	653	Asii Bibi	Asia Bibi	PER	PER-Asia-Bibi
+780	784	Bibi	Bibi	PER	PER-Asia-Bibi
+809	825	więzieniu Multan	więzienie Multan	LOC	LOC-Multan-prison
+835	842	Pendżab	Pendżab	LOC	GPE-Punjab
+944	956	Islamabadzie	Islamabad	LOC	GPE-Islamabad
+1032	1036	Bibi	Bibi	PER	PER-Asia-Bibi
+1044	1052	Pakistan	Pakistan	LOC	GPE-Pakistan
+1177	1184	Wyspach	Wyspy	LOC	GPE-Great-Britain
+1187	1193	Londyn	Londyn	LOC	GPE-London
+1350	1365	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+1504	1527	Zjednoczonego Królestwa	Zjednoczone Królestwo	PER	GPE-Great-Britain
+1629	1633	Bibi	Bibi	PER	PER-Asia-Bibi
+1715	1727	The Guardian	The Guardian	PRO	PRO-The-Guardian
+1741	1773	ministerstwo spraw zagranicznych	Ministerstwo Spraw Zagranicznych	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+1902	1914	Islamabadzie	Islamabad	LOC	GPE-Islamabad
+1967	1979	Kanadyjczycy	Kanadyjczycy	PER	GPE-Canada
+2107	2113	Kanada	Kanada	LOC	GPE-Canada
+2181	2195	Justin Trudeau	Justin Trudeau	PER	PER-Justin-Trudeau
+2271	2283	Kanadyjczyka	Kanadyjczyk	PER	GPE-Canada
+2286	2292	Paryżu	Paryż	LOC	GPE-Paris
+2336	2343	Ottawie	Ottawa	LOC	GPE-Ottawa
+2406	2413	Trudeau	Trudeau	PER	PER-Justin-Trudeau
+2557	2561	Bibi	Bibi	PER	PER-Asia-Bibi
+2598	2615	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+2617	2623	Niemcy	Niemcy	LOC	GPE-Germany
+2628	2636	Holandia	Holandia	LOC	GPE-Holland
+2680	2684	Bibi	Bibi	PER	PER-Asia-Bibi
+2813	2837	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+2872	2884	Benedykt XVI	Benedykt XVI	PER	PER-Benedict-XVI
+2887	2897	Franciszek	Franciszek	PER	PER-Pope-Francis
+2963	2973	Pakistanka	Pakistanka	PER	GPE-Pakistan
+3030	3034	Azji	Azja	LOC	LOC-Asia
+3040	3057	Bliskim Wschodzie	Bliski Wschód	LOC	LOC-Near-East

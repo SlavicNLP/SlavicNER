@@ -1,0 +1,60 @@
+12	26	Евелина Гечева	Евелина Гечева	PER	PER-Evelina-Gecheva
+211	219	COVID-19	COVID-19	EVT	EVT-Covid-19
+323	328	Тръмп	Тръмп	PER	PER-Donald-Trump
+331	337	Байдън	Байдън	PER	PER-Joe-Biden
+371	376	Тръмп	Тръмп	PER	PER-Donald-Trump
+542	547	Тръмп	Тръмп	PER	PER-Donald-Trump
+589	596	Twitter	Twitter	PRO	PRO-Twitter
+822	827	Тръмп	Тръмп	PER	PER-Donald-Trump
+913	919	Байдън	Байдън	PER	PER-Joe-Biden
+1188	1194	Щатите	Щати	LOC	GPE-USA
+1396	1401	Тръмп	Тръмп	PER	PER-Donald-Trump
+1634	1637	САЩ	САЩ	LOC	GPE-USA
+1722	1732	Кание Уест	Кание Уест	PER	PER-Kanye-West
+1846	1862	Съединените щати	Съединени щати	LOC	GPE-USA
+1908	1913	Тръмп	Тръмп	PER	PER-Donald-Trump
+1997	2009	Парис Хилтън	Парис Хилтън	PER	PER-Paris-Hilton
+2021	2030	Белия дом	Бял дом	LOC	LOC-White-House
+2047	2060	Пийт Бутиджич	Пийт Бутиджич	PER	PER-Peter-Buttigieg
+2118	2121	САЩ	САЩ	LOC	GPE-USA
+2234	2239	Тръмп	Тръмп	PER	PER-Donald-Trump
+2264	2276	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2317	2324	Twitter	Twitter	PRO	PRO-Twitter
+2326	2332	Байдън	Байдън	PER	PER-Joe-Biden
+2684	2690	Байдън	Байдън	PER	PER-Joe-Biden
+2959	2962	САЩ	САЩ	LOC	GPE-USA
+3019	3022	ФБР	ФБР	ORG	ORG-FBI
+3245	3256	Майк Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+3541	3552	Джон Болтън	Джон Болтън	PER	PER-John-Bolton
+3567	3572	Тръмп	Тръмп	PER	PER-Donald-Trump
+3595	3600	Китай	Китай	LOC	GPE-China
+3611	3614	САЩ	САЩ	LOC	GPE-USA
+3627	3631	НАТО	НАТО	ORG	ORG-NATO
+3735	3741	Болтън	Болтън	PER	PER-John-Bolton
+3944	3952	България	България	LOC	GPE-Bulgaria
+4048	4060	Джордж Флойд	Джордж Флойд	PER	PER-George-Floyd
+4173	4176	САЩ	САЩ	LOC	GPE-USA
+4215	4220	Флойд	Флойд	PER	PER-George-Floyd
+4310	4321	демократите	демократи	PER	ORG-Democratic-Party-USA
+4560	4572	републиканци	републиканци	PER	ORG-Republican-Party-USA
+4656	4667	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+4670	4679	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+4693	4698	Тръмп	Тръмп	PER	PER-Donald-Trump
+4863	4868	Тръмп	Тръмп	PER	PER-Donald-Trump
+4976	4982	Байдън	Байдън	PER	PER-Joe-Biden
+5019	5024	Тръмп	Тръмп	PER	PER-Donald-Trump
+5094	5099	Маркс	Маркс	PER	PER-Karl-Marx
+5249	5254	Тръмп	Тръмп	PER	PER-Donald-Trump
+5323	5329	Байдън	Байдън	PER	PER-Joe-Biden
+5366	5375	Белия дом	Бял дом	LOC	LOC-White-House
+5486	5495	Белия дом	Бял дом	LOC	LOC-White-House
+5566	5571	Тръмп	Тръмп	PER	PER-Donald-Trump
+5658	5663	Тръмп	Тръмп	PER	PER-Donald-Trump
+5806	5812	Байдън	Байдън	PER	PER-Joe-Biden
+5912	5917	Тръмп	Тръмп	PER	PER-Donald-Trump
+5922	5935	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+6011	6043	Правосъдното министерство на САЩ	Правосъдно министерство на САЩ	ORG	ORG-United-States-Department-of-Justice
+6046	6049	ФБР	ФБР	ORG	ORG-FBI
+6259	6269	Белият дом	Бял дом	LOC	LOC-White-House
+6347	6357	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+6492	6498	Байдън	Байдън	PER	PER-Joe-Biden

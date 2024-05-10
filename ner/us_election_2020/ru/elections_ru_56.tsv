@@ -1,0 +1,127 @@
+173	176	США	США	LOC	GPE-USA
+196	203	Байдена	Байден	PER	PER-Joe-Biden
+226	231	Трамп	Трамп	PER	PER-Donald-Trump
+310	317	Байдена	Байден	PER	PER-Joe-Biden
+353	366	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+424	443	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+454	466	американских	американский	LOC	GPE-USA
+501	504	США	США	LOC	GPE-USA
+506	519	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+520	533	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+587	612	всеобщих выборах 3 ноября	Всеобщие выборы 3 ноября	EVT	EVT-2020-United-States-Presidential-Election
+620	639	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+704	713	демократа	демократ	ORG	ORG-Democratic-Party-USA
+714	729	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+743	745	AP	AP	PRO	PRO-Assosiated-Press
+747	753	Байден	Байден	PER	PER-Joe-Biden
+779	785	Трампа	Трамп	PER	PER-Donald-Trump
+985	995	Калифорнии	Калифорния	LOC	GPE-California
+1027	1034	Байдена	Байден	PER	PER-Joe-Biden
+1062	1069	Аризоне	Аризона	LOC	GPE-Arizona
+1087	1097	Висконсине	Висконсин	LOC	GPE-Wisconsin
+1106	1114	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+1123	1131	Мичигане	Мичиган	LOC	GPE-Michigan
+1140	1146	Неваде	Невада	LOC	GPE-Nevada
+1155	1167	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1241	1247	Байден	Байден	PER	PER-Joe-Biden
+1285	1298	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+1395	1405	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1437	1456	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1481	1488	Америки	Америка	LOC	GPE-USA
+1616	1619	CNN	CNN	PRO	PRO-CNN
+1623	1628	Трамп	Трамп	PER	PER-Donald-Trump
+1697	1700	США	США	LOC	GPE-USA
+1701	1714	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1717	1724	Twitter	Twitter	PRO	PRO-Twitter
+1871	1893	The Detroit Free Press	The Detroit Free Press	PRO	ORG-The-Detroit-Free-Press
+1937	1997	Агентство по кибербезопасности и безопасности инфраструктуры	Агентство по кибербезопасности и безопасности инфраструктуры	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency
+1999	2003	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+2221	2241	Сената Конгресса США	Сенат Конгресса США	ORG	ORG-United-States-Senate
+2242	2253	Майку Пенсу	Майк Пенс	PER	PER-Mike-Pence
+2329	2379	Национальное управление архивов и документации США	Национальное управление архивов и документации США	ORG	ORG-NARA-National-Archives-and-Records-Administration
+2472	2490	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+2562	2569	Делавэр	Делавэр	LOC	GPE-Delaware
+2622	2628	Неваде	Невада	LOC	GPE-Nevada
+2708	2721	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+2759	2778	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2803	2816	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+2883	2888	Пенса	Пенс	PER	PER-Mike-Pence
+2908	2911	США	США	LOC	GPE-USA
+3010	3019	Капитолия	Капитолий	LOC	LOC-United-States-Capitol
+3022	3032	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3081	3088	Байдена	Байден	PER	PER-Joe-Biden
+3267	3279	коронавируса	коронавирус	EVT	EVT-Covid-19
+3342	3354	американских	американский	LOC	GPE-USA
+3381	3392	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3416	3434	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+3435	3448	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+3524	3530	Байден	Байден	PER	PER-Joe-Biden
+3583	3588	Трамп	Трамп	PER	PER-Donald-Trump
+3657	3668	Белого дома	Белый дом	ORG	ORG-The-White-House
+3776	3781	Трамп	Трамп	PER	PER-Donald-Trump
+3807	3853	Управления по общим вопросам администрации США	Управления по общим вопросам администрации США	ORG	ORG-General-Services-Administration-USA
+3949	3952	США	США	LOC	GPE-USA
+3970	3981	Белого дома	Белый дом	ORG	ORG-The-White-House
+4044	4047	США	США	LOC	GPE-USA
+4136	4151	Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+4158	4180	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+4252	4274	Конституционная партия	Конституционная партия	ORG	ORG-Constitution-Party-USA
+4276	4298	Либертарианская партия	Либертарианская партия	ORG	ORG-Libertarian-Party-USA
+4301	4315	Партия зеленых	Партия зеленых	ORG	ORG-Green-Party-USA
+4373	4387	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+4390	4400	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4422	4425	США	США	LOC	GPE-USA
+4443	4454	Белого дома	Белый дом	ORG	ORG-The-White-House
+4533	4544	демократами	демократы	ORG	ORG-Democratic-Party-USA
+4547	4562	республиканцами	республиканцы	ORG	ORG-Republican-Party-USA
+4763	4766	США	США	LOC	GPE-USA
+4784	4795	Белого дома	Белый дом	ORG	ORG-The-White-House
+4844	4854	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4865	4879	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+4957	4969	Томаса Маста	Томас Маст	PER	PER-Thomas-Nast
+5203	5207	Маст	Маст	PER	PER-Thomas-Nast
+5229	5232	США	США	LOC	GPE-USA
+5250	5261	Белого дома	Белый дом	ORG	ORG-The-White-House
+5299	5308	демократа	демократ	ORG	ORG-Democratic-Party-USA
+5348	5370	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+5404	5407	США	США	LOC	GPE-USA
+5504	5518	Мартин О‘Мэлли	Мартин О‘Мэлли	PER	PER-Martin-O'Melly
+5561	5566	Айове	Айова	LOC	GPE-Iowa
+5636	5646	демократов	демократы	ORG	ORG-Democratic-Party-USA
+5665	5680	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+5683	5696	Берни Сандерс	Берни Сандерс	PER	PER-Bernie-Sanders
+5718	5721	США	США	LOC	GPE-USA
+5739	5750	Белого дома	Белый дом	ORG	ORG-The-White-House
+5760	5773	республиканца	республиканцы	ORG	ORG-Republican-Party-USA
+5809	5831	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+5986	5994	Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+6013	6020	Индиане	Индиана	LOC	GPE-Indiana
+6060	6077	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+6080	6095	Джоном Кейсиком	Джон Кейсик	PER	PER-John-Kasich
+6117	6120	США	США	LOC	GPE-USA
+6138	6149	Белого дома	Белый дом	ORG	ORG-The-White-House
+6196	6218	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+6238	6250	Южной Дакоте	Южная Дакота	LOC	GPE-South-Dakota-US-State
+6252	6274	Демократическая партия	Демократическая партия	ORG	ORG-Democratic-Party-USA
+6351	6359	Колумбия	Колумбия	LOC	GPE-Colombia
+6361	6370	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+6388	6398	демократов	демократы	ORG	ORG-Democratic-Party-USA
+6408	6423	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+6427	6441	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+6444	6457	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+6479	6482	США	США	LOC	GPE-USA
+6500	6511	Белого дома	Белый дом	ORG	ORG-The-White-House
+6821	6835	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+6961	6964	США	США	LOC	GPE-USA
+6982	6993	Белого дома	Белый дом	ORG	ORG-The-White-House
+7033	7036	США	США	LOC	GPE-USA
+7050	7053	США	США	LOC	GPE-USA
+7197	7215	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+7231	7246	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+7255	7269	Берни Сандерса	Берни Сандерс	PER	PER-Bernie-Sanders
+7306	7328	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+7403	7406	США	США	LOC	GPE-USA
+7424	7435	Белого дома	Белый дом	ORG	ORG-The-White-House
+7453	7456	США	США	LOC	GPE-USA
+7502	7505	США	США	LOC	GPE-USA
+7538	7568	голосовании 8 ноября 2016 года	голосование 8 ноября 2016 года	EVT	EVT-2016-United-States-Presidential-Election

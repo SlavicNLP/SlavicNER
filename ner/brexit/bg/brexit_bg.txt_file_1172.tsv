@@ -1,0 +1,18 @@
+53	60	Брюксел	Брюксел	LOC	GPE-Brussles
+93	95	ЕС	ЕС	ORG	ORG-European-Union
+148	158	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+205	219	Великобритания	Великобритания	LOC	GPE-Great-Britain
+225	232	Брекзит	Брекзит	EVT	EVT-Brexit
+234	239	Пекин	Пекин	LOC	GPE-Beijing
+273	281	Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+311	318	Камерун	Камерун	LOC	GPE-Cameroon
+319	326	Пол Бия	Пол Бия	PER	PER-Paul-Biya
+328	333	Делхи	Делхи	LOC	GPE-Delhi
+350	358	Германия	Германия	LOC	GPE-Germany
+359	381	Франк-Валтер Щайнмайер	Франк-Валтер Щайнмайер	PER	PER-Frank-Walter-Steinmeier
+399	404	Индия	Индия	LOC	GPE-India
+406	411	Ханой	Ханой	LOC	GPE-Hanoi
+428	438	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+439	450	Мун Джей-ин	Мун Джей-ин	PER	PER-Paul-Biya
+470	477	Виетнам	Виетнам	LOC	GPE-Vietnam
+617	646	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

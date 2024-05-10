@@ -1,0 +1,17 @@
+0	9	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+67	73	Trumpa	Trump	PER	PER-Donald-Trump
+98	124	Spojených států amerických	Spojené státy americké	LOC	GPE-USA
+125	134	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+157	160	USA	USA	LOC	GPE-USA
+161	175	Jill Bidenovou	Jill Bidenová	PER	PER-Jill-Biden
+183	185	AP	AP	ORG	ORG-AP-The-Associated-Press
+211	214	USA	USA	LOC	GPE-USA
+310	319	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+336	346	Bílém domě	Bílý dům	LOC	LOC-White-House
+368	382	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+417	428	Pensylvánie	Pensylvánie	LOC	GPE-Pennsylvania
+632	663	amerických prezidentských voleb	americké prezidentské volby	EVT	EVT-2020-United-States-Presidential-Election
+833	841	Bidenovi	Biden	PER	PER-Joe-Biden
+845	852	Ameriko	Amerika	LOC	GPE-USA
+944	949	Biden	Biden	PER	PER-Joe-Biden
+1022	1031	Američanů	Američané	PER	GPE-USA

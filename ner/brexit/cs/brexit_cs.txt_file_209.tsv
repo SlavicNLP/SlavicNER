@@ -1,0 +1,44 @@
+3	10	brexitu	brexit	EVT	EVT-Brexit
+117	132	Velkou Británii	Velká Británie	PER	GPE-Great-Britain
+170	172	EU	EU	ORG	ORG-European-Union
+228	230	EU	EU	ORG	ORG-European-Union
+241	249	Británie	Británie	LOC	GPE-Great-Britain
+338	346	brexitem	brexit	EVT	EVT-Brexit
+366	372	Mayová	Mayová	PER	PER-Theresa-May
+378	382	Unie	Unie	ORG	ORG-European-Union
+402	415	Evropské unie	Evropská unie	ORG	ORG-European-Union
+437	445	Británie	Británie	LOC	GPE-Great-Britain
+577	585	brexitem	brexit	EVT	EVT-Brexit
+604	608	Číně	Čína	LOC	GPE-China
+641	655	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+667	669	EU	EU	ORG	ORG-European-Union
+769	771	EU	EU	ORG	ORG-European-Union
+804	812	Británie	Británie	LOC	GPE-Great-Britain
+829	833	Unie	Unie	ORG	ORG-European-Union
+845	852	Mayovou	Mayová	PER	PER-Theresa-May
+862	869	Reuters	Reuters	ORG	ORG-Reuters
+905	907	EU	EU	ORG	ORG-European-Union
+941	949	Británii	Británie	LOC	GPE-Great-Britain
+1189	1204	Financial Times	Financial Times	PRO	PRO-Financial-Times
+1271	1273	EU	EU	ORG	ORG-European-Union
+1287	1295	Británii	Británie	LOC	GPE-Great-Britain
+1362	1368	Mayové	Mayová	PER	PER-Theresa-May
+1426	1447	evropského parlamentu	evropský parlament	ORG	ORG-European-Parliament
+1452	1458	brexit	brexit	EVT	EVT-Brexit
+1459	1474	Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+1485	1491	Mayové	Mayová	PER	PER-Theresa-May
+1519	1521	EU	EU	ORG	ORG-European-Union
+1586	1589	BBC	BBC	PRO	PRO-BBC-website
+1652	1654	EU	EU	ORG	ORG-European-Union
+1683	1685	EU	EU	ORG	ORG-European-Union
+1773	1781	Británii	Británie	LOC	GPE-Great-Britain
+1893	1900	Mayovou	Mayová	PER	PER-Theresa-May
+1931	1946	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+1947	1965	Valdis Dombrovskis	Valdis Dombrovskis	PER	PER-Valdis-Dombrovskis
+1984	1986	EU	EU	ORG	ORG-European-Union
+2003	2011	Británie	Británie	LOC	GPE-Great-Britain
+2090	2098	Británii	Británie	LOC	GPE-Great-Britain
+2117	2124	Bruselu	Brusel	LOC	GPE-Brussles
+2200	2216	evropského soudu	evropský soud	ORG	ORG-European-Court-of-Justice
+2218	2226	Británie	Británie	LOC	GPE-Great-Britain
+2246	2248	EU	EU	ORG	ORG-European-Union

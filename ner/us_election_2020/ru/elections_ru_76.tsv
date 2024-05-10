@@ -1,0 +1,124 @@
+160	167	Русские	русские	LOC	GPE-Russia
+224	227	США	США	LOC	GPE-USA
+230	237	Русские	русские	LOC	GPE-Russia
+294	297	США	США	LOC	GPE-USA
+312	324	американские	американские	LOC	GPE-USA
+358	365	русских	русские	LOC	GPE-Russia
+448	459	американцам	американцы	PER	GPE-USA
+463	474	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+501	513	американские	американские	LOC	GPE-USA
+547	554	русских	русские	LOC	GPE-Russia
+637	648	американцам	американцы	PER	GPE-USA
+659	665	Google	Google	ORG	ORG-Google
+668	676	Facebook	Facebook	PRO	PRO-Facebook
+687	699	Билла Гейтса	Билл Гейтс	PER	PER-Bill-Gates
+702	721	The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+737	750	Джеффу Безосу	Джефф Безос	PER	PER-Jeff-Bezos
+868	875	BigTech	BigTech	PRO	PRO-BigTech
+932	945	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1231	1249	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+1250	1261	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1528	1534	Трампа	Трамп	PER	PER-Donald-Trump
+1673	1676	США	США	LOC	GPE-USA
+1745	1755	Цукерберга	Марк Цукенберг	PER	PER-Mark-Zuckerberg
+1757	1765	Facebook	Facebook	PRO	PRO-Facebook
+1768	1773	Дорси	Дорси	PER	PER-Jack-Dorsey
+1775	1782	Twitter	Twitter	PRO	PRO-Twitter
+1785	1790	Пичаи	Пичаи	PER	PER-Sundar-Pichai
+1792	1798	Google	Google	ORG	ORG-Google
+1877	1883	Трампа	Трамп	PER	PER-Donald-Trump
+1943	1952	демократы	демократ	ORG	ORG-Democratic-Party-USA
+2051	2064	Республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+2074	2081	BigTech	BigTech	PRO	PRO-Bill-Gates
+2093	2102	демократы	демократ	ORG	ORG-Democratic-Party-USA
+2127	2140	Республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+2396	2405	Демократы	демократы	ORG	ORG-Democratic-Party-USA
+2680	2690	Рокфеллера	Рокфеллер	PER	PER-Rockfeller-Family
+2705	2708	IBM	IBM	ORG	ORG-IBM
+2725	2737	американские	американские	LOC	GPE-USA
+2942	2945	США	США	LOC	GPE-USA
+2957	2962	Трамп	Трамп	PER	PER-Donald-Trump
+3127	3133	Трампа	Трамп	PER	PER-Donald-Trump
+3187	3205	Black Lives Matter	Black Lives Matter	EVT	EVT-Black-Lives-Matter
+3227	3233	Гейтса	Гейтс	PER	PER-Bill-Gates
+3235	3241	Безоса	Безос	PER	PER-Jeff-Bezos
+3243	3253	Цукерберга	Марк Цукенберг	PER	PER-Mark-Zuckerberg
+3317	3339	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3441	3450	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+3511	3517	Сиэтла	Сиэтл	LOC	GPE-Seattle
+3540	3546	Трампа	Трамп	PER	PER-Donald-Trump
+3578	3585	Twitter	Twitter	PRO	PRO-Twitter
+3661	3671	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3984	3991	Дублине	Дублин	LOC	GPE-Dublin
+4057	4060	США	США	LOC	GPE-USA
+4080	4092	американских	американские	LOC	GPE-USA
+4178	4190	американских	американские	LOC	GPE-USA
+4312	4322	американцы	американцы	PER	GPE-USA
+4340	4347	русских	русские	LOC	GPE-Russia
+4766	4778	Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+4910	4920	американцы	американцы	PER	GPE-USA
+5657	5663	Японии	Япония	LOC	GPE-Japan
+5691	5709	Black Lives Matter	Black Lives Matter	EVT	EVT-Black-Lives-Matter
+5876	5881	Штаты	Штаты	LOC	GPE-USA
+6329	6336	Русские	русские	LOC	GPE-Russia
+6393	6396	США	США	LOC	GPE-USA
+6411	6423	американские	американские	LOC	GPE-USA
+6457	6464	русских	русские	LOC	GPE-Russia
+6547	6558	американцам	американцы	PER	GPE-USA
+6569	6575	Google	Google	ORG	ORG-Google
+6578	6586	Facebook	Facebook	PRO	PRO-Facebook
+6597	6609	Билла Гейтса	Билл Гейтс	PER	PER-Bill-Gates
+6612	6631	The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+6647	6660	Джеффу Безосу	Джефф Безос	PER	PER-Jeff-Bezos
+6781	6788	BigTech	BigTech	PRO	PRO-BigTech
+6845	6858	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+7147	7165	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+7166	7177	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+7214	7225	американцев	американцы	PER	GPE-USA
+7444	7450	Трампа	Трам	PER	PER-Donald-Trump
+7592	7595	США	США	LOC	GPE-USA
+7664	7674	Цукерберга	Марк Цукенберг	PER	PER-Mark-Zuckerberg
+7676	7684	Facebook	Facebook	PRO	PRO-Facebook
+7687	7692	Дорси	Дорси	PER	PER-Jack-Dorsey
+7694	7701	Twitter	Twitter	PRO	PRO-Twitter
+7704	7709	Пичаи	Пичаи	PER	PER-Sundar-Pichai
+7711	7717	Google	Google	ORG	ORG-Google
+7726	7739	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+7796	7802	Трампа	Трамп	PER	PER-Donald-Trump
+7973	7986	Республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+7996	8003	BigTech	BigTech	PRO	PRO-BigTech
+8015	8024	демократы	демократ	PER	ORG-Democratic-Party-USA
+8052	8065	Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+8095	8121	Закона о телекоммуникациях	Закон о телекоммуникациях	PRO	PRO-Telecommunications-Law
+8324	8333	Демократы	демократы	ORG	ORG-Democratic-Party-USA
+8608	8618	Рокфеллера	Рокфеллер	PER	PER-Rockfeller-Family
+8633	8636	IBM	IBM	ORG	ORG-IBM
+8656	8668	американские	американские	LOC	GPE-USA
+8876	8879	США	США	LOC	GPE-USA
+8891	8896	Трамп	Трамп	PER	PER-Donald-Trump
+9061	9067	Трампа	Трамп	PER	PER-Donald-Trump
+9121	9139	Black Lives Matter	Black Lives Matter	EVT	EVT-Black-Lives-Matter
+9164	9170	Гейтса	Гейтс	PER	PER-Bill-Gates
+9172	9178	Безоса	Безос	PER	PER-Jeff-Bezos
+9180	9190	Цукерберга	Марк Цукенберг	PER	PER-Mark-Zuckerberg
+9254	9276	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+9378	9387	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+9448	9454	Сиэтла	Сиэтл	LOC	GPE-Seattle
+9477	9483	Трампа	Трамп	PER	PER-Donald-Trump
+9515	9522	Twitter	Twitter	PRO	PRO-Twitter
+9601	9611	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+9927	9934	Дублине	Дублин	LOC	GPE-Dublin
+10003	10006	США	США	LOC	GPE-USA
+10026	10038	американских	американские	LOC	GPE-USA
+10124	10136	американских	американский	LOC	GPE-USA
+10261	10271	американцы	американцы	PER	GPE-USA
+10289	10296	русских	русские	LOC	GPE-Russia
+10715	10727	Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+10862	10872	американцы	американцы	PER	GPE-USA
+11615	11621	Японии	Япония	LOC	GPE-Japan
+11649	11667	Black Lives Matter	Black Lives Matter	EVT	EVT-Black-Lives-Matter
+11834	11839	Штаты	Штаты	LOC	GPE-USA
+12218	12239	"""Фелькишер Беобахтер"""	Фелькишер Беобахтер	PRO	PRO-Völkischer-Beobachter
+12435	12451	«Россия сегодня»	«Россия сегодня»	PRO	PRO-RT-Russia-Today
+12453	12473	МИА «Россия сегодня»	МИА «Россия сегодня»	PRO	PRO-RIA-Novosti
+12529	12543	Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.

@@ -1,0 +1,23 @@
+0	10	Espreso.tv	Espreso.tv	PRO	PRO-Espreso.tv
+26	29	США	США	LOC	GPE-USA
+65	71	Трампа	Трамп	PER	PER-Donald-Trump
+86	89	США	США	LOC	GPE-USA
+125	131	Трампа	Трамп	PER	PER-Donald-Trump
+184	204	Палаті представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+205	217	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+286	301	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+327	347	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+348	360	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+469	475	Трампа	Трамп	PER	PER-Donald-Trump
+692	695	США	США	LOC	GPE-USA
+696	705	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+737	743	Трампа	Трамп	PER	PER-Donald-Trump
+756	767	Конституції	Конституція	PRO	PRO-The-USA-Constitution
+832	844	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+895	904	Капітолія	Капітолій	LOC	LOC-United-States-Capitol
+929	937	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+966	973	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1058	1067	Капітолія	Капітолій	LOC	LOC-United-States-Capitol
+1094	1101	Україні	Україна	LOC	GPE-Ukraine
+1119	1126	Еспресо	Еспресо	PRO	PRO-Espreso.tv
+1144	1152	Telegram	Telegram	PRO	PRO-Telegram

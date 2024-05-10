@@ -1,0 +1,14 @@
+0	8	Германия	Германия	LOC	GPE-Germany
+18	24	Лондон	Лондон	LOC	GPE-London
+76	83	Брекзит	Брекзит	EVT	EVT-Brexit
+144	152	Германия	Германия	LOC	GPE-Germany
+253	255	ЕС	ЕС	ORG	ORG-European-Union
+258	272	Великобритания	Великобритания	LOC	GPE-Great-Britain
+333	335	ЕС	ЕС	ORG	ORG-European-Union
+414	421	Брекзит	Брекзит	EVT	EVT-Brexit
+423	431	Германия	Германия	LOC	GPE-Germany
+511	513	ЕС	ЕС	ORG	ORG-European-Union
+530	536	Лондон	Лондон	LOC	GPE-London
+540	547	Брекзит	Брекзит	EVT	EVT-Brexit
+630	636	Берлин	Берлин	LOC	GPE-Berlin
+689	696	Ройтерс	Ройтерс	ORG	ORG-Reuters

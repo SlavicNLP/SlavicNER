@@ -1,0 +1,22 @@
+0	7	Косачев	Косачев	PER	PER-Konstantin-Kosachev
+39	53	Великобритании	Великобритания	LOC	GPE-Great-Britain
+69	77	Джонсона	Джонсон	PER	PER-Boris-Johnson
+79	86	Косачев	Косачев	PER	PER-Konstantin-Kosachev
+118	132	Великобритании	Великобритания	LOC	GPE-Great-Britain
+148	156	Джонсона	Джонсон	PER	PER-Boris-Johnson
+174	188	Великобритании	Великобритания	LOC	GPE-Great-Britain
+189	199	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+242	257	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+316	319	Мэй	Мэй	PER	PER-Theresa-May
+360	366	Brexit	Brexit	EVT	EVT-Brexit
+387	405	Константин Косачев	Константин Косачев	PER	PER-Konstantin-Kosachev
+477	484	Лондона	Лондон	LOC	GPE-London
+500	508	Джонсона	Джонсон	PER	PER-Boris-Johnson
+540	558	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+648	655	Лондона	Лондон	LOC	GPE-London
+659	677	Европейского союза	Европейский союз	ORG	ORG-European-Union
+763	770	Косачев	Косачев	PER	PER-Konstantin-Kosachev
+795	813	кабинета министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+897	911	Великобритания	Великобритания	LOC	GPE-Great-Britain
+959	969	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+980	987	Косачев	Косачев	PER	PER-Konstantin-Kosachev

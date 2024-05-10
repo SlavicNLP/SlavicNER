@@ -1,0 +1,16 @@
+48	55	brexitu	brexit	EVT	EVT-Brexit
+57	63	Londýn	Londýn	LOC	GPE-London
+90	104	Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+174	187	Evropské unie	Evropská unie	ORG	ORG-European-Union
+237	247	labouristé	labouristé	PER	ORG-Labour-Party-UK
+249	263	Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+337	345	Bruselem	Brusel	LOC	GPE-Brussles
+421	435	Sněmovny lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+465	495	Evropské hospodářském prostoru	Evropský hospodářský prostor	ORG	ORG-EEA-European-Economic-Area
+497	500	EHP	EHP	ORG	ORG-EEA-European-Economic-Area
+527	539	The Guardian	The Guardian	PRO	PRO-The-Guardian
+591	601	labouristy	labouristé	PER	ORG-Labour-Party-UK
+665	696	Evropském hospodářském prostoru	Evropský hospodářský prostor	ORG	ORG-EEA-European-Economic-Area
+760	766	brexit	brexit	EVT	EVT-Brexit
+892	894	EU	EU	ORG	ORG-European-Union
+898	905	brexitu	brexit	EVT	EVT-Brexit

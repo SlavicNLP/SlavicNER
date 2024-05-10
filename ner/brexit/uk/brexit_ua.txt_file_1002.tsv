@@ -1,0 +1,54 @@
+16	32	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+35	41	Brexit	Brexit	EVT	EVT-Brexit
+53	67	Стівена Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+85	101	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+104	110	Brexit	Brexit	EVT	EVT-Brexit
+116	129	Стівен Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+203	217	Стівена Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+249	268	Європейського союзу	Європейський союз	ORG	ORG-European-Union
+355	362	Twitter	Twitter	PRO	PRO-Twitter
+390	403	Домініка Рабе	Домінік Рабе	PER	PER-Dominic-Raab
+464	470	Brexit	Brexit	EVT	EVT-Brexit
+503	512	Ембер Рад	Ембер Рад	PER	PER-Ember-Rad
+668	674	Brexit	Brexit	EVT	EVT-Brexit
+675	687	Естер Маквей	Естер Маквей	PER	PER-Emanuelе-Ferarrio
+689	697	С.Барклі	С.Барклі	PER	PER-Stiven-Barkli
+719	765	міністерстві охорони здоров'я Великої Британії	міністерство охорони здоров'я Великої Британії	ORG	ORG-British-Ministry-of-Health
+798	806	С.Барклі	С.Барклі	PER	PER-Stiven-Barkli
+921	929	С.Барклі	С.Барклі	PER	PER-Stiven-Barkli
+936	957	Консервативної партії	Консервативна партія	ORG	ORG-Conservative-and-Unionist-Party-UK
+977	993	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+996	998	ЄС	ЄС	LOC	ORG-European-Union
+1000	1010	"""Бі-бі-сі"""	"""Бі-бі-сі"""	ORG	ORG-BBC-Ltd
+1018	1026	С.Барклі	С.Барклі	PER	PER-Stiven-Barkli
+1144	1152	С.Барклі	С.Барклі	PER	PER-Stiven-Barkli
+1183	1199	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+1251	1267	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+1268	1278	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1325	1334	Брюсселем	Брюссель	LOC	GPE-Brussles
+1376	1378	ЄС	ЄС	LOC	ORG-European-Union
+1411	1424	Даунінг-стрит	Даунінг-стрит	LOC	LOC-Downing-Street
+1436	1444	С.Барклі	С.Барклі	PER	PER-Stiven-Barkli
+1458	1471	Даунінг-стрит	Даунінг-стрит	LOC	LOC-Downing-Street
+1499	1507	Британії	Британія	LOC	GPE-Great-Britain
+1542	1548	Brexit	Brexit	EVT	EVT-Brexit
+1550	1579	Британський кабінет міністрів	Британський кабінет міністрів	ORG	ORG-Cabinet-of-the-United-Kingdom
+1642	1658	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+1669	1671	ЄС	ЄС	LOC	ORG-European-Union
+1684	1689	Т.Мей	Т.Мей	PER	PER-Theresa-May
+1770	1786	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+1958	1974	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+1977	1979	ЄС	ЄС	LOC	ORG-European-Union
+2021	2023	ЄС	ЄС	LOC	ORG-European-Union
+2133	2135	ЄС	ЄС	LOC	ORG-European-Union
+2145	2161	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+2174	2182	Євроради	Єврорада	ORG	ORG-European-Parliament
+2183	2195	Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+2255	2260	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+2290	2296	Brexit	Brexit	EVT	EVT-Brexit
+2300	2316	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+2352	2358	Brexit	Brexit	EVT	EVT-Brexit
+2442	2448	Brexit	Brexit	EVT	EVT-Brexit
+2449	2460	Домінік Раб	Домінік Раб	PER	PER-Dominic-Raab
+2481	2499	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+2500	2511	Шейлеш Вара	Шейлеш Вара	PER	PER-Shailesh-Vara

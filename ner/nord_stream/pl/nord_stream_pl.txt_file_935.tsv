@@ -1,0 +1,89 @@
+24	27	NS2	NS2	PRO	PRO-Nord-Stream-2
+57	64	Ukrainę	Ukraina	LOC	GPE-Ukraine
+82	89	Gazprom	Gazprom	ORG	ORG-Gazprom
+102	110	Naftohaz	Naftohaz	ORG	ORG-Naftogaz
+203	216	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+244	258	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+260	267	Ukraina	Ukraina	LOC	GPE-Ukraine
+293	306	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+308	313	Dania	Dania	LOC	GPE-Denmark
+361	364	USA	USA	LOC	GPE-USA
+446	459	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+518	525	Bałtyku	Bałtyk	LOC	LOC-Baltic-Sea
+562	573	Roland Götz	Roland Götz	PER	PER-Roland-Götz
+575	588	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+647	654	Gazprom	Gazprom	ORG	ORG-Gazprom
+677	679	DW	DW	PRO	PRO-Deutsche-Welle
+831	833	RG	RG	PER	PER-Roland-Götz
+835	848	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+929	936	Gazprom	Gazprom	ORG	ORG-Gazprom
+1071	1073	DW	DW	PRO	PRO-Deutsche-Welle
+1085	1087	RG	RG	PER	PER-Roland-Götz
+1117	1130	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1193	1198	Danii	Dania	LOC	GPE-Denmark
+1265	1273	Bornholm	Bornholm	LOC	LOC-Bornholm
+1389	1406	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1638	1640	DW	DW	PRO	PRO-Deutsche-Welle
+1667	1669	RG	RG	PER	PER-Roland-Götz
+1701	1714	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1731	1736	EUGAL	EUGAL	PRO	PRO-Eugal
+1769	1775	Niemcy	Niemcy	LOC	GPE-Germany
+2029	2031	DW	DW	PRO	PRO-Deutsche-Welle
+2033	2040	Ukraina	Ukraina	LOC	GPE-Ukraine
+2167	2172	Kijów	Kijów	LOC	GPE-Kiev
+2196	2204	Brukseli	Bruksela	LOC	GPE-Brussles
+2206	2208	RG	RG	PER	PER-Roland-Götz
+2216	2223	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2255	2268	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2462	2475	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2595	2597	DW	DW	PRO	PRO-Deutsche-Welle
+2662	2664	RG	RG	PER	PER-Roland-Götz
+2888	2895	Gazprom	Gazprom	ORG	ORG-Gazprom
+2974	2976	DW	DW	PRO	PRO-Deutsche-Welle
+3045	3052	Gazprom	Gazprom	ORG	ORG-Gazprom
+3104	3111	Ukrainę	Ukraina	LOC	GPE-Ukraine
+3128	3134	Moskwa	Moskwa	LOC	GPE-Moscow
+3137	3142	Kijów	Kijów	LOC	GPE-Kiev
+3208	3210	RG	RG	PER	PER-Roland-Götz
+3217	3224	Gazprom	Gazprom	ORG	ORG-Gazprom
+3297	3310	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+3433	3440	Ukrainę	Ukraina	LOC	GPE-Ukraine
+3602	3607	Rosją	Rosja	LOC	GPE-Russia
+3610	3617	Ukrainą	Ukraina	LOC	GPE-Ukraine
+3758	3767	Gazpromem	Gazprom	ORG	ORG-Gazprom
+3781	3791	Naftohazem	Naftohaz	ORG	ORG-Naftogaz
+3866	3868	DW	DW	PRO	PRO-Deutsche-Welle
+3907	3915	Gazpromu	Gazprom	ORG	ORG-Gazprom
+3916	3931	Aleksiej Miller	Aleksiej Miller	PER	PER-Aleksey-Miller
+3985	3987	RG	RG	PER	PER-Roland-Götz
+4240	4247	Ukrainę	Ukraina	LOC	GPE-Ukraine
+4259	4261	DW	DW	PRO	PRO-Deutsche-Welle
+4289	4296	Gazprom	Gazprom	ORG	ORG-Gazprom
+4353	4360	Ukrainę	Ukraina	LOC	GPE-Ukraine
+4393	4395	RG	RG	PER	PER-Roland-Götz
+4573	4584	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+4643	4650	Gazprom	Gazprom	ORG	ORG-Gazprom
+4778	4785	Europie	Europa	LOC	LOC-Europe
+4814	4816	DW	DW	PRO	PRO-Deutsche-Welle
+4874	4876	RG	RG	PER	PER-Roland-Götz
+4888	4896	Naftohaz	Naftohaz	ORG	ORG-Naftogaz
+4983	4992	Gazpromem	Gazprom	ORG	ORG-Gazprom
+5080	5088	Gazpromu	Gazprom	ORG	ORG-Gazprom
+5261	5268	Ukrainy	Ukraina	LOC	GPE-Ukraine
+5480	5482	DW	DW	PRO	PRO-Deutsche-Welle
+5502	5509	Ukraina	Ukraina	LOC	GPE-Ukraine
+5631	5633	RG	RG	PER	PER-Roland-Götz
+5635	5642	Ukraina	Ukraina	LOC	GPE-Ukraine
+5829	5839	Gazpromowi	Gazprom	ORG	ORG-Gazprom
+5882	5890	Gazpromu	Gazprom	ORG	ORG-Gazprom
+5945	5952	Ukrainę	Ukraina	LOC	GPE-Ukraine
+6042	6049	Ukraina	Ukraina	LOC	GPE-Ukraine
+6240	6247	Ukraina	Ukraina	LOC	GPE-Ukraine
+6292	6303	Roland Götz	Roland Götz	PER	PER-Roland-Götz
+6338	6343	Rosji	Rosja	LOC	GPE-Russia
+6358	6383	Fundacji Nauka i Polityka	Fundacja Nauka i Polityka	ORG	ORG-SWP-Stiftung-Wissenschaft-und-Politik
+6385	6418	Stiftung Wissenschaft und Politik	Stiftung Wissenschaft und Politik	ORG	ORG-SWP-Stiftung-Wissenschaft-und-Politik
+6420	6423	SWP	SWP	ORG	ORG-SWP-Stiftung-Wissenschaft-und-Politik
+6536	6538	UE	UE	ORG	ORG-European-Union
+6539	6544	Rosja	Rosja	LOC	GPE-Russia
+6556	6570	Andriej Gurkow	Andriej Gurkow	PER	PER-Andriej-Gurkow

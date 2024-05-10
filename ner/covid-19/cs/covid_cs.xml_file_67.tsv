@@ -1,0 +1,7 @@
+53	56	RNA	RNA	PRO	PRO-RNA
+87	94	Moderny	Moderna	ORG	ORG-Moderna
+97	104	Pfizeru	Pfizer	ORG	ORG-Pfizer
+555	563	Wu-chanu	Wu-chan	LOC	GPE-Wuhan
+650	661	koronavirus	koronavirus	EVT	EVT-Covid-19
+791	801	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+945	953	covid-19	covid-19	EVT	EVT-Covid-19

@@ -1,0 +1,21 @@
+2	10	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+32	39	Байдена	Байден	PER	PER-Joe-Biden
+44	51	Трампом	Трамп	PER	PER-Donald-Trump
+314	336	виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+345	353	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+428	439	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+510	525	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+562	565	CNN	CNN	ORG	ORG-CNN
+616	634	Бреда Рфенспергера	Бред Рфенспергер	PER	PER-Brad-Raffensperger
+658	665	Байдена	Байден	PER	PER-Joe-Biden
+889	896	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+899	907	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1096	1111	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+1432	1435	США	США	LOC	GPE-USA
+1458	1465	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1562	1573	OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+1577	1580	США	США	LOC	GPE-USA
+1625	1628	США	США	LOC	GPE-USA
+1629	1642	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1670	1677	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1722	1733	Білого дому	Білий дім	ORG	ORG-White-House

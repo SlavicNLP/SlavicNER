@@ -1,0 +1,78 @@
+23	26	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+95	105	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+165	177	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+184	194	Франс прес	Франс прес	ORG	ORG-France-Presse
+208	214	Байдън	Байдън	PER	PER-Joe-Biden
+394	403	Белия дом	Бял дом	LOC	LOC-White-House
+476	487	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+543	550	Америка	Америка	LOC	GPE-USA
+678	690	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+734	744	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+767	770	САЩ	САЩ	LOC	GPE-USA
+844	847	САЩ	САЩ	LOC	GPE-USA
+910	922	републиканец	републиканец	PER	ORG-Republican-Party-USA
+1061	1071	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1114	1121	Делауер	Делауер	LOC	GPE-Delaware
+1292	1302	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1346	1355	Бо Байдън	Бо Байдън	PER	PER-Beau-Biden
+1397	1409	американците	американци	PER	GPE-USA
+1472	1482	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1507	1518	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+1631	1642	демократите	демократи	PER	ORG-Democratic-Party-USA
+1700	1710	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1785	1798	Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+1887	1895	демократ	демократ	PER	ORG-Democratic-Party-USA
+1915	1924	Белия дом	Бял дом	LOC	LOC-White-House
+1944	1950	Байдън	Байдън	PER	PER-Joe-Biden
+2044	2057	Бърни Сандърс	Бърни Сандърс	PER	PER-Bernie-Sanders
+2107	2113	Байдън	Байдън	PER	PER-Joe-Biden
+2185	2197	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2308	2317	Белия дом	Бял дом	LOC	LOC-White-House
+2345	2355	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2369	2380	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+2567	2581	републиканците	републиканци	PER	ORG-Republican-Party-USA
+2625	2631	Байдън	Байдън	PER	PER-Joe-Biden
+2691	2702	демократите	демократи	PER	ORG-Democratic-Party-USA
+2848	2858	Нийл Кинок	Нийл Кинок	PER	PER-Neil-Kinnock
+2861	2867	Байдън	Байдън	PER	PER-Joe-Biden
+3244	3256	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+3284	3290	Байдън	Байдън	PER	PER-Joe-Biden
+3367	3379	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+3430	3441	демократите	демократи	PER	ORG-Democratic-Party-USA
+3443	3453	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3553	3556	САЩ	САЩ	LOC	GPE-USA
+3559	3571	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+3630	3646	афроамериканците	афроамериканци	PER	GPE-USA
+3647	3653	Байдън	Байдън	PER	PER-Joe-Biden
+3700	3710	Уилмингтън	Уилмингтън	LOC	GPE-Wilmington
+3982	3991	Белия дом	Бял дом	LOC	LOC-White-House
+4032	4036	Ирак	Ирак	LOC	GPE-Iraq
+4073	4079	Сената	Сенат	ORG	ORG-United-States-Senate
+4123	4132	Анита Хил	Анита Хил	PER	PER-Anita-Hill
+4164	4177	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+4178	4191	Кларънс Томас	Кларънс Томас	PER	PER-Clarence-Thomas
+4373	4387	афроамериканци	афроамериканци	PER	GPE-USA
+4395	4405	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+4580	4589	Белия дом	Бял дом	LOC	LOC-White-House
+4612	4623	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+4649	4655	Байдън	Байдън	PER	PER-Joe-Biden
+4680	4688	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+4851	4873	Джоузеф Робинет Байдън	Джоузеф Робинет Байдън	PER	PER-Joe-Biden
+4906	4914	Скрантън	Скрентън	LOC	GPE-Scranton
+4921	4932	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+5015	5021	байдън	Байдън	PER	PER-Joe-Biden
+5053	5060	Делауер	Делауер	LOC	GPE-Delaware
+5099	5109	Уилмингтън	Уилмингтън	LOC	GPE-Wilmington
+5123	5129	Байдън	Байдън	PER	PER-Joe-Biden
+5298	5304	Байдън	Байдън	PER	PER-Joe-Biden
+5479	5488	Тара Рийд	Тара Рийд	PER	PER-Tara-Reade
+5552	5558	Байдън	Байдън	PER	PER-Joe-Biden
+5622	5633	Джил Байдън	Джил Байдън	PER	PER-Jill-Biden
+5766	5770	Ашли	Ашли	PER	PER-Ashley-Biden
+5773	5779	Байдън	Байдън	PER	PER-Joe-Biden
+5942	5948	Байдън	Байдън	PER	PER-Joe-Biden
+6034	6044	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+6329	6335	Байдън	Байдън	PER	PER-Joe-Biden
+6519	6529	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+6558	6580	"църквата ""Свети Йосиф"""	"църква ""Свети Йосиф"""	LOC	LOC-St.-Joseph-Catholic-Church
+6604	6614	Уилмингтън	Уилмингтън	LOC	GPE-Wilmington

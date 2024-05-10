@@ -1,0 +1,26 @@
+2	11	Hrastniku	Hrastnik	LOC	GPE-Hrastnik
+35	43	covid-19	covid-19	EVT	EVT-Covid-19
+51	62	Marko Funkl	Marko Funkl	PER	PER-Marko-Funkl
+81	93	koronavirusa	koronavirus	EVT	EVT-Covid-19
+179	188	Hrastniku	Hrastnik	LOC	GPE-Hrastnik
+296	304	Covid-19	Covid-19	EVT	EVT-Covid-19
+316	325	Hrastniku	Hrastnik	LOC	GPE-Hrastnik
+433	448	Občina Hrastnik	Občina Hrastnik	LOC	GPE-Hrastnik
+554	563	Hrastniku	Hrastnik	LOC	GPE-Hrastnik
+606	617	Marko Funkl	Marko Funkl	PER	PER-Marko-Funkl
+652	661	Hrastniku	Hrastnik	LOC	GPE-Hrastnik
+700	719	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+729	737	Hrastnik	Hrastnik	LOC	GPE-Hrastnik
+817	863	odredba o prepovedi kurjenja v naravnem okolju	odredba o prepovedi kurjenja v naravnem okolju	PRO	PRO-Slovenian-decree-on-fire-protection-in-the-natural-environment
+935	939	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1177	1182	Funkl	Funkl	PER	PER-Marko-Funkl
+1213	1218	Funkl	Funkl	PER	PER-Marko-Funkl
+1238	1271	Dom starejših občanov v Hrastniku	Dom starejših občanov v Hrastniku	LOC	LOC-Senior-Citizens-Home-in-Hrastnik
+1650	1658	Covid-19	Covid-19	EVT	EVT-Covid-19
+1834	1839	Funkl	Funkl	PER	PER-Marko-Funkl
+1842	1855	Drago Kopušar	Drago Kopušar	PER	PER-Drago-Kopušar
+2049	2060	koronavirus	koronavirus	EVT	EVT-Covid-19
+2347	2354	Kopušar	Kopušar	PER	PER-Drago-Kopušar
+2624	2639	Gregorja Pajiča	Gregor Pajič	PER	PER-Gregor-Pajič
+3415	3426	koronavirus	koronavirus	EVT	EVT-Covid-19
+3530	3535	Pajič	Pajič	PER	PER-Gregor-Pajič

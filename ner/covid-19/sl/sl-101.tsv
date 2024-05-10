@@ -1,0 +1,59 @@
+41	49	covid-19	covid-19	EVT	EVT-Covid-19
+151	167	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+457	465	Franciji	Francija	LOC	GPE-France
+472	481	Kitajskem	Kitajska	LOC	GPE-China
+516	525	covida-19	covid-19	EVT	EVT-Covid-19
+546	554	klorokin	klorokin	PRO	PRO-Chloroquine
+558	574	hidroksiklorokin	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+581	610	evropska agencija za zdravila	evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+869	923	Javni agenciji RS za zdravila in medicinske pripomočke	Javna agencija RS za zdravila in medicinske pripomočke	ORG	ORG-JAZMP-Agency-for-Medicinal-Products-and-Medical-Devices-of-the-Republic-of-Slovenia
+1094	1103	covida-19	covid-19	EVT	EVT-Covid-19
+1247	1257	covidom-19	covid-19	EVT	EVT-Covid-19
+1918	1927	covida-19	covid-19	EVT	EVT-Covid-19
+2022	2028	Evropi	Evropa	LOC	LOC-Europe
+2081	2091	klorokinom	klorokin	PRO	PRO-Chloroquine
+2095	2113	hidroksiklorokinom	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+2136	2144	Novartis	Novartis	ORG	ORG-Novartis
+2202	2214	ruksolitinib	ruksolitinib	PRO	PRO-Ruxolitinib
+2255	2265	covidom-19	covid-19	EVT	EVT-Covid-19
+2275	2288	ruksolitiniba	ruksolitinib	PRO	PRO-Ruxolitinib
+2479	2488	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2600	2609	covida-19	covid-19	EVT	EVT-Covid-19
+2611	2619	Klorokin	klorokin	PRO	PRO-Chloroquine
+2623	2639	hidroksiklorokin	hidroksiklorokin	PRO	PRO-Hydroxychloroquine
+2781	2790	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2825	2838	remdesivirjem	remdesivir	PRO	PRO-Remdesivir
+3030	3059	Evropska agencija za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+3283	3328	Univerzitetnem kliničnem centru (UKC) Maribor	Univerzitetni klinični center (UKC) Maribor	LOC	LOC-University-Medical-Center-Maribor
+3522	3525	STA	STA	ORG	ORG-Slovenian-Press-Agency
+3554	3567	remdesivirjem	remdesivir	PRO	PRO-Remdesivir
+3640	3651	UKC Maribor	UKC Maribor	LOC	LOC-University-Medical-Centre-Maribor
+3808	3817	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+3819	3827	klorokin	klorokin	PRO	PRO-Chloroquine
+3831	3840	lopinavir	lopinavir	PRO	PRO-Lopinavir
+3841	3850	ritonavir	ritonavir	PRO	PRO-Ritonavir
+3864	3877	Janez Tomažič	Janez Tomažič	PER	PER-Janez-Tomažič
+3927	3931	ISIS	ISIS	PRO	PRO-ISIS-(Medical-Chamber-of-Slovenia)
+4061	4070	covida-19	covid-19	EVT	EVT-Covid-19
+4073	4085	lopinavirjem	lopinavir	PRO	PRO-Lopinavir
+4086	4098	ritonavirjem	ritonavir	PRO	PRO-Ritonavir
+4238	4248	klorokinom	klorokin	PRO	PRO-Chloroquine
+4638	4652	Klinike Golnik	Klinika Golnik	LOC	LOC-Hospital-Golnik
+4653	4664	Aleš Rozman	Aleš Rozman	PER	PER-Aleš-Rozman
+4701	4714	hidroklorikin	hidroklorikin	PRO	PRO-Hydroxychloroquine
+4718	4729	azitromicin	azitromicin	PRO	PRO-Azithromycin
+4750	4757	Golniku	Golnik	LOC	LOC-Hospital-Golnik
+4773	4781	Francije	Francija	LOC	GPE-France
+4925	4933	Tomažiča	Tomažič	PER	PER-Janez-Tomažič
+4954	4965	favipiravir	favipiravir	PRO	PRO-Favipiravir
+5004	5013	Japonskem	Japonska	LOC	GPE-Japan
+5036	5044	Japonska	Japonska	LOC	GPE-Japan
+5074	5083	Sloveniji	Slovenija	LOC	GPE-Slovenia
+5156	5166	umifenovir	umifenovir	PRO	PRO-Umifenovir
+5176	5182	Rusiji	Rusija	LOC	GPE-Russia
+5189	5198	Kitajskem	Kitajska	LOC	GPE-China
+5242	5251	Kitajskem	Kitajska	LOC	GPE-China
+5295	5305	covidom-19	covid-19	EVT	EVT-Covid-19
+5388	5414	Zavoda za transfuzijo krvi	Zavod za transfuzijo krvi	ORG	ORG-Blood-Transfusion-Centre-of-Slovenia
+5574	5582	covid-19	covid-19	EVT	EVT-Covid-19
+5698	5705	Tomažič	Tomažič	PER	PER-Janez-Tomažič

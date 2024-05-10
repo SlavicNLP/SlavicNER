@@ -1,0 +1,50 @@
+53	61	COVID-19	COVID-19	EVT	EVT-Covid-19
+88	94	ковида	ковид	EVT	EVT-Covid-19
+158	164	России	Россия	LOC	GPE-Russia
+183	199	Тверской области	Тверская область	LOC	GPE-Tver-region
+300	308	COVID-19	COVID-19	EVT	EVT-Covid-19
+371	416	Министерства здравоохранения Тверской области	Министерство здравоохранения Тверской области	ORG	ORG-Ministry-of-Health-of-the-Tver-Region
+431	500	Центра по профилактике и борьбе со СПИД и инфекционными заболеваниями	Центр по профилактике и борьбе со СПИД и инфекционными заболеваниями	ORG	ORG-Center-for-the-Prevention-and-Control-of-AIDS-and-Infectious-Diseases
+501	521	Александр Раздорский	Александр Раздорский	PER	PER-Alexander-Razdorsky
+559	571	коронавируса	коронавирус	EVT	EVT-Covid-19
+585	599	"""Спутник Лайт"""	Спутник Лайт	PRO	PRO-Sputnik-Light
+636	652	Тверской области	Тверская область	LOC	GPE-Tver-region
+688	703	"""Гам Ковид Вак"""	Гам Ковид Вак	PRO	PRO-Gam-COVID-Vac
+720	731	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+758	788	институтом имени Н. Ф. Гамалеи	Институт имени Н. Ф. Гамалеи	ORG	ORG-Institute-named-after-N-F-Gamalei
+856	882	Минздрава Тверской области	Минздрав Тверской области	ORG	ORG-Ministry-of-Health-of-the-Tver-Region
+957	971	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1021	1027	России	Россия	LOC	GPE-Russia
+1085	1099	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+1115	1187	"ФБУН ""Государственный научный центр вирусологии и биотехнологии ""Вектор"""	"ФБУН ""Государственный научный центр вирусологии и биотехнологии ""Вектор"""	ORG	ORG-State-Scientific-Center-of-Virology-and-Biotechnology-Vector
+1188	1204	Роспотребнадзора	Роспотребнадзор	ORG	ORG-CPS
+1353	1366	"""Спутником V"""	Спутник V	PRO	PRO-Sputnik-V
+1468	1478	"""Спутнике"""	Спутник	PRO	PRO-Sputnik-V
+1788	1800	коронавируса	коронавирус	EVT	EVT-Covid-19
+2202	2214	коронавируса	коронавирус	EVT	EVT-Covid-19
+2444	2458	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+2539	2551	коронавируса	коронавирус	EVT	EVT-Covid-19
+2616	2636	Александр Раздорский	Александр Раздорский	PER	Александра Филиппенко
+2654	2660	России	Россия	LOC	GPE-Russia
+2661	2688	институт им. М. П. Чумакова	институт им. М. П. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+2717	2725	COVID-19	COVID-19	EVT	EVT-Covid-19
+2755	2767	коронавируса	коронавирус	EVT	EVT-Covid-19
+3036	3048	"""Спутника V"""	Спутник V	PRO	PRO-Sputnik-V
+3226	3240	"""Спутник Лайт"""	Спутник Лайт	PRO	PRO-Sputnik-Light
+3293	3321	институт имени Н. Ф. Гамалеи	институт имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+3361	3370	"""Спутник"""	Спутник	PRO	PRO-Sputnik-V
+3762	3777	"""Гам Ковид Вак"""	Гам Ковид Вак	PRO	PRO-Gam-COVID-Vac
+3793	3813	Александр Раздорский	Александр Раздорский	PER	PER-Alexander-Razdorsky
+3849	3861	"""Спутника V"""	Спутник V	PRO	PRO-Sputnik-V
+4090	4105	"""Гам Ковид Вак"""	Гам Ковид Вак	PRO	PRO-Gam-COVID-Vac
+4131	4166	Министерство здравоохранения России	Министерство здравоохранения России	ORG	ORG-Ministry-of-Health-Russia
+4389	4397	Минздрав	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+4959	4982	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+5847	5886	Тверской областной клинической больнице	Тверская областная клиническая больница	ORG	ORG-Tver-Regional-Clinical-Hospital
+5890	5924	медицинском Центре им. В.П. Аваева	медицинский центр им. В.П. Аваева	ORG	ORG-Avaev-Medical-Center
+5927	5978	"""Центре гигиены и эпидемиологии в Тверской области"""	Центр гигиены и эпидемиологии в Тверской области	ORG	ORG-Center-of-Hygiene-and-Epidemiology-in-the-Tver-region
+5979	5995	Роспотребнадзора	Роспотребнадзор	ORG	ORG-CPS
+6027	6033	ковида	ковид	EVT	EVT-Covid-19
+6098	6110	Минздрава РФ	Минздрав РФ	ORG	ORG-Ministry-of-Health-Russia
+6236	6249	коронавирусом	коронавирус	EVT	EVT-Covid-19
+6295	6303	ковидным	ковидный	EVT	EVT-Covid-19

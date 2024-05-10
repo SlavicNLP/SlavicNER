@@ -1,0 +1,15 @@
+0	5	Česko	Česko	LOC	GPE-Czech-Republic
+33	44	koronavirem	koronavirus	EVT	EVT-Covid-19
+80	85	Česko	Česko	LOC	GPE-Czech-Republic
+120	131	koronavirem	koronavirus	EVT	EVT-Covid-19
+164	172	COVID-19	COVID-19	EVT	EVT-Covid-19
+368	380	Adam Vojtěch	Adam Vojtěch	PER	PER-Adam-Vojtěch
+385	388	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+553	558	Praze	Praha	LOC	GPE-Prague
+701	707	Prahou	Praha	LOC	GPE-Prague
+731	742	Středočeský	Středočeský	LOC	GPE-Central-Bohemian-Region
+761	775	Olomoucký kraj	Olomoucký kraj	LOC	LOC-Olomouc-region
+798	814	Libereckém kraji	Liberecký kraj	LOC	GPE-Liberec-region
+914	926	Adam Vojtěch	Adam Vojtěch	PER	PER-Adam-Vojtěch
+931	934	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+949	957	twitteru	twitter	PRO	PRO-Twitter

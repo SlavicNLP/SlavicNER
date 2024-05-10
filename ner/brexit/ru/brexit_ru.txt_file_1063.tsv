@@ -1,0 +1,12 @@
+47	62	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+164	167	США	США	LOC	GPE-USA
+226	240	Великобритании	Великобритания	LOC	GPE-Great-Britain
+241	251	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+294	309	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+537	543	Brexit	Brexit	EVT	EVT-Brexit
+544	555	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+568	580	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+646	653	Д.Дэвис	Д.Дэвис	PER	PER-David-Davis
+713	727	Великобритании	Великобритания	LOC	GPE-Great-Britain
+741	743	ЕС	ЕС	ORG	ORG-European-Union
+879	885	Brexit	Brexit	EVT	EVT-Brexit

@@ -1,0 +1,29 @@
+6	14	Američan	Američan	PER	GPE-USA
+26	37	koronavirem	koronavirus	EVT	EVT-Covid-19
+118	128	The Lancet	The Lancet	PRO	PRO-The-Lancet
+174	184	koronaviru	koronavirus	EVT	EVT-Covid-19
+230	236	Nevady	Nevada	LOC	GPE-Nevada
+476	487	koronavirus	koronavirus	EVT	EVT-Covid-19
+847	858	koronavirus	koronavirus	EVT	EVT-Covid-19
+1081	1093	Mark Pandori	Mark Pandori	PER	PER-Mark-Pandori
+1096	1115	Nevadské univerzity	Nevadská univerzita	ORG	ORG-The-Nevada-University
+1194	1203	covidu-19	covid-19	EVT	EVT-Covid-19
+1251	1262	koronavirem	koronavirus	EVT	EVT-Covid-19
+1366	1376	koronaviru	koronavirus	EVT	EVT-Covid-19
+1728	1738	covidem-19	covid-19	EVT	EVT-Covid-19
+1794	1803	Hongkongu	Hongkong	LOC	GPE-Hong-Kong
+1805	1815	Nizozemsku	Nizozemsko	LOC	GPE-Holland
+1819	1825	Belgii	Belgie	LOC	GPE-Belgium
+1890	1898	Ekvádoru	Ekvádor	LOC	GPE-Ecuador
+2004	2010	Nevadě	Nevada	LOC	GPE-Nevada
+2083	2094	koronavirem	koronavirus	EVT	EVT-Covid-19
+2201	2207	Nevady	Nevada	LOC	GPE-Nevada
+2462	2468	dengue	dengue	EVT	EVT-Dengue-Fever
+2527	2533	dengue	dengue	EVT	EVT-Dengue-Fever
+2614	2639	University of East Anglia	University of East Anglia	ORG	ORG-University-of-East-Anglia
+2640	2651	Paul Hunter	Paul Hunter	PER	PER-Paul-Hunter
+2690	2699	Američana	Američan	PER	GPE-USA
+2796	2802	Hunter	Hunter	PER	PER-Paul-Hunter
+3042	3049	covidem	covid	EVT	EVT-Covid-19
+3073	3078	covid	covid	EVT	EVT-Covid-19
+3092	3102	Konvalinka	Konvalinka	PER	PER-Jan-Konvalinka

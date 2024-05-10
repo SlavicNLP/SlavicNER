@@ -1,0 +1,9 @@
+3	10	Wyspach	Wyspy	LOC	GPE-Great-Britain
+54	71	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+445	471	Urzędu Krajowej Statystyki	Urząd Krajowej Statystyki	ORG	ORG-ONS-Office-for-National-Statistics
+473	476	ONS	ONS	ORG	ORG-ONS-Office-for-National-Statistics
+513	520	brexitu	Brexit	EVT	EVT-Brexit
+612	623	Bank Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+775	786	Matt Hughes	Matt Hughes	PER	PER-Matt-Hughes
+789	792	ONS	ONS	ORG	ORG-ONS-Office-for-National-Statistics
+1075	1089	Bank centralny	Bank Centralny	ORG	ORG-European-Central-Bank

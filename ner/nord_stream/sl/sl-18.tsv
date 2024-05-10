@@ -1,0 +1,32 @@
+0	6	Rusija	Rusija	LOC	GPE-Russia
+10	18	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+21	28	Berlinu	Berlin	LOC	GPE-Berlin
+58	64	Evropo	Evropa	LOC	LOC-Europe
+66	74	Altmaier	Altmaier	PER	PER-Peter-Altmaier
+154	169	vzhodu Ukrajine	vzhod Ukrajine	LOC	LOC-East-Ukraine
+276	279	dpa	dpa	ORG	ORG-DPA
+343	359	Pavlom Klinkinom	Pavlo Klimkin	PER	PER-Pavlo-Klimkin
+393	412	Aleksandrom Novakom	Aleksander Novak	PER	PER-Aleksandr-Novak
+432	449	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+483	501	Marošom Šefčovičem	Maroš Šefčovič	PER	PER-Maros-Sefcovic
+566	574	Altmaier	Altmaier	PER	PER-Peter-Altmaier
+628	636	Šefčovič	Šefčovič	PER	PER-Maros-Sefcovic
+839	842	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+924	932	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+946	952	Evropo	Evropa	LOC	LOC-Europe
+1044	1050	Rusija	Rusija	LOC	GPE-Russia
+1091	1099	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1160	1164	Tass	Tass	ORG	ORG-TASS-Agency
+1255	1262	Gazprom	Gazprom	ORG	ORG-Gazprom
+1278	1288	Naftogazom	Naftogaz	ORG	ORG-Naftogaz
+1313	1315	EU	EU	ORG	ORG-European-Union
+1413	1415	EU	EU	ORG	ORG-European-Union
+1463	1471	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1473	1478	Kijev	Kijev	LOC	GPE-Kiev
+1541	1554	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1564	1570	Evropo	Evropa	LOC	LOC-Europe
+1590	1596	Rusije	Rusija	LOC	GPE-Russia
+1603	1618	Baltskega morja	Baltsko morje	LOC	LOC-Baltic-Sea
+1691	1698	Nemčije	Nemčija	LOC	GPE-Germany
+1702	1708	Rusije	Rusija	LOC	GPE-Russia
+1711	1717	Moskva	Moskva	LOC	GPE-Moscow

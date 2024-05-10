@@ -1,0 +1,11 @@
+19	22	USA	USA	LOC	GPE-USA
+125	129	Unie	Unie	ORG	ORG-European-Union
+138	146	Bílý dům	Bílý dům	LOC	LOC-White-House
+158	170	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+182	197	Oválné pracovně	Oválná pracovna	LOC	LOC-Oval-Office
+220	229	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+290	298	Kapitolu	Kapitol	LOC	LOC-United-States-Capitol
+408	419	Washingtonu	Washington	LOC	GPE-WashingtonDC
+490	501	Miloš Zeman	Miloš Zeman	PER	PER-Milos-Zeman
+511	523	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+575	585	trumpovské	trump	PER	PER-Donald-Trump

@@ -1,0 +1,9 @@
+0	12	Zbyněk Fiala	Zbyněk Fiala	PER	PER-Zbynek-Fiala
+16	20	Číně	Čína	LOC	GPE-China
+74	84	koronaviru	koronavirus	EVT	EVT-Covid-19
+104	109	Česko	Česko	LOC	GPE-Czech-Republic
+162	169	Novavax	Novavax	ORG	ORG-Novavax
+333	360	China National Biotec Group	China National Biotec Group	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+370	379	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+445	453	Covid-19	Covid-19	EVT	EVT-Covid-19
+536	551	Financial Times	Financial Times	PRO	PRO-Financial-Times

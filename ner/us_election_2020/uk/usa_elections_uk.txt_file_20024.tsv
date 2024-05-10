@@ -1,0 +1,30 @@
+34	40	Байден	Байден	PER	PER-Joe-Biden
+91	104	Берні Сандерс	Берні Сандерс	PER	PER-Bernie-Sanders
+138	145	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+215	235	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+321	327	Байден	Байден	PER	PER-Joe-Biden
+345	352	Міссурі	Міссурі	LOC	GPE-Missouri
+354	363	Міссісіпі	Міссісіпі	LOC	GPE-Mississippi
+365	372	Мічиган	Мічиган	LOC	GPE-Michigan
+375	381	Айдахо	Айдахо	LOC	GPE-Idaho
+383	396	Берні Сандерс	Берні Сандерс	PER	PER-Bernie-Sanders
+415	431	Північній Дакоті	Північна Дакота	LOC	GPE-North-Dakota
+436	445	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+501	504	США	США	LOC	GPE-USA
+505	518	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+547	554	Міссурі	Міссурі	LOC	GPE-Missouri
+556	565	Міссісіпі	Міссісіпі	LOC	GPE-Mississippi
+567	574	Мічиган	Мічиган	LOC	GPE-Michigan
+576	585	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+589	595	Айдахо	Айдахо	LOC	GPE-Idaho
+603	614	Білого дому	Білий дім	ORG	ORG-White-House
+635	642	Twitter	Twitter	PRO	PRO-Twitter
+758	768	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+791	794	США	США	LOC	GPE-USA
+795	810	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+837	844	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+851	862	Білого дому	Білий дім	ORG	ORG-White-House
+962	969	Байдена	Байден	PER	PER-Joe-Biden
+994	1000	Трампа	Трамп	PER	PER-Donald-Trump
+1050	1056	Трампа	Трамп	PER	PER-Donald-Trump
+1155	1165	Тім Маллой	Тім Маллой	PER	PER-Tim-Malloy

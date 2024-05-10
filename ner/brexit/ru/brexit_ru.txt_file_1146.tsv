@@ -1,0 +1,123 @@
+19	22	Мэй	Мэй	PER	PER-Theresa-May
+26	34	Британии	Британия	LOC	GPE-Great-Britain
+74	92	кабинет Терезы Мэй	кабинет Терезы Мэй	ORG	ORG-Cabinet-of-the-United-Kingdom
+167	173	Brexit	Brexit	EVT	EVT-Brexit
+174	185	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+295	308	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+310	313	Мэй	Мэй	PER	PER-Theresa-May
+481	486	iz.ru	iz.ru	PRO	PRO-IZ.RU
+516	522	Тереза	Тереза	PER	PER-Theresa-May
+548	564	британский народ	британский народ	PER	GPE-Great-Britain
+605	607	ЕС	ЕС	ORG	ORG-European-Union
+858	860	ЕС	ЕС	ORG	ORG-European-Union
+983	991	Британия	Британия	LOC	GPE-Great-Britain
+1061	1076	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1158	1161	МИД	МИД	ORG	ORG-Foreign-Office
+1199	1222	саммит глав Содружества	саммит глав Содружества	EVT	EVT-Summit-Commonwealth-of-Nations
+1320	1331	Содружества	Содружество	ORG	ORG-The-Commonwealth
+1510	1519	Скрипалей	Скрипали	PER	PER-Skripals
+1715	1718	Мэй	Мэй	PER	PER-Theresa-May
+1726	1733	Джонсон	Джонсон	PER	PER-Boris-Johnson
+2004	2028	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+2167	2170	Мэй	Мэй	PER	PER-Theresa-May
+2211	2235	нижней палаты парламента	нижняя палата парламента	ORG	ORG-House-of-Commons
+2415	2425	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+2583	2589	Brexit	Brexit	EVT	EVT-Brexit
+2611	2614	Мэй	Мэй	PER	PER-Theresa-May
+2708	2718	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+2776	2784	Британии	Британия	LOC	GPE-Great-Britain
+2788	2790	ЕС	ЕС	ORG	ORG-European-Union
+2800	2808	Джонсона	Джонсон	PER	PER-Boris-Johnson
+2832	2838	Дэвиса	Дэвис	PER	PER-David-Davis
+2953	2959	Brexit	Brexit	EVT	EVT-Brexit
+3013	3019	Европы	Европа	LOC	LOC-Europe
+3021	3028	Джонсон	Джонсон	PER	PER-Boris-Johnson
+3089	3092	Мэй	Мэй	PER	PER-Theresa-May
+3290	3298	Джонсона	Джонсон	PER	PER-Boris-Johnson
+3301	3307	Дэвиса	Дэвис	PER	PER-David-Davis
+3323	3328	Борис	Борис	PER	PER-Boris-Johnson
+3463	3469	Brexit	Brexit	EVT	EVT-Brexit
+3585	3588	МИД	МИД	ORG	ORG-Foreign-Office
+3651	3658	Джонсон	Джонсон	PER	PER-Boris-Johnson
+3726	3731	Дэвис	Дэвис	PER	PER-David-Davis
+3923	3934	Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+3936	3939	Мэй	Мэй	PER	PER-Theresa-May
+3981	3987	Дэвиса	Дэвис	PER	PER-David-Davis
+4038	4041	МИД	МИД	ORG	ORG-Foreign-Office
+4070	4078	Джонсона	Джонсон	PER	PER-Boris-Johnson
+4185	4191	Brexit	Brexit	EVT	EVT-Brexit
+4233	4244	Лайма Фокса	Лайм Фокс	PER	PER-Liam-Fox
+4247	4259	Майкла Гоува	Майкл Гоув	PER	PER-Michael-Gove
+4310	4314	Гоув	Гоув	PER	PER-Michael-Gove
+4369	4372	Мэй	Мэй	PER	PER-Theresa-May
+4422	4424	ЕС	ЕС	ORG	ORG-European-Union
+4487	4493	Тэтчер	Тэтчер	PER	PER-Margaret-Thatcher
+4548	4551	МИД	МИД	ORG	ORG-Foreign-Office
+4581	4593	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+4630	4648	кабинет Терезы Мэй	кабинет Терезы Мэй	ORG	ORG-Cabinet-of-the-United-Kingdom
+4709	4712	Мэй	Мэй	PER	PER-Theresa-May
+4755	4775	референдума о Brexit	референдум о Brexit	EVT	EVT-Brexit-Referendum
+4792	4805	Дэвид Кэмерон	Дэвид Кэмерон	PER	PER-David-Cameron
+4861	4876	Маргарет Тэтчер	Маргарет Тэтчер	PER	PER-Margaret-Thatcher
+4974	4995	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+5104	5107	Мэй	Мэй	PER	PER-Theresa-May
+5225	5231	Тереза	Тереза	PER	PER-Theresa-May
+5301	5329	июньскими выборами 2017 года	июньские выборы 2017 года	EVT	EVT-General-Elections-2017-UK
+5331	5334	Мэй	Мэй	PER	PER-Theresa-May
+5426	5438	консерваторы	консерваторы	PER	ORG-Conservative-and-Unionist-Party-UK
+5606	5616	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+5629	5632	Мэй	Мэй	PER	PER-Theresa-May
+5716	5742	консервативными депутатами	консервативные депутаты	PER	ORG-Conservative-and-Unionist-Party-UK
+5946	5967	консервативной партии	консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+6048	6054	Brexit	Brexit	EVT	EVT-Brexit
+6086	6089	Мэй	Мэй	PER	PER-Theresa-May
+6102	6107	Дэвис	Дэвис	PER	PER-David-Davis
+6204	6208	тори	тори	ORG	ORG-Conservative-and-Unionist-Party-UK
+6215	6221	Тереза	Тереза	PER	PER-Theresa-May
+6270	6278	Британию	Британия	LOC	GPE-Great-Britain
+6291	6293	ЕС	ЕС	ORG	ORG-European-Union
+6322	6328	Дэвиса	Дэвис	PER	PER-David-Davis
+6375	6377	ЕС	ЕС	ORG	ORG-European-Union
+6378	6392	Доминика Рааба	Доминик Рааб	PER	PER-Dominic-Raab
+6413	6418	Гоува	Гоув	PER	PER-Michael-Gove
+6502	6509	Гитлеру	Гитлер	PER	PER-Adolf-Hitler
+6512	6522	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+6587	6598	лейбористов	лейбористы	PER	ORG-Labour-Party-UK
+6623	6637	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+6681	6684	Мэй	Мэй	PER	PER-Theresa-May
+6712	6718	Терезы	Тереза	PER	PER-Theresa-May
+6776	6787	лейбористов	лейбористы	PER	ORG-Labour-Party-UK
+7046	7048	ЕС	ЕС	ORG	ORG-European-Union
+7081	7102	консервативной партии	консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+7223	7227	тори	тори	PER	ORG-Conservative-and-Unionist-Party-UK
+7228	7246	Джейкоба Рис-Могга	Джейкоб Рис-Могг	PER	PER-Jacob-Rees-Mogg
+7259	7274	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+7413	7426	Эндрю Бриджен	Эндрю Бриджен	PER	PER-Andrew-Bridgen
+7458	7478	Невиллом Чемберленом	Невилл Чемберлен	PER	PER-Nevill-Chamberlain
+7489	7501	Чехословакию	Чехословакия	LOC	GPE-Czechoslovakia
+7502	7509	Гитлеру	Гитлер	PER	PER-Adolf-Hitler
+7585	7593	Брюссель	Брюссель	LOC	GPE-Brussles
+7647	7659	Майкла Гоува	Майкл Гоув	PER	PER-Michael-Gove
+7667	7670	МВД	МВД	ORG	ORG-Ministry-of-Internal-Affairs-Russia
+7671	7686	Саджида Джавида	Саджид Джавид	PER	PER-Sajid-Javid
+7705	7722	Гэвина Уильямсона	Гэвин Уильямсон	PER	PER-Gavin-Williamson
+7730	7739	минздрава	минздрав	ORG	ORG-British-Ministry-of-Health
+7740	7753	Джереми Ханта	Джереми Хант	PER	PER-Jeremy-Hunt
+7775	7788	Андреа Лидсом	Андреа Лидс	PER	PER-Andrea-Leadsom
+7815	7818	Мэй	Мэй	PER	PER-Theresa-May
+7905	7915	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+8106	8113	Лондона	Лондон	LOC	GPE-London
+8116	8122	Москвы	Москва	LOC	GPE-Moscow
+8215	8218	Мэй	Мэй	PER	PER-Theresa-May
+8324	8333	Скрипалей	Скрипали	PER	PER-Skripals
+8350	8357	новичка	новичок	PRO	PRO-Novichok
+8480	8487	Россией	Россия	LOC	GPE-Russia
+8636	8639	Мэй	Мэй	PER	PER-Theresa-May
+8702	8711	Скрипалей	Скрипали	PER	PER-Skripals
+8923	8926	Мэй	Мэй	PER	PER-Theresa-May
+8964	8971	Джонсон	Джонсон	PER	PER-Boris-Johnson
+9043	9049	Джавид	Джавид	PER	PER-Sajid-Javid
+9052	9061	Уильямсон	Уильямсон	PER	PER-Gavin-Williamson
+9080	9086	Россию	Россия	LOC	GPE-Russia
+9119	9127	новичком	новичок	PRO	PRO-Novichok
+9131	9139	Эймсбери	Эймсбери	LOC	LOC-Amesbury

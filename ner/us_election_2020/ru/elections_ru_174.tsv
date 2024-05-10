@@ -1,0 +1,140 @@
+40	43	США	США	LOC	GPE-USA
+89	95	России	Россия	LOC	GPE-Russia
+150	153	США	США	LOC	GPE-USA
+165	171	Москвы	Москва	LOC	GPE-Moscow
+174	182	Тегерана	Тегеран	LOC	GPE-Tehran
+250	268	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+269	278	Чед Вульф	Чед Вульф	PER	PER-Chad-Wolf
+295	304	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+361	367	Россия	Россия	LOC	GPE-Russia
+370	374	Иран	Иран	LOC	GPE-Iran
+434	449	Нацразведка США	Нацразведка США	ORG	ORG-United States-National-Intelligence
+481	487	Москвы	Москва	LOC	GPE-Moscow
+490	498	Тегерана	Тегеран	LOC	GPE-Tehran
+527	539	американских	американский	LOC	GPE-USA
+632	638	Россия	Россия	LOC	GPE-Russia
+641	645	Иран	Иран	LOC	GPE-Iran
+703	713	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+851	854	США	США	LOC	GPE-USA
+913	918	Ирана	Иран	LOC	GPE-Iran
+921	927	России	Россия	LOC	GPE-Russia
+943	955	американской	американская	LOC	GPE-USA
+1035	1044	Чед Вульф	Чед Вульф	PER	PER-Chad-Wolf
+1067	1075	CBS News	CBS News	PRO	PRO-CBS-News
+1144	1149	Вульф	Вульф	PER	PER-Chad-Wolf
+1574	1589	Нацразведки США	Нацразведка США	ORG	ORG-United States-National-Intelligence
+1590	1603	Джон Рэтклифф	Джон Рэтклифф	PER	PER-John-Ratcliffe
+1648	1660	американских	американский	LOC	GPE-USA
+1693	1699	России	Россия	LOC	GPE-Russia
+1907	1912	Вульф	Вульф	PER	PER-Chad-Wolf
+1943	1958	Нацразведки США	Нацразведка США	ORG	ORG-United States-National-Intelligence
+1959	1972	Джон Рэтклифф	Джон Рэтклифф	PER	PER-John-Ratcliffe
+1981	1987	Россию	Россия	LOC	GPE-Russia
+1990	1994	Иран	Иран	LOC	GPE-Iran
+2040	2058	Соединённых Штатах	Соединенные Штаты	LOC	GPE-USA
+2081	2093	американских	американский	LOC	GPE-USA
+2218	2235	выборов 2020 года	выборы президента США 2020	EVT	EVT-2020-United-States-Presidential-Election
+2255	2264	Рэтклиффа	Рэтклифф	PER	PER-John-Ratcliffe
+2557	2568	Нацразведки	Нацразведка	ORG	ORG-National-Reconnaissance-Office
+2597	2606	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2794	2800	России	Россия	LOC	GPE-Russia
+2803	2808	Ирана	Иран	LOC	GPE-Iran
+2837	2839	РФ	РФ	LOC	GPE-Russia
+2840	2854	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+2910	2916	Москвы	Москва	LOC	GPE-Moscow
+3044	3055	Белого дома	Белый дом	ORG	ORG-The-White-House
+3093	3098	Ирана	Иран	LOC	GPE-Iran
+3101	3104	ООН	ООН	ORG	ORG-United-Nations
+3105	3121	Алиреза Мирюсефи	Алиреза Мирюсефи	PER	PER-Alireza-Miriusefi
+3140	3148	ABC News	ABC News	PRO	PRO-ABC-News
+3154	3158	Иран	Иран	LOC	GPE-Iran
+3174	3177	США	США	LOC	GPE-USA
+3295	3298	США	США	LOC	GPE-USA
+3402	3411	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3457	3463	Москвы	Москва	LOC	GPE-Moscow
+3567	3570	США	США	LOC	GPE-USA
+3571	3582	Майк Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+3606	3608	РФ	РФ	LOC	GPE-Russia
+3611	3616	Китай	Китай	LOC	GPE-China
+3678	3696	Соединённых Штатах	Соединенные Штаты	LOC	GPE-USA
+3930	3933	ФБР	ФБР	ORG	ORG-FBI
+3936	4002	Агентство кибербезопасности и инфраструктурной безопасности (CISA)	Агентство кибербезопасности и инфраструктурной безопасности (CISA)	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+4098	4101	США	США	LOC	GPE-USA
+4105	4115	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4116	4126	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4149	4152	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+4163	4169	Москве	Москва	LOC	GPE-Moscow
+4304	4307	ФБР	ФБР	ORG	ORG-FBI
+4310	4376	Агентство кибербезопасности и инфраструктурной безопасности (CISA)	Агентство кибербезопасности и инфраструктурной безопасности (CISA)	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+4486	4489	США	США	LOC	GPE-USA
+4728	4730	РФ	РФ	LOC	GPE-Russia
+4967	5007	Министерства внутренней безопасности США	Министерство внутренней безопасности США	ORG	ORG-US-Department-of-Homeland-Security
+5027	5032	Axios	Axios	PRO	PRO-Axios
+5087	5093	Москва	Москва	LOC	GPE-Moscow
+5139	5157	Соединённых Штатах	Соединенные Штаты	LOC	GPE-USA
+5236	5239	США	США	LOC	GPE-USA
+5249	5264	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+5281	5287	Москва	Москва	LOC	GPE-Moscow
+5321	5336	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+5388	5406	Соединённых Штатов	Соединенные Штаты	LOC	GPE-USA
+5426	5441	Роберт О'Брайен	Роберт О'Брайен	PER	PER-Robert-O'Brien
+5464	5467	СBS	СBS	PRO	ORG-CBS
+5476	5482	России	Россия	LOC	GPE-Russia
+5533	5562	американские выборы 2020 года	Американские выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+5575	5628	Национального центра контрразведки и безопасности США	Национальный центр контрразведки и безопасности США	ORG	ORG-National-Security-Agency-NSA-USA
+5629	5643	Уильям Эванина	Уильям Эванина	PER	PER-William-Evanina
+5652	5658	Россию	Россия	LOC	GPE-Russia
+5680	5687	Байдена	Байден	PER	PER-Joe-Biden
+5710	5750	палаты представителей Соединённых Штатов	палата представителей Соединённых Штатов	ORG	ORG-United-States-House-of-Representatives
+5751	5763	Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+5772	5792	комитета по разведке	комитет по разведке	ORG	ORG-House-of-Representatives(USA)
+5793	5802	Адам Шифф	Адам Шифф	PER	PER-Adam-Schiff
+5958	5964	Кремль	Кремль	ORG	ORG-Kremlin
+6068	6081	американского	американский	LOC	GPE-USA
+6124	6168	Центра исследования проблем безопасности РАН	Центр исследования проблем безопасности РАН	ORG	ORG-Centre-for-Security-Studies-Russian-Academy-of-Sciences
+6169	6188	Константина Блохина	Константин Блохин	PER	PER-Konstantin-Blohin
+6190	6207	Соединённые Штаты	Соединённые Штаты	LOC	GPE-USA
+6253	6255	РФ	РФ	LOC	GPE-Russia
+6467	6473	России	Россия	LOC	GPE-Russia
+6484	6489	Трамп	Трамп	PER	PER-Donald-Trump
+6639	6641	RT	RT	PRO	PRO-RT-Russia-Today
+6670	6679	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+6680	6690	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+6722	6737	Нацразведки США	Нацразведка США	ORG	ORG-United States-National-Intelligence
+6785	6791	Блохин	Константин Блохин	PER	PER-Konstantin-Blohin
+6855	6858	США	США	LOC	GPE-USA
+7055	7095	Министерства внутренней безопасности США	Министерство внутренней безопасности США	ORG	ORG-US-Department-of-Homeland-Security
+7105	7111	Москву	Москва	LOC	GPE-Moscow
+7175	7178	ФБР	ФБР	ORG	ORG-FBI
+7181	7240	Агентство кибербезопасности и инфраструктурной безопасности	Агентство кибербезопасности и инфраструктурной безопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+7467	7470	МГУ	МГУ	ORG	ORG-Moscow-State-University
+7471	7485	Андрей Сидоров	Андрей Сидоров	PER	PER-Andrey-Sidorov
+7502	7508	России	Россия	LOC	GPE-Russia
+7511	7516	Ирана	Иран	LOC	GPE-Iran
+7670	7682	выборы в США	выборы президента США 2020	EVT	EVT-2020-United-States-Presidential-Election
+7991	7996	Трамп	Трамп	PER	PER-Donald-Trump
+7999	8006	Америка	Америка	LOC	GPE-USA
+8051	8053	RT	RT	PRO	PRO-RT-Russia-Today
+8108	8111	США	США	LOC	GPE-USA
+8219	8226	Сидоров	Андрей Сидоров	PER	PER-Andrey-Sidorov
+8359	8363	Иран	Иран	LOC	GPE-Iran
+8366	8372	Россия	Россия	LOC	GPE-Russia
+8399	8411	американцами	американцы	LOC	GPE-USA
+8559	8566	Сидоров	Андрей Сидоров	PER	PER-Andrey-Sidorov
+8687	8693	Трампа	Трамп	PER	PER-Donald-Trump
+8698	8705	Байдена	Байден	PER	PER-Joe-Biden
+8738	8745	Россией	Россия	LOC	GPE-Russia
+8808	8811	США	США	LOC	GPE-USA
+8824	8856	Агентстве по кибербезопасности и	Агентство кибербезопасности и инфраструктурной безопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+8871	8878	Сидоров	Андрей Сидоров	PER	PER-Andrey-Sidorov
+8961	8967	России	Россия	LOC	GPE-Russia
+9078	9081	США	США	LOC	GPE-USA
+9422	9425	США	США	LOC	GPE-USA
+9520	9537	Константин Блохин	Константин Блохин	PER	PER-Konstantin-Blohin
+9635	9638	США	США	LOC	GPE-USA
+9746	9758	Американские	американские	LOC	GPE-USA
+9813	9823	российской	российский	LOC	GPE-Russia
+10055	10069	Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+10141	10154	Симоньян М. С	Симоньян М. С.	PER	PER-Margarita-Simonyan
+10180	10186	Москва	Москва	LOC	GPE-Moscow
+10188	10201	Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street

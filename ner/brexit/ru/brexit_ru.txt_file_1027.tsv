@@ -1,0 +1,34 @@
+16	30	Великобритании	Великобритания	LOC	GPE-Great-Britain
+61	69	Брекзиту	Брекзит	EVT	EVT-Brexit
+88	102	Великобритании	Великобритания	LOC	GPE-Great-Britain
+103	113	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+144	152	Брекзиту	Брекзит	EVT	EVT-Brexit
+165	178	Доминика Раба	Доминик Раб	PER	PER-Dominic-Raab
+264	292	правительство Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government
+376	387	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+428	433	Дэвис	Дэвис	PER	PER-David-Davis
+459	462	Мэй	Мэй	PER	PER-Theresa-May
+503	509	Дэвиса	Дэвис	PER	PER-David-Davis
+582	589	Лондона	Лондон	LOC	GPE-London
+607	609	ЕС	ЕС	ORG	ORG-European-Union
+614	622	Брекзиту	Брекзит	EVT	EVT-Brexit
+659	665	Дэвиса	Дэвис	PER	PER-David-Davis
+680	694	Европарламента	Европарламент	ORG	ORG-European-Parliament
+714	722	Брекзиту	Брекзит	EVT	EVT-Brexit
+724	738	Ги Верхофстадт	Ги Верхофстадт	PER	PER-Guy-Verhofstadt
+804	811	Бельгии	Бельгия	LOC	GPE-Belgium
+889	898	Евросоюза	Евросоюз	ORG	ORG-European-Union
+925	933	Британцы	Британцы	PER	GPE-Great-Britain
+973	975	ЕС	ЕС	ORG	ORG-European-Union
+979	990	референдуме	референдум	EVT	EVT-Brexit-Referendum
+1142	1162	повторный референдум	повторный референдум	EVT	EVT-Brexit-Repeated-Referendum
+1266	1280	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1310	1319	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1357	1365	Лондоном	Лондон	LOC	GPE-London
+1368	1377	Брюсселем	Брюссель	LOC	GPE-Brussles
+1457	1471	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1474	1476	ЕС	ЕС	ORG	ORG-European-Union
+1639	1648	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1699	1706	суда ЕС	суд ЕС	ORG	ORG-European-Court-of-Justice
+1720	1726	Лондон	Лондон	LOC	GPE-London
+1773	1790	таможенного союза	таможенный союз	ORG	ORG-European-Union-Customs-Union

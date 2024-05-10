@@ -1,0 +1,35 @@
+0	13	С. Сквярнялис	С. Сквярнялис	PER	PER-Saulius-Skvernelis
+23	25	ЕК	ЕК	ORG	ORG-European-Commission
+41	48	Газпром	Газпром	ORG	ORG-Gazprom
+98	115	Саулюс Сквярнялис	Саулюс Сквярнялис	PER	PER-Saulius-Skvernelis
+137	149	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+196	203	Газпром	Газпром	ORG	ORG-Gazprom
+227	238	Центральной	Центральная	LOC	LOC-Central-Europe
+241	257	Восточной Европе	Восточная Европа	LOC	LOC-Eastern-Europe
+571	584	С. Сквярнялис	С. Сквярнялис	PER	PER-Saulius-Skvernelis
+616	618	ЕК	ЕК	ORG	ORG-European-Commission
+721	730	Газпромом	Газпром	ORG	ORG-Gazprom
+753	760	Reuters	Reuters	ORG	ORG-Reuters
+811	819	Брюссель	Брюссель	LOC	GPE-Brussles
+853	862	Газпромом	Газпром	ORG	ORG-Gazprom
+1052	1069	Маргрете Вестагер	Маргрете Вестагер	PER	PER-Margrethe-Vestager
+1176	1178	ЕК	ЕК	ORG	ORG-European-Commission
+1251	1262	М. Вестагер	М. Вестагер	PER	PER-Margrethe-Vestager
+1507	1520	С. Сквярнялис	С. Сквярнялис	PER	PER-Saulius-Skvernelis
+1534	1548	Андрюс Кубилюс	Андрюс Кубилюс	PER	PER-Andrius-Kubilius
+1580	1585	Литва	Литва	LOC	GPE-Lithuania
+1607	1616	Газпромом	Газпром	ORG	ORG-Gazprom
+1717	1722	Литвы	Литва	LOC	GPE-Lithuania
+1818	1826	Газпрома	Газпром	ORG	ORG-Gazprom
+1919	1925	Google	Google	ORG	ORG-Google
+1930	1935	Apple	Apple	ORG	ORG-Apple
+2004	2014	А. Кубилюс	А. Кубилюс	PER	PER-Andrius-Kubilius
+2180	2198	Северный поток — 2	Северный поток — 2	PRO	PRO-Nord-Stream-2
+2204	2217	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2296	2303	Газпром	Газпром	ORG	ORG-Gazprom
+2373	2380	Газпром	Газпром	ORG	ORG-Gazprom
+2430	2432	ЕК	ЕК	ORG	ORG-European-Commission
+2447	2452	Литвы	Литва	LOC	GPE-Lithuania
+2508	2516	Газпрома	Газпром	ORG	ORG-Gazprom
+2567	2569	ЕК	ЕК	ORG	ORG-European-Commission
+2700	2708	Газпрому	Газпром	ORG	ORG-Gazprom

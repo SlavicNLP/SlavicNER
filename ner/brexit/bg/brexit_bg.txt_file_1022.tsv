@@ -1,0 +1,34 @@
+6	19	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+45	52	Брекзит	Брекзит	EVT	EVT-Brexit
+117	130	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+162	169	Брекзит	Брекзит	EVT	EVT-Brexit
+227	229	ЕС	ЕС	ORG	ORG-European-Union
+299	309	Франс прес	Франс прес	ORG	ORG-France-Presse
+366	373	Брекзит	Брекзит	EVT	EVT-Brexit
+540	546	Лондон	Лондон	LOC	GPE-London
+610	617	Джонсън	Джонсън	PER	PER-Boris-Johnson
+768	775	Брекзит	Брекзит	EVT	EVT-Brexit
+809	816	Джонсън	Джонсън	PER	PER-Boris-Johnson
+881	888	Брекзит	Брекзит	EVT	EVT-Brexit
+1036	1039	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+1125	1135	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1176	1182	Лондон	Лондон	LOC	GPE-London
+1207	1209	ЕС	ЕС	ORG	ORG-European-Union
+1419	1426	Брекзит	Брекзит	EVT	EVT-Brexit
+1436	1443	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1553	1567	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1848	1855	Брекзит	Брекзит	EVT	EVT-Brexit
+1921	1941	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+1996	2064	Бялата книга за правителствените планове за имиграцията след Брекзит	Бяла книга за правителствените планове за имиграцията след Брекзит	PRO	PRO-White-book-immigration-after-Brexit
+2082	2092	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2156	2163	Брекзит	Брекзит	EVT	EVT-Brexit
+2424	2427	Мей	Мей	PER	PER-Theresa-May
+2457	2459	ЕС	ЕС	ORG	ORG-European-Union
+2472	2486	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2492	2499	Брекзит	Брекзит	EVT	EVT-Brexit
+2575	2577	ЕС	ЕС	ORG	ORG-European-Union
+2658	2660	ЕС	ЕС	ORG	ORG-European-Union
+2705	2707	ЕС	ЕС	ORG	ORG-European-Union
+2819	2821	ЕС	ЕС	ORG	ORG-European-Union
+3202	3204	ЕС	ЕС	ORG	ORG-European-Union
+3283	3285	ЕС	ЕС	ORG	ORG-European-Union

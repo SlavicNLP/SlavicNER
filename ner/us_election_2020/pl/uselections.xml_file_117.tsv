@@ -1,0 +1,25 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+14	19	Trump	Trump	PER	PER-Donald-Trump
+116	137	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+197	207	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+208	217	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+357	362	Trump	Trump	PER	PER-Donald-Trump
+373	382	Florydzie	Floryda	LOC	GPE-Florida
+441	450	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+453	461	Michigan	Michigan	LOC	GPE-Michigan
+504	513	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+661	666	Trump	Trump	PER	PER-Donald-Trump
+674	681	Florydy	Floryda	LOC	GPE-Florida
+701	705	Ohio	Ohio	LOC	GPE-Ohio
+781	786	Biden	Biden	PER	PER-Joe-Biden
+820	829	Minnesotę	Minnesota	LOC	GPE-Minnesota
+857	865	Arizonie	Arizona	LOC	GPE-Arizona
+880	884	Onet	Onet	PRO	PRO-Onet-Wiadomosci
+1024	1033	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+1252	1257	Trump	Trump	PER	PER-Donald-Trump
+1415	1427	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1537	1549	Joego Bidena	Joe Biden	PER	PER-Joe-Biden
+1552	1560	Michigan	Michigan	LOC	GPE-Michigan
+1634	1652	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+1685	1694	Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+1759	1770	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania

@@ -1,0 +1,23 @@
+0	5	Babiš	Babiš	PER	PER-Andrej-Babis
+9	26	českém parlamentu	český parlament	ORG	ORG-Czech-parliament
+61	63	EU	EU	ORG	ORG-European-Union
+125	132	Bruselu	Brusel	LOC	GPE-Brussles
+156	171	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+172	196	Jeanem-Claudem Junckerem	Jean-Claude-Juncker	PER	PER-Jean-Claude-Juncker
+210	217	brexitu	brexit	EVT	EVT-Brexit
+283	291	Británie	Británie	LOC	GPE-Great-Britain
+294	296	EU	EU	ORG	ORG-European-Union
+297	315	Michelem Barnierem	Michel Barnier	PER	PER-Michel-Barnier
+362	382	Fransem Timmermansem	Frans Timmermans	PER	PER-Frans-Timmermans
+402	417	České republiky	Česká republika	LOC	GPE-Czech-Republic
+420	433	Evropské unii	Evropská unie	ORG	ORG-European-Union
+475	483	Politico	Politico	PRO	PRO-Politico
+525	527	EU	EU	ORG	ORG-European-Union
+589	595	Babiše	Babiš	PER	PER-Andrej-Babis
+661	668	Bruselu	Brusel	LOC	GPE-Brussles
+677	682	Babiš	Babiš	PER	PER-Andrej-Babis
+792	794	EU	EU	ORG	ORG-European-Union
+797	812	České republice	Česká republika	LOC	GPE-Czech-Republic
+815	823	Politico	Politico	PRO	PRO-Politico
+857	862	Česko	Česko	LOC	GPE-Czech-Republic
+906	912	Evropě	Evropa	LOC	LOC-Europe

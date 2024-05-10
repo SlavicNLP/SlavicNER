@@ -1,0 +1,28 @@
+0	6	Польша	Польша	LOC	GPE-Poland
+8	26	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+35	42	Украину	Украина	LOC	GPE-Ukraine
+46	52	Берлин	Берлин	LOC	GPE-Berlin
+103	121	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+144	151	Украины	Украина	LOC	GPE-Ukraine
+191	199	Германии	Германия	LOC	GPE-Germany
+222	257	Министерства иностранных дел Польши	Министерство иностранных дел Польши	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+258	272	Яцек Чапутович	Яцек Чапутович	PER	PER-Jacek-Czaputowicz
+330	348	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+357	364	Украину	Украина	LOC	GPE-Ukraine
+411	418	Украины	Украина	LOC	GPE-Ukraine
+575	581	Польша	Польша	LOC	GPE-Poland
+583	586	США	США	LOC	GPE-USA
+589	609	Европейская комиссия	Европейская комиссия	ORG	ORG-European-Commission
+653	661	Германия	Германия	LOC	GPE-Germany
+681	689	Германия	Германия	LOC	GPE-Germany
+767	785	"""Северным потоком"""	"""Северный поток"""	PRO	PRO-Nord-Stream-1
+809	818	Чапутович	Чапутович	PER	PER-Jacek-Czaputowicz
+879	885	Польши	Польша	LOC	GPE-Poland
+888	896	Германии	Германия	LOC	GPE-Germany
+916	923	Россией	Россия	LOC	GPE-Russia
+926	934	Украиной	Украина	LOC	GPE-Ukraine
+1010	1012	ЕС	ЕС	ORG	ORG-European-Union
+1070	1076	России	Россия	LOC	GPE-Russia
+1135	1144	Чапутович	Чапутович	PER	PER-Jacek-Czaputowicz
+1190	1193	ООН	ООН	ORG	ORG-United-Nations
+1197	1204	Украине	Украина	LOC	GPE-Ukraine

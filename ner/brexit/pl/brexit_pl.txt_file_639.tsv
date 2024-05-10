@@ -1,0 +1,33 @@
+104	127	Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+238	255	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+330	337	Londynu	Londyn	LOC	GPE-London
+340	348	Brukselą	Bruksela	LOC	GPE-Brussles
+431	438	Wyspami	Wyspy	LOC	GPE-Great-Britain
+487	505	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+595	602	brexitu	Brexit	EVT	EVT-Brexit
+668	683	kanał La Manche	Kanał La Manche	LOC	LOC-English-Channel
+811	828	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1222	1228	Polski	Polska	LOC	GPE-Poland
+1232	1234	UE	UE	ORG	ORG-European-Union
+1352	1367	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1594	1613	Michał Wielowieyski	Michał Wielowieyski	PER	PER-Michał-Wielowieyski
+1635	1637	EY	EY	ORG	ORG-EY
+2110	2131	Ministerstwo Finansów	Ministerstwo Finansów	ORG	ORG-Ministry-of-Finance-UK
+2175	2182	brexitu	Brexit	EVT	EVT-Brexit
+2252	2269	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2357	2360	KAS	KAS	ORG	ORG-KAS-Krajowa-Administracja-Skarbowa
+2372	2383	Paweł Jurek	Paweł Jurek	PER	PER-Paweł-Kukiz
+2402	2404	MF	MF	ORG	ORG-Ministry-of-Finance-Poland
+2472	2480	Londynie	Londyn	LOC	GPE-London
+2532	2547	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2596	2602	Polski	Polska	LOC	GPE-Poland
+2643	2648	Wyspy	Wyspy	LOC	GPE-Great-Britain
+2750	2757	Niemiec	Niemcy	LOC	GPE-Germany
+2759	2780	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+2856	2862	Polska	Polska	LOC	GPE-Poland
+2992	3009	Wielkiej Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3040	3046	Polski	Polska	LOC	GPE-Poland
+3079	3094	Marcin Majewski	Marcin Majewski	PER	PER-Marcin-Majewski
+3120	3123	PwC	PwC	ORG	ORG-PwC
+3151	3158	brexitu	Brexit	EVT	EVT-Brexit
+3264	3271	Europie	Europa	LOC	LOC-Europe

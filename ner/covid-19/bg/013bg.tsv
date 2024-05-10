@@ -1,0 +1,33 @@
+49	56	Пловдив	Пловдив	LOC	GPE-Plovdiv
+85	93	Ковид-19	Ковид-19	EVT	EVT-Covid-19
+122	129	Пловдив	Пловдив	LOC	GPE-Plovdiv
+152	155	РЗИ	РЗИ	ORG	ORG-Regional-Health-Inspectorate-Bulgaria
+261	275	Медицински щаб	Медицински щаб	ORG	ORG-Medical-quarters
+397	408	коронавирус	коронавирус	EVT	EVT-Covid-19
+453	456	РЗИ	РЗИ	ORG	ORG-Regional-Health-Inspectorate-Bulgaria
+461	473	Ваня Танчева	Ваня Танчева	PER	PER-Vanya-Tancheva
+486	502	Мариана Мурджева	Мариана Мурджева	PER	PER-Mariana-Murdjeva
+522	537	Дани Каназирева	Дани Каназирева	PER	PER-Dani-Kanazireva
+548	563	Медицинския щаб	Медицински щаб	ORG	ORG-Medical-quarters
+578	586	Мурджева	Мурджева	PER	PER-Mariana-Murdjeva
+813	828	Медицинския щаб	Медицински щаб	ORG	ORG-Medical-quarters
+889	896	Танчева	Танчева	PER	PER-Vanya-Tancheva
+918	925	Пловдив	Пловдив	LOC	GPE-Plovdiv
+1159	1166	Танчева	Танчева	PER	PER-Vanya-Tancheva
+1298	1318	Плана за ваксиниране	План за ваксиниране	PRO	PRO-Vaccination-plan
+1505	1513	Мурджева	Мурджева	PER	PER-Mariana-Murdjeva
+1601	1608	Пфайзер	Пфайзер	ORG	ORG-Pfizer
+1613	1620	Бионтех	Бионтех	ORG	ORG-BioNTech
+1955	1963	Мурджева	Мурджева	PER	PER-Mariana-Murdjeva
+2606	2614	Мурджева	Мурджева	PER	PER-Mariana-Murdjeva
+2692	2707	Медицинския щаб	Медицински щаб	ORG	ORG-Medical-quarters
+2748	2760	ВМА- Пловдив	ВМА - Пловдив	LOC	LOC-VMA-hospital-Plovdiv
+2767	2781	Ангел Гозманов	Ангел Гозманов	PER	PER-Angel-Gozmanov
+2993	2995	МЩ	МЩ	ORG	ORG-Medical-quarters
+3170	3182	Свети Георги	Свети Георги	LOC	LOC-St.Georgi-hospital
+3187	3194	Каспела	Каспела	LOC	LOC-Kaspela-hospital
+3204	3219	Карен Джамбазов	Карен Джамбазов	PER	PER-Karen-Djambazov
+3228	3240	Илиан Дойков	Илиан Дойков	PER	PER-Ilian-Doykov
+3401	3413	Иван Стойнов	Иван Стойнов	PER	PER-Ivan-Stoynov
+3505	3517	Спешна помощ	Спешна помощ	ORG	ORG-Emergency
+3703	3715	Спешна помощ	Спешна помощ	ORG	ORG-Emergency

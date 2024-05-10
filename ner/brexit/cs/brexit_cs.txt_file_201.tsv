@@ -1,0 +1,30 @@
+6	14	Británie	Británie	LOC	GPE-Great-Britain
+35	37	EU	EU	ORG	ORG-European-Union
+51	55	Tusk	Tusk	PER	PER-Donald-Tusk
+118	131	Evropské rady	Evropská rada	ORG	ORG-European-Council
+132	145	Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+155	161	Britům	Britové	PER	GPE-Great-Britain
+189	191	EU	EU	ORG	ORG-European-Union
+193	199	Brexit	Brexit	EVT	EVT-Brexit
+234	242	Británie	Británie	LOC	GPE-Great-Britain
+300	314	Soudní dvůr EU	Soudní dvůr EU	ORG	ORG-European-Court-of-Justice
+328	341	Evropské rady	Evropská rada	ORG	ORG-European-Council
+342	353	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+361	381	Evropském parlamentu	Evropský parlament	ORG	ORG-European-Parliament
+394	402	Británie	Británie	LOC	GPE-Great-Britain
+422	435	Evropské unii	Evropská unie	ORG	ORG-European-Union
+469	475	brexit	brexit	EVT	EVT-Brexit
+529	543	Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+585	593	Británie	Británie	LOC	GPE-Great-Britain
+596	598	EU	EU	ORG	ORG-European-Union
+699	705	brexit	brexit	EVT	EVT-Brexit
+834	838	Tusk	Tusk	PER	PER-Donald-Tusk
+881	887	brexit	brexit	EVT	EVT-Brexit
+888	901	Davida Davise	David Davis	PER	PER-David-Davis
+1057	1061	Tusk	Tusk	PER	PER-Donald-Tusk
+1110	1112	EU	EU	ORG	ORG-European-Union
+1160	1167	Londýně	Londýn	LOC	GPE-London
+1192	1207	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+1208	1227	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+1249	1254	Brity	Britové	PER	GPE-Great-Britain
+1274	1282	Evropany	Evropané	PER	LOC-Europe

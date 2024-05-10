@@ -1,0 +1,60 @@
+0	5	Pahor	Pahor	PER	PER-Borut-Pahor
+26	34	Janševih	Janša	PER	PER-Janez-Janša
+43	54	Janez Janša	Janez Janša	PER	PER-Janez-Janša
+58	69	Borut Pahor	Borut Pahor	PER	PER-Borut-Pahor
+78	93	Bojan Velikonja	Bojan Velikonja	PER	PER-Bojan-Velikonja
+108	127	Republike Slovenije	Republika Slovenija	LOC	GPE-Slovenia
+128	139	Borut Pahor	Borut Pahor	PER	PER-Borut-Pahor
+163	166	ZDA	ZDA	LOC	GPE-USA
+241	246	Pahor	Pahor	PER	PER-Borut-Pahor
+328	331	STA	STA	ORG	ORG-Slovenian-Press-Agency
+502	514	Janeza Janše	Janez Janša	PER	PER-Janez-Janša
+518	528	Pahorjevem	Pahor	PER	PER-Borut-Pahor
+625	634	Slovenijo	Slovenija	LOC	GPE-Slovenia
+638	641	ZDA	ZDA	LOC	GPE-USA
+703	706	ZDA	ZDA	LOC	GPE-USA
+709	712	MZZ	MZZ	ORG	ORG-Ministry-of-foreign-affairs-Slovenia
+838	850	Janeza Janše	Janez Janša	PER	PER-Janez-Janša
+878	885	Janševo	Janša	PER	PER-Janez-Janša
+1053	1056	MZZ	MZZ	ORG	ORG-Ministry-of-foreign-affairs-Slovenia
+1057	1075	Aleksander Geržina	Aleksander Geržina	PER	PER-Aleksander-Geržina
+1096	1099	STA	STA	ORG	ORG-Slovenian-Press-Agency
+1118	1121	MZZ	MZZ	ORG	ORG-Ministry-of-foreign-affairs-Slovenia
+1175	1178	ZDA	ZDA	LOC	GPE-USA
+1203	1212	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1287	1293	Evropo	Evropa	LOC	LOC-Europe
+1305	1308	ZDA	ZDA	LOC	GPE-USA
+1324	1333	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1382	1385	ZDA	ZDA	LOC	GPE-USA
+1439	1444	Janša	Janša	PER	PER-Janez-Janša
+1549	1558	Američani	Američani	PER	GPE-USA
+1597	1603	Trumpa	Trump	PER	PER-Donald-Trump
+1723	1736	republikancem	republikanci	ORG	ORG-Republican-Party-USA
+1784	1787	ZDA	ZDA	LOC	GPE-USA
+1790	1795	Janša	Janša	PER	PER-Janez-Janša
+1839	1844	Trump	Trump	PER	PER-Donald-Trump
+2101	2106	Janša	Janša	PER	PER-Janez-Janša
+2156	2163	Twitter	Twitter	PRO	PRO-Twitter
+2246	2254	Bidnovim	Biden	PER	PER-Joe-Biden
+2279	2284	Janša	Janša	PER	PER-Janez-Janša
+2325	2331	Trumpa	Trump	PER	PER-Donald-Trump
+2414	2427	Josepha Bidna	Joseph Biden	PER	PER-Joe-Biden
+2490	2496	Trumpa	Trump	PER	PER-Donald-Trump
+2559	2562	MZZ	MZZ	ORG	ORG-Ministry-of-foreign-affairs-Slovenia
+2634	2643	Slovenije	Slovenija	LOC	GPE-Slovenia
+2658	2667	Slovenija	Slovenija	LOC	GPE-Slovenia
+2682	2685	ZDA	ZDA	LOC	GPE-USA
+2720	2725	Bidna	Biden	PER	PER-Joe-Biden
+2738	2747	Slovenija	Slovenija	LOC	GPE-Slovenia
+2767	2770	ZDA	ZDA	LOC	GPE-USA
+2809	2812	MZZ	MZZ	ORG	ORG-Ministry-of-foreign-affairs-Slovenia
+2848	2851	STA	STA	ORG	ORG-Slovenian-Press-Agency
+2919	2922	ZDA	ZDA	LOC	GPE-USA
+3055	3058	ZDA	ZDA	LOC	GPE-USA
+3080	3086	Trumpa	Trump	PER	PER-Donald-Trump
+3104	3111	Melanie	Melania	PER	PER-Melania-Trump
+3114	3123	Sloveniji	Slovenija	LOC	GPE-Slovenia
+3298	3303	Janše	Janša	PER	PER-Janez-Janša
+3312	3318	Trumpa	Trump	PER	PER-Donald-Trump
+3477	3480	ZDA	ZDA	LOC	GPE-USA
+3567	3576	Sloveniji	Slovenija	LOC	GPE-Slovenia

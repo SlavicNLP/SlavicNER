@@ -1,0 +1,21 @@
+52	59	Брекзит	Брекзит	EVT	EVT-Brexit
+101	111	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+204	212	Брекзита	Брекзит	EVT	EVT-Brexit
+275	285	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+378	386	Брекзита	Брекзит	EVT	EVT-Brexit
+554	561	Ройтерс	Ройтерс	ORG	ORG-Reuters
+737	740	Мей	Мей	PER	PER-Theresa-May
+760	765	Китай	Китай	LOC	GPE-China
+798	801	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+815	818	Мей	Мей	PER	PER-Theresa-May
+821	826	Китай	Китай	LOC	GPE-China
+885	889	Ухан	Ухан	LOC	GPE-Wuhan
+963	966	ДПА	ДПА	ORG	ORG-DPA
+983	998	Прес асосиейшън	Прес асосиейшън	ORG	ORG-Press-Association
+999	1002	Мей	Мей	PER	PER-Theresa-May
+1211	1221	Си Цзинпин	Си Цзинпин	PER	PER-Xi-Jinping
+1245	1259	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1275	1279	Ухан	Ухан	LOC	GPE-Wuhan
+1335	1338	Мей	Мей	PER	PER-Theresa-May
+1491	1496	Китай	Китай	LOC	GPE-China
+1609	1623	Великобритания	Великобритания	LOC	GPE-Great-Britain

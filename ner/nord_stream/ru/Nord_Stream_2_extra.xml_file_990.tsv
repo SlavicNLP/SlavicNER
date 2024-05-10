@@ -1,0 +1,29 @@
+0	7	Франция	Франция	LOC	GPE-France
+31	53	«Северного потока — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+78	83	Париж	Париж	LOC	GPE-Paris
+121	123	ЕС	ЕС	ORG	ORG-European-Union
+201	221	«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+271	289	европейского союза	европейский союз	ORG	ORG-European-Union
+310	327	3-го энергопакета	3-й энергопакет	PRO	Pro-Third-Energy-Package
+365	384	Süddeutsche Zeitung	Süddeutsche Zeitung	PRO	PRO-SUddeutsche-Zeitung
+572	574	РФ	РФ	LOC	GPE-Russia
+626	628	ЕС	ЕС	ORG	ORG-European-Union
+634	640	Польша	Польша	LOC	GPE-Poland
+643	651	Словакия	Словакия	LOC	GPE-Slovakia
+788	797	Брюсселем	Брюссель	LOC	GPE-Brussles
+800	807	Москвой	Москва	LOC	GPE-Moscow
+853	859	Париже	Париж	LOC	GPE-Paris
+866	874	Брюсселе	Брюссель	LOC	GPE-Brussles
+914	921	Франции	Франция	LOC	GPE-France
+962	971	«Газпром»	«Газпром»	ORG	ORG-Gazprom
+1011	1031	«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+1100	1108	Германия	Германия	LOC	GPE-Germany
+1110	1117	Франция	Франция	LOC	GPE-France
+1119	1126	Австрия	Австрия	LOC	GPE-Austria
+1128	1138	Нидерланды	Нидерланды	LOC	GPE-Holland
+1140	1147	Бельгия	Бельгия	LOC	GPE-Belgium
+1149	1155	Греция	Греция	LOC	GPE-Greece
+1158	1162	Кипр	Кипр	LOC	GPE-Cyprus
+1229	1235	Парижа	Париж	LOC	GPE-Paris
+1370	1379	Совете ЕС	Совет ЕС	ORG	ORG-European-Council
+1380	1387	Румыния	Румыния	LOC	GPE-Romania

@@ -1,0 +1,16 @@
+0	8	Maďarsko	Maďarsko	LOC	GPE-Hungary
+18	22	Beka	Bek	PER	PER-Mikulas-Bek
+25	27	EU	EU	ORG	ORG-European-Union
+199	225	válka Ruska proti Ukrajině	válka Ruska proti Ukrajině	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+370	383	ruskou invazi	ruská invaze	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+422	435	Evropské unii	Evropská unie	ORG	ORG-European-Union
+621	629	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+637	640	Bek	Bek	PER	PER-Mikulas-Bek
+763	771	Británie	Británie	LOC	GPE-Great-Britain
+777	790	Spojené státy	Spojené státy	LOC	GPE-USA
+846	865	Volodymyr Zelenskyj	Volodymyr Zelenskyj	PER	PER-Volodymyr-Zelensky
+982	985	USA	USA	LOC	GPE-USA
+986	1007	Dmitriho Alperovitche	Dmitri Alperovitch	PER	PER-Dmitri-Alperovitch
+1017	1025	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1097	1099	EU	EU	ORG	ORG-European-Union
+1171	1179	Politico	Politico	PRO	PRO-Politico

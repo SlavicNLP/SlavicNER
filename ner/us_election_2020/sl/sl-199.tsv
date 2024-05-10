@@ -1,0 +1,54 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+99	111	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+139	142	ZDA	ZDA	LOC	GPE-USA
+302	307	Trump	Trump	PER	PER-Donald-Trump
+522	527	Trump	Trump	PER	PER-Donald-Trump
+536	545	Belo hišo	Bela hiša	LOC	LOC-White-House
+689	697	Trumpovi	Trumpovi	PER	PER-Donald-Trump
+758	771	okrožju Wayne	okrožje Wayne	LOC	GPE-Wayne
+774	783	Michiganu	Michigan	LOC	GPE-Michigan
+821	828	Detroit	Detroit	LOC	GPE-Detroit
+937	948	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+1008	1013	Trump	Trump	PER	PER-Donald-Trump
+1048	1061	okrožja Wayne	okrožje Wayne	LOC	GPE-Wayne
+1106	1130	državno volilno komisijo	državna volilna komisija	ORG	ORG-FEC-Federal-Election-Commission
+1133	1138	Biden	Biden	PER	PER-Joe-Biden
+1181	1192	Wilmingtonu	Wilmington	LOC	GPE-Wilmington
+1218	1227	Trumpovem	Trumpov	PER	PER-Donald-Trump
+1253	1266	republikancev	republikanci	PER	ORG-Republican-Party-USA
+1312	1326	Trumpovo vlado	Trumpova vlada	ORG	ORG-Government-of-USA
+1358	1363	Biden	Biden	PER	PER-Joe-Biden
+1415	1427	republikance	republikanci	PER	ORG-Republican-Party-USA
+1529	1551	pandemija koronavirusa	pandemija koronavirus	EVT	EVT-Covid-19
+1554	1557	ZDA	ZDA	LOC	GPE-USA
+1568	1573	Trump	Trump	PER	PER-Donald-Trump
+1647	1652	Biden	Biden	PER	PER-Joe-Biden
+1835	1840	Biden	Biden	PER	PER-Joe-Biden
+1843	1852	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+1924	1932	Trumpove	Trumpov	PER	PER-Donald-Trump
+1963	1980	Rudyja Giulianija	Rudy Giuliani	PER	PER-Rudy-Giuliani
+2101	2109	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+2197	2211	Trumpove vlade	Trumpova vlada	ORG	ORG-Government-of-USA
+2262	2267	Trump	Trump	PER	PER-Donald-Trump
+2278	2289	Chris Krebs	Chris Krebs	PER	PER-Chris-Krebs
+2331	2343	Giulianijeva	Giulianijev	PER	PER-Rudy-Giuliani
+2452	2460	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+2604	2613	Tanzaniji	Tanzanija	LOC	GPE-Tanzania
+2662	2671	Venezuele	Venezuela	LOC	GPE-Venezuela
+2673	2677	Kube	Kuba	LOC	GPE-Cuba
+2681	2689	Kitajske	Kitajska	LOC	GPE-China
+2729	2738	Venezuele	Venezuela	LOC	GPE-Venezuela
+2857	2872	My Cousin Vinny	My Cousin Vinny	PRO	PRO-My-Cousin-Vinny
+2885	2894	Joe Pesci	Joe Pesci	PER	PER-Joe-Pesci
+2899	2907	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+2990	2998	Trumpovi	Trumpov	PER	PER-Donald-Trump
+3103	3110	Arizoni	Arizona	LOC	GPE-Arizona
+3112	3119	Georgii	Georgie	LOC	GPE-Georgia-US-state
+3121	3132	Novi Mehiki	Nova Mehika	LOC	GPE-New-Mexico
+3295	3300	Trump	Trump	PER	PER-Donald-Trump
+3370	3378	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+3419	3432	Marc Scaringi	Marc Scaringi	PER	PER-Marc-Scaringi
+3451	3456	Bidnu	Biden	PER	PER-Joe-Biden
+3580	3586	Bidnov	Biden	PER	PER-Joe-Biden
+3850	3858	Harvarda	Harvard	ORG	ORG-Harvard-University
+3859	3882	Nicholas Stephanopoulos	Nicholas Stephanopoulos	PER	PER-Nicholas-Stephanopoulos

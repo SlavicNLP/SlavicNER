@@ -1,0 +1,73 @@
+69	76	Брекзит	Брекзит	EVT	EVT-Brexit
+364	371	Ройтерс	Ройтерс	ORG	ORG-Reuters
+433	435	ЕС	ЕС	ORG	ORG-European-Union
+439	446	Брекзит	Брекзит	EVT	EVT-Brexit
+447	459	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+531	534	Мей	Мей	PER	PER-Theresa-May
+732	734	ЕС	ЕС	ORG	ORG-European-Union
+757	760	Мей	Мей	PER	PER-Theresa-May
+798	805	Брекзит	Брекзит	EVT	EVT-Brexit
+859	865	Барние	Барние	PER	PER-Michel-Barnier
+869	875	Лондон	Лондон	LOC	GPE-London
+908	915	Брюксел	Брюксел	LOC	GPE-Brussles
+953	955	ЕС	ЕС	ORG	ORG-European-Union
+1074	1076	ЕС	ЕС	ORG	ORG-European-Union
+1207	1221	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1342	1348	Лондон	Лондон	LOC	GPE-London
+1396	1410	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1465	1475	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1509	1523	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1662	1664	ЕС	ЕС	ORG	ORG-European-Union
+1855	1862	Ламанша	Ламанша	LOC	LOC-English-Channel
+1964	1970	Барние	Барние	PER	PER-Michel-Barnier
+2003	2023	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2098	2108	Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+2163	2177	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2179	2185	Барние	Барние	PER	PER-Michel-Barnier
+2232	2234	ЕС	ЕС	ORG	ORG-European-Union
+2238	2241	Мей	Мей	PER	PER-Theresa-May
+2508	2511	Мей	Мей	PER	PER-Theresa-May
+2543	2545	ЕС	ЕС	ORG	ORG-European-Union
+2559	2562	Мей	Мей	PER	PER-Theresa-May
+2575	2592	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+2744	2746	ЕС	ЕС	ORG	ORG-European-Union
+2822	2825	Мей	Мей	PER	PER-Theresa-May
+2845	2852	Брекзит	Брекзит	EVT	EVT-Brexit
+2894	2910	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+3073	3080	Брекзит	Брекзит	EVT	EVT-Brexit
+3233	3240	Брюксел	Брюксел	LOC	GPE-Brussles
+3243	3249	Дъблин	Дъблин	LOC	GPE-Dublin
+3250	3253	Мей	Мей	PER	PER-Theresa-May
+3294	3310	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+3342	3344	ЕС	ЕС	ORG	ORG-European-Union
+3414	3434	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3444	3458	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3520	3523	Мей	Мей	PER	PER-Theresa-May
+3526	3533	Белфаст	Белфаст	LOC	GPE-Belfast
+3601	3615	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3642	3649	Брекзит	Брекзит	EVT	EVT-Brexit
+3652	3658	Лондон	Лондон	LOC	GPE-London
+3762	3769	Брекзит	Брекзит	EVT	EVT-Brexit
+3795	3798	Мей	Мей	PER	PER-Theresa-May
+4137	4151	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4155	4157	ЕС	ЕС	ORG	ORG-European-Union
+4411	4413	ЕС	ЕС	ORG	ORG-European-Union
+4414	4428	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4640	4647	Брекзит	Брекзит	EVT	EVT-Brexit
+4711	4713	ЕС	ЕС	ORG	ORG-European-Union
+4746	4760	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4807	4810	Мей	Мей	PER	PER-Theresa-May
+4909	4923	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4932	4934	ЕС	ЕС	ORG	ORG-European-Union
+4985	4992	Брюксел	Брюксел	LOC	GPE-Brussles
+5039	5053	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5306	5318	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+5319	5325	Барние	Барние	PER	PER-Michel-Barnier
+5378	5380	ЕС	ЕС	ORG	ORG-European-Union
+5383	5389	Канада	Канада	LOC	GPE-Canada
+5553	5567	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5582	5590	Норвегия	Норвегия	LOC	GPE-Norway
+5616	5618	ЕС	ЕС	ORG	ORG-European-Union
+5647	5654	Франция	Франция	LOC	GPE-France
+5733	5740	Брюксел	Брюксел	LOC	GPE-Brussles
+5809	5816	Брекзит	Брекзит	EVT	EVT-Brexit

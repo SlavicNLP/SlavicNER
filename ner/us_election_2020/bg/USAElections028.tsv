@@ -1,0 +1,47 @@
+0	12	Соломон Паси	Соломон Паси	PER	PER-Solomon-Passy
+14	21	Америка	Америка	LOC	GPE-USA
+51	57	Щатите	Щати	LOC	GPE-USA
+172	179	Америка	Америка	LOC	GPE-USA
+231	234	САЩ	САЩ	LOC	GPE-USA
+246	268	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+270	282	американците	американци	PER	GPE-USA
+371	374	bTV	bTV	PRO	PRO-BTV
+390	400	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+404	431	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+432	444	Соломон Паси	Соломон Паси	PER	PER-Solomon-Passy
+608	624	Съединените щати	Съединени щати	LOC	GPE-USA
+807	811	Паси	Паси	PER	PER-Solomon-Passy
+818	823	Тръмп	Тръмп	PER	PER-Donald-Trump
+855	868	Близкия изток	Близък изток	LOC	LOC-Near-East
+900	906	Израел	Израел	LOC	GPE-Israel
+908	915	Бахрейн	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+917	945	Обединените арабски емирства	Обединени арабски емирства	LOC	GPE-United-Arab-Emirates
+948	953	Судан	Судан	LOC	GPE-Sudan
+1022	1027	Обама	Обама	PER	PER-Barack-Obama
+1071	1077	Луната	Луна	LOC	LOC-the-Moon
+1119	1126	Космоса	Космос	LOC	LOC-Space
+1177	1182	Китай	Китай	LOC	GPE-China
+1207	1213	Байдън	Байдън	PER	PER-Joe-Biden
+1215	1226	демократите	демократи	PER	ORG-Democratic-Party-USA
+1312	1319	Америка	Америка	LOC	GPE-USA
+1337	1342	Тръмп	Тръмп	PER	PER-Donald-Trump
+1354	1358	Паси	Паси	PER	PER-Solomon-Passy
+1372	1378	Байдън	Байдън	PER	PER-Joe-Biden
+1468	1473	Тръмп	Тръмп	PER	PER-Donald-Trump
+1512	1518	Байдън	Байдън	PER	PER-Joe-Biden
+1528	1535	Америка	Америка	LOC	GPE-USA
+1614	1618	НАТО	НАТО	ORG	ORG-NATO
+1657	1661	Паси	Паси	PER	PER-Solomon-Passy
+1722	1727	Тръмп	Тръмп	PER	PER-Donald-Trump
+1790	1799	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1960	1968	България	България	LOC	GPE-Bulgaria
+1970	1974	Паси	Паси	PER	PER-Solomon-Passy
+2000	2003	САЩ	САЩ	LOC	GPE-USA
+2113	2121	България	България	LOC	GPE-Bulgaria
+2128	2140	републиканци	републиканци	PER	ORG-Republican-Party-USA
+2145	2154	демократи	демократи	PER	ORG-Democratic-Party-USA
+2184	2200	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2247	2255	България	България	LOC	GPE-Bulgaria
+2410	2422	Соломон Паси	Соломон Паси	PER	PER-Solomon-Passy
+2533	2558	"инициативата ""Три морета"""	"инициатива ""Три морета"""	PRO	PRO-Three-Seas-Initiative
+2619	2627	България	България	LOC	GPE-Bulgaria

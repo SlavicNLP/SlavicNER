@@ -1,0 +1,56 @@
+0	10	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+25	40	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+54	71	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+168	185	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+198	215	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+237	255	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+294	297	BBC	BBC	PRO	PRO-BBC
+310	340	Światowego Forum Ekonomicznego	Światowe Forum Ekonomiczne	EVT	EVT-World-Economic-Forum-Davos
+343	348	Davos	Davos	LOC	GPE-Davos
+350	360	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+446	448	UE	UE	ORG	ORG-European-Union
+451	474	Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+486	503	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+506	510	Unii	Unia	ORG	ORG-European-Union
+632	641	wspólnoty	Wspólnota	ORG	ORG-European-Union
+721	738	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+786	801	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+813	815	UE	UE	ORG	ORG-European-Union
+1026	1036	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+1251	1274	Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1277	1292	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1517	1524	brexitu	Brexit	EVT	EVT-Brexit
+1526	1539	Davida Davisa	David Davis	PER	PER-David-Davis
+1626	1641	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1707	1715	Danegeld	Danegeld	PRO	PRO-Danegeld
+1722	1728	Anglia	Anglia	LOC	GPE-England
+1737	1745	Wikingom	Wikingowie	PER	PER-Vikings
+1756	1774	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+1800	1809	Londynowi	Londyn	LOC	GPE-London
+1936	1949	Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+1986	2001	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+2021	2038	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2262	2277	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2280	2289	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+2303	2305	UE	UE	ORG	ORG-European-Union
+2425	2433	Norwegia	Norwegia	LOC	GPE-Norway
+2449	2486	Europejskiej Przestrzeni Gospodarczej	Europejska Przestrzeń Gospodarcza	ORG	ORG-EEA-European-Economic-Area
+2488	2491	EEA	EEA	ORG	ORG-EEA-European-Economic-Area
+2560	2570	Szwajcaria	Szwajcaria	LOC	GPE-Switzerland
+2593	2596	EEA	EEA	ORG	ORG-EEA-European-Economic-Area
+2613	2628	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+2812	2814	UE	UE	ORG	ORG-European-Union
+2817	2832	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2848	2857	brexitowi	Brexit	EVT	EVT-Brexit
+2887	2893	Brexit	Brexit	EVT	EVT-Brexit
+2921	2938	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2950	2967	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2990	2993	BBC	BBC	PRO	PRO-BBC
+3060	3064	Unii	Unia	ORG	ORG-European-Union
+3065	3080	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3267	3270	BBC	BBC	PRO	PRO-BBC
+3333	3339	Polski	Polska	LOC	GPE-Poland
+3387	3423	Światowym Forum Ekonomicznym w Davos	Światowe Forum Ekonomicznym w Davos	EVT	EVT-World-Economic-Forum-Davos
+3681	3687	Polskę	Polska	LOC	GPE-Poland
+3711	3723	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+3740	3758	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki

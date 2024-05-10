@@ -1,0 +1,48 @@
+3	8	Давос	Давос	LOC	GPE-Davos
+101	129	Световния икономически форум	Световен икономически форум	ORG	ORG-WEF
+131	134	СИФ	СИФ	ORG	ORG-WEF
+138	143	Давос	Давос	LOC	GPE-Davos
+145	159	Кристин Лагард	Кристин Лагард	PER	PER-Christine-Lagarde
+187	213	Международния валутен фонд	Международен валутен фонд	ORG	ORG-International-Monetary-Fund
+215	218	МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+413	415	АП	АП	ORG	ORG-AP-The-Associated-Press
+428	431	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+440	443	МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+522	528	Лагард	Лагард	PER	PER-Christine-Lagarde
+769	781	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+812	817	Давос	Давос	LOC	GPE-Davos
+826	829	ДПА	ДПА	ORG	ORG-DPA
+850	857	Брекзит	Брекзит	EVT	EVT-Brexit
+933	939	Лондон	Лондон	LOC	GPE-London
+946	952	Европа	Европа	LOC	LOC-Europe
+991	997	Хамънд	Хамънд	PER	PER-Philip-Hammond
+1014	1023	Франкфурт	Франкфурт	LOC	GPE-Frankfurt-am-Main
+1025	1030	Париж	Париж	LOC	GPE-Paris
+1035	1044	Амстердам	Амстердам	LOC	GPE-Amsterdam
+1111	1117	Лондон	Лондон	LOC	GPE-London
+1150	1156	Европа	Европа	LOC	LOC-Europe
+1172	1178	Лондон	Лондон	LOC	GPE-London
+1188	1195	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+1200	1208	Сингапур	Сингапур	LOC	GPE-Singapore
+1316	1322	Лондон	Лондон	LOC	GPE-London
+1328	1342	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1345	1347	ЕС	ЕС	ORG	ORG-European-Union
+1441	1447	Лондон	Лондон	LOC	GPE-London
+1487	1489	ЕС	ЕС	ORG	ORG-European-Union
+1618	1627	Франкфурт	Франкфурт	LOC	GPE-Frankfurt-am-Main
+1638	1641	ДПА	ДПА	ORG	ORG-DPA
+1670	1673	САЩ	САЩ	LOC	GPE-USA
+1674	1687	Стивън Мнучин	Стивън Мнучин	PER	PER-Steven-Mnuchin
+1699	1704	Давос	Давос	LOC	GPE-Davos
+1709	1718	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1781	1801	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1807	1814	Брекзит	Брекзит	EVT	EVT-Brexit
+1824	1826	АП	АП	ORG	ORG-AP-The-Associated-Press
+1839	1841	ЕС	ЕС	ORG	ORG-European-Union
+1843	1857	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1935	1937	АП	АП	ORG	ORG-AP-The-Associated-Press
+1952	1958	Мнучин	Мнучин	PER	PER-Steven-Mnuchin
+1972	1986	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1997	2000	САЩ	САЩ	LOC	GPE-USA
+2082	2087	Тръмп	Тръмп	PER	PER-Donald-Trump
+2103	2117	Великобритания	Великобритания	LOC	GPE-Great-Britain

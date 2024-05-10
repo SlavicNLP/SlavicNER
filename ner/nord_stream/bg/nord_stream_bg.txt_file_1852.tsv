@@ -1,0 +1,35 @@
+0	6	Кремъл	Кремъл	LOC	LOC-Kremlin
+14	19	Путин	Путин	PER	PER-Vladimir-Putin
+22	28	Меркел	Меркел	PER	PER-Angela-Merkel
+45	60	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+78	83	Русия	Русия	LOC	GPE-Russia
+84	98	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+114	122	Германия	Германия	LOC	GPE-Germany
+123	136	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+209	224	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+235	239	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+288	294	Кремъл	Кремъл	LOC	LOC-Kremlin
+336	344	Германия	Германия	LOC	GPE-Germany
+427	442	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+494	507	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+524	529	Русия	Русия	LOC	GPE-Russia
+532	540	Германия	Германия	LOC	GPE-Germany
+554	568	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+603	610	Украйна	Украйна	LOC	GPE-Ukraine
+612	619	Беларус	Беларус	LOC	GPE-Belarus
+621	626	Полша	Полша	LOC	GPE-Poland
+718	731	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+820	825	Русия	Русия	LOC	GPE-Russia
+827	836	Финландия	Финландия	LOC	GPE-Finland
+838	844	Швеция	Швеция	LOC	GPE-Sweden
+846	851	Дания	Дания	LOC	GPE-Denmark
+854	862	Германия	Германия	LOC	GPE-Germany
+1040	1055	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+1205	1211	Европа	Европа	LOC	LOC-Europe
+1217	1224	Украйна	Украйна	LOC	GPE-Ukraine
+1290	1301	Ханделсблат	Ханделсблат	PRO	PRO-Handelsblatt
+1304	1313	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+1370	1375	Русия	Русия	LOC	GPE-Russia
+1457	1460	САЩ	САЩ	LOC	GPE-USA
+1582	1588	Европа	Европа	LOC	LOC-Europe
+1618	1623	Русия	Русия	LOC	GPE-Russia

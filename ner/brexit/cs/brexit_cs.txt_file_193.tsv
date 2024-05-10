@@ -1,0 +1,20 @@
+0	4	Ford	Ford	ORG	ORG-Ford
+20	27	brexitu	brexit	EVT	EVT-Brexit
+31	38	Německu	Německo	LOC	GPE-Germany
+78	92	Ford of Europe	Ford of Europe	ORG	ORG-Ford-of-Europe
+104	111	Německu	Německo	LOC	GPE-Germany
+276	284	Británie	Británie	LOC	GPE-Great-Britain
+292	306	Evropskou unii	Evropská unie	ORG	ORG-European-Union
+358	388	Frankfurter Allgemeine Zeitung	Frankfurter Allgemeine Zeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+390	393	FAZ	FAZ	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+431	476	německému úřadu pro dohled na finančním trhem	německý úřad pro dohled nad finančním trhem	ORG	ORG-Federal-Financial-Supervisory-Authority-Germany
+477	482	BaFin	BaFin	ORG	ORG-Federal-Financial-Supervisory-Authority-Germany
+646	664	Ford Credit Europe	Ford Credit Europe	ORG	ORG-Ford-Credit-Europe
+695	701	Warley	Warley	LOC	GPE-Warley
+717	733	Kolíně nad Rýnem	Kolín nad Rýnem	LOC	GPE-Koln-German-City
+867	874	brexitu	brexit	EVT	EVT-Brexit
+968	976	Británie	Británie	LOC	GPE-Great-Britain
+984	986	EU	EU	ORG	ORG-European-Union
+1011	1015	Ford	Ford	ORG	ORG-Ford
+1039	1047	Británie	Británie	LOC	GPE-Great-Britain
+1076	1082	Evropě	Evropa	LOC	LOC-Europe

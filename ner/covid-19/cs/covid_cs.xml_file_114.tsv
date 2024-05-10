@@ -1,0 +1,19 @@
+16	24	Jacobovi	Jacob	PER	PER-Jacob-Serrano
+25	36	koronavirus	koronavirus	EVT	EVT-Covid-19
+81	88	Oxfordu	Oxford	LOC	GPE-Oxford
+90	103	Jacob Serrano	Jacob Serrano	PER	PER-Jacob-Serrano
+120	127	Floridy	Florida	LOC	GPE-Florida
+149	159	Američanem	Američan	PER	GPE-USA
+210	220	koronaviru	koronavirus	EVT	EVT-Covid-19
+255	275	Oxfordské univerzity	Oxfordská univerzita	ORG	ORG-University-of-Oxford
+304	315	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+323	354	Světové zdravotnické organizace	Světová zdravotnická organizace	ORG	ORG-World-Health-Organization
+356	359	WHO	WHO	ORG	ORG-World-Health-Organization
+402	409	Serrano	Serrano	PER	PER-Jacob-Serrano
+442	453	koronavirem	koronavirus	EVT	EVT-Covid-19
+477	485	covid-19	covid-19	EVT	EVT-Covid-19
+541	551	Daily Mail	Daily Mail	PRO	PRO-Daily-Mail
+584	591	AZD1222	AZD1222	PRO	PRO-AZD1222-vaccine
+730	739	Američanů	Američané	PER	GPE-USA
+741	748	Serrano	Serrano	PER	PER-Jacob-Serrano
+851	861	Lake Worth	Lake Worth	LOC	GPE-Lake-Worth

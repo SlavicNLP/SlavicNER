@@ -1,0 +1,27 @@
+0	8	Євросоюз	Євросоюз	ORG	ORG-European-Union
+43	55	коронавірусу	коронавірус	EVT	EVT-Covid-19
+73	75	ЄС	ЄС	LOC	ORG-European-Union
+120	129	Євросоюзі	Євросоюз	LOC	ORG-European-Union
+181	193	коронавірусу	коронавірус	EVT	EVT-Covid-19
+233	242	ТСН.Ранок	ТСН.Ранок	PRO	PRO-TSN-Morning
+297	315	Стелли Кирі-Акідес	Стелла Киріакідес	PER	PER-Stella-Kyriakides
+371	380	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+413	418	COVAX	COVAX	PRO	PRO-Covax-initiative
+423	463	Всесвітньої організації охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+546	565	Європейському Союзі	Європейський Союз	ORG	ORG-European-Union
+759	771	коронавірусу	коронавірус	EVT	EVT-Covid-19
+859	866	Ізраїль	Ізраїль	LOC	GPE-Israel
+967	978	коронавірус	коронавірус	EVT	EVT-Covid-19
+994	1003	Німеччина	Німеччина	LOC	GPE-Germany
+1076	1085	Євросоюзі	Євросоюз	LOC	ORG-European-Union
+1135	1147	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1216	1233	Стелла Киріакідес	Стелла Киріакідес	PER	PER-Stella-Kyriakides
+1302	1304	ЄС	ЄС	LOC	ORG-European-Union
+1338	1344	Ковакс	Ковакс	PRO	PRO-Covax-initiative
+1349	1389	Всесвітньої організації охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+1466	1468	ЄС	ЄС	LOC	ORG-European-Union
+1689	1701	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1729	1736	Ізраїлі	Ізраїль	LOC	GPE-Israel
+1794	1800	Pfizer	Pfizer	ORG	ORG-Pfizer
+1801	1809	BioNTech	BioNTech	ORG	ORG-BioNTech
+1912	1924	коронавірусу	коронавірус	EVT	EVT-Covid-19

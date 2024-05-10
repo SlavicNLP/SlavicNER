@@ -1,0 +1,86 @@
+26	32	Cookie	Cookie	PRO	PRO-Cookie
+142	150	Германия	Германия	LOC	GPE-Germany
+165	177	коронавируса	коронавирус	EVT	EVT-Covid-19
+206	214	Германии	Германия	LOC	GPE-Germany
+219	222	ФРГ	ФРГ	LOC	GPE-Germany
+330	342	коронавируса	коронавирус	EVT	EVT-Covid-19
+344	346	DW	DW	PRO	PRO-Deutsche-Welle
+401	409	Немецкие	Немецкие	PER	GPE-German
+475	481	немцев	немцы	PER	GPE-Germany
+501	513	коронавируса	коронавирус	EVT	EVT-Covid-19
+864	871	Баварии	Бавария	LOC	GPE-Bavaria
+872	884	Маркус Зёдер	Маркус Зёдер	PER	PER-Markus-Soeder
+886	898	Markus Söder	Markus Söder	PER	PER-Markus-Soeder
+945	953	COVID-19	COVID-19	EVT	EVT-Covid-19
+983	1002	Süddeutsche Zeitung	Süddeutsche Zeitung	PRO	PRO-SUddeutsche-Zeitung
+1022	1025	ZDF	ZDF	PRO	PRO-ZDF-TV
+1055	1058	ФРГ	ФРГ	LOC	GPE-Germany
+1060	1065	Зёдер	Маркус Зёдер	PER	PER-Markus-Soeder
+1134	1146	коронавируса	коронавирус	EVT	EVT-Covid-19
+1277	1289	Маркус Зёдер	Маркус Зёдер	PER	PER-Markus-Soeder
+1303	1315	коронавируса	коронавирус	EVT	EVT-Covid-19
+1339	1347	Германии	Германия	LOC	GPE-Germany
+1474	1486	Маркус Зёдер	Маркус Зёдер	PER	PER-Markus-Soeder
+1538	1563	Немецкому совету по этике	Немецкий совет по этике	ORG	ORG-German-ethics-Council
+1657	1665	Германии	Германия	LOC	GPE-Germany
+1682	1694	Маркус Зёдер	Маркус Зёдер	PER	PER-Markus-Soeder
+1711	1723	коронавируса	коронавирус	EVT	EVT-Covid-19
+1776	1781	Зёдер	Маркус Зёдер	PER	PER-Markus-Soeder
+2320	2329	баварский	Баварский	PER	GPE-Bayern-Munich
+2545	2550	COVID	COVID-19	EVT	EVT-Covid-19
+2573	2587	Маркуса Зёдера	Маркус Зёдер	PER	PER-Markus-Soeder
+2600	2628	Объединении немецких городов	Объединение немецких городов	ORG	ORG-Association-of-German-Cities
+2630	2649	Deutscher Städtetag	Deutscher Städtetag	ORG	ORG-Association-of-German-Cities
+2860	2873	Хельмута Деди	Хельмут Деди	PER	PER-Helmut-Dedy
+2875	2886	Helmut Dedy	Helmut Dedy	PER	PER-Helmut-Dedy
+2984	2991	Зёдером	Маркус Зёдер	PER	PER-Markus-Soeder
+3206	3210	Деди	Хельмут Деди	PER	PER-Helmut-Dedy
+3247	3253	Зёдера	Маркус Зёдер	PER	PER-Markus-Soeder
+3268	3271	ФРГ	ФРГ	LOC	GPE-Germany
+3272	3286	Хубертус Хайль	Хубертус Хайль	PER	PER-Hubertus-Heil
+3288	3301	Hubertus Heil	Hubertus Heil	PER	PER-Hubertus-Heil
+3381	3412	фракции оппозиционных либералов	фракция оппозиционных либералов	ORG	ORG-Free-Democratic-Party-Germany
+3415	3425	бундестаге	бундестаг	ORG	ORG-Bundestag
+3426	3440	Михаэль Тойрер	Михаэль Тойрер	PER	PER-Michael-Theurer
+3442	3457	Michael Theurer	Michael Theurer	PER	PER-Michael-Theurer
+3518	3523	COVID	COVID-19	EVT	EVT-Covid-19
+3552	3564	коронавируса	коронавирус	EVT	EVT-Covid-19
+3680	3704	Немецком совете по этике	Немецкий совет по этике	ORG	ORG-German-ethics-Council
+3730	3742	Маркус Зёдер	Маркус Зёдер	PER	PER-Markus-Soeder
+3744	3758	Вольфганг Хенн	Вольфганг Хенн	PER	PER-Wolfgang-Henn
+3760	3773	Wolfgang Henn	Wolfgang Henn	PER	PER-Wolfgang-Henn
+3898	3906	немецком	немецкий	PER	GPE-German
+3961	3969	Германии	Германия	LOC	GPE-Germany
+4174	4186	коронавируса	коронавирус	EVT	EVT-Covid-19
+4231	4235	Хенн	Вольфганг Хенн	PER	PER-Wolfgang-Henn
+4253	4261	финского	финский	LOC	GPE-Finland
+4320	4328	COVID-19	COVID-19	EVT	EVT-Covid-19
+4415	4423	Германии	Германия	LOC	GPE-Germany
+4433	4447	Вольфганг Хенн	Вольфганг Хенн	PER	PER-Wolfgang-Henn
+4707	4712	Хенна	Вольфганг Хенн	PER	PER-Wolfgang-Henn
+4716	4741	Немецкому совету по этике	Немецкий совет по этике	ORG	ORG-German-ethics-Council
+4750	4759	Петра Бар	Петра Бар	PER	PER-Petra-Bahr
+4761	4771	Petra Bahr	Petra Bahr	PER	PER-Petra-Bahr
+5217	5239	Немецкое правительство	Немецкое правительство	ORG	ORG-German-Government
+5541	5552	коронавирус	коронавирус	EVT	EVT-Covid-19
+5609	5624	коронавирусного	коронавирусный	EVT	EVT-Covid-19
+5692	5700	немецких	немецкий	PER	GPE-German
+5761	5769	Германии	Германия	LOC	GPE-Germany
+5827	5833	немцев	немцы	PER	GPE-Germany
+6122	6130	немецких	немецкий	PER	GPE-Germany
+6462	6470	Германии	Германия	LOC	GPE-Germany
+6504	6512	немецких	немецкий	PER	GPE-Germany
+6923	6931	немецких	немецкий	PER	GPE-Germany
+6985	6993	Германии	Германия	LOC	GPE-Germany
+7331	7339	немецких	немецкий	PER	GPE-Germany
+7376	7384	Германии	Германия	LOC	GPE-Germany
+7757	7765	немецких	немецкий	PER	GPE-Germany
+7898	7906	Германии	Германия	LOC	GPE-Germany
+8185	8193	немецких	немецкий	PER	GPE-Germany
+8466	8474	Германии	Германия	LOC	GPE-Germany
+8612	8620	немецких	немецкий	PER	GPE-Germany
+8782	8790	Германии	Германия	LOC	GPE-Germany
+9068	9076	немецких	немецкий	PER	GPE-Germany
+9495	9503	немецких	немецкий	PER	GPE-Germany
+9529	9537	Германии	Германия	LOC	GPE-Germany
+9762	9770	немецких	немецкий	PER	GPE-Germany

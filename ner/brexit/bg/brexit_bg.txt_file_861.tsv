@@ -1,0 +1,18 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+50	57	Брекзит	Брекзит	EVT	EVT-Brexit
+91	107	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+164	171	Брекзит	Брекзит	EVT	EVT-Brexit
+181	195	Великобритания	Великобритания	LOC	GPE-Great-Britain
+221	223	ЕС	ЕС	ORG	ORG-European-Union
+294	313	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+437	468	българското европредседателство	Българско европредседателство	EVT	EVT-Bulgarian-Presidency-EU
+514	526	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+592	612	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+771	791	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+941	947	Лондон	Лондон	LOC	GPE-London
+961	963	ЕС	ЕС	ORG	ORG-European-Union
+1035	1049	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1080	1082	ЕС	ЕС	ORG	ORG-European-Union
+1208	1215	Брекзит	Брекзит	EVT	EVT-Brexit
+1333	1345	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+1360	1373	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis

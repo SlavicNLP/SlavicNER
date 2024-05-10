@@ -1,0 +1,24 @@
+0	12	The Guardian	The Guardian	PRO	PRO-The-Guardian
+14	27	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+61	69	британци	британци	PER	GPE-Great-Britain
+75	81	Лондон	Лондон	LOC	GPE-London
+106	132	Партията на независимостта	Партия на независимостта	ORG	ORG-UK-Independence-Party
+136	150	Великобритания	Великобритания	LOC	GPE-Great-Britain
+151	164	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+206	214	британци	британци	PER	GPE-Great-Britain
+243	245	ЕС	ЕС	ORG	ORG-European-Union
+273	280	Брекзит	Брекзит	EVT	EVT-Brexit
+326	338	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+345	357	The Guardian	The Guardian	PRO	PRO-The-Guardian
+396	402	Барние	Барние	PER	PER-Michel-Barnier
+419	439	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+477	479	ЕС	ЕС	ORG	ORG-European-Union
+511	518	Брекзит	Брекзит	EVT	EVT-Brexit
+637	643	Барние	Барние	PER	PER-Michel-Barnier
+712	717	Фараж	Фараж	PER	PER-Nigel-Farage
+781	788	Брекзит	Брекзит	EVT	EVT-Brexit
+840	842	ЕС	ЕС	ORG	ORG-European-Union
+1076	1082	Барние	Барние	PER	PER-Michel-Barnier
+1438	1443	Фараж	Фараж	PER	PER-Nigel-Farage
+1464	1479	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+1526	1555	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

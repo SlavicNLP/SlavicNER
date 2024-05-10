@@ -1,0 +1,62 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+67	74	brexitu	Brexit	EVT	EVT-Brexit
+120	131	Westminster	Westminster	LOC	LOC-Westminster-Hall
+170	174	Unii	Unia	ORG	ORG-European-Union
+180	200	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+379	385	Londyn	Londyn	LOC	GPE-London
+420	429	Radzie UE	Rada UE	ORG	ORG-European-Council
+503	510	brexitu	Brexit	EVT	EVT-Brexit
+626	653	Economist Intelligence Unit	Economist Intelligence Unit	ORG	ORG-EIU-Economist-Intelligence-Unit
+655	658	EIU	EIU	ORG	ORG-EIU-Economist-Intelligence-Unit
+702	723	umowy o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement
+725	728	FTA	FTA	PRO	PRO-FTA-Free-Trade-Agreement
+867	874	Wyspami	Wyspy	LOC	GPE-Great-Britain
+923	951	Światowej Organizacji Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization
+953	956	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+979	985	brexit	Brexit	EVT	EVT-Brexit
+1131	1152	umowa o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement
+1160	1164	Unią	Unia	ORG	ORG-European-Union
+1167	1173	Kanadą	Kanada	LOC	GPE-Canada
+1289	1297	Bruksela	Bruksela	LOC	GPE-Brussles
+1402	1410	brexitem	Brexit	EVT	EVT-Brexit
+1553	1570	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+1573	1591	Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+1625	1633	Bruksela	Bruksela	LOC	GPE-Brussles
+1668	1674	Ulster	Ulster	LOC	GPE-Ulster
+1703	1712	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+1744	1752	torysami	torysi	PER	ORG-Tories
+1791	1794	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+1849	1863	Zielonej Wyspy	Zielona Wyspa	LOC	GPE-Ireland
+1926	1928	UE	UE	ORG	ORG-European-Union
+1945	1962	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1983	1990	Polaków	Polacy	PER	GPE-Poland
+2003	2011	Londynie	Londyn	LOC	GPE-London
+2068	2072	City	City	LOC	LOC-City-of-London
+2491	2497	brexit	Brexit	EVT	EVT-Brexit
+2549	2557	Unilever	Unilever	ORG	ORG-Unilever
+2707	2722	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2739	2746	Francji	Francja	LOC	GPE-France
+2940	2947	Francji	Francja	LOC	GPE-France
+2961	2970	Niemczech	Niemcy	LOC	GPE-Germany
+2985	2991	Polsce	Polska	LOC	GPE-Poland
+3001	3004	EIU	EIU	ORG	ORG-EIU-Economist-Intelligence-Unit
+3038	3042	Unią	Unia	ORG	ORG-European-Union
+3397	3404	brexitu	Brexit	EVT	EVT-Brexit
+3455	3467	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+3536	3542	Anglii	Anglia	LOC	GPE-England
+3563	3569	Londyn	Londyn	LOC	GPE-London
+3579	3586	Szkocja	Szkocja	LOC	GPE-Scotland
+3589	3606	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+3659	3671	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+3693	3708	Tony'ego Blaira	Tony Blair	PER	PER-Tony-Blair
+3758	3765	brexitu	Brexit	EVT	EVT-Brexit
+3778	3789	Theresy May	Theresa May	PER	PER-Theresa-May
+3825	3829	Unią	Unia	ORG	ORG-European-Union
+3880	3889	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+3929	3935	Polskę	Polska	LOC	GPE-Poland
+3974	3982	Brukselą	Bruksela	LOC	GPE-Brussles
+4034	4038	Unii	Unia	ORG	ORG-European-Union
+4088	4097	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+4160	4172	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+4215	4219	Unii	Unia	ORG	ORG-European-Union
+4278	4280	UE	UE	ORG	ORG-European-Union

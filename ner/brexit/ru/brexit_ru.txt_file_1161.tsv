@@ -1,0 +1,22 @@
+0	7	Джонсон	Джонсон	PER	PER-Boris-Johnson
+42	45	Мэй	Мэй	PER	PER-Theresa-May
+71	89	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+90	103	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+186	199	правительстве	правительство	ORG	ORG-the-UK-Government
+239	245	Brexit	Brexit	EVT	EVT-Brexit
+278	288	парламента	парламент	ORG	ORG-British-Parlament
+336	346	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+357	366	ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
+381	384	ВВС	ВВС	PRO	PRO-BBC-website
+414	428	Великобритания	Великобритания	LOC	GPE-Great-Britain
+470	472	ЕС	ЕС	ORG	ORG-European-Union
+574	583	Евросоюза	Евросоюз	ORG	ORG-European-Union
+587	593	Brexit	Brexit	EVT	EVT-Brexit
+727	741	Великобритании	Великобритания	LOC	GPE-Great-Britain
+844	851	Джонсон	Джонсон	PER	PER-Boris-Johnson
+870	884	Великобритании	Великобритания	LOC	GPE-Great-Britain
+885	895	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+950	958	Джонсона	Джонсон	PER	PER-Boris-Johnson
+1126	1132	Brexit	Brexit	EVT	EVT-Brexit
+1146	1149	Мэй	Мэй	PER	PER-Theresa-May
+1163	1172	ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA

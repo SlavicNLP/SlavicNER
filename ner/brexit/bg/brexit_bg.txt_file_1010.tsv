@@ -1,0 +1,15 @@
+0	13	Daily Express	Daily Express	PRO	PRO-Daily-Express
+31	41	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+75	81	Лондон	Лондон	LOC	GPE-London
+100	110	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+145	159	Великобритания	Великобритания	LOC	GPE-Great-Britain
+214	221	Брекзит	Брекзит	EVT	EVT-Brexit
+239	252	Daily Express	Daily Express	PRO	PRO-Daily-Express
+272	275	Мей	Мей	PER	PER-Theresa-May
+296	303	Брюксел	Брюксел	LOC	GPE-Brussles
+379	381	ЕС	ЕС	ORG	ORG-European-Union
+406	420	Великобритания	Великобритания	LOC	GPE-Great-Britain
+596	610	Великобритания	Великобритания	LOC	GPE-Great-Britain
+898	900	ЕС	ЕС	ORG	ORG-European-Union
+1014	1026	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+1165	1194	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

@@ -1,0 +1,20 @@
+0	12	The Guardian	The Guardian	PRO	PRO-The-Guardian
+14	16	ЕС	ЕС	ORG	ORG-European-Union
+50	66	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+75	82	Брюксел	Брюксел	LOC	GPE-Brussles
+107	123	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+127	134	Брекзит	Брекзит	EVT	EVT-Brexit
+135	147	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+158	165	Брюксел	Брюксел	LOC	GPE-Brussles
+201	217	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+271	291	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+350	362	The Guardian	The Guardian	PRO	PRO-The-Guardian
+464	471	Брюксел	Брюксел	LOC	GPE-Brussles
+474	480	Лондон	Лондон	LOC	GPE-London
+497	513	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+560	562	ЕС	ЕС	ORG	ORG-European-Union
+568	575	Брекзит	Брекзит	EVT	EVT-Brexit
+640	660	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+696	716	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+737	750	Тереза Герова	Тереза Герова	PER	PER-Theresa-Gerova
+889	918	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

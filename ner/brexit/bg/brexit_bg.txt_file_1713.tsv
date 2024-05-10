@@ -1,0 +1,32 @@
+1	19	Кембридж Аналитика	Кембридж Аналитика	ORG	ORG-Cambridge-Analytica
+46	53	Брекзит	Брекзит	EVT	EVT-Brexit
+67	85	Кембридж Аналитика	Кембридж Аналитика	ORG	ORG-Cambridge-Analytica
+139	146	Брекзит	Брекзит	EVT	EVT-Brexit
+180	185	Уайли	Уайли	PER	PER-Christopher-Wylie
+210	228	Кембридж Аналитика	Кембридж Аналитика	ORG	ORG-Cambridge-Analytica
+324	331	Фейсбук	Фейсбук	PRO	PRO-Facebook
+350	360	британците	британци	PER	GPE-Great-Britain
+361	369	Брекзита	Брекзит	EVT	EVT-Brexit
+388	406	Кембридж Аналитика	Кембридж Аналитика	ORG	ORG-Cambridge-Analytica
+547	557	Либерасион	Либерасион	PRO	PRO-Liberation
+581	586	Уайли	Уайли	PER	PER-Christopher-Wylie
+625	629	Монд	Монд	PRO	PRO-Le-Monde
+768	786	Кембридж Аналитика	Кембридж Аналитика	ORG	ORG-Cambridge-Analytica
+874	876	ЕС	ЕС	ORG	ORG-European-Union
+983	991	Брекзита	Брекзит	EVT	EVT-Brexit
+1083	1088	Уайли	Уайли	PER	PER-Christopher-Wylie
+1109	1113	Монд	Монд	PRO	PRO-Le-Monde
+1127	1134	Фейсбук	Фейсбук	PRO	PRO-Facebook
+1431	1439	Ес Си Ел	Ес Си Ел	ORG	ORG-SCL-Group
+1489	1507	Кембридж Аналитика	Кембридж Аналитика	ORG	ORG-Cambridge-Analytica
+1636	1643	Найроби	Найроби	LOC	GPE-Nairobi
+1671	1676	Кения	Кения	LOC	GPE-Kenya
+1705	1710	Кения	Кения	LOC	GPE-Kenya
+1712	1717	Уайли	Уайли	PER	PER-Christopher-Wylie
+1786	1796	Стив Банън	Стив Банън	PER	PER-Steve-Bannon
+1825	1837	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1857	1866	Брайтбарт	Брайтбарт	PRO	PRO-Breitbart-News
+1901	1904	САЩ	САЩ	LOC	GPE-USA
+1932	1938	Лондон	Лондон	LOC	GPE-London
+2040	2050	Либерасион	Либерасион	PRO	PRO-Liberation
+2064	2067	АФП	АФП	ORG	ORG-France-Presse

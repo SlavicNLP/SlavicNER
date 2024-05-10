@@ -1,0 +1,45 @@
+14	30	Росийская газета	Росийская газета	PRO	PRO-Rossiyskaya-Gazeta
+33	39	Москва	Москва	LOC	GPE-Moscow
+62	72	Южен поток	Южен поток	PRO	PRO-South-Stream
+112	118	Москва	Москва	LOC	GPE-Moscow
+163	173	Южен поток	Южен поток	PRO	PRO-South-Stream
+212	228	Росийская газета	Росийская газета	PRO	PRO-Rossiyskaya-Gazeta
+231	239	България	България	LOC	GPE-Bulgaria
+313	330	Сергей Правосудов	Сергей Правосудов	PER	PER-Sergey-Pravosudov
+356	389	Институт за национална енергетика	Институт за национална енергетика	ORG	ORG-National-Energy-Institute-Russia
+400	403	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+453	462	Балканите	Балкани	LOC	LOC-Balkans
+503	509	Турция	Турция	LOC	GPE-Turkey
+557	569	Турски поток	Турски поток	PRO	PRO-Turkish-Stream
+574	589	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+637	643	Европа	Европа	LOC	LOC-Europe
+764	770	Европа	Европа	LOC	LOC-Europe
+838	851	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+966	976	Черно море	Черно море	LOC	LOC-Black-Sea
+1006	1017	Румен Радев	Румен Радев	PER	PER-Rumen-Radev
+1041	1046	Русия	Русия	LOC	GPE-Russia
+1074	1089	Български поток	Български поток	PRO	PRO-Buglarian-Stream
+1097	1105	България	България	LOC	GPE-Bulgaria
+1156	1163	Украйна	Украйна	LOC	GPE-Ukraine
+1173	1191	Константин Симонов	Константин Симонов	PER	PER-Konstantin-Simonov
+1222	1260	Фонд за национална енергийна сигурност	Фонд за национална енергийна сигурност	ORG	ORG-National-Energy-Security-Foundation-Russia
+1290	1295	София	София	LOC	GPE-Sofia
+1313	1325	Турски поток	Турски поток	PRO	PRO-Turkish-Stream
+1359	1369	Черно море	Черно море	LOC	LOC-Black-Sea
+1425	1431	Турция	Турция	LOC	GPE-Turkey
+1461	1469	България	България	LOC	GPE-Bulgaria
+1508	1513	София	София	LOC	GPE-Sofia
+1568	1573	Русия	Русия	LOC	GPE-Russia
+1661	1673	Турски поток	Турски поток	PRO	PRO-Turkish-Stream
+1688	1694	Турция	Турция	LOC	GPE-Turkey
+1702	1710	България	България	LOC	GPE-Bulgaria
+1737	1742	Русия	Русия	LOC	GPE-Russia
+1796	1798	ЕС	ЕС	ORG	ORG-European-Union
+1807	1815	България	България	LOC	GPE-Bulgaria
+1894	1909	Български поток	Български поток	PRO	PRO-Buglarian-Stream
+1928	1940	Сергей Пикин	Сергей Пикин	PER	PER-Sergey-Pikin
+1977	2003	Фонд за енергийно развитие	Фонд за енергийно развитие	ORG	ORG-Energy-Development-Fund-Russia
+2137	2146	българите	българи	PER	GPE-Bulgaria
+2217	2227	Южен поток	Южен поток	PRO	PRO-South-Stream
+2271	2273	ЕС	ЕС	ORG	ORG-European-Union
+2280	2288	България	България	LOC	GPE-Bulgaria

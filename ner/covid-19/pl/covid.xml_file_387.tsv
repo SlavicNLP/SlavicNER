@@ -1,0 +1,23 @@
+0	3	RPA	RPA	LOC	GPE-Republic-of-South-Africa
+56	84	Republiki Południowej Afryki	Republika Południowej Afryki	LOC	GPE-Republic-of-South-Africa
+85	97	Zweli Mkhize	Zweli Mkhize	PER	PER-Zweli-Mkhize
+173	181	Covid-19	Covid-19	EVT	EVT-Covid-19
+214	217	RPA	RPA	LOC	GPE-Republic-of-South-Africa
+266	278	koronawirusa	koronawirus	EVT	EVT-Covid-19
+281	287	Mkhize	Mkhize	PER	PER-Zweli-Mkhize
+499	507	Covid-19	Covid-19	EVT	EVT-Covid-19
+515	523	Pfizerem	Pfizer	ORG	ORG-Pfizer
+525	532	Moderną	Moderna	ORG	ORG-Moderna
+534	545	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+548	563	Johnson&Johnson	Johnson&Johnson	ORG	ORG-Johnson-&-Johnson
+627	630	RPA	RPA	LOC	GPE-Republic-of-South-Africa
+655	658	WHO	WHO	ORG	ORG-World-Health-Organization
+659	664	COVAX	COVAX	PRO	PRO-Covax-initiative
+818	824	Mkhize	Mkhize	PER	PER-Zweli-Mkhize
+942	945	RPA	RPA	LOC	GPE-Republic-of-South-Africa
+1066	1078	koronawirusa	koronawirus	EVT	EVT-Covid-19
+1123	1140	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1202	1205	RPA	RPA	LOC	GPE-Republic-of-South-Africa
+1244	1247	RPA	RPA	LOC	GPE-Republic-of-South-Africa
+1290	1296	Afryki	Afryka	LOC	LOC-Africa
+1358	1366	Covid-19	Covid-19	EVT	EVT-Covid-19

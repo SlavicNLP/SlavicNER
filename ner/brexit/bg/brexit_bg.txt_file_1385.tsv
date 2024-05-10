@@ -1,0 +1,22 @@
+0	12	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+45	59	Великобритания	Великобритания	LOC	GPE-Great-Britain
+102	104	ЕС	ЕС	ORG	ORG-European-Union
+108	115	Брекзит	Брекзит	EVT	EVT-Brexit
+116	128	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+145	159	Великобритания	Великобритания	LOC	GPE-Great-Britain
+245	269	Съда на Европейския съюз	Съд на Европейския съюз	ORG	ORG-European-Court-of-Justice
+295	297	ЕС	ЕС	ORG	ORG-European-Union
+301	308	Брекзит	Брекзит	EVT	EVT-Brexit
+309	321	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+338	352	Великобритания	Великобритания	LOC	GPE-Great-Britain
+438	462	Съда на Европейския съюз	Съд на Европейския съюз	ORG	ORG-European-Court-of-Justice
+520	527	Ройтерс	Ройтерс	ORG	ORG-Reuters
+579	589	Португалия	Португалия	LOC	GPE-Portugal
+591	597	Барние	Барние	PER	PER-Michel-Barnier
+655	669	Великобритания	Великобритания	LOC	GPE-Great-Britain
+703	705	ЕС	ЕС	ORG	ORG-European-Union
+715	718	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+732	738	Лондон	Лондон	LOC	GPE-London
+759	766	Брекзит	Брекзит	EVT	EVT-Brexit
+822	824	ЕС	ЕС	ORG	ORG-European-Union
+833	840	Ройтерс	Ройтерс	ORG	ORG-Reuters

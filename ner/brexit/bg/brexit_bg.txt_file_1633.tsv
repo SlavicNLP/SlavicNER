@@ -1,0 +1,22 @@
+0	4	Ейре	Ейре	LOC	GPE-Ireland
+35	42	Брекзит	Брекзит	EVT	EVT-Brexit
+79	86	Брекзит	Брекзит	EVT	EVT-Brexit
+128	140	Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+178	191	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+204	221	Belfast Telegraph	Belfast Telegraph	PRO	PRO-Belfast-Telegraph
+375	382	Брюксел	Брюксел	LOC	GPE-Brussles
+385	391	Лондон	Лондон	LOC	GPE-London
+464	468	Ейре	Ейре	LOC	GPE-Ireland
+499	501	ЕС	ЕС	ORG	ORG-European-Union
+502	514	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+531	539	Варадкар	Варадкар	PER	PER-Leo-Varadkar
+615	622	Брекзит	Брекзит	EVT	EVT-Brexit
+638	654	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+668	685	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+741	747	Берлин	Берлин	LOC	GPE-Berlin
+763	771	Варадкар	Варадкар	PER	PER-Leo-Varadkar
+844	852	Германия	Германия	LOC	GPE-Germany
+897	911	Великобритания	Великобритания	LOC	GPE-Great-Britain
+981	983	ЕС	ЕС	ORG	ORG-European-Union
+989	996	Брекзит	Брекзит	EVT	EVT-Brexit
+1080	1082	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,41 @@
+61	67	Байдън	Байдън	PER	PER-Joe-Biden
+197	209	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+223	232	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+235	240	Пекин	Пекин	LOC	GPE-Beijing
+256	266	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+420	427	Ройтерс	Ройтерс	ORG	ORG-Reuters
+456	461	Тръмп	Тръмп	PER	PER-Donald-Trump
+544	549	Китай	Китай	LOC	GPE-China
+645	651	Байдън	Байдън	PER	PER-Joe-Biden
+697	702	Китай	Китай	LOC	GPE-China
+740	750	Фан Синдун	Фан Синдун	PER	PER-Fang-Xingdong
+754	790	Университета по комуникации на Джеян	Университет по комуникации на Джеян	ORG	ORG-Communication-University-of-Zhejiang
+817	833	Съединените щати	Съединени щати	LOC	GPE-USA
+931	934	Фан	Фан	PER	PER-Fang-Xingdong
+1036	1041	Китай	Китай	LOC	GPE-China
+1044	1047	САЩ	САЩ	LOC	GPE-USA
+1164	1183	Huawei Technologies	Huawei Technologies	ORG	ORG-Huawei
+1202	1208	TikTok	TikTok	PRO	PRO-TikTok
+1210	1219	ByteDance	ByteDance	ORG	ORG-ByteDance
+1223	1239	Tencent Holdings	Tencent Holdings	ORG	ORG-Tencent
+1400	1412	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1424	1433	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1624	1633	ByteDance	ByteDance	ORG	ORG-ByteDance
+1636	1642	Huawei	Huawei	ORG	ORG-Huawei
+1689	1701	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1704	1713	ByteDance	ByteDance	ORG	ORG-ByteDance
+1785	1792	Walmart	Walmart	ORG	ORG-Walmart
+1795	1801	Oracle	Oracle	ORG	ORG-Oracle
+1848	1854	TikTok	TikTok	PRO	PRO-TikTok
+1866	1871	Тръмп	Тръмп	PER	PER-Donald-Trump
+1904	1920	Съединените щати	Съединени щати	LOC	GPE-USA
+2037	2043	Huawei	Huawei	ORG	ORG-Huawei
+2194	2203	Jefferies	Jefferies	ORG	ORG-Jefferies
+2217	2222	Китай	Китай	LOC	GPE-China
+2281	2287	Байдън	Байдън	PER	PER-Joe-Biden
+2502	2508	Байдън	Байдън	PER	PER-Joe-Biden
+2563	2568	Тръмп	Тръмп	PER	PER-Donald-Trump
+2744	2749	Пекин	Пекин	LOC	GPE-Beijing
+3003	3008	Китай	Китай	LOC	GPE-China
+3011	3027	Съединените щати	Съединени щати	LOC	GPE-USA
+3369	3374	Тръмп	Тръмп	PER	PER-Donald-Trump

@@ -1,0 +1,39 @@
+3	9	Polacy	Polacy	PER	GPE-Poland
+18	20	UE	UE	ORG	ORG-European-Union
+66	73	Polaków	Polacy	PER	GPE-Poland
+123	127	Unii	Unia	ORG	ORG-European-Union
+316	322	Polski	Polska	LOC	GPE-Poland
+416	420	Unii	Unia	ORG	ORG-European-Union
+451	461	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+475	492	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+495	502	Niemiec	Niemcy	LOC	GPE-Germany
+559	566	Brexitu	Brexit	EVT	EVT-Brexit
+604	617	Europejczyków	Europejczycy	PER	LOC-Europe
+656	660	Unii	Unia	ORG	ORG-European-Union
+797	807	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+872	896	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+930	934	Unii	Unia	ORG	ORG-European-Union
+1062	1069	Brexitu	Brexit	EVT	EVT-Brexit
+1123	1138	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1166	1170	Unii	Unia	ORG	ORG-European-Union
+1197	1210	Europejczyków	Europejczycy	PER	LOC-Europe
+1244	1248	Unii	Unia	ORG	ORG-European-Union
+1322	1326	Unii	Unia	ORG	ORG-European-Union
+1411	1417	Polska	Polska	LOC	GPE-Poland
+1574	1578	Unii	Unia	ORG	ORG-European-Union
+1722	1728	Polsce	Polska	LOC	GPE-Poland
+1807	1813	Polsce	Polska	LOC	GPE-Poland
+2000	2006	Europy	Europa	LOC	LOC-Europe
+2050	2058	Brukseli	Bruksela	LOC	GPE-Brussles
+2135	2137	UE	UE	ORG	ORG-European-Union
+2193	2202	wspólnoty	Wspólnota	ORG	ORG-European-Union
+2230	2236	Polsce	Polska	LOC	GPE-Poland
+2327	2331	Unii	Unia	ORG	ORG-European-Union
+2369	2373	Unii	Unia	ORG	ORG-European-Union
+2404	2410	Polsce	Polska	LOC	GPE-Poland
+2500	2504	Unii	Unia	ORG	ORG-European-Union
+2636	2642	Polacy	Polacy	PER	GPE-Poland
+2969	2973	Unii	Unia	ORG	ORG-European-Union
+3022	3035	Europejczyków	Europejczycy	PER	LOC-Europe
+3063	3075	Ryana Heatha	Ryan Heath	PER	PER-Ryan-Heath
+3078	3086	POLITICO	Politico	PRO	PRO-Politico

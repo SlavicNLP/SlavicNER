@@ -1,0 +1,24 @@
+14	20	Mayové	Mayová	PER	PER-Theresa-May
+22	39	Britský parlament	Britský parlament	ORG	ORG-British-Parlament
+60	67	brexitu	brexit	EVT	EVT-Brexit
+195	209	Sněmovny lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+239	247	Británie	Británie	LOC	GPE-Great-Britain
+250	252	EU	EU	ORG	ORG-European-Union
+258	265	brexitu	brexit	EVT	EVT-Brexit
+294	308	konzervativcům	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+452	458	Mayové	Mayová	PER	PER-Theresa-May
+500	507	brexitu	brexit	EVT	EVT-Brexit
+567	574	Bruselu	Brusel	LOC	GPE-Brussles
+624	626	EU	EU	ORG	ORG-European-Union
+641	647	Mayové	Mayová	PER	PER-Theresa-May
+678	689	David Davis	David Davis	PER	PER-David-Davis
+806	809	BBC	BBC	PRO	PRO-BBC
+810	815	Davis	Davis	PER	PER-David-Davis
+887	907	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+923	925	EU	EU	ORG	ORG-European-Union
+1091	1108	Irskou republikou	Irská republika	LOC	GPE-Ireland
+1111	1126	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+1246	1248	EU	EU	ORG	ORG-European-Union
+1313	1320	brexitu	brexit	EVT	EVT-Brexit
+1367	1381	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+1414	1420	brexit	brexit	EVT	EVT-Brexit

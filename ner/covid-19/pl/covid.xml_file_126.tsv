@@ -1,0 +1,83 @@
+0	11	Koronawirus	koronawirus	EVT	EVT-Covid-19
+31	42	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+67	69	UE	UE	ORG	ORG-European-Union
+138	149	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+180	205	Uniwersytetem Oksfordzkim	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+217	243	Europejskiej Agencji Leków	Europejska Agencja Leków	ORG	ORG-EMA-European-Medicines-Agency
+245	248	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+290	307	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+337	340	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+391	403	koronawirusa	koronawirus	EVT	EVT-Covid-19
+438	455	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+458	465	Szwecji	Szwecja	LOC	GPE-Sweden
+500	511	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+578	595	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+671	682	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+784	810	Uniwersytetu Oksfordzkiego	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+935	950	Pfizer-BioNTech	Pfizer-BioNTech	ORG	ORG-Pfizer-BioNTech
+979	986	Moderna	Moderna	ORG	ORG-Moderna
+1169	1194	koronawirusowi SARS-CoV-2	koronawirus SARS-CoV-2	EVT	EVT-Covid-19
+1195	1210	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1222	1224	UE	UE	ORG	ORG-European-Union
+1307	1325	Komisję Europejską	Komisja Europejska	ORG	ORG-European-Commission
+1378	1389	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1392	1395	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+1430	1441	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1490	1493	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+1673	1676	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+1677	1689	Noel Wathion	Noel Wathion	PER	PER-Noel-Wathlon
+1741	1755	Het Nieuwsblad	Het Nieuwsblad	PRO	PRO-Het-Nieuwsblad
+1824	1835	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1858	1875	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2106	2113	Wathion	Wathion	PER	PER-Noel-Wathlon
+2207	2209	UE	UE	ORG	ORG-European-Union
+2236	2239	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+2252	2263	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2419	2436	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2438	2446	Brazylii	Brazylia	LOC	GPE-Brazil
+2452	2455	RPA	RPA	LOC	GPE-Republic-of-South-Africa
+2494	2497	USA	USA	LOC	GPE-USA
+2499	2506	Japonii	Japonia	LOC	GPE-Japan
+2508	2513	Rosji	Rosja	LOC	GPE-Russia
+2515	2520	Kenii	Kenia	LOC	GPE-Kenya
+2526	2536	Argentynie	Argentyna	LOC	GPE-Argentina
+2567	2570	EMA	EMA	LOC	ORG-EMA-European-Medicines-Agency
+2890	2893	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+2998	3013	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3257	3268	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+3332	3340	Włoszech	Włochy	LOC	GPE-Italy
+3345	3348	USA	USA	LOC	GPE-USA
+3393	3396	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+3429	3439	Amerykanie	Amerykanie	PER	GPE-USA
+3441	3479	Federalna Agencja ds. Żywności i Leków	Federalna Agencja ds. Żywności i Leków	ORG	ORG-Food-and-Drug-Administration-USA
+3509	3520	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+3542	3544	UE	UE	ORG	ORG-European-Union
+3608	3619	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+3641	3647	Włochy	Włochy	LOC	GPE-Italy
+3735	3743	Oksfordu	Oksford	LOC	GPE-Oxford
+3776	3814	laboratorium IRBM w Pomezii pod Rzymem	laboratorium IRBM w Pomezii pod Rzymem	ORG	ORG-IRBM-Italy
+3816	3822	Włochy	Włochy	LOC	GPE-Italy
+3872	3880	COVID-19	COVID-19	EVT	EVT-Covid-19
+3890	3897	Europie	Europa	LOC	LOC-Europe
+3899	3905	Włochy	Włochy	LOC	GPE-Italy
+3966	3968	UE	UE	ORG	ORG-European-Union
+3975	3977	KE	KE	ORG	ORG-European-Commission
+4022	4024	KE	KE	ORG	ORG-European-Commission
+4053	4064	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+4103	4105	UE	UE	ORG	ORG-European-Union
+4116	4131	Pfizer-BioNTech	Pfizer-BioNTech	ORG	ORG-Pfizer-BioNTech
+4141	4147	Rzymie	Rzym	LOC	GPE-Rome
+4206	4208	UE	UE	ORG	ORG-European-Union
+4301	4304	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+4401	4410	Niemczech	Niemcy	LOC	GPE-Germany
+4470	4472	KE	KE	ORG	ORG-European-Commission
+4621	4623	UE	UE	ORG	ORG-European-Union
+4685	4687	KE	KE	ORG	ORG-European-Commission
+4712	4715	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+4833	4848	Pfizer-BioNTech	Pfizer-BioNTech	ORG	ORG-Pfizer-BioNTech
+4850	4852	UE	UE	ORG	ORG-European-Union
+4915	4917	KE	KE	ORG	ORG-European-Commission
+4946	4948	UE	UE	ORG	ORG-European-Union
+5007	5022	Johnson&Johnson	Johnson&Johnson	ORG	ORG-Johnson-&-Johnson
+5060	5066	Sanofi	Sanofi	ORG	ORG-Sanofi
+5150	5157	CureVac	CureVac	ORG	ORG-CureVac

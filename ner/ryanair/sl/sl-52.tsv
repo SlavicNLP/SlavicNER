@@ -1,0 +1,28 @@
+0	7	Nemčija	Nemčija	LOC	GPE-Germany
+42	44	EU	EU	ORG	ORG-European-Union
+53	60	Ryanair	Ryanair	ORG	ORG-Ryanair
+127	134	REUTERS	REUTERS	ORG	ORG-Reuters
+138	145	Nemčiji	Nemčija	LOC	GPE-Germany
+278	299	krščanskih demokratov	Krščanski demokrati	ORG	ORG-Christlich-Demokratische-Union
+301	304	CDU	CDU	ORG	ORG-Christlich-Demokratische-Union
+308	315	Nemčiji	Nemčija	LOC	GPE-Germany
+422	440	Alexander Dobrindt	Alexander Dobrindt	PER	PER-Alexander-Dobrindt
+459	462	CDU	CDU	ORG	ORG-Christlich-Demokratische-Union
+570	574	Bild	Bild	ORG	ORG-Bild
+1127	1130	CDU	CDU	ORG	ORG-Christlich-Demokratische-Union
+1365	1372	Bruslja	Bruselj	LOC	GPE-Brussles
+1375	1381	London	London	LOC	GPE-London
+1386	1395	Barcelone	Barcelona	LOC	GPE-Barcelona
+1398	1404	Madrid	Madrid	LOC	GPE-Madrid
+1412	1416	Rima	Rim	LOC	GPE-Rome
+1419	1425	Milano	Milano	LOC	GPE-Milan
+1625	1632	Bruslja	Bruselj	LOC	GPE-Brussles
+1635	1641	London	London	LOC	GPE-London
+1646	1655	Barcelone	Barcelona	LOC	GPE-Barcelona
+1658	1664	Madrid	Madrid	LOC	GPE-Madrid
+1672	1676	Rima	Rim	LOC	GPE-Rome
+1679	1685	Milano	Milano	LOC	GPE-Milan
+1704	1711	REUTERS	REUTERS	ORG	ORG-Reuters
+1901	1908	Ryanair	Ryanair	ORG	ORG-Ryanair
+2136	2165	nemškega letalskega združenja	nemško letalsko združenje	ORG	ORG-BDL-German-Aviation-Association
+2167	2194	German Aviation Association	German Aviation Association	ORG	ORG-BDL-German-Aviation-Association

@@ -1,0 +1,33 @@
+17	19	PE	PE	ORG	ORG-European-Parliament
+90	110	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+152	167	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+175	177	UE	UE	ORG	ORG-European-Union
+253	276	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+311	326	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+334	336	UE	UE	ORG	ORG-European-Union
+368	376	Brexicie	Brexit	EVT	EVT-Brexit
+428	445	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+497	499	UE	UE	ORG	ORG-European-Union
+567	577	Parlamentu	Parlament	ORG	ORG-European-Parliament
+649	669	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+789	797	brexicie	Brexit	EVT	EVT-Brexit
+885	900	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+919	921	UE	UE	ORG	ORG-European-Union
+1016	1023	Brexitu	Brexit	EVT	EVT-Brexit
+1041	1058	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1197	1210	Danuta Hübner	Danuta Hübner	PER	PER-Danuta-Hübner
+1227	1254	Europejskiej Partii Ludowej	Europejska Partia Ludowa	ORG	ORG-EPP-European-Peoples-Party
+1276	1300	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+1451	1453	UE	UE	ORG	ORG-European-Union
+1505	1525	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+1676	1680	Izby	Izba	ORG	ORG-EPP-European-Peoples-Party
+1765	1784	Pedro Silva Pereira	Pedro Silva Pereira	PER	PER-Pedro-Silva-Pereira
+1804	1828	Socjalistów i Demokratów	Socjaliści i Demokraci	ORG	ORG-SD-Progressive-Alliance-of-Socialists-and-Democrats
+1882	1906	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+2047	2067	traktatem lizbońskim	Traktat lizboński	PRO	PRO-Treaty-of-Lisbon
+2166	2176	Parlamentu	Parlament	ORG	ORG-European-Parliament
+2295	2315	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+2439	2462	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+2529	2531	UE	UE	ORG	ORG-European-Union
+2551	2559	Brukseli	Bruksela	LOC	GPE-Brussles
+2626	2648	Dzienniku Urzędowym UE	Dziennik Urzędowy UE	PRO	PRO-Official-Journal-of-the-European-Union

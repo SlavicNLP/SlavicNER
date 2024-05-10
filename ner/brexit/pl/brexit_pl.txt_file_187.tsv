@@ -1,0 +1,41 @@
+0	6	Farage	Farage	PER	PER-Nigel-Farage
+66	73	brexitu	Brexit	EVT	EVT-Brexit
+202	208	Farage	Farage	PER	PER-Nigel-Farage
+221	233	Channel Five	Channel Five	PRO	PRO-Channel-5
+304	306	UE	UE	ORG	ORG-European-Union
+433	441	Farage'a	Farage	PER	PER-Nigel-Farage
+498	517	brytyjski parlament	Brytyjski Parlament	ORG	ORG-British-Parlament
+533	540	Londynu	Londyn	LOC	GPE-London
+543	551	Brukselą	Bruksela	LOC	GPE-Brussles
+632	641	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+643	654	Aaron Banks	Aaron Banks	PER	PER-Arron-Banks
+745	752	brexitu	Brexit	EVT	EVT-Brexit
+811	818	brexitu	Brexit	EVT	EVT-Brexit
+973	980	brexitu	Brexit	EVT	EVT-Brexit
+1084	1091	Nigelem	Nigel	PER	PER-Nigel-Farage
+1143	1150	brexitu	Brexit	EVT	EVT-Brexit
+1250	1259	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1275	1287	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1317	1324	Nigelem	Nigel	PER	PER-Nigel-Farage
+1339	1348	Twitterze	Twitter	PRO	PRO-Twitter
+1366	1376	Nick Clegg	Nick Clegg	PER	PER-Nick-Clegg
+1389	1411	Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+1421	1433	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1434	1447	Andrew Adonis	Andrew Adonis	PER	PER-Andrew-Adonis
+1469	1475	Farage	Farage	PER	PER-Nigel-Farage
+1583	1602	Liberalni Demokraci	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+1700	1709	Tom Brake	Tom Brake	PER	PER-Tom-Brake
+1724	1734	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+1737	1749	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+1889	1900	Theresy May	Theresa May	PER	PER-Theresa-May
+2026	2032	Brexit	Brexit	EVT	EVT-Brexit
+2052	2063	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+2121	2138	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2306	2321	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2350	2367	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2404	2413	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+2460	2462	UE	UE	ORG	ORG-European-Union
+2491	2503	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2553	2561	Guardian	Guardian	PRO	PRO-The-Guardian
+2699	2705	Londyn	Londyn	LOC	GPE-London
+2708	2716	Brukselę	Bruksela	LOC	GPE-Brussles

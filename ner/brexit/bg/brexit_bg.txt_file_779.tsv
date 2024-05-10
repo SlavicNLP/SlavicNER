@@ -1,0 +1,22 @@
+0	14	Пиер Московиси	Пиер Московиси	PER	PER-Pierre-Moscovici
+27	41	Великобритания	Великобритания	LOC	GPE-Great-Britain
+92	94	ЕС	ЕС	ORG	ORG-European-Union
+107	123	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+143	157	Великобритания	Великобритания	LOC	GPE-Great-Britain
+303	317	Пиер Московиси	Пиер Московиси	PER	PER-Pierre-Moscovici
+352	366	Великобритания	Великобритания	LOC	GPE-Great-Britain
+441	448	Брекзит	Брекзит	EVT	EVT-Brexit
+632	648	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+650	670	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+711	717	Европа	Европа	LOC	LOC-Europe
+727	736	Московиси	Московиси	PER	PER-Pierre-Moscovici
+737	744	Брекзит	Брекзит	EVT	EVT-Brexit
+772	778	Лондон	Лондон	LOC	GPE-London
+788	795	Брюксел	Брюксел	LOC	GPE-Brussles
+979	991	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1027	1034	Брекзит	Брекзит	EVT	EVT-Brexit
+1077	1087	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1124	1132	Ай Ти Ви	Ай Ти Ви	PRO	PRO-ITV
+1293	1303	британците	британци	PER	GPE-Great-Britain
+1430	1447	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+1653	1657	ТРУД	Труд	PRO	PRO-Trud

@@ -1,0 +1,43 @@
+0	6	Polacy	Polacy	PER	GPE-Poland
+31	39	brexicie	Brexit	EVT	EVT-Brexit
+76	84	Goerlitz	Goerlitz	LOC	GPE-Goerlitz
+86	95	Budziszyn	Budziszyn	LOC	GPE-Bautzen
+101	107	Drezno	Drezno	LOC	GPE-Dresden
+180	187	Polaków	Polacy	PER	GPE-Poland
+199	213	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+231	248	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+267	273	Niemcy	Niemcy	LOC	GPE-Germany
+346	350	Odry	Odra	LOC	LOC-Oder
+388	406	Instytutu Goethego	Instytut Goethego	ORG	ORG-Goethe-Institut
+482	489	Polaków	Polacy	PER	GPE-Poland
+626	633	Katowic	Katowice	LOC	GPE-Katowice
+639	648	Zgorzelca	Zgorzelec	LOC	GPE-Goerlitz
+657	671	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+747	753	brexit	Brexit	EVT	EVT-Brexit
+991	997	Polacy	Polacy	PER	GPE-Poland
+1143	1149	Polski	Polska	LOC	GPE-Poland
+1208	1214	Polsce	Polska	LOC	GPE-Poland
+1225	1232	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1250	1264	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+1282	1289	Polaków	Polacy	PER	GPE-Poland
+1346	1354	Goerlitz	Goerlitz	LOC	GPE-Goerlitz
+1357	1365	Saksonii	Saksonia	LOC	GPE-Saxony
+1370	1374	Odrą	Odra	LOC	LOC-Oder
+1460	1485	Saksońskiego Urzędu Pracy	Saksoński Urząd Pracy	ORG	ORG-Labour-Office-Saxony
+1616	1624	Goerlitz	Goerlitz	LOC	GPE-Goerlitz
+1627	1636	Budziszyn	Budziszyn	LOC	GPE-Bautzen
+1670	1677	Dreźnie	Drezno	LOC	GPE-Dresden
+1700	1707	Polaków	Polacy	PER	GPE-Poland
+1710	1718	Saksonii	Saksonia	LOC	GPE-Saxony
+1946	1953	Polaków	Polacy	PER	GPE-Poland
+1985	1996	Birkenstock	Birkenstock	ORG	ORG-Birkenstock
+1999	2007	Goerlitz	Goerlitz	LOC	GPE-Goerlitz
+2023	2034	Maja-Moebel	Maja-Moebel	ORG	ORG-Maja-Moebel
+2037	2047	Wittchenau	Wittchenau	LOC	GPE-Wittichenau
+2078	2084	Borbet	Borbet	ORG	ORG-Borbet
+2087	2098	Kodersdorfu	Kodersdorf	LOC	GPE-Kodersdorf
+2137	2143	ULT AG	ULT AG	ORG	ORG-ULT-AG
+2146	2152	Loebau	Loebau	LOC	GPE-Löbau
+2203	2217	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+2219	2233	Marion Seifert	Marion Seifert	PER	PER-Marion-Seifert
+2266	2274	Goerlitz	Goerlitz	LOC	GPE-Goerlitz

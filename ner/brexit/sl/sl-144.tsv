@@ -1,0 +1,62 @@
+14	20	brexit	brexit	EVT	EVT-Brexit
+43	51	Singapur	Singapur	LOC	GPE-Singapore
+87	104	korporacije Dyson	korporacija Dyson	ORG	ORG-Dyson-Corporation
+170	176	brexit	brexit	EVT	EVT-Brexit
+207	218	Therese May	Theresa May	PER	PER-Theresa-May
+225	234	Britanijo	Britanija	LOC	GPE-Great-Britain
+245	247	EU	EU	ORG	ORG-European-Union
+461	469	brexitom	brexit	EVT	EVT-Brexit
+501	510	Britanije	Britanija	LOC	GPE-Great-Britain
+513	521	Singapur	Singapur	LOC	GPE-Singapore
+564	572	brexitom	brexit	EVT	EVT-Brexit
+697	703	brexit	brexit	EVT	EVT-Brexit
+768	778	Singapurju	Singapur	LOC	GPE-Singapore
+782	787	Dyson	Dyson	PER	PER-James-Dyson
+843	852	Britaniji	Britanija	LOC	GPE-Great-Britain
+930	943	David Cameron	David Cameron	PER	PER-David-Cameron
+967	973	Jamesa	James	PER	PER-James-Dyson
+1020	1029	Britaniji	Britanija	LOC	GPE-Great-Britain
+1109	1128	Liberalni demokrati	Liberalni demokrati	ORG	ORG-Liberal-Democrats-UK
+1198	1205	brexita	brexit	EVT	EVT-Brexit
+1208	1219	James Dyson	James Dyson	PER	PER-James-Dyson
+1270	1279	Britaniji	Britanija	LOC	GPE-Great-Britain
+1332	1341	Britaniji	Britanija	LOC	GPE-Great-Britain
+1344	1352	Dysonova	Dyson	PER	PER-James-Dyson
+1398	1406	Singapur	Singapur	LOC	GPE-Singapore
+1454	1456	EU	EU	ORG	ORG-European-Union
+1560	1567	brexita	brexit	EVT	EVT-Brexit
+1582	1588	Otočan	Otočan	PER	GPE-Great-Britain
+1589	1602	Jim Ratcliffe	Jim Ratcliffe	PER	PER-Jim-Ratcliffe
+1641	1646	Ineos	Ineos	ORG	ORG-Ineos
+1722	1728	Monako	Monako	LOC	GPE-Monaco
+1737	1744	brexita	brexit	EVT	EVT-Brexit
+1771	1775	Sony	Sony	ORG	ORG-Sony
+1804	1813	Britanije	Britanija	LOC	GPE-Great-Britain
+1923	1929	brexit	brexit	EVT	EVT-Brexit
+1964	1971	brexita	brexit	EVT	EVT-Brexit
+2145	2147	EU	EU	ORG	ORG-European-Union
+2182	2187	Otoku	otok	LOC	GPE-Great-Britain
+2277	2286	Cameronov	Cameron	PER	PER-David-Cameron
+2306	2320	George Osborne	George Osborne	PER	PER-George-Osborne
+2388	2390	EU	EU	ORG	ORG-European-Union
+2562	2569	brexita	brexit	EVT	EVT-Brexit
+2646	2648	EU	EU	ORG	ORG-European-Union
+2674	2685	Therese May	Theresa May	PER	PER-Theresa-May
+2745	2760	Jacob Rees-Mogg	Jacob Rees-Mogg	PER	PER-Jacob-Rees-Mogg
+2811	2817	Mayeva	May	PER	PER-Theresa-May
+2909	2918	Rees-Mogg	Rees-Mogg	PER	PER-Jacob-Rees-Mogg
+3011	3013	EU	EU	ORG	ORG-European-Union
+3102	3108	brexit	brexit	EVT	EVT-Brexit
+3176	3178	EU	EU	ORG	ORG-European-Union
+3263	3276	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+3280	3285	Irsko	Irsko	LOC	GPE-Ireland
+3305	3307	EU	EU	ORG	ORG-European-Union
+3311	3317	brexit	brexit	EVT	EVT-Brexit
+3318	3332	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+3490	3496	brexit	brexit	EVT	EVT-Brexit
+3500	3509	Britaniji	Britanija	LOC	GPE-Great-Britain
+3553	3560	brexita	brexit	EVT	EVT-Brexit
+3562	3568	Mayeva	May	PER	PER-Theresa-May
+3688	3695	brexita	brexit	EVT	EVT-Brexit
+3857	3859	EU	EU	ORG	ORG-European-Union
+3890	3898	brexitom	brexit	EVT	EVT-Brexit

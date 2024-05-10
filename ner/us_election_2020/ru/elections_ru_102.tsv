@@ -1,0 +1,98 @@
+62	72	ТАСС-ДОСЬЕ	ТАСС-ДОСЬЕ	ORG	ORG-TASS-Agency
+95	98	США	США	LOC	GPE-USA
+121	127	выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+152	156	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+226	229	США	США	LOC	GPE-USA
+311	327	конституцией США	конституция США	PRO	PRO-The-USA-Constitution
+403	414	конституции	конституция	PRO	PRO-The-USA-Constitution
+462	465	США	США	LOC	GPE-USA
+811	826	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+829	851	Республиканской партий	Республиканская партия	ORG	ORG-Republican-Party-USA
+1267	1287	Прогрессивной партии	Прогрессивная партия	ORG	ORG-Progressive-Party
+1305	1318	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+1319	1334	Теодор Рузвельт	Теодор Рузвельт	PER	PER-Theodore-Roosevelt
+1552	1562	техасскому	 техасский	LOC	GPE-Texas
+1575	1585	Россу Перо	Росс Перо	PER	PER-Ross-Perot
+1708	1711	США	США	LOC	GPE-USA
+2008	2042	Закону о дне президентских выборов	Закон о дне президентских выборов	PRO	PRO-Presidential-Election-Day-Act
+2165	2168	США	США	LOC	GPE-USA
+2470	2479	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+2592	2601	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+2612	2621	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+2671	2697	Федеральный округ Колумбия	Федеральный округ Колумбия	LOC	GPE-District-of-Columbia
+2714	2723	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2746	2755	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+2805	2816	конституции	конституция	PRO	PRO-The-USA-Constitution
+2858	2877	Коллегию выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+3339	3342	Мэн	Мэн	LOC	GPE-Maine
+3345	3353	Небраска	Небраска	LOC	GPE-Nebraska
+3959	3962	США	США	LOC	GPE-USA
+4233	4255	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+4358	4368	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4375	4388	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+4442	4455	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+4916	4937	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+4939	4962	нижняя палата Конгресса	нижняя палата Конгресса	ORG	ORG-House-of-Representatives(USA)
+5043	5049	Палате	Палата	ORG	ORG-United-States-House-of-Representatives
+5181	5184	США	США	LOC	GPE-USA
+5230	5246	Томас Джефферсон	Томас Джефферсон	PER	PER-Thomas-Jefferson
+5293	5310	Джон Куинси Адамс	Джон Куинси Адамс	PER	PER-John-Adams
+5348	5351	США	США	LOC	GPE-USA
+5518	5535	Джон Куинси Адамс	Джон Куинси Адамс	PER	PER-John-Adams
+5551	5565	Ратерфорд Хейс	Ратерфорд Хейс	PER	PER-Rutherford-Hayes
+5593	5611	Бенджамин Гаррисон	Бенджамин Гаррисон	PER	PER-Benjamin-Harrison
+5639	5649	Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+5672	5685	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+5730	5751	президентских выборов	президентские выборы	EVT	EVT-2000-United-States-Presidential-Election
+5837	5844	Флорида	Флорида	LOC	GPE-Florida
+5850	5860	Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+5911	5922	Альберт Гор	Альберт Гор	PER	PER-Al-Gore
+5993	6010	Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+6172	6180	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+6183	6193	Калифорния	Калифорния	LOC	GPE-California
+6263	6277	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+6383	6394	демократами	демократы	ORG	ORG-Democratic-Party-USA
+6433	6438	Техас	Техас	LOC	GPE-Texas
+6440	6449	Миссисипи	Миссисипи	LOC	GPE-Mississippi
+6451	6458	Алабама	Алабама	LOC	GPE-USA-Alabama
+6460	6474	Южная Каролина	Южная Каролина	LOC	GPE-South-Carolina-US-State
+6828	6835	Флорида	Флорида	LOC	GPE-Florida
+6837	6854	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+6856	6868	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+6872	6877	Огайо	Огайо	LOC	GPE-Ohio
+6974	6988	округ Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+7202	7209	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+7269	7280	американцев	американцы	PER	GPE-USA
+7294	7297	США	США	LOC	GPE-USA
+7440	7450	американцы	американцы	PER	GPE-USA
+7635	7654	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+7718	7727	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+7940	7951	конституции	конституция	PRO	PRO-The-USA-Constitution
+8313	8321	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+8333	8336	США	США	LOC	GPE-USA
+8383	8437	Закон о преемственности президентской власти 1947 года	Закон о преемственности президентской власти 1947 года	PRO	PRO-The-United-States-law-«On-succession-of-the-President»
+8506	8527	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+8888	8914	Political Action Committee	Political Action Committee	PRO	PRO-Political-Action-Committee
+8917	8920	PAC	PAC	PRO	PRO-Political-Action-Committee
+8922	8930	SuperPAC	SuperPAC	PRO	PRO-SuperPAC
+8943	8955	американской	американская	LOC	GPE-USA
+8983	9014	Центр за ответственную политику	Центр за ответственную политику	PRO	PRO-Center-for-Responsive-Politics
+9016	9046	Center for Responsive Politics	Center for Responsive Politics	PRO	PRO-Center-for-Responsive-Politics
+9071	9092	президентских выборов	президентские выборы	EVT	EVT-2012-United-States-Presidential-Election
+9239	9245	выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+9297	9309	Американская	Американская	LOC	GPE-USA
+9651	9666	Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+9671	9686	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+9959	9962	США	США	LOC	GPE-USA
+9994	10015	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+10090	10109	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+10123	10135	американские	американские	LOC	GPE-USA
+10171	10240	"""Соглашение о присоединении к национальному всенародному голосованию"""	"""Соглашение о присоединении к национальному всенародному голосованию"""	PRO	PRO-National-Popular-Vote-Interstate-Compact
+10242	10282	National Popular Vote Interstate Compact	National Popular Vote Interstate Compact	PRO	PRO-National-Popular-Vote-Interstate-Compact
+10288	10300	"""План Амара"""	"""План Амара"""	PRO	PRO-Amar-Plan
+10302	10311	Amar Plan	Amar Plan	PRO	PRO-Amar-Plan
+10607	10626	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+10710	10724	округ Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+10814	10831	Института Гэллапа	Институт Гэллапа	ORG	ORG-American-Institute-of-Public-Opinion
+10910	10913	США	США	LOC	GPE-USA
+10929	10948	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College

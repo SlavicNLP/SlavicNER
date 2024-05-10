@@ -1,0 +1,41 @@
+0	11	London City	London City	LOC	GPE-Greater-London
+18	24	brexit	brexit	EVT	EVT-Brexit
+73	81	Británie	Británie	LOC	GPE-Great-Britain
+84	97	Evropské unie	Evropská unie	ORG	ORG-European-Union
+167	174	Londýně	Londýn	LOC	GPE-London
+214	220	Evropy	Evropa	LOC	LOC-Europe
+275	279	City	City	LOC	LOC-City-of-London
+386	393	Reuters	Reuters	ORG	ORG-Reuters
+403	410	Britové	Britové	PER	GPE-Great-Britain
+444	446	EU	EU	ORG	ORG-European-Union
+531	538	Londýna	Londýn	LOC	GPE-London
+577	583	Evropě	Evropa	LOC	LOC-Europe
+631	638	Londýna	Londýn	LOC	GPE-London
+656	662	Evropy	Evropa	LOC	LOC-Europe
+742	750	Británií	Británie	LOC	GPE-Great-Britain
+753	755	EU	EU	ORG	ORG-European-Union
+770	777	brexitu	brexit	EVT	EVT-Brexit
+868	874	Evropě	Evropa	LOC	LOC-Europe
+960	967	Londýně	Londýn	LOC	GPE-London
+999	1007	JPMorgan	JPMorgan	ORG	ORG-JP-Morgan
+1009	1023	Morgan Stanley	Morgan Stanley	ORG	ORG-Morgan-Stanley
+1025	1034	Citigroup	Citigroup	ORG	ORG-Citygroup
+1036	1065	Bank of America Merrill Lynch	Bank of America Merrill Lynch	ORG	ORG-AIG-American-International-Group
+1068	1081	Goldman Sachs	Goldman Sachs	ORG	ORG-Goldman-Sachs
+1109	1117	Británii	Británie	LOC	GPE-Great-Britain
+1121	1128	Dublinu	Dublin	LOC	GPE-Dublin
+1130	1140	Frankfurtu	Frankfurt	LOC	GPE-Frankfurt-am-Main
+1143	1149	Paříži	Paříž	LOC	GPE-Paris
+1224	1231	Londýnu	Londýn	LOC	GPE-London
+1268	1276	Británii	Británie	LOC	GPE-Great-Britain
+1390	1405	Morgan McKinley	Morgan McKinley	ORG	ORG-Morgan-Stanley
+1406	1418	Darren Burns	Darren Burns	PER	PER-Darren-Burns
+1450	1458	Británii	Británie	LOC	GPE-Great-Britain
+1541	1555	Anne Murphyová	Anne Murphyová	PER	PER-Anne-Murphy
+1571	1587	Odgers Berndtson	Odgers Berndtson	ORG	ORG-Odgers-Berndtson
+1755	1758	USA	USA	LOC	GPE-USA
+1918	1924	Londýn	Londýn	LOC	GPE-London
+1972	1978	Evropě	Evropa	LOC	LOC-Europe
+1993	1999	brexit	brexit	EVT	EVT-Brexit
+2230	2238	Británií	Británie	LOC	GPE-Great-Britain
+2241	2249	Bruselem	Brusel	LOC	GPE-Brussles

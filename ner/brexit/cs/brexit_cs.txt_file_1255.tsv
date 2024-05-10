@@ -1,0 +1,25 @@
+0	2	EU	EU	ORG	ORG-European-Union
+23	31	Británie	Británie	LOC	GPE-Great-Britain
+56	63	brexitu	brexit	EVT	EVT-Brexit
+91	105	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+121	123	EU	EU	ORG	ORG-European-Union
+200	215	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+274	288	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+291	306	Velkou Británií	Velká Británie	LOC	GPE-Great-Britain
+310	317	brexitu	brexit	EVT	EVT-Brexit
+375	383	Británie	Británie	LOC	GPE-Great-Britain
+398	413	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+482	484	EU	EU	ORG	ORG-European-Union
+487	495	Británií	Británie	LOC	GPE-Great-Britain
+535	542	brexitu	brexit	EVT	EVT-Brexit
+805	823	Michelu Barnierovi	Michel Barnier	PER	PER-Michel-Barnier
+870	872	EU	EU	ORG	ORG-European-Union
+915	923	Británie	Británie	LOC	GPE-Great-Britain
+977	984	brexitu	brexit	EVT	EVT-Brexit
+1162	1170	Británie	Británie	LOC	GPE-Great-Britain
+1180	1182	EU	EU	ORG	ORG-European-Union
+1205	1211	Londýn	Londýn	LOC	GPE-London
+1373	1383	Barnierovi	Barnier	PER	PER-Michel-Barnier
+1456	1464	Británie	Británie	LOC	GPE-Great-Britain
+1576	1578	EU	EU	ORG	ORG-European-Union
+1595	1597	EU	EU	ORG	ORG-European-Union

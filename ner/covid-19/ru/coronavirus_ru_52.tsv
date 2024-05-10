@@ -1,0 +1,67 @@
+31	36	ковид	ковид	EVT	EVT-Covid-19
+66	82	Алексей Калмыков	Алексей Калмыков	PER	PER-Алексей-Осин
+85	93	Би-би-си	Би-би-си	PRO	PRO-BBC
+167	180	коронавирусом	коронавирус	EVT	EVT-Covid-19
+675	702	Международный валютный фонд	Международный валютный фонд	ORG	ORG-International-Monetary-Fund
+1291	1304	американского	американский	PER	GPE-USA
+1317	1320	ФРС	ФРС	ORG	ORG-Federal-Reserve-System
+1321	1334	Джером Пауэлл	Джер Пауэлл	PER	PER-Jer-Powell
+1596	1602	Европе	Европа	LOC	LOC-Europe
+1618	1621	США	США	LOC	GPE-USA
+1876	1886	ирландский	ирландский	PER	GPE-Irish
+1897	1907	Филип Лейн	Филип Лейн	PER	PER-Philip-Lane
+1929	1944	европейского ЦБ	европейский ЦБ	ORG	ORG-ECB
+2011	2014	МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+2015	2035	Кристалина Георгиева	Кристалина Георгиева	PER	PER-Kristalina-Georgieva
+2062	2081	"""Большой двадцатки"""	Большая двадцатка	ORG	ORG-G20
+2331	2334	МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+2716	2740	Европейского центробанка	Европейский центробанк	ORG	ORG-ECB
+2741	2754	Фабио Панетта	Фабио Панетта	PER	PER-Fabio-Panetta
+2784	2796	американский	американский	PER	GPE-USA
+2807	2821	Джеймс Баллард	Джеймс Баллард	PER	PER-James-Ballard
+2876	2879	США	США	LOC	GPE-USA
+4210	4216	Европе	Европа	LOC	LOC-Europe
+4256	4259	США	США	LOC	GPE-USA
+4266	4273	Америку	Америка	LOC	GPE-USA
+4276	4284	Евросоюз	Евросоюз	ORG	ORG-European-Union
+4523	4528	Китай	Китай	LOC	GPE-China
+4765	4768	МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+4842	4853	европейских	европейские	PER	GPE-Europe
+5018	5021	США	США	LOC	GPE-USA
+5100	5111	американцев	американцы	PER	GPE-USA
+5178	5197	Bloomberg Economics	Bloomberg Economics	ORG	ORG-Academy-of-Economics-Svishtov
+5542	5554	коронавируса	коронавирус	EVT	EVT-Covid-19
+5608	5614	Европе	Европа	LOC	LOC-Europe
+5868	5914	Международная ассоциация воздушного транспорта	Международная ассоциация воздушного транспорта	ORG	ORG-IATA-International-Air-Transport-Association
+5916	5920	IATA	IATA	ORG	ORG-IATA-International-Air-Transport-Association
+6518	6531	Старого Света	Старый Свет	LOC	LOC-Europe
+6548	6560	американской	американская	PER	GPE-USA
+6584	6590	Европе	Европа	LOC	LOC-Europe
+6624	6627	США	США	LOC	GPE-USA
+6658	6660	ЕС	ЕС	ORG	ORG-European-Union
+7125	7137	коронавируса	коронавирус	EVT	EVT-Covid-19
+7498	7506	Германия	Германия	LOC	GPE-Germany
+7582	7589	Испания	Испания	LOC	GPE-Spain
+7594	7600	Греция	Греция	LOC	GPE-Greece
+7701	7707	Европе	Европа	LOC	LOC-Europe
+7778	7791	коронакризиса	коронакризис	EVT	EVT-coronacrisis
+7898	7904	Западу	Запада	LOC	ORG-University-Rehabilitation-Institute-Republic-of-Slovenia-Soča
+8385	8392	Америке	Америка	LOC	GPE-USA
+8441	8450	конгрессе	конгресс	ORG	ORG-United-States-Congress
+8482	8493	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+8514	8520	Европе	Европа	LOC	LOC-Europe
+8580	8587	Польшей	Польша	LOC	GPE-Poland
+8590	8598	Венгрией	Венгрия	LOC	GPE-Hungary
+8746	8757	коронавирус	коронавирус	EVT	EVT-Covid-19
+8972	8986	европейский ЦБ	европейский ЦБ	ORG	ORG-ECB
+8992	8999	Америке	Америка	LOC	GPE-USA
+9034	9040	Европе	Европа	LOC	LOC-Europe
+9089	9092	США	США	LOC	GPE-USA
+9186	9196	американцы	американцы	PER	GPE-USA
+9275	9292	День благодарения	День благодарения	EVT	EVT-Thanksgiving-Day
+9454	9467	Джером Пауэлл	Джер Пауэлл	PER	PER-Jer-Powell
+9803	9813	Филип Лейн	Филип Лейн	PER	PER-Philip-Lane
+9817	9820	ЕЦБ	ЕЦБ	ORG	ORG-European-Central-Bank
+9882	9890	Covid-19	Covid-19	EVT	EVT-Covid-19
+10128	10141	Фабио Панетта	Фабио Панетта	PER	PER-Fabio-Panetta
+10295	10302	Панетта	Панетта	PER	PER-Fabio-Panetta

@@ -1,0 +1,132 @@
+1	7	Polska	Polska	LOC	GPE-Poland
+23	35	Airbusa A380	Airbus A380	PRO	PRO-Airbus-A380
+47	58	Airbus A380	Airbus A380	PRO	PRO-Airbus-A380
+129	137	Warszawy	Warszawa	LOC	GPE-Warsaw
+141	147	Polski	Polska	LOC	GPE-Poland
+179	192	Thierry Aucoc	Thierry Aucoc	PER	PER-Thierry-Aucoc
+223	229	Europę	Europa	LOC	LOC-Europe
+232	237	Rosję	Rosja	LOC	GPE-Russia
+240	248	Emirates	Emirates	ORG	ORG-Emirates
+263	286	Business Insider Polska	Business Insider Polska	PRO	PRO-Business-Insider-Polska
+411	417	Brexit	Brexit	EVT	EVT-Brexit
+504	536	Zjednoczonych Emiratów Arabskich	Zjednoczone Emiraty Arabskie	LOC	GPE-UEA-United-Arab-Emirates
+594	607	Thierry Aucoc	Thierry Aucoc	PER	PER-Thierry-Aucoc
+718	726	Warszawą	Warszawa	LOC	GPE-Warsaw
+735	768	Centralnego Portu Komunikacyjnego	Centralny Port Komunikacyjny	LOC	LOC-CPK-Central-Communication-Port
+769	782	Marcin Walków	Marcin Walków	PER	PER-Marcin-Walków
+784	807	Business Insider Polska	Business Insider Polska	PRO	PRO-Business-Insider-Polska
+860	873	Thierry Aucoc	Thierry Aucoc	PER	PER-Thierry-Aucoc
+908	914	Europe	Europe	LOC	LOC-Europe
+919	937	Russian Federation	Russian Federation	LOC	GPE-Russia
+938	946	Emirates	Emirates	ORG	ORG-Emirates
+1105	1110	Chiny	Chiny	LOC	GPE-China
+2687	2699	Airbusa A380	Airbus A380	PRO	PRO-Airbus-A380
+2704	2715	Boeinga 777	Boeing 777	PRO	PRO-Boeing-777
+2752	2760	Emirates	Emirates	ORG	ORG-Emirates
+2896	2900	A380	A380	PRO	PRO-Airbus-A380
+3160	3169	Norwegian	Norwegian	ORG	ORG-Norwegian
+3184	3195	Dreamlinery	Dreamlinery	PRO	PRO-Dreamliner
+3221	3229	Emirates	Emirates	ORG	ORG-Emirates
+3390	3398	Emirates	Emirates	ORG	ORG-Emirates
+4538	4556	Amerykę Południową	Ameryka Południowa	LOC	LOC-North-America
+4994	5002	Bangkoku	Bangkok	LOC	GPE-Bangkok
+5448	5459	Boeinga 777	Boeing 777	PRO	PRO-Boeing-777
+5463	5475	Airbusa A380	Airbus A380	PRO	PRO-Airbus-A380
+5604	5612	Warszawą	Warszawa	LOC	GPE-Warsaw
+5615	5622	Dubajem	Dubaj	LOC	GPE-Dubai
+5650	5654	B777	B777	PRO	PRO-Boeing-777
+5658	5662	A380	A380	PRO	PRO-Airbus-A380
+5692	5696	A380	A380	PRO	PRO-Airbus-A380
+5882	5886	B777	B777	PRO	PRO-Boeing-777
+6061	6067	Polsce	Polska	LOC	GPE-Poland
+6097	6103	Polacy	Polacy	PER	GPE-Poland
+6124	6130	Dubaju	Dubaj	LOC	GPE-Dubai
+6157	6163	Polski	Polska	LOC	GPE-Poland
+6220	6229	Chińczycy	Chińczycy	PER	GPE-China
+6231	6245	Australijczycy	Australijczycy	PER	GPE-Australia
+6248	6258	Japończycy	Japończycy	PER	GPE-Japan
+6277	6285	Warszawy	Warszawa	LOC	GPE-Warsaw
+6292	6297	Dubaj	Dubaj	LOC	GPE-Dubai
+6305	6309	A380	A380	PRO	PRO-Airbus-A380
+6430	6434	A380	A380	PRO	PRO-Airbus-A380
+6721	6725	A380	A380	PRO	PRO-Airbus-A380
+6888	6904	Lotnisko Chopina	Lotnisko Chopina	LOC	LOC-Warsaw-Chopin-Airport
+6929	6933	A380	A380	PRO	PRO-Airbus-A380
+7056	7084	Centralny Port Komunikacyjny	Centralny Port Komunikacyjny	LOC	LOC-CPK-Central-Communication-Port
+7116	7124	Warszawy	Warszawa	LOC	GPE-Warsaw
+7157	7165	Emirates	Emirates	ORG	ORG-Emirates
+7434	7439	Dubaj	Dubaj	LOC	GPE-Dubai
+7488	7515	Dubai International Airport	Dubai International Airport	LOC	LOC-Dubai-International-Airport
+7638	7647	Hongkongu	Hongkong	LOC	GPE-Hong-Kong
+7652	7660	Stambule	Stambuł	LOC	GPE-Istanbul
+7670	7678	Warszawy	Warszawa	LOC	GPE-Warsaw
+7681	7687	Polski	Polska	LOC	GPE-Poland
+8297	8304	Europie	Europa	LOC	LOC-Europe
+8310	8316	Brexit	Brexit	EVT	EVT-Brexit
+8360	8366	Brexit	Brexit	EVT	EVT-Brexit
+8438	8455	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+8488	8495	Londynu	Londyn	LOC	GPE-London
+8528	8545	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+8661	8669	Brexicie	Brexit	EVT	EVT-Brexit
+8896	8902	Brexit	Brexit	EVT	EVT-Brexit
+9014	9021	Europie	Europa	LOC	LOC-Europe
+9180	9187	PLL LOT	PLL LOT	ORG	ORG-PLL-LOT
+9302	9305	LOT	LOT	ORG	ORG-PLL-LOT
+9401	9410	Niemczech	Niemcy	LOC	GPE-Germany
+9416	9423	Francji	Francja	LOC	GPE-France
+9482	9492	Lufthansie	Lufthansa	ORG	ORG-Lufthansa
+9495	9505	Air France	Air France	ORG	ORG-Air-France
+9546	9553	Europie	Europa	LOC	LOC-Europe
+9599	9607	Flydubai	Flydubai	ORG	ORG-Flydubai
+9737	9744	JetBlue	JetBlue	ORG	ORG-JetBlue
+9747	9750	USA	USA	LOC	GPE-USA
+9788	9795	Krakowa	Kraków	LOC	GPE-Kraków
+9799	9805	Dubaju	Dubaj	LOC	GPE-Dubai
+9830	9835	Rosji	Rosja	LOC	GPE-Russia
+9864	9874	Jugosławii	Jugosławia	LOC	GPE-Yugoslavia
+9891	9899	flydubai	Flydubai	ORG	ORG-Flydubai
+9902	9910	Emirates	Emirates	ORG	ORG-Emirates
+9929	9936	Europie	Europa	LOC	LOC-Europe
+9939	9944	Praga	Praga	LOC	GPE-Prague
+9947	9953	Moskwa	Moskwa	LOC	GPE-Moscow
+10015	10023	flydubai	Flydubai	ORG	ORG-Flydubai
+10066	10072	Dubaju	Dubaj	LOC	GPE-Dubai
+10107	10111	B777	B777	PRO	PRO-Boeing-777
+10112	10120	Emirates	Emirates	ORG	ORG-Emirates
+10138	10142	B737	B737	PRO	PRO-Boeing-737
+10195	10199	A380	A380	PRO	PRO-Airbus-A380
+10232	10236	B777	B777	PRO	PRO-Boeing-777
+10307	10313	Dubaju	Dubaj	LOC	GPE-Dubai
+10339	10347	Brukseli	Bruksela	LOC	GPE-Brussles
+10350	10357	Genewie	Genewa	LOC	GPE-Geneva
+10442	10445	USA	USA	LOC	GPE-USA
+10456	10464	Emirates	Emirates	ORG	ORG-Emirates
+10490	10497	Tunezji	Tunezja	LOC	GPE-Tunisia
+10550	10558	Emirates	Emirates	ORG	ORG-Emirates
+10853	10861	Brukseli	Bruksela	LOC	GPE-Brussles
+11597	11606	Francuzem	Francuz	PER	GPE-France
+11645	11662	Bliskim Wschodzie	Bliski Wschód	LOC	LOC-Near-East
+11693	11699	Europę	Europa	LOC	LOC-Europe
+11702	11707	Rosję	Rosja	LOC	GPE-Russia
+11896	11903	Egipcie	Egipt	LOC	GPE-Egypt
+11905	11912	Zurychu	Zurych	LOC	GPE-Zürich
+11914	11921	Genewie	Genewa	LOC	GPE-Geneva
+11923	11930	Francji	Francja	LOC	GPE-France
+11932	11945	Johannesburgu	Johannesburg	LOC	GPE-Johannesburg
+11947	11959	Buenos Aires	Buenos Aires	LOC	GPE-Buenos-Aires
+11961	11972	Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+11983	11989	Dubaju	Dubaj	LOC	GPE-Dubai
+12402	12412	Emiratczyk	Emiratczyk	PER	GPE-UEA-United-Arab-Emirates
+12435	12440	Szkot	Szkot	PER	GPE-Scotland
+12448	12455	Niemiec	Niemiec	PER	GPE-Germany
+12457	12470	Indonezyjczyk	Indonezyjczyk	PER	GPE-Indonesia
+12472	12482	Brytyjczyk	Brytyjczyk	PER	GPE-Great-Britain
+12965	12973	Emirates	Emirates	ORG	ORG-Emirates
+13060	13068	Emirates	Emirates	ORG	ORG-Emirates
+13627	13635	Emirates	Emirates	ORG	ORG-Emirates
+13843	13854	Mały Książę	Mały Książę	PRO	PRO-The-Little-Prince
+13856	13888	Antoine’a de Saint- Exupéry ’ego	Antoine de Saint- Exupéry	PER	PER-Saint-George
+14076	14083	Exupéry	Exupéry	PER	PER-Antoine-de-Saint-Exupéry
+14150	14173	Odyseja kosmiczna 200 1	Odyseja kosmiczna 2001	PRO	PRO-title-2001-A-Space-Odyssey
+14270	14290	Les choses de la vie	Les choses de la vie	PRO	PRO-title-Les-choses-de-la-vie
+14299	14312	Okruchy życia	Okruchy życia	PRO	PRO-title-Les-choses-de-la-vie

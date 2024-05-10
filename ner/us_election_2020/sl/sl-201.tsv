@@ -1,0 +1,20 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+13	18	Trump	Trump	PER	PER-Donald-Trump
+26	34	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+44	53	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+88	95	Georgii	Georgie	LOC	GPE-Georgia-US-state
+97	104	Trumpov	Trumpov	PER	PER-Donald-Trump
+205	208	ZDA	ZDA	LOC	GPE-USA
+295	302	Georgia	Georgia	LOC	GPE-Georgia-US-state
+453	465	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+697	700	ZDA	ZDA	LOC	GPE-USA
+817	830	Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+890	893	ZDA	ZDA	LOC	GPE-USA
+1033	1042	Venezuele	Venezuela	LOC	GPE-Venezuela
+1044	1048	Kube	Kuba	LOC	GPE-Cuba
+1052	1060	Kitajske	Kitajska	LOC	GPE-China
+1073	1076	ZDA	ZDA	LOC	GPE-USA
+1107	1116	Venezuele	Venezuela	LOC	GPE-Venezuela
+1374	1383	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1509	1519	Giulianija	Giuliani	PER	PER-Rudy-Giuliani
+1924	1932	Giuliani	Giuliani	PER	PER-Rudy-Giuliani

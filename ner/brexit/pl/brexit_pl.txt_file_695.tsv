@@ -1,0 +1,38 @@
+33	39	Brexit	Brexit	EVT	EVT-Brexit
+97	114	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+117	119	UE	UE	ORG	ORG-European-Union
+200	215	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+253	255	UE	UE	ORG	ORG-European-Union
+434	449	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+474	476	UE	UE	ORG	ORG-European-Union
+485	491	Londyn	Londyn	LOC	GPE-London
+596	610	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+641	645	Unii	Unia	ORG	ORG-European-Union
+752	754	UK	UK	LOC	GPE-Great-Britain
+757	761	Unii	Unia	ORG	ORG-European-Union
+955	970	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1012	1014	UE	UE	ORG	ORG-European-Union
+1115	1117	UE	UE	ORG	ORG-European-Union
+1120	1137	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1337	1339	UE	UE	ORG	ORG-European-Union
+1341	1356	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1493	1497	Kerr	Kerr	PER	PER-John-Kerr
+1912	1919	Brexitu	Brexit	EVT	EVT-Brexit
+2038	2040	UE	UE	ORG	ORG-European-Union
+2043	2058	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2298	2300	UE	UE	ORG	ORG-European-Union
+2303	2318	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2437	2456	brytyjski parlament	Brytyjski Parlament	ORG	ORG-British-Parlament
+2530	2545	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2628	2631	USA	USA	LOC	GPE-USA
+2903	2909	Brexit	Brexit	EVT	EVT-Brexit
+3014	3029	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3159	3161	UE	UE	ORG	ORG-European-Union
+3260	3267	Torysów	Torysi	PER	ORG-Tories
+3286	3303	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3318	3320	UE	UE	ORG	ORG-European-Union
+3408	3423	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3553	3563	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+3579	3591	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+3697	3720	brytyjskiego parlamentu	Brytyjski Parlament	ORG	ORG-British-Parlament
+3754	3761	Wyspach	Wyspy	LOC	GPE-Great-Britain

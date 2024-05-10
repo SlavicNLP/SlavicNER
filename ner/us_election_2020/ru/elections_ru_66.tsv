@@ -1,0 +1,44 @@
+92	98	Байден	Байден	PER	PER-Joe-Biden
+163	169	Байден	Байден	PER	PER-Joe-Biden
+256	259	США	США	LOC	GPE-USA
+260	270	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+351	358	Гавайев	Гавайи	LOC	GPE-Hawaii
+360	371	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+386	395	ВАШИНГТОН	ВАШИНГТОН	LOC	GPE-WashingtonDC
+406	417	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+441	444	США	США	LOC	GPE-USA
+445	455	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+536	543	Гавайев	Гавайи	LOC	GPE-Hawaii
+545	554	Демократу	Демократ	ORG	ORG-Democratic-Party-USA
+615	630	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+738	744	Байден	Байден	PER	PER-Joe-Biden
+793	812	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1153	1165	американскую	американский	LOC	GPE-USA
+1175	1192	Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+1685	1695	сената CША	сената CША	ORG	ORG-United-States-Senate
+1724	1733	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1765	1783	Национальный архив	Национальный архив	ORG	ORG-NARA-National-Archives-and-Records-Administration
+1834	1856	Национальный архив США	Национальный архив США	ORG	ORG-NARA-National-Archives-and-Records-Administration
+2104	2107	США	США	LOC	GPE-USA
+2108	2118	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+2170	2193	Коллегия выборщиков США	Коллегия выборщиков США	ORG	ORG-United-States-Electoral-College
+2290	2299	ВАШИНГТОН	ВАШИНГТОН	LOC	GPE-WashingtonDC
+2310	2321	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+2345	2348	США	США	LOC	GPE-USA
+2349	2359	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+2440	2447	Гавайев	Гавайи	LOC	GPE-Hawaii
+2451	2460	Демократу	Демократ	ORG	ORG-Democratic-Party-USA
+2521	2536	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+2704	2717	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2735	2739	Пенс	Пенс	PER	PER-Mike-Pence
+2799	2804	Трамп	Трамп	PER	PER-Donald-Trump
+3027	3035	демократ	демократ	ORG	ORG-Democratic-Party-USA
+3051	3070	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+3414	3426	американскую	американский	LOC	GPE-USA
+3436	3453	Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+3952	3962	сената CША	сената CША	ORG	ORG-United-States-Senate
+3991	4000	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+4032	4050	Национальный архив	Национальный архив	ORG	ORG-NARA-National-Archives-and-Records-Administration
+4104	4126	Национальный архив США	Национальный архив США	ORG	ORG-NARA-National-Archives-and-Records-Administration
+4410	4515	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-RussiaToday
+4517	4537	МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today

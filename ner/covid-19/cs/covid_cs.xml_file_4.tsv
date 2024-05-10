@@ -1,0 +1,16 @@
+0	7	Britové	Britové	PER	GPE-Great-Britain
+32	43	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+81	95	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+159	169	koronaviru	koronavirus	EVT	EVT-Covid-19
+196	216	Oxfordská univerzita	Oxfordská univerzita	ORG	ORG-University-of-Oxford
+246	257	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+356	364	Británie	Británie	LOC	GPE-Great-Britain
+387	396	Argentina	Argentina	LOC	GPE-Argentina
+526	541	Velkou Británií	Velká Británie	LOC	GPE-Great-Britain
+638	658	Oxfordské univerzity	Oxfordská univerzita	ORG	ORG-University-of-Oxford
+807	818	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+837	849	Brian Pinker	Brian Pinker	PER	PER-Brian-Pinker
+866	881	Borise Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+952	957	Britů	Britové	PER	GPE-Great-Britain
+1222	1245	Princess Royal Hospital	Princess Royal Hospital	LOC	LOC-Princess-Royal-Hospital
+1246	1260	George Findlay	George Findlay	PER	PER-George-Findlay

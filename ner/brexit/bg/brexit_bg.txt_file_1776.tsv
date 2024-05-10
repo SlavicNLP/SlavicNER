@@ -1,0 +1,29 @@
+0	5	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+23	30	Брекзит	Брекзит	EVT	EVT-Brexit
+98	112	Великобритания	Великобритания	LOC	GPE-Great-Britain
+115	117	ЕС	ЕС	ORG	ORG-European-Union
+221	241	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+242	256	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+270	277	Ройтерс	Ройтерс	ORG	ORG-Reuters
+337	351	Великобритания	Великобритания	LOC	GPE-Great-Britain
+427	432	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+458	479	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+482	491	Страсбург	Страсбург	LOC	GPE-Strasbourg
+643	648	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+717	724	Брекзит	Брекзит	EVT	EVT-Brexit
+791	793	ЕК	ЕК	ORG	ORG-European-Commission
+804	810	Лондон	Лондон	LOC	GPE-London
+813	820	Брюксел	Брюксел	LOC	GPE-Brussles
+888	896	Ирландия	Ирландия	LOC	GPE-Ireland
+899	915	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+917	947	"Споразумението ""Добрият петък"""	Споразумение Добрият петък	PRO	PRO-GFA-Good-Friday-Agreement
+968	975	Белфаст	Белфаст	LOC	GPE-Belfast
+1091	1099	Ирландия	Ирландия	LOC	GPE-Ireland
+1208	1210	ЕС	ЕС	ORG	ORG-European-Union
+1214	1221	Брекзит	Брекзит	EVT	EVT-Brexit
+1222	1234	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+1246	1260	европарламента	европарламент	ORG	ORG-European-Parliament
+1265	1279	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1334	1336	ЕС	ЕС	ORG	ORG-European-Union
+1449	1451	ЕС	ЕС	ORG	ORG-European-Union
+1461	1467	Барние	Барние	PER	PER-Michel-Barnier

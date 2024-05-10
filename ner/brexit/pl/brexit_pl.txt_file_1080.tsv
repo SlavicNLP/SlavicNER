@@ -1,0 +1,33 @@
+0	6	Niemcy	Niemcy	PER	GPE-Germany
+17	25	brexicie	Brexit	EVT	EVT-Brexit
+75	92	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+95	97	UE	UE	ORG	ORG-European-Union
+325	337	Joachim Lang	Joachim Lang	PER	PER-Joachim-Lang
+341	371	Związku Niemieckiego Przemysłu	Związek Niemieckiego Przemysłu	ORG	ORG-BDI-Bundesverband-der-Deutschen-Industrie
+373	376	BDI	BDI	ORG	ORG-BDI-Bundesverband-der-Deutschen-Industrie
+572	576	Lang	Lang	PER	PER-Joachim-Lang
+593	595	DW	DW	PRO	PRO-Die-Welt
+685	691	brexit	Brexit	EVT	EVT-Brexit
+899	901	UE	UE	ORG	ORG-European-Union
+915	921	Niemcy	Niemcy	LOC	GPE-Germany
+940	945	Wyspy	Wyspy	LOC	GPE-Great-Britain
+999	1016	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1048	1063	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1112	1119	Niemiec	Niemcy	LOC	GPE-Germany
+1141	1146	Wyspy	Wyspy	LOC	GPE-Great-Britain
+1158	1164	Niemcy	Niemcy	LOC	GPE-Germany
+1234	1240	Londyn	Londyn	LOC	GPE-London
+1258	1278	Frankfurtu nad Menem	Frankfurt nad Menem	LOC	GPE-Frankfurt-am-Main
+1358	1366	Unilever	Unilever	ORG	ORG-Unilever
+1404	1421	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1450	1459	Rotterdam	Rotterdam	LOC	GPE-Rotterdam
+1530	1538	Londynie	Londyn	LOC	GPE-London
+1642	1649	brexitu	Brexit	EVT	EVT-Brexit
+1725	1741	Graeme Pitkethly	Graeme Pitkethly	PER	PER-Graeme-Pitkethly
+1750	1759	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1843	1849	Londyn	Londyn	LOC	GPE-London
+1864	1870	brexit	Brexit	EVT	EVT-Brexit
+2007	2015	brexitem	Brexit	EVT	EVT-Brexit
+2074	2085	Amsterdamie	Amsterdam	LOC	GPE-Amsterdam
+2090	2098	Londynie	Londyn	LOC	GPE-London
+2293	2302	Unilevera	Unilever	ORG	ORG-Unilever

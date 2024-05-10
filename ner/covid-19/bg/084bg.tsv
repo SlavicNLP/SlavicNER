@@ -1,0 +1,9 @@
+0	3	СЗО	СЗО	ORG	ORG-WHO
+131	134	СЗО	СЗО	ORG	ORG-WHO
+135	158	Тедрос Аданом Гебрейсус	Тедрос Аданом Гебрейсус	PER	PER-Tedros-Adhanom-Ghebreyesus
+518	526	COVID-19	COVID-19	EVT	EVT-Covid-19
+529	574	"""испанската"" грипна епидемия през 1918 година"	испанска грипна епидемия през 1918 година	EVT	EVT-Influenza-Pandemic-1918
+726	734	COVID-19	COVID-19	EVT	EVT-Covid-19
+786	816	Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+829	832	АФП	АФП	ORG	ORG-France-Presse
+981	1004	Тедрос Аданом Гебрейсус	Тедрос Аданом Гебрейсус	PER	PER-Tedros-Adhanom-Ghebreyesus

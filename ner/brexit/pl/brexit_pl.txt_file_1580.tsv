@@ -1,0 +1,38 @@
+0	6	Polacy	Polacy	PER	GPE-Poland
+18	35	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+67	71	MPiT	MPiT	ORG	ORG-MPiT
+165	171	Polski	Polska	LOC	GPE-Poland
+247	253	Polski	Polska	LOC	GPE-Poland
+257	274	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+312	321	Emilewicz	Emilewicz	PER	PER-Jadwiga-Emilewicz
+335	350	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+395	401	Polacy	Polacy	PER	GPE-Poland
+404	421	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+512	527	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+676	693	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1044	1053	Emilewicz	Emilewicz	PER	PER-Jadwiga-Emilewicz
+1082	1089	Brexitu	Brexit	EVT	EVT-Brexit
+1158	1173	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1176	1191	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1319	1334	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1340	1342	KE	KE	ORG	ORG-European-Commission
+1350	1356	Polska	Polska	LOC	GPE-Poland
+1591	1600	Emilewicz	Emilewicz	PER	PER-Jadwiga-Emilewicz
+1656	1673	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1712	1720	Brexitem	Brexit	EVT	EVT-Brexit
+1809	1826	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1844	1850	Polska	Polska	LOC	GPE-Poland
+1922	1932	Greg Hands	Greg Hands	PER	PER-Greg-Hands
+1994	2000	Polski	Polska	LOC	GPE-Poland
+2088	2105	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2148	2157	Niemczech	Niemcy	LOC	GPE-Germany
+2158	2164	Polska	Polska	LOC	GPE-Poland
+2210	2227	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2284	2290	Polska	Polska	LOC	GPE-Poland
+2386	2391	Hands	Hands	PER	PER-Greg-Hands
+2419	2437	ambasadę brytyjską	Ambasada Brytyjska	ORG	ORG-British-Embassy
+2443	2488	Ministerstwo Przedsiębiorczości i Technologii	Ministerstwo Przedsiębiorczości i Technologii	ORG	ORG-MPiT
+2767	2770	GUS	GUS	ORG	ORG-GUS-Poland
+2799	2816	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3053	3070	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3140	3155	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain

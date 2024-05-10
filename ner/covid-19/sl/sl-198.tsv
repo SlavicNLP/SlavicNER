@@ -1,0 +1,51 @@
+0	12	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+14	22	covid-19	covid-19	EVT	EVT-Covid-19
+33	47	Boba Woodwarda	Bob Woodward	PER	PER-Bob-Woodward
+126	140	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+280	294	Bobu Woodwardu	Bob Woodward	PER	PER-Bob-Woodward
+320	323	Bes	Bes	PRO	PRO-Rage-(Bob-Woodward)
+413	432	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+522	532	Trumpovega	Trump	PER	PER-Donald-Trump
+597	606	Bele hiše	Bela hiša	ORG	ORG-White-House
+820	828	Woodward	Woodward	PER	PER-Bob-Woodward
+984	993	Woodwarda	Woodward	PER	PER-Bob-Woodward
+1026	1031	Obami	Obama	PER	PER-Barack-Obama
+1035	1040	Bushu	Bush	PER	PER-George-Bush-Jr
+1078	1084	Trumpu	Trump	PER	PER-Donald-Trump
+1158	1163	Biden	Biden	PER	PER-Joe-Biden
+1165	1173	Trumpovo	Trump	PER	PER-Donald-Trump
+1211	1216	Trump	Trump	PER	PER-Donald-Trump
+1233	1242	Woodwardu	Woodward	PER	PER-Bob-Woodward
+1256	1272	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+1427	1436	Trumpovih	Trump	PER	PER-Donald-Trump
+1462	1465	ZDA	ZDA	LOC	GPE-USA
+1484	1500	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+1545	1550	Trump	Trump	PER	PER-Donald-Trump
+1551	1560	Woodwardu	Woodward	PER	PER-Bob-Woodward
+1806	1812	Trumpa	Trump	PER	PER-Donald-Trump
+1885	1894	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2006	2044	medicinske fakultete univerze Columbia	medicinska fakulteta univerze Columbia	ORG	ORG-Columbia-Uniersity-Vagelos-College-of-Physicians-&-Surgeons
+2088	2093	Trump	Trump	PER	PER-Donald-Trump
+2233	2238	Trump	Trump	PER	PER-Donald-Trump
+2244	2253	Beli hiši	Bela hiša	LOC	LOC-White-House
+2296	2304	Woodward	Woodward	PER	PER-Bob-Woodward
+2382	2387	Trump	Trump	PER	PER-Donald-Trump
+2467	2476	Woodwardu	Woodward	PER	PER-Bob-Woodward
+2763	2782	Pew Research centra	Pew Research center	ORG	ORG-Pew-research-center
+2836	2844	Woodward	Woodward	PER	PER-Bob-Woodward
+2916	2919	Kim	Kim	PER	PER-Kim-Jong-Un
+3044	3049	Trump	Trump	PER	PER-Donald-Trump
+3078	3089	Kim Jong Un	Kim Jong Un	PER	PER-Kim-Jong-Un
+3313	3316	Kim	Kim	PER	PER-Kim-Jong-Un
+3323	3329	Trumpu	Trump	PER	PER-Donald-Trump
+3357	3367	Singapurju	Singapur	LOC	GPE-Singapore
+3380	3383	CNN	CNN	PRO	PRO-CNN
+3411	3416	Trump	Trump	PER	PER-Donald-Trump
+3420	3429	Woodwardu	Woodward	PER	PER-Bob-Woodward
+3451	3454	Kim	Kim	PER	PER-Kim-Jong-Un
+3557	3560	Cia	Cia	ORG	ORG-CIA-Central-Intelligence-Agency
+3592	3606	Severne Koreje	Severne Koreje	LOC	GPE-North-Korea
+3631	3639	Woodward	Woodward	PER	PER-Bob-Woodward
+3647	3653	Trumpa	Trump	PER	PER-Donald-Trump
+3806	3811	Trump	Trump	PER	PER-Donald-Trump
+3834	3843	Woodwarda	Woodward	PER	PER-Bob-Woodward

@@ -1,0 +1,20 @@
+0	13	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+32	38	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+50	64	Великобритания	Великобритания	LOC	GPE-Great-Britain
+76	78	ЕС	ЕС	ORG	ORG-European-Union
+91	97	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+101	108	Брекзит	Брекзит	EVT	EVT-Brexit
+121	141	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+155	171	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+273	285	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+335	342	Джонсън	Джонсън	PER	PER-Boris-Johnson
+410	430	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+468	470	ЕС	ЕС	ORG	ORG-European-Union
+480	486	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+520	534	Великобритания	Великобритания	LOC	GPE-Great-Britain
+537	553	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+559	566	Брекзит	Брекзит	EVT	EVT-Brexit
+661	664	САЩ	САЩ	LOC	GPE-USA
+667	672	Китай	Китай	LOC	GPE-China
+700	714	Великобритания	Великобритания	LOC	GPE-Great-Britain
+807	809	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,13 @@
+0	12	The Guardian	The Guardian	PRO	PRO-The-Guardian
+49	56	Брекзит	Брекзит	EVT	EVT-Brexit
+75	81	Лондон	Лондон	LOC	GPE-London
+105	119	Великобритания	Великобритания	LOC	GPE-Great-Britain
+120	132	Джереми Хънт	Джереми Хънт	PER	PER-Jeremy-Hunt
+178	185	Брекзит	Брекзит	EVT	EVT-Brexit
+225	237	The Guardian	The Guardian	PRO	PRO-The-Guardian
+316	318	ЕС	ЕС	ORG	ORG-European-Union
+324	338	Великобритания	Великобритания	LOC	GPE-Great-Britain
+390	397	Брекзит	Брекзит	EVT	EVT-Brexit
+548	594	Националната здравна система на Великобритания	Национална здравна система на Великобритания	ORG	ORG-National-Health-Service-UK
+744	759	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+898	927	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

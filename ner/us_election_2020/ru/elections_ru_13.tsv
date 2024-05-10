@@ -1,0 +1,86 @@
+28	31	США	США	LOC	GPE-USA
+85	88	США	США	LOC	GPE-USA
+189	200	Кларк Гейбл	Кларк Гейбл	PER	PER-Clark-Gable
+249	258	Голливуда	Голливуд	ORG	ORG-Hollywood
+320	337	«Трудный мужчина»	«Трудный мужчина»	PRO	PRO-It's-Tough-Being-a-Man
+339	354	«Сан-Франциско»	«Сан-Франциско»	PRO	PRO-San-Francisco
+356	385	«Это случилось однажды ночью»	«Это случилось однажды ночью»	PRO	PRO-It-Happened-One-Night
+388	406	«Унесённые ветром»	«Унесённые ветром»	PRO	PRO-Gone-with-the-Wind
+419	425	Гейбла	Гейбла	PER	PER-Clark-Gable
+443	450	«Оскар»	«Оскар»	PRO	PRO-The-Oscars
+477	490	«Аллее славы»	«Аллея славы»	LOC	GPE-Hollywood-Walk-of-Fame
+583	597	«Неприкаянные»	«Неприкаянные»	PRO	PRO-The-Misfits
+603	609	Мьянме	Мьянме	LOC	GPE-Myanmar
+711	714	МИД	МИД	ORG	ORG-Foreign-Office
+715	729	Аун Сан Су Чжи	Аун Сан Су Чжи	PER	PER-Aung-San-Suu-Kyi
+742	751	Вин Мьина	Вин Мьина	PER	PER-Михаил-Виноградов
+818	851	«Национальная лига за демократию»	«Национальная лига за демократию»	ORG	ORG-National-League-for-Democracy
+950	964	Мин Аун Хлаина	Мин Аун Хлаина	PER	PER-Min-Aung-Hlaing
+1187	1190	НЛД	НЛД	ORG	ORG-National-League-for-Democracy
+1202	1216	Аун Сан Су Чжи	Аун Сан Су Чжи	PER	PER-Aung-San-Suu-Kyi
+1331	1345	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+1370	1395	Фонда борьбы с коррупцией	Фонд борьбы с коррупцией	ORG	PRO-Anti-Corruption-Foundation
+1399	1402	США	США	LOC	GPE-USA
+1425	1431	России	Россия	LOC	GPE-Russia
+1445	1452	Украины	Украина	LOC	GPE-Ukraine
+1453	1471	Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+1515	1518	США	США	LOC	GPE-USA
+1561	1570	Капитолии	Капитолии	LOC	LOC-United-States-Capitol
+1602	1605	США	США	LOC	GPE-USA
+1870	1883	конгресса США	конгресс США	ORG	ORG-United-States-Congress
+1907	1909	RT	RT	PRO	PRO-RT-Russia-Today
+1929	1940	Белого дома	Белый дом	ORG	ORG-The-White-House
+1941	1951	Джен Псаки	Джен Псаки	PER	PER-Jen-Psaki
+1965	1968	США	США	LOC	GPE-USA
+1993	1999	Мьянме	Мьянме	LOC	GPE-Myanmar
+2077	2084	Украина	Украина	LOC	GPE-Ukraine
+2152	2160	Донбасса	Донбасс	LOC	LOC-Donbass
+2225	2232	Украины	Украина	LOC	GPE-Ukraine
+2280	2283	ЛНР	ЛНР	LOC	GPE-Luhansk-People's-Republic
+2286	2289	ДНР	ДНР	LOC	LOC-Donbass
+2417	2427	украинский	украинский	LOC	GPE-Ukraine
+2489	2491	RT	RT	PRO	PRO-RT-Russia-Today
+2514	2521	Украины	Украина	LOC	GPE-Ukraine
+2563	2568	Киева	Киев	LOC	GPE-Kiev
+2770	2773	США	США	LOC	GPE-USA
+2887	2895	COVID-19	COVID-19	EVT	EVT-Covid-19
+2919	2933	Российский МИД	Российский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+2971	2974	США	США	LOC	GPE-USA
+2975	2990	Энтони Блинкена	Энтони Блинкена	PER	PER-Antony-Blinken
+3005	3023	Соединённых Штатов	Соединённых Штатов	LOC	GPE-USA
+3053	3059	России	Россия	LOC	GPE-Russia
+3123	3131	Facebook	Facebook	PRO	PRO-Facebook
+3146	3152	России	Россия	LOC	GPE-Russia
+3155	3158	США	США	LOC	GPE-USA
+3159	3173	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+3176	3186	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3363	3377	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+3435	3438	США	США	LOC	GPE-USA
+3439	3450	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3500	3511	Афганистане	Афганистан	LOC	GPE-Afghanistan
+3542	3545	МИД	МИД	ORG	ORG-Foreign-Office
+3549	3555	Россия	Россия	LOC	GPE-Russia
+3605	3608	США	США	LOC	GPE-USA
+3683	3693	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+3795	3809	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+3824	3844	«Вашингтон Кэпиталз»	«Вашингтон Кэпиталз»	ORG	ORG-Washington-Capitals
+3845	3860	Никлас Бекстрём	Никлас Бекстрём	PER	PER-Nicklas-Backstrom
+3919	3938	Александра Овечкина	Александра Овечкина	PER	Александра Филиппенко
+3970	3997	Национальной хоккейной лиги	Национальная хоккейная лига	ORG	ORG-National-Hockey-League
+4000	4015	«Бостон Брюинз»	«Бостон Брюинз»	ORG	ORG-Boston-Bruins
+4038	4114	Договора о сокращении и ограничении стратегических наступательных вооружений	Договор о сокращении и ограничении стратегических наступательных вооружений	PRO	PRO-Strategic-Arms-Reduction-Treaty
+4116	4120	ДСНВ	ДСНВ	PRO	PRO-New-START
+4189	4195	России	Россия	LOC	GPE-Russia
+4196	4212	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+4276	4290	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+4318	4334	Совета Федерации	Совет Федерации	ORG	ORG-Council-of-Federation-Russia
+4358	4375	Владимир Джабаров	Владимир Джабаров	PER	PER-Vladimir-Jabarov
+4415	4439	Фонд борьбы с коррупцией	Фонд борьбы с коррупцией	ORG	PRO-Anti-Corruption-Foundation
+4460	4463	США	США	LOC	GPE-USA
+4464	4475	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+4586	4592	России	Россия	LOC	GPE-Russia
+4593	4609	Владимиру Путину	Владимир Путин	PER	PER-Vladimir-Putin
+4630	4636	rt.com	rt.com	PRO	PRO-rt.com
+4740	4754	Симоньян М. С.	Симоньян М. С.	PER	PER-Margarita-Simonyan
+4779	4785	Москва	Москва	LOC	GPE-Moscow
+4787	4800	Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street

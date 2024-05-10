@@ -1,0 +1,26 @@
+43	49	brexit	brexit	EVT	EVT-Brexit
+62	68	Mayová	Mayová	PER	PER-Theresa-May
+88	102	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+130	134	Číny	Čína	LOC	GPE-China
+234	242	Británii	Británie	LOC	GPE-Great-Britain
+273	275	EU	EU	ORG	ORG-European-Union
+284	290	brexit	brexit	EVT	EVT-Brexit
+355	362	Reuters	Reuters	ORG	ORG-Reuters
+364	370	Mayová	Mayová	PER	PER-Theresa-May
+413	417	Číny	Čína	LOC	GPE-China
+470	485	Si Ťin-pchingem	Si Ťin-pching	PER	PER-Xi-Jinping
+564	570	Mayová	Mayová	PER	PER-Theresa-May
+619	639	Konzervativní strany	Konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+688	695	brexitu	brexit	EVT	EVT-Brexit
+903	909	Mayová	Mayová	PER	PER-Theresa-May
+968	972	Číny	Čína	LOC	GPE-China
+1002	1009	brexitu	brexit	EVT	EVT-Brexit
+1247	1251	Číny	Čína	LOC	GPE-China
+1267	1274	Reuters	Reuters	ORG	ORG-Reuters
+1289	1297	Británii	Británie	LOC	GPE-Great-Britain
+1539	1545	Komise	Komise	ORG	ORG-European-Commission
+1604	1610	Mayové	Mayová	PER	PER-Theresa-May
+1755	1768	konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+1800	1806	Mayová	Mayová	PER	PER-Theresa-May
+1814	1822	Japonsku	Japonsko	LOC	GPE-Japan
+1873	1877	Číně	Čína	LOC	GPE-China

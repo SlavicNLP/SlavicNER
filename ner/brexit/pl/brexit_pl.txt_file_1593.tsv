@@ -1,0 +1,14 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+22	39	Jaguar Land Rover	Jaguar Land Rover	ORG	ORG-Jaguar-Land-Rover
+58	75	Jaguar Land Rover	Jaguar Land Rover	ORG	ORG-Jaguar-Land-Rover
+118	124	Anglii	Anglia	LOC	GPE-England
+210	217	brexitu	Brexit	EVT	EVT-Brexit
+303	311	Solihull	Solihull	LOC	GPE-Solihull
+314	329	Castle Bromwich	Castle Bromwich	LOC	GPE-Castle-Bromwich
+342	348	Anglii	Anglia	LOC	GPE-England
+721	729	Solihull	Solihull	LOC	GPE-Solihull
+879	887	Halewood	Halewood	LOC	GPE-Halewood
+925	933	brexitem	Brexit	EVT	EVT-Brexit
+1032	1039	Jaguara	Jaguar	ORG	ORG-Jaguar-Land-Rover
+1082	1093	Land Rovera	Land Rover	ORG	ORG-Jaguar-Land-Rover
+1109	1118	wyspiarze	Wyspiarze	PER	GPE-Great-Britain

@@ -1,0 +1,20 @@
+0	7	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+14	20	brexit	brexit	EVT	EVT-Brexit
+43	50	Ryanair	Ryanair	ORG	ORG-Ryanair
+87	93	brexit	brexit	EVT	EVT-Brexit
+103	116	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+119	136	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+193	200	Ryanair	Ryanair	ORG	ORG-Ryanair
+324	339	Michael O'Leary	Michael O'Leary	PER	PER-Michael-O'Leary
+364	371	Reuters	Reuters	ORG	ORG-Reuters
+502	509	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+512	520	Berlinie	Berlin	LOC	GPE-Berlin
+594	601	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+726	743	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+746	763	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+865	871	Bremie	Bremie	LOC	GPE-Bremen
+874	879	Weeze	Weeze	LOC	GPE-Weeze
+909	918	Niemczech	Niemcy	LOC	GPE-Germany
+974	981	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+983	990	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+1029	1036	Ryanair	Ryanair	ORG	ORG-Ryanair

@@ -1,0 +1,39 @@
+80	86	Polski	Polska	LOC	GPE-Poland
+111	129	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+204	206	UE	UE	ORG	ORG-European-Union
+242	244	KE	KE	ORG	ORG-European-Commission
+403	405	UE	UE	ORG	ORG-European-Union
+473	479	Polski	Polska	LOC	GPE-Poland
+482	484	KE	KE	ORG	ORG-European-Commission
+576	578	UE	UE	ORG	ORG-European-Union
+614	634	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+750	752	KE	KE	ORG	ORG-European-Commission
+774	777	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+778	785	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+914	916	KE	KE	ORG	ORG-European-Commission
+1029	1037	Brukseli	Bruksela	LOC	GPE-Brussles
+1256	1258	KE	KE	ORG	ORG-European-Commission
+1321	1323	UE	UE	ORG	ORG-European-Union
+1353	1357	Unii	Unia	ORG	ORG-European-Union
+1566	1574	Brexitem	Brexit	EVT	EVT-Brexit
+1657	1663	Brexit	Brexit	EVT	EVT-Brexit
+1713	1715	KE	KE	ORG	ORG-European-Commission
+1753	1755	UE	UE	ORG	ORG-European-Union
+1801	1818	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1892	1894	UE	UE	ORG	ORG-European-Union
+1902	1904	KE	KE	ORG	ORG-European-Commission
+2033	2035	KE	KE	ORG	ORG-European-Commission
+2116	2122	Polski	Polska	LOC	GPE-Poland
+2341	2348	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+2423	2425	UE	UE	ORG	ORG-European-Union
+2535	2543	Brukseli	Bruksela	LOC	GPE-Brussles
+2549	2552	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+2553	2570	Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+2673	2675	UE	UE	ORG	ORG-European-Union
+2813	2816	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2817	2819	KE	KE	ORG	ORG-European-Commission
+3000	3017	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3020	3022	UE	UE	ORG	ORG-European-Union
+3103	3105	KE	KE	ORG	ORG-European-Commission
+3127	3134	Brexitu	Brexit	EVT	EVT-Brexit
+3156	3158	UE	UE	ORG	ORG-European-Union

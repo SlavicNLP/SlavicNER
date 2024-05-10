@@ -1,0 +1,34 @@
+0	13	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+14	17	США	США	LOC	GPE-USA
+76	83	Байдена	Байден	PER	PER-Joe-Biden
+110	123	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+124	127	США	США	LOC	GPE-USA
+186	193	Байдена	Байден	PER	PER-Joe-Biden
+196	209	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+210	213	США	США	LOC	GPE-USA
+273	278	Техас	Техас	LOC	GPE-Texas
+312	325	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+374	385	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+481	487	Трампа	Трамп	PER	PER-Donald-Trump
+613	620	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+672	684	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+686	694	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+696	703	Мічиган	Мічиган	LOC	GPE-Michigan
+706	715	Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+732	738	Байден	Байден	PER	PER-Joe-Biden
+746	754	пандемію	пандемія	EVT	EVT-Covid-19
+958	963	Трамп	Трамп	PER	PER-Donald-Trump
+1080	1087	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1185	1191	Техасу	Техас	LOC	GPE-Texas
+1299	1312	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+1464	1479	Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+1629	1635	Трампа	Трамп	PER	PER-Donald-Trump
+1719	1725	Трампа	Трамп	PER	PER-Donald-Trump
+1745	1767	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1994	1999	Трамп	Трамп	PER	PER-Donald-Trump
+2043	2050	Байдена	Байден	PER	PER-Joe-Biden
+2091	2094	США	США	LOC	GPE-USA
+2119	2137	колегії виборників	колегія виборників	ORG	ORG-United-States-Electoral-College
+2149	2155	Байден	Байден	PER	PER-Joe-Biden
+2286	2293	Байдена	Байден	PER	PER-Joe-Biden
+2410	2417	Байдена	Байден	PER	PER-Joe-Biden

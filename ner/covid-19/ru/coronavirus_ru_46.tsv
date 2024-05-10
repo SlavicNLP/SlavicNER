@@ -1,0 +1,70 @@
+34	42	COVID-19	COVID-19	EVT	EVT-Covid-19
+50	56	Москве	Москва	LOC	GPE-Moscow
+81	87	Москва	Москва	LOC	GPE-Moscow
+200	208	москвичи	москвичи	PER	GPE-Moscow
+294	302	COVID-19	COVID-19	EVT	EVT-Covid-19
+1088	1098	московской	московская	PER	GPE-Moscow
+1194	1200	mos.ru	mos.ru	PRO	PRO-Mos-.ru
+1267	1273	mos.ru	mos.ru	PRO	PRO-Mos-.ru
+1436	1444	COVID-19	COVID-19	EVT	EVT-Covid-19
+2592	2604	коронавируса	коронавирус	EVT	EVT-Covid-19
+2621	2710	Национального исследовательского центра эпидемиологии и микробиологии имени Н. Ф. Гамалеи	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+2711	2727	Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+2749	2761	коронавируса	коронавирус	EVT	EVT-Covid-19
+2778	2867	Национального исследовательского центра эпидемиологии и микробиологии имени Н. Ф. Гамалеи	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+2868	2884	Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+2997	3008	российскими	российский	PER	GPE-Russia
+3055	3067	коронавируса	коронавирус	EVT	EVT-Covid-19
+3299	3308	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+3310	3323	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+3823	3836	коронавирусом	коронавирус	EVT	EVT-Covid-19
+3949	3960	российскими	российский	PER	GPE-Russia
+4007	4019	коронавируса	коронавирус	EVT	EVT-Covid-19
+4251	4260	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+4262	4275	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+4773	4786	коронавирусом	коронавирус	EVT	EVT-Covid-19
+5372	5380	COVID-19	COVID-19	EVT	EVT-Covid-19
+5715	5723	COVID-19	COVID-19	EVT	EVT-Covid-19
+5883	5891	COVID-19	COVID-19	EVT	EVT-Covid-19
+6525	6533	COVID-19	COVID-19	EVT	EVT-Covid-19
+6615	6621	Москве	Москва	LOC	GPE-Moscow
+7337	7340	ГУМ	ГУМ	ORG	ORG-State-Universal-Store-Moscow
+7347	7353	Москва	Москва	LOC	GPE-Moscow
+7355	7370	Красная площадь	Красная площадь	LOC	GPE-The-Red-Square
+7394	7400	«Депо»	Депо	ORG	ORG-Depo-Mall-Moscow
+7407	7413	Москва	Москва	LOC	GPE-Moscow
+7415	7427	улица Лесная	улица Лесная	LOC	LOC-Lesnaya-Street-Moscow
+7450	7465	«Геликон-опера»	Геликон-опера	LOC	LOC-Helikon-opera
+7472	7478	Москва	Москва	LOC	GPE-Moscow
+7535	7544	«Океания»	«Океания»	ORG	ORG-Оceania-Mall-Moscow
+7551	7557	Москва	Москва	LOC	GPE-Moscow
+7559	7579	Кутузовский проспект	Кутузовский проспект	LOC	LOC-Kutuzovsky-Prospekt
+7594	7601	«Город»	«Город»	ORG	ORG-Gorod-Mall-Moscow
+7608	7614	Москва	Москва	LOC	GPE-Moscow
+7616	7633	шоссе Энтузиастов	шоссе Энтузиастов	LOC	LOC-Enthusiasts-Highway-Moscow
+7658	7672	«АФИМОЛЛ Сити»	«АФИМОЛЛ Сити»	ORG	ORG-Afimall-City-Moscow
+7691	7706	«Мои документы»	«Мои документы»	ORG	ORG-Multifunctional-center
+7714	7720	Москва	Москва	LOC	GPE-Moscow
+7722	7744	Пресненская набережная	Пресненская набережная	LOC	LOC-Presnenskaya-Embankment-Moscow
+7772	7781	«Саларис»	«Саларис»	ORG	ORG-Salaris-Mall-Moscow
+7788	7794	Москва	Москва	LOC	GPE-Moscow
+7796	7816	поселение Московский	поселение Московский	LOC	LOC-Moskovsky-Settlement
+7818	7832	Киевское шоссе	Киевское шоссе	LOC	LOC-Kievskoe-Highway-Moscow
+7860	7867	«Л-153»	«Л-153»	ORG	ORG-L-153-Mall-Moscow
+7874	7880	Москва	Москва	LOC	GPE-Moscow
+7882	7898	Люблинская улица	Люблинская улица	LOC	LOC-Lublinskaya-Street-Moscow
+7928	7936	Columbus	Columbus	ORG	ORG-Columbus-Mall-Moscow
+7943	7949	Москва	Москва	LOC	GPE-Moscow
+7951	7971	Кировоградская улица	Кировоградская улица	LOC	LOC-Kirovogradskaya-Street
+7987	8000	«Калейдоскоп»	«Калейдоскоп»	ORG	ORG-Kaleidoskop-Mall-Moscow
+8007	8013	Москва	Москва	LOC	GPE-Moscow
+8015	8032	Сходненская улица	Сходненская улица	LOC	LOC-Skhodnenskaya-Street-Moscow
+8088	8094	Москве	Москва	LOC	GPE-Moscow
+8271	8281	московской	московский	PER	GPE-Moscow
+8565	8573	COVID-19	COVID-19	EVT	EVT-Covid-19
+8964	8975	«Спутник V»	«Спутник V»	PRO	PRO-Sputnik-V
+9155	9166	коронавирус	коронавирус	EVT	EVT-Covid-19
+9350	9358	COVID-19	COVID-19	EVT	EVT-Covid-19
+9453	9461	COVID-19	COVID-19	EVT	EVT-Covid-19
+9617	9625	москвичи	москвичи	PER	GPE-Moscow
+9928	9936	COVID-19	COVID-19	EVT	EVT-Covid-19

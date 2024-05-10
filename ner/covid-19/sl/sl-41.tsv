@@ -1,0 +1,28 @@
+13	22	covidu-19	covid-19	EVT	EVT-Covid-19
+131	134	S&P	S&P	PRO	PRO-S&P-500-Index
+413	422	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+504	510	Pfizer	Pfizer	ORG	ORG-Pfizer
+514	522	BioNTech	BioNTech	ORG	ORG-BioNTech
+597	610	koronavirusom	koronavirus	EVT	EVT-Covid-19
+1142	1148	Nasdaq	Nasdaq	PRO	PRO-NASDAQ
+1321	1324	ZDA	ZDA	LOC	GPE-USA
+1363	1372	covida-19	covid-19	EVT	EVT-Covid-19
+1477	1484	Chicagu	Chicago	LOC	GPE-Chicago
+1545	1554	New Yorku	New York	LOC	GPE-New-York
+1631	1640	Američani	Američani	PER	GPE-USA
+1745	1748	ZDA	ZDA	LOC	GPE-USA
+1758	1767	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2077	2083	Evropi	Evropa	LOC	LOC-Europe
+2174	2182	Francija	Francija	LOC	GPE-France
+2245	2252	Nemčija	Nemčija	LOC	GPE-Germany
+2316	2324	Avstrija	Avstrija	LOC	GPE-Austria
+2485	2488	ECB	ECB	ORG	ORG-European-Central-Bank
+2489	2506	Christine Lagarde	Christine Lagarde	PER	PER-Christine-Lagarde
+2708	2711	ECB	ECB	ORG	ORG-European-Central-Bank
+2729	2732	ZDA	ZDA	LOC	GPE-USA
+2736	2738	EU	EU	ORG	ORG-European-Union
+2854	2860	Amazon	Amazon	ORG	ORG-Amazon
+2862	2870	Facebook	Facebook	ORG	ORG-Facebook
+2874	2880	Google	Google	ORG	ORG-Google
+2919	2927	Kitajska	Kitajska	LOC	GPE-China
+3171	3179	Kitajska	Kitajska	LOC	GPE-China

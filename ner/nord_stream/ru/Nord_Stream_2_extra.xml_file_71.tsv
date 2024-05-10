@@ -1,0 +1,15 @@
+24	44	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+82	87	Киева	Киев	LOC	GPE-Kiev
+90	97	Варшавы	Варшава	LOC	GPE-Warsaw
+115	121	Польши	Польша	LOC	GPE-Poland
+122	139	Матеуш Моравецкий	Матеуш Моравецкий	PER	PER-Mateusz-Morawiecki
+185	205	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+253	261	Брюсселя	Брюссель	LOC	GPE-Brussles
+298	318	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+437	449	М.Моравецкий	М.Моравецкий	PER	PER-Mateusz-Morawiecki
+520	533	Еврокомиссией	Еврокомиссия	ORG	ORG-European-Commission
+594	607	"""Южный поток"""	"""Южный поток"""	PRO	PRO-South-Stream
+631	653	"""Северного потока - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+763	769	России	Россия	LOC	GPE-Russia
+792	799	Украину	Украина	LOC	GPE-Ukraine
+802	808	Польшу	Польша	LOC	GPE-Poland

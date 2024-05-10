@@ -1,0 +1,29 @@
+79	85	Brexit	Brexit	EVT	EVT-Brexit
+87	91	КИЇВ	Київ	LOC	GPE-Kiev
+107	110	УНН	УНН	ORG	ORG-UNN
+223	242	Європейського союзу	Європейський союз	ORG	ORG-European-Union
+258	264	Brexit	Brexit	EVT	EVT-Brexit
+300	316	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+372	375	УНН	УНН	ORG	ORG-UNN
+446	463	операції Temperer	Операція Temperer	EVT	EVT-Operation-Temperer
+610	616	Brexit	Brexit	EVT	EVT-Brexit
+840	844	Кент	Кент	LOC	GPE-Kent
+891	906	Велику Британію	Велика Британія	LOC	GPE-Great-Britain
+957	967	Міноборони	Міноборони	ORG	ORG-Ministry-of-Defence
+1168	1171	УНН	УНН	ORG	ORG-UNN
+1187	1202	Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+1205	1213	Євросоюз	Євросоюз	ORG	ORG-European-Union
+1237	1243	Brexit	Brexit	EVT	EVT-Brexit
+1302	1314	Тереза   Мей	Тереза Мей	PER	PER-Theresa-May
+1419	1440	Консервативної партії	Консервативна партія	ORG	ORG-Conservative-and-Unionist-Party-UK
+1496	1502	Brexit	Brexit	EVT	EVT-Brexit
+1609	1612	Мей	Мей	PER	PER-Theresa-May
+1645	1651	Brexit	Brexit	EVT	EVT-Brexit
+1652	1664	Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+1702	1714	Естер Маквей	Естер Маквей	PER	PER-Ester-Makvi
+1784	1792	Брюсселю	Брюссель	LOC	GPE-Brussles
+1893	1901	Sky News	Sky News	ORG	ORG-Sky-News
+2036	2039	Мей	Мей	PER	PER-Theresa-May
+2061	2082	Консервативної партії	Консервативна партія	ORG	ORG-Conservative-and-Unionist-Party-UK
+2099	2112	Палаті громад	Палата громад	ORG	ORG-House-of-Commons
+2201	2204	Мей	Мей	PER	PER-Theresa-May

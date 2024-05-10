@@ -1,0 +1,90 @@
+29	43	Evropske unije	Evropska unija	ORG	ORG-European-Union
+239	252	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+277	292	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+327	336	Sloveniji	Slovenija	LOC	GPE-Slovenia
+409	442	Konference o evropski prihodnosti	Konferenca o evropski prihodnosti	EVT	EVT-Conference-on-the-Future-of-Europe
+573	578	Nemci	Nemci	PER	GPE-Germany
+582	590	Francozi	Francozi	PER	GPE-France
+630	640	Portugalci	Portugalci	PER	GPE-Portugal
+644	652	Slovenci	Slovenci	PER	GPE-Slovenia
+805	819	Evropska unija	Evropska unija	ORG	ORG-European-Union
+847	866	(lizbonski) pogodbi	lizbonska pogodba	PRO	PRO-Treaty-of-Lisbon
+908	922	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+1002	1018	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+1034	1048	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+1106	1119	Evropski svet	Evropski svet	ORG	ORG-European-Council
+1224	1240	Charlesa Michela	Charles Michel	PER	PER-Charles-Michel
+1260	1274	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1332	1348	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+1413	1427	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1469	1481	Josep Borell	Josep Borrell	PER	PER-Josep-Borrell
+1636	1642	Macron	Macron	PER	PER-Emmanuel-Macron
+1646	1654	Merklova	Merkel	PER	PER-Angela-Merkel
+1682	1715	Konference o evropski prihodnosti	Konferenca o evropski prihodnosti	EVT	EVT-Conference-on-the-Future-of-Europe
+1865	1874	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1879	1890	Portugalski	Portugalska	LOC	GPE-Portugal
+2036	2045	Slovenija	Slovenija	LOC	GPE-Slovenia
+2330	2344	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+2400	2426	Pogodbo o ustavi za Evropo	Pogodba o ustavi za Evropo	PRO	PRO-Treaty-Establishing-a-Constitution-for-Europe
+2474	2482	Franciji	Francija	LOC	GPE-France
+2489	2500	Nizozemskem	Nizozemska	LOC	GPE-Holland
+2548	2562	Evropske unije	Evropska unija	ORG	ORG-European-Union
+2689	2697	Francija	Francija	LOC	GPE-France
+2699	2706	Nemčija	Nemčija	LOC	GPE-Germany
+2710	2729	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+2738	2745	brexita	brexit	EVT	EVT-Brexit
+2752	2766	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+2783	2791	Francija	Francija	LOC	GPE-France
+2795	2802	Nemčija	Nemčija	LOC	GPE-Germany
+2850	2857	Belgijo	Belgija	LOC	GPE-Belgium
+2859	2866	Italijo	Italija	LOC	GPE-Italy
+2870	2880	Nizozemsko	Nizozemska	LOC	GPE-Holland
+2898	2905	Španije	Španija	LOC	GPE-Spain
+2956	2980	Evropske ljudske stranke	Evropska ljudska stranka	ORG	ORG-EPP-European-Peoples-Party
+2982	2985	EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+2988	3017	Stranke evropskih socialistov	Stranka evropskih socialistov	ORG	ORG-PES-Party-of-European-Socialists
+3019	3022	PES	PES	ORG	ORG-PES-Party-of-European-Socialists
+3027	3081	Stranke zavezništva liberalcev in demokratov za Evropo	Stranka zavezništva liberalcev in demokratov za Evropo	ORG	ORG-ALDE
+3083	3087	ALDE	ALDE	ORG	ORG-ALDE
+3116	3130	Evropske unije	Evropska unija	ORG	ORG-European-Union
+3146	3163	evropske komisije	evropska komisija	ORG	ORG-European-Commission
+3167	3191	Evropske centralne banke	Evropska centralna banka	ORG	ORG-European-Central-Bank
+3289	3295	Rusijo	Rusija	LOC	GPE-Russia
+3299	3307	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+3423	3431	Francija	Francija	LOC	GPE-France
+3433	3440	Nemčija	Nemčija	LOC	GPE-Germany
+3442	3448	Rusija	Rusija	LOC	GPE-Russia
+3452	3460	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+3559	3565	Parizu	Pariz	LOC	GPE-Paris
+3637	3645	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+3757	3765	Francija	Francija	LOC	GPE-France
+3769	3775	Rusija	Rusija	LOC	GPE-Russia
+3943	3949	Rusiji	Rusija	LOC	GPE-Russia
+3957	3975	priključitve Krima	priključitev Krima	EVT	EVT-Annexation-of-Crimea
+3979	3994	vojne v Donbasu	vojna v Donbasu	EVT	EVT-War-in-Donbass
+4008	4012	Nata	NATO	ORG	ORG-NATO
+4058	4064	Macron	Macron	PER	PER-Emmanuel-Macron
+4077	4082	Trump	Trump	PER	PER-Donald-Trump
+4096	4100	Ruse	Rusi	PER	GPE-Russia
+4183	4191	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+4195	4201	Rusijo	Rusija	LOC	GPE-Russia
+4232	4243	Severni tok	Severni tok	PRO	PRO-Nord-Stream-1
+4247	4254	Nemčijo	Nemčija	LOC	GPE-Germany
+4303	4311	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+4339	4345	Evropo	Evropa	LOC	LOC-Europe
+4381	4389	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+4392	4394	EU	EU	ORG	ORG-European-Union
+4398	4403	Natom	Nato	ORG	ORG-NATO
+4407	4438	Konferenca o prihodnosti Evrope	Konferenca o prihodnosti Evrope	EVT	EVT-Conference-on-the-Future-of-Europe
+4566	4582	Bližnjim vzhodom	Bližnji vzhod	LOC	LOC-Near-East
+4597	4604	Turčijo	Turčija	LOC	GPE-Turkey
+4663	4677	Evropske unije	Evropska unija	ORG	ORG-European-Union
+4930	4938	Franciji	Francija	LOC	GPE-France
+5012	5016	Rusi	Rusi	PER	GPE-Russia
+5020	5029	Ukrajinci	Ukrajinci	PER	GPE-Ukraine
+5148	5175	Združenimi državami Amerike	Združene države Amerike	LOC	GPE-USA
+5179	5193	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+5201	5205	Nata	NATO	ORG	ORG-NATO
+5215	5219	Rusi	Rusi	PER	GPE-Russia
+5232	5241	Američani	Američani	PER	GPE-USA
+5332	5346	Dimitrij Rupel	Dimitrij Rupel	PER	PER-Dimitrij-Rupel

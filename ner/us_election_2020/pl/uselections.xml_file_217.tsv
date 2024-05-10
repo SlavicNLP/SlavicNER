@@ -1,0 +1,48 @@
+0	25	Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+81	84	USA	USA	LOC	GPE-USA
+188	200	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+203	212	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+380	383	USA	USA	LOC	GPE-USA
+487	499	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+502	511	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+650	662	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+691	700	Florydzie	Floryda	LOC	GPE-Florida
+702	707	Trump	Trump	PER	PER-Donald-Trump
+793	805	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+843	847	Ohio	Ohio	LOC	GPE-Ohio
+983	1003	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1005	1014	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1031	1049	zachodnim wybrzeżu	zachodnie wybrzeże	LOC	GPE-West-Bank
+1051	1061	Kalifornia	Kalifornia	LOC	GPE-California
+1063	1069	Oregon	Oregon	LOC	GPE-Oregon
+1071	1081	Waszyngton	Waszyngton	LOC	GPE-WashingtonDC
+1100	1111	Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+1113	1121	Illinois	Illinois	LOC	GPE-Illionis
+1127	1146	Dystrykcie Kolumbii	Dystrykt Kolumbia	LOC	GPE-District-of-Columbia
+1166	1178	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1205	1224	Głębokiego Południa	Głębokie Południe	LOC	LOC-Deep-South
+1226	1234	Luizjana	Luizjana	LOC	GPE-Louisiana
+1236	1247	Mississippi	Mississippi	LOC	GPE-Mississippi
+1249	1256	Alabama	Alabama	LOC	GPE-USA-Alabama
+1258	1277	Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+1282	1290	Nebrasce	Nebraska	LOC	GPE-Nebraska
+1322	1327	Trump	Trump	PER	PER-Donald-Trump
+1333	1342	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1352	1361	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1435	1447	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1475	1478	USA	USA	LOC	GPE-USA
+1479	1491	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1625	1636	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+1738	1741	USA	USA	LOC	GPE-USA
+1787	1795	Michigan	Michigan	LOC	GPE-Michigan
+1801	1810	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1844	1856	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2112	2123	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+2191	2202	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+2355	2383	wyborach prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+2426	2440	New York Times	New York Times	PRO	PRO-The-New-York-Times
+2579	2582	USA	USA	LOC	GPE-USA
+2623	2626	NYT	NYT	PRO	PRO-The-New-York-Times
+2691	2703	koronawirusa	koronawirus	EVT	EVT-Covid-19
+2742	2752	Amerykanów	Amerykanie	PER	GPE-USA
+2804	2820	(Donalda) Trumpa	(Donald) Trump	PER	PER-Donald-Trump

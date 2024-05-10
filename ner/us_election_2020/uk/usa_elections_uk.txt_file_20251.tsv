@@ -1,0 +1,23 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+21	27	Трампа	Трамп	PER	PER-Donald-Trump
+41	46	Сенат	Сенат	ORG	ORG-United-States-Senate
+131	134	США	США	LOC	GPE-USA
+135	145	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+165	174	Сенат США	Сенат США	ORG	ORG-United-States-Senate
+221	236	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+259	277	Європейська правда	Європейська правда	ORG	PRO-European-Truth
+282	288	Байден	Байден	PER	PER-Joe-Biden
+325	331	Трампа	Трамп	PER	PER-Donald-Trump
+334	354	Палаті представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+756	762	Сенаті	Сенат	ORG	ORG-United-States-Senate
+935	942	Twitter	Twitter	PRO	PRO-Twitter
+955	975	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+1001	1006	Трамп	Трамп	PER	PER-Donald-Trump
+1031	1034	США	США	LOC	GPE-USA
+1093	1099	Трампа	Трамп	PER	PER-Donald-Trump
+1157	1177	Палаті представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+1222	1228	Сенаті	Сенат	ORG	ORG-United-States-Senate
+1301	1309	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1362	1375	Камала Гарріс	Камала Гарріс	PER	PER-Kamala-Harris
+1396	1404	Байденом	Байден	PER	PER-Joe-Biden
+1406	1417	Інавгурація	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration

@@ -1,0 +1,11 @@
+24	36	коронавируса	коронавирус	EVT	EVT-Covid-19
+48	51	САЩ	САЩ	LOC	GPE-USA
+154	165	коронавирус	коронавирус	EVT	EVT-Covid-19
+229	232	САЩ	САЩ	LOC	GPE-USA
+243	252	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+299	312	Roche Holding	Roche Holding	ORG	ORG-Roche-Holding
+315	372	Американската агенция за контрол на храните и лекарствата	Американска агенция за контрол на храните и лекарствата	ORG	ORG-FDA-Food-and-Drug-Administration
+441	447	Европа	Европа	LOC	LOC-Europe
+603	616	Томас Шинекер	Томас Шинекер	PER	PER-Thomas-Schinecker
+678	683	Roche	Roche Holding	ORG	ORG-Roche-Holding
+760	768	Covid-19	COVID-19	EVT	EVT-Covid-19

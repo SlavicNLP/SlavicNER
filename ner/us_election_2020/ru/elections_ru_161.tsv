@@ -1,0 +1,45 @@
+18	25	Байдена	Байден	PER	PER-Joe-Biden
+38	41	США	США	LOC	GPE-USA
+84	94	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+130	133	США	США	LOC	GPE-USA
+154	157	США	США	LOC	GPE-USA
+165	175	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+198	211	Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+247	266	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+291	297	Байден	Байден	PER	PER-Joe-Biden
+335	341	Трампа	Трамп	PER	PER-Donald-Trump
+377	380	CNN	CNN	PRO	PRO-CNN
+429	435	Байден	Байден	PER	PER-Joe-Biden
+496	506	Калифорнии	Калифорния	LOC	GPE-California
+528	530	AP	AP	PRO	PRO-Assosiated-Press
+619	629	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+660	663	США	США	LOC	GPE-USA
+686	708	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+709	719	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+744	756	Бараке Обаме	Барак Обама	PER	PER-Barack-Obama
+817	820	США	США	LOC	GPE-USA
+937	956	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1089	1098	конгрессе	конгресс	ORG	ORG-United-States-Congress
+1269	1272	Мэн	Мэн	LOC	GPE-Maine
+1275	1283	Небраска	Небраска	LOC	GPE-Nebraska
+1571	1576	сенат	сенат	ORG	ORG-United-States-Senate
+1840	1846	Байден	Байден	PER	PER-Joe-Biden
+1880	1885	Трамп	Трамп	PER	PER-Donald-Trump
+1925	1928	США	США	LOC	GPE-USA
+2063	2071	Колумбия	Колумбия	LOC	GPE-Colombia
+2209	2212	США	США	LOC	GPE-USA
+2412	2427	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+2448	2463	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+2480	2483	США	США	LOC	GPE-USA
+2718	2725	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+2751	2760	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2795	2798	США	США	LOC	GPE-USA
+3084	3093	конгресса	конгресс	ORG	ORG-United-States-Congress
+3122	3129	Байдену	Байден	PER	PER-Joe-Biden
+3199	3206	Аризоне	Аризона	LOC	GPE-Arizona
+3208	3220	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+3222	3230	Мичигане	Мичиган	LOC	GPE-Michigan
+3232	3242	Висконсине	Висконсин	LOC	GPE-Wisconsin
+3245	3253	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+3266	3272	Трампа	Трамп	PER	PER-Donald-Trump
+3440	3447	Reuters	Reuters	PRO	PRO-Reuters

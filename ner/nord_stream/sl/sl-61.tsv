@@ -1,0 +1,27 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+55	71	Ameriški kongres	Ameriški kongres	ORG	ORG-United-States-Congress
+129	137	Pentagon	Pentagon	ORG	ORG-The-Pentagon
+148	153	Trump	Trump	PER	PER-Donald-Trump
+230	237	Nemčije	Nemčija	LOC	GPE-Germany
+241	248	Turčije	Turčija	LOC	GPE-Turkey
+271	284	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+320	327	Nemčije	Nemčija	LOC	GPE-Germany
+388	391	ZDA	ZDA	LOC	GPE-USA
+394	401	Nemčijo	Nemčija	LOC	GPE-Germany
+405	411	Evropo	Evropa	LOC	LOC-Europe
+444	454	Turški tok	Turški tok	PRO	PRO-TurkStream
+486	498	Črnega morja	Črno morje	LOC	LOC-Black-Sea
+501	508	Turčijo	Turčija	LOC	GPE-Turkey
+521	535	vzhodno Evropo	vzhodna Evropa	LOC	LOC-Eastern-Europe
+839	846	Allseas	Allseas	ORG	ORG-Allseas
+872	888	Severnega toka 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+941	948	Allseas	Allseas	ORG	ORG-Allseas
+1100	1106	Moskvi	Moskva	LOC	GPE-Moscow
+1250	1259	Facebooku	Facebook	PRO	PRO-Facebook
+1321	1336	Marija Zaharova	Marija Zaharova	PER	PER-Maria-Zaharova
+1460	1462	EU	EU	ORG	ORG-European-Union
+1473	1487	Evropska unija	Evropska unija	ORG	ORG-European-Union
+1574	1581	Bruslju	Bruselj	LOC	GPE-Brussles
+1632	1643	Peter Beyer	Peter Beyer	PER	PER-Peter-Beyer
+1695	1702	Nemčiji	Nemčija	LOC	GPE-Germany
+1742	1749	Nemčija	Nemčija	LOC	GPE-Germany

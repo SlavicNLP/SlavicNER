@@ -1,0 +1,23 @@
+0	3	Мэй	Мэй	PER	PER-Theresa-May
+37	49	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+64	70	Brexit	Brexit	EVT	EVT-Brexit
+80	86	REGNUM	REGNUM	ORG	ORG-REGNUM-News-Agency
+103	117	Великобритании	Великобритания	LOC	GPE-Great-Britain
+118	128	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+208	223	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+247	253	Brexit	Brexit	EVT	EVT-Brexit
+254	267	Дэвида Девиса	Дэвид Девис	PER	PER-David-Davis
+449	460	референдума	референдум	EVT	EVT-Brexit-Referendum
+481	490	Евросоюза	Евросоюз	ORG	ORG-European-Union
+497	506	ИА REGNUM	ИА REGNUM	ORG	ORG-REGNUM-News-Agency
+517	520	Мэй	Мэй	PER	PER-Theresa-May
+544	567	палате общин парламента	палата общин парламента	ORG	ORG-House-of-Commons
+685	698	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+764	777	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+780	791	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+846	856	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+877	879	ЕС	ЕС	ORG	ORG-European-Union
+929	939	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+970	976	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+978	991	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1033	1043	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May

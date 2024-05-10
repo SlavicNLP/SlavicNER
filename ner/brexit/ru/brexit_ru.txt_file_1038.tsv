@@ -1,0 +1,36 @@
+7	17	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+47	62	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+110	124	Великобритании	Великобритания	LOC	GPE-Great-Britain
+125	135	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+204	213	Евросоюза	Евросоюз	ORG	ORG-European-Union
+223	235	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+255	260	ФАКТЫ	ФАКТЫ	PRO	PRO-Fakty-i-Kommentarii
+282	287	Дэвис	Дэвис	PER	PER-David-Davis
+339	345	Brexit	Brexit	EVT	EVT-Brexit
+390	400	Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+422	436	Великобритании	Великобритания	LOC	GPE-Great-Britain
+453	463	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+506	508	ЕС	ЕС	ORG	ORG-European-Union
+562	565	Мэй	Мэй	PER	PER-Theresa-May
+680	685	Дэвис	Дэвис	PER	PER-David-Davis
+738	744	Brexit	Brexit	EVT	EVT-Brexit
+756	781	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+791	797	Чекерс	Чекерс	LOC	LOC-Chequers-Court
+830	833	Мэй	Мэй	PER	PER-Theresa-May
+928	943	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+971	977	Дэвиса	Дэвис	PER	PER-David-Davis
+987	990	Мэй	Мэй	PER	PER-Theresa-May
+1003	1013	Лейбористы	Лейбористы	PER	ORG-Labour-Party-UK
+1093	1104	Дэвид Дэвис	Девид Дэвис	PER	PER-David-Davis
+1115	1128	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1139	1144	Дэвис	Девис	PER	PER-David-Davis
+1169	1179	Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+1326	1329	Мэй	Мэй	PER	PER-Theresa-May
+1348	1354	Brexit	Brexit	EVT	EVT-Brexit
+1509	1514	Дэвис	Дэвис	PER	PER-David-Davis
+1605	1618	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1650	1653	Мэй	Мэй	PER	PER-Theresa-May
+1694	1700	Brexit	Brexit	EVT	EVT-Brexit
+1789	1797	Германии	Германия	LOC	GPE-Germany
+1798	1812	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+1878	1896	Хорстом Зеехофером	Хорст Зеерхофер	PER	PER-Horst-Seehofer

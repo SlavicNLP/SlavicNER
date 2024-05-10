@@ -1,0 +1,56 @@
+0	3	CNN	CNN	PRO	PRO-CNN
+5	10	Biden	Biden	PER	PER-Joe-Biden
+31	39	Wirginię	Wirginia	LOC	GPE-Virginia
+41	46	Trump	Trump	PER	PER-Donald-Trump
+63	67	Ohio	Ohio	LOC	GPE-Ohio
+69	81	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+93	112	środkowym wschodzie	środkowy wschód	LOC	LOC-Middle-East
+115	134	środkowym zachodzie	środkowy zachód	LOC	LOC-Midwestern-United-States
+138	147	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+185	224	zachodnim wybrzeżu Stanów Zjednoczonych	zachodnie wybrzeże Stanów Zjednoczonych	LOC	GPE-West-Coast-of-the-United-States
+241	244	CNN	CNN	PRO	PRO-CNN
+346	349	USA	USA	LOC	GPE-USA
+366	371	Trump	Trump	PER	PER-Donald-Trump
+382	386	Ohio	Ohio	LOC	GPE-Ohio
+389	396	Florydę	Floryda	LOC	GPE-Florida
+400	405	Biden	Biden	PER	PER-Joe-Biden
+408	416	Wirginię	Wirginia	LOC	GPE-Virginia
+505	522	Gabinecie Owalnym	Gabinet Owalny	LOC	LOC-Oval-Office
+586	591	TVN24	TVN24	PRO	PRO-TVN24
+603	611	tvn24.pl	tvn24.pl	PRO	PRO-TVN24
+617	620	USA	USA	LOC	GPE-USA
+666	674	Michigan	Michigan	LOC	GPE-Michigan
+680	689	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+723	735	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+807	815	Michigan	Michigan	LOC	GPE-Michigan
+904	909	Trump	Trump	PER	PER-Donald-Trump
+969	978	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1035	1040	Trump	Trump	PER	PER-Donald-Trump
+1057	1062	Biden	Biden	PER	PER-Joe-Biden
+1080	1088	Michigan	Michigan	LOC	GPE-Michigan
+1090	1099	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1105	1116	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1131	1140	Pasa Rdzy	Pas Rdzy	LOC	LOC-Rust-Belt
+1222	1228	Trumpa	Trump	PER	PER-Donald-Trump
+1332	1350	Wirginia Zachodnia	Wirginia Zachodnia	LOC	GPE-West-Virginia
+1355	1369	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1430	1432	AP	AP	ORG	ORG-AP-The-Associated-Press
+1436	1455	Wirginii Zachodniej	Wirginia Zachodnia	LOC	GPE-West-Virginia
+1496	1508	republikanie	republikanie	ORG	ORG-Republican-Party-USA
+1546	1558	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1643	1658	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1721	1740	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1742	1746	Ohio	Ohio	LOC	GPE-Ohio
+1752	1771	Wirginii Zachodniej	Wirginia Zachodnia	LOC	GPE-West-Virginia
+1773	1777	Ohio	Ohio	LOC	GPE-Ohio
+2192	2201	Florydzie	Floryda	LOC	GPE-Florida
+2336	2348	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2397	2402	Miami	Miami	LOC	GPE-Miami
+2405	2412	Orlando	Orlando	LOC	GPE-Orlando
+2434	2444	demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+2499	2511	republikanów	republikanie	ORG	ORG-Republican-Party-USA
+2611	2620	Florydzie	Floryda	LOC	GPE-Florida
+2623	2632	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2643	2652	Vermoncie	Vermont	LOC	GPE-Vermont
+2670	2672	AP	AP	ORG	ORG-AP-The-Associated-Press
+2727	2736	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA

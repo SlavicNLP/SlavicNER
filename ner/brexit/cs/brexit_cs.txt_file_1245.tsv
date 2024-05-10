@@ -1,0 +1,21 @@
+9	16	Britové	Britové	PER	GPE-Great-Britain
+17	23	brexit	brexit	EVT	EVT-Brexit
+99	106	Britové	Britové	PER	GPE-Great-Britain
+109	122	Evropské unie	Evropská unie	ORG	ORG-European-Union
+229	237	Británie	Británie	PER	GPE-Great-Britain
+344	350	brexit	brexit	EVT	EVT-Brexit
+432	442	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+469	471	EU	EU	ORG	ORG-European-Union
+478	491	Evropské rady	Evropská rada	ORG	ORG-European-Council
+493	504	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+591	595	Tusk	Tusk	PER	PER-Donald-Tusk
+651	659	Británie	Británie	LOC	GPE-Great-Britain
+662	664	EU	EU	ORG	ORG-European-Union
+710	723	Konzervativci	Konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+726	736	labouristé	labouristé	PER	ORG-Labour-Party-UK
+793	799	brexit	brexit	EVT	EVT-Brexit
+942	949	brexitu	brexit	EVT	EVT-Brexit
+1122	1127	Brity	Britové	PER	GPE-Great-Britain
+1165	1172	Britové	Britové	PER	GPE-Great-Britain
+1329	1331	EU	EU	ORG	ORG-European-Union
+1367	1373	brexit	brexit	EVT	EVT-Brexit

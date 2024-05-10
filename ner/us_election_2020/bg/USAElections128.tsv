@@ -1,0 +1,41 @@
+19	26	news.bg	news.bg	PRO	PRO-News.bg
+28	36	Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+40	46	Тексас	Тексас	LOC	GPE-Texas
+48	59	Рон Джонсън	Рон Джонсън	PER	PER-Ron-Johnson
+63	72	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+203	215	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+236	246	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+254	261	Гардиън	Гардиън	PRO	PRO-The-Guardian
+440	449	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+639	644	Тръмп	Тръмп	PER	PER-Donald-Trump
+689	695	Байдън	Байдън	PER	PER-Joe-Biden
+808	820	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+835	849	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+884	905	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+1058	1070	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1101	1107	Туитър	Туитър	PRO	PRO-Twitter
+1178	1187	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1296	1318	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+1319	1323	Пенс	Пенс	PER	PER-Mike-Pence
+1365	1382	Изборната колегия	Изборна колегия	ORG	ORG-United-States-Electoral-College
+1625	1635	Джош Хоули	Джош Хоули	PER	PER-Josh-Hawley
+1639	1645	Мисури	Мисури	LOC	GPE-Missouri
+1710	1722	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1725	1750	Камарата на представители	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+1852	1862	американци	американци	PER	GPE-USA
+1904	1915	демократите	демократи	PER	ORG-Democratic-Party-USA
+1972	1978	Сената	Сенат	ORG	ORG-United-States-Senate
+1979	1991	Мич Макконъл	Мич Макконъл	PER	PER-Mitch-McConnell
+2004	2016	републиканци	републиканци	PER	ORG-Republican-Party-USA
+2086	2089	Юта	Юта	LOC	GPE-Utah
+2090	2099	Мит Ромни	Мит Ромни	PER	PER-Mitt-Romney
+2284	2292	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+2312	2326	Лиза Мърковски	Лиза Мърковски	PER	PER-Lisa-Murkowski
+2330	2336	Аляска	Аляска	LOC	GPE-Alaska
+2403	2407	Круз	Круз	PER	PER-Ted-Cruz
+2410	2417	Джонсън	Джонсън	PER	PER-Boris-Johnson
+2597	2601	Круз	Круз	PER	PER-Ted-Cruz
+2604	2609	Хоули	Хоули	PER	PER-Josh-Hawley
+2622	2636	републиканците	републиканци	PER	ORG-Republican-Party-USA
+2689	2692	САЩ	САЩ	LOC	GPE-USA
+2755	2760	Тръмп	Тръмп	PER	PER-Donald-Trump

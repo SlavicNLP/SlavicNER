@@ -1,0 +1,31 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+38	41	ВСУ	ВСУ	ORG	ORG-Armed-Forces-of-Ukraine
+106	109	США	США	LOC	GPE-USA
+190	208	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+274	281	Украины	Украина	LOC	GPE-Ukraine
+385	388	США	США	LOC	GPE-USA
+389	399	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+433	436	ВСУ	ВСУ	ORG	ORG-Armed-Forces-of-Ukraine
+514	525	Белого дома	Белый дом	ORG	ORG-The-White-House
+626	631	Киеву	Киев	LOC	GPE-Kiev
+728	735	Украина	Украина	LOC	GPE-Ukraine
+794	803	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+827	831	Киев	Киев	LOC	GPE-Kiev
+917	923	Запада	Запад	LOC	LOC-West
+967	969	РФ	РФ	LOC	GPE-Russia
+985	988	США	США	LOC	GPE-USA
+1097	1104	Украине	Украина	LOC	GPE-Ukraine
+1106	1112	Байден	Байден	PER	PER-Joe-Biden
+1211	1217	Путина	Путин	PER	PER-Vladimir-Putin
+1241	1248	Украины	Украина	LOC	GPE-Ukraine
+1260	1264	Киев	Киев	LOC	GPE-Kiev
+1289	1292	США	США	LOC	GPE-USA
+1327	1333	России	Россия	LOC	GPE-Russia
+1351	1360	Мариуполя	Мариуполь	LOC	GPE-Mariupol
+1427	1434	Украине	Украина	LOC	GPE-Ukraine
+1438	1441	США	США	LOC	GPE-USA
+1669	1676	Украину	Украина	LOC	GPE-Ukraine
+1799	1806	Украине	Украина	LOC	GPE-Ukraine
+1824	1831	Патреон	Патреон	PRO	PRO-Patreon
+1834	1840	Paypal	Paypal	PRO	PRO-Paypal
+1953	1961	Телеграм	Телеграм	PRO	PRO-Telegram

@@ -1,0 +1,16 @@
+0	12	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+28	31	USA	USA	LOC	GPE-USA
+33	50	Donald John Trump	Donald John Trump	PER	PER-Donald-Trump
+90	116	Spojených států amerických	Spojené státy americké	LOC	GPE-USA
+178	190	Joem Bidenem	Joe Biden	PER	PER-Joe-Biden
+311	319	Kongresu	Kongres	ORG	ORG-United-States-Congress
+341	353	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+360	371	Yuri Gripas	Yuri Gripas	PER	PER-Yuri-Gripas
+373	380	Reuters	Reuters	ORG	ORG-Reuters
+415	429	Sboru volitelů	Sboru volitelů	ORG	ORG-United-States-Electoral-College
+483	490	Trumpem	Trump	PER	PER-Donald-Trump
+528	548	Republikánské strany	Republikánská strana	ORG	ORG-Republican-Party-USA
+549	559	Mike Pence	Mike Pence	PER	PER-Mike-Pence
+645	650	Trump	Trump	PER	PER-Donald-Trump
+746	749	USA	USA	LOC	GPE-USA
+802	811	Joe Biden	Joe Biden	PER	PER-Joe-Biden

@@ -1,0 +1,71 @@
+25	37	коронавируса	коронавирус	EVT	EVT-Covid-19
+75	83	COVID-19	COVID-19	EVT	EVT-Covid-19
+169	177	Covid-19	Covid-19	EVT	EVT-Covid-19
+253	276	Русская служба Би-би-си	Русская служба Би-би-си	PRO	PRO-BBC-Russian
+1234	1239	Китае	Китай	LOC	GPE-China
+1286	1296	английский	английский	PER	GPE-Great-Britain
+1302	1316	Эдвард Дженнер	Эдвард Дженнер	PER	PER-Edward-Jenner
+1628	1635	Дженнер	Дженнер	PER	PER-Edward-Jenner
+1698	1728	Королевского научного общества	Королевское научное общество	ORG	ORG-Royal-Society-of-Science
+1947	1950	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+2009	2054	Центр контроля и профилактики заболеваний США	Центр контроля и профилактики заболеваний США	ORG	ORG-Centers-for-Disease-Control-and-Prevention-USA
+2761	2767	Африка	Африка	LOC	LOC-Africa
+2968	2976	Covid-19	Covid-19	EVT	EVT-Covid-19
+3902	3910	Covid-19	Covid-19	EVT	EVT-Covid-19
+3948	3954	Pfizer	Pfizer	ORG	ORG-Pfizer
+3955	3963	BioNTech	BioNTech	ORG	ORG-BioNTech
+3966	3973	Moderna	Moderna	ORG	ORG-Moderna
+4011	4023	коронавируса	коронавирус	EVT	EVT-Covid-19
+4259	4267	Covid-19	Covid-19	EVT	EVT-Covid-19
+4376	4401	Оксфордским университетом	Оксфордский университет	ORG	ORG-University-of-Oxford
+4424	4435	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+4674	4682	Британии	Британия	LOC	GPE-Great-Britain
+4685	4688	США	США	LOC	GPE-USA
+4692	4699	Мексика	Мексика	LOC	GPE-Mexico
+4702	4712	Коста-Рика	Коста-Рика	LOC	GPE-Costa-Rica
+4746	4752	Pfizer	Pfizer	ORG	ORG-Pfizer
+4771	4779	Бразилии	Бразилия	LOC	GPE-Brazil
+4802	4813	Оксфордской	Оксфордская	ORG	ORG-Oxford-University
+4829	4838	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+4871	4878	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+4908	4917	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+5008	5011	КНР	КНР	LOC	GPE-China
+5013	5022	Сингапуре	Сингапур	LOC	GPE-Singapore
+5024	5032	Малайзии	Малайзия	LOC	GPE-Malaysia
+5034	5043	Индонезии	Индонезия	LOC	GPE-Indonesia
+5049	5059	Филиппинах	Филиппины	LOC	GPE-Republic-of-the-Philippines
+5148	5154	Турции	Турция	LOC	GPE-Turkey
+5157	5166	Индонезии	Индонезия	LOC	GPE-Indonesia
+5176	5184	Бразилии	Бразилия	LOC	GPE-Brazil
+5252	5257	Индия	Индия	LOC	GPE-India
+5320	5331	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+5334	5357	Оксфордский университет	Оксфордский университет	ORG	ORG-University-of-Oxford
+5388	5398	Covishield	Covishield	PRO	PRO-Covishield-Vaccine
+5403	5410	Covaxin	Covaxin	PRO	PRO-Covaxin
+5437	5451	Bharat Biotech	Bharat Biotech	ORG	ORG-Bharat-Biotech
+5496	5507	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+5564	5573	Аргентина	Аргентина	LOC	GPE-Argentina
+5663	5674	"""Спутником"""	Спутник	PRO	PRO-Sputnik-V
+5728	5744	Африканский Союз	Африканский Союз	ORG	ORG-African-Union
+5787	5793	Pfizer	Pfizer	ORG	ORG-Pfizer
+5795	5806	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+5833	5857	Serum Institute of India	Serum Institute of India	ORG	ORG-AIER-American-Institute-for-Economic-Research
+5861	5878	Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+6011	6016	Covax	Covax	ORG	ORG-Covax
+6040	6043	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+6054	6058	Gavi	Gavi	ORG	ORG-Gavi
+6205	6213	Covid-19	Covid-19	EVT	EVT-Covid-19
+6533	6536	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+6914	6917	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+7259	7267	Covid-19	Covid-19	EVT	EVT-Covid-19
+7379	7401	Коронавирус SARS-CoV-2	Коронавирус SARS-CoV-2	EVT	EVT-Covid-19
+7445	7457	коронавируса	коронавирус	EVT	EVT-Covid-19
+7581	7593	коронавирусу	коронавирус	EVT	EVT-Covid-19
+7704	7712	COVID-19	COVID-19	EVT	EVT-Covid-19
+7895	7899	HOIA	HOIA	PRO	PRO-HOIA-App
+7961	7973	коронавируса	коронавирус	EVT	EVT-Covid-19
+8020	8027	AdBlock	AdBlock	PRO	PRO-AdBlock-Chrome
+8085	8090	Delfi	Delfi	PRO	PRO-Delfi
+8250	8257	Эстонии	Эстония	LOC	GPE-Estonia
+8474	8481	AdBlock	AdBlock	PRO	PRO-AdBlock-Chrome
+8488	8500	AdBlock Plus	AdBlock Plus	PRO	PRO-AdBlock-Plus

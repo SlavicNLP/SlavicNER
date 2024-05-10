@@ -1,0 +1,20 @@
+20	26	brexit	brexit	EVT	EVT-Brexit
+28	33	Česko	Česko	LOC	GPE-Czech-Republic
+36	42	Evropa	Evropa	LOC	LOC-Europe
+59	64	Brity	Britové	PER	GPE-Great-Britain
+130	143	Evropské unie	Evropská unie	ORG	ORG-European-Union
+203	220	Českou republikou	Česká republika	LOC	GPE-Czech-Republic
+223	243	Spojeným královstvím	Spojené království	LOC	GPE-Great-Britain
+288	304	Andrejem Babišem	Andrej Babiš	PER	PER-Andrej-Babis
+327	347	Martinem Stropnickým	Martin Stropnický	PER	PER-Martin-Stropnicky
+394	399	Česku	Česko	LOC	GPE-Czech-Republic
+417	431	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+490	503	Evropské unie	Evropská unie	ORG	ORG-European-Union
+701	709	Británií	Británie	LOC	GPE-Great-Britain
+712	718	Českem	Česko	LOC	GPE-Czech-Republic
+766	770	NATO	NATO	ORG	ORG-NATO
+896	904	Británie	Británie	LOC	GPE-Great-Britain
+997	999	EU	EU	ORG	ORG-European-Union
+1019	1033	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+1044	1052	Mnichově	Mnichov	LOC	GPE-Munich
+1068	1076	Británie	Británie	LOC	GPE-Great-Britain

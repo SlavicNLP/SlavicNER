@@ -1,0 +1,70 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+62	76	Antony Blinken	Antony Blinken	PER	PER-Antony-Blinken
+78	83	Trump	Trump	PER	PER-Donald-Trump
+140	145	Biden	Biden	PER	PER-Joe-Biden
+153	169	Antonyja Blinkna	Antony Blinken	PER	PER-Antony-Blinken
+247	259	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+376	385	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+619	625	Bidnov	Biden	PER	PER-Joe-Biden
+667	681	Antony Blinken	Antony Blinken	PER	PER-Antony-Blinken
+703	716	Baracka Obame	Barack Obama	PER	PER-Barack-Obama
+809	818	Obamovega	Obama	PER	PER-Barack-Obama
+925	932	Blinkna	Blinken	PER	PER-Antony-Blinken
+1113	1126	Jake Sullivan	Jake Sullivan	PER	PER-Jake-Sullivan
+1150	1157	Obamovi	Obamovi	PER	PER-Barack-Obama
+1204	1232	jedrskega sporazuma z Iranom	jedrski sporazum z Iranom	PRO	PRO-Iran-nuclear-deal
+1234	1242	Sullivan	Sullivan	PER	PER-Jake-Sullivan
+1285	1298	Amy Klobuchar	Amy Klobuchar	PER	PER-Amy-Klobuchar
+1328	1343	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1448	1461	Johna McCaina	John McCain	PER	PER-John-McCain
+1505	1517	Avril Haines	Avril Haines	PER	PER-Avril-Haines
+1542	1547	Obame	Obama	PER	PER-Barack-Obama
+1584	1587	Cie	cia	ORG	ORG-CIA-Central-Intelligence-Agency
+1675	1682	Bidnovo	Biden	PER	PER-Joe-Biden
+1751	1770	Alejandra Mayorkasa	Alejandro Mayorkas	PER	PER-Alejandro-Mayorkas
+1806	1811	Obame	Obama	PER	PER-Barack-Obama
+1857	1860	OZN	OZN	ORG	ORG-United-Nations
+1897	1920	Linda Thomas Greenfield	Linda Thomas Greenfield	PER	PER-Linda-Thomas-Greenfield
+1945	1950	Obame	Obama	PER	PER-Barack-Obama
+2004	2009	Biden	Biden	PER	PER-Joe-Biden
+2073	2080	Trumpom	Trump	PER	PER-Donald-Trump
+2083	2093	John Kerry	John Kerry	PER	PER-John-Kerry
+2116	2121	Obamo	Obama	PER	PER-Barack-Obama
+2146	2152	Bidnov	Biden	PER	PER-Joe-Biden
+2286	2291	Biden	Biden	PER	PER-Joe-Biden
+2346	2353	Obamove	Obama	PER	PER-Barack-Obama
+2372	2379	Kerryja	Kerry	PER	PER-John-Kerry
+2550	2555	Biden	Biden	PER	PER-Joe-Biden
+2826	2829	ZDA	ZDA	LOC	GPE-USA
+2954	2957	ZDA	ZDA	LOC	GPE-USA
+3021	3026	Trump	Trump	PER	PER-Donald-Trump
+3112	3117	Iraku	Irak	LOC	GPE-Iraq
+3121	3132	Afganistanu	Afganistan	LOC	GPE-Afghanistan
+3230	3269	sporazuma o omejitvi strateškega orožja	sporazum o omejitvi strateškega orožja	PRO	PRO-New-START
+3272	3278	Rusijo	Rusija	LOC	GPE-Russia
+3303	3310	Bidnovi	Biden	PER	PER-Joe-Biden
+3441	3450	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+3491	3498	Georgie	Georgia	LOC	GPE-Georgia-US-state
+3532	3545	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+3555	3570	Mitch McConnell	Mitch McConnell	PER	PER-Mitch-McConnell
+3605	3613	Bidnovih	Biden	PER	PER-Joe-Biden
+3621	3633	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+3722	3736	Bernie Sanders	Bernie Sanders	PER	PER-Bernie-Sanders
+3769	3785	Elizabeth Warren	Elizabeth Warren	PER	PER-Elizabeth-Warren
+3830	3835	Biden	Biden	PER	PER-Joe-Biden
+4051	4059	Vermontu	Vermont	LOC	GPE-Vermont
+4073	4080	Sanders	Sanders	PER	PER-Bernie-Sanders
+4088	4102	Massachusettsu	Massachusetts	LOC	GPE-Massachusetts
+4116	4125	Warrenova	Warren	PER	PER-Elizabeth-Warren
+4136	4148	republikanec	republikanec	ORG	ORG-Republican-Party-USA
+4175	4180	Biden	Biden	PER	PER-Joe-Biden
+4372	4388	Michele Flournoy	Michele Flournoy	PER	PER-Michele-Flournoy
+4441	4455	Billa Clintona	Bill Clinton	PER	PER-Bill-Clinton
+4459	4464	Obame	Obama	PER	PER-Barack-Obama
+4466	4471	Biden	Biden	PER	PER-Joe-Biden
+4521	4533	republikanca	republikanec	ORG	ORG-Republican-Party-USA
+4640	4645	Bidna	Biden	PER	PER-Joe-Biden
+4755	4766	Nove Mehike	Nova Mehika	LOC	GPE-New-Mexico
+4767	4778	Deb Haaland	Deb Haaland	PER	PER-Deb-Haaland
+4782	4785	ZDA	ZDA	LOC	GPE-USA
+4926	4936	Haalandove	Haaland	PER	PER-Deb-Haaland

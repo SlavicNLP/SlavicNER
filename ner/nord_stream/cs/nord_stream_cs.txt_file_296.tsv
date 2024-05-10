@@ -1,0 +1,23 @@
+0	6	Evropa	Evropa	LOC	LOC-Europe
+46	59	Spojené státy	Spojené státy	LOC	GPE-USA
+99	112	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+167	173	Evropy	Evropa	LOC	LOC-Europe
+181	195	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+197	219	Republikánští senátoři	Republikánští senátoři	PER	ORG-Republican-Party-USA
+220	233	John Barrasso	John Barrasso	PER	PER-John-Barrasso
+236	248	Cory Gardner	Cory Gardner	PER	PER-Cory-Gardner
+363	371	Barrasso	Barrasso	PER	PER-John-Barrasso
+432	438	Evropy	Evropa	LOC	LOC-Europe
+528	531	USA	USA	LOC	GPE-USA
+611	617	Evropě	Evropa	LOC	LOC-Europe
+709	714	Němců	Němci	PER	GPE-Germany
+797	802	Ruska	Rusko	LOC	GPE-Russia
+804	810	Norska	Norsko	LOC	GPE-Norway
+814	824	Nizozemska	Nizozemsko	LOC	GPE-Holland
+859	862	USA	USA	LOC	GPE-USA
+876	882	Kataru	Katar	LOC	GPE-Qatar
+945	960	Spojených států	Spojené státy	LOC	GPE-USA
+1025	1037	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+1038	1055	Norbert Brackmann	Norbert Brackmann	PER	PER-Norbert-Brackmann
+1094	1097	CDU	CDU	ORG	ORG-Christlich-Demokratische-Union
+1108	1124	Angely Merkelové	Angela Merklová	PER	PER-Angela-Merkel

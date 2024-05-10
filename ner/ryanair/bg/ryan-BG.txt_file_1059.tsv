@@ -1,0 +1,13 @@
+20	27	Букурещ	Букурещ	LOC	GPE-Bucharest
+43	50	българи	българи	PER	GPE-Bulgaria
+73	80	Райънер	Райънеър	ORG	ORG-Ryanair
+97	104	Букурещ	Букурещ	LOC	GPE-Bucharest
+120	127	българи	българи	PER	GPE-Bulgaria
+150	157	Райънер	Райънеър	ORG	ORG-Ryanair
+470	476	Иванов	Иванов	PER	PER-Mircho-Ivanov
+553	566	Денят започва	Денят започва	PRO	PRO-Deniat-zapochva
+571	574	БНТ	БНТ	PRO	ORG-Bulgarian-National-Radio
+575	593	Величка Божерикова	Величка Божерикова	PER	PER-Velichka-Bozherikova
+643	650	Букурещ	Букурещ	LOC	GPE-Bucharest
+652	658	Иванов	Иванов	PER	PER-Mircho-Ivanov
+864	872	Райънеър	Райънеър	ORG	ORG-Ryanair

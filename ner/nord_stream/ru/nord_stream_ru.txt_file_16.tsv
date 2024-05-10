@@ -1,0 +1,121 @@
+30	44	Nord Stream II	Nord Stream II	PRO	PRO-Blue-Stream
+49	56	Украины	Украина	LOC	GPE-Ukraine
+67	73	REGNUM	REGNUM	ORG	ORG-REGNUM-News-Agency
+77	84	Украине	Украина	LOC	GPE-Ukraine
+147	165	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+253	259	Кремля	Кремль	LOC	LOC-Kremlin
+307	314	Украины	Украина	LOC	GPE-Ukraine
+428	446	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+449	465	Турецкого потока	Турецкий поток	PRO	PRO-Turkish-Stream
+479	483	Рады	Рада	ORG	ORG-Verkhovna-Rada
+484	498	Андрей Парубий	Андрей Парубий	PER	PER-Andriy-Parubiy
+632	648	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+738	740	РФ	РФ	LOC	GPE-Russia
+744	751	Украину	Украина	LOC	GPE-Ukraine
+786	792	Россию	Россия	LOC	GPE-Russia
+824	831	Украину	Украина	LOC	GPE-Ukraine
+1013	1018	Литвы	Литва	LOC	GPE-Lithuania
+1020	1026	Латвии	Латвия	LOC	GPE-Latvia
+1028	1035	Эстонии	Эстония	LOC	GPE-Estonia
+1037	1044	Молдовы	Молдова	LOC	GPE-Moldova
+1046	1052	Польши	Польша	LOC	GPE-Poland
+1185	1192	Украины	Украина	LOC	GPE-Ukraine
+1230	1237	Украины	Украина	LOC	GPE-Ukraine
+1325	1343	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1348	1354	России	Россия	LOC	GPE-Russia
+1442	1449	Украины	Украина	LOC	GPE-Ukraine
+1458	1465	Парубий	Парубий	PER	PER-Andriy-Parubiy
+1533	1547	Народный фронт	Народный фронт	ORG	ORG-All-Russia-Peoples-Front
+1548	1561	Максим Бурбак	Максим Бурбак	PER	PER-Maksym-Burbak
+1590	1593	США	США	LOC	GPE-USA
+1688	1706	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1761	1779	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1797	1804	Украины	Украина	LOC	GPE-Ukraine
+1844	1852	Газпроме	Газпром	ORG	ORG-Gazprom
+1934	1940	Европы	Европа	LOC	LOC-Europe
+1941	1957	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+2063	2071	Газпрома	Газпрома	ORG	ORG-Gazprom
+2072	2084	Норд стрим-2	Норд стрим-2	PRO	PRO-Nord-Stream-2
+2154	2160	Европы	Европа	LOC	LOC-Europe
+2185	2192	Газпром	Газпром	ORG	ORG-Gazprom
+2248	2254	Европы	Европа	LOC	LOC-Europe
+2263	2269	Бурбак	Бурбак	PER	PER-Maksym-Burbak
+2333	2348	Петра Порошенко	Петр Порошенко	PER	PER-Petro-Poroshenko
+2365	2372	Украины	Украина	LOC	GPE-Ukraine
+2401	2414	Еврокомиссией	Еврокомиссия	ORG	ORG-European-Commission
+2428	2446	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+2513	2522	Газпромом	Газпром	ORG	ORG-Gazprom
+2541	2547	Кремля	Кремль	LOC	LOC-Kremlin
+2617	2632	Арсения Яценюка	Арсений Яценюк	PER	PER-Arseniy-Yatsenyuk
+2660	2669	Газпромом	Газпром	ORG	ORG-Gazprom
+2709	2716	Украины	Украина	LOC	GPE-Ukraine
+2775	2781	Бурбак	Бурбак	PER	PER-Maksym-Burbak
+2820	2835	Петра Порошенко	Петр Порошенко	PER	PER-Petro-Poroshenko
+2836	2851	Артур Герасимов	Артур Герасимов	PER	PER-Arthur-Gerasimov
+2911	2913	ЕС	ЕС	ORG	ORG-European-Union
+2988	3006	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+3078	3085	Украины	Украина	LOC	GPE-Ukraine
+3108	3111	БПП	БПП	ORG	ORG-Petro-Poroshenko-Solidarity-Party
+3190	3206	Северного потока	Северный поток	PRO	PRO-Nord-Stream-2
+3265	3274	Герасимов	Герасимов	PER	PER-Arthur-Gerasimov
+3335	3346	Ол ег Хавич	Олег Хавич	PER	PER-Oleg-Havich
+3360	3363	США	США	LOC	GPE-USA
+3371	3378	Газпром	Газпром	ORG	ORG-Gazprom
+3490	3506	Турецкого потока	Турецкий поток	PRO	PRO-Turkish-Stream
+3564	3571	Газпром	Газпром	ORG	ORG-Gazprom
+3607	3614	Украины	Украина	LOC	GPE-Ukraine
+3625	3638	Приднестровья	Приднестровье	LOC	LOC-Transnistria
+3639	3646	Газпром	Газпром	ORG	ORG-Gazprom
+3690	3706	Турецкого потока	Турецкий поток	PRO	PRO-Turkish-Stream
+3804	3810	Турцию	Турция	LOC	GPE-Turkey
+3817	3824	Украину	Украина	LOC	GPE-Ukraine
+3826	3833	Румынию	Румыния	LOC	GPE-Romania
+3836	3844	Болгарию	Болгария	LOC	GPE-Bulgaria
+3990	3992	ЕС	ЕС	ORG	ORG-European-Union
+4026	4031	Хавич	Хавич	PER	PER-Oleg-Havich
+4034	4042	Фейсбуке	Фейсбук	PRO	PRO-Facebook
+4060	4072	Михаил Розин	Михаил Розин	PER	PER-Michail-Rozin
+4086	4093	Украине	Украина	LOC	GPE-Ukraine
+4129	4131	ЕС	ЕС	ORG	ORG-European-Union
+4134	4141	Молдове	Молдова	LOC	GPE-Moldova
+4257	4263	Европу	Европа	LOC	LOC-Europe
+4287	4296	Газпромом	Газпром	ORG	ORG-Gazprom
+4452	4459	Украине	Украина	LOC	GPE-Ukraine
+4485	4493	Газпрома	Газпром	ORG	ORG-Gazprom
+4525	4532	Украину	Украина	LOC	GPE-Ukraine
+4534	4541	Украина	Украина	LOC	GPE-Ukraine
+4576	4591	Сумской границе	Сумская граница	LOC	LOC-Sumy-Oblast
+4646	4655	Молдавией	Молдавия	LOC	GPE-Moldova
+4661	4668	Газпром	Газпром	ORG	ORG-Gazprom
+4693	4700	Украине	Украина	LOC	GPE-Ukraine
+4746	4753	Украину	Украина	LOC	GPE-Ukraine
+4863	4877	Северный поток	Северный поток	PRO	PRO-Nord-Stream-2
+4922	4938	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+4941	4955	Турецкий поток	Турецкий поток	PRO	PRO-Turkish-Stream
+5058	5075	Северном потоке-1	Северный поток-1	PRO	PRO-Nord-Stream-1
+5134	5139	Розин	Розин	PER	PER-Michail-Rozin
+5142	5150	Фейсбуке	Фейсбук	PRO	PRO-Facebook
+5169	5185	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+5235	5242	Украины	Украина	LOC	GPE-Ukraine
+5269	5287	Северного потока-1	Северный поток-1	PRO	PRO-Nord-Stream-1
+5332	5334	РФ	РФ	LOC	GPE-Russia
+5341	5356	Балтийское море	Балтийское море	LOC	LOC-Baltic-Sea
+5360	5363	ФРГ	ФРГ	LOC	GPE-Germany
+5374	5390	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+5458	5466	Газпрому	Газпром	ORG	ORG-Gazprom
+5588	5593	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+5595	5598	OMV	OMV	ORG	ORG-OMV
+5600	5605	Engie	Engie	ORG	ORG-Engie
+5607	5613	Uniper	Uniper	ORG	ORG-Uniper
+5616	5627	Wintershall	Wintershall	ORG	ORG-Wintershall
+5645	5651	REGNUM	REGNUM	ORG	ORG-REGNUM-News-Agency
+5678	5686	Германии	Германия	LOC	GPE-Germany
+5738	5754	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+5875	5878	BSH	BSH	ORG	ORG-Federal-Office-for-Shipping-and-Hydrography-Germany
+5918	5934	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+5956	6016	Федерального ведомства по судоходству и гидрографии Германии	Федеральное ведомство по судоходству и гидрографии Германии	ORG	ORG-Federal-Office-for-Shipping-and-Hydrography-Germany
+6018	6021	BSH	BSH	ORG	ORG-Federal-Office-for-Shipping-and-Hydrography-Germany
+6039	6099	Федерального ведомства по судоходству и гидрографии Германии	Федеральное ведомство по судоходству и гидрографии Германии	ORG	ORG-Federal-Office-for-Shipping-and-Hydrography-Germany
+6101	6104	BSH	BSH	ORG	ORG-Federal-Office-for-Shipping-and-Hydrography-Germany
+6106	6124	Моника Браух-Мориц	Моника Браух-Мориц	PER	PER-Monica-Brauch-Moriz
+6249	6257	Газпрома	Газпром	ORG	ORG-Gazprom

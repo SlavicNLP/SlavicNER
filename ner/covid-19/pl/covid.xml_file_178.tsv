@@ -1,0 +1,8 @@
+10	17	Meksyku	Meksyk	LOC	GPE-Mexico
+67	75	COVID-19	COVID-19	EVT	EVT-Covid-19
+103	110	Meksyku	Meksyk	LOC	GPE-Mexico
+199	207	COVID-19	COVID-19	EVT	EVT-Covid-19
+214	231	Pfizer i BioNTech	Pfizer i BioNTech	ORG	ORG-Pfizer-BioNTech
+257	290	meksykańskie ministerstwo zdrowia	meksykańskie ministerstwo zdrowia	ORG	ORG-Ministry-of-Healthcare-Mexico
+377	387	Nuevo Leon	Nuevo Leon	LOC	GPE-Nuevo-Leon-Mexico
+521	535	koronawirusowi	koronawirus	EVT	EVT-Covid-19

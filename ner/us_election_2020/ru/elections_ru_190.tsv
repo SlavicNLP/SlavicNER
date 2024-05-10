@@ -1,0 +1,90 @@
+68	71	MSN	MSN	PRO	PRO-MSN
+129	133	Киев	Киев	LOC	GPE-Kiev
+167	170	США	США	LOC	GPE-USA
+173	215	Государственное бюро расследований Украины	Государственное бюро расследований Украины	ORG	ORG-State-Bureau-of-Investigation-of-Ukraine
+217	220	ГБР	ГБР	ORG	ORG-State-Bureau-of-Investigation-of-Ukraine
+297	306	украинцев	украинцы	PER	GPE-Ukraine
+307	352	президентские выборы в США в ноябре 2020 года	президентские выборы в США в ноябре 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+493	500	Украины	Украина	LOC	GPE-Ukraine
+501	513	Андрей Ермак	Андрей Ермак	PER	PER-Andrey-Ermak
+599	603	Киев	Киев	LOC	GPE-Kiev
+606	617	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+639	644	Ермак	Ермак	PER	PER-Andrey-Ermak
+765	780	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+783	798	Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+827	834	Украины	Украина	LOC	GPE-Ukraine
+1101	1115	«Слуга народа»	«Слуга народа»	ORG	"ORG-""Servant-of-the-People"""
+1159	1162	США	США	LOC	GPE-USA
+1163	1177	Кристиной Квин	Кристина Квин	PER	PER-Kristina-Kvien
+1237	1251	Верховной рады	Верховная рада	ORG	ORG-Verkhovna-Rada
+1252	1273	Александра Дубинского	Александр Дубинский 	PER	PER-Alexander-Dubinsky
+1541	1551	Минфин США	Минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+1590	1597	Украины	Украина	LOC	GPE-Ukraine
+1804	1811	Россией	Россия	LOC	GPE-Russia
+1843	1857	Верховной рады	Верховная рада	ORG	ORG-Verkhovna-Rada
+1858	1872	Андрею Деркачу	Андрей Деркач	PER	PER-Andrey-Derkach
+1883	1892	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1940	1943	США	США	LOC	GPE-USA
+1974	1988	Верховной рады	Верховная рада	ORG	ORG-Verkhovna-Rada
+1989	2010	Александра Дубинского	Александр Дубинский	PER	PER-Alexander-Dubinsky
+2030	2049	Александра Онищенко	Александр Онищенко	PER	PER-Alexander-Onishchenko
+2069	2087	Константина Кулика	Константин Кулик	PER	PER-Konstantin-Kulik
+2104	2135	посольства Украины в Вашингтоне	посольство Украины в Вашингтоне	ORG	ORG-Embassy-of-Ukraine-in-the-USA
+2136	2152	Андрея Телиженко	Андрей Телиженко	PER	PER-Andrey-Telizhenko
+2171	2178	Деркача	Деркач	PER	PER-Andrey-Derkach
+2181	2195	Петра Журавеля	Петр Журавель	PER	PER-Peter-Zhuravel
+2197	2215	Дмитрия Ковальчука	Дмитрий Ковальчук	PER	PER-Dmitry-Kovalchuk
+2217	2233	Антона Симоненко	Антон Симоненко	PER	PER-Anton-Simonenko
+2307	2316	Only News	Only News	PRO	PRO-Only-News
+2319	2328	«Скептик»	«Скептик»	PRO	"PRO-""Sceptic"""
+2347	2355	Журавель	Журавель	PER	PER-Peter-Zhuravel
+2365	2375	Nabu Leaks	Nabu Leaks	PRO	PRO-Nabuleaks
+2378	2389	«Эра-медиа»	«Эра-медиа»	PRO	PRO-Era-Media
+2424	2427	США	США	LOC	GPE-USA
+2472	2486	Андрея Деркача	Андрей Деркач	PER	PER-Andrey-Derkach
+2527	2533	Деркач	Деркач	PER	PER-Andrey-Derkach
+2586	2589	США	США	LOC	GPE-USA
+2606	2609	США	США	LOC	GPE-USA
+2657	2660	США	США	LOC	GPE-USA
+2792	2795	США	США	LOC	GPE-USA
+2881	2888	Украине	Украина	LOC	GPE-Ukraine
+2907	2927	американском Минфине	Американский Минфин	ORG	ORG-United-States-Department-of-the-treasury
+2971	2978	YouTube	YouTube	PRO	PRO-YouTube
+2998	3008	Дубинского	Дубинский	PER	PER-Alexander-Dubinsky
+3023	3031	Онищенко	Онищенко	PER	PER-Alexander-Onishchenko
+3032	3043	«Стране.ua»	«Страна.ua»	ORG	ORG-Country.ua
+3089	3092	США	США	LOC	GPE-USA
+3135	3146	Белого дома	Белый дом	ORG	ORG-The-White-House
+3147	3154	Байдена	Байден	PER	PER-Joe-Biden
+3157	3166	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+3170	3177	Украине	Украина	LOC	GPE-Ukraine
+3291	3301	украинских	украинский	LOC	GPE-Ukraine
+3479	3487	Онищенко	Онищенко	PER	PER-Alexander-Onishchenko
+3512	3519	Деркачу	Деркач	PER	PER-Andrey-Derkach
+3545	3548	США	США	LOC	GPE-USA
+3588	3616	Печерский районный суд Киева	Печерский районный суд Киева	ORG	ORG-Pechersky-District-Court-of-Kiev
+3626	3637	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3649	3664	Хантера Байдена	Хантер Байден	PER	PER-Hunter-Biden
+3728	3735	Burisma	Burisma	ORG	ORG-Burisma
+3781	3788	Украины	Украина	LOC	GPE-Ukraine
+3918	3921	США	США	LOC	GPE-USA
+3922	3937	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3938	3957	Рудольфом] Джулиани	Рудольф Джулиани	PER	ORG-Republican-Party-USA
+4042	4049	Украины	Украина	LOC	GPE-Ukraine
+4061	4064	США	США	LOC	GPE-USA
+4117	4123	Деркач	Деркач	PER	PER-Andrey-Derkach
+4142	4145	США	США	LOC	GPE-USA
+4272	4282	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+4398	4405	Украины	Украина	LOC	GPE-Ukraine
+4406	4422	Петром Порошенко	Петр Порошенко	PER	PER-Petro-Poroshenko
+4425	4433	Байденом	Байден	PER	PER-Joe-Biden
+4468	4471	США	США	LOC	GPE-USA
+4629	4636	Украины	Украина	LOC	GPE-Ukraine
+4637	4651	Виктора Шокина	Виктор Шокин	PER	PER-Viktor-Shokin
+4673	4703	Международного валютного фонда	Международный валютный фонд	ORG	ORG-International-Monetary-Fund
+4720	4726	Деркач	Деркач	PER	PER-Andrey-Derkach
+4769	4782	Хантер Байден	Хантер Байден	PER	PER-Hunter-Biden
+4808	4815	Украине	Украина	LOC	GPE-Ukraine
+4839	4846	Burisma	Burisma	ORG	ORG-Burisma
+4898	4924	Демократической партии США	Демократическая партия США	ORG	ORG-Democratic-Party-USA
+4928	4935	Украине	Украина	LOC	GPE-Ukraine

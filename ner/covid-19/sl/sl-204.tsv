@@ -1,0 +1,28 @@
+1	9	COVID-19	COVID-19	EVT	EVT-Covid-19
+79	95	Willem H. Buiter	Willem H. Buiter	PER	PER-Willem-Buiter
+119	136	Univerzi Columbia	Univerza Columbia	ORG	ORG-University-of-Columbia
+176	185	Citigroup	Citigroup	ORG	ORG-Citygroup
+263	271	Covid-19	Covid-19	EVT	EVT-Covid-19
+313	337	ameriška centralna banka	ameriška centralna banka	ORG	ORG-Federal-Reserve-System
+339	353	Zvezne rezerve	Zvezne rezerve	ORG	ORG-Federal-Reserve-System
+355	358	Fed	Fed	ORG	ORG-Fed
+431	434	Fed	Fed	ORG	ORG-Fed
+543	546	Fed	Fed	ORG	ORG-Fed
+736	739	Fed	Fed	ORG	ORG-Fed
+982	992	Ginnie Mae	Ginnie Mae	ORG	ORG-Government-National-Mortgage-Association
+994	1004	Fannie Mae	Fannie Mae	ORG	ORG-Federal-National-Mortgage-Association
+1008	1019	Freddie Mac	Freddie Mac	ORG	ORG-Federal-Home-Loan-Mortgage-Corporation
+1184	1187	Fed	Fed	ORG	ORG-Fed
+1524	1527	Fed	Fed	ORG	ORG-Fed
+1542	1550	kanadsko	kanadski	ORG	ORG-Bank-of-Canada
+1552	1561	britansko	britanski	ORG	ORG-Bank-of-England
+1563	1571	japonsko	japonski	ORG	ORG-Bank-of-Japan
+1573	1581	evropsko	evropski	ORG	ORG-European-Central-Bank
+1585	1610	švicarsko centralno banko	švicarska centralna banka	ORG	ORG-Swiss-National-Bank
+1829	1832	Fed	Fed	ORG	ORG-Fed
+1886	1898	Long Islanda	Long Island	LOC	GPE-Long-Island
+1919	1943	ameriška centralna banka	ameriška centralna banka	ORG	ORG-Federal-Reserve-System
+2006	2014	Covid-19	Covid-19	EVT	EVT-Covid-19
+2655	2658	Fed	Fed	ORG	ORG-Fed
+2870	2878	Covid-19	Covid-19	EVT	EVT-Covid-19
+4132	4140	Covid-19	Covid-19	EVT	EVT-Covid-19

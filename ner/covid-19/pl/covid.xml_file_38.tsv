@@ -1,0 +1,39 @@
+29	41	koronawirusa	koronawirus	EVT	EVT-Covid-19
+120	126	Polsce	Polska	LOC	GPE-Poland
+149	164	Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+178	188	Radiem Zet	Radio Zet	PRO	PRO-RadioZET
+582	588	Izrael	Izrael	LOC	GPE-Israel
+591	598	Bahrajn	Bahrajn	LOC	GPE-Kingdom-of-Bahrain
+669	675	Izrael	Izrael	LOC	GPE-Israel
+810	816	Pfizer	Pfizer	ORG	ORG-Pfizer
+817	825	BioNTech	BioNTech	ORG	ORG-BioNTech
+916	922	Izrael	Izrael	LOC	GPE-Israel
+1135	1142	Bahrajn	Bahrajn	LOC	GPE-Kingdom-of-Bahrain
+1184	1202	Europie Zachodniej	Europa Zachodnia	LOC	LOC-Western-Europe
+1259	1267	COVID-19	COVID-19	EVT	EVT-Covid-19
+1273	1288	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1343	1350	Pfizera	Pfizer	ORG	ORG-Pfizer
+1392	1400	Brytyjkę	Brytyjka	PER	GPE-Great-Britain
+1532	1542	Amerykanów	Amerykanie	PER	GPE-USA
+1597	1607	Bloomberga	Bloomberg	PRO	PRO-Bloomberg
+1611	1614	USA	USA	LOC	GPE-USA
+1738	1755	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1910	1915	Rosja	Rosja	LOC	GPE-Russia
+1918	1923	Chiny	Chiny	LOC	GPE-China
+1948	1953	Rosji	Rosja	LOC	GPE-Russia
+2011	2019	COVID-19	COVID-19	EVT	EVT-Covid-19
+2058	2067	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+2092	2099	Moskwie	Moskwa	LOC	GPE-Moscow
+2143	2154	Petersburgu	Petersburg	LOC	GPE-Saint-Petersburg
+2348	2357	Białorusi	Białoruś	LOC	GPE-Belarus
+2362	2372	Argentynie	Argentyna	LOC	GPE-Argentina
+2374	2383	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+2414	2423	Wenezuela	Wenezuela	LOC	GPE-Venezuela
+2425	2430	Indie	Indie	LOC	GPE-India
+2433	2441	Brazylia	Brazylia	LOC	GPE-Brazil
+2474	2478	Chin	Chiny	LOC	GPE-China
+2534	2542	Covid-19	Covid-19	EVT	EVT-Covid-19
+2606	2615	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+2731	2738	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+2865	2875	Bloomberga	Bloomberg	PRO	PRO-Bloomberg
+2879	2886	Chinach	Chiny	LOC	GPE-China

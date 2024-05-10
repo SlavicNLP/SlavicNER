@@ -1,0 +1,12 @@
+2	11	Warszawie	Warszawa	LOC	GPE-Warsaw
+123	132	Warszawie	Warszawa	LOC	GPE-Warsaw
+179	193	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+287	293	Polsce	Polska	LOC	GPE-Poland
+333	337	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+371	386	Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+401	412	Polsat News	Polsat News	PRO	PRO-Polsat-News
+575	583	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+614	620	Polsce	Polska	LOC	GPE-Poland
+649	657	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+768	774	Polsce	Polska	LOC	GPE-Poland
+795	803	COVID-19	COVID-19	EVT	EVT-Covid-19

@@ -1,0 +1,36 @@
+27	38	коронавирус	коронавирус	EVT	EVT-Covid-19
+41	47	России	Россия	LOC	GPE-Russia
+187	192	kp.ru	kp.ru	PRO	PRO-Komsomolskaya-Pravda
+240	255	Евгений Тимаков	Евгений Тимаков	PER	PER-Evgeny-Timakov
+348	367	Владимир ВЕЛЕНГУРИН	Владимир ВЕЛЕНГУРИН	PER	PER-Vladimir-Velengurin
+393	405	коронавируса	коронавирус	EVT	EVT-Covid-19
+729	742	«Спутником V»	Спутник V	PRO	PRO-Sputnik-V
+791	798	ковидом	ковид	EVT	EVT-Covid-19
+922	926	«КП»	КП	PRO	PRO-Komsomolskaya-Pravda
+929	938	Минздраве	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+1385	1401	«Лидер медицина»	Лидер медицина	ORG	ORG-Medical-Centre-Lider-Medicina
+1440	1456	Евгению Тимакову	Евгений Тимаков	PER	PER-Evgeny-Timakov
+1586	1601	Евгений Юрьевич	Евгений Юрьевич	PER	PER-Evgeny-Timakov
+1736	1742	России	Россия	LOC	GPE-Russia
+2040	2046	России	Россия	LOC	GPE-Russia
+2115	2125	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+3082	3094	коронавируса	коронавирус	EVT	EVT-Covid-19
+3166	3173	REUTERS	REUTERS	PRO	ORG-Reuters
+3402	3417	Евгений Тимаков	Евгений Тимаков	PER	PER-Evgeny-Timakov
+3816	3822	ковиду	ковид	EVT	EVT-Covid-19
+3891	3906	Евгений Юрьевич	Евгений Юрьевич	PER	PER-Evgeny-Timakov
+4007	4010	США	США	LOC	GPE-USA
+4174	4186	коронавируса	коронавирус	EVT	EVT-Covid-19
+4278	4286	COVID-19	COVID-19	EVT	EVT-Covid-19
+4473	4479	ковида	ковид	EVT	EVT-Covid-19
+4810	4817	REUTERS	REUTERS	PRO	ORG-Reuters
+5343	5355	«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+5417	5431	«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+5432	5471	новосибирского научного центра «Вектор»	новосибирский научный центр «Вектор»	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+5482	5500	Центра им.Чумакова	Центр им.Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+6102	6113	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+6337	6355	Центр им. Чумакова	Центр им. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+6755	6769	новосибирского	новосибирский	LOC	GPE-Novosibirsk
+6770	6779	«Вектора»	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+6782	6801	Центра им. Чумакова	Центр им. Чумакова	ORG	ORG-Chumakov-Scientific-Center-Russia
+6995	7007	«Спутнику V»	Спутник V	PRO	PRO-Sputnik-V

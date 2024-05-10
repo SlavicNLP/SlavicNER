@@ -1,0 +1,13 @@
+20	26	covidu	covid	EVT	EVT-Covid-19
+49	79	Wuchanský virologický institut	Wuchanský virologický institut	ORG	ORG-Wuchan-Virologic-Institute
+103	109	covidu	covid	EVT	EVT-Covid-19
+166	177	čínský stát	čínský stát	LOC	GPE-China
+284	297	Roman Prymula	Roman Prymula	PER	PER-Roman-Prymula
+368	376	Wu-chanu	Wu-chan	LOC	GPE-Wuhan
+527	533	covidu	covid	EVT	EVT-Covid-19
+629	642	Roman Prymula	Roman Prymula	PER	PER-Roman-Prymula
+713	718	Praze	Praha	LOC	GPE-Prague
+740	754	Pražském hradě	Pražský hrad	LOC	LOC-Prague-Castle
+916	924	covid-19	covid-19	EVT	EVT-Covid-19
+1006	1010	Číně	Čína	LOC	GPE-China
+1322	1335	Roman Prymula	Roman Prymula	PER	PER-Roman-Prymula

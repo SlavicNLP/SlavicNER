@@ -1,0 +1,115 @@
+21	30	Slovenija	Slovenija	LOC	GPE-Slovenia
+44	57	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+107	114	Nemčiji	Nemčija	LOC	GPE-Germany
+202	208	Rusije	Rusija	LOC	GPE-Russia
+289	305	Severnega toka 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+316	319	LNG	LNG	PRO	PRO-LNG
+351	360	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+368	403	konferenca o energetski prihodnosti	konferenca o energetski prihodnosti	EVT	EVT-IAEE-European-Energy-Conference
+424	468	Mednarodno združenje za energetsko ekonomiko	Mednarodno združenje za energetsko ekonomiko	ORG	ORG-IAEE
+470	474	IAEE	IAEE	ORG	ORG-IAEE
+479	510	ljubljanska ekonomska fakulteta	ljubljanska ekonomska fakulteta	ORG	ORG-School-of-Economics-and-Business-Ljubljana
+591	597	Evropi	Evropa	LOC	LOC-Europe
+636	639	LNG	LNG	PRO	PRO-LNG
+709	715	Rusijo	Rusija	LOC	GPE-Russia
+857	863	Evropi	Evropa	LOC	LOC-Europe
+968	970	EU	EU	ORG	ORG-European-Union
+1051	1053	EU	EU	ORG	ORG-European-Union
+1098	1111	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1143	1148	Rusov	Rusi	PER	GPE-Russia
+1198	1204	Rusije	Rusija	LOC	GPE-Russia
+1207	1209	EU	EU	ORG	ORG-European-Union
+1257	1263	Rusijo	Rusija	LOC	GPE-Russia
+1282	1287	Krima	Krim	LOC	GPE-Crimea
+1312	1320	Gazproma	Gazprom	ORG	ORG-Gazprom
+1415	1417	EU	EU	ORG	ORG-European-Union
+1515	1521	Rusije	Rusija	LOC	GPE-Russia
+1576	1583	Nemčiji	Nemčija	LOC	GPE-Germany
+1675	1682	Nemčije	Nemčija	LOC	GPE-Germany
+1694	1696	EU	EU	ORG	ORG-European-Union
+1746	1762	Severnega toka 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1800	1807	Gazprom	Gazprom	ORG	ORG-Gazprom
+1823	1836	Severni tok 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+1838	1844	Rusijo	Rusija	LOC	GPE-Russia
+1848	1855	Nemčijo	Nemčija	LOC	GPE-Germany
+1896	1911	Baltskim morjem	Baltsko morje	LOC	LOC-Baltic-Sea
+1934	1940	Rusije	Rusija	LOC	GPE-Russia
+1942	1948	Finske	Finska	LOC	GPE-Finland
+1950	1957	Švedske	Švedska	LOC	GPE-Sweden
+1959	1965	Danske	Danska	LOC	GPE-Denmark
+1969	1976	Nemčije	Nemčija	LOC	GPE-Germany
+1980	1996	Severnim tokom 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2052	2059	Nemčijo	Nemčija	LOC	GPE-Germany
+2136	2139	OMV	OMV	ORG	ORG-OMV
+2168	2175	Poljsko	Poljska	LOC	GPE-Poland
+2209	2225	Severnega toka 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2309	2315	Rusije	Rusija	LOC	GPE-Russia
+2318	2325	Nemčijo	Nemčija	LOC	GPE-Germany
+2437	2440	LNG	LNG	PRO	PRO-LNG
+2587	2590	LNG	LNG	PRO	PRO-LNG
+2635	2638	ZDA	ZDA	LOC	GPE-USA
+2662	2665	LNG	LNG	PRO	PRO-LNG
+2770	2787	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+2788	2809	Jean-Clauda Junckerja	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+2836	2850	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2872	2875	LNG	LNG	PRO	PRO-LNG
+2884	2886	EU	EU	ORG	ORG-European-Union
+2967	2969	EU	EU	ORG	ORG-European-Union
+3054	3068	Denis Mancevič	Denis Mancevič	PER	PER-Denis-Mancevič
+3073	3079	Evropi	Evropa	LOC	LOC-Europe
+3136	3140	Rusi	Rusi	PER	GPE-Russia
+3214	3216	EU	EU	ORG	ORG-European-Union
+3252	3255	LNG	LNG	PRO	PRO-LNG
+3269	3275	Evropi	Evropa	LOC	LOC-Europe
+3301	3304	LNG	LNG	PRO	PRO-LNG
+3317	3321	Krku	Krk	LOC	LOC-Krk
+3325	3333	Hrvaškem	Hrvaška	LOC	GPE-Croatia
+3367	3369	EU	EU	ORG	ORG-European-Union
+3462	3478	Denisa Manceviča	Denis Mancevič	PER	PER-Denis-Mancevič
+3516	3522	Rusija	Rusija	LOC	GPE-Russia
+3553	3555	EU	EU	ORG	ORG-European-Union
+3633	3639	Evropi	Evropa	LOC	LOC-Europe
+3741	3744	LNG	LNG	PRO	PRO-LNG
+3756	3762	Evropo	Evropa	LOC	LOC-Europe
+3793	3801	Mancevič	Mancevič	PER	PER-Denis-Mancevič
+3836	3852	Severnim tokom 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+3877	3922	Pogodba za tranzit ruskega plina čez Ukrajino	Pogodba za tranzit ruskega plina čez Ukrajino	PRO	PRO-Russia-Ukraine-gas-transit-deal
+3944	3950	Rusija	Rusija	LOC	GPE-Russia
+4072	4085	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+4155	4163	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+4202	4210	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+4237	4245	Mancevič	Mancevič	PER	PER-Denis-Mancevič
+4248	4254	Rusija	Rusija	LOC	GPE-Russia
+4274	4277	LNG	LNG	PRO	PRO-LNG
+4304	4310	Rusija	Rusija	LOC	GPE-Russia
+4341	4349	Kitajsko	Kitajska	LOC	GPE-China
+4399	4402	LNG	LNG	PRO	PRO-LNG
+4425	4433	Kitajsko	Kitajska	LOC	GPE-China
+4551	4563	Moč Sibirije	Moč Sibirije	PRO	PRO-Power-of-Siberia-gas-pipeline
+4573	4579	Rusija	Rusija	LOC	GPE-Russia
+4586	4594	Kitajski	Kitajska	LOC	GPE-China
+4651	4655	ESPO	ESPO	PRO	PRO-East-Siberia-Pacific-Ocean
+4657	4683	East Siberia-Pacific Ocean	East Siberia-Pacific Ocean	PRO	PRO-East-Siberia-Pacific-Ocean
+4817	4825	Kitajski	Kitajska	LOC	GPE-China
+4853	4859	Rusija	Rusija	LOC	GPE-Russia
+4880	4883	LNG	LNG	PRO	PRO-LNG
+4898	4906	Sahalinu	Sahalin	LOC	GPE-Sakhalin
+4956	4962	Rusije	Rusija	LOC	GPE-Russia
+4986	4989	LNG	LNG	PRO	PRO-LNG
+5009	5017	Mancevič	Mancevič	PER	PER-Denis-Mancevič
+5021	5023	EU	EU	ORG	ORG-European-Union
+5072	5084	Moč Sibirije	Moč Sibirije	PRO	PRO-Power-of-Siberia-gas-pipeline
+5215	5221	Evropa	Evropa	LOC	LOC-Europe
+5249	5265	vzhodni Sibiriji	vzhodna Sibirija	LOC	LOC-East-Siberia
+5282	5288	Rusija	Rusija	LOC	GPE-Russia
+5339	5341	EU	EU	ORG	ORG-European-Union
+5352	5361	Slovenija	Slovenija	LOC	GPE-Slovenia
+5382	5391	Slovenije	Slovenija	LOC	GPE-Slovenia
+5474	5480	Rusije	Rusija	LOC	GPE-Russia
+5550	5558	Mancevič	Mancevič	PER	PER-Denis-Mancevič
+5592	5601	Slovenija	Slovenija	LOC	GPE-Slovenia
+5631	5634	LNG	LNG	PRO	PRO-LNG
+5648	5652	Krku	Krk	LOC	LOC-Krk
+5744	5760	Severnega toka 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+5767	5776	Slovenija	Slovenija	LOC	GPE-Slovenia
+5842	5849	Gazprom	Gazprom	ORG	ORG-Gazprom

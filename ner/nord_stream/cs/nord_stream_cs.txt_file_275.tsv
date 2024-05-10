@@ -1,0 +1,25 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+15	25	Merkelovou	Merkelová	PER	PER-Angela-Merkel
+65	72	Německo	Německo	LOC	GPE-Germany
+81	86	Trump	Trump	PER	PER-Donald-Trump
+183	191	Německem	Německo	LOC	GPE-Germany
+202	212	Merkelovou	Merkelová	PER	PER-Angela-Merkel
+313	324	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+327	332	Trump	Trump	PER	PER-Donald-Trump
+360	364	NATO	NATO	ORG	ORG-NATO
+365	385	Jensem Stoltenbergem	Jens Stoltenberg	PER	PER-Jens-Stoltenberg
+386	393	Německo	Německo	LOC	GPE-Germany
+422	429	Německo	Německo	LOC	GPE-Germany
+440	447	Francii	Francie	LOC	GPE-France
+526	532	Ruskem	Rusko	LOC	GPE-Russia
+587	592	Trump	Trump	PER	PER-Donald-Trump
+595	602	Německo	Německo	LOC	GPE-Germany
+609	614	Rusku	Rusko	LOC	GPE-Russia
+702	710	Trumpovu	Trump	PER	PER-Donald-Trump
+752	756	NATO	NATO	ORG	ORG-NATO
+785	792	Německa	Německo	LOC	GPE-Germany
+829	859	Německé demokratické republiky	Německá demokratická republika	LOC	GPE-Germany
+861	864	NDR	NDR	LOC	GPE-Germany
+922	938	Sovětského svazu	Sovětský svaz	LOC	GPE-USSR
+992	1018	Spolková republika Německo	Spolková republika Německo	LOC	GPE-Germany
+1126	1135	Merkelová	Merkelová	PER	PER-Angela-Merkel

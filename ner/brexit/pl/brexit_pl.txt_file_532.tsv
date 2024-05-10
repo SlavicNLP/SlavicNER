@@ -1,0 +1,36 @@
+3	11	Brexicie	Brexit	EVT	EVT-Brexit
+300	310	Katowicach	Katowice	LOC	GPE-Katowice
+533	537	Unia	Unia	ORG	ORG-European-Union
+541	549	brexicie	Brexit	EVT	EVT-Brexit
+586	601	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+609	611	UE	UE	ORG	ORG-European-Union
+793	795	UE	UE	ORG	ORG-European-Union
+959	967	Olbrycht	Olbrycht	PER	PER-Jan-Olbrycht
+1013	1018	Dania	Dania	LOC	GPE-Denmark
+1035	1044	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1129	1131	UE	UE	ORG	ORG-European-Union
+1313	1321	Olbrycht	Olbrycht	PER	PER-Jan-Olbrycht
+1347	1355	brexitem	Brexit	EVT	EVT-Brexit
+1358	1362	Unii	Unia	ORG	ORG-European-Union
+1424	1433	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1612	1620	brexicie	Brexit	EVT	EVT-Brexit
+1621	1623	UE	UE	ORG	ORG-European-Union
+1788	1797	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1808	1814	Niemcy	Niemcy	PER	GPE-Germany
+1817	1825	Francuzi	Francuzi	PER	GPE-France
+1884	1892	Olbrycht	Olbrycht	PER	PER-Jan-Olbrycht
+1998	2000	UE	UE	ORG	ORG-European-Union
+2038	2040	UE	UE	ORG	ORG-European-Union
+2047	2062	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2074	2083	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2368	2372	Unia	Unia	ORG	ORG-European-Union
+2771	2789	Guenther Oettinger	Guenther Oettinger	PER	PER-Guenther-Oettinger
+3266	3270	Unii	Unia	ORG	ORG-European-Union
+3326	3334	Olbrycht	Olbrycht	PER	PER-Jan-Olbrycht
+3760	3768	Olbrycht	Olbrycht	PER	PER-Jan-Olbrycht
+4047	4051	Unii	Unia	ORG	ORG-European-Union
+4063	4072	Europoseł	Europoseł	PER	ORG-European-Parlament
+4362	4382	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+4384	4392	Olbrycht	Olbrycht	PER	PER-Jan-Olbrycht
+4851	4871	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+4989	4991	PE	PE	ORG	ORG-European-Parliament

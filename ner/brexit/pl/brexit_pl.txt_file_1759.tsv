@@ -1,0 +1,34 @@
+11	28	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+50	52	UE	UE	ORG	ORG-European-Union
+129	137	brexicie	Brexit	EVT	EVT-Brexit
+140	143	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+479	484	Davis	Davis	PER	PER-David-Davis
+793	796	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+868	874	Davisa	Davis	PER	PER-David-Davis
+977	994	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1015	1032	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1096	1103	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+1135	1144	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1146	1153	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+1227	1230	GPS	GPS	PRO	PRO-GPS
+1465	1480	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1770	1778	brexicie	Brexit	EVT	EVT-Brexit
+1796	1811	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1897	1900	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1903	1911	Londynie	Londyn	LOC	GPE-London
+2076	2083	brexitu	Brexit	EVT	EVT-Brexit
+2163	2178	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2241	2246	Rosji	Rosja	LOC	GPE-Russia
+2260	2265	Davis	Davis	PER	PER-David-Davis
+2291	2294	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2342	2349	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+2481	2487	Airbus	Airbus	ORG	ORG-Airbus-SE
+2522	2525	CGI	CGI	ORG	ORG-CGI
+2632	2647	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2672	2679	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+2722	2724	UE	UE	ORG	ORG-European-Union
+2822	2829	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+2873	2882	Hiszpanii	Hiszpania	LOC	GPE-Spain
+2885	2892	Estonii	Estonia	LOC	GPE-Estonia
+2896	2903	Londynu	Londyn	LOC	GPE-London
+2904	2915	Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa

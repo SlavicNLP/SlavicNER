@@ -1,0 +1,21 @@
+15	25	американци	американци	PER	GPE-USA
+47	68	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+122	149	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+385	395	Калифорния	Калифорния	LOC	GPE-California
+407	414	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+512	537	президентски избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+571	578	Ройтерс	Ройтерс	ORG	ORG-Reuters
+612	638	Американски изборен проект	Американски изборен проект	PRO	PRO-United-States-Elections-Project
+859	871	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+885	899	републиканците	републиканци	PER	ORG-Republican-Party-USA
+929	940	демократите	демократи	PER	ORG-Democratic-Party-USA
+941	951	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1137	1164	Американския изборен проект	Американски изборен проект	PRO	PRO-United-States-Elections-Project
+1219	1228	демократи	демократи	PER	ORG-Democratic-Party-USA
+1240	1252	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1446	1451	Тръмп	Тръмп	PER	PER-Donald-Trump
+1608	1624	Майкъл Макдоналд	Майкъл Макдоналд	PER	PER-Michael-McDonald
+1641	1664	Университета на Флорида	Университет на Флорида	ORG	ORG-University-of-Florida
+1681	1708	Американския изборен проект	Американски изборен проект	PRO	PRO-United-States-Elections-Project
+1879	1885	Тексас	Тексас	LOC	GPE-Texas
+1984	1991	Ройтерс	Ройтерс	ORG	ORG-Reuters

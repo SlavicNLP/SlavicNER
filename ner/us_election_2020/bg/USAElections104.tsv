@@ -1,0 +1,79 @@
+0	14	Диана Тодорова	Диана Тодорова	PER	PER-Diana-Todorova
+50	59	Белия дом	Бял дом	LOC	LOC-White-House
+61	72	демократите	демократи	PER	ORG-Democratic-Party-USA
+75	89	републиканците	републиканци	PER	ORG-Republican-Party-USA
+136	142	Сената	Сенат	ORG	ORG-United-States-Senate
+146	149	САЩ	САЩ	LOC	GPE-USA
+157	160	BBC	BBC	PRO	PRO-BBC
+163	177	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+216	242	горната камара на Конгреса	Горна камара на Конгреса	ORG	ORG-United-States-Senate
+263	274	демократите	демократи	PER	ORG-Democratic-Party-USA
+377	385	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+388	404	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+429	440	Демократите	демократи	PER	ORG-Democratic-Party-USA
+489	503	долната камара	Долна камара	ORG	ORG-House-of-Representatives(USA)
+691	698	Конгрес	Конгрес	ORG	ORG-United-States-Congress
+731	740	Белия дом	Бял дом	LOC	LOC-White-House
+747	759	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+796	806	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+826	835	демократи	демократи	PER	ORG-Democratic-Party-USA
+836	842	Камара	Камара	ORG	ORG-United-States-House-of-Representatives
+845	850	Сенат	Сенат	ORG	ORG-United-States-Senate
+920	925	Тръмп	Тръмп	PER	PER-Donald-Trump
+969	975	Байдън	Байдън	PER	PER-Joe-Biden
+1008	1014	Сената	Сенат	ORG	ORG-United-States-Senate
+1033	1047	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1057	1066	демократи	демократи	PER	ORG-Democratic-Party-USA
+1232	1243	демократите	демократи	PER	ORG-Democratic-Party-USA
+1289	1294	Сенат	Сенат	ORG	ORG-United-States-Senate
+1470	1493	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+1494	1509	Джон Хикенлупър	Джон Хикенлупър	PER	PER-John-Hickenlooper
+1534	1542	Колорадо	Колорадо	LOC	GPE-Colorado
+1571	1583	Кори Гарднър	Кори Гарднър	PER	PER-Cory-Gardner
+1585	1595	Хикенлупър	Хикенлупър	PER	PER-John-Hickenlooper
+1630	1641	демократите	демократи	PER	ORG-Democratic-Party-USA
+1675	1683	Колорадо	Колорадо	LOC	GPE-Colorado
+1815	1820	Тръмп	Тръмп	PER	PER-Donald-Trump
+1825	1832	Аризона	Аризона	LOC	GPE-Arizona
+1851	1860	Марк Кели	Марк Кели	PER	PER-Mark-Kelly
+1915	1928	Марта Максали	Марта Максали	PER	PER-Martha-McSally
+2083	2095	Мич Макконъл	Мич Макконъл	PER	PER-Mitch-McConnell
+2111	2116	Тръмп	Тръмп	PER	PER-Donald-Trump
+2117	2129	Линдзи Греъм	Линдзи Греъм	PER	PER-Lindsey-Graham
+2172	2179	Кентъки	Кентъки	LOC	GPE-Kentucky
+2182	2195	Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+2201	2208	Алабама	Алабама	LOC	GPE-USA-Alabama
+2223	2245	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+2246	2259	Томи Тъбървил	Томи Тъбървил	PER	PER-Tommy-Tuberville
+2273	2282	демократа	демократ	PER	ORG-Democratic-Party-USA
+2283	2293	Дъг Джоунс	Дъг Джоунс	PER	PER-Doug-Jones
+2315	2320	Сенат	Сенат	ORG	ORG-United-States-Senate
+2428	2439	демократите	демократи	PER	ORG-Democratic-Party-USA
+2440	2450	Ричи Торес	Ричи Торес	PER	PER-Ritchie-Torres
+2453	2466	Мондър Джоунс	Мондър Джоунс	PER	PER-Mondaire-Jones
+2480	2487	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+2534	2542	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+2569	2596	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+2598	2609	Демократите	демократи	PER	ORG-Democratic-Party-USA
+2610	2635	Александрия Окасио-Кортез	Александрия Окасио-Кортез	PER	PER-Alexandria-Ocasio-Cortez
+2637	2648	Аяна Пресли	Аяна Пресли	PER	PER-Ayanna-Pressley
+2650	2662	Рашида Тлайб	Рашида Тлайб	PER	PER-Rashida-Tlaib
+2665	2675	Илхан Омар	Илхан Омар	PER	PER-Ilhan-Omar
+2703	2711	Камарата	Камара	ORG	ORG-House-of-Representatives(USA)
+2749	2757	Оклахома	Оклахома	LOC	GPE-Oklahoma
+2779	2802	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2815	2826	Кендра Хорн	Кендра Хорн	PER	PER-Kendra-Horn
+2859	2881	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+2882	2893	Стефани Бис	Стефани Бис	PER	PER-Stephanie-Bice
+2942	2950	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+3015	3020	QAnon	QAnon	PRO	PRO-QAnon-theory
+3022	3043	Марджори Тейлър Грийн	Марджори Тейлър Грийн	PER	PER-Marjorie-Taylor-Greene
+3047	3053	Грузия	Джорджия	LOC	GPE-Georgia-US-state
+3114	3119	Тръмп	Тръмп	PER	PER-Donald-Trump
+3215	3223	Делауеър	Делауеър	LOC	GPE-Delaware
+3237	3260	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+3262	3275	Сара Макбрайд	Сара Макбрайд	PER	PER-Sarah-McBride
+3353	3364	Демократите	демократи	PER	ORG-Democratic-Party-USA
+3435	3443	COVID-19	COVID-19	EVT	EVT-Covid-19
+3446	3449	САЩ	САЩ	LOC	GPE-USA
+3570	3584	републиканците	републиканци	PER	ORG-Republican-Party-USA

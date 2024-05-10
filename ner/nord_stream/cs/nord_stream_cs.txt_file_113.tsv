@@ -1,0 +1,28 @@
+9	12	USA	USA	LOC	GPE-USA
+33	38	Trump	Trump	PER	PER-Donald-Trump
+72	78	Evropa	Evropa	LOC	LOC-Europe
+187	199	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+215	221	Evropě	Evropa	LOC	LOC-Europe
+226	236	Washington	Washington	LOC	GPE-WashingtonDC
+252	255	USA	USA	LOC	GPE-USA
+437	449	George Bushe	George Bush	PER	PER-George-Bush-Jr
+489	502	Baracka Obamy	Barack Obama	PER	PER-Barack-Obama
+590	606	Angely Merkelová	Angela Merkelová	PER	PER-Angela-Merkel
+619	633	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+637	648	Bílého domu	Bílý dům	LOC	LOC-White-House
+730	738	Trumpovo	Trump	PER	PER-Donald-Trump
+799	802	USA	USA	LOC	GPE-USA
+872	881	Evropanům	Evropané	PER	LOC-Europe
+925	932	Evropou	Evropa	LOC	LOC-Europe
+1067	1074	Bushové	Bushové	PER	PER-George-Bushs-jr-sr
+1091	1098	Clinton	Clinton	PER	PER-Hillary-Clinton
+1101	1106	Obama	Obama	PER	PER-Barack-Obama
+1118	1131	Evropská unie	Evropská unie	ORG	ORG-European-Union
+1188	1200	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1246	1249	USA	USA	LOC	GPE-USA
+1252	1257	Trump	Trump	PER	PER-Donald-Trump
+1389	1393	Čínu	Čína	LOC	GPE-China
+1397	1402	Rusko	Rusko	LOC	GPE-Russia
+1409	1420	Tomá Valáek	Tomáš Válášek	PER	PER-Petr-Toman
+1453	1457	NATO	NATO	ORG	ORG-NATO
+1480	1495	Carnegie Europe	Carnegie Europe	ORG	ORG-AECR-Alliance-of-European-Conservatives-and-Reformists

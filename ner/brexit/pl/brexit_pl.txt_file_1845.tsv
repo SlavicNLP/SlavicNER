@@ -1,0 +1,13 @@
+0	14	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+50	58	Brexicie	Brexit	EVT	EVT-Brexit
+165	172	Barnier	Barnier	PER	PER-Michel-Barnier
+262	266	Unią	Unia	ORG	ORG-European-Union
+269	284	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+286	293	Barnier	Barnier	PER	PER-Michel-Barnier
+542	549	Brexitu	Brexit	EVT	EVT-Brexit
+550	563	Davida Davisa	David Davis	PER	PER-David-Davis
+567	575	Brukseli	Bruksela	LOC	GPE-Brussles
+619	621	UE	UE	ORG	ORG-European-Union
+759	774	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+859	861	UE	UE	ORG	ORG-European-Union
+864	872	Brukseli	Bruksela	LOC	GPE-Brussles

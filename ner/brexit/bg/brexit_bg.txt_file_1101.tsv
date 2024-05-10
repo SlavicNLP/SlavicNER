@@ -1,0 +1,29 @@
+0	15	Huffington Post	Huffington Post	PRO	PRO-Huffington-Post
+17	31	Великобритания	Великобритания	LOC	GPE-Great-Britain
+48	50	ЕС	ЕС	ORG	ORG-European-Union
+75	81	Лондон	Лондон	LOC	GPE-London
+83	97	Великобритания	Великобритания	LOC	GPE-Great-Britain
+114	116	ЕС	ЕС	ORG	ORG-European-Union
+171	181	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+234	241	Брекзит	Брекзит	EVT	EVT-Brexit
+248	255	Каланън	Каланън	PER	PER-Martin-Callanan
+274	289	Huffington Post	Huffington Post	PRO	PRO-Huffington-Post
+355	371	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+374	388	Великобритания	Великобритания	LOC	GPE-Great-Britain
+426	458	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+860	874	Великобритания	Великобритания	LOC	GPE-Great-Britain
+886	888	ЕС	ЕС	ORG	ORG-European-Union
+918	930	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+1070	1099	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+1102	1109	Брюксел	Брюксел	LOC	GPE-Brussles
+1128	1145	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+1146	1157	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+1261	1268	Брекзит	Брекзит	EVT	EVT-Brexit
+1311	1318	Брюксел	Брюксел	LOC	GPE-Brussles
+1340	1343	AFP	AFP	ORG	ORG-France-Presse
+1415	1421	Лондон	Лондон	LOC	GPE-London
+1424	1431	Брюксел	Брюксел	LOC	GPE-Brussles
+1505	1519	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1699	1716	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+1747	1751	Туск	Туск	PER	PER-Donald-Tusk
+1920	1932	Иван Христов	Иван Христов	PER	PER-Ivan-Hristov

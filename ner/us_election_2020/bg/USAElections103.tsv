@@ -1,0 +1,96 @@
+7	21	Мартин Табаков	Мартин Табаков	PER	PER-Martin-Tabakov
+106	118	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+165	174	Белия дом	Бял дом	LOC	LOC-White-House
+210	233	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+234	244	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+305	317	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+482	485	САЩ	САЩ	LOC	GPE-USA
+499	507	Covid-19	COVID-19	EVT	EVT-Covid-19
+737	749	републиканци	републиканци	PER	ORG-Republican-Party-USA
+752	761	демократи	демократи	PER	ORG-Democratic-Party-USA
+772	784	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+799	809	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+839	862	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+863	868	Тръмп	Тръмп	PER	PER-Donald-Trump
+880	896	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+942	953	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+1008	1019	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1028	1033	Тръмп	Тръмп	PER	PER-Donald-Trump
+1057	1066	демократа	демократ	PER	ORG-Democratic-Party-USA
+1092	1102	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1167	1183	Fox News Channel	Fox News Channel	PRO	PRO-Fox-News
+1417	1434	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+1532	1541	демократа	демократ	PER	ORG-Democratic-Party-USA
+1557	1570	републиканеца	републиканец	PER	ORG-Republican-Party-USA
+1598	1608	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1782	1792	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1868	1880	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1896	1919	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2113	2125	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2180	2190	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2259	2268	Белия дом	Бял дом	LOC	LOC-White-House
+2376	2386	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2416	2430	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+2522	2543	Държавния департамент	Държавен департамент	ORG	ORG-Department-of-State-USA
+2564	2575	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+2656	2663	Клинтън	Клинтън	PER	PER-Hillary-Clinton
+2749	2755	Байдън	Байдън	PER	PER-Joe-Biden
+2799	2822	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2907	2915	Covid-19	COVID-19	EVT	EVT-Covid-19
+2943	2946	САЩ	САЩ	LOC	GPE-USA
+3061	3073	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3183	3188	Китай	Китай	LOC	GPE-China
+3226	3229	САЩ	САЩ	LOC	GPE-USA
+3232	3236	Иран	Иран	LOC	GPE-Iran
+3249	3261	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3323	3350	Fox News Channel (Фокс Нюз)	Fox News Channel (Фокс Нюз)	PRO	PRO-Fox-News
+3393	3401	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+3428	3431	САЩ	САЩ	LOC	GPE-USA
+3456	3478	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+3512	3520	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+3579	3582	САЩ	САЩ	LOC	GPE-USA
+3826	3833	Hannity	Hannity	PRO	PRO-Hannity
+3835	3857	Tucker Carlson Tonight	Tucker Carlson Tonight	PRO	PER-Tucker-Carlson-Tonight
+3859	3867	The Five	The Five	PRO	PRO-The-Five
+3869	3887	The Ingraham Angle	The Ingraham Angle	PRO	PRO-The-Ingraham-Angle
+3889	3919	Special Report with Bret Baier	Special Report with Bret Baier	PRO	PRO-Special-Report-with-Bret-Baier
+3983	3991	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+4015	4037	The Rachel Maddow Show	The Rachel Maddow Show	PRO	PRO-The-Rachel-Maddow-Show
+4041	4046	MSNBC	MSNBC	PRO	PRO-MSNBC-TV
+4067	4075	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+4230	4238	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+4267	4286	Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+4309	4318	Breitbrat	Breitbrat	PRO	PRO-Breitbart-News
+4337	4346	Ръш Лимбо	Ръш Лимбо	PER	PER-Rush-Limbaugh
+4353	4361	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+4509	4528	Pew Research Center	Pew Research Center	ORG	ORG-Pew-research-center
+4571	4579	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+4672	4694	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+4726	4731	Тръмп	Тръмп	PER	PER-Donald-Trump
+4783	4805	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+4933	4945	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+5020	5028	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+5071	5077	туитър	Туитър	PRO	PRO-Twitter
+5118	5122	Фокс	Фокс	PRO	PRO-Fox-News
+5161	5166	Тръмп	Тръмп	PER	PER-Donald-Trump
+5208	5231	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+5389	5394	Тръмп	Тръмп	PER	PER-Donald-Trump
+5602	5610	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+5748	5756	Covid-19	COVID-19	EVT	EVT-Covid-19
+5770	5782	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+5879	5882	САЩ	САЩ	LOC	GPE-USA
+6149	6157	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+6159	6170	Нийл Кавуто	Нийл Кавуто	PER	PER-Neil-Cavuto
+6294	6301	Мексико	Мексико	LOC	GPE-Мexico
+6386	6391	Русия	Русия	LOC	GPE-Russia
+6548	6556	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+6603	6608	Тръмп	Тръмп	PER	PER-Donald-Trump
+6610	6623	Тъкър Карлсън	Тъкър Карлсън	PER	PER-Tucker-Carlson
+6695	6698	САЩ	САЩ	LOC	GPE-USA
+6800	6807	Америка	Америка	LOC	GPE-USA
+6914	6921	Карлсън	Карлсън	PER	PER-Tucker-Carlson
+6948	6953	Тръмп	Тръмп	PER	PER-Donald-Trump
+7001	7010	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+7013	7026	Джаред Къшнър	Джаред Къшнър	PER	PER-Jared-Kushner
+7050	7062	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+7317	7322	Тръмп	Тръмп	PER	PER-Donald-Trump

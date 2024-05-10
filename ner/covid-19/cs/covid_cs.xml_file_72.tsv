@@ -1,0 +1,15 @@
+0	11	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+19	24	Česko	Česko	LOC	GPE-Czech-Republic
+108	118	koronaviru	koronavirus	EVT	EVT-Covid-19
+153	159	Anglii	Anglie	LOC	GPE-England
+245	258	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+286	292	Anglie	Anglie	LOC	GPE-England
+405	411	Anglii	Anglie	LOC	GPE-England
+441	448	Skotsku	Skotsko	LOC	GPE-Scotland
+523	525	ČT	ČT	PRO	PRO-Czech-Television-Ceska-Televize
+539	570	Státní ústav pro kontrolu léčiv	Státní ústav pro kontrolu léčiv	ORG	ORG-Statni-ustav-pro-kontrolu-leciv
+572	576	SÚKL	SÚKL	ORG	ORG-Statni-ustav-pro-kontrolu-leciv
+757	766	Španělsko	Španělsko	LOC	GPE-Spain
+866	876	koronaviru	koronavirus	EVT	EVT-Covid-19
+915	922	Reuters	Reuters	ORG	ORG-Reuters
+971	984	Salvador Illa	Salvador Illa	PER	PER-Salvador-Illa

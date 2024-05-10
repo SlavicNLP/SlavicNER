@@ -1,0 +1,19 @@
+26	29	США	США	LOC	GPE-USA
+132	139	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+281	288	Конгрес	Конгрес	ORG	ORG-United-States-Congress
+335	343	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+345	357	Пенсільванія	Пенсільванія	LOC	GPE-Pennsylvania
+359	368	Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+370	376	Невада	Невада	LOC	GPE-Nevada
+379	386	Мічиган	Мічиган	LOC	GPE-Michigan
+435	450	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+513	526	виборів в США	вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+574	592	колегія вибірників	колегія вибірників	ORG	ORG-United-States-Electoral-College
+630	641	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+731	753	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+762	775	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+852	857	Техас	Техас	LOC	GPE-Texas
+925	932	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1013	1019	Трампа	Трамп	PER	PER-Donald-Trump
+1049	1060	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1063	1072	Білий дім	Білий дім	ORG	ORG-White-House

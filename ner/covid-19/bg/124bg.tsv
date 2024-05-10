@@ -1,0 +1,29 @@
+0	8	Covid-19	COVID-19	EVT	EVT-Covid-19
+81	91	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+154	166	коронавируса	коронавирус	EVT	EVT-Covid-19
+168	178	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+238	246	Covid-19	COVID-19	EVT	EVT-Covid-19
+333	348	Financial Times	Financial Times	PRO	PRO-Financial-Times
+351	410	Корейските центрове за контрол и превенция на заболяванията	Корейски центрове за контрол и превенция на заболяванията	ORG	ORG-Korea-Disease-Control-and-Prevention-Agency
+441	445	Тегу	Тегу	LOC	GPE-Daegu
+524	532	Covid-19	COVID-19	EVT	EVT-Covid-19
+783	785	FT	FT	PRO	PRO-Financial-Times
+788	797	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+805	864	Корейските центрове за контрол и превенция на заболяванията	Корейски центрове за контрол и превенция на заболяванията	ORG	ORG-Korea-Disease-Control-and-Prevention-Agency
+879	892	коронавирусът	коронавирус	EVT	EVT-Covid-19
+1137	1150	Йонг Юн Кьонг	Йонг Юн Кьонг	PER	PER-Jeong-Eun-kyeong
+1174	1233	Корейските центрове за контрол и превенция на заболяванията	Корейски центрове за контрол и превенция на заболяванията	ORG	ORG-Korea-Disease-Control-and-Prevention-Agency
+1246	1255	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1494	1498	Йонг	Йонг	PER	PER-Jeong-Eun-kyeong
+1803	1805	FT	FT	PRO	PRO-Financial-Times
+1819	1853	здравното министерство на страната	здравно министерство на страната	ORG	ORG-Ministry-of-health-South-Korea
+2090	2092	FT	FT	PRO	PRO-Financial-Times
+2102	2111	Йером Ким	Йером Ким	PER	PER-Jerome-Kim
+2146	2181	Международния институт по ваксините	Международен институт по ваксините	ORG	ORG-International-Vaccine-Institute
+2239	2247	Covid-19	COVID-19	EVT	EVT-Covid-19
+2371	2381	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+2446	2456	епидемията	епидемия	EVT	EVT-Epidemic
+2546	2556	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+2704	2706	FT	FT	PRO	PRO-Financial-Times
+2775	2780	Китай	Китай	LOC	GPE-China
+2937	2946	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP

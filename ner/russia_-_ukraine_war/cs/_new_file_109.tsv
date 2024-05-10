@@ -1,0 +1,28 @@
+0	9	Američané	Američané	PER	GPE-USA
+19	27	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+49	56	Izraeli	Izrael	LOC	GPE-Israel
+58	71	Spojené státy	Spojené státy	LOC	GPE-USA
+81	89	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+121	128	Izraeli	Izrael	LOC	GPE-Israel
+152	161	Pentagonu	Pentagon	ORG	ORG-The-Pentagon
+187	201	New York Times	New York Times	PRO	PRO-The-New-York-Times
+283	293	Washington	Washington	LOC	GPE-WashingtonDC
+322	329	Izraele	Izrael	LOC	GPE-Israel
+335	345	Jair Lapid	Jair Lapid	PER	PER-Jair-Lapid
+355	362	Izraele	Izrael	LOC	GPE-Israel
+365	371	Ruskem	Rusko	LOC	GPE-Russia
+380	404	ruské invaze na Ukrajinu	ruská invaze na Ukrajinu	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+471	486	izraelské vládě	izraelská vláda	ORG	ORG-Government-of-Israel
+573	580	Moskvou	Moskva	LOC	GPE-Moscow
+590	598	Izraelci	Izraelci	PER	GPE-Israel
+676	681	Sýrii	Sýrie	LOC	GPE-Syria
+690	696	Moskva	Moskva	LOC	GPE-Moscow
+717	734	válka na Ukrajině	válka na Ukrajině	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+758	766	Pentagon	Pentagon	ORG	ORG-The-Pentagon
+769	777	Izraelci	Izraelci	PER	GPE-Israel
+1028	1044	Lloydem Austinem	Lloyd Austin	PER	PER-Lloyd-Austin
+1047	1061	Bennym Gantzem	Benny Gantz	PER	PER-Benny-Gantz
+1103	1108	Gantz	Gantz	PER	PER-Benny-Gantz
+1160	1191	izraelského ministerstva obrany	izraelské ministerstvo obrany	ORG	ORG-Ministry-of-Defense-Israel
+1242	1245	USA	USA	LOC	GPE-USA
+1308	1318	Jair Lapid	Jair Lapid	PER	PER-Jair-Lapid

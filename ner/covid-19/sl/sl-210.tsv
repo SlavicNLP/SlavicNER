@@ -1,0 +1,46 @@
+23	31	covid-19	covid-19	EVT	EVT-Covid-19
+175	183	covid-19	covid-19	EVT	EVT-Covid-19
+197	203	UNICAD	UNCTAD	ORG	ORG-United-Nations-Conference-on-Trade-and-Development
+205	255	Konference Združenih narodov o trgovini in razvoju	Konferenca Združenih narodov o trgovini in razvoju	ORG	ORG-United-Nations-Conference-on-Trade-and-Development
+264	273	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+314	324	Bill Gates	Bill Gates	PER	PER-Bill-Gates
+443	467	Mednarodni denarni sklad	Mednarodni denarni sklad	ORG	ORG-International-Monetary-Fund
+469	472	IMF	IMF	ORG	ORG-International-Monetary-Fund
+524	526	EU	EU	ORG	ORG-European-Union
+544	561	evropske komisije	evropska komisija	ORG	ORG-European-Commission
+746	753	Nemčije	Nemčija	LOC	GPE-Germany
+757	767	Nizozemske	Nizozemska	LOC	GPE-Holland
+2237	2256	Tax Justice Network	Tax Justice Network	ORG	ORG-Tax-Justice-Network
+2258	2261	TJN	TJN	ORG	ORG-Tax-Justice-Network
+2398	2418	Panamskih dokumentih	Panamski dokumenti	PRO	PRO-Panama-Papers
+2502	2504	EU	EU	ORG	ORG-European-Union
+2564	2566	EU	EU	ORG	ORG-European-Union
+2656	2662	Evropi	Evropa	LOC	LOC-Europe
+2672	2692	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+2694	2699	Švici	Švica	LOC	GPE-Switzerland
+2704	2715	Nizozemskem	Nizozemsko	LOC	GPE-Holland
+2721	2732	Luksemburgu	Luksemburg	LOC	GPE-Luxembourg
+2734	2739	Oxfam	Oxfam	ORG	ORG-Oxfam
+2775	2780	Irsko	Irska	LOC	GPE-Ireland
+2784	2789	Malto	Malta	LOC	GPE-Malta
+2887	2889	EU	EU	ORG	ORG-European-Union
+2974	2976	EU	EU	ORG	ORG-European-Union
+3378	3392	Thomas Piketty	Thomas Piketty	PER	PER-Thomas-Piketty
+3402	3437	Manifestu za demokratizacijo Evrope	Manifest za demokratizacijo Evrope	PRO	PRO-Manifesto-for-the-democratization-of-Europe
+3440	3447	Piketty	Piketty	PER	PER-Thomas-Piketty
+3469	3491	Kapital v 21. stoletju	Kapital v 21. stoletju	PRO	PRO-Capital-in-the-Twenty-First-Century
+3733	3748	Joseph Stiglitz	Joseph Stiglitz	PER	PER-Joseph-Stiglitz
+3839	3853	zahodni Evropi	zahodna Evropa	LOC	LOC-Western-Europe
+3902	3908	Evrope	Evropa	LOC	LOC-Europe
+3948	3959	Luksemburgu	Luksemburg	LOC	GPE-Luxembourg
+4014	4025	Nizozemskem	Nizozemsko	LOC	GPE-Holland
+4071	4076	Švici	Švica	LOC	GPE-Switzerland
+4154	4157	TJN	TJN	ORG	ORG-Tax-Justice-Network
+4245	4248	TJN	TJN	ORG	ORG-Tax-Justice-Network
+4543	4545	EU	EU	ORG	ORG-European-Union
+4622	4625	TJN	TJN	ORG	ORG-Tax-Justice-Network
+4741	4749	covid-19	covid-19	EVT	EVT-Covid-19
+4807	4818	koronavirus	koronavirus	EVT	EVT-Covid-19
+4946	4954	covid-19	covid-19	EVT	EVT-Covid-19
+5467	5478	koronavirus	koronavirus	EVT	EVT-Covid-19
+5619	5644	Martin Luther King mlajši	Martin Luther King mlajši	PER	PER-Martin-Luther-King-Junior

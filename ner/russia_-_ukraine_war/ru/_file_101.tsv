@@ -1,0 +1,29 @@
+2	12	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+37	41	ЕАЭС	ЕАЭС	ORG	ORG-Eurasian-Economic-Union
+66	99	Евразийского экономического союза	Евразийский экономический союз	ORG	ORG-Eurasian-Economic-Union
+101	105	ЕАЭС	ЕАЭС	ORG	ORG-Eurasian-Economic-Union
+174	187	"РИА ""Новости"""	РИА Новости	PRO	PRO-RIA-Novosti
+224	227	СНГ	СНГ	ORG	ORG-The-Commonwealth
+286	290	ЕАЭС	ЕАЭС	ORG	ORG-Eurasian-Economic-Union
+329	338	Евдокимов	Евдокимов	PER	PER-Evdokimov
+530	532	ЕС	ЕС	ORG	ORG-European-Union
+584	586	РФ	РФ	LOC	GPE-Russia
+587	603	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+730	736	Москвы	Москва	LOC	GPE-Moscow
+743	755	спецоперации	спецоперация	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+759	766	Украине	Украина	LOC	GPE-Ukraine
+792	798	России	Россия	LOC	GPE-Russia
+799	813	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+906	908	ЕС	ЕС	ORG	ORG-European-Union
+991	1006	Большой семерки	Большая семерка	ORG	ORG-G7
+1008	1010	G7	G7	ORG	ORG-G7
+1099	1101	РФ	РФ	LOC	GPE-Russia
+1193	1196	США	США	LOC	GPE-USA
+1198	1212	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1214	1220	Канады	Канада	LOC	GPE-Canada
+1222	1229	Франции	Франция	LOC	GPE-France
+1231	1239	Германии	Германия	LOC	GPE-Germany
+1241	1247	Италии	Италия	LOC	GPE-Italy
+1250	1256	Японии	Япония	LOC	GPE-Japan
+1298	1306	Евросоюз	Евросоюз	ORG	ORG-European-Union
+1309	1316	Газпром	Газпром	ORG	ORG-Gazprom

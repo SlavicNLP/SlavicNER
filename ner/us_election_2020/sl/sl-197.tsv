@@ -1,0 +1,46 @@
+16	23	Trumpov	Trump	PER	PER-Donald-Trump
+51	56	Biden	Biden	PER	PER-Joe-Biden
+104	111	Georgii	Georgia	LOC	GPE-Georgia-US-state
+129	138	New Yorka	New York	LOC	GPE-New-York
+139	152	Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+170	184	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+217	220	ZDA	ZDA	LOC	GPE-USA
+221	233	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+458	466	Trumpova	Trump	PER	PER-Donald-Trump
+497	514	Rudyja Giulianija	Rudy Giuliani	PER	PER-Rudy-Giuliani
+640	652	Giulianijevi	Giuliani	PER	PER-Rudy-Giuliani
+779	787	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+804	813	New Yorka	New York	LOC	GPE-New-York
+865	886	republikanske stranke	republikanska stranka	ORG	ORG-Republican-Party-USA
+983	992	New Yorka	New York	LOC	GPE-New-York
+993	1006	Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+1024	1038	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1117	1125	Trumpove	Trump	PER	PER-Donald-Trump
+1182	1191	twitterju	twitter	PRO	PRO-Twitter
+1335	1346	Chris Krebs	Chris Krebs	PER	PER-Chris-Krebs
+1364	1372	Trumpove	Trump	PER	PER-Donald-Trump
+1429	1434	Trump	Trump	PER	PER-Donald-Trump
+1471	1483	Giulianijeva	Giuliani	PER	PER-Rudy-Giuliani
+1603	1608	Trump	Trump	PER	PER-Donald-Trump
+1670	1683	Melanie Trump	Melania Trump	PER	PER-Melania-Trump
+1727	1736	Beli hiši	Bela hiša	LOC	LOC-White-House
+1756	1763	Reuters	Reuters	ORG	ORG-Reuters
+1823	1831	Trumpova	Trump	PER	PER-Donald-Trump
+1920	1929	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1932	1937	Trump	Trump	PER	PER-Donald-Trump
+2154	2159	Trump	Trump	PER	PER-Donald-Trump
+2168	2177	Belo hišo	Bela hiša	LOC	LOC-White-House
+2414	2419	Bidna	Biden	PER	PER-Joe-Biden
+2479	2484	Trump	Trump	PER	PER-Donald-Trump
+2577	2601	državno volilno komisijo	državna volilna komisija	ORG	ORG-FEC-Federal-Election-Commission
+2604	2609	Biden	Biden	PER	PER-Joe-Biden
+2647	2654	Georgia	Georgia	LOC	GPE-Georgia-US-state
+2708	2713	Bidna	Biden	PER	PER-Joe-Biden
+2781	2786	Trump	Trump	PER	PER-Donald-Trump
+2829	2847	Brad Raffensperger	Brad Raffensperger	PER	PER-Brad-Raffensperger
+2882	2887	Biden	Biden	PER	PER-Joe-Biden
+3222	3229	Georgia	Georgia	LOC	GPE-Georgia-US-state
+3239	3244	Bidna	Biden	PER	PER-Joe-Biden
+3279	3284	Trump	Trump	PER	PER-Donald-Trump
+3426	3431	Biden	Biden	PER	PER-Joe-Biden
+3547	3552	Trump	Trump	PER	PER-Donald-Trump

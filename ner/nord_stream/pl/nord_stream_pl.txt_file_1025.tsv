@@ -1,0 +1,33 @@
+0	3	USA	USA	LOC	GPE-USA
+13	20	Niemcom	Niemcy	LOC	GPE-Germany
+45	58	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+60	72	Rząd Niemiec	Rząd Niemiec	ORG	ORG-German-Government
+148	155	Gazprom	Gazprom	ORG	ORG-Gazprom
+174	187	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+238	245	Niemiec	Niemcy	LOC	GPE-Germany
+332	347	Annika Einchorn	Annika Einchorn	PER	PER-Annika-Einchorn
+361	367	Berlin	Berlin	LOC	GPE-Berlin
+384	387	USA	USA	LOC	GPE-USA
+402	412	Waszyngton	Waszyngton	LOC	GPE-WashingtonDC
+474	487	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+538	544	CAATSA	CAATSA	PRO	PRO-CAATSA-Bill
+560	565	Rosję	Rosja	LOC	GPE-Russia
+587	590	USA	USA	LOC	GPE-USA
+591	605	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+731	737	Europy	Europa	LOC	LOC-Europe
+766	773	Gazprom	Gazprom	ORG	ORG-Gazprom
+796	809	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+812	817	Rosji	Rosja	LOC	GPE-Russia
+821	828	Niemiec	Niemcy	LOC	GPE-Germany
+847	853	CAATSA	CAATSA	PRO	PRO-CAATSA-Bill
+864	867	USA	USA	LOC	GPE-USA
+908	921	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+939	945	Europy	Europa	LOC	LOC-Europe
+950	954	Azji	Azja	LOC	LOC-Asia
+986	991	Putin	Putin	PER	PER-Vladimir-Putin
+1001	1007	Trumpa	Trump	PER	PER-Donald-Trump
+1011	1025	Nord Streamu 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1042	1048	Moskwy	Moskwa	LOC	GPE-Moscow
+1051	1063	Waszyngtonem	Waszyngton	LOC	GPE-WashingtonDC
+1138	1144	Europy	Europa	LOC	LOC-Europe
+1159	1164	Rosji	Rosja	LOC	GPE-Russia

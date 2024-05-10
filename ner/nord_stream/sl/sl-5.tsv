@@ -1,0 +1,60 @@
+0	6	Rusija	Rusija	LOC	GPE-Russia
+10	18	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+46	88	Predstavništvo evropske komisije v Berlinu	Predstavništvo evropske komisije v Berlinu	ORG	ORG-Representation-of-the-European-Commission-in-Germany
+174	180	Rusijo	Rusija	LOC	GPE-Russia
+182	190	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+192	206	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+215	218	ZDA	ZDA	LOC	GPE-USA
+444	468	rusko pripojitvijo Krima	ruska pripojitev Krima	EVT	EVT-Annexation-of-Crimea
+499	512	Pavlo Klimkin	Pavlo Klimkin	PER	PER-Pavlo-Klimkin
+541	557	Aleksander Novak	Aleksander Novak	PER	PER-Aleksandr-Novak
+599	607	Naftogaz	Naftogaz	ORG	ORG-Naftogaz
+608	622	Andrej Kobolev	Andrej Kobolev	PER	PER-Andriy-Kobolyev
+638	646	Gazproma	Gazprom	ORG	ORG-Gazprom
+647	661	Aleksej Miller	Aleksej Miller	PER	PER-Aleksey-Miller
+698	715	evropske komisije	evropska komisija	ORG	ORG-European-Commission
+716	732	Maroša Šefčoviča	Maroš Šefčovič	PER	PER-Maros-Sefcovic
+1293	1299	Rusije	Rusija	LOC	GPE-Russia
+1328	1330	EU	EU	ORG	ORG-European-Union
+1349	1357	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1480	1494	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+1601	1607	Rusijo	Rusija	LOC	GPE-Russia
+1611	1619	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1631	1639	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1643	1649	Rusija	Rusija	LOC	GPE-Russia
+1724	1728	Nata	NATO	ORG	ORG-NATO
+1805	1813	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1894	1900	Rusija	Rusija	LOC	GPE-Russia
+1926	1934	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+2014	2028	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+2343	2351	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+2461	2469	Šefčovič	Šefčovič	PER	PER-Maros-Sefcovic
+2528	2542	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+2742	2744	EU	EU	ORG	ORG-European-Union
+2771	2777	Rusija	Rusija	LOC	GPE-Russia
+2811	2821	Turški tok	Turški tok	PRO	PRO-TurkStream
+2828	2840	Črnega morja	Črno morje	LOC	LOC-Black-Sea
+2844	2857	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2864	2879	Severnega morja	Severno morje	LOC	LOC-North-Sea
+2941	2955	Aleksej Miller	Aleksej Miller	PER	PER-Aleksey-Miller
+3022	3024	EU	EU	ORG	ORG-European-Union
+3333	3339	Rusija	Rusija	LOC	GPE-Russia
+3396	3398	EU	EU	ORG	ORG-European-Union
+3427	3433	Evrope	Evropa	LOC	LOC-Europe
+3438	3452	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+3475	3483	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+3526	3532	Rusija	Rusija	LOC	GPE-Russia
+3567	3575	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+3663	3671	Šefčovič	Šefčovič	PER	PER-Maros-Sefcovic
+3698	3715	evropska komisija	evropska komisija	ORG	ORG-European-Commission
+4219	4273	arbitražnim sodiščem stockholmske gospodarske zbornice	arbitražno sodišče stockholmske gospodarske zbornice	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+4386	4394	Gazpromu	Gazprom	ORG	ORG-Gazprom
+4467	4475	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+4538	4546	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+4600	4606	Rusijo	Rusija	LOC	GPE-Russia
+4801	4809	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+4813	4819	Rusijo	Rusija	LOC	GPE-Russia
+4832	4838	Rusija	Rusija	LOC	GPE-Russia
+4900	4908	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+5085	5093	Gazproma	Gazprom	ORG	ORG-Gazprom
+5236	5244	Šefčovič	Šefčovič	PER	PER-Maros-Sefcovic

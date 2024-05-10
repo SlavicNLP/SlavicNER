@@ -1,0 +1,38 @@
+0	9	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+19	24	Китаю	Китай	LOC	GPE-China
+29	37	COVID-19	COVID-19	EVT	EVT-Covid-19
+59	62	ОАЕ	ОАЕ	LOC	GPE-UEA-United-Arab-Emirates
+180	183	ОАЕ	ОАЕ	LOC	GPE-UEA-United-Arab-Emirates
+228	240	коронавірусу	коронавірус	EVT	EVT-Covid-19
+243	250	Reuters	Reuters	ORG	ORG-Reuters
+265	277	коронавірусу	коронавірус	EVT	EVT-Covid-19
+308	313	Китаю	Китай	LOC	GPE-China
+370	373	ОАЕ	ОАЕ	LOC	GPE-UEA-United-Arab-Emirates
+541	548	Ізраїлю	Ізраїль	LOC	GPE-Israel
+580	588	COVID-19	COVID-19	EVT	EVT-Covid-19
+589	594	Пекін	Пекін	LOC	GPE-Beijing
+657	666	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+811	819	COVID-19	COVID-19	EVT	EVT-Covid-19
+925	973	Міністерстві профілактики й охорони здоров'я ОАЕ	Міністерстві профілактики й охорони здоров'я ОАЕ	ORG	ORG-Ministry-of-Prevention-and-Health-of-the-UAE
+1141	1144	ОАЕ	ОАЕ	LOC	GPE-UEA-United-Arab-Emirates
+1174	1183	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+1209	1236	China National Biotec Group	China National Biotec Group	ORG	GPE-China
+1238	1242	CNBG	CNBG	ORG	ORG-CNBG-China
+1254	1259	Китаї	Китай	LOC	GPE-China
+1405	1414	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1543	1547	CNBG	CNBG	ORG	ORG-CNBG-China
+1636	1645	Індонезія	Індонезія	LOC	GPE-Indonesia
+1648	1656	Пакистан	Пакистан	LOC	GPE-Pakistan
+1718	1724	Pfizer	Pfizer	ORG	ORG-Pfizer
+1727	1734	Moderna	Moderna	ORG	ORG-Moderna
+1945	1957	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2020	2025	Китаї	Китай	LOC	GPE-China
+2061	2069	COVID-19	COVID-19	EVT	EVT-Covid-19
+2162	2177	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+2258	2266	Бразилії	Бразилія	LOC	GPE-Brazil
+2379	2385	Pfizer	Pfizer	ORG	ORG-Pfizer
+2388	2395	Moderna	Moderna	ORG	ORG-Moderna
+2593	2599	Pfizer	Pfizer	ORG	ORG-Pfizer
+2618	2626	BioNTech	BioNTech	ORG	ORG-BioNTech
+2926	2931	УНІАН	УНІАН	ORG	ORG-UNIAN
+2932	2938	ІноЗМІ	ІноЗМІ	PRO	PRO-InoZMI

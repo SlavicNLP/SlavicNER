@@ -1,0 +1,20 @@
+0	11	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+21	35	Великобритания	Великобритания	LOC	GPE-Great-Britain
+69	71	ЕС	ЕС	ORG	ORG-European-Union
+90	97	брекзит	Брекзит	EVT	EVT-Brexit
+99	113	Великобритания	Великобритания	LOC	GPE-Great-Britain
+147	149	ЕС	ЕС	ORG	ORG-European-Union
+179	186	брекзит	Брекзит	EVT	EVT-Brexit
+218	235	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+236	247	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+319	326	брекзит	Брекзит	EVT	EVT-Brexit
+468	472	Туск	Туск	PER	PER-Donald-Tusk
+478	499	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+575	579	Туск	Туск	PER	PER-Donald-Tusk
+596	602	Лондон	Лондон	LOC	GPE-London
+627	647	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+648	662	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+665	679	Великобритания	Великобритания	LOC	GPE-Great-Britain
+691	707	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+754	764	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+836	838	ЕС	ЕС	ORG	ORG-European-Union

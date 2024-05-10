@@ -1,0 +1,35 @@
+27	38	коронавирус	коронавирус	EVT	EVT-Covid-19
+105	116	коронавирус	коронавирус	EVT	EVT-Covid-19
+181	211	Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+260	266	Европа	Европа	LOC	LOC-Europe
+280	287	Северна	Северна	LOC	LOC-North-America
+290	302	Южна Америка	Южна Америка	LOC	LOC-South-America
+305	320	Югоизточна Азия	Югоизточна Азия	LOC	LOC-Southeast-Asia
+355	366	коронавирус	коронавирус	EVT	EVT-Covid-19
+369	377	Германия	Германия	LOC	GPE-Germany
+484	525	"Института за заразни болести ""Роберт Кох"""	"Институт за заразни болести ""Роберт Кох"""	ORG	ORG-Robert-Koch-Institut
+535	538	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+551	558	Ройтерс	Ройтерс	ORG	ORG-Reuters
+582	590	Covid-19	COVID-19	EVT	EVT-Covid-19
+699	704	Чехия	Чехия	LOC	GPE-Czech-Republic
+776	780	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+813	853	чешкото министерство на здравеопазването	Чешко министерство на здравеопазването	ORG	ORG-Ministry-of-Health-of-the-Czech-Republic
+892	897	Чехия	Чехия	LOC	GPE-Czech-Republic
+1070	1075	Чехия	Чехия	LOC	GPE-Czech-Republic
+1119	1130	коронавирус	коронавирус	EVT	EVT-Covid-19
+1163	1168	Чехия	Чехия	LOC	GPE-Czech-Republic
+1263	1274	коронавирус	коронавирус	EVT	EVT-Covid-19
+1278	1283	Чехия	Чехия	LOC	GPE-Czech-Republic
+1337	1349	коронавируса	коронавирус	EVT	EVT-Covid-19
+1875	1885	Люксембург	Люксембург	LOC	GPE-Luxembourg
+1925	1933	PCR тест	PCR тест	PRO	PRO-PCR-Test
+2123	2131	Норвегия	Норвегия	LOC	GPE-Norway
+2164	2173	Covid- 19	COVID-19	EVT	EVT-Covid-19
+2208	2216	Словения	Словения	LOC	GPE-Slovenia
+2386	2397	коронавирус	коронавирус	EVT	EVT-Covid-19
+2716	2719	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+2732	2739	Ройтерс	Ройтерс	ORG	ORG-Reuters
+2795	2808	Прают Чан-оча	Прают Чан-оча	PER	PER-Prayut-Chan-o-cha
+3086	3092	Банкок	Банкок	LOC	GPE-Bangkok
+3250	3257	Тайланд	Тайланд	LOC	GPE-Thailand
+3372	3384	коронавируса	коронавирус	EVT	EVT-Covid-19

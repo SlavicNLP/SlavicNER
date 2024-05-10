@@ -1,0 +1,20 @@
+2	11	Sloveniji	Slovenija	LOC	GPE-Slovenia
+88	96	covid-19	covid-19	EVT	EVT-Covid-19
+111	122	koronavirus	koronavirus	EVT	EVT-Covid-19
+297	312	Tomaža Gantarja	Tomaž Gantar	PER	PER-Tomaž-Gantar
+373	382	Sloveniji	Slovenija	LOC	GPE-Slovenia
+436	447	Gantarjevih	Gantar	PER	PER-Tomaž-Gantar
+519	541	Ministrstvo za zdravje	Ministrstvo za zdravje	ORG	ORG-Ministry-of-Health-Slovenia
+755	777	ministrstvu za zdravje	Ministrstvo za zdravje	ORG	ORG-Ministry-of-Health-Slovenia
+778	798	Simona Repar Bornšek	Simona Repar Bornšek	PER	PER-Simona-Repar-Bornšek
+1285	1294	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1401	1416	Civilne zaščite	Civilna zaščita	ORG	ORG-Administration-of-the-Republic-of-Slovenia-for-Civil-Protection-and-Disaster-Relief
+1417	1430	Srečko Šestan	Srečko Šestan	PER	PER-Srečko-Šestan
+1622	1628	Šestan	Šestan	PER	PER-Srečko-Šestan
+1900	1911	UKC Maribor	UKC Maribor	LOC	LOC-University-Medical-Centre-Maribor
+2025	2036	Novem mestu	Novo mesto	LOC	GPE-Novo-mesto
+2072	2085	Murski Soboti	Murska Sobota	LOC	GPE-Murska-Sobota
+2095	2106	Novi Gorici	Nova Gorica	LOC	GPE-Nova-Gorica
+2113	2126	UKC Ljubljana	UKC Ljubljana	LOC	LOC-University-Medical-Centre-Ljubljana
+2152	2172	Simona Repar Bornšek	Simona Repar Bornšek	PER	PER-Simona-Repar-Bornšek
+2512	2537	Mladi zdravniki Slovenije	Mladi zdravniki Slovenije	ORG	ORG-Mladi-zdravniki-Slovenije

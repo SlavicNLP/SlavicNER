@@ -1,0 +1,10 @@
+0	8	Británii	Británie	LOC	GPE-Great-Britain
+19	21	EU	EU	ORG	ORG-European-Union
+30	38	Británii	Británie	LOC	GPE-Great-Britain
+62	69	brexitu	brexit	EVT	EVT-Brexit
+93	99	brexit	brexit	EVT	EVT-Brexit
+100	111	David Davis	David Davis	PER	PER-David-Davis
+134	148	Evropskou unii	Evropská unie	ORG	ORG-European-Union
+215	221	Brusel	Brusel	LOC	GPE-Brussles
+260	267	brexitu	brexit	EVT	EVT-Brexit
+276	284	Británie	Británie	LOC	GPE-Great-Britain

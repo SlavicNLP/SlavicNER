@@ -1,0 +1,79 @@
+12	15	ZDA	ZDA	LOC	GPE-USA
+41	47	Rusijo	Rusija	LOC	GPE-Russia
+108	116	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+168	172	Opec	Opec	ORG	ORG-OPEC
+176	179	IEA	IEA	ORG	ORG-International-Energy-Agency
+242	244	EU	EU	ORG	ORG-European-Union
+374	380	Rusija	Rusija	LOC	GPE-Russia
+392	394	EU	EU	ORG	ORG-European-Union
+510	516	Rusije	Rusija	LOC	GPE-Russia
+517	519	EU	EU	ORG	ORG-European-Union
+530	538	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+555	572	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+573	587	Maroš Šefčovič	Maroš Šefčovič	PER	PER-Maros-Sefcovic
+653	655	EU	EU	ORG	ORG-European-Union
+657	663	Rusijo	Rusija	LOC	GPE-Russia
+667	675	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+951	953	EU	EU	ORG	ORG-European-Union
+994	1002	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1009	1011	EU	EU	ORG	ORG-European-Union
+1068	1070	EU	EU	ORG	ORG-European-Union
+1088	1094	Rusijo	Rusija	LOC	GPE-Russia
+1098	1106	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1176	1182	Rusija	Rusija	LOC	GPE-Russia
+1197	1199	EU	EU	ORG	ORG-European-Union
+1229	1244	Baltskim morjem	Baltsko morje	LOC	LOC-Baltic-Sea
+1260	1273	Severni tok 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+1305	1318	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1433	1436	ZDA	ZDA	LOC	GPE-USA
+1472	1485	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1501	1504	ZDA	ZDA	LOC	GPE-USA
+1518	1520	EU	EU	ORG	ORG-European-Union
+1599	1602	ZDA	ZDA	LOC	GPE-USA
+1646	1648	EU	EU	ORG	ORG-European-Union
+1774	1787	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1824	1841	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+1875	1877	EU	EU	ORG	ORG-European-Union
+1936	1938	EU	EU	ORG	ORG-European-Union
+1942	1945	ZDA	ZDA	LOC	GPE-USA
+2002	2004	EU	EU	ORG	ORG-European-Union
+2008	2015	Španija	Španija	LOC	GPE-Spain
+2028	2030	EU	EU	ORG	ORG-European-Union
+2106	2131	Gas Infrastructure Europe	Gas Infrastructure Europe	ORG	ORG-Gas-Infrastructure-Europe
+2153	2159	Evropi	Evropa	LOC	LOC-Europe
+2333	2336	ZDA	ZDA	LOC	GPE-USA
+2340	2346	Rusijo	Rusija	LOC	GPE-Russia
+2410	2416	Rusija	Rusija	LOC	GPE-Russia
+2472	2474	EU	EU	ORG	ORG-European-Union
+2509	2517	Norveška	Norveška	LOC	GPE-Norway
+2539	2547	Alžirija	Alžirija	LOC	GPE-Algeria
+2549	2558	Slovenija	Slovenija	LOC	GPE-Slovenia
+2583	2589	Rusije	Rusija	LOC	GPE-Russia
+2593	2601	Alžirije	Alžirija	LOC	GPE-Algeria
+2606	2612	Rusije	Rusija	LOC	GPE-Russia
+2643	2650	Geoplin	Geoplin	ORG	ORG-Geoplin
+2668	2677	Gazpromom	Gazprom	ORG	ORG-Gazprom
+2762	2770	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+2775	2782	Gazprom	Gazprom	ORG	ORG-Gazprom
+2826	2835	Južni tok	Južni tok	PRO	PRO-South-Stream
+2866	2875	Slovenijo	Slovenija	LOC	GPE-Slovenia
+2890	2894	Rusi	Rusi	PER	GPE-Russia
+2961	2963	EU	EU	ORG	ORG-European-Union
+3030	3033	ZDA	ZDA	LOC	GPE-USA
+3035	3041	Rusija	Rusija	LOC	GPE-Russia
+3137	3139	EU	EU	ORG	ORG-European-Union
+3143	3150	Nemčija	Nemčija	LOC	GPE-Germany
+3328	3332	Opec	Opec	ORG	ORG-OPEC
+3405	3408	ZDA	ZDA	LOC	GPE-USA
+3412	3420	Kitajsko	Kitajska	LOC	GPE-China
+3584	3615	Mednarodna agencija za energijo	Mednarodna agencija za energijo	ORG	ORG-International-Energy-Agency
+3617	3620	IEA	IEA	ORG	ORG-International-Energy-Agency
+3813	3815	EU	EU	ORG	ORG-European-Union
+3881	3884	ZDA	ZDA	LOC	GPE-USA
+3888	3894	Rusijo	Rusija	LOC	GPE-Russia
+3913	3922	Slovenija	Slovenija	LOC	GPE-Slovenia
+3947	3953	Rusije	Rusija	LOC	GPE-Russia
+3957	3965	Alžirije	Alžirija	LOC	GPE-Algeria
+4057	4060	ZDA	ZDA	LOC	GPE-USA
+4204	4207	ZDA	ZDA	LOC	GPE-USA
+4241	4245	Opec	Opec	ORG	ORG-OPEC

@@ -1,0 +1,27 @@
+7	14	news.bg	news.bg	PRO	PRO-News.bg
+58	68	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+110	122	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+154	175	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+265	268	САЩ	САЩ	LOC	GPE-USA
+314	323	Белия дом	Бял дом	LOC	LOC-White-House
+379	390	Андрю Бейтс	Андрю Бейтс	PER	PER-Andrew-Bates
+422	427	Тръмп	Тръмп	PER	PER-Donald-Trump
+526	532	Байдън	Байдън	PER	PER-Joe-Biden
+562	573	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+629	639	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+767	777	Мат Морган	Мат Морган	PER	PER-Matt-Morgan
+807	815	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+853	864	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+908	914	Невада	Невада	LOC	GPE-Nevada
+917	924	Аризона	Аризона	LOC	GPE-Arizona
+934	940	Морган	Морган	PER	PER-Matt-Morgan
+941	946	Тръмп	Тръмп	PER	PER-Donald-Trump
+970	977	Аризона	Аризона	LOC	GPE-Arizona
+1055	1061	Байдън	Байдън	PER	PER-Joe-Biden
+1075	1083	Fox News	Fox News	PRO	PRO-Fox-News
+1087	1102	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+1183	1186	CNN	CNN	PRO	PRO-CNN
+1198	1203	Тръмп	Тръмп	PER	PER-Donald-Trump
+1282	1290	Fox News	Fox News	PRO	PRO-Fox-News
+1295	1300	Тръмп	Тръмп	PER	PER-Donald-Trump
+1378	1384	Байдън	Байдън	PER	PER-Joe-Biden

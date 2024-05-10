@@ -1,0 +1,36 @@
+0	7	Německo	Německo	LOC	GPE-Germany
+30	43	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+61	68	Německo	Německo	LOC	GPE-Germany
+116	129	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+163	208	Spolkový úřad pro lodní dopravu a hydrografii	Spolkový úřad pro lodní dopravu a hydrografii	ORG	ORG-Federal-Office-for-Shipping-and-Hydrography-Germany
+210	213	BSH	BSH	ORG	ORG-Federal-Office-for-Shipping-and-Hydrography-Germany
+248	259	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+275	283	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+304	309	Ruska	Rusko	LOC	GPE-Russia
+313	320	Německa	Německo	LOC	GPE-Germany
+328	342	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+392	407	východní Evropy	východní Evropa	LOC	LOC-Eastern-Europe
+416	431	České republiky	Česká republika	LOC	GPE-Czech-Republic
+433	436	BSH	BSH	ORG	ORG-Federal-Office-for-Shipping-and-Hydrography-Germany
+614	621	Reuters	Reuters	ORG	ORG-Reuters
+681	686	Ruska	Rusko	LOC	GPE-Russia
+688	694	Finska	Finsko	LOC	GPE-Finland
+696	702	Dánska	Dánsko	LOC	GPE-Denmark
+705	712	Švédska	Švédsko	LOC	GPE-Sweden
+799	805	Polsko	Polsko	LOC	GPE-Poland
+815	833	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+858	865	Varšava	Varšava	LOC	GPE-Warsaw
+902	908	Evropy	Evropa	LOC	LOC-Europe
+912	917	Rusku	Rusko	LOC	GPE-Russia
+943	949	Polska	Polsko	LOC	GPE-Poland
+952	967	Česká republika	Česká republika	LOC	GPE-Czech-Republic
+969	978	Slovensko	Slovensko	LOC	GPE-Slovakia
+980	988	Maďarsko	Maďarsko	LOC	GPE-Hungary
+990	998	Estonsko	Estonsko	LOC	GPE-Estonia
+1000	1008	Lotyšsko	Lotyšsko	LOC	GPE-Latvia
+1010	1015	Litva	Litva	LOC	GPE-Lithuania
+1017	1025	Rumunsko	Rumunsko	LOC	GPE-Romania
+1027	1036	Bulharsko	Bulharsko	LOC	GPE-Bulgaria
+1039	1044	Řecko	Řecko	LOC	GPE-Greece
+1088	1090	EU	EU	ORG	ORG-European-Union
+1129	1137	Ukrajiny	Ukrajina	LOC	GPE-Ukraine

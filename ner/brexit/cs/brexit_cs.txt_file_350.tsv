@@ -1,0 +1,32 @@
+0	2	EU	EU	ORG	ORG-European-Union
+14	21	brexitu	brexit	EVT	EVT-Brexit
+48	53	Česko	Česko	LOC	GPE-Czech-Republic
+137	139	ČR	ČR	LOC	GPE-Czech-Republic
+151	153	EU	EU	ORG	ORG-European-Union
+176	181	Česko	Česko	LOC	GPE-Czech-Republic
+203	205	EU	EU	ORG	ORG-European-Union
+286	288	EU	EU	ORG	ORG-European-Union
+367	381	Viktora Orbána	Viktor Orbán	PER	PER-Viktor-Orban
+382	393	János Lázár	János Lázár	PER	PER-Janos-Lazar
+430	449	visegrádské skupiny	Visegrdská skupina	ORG	ORG-Visegrád-Group
+451	453	V4	V4	ORG	ORG-Visegrád-Group
+466	475	Bulharska	Bulharsko	LOC	GPE-Bulgaria
+477	487	Chorvatska	Chorvatsko	LOC	GPE-Croatia
+489	497	Rumunska	Rumunsko	LOC	GPE-Romania
+500	509	Slovinska	Slovinsko	LOC	GPE-Slovenia
+539	559	Günterem Oettingerem	Günter Oettinger	PER	PER-Guenther-Oettinger
+561	570	Bulharsko	Bulharsko	LOC	GPE-Bulgaria
+592	596	Unii	Unie	ORG	ORG-European-Union
+674	679	Babiš	Babiš	PER	PER-Andrej-Babis
+704	706	EU	EU	ORG	ORG-European-Union
+756	758	V4	V4	ORG	ORG-Visegrád-Group
+781	790	Budapešti	Budapešť	LOC	GPE-Budapest
+873	875	EU	EU	ORG	ORG-European-Union
+982	996	Jakub Vintrlík	Jakub Vintrlík	PER	PER-Jakub-Vintrlik
+1049	1061	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+1063	1066	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+1088	1095	Bruselu	Brusel	LOC	GPE-Brussles
+1219	1223	Unie	Unie	ORG	ORG-European-Union
+1309	1317	Británie	Británie	LOC	GPE-Great-Britain
+1370	1372	EU	EU	ORG	ORG-European-Union
+1547	1549	EU	EU	ORG	ORG-European-Union

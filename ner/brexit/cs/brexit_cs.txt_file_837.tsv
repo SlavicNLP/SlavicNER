@@ -1,0 +1,8 @@
+0	6	Londýn	Londýn	LOC	GPE-London
+10	17	brexitu	brexit	EVT	EVT-Brexit
+39	41	EU	EU	ORG	ORG-European-Union
+132	140	Británie	Británie	LOC	GPE-Great-Britain
+168	181	Evropské unie	Evropská unie	ORG	ORG-European-Union
+200	220	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+316	319	ČTK	ČTK	ORG	ORG-CTK
+321	324	BBC	BBC	PRO	PRO-BBC

@@ -1,0 +1,34 @@
+0	7	Борисов	Борисов	PER	PER-Boyko-Borisov
+9	36	Националният оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+107	114	Испания	Испания	LOC	GPE-Spain
+117	120	САЩ	САЩ	LOC	GPE-USA
+171	198	Националният оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+291	303	коронавируса	коронавирус	EVT	EVT-Covid-19
+345	353	България	България	LOC	GPE-Bulgaria
+354	367	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+479	486	Испания	Испания	LOC	GPE-Spain
+489	492	САЩ	САЩ	LOC	GPE-USA
+537	544	Борисов	Борисов	PER	PER-Boyko-Borisov
+568	585	Министерски съвет	Министерски съвет	ORG	ORG-Council-of-Ministers-Bulgaria
+588	614	Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+770	774	Щаба	Щаб	ORG	ORG-National-operational-quaters-Bulgaria
+977	984	Борисов	Борисов	PER	PER-Boyko-Borisov
+1060	1068	България	България	LOC	GPE-Bulgaria
+1106	1118	коронавируса	коронавирус	EVT	EVT-Covid-19
+1137	1158	Европейския съюз (ЕС)	Европейски съюз (ЕС)	ORG	ORG-European-Union
+1230	1241	коронавирус	коронавирус	EVT	EVT-Covid-19
+1275	1296	Венцислав Мутафчийски	Венцислав Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+1350	1358	COVID-19	COVID-19	EVT	EVT-Covid-19
+1507	1513	Сливен	Сливен	LOC	GPE-Sliven
+1650	1661	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+1928	1932	Щаба	Щаб	ORG	ORG-National-operational-quaters-Bulgaria
+2052	2086	Министерството на здравеопазването	Министерство на здравеопазването	ORG	ORG-Ministry-of-Health-Bulgaria
+2142	2153	коронавирус	коронавирус	EVT	EVT-Covid-19
+2213	2216	PCR	PCR	PRO	PRO-PCR-Test
+2375	2386	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+2432	2441	PCR теста	PCR теста	PRO	PRO-PCR-Test
+2495	2506	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+2609	2620	коронавирус	коронавирус	EVT	EVT-Covid-19
+2631	2642	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+2878	2895	Тодор Кантарджиев	Тодор Кантарджиев	PER	PER-Todor-Kantardzhiev
+2942	2948	Швеция	Швеция	LOC	GPE-Sweden

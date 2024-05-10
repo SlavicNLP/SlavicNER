@@ -1,0 +1,13 @@
+20	28	Брекзита	Брекзит	EVT	EVT-Brexit
+63	77	Великобритания	Великобритания	LOC	GPE-Great-Britain
+106	108	ЕС	ЕС	ORG	ORG-European-Union
+176	180	Билд	Билд	PRO	PRO-Bild
+195	199	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+335	337	ЕС	ЕС	ORG	ORG-European-Union
+347	353	Европа	Европа	LOC	LOC-Europe
+377	379	ЕС	ЕС	ORG	ORG-European-Union
+388	391	Мей	Мей	PER	PER-Theresa-May
+405	419	Великобритания	Великобритания	LOC	GPE-Great-Britain
+552	566	Великобритания	Великобритания	LOC	GPE-Great-Britain
+757	759	ЕС	ЕС	ORG	ORG-European-Union
+868	871	Мей	Мей	PER	PER-Theresa-May

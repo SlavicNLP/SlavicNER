@@ -1,0 +1,16 @@
+8	18	Barcelonie	Barcelona	LOC	GPE-Barcelona
+172	188	lotniska El Prat	lotnisko El Prat	LOC	LOC-El-Prat-Airport-Barcelona
+239	274	drogi szybkiego ruchu Ronda Litoral	droga szybkiego ruchu Ronda Litoral	LOC	LOC-Ronda-Litoral-road-Barcelona
+628	651	Sąd Najwyższy Katalonii	Sąd Najwyższy Katalonii	ORG	ORG-Supreme-Court-of-Catalonia-TSJC
+653	657	TSJC	TSJC	ORG	ORG-Supreme-Court-of-Catalonia-TSJC
+747	751	Uber	Uber	PRO	PRO-Uber
+754	760	Cabify	Cabify	PRO	PRO-Cabify
+973	982	Barcelony	Barcelona	LOC	GPE-Barcelona
+1026	1030	Uber	Uber	PRO	PRO-Uber
+1033	1039	Cabify	Cabify	PRO	PRO-Cabify
+1217	1243	Sądu Najwyższego Katalonii	Sądu Najwyższego Katalonii	ORG	ORG-Supreme-Court-of-Catalonia-TSJC
+1488	1506	lotniskiem El Prat	lotnisko El Prat	LOC	LOC-El-Prat-Airport-Barcelona
+1655	1662	Ryanair	Ryanair	ORG	ORG-Ryanair
+1756	1763	Ryanair	Ryanair	ORG	ORG-Ryanair
+1871	1878	Europie	Europa	LOC	LOC-Europe
+2020	2027	Ryanair	Ryanair	ORG	ORG-Ryanair

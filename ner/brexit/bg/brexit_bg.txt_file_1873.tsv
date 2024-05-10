@@ -1,0 +1,54 @@
+30	36	Brexit	Brexit	EVT	EVT-Brexit
+68	74	Brexit	Brexit	EVT	EVT-Brexit
+75	88	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+103	117	Великобритания	Великобритания	LOC	GPE-Great-Britain
+125	131	Европа	Европа	LOC	LOC-Europe
+283	297	Великобритания	Великобритания	LOC	GPE-Great-Britain
+301	303	ЕС	ЕС	ORG	ORG-European-Union
+329	343	Великобритания	Великобритания	LOC	GPE-Great-Britain
+348	354	Европа	Европа	LOC	LOC-Europe
+386	396	британците	британци	PER	GPE-Great-Britain
+474	480	Brexit	Brexit	EVT	EVT-Brexit
+510	526	Кристоф Хаселбах	Кристоф Хаселбах	PER	PER-Christoph-Hasselbach
+530	544	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+549	562	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+626	641	Daily Telegraph	Daily Telegraph	PRO	PRO-The-Daily-Telegraph
+823	828	Фараж	Фараж	PER	PER-Nigel-Farage
+856	858	ЕС	ЕС	ORG	ORG-European-Union
+904	918	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1099	1101	ЕС	ЕС	ORG	ORG-European-Union
+1216	1226	британците	британци	PER	GPE-Great-Britain
+1240	1246	Brexit	Brexit	EVT	EVT-Brexit
+1353	1365	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+1371	1385	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+1474	1482	Брекзита	Брекзит	EVT	EVT-Brexit
+1545	1558	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+1637	1642	Фараж	Фараж	PER	PER-Nigel-Farage
+1695	1715	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+1716	1726	Чъка Умуна	Чъка Умуна	PER	PER-Chuka-Umunna
+1730	1739	Том Брейк	Том Брейк	PER	PER-Tom-Brake
+1792	1797	Фараж	Фараж	PER	PER-Nigel-Farage
+1890	1898	Брекзита	Брекзит	EVT	EVT-Brexit
+1988	1993	Фараж	Фараж	PER	PER-Nigel-Farage
+2079	2083	ЮКИП	ЮКИП	ORG	ORG-UK-Independence-Party
+2128	2142	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2146	2148	ЕС	ЕС	ORG	ORG-European-Union
+2183	2197	Европарламента	европарламент	ORG	ORG-European-Parliament
+2231	2235	ЮКИП	ЮКИП	ORG	ORG-UK-Independence-Party
+2290	2310	британския парламент	британски парламент	ORG	ORG-British-Parlament
+2379	2383	ЮКИП	ЮКИП	ORG	ORG-UK-Independence-Party
+2384	2396	Хенри Болтън	Хенри Болтън	PER	PER-Henry-Bolton
+2442	2447	Фараж	Фараж	PER	PER-Nigel-Farage
+2701	2711	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2804	2814	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2956	2964	Хаселбах	Хаселбах	PER	PER-Christoph-Hasselbach
+3065	3079	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3157	3159	ЕС	ЕС	ORG	ORG-European-Union
+3262	3265	BMG	BMG	ORG	ORG-BMG
+3347	3355	британци	британци	PER	GPE-Great-Britain
+3744	3749	Фараж	Фараж	PER	PER-Nigel-Farage
+3831	3833	ЕС	ЕС	ORG	ORG-European-Union
+3936	3938	ЕС	ЕС	ORG	ORG-European-Union
+4000	4002	ЕС	ЕС	ORG	ORG-European-Union
+4007	4021	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4033	4041	Хаселбах	Хаселбах	PER	PER-Christoph-Hasselbach

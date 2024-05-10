@@ -1,0 +1,34 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+92	98	Polski	Polska	LOC	GPE-Poland
+338	345	brexitu	Brexit	EVT	EVT-Brexit
+347	362	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+395	412	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+443	450	Wyspami	Wyspy	LOC	GPE-Great-Britain
+489	491	Rz	Rz	PRO	PRO-Rzeczpospolita
+862	864	UE	UE	ORG	ORG-European-Union
+990	994	Unii	Unia	ORG	ORG-European-Union
+1170	1174	Wysp	Wyspy	LOC	GPE-Great-Britain
+1320	1328	brexicie	Brexit	EVT	EVT-Brexit
+1439	1454	Marek Bielawski	Marek Bielawski	PER	PER-Marek-Bielawski
+1476	1480	KPMG	KPMG	ORG	ORG-KPMG
+1559	1574	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1926	1943	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1952	1958	brexit	Brexit	EVT	EVT-Brexit
+2150	2157	brexitu	Brexit	EVT	EVT-Brexit
+2224	2230	Polsce	Polska	LOC	GPE-Poland
+2340	2348	brexicie	Brexit	EVT	EVT-Brexit
+2429	2444	Marek Bielawski	Marek Bielawski	PER	PER-Marek-Bielawski
+2613	2615	UE	UE	ORG	ORG-European-Union
+2636	2642	Polsce	Polska	LOC	GPE-Poland
+3203	3220	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3223	3240	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3330	3338	Brexicie	Brexit	EVT	EVT-Brexit
+3377	3385	Brukselą	Bruksela	LOC	GPE-Brussles
+3388	3396	Londynem	Londyn	LOC	GPE-London
+3405	3423	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+3508	3531	Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+3627	3634	Komisja	Komisja	ORG	ORG-European-Commission
+3810	3816	Polsce	Polska	LOC	GPE-Poland
+3832	3836	Wysp	Wyspy	LOC	GPE-Great-Britain
+3939	3944	Rosji	Rosja	LOC	GPE-Russia
+3949	3956	Ukrainy	Ukraina	LOC	GPE-Ukraine

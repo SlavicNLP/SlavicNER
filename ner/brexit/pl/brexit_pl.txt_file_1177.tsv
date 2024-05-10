@@ -1,0 +1,38 @@
+0	9	Discovery	Discovery	ORG	ORG-Discovery-Inc
+22	25	TVN	TVN	PRO	PRO-TVN
+51	59	Londynie	Londyn	LOC	GPE-London
+90	96	Polski	Polska	LOC	GPE-Poland
+98	107	Discovery	Discovery	ORG	ORG-Discovery-Inc
+147	155	Londynie	Londyn	LOC	GPE-London
+186	192	Polski	Polska	LOC	GPE-Poland
+198	206	Holandii	Holandia	LOC	GPE-Holland
+301	309	Guardian	Guardian	PRO	PRO-The-Guardian
+313	337	Discovery Communications	Discovery Communications	ORG	ORG-Discovery-Inc
+348	355	Europie	Europa	LOC	LOC-Europe
+388	396	Guardian	Guardian	PRO	PRO-The-Guardian
+426	433	brexitu	Brexit	EVT	EVT-Brexit
+480	488	Londynie	Londyn	LOC	GPE-London
+537	546	Discovery	Discovery	ORG	ORG-Discovery-Inc
+591	606	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+625	640	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+697	704	Europie	Europa	LOC	LOC-Europe
+731	741	Guardianie	Guardian	PRO	PRO-The-Guardian
+761	768	brexitu	Brexit	EVT	EVT-Brexit
+814	823	Discovery	Discovery	ORG	ORG-Discovery-Inc
+862	870	Guardian	Guardian	PRO	PRO-The-Guardian
+887	895	Warszawę	Warszawa	LOC	GPE-Warsaw
+898	907	Amsterdam	Amsterdam	LOC	GPE-Amsterdam
+938	943	Polki	Polka	PER	GPE-Poland
+944	959	Katarzyny Kieli	Katarzyna Kieli	PER	PER-Katarzyna-Kieli
+980	989	Discovery	Discovery	ORG	ORG-Discovery-Inc
+1003	1010	Europie	Europa	LOC	LOC-Europe
+1015	1032	Bliskim Wschodzie	Bliski Wschód	LOC	LOC-Near-East
+1037	1043	Afryce	Afryka	LOC	LOC-Africa
+1045	1054	Discovery	Discovery	ORG	ORG-Discovery-Inc
+1065	1081	Scripps Networks	Scripps Networks	ORG	ORG-SNI-Scripps-Networks-Interactive
+1101	1125	Discovery Communications	Discovery Communications	ORG	ORG-Discovery-Inc
+1150	1178	Scripps Networks Interactive	Scripps Networks Interactive	ORG	ORG-SNI-Scripps-Networks-Interactive
+1224	1227	TVN	TVN	PRO	PRO-TVN
+1229	1238	Discovery	Discovery	ORG	ORG-Discovery-Inc
+1272	1280	Scrippsa	Scripps	ORG	ORG-SNI-Scripps-Networks-Interactive
+1457	1465	Irlandii	Irlandia	LOC	GPE-Ireland

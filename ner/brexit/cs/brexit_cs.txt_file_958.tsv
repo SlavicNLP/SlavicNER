@@ -1,0 +1,19 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+61	68	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+78	80	EU	EU	ORG	ORG-European-Union
+116	123	Galilea	Galileo	PRO	PRO-Galileo-satellite-navigation
+352	358	Londýn	Londýn	LOC	GPE-London
+454	461	brexitu	brexit	EVT	EVT-Brexit
+640	645	Praze	Praha	LOC	GPE-Prague
+648	655	Britové	Britové	PER	GPE-Great-Britain
+677	684	Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+727	729	EU	EU	ORG	ORG-European-Union
+732	740	Británie	Británie	LOC	GPE-Great-Britain
+767	774	brexitu	brexit	EVT	EVT-Brexit
+776	782	Londýn	Londýn	LOC	GPE-London
+987	1005	Spojené království	Spojené království	LOC	GPE-Great-Britain
+1171	1174	ČTK	ČTK	ORG	ORG-CTK
+1523	1530	Londýna	Londýn	LOC	GPE-London
+1537	1544	Galileu	Galileo	PRO	PRO-Galileo-satellite-navigation
+1584	1599	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+1600	1614	Martin Selmayr	Martin Selmayr	PER	PER-Martin-Selmayr

@@ -1,0 +1,21 @@
+0	11	Илхан Кючюк	Илхан Кючюк	PER	PER-Ilhan-Kyuchyuk
+31	47	Да спрем Брекзит	Да спрем Брекзит	EVT	EVT-Stop-Brexit
+77	94	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+117	124	Брюксел	Брюксел	LOC	GPE-Brussles
+145	161	Да спрем Брекзит	Да спрем Брекзит	EVT	EVT-Stop-Brexit
+192	203	Илхан Кючюк	Илхан Кючюк	PER	PER-Ilhan-Kyuchyuk
+314	316	ЕС	ЕС	ORG	ORG-European-Union
+320	334	Великобритания	Великобритания	LOC	GPE-Great-Britain
+336	347	Илхан Кючюк	Илхан Кючюк	PER	PER-Ilhan-Kyuchyuk
+357	364	Брекзит	Брекзит	EVT	EVT-Brexit
+606	613	Брекзит	Брекзит	EVT	EVT-Brexit
+891	896	Кючюк	Кючюк	PER	PER-Ilhan-Kyuchyuk
+922	929	Брекзит	Брекзит	EVT	EVT-Brexit
+1001	1018	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+1082	1091	Евросъюза	Евросъюз	ORG	ORG-European-Union
+1186	1196	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1208	1210	ЕС	ЕС	ORG	ORG-European-Union
+1240	1251	Илхан Кючюк	Илхан Кючюк	PER	PER-Ilhan-Kyuchyuk
+1333	1345	Ти и Брекзит	Ти и Брекзит	PRO	PRO-You-and-Brexit
+1412	1426	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1476	1483	Брекзит	Брекзит	EVT	EVT-Brexit

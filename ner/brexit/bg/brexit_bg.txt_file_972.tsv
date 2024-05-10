@@ -1,0 +1,25 @@
+0	7	Борисов	Борисов	PER	PER-Boyko-Borisov
+38	52	Великобритания	Великобритания	LOC	GPE-Great-Britain
+60	67	Брекзит	Брекзит	EVT	EVT-Brexit
+92	105	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+153	173	Обединеното Кралство	Обединеното кралство	LOC	GPE-Great-Britain
+326	343	Западните Балкани	Западни Балкани	LOC	LOC-Western-Balkans
+373	385	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+396	409	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+459	476	Западните Балкани	Западни Балкани	LOC	LOC-Western-Balkans
+501	515	Великобритания	Великобритания	LOC	GPE-Great-Britain
+529	545	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+574	580	Европа	Европа	LOC	LOC-Europe
+671	678	Борисов	Борисов	PER	PER-Boyko-Borisov
+873	879	Европа	Европа	LOC	LOC-Europe
+955	972	Западните Балкани	Западни Балкани	LOC	LOC-Western-Balkans
+998	1018	Обединеното Кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1075	1102	Българското председателство	Българско председателство	EVT	EVT-Bulgarian-Presidency-EU
+1203	1223	Обединеното Кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1224	1238	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1241	1257	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1258	1271	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+1324	1331	Брекзит	Брекзит	EVT	EVT-Brexit
+1333	1339	Европа	Европа	LOC	LOC-Europe
+1404	1412	България	България	LOC	GPE-Bulgaria
+1415	1429	Великобритания	Великобритания	LOC	GPE-Great-Britain

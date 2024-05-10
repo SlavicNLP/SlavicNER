@@ -1,0 +1,54 @@
+0	3	AFP	AFP	ORG	ORG-France-Presse
+5	26	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+75	81	Лондон	Лондон	LOC	GPE-London
+93	99	Лондон	Лондон	LOC	GPE-London
+100	109	Садик Хан	Садик Хан	PER	PER-Sadiq-Khan
+157	166	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+198	210	The Guardian	The Guardian	PRO	PRO-The-Guardian
+221	227	Лондон	Лондон	LOC	GPE-London
+246	249	Ръд	Ръд	PER	PER-Amber-Rudd
+380	392	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+450	464	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+467	473	Лондон	Лондон	LOC	GPE-London
+498	501	Хан	Хан	PER	PER-Sadiq-Khan
+545	554	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+734	740	Лондон	Лондон	LOC	GPE-London
+930	939	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+984	996	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+998	1004	Лондон	Лондон	LOC	GPE-London
+1017	1027	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1060	1067	Брекзит	Брекзит	EVT	EVT-Brexit
+1068	1081	Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+1108	1124	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+1125	1135	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1184	1198	Маргарет Тачър	Маргарет Тачър	PER	PER-Margaret-Thatcher
+1236	1243	Брекзит	Брекзит	EVT	EVT-Brexit
+1244	1257	Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+1315	1331	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1357	1364	Брекзит	Брекзит	EVT	EVT-Brexit
+1365	1378	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+1419	1425	Робинс	Робинс	PER	PER-Oliver-Robbins
+1501	1514	Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+1516	1522	Дейвис	Дейвис	PER	PER-David-Davis
+1565	1575	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1576	1588	Гевин Баруел	Гевин Баруел	PER	PER-Gavin-Barwell
+1625	1637	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+1639	1646	Белфаст	Белфаст	LOC	GPE-Belfast
+1649	1681	Демократичната юнионистка партия	Демократична юнионистка партия	ORG	ORG-DUP-Democratic-Unionist-Party
+1686	1702	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1761	1771	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1776	1792	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1856	1858	ЕС	ЕС	ORG	ORG-European-Union
+1864	1871	Брекзит	Брекзит	EVT	EVT-Brexit
+1898	1911	The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+1912	1923	Найджъл Одс	Найджъл Додс	PER	PER-Nigel-Dodds
+1936	1939	ДЮП	ДЮП	ORG	ORG-DUP-Democratic-Unionist-Party
+1942	1953	Уестминстър	Уестминстър	LOC	LOC-Westminster
+2047	2054	Брекзит	Брекзит	EVT	EVT-Brexit
+2094	2108	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2203	2211	Ирландия	Ирландия	LOC	GPE-Ireland
+2214	2230	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2236	2243	Брекзит	Брекзит	EVT	EVT-Brexit
+2325	2332	Брекзит	Брекзит	EVT	EVT-Brexit
+2370	2386	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2522	2534	Иван Христов	Иван Христов	PER	PER-Ivan-Hristov

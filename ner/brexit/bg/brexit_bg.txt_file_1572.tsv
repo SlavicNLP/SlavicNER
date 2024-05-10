@@ -1,0 +1,24 @@
+6	10	Туск	Туск	PER	PER-Donald-Tusk
+24	31	Брекзит	Брекзит	EVT	EVT-Brexit
+83	89	Европа	Европа	LOC	LOC-Europe
+91	95	Туск	Туск	PER	PER-Donald-Tusk
+109	116	Брекзит	Брекзит	EVT	EVT-Brexit
+168	174	Европа	Европа	LOC	LOC-Europe
+193	210	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+211	222	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+249	255	Дъблин	Дъблин	LOC	GPE-Dublin
+274	288	Великобритания	Великобритания	LOC	GPE-Great-Britain
+292	303	Европейския	Европейски	ORG	ORG-European-Union
+460	471	Independent	Independent	PRO	PRO-The-Independent
+485	490	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+504	511	Брекзит	Брекзит	EVT	EVT-Brexit
+559	566	Брекзит	Брекзит	EVT	EVT-Brexit
+673	677	Туск	Туск	PER	PER-Donald-Tusk
+720	726	Дъблин	Дъблин	LOC	GPE-Dublin
+779	786	Брекзит	Брекзит	EVT	EVT-Brexit
+904	912	Ирландия	Ирландия	LOC	GPE-Ireland
+938	949	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+1012	1019	Брекзит	Брекзит	EVT	EVT-Brexit
+1072	1086	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1089	1091	ЕС	ЕС	ORG	ORG-European-Union
+1157	1159	ЕС	ЕС	ORG	ORG-European-Union

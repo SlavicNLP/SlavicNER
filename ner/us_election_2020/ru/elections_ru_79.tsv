@@ -1,0 +1,76 @@
+0	13	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+42	53	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+71	80	демократа	демократ	ORG	ORG-Democratic-Party-USA
+119	129	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+151	166	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+183	192	демократа	демократ	ORG	ORG-Democratic-Party-USA
+323	326	США	США	LOC	GPE-USA
+339	342	РБК	РБК	ORG	ORG-RBK-Group
+345	358	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+366	379	Carlos Barria	Carlos Barria	PER	PER-Carlos-Barria
+382	389	Reuters	Reuters	ORG	ORG-Reuters
+452	455	США	США	LOC	GPE-USA
+609	620	американцев	американцы	PER	GPE-USA
+687	698	Джо Байдена	Джо Байдена	PER	PER-Joe-Biden
+768	781	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+808	815	Reuters	Reuters	ORG	ORG-Reuters
+819	826	Байдена	Байден	PER	PER-Joe-Biden
+916	922	Трампа	Трамп	PER	PER-Donald-Trump
+939	946	Reuters	Reuters	ORG	ORG-Reuters
+993	1010	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+1012	1019	Аризоне	Аризона	LOC	GPE-Arizona
+1022	1030	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+1075	1081	Байден	Байден	PER	PER-Joe-Biden
+2018	2031	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2060	2067	Байдена	Байден	PER	PER-Joe-Biden
+2230	2235	Трамп	Трамп	PER	PER-Donald-Trump
+2251	2266	республиканских	республиканский	ORG	ORG-Republican-Party-USA
+2304	2312	Мичигане	Мичиган	LOC	GPE-Michigan
+2318	2330	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+2370	2376	Трампа	Трамп	PER	PER-Donald-Trump
+2412	2420	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+2448	2455	Байдена	Байден	PER	PER-Joe-Biden
+2459	2465	Трампа	Трамп	PER	PER-Donald-Trump
+2527	2532	Трамп	Трамп	PER	PER-Donald-Trump
+2677	2683	Байден	Байден	PER	PER-Joe-Biden
+2877	2891	республиканцем	республиканец	ORG	ORG-Republican-Party-USA
+2892	2914	Джорджем Бушем-младшим	Джордж Буш-младший	PER	PER-George-Bush-Jr
+2917	2927	демократом	демократ	ORG	ORG-Democratic-Party-USA
+2928	2943	Альбертом Гором	Альберт Гор	PER	PER-Al-Gore
+2951	2955	Бушу	Буш	PER	PER-George-Bush-Jr
+3010	3023	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+3073	3080	Флорида	Флорида	LOC	GPE-Florida
+3150	3154	Буша	Буш	PER	PER-George-Bush-Jr
+3158	3162	Гора	Гор	PER	PER-Al-Gore
+3191	3198	Байдена	Байден	PER	PER-Joe-Biden
+3202	3208	Трампа	Трамп	PER	PER-Donald-Trump
+3301	3307	Трампа	Трамп	PER	PER-Donald-Trump
+3340	3346	Байден	Байден	PER	PER-Joe-Biden
+3407	3422	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3621	3627	Трампа	Трамп	PER	PER-Donald-Trump
+3677	3688	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+3709	3719	российских	российский	LOC	GPE-Russia
+3751	3763	американские	американские	LOC	GPE-USA
+3817	3822	Обама	Обама	PER	PER-Barack-Obama
+3843	3861	Джордж Буш-младший	Джордж Буш-младший	PER	PER-George-Bush-Jr
+3892	3904	Билл Клинтон	Билл Клинтон	PER	PER-Bill-Clinton
+3935	3953	Джордж Буш-старший	Джордж Буш-старший	PER	PER-George-Bush-Sr
+4170	4173	США	США	LOC	GPE-USA
+4371	4376	Обама	Обама	PER	PER-Barack-Obama
+4388	4394	Трампу	Трамп	PER	PER-Donald-Trump
+4468	4479	американцев	американцы	PER	GPE-USA
+4508	4511	США	США	LOC	GPE-USA
+5332	5366	The Partnership for Public Service	The Partnership for Public Service	ORG	ORG-The-Partnership-for-Public-Service
+5483	5505	Республиканская партия	Республиканская партия	ORG	ORG-Republican-Party-USA
+5854	5865	Белого дома	Белый дом	ORG	ORG-The-White-House
+5866	5877	Марк Медоуз	Марк Медоуз	PER	PER-Mark-Meadows
+5945	5952	Байдена	Байден	PER	PER-Joe-Biden
+6059	6069	демократов	демократ	ORG	ORG-Democratic-Party-USA
+6453	6478	Администрация общих служб	Администрация общих служб	ORG	ORG-General-Services-Administration-USA
+6480	6483	GSA	GSA	ORG	ORG-General-Services-Administration
+6579	6586	Байдена	Байден	PER	PER-Joe-Biden
+6685	6688	GSA	GSA	ORG	ORG-General-Services-Administration
+6714	6721	Байдену	Байден	PER	PER-Joe-Biden
+6794	6800	Байден	Байден	PER	PER-Joe-Biden
+6814	6820	Трампа	Трамп	PER	PER-Donald-Trump
+6997	7004	Reuters	Reuters	ORG	ORG-Reuters

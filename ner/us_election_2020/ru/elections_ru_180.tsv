@@ -1,0 +1,120 @@
+32	46	республиканцам	республиканцы	ORG	ORG-Republican-Party-USA
+102	105	США	США	LOC	GPE-USA
+108	121	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+145	148	США	США	LOC	GPE-USA
+197	203	Техаса	Техас	LOC	GPE-Texas
+206	219	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+433	438	Трамп	Трамп	PER	PER-Donald-Trump
+626	629	США	США	LOC	GPE-USA
+630	643	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+695	700	Техас	Техас	LOC	GPE-Texas
+737	756	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+814	825	Белого дома	Белый дом	ORG	ORG-The-White-House
+885	891	Техасу	Техас	LOC	GPE-Texas
+973	991	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+1024	1031	Twitter	Twitter	PRO	PRO-Twitter
+1073	1078	Техас	Техас	LOC	GPE-Texas
+1079	1090	Кен Пакстон	Кен Пакстон	PER	PER-Ken-Paxton
+1123	1131	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1133	1145	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+1147	1154	Мичиган	Мичиган	LOC	GPE-Michigan
+1157	1166	Висконсин	Висконсин	LOC	GPE-Wisconsin
+1225	1244	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1355	1370	Конституцию США	Конституция США	PRO	PRO-The-USA-Constitution
+1613	1623	техасскому	 техасский	LOC	GPE-Texas
+1673	1688	республиканских	республиканские	ORG	ORG-Republican-Party-USA
+1781	1788	Миссури	Миссури	LOC	GPE-Missouri
+1789	1803	республиканцем	республиканец	ORG	ORG-Republican-Party-USA
+1804	1818	Эриком Шмиттом	Эрик Шмитт	PER	PER-Eric-Schmidt
+1841	1856	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+1860	1862	RT	RT	PRO	PRO-RT-Russia-Today
+2080	2083	США	США	LOC	GPE-USA
+2084	2097	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2143	2155	выборах 2020	выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+2174	2186	американских	американский	LOC	GPE-USA
+2232	2235	США	США	LOC	GPE-USA
+2642	2664	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+2665	2675	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+2694	2707	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2731	2739	коллегия	коллегия	ORG	ORG-United-States-Electoral-College
+2761	2768	Байдена	Байден	PER	PER-Joe-Biden
+2805	2814	Белый дом	Белый дом	ORG	ORG-The-White-House
+2851	2869	Соединённых штатах	Соединённые Штаты	LOC	GPE-USA
+3025	3037	американские	американские	LOC	GPE-USA
+3128	3150	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3151	3162	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3178	3191	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+3316	3326	демократов	демократы	ORG	ORG-Democratic-Party-USA
+3384	3389	Трамп	Трамп	PER	PER-Donald-Trump
+3402	3428	Управлению общих служб США	Управление общих служб США	ORG	ORG-General-Services-Administration
+3478	3489	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+3522	3527	Трамп	Трамп	PER	PER-Donald-Trump
+3617	3627	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3869	3874	Трамп	Трамп	PER	PER-Donald-Trump
+3883	3890	Twitter	Twitter	PRO	PRO-Twitter
+4081	4088	Флориде	Флорида	LOC	GPE-Florida
+4094	4099	Огайо	Огайо	LOC	GPE-Ohio
+4187	4192	Трамп	Трамп	PER	PER-Donald-Trump
+4216	4229	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+4230	4233	США	США	LOC	GPE-USA
+4257	4263	Forbes	Forbes	PRO	PRO-Forbes
+4290	4296	Трампа	Трамп	PER	PER-Donald-Trump
+4322	4338	Джона Ф. Кеннеди	Джон Ф. Кеннеди	PER	PER-John-F-Kennedy
+4409	4414	Огайо	Огайо	LOC	GPE-Ohio
+4417	4424	Флориде	Флорида	LOC	GPE-Florida
+4446	4459	Ричард Никсон	Ричард Никсон	PER	PER-Richard-Nixon
+4476	4481	Трамп	Трамп	PER	PER-Donald-Trump
+4578	4596	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+4662	4667	Техас	Техас	LOC	GPE-Texas
+4668	4678	Теду Крузу	Тед Круз	PER	PER-Ted-Cruz
+4711	4720	техасский	техасский	LOC	GPE-Texas
+4750	4764	Верховном суде	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+4795	4799	Круз	Круз	PER	PER-Ted-Cruz
+4866	4869	США	США	LOC	GPE-USA
+4883	4896	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+4907	4916	техасский	техасский	LOC	GPE-Texas
+4975	4987	американские	американские	LOC	GPE-USA
+5108	5114	Техаса	Техас	LOC	GPE-Texas
+5138	5157	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+5265	5287	Института США и Канады	Институт США и Канады	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAN
+5288	5291	РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+5292	5309	Владимир Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+5324	5326	RT	RT	PRO	PRO-RT-Russia-Today
+5341	5354	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+5355	5358	США	США	LOC	GPE-USA
+5424	5439	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+5616	5631	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+5852	5854	RT	RT	PRO	PRO-RT-Russia-Today
+5970	5983	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+6114	6159	Национального комитета Республиканской партии	Национальный комитет Республиканской партии	ORG	ORG-Respublican-National-Committee USA
+6187	6190	США	США	LOC	GPE-USA
+6250	6260	Белом доме	Белый дом	ORG	ORG-The-White-House
+6382	6395	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+6429	6443	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+6488	6490	RT	RT	PRO	PRO-RT-Russia-Today
+6513	6538	Михаил Синельников-Оришак	Михаил Синельников-Оришак	PER	PER-Mikhail-Sinelnikov-Orishak
+6589	6595	Трампу	Трамп	PER	PER-Donald-Trump
+6669	6677	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+6679	6687	Мичигане	Мичиган	LOC	GPE-Michigan
+6689	6701	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+6704	6714	Висконсине	Висконсин	LOC	GPE-Wisconsin
+6726	6732	Трампу	Трамп	PER	PER-Donald-Trump
+6773	6792	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+6898	6901	США	США	LOC	GPE-USA
+7070	7073	США	США	LOC	GPE-USA
+7074	7086	Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+7223	7245	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+7323	7348	Михаил Синельников-Оришак	Михаил Синельников-Оришак	PER	PER-Mikhail-Sinelnikov-Orishak
+7353	7358	Трамп	Трамп	PER	PER-Donald-Trump
+7540	7550	Белом доме	Белый дом	ORG	ORG-The-White-House
+7587	7589	RT	RT	PRO	PRO-RT-Russia-Today
+7629	7646	Владимир Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+7677	7690	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+7691	7694	США	США	LOC	GPE-USA
+7769	7781	американскую	американский	LOC	GPE-USA
+8089	8095	Трампа	Трамп	PER	PER-Donald-Trump
+8140	8149	демократы	демократы	ORG	ORG-Democratic-Party-USA
+8298	8312	Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+8384	8392	Симоньян	Симоньян	PER	PER-Margarita-Simonyan
+8423	8429	Москва	Москва	LOC	GPE-Moscow
+8431	8444	Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street

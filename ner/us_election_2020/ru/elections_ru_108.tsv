@@ -1,0 +1,67 @@
+77	87	Эхо Москвы	Эхо Москвы	PRO	PRO-Echo-of-Moscow
+244	254	Эхо Москвы	Эхо Москвы	PRO	PRO-Echo-of-Moscow
+498	502	ТАСС	ТАСС	PRO	ORG-Russian's leading news company
+504	524	Следственный комитет	Следственный комитет	ORG	ORG-Russia-Investigative-Committee
+542	552	Киру Ярмыш	Киру Ярмыш	PER	PER-Kira-Yarmysh
+720	725	Ярмыш	Ярмыш	PER	PER-Kira-Yarmysh
+828	845	Михаил Виноградов	Михаил Виноградов	PER	PER-Michail-Vinogravov
+876	893	«Персонально ваш»	Персонально ваш	PRO	PRO-Personally-yours
+983	1001	Алексея Навального	Алексея Навального	PER	PER-Alexei-Navalny
+1082	1089	YouTube	YouTube	PRO	PRO-YouTube
+1120	1131	Яндекс.Эфир	Яндекс.Эфир	PRO	PRO-Yandex.On Air
+1215	1230	Дмитрия Пескова	Дмитрия Пескова	PER	PER-Dmitrij-Pieskow
+1278	1292	Юлию Навальную	Юлию Навальную	PER	PER-Yulia-Navalnaya
+1324	1338	Щербинский суд	Щербинский суд	ORG	ORG-Shcherbinsky-Court
+1602	1614	Мария Певчих	Мария Певчих	PER	PER-Maria Pevchikh
+1639	1657	Александру Плющеву	Александру Плющеву	PER	PER-Alexandr-Plyushchev
+1689	1699	Геленджике	Геленджике	LOC	GPE-Gelendzhik
+1773	1776	ФСБ	ФСБ	ORG	ORG-FSB
+1911	1914	ФБК	ФБК	ORG	ORG-Anti-Corruption-Foundation
+1954	1958	Mash	Mash	PRO	PRO-Mash
+1961	1969	России-1	России-1	PRO	PRO-Russia-1-TV
+2003	2006	ФБК	ФБК	ORG	ORG-Anti-Corruption Foundation
+2055	2065	Ротенберга	Ротенберга	PER	PER-Аrkady-Rottenberg
+2107	2117	Bellingcat	Bellingcat	PRO	PRO-Bellingcat
+2139	2159	правительство России	правительство России	ORG	ORG-The-Government-of-Russia
+2198	2204	Россия	Россия	LOC	GPE-Russia
+2281	2286	Путин	Путин	PER	PER-Vladimir-Putin
+2569	2582	Элиот Хиггинс	Элиот Хиггинс	PER	PER-Eliot-Higgins
+2627	2637	Навального	Навального	PER	PER-Alexei-Navalny
+2690	2702	Алексей Осин	Алексей Осин	PER	PER-Alexey-Osin
+2719	2728	СлухайЭхо	СлухайЭхо	PRO	PRO-Echo-of-Moscow
+3199	3211	американских	американские	LOC	GPE-USA
+3280	3290	демократов	демократ	ORG	ORG-Democratic-Party-USA
+3291	3302	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3326	3339	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+3377	3380	CNN	CNN	ORG	ORG-CNN
+3382	3385	NBC	NBC	ORG	ORG-National-Broadcasting-Company
+3446	3457	Белого дома	Белый дом	ORG	ORG-The-White-House
+3477	3485	Fox News	Fox News	PRO	PRO-Fox-News
+3539	3549	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3585	3597	американских	американские	LOC	GPE-USA
+3702	3724	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3749	3761	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+3912	3918	Байден	Байден	PER	PER-Joe-Biden
+3927	3935	твиттере	твиттере	PRO	PRO-Twitter
+3982	3993	американцев	американцы	PER	GPE-USA
+4065	4078	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+4288	4294	Байден	Байден	PER	PER-Joe-Biden
+4334	4340	Москве	Москва	LOC	GPE-Moscow
+4369	4379	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+4437	4446	демократа	демократ	ORG	ORG-Democratic-Party-USA
+4462	4474	американской	американская	LOC	GPE-USA
+4493	4505	«Эха Москвы»	Эхо Москвы	PRO	PRO-Echo-of-Moscow
+4506	4523	Сергей Пархоменко	Сергей Пархоменко	PER	PER-Sergei-Parkhomenko
+4531	4540	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+4543	4558	округе Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+4626	4637	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+4684	4690	Байден	Байден	PER	PER-Joe-Biden
+4707	4710	США	США	LOC	GPE-USA
+4730	4736	Путина	Путин	PER	PER-Vladimir-Putin
+4749	4760	американцам	американцы	PER	GPE-USA
+4931	4934	США	США	LOC	GPE-USA
+4953	4965	Американские	американские	LOC	GPE-USA
+5010	5020	российским	российские	LOC	GPE-Russia
+5090	5097	Байдена	Байден	PER	PER-Joe-Biden
+5210	5216	Трампа	Трам	PER	PER-Donald-Trump
+5227	5232	Трамп	Трамп	PER	PER-Donald-Trump

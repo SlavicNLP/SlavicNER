@@ -1,0 +1,23 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+247	254	brexitu	Brexit	EVT	EVT-Brexit
+289	292	ADS	ADS	ORG	ORG-ADS-Group-Limited
+373	388	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+426	432	Europą	Europa	LOC	LOC-Europe
+469	477	Brukselą	Bruksela	LOC	GPE-Brussles
+702	705	ADS	ADS	ORG	ORG-ADS-Group-Limited
+787	791	Unii	Unia	ORG	ORG-European-Union
+1187	1195	Brukselą	Bruksela	LOC	GPE-Brussles
+1226	1229	ADS	ADS	ORG	ORG-ADS-Group-Limited
+1612	1614	UE	UE	ORG	ORG-European-Union
+1641	1644	ADS	ADS	ORG	ORG-ADS-Group-Limited
+1646	1658	Paul Everitt	Paul Everitt	PER	PER-Paul-Everitt
+1660	1663	ADS	ADS	ORG	ORG-ADS-Group-Limited
+1718	1722	Unią	Unia	ORG	ORG-European-Union
+1797	1808	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1860	1863	ADS	ADS	ORG	ORG-ADS-Group-Limited
+1940	1951	W. Brytanią	W. Brytania	LOC	GPE-Great-Britain
+1954	1956	UE	UE	ORG	ORG-European-Union
+2135	2138	ADS	ADS	ORG	ORG-ADS-Group-Limited
+2216	2227	Rolls-Royce	Rolls-Royce	ORG	ORG-Rolls-Royce-ltd
+2246	2253	Airbusa	Airbus	ORG	ORG-Airbus-SE
+2264	2271	Wyspach	Wyspy	LOC	GPE-Great-Britain

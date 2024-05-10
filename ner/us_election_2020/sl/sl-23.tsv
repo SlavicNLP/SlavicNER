@@ -1,0 +1,121 @@
+46	54	Trumpove	Trump	PER	PER-Donald-Trump
+55	62	Amerike	Amerika	LOC	GPE-USA
+288	295	Trumpom	Trump	PER	PER-Donald-Trump
+300	306	Bidnom	Biden	PER	PER-Joe-Biden
+429	439	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+568	595	Zveznem preiskovalnem uradu	Zvezni preiskovalni urad	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+597	600	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+610	615	QAnon	QAnon	PRO	PRO-QAnon-theory
+798	803	QAnon	QAnon	PRO	PRO-QAnon-theory
+974	989	Comet Ping Pong	Comet Ping Pong	PRO	PRO-Comet-Ping-Pong
+992	1007	Washingtonu D.C	Washington D.C	LOC	GPE-WashingtonDC
+1044	1049	AR-15	AR-15	PRO	PRO-AR-15
+1229	1244	Združene države	Združene države	LOC	GPE-USA
+1545	1550	4chan	4chan	PRO	PRO-4chan
+1566	1581	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1633	1638	QAnon	QAnon	PRO	PRO-QAnon-theory
+1880	1900	Edgar Maddison Welch	Edgar Maddison Welch	PER	PER-Edgar-Maddison-Welch
+1951	1954	ZDA	ZDA	LOC	GPE-USA
+2032	2048	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+2052	2067	Comet Ping Pong	Comet Ping Pong	PRO	PRO-Comet-Ping-Pong
+2174	2183	Wikileaks	Wikileaks	ORG	ORG-Wikileaks
+2220	2233	Johna Podeste	John Podesta	PER	PER-John-Podesta
+2262	2277	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+2346	2355	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+2453	2458	Welch	Welch	PER	PER-Edgar-Maddison-Welch
+2561	2570	Pizzagate	Pizzagate	EVT	EVT-Pizzagate
+2838	2843	4chan	4chan	PRO	PRO-4chan
+3111	3126	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+3267	3281	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+3423	3428	Trump	Trump	PER	PER-Donald-Trump
+3644	3649	4chan	4chan	PRO	PRO-4chan
+3757	3767	Clintonovi	Clinton	PER	PER-Hillary-Clinton
+4007	4012	8chan	8chan	PRO	PRO-8chan
+4060	4073	Christchurcha	Christchurch	LOC	GPE-Christchurch
+4075	4090	Brenton Tarrant	Brenton Tarrant	PER	PER-Brenton-Tarrant
+4212	4218	8chanu	8chan	PRO	PRO-8chan
+4386	4392	Qdrops	Qdrops	PRO	PRO-Qdrops(Quanon)
+4428	4433	QAnon	QAnon	PRO	PRO-QAnon-theory
+4670	4686	Fredrick Brennan	Fredrick Brennan	PER	PER-Fredrick-Brennan
+4707	4713	8chana	8chan	PRO	PRO-8chan
+4793	4804	Paul Furber	Paul Furber	PER	PER-Paul-Furber
+4833	4839	8chanu	8chan	PRO	PRO-8chan
+4896	4901	QAnon	QAnon	PRO	PRO-QAnon-theory
+4974	4979	8chan	8chan	PRO	PRO-8chan
+4980	4991	Jim Watkins	Jim Watkins	PER	PER-Jim-Watkins
+5080	5086	QAnona	QAnon	PRO	PRO-QAnon-theory
+5183	5189	8chana	8chan	PRO	PRO-8chan
+5360	5369	Evangelij	Evangelij	PRO	PRO-Gospel
+5388	5396	Furberja	Furber	PER	PER-Paul-Furber
+5429	5438	Infowarsu	Infowars	PRO	PRO-Infowars
+5496	5508	Alexa Jonesa	Alex Jones	PER	PER-Alex-Jones
+5535	5540	QAnon	QAnon	PRO	PRO-QAnon-theory
+5595	5601	reddit	reddit	PRO	PRO-reddit
+5787	5794	redditu	reddit	PRO	PRO-reddit
+5854	5862	facebook	facebook	PRO	PRO-Facebook
+5866	5873	twitter	twitter	PRO	PRO-Twitter
+5895	5901	QAnona	QAnon	PRO	PRO-QAnon-theory
+6031	6040	Trumpovih	Trump	PER	PER-Donald-Trump
+6051	6068	Združenih državah	Združene države	LOC	GPE-USA
+6292	6301	Trumpovih	Trump	PER	PER-Donald-Trump
+6312	6329	Združenih državah	Združene države	LOC	GPE-USA
+6465	6470	QAnon	QAnon	PRO	PRO-QAnon-theory
+6527	6537	redditovem	reddit	PRO	PRO-reddit
+6979	7001	Matthew Phillip Wright	Matthew Phillip Wright	PER	PER-Matthew-Phillip-Wright
+7085	7098	Hooverjev jez	Hooverjev jez	LOC	LOC-Hoover-Dam
+7115	7118	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+7172	7187	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+7251	7278	Zveznem preiskovalnem uradu	Zvezni preiskovalni urad	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+7387	7392	QAnon	QAnon	PRO	PRO-QAnon-theory
+7565	7577	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+7660	7670	Guantanamu	Guantanamo	LOC	LOC-Guantanamo
+7710	7715	QAnon	QAnon	PRO	PRO-QAnon-theory
+8265	8281	Elijah Nouvelage	Elijah Nouvelage	PER	PER-Elijah-Nouvelage
+8282	8289	Reuters	Reuters	ORG	ORG-Reuters
+8291	8296	QAnon	QAnon	PRO	PRO-QAnon-theory
+8471	8478	QAnonov	QAnon	PRO	PRO-QAnon-theory
+8584	8593	Trumpovih	Trump	PER	PER-Donald-Trump
+8765	8774	twitterju	twitter	PRO	PRO-Twitter
+8803	8810	QAnonom	QAnon	PRO	PRO-QAnon-theory
+9134	9147	republikancev	republikanci	PER	ORG-Republican-Party-USA
+9437	9445	QAnonove	QAnon	PRO	PRO-QAnon-theory
+9482	9495	republikancev	republikanci	PER	ORG-Republican-Party-USA
+9521	9526	QAnon	QAnon	PRO	PRO-QAnon-theory
+9591	9596	Trump	Trump	PER	PER-Donald-Trump
+9907	9920	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+9986	9994	QAnonove	QAnon	PRO	PRO-QAnon-theory
+10007	10016	Američani	Američani	PER	GPE-USA
+10055	10067	Pew Research	Pew Research	ORG	ORG-Pew-Research
+10091	10096	QAnon	QAnon	PRO	PRO-QAnon-theory
+10200	10213	republikancev	republikanci	PER	ORG-Republican-Party-USA
+10300	10305	Trump	Trump	PER	PER-Donald-Trump
+10351	10356	QAnon	QAnon	PRO	PRO-QAnon-theory
+10436	10445	Evropejci	Evropejci	PER	LOC-Europe
+10501	10517	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+10542	10569	Freedom for the Children UK	Freedom for the Children UK	ORG	ORG-Freedom-for-the-Children-UK
+10833	10840	Nemčiji	Nemčija	LOC	GPE-Germany
+10899	10914	Atilla Hildmann	Atilla Hildmann	PER	PER-Atilla-Hildmann
+10975	10988	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+11002	11007	Trump	Trump	PER	PER-Donald-Trump
+11051	11061	Guantanamo	Guantanamo	LOC	LOC-Guantanamo
+11108	11117	facebooku	facebook	PRO	PRO-Facebook
+11120	11127	QAnonom	QAnon	PRO	PRO-QAnon-theory
+11162	11171	Slovencev	Slovenci	PER	GPE-Slovenia
+11219	11226	Balkanu	Balkan	LOC	LOC-Balkans
+11504	11513	covida-19	covid-19	EVT	EVT-Covid-19
+11715	11720	QAnon	QAnon	PRO	PRO-QAnon-theory
+11799	11801	5G	5G	PRO	PRO-5G
+12280	12285	Wired	Wired	PRO	PRO-Wired
+12289	12294	QAnon	QAnon	PRO	PRO-QAnon-theory
+12311	12321	Pokemon Go	Pokemon Go	PRO	PRO-Pokemon-Go
+12528	12535	twitter	twitter	PRO	PRO-Twitter
+12556	12564	QAnonove	QAnon	PRO	PRO-QAnon-theory
+12686	12694	facebook	facebook	PRO	PRO-Facebook
+12696	12703	spotify	spotify	PRO	PRO-Spotify
+12705	12711	tiktok	tiktok	PRO	PRO-TikTok
+12715	12722	youtube	youtube	PRO	PRO-YouTube
+12735	12741	Trumpa	Trump	PER	PER-Donald-Trump
+12828	12832	8kun	8kun	PRO	PRO-8chan
+12848	12853	8chan	8chan	PRO	PRO-8chan
+12858	12864	parler	parler	PRO	PRO-Parler
+12934	12943	twitterju	twitter	PRO	PRO-Twitter

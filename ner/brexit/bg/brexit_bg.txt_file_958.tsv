@@ -1,0 +1,60 @@
+0	15	The Independent	The Independent	PRO	PRO-The-Independent
+36	48	Джереми Хънт	Джереми Хънт	PER	PER-Jeremy-Hunt
+64	66	ЕС	ЕС	ORG	ORG-European-Union
+75	81	Лондон	Лондон	LOC	GPE-London
+120	136	Майкъл Хезълтайн	Майкъл Хезълтайн	PER	PER-Michael-Haseltine
+181	191	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+264	280	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+319	331	The Guardian	The Guardian	PRO	PRO-The-Guardian
+382	385	Мей	Мей	PER	PER-Theresa-May
+440	449	Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+510	524	Великобритания	Великобритания	LOC	GPE-Great-Britain
+532	534	ЕС	ЕС	ORG	ORG-European-Union
+580	589	Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+611	619	Observer	Observer	PRO	PRO-The-Observer
+632	644	The Guardian	The Guardian	PRO	PRO-The-Guardian
+705	719	Великобритания	Великобритания	LOC	GPE-Great-Britain
+756	758	ЕС	ЕС	ORG	ORG-European-Union
+980	990	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1010	1012	ЕС	ЕС	ORG	ORG-European-Union
+1485	1491	Европа	Европа	LOC	LOC-Europe
+1541	1549	Ирландия	Ирландия	LOC	GPE-Ireland
+1574	1584	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+1587	1599	Джон Мейджър	Джон Мейджър	PER	PER-John-Major
+1710	1719	Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+1740	1752	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+1754	1760	Лондон	Лондон	LOC	GPE-London
+1795	1805	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1948	1950	ЕС	ЕС	ORG	ORG-European-Union
+1957	1972	The Independent	The Independent	PRO	PRO-The-Independent
+1974	1984	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2080	2115	Европейската агенция за лекарствата	Европейска агенция за лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+2117	2151	Европейската агенция за химикалите	Европейска агенция за химикали	ORG	ORG-European-Chemicals-Agency
+2154	2203	Европейската агенциа за безопасността на полетите	Европейска агенция за безопасността на полетите	ORG	ORG-EASA-European-Aviation-Safety-Agency
+2545	2555	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2586	2593	Брекзит	Брекзит	EVT	EVT-Brexit
+2599	2612	Андрю Диърден	Андрю Диърдън	PER	PER-Andrew-Dearden
+2631	2663	Британската медицинска асоциация	Британска медицинска асоциация	ORG	ORG-British-Medical-Association
+2719	2754	Европейската агенция за лекарствата	Европейска агенция за лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+2841	2843	ЕС	ЕС	ORG	ORG-European-Union
+2888	2902	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2938	2953	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+2955	2961	Дъблин	Дъблин	LOC	GPE-Dublin
+2996	3008	Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+3065	3075	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3179	3181	ЕС	ЕС	ORG	ORG-European-Union
+3191	3198	Reuters	Reuters	ORG	ORG-Reuters
+3200	3203	Мей	Мей	PER	PER-Theresa-May
+3212	3214	ЕС	ЕС	ORG	ORG-European-Union
+3286	3293	Брекзит	Брекзит	EVT	EVT-Brexit
+3310	3324	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3444	3454	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3510	3518	Варадкар	Варадкар	PER	PER-Leo-Varadkar
+3749	3759	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3787	3803	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+3864	3882	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+3922	3936	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3963	3965	ЕС	ЕС	ORG	ORG-European-Union
+3971	3978	Брекзит	Брекзит	EVT	EVT-Brexit
+3989	3995	Лондон	Лондон	LOC	GPE-London
+4076	4091	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov

@@ -1,0 +1,12 @@
+0	9	Німеччина	Німеччина	LOC	GPE-Germany
+26	34	COVID-19	COVID-19	EVT	EVT-Covid-19
+93	102	Німеччині	Німеччина	LOC	GPE-Germany
+265	274	Німеччини	Німеччина	LOC	GPE-Germany
+306	312	Pfizer	Pfizer	ORG	ORG-Pfizer
+313	321	BioNTech	BioNTech	ORG	ORG-BioNTech
+325	332	Moderna	Moderna	ORG	ORG-Moderna
+612	620	Єнс Шпан	Єнс Шпан	PER	PER-Jens-Spahn
+753	767	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+801	810	Німеччини	Німеччина	LOC	GPE-Germany
+854	861	Меркель	Меркель	PER	PER-Angela-Merkel
+925	931	RBC.UA	RBC.UA	ORG	ORG-RBC-Ukraine

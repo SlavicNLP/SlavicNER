@@ -1,0 +1,34 @@
+42	50	COVID-19	COVID-19	EVT	EVT-Covid-19
+89	101	коронавірусу	коронавірус	EVT	EVT-Covid-19
+102	112	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+324	376	"школі медицини ""Ікан"" медичного центру ""Маунт-Синай"""	"школа медицини ""Ікан"" медичного центру ""Маунт-Синай"""	ORG	ORG-Icahn-School-of-Medicine-at-Mount-Sinai
+377	392	Флоріан Краммер	Флоріан Краммер	PER	PER-Florian-Krammer
+399	402	ORF	ORF	ORG	ORG-ORF
+489	495	Pfizer	Pfizer	ORG	ORG-Pfizer
+496	504	Biontech	Biontech	ORG	ORG-BioNTech
+550	562	коронавірусу	коронавірус	EVT	EVT-Covid-19
+582	584	ЄС	ЄС	LOC	ORG-European-Union
+917	925	COVID-19	COVID-19	EVT	EVT-Covid-19
+1101	1108	Краммер	Краммер	PER	PER-Florian-Krammer
+1362	1364	ЄС	ЄС	LOC	ORG-European-Union
+1401	1413	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1427	1433	Pfizer	Pfizer	ORG	ORG-Pfizer
+1436	1444	BioNTech	BioNTech	ORG	ORG-BioNTech
+1517	1536	Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+1622	1629	Франції	Франція	LOC	GPE-France
+1631	1640	Німеччині	Німеччина	LOC	GPE-Germany
+1642	1649	Австрії	Австрія	LOC	GPE-Austria
+1651	1658	Іспанії	Іспанія	LOC	GPE-Spain
+1660	1666	Італії	Італія	LOC	GPE-Italy
+1668	1676	Болгарії	Болгарія	LOC	GPE-Bulgaria
+1678	1683	Чехії	Чехія	LOC	GPE-Czech-Republic
+1705	1712	Європол	Європол	ORG	ORG-European-Police-Office
+1764	1772	COVID-19	COVID-19	EVT	EVT-Covid-19
+1880	1915	Першого медичного центру Тель-Авіва	Перший медичний центр Тель-Авіва	ORG	ORG-Tel-Aviv's-first-medical-center
+1916	1931	Романа Гольдман	Роман Гольдман	PER	PER-Roman-Goldman
+2013	2024	OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+2098	2120	коронавірусної хвороби	коронавірусна хвороба	EVT	EVT-Covid-19
+2183	2193	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+2247	2266	Університету Монаша	Університет Монаша	ORG	ORG-Monash-University
+2269	2278	Австралії	Австралія	LOC	GPE-Australia
+2298	2306	COVID-19	COVID-19	EVT	EVT-Covid-19

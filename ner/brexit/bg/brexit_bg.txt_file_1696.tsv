@@ -1,0 +1,27 @@
+23	31	Ирландия	Ирландия	LOC	GPE-Ireland
+53	60	Брекзит	Брекзит	EVT	EVT-Brexit
+73	79	Барние	Барние	PER	PER-Michel-Barnier
+104	106	ЕС	ЕС	ORG	ORG-European-Union
+110	117	Брекзит	Брекзит	EVT	EVT-Brexit
+118	130	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+235	249	Великобритания	Великобритания	LOC	GPE-Great-Britain
+293	296	АФП	АФП	ORG	ORG-France-Presse
+341	349	Ирландия	Ирландия	LOC	GPE-Ireland
+350	356	Барние	Барние	PER	PER-Michel-Barnier
+397	405	Ирландия	Ирландия	LOC	GPE-Ireland
+446	453	Брекзит	Брекзит	EVT	EVT-Brexit
+567	575	Ирландия	Ирландия	LOC	GPE-Ireland
+576	587	Лео Вардкар	Лео Варадкар	PER	PER-Leo-Varadkar
+613	627	Великобритания	Великобритания	LOC	GPE-Great-Britain
+734	740	Лондон	Лондон	LOC	GPE-London
+811	827	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+830	838	Ирландия	Ирландия	LOC	GPE-Ireland
+972	985	Добрият петък	Добрия петък	EVT	EVT-Good-Friday
+1050	1066	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1068	1082	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1132	1139	Брекзит	Брекзит	EVT	EVT-Brexit
+1141	1143	ЕС	ЕС	ORG	ORG-European-Union
+1202	1218	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1246	1252	Барние	Барние	PER	PER-Michel-Barnier
+1280	1282	ЕС	ЕС	ORG	ORG-European-Union
+1363	1383	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain

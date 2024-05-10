@@ -1,0 +1,47 @@
+14	23	Belo hišo	Bela hiša	LOC	LOC-White-House
+40	47	Bidnova	Biden	PER	PER-Joe-Biden
+97	104	Bidnove	Biden	PER	PER-Joe-Biden
+164	169	Trump	Trump	PER	PER-Donald-Trump
+208	213	Biden	Biden	PER	PER-Joe-Biden
+264	269	Trump	Trump	PER	PER-Donald-Trump
+360	372	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+438	447	Belo hišo	Bela hiša	LOC	LOC-White-House
+455	464	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+614	621	Bidnove	Biden	PER	PER-Joe-Biden
+724	733	Belo hišo	Bela hiša	LOC	LOC-White-House
+737	744	Bidnovi	Biden	PER	PER-Joe-Biden
+775	780	Trump	Trump	PER	PER-Donald-Trump
+901	910	Beli hiši	Bela hiša	LOC	LOC-White-House
+992	997	Biden	Biden	PER	PER-Joe-Biden
+1069	1074	Trump	Trump	PER	PER-Donald-Trump
+1107	1112	Biden	Biden	PER	PER-Joe-Biden
+1190	1195	Trump	Trump	PER	PER-Donald-Trump
+1316	1321	Biden	Biden	PER	PER-Joe-Biden
+1442	1452	Clintonova	Clinton	PER	PER-Hillary-Clinton
+1522	1551	komisijo  za preiskavo prevar	komisija za preiskavo prevar	ORG	ORG-Voter-Fraud-Commission
+1582	1587	Trump	Trump	PER	PER-Donald-Trump
+1625	1634	Belo hišo	Bela hiša	LOC	LOC-White-House
+1793	1798	Trump	Trump	PER	PER-Donald-Trump
+1858	1863	Bidna	Biden	PER	PER-Joe-Biden
+1933	1940	Bidnove	Biden	PER	PER-Joe-Biden
+2191	2196	Bidnu	Biden	PER	PER-Joe-Biden
+2237	2256	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+2352	2357	Trump	Trump	PER	PER-Donald-Trump
+2431	2436	Trump	Trump	PER	PER-Donald-Trump
+2641	2646	Trump	Trump	PER	PER-Donald-Trump
+2706	2711	Bidna	Biden	PER	PER-Joe-Biden
+2722	2727	Trump	Trump	PER	PER-Donald-Trump
+2766	2771	Biden	Biden	PER	PER-Joe-Biden
+2822	2827	Trump	Trump	PER	PER-Donald-Trump
+2905	2917	republikanci	republikanci	PER	ORG-Republican-Party-USA
+2959	2965	Trumpa	Trump	PER	PER-Donald-Trump
+3002	3009	Georgii	Georgie	LOC	GPE-Georgia-US-state
+3076	3091	Mitch McConnell	Mitch McConnell	PER	PER-Mitch-McConnell
+3102	3110	Trumpovo	Trump	PER	PER-Donald-Trump
+3157	3162	Trump	Trump	PER	PER-Donald-Trump
+3197	3204	Georgio	Georgia	LOC	GPE-Georgia-US-state
+3294	3297	ZDA	ZDA	LOC	GPE-USA
+3340	3345	Trump	Trump	PER	PER-Donald-Trump
+3501	3507	Trumpa	Trump	PER	PER-Donald-Trump
+3614	3620	Trumpu	Trump	PER	PER-Donald-Trump
+3637	3642	Bidna	Biden	PER	PER-Joe-Biden

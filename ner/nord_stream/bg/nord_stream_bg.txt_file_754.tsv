@@ -1,0 +1,51 @@
+0	9	Щайнмайер	Щайнмайер	PER	PER-Frank-Walter-Steinmeier
+14	23	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+25	33	Германия	Германия	LOC	GPE-Germany
+68	75	Украйна	Украйна	LOC	GPE-Ukraine
+99	121	Франк-Валтер Щайнмайер	Франк-Валтер Щайнмайер	PER	PER-Frank-Walter-Steinmeier
+166	173	Украйна	Украйна	LOC	GPE-Ukraine
+183	186	ДПА	ДПА	ORG	ORG-DPA
+241	248	Украйна	Украйна	LOC	GPE-Ukraine
+255	264	Щайнмайер	Щайнмайер	PER	PER-Frank-Walter-Steinmeier
+299	314	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+317	334	Мариинския дворец	Мариински дворец	LOC	LOC-Mariyinsky-Palace-Kiev
+337	341	Киев	Киев	LOC	GPE-Kiev
+525	528	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+595	602	Украйна	Украйна	LOC	GPE-Ukraine
+634	636	ЕС	ЕС	ORG	ORG-European-Union
+763	778	Източна Украйна	Източна Украйна	LOC	LOC-East-Ukraine
+841	850	Щайнмайер	Щайнмайер	PER	PER-Frank-Walter-Steinmeier
+869	896	Паметника на незнайния войн	Паметник на незнайния войн	PRO	PRO-The-Tomb-of-the-Unknown-Soldier-Kiev
+951	969	Володимир Гройсман	Володимир Гройсман	PER	PER-Volodymyr-Groysman
+1025	1029	Киев	Киев	LOC	GPE-Kiev
+1032	1036	Лвов	Лвов	LOC	GPE-Lviv
+1061	1067	Берлин	Берлин	LOC	GPE-Berlin
+1136	1141	Русия	Русия	LOC	GPE-Russia
+1189	1193	Крим	Крим	LOC	GPE-Crimea
+1225	1240	Източна Украйна	Източна Украйна	LOC	LOC-East-Ukraine
+1252	1255	ДПА	ДПА	ORG	ORG-DPA
+1271	1279	Германия	Германия	LOC	GPE-Germany
+1334	1340	Берлин	Берлин	LOC	GPE-Berlin
+1392	1407	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1449	1454	Русия	Русия	LOC	GPE-Russia
+1467	1475	Германия	Германия	LOC	GPE-Germany
+1596	1598	ЕС	ЕС	ORG	ORG-European-Union
+1615	1622	Украйна	Украйна	LOC	GPE-Ukraine
+1651	1660	Щайнмайер	Щайнмайер	PER	PER-Frank-Walter-Steinmeier
+1757	1764	Украйна	Украйна	LOC	GPE-Ukraine
+1813	1817	Киев	Киев	LOC	GPE-Kiev
+1875	1879	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+1902	1911	Укринфром	Укринформ	ORG	ORG-Ukrinform
+1939	1947	Германия	Германия	LOC	GPE-Germany
+1956	1971	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1981	1989	Германия	Германия	LOC	GPE-Germany
+2026	2033	Украйна	Украйна	LOC	GPE-Ukraine
+2111	2120	Щайнмайер	Щайнмайер	PER	PER-Frank-Walter-Steinmeier
+2122	2129	Украйна	Украйна	LOC	GPE-Ukraine
+2197	2203	Москва	Москва	LOC	GPE-Moscow
+2326	2335	Щайнмайер	Щайнмайер	PER	PER-Frank-Walter-Steinmeier
+2348	2357	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+2433	2447	Петер Алтмайер	Петер Алтмайер	PER	PER-Peter-Altmaier
+2455	2462	Украйна	Украйна	LOC	GPE-Ukraine
+2483	2491	Германия	Германия	LOC	GPE-Germany
+2518	2525	Украйна	Украйна	LOC	GPE-Ukraine

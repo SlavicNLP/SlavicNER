@@ -1,0 +1,18 @@
+44	50	Poláci	Poláci	PER	GPE-Poland
+52	58	Maďaři	Maďaři	PER	GPE-Hungary
+67	76	Merkelové	Merkelová	PER	PER-Angela-Merkel
+90	92	EU	EU	ORG	ORG-European-Union
+153	168	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+169	192	Ursula von der Leyenová	Ursula von der Leyenová	PER	PER-Ursula-von-der-Leyen
+211	218	Beatles	Beatles	ORG	ORG-The-Beatles
+285	293	Británií	Británie	LOC	GPE-Great-Britain
+321	323	EU	EU	ORG	ORG-European-Union
+422	426	Unii	Unie	ORG	ORG-European-Union
+457	472	koronaviru 2020	koronavirus 2020	EVT	EVT-Covid-20
+478	494	koronavirus 2021	koronavirus 2021	EVT	EVT-Covid-2021
+503	505	EU	EU	ORG	ORG-European-Union
+545	555	koronaviru	koronavirus	EVT	EVT-Covid-19
+861	871	Nizozemsko	Nizozemsko	LOC	GPE-Holland
+966	976	Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+1002	1010	BioNTech	BioNTech	ORG	ORG-BioNTech
+1165	1173	Deníku N	Deník N	PRO	PRO-Denik-N

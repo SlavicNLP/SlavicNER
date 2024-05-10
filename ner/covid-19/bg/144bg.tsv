@@ -1,0 +1,22 @@
+0	3	БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences
+27	39	коронавируса	коронавирус	EVT	EVT-Covid-19
+157	160	БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences
+167	181	Юлиан Ревалски	Юлиан Ревалски	PER	PER-Yulian-Revalski
+238	250	коронавируса	коронавирус	EVT	EVT-Covid-19
+252	255	БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences
+539	554	Николай Витанов	Николай Витанов	PER	PER-Nikolay-Vitanov
+558	587	Института по механика към БАН	Институт по механика към БАН	ORG	ORG-Institute-of-Mechanics-BAS
+739	746	Витанов	Витанов	PER	PER-Nikolay-Vitanov
+964	975	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+1000	1003	БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences
+1021	1025	Щаба	Щаб	ORG	ORG-National-operational-quaters-Bulgaria
+1350	1357	българи	българи	PER	GPE-Bulgaria
+1464	1475	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+1708	1714	Сърбия	Сърбия	LOC	GPE-Serbia
+1732	1743	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+1746	1762	Националният щаб	Национален щаб	ORG	ORG-National-operational-quaters-Bulgaria
+1886	1889	РЗИ	РЗИ	ORG	ORG-Regional-Health-Inspectorate-Bulgaria
+1904	1907	МВР	МВР	ORG	ORG-MVR
+1959	1970	коронавирус	коронавирус	EVT	EVT-Covid-19
+2208	2234	Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+2412	2423	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski

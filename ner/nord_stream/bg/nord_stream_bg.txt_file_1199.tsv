@@ -1,0 +1,54 @@
+1	8	Газпром	Газпром	ORG	ORG-Gazprom
+21	27	Меркел	Меркел	PER	PER-Angela-Merkel
+31	38	Украйна	Украйна	LOC	GPE-Ukraine
+67	74	Газпром	Газпром	ORG	ORG-Gazprom
+131	138	Украйна	Украйна	LOC	GPE-Ukraine
+166	181	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+258	271	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+343	350	Украйна	Украйна	LOC	GPE-Ukraine
+412	432	Балкански полуостров	Балкански полуостров	LOC	LOC-the-Balkan-Peninsula
+462	471	Централна	Централна	LOC	LOC-Central-Europe
+474	488	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+492	498	Турция	Турция	LOC	GPE-Turkey
+528	534	Европа	Европа	LOC	LOC-Europe
+598	602	Киев	Киев	LOC	GPE-Kiev
+671	678	Газпром	Газпром	ORG	ORG-Gazprom
+719	726	Северен	Северен	PRO	PRO-Nord-Stream-1
+729	739	Южен поток	Южен поток	PRO	PRO-South-Stream
+764	770	Европа	Европа	LOC	LOC-Europe
+773	779	Турция	Турция	LOC	GPE-Turkey
+794	801	Украйна	Украйна	LOC	GPE-Ukraine
+834	841	Газпром	Газпром	ORG	ORG-Gazprom
+843	856	Алексей Милер	Алексей Милер	PER	PER-Aleksey-Miller
+944	951	Украйна	Украйна	LOC	GPE-Ukraine
+1062	1066	Киев	Киев	LOC	GPE-Kiev
+1110	1115	Милер	Милер	PER	PER-Aleksey-Miller
+1298	1305	Украйна	Украйна	LOC	GPE-Ukraine
+1338	1345	Украйна	Украйна	LOC	GPE-Ukraine
+1396	1403	Газпром	Газпром	ORG	ORG-Gazprom
+1408	1414	Европа	Европа	LOC	LOC-Europe
+1417	1423	Турция	Турция	LOC	GPE-Turkey
+1505	1520	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+1529	1535	Берлин	Берлин	LOC	GPE-Berlin
+1536	1542	Меркел	Меркел	PER	PER-Angela-Merkel
+1595	1600	Русия	Русия	LOC	GPE-Russia
+1604	1612	Германия	Германия	LOC	GPE-Germany
+1614	1629	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1675	1682	Украйна	Украйна	LOC	GPE-Ukraine
+1710	1716	Европа	Европа	LOC	LOC-Europe
+1756	1763	Украйна	Украйна	LOC	GPE-Ukraine
+1774	1789	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1839	1847	Германия	Германия	LOC	GPE-Germany
+1936	1951	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+2076	2083	Украйна	Украйна	LOC	GPE-Ukraine
+2108	2122	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+2157	2164	Газпром	Газпром	ORG	ORG-Gazprom
+2179	2192	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+2197	2207	Южен поток	Южен поток	PRO	PRO-South-Stream
+2251	2257	Европа	Европа	LOC	LOC-Europe
+2349	2356	Газпром	Газпром	ORG	ORG-Gazprom
+2388	2395	Украйна	Украйна	LOC	GPE-Ukraine
+2433	2437	Киев	Киев	LOC	GPE-Kiev
+2524	2532	Словакия	Словакия	LOC	GPE-Slovakia
+2534	2554	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+2568	2575	Украйна	Украйна	LOC	GPE-Ukraine

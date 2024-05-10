@@ -1,0 +1,37 @@
+2	9	Україні	Україна	LOC	GPE-Ukraine
+42	54	коронавірусу	коронавірус	EVT	EVT-Covid-19
+140	143	США	США	LOC	GPE-USA
+145	161	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+165	171	Канаді	Канада	LOC	GPE-Canada
+210	222	коронавірусу	коронавірус	EVT	EVT-Covid-19
+292	299	Україні	Україна	LOC	GPE-Ukraine
+411	423	коронавірусу	коронавірус	EVT	EVT-Covid-19
+516	522	Бабель	Бабель	PRO	PRO-Babel
+716	719	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+827	834	Україні	Україна	LOC	GPE-Ukraine
+902	909	Україна	Україна	LOC	GPE-Ukraine
+961	966	COVAX	COVAX	PRO	PRO-Covax-initiative
+1092	1098	Pfizer	Pfizer	ORG	ORG-Pfizer
+1101	1108	Moderna	Moderna	ORG	ORG-Moderna
+1534	1540	Канаді	Канада	LOC	GPE-Canada
+1544	1547	США	США	LOC	GPE-USA
+1653	1665	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1746	1757	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1787	1798	коронавірус	коронавірус	EVT	EVT-Covid-19
+1870	1876	Pfizer	Pfizer	ORG	ORG-Pfizer
+1880	1887	Moderna	Moderna	ORG	ORG-Moderna
+1969	1981	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2060	2073	коронавірусом	коронавірус	EVT	EVT-Covid-19
+2397	2409	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2954	2974	Університету Аризони	Університет Аризони	ORG	ORG-University-of-Arizona
+2975	2992	Діпта Бхаттачарʼя	Діпта Бхаттачарʼя	PER	PER-Deepta-Bhattacharya
+3315	3327	коронавірусу	коронавірус	EVT	EVT-Covid-19
+3489	3495	Vaxart	Vaxart	ORG	ORG-Vaxart
+3527	3535	COVІD-19	COVІD-19	EVT	EVT-Covid-19
+3548	3559	Open Orphan	Open Orphan	ORG	ORG-Open-Orphan
+3563	3572	Codagenix	Codagenix	ORG	ORG-Codagenix
+3975	3987	коронавірусу	коронавірус	EVT	EVT-Covid-19
+4007	4015	пандемію	пандемія	EVT	EVT-Covid-19
+4220	4231	коронавірус	коронавірус	EVT	EVT-Covid-19
+4273	4277	грип	грип	EVT	EVT-Influenza
+4281	4285	ГРВІ	ГРВІ	EVT	EVT-Viral-Respiratory-Infection

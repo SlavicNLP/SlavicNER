@@ -1,0 +1,37 @@
+0	6	Лондон	Лондон	LOC	GPE-London
+14	16	ЕС	ЕС	ORG	ORG-European-Union
+79	86	Брюксел	Брюксел	LOC	GPE-Brussles
+89	95	Лондон	Лондон	LOC	GPE-London
+99	106	Брекзит	Брекзит	EVT	EVT-Brexit
+169	176	Брекзит	Брекзит	EVT	EVT-Brexit
+177	190	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+211	221	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+226	228	ЕС	ЕС	ORG	ORG-European-Union
+242	262	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+357	371	Великобритания	Великобритания	LOC	GPE-Great-Britain
+383	385	ЕС	ЕС	ORG	ORG-European-Union
+411	418	Гардиън	Гардиън	PRO	PRO-The-Guardian
+421	428	Брюксел	Брюксел	LOC	GPE-Brussles
+579	581	ЕС	ЕС	ORG	ORG-European-Union
+621	635	Великобритания	Великобритания	LOC	GPE-Great-Britain
+692	698	Дейвис	Дейвис	PER	PER-David-Davis
+750	765	Файненшъл таймс	Файненшъл таймс	PRO	PRO-Financial-Times
+971	985	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1072	1079	Брюксел	Брюксел	LOC	GPE-Brussles
+1131	1145	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1193	1200	Брекзит	Брекзит	EVT	EVT-Brexit
+1214	1235	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+1236	1249	Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+1262	1269	Гардиън	Гардиън	PRO	PRO-The-Guardian
+1358	1378	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1402	1404	ЕС	ЕС	ORG	ORG-European-Union
+1501	1511	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1651	1654	Мей	Мей	PER	PER-Theresa-May
+1710	1717	Брюксел	Брюксел	LOC	GPE-Brussles
+1720	1726	Лондон	Лондон	LOC	GPE-London
+1754	1761	Брекзит	Брекзит	EVT	EVT-Brexit
+1773	1779	Дейвис	Дейвис	PER	PER-David-Davis
+1861	1881	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1919	1933	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1982	1989	news.bg	news.bg	PRO	PRO-News.bg
+1991	1996	Днес+	Днес+	ORG	ORG-DnesPlus

@@ -1,0 +1,61 @@
+0	17	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+46	48	ЕС	ЕС	ORG	ORG-European-Union
+52	59	Брекзит	Брекзит	EVT	EVT-Brexit
+75	82	Брюксел	Брюксел	LOC	GPE-Brussles
+83	89	Лондон	Лондон	LOC	GPE-London
+91	111	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+164	180	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+183	203	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+316	332	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+353	373	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+628	642	Великобритания	Великобритания	LOC	GPE-Great-Britain
+643	653	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+669	683	Великобритания	Великобритания	LOC	GPE-Great-Britain
+712	714	ЕС	ЕС	ORG	ORG-European-Union
+846	858	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+933	947	Великобритания	Великобритания	LOC	GPE-Great-Britain
+973	987	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1123	1126	Мей	Мей	PER	PER-Theresa-May
+1168	1179	Лейбъристка	Лейбъристка	ORG	ORG-Labour-Party-UK
+1182	1210	Шотландска национална партия	Шотландска национална партия	ORG	ORG-Scottish-National-Party
+1293	1295	ЕС	ЕС	ORG	ORG-European-Union
+1299	1306	Брекзит	Брекзит	EVT	EVT-Brexit
+1331	1345	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1348	1350	ЕС	ЕС	ORG	ORG-European-Union
+1401	1409	Ирландия	Ирландия	LOC	GPE-Ireland
+1460	1476	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1498	1518	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+1523	1534	Кир Стармър	Кир Стармър	PER	PER-Keir-Starmer
+1572	1582	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1692	1694	ЕС	ЕС	ORG	ORG-European-Union
+1698	1705	Брекзит	Брекзит	EVT	EVT-Brexit
+1707	1719	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+1800	1807	Брекзит	Брекзит	EVT	EVT-Brexit
+1859	1867	Ирландия	Ирландия	LOC	GPE-Ireland
+1894	1910	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1932	1946	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2036	2042	Лондон	Лондон	LOC	GPE-London
+2065	2073	Ирландия	Ирландия	LOC	GPE-Ireland
+2074	2087	Саймън Кавъни	Саймън Кавъни	PER	PER-Simon-Coveney
+2178	2192	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2252	2268	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2326	2334	Ирландия	Ирландия	LOC	GPE-Ireland
+2339	2355	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2406	2421	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+2423	2430	Брюксел	Брюксел	LOC	GPE-Brussles
+2455	2457	ЕС	ЕС	ORG	ORG-European-Union
+2461	2468	Брекзит	Брекзит	EVT	EVT-Brexit
+2470	2482	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+2563	2570	Брекзит	Брекзит	EVT	EVT-Brexit
+2622	2630	Ирландия	Ирландия	LOC	GPE-Ireland
+2657	2673	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2695	2709	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2799	2805	Лондон	Лондон	LOC	GPE-London
+2815	2822	Reuters	Reuters	ORG	ORG-Reuters
+2893	2899	Барние	Барние	PER	PER-Michel-Barnier
+2902	2909	Брюксел	Брюксел	LOC	GPE-Brussles
+2921	2923	ЕК	ЕК	ORG	ORG-European-Commission
+2979	2993	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2997	2999	ЕС	ЕС	ORG	ORG-European-Union
+3230	3232	ЕС	ЕС	ORG	ORG-European-Union
+3419	3434	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov

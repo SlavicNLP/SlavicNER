@@ -1,0 +1,23 @@
+1	9	Политико	Политико	PRO	PRO-Politico
+12	20	България	България	LOC	GPE-Bulgaria
+66	74	България	България	LOC	GPE-Bulgaria
+119	121	ЕС	ЕС	ORG	ORG-European-Union
+184	196	коронавируса	коронавирус	EVT	EVT-Covid-19
+231	239	Политико	Политико	PRO	PRO-Politico
+262	270	България	България	LOC	GPE-Bulgaria
+474	482	Политико	Политико	PRO	PRO-Politico
+521	586	Европейския център за превенция и контрол на заболяванията (ECDC)	Европейски център за превенция и контрол на заболяванията (ECDC)	ORG	ORG-European-Centre-for-Disease-Prevention-and-Control
+587	595	България	България	LOC	GPE-Bulgaria
+645	647	ЕС	ЕС	ORG	ORG-European-Union
+779	790	коронавирус	коронавирус	EVT	EVT-Covid-19
+836	844	България	България	LOC	GPE-Bulgaria
+892	900	България	България	LOC	GPE-Bulgaria
+923	931	Словения	Словения	LOC	GPE-Slovenia
+990	998	Политико	Политико	PRO	PRO-Politico
+1010	1022	Петър Марков	Петър Марков	PER	PER-Petar-Markov
+1053	1099	London School of Hygiene and Tropical Medicine	London School of Hygiene and Tropical Medicine	ORG	ORG-London-School-of-Hygiene-and-Tropical-Medicine
+1604	1616	Петър Марков	Петър Марков	PER	PER-Petar-Markov
+1651	1659	България	България	LOC	GPE-Bulgaria
+1741	1748	Борисов	Борисов	PER	PER-Boyko-Borisov
+1881	1893	Ружа Смилова	Ружа Смилова	PER	PER-Ruzha-Smilova
+1898	1906	Политико	Политико	PRO	PRO-Politico

@@ -1,0 +1,47 @@
+18	23	Trump	Trump	PER	PER-Donald-Trump
+68	84	Gabriel Sterling	Gabriel Sterling	PER	PER-Gabriel-Sterling
+107	113	Trumpa	Trump	PER	PER-Donald-Trump
+170	177	Georgii	Georgia	LOC	GPE-Georgia-US-state
+198	200	AP	AP	ORG	ORG-AP-The-Associated-Press
+257	269	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+412	419	Georgii	Georgia	LOC	GPE-Georgia-US-state
+429	441	republikanci	republikanci	PER	ORG-Republican-Party-USA
+475	483	Michigan	Michigan	LOC	GPE-Michigan
+485	494	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+496	502	Nevada	Nevada	LOC	GPE-Nevada
+504	511	Arizona	Arizona	LOC	GPE-Arizona
+515	522	Georgia	Georgia	LOC	GPE-Georgia-US-state
+608	619	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+634	644	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+653	661	Trumpova	Trump	PER	PER-Donald-Trump
+760	769	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+808	817	Trumpovih	Trump	PER	PER-Donald-Trump
+989	996	Bidnova	Biden	PER	PER-Joe-Biden
+1079	1091	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1100	1112	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+1131	1136	Bidna	Biden	PER	PER-Joe-Biden
+1383	1388	Barra	Barr	PER	PER-William-Barr
+1425	1432	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1493	1509	Gabriel Sterling	Gabriel Sterling	PER	PER-Gabriel-Sterling
+1513	1519	Trumpu	Trump	PER	PER-Donald-Trump
+1777	1798	Brada Raffenspergerja	Brad Raffensperger	PER	PER-Brad-Raffensperger
+1900	1910	Trumpovega	Trump	PER	PER-Donald-Trump
+1957	2008	agencije za kibernetično in infrastrukturno varnost	agencija za kibernetično in infrastrukturno varnost	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+2009	2022	Chrisa Krebsa	Chris Krebs	PER	PER-Chris-Krebs
+2244	2252	Politica	Politico	PRO	PRO-Politico
+2272	2280	Trumpove	Trump	PER	PER-Donald-Trump
+2409	2416	Georgie	Georgia	LOC	GPE-Georgia-US-state
+2461	2470	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+2508	2517	Trumpovim	Trump	PER	PER-Donald-Trump
+2571	2585	Williama Barra	William Barr	PER	PER-WIlliam-Barr
+2679	2685	Trumpu	Trump	PER	PER-Donald-Trump
+2942	2950	Trumpova	Trump	PER	PER-Donald-Trump
+2993	2997	Barr	Barr	PER	PER-William-Barr
+3222	3228	Trumpu	Trump	PER	PER-Donald-Trump
+3310	3324	New York Times	New York Times	PRO	PRO-The-New-York-Times
+3351	3357	Trumpa	Trump	PER	PER-Donald-Trump
+3431	3436	Trump	Trump	PER	PER-Donald-Trump
+3591	3606	Michaela Flynna	Michael Flynn	PER	PER-Michael-Flynn
+3726	3735	Beli hiši	Bela hiša	LOC	LOC-White-House
+3743	3748	Trump	Trump	PER	PER-Donald-Trump
+3957	3962	Trump	Trump	PER	PER-Donald-Trump

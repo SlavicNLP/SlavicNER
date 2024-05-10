@@ -1,0 +1,16 @@
+74	81	Брекзит	Брекзит	EVT	EVT-Brexit
+272	288	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+328	335	Брекзит	Брекзит	EVT	EVT-Brexit
+345	348	ДПА	ДПА	ORG	ORG-DPA
+381	388	Брекзит	Брекзит	EVT	EVT-Brexit
+525	531	Лондон	Лондон	LOC	GPE-London
+705	712	Брекзит	Брекзит	EVT	EVT-Brexit
+778	785	Брекзит	Брекзит	EVT	EVT-Brexit
+829	847	Обединено кралство	Обединено кралство	LOC	GPE-Great-Britain
+887	893	Лондон	Лондон	LOC	GPE-London
+949	958	лейбърист	лейбърист	PER	ORG-Labour-Party-UK
+959	969	Чука Умуна	Чука Умуна	PER	PER-Chuka-Umunna
+1036	1043	Брекзит	Брекзит	EVT	EVT-Brexit
+1126	1129	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+1131	1158	"Кампанията за ""народен вот"""	Кампания за народен вот	EVT	EVT-People's-Voice-Campaign
+1322	1325	ДПА	ДПА	ORG	ORG-DPA

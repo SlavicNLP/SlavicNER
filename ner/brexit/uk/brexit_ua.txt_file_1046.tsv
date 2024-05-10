@@ -1,0 +1,27 @@
+0	12	The Guardian	The Guardian	ORG	ORG-The-Guardian
+32	38	Brexit	Brexit	EVT	EVT-Brexit
+58	62	КИЇВ	Київ	LOC	GPE-Kiev
+78	81	УНН	УНН	ORG	ORG-UNN
+104	113	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+119	125	Brexit	Brexit	EVT	EVT-Brexit
+126	139	Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+205	221	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+232	251	Європейського союзу	Європейський союз	ORG	ORG-European-Union
+290	293	УНН	УНН	ORG	ORG-UNN
+318	330	The Guardian	The Guardian	ORG	ORG-The-Guardian
+344	350	Барньє	Барньє	PER	PER-Michel-Barnier
+410	412	ЄС	ЄС	LOC	ORG-European-Union
+461	469	Брюсселю	Брюссель	LOC	GPE-Brussles
+537	545	Лондоном	Лондон	LOC	GPE-London
+557	578	Сполучене Королівство	Сполучене Королівство	LOC	GPE-Great-Britain
+615	617	ЄС	ЄС	LOC	ORG-European-Union
+726	729	УНН	УНН	ORG	ORG-UNN
+756	764	Лондоном	Лондон	LOC	GPE-London
+767	776	Брюсселем	Брюссель	LOC	GPE-Brussles
+797	812	Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+821	823	ЄС	ЄС	LOC	ORG-European-Union
+927	935	Британії	Британія	LOC	GPE-Great-Britain
+1020	1026	Brexit	Brexit	EVT	EVT-Brexit
+1107	1120	Європарламент	Європарламент	ORG	ORG-European-Parliament
+1124	1135	Вестмінстер	Вестмінстер	LOC	GPE-Westminster
+1141	1147	Brexit	Brexit	EVT	EVT-Brexit

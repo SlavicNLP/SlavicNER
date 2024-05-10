@@ -1,0 +1,24 @@
+2	11	Евросоюзе	Евросоюз	ORG	ORG-European-Union
+48	54	Brexit	Brexit	EVT	EVT-Brexit
+58	72	Великобритании	Великобритания	LOC	GPE-Great-Britain
+136	143	Лондона	Лондон	LOC	GPE-London
+158	164	Brexit	Brexit	EVT	EVT-Brexit
+177	197	Европейская Комиссия	Европейская Комиссия	ORG	ORG-European-Commission
+232	247	Великобританией	Великобритания	LOC	GPE-Great-Britain
+288	294	Brexit	Brexit	EVT	EVT-Brexit
+325	337	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+338	355	Маргаритис Схинас	Маргаритис Схинас	PER	PER-Margaritis-Schinas
+379	387	Брюсселе	Брюссель	LOC	GPE-Brussles
+486	492	Brexit	Brexit	EVT	EVT-Brexit
+606	619	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+682	693	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+759	765	Схинас	Схинас	PER	PER-Margaritis-Schinas
+767	773	Схинас	Схинас	PER	PER-Margaritis-Schinas
+839	847	Британии	Британия	LOC	GPE-Great-Britain
+976	983	Лондона	Лондон	LOC	GPE-London
+986	994	Брюсселя	Брюссель	LOC	GPE-Brussles
+998	1004	Brexit	Brexit	EVT	EVT-Brexit
+1039	1045	Дэвиса	Дэвис	PER	PER-David-Davis
+1318	1349	переговоров в резиденции Чекерс	переговоры в резиденции Чекерс	EVT	EVT-Chequers-Cabinet-Meeting
+1365	1371	Дэвиса	Дэвис	PER	PER-David-Davis
+1399	1411	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab

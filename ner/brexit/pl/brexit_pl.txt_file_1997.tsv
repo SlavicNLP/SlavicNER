@@ -1,0 +1,53 @@
+0	11	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+32	39	Polaków	Polacy	PER	GPE-Poland
+43	50	Wyspach	Wyspy	LOC	GPE-Great-Britain
+65	72	brexitu	Brexit	EVT	EVT-Brexit
+97	108	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+139	156	Siegieja Skripala	Siegiej Skripal	PER	PER-Siergiej-Skripal
+162	175	Virginia Mayo	Virginia Mayo	PER	PER-Virginia-Mayo
+178	186	AP Photo	AP Photo	ORG	ORG-AP-Photo
+189	200	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+286	288	UE	UE	ORG	ORG-European-Union
+309	326	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+353	361	brexicie	Brexit	EVT	EVT-Brexit
+412	421	Twitterze	Twitter	PRO	PRO-Twitter
+452	459	brexitu	Brexit	EVT	EVT-Brexit
+469	486	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+489	506	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+554	556	UE	UE	ORG	ORG-European-Union
+585	592	Wyspach	Wyspy	LOC	GPE-Great-Britain
+617	624	Polaków	Polacy	PER	GPE-Poland
+708	720	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+735	742	Polaków	Polacy	PER	GPE-Poland
+784	786	UE	UE	ORG	ORG-European-Union
+790	797	Wyspach	Wyspy	LOC	GPE-Great-Britain
+844	853	Twitterze	Twitter	PRO	PRO-Twitter
+854	865	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+868	879	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+884	891	Polaków	Polacy	PER	GPE-Poland
+894	911	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+913	924	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+969	976	brexitu	Brexit	EVT	EVT-Brexit
+1032	1039	brexitu	Brexit	EVT	EVT-Brexit
+1041	1057	Michela Barniera	Michel Barnier	PER	PER-Michel-Barnier
+1097	1114	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1117	1119	UE	UE	ORG	ORG-European-Union
+1121	1136	Davidem Davisem	David Davis	PER	PER-David-Davis
+1152	1167	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+1170	1185	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1234	1236	UE	UE	ORG	ORG-European-Union
+1341	1358	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1362	1371	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1465	1480	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1654	1656	UE	UE	ORG	ORG-European-Union
+1664	1670	Polacy	Polacy	PER	GPE-Poland
+1691	1708	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1712	1720	brexicie	Brexit	EVT	EVT-Brexit
+1852	1857	Wyspy	Wyspy	LOC	GPE-Great-Britain
+1864	1872	brexitem	Brexit	EVT	EVT-Brexit
+1993	2010	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2098	2106	Londynie	Londyn	LOC	GPE-London
+2138	2153	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2185	2193	Brukseli	Bruksela	LOC	GPE-Brussles
+2371	2379	brexicie	Brexit	EVT	EVT-Brexit
+2645	2659	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier

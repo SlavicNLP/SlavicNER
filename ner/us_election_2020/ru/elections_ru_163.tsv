@@ -1,0 +1,221 @@
+46	61	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+75	86	Крейг Юнгер	Крейг Юнгер	PER	PER-Craig-Unger
+141	146	Трамп	Трамп	PER	PER-Donald-Trump
+199	204	Юнгер	Крейг Юнгер	PER	PER-Craig-Unger
+214	220	Трампа	Трам	PER	PER-Donald-Trump
+263	279	Джеффри Эпштейна	Джеффри Эпштейн	PER	PER-Jeffrey-Epstein
+300	303	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+381	391	Навального	Навальный	PER	PER-Alexei-Navalny
+434	439	Трамп	Трамп	PER	PER-Donald-Trump
+455	458	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+461	471	Daily Mail	Daily Mail	PRO	PRO-Daily-Mail
+473	487	Великобритания	Великобритания	LOC	GPE-Great-Britain
+538	541	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+559	574	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+589	596	Русские	русские	LOC	GPE-Russia
+664	669	Трамп	Трамп	PER	PER-Donald-Trump
+674	680	Путину	Путин	PER	PER-Vladimir-Putin
+717	729	Американский	Американский	LOC	GPE-USA
+745	748	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+758	764	Трампа	Трам	PER	PER-Donald-Trump
+855	858	KGB	KGB	ORG	ORG-KGB
+870	882	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+939	950	Крейг Юнгер	Крейг Юнгер	PER	PER-Craig-Unger
+952	963	Craig Unger	Craig Unger	PER	PER-Craig-Unger
+987	993	Трампа	Трамп	PER	PER-Donald-Trump
+996	1003	Россией	Россия	LOC	GPE-Russia
+1093	1103	Манхэттене	Манхэттен	LOC	LOC-Manhattan
+1107	1114	Русские	русские	LOC	GPE-Russia
+1133	1139	Трампа	Трамп	PER	PER-Donald-Trump
+1261	1266	Трамп	Трамп	PER	PER-Donald-Trump
+1326	1332	Путину	Путин	PER	PER-Vladimir-Putin
+1377	1382	Трамп	Трамп	PER	PER-Donald-Trump
+1394	1402	русскими	русские	LOC	GPE-Russia
+1426	1442	Джеффри Эпштейна	Джеффри Эпштейн	PER	PER-Jeffrey-Epstein
+1444	1459	Jeffrey Epstein	Jeffrey Epstein	PER	PER-Jeffrey-Epstein
+1488	1505	Кремниевую долину	Кремниевая долина	LOC	GPE-Silicon-Valley
+1539	1544	Трамп	Трамп	PER	PER-Donald-Trump
+1559	1562	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+1697	1702	Юнгер	Крейг Юнгер	PER	PER-Craig-Unger
+1747	1751	СССР	СССР	LOC	GPE-USSR
+1776	1779	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+1804	1807	ФБР	ФБР	ORG	ORG-FBI
+1861	1876	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1990	1996	России	Россия	LOC	GPE-Russia
+2003	2009	Трампа	Трамп	PER	PER-Donald-Trump
+2069	2076	Русские	русские	LOC	GPE-Russia
+2095	2101	Трампа	Трамп	PER	PER-Donald-Trump
+2215	2222	Русские	русские	LOC	GPE-Russia
+2274	2280	Трампа	Трамп	PER	PER-Donald-Trump
+2328	2331	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+2348	2354	Россию	Россия	LOC	GPE-Russia
+2430	2436	Трампа	Трам	PER	PER-Donald-Trump
+2493	2499	Трампа	Трам	PER	PER-Donald-Trump
+2532	2535	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+2551	2558	русским	русский	LOC	GPE-Russia
+2663	2668	Трамп	Трамп	PER	PER-Donald-Trump
+2728	2734	Путину	Путин	PER	PER-Vladimir-Putin
+2757	2768	Крейг Юнгер	Крейг Юнгер	PER	PER-Craig-Unger
+2823	2835	Американский	Американский	LOC	GPE-USA
+2851	2854	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+2864	2870	Трампа	Трам	PER	PER-Donald-Trump
+2933	2938	Юнгер	Крейг Юнкер	PER	PER-Craig-Unger
+2995	3016	«Дом Буша, дом Сауда»	«Дом Буша, дом Сауда»	PRO	PRO-Bush's-house-Saud's-house
+3050	3074	«Дом Трампа, дом Путина»	«Дом Трампа, дом Путина»	PRO	PRO-Trump's-house-Putin's-house
+3133	3138	Трамп	Трамп	PER	PER-Donald-Trump
+3139	3149	российским	российское	LOC	GPE-Russia
+3205	3208	США	США	LOC	GPE-USA
+3374	3378	СССР	СССР	LOC	GPE-USSR
+3398	3401	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+3422	3425	ФБР	ФБР	ORG	ORG-FBI
+3548	3553	Юнгер	Крейг Юнгер	PER	PER-Craig-Unger
+3628	3634	Трампа	Трам	PER	PER-Donald-Trump
+3665	3670	Трамп	Трамп	PER	PER-Donald-Trump
+3682	3689	Россией	Россия	LOC	GPE-Russia
+3729	3746	Джеффри Эпштейном	Джеффри Эпштейн	PER	PER-Jeffrey-Epstein
+3774	3791	Кремниевую долину	Кремниевая долина	LOC	GPE-Silicon-Valley
+3855	3862	Эпштейн	Джеффри Эпштейн	PER	PER-Jeffrey-Epstein
+3891	3898	Меланию	Мелания Трамп	PER	PER-Melania-Trump
+3901	3910	Дональдом	Дональд Трамп	PER	PER-Donald-Trump
+4079	4085	Трампа	Трамп	PER	PER-Donald-Trump
+4248	4254	Трампа	Трамп	PER	PER-Donald-Trump
+4257	4264	Россией	Россия	LOC	GPE-Russia
+4354	4364	Манхэттене	Манхэттен	LOC	LOC-Manhattan
+4390	4396	Куинса	Куинс	LOC	LOC-Queens
+4480	4490	Роем Коном	Рой Кон	PER	PER-Roy-Cohn
+4492	4500	Roy Cohn	Roy Cohn	PER	PER-Roy-Cohn
+4511	4517	Трампа	Трамп	PER	PER-Donald-Trump
+4630	4640	«Коммодор»	«Коммодор»	PRO	PRO-Hotel-Commodore
+4654	4664	42-й улице	42-я улица	LOC	LOC-42nd-Street-New-York
+4667	4677	Парк-Авеню	Парк-Авеню	LOC	LOC-Park-Avenue
+4698	4713	«Гранд Централ»	«Гранд Централ»	LOC	LOC-Grand-Central-Terminal
+4775	4797	«Гранд Хаятт Нью-Йорк»	«Гранд Хаятт Нью-Йорк»	PRO	PRO-Hotel-Grand-Hyatt-New-York
+4853	4861	русскими	русские	LOC	GPE-Russia
+4907	4916	5-й авеню	5-я авеню	LOC	LOC-5th-Avenue-New-York
+4919	4929	23-й улицы	23-я улица	LOC	LOC-23-Street-New-York
+4953	4975	«Джой-Луд Электроникс»	«Джой-Луд Электроникс»	PRO	PRO-Joy-Lud-Electronics
+4977	4996	Joy-Lud Electronics	Joy-Lud Electronics	PRO	PRO-Joy-Lud-Electronics
+5093	5103	украинский	украинский	LOC	GPE-Ukraine
+5110	5128	Семен «Сэм» Кислин	Семен «Сэм» Кислин	PER	PER-Semyon-Kislin
+5147	5150	США	США	LOC	GPE-USA
+5154	5160	Одессы	Одесса	LOC	GPE-Odessa
+5286	5297	Тамир Сапир	Тамир Сапир	PER	PER-Tamir-Sapir
+5368	5371	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+5381	5390	Политбюро	Политбюро	ORG	ORG-USSR-Politburo
+5409	5423	Советский Союз	Советский Союз	LOC	GPE-Soviet-Union-USSR
+5511	5517	Европе	Европа	LOC	LOC-Europe
+5520	5526	России	Россия	LOC	GPE-Russia
+5535	5557	«Джой-Луд Электроникс»	«Джой-Луд Электроникс»	PRO	PRO-Joy-Lud-Electronics
+5609	5615	«Фото»	«Фото»	PRO	PRO-Photo-Store
+5618	5628	47-й улицы	47-я улица	LOC	LOC-47th-Street-New-York
+5636	5649	«Крейзи Эдди»	«Крейзи Эдди»	PRO	PRO-Crazy-Eddie
+5695	5705	«Джой-Луд»	«Джой-Луд Электроникс»	PRO	PRO-Joy-Lud-Electronics
+5807	5821	Советский Союз	Советский Союз	LOC	GPE-Soviet-Union-USSR
+5823	5828	Трамп	Трамп	PER	PER-Donald-Trump
+5871	5879	Кислиным	Кислин	PER	PER-Semyon-Kislin
+6000	6013	«Гранд Хаятт»	«Гранд Хаятт»	PRO	PRO-Hotel-Grand-Hyatt-New-York
+6094	6110	Советского Союза	Советский Союз	LOC	GPE-Soviet-Union-USSR
+6176	6182	Одессе	Одесса	LOC	GPE-Odessa
+6183	6189	Кислин	Кислин	PER	PER-Semyon-Kislin
+6293	6296	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+6297	6306	Юрий Швец	Юрий Швец	PER	PER-Yuri-Shvets
+6390	6394	СССР	СССР	LOC	GPE-USSR
+6422	6425	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+6483	6489	Кислин	Кислин	PER	PER-Semyon-Kislin
+6512	6528	Советского Союза	Советский Союз	LOC	GPE-Soviet-Union-USSR
+6586	6589	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+6620	6623	США	США	LOC	GPE-USA
+6649	6656	Америку	Америка	LOC	GPE-USA
+6747	6754	Кислина	Кислин	PER	PER-Semyon-Kislin
+6769	6772	США	США	LOC	GPE-USA
+6785	6788	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+6863	6868	Трамп	Трамп	PER	PER-Donald-Trump
+6891	6894	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+7206	7211	Трамп	Трамп	PER	PER-Donald-Trump
+7259	7272	Атлантик-Сити	Атлантик-Сити	LOC	LOC-Atlantic-City
+7339	7345	Трампу	Трамп	PER	PER-Donald-Trump
+7415	7433	Иване Зельничковой	Ивана Зельничкова	PER	PER-Ivana-Trump
+7457	7469	Чехословакии	Чехословакия	LOC	GPE-Czechoslovakia
+7551	7554	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+7620	7625	Трамп	Трамп	PER	PER-Donald-Trump
+7640	7643	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+7737	7743	Трампа	Трамп	PER	PER-Donald-Trump
+7893	7898	Юнгер	Юнгер	PER	PER-Craig-Unger
+8010	8015	Трамп	Трамп	PER	PER-Donald-Trump
+8081	8084	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+8149	8155	Кислин	Кислин	PER	PER-Semyon-Kislin
+8188	8195	русской	русский	LOC	GPE-Russia
+8229	8235	Трампу	Трамп	PER	PER-Donald-Trump
+8299	8312	Руди Джулиани	Руди Джулиани	PER	PER-Rudy-Giuliani
+8349	8358	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+8380	8390	российской	российский	LOC	GPE-Russia
+8403	8409	Трампа	Трам	PER	PER-Donald-Trump
+8686	8703	Джеффри Эпштейном	Джеффри Эпштейн	PER	PER-Jeffrey-Epstein
+8724	8731	Эпштейн	Джеффри Эпштейн	PER	PER-Jeffrey-Epstein
+8757	8769	Кони-Айленде	Кони-Айленд	LOC	GPE-Coney-Island
+8942	8948	Трампа	Трамп	PER	PER-Donald-Trump
+8949	8959	Мар-а-Лаго	Мар-а-Лаго	PRO	PRO-Mar-a-Lago
+8962	8970	Палм-Бич	Палм-Бич	LOC	LOC-Palm-Beach
+8977	8984	Флорида	Флорида	LOC	GPE-Florida
+9079	9086	Эпштейн	Эпштейн	PER	PER-Jeffrey-Epstein
+9237	9253	Гислейн Максвелл	Гислейн Максвелл	PER	PER-Gislaine-Maxwell
+9340	9349	Эпштейном	Эпштейн	PER	PER-Jeffrey-Epstein
+9440	9446	Трампа	Трамп	PER	PER-Donald-Trump
+9450	9464	Билла Клинтона	Бил Клинтон	PER	PER-Bill-Clinton
+9486	9491	Эндрю	Эндрю	PER	Эндрю
+9642	9647	Юнгер	Юнгер	PER	PER-Craig-Unger
+9865	9871	России	Россия	LOC	GPE-Russia
+9876	9883	Украины	Украина	LOC	GPE-Ukraine
+9885	9892	Эпштейн	Эпштейн	PER	PER-Jeffrey-Epstein
+9895	9902	Гислейн	Гислейн	PER	PER-Gislaine-Maxwell
+10166	10173	Гислейн	Гислейн	PER	PER-Gislaine-Maxwell
+10179	10189	Мар-а-Лаго	Мар-а-Лаго	PRO	PRO-Mar-a-Lago
+10321	10326	Трамп	Трамп	PER	PER-Donald-Trump
+10329	10336	Эпштейн	Эпштейн	PER	PER-Jeffrey-Epstein
+10468	10477	Югославии	Югославия	LOC	GPE-Yugoslavia
+10505	10521	Кэтрин Оксенберг	Кэтрин Оксенберг	PER	PER-Christine-Oxenberg
+10533	10543	«Династия»	«Династия»	PRO	PRO-Dynast-tv-series
+10544	10562	Кристина Оксенберг	Кристина Оксенберг	PER	PER-Christine-Oxenberg
+10579	10586	Гислейн	Гислейн	PER	PER-Gislaine-Maxwell
+10637	10651	Билла Клинтона	Бил Клинтон	PER	PER-Bill-Clinton
+10661	10666	Эндрю	Эндрю	PER	Эндрю
+10669	10678	Эпштейном	Эпштейн	PER	PER-Jeffrey-Epstein
+10692	10700	Кристины	Кристина Оксенберг	PER	PER-Christine-Oxenberg
+10738	10752	Джоном Кеннеди	Джон Кеннеди	PER	PER-John-F-Kennedy
+10816	10823	Гислейн	Гислейн	PER	PER-Gislaine-Maxwell
+10944	10953	Оксенберг	Оксенберг	PER	PER-Christine-Oxenberg
+10962	10965	ФБР	ФБР	ORG	ORG-FBI
+10991	10999	Эпштейна	Эпштейн	PER	PER-Jeffrey-Epstein
+11321	11329	Эпштейна	Эпштейн	PER	PER-Jeffrey-Epstein
+11395	11401	Трампа	Трам	PER	PER-Donald-Trump
+11441	11449	Эпштейна	Эпштейн	PER	PER-Jeffrey-Epstein
+11591	11598	Эпштейн	Эпштейн	PER	PER-Jeffrey-Epstein
+11655	11662	Трампом	Трамп	PER	PER-Donald-Trump
+11707	11714	Эпштейн	Эпштейн	PER	PER-Jeffrey-Epstein
+11751	11758	Меланию	Мелания	PER	PER-Melania-Trump
+11761	11768	Трампом	Трамп	PER	PER-Donald-Trump
+11773	11780	Джеффри	Джеффри	PER	PER-Jeffrey-Epstein
+11783	11790	Гислейн	Гислейн	PER	PER-Gislaine-Maxwell
+11805	11811	Трампа	Трамп	PER	PER-Donald-Trump
+11932	11937	Юнгер	Юнгер	PER	PER-Craig-Unger
+12020	12027	Эпштейн	Эпштейн	PER	PER-Jeffrey-Epstein
+12035	12041	Трампу	Трамп	PER	PER-Donald-Trump
+12070	12078	Палм-Бич	Палм-Бич	LOC	LOC-Palm-Beach
+12232	12239	Эпштейн	Эпштейн	PER	PER-Jeffrey-Epstein
+12258	12264	Трампа	Трамп	PER	PER-Donald-Trump
+12305	12310	Трамп	Трамп	PER	PER-Donald-Trump
+12383	12396	Атлантик-Сити	Атлантик-Сити	LOC	LOC-Atlantic-City
+12566	12573	Эпштейн	Эпштейн	PER	PER-Jeffrey-Epstein
+12599	12606	Трампом	Трамп	PER	PER-Donald-Trump
+12741	12747	Трампа	Трамп	PER	PER-Donald-Trump
+12783	12789	Трампа	Трамп	PER	PER-Donald-Trump
+12849	12854	Трамп	Трамп	PER	PER-Donald-Trump
+13206	13211	Юнгер	Юнгер	PER	PER-Craig-Unger
+13383	13389	Трампа	Трамп	PER	PER-Donald-Trump
+13471	13476	Юнгер	Юнгер	PER	PER-Craig-Unger
+13900	13907	Русские	русские	LOC	GPE-Russia
+13922	13934	американские	американские	LOC	GPE-USA
+13957	13962	Трамп	Трамп	PER	PER-Donald-Trump
+13997	14002	Юнгер	Юнгер	PER	PER-Craig-Unger
+14130	14136	ИноСМИ	ИноСМИ	PRO	PRO-InoSMI
+14213	14219	ИноСМИ	ИноСМИ	PRO	PRO-InoSMI

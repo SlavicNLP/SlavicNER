@@ -1,0 +1,18 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+16	23	Флориді	Флорида	LOC	GPE-Florida
+123	129	Трампа	Трамп	PER	PER-Donald-Trump
+133	146	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+245	252	Флориді	Флорида	LOC	GPE-Florida
+296	302	Трампа	Трамп	PER	PER-Donald-Trump
+507	510	США	США	LOC	GPE-USA
+571	579	Палм-Біч	Палм-Біч	LOC	LOC-Palm-Beach
+610	616	Трампа	Трамп	PER	PER-Donald-Trump
+617	627	Мар-а-Лаго	Мар-а-Лаго	LOC	LOC-Mar-a-Lago
+644	652	The Hill	The Hill	PRO	PRO-The-Hill
+697	702	Трамп	Трамп	PER	PER-Donald-Trump
+774	779	Трамп	Трамп	PER	PER-Donald-Trump
+796	799	США	США	LOC	GPE-USA
+843	849	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+911	922	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+927	933	Трампа	Трамп	PER	PER-Donald-Trump
+981	988	Байдена	Байден	PER	PER-Joe-Biden

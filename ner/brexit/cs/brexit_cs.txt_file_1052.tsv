@@ -1,0 +1,19 @@
+2	22	Evropském parlamentu	Evropském parlamentu	ORG	ORG-European-Parliament
+26	33	brexitu	brexit	EVT	EVT-Brexit
+78	98	Evropském parlamentu	Británie	ORG	ORG-European-Parliament
+130	138	Británie	Británie	LOC	GPE-Great-Britain
+141	143	EU	EU	ORG	ORG-European-Union
+168	180	europoslanci	europoslanci	PER	ORG-European-Parliament
+287	292	Česko	Česko	LOC	GPE-Czech-Republic
+363	377	europarlamentu	europarlament	ORG	ORG-European-Parliament
+415	422	brexitu	brexit	EVT	EVT-Brexit
+549	556	Francie	Francie	LOC	GPE-France
+559	568	Španělsko	Španělsko	LOC	GPE-Spain
+629	635	Itálie	Itálie	LOC	GPE-Italy
+638	648	Nizozemsko	Nizozemsko	LOC	GPE-Holland
+678	683	Irsko	Irsko	LOC	GPE-Ireland
+707	713	Dánsku	Dánsko	LOC	GPE-Denmark
+715	725	Chorvatsku	Chorvatsko	LOC	GPE-Croatia
+727	733	Polsku	Polsko	LOC	GPE-Poland
+735	743	Rakousku	Rakousko	LOC	GPE-Austria
+755	764	Slovensku	Slovensko	LOC	GPE-Slovakia

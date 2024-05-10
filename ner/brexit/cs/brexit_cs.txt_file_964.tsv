@@ -1,0 +1,27 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+8	15	Britové	Britové	PER	GPE-Great-Britain
+63	65	EU	EU	ORG	ORG-European-Union
+143	151	Británie	Británie	LOC	GPE-Great-Britain
+393	401	Británie	Británie	LOC	GPE-Great-Britain
+408	411	BBC	BBC	PRO	PRO-BBC
+545	552	Londýna	Londýn	LOC	GPE-London
+683	697	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+743	758	Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+760	767	Britové	Britové	PER	GPE-Great-Britain
+899	906	brexitu	brexit	EVT	EVT-Brexit
+916	918	EU	EU	ORG	ORG-European-Union
+984	991	Reuters	Reuters	ORG	ORG-Reuters
+1081	1087	Londýn	Londýn	LOC	GPE-London
+1139	1145	Brusel	Brusel	LOC	GPE-Brussles
+1296	1304	Británie	Británie	LOC	GPE-Great-Britain
+1321	1323	EU	EU	ORG	ORG-European-Union
+1569	1575	Mayová	Mayová	PER	PER-Theresa-May
+1731	1741	Greg Clark	Greg Clark	PER	PER-Greg-Clark
+1769	1788	The Daily Telegraph	The Daily Telegraph	PRO	PRO-The-Daily-Telegraph
+1863	1869	Mayová	Mayová	PER	PER-Theresa-May
+1989	1997	Británie	Británie	LOC	GPE-Great-Britain
+2000	2007	Bruselu	Brusel	LOC	GPE-Brussles
+2008	2019	Ivan Rogers	Ivan Rogers	PER	PER-Ivan-Rogers
+2021	2027	Londýn	Londýn	LOC	GPE-London
+2103	2110	brexitu	brexit	EVT	EVT-Brexit
+2259	2267	Británii	Británie	LOC	GPE-Great-Britain

@@ -1,0 +1,21 @@
+5	12	Джонсон	Джонсон	PER	PER-Boris-Johnson
+46	60	Великобритании	Великобритания	LOC	GPE-Great-Britain
+61	71	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+128	136	Британии	Британия	LOC	GPE-Great-Britain
+137	152	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+174	183	Скай ньюз	Скай ньюз	PRO	PRO-Sky-News-TV
+233	248	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+369	375	Бориса	Борис	PER	PER-Boris-Johnson
+429	442	Даунинг-Стрит	Даунинг-Стрит	LOC	LOC-Downing-Street
+514	520	Brexit	Brexit	EVT	EVT-Brexit
+521	532	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+559	565	Brexit	Brexit	EVT	EVT-Brexit
+573	585	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+587	594	Д.Дэвис	Д.Дэвис	PER	PER-David-Davis
+678	692	Великобритании	Великобритания	LOC	GPE-Great-Britain
+695	697	ЕС	ЕС	ORG	ORG-European-Union
+734	743	Евросоюза	Евросоюз	ORG	ORG-European-Union
+840	842	ЕС	ЕС	ORG	ORG-European-Union
+846	852	Brexit	Brexit	EVT	EVT-Brexit
+908	915	Д.Дэвис	Д.Дэвис	PER	PER-David-Davis
+949	954	Т.Мэй	Т.Мэй	PER	PER-Theresa-May

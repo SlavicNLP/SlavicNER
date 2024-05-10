@@ -1,0 +1,17 @@
+14	22	covid-19	covid-19	EVT	EVT-Covid-19
+97	107	covidom-19	covid-19	EVT	EVT-Covid-19
+268	274	Wuhanu	Wuhan	LOC	GPE-Wuhan
+293	300	Nemčiji	Nemčija	LOC	GPE-Germany
+487	506	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+679	686	Nemčiji	Nemčija	LOC	GPE-Germany
+697	753	inštituta za virologijo na univerzitetni kliniki v Essnu	inštitut za virologijo na univerzitetni kliniki v Essnu	ORG	ORG-Institute-of-virology-Essen-university-hospital
+754	765	Ulf Dittmer	Ulf Dittmer	PER	PER-Ulf-Dittmer
+923	930	Dittmer	Dittmer	PER	PER-Ulf-Dittmer
+1266	1273	Dittmer	Dittmer	PER	PER-Ulf-Dittmer
+1546	1551	Essnu	Essen	LOC	GPE-Essen
+1600	1609	covida-19	covid-19	EVT	EVT-Covid-19
+1734	1763	novo koronavirusno bolezen 19	nova koronavirusna bolezen 19	EVT	EVT-Covid-19
+2089	2096	Dittmer	Dittmer	PER	PER-Ulf-Dittmer
+2144	2151	Nemčiji	Nemčija	LOC	GPE-Germany
+2228	2233	Essnu	Essen	LOC	GPE-Essen
+2341	2355	Michael Lohoff	Michael Lohoff	PER	PER-Michael-Lohoff

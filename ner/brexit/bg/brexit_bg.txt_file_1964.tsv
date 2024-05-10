@@ -1,0 +1,22 @@
+0	13	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+90	97	Брекзит	Брекзит	EVT	EVT-Brexit
+136	143	Брекзит	Брекзит	EVT	EVT-Brexit
+144	157	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+197	214	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+418	425	Ройтерс	Ройтерс	ORG	ORG-Reuters
+454	468	Великобритания	Великобритания	LOC	GPE-Great-Britain
+542	544	ЕС	ЕС	ORG	ORG-European-Union
+583	589	Англия	Англия	LOC	GPE-England
+590	596	Дейвис	Дейвис	PER	PER-David-Davis
+619	621	ЕС	ЕС	ORG	ORG-European-Union
+788	800	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+812	822	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+853	860	Брекзит	Брекзит	EVT	EVT-Brexit
+895	921	Съвета за сигурност на ООН	Съвет за сигурност на ООН	ORG	ORG-UN-Security-Council
+936	945	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+989	1001	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1032	1035	ДПА	ДПА	ORG	ORG-DPA
+1038	1045	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1078	1081	САЩ	САЩ	LOC	GPE-USA
+1164	1167	САЩ	САЩ	LOC	GPE-USA
+1174	1184	Ники Хейли	Ники Хейли	PER	PER-Nikki-Haley

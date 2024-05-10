@@ -1,0 +1,18 @@
+57	69	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+98	101	САЩ	САЩ	LOC	GPE-USA
+283	293	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+394	400	Байдън	Байдън	PER	PER-Joe-Biden
+486	492	Туитър	Туитър	PRO	PRO-Twitter
+500	522	Деня на благодарността	Ден на благодарността	EVT	EVT-Thanksgiving-Day
+776	788	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1048	1059	демократите	демократи	PER	ORG-Democratic-Party-USA
+1103	1108	Тръмп	Тръмп	PER	PER-Donald-Trump
+1178	1190	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1193	1204	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1500	1503	САЩ	САЩ	LOC	GPE-USA
+1517	1522	Тръмп	Тръмп	PER	PER-Donald-Trump
+1543	1566	Dominion Voting Systems	Dominion Voting Systems	ORG	ORG-Dominion-Voting-Systems
+1628	1651	Dominion Voting Systems	Dominion Voting Systems	ORG	ORG-Dominion-Voting-Systems
+1769	1772	САЩ	САЩ	LOC	GPE-USA
+1775	1781	Канада	Канада	LOC	GPE-Canada
+1866	1879	Роналд Рейгън	Роналд Рейгън	PER	PER-Ronald-Reagan

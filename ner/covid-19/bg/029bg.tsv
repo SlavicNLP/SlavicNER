@@ -1,0 +1,30 @@
+11	17	Италия	Италия	LOC	GPE-Italy
+133	142	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+188	212	коронавирусната епидемия	коронавирусна епидемия	EVT	EVT-Covid-19
+215	221	Италия	Италия	LOC	GPE-Italy
+383	393	епидемията	епидемия	EVT	EVT-Epidemic
+420	427	Ройтерс	Ройтерс	ORG	ORG-Reuters
+430	460	Агенцията за гражданска защита	Агенция за гражданска защита	ORG	ORG-Agency-for-civil-protection
+492	500	Covid-19	COVID-19	EVT	EVT-Covid-19
+750	763	Джулио Галера	Джулио Галера	PER	PER-Giulio-Galera
+806	815	Ломбардия	Ломбардия	LOC	GPE-Lombardy
+858	868	епидемията	епидемия	EVT	EVT-Epidemic
+1068	1106	Националния здравен институт на Италия	Национален здравен институт на Италия	ORG	ORG-National-health-institute-Italy
+1107	1123	Силвио Брусаферо	Силвио Брусаферо	PER	PER-Silvio-Brusafero
+1256	1265	Ломбардия	Ломбардия	LOC	GPE-Lombardy
+1473	1485	коронавируса	коронавирус	EVT	EVT-Covid-19
+1518	1524	Италия	Италия	LOC	GPE-Italy
+1553	1590	епидемия от респираторното заболяване	епидемия от респираторното заболяване	EVT	EVT-Epidemic
+1613	1621	Covid-19	COVID-19	EVT	EVT-Covid-19
+1638	1647	Ломбардия	Ломбардия	LOC	GPE-Lombardy
+2030	2036	Италия	Италия	LOC	GPE-Italy
+2124	2154	спасителния фонд на еврозоната	спасителен фонд на еврозоната	PRO	PRO-Rescue-Fund-EU
+2161	2170	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+2236	2242	Берлин	Берлин	LOC	GPE-Berlin
+2253	2259	Италия	Италия	LOC	GPE-Italy
+2297	2332	Европейския механизъм за стабилност	Европейски механизъм за стабилност	PRO	PRO-EU-mechanism-for-stability
+2435	2445	Германците	германци	PER	GPE-Germany
+2474	2480	Италия	Италия	LOC	GPE-Italy
+2604	2612	Covid-19	COVID-19	EVT	EVT-Covid-19
+2668	2678	еврозоната	Еврозона	LOC	LOC-Eurozone
+2884	2904	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission

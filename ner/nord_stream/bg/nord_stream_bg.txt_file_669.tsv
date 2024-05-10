@@ -1,0 +1,36 @@
+0	2	ЕК	ЕК	ORG	ORG-European-Commission
+27	44	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+94	107	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+130	136	Европа	Европа	LOC	LOC-Europe
+186	188	ЕС	ЕС	ORG	ORG-European-Union
+189	206	Маргрете Вестагер	Маргрете Вестагер	PER	PER-Margrethe-Vestager
+239	244	Funke	Funke	ORG	ORG-Funke
+418	422	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+432	434	ЕС	ЕС	ORG	ORG-European-Union
+465	470	Русия	Русия	LOC	GPE-Russia
+489	497	Вестагер	Вестагер	PER	PER-Margrethe-Vestager
+574	580	Европа	Европа	LOC	LOC-Europe
+618	623	Funke	Funke	ORG	ORG-Funke
+661	669	Германия	Германия	LOC	GPE-Germany
+670	683	Ричард Гренел	Ричард Гренел	PER	PER-Richard-Grenell
+767	772	Русия	Русия	LOC	GPE-Russia
+775	781	Европа	Европа	LOC	LOC-Europe
+798	806	Германия	Германия	LOC	GPE-Germany
+809	815	Европа	Европа	LOC	LOC-Europe
+821	836	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+866	872	Кремъл	Кремъл	LOC	LOC-Kremlin
+956	959	САЩ	САЩ	LOC	GPE-USA
+1000	1008	Германия	Германия	LOC	GPE-Germany
+1066	1083	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+1136	1142	Любмин	Любмин	LOC	GPE-Lubmin
+1221	1227	Москва	Москва	LOC	GPE-Moscow
+1265	1272	Украйна	Украйна	LOC	GPE-Ukraine
+1355	1369	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+1400	1405	Полша	Полша	LOC	GPE-Poland
+1447	1449	ЕС	ЕС	ORG	ORG-European-Union
+1452	1472	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1475	1496	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+1591	1596	Русия	Русия	LOC	GPE-Russia
+1717	1730	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+1761	1767	Москва	Москва	LOC	GPE-Moscow
+1804	1807	САЩ	САЩ	LOC	GPE-USA

@@ -1,0 +1,29 @@
+1	8	Газпром	Газпром	ORG	ORG-Gazprom
+19	34	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+38	44	Лондон	Лондон	LOC	GPE-London
+74	81	Газпром	Газпром	ORG	ORG-Gazprom
+127	143	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+159	168	руснаците	руснаци	PER	GPE-Russia
+213	228	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+292	302	Glas Trust	Glas Trust	ORG	ORG-Glas-Trust-Company
+333	340	Газпром	Газпром	ORG	ORG-Gazprom
+437	446	Комерсант	Комерсант	PRO	PRO-Kommersant
+684	700	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+756	761	Русия	Русия	LOC	GPE-Russia
+791	798	Газпром	Газпром	ORG	ORG-Gazprom
+823	828	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+830	835	Engie	Engie	ORG	ORG-Engie
+837	843	Uniper	Uniper	ORG	ORG-Uniper
+845	856	Wintershall	Wintershall	ORG	ORG-Wintershall
+859	862	OMV	OMV	ORG	ORG-OMV
+1090	1105	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1168	1178	Glas Trust	Glas Trust	ORG	ORG-Glas-Trust-Company
+1191	1201	британците	британци	PER	GPE-Great-Britain
+1260	1276	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+1292	1300	Германия	Германия	LOC	GPE-Germany
+1354	1369	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1372	1378	Берлин	Берлин	LOC	GPE-Berlin
+1482	1487	Русия	Русия	LOC	GPE-Russia
+1489	1498	Финландия	Финландия	LOC	GPE-Finland
+1500	1506	Швеция	Швеция	LOC	GPE-Sweden
+1509	1514	Дания	Дания	LOC	GPE-Denmark

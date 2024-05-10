@@ -1,0 +1,38 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+9	14	Biden	Biden	PER	PER-Joe-Biden
+94	106	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+133	136	ZDA	ZDA	LOC	GPE-USA
+179	182	ZDA	ZDA	LOC	GPE-USA
+277	290	Josephu Bidnu	Joseph Biden	PER	PER-Joe-Biden
+412	421	Američani	Američani	PER	GPE-USA
+441	451	Trumpovega	Trumpov	PER	PER-Donald-Trump
+659	664	Trump	Trump	PER	PER-Donald-Trump
+670	682	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+833	846	Alan Ginsburg	Alan Ginsburg	PER	PER-Alan-Ginsburg
+986	1005	Vrhovno sodišče ZDA	Vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+1035	1047	Pensilvanije	Pensilvanija	LOC	GPE-Pennsylvania
+1308	1313	Biden	Biden	PER	PER-Joe-Biden
+1370	1382	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1454	1459	Trump	Trump	PER	PER-Donald-Trump
+1522	1534	koronavirusa	koronavirus	EVT	EVT-Covid-19
+1591	1596	Trump	Trump	PER	PER-Donald-Trump
+1601	1606	Biden	Biden	PER	PER-Joe-Biden
+1648	1653	Biden	Biden	PER	PER-Joe-Biden
+1691	1701	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+1794	1799	Trump	Trump	PER	PER-Donald-Trump
+1901	1911	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+1922	1927	Biden	Biden	PER	PER-Joe-Biden
+1999	2011	Philadelphio	Philadelphia	LOC	GPE-Philadelphia
+2015	2023	Scranton	Scranton	LOC	GPE-Scranton
+2026	2038	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2097	2102	Trump	Trump	PER	PER-Donald-Trump
+2131	2144	Kamalo Harris	Kamala Harris	PER	PER-Kamala-Harris
+2161	2168	Detroit	Detroit	LOC	GPE-Detroit
+2171	2180	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+2228	2235	Teksasu	Teksas	LOC	GPE-Texas
+2287	2300	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+2340	2348	Houstonu	Houston	LOC	GPE-Houston
+2414	2422	Houstona	Houston	LOC	GPE-Houston
+2455	2467	koronavirusa	koronavirus	EVT	EVT-Covid-19
+2469	2478	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+2556	2563	Teksasu	Teksas	LOC	GPE-Texas

@@ -1,0 +1,17 @@
+19	31	коронавируса	коронавирус	EVT	EVT-Covid-19
+34	40	Англия	Англия	LOC	GPE-England
+110	122	коронавируса	коронавирус	EVT	EVT-Covid-19
+135	143	Covid-19	COVID-19	EVT	EVT-Covid-19
+157	163	Англия	Англия	LOC	GPE-Great-Britain
+195	202	Острова	Остров	LOC	GPE-Great-Britain
+352	366	Великобритания	Великобритания	LOC	GPE-Great-Britain
+367	377	Мат Ханкок	Мат Ханкок	PER	PER-Matthew-Hancock
+456	462	Ханкок	Ханкок	PER	PER-Matthew-Hancock
+479	482	СЗО	СЗО	ORG	ORG-WHO
+730	736	Лондон	Лондон	LOC	GPE-London
+738	742	Кент	Кент	LOC	GPE-Kent
+754	759	Есекс	Есекс	LOC	GPE-Essex
+762	773	Хертфордшир	Хартфордшир	LOC	GPE-Hertfordshire
+853	859	Англия	Англия	LOC	GPE-Great-Britain
+1011	1017	Ханкок	Ханкок	PER	PER-Matthew-Hancock
+1176	1184	Covid-19	COVID-19	EVT	EVT-Covid-19

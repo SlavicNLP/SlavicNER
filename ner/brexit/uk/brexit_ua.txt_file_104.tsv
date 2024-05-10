@@ -1,0 +1,32 @@
+0	13	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+34	37	Мей	Мей	PER	PER-Theresa-May
+49	65	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+69	71	ЄС	ЄС	LOC	ORG-European-Union
+81	87	Brexit	Brexit	EVT	EVT-Brexit
+95	98	МЗС	МЗС	ORG	ORG-Foreign-Office
+99	115	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+116	129	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+174	184	Терези Мей	Тереза Мей	PER	PER-Theresa-May
+208	210	ЄС	ЄС	LOC	ORG-European-Union
+242	250	Бі-Бі-Сі	Бі-Бі-Сі	ORG	ORG-BBC-Ltd
+295	304	Б.Джонсон	Б.Джонсон	PER	PER-Boris-Johnson
+334	339	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+352	370	кабінету міністрів	кабнет міністрів	ORG	ORG-Cabinet-of-the-United-Kingdom
+453	459	Brexit	Brexit	EVT	EVT-Brexit
+477	479	ЄС	ЄС	LOC	ORG-European-Union
+546	548	ЄС	ЄС	LOC	ORG-European-Union
+623	625	ЄС	ЄС	LOC	ORG-European-Union
+655	672	Великою Британією	Велика Британія	LOC	GPE-Great-Britain
+675	677	ЄС	ЄС	LOC	ORG-European-Union
+688	696	Бі-Бі-Сі	Бі-Бі-Сі	ORG	ORG-BBC-Ltd
+756	761	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+819	825	Brexit	Brexit	EVT	EVT-Brexit
+849	858	Б.Джонсон	Б.Джонсон	PER	PER-Boris-Johnson
+876	881	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+887	893	Brexit	Brexit	EVT	EVT-Brexit
+909	924	Велику Британію	Велика Британія	LOC	GPE-Great-Britain
+1031	1040	Б.Джонсон	Б.Джонсон	PER	PER-Boris-Johnson
+1098	1101	МЗС	МЗС	ORG	ORG-Foreign-Office
+1143	1145	ЄС	ЄС	LOC	ORG-European-Union
+1161	1177	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+1246	1248	ЄС	ЄС	LOC	ORG-European-Union

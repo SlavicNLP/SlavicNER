@@ -1,0 +1,149 @@
+11	17	Трампа	Трамп	PER	PER-Donald-Trump
+44	47	ФБР	ФБР	ORG	ORG-FBI
+78	102	американские выборы 2020	американские выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+110	113	ФБР	ФБР	ORG	ORG-FBI
+116	175	Агентство кибербезопасности и инфраструктурной безопасности	Агентство кибербезопасности и инфраструктурной безопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+177	181	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+259	262	США	США	LOC	GPE-USA
+537	547	демократов	демократы	ORG	ORG-Democratic-Party-USA
+556	562	России	Россия	LOC	GPE-Russia
+607	643	президентские выборы 2020 года в США	президентские выборы 2020 года в США	EVT	EVT-2020-United-States-Presidential-Election
+757	772	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+805	812	Мадисон	Мадисон	LOC	GPE-Madison
+835	865	Федеральное бюро расследований	Федеральное бюро расследований	ORG	ORG-FBI
+868	927	Агентство кибербезопасности и инфраструктурной безопасности	Агентство кибербезопасности и инфраструктурной безопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+929	933	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+1011	1014	США	США	LOC	GPE-USA
+1082	1148	Агентство по кибербезопасности и обеспечению защиты инфраструктуры	Агентство по кибербезопасности и обеспечению защиты инфраструктуры	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+1150	1154	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+1158	1161	ФБР	ФБР	ORG	ORG-FBI
+1335	1338	ФБР	ФБР	ORG	ORG-FBI
+1341	1345	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+1438	1450	американским	американские	LOC	GPE-USA
+1539	1552	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2145	2157	американские	американские	LOC	GPE-USA
+2684	2687	ФБР	ФБР	ORG	ORG-FBI
+2690	2694	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+2756	2762	России	Россия	LOC	GPE-Russia
+2784	2809	президентские выборы 2020	президентские выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+2867	2879	американских	американские	LOC	GPE-USA
+2915	2929	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+2937	2947	демократов	демократы	ORG	ORG-Democratic-Party-USA
+2978	3000	Республиканской партии	Республиканская партия	PER	ORG-Republican-Party-USA
+3033	3079	Министерства внутренней безопасности (МВБ) США	Министерство внутренней безопасности (МВБ) США	ORG	ORG-US-Department-of-Homeland-Security
+3080	3088	Чед Вулф	Чед Вулф	PER	PER-Chad-Wolf
+3108	3113	Axios	Axios	PRO	PRO-Axios
+3126	3135	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3173	3179	Россию	Россия	LOC	GPE-Russia
+3227	3239	американские	американские	LOC	GPE-USA
+3322	3328	Москва	Москва	LOC	GPE-Moscow
+3469	3471	РФ	РФ	LOC	GPE-Russia
+3511	3514	США	США	LOC	GPE-USA
+3515	3523	демократ	демократ	ORG	ORG-Democratic-Party-USA
+3524	3539	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+3567	3590	«Атлантического совета»	«Атлантический совет»	ORG	ORG-Atlantic-Council
+3615	3625	российская	российский	LOC	GPE-Russia
+3667	3682	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3750	3753	США	США	LOC	GPE-USA
+3773	3788	Роберт О'Брайен	Роберт О'Брайен	PER	PER-Robert-O'Brien
+3799	3805	России	Россия	LOC	GPE-Russia
+3882	3885	США	США	LOC	GPE-USA
+3938	3941	СBS	СBS	PRO	ORG-CBS
+3966	3972	России	Россия	LOC	GPE-Russia
+3997	4050	Национального центра контрразведки и безопасности США	Национальный центр контрразведки и безопасности США	ORG	ORG-National-Security-Agency-NSA-USA
+4051	4065	Уильям Эванина	Уильям Эванина	PER	PER-William-Evanina
+4082	4088	Москва	Москва	LOC	GPE-Moscow
+4141	4150	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+4151	4162	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+4191	4200	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+4201	4211	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4243	4258	Нацразведки США	Нацразведка США	ORG	ORG-United States-National-Intelligence
+4318	4325	Эванина	Эванина	PER	PER-William-Evanina
+4364	4371	Кремлём	Кремль	ORG	ORG-Kremlin
+4417	4423	Трампа	Трамп	PER	PER-Donald-Trump
+4466	4476	российские	российские	LOC	GPE-Russia
+4522	4547	палаты представителей США	палата представителей США	ORG	ORG-United-States-House-of-Representatives
+4548	4560	Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+4569	4596	комитета по разведке палаты	комитет по разведке палаты	ORG	ORG-House-Intelligence-Committee
+4597	4608	Адама Шиффа	Адам Шифф	PER	PER-Adam-Schiff
+4624	4630	Россия	Россия	LOC	GPE-Russia
+4734	4740	Кремль	Кремль	ORG	ORG-Kremlin
+4812	4821	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+4822	4832	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4878	4903	Национальной разведки США	Национальная разведка США	ORG	ORG-United States-National-Intelligence
+5034	5044	российский	российский	LOC	GPE-Russia
+5051	5065	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+5082	5097	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+5111	5117	Россия	Россия	LOC	GPE-Russia
+5232	5234	РФ	РФ	LOC	GPE-Russia
+5235	5249	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+5251	5257	Москва	Москва	LOC	GPE-Moscow
+5348	5366	Соединённых Штатах	Соединённые Штаты	LOC	GPE-USA
+5423	5426	США	США	LOC	GPE-USA
+5427	5442	Малека Дудакова	Малек Дудаков	PER	PER-Malek-Dudakov
+5446	5464	Соединённых Штатах	Соединённые Штаты	LOC	GPE-USA
+5523	5529	Россия	Россия	LOC	GPE-Russia
+5552	5576	американские выборы 2020	американские выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+5602	5609	русские	русский	LOC	GPE-Russia
+5630	5647	правительством РФ	правительство РФ	ORG	ORG-The-Government-of-Russia
+5701	5704	США	США	LOC	GPE-USA
+5897	5915	Соединённых Штатах	Соединённые Штаты	LOC	GPE-USA
+5967	6011	Центра исследования проблем безопасности РАН	Центр исследования проблем безопасности РАН	ORG	ORG-Centre-for-Security-Studies-Russian-Academy-of-Sciences
+6012	6029	Константин Блохин	Константин Блохин	PER	PER-Konstantin-Blohin
+6106	6119	Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+6163	6165	РФ	РФ	LOC	GPE-Russia
+6244	6255	американцам	американцы	PER	GPE-USA
+6275	6281	Трампа	Трамп	PER	PER-Donald-Trump
+6298	6301	США	США	LOC	GPE-USA
+6337	6343	Москвы	Москва	LOC	GPE-Moscow
+6448	6470	Республиканскую партию	Республиканская партия	ORG	ORG-Republican-Party-USA
+6501	6503	РФ	РФ	LOC	GPE-Russia
+6629	6639	демократов	демократы	ORG	ORG-Democratic-Party-USA
+6694	6700	Блохин	Блохин	PER	PER-Konstantin-Blohin
+6719	6728	Демпартии	Демпартия	PER	ORG-Democratic-Party-USA
+6742	6744	РФ	РФ	LOC	GPE-Russia
+6801	6804	США	США	LOC	GPE-USA
+6875	6881	Блохин	Блохин	PER	PER-Konstantin-Blohin
+6896	6910	республиканцам	республиканцы	ORG	ORG-Republican-Party-USA
+6945	6948	ФБР	ФБР	ORG	ORG-FBI
+6951	6955	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+7005	7020	выборы США 2020	выборы США 2020	EVT	EVT-2020-United-States-Presidential-Election
+7029	7038	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+7085	7091	Москву	Москва	LOC	GPE-Moscow
+7139	7151	американский	американский	LOC	GPE-USA
+7158	7180	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+7213	7218	Трамп	Трамп	PER	PER-Donald-Trump
+7257	7260	США	США	LOC	GPE-USA
+7452	7458	Трампа	Трамп	PER	PER-Donald-Trump
+7492	7499	Блохина	Блохин	PER	PER-Konstantin-Blohin
+7511	7542	Федерального бюро расследований	Федеральное бюро расследований	ORG	ORG-FBI
+7545	7604	Агентства кибербезопасности и инфраструктурной безопасности	Агентство кибербезопасности и инфраструктурной безопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+7693	7704	Белого дома	Белый дом	ORG	ORG-The-White-House
+7728	7734	Трампа	Трамп	PER	PER-Donald-Trump
+7865	7877	американским	американский	LOC	GPE-USA
+7888	7891	ФБР	ФБР	ORG	ORG-FBI
+7895	7922	Агентство кибербезопасности	Агентство кибербезопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+7970	7973	США	США	LOC	GPE-USA
+8005	8011	Блохин	Блохин	PER	PER-Konstantin-Blohin
+8043	8073	Федеральном бюро расследований	Федеральное бюро расследований	ORG	ORG-FBI
+8201	8204	ФБР	ФБР	ORG	ORG-FBI
+8207	8266	Агентства кибербезопасности и инфраструктурной безопасности	Агентство кибербезопасности и инфраструктурной безопасности	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+8294	8304	демократов	демократы	ORG	ORG-Democratic-Party-USA
+8328	8339	российского	российское	LOC	GPE-Russia
+8422	8431	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+8505	8511	России	Россия	LOC	GPE-Russia
+8609	8612	ФБР	ФБР	ORG	ORG-FBI
+8704	8714	демократов	демократы	ORG	ORG-Democratic-Party-USA
+8812	8819	русские	русские	LOC	GPE-Russia
+8853	8864	американцев	американцы	PER	GPE-USA
+8917	8923	Трампа	Трамп	PER	PER-Donald-Trump
+8927	8937	российские	российские	LOC	GPE-Russia
+8977	8990	Малек Дудаков	Малек Дудаков	PER	PER-Malek-Dudakov
+9054	9064	российских	российские	LOC	GPE-Russia
+9149	9159	демократов	демократы	ORG	ORG-Democratic-Party-USA
+9160	9170	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+9222	9235	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+9335	9341	Россия	Россия	LOC	GPE-Russia
+9350	9356	Трампу	Трамп	PER	PER-Donald-Trump
+9400	9421	«Атлантический совет»	«Атлантический совет»	ORG	ORG-Atlantic-Council
+9423	9460	Atlantic council of the United States	Atlantic council of the United States	ORG	ORG-Atlantic-Council

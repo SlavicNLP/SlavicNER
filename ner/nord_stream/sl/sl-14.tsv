@@ -1,0 +1,37 @@
+0	5	Putin	Putin	PER	PER-Vladimir-Putin
+16	24	Merklovi	Merkel	PER	PER-Angela-Merkel
+48	70	avstrijskem Štajerskem	avstrijska Štajerska	LOC	GPE-Austrian-Styria
+79	84	Putin	Putin	PER	PER-Vladimir-Putin
+87	95	Avstrijo	Avstrija	LOC	GPE-Austria
+154	162	Gomilici	Gomilica	LOC	GPE-Gamlitz
+164	171	Gamlitz	Gamlitz	LOC	GPE-Gamlitz
+191	211	avstrijske Štajerske	avstrijska Štajerska	LOC	GPE-Austrian-Styria
+230	239	Slovenijo	Slovenija	LOC	GPE-Slovenia
+250	260	Kneisslova	Kneissl	PER	PER-Karin-Kneissl
+344	367	Wolfgangom Meilingerjem	Wolfgang Meilinger	PER	PER-Wolfgang-Meilinger
+449	463	Sebastian Kurz	Sebastian Kurz	PER	PER-Sebastian-Kurz
+479	502	Heinz-Christian Strache	Heinz-Christian Strache	PER	PER-Heinz-Christian-Strache
+545	550	Putin	Putin	PER	PER-Vladimir-Putin
+796	802	Gradcu	Gradec	LOC	GPE-Graz
+829	837	Merklovi	Merkel	PER	PER-Angela-Merkel
+894	899	Putin	Putin	PER	PER-Vladimir-Putin
+930	936	Berlin	Berlin	LOC	GPE-Berlin
+956	964	Merklovi	Merkel	PER	PER-Angela-Merkel
+1060	1066	Siriji	Sirija	LOC	GPE-Syria
+1073	1088	vzhodu Ukrajine	vzhod Ukrajine	LOC	LOC-East-Ukraine
+1122	1135	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1149	1155	Rusijo	Rusija	LOC	GPE-Russia
+1159	1166	Zahodom	Zahod	LOC	LOC-West
+1173	1180	Nemčijo	Nemčija	LOC	GPE-Germany
+1237	1243	Siriji	Sirija	LOC	GPE-Syria
+1247	1255	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1349	1353	Nata	NATO	ORG	ORG-NATO
+1385	1391	Rusije	Rusija	LOC	GPE-Russia
+1395	1403	Avstrije	Avstrija	LOC	GPE-Austria
+1422	1433	Svobodnjaki	Svobodnjaki	ORG	ORG-Freedom-Party-of-Austria
+1435	1438	FPÖ	FPÖ	ORG	ORG-Freedom-Party-of-Austria
+1453	1468	Ljudsko stranko	Ljudska stranka	ORG	ORG-ÖVP-Austrian-Peoples-Party
+1470	1473	ÖVP	ÖVP	ORG	ORG-ÖVP-Austrian-Peoples-Party
+1523	1529	Evropi	Evropa	LOC	LOC-Europe
+1601	1605	Krim	Krim	LOC	GPE-Crimea
+1630	1644	Evropske unije	Evropska unija	ORG	ORG-European-Union

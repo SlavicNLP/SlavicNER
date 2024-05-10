@@ -1,0 +1,75 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+14	20	Байдън	Байдън	PER	PER-Joe-Biden
+35	44	демократи	демократи	PER	ORG-Democratic-Party-USA
+109	112	САЩ	САЩ	LOC	GPE-USA
+197	200	САЩ	САЩ	LOC	GPE-USA
+201	213	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+250	261	демократите	демократи	PER	ORG-Democratic-Party-USA
+262	272	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+339	350	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+356	367	демократите	демократи	PER	ORG-Democratic-Party-USA
+494	499	Тръмп	Тръмп	PER	PER-Donald-Trump
+547	556	Олд Фордж	Олд Фордж	LOC	GPE-Old-Forge
+642	653	демократите	демократи	PER	ORG-Democratic-Party-USA
+746	751	Тръмп	Тръмп	PER	PER-Donald-Trump
+1012	1022	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1057	1067	Минеаполис	Минеаполис	LOC	GPE-Minneapolis
+1094	1102	Портланд	Портланд	LOC	GPE-Portland
+1135	1141	Чикаго	Чикаго	LOC	GPE-Chicago
+1184	1191	Америка	Америка	LOC	GPE-USA
+1199	1204	Тръмп	Тръмп	PER	PER-Donald-Trump
+1262	1273	демократите	демократи	PER	ORG-Democratic-Party-USA
+1357	1369	коронавируса	коронавирус	EVT	EVT-Covid-19
+1518	1521	САЩ	САЩ	LOC	GPE-USA
+1631	1634	САЩ	САЩ	LOC	GPE-USA
+1646	1651	Тръмп	Тръмп	PER	PER-Donald-Trump
+1737	1748	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1749	1757	Том Уолф	Том Уолф	PER	PER-Tom-Wolf
+1839	1844	Тръмп	Тръмп	PER	PER-Donald-Trump
+1853	1858	Тръмп	Тръмп	PER	PER-Donald-Trump
+1859	1863	Уолф	Уолф	PER	PER-Tom-Wolf
+1938	1941	САЩ	САЩ	LOC	GPE-USA
+1969	1975	Байдън	Байдън	PER	PER-Joe-Biden
+2018	2023	Тръмп	Тръмп	PER	PER-Donald-Trump
+2036	2046	демократът	демократ	PER	ORG-Democratic-Party-USA
+2178	2183	Тръмп	Тръмп	PER	PER-Donald-Trump
+2223	2229	Байдън	Байдън	PER	PER-Joe-Biden
+2288	2296	Скрантон	Скрентън	LOC	GPE-Scranton
+2313	2324	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2338	2348	Джо Старши	Джо Старши	PER	PER-Joe-Biden-sr
+2513	2524	Джо Джуниър	Джо Джуниър	PER	PER-Joe-Biden
+2575	2583	Скрентън	Скрентън	LOC	GPE-Scranton
+2591	2599	Делауеър	Делауеър	LOC	GPE-Delaware
+2651	2656	Тръмп	Тръмп	PER	PER-Donald-Trump
+2691	2697	Байдън	Байдън	PER	PER-Joe-Biden
+2711	2722	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2754	2762	Скрантън	Скрентън	LOC	GPE-Scranton
+2858	2863	Тръмп	Тръмп	PER	PER-Donald-Trump
+2897	2908	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+3009	3018	демократи	демократи	PER	ORG-Democratic-Party-USA
+3021	3033	републиканци	републиканци	PER	ORG-Republican-Party-USA
+3083	3088	Тръмп	Тръмп	PER	PER-Donald-Trump
+3196	3202	Байдън	Байдън	PER	PER-Joe-Biden
+3222	3228	Байдън	Байдън	PER	PER-Joe-Biden
+3262	3273	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+3284	3293	демократи	демократи	PER	ORG-Democratic-Party-USA
+3383	3389	Байдън	Байдън	PER	PER-Joe-Biden
+3394	3402	Скрантон	Скрентън	LOC	GPE-Scranton
+3479	3489	Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+3492	3500	Питсбърг	Питсбърг	LOC	GPE-Pittsburgh
+3544	3549	Тръмп	Тръмп	PER	PER-Donald-Trump
+3687	3693	Байдън	Байдън	PER	PER-Joe-Biden
+3745	3755	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3772	3783	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+3857	3862	Тръмп	Тръмп	PER	PER-Donald-Trump
+3897	3903	Байдън	Байдън	PER	PER-Joe-Biden
+3964	3975	демократите	демократи	PER	ORG-Democratic-Party-USA
+3998	4004	Байдън	Байдън	PER	PER-Joe-Biden
+4056	4077	демократичната партия	Демократична партия	ORG	ORG-Democratic-Party-USA
+4153	4165	коронавируса	коронавирус	EVT	EVT-Covid-19
+4195	4200	Тръмп	Тръмп	PER	PER-Donald-Trump
+4278	4284	Байдън	Байдън	PER	PER-Joe-Biden
+4311	4322	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+4445	4450	Тръмп	Тръмп	PER	PER-Donald-Trump
+4532	4538	Байдън	Байдън	PER	PER-Joe-Biden
+4539	4550	Андрю Бейтс	Андрю Бейтс	PER	PER-Andrew-Bates

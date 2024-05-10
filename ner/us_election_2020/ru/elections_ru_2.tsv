@@ -1,0 +1,130 @@
+22	34	американские	американские	LOC	GPE-USA
+68	71	США	США	LOC	GPE-USA
+76	79	США	США	LOC	GPE-USA
+254	266	американских	американский	LOC	GPE-USA
+288	298	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+328	343	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+546	570	«Актуальные комментарии»	Актуальные комментарии	PRO	PRO-Actual-Comments
+590	602	американских	американский	LOC	GPE-USA
+683	693	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+784	799	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+875	878	CNN	CNN	PRO	PRO-CNN
+900	912	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+981	987	Трампа	Трамп	PER	PER-Donald-Trump
+1020	1032	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1033	1044	Кэти Боквар	Кэти Боквар	PER	PER-Kathy-Boockvar
+1286	1298	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1302	1309	Байдена	Байден	PER	PER-Joe-Biden
+1341	1352	Белому дому	Белый дом	ORG	ORG-The-White-House
+1387	1393	Неваде	Невада	LOC	GPE-Nevada
+1396	1403	Аризоне	Аризона	LOC	GPE-Arizona
+1452	1458	Трампа	Трамп	PER	PER-Donald-Trump
+1523	1531	Марикопа	Марикопа	LOC	GPE-Maricopa-County
+1564	1571	Аризоне	Аризона	LOC	GPE-Arizona
+1573	1576	CNN	CNN	PRO	PRO-CNN
+1595	1601	Байден	Байден	PER	PER-Joe-Biden
+1667	1670	Мэн	Мэн	LOC	GPE-Maine
+1677	1686	Висконсин	Висконсин	LOC	GPE-Wisconsin
+1688	1695	Мичиган	Мичиган	LOC	GPE-Michigan
+1697	1703	Гавайи	Гавайи	LOC	GPE-Hawaii
+1705	1715	Род-Айленд	Род-Айленд	LOC	GPE-Rhode-Island
+1717	1726	Миннесота	Миннесота	LOC	GPE-Minnesota
+1728	1737	Вирджиния	Вирджиния	LOC	GPE-Virginia
+1739	1749	Калифорния	Калифорния	LOC	GPE-California
+1751	1757	Орегон	Орегон	LOC	GPE-Oregon
+1764	1773	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1775	1783	Иллинойс	Иллинойс	LOC	GPE-Illinois
+1785	1796	Нью-Гэмпшир	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+1798	1809	Нью-Мексико	Нью-Мексико	LOC	GPE-New-Mexico
+1811	1819	Колорадо	Колорадо	LOC	GPE-Colorado
+1821	1832	Коннектикут	Коннектикут	LOC	GPE-Connecticut
+1834	1844	Нью-Джерси	Нью-Джерси	LOC	GPE-New-Jersey
+1846	1854	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+1856	1863	Вермонт	Вермонт	LOC	GPE-Vermont
+1865	1872	Делавэр	Делавэр	LOC	GPE-Delaware
+1874	1883	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1885	1899	округ Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+1901	1909	Мэриленд	Мериленд	LOC	GPE-Maryland
+1911	1922	Массачусетс	Масачузетс	LOC	GPE-Massachusetts
+1957	1965	Небраски	Небраска	LOC	GPE-Nebraska
+1967	1975	Небраска	Небраска	LOC	GPE-Nebraska
+1978	1981	Мэн	Мэн	LOC	GPE-Maine
+2098	2106	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+2108	2113	Трамп	Трамп	PER	PER-Donald-Trump
+2124	2131	Монтане	Монтана	LOC	GPE-Montana-US-State
+2133	2139	Техасе	Техас	LOC	GPE-Texas
+2141	2146	Айове	Айова	LOC	GPE-Iowa
+2148	2154	Айдахо	Айдахо	LOC	GPE-Idaho
+2156	2161	Огайо	Огайо	LOC	GPE-Ohio
+2163	2172	Миссисипи	Миссисипи	LOC	GPE-Mississippi
+2174	2183	Вайоминге	Вайоминг	LOC	GPE-Wyoming
+2185	2192	Миссури	Миссури	LOC	GPE-Missouri
+2194	2201	Канзасе	Канзас	LOC	GPE-Kansas
+2203	2206	Юте	Юта	LOC	GPE-Utah
+2208	2216	Луизиане	Луизиан	LOC	GPE-Louisiana
+2218	2225	Алабаме	Алабама	LOC	GPE-USA-Alabama
+2227	2241	Южной Каролине	Южная Каролина	LOC	GPE-South-Carolina-US-State
+2243	2258	Северной Дакоте	Северная Дакота	LOC	GPE-North-Dakota
+2260	2272	Южной Дакоте	Южная Дакота	LOC	GPE-South-Dakota-US-State
+2274	2283	Арканзасе	Арканзас	LOC	GPE-Arkansas
+2285	2292	Индиане	Индиана	LOC	GPE-Indiana
+2294	2302	Оклахоме	Оклахом	LOC	GPE-Oklahoma
+2304	2312	Кентукки	Кентукки	LOC	GPE-Kentucky
+2314	2332	Западной Вирджинии	Западная Вирджиния	LOC	GPE-West-Virginia
+2335	2343	Теннесси	Теннесси	LOC	GPE-Tennessee
+2388	2396	Небраски	Небраска	LOC	GPE-Nebraska
+2418	2424	Трампа	Трамп	PER	PER-Donald-Trump
+2621	2628	Twitter	Twitter	PRO	PRO-Twitter
+2682	2688	Байден	Байден	PER	PER-Joe-Biden
+2819	2825	Байден	Байден	PER	PER-Joe-Biden
+2840	2846	Трампа	Трамп	PER	PER-Donald-Trump
+2979	3004	Соединенные Штаты Америки	Соединенные Штаты Америки	LOC	GPE-USA
+3046	3057	американцев	американцы	PER	GPE-USA
+3117	3123	Байден	Байден	PER	PER-Joe-Biden
+3125	3139	The New Yorker	The New Yorker	PRO	PRO-The-New-Yorker
+3154	3166	американские	американские	LOC	GPE-USA
+3240	3249	демократы	демократы	PER	ORG-Democratic-Party-USA
+3343	3349	Трампу	Трамп	PER	PER-Donald-Trump
+3371	3377	Байден	Байден	PER	PER-Joe-Biden
+3388	3393	Трамп	Трамп	PER	PER-Donald-Trump
+3422	3432	Белом доме	Белый дом	ORG	ORG-The-White-House
+3539	3552	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+3617	3630	американского	американский	LOC	GPE-USA
+3651	3656	Трамп	Трамп	PER	PER-Donald-Trump
+3762	3768	Трампа	Трамп	PER	PER-Donald-Trump
+3910	3921	американцев	американцы	PER	GPE-USA
+3929	3935	Gallup	Gallup	ORG	ORG-American-Institute-of-Public-Opinion
+4018	4024	Трампа	Трамп	PER	PER-Donald-Trump
+4036	4058	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+4162	4168	Трампа	Трамп	PER	PER-Donald-Trump
+4193	4200	Байдена	Байден	PER	PER-Joe-Biden
+4249	4255	Байден	Байден	PER	PER-Joe-Biden
+4278	4293	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+4425	4440	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+4541	4548	Байдена	Байден	PER	PER-Joe-Biden
+4619	4624	Трамп	Трамп	PER	PER-Donald-Trump
+4712	4719	Америка	Америка	LOC	GPE-USA
+5008	5013	Трамп	Трамп	PER	PER-Donald-Trump
+5118	5125	Америка	Америка	LOC	GPE-USA
+5193	5202	USA Today	USA Today	PRO	PRO-USA-Today
+5233	5245	американском	американский	LOC	GPE-USA
+5439	5454	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+5467	5484	Капитолия Аризоны	Капитолий Аризоны	ORG	ORG-Arizona-Capitol-Museum
+5516	5524	Марикопа	Марикоп	LOC	GPE-Maricopa-County
+5527	5534	Фениксе	Феникс	LOC	GPE-Phoenix
+5625	5632	Денвере	Дендвер	LOC	GPE-Denver
+5723	5732	Портленде	Портленд	LOC	GPE-Portland
+5739	5745	Орегон	Орегон	LOC	GPE-Oregon
+5788	5808	Национальная гвардия	Национальная гвардия	ORG	ORG-United-States-National-Guard
+5857	5866	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+5973	5983	Манхэттене	Манхэттен	LOC	LOC-Manhattan
+6113	6120	Twitter	Twitter	PRO	PRO-Twitter
+6295	6301	Трампа	Трамп	PER	PER-Donald-Trump
+6357	6363	Неваде	Невада	LOC	GPE-Nevada
+6547	6553	Невады	Невада	LOC	GPE-Nevada
+6658	6663	Брукс	Брукс	PER	PER-Mo-Brooks
+6681	6688	Флориде	Флорида	LOC	GPE-Florida
+6708	6722	республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+6967	6980	республиканцу	республиканец	PER	ORG-Republican-Party-USA
+6981	6993	Джорджу Бушу	Джордж Буш	PER	PER-George-Bush-Jr
+7013	7037	«Актуальные комментарии»	«Актуальные комментарии»	PRO	PRO-Actual-Comments

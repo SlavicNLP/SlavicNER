@@ -1,0 +1,16 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+60	71	Bílého domu	Bílý dům	LOC	LOC-White-House
+101	104	USA	USA	LOC	GPE-USA
+105	117	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+134	145	koronavirem	koronavirus	EVT	EVT-Covid-19
+206	214	covid-19	covid-19	EVT	EVT-Covid-19
+243	248	Trump	Trump	PER	PER-Donald-Trump
+314	326	Joem Bidenem	Joe Biden	PER	PER-Joe-Biden
+330	340	Bílém domě	Bílý dům	LOC	LOC-White-House
+399	405	Bidena	Biden	PER	PER-Joe-Biden
+418	423	Trump	Trump	PER	PER-Donald-Trump
+534	549	Oválné pracovně	Oválná pracovna	LOC	LOC-Oval-Office
+752	763	Projekt 538	Projekt 538	PRO	PRO-Project-538
+831	840	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+950	958	Trumpově	Trump	PER	PER-Donald-Trump
+971	989	Hillary Clintonové	Hillary Clintonová	PER	PER-Hillary-Clinton

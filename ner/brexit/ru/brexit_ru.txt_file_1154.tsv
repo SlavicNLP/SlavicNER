@@ -1,0 +1,36 @@
+12	27	британского МИД	британский МИД	ORG	ORG-Foreign-Office
+37	45	Джонсона	Джонсон	PER	PER-Boris-Johnson
+69	78	Скрипалей	Скрипали	PER	PER-Skripals
+89	104	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+139	153	Великобритании	Великобритания	LOC	GPE-Great-Britain
+216	224	Солсбери	Солсбери	LOC	GPE-Salisbury
+235	243	Sky News	Sky News	PRO	PRO-Sky-News-TV
+245	257	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+296	304	Джонсона	Джонсон	PER	PER-Boris-Johnson
+335	349	Великобритании	Великобритания	LOC	GPE-Great-Britain
+389	392	ГРУ	ГРУ	ORG	ORG-GRU-(Russian-GU)
+393	408	Сергея Скрипаля	Сергей Скрипаль	PER	PER-Siergiej-Skripal
+447	451	Хант	Хант	PER	PER-Jeremy-Hunt
+476	483	Лондона	Лондон	LOC	GPE-London
+496	511	британского МИД	британский МИД	ORG	ORG-Foreign-Office
+544	554	британской	британский	LOC	GPE-Great-Britain
+595	609	Великобритании	Великобритания	LOC	GPE-Great-Britain
+662	672	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+751	759	Брюсселе	Брюссель	LOC	GPE-Brussles
+785	809	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+813	815	ЕС	ЕС	ORG	ORG-European-Union
+830	843	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+901	904	Мэй	Мэй	PER	PER-Theresa-May
+923	929	Brexit	Brexit	EVT	EVT-Brexit
+992	998	Brexit	Brexit	EVT	EVT-Brexit
+999	1010	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1067	1077	британских	британский	LOC	GPE-Great-Britain
+1121	1133	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+1152	1155	МИД	МИД	ORG	ORG-Foreign-Office
+1156	1171	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1182	1187	Ханат	Хант	PER	PER-Jeremy-Hunt
+1250	1261	Мэтт Хэнкок	Мэтт Хэнкок	PER	PER-Matthew-Hancock
+1291	1297	Англии	Англия	LOC	GPE-England
+1300	1306	Уэльса	Уэльс	LOC	GPE-Wales
+1307	1319	Джереми Райт	Джереми Райт	PER	PER-Jeremy-Wright
+1343	1354	Минкультуры	Минкультуры	ORG	ORG-Ministry-of-Culture-UK

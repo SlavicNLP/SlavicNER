@@ -1,0 +1,29 @@
+132	135	EBC	EBC	ORG	ORG-European-Central-Bank
+142	149	Brexitu	Brexit	EVT	EVT-Brexit
+186	197	Wall Street	Wall Street	LOC	LOC-Wall-Street
+317	321	Azji	Azja	LOC	LOC-Asia
+495	499	FOMC	FOMC	ORG	ORG-FOMC
+570	584	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+625	634	Biały Dom	Biały Dom	LOC	LOC-White-House
+697	701	Chin	Chiny	LOC	GPE-China
+799	805	Trumpa	Trump	PER	PER-Donald-Trump
+882	885	USA	USA	LOC	GPE-USA
+887	896	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+926	932	Trumpa	Trump	PER	PER-Donald-Trump
+979	982	USA	USA	LOC	GPE-USA
+1002	1006	Chin	Chiny	LOC	GPE-China
+1246	1249	Fed	Fed	ORG	ORG-Fed
+1483	1487	FOMC	FOMC	ORG	ORG-FOMC
+1830	1832	UE	UE	ORG	ORG-European-Union
+1835	1852	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1914	1922	Brexitem	Brexit	EVT	EVT-Brexit
+1969	1977	Irlandią	Irlandia	LOC	GPE-Ireland
+2185	2202	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2268	2271	BoE	BoE	ORG	ORG-Bank-of-England
+2307	2310	EBC	EBC	ORG	ORG-European-Central-Bank
+2369	2372	EBC	EBC	ORG	ORG-European-Central-Bank
+2449	2452	EBC	EBC	ORG	ORG-European-Central-Bank
+2596	2609	Rada Prezesów	Rada Prezesów	ORG	ORG-EBC-Governing-Council
+2931	2934	EBC	EBC	ORG	ORG-European-Central-Bank
+3051	3055	FOMC	FOMC	ORG	ORG-FOMC
+3123	3126	Fed	Fed	ORG	ORG-Fed

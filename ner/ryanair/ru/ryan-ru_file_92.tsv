@@ -1,0 +1,22 @@
+21	27	Европе	Европа	LOC	LOC-Europe
+56	63	Ryanair	Ryanair	ORG	ORG-Ryanair
+90	96	Европе	Европа	LOC	LOC-Europe
+135	142	Райнэйр	Райнэйр	ORG	ORG-Ryanair
+274	290	Татьяна Логунова	Татьяна Логунова	PER	PER-Tatiana-Logunova
+312	319	Берлина	Берлин	LOC	GPE-Berlin
+322	331	Барселону	Барселона	LOC	GPE-Barcelona
+361	364	Рим	Рим	LOC	GPE-Rome
+366	374	Брюссель	Брюссель	LOC	GPE-Brussles
+376	382	Лондон	Лондон	LOC	GPE-London
+458	465	Райнэйр	Райнэйр	ORG	ORG-Ryanair
+779	794	Александр Кусто	Александр Кусто	PER	PER-Aleksandr-Kusto
+948	964	Марлен Траутнитц	Марлен Траутнитц	PER	PER-Marlen-Trautnits
+1072	1080	Германии	Германия	LOC	GPE-Germany
+1104	1110	Швеции	Швеция	LOC	GPE-Sweden
+1112	1119	Бельгии	Бельгия	LOC	GPE-Belgium
+1122	1130	Ирландии	Ирландия	LOC	GPE-Ireland
+1523	1530	Ryanair	Ryanair	ORG	ORG-Ryanair
+1533	1540	Испании	Испания	LOC	GPE-Spain
+1542	1552	Португалии	Португалия	LOC	GPE-Portugal
+1554	1561	Бельгии	Бельгия	LOC	GPE-Belgium
+1564	1570	Италии	Италия	LOC	GPE-Italy

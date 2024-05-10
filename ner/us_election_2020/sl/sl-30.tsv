@@ -1,0 +1,37 @@
+56	65	Američani	Američani	PER	GPE-USA
+205	214	Američani	Američani	PER	GPE-USA
+244	260	Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+274	287	Joejem Bidnom	Joe Biden	PER	PER-Joe-Biden
+315	327	koronavirusa	koronavirus	EVT	EVT-Covid-19
+356	359	ZDA	ZDA	LOC	GPE-USA
+431	448	Združenih državah	Združene države	LOC	GPE-USA
+449	456	Amerike	Amerika	LOC	GPE-USA
+521	530	Atlantika	Atlantik	LOC	LOC-Atlantic-Ocean
+672	684	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+758	767	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+855	861	Trumpu	Trump	PER	PER-Donald-Trump
+914	929	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+998	1001	ZDA	ZDA	LOC	GPE-USA
+1010	1020	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+1244	1256	Bill Clinton	Bill Clinton	PER	PER-Bill-Clinton
+1292	1303	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+1399	1404	Bidnu	Biden	PER	PER-Joe-Biden
+1467	1472	Trump	Trump	PER	PER-Donald-Trump
+1488	1491	ZDA	ZDA	LOC	GPE-USA
+1639	1650	Kalifornija	Kalifornija	LOC	GPE-California
+1675	1682	Aljaska	Aljaska	LOC	GPE-Alaska
+1683	1691	Delaware	Delaware	LOC	GPE-Delaware
+1704	1712	Columbia	Columbia	LOC	GPE-Columbia
+1714	1721	Montana	Montana	LOC	GPE-Montana-US-State
+1723	1730	Severna	Severna	LOC	GPE-North-Dakota
+1734	1746	Južna Dakota	Južna Dakota	LOC	GPE-South-Dakota-US-State
+1747	1754	Vermont	Vermont	LOC	GPE-Vermont
+1758	1765	Wyoming	Wyoming	LOC	GPE-Wyoming
+1888	1891	ZDA	ZDA	LOC	GPE-USA
+1924	1939	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1975	1981	Trumpa	Trump	PER	PER-Donald-Trump
+2039	2044	Trump	Trump	PER	PER-Donald-Trump
+2099	2106	Ameriko	Amerika	LOC	GPE-USA
+2108	2113	Biden	Biden	PER	PER-Joe-Biden
+2163	2166	ZDA	ZDA	LOC	GPE-USA
+2233	2247	Barackom Obamo	Barack Obama	PER	PER-Barack-Obama

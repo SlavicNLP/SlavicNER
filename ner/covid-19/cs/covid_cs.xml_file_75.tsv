@@ -1,0 +1,38 @@
+0	11	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+44	46	ČR	ČR	LOC	GPE-Czech-Republic
+49	56	Vojtěch	Vojtěch	PER	PER-Adam-Vojtěch
+87	97	Milan Šmid	Milan Šmid	PER	PER-Milan-Smid
+144	152	Gatesovo	Gates	PER	PER-Bill-Gates
+262	265	WHO	WHO	ORG	ORG-World-Health-Organization
+308	315	Tamiflu	Tamiflu	PRO	PRO-Tamfilu-Oseltamivir
+347	352	Roche	Roche Holding	ORG	ORG-Roche-Holding
+418	424	Gatese	Gates	PER	PER-Bill-Gates
+428	437	Good Club	Good Club	ORG	ORG-Good-Club-Gates
+504	510	Forbes	Forbes	PRO	PRO-Forbes
+523	531	Gatesova	Gates	PER	PER-Bill-Gates
+547	552	Roche	Roche Holding	ORG	ORG-Roche-Holding
+594	613	Foundation Medicine	Foundation Medicine	ORG	ORG-Foundation-Medicine
+680	689	Genentech	Genentech	ORG	ORG-Genetech
+751	759	Novartis	Novartis	ORG	ORG-Novartis
+762	769	Celgene	Celgene	ORG	ORG-Celgene
+848	854	Forbes	Forbes	PRO	PRO-Forbes
+895	900	Gates	Gates	PER	PER-Bill-Gates
+912	917	Roche	Roche Holding	ORG	ORG-Roche-Holding
+1073	1092	Foundation Medicine	Foundation Medicine	ORG	ORG-Foundation-Medicine
+1154	1160	Gatese	Gates	PER	PER-Bill-Gates
+1179	1182	WHO	WHO	ORG	ORG-World-Health-Organization
+1186	1228	Globální aliance pro vakcinaci a imunizaci	Globální aliance pro vakcinaci a imunizaci	ORG	ORG-Global-Aliance-for-vaccination
+1230	1234	GAVI	GAVI	ORG	ORG-Gavi
+1254	1261	Gatesem	Gates	PER	PER-Bill-Gates
+1269	1277	Gatesovy	Gates	PER	PER-Bill-Gates
+1308	1312	CEPI	CEPI	ORG	ORG-Coalition-for-Epidemic-Preparedness-Innovations
+1374	1380	Gatese	Gates	PER	PER-Bill-Gates
+1394	1405	koronavirus	koronavirus	EVT	EVT-Covid-19
+1477	1481	CNBC	CNBC	PRO	PRO-CNBC
+1482	1513	fond Billa a Melindy Gatesových	fond Billa a Melindy Gatesových	ORG	ORG-Bill-and-Melinda-Gates-fund
+1568	1578	koronaviru	koronavirus	EVT	EVT-Covid-19
+1753	1772	Foundation Medicine	Foundation Medicine	ORG	ORG-Foundation-Medicine
+1787	1792	Gates	Gates	PER	PER-Bill-Gates
+1979	1983	Šiva	Šiva	PER	PER-Shiva-Azzadurai
+1986	2001	Shiva Ayyadurai	Shiva Ayyadurai	PER	PER-Shiva-Azzadurai
+2028	2068	Massachusettské technologické universitě	Massachusettská technologická universita	ORG	ORG-MIT-Massachusetts-Institue-of-Technology

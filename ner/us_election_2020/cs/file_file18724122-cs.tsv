@@ -1,0 +1,11 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+42	47	Trump	Trump	PER	PER-Donald-Trump
+74	102	Spojených státech amerických	Spojené státy americké	LOC	GPE-USA
+150	172	Sněmovny reprezentantů	Sněmovna reprezentantů	ORG	ORG-House-of-Representatives(USA)
+181	187	Senátu	Senát	ORG	ORG-United-States-Senate
+207	221	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+250	262	Joem Bidenem	Joe Biden	PER	PER-Joe-Biden
+314	319	Biden	Biden	PER	PER-Joe-Biden
+355	364	Michiganu	Michigan	LOC	GPE-Michigan
+366	371	Trump	Trump	PER	PER-Donald-Trump
+396	407	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania

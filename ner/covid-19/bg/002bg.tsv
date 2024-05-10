@@ -1,0 +1,14 @@
+0	8	Интерпол	Интерпол	ORG	ORG-Interpol
+38	49	коронавирус	коронавирус	EVT	EVT-Covid-19
+110	118	COVID-19	COVID-19	EVT	EVT-Covid-19
+198	206	Интерпол	Интерпол	ORG	ORG-Interpol
+533	541	Интерпол	Интерпол	ORG	ORG-Interpol
+730	742	коронавируса	коронавирус	EVT	EVT-Covid-19
+806	814	COVID-19	COVID-19	EVT	EVT-Covid-19
+969	977	Интерпол	Интерпол	ORG	ORG-Interpol
+978	987	Юрген Щок	Юрген Щок	PER	PER-Yurgen-Shtok
+1016	1024	COVID-19	COVID-19	EVT	EVT-Covid-19
+1098	1109	Южна Африка	Южна Африка	LOC	GPE-Republic-of-South-Africa
+1127	1131	Азия	Азия	LOC	LOC-Asia
+1388	1396	Интерпол	Интерпол	ORG	ORG-Interpol
+1481	1486	Opson	Opson	EVT	EVT-Opson

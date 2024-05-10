@@ -1,0 +1,11 @@
+0	8	Германия	Германия	LOC	GPE-Germany
+51	68	“Северен поток“ 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+88	94	Любмин	Любмин	LOC	GPE-Lubmin
+146	163	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+174	177	ДПА	ДПА	ORG	ORG-DPA
+310	317	Газпром	Газпром	ORG	ORG-Gazprom
+356	362	Берлин	Берлин	LOC	GPE-Berlin
+421	434	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+454	463	Финландия	Финландия	LOC	GPE-Finland
+522	528	Швеция	Швеция	LOC	GPE-Sweden
+530	535	Дания	Дания	LOC	GPE-Denmark

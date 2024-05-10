@@ -1,0 +1,59 @@
+16	24	Brexicie	Brexit	EVT	EVT-Brexit
+26	32	Londyn	Londyn	LOC	GPE-London
+47	53	Brexit	Brexit	EVT	EVT-Brexit
+70	93	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+141	160	Republiką Irlandzką	Republika Irlandzka	LOC	GPE-Ireland
+193	201	Bruksela	Bruksela	LOC	GPE-Brussles
+204	210	Dublin	Dublin	LOC	GPE-Dublin
+486	493	Brexitu	Brexit	EVT	EVT-Brexit
+581	589	Irlandii	Irlandia	LOC	GPE-Ireland
+590	596	Londyn	Londyn	LOC	GPE-London
+768	776	Irlandii	Irlandia	LOC	GPE-Ireland
+778	790	Leo Varadkar	Leo Varadkar	PER	PER-Leo-Varadkar
+802	817	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+890	894	Unii	Unia	ORG	ORG-European-Union
+896	911	Michael Barnier	Michael Barnier	PER	PER-Michel-Barnier
+947	955	Irlandii	Irlandia	LOC	GPE-Ireland
+970	981	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1024	1028	Unii	Unia	ORG	ORG-European-Union
+1099	1107	Varadkar	Varadkar	PER	PER-Leo-Varadkar
+1110	1117	Barnier	Barnier	PER	PER-Michel-Barnier
+1166	1174	Irlandii	Irlandia	LOC	GPE-Ireland
+1186	1193	Brexitu	Brexit	EVT	EVT-Brexit
+1212	1219	Dundalk	Dundalk	LOC	GPE-Dundalk
+1289	1297	Irlandią	Irlandia	LOC	GPE-Ireland
+1301	1318	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+1611	1629	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+1673	1684	Theresa May	Theresa May	PER	PER-Theresa-May
+1766	1770	Unia	Unia	ORG	ORG-European-Union
+1824	1832	Bruksela	Bruksela	LOC	GPE-Brussles
+1969	1977	Irlandii	Irlandia	LOC	GPE-Ireland
+2034	2040	Londyn	Londyn	LOC	GPE-London
+2321	2329	Irlandii	Irlandia	LOC	GPE-Ireland
+2331	2344	Simon Coveney	Simon Coveney	PER	PER-Simon-Coveney
+2501	2519	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+2524	2542	Republice Irlandii	Republika Irlandii	LOC	GPE-Ireland
+2698	2705	Coveney	Coveney	PER	PER-Simon-Coveney
+2716	2724	Irlandia	Irlandia	LOC	GPE-Ireland
+2778	2785	Brexitu	Brexit	EVT	EVT-Brexit
+2817	2821	Unii	Unia	ORG	ORG-European-Union
+2914	2922	Irlandią	Irlandia	LOC	GPE-Ireland
+2926	2934	Ulsterem	Ulster	LOC	GPE-Ulster
+3254	3265	Irlandczycy	Irlandczycy	PER	GPE-Ireland
+3355	3363	Irlandii	Irlandia	LOC	GPE-Ireland
+3615	3628	Davida Davisa	David Davis	PER	PER-David-Davis
+3665	3673	Brukselę	Bruksela	LOC	GPE-Brussles
+3778	3792	Ciaran Shannon	Ciaran Shannon	PER	PER-Ciaran-Shannon
+3803	3833	Duncairn Community Partnership	Duncairn Community Partnership	ORG	ORG-Duncairn-Community-Partnership
+3917	3926	Belfaście	Belfast	LOC	GPE-Belfast
+3975	3987	Irlandczyków	Irlandczycy	PER	GPE-Ireland
+4123	4129	Brexit	Brexit	EVT	EVT-Brexit
+4206	4213	Shannon	Shannon	PER	PER-Ciaran-Shannon
+4399	4407	Belfastu	Belfast	LOC	GPE-Belfast
+4511	4529	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+4555	4567	The Troubles	The Troubles	EVT	EVT-The-Troubles
+4577	4587	Niepokojów	Niepokoje	EVT	EVT-The-Troubles
+4708	4719	Brian McKee	Brian McKee	PER	PER-Brian-McKee
+4732	4745	Houben Centre	Houben Centre	ORG	ORG-Houben-Centre
+4873	4879	Brexit	Brexit	EVT	EVT-Brexit
+5084	5092	Brexitem	Brexit	EVT	EVT-Brexit

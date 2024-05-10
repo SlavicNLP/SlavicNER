@@ -1,0 +1,36 @@
+0	7	Gazprom	Gazprom	ORG	ORG-Gazprom
+33	42	Ukrajinou	Ukrajina	LOC	GPE-Ukraine
+86	93	Gazprom	Gazprom	ORG	ORG-Gazprom
+114	123	Naftogazu	Naftogaz	ORG	ORG-Naftogaz
+281	294	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+302	316	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+318	325	Gazprom	Gazprom	ORG	ORG-Gazprom
+328	336	Naftogaz	Naftogaz	ORG	ORG-Naftogaz
+414	435	stockholmská arbitráž	stockholmská arbitráž	ORG	ORG-Stockholm-Chamber-of-Commerce
+445	453	Naftogaz	Naftogaz	ORG	ORG-Naftogaz
+553	561	Gazpromu	Gazprom	ORG	ORG-Gazprom
+649	656	Gazprom	Gazprom	ORG	ORG-Gazprom
+659	669	Naftogazem	Naftogaz	ORG	ORG-Naftogaz
+782	789	Gazprom	Gazprom	ORG	ORG-Gazprom
+852	858	Evropy	Evropa	LOC	LOC-Europe
+896	903	Gazprom	Gazprom	ORG	ORG-Gazprom
+910	919	Naftogazu	Naftogaz	ORG	ORG-Naftogaz
+945	953	Gazpromu	Gazprom	ORG	ORG-Gazprom
+954	967	Alexej Miller	Alexej Miller	PER	PER-Aleksey-Miller
+1056	1064	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+1115	1124	Ukrajinou	Ukrajina	LOC	GPE-Ukraine
+1129	1136	Gazprom	Gazprom	ORG	ORG-Gazprom
+1188	1195	Gazprom	Gazprom	ORG	ORG-Gazprom
+1207	1215	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+1224	1233	Naftogazu	Naftogaz	ORG	ORG-Naftogaz
+1304	1312	Naftogaz	Naftogaz	ORG	ORG-Naftogaz
+1339	1345	Evropě	Evropa	LOC	LOC-Europe
+1373	1383	Kommersant	Kommersant	PRO	PRO-Kommersant
+1529	1536	Gazprom	Gazprom	ORG	ORG-Gazprom
+1591	1604	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1606	1613	Německo	Německo	LOC	GPE-Germany
+1615	1621	Dánsko	Dánsko	LOC	GPE-Denmark
+1623	1630	Švédsko	Švédsko	LOC	GPE-Sweden
+1633	1639	Finsko	Finsko	LOC	GPE-Finland
+1719	1726	Gazprom	Gazprom	ORG	ORG-Gazprom
+1785	1795	Kommersant	Kommersant	PRO	PRO-Kommersant

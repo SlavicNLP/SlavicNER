@@ -1,0 +1,24 @@
+42	48	Трампа	Трам	PER	PER-Donald-Trump
+87	105	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+138	149	Джон Болтон	Джон Болтон	PER	PER-John-Bolton
+160	179	Британских островах	Британские острова	LOC	GPE-Great-Britain
+225	246	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+269	287	Европейского союза	Европейский союз	ORG	ORG-European-Union
+289	295	Brexit	Brexit	EVT	EVT-Brexit
+373	380	Болтона	Болтон	PER	PER-John-Bolton
+399	449	Европейской исследовательской группы евроскептиков	Европейская исследовательская группа евроскептиков	ORG	ORG-European-Research-Group
+513	526	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+551	557	Англии	Англия	LOC	GPE-Great-Britain
+567	569	EC	ЕС	ORG	ORG-European-Union
+617	625	Лондоном	Лондон	LOC	GPE-London
+648	657	Брексита.	Брексит	EVT	EVT-Brexit
+754	760	Англии	Англия	LOC	GPE-Great-Britain
+764	782	Европейского союза	Европейский союз	ORG	ORG-European-Union
+800	810	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+849	857	Лондоном	Лондон	LOC	GPE-London
+864	872	брексита	брексит	EVT	EVT-Brexit
+911	917	Болтон	Болтон	PER	PER-John-Bolton
+992	1008	Марком Седвиллом	Марк Седвилл	PER	PER-Mark-Sedwill
+1102	1108	Англии	Англия	LOC	GPE-Great-Britain
+1112	1114	ЕС	ЕС	ORG	ORG-European-Union
+1138	1146	Брюсселе	Брюссель	LOC	GPE-Brussles

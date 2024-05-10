@@ -1,0 +1,14 @@
+21	29	COVID-19	COVID-19	EVT	EVT-Covid-19
+40	48	пандемію	пандемія	EVT	EVT-Covid-19
+53	57	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+137	145	пандемію	пандемія	EVT	EVT-Covid-19
+172	209	Європейського регіонального бюро ВООЗ	Європейське регіональне бюро ВООЗ	ORG	ORG-WHO-Regional-Office-for-Europe
+210	220	Ганс Клюге	Ганс Клюге	PER	PER-Hans-Kluge
+230	239	Укрінформ	Укрінформ	ORG	ORG-Ukrinform
+275	279	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+351	359	пандемію	пандемія	EVT	EVT-Covid-19
+474	483	пандемією	пандемія	EVT	EVT-Covid-19
+648	656	пандемії	пандемія	EVT	EVT-Covid-19
+801	805	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+883	889	Європи	Європа	LOC	LOC-Europe
+1102	1107	Клюге	Клюге	PER	PER-Hans-Kluge

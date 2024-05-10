@@ -1,0 +1,50 @@
+1	9	Райънеър	Райънеър	ORG	ORG-Ryanair
+26	32	Бургас	Бургас	LOC	GPE-Burgas
+51	56	София	София	LOC	GPE-Sofia
+59	64	Акаба	Акаба	LOC	GPE-Aqaba
+67	75	Райънеър	Райънеър	ORG	ORG-Ryanair
+122	128	Бургас	Бургас	LOC	GPE-Burgas
+148	153	София	София	LOC	GPE-Sofia
+154	159	Акаба	Акаба	LOC	GPE-Aqaba
+161	169	Йордания	Йордания	LOC	GPE-Jordan
+301	308	Пловдив	Пловдив	LOC	GPE-Plovdiv
+343	348	София	София	LOC	GPE-Sofia
+384	389	Варна	Варна	LOC	GPE-Varna
+467	479	Червено море	Червено море	LOC	LOC-Red-Sea
+482	490	Йордания	Йордания	LOC	GPE-Jordan
+549	554	Акаба	Акаба	LOC	GPE-Aqaba
+786	792	Бургас	Бургас	LOC	GPE-Burgas
+811	819	Райънеър	Райънеър	ORG	ORG-Ryanair
+1121	1129	Райънеър	Райънеър	ORG	ORG-Ryanair
+1621	1629	Райънеър	Райънеър	ORG	ORG-Ryanair
+1631	1645	Майкъл О'Лиъри	Майкъл О'Лиъри	PER	PER-Michael-O'Leary
+1849	1863	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1907	1915	Райънеър	Райънеър	ORG	ORG-Ryanair
+2093	2100	Франция	Франция	LOC	GPE-France
+2103	2114	Скандинавия	Скандинавия	LOC	LOC-Nordic-Countries
+2121	2135	Майкъл О'Лиъри	Майкъл О'Лиъри	PER	PER-Michael-O'Leary
+2342	2344	ЕС	ЕС	ORG	ORG-European-Union
+2347	2354	Брекзит	Брекзит	EVT	EVT-Brexit
+2724	2732	Райънеър	Райънеър	ORG	ORG-Ryanair
+3201	3209	Райънеър	Райънеър	ORG	ORG-Ryanair
+3489	3506	Боинг 737-MAX-200	Боинг 737-MAX-200	PRO	PRO-Boeing-737-Max-200
+3510	3518	Райънеър	Райънеър	ORG	ORG-Ryanair
+3893	3900	Брекзит	Брекзит	EVT	EVT-Brexit
+3969	3983	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4040	4060	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+4063	4065	ЕС	ЕС	ORG	ORG-European-Union
+4149	4163	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4166	4168	ЕС	ЕС	ORG	ORG-European-Union
+4213	4221	Райънеър	Райънеър	ORG	ORG-Ryanair
+4355	4363	Райънеър	Райънеър	ORG	ORG-Ryanair
+4432	4452	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+4528	4542	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4546	4548	ЕС	ЕС	ORG	ORG-European-Union
+4682	4690	Райънеър	Райънеър	ORG	ORG-Ryanair
+4754	4761	Брекзит	Брекзит	EVT	EVT-Brexit
+4874	4888	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4891	4908	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+4952	4960	Райънеър	Райънеър	ORG	ORG-Ryanair
+4988	4995	Брекзит	Брекзит	EVT	EVT-Brexit
+5198	5205	Ryanair	Ryanair	ORG	ORG-Ryanair
+5463	5469	Мадрид	Мадрид	LOC	GPE-Madrid

@@ -1,0 +1,30 @@
+0	5	Китай	Китай	LOC	GPE-China
+79	88	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+118	126	Facebook	Facebook	PRO	PRO-Facebook
+129	136	Twitter	Twitter	PRO	PRO-Twitter
+145	148	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+149	152	UPG	UPG	ORG	ORG-UPG
+155	160	Китай	Китай	LOC	GPE-China
+248	257	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+322	349	група China National Biotec	група China National Biotec	ORG	GPE-CNBG-China
+351	355	CNBG	CNBG	ORG	ORG-CNBG-China
+372	381	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+402	450	державним управлінням з лікарських засобів Китаю	державне управлінням з лікарських засобів Китаю	ORG	ORG-National-Medical-Products-Administration-China
+473	479	Хinhua	Хinhua	ORG	ORG-Xinhua
+569	575	ковіду	ковід	EVT	EVT-Covid-19
+578	581	КНР	КНР	LOC	GPE-China
+647	652	Китаї	Китай	LOC	GPE-China
+690	699	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+867	907	Всесвітньої організації охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+916	921	Китаю	Китай	LOC	GPE-China
+965	968	ОАЕ	ОАЕ	LOC	GPE-UEA-United-Arab-Emirates
+970	978	Бахрейні	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+980	988	Йорданії	Йорданія	LOC	GPE-Jordan
+990	994	Перу	Перу	LOC	GPE-Peru
+998	1007	Аргентині	Аргентина	LOC	GPE-Argentina
+1011	1019	Бахрейні	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+1022	1025	ОАЕ	ОАЕ	LOC	GPE-UEA-United-Arab-Emirates
+1067	1072	Китаї	Китай	LOC	GPE-China
+1223	1232	CоronaVac	CоronaVac	PRO	PRO-CoronaVac
+1237	1252	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+1410	1419	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm

@@ -1,0 +1,8 @@
+0	12	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+87	99	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+176	202	prezidentských voleb v USA	prezidentské volby v USA	EVT	EVT-2020-United-States-Presidential-Election
+246	257	Bílého domu	Bílý dům	LOC	LOC-White-House
+292	299	Reuters	Reuters	ORG	ORG-Reuters
+411	414	USA	USA	LOC	GPE-USA
+445	450	Trump	Trump	PER	PER-Donald-Trump
+601	610	Kongresem	Kongres	ORG	ORG-United-States-Congress

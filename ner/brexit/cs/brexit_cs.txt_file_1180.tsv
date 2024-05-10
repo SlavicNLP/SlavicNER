@@ -1,0 +1,31 @@
+3	10	brexitu	brexit	EVT	EVT-Brexit
+20	28	Británie	Británie	LOC	GPE-Great-Britain
+60	66	Macron	Macron	PER	PER-Emmanuel-Macron
+92	107	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+115	121	Paříži	Paříž	LOC	GPE-Paris
+139	153	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+169	182	Evropské unie	Evropská unie	ORG	ORG-European-Union
+184	186	EU	EU	ORG	ORG-European-Union
+283	285	EU	EU	ORG	ORG-European-Union
+288	295	Turecku	Turecko	LOC	GPE-Turkey
+337	347	labouristé	labouristé	PER	ORG-Labour-Party-UK
+373	380	Londýně	Londýn	LOC	GPE-London
+383	389	Macron	Macron	PER	PER-Emmanuel-Macron
+433	450	Ernou Solbergovou	Erna Solberg	PER	PER-Erna-Solberg
+547	555	Británii	Británie	LOC	GPE-Great-Britain
+584	586	EU	EU	ORG	ORG-European-Union
+643	651	Liam Fox	Liam Fox	PER	PER-Liam-Fox
+699	707	Británie	Británie	LOC	GPE-Great-Britain
+761	772	euractiv.cz	euractiv.cz	PRO	PRO-Euractiv.cz
+784	794	labouristů	labouristé	PER	ORG-Labour-Party-UK
+795	808	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+898	906	Británií	Británie	LOC	GPE-Great-Britain
+909	911	EU	EU	ORG	ORG-European-Union
+961	967	Londýn	Londýn	LOC	GPE-London
+1022	1029	Macrona	Macron	PER	PER-Emmanuel-Macron
+1085	1093	Británie	Británie	LOC	GPE-Great-Britain
+1107	1109	EU	EU	ORG	ORG-European-Union
+1119	1125	Norsko	Norsko	LOC	GPE-Norway
+1193	1207	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+1215	1229	Evropskou unii	Evropská unie	ORG	ORG-European-Union
+1268	1275	brexitu	brexit	EVT	EVT-Brexit

@@ -1,0 +1,55 @@
+0	8	Vystrčil	Vystrčil	PER	PER-Milos-Vystrcil
+17	25	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+53	68	polského Senátu	polský Senát	ORG	ORG-Senate-of-the-Republic-of-Poland
+70	75	Praha	Praha	LOC	GPE-Prague
+82	88	Senátu	Senát	ORG	ORG-Senate-of-the-Czech-Republic
+89	103	Miloš Vystrčil	Miloš Vystrčil	PER	PER-Milos-Vystrcil
+105	108	ODS	ODS	ORG	ORG-ODS-czech-political-party
+118	126	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+153	175	Nejvyšší rady Ukrajiny	Nejvyšší rady Ukrajiny	ORG	ORG-Supreme-Council-of-Ukraine
+186	189	ČTK	ČTK	ORG	ORG-CTK
+236	248	Jana Taušová	Jana Taušová	PER	PER-Jana-Tausova
+276	285	Vystrčila	Vystrčil	PER	PER-Milos-Vystrcil
+300	306	Senátu	Senát	ORG	ORG-Senate-of-the-Czech-Republic
+307	319	Jiří Růžička	Jiří Růžička	PER	PER-Jiri-Ruzicka
+321	327	TOP 09	TOP 09	ORG	ORG-TOP-09-political-party-CZ
+348	361	Pavel Fischer	Pavel Fischer	PER	PER-Pavel-Fischer
+411	428	Tomaszem Grodzkým	Tomasz Grodzký	PER	PER-Tomasz-Grodzki
+430	438	Vystrčil	Vystrčil	PER	PER-Milos-Vystrcil
+457	465	twitteru	twitter	PRO	PRO-Twitter
+575	580	Senát	Senát	ORG	ORG-Senate-of-the-Czech-Republic
+584	592	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+625	631	Kyjeva	Kyjev	LOC	GPE-Kiev
+646	656	Petr Fiala	Petr Fiala	PER	PER-Petr-Fiala
+658	661	ODS	ODS	ORG	ORG-ODS-czech-political-party
+718	739	Mateuszem Morawieckým	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+742	756	Janezem Janšou	Janez Janša	PER	PER-Janez-Janša
+783	804	Jaroslawem Kaczyńským	Jaroslaw Kaczyńský	PER	PER-Jaroslav-Kaczyński
+854	876	Volodymyrem Zelenskými	Volodymyr Zelenský	PER	PER-Volodymyr-Zelensky
+889	905	Denysem Šmyhalem	Denys Šmyhalov	PER	PER-Denys-Shmyhal
+943	951	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+961	966	Kyjev	Kyjev	LOC	GPE-Kiev
+989	1004	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+1005	1028	Ursula von der Leyenová	Ursula von der Leyenová	PER	PER-Ursula-von-der-Leyen
+1052	1065	Josep Borrell	Josep Borrell	PER	PER-Josep-Borrell
+1086	1098	Eduard Heger	Eduard Heger	PER	PER-Eduard-Heger
+1129	1142	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1161	1174	Karl Nehammer	Karl Nehammer	PER	PER-Karl-Nehammer
+1202	1207	Senát	Senát	ORG	ORG-Senate-of-the-Czech-Republic
+1254	1259	Rusko	Rusko	LOC	GPE-Russia
+1305	1313	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+1338	1362	Horní parlamentní komora	Horní parlamentní komora	ORG	ORG-Senate-of-the-Czech-Republic
+1510	1518	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+1522	1527	Ruska	Rusko	LOC	GPE-Russia
+1630	1636	Senátu	Sená	ORG	ORG-Senate-of-the-Czech-Republic
+1707	1715	Sněmovna	Sněmovna	ORG	ORG-Poslanecka-Snemovna-lower-Czech-Republic-
+1717	1726	Stefančuk	Stefančuk	PER	PER-Ruslan-Stefanchuk
+1790	1795	Česka	Česko	LOC	GPE-Czech-Republic
+1797	1806	Slovenska	Slovensko	LOC	GPE-Slovakia
+1809	1817	Rakouska	Rakousko	LOC	GPE-Austria
+1920	1929	Stefančuk	Stefančuk	PER	PER-Ruslan-Stefanchuk
+1945	1966	středoevropským zemím	středoevropské země	LOC	LOC-Central-Europe
+2025	2030	Česka	Česko	LOC	GPE-Czech-Republic
+2066	2075	Ukrajinců	Ukrajinci	PER	GPE-Ukraine
+2100	2123	ukrajinského parlamentu	ukrajinský parlament	ORG	ORG-Ukrainian-Parliament
+2167	2172	Rusku	Rusko	LOC	GPE-Russia

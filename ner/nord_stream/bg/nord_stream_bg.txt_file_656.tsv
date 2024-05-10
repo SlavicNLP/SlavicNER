@@ -1,0 +1,31 @@
+0	3	САЩ	САЩ	LOC	GPE-USA
+34	49	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+52	61	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+138	153	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+220	226	Европа	Европа	LOC	LOC-Europe
+321	329	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+362	383	Държавния департамент	Държавен департамент	ORG	ORG-Department-of-State-USA
+423	428	Русия	Русия	LOC	GPE-Russia
+551	565	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+610	655	За противодейстиве на противниците на Америка	За противодействие на противниците на Америка	PRO	PRO-CAATSA-Bill
+679	682	САЩ	САЩ	LOC	GPE-USA
+730	751	Royal Dutch Shell Plc	Royal Dutch Shell Plc	ORG	ORG-Royal-Dutch-Shell-BG-Group
+765	772	BASF SE	BASF SE	ORG	ORG-BASF-Holding
+775	786	Wintershall	Wintershall	ORG	ORG-Wintershall
+791	800	Uniper SE	Uniper SE	ORG	ORG-Uniper
+803	809	OMV AG	OMV AG	ORG	ORG-OMV
+812	820	Engie SA	Engie SA	ORG	ORG-Engie
+876	883	Газпром	Газпром	ORG	ORG-Gazprom
+886	889	САЩ	САЩ	LOC	GPE-USA
+904	911	Украйна	Украйна	LOC	GPE-Ukraine
+1019	1032	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+1049	1064	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1112	1121	Белия дом	Бял дом	LOC	LOC-White-House
+1233	1239	Европа	Европа	LOC	LOC-Europe
+1301	1306	Русия	Русия	LOC	GPE-Russia
+1309	1323	Каспийско море	Каспийско море	LOC	LOC-Caspian-Sea
+1325	1350	Източното Средиземноморие	Източно Средиземноморие	LOC	LOC-Eastern-Mediterranean
+1352	1357	Алжир	Алжир	LOC	GPE-Algeria
+1375	1378	САЩ	САЩ	LOC	GPE-USA
+1381	1390	Австралия	Австралия	LOC	GPE-Australia
+1401	1407	Дир.бг	Дир.бг	PRO	PRO-Dir.bg

@@ -1,0 +1,24 @@
+14	22	ковид-19	ковид-19	EVT	EVT-Covid-19
+92	100	ковид-19	ковид-19	EVT	EVT-Covid-19
+352	357	ковид	ковид	EVT	EVT-Covid-19
+1073	1078	ковид	ковид	EVT	EVT-Covid-19
+1350	1356	России	Россия	LOC	GPE-Russia
+1418	1426	россияне	россиянин	PER	GPE-Russia
+1604	1610	Африку	Африка	LOC	LOC-Africa
+1736	1740	Вася	Вася	PER	PER-Vasya
+1919	1924	ковид	ковид	EVT	EVT-Covid-19
+2196	2202	России	Россия	LOC	GPE-Russia
+2264	2272	россияне	россиянин	PER	GPE-Russia
+2450	2456	Африку	Африка	LOC	LOC-Africa
+2630	2636	Россия	Россия	LOC	GPE-Russia
+2644	2651	Африкой	Африка	LOC	LOC-Africa
+3586	3588	РФ	РФ	LOC	GPE-Russia
+3956	3965	Хабаровск	Хабаровск	LOC	GPE-Khabarovsk
+5233	5236	ИВЛ	ИВЛ	PRO	PRO-VENTILATOR
+7658	7670	коронавируса	коронавирус	EVT	EVT-Covid-19
+8494	8500	Россею	Россия	LOC	GPE-Russia
+10228	10233	ковид	ковид	EVT	EVT-Covid-19
+10573	10581	россияне	россиянин	PER	GPE-Russia
+10759	10765	Африку	Африка	LOC	LOC-Africa
+11250	11258	Woman.ru	Woman.ru	PRO	PRO-Woman-ru
+11725	11733	ковид 19	ковид 19	EVT	EVT-Covid-19

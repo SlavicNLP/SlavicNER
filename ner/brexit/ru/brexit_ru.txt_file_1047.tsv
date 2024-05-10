@@ -1,0 +1,39 @@
+6	18	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+19	26	Джонсон	Джонсон	PER	PER-Boris-Johnson
+50	56	Brexit	Brexit	EVT	EVT-Brexit
+61	67	Лондон	Лондон	LOC	GPE-London
+116	130	Великобритании	Великобритания	LOC	GPE-Great-Britain
+131	144	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+177	183	Brexit	Brexit	EVT	EVT-Brexit
+220	244	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+245	256	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+290	298	Британии	Британия	LOC	GPE-Great-Britain
+385	391	Brexit	Brexit	EVT	EVT-Brexit
+395	407	The Guardian	The Guardian	PRO	PRO-The-Guardian
+432	439	Джонсон	Джонсон	PER	PER-Boris-Johnson
+463	493	британским Кабинетом министров	британский Кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+623	638	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+749	755	Бориса	Борис	PER	PER-Boris-Johnson
+798	811	Даунинг-стрит	Даунинг-стрит	LOC	LOC-Downing-Street
+819	828	Джонсоном	Джонсон	PER	PER-Boris-Johnson
+882	888	Brexit	Brexit	EVT	EVT-Brexit
+889	900	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+921	958	Департаменте по выходу Британии из ЕС	Департамент по выходу Британии из ЕС	ORG	ORG-Ministry-of-Brexity
+959	970	Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+1002	1016	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1017	1029	Елизавета II	Елизавета II	PER	PER-Queen-Elizabeth-II
+1069	1093	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+1105	1123	Европейского Союза	Европейский Союз	ORG	ORG-European-Union
+1125	1149	Совет Европейского союза	Совет Европейского союза	ORG	ORG-European-Council
+1194	1208	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1219	1221	ЕС	ЕС	ORG	ORG-European-Union
+1304	1324	Европейская комиссия	Европейская комиссия	ORG	ORG-European-Commission
+1345	1401	Соглашения о выходе Великобритании из Европейского Союза	Соглашение о выходе Великобритании из Европейского Союза	PRO	PRO-Brexit-withdrawal-agreement
+1661	1670	Ирландией	Ирландия	LOC	GPE-Ireland
+1673	1691	Северной Ирландией	Северная Ирландия	LOC	GPE-Northern-Ireland
+1730	1740	Соглашения	Соглашение	PRO	PRO-Brexit-withdrawal-agreement
+1764	1773	Совету ЕС	Совет ЕС	ORG	ORG-European-Council
+1814	1837	Европейского парламента	Европейский парламент	ORG	ORG-European-Parliament
+1881	1904	Соединенное Королевство	Соединенное Королевство	LOC	GPE-Great-Britain
+1922	1945	Соединенное Королевство	Соединенное Королевство	LOC	GPE-Great-Britain
+1954	1970	Европейский Союз	Европейский Союз	ORG	ORG-European-Union

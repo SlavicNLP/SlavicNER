@@ -1,0 +1,29 @@
+0	6	Ławrow	Ławrow	PER	PER-Siergiej-Ławrow
+8	23	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+36	41	Rosję	Rosja	LOC	GPE-Russia
+82	87	Rosji	Rosja	LOC	GPE-Russia
+88	103	Siergiej Ławrow	Siergiej Ławrow	PER	PER-Sergey-Lavrov
+143	146	BBC	BBC	PRO	PRO-BBC
+208	214	Moskwą	Moskwa	LOC	GPE-Moscow
+217	225	Londynem	Londyn	LOC	GPE-London
+328	334	Ławrow	Ławrow	PER	PER-Siergiej-Ławrow
+369	382	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+420	429	Liz Truss	Liz Truss	PER	PER-Liz-Truss
+452	457	Rosję	Rosja	LOC	GPE-Russia
+473	478	Rosję	Rosja	LOC	GPE-Russia
+509	515	Moskwa	Moskwa	LOC	GPE-Moscow
+534	549	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+551	557	Ławrow	Ławrow	PER	PER-Siergiej-Ławrow
+752	758	Ławrow	Ławrow	PER	PER-Siergiej-Ławrow
+775	780	Rosja	Rosja	LOC	GPE-Russia
+797	804	Ukrainy	Ukraina	LOC	GPE-Ukraine
+812	820	Rosjanie	Rosjanie	PER	GPE-Russia
+861	876	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+923	928	Rosję	Rosja	LOC	GPE-Russia
+966	984	inwazję na Ukrainę	inwazja na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+986	992	Londyn	Londyn	LOC	GPE-London
+1004	1012	Kijowowi	Kijów	LOC	GPE-Kiev
+1100	1109	Liz Truss	Liz Truss	PER	PER-Liz-Truss
+1159	1164	Rosji	Rosja	LOC	GPE-Russia
+1168	1176	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1252	1260	Ukrainie	Ukraina	LOC	GPE-Ukraine

@@ -1,0 +1,18 @@
+20	22	PE	PE	ORG	ORG-European-Parliament
+27	33	Polski	Polska	LOC	GPE-Poland
+51	60	brexitowi	Brexit	EVT	EVT-Brexit
+62	64	PE	PE	ORG	ORG-European-Parliament
+89	118	Komisji Spraw Konstytucyjnych	Komisja Spraw Konstytucyjnych	ORG	ORG-AFCO-The-Committee-on-Constitutional-Affairs
+130	154	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+158	166	Brexicie	Brexit	EVT	EVT-Brexit
+257	263	Polsce	Polska	LOC	GPE-Poland
+484	486	PE	PE	ORG	ORG-European-Parliament
+571	573	UE	UE	ORG	ORG-European-Union
+681	695	europarlamentu	europarlament	ORG	ORG-European-Parliament
+733	735	PO	PO	ORG	ORG-PO-Civic-Platform
+736	749	Danuta Hübner	Danuta Hübner	PER	PER-Danuta-Hübner
+767	770	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+773	795	Komisji Konstytucyjnej	Komisja Konstytucyjna	ORG	ORG-Constitutional-Committee
+834	840	Polsce	Polska	LOC	GPE-Poland
+1013	1016	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+1084	1093	Radia Zet	Radio Zet	PRO	PRO-RadioZET

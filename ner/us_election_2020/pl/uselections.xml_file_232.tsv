@@ -1,0 +1,56 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+14	19	Biden	Biden	PER	PER-Joe-Biden
+46	55	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+56	69	Kamil Turecki	Kamil Turecki	PER	PER-Kamil-Turecki
+93	102	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+113	125	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+139	148	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+280	283	USA	USA	LOC	GPE-USA
+317	329	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+331	336	Biden	Biden	PER	PER-Joe-Biden
+348	357	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+359	368	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+466	476	demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+479	491	republikanów	republikanie	ORG	ORG-Republican-Party-USA
+521	533	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+662	671	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+682	687	Trump	Trump	PER	PER-Donald-Trump
+747	752	Biden	Biden	PER	PER-Joe-Biden
+865	870	Biden	Biden	PER	PER-Joe-Biden
+939	948	Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+951	959	Arizonie	Arizona	LOC	GPE-Arizona
+995	1004	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1011	1022	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+1030	1036	Nevady	Nevada	LOC	GPE-Nevada
+1137	1140	USA	USA	LOC	GPE-USA
+1173	1179	Bidena	Biden	PER	PER-Joe-Biden
+1210	1218	Arizonie	Arizona	LOC	GPE-Arizona
+1221	1229	Nevadzie	Nevada	LOC	GPE-Nevada
+1322	1330	Michigan	Michigan	LOC	GPE-Michigan
+1333	1342	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1378	1383	Maine	Maine	LOC	GPE-Maine
+1400	1410	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1519	1530	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+1532	1544	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+1546	1555	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+1568	1577	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1622	1637	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1640	1649	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1804	1814	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1815	1833	Środkowego-Zachodu	Środkowy-Zachód	LOC	LOC-Midwestern-United-States
+1887	1896	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1904	1916	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1919	1931	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+1961	1976	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+2001	2013	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+2016	2025	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+2055	2068	Mitta Romneya	Mitt Romney	PER	PER-Mitt-Romney
+2093	2105	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+2108	2117	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+2147	2160	Johna McCaina	John McCain	PER	PER-John-McCain
+2186	2196	John Kerry	John Kerry	PER	PER-John-Kerry
+2199	2208	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+2238	2253	Georga W. Busha	Georg W. Bush	PER	PER-George-Bush-Jr
+2278	2285	Al Gore	Al Gore	PER	PER-Al-Gore
+2287	2296	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+2326	2340	Georga W. Bush	Georg W. Bush	PER	PER-George-Bush-Jr

@@ -1,0 +1,39 @@
+7	24	3. svetovna vojna	3. svetovna vojna	EVT	EVT-World-War-III
+27	33	Evropi	Evropa	LOC	LOC-Europe
+116	121	KIJEV	Kijev	LOC	GPE-Kiev
+140	158	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+175	181	Rusija	Rusija	LOC	GPE-Russia
+201	209	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+242	255	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+338	351	Severni tok 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+364	370	Rusiji	Rusija	LOC	GPE-Russia
+381	389	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+510	516	Rusijo	Rusija	LOC	GPE-Russia
+552	558	Rusije	Rusija	LOC	GPE-Russia
+597	602	Kijev	Kijev	LOC	GPE-Kiev
+627	633	Moskva	Moskva	LOC	GPE-Moscow
+827	833	Lenina	Lenin	PER	PER-Lenin
+855	863	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+883	889	Rusijo	Rusija	LOC	GPE-Russia
+893	899	Rusija	Rusija	LOC	GPE-Russia
+912	925	Azovsko morje	Azovsko morje	LOC	LOC-The-Sea-of-Azov
+1030	1038	Apostrof	Apostrof	PRO	PRO-Apostrophe
+1060	1075	Igor Romanjenko	Igor Romanjenko	PER	PER-Igor-Romanenko
+1109	1115	Moskvo	Moskva	LOC	GPE-Moscow
+1119	1124	Kijev	Kijev	LOC	GPE-Kiev
+1205	1210	Zahod	Zahod	LOC	LOC-West
+1234	1242	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1273	1294	tretja svetovna vojna	tretja svetovna vojna	EVT	EVT-World-War-III
+1325	1330	Kijev	Kijev	LOC	GPE-Kiev
+1371	1374	ZDA	ZDA	LOC	GPE-USA
+1427	1438	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+1471	1474	ZDA	ZDA	LOC	GPE-USA
+1498	1506	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1556	1569	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1644	1657	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1715	1723	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1917	1923	Rusija	Rusija	LOC	GPE-Russia
+1943	1951	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+2055	2071	Pavlom Klimkinom	Pavlo Klimkin	PER	PER-Pavlo-Klimkin
+2091	2098	Nemčija	Nemčija	LOC	GPE-Germany
+2122	2130	Avstrije	Avstrija	LOC	GPE-Austria

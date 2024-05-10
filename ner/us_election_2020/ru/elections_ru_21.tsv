@@ -1,0 +1,75 @@
+0	5	RFERL	RFERL	PRO	PRO-RFE-Radio-Free -Europe
+7	15	Сент США	Сенат США	ORG	ORG-United-States-Senate
+46	53	Байдена	Байден	PER	PER-Joe-Biden
+56	63	Украине	Украина	LOC	GPE-Ukraine
+66	75	Демократы	Демократ	ORG	ORG-Democratic-Party-USA
+163	173	российской	российский	LOC	GPE-Russia
+219	225	Flickr	Flickr	ORG	ORG-Flickr
+226	239	Ben Stanfield	Ben Stanfield	PER	PER-Ben-Stanfield
+257	271	республиканцам	республиканец	ORG	ORG-Republican-Party-USA
+280	290	Сената США	Сенат США	ORG	ORG-United-States-Senate
+371	386	Хантера Байдена	Хантер Байден	PER	PER-Hunter-Biden
+404	435	Radio Free Europe Radio Liberty	Radio Free Europe Radio Liberty	PRO	PRO-Radio-Free-Europe-Radio-Liberty
+477	490	американского	американский	LOC	GPE-USA
+550	560	демократов	демократ	ORG	ORG-Democratic-Party-USA
+590	596	Сената	Сенат	ORG	ORG-United-States-Senate
+722	742	Blue Star Strategies	Blue Star Strategies	ORG	ORG-Blue-Star-Strategies
+764	774	украинскую	украинский	LOC	GPE-Ukraine
+792	799	Burisma	Burisma	ORG	ORG-Burisma
+840	853	Хантер Байден	Хантер Байден	PER	PER-Hunter-Biden
+872	894	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+895	916	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+917	930	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+961	976	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+1078	1085	Украину	Украина	LOC	GPE-Ukraine
+1122	1130	Байденов	Байдены	PER	PER-Bidens
+1141	1146	Сенат	Сенат	ORG	ORG-United-States-Senate
+1169	1182	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+1206	1219	американского	американский	LOC	GPE-USA
+1239	1248	демократы	демократы	ORG	ORG-Democratic-Party-USA
+1258	1280	Республиканскую партию	Республиканская партия	ORG	ORG-Republican-Party-USA
+1321	1327	Трампу	Трамп	PER	PER-Donald-Trump
+1373	1384	Рон Джонсон	Рон Джонсон	PER	PER-Ron-Johnson
+1386	1399	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+1403	1413	Висконсина	Висконсин	LOC	GPE-Wisconsin
+1494	1514	президентские выборы	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+1536	1545	Рик Скотт	Рик Скотт	PER	PER-Rick-Scott
+1547	1560	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+1564	1571	Флориды	Флорида	LOC	GPE-Florida
+1627	1634	Байдена	Байден	PER	PER-Joe-Biden
+1637	1644	Burisma	Burisma	PER	ORG-Burisma
+1665	1671	Сенату	Сенат	ORG	ORG-United-States-Senate
+1691	1700	Демократы	Демократ	ORG	ORG-Democratic-Party-USA
+1717	1732	республиканское	республиканский	ORG	ORG-Republican-Party-USA
+1754	1761	Байдена	Байден	PER	PER-Joe-Biden
+1790	1796	России	Россия	LOC	GPE-Russia
+1880	1892	Гарри Питерс	Гарри Питерс	PER	PER-Gary-Peters
+1894	1902	демократ	демократ	ORG	ORG-Democratic-Party-USA
+1906	1914	Мичигана	Мичиган	LOC	GPE-Michigan
+2042	2058	выборы 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+2098	2105	Байдена	Байден	PER	PER-Joe-Biden
+2106	2117	Эндрю Бейтс	Эндрю Бейтс	PER	PER-Andrew-Bates
+2130	2137	Джонсон	Джонсон	PER	PER-Boris-Johnson
+2173	2179	Трампа	Трамп	PER	PER-Donald-Trump
+2183	2188	Трамп	Трамп	PER	PER-Donald-Trump
+2289	2299	украинское	украинский	LOC	GPE-Ukraine
+2345	2359	Виктора Шокина	Виктор Шокин	PER	PER-Viktor-Shokin
+2393	2400	Burisma	Burisma	ORG	ORG-Burisma
+2558	2565	Украине	Украина	LOC	GPE-Ukraine
+2628	2638	украинской	украинский	LOC	GPE-Ukraine
+2681	2687	Сената	Сенат	ORG	ORG-United-States-Senate
+2708	2714	Сенате	Сенат	ORG	ORG-United-States-Senate
+2715	2724	Чак Шумер	Чак Шумер	PER	PER-Chuck-Schumer
+2726	2734	демократ	демократ	ORG	ORG-Democratic-Party-USA
+2738	2747	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+2757	2771	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+2809	2822	Республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+2877	2883	России	Россия	ORG	GPE-Russian-Federation
+2886	2917	американские выборы в 2016 году	американские выборы в 2016 году	EVT	EVT-2016-United-States-Presidential-Election
+2919	2924	Трамп	Трамп	PER	PER-Donald-Trump
+2981	2987	Сената	Сенат	ORG	ORG-United-States-Senate
+3019	3033	республиканцем	республиканец	ORG	ORG-Republican-Party-USA
+3034	3047	Линдси Грэмом	Линдси Грэмом	PER	PER-Lindsey-Graham
+3093	3096	ФБР	ФБР	ORG	ORG-FBI
+3133	3144	российского	российский	LOC	GPE-Russia
+3232	3244	УНИАН ИноСМИ	УНИАН ИноСМИ	PRO	PRO-UNIAN

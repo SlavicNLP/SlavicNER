@@ -1,0 +1,37 @@
+0	8	Угорщина	Угорщина	LOC	GPE-Hungary
+54	66	коронавірусу	коронавірус	EVT	EVT-Covid-19
+67	76	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+119	127	Угорщини	Угорщина	LOC	GPE-Hungary
+174	186	коронавірусу	коронавірус	EVT	EVT-Covid-19
+187	196	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+213	221	Угорщині	Угорщина	LOC	GPE-Hungary
+249	258	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+355	370	Кирило Дмитрієв	Кирил Дмитрієв	PER	PER-Kirill-Dmitriev
+377	386	Інтерфакс	Інтерфакс	ORG	ORG-Interfax
+391	399	Угорщина	Угорщина	LOC	GPE-Hungary
+415	417	ЄС	ЄС	LOC	ORG-European-Union
+444	453	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+541	597	Національний інститут фармакології і харчування Угорщини	Національний інститут фармакології і харчування Угорщини	ORG	ORG-National-Institute-of-Pharmacology-and-Nutrition-of-Hungary
+671	676	Росії	Росія	LOC	GPE-Russia
+756	764	Угорщини	Угорщина	LOC	GPE-Hungary
+817	825	Брюсселі	Брюссель	LOC	GPE-Brussles
+838	846	Будапешт	Будапешт	LOC	GPE-Budapest
+870	876	Росією	Росія	LOC	GPE-Russia
+974	983	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1013	1022	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+1033	1124	Національним дослідницьким центром епідеміології та мікробіології імені М.Ф. Гамалії МОЗ РФ	Національний дослідницький центр епідеміології та мікробіології імені М.Ф. Гамалії МОЗ РФ	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1142	1147	Росії	Росія	LOC	GPE-Russia
+1235	1240	Росії	Росія	LOC	GPE-Russia
+1281	1289	COVID-19	COVID-19	EVT	EVT-Covid-19
+1392	1400	Угорщина	Угорщина	LOC	GPE-Hungary
+1416	1422	Європі	Європа	LOC	LOC-Europe
+1461	1469	Білорусь	Білорусь	LOC	GPE-Belarus
+1545	1550	Росії	Росія	LOC	GPE-Russia
+1643	1652	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+1658	1667	Євросоюзі	Євросоюз	LOC	ORG-European-Union
+1717	1729	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1798	1815	Стелла Киріакідес	Стелла Киріакідес	PER	PER-Stella-Kyriakides
+1884	1886	ЄС	ЄС	LOC	ORG-European-Union
+1920	1926	Ковакс	Ковакс	PRO	PRO-Covax-initiative
+1931	1971	Всесвітньої організації охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+2048	2050	ЄС	ЄС	LOC	ORG-European-Union

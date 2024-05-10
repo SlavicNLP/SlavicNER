@@ -1,0 +1,15 @@
+0	7	Britové	Britové	PER	GPE-Great-Britain
+34	41	brexitu	brexit	EVT	EVT-Brexit
+104	106	EU	EU	ORG	ORG-European-Union
+120	127	brexitu	brexit	EVT	EVT-Brexit
+272	275	ICM	ICM	ORG	ORG-ICM-Agency
+315	317	EU	EU	ORG	ORG-European-Union
+320	327	brexitu	brexit	EVT	EVT-Brexit
+356	361	Britů	Britové	PER	GPE-Great-Britain
+394	401	brexitu	brexit	EVT	EVT-Brexit
+435	455	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+458	460	EU	EU	ORG	ORG-European-Union
+854	860	brexit	brexit	EVT	EVT-Brexit
+901	913	The Guardian	The Guardian	PRO	PRO-The-Guardian
+948	955	brexitu	brexit	EVT	EVT-Brexit
+1012	1019	brexitu	brexit	EVT	EVT-Brexit

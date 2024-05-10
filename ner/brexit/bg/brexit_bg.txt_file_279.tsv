@@ -1,0 +1,16 @@
+29	45	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+62	68	Лондон	Лондон	LOC	GPE-London
+80	83	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+109	125	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+126	145	Джеймс Броукъншайър	Джеймс Броукъншайър	PER	PER-James-Brokenshire
+259	269	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+367	379	Броукъншайър	Броукъншайър	PER	PER-James-Brokenshire
+469	485	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+682	692	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+797	810	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+816	824	Брекзита	Брекзит	EVT	EVT-Brexit
+825	838	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+877	892	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+925	928	Мей	Мей	PER	PER-Theresa-May
+1023	1037	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1041	1057	Европейския съюз	Европейски съюз	ORG	ORG-European-Union

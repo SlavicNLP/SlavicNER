@@ -1,0 +1,46 @@
+21	27	России	Россия	LOC	GPE-Russia
+64	72	COVID-19	COVID-19	EVT	EVT-Covid-19
+77	83	России	Россия	LOC	GPE-Russia
+124	136	коронавируса	коронавирус	EVT	EVT-Covid-19
+236	244	«МИР 24»	МИР 24	PRO	"PRO-""MIR 24"""
+245	259	Анна Бажайкина	Анна Бажайкина	PER	PER-Anna-Bozhaykina
+286	292	Москва	Москва	LOC	GPE-Moscow
+306	318	по-московски	по-московски	PER	GPE-Moscow
+338	346	COVID-19	COVID-19	EVT	EVT-Covid-19
+392	407	«Геликон-опере»	Геликон-опера	LOC	LOC-Helikon-opera
+555	565	московским	московский	PER	GPE-Moscow
+603	613	«Геликоне»	Геликон	LOC	LOC-Helikon-opera
+971	986	«Геликон-опера»	Геликон-опера	LOC	LOC-Helikon-opera
+987	1002	Дмитрий Бертман	Дмитрий Бертман	PER	PER-Dmitriy-Bertman
+1042	1048	«Депо»	Депо	LOC	GPE-foodmall-Depo
+1060	1070	московский	московский	PER	GPE-Moscow
+1086	1092	Москвы	Москва	LOC	GPE-Moscow
+1641	1647	«Депо»	Депо	LOC	GPE-foodmall-Depo
+1990	2003	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2010	2022	коронавируса	коронавирус	EVT	EVT-Covid-19
+2048	2059	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+2064	2078	«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+2304	2310	mos.ru	mos.ru	PRO	PRO-MASK-air
+2333	2344	«Госуслуги»	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+2347	2359	«Емиас.Инфо»	Емиас.Инфо	PRO	PRO-EMIAS-United-Medical-Information-and-Analytical-System-of-Moscow
+2363	2372	Ульяновск	Ульяновск	LOC	GPE-Ulyanovsk
+2377	2387	Ульяновске	Ульяновск	LOC	GPE-Ulyanovsk
+2669	2684	поликлиникой №2	поликлиника №2	LOC	LOC-Polyclinic-2-Ulyanovsk
+2685	2702	Светлана Андреева	Светлана Андреева	PER	PER-Svetlana-Andreeva
+2706	2715	Хабаровск	Хабаровск	LOC	GPE-Khabarovsk
+2739	2749	Хабаровске	Хабаровск	LOC	GPE-Khabarovsk
+2775	2788	Матвей Окутин	Матвей Окутин	PER	PER-Matvey-Akutin
+3150	3163	Матвей Окутин	Матвей Окутин	PER	PER-Matvey-Akutin
+3167	3181	Ростов-на-Дону	Ростов-на-Дону	LOC	GPE-Rostov-on-Don
+3186	3206	Южном военном округе	Южный военный округ	LOC	GPE-Southern-Military-District
+3489	3492	ЮВО	Южный военный округ	LOC	GPE-Southern-Military-District
+3493	3507	Наталия Горина	Наталия Горина	PER	PER-Nataliya-Gorina
+3771	3783	коронавируса	коронавирус	EVT	EVT-Covid-19
+3862	3870	«МИР 24»	МИР 24	PRO	"PRO-""MIR 24"""
+3933	4006	Закрытое акционерное общество «Межгосударственная телерадиокомпания «Мир»	Закрытое акционерное общество «Межгосударственная телерадиокомпания «Мир»	ORG	"ORG-International-Television-and-Radio-Company-""Mir"""
+4026	4038	Батыршин Р.И	Батыршин Р.И.	PER	PER-Batirshin-R-I
+4068	4087	СМИ ЭЛ № ФС77-50091	СМИ ЭЛ № ФС77-50091	PRO	PRO-Media-Outlet's-Registration-Certificate-MIR24
+4131	4226	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+4309	4319	российским	российский	PER	GPE-Russia
+4451	4461	МТРК «Мир»	МТРК «Мир»	ORG	"ORG-International-Television-and-Radio-Company-""Mir"""
+4698	4740	"Закрытого акционерного общества МТРК ""Мир"""	"Закрытое акционерное общество МТРК ""Мир"""	ORG	"ORG-International-Television-and-Radio-Company-""Mir"""

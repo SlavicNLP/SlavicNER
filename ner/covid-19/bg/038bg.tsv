@@ -1,0 +1,24 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+50	62	коронавируса	коронавирус	EVT	EVT-Covid-19
+64	66	ЕК	ЕК	ORG	ORG-European-Commission
+206	228	Европейският съюз (ЕС)	Европейски съюз (ЕС)	ORG	ORG-European-Union
+438	447	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+450	470	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+658	667	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+693	695	ЕС	ЕС	ORG	ORG-European-Union
+954	956	ЕС	ЕС	ORG	ORG-European-Union
+1034	1036	ЕС	ЕС	ORG	ORG-European-Union
+1041	1047	Европа	Европа	LOC	LOC-Europe
+1099	1102	САЩ	САЩ	LOC	GPE-USA
+1107	1112	Китай	Китай	LOC	GPE-China
+1184	1204	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1255	1258	САЩ	САЩ	LOC	GPE-USA
+1330	1345	AstraZeneca Plc	AstraZeneca Plc	ORG	ORG-AstraZeneca
+1363	1399	ваксината на Оксфордския университет	ваксина на Оксфордския университет	PRO	PRO-Oxford-AstraZeneca-Vaccine
+1402	1411	Комисията	Комисия	ORG	ORG-European-Commission
+1501	1503	ЕС	ЕС	ORG	ORG-European-Union
+1539	1619	Американския орган за напреднали изследвания и развитие на биомедицинските науки	Американски орган за напреднали изследвания и развитие на биомедицинските науки	ORG	ORG-BARDA-USA
+1824	1827	САЩ	САЩ	LOC	GPE-USA
+1837	1858	меморандума от 25 май	меморандум от 25 май	PRO	PRO-Memorandum-of-25-May
+1922	1924	ЕК	ЕК	ORG	ORG-European-Commission
+1973	1975	ЕК	ЕК	ORG	ORG-European-Commission

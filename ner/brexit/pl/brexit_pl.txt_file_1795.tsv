@@ -1,0 +1,45 @@
+19	25	Polacy	Polacy	PER	GPE-Poland
+52	59	Brexitu	Brexit	EVT	EVT-Brexit
+124	159	EU Citizens Rights Project Scotland	EU Citizens Rights Project Scotland	ORG	ORG-EU-Citizens-Rights-Project-Scotland
+190	199	Inverness	Inverness	LOC	GPE-Inverness
+215	224	Edynburgu	Edynburg	LOC	GPE-Edinburgh
+240	248	Aberdeen	Aberdeen	LOC	GPE-Aberdeen
+265	272	Glasgow	Glasgow	LOC	GPE-Glasgow
+349	356	Brexitu	Brexit	EVT	EVT-Brexit
+414	416	UE	UE	ORG	ORG-European-Union
+432	441	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+533	545	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+568	583	Mark Lazarowicz	Mark Lazarowicz	PER	PER-Mark-Lazarowicz
+608	611	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1010	1027	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1030	1032	UE	UE	ORG	ORG-European-Union
+1225	1236	Lazarowicza	Lazarowicz	PER	PER-Mark-Lazarowicz
+1361	1364	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1728	1745	Dorota Peszkowska	Dorota Peszkowska	PER	PER-Dorota-Peszkowska
+1791	1798	Polaków	Polacy	PER	GPE-Poland
+1801	1808	Szkocji	Szkocja	LOC	GPE-Scotland
+1868	1870	UE	UE	ORG	ORG-European-Union
+1873	1880	Szkocji	Szkocja	LOC	GPE-Scotland
+1995	2002	Brexitu	Brexit	EVT	EVT-Brexit
+2032	2043	Home Office	Home Office	ORG	ORG-Home-Office-UK
+2056	2087	ministerstwo spraw wewnętrznych	Ministerstwo spraw wewnętrznych	ORG	ORG-Home-Office-UK
+2160	2163	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2684	2691	Szkocji	Szkocja	LOC	GPE-Scotland
+3021	3031	Peszkowska	Peszkowska	PER	PER-Dorota-Peszkowska
+3086	3098	Fiona Hyslop	Fiona Hyslop	PER	PER-Fiona-Hyslop
+3123	3126	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+3202	3210	Londynie	Londyn	LOC	GPE-London
+3483	3490	Szkocji	Szkocja	LOC	GPE-Scotland
+3491	3506	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+3628	3630	UE	UE	ORG	ORG-European-Union
+3750	3756	Hyslop	Hyslop	PER	PER-Fiona-Hyslop
+3848	3854	Polacy	Polacy	PER	GPE-Poland
+3894	3901	Brexitu	Brexit	EVT	EVT-Brexit
+3935	3941	Polacy	Polacy	PER	GPE-Poland
+3956	3963	Szkocji	Szkocja	LOC	GPE-Scotland
+4096	4111	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4140	4157	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4191	4200	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+4617	4619	UE	UE	ORG	ORG-European-Union
+4628	4645	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4672	4679	Polaków	Polacy	PER	GPE-Poland

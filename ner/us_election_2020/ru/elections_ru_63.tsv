@@ -1,0 +1,63 @@
+19	26	Байдена	Байден	PER	PER-Joe-Biden
+47	50	США	США	LOC	GPE-USA
+114	124	демократов	демократы	ORG	ORG-Democratic-Party-USA
+125	138	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+219	226	Гавайев	Гавайев	LOC	GPE-Hawaii
+301	304	США	США	LOC	GPE-USA
+308	323	Дональда Трампа	Дональда Трампа	PER	PER-Donald-Trump
+445	452	Байдена	Байден	PER	PER-Joe-Biden
+494	507	Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+518	527	Ишбулдино	Ишбулдино	LOC	GPE-Ishbuldino
+528	549	Абзелиловского района	Абзелиловский район	LOC	GPE-Abzelilovsky-District
+550	558	Башкирии	Башкирия	LOC	GPE-Bashkiria
+833	857	Масложировой союз России	Масложировой союз России	ORG	ORG-Fat-and-oil-union
+860	885	Союз сахаропроизводителей	Союз сахаропроизводителей	ORG	ORG- Union of sugar producers
+962	971	Россия 24	Россия 24	PRO	PRO-Russia-24-TV
+1019	1033	Виктор Евтухов	Виктор Евтухов	PER	PER-Victor-Evtukhov
+1222	1229	Евтухов	Евтухов	PER	PER-Victor-Evtukhov
+1295	1301	России	Россия	LOC	GPE-Russia
+1341	1348	Украины	Украина	LOC	GPE-Ukraine
+1349	1361	Андрей Таран	Андрей Таран	PER	PER-Andrey-Taran
+1524	1531	Украины	Украина	LOC	GPE-Ukraine
+1651	1670	Турецкой Республики	Турецкая Республика	LOC	GPE-Turkey
+1671	1687	Исмаилом Демиром	Исмаи Демир	PER	PER-Ismai Demir
+1716	1721	Таран	Таран	PER	PER-Andrey-Taran
+1811	1837	Военно-морских сил Украины	Военно-морских сил Украины	ORG	ORG-Naval-Forces-of-Ukraine
+1840	1868	Черноморско-Азовском регионе	Черноморско-Азовский регион	LOC	GPE-Azov-Black-Sea-Krai
+1895	1902	Украины	Украина	LOC	GPE-Ukraine
+1903	1917	Николай Азаров	Николай Азаров	PER	PER-Mykola-Azarov
+1988	2019	Трехсторонней контактной группе	Трехсторонняя контактная группа	ORG	ORG-Trilateral-Contact-Group-on-Ukraine
+2021	2024	ТГК	ТГК	ORG	ORG-TASS-Agency
+2095	2103	Донбасса	Донбасс	LOC	LOC-Donbass
+2104	2120	Леонида Кравчука	Леонид Макарович	PER	PER-Leonid-Kravchuk
+2133	2139	Россию	Россия	LOC	GPE-Russia
+2287	2305	Леонида Макаровича	Леонид Макарович	PER	PER-Leonid-Kravchuk
+2663	2669	Азаров	Азаров	PER	PER-Nikolay-Azarov
+2673	2682	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2741	2747	Турции	Турция	LOC	GPE-Turkey
+2759	2773	Исмаила Демира	Исмаи Демир	PER	PER-Ismai-Demir
+2805	2815	Минфин США	Минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+2841	2844	США	США	LOC	GPE-USA
+2845	2856	Майк Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+2889	2896	Анкарой	Анкара	LOC	GPE-Ankara
+2948	2954	Турцию	Турция	LOC	GPE-Turkey
+2994	2997	США	США	LOC	GPE-Sofia
+3017	3023	Турция	Турция	LOC	GPE-Turkey
+3088	3091	США	США	LOC	GPE-USA
+3247	3253	Турции	Турция	LOC	GPE-Timisoara
+3311	3318	Газпром	Газпром	ORG	ORG-Gazprom
+3389	3407	Северный поток — 2	Северный поток — 2	PRO	PRO-Nord-Stream-2
+3503	3507	ТАСС	ТАСС	PRO	ORG-TACC
+3654	3662	Германии	Германия	LOC	GPE-Germany
+3814	3834	Северного потока — 2	Северный поток — 2	PRO	PRO-Nord-Stream-2
+3860	3865	Дании	Дания	LOC	GPE-Denmark
+3869	3876	Карабах	Карабах	LOC	GPE-Karabakh
+4258	4266	Карабаха	Карабах	LOC	GPE-Karabakh
+4321	4333	Степанакерту	Степанакерт	LOC	GPE-Stepanakert
+4334	4340	Россия	Россия	LOC	GPE-Russia
+4432	4439	EADaily	EADaily	PRO	PRO-EADaily
+4477	4485	Карабаха	Карабах	LOC	GPE-Karabakh
+4486	4500	Армен Саркисян	Армен Саркисян	PER	PER-Armen-Sargsyan
+4684	4696	Роскомнадзор	Роскомнадзор	ORG	ORG-Roscomnadzor
+4745	4755	ИА EADaily	ИА EADaily	PRO	PRO-IA-EADaily
+4795	4805	ИА EADaily	ИА EADaily	PRO	PRO-IA-EADaily

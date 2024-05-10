@@ -1,0 +1,28 @@
+11	20	Шотландия	Шотландия	LOC	GPE-Scotland
+56	64	Стърджън	Стърджън	PER	PER-Nicola-Sturgeon
+77	86	Шотландия	Шотландия	LOC	GPE-Scotland
+113	123	еврозоната	Еврозона	LOC	LOC-Eurozone
+157	166	Шотландия	Шотландия	LOC	GPE-Scotland
+167	182	Никола Стърджън	Никола Стърджън	PER	PER-Nicola-Sturgeon
+197	204	Ройтерс	Ройтерс	ORG	ORG-Reuters
+310	320	еврозоната	Еврозона	LOC	LOC-Eurozone
+446	448	ЕС	ЕС	ORG	ORG-European-Union
+488	496	Политико	Политико	ORG	ORG-Politico
+500	507	Брюксел	Брюксел	LOC	GPE-Brussles
+540	549	Шотландия	Шотландия	LOC	GPE-Scotland
+651	660	Шотландия	Шотландия	LOC	GPE-Scotland
+729	738	Шотландия	Шотландия	LOC	GPE-Scotland
+742	749	Брекзит	Брекзит	EVT	EVT-Brexit
+783	785	ЕС	ЕС	ORG	ORG-European-Union
+786	798	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+809	815	БиБиСи	БиБиСи	PRO	PRO-BBC
+817	825	Стърджън	Стърджън	PER	PER-Nicola-Sturgeon
+910	917	Брюксел	Брюксел	LOC	GPE-Brussles
+962	968	Барние	Барние	PER	PER-Michel-Barnier
+1009	1029	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1087	1094	Брекзит	Брекзит	EVT	EVT-Brexit
+1131	1145	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1146	1159	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+1178	1181	АФП	АФП	ORG	ORG-France-Presse
+1186	1206	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1257	1264	Брекзит	Брекзит	EVT	EVT-Brexit

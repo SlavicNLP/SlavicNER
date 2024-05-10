@@ -1,0 +1,12 @@
+0	6	Covidu	Covid	EVT	EVT-Covid-19
+9	14	Česku	Česko	LOC	GPE-Czech-Republic
+145	153	covid-19	covid-19	EVT	EVT-Covid-19
+332	339	covidem	covid	EVT	EVT-Covid-19
+363	369	Evropy	Evropa	LOC	LOC-Europe
+371	375	Asie	Asie	LOC	LOC-Asia
+378	385	Ameriky	Amerika	LOC	GPE-USA
+411	422	koronavirem	koronavirus	EVT	EVT-Covid-19
+519	530	koronavirem	koronavirus	EVT	EVT-Covid-19
+626	636	Lidovky.cz	Lidovky.cz	PRO	PRO-Lidovky.cz
+637	648	Jozef Čupka	Jozef Čupka	PER	PER-Jozef-Čupka
+706	757	České lékařské společnosti Jana Evangelisty Purkyně	Česká lékařská společnost Jana Evangelisty Purkyně	ORG	ORG-Ceska-lekarska-spolecnost-Jana-Evangelisty-Purkyne

@@ -1,0 +1,116 @@
+27	35	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+55	61	Трампа	Трам	PER	PER-Donald-Trump
+105	126	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+138	144	Трампа	Трам	PER	PER-Donald-Trump
+194	200	России	Россия	LOC	GPE-Russia
+203	220	Саудовской Аравии	Саудовская Аравия	LOC	GPE-Saudi-Arabia
+313	316	США	США	LOC	GPE-USA
+395	402	Россией	Россия	LOC	GPE-Russia
+448	451	США	США	LOC	GPE-USA
+488	496	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+594	615	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+622	631	демократы	демократы	PER	ORG-Democratic-Party-USA
+633	638	Сенат	Сенат	ORG	ORG-United-States-Senate
+661	675	республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+695	706	Der Spiegel	Der Spiegel	PRO	PRO-Der-Spiegel
+895	900	Обамы	Обама	PER	PER-Barack-Obama
+967	972	Трамп	Трамп	PER	PER-Donald-Trump
+992	998	Россию	Россия	LOC	GPE-Russia
+1001	1018	Саудовскую Аравию	Саудовская Аравия	LOC	GPE-Saudi-Arabia
+1054	1066	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+1067	1077	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+1118	1130	американской	американская	LOC	GPE-USA
+1190	1205	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1210	1213	США	США	LOC	GPE-USA
+1265	1271	Европы	Европа	LOC	LOC-Europe
+1364	1367	США	США	LOC	GPE-USA
+1380	1384	Маас	Маас	PER	PER-Heiko-Maas
+1387	1395	Твиттере	Твиттер	PRO	PRO-Twitter
+1534	1537	США	США	LOC	GPE-USA
+1570	1578	немецкая	немецкий	LOC	GPE-Germany
+1586	1598	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+1602	1613	Израильская	израильский	LOC	GPE-Israel
+1621	1628	Haaretz	Haaretz	PRO	PRO-Haaretz
+1642	1645	США	США	LOC	GPE-USA
+1673	1690	Саудовской Аравии	Саудовская Аравия	LOC	GPE-Saudi-Arabia
+1693	1699	России	Россия	LOC	GPE-Russia
+1727	1743	Джемаля Хашкаджи	Джемаль Хашкаджи	PER	PER-Jemale-Hushkadgi
+1744	1765	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+1811	1819	Эр-Рияда	Эр-Рияд	LOC	GPE-Riyadh
+1903	1913	саудовской	саудовский	LOC	GPE-Saudi-Arabia
+1925	1931	Йемене	Йемен	LOC	GPE-Yemen
+1950	1961	демократами	демократы	PER	ORG-Democratic-Party-USA
+1962	1983	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2024	2030	Россию	Россия	LOC	GPE-Russia
+2050	2069	американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+2083	2090	Украине	Украина	LOC	GPE-Ukraine
+2103	2112	сирийской	сирийский	LOC	GPE-Syria
+2132	2153	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2237	2243	России	Россия	LOC	GPE-Russia
+2286	2292	Трампа	Трамп	PER	PER-Donald-Trump
+2406	2417	израильская	израильский	LOC	GPE-Israel
+2435	2441	Трампа	Трам	PER	PER-Donald-Trump
+2455	2501	Немецкого института экономических исследований	Немецкий институт экономических исследований	ORG	ORG-The-German-Institute-for-Economic-Research
+2503	2506	DIW	DIW	ORG	ORG-DIW
+2508	2524	Марсель Фратцшер	Марсель Фратцшер	PER	PER-Marcel-Fratzsher
+2536	2548	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+2568	2578	демократов	демократы	PER	ORG-Democratic-Party-USA
+2616	2631	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+2766	2778	американская	американская	LOC	GPE-USA
+2838	2844	Трампу	Трамп	PER	PER-Donald-Trump
+2912	2918	Штатах	Штаты	LOC	GPE-USA
+2929	2934	Трамп	Трамп	PER	PER-Donald-Trump
+2965	2986	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+3101	3110	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+3161	3168	Haaretz	Haaretz	PRO	PRO-Haaretz
+3172	3181	Демократы	демократы	PER	ORG-Democratic-Party-USA
+3210	3216	Трампа	Трамп	PER	PER-Donald-Trump
+3239	3247	Fox News	Fox News	PRO	PRO-Fox-News
+3248	3257	Грегга Рэ	Грегга Рэ	PER	PPER-Greg-Ra
+3289	3310	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+3311	3320	демократы	демократы	PER	ORG-Democratic-Party-USA
+3423	3429	Трампа	Трамп	PER	PER-Donald-Trump
+3454	3464	демократов	демократы	PER	ORG-Democratic-Party-USA
+3467	3488	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+3531	3541	Белом доме	Белый дом	ORG	ORG-The-White-House
+3562	3568	Трампа	Трамп	PER	PER-Donald-Trump
+3582	3590	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+3632	3644	американский	американский	LOC	GPE-USA
+3658	3666	Fox News	Fox News	PRO	PRO-Fox-News
+3780	3791	Белого дома	Белый дом	ORG	ORG-The-White-House
+3837	3847	демократов	демократы	PER	ORG-Democratic-Party-USA
+3851	3859	Турецкая	турецкий	LOC	GPE-Turkey
+3874	3885	Daily Sabah	Daily Sabah	PRO	PRO-Daily-Sabah
+3983	3989	Трампа	Трамп	PER	PER-Donald-Trump
+4001	4011	демократов	демократы	PER	ORG-Democratic-Party-USA
+4014	4039	Палате представителей США	Палата представителей США	ORG	ORG-United-States-House-of-Representatives
+4065	4071	Москвы	Москва	LOC	GPE-Moscow
+4075	4081	Пекина	Пекин	LOC	GPE-Beijing
+4084	4092	Эр-Рияда	Эр-Рияд	LOC	GPE-Riyadh
+4114	4123	демократы	демократы	PER	ORG-Democratic-Party-USA
+4190	4205	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+4339	4348	Демократы	демократы	PER	ORG-Democratic-Party-USA
+4355	4376	Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+4428	4441	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+4468	4471	США	США	LOC	GPE-USA
+4472	4487	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+4551	4556	Сенат	Сенат	ORG	ORG-United-States-Senate
+4579	4593	республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+4652	4661	демократы	демократы	PER	ORG-Democratic-Party-USA
+4715	4721	Трампа	Трам	PER	PER-Donald-Trump
+4746	4760	Tages-Anzeiger	Tages-Anzeiger	PRO	PRO-Tages-Anzeiger
+4764	4774	Британская	британский	LOC	GPE-Great-Britain
+4782	4794	The Guardian	The Guardian	PRO	PRO-The-Guardian
+4809	4815	Трампа	Трамп	PER	PER-Donald-Trump
+4867	4872	Трамп	Трамп	PER	PER-Donald-Trump
+5022	5032	американцы	американцы	PER	GPE-USA
+5054	5068	республиканцам	республиканцы	PER	ORG-Republican-Party-USA
+5177	5186	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+5218	5224	Трампу	Трамп	PER	PER-Donald-Trump
+5387	5403	Йонатан Фридланд	Йонатан Фридланд	PER	PER-Yonnatahn-Friedland
+5457	5472	республиканцами	республиканцы	PER	ORG-Republican-Party-USA
+5487	5493	Сенате	Сенат	ORG	ORG-United-States-Senate
+5586	5607	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+5610	5620	демократов	демократы	PER	ORG-Democratic-Party-USA
+5813	5823	"""Царьград"""	"""Царьград"""	PRO	PRO-Tsargrad
+5826	5837	Яндекс.Дзен	Яндекс.Дзен	PRO	PRO-Yandex.Dzen

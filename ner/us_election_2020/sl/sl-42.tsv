@@ -1,0 +1,44 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+15	23	demokrat	demokrat	PER	ORG-Democratic-Party-USA
+41	48	Georgio	Georgia	LOC	GPE-Georgia-US-state
+107	116	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+144	157	Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+174	176	AP	AP	ORG	ORG-AP-The-Associated-Press
+179	187	Trumpovi	Trump	PER	PER-Donald-Trump
+240	243	ZDA	ZDA	LOC	GPE-USA
+319	326	Reuters	Reuters	ORG	ORG-Reuters
+329	336	Bidnova	Biden	PER	PER-Joe-Biden
+359	366	Georgia	Georgia	LOC	GPE-Georgia-US-state
+508	513	Trump	Trump	PER	PER-Donald-Trump
+581	597	Severno Karolino	Severna Karolina	LOC	GPE-North-Carolina-US-State
+697	702	Bidna	Biden	PER	PER-Joe-Biden
+706	715	demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+734	740	Trumpa	Trump	PER	PER-Donald-Trump
+744	756	republikance	republikanci	ORG	ORG-Republican-Party-USA
+759	764	Biden	Biden	PER	PER-Joe-Biden
+797	805	demokrat	demokrat	PER	ORG-Democratic-Party-USA
+856	863	Georgia	Georgia	LOC	GPE-Georgia-US-state
+912	925	republikancem	republikanci	ORG	ORG-Republican-Party-USA
+979	984	Trump	Trump	PER	PER-Donald-Trump
+993	1001	demokrat	demokrat	PER	ORG-Democratic-Party-USA
+1037	1049	Bill Clinton	Bill Clinton	PER	PER-Bill-Clinton
+1061	1066	Bidnu	Biden	PER	PER-Joe-Biden
+1160	1165	Trump	Trump	PER	PER-Donald-Trump
+1184	1191	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1209	1216	Arizona	Arizona	LOC	GPE-Arizona
+1218	1226	Michigan	Michigan	LOC	GPE-Michigan
+1228	1240	Pensilvanija	Pensilvanija	LOC	GPE-Pennsylvania
+1244	1253	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1255	1261	Trumpu	Trump	PER	PER-Donald-Trump
+1346	1351	Trump	Trump	PER	PER-Donald-Trump
+1374	1386	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1557	1562	Bidnu	Biden	PER	PER-Joe-Biden
+1602	1607	Trump	Trump	PER	PER-Donald-Trump
+1660	1668	Covid-19	Covid-19	EVT	EVT-Covid-19
+1689	1692	ZDA	ZDA	LOC	GPE-USA
+2109	2112	ZDA	ZDA	LOC	GPE-USA
+2113	2125	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2461	2526	Izvršni odbor sveta za vladno usklajevanje volilne infrastrukture	Izvršni odbor sveta za vladno usklajevanje volilne infrastrukture	ORG	ORG-Elections-Infrastructure-Government-Coordinating-Council
+2528	2531	GCC	GCC	ORG	ORG-Elections-Infrastructure-Government-Coordinating-Council
+2536	2589	Svet za sektorsko usklajevanje volilne infrastrukture	Svet za sektorsko usklajevanje volilne infrastrukture	ORG	ORG-Sector-Coordinating-Council
+2591	2594	SCC	SCC	ORG	ORG-Sector-Coordinating-Council

@@ -1,0 +1,25 @@
+0	3	Мэй	Мэй	PER	PER-Theresa-May
+37	55	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+57	60	Мэй	Мэй	PER	PER-Theresa-May
+94	112	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+130	143	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+189	192	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+194	207	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+257	271	Великобритании	Великобритания	LOC	GPE-Great-Britain
+361	373	The Guardian	The Guardian	PRO	PRO-The-Guardian
+422	437	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+541	547	Борису	Борис	PER	PER-Boris-Johnson
+584	597	Даунинг-стрит	Даунинг-стрит	LOC	LOC-Downing-Street
+665	684	Кабинетом министров	Кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+753	760	Джонсон	Джонсон	PER	PER-Boris-Johnson
+798	801	Мэй	Мэй	PER	PER-Theresa-May
+805	811	Brexit	Brexit	EVT	EVT-Brexit
+874	888	Великобритании	Великобритания	LOC	GPE-Great-Britain
+891	893	ЕС	ЕС	ORG	ORG-European-Union
+900	906	Brexit	Brexit	EVT	EVT-Brexit
+1000	1010	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1040	1048	Брюсселю	Брюссель	LOC	GPE-Brussles
+1111	1136	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+1221	1252	переговоров в резиденции Чекерс	переговоры в резиденции Чекерс	EVT	EVT-Chequers-Cabinet-Meeting
+1265	1271	Дэвиса	Дэвис	PER	PER-David-Davis
+1299	1311	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab

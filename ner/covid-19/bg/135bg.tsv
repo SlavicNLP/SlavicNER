@@ -1,0 +1,17 @@
+0	2	ЕП	ЕП	ORG	ORG-European-Parliament
+30	32	ЕС	ЕС	ORG	ORG-European-Union
+45	57	коронавируса	коронавирус	EVT	EVT-Covid-19
+113	131	фонд „Солидарност“	фонд „Солидарност“	PRO	PRO-European-Union-Solidarity-Fund
+209	211	ЕС	ЕС	ORG	ORG-European-Union
+240	248	COVID-19	COVID-19	EVT	EVT-Covid-19
+397	406	Комисията	Комисия	ORG	ORG-European-Commission
+608	620	коронавируса	коронавирус	EVT	EVT-Covid-19
+712	714	ЕС	ЕС	ORG	ORG-European-Union
+786	812	пандемията от коронавируса	пандемия от коронавируса	EVT	EVT-Covid-19
+975	977	ЕС	ЕС	ORG	ORG-European-Union
+1087	1105	фонд „Солидарност“	фонд „Солидарност“	PRO	PRO-European-Union-Solidarity-Fund
+1321	1326	Фонда	Фонд	PRO	PRO-European-Union-Solidarity-Fund
+1651	1653	ЕС	ЕС	ORG	ORG-European-Union
+2184	2197	Съветът на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+2238	2248	Парламента	Парламент	ORG	ORG-European-Parliament
+2323	2361	Официалния вестник на Европейския съюз	Официален вестник на Европейския съюз	PRO	PRO-Official-Journal-of-the-European-Union

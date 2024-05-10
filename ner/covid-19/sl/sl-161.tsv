@@ -1,0 +1,20 @@
+2	28	Koroškem domu starostnikov	Koroški dom starostnikov	ORG	ORG-Koroška-Nursing-Home-for-Elderly
+31	38	Črnečah	Črneče	LOC	LOC-Črneče-pri-Dravogradu
+55	63	covid-19	covid-19	EVT	EVT-Covid-19
+105	124	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+146	157	UKC Maribor	UKC Maribor	LOC	LOC-University-Medical-Centre-Maribor
+235	261	Koroškem domu starostnikov	Koroški dom starostnikov	LOC	ORG-Koroška-Nursing-Home-for-Elderly
+263	266	KDS	KDS	LOC	ORG-Koroška-Nursing-Home-for-Elderly
+268	289	Črneče pri Dravogradu	Črneče pri Dravogradu	LOC	LOC-Črneče-pri-Dravogradu
+322	330	covid-19	covid-19	EVT	EVT-Covid-19
+416	427	UKC Maribor	UKC Maribor	LOC	LOC-University-Medical-Centre-Maribor
+497	511	Srečko Mlačnik	Srečko Mlačnik	PER	PER-Srečko-Mlačnik
+644	663	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1120	1127	covid19	covid 19	EVT	EVT-Covid-19
+1199	1238	Nacionalnega inštituta za javno zdravje	Nacionalni inštitut za javno zdravje	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1243	1268	Koroški domu starostnikov	Koroški dom starostnikov	LOC	ORG-Koroška-Nursing-Home-for-Elderly
+1275	1296	Črneče pri Dravogradu	Črneče pri Dravogradu	LOC	LOC-Črneče-pri-Dravogradu
+1407	1414	Mlačnik	Mlačnik	PER	PER-Srečko-Mlačnik
+1684	1692	covid-19	covid-19	EVT	EVT-Covid-19
+1701	1706	Večer	Večer	PRO	PRO-Večer
+1848	1867	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

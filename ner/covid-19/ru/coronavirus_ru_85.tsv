@@ -1,0 +1,41 @@
+11	23	коронавируса	коронавирус	EVT	EVT-Covid-19
+24	38	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+139	151	коронавируса	коронавирус	EVT	EVT-Covid-19
+175	189	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+216	244	"новосибирский центр ""Вектор"""	"новосибирский центр ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+406	418	ЭпиВакКорона	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+439	451	коронавируса	коронавирус	EVT	EVT-Covid-19
+499	511	коронавируса	коронавирус	EVT	EVT-Covid-19
+526	535	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+551	568	НИИ имени Гамалеи	НИИ имени Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+708	714	России	Россия	LOC	GPE-Russia
+715	729	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+768	776	"""Вектор"""	"""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+806	821	Росздравнадзоре	Росздравнадзор	ORG	ORG-Russian-Federal-Service-for-Surveillance-in-Healthcare
+845	859	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+1041	1049	"""Вектор"""	"""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+1129	1135	России	Россия	LOC	GPE-Russia
+1194	1196	РФ	РФ	LOC	GPE-Russia
+1197	1213	Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+1238	1240	РФ	РФ	LOC	GPE-Russia
+1276	1290	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+1370	1378	COVID-19	COVID-19	EVT	EVT-Covid-19
+1669	1683	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+1694	1708	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+1853	1868	Росздравнадзора	Росздравнадзор	ORG	ORG-Russian-Federal-Service-for-Surveillance-in-Healthcare
+2282	2296	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+2363	2373	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+2414	2424	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+2880	2889	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+2931	2939	COVID-19	COVID-19	EVT	EVT-Covid-19
+2983	2995	коронавируса	коронавирус	EVT	EVT-Covid-19
+2996	3010	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+3021	3035	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+3653	3659	Сербию	Сербия	LOC	GPE-Serbia
+3660	3667	Венгрию	Венгрия	LOC	GPE-Hungary
+3669	3678	Аргентину	Аргентина	LOC	GPE-Argentina
+3679	3684	Индию	Индия	LOC	GPE-India
+3713	3719	России	Россия	LOC	GPE-Russia
+3829	3835	России	Россия	LOC	GPE-Russia
+3867	3873	Хрущев	Хрущев	PER	PER-Nikita-Khrushchev
+4291	4308	Апшеронский район	Апшеронский район	LOC	LOC-Apsheronsky-District

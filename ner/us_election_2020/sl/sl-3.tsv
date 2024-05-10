@@ -1,0 +1,86 @@
+163	173	Clevelandu	Cleveland	LOC	GPE-Cleveland
+204	218	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+260	273	Jospehu Bidnu	Jospeh Biden	PER	PER-Joe-Biden
+424	432	Fox News	Fox News	PRO	PRO-Fox-News
+560	565	Bidnu	Biden	PER	PER-Joe-Biden
+676	681	Trump	Trump	PER	PER-Donald-Trump
+721	726	Bidna	Biden	PER	PER-Joe-Biden
+770	780	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+801	810	Trumpovih	Trump	PER	PER-Donald-Trump
+826	831	Biden	Biden	PER	PER-Joe-Biden
+960	973	Chris Wallace	Chris Wallace	PER	PER-Chris-Wallace
+987	995	Fox News	Fox News	PRO	PRO-Fox-News
+999	1005	Trumpa	Trump	PER	PER-Donald-Trump
+1099	1106	Trumpov	Trump	PER	PER-Donald-Trump
+1156	1161	Bidna	Biden	PER	PER-Joe-Biden
+1320	1325	Biden	Biden	PER	PER-Joe-Biden
+1350	1357	Wallaca	Wallace	PER	PER-Chris-Wallace
+1436	1443	Wallace	Wallace	PER	PER-Chris-Wallace
+1519	1525	Trumpa	Trump	PER	PER-Donald-Trump
+1595	1600	Trump	Trump	PER	PER-Donald-Trump
+1671	1676	Bidna	Biden	PER	PER-Joe-Biden
+2051	2062	koronavirus	koronavirus	EVT	EVT-Covid-19
+2064	2069	Trump	Trump	PER	PER-Donald-Trump
+2164	2169	Trump	Trump	PER	PER-Donald-Trump
+2207	2212	Bidna	Biden	PER	PER-Joe-Biden
+2346	2351	Trump	Trump	PER	PER-Donald-Trump
+2383	2388	Biden	Biden	PER	PER-Joe-Biden
+2444	2449	Biden	Biden	PER	PER-Joe-Biden
+2502	2505	ZDA	ZDA	LOC	GPE-USA
+2513	2522	covida-19	covid-19	EVT	EVT-Covid-19
+2527	2536	Trumpovim	Trump	PER	PER-Donald-Trump
+2568	2576	Kitajsko	Kitajska	LOC	GPE-China
+2630	2635	Bidnu	Biden	PER	PER-Joe-Biden
+2669	2683	prašičje gripe	prašičja gripa	EVT	EVT-Swine-Influenza
+2686	2691	Biden	Biden	PER	PER-Joe-Biden
+2875	2880	Trump	Trump	PER	PER-Donald-Trump
+2951	2956	Trump	Trump	PER	PER-Donald-Trump
+3037	3042	Biden	Biden	PER	PER-Joe-Biden
+3175	3182	Bidnova	Biden	PER	PER-Joe-Biden
+3233	3238	Biden	Biden	PER	PER-Joe-Biden
+3366	3371	Biden	Biden	PER	PER-Joe-Biden
+3420	3424	Jill	Jill	PER	PER-Jill-Biden
+3494	3500	Trumpa	Trump	PER	PER-Donald-Trump
+3540	3554	New York Times	New York Times	PRO	PRO-The-New-York-Times
+3702	3707	Trump	Trump	PER	PER-Donald-Trump
+3799	3804	Turmp	Trump	PER	PER-Donald-Trump
+3943	3948	Bidna	Biden	PER	PER-Joe-Biden
+4045	4050	Biden	Biden	PER	PER-Joe-Biden
+4059	4070	Ludvika 14.	Ludvik 14.	PER	PER-Louis-XIV
+4086	4105	demokratska stranka	demokratska stranka	ORG	ORG-Democratic-Party-USA
+4111	4119	Trumpovi	Trump	PER	PER-Donald-Trump
+4397	4402	Trump	Trump	PER	PER-Donald-Trump
+4463	4475	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+4476	4485	Belo hišo	Bela hiša	LOC	LOC-White-House
+4535	4540	Biden	Biden	PER	PER-Joe-Biden
+4601	4617	Amy Coney Barret	Amy Coney Barret	PER	PER-Amy-Coney-Barrett
+4934	4937	ZDA	ZDA	LOC	GPE-USA
+4941	4946	Biden	Biden	PER	PER-Joe-Biden
+4947	4953	Trumpa	Trump	PER	PER-Donald-Trump
+5088	5093	Bidna	Biden	PER	PER-Joe-Biden
+5156	5159	ZDA	ZDA	LOC	GPE-USA
+5239	5245	antifa	antifa	PRO	PRO-Antifa
+5277	5282	Biden	Biden	PER	PER-Joe-Biden
+5308	5315	Trumpov	Trump	PER	PER-Donald-Trump
+5325	5328	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+5342	5348	antifa	antifa	PRO	PRO-Antifa
+5422	5427	Biden	Biden	PER	PER-Joe-Biden
+5541	5546	Biden	Biden	PER	PER-Joe-Biden
+5580	5585	Biden	Biden	PER	PER-Joe-Biden
+5637	5642	Trump	Trump	PER	PER-Donald-Trump
+5726	5729	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+5804	5818	Ponosni fantje	Ponosni fantje	ORG	ORG-Proud-Boys
+5966	5971	Trump	Trump	PER	PER-Donald-Trump
+6163	6168	Biden	Biden	PER	PER-Joe-Biden
+6283	6289	Beauja	Beau	PER	PER-Beau-Biden
+6308	6313	Trump	Trump	PER	PER-Donald-Trump
+6357	6362	Trump	Trump	PER	PER-Donald-Trump
+6385	6390	Bidna	Biden	PER	PER-Joe-Biden
+6426	6432	Beauja	Beau	PER	PER-Beau-Biden
+6453	6461	Hunterja	Hunter	PER	PER-Hunter-Biden
+6528	6537	Kitajskem	Kitajska	LOC	GPE-China
+6541	6549	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+6558	6564	Rusiji	Rusija	LOC	GPE-Russia
+6566	6571	Biden	Biden	PER	PER-Joe-Biden
+6687	6694	Miamiju	Miami	LOC	GPE-Miami
+6739	6749	Clevelandu	Cleveland	LOC	GPE-Cleveland

@@ -1,0 +1,44 @@
+0	9	Niemiecka	Niemiecki	LOC	GPE-Germany
+31	38	Ukrainy	Ukraina	LOC	GPE-Ukraine
+90	97	Niemiec	Niemcy	LOC	GPE-Germany
+98	115	Annalena Baerbock	Annalena Baerbock	PER	PER-Annalena-Baerbock
+135	143	Tallinie	Tallin	LOC	GPE-Tallinn
+152	159	Niemiec	Niemcy	LOC	GPE-Germany
+216	223	Ukrainę	Ukraina	LOC	GPE-Ukraine
+233	244	niemieckiej	niemiecki	LOC	GPE-Germany
+287	305	krajach bałtyckich	kraje bałtyckie	LOC	LOC-Baltic-countries
+308	313	Rosja	Rosja	LOC	GPE-Russia
+345	350	Litwy	Litwa	LOC	GPE-Lithuania
+352	357	Łotwy	Łotwa	LOC	GPE-Latvia
+360	367	Estonii	Estonia	LOC	GPE-Estonia
+388	430	Litewskie Ministerstwo Spraw Zagranicznych	Litewskie Ministerstwo Spraw Zagranicznych	ORG	ORG-Ministry-of-Foreign-Affairs-Lithuania
+484	501	Wojna na Ukrainie	Wojna na Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+502	519	Annalena Baerbock	Annalena Baerbock	PER	PER-Annalena-Baerbock
+580	587	Estonii	Estonia	LOC	GPE-Estonia
+588	605	Evą-Marią Liimets	Eva-Maria Liimets	PER	PER-Eva-Maria-Liimets
+622	629	Niemcom	Niemcy	LOC	GPE-Germany
+671	679	Ukrainie	Ukraina	LOC	GPE-Ukraine
+731	749	rosyjskiej inwazji	rosyjska inwazja	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+793	801	Stingery	Stingery	PRO	PRO-FIM-92-Stinger
+980	987	Ukrainę	Ukraina	LOC	GPE-Ukraine
+1004	1021	Annalena Baerbock	Annalena Baerbock	PER	PER-Annalena-Baerbock
+1044	1050	Niemcy	Niemcy	LOC	GPE-Germany
+1132	1138	Berlin	Berlin	LOC	GPE-Berlin
+1211	1228	Eva-Maria Liimets	Eva-Maria Liimets	PER	PER-Eva-Maria-Liimets
+1261	1269	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1288	1293	Rosji	Rosja	LOC	GPE-Russia
+1404	1411	Estonia	Estonia	LOC	GPE-Estonia
+1528	1545	Annalena Baerbock	Annalena Baerbock	PER	PER-Annalena-Baerbock
+1556	1561	Rydze	Ryga	LOC	GPE-Riga
+1596	1601	Litwy	Litwa	LOC	GPE-Lithuania
+1603	1608	Łotwy	Łotwa	LOC	GPE-Latvia
+1611	1618	Estonii	Estonia	LOC	GPE-Estonia
+1620	1629	Niemiecka	Niemiecki	LOC	GPE-Germany
+1668	1672	NATO	NATO	ORG	ORG-NATO
+1715	1733	krajach bałtyckich	kraje bałtyckie	LOC	LOC-Baltic-countries
+1741	1747	Polsce	Polska	LOC	GPE-Poland
+1802	1808	Wilnie	Wilno	LOC	GPE-Vilnius
+1829	1834	Litwy	Litwa	LOC	GPE-Lithuania
+1835	1852	Gitanasem Nausedą	Gitanas Nauseda	PER	PER-Gitanas-Nauseda
+1862	1865	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Lithuania
+1866	1892	Gabrieliusem Landsbergisem	Gabrielius Landsbergis	PER	PER-Gabrielius-Landsbergis

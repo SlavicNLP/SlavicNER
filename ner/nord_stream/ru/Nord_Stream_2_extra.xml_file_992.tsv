@@ -1,0 +1,28 @@
+0	5	Париж	Париж	LOC	GPE-Paris
+36	38	ЕС	ЕС	ORG	ORG-European-Union
+54	74	"""Северный поток — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+76	81	ПАРИЖ	ПАРИЖ	LOC	GPE-Paris
+91	102	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+104	120	Виктория Иванова	Виктория Иванова	PER	PER-Viktoria-Ivanova
+122	129	Франция	Франция	LOC	GPE-France
+150	177	Газовой директивы Евросоюза	Газовая директива Евросоюза	PRO	PRO-Gas-Directive-EU
+222	242	"""Северный поток — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+277	280	МИД	МИД	ORG	ORG-Foreign-Affairs-France
+354	376	"""Северному потоку — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+398	410	Еврокомиссия	Еврокомиссия	ORG	ORG-European-Commission
+441	461	Газовую директиву ЕС	Газовая директива ЕС	PRO	PRO-Gas-Directive-EU
+544	546	ЕС	ЕС	ORG	ORG-European-Union
+594	603	Евросоюза	Евросоюз	ORG	ORG-European-Union
+929	951	"""Северному потоку — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+1070	1076	России	Россия	LOC	GPE-Russia
+1083	1098	Балтийское море	Балтийское море	LOC	LOC-Baltic-Sea
+1102	1110	Германии	Германия	LOC	GPE-Germany
+1128	1136	Германия	Германия	LOC	GPE-Germany
+1148	1160	Еврокомиссию	Еврокомиссия	ORG	ORG-European-Commission
+1205	1225	Газовую директиву ЕС	Газовая директива ЕС	PRO	PRO-Gas-Directive-EU
+1229	1236	Берлине	Берлин	LOC	GPE-Berlin
+1278	1298	"""Северный поток — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+1371	1374	ФРГ	ФРГ	LOC	GPE-Germany
+1607	1614	Берлине	Берлин	LOC	GPE-Berlin
+1668	1678	"""Газпрома"""	"""Газпром"""	ORG	ORG-Gazprom
+2038	2044	Европа	Европа	LOC	LOC-Europe

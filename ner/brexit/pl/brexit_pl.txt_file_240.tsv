@@ -1,0 +1,21 @@
+46	52	Polski	Polska	LOC	GPE-Poland
+55	61	Brexit	Brexit	EVT	EVT-Brexit
+90	107	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+134	140	Niemcy	Niemcy	LOC	GPE-Germany
+143	151	Holandię	Holandia	LOC	GPE-Holland
+189	204	Rzeczpospolitej	Rzeczpospolita	PRO	PRO-Rzeczpospolita
+261	276	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+296	303	Polaków	Polacy	PER	GPE-Poland
+462	481	Wyspach Brytyjskich	Wyspy Brytyjskie	LOC	GPE-Great-Britain
+572	587	Rzeczpospolitej	Rzeczpospolita	PRO	PRO-Rzeczpospolita
+618	630	Work Service	Work Service	ORG	ORG-Work-Service
+700	706	Niemcy	Niemcy	LOC	GPE-Germany
+709	717	Holandia	Holandia	LOC	GPE-Holland
+734	746	Work Service	Work Service	ORG	ORG-Work-Service
+747	765	Macieja Wituckiego	Maciej Witucki	PER	PER-Maciej-Witucki
+787	804	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+901	908	brexitu	Brexit	EVT	EVT-Brexit
+963	965	Rz	Rz	PRO	PRO-Rzeczpospolita
+1071	1088	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1178	1185	Polaków	Polacy	PER	GPE-Poland
+1258	1265	Wyspach	Wyspy	LOC	GPE-Great-Britain

@@ -1,0 +1,27 @@
+13	27	Великобритания	Великобритания	LOC	GPE-Great-Britain
+60	74	Великобритания	Великобритания	LOC	GPE-Great-Britain
+116	132	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+138	145	Брекзит	Брекзит	EVT	EVT-Brexit
+151	158	Брюксел	Брюксел	LOC	GPE-Brussles
+235	243	Политико	Политико	ORG	ORG-Politico
+330	337	Брюксел	Брюксел	LOC	GPE-Brussles
+404	418	Великобритания	Великобритания	LOC	GPE-Great-Britain
+479	486	Брекзит	Брекзит	EVT	EVT-Brexit
+507	509	ЕС	ЕС	ORG	ORG-European-Union
+510	517	Брюксел	Брюксел	LOC	GPE-Brussles
+557	571	Великобритания	Великобритания	LOC	GPE-Great-Britain
+639	649	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+754	756	ЕС	ЕС	ORG	ORG-European-Union
+910	917	Брюксел	Брюксел	LOC	GPE-Brussles
+999	1001	ЕС	ЕС	ORG	ORG-European-Union
+1053	1067	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1350	1357	Брюксел	Брюксел	LOC	GPE-Brussles
+1422	1425	Мей	Мей	PER	PER-Theresa-May
+1445	1459	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1537	1544	Брекзит	Брекзит	EVT	EVT-Brexit
+1546	1552	Лондон	Лондон	LOC	GPE-London
+1672	1674	ЕС	ЕС	ORG	ORG-European-Union
+1729	1743	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1768	1775	Брекзит	Брекзит	EVT	EVT-Brexit
+1819	1833	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1873	1875	ЕС	ЕС	ORG	ORG-European-Union

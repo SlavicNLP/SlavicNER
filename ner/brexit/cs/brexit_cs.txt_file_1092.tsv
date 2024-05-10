@@ -1,0 +1,32 @@
+0	6	Mayová	Mayová	PER	PER-Theresa-May
+32	38	Evropy	Evropa	LOC	LOC-Europe
+58	65	Brexitu	Brexit	EVT	EVT-Brexit
+88	94	LONDÝN	LONDÝN	LOC	GPE-London
+121	141	konzervativní strany	konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+143	157	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+165	173	Brexitem	brexit	EVT	EVT-Brexit
+217	225	Británie	Británie	LOC	GPE-Great-Britain
+228	234	Evropy	Evropa	LOC	LOC-Europe
+263	277	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+358	365	Mayovou	Mayová	PER	PER-Theresa-May
+477	495	Spojené království	Spojené království	LOC	GPE-Great-Britain
+504	511	Bruselu	Brusel	LOC	GPE-Brussles
+525	532	toryové	toryové	PER	ORG-Conservative-and-Unionist-Party-UK
+557	565	Británie	Británie	LOC	GPE-Great-Britain
+629	635	Mayová	Mayová	PER	PER-Theresa-May
+689	696	The Sun	The Sun	PRO	PRO-The-Sun
+697	703	Mayová	Mayová	PER	PER-Theresa-May
+742	749	Brexitu	Brexit	EVT	EVT-Brexit
+798	812	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+915	922	Britové	Britové	PER	GPE-Great-Britain
+1170	1177	Brexitu	Brexit	EVT	EVT-Brexit
+1194	1214	The Sunday Telegraph	The Sunday Telegraph	PRO	PRO-The-Sunday-Telegraph
+1235	1245	Labouristé	Labouristé	PER	ORG-Labour-Party-UK
+1286	1299	konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+1308	1315	Mayovou	Mayová	PER	PER-Theresa-May
+1397	1415	Spojené království	Spojené království	LOC	GPE-Great-Britain
+1432	1434	EU	EU	ORG	ORG-European-Union
+1460	1493	Evropského hospodářského prostoru	evropský hospodářský prostor	ORG	ORG-EEA-European-Economic-Area
+1495	1498	EHP	EHP	ORG	ORG-EEA-European-Economic-Area
+1507	1542	Evropského sdružení volného obchodu	evropské sdružení volného obchodu	ORG	ORG-European-Free-Trade-Association-EFTA
+1544	1548	ESVO	ESVO	ORG	ORG-European-Free-Trade-Association-EFTA

@@ -1,0 +1,12 @@
+0	11	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+68	89	Koronavirová pandemie	Koronavirová pandemie	EVT	EVT-Covid-19
+333	343	koronaviru	koronavirus	EVT	EVT-Covid-19
+388	402	Martin Rychlík	Martin Rychlík	PER	PER-Martin-Rychlik
+551	559	covid-19	covid-19	EVT	EVT-Covid-19
+578	582	Češi	Češi	PER	GPE-Czech-Republic
+616	619	PCR	PCR	PRO	PRO-PCR-Test
+757	762	Česka	Česko	LOC	GPE-Czech-Republic
+889	893	ČVUT	ČVUT	ORG	ORG-CVUT-Czech-Republic
+936	943	Reuters	Reuters	ORG	ORG-Reuters
+968	976	CoroVent	CoroVent	PRO	PRO-CoroVent
+995	1013	The New York Times	The New York Times	PRO	PRO-The-New-York-Times

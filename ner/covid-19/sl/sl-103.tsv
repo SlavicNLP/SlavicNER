@@ -1,0 +1,18 @@
+8	16	COVID-19	COVID-19	EVT	EVT-Covid-19
+209	222	Roberta Rolih	Robert Rolih	PER	PER-Robert-Rolih
+287	314	The Million Dollar Decision	The Million Dollar Decision	PRO	PRO-The-Million-Dollar-Decision
+317	323	Robert	Robert	PER	PER-Robert-Rolih
+447	455	Covid-19	Covid-19	EVT	EVT-Covid-19
+595	603	Covid-19	Covid-19	EVT	EVT-Covid-19
+1035	1041	Robert	Robert	PER	PER-Robert-Rolih
+1654	1661	Italijo	Italija	LOC	GPE-Italy
+1976	1984	Kitajske	Kitajska	LOC	GPE-China
+2026	2065	kongres mobilne tehnologije v Barceloni	kongres mobilne tehnologije v Barceloni	EVT	EVT-Mobile-World-Congress-Barcelona
+2083	2110	avtomobilski salon v Ženevi	avtomobilski salon v Ženevi	EVT	EVT-Geneva-International-Motor-Show
+2435	2447	Robert Rolih	Robert Rolih	PER	PER-Robert-Rolih
+2596	2611	Združene države	Združene države	LOC	GPE-USA
+2618	2624	Evropo	Evropa	LOC	LOC-Europe
+3041	3065	Ameriška centralna banka	Ameriška centralna banka	ORG	ORG-Federal-Reserve-System
+3325	3330	Rolih	Rolih	PER	PER-Robert-Rolih
+3360	3372	Robert Rolih	Robert Rolih	PER	PER-Robert-Rolih
+3505	3513	Covid-19	Covid-19	EVT	EVT-Covid-19

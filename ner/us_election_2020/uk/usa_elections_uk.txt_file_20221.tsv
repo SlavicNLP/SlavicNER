@@ -1,0 +1,28 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+14	34	праймериз демократів	праймериз демократів	EVT	EVT-Democratic-Party-USA-primaries
+37	55	Південній Кароліні	Південна Кароліна	LOC	GPE-South-Carolina-US-State
+136	144	Facebook	Facebook	PRO	PRO-Facebook
+147	154	Twitter	Twitter	PRO	PRO-Twitter
+157	167	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+176	196	politconservatism.ru	politconservatism.ru	PRO	PRO-politconservatism.ru
+241	244	США	США	LOC	GPE-USA
+249	269	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+270	280	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+307	324	первинних виборах	первинні вибори	EVT	EVT-Democratic-Party-USA-primaries
+325	347	(праймериз) демократів	(праймериз) демократів	EVT	EVT-Democratic-Party-USA-primaries
+370	373	CNN	CNN	ORG	ORG-CNN
+415	432	Південна Кароліна	Південна Кароліна	LOC	GPE-South-Carolina-US-State
+530	543	Берні Сандерс	Берні Сандерс	PER	PER-Bernie-Sanders
+573	582	Том Стаєр	Том Стаєр	PER	PER-Tom-Steyer
+597	615	Південній Кароліні	Південна Кароліна	LOC	GPE-South-Carolina-US-State
+659	675	Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+698	705	Байдена	Байден	PER	PER-Joe-Biden
+938	940	AP	AP	ORG	ORG-AP-The-Associated-Press
+942	949	Сандерс	Сандерс	PER	PER-Bernie-Sanders
+1003	1009	Байден	Байден	PER	PER-Joe-Biden
+1049	1062	Піт Буттіджіч	Піт Буттіджіч	PER	PER-Peter-Buttigieg
+1074	1089	Елізабет Уоррен	Елізабет Уоррен	PER	PER-Elizabeth-Warren
+1092	1104	Емі Клобушар	Емі Клобушар	PER	PER-Amy-Klobuchar
+1166	1173	Байдена	Байден	PER	PER-Joe-Biden
+1281	1290	праймериз	праймериз	EVT	EVT-Democratic-Party-USA-primaries
+1418	1439	Вибори президента США	Вибори президента США	EVT	EVT-2020-United-States-Presidential-Election

@@ -1,0 +1,24 @@
+0	3	USA	USA	LOC	GPE-USA
+70	83	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+85	102	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+196	209	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+238	244	Europę	Europa	LOC	LOC-Europe
+257	271	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+274	291	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+354	367	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+369	372	USA	USA	LOC	GPE-USA
+441	447	Europy	Europa	LOC	LOC-Europe
+498	503	Rosję	Rosja	LOC	GPE-Russia
+545	555	Waszyngton	Waszyngton	LOC	GPE-WashingtonDC
+574	580	Europy	Europa	LOC	LOC-Europe
+678	704	Południowy Korytarz Gazowy	Południowy Korytarz Gazowy	PRO	PRO-Southern-Gas-Corridor
+709	720	Baltic Pipe	Baltic Pipe	PRO	PRO-Baltic-Pipe
+752	758	Europy	Europa	LOC	LOC-Europe
+820	823	USA	USA	LOC	GPE-USA
+825	836	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+920	933	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+975	978	USA	USA	LOC	GPE-USA
+980	992	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1074	1083	Rosjanami	Rosjanie	PER	GPE-Russia
+1163	1176	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1189	1203	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl

@@ -1,0 +1,53 @@
+21	34	Анна Семенова	Анна Семенова	PER	PER-Anna-Semyonova
+36	50	Вероника Богма	Вероника Богма	PER	PER-Veronika Bogma
+52	69	Руслан Бикбулатов	Руслан Бикбулатов	PER	PER-Ruslan Bikbulatov
+71	84	Мурат Зарипов	Мурат Зарипов	PER	PER-Murat Zaripov
+99	114	Красной площади	Красная площадь	LOC	GPE-The-Red-Square
+130	138	COVID-19	COVID-19	EVT	EVT-Covid-19
+150	154	ГУМе	ГУМ	LOC	GPE-Main-Department-Store
+159	165	России	Россия	LOC	GPE-Russia
+212	220	COVID-19	COVID-19	EVT	EVT-Covid-19
+232	248	Роспотребнадзора	Роспотребнадзор	ORG	ORG-CPS
+595	599	ГУМе	ГУМ	LOC	GPE-Main-Department-Store
+603	618	Красной площади	Красная площадь	LOC	GPE-The-Red-Square
+624	654	Главном универсальном магазине	Главный универсальный магазин	LOC	GPE-Main-Department-Store
+666	677	"""Спутником"""	Спутник	PRO	PRO-Sputnik-V
+760	764	ГУМе	ГУМ	LOC	GPE-Main-Department-Store
+926	938	коронавируса	коронавирус	EVT	EVT-Covid-19
+962	977	Красной площади	Красная площадь	LOC	GPE-The-Red-Square
+992	1002	российской	российский	PER	GPE-Russia
+1418	1421	КНР	КНР	LOC	GPE-China
+1519	1526	россиян	россияне	PER	GPE-Russia
+1542	1548	России	Россия	LOC	GPE-Russia
+1580	1593	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1605	1615	российский	российский	PER	GPE-Russia
+1767	1778	российского	российский	PER	GPE-Russia
+1791	1805	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+2236	2254	Ростовской области	Ростовская область	LOC	GPE-Rostov-region
+2474	2482	Госуслуг	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+2564	2580	Вячеслав Черняев	Вячеслав Черняев	PER	PER-Vyacheslav-Chernyaev
+2695	2713	Галина Буравитская	Галина Буравитская	PER	PER-Galina-Borovitskaya
+2909	2923	Мария Волошина	Мария Волошина	PER	PER-Maria-Voloshina
+3117	3136	Саратовской области	Саратовская область	LOC	GPE-Saratov-region
+3291	3310	Саратовской области	Саратовская область	LOC	GPE-Saratov-region
+3404	3433	Балашовской районной больнице	Балашовская районная больница	LOC	GPE-Balashovskaya-district-Hospital
+3573	3581	Балашова	Балашов	LOC	GPE-Balashov
+3582	3596	Виктор Меринов	Виктор Меринов	PER	PER-Victor-Merinov
+3600	3619	Саратовская область	Саратовская область	LOC	GPE-Saratov-region
+3996	4007	Подмосковье	Подмосковье	LOC	GPE-Moscow-region
+4441	4459	Московской области	Московская область	LOC	GPE-Moscow-region
+4460	4475	Андрей Воробьев	Андрей Воробьев	PER	PER-Andrey-Vorobyov
+4514	4523	россиянам	россияне	PER	GPE-Russia
+4926	4962	Сергиево-Посадской районной больницы	Сергиево-Посадская районная больница	LOC	GPE-Sergiev-Posad-District-Hospital
+4963	4977	Василий Дарган	Василий Дарган	PER	PER-Vasily-Dargan
+5113	5140	ГКБ №15 имени О.М. Филатова	ГКБ №15 имени О.М. Филатова	LOC	GPE-Clinical-Hospital-№15-named-after-O-M-Filatov
+5141	5156	Ирина Маршутина	Ирина Маршутина	PER	PER-Irina-Marshutina
+5226	5234	Башкирии	Башкирия	LOC	GPE-Bashkortostan
+5338	5341	Уфы	Уфа	LOC	GPE-Ufa
+5476	5484	ковидных	ковидные	EVT	EVT-Covid-19
+5559	5567	Башкирии	Башкирия	LOC	GPE-Bashkortostan
+5866	5879	Башкортостана	Башкортостан	LOC	GPE-Bashkortostan
+5880	5897	Александр Сидякин	Александр Сидякин	PER	PER-Alexander-Sidyakin
+6018	6026	COVID-19	COVID-19	EVT	EVT-Covid-19
+6553	6559	Москве	Москва	LOC	GPE-Moscow
+6673	6685	коронавируса	коронавирус	EVT	EVT-Covid-19

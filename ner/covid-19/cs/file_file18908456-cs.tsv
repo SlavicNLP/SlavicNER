@@ -1,0 +1,12 @@
+0	5	Dubaj	Dubaj	LOC	GPE-Dubai
+130	140	koronaviru	koronavirus	EVT	EVT-Covid-19
+183	188	Dubaj	Dubaj	LOC	GPE-Dubai
+289	295	Dubaji	Dubaj	LOC	GPE-Dubai
+332	340	Emirates	Emirates	ORG	ORG-Emirates
+380	388	flydubai	flydubai	ORG	ORG-Flydubai
+406	411	Prahy	Praha	LOC	GPE-Prague
+415	421	Dubaje	Dubaj	LOC	GPE-Dubai
+560	566	Dubaje	Dubaj	LOC	GPE-Dubai
+587	593	Dubaji	Dubaj	LOC	GPE-Dubai
+638	648	PCR testem	PCR test	PRO	PRO-PCR-Test
+652	660	COVID-19	COVID-19	EVT	EVT-Covid-19

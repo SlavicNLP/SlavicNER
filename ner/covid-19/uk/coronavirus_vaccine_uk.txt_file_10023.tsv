@@ -1,0 +1,21 @@
+0	4	Іран	Іран	LOC	GPE-Iran
+28	33	COVID	COVID	EVT	EVT-Covid-19
+44	61	Корреспондент.net	Корреспондент.net	PRO	PRO-Korrespondent-net
+95	99	Іран	Іран	LOC	GPE-Iran
+138	140	РФ	РФ	LOC	GPE-Russia
+153	158	Ірану	Іран	LOC	GPE-Iran
+196	208	коронавірусу	коронавірус	EVT	EVT-Covid-19
+315	327	коронавірусу	коронавірус	EVT	EVT-Covid-19
+328	338	Супутник V	Супутник V	PRO	PRO-Sputnik-V
+355	360	Ірані	Іран	LOC	GPE-Iran
+419	422	МЗС	МЗС	ORG	ORG-Foreign-Office
+423	428	Ірану	Іран	LOC	GPE-Iran
+429	450	Мохаммад Джавад Заріф	Мохаммад Джавад Заріф	PER	PER-Mohammad-Javad-Zarif
+457	466	Інтерфакс	Інтерфакс	PRO	PRO-Interfax
+511	521	Супутник V	Супутник V	PRO	PRO-Sputnik-V
+549	554	Ірані	Іран	LOC	GPE-Iran
+610	615	Заріф	Заріф	PER	PER-Mohammad-Javad-Zarif
+690	706	Сергієм Лавровим	Сергій Лавров	PER	PER-Sergey-Lavrov
+716	721	Ірану	Іран	LOC	GPE-Iran
+748	753	COVID	COVID	EVT	EVT-Covid-19
+820	822	РФ	РФ	LOC	GPE-Russia

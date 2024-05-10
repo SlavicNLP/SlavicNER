@@ -1,0 +1,23 @@
+0	6	Pfizer	Pfizer	ORG	ORG-Pfizer
+18	26	covid-19	covid-19	EVT	EVT-Covid-19
+91	97	Pfizer	Pfizer	ORG	ORG-Pfizer
+144	152	covid-19	covid-19	EVT	EVT-Covid-19
+202	215	Albert Bourla	Albert Bourla	PER	PER-Albert-Bourla
+246	286	Združenja farmacevtskih podjetij in zvez	Združenje farmacevtskih podjetij in zvez	ORG	ORG-IFPMA-International-Federation-of-Pharmaceutical-Manufacturers-&-Associations
+288	293	IFPMA	IFPMA	ORG	ORG-IFPMA-International-Federation-of-Pharmaceutical-Manufacturers-&-Associations
+410	413	dpa	dpa	ORG	ORG-DPA
+513	519	Ženevi	Ženeva	LOC	GPE-Geneva
+526	532	Bourla	Bourla	PER	PER-Albert-Bourla
+548	554	Afriki	Afrika	LOC	LOC-Africa
+856	862	Pfizer	Pfizer	ORG	ORG-Pfizer
+970	989	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+997	1030	Svetovna zdravstvena organizacija	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+1253	1264	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1341	1346	IFPMA	IFPMA	ORG	ORG-IFPMA-International-Federation-of-Pharmaceutical-Manufacturers-&-Associations
+1465	1470	IFPMA	IFPMA	ORG	ORG-IFPMA-International-Federation-of-Pharmaceutical-Manufacturers-&-Associations
+1471	1483	Thomas Cueni	Thomas Cueni	PER	PER-Thomas-Cueni
+1746	1765	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1873	1906	Svetovne zdravstvene organizacije	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+1939	1957	Johnson & Johnsonu	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+1958	1971	Paul Stoffels	Paul Stoffels	PER	PER-Paul-Stoffels
+2017	2029	koronavirusu	koronavirus	EVT	EVT-Covid-19

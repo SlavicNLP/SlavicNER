@@ -1,0 +1,52 @@
+0	6	Байдън	Байдън	PER	PER-Joe-Biden
+59	68	Белия дом	Белия дом	LOC	LOC-White-House
+70	82	Роналд Клейн	Роналд Клейн	PER	PER-Ron-Klain
+182	185	САЩ	САЩ	LOC	GPE-USA
+186	196	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+246	255	Белия дом	Белия дом	LOC	LOC-White-House
+305	323	Роналд (Рон) Клейн	Роналд (Рон) Клейн	PER	PER-Ron-Klain
+342	348	Байдън	Байдън	PER	PER-Joe-Biden
+377	384	Ройтерс	Ройтерс	ORG	ORG-Reuters
+547	556	Белия дом	Белия дом	LOC	LOC-White-House
+643	649	Байдън	Байдън	PER	PER-Joe-Biden
+653	658	Клейн	Клейн	PER	PER-Ron-Klain
+796	805	Белия дом	Белия дом	LOC	LOC-White-House
+821	827	Байдън	Байдън	PER	PER-Joe-Biden
+852	864	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+867	873	Байдън	Байдън	PER	PER-Joe-Biden
+876	881	Клейн	Клейн	PER	PER-Ron-Klain
+908	917	Белия дом	Белия дом	LOC	LOC-White-House
+926	932	Байдън	Байдън	PER	PER-Joe-Biden
+964	975	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+977	982	Клейн	Клейн	PER	PER-Ron-Klain
+1032	1038	Байдън	Байдън	PER	PER-Joe-Biden
+1087	1096	демократа	демократ	PER	ORG-Democratic-Party-USA
+1123	1128	Сенат	Сенат	ORG	ORG-United-States-Senate
+1140	1146	Байдън	Байдън	PER	PER-Joe-Biden
+1187	1210	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+1268	1274	Байдън	Байдън	PER	PER-Joe-Biden
+1275	1280	Клейн	Клейн	PER	PER-Ron-Klain
+1433	1443	пандемията	пандемия	EVT	EVT-Pandemic
+1459	1464	Обама	Обама	PER	PER-Barack-Obama
+1473	1478	Клейн	Клейн	PER	PER-Ron-Klain
+1525	1528	САЩ	САЩ	LOC	GPE-USA
+1532	1551	епидемията от ебола	епидемия от ебола	EVT	EVT-Ebola
+1580	1588	Covid-19	COVID-19	EVT	EVT-Covid-19
+1589	1594	Клейн	Клейн	PER	PER-Ron-Klain
+1631	1643	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1710	1716	Байдън	Байдън	PER	PER-Joe-Biden
+1747	1757	пандемията	пандемия	EVT	EVT-Pandemic
+1817	1823	Байдън	Байдън	PER	PER-Joe-Biden
+1852	1862	пандемията	пандемия	EVT	EVT-Pandemic
+1893	1898	Клейн	Клейн	PER	PER-Ron-Klain
+1923	1932	демократи	демократи	PER	ORG-Democratic-Party-USA
+1950	1955	Клейн	Клейн	PER	PER-Ron-Klain
+1956	1962	Байдън	Байдън	PER	PER-Joe-Biden
+2033	2044	демократите	демократи	PER	ORG-Democratic-Party-USA
+2179	2190	Стив Ричети	Стив Ричети	PER	PER-Steve-Richetti
+2270	2281	демократите	демократи	PER	ORG-Democratic-Party-USA
+2287	2296	Брус Рийд	Брус Рийд	PER	PER-Bruce-Reed
+2385	2390	Клейн	Клейн	PER	PER-Ron-Klain
+2468	2477	Белия дом	Белия дом	LOC	LOC-White-House
+2770	2779	Белия дом	Белия дом	LOC	LOC-White-House
+2782	2791	Капитолия	Капитолия	LOC	LOC-United-States-Capitol

@@ -1,0 +1,27 @@
+12	24	Илия Лазаров	Илия Лазаров	PER	PER-Ilia-Lazarov
+72	78	Тексас	Тексас	LOC	GPE-Texas
+87	99	републиканци	републиканци	PER	ORG-Republican-Party-USA
+121	130	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+196	204	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+283	290	Reuters	Reuters	ORG	ORG-Reuters
+300	319	Джереми Д. Кърнодъл	Джереми Д. Кърнодъл	PER	PER-Jeremy-Kernodle
+352	379	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+380	389	Лу Гомърт	Лу Гомърт	PER	PER-Louie-Gohmert
+413	420	Аризона	Аризона	LOC	GPE-Arizona
+511	520	демократа	демократ	PER	ORG-Democratic-Party-USA
+521	531	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+541	545	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+599	603	Пенс	Пенс	PER	PER-Mike-Pence
+754	756	AP	AP	ORG	ORG-AP-The-Associated-Press
+802	814	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+862	884	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+912	920	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+962	968	Сената	Сенат	ORG	ORG-United-States-Senate
+969	981	Мич МакКонъл	Мич Макконъл	PER	PER-Mitch-McConnell
+1074	1080	Мисури	Мисури	LOC	GPE-Missouri
+1081	1091	Джош Хоули	Джош Хоули	PER	PER-Josh-Hawley
+1124	1138	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1142	1169	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+1266	1280	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1296	1304	Небраска	Небраска	LOC	GPE-Nebraska
+1305	1313	Бен Сасе	Бен Сасе	PER	PER-Ben-Sasse

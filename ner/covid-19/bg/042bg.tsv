@@ -1,0 +1,15 @@
+0	3	СЗО	СЗО	ORG	ORG-WHO
+66	76	пандемията	пандемия	EVT	EVT-Pandemic
+109	133	Тедрос Аданом Гебрейесус	Тедрос Аданом Гебрейесус	PER	PER-Tedros-Adhanom-Ghebreyesus
+183	195	коронавируса	коронавирус	EVT	EVT-Covid-19
+278	303	пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+340	370	Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+371	395	Тедрос Аданом Гебрейесус	Тедрос Аданом Гебрейесус	PER	PER-Tedros-Adhanom-Ghebreyesus
+408	415	Ройтерс	Ройтерс	ORG	ORG-Reuters
+602	616	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+780	802	коронавирусна инфекция	коронавирусна инфекция	EVT	EVT-Covid-19
+907	935	Института “Гамалея” в Москва	Институт “Гамалея” в Москва	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+961	995	Министерството на здравеопазването	Министерство на здравеопазването	ORG	ORG-Ministry-of-Health-Bulgaria
+1002	1007	Путин	Путин	PER	PER-Vladimir-Putin
+1275	1278	СЗО	СЗО	ORG	ORG-WHO
+1296	1306	пандемията	пандемия	EVT	EVT-Pandemic

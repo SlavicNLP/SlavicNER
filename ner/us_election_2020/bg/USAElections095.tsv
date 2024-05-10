@@ -1,0 +1,56 @@
+36	63	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+94	101	Америка	Америка	LOC	GPE-USA
+201	215	републиканците	републиканци	PER	ORG-Republican-Party-USA
+216	228	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+251	258	Флорида	Флорида	LOC	GPE-Florida
+260	268	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+271	277	Тексас	Тексас	LOC	GPE-Texas
+294	304	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+309	314	Айова	Айова	LOC	GPE-Iowa
+317	324	Аризона	Аризона	LOC	GPE-Arizona
+348	353	Тръмп	Тръмп	PER	PER-Donald-Trump
+360	366	Байдън	Байдън	PER	PER-Joe-Biden
+426	447	изборите за Белия дом	избори за Белия дом	EVT	EVT-2020-United-States-Presidential-Election
+449	454	Тръмп	Тръмп	PER	PER-Donald-Trump
+485	492	Кентъки	Кентъки	LOC	GPE-Kentucky
+494	500	Канзас	Канзас	LOC	GPE-Kansas
+502	510	Луизиана	Луизиана	LOC	GPE-Louisiana
+512	520	Уайоминг	Уайоминг	LOC	GPE-Wyoming
+522	539	Западна Вирджиния	Западна Вирджиния	LOC	GPE-West-Virginia
+541	554	Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+556	563	Алабама	Алабама	LOC	GPE-USA-Alabama
+565	573	Мисисипи	Мисисипи	LOC	GPE-Mississippi
+575	581	Тенеси	Тенеси	LOC	GPE-Tennessee
+583	591	Оклахома	Оклахома	LOC	GPE-Oklahoma
+593	601	Арканзас	Арканзас	LOC	GPE-Arkansas
+603	614	Южна Дакота	Южна Дакота	LOC	GPE-South-Dakota-US-State
+617	625	Небраска	Небраска	LOC	GPE-Nebraska
+643	654	демократите	демократи	PER	ORG-Democratic-Party-USA
+655	665	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+678	686	Колорадо	Колорадо	LOC	GPE-Colorado
+688	698	Ню Мексико	Ню Мексико	LOC	GPE-New Mexico
+700	707	Върмонт	Върмонт	LOC	GPE-Vermont
+709	718	Вирджиния	Вирджиния	LOC	GPE-Virginia
+720	731	Роуд Айланд	Роуд Айланд	LOC	GPE-Rhode-Island
+733	740	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+742	751	Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+753	763	Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+765	773	Мериленд	Мериленд	LOC	GPE-Maryland
+775	782	Илинойс	Илинойс	LOC	GPE-Illinois
+784	791	Делауер	Делауер	LOC	GPE-Delaware
+793	803	Кънектикът	Кънектикът	LOC	GPE-Connecticut
+806	830	Федерален окръг Колумбия	Федерален окръг Колумбия	LOC	GPE-District-of-Columbia
+918	928	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+980	992	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1090	1096	Байдън	Байдън	PER	PER-Joe-Biden
+1133	1138	Тръмп	Тръмп	PER	PER-Donald-Trump
+1244	1247	САЩ	САЩ	LOC	GPE-USA
+1271	1277	Сената	Сенат	ORG	ORG-United-States-Senate
+1296	1308	американците	американци	PER	GPE-USA
+1362	1370	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1382	1393	демократите	демократи	PER	ORG-Democratic-Party-USA
+1423	1450	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+1503	1529	Долната камара на Конгреса	Долна камара на Конгреса	ORG	ORG-House-of-Representatives(USA)
+1585	1599	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1618	1644	Горната камара на Конгреса	Горна камара на Конгреса	ORG	ORG-United-States-Senate
+1739	1742	САЩ	САЩ	LOC	GPE-USA

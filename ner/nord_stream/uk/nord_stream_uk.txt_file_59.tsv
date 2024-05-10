@@ -1,0 +1,31 @@
+12	27	Північний потік	Північний потік	ORG	ORG-Nord-Stream-AG
+52	67	Північний потік	Північний потік	ORG	ORG-Nord-Stream-AG
+142	144	РФ	РФ	LOC	GPE-Russia
+146	148	ЄС	ЄС	LOC	ORG-European-Union
+152	159	України	Україна	LOC	GPE-Ukraine
+181	190	Интерфакс	Інтерфакс	ORG	ORG-Interfax
+232	240	Євросоюз	Євросоюз	ORG	ORG-European-Union
+251	256	Росії	Росія	LOC	GPE-Russia
+373	379	Росією	Росія	LOC	GPE-Russia
+381	389	Україною	Україна	LOC	GPE-Ukraine
+392	413	Європейською комісією	Європейська комісія	ORG	ORG-European-Commission
+510	512	РФ	РФ	LOC	GPE-Russia
+513	530	Олександра Новака	Олександр Новак	PER	PER-Aleksandr-Novak
+737	744	України	Україна	LOC	GPE-Ukraine
+817	826	Газпромом	Газпром	ORG	ORG-Gazprom
+831	841	Нафтогазом	Нафтогаз	ORG	ORG-Naftogaz
+842	849	України	Україна	LOC	GPE-Ukraine
+871	882	Nord Stream	Nord Stream	ORG	ORG-Nord-Stream-AG
+1067	1074	Україну	Україна	LOC	GPE-Ukraine
+1176	1183	України	Україна	LOC	GPE-Ukraine
+1214	1216	РФ	РФ	LOC	GPE-Russia
+1219	1221	ЄС	ЄС	LOC	ORG-European-Union
+1288	1301	Павло Клімкін	Павло Клімкін	PER	PER-Pavlo-Klimkin
+1322	1331	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+1333	1347	Андрій Коболєв	Андрій Коболєв	PER	PER-Andrii-Kobliev
+1391	1393	ЄС	ЄС	LOC	ORG-European-Union
+1396	1403	Берліні	Берлін	LOC	GPE-Berlin
+1445	1447	РФ	РФ	LOC	GPE-Russia
+1448	1463	Олександр Новак	Олександр Новак	PER	PER-Aleksandr-Novak
+1481	1489	Газпрому	Газпром	ORG	ORG-Gazprom
+1492	1509	Економічна правда	Економічна правда	PRO	PRO-Economic-Truth

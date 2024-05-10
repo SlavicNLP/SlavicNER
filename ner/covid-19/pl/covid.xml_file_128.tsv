@@ -1,0 +1,13 @@
+25	33	COVID-19	COVID-19	EVT	EVT-Covid-19
+92	100	BioNTech	BioNTech	ORG	ORG-BioNTech
+127	142	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+144	154	Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+196	198	UE	UE	ORG	ORG-European-Union
+388	391	USA	USA	LOC	GPE-USA
+433	441	COVID-19	COVID-19	EVT	EVT-Covid-19
+603	613	Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+628	639	Der Spiegel	Der Spiegel	PRO	PRO-Der-Spiegel
+649	655	Sahina	Sahin	PER	PER-Ugur-Sahin
+663	667	Unii	Unia	ORG	ORG-European-Union
+721	729	BioNTech	BioNTech	ORG	ORG-BioNTech
+742	744	UE	UE	ORG	ORG-European-Union

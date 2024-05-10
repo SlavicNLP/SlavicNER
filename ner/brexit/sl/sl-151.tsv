@@ -1,0 +1,21 @@
+19	25	Brexit	Brexit	EVT	EVT-Brexit
+93	99	Evropa	Evropa	LOC	LOC-Europe
+150	158	Britanci	Britanec	PER	GPE-Great-Britain
+287	301	evropske unije	evropska unija	ORG	ORG-European-Union
+343	348	Delov	Delo	ORG	ORG-Delo
+360	370	Ali Žerdin	Ali Žerdin	PER	PER-Ali-Žerdin
+413	419	Evropo	Evropa	LOC	LOC-Europe
+460	466	Evropi	Evropa	LOC	LOC-Europe
+570	582	Janez Markeš	Janez Markeš	PER	PER-Janez-Markeš
+586	600	Evropska Unija	Evropska Unija	ORG	ORG-European-Union
+635	644	Britanija	Britanija	LOC	GPE-Great-Britain
+711	717	Žerdin	Žerdin	PER	PER-Ali-Žerdin
+781	787	Kranju	Kranj	LOC	GPE-Kranj
+809	821	Vitomir Gros	Vitomir Gros	PER	PER-Vitomir-Gros
+974	978	Gros	Gros	PER	PER-Anton-Gros
+1054	1066	Vitomir Gros	Vitomir Gros	PER	PER-Vitomir-Gros
+1170	1177	Žerdina	Žerdin	PER	PER-Ali-Žerdin
+1183	1190	brexitu	brexit	EVT	EVT-Brexit
+1206	1212	Markeš	Markeš	PER	PER-Janez-Markeš
+1269	1275	brexit	brexit	EVT	EVT-Brexit
+1310	1316	brexit	brexit	EVT	EVT-Brexit

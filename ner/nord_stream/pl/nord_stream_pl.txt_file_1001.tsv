@@ -1,0 +1,39 @@
+29	35	Niemcy	Niemcy	LOC	GPE-Germany
+67	80	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+105	118	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+135	140	Rosji	Rosja	LOC	GPE-Russia
+157	163	Europy	Europa	LOC	LOC-Europe
+177	184	Ukrainy	Ukraina	LOC	GPE-Ukraine
+205	212	Niemiec	Niemcy	LOC	GPE-Germany
+286	301	Steffen Seibert	Steffen Seibert	PER	PER-Steffen-Hoffman
+318	325	Reutera	Reuter	ORG	ORG-Reuters
+464	477	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+489	496	Seibert	Seibert	PER	PER-Steffen-Seibert
+530	539	Niemczech	Niemcy	LOC	GPE-Germany
+637	643	Rosjan	Rosjanie	PER	GPE-Russia
+664	685	Cieśniny Kerczeńskiej	Cieśnina Kerczeńska	LOC	LOC-Kerch-Strait
+736	739	dpa	DPA	ORG	ORG-DPA
+741	748	Seibert	Seibert	PER	PER-Steffen-Seibert
+808	813	Rosji	Rosja	LOC	GPE-Russia
+940	942	UE	UE	ORG	ORG-European-Union
+976	983	Europie	Europa	LOC	LOC-Europe
+999	1002	Dpa	DPA	ORG	ORG-DPA
+1018	1025	Seibert	Seibert	PER	PER-Steffen-Seibert
+1093	1106	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1240	1247	Ukraina	Ukraina	LOC	GPE-Ukraine
+1352	1355	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+1405	1410	Rosji	Rosja	LOC	GPE-Russia
+1449	1452	dpa	DPA	ORG	ORG-DPA
+1532	1539	Niemiec	Niemcy	LOC	GPE-Germany
+1540	1553	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+1578	1601	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+1625	1638	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1643	1649	Niemcy	Niemcy	LOC	GPE-Germany
+1830	1838	Gazpromu	Gazprom	ORG	ORG-Gazprom
+1855	1868	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1922	1925	OMV	OMV	ORG	ORG-OMV
+1938	1954	BASF-Wintershall	BASF-Wintershall	ORG	ORG-BASF-Wintershall
+1957	1963	Uniper	Uniper	ORG	ORG-Uniper
+1978	1982	E.On	E.On	ORG	ORG-E.ON
+1995	2000	Engie	Engie	ORG	ORG-Engie
+2025	2042	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group

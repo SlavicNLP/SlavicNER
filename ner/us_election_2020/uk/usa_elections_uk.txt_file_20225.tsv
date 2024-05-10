@@ -1,0 +1,14 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+17	23	Трампа	Трамп	PER	PER-Donald-Trump
+26	38	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+41	46	Трамп	Трамп	PER	PER-Donald-Trump
+129	137	Facebook	Facebook	PRO	PRO-Facebook
+140	147	Twitter	Twitter	PRO	PRO-Twitter
+156	159	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+160	163	UPG	UPG	ORG	ORG-UPG
+179	203	Демократичної партії США	Демократична партія США	ORG	ORG-Democratic-Party-USA
+204	214	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+242	257	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+296	308	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+313	318	Трамп	Трамп	PER	PER-Donald-Trump
+386	398	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania

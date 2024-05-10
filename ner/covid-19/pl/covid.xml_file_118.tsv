@@ -1,0 +1,21 @@
+0	6	Meksyk	Meksyk	LOC	GPE-Mexico
+17	25	Covid-19	Covid-19	EVT	EVT-Covid-19
+146	153	Meksyku	Meksyk	LOC	GPE-Mexico
+409	415	Meksyk	Meksyk	LOC	GPE-Mexico
+496	506	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+511	532	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+534	542	Brazylii	Brazylia	LOC	GPE-Brazil
+545	552	Indiach	Indie	LOC	GPE-India
+731	739	Covid-19	Covid-19	EVT	EVT-Covid-19
+759	766	Wigilię	Wigilia	EVT	EVT-Christmas-Eve
+779	786	Meksyku	Meksyk	LOC	GPE-Mexico
+787	814	Andres Manuel Lopez Obrador	Andres Manuel Lopez Obrador	PER	PER-Andres-Manuel-Lopez-Obrador
+887	894	Meksyku	Meksyk	LOC	GPE-Mexico
+927	935	Covid-19	Covid-19	EVT	EVT-Covid-19
+1088	1096	Covid-19	Covid-19	EVT	EVT-Covid-19
+1190	1196	Meksyk	Meksyk	LOC	GPE-Mexico
+1258	1270	koronawirusa	koronawirus	EVT	EVT-Covid-19
+1291	1309	Ameryki Łacińskiej	Ameryka Łacińskaj	LOC	LOC-Latin-America
+1334	1342	Covid-19	Covid-19	EVT	EVT-Covid-19
+1348	1354	Pfizer	Pfizer	ORG	ORG-Pfizer
+1357	1365	BioNTech	BioNTech	ORG	ORG-BioNTech

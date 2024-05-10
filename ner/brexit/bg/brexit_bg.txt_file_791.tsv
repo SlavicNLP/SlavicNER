@@ -1,0 +1,14 @@
+0	19	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+49	56	Брекзит	Брекзит	EVT	EVT-Brexit
+59	66	Брюксел	Брюксел	LOC	GPE-Brussles
+112	131	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+153	160	Брюксел	Брюксел	LOC	GPE-Brussles
+184	191	Брекзит	Брекзит	EVT	EVT-Brexit
+216	225	Евросъюза	Евросъюз	ORG	ORG-European-Union
+226	238	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+304	318	Великобритания	Великобритания	LOC	GPE-Great-Britain
+400	420	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+635	642	брекзит	Брекзит	EVT	EVT-Brexit
+712	721	Евросъюза	Евросъюз	ORG	ORG-European-Union
+724	738	Великобритания	Великобритания	LOC	GPE-Great-Britain
+880	884	ТРУД	Труд	PRO	PRO-Trud

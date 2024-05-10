@@ -1,0 +1,28 @@
+0	12	Консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+29	32	Мей	Мей	PER	PER-Theresa-May
+36	43	Брекзит	Брекзит	EVT	EVT-Brexit
+92	99	Брекзит	Брекзит	EVT	EVT-Brexit
+140	154	Великобритания	Великобритания	LOC	GPE-Great-Britain
+155	165	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+242	244	ЕС	ЕС	ORG	ORG-European-Union
+255	261	БиБиСи	БиБиСи	PRO	PRO-BBC
+651	653	ЕС	ЕС	ORG	ORG-European-Union
+700	707	Брекзит	Брекзит	EVT	EVT-Brexit
+787	789	ЕС	ЕС	ORG	ORG-European-Union
+979	985	БиБиСи	БиБиСи	PRO	PRO-BBC
+1022	1034	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+1085	1099	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1131	1133	ЕС	ЕС	ORG	ORG-European-Union
+1181	1188	Брюксел	Брюксел	LOC	GPE-Brussles
+1337	1357	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1360	1362	ЕС	ЕС	ORG	ORG-European-Union
+1384	1391	Брекзит	Брекзит	EVT	EVT-Brexit
+1487	1501	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1562	1564	ЕС	ЕС	ORG	ORG-European-Union
+1705	1722	Press Association	Press Association	ORG	ORG-Press-Association
+1724	1738	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+1855	1862	Брекзит	Брекзит	EVT	EVT-Brexit
+1882	1894	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+1968	1975	Брекзит	Брекзит	EVT	EVT-Brexit
+2180	2186	БиБиСи	БиБиСи	PRO	PRO-BBC
+2221	2224	Мей	Мей	PER	PER-Theresa-May

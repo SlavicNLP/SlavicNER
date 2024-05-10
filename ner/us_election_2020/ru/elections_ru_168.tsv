@@ -1,0 +1,52 @@
+44	101	Федерального агентства по печати и массовым коммуникациям	Федеральное агентство по печати и массовым коммуникациям	ORG	ORG-Federal-Agency-for-Press-and-Mass-Communications-Russia
+133	136	США	США	LOC	GPE-USA
+140	166	Демократической партии США	Демократическая партия США	ORG	ORG-Democratic-Party-USA
+167	177	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+219	234	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+337	340	CNN	CNN	ORG	ORG-CNN
+394	399	Трамп	Трамп	PER	PER-Donald-Trump
+456	464	Мэриленд	Мэриленд	LOC	GPE-Maryland
+487	494	Байдену	Байден	PER	PER-Joe-Biden
+498	507	Демократы	Демократы	ORG	ORG-Democratic-Party-USA
+677	682	Трамп	Трамп	PER	PER-Donald-Trump
+724	730	Невада	Невада	LOC	GPE-Nevada
+733	740	Аризона	Аризона	LOC	GPE-Arizona
+759	766	Байдена	Байден	PER	PER-Joe-Biden
+830	837	Вермонт	Вермонт	LOC	GPE-Vermont
+855	862	Байдена	Байден	PER	PER-Joe-Biden
+865	873	Теннесси	Теннесси	LOC	GPE-Tennessee
+879	885	Байден	Байден	PER	PER-Joe-Biden
+888	895	Индиана	Индиана	LOC	GPE-Indiana
+901	906	Трамп	Трамп	PER	PER-Donald-Trump
+909	918	Миссисипи	Миссисипи	LOC	GPE-Mississippi
+924	929	Трамп	Трамп	PER	PER-Donald-Trump
+932	943	Нью-Гэмпшир	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+948	954	Байден	Байден	PER	PER-Joe-Biden
+957	965	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+971	977	Байден	Байден	PER	PER-Joe-Biden
+980	985	Огайо	Огайо	LOC	GPE-Ohio
+991	996	Трамп	Трамп	PER	PER-Donald-Trump
+999	1008	Висконсин	Висконсин	LOC	GPE-Wisconsin
+1014	1020	Байден	Байден	PER	PER-Joe-Biden
+1023	1031	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1037	1043	Байден	Байден	PER	PER-Joe-Biden
+1046	1063	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+1069	1074	трамп	Трамп	PER	PER-Donald-Trump
+1077	1085	Мэриленд	Мериленд	LOC	GPE-Maryland
+1091	1097	Байден	Байден	PER	PER-Joe-Biden
+1100	1112	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+1118	1124	Байден	Байден	PER	PER-Joe-Biden
+1128	1142	Южная Каролина	Южная Каролина	LOC	GPE-South-Carolina-US-State
+1147	1152	Трамп	Трамп	PER	PER-Donald-Trump
+1167	1170	США	США	LOC	GPE-USA
+1392	1413	Выборы президента США	Выборы президента США	EVT	EVT-2020-United-States-Presidential-Election
+1459	1465	Байден	Байден	PER	PER-Joe-Biden
+1476	1482	Трампа	Трамп	PER	PER-Donald-Trump
+1549	1560	Белого дома	Белый дом	ORG	ORG-The-White-House
+1644	1654	демократов	Демократы	ORG	ORG-Democratic-Party-USA
+1666	1672	Трампа	Трамп	PER	PER-Donald-Trump
+1792	1811	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2162	2181	ООО «МИЦ «Известия»	ООО «МИЦ «Известия»	ORG	ORG-Multimedia-Information-Centre-Izvestiya
+2250	2252	РФ	РФ	LOC	GPE-Russia
+2360	2375	АО «АБ «РОССИЯ»	АО «АБ «РОССИЯ»	ORG	ORG-Rossiya-Bank
+2452	2509	Федерального агентства по печати и массовым коммуникациям	Федеральное агентство по печати и массовым коммуникациям	ORG	ORG-Federal-Agency-for-Press-and-Mass-Communications-Russia

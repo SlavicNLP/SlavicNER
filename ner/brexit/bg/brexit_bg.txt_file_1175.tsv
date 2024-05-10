@@ -1,0 +1,86 @@
+64	70	Лондон	Лондон	LOC	GPE-London
+71	76	Париж	Париж	LOC	GPE-Paris
+78	85	Франция	Франция	LOC	GPE-France
+88	102	Великобритания	Великобритания	LOC	GPE-Great-Britain
+138	145	Брекзит	Брекзит	EVT	EVT-Brexit
+190	195	Париж	Париж	LOC	GPE-Paris
+202	208	Рикетс	Рикетс	PER	PER-Peter-Ricketts
+246	254	Guardian	Guardian	PRO	PRO-The-Guardian
+265	271	Рикетс	Рикетс	PER	PER-Peter-Ricketts
+355	365	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+379	393	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+413	418	Париж	Париж	LOC	GPE-Paris
+421	427	Лондон	Лондон	LOC	GPE-London
+508	515	Брекзит	Брекзит	EVT	EVT-Brexit
+593	599	Рикетс	Рикетс	PER	PER-Peter-Ricketts
+754	770	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+838	852	Великобритания	Великобритания	LOC	GPE-Great-Britain
+874	878	НАТО	НАТО	ORG	ORG-NATO
+943	945	ЕС	ЕС	ORG	ORG-European-Union
+954	960	Рикетс	Рикетс	PER	PER-Peter-Ricketts
+962	976	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1001	1007	Макрон	Макрон	PER	PER-Emmanuel-Macron
+1096	1106	Форин офис	Форин офис	ORG	ORG-Foreign-Office
+1109	1116	Брекзит	Брекзит	EVT	EVT-Brexit
+1218	1224	Лондон	Лондон	LOC	GPE-London
+1227	1232	Париж	Париж	LOC	GPE-Paris
+1265	1271	Лондон	Лондон	LOC	GPE-London
+1370	1377	Брекзит	Брекзит	EVT	EVT-Brexit
+1544	1558	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1562	1564	ЕС	ЕС	ORG	ORG-European-Union
+1590	1597	Брекзит	Брекзит	EVT	EVT-Brexit
+1611	1627	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1628	1640	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+1672	1692	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+1737	1759	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1760	1773	Деймиън Грийн	Деймиън Грийн	PER	PER-Damian-Green
+1813	1819	Барние	Барние	PER	PER-Michel-Barnier
+1821	1826	Грийн	Грийн	PER	PER-Damian-Green
+1856	1868	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+1956	1966	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1999	2006	Брекзит	Брекзит	EVT	EVT-Brexit
+2138	2144	Барние	Барние	PER	PER-Michel-Barnier
+2206	2213	Брекзит	Брекзит	EVT	EVT-Brexit
+2245	2251	Барние	Барние	PER	PER-Michel-Barnier
+2336	2342	Лондон	Лондон	LOC	GPE-London
+2345	2361	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2380	2386	Барние	Барние	PER	PER-Michel-Barnier
+2457	2471	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2547	2554	Брекзит	Брекзит	EVT	EVT-Brexit
+2600	2606	Барние	Барние	PER	PER-Michel-Barnier
+2653	2659	Лондон	Лондон	LOC	GPE-London
+2689	2702	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+2772	2785	Северна Корея	Северна Корея	LOC	GPE-North-Korea
+2792	2808	Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+2809	2816	Джонсън	Джонсън	PER	PER-Boris-Johnson
+2890	2896	Канада	Канада	LOC	GPE-Canada
+3025	3031	Лондон	Лондон	LOC	GPE-London
+3078	3084	Канада	Канада	LOC	GPE-Canada
+3086	3092	Япония	Япония	LOC	GPE-Japan
+3094	3104	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+3179	3186	Джонсън	Джонсън	PER	PER-Boris-Johnson
+3269	3282	Северна Корея	Северна Корея	LOC	GPE-North-Korea
+3454	3460	Пхенян	Пхенян	LOC	GPE-Pyongyang
+3462	3469	Джонсън	Джонсън	PER	PER-Boris-Johnson
+3578	3588	Ким Чен-ун	Ким Чен-ун	PER	PER-Kim-Jong-Un
+3602	3609	Джонсън	Джонсън	PER	PER-Boris-Johnson
+3690	3694	Южна	Южна	LOC	GPE-South-Korea
+3697	3710	Северна Корея	Северна Корея	LOC	GPE-North-Korea
+3813	3819	Лондон	Лондон	LOC	GPE-London
+3853	3867	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+3887	3890	САЩ	САЩ	LOC	GPE-USA
+3921	3935	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3990	4000	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4034	4040	Лондон	Лондон	LOC	GPE-London
+4043	4052	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+4064	4073	The Times	The Times	PRO	PRO-The-Times
+4085	4105	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+4152	4164	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+4316	4319	САЩ	САЩ	LOC	GPE-USA
+4344	4350	Лондон	Лондон	LOC	GPE-London
+4362	4368	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+4370	4375	Тръмп	Тръмп	PER	PER-Donald-Trump
+4399	4413	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4456	4462	Лондон	Лондон	LOC	GPE-London
+4516	4522	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+4570	4599	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

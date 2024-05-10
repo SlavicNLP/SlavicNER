@@ -1,0 +1,18 @@
+32	41	covidu-19	covid-19	EVT	EVT-Covid-19
+73	79	Pfizer	Pfizer	ORG	ORG-Pfizer
+81	92	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+95	102	Moderna	Moderna	ORG	ORG-Moderna
+263	273	koronaviru	koronavirus	EVT	EVT-Covid-19
+342	357	České republice	Česká republika	LOC	GPE-Czech-Republic
+390	405	České republice	Česká republika	LOC	GPE-Czech-Republic
+453	462	covidu-19	covid-19	EVT	EVT-Covid-19
+522	531	Comirnaty	Comirnaty	PRO	PRO-Comirnaty
+546	552	Pfizer	Pfizer	ORG	ORG-Pfizer
+553	561	BioNTech	BioNTech	ORG	ORG-BioNTech
+583	594	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+620	627	Moderna	Moderna	ORG	ORG-Moderna
+673	687	Velké Británii	Velká Británie	LOC	GPE-Great-Britain
+700	707	Britové	Britové	PER	GPE-Great-Britain
+745	752	Pfizeru	Pfizer	ORG	ORG-Pfizer
+1163	1169	Pfizer	Pfizer	ORG	ORG-Pfizer
+1236	1243	Moderna	Moderna	ORG	ORG-Moderna

@@ -1,0 +1,37 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+32	41	Belo hišo	Bela hiša	LOC	LOC-White-House
+58	65	Bidnova	Biden	PER	PER-Joe-Biden
+116	125	Belo hišo	Bela hiša	LOC	LOC-White-House
+129	136	Bidnovi	Biden	PER	PER-Joe-Biden
+167	172	Trump	Trump	PER	PER-Donald-Trump
+295	304	Beli hiši	Bela hiša	LOC	LOC-White-House
+384	389	Biden	Biden	PER	PER-Joe-Biden
+461	466	Trump	Trump	PER	PER-Donald-Trump
+499	504	Biden	Biden	PER	PER-Joe-Biden
+582	587	Trump	Trump	PER	PER-Donald-Trump
+773	788	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+858	886	komisijo za preiskavo prevar	komisija za preiskavo prevar	ORG	ORG-Voter-Fraud-Commission
+917	922	Trump	Trump	PER	PER-Donald-Trump
+960	969	Belo hišo	Bela hiša	LOC	LOC-White-House
+1128	1133	Trump	Trump	PER	PER-Donald-Trump
+1193	1198	Bidna	Biden	PER	PER-Joe-Biden
+1268	1275	Bidnove	Biden	PER	PER-Joe-Biden
+1527	1532	Bidnu	Biden	PER	PER-Joe-Biden
+1573	1592	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+1689	1694	Trump	Trump	PER	PER-Donald-Trump
+1768	1773	Trump	Trump	PER	PER-Donald-Trump
+1883	1888	Trump	Trump	PER	PER-Donald-Trump
+1927	1932	Biden	Biden	PER	PER-Joe-Biden
+1983	1988	Trump	Trump	PER	PER-Donald-Trump
+2066	2078	republikanci	republikanci	PER	ORG-Republican-Party-USA
+2120	2126	Trumpa	Trump	PER	PER-Donald-Trump
+2163	2170	Georgii	Georgie	LOC	GPE-Georgia-US-state
+2237	2252	Mitch McConnell	Mitch McConnell	PER	PER-Mitch-McConnell
+2263	2271	Trumpovo	Trump	PER	PER-Donald-Trump
+2318	2323	Trump	Trump	PER	PER-Donald-Trump
+2358	2365	Georgio	Georgia	LOC	GPE-Georgia-US-state
+2455	2458	ZDA	ZDA	LOC	GPE-USA
+2501	2506	Trump	Trump	PER	PER-Donald-Trump
+2662	2668	Trumpa	Trump	PER	PER-Donald-Trump
+2777	2783	Trumpu	Trump	PER	PER-Donald-Trump
+2800	2805	Bidna	Biden	PER	PER-Joe-Biden

@@ -1,0 +1,29 @@
+0	2	РФ	РФ	LOC	GPE-Russia
+24	39	Північний потік	Північний потік	ORG	ORG-Nord-Stream-AG
+61	64	США	США	LOC	GPE-USA
+91	108	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+158	169	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+263	276	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+277	289	Пол Коркоран	Пол Коркоран	PER	PER-Paul-Corcoran
+308	323	Welt am Sonntag	Welt am Sonntag	ORG	ORG-Welt-am-Sonntag
+391	399	Газпрому	Газпром	ORG	ORG-Gazprom
+404	409	Росія	Росія	LOC	GPE-Russia
+468	476	Коркоран	Коркоран	PER	PER-Paul-Corcoran
+629	636	Газпром	Газпром	ORG	ORG-Gazprom
+654	689	міністерстві економіки і енергетики	Міністерство економіки і енергетики	ORG	ORG-Federal-Ministry-for-Economic-Affairs-and-Energy-Germany
+690	699	Німеччини	Німеччина	LOC	GPE-Germany
+739	745	Берлін	Берлін	LOC	GPE-Berlin
+798	801	США	США	LOC	GPE-USA
+807	812	Росії	Росія	LOC	GPE-Russia
+836	853	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+887	904	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+925	933	Газпрому	Газпром	ORG	ORG-Gazprom
+1012	1015	OMV	OMV	ORG	ORG-OMV
+1127	1136	Усть-Лугу	Усть-Луга	LOC	GPE-Ust-Luga
+1149	1160	Грайфсвальд	Грайфсвальд	LOC	GPE-Greifswald
+1270	1287	Північному потоку	Північний потік	ORG	ORG-Nord-Stream-AG
+1339	1356	Економічна правда	Економічна правда	PRO	PRO-Economic-Truth
+1454	1473	"""Економічну правду"""	Економічна правда	PRO	PRO-Economic-Truth
+1547	1566	"""Інтерфакс-Україна"""	Інтерфакс-Україна	ORG	ORG-Interfax-Ukraine
+1686	1705	"""Інтерфакс-Україна"""	Інтерфакс-Україна	ORG	ORG-Interfax-Ukraine
+1723	1742	"""Інтерфакс-Україна"""	Інтерфакс-Україна	ORG	ORG-Interfax-Ukraine

@@ -1,0 +1,30 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+31	33	ЕС	ЕС	ORG	ORG-European-Union
+102	112	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+294	304	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+465	479	Великобритания	Великобритания	LOC	GPE-Great-Britain
+483	499	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+509	519	Франс прес	Франс прес	ORG	ORG-France-Presse
+521	524	Мей	Мей	PER	PER-Theresa-May
+548	585	Националната служба за здравеопазване	Национална служба за здравеопазване	ORG	ORG-National-Health-Service-UK
+587	590	NHS	NHS	ORG	ORG-National-Health-Service-UK
+655	658	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+680	682	ЕС	ЕС	ORG	ORG-European-Union
+735	742	Брюксел	Брюксел	LOC	GPE-Brussles
+853	863	Дейли мейл	Дейли мейл	PRO	PRO-Daily-Mail
+975	983	Брекзита	Брекзит	EVT	EVT-Brexit
+1098	1101	Мей	Мей	PER	PER-Theresa-May
+1401	1403	ЕС	ЕС	ORG	ORG-European-Union
+1450	1458	Брекзита	Брекзит	EVT	EVT-Brexit
+1498	1511	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+1641	1643	ЕС	ЕС	ORG	ORG-European-Union
+1742	1752	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1952	1960	Би Би Си	Би Би Си	PRO	PRO-BBC
+2146	2149	Мей	Мей	PER	PER-Theresa-May
+2210	2220	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2258	2278	консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+2351	2359	Брекзита	Брекзит	EVT	EVT-Brexit
+2392	2412	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+2519	2533	Сънди телеграф	Сънди телеграф	PRO	PRO-The-Sunday-Telegraph
+2554	2566	Джереми Хънт	Джереми Хънт	PER	PER-Jeremy-Hunt
+2598	2600	ЕС	ЕС	ORG	ORG-European-Union

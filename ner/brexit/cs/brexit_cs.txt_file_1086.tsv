@@ -1,0 +1,16 @@
+0	14	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+42	48	brexit	brexit	EVT	EVT-Brexit
+78	83	Irska	Irsko	LOC	GPE-Ireland
+103	117	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+218	231	Evropské unie	Evropská unie	ORG	ORG-European-Union
+233	247	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+316	322	brexit	brexit	EVT	EVT-Brexit
+378	384	Irskem	Irsko	LOC	GPE-Ireland
+457	470	konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+481	487	Mayové	Mayová	PER	PER-Theresa-May
+535	549	Sněmovny lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+563	577	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+718	725	brexitu	brexit	EVT	EVT-Brexit
+755	769	Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+806	826	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+842	844	EU	EU	ORG	ORG-European-Union

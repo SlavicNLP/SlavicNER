@@ -1,0 +1,38 @@
+3	11	brexicie	Brexit	EVT	EVT-Brexit
+12	32	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+56	62	Polska	Polska	LOC	GPE-Poland
+95	110	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+118	133	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+151	174	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+362	379	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+381	387	Polska	Polska	LOC	GPE-Poland
+478	480	PE	PE	ORG	ORG-European-Parliament
+566	581	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+600	602	UE	UE	ORG	ORG-European-Union
+691	698	brexitu	Brexit	EVT	EVT-Brexit
+750	767	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+809	815	Polska	Polska	LOC	GPE-Poland
+836	859	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+890	892	PE	PE	ORG	ORG-European-Parliament
+911	918	Polaków	Polacy	PER	GPE-Poland
+1078	1086	Francuzi	Francuzi	PER	GPE-France
+1089	1098	Hiszpanie	Hiszpanie	PER	GPE-Spain
+1193	1217	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+1368	1370	UE	UE	ORG	ORG-European-Union
+1406	1419	Danuta Hübner	Danuta Hübner	PER	PER-Danuta-Hübner
+1421	1423	PO	PO	ORG	ORG-PO-Civic-Platform
+1425	1428	EPL	EPL	ORG	ORG-EPP-European-Peoples-Party
+1529	1549	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+1798	1817	Pedro Silva Pereira	Pedro Silva Pereira	PER	PER-Pedro-Silva-Pereira
+1819	1841	Socjaliści i Demokraci	Socjaliści i Demokraci	ORG	ORG-SD-Progressive-Alliance-of-Socialists-and-Democrats
+1916	1936	traktatem lizbońskim	Traktat lizboński	PRO	PRO-Treaty-of-Lisbon
+2038	2048	Parlamentu	Parlament	ORG	ORG-European-Parliament
+2172	2179	Pereira	Pereira	PER	PER-Pedro-Silva-Pereira
+2231	2233	PE	PE	ORG	ORG-European-Parliament
+2303	2305	UE	UE	ORG	ORG-European-Union
+2344	2352	Brukseli	Bruksela	LOC	GPE-Brussles
+2427	2449	Dzienniku Urzędowym UE	Dziennik Urzędowy UE	PRO	PRO-Official-Journal-of-the-European-Union
+2470	2498	Traktatu o funkcjonowaniu UE	Traktat o funkcjonowaniu UE	PRO	PRO-TFUE-Treaty-on-the-Functioning-of-the-European-Union
+2517	2519	PE	PE	ORG	ORG-European-Parliament
+3045	3068	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+3136	3138	UE	UE	ORG	ORG-European-Union

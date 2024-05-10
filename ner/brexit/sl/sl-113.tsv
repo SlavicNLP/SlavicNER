@@ -1,0 +1,60 @@
+33	39	brexit	brexit	EVT	EVT-Brexit
+111	119	vrhom EU	vrh EU	EVT	EVT-EU-summit
+138	145	Bruselj	Bruselj	LOC	GPE-Brussles
+153	161	vrhom EU	vrh EU	EVT	EVT-EU-summit
+202	208	brexit	brexit	EVT	EVT-Brexit
+417	434	evropski komisiji	evropska komisija	ORG	ORG-European-Commission
+580	595	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+790	792	EU	EU	ORG	ORG-European-Union
+793	810	Michela Barnierja	Michel Barnier	PER	PER-Michel-Barnier
+849	854	Unije	Unija	ORG	ORG-European-Union
+855	872	Stevom Barclayjem	Steve Barclay	PER	PER-Steve-Barclay
+924	931	Barnier	Barnier	PER	PER-Michel-Barnier
+1019	1030	Luxembourgu	Luxembourg	LOC	GPE-Luxembourg
+1055	1057	EU	EU	ORG	ORG-European-Union
+1277	1283	brexit	brexit	EVT	EVT-Brexit
+1459	1475	evropskega sveta	evropski svet	ORG	ORG-European-Council
+1478	1491	Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+1519	1540	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+1652	1656	Tusk	Tusk	PER	PER-Donald-Tusk
+1767	1781	Lea Varadkarja	Leo Varadkar	PER	PER-Leo-Varadkar
+1821	1830	Johnsonom	Johnson	PER	PER-Boris-Johnson
+1892	1897	Tuska	Tusk	PER	PER-Donald-Tusk
+1990	1997	Barnier	Barnier	PER	PER-Michel-Barnier
+2019	2029	Barclayjem	Barclay	PER	PER-Steve-Barclay
+2123	2135	Johnsonovega	Johnson	PER	PER-Boris-Johnson
+2206	2219	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+2223	2228	Irsko	Irska	LOC	GPE-Republic-of-Ireland
+2233	2240	Bruselj	Bruselj	LOC	GPE-Brussles
+2596	2609	Severne Irske	Severna Irska	LOC	GPE-Northern-Ireland
+2697	2699	EU	EU	ORG	ORG-European-Union
+2705	2724	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+2914	2927	Severna Irska	Severna Irska	LOC	GPE-Northern-Ireland
+3001	3020	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+3053	3055	EU	EU	ORG	ORG-European-Union
+3064	3072	Johnsona	Johnson	PER	PER-Boris-Johnson
+3202	3214	Irskem morju	Irsko morje	LOC	LOC-Irish-Sea
+3219	3235	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+3304	3314	Johnsonova	Johnson	PER	PER-Boris-Johnson
+3397	3403	brexit	brexit	EVT	EVT-Brexit
+3505	3507	EU	EU	ORG	ORG-European-Union
+3511	3516	Otoku	otok	LOC	GPE-Great-Britain
+3565	3571	brexit	brexit	EVT	EVT-Brexit
+3600	3619	britanski parlament	britanski parlament	ORG	ORG-British-Parlament
+3809	3824	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+3917	3924	brexita	brexit	EVT	EVT-Brexit
+3927	3934	Johnson	Johnson	PER	PER-Boris-Johnson
+4048	4050	EU	EU	ORG	ORG-European-Union
+4127	4143	Leom Varadkarjem	Leo Varadkar	PER	PER-Leo-Varadkar
+4229	4234	Unijo	unija	ORG	ORG-European-Union
+4356	4366	Johnsonova	Johnson	PER	PER-Boris-Johnson
+4378	4391	Severni Irski	Severna Irska	LOC	GPE-Northern-Ireland
+4421	4440	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+4455	4457	EU	EU	ORG	ORG-European-Union
+4603	4609	brexit	brexit	EVT	EVT-Brexit
+4697	4699	EU	EU	ORG	ORG-European-Union
+4766	4787	konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+4822	4846	demokratičnih unionistov	demokratični unionisti	PER	ORG-Democratic-Unionist-Party
+4898	4919	britanskem parlamentu	britanski parlament	ORG	ORG-British-Parlament
+5055	5066	Therese May	Theresa May	PER	PER-Theresa-May
+5153	5155	EU	EU	ORG	ORG-European-Union

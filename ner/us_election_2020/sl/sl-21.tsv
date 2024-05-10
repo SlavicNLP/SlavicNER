@@ -1,0 +1,50 @@
+15	22	Melanii	Melania	PER	PER-Melania-Trump
+26	30	Jill	Jill	PER	PER-Jill-Biden
+203	215	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+311	314	ZDA	ZDA	LOC	GPE-USA
+326	337	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+340	349	Demokratu	Demokrat	PER	ORG-Democratic-Party-USA
+420	426	Trumpu	Trump	PER	PER-Donald-Trump
+561	568	Melania	Melania	PER	PER-Melania-Trump
+636	650	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+686	696	Melanijino	Melanija	PER	PER-Melania-Trump
+771	779	Barronom	Barron	PER	PER-Barron-Trump
+812	821	New Yorku	New York	LOC	GPE-New-York
+1119	1126	Melania	Melania	PER	PER-Melania-Trump
+1229	1238	Beli hiši	Bela hiša	LOC	LOC-White-House
+1474	1488	Michelle Obama	Michelle Obama	PER	PER-MIchelle-Obama
+1609	1615	Barack	Barack	PER	PER-Barack-Obama
+1618	1626	Michelle	Michelle	PER	PER-MIchelle-Obama
+1885	1893	Michelle	Michelle	PER	PER-MIchelle-Obama
+2013	2020	Melania	Melania	PER	PER-Melania-Trump
+2310	2324	Jackie Kennedy	Jackie Kennedy	PER	PER-Jacqueline-Kennedy-Onassis
+2347	2365	Johna F. Kennedyja	John F. Kennedy	PER	PER-John-F-Kennedy
+2485	2488	ZDA	ZDA	LOC	GPE-USA
+2574	2581	Amerika	Amerika	LOC	GPE-USA
+2727	2741	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2823	2830	Melania	Melania	PER	PER-Melania-Trump
+2932	2947	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+2952	2969	Eleanor Roosevelt	Eleanor Roosevelt	PER	PER-Elanor-Roosevelt
+3141	3146	Trump	Trump	PER	PER-Donald-Trump
+3189	3199	covidom 19	covid 19	EVT	EVT-Covid-19
+3317	3328	Mary Jordan	Mary Jordan	PER	PER-Mary-Jordan
+3341	3363	Umetnost njenega posla	Umetnost njenega posla	PRO	PRO-The-Art-of-Her-Deal-The-Untold-Story-of-Melania-Trump
+3364	3371	Melanii	Melania	PER	PER-Melania-Trump
+3409	3423	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+3544	3554	Betty Ford	Betty Ford	PER	PER-Betty-Ford
+3559	3573	Jackie Kennedy	Jackie Kennedy	PER	PER-Jacqueline-Kennedy-Onassis
+3645	3661	Washington Posta	Washington Post	PRO	PRO-Washington-Post
+3937	3947	Melanijini	Melanijina	PER	PER-Melania-Trump
+4070	4081	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+4083	4093	Jill Biden	Jill Biden	PER	PER-Jill-Biden
+4347	4356	Belo hišo	Bela hiša	LOC	LOC-White-House
+4366	4374	Bidnovim	Bidnovi	PER	PER-Biden-Family
+4596	4602	Bidnov	Bidnov	PER	PER-Joe-Biden
+4607	4613	Hunter	Hunter	PER	PER-Hunter-Biden
+4842	4856	Hunterju Bidnu	Hunter Biden	PER	PER-Hunter-Biden
+4884	4889	Joeju	Joe	PER	PER-Joe-Biden
+4950	4956	Beauja	Beau	PER	PER-Beau-Biden
+5045	5055	Jill Biden	Jill Biden	PER	PER-Jill-Biden
+5093	5102	Američani	Američani	PER	GPE-USA
+5153	5162	Bele hiše	Bela hiša	LOC	LOC-White-House
+5182	5195	Melanii Trump	Melania Trump	PER	PER-Melania-Trump

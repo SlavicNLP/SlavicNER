@@ -1,0 +1,17 @@
+33	41	COVID-19	COVID-19	EVT	EVT-Covid-19
+199	210	коронавірус	коронавірус	EVT	EVT-Covid-19
+218	225	REUTERS	REUTERS	ORG	ORG-Reuters
+255	263	COVID-19	COVID-19	EVT	EVT-Covid-19
+330	347	Євген Дубровський	Євген Дубровський	PER	PER-Eugene-Dubrovsky
+368	378	Україна 24	Україна 24	PRO	PRO-Ukraine-24
+420	431	коронавірус	коронавірус	EVT	EVT-Covid-19
+1070	1081	Дубровський	Дубровський	PER	PER-Eugene-Dubrovsky
+1097	1109	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1189	1197	BioNTech	BioNTech	ORG	ORG-BioNTech
+1479	1501	коронавірусну інфекцію	коронавірусна інфекція	EVT	EVT-Covid-19
+1737	1744	України	Україна	LOC	GPE-Ukraine
+1745	1765	Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+1785	1794	Німеччини	Німеччина	LOC	GPE-Germany
+1795	1809	Ангелу Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+1829	1836	України	Україна	LOC	GPE-Ukraine
+1884	1892	COVID-19	COVID-19	EVT	EVT-Covid-19

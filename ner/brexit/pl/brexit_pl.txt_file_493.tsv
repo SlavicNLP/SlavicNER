@@ -1,0 +1,42 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+8	19	Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+58	60	UE	UE	ORG	ORG-European-Union
+62	67	Javid	Javid	PER	PER-Sajid-Javid
+135	152	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+168	178	Amber Rudd	Amber Rudd	PER	PER-Amber-Rudd
+273	281	Windrush	Windrush	PRO	PRO-Windrush
+319	338	II wojnie światowej	II Wojna Światowa	EVT	EVT-World-War-II
+371	386	Empire Windrush	Empire Windrush	PRO	PRO-Windrush
+434	451	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+520	537	Wspólnoty Narodów	Wspólnota Narodów	ORG	ORG-The-Commonwealth
+634	646	The Guardian	The Guardian	PRO	PRO-The-Guardian
+855	866	Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+941	949	Brexicie	Brexit	EVT	EVT-Brexit
+951	953	UE	UE	ORG	ORG-European-Union
+954	965	Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+1011	1013	PE	PE	ORG	ORG-European-Parliament
+1497	1499	EU	EU	ORG	ORG-European-Union
+1643	1660	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1847	1859	Vershofstadt	Vershofstadt	PER	PER-Guy-Verhofstadt
+2036	2038	UE	UE	ORG	ORG-European-Union
+2041	2058	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2079	2081	PE	PE	ORG	ORG-European-Parliament
+2121	2125	Unii	Unia	ORG	ORG-European-Union
+2411	2414	IOS	IOS	PRO	PRO-IOS
+2421	2426	Apple	Apple	ORG	ORG-Apple
+2534	2543	Androidem	Android	PRO	PRO-Android
+2631	2642	Home Office	Home Office	ORG	ORG-Home-Office-UK
+2871	2873	PE	PE	ORG	ORG-European-Parliament
+3204	3213	Europoseł	Europoseł	PER	ORG-European-Parlament
+3517	3528	Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+3771	3782	Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+4232	4234	UE	UE	ORG	ORG-European-Union
+4237	4254	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4375	4387	Verhofstadta	Verhofstadt	PER	PER-Guy-Verhofstadt
+4622	4624	UE	UE	ORG	ORG-European-Union
+4743	4784	Ogólnego rozporządzenia o ochronie danych	Ogólne rozporządzenie o ochronie danych	PRO	PRO-GDPR-The-General-Data-Protection-Regulation
+4786	4790	RODO	RODO	PRO	PRO-GDPR-The-General-Data-Protection-Regulation
+4862	4873	Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+5023	5029	Brexit	Brexit	EVT	EVT-Brexit
+5111	5142	Grupy Sterującej PE ds. Brexitu	Grupa Sterująca PE ds. Brexitu	ORG	ORG-Brexit-Steering-Group
+5158	5166	Bruksela	Bruksela	LOC	GPE-Brussles

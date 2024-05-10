@@ -1,0 +1,42 @@
+131	140	Niemczech	Niemcy	LOC	GPE-Germany
+185	193	Die Welt	Die Welt	PRO	PRO-Die-Welt
+240	247	Izraelu	Izrael	LOC	GPE-Israel
+336	345	Neukoelln	Neukoelln	LOC	GPE-Neukoelln
+449	480	powiecie Rendsburg-Eckernfoerde	powiat Rendsburg-Eckernfoerde	LOC	GPE-Rendsburg-Eckernfoerde-county
+569	571	EU	EU	ORG	ORG-European-Union
+641	650	Francuzów	Francuzi	PER	GPE-France
+869	875	Europę	Europa	LOC	LOC-Europe
+889	897	Duńczycy	Duńczycy	PER	GPE-Denmark
+919	921	UE	UE	ORG	ORG-European-Union
+945	951	Niemcy	Niemcy	LOC	GPE-Germany
+971	978	Europie	Europa	LOC	LOC-Europe
+1087	1117	Frankfurter Allgemeine Zeitung	Frankfurter Allgemeine Zeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+1178	1185	Niemiec	Niemcy	LOC	GPE-Germany
+1256	1264	Brukseli	Bruksela	LOC	GPE-Brussles
+1308	1314	Merkel	Merkel	PER	PER-Angela-Merkel
+1523	1531	Brukseli	Bruksela	LOC	GPE-Brussles
+1711	1719	BioNTech	BioNTech	ORG	ORG-BioNTech
+1720	1726	Pfizer	Pfizer	ORG	ORG-Pfizer
+1930	1936	Izrael	Izrael	LOC	GPE-Israel
+1949	1957	BioNTech	BioNTech	ORG	ORG-BioNTech
+1988	1997	Niemczech	Niemcy	LOC	GPE-Germany
+2065	2075	Jens Spahn	Jens Spahn	PER	PER-Jens-Spahn
+2098	2100	UE	UE	ORG	ORG-European-Union
+2143	2152	Niemczech	Niemcy	LOC	GPE-Germany
+2204	2212	BioNTech	BioNTech	ORG	ORG-BioNTech
+2375	2380	Spahn	Spahn	PER	PER-Jens-Spahn
+2533	2548	Münchner Merkur	Münchner Merkur	PRO	PRO-Münchner-Merkur
+2651	2660	Niemczech	Niemcy	LOC	GPE-Germany
+2662	2672	Jens Spahn	Jens Spahn	PER	PER-Jens-Spahn
+2726	2733	Niemiec	Niemcy	LOC	GPE-Germany
+2861	2867	Niemcy	Niemcy	LOC	GPE-Germany
+2893	2907	koronakryzysem	koronakryzys	EVT	EVT-Covid-19
+3084	3090	Berlin	Berlin	LOC	GPE-Berlin
+3323	3342	Süddeutsche Zeitung	Süddeutsche Zeitung	PRO	PRO-SUddeutsche-Zeitung
+3400	3407	Bawarii	Bawaria	LOC	GPE-Bavaria
+3408	3421	Markus Soeder	Markus Soeder	PER	PER-Markus-Soeder
+3476	3494	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+3594	3596	UE	UE	ORG	ORG-European-Union
+3738	3752	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+3790	3816	Europejskiej Agencji Leków	Europejska Agencja Leków	ORG	ORG-EMA-European-Medicines-Agency
+3818	3836	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission

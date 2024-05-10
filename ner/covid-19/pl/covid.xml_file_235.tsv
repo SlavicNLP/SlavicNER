@@ -1,0 +1,25 @@
+129	145	Andrzeja M. Fala	Andrzeja M. Fala	PER	PER-Andrzej-M-Fala
+148	209	Collegium Medicum Uniwersytetu Kardynała Stefana Wyszyńskiego	Collegium Medicum Uniwersytetu Kardynała Stefana Wyszyńskiego	ORG	ORG-Collegium-Medicum-of-Cardinal-Stefan-Wyszyński-University
+215	241	Szpitala MSWiA w Warszawie	Szpital MSWiA w Warszawie	LOC	LOC-CSK-MSWiA-Central-Clinical-Hospital-of-the-MSWiA-Poland
+295	304	COPVID-19	COPVID-19	EVT	EVT-Covid-19
+412	425	koronawirusem	koronawirus	EVT	EVT-Covid-19
+444	472	Szczepienia przeciw COVID-19	Szczepienia przeciw COVID-19	PRO	PRO-Szczepienia-przeciw-COVID-19-publication
+534	561	www.naukaprzeciwpandemii.pl	www.naukaprzeciwpandemii.pl	PRO	PRO-www.naukaprzeciwpandemii.pl
+808	816	COVID-19	COVID-19	EVT	EVT-Covid-19
+859	882	koronawirusa SARS-CoV-2	koronawirus SARS-CoV-2	EVT	EVT-Covid-19
+1249	1259	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1473	1481	COVID-19	COVID-19	EVT	EVT-Covid-19
+1584	1606	Uniwersytetu Wisconsin	Uniwersytet Wisconsin	ORG	ORG-Wisconsin-University
+1609	1612	USA	USA	LOC	GPE-USA
+1948	1951	USA	USA	LOC	GPE-USA
+1971	1985	Katalin Kariko	Katalin Kariko	PER	PER-Katalin-Kariko
+2011	2026	Drew Weissmanem	Drew Weissman	PER	PER-Drew-Weissman
+2043	2066	uniwersytetu w Bostonie	uniwersytet w Bostonie	ORG	ORG-Boston-University
+2534	2542	BioNTech	BioNTech	ORG	ORG-BioNTech
+2560	2567	Moderna	Moderna	ORG	ORG-Moderna
+2664	2672	COVID-19	COVID-19	EVT	EVT-Covid-19
+2746	2771	koronawirusowi SARS-CoV-2	koronawirus SARS-CoV-2	EVT	EVT-Covid-19
+2815	2823	BioNTech	BioNTech	ORG	ORG-BioNTech
+2826	2833	Moderna	Moderna	ORG	ORG-Moderna
+2891	2899	COVID-19	COVID-19	EVT	EVT-Covid-19
+3230	3238	COVID-19	COVID-19	EVT	EVT-Covid-19

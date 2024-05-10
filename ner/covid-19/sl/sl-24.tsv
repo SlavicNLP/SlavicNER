@@ -1,0 +1,16 @@
+55	67	koronavirusu	koronavirus	EVT	EVT-Covid-19
+292	295	WHO	WHO	ORG	ORG-World-Health-Organization
+382	385	WHO	WHO	ORG	ORG-World-Health-Organization
+459	470	Ghebreyesus	Ghebreyesus	PER	PER-Tedros-Adhanom-Ghebreyesus
+703	706	ZDA	ZDA	LOC	GPE-USA
+709	720	Ghebreyesus	Ghebreyesus	PER	PER-Tedros-Adhanom-Ghebreyesus
+738	741	WHO	WHO	ORG	ORG-World-Health-Organization
+1032	1046	zahodni Evropi	zahodna Evropa	LOC	LOC-Western-Europe
+1067	1081	vzhodni Evropi	vzhodna Evropa	LOC	LOC-Eastern-Europe
+1083	1089	Afriki	Afrika	LOC	LOC-Africa
+1091	1108	jugovzhodni Aziji	jugovzhodna Azija	LOC	LOC-Southeast-Asia
+1112	1132	vzhodnem Sredozemlju	vzhodno Sredozemlje	LOC	GPE-Eastern-Mediterranean
+1458	1486	Mednarodne organizacije dela	Mednarodna organizacija dela	ORG	ORG-International-Labour-Organization
+1488	1491	ILO	ILO	ORG	ORG-International-Labour-Organization
+1493	1502	Guy Ryder	Guy Ryder	PER	PER-Guy-Ryder
+1522	1529	Ecosoca	Ecosoc	ORG	ORG-United-Nations-Economic-and-Social-Council

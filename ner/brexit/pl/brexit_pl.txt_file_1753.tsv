@@ -1,0 +1,51 @@
+14	17	May	May	PER	PER-Theresa-May
+28	43	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+64	67	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+68	79	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+80	93	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+121	133	Theresie May	Theresa May	PER	PER-Theresa-May
+191	193	UE	UE	ORG	ORG-European-Union
+197	205	Brexicie	Brexit	EVT	EVT-Brexit
+320	328	Johnsona	Johnson	PER	PER-Boris-Johnson
+384	399	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+417	432	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+468	472	Unii	Unia	ORG	ORG-European-Union
+601	608	Brexitu	Brexit	EVT	EVT-Brexit
+648	663	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+685	691	Brexit	Brexit	EVT	EVT-Brexit
+699	714	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+716	729	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+740	743	May	May	PER	PER-Theresa-May
+868	870	UE	UE	ORG	ORG-European-Union
+901	903	UE	UE	ORG	ORG-European-Union
+956	971	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1042	1049	Johnson	Johnson	PER	PER-Boris-Johnson
+1093	1103	Daily Mail	Daily Mail	PRO	PRO-Daily-Mail
+1253	1261	Brukseli	Bruksela	LOC	GPE-Brussles
+1283	1289	Brexit	Brexit	EVT	EVT-Brexit
+1327	1334	Johnson	Johnson	PER	PER-Boris-Johnson
+1352	1355	May	May	PER	PER-Theresa-May
+1392	1399	Brexitu	Brexit	EVT	EVT-Brexit
+1479	1481	UE	UE	ORG	ORG-European-Union
+1610	1619	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+1675	1678	May	May	PER	PER-Theresa-May
+1862	1864	UE	UE	ORG	ORG-European-Union
+1945	1962	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+1965	1973	Irlandią	Irlandia	LOC	GPE-Ireland
+2116	2122	Polski	Polska	LOC	GPE-Poland
+2142	2144	UE	UE	ORG	ORG-European-Union
+2163	2180	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2191	2198	Johnson	Johnson	PER	PER-Boris-Johnson
+2410	2427	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2541	2544	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+2573	2585	Waszyngtonie	Waszyngton	LOC	GPE-WashingtonDC
+2610	2630	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+2645	2660	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2703	2720	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2868	2870	UE	UE	ORG	ORG-European-Union
+2872	2879	Johnson	Johnson	PER	PER-Boris-Johnson
+2932	2935	May	May	PER	PER-Theresa-May
+2975	2982	Londynu	Londyn	LOC	GPE-London
+3116	3135	Davidowi Cameronowi	David Cameron	PER	PER-David-Cameron
+3150	3167	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3170	3172	UE	UE	ORG	ORG-European-Union

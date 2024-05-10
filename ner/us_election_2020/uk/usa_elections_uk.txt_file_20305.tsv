@@ -1,0 +1,97 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+72	77	Росії	Росія	LOC	GPE-Russia
+80	82	FT	FT	PRO	PRO-Financial-Times
+85	94	Білий дім	Білий дім	ORG	ORG-White-House
+177	184	Кремлем	Кремль	ORG	ORG-Kremlin
+251	254	США	США	LOC	GPE-USA
+255	265	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+341	346	Росії	Росія	LOC	GPE-Russia
+348	354	Байден	Байден	PER	PER-Joe-Biden
+423	429	Росією	Росія	LOC	GPE-Russia
+474	483	Білий дім	Білий дім	ORG	ORG-White-House
+528	535	Кремлем	Кремль	ORG	ORG-Kremlin
+598	613	Financial Times	Financial Times	PRO	PRO-Financial-Times
+638	649	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+678	689	Новий старт	Новий старт	EVT	EVT-New-START
+754	759	Росії	Росія	LOC	GPE-Russia
+779	790	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+791	798	Байдена	Байден	PER	PER-Joe-Biden
+924	929	Росію	Росія	LOC	GPE-Russia
+945	951	Москва	Москва	LOC	GPE-Moscow
+1006	1023	Володимира Путіна	Володимир Путін	PER	PER-Vladimir-Putin
+1024	1042	Олексія Навального	Олексій Навальний	PER	PER-Alexei-Navalny
+1173	1182	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1232	1264	Фонду Карнегі за міжнародний мир	Фонд Карнегі за міжнародний мир	ORG	ORG-Carnegie-Endowment-for-International-Peace
+1265	1275	Ендрю Вайс	Ендрю Вайс	PER	PER-Andrew-Weiss
+1368	1373	Криму	Крим	LOC	GPE-Crimea
+1381	1388	Байдена	Байден	PER	PER-Joe-Biden
+1486	1493	Москвою	Москва	LOC	GPE-Moscow
+1551	1566	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1612	1618	Росією	Росія	LOC	GPE-Russia
+1652	1663	Новий старт	Новий старт	EVT	EVT-New-START
+1826	1837	Білого дому	Білий дім	ORG	ORG-White-House
+1838	1848	Джен Псакі	Джен Псакі	PER	PER-Jen-Psaki
+1876	1886	Навального	Навальний	PER	PER-Alexei-Navalny
+1935	1944	Білий дім	Білий дім	ORG	ORG-White-House
+2002	2008	Кремля	Кремль	ORG	ORG-Kremlin
+2014	2024	Джен Псакі	Джен Псакі	PER	PER-Jen-Psaki
+2086	2089	США	США	LOC	GPE-USA
+2164	2169	Росії	Росія	LOC	GPE-Russia
+2172	2178	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2181	2184	США	США	LOC	GPE-USA
+2211	2217	Москва	Москва	LOC	GPE-Moscow
+2279	2290	Афганістані	Афганістан	LOC	GPE-Afghanistan
+2304	2311	Байдена	Байден	PER	PER-Joe-Biden
+2362	2369	Москвою	Москва	LOC	GPE-Moscow
+2375	2380	Трамп	Трамп	PER	PER-Donald-Trump
+2385	2396	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+2499	2506	Кремлем	Кремль	ORG	ORG-Kremlin
+2560	2566	Грузію	Грузія	LOC	GPE-Georgia
+2595	2598	США	США	LOC	GPE-USA
+2599	2613	Ентоні Блінкен	Ентоні Блінкен	PER	PER-Antony-Blinken
+2634	2640	Сенату	Сенат	ORG	ORG-United-States-Senate
+2683	2690	Україні	Україна	LOC	GPE-Ukraine
+2707	2712	Росії	Росія	LOC	GPE-Russia
+2727	2733	Грузії	Грузія	LOC	GPE-Georgia
+2783	2787	НАТО	НАТО	ORG	ORG-NATO
+2789	2796	Блінкен	Блінкен	PER	PER-Antony-Blinken
+2849	2865	Джейка Саллівана	Джейк Салліван	PER	PER-Jake-Sullivan
+2888	2894	Кремля	Кремль	ORG	ORG-Kremlin
+2897	2906	Навальним	Навальний	PER	PER-Alexei-Navalny
+2908	2916	Салліван	Салліван	PER	PER-Jake-Sullivan
+3150	3155	Трамп	Трамп	PER	PER-Donald-Trump
+3175	3192	Володимира Путіна	Володимир Путін	PER	PER-Vladimir-Putin
+3243	3253	Ендрю Вайс	Ендрю Вайс	PER	PER-Andrew-Weiss
+3292	3298	Байден	Байден	PER	PER-Joe-Biden
+3319	3324	Росія	Росія	LOC	GPE-Russia
+3507	3512	Путін	Путін	PER	PER-Vladimir-Putin
+3590	3596	Трампа	Трамп	PER	PER-Donald-Trump
+3621	3628	Байдена	Байден	PER	PER-Joe-Biden
+3652	3658	Кремль	Кремль	ORG	ORG-Kremlin
+3681	3688	Байдена	Байден	PER	PER-Joe-Biden
+3707	3710	США	США	LOC	GPE-USA
+3736	3742	Трампа	Трамп	PER	PER-Donald-Trump
+3747	3758	Новий старт	Новий старт	EVT	EVT-New-START
+3787	3794	Байдена	Байден	PER	PER-Joe-Biden
+3831	3837	Путіна	Путін	PER	PER-Vladimir-Putin
+3976	3989	Адміністрація	Адміністрація	ORG	ORG-US-President-Administration
+3990	3996	Трампа	Трамп	PER	PER-Donald-Trump
+4081	4086	Росії	Росія	LOC	GPE-Russia
+4112	4117	Китаю	Китай	LOC	GPE-China
+4389	4398	Пентагону	Пентагон	ORG	ORG-The-Pentagon
+4399	4409	Джон Кірбі	Джон Кірбі	PER	PER-John-Kirby
+4427	4430	США	США	LOC	GPE-USA
+4473	4486	Нового старту	Новий старт	EVT	EVT-New-START
+4540	4547	Америку	Америка	LOC	GPE-USA
+4598	4603	Росії	Росія	LOC	GPE-Russia
+4647	4658	Новий старт	Новий старт	EVT	EVT-New-START
+4675	4680	Путін	Путін	PER	PER-Vladimir-Putin
+4694	4700	Трампу	Трамп	PER	PER-Donald-Trump
+4743	4753	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4779	4782	США	США	LOC	GPE-USA
+4812	4829	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+4844	4855	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+4856	4863	Байдена	Байден	PER	PER-Joe-Biden
+4897	4912	Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+4913	4925	Джон Робертс	Джон Робертс	PER	PER-John-Roberts
+4946	4955	Капітолію	Капітолій	LOC	LOC-United-States-Capitol

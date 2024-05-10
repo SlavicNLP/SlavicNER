@@ -1,0 +1,22 @@
+22	28	Англия	Англия	LOC	GPE-England
+161	175	Великобритания	Великобритания	LOC	GPE-Great-Britain
+207	209	ЕС	ЕС	ORG	ORG-European-Union
+349	355	Лондон	Лондон	LOC	GPE-London
+436	443	Брекзит	Брекзит	EVT	EVT-Brexit
+680	682	ЕС	ЕС	ORG	ORG-European-Union
+707	714	българи	българи	PER	GPE-Bulgaria
+717	724	румънци	румънци	PER	GPE-Romania
+735	748	Алестър Брукс	Алестър Брукс	PER	PER-Alastair-Brooks
+761	765	Кент	Кент	LOC	GPE-Kent
+783	791	Обзървър	Обзървър	PRO	PRO-The-Observer
+832	840	България	България	LOC	GPE-Bulgaria
+843	850	Румъния	Румъния	LOC	GPE-Romania
+927	934	Брекзит	Брекзит	EVT	EVT-Brexit
+967	977	британците	британци	PER	GPE-Great-Britain
+986	1001	Никълъс Марстън	Никълъс Марстън	PER	PER-Nicholas-Marston
+1018	1084	асоциацията на производителите на летни плодове във Великобритания	Асоциация на производителите на летни плодове във Великобритания	ORG	ORG-British-Summer-Fruits
+1589	1591	ЕС	ЕС	ORG	ORG-European-Union
+1627	1641	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1665	1685	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1968	1978	Майкъл Гав	Майкъл Гав	PER	PER-Michael-Gove
+2070	2077	Брекзит	Брекзит	EVT	EVT-Brexit

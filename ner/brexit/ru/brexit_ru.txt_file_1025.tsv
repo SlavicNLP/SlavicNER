@@ -1,0 +1,53 @@
+29	37	Британии	Британия	LOC	GPE-Great-Britain
+41	43	ЕС	ЕС	ORG	ORG-European-Union
+120	128	Брекзита	Брекзит	EVT	EVT-Brexit
+130	138	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+173	184	Аррон Бэнкс	Аррон Бэнкс	PER	PER-Arron-Banks
+257	262	Бэнкс	Бэнкс	PER	PER-Arron-Banks
+272	280	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+353	364	референдума	референдум	EVT	EVT-Brexit-Referendum
+374	382	Британии	Британия	LOC	GPE-Great-Britain
+386	388	ЕС	ЕС	ORG	ORG-European-Union
+435	447	The Guardian	The Guardian	PRO	PRO-The-Guardian
+591	599	Брекзита	Брекзит	EVT	EVT-Brexit
+684	700	Кэрол Кадуолладр	Кэрол Кадуолладр	PER	PER-Carole-Cadwalladr
+703	714	Питер Джукс	Питер Джукс	PER	PER-Peter-Jukes
+739	744	Бэнкс	Бэнкс	PER	PER-Arron-Banks
+775	796	правительством России	правительство России	ORG	ORG-The-Government-of-Russia
+884	896	The Observer	The Observer	PRO	PRO-The-Observer
+984	989	Бэнкс	Бэнкс	PER	PER-Arron-Banks
+1091	1109	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+1153	1165	The Observer	The Observer	PRO	PRO-The-Observer
+1283	1288	Бэнкс	Бэнкс	PER	PER-Arron-Banks
+1452	1460	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+1494	1499	Бэнкс	Бэнкс	PER	PER-Arron-Banks
+1526	1546	Симаном Поваренкиным	Симан Поваренкин	PER	PER-Siman-Povarenkin
+1650	1665	Джимом Меллоном	Джим Меллон	PER	PER-Jim-Mellon
+1743	1748	Джима	Джим	PER	PER-Jim-Mellon
+1798	1803	Бэнкс	Бэнкс	PER	PER-Arron-Banks
+2018	2022	Джим	Джим	PER	PER-Jim-Mellon
+2046	2052	Меллон	Меллон	PER	PER-Jim-Mellon
+2134	2140	России	Россия	LOC	GPE-Russia
+2173	2180	Меллону	Меллон	PER	PER-Jim-Mellon
+2181	2201	Manx Financial Group	Manx Financial Group	ORG	ORG-Manx-Financial-Group-PLC
+2202	2207	Бэнкс	Бэнкс	PER	PER-Arron-Banks
+2231	2237	Меллон	Меллон	PER	PER-Jim-Mellon
+2264	2272	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+2289	2307	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+2351	2359	Меллоном	Меллон	PER	PER-Jim-Mellon
+2398	2417	Charlemagne Capital	Charlemagne Capital	ORG	ORG-Charlemagne-Capital-Ltd
+2516	2522	Алросе	Алроса	ORG	ORG-Alrosa
+2526	2532	Алросу	Алроса	ORG	ORG-Alrosa
+2557	2571	Сергея Иванова	Сергей Иванов	PER	PER-Sergei-Ivanov
+2604	2610	Путина	Путин	PER	PER-Vladimir-Putin
+2647	2654	Меллона	Меллон	PER	PER-Jim-Mellon
+2846	2851	Бэнкс	Бэнкс	PER	PER-Arron-Banks
+2903	2911	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+2912	2923	Энди Вигмор	Энди Вигмор	PER	PER-Andy-Wigmore
+2931	2937	Меллон	Меллон	PER	PER-Jim-Mellon
+2970	2982	Поваренкиным	Поваренкин	PER	PER-Siman-Povarenkin
+3016	3023	Алросой	Алроса	ORG	ORG-Alrosa
+3042	3048	Алросы	Алроса	ORG	ORG-Alrosa
+3183	3198	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3221	3224	США	США	LOC	GPE-USA
+3285	3293	Роснефть	Роснефть	ORG	ORG-Rosneft

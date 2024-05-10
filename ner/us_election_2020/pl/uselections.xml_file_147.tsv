@@ -1,0 +1,21 @@
+0	10	Amerykanie	Amerykanie	PER	GPE-USA
+73	94	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+118	131	Święcie Pracy	Święto Pracy	EVT	EVT-International-Workers-Day
+141	148	Ameryce	Ameryka	LOC	GPE-USA
+305	314	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+357	373	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+586	592	Trumpa	Trump	PER	PER-Donald-Trump
+670	676	Bidena	Biden	PER	PER-Joe-Biden
+729	737	COVID-19	COVID-19	EVT	EVT-Covid-19
+1160	1170	Kalifornia	Kalifornia	LOC	GPE-California
+1173	1182	Nowy Jork	Nowy Jork	LOC	GPE-New-York
+1211	1219	Oklahoma	Oklahoma	LOC	GPE-Oklahoma
+1224	1231	Alabama	Alabama	LOC	GPE-USA-Alabama
+1301	1309	Michigan	Michigan	LOC	GPE-Michigan
+1311	1315	Ohio	Ohio	LOC	GPE-Ohio
+1317	1324	Floryda	Floryda	LOC	GPE-Florida
+1329	1338	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1370	1376	Teksas	Teksas	LOC	GPE-Texas
+1547	1559	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1693	1711	Chrisem Wallace’em	Chris Wallace	PER	PER-Chris-Wallace
+1714	1722	Fox News	Fox News	PRO	PRO-Fox-News

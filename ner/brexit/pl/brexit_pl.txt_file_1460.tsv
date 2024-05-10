@@ -1,0 +1,29 @@
+0	11	Roman Ziruk	Roman Ziruk	PER	PER-Roman-Ziruk
+13	18	Ebury	Ebury	ORG	ORG-Ebury
+1100	1111	Bank Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+1332	1335	BoE	BoE	ORG	ORG-Bank-of-England
+1462	1467	Banku	Bank	ORG	ORG-Bank-of-England
+2124	2149	Europejski Bank Centralny	Europejski Bank Centralny	ORG	ORG-European-Central-Bank
+2312	2326	Bank centralny	Bank Centralny	ORG	ORG-European-Central-Bank
+2395	2398	EBC	EBC	ORG	ORG-European-Central-Bank
+2636	2651	Mario Draghiego	Mario Draghiego	PER	PER-Mario-Draghi
+2707	2710	EBC	EBC	ORG	ORG-European-Central-Bank
+3080	3083	EBC	EBC	ORG	ORG-European-Central-Bank
+3146	3149	EBC	EBC	ORG	ORG-European-Central-Bank
+3427	3434	Brexitu	Brexit	EVT	EVT-Brexit
+3446	3448	UE	UE	ORG	ORG-European-Union
+3450	3464	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+3488	3505	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3577	3600	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+3637	3639	UE	UE	ORG	ORG-European-Union
+3641	3648	Barnier	Barnier	PER	PER-Michel-Barnier
+3674	3676	UE	UE	ORG	ORG-European-Union
+3705	3709	City	City	LOC	LOC-City-of-London
+3805	3822	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3825	3827	UE	UE	ORG	ORG-European-Union
+4497	4500	USA	USA	LOC	GPE-USA
+4561	4564	USA	USA	LOC	GPE-USA
+4695	4698	USA	USA	LOC	GPE-USA
+4796	4804	Michigan	Michigan	LOC	LOC-Michigan
+4845	4848	USA	USA	LOC	GPE-USA
+5172	5186	Strefa Biznesu	Strefa Biznesu	PRO	PRO-Strefa-Biznesu

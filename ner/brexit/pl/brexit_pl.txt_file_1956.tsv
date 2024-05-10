@@ -1,0 +1,31 @@
+0	3	May	May	PER	PER-Theresa-May
+65	73	Brexicie	Brexit	EVT	EVT-Brexit
+104	119	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+173	196	Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+199	201	UE	UE	ORG	ORG-European-Union
+226	243	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+259	262	May	May	PER	PER-Theresa-May
+271	274	BBC	BBC	PRO	PRO-BBC
+489	492	May	May	PER	PER-Theresa-May
+568	570	UE	UE	ORG	ORG-European-Union
+622	630	Brukselą	Bruksela	LOC	GPE-Brussles
+680	683	BBC	BBC	PRO	PRO-BBC
+719	726	Brexitu	Brexit	EVT	EVT-Brexit
+729	752	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+780	795	Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+837	848	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+950	952	UE	UE	ORG	ORG-European-Union
+968	985	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1024	1039	europarlamencie	Europarlament	ORG	ORG-European-Parliament
+1042	1069	Europejskiej Partii Ludowej	Europejska Partia Ludowa	ORG	ORG-EPP-European-Peoples-Party
+1071	1074	EPL	EPL	ORG	ORG-EPP-European-Peoples-Party
+1078	1091	Manfred Weber	Manfred Weber	PER	PER-Manfred-Weber
+1219	1222	EPL	EPL	ORG	ORG-EPP-European-Peoples-Party
+1292	1297	Weber	Weber	PER	PER-Manfred-Weber
+1324	1336	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1378	1380	UE	UE	ORG	ORG-European-Union
+1539	1554	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1583	1600	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1637	1646	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+1688	1696	Brexicie	Brexit	EVT	EVT-Brexit
+1717	1720	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

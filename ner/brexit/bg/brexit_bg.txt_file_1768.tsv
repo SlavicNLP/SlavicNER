@@ -1,0 +1,16 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+25	32	Брюксел	Брюксел	LOC	GPE-Brussles
+76	78	ЕС	ЕС	ORG	ORG-European-Union
+100	110	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+198	214	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+232	246	Великобритания	Великобритания	LOC	GPE-Great-Britain
+281	288	Брекзит	Брекзит	EVT	EVT-Brexit
+347	354	Брюксел	Брюксел	LOC	GPE-Brussles
+480	500	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+580	582	ЕС	ЕС	ORG	ORG-European-Union
+633	653	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+939	953	Великобритания	Великобритания	LOC	GPE-Great-Britain
+988	990	ЕС	ЕС	ORG	ORG-European-Union
+1109	1123	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1149	1159	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1189	1194	Китай	Китай	LOC	GPE-China

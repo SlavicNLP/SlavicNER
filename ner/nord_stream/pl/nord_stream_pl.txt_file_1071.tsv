@@ -1,0 +1,21 @@
+0	3	USA	USA	LOC	GPE-USA
+15	22	Niemców	Niemiec	PER	GPE-Germany
+38	43	Rosji	Rosja	LOC	GPE-Russia
+55	68	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+145	162	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+166	171	Rosję	Rosja	LOC	GPE-Russia
+208	221	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+223	226	USA	USA	LOC	GPE-USA
+293	296	USA	USA	LOC	GPE-USA
+307	313	Berlin	Berlin	LOC	GPE-Berlin
+368	381	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+396	408	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+647	650	USA	USA	LOC	GPE-USA
+745	758	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+778	785	Bałtyku	Bałtyk	LOC	LOC-Baltic-Sea
+837	848	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+953	958	Rosji	Rosja	LOC	GPE-Russia
+962	969	Niemiec	Niemcy	LOC	GPE-Germany
+1035	1041	Polska	Polska	LOC	GPE-Poland
+1061	1068	Ukraina	Ukraina	LOC	GPE-Ukraine
+1071	1077	Polska	Polska	LOC	GPE-Poland

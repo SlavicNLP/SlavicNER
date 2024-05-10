@@ -1,0 +1,42 @@
+0	14	Brytyjski rząd	Brytyjski rząd	ORG	ORG-British-Government
+62	77	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+160	165	Rosji	Rosja	LOC	GPE-Russia
+231	238	Ukrainy	Ukraina	LOC	GPE-Ukraine
+302	308	Polski	Polska	LOC	GPE-Poland
+377	382	Rosji	Rosja	LOC	GPE-Russia
+384	386	KE	KE	ORG	ORG-European-Commission
+551	568	Azatbek Omurbekow	Azatbek Omurbekow	PER	PER-Azatbek-Omurbekov
+587	603	armii rosyjskiej	armia rosyjska	ORG	ORG-Russian-Armed-Forces
+628	633	Buczy	Bucza	LOC	GPE-Bucha
+644	662	Andriej Sierdiukow	Andriej Sierdiukow	PER	PER-Andrey-Serdyukov
+709	726	Walery Fliustikow	Walery Fliustikow	PER	PER-Valery-Flyustikov
+736	760	Sił Operacji Specjalnych	Siły Operacji Specjalnych	ORG	ORG-Special-Operations-Forces-Russia
+772	791	Nikołaj Bogdanowski	Nikołaj Bogdanowski	PER	PER-Nikolai-Bogdanovsky
+817	835	Sztabu Generalnego	Sztab Generalny	ORG	ORG-General-Staff-of-the-Armed-Forces-of-the-Russian-Federation
+873	887	brytyjski rząd	brytyjski rząd	ORG	ORG-British-Government
+1261	1276	Oleg Biełozorow	Oleg Biełozorow	PER	PER-Oleg-Belozorov
+1285	1301	Kolei Rosyjskich	Koleje Rosyjskie	ORG	ORG-Russian-Railroads
+1303	1320	Siergiej Koroliow	Siergiej Koroliow	PER	PER-Sergei-Korolev
+1346	1378	Federalnej Służby Bezpieczeństwa	Federalna Służba Bezpieczeństwa	ORG	ORG-FCB-Federal-Security-Service-of-the-Russian-Federation
+1384	1393	Ilja Kiwa	Ilja Kiwa	PER	PER-Ilya-Kiva
+1470	1475	Rosji	Rosja	LOC	GPE-Russia
+1479	1487	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1541	1560	Koncern Kałasznikow	Koncern Kałasznikow	ORG	ORG-Kalashnikov-Concern
+1605	1624	Koncern Kałasznikow	Koncern Kałasznikow	ORG	ORG-Kalashnikov-Concern
+1688	1710	rosyjskie siły zbrojne	rosyjskie siły zbrojne	ORG	ORG-Russian-Armed-Forces
+1719	1737	inwazji na Ukrainę	inwazja na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1739	1767	Zakład Budowy Maszyn Arzamas	Zakład Budowy Maszyn Arzamas	ORG	ORG-Arzamas-Machine-Building-Plant
+1839	1857	inwazji na Ukrainę	inwazja na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1859	1896	Wojskowe Przedsiębiorstwo Przemysłowe	Wojskowe Przedsiębiorstwo Przemysłowe	ORG	ORG-Military-Industrial-Company
+1945	1969	rosyjskich sił zbrojnych	rosyjskie siły zbrojne	ORG	ORG-Russian-Armed-Forces
+1975	1979	GTLK	GTLK	ORG	ORG-Russian-State-Transport-Leasing-Company-GTLK
+1994	1999	Rosji	Rosja	LOC	GPE-Russia
+2215	2222	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2253	2258	Rosja	Rosja	LOC	GPE-Russia
+2315	2324	Mariupolu	Mariupol	LOC	GPE-Mariupol
+2358	2367	Czeczenii	Czeczenia	LOC	GPE-Chechnya
+2370	2375	Syrii	Syria	LOC	GPE-Syria
+2377	2392	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2434	2441	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2457	2475	(Władimira) Putina	(Władimir) Putin	PER	PER-Vladimir-Putin
+2648	2657	Liz Truss	Liz Truss	PER	PER-Liz-Truss

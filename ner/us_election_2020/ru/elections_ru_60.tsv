@@ -1,0 +1,326 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+32	43	"""Рашагейта"""	"""Рашагейт"""	EVT	EVT-Russiagate
+59	77	Джордж Пападопулос	Джордж Пападопулос	PER	PER-George-Papadopoulos
+95	103	твиттера	твиттер	PRO	PRO-Twitter
+106	119	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+167	173	России	Россия	LOC	GPE-Russia
+176	188	американские	американские	LOC	GPE-USA
+243	263	Джорджа Пападопулоса	Джордж Пападопулос	PER	PER-George-Papadopoulos
+277	288	Нидерландов	Нидерланды	LOC	GPE-Holland
+299	320	Алекса ван дер Цваана	Алекс ван дер Цваан	PER	PER-Alex-van-der-Zwaan
+328	339	российского	российский	LOC	GPE-Russia
+351	363	Германа Хана	Герман Хан	PER	PER-German-Khan
+408	419	российскому	российский	LOC	GPE-Russia
+531	539	Ассанджа	Ассандж	PER	PER-Julian-Assange
+542	550	Сноудена	Сноуден	PER	PER-Edward-Snowden
+730	739	рашагейту	рашагейт	EVT	EVT-Russiagate
+760	765	Путин	Путин	PER	PER-Vladimir-Putin
+907	912	Обамы	Обама	PER	PER-Barack-Obama
+988	993	Обама	Обама	PER	PER-Barack-Obama
+1029	1050	Офиса по помилованиям	Офис по помилованиям	ORG	ORG-Office-of-the-Pardon-Attorney
+1113	1116	США	США	LOC	GPE-USA
+1145	1151	Трампа	Трам	PER	PER-Donald-Trump
+1255	1266	Гульфикгейт	Гульфикгейт	EVT	EVT-Poisoning-of-Alexey-Navalny
+1354	1359	Совок	Совок	LOC	GPE-USSR
+1404	1411	Байдена	Байден	PER	PER-Joe-Biden
+1428	1435	Мюллера	Мюллера	PER	PER-Robert-Mueller
+1470	1474	Дони	Дони	PER	PER-Donald-Trump
+1555	1560	Флинн	Флинн	PER	PER-Michael-Flynn
+1772	1779	Америка	Америка	LOC	GPE-USA
+2051	2057	кремля	Кремль	ORG	ORG-Kremlin
+2058	2063	Трамп	Трамп	PER	PER-Donald-Trump
+2075	2089	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+2178	2184	кремля	Кремль	ORG	ORG-Kremlin
+2185	2190	Трамп	Трамп	PER	PER-Donald-Trump
+2202	2216	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+2443	2450	Маккейн	Маккейн	PER	PER-John-McCain
+2565	2573	Зимбабве	Зимбабве	LOC	GPE-Zimbabwe
+2575	2584	Гваделупа	Гваделупа	LOC	GPE-Guadalupe
+2628	2634	Байден	Байден	PER	PER-Joe-Biden
+2700	2706	Россию	Россия	LOC	GPE-Russia
+2840	2850	российской	российский	LOC	GPE-Russia
+2861	2867	Россия	Россия	LOC	GPE-Russia
+2881	2884	США	США	LOC	GPE-USA
+2934	2939	Китае	Китай	LOC	GPE-China
+2972	2982	На Вал Ный	Навальный	PER	PER-Alexei-Navalny
+3017	3023	Байден	Байден	PER	PER-Joe-Biden
+3030	3033	КПК	Коммунистическая партия Китая	ORG	ORG-Chinese-Communist-Party-(CCP)
+3066	3069	США	США	LOC	GPE-USA
+3072	3077	Китае	Китай	LOC	GPE-China
+3097	3103	Трампу	Трамп	PER	PER-Donald-Trump
+3123	3128	Китай	Китай	LOC	GPE-China
+3303	3308	Трамп	Трамп	PER	PER-Donald-Trump
+3310	3317	Сноуден	Сноуден	PER	PER-Edward-Snowden
+3357	3368	американцев	американцы	PER	GPE-USA
+3438	3446	Сноудене	Сноуден	PER	PER-Edward-Snowden
+3547	3556	Юрий Швец	Юрий Швец	PER	PER-Yuri-Shvets
+3581	3588	Фейгина	Фейгин	PER	PER-Mark-Feygin
+3632	3641	Трампусик	Трампусик	PER	PER-Donald-Trump
+3808	3813	трамп	Трамп	PER	PER-Donald-Trump
+3912	3918	Байден	Байден	PER	PER-Joe-Biden
+4049	4059	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4113	4120	Хиллари	Хиллари	PER	PER-Hillary-Clinton
+4161	4164	США	США	LOC	GPE-USA
+4167	4172	Ливии	Ливия	LOC	GPE-Libya
+4224	4227	США	США	LOC	GPE-USA
+4323	4329	России	Россия	LOC	GPE-Russia
+4456	4462	Антифы	Антифа	ORG	ORG-Antifa-USA
+4540	4556	Конгресс Аризоны	Конгресс Аризоны	ORG	ORG-United-States-Congress
+4594	4600	Трампа	Трам	PER	PER-Donald-Trump
+4602	4621	Юридический комитет	Юридический комитет	ORG	ORG-US-Senate-Judiciary-Committee
+4622	4637	Сената Джорджии	Сенат Джорджии	ORG	ORG-Georgia-State-Senate
+4756	4763	Байдена	Байден	PER	PER-Joe-Biden
+4826	4832	Трампа	Трам	PER	PER-Donald-Trump
+4867	4877	Висконсине	Висконсин	LOC	GPE-Wisconsin
+4932	4939	Байдена	Байден	PER	PER-Joe-Biden
+4952	4969	республикансканцы	республиканцы	PER	ORG-Republican-Party-USA
+5067	5073	Трампу	Трамп	PER	PER-Donald-Trump
+5136	5143	Байдена	Байден	PER	PER-Joe-Biden
+5477	5483	Трампа	Трам	PER	PER-Donald-Trump
+5507	5514	Америки	Америка	LOC	GPE-USA
+5552	5558	Байден	Байден	PER	PER-Joe-Biden
+5602	5608	Трампа	Трам	PER	PER-Donald-Trump
+5769	5775	антифы	Антифа	ORG	ORG-Antifa-USA
+5935	5942	Keyfood	Keyfood	ORG	ORG-Keyfood
+5991	5997	Байден	Байден	PER	PER-Joe-Biden
+6116	6125	Конгрессы	Конгресс	ORG	ORG-United-States-Congress
+6141	6146	демов	демы	PER	ORG-Democratic-Party-USA
+6225	6231	Трампа	Трам	PER	PER-Donald-Trump
+6238	6246	Америкой	Америка	LOC	GPE-USA
+6362	6372	американцы	американцы	PER	GPE-USA
+6429	6432	США	США	LOC	GPE-USA
+6533	6536	США	США	LOC	GPE-USA
+6942	6955	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+6976	6981	Трамп	Трамп	PER	PER-Donald-Trump
+7069	7081	Американскую	американская	LOC	GPE-USA
+7128	7133	Флинн	Флинн	PER	PER-Michael-Flynn
+7186	7193	Байдене	Джо Байден	PER	PER-Joe-Biden
+7361	7364	США	США	LOC	GPE-USA
+7365	7378	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+7635	7643	Сноудена	Сноуден	PER	PER-Edward-Snowden
+7646	7653	Ассанжа	Ассанж	PER	PER-Julian-Assange
+7774	7782	Сноудена	Сноуден	PER	PER-Edward-Snowden
+7833	7839	Трампа	Трам	PER	PER-Donald-Trump
+7973	7979	Трампа	Трам	PER	PER-Donald-Trump
+8165	8171	Трампу	Трамп	PER	PER-Donald-Trump
+8207	8210	ФБР	ФБР	ORG	ORG-FBI
+8213	8216	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+8381	8388	Сноуден	Сноуден	PER	PER-Edward-Snowden
+8483	8490	Клаппер	Клаппер	PER	PER-James-Clapper
+8496	8505	Конгрессу	Конгресс	ORG	ORG-United-States-Congress
+8603	8611	Клапперу	Клаппер	PER	PER-James-Clapper
+8635	8643	Сноудену	Сноуден	PER	PER-Edward-Snowden
+8706	8715	Ю Америки	Ю Америка	LOC	LOC-South-America
+8717	8723	Россия	Россия	PER	GPE-Russia
+8975	8978	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+8980	8987	Гестапо	Гестапо	ORG	ORG-Gestapo
+8989	8994	Штази	Штазе	ORG	ORG-Stasi
+9008	9012	Коми	Коми	PER	PER-James-Comey
+9085	9089	Буша	Буш	PER	PER-George-Bush-Jr
+9101	9114	Локхид Мартин	Локхид Мартин	ORG	ORG-Lockheed-Martin
+9179	9182	ФБР	ФБР	ORG	ORG-FBI
+9209	9216	Моллера	Мюллер	PER	PER-Jens-Muller
+9282	9292	Бриджуотер	Бриджуотер	LOC	GPE-Bridgwater
+9365	9369	Коми	Коми	PER	PER-James-Comey
+9694	9702	Сноудена	Сноуден	PER	PER-Edward-Snowden
+9801	9805	Рашу	Раша	LOC	GPE-Russia
+9824	9827	АНБ	АНБ	ORG	ORG-National-Security-Agency-NSA-USA
+9873	9879	Москвы	Москва	LOC	GPE-Moscow
+9897	9904	Ассанжу	Ассанж	PER	PER-Julian-Assange
+9966	9970	Рашу	Раша	LOC	GPE-Russia
+10013	10022	Навальный	Навальный	PER	PER-Alexei-Navalny
+10048	10056	Германии	Германия	LOC	GPE-Germany
+10098	10104	Еаропу	Европа	LOC	LOC-Europe
+10107	10114	Америку	Америка	LOC	GPE-USA
+10164	10167	ФБР	ФБР	ORG	ORG-FBI
+10169	10172	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+10174	10198	министерства юстиции США	министерство юстиции США	ORG	ORG-The-United-States-Department-of-Justice
+10242	10250	Сноудена	Сноуден	PER	PER-Edward-Snowden
+10254	10260	Мюллер	Мюллер	PER	PER-Jens-Muller
+10289	10295	Трампа	Трам	PER	PER-Donald-Trump
+10349	10356	Моллера	Мюллер	PER	PER-Jens-Muller
+10491	10497	Моллер	Мюллер	PER	PER-Jens-Muller
+10560	10565	Трамп	Трамп	PER	PER-Donald-Trump
+10763	10770	Сноуден	Сноуден	PER	PER-Edward-Snowden
+10794	10797	США	США	LOC	GPE-USA
+10894	10900	Pacnet	Pacnet	ORG	ORG-Pacnet
+10910	10919	китайских	китайский	LOC	GPE-China
+11128	11135	Сноуден	Сноуден	PER	PER-Edward-Snowden
+11219	11226	Сноуден	Сноуден	PER	PER-Edward-Snowden
+11333	11336	ФБР	ФБР	ORG	ORG-FBI
+11352	11355	КГБ	КГБ	ORG	ORG-The-KGB-Committee-for-State-Security
+11495	11501	Трампа	Трам	PER	PER-Donald-Trump
+11555	11561	Флинна	Флинн	PER	PER-Michael-Flynn
+12019	12025	Байден	Байден	PER	PER-Joe-Biden
+12042	12050	Клинтоны	Клинтоны	PER	PER-Clintons
+12052	12057	Обама	Обама	PER	PER-Barack-Obama
+12067	12074	Сноуден	Сноуден	PER	PER-Edward-Snowden
+12252	12258	Ассанж	Ассанж	PER	PER-Julian-Assange
+12465	12470	Трамп	Трамп	PER	PER-Donald-Trump
+12551	12560	Рашагейту	Рашагейт	EVT	EVT-Russiagate
+12582	12591	Манафорта	Манафорт	PER	PER-Paul-Manafort
+12694	12699	Трамп	Трамп	PER	PER-Donald-Trump
+12808	12823	Джареда Кушнера	Джаред Кушнер	PER	PER-Jared-Kushner
+12836	12849	Чарльз Кушнер	Чарльз Кушнер	PER	PER-Charles-Kushner
+12883	12917	Федеральной избирательной комиссии	Федеральная избирательная комиссия	ORG	ORG-Federals-Election-Commission
+13057	13070	Чарльз Кушнер	Чарльз Кушнер	PER	PER-Charles-Kushner
+13114	13117	ВВС	BBC	PRO	PRO-BBC
+13315	13321	Америа	Америка	LOC	GPE-USA
+13368	13379	американцам	американцы	PER	GPE-USA
+13438	13454	ближневосточными	ближневосточные	LOC	LOC-Near-East
+13480	13487	Америке	Америка	LOC	GPE-USA
+13545	13551	Судане	Судан	LOC	GPE-Sudan
+13554	13563	Венесуэле	Венесуэла	LOC	GPE-Venezuela
+13597	13606	Пакистане	Пакистан	LOC	GPE-Pakistan
+13651	13661	американцы	американцы	PER	GPE-USA
+13737	13743	Ньюсом	Ньюсом	PER	PER-Gavin-Newsom
+13780	13793	калифорнийцев	калифорниец	PER	GPE-California
+13911	13917	Америа	Америка	LOC	GPE-USA
+13964	13975	американцам	американцы	PER	GPE-USA
+14034	14050	ближневосточными	ближневосточные	LOC	LOC-Near-East
+14076	14083	Америке	Америка	LOC	GPE-USA
+14192	14201	Демократы	демократы	PER	ORG-Democratic-Party-USA
+14283	14297	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+14337	14343	Байден	Байден	PER	PER-Joe-Biden
+14413	14418	Сенат	Сенат	ORG	ORG-United-States-Senate
+14447	14454	Байдена	Байден	PER	PER-Joe-Biden
+14572	14578	Трампа	Трам	PER	PER-Donald-Trump
+14887	14894	Байдену	Байден	PER	PER-Joe-Biden
+14913	14919	Трампу	Трамп	PER	PER-Donald-Trump
+15238	15249	Betsy DeVos	Betsy DeVos	PER	PER-Betsy-Devos
+15273	15283	Ryan Zinke	Ryan Zinke	PER	PER-Ryan-Zinke
+15438	15450	Тони Блинкен	Тони Блинкен	PER	PER-Antony-Blinken
+15452	15470	Алехандро Майоркас	Алехандро Майоркас	PER	PER-Alejandro-Mayorkas
+15472	15490	Дженнифер Грэнхолм	Дженнифер Грэнхолм	PER	PER-Jennifer-Granholm
+15495	15509	Пит Буттеджедж	Пит Буттеджедж	PER	PER-Peter-Buttigieg
+15850	15862	американские	американские	LOC	GPE-USA
+16019	16027	Нетребко	Нетребко	PER	PER-Anna-Netrebko
+16092	16099	эфиопку	эфиопка	LOC	GPE-Ethiopia
+16100	16104	Аиду	Аида	PER	PER-Aida
+16249	16252	США	США	LOC	GPE-USA
+16683	16689	Байден	Байден	PER	PER-Joe-Biden
+16706	16716	Будиджаджа	Будиджадж	PER	PER-Peter-Buttigieg
+16750	16759	Будиджадж	Будиджадж	PER	PER-Peter-Buttigieg
+17068	17077	Бутиджича	Бутиджач	PER	PER-Peter-Buttigieg
+17120	17128	Гарварда	Гарвард	ORG	ORG-Harvard-University
+17140	17148	Оксфорда	Оксфорд	ORG	ORG-University-of-Oxford
+17159	17170	Афганистане	Афганистан	LOC	GPE-Afghanistan
+17353	17356	США	США	LOC	GPE-USA
+17373	17378	Трамп	Трамп	PER	PER-Donald-Trump
+17462	17471	Саут-Бенд	Саут-Бенд	LOC	GPE-South-Bend
+17517	17525	Арзамаса	Арзамас	LOC	GPE-Arzamas
+17947	17957	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+18161	18170	Бутиджича	Бутиджич	PER	PER-Peter-Buttigieg
+18207	18215	Гарварда	Гарвард	ORG	ORG-Harvard-University
+18250	18258	Оксфорда	Оксфорд	ORG	ORG-University-of-Oxford
+18640	18648	Гарварде	Гарвард	ORG	ORG-Harvard-University
+18675	18683	Оксфорде	Оксфорд	ORG	ORG-University-of-Oxford
+18745	18753	Гарварде	Гарвард	ORG	ORG-Harvard-University
+18770	18778	Оксфорде	Оксфорд	ORG	ORG-University-of-Oxford
+19003	19010	Гарвард	Гарвард	ORG	ORG-Harvard-University
+19302	19309	Гарвард	Гарвард	ORG	ORG-Harvard-University
+19839	19847	Бутержич	Бутеджич	PER	PER-Peter-Buttigieg
+19873	19882	Бутержича	Бутеджич	PER	PER-Peter-Buttigieg
+19921	19928	Гарвард	Гарвард	ORG	ORG-Harvard-University
+20080	20087	Гарвард	Гарвард	ORG	ORG-Harvard-University
+20432	20442	South Bend	South Bend	LOC	GPE-South-Bend
+20507	20516	Buttigieg	Buttigieg	PER	PER-Peter-Buttigieg
+20713	20719	Трампа	Трам	PER	PER-Donald-Trump
+20775	20781	Трампа	Трам	PER	PER-Donald-Trump
+20885	20891	Чикаго	Чикаго	LOC	GPE-Chicago
+20971	20977	Чикаго	Чикаго	LOC	GPE-Chicago
+21146	21152	Байден	Байден	PER	PER-Joe-Biden
+21255	21262	Хрущева	Хрущев	PER	PER-Nikita-Khrushchev
+21356	21363	Гитлера	Гитлер	PER	PER-Adolf-Hitler
+21436	21444	Германии	Германия	LOC	GPE-Germany
+21489	21496	Байдену	Байден	PER	PER-Joe-Biden
+21511	21518	Хрущева	Хрущев	PER	PER-Nikita-Khrushchev
+21536	21543	Гитлере	Гитлер	PER	PER-Adolf-Hitler
+21753	21760	Байдена	Байден	PER	PER-Joe-Biden
+21782	21788	Хрущев	Хрущев	PER	PER-Nikita-Khrushchev
+21842	21850	Фурцевой	Фурцева	PER	PER-Yekaterina-Furtseva
+21871	21879	Гитлером	Гитлер	PER	PER-Adolf-Hitler
+21926	21933	Годвина	Годвин	PER	PER-Mike-Godwin
+21948	21955	Гитлера	Гитлер	PER	PER-Adolf-Hitler
+21968	21975	Байдена	Байден	PER	PER-Joe-Biden
+22072	22080	Байденом	Байден	PER	PER-Joe-Biden
+22111	22124	Джанет Йеллен	Джанет Йеллен	PER	PER-Janet-Yellen
+22126	22140	Антони Блинкен	Антони Блинкен	PER	PER-Antony-Blinken
+22143	22161	Алехандро Майоркас	Алехандро Майоркас	PER	PER-Alejandro-Mayorkas
+22337	22356	Jonathan Greenblatt	Jonathan Greenblatt	PER	PER-Jonathan-Bullock
+22362	22369	Haaretz	Haaretz	PRO	PRO-Haaretz
+22504	22511	Фурцева	Фурцева	PER	PER-Yekaterina-Furtseva
+22544	22554	Содженицын	Солженицын	PER	PER-Aleksandr-Solzhenitsyn
+22604	22612	Хрущёвым	Хрущев	PER	PER-Nikita-Khrushchev
+22720	22726	Байден	Байден	PER	PER-Joe-Biden
+22861	22867	Трампа	Трам	PER	PER-Donald-Trump
+23019	23026	Пушкина	Пушкин	PER	PER-Alexander-Pushkin
+23121	23140	Евангелие от Матфея	Евангелие от Матфея	PRO	PRO-Gospel-of-Matthew
+23259	23266	Фурцева	Фурцева	PER	PER-Yekaterina-Furtseva
+23450	23457	Фурцева	Фурцева	PER	PER-Yekaterina-Furtseva
+23627	23637	South Bent	South Bent	LOC	GPE-New-South-Wales
+23729	23736	Хрущеву	Хрущев	PER	PER-Nikita-Khrushchev
+23753	23769	"""200 лет вместе"""	"""200 лет вместе"""	PRO	PRO-Two-Hundred-Years-Together
+23770	23781	Солженицына	Солженицын	PER	PER-Aleksandr-Solzhenitsyn
+23940	23946	Байден	Байден	PER	PER-Joe-Biden
+23983	23990	Байдена	Байден	PER	PER-Joe-Biden
+24195	24203	Байденом	Байден	PER	PER-Joe-Biden
+24288	24300	Рашида Тлаиб	Рашида Тлаиб	PER	PER-Rashida-Tlaib
+24390	24396	Байден	Байден	PER	PER-Joe-Biden
+24441	24456	Сашеньку Кортез	Сашенька Кортез	PER	PER-Alexandria-Ocasio-Cortez
+24568	24580	американский	американский	LOC	GPE-USA
+24663	24669	Трампа	Трам	PER	PER-Donald-Trump
+24719	24729	российский	российский	LOC	GPE-Russia
+24812	24822	Навального	Навальний	PER	PER-Alexei-Navalny
+24896	24903	канадец	канадец	PER	GPE-Canada
+24936	24943	Америка	Америка	LOC	GPE-USA
+24953	24959	России	Россия	LOC	GPE-Russia
+25112	25118	Россия	Россия	LOC	GPE-Russia
+25142	25149	Америки	Америка	LOC	GPE-USA
+25201	25213	американский	американский	LOC	GPE-USA
+25290	25296	России	Россия	LOC	GPE-Russia
+25343	25349	Путина	Путин	PER	PER-Vladimir-Putin
+25392	25399	Америке	Америка	LOC	GPE-USA
+25416	25426	демократов	демократ	PER	ORG-Democratic-Party-USA
+25481	25497	конгресс Аризоны	конгресс Аризоны	ORG	ORG-United-States-Congress
+25514	25520	Трампу	Трамп	PER	PER-Donald-Trump
+25527	25535	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+25800	25822	Избирательная Коллегия	Избирательная Коллегия	ORG	ORG-United-States-Electoral-College
+26099	26105	трампа	Трамп	PER	PER-Donald-Trump
+26169	26174	Венка	Венк	PER	PER-Walther-Wenck
+26200	26209	Советскую	советский	LOC	GPE-USSR
+26989	26996	Ташкент	Ташкент	LOC	GPE-Tashkent
+27022	27026	Иван	Иван	PER	PER-Ivan
+27383	27395	американским	американский	LOC	GPE-USA
+27552	27556	Аиду	Аида	PER	PER-Aida
+27559	27565	Отелло	Отелло	PER	PER-Otello
+27611	27621	короля Лир	Король Лир	PER	PER-King-Lear
+27708	27712	Аиду	Аида	PER	PER-Aida
+27715	27721	Отелло	Отелло	PER	PER-Otello
+27811	27820	Паваротти	Паваротти	PER	PER-Luciano-Pavorotti
+27832	27841	Рабинович	Рабинович	PER	PER-Vadim-Rabinovich
+27848	27852	Кацу	Кац	PER	PER-Maxim-Kats
+27935	27940	трапм	Трамп	PER	PER-Donald-Trump
+28173	28179	Трампа	Трам	PER	PER-Donald-Trump
+28272	28275	США	США	LOC	GPE-USA
+28418	28423	Трамп	Трамп	PER	PER-Donald-Trump
+28482	28487	тармп	Трамп	PER	PER-Donald-Trump
+28586	28596	российские	российские	LOC	GPE-Russia
+28764	28770	Трампа	Трам	PER	PER-Donald-Trump
+28918	28924	Цукера	Цукер	PER	PER-Mark-Zuckerberg
+28926	28931	Брина	Брин	PER	PER-Sergey-Brin
+28933	28939	Гейтса	Гейтс	PER	PER-Bill-Gates
+29250	29255	Трамп	Трамп	PER	PER-Donald-Trump
+29419	29424	Трамп	Трамп	PER	PER-Donald-Trump
+29927	29932	Трамп	Трамп	PER	PER-Donald-Trump
+29962	29965	США	США	LOC	GPE-USA
+30704	30709	тармп	Трамп	PER	PER-Donald-Trump
+30732	30738	тармпа	Трамп	PER	PER-Donald-Trump
+30811	30814	США	США	LOC	GPE-USA
+30965	30970	форбс	Форбс	PRO	PRO-Forbes
+31184	31192	Трампуле	Трамп	PER	PER-Donald-Trump
+31287	31293	Трампу	Трамп	PER	PER-Donald-Trump
+31378	31385	ньютона	Ньютон	PER	PER-Isaac-Newton
+31629	31635	Байден	Байден	PER	PER-Joe-Biden
+31758	31764	Байден	Байден	PER	PER-Joe-Biden
+31976	31982	Байден	Байден	PER	PER-Joe-Biden

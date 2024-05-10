@@ -1,0 +1,65 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+50	52	ЕС	ЕС	ORG	ORG-European-Union
+58	65	Брекзит	Брекзит	EVT	EVT-Brexit
+67	81	Великобритания	Великобритания	LOC	GPE-Great-Britain
+151	153	ЕС	ЕС	ORG	ORG-European-Union
+159	166	Брекзит	Брекзит	EVT	EVT-Brexit
+250	252	ЕС	ЕС	ORG	ORG-European-Union
+322	330	Политико	Политико	ORG	ORG-Politico
+355	363	Политико	Политико	ORG	ORG-Politico
+366	386	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+432	434	ЕС	ЕС	ORG	ORG-European-Union
+513	515	ЕС	ЕС	ORG	ORG-European-Union
+584	598	Великобритания	Великобритания	LOC	GPE-Great-Britain
+602	618	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+633	647	Великобритания	Великобритания	LOC	GPE-Great-Britain
+692	702	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+723	743	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+924	937	Джордж Нортън	Джордж Нортън	PER	PER-George-Norton
+960	962	ЕС	ЕС	ORG	ORG-European-Union
+1043	1045	ЕС	ЕС	ORG	ORG-European-Union
+1100	1102	ЕС	ЕС	ORG	ORG-European-Union
+1228	1242	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1374	1381	Брекзит	Брекзит	EVT	EVT-Brexit
+1396	1416	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+1457	1459	ЕС	ЕС	ORG	ORG-European-Union
+1557	1563	Лондон	Лондон	LOC	GPE-London
+1661	1671	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1737	1757	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+1777	1790	Джордж Нортън	Джордж Нортън	PER	PER-George-Norton
+1885	1892	Брекзит	Брекзит	EVT	EVT-Brexit
+1910	1924	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2046	2060	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2093	2099	Нортън	Нортън	PER	PER-George-Norton
+2116	2130	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2227	2229	ЕС	ЕС	ORG	ORG-European-Union
+2247	2254	Франция	Франция	LOC	GPE-France
+2256	2262	Италия	Италия	LOC	GPE-Italy
+2264	2272	Германия	Германия	LOC	GPE-Germany
+2275	2281	Гърция	Гърция	LOC	GPE-Greece
+2579	2593	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2651	2653	ЕС	ЕС	ORG	ORG-European-Union
+3147	3149	ЕС	ЕС	ORG	ORG-European-Union
+3152	3169	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+3235	3249	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3279	3281	ЕС	ЕС	ORG	ORG-European-Union
+3341	3355	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3372	3374	ЕС	ЕС	ORG	ORG-European-Union
+3399	3406	Атланта	Атланта	PRO	PRO-Atlanta
+3426	3433	Сомалия	Сомалия	LOC	GPE-Somalia
+3473	3480	Нортууд	Нортууд	LOC	GPE-Northwood
+3483	3494	Хертфордшир	Хартфордшир	LOC	GPE-Hertfordshire
+3496	3503	Франция	Франция	LOC	GPE-France
+3505	3511	Италия	Италия	LOC	GPE-Italy
+3513	3521	Германия	Германия	LOC	GPE-Germany
+3524	3530	Гърция	Гърция	LOC	GPE-Greece
+3657	3671	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3747	3753	Лондон	Лондон	LOC	GPE-London
+3781	3786	София	София	EVT	EVT-Sofia
+3821	3838	Средиземноморието	Средиземноморие	LOC	LOC-Mediterranean-Basin
+3914	3921	Естония	Естония	LOC	GPE-Estonia
+3964	3969	Русия	Русия	LOC	GPE-Russia
+3986	4000	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4102	4104	ЕС	ЕС	ORG	ORG-European-Union
+4131	4145	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4180	4182	ЕС	ЕС	ORG	ORG-European-Union

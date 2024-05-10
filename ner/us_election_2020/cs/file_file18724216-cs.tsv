@@ -1,0 +1,16 @@
+59	70	volby v USA	volby v USA	EVT	EVT-2020-United-States-Presidential-Election
+99	102	USA	USA	LOC	GPE-USA
+234	242	Trumpovy	Trump	PER	PER-Donald-Trump
+434	446	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+468	476	Fox News	Fox News	PRO	PRO-Fox-News
+496	504	Trumpovy	Trump	PER	PER-Donald-Trump
+598	606	Bílý dům	Bílý dům	LOC	LOC-White-House
+645	656	Pensylvánie	Pensylvánie	LOC	GPE-Pennsylvania
+727	764	amerického ministerstva spravedlnosti	americké ministerstvo spravedlnosti	ORG	ORG-United-States-Department-of-Justice
+822	836	Luzerne County	Luzerne County	LOC	GPE-Luzerne-County
+839	850	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+938	944	Trumpa	Trump	PER	PER-Donald-Trump
+1221	1232	republikány	republikáni	PER	ORG-Republican-Party-USA
+1305	1317	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1348	1362	národní debaty	národní debata	EVT	EVT-2020-United-States-Presidential-Debates
+1467	1478	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania

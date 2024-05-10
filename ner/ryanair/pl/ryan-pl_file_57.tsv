@@ -1,0 +1,16 @@
+64	90	Polskie Linie Lotnicze LOT	Polskie Linie Lotnicze LOT	ORG	ORG-PLL-LOT
+127	150	Boeing 787-9 Dreamliner	Boeing 787-9 Dreamliner	PRO	PRO-Boeing-787-9-Dreamliner
+194	197	LOT	LOT	ORG	ORG-PLL-LOT
+402	420	lotniska Fiumicino	lotnisko Fiumicino	LOC	LOC-Fiumicino-airport
+443	453	Mediolanie	Mediolan	LOC	GPE-Milan
+455	461	Padwie	Padwa	LOC	GPE-Padua
+463	471	Brindisi	Brindisi	LOC	GPE-Brindisi
+474	482	Cagliari	Cagliari	LOC	GPE-Cagliari
+582	589	Ryanair	Ryanair	ORG	ORG-Ryanair
+604	613	Wrocławia	Wrocław	LOC	GPE-Wrocław
+617	622	Rzymu	Rzym	LOC	GPE-Rome
+626	634	Alitalia	Alitalia	ORG	ORG-Alitalia
+643	651	Warszawy	Warszawa	LOC	GPE-Warsaw
+655	660	Rzymu	Rzym	LOC	GPE-Rome
+789	794	Włoch	Włochy	LOC	GPE-Italy
+800	805	Włoch	Włochy	LOC	GPE-Italy

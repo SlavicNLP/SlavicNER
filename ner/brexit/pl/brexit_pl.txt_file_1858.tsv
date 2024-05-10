@@ -1,0 +1,53 @@
+0	2	PE	PE	ORG	ORG-European-Parliament
+39	41	UE	UE	ORG	ORG-European-Union
+44	59	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+270	272	UE	UE	ORG	ORG-European-Union
+275	298	Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+797	824	Grupę Sterującą ds. Brexitu	Grupa Sterująca ds. Brexitu	ORG	ORG-Brexit-Steering-Group
+827	829	PE	PE	ORG	ORG-European-Parliament
+860	862	UE	UE	ORG	ORG-European-Union
+1049	1051	UE	UE	ORG	ORG-European-Union
+1088	1092	Unii	Unia	ORG	ORG-European-Union
+1240	1242	UE	UE	ORG	ORG-European-Union
+1631	1633	UE	UE	ORG	ORG-European-Union
+1646	1689	Trybunału Sprawiedliwości Unii Europejskiej	Trybunał Sprawiedliwości Unii Europejskiej	ORG	ORG-European-Court-of-Justice
+1691	1695	TSUE	TSUE	ORG	ORG-European-Court-of-Justice
+1757	1775	Komisję Europejską	Komisja Europejska	ORG	ORG-European-Commission
+1819	1836	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1839	1841	UE	UE	ORG	ORG-European-Union
+1997	1999	UE	UE	ORG	ORG-European-Union
+2016	2033	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2058	2060	UE	UE	ORG	ORG-European-Union
+2123	2131	Irlandii	Irlandia	LOC	GPE-Ireland
+2134	2152	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+2173	2175	KE	KE	ORG	ORG-European-Commission
+2431	2459	porozumieniu wielkopiątkowym	Porozumienie wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+2518	2528	Parlamentu	Parlament	ORG	ORG-European-Parliament
+2565	2567	UE	UE	ORG	ORG-European-Union
+2700	2708	Londynem	Londyn	LOC	GPE-London
+2710	2761	Porozumienie o wystąpieniu Wielkiej Brytanii z Unii	Porozumienie o wystąpieniu Wielkiej Brytanii z Unii	PRO	PRO-Brexit-withdrawal-agreement
+2848	2850	PE	PE	ORG	ORG-European-Parliament
+2874	2881	Brexitu	Brexit	EVT	EVT-Brexit
+2882	2896	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+2918	2920	PE	PE	ORG	ORG-European-Parliament
+2951	2962	W. Brytanią	W. Brytania	LOC	GPE-Great-Britain
+2973	2980	Brexitu	Brexit	EVT	EVT-Brexit
+3092	3094	KE	KE	ORG	ORG-European-Commission
+3095	3114	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+3134	3145	Luksemburgu	Luksemburg	LOC	GPE-Luxembourg
+3161	3178	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+3179	3190	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+3276	3284	Brexicie	Brexit	EVT	EVT-Brexit
+3296	3311	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3314	3316	UE	UE	ORG	ORG-European-Union
+3336	3357	umowa o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement
+3379	3384	Tuska	Tusk	PER	PER-Donald-Tusk
+3493	3510	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3513	3515	UE	UE	ORG	ORG-European-Union
+3838	3846	Irlandii	Irlandia	LOC	GPE-Ireland
+3849	3867	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+3879	3886	Barnier	Barnier	PER	PER-Michel-Barnier
+3930	3932	UE	UE	ORG	ORG-European-Union
+3935	3950	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3991	4000	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+4140	4147	Brexitu	Brexit	EVT	EVT-Brexit

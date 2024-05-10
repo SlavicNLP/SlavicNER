@@ -1,0 +1,44 @@
+12	17	КОВИД	КОВИД	EVT	EVT-Covid-19
+107	112	ковид	ковид	EVT	EVT-Covid-19
+347	352	Covid	Covid	EVT	EVT-Covid-19
+437	445	WhatsApp	WhatsApp	PRO	PRO-WhatsApp
+485	494	инстаграм	инстаграм	PRO	PRO-Instagram
+495	515	doctor_aleksei_nelin	doctor_aleksei_nelin	PRO	PRO-doctor-aleksei-nelin
+942	961	grls.rosminzdrav.ru	grls.rosminzdrav.ru	PRO	PRO-Registry-of-medicinal-products-Russia
+995	1000	COVID	COVID	EVT	EVT-Covid-19
+2234	2239	МЗ РФ	МЗ РФ	ORG	ORG-Ministry-of-Health-Russia
+2309	2429	"ФГБУ ""Федеральный медицинский исследовательский центр психиатрии и наркологии"" (бывш. им.В.П.Сербского) Минздрава России"	"ФГБУ ""Федеральный медицинский исследовательский центр психиатрии и наркологии"" (бывш. им.В.П.Сербского) Минздрава России"	ORG	ORG-Serbsky-Scientific-Center-for-Social-and-Forensic-Psychiatry
+2474	2479	ковид	ковид	EVT	EVT-Covid-19
+2753	2759	Ковида	Ковид	EVT	EVT-Covid-19
+3059	3072	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+3089	3100	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+3145	3153	COVID-19	COVID-19	EVT	EVT-Covid-19
+3191	3238	ФГБУ «НИЦЭМ им. Н. Ф. Гамалеи» Минздрава России	ФГБУ «НИЦЭМ им. Н. Ф. Гамалеи» Минздрава России	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+3241	3268	ФГБУ «48-й ЦНИИ» Минобороны	ФГБУ «48-й ЦНИИ» Минобороны	ORG	ORG-The-46th-Central-Research-Institute-of-the-Russian-Defence-Ministry
+3310	3321	Минздрав РФ	Минздрав РФ	ORG	ORG-Ministry-of-Health-Russia
+3660	3673	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+3821	3831	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+3965	4046	Национального Центра микробиологии и эпидемиологии им. Н. Ф. Гамалеи Минздрава РФ	Национальный Центр микробиологии и эпидемиологии им. Н. Ф. Гамалеи Минздрава РФ	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+4110	4113	РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+4114	4128	Д. Ю. Логунова	Д. Ю. Логунов	PER	PER-Denis-Logunov
+4180	4185	Эбола	Эбола	EVT	EVT-Ebola
+4188	4192	MERS	MERS	EVT	EVT-MERS-CoV
+4458	4468	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4675	4694	«Гам-КОВИД-Вак-Лио»	Гам-КОВИД-Вак-Лио	PRO	PRO-Gam-COVID-Vac-Lyo
+4865	4871	России	Россия	LOC	GPE-Russia
+5058	5076	Центра им. Гамалеи	Центр им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+5077	5097	Александра Гинцбурга	Александр Гинцбург	PER	PER-Alexander-Ginzburg
+5138	5144	России	Россия	LOC	GPE-Russia
+5230	5258	Министерства здравоохранения	Министерств здравоохранения	ORG	ORG-Ministry-of-Health-Russia
+5259	5273	Михаил Мурашко	Михаил Мурашко	PER	PER-Михаил-Виноградов
+5300	5323	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+5367	5380	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+5415	5421	России	Россия	LOC	GPE-Russia
+5457	5480	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+5778	5801	НИИ микробиологии МО РФ	НИИ микробиологии МО РФ	ORG	ORG-The-46th-Central-Research-Institute-of-the-Russian-Defence-Ministry
+5935	5948	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+6508	6516	COVID‑19	COVID‑19	EVT	EVT-Covid-19
+6627	6642	«Gam-COVID-Vac»	Gam-COVID-Vac	PRO	PRO-Gam-COVID-Vac
+6686	6751	Главном военном клиническом госпитале (ГВКГ) имени Н. Н. Бурденко	Главный военный клинический госпиталь (ГВКГ) имени Н. Н. Бурденко	ORG	ORG-Burdenko-Main-Military-Clinical-Hospital
+6784	6803	«Gam-COVID-Vac Lyo»	Gam-COVID-Vac Lyo	PRO	PRO-Gam-COVID-Vac-Lyo
+6835	6914	Первом Московском государственном медицинском университете имени И. М. Сеченова	Первый Московский государственный медицинский университет имени И. М. Сеченова	ORG	ORG-Sechenov-First-Moscow-State-Medical-University

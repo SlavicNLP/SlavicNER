@@ -1,0 +1,46 @@
+0	10	W.Brytania	W.Brytania	LOC	GPE-Great-Britain
+25	32	Brexitu	Brexit	EVT	EVT-Brexit
+104	121	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+122	133	David Davis	David Davis	PER	PER-David-Davis
+231	239	Brexicie	Brexit	EVT	EVT-Brexit
+250	256	Londyn	Londyn	LOC	GPE-London
+338	346	Teesport	Teesport	LOC	LOC-Teesport
+370	376	Anglii	Anglia	LOC	GPE-England
+378	383	Davis	Davis	PER	PER-David-Davis
+557	572	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+576	584	Brexicie	Brexit	EVT	EVT-Brexit
+864	881	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+903	905	UE	UE	ORG	ORG-European-Union
+929	937	Brukseli	Bruksela	LOC	GPE-Brussles
+998	1015	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1023	1040	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1487	1489	UE	UE	ORG	ORG-European-Union
+1618	1625	Brexitu	Brexit	EVT	EVT-Brexit
+1637	1642	Davis	Davis	PER	PER-David-Davis
+1714	1731	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1824	1863	Europejskiego Trybunału Sprawiedliwości	Europejski Trybunał Sprawiedliwości	ORG	ORG-European-Court-of-Justice
+2105	2107	UE	UE	ORG	ORG-European-Union
+2258	2260	UE	UE	ORG	ORG-European-Union
+2396	2411	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2701	2703	UE	UE	ORG	ORG-European-Union
+2705	2719	Wieka Brytania	Wieka Brytania	LOC	GPE-Great-Britain
+2956	2962	Davisa	Davis	PER	PER-David-Davis
+2994	3015	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+3068	3083	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+3112	3140	Światowym Forum Gospodarczym	Światowe Forum Gospodarcze	EVT	EVT-World-Economic-Forum-Davos
+3143	3148	Davos	Davos	LOC	GPE-Davos
+3168	3182	Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+3428	3449	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+3484	3492	Hammonda	Hammond	PER	PER-Philip-Hammond
+3527	3530	May	May	PER	PER-Theresa-May
+3553	3574	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+3621	3628	Brexitu	Brexit	EVT	EVT-Brexit
+3629	3644	Jacob Rees-Mogg	Jacob Rees-Mogg	PER	PER-Jacob-Rees-Mogg
+3675	3685	Hammondowi	Hammond	PER	PER-Philip-Hammond
+3802	3819	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4004	4007	May	May	PER	PER-Theresa-May
+4037	4042	Davis	Davis	PER	PER-David-Davis
+4206	4223	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4228	4235	Londynu	Londyn	LOC	GPE-London
+4236	4247	Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa
+4249	4252	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

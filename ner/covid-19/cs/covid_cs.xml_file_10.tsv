@@ -1,0 +1,15 @@
+2	9	Izraeli	Izrael	LOC	GPE-Israel
+331	337	Pfizer	Pfizer	ORG	ORG-Pfizer
+357	368	koronavirus	koronavirus	EVT	EVT-Covid-19
+561	569	Izraelců	Izraelci	PER	GPE-Israel
+1274	1280	Izrael	Izrael	LOC	GPE-Israel
+1318	1327	covidu-19	covid-19	EVT	EVT-Covid-19
+1469	1480	Umm al-Fahm	Umm al-Fahm	LOC	GPE-Umm-al-Fahm-city
+1503	1506	DPA	DPA	ORG	ORG-DPA
+1547	1550	DPA	DPA	ORG	ORG-DPA
+1577	1595	Benjamin Netanjahu	Benjamin Netanjahu	PER	PER-Benjamin-Netanyahu
+1620	1634	Juli Edelstein	Juli Edelstein	PER	PER-Yuli-Edelstein
+1638	1645	Izraeli	Izrael	LOC	GPE-Israel
+1754	1763	Netanjahu	Netanjahu	PER	PER-Benjamin-Netanyahu
+2055	2063	BioNTech	BioNTech	ORG	ORG-BioNTech
+2066	2072	Pfizer	Pfizer	ORG	ORG-Pfizer

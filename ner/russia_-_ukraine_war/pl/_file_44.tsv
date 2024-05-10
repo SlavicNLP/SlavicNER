@@ -1,0 +1,23 @@
+8	16	Holandii	Holandia	LOC	GPE-Holland
+29	34	Rosję	Rosja	LOC	GPE-Russia
+74	79	Rutte	Rutte	PER	PER-Mark-Rutte
+92	99	Ukrainą	Ukraina	LOC	GPE-Ukraine
+106	126	holenderskiego rządu	holenderski rząd	ORG	ORG-Government-of-Netherlands
+136	165	ukraińskich parlamentarzystów	ukraińscy parlamentarzyści	PER	ORG-Ukrainian-Parliament
+178	186	Holandia	Holandia	LOC	GPE-Holland
+255	262	Ukrainą	Ukraina	LOC	GPE-Ukraine
+302	304	UE	UE	ORG	ORG-European-Union
+308	313	Rosję	Rosja	LOC	GPE-Russia
+371	375	Unii	Unia	ORG	ORG-European-Union
+470	475	Rosję	Rosja	LOC	GPE-Russia
+476	494	inwazji na Ukrainę	inwazja na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+514	521	Ukrainę	Ukraina	LOC	GPE-Ukraine
+549	554	Rutte	Rutte	PER	PER-Mark-Rutte
+595	602	Ukrainą	Ukraina	LOC	GPE-Ukraine
+613	615	UE	UE	ORG	ORG-European-Union
+639	651	unijne kraje	unijne kraje	ORG	ORG-European-Union
+690	697	Ukrainy	Ukraina	LOC	GPE-Ukraine
+735	752	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+794	802	Holandii	Holandia	LOC	GPE-Holland
+818	825	Ukrainy	Ukraina	LOC	GPE-Ukraine
+847	854	Ukrainy	Ukraina	LOC	GPE-Ukraine

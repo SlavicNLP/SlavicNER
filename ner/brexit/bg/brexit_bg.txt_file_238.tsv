@@ -1,0 +1,15 @@
+0	14	Омуртаг Петков	Омуртаг Петков	PER	PER-Omourtag-Petkov
+45	54	българите	българи	PER	GPE-Bulgaria
+59	73	Великобритания	Великобритания	LOC	GPE-Great-Britain
+92	101	българите	българи	PER	GPE-Bulgaria
+132	146	Великобритания	Великобритания	LOC	GPE-Great-Britain
+196	204	брекзита	Брекзит	EVT	EVT-Brexit
+230	241	Лице в лице	Лице в лице	PRO	PRO-Litze-v-litze
+243	257	Омуртаг Петков	Омуртаг Петков	PER	PER-Omourtag-Petkov
+290	328	Британо-българската бизнес организация	Британо-българска бизнес организация	ORG	ORG-BBBA
+447	461	Великобритания	Великобритания	LOC	GPE-Great-Britain
+465	467	ЕС	ЕС	ORG	ORG-European-Union
+507	516	Евросъюза	Евросъюз	ORG	ORG-European-Union
+537	557	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+598	614	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+615	629	Великобритания	Великобритания	LOC	GPE-Great-Britain

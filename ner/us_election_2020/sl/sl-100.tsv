@@ -1,0 +1,83 @@
+36	45	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+111	116	Trump	Trump	PER	PER-Donald-Trump
+252	255	Joe	Joe	PER	PER-Joe-Biden
+259	268	Scrantona	Scranton	LOC	GPE-Scranton
+284	307	Združenih držav Amerike	Združene države Amerike	LOC	GPE-USA
+310	315	Trump	Trump	PER	PER-Donald-Trump
+537	551	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+555	558	ZDA	ZDA	LOC	GPE-USA
+571	576	Biden	Biden	PER	PER-Joe-Biden
+724	738	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+773	783	Američanov	Američani	PER	GPE-USA
+917	922	Bidna	Biden	PER	PER-Joe-Biden
+1009	1014	Bidna	Biden	PER	PER-Joe-Biden
+1086	1092	Evropi	Evropa	LOC	LOC-Europe
+1094	1100	Trumpa	Trump	PER	PER-Donald-Trump
+1199	1204	Bidna	Biden	PER	PER-Joe-Biden
+1309	1323	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+1327	1334	Ameriko	Amerika	LOC	GPE-USA
+1341	1346	Trump	Trump	PER	PER-Donald-Trump
+1355	1372	Anthonyja Blinkna	Antony Blinken	PER	PER-Antony-Blinken
+1416	1422	Evropi	Evropa	LOC	LOC-Europe
+1427	1432	Biden	Biden	PER	PER-Joe-Biden
+1464	1478	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+1516	1525	Trumpovih	Trump	PER	PER-Donald-Trump
+1616	1621	Biden	Biden	PER	PER-Joe-Biden
+1756	1762	Iranom	Iran	LOC	GPE-Iran
+1784	1814	pariškemu podnebnemu sporazumu	pariški podnebni sporazum	PRO	PRO-Paris-Agreement
+1816	1828	Republikanci	Republikanci	PER	ORG-Republican-Party-USA
+1948	1972	iranski jedrski sporazum	iranski jedrski sporazum	PRO	PRO-Iran-nuclear-deal
+1975	1980	Trump	Trump	PER	PER-Donald-Trump
+2043	2051	Kitajski	Kitajska	LOC	GPE-China
+2063	2075	republikance	republikanci	PER	ORG-Republican-Party-USA
+2202	2207	Biden	Biden	PER	PER-Joe-Biden
+2243	2248	Biden	Biden	PER	PER-Joe-Biden
+2268	2276	Kitajske	Kitajska	LOC	GPE-China
+2297	2304	Amerike	Amerika	LOC	GPE-USA
+2374	2383	Kitajskem	Kitajska	LOC	GPE-China
+2427	2432	Trump	Trump	PER	PER-Donald-Trump
+2472	2480	Kitajske	Kitajska	LOC	GPE-China
+2505	2510	Obama	Obama	PER	PER-Barack-Obama
+2718	2727	Kitajskem	Kitajska	LOC	GPE-China
+2752	2763	Afganistana	Afganistan	LOC	GPE-Afghanistan
+2767	2772	Biden	Biden	PER	PER-Joe-Biden
+2798	2812	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+2828	2832	Nata	NATO	ORG	ORG-NATO
+2834	2839	Trump	Trump	PER	PER-Donald-Trump
+2931	2935	Nata	NATO	ORG	ORG-NATO
+2947	2952	Biden	Biden	PER	PER-Joe-Biden
+3003	3015	republikance	republikanci	PER	ORG-Republican-Party-USA
+3191	3196	Biden	Biden	PER	PER-Joe-Biden
+3296	3301	covid	covid	EVT	EVT-Covid-19
+3387	3403	Bližnjega vzhoda	Bližnji vzhod	LOC	LOC-Middle-East
+3436	3441	Trump	Trump	PER	PER-Donald-Trump
+3459	3469	Evropejcem	Evropejci	PER	LOC-Europe
+3488	3494	Damask	Damask	LOC	GPE-Damascus
+3538	3549	Washingtonu	Washington	LOC	GPE-WashingtonDC
+3578	3583	Biden	Biden	PER	PER-Joe-Biden
+3634	3640	Sirijo	Sirija	LOC	GPE-Syria
+3673	3687	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+3710	3716	Macron	Macron	PER	PER-Emmanuel-Macron
+3828	3834	Evropi	Evropa	LOC	LOC-Europe
+3857	3865	Trumpovo	Trump	PER	PER-Donald-Trump
+3902	3908	Evropo	Evropa	LOC	LOC-Europe
+3912	3931	Združenimi državami	Združene države	LOC	GPE-USA
+4013	4015	EU	EU	ORG	ORG-European-Union
+4019	4026	Ameriko	Amerika	LOC	GPE-USA
+4098	4105	Bidnovo	Biden	PER	PER-Joe-Biden
+4242	4247	Biden	Biden	PER	PER-Joe-Biden
+4279	4293	Evropska unija	Evropska unija	ORG	ORG-European-Union
+4485	4499	Evropske unije	Evropska unija	ORG	ORG-European-Union
+4520	4536	ameriškem senatu	ameriški senat	ORG	ORG-United-States-Senate
+4610	4617	Aljaski	Aljaska	LOC	GPE-Alaska
+4626	4631	Biden	Biden	PER	PER-Joe-Biden
+4674	4718	Arktičnem naravnem rezervatu za divje živali	Arktični naravni rezervat za divje živali	LOC	LOC-Arctic-Sanctuary
+4737	4761	ameriško vrhovno sodišče	ameriško vrhovno sodišče	ORG	ORG-Supreme-Court-of-the-United-States
+4892	4897	Bidnu	Biden	PER	PER-Joe-Biden
+4935	4947	republikanci	republikanci	PER	ORG-Republican-Party-USA
+4982	4987	Biden	Biden	PER	PER-Joe-Biden
+5037	5045	Trumpove	Trump	PER	PER-Donald-Trump
+5177	5185	Kitajske	Kitajska	LOC	GPE-China
+5236	5244	Kitajski	Kitajski	LOC	GPE-China
+5346	5352	Evropa	Evropa	LOC	LOC-Europe
+5486	5491	Bidna	Biden	PER	PER-Joe-Biden

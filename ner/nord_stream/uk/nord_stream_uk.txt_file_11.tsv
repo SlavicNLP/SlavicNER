@@ -1,0 +1,37 @@
+6	13	Газпром	Газпром	ORG	ORG-Gazprom
+34	43	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+60	79	Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+96	104	Газпромі	Газпром	ORG	ORG-Gazprom
+121	130	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+154	163	Швейцарії	Швейцарія	LOC	GPE-Switzerland
+206	211	ПРАЙМ	ПРАЙМ	ORG	ORG-News-PRAIM-UA
+240	248	Газпромі	Газпром	ORG	ORG-Gazprom
+366	375	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+376	383	України	Україна	LOC	GPE-Ukraine
+408	411	Цуг	Цуг	LOC	GPE-Zug
+413	422	Швейцарія	Швейцарія	LOC	GPE-Switzerland
+445	459	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+462	478	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+516	524	Газпрому	Газпром	ORG	ORG-Gazprom
+596	610	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+613	629	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+717	725	Газпрому	Газпром	ORG	ORG-Gazprom
+824	833	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+834	841	України	Україна	LOC	GPE-Ukraine
+923	931	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+953	964	Nord Stream	Nord Stream	ORG	ORG-Nord-Stream-AG
+967	980	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+1030	1037	Газпром	Газпром	ORG	ORG-Gazprom
+1090	1099	Газпромом	Газпром	ORG	ORG-Gazprom
+1104	1114	Нафтогазом	Нафтогаз	ORG	ORG-Naftogaz
+1151	1158	України	Україна	LOC	GPE-Ukraine
+1163	1171	Газпромі	Газпром	ORG	ORG-Gazprom
+1191	1207	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+1296	1304	Газпрому	Газпром	ORG	ORG-Gazprom
+1372	1381	Газпромом	Газпром	ORG	ORG-Gazprom
+1455	1465	Стокгольмі	Стокгольм	LOC	GPE-Stockholm
+1537	1546	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+1624	1638	Алли Єрьоменко	Алла Єрьоменко	PER	PER-Journalist-Alla-Ieriomenko
+1642	1666	Олександра Малиновського	Олександр Малиновський	PER	PER-Journalist-Okeksandr-Malynovskyi
+1684	1698	Дзеркало тижня	Дзеркало тижня	ORG	ORG-News-Dzerkalo-Tyzhnia
+1700	1707	Україна	Україна	LOC	GPE-Ukraine

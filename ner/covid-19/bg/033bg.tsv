@@ -1,0 +1,50 @@
+0	7	Австрия	Австрия	LOC	GPE-Austria
+9	14	Чехия	Чехия	LOC	GPE-Czech-Republic
+17	22	Дания	Дания	LOC	GPE-Denmark
+53	59	Европа	Европа	LOC	LOC-Europe
+227	233	Европа	Европа	LOC	LOC-Europe
+245	257	коронавируса	коронавирус	EVT	EVT-Covid-19
+258	265	Австрия	Австрия	LOC	GPE-Austria
+267	272	Чехия	Чехия	LOC	GPE-Czech-Republic
+275	280	Дания	Дания	LOC	GPE-Denmark
+405	420	Financial Times	Financial Times	PRO	PRO-Financial-Times
+606	611	Дания	Дания	LOC	GPE-Denmark
+758	763	Чехия	Чехия	LOC	GPE-Czech-Republic
+876	883	Австрия	Австрия	LOC	GPE-Austria
+1046	1056	пандемията	пандемия	EVT	EVT-Pandemic
+1065	1075	пандемията	пандемия	EVT	EVT-Pandemic
+1135	1146	Адам Войтех	Адам Войтех	PER	PER-Adam-Vojtěch
+1229	1239	пандемията	пандемия	EVT	EVT-Pandemic
+1291	1293	ЕС	ЕС	ORG	ORG-European-Union
+1595	1605	пандемията	пандемия	EVT	EVT-Pandemic
+1667	1678	Джошуа Муун	Джошуа Муун	PER	PER-Joshua-Moon
+1682	1739	факултета за научни изследвания към университета в Съсекс	факултет за научни изследвания към университета в Съсекс	ORG	ORG-SPRU-US
+1912	1919	Австрия	Австрия	LOC	GPE-Austria
+1922	1927	Чехия	Чехия	LOC	GPE-Czech-Republic
+1986	1991	Дания	Дания	LOC	GPE-Denmark
+1994	1999	Чехия	Чехия	LOC	GPE-Czech-Republic
+2008	2013	Полша	Полша	LOC	GPE-Poland
+2016	2024	Словакия	Словакия	LOC	GPE-Slovakia
+2047	2049	ЕС	ЕС	ORG	ORG-European-Union
+2093	2103	пандемията	пандемия	EVT	EVT-Pandemic
+2233	2240	Австрия	Австрия	LOC	GPE-Austria
+2243	2248	Чехия	Чехия	LOC	GPE-Czech-Republic
+2334	2339	Дания	Дания	LOC	GPE-Denmark
+2353	2360	Австрия	Австрия	LOC	GPE-Austria
+2371	2377	Италия	Италия	LOC	GPE-Italy
+2472	2481	Швейцария	Швейцария	LOC	GPE-Switzerland
+2495	2503	Германия	Германия	LOC	GPE-Germany
+2526	2531	Чехия	Чехия	LOC	GPE-Czech-Republic
+2568	2573	Дания	Дания	LOC	GPE-Denmark
+2775	2780	Дания	Дания	LOC	GPE-Denmark
+2967	2972	Чехия	Чехия	LOC	GPE-Czech-Republic
+3243	3257	Себастиан Курц	Себастиан Курц	PER	PER-Sebastian-Kurz
+3394	3399	Виена	Виена	LOC	GPE-Vienna
+3423	3434	Томас Хофер	Томас Хофер	PER	PER-Thomas-Hofer
+3541	3546	Хофер	Хофер	PER	PER-Thomas-Hofer
+3549	3574	Австрийското правителство	Австрийското правителство	ORG	ORG-Government-of-Austria
+3712	3719	Австрия	Австрия	LOC	GPE-Austria
+4017	4021	Курц	Курц	PER	PER-Sebastian-Kurz
+4167	4176	Кийт Нийл	Кийт Нийл	PER	PER-Keith-Neal
+4236	4259	университета в Нотингам	университет в Нотингам	ORG	ORG-University-of-Nottingham
+4858	4862	Нийл	Нийл	PER	PER-Keith-Neal

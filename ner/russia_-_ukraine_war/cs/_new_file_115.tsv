@@ -1,0 +1,22 @@
+10	15	Ruska	Rusko	LOC	GPE-Russia
+21	29	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+85	88	USA	USA	LOC	GPE-USA
+100	105	Ruska	Rusko	LOC	GPE-Russia
+111	119	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+263	277	Antony Blinken	Antony Blinken	PER	PER-Antony-Blinken
+314	332	Jamesem Cleverleym	James Cleverly	PER	PER-James-Cleverly
+357	365	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+459	466	Blinken	Blinken	PER	PER-Antony-Blinken
+482	495	Spojené státy	Spojené státy	LOC	GPE-USA
+530	538	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+584	596	ruské agresi	ruská agrese	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+695	703	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+808	822	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+862	889	Recepu Tayyipovi Erdoganovi	Recep Tayyip Erdoğan	PER	PER-Recep-Tayyip-Erdoğan
+964	972	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+1059	1064	Rusko	Rusko	LOC	GPE-Russia
+1074	1080	Putina	Putin	PER	PER-Vladimir-Putin
+1112	1120	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+1135	1140	Kyjev	Kyjev	LOC	GPE-Kiev
+1199	1206	Putinem	Putin	PER	PER-Vladimir-Putin
+1254	1259	Rusku	Rusko	LOC	GPE-Russia

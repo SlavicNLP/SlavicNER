@@ -1,0 +1,20 @@
+0	6	Европа	Европа	LOC	LOC-Europe
+17	29	коронавируса	коронавирус	EVT	EVT-Covid-19
+98	104	Италия	Италия	LOC	GPE-Italy
+106	113	Испания	Испания	LOC	GPE-Spain
+116	130	Великобритания	Великобритания	LOC	GPE-Great-Britain
+268	279	коронавирус	коронавирус	EVT	EVT-Covid-19
+284	291	Франция	Франция	LOC	GPE-France
+341	348	Испания	Испания	LOC	GPE-Spain
+447	461	New York Times	New York Times	PRO	PRO-The-New-York-Times
+519	525	Мадрид	Мадрид	LOC	GPE-Madrid
+736	743	Испания	Испания	LOC	GPE-Spain
+861	868	Испания	Испания	LOC	GPE-Spain
+914	920	Европа	Европа	LOC	LOC-Europe
+1012	1026	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1139	1146	Франция	Франция	LOC	GPE-France
+1149	1156	Испания	Испания	LOC	GPE-Spain
+1189	1202	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+1319	1323	Уелс	Уелс	LOC	GPE-Wales
+1437	1448	коронавирус	коронавирус	EVT	EVT-Covid-19
+1486	1492	Мюнхен	Мюнхен	LOC	GPE-München

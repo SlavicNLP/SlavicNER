@@ -1,0 +1,29 @@
+1	13	The Guardian	The Guardian	PRO	PRO-The-Guardian
+19	27	Brexicie	Brexit	EVT	EVT-Brexit
+28	37	Discovery	Discovery	ORG	ORG-Discovery-Inc
+60	66	Polski	Polska	LOC	GPE-Poland
+79	91	The Guardian	The Guardian	PRO	PRO-The-Guardian
+143	152	Discovery	Discovery	ORG	ORG-Discovery-Inc
+206	213	Londynu	Londyn	LOC	GPE-London
+217	225	Warszawy	Warszawa	LOC	GPE-Warsaw
+230	240	Amsterdamu	Amsterdam	LOC	GPE-Amsterdam
+267	284	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+287	304	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+333	342	Discovery	Discovery	ORG	ORG-Discovery-Inc
+394	402	Londynie	Londyn	LOC	GPE-London
+487	496	Discovery	Discovery	ORG	ORG-Discovery-Inc
+553	570	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+658	660	UE	UE	ORG	ORG-European-Union
+685	702	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+714	735	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+755	767	The Guardian	The Guardian	PRO	PRO-The-Guardian
+833	842	Discovery	Discovery	ORG	ORG-Discovery-Inc
+850	859	Amsterdam	Amsterdam	LOC	GPE-Amsterdam
+864	872	Warszawa	Warszawa	LOC	GPE-Warsaw
+958	965	Netflix	Netflix	ORG	ORG-Netflix
+975	983	Warszawa	Warszawa	LOC	GPE-Warsaw
+1038	1044	Europę	Europa	LOC	LOC-Europe
+1047	1062	Katarzynę Kieli	Katarzyna Kieli	PER	PER-Katarzyna-Kieli
+1125	1134	Discovery	Discovery	ORG	ORG-Discovery-Inc
+1149	1159	Guardianem	Guardian	PRO	PRO-The-Guardian
+1223	1231	Brexitem	Brexit	EVT	EVT-Brexit

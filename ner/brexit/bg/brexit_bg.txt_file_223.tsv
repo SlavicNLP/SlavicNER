@@ -1,0 +1,28 @@
+0	13	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+22	29	Брюксел	Брюксел	LOC	GPE-Brussles
+40	50	британците	британци	PER	GPE-Great-Britain
+64	71	Брекзит	Брекзит	EVT	EVT-Brexit
+87	94	Брекзит	Брекзит	EVT	EVT-Brexit
+134	138	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+139	152	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+173	180	Брюксел	Брюксел	LOC	GPE-Brussles
+202	210	британци	британци	PER	GPE-Great-Britain
+237	253	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+311	313	ЕС	ЕС	ORG	ORG-European-Union
+314	326	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+341	347	Барние	Барние	PER	PER-Michel-Barnier
+405	412	Брекзит	Брекзит	EVT	EVT-Brexit
+456	460	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+468	473	Фараж	Фараж	PER	PER-Nigel-Farage
+497	511	Дейвид Камерън	Дейвид Камерън	PER	PER-David-Cameron
+551	553	ЕС	ЕС	ORG	ORG-European-Union
+599	606	Брекзит	Брекзит	EVT	EVT-Brexit
+673	678	Фараж	Фараж	PER	PER-Nigel-Farage
+749	755	Барние	Барние	PER	PER-Michel-Barnier
+770	777	Брюксел	Брюксел	LOC	GPE-Brussles
+800	806	торите	тори	PER	ORG-Conservative-and-Unionist-Party-UK
+808	820	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+846	866	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+900	906	Барние	Барние	PER	PER-Michel-Barnier
+986	993	Брекзит	Брекзит	EVT	EVT-Brexit
+994	1007	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis

@@ -1,0 +1,35 @@
+0	5	Rusko	Rusko	LOC	GPE-Russia
+52	60	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+95	100	Rusko	Rusko	LOC	GPE-Russia
+162	170	covid-19	covid-19	EVT	EVT-Covid-19
+218	222	TASS	TASS	ORG	ORG-TASS-Agency
+223	236	Denis Logunov	Denis Logunov	PER	PER-Denis-Logunov
+256	326	ústavu epidemiologického a mikrobiologického výzkumu Nikolaje Gamaleji	ústav epidemiologického a mikrobiologického výzkumu Nikolaje Gamaleje	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+342	351	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+361	368	Logunov	Logunov	PER	PER-Denis-Logunov
+682	689	Logunov	Logunov	PER	PER-Denis-Logunov
+814	818	TASS	TASS	ORG	ORG-TASS-Agency
+859	868	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+965	972	Logunov	Logunov	PER	PER-Denis-Logunov
+1310	1317	Logunov	Logunov	PER	PER-Denis-Logunov
+1414	1425	koronavirus	koronavirus	EVT	EVT-Covid-19
+1437	1444	Logunov	Logunov	PER	PER-Denis-Logunov
+1513	1521	covid-19	covid-19	EVT	EVT-Covid-19
+1706	1713	Logunov	Logunov	PER	PER-Denis-Logunov
+1846	1880	ruským ministerstvem zdravotnictví	ruské ministerstvo zdravotnictví	ORG	ORG-Ministry-of-Health-Russia
+1935	1949	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+1972	1978	Kremlu	Kreml	LOC	LOC-Kremlin
+2161	2166	Rusko	Rusko	LOC	GPE-Russia
+2208	2219	koronavirem	koronavirus	EVT	EVT-Covid-19
+2450	2458	Interfax	Interfax	ORG	ORG-Interfax
+2544	2554	Kommersant	Kommersant	PRO	PRO-Kommersant
+2565	2573	covid-19	covid-19	EVT	EVT-Covid-19
+2582	2593	koronavirus	koronavirus	EVT	EVT-Covid-19
+2709	2714	Rusko	Rusko	LOC	GPE-Russia
+2761	2787	Univerzity Johnse Hopkinse	Univerzita Johna Hopkinse	ORG	ORG-Johns-Hopkins-University
+2789	2792	JHU	JHU	ORG	ORG-Johns-Hopkins-University
+2872	2889	Spojených státech	Spojené státy	LOC	GPE-USA
+2891	2899	Brazílii	Brazílie	LOC	GPE-Brazil
+2902	2907	Indii	Indie	LOC	GPE-India
+3024	3029	Rusko	Rusko	LOC	GPE-Russia
+3036	3039	JHU	JHU	ORG	ORG-Johns-Hopkins-University

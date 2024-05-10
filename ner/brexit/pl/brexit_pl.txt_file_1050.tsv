@@ -1,0 +1,97 @@
+12	23	św. Patryka	św. Patryk	PER	PER-Saint-Patrick
+25	41	Most Grunwaldzki	Most Grunwaldzki	LOC	LOC-Grunwald-Bridge
+45	54	Wrocławiu	Wrocław	LOC	GPE-Wrocław
+56	68	Tauron Arena	Tauron Arena	LOC	LOC-Tauron-Arena
+71	79	Krakowie	Kraków	LOC	GPE-Kraków
+84	105	Pałac Kultury i Nauki	Pałac Kultury i Nauki	LOC	LOC-Palace-of-Culture-and-Science
+108	117	Warszawie	Warszawa	LOC	GPE-Warsaw
+145	161	Dnia św. Patryka	Dzień św. Patryka	EVT	EVT-Saint-Patricks-Day
+181	189	Irlandii	Irlandia	LOC	GPE-Ireland
+280	301	Empire State Building	Empire State Building	LOC	LOC-Empire-State-Building
+304	315	Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+339	347	Koloseum	Koloseum	LOC	LOC-Colloseum-Rome
+350	356	Rzymie	Rzym	LOC	GPE-Rome
+390	403	Irlandczykiem	Irlandczyk	PER	GPE-Ireland
+417	423	Polsce	Polska	LOC	GPE-Poland
+440	461	Festiwalu św. Patryka	Festiwal św. Patryka	EVT	EVT-Saint-Patricks-Festival
+676	690	Damien English	Damien English	PER	PER-Damien-English
+707	715	Poznaniu	Poznań	LOC	GPE-Poznań
+718	727	Wrocławiu	Wrocław	LOC	GPE-Wrocław
+804	812	Irlandią	Irlandia	LOC	GPE-Ireland
+815	821	Polską	Polska	LOC	GPE-Poland
+894	911	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+991	999	Irlandii	Irlandia	LOC	GPE-Ireland
+1028	1036	Irlandii	Irlandia	LOC	GPE-Ireland
+1059	1066	Polaków	Polacy	PER	GPE-Poland
+1128	1149	Festiwalu św. Patryka	Festiwal św. Patryka	EVT	EVT-Saint-Patricks-Festival
+1151	1157	Polska	Polska	LOC	GPE-Poland
+1206	1214	Irlandii	Irlandia	LOC	GPE-Ireland
+1334	1342	Irlandii	Irlandia	LOC	GPE-Ireland
+1344	1350	Polacy	Polacy	PER	GPE-Poland
+1400	1420	Festiwal Polska Éire	Festiwal Polska Éire	EVT	EVT-Polska-Eire-Festival
+1499	1507	Irlandii	Irlandia	LOC	GPE-Ireland
+1558	1565	Polaków	Polacy	PER	GPE-Poland
+1605	1612	Polaków	Polacy	PER	GPE-Poland
+1657	1665	Irlandii	Irlandia	LOC	GPE-Ireland
+1676	1682	Polski	Polska	LOC	GPE-Poland
+1760	1776	Network Irlandii	Network Irlandii	ORG	ORG-Network-Irlandii
+1791	1798	Polaków	Polacy	PER	GPE-Poland
+1833	1841	Irlandii	Irlandia	LOC	GPE-Ireland
+2125	2133	Irlandii	Irlandia	LOC	GPE-Ireland
+2143	2149	Polsce	Polska	LOC	GPE-Poland
+2204	2210	Polski	Polska	LOC	GPE-Poland
+2323	2340	Europie Środkowej	Europa Środkowa	LOC	LOC-Central-Europe
+2413	2421	Irlandią	Irlandia	LOC	GPE-Ireland
+2424	2430	Polską	Polska	LOC	GPE-Poland
+2536	2544	Irlandia	Irlandia	LOC	GPE-Ireland
+2700	2708	Irlandia	Irlandia	LOC	GPE-Ireland
+2773	2790	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2792	2796	Unia	Unia	ORG	ORG-European-Union
+2831	2848	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2990	2994	Unia	Unia	ORG	ORG-European-Union
+3061	3073	Irlandczyków	Irlandczycy	PER	GPE-Ireland
+3106	3108	UE	UE	ORG	ORG-European-Union
+3158	3162	Unii	Unia	ORG	ORG-European-Union
+3276	3282	brexit	Brexit	EVT	EVT-Brexit
+3409	3424	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+3441	3449	Irlandią	Irlandia	LOC	GPE-Ireland
+3453	3468	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3512	3516	Unią	Unia	ORG	ORG-European-Union
+3541	3562	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+3626	3644	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+3694	3702	Irlandii	Irlandia	LOC	GPE-Ireland
+3705	3722	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+3798	3800	UE	UE	ORG	ORG-European-Union
+3808	3825	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3845	3853	Irlandia	Irlandia	LOC	GPE-Ireland
+3879	3894	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+3927	3937	św. Patryk	św. Patryk	PER	PER-Saint-Patrick
+3959	3967	Brytanii	Brytania	LOC	GPE-Great-Britain
+3984	3991	Francji	Francja	LOC	GPE-France
+4048	4056	Irlandii	Irlandia	LOC	GPE-Ireland
+4085	4091	Polski	Polska	LOC	GPE-Poland
+4257	4265	Irlandii	Irlandia	LOC	GPE-Ireland
+4404	4425	Konstancji Markiewicz	Konstancja Markiewicz	PER	PER-Konstancja-Markiewicz
+4453	4461	Irlandii	Irlandia	LOC	GPE-Ireland
+4538	4558	Kazimierz Markiewicz	Kazimierz Markiewicz	PER	PER-Kazimierz-Markiewicz
+4560	4570	Konstancja	Konstancja	PER	PER-Konstancja-Markiewicz
+4684	4692	Irlandię	Irlandia	LOC	GPE-Ireland
+4695	4701	Polską	Polska	LOC	GPE-Poland
+4743	4758	Historii Polski	Historia Polski	PRO	PRO-wScieci-Historii
+4760	4778	Bernarda O'Connora	Bernard OConnor	PER	PER-Bernard-OConnor
+4799	4805	Polski	Polska	LOC	GPE-Poland
+4837	4845	O'Connor	OConnor	PER	PER-Bernard-OConnor
+4865	4870	Kerry	Kerry	LOC	GPE-Kerry
+4895	4903	Irlandii	Irlandia	LOC	GPE-Ireland
+4934	4954	Jana III Sobieskiego	Jan III Sobieski	PER	PER-Jan-III-Sobieski
+4975	4983	Ambasada	Ambasada	ORG	ORG-Luxembourg-Embassy
+5007	5037	Nagrodę im. Bernarda O'Connora	Nagroda im. Bernarda OConnora	PRO	PRO-Bernarda-OConnora-Award
+5204	5221	Antoniemu Liberze	Antoni Libera	PER	PER-Antoni-Libera
+5299	5315	Samuela Becketta	Samuel Beckett	PER	PER-Samuel-Beckett
+5374	5387	Nagrody Nobla	Nagroda Nobla	PRO	PRO-Nobel-Prize
+5407	5414	Polaków	Polacy	PER	GPE-Poland
+5417	5429	Irlandczyków	Irlandczycy	PER	GPE-Ireland
+5439	5456	Dzień św. Patryka	Dzień św. Patryka	EVT	EVT-Saint-Patricks-Day
+5501	5507	Polsce	Polska	LOC	GPE-Poland
+5633	5641	Irlandia	Irlandia	LOC	GPE-Ireland
+5688	5701	Zieloną Wyspę	Zielona Wyspa	LOC	GPE-Ireland

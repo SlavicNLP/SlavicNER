@@ -1,0 +1,52 @@
+0	11	Коронавирус	коронавирус	EVT	EVT-Covid-19
+52	60	Германия	Германия	LOC	GPE-Germany
+76	78	ЕС	ЕС	ORG	ORG-European-Union
+92	102	пандемията	пандемия	EVT	EVT-Pandemic
+115	123	Германия	Германия	LOC	GPE-Germany
+125	131	Белгия	Белгия	LOC	GPE-Belgium
+133	140	Франция	Франция	LOC	GPE-France
+142	148	Гърция	Гърция	LOC	GPE-Greece
+150	159	Финландия	Финландия	LOC	GPE-Finland
+162	170	Ирландия	Ирландия	LOC	GPE-Ireland
+230	258	"университета ""Джонс Хопкинс"""	"университет ""Джонс Хопкинс"""	ORG	ORG-Johns-Hopkins-University
+278	284	Белгия	Белгия	LOC	GPE-Belgium
+305	311	Белгия	Белгия	LOC	GPE-Belgium
+375	377	ЕС	ЕС	ORG	ORG-European-Union
+635	643	Германия	Германия	LOC	GPE-Germany
+1017	1023	Коледа	Коледа	EVT	EVT-Christmas
+1075	1083	Германия	Германия	LOC	GPE-Germany
+1131	1137	Коледа	Коледа	EVT	EVT-Christmas
+1216	1224	Германия	Германия	LOC	GPE-Germany
+1283	1299	Франк Ванденбрук	Франк Ванденбрук	PER	PER-Frank-Vandenbroucke
+1507	1515	Германия	Германия	LOC	GPE-Germany
+1518	1528	Белгийците	белгийци	PER	GPE-Belgium
+1605	1623	Александър де Кроо	Александър де Кроо	PER	PER-Alexander-De-Croo
+1727	1734	Франция	Франция	LOC	GPE-France
+1736	1743	Франция	Франция	LOC	GPE-France
+1795	1801	Белгия	Белгия	LOC	GPE-Belgium
+1853	1863	французите	французи	PER	GPE-France
+1999	2007	Германия	Германия	LOC	GPE-Germany
+2061	2071	французите	французи	PER	GPE-France
+2285	2307	френското правителство	френско правителство	ORG	ORG-Government-of-France
+2583	2590	Франция	Франция	LOC	GPE-France
+2864	2870	Гърция	Гърция	LOC	GPE-Greece
+3001	3006	Атина	Атина	LOC	GPE-Athens
+3009	3014	Солун	Солун	LOC	GPE-Thessaloniki
+3434	3440	Гърция	Гърция	LOC	GPE-Greece
+4026	4032	Коледа	Коледа	EVT	EVT-Christmas
+4035	4046	Нова година	Нова година	EVT	EVT-New-Year
+4049	4058	Финландия	Финландия	LOC	GPE-Finland
+4239	4241	ЕС	ЕС	ORG	ORG-European-Union
+4337	4345	Хелзинки	Хелзинки	LOC	GPE-Helsinki
+4578	4586	Хелзинки	Хелзинки	LOC	GPE-Helsinki
+4607	4612	Еспоо	Еспоо	LOC	GPE-Espoo
+4615	4621	Вантаа	Вантаа	LOC	GPE-Vantaa
+4886	4895	Финландия	Финландия	LOC	GPE-Finland
+5004	5012	Ирландия	Ирландия	LOC	GPE-Ireland
+5014	5022	Ирландия	Ирландия	LOC	GPE-Ireland
+5044	5054	пандемията	пандемия	EVT	EVT-Pandemic
+5125	5127	ЕС	ЕС	ORG	ORG-European-Union
+5372	5379	Франция	Франция	LOC	GPE-France
+5382	5388	Белгия	Белгия	LOC	GPE-Belgium
+5390	5398	Ирландия	Ирландия	LOC	GPE-Ireland
+5775	5781	Коледа	Коледа	EVT	EVT-Christmas

@@ -1,0 +1,16 @@
+0	5	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+26	28	ЕС	ЕС	ORG	ORG-European-Union
+68	75	Брекзит	Брекзит	EVT	EVT-Brexit
+94	114	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+115	129	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+150	164	Великобритания	Великобритания	LOC	GPE-Great-Britain
+196	203	Брекзит	Брекзит	EVT	EVT-Brexit
+370	377	Гардиън	Гардиън	PRO	PRO-The-Guardian
+441	451	британците	британци	PER	GPE-Great-Britain
+475	477	ЕС	ЕС	ORG	ORG-European-Union
+503	510	Брекзит	Брекзит	EVT	EVT-Brexit
+530	550	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+551	565	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+586	600	Великобритания	Великобритания	LOC	GPE-Great-Britain
+632	639	Брекзит	Брекзит	EVT	EVT-Brexit
+806	813	Гардиън	Гардиън	PRO	PRO-The-Guardian

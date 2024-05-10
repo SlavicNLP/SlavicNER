@@ -1,0 +1,11 @@
+0	5	ПОЛША	Полша	LOC	GPE-Poland
+7	15	БЪЛГАРИЯ	България	LOC	GPE-Bulgaria
+45	47	ЕС	ЕС	ORG	ORG-European-Union
+52	59	Варшава	Варшава	LOC	GPE-Warsaw
+80	82	ЕС	ЕС	ORG	ORG-European-Union
+90	105	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+106	119	Bulgaria-news	Bulgaria-news	PRO	PRO-Bulgaria-news
+140	145	Полша	Полша	LOC	GPE-Poland
+215	217	ЕС	ЕС	ORG	ORG-European-Union
+262	277	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+289	303	Полското радио	Полско радио	PRO	PRO-Polish-Radio

@@ -1,0 +1,44 @@
+0	11	РИА-Новости	РИА Новости	ORG	ORG-RIA-Novosti
+13	18	Полша	Полша	LOC	GPE-Poland
+39	41	ЕС	ЕС	ORG	ORG-European-Union
+49	64	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+66	71	Полша	Полша	LOC	GPE-Poland
+80	82	ЕС	ЕС	ORG	ORG-European-Union
+141	157	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+205	221	“Северен поток“2	Северен поток 2	PRO	PRO-Nord-Stream-2
+269	274	Полша	Полша	LOC	GPE-Poland
+275	288	Михал Куртика	Михал Куртика	PER	PER-Michal-Kurtyka
+292	304	Полско радио	Полско радио	PRO	PRO-Polish-Radio
+331	351	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+408	410	ЕС	ЕС	ORG	ORG-European-Union
+415	423	България	България	LOC	GPE-Bulgaria
+442	451	Евросъюза	Евросъюз	ORG	ORG-European-Union
+682	684	ЕС	ЕС	ORG	ORG-European-Union
+701	703	ЕС	ЕС	ORG	ORG-European-Union
+805	807	ЕС	ЕС	ORG	ORG-European-Union
+822	829	Австрия	Австрия	LOC	GPE-Austria
+831	838	Куртика	Куртика	PER	PER-Michal-Kurtyka
+853	858	Полша	Полша	LOC	GPE-Poland
+869	880	австрийците	австрийци	PER	GPE-Austria
+1015	1017	ЕС	ЕС	ORG	ORG-European-Union
+1088	1104	“Северен поток“2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1231	1236	Русия	Русия	LOC	GPE-Russia
+1242	1256	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+1260	1268	Германия	Германия	LOC	GPE-Germany
+1324	1337	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+1395	1402	Украйна	Украйна	LOC	GPE-Ukraine
+1471	1474	САЩ	САЩ	LOC	GPE-USA
+1549	1555	Европа	Европа	LOC	LOC-Europe
+1568	1574	Латвия	Латвия	LOC	GPE-Latvia
+1576	1581	Литва	Литва	LOC	GPE-Lithuania
+1584	1589	Полша	Полша	LOC	GPE-Poland
+1645	1661	“Северен поток“2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1716	1721	Русия	Русия	LOC	GPE-Russia
+1812	1826	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1827	1833	Москва	Москва	LOC	GPE-Moscow
+1878	1889	РИА-Новости	РИА Новости	ORG	ORG-RIA-Novosti
+1936	1942	Вагнер	Вагнер	ORG	ORG-Wagner-Group
+1961	1977	Централна Африка	Централна Африка	LOC	LOC-Central-Africa
+2069	2074	Новая	Новая газета	PRO	PRO-Novaya-gazeta
+2109	2116	турците	турци	PER	GPE-Turkey
+2229	2249	Реджеп Тайип Ердоган	Реджеп Тайип Ердоган	PER	PER-Recep-Tayyip-Erdoğan

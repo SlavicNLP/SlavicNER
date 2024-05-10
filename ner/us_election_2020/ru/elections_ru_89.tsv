@@ -1,0 +1,53 @@
+94	97	США	США	LOC	GPE-USA
+120	141	президентских выборах	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+164	172	коллегия	коллегия	ORG	ORG-United-States-Electoral-College
+175	183	Вермонте	Вермонт	LOC	GPE-Vermont
+185	196	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+211	217	МОСКВА	МОСКВА	LOC	GPE-Moscow
+228	239	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+243	246	США	США	LOC	GPE-USA
+269	290	президентских выборах	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+313	321	коллегия	коллегия	ORG	ORG-United-States-Electoral-College
+324	332	Вермонте	Вермонт	LOC	GPE-Vermont
+370	379	демократу	демократ	ORG	ORG-Democratic-Party-USA
+380	391	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+410	425	Washington Post	Washington Post	PRO	PRO-Washington-Post
+509	515	Байден	Байден	PER	PER-Joe-Biden
+549	555	Трампа	Трамп	PER	PER-Donald-Trump
+607	614	Гавайях	Гавайи	LOC	GPE-Hawaii
+628	638	Вашингтону	Вашингтон	LOC	GPE-WashingtonDC
+692	699	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+777	786	конгресса	конгресс	ORG	ORG-United-States-Congress
+841	847	Байден	Байден	PER	PER-Joe-Biden
+909	924	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+954	962	коллегии	коллегия	ORG	ORG-United-States-Electoral-College
+963	968	Трамп	Трамп	PER	PER-Donald-Trump
+1233	1243	сената CША	сената CША	ORG	ORG-United-States-Senate
+1272	1281	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1313	1331	Национальный архив	Национальный архив	ORG	ORG-NARA-National-Archives-and-Records-Administration
+1382	1404	Национальный архив США	Национальный архив США	ORG	ORG-NARA-National-Archives-and-Records-Administration
+1632	1638	Байден	Байден	PER	PER-Joe-Biden
+1675	1678	США	США	LOC	GPE-USA
+1681	1687	МОСКВА	МОСКВА	LOC	GPE-Moscow
+1698	1709	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+1713	1716	США	США	LOC	GPE-USA
+1739	1760	президентских выборах	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+1783	1791	коллегия	коллегия	ORG	ORG-United-States-Electoral-College
+1794	1802	Вермонте	Вермонт	LOC	GPE-Vermont
+1845	1851	Байден	Байден	PER	PER-Joe-Biden
+1885	1891	Трампа	Трамп	PER	PER-Donald-Trump
+1946	1953	Гавайях	Гавайи	LOC	GPE-Hawaii
+1967	1977	Вашингтону	Вашингтон	LOC	GPE-WashingtonDC
+2034	2041	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+2119	2128	конгресса	конгресс	ORG	ORG-United-States-Congress
+2186	2192	Байден	Байден	PER	PER-Joe-Biden
+2254	2269	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+2299	2307	коллегии	коллегия	ORG	ORG-United-States-Electoral-College
+2311	2316	Трамп	Трамп	PER	PER-Donald-Trump
+2584	2594	сената CША	сената CША	ORG	ORG-United-States-Senate
+2623	2632	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+2664	2682	Национальный архив	Национальный архив	ORG	ORG-NARA-National-Archives-and-Records-Administration
+2736	2758	Национальный архив США	Национальный архив США	ORG	ORG-NARA-National-Archives-and-Records-Administration
+3042	3147	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-RussiaToday
+3149	3169	МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+3225	3239	Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.

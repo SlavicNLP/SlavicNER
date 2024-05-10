@@ -1,0 +1,29 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+38	45	Брекзит	Брекзит	EVT	EVT-Brexit
+65	67	ЕС	ЕС	ORG	ORG-European-Union
+102	115	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+117	131	Великобритания	Великобритания	LOC	GPE-Great-Britain
+164	171	Брекзит	Брекзит	EVT	EVT-Brexit
+177	194	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+285	306	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+369	371	ЕС	ЕС	ORG	ORG-European-Union
+373	385	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+404	411	Ройтерс	Ройтерс	ORG	ORG-Reuters
+413	426	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+442	466	Партията за независимост	Партия за независимост	ORG	ORG-UK-Independence-Party
+470	490	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+492	496	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+549	563	Великобритания	Великобритания	LOC	GPE-Great-Britain
+567	569	ЕС	ЕС	ORG	ORG-European-Union
+635	655	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+695	697	ЕС	ЕС	ORG	ORG-European-Union
+714	746	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+748	751	СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+800	807	Брекзит	Брекзит	EVT	EVT-Brexit
+853	865	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+1060	1063	СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+1116	1126	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1188	1195	Брекзит	Брекзит	EVT	EVT-Brexit
+1209	1215	Барние	Барние	PER	PER-Michel-Barnier
+1283	1303	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1365	1370	Фараж	Фараж	PER	PER-Nigel-Farage

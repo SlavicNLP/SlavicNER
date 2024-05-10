@@ -1,0 +1,41 @@
+38	41	САЩ	САЩ	LOC	GPE-USA
+42	54	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+88	109	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+130	136	Фигаро	Фигаро	PRO	PRO-Figaro
+220	242	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+245	253	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+297	302	Сенат	Сенат	ORG	ORG-United-States-Senate
+319	327	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+362	368	Сената	Сенат	ORG	ORG-United-States-Senate
+399	409	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+520	528	Телеграф	Телеграф	PRO	PRO-The-Daily-Telegraph
+542	545	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+624	629	Тръмп	Тръмп	PER	PER-Donald-Trump
+785	789	Монд	Монд	PRO	PRO-Le-Monde
+793	798	Тръмп	Тръмп	PER	PER-Donald-Trump
+822	831	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+877	910	съвместното заседание на Конгреса	Съвместно заседание на Конгреса	EVT	EVT-USA-Congress-Joint-session
+978	984	Байдън	Байдън	PER	PER-Joe-Biden
+1029	1039	Дейли мейл	Дейли мейл	PRO	PRO-Daily-Mail
+1043	1047	Пенс	Пенс	PER	PER-Mike-Pence
+1130	1135	Тръмп	Тръмп	PER	PER-Donald-Trump
+1173	1177	Пенс	Пенс	PER	PER-Mike-Pence
+1376	1382	Байдън	Байдън	PER	PER-Joe-Biden
+1463	1468	Тръмп	Тръмп	PER	PER-Donald-Trump
+1512	1515	САЩ	САЩ	LOC	GPE-USA
+1663	1670	Гардиън	Гардиън	PRO	PRO-The-Guardian
+1720	1723	САЩ	САЩ	LOC	GPE-USA
+1813	1818	Тръмп	Тръмп	PER	PER-Donald-Trump
+1820	1842	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+2220	2227	Америка	Америка	LOC	GPE-USA
+2314	2319	Тръмп	Тръмп	PER	PER-Donald-Trump
+2457	2470	Конституцията	Конституция	PRO	PRO-The-USA-Constitution
+2487	2490	САЩ	САЩ	LOC	GPE-USA
+2506	2510	Пенс	Пенс	PER	PER-Mike-Pence
+2600	2605	Тръмп	Тръмп	PER	PER-Donald-Trump
+2622	2635	Ню Йорк таймс	Ню Йорк Таймс	PRO	PRO-The-New-York-Times
+2745	2751	Байдън	Байдън	PER	PER-Joe-Biden
+2811	2814	САЩ	САЩ	LOC	GPE-USA
+2851	2857	Сената	Сенат	ORG	ORG-United-States-Senate
+2860	2887	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+2954	2963	Novini.bg	Novini.bg	PRO	PRO-Novini.bg

@@ -1,0 +1,22 @@
+2	5	США	США	LOC	GPE-USA
+46	52	Байден	Байден	PER	PER-Joe-Biden
+99	109	демократов	демократы	ORG	ORG-Democratic-Party-USA
+110	123	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+204	211	Гавайев	Гавайи	LOC	GPE-Hawaii
+287	290	США	США	LOC	GPE-USA
+294	309	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+447	454	Байдена	Байден	PER	PER-Joe-Biden
+496	509	Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+537	543	Байден	Байден	PER	PER-Joe-Biden
+657	670	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+688	697	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+757	762	Трамп	Трамп	PER	PER-Donald-Trump
+985	991	Байден	Байден	PER	PER-Joe-Biden
+1007	1026	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1049	1052	США	США	LOC	GPE-USA
+1423	1435	американскую	американский	LOC	GPE-USA
+1445	1462	Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+1783	1878	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+1880	1892	Роскомнадзор	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+1944	1951	EADaily	EADaily	ORG	ORG-EADaily
+1994	2001	EADaily	EADaily	ORG	ORG-EADaily

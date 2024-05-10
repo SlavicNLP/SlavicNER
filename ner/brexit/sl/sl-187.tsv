@@ -1,0 +1,67 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+29	36	Londona	London	LOC	GPE-London
+94	101	brexita	brexit	EVT	EVT-Brexit
+127	134	Londona	London	LOC	GPE-London
+149	165	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+206	208	EU	EU	ORG	ORG-European-Union
+402	418	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+422	436	Evropske unije	Evropska unija	ORG	ORG-European-Union
+449	471	spodnji dom parlamenta	spodnji dom parlamenta	ORG	ORG-House-of-Commons
+531	538	brexitu	brexit	EVT	EVT-Brexit
+682	695	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+703	710	Bruselj	Bruselj	LOC	GPE-Brussles
+834	841	Londona	London	LOC	GPE-London
+857	873	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+914	916	EU	EU	ORG	ORG-European-Union
+990	1002	Dominic Raab	Dominic Raab	PER	PER-Dominic-Raab
+1122	1143	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+1180	1192	Michael Gove	Michael Gove	PER	PER-Michael-Gove
+1239	1245	brexit	brexit	EVT	EVT-Brexit
+1282	1288	brexit	brexit	EVT	EVT-Brexit
+1326	1341	Downing Streetu	Downing Street	LOC	LOC-Downing-Street
+1388	1392	Raab	Raab	PER	PER-Dominic-Raab
+1431	1434	BBC	BBC	ORG	ORG-BBC-Ltd
+1553	1560	Johnson	Johnson	PER	PER-Boris-Johnson
+1596	1609	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1664	1671	Bruselj	Bruselj	LOC	GPE-Brussles
+1717	1724	brexita	brexit	EVT	EVT-Brexit
+1757	1771	Downing Street	Downing Street	LOC	LOC-Downing-Street
+1777	1784	Bruselj	Bruselj	LOC	GPE-Brussles
+1961	1968	brexitu	brexit	EVT	EVT-Brexit
+2011	2018	Johnson	Johnson	PER	PER-Boris-Johnson
+2074	2076	EU	EU	ORG	ORG-European-Union
+2228	2235	Johnson	Johnson	PER	PER-Boris-Johnson
+2318	2325	brexita	brexit	EVT	EVT-Brexit
+2408	2416	Brusljem	Bruselj	LOC	GPE-Brussles
+2429	2444	Borisu Johnsonu	Boris Johnson	PER	PER-Boris-Johnson
+2610	2614	Gove	Gove	PER	PER-Michael-Gove
+2639	2646	Johnson	Johnson	PER	PER-Boris-Johnson
+2860	2864	Gove	Gove	PER	PER-Michael-Gove
+2892	2899	brexita	brexit	EVT	EVT-Brexit
+3115	3119	Gove	Gove	PER	PER-Michael-Gove
+3280	3284	Raab	Raab	PER	PER-Dominic-Raab
+3291	3294	BBC	BBC	ORG	ORG-BBC-Ltd
+3547	3558	John Bercow	John Bercow	PER	PER-John-Bercow
+3717	3724	Johnson	Johnson	PER	PER-Boris-Johnson
+3793	3799	brexit	brexit	EVT	EVT-Brexit
+3884	3893	Laburisti	Laburisti	PER	ORG-Labour-Party-UK
+3897	3906	Johnsonov	Johnson	PER	PER-Boris-Johnson
+4032	4054	severnoirski unionisti	severnoirski unionisti	PER	ORG-Ulster-Unionist-Party
+4057	4064	Bruselj	Bruselj	LOC	GPE-Brussles
+4083	4090	Londona	London	LOC	GPE-London
+4094	4101	Bruslju	Bruselj	LOC	GPE-Brussles
+4146	4153	Londonu	London	LOC	GPE-London
+4198	4205	brexita	brexit	EVT	EVT-Brexit
+4221	4237	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+4238	4249	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+4304	4314	Johnsonovo	Johnson	PER	PER-Boris-Johnson
+4373	4375	EU	EU	ORG	ORG-European-Union
+4557	4559	EU	EU	ORG	ORG-European-Union
+4598	4616	Evropski parlament	Evropski parlament	ORG	ORG-European-Parliament
+4769	4771	EU	EU	ORG	ORG-European-Union
+4775	4781	brexit	brexit	EVT	EVT-Brexit
+4782	4796	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+4854	4856	EU	EU	ORG	ORG-European-Union
+4938	4940	EU	EU	ORG	ORG-European-Union
+4995	4997	EU	EU	ORG	ORG-European-Union
+5002	5013	Johnsonovem	Johnson	PER	PER-Boris-Johnson

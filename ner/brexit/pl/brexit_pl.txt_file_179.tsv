@@ -1,0 +1,107 @@
+0	5	Blair	Blair	PER	PER-Tony-Blair
+39	51	Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+97	108	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+170	177	brexitu	Brexit	EVT	EVT-Brexit
+348	355	brexitu	Brexit	EVT	EVT-Brexit
+387	392	Blair	Blair	PER	PER-Tony-Blair
+511	518	Europie	Europa	LOC	LOC-Europe
+525	532	brexitu	Brexit	EVT	EVT-Brexit
+568	585	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+588	590	UE	UE	ORG	ORG-European-Union
+632	638	Europy	Europa	LOC	LOC-Europe
+782	791	Atlantyku	Atlantyk	LOC	LOC-Atlantic-Ocean
+938	950	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+952	957	Blair	Blair	PER	PER-Tony-Blair
+1079	1096	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1099	1114	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1198	1216	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+1219	1227	Irlandią	Irlandia	LOC	GPE-Ireland
+1350	1360	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+1591	1598	brexitu	Brexit	EVT	EVT-Brexit
+1681	1688	brexitu	Brexit	EVT	EVT-Brexit
+1711	1723	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1871	1889	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+2006	2015	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2056	2075	brytyjski parlament	Brytyjski Parlament	ORG	ORG-British-Parlament
+2355	2365	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+2437	2460	brytyjskiego parlamentu	Brytyjski Parlament	ORG	ORG-British-Parlament
+2518	2529	Theresy May	Theresa May	PER	PER-Theresa-May
+2676	2682	Blaira	Blair	PER	PER-Tony-Blair
+2747	2764	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2791	2797	Europa	Europa	LOC	LOC-Europe
+3148	3160	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+3175	3192	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3264	3273	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+3307	3319	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+3343	3350	brexitu	Brexit	EVT	EVT-Brexit
+3380	3397	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3562	3574	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+3594	3601	Europie	Europa	LOC	LOC-Europe
+3665	3667	UE	UE	ORG	ORG-European-Union
+3806	3811	Blair	Blair	PER	PER-Tony-Blair
+3872	3883	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+3917	3919	UE	UE	ORG	ORG-European-Union
+3951	3968	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3997	4004	Polaków	Polacy	PER	GPE-Poland
+4023	4035	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+4064	4109	Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+4138	4145	brexitu	Brexit	EVT	EVT-Brexit
+4289	4304	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4567	4576	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+4600	4602	UE	UE	ORG	ORG-European-Union
+4688	4705	Emmanuela Macrona	Emmanuel Macron	PER	PER-Emmanuel-Macron
+4787	4804	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4806	4811	Blair	Blair	PER	PER-Tony-Blair
+5062	5085	drugiej wojny światowej	Druga wojna światowa	EVT	EVT-World-War-II
+5177	5182	torys	torys	PER	ORG-Tories
+5186	5196	laburzysty	laburzysta	PER	ORG-Labour-Party-UK
+5201	5207	Torysi	torysi	PER	ORG-Tories
+5239	5245	brexit	Brexit	EVT	EVT-Brexit
+5271	5282	laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+5284	5302	Jeremy'ego Corbyna	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+5353	5373	Partię Konserwatywną	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+5454	5465	laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+5515	5527	Theresie May	Theresa May	PER	PER-Theresa-May
+5567	5574	brexitu	Brexit	EVT	EVT-Brexit
+5662	5674	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+5836	5838	UE	UE	ORG	ORG-European-Union
+5858	5868	laburzyści	laburzyści	PER	ORG-Labour-Party-UK
+5901	5908	brexitu	Brexit	EVT	EVT-Brexit
+6008	6025	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+6027	6032	Blair	Blair	PER	PER-Tony-Blair
+6148	6150	UE	UE	ORG	ORG-European-Union
+6238	6255	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+6263	6265	UE	UE	ORG	ORG-European-Union
+6397	6405	Niemcami	Niemcy	LOC	GPE-Germany
+6472	6476	Chin	Chiny	LOC	GPE-China
+6481	6486	Indii	Indie	LOC	GPE-India
+6500	6517	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+6535	6545	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+6673	6679	Polsce	Polska	LOC	GPE-Poland
+6681	6686	Blair	Blair	PER	PER-Tony-Blair
+6728	6731	May	May	PER	PER-Theresa-May
+6764	6773	Warszawie	Warszawa	LOC	GPE-Warsaw
+6790	6807	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+6808	6823	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+6859	6865	Europy	Europa	LOC	LOC-Europe
+6933	6935	UE	UE	ORG	ORG-European-Union
+6979	6985	Brexit	Brexit	EVT	EVT-Brexit
+7081	7096	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+7107	7109	UE	UE	ORG	ORG-European-Union
+7225	7242	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+7306	7321	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+7395	7397	UE	UE	ORG	ORG-European-Union
+7442	7459	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+7612	7627	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+7668	7674	Polską	Polska	LOC	GPE-Poland
+7705	7711	Polskę	Polska	LOC	GPE-Poland
+7721	7723	UE	UE	ORG	ORG-European-Union
+7749	7759	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+7772	7784	Partię Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+7876	7886	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+8021	8026	Iraku	Irak	LOC	GPE-Iraq
+8047	8065	Gordonowi Brownowi	Gordon Brown	PER	PER-Gordon-Brown
+8087	8107	Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+8118	8133	Davida Camerona	David Cameron	PER	PER-David-Cameron
+8169	8179	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+8181	8193	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK

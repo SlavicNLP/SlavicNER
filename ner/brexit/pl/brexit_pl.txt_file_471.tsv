@@ -1,0 +1,15 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+39	41	UE	UE	ORG	ORG-European-Union
+645	654	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+676	679	May	May	PER	PER-Theresa-May
+1004	1007	May	May	PER	PER-Theresa-May
+1045	1060	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1088	1105	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1169	1186	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1592	1595	May	May	PER	PER-Theresa-May
+1598	1611	Mansion House	Mansion House	LOC	LOC-Mansion-House
+1614	1622	Londynie	Londyn	LOC	GPE-London
+1701	1718	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1721	1738	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1757	1772	Lancaster House	Lancaster House	LOC	LOC-Lancaster-House
+1796	1805	Florencji	Florencja	LOC	GPE-Florence

@@ -1,0 +1,12 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+66	73	Брекзит	Брекзит	EVT	EVT-Brexit
+95	105	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+215	225	Франс прес	Франс прес	ORG	ORG-France-Presse
+300	307	Брекзит	Брекзит	EVT	EVT-Brexit
+415	421	Лондон	Лондон	LOC	GPE-London
+424	431	Брюксел	Брюксел	LOC	GPE-Brussles
+467	477	Франс прес	Франс прес	ORG	ORG-France-Presse
+482	489	Ройтерс	Ройтерс	ORG	ORG-Reuters
+554	564	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+674	684	Франс прес	Франс прес	ORG	ORG-France-Presse
+759	766	Брекзит	Брекзит	EVT	EVT-Brexit

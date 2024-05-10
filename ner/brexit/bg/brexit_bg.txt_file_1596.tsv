@@ -1,0 +1,40 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+21	37	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+45	51	Лондон	Лондон	LOC	GPE-London
+53	55	ЕС	ЕС	ORG	ORG-European-Union
+75	91	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+112	126	Великобритания	Великобритания	LOC	GPE-Great-Britain
+173	205	Демократичната юнионистка партия	Демократична юнионистка партия	ORG	ORG-DUP-Democratic-Unionist-Party
+239	256	Иън Пейсли-младши	Иън Пейсли-младши	PER	PER-Ian-Paisley-Jr
+286	302	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+304	316	Карън Брадли	Карън Брадли	PER	PER-Karen-Bradley
+319	361	Комисията по въпросите на Северна Ирландия	Комисия по въпросите на Северна Ирландия	ORG	ORG-Northern-Ireland-Affairs-Committee
+369	376	Гардиън	Гардиън	PRO	PRO-The-Guardian
+380	397	Иън Пейсли-младши	Иън Пейсли-младши	PER	PER-Ian-Paisley-Jr
+434	436	ЕС	ЕС	ORG	ORG-European-Union
+439	445	Лондон	Лондон	LOC	GPE-London
+449	456	Брекзит	Брекзит	EVT	EVT-Brexit
+474	490	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+575	577	ЕС	ЕС	ORG	ORG-European-Union
+634	648	Великобритания	Великобритания	LOC	GPE-Great-Britain
+701	715	Великобритания	Великобритания	LOC	GPE-Great-Britain
+743	775	Демократичната юнионистка партия	Демократична юнионистка партия	ORG	ORG-DUP-Democratic-Unionist-Party
+776	788	Арлин Фостър	Арлин Фостър	PER	PER-Arlene-Foster
+904	920	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+939	941	ЕС	ЕС	ORG	ORG-European-Union
+959	975	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1015	1035	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1057	1071	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1072	1082	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1096	1102	БиБиСи	БиБиСи	PRO	PRO-BBC
+1133	1135	ЕС	ЕС	ORG	ORG-European-Union
+1175	1182	Брекзит	Брекзит	EVT	EVT-Brexit
+1218	1234	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1236	1239	Мей	Мей	PER	PER-Theresa-May
+1315	1317	ЕС	ЕС	ORG	ORG-European-Union
+1370	1384	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1498	1518	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1537	1544	Брекзит	Брекзит	EVT	EVT-Brexit
+1629	1645	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1686	1701	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+1707	1714	Брекзит	Брекзит	EVT	EVT-Brexit

@@ -1,0 +1,24 @@
+43	51	COVID-19	COVID-19	EVT	EVT-Covid-19
+157	171	Жаир Болсонаро	Жаир Болсонаро	PER	PER-Jair-Bolsonaro
+324	335	коронавирус	коронавирус	EVT	EVT-Covid-19
+400	408	Бразилия	Бразилия	LOC	GPE-Brazil
+462	470	Бразилия	Бразилия	LOC	GPE-Brazil
+580	592	коронавируса	коронавирус	EVT	EVT-Covid-19
+609	623	Жаир Болсонаро	Жаир Болсонаро	PER	PER-Jair-Bolsonaro
+632	642	бразилците	бразилци	PER	GPE-Brazil
+713	720	Reuters	Reuters	ORG	ORG-Reuters
+749	779	министерството на правосъдието	Министерство на правосъдието	ORG	ORG-Ministry-of-Justice-Brazil
+900	908	Бразилия	Бразилия	LOC	GPE-Brazil
+1065	1074	Болсонаро	Болсонаро	PER	PER-Jair-Bolsonaro
+1252	1261	Сао Пауло	Сао Пауло	LOC	GPE-Sao-Paulo-state
+1264	1278	Рио де Жанейро	Рио де Жанейро	LOC	GPE-Rio-de-Janeiro-state
+1415	1421	Милано	Милано	LOC	GPE-Milan
+1467	1473	Италия	Италия	LOC	GPE-Italy
+1595	1603	бразилци	бразилци	PER	GPE-Brazil
+1605	1613	Бразилия	Бразилия	LOC	GPE-Brazil
+1732	1741	Болсонаро	Болсонаро	PER	PER-Jair-Bolsonaro
+1787	1809	здравното министерство	Здравно министерство	ORG	ORG-Ministry-of-Health-Brazil
+1914	1923	Сао Пауло	Сао Пауло	LOC	GPE-Sao-Paulo
+1924	1934	Жоао Дория	Жоао Дория	PER	PER-Joao-Doria
+1952	1961	Болсонаро	Болсонаро	PER	PER-Jair-Bolsonaro
+2162	2176	Жаир Болсонаро	Жаир Болсонаро	PER	PER-Jair-Bolsonaro

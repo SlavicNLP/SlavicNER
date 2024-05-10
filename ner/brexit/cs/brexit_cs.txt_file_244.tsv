@@ -1,0 +1,6 @@
+16	23	brexitu	brexit	EVT	EVT-Brexit
+78	80	EU	EU	ORG	ORG-European-Union
+114	116	EU	EU	ORG	ORG-European-Union
+119	127	Británie	Británie	LOC	GPE-Great-Britain
+270	277	Barnier	Barnier	PER	PER-Michel-Barnier
+484	499	Davidem Davisem	David Davis	PER	PER-David-Davis

@@ -1,0 +1,36 @@
+0	5	Putin	Putin	PER	PER-Vladimir-Putin
+35	41	Trumpu	Trump	PER	PER-Donald-Trump
+173	178	Putin	Putin	PER	PER-Vladimir-Putin
+377	383	Rusijo	Rusija	LOC	GPE-Russia
+489	494	Trump	Trump	PER	PER-Donald-Trump
+524	561	predstavniški dom ameriškega kongresa	predstavniški dom ameriškega kongresa	ORG	ORG-House-of-Representatives(USA)
+669	675	Trumpu	Trump	PER	PER-Donald-Trump
+726	738	republikanci	republikanci	PER	ORG-Republican-Party-USA
+840	846	Rusija	Rusija	LOC	GPE-Russia
+849	852	ZDA	ZDA	LOC	GPE-USA
+879	915	sporazum Start o jedrski razorožitvi	sporazum Start o jedrski razorožitvi	PRO	PRO-START
+1030	1036	Rusija	Rusija	LOC	GPE-Russia
+1150	1171	Vladimirja Zelenskega	Vladimir Zelenski	PER	PER-Volodymyr-Zelensky
+1192	1211	sporazuma iz Minska	sporazum iz Minska	PRO	PRO-Minsk-Protocol
+1265	1273	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1275	1283	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1287	1296	Putinovem	Putin	PER	PER-Vladimir-Putin
+1353	1361	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1375	1381	Kijevu	Kijev	LOC	GPE-Kiev
+1420	1427	Donecku	Doneck	LOC	GPE-Donetsk
+1504	1509	Putin	Putin	PER	PER-Vladimir-Putin
+1525	1531	Rusija	Rusija	LOC	GPE-Russia
+1564	1572	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1616	1627	Severni tok	Severni tok	PRO	PRO-Nord-Stream-1
+1629	1642	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1646	1656	Turški tok	Turški tok	PRO	PRO-TurkStream
+1672	1680	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1712	1742	Svetovne antidopinške agencije	Svetovna antidopinška agencija	ORG	ORG-World-Anti-Doping-Agency
+1743	1747	WADA	WADA	ORG	ORG-World-Anti-Doping-Agency
+2060	2084	Vladimirja Iljiča Lenina	Vladimir Iljič Lenin	PER	PER-Vladimir-Lenin
+2132	2143	Rdečem trgu	Rdeči trg	LOC	LOC-Red-Square
+2234	2249	Sovjetske zveze	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+2302	2338	Putinova letna novinarska konferenca	Putinova letna novinarska konferenca	EVT	EVT-Vladimir-Putin-Annual-Press-Conference
+2439	2444	Putin	Putin	PER	PER-Vladimir-Putin
+2611	2616	Putin	Putin	PER	PER-Vladimir-Putin
+2718	2722	Tass	Tass	ORG	ORG-TASS-Agency

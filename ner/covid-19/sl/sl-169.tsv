@@ -1,0 +1,45 @@
+14	22	COVID-19	COVID-19	EVT	EVT-Covid-19
+57	66	Sloveniji	Slovenija	LOC	GPE-Slovenia
+149	152	STA	STA	ORG	ORG-Slovenian-Press-Agency
+399	408	Sloveniji	Slovenija	LOC	GPE-Slovenia
+514	525	koronavirus	koronavirus	EVT	EVT-Covid-19
+855	869	Borut Štrukelj	Borut Štrukelj	PER	PER-Borut-Štrukelj
+872	915	Fakultete za farmacijo Univerze v Ljubljani	Fakultete za farmacijo Univerze v Ljubljani	ORG	ORG-Faculty-of-Pharmacy-Ljubljana
+966	975	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1041	1053	koronavirusu	koronavirus	EVT	EVT-Covid-19
+1161	1173	Roman Jerala	Roman Jerala	PER	PER-Roman-Jerala
+1176	1196	Kemijskega inštituta	Kemijski inštitut	ORG	ORG-National-Institute-of-Chemistry
+1231	1302	Centra odličnosti za biosenzoriko, instrumentacijo in procesno kontrolo	Center odličnosti za biosenzoriko, instrumentacijo in procesno kontrolo	ORG	ORG-Center-of-Excellence-for-Biosensros,-Instrumentation-and-Process-Control-COBIK
+1305	1315	Ajdovščini	Ajdovščina	LOC	GPE-Ajdovščina
+1317	1322	Cobik	Cobik	ORG	ORG-Center-of-Excellence-for-Biosensros,-Instrumentation-and-Process-Control-COBIK
+1357	1372	Matjaža Peterke	Matjaž Peterka	PER	PER-Matjaž-Peterka
+1510	1534	Institutu Jožefa Stefana	Institut Jožefa Stefana	ORG	ORG-Jožef-Stefan-Institute
+1631	1658	Agenciji za medicinske vede	Agencija za medicinske vede	ORG	ORG-ARRS-Slovenian-Research-Agency
+1669	1680	Gregor Serš	Gregor Serš	PER	PER-Gregor-Serš
+1945	1969	Agencije za raziskovanje	Agencija za raziskovanje	ORG	ORG-ARRS-Slovenian-Research-Agency
+2138	2147	Slovenija	Slovenija	LOC	GPE-Slovenia
+2173	2181	COVID-19	COVID-19	EVT	EVT-Covid-19
+2341	2355	Matija Tomš ič	Matija Tomšič	PER	PER-Matija-Tomšič
+2390	2403	UKC Ljubljana	UKC Ljubljana	LOC	LOC-University-Medical-Centre-Ljubljana
+2801	2807	Tomšič	Tomšič	PER	PER-Matija-Tomšič
+2832	2841	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2894	2896	EU	EU	ORG	ORG-European-Union
+2991	2995	OECD	OECD	ORG	ORG-OECD-Organisation-for-Economic-Co-operation-and-Development
+3369	3375	Tomšič	Tomšič	PER	PER-Matija-Tomšič
+3446	3472	International Medis Awards	International Medis Awards	PRO	PRO-International-Medis-Awards
+3475	3478	IMA	IMA	PRO	PRO-International-Medis-Awards
+3948	3953	Medis	Medis	ORG	ORG-Medis
+4066	4073	srednje	srednja Evropa	LOC	LOC-Central-Europe
+4077	4095	jugovzhodne Evrope	jugovzhodna Evropa	LOC	LOC-Southeast-Europe
+4108	4111	IMA	IMA	PRO	PRO-International-Medis-Awards
+4537	4545	Avstrije	Avstrija	LOC	GPE-Austria
+4547	4556	Bolgarije	Bolgarija	LOC	GPE-Bulgaria
+4558	4578	Bosne in Hercegovine	Bosna in Hercegovina	LOC	GPE-Bosnia-and-Herzegovina
+4580	4589	Črne gore	Črna gora	LOC	GPE-Montenegro
+4591	4598	Hrvaške	Hrvaška	LOC	GPE-Croatia
+4600	4609	Madžarske	Madžarska	LOC	GPE-Hungary
+4611	4629	Severne Makedonije	Severna Makedonija	LOC	GPE-North-Macedonia
+4631	4640	Slovenije	Slovenija	LOC	GPE-Slovenia
+4644	4650	Srbije	Srbija	LOC	GPE-Serbia
+5158	5172	Matije Tomšiča	Matija Tomšič	PER	PER-Matija-Tomšič
+5207	5220	UKC Ljubljana	UKC Ljubljana	LOC	LOC-University-Medical-Centre-Ljubljana

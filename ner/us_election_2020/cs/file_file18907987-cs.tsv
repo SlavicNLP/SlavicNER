@@ -1,0 +1,11 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+12	17	Biden	Biden	PER	PER-Joe-Biden
+72	75	USA	USA	LOC	GPE-USA
+178	190	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+221	230	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+271	280	Američané	Američané	PER	GPE-USA
+721	724	USA	USA	LOC	GPE-USA
+904	909	Trump	Trump	PER	PER-Donald-Trump
+929	940	republikánů	republikáni	PER	ORG-Republican-Party-USA
+981	986	Biden	Biden	PER	PER-Joe-Biden
+1183	1186	USA	USA	LOC	GPE-USA

@@ -1,0 +1,9 @@
+47	53	Brexit	Brexit	EVT	EVT-Brexit
+54	65	Дэвис Дэвис	Дэвис Дэвис	PER	PER-David-Davis
+121	132	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+162	168	Brexit	Brexit	EVT	EVT-Brexit
+169	180	Дэвис Дэвис	Дэвис Дэвис	PER	PER-David-Davis
+236	247	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+300	302	ЕС	ЕС	ORG	ORG-European-Union
+316	324	Британии	Британия	LOC	GPE-Great-Britain
+328	337	Евросоюза	Евросоюз	ORG	ORG-European-Union

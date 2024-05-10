@@ -1,0 +1,38 @@
+0	8	Biontech	Biontech	ORG	ORG-BioNTech
+75	83	Moguncji	Moguncja	LOC	GPE-Mainz
+84	92	Biontech	Biontech	ORG	ORG-BioNTech
+133	141	Covid-19	Covid-19	EVT	EVT-Covid-19
+233	241	Biontech	Biontech	ORG	ORG-BioNTech
+242	252	Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+447	452	Sahin	Sahin	PER	PER-Ugur-Sahin
+493	504	Der Spiegel	Der Spiegel	PRO	PRO-Der-Spiegel
+722	730	Biontech	Biontech	ORG	ORG-BioNTech
+772	779	Europie	Europa	LOC	LOC-Europe
+839	851	Özlem Türeci	Özlem Türeci	PER	PER-Özlem-Türeci
+982	987	Sahin	Sahin	PER	PER-Ugur-Sahin
+1034	1036	UE	UE	ORG	ORG-European-Union
+1133	1135	UE	UE	ORG	ORG-European-Union
+1342	1347	Sahin	Sahin	PER	PER-Ugur-Sahin
+1377	1379	UE	UE	ORG	ORG-European-Union
+1381	1401	Wspólnota europejska	Wspólnota europejska	ORG	ORG-European-Union
+1472	1478	Türeci	Türeci	PER	PER-Özlem-Türeci
+1645	1662	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1686	1694	Biontech	Biontech	ORG	ORG-BioNTech
+1695	1701	Pfizer	Pfizer	ORG	ORG-Pfizer
+1737	1752	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+1837	1844	Europie	Europa	LOC	LOC-Europe
+1921	1926	Sahin	Sahin	PER	PER-Ugur-Sahin
+1949	1964	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+2091	2099	Biontech	Biontech	ORG	ORG-BioNTech
+2100	2106	Pfizer	Pfizer	ORG	ORG-Pfizer
+2129	2131	UE	UE	ORG	ORG-European-Union
+2154	2171	Bożego Narodzenia	Boże Narodzenie	EVT	EVT-Christmas
+2221	2223	UE	UE	ORG	ORG-European-Union
+2270	2284	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+2286	2306	Wspólnota europejska	Wspólnota europejska	ORG	ORG-European-Union
+2394	2402	Biontech	Biontech	ORG	ORG-BioNTech
+2588	2596	Biontech	Biontech	ORG	ORG-BioNTech
+2624	2630	Pfizer	Pfizer	ORG	ORG-Pfizer
+2710	2718	Biontech	Biontech	ORG	ORG-BioNTech
+2794	2799	Sahin	Sahin	PER	PER-Ugur-Sahin
+2902	2910	aspiryny	aspiryna	PRO	PRO-Aspirin

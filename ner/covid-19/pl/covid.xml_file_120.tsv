@@ -1,0 +1,27 @@
+0	3	USA	USA	LOC	GPE-USA
+84	87	USA	USA	LOC	GPE-USA
+143	156	koronawirusem	koronawirus	EVT	EVT-Covid-19
+310	318	Covid-19	Covid-19	EVT	EVT-Covid-19
+321	342	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+380	430	Krajowego Instytutu ds. Alergii i Chorób Zakaźnych	Krajowy Instytut ds. Alergii i Chorób Zakaźnych	ORG	ORG-National-Institute-of-Allergy-and-Infectious-Diseases
+432	437	NIAID	NIAID	ORG	ORG-National-Institute-of-Allergy-and-Infectious-Diseases
+442	455	Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+847	852	Fauci	Fauci	PER	PER-Anthony-Fauci
+885	888	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+1028	1032	CNBC	CNBC	PRO	PRO-CNBC
+1084	1098	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1114	1124	Warp Speed	Warp Speed	PRO	PRO-Operation-Warp-Speed
+1187	1195	Covid-19	Covid-19	EVT	EVT-Covid-19
+1206	1209	USA	USA	LOC	GPE-USA
+1229	1281	Amerykańskie Centra Kontroli i Zapobiegania Chorobom	Amerykańskie Centra Kontroli i Zapobiegania Chorobom	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+1283	1286	CDC	CDC	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+1419	1431	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1623	1633	Warp Speed	Warp Speed	PRO	PRO-Operation-Warp-Speed
+1684	1697	Michael Pratt	Michael Pratt	PER	PER-Michael-Pratt
+1717	1720	CDC	CDC	ORG	ORG-CDC-Centers-for-Disease-Control-and-Prevention
+1830	1840	Warp Speed	Warp Speed	PRO	PRO-Operation-Warp-Speed
+2082	2087	Pratt	Pratt	PER	PER-Michael-Pratt
+2106	2118	Paula Offita	Paul Offit	PER	PER-Paul-Offit
+2130	2205	centrum ds. edukacji dotyczącej szczepień w szpitalu dziecięcym Pensylwanii	centrum ds. edukacji dotyczącej szczepień w szpitalu dziecięcym Pensylwanii	ORG	ORG-Vaccine-Education-Center-Children-Hospital-Pensylvania
+2346	2358	Nowego Jorku	Nowy Jork	LOC	GPE-New-York
+2359	2378	Andrzej Dobrowolski	Andrzej Dobrowolski	PER	PER-Andrzej-Dobrowolski

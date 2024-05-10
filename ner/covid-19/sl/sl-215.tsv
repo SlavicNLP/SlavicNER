@@ -1,0 +1,37 @@
+55	63	covid-19	covid-19	EVT	EVT-Covid-19
+83	93	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+105	113	COVID-19	COVID-19	EVT	EVT-Covid-19
+384	396	Matic Koželj	Matic Koželj	PER	PER-Matic-Koželj
+399	412	UKC Ljubljana	UKC Ljubljana	LOC	LOC-University-Medical-Centre-Ljubljana
+430	445	društva za KVČB	društvo za KVČB	ORG	ORG-Društvo-za-kronično-vnetno-črevesno-bolezen-in-covid-19
+456	460	Viva	Viva	PRO	PRO-Viva-Magazine-Slovenia
+591	602	Mateje Saje	Mateja Saje	PER	PER-Mateja-Saje
+606	619	Dušana Barage	Dušan Baraga	PER	PER-Dušan-Baraga
+650	662	Matic Koželj	Matic Koželj	PER	PER-Matic-Koželj
+665	678	UKC Ljubljana	UKC Ljubljana	LOC	LOC-University-Medical-Centre-Ljubljana
+691	707	Sanja Jablanovič	Sanja Jablanovič	PER	PER-Sanja-Jablanovič
+711	761	Pravnoinformacijskega centra nevladnih organizacij	Pravnoinformacijski center nevladnih organizacij	ORG	ORG-Legal-Informational-Centre-for-NGOs
+764	767	PIC	PIC	ORG	ORG-Legal-Informational-Centre-for-NGOs
+931	947	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+1061	1073	Matic Koželj	Matic Koželj	PER	PER-Matic-Koželj
+1219	1227	COVID-19	COVID-19	EVT	EVT-Covid-19
+1598	1606	COVID-19	COVID-19	EVT	EVT-Covid-19
+1615	1621	Koželj	Koželj	PER	PER-Matic-Koželj
+1996	2004	COVID-19	COVID-19	EVT	EVT-Covid-19
+2060	2069	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2126	2132	Koželj	Koželj	PER	PER-Matic-Koželj
+2843	2849	Koželj	Koželj	PER	PER-Matic-Koželj
+2983	3002	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+3058	3067	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+3357	3371	Nataše Smrekar	Nataša Smrekar	PER	PER-Nataša-Smrekar
+3702	3708	Koželj	Koželj	PER	PER-Matic-Koželj
+4283	4289	Koželj	Koželj	PER	PER-Matic-Koželj
+4325	4339	Matica Koželja	Matic Koželj	PER	PER-Matic-Koželj
+4450	4458	COVID-19	COVID-19	EVT	EVT-Covid-19
+4777	4789	Matic Koželj	Matic Koželj	PER	PER-Matic-Koželj
+5444	5450	Koželj	Koželj	PER	PER-Matic-Koželj
+5722	5738	Sanja Jablanovič	Sanja Jablanovič	PER	PER-Sanja-Jablanovič
+6213	6217	ZZZS	ZZZS	ORG	ORG-Health-Insurance-Institute-of-Slovenia
+6221	6243	ministrstvo za zdravje	ministrstvo za zdravje	ORG	ORG-Ministry-of-Health-Slovenia
+6472	6488	Sanje Jablanovič	Sanja Jablanovič	PER	PER-Sanja-Jablanovič
+7554	7567	Jablanovičeva	Jablanovič	PER	PER-Sanja-Jablanovič

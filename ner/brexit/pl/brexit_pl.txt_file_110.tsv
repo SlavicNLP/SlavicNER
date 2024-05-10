@@ -1,0 +1,57 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+47	54	Londynu	Londyn	LOC	GPE-London
+90	104	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+210	225	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+226	243	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+252	258	Londyn	Londyn	LOC	GPE-London
+288	296	brexicie	Brexit	EVT	EVT-Brexit
+350	361	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+457	459	UE	UE	ORG	ORG-European-Union
+536	550	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+589	597	Londynie	Londyn	LOC	GPE-London
+618	629	Theresą May	Theresa May	PER	PER-Theresa-May
+646	653	brexitu	Brexit	EVT	EVT-Brexit
+654	669	Davidem Davisem	David Davis	PER	PER-David-Davis
+897	903	Londyn	Londyn	LOC	GPE-London
+961	963	UE	UE	ORG	ORG-European-Union
+1037	1045	Irlandią	Irlandia	LOC	GPE-Ireland
+1048	1065	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+1082	1097	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1270	1277	brexitu	Brexit	EVT	EVT-Brexit
+1400	1407	Barnier	Barnier	PER	PER-Michel-Barnier
+1581	1589	Londynie	Londyn	LOC	GPE-London
+1762	1769	Londynu	Londyn	LOC	GPE-London
+1800	1806	Londyn	Londyn	LOC	GPE-London
+1852	1863	David Davis	David Davis	PER	PER-David-Davis
+1889	1895	Londyn	Londyn	LOC	GPE-London
+1968	1970	UE	UE	ORG	ORG-European-Union
+2122	2137	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2282	2288	Londyn	Londyn	LOC	GPE-London
+2333	2338	Davis	Davis	PER	PER-David-Davis
+2459	2461	UE	UE	ORG	ORG-European-Union
+2501	2509	Brukselą	Bruksela	LOC	GPE-Brussles
+2550	2567	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2568	2589	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+2616	2619	May	May	PER	PER-Theresa-May
+2622	2633	James Slack	James Slack	PER	PER-James-Slack
+2657	2663	Londyn	Londyn	LOC	GPE-London
+2911	2921	Amber Rudd	Amber Rudd	PER	PER-Amber-Rudd
+2986	2988	UE	UE	ORG	ORG-European-Union
+3061	3076	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+3153	3165	Dominic Raab	Dominic Raab	PER	PER-Dominic-Raab
+3199	3214	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3271	3286	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+3339	3346	brexitu	Brexit	EVT	EVT-Brexit
+3407	3416	Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+3545	3554	Londynowi	Londyn	LOC	GPE-London
+3561	3567	brexit	Brexit	EVT	EVT-Brexit
+3610	3625	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+3681	3688	Niemiec	Niemcy	LOC	GPE-Germany
+3689	3703	Sigmar Gabriel	Sigmar Gabriel	PER	PER-Sigmar-Gabriel
+3786	3801	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3901	3907	Berlin	Berlin	LOC	GPE-Berlin
+3942	3948	Kijowa	Kijów	LOC	GPE-Kiev
+3951	3957	Ankary	Ankara	LOC	GPE-Ankara
+3960	3962	UE	UE	ORG	ORG-European-Union
+3964	3978	Sigmar Gabriel	Sigmar Gabriel	PER	PER-Sigmar-Gabriel
+4013	4018	Essen	Essen	LOC	GPE-Essen

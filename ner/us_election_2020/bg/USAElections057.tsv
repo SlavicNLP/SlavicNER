@@ -1,0 +1,15 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+55	61	Байдън	Байдън	PER	PER-Joe-Biden
+78	81	САЩ	САЩ	LOC	GPE-USA
+82	94	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+198	207	демократа	демократ	PER	ORG-Democratic-Party-USA
+208	218	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+279	306	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+348	354	Байдън	Байдън	PER	PER-Joe-Biden
+460	470	Франс прес	Франс прес	ORG	ORG-France-Presse
+473	478	Тръмп	Тръмп	PER	PER-Donald-Trump
+523	529	Байдън	Байдън	PER	PER-Joe-Biden
+862	876	Йонас Ейбрахам	Йонас Ейбрахам	PER	PER-Yohannes-Abraham
+903	909	Байдън	Байдън	PER	PER-Joe-Biden
+1097	1121	коронавирусната пандемия	коронавирусна пандемия	EVT	EVT-Pandemic
+1190	1196	Байдън	Байдън	PER	PER-Joe-Biden

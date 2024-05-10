@@ -1,0 +1,18 @@
+10	18	Brexicie	Brexit	EVT	EVT-Brexit
+242	259	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+262	264	UE	UE	ORG	ORG-European-Union
+385	393	Irlandii	Irlandia	LOC	GPE-Ireland
+396	414	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+427	429	UE	UE	ORG	ORG-European-Union
+516	518	UE	UE	ORG	ORG-European-Union
+835	837	UE	UE	ORG	ORG-European-Union
+872	874	UE	UE	ORG	ORG-European-Union
+877	892	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+970	977	Brexitu	Brexit	EVT	EVT-Brexit
+978	992	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+1078	1085	Barnier	Barnier	PER	PER-Michel-Barnier
+1164	1166	UE	UE	ORG	ORG-European-Union
+1169	1186	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1310	1327	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1523	1531	Barniera	Barnier	PER	PER-Michel-Barnier
+1796	1804	Brexitem	Brexit	EVT	EVT-Brexit

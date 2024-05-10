@@ -1,0 +1,33 @@
+3	20	Борисом Джонсоном	Борис Джонсон	PER	PER-Boris-Johnson
+36	39	Мэй	Мэй	PER	PER-Theresa-May
+145	159	Великобритании	Великобритания	LOC	GPE-Great-Britain
+160	175	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+272	286	Великобритании	Великобритания	LOC	GPE-Great-Britain
+287	297	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+335	337	ЕС	ЕС	ORG	ORG-European-Union
+371	379	Джонсона	Джонсон	PER	PER-Boris-Johnson
+442	456	Великобритании	Великобритания	LOC	GPE-Great-Britain
+460	462	ЕС	ЕС	ORG	ORG-European-Union
+509	523	Великобритании	Великобритания	LOC	GPE-Great-Britain
+579	589	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+607	619	The Guardian	The Guardian	PRO	PRO-The-Guardian
+691	697	Brexit	Brexit	EVT	EVT-Brexit
+728	741	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+780	790	Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+834	842	Джонсона	Джонсон	PER	PER-Boris-Johnson
+879	893	Великобритании	Великобритания	LOC	GPE-Great-Britain
+897	899	ЕС	ЕС	ORG	ORG-European-Union
+900	911	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+966	976	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+989	1001	Палате общин	Палата общин	ORG	ORG-House-of-Commons
+1111	1120	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1134	1137	Мэй	Мэй	PER	PER-Theresa-May
+1140	1147	Дэвисом	Дэвис	PER	PER-David-Davis
+1150	1159	Джонсоном	Джонсон	PER	PER-Boris-Johnson
+1192	1195	Мэй	Мэй	PER	PER-Theresa-May
+1312	1314	ЕС	ЕС	ORG	ORG-European-Union
+1406	1408	ЕС	ЕС	ORG	ORG-European-Union
+1422	1437	Великобританией	Великобритания	LOC	GPE-Great-Britain
+1582	1584	ЕС	ЕС	ORG	ORG-European-Union
+1596	1610	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1614	1616	ЕС	ЕС	ORG	ORG-European-Union

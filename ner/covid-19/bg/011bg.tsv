@@ -1,0 +1,35 @@
+17	25	Ковид-19	Ковид-19	EVT	EVT-Covid-19
+79	91	коронавируса	коронавирус	EVT	EVT-Covid-19
+243	251	Германия	Германия	LOC	GPE-Germany
+295	303	Германия	Германия	LOC	GPE-Germany
+615	642	закон за защита от инфекции	закон за защита от инфекции	PRO	PRO-Regulation-for-protection-from-infections
+717	727	пандемията	пандемия	EVT	EVT-Pandemic
+1398	1406	Германия	Германия	LOC	GPE-Germany
+1990	1998	Biontech	Biontech	ORG	ORG-BioNTech
+2161	2167	Туитър	Туитър	PRO	PRO-Twitter
+2224	2237	Йозлем Тюречи	Йозлем Тюречи	PER	PER-Özlem-Türeci
+2244	2254	Угур Шахин	Угур Шахин	PER	PER-Ugur-Sahin
+2280	2286	Туитър	Туитър	PRO	PRO-Twitter
+2312	2320	Biontech	Biontech	ORG	ORG-BioNTech
+2355	2361	Туитър	Туитър	PRO	PRO-Twitter
+2631	2637	Тюречи	Тюречи	PER	PER-Özlem-Türeci
+2640	2649	Инстаграм	Инстаграм	PRO	PRO-Instagram
+2784	2792	Biontech	Biontech	ORG	ORG-BioNTech
+2795	2801	Pfizer	Pfizer	ORG	ORG-Pfizer
+2824	2828	мРНК	мРНК	PRO	PRO-mRNK-technology
+3062	3078	Емералд Робинсън	Емералд Робинсън	PER	PER-Emerald-Robinson
+3081	3087	Туитър	Туитър	PRO	PRO-Twitter
+3150	3156	Pfizer	Pfizer	ORG	ORG-Pfizer
+3159	3167	Biontech	Biontech	ORG	ORG-BioNTech
+3210	3214	мРНК	мРНК	PRO	PRO-mRNK-technology
+3257	3269	коронавируса	коронавирус	EVT	EVT-Covid-19
+3442	3450	Ковид-19	Ковид-19	EVT	EVT-Covid-19
+3592	3608	Емералд Робинсън	Емералд Робинсън	PER	PER-Emerald-Robinson
+3635	3644	Белия дом	Белия дом	LOC	LOC-White-House
+3680	3687	Newsmax	Newsmax	PRO	PRO-Newsmax
+3780	3813	"Германският институт ""Паул Ерлих"""	"Германски институт ""Паул Ерлих"""	ORG	ORG-Paul-Ehrlich-Institute
+3953	3957	мРНК	мРНК	PRO	PRO-mRNK-technology
+4141	4151	Марк Линас	Марк Линас	PER	PER-Mark-Lynas
+4155	4173	Cornell University	Cornell University	ORG	ORG-Cornell-University
+4176	4179	САЩ	САЩ	LOC	GPE-USA
+4194	4201	Ройтерс	Ройтерс	ORG	ORG-Reuters

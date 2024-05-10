@@ -1,0 +1,146 @@
+0	13	Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+24	30	Трампа	Трамп	PER	PER-Donald-Trump
+55	58	США	США	LOC	GPE-USA
+174	200	Республиканской партии США	Республиканская партия США	ORG	ORG-Republican-Party-USA
+236	251	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+284	306	RNC2020 GOP Convention	RNC2020 GOP Convention	EVT	EVT-2020-Republican-National-Convention
+309	316	Twitter	Twitter	PRO	PRO-Twitter
+353	360	Шарлотт	Шарлотт	LOC	GPE-Charlotte
+367	384	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+429	444	республиканских	республиканский	ORG	ORG-Republican-Party-USA
+471	493	RNC2020 GOP Convention	RNC2020 GOP Convention	EVT	EVT-2020-Republican-National-Convention
+496	503	Twitter	Twitter	PRO	PRO-Twitter
+523	549	Республиканской партии США	Республиканская партия США	ORG	ORG-Republican-Party-USA
+585	600	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+667	674	Шарлотт	Шарлотт	LOC	GPE-Charlotte
+681	698	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+743	758	республиканских	республиканский	ORG	ORG-Republican-Party-USA
+827	839	Майкла Пенса	Майкл Пенс	PER	PER-Mike-Pence
+879	882	США	США	LOC	GPE-USA
+906	911	Трамп	Трамп	PER	PER-Donald-Trump
+914	918	Пенс	Пенс	PER	PER-Mike-Pence
+1030	1040	демократов	демократы	ORG	ORG-Democratic-Party-USA
+1041	1051	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1081	1094	Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+1105	1116	"""Интерфакс"""	"""Интерфакс"""	PRO	PRO-Interfax
+1118	1123	Трамп	Трамп	PER	PER-Donald-Trump
+1193	1199	Байден	Байден	PER	PER-Joe-Biden
+1279	1292	Камалу Харрис	Камала Харрис	PER	PER-Kamala-Harris
+1473	1483	Сенате США	Сенат США	ORG	ORG-United-States-Senate
+1509	1519	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1872	1882	демократов	демократы	ORG	ORG-Democratic-Party-USA
+1883	1893	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1904	1910	Трампа	Трамп	PER	PER-Donald-Trump
+1945	1959	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+2083	2095	коронавируса	коронавирус	EVT	EVT-Covid-19
+2239	2261	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+2395	2402	Америка	Америка	LOC	GPE-USA
+2433	2442	"""Свобода"""	"""Свобода"""	PRO	PRO-RFE-Radio-Free -Europe
+2466	2473	FoxNews	FoxNews	PRO	PRO-Fox-News
+2507	2515	Шарлотте	Шарлотт	LOC	GPE-Charlotte
+2555	2577	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+2630	2636	Трампа	Трамп	PER	PER-Donald-Trump
+2656	2669	Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+2673	2680	Байдена	Байден	PER	PER-Joe-Biden
+2685	2698	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2733	2740	America	America	LOC	GPE-USA
+2763	2770	Америку	Америка	LOC	GPE-USA
+2815	2831	Рональда Рейгана	Рональд Рейган	PER	PER-Ronald-Reagan
+3116	3121	Трамп	Трамп	PER	PER-Donald-Trump
+3134	3141	Америка	Америка	LOC	GPE-USA
+3231	3238	America	America	LOC	GPE-USA
+3256	3263	Америку	Америка	LOC	GPE-USA
+3331	3336	Трамп	Трамп	PER	PER-Donald-Trump
+3450	3463	коронавирусом	коронавирус	EVT	EVT-Covid-19
+3683	3689	Трампа	Трамп	PER	PER-Donald-Trump
+3720	3732	американская	американский	LOC	GPE-USA
+3883	3901	Овального кабинета	Овальный кабинет	LOC	LOC-Oval-Office
+3903	3908	Трамп	Трамп	PER	PER-Donald-Trump
+3958	3961	США	США	LOC	GPE-USA
+4018	4031	американского	американский	LOC	GPE-USA
+4100	4111	американцев	американец	PER	GPE-USA
+4313	4320	America	America	LOC	GPE-USA
+4329	4336	Америка	Америка	LOC	GPE-USA
+4369	4381	американский	американский	LOC	GPE-USA
+4417	4420	США	США	LOC	GPE-USA
+4539	4549	Вашингтону	Вашингтон	LOC	GPE-WashingtonDC
+4555	4558	США	США	LOC	GPE-USA
+4568	4640	Организацию Объединенных Наций по вопросам образования, науки и культуры	Организация Объединенных Наций по вопросам образования, науке и культуре	ORG	ORG-UNESCO
+4642	4648	ЮНЕСКО	ЮНЕСКО	ORG	ORG-UNESCO
+4651	4679	Совет ООН по правам человека	Совет ООН по правам человека	ORG	ORG-The-United-Nations-Human-Rights-Council
+4681	4684	СПЧ	СПЧ	ORG	ORG-The-United-Nations-Human-Rights-Council
+4696	4728	Парижского соглашения по климату	Парижское соглашение по климату	PRO	PRO-Paris-Agreement
+4751	4788	Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+4790	4793	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+4817	4826	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+4846	4901	Соглашения о североамериканской зоне свободной торговли	Соглашение о североамериканской зоне свободной торговли	PRO	PRO-North-American-Free-Trade-Agreement
+4903	4908	НАФТА	НАФТА	PRO	PRO-North-American-Free-Trade-Agreement
+4912	4919	Канадой	Канада	LOC	GPE-Canada
+4922	4930	Мексикой	Мексика	LOC	GPE-Mexico
+4974	4980	Канады	Канада	LOC	GPE-Canada
+4982	4989	Мексики	Мексика	LOC	GPE-Mexico
+4992	4995	США	США	LOC	GPE-USA
+4997	5002	USMCA	USMCA	PRO	PRO-USMCA
+5012	5015	США	США	LOC	GPE-USA
+5091	5093	ЕС	ЕС	LOC	ORG-European-Union
+5096	5101	Китая	Китай	LOC	GPE-China
+5105	5112	Пекином	Пекин	LOC	GPE-Beijing
+5115	5125	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+5409	5418	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+5427	5432	Китай	Китай	LOC	GPE-China
+5500	5505	Пекин	Пекин	LOC	GPE-Beijing
+5538	5543	Трамп	Трамп	PER	PER-Donald-Trump
+5564	5575	коронавирус	коронавирус	EVT	EVT-Covid-19
+5603	5609	Трампе	Трамп	PER	PER-Donald-Trump
+5610	5613	США	США	LOC	GPE-USA
+5623	5678	Договора о ликвидации ракет средней и меньшей дальности	Договор о ликвидации ракет средней и меньшей дальности	PRO	PRO-IRNFT
+5680	5685	ДРСМД	ДРСМД	PRO	PRO-IRNFT
+5719	5745	Договора по открытому небу	Договор по открытому небу	PRO	PRO-The-Treaty-on-Open-Skies
+5747	5750	ДОН	ДОН	PRO	PRO-The-Treaty-on-Open-Skies
+5784	5881	Договора о мерах по дальнейшему сокращению и ограничению стратегических наступательных вооружений	Договор о мерах по дальнейшему сокращению и ограничению стратегических наступательных вооружений	PRO	PRO-New-START
+5883	5887	ДСНВ	ДСНВ	PRO	PRO-New-START
+6022	6034	американский	американский	LOC	GPE-USA
+6060	6072	американских	американский	LOC	GPE-USA
+6084	6098	Ближний Восток	Ближний Восток	LOC	LOC-Near-East
+6207	6210	США	США	LOC	GPE-USA
+6239	6243	ТАСС	ТАСС	PRO	ORG-Russian's leading news company
+6297	6309	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+6311	6316	Трамп	Трамп	PER	PER-Donald-Trump
+6404	6409	Кубой	Куба	LOC	GPE-Cuba
+6425	6428	США	США	LOC	GPE-USA
+6432	6473	Совместного всеобъемлющего плана действий	Совместный всеобъемлющий план действий	PRO	PRO-Joint-Comprehensive-Plan-of-Action
+6475	6479	СВПД	СВПД	PRO	PRO-Joint-Comprehensive-Plan-of-Action
+6558	6561	США	США	LOC	GPE-USA
+6578	6590	американский	американский	LOC	GPE-USA
+6658	6664	Ираном	Иран	LOC	GPE-Iran
+6771	6781	Вашингтону	Вашингтон	LOC	GPE-WashingtonDC
+6783	6788	Трамп	Трамп	PER	PER-Donald-Trump
+6959	6964	Трамп	Трамп	PER	PER-Donald-Trump
+7003	7007	КНДР	КНДР	LOC	GPE-North-Korea
+7170	7182	палестинской	палестинский	LOC	GPE-Palestine
+7195	7210	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+7250	7261	российскому	российский	LOC	GPE-Russia
+7308	7339	президентских выборов 2016 года	президентские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+7378	7380	РФ	РФ	LOC	GPE-Russia
+7383	7395	американские	американский	LOC	GPE-USA
+7441	7454	Роберт Мюллер	Роберт Мюллер	PER	Роберт Мюллер
+7542	7549	Москвой	Москва	LOC	GPE-Moscow
+7701	7704	США	США	LOC	GPE-USA
+7706	7712	Москва	Москва	LOC	GPE-Moscow
+7791	7794	США	США	LOC	GPE-USA
+7798	7803	Трамп	Трамп	PER	PER-Donald-Trump
+7839	7845	Москве	Москва	LOC	GPE-Moscow
+7893	7899	России	Россия	LOC	GPE-Russia
+7978	7980	РФ	РФ	LOC	GPE-Russia
+8058	8065	Украине	Украина	LOC	GPE-Ukraine
+8122	8142	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+8189	8194	Трамп	Трамп	PER	PER-Donald-Trump
+8225	8228	США	США	LOC	GPE-USA
+8231	8233	РФ	РФ	LOC	GPE-Russia
+8312	8317	Трамп	Трамп	PER	PER-Donald-Trump
+8387	8389	G7	G7	ORG	ORG-G7
+8402	8404	РФ	РФ	LOC	GPE-Russia
+8405	8421	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+8471	8477	Россию	Россия	LOC	GPE-Russia
+8524	8567	присоединения украинского Крыма в 2014 году	Присоединение украинского Крыма в 2014 году	EVT	EVT-Annexation-of-Crimea
+8608	8618	российские	российский	LOC	GPE-Russia

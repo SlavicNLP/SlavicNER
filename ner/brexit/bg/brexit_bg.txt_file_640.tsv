@@ -1,0 +1,29 @@
+0	9	Шотландия	Шотландия	LOC	GPE-Scotland
+41	48	Брекзит	Брекзит	EVT	EVT-Brexit
+84	93	Шотландия	Шотландия	LOC	GPE-Scotland
+187	201	Великобритания	Великобритания	LOC	GPE-Great-Britain
+205	207	ЕС	ЕС	ORG	ORG-European-Union
+280	287	Гардиън	Гардиън	PRO	PRO-The-Guardian
+334	341	Брекзит	Брекзит	EVT	EVT-Brexit
+353	367	Великобритания	Великобритания	LOC	GPE-Great-Britain
+400	432	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+466	475	Шотландия	Шотландия	LOC	GPE-Scotland
+591	605	Великобритания	Великобритания	LOC	GPE-Great-Britain
+615	617	ЕС	ЕС	ORG	ORG-European-Union
+710	719	Шотландия	Шотландия	LOC	GPE-Scotland
+805	814	Шотландия	Шотландия	LOC	GPE-Scotland
+878	887	Шотландия	Шотландия	LOC	GPE-Scotland
+888	903	Никола Стърджън	Никола Стърджън	PER	PER-Nicola-Sturgeon
+935	949	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1052	1068	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1120	1122	ЕС	ЕС	ORG	ORG-European-Union
+1205	1212	Брекзит	Брекзит	EVT	EVT-Brexit
+1261	1268	Брекзит	Брекзит	EVT	EVT-Brexit
+1269	1281	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+1492	1498	Канада	Канада	LOC	GPE-Canada
+1501	1503	ЕС	ЕС	ORG	ORG-European-Union
+1538	1541	СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+1543	1551	Стърджън	Стърджън	PER	PER-Nicola-Sturgeon
+1832	1835	СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+1891	1899	money.bg	money.bg	PRO	PRO-money.bg
+1901	1906	Днес+	Днес+	ORG	ORG-DnesPlus

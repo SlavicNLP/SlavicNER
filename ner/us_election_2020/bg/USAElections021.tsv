@@ -1,0 +1,29 @@
+44	47	САЩ	САЩ	LOC	GPE-USA
+193	196	САЩ	САЩ	LOC	GPE-USA
+278	281	САЩ	САЩ	LOC	GPE-USA
+432	435	DPA	DPA	ORG	ORG-DPA
+473	483	пандемията	пандемия	EVT	EVT-Pandemic
+623	632	Белия дом	Белия дом	LOC	LOC-White-House
+856	868	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+886	896	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1048	1053	Тръмп	Тръмп	PER	PER-Donald-Trump
+1056	1062	Байдън	Байдън	PER	PER-Joe-Biden
+1075	1082	Аризона	Аризона	LOC	GPE-Arizona
+1084	1091	Флорида	Флорида	LOC	GPE-Florida
+1093	1100	Мичиган	Мичиган	LOC	GPE-Michigan
+1102	1118	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+1121	1132	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1141	1148	Флорида	Флорида	LOC	GPE-Florida
+1150	1161	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1164	1180	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+1204	1209	Тръмп	Тръмп	PER	PER-Donald-Trump
+1211	1218	Аризона	Аризона	LOC	GPE-Arizona
+1229	1239	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1379	1386	Флорида	Флорида	LOC	GPE-Florida
+1665	1676	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1679	1688	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+1981	1988	Ройтерс	Ройтерс	ORG	ORG-Reuters
+2358	2367	демократи	демократи	PER	ORG-Democratic-Party-USA
+2379	2391	републиканци	републиканци	PER	ORG-Republican-Party-USA
+2536	2548	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2640	2650	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden

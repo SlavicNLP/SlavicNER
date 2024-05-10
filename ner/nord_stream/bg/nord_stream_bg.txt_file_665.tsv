@@ -1,0 +1,33 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+15	23	Германия	Германия	LOC	GPE-Germany
+41	56	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+66	70	NOVA	NOVA	PRO	PRO-NOVATV
+153	158	Тръмп	Тръмп	PER	PER-Donald-Trump
+168	176	Германия	Германия	LOC	GPE-Germany
+194	209	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+235	256	Държавния департамент	Държавен департамент	ORG	ORG-Department-of-State-USA
+336	351	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+369	372	САЩ	САЩ	LOC	GPE-USA
+373	385	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+395	403	Германия	Германия	LOC	GPE-Germany
+459	474	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+487	504	Уолстрийт джърнъл	Уолстрийт джърнъл	PRO	PRO-Wall-Street-Journal
+538	546	германия	Германия	LOC	GPE-Germany
+548	554	Щатите	Щати	LOC	GPE-USA
+557	559	ЕС	ЕС	ORG	ORG-European-Union
+578	583	Тръмп	Тръмп	PER	PER-Donald-Trump
+613	626	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+721	726	Тръмп	Тръмп	PER	PER-Donald-Trump
+747	756	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+780	782	ЕС	ЕС	ORG	ORG-European-Union
+824	829	БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+831	848	Уолстрийт джърнъл	Уолстрийт джърнъл	PRO	PRO-Wall-Street-Journal
+864	870	Меркел	Меркел	PER	PER-Angela-Merkel
+913	915	ЕС	ЕС	ORG	ORG-European-Union
+939	942	САЩ	САЩ	LOC	GPE-USA
+1102	1111	Евросъюза	Евросъюз	ORG	ORG-European-Union
+1121	1135	Сандра Оудкърк	Сандра Оудкърк	PER	PER-Sandra-Oudkirk
+1139	1160	Държавния департамент	Държавен департамент	ORG	ORG-Department-of-State-USA
+1171	1174	САЩ	САЩ	LOC	GPE-USA
+1267	1282	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1301	1310	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC

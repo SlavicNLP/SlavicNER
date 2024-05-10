@@ -1,0 +1,33 @@
+8	19	Elżbieta II	Elżbieta II	PER	PER-Queen-Elizabeth-II
+42	50	brexicie	Brexit	EVT	EVT-Brexit
+67	86	brytyjski parlament	Brytyjski parlament	ORG	ORG-British-Parlament
+162	177	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+189	204	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+269	280	Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+366	377	Elżbieta II	Elżbieta II	PER	PER-Queen-Elizabeth-II
+398	406	brexicie	Brexit	EVT	EVT-Brexit
+491	500	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+501	512	John Bercow	John Bercow	PER	PER-John-Bercow
+690	707	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+710	712	UE	UE	ORG	ORG-European-Union
+932	940	brexicie	Brexit	EVT	EVT-Brexit
+984	1016	Ustawa o Wspólnocie Europejskiej	Ustawa o Wspólnocie Europejskiej	PRO	PRO-European-Communities-Act-1972
+1050	1067	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1156	1164	brexicie	Brexit	EVT	EVT-Brexit
+1174	1185	Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+1288	1299	Theresy May	Theresa May	PER	PER-Theresa-May
+1330	1351	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+1469	1478	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+1679	1685	Londyn	Londyn	LOC	GPE-London
+1688	1696	Brukselą	Bruksela	LOC	GPE-Brussles
+1723	1730	brexitu	Brexit	EVT	EVT-Brexit
+1828	1830	UE	UE	ORG	ORG-European-Union
+1994	1997	May	May	PER	PER-Theresa-May
+2042	2053	Theresa May	Theresa May	PER	PER-Theresa-May
+2293	2306	Sąd Najwyższy	Sąd Najwyższy	ORG	ORG-Supreme-Court-of-Great-Britain
+2393	2400	brexitu	Brexit	EVT	EVT-Brexit
+2476	2478	UE	UE	ORG	ORG-European-Union
+2544	2551	brexitu	Brexit	EVT	EVT-Brexit
+2552	2563	David Davis	David Davis	PER	PER-David-Davis
+2673	2680	brexitu	Brexit	EVT	EVT-Brexit
+2870	2875	Davis	Davis	PER	PER-David-Davis

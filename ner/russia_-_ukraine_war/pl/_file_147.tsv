@@ -1,0 +1,47 @@
+15	21	Rosjan	Rosjanie	PER	GPE-Russia
+51	67	wojny w Ukrainie	wojna w Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+89	94	Rosji	Rosja	LOC	GPE-Russia
+155	162	Ukrainy	Ukraina	LOC	GPE-Ukraine
+302	305	BBC	BBC	PRO	PRO-BBC
+307	323	Voice of America	Voice of America	PRO	PRO-Voice-of-America
+325	339	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+410	428	inwazji na Ukrainę	inwazja na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+534	545	Google News	Google News	PRO	PRO-Google
+547	555	Facebook	Facebook	PRO	PRO-Facebook
+557	564	Twitter	Twitter	PRO	PRO-Twitter
+567	576	Instagram	Instagram	PRO	PRO-Instagram
+578	586	Rosyjski	Rosyjski	LOC	GPE-Russia
+626	638	Roskomnadzor	Roskomnadzor	ORG	ORG-Roskomnadzor
+664	668	Meta	Meta	ORG	ORG-Meta
+687	696	Facebooka	Facebook	ORG	ORG-Facebook
+1042	1048	Rosjan	Rosjanie	PER	GPE-Russia
+1295	1300	Rosja	Rosja	LOC	GPE-Russia
+1460	1465	Rosja	Rosja	LOC	GPE-Russia
+1591	1596	Rosję	Rosja	LOC	GPE-Russia
+1618	1623	Chiny	Chiny	LOC	GPE-China
+1651	1656	Chiny	Chiny	LOC	GPE-China
+1863	1868	Rosja	Rosja	LOC	GPE-Russia
+2005	2010	Rosja	Rosja	LOC	GPE-Russia
+2115	2123	Google’a	Google	PRO	PRO-Google
+2206	2213	Chinach	Chiny	LOC	GPE-China
+2411	2428	Wielkim Firewallu	Wielki Firewall	PRO	PRO-China-Great-Firewall
+2437	2443	Zachód	Zachód	LOC	LOC-West
+2477	2482	Rosji	Rosja	LOC	GPE-Russia
+2608	2638	Amerykański Departament Skarbu	Amerykański Departament Skarbu	ORG	ORG-United-States-Department-of-the-Treasury
+2640	2650	Amerykanie	Amerykanie	PER	GPE-USA
+2703	2709	Kremla	Kreml	LOC	LOC-Kremlin
+2763	2768	Rosji	Rosja	LOC	GPE-Russia
+2853	2859	Rosjan	Rosjanie	PER	GPE-Russia
+2903	2911	Ukrainie	Ukraina	LOC	GPE-Ukraine
+2937	2944	Ukrainy	Ukraina	LOC	GPE-Ukraine
+3020	3025	Rosji	Rosja	LOC	GPE-Russia
+3079	3084	Rosji	Rosja	LOC	GPE-Russia
+3153	3171	inwazją na Ukrainę	inwazja na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+3325	3345	państwach zachodnich	państwa zachodnie	LOC	LOC-West
+3357	3362	Rosji	Rosja	LOC	GPE-Russia
+3668	3673	Rosji	Rosja	LOC	GPE-Russia
+3763	3768	Rosji	Rosja	LOC	GPE-Russia
+3934	3953	CYBERSEC FORUM/EXPO	CYBERSEC FORUM/EXPO	EVT	EVT- CYBERSEC-FORUM/EXPO
+3996	4012	MCK w Katowicach	MCK w Katowicach	LOC	LOC-MCK-w-Katowicach
+4465	4484	Instytut Kościuszki	Instytut Kościuszki	ORG	ORG-Instytut-Kościuszki
+4509	4528	CYBERSEC FORUM/EXPO	CYBERSEC FORUM/EXPO	EVT	EVT- CYBERSEC-FORUM/EXPO

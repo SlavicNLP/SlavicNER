@@ -1,0 +1,38 @@
+15	20	Тръмп	Тръмп	PER	PER-Donald-Trump
+60	72	американците	американци	PER	GPE-USA
+187	203	Съединените щати	Съединени щати	LOC	GPE-USA
+227	239	американците	американци	PER	GPE-USA
+371	381	пандемията	пандемия	EVT	EVT-Pandemic
+407	419	американците	американци	PER	GPE-USA
+468	474	Quartz	Quartz	PRO	PRO-Quartz
+522	527	Тръмп	Тръмп	PER	PER-Donald-Trump
+808	820	NPD BookScan	NPD BookScan	ORG	ORG-NPD-BookScan
+1021	1026	Тръмп	Тръмп	PER	PER-Donald-Trump
+1099	1112	Моята история	Моята история	PRO	PRO-Becoming
+1117	1128	Мишел Обама	Мишел Обама	PER	PER-MIchelle-Obama
+1203	1221	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+1249	1264	A Promised Land	A Promised Land	PRO	PRO-A-Promised-Land
+1344	1355	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+1427	1432	Тръмп	Тръмп	PER	PER-Donald-Trump
+1536	1539	САЩ	САЩ	LOC	GPE-USA
+1769	1772	САЩ	САЩ	LOC	GPE-USA
+1781	1793	NPD BookScan	NPD BookScan	ORG	ORG-NPD-BookScan
+1937	1948	Джеймс Коми	Джеймс Коми	PER	PER-James-Comey
+1950	1963	Андрю Маккейб	Андрю Маккейб	PER	PER-Andrew-McCabe
+1965	1981	Антъни Скарамучи	Антъни Скарамучи	PER	PER-Anthony-Scaramucci
+1983	2005	Омароса Маниголт Нюман	Омароса Маниголт Нюман	PER	PER-Omarosa-Manigault-Newman
+2007	2018	Джим Акоста	Джим Акоста	PER	PER-Jim-Acosta
+2020	2046	“Anonymous” (Майлс Тейлър)	“Anonymous” (Майлс Тейлър)	PER	PER-Miles-Taylor
+2048	2059	Джон Болтън	Джон Болтън	PER	PER-John-Bolton
+2061	2072	Боб Уудуорд	Боб Уудуорд	PER	PER-Bob-Woodward
+2074	2085	Майкъл Уолф	Майкъл Уолф	PER	PER-Michael-Wolf
+2088	2101	Мери Л. Тръмп	Мери Л. Тръмп	PER	PER-Mary-Trump
+2130	2135	Тръмп	Тръмп	PER	PER-Donald-Trump
+2273	2289	Simon & Schuster	Simon & Schuster	ORG	ORG-Simon&Schuster
+2523	2528	Тръмп	Тръмп	PER	PER-Donald-Trump
+2531	2540	Белия дом	Белия дом	LOC	LOC-White-House
+2701	2709	Guardian	Guardian	PRO	PRO-The-Guardian
+2716	2739	Записки за национализма	Записки за национализма	PRO	PRO-Notes-on-Nationalism
+2744	2756	Джордж Оруел	Джордж Оруел	PER	PER-George-Orwell
+2781	2816	Манифест на Комунистическата партия	Манифест на Комунистическата партия	PRO	PRO-Manifesto-of-the-Communist-Party
+2821	2831	Карл Маркс	Карл Маркс	PER	PER-Karl-Marx

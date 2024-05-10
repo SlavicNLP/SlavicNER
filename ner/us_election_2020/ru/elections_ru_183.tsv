@@ -1,0 +1,65 @@
+29	46	Владимир Абаринов	Владимир Абаринов	PER	PER-Vladimir-Abarinov
+48	57	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+103	118	Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+121	147	Демократической партий США	Демократическая партия США	ORG	ORG-Democratic-Party-USA
+199	211	Американская	американская	LOC	GPE-USA
+286	305	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+328	334	ЦИК РФ	ЦИК РФ	ORG	ORG-Central-Election-Commission-of-the-Russia
+335	343	Вешняков	Вешняков	PER	PER-Alexandr-Veshnyakov
+530	538	Вайоминг	Вайоминг	LOC	GPE-Wyoming
+769	778	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+876	888	американской	американская	LOC	GPE-USA
+1235	1239	Мэна	Мэн	LOC	GPE-Maine
+1242	1250	Небраски	Небраска	LOC	GPE-Nebraska
+1497	1506	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+1531	1539	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+1710	1713	США	США	LOC	GPE-USA
+1901	1913	Джорджу Бушу	Джордж Буш	PER	PER-George-Bush-Jr
+1930	1941	Джону Керри	Джон Керри	PER	PER-John-Kerry
+2130	2149	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2685	2697	американском	американский	LOC	GPE-USA
+2768	2771	США	США	LOC	GPE-USA
+2870	2878	Колумбия	Колумбия	LOC	GPE-Colombia
+2965	2969	Буша	Буш	PER	PER-George-Bush-Jr
+3018	3022	Гора	Гор	PER	PER-Al-Gore
+3104	3122	Западной Вирджинии	Западная Вирджиния	LOC	GPE-West-Virginia
+3225	3229	Буша	Буш	PER	PER-George-Bush-Jr
+3245	3250	Керри	Керри	PER	PER-John-Kerry
+3321	3324	Мэн	Мэн	LOC	GPE-Maine
+3419	3423	Бушу	Буш	PER	PER-George-Bush-Jr
+3440	3447	Америке	Америка	LOC	GPE-USA
+3586	3594	Колорадо	Колорадо	LOC	GPE-Colorado
+3731	3742	колорадские	колорадские	LOC	GPE-Colorado
+3773	3778	Бушем	Буш	PER	PER-George-Bush-Jr
+3781	3786	Керри	Керри	PER	PER-John-Kerry
+3872	3889	Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+3913	3924	колорадскую	колорадская	LOC	GPE-Colorado
+4091	4102	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+4106	4137	Палате представителей Конгресса	Палата представителей Конгресса	ORG	ORG-United-States-House-of-Representatives
+4172	4182	Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+4278	4291	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+4463	4470	Флорида	Флорида	LOC	GPE-Florida
+4473	4478	Огайо	Огайо	LOC	GPE-Ohio
+4693	4707	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+4746	4755	Демократы	демократы	PER	ORG-Democratic-Party-USA
+4897	4909	Джон Эдвардс	Джон Эдвардс	PER	PER-Johny-Edwards
+5230	5249	Верховного суда США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+5437	5441	Буша	Буш	PER	PER-George-Bush-Jr
+5507	5522	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+5523	5538	Уильям Ренквист	Уильям Ренквист	PER	PER-William-Rehnquist
+5735	5743	Ренквист	Ренквист	PER	PER-William-Rehnquist
+5845	5853	Ренквист	Ренквист	PER	PER-William-Rehnquist
+5940	5943	Гор	Гор	PER	PER-Al-Gore
+5951	5955	Буша	Буш	PER	PER-George-Bush-Jr
+6080	6109	Верховного суда штата Флорида	Верховный суд штата Флорида	ORG	ORG-Supreme-Court-of-Florida
+6123	6126	США	США	LOC	GPE-USA
+6135	6141	Эл Гор	Эл Гор	PER	PER-Al-Gore
+6181	6184	США	США	LOC	GPE-USA
+6328	6337	Белый дом	Белый дом	ORG	ORG-The-White-House
+6423	6434	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+6490	6498	Грани.Ру	Грани.Ру	PRO	PRO-Grani.Ru
+6554	6557	США	США	LOC	GPE-USA
+6879	6892	республиканец	республиканец	PER	ORG-Republican-Party-USA
+6893	6896	Буш	Буш	PER	PER-George-Bush-Jr
+6938	6946	демократ	демократ	PER	ORG-Democratic-Party-USA
+6947	6954	Эдвардс	Эдвардс	PER	PER-Johny-Edwards

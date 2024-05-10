@@ -1,0 +1,58 @@
+10	13	G20	G20	ORG	ORG-G20
+46	54	covid-19	covid-19	EVT	EVT-Covid-19
+114	117	G20	G20	ORG	ORG-G20
+206	225	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+399	407	covid-19	covid-19	EVT	EVT-Covid-19
+638	641	dpa	dpa	ORG	ORG-DPA
+661	674	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+775	784	covidu-19	covid-19	EVT	EVT-Covid-19
+954	958	Gavi	Gavi	ORG	ORG-Gavi
+1100	1108	Merklova	Merkel	PER	PER-Angela-Merkel
+1119	1122	G20	G20	ORG	ORG-G20
+1461	1476	Savdska Arabija	Savdska Arabija	LOC	GPE-Saudi-Arabia
+1788	1791	dpa	dpa	ORG	ORG-DPA
+1812	1815	G20	G20	ORG	ORG-G20
+1874	1883	covida-19	covid-19	EVT	EVT-Covid-19
+2269	2276	Salmana	Salman	PER	PER-Salman-of-Saudi-Arabia
+2352	2370	Giuseppeju Conteju	Giuseppe Conte	PER	PER-Giuseppe-Conte
+2488	2497	covida-19	covid-19	EVT	EVT-Covid-19
+2500	2506	Salman	Salman	PER	PER-Salman-of-Saudi-Arabia
+2860	2869	covidu-19	covid-19	EVT	EVT-Covid-19
+2926	2946	Recep Tayyip Erdogan	Recep Tayyip Erdogan	PER	PER-Recep-Tayyip-Erdoğan
+3070	3084	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+3103	3109	Rusija	Rusija	LOC	GPE-Russia
+3147	3156	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+3299	3309	Xi Jinping	Xi Jinping	PER	PER-Xi-Jinping
+3425	3434	covidu-19	covid-19	EVT	EVT-Covid-19
+3436	3444	Kitajska	Kitajska	LOC	GPE-China
+3580	3582	ZN	ZN	ORG	ORG-United-Nations
+3583	3599	Antonio Guterres	Antonio Guterres	PER	PER-Antonio-Guterres
+3628	3631	G20	G20	ORG	ORG-G20
+3675	3680	Covax	Covax	ORG	ORG-Covax
+3720	3729	covidu-19	covid-19	EVT	EVT-Covid-19
+3858	3866	Kitajska	Kitajska	LOC	GPE-China
+3879	3882	ZDA	ZDA	LOC	GPE-USA
+3901	3918	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+3919	3939	Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+3988	3991	G20	G20	ORG	ORG-G20
+4076	4079	G20	G20	ORG	ORG-G20
+4235	4244	Argentina	Argentina	LOC	GPE-Argentina
+4246	4256	Avstralija	Avstralija	LOC	GPE-Australia
+4258	4267	Brazilija	Brazilija	LOC	GPE-Brazil
+4269	4275	Kanada	Kanada	LOC	GPE-Canada
+4277	4285	Kitajska	Kitajska	LOC	GPE-China
+4287	4301	Evropska unija	Evropska unija	ORG	ORG-European-Union
+4303	4311	Francija	Francija	LOC	GPE-France
+4313	4320	Nemčija	Nemčija	LOC	GPE-Germany
+4322	4328	Indija	Indija	LOC	GPE-India
+4330	4340	Indonezija	Indonezija	LOC	GPE-Indonesia
+4342	4349	Italija	Italija	LOC	GPE-Italy
+4351	4359	Japonska	Japonsko	LOC	GPE-Japan
+4361	4367	Mehika	Mehika	LOC	GPE-Mexico
+4369	4375	Rusija	Rusija	LOC	GPE-Russia
+4377	4389	Južna Afrika	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+4391	4403	Južna Koreja	Južna Koreja	LOC	GPE-South-Korea
+4405	4420	Savdska Arabija	Savdska Arabija	LOC	GPE-Saudi-Arabia
+4422	4429	Turčija	Turčija	LOC	GPE-Turkey
+4431	4447	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+4451	4454	ZDA	ZDA	LOC	GPE-USA

@@ -1,0 +1,20 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+27	44	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+76	91	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+118	127	mPolska24	mPolska24	PRO	PRO-mPolska24
+129	144	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+184	199	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+243	251	Brexicie	Brexit	EVT	EVT-Brexit
+282	293	Theresy May	Theresa May	PER	PER-Theresa-May
+406	408	UE	UE	ORG	ORG-European-Union
+411	419	Londynem	Londyn	LOC	GPE-London
+505	522	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+525	542	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+638	646	Brukseli	Bruksela	LOC	GPE-Brussles
+676	685	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+765	781	Michela Barniera	Michel Barnier	PER	PER-Michel-Barnier
+975	990	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+1025	1048	Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1137	1139	UE	UE	ORG	ORG-European-Union
+1177	1179	UE	UE	ORG	ORG-European-Union
+1230	1247	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

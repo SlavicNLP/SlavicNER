@@ -1,0 +1,30 @@
+0	7	Francja	Francja	LOC	GPE-France
+38	45	Moderny	Moderna	ORG	ORG-Moderna
+127	134	Moderny	Moderna	ORG	ORG-Moderna
+160	166	BFM TV	BFM TV	PRO	PRO-BFM-TV
+203	206	HAS	HAS	ORG	ORG-Haute-Autorité-de-Santé-France
+208	228	Dominique Le Guludec	Dominique Le Guludec	PER	PER-Dominique-Le-Guludec
+325	336	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+339	361	Uniwersytet Oksfordzki	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+411	428	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+431	438	Francja	Francja	LOC	GPE-France
+519	531	radiu France	radio France	PRO	PRO-radio-France
+567	582	Arnaud Fontanet	Arnaud Fontanet	PER	PER-Arnaud-Fontanet
+676	683	Francji	Francja	LOC	GPE-France
+736	744	Covid-19	Covid-19	EVT	EVT-Covid-19
+803	812	Niemczech	Niemcy	LOC	GPE-Germany
+858	875	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+903	918	agencja Reutera	agencja Reutera	ORG	ORG-Reuters
+946	963	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1001	1008	Pfizera	Pfizer	ORG	ORG-Pfizer
+1009	1018	BioNTechu	BioNTech	ORG	ORG-BioNTech
+1068	1070	UE	UE	ORG	ORG-European-Union
+1124	1131	Moderna	Moderna	ORG	ORG-Moderna
+1156	1159	USA	USA	LOC	GPE-USA
+1162	1170	Kanadzie	Kanada	LOC	GPE-Canada
+1179	1186	Reuters	Reuters	ORG	ORG-Reuters
+1213	1220	Francji	Francja	LOC	GPE-France
+1258	1271	koronawirusem	koronawirus	EVT	EVT-Covid-19
+1300	1308	Covid-19	Covid-19	EVT	EVT-Covid-19
+1428	1436	Covid-19	Covid-19	EVT	EVT-Covid-19
+1492	1499	Francja	Francja	LOC	GPE-France

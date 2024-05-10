@@ -1,0 +1,50 @@
+19	26	brexitu	Brexit	EVT	EVT-Brexit
+36	53	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+56	73	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+192	207	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+223	227	Unii	Unia	ORG	ORG-European-Union
+308	310	UE	UE	ORG	ORG-European-Union
+384	401	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+429	433	Unii	Unia	ORG	ORG-European-Union
+536	542	Brexit	Brexit	EVT	EVT-Brexit
+600	617	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+716	720	Unii	Unia	ORG	ORG-European-Union
+891	895	Unia	Unia	ORG	ORG-European-Union
+903	918	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1018	1033	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+1179	1194	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1540	1544	Unii	Unia	ORG	ORG-European-Union
+1591	1606	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1938	1966	Światowej Organizacji Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization
+1989	2004	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2056	2063	Chinami	Chiny	LOC	GPE-China
+2068	2089	Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+2374	2391	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3035	3050	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3061	3065	Unii	Unia	ORG	ORG-European-Union
+3123	3140	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3156	3160	Unii	Unia	ORG	ORG-European-Union
+3875	3878	AEO	AEO	PRO	PRO-AEO-Authorised-Economic-Operator
+4152	4156	Unia	Unia	ORG	ORG-European-Union
+4159	4174	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4409	4413	Unii	Unia	ORG	ORG-European-Union
+4475	4492	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4496	4504	brexicie	Brexit	EVT	EVT-Brexit
+5113	5130	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+5145	5149	Unii	Unia	ORG	ORG-European-Union
+5256	5260	Unii	Unia	ORG	ORG-European-Union
+5307	5324	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+5519	5523	Unii	Unia	ORG	ORG-European-Union
+5525	5540	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+5597	5601	Unia	Unia	ORG	ORG-European-Union
+5676	5693	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+5928	5945	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+5948	5965	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+6487	6490	AEO	AEO	PRO	PRO-AEO-Authorised-Economic-Operator
+6901	6917	Zbigniew Sobecki	Zbigniew Sobecki	PER	PER-Zbigniew-Sobecki
+6937	6961	zespole ds. cła i akcyzy	Zespół ds. cła i akcyzy	ORG	ORG-KPMG-Customs-and-Excise-Team
+6964	6968	KPMG	KPMG	ORG	ORG-KPMG
+6971	6977	Polsce	Polska	LOC	GPE-Poland
+7026	7030	Unii	Unia	ORG	ORG-European-Union
+7046	7063	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+7099	7107	brexicie	Brexit	EVT	EVT-Brexit

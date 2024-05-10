@@ -1,0 +1,17 @@
+2	8	Швеции	Швеция	LOC	GPE-Sweden
+48	55	Ryanair	Ryanair	ORG	ORG-Ryanair
+65	71	REGNUM	REGNUM	ORG	ORG-REGNUM-News-Agency
+108	110	ЕС	ЕС	ORG	ORG-European-Union
+122	129	Ryanair	Ryanair	ORG	ORG-Ryanair
+175	182	Скавста	Скавста	LOC	LOC-Skavsta-Airport-Stockholm
+198	204	Швеции	Швеция	LOC	GPE-Sweden
+278	297	аэропорт Стокгольма	аэропорт Стокгольма	LOC	LOC-Skavsta-Airport-Stockholm
+438	444	Парижа	Париж	LOC	GPE-Paris
+446	453	Кракова	Краков	LOC	GPE-Kraków
+455	462	Варшавы	Варшава	LOC	GPE-Warsaw
+464	471	Лондона	Лондон	LOC	GPE-London
+473	482	Барселоны	Барселона	LOC	GPE-Barcelona
+485	493	Брюсселя	Брюссель	LOC	GPE-Brussles
+534	540	REGNUM	REGNUM	ORG	ORG-REGNUM-News-Agency
+579	593	Air France-KLM	Air France-KLM	ORG	ORG-Air-France
+789	803	Air France-KLM	Air France-KLM	ORG	ORG-Air-France

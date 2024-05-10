@@ -1,0 +1,16 @@
+0	5	Rusko	Rusko	LOC	GPE-Russia
+13	19	Evropě	Evropa	LOC	LOC-Europe
+57	62	Česko	Česko	LOC	GPE-Czech-Republic
+139	147	Rakousko	Rakousko	LOC	GPE-Austria
+220	239	Hans Jörg Schelling	Hans Jörg Schelling	PER	PER-Hans-Jorg-Schelling
+393	400	Gazprom	Gazprom	ORG	ORG-Gazprom
+402	411	Schelling	Schelling	PER	PER-Hans-Jorg-Schelling
+448	461	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+464	469	Ruska	Rusko	LOC	GPE-Russia
+473	479	Evropy	Evropa	LOC	LOC-Europe
+539	556	Gerhard Schr öder	Gerhard Schröder	PER	PER-Gerhard-Fritz-Kurt-Schröder
+598	605	Gazprom	Gazprom	ORG	ORG-Gazprom
+652	663	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+720	729	Schr öder	Schröder	PER	PER-Gerhard-Fritz-Kurt-Schröder
+775	780	Ruska	Rusko	LOC	GPE-Russia
+1057	1064	Německu	Německo	LOC	GPE-Germany

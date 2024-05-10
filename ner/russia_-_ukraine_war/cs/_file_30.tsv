@@ -1,0 +1,22 @@
+0	3	USA	USA	LOC	GPE-USA
+34	43	Bělorusku	Bělorusko	LOC	GPE-Belarus
+96	109	jihu Ukrajiny	jih Ukrajiny	LOC	LOC-South-of-Ukraine
+213	216	OSN	OSN	ORG	ORG-United-Nations
+385	390	Rusko	Rusko	LOC	GPE-Russia
+483	500	válka na Ukrajině	válka na Ukrajině	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+530	544	Antony Blinken	Antony Blinken	PER	PER-Antony-Blinken
+569	589	Rady bezpečnosti OSN	Rada bezpečnosti OSN	ORG	ORG-UN-Security-Council
+600	606	Moskva	Moskva	LOC	GPE-Moscow
+640	648	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+788	791	OSN	OSN	ORG	ORG-United-Nations
+840	849	Bělorusko	Bělorusko	LOC	GPE-Belarus
+873	881	Klajpeda	Klajpeda	LOC	GPE-Klaipeda
+918	937	Alexandra Lukašenka	Alexandr Lukašenko	PER	PER-Alexander-Lukashenko
+1106	1109	USA	USA	LOC	GPE-USA
+1112	1125	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1326	1338	Evroské unie	Evropská unie	ORG	ORG-European-Union
+1341	1350	Běloruska	Bělorusko	LOC	GPE-Belarus
+1371	1380	Běloruska	Bělorusko	LOC	GPE-Belarus
+1390	1408	invazi na Ukrajinu	invaze na Ukrajinu	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1543	1546	WSJ	WSJ	PRO	PRO-Wall-Street-Journal
+1556	1559	OSN	OSN	ORG	ORG-United-Nations

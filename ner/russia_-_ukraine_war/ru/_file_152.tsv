@@ -1,0 +1,31 @@
+33	39	России	Россия	LOC	GPE-Russia
+74	81	Газпром	Газпром	ORG	ORG-Gazprom
+126	132	Польшу	Польша	LOC	GPE-Poland
+157	168	Ямал-Европа	Ямал-Европа	PRO	PRO-Yamal–Europe-pipeline
+196	207	EuRoPol GAZ	EuRoPol GAZ	ORG	ORG-EuRoPol-Gaz
+277	283	России	Россия	LOC	GPE-Russia
+403	415	Газпромбанке	Газпромбанк	ORG	ORG-Gazprombank
+586	592	России	Россия	LOC	GPE-Russia
+685	723	Международном энергетическом агентстве	Международное энергетическое агентство	ORG	ORG-International-Energy-Agency
+743	749	России	Россия	LOC	GPE-Russia
+844	850	Лукойл	Лукойл	ORG	ORG-Lukoil
+892	902	Шелл нефть	Шелл нефть	ORG	ORG-Shell-plc-Russia
+943	948	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+976	982	России	Россия	LOC	GPE-Russia
+1015	1031	Тверской области	Тверская область	LOC	GPE-Tver-region
+1041	1050	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1100	1106	России	Россия	LOC	GPE-Russia
+1171	1178	Sputnik	Sputnik	PRO	PRO-Sputnik
+1224	1234	Арикапитал	Арикапитал	ORG	ORG-Aricapital
+1236	1250	Сергей Суверов	Сергей Суверов	PER	PER-Sergey-Suverov
+1273	1296	Европейского союза (ЕС)	Европейский союз (ЕС)	ORG	ORG-European-Union
+1361	1367	России	Россия	LOC	GPE-Russia
+1383	1392	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+1569	1576	Венгрия	Венгрия	LOC	GPE-Hungary
+1699	1706	Sputnik	Sputnik	PRO	PRO-Sputnik
+1752	1762	Арикапитал	Арикапитал	ORG	ORG-Aricapital
+1764	1778	Сергей Суверов	Сергей Суверов	PER	PER-Sergey-Suverov
+1857	1864	Венгрии	Венгрия	LOC	GPE-Hungary
+1968	1974	России	Россия	LOC	GPE-Russia
+2037	2043	Европе	Европа	LOC	LOC-Europe
+2113	2121	Телеграм	Телеграм	PRO	PRO-Telegram

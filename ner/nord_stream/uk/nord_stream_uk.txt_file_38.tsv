@@ -1,0 +1,46 @@
+6	15	Швейцарії	Швейцарія	LOC	GPE-Switzerland
+39	47	Газпрому	Газпром	ORG	ORG-Gazprom
+49	84	Вищий суд швейцарського кантону Цуг	Вищий суд швейцарського кантону Цуг	ORG	ORG-Supreme-Court-Canton-Zug
+106	120	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+124	140	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+160	167	Газпром	Газпром	ORG	ORG-Gazprom
+253	275	"НАК ""Нафтогаз України"""	"НАК ""Нафтогаз України"""	ORG	ORG-Naftogaz
+452	466	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+470	486	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+536	539	Цуг	Цуг	LOC	GPE-Zug
+729	740	Вищим судом	Вищий суд	ORG	ORG-Supreme-Court-Switzerland
+742	749	Газпром	Газпром	ORG	ORG-Gazprom
+795	809	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+813	829	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+908	911	Цуг	Цуг	LOC	GPE-Zug
+926	935	Нафтогазі	Нафтогаз	ORG	ORG-Naftogaz
+1080	1089	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+1098	1126	а пеляційний суд округу Свеа	Апеляційний суд округу Свеа	ORG	ORG-Svea-Court-of-Appeal
+1155	1162	Газпром	Газпром	ORG	ORG-Gazprom
+1213	1238	Стокгольмського арбітражу	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+1255	1264	Газпромом	Газпром	ORG	ORG-Gazprom
+1269	1279	Нафтогазом	Нафтогаз	ORG	ORG-Naftogaz
+1324	1333	Швейцарії	Швейцарія	LOC	GPE-Switzerland
+1424	1439	Північний потік	Північний потік	ORG	ORG-Nord-Stream-AG
+1444	1459	Північний потік	Північний потік	ORG	ORG-Nord-Stream-AG
+1467	1481	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+1484	1500	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+1574	1581	Газпром	Газпром	ORG	ORG-Gazprom
+1683	1692	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+1768	1776	Газпрому	Газпром	ORG	ORG-Gazprom
+1790	1799	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+1822	1847	Стокгольмського арбітражу	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+1898	1921	Стокгольмський арбітраж	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+1940	1949	Газпромом	Газпром	ORG	ORG-Gazprom
+1952	1961	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+2081	2088	Газпром	Газпром	ORG	ORG-Gazprom
+2113	2116	НАК	НАК	ORG	ORG-Naftogaz
+2137	2144	Газпром	Газпром	ORG	ORG-Gazprom
+2254	2257	НАК	НАК	ORG	ORG-Naftogaz
+2267	2280	Юрій Вітренко	Юрій Вітренко	PER	PER-Yuriy-Vitrenko
+2445	2451	Європи	Європа	LOC	LOC-Europe
+2473	2488	Північний потік	Північний потік	ORG	ORG-Nord-Stream-AG
+2599	2616	Українська правда	Українська правда	PRO	PRO-Ukrainian-Pravda
+2714	2733	«Українську правду»	Українська правда	PRO	PRO-Ukrainian-Pravda
+2835	2854	«Iнтерфакс-Україна»	Інтерфакс-Україна	ORG	ORG-Interfax-Ukraine
+2962	2981	«Українські Новини»	Українські Новини	ORG	ORG-Ukrainian-News

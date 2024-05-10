@@ -1,0 +1,25 @@
+0	12	Вибори у США	Вибори у США	EVT	EVT-2020-United-States-Presidential-Election
+14	20	Байден	Байден	PER	PER-Joe-Biden
+39	45	Трампа	Трамп	PER	PER-Donald-Trump
+129	132	США	США	LOC	GPE-USA
+137	157	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+158	168	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+237	252	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+295	302	Reuters	Reuters	ORG	ORG-Reuters
+303	313	Poll Ipsos	Poll Ipsos	ORG	ORG-Ipsos-Group-S.A.
+327	345	Європейська правда	Європейська правда	ORG	PRO-European-Truth
+472	479	Байдена	Байден	PER	PER-Joe-Biden
+515	521	Трампа	Трамп	PER	PER-Donald-Trump
+610	617	Байдена	Байден	PER	PER-Joe-Biden
+622	627	Трамп	Трамп	PER	PER-Donald-Trump
+820	826	Байден	Байден	PER	PER-Joe-Biden
+986	1004	Колегію вибірників	Колегія вибірників	ORG	ORG-United-States-Electoral-College
+1064	1069	Трамп	Трамп	PER	PER-Donald-Trump
+1100	1106	Байден	Байден	PER	PER-Joe-Biden
+1328	1333	Трамп	Трамп	PER	PER-Donald-Trump
+1451	1456	Трамп	Трамп	PER	PER-Donald-Trump
+1615	1621	Трампа	Трамп	PER	PER-Donald-Trump
+1625	1642	пандемію COVID-19	пандемія COVID-19	EVT	EVT-Covid-19
+1794	1827	президентської кампанії 2020 року	президентська кампанія 2020 року	EVT	EVT-2020-United-States-Presidential-Election
+1956	1976	президентські дебати	президентські дебати	EVT	EVT-2020-United-States-Presidential-Debates
+2009	2014	Трамп	Трамп	PER	PER-Donald-Trump

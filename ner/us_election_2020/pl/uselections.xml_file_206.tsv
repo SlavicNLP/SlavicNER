@@ -1,0 +1,59 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+69	82	New Hampshire	New Hampshire	LOC	GPE-New-Hampshire
+112	122	Millsfield	Millsfield	LOC	LOC-Millsfield
+152	164	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+293	308	Hart's Location	Hart's Location	LOC	GPE-Harts-Location
+451	464	wyborów w USA	wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+781	789	Pinellas	Pinellas	LOC	GPE-Pinellas
+793	802	Florydzie	Floryda	LOC	GPE-Florida
+885	895	Amerykanie	Amerykanie	PER	GPE-USA
+925	931	Senatu	Senat	ORG	ORG-United-States-Senate
+948	967	Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+1048	1067	Izbą Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+1074	1084	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1132	1139	Senatem	Senat	ORG	ORG-United-States-Senate
+1170	1182	Republikanie	Republikanie	ORG	ORG-Republican-Party-USA
+1221	1240	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1243	1254	Południowej	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+1258	1265	Georgii	Georgie	LOC	GPE-Georgia-US-state
+1267	1275	Arizonie	Arizona	LOC	GPE-Arizona
+1277	1285	Colorado	Colorado	LOC	GPE-Colorado
+1288	1296	Montanie	Montana	LOC	GPE-Montana-US-State
+1731	1753	Kolegium Elektorskiego	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+2005	2013	Nebraska	Nebraska	LOC	GPE-Nebraska
+2016	2021	Maine	Maine	LOC	GPE-Maine
+2105	2113	Nebrasce	Nebraska	LOC	GPE-Nebraska
+2120	2125	Maine	Maine	LOC	GPE-Maine
+2268	2278	Kalifornia	Kalifornia	LOC	GPE-California
+2290	2295	Idaho	Idaho	LOC	GPE-Idaho
+2444	2447	USA	USA	LOC	GPE-USA
+2448	2460	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2695	2704	Nowy Jork	Nowy Jork	LOC	GPE-New-York
+2716	2726	Demokratom	Demokraci	ORG	ORG-Democratic-Party-USA
+2730	2749	Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+2752	2764	Republikanom	Republikanie	ORG	ORG-Republican-Party-USA
+2871	2878	Floryda	Floryda	LOC	GPE-Florida
+2880	2891	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+2893	2901	Michigan	Michigan	LOC	GPE-Michigan
+2903	2912	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+2914	2931	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+2933	2937	Iowa	Iowa	LOC	GPE-Iowa
+2943	2950	Arizona	Arizona	LOC	GPE-Arizona
+2963	2970	Georgia	Georgia	LOC	GPE-Georgia-US-state
+2972	2978	Teksas	Teksas	LOC	GPE-Texas
+2984	2988	Ohio	Ohio	LOC	GPE-Ohio
+3224	3251	wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+3332	3343	Polsat News	Polsat News	PRO	PRO-Polsat-News
+3368	3383	Ameryka Wybiera	Ameryka Wybiera	PRO	PRO-Ameryka-Wybiera
+3404	3423	Agnieszka Laskowska	Agnieszka Laskowska	PER	PER-Agnieszka-Laskowska
+3426	3441	Marta Budzyńska	Marta Budzyńska	PER	PER-Marta-Budzyńska
+3481	3483	RP	RP	LOC	GPE-Poland
+3484	3506	Aleksander Kwaśniewski	Aleksander Kwaśniewski	PER	PER-Aleksander-Kwaśniewski
+3528	3531	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+3532	3552	Witold Waszczykowski	Witold Waszczykowski	PER	PER-Witold-Waszczykowski
+3558	3570	Daniel Fried	Daniel Fried	PER	PER-Daniel-Fried
+3587	3590	USA	USA	LOC	GPE-USA
+3593	3599	Polsce	Polska	LOC	GPE-Poland
+3660	3671	Polsat News	Polsat News	PRO	PRO-Polsat-News
+3674	3695	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+3698	3712	Magda Sakowska	Magda Sakowska	PER	PER-Magda-Sakowska

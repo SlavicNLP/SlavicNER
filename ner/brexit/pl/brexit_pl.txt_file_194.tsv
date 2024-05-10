@@ -1,0 +1,34 @@
+0	15	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+62	72	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+76	84	Brexicie	Brexit	EVT	EVT-Brexit
+152	176	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+177	192	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+246	254	Brexicie	Brexit	EVT	EVT-Brexit
+428	443	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+597	636	Europejskiego Trybunału Sprawiedliwości	Europejski Trybunał Sprawiedliwości	ORG	ORG-European-Court-of-Justice
+681	692	Theresy May	Theresa May	PER	PER-Theresa-May
+715	723	Brukseli	Bruksela	LOC	GPE-Brussles
+789	812	parlamentu brytyjskiego	Parlament Brytyjski	ORG	ORG-British-Parlament
+836	844	Brexicie	Brexit	EVT	EVT-Brexit
+845	860	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+893	897	Unii	Unia	ORG	ORG-European-Union
+960	967	torysów	torysi	PER	ORG-Tories
+1056	1060	Unii	Unia	ORG	ORG-European-Union
+1103	1114	Independent	Independent	PRO	PRO-The-Independent
+1151	1162	Theresy May	Theresa May	PER	PER-Theresa-May
+1317	1334	Philippe Lamberts	Philippe Lamberts	PER	PER-Philippe-Lamberts
+1350	1365	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1467	1471	Unii	Unia	ORG	ORG-European-Union
+1549	1564	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1723	1762	Europejskiego Trybunału Sprawiedliwości	Europejski Trybunał Sprawiedliwości	ORG	ORG-European-Court-of-Justice
+1776	1797	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1911	1930	Radzie Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1991	1999	Norwegii	Norwegia	LOC	GPE-Norway
+2002	2019	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2021	2029	Lamberts	Lamberts	PER	PER-Philippe-Lamberts
+2141	2149	Brukseli	Bruksela	LOC	GPE-Brussles
+2155	2167	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2178	2184	Brexit	Brexit	EVT	EVT-Brexit
+2276	2291	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2322	2326	Unii	Unia	ORG	ORG-European-Union
+2443	2460	Philippe Lamberts	Philippe Lamberts	PER	PER-Philippe-Lamberts

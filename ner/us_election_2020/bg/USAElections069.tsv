@@ -1,0 +1,25 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+61	73	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+108	122	републиканците	републиканци	PER	ORG-Republican-Party-USA
+139	142	САЩ	САЩ	LOC	GPE-USA
+191	197	Шарлът	Шарлът	LOC	GPE-Charlotte
+204	220	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+381	390	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+587	598	демократите	демократи	PER	ORG-Democratic-Party-USA
+659	684	пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Pandemic
+728	733	Тръмп	Тръмп	PER	PER-Donald-Trump
+849	872	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+940	949	демократи	демократи	PER	ORG-Democratic-Party-USA
+965	1000	Конгреса на Демократическата партия	Конгрес на Демократическата партия	EVT	EVT-Democratic-Party-Congress-USA
+1045	1052	Америка	Америка	LOC	GPE-USA
+1142	1177	конгреса на Демократическата партия	Конгрес на Демократическата партия	EVT	EVT-Democratic-Party-Congress-USA
+1196	1206	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1362	1378	Съединените щати	Съединени щати	LOC	GPE-USA
+1457	1467	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1484	1491	Делауер	Делауер	LOC	GPE-Delaware
+1536	1547	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+1581	1593	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+1596	1627	Конференцията на републиканците	Конференция на републиканците	EVT	EVT-Republican-Party-Conference
+1657	1666	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1909	1921	американците	американци	PER	GPE-USA
+1964	1976	американците	американци	PER	GPE-USA

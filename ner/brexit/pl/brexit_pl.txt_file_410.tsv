@@ -1,0 +1,13 @@
+0	10	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+22	28	Merkel	Merkel	PER	PER-Angela-Merkel
+70	72	UE	UE	ORG	ORG-European-Union
+97	110	Angeli Merkel	Angela Merkel	PER	PER-Angela-Merkel
+250	252	UE	UE	ORG	ORG-European-Union
+289	307	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+573	580	Niemiec	Niemcy	LOC	GPE-Germany
+581	594	Angelą Merkel	Angela Merkel	PER	PER-Angela-Merkel
+905	911	Polska	Polska	LOC	GPE-Poland
+1019	1027	Brexitem	Brexit	EVT	EVT-Brexit
+1054	1069	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1216	1218	UE	UE	ORG	ORG-European-Union
+1219	1243	wspólnej polityki rolnej	Wspólna Polityka Rolna	PRO	PRO-CAP-Common-Agricultural-Policy

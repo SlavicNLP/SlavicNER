@@ -1,0 +1,48 @@
+0	6	Londyn	Londyn	LOC	GPE-London
+37	44	brexitu	Brexit	EVT	EVT-Brexit
+95	103	Londynie	Londyn	LOC	GPE-London
+124	137	People's Vote	People's Vote	ORG	ORG-Peoples-Vote
+139	148	Głos Ludu	Głos Ludu	ORG	ORG-Peoples-Vote
+198	205	brexitu	Brexit	EVT	EVT-Brexit
+208	229	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+231	243	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+246	255	Liberałów	Liberałowie	ORG	ORG-Labour-Party-UK
+314	321	Brexitu	Brexit	EVT	EVT-Brexit
+337	343	brexit	Brexit	EVT	EVT-Brexit
+370	376	Brexit	Brexit	EVT	EVT-Brexit
+411	423	The Guardian	The Guardian	PRO	PRO-The-Guardian
+502	511	Liberałów	Liberałowie	ORG	ORG-Labour-Party-UK
+512	523	Vince Cable	Vince Cable	PER	PER-Vince-Cable
+530	538	Sky News	Sky News	PRO	PRO-Sky-News-TV
+796	807	Gina Miller	Gina Miller	PER	PER-Gina-Miller
+854	860	Miller	Miller	PER	PER-Gina-Miller
+927	938	Theresy May	Theresa May	PER	PER-Theresa-May
+970	977	Brexitu	Brexit	EVT	EVT-Brexit
+1014	1021	Londynu	Londyn	LOC	GPE-London
+1043	1049	Londyn	Londyn	LOC	GPE-London
+1069	1078	Brexitowi	Brexit	EVT	EVT-Brexit
+1103	1115	MetTaskforce	MetTaskforce	ORG	ORG-MetTaskforce
+1116	1142	Metropolitan Police London	Metropolitan Police London	ORG	ORG-Metropolitan-Police-London
+1153	1161	Londynie	Londyn	LOC	GPE-London
+1236	1244	Londynie	Londyn	LOC	GPE-London
+1394	1401	Brexitu	Brexit	EVT	EVT-Brexit
+1469	1476	Brexitu	Brexit	EVT	EVT-Brexit
+1488	1491	BBC	BBC	PRO	PRO-BBC
+1593	1597	Unii	Unia	ORG	ORG-European-Union
+1748	1757	Jerusalem	Jerusalem	PRO	PRO-title-Jerusalem
+1759	1776	Huberta Parry'ego	Hubert Parry	PER	PER-Hubert-Parry
+1783	1797	Rule Brittania	Rule Brittania	PRO	PRO-Rule-Brittania
+1808	1815	Brexitu	Brexit	EVT	EVT-Brexit
+1883	1891	Londynie	Londyn	LOC	GPE-London
+1908	1915	brexitu	Brexit	EVT	EVT-Brexit
+1948	1954	Turcja	Turcja	LOC	GPE-Turkey
+2027	2035	Erdoğana	Erdoğan	PER	PER-Recep-Tayyip-Erdoğan
+2317	2324	Brexitu	Brexit	EVT	EVT-Brexit
+2326	2332	Trumpa	Trump	PER	PER-Donald-Trump
+2334	2340	Putina	Putin	PER	PER-Vladimir-Putin
+2342	2348	Orbana	Orban	PER	PER-Viktor-Orban
+2350	2358	Pokurcza	Pokurcz	PER	PER-Pokurcz
+2492	2500	Bruksela	Bruksela	LOC	GPE-Brussles
+2602	2605	KOD	KOD	ORG	ORG-KOD-Poland
+2686	2692	Włochy	Włochy	LOC	GPE-Italy
+2742	2749	Anglicy	Anglicy	PER	GPE-Great-Britain

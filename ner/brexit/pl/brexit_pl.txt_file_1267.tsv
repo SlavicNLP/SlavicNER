@@ -1,0 +1,86 @@
+0	10	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+49	58	Junckerem	Juncker	PER	PER-Jean-Claude-Juncker
+60	78	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+166	173	Szwecji	Szwecja	LOC	GPE-Sweden
+174	192	Stefanem Loefvenem	Stefan Loefven	PER	PER-Stefan-Loefven
+256	276	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+285	318	Kancelarii Prezesa Rady Ministrów	Kancelaria Prezesa Rady Ministrów	ORG	ORG-Office-of-the-Prime-Minister-Poland
+369	389	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+390	414	Jean-Claude'em Junckerem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+433	438	Łotwy	Łotwa	LOC	GPE-Latvia
+440	447	Estonii	Estonia	LOC	GPE-Estonia
+462	467	Litwy	Litwa	LOC	GPE-Lithuania
+491	504	Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+507	516	Junckerem	Juncker	PER	PER-Jean-Claude-Juncker
+535	538	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+539	556	Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+617	619	KE	KE	ORG	ORG-European-Commission
+652	658	Polsce	Polska	LOC	GPE-Poland
+759	799	The Brussels Summit: A Future for Europe	The Brussels Summit: A Future for Europe	EVT	EVT-The-Brussels-Summit-A-Future-for-Europe
+821	870	Sojusz Europejskich Konserwatystów i Reformatorów	Sojusz Europejskich Konserwatystów i Reformatorów	ORG	ORG-AECR-Alliance-of-European-Conservatives-and-Reformists
+1042	1049	brexitu	Brexit	EVT	EVT-Brexit
+1117	1134	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1137	1154	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1156	1174	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+1177	1192	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1333	1350	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1351	1362	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1406	1408	27	27	ORG	ORG-European-Union
+1467	1475	brexicie	Brexit	EVT	EVT-Brexit
+1533	1549	Konrad Szymański	Konrad Szymański	PER	PER-Konrad-Szymański
+1677	1685	Irlandii	Irlandia	LOC	GPE-Ireland
+1789	1795	Polski	Polska	LOC	GPE-Poland
+1804	1821	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2058	2061	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+2063	2072	Szymański	Szymański	PER	PER-Konrad-Szymański
+2088	2094	Polsce	Polska	LOC	GPE-Poland
+2518	2535	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2538	2540	UE	UE	ORG	ORG-European-Union
+3075	3083	Irlandią	Irlandia	LOC	GPE-Ireland
+3086	3103	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+3136	3179	Trybunału Sprawiedliwości Unii Europejskiej	Trybunał Sprawiedliwości Unii Europejskiej	ORG	ORG-European-Court-of-Justice
+3309	3312	USA	USA	LOC	GPE-USA
+3346	3355	Szymański	Szymański	PER	PER-Konrad-Szymański
+3367	3369	UE	UE	ORG	ORG-European-Union
+3558	3560	UE	UE	ORG	ORG-European-Union
+3561	3564	USA	USA	LOC	GPE-USA
+3623	3631	Skripala	Skripal	PER	PER-Siergiej-Skripal
+3741	3743	UE	UE	ORG	ORG-European-Union
+3788	3797	Salisbury	Salisbury	LOC	GPE-Salisbury
+3824	3854	Głównego Zarządu Wywiadowczego	Główny Zarząd Wywiadowczy	ORG	ORG-GRU-(Russian-GU)
+3856	3859	GRU	GRU	ORG	ORG-GRU-(Russian-GU)
+3907	3925	Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+3945	3960	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3969	3974	Rosję	Rosja	LOC	GPE-Russia
+4065	4070	Rosja	Rosja	LOC	GPE-Russia
+4139	4148	Warszawie	Warszawa	LOC	GPE-Warsaw
+4180	4198	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+4215	4222	Niemiec	Niemcy	LOC	GPE-Germany
+4223	4236	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+4253	4268	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+4328	4336	Skripala	Skripal	PER	PER-Siergiej-Skripal
+4351	4360	Szymański	Szymański	PER	PER-Konrad-Szymański
+4434	4440	Merkel	Merkel	PER	PER-Angela-Merkel
+4452	4465	Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+4557	4574	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4656	4658	UE	UE	ORG	ORG-European-Union
+4661	4665	NATO	NATO	ORG	ORG-NATO
+4721	4724	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+4746	4755	Junckerem	Juncker	PER	PER-Jean-Claude-Juncker
+4778	4791	Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+4794	4803	Junckerem	Juncker	PER	PER-Jean-Claude-Juncker
+4848	4854	Polsce	Polska	LOC	GPE-Poland
+4876	4878	KE	KE	ORG	ORG-European-Commission
+4885	4891	Polski	Polska	LOC	GPE-Poland
+5000	5020	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+5047	5049	KE	KE	ORG	ORG-European-Commission
+5076	5083	Komisji	Komisja	ORG	ORG-European-Commission
+5193	5215	Polska Agencja Prasowa	Polska Agencja Prasowa	ORG	ORG-PAP-Polish-Press-Agency
+5356	5358	KE	KE	ORG	ORG-European-Commission
+5423	5434	Czaputowicz	Czaputowicz	PER	PER-Jacek-Czaputowicz
+5541	5544	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+5681	5688	Komisją	Komisja	ORG	ORG-European-Commission
+5750	5759	Szymański	Szymański	PER	PER-Konrad-Szymański
+5791	5813	Mateusza Morawieckiego	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+6004	6008	Rady	Rada	ORG	ORG-European-Council
+6159	6162	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland

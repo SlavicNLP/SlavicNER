@@ -1,0 +1,14 @@
+18	25	Брекзит	Брекзит	EVT	EVT-Brexit
+110	124	Великобритания	Великобритания	LOC	GPE-Great-Britain
+230	251	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+272	284	Лио Варадкар	Лио Варадкар	PER	PER-Leo-Varadkar
+297	304	Reuters	Reuters	ORG	ORG-Reuters
+306	314	Варадкар	Варадкар	PER	PER-Leo-Varadkar
+420	422	ЕП	ЕП	ORG	ORG-European-Parliament
+425	434	Страсбург	Страсбург	LOC	GPE-Strasbourg
+493	517	Партията за независимост	Партия за независимост	ORG	ORG-UK-Independence-Party
+543	547	ЮКИП	ЮКИП	ORG	ORG-UK-Independence-Party
+549	562	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+623	633	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+675	677	ЕС	ЕС	ORG	ORG-European-Union
+715	729	Великобритания	Великобритания	LOC	GPE-Great-Britain

@@ -1,0 +1,17 @@
+24	31	Izraela	Izrael	LOC	GPE-Israel
+48	56	Covid-19	Covid-19	EVT	EVT-Covid-19
+268	275	Bahrajn	Bahrajn	LOC	GPE-Kingdom-of-Bahrain
+399	406	Chinach	Chiny	LOC	GPE-China
+420	423	USA	USA	LOC	GPE-USA
+441	458	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+461	468	Izraelu	Izrael	LOC	GPE-Israel
+483	490	Europie	Europa	LOC	LOC-Europe
+529	536	Francja	Francja	LOC	GPE-France
+598	601	BBC	BBC	PRO	PRO-BBC
+924	930	Pfizer	Pfizer	ORG	ORG-Pfizer
+931	939	BioNTech	BioNTech	ORG	ORG-BioNTech
+1027	1042	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1105	1113	Coventry	Coventry	LOC	GPE-Coventry
+1131	1146	Margaret Keenan	Margaret Keenan	PER	PER-Margaret-Keenan
+1340	1357	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1551	1563	koronawirusa	koronawirus	EVT	EVT-Covid-19

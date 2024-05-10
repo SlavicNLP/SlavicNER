@@ -1,0 +1,38 @@
+2	8	Кремле	Кремль	ORG	ORG-Kremlin
+43	50	Лондона	Лондон	LOC	GPE-London
+66	74	Джонсона	Джонсон	PER	PER-Boris-Johnson
+88	100	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+107	119	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+200	214	Великобритании	Великобритания	LOC	GPE-Great-Britain
+215	221	Москва	Москва	LOC	GPE-Moscow
+264	271	Лондона	Лондон	LOC	GPE-London
+287	294	Россией	Россия	LOC	GPE-Russia
+318	322	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+360	362	РФ	РФ	LOC	GPE-Russia
+363	377	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+545	552	Россией	Россия	LOC	GPE-Russia
+578	593	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+711	717	Песков	Песков	PER	PER-Dmitry-Peskov
+757	771	Великобритании	Великобритания	LOC	GPE-Great-Britain
+810	816	Кремля	Кремль	ORG	ORG-Kremlin
+860	866	России	Россия	LOC	GPE-Russia
+867	883	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+956	963	TRUD.RU	TRUD.RU	PRO	PRO-Trud-ru
+1015	1022	TRUD.RU	TRUD.RU	PRO	PRO-Trud-ru
+1050	1094	внешнеполитического ведомства Великобритании	внешнеполитическое ведомство Великобритании	ORG	ORG-Foreign-Office
+1135	1147	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+1149	1162	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1235	1249	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1253	1255	ЕС	ЕС	ORG	ORG-European-Union
+1256	1267	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1320	1345	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+1346	1357	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+1376	1400	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+1404	1422	Европейского союза	Европейский союз	ORG	ORG-European-Union
+1424	1431	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1478	1487	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1497	1503	Brexit	Brexit	EVT	EVT-Brexit
+1507	1510	Мэй	Мэй	PER	PER-Theresa-May
+1543	1545	ЕС	ЕС	ORG	ORG-European-Union
+1588	1594	Лондон	Лондон	LOC	GPE-London
+1605	1613	Брюсселю	Брюссель	LOC	GPE-Brussles

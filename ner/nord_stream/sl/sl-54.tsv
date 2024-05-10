@@ -1,0 +1,59 @@
+0	8	Merklova	Merkel	PER	PER-Angela-Merkel
+12	17	Putin	Putin	PER	PER-Vladimir-Putin
+59	65	Siriji	Sirija	LOC	GPE-Syria
+79	87	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+106	120	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+152	158	Berlin	Berlin	LOC	GPE-Berlin
+197	210	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+230	244	gradu Meseberg	grad Meseberg	LOC	GPE-Schloss-Meseberg
+256	263	Berlina	Berlin	LOC	GPE-Berlin
+312	318	Siriji	Sirija	LOC	GPE-Syria
+325	340	vzhodu Ukrajine	vzhod Ukrajine	LOC	LOC-East-Ukraine
+342	350	Merklova	Merkel	PER	PER-Angela-Merkel
+400	405	Putin	Putin	PER	PER-Vladimir-Putin
+526	529	dpa	dpa	ORG	ORG-DPA
+530	536	Evropo	Evropa	LOC	LOC-Europe
+564	570	Sirije	Sirija	LOC	GPE-Syria
+852	858	Evrope	Evropa	LOC	LOC-Europe
+905	914	Jordanije	Jordanija	LOC	GPE-Jordan
+916	924	Libanona	Libanon	LOC	GPE-Lebanon
+928	935	Turčije	Turčija	LOC	GPE-Turkey
+964	970	Evropo	Evropa	LOC	LOC-Europe
+1122	1130	Merklova	Merkel	PER	PER-Angela-Merkel
+1234	1241	Putinom	Putin	PER	PER-Vladimir-Putin
+1320	1328	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1402	1417	modrih čelad ZN	modre čelade ZN	PER	ORG-United-Nations-Peacekeeping
+1470	1476	Sirijo	Sirija	LOC	GPE-Syria
+1485	1493	Merklova	Merkel	PER	PER-Angela-Merkel
+1552	1559	Nemčija	Nemčija	LOC	GPE-Germany
+1618	1635	Združenih narodov	Združeni narodi	ORG	ORG-United-Nations
+1729	1745	Bašarja al Asada	Bašar al Asad	PER	PER-Bashar-al-Assad
+1761	1767	Rusija	Rusija	LOC	GPE-Russia
+1848	1861	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1866	1872	Rusijo	Rusija	LOC	GPE-Russia
+1876	1883	Nemčijo	Nemčija	LOC	GPE-Germany
+1888	1912	iranski jedrski sporazum	iranski jedrski sporazum	PRO	PRO-Iran-nuclear-deal
+1933	1936	ZDA	ZDA	LOC	GPE-USA
+1939	1946	Nemčija	Nemčija	LOC	GPE-Germany
+2025	2032	Putinom	Putin	PER	PER-Vladimir-Putin
+2208	2222	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2265	2271	Rusiji	Rusija	LOC	GPE-Russia
+2338	2343	Trump	Trump	PER	PER-Donald-Trump
+2362	2369	Nemčiji	Nemčija	LOC	GPE-Germany
+2384	2390	Rusija	Rusija	LOC	GPE-Russia
+2457	2462	Putin	Putin	PER	PER-Vladimir-Putin
+2524	2537	Karin Kneissl	Karin Kneissl	PER	PER-Karin-Kneissl
+2541	2563	avstrijskem Štajerskem	avstrijska Štajerska	LOC	GPE-Austrian-Styria
+2582	2591	Slovenijo	Slovenija	LOC	GPE-Slovenia
+2626	2632	Rusijo	Rusija	LOC	GPE-Russia
+2636	2644	Avstrijo	Avstrija	LOC	GPE-Austria
+2675	2682	Zahodom	Zahod	LOC	LOC-West
+2690	2706	ukrajinske krize	ukrajinska kriza	EVT	EVT-Ukrainian-crisis
+2709	2731	Avstrijski svobodnjaki	Avstrijski svobodnjaki	PER	ORG-Freedom-Party-of-Austria
+2733	2736	FPÖ	FPÖ	ORG	ORG-Freedom-Party-of-Austria
+2751	2766	Ljudsko stranko	Ljudska stranka	ORG	ORG-ÖVP-Austrian-Peoples-Party
+2768	2771	ÖVP	ÖVP	ORG	ORG-ÖVP-Austrian-Peoples-Party
+2821	2827	Evropi	Evropa	LOC	LOC-Europe
+2869	2903	zasedbe ukrajinskega polotoka Krim	zasedba ukrajinskega polotoka Krim	EVT	EVT-Annexation-of-Crimea
+2928	2942	Evropske unije	Evropska unija	ORG	ORG-European-Union
+2945	2948	sta	sta	ORG	ORG-Slovenian-Press-Agency

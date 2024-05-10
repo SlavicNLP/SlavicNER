@@ -1,0 +1,17 @@
+0	6	Шойбле	Шойбле	PER	PER-Wolfgang-Schauble
+22	36	Великобритания	Великобритания	LOC	GPE-Great-Britain
+49	51	ЕС	ЕС	ORG	ORG-European-Union
+70	80	Бундестага	Бундестаг	ORG	ORG-Bundestag
+81	96	Волфганг Шойбле	Волфганг Шойбле	PER	PER-Wolfgang-Schauble
+112	126	Великобритания	Великобритания	LOC	GPE-Great-Britain
+151	158	Брекзит	Брекзит	EVT	EVT-Brexit
+173	175	ЕС	ЕС	ORG	ORG-European-Union
+216	224	Политико	Политико	ORG	ORG-Politico
+238	248	британците	британци	PER	GPE-Great-Britain
+262	264	ЕС	ЕС	ORG	ORG-European-Union
+389	403	Сергей Скрипал	Сергей Скрипал	PER	PER-Siergiej-Skripal
+418	426	Солсбъри	Солсбъри	LOC	GPE-Salisbury
+544	558	Великобритания	Великобритания	LOC	GPE-Great-Britain
+611	617	Лондон	Лондон	LOC	GPE-London
+627	633	Москва	Москва	LOC	GPE-Moscow
+655	662	Скрипал	Скрипал	PER	PER-Siergiej-Skripal

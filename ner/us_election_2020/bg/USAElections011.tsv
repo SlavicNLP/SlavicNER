@@ -1,0 +1,29 @@
+25	31	Сената	Сенат	ORG	ORG-United-States-Senate
+34	37	САЩ	САЩ	LOC	GPE-USA
+167	170	САЩ	САЩ	LOC	GPE-USA
+186	192	Сената	Сенат	ORG	ORG-United-States-Senate
+197	206	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+208	219	Демократите	Демократи	PER	ORG-Democratic-Party-USA
+275	300	Камара на представителите	Камара на представителите	ORG	ORG-United-States-House-of-Representatives
+440	451	демократите	демократи	PER	ORG-Democratic-Party-USA
+497	505	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+696	708	републиканци	републиканци	PER	ORG-Republican-Party-USA
+716	725	демократи	демократи	PER	ORG-Democratic-Party-USA
+739	750	демократите	демократи	PER	ORG-Democratic-Party-USA
+927	938	демократите	демократи	PER	ORG-Democratic-Party-USA
+979	985	Сената	Сенат	ORG	ORG-United-States-Senate
+1147	1157	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1266	1278	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1292	1306	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1356	1367	демократите	демократи	PER	ORG-Democratic-Party-USA
+1404	1410	Байдън	Байдън	PER	PER-Joe-Biden
+1422	1431	Белия дом	Белия дом	LOC	LOC-White-House
+1463	1475	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+1579	1585	Сената	Сенат	ORG	ORG-United-States-Senate
+1633	1649	Съединените щати	Съединени щати	LOC	GPE-USA
+1823	1830	Конгрес	Конгрес	ORG	ORG-United-States-Congress
+1878	1887	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1936	1984	движението „Животът на чернокожите има значение“	движение „Животът на чернокожите има значение“	ORG	ORG-BLM
+2057	2060	САЩ	САЩ	LOC	GPE-USA
+2095	2102	Америка	Америка	LOC	LOC-America
+2170	2178	Луизиана	Луизиана	LOC	GPE-Louisiana

@@ -1,0 +1,21 @@
+0	6	Mayová	Mayová	PER	PER-Theresa-May
+28	30	EU	EU	ORG	ORG-European-Union
+34	41	brexitu	brexit	EVT	EVT-Brexit
+109	122	EuroZprávy.cz	EuroZprávy.cz	PRO	PRO-EuroZprávy.cz
+125	128	ČTK	ČTK	ORG	ORG-CTK
+130	136	Londýn	Londýn	LOC	GPE-London
+157	171	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+212	214	EU	EU	ORG	ORG-European-Union
+218	225	brexitu	brexit	EVT	EVT-Brexit
+257	263	Londýn	Londýn	LOC	GPE-London
+354	362	Británií	Británie	LOC	GPE-Great-Britain
+365	379	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+517	523	Londýn	Londýn	LOC	GPE-London
+628	643	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+654	660	Irskem	Irsko	LOC	GPE-Ireland
+713	721	Británie	Británie	LOC	GPE-Great-Britain
+724	726	EU	EU	ORG	ORG-European-Union
+756	762	Mayová	Mayová	PER	PER-Theresa-May
+828	836	Bruselem	Brusel	LOC	GPE-Brussles
+844	864	Konzervativní straně	Konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+925	942	Borisem Johnsonem	Boris Johnson	PER	PER-Boris-Johnson

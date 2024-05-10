@@ -1,0 +1,23 @@
+58	65	Брекзит	Брекзит	EVT	EVT-Brexit
+66	79	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+109	121	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+195	209	Великобритания	Великобритания	LOC	GPE-Great-Britain
+238	245	Гардиън	Гардиън	PRO	PRO-The-Guardian
+291	297	Барние	Барние	PER	PER-Michel-Barnier
+470	476	Дейвис	Дейвис	PER	PER-David-Davis
+612	614	ЕС	ЕС	ORG	ORG-European-Union
+625	632	Гардиън	Гардиън	PRO	PRO-The-Guardian
+655	671	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+675	692	Западните Балкани	Западни Балкани	LOC	LOC-Western-Balkans
+797	826	Франкфуртер алгемайне цайтунг	Франкфуртер алгемайне цайтунг	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+962	964	ЕС	ЕС	ORG	ORG-European-Union
+1018	1024	Сърбия	Сърбия	LOC	GPE-Serbia
+1040	1046	Анкара	Анкара	LOC	GPE-Ankara
+1048	1056	Истанбул	Истанбул	LOC	GPE-Istanbul
+1059	1064	Измир	Измир	LOC	GPE-Izmir-Turkey
+1159	1192	Демократическа партия на народите	Демократическа партия на народите	ORG	ORG-Peoples'-Democratic-Party-Turkey
+1208	1218	Джумхуриет	Джумхуриет	PRO	PRO-Cumhuriyet
+1361	1377	Маслинова клонка	Маслинова клонка	EVT	EVT-Operation-Olive-Branch
+1405	1410	Африн	Африн	LOC	GPE-Afrin
+1512	1549	Социалистическа партия на потиснатите	Социалистическа партия на потиснатите	ORG	ORG-Socialist-Party-of-the-Oppressed
+1567	1587	Зелената лява партия	Зелена лява партия	ORG	ORG-Green-Left-Party

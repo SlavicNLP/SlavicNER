@@ -1,0 +1,17 @@
+0	6	Макрон	Макрон	PER	PER-Emmanuel-Macron
+22	36	Великобритания	Великобритания	LOC	GPE-Great-Britain
+89	91	ЕС	ЕС	ORG	ORG-European-Union
+113	127	Емануел Макрон	Емануел Макрон	PER	PER-Emmanuel-Macron
+143	157	Великобритания	Великобритания	LOC	GPE-Great-Britain
+210	212	ЕС	ЕС	ORG	ORG-European-Union
+218	225	Брекзит	Брекзит	EVT	EVT-Brexit
+240	248	Би Би Си	Би Би Си	PRO	PRO-BBC
+249	255	Макрон	Макрон	PER	PER-Emmanuel-Macron
+303	309	Канада	Канада	LOC	GPE-Canada
+312	320	Норвегия	Норвегия	LOC	GPE-Norway
+343	349	Лондон	Лондон	LOC	GPE-London
+375	382	Брюксел	Брюксел	LOC	GPE-Brussles
+674	676	ЕС	ЕС	ORG	ORG-European-Union
+728	743	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+847	853	Макрон	Макрон	PER	PER-Emmanuel-Macron
+885	899	Великобритания	Великобритания	LOC	GPE-Great-Britain

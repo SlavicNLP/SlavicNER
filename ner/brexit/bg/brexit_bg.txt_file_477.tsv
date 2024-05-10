@@ -1,0 +1,28 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+9	16	Брекзит	Брекзит	EVT	EVT-Brexit
+18	20	ЕС	ЕС	ORG	ORG-European-Union
+69	72	САЩ	САЩ	LOC	GPE-USA
+73	85	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+135	145	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+165	180	Европейски съюз	Европейски съюз	ORG	ORG-European-Union
+184	191	Брекзит	Брекзит	EVT	EVT-Brexit
+251	256	Тръмп	Тръмп	PER	PER-Donald-Trump
+365	385	Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+395	403	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+426	431	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+481	484	Мей	Мей	PER	PER-Theresa-May
+498	534	Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+536	545	Швейцария	Швейцария	LOC	GPE-Switzerland
+547	552	Тръмп	Тръмп	PER	PER-Donald-Trump
+616	630	Великобритания	Великобритания	LOC	GPE-Great-Britain
+633	636	САЩ	САЩ	LOC	GPE-USA
+759	766	Брекзит	Брекзит	EVT	EVT-Brexit
+769	785	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+847	852	Тръмп	Тръмп	PER	PER-Donald-Trump
+905	921	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1089	1099	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1156	1170	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+1232	1240	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+1293	1296	Мей	Мей	PER	PER-Theresa-May
+1364	1369	Давос	Давос	LOC	GPE-Davos
+1516	1536	Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK

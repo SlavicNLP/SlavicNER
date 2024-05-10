@@ -1,0 +1,34 @@
+0	4	Ейре	Ейре	LOC	GPE-Ireland
+28	35	Брекзит	Брекзит	EVT	EVT-Brexit
+43	49	Лондон	Лондон	LOC	GPE-London
+105	111	Лондон	Лондон	LOC	GPE-London
+133	140	Брекзит	Брекзит	EVT	EVT-Brexit
+185	198	Саймън Ковини	Саймън Ковини	PER	PER-Simon-Coveney
+245	258	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+284	296	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+307	314	Гардиън	Гардиън	PRO	PRO-The-Guardian
+396	398	ЕС	ЕС	ORG	ORG-European-Union
+469	475	Лондон	Лондон	LOC	GPE-London
+477	479	ЕС	ЕС	ORG	ORG-European-Union
+544	548	Ейре	Ейре	LOC	GPE-Ireland
+630	644	Великобритания	Великобритания	LOC	GPE-Great-Britain
+648	664	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+666	672	Дъблин	Дъблин	LOC	GPE-Dublin
+729	737	Ирландия	Ирландия	LOC	GPE-Ireland
+821	835	Великобритания	Великобритания	LOC	GPE-Great-Britain
+848	862	Великобритания	Великобритания	LOC	GPE-Great-Britain
+916	918	ЕС	ЕС	ORG	ORG-European-Union
+1043	1051	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+1064	1072	Политико	Политико	ORG	ORG-Politico
+1133	1140	Брекзит	Брекзит	EVT	EVT-Brexit
+1191	1193	ЕС	ЕС	ORG	ORG-European-Union
+1207	1209	ЕС	ЕС	ORG	ORG-European-Union
+1235	1242	Брекзит	Брекзит	EVT	EVT-Brexit
+1298	1328	Европейската икономическа зона	Европейска икономическа зона	ORG	ORG-EEA-European-Economic-Area
+1384	1398	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1517	1524	News.bg	News.bg	PRO	PRO-News.bg
+1544	1558	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+1584	1630	Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+1674	1688	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+1937	1951	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+2033	2048	WEB MEDIA GROUP	Web media group	ORG	ORG-Web-Media-Group

@@ -1,0 +1,58 @@
+0	3	USA	USA	LOC	GPE-USA
+31	44	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+97	100	USA	USA	LOC	GPE-USA
+107	112	Rosji	Rosja	LOC	GPE-Russia
+129	142	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+283	286	USA	USA	LOC	GPE-USA
+287	297	Rick Perry	Rick Perry	PER	PER-Rick-Perry
+308	314	Moskwę	Moskwa	LOC	GPE-Moscow
+366	386	Aleksandrem Nowakiem	Aleksander Nowak	PER	PER-Aleksandr-Novak
+546	549	USA	USA	LOC	GPE-USA
+556	561	Iranu	Iran	LOC	GPE-Iran
+620	630	Amerykanie	Amerykanie	PER	GPE-USA
+701	704	USA	USA	LOC	GPE-USA
+705	710	Rosja	Rosja	LOC	GPE-Russia
+714	723	Królestwo	Królestwo	LOC	GPE-Great-Britain
+725	743	Arabii Saudyjskiej	Arabia Saudyjska	LOC	GPE-Saudi-Arabia
+766	770	OPEC	OPEC	ORG	ORG-OPEC
+911	916	Rosja	Rosja	LOC	GPE-Russia
+970	974	OPEC	OPEC	ORG	ORG-OPEC
+1022	1027	OPEC+	OPEC+	ORG	ORG-OPEC-Plus
+1044	1052	Algierii	Algieria	LOC	GPE-Algeria
+1090	1098	Perryego	Perry	PER	PER-Rick-Perry
+1141	1146	Rosją	Rosja	LOC	GPE-Russia
+1193	1243	Rosyjskiego Bezpośredniego Funduszu Inwestycyjnego	Rosyjski Bezpośredni Fundusz Inwestycyjny	ORG	ORG-Russian-Direct-Investment-Fund
+1340	1345	Perry	Perry	PER	PER-Rick-Perry
+1348	1353	Nowak	Nowak	PER	PER-Aleksandr-Novak
+1401	1414	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1479	1492	Europejczyków	Europejczycy	PER	LOC-Europe
+1589	1594	Perry	Perry	PER	PER-Rick-Perry
+1644	1650	Europy	Europa	LOC	LOC-Europe
+1768	1781	Shaylyn Hynes	Shaylyn Hynes	PER	PER-Shaylyn-Hynes
+1785	1791	Moskwa	Moskwa	LOC	GPE-Moscow
+1865	1875	Amerykanin	Amerykanin	PER	GPE-USA
+1877	1882	Perry	Perry	PER	PER-Rick-Perry
+1909	1922	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1948	1951	USA	USA	LOC	GPE-USA
+1970	1983	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2038	2043	Rosji	Rosja	LOC	GPE-Russia
+2121	2127	Rosjan	Rosjanie	PER	GPE-Russia
+2231	2241	Waszyngton	Waszyngton	LOC	GPE-WashingtonDC
+2334	2339	Rosji	Rosja	LOC	GPE-Russia
+2343	2350	Niemiec	Niemcy	LOC	GPE-Germany
+2386	2391	Nowak	Nowak	PER	PER-Aleksandr-Novak
+2447	2463	Aleksander Nowak	Aleksander Nowak	PER	PER-Aleksandr-Novak
+2480	2493	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2532	2535	USA	USA	LOC	GPE-USA
+2592	2599	Europie	Europa	LOC	LOC-Europe
+2639	2652	Manisha Singh	Manisha Singh	PER	PER-Manisha-Singh
+2655	2677	Departamentu Stanu USA	Departament Stanu USA	ORG	ORG-Department-of-State-USA
+2755	2760	Rosji	Rosja	LOC	GPE-Russia
+2831	2848	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2926	2931	Singh	Singh	PER	PER-Manisha-Singh
+2934	2943	Kongresie	Kongres	ORG	ORG-United-States-Congress
+3102	3115	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+3117	3135	Radio Wolna Europa	Radio Wolna Europa	PRO	PRO-RFE-Radio-Free -Europe
+3136	3143	Reuters	Reuters	ORG	ORG-Reuters
+3144	3153	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+3154	3170	Wojciech Jakóbik	Wojciech Jakóbik	PER	PER-Wojciech-Jakóbik

@@ -1,0 +1,37 @@
+0	11	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+20	28	Brexicie	Brexit	EVT	EVT-Brexit
+49	54	Donek	Donek	PER	PER-Donald-Tusk
+81	104	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+119	127	brexicie	Brexit	EVT	EVT-Brexit
+144	148	Unia	Unia	ORG	ORG-European-Union
+182	199	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+283	285	UE	UE	ORG	ORG-European-Union
+311	326	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+350	367	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+370	374	Tusk	Tusk	PER	PER-Donald-Tusk
+448	455	brexitu	Brexit	EVT	EVT-Brexit
+645	650	Tuska	Tusk	PER	PER-Donald-Tusk
+684	701	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+734	745	David Davis	David Davis	PER	PER-David-Davis
+772	789	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+792	809	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+822	833	Theresy May	Theresa May	PER	PER-Theresa-May
+977	988	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1052	1069	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1085	1098	Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+1119	1138	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+1157	1161	Tusk	Tusk	PER	PER-Donald-Tusk
+1177	1184	Brexitu	Brexit	EVT	EVT-Brexit
+1275	1283	Londynie	Londyn	LOC	GPE-London
+1312	1314	KE	KE	ORG	ORG-European-Commission
+1333	1350	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1389	1406	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1409	1411	UE	UE	ORG	ORG-European-Union
+1418	1430	Richard Tice	Richard Tice	PER	PER-Richard-Tice
+1472	1483	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1486	1505	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+1529	1544	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1577	1579	UE	UE	ORG	ORG-European-Union
+1650	1665	Patrick O'Flynn	Patrick OFlynn	PER	PER-Patrick-OFlynn
+1677	1682	Donek	Donek	PER	PER-Donald-Tusk
+1713	1718	Tuska	Tusk	PER	PER-Donald-Tusk

@@ -1,0 +1,21 @@
+53	59	Brexit	Brexit	EVT	EVT-Brexit
+61	67	МОСКВА	МОСКВА	LOC	GPE-Moscow
+75	80	ПРАЙМ	ПРАЙМ	ORG	ORG-PRIME-News-Agency
+174	180	Brexit	Brexit	EVT	EVT-Brexit
+181	194	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+263	265	ЕС	ЕС	ORG	ORG-European-Union
+683	686	США	США	LOC	GPE-USA
+739	750	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+815	829	Великобритании	Великобритания	LOC	GPE-Great-Britain
+830	840	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+885	887	ЕС	ЕС	ORG	ORG-European-Union
+894	900	Brexit	Brexit	EVT	EVT-Brexit
+935	944	Евросоюзу	Евросоюз	ORG	ORG-European-Union
+955	961	Дэвиса	Дэвис	PER	PER-David-Davis
+1057	1069	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+1088	1094	Brexit	Brexit	EVT	EVT-Brexit
+1137	1139	ЕС	ЕС	ORG	ORG-European-Union
+1166	1180	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1287	1293	Рейтер	Рейтер	ORG	ORG-Reuters
+1303	1309	Nomura	Nomura	ORG	ORG-Nomura-Holdings-Inc
+1310	1347	Джордана Рочестера (Jordan Rochester)	Джордан Рочестер (Jordan Rochester)	PER	PER-Jordan-Rochester

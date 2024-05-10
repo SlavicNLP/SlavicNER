@@ -1,0 +1,32 @@
+15	27	koronawirusa	koronawirus	EVT	EVT-Covid-19
+30	36	Polsce	Polska	LOC	GPE-Poland
+78	82	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+342	350	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+436	440	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+705	711	Polsce	Polska	LOC	GPE-Poland
+718	722	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+723	738	Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+833	841	COVID-19	COVID-19	EVT	EVT-Covid-19
+1173	1178	COVID	COVID	EVT	EVT-Covid-19
+1199	1219	Ministerstwo Zdrowia	Ministerstwo Zdrowia	ORG	ORG-Ministry-of-Health-Poland
+1255	1267	Ministerstwa	Ministerstwo	ORG	ORG-Ministry-of-Health-Poland
+1284	1292	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+2088	2092	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+2126	2141	Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+2286	2310	Narodowy Fundusz Zdrowia	Narodowy Fundusz Zdrowia	ORG	ORG-National-Health-Fund-Poland
+2323	2326	NFZ	NFZ	ORG	ORG-National-Health-Fund-Poland
+2397	2405	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+2548	2554	Polsce	Polska	LOC	GPE-Poland
+2769	2775	POZ-ty	POZ-ty	LOC	LOC-Powiatowy-Ośrodek-Zdrowia-Poland
+2947	2955	COVID-19	COVID-19	EVT	EVT-Covid-19
+3009	3015	Polski	Polska	LOC	GPE-Poland
+3108	3111	ARM	ARM	ORG	ORG-The-Materials-Reserves-Agency-Poland
+3145	3149	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+3183	3198	Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+3205	3209	KPRM	KPRM	ORG	ORG-Office-of-the-Prime-Minister-Poland
+3328	3336	COVID-19	COVID-19	EVT	EVT-Covid-19
+3553	3582	Narodowego Programu Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+3675	3681	Polski	Polska	LOC	GPE-Poland
+3823	3851	Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+4010	4018	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+4219	4225	Polski	Polska	LOC	GPE-Poland

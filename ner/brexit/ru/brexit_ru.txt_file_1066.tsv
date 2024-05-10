@@ -1,0 +1,37 @@
+0	7	Джонсон	Джонсон	PER	PER-Boris-Johnson
+38	50	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+69	72	Мэй	Мэй	PER	PER-Theresa-May
+74	87	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+95	97	AP	AP	ORG	ORG-AP-The-Associated-Press
+105	123	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+124	137	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+147	171	британское правительство	британское правительство	ORG	ORG-the-UK-Government
+185	193	Джонсона	Джонсон	PER	PER-Boris-Johnson
+218	231	Даунинг-стрит	Даунинг-стрит	LOC	LOC-Downing-Street
+280	295	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+404	410	Бориса	Борис	PER	PER-Boris-Johnson
+436	445	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+491	505	Великобритании	Великобритания	LOC	GPE-Great-Britain
+506	516	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+536	551	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+620	629	Евросоюза	Евросоюз	ORG	ORG-European-Union
+772	781	Брюсселем	Брюссель	LOC	GPE-Brussles
+785	791	Brexit	Brexit	EVT	EVT-Brexit
+1044	1061	Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland
+1102	1104	ЕС	ЕС	ORG	ORG-European-Union
+1105	1127	Ирландской Республикой	Ирландская Республика	LOC	GPE-Ireland
+1156	1162	Brexit	Brexit	EVT	EVT-Brexit
+1196	1199	Мэй	Мэй	PER	PER-Theresa-May
+1256	1270	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1274	1276	ЕС	ЕС	ORG	ORG-European-Union
+1287	1295	Джонсона	Джонсон	PER	PER-Boris-Johnson
+1311	1329	кабинете министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+1330	1333	Мэй	Мэй	PER	PER-Theresa-May
+1357	1363	Brexit	Brexit	EVT	EVT-Brexit
+1438	1452	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1456	1465	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1466	1477	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1479	1492	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1512	1530	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+1562	1572	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+1593	1600	Лондона	Лондон	LOC	GPE-London

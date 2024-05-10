@@ -1,0 +1,16 @@
+31	37	brexit	Brexit	EVT	EVT-Brexit
+171	180	Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+212	229	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+232	234	UE	UE	ORG	ORG-European-Union
+262	268	Paryża	Paryż	LOC	GPE-Paris
+272	287	kanał La Manche	Kanał La Manche	LOC	LOC-English-Channel
+328	334	Londyn	Londyn	LOC	GPE-London
+511	520	Macronowi	Macron	PER	PER-Emmanuel-Macron
+563	578	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+582	590	brexicie	Brexit	EVT	EVT-Brexit
+620	627	Londynu	Londyn	LOC	GPE-London
+712	718	Londyn	Londyn	LOC	GPE-London
+801	816	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+819	830	Theresa May	Theresa May	PER	PER-Theresa-May
+898	938	Królewskiej Akademii Wojskowej Sandhurst	Królewska Akademia Wojskowa Sandhurst	ORG	ORG-Royal-Military-Academy-Sandhurst
+941	950	Berkshire	Berkshire	LOC	GPE-Berkshire

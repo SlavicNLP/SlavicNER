@@ -1,0 +1,30 @@
+1	11	Пет звезди	Пет звезди	ORG	ORG-Five-stars-Italy
+57	62	COVID	COVID-19	EVT	EVT-Covid-19
+173	179	Италия	Италия	LOC	GPE-Italy
+259	264	COVID	COVID-19	EVT	EVT-Covid-19
+326	352	пандемията от коронавируса	пандемия от коронавируса	EVT	EVT-Pandemic
+380	388	Politico	Politico	PRO	PRO-Politico
+408	419	италианците	италианци	PER	GPE-Italy
+588	598	Пет звезди	Пет звезди	ORG	ORG-Five-stars-Italy
+645	655	Бепе Грило	Бепе Грило	PER	PER-Bepe-Grilo
+972	985	Паола Таверна	Паола Таверна	PER	PER-Paola-Taverna
+1007	1046	долната камара на италианския парламент	долна камара на италианския парламент	ORG	ORG-Lower-Chamber-Italian-Parliament
+1184	1194	Пет звезди	Пет звезди	ORG	ORG-Five-stars-Italy
+1229	1241	коронавируса	коронавирус	EVT	EVT-Covid-19
+1250	1257	Таверна	Таверна	PER	PER-Paola-Taverna
+1358	1363	Грило	Грило	PER	PER-Bepe-Grilo
+1407	1422	Роберто Буриони	Роберто Буриони	PER	PER-Roberto-Burioni
+1431	1441	Пет звезди	Пет звезди	ORG	ORG-Five-stars-Italy
+1475	1487	коронавируса	коронавирус	EVT	EVT-Covid-19
+1654	1660	Европа	Европа	LOC	LOC-Europe
+1708	1737	втората вълна на заболяването	втора вълна на заболяването	EVT	EVT-COVID-19-second-wave
+1826	1836	Пет звезди	Пет звезди	ORG	ORG-Five-stars-Italy
+1889	1905	Пиерпаоло Силери	Пиерпаоло Силери	PER	PER-Pierrepaolo-Sileri
+1957	1968	коронавирус	коронавирус	EVT	EVT-Covid-19
+1991	1997	Силери	Силери	PER	PER-Pierrepaolo-Sileri
+2240	2251	италианците	италианци	PER	GPE-Italy
+2333	2345	коронавируса	коронавирус	EVT	EVT-Covid-19
+2436	2447	Италианците	италианци	PER	GPE-Italy
+2458	2468	французите	французи	PER	GPE-France
+2471	2480	румънците	румънци	PER	GPE-Romania
+2513	2519	Европа	Европа	LOC	LOC-Europe

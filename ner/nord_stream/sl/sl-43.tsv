@@ -1,0 +1,50 @@
+0	6	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+45	52	Nemčiji	Nemčija	LOC	GPE-Germany
+54	60	Huawei	Huawei	ORG	ORG-Huawei
+62	75	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+77	81	Iran	Iran	LOC	GPE-Iran
+155	158	ZDA	ZDA	LOC	GPE-USA
+162	169	Nemčijo	Nemčija	LOC	GPE-Germany
+173	183	Trumpovega	Trump	PER	PER-Donald-Trump
+262	273	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+338	344	Berlin	Berlin	LOC	GPE-Berlin
+425	434	Bela hiša	Bela hiša	LOC	LOC-White-House
+474	489	Bližnjem vzhodu	Bližnji vzhod	LOC	LOC-Middle-East
+492	498	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+510	517	Berlinu	Berlin	LOC	GPE-Berlin
+587	593	Huawei	Huawei	ORG	ORG-Huawei
+636	638	5G	5G	PRO	PRO-5G
+670	683	Heikom Maasom	Heiko Maas	PER	PER-Heiko-Maas
+790	819	Komunistični partiji Kitajske	Komunistična partija Kitajske	ORG	ORG-Chinese-Communist-Party
+859	862	ZDA	ZDA	LOC	GPE-USA
+932	935	ZDA	ZDA	LOC	GPE-USA
+1003	1007	Maas	Maas	PER	PER-Heiko-Maas
+1052	1054	5G	5G	PRO	PRO-5G
+1128	1132	Maas	Maas	PER	PER-Heiko-Maas
+1149	1156	Nemčija	Nemčija	LOC	GPE-Germany
+1160	1163	ZDA	ZDA	LOC	GPE-USA
+1193	1200	Teheran	Teheran	LOC	GPE-Tehran
+1274	1281	Nemčija	Nemčija	LOC	GPE-Germany
+1290	1318	jedrski sporazum s Teheranom	jedrski sporazum s Teheranom	PRO	PRO-Iran-nuclear-deal
+1338	1341	ZDA	ZDA	LOC	GPE-USA
+1570	1583	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1617	1623	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+1784	1789	Trump	Trump	PER	PER-Donald-Trump
+1807	1815	Merklova	Merkel	PER	PER-Angela-Merkel
+1819	1827	Harvardu	Harvard	ORG	ORG-Harvard-University
+1836	1842	Trumpa	Trump	PER	PER-Donald-Trump
+1844	1850	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+1883	1890	Nemčiji	Nemčija	LOC	GPE-Germany
+1892	1897	Švici	Švica	LOC	GPE-Switzerland
+1901	1911	Nizozemski	Nizozemska	LOC	GPE-Holland
+1926	1942	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+1981	1995	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+2055	2068	Angelo Merkel	Angela Merkel	PER	PER-Angela-Merkel
+2113	2116	ZDA	ZDA	LOC	GPE-USA
+2121	2137	univerzi Harvard	univerza Harvard	ORG	ORG-Harvard-University
+2264	2270	Trumpa	Trump	PER	PER-Donald-Trump
+2857	2863	Trumpa	Trump	PER	PER-Donald-Trump
+2952	2957	Trump	Trump	PER	PER-Donald-Trump
+3025	3033	Trumpove	Trump	PER	PER-Donald-Trump
+3060	3066	Mehiko	Mehika	LOC	GPE-Mexico
+3109	3124	Vzhodne Nemčije	Vzhodna Nemčija	LOC	GPE-East-Germany

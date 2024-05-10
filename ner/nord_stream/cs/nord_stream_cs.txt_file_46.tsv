@@ -1,0 +1,31 @@
+0	7	Gazprom	Gazprom	ORG	ORG-Gazprom
+54	62	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+92	107	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+160	173	Evropské unie	Evropská unie	ORG	ORG-European-Union
+275	281	Ruskem	Rusko	LOC	GPE-Russia
+284	293	Ukrajinou	Ukrajina	LOC	GPE-Ukraine
+342	357	Alexander Novak	Alexander Novak	PER	PER-Aleksandr-Novak
+403	409	Ruskem	Rusko	LOC	GPE-Russia
+411	420	Ukrajinou	Ukrajina	LOC	GPE-Ukraine
+423	425	EU	EU	ORG	ORG-European-Union
+446	483	České ministerstvo průmyslu a obchodu	České ministerstvo průmyslu a obchodu	ORG	ORG-Ceske-Drahy-Czech-Railways
+571	576	Česku	Česko	LOC	GPE-Czech-Republic
+578	583	Novak	Novak	PER	PER-Aleksandr-Novak
+629	637	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+641	647	Evropy	Evropa	LOC	LOC-Europe
+685	690	Rusko	Rusko	LOC	GPE-Russia
+727	733	Moskva	Moskva	LOC	GPE-Moscow
+751	757	Novaka	Novak	PER	PER-Aleksandr-Novak
+784	793	Ukrajinou	Ukrajina	LOC	GPE-Ukraine
+845	851	Evropy	Evropa	LOC	LOC-Europe
+853	858	Rusko	Rusko	LOC	GPE-Russia
+948	959	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+992	998	Evropy	Evropa	LOC	LOC-Europe
+1006	1020	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+1022	1029	Gazprom	Gazprom	ORG	ORG-Gazprom
+1045	1058	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1117	1127	TurkStream	TurkStream	PRO	PRO-Turkish-Stream
+1171	1177	Evropy	Evropa	LOC	LOC-Europe
+1234	1242	Tureckem	Turecko	LOC	GPE-Turkey
+1258	1265	Reuters	Reuters	ORG	ORG-Reuters
+1267	1270	ČTK	ČTK	ORG	ORG-CTK

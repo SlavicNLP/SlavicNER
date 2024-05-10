@@ -1,0 +1,22 @@
+20	25	Covid	Covid	EVT	EVT-Covid-19
+27	42	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+63	74	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+112	130	Oxford-AstraZeneca	Oxford-AstraZeneca	ORG	ORG-Oxford-AstraZeneca
+140	157	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+190	204	Downing Street	Downing Street	LOC	LOC-Downing-Street
+289	300	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+316	323	Europie	Europa	LOC	LOC-Europe
+374	380	Polsce	Polska	LOC	GPE-Poland
+399	405	Pfizer	Pfizer	ORG	ORG-Pfizer
+460	477	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+567	579	koronawirusa	koronawirus	EVT	EVT-Covid-19
+582	588	Anglii	Anglia	LOC	GPE-England
+613	628	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+629	641	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+806	811	Covid	Covid	EVT	EVT-Covid-19
+979	994	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1405	1423	Oxford-AstraZeneca	Oxford-AstraZeneca	ORG	ORG-Oxford-AstraZeneca
+1461	1467	Pfizer	Pfizer	ORG	ORG-Pfizer
+1540	1562	Rząd Wielkiej Brytanii	Rząd Wielkiej Brytanii	ORG	ORG-Government-Great-Britain
+1632	1638	Polsce	Polska	LOC	GPE-Poland
+1642	1661	wyspach brytyjskich	wyspy brytyjskie	LOC	GPE-Great-Britain

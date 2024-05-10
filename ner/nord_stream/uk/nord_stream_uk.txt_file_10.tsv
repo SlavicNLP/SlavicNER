@@ -1,0 +1,23 @@
+57	61	КИЇВ	Київ	LOC	GPE-Kyiv
+72	75	УНН	УНН	ORG	ORG-UNN
+80	88	Газпромі	Газпром	ORG	ORG-Gazprom
+147	161	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+164	180	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+190	193	УНН	УНН	ORG	ORG-UNN
+255	264	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+265	272	України	Україна	LOC	GPE-Ukraine
+297	300	Цуг	Цуг	LOC	GPE-Zug
+302	311	Швейцарія	Швейцарія	LOC	GPE-Switzerland
+333	347	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+350	366	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+441	449	Газпрому	Газпром	ORG	ORG-Gazprom
+521	535	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+538	554	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+643	651	Газпрому	Газпром	ORG	ORG-Gazprom
+725	734	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+735	742	України	Україна	LOC	GPE-Ukraine
+798	806	Газпромі	Газпром	ORG	ORG-Gazprom
+827	835	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+914	928	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+931	947	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+982	999	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG

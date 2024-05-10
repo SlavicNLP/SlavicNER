@@ -1,0 +1,27 @@
+0	12	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+28	35	Брюксел	Брюксел	LOC	GPE-Brussles
+132	134	ЕС	ЕС	ORG	ORG-European-Union
+135	147	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+168	175	Брюксел	Брюксел	LOC	GPE-Brussles
+273	295	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+299	309	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+425	427	ЕС	ЕС	ORG	ORG-European-Union
+454	460	Лондон	Лондон	LOC	GPE-London
+464	475	Анна Соубри	Анна Соубри	PER	PER-Anna-Soubry
+479	501	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+504	514	Чука Умуна	Чука Умуна	PER	PER-Chuka-Umunna
+518	538	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+568	581	Доминик Грийв	Доминик Грийв	PER	PER-Dominic-Grieve
+729	735	Барние	Барние	PER	PER-Michel-Barnier
+851	857	Барние	Барние	PER	PER-Michel-Barnier
+908	915	Брекзит	Брекзит	EVT	EVT-Brexit
+1022	1036	Джеръми Корбин	Джеръми Корбин	PER	PER-Jeremy-Corbyn
+1112	1118	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+1132	1146	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1222	1231	Евросъюза	Евросъюз	ORG	ORG-European-Union
+1310	1320	Чука Умуна	Чука Умуна	PER	PER-Chuka-Umunna
+1331	1345	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1370	1372	ЕС	ЕС	ORG	ORG-European-Union
+1393	1401	Норвегия	Норвегия	LOC	GPE-Norway
+1403	1413	Лихтенщайн	Лихтенщайн	LOC	GPE-Liechtenstein
+1416	1424	Исландия	Исландия	LOC	GPE-Iceland

@@ -1,0 +1,13 @@
+0	6	Brusel	Brusel	LOC	GPE-Brussles
+30	37	brexitu	brexit	EVT	EVT-Brexit
+39	54	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+56	58	EK	EK	ORG	ORG-European-Commission
+108	116	Británie	Británie	LOC	GPE-Great-Britain
+119	121	EU	EU	ORG	ORG-European-Union
+145	151	brexit	brexit	EVT	EVT-Brexit
+152	166	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+206	208	EU	EU	ORG	ORG-European-Union
+238	246	Barniera	Barnier	PER	PER-Michel-Barnier
+262	268	Londýn	Londýn	LOC	GPE-London
+287	290	ČTK	ČTK	ORG	ORG-CTK
+292	295	DPA	DPA	ORG	ORG-DPA

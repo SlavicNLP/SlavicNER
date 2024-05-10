@@ -1,0 +1,32 @@
+15	17	ЕС	ЕС	ORG	ORG-European-Union
+41	48	Румынии	Румыния	LOC	GPE-Romania
+52	65	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+79	86	Румынии	Румыния	LOC	GPE-Romania
+147	167	«Северного потока-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
+197	215	Европейского Союза	Европейский Союз	ORG	ORG-European-Union
+237	251	Польское радио	Польское радио	PRO	PRO-Polish-Radio
+350	352	ЕС	ЕС	ORG	ORG-European-Union
+355	377	Австрийская Республика	Австрийская Республика	LOC	GPE-Austria
+380	388	Болгария	Болгария	LOC	GPE-Bulgaria
+427	435	Брюсселе	Брюссель	LOC	GPE-Brussles
+484	491	Румынии	Румыния	LOC	GPE-Romania
+548	555	Варшава	Варшава	LOC	GPE-Warsaw
+813	815	ЕС	ЕС	ORG	ORG-European-Union
+873	875	ЕС	ЕС	ORG	ORG-European-Union
+920	940	Европейская комиссия	Европейская комиссия	ORG	ORG-European-Commission
+1121	1123	ЕС	ЕС	ORG	ORG-European-Union
+1156	1169	Европарламент	Европарламент	ORG	ORG-European-Parliament
+1235	1255	«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+1277	1286	«Газпром»	«Газпром»	ORG	ORG-Gazprom
+1327	1331	E.ON	E.ON	ORG	ORG-E.ON
+1333	1344	Wintershall	Wintershall	ORG	ORG-Wintershall
+1346	1351	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+1353	1356	OMV	OMV	ORG	ORG-OMV
+1359	1364	Engie	Engie	ORG	ORG-Engie
+1408	1426	«Северный поток-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
+1449	1458	«Газпром»	«Газпром»	ORG	ORG-Gazprom
+1460	1465	Engie	Engie	ORG	ORG-Engie
+1467	1470	OMV	OMV	ORG	ORG-OMV
+1472	1477	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+1506	1510	BASF	BASF	ORG	ORG-BASF-Holding
+1513	1519	Uniper	Uniper	ORG	ORG-Uniper

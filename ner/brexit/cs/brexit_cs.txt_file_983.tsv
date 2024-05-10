@@ -1,0 +1,20 @@
+0	7	Britové	Britové	PER	GPE-Great-Britain
+78	85	brexitu	brexit	EVT	EVT-Brexit
+106	113	brexitu	brexit	EVT	EVT-Brexit
+114	125	David Davis	David Davis	PER	PER-David-Davis
+135	142	Reuters	Reuters	ORG	ORG-Reuters
+181	189	Británie	Británie	LOC	GPE-Great-Britain
+192	205	Evropské unie	Evropské unie	ORG	ORG-European-Union
+333	335	EU	EU	ORG	ORG-European-Union
+370	376	Londýn	Londýn	LOC	GPE-London
+380	386	brexit	brexit	EVT	EVT-Brexit
+480	483	BBC	BBC	PRO	PRO-BBC
+564	572	Británie	Británie	LOC	GPE-Great-Britain
+814	822	Británie	Británie	LOC	GPE-Great-Britain
+829	832	BBC	BBC	PRO	PRO-BBC
+966	973	Londýna	Londýn	LOC	GPE-London
+1104	1118	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+1164	1179	Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+1181	1188	Britové	Britové	PER	GPE-Great-Britain
+1320	1327	brexitu	brexit	EVT	EVT-Brexit
+1337	1339	EU	EU	ORG	ORG-European-Union

@@ -1,0 +1,18 @@
+19	36	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+53	57	Unii	Unia	ORG	ORG-European-Union
+64	72	Polakami	Polacy	PER	GPE-Poland
+263	269	brexit	Brexit	EVT	EVT-Brexit
+321	338	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+439	442	ONS	ONS	ORG	ORG-ONS-Office-for-National-Statistics
+464	471	brexitu	Brexit	EVT	EVT-Brexit
+472	493	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+667	673	brexit	Brexit	EVT	EVT-Brexit
+708	720	Nicola White	Nicola White	PER	PER-Nicola-White
+723	726	ONS	ONS	ORG	ORG-ONS-Office-for-National-Statistics
+770	772	UE	UE	ORG	ORG-European-Union
+808	813	Wyspy	Wyspy	LOC	GPE-Great-Britain
+901	905	Unii	Unia	ORG	ORG-European-Union
+937	939	UE	UE	ORG	ORG-European-Union
+990	995	White	White	PER	PER-Nicola-White
+1058	1081	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1123	1129	brexit	Brexit	EVT	EVT-Brexit

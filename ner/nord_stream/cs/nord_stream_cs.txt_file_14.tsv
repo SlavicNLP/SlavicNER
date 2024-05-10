@@ -1,0 +1,41 @@
+0	3	USA	USA	LOC	GPE-USA
+20	33	Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+101	112	Washingtonu	Washington	LOC	GPE-WashingtonDC
+139	142	USA	USA	LOC	GPE-USA
+173	181	Amerikou	Amerika	LOC	GPE-USA
+184	191	Evropou	Evropa	LOC	LOC-Europe
+193	205	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+233	241	Bílý dům	Bílý dům	LOC	LOC-White-House
+263	276	Baracka Obamy	Barack Obama	PER	PER-Barack-Obama
+319	327	Trumpovy	Trump	PER	PER-Donald-Trump
+440	455	Nord Stream - 2	Nord Stream - 2	PRO	PRO-Nord-Stream-2
+459	464	Ruska	Rusko	LOC	GPE-Russia
+468	475	Německa	Německo	LOC	GPE-Germany
+498	512	Foreign Policy	Foreign Policy	PRO	PRO-Foreign-policy
+556	610	Centra pro euroasijské studie, Ruska a východní Evropy	Centrum pro euroasijské studie, Ruska a východní Evropy	ORG	ORG-Central-Election-Commission-of-the-Russia
+614	638	univerzitě v Georgetownu	univerzita v Georgetownu	ORG	ORG-Georgetown-University
+639	657	Brenda Schafferová	Brenda Schafferová	PER	PER-Brenda-Schaffer
+658	665	Obamova	Obama	PER	PER-Barack-Obama
+702	718	North Stream - 2	North Stream - 2	PRO	PRO-Nord-Stream-2
+737	762	George W. Bushe - juniora	George W. Bush - junior	PER	PER-George-Bush-Jr
+806	817	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+918	931	Rex Tillerson	Rex Tillerson	PER	PER-Rex-Tillerson
+935	942	Varšavě	Varšava	LOC	GPE-Warsaw
+1017	1022	Ruska	Rusko	LOC	GPE-Russia
+1076	1082	Evropy	Evropa	LOC	LOC-Europe
+1114	1127	Nord Streamem	Nord Stream	PRO	PRO-Nord-Stream-1
+1177	1183	Evropy	Evropa	LOC	LOC-Europe
+1296	1311	Spojenými státy	Spojené státy	LOC	GPE-USA
+1314	1320	Ruskem	Rusko	LOC	GPE-Russia
+1369	1385	Nord Streamu – 2	Nord Stream - 2	PRO	PRO-Nord-Stream-2
+1475	1487	Washingtonem	Washington	LOC	GPE-WashingtonDC
+1489	1505	Severního proudu	Severní proud	PRO	PRO-Nord-Stream-1
+1552	1559	Ameriky	Amerika	LOC	GPE-USA
+1614	1627	Spojené státy	Spojené státy	LOC	GPE-USA
+1677	1683	Evropě	Evropa	LOC	LOC-Europe
+1685	1695	Washington	Washington	LOC	GPE-WashingtonDC
+1845	1856	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+1887	1893	Moskvě	Moskva	LOC	GPE-Moscow
+1906	1913	Berlíně	Berlín	LOC	GPE-Berlin
+1967	1974	Německo	Německo	LOC	GPE-Germany
+2098	2104	Ruskem	Rusko	LOC	GPE-Russia

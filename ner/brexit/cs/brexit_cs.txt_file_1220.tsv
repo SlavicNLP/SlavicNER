@@ -1,0 +1,22 @@
+33	40	Londýně	Londýn	LOC	GPE-London
+62	69	brexitu	brexit	EVT	EVT-Brexit
+82	89	brexitu	brexit	EVT	EVT-Brexit
+201	209	Británie	Británie	LOC	GPE-Great-Britain
+248	255	Mayovou	Mayová	PER	PER-Theresa-May
+270	272	EU	EU	ORG	ORG-European-Union
+302	315	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+359	361	EU	EU	ORG	ORG-European-Union
+393	400	The Sun	The Sun	PRO	PRO-The-Sun
+415	421	Mayová	Mayová	PER	PER-Theresa-May
+451	457	brexit	brexit	EVT	EVT-Brexit
+580	588	Liam Fox	Liam Fox	PER	PER-Liam-Fox
+603	609	brexit	brexit	EVT	EVT-Brexit
+610	621	David Davis	David Davis	PER	PER-David-Davis
+646	650	Unie	Unie	ORG	ORG-European-Union
+702	706	Foxe	Fox	PER	PER-Liam-Fox
+713	715	EU	EU	ORG	ORG-European-Union
+838	845	Britové	Britové	PER	GPE-Great-Britain
+890	892	EU	EU	ORG	ORG-European-Union
+935	952	britský parlament	britský parlament	ORG	ORG-British-Parlament
+1035	1039	Unií	Unie	ORG	ORG-European-Union
+1102	1108	Mayové	Mayová	PER	PER-Theresa-May

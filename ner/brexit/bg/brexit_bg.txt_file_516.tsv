@@ -1,0 +1,20 @@
+29	35	Лондон	Лондон	LOC	GPE-London
+65	72	Брекзит	Брекзит	EVT	EVT-Brexit
+118	124	Лондон	Лондон	LOC	GPE-London
+126	140	Великобритания	Великобритания	LOC	GPE-Great-Britain
+188	190	ЕС	ЕС	ORG	ORG-European-Union
+212	219	Гринуич	Гринуич	LOC	GPE-Greenwich
+276	278	ЕС	ЕС	ORG	ORG-European-Union
+307	321	Великобритания	Великобритания	LOC	GPE-Great-Britain
+322	334	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+347	350	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+368	370	ЕС	ЕС	ORG	ORG-European-Union
+483	504	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+598	604	Лондон	Лондон	LOC	GPE-London
+606	620	Великобритания	Великобритания	LOC	GPE-Great-Britain
+668	670	ЕС	ЕС	ORG	ORG-European-Union
+692	699	Гринуич	Гринуич	LOC	GPE-Greenwich
+756	758	ЕС	ЕС	ORG	ORG-European-Union
+787	801	Великобритания	Великобритания	LOC	GPE-Great-Britain
+802	814	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+827	830	БТА	БТА	ORG	ORG-Bulgarian-News-Agency

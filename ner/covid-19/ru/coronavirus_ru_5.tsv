@@ -1,0 +1,27 @@
+0	20	«Кремлевский доктор»	Кремлевский доктор	PER	PER-Alexander-Myasnikov
+42	47	ковид	ковид	EVT	EVT-Covid-19
+133	144	коронавирус	коронавирус	EVT	EVT-Covid-19
+251	271	"""Кремлевский доктор"""	Кремлевский доктор	PER	PER-Alexander-Myasnikov
+272	280	Мясников	Мясников	PER	PER-Alexander-Myasnikov
+294	301	YouTube	YouTube	PRO	PRO-YouTube
+323	328	COVID	COVID	EVT	EVT-Covid-19
+386	404	Александр Мясников	Александр Мясников	PER	PER-Alexander-Myasnikov
+496	504	telegram	Telegram	PRO	PRO-Telegram
+606	614	Мясников	Мясников	PER	PER-Alexander-Myasnikov
+700	707	News.ru	News.ru	PRO	ORG-Newsru.com
+729	741	коронавируса	коронавирус	EVT	EVT-Covid-19
+863	871	Мясников	Мясников	PER	PER-Alexander-Myasnikov
+942	960	Александр Мясников	Александр Мясников	PER	PER-Alexander-Myasnikov
+1002	1008	ковида	ковид	EVT	EVT-Covid-19
+1106	1118	коронавируса	коронавирус	EVT	EVT-Covid-19
+1129	1140	Коронавирус	коронавирус	EVT	EVT-Covid-19
+1162	1170	Мясников	Мясников	PER	PER-Alexander-Myasnikov
+1302	1310	Мясников	Мясников	PER	PER-Alexander-Myasnikov
+1452	1470	Кремлевский доктор	Кремлевский доктор	PER	PER-Alexander-Myasnikov
+1485	1493	Мясников	Мясников	PER	PER-Alexander-Myasnikov
+1554	1556	РФ	РФ	LOC	GPE-Russia
+1619	1622	СМИ	СМИ	PRO	PRO-Mass-Media
+1632	1641	Мясникова	Мясников	PER	PER-Alexander-Myasnikov
+1642	1664	«кремлевским доктором»	Кремлевский доктор	PER	PER-Alexander-Myasnikov
+1680	1688	Мясников	Мясников	PER	PER-Alexander-Myasnikov
+1765	1824	информационного центра мониторинга ситуации с коронавирусом	Информационный центр мониторинга ситуации с коронавирусом	ORG	ORG-Coronavirus-Information-Centre-Russia

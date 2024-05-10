@@ -1,0 +1,39 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+14	19	Trump	Trump	PER	PER-Donald-Trump
+24	29	Biden	Biden	PER	PER-Joe-Biden
+71	77	Trumpa	Trump	PER	PER-Donald-Trump
+81	90	Twitterze	Twitter	PRO	PRO-Twitter
+107	134	wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+209	216	Arizonę	Arizona	LOC	GPE-Arizona
+218	224	Nevadę	Nevada	LOC	GPE-Nevada
+226	237	Pensylwanię	Pensylwania	LOC	GPE-Pennsylvania
+239	256	Karolinę Północną	Karolina Północna	LOC	GPE-North-Carolina-US-State
+259	266	Georgię	Georgia	LOC	GPE-Georgia-US-state
+446	455	Twitterze	Twitter	PRO	PRO-Twitter
+504	515	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+546	556	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+622	636	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+715	742	wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+817	824	Arizonę	Arizona	LOC	GPE-Arizona
+826	832	Nevadę	Nevada	LOC	GPE-Nevada
+834	845	Pensylwanię	Pensylwania	LOC	GPE-Pennsylvania
+847	864	Karolinę Północną	Karolina Północna	LOC	GPE-North-Carolina-US-State
+867	874	Georgię	Georgia	LOC	GPE-Georgia-US-state
+1054	1063	Twitterze	Twitter	PRO	PRO-Twitter
+1112	1123	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+1154	1164	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1230	1244	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1377	1396	Dystrykcie Kolumbii	Dystrykt Kolumbia	LOC	GPE-District-of-Columbia
+1404	1409	Biden	Biden	PER	PER-Joe-Biden
+1452	1457	Trump	Trump	PER	PER-Donald-Trump
+1527	1541	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1638	1647	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1650	1658	Michigan	Michigan	LOC	GPE-Michigan
+1660	1669	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1712	1722	Wilmington	Wilmington	LOC	GPE-Wilmington
+1725	1733	Delaware	Delaware	LOC	GPE-Delaware
+1816	1825	Biały Dom	Biały Dom	LOC	LOC-White-House
+1843	1850	Georgii	Georgie	LOC	GPE-Georgia-US-state
+1934	1941	Georgii	Georgie	LOC	GPE-Georgia-US-state
+2087	2094	Georgii	Georgie	LOC	GPE-Georgia-US-state
+2480	2492	Donald Trump	Donald Trump	PER	PER-Donald-Trump

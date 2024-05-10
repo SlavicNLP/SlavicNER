@@ -1,0 +1,53 @@
+13	30	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+66	72	Європи	Європа	LOC	LOC-Europe
+169	186	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+304	321	Європейської ради	Європейська рада	ORG	ORG-European-Parliament
+322	334	Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+376	383	Україна	Україна	LOC	GPE-Ukraine
+384	386	ЄС	ЄС	LOC	ORG-European-Union
+406	423	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+452	463	Єврокомісія	Єврокомісія	ORG	ORG-European-Commission
+650	667	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+793	800	України	Україна	LOC	GPE-Ukraine
+801	816	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+866	868	ЄС	ЄС	LOC	ORG-European-Union
+913	930	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+979	985	Європу	Європа	LOC	LOC-Europe
+1003	1008	Росії	Росія	LOC	GPE-Russia
+1066	1073	Україну	Україна	LOC	GPE-Ukraine
+1093	1100	Україну	Україна	LOC	GPE-Ukraine
+1175	1194	Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+1270	1276	Європі	Європа	LOC	LOC-Europe
+1315	1321	Європи	Європа	LOC	LOC-Europe
+1326	1331	Росії	Росія	LOC	GPE-Russia
+1347	1356	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+1372	1377	УНІАН	УНІАН	ORG	ORG-UNIAN
+1389	1406	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+1530	1535	Росії	Росія	LOC	GPE-Russia
+1542	1557	Балтійське море	Балтійське море	LOC	LOC-Baltic-Sea
+1561	1570	Німеччини	Німеччина	LOC	GPE-Germany
+1598	1605	України	Україна	LOC	GPE-Ukraine
+1650	1669	Північним потоком-1	Північний потік - 1	ORG	ORG-Nord-Stream-AG
+1805	1814	Усть-Лугу	Усть-Луга	LOC	GPE-Ust-Luga
+1827	1838	Грайфсвальд	Грайфсвальд	LOC	GPE-Greifswald
+1898	1911	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+1955	1972	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+2022	2031	Німеччини	Німеччина	LOC	GPE-Germany
+2034	2043	Фінляндії	Фінляндія	LOC	GPE-Finland
+2062	2068	Швеції	Швеція	LOC	GPE-Sweden
+2080	2085	Данія	Данія	LOC	GPE-Denmark
+2202	2215	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+2322	2328	Лубмін	Лубмін	LOC	GPE-Lubmin
+2330	2337	Україна	Україна	LOC	GPE-Ukraine
+2366	2385	Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+2416	2419	НАК	НАК	ORG	ORG-Naftogaz
+2421	2437	Нафтогаз України	Нафтогаз України	ORG	ORG-Naftogaz
+2439	2454	Андрія Коболєва	Андрій Коболєв	PER	PER-Andrii-Kobliev
+2486	2493	Україну	Україна	LOC	GPE-Ukraine
+2604	2608	Сочі	Сочі	LOC	GPE-Sochi
+2623	2625	РФ	РФ	LOC	GPE-Russia
+2626	2645	Володимиром Путіним	Володимир Путін	PER	PER-Vladimir-Putin
+2654	2663	Німеччини	Німеччина	LOC	GPE-Germany
+2671	2678	Меркель	Меркель	PER	PER-Angela-Merkel
+2748	2755	Україну	Україна	LOC	GPE-Ukraine
+2782	2799	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG

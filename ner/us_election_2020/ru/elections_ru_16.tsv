@@ -1,0 +1,277 @@
+0	5	Киеву	Киев	LOC	GPE-Kiev
+47	54	Байдена	Байден	PER	PER-Joe-Biden
+67	70	США	США	LOC	GPE-USA
+94	104	Украинским	украинский	LOC	GPE-Ukraine
+147	159	американской	американский	LOC	GPE-USA
+189	192	США	США	LOC	GPE-USA
+195	201	Россия	Россия	LOC	GPE-Russia
+254	261	Украины	Украина	LOC	GPE-Ukraine
+285	295	украинский	украинский	LOC	GPE-Ukraine
+305	321	Василий Филипчук	Василий Филипчук	PER	PER-Vasyl-Filipchuk
+325	341	Василий Филипчук	Василий Филипчук	PER	PER-Vasyl-Filipchuk
+347	354	Украины	Украина	LOC	GPE-Ukraine
+370	376	Байден	Байден	PER	PER-Joe-Biden
+379	384	Путин	Путин	PER	PER-Vladimir-Putin
+416	424	Апостроф	Апостроф	PRO	PRO-Apostrof
+426	433	Украина	Украина	LOC	GPE-Ukraine
+437	445	Апостроф	Апостроф	PRO	PRO-Apostrof
+489	497	Украиной	Украина	LOC	GPE-Ukraine
+517	526	Белый дом	Белый дом	LOC	LOC-White-House
+567	593	Соединенных Штатов Америки	Соединенные Штаты Америки	LOC	GPE-USA
+594	605	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+609	625	Василий Филипчук	Василий Филипчук	PER	PER-Vasyl-Filipchuk
+665	685	Соединенными Штатами	Соединенные Штаты	LOC	GPE-USA
+695	703	Украиной	Украина	LOC	GPE-Ukraine
+796	799	США	США	LOC	GPE-USA
+853	856	США	США	LOC	GPE-USA
+871	886	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+927	945	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+996	999	США	США	LOC	GPE-USA
+1093	1098	Трамп	Трамп	PER	PER-Donald-Trump
+1154	1169	северокорейский	северокорейский	LOC	GPE-North-Korea
+1179	1189	Ким Чен Ын	Ким Чен Ын	PER	PER-Kim-Jong-Un
+1301	1312	европейские	европейские	LOC	LOC-Europe
+1368	1374	России	Россия	LOC	GPE-Russia
+1449	1458	демократы	демократы	ORG	ORG-Democratic-Party-USA
+1501	1514	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+1516	1522	Байден	Байден	PER	PER-Joe-Biden
+1633	1636	США	США	LOC	GPE-USA
+1683	1690	Трампом	Трамп	PER	PER-Donald-Trump
+1834	1840	Запада	Запад	LOC	LOC-West
+2016	2026	Гренландии	Гренландия	LOC	GPE-Greenland
+2037	2040	США	США	LOC	GPE-USA
+2069	2075	Ираном	Иран	LOC	GPE-Iran
+2254	2261	Украина	Украина	LOC	GPE-Ukraine
+2310	2313	США	США	LOC	GPE-USA
+2397	2418	Будапештские гарантии	Будапештские гарантии	PRO	PRO-Budapest-Memorandum
+2511	2514	США	США	LOC	GPE-USA
+2552	2558	Россия	Россия	LOC	GPE-Russia
+2569	2576	Украину	Украина	LOC	GPE-Ukraine
+2598	2602	Крым	Крым	LOC	GPE-Crimea
+2636	2644	Донбассе	Донбасс	LOC	LOC-Donbass
+2654	2657	США	США	LOC	GPE-USA
+2710	2715	Обаму	Обама	PER	PER-Barack-Obama
+2817	2820	США	США	LOC	GPE-USA
+2846	2852	Байден	Байден	PER	PER-Joe-Biden
+2927	2933	Россию	Россия	LOC	GPE-Russia
+2971	2980	Донбассом	Донбасс	LOC	LOC-Donbass
+3002	3006	Крым	Крым	LOC	GPE-Crimea
+3037	3042	Трамп	Трамп	PER	PER-Donald-Trump
+3059	3066	Украины	Украина	LOC	GPE-Ukraine
+3214	3223	Зеленским	Зеленский	PER	PER-Volodymyr-Zelensky
+3226	3235	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+3320	3327	Украины	Украина	LOC	GPE-Ukraine
+3340	3343	США	США	LOC	GPE-USA
+3385	3392	Деркача	Деркач	PER	PER-Andrey-Derkach
+3481	3495	«Слуги народа»	«Слуга народа»	ORG	ORG-Servant-of-the-People-Party
+3496	3515	Александр Дубинский	Александр Дубинский	PER	PER-Alexander-Dubinsky
+3581	3592	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+3595	3601	Киевом	Киев	LOC	GPE-Kiev
+4276	4285	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+4685	4692	Украины	Украина	LOC	GPE-Ukraine
+4950	4953	США	США	LOC	GPE-USA
+4965	4976	украинского	украинский	LOC	GPE-Ukraine
+5203	5208	Киева	Киев	LOC	GPE-Kiev
+5314	5322	Банковой	Банковая	LOC	LOC-Bankova-Street
+5404	5412	Банковой	Банковая	LOC	LOC-Bankova-Street
+5511	5518	Байдену	Байден	PER	PER-Joe-Biden
+5530	5540	украинской	украинский	LOC	GPE-Ukraine
+5635	5643	Словакию	Словакия	LOC	GPE-Slovakia
+5647	5656	Словенией	Словения	LOC	GPE-Slovenia
+5763	5773	украинской	украинский	LOC	GPE-Ukraine
+5833	5843	украинской	украинский	LOC	GPE-Ukraine
+5866	5873	Байдена	Байден	PER	PER-Joe-Biden
+5887	5893	Фрейду	Фрейд	PER	PER-Sigmung-Freud
+5945	5951	Байден	Байден	PER	PER-Joe-Biden
+6291	6294	МИД	МИД	ORG	ORG-Foreign-Office
+6298	6318	Михайловской площади	Михайловская площадь	LOC	LOC-Ukraine-Mikhailovskaya-Square
+6340	6348	Банковой	Банковая	LOC	LOC-Bankova-Street
+6476	6479	МИД	МИД	ORG	ORG-Foreign-Office
+6499	6507	Банковой	Банковая	LOC	LOC-Bankova-Street
+6533	6542	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+6868	6877	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+6928	6936	Донбассе	Донбасс	LOC	LOC-Donbass
+6984	6994	Зеленского	Зеленский	PER	PER-Volodymyr-Zelensky
+7001	7010	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+7046	7054	Донбассе	Донбасс	LOC	LOC-Donbass
+7114	7123	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+7253	7263	Зеленского	Зеленский	PER	PER-Volodymyr-Zelensky
+7310	7319	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+7346	7355	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+7415	7422	Ермаком	Ермак	PER	PER-Andrey-Ermak
+7537	7542	Ермак	Ермак	PER	PER-Andrey-Ermak
+7609	7620	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+7788	7795	Россией	Россия	LOC	GPE-Russia
+7851	7854	США	США	LOC	GPE-USA
+7908	7914	Трампа	Трамп	PER	PER-Donald-Trump
+7940	7947	Мадриде	Мадрид	LOC	GPE-Madrid
+7948	7954	Ермака	Ермак	PER	PER-Andrey-Ermak
+7957	7965	Джулиани	Джулиани	PER	PER-Rudy-Giuliani
+8044	8051	Байдена	Байден	PER	PER-Joe-Biden
+8296	8299	США	США	LOC	GPE-USA
+8328	8336	Банковая	Банковая	LOC	LOC-Bankova-Street
+8429	8432	США	США	LOC	GPE-USA
+8464	8474	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+8477	8496	Владимиром Ельченко	Владимир Ельченко	PER	PER-Volodymyr-Yelchenko
+8528	8544	Оксана Маркарова	Оксана Маркарова	PER	PER-Oksana-Markarova
+8620	8630	Маркаровой	Маркарова	PER	PER-Oksana-Markarova
+8664	8674	украинской	украинский	LOC	GPE-Ukraine
+8777	8780	США	США	LOC	GPE-USA
+8814	8832	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+9048	9058	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+9131	9139	Ельченко	Ельченко	PER	PER-Volodymyr-Yelchenko
+9155	9165	украинских	украинский	LOC	GPE-Ukraine
+9221	9224	МИД	МИД	ORG	ORG-Foreign-Office
+9388	9396	Ельченко	Ельченко	PER	PER-Volodymyr-Yelchenko
+9449	9459	Маркаровой	Маркарова	PER	PER-Oksana-Markarova
+9598	9605	Клюевым	Клюев	PER	PER-Andrey-Klyuev
+9940	9943	МИД	МИД	ORG	ORG-Foreign-Office
+10611	10618	украино	украино	LOC	GPE-Ukraine
+10619	10631	американских	американские	LOC	GPE-USA
+10689	10696	Госдепа	Госдеп	ORG	ORG-Department-of-State-USA
+10723	10732	Маркарова	Маркарова	PER	PER-Oksana-Markarova
+10754	10767	американского	американский	LOC	GPE-USA
+10768	10775	Госдепа	Госдеп	ORG	ORG-Department-of-State-USA
+10994	11001	Госдепа	Госдеп	ORG	ORG-Department-of-State-USA
+11010	11015	USAID	USAID	ORG	ORG-USAID
+11094	11097	США	США	LOC	GPE-USA
+11188	11191	США	США	LOC	GPE-USA
+11283	11292	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+11323	11326	США	США	LOC	GPE-USA
+11337	11343	Чалого	Чалый	PER	PER-Valery-Chaly
+11361	11368	Украина	Украина	LOC	GPE-Ukraine
+11566	11574	Ельченко	Ельченко	PER	PER-Volodymyr-Yelchenko
+11757	11760	США	США	LOC	GPE-USA
+11773	11780	Украины	Украина	LOC	GPE-Ukraine
+11837	11851	Энтони Блинкен	Энтони Блинкен	PER	PER-Antony-Blinken
+11980	11983	США	США	LOC	GPE-USA
+11987	11994	Украине	Украина	LOC	GPE-Ukraine
+11998	12016	Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+12046	12075	Государственного департамента	Государственный департамент	ORG	ORG-Department-of-State-USA
+12275	12281	Трампа	Трамп	PER	PER-Donald-Trump
+12291	12296	Трамп	Трамп	PER	PER-Donald-Trump
+12304	12310	Госдеп	Госдеп	ORG	ORG-Department-of-State-USA
+12328	12333	Трамп	Трамп	PER	PER-Donald-Trump
+12389	12394	Киеве	Киев	LOC	GPE-Kiev
+12480	12492	американских	американский	LOC	GPE-USA
+12507	12513	Трампа	Трамп	PER	PER-Donald-Trump
+12516	12526	украинской	украинский	LOC	GPE-Ukraine
+12662	12672	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+12785	12797	американской	американская	LOC	GPE-USA
+12850	12857	Байдена	Байден	PER	PER-Joe-Biden
+12898	12910	американской	американский	LOC	GPE-USA
+12961	12974	американского	американский	LOC	GPE-USA
+13246	13249	США	США	LOC	GPE-USA
+13294	13301	Украине	Украина	LOC	GPE-Ukraine
+13328	13334	Трампа	Трамп	PER	PER-Donald-Trump
+13353	13360	Госдепу	Госдеп	ORG	ORG-Department-of-State-USA
+13497	13509	американском	американский	LOC	GPE-USA
+13510	13519	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+13544	13550	Трампа	Трамп	PER	PER-Donald-Trump
+13581	13592	Курт Волкер	Курт Волкер	PER	PER-Kurt-Volker
+13643	13650	Украине	Украина	LOC	GPE-Ukraine
+13938	13948	украинскую	украинский	LOC	GPE-Ukraine
+13957	13969	американские	американские	LOC	GPE-USA
+14027	14030	США	США	LOC	GPE-USA
+14102	14109	Украины	Украина	LOC	GPE-Ukraine
+14164	14167	США	США	LOC	GPE-USA
+14186	14197	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+14407	14409	ЕС	ЕС	LOC	ORG-European-Union
+14432	14439	Украины	Украина	LOC	GPE-Ukraine
+14456	14458	ЕС	ЕС	LOC	ORG-European-Union
+14528	14531	США	США	LOC	GPE-USA
+14565	14575	американцы	американцы	PER	GPE-USA
+14587	14591	НАБУ	НАБУ	ORG	ORG-National-Anti-Corruption-Bureau-of-Ukraine
+14920	14926	России	Россия	LOC	GPE-Russia
+14938	14945	Украине	Украина	LOC	GPE-Ukraine
+14955	14973	Соединенным Штатам	Соединенные Штаты	LOC	GPE-USA
+14986	14992	России	Россия	LOC	GPE-Russia
+15078	15085	Украина	Украина	LOC	GPE-Ukraine
+15106	15116	российской	российский	LOC	GPE-Russia
+15132	15144	американскую	американский	LOC	GPE-USA
+15173	15185	американской	американская	LOC	GPE-USA
+15224	15232	россияне	россиянин	PER	GPE-Russia
+15252	15269	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+15554	15557	США	США	LOC	GPE-USA
+15579	15585	Египту	Египет	LOC	GPE-Egypt
+15638	15641	США	США	LOC	GPE-USA
+15683	15690	Украине	Украина	LOC	GPE-Ukraine
+15716	15727	Совбезе ООН	Совбез ООН	ORG	ORG-United-Nations-Security-Council
+15787	15810	Будапештский меморандум	Будапештский меморандум	PRO	PRO-Budapest-Memorandum
+15844	15849	Крыма	Крым	LOC	GPE-Crimea
+15852	15860	Донбасса	Донбасс	LOC	LOC-Donbass
+15981	16004	Будапештский меморандум	Будапештский меморандум	PRO	PRO-Budapest-Memorandum
+16063	16072	россиянам	россияне	PER	GPE-Russia
+16313	16337	Будапештском меморандуме	Будапештский меморандум	PRO	PRO-Budapest-Memorandum
+16523	16526	США	США	LOC	GPE-USA
+16552	16557	Обамы	Обама	PER	PER-Barack-Obama
+16717	16729	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+16784	16789	Обамы	Обама	PER	PER-Barack-Obama
+16804	16816	The Atlantic	The Atlantic	PRO	PRO-The-Atlantic
+16862	16865	США	США	LOC	GPE-USA
+16889	16896	Украину	Украина	LOC	GPE-Ukraine
+17045	17051	Россия	Россия	LOC	GPE-Russia
+17140	17147	Израиль	Израиль	LOC	GPE-Israel
+17157	17161	Кубу	Куба	LOC	GPE-Cuba
+17227	17235	Байденом	Байден	PER	PER-Joe-Biden
+17305	17310	Обамы	Обама	PER	PER-Barack-Obama
+17432	17442	украинской	украинский	LOC	GPE-Ukraine
+17458	17468	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+17582	17587	Трамп	Трамп	PER	PER-Donald-Trump
+17647	17658	американцам	американцы	PER	GPE-USA
+17718	17723	Трамп	Трамп	PER	PER-Donald-Trump
+17738	17745	Путиным	Путин	PER	PER-Vladimir-Putin
+17821	17833	американской	американская	LOC	GPE-USA
+17908	17914	Трампа	Трамп	PER	PER-Donald-Trump
+17956	17964	Госдепом	Госдеп	ORG	ORG-Department-of-State-USA
+18131	18141	украинской	украинский	LOC	GPE-Ukraine
+18222	18225	США	США	LOC	GPE-USA
+18237	18252	Минский процесс	Минский процесс	PRO	PRO-The-Minsk-agreement
+18256	18275	Нормандский процесс	Нормандский процесс	PRO	PRO-Norman-Process
+18364	18373	Арестович	Арестович	PER	PER-Oleksiy-Arestovich
+18511	18514	США	США	LOC	GPE-USA
+18523	18545	«нормандскую четверку»	«нормандская четверка»	ORG	ORG-Normandy-Four
+18576	18584	россияне	россиянин	PER	GPE-Russia
+18648	18656	французы	французы	PER	GPE-France
+18797	18808	нормандский	нормандский	LOC	LOC-Normandy
+18929	18937	Германии	Германия	LOC	GPE-Germany
+18938	18952	Ангелу Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+18995	19002	Макрона	Макрон	PER	PER-Emmanuel-Macron
+19046	19058	нормандского	нормандский	LOC	LOC-Normandy
+19157	19164	Америку	Америка	LOC	GPE-USA
+19174	19180	Европу	Европа	LOC	LOC-Europe
+19232	19243	нормандской	нормандская	LOC	LOC-Normandy
+19264	19272	Германия	Германия	LOC	GPE-Germany
+19277	19284	Франция	Франция	LOC	GPE-France
+19295	19302	Украина	Украина	LOC	GPE-Ukraine
+19308	19314	Россия	Россия	LOC	GPE-Russia
+19425	19431	России	Россия	LOC	GPE-Russia
+19457	19464	Украина	Украина	LOC	GPE-Ukraine
+19467	19476	Германией	Германия	LOC	GPE-Germany
+19479	19487	Францией	Франция	LOC	GPE-France
+19540	19546	Россия	Россия	LOC	GPE-Russia
+19612	19618	Россия	Россия	LOC	GPE-Russia
+19646	19657	нормандской	нормандская	LOC	LOC-Normandy
+19698	19704	Россия	Россия	LOC	GPE-Russia
+19786	19793	Байдена	Байден	PER	PER-Joe-Biden
+19924	19930	России	Россия	LOC	GPE-Russia
+19961	19967	Путина	Путин	PER	PER-Vladimir-Putin
+20082	20093	Дэн Сяопина	Дэн Сяопин	PER	PER-Deng-Xiaoping
+20318	20328	Белоруссии	Белоруссия	LOC	GPE-Belarus
+20376	20384	Байденом	Байден	PER	PER-Joe-Biden
+20493	20500	Байдена	Байден	PER	PER-Joe-Biden
+20503	20509	Путина	Путин	PER	PER-Vladimir-Putin
+20548	20559	европейское	европейский	LOC	LOC-Europe
+20566	20573	Байдена	Байден	PER	PER-Joe-Biden
+20655	20665	российских	российский	LOC	GPE-Russia
+20735	20745	украинских	украинский	LOC	GPE-Ukraine
+20775	20781	России	Россия	LOC	GPE-Russia
+20845	20857	американские	американские	LOC	GPE-USA
+20917	20923	Трампе	Трамп	PER	PER-Donald-Trump
+20959	20965	Россия	Россия	LOC	GPE-Russia
+20989	20992	США	США	LOC	GPE-USA
+21122	21132	украинский	украинский	LOC	GPE-Ukraine
+21250	21262	американской	американский	LOC	GPE-USA
+21335	21341	ИноСМИ	ИноСМИ	PRO	PRO-InoSMI
+21418	21424	ИноСМИ	ИноСМИ	PRO	PRO-InoSMI
+21458	21466	Telegram	Telegram	PRO	PRO-Telegram

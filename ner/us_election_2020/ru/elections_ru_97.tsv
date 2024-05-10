@@ -1,0 +1,59 @@
+26	31	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+47	50	США	США	LOC	GPE-USA
+53	60	Россией	Россия	LOC	GPE-Russia
+78	87	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+113	119	REGNUM	REGNUM	PRO	PRO-REGNUM
+161	164	США	США	LOC	GPE-USA
+167	174	Россией	Россия	LOC	GPE-Russia
+191	253	Договора о сокращении стратегических наступательных вооружений	Договор о сокращении стратегических наступательных вооружений	PRO	PRO-Strategic-Arms-Reduction-Treaty
+255	260	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+324	332	Stratfor	Stratfor	PRO	PRO-Stratfor
+354	375	The National Interest	The National Interest	PRO	PRO-The-National-Interest-Magazine
+457	471	Договора СНВ-3	Договор СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+516	527	Белого дома	Белый дом	ORG	ORG-The-White-House
+528	538	Джен Псаки	Джен Псаки	PER	PER-Jen-Psaki
+563	572	Пентагона	Пентагон	ORG	ORG-The-Pentagon
+573	583	Джон Кирби	Джон Кирби	PER	PER-John-Kirby
+734	752	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+767	781	Договора СНВ-3	Договор СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+901	908	Кремлем	Кремль	ORG	ORG-Kremlin
+1047	1059	американские	американские	LOC	GPE-USA
+1126	1136	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+1139	1146	Москвой	Москва	LOC	GPE-Moscow
+1232	1238	России	Россия	LOC	GPE-Russia
+1312	1319	Байдене	Джо Байден	PER	PER-Joe-Biden
+1340	1346	Кремля	Кремль	ORG	ORG-Kremlin
+1385	1391	Москву	Москва	LOC	GPE-Moscow
+1394	1403	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1453	1463	Белоруссии	Белоруссия	LOC	GPE-Belarus
+1465	1470	Сирии	Сирия	LOC	GPE-Syria
+1473	1480	Украины	Украина	LOC	GPE-Ukraine
+1498	1509	российского	российский	LOC	GPE-Russia
+1522	1542	«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+1545	1553	Германию	Германия	LOC	GPE-Germany
+1804	1812	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+1924	1932	Stratfor	Stratfor	PRO	PRO-Stratfor
+1964	1971	Байдена	Байден	PER	PER-Joe-Biden
+2048	2054	Россию	Россия	LOC	GPE-Russia
+2174	2179	Китая	Китай	LOC	GPE-China
+2230	2236	России	Россия	LOC	GPE-Russia
+2239	2242	США	США	LOC	GPE-USA
+2263	2278	российского МИД	российский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+2528	2541	американскими	американский	LOC	GPE-USA
+2579	2588	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2629	2635	Москвы	Москва	LOC	GPE-Moscow
+2697	2703	России	Россия	LOC	GPE-Russia
+2706	2709	США	США	LOC	GPE-USA
+2737	2742	Сирии	Сирия	LOC	GPE-Syria
+2744	2752	иранская	иранская	LOC	GPE-Iran
+2772	2781	Венесуэла	Венесуэла	LOC	GPE-Venezuela
+2797	2803	Европу	Европа	LOC	LOC-Europe
+2819	2825	Россию	Россия	LOC	GPE-Russia
+2840	2843	США	США	LOC	GPE-USA
+2942	2952	российские	российские	LOC	GPE-Russia
+2974	2980	Москвы	Москва	LOC	GPE-Moscow
+3023	3042	американские выборы	американские выборы	EVT	EVT-2016-United-States-Presidential-Election
+3111	3120	ИА REGNUM	ИА REGNUM	PRO	PRO-REGNUM
+3161	3170	ИА REGNUM	ИА REGNUM	PRO	PRO-REGNUM
+3295	3405	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор)	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор)	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+3456	3566	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор)	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор)	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media

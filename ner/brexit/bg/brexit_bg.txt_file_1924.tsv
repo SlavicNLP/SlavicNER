@@ -1,0 +1,41 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+59	66	Брекзит	Брекзит	EVT	EVT-Brexit
+103	120	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+221	227	Лондон	Лондон	LOC	GPE-London
+294	308	Великобритания	Великобритания	LOC	GPE-Great-Britain
+451	458	Брекзит	Брекзит	EVT	EVT-Brexit
+469	477	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+530	560	Frankfurter Allgemeine Zeitung	Frankfurter Allgemeine Zeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+594	606	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+630	643	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+736	738	ЕС	ЕС	ORG	ORG-European-Union
+744	758	Великобритания	Великобритания	LOC	GPE-Great-Britain
+770	790	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1419	1427	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+1639	1641	ЕС	ЕС	ORG	ORG-European-Union
+1708	1721	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+1724	1736	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+1742	1750	Германия	Германия	LOC	GPE-Germany
+1859	1866	Брезкит	Брекзит	EVT	EVT-Brexit
+1907	1927	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1929	1941	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+2182	2202	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2216	2222	Барние	Барние	PER	PER-Michel-Barnier
+2352	2354	ЕС	ЕС	ORG	ORG-European-Union
+2603	2611	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+2747	2753	Барние	Барние	PER	PER-Michel-Barnier
+2982	2984	ЕС	ЕС	ORG	ORG-European-Union
+3012	3032	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3143	3160	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+3163	3177	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3255	3269	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3395	3397	ЕС	ЕС	ORG	ORG-European-Union
+3434	3440	Барние	Барние	PER	PER-Michel-Barnier
+3476	3479	FAZ	FAZ	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+3481	3487	Дейвис	Дейвис	PER	PER-David-Davis
+3490	3496	Хамънд	Хамънд	PER	PER-Philip-Hammond
+3579	3581	ЕС	ЕС	ORG	ORG-European-Union
+4132	4146	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4155	4157	ЕС	ЕС	ORG	ORG-European-Union
+4169	4175	Дейвис	Дейвис	PER	PER-David-Davis
+4178	4184	Хамънд	Хамънд	PER	PER-Philip-Hammond

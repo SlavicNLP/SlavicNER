@@ -1,0 +1,35 @@
+22	25	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+99	112	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+227	232	Тръмп	Тръмп	PER	PER-Donald-Trump
+253	259	Тексас	Тексас	LOC	GPE-Texas
+286	299	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+313	321	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+323	330	Мичиган	Мичиган	LOC	GPE-Michigan
+332	342	Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+345	354	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+439	463	коронавирусната пандемия	коронавирусна пандемия	EVT	EVT-Pandemic
+487	494	Ройтерс	Ройтерс	ORG	ORG-Reuters
+540	546	Тексас	Тексас	LOC	GPE-Texas
+548	562	републиканецът	републиканец	PER	ORG-Republican-Party-USA
+563	574	Кен Пакстън	Кен Пакстън	PER	PER-Ken-Paxton
+649	662	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+777	782	Тръмп	Тръмп	PER	PER-Donald-Trump
+855	861	Байдън	Байдън	PER	PER-Joe-Biden
+863	877	Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+976	988	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1061	1071	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1073	1079	Байдън	Байдън	PER	PER-Joe-Biden
+1139	1144	Тръмп	Тръмп	PER	PER-Donald-Trump
+1363	1369	Тексас	Тексас	LOC	GPE-Texas
+1393	1407	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1668	1678	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1687	1692	Тръмп	Тръмп	PER	PER-Donald-Trump
+1755	1761	Тексас	Тексас	LOC	GPE-Texas
+1767	1781	Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+1804	1825	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+1951	1957	Байдън	Байдън	PER	PER-Joe-Biden
+2054	2059	Тръмп	Тръмп	PER	PER-Donald-Trump
+2078	2084	Байдън	Байдън	PER	PER-Joe-Biden
+2192	2203	Джил Байдън	Джил Байдън	PER	PER-Jill-Biden
+2249	2255	Тексас	Тексас	LOC	GPE-Texas
+2278	2292	Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States

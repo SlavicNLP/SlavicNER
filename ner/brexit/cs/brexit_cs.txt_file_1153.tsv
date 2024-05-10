@@ -1,0 +1,23 @@
+13	20	brexitu	brexit	EVT	EVT-Brexit
+98	106	Británie	Británie	LOC	GPE-Great-Britain
+239	245	brexit	brexit	EVT	EVT-Brexit
+593	601	Liam Fox	Liam Fox	PER	PER-Liam-Fox
+620	628	brexitem	brexit	EVT	EVT-Brexit
+663	677	Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+702	710	Británie	Británie	LOC	GPE-Great-Britain
+713	717	Unie	Unie	ORG	ORG-European-Union
+761	764	BBC	BBC	PRO	PRO-BBC
+844	846	EU	EU	ORG	ORG-European-Union
+1034	1040	Brexit	Brexit	EVT	EVT-Brexit
+1081	1094	People's Vote	People's Vote	ORG	ORG-Peoples-Vote
+1095	1097	UK	UK	LOC	GPE-Great-Britain
+1132	1145	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1293	1299	brexit	brexit	EVT	EVT-Brexit
+1395	1400	Brity	Britové	PER	GPE-Great-Britain
+1435	1446	David Davis	David Davis	PER	PER-David-Davis
+1456	1469	Daily Express	Daily Express	PRO	PRO-Daily-Express
+1491	1497	Mayová	Mayová	PER	PER-Theresa-May
+1502	1510	Británii	Británie	LOC	GPE-Great-Britain
+1513	1521	Bruselem	Brusel	LOC	GPE-Brussles
+1581	1599	Spojené království	Spojené království	LOC	GPE-Great-Britain
+1603	1609	brexit	brexit	EVT	EVT-Brexit

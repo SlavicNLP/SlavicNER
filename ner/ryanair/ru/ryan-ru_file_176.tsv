@@ -1,0 +1,23 @@
+25	31	Италии	Италия	LOC	GPE-Italy
+151	155	ENAV	ENAV	ORG	ORG-ENAV
+290	294	Рима	Рим	LOC	GPE-Rome
+296	302	Милана	Милан	LOC	GPE-Milan
+304	311	Неаполя	Неаполь	LOC	GPE-Napoli
+313	320	Венеции	Венеция	LOC	GPE-Venezia
+323	330	Болоньи	Болонья	LOC	GPE-Bologna
+394	403	Интерфакс	Интерфакс	ORG	ORG-Interfax
+472	478	SU2596	SU2596	PRO	PRO-Route-SU2596
+479	490	Шереметьево	Шереметьево	LOC	LOC-Sheremetievo
+493	500	Венеция	Венеция	LOC	GPE-Venezia
+535	541	SU2597	SU2597	PRO	PRO-Route-SU2597
+542	549	Венеция	Венеция	LOC	GPE-Venezia
+552	563	Шереметьево	Шереметьево	LOC	LOC-Sheremetievo
+594	600	SU2416	SU2416	PRO	PRO-Route-SU2416
+601	612	Шереметьево	Шереметьево	LOC	LOC-Sheremetievo
+615	620	Милан	Милан	LOC	GPE-Milan
+645	651	SU2417	SU2417	PRO	PRO-Route2417
+652	657	Милан	Милан	LOC	GPE-Milan
+660	671	Шереметьево	Шереметьево	LOC	LOC-Sheremetievo
+734	741	Ryanair	Ryanair	ORG	ORG-Ryanair
+966	1001	ситуационно-кризисный центр МИДа РФ	ситуационно-кризисный центр МИДа РФ	ORG	ORG-Situation-and-Crisis-Center-of-the-Ministry-of-Foreign-Affairs-Russia
+1038	1046	Аэрофлот	Аэрофлот	ORG	ORG-Aeroflot

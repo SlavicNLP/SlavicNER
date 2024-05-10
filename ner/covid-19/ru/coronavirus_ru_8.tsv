@@ -1,0 +1,23 @@
+2	12	Петербурге	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+45	57	коронавируса	Коронавирус	EVT	EVT-Covid-19
+98	106	COVID-19	COVID-19	EVT	EVT-Covid-19
+243	266	Союз журналистов России	Союз журналистов России	ORG	ORG-Russian-Union-Of-Journalists
+321	338	111-й поликлинике	Городская поликлиника № 111 для взрослых	LOC	GPE-City-polyclinic-No.111-for-adults
+366	381	Олегу Мееровичу	Олег Аронович	PER	PER-Oleg-Aronovich
+462	471	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+506	519	Олег Аронович	Олег Аронович	PER	PER-Oleg-Aronovich
+623	635	коронавируса	Коронавирус	EVT	EVT-Covid-19
+845	858	Гам-Ковид-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+895	903	COVID-19	COVID-19	EVT	EVT-Covid-19
+1114	1117	НТВ	НТВ	PRO	PRO-NTV
+1118	1135	Мария Сапожникова	Мария Сапожникова	PER	PER-Maria-Sapozhnikova
+1496	1532	111-й поликлинике Приморского района	Городская поликлиника № 111 для взрослых	LOC	GPE-City-polyclinic-No.111-for-adults
+1653	1665	коронавируса	коронавирус	EVT	EVT-Covid-19
+1864	1877	НТВ-Петербург	НТВ-Петербург	PRO	PRO-NTV
+2117	2125	госуслуг	Госуслуги	PRO	PRO-Gosuslugi
+2329	2335	NTV.RU	NTV	PRO	PRO-NTV
+2356	2450	Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаций	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+2452	2464	Роскомнадзор	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+2572	2578	NTV.RU	NTV	PRO	PRO-NTV
+2629	2635	NTV.RU	NTV	PRO	PRO-NTV
+2662	2678	Телекомпания НТВ	НТВ	PRO	PRO-NTV

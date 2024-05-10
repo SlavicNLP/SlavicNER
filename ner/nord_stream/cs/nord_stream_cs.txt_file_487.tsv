@@ -1,0 +1,17 @@
+26	29	USA	USA	LOC	GPE-USA
+31	36	Rusko	Rusko	LOC	GPE-Russia
+39	46	Německo	Německo	LOC	GPE-Germany
+54	72	Ribbentrop-Molotov	Ribbentrop-Molotov	PRO	PRO-Molotov–Ribbentrop-Pact
+79	90	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+97	108	Tomáš Pojar	Tomáš Pojar	PER	PER-Tomas-Pojar
+126	140	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+191	194	INF	INF	PRO	PRO-INF-Intermediate-Range-Nuclear-Forces-Treaty
+243	248	Rusko	Rusko	LOC	GPE-Russia
+379	395	Sovětského svazu	Sovětský svaz	LOC	GPE-USSR
+518	523	Rusko	Rusko	LOC	GPE-Russia
+613	621	Trumpovo	Trump	PER	PER-Donald-Trump
+671	684	studené válce	studená válka	EVT	EVT-Cold-War
+687	693	Ruskem	Rusko	LOC	GPE-Russia
+790	795	Rusko	Rusko	LOC	GPE-Russia
+1021	1027	Ruskem	Rusko	LOC	GPE-Russia
+1061	1076	České republiky	Česká republika	LOC	GPE-Czech-Republic

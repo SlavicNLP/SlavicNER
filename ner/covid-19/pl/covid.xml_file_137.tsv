@@ -1,0 +1,13 @@
+2	10	Nowy Rok	Nowy Rok	EVT	EVT-New-Year
+40	53	koronawirusem	koronawirus	EVT	EVT-Covid-19
+55	67	Wielkopolska	Wielkopolska	LOC	GPE-Poland-Greater-Poland-Voivodeship
+136	149	koronawirusem	koronawirus	EVT	EVT-Covid-19
+152	164	Wielkopolsce	Wielkopolska	LOC	GPE-Poland-Greater-Poland-Voivodeship
+188	208	Ministerstwo Zdrowia	Ministerstwo Zdrowia	ORG	ORG-Ministry-of-Health-Poland
+334	358	województwie mazowieckim	województwo mazowieckie	LOC	GPE-Poland-Masovian-Voivodeship
+378	390	Wielkopolska	Wielkopolska	LOC	GPE-Poland-Greater-Poland-Voivodeship
+435	444	pomorskie	pomorskie	LOC	GPE-Poland-Pomerania-Voivodeship
+467	485	kujawsko-pomorskie	kujawsko-pomorskie	LOC	GPE-Poland-Kuyavian-Pomeranian-Voivodeship
+570	578	COVID-19	COVID-19	EVT	EVT-Covid-19
+631	651	Ministerstwo Zdrowia	Ministerstwo Zdrowia	ORG	ORG-Ministry-of-Health-Poland
+664	670	Polska	Polska	LOC	GPE-Poland

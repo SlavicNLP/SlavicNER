@@ -1,0 +1,10 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+38	44	Brexit	Brexit	EVT	EVT-Brexit
+66	76	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+129	137	Брекзита	Брекзит	EVT	EVT-Brexit
+203	205	ЕС	ЕС	ORG	ORG-European-Union
+216	223	Ройтерс	Ройтерс	ORG	ORG-Reuters
+225	239	Великобритания	Великобритания	LOC	GPE-Great-Britain
+332	334	ЕС	ЕС	ORG	ORG-European-Union
+420	427	Брюксел	Брюксел	LOC	GPE-Brussles
+506	512	Лондон	Лондон	LOC	GPE-London

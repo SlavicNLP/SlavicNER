@@ -1,0 +1,67 @@
+21	29	Брекзиту	Брекзит	EVT	EVT-Brexit
+30	44	Великобритании	Великобритания	LOC	GPE-Great-Britain
+61	82	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+217	226	Евросоюза	Евросоюз	ORG	ORG-European-Union
+257	271	Великобритании	Великобритания	LOC	GPE-Great-Britain
+272	283	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+339	349	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+432	439	Лондона	Лондон	LOC	GPE-London
+442	460	Европейским союзом	Европейский союз	ORG	ORG-European-Union
+468	476	Брекзита	Брекзит	EVT	EVT-Brexit
+479	490	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+582	607	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+633	642	Евросоюза	Евросоюз	ORG	ORG-European-Union
+742	763	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+847	849	ЕС	ЕС	ORG	ORG-European-Union
+851	862	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+989	994	Дэвис	Дэвис	PER	PER-David-Davis
+1076	1083	Лондона	Лондон	LOC	GPE-London
+1101	1103	ЕС	ЕС	ORG	ORG-European-Union
+1108	1116	Брекзиту	Брекзит	EVT	EVT-Brexit
+1138	1148	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1243	1248	Дэвис	Дэвис	PER	PER-David-Davis
+1307	1321	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1325	1334	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1390	1396	Дэвиса	Дэвис	PER	PER-David-Davis
+1456	1477	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1478	1487	Питер Бон	Питер Бон	PER	PER-Peter-Bone
+1511	1517	Дэвиса	Дэвис	PER	PER-David-Davis
+1551	1560	Питер Бон	Питер Бон	PER	PER-Peter-Bone
+1612	1630	Европейского союза	Европейский союз	ORG	ORG-European-Union
+1683	1694	референдума	референдум	EVT	EVT-Brexit-Referendum
+1697	1708	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1721	1730	британцев	британцы	PER	GPE-Great-Britain
+1743	1745	ЕС	ЕС	ORG	ORG-European-Union
+1747	1758	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1790	1798	Брекзита	Брекзит	EVT	EVT-Brexit
+1836	1847	европейцами	европейцы	PER	LOC-Europe
+1869	1892	"министерства ""Брекзита"""	"министерство ""Брекзита"""	ORG	ORG-Ministry-of-Brexity
+1894	1908	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1930	1939	Евросоюза	Евросоюз	ORG	ORG-European-Union
+2053	2061	Брекзита	Брекзит	EVT	EVT-Brexit
+2111	2118	Дэвисом	Дэвис	PER	PER-David-Davis
+2248	2269	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+2279	2285	Дэвиса	Дэвис	PER	PER-David-Davis
+2350	2358	Брекзита	Брекзит	EVT	EVT-Brexit
+2397	2407	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+2433	2441	Брекзита	Брекзит	EVT	EVT-Brexit
+2482	2484	ЕС	ЕС	ORG	ORG-European-Union
+2491	2499	Брекзита	Брекзит	EVT	EVT-Brexit
+2556	2570	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2593	2601	Брекзита	Брекзит	EVT	EVT-Brexit
+2627	2635	Британия	Британия	LOC	GPE-Great-Britain
+2694	2712	Европейского союза	Европейский союз	ORG	ORG-European-Union
+2995	3003	Брекзита	Брекзит	EVT	EVT-Brexit
+3027	3035	Брекзита	Брекзит	EVT	EVT-Brexit
+3074	3088	Великобритании	Великобритания	LOC	GPE-Great-Britain
+3089	3102	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+3153	3164	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+3208	3222	Великобритании	Великобритания	LOC	GPE-Great-Britain
+3446	3448	ЕС	ЕС	ORG	ORG-European-Union
+3512	3522	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+3637	3652	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+3679	3689	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+3698	3719	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+3816	3826	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+3890	3910	Лейбористской партии	Лейбористская партия	ORG	ORG-Labour-Party-UK
+3951	3965	Великобритании	Великобритания	LOC	GPE-Great-Britain

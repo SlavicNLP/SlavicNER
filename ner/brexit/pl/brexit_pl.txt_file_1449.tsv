@@ -1,0 +1,31 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+25	42	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+172	190	Starym Kontynentem	Stary Kontynent	LOC	LOC-Old-World
+194	213	Wyspami Brytyjskimi	Wyspy Brytyjskie	LOC	GPE-Great-Britain
+324	331	Brexitu	Brexit	EVT	EVT-Brexit
+472	489	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+491	506	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+627	633	Londyn	Londyn	LOC	GPE-London
+636	644	Bruksela	Bruksela	LOC	GPE-Brussles
+739	741	UE	UE	ORG	ORG-European-Union
+807	824	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+897	903	Londyn	Londyn	LOC	GPE-London
+982	989	Europie	Europa	LOC	LOC-Europe
+1062	1076	Neil Cornelius	Neil Cornelius	PER	PER-Neil-Cornelius
+1102	1129	Berkeley Research Group LLC	Berkeley Research Group LLC	ORG	ORG-Berkeley-Research-Group-LLC
+1252	1269	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1275	1282	Francja	Francja	LOC	GPE-France
+1383	1390	Brexitu	Brexit	EVT	EVT-Brexit
+1660	1677	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1828	1834	Europy	Europa	LOC	LOC-Europe
+1876	1887	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1895	1907	Europejczycy	Europejczycy	PER	LOC-Europe
+2279	2290	Theresy May	Theresa May	PER	PER-Theresa-May
+2512	2520	Brexicie	Brexit	EVT	EVT-Brexit
+2522	2537	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2559	2561	UE	UE	ORG	ORG-European-Union
+2633	2635	UE	UE	ORG	ORG-European-Union
+2923	2932	Cornelius	Cornelius	PER	PER-Neil-Cornelius
+3091	3097	Londyn	Londyn	LOC	GPE-London
+3275	3292	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3342	3356	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl

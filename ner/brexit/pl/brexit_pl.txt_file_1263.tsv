@@ -1,0 +1,74 @@
+7	9	UE	UE	ORG	ORG-European-Union
+29	34	Rosji	Rosja	LOC	GPE-Russia
+46	54	Skripala	Skripal	PER	PER-Siergiej-Skripal
+73	90	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+108	111	USA	USA	LOC	GPE-USA
+118	124	brexit	Brexit	EVT	EVT-Brexit
+190	198	Brukseli	Bruksela	LOC	GPE-Brussles
+275	284	Facebooka	Facebook	PRO	PRO-Facebook
+314	320	Polskę	Polska	LOC	GPE-Poland
+350	368	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+373	381	Brukseli	Bruksela	LOC	GPE-Brussles
+382	400	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+421	441	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+442	466	Jean-Claude'em Junckerem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+568	585	Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+832	839	Komisją	Komisja	ORG	ORG-European-Commission
+910	928	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+966	986	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+1110	1159	Sojusz Europejskich Konserwatystów i Reformatorów	Sojusz Europejskich Konserwatystów i Reformatorów	ORG	ORG-AECR-Alliance-of-European-Conservatives-and-Reformists
+1169	1177	Skripala	Skripal	PER	PER-Siergiej-Skripal
+1215	1233	Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+1292	1309	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1310	1321	Theresa May	Theresa May	PER	PER-Theresa-May
+1388	1403	Polskiego Radia	Polskie Radio	PRO	PRO-Polish-Radio
+1516	1531	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1719	1724	Rosja	Rosja	LOC	GPE-Russia
+1834	1840	Moskwy	Moskwa	LOC	GPE-Moscow
+1844	1850	Polska	Polska	LOC	GPE-Poland
+1929	1934	Rosji	Rosja	LOC	GPE-Russia
+1960	1968	Brukseli	Bruksela	LOC	GPE-Brussles
+1998	2015	Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+2033	2051	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+2072	2080	Brukseli	Bruksela	LOC	GPE-Brussles
+2125	2129	Unia	Unia	ORG	ORG-European-Union
+2203	2207	Unii	Unia	ORG	ORG-European-Union
+2321	2334	Angelą Merkel	Angela Merkel	PER	PER-Angela-Merkel
+2351	2355	Unii	Unia	ORG	ORG-European-Union
+2402	2419	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2487	2502	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2587	2591	Unii	Unia	ORG	ORG-European-Union
+2613	2630	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+2631	2642	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+2674	2683	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2724	2732	facebook	Facebook	PRO	PRO-Facebook
+2826	2846	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+2906	2912	Europa	Europa	LOC	LOC-Europe
+2977	2989	Waszyngtonie	Waszyngton	LOC	GPE-WashingtonDC
+3022	3040	Cecilia Malmstroem	Cecilia Malmstroem	PER	PER-Cecilia-Malmstroem
+3119	3125	Europa	Europa	LOC	LOC-Europe
+3162	3168	Meksyk	Meksyk	LOC	GPE-Mexico
+3174	3180	Kanada	Kanada	LOC	GPE-Canada
+3183	3192	Australia	Australia	LOC	GPE-Australia
+3306	3312	Europy	Europa	LOC	LOC-Europe
+3380	3383	USA	USA	LOC	GPE-USA
+3524	3533	Facebooka	Facebook	PRO	PRO-Facebook
+3546	3565	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+3658	3667	Facebooka	Facebook	PRO	PRO-Facebook
+3792	3816	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+3817	3831	Antonio Tajani	Antonio Tajani	PER	PER-Antonio-Tajani
+3860	3873	Europarlament	Europarlament	ORG	ORG-European-Parliament
+3994	4004	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+4091	4109	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+4346	4363	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4409	4416	brexitu	Brexit	EVT	EVT-Brexit
+4516	4533	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4537	4546	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+4672	4679	brexitu	Brexit	EVT	EVT-Brexit
+4720	4737	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+4738	4749	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+4798	4811	Europejczyków	Europejczycy	PER	LOC-Europe
+4814	4831	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4915	4920	Wyspy	Wyspy	LOC	GPE-Great-Britain
+4924	4932	Brexicie	Brexit	EVT	EVT-Brexit
+5046	5053	brexitu	Brexit	EVT	EVT-Brexit

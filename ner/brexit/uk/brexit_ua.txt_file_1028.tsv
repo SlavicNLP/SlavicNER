@@ -1,0 +1,17 @@
+15	29	Великобританії	Великобританія	LOC	GPE-Great-Britain
+73	79	Brexit	Brexit	EVT	EVT-Brexit
+167	181	Великобританії	Великобританія	LOC	GPE-Great-Britain
+305	315	IHS Markit	IHS Markit	ORG	ORG-IHS-Markit
+637	643	Brexit	Brexit	EVT	EVT-Brexit
+745	755	IHS Markit	IHS Markit	ORG	ORG-IHS-Markit
+756	764	Тім Моор	Тім Моор	PER	PER-Tim-Moor
+779	789	Терези Мей	Тереза Мей	PER	PER-Theresa-May
+824	833	Брюсселем	Брюссель	LOC	GPE-Brussles
+873	887	Великобританії	Великобританія	LOC	GPE-Great-Britain
+898	907	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1062	1068	Brexit	Brexit	EVT	EVT-Brexit
+1187	1195	Ла-Маншу	Ла-Манш	LOC	LOC-English-Channel
+1212	1265	Федерального об'єднання німецької промисловості (BDI)	Федеральне об'єднання німецької промисловості (BDI)	ORG	ORG-Federation-of-German-Industries
+1266	1277	Дітер Кемпф	Дітер Кемпф	PER	PER-Dieter-Kempf
+1279	1291	Dieter Kempf	Dieter Kempf	PER	PER-Dieter-Kempf
+1515	1520	Кемпф	Кемпф	PER	PER-Dieter-Kempf

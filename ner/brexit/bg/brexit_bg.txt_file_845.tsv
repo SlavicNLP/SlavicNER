@@ -1,0 +1,13 @@
+0	7	Джонсън	Джонсън	PER	PER-Boris-Johnson
+9	15	Brexit	Brexit	EVT	EVT-Brexit
+81	95	Великобритания	Великобритания	LOC	GPE-Great-Britain
+96	109	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+149	151	ЕС	ЕС	ORG	ORG-European-Union
+285	291	Brexit	Brexit	EVT	EVT-Brexit
+298	313	The Independent	The Independent	PRO	PRO-The-Independent
+327	332	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+416	418	ЕС	ЕС	ORG	ORG-European-Union
+447	454	Брекзит	Брекзит	EVT	EVT-Brexit
+643	650	Джонсън	Джонсън	PER	PER-Boris-Johnson
+711	717	Brexit	Brexit	EVT	EVT-Brexit
+824	830	Brexit	Brexit	EVT	EVT-Brexit

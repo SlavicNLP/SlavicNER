@@ -1,0 +1,136 @@
+19	30	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+143	149	Трампа	Трамп	PER	PER-Donald-Trump
+173	181	Германии	Германия	LOC	GPE-Germany
+191	196	Трамп	Трамп	PER	PER-Donald-Trump
+248	268	«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+298	305	Россией	Россия	LOC	GPE-Russia
+316	325	«Гуаньча»	Гуаньча	PRO	PRO-Guancha
+329	335	Байден	Байден	PER	PER-Joe-Biden
+366	373	Меркель	Меркель	PER	PER-Angela-Merkel
+443	452	Германией	Германия	LOC	GPE-Germany
+455	458	США	США	LOC	GPE-USA
+491	498	Гуаньча	Гуаньча	PRO	PRO-Guancha
+500	505	Китай	Китай	LOC	GPE-China
+519	529	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+578	581	США	США	LOC	GPE-USA
+649	652	США	США	LOC	GPE-USA
+734	741	Байдену	Байден	PER	PER-Joe-Biden
+951	958	Байдена	Байден	PER	PER-Joe-Biden
+1040	1046	Трампа	Трамп	PER	PER-Donald-Trump
+1058	1066	Германии	Германия	LOC	GPE-Germany
+1067	1081	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+1098	1105	Байдену	Байден	PER	PER-Joe-Biden
+1205	1208	США	США	LOC	GPE-USA
+1285	1303	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+1310	1316	Европы	Европа	LOC	LOC-Europe
+1447	1454	германо	германо	LOC	GPE-Germany
+1455	1467	американские	американские	LOC	GPE-USA
+1511	1526	Financial Times	Financial Times	PRO	PRO-Financial-Times
+1541	1549	Германия	Германия	LOC	GPE-Germany
+1601	1607	Байден	Байден	PER	PER-Joe-Biden
+1616	1625	Белый дом	Белый дом	LOC	LOC-White-House
+1656	1661	Трамп	Трамп	PER	PER-Donald-Trump
+1692	1700	Германию	Германия	LOC	GPE-Germany
+1781	1801	«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+1828	1834	Россию	Россия	LOC	GPE-Russia
+1837	1845	Германию	Германия	LOC	GPE-Germany
+1869	1891	«Северного потока — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+1955	1962	германо	германо	LOC	GPE-Germany
+1963	1975	американских	американских	LOC	GPE-USA
+2021	2039	Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+2105	2111	Трампа	Трамп	PER	PER-Donald-Trump
+2174	2176	ЕС	ЕС	ORG	ORG-European-Union
+2180	2186	России	Россия	LOC	GPE-Russia
+2237	2243	Европы	Европа	LOC	LOC-Europe
+2272	2278	Трампа	Трамп	PER	PER-Donald-Trump
+2339	2346	Меркель	Меркель	PER	PER-Angela-Merkel
+2398	2401	США	США	LOC	GPE-USA
+2425	2442	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+2477	2495	«Северный поток-2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+2534	2541	Меркель	Меркель	PER	PER-Angela-Merkel
+2594	2614	«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+2695	2715	Соединенными Штатами	Соединенные Штаты	LOC	GPE-USA
+2747	2749	ЕС	ЕС	ORG	ORG-European-Union
+2752	2759	Россией	Россия	LOC	GPE-Russia
+2910	2917	Меркель	Меркель	PER	PER-Angela-Merkel
+2952	2962	Сонный Джо	Сонный Джо	PER	PER-Joe-Biden
+2978	2986	Германии	Германия	LOC	GPE-Germany
+3049	3052	США	США	LOC	GPE-USA
+3091	3098	Мергель	Мергель	PER	PER-Angela-Merkel
+3198	3205	Меркель	Меркель	PER	PER-Angela-Merkel
+3236	3241	Трамп	Трамп	PER	PER-Donald-Trump
+3303	3311	Германия	Германия	LOC	GPE-Germany
+3454	3457	США	США	LOC	GPE-USA
+3460	3468	Германии	Германия	LOC	GPE-Germany
+3552	3559	Америку	Америка	LOC	GPE-USA
+3563	3569	Европу	Европа	LOC	LOC-Europe
+3637	3654	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+3667	3673	Россию	Россия	LOC	GPE-Russia
+3696	3702	России	Россия	LOC	GPE-Russia
+3703	3709	Европе	Европа	LOC	LOC-Europe
+3734	3751	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+3759	3776	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+3817	3824	Европой	Европа	LOC	LOC-Europe
+3927	3929	ЕС	ЕС	ORG	ORG-European-Union
+3932	3939	Россией	Россия	LOC	GPE-Russia
+4075	4078	США	США	LOC	GPE-USA
+4100	4105	Китая	Китай	LOC	GPE-China
+4108	4110	ЕС	ЕС	ORG	ORG-European-Union
+4132	4137	Китай	Китай	LOC	GPE-China
+4138	4143	АСЕАН	АСЕАН	ORG	ORG-ASEAN
+4155	4162	Японией	Япония	LOC	GPE-Japan
+4165	4172	Европой	Европа	LOC	LOC-Europe
+4224	4241	Латинской Америки	Латинская Америка	LOC	LOC-Latin-America
+4410	4413	США	США	LOC	GPE-USA
+4503	4509	Европе	Европа	LOC	LOC-Europe
+4524	4527	США	США	LOC	GPE-USA
+4591	4597	Россия	Россия	LOC	GPE-Russia
+4629	4649	Соединенными Штатами	Соединенные Штаты	LOC	GPE-USA
+4683	4688	Корею	Корея	LOC	GPE-Korea
+4736	4741	Китая	Китай	LOC	GPE-China
+4754	4785	Азиатско-Тихоокеанского региона	Азиатско-Тихоокеанский регион	LOC	LOC-Asia-Pacific-Region
+4808	4826	Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+4834	4837	США	США	LOC	GPE-USA
+4866	4897	Азиатско-Тихоокеанским регионом	Азиатско-Тихоокеанский регион	LOC	LOC-Asia-Pacific-Region
+4920	4926	Чунцин	Чунцин	LOC	GPE-Chongqing
+4940	4943	США	США	LOC	GPE-USA
+5437	5455	Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+5552	5557	Трамп	Трамп	PER	PER-Donald-Trump
+5571	5577	Байден	Байден	PER	PER-Joe-Biden
+5723	5740	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+5848	5866	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+6089	6101	американских	американские	LOC	GPE-USA
+6308	6315	Востоке	Восток	LOC	LOC-East
+6327	6334	Сычуане	Сычуане	LOC	GPE-Sichuan
+6379	6382	США	США	LOC	GPE-USA
+6385	6393	Германии	Германия	LOC	GPE-Germany
+6486	6492	Макрон	Макрон	PER	PER-Emmanuel-Macron
+6531	6537	Европы	Европа	LOC	LOC-Europe
+6541	6564	Соединенное Королевство	Соединенное Королевство	LOC	GPE-Great-Britain
+6629	6647	Европейского Союза	Европейский Союз	ORG	ORG-European-Union
+6657	6664	Меркель	Меркель	PER	PER-Angela-Merkel
+6857	6867	Американцы	Американцы	LOC	GPE-USA
+6880	6889	европейцы	европейцы	PER	LOC-Europe
+6903	6912	Европейцы	Европейцы	PER	LOC-Europe
+6970	6982	американцами	американцы	PER	GPE-USA
+7026	7044	Соединенным Штатам	Соединенные Штаты	LOC	GPE-USA
+7127	7135	Гуандуна	Гуандун	LOC	GPE-Guangdong
+7162	7174	американскую	американская	LOC	GPE-USA
+7226	7234	Гуандуна	Гуандун	LOC	GPE-Guangdong
+7250	7257	китайцы	китайцы	PER	GPE-China
+7297	7309	американской	американская	LOC	GPE-USA
+7331	7341	американцы	американцы	PER	GPE-USA
+7536	7542	Европе	Европа	LOC	LOC-Europe
+7659	7665	Трампа	Трамп	PER	PER-Donald-Trump
+7686	7691	Китаю	Китай	LOC	GPE-China
+7716	7725	Евросоюзу	Евросоюз	ORG	ORG-European-Union
+7737	7753	Европейский Союз	Европейский Союз	ORG	ORG-European-Union
+7776	7796	Соединенными Штатами	Соединенные Штаты	LOC	GPE-USA
+7800	7807	Америка	Америка	LOC	GPE-USA
+7826	7828	ЕС	ЕС	ORG	ORG-European-Union
+7845	7862	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+7876	7883	Брексит	Брексит	EVT	EVT-Brexit
+7962	7968	Трампа	Трамп	PER	PER-Donald-Trump
+7970	7986	Европейский союз	Европейский союз	ORG	ORG-European-Union
+8022	8027	Штаты	Штаты	LOC	GPE-USA
+8431	8437	Байден	Байден	PER	PER-Joe-Biden

@@ -1,0 +1,21 @@
+26	40	Великобритания	Великобритания	LOC	GPE-Great-Britain
+96	98	ЕС	ЕС	ORG	ORG-European-Union
+104	112	Брекзита	Брекзит	EVT	EVT-Brexit
+114	128	Великобритания	Великобритания	LOC	GPE-Great-Britain
+184	200	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+263	276	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+289	304	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+368	370	ЕС	ЕС	ORG	ORG-European-Union
+460	466	Лондон	Лондон	LOC	GPE-London
+486	494	Брекзита	Брекзит	EVT	EVT-Brexit
+495	509	Великобритания	Великобритания	LOC	GPE-Great-Britain
+572	574	ЕС	ЕС	ORG	ORG-European-Union
+722	725	САЩ	САЩ	LOC	GPE-USA
+904	912	Брекзита	Брекзит	EVT	EVT-Brexit
+982	989	Джонсън	Джонсън	PER	PER-Boris-Johnson
+1049	1059	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1113	1115	ЕС	ЕС	ORG	ORG-European-Union
+1174	1186	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+1311	1318	Джонсън	Джонсън	PER	PER-Boris-Johnson
+1353	1373	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1455	1457	АП	АП	ORG	ORG-AP-The-Associated-Press

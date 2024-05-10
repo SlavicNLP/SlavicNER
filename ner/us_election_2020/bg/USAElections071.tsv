@@ -1,0 +1,94 @@
+0	14	Изборите в САЩ	избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+34	45	демократите	демократи	PER	ORG-Democratic-Party-USA
+69	75	Сената	Сенат	ORG	ORG-United-States-Senate
+89	100	Демократите	демократи	PER	ORG-Democratic-Party-USA
+144	162	американския сенат	Американски сенат	ORG	ORG-United-States-Senate
+220	223	BBC	BBC	PRO	PRO-BBC
+240	246	Сената	Сенат	ORG	ORG-United-States-Senate
+407	433	горната камара на Конгреса	Горна камара на Конгреса	ORG	ORG-United-States-Senate
+500	511	демократите	демократи	PER	ORG-Democratic-Party-USA
+541	555	долната камара	Долна камара	ORG	ORG-House-of-Representatives(USA)
+743	754	демократите	демократи	PER	ORG-Democratic-Party-USA
+781	785	Мейн	Мейн	LOC	GPE-Maine
+822	844	републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+845	857	Сюзан Колинс	Сюзан Колинс	PER	PER-Susan-Collins
+901	910	демократа	демократ	PER	ORG-Democratic-Party-USA
+911	922	Сара Гидиън	Сара Гидиън	PER	PER-Sara-Gideon
+1027	1035	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1113	1120	Конгрес	Конгрес	ORG	ORG-United-States-Congress
+1153	1162	Белия дом	Бял дом	LOC	LOC-White-House
+1169	1181	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1216	1226	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1229	1240	Демократите	демократи	PER	ORG-Democratic-Party-USA
+1283	1297	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1300	1306	Сената	Сенат	ORG	ORG-United-States-Senate
+1419	1424	Тръмп	Тръмп	PER	PER-Donald-Trump
+1467	1473	Байдън	Байдън	PER	PER-Joe-Biden
+1505	1511	Сената	Сенат	ORG	ORG-United-States-Senate
+1528	1542	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1561	1572	демократите	демократи	PER	ORG-Democratic-Party-USA
+1688	1699	Демократите	демократи	PER	ORG-Democratic-Party-USA
+1724	1730	Сената	Сенат	ORG	ORG-United-States-Senate
+1785	1789	Мейн	Мейн	LOC	GPE-Maine
+1790	1801	демократите	демократи	PER	ORG-Democratic-Party-USA
+1845	1857	Сюзан Колинс	Сюзан Колинс	PER	PER-Susan-Collins
+1880	1892	републиканка	републиканка	PER	ORG-Republican-Party-USA
+1945	1956	демократите	демократи	PER	ORG-Democratic-Party-USA
+1974	1986	Сюзан Гидиън	Сара Гидиън	PER	PER-Sara-Gideon
+2041	2047	Колинс	Колинс	PER	PER-Susan-Collins
+2074	2085	демократите	демократи	PER	ORG-Democratic-Party-USA
+2131	2136	Сенат	Сенат	ORG	ORG-United-States-Senate
+2170	2185	Джон Хикенлупър	Джон Хикенлупър	PER	PER-John-Hickenlooper
+2210	2218	Колорадо	Колорадо	LOC	GPE-Colorado
+2247	2259	Кори Гарднър	Кори Гарднър	PER	PER-Cory-Gardner
+2262	2272	Хикенлупър	Хикенлупър	PER	PER-John-Hickenlooper
+2307	2318	демократите	демократи	PER	ORG-Democratic-Party-USA
+2352	2360	Колорадо	Колорадо	LOC	GPE-Colorado
+2491	2496	Тръмп	Тръмп	PER	PER-Donald-Trump
+2501	2508	Аризона	Аризона	LOC	GPE-Arizona
+2527	2536	Марк Кели	Марк Кели	PER	PER-Mark-Kelly
+2592	2605	Марта Максали	Марта Максали	PER	PER-Martha-McSally
+2615	2619	Кели	Кели	PER	PER-Mark-Kelly
+2761	2773	Мич Макконъл	Мич Макконъл	PER	PER-Mitch-McConnell
+2789	2794	Тръмп	Тръмп	PER	PER-Donald-Trump
+2795	2807	Линдзи Греъм	Линдзи Греъм	PER	PER-Lindsey-Graham
+2850	2857	Кентъки	Кентъки	LOC	GPE-Kentucky
+2860	2873	Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+2880	2887	Алабама	Алабама	LOC	GPE-USA-Alabama
+2902	2916	републиканците	републиканци	PER	ORG-Republican-Party-USA
+2917	2930	Томи Тъбървил	Томи Тъбървил	PER	PER-Tommy-Tuberville
+2959	2968	демократа	демократ	PER	ORG-Democratic-Party-USA
+2969	2979	Дъг Джоунс	Дъг Джоунс	PER	PER-Doug-Jones
+3001	3007	Сената	Сенат	ORG	ORG-United-States-Senate
+3071	3082	Демократите	демократи	PER	ORG-Democratic-Party-USA
+3175	3202	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+3442	3449	Конгрес	Конгрес	ORG	ORG-United-States-Congress
+3466	3477	Демократите	демократи	PER	ORG-Democratic-Party-USA
+3478	3488	Ричи Торес	Ричи Торес	PER	PER-Ritchie-Torres
+3491	3504	Мондър Джоунс	Мондър Джоунс	PER	PER-Mondaire-Jones
+3518	3525	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+3568	3576	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+3603	3630	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+3633	3644	Демократите	демократи	PER	ORG-Democratic-Party-USA
+3645	3670	Александрия Окасио-Кортес	Александрия Окасио-Кортес	PER	PER-Alexandria-Ocasio-Cortez
+3672	3683	Аяна Пресли	Аяна Пресли	PER	PER-Ayanna-Pressley
+3685	3697	Рашида Тлайб	Рашида Тлайб	PER	PER-Rashida-Tlaib
+3700	3710	Илхан Омар	Илхан Омар	PER	PER-Ilhan-Omar
+3743	3751	Камарата	Камара	ORG	ORG-House-of-Representatives(USA)
+3786	3794	Оклахома	Оклахома	LOC	GPE-Oklahoma
+3816	3839	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+3852	3863	Кендра Хорн	Кендра Хорн	PER	PER-Kendra-Horn
+3913	3935	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+3936	3947	Стефани Бис	Стефани Бис	PER	PER-Stephanie-Bice
+4002	4010	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+4075	4080	QAnon	QAnon	PRO	PRO-QAnon-theory
+4082	4103	Марджори Тейлър Грийн	Марджори Тейлър Грийн	PER	PER-Marjorie-Taylor-Greene
+4107	4113	Грузия	Джорджия	LOC	GPE-Georgia-US-state
+4174	4179	Тръмп	Тръмп	PER	PER-Donald-Trump
+4202	4212	Демократът	демократ	PER	ORG-Democratic-Party-USA
+4216	4224	Делауеър	Делауеър	LOC	GPE-Delaware
+4225	4238	Сара Макбрайд	Сара Макбрайд	PER	PER-Sarah-McBride
+4312	4323	Демократите	демократи	PER	ORG-Democratic-Party-USA
+4394	4402	Covid-19	Covid-19	EVT	EVT-Covid-19
+4405	4408	САЩ	САЩ	LOC	GPE-USA
+4537	4551	републиканците	републиканци	PER	ORG-Republican-Party-USA

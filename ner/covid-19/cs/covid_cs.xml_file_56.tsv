@@ -1,0 +1,12 @@
+70	79	jihu Čech	jih Čech	LOC	GPE-South-Bohemian-region
+114	121	LIBEREC	LIBEREC	LOC	GPE-Liberec
+124	140	Libereckém kraji	Liberecký kraj	LOC	GPE-Liberec-region
+169	181	Martina Půty	Martin Půta	PER	PER-Martin-Puta
+183	213	Starostové pro Liberecký kraje	Starostové pro Liberecký kraje	ORG	ORG-Starostove-pro-Liberecky-kraj-party
+243	252	covidu-19	covid-19	EVT	EVT-Covid-19
+450	464	asociace krajů	asociace krajů	ORG	ORG-Asociace-krajů
+465	476	Martin Kuba	Martin Kuba	PER	PER-Martin-Kuba
+478	481	ODS	ODS	ORG	ORG-ODS-czech-political-party
+647	659	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+661	664	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+789	794	Česka	Česko	LOC	GPE-Czech-Republic

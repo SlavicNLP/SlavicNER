@@ -1,0 +1,101 @@
+11	14	США	США	LOC	GPE-USA
+24	28	Крым	Крым	LOC	GPE-Crimea
+67	73	России	Россия	LOC	GPE-Russia
+79	82	США	США	LOC	GPE-USA
+116	129	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+130	145	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+148	157	демократа	демократ	ORG	ORG-Democratic-Party-USA
+158	169	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+195	198	США	США	LOC	GPE-USA
+224	230	России	Россия	LOC	GPE-Russia
+297	303	Байден	Байден	PER	PER-Joe-Biden
+337	343	Россию	Россия	LOC	GPE-Russia
+363	375	американские	американские	LOC	GPE-USA
+386	391	Трамп	Трамп	PER	PER-Donald-Trump
+430	436	России	Россия	LOC	GPE-Russia
+437	441	Крым	Крым	LOC	GPE-Crimea
+507	510	США	США	LOC	GPE-USA
+633	644	коронавирус	коронавирус	EVT	EVT-Covid-19
+663	678	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+707	715	COVID-19	COVID-19	EVT	EVT-Covid-19
+907	919	американские	американские	LOC	GPE-USA
+1019	1024	Трамп	Трамп	PER	PER-Donald-Trump
+1045	1052	Байдена	Байден	PER	PER-Joe-Biden
+1094	1100	Байден	Байден	PER	PER-Joe-Biden
+1147	1152	Трамп	Трамп	PER	PER-Donald-Trump
+1292	1298	Путина	Путин	PER	PER-Vladimir-Putin
+1347	1350	США	США	LOC	GPE-USA
+1486	1489	CNN	CNN	PRO	PRO-CNN
+1669	1674	Трамп	Трамп	PER	PER-Donald-Trump
+1680	1686	Байден	Байден	PER	PER-Joe-Biden
+1746	1753	Лужкова	Лужков	PER	PER-Yury-Luzhkov
+1791	1801	российская	российский	LOC	GPE-Russia
+1871	1876	Трамп	Трамп	PER	PER-Donald-Trump
+1880	1886	Байден	Байден	PER	PER-Joe-Biden
+1936	1942	Москвы	Москва	LOC	GPE-Moscow
+1973	1978	Трамп	Трамп	PER	PER-Donald-Trump
+2055	2061	Россия	Россия	LOC	GPE-Russia
+2085	2091	Байден	Байден	PER	PER-Joe-Biden
+2107	2117	российские	российские	LOC	GPE-Russia
+2218	2226	Демократ	Демократ	ORG	ORG-Democratic-Party-USA
+2251	2257	Россию	Россия	LOC	GPE-Russia
+2259	2264	Китай	Китай	LOC	GPE-China
+2267	2271	Иран	Иран	LOC	GPE-Iran
+2301	2313	американские	американские	LOC	GPE-USA
+2365	2370	Трамп	Трамп	PER	PER-Donald-Trump
+2390	2396	Байден	Байден	PER	PER-Joe-Biden
+2416	2422	Россия	Россия	LOC	GPE-Russia
+2433	2440	Украины	Украина	LOC	GPE-Ukraine
+2441	2445	Крым	Крым	LOC	GPE-Crimea
+2463	2469	Россия	Россия	LOC	GPE-Russia
+2489	2496	Украины	Украина	LOC	GPE-Ukraine
+2508	2521	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+2549	2555	Байден	Байден	PER	PER-Joe-Biden
+2581	2593	Бараке Обаме	Барак Обама	PER	PER-Barack-Obama
+2666	2673	Украине	Украина	LOC	GPE-Ukraine
+2746	2753	Байдена	Байден	PER	PER-Joe-Biden
+2769	2775	России	Россия	LOC	GPE-Russia
+2784	2787	Джо	Джо	PER	PER-Joe-Biden
+2816	2822	России	Россия	LOC	GPE-Russia
+2884	2890	Москвы	Москва	LOC	GPE-Moscow
+3097	3102	Трамп	Трамп	PER	PER-Donald-Trump
+3149	3154	Трамп	Трамп	PER	PER-Donald-Trump
+3165	3172	Байдену	Байден	PER	PER-Joe-Biden
+3190	3197	Украине	Украина	LOC	GPE-Ukraine
+3256	3266	украинской	украинский	LOC	GPE-Ukraine
+3296	3303	Байдена	Байден	PER	PER-Joe-Biden
+3347	3358	украинского	украинский	LOC	GPE-Ukraine
+3372	3386	Виктора Шокина	Виктор Шокин	PER	PER-Viktor-Shokin
+3436	3444	Демократ	Демократ	ORG	ORG-Democratic-Party-USA
+3553	3559	Байден	Байден	PER	PER-Joe-Biden
+3574	3580	Трампа	Трамп	PER	PER-Donald-Trump
+3622	3640	Black Lives Matter	Black Lives Matter	EVT	EVT-Black-Lives-Matter
+3709	3714	Трамп	Трамп	PER	PER-Donald-Trump
+3758	3765	Байдена	Байден	PER	PER-Joe-Biden
+3888	3893	Трамп	Трамп	PER	PER-Donald-Trump
+3971	3988	Авраама Линкольна	Авраам Линкольн	PER	PER-Abraham-Lincoln
+4048	4051	США	США	LOC	GPE-USA
+4232	4240	Fox News	Fox News	PRO	PRO-Fox-News
+4322	4325	CNN	CNN	PRO	PRO-CNN
+4341	4347	Байден	Байден	PER	PER-Joe-Biden
+4394	4401	Байдена	Байден	PER	PER-Joe-Biden
+4463	4471	Демократ	Демократ	ORG	ORG-Democratic-Party-USA
+4528	4540	американской	американский	LOC	GPE-USA
+4623	4629	Техасе	Техас	LOC	GPE-Texas
+4632	4644	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+4662	4674	американской	американский	LOC	GPE-USA
+4756	4768	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+4797	4802	Техас	Техас	LOC	GPE-Texas
+4935	4942	Байдена	Байден	PER	PER-Joe-Biden
+4947	4954	Трампом	Трамп	PER	PER-Donald-Trump
+4976	4985	демократа	демократ	ORG	ORG-Democratic-Party-USA
+5000	5013	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+5041	5062	realcleanpolitics.com	realcleanpolitics.com	PRO	PRO-RealClearPolitics
+5093	5099	Байден	Байден	PER	PER-Joe-Biden
+5117	5123	Трампа	Трамп	PER	PER-Donald-Trump
+5239	5254	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+5263	5269	Трампа	Трампа	PER	PER-Donald-Trump
+5288	5314	Института США и Канады РАН	Институт США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAS
+5315	5331	Валерий Гарбузов	Валерий Гарбузов	PER	PER-Valerii-Garbuzov
+5631	5634	США	США	LOC	GPE-USA
+5709	5716	Байдена	Байден	PER	PER-Joe-Biden

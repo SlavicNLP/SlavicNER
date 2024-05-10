@@ -1,0 +1,33 @@
+11	13	ЕС	ЕС	ORG	ORG-European-Union
+25	32	Брекзит	Брекзит	EVT	EVT-Brexit
+149	151	ЕС	ЕС	ORG	ORG-European-Union
+154	174	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+215	222	Брекзит	Брекзит	EVT	EVT-Brexit
+373	376	FTI	FTI	ORG	ORG-FTI-Consulting
+498	512	Великобритания	Великобритания	LOC	GPE-Great-Britain
+515	531	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+638	650	Джон Малоуни	Джон Малоуни	PER	PER-John-Mulaney
+683	690	Брекзит	Брекзит	EVT	EVT-Brexit
+694	697	FTI	FTI	ORG	ORG-FTI-Consulting
+853	867	Великобритания	Великобритания	LOC	GPE-Great-Britain
+870	872	ЕС	ЕС	ORG	ORG-European-Union
+950	965	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+969	971	ЕС	ЕС	ORG	ORG-European-Union
+1025	1031	Лондон	Лондон	LOC	GPE-London
+1135	1137	ЕС	ЕС	ORG	ORG-European-Union
+1142	1156	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1227	1229	ЕС	ЕС	ORG	ORG-European-Union
+1232	1246	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1321	1328	Брекзит	Брекзит	EVT	EVT-Brexit
+1450	1458	Ханс Хек	Ханс Хек	PER	PER-Hans-Hack
+1462	1465	FTI	FTI	ORG	ORG-FTI-Consulting
+1745	1747	ЕС	ЕС	ORG	ORG-European-Union
+1752	1755	FTI	FTI	ORG	ORG-FTI-Consulting
+1838	1846	Германия	Германия	LOC	GPE-Germany
+1876	1883	Франция	Франция	LOC	GPE-France
+1892	1895	АФП	АФП	ORG	ORG-France-Presse
+2008	2025	Михаил Саакашвили	Михаил Саакашвили	PER	PER-Mikheil-Saakashvili
+2137	2143	Алстом	Алстом	ORG	ORG-Alstom
+2148	2154	Сименс	Сименс	ORG	ORG-Siemens-AG
+2214	2222	Малайзия	Малайзия	LOC	GPE-Malaysia
+2225	2233	Сингапур	Сингапур	LOC	GPE-Singapore

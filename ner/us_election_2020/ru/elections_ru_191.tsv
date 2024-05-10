@@ -1,0 +1,139 @@
+0	6	Google	Google	ORG	ORG-Google
+8	16	Facebook	Facebook	ORG	ORG-Facebook
+19	26	Twitter	Twitter	ORG	ORG-Twitter
+34	46	конгресс США	конгресс США	ORG	ORG-United-States-Congress
+87	99	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+155	161	России	Россия	LOC	GPE-Russia
+196	204	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+234	240	России	Россия	LOC	GPE-Russia
+264	275	российскими	российский	LOC	GPE-Russia
+312	318	Россия	Россия	LOC	GPE-Russia
+371	378	Twitter	Twitter	PRO	PRO-Twitter
+381	389	Facebook	Facebook	PRO	PRO-Facebook
+472	484	американских	американский	LOC	GPE-USA
+764	777	американскими	американский	LOC	GPE-USA
+819	828	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+895	907	американские	американские	LOC	GPE-USA
+1002	1015	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1087	1102	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+1147	1158	американцев	американец	PER	GPE-USA
+1207	1210	США	США	LOC	GPE-USA
+1239	1248	Obamacare	Obamacare	PRO	PRO-Obamacare
+1266	1272	Россия	Россия	LOC	GPE-Russia
+1287	1289	РФ	РФ	LOC	GPE-Russia
+1290	1304	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1326	1329	США	США	LOC	GPE-USA
+1393	1399	Трампа	Трам	PER	PER-Donald-Trump
+1402	1409	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+1415	1421	Москва	Москва	LOC	GPE-Moscow
+1482	1484	ИГ	ИГ	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+1531	1554	«Исламское государство»	«Исламское государство»	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+1565	1583	Верховного суда РФ	Верховный суд РФ	ORG	ORG-Supreme-Court-of-Russian-Federation
+1608	1614	России	Россия	LOC	GPE-Russia
+1683	1689	России	Россия	LOC	GPE-Russia
+1728	1731	США	США	LOC	GPE-USA
+1762	1768	Трампа	Трам	PER	PER-Donald-Trump
+1888	1899	российскими	российский	LOC	GPE-Russia
+1944	1947	США	США	LOC	GPE-USA
+2033	2045	американских	американский	LOC	GPE-USA
+2191	2203	американских	американский	LOC	GPE-USA
+2417	2429	американской	американская	LOC	GPE-USA
+2528	2531	США	США	LOC	GPE-USA
+2535	2540	Трамп	Трамп	PER	PER-Donald-Trump
+2579	2589	российских	российский	LOC	GPE-Russia
+2607	2619	американской	американская	LOC	GPE-USA
+2786	2791	Трамп	Трамп	PER	PER-Donald-Trump
+2845	2852	Россией	Россия	LOC	GPE-Russia
+2879	2887	Facebook	Facebook	PRO	PRO-Facebook
+2890	2897	Twitter	Twitter	PRO	PRO-Twitter
+2970	2973	США	США	LOC	GPE-USA
+3015	3021	Трампа	Трам	PER	PER-Donald-Trump
+3106	3109	США	США	LOC	GPE-USA
+3281	3293	американский	американский	LOC	GPE-USA
+3334	3347	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+3380	3388	Facebook	Facebook	PRO	PRO-Facebook
+3391	3398	Twitter	Twitter	PRO	PRO-Twitter
+3426	3436	российским	российский	LOC	GPE-Russia
+3506	3524	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+3620	3668	сектором внешней и внутренней политики ИМЭМО РАН	сектор внешней и внутренней политики ИМЭМО РАН	ORG	ORG-Sector-of-US-Foreign-and-Domestic-Policy-IMEMO
+3669	3687	Виктория Журавлева	Виктория Журавлева	PER	PER-Victoria-Zhuravleva
+3702	3725	ФБА «Экономика сегодня»	ФБА «Экономика сегодня»	ORG	ORG-Federal-News-Agency-Economics-Today
+3761	3767	России	Россия	LOC	GPE-Russia
+3770	3782	американские	американские	LOC	GPE-USA
+3886	3904	Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+3947	3958	российскими	российский	LOC	GPE-Russia
+4083	4093	российским	российский	LOC	GPE-Russia
+4111	4123	американские	американские	LOC	GPE-USA
+4189	4199	российский	российский	LOC	GPE-Russia
+4300	4312	американских	американский	LOC	GPE-USA
+4409	4418	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+4432	4448	Виктории Юрьевны	Виктория Юрьевна	PER	PER-Victoria-Zhuravleva
+4500	4512	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+4536	4542	России	Россия	LOC	GPE-Russia
+4568	4574	Трампа	Трамп	PER	PER-Donald-Trump
+4612	4615	США	США	LOC	GPE-USA
+4687	4697	российскую	российская	LOC	GPE-Russia
+4840	4852	американским	американский	LOC	GPE-USA
+4984	4993	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+5055	5073	Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+5161	5182	американский Конгресс	американский Конгресс	ORG	ORG-United-States-Congress
+5221	5231	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+5341	5347	Трампа	Трам	PER	PER-Donald-Trump
+5424	5427	США	США	LOC	GPE-USA
+5485	5494	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+5607	5619	американской	американская	LOC	GPE-USA
+5686	5695	российско	российский	LOC	GPE-Russia
+5696	5708	американских	американский	LOC	GPE-USA
+5812	5830	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+5887	5890	США	США	LOC	GPE-USA
+6003	6015	американской	американская	LOC	GPE-USA
+6083	6089	Россия	Россия	LOC	GPE-Russia
+6186	6189	США	США	LOC	GPE-USA
+6268	6277	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
+6288	6298	Госдумы РФ	Госдума РФ	ORG	ORG-Russia-The-State-Duma
+6299	6315	Вячеслав Володин	Вячеслав Володин	PER	PER-Viacheslav-Volodin
+6459	6468	"""Песняры"""	"""Песняры"""	ORG	ORG-vocal-and-instrumental-ensemble-pesnyary
+6500	6507	Украину	Украина	LOC	GPE-Ukraine
+6524	6529	Крыма	Крым	LOC	GPE-Crimea
+6548	6563	Госпогранслужба	Госпогранслужба	ORG	ORG-Ukraine-State-Border-Guard
+6584	6591	Украины	Украина	LOC	GPE-Ukraine
+6592	6610	Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+6629	6641	американский	американский	LOC	GPE-USA
+6650	6660	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+6697	6701	НАТО	НАТО	ORG	ORG-NATO
+6733	6742	Ингушетии	Ингушетия	LOC	GPE-Ingushetia
+6774	6780	России	Россия	LOC	GPE-Russia
+6810	6825	"""Имарат Кавказ"""	"""Имарат Кавказ"""	ORG	ORG-The-Caucasus-Emirate
+6839	6855	Ростислав Ищенко	Ростислав Ищенко	PER	PER-Rostislav-Ischenko
+6917	6935	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+6966	6968	РФ	РФ	LOC	GPE-Russia
+7030	7040	российским	российский	LOC	GPE-Russia
+7099	7101	РФ	РФ	LOC	GPE-Russia
+7102	7116	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+7155	7160	Крыма	Крым	LOC	GPE-Crimea
+7170	7177	Украины	Украина	LOC	GPE-Ukraine
+7197	7207	российский	российский	LOC	GPE-Russia
+7216	7228	Сергей Цеков	Сергей Цеков	PER	PER-Sergey-Tsekov
+7240	7255	"""Газпром-медиа"""	"""Газпром-медиа"""	ORG	ORG-Gazprom-Media
+7293	7305	"""Триколором"""	"""Триколором"""	ORG	ORG-Tricolor
+7414	7423	Ростуризм	Ростуризм	ORG	ORG-Rostourism
+7662	7671	Волжского	Волжский	LOC	LOC-Volzhsky
+7672	7688	Марин Афанасьева	Марина Афанасьева	PER	PER-Marina-Afanasyeva
+7796	7814	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+7815	7831	Владимир Ашурков	Владимир Ашурков	PER	PER-Vladimir-Ashurkov
+7857	7879	британского посольства	британское посольство	ORG	ORG-British-Embassy-Russia
+7890	7893	ФСБ	ФСБ	ORG	ORG-FSB
+7944	7948	MИ-6	МИ-6	ORG	ORG-MI6
+8030	8053	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+8079	8145	министерство инвестиций, промышленности и науки Московской области	министерство инвестиций, промышленности и науки Московской области	ORG	ORG-Ministry-of-Investment-Industry-and-Science-of-the-Moscow-Region
+8236	8241	Tesla	Tesla	ORG	ORG-Tesla-company
+8244	8250	SpaceХ	SpaceX	ORG	ORG-SpaceX-company
+8251	8260	Илон Маск	Илон Маск	PER	PER-Elon-Musk
+8309	8318	Neuralink	Neuralink	ORG	ORG-Neuralink
+8454	8456	РФ	РФ	LOC	GPE-Russia
+8481	8504	ФБА «Экономика сегодня»	ФБА «Экономика сегодня»	ORG	ORG-Federal-News-Agency-Economics-Today
+8524	8565	Института отраслевого менеджмента РАНХиГС	Институт отраслевого менеджмента РАНХиГС	ORG	ORG-Institute-of-Industry-Management-RANEPA
+8566	8579	Борис Пивовар	Борис Пивовар	PER	PER-Boris-Pivovar
+8925	8944	"""Экономика сегодня"""	"""Экономика сегодня"""	ORG	ORG-Federal-News-Agency-Economics-Today
+9048	9067	"""Экономика сегодня"""	"""Экономика сегодня"""	ORG	ORG-Federal-News-Agency-Economics-Today
+9083	9106	ФБА «Экономика сегодня»	ФБА «Экономика сегодня»	ORG	ORG-Federal-News-Agency-Economics-Today

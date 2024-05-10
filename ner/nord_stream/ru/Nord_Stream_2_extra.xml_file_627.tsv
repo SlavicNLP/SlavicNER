@@ -1,0 +1,16 @@
+0	7	МИД ФРГ	МИД ФРГ	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+32	35	США	США	LOC	GPE-USA
+50	70	"""Северному потоку-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+101	109	Германии	Германия	LOC	GPE-Germany
+143	147	BASF	BASF	ORG	ORG-BASF-Holding
+150	156	Uniper	Uniper	ORG	ORG-Uniper
+191	194	США	США	LOC	GPE-USA
+195	211	Ричарда Гренелла	Ричард Гренелл	PER	PER-Richard-Grenell
+314	334	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+343	355	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+547	550	МИД	МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+728	731	ФРГ	ФРГ	LOC	GPE-Germany
+777	795	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+846	864	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+904	911	Украины	Украина	LOC	GPE-Ukraine
+914	920	Европы	Европа	LOC	LOC-Europe

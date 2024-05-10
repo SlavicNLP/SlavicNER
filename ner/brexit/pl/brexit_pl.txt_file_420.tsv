@@ -1,0 +1,63 @@
+0	8	Eurostat	Eurostat	ORG	ORG-Eurostat
+64	71	Brexitu	Brexit	EVT	EVT-Brexit
+169	185	Komitet Regionów	Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+212	224	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+227	229	UE	UE	ORG	ORG-European-Union
+247	251	Unii	Unia	ORG	ORG-European-Union
+324	332	Eurostat	Eurostat	ORG	ORG-Eurostat
+343	346	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+409	421	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+531	548	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+573	582	Eurostatu	Eurostat	ORG	ORG-Eurostat
+629	635	Brexit	Brexit	EVT	EVT-Brexit
+710	712	UE	UE	ORG	ORG-European-Union
+770	781	mazowieckie	mazowieckie	LOC	GPE-Poland-Masovian-Voivodeship
+783	795	dolnośląskie	dolnośląskie	LOC	LOC-Lower-Silesia
+797	804	śląskie	śląskie	LOC	GPE-Silesian-Voivodeship
+806	815	pomorskie	pomorskie	LOC	GPE-Poland-Pomerania-Voivodeship
+817	828	małopolskie	małopolskie	LOC	GPE-Poland-Lesser-Poland-Voivodeship
+830	848	zachodniopomorskie	zachodniopomorskie	LOC	GPE-West-Pomeranian-Voivodeship
+850	858	lubuskie	lubuskie	LOC	GPE-Poland-Lubusz-Voivodeship
+860	874	świętokrzyskie	świętokrzyskie	LOC	GPE-Poland-Świętokrzyskie-Voivodeship
+876	888	podkarpackie	podkarpackie	LOC	GPE-Poland-Subcarpathia-Voivodeship
+890	899	podlaskie	podlaskie	LOC	GPE-Poland-Podlaskie-Voivodeship
+902	911	lubelskie	lubelskie	LOC	GPE-Poland-Lublin-Voivodeship
+1015	1022	Brexitu	Brexit	EVT	EVT-Brexit
+1036	1043	śląskie	śląskie	LOC	GPE-Silesian-Voivodeship
+1045	1054	pomorskie	pomorskie	LOC	GPE-Poland-Pomerania-Voivodeship
+1057	1068	małopolskie	małopolskie	LOC	GPE-Poland-Lesser-Poland-Voivodeship
+1207	1216	śląskiego	śląskie	LOC	GPE-Silesian-Voivodeship
+1239	1250	pomorskiego	pomorskie	LOC	GPE-Poland-Pomerania-Voivodeship
+1274	1287	małopolskiego	małopolskie	LOC	GPE-Poland-Lesser-Poland-Voivodeship
+1386	1403	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1741	1743	UE	UE	ORG	ORG-European-Union
+1801	1803	UE	UE	ORG	ORG-European-Union
+1932	1934	UE	UE	ORG	ORG-European-Union
+2291	2293	UE	UE	ORG	ORG-European-Union
+2494	2512	Guenther Oettinger	Guenther Oettinger	PER	PER-Guenther-Oettinger
+2736	2745	Eurostatu	Eurostat	ORG	ORG-Eurostat
+2751	2768	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2784	2790	Polski	Polska	LOC	GPE-Poland
+2944	2946	UE	UE	ORG	ORG-European-Union
+3026	3033	Brexitu	Brexit	EVT	EVT-Brexit
+3048	3052	City	City	LOC	LOC-City-of-London
+3141	3152	Luksemburga	Luksemburg	LOC	GPE-Luxembourg
+3261	3269	Hamburga	Hamburg	LOC	GPE-Hamburg
+3332	3338	Belgii	Belgia	LOC	GPE-Belgium
+3340	3345	Czech	Czechy	LOC	GPE-Czech-Republic
+3348	3356	Słowacji	Słowacja	LOC	GPE-Slovakia
+3397	3405	Mazowsze	Mazowsze	LOC	GPE-Poland-Masovian-Voivodeship
+3473	3482	Eurostatu	Eurostat	ORG	ORG-Eurostat
+3560	3566	Brexit	Brexit	EVT	EVT-Brexit
+3663	3676	mazowieckiego	mazowieckie	LOC	GPE-Poland-Masovian-Voivodeship
+3871	3886	Saksonia-Anhalt	Saksonia-Anhalt	LOC	GPE-Saxony-Anhalt
+3887	3904	Michael Schneider	Michael Schneider	PER	PER-Michael-Schneider
+4026	4032	Brexit	Brexit	EVT	EVT-Brexit
+4136	4142	Polski	Polska	LOC	GPE-Poland
+4147	4164	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4181	4189	Brukseli	Bruksela	LOC	GPE-Brussles
+4277	4294	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4359	4377	Niemiec Wschodnich	Niemcy Wschodnie	LOC	LOC-East-Germany
+4426	4430	Unii	Unia	ORG	ORG-European-Union
+4600	4615	Saksonia-Anhalt	Saksonia-Anhalt	LOC	GPE-Saxony-Anhalt
+4667	4676	Schneider	Schneider	PER	PER-Michael-Schneider

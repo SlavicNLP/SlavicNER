@@ -1,0 +1,112 @@
+6	13	Америки	Америка	LOC	GPE-USA
+43	61	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+64	76	Американская	американская	LOC	GPE-USA
+403	421	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+487	491	ТАСС	ТАСС	PRO	PRO-TASS
+528	531	США	США	LOC	GPE-USA
+556	559	США	США	LOC	GPE-USA
+611	614	США	США	LOC	GPE-USA
+635	638	США	США	LOC	GPE-USA
+668	671	США	США	LOC	GPE-USA
+763	766	США	США	LOC	GPE-USA
+784	796	Джон Кеннеди	Джон Кеннеди	PER	PER-John-F-Kennedy
+843	857	Рональд Рейган	Рональд Рейган	PER	PER-Ronald-Reagan
+981	984	США	США	LOC	GPE-USA
+1349	1358	Праймериз	праймериз	EVT	EVT-2016-USA-primaries
+1361	1379	кокусы в 2016 году	кокусы в 2016	EVT	EVT-2016-USA-Caucus
+1878	1896	Западной Вирджинии	Западная Вирджиния	LOC	GPE-West-Virginia
+1914	1936	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+1985	2000	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+2060	2072	американских	американские	LOC	GPE-USA
+2863	2868	Айова	Айова	LOC	GPE-Iowa
+2879	2890	Нью-Гэмпшир	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+2945	2956	Нью-Гэмпшир	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+3088	3093	Айове	Айова	LOC	GPE-Iowa
+3144	3149	Айове	Айова	LOC	GPE-Iowa
+3152	3164	Нью-Гемпшире	Нью-Гемпшир	LOC	GPE-New-Hampshire
+3330	3335	Айове	Айова	LOC	GPE-Iowa
+3338	3350	Нью-Гэмпшире	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+3652	3667	Республиканская	Республиканская	ORG	ORG-Republican-Party-USA
+3670	3692	Демократическая партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+4077	4099	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+4216	4229	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+4438	4453	Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+4456	4471	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+4486	4495	демократы	демократ	ORG	ORG-Democratic-Party-USA
+4498	4511	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+4605	4614	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+4761	4776	Теодор Рузвельт	Теодор Рузвельт	PER	PER-Theodore-Roosevelt
+4778	4791	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+4852	4872	Прогрессивной партии	Прогрессивная партия	ORG	ORG-Progressive-Party
+4973	4995	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+5227	5243	2016 году выборы	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+5575	5583	Конгресс	конгресс	ORG	ORG-United-States-Congress
+5593	5599	сенате	сенат	ORG	ORG-United-States-Senate
+5615	5636	палате представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+5691	5699	Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+5721	5730	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+5767	5786	коллегию выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+6348	6369	палата представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+6391	6396	сенат	сенат	ORG	ORG-United-States-Senate
+6473	6489	Томас Джефферсон	Томас Джефферсон	PER	PER-Thomas-Jefferson
+6519	6536	Джон Куинси Адамс	Джон Куинси Адамс	PER	PER-John-Adams
+6831	6834	Мэн	Мэн	LOC	GPE-Maine
+6837	6845	Небраска	Небраска	LOC	GPE-Nebraska
+6911	6919	Небраска	Небраска	LOC	GPE-Nebraska
+7175	7183	Небраске	Небраска	LOC	GPE-Nebraska
+7300	7312	Джон Маккейн	Джон Маккейн	PER	PER-John-McCain
+7344	7355	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+7401	7409	Небраски	Небраска	LOC	GPE-Nebraska
+7482	7485	Мэн	Мэн	LOC	GPE-Maine
+8138	8157	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+8221	8230	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+8369	8372	США	США	LOC	GPE-USA
+8378	8396	Джорджа Вашингтона	Джордж Вашингтон	PER	PER-George-Washington
+8400	8412	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+8426	8429	США	США	LOC	GPE-USA
+8500	8516	Джордж Вашингтон	Джордж Вашингтон	PER	PER-George-Washington
+8624	8627	США	США	LOC	GPE-USA
+8680	8699	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+8728	8731	США	США	LOC	GPE-USA
+8773	8789	Джордж Вашингтон	Джордж Вашингтон	PER	PER-George-Washington
+8804	8815	Джон Тайлер	Джон Тайлер	PER	PER-John-Tyler
+8829	8845	Джордж Вашингтон	Джордж Вашингтон	PER	PER-George-Washington
+8988	8999	Джон Тайлер	Джон Тайлер	PER	PER-John-Tyler
+9057	9074	Уильяма Гаррисона	Уильям Гаррисон	PER	PER-William-Harrison
+9185	9196	Джон Тайлер	Джон Тайлер	PER	PER-John-Tyler
+9228	9240	Партии вигов	Партия вигов	ORG	ORG-Whig-Party
+9496	9511	Гровер Кливленд	Гровер Кливленд	PER	PER-Grover-Cleveland
+9652	9672	Джорджем Вашингтоном	Джордж Вашингтон	PER	PER-George-Washington
+9717	9730	Улисса Гранта	Улисс Грант	PER	PER-Hiram-Ulysses-Grant
+9745	9762	Теодора Рузвельта	Теодор Рузвельт	PER	PER-Theodore-Roosevelt
+9851	9868	Франклин Рузвельт	Франклин Рузвельт	PER	PER-Franklin-Roosevelt
+9891	9911	Второй мировой войны	Второй мировой войны	EVT	EVT-World-War-II
+10024	10051	22-я поправка к конституции	22-я поправка к конституции	PRO	PRO-Twenty-second-Amendment-to-the-US-Constitution
+10124	10127	США	США	LOC	GPE-USA
+10353	10372	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+10384	10392	демократ	демократ	ORG	ORG-Democratic-Party-USA
+10393	10404	Альберт Гор	Альберт Гор	PER	PER-Al-Gore
+10414	10427	республиканцу	республиканец	ORG	ORG-Republican-Party-USA
+10428	10440	Джорджу Бушу	Джордж Буш	PER	PER-George-Bush-Jr
+10442	10453	Выборы 1876	выборы 1876	EVT	EVT-1876-United-States-Presidential-Election
+10456	10463	2000 гг	выборы 2000	EVT	EVT-2000-United-States-Presidential-Election
+10802	10810	демократ	демократ	ORG	ORG-Democratic-Party-USA
+10834	10842	Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+10909	10922	Альберта Гора	Альберт Гор	PER	PER-Al-Gore
+11081	11092	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+11184	11206	избирательной кампании	избирательная кампания 2008	EVT	EVT-2008-US-Election-Campaign
+11424	11438	выборах 2008 г	выборы 2008	EVT	EVT-2008-US-Presidential-Election
+11546	11549	США	США	LOC	GPE-USA
+11672	11690	Джеральдин Ферраро	Джеральдин Ферраро	PER	PER-Geraldine-Ferraro
+11694	11716	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+11727	11745	Уолтером Мондейлом	Уолтер Мондейл	PER	PER-Walter-Mondale
+11761	11772	Сара Пейлин	Сара Пейлин	PER	PER-Sarah-Palin
+11776	11798	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+11809	11825	Джоном Маккейном	Джон Маккейн	PER	PER-John-McCain
+11838	11853	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+11877	11880	США	США	LOC	GPE-USA
+11956	11968	Бараку Обаме	Барак Обама	PER	PER-Barack-Obama
+11988	11999	Белого дома	Белый дом	LOC	LOC-White-House
+12084	12096	американское	американский	LOC	GPE-USA
+12152	12161	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+12177	12180	США	США	LOC	GPE-USA

@@ -1,0 +1,23 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+52	58	Brexit	Brexit	EVT	EVT-Brexit
+60	70	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+106	115	Брюсселем	Брюссель	LOC	GPE-Brussles
+135	141	Brexit	Brexit	EVT	EVT-Brexit
+258	272	Великобританії	Великобританія	LOC	GPE-Great-Britain
+273	283	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+328	342	Великобританії	Великобританія	LOC	GPE-Great-Britain
+345	354	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+405	408	Мей	Мей	PER	PER-Theresa-May
+637	640	Мей	Мей	PER	PER-Theresa-May
+656	659	Мей	Мей	PER	PER-Theresa-May
+720	726	Brexit	Brexit	EVT	EVT-Brexit
+780	803	Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+806	808	ЄС	ЄС	LOC	ORG-European-Union
+1120	1123	Мей	Мей	PER	PER-Theresa-May
+1196	1210	Великобританії	Великобританія	LOC	GPE-Great-Britain
+1274	1277	Мей	Мей	PER	PER-Theresa-May
+1340	1354	Великобританії	Великобританія	LOC	GPE-Great-Britain
+1357	1359	ЄС	ЄС	LOC	ORG-European-Union
+1473	1479	Brexit	Brexit	EVT	EVT-Brexit
+1605	1621	Джейкоб Ріс-Могг	Джейкоб Ріс-Могг	PER	PER-Jacob-Rees-Mogg
+1700	1710	Терезі Мей	Тереза Мей	PER	PER-Theresa-May

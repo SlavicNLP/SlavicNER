@@ -1,0 +1,18 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+94	104	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+107	118	Вілмінгтоні	Вілмінгтон	LOC	GPE-Wilmington
+140	154	Carolyn Kaster	Carolyn Kaster	PER	PER-Carolyn-Kaster
+155	157	AP	AP	ORG	ORG-AP-The-Associated-Press
+182	185	США	США	LOC	GPE-USA
+190	210	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+236	246	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+294	312	Колегії виборників	Колегія виборників	ORG	ORG-United-States-Electoral-College
+335	342	Байдена	Байден	PER	PER-Joe-Biden
+394	401	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+569	577	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+664	676	Пенсільванії	Пенсільванія	LOC	GPE-Pennsylvania
+704	716	Пенсільванії	Пенсільванія	LOC	GPE-Pennsylvania
+735	742	Арізоні	Арізона	LOC	GPE-Arizona
+760	766	Неваді	Невада	LOC	GPE-Nevada
+936	944	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+949	955	Байден	Байден	PER	PER-Joe-Biden

@@ -1,0 +1,42 @@
+0	11	Theresa May	Theresa May	PER	PER-Theresa-May
+88	91	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+119	127	Cooltura	Cooltura	PRO	PRO-Cooltura
+153	161	Brexitem	Brexit	EVT	EVT-Brexit
+211	218	Polaków	Polacy	PER	GPE-Poland
+235	252	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+534	541	Brexitu	Brexit	EVT	EVT-Brexit
+590	607	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+647	662	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+770	779	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+831	833	UE	UE	ORG	ORG-European-Union
+1243	1245	UE	UE	ORG	ORG-European-Union
+1253	1260	Polaków	Polacy	PER	GPE-Poland
+1285	1293	Londynie	Londyn	LOC	GPE-London
+1295	1305	Birmingham	Birmingham	LOC	GPE-Birmingham
+1307	1316	Edynburgu	Edynburg	LOC	GPE-Edinburgh
+1318	1325	Cardiff	Cardiff	LOC	GPE-Cardiff
+1328	1337	Belfaście	Belfast	LOC	GPE-Belfast
+1807	1809	UE	UE	ORG	ORG-European-Union
+1966	1972	Polacy	Polacy	PER	GPE-Poland
+1975	1981	Brexit	Brexit	EVT	EVT-Brexit
+1999	2002	May	May	PER	PER-Theresa-May
+2066	2073	Polaków	Polacy	PER	GPE-Poland
+2076	2093	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2115	2123	Brexicie	Brexit	EVT	EVT-Brexit
+2176	2188	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2244	2259	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2479	2481	UE	UE	ORG	ORG-European-Union
+2482	2497	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2710	2721	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+3036	3051	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3260	3263	May	May	PER	PER-Theresa-May
+3285	3292	Polaków	Polacy	PER	GPE-Poland
+3908	3911	May	May	PER	PER-Theresa-May
+4060	4063	May	May	PER	PER-Theresa-May
+4242	4244	UE	UE	ORG	ORG-European-Union
+4263	4280	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4481	4498	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4593	4595	UE	UE	ORG	ORG-European-Union
+4616	4631	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4660	4677	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4706	4715	Wspólnotę	Wspólnota	ORG	ORG-European-Union

@@ -1,0 +1,27 @@
+18	30	коронавірусу	коронавірус	EVT	EVT-Covid-19
+67	82	Джеймс Галлахер	Джеймс Галлахер	PER	PER-James-Gallagher
+205	217	коронавірусу	коронавірус	EVT	EVT-Covid-19
+263	271	Covid-19	Covid-19	EVT	EVT-Covid-19
+288	294	Pfizer	Pfizer	ORG	ORG-Pfizer
+298	306	BioNTech	BioNTech	ORG	ORG-BioNTech
+795	804	Джон Белл	Джон Белл	PER	PER-John-Bell
+826	852	Оксфордському університеті	Оксфордський університет	ORG	ORG-Oxford-University
+1427	1440	коронавірусом	коронавірус	EVT	EVT-Covid-19
+1516	1519	США	США	LOC	GPE-USA
+1521	1530	Німеччині	Німеччина	LOC	GPE-Germany
+1532	1540	Бразилії	Бразилія	LOC	GPE-Brazil
+1542	1551	Аргентині	Аргентина	LOC	GPE-Argentina
+1553	1569	Південній Африці	Південна Африка	LOC	GPE-Republic-of-South-Africa
+1573	1582	Туреччині	Туреччина	LOC	GPE-Turkey
+1669	1675	Pfizer	Pfizer	ORG	ORG-Pfizer
+1933	1941	пандемія	пандемія	EVT	EVT-Covid-19
+2984	2997	Альберт Бурла	Альберт Бурла	PER	PER-Albert-Bourla
+3006	3012	Pfizer	Pfizer	ORG	ORG-Pfizer
+3032	3040	BioNTech	BioNTech	ORG	ORG-BioNTech
+3047	3057	Угур Сахін	Угур Сахін	PER	PER-Ugur-Sahin
+3269	3275	Pfizer	Pfizer	ORG	ORG-Pfizer
+3279	3287	BioNTech	BioNTech	ORG	ORG-BioNTech
+3569	3580	Пітер Горбі	Пітер Горбі	PER	PER-Peter-Horby
+3583	3609	Оксфордського університету	Оксфордський університет	ORG	ORG-Oxford-University
+3811	3819	Telegram	Telegram	PRO	PRO-Telegram
+3824	3829	Viber	Viber	PRO	PRO-Viber

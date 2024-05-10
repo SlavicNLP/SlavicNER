@@ -1,0 +1,12 @@
+55	60	Texas	Texas	LOC	GPE-Texas
+115	118	USA	USA	LOC	GPE-USA
+150	155	Texas	Texas	LOC	GPE-Texas
+170	187	Nejvyšší soud USA	Nejvyšší soud USA	ORG	ORG-Supreme-Court-of-the-United-States
+276	288	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+346	356	Ken Paxton	Ken Paxton	PER	PER-Ken-Paxton
+412	424	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+433	450	Nejvyšší soud USA	Nejvyšší soud USA	ORG	ORG-Supreme-Court-of-the-United-States
+488	495	Georgii	Georgie	LOC	GPE-Georgia-US-state
+497	507	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+509	518	Michiganu	Michigan	LOC	GPE-Michigan
+521	532	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania

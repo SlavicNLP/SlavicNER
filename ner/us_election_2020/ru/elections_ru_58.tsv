@@ -1,0 +1,36 @@
+92	101	ВАШИНГТОН	ВАШИНГТОН	LOC	GPE-WashingtonDC
+112	123	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+169	180	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+193	196	США	США	LOC	GPE-USA
+197	203	Байден	Байден	PER	PER-Joe-Biden
+241	251	Калифорнии	Калифорния	LOC	GPE-California
+339	347	демократ	демократ	ORG	ORG-Democratic-Party-USA
+366	379	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+440	447	Байдена	Байден	PER	PER-Joe-Biden
+488	497	демократа	демократ	ORG	ORG-Democratic-Party-USA
+624	633	конгресса	конгресс	ORG	ORG-United-States-Congress
+680	686	Байден	Байден	PER	PER-Joe-Biden
+724	730	Трампа	Трамп	PER	PER-Donald-Trump
+1025	1035	сената CША	сената CША	ORG	ORG-United-States-Senate
+1064	1073	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1105	1123	Национальный архив	Национальный архив	ORG	ORG-NARA-National-Archives-and-Records-Administration
+1174	1196	Национальный архив США	Национальный архив США	ORG	ORG-NARA-National-Archives-and-Records-Administration
+1444	1447	США	США	LOC	GPE-USA
+1448	1458	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1510	1533	Коллегия выборщиков США	Коллегия выборщиков США	ORG	ORG-United-States-Electoral-College
+1571	1592	президентских выборах	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+1612	1618	Байден	Байден	PER	PER-Joe-Biden
+1656	1666	Калифорнии	Калифорния	LOC	GPE-California
+1754	1762	демократ	демократ	ORG	ORG-Democratic-Party-USA
+1781	1794	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1858	1865	Байдена	Байден	PER	PER-Joe-Biden
+1906	1915	демократа	демократ	ORG	ORG-Democratic-Party-USA
+2104	2110	Байден	Байден	PER	PER-Joe-Biden
+2148	2154	Трампа	Трамп	PER	PER-Donald-Trump
+2455	2465	сената CША	сенат CША	ORG	ORG-United-States-Senate
+2494	2503	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+2535	2553	Национальный архив	Национальный архив	ORG	ORG-NARA-National-Archives-and-Records-Administration
+2607	2629	Национальный архив США	Национальный архив США	ORG	ORG-NARA-National-Archives-and-Records-Administration
+3002	3018	«Россия сегодня»	«Россия сегодня»	PRO	PRO-RT-Russia-Today
+3024	3040	«Россия сегодня»	«Россия сегодня»	PRO	PRO-RT-Russia-Today
+3096	3110	Гаврилова А.В.	Гаврилов А.В.	PER	PER-Gavrilova-A.-V.

@@ -1,0 +1,34 @@
+0	7	Německo	Německo	LOC	GPE-Germany
+44	52	Británie	Británie	LOC	GPE-Great-Britain
+91	98	Německu	Německo	LOC	GPE-Germany
+150	157	Německu	Německo	LOC	GPE-Germany
+442	449	Německo	Německo	LOC	GPE-Germany
+484	495	koronavirem	koronavirus	EVT	EVT-Covid-19
+500	515	Česká republika	Česká republika	LOC	GPE-Czech-Republic
+517	525	Británie	Británie	LOC	GPE-Great-Britain
+572	594	Svaz britských učitelů	Svaz britských učitelů	ORG	ORG-Union-of-British-Teachers
+617	632	Borise Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+686	694	Británie	Británie	LOC	GPE-Great-Britain
+757	768	koronavirem	koronavirus	EVT	EVT-Covid-19
+800	826	Univerzity Johnse Hopkinse	Univerzita Johna Hopkinse	ORG	ORG-Johns-Hopkins-University
+857	863	Itálii	Itálie	LOC	GPE-Italy
+886	888	AP	AP	ORG	ORG-AP-The-Associated-Press
+927	934	Londýně	Londýn	LOC	GPE-London
+952	968	Gavin Williamson	Gavin Williamson	PER	PER-Gavin-Williamson
+990	997	Londýna	Londýn	LOC	GPE-London
+1266	1272	Anglii	Anglie	LOC	GPE-England
+1574	1588	Kevin Courtney	Kevin Courtney	PER	PER-Kevin-Courtney
+1673	1681	Británii	Británie	LOC	GPE-Great-Britain
+1735	1745	covidem-19	covid-19	EVT	EVT-Covid-19
+1915	1923	Británie	Británie	LOC	GPE-Great-Britain
+2075	2082	Londýně	Londýn	LOC	GPE-London
+2096	2107	Williamsona	Williamson	PER	PER-Gavin-Williamson
+2173	2179	Anglie	Anglie	LOC	GPE-England
+2526	2534	Británie	Británie	LOC	GPE-Great-Britain
+2599	2605	Pfizer	Pfizer	ORG	ORG-Pfizer
+2608	2616	BioNTech	BioNTech	ORG	ORG-BioNTech
+2685	2705	Oxfordské univerzitě	Oxfordská univerzita	ORG	ORG-University-of-Oxford
+2729	2740	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2786	2794	Británie	Británie	LOC	GPE-Great-Britain
+2848	2853	Rusku	Rusko	LOC	GPE-Russia
+2886	2894	Ukrajině	Ukrajina	LOC	GPE-Ukraine

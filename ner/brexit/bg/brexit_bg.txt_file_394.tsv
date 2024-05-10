@@ -1,0 +1,18 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+36	42	Меркел	Меркел	PER	PER-Angela-Merkel
+66	73	Брекзит	Брекзит	EVT	EVT-Brexit
+114	124	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+179	187	Германия	Германия	LOC	GPE-Germany
+188	201	Ангела Меркек	Ангела Меркек	PER	PER-Angela-Merkel
+296	301	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+304	314	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+323	329	Берлин	Берлин	LOC	GPE-Berlin
+357	370	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+446	462	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+473	480	Брекзит	Брекзит	EVT	EVT-Brexit
+589	595	Меркел	Меркел	PER	PER-Angela-Merkel
+771	800	Социалдемократическата партия	Социалдемократическа партия	ORG	ORG-SPD-Party
+930	936	Европа	Европа	LOC	LOC-Europe
+973	980	Брекзит	Брекзит	EVT	EVT-Brexit
+992	995	Мей	Мей	PER	PER-Theresa-May
+1074	1079	Днес+	Днес+	ORG	ORG-DnesPlus

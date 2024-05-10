@@ -1,0 +1,71 @@
+14	31	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+40	48	brexicie	Brexit	EVT	EVT-Brexit
+73	75	UE	UE	ORG	ORG-European-Union
+116	133	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+140	155	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+319	326	Europie	Europa	LOC	LOC-Europe
+357	369	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+403	405	UE	UE	ORG	ORG-European-Union
+421	438	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+465	473	brexicie	Brexit	EVT	EVT-Brexit
+590	606	Lucia Campetella	Lucia Campetella	PER	PER-Lucia-Campetella
+609	616	Włoszka	Włoszka	PER	GPE-Italy
+635	652	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+736	752	Wysp Brytyjskich	Wyspy Brytyjskie	LOC	GPE-Great-Britain
+800	807	Europie	Europa	LOC	LOC-Europe
+825	831	Londyn	Londyn	LOC	GPE-London
+894	900	Polacy	Polacy	PER	GPE-Poland
+915	927	Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+946	960	Doroty Staniak	Dorota Staniak	PER	PER-Dorota-Staniak
+963	968	Polki	Polka	PER	GPE-Poland
+1024	1032	Londynie	Londyn	LOC	GPE-London
+1034	1040	brexit	Brexit	EVT	EVT-Brexit
+1139	1152	Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+1162	1170	Polakami	Polacy	PER	GPE-Poland
+1220	1233	Brytyjczykach	Brytyjczycy	PER	GPE-Great-Britain
+1302	1319	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1339	1346	Polaków	Polacy	PER	GPE-Poland
+1370	1376	Polacy	Polacy	PER	GPE-Poland
+1505	1518	Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+1543	1554	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1631	1639	brexicie	Brexit	EVT	EVT-Brexit
+1641	1655	Nick Otterwell	Nick Otterwell	PER	PER-Nick-Otterwell
+1658	1668	Canterbury	Canterbury	LOC	GPE-Canterbury
+1743	1749	brexit	Brexit	EVT	EVT-Brexit
+1865	1873	Bułgarii	Bułgaria	LOC	GPE-Bulgaria
+1876	1883	Rumunii	Rumunia	LOC	GPE-Romania
+1904	1910	Brexit	Brexit	EVT	EVT-Brexit
+2140	2153	Gawain Towler	Gawain Towler	PER	PER-Gawain-Towler
+2176	2221	Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+2223	2227	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+2246	2253	brexitu	Brexit	EVT	EVT-Brexit
+2342	2359	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2411	2419	brexicie	Brexit	EVT	EVT-Brexit
+2600	2617	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2620	2622	UE	UE	ORG	ORG-European-Union
+2841	2858	Leave Means Leave	Leave Means Leave	ORG	ORG-Leave-Means-Leave
+2996	3002	brexit	Brexit	EVT	EVT-Brexit
+3158	3170	Richard Tice	Richard Tice	PER	PER-Richard-Tice
+3195	3202	brexitu	Brexit	EVT	EVT-Brexit
+3222	3232	Steve Bray	Steve Bray	PER	PER-Steve-Bray
+3257	3262	Walii	Walia	LOC	GPE-Wales
+3279	3308	parlamentem Wielkiej Brytanii	Parlament Wielkiej Brytanii	ORG	ORG-Parliament-of-the-United-Kingdom
+3408	3414	brexit	Brexit	EVT	EVT-Brexit
+3452	3467	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3477	3479	UE	UE	ORG	ORG-European-Union
+3586	3588	UE	UE	ORG	ORG-European-Union
+3696	3711	Patrick Minford	Patrick Minford	PER	PER-Patrick-Minford
+3746	3767	Uniwersytecie Cardiff	Uniwersytet Cardiff	ORG	ORG-University-of-Wales
+3770	3775	Walii	Walia	LOC	GPE-Wales
+3786	3788	UE	UE	ORG	ORG-European-Union
+3896	3908	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+4029	4036	Minford	Minford	PER	PER-Patrick-Minford
+4166	4183	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4218	4227	Niemczech	Niemcy	LOC	GPE-Germany
+4390	4405	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4435	4446	Jane Pierce	Jane Pierce	PER	PER-Jane-Pierce
+4473	4480	Londynu	Londyn	LOC	GPE-London
+4513	4520	Francji	Francja	LOC	GPE-France
+4523	4532	Hiszpanii	Hiszpania	LOC	GPE-Spain
+4704	4712	brexicie	Brexit	EVT	EVT-Brexit
+4713	4728	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain

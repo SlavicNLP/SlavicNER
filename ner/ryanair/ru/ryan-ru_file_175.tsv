@@ -1,0 +1,31 @@
+35	41	Италии	Италия	LOC	GPE-Italy
+73	81	Аэрофлот	Аэрофлот	ORG	ORG-Aeroflot
+120	131	Шереметьево	Шереметьево	LOC	LOC-Sheremetievo
+229	235	Италии	Италия	LOC	GPE-Italy
+245	249	Ansa	Ansa	ORG	ORG-Ansa
+281	305	Keep Europe’s Skies Open	Keep Europe’s Skies Open	PRO	PRO-Open-skies
+329	349	Авиалинии для Европы	Авиалинии для Европы	ORG	ORG-Airlines-for-Europe
+352	355	A4E	A4E	ORG	ORG-Airlines-for-Europe
+440	454	Air France KLM	Air France KLM	ORG	ORG-AFP-Agence-France-Press
+456	463	easyJet	easyJet	ORG	ORG-EasyJet
+465	468	Iag	Iag	ORG	ORG-IAG-International-Airlines-Group
+470	479	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+482	489	Ryanair	Ryanair	ORG	ORG-Ryanair
+635	641	Европы	Европа	LOC	LOC-Europe
+837	841	Пизе	Пиза	LOC	GPE-Piza
+843	846	PSA	PSA	LOC	LOC-Piza-Airport
+849	858	Мальпенса	Мальпенса	LOC	LOC-Malpensa
+861	867	Милане	Милан	LOC	GPE-Milan
+869	872	MXP	MXP	LOC	LOC-Malpensa
+875	881	Линате	Линате	LOC	LOC-Linate
+884	890	Милане	Милан	LOC	GPE-Milan
+892	895	LIN	LIN	LOC	LOC-Linate
+901	910	Флоренции	Флоренция	LOC	GPE-Florence
+912	915	FLR	FLR	LOC	LOC-Florence-Airport
+919	931	Анкона Марке	Анкона Марке	LOC	LOC-Ancona-Marche
+933	936	AOI	AOI	LOC	LOC-Ancona-Marche
+1040	1046	Skycop	Skycop	ORG	ORG-Skycop
+1233	1253	Европейская комиссия	Европейская комиссия	ORG	ORG-European-Commission
+1318	1324	Италии	Италия	LOC	GPE-Italy
+1333	1335	ЕС	ЕС	ORG	ORG-European-Union
+1369	1377	Alitalia	Alitalia	ORG	ORG-Alitalia

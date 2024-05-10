@@ -1,0 +1,45 @@
+10	16	Mayeva	May	PER	PER-Theresa-May
+64	70	brexit	brexit	EVT	EVT-Brexit
+72	85	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+106	116	laburistov	laburisti	ORG	ORG-Labour-Party-UK
+230	235	Otoku	otok	LOC	GPE-Great-Britain
+324	331	brexita	brexit	EVT	EVT-Brexit
+391	393	EU	EU	ORG	ORG-European-Union
+446	467	konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+480	491	Therese May	Theresa May	PER	PER-Theresa-May
+662	669	brexita	brexit	EVT	EVT-Brexit
+758	764	Mayeva	May	PER	PER-Theresa-May
+876	885	Britanije	Britanija	LOC	GPE-Great-Britain
+889	891	EU	EU	ORG	ORG-European-Union
+909	927	Rokavskega preliva	Rokavski preliv	LOC	LOC-English-Channel
+1162	1179	Rokavskem prelivu	Rokavski preliv	LOC	LOC-English-Channel
+1243	1250	Otočani	Otočani	PER	GPE-Great-Britain
+1491	1498	brexitu	brexit	EVT	EVT-Brexit
+1525	1539	konservativcev	konservativci	PER	ORG-Conservative-and-Unionist-Party-UK
+1720	1727	brexitu	brexit	EVT	EVT-Brexit
+1771	1779	Otočanov	Otočani	PER	GPE-Great-Britain
+2012	2018	Mayeva	May	PER	PER-Theresa-May
+2227	2234	Otočani	Otočani	PER	GPE-Great-Britain
+2263	2283	drugi svetovni vojni	druga svetovna vojna	EVT	EVT-World-War-II
+2377	2384	brexitu	brexit	EVT	EVT-Brexit
+2470	2478	Britanci	Britanci	PER	GPE-Great-Britain
+2513	2519	Mayeva	May	PER	PER-Theresa-May
+2561	2568	brexita	brexit	EVT	EVT-Brexit
+2804	2818	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+2856	2864	Britanci	Britanci	PER	GPE-Great-Britain
+3257	3267	laburistov	laburisti	ORG	ORG-Labour-Party-UK
+3268	3284	Jeremyja Corbyna	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+3318	3324	Mayeva	May	PER	PER-Theresa-May
+3337	3343	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+3389	3395	brexit	brexit	EVT	EVT-Brexit
+3442	3448	Mayeva	May	PER	PER-Theresa-May
+3461	3467	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+3589	3591	EU	EU	ORG	ORG-European-Union
+3682	3688	Mayeva	May	PER	PER-Theresa-May
+3689	3696	Corbynu	Corbyn	PER	PER-Jeremy-Corbyn
+3737	3743	Jeremy	Jeremy	PER	PER-Jeremy-Anderson
+3961	3967	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+4220	4227	brexita	brexit	EVT	EVT-Brexit
+4402	4410	Otočanov	Otočani	PER	GPE-Great-Britain
+4429	4445	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+4455	4457	EU	EU	ORG	ORG-European-Union

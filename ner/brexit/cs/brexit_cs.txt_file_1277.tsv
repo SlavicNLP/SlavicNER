@@ -1,0 +1,17 @@
+0	17	Britský parlament	Britský parlament	ORG	ORG-British-Parlament
+31	37	brexit	brexit	EVT	EVT-Brexit
+166	179	Evropské unie	Evropská unie	ORG	ORG-European-Union
+368	382	Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+449	463	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+512	526	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+574	591	Political Betting	Political Betting	PRO	PRO-Political-Betting-website
+649	655	Norsku	Norsko	LOC	GPE-Norway
+710	731	Winstonem Churchillem	Winston Churchill	PER	PER-Winston-Churchill
+777	797	Nevilla Chamberlaina	Nevill Chamberlain	PER	PER-Nevill-Chamberlain
+875	889	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+932	939	toryové	toryové	PER	ORG-Conservative-and-Unionist-Party-UK
+996	1003	brexitu	brexit	EVT	EVT-Brexit
+1268	1283	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+1286	1292	Irskem	Irsko	LOC	GPE-Ireland
+1343	1349	brexit	brexit	EVT	EVT-Brexit
+1350	1361	David Davis	David Davis	PER	PER-David-Davis

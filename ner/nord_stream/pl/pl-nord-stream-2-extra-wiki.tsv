@@ -1,0 +1,91 @@
+0	17	Gazociąg Północny	Gazociąg Północny	PRO	PRO-Nord-Stream-1
+36	47	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+89	96	Wyborgu	Wyborg	LOC	GPE-Vyborg
+99	104	Rosji	Rosja	LOC	GPE-Russia
+108	119	Greifswaldu	Greifswald	LOC	GPE-Greifswald
+122	131	Niemczech	Niemcy	LOC	GPE-Germany
+168	185	Morza Bałtyckiego	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+225	231	Polskę	Polska	LOC	GPE-Poland
+347	364	Gazociąg Północny	Gazociąg Północny	PRO	PRO-Nord-Stream-1
+453	458	Rosji	Rosja	LOC	GPE-Russia
+484	491	Niemiec	Niemcy	LOC	GPE-Germany
+502	519	Europy Zachodniej	Europa  Zachodnia	LOC	LOC-Western-Europe
+678	685	Gazprom	Gazprom	ORG	ORG-Gazprom
+708	720	E.ON Ruhrgas	E.ON Ruhrgas	ORG	ORG-E.ON-Ruhrgas
+723	727	BASF	BASF	ORG	ORG-BASF-Holding
+740	747	Moskwie	Moskwa	LOC	GPE-Moscow
+786	806	Gazociągu Północnego	Gazociąg Północny	PRO	PRO-Nord-Stream-1
+831	842	Nord Stream	Nord Stream	ORG	ORG-Nord-Stream-AG
+905	929	N.V. Nederlandse Gasunie	N.V. Nederlandse Gasunie	ORG	ORG-Nederlandse-Gasunie
+945	956	Nord Stream	Nord Stream	ORG	ORG-Nord-Stream-AG
+988	995	Gazprom	Gazprom	ORG	ORG-Gazprom
+1017	1028	Wintershall	Wintershall	ORG	ORG-Wintershall
+1041	1045	BASF	BASF	ORG	ORG-BASF-Holding
+1048	1060	E.ON Ruhrgas	E.ON Ruhrgas	ORG	ORG-E.ON-Ruhrgas
+1088	1112	N.V. Nederlandse Gasunie	N.V. Nederlandse Gasunie	ORG	ORG-Nederlandse-Gasunie
+1119	1126	Gasunie	Gasunie	ORG	ORG-Nederlandse-Gasunie
+1217	1234	Gazociąg Północny	Gazociąg Północny	PRO	PRO-Nord-Stream-1
+1260	1268	Babajewo	Babajewo	LOC	GPE-Babajevo
+1312	1329	Morza Bałtyckiego	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+1332	1339	Wyborgu	Wyborg	LOC	GPE-Vyborg
+1358	1375	Morza Bałtyckiego	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+1379	1386	Lubmina	Lubmin	LOC	GPE-Lubmin
+1392	1403	Greifswaldu	Greifswald	LOC	GPE-Greifswald
+1406	1415	Niemczech	Niemcy	LOC	GPE-Germany
+1549	1554	Rosji	Rosja	LOC	GPE-Russia
+1557	1564	Niemiec	Niemcy	LOC	GPE-Germany
+1635	1642	Szwecji	Szwecja	LOC	GPE-Sweden
+1644	1653	Finlandii	Finlandia	LOC	GPE-Finland
+1656	1661	Danii	Dania	LOC	GPE-Denmark
+1690	1695	Dania	Dania	LOC	GPE-Denmark
+1707	1714	Szwecja	Szwecja	LOC	GPE-Sweden
+1717	1726	Finlandia	Finlandia	LOC	GPE-Finland
+1756	1776	Gazociągu Północnego	Gazociąg Północny	PRO	PRO-Nord-Stream-1
+1838	1851	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+1853	1872	Dmitrij Miedwiediew	Dmitrij Miedwiediew	PER	PER-Dmitry-Medvedev
+1874	1884	Mark Rutte	Mark Rutte	PER	PER-Mark-Rutte
+1887	1902	François Fillon	François Fillon	PER	PER-François-Fillon
+1975	1984	Gotlandii	Gotlandia	LOC	GPE-Gotland
+2021	2041	Gazociągu Północnego	Gazociąg Północny	PRO	PRO-Nord-Stream-1
+2060	2081	Dmitrija Miedwiediewa	Dmitrij Miedwiediew	PER	PER-Dmitry-Medvedev
+2084	2102	Gerharda Schrödera	Gerhard Schröder	PER	PER-Gerhard-Fritz-Kurt-Schröder
+2452	2466	Flota Bałtycka	Flota Bałtycka	ORG	ORG-Baltic-Fleet
+2707	2727	Gazociągu Północnego	Gazociąg Północny	PRO	PRO-Nord-Stream-1
+2945	2950	Rosji	Rosja	LOC	GPE-Russia
+2952	2968	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+3284	3290	Polskę	Polska	LOC	GPE-Poland
+3292	3297	Litwę	Litwa	LOC	GPE-Lithuania
+3299	3304	Łotwę	Łotwa	LOC	GPE-Latvia
+3306	3314	Białoruś	Białoruś	LOC	GPE-Belarus
+3319	3326	Ukrainę	Ukraina	LOC	GPE-Ukraine
+3422	3433	Nord Stream	Nord Stream	ORG	ORG-Nord-Stream-AG
+3456	3476	Gazociągu Północnego	Gazociąg Północny	PRO	PRO-Nord-Stream-1
+3713	3732	II wojnie światowej	II wojna światowa	EVT	EVT-World-War-II
+3741	3748	Bałtyku	Bałtyk	LOC	LOC-Baltic-Sea
+3796	3816	Gazociągu Północnego	Gazociąg Północny	PRO	PRO-Nord-Stream-2
+3926	3933	Bałtyku	Bałtyk	LOC	LOC-Baltic-Sea
+4020	4027	Bałtyku	Bałtyk	LOC	LOC-Baltic-Sea
+4181	4187	Polski	Polska	LOC	GPE-Poland
+4256	4262	Polską	Polska	LOC	GPE-Poland
+4264	4269	Litwą	Litwa	LOC	GPE-Lithuania
+4272	4279	Estonią	Estonia	LOC	GPE-Estonia
+4305	4312	Niemiec	Niemcy	LOC	GPE-Germany
+4314	4332	Gerharda Schrödera	Gerhard Schröder	PER	PER-Gerhard-Fritz-Kurt-Schröder
+4347	4350	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+4375	4388	Angeli Merkel	Angela Merkel	PER	PER-Angela-Merkel
+4469	4476	Bałtyku	Bałtyk	LOC	LOC-Baltic-Sea
+4514	4534	Gazociągu Północnego	Gazociąg Północny	PRO	PRO-Nord-Stream-1
+4611	4628	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4784	4801	Gazociąg Północny	Gazociąg Północny	PRO	PRO-Nord-Stream-1
+4844	4849	Rosji	Rosja	LOC	GPE-Russia
+4850	4856	Polska	Polska	LOC	GPE-Poland
+5016	5021	Rosji	Rosja	LOC	GPE-Russia
+5353	5370	Gazociąg Północny	Gazociąg Północny	PRO	PRO-Nord-Stream-1
+5436	5442	Polski	Polska	LOC	GPE-Poland
+5574	5580	Polski	Polska	LOC	GPE-Poland
+5641	5647	Polska	Polska	LOC	GPE-Poland
+5784	5789	Rosję	Rosja	LOC	GPE-Russia
+5821	5826	Rosji	Rosja	LOC	GPE-Russia
+5857	5864	Ukrainą	Ukraina	LOC	GPE-Ukraine
+5960	5977	Radosław Sikorski	Radosław Sikorski	PER	PER-Radosław-Sikorski
+6025	6049	Paktu Ribbentrop-Mołotow	Pakt Ribbentrop-Mołotow	PRO	PRO-Molotov–Ribbentrop-Pact

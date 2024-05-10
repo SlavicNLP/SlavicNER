@@ -1,0 +1,19 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+7	13	Байдън	Байдън	PER	PER-Joe-Biden
+20	29	Белия дом	Бял дом	LOC	LOC-White-House
+76	86	Демократът	демократ	PER	ORG-Democratic-Party-USA
+87	97	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+120	123	САЩ	САЩ	LOC	GPE-USA
+238	250	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+277	283	Туитър	Туитър	PRO	PRO-Twitter
+297	301	TACC	ТАСС	ORG	ORG-TASS-Agency
+304	310	Байдън	Байдън	PER	PER-Joe-Biden
+330	339	Белия дом	Бял дом	LOC	LOC-White-House
+484	489	Тръмп	Тръмп	PER	PER-Donald-Trump
+528	535	Детройт	Детройт	LOC	GPE-Detroit
+537	544	Атланта	Атланта	LOC	GPE-Atlanta
+546	556	Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+559	566	Милуоки	Милуоки	LOC	GPE-Milwaukee
+604	610	Байдън	Байдън	PER	PER-Joe-Biden
+717	723	Туитър	Туитър	PRO	PRO-Twitter
+754	759	Тръмп	Тръмп	PER	PER-Donald-Trump

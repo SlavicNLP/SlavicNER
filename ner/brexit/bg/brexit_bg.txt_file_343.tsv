@@ -1,0 +1,62 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+28	35	Брекзит	Брекзит	EVT	EVT-Brexit
+41	51	британците	британци	PER	GPE-Great-Britain
+113	127	Великобритания	Великобритания	LOC	GPE-Great-Britain
+152	174	референдума за Брекзит	референдум от 2016 г. за излизане на Великобритания от съюза	EVT	EVT-Brexit-Referendum
+295	302	Брекзит	Брекзит	EVT	EVT-Brexit
+329	336	Брекзит	Брекзит	EVT	EVT-Brexit
+526	533	Брюксел	Брюксел	LOC	GPE-Brussles
+538	545	Брекзит	Брекзит	EVT	EVT-Brexit
+571	581	британците	британци	PER	GPE-Great-Britain
+669	689	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+690	700	Чука Умуна	Чука Умуна	PER	PER-Chuka-Umunna
+793	795	ЕС	ЕС	ORG	ORG-European-Union
+811	825	Великобритания	Великобритания	LOC	GPE-Great-Britain
+834	841	Брекзит	Брекзит	EVT	EVT-Brexit
+994	1008	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1020	1022	ЕС	ЕС	ORG	ORG-European-Union
+1026	1036	Чука Умуна	Чука Умуна	PER	PER-Chuka-Umunna
+1049	1055	Европа	Европа	LOC	LOC-Europe
+1079	1093	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1102	1109	Брекзит	Брекзит	EVT	EVT-Brexit
+1115	1125	британците	британци	PER	GPE-Great-Britain
+1164	1171	член 50	член 50	PRO	PRO-Article-50
+1364	1388	университета Уестминстър	университет Уестминстър	ORG	ORG-University-of-Westminster
+1389	1393	Адам	Адам	PER	PER-Adam-Lazowski
+1394	1402	Лазовски	Лазовски	PER	PER-Adam-Lazowski
+1457	1467	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1499	1506	член 50	член 50	PRO	PRO-Article-50
+1510	1529	Лисабонския договор	Лисабонски договор	PRO	PRO-Treaty-of-Lisbon
+1565	1575	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1688	1695	член 50	член 50	PRO	PRO-Article-50
+1848	1855	Брекзит	Брекзит	EVT	EVT-Brexit
+1865	1872	Брекзит	Брекзит	EVT	EVT-Brexit
+1952	1959	член 50	член 50	PRO	PRO-Article-50
+2077	2089	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+2190	2197	Брекзит	Брекзит	EVT	EVT-Brexit
+2218	2228	Чука Умуна	Чука Умуна	PER	PER-Chuka-Umunna
+2244	2254	британците	британци	PER	GPE-Great-Britain
+2281	2288	Брекзит	Брекзит	EVT	EVT-Brexit
+2304	2310	Европа	Европа	LOC	LOC-Europe
+2346	2350	Адам	Адам	PER	PER-Adam-Lazowski
+2351	2359	Лазовски	Лазовски	PER	PER-Adam-Lazowski
+2371	2378	Брекзит	Брекзит	EVT	EVT-Brexit
+2489	2496	Брекзит	Брекзит	EVT	EVT-Brexit
+2900	2907	член 50	член 50	PRO	PRO-Article-50
+2962	2964	ЕС	ЕС	ORG	ORG-European-Union
+2979	2993	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3069	3071	ЕС	ЕС	ORG	ORG-European-Union
+3329	3341	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+3379	3381	ЕС	ЕС	ORG	ORG-European-Union
+3435	3442	член 50	член 50	PRO	PRO-Article-50
+3448	3451	Кър	Кър	PER	PER-John-Kerr
+3500	3504	Адам	Адам	PER	PER-Adam-Lazowski
+3505	3513	Лазовски	Лазовски	PER	PER-Adam-Lazowski
+3599	3601	ЕС	ЕС	ORG	ORG-European-Union
+3636	3643	член 50	член 50	PRO	PRO-Article-50
+3647	3666	Лисабонския договор	Лисабонски договор	PRO	PRO-Treaty-of-Lisbon
+3928	3941	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+3959	3973	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3977	3979	ЕС	ЕС	ORG	ORG-European-Union
+4012	4018	bnr.bg	bnr.bg	PRO	PRO-bnr.bg
+4019	4024	Днес+	Днес+	ORG	ORG-DnesPlus

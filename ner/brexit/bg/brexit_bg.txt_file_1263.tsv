@@ -1,0 +1,36 @@
+6	14	Ирландия	Ирландия	LOC	GPE-Ireland
+23	37	Великобритания	Великобритания	LOC	GPE-Great-Britain
+74	81	Брекзит	Брекзит	EVT	EVT-Brexit
+108	122	Великобритания	Великобритания	LOC	GPE-Great-Britain
+209	217	Ирландия	Ирландия	LOC	GPE-Ireland
+307	320	Саймън Ковини	Саймън Ковини	PER	PER-Simon-Coveney
+333	340	Ройтерс	Ройтерс	ORG	ORG-Reuters
+349	352	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+370	386	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+404	424	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+428	446	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+491	505	Великобритания	Великобритания	LOC	GPE-Great-Britain
+508	510	ЕС	ЕС	ORG	ORG-European-Union
+516	524	Брекзита	Брекзит	EVT	EVT-Brexit
+638	640	ЕС	ЕС	ORG	ORG-European-Union
+643	649	Дъблин	Дъблин	LOC	GPE-Dublin
+687	701	Великобритания	Великобритания	LOC	GPE-Great-Britain
+750	766	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+792	794	ЕС	ЕС	ORG	ORG-European-Union
+878	884	Лондон	Лондон	LOC	GPE-London
+936	938	ЕС	ЕС	ORG	ORG-European-Union
+1103	1114	Айриш таймс	Айриш таймс	PRO	PRO-Irish-Times
+1164	1166	ЕС	ЕС	ORG	ORG-European-Union
+1539	1541	ЕС	ЕС	ORG	ORG-European-Union
+1639	1655	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1694	1696	ЕС	ЕС	ORG	ORG-European-Union
+1768	1770	ЕС	ЕС	ORG	ORG-European-Union
+1772	1786	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1852	1872	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1927	1933	Лондон	Лондон	LOC	GPE-London
+1966	1982	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2019	2039	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2045	2047	ЕС	ЕС	ORG	ORG-European-Union
+2158	2160	ЕС	ЕС	ORG	ORG-European-Union
+2179	2187	Брекзита	Брекзит	EVT	EVT-Brexit
+2294	2304	Тереза Мей	Тереза Мей	PER	PER-Theresa-May

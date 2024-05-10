@@ -1,0 +1,16 @@
+0	7	Рада ЄС	Рада ЄС	ORG	ORG-Council-of-the-European-Union
+36	42	Brexit	Brexit	EVT	EVT-Brexit
+63	65	ЄС	ЄС	LOC	ORG-European-Union
+94	100	Brexit	Brexit	EVT	EVT-Brexit
+138	140	ЄС	ЄС	LOC	ORG-European-Union
+141	154	Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+204	211	Reuters	Reuters	ORG	ORG-Reuters
+409	417	Брюсселі	Брюссель	LOC	GPE-Brussles
+421	428	Лондоні	Лондон	LOC	GPE-London
+440	446	Барньє	Барньє	PER	PER-Michel-Barnier
+633	646	Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+702	718	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+805	839	кабінет міністрів Великої Британії	кабінет міністрів Великої Британії	ORG	ORG-Cabinet-of-the-United-Kingdom
+876	882	Brexit	Brexit	EVT	EVT-Brexit
+898	907	Брюсселем	Брюссель	LOC	GPE-Brussles
+1007	1013	Brexit	Brexit	EVT	EVT-Brexit

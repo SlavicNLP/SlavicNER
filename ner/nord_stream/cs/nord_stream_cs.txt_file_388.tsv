@@ -1,0 +1,38 @@
+0	3	USA	USA	LOC	GPE-USA
+50	57	Německa	Německo	LOC	GPE-Germany
+106	113	Německa	Německo	LOC	GPE-Germany
+197	201	Bild	Bild	PRO	PRO-Bild
+251	266	Dan Brouillette	Dan Brouillette	PER	PER-Dan-Brouillette
+278	281	USA	USA	LOC	GPE-USA
+306	311	Ruska	Rusko	LOC	GPE-Russia
+346	353	Německa	Německo	LOC	GPE-Germany
+403	406	USA	USA	LOC	GPE-USA
+415	422	Německa	Německo	LOC	GPE-Germany
+462	473	Brouillette	Brouillette	PER	PER-Dan-Brouillette
+494	506	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+526	533	Německo	Německo	LOC	GPE-Germany
+550	555	Ruska	Rusko	LOC	GPE-Russia
+629	642	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+662	667	Rusko	Rusko	LOC	GPE-Russia
+669	676	Německo	Německo	LOC	GPE-Germany
+677	685	Trumpova	Trump	PER	PER-Donald-Trump
+839	850	Brouillette	Brouillette	PER	PER-Dan-Brouillette
+963	970	Gazprom	Gazprom	ORG	ORG-Gazprom
+1011	1018	Gazprom	Gazprom	ORG	ORG-Gazprom
+1057	1070	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1093	1108	Richard Grenell	Richard Grenell	PER	PER-Richard-Grenell
+1144	1160	Angela Merkelová	Angela Merkelová	PER	PER-Angela-Merkel
+1161	1167	Trumpa	Trump	PER	PER-Donald-Trump
+1188	1195	Německo	Německo	LOC	GPE-Germany
+1218	1233	Spojených států	Spojené státy	LOC	GPE-USA
+1258	1265	Německa	Německo	LOC	GPE-Germany
+1421	1426	Ruska	Rusko	LOC	GPE-Russia
+1428	1434	Norska	Norsko	LOC	GPE-Norway
+1437	1447	Nizozemska	Nizozemsko	LOC	GPE-Holland
+1471	1478	Německa	Německo	LOC	GPE-Germany
+1484	1489	Katar	Katar	LOC	GPE-Qatar
+1541	1548	Německu	Německo	LOC	GPE-Germany
+1578	1584	Evropě	Evropa	LOC	LOC-Europe
+1592	1602	Nizozemsko	Nizozemsko	LOC	GPE-Holland
+1647	1654	Německa	Německo	LOC	GPE-Germany
+1690	1699	Groningen	Groningen	LOC	LOC-Groningen

@@ -1,0 +1,15 @@
+21	24	САЩ	САЩ	LOC	GPE-USA
+25	36	Бил Клинтън	Бил Клинтън	PER	PER-Bill-Clinton
+61	71	Белият дом	Бял дом	LOC	LOC-White-House
+215	261	Националния конгрес на Демократическата партия	Национален конгрес на Демократическата партия	EVT	EVT-2020-Democratic-National-Convention
+296	303	Милуоки	Милуоки	LOC	GPE-Milwaukee
+308	315	Клинтън	Клинтън	PER	PER-Bill-Clinton
+352	365	републиканеца	републиканец	PER	ORG-Republican-Party-USA
+366	371	Тръмп	Тръмп	PER	PER-Donald-Trump
+444	456	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+472	475	САЩ	САЩ	LOC	GPE-USA
+633	649	Овалният кабинет	Овален кабинет	LOC	LOC-Oval-Office
+734	741	Клинтън	Клинтън	PER	PER-Bill-Clinton
+758	763	Тръмп	Тръмп	PER	PER-Donald-Trump
+855	865	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+877	884	Клинтън	Клинтън	PER	PER-Bill-Clinton

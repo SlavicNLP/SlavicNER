@@ -1,0 +1,24 @@
+55	61	Тюмени	Тюмень	LOC	GPE-Tyumen
+65	71	ковида	ковид	EVT	EVT-Covid-19
+170	178	госуслуг	госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+183	200	Тюменскую область	Тюменская область	LOC	GPE-Tyumen-region
+257	265	COVID-19	COVID-19	EVT	EVT-Covid-19
+268	286	Тюменский оперштаб	Тюменский оперштаб	ORG	ORG-Operational-Headquarters-on-preventing-COVID-19-Tyumen
+395	403	COVID-19	COVID-19	EVT	EVT-Covid-19
+508	519	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+521	536	«Гам-КОВИД-Вак»	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+586	594	тюменцев	тюменцы	LOC	GPE-Tyumen
+1493	1510	Тюменской области	Тюменская область	LOC	GPE-Tyumen-region
+1539	1562	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+1751	1767	Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+1773	1790	Тюменской области	Тюменская область	LOC	GPE-Tyumen-region
+2023	2032	Депздраве	Депздрав	ORG	ORG-Tyumen-Healthcare-Department
+2137	2145	госуслуг	госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+2146	2163	Тюменской области	Тюменская область	LOC	GPE-Tyumen-region
+2194	2212	тюменский оперштаб	тюменский оперштаб	ORG	ORG-Operational-Headquarters-on-preventing-COVID-19-Tyumen
+2291	2299	COVID-19	COVID-19	EVT	EVT-Covid-19
+2300	2314	«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+2326	2356	новосибирским центром «Вектор»	Новосибирский центр «Вектор»	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+2434	2443	оперштабе	оперштаб	ORG	ORG-Operational-Headquarters-on-preventing-COVID-19-Tyumen
+2579	2596	Тюменской области	Тюменская область	LOC	GPE-Tyumen-region
+3011	3023	коронавирусе	коронавирус	EVT	EVT-Covid-19

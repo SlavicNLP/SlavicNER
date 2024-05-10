@@ -1,0 +1,62 @@
+20	34	Великобритания	Великобритания	LOC	GPE-Great-Britain
+75	81	Лондон	Лондон	LOC	GPE-London
+87	101	Великобритания	Великобритания	LOC	GPE-Great-Britain
+133	135	ЕС	ЕС	ORG	ORG-European-Union
+286	296	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+364	378	Великобритания	Великобритания	LOC	GPE-Great-Britain
+475	482	Брекзит	Брекзит	EVT	EVT-Brexit
+586	600	Великобритания	Великобритания	LOC	GPE-Great-Britain
+606	613	Брекзит	Брекзит	EVT	EVT-Brexit
+632	647	Югоизточна Азия	Югоизточна Азия	LOC	LOC-Southeast-Asia
+676	690	Великобритания	Великобритания	LOC	GPE-Great-Britain
+888	890	ЕС	ЕС	ORG	ORG-European-Union
+1048	1068	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1147	1151	Азия	Азия	LOC	LOC-Asia
+1189	1203	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1261	1268	Брекзит	Брекзит	EVT	EVT-Brexit
+1298	1312	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1345	1347	ЕС	ЕС	ORG	ORG-European-Union
+1713	1733	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1836	1843	Брекзит	Брекзит	EVT	EVT-Brexit
+1856	1870	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2113	2127	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2197	2204	Брюксел	Брюксел	LOC	GPE-Brussles
+2260	2274	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2381	2383	ЕС	ЕС	ORG	ORG-European-Union
+2531	2542	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+2576	2590	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2671	2680	Евросъюза	Евросъюз	ORG	ORG-European-Union
+2749	2754	АСЕАН	АСЕАН	ORG	ORG-ASEAN
+2873	2878	Китай	Китай	LOC	GPE-China
+2880	2883	САЩ	САЩ	LOC	GPE-USA
+2886	2888	ЕС	ЕС	ORG	ORG-European-Union
+2897	2911	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2934	2939	АСЕАН	АСЕАН	ORG	ORG-ASEAN
+2942	2947	Китай	Китай	LOC	GPE-China
+2949	2951	ЕС	ЕС	ORG	ORG-European-Union
+2954	2957	САЩ	САЩ	LOC	GPE-USA
+3061	3075	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3260	3267	Брекзит	Брекзит	EVT	EVT-Brexit
+3293	3308	Югоизточна Азия	Югоизточна Азия	LOC	LOC-Southeast-Asia
+3310	3319	Индонезия	Индонезия	LOC	GPE-Indonesia
+3365	3367	ЕС	ЕС	ORG	ORG-European-Union
+3375	3395	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3489	3509	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3593	3595	ЕС	ЕС	ORG	ORG-European-Union
+3621	3623	ЕС	ЕС	ORG	ORG-European-Union
+3644	3658	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3777	3790	Нарендра Моди	Нарендра Моди	PER	PER-Narendra-Modi
+4021	4035	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4145	4155	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4202	4216	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4259	4266	Брекзит	Брекзит	EVT	EVT-Brexit
+4317	4331	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4520	4525	АСЕАН	АСЕАН	ORG	ORG-ASEAN
+4647	4661	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4725	4732	Франция	Франция	LOC	GPE-France
+4766	4768	ЕС	ЕС	ORG	ORG-European-Union
+4815	4821	Африка	Африка	LOC	LOC-Africa
+4823	4843	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+4898	4912	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5075	5082	Брекзит	Брекзит	EVT	EVT-Brexit
+5157	5169	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov

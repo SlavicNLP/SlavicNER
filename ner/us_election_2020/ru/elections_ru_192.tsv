@@ -1,0 +1,98 @@
+32	44	конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+103	106	США	США	LOC	GPE-USA
+155	167	американской	американская	LOC	GPE-USA
+181	199	Капитолийский холм	Капитолийский холм	ORG	LOC-Capitol-Hill
+284	293	конгресса	Конгресс	ORG	ORG-United-States-Congress
+307	319	Рашида Тлаиб	Рашида Тлаиб	PER	PER-Rashida-Tlaib
+322	333	Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+354	376	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+456	471	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+545	566	палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+577	582	Тлаиб	Илаиб	PER	PER-Rashida-Tlaib
+585	589	Омар	Омар	PER	PER-Ilhan-Omar
+615	622	Мичиган	Мичиган	LOC	GPE-Michigan
+625	634	Миннесота	Миннесота	LOC	GPE-Minnesota
+637	662	палате представителей США	Палата представителей США	ORG	ORG-United-States-House-of-Representatives
+731	748	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+773	812	иммиграционную и таможенную полицию США	Иммиграционная и таможенная полиция США	ORG	ORG-US-Immigration-and-Customs-Enforcement
+814	817	ICE	ICE	ORG	ORG-US-Immigration-and-Customs-Enforcement
+987	996	Миннесоте	Миннесота	LOC	GPE-Minnesota
+1065	1074	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1087	1091	Омар	Омар	PER	PER-Ilhan-Omar
+1132	1143	Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+1157	1163	Сомали	Сомали	LOC	GPE-Somalia
+1218	1227	конгресса	Конгресс	ORG	ORG-United-States-Congress
+1307	1316	конгрессе	Конгресс	ORG	ORG-United-States-Congress
+1374	1382	конгресс	конгресс	ORG	ORG-United-States-Congress
+1464	1468	Омар	Омар	PER	PER-Ilhan-Omar
+1487	1493	Сомали	Сомали	LOC	GPE-Somalia
+1536	1541	Кении	Кения	LOC	GPE-Kenya
+1572	1583	Миннеаполис	Миннеаполис	LOC	GPE-Minneapolis
+1645	1649	Elle	Elle	PRO	PRO-Elle
+1650	1661	Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+1690	1698	конгресс	Конгресс	ORG	ORG-United-States-Congress
+1881	1896	республиканцами	республиканцы	PER	ORG-Republican-Party-USA
+1899	1910	демократами	демократы	PER	ORG-Democratic-Party-USA
+2094	2107	Конгрессе США	Конгресс США	ORG	ORG-United-States-Congress
+2110	2121	Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+2166	2174	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+2185	2198	Рашидой Тлаиб	Рашида Тлаиб	PER	PER-Rashida-Tlaib
+2220	2226	Сомали	Сомали	LOC	GPE-Somalia
+2229	2238	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+2275	2284	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+2335	2344	Миннесота	Миннесота	LOC	GPE-Minnesota
+2347	2356	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+2359	2362	BBC	BBC	PRO	PRO-BBC
+2365	2377	Getty Images	Getty Images	PRO	PRO-Getty-Images
+2396	2407	Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+2433	2439	Сомали	Сомали	LOC	GPE-Somalia
+2442	2463	палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2470	2479	Миннесота	Миннесота	LOC	GPE-Minnesota
+2785	2796	Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+2810	2819	демократа	демократ	PER	ORG-Democratic-Party-USA
+2820	2833	Кита Эллисона	Кит Эллисон	PER	PER-Keith-Ellison
+2897	2911	генпрокуратуре	генпрокуратура	ORG	ORG-United-States-Department-of-Justice
+2949	2961	Андрэ Карсон	Андрэ Карсон	PER	PER-Andre-Carson
+3003	3010	Индиана	Индиана	LOC	GPE-Indiana
+3014	3026	Рашида Тлаиб	Рашида Тлаиб	PER	PER-Rashida-Tlaib
+3056	3068	Рашида Тлаиб	Рашида Тлаиб	PER	PER-Rashida-Tlaib
+3094	3102	Детройта	Детройт	LOC	GPE-Detroit
+3112	3124	палестинских	палестинские	LOC	GPE-Palestine
+3158	3165	Мичиган	Мичиган	LOC	GPE-Michigan
+3168	3189	палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+3190	3193	США	США	LOC	GPE-USA
+3309	3330	палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+3331	3339	Мичигана	Мичиган	LOC	GPE-Michigan
+3425	3431	Трампа	Трам	PER	PER-Donald-Trump
+3736	3744	Эй-би-си	Эй-би-си	PRO	PRO-ABC-News
+3748	3760	Рашида Тлаиб	Рашида Тлаиб	PER	PER-Rashida-Tlaib
+3945	3960	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3981	3989	Детройте	Детройт	LOC	GPE-Detroit
+4051	4058	Трампом	Трамп	PER	PER-Donald-Trump
+4076	4085	Белый дом	Белый дом	LOC	LOC-White-House
+4120	4123	США	США	LOC	GPE-USA
+4157	4162	Ирана	Иран	LOC	GPE-Iran
+4164	4169	Ирака	Ирак	LOC	GPE-Iraq
+4171	4176	Сирии	Сирия	LOC	GPE-Syria
+4178	4184	Йемена	Йемен	LOC	GPE-Yemen
+4186	4192	Сомали	Сомали	LOC	GPE-Somalia
+4194	4200	Судана	Судан	LOC	GPE-Sudan
+4203	4208	Ливии	Ливия	LOC	GPE-Libya
+4271	4276	Судан	Судан	LOC	GPE-Sudan
+4289	4292	Чад	Чад	LOC	GPE-Chad
+4294	4298	КНДР	КНДР	LOC	GPE-North-Korea
+4316	4325	Венесуэлы	Венесуэла	LOC	GPE-Venezuela
+4376	4395	Верховным судом США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+4421	4426	Трамп	Трамп	PER	PER-Donald-Trump
+4442	4453	сомалийское	сомалийское	LOC	GPE-Somalia
+4465	4474	Миннесоты	Миннесота	LOC	GPE-Minnesota
+4596	4607	Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+4627	4635	Би-би-си	Би-би-си	PRO	PRO-BBC
+4647	4653	Трампа	Трам	PER	PER-Donald-Trump
+4817	4826	сомалийцы	сомалийцы	LOC	GPE-Somalia
+4997	5003	Трампа	Трам	PER	PER-Donald-Trump
+5040	5059	Pew Research Center	Pew Research Center	ORG	ORG-Pew-research-center
+5088	5091	США	США	LOC	GPE-USA
+5217	5223	Трампа	Трам	PER	PER-Donald-Trump
+5267	5286	Pew Research Center	Pew Research Center	ORG	ORG-Pew-research-center
+5302	5305	США	США	LOC	GPE-USA

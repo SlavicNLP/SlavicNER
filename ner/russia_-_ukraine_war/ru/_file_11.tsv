@@ -1,0 +1,33 @@
+0	5	Дания	Дания	LOC	GPE-Denmark
+14	21	Украине	Украина	LOC	GPE-Ukraine
+180	183	США	США	LOC	GPE-USA
+231	236	Дании	Дания	LOC	GPE-Denmark
+278	289	Фредериксен	Фредериксен	PER	PER-Mette-Frederiksen
+373	382	Бородянку	Бородянка	LOC	GPE-Borodianka
+385	401	Киевской области	Киевская область	LOC	GPE-Kyiv-Oblast
+463	483	российской оккупации	российская оккупация	EVT	EVT-Russian-occupation
+507	514	YouTube	YouTube	PRO	PRO-YouTube
+521	532	Фредериксен	Фредериксен	PER	PER-Mette-Frederiksen
+558	588	Международного уголовного суда	Международный уголовный суд	ORG	ORG-International-Criminal-Court
+636	643	Россией	Россия	LOC	GPE-Russia
+651	658	Украины	Украина	LOC	GPE-Ukraine
+774	779	Дании	Дания	LOC	GPE-Denmark
+868	877	Зеленским	Зеленский	PER	PER-Volodymyr-Zelensky
+948	957	Николаева	Николаев	LOC	GPE-Mykolaiv
+960	965	Путин	Путин	PER	PER-Vladimir-Putin
+1013	1020	Европой	Европа	LOC	LOC-Europe
+1023	1031	Украиной	Украина	LOC	GPE-Ukraine
+1165	1173	Украиной	Украина	LOC	GPE-Ukraine
+1196	1202	Европы	Европа	LOC	LOC-Europe
+1204	1206	ЕС	ЕС	ORG	ORG-European-Union
+1265	1267	РФ	РФ	LOC	GPE-Russia
+1313	1324	Фредериксен	Фредериксен	PER	PER-Mette-Frederiksen
+1348	1353	Литва	Литва	LOC	GPE-Lithuania
+1363	1388	Вооруженным силам Украины	Вооруженные силы Украины	ORG	ORG-Armed-Forces-of-Ukraine
+1460	1463	США	США	LOC	GPE-USA
+1464	1479	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+1519	1526	Украине	Украина	LOC	GPE-Ukraine
+1558	1563	Ми-17	Ми-17	PRO	PRO-MI-17
+1596	1607	Афганистана	Афганистан	LOC	GPE-Afghanistan
+1625	1633	Howitzer	Howitzer	PRO	PRO-Howitzer
+1658	1669	Switchblade	Switchblade	PRO	PRO-Switchblade

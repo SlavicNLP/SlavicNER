@@ -1,0 +1,11 @@
+0	7	Barnier	Barnier	PER	PER-Michel-Barnier
+49	56	brexitu	brexit	EVT	EVT-Brexit
+89	95	brexit	brexit	EVT	EVT-Brexit
+96	110	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+128	133	Prahy	Praha	LOC	GPE-Prague
+205	213	Británie	Británie	LOC	GPE-Great-Britain
+216	229	Evropské unie	Evropská unie	ORG	ORG-European-Union
+247	255	Británie	Británie	LOC	GPE-Great-Britain
+276	278	EU	EU	ORG	ORG-European-Union
+403	405	EU	EU	ORG	ORG-European-Union
+408	416	Británií	Británie	LOC	GPE-Great-Britain

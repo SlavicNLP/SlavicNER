@@ -1,0 +1,30 @@
+2	10	Германии	Германия	LOC	GPE-Germany
+29	47	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+69	78	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+80	96	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+133	147	Ангелы Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+234	243	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+312	316	СП-2	СП-2	PRO	PRO-Nord-Stream-2
+319	325	Москвы	Москва	LOC	GPE-Moscow
+359	366	Украины	Украина	LOC	GPE-Ukraine
+377	384	Меркель	Меркель	PER	PER-Angela-Merkel
+518	535	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+573	584	Wintershall	Wintershall	ORG	ORG-Wintershall
+587	591	BASF	BASF	ORG	ORG-BASF-Holding
+611	619	Германия	Германия	LOC	GPE-Germany
+637	643	Штатов	Штаты	LOC	GPE-USA
+678	684	Европу	Европа	LOC	LOC-Europe
+758	761	США	США	LOC	GPE-USA
+764	772	Германии	Германия	LOC	GPE-Germany
+773	787	Ричард Гренелл	Ричард Гренелл	PER	PER-Richard-Grenell
+810	824	Bloomberg News	Bloomberg News	PRO	PRO-Bloomberg
+878	884	Москве	Москва	LOC	GPE-Moscow
+931	948	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+1026	1035	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1169	1172	США	США	LOC	GPE-USA
+1348	1354	Европы	Европа	LOC	LOC-Europe
+1419	1425	Европе	Европа	LOC	LOC-Europe
+1636	1654	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1671	1677	Европе	Европа	LOC	LOC-Europe
+1729	1735	Трампа	Трам	PER	PER-Donald-Trump
+1841	1847	Европу	Европа	LOC	LOC-Europe

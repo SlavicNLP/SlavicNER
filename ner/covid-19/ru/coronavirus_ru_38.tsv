@@ -1,0 +1,65 @@
+11	23	коронавируса	коронавирус	EVT	EVT-Covid-19
+41	54	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+59	71	ЭпиВакКорона	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+112	126	Сергей Нетёсов	Сергей Нетёсов	PER	PER-Sergey-Netesov
+176	189	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+352	359	Нетёсов	Сергей Нетёсов	PER	PER-Sergey-Netesov
+381	393	коронавируса	коронавирус	EVT	EVT-Covid-19
+419	440	Новосибирской области	Новосибирская область	LOC	GPE-Novosibirsk
+470	476	Курьер	Курьер	PRO	PRO-Courier-newspaper
+485	491	Бердск	Бердск	LOC	GPE-Berdsk
+590	605	"ГНЦ ВБ ""Вектор"""	"ГНЦ ВБ ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+617	631	Сергей Нетёсов	Сергей Нетёсов	PER	PER-Sergey-Netesov
+653	666	новосибирские	новосибирский	LOC	GPE-Novosibirsk
+704	717	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+735	744	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+824	836	коронавируса	коронавирус	EVT	EVT-Covid-19
+839	851	ЭпиВакКорона	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+868	876	Вектором	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+911	927	Правительства РФ	Правительство РФ	ORG	ORG-The-Government-of-Russia
+928	944	Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+969	979	российские	российский	LOC	GPE-Russia
+1095	1104	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+1121	1186	Федеральным исследовательским центром имени академика Н.Ф.Гамалеи	Федеральный исследовательский центр имени академика Н.Ф.Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1187	1203	Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+1215	1227	ЭпиВакКорона	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+1229	1313	новосибирского Государственного научного центра вирусологии и биотехнологии «Вектор»	Новосибирский Государственный научный центр вирусологии и биотехнологии Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+1314	1330	Роспотребнадзора	Роспотребнадзор	ORG	ORG-CPS
+1378	1449	Федеральным исследовательским центром имени академика М.П. Чумакова РАН	Федеральный исследовательский центр имени академика М.П. Чумакова РАН	ORG	ORG-Chumakov-Scientific-Center-Russia
+1909	1918	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+2087	2105	Константин Хальзов	Константин Хальзов	PER	PER-Konstantin-Khalzov
+2195	2209	Сергей Нетёсов	Сергей НетёсовСергей Нетёсов	PER	PER-Sergey-Netesov
+2224	2233	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+2407	2414	Нетёсов	Сергей Нетёсов	PER	PER-Sergey-Netesov
+2480	2493	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2594	2608	Сергей Нетёсов	Сергей Нетёсов	PER	PER-Sergey-Netesov
+2862	2870	Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+3326	3339	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+3342	3351	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+3357	3369	ЭпиВакКорона	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+3428	3436	Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+3491	3500	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+3776	3788	ЭпиВакКорона	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+3798	3804	Вектор	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+3911	3923	коронавируса	коронавирус	EVT	EVT-Covid-19
+4012	4028	Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+4065	4072	Вектора	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+4313	4320	Нетёсов	Сергей Нетёсов	PER	PER-Sergey-Netesov
+4356	4368	ЭпиВакКорона	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+4371	4378	Вектора	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+4567	4581	Сергей Нетёсов	Сергей Нетёсов	PER	PER-Sergey-Netesov
+4624	4642	Константин Хальзов	Константин Хальзов	PER	PER-Konstantin-Khalzov
+4730	4738	COVID-19	COVID-19	EVT	EVT-Covid-19
+4765	4805	"ГНЦ вирусологии и биотехнологии ""Вектор"""	"ГНЦ вирусологии и биотехнологии ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+4867	4880	Новосибирской	Новосибирский	LOC	GPE-Novosibirsk
+4915	4924	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+4991	5003	коронавируса	коронавирус	EVT	EVT-Covid-19
+5005	5014	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+5084	5096	коронавируса	коронавирус	EVT	EVT-Covid-19
+5098	5107	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+5979	5991	коронавируса	коронавирус	EVT	EVT-Covid-19
+5993	6002	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+7164	7172	WhatsApp	WhatsApp	PRO	PRO-WhatsApp
+7203	7212	Instagram	Instagram	PRO	PRO-Instagram
+7528	7539	НИИ Гамалеи	НИИ Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+7540	7548	Гинзбург	Гинзбург	PER	PER-Alan-Ginsburg

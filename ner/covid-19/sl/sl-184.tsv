@@ -1,0 +1,38 @@
+10	14	IATE	IATA	ORG	ORG-IATA-International-Air-Transport-Association
+60	68	covid-19	covid-19	EVT	EVT-Covid-19
+153	159	Airbus	Airbus	ORG	ORG-Airbus-SE
+161	167	Boeing	Boeing	ORG	ORG-Boeing
+171	178	Embraer	Embraer	ORG	ORG-Embraer
+200	204	IATA	IATA	ORG	ORG-IATA-International-Air-Transport-Association
+291	301	covidom-19	covid-19	EVT	EVT-Covid-19
+427	446	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+455	461	Evropi	Evropa	LOC	LOC-Europe
+853	859	Tajska	Tajska	LOC	GPE-Thailand
+1215	1221	Airbus	Airbus	ORG	ORG-Airbus-SE
+1223	1229	Boeing	Boeing	ORG	ORG-Boeing
+1233	1240	Embraer	Embraer	ORG	ORG-Embraer
+1329	1339	covidom-19	covid-19	EVT	EVT-Covid-19
+1463	1482	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1505	1547	Mednarodno združenje letalskih prevoznikov	Mednarodno združenje letalskih prevoznikov	ORG	ORG-IATA-International-Air-Transport-Association
+1549	1553	IATA	IATA	ORG	ORG-IATA-International-Air-Transport-Association
+1904	1908	IATE	IATA	ORG	ORG-IATA-International-Air-Transport-Association
+2034	2042	covid-19	covid-19	EVT	EVT-Covid-19
+2160	2172	David Powell	David Powell	PER	PER-David-Powell
+2197	2201	IATE	IATA	ORG	ORG-IATA-International-Air-Transport-Association
+2517	2523	Powell	Powell	PER	PER-David-Powell
+2675	2678	CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+2739	2742	ZDA	ZDA	LOC	GPE-USA
+2857	2867	covidom-19	covid-19	EVT	EVT-Covid-19
+2928	2932	IATA	IATA	ORG	ORG-IATA-International-Air-Transport-Association
+2933	2952	Alexandre de Juniac	Alexandre de Juniac	PER	PER-Alexandre-de-Juniac
+3118	3124	Airbus	Airbus	ORG	ORG-Airbus-SE
+4237	4246	Američani	Američani	PER	GPE-USA
+4269	4288	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+4419	4429	boeing 767	boeing 767	PRO	PRO-Boeing-767
+4433	4436	777	777	PRO	PRO-Boeing-777
+4544	4557	koronavirusom	koronavirus	EVT	EVT-Covid-19
+5063	5078	United Airlines	United Airlines	ORG	ORG-United-Airlines
+5384	5394	letali 777	letala 777	PRO	PRO-Boeing-777
+5398	5401	767	767	PRO	PRO-Boeing-767
+5546	5554	Joe Pope	Joe Pope	PER	PER-Joe-Pope
+5600	5606	Airbus	Airbus	ORG	ORG-Airbus-SE

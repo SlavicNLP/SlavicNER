@@ -1,0 +1,61 @@
+0	15	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+108	116	Facebook	Facebook	PRO	PRO-Facebook
+257	259	FB	FB	PRO	PRO-Facebook
+272	291	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+323	337	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+368	371	USA	USA	LOC	GPE-USA
+382	390	Facebook	Facebook	PRO	PRO-Facebook
+456	471	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+478	493	Sheryl Sandberg	Sheryl Sandberg	PER	PER-Sheryl-Sandberg
+549	559	Zuckerberg	Zuckerberg	PER	PER-Mark-Zuckerberg
+671	690	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+809	818	Facebooka	Facebook	PRO	PRO-Facebook
+821	823	CA	CA	ORG	ORG-Cambridge-Analytica
+842	850	Leave.UE	Leave.UE	ORG	ORG-Leave-EU
+872	889	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+892	909	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+919	937	Donaldowi Trumpowi	Donald Trump	PER	PER-Donald-Trump
+967	970	USA	USA	LOC	GPE-USA
+973	984	Facebookowi	Facebook	PRO	PRO-Facebook
+1014	1029	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+1038	1046	Facebook	Facebook	PRO	PRO-Facebook
+1161	1164	USA	USA	LOC	GPE-USA
+1172	1189	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1206	1215	Facebooka	Facebook	PRO	PRO-Facebook
+1305	1308	USA	USA	LOC	GPE-USA
+1326	1349	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+1513	1515	FB	FB	PRO	PRO-Facebook
+1652	1658	NASDAQ	NASDAQ	PRO	PRO-NASDAQ
+1840	1855	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+2096	2111	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+2189	2198	Facebooka	Facebook	PRO	PRO-Facebook
+2393	2396	USA	USA	LOC	GPE-USA
+2399	2401	UE	UE	ORG	ORG-European-Union
+2500	2519	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+2535	2541	Brexit	Brexit	EVT	EVT-Brexit
+2553	2556	USA	USA	LOC	GPE-USA
+2561	2569	Facebook	Facebook	PRO	PRO-Facebook
+2704	2712	Facebook	Facebook	PRO	PRO-Facebook
+2729	2740	Guardianowi	Guardian	PRO	PRO-The-Guardian
+2847	2858	Zuckerberga	Zuckerberg	PER	PER-Mark-Zuckerberg
+3183	3198	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+3360	3369	Facebooka	Facebook	PRO	PRO-Facebook
+3370	3385	Sheryl Sandberg	Sheryl Sandberg	PER	PER-Sheryl-Sandberg
+3421	3431	Zuckerberg	Zuckerberg	PER	PER-Mark-Zuckerberg
+3852	3860	Facebook	Facebook	PRO	PRO-Facebook
+4013	4028	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+4304	4319	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+4332	4341	Facebooka	Facebook	PRO	PRO-Facebook
+4474	4483	Facebooka	Facebook	PRO	PRO-Facebook
+4540	4546	Google	Google	ORG	ORG-Google
+4551	4555	Snap	Snap	ORG	ORG-Snap
+4557	4559	FB	FB	PRO	PRO-Facebook
+4730	4745	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+4924	4935	Zuckerberga	Zuckerberg	PER	PER-Mark-Zuckerberg
+4996	5005	Facebooka	Facebook	PRO	PRO-Facebook
+5059	5070	Zuckerberga	Zuckerberg	PER	PER-Mark-Zuckerberg
+5246	5257	Wall Street	Wall Street	LOC	LOC-Wall-Street
+5390	5400	Zuckerberg	Zuckerberg	PER	PER-Mark-Zuckerberg
+5594	5609	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+5762	5773	Facebookiem	Facebook	PRO	PRO-Facebook
+5825	5835	Zuckerberg	Zuckerberg	PER	PER-Mark-Zuckerberg

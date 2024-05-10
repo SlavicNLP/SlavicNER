@@ -1,0 +1,33 @@
+0	5	Němci	Němci	PER	GPE-Germany
+41	49	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+80	87	Německo	Německo	LOC	GPE-Germany
+98	111	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+129	134	Ruska	Rusko	LOC	GPE-Russia
+138	145	Německa	Německo	LOC	GPE-Germany
+146	160	Baltským mořem	Baltské moře	LOC	LOC-Baltic-Sea
+172	188	Angela Merkelová	Angela Merkelová	PER	PER-Angela-Merkel
+270	278	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+335	343	Gazpromu	Gazprom	ORG	ORG-Gazprom
+414	419	Ruska	Rusko	LOC	GPE-Russia
+423	430	Německa	Německo	LOC	GPE-Germany
+432	451	Pobaltské republiky	Pobaltské republiky	LOC	LOC-Baltic-countries
+454	459	Litva	Litva	LOC	GPE-Lithuania
+461	469	Lotyšsko	Lotyšsko	LOC	GPE-Latvia
+472	480	Estonsko	Estonsko	LOC	GPE-Estonia
+570	578	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+648	654	Maasův	Maas	PER	PER-Heiko-Maas
+681	688	Reuters	Reuters	ORG	ORG-Reuters
+762	778	Sovětského svazu	Sovětský svaz	LOC	GPE-USSR
+797	810	Evropské unie	Evropská unie	ORG	ORG-European-Union
+813	837	Severoatlantické aliance	Severoatlantická aliance	ORG	ORG-NATO
+912	914	EU	EU	ORG	ORG-European-Union
+936	944	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+980	997	Linas Linkevičius	Linas Linkevičius	PER	PER-Linas-Linkavichus
+1104	1110	Polsko	Polsko	LOC	GPE-Poland
+1135	1140	Kyjev	Kyjev	LOC	GPE-Kiev
+1173	1178	Rusko	Rusko	LOC	GPE-Russia
+1253	1261	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+1300	1307	Německu	Německo	LOC	GPE-Germany
+1345	1370	polský antimonopolní úřad	polský antimonopolní úřad	ORG	ORG-Polish-Antimonopoly-Office
+1404	1417	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1499	1506	Reuters	Reuters	ORG	ORG-Reuters

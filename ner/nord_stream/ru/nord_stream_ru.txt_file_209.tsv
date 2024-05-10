@@ -1,0 +1,55 @@
+2	13	Нидерландах	Нидерланды	LOC	GPE-Holland
+23	32	Нафтогаза	Нафтогаз	ORG	ORG-Naftogaz
+60	68	Газпрому	Газпром	ORG	ORG-Gazprom
+77	92	Голубого потока	Голубой поток	PRO	PRO-Blue-Stream
+97	108	Нидерландах	Нидерланды	LOC	GPE-Holland
+118	127	Нафтогаза	Нафтогаз	ORG	ORG-Naftogaz
+155	163	Газпрому	Газпром	ORG	ORG-Gazprom
+172	187	Голубого потока	Голубой поток	PRO	PRO-Blue-Stream
+252	260	Газпрома	Газпром	ORG	ORG-Gazprom
+280	303	Окружной суд Амстердама	Окружной суд Амстердама	ORG	ORG-Amsterdam-District-Court
+361	369	Газпрому	Газпром	ORG	ORG-Gazprom
+400	413	Голубой поток	Голубой поток	PRO	PRO-Blue-Stream
+415	448	Blue Stream Pipeline Company B.V.	Blue Stream Pipeline Company B.V.	ORG	ORG-Alphabet-company
+469	485	Нафтогаз Украины	Нафтогаз Украины	ORG	ORG-Naftogaz
+523	531	Газпрома	Газпром	ORG	ORG-Gazprom
+581	585	BSPC	BSPC	ORG	ORG-BSPC-Company
+593	602	Газпромом	Газпром	ORG	ORG-Gazprom
+645	676	Блю Стрим Пайплайн Компани Б.В.	Блю Стрим Пайплайн Компани Б.В.	ORG	ORG-Blue-Stream-Pipeline-Company-B.V.
+698	705	Газпром	Газпром	ORG	ORG-Gazprom
+744	775	Блю Стрим Пайплайн Компани Б.В.	Блю Стрим Пайплайн Компани Б.В.	ORG	ORG-Blue-Stream-Pipeline-Company-B.V.
+788	795	Газпром	Газпром	ORG	ORG-Gazprom
+843	875	Окружного суда города Амстердама	Окружного суда города Амстердама	ORG	ORG-Amsterdam-District-Court
+942	967	Окружным судом Амстердама	Окружной суд Амстердам	ORG	ORG-Amsterdam-District-Court
+1016	1024	Газпрома	Газпром	ORG	ORG-Gazprom
+1056	1066	Нафтогазом	Нафтогаз	ORG	ORG-Naftogaz
+1086	1106	Арбитраже Стокгольма	Арбитраже Стокгольма	ORG	ORG-Stockholm-Chamber-of-Commerce
+1108	1141	Blue Stream Pipeline Company B.V.	Blue Stream Pipeline Company B.V.	ORG	ORG-Alphabet-company
+1168	1176	Газпрома	Газпром	ORG	ORG-Gazprom
+1192	1195	Eni	Eni	ORG	ORG-Eni
+1291	1304	Голубой поток	Голубой поток	ORG	ORG-Blue-Stream-Pipeline-Company-B.V.
+1309	1315	России	Россия	LOC	GPE-Russia
+1318	1324	Турцию	Турция	LOC	GPE-Turkey
+1407	1416	Береговая	Береговая	LOC	LOC-Beregovaya-Compressor-Station
+1424	1431	Газпром	Газпром	ORG	ORG-Gazprom
+1511	1516	УНИАН	УНИАН	ORG	ORG-UNIAN
+1567	1574	Газпром	Газпром	ORG	ORG-Gazprom
+1603	1613	Нафтогазом	Нафтогазом	ORG	ORG-Naftogaz
+1617	1640	Стокгольмском арбитраже	Стокгольмский арбитраж	ORG	ORG-Stockholm-Chamber-of-Commerce
+1906	1915	Нафтогаза	Нафтогаз	ORG	ORG-Naftogaz
+1937	1944	Газпром	Газпром	ORG	ORG-Gazprom
+2015	2023	Украиной	Украина	LOC	GPE-Ukraine
+2065	2072	Газпром	Газпром	ORG	ORG-Gazprom
+2095	2103	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+2174	2190	Нафтогаз Украины	Нафтогаз Украины	ORG	ORG-Naftogaz
+2235	2243	Газпрома	Газпром	ORG	ORG-Gazprom
+2316	2324	Газпрома	Газпром	ORG	ORG-Gazprom
+2337	2343	Англии	Англия	LOC	GPE-Great-Britain
+2345	2354	Швейцарии	Швейцария	LOC	GPE-Switzerland
+2357	2368	Нидерландах	Нидерланды	LOC	GPE-Holland
+2458	2474	Северный поток-1	Северный поток-1	PRO	PRO-Nord-Stream-1
+2479	2495	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+2523	2531	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+2541	2563	Стокгольмский арбитраж	Стокгольмский арбитраж	ORG	ORG-Stockholm-Chamber-of-Commerce
+2644	2653	Газпромом	Газпром	ORG	ORG-Gazprom
+2657	2665	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz

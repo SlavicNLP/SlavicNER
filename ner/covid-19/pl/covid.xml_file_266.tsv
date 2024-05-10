@@ -1,0 +1,17 @@
+11	16	Rzymu	Rzym	LOC	GPE-Rome
+192	197	Wuhan	Wuhan	LOC	GPE-Wuhan
+251	258	Chinach	Chiny	LOC	GPE-China
+303	318	Państwie Środka	Państwo Środka	LOC	GPE-China
+558	569	Koronawirus	koronawirus	EVT	EVT-Covid-19
+628	636	Włoszech	Włochy	LOC	GPE-Italy
+663	669	Europy	Europa	LOC	LOC-Europe
+846	856	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1167	1176	COVID-owa	COVID	EVT	EVT-Covid-19
+1896	1903	Polaków	Polacy	PER	GPE-Poland
+2322	2329	SANEPID	SANEPID	ORG	ORG-Sanepid
+2421	2429	Sanepidu	Sanepid	ORG	ORG-Sanepid
+2598	2605	COVID-a	COVID	EVT	EVT-Covid-19
+3035	3042	Polaków	Polacy	PER	GPE-Poland
+3209	3219	Hitchcocka	Hitchcock	PER	PER-Alfred-Hitchcock
+3357	3368	koronawirus	koronawirus	EVT	EVT-Covid-19
+3477	3485	COVID019	COVID019	EVT	EVT-Covid-19

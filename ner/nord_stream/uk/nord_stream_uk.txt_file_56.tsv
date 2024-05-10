@@ -1,0 +1,74 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+15	21	Путіну	Путін	PER	PER-Vladimir-Putin
+65	71	Європи	Європа	LOC	LOC-Europe
+101	104	США	США	LOC	GPE-USA
+157	159	РФ	РФ	LOC	GPE-Russia
+211	224	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+237	240	США	США	LOC	GPE-USA
+243	248	Росія	Росія	LOC	GPE-Russia
+281	287	Європи	Європа	LOC	LOC-Europe
+321	324	США	США	LOC	GPE-USA
+359	368	Гельсінки	Гельсінки	LOC	GPE-Helsinki
+370	379	Фінляндія	Фінляндія	LOC	GPE-Finland
+407	409	РФ	РФ	LOC	GPE-Russia
+410	429	Володимиром Путіним	Володимир Путін	PER	PER-Vladimir-Putin
+475	486	Білого дому	Білий дім	ORG	ORG-White-House
+497	503	Трампа	Трам	PER	PER-Donald-Trump
+553	559	Росією	Росія	LOC	GPE-Russia
+573	589	Північий потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+592	597	Трамп	Трамп	PER	PER-Donald-Trump
+617	623	Путіна	Путін	PER	PER-Vladimir-Putin
+765	770	Трамп	Трамп	PER	PER-Donald-Trump
+843	860	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+864	869	УНІАН	УНІАН	ORG	ORG-UNIAN
+933	942	Німеччини	Німеччина	LOC	GPE-Germany
+1010	1015	Трамп	Трамп	PER	PER-Donald-Trump
+1043	1046	США	США	LOC	GPE-USA
+1125	1127	РФ	РФ	LOC	GPE-Russia
+1140	1146	Європу	Європа	LOC	LOC-Europe
+1211	1228	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+1245	1250	УНІАН	УНІАН	ORG	ORG-UNIAN
+1261	1266	Трамп	Трамп	PER	PER-Donald-Trump
+1285	1291	Путіна	Путін	PER	PER-Vladimir-Putin
+1329	1334	УНІАН	УНІАН	ORG	ORG-UNIAN
+1346	1363	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+1487	1492	Росії	Росія	LOC	GPE-Russia
+1499	1514	Балтійське море	Балтійське море	LOC	LOC-Baltic-Sea
+1518	1527	Німеччини	Німеччина	LOC	GPE-Germany
+1555	1562	України	Україна	LOC	GPE-Ukraine
+1607	1626	Північним потоком-1	Північний потік - 1	ORG	ORG-Nord-Stream-AG
+1762	1771	Усть-Лугу	Усть-Луга	LOC	GPE-Ust-Luga
+1784	1795	Грайфсвальд	Грайфсвальд	LOC	GPE-Greifswald
+1855	1868	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+1912	1929	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+1979	1988	Німеччини	Німеччина	LOC	GPE-Germany
+1991	2000	Фінляндії	Фінляндія	LOC	GPE-Finland
+2019	2025	Швеції	Швеція	LOC	GPE-Sweden
+2037	2042	Данія	Данія	LOC	GPE-Denmark
+2159	2172	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+2279	2285	Лубмін	Лубмін	LOC	GPE-Lubmin
+2287	2294	Україна	Україна	LOC	GPE-Ukraine
+2323	2342	Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+2375	2379	Сочі	Сочі	LOC	GPE-Sochi
+2394	2396	РФ	РФ	LOC	GPE-Russia
+2397	2416	Володимиром Путіним	Володимир Путін	PER	PER-Vladimir-Putin
+2425	2434	Німеччини	Німеччина	LOC	GPE-Germany
+2435	2449	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+2519	2526	Україну	Україна	LOC	GPE-Ukraine
+2553	2570	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+2582	2585	МЗС	МЗС	ORG	ORG-Foreign-Office
+2586	2589	ФРН	ФРН	LOC	GPE-Germany
+2590	2600	Гайко Маас	Гайко Маас	PER	PER-Heiko-Maas
+2603	2609	Москві	Москва	LOC	GPE-Moscow
+2626	2635	Німеччини	Німеччина	LOC	GPE-Germany
+2659	2678	Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+2688	2695	України	Україна	LOC	GPE-Ukraine
+2706	2711	Трамп	Трамп	PER	PER-Donald-Trump
+2730	2739	Німеччину	Німеччина	LOC	GPE-Germany
+2753	2758	Росії	Росія	LOC	GPE-Russia
+2787	2804	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+2831	2840	Німеччину	Німеччина	LOC	GPE-Germany
+2915	2920	Росії	Росія	LOC	GPE-Russia
+2976	2979	США	США	LOC	GPE-USA
+3009	3026	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+3049	3058	Німеччини	Німеччина	LOC	GPE-Germany

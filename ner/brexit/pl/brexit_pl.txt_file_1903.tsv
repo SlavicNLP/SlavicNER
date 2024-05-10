@@ -1,0 +1,12 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+163	167	Unii	Unia	ORG	ORG-European-Union
+308	315	Rumunia	Rumunia	LOC	GPE-Romania
+317	325	Bułgaria	Bułgaria	LOC	GPE-Bulgaria
+339	345	Polska	Polska	LOC	GPE-Poland
+348	373	Narodowy Związek Farmerów	Narodowy Związek Farmerów	ORG	ORG-NFU-National-Farmers-Union
+498	501	TVP	TVP	PRO	PRO-TVP
+503	513	Agrobiznes	Agrobiznes	PRO	PRO-Agrobiznes
+777	784	Polaków	Polacy	PER	GPE-Poland
+805	822	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+873	880	Polaków	Polacy	PER	GPE-Poland
+1017	1019	UE	UE	ORG	ORG-European-Union

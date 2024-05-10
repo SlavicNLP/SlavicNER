@@ -1,0 +1,21 @@
+0	4	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+32	40	COVID-19	COVID-19	EVT	EVT-Covid-19
+87	99	коронавірусу	коронавірус	EVT	EVT-Covid-19
+100	108	COVID-19	COVID-19	EVT	EVT-Covid-19
+109	115	Pfizer	Pfizer	ORG	ORG-Pfizer
+118	126	BioNTech	BioNTech	ORG	ORG-BioNTech
+140	180	Всесвітньої організації охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+227	233	Pfizer	Pfizer	ORG	ORG-Pfizer
+234	242	BioNTech	BioNTech	ORG	ORG-BioNTech
+247	255	COVID-19	COVID-19	EVT	EVT-Covid-19
+307	311	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+431	437	Pfizer	Pfizer	ORG	ORG-Pfizer
+438	446	BioNTech	BioNTech	ORG	ORG-BioNTech
+661	665	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+816	826	Каліфорнії	Каліфорнія	LOC	GPE-California
+855	863	COVID-19	COVID-19	EVT	EVT-Covid-19
+909	921	коронавірусу	коронавірус	EVT	EVT-Covid-19
+933	944	Pfizer Inc.	Pfizer Inc.	ORG	ORG-Pfizer
+947	964	Українська правда	Українська правда	PRO	PRO-Ukrainian-Pravda
+981	989	Telegram	Telegram	PRO	PRO-Telegram
+1018	1035	УП. Кляті питання	УП. Кляті питання	PRO	PRO-UP.Kliati-pytannia-Ukraine

@@ -1,0 +1,19 @@
+50	57	brexitu	brexit	EVT	EVT-Brexit
+90	103	EuroZprávy.cz	EuroZprávy.cz	PRO	PRO-EuroZprávy.cz
+106	109	ČTK	ČTK	ORG	ORG-CTK
+111	117	Londýn	Londýn	LOC	GPE-London
+170	177	brexitu	brexit	EVT	EVT-Brexit
+317	325	Británie	Británie	LOC	GPE-Great-Britain
+329	342	Evropské unii	Evropská unie	ORG	ORG-European-Union
+410	418	Británie	Británie	LOC	GPE-Great-Britain
+458	466	Británie	Británie	LOC	GPE-Great-Britain
+469	482	Evropské unii	Evropská unie	ORG	ORG-European-Union
+548	563	Gawaina Towlera	Gawain Towler	PER	PER-Gawain-Towler
+597	637	Strany nezávislosti Spojeného království	Strana nezávislosti Spojeného království	ORG	ORG-UK-Independence-Party
+639	643	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+886	892	Towler	Towler	PER	PER-Gawain-Towler
+1008	1016	Británie	Británie	LOC	GPE-Great-Britain
+1017	1031	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+1072	1095	Evropských společenství	Evropské společenství	ORG	ORG-European-Communities
+1097	1099	ES	ES	ORG	ORG-European-Communities
+1113	1115	EU	EU	ORG	ORG-European-Union

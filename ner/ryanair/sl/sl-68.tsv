@@ -1,0 +1,114 @@
+11	23	Filip Tobias	Filip Tobias	PER	PER-Filip-Tobias
+25	32	Maribor	Maribor	LOC	GPE-Maribor
+58	70	Filip Tobias	Filip Tobias	PER	PER-Filip-Tobias
+90	98	Kitajcev	Kitajci	PER	GPE-China
+241	256	agencije Sonček	agencija Sonček	ORG	ORG-Sonchek-Tourist-Agency
+269	294	Letalskega centra Maribor	Letalski center Maribor	LOC	LOC-LCM-Letalski-center-Maribor
+310	349	Turistično gostinske zbornice Slovenije	Turistično gostinska zbornica Slovenije	ORG	ORG-Turistično-gostinska-zbornica-Slovenije
+375	414	Združenja turističnih agencij Slovenije	Združenje turističnih agencij Slovenije	ORG	ORG-ZTAS-Združenje-turističnih-agencij-Slovenije
+415	427	Filip Tobias	Filip Tobias	PER	PER-Filip-Tobias
+439	447	Mariboru	Maribor	LOC	GPE-Maribor
+1175	1184	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1550	1555	Lentu	Lent	EVT	EVT-Lent-Festival
+1565	1571	Toševo	Toše	PER	PER-Toše-Proeski
+1583	1591	Prešerna	Prešeren	PER	PER-France-Prešeren
+1665	1674	Ljubljano	Ljubljana	LOC	GPE-Ljubljana
+2448	2457	Slovenije	Slovenija	LOC	GPE-Slovenia
+2539	2548	Slovenije	Slovenija	LOC	GPE-Slovenia
+3257	3263	Tobias	Tobias	PER	PER-Filip-Tobias
+3440	3449	Slovenija	Slovenija	LOC	GPE-Slovenia
+3462	3469	Hrvaško	Hrvaška	LOC	GPE-Croatia
+3592	3601	Sloveniji	Slovenija	LOC	GPE-Slovenia
+3636	3645	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+3658	3663	Bledu	Bled	LOC	LOC-Bled
+3671	3680	Ljubljana	Ljubljana	LOC	GPE-Ljubljana
+3744	3751	Maribor	Maribor	LOC	GPE-Maribor
+3775	3792	Jadranskega morja	Jadransko morje	LOC	LOC-Adriatic-sea
+3902	3910	Mariboru	Maribor	LOC	GPE-Maribor
+4086	4094	Maribora	Maribor	LOC	GPE-Maribor
+4132	4139	Maribor	Maribor	LOC	GPE-Maribor
+4412	4419	Maribor	Maribor	LOC	GPE-Maribor
+4523	4540	Jadranskega morja	Jadransko morje	LOC	LOC-Adriatic-sea
+4656	4663	Ryanair	Ryanair	ORG	ORG-Ryanair
+4665	4673	GIZ Rast	GIZ Rast	ORG	ORG-regionalna-aviodestinacija-slovenskega-turizma-gospodarsko-interesno-združenje
+4700	4707	Ryanair	Ryanair	ORG	ORG-Ryanair
+4816	4825	Slovenija	Slovenija	LOC	GPE-Slovenia
+5159	5166	Maribor	Maribor	LOC	GPE-Maribor
+5169	5175	Zadrom	Zadar	LOC	GPE-Zadar
+5209	5214	Zadar	Zadar	LOC	GPE-Zadar
+5380	5387	Hrvaška	Hrvaška	LOC	GPE-Croatia
+5527	5534	Hrvaška	Hrvaška	LOC	GPE-Croatia
+5775	5790	Jadranski obali	Jadranska obala	LOC	LOC-Adriatic-Coast
+5792	5799	Maribor	Maribor	LOC	GPE-Maribor
+5865	5872	Maribor	Maribor	LOC	GPE-Maribor
+5894	5901	Hrvaško	Hrvaška	LOC	GPE-Croatia
+6534	6541	Ryanair	Ryanair	ORG	ORG-Ryanair
+6557	6566	Slovenija	Slovenija	LOC	GPE-Slovenia
+6876	6901	Letalskega centra Maribor	Letalski center Maribor	LOC	LOC-LCM-Letalski-center-Maribor
+6903	6906	LCM	LCM	LOC	LOC-LCM-Letalski-center-Maribor
+6931	6934	LCM	LCM	LOC	LOC-LCM-Letalski-center-Maribor
+7235	7242	Kitajci	Kitajci	PER	GPE-China
+7351	7360	Slovenija	Slovenija	LOC	GPE-Slovenia
+7386	7396	Evropejcev	Evropejci	PER	LOC-Europe
+7404	7413	Slovenijo	Slovenija	LOC	GPE-Slovenia
+7425	7432	Hrvaško	Hrvaška	LOC	GPE-Croatia
+7701	7709	Kitajcev	Kitajci	PER	GPE-China
+7906	7913	Maribor	Maribor	LOC	GPE-Maribor
+8068	8075	Maribor	Maribor	LOC	GPE-Maribor
+8211	8218	Maribor	Maribor	LOC	GPE-Maribor
+8240	8249	Prekmurje	Prekmurje	LOC	GPE-Prekmurje
+8283	8287	Ptuj	Ptuj	LOC	GPE-Ptuj
+8289	8304	Rogaška Slavina	Rogaška Slatina	LOC	GPE-Rogaška-Slatina
+8306	8312	Olimje	Olimje	LOC	GPE-Olimije
+8314	8320	Dobrna	Dobrna	LOC	GPE-Dobrna
+8322	8331	Topolšica	Topolšica	LOC	GPE-Topolšica
+8333	8338	Celje	Celje	LOC	GPE-Celje
+8340	8349	Ljubljana	Ljubljana	LOC	GPE-Ljubljana
+8375	8384	Sloveniji	Slovenija	LOC	GPE-Slovenia
+8542	8549	Angleži	Angleži	PER	GPE-England
+8570	8579	Italijani	Italijani	PER	GPE-Italy
+8606	8611	Nemci	Nemci	PER	GPE-Germany
+8613	8622	Avstrijci	Avstrijci	PER	GPE-Austria
+8862	8868	Rusija	Rusija	LOC	GPE-Russia
+8943	8960	Aerodroma Maribor	Aerodrom Maribor	LOC	ORG-Maribor-Edvard-Rusjan-Airport
+9039	9047	Mariboru	Maribor	LOC	GPE-Maribor
+9083	9086	DPN	DPN	PRO	PRO-DPN-Državni-prostorski-načrt
+9444	9451	Hrvatom	Hrvati	PER	GPE-Croatia
+9855	9865	Düsseldorf	Düsseldorf	LOC	GPE-Dusseldorf
+9867	9874	München	München	LOC	GPE-Munich
+9876	9885	Antwerpen	Antwerpen	LOC	GPE-Antwerp
+10294	10300	Milano	Milano	LOC	GPE-Milan
+10305	10312	Bergamo	Bergamo	LOC	GPE-Bergamo
+10323	10338	severne Italije	severni Italija	LOC	GPE-Northern-Italy
+10362	10395	Slovenska turistična organizacija	Slovenska turistična organizacija	ORG	ORG-Slovenian-Tourist-Board
+10589	10595	Milano	Milano	LOC	GPE-Milan
+10902	10926	državni prostorski načrt	državni prostorski načrt	PRO	PRO-DPN-Državni-prostorski-načrt
+10928	10931	DPN	DPN	PRO	PRO-DPN-Državni-prostorski-načrt
+11023	11026	DPN	DPN	PRO	PRO-DPN-Državni-prostorski-načrt
+11110	11113	DPN	DPN	PRO	PRO-DPN-Državni-prostorski-načrt
+11242	11245	LCM	LCM	LOC	LOC-LCM-Letalski-center-Maribor
+11389	11392	LCM	LCM	LOC	LOC-LCM-Letalski-center-Maribor
+11844	11869	Letalskega centra Maribor	Letalski center Maribor	LOC	LOC-LCM-Letalski-center-Maribor
+11921	11924	DPN	DPN	PRO	PRO-DPN-Državni-prostorski-načrt
+12000	12003	DPN	DPN	PRO	PRO-DPN-Državni-prostorski-načrt
+12034	12037	DPN	DPN	PRO	PRO-DPN-Državni-prostorski-načrt
+12099	12102	LCM	LCM	LOC	LOC-LCM-Letalski-center-Maribor
+12122	12125	DPN	DPN	PRO	PRO-DPN-Državni-prostorski-načrt
+12410	12413	DPN	DPN	PRO	PRO-DPN-Državni-prostorski-načrt
+12528	12531	DPN	DPN	PRO	PRO-DPN-Državni-prostorski-načrt
+13206	13222	Aerodrom Maribor	Aerodrom Maribor	LOC	ORG-Maribor-Edvard-Rusjan-Airport
+14047	14050	DPN	DPN	PRO	PRO-DPN-Državni-prostorski-načrt
+15085	15092	Majorki	Majorka	LOC	GPE-Mallorca
+15193	15200	Majorki	Majorka	LOC	GPE-Mallorca
+15219	15227	Mariboru	Maribor	LOC	GPE-Maribor
+15389	15419	Osnovne šole Franceta Prešerna	Osnovna šola Franceta Prešerna	ORG	ORG-Osnovna-šola-Franceta-Prešerna
+16433	16441	Maribora	Maribor	LOC	GPE-Maribor
+16445	16452	Nordkap	Nordkap	LOC	GPE-NordKapp
+16637	16644	Nordkap	Nordkap	LOC	GPE-NordKapp
+16812	16820	Pelješcu	Pelješac	LOC	GPE-Pelješac
+16954	16968	Rolling Stones	Rolling Stones	ORG	ORG-The-Rolling-Stones
+16971	16976	Prago	Praga	LOC	GPE-Prague
+17065	17090	Letalskemu centru Maribor	Letalski center Maribor	LOC	LOC-LCM-Letalski-center-Maribor
+17132	17140	Karitasu	Karitas	ORG	ORG-Caritas
+17185	17193	Karitasu	Karitas	ORG	ORG-Caritas
+17465	17473	Karitasu	Karitas	ORG	ORG-Caritas

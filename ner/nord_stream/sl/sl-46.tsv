@@ -1,0 +1,72 @@
+0	6	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+9	16	Berlinu	Berlin	LOC	GPE-Berlin
+47	55	Kitajsko	Kitajska	LOC	GPE-China
+59	65	Rusijo	Rusija	LOC	GPE-Russia
+126	132	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+171	174	dpa	dpa	ORG	ORG-DPA
+195	211	fundacijo Körber	fundacija Körber	LOC	ORG-Körber-Foundation
+259	278	Brandenburških vrat	Brandenburška vrata	LOC	LOC-Brandenburg-Gate
+285	298	berlinski zid	berlinski zid	LOC	LOC-Berlin-Wall
+301	307	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+343	365	padcu berlinskega zidu	padec berlinskega zidu	EVT	EVT-Fall-of-the-Berlin-Wall
+498	504	Rusija	Rusija	LOC	GPE-Russia
+526	533	Dresdnu	Dresden	LOC	GPE-Dresden
+552	555	KGB	KGB	ORG	ORG-KGB
+647	655	Kitajske	Kitajska	LOC	GPE-China
+690	697	Pekinga	Peking	LOC	GPE-Beijing
+710	719	Xinjiangu	Xinjiang	LOC	GPE-Xinjiang-Uygur-Autonomous-Region-XUAR
+721	730	Hongkongu	Hongkong	LOC	GPE-Hong-Kong
+754	761	Nemčiji	Nemčija	LOC	GPE-Germany
+765	771	Evropi	Evropa	LOC	LOC-Europe
+773	781	Kitajska	Kitajska	LOC	GPE-China
+793	799	Pompea	Pompeo	PER	PER-Mike-Pompeo
+837	866	Kitajska komunistična partija	Kitajska komunistična partija	ORG	ORG-Chinese-Communist-Party
+964	979	vzhodnim Nemcem	vzhodni Nemci	PER	GPE-East-Germany
+1008	1016	Kitajsko	Kitajska	LOC	GPE-China
+1123	1131	Kitajska	Kitajska	LOC	GPE-China
+1133	1139	Rusija	Rusija	LOC	GPE-Russia
+1143	1147	Iran	Iran	LOC	GPE-Iran
+1198	1201	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1211	1217	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+1220	1223	ZDA	ZDA	LOC	GPE-USA
+1384	1390	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+1459	1465	Berlin	Berlin	LOC	GPE-Berlin
+1469	1479	Washington	Washington	LOC	GPE-WashingtonDC
+1562	1568	Evropa	Evropa	LOC	LOC-Europe
+1617	1627	Vladimirja	Vladimir	PER	PER-Vladimir-Putin
+1629	1635	Putina	Putin	PER	PER-Vladimir-Putin
+1664	1677	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1681	1687	Rusije	Rusija	LOC	GPE-Russia
+1690	1697	Nemčijo	Nemčija	LOC	GPE-Germany
+1731	1744	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+1813	1819	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+1892	1894	5G	5G	PRO	PRO-5G
+1927	1933	Huawei	Huawei	ORG	ORG-Huawei
+2060	2066	Huawei	Huawei	ORG	ORG-Huawei
+2108	2111	ZDA	ZDA	LOC	GPE-USA
+2324	2332	Kitajska	Kitajska	LOC	GPE-China
+2368	2375	Nemčije	Nemčija	LOC	GPE-Germany
+2378	2384	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+2427	2440	Angelo Merkel	Angela Merkel	PER	PER-Angela-Merkel
+2464	2479	Olafom Scholzom	Olaf Scholz	PER	PER-Olaf-Scholz
+2556	2575	Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+2580	2586	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+2656	2670	Ronalda Reagan	Ronald Reagan	PER	PER-Ronald-Reagan
+2691	2705	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+2793	2800	Reaganu	Reagan	PER	PER-Ronald-Reagan
+2803	2810	Berlinu	Berlin	LOC	GPE-Berlin
+2908	2915	Berlina	Berlin	LOC	GPE-Berlin
+3002	3016	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+3019	3025	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+3052	3059	Nemčijo	Nemčija	LOC	GPE-Germany
+3081	3094	Heikom Maasom	Heiko Maas	PER	PER-Heiko-Maas
+3135	3145	Mödlareuth	Mödlareuth	LOC	GPE-Mödlareuth
+3169	3174	Halle	Halle	LOC	GPE-Halle
+3374	3381	Nemčije	Nemčija	LOC	GPE-Germany
+3390	3393	dpa	dpa	ORG	ORG-DPA
+3419	3422	ZDA	ZDA	LOC	GPE-USA
+3426	3433	Nemčijo	Nemčija	LOC	GPE-Germany
+3467	3483	Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+3491	3497	Berlin	Berlin	LOC	GPE-Berlin
+3562	3575	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+3614	3616	EU	EU	ORG	ORG-European-Union

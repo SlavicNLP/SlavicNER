@@ -1,0 +1,71 @@
+2	9	Německu	Německo	LOC	GPE-Germany
+43	48	Rusku	Rusko	LOC	GPE-Russia
+92	103	koronavirem	koronavirus	EVT	EVT-Covid-19
+106	113	Německu	Německo	LOC	GPE-Germany
+199	206	Reuters	Reuters	ORG	ORG-Reuters
+215	238	Institutu Roberta Kocha	Institut Roberta Kocha	ORG	ORG-Robert-Koch-Institute
+240	243	RKI	RKI	ORG	ORG-Robert-Koch-Institute
+260	270	covidem-19	covid-19	EVT	EVT-Covid-19
+273	280	Německu	Německo	LOC	GPE-Germany
+308	313	Rusku	Rusko	LOC	GPE-Russia
+361	368	Německu	Německo	LOC	GPE-Germany
+650	657	Německo	Německo	LOC	GPE-Germany
+692	703	koronavirem	koronavirus	EVT	EVT-Covid-19
+708	723	Česká republika	Česká republika	LOC	GPE-Czech-Republic
+727	732	Rusku	Rusko	LOC	GPE-Russia
+765	773	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+782	787	Rusku	Rusko	LOC	GPE-Russia
+846	857	koronavirem	koronavirus	EVT	EVT-Covid-19
+1000	1008	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+1205	1216	koronavirus	koronavirus	EVT	EVT-Covid-19
+1327	1335	covid-19	covid-19	EVT	EVT-Covid-19
+1354	1376	koronavirus SARS-CoV-2	koronavirus SARS-CoV-2	EVT	EVT-Covid-19
+1523	1534	koronavirem	koronavirus	EVT	EVT-Covid-19
+1623	1632	covidu-19	covid-19	EVT	EVT-Covid-19
+1690	1695	Rusku	Rusko	LOC	GPE-Russia
+1758	1764	Moskvě	Moskva	LOC	GPE-Moscow
+1775	1796	koronavirovou infekcí	koronavirová infekce	EVT	EVT-Covid-19
+1824	1829	Ruska	Rusko	LOC	GPE-Russia
+1917	1932	Sergej Sobjanin	Sergej Sobjanin	PER	PER-Sergej-Sobjanin
+2071	2075	TASS	TASS	ORG	ORG-TASS-Agency
+2107	2117	koronaviru	koronavirus	EVT	EVT-Covid-19
+2120	2126	Moskvě	Moskva	LOC	GPE-Moscow
+2255	2263	Sobjanin	Sobjanin	PER	PER-Sergej-Sobjanin
+2264	2272	Moskvany	Moskvané	PER	GPE-Moscow
+2346	2354	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+2392	2409	Maksyma Stepanova	Maksym Stepanov	PER	PER-Maksym-Stepanov
+2457	2468	koronavirem	koronavirus	EVT	EVT-Covid-19
+2554	2564	covidem-19	covid-19	EVT	EVT-Covid-19
+2625	2630	Indie	Indie	LOC	GPE-India
+2759	2780	koronaviru SARS-CoV-2	koronavirus SARS-CoV-2	EVT	EVT-Covid-19
+2841	2852	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2855	2875	Oxfordské univerzity	Oxfordská univerzita	ORG	ORG-University-of-Oxford
+2888	2895	Covaxin	Covaxin	PRO	PRO-Covaxin
+2916	2930	Bharat Biotech	Bharat Biotech	ORG	ORG-Bharat-Biotech
+2947	2982	Indického ústavu pro kontrolu léčiv	Indický ústav pro kontrolu léčiv	ORG	ORG-Indian-Institute-for-Drug-Control-CDSCO
+2984	2989	CDSCO	CDSCO	ORG	ORG-Indian-Institute-for-Drug-Control-CDSCO
+2991	3007	Venugópál Sómání	Venugópál Sómání	PER	PER-Venugopal-Somani
+3085	3095	koronaviru	koronavirus	EVT	EVT-Covid-19
+3197	3199	AP	AP	ORG	ORG-AP-The-Associated-Press
+3352	3360	Sómáního	Sómání	PER	PER-Venugopal-Somani
+3439	3446	Covaxin	Covaxin	PRO	PRO-Covaxin
+3459	3473	Bharat Biotech	Bharat Biotech	ORG	ORG-Bharat-Biotech
+3609	3611	AP	AP	ORG	ORG-AP-The-Associated-Press
+3702	3710	covid-19	covid-19	EVT	EVT-Covid-19
+3725	3736	koronavirem	koronavirus	EVT	EVT-Covid-19
+3763	3770	Reuters	Reuters	ORG	ORG-Reuters
+3783	3790	Covaxin	Covaxin	PRO	PRO-Covaxin
+3889	3895	Sómání	Sómání	PER	PER-Venugopal-Somani
+3906	3913	Reuters	Reuters	ORG	ORG-Reuters
+3953	3971	AstraZeneca/Oxford	AstraZeneca/Oxford	PRO	PRO-Oxford-AstraZeneca-Vaccine
+3982	3987	Indii	Indie	LOC	GPE-India
+4022	4025	SII	SII	ORG	ORG-SII-Farmaceutic-company-India
+4037	4047	Covishield	Covishield	PRO	PRO-Covishield-Vaccine
+4085	4092	Covaxin	Covaxin	PRO	PRO-Covaxin
+4143	4149	Sómání	Sómání	PER	PER-Venugopal-Somani
+4180	4194	Bharat Biotech	Bharat Biotech	ORG	ORG-Bharat-Biotech
+4384	4389	Indie	Indie	LOC	GPE-India
+4475	4478	USA	USA	LOC	GPE-USA
+4486	4497	koronavirem	koronavirus	EVT	EVT-Covid-19
+4631	4641	covidem-19	covid-19	EVT	EVT-Covid-19
+4644	4647	čtk	čtk	ORG	ORG-CTK

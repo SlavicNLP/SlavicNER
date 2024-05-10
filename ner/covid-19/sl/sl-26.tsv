@@ -1,0 +1,23 @@
+2	9	Italiji	Italija	LOC	GPE-Italy
+54	63	covidu-19	covid-19	EVT	EVT-Covid-19
+114	123	covidu-19	covid-19	EVT	EVT-Covid-19
+197	202	Conte	Conte	PER	PER-Giuseppe-Conte
+270	275	Renzi	Renzi	PER	PER-Matteo-Renzi
+312	321	covidu-19	covid-19	EVT	EVT-Covid-19
+360	367	Italiji	Italija	LOC	GPE-Italy
+377	382	Renzi	Renzi	PER	PER-Matteo-Renzi
+655	664	covida-19	covid-19	EVT	EVT-Covid-19
+677	684	Italiji	Italija	LOC	GPE-Italy
+748	758	Italijanom	Italijani	PER	GPE-Italy
+855	860	Renzi	Renzi	PER	PER-Matteo-Renzi
+1034	1042	facebook	facebook	PRO	PRO-Facebook
+1062	1069	Renzija	Renzi	PER	PER-Matteo-Renzi
+1118	1127	Italijane	Italijani	PER	GPE-Italy
+1175	1180	Conte	Conte	PER	PER-Giuseppe-Conte
+1279	1286	Italiji	Italija	LOC	GPE-Italy
+1346	1365	Lazzaro Spallanzani	Lazzaro Spallanzani	LOC	LOC-Lazzaro-Spallanzani-Hospital
+1790	1798	ReiThera	ReiThera	ORG	ORG-ReiThera
+1811	1823	Castelromanu	Castel Romano	LOC	GPE-Castel-Romano
+1828	1832	Rimu	Rim	LOC	GPE-Rome
+1865	1874	Leukocare	Leukocare	ORG	ORG-Leukocare-AG
+1890	1901	Univercells	Univercells	ORG	ORG-Univercells

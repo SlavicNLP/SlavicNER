@@ -1,0 +1,31 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+37	44	Брекзит	Брекзит	EVT	EVT-Brexit
+118	122	Bild	Bild	PRO	PRO-Bild
+132	141	Интерфакс	Интерфакс	ORG	ORG-Interfax
+158	163	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+179	182	Мей	Мей	PER	PER-Theresa-May
+299	305	Лондон	Лондон	LOC	GPE-London
+314	316	ЕС	ЕС	ORG	ORG-European-Union
+323	329	Европа	Европа	LOC	LOC-Europe
+338	352	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+407	427	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+443	450	Брекзит	Брекзит	EVT	EVT-Brexit
+504	518	Великобритания	Великобритания	LOC	GPE-Great-Britain
+543	545	ЕС	ЕС	ORG	ORG-European-Union
+645	665	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+666	680	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+760	774	Великобритания	Великобритания	LOC	GPE-Great-Britain
+809	826	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+827	838	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+939	945	Европа	Европа	LOC	LOC-Europe
+979	989	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1051	1053	ЕС	ЕС	ORG	ORG-European-Union
+1255	1257	ЕС	ЕС	ORG	ORG-European-Union
+1264	1272	Норвегия	Норвегия	LOC	GPE-Norway
+1277	1283	Канада	Канада	LOC	GPE-Canada
+1299	1313	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1373	1387	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1390	1392	ЕС	ЕС	ORG	ORG-European-Union
+1545	1547	ЕС	ЕС	ORG	ORG-European-Union
+1557	1563	Европа	Европа	LOC	LOC-Europe
+1576	1586	Тереза Мей	Тереза Мей	PER	PER-Theresa-May

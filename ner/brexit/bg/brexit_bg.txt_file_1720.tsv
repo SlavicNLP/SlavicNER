@@ -1,0 +1,15 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+52	59	Брекзит	Брекзит	EVT	EVT-Brexit
+61	78	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+123	129	Лондон	Лондон	LOC	GPE-London
+132	139	Брюксел	Брюксел	LOC	GPE-Brussles
+198	212	Великобритания	Великобритания	LOC	GPE-Great-Britain
+286	306	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+308	310	ЕК	ЕК	ORG	ORG-European-Commission
+312	329	Маргаритис Схинас	Маргаритис Схинас	PER	PER-Margaritis-Schinas
+342	346	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+366	386	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+467	473	Схинас	Схинас	PER	PER-Margaritis-Schinas
+514	524	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+582	588	Лондон	Лондон	LOC	GPE-London
+748	750	ЕК	ЕК	ORG	ORG-European-Commission

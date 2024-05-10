@@ -1,0 +1,38 @@
+0	3	USA	USA	LOC	GPE-USA
+5	10	Biden	Biden	PER	PER-Joe-Biden
+54	64	Clintonová	Clintonová	PER	PER-Hillary-Clinton
+88	97	demokratů	demokraté	PER	ORG-Democratic-Party-USA
+181	184	USA	USA	LOC	GPE-USA
+262	270	Trumpova	Trump	PER	PER-Donald-Trump
+324	347	Demokratické strany USA	Demokratická strana USA	ORG	ORG-Democratic-Party-USA
+348	357	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+376	392	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+703	720	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+722	727	Biden	Biden	PER	PER-Joe-Biden
+759	766	Trumpem	Trump	PER	PER-Donald-Trump
+807	811	Iowy	Iowa	LOC	GPE-Iowa
+814	818	Ohia	Ohio	LOC	GPE-Ohio
+837	847	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+912	930	Hillary Clintonová	Hillary Clintonová	PER	PER-Hillary-Clinton
+984	989	Biden	Biden	PER	PER-Joe-Biden
+1013	1020	Trumpem	Trump	PER	PER-Donald-Trump
+1037	1047	Clintonová	Clintonová	PER	PER-Hillary-Clinton
+1048	1054	Trumpa	Trump	PER	PER-Donald-Trump
+1121	1126	Biden	Biden	PER	PER-Joe-Biden
+1130	1137	Floridě	Florida	LOC	GPE-Florida
+1164	1174	Clintonová	Clintonová	PER	PER-Hillary-Clinton
+1207	1218	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+1235	1245	Clintonová	Clintonová	PER	PER-Hillary-Clinton
+1262	1269	Arizoně	Arizona	LOC	GPE-Arizona
+1286	1296	Clintonová	Clintonová	PER	PER-Hillary-Clinton
+1314	1319	Trump	Trump	PER	PER-Donald-Trump
+1324	1330	Nevadě	Nevada	LOC	GPE-Nevada
+1347	1357	Clintonová	Clintonová	PER	PER-Hillary-Clinton
+1375	1380	Trump	Trump	PER	PER-Donald-Trump
+1385	1394	Michiganu	Michigan	LOC	GPE-Michigan
+1411	1421	Clintonová	Clintonová	PER	PER-Hillary-Clinton
+1438	1454	Severní Karolíně	Severní Karolína	LOC	GPE-North-Carolina-US-State
+1471	1481	Clintonová	Clintonová	PER	PER-Hillary-Clinton
+1499	1504	Trump	Trump	PER	PER-Donald-Trump
+1511	1521	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+1538	1548	Clintonová	Clintonová	PER	PER-Hillary-Clinton

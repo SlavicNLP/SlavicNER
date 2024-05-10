@@ -1,0 +1,26 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+14	20	Меркел	Меркел	PER	PER-Angela-Merkel
+35	48	Северен поток	Северен поток	PRO	PRO-Nord-Stream-2
+70	80	24chasa.bg	24chasa.bg	PRO	PRO-24chasa.bg
+96	99	САЩ	САЩ	LOC	GPE-USA
+100	112	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+152	168	Северен поток ІІ	Северен поток 2	PRO	PRO-Nord-Stream-2
+172	177	Русия	Русия	LOC	GPE-Russia
+181	189	Германия	Германия	LOC	GPE-Germany
+195	209	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+257	270	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+304	307	САЩ	САЩ	LOC	GPE-USA
+335	337	ЕС	ЕС	ORG	ORG-European-Union
+411	423	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+467	479	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+527	529	ЕС	ЕС	ORG	ORG-European-Union
+563	572	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+637	643	Европа	Европа	LOC	LOC-Europe
+666	668	ЕС	ЕС	ORG	ORG-European-Union
+702	705	САЩ	САЩ	LOC	GPE-USA
+791	794	САЩ	САЩ	LOC	GPE-USA
+923	936	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+952	956	Сочи	Сочи	LOC	GPE-Sochi
+976	990	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1034	1041	Украйна	Украйна	LOC	GPE-Ukraine
+1044	1048	Иран	Иран	LOC	GPE-Iran

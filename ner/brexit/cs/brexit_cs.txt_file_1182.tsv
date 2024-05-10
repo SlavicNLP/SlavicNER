@@ -1,0 +1,21 @@
+2	16	Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+17	23	brexit	brexit	EVT	EVT-Brexit
+111	124	Severních Irů	Servní Irové	PER	GPE-Northern-Ireland
+158	171	Evropské unie	Evropská unie	ORG	ORG-European-Union
+245	253	Británie	Británie	LOC	GPE-Great-Britain
+305	337	Demokratické unionistické strany	Demokratická unionistická strana	ORG	ORG-DUP-Democratic-Unionist-Party
+339	342	DUS	DUS	ORG	ORG-DUP-Democratic-Unionist-Party
+368	388	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+433	446	Evropské unii	Evropská unie	ORG	ORG-European-Union
+682	697	Brendan O'Leary	Brendan O'Leary	PER	PER-Brendan-O-Leary
+723	752	Queen's University v Belfastu	Queen's University v Belfastu	ORG	ORG-Queens-University-Belfast
+770	777	brexitu	brexit	EVT	EVT-Brexit
+1019	1033	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+1062	1068	Irskem	Irsko	LOC	GPE-Ireland
+1071	1086	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+1089	1098	Tom Brake	Tom Brake	PER	PER-Tom-Brake
+1154	1168	Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+1201	1203	EU	EU	ORG	ORG-European-Union
+1335	1342	brexitu	brexit	EVT	EVT-Brexit
+1637	1646	Sinn Féin	Sinn Féin	ORG	ORG-Sinn-Fein
+1665	1668	DUS	DUS	ORG	ORG-DUP-Democratic-Unionist-Party

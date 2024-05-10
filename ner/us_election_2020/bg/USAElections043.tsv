@@ -1,0 +1,57 @@
+0	10	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+49	54	Тръмп	Тръмп	PER	PER-Donald-Trump
+195	201	Байдън	Байдън	PER	PER-Joe-Biden
+244	252	Инес Пол	Инес Пол	PER	PER-Ines-Pohl
+366	376	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+384	396	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+464	473	Белия дом	Белия дом	LOC	LOC-White-House
+493	498	Тръмп	Тръмп	PER	PER-Donald-Trump
+534	544	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+547	559	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+614	619	Тръмп	Тръмп	PER	PER-Donald-Trump
+846	849	САЩ	САЩ	LOC	GPE-USA
+897	901	НАТО	НАТО	ORG	ORG-NATO
+907	940	Парижкото споразумение за климата	Парижко споразумение за климата	PRO	PRO-Paris-Agreement
+1188	1191	САЩ	САЩ	LOC	GPE-USA
+1300	1311	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+1350	1356	Европа	Европа	LOC	LOC-Europe
+1418	1429	европейците	европейци	PER	LOC-Europe
+1431	1443	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1479	1489	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1544	1549	Тръмп	Тръмп	PER	PER-Donald-Trump
+1552	1562	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1598	1609	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+1637	1643	Байдън	Байдън	PER	PER-Joe-Biden
+1649	1655	Европа	Европа	LOC	LOC-Europe
+1658	1666	Германия	Германия	LOC	GPE-Germany
+1706	1709	САЩ	САЩ	LOC	GPE-USA
+1739	1773	Климатичното споразумение от Париж	Климатично споразумение от Париж	PRO	PRO-Paris-Agreement
+1868	1872	НАТО	НАТО	ORG	ORG-NATO
+1875	1878	САЩ	САЩ	LOC	GPE-USA
+1940	1946	Байдън	Байдън	PER	PER-Joe-Biden
+1947	1950	САЩ	САЩ	LOC	GPE-USA
+2006	2017	европейците	европейци	PER	LOC-Europe
+2090	2102	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2107	2109	ЕС	ЕС	ORG	ORG-European-Union
+2112	2115	САЩ	САЩ	LOC	GPE-USA
+2195	2206	европейците	европейци	PER	LOC-Europe
+2209	2213	НАТО	НАТО	ORG	ORG-NATO
+2278	2284	Европа	Европа	LOC	LOC-Europe
+2392	2404	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2586	2591	Тръмп	Тръмп	PER	PER-Donald-Trump
+2689	2699	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2738	2741	САЩ	САЩ	LOC	GPE-USA
+2846	2858	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2894	2904	пандемията	пандемия	EVT	EVT-Pandemic
+2907	2910	САЩ	САЩ	LOC	GPE-USA
+2955	2967	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2986	2997	Демократите	демократи	PER	ORG-Democratic-Party-USA
+3075	3085	американци	американци	PER	GPE-USA
+3130	3136	Байдън	Байдън	PER	PER-Joe-Biden
+3162	3169	Америка	Америка	LOC	GPE-USA
+3224	3229	Тръмп	Тръмп	PER	PER-Donald-Trump
+3263	3275	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3295	3305	американци	американци	PER	GPE-USA
+3308	3318	американки	американки	PER	GPE-USA
+3410	3420	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3498	3503	Тръмп	Тръмп	PER	PER-Donald-Trump

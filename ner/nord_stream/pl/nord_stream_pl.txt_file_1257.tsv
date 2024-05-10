@@ -1,0 +1,32 @@
+0	4	TASS	TASS	ORG	ORG-TASS-Agency
+6	19	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+32	37	Rosja	Rosja	LOC	GPE-Russia
+38	41	USA	USA	LOC	GPE-USA
+70	74	TASS	TASS	ORG	ORG-TASS-Agency
+122	125	USA	USA	LOC	GPE-USA
+128	133	Rosji	Rosja	LOC	GPE-Russia
+166	179	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+189	192	USA	USA	LOC	GPE-USA
+193	198	Rosja	Rosja	LOC	GPE-Russia
+200	210	Rick Perry	Rick Perry	PER	PER-Rick-Perry
+224	230	Moskwę	Moskwa	LOC	GPE-Moscow
+312	317	Rosji	Rosja	LOC	GPE-Russia
+318	338	Aleksandrem Nowakiem	Aleksander Nowak	PER	PER-Aleksandr-Novak
+340	354	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+411	416	Iranu	Iran	LOC	GPE-Iran
+422	425	LNG	LNG	ORG	ORG-Liquefied-Natural-Gas-company
+434	438	TASS	TASS	ORG	ORG-TASS-Agency
+460	473	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+475	485	Amerykanie	Amerykanie	PER	GPE-USA
+533	546	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+548	561	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+585	590	Rosji	Rosja	LOC	GPE-Russia
+594	601	Niemiec	Niemcy	LOC	GPE-Germany
+741	748	Europie	Europa	LOC	LOC-Europe
+802	807	Rosji	Rosja	LOC	GPE-Russia
+870	878	Gazpromu	Gazprom	ORG	ORG-Gazprom
+892	902	Amerykanie	Amerykanie	PER	GPE-USA
+944	957	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+980	986	Europa	Europa	LOC	LOC-Europe
+988	992	TASS	TASS	ORG	ORG-TASS-Agency
+993	1009	Wojciech Jakóbik	Wojciech Jakóbik	PER	PER-Wojciech-Jakóbik

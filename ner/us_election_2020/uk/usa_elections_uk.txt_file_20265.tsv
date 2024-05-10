@@ -1,0 +1,28 @@
+31	51	Палаті представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+54	64	Сенаті США	Сенат США	ORG	ORG-United-States-Senate
+102	117	округу Колумбія	округ Колумбія	LOC	GPE-District-of-Columbia
+135	144	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+165	185	Палаті представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+186	198	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+232	243	Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+267	282	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+352	379	Республіканської партії США	Республіканська партія США	ORG	ORG-Republican-Party-USA
+471	486	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+502	526	Палати представників США	Палата представників США	ORG	ORG-United-States-House-of-Representatives
+527	539	Ненсі Пелосі	Ненсі Пелосі	PER	PER-Nancy-Pelosi
+631	640	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+659	667	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+751	761	сенаті США	сенат США	ORG	ORG-United-States-Senate
+794	807	виборах в США	вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+963	990	Республіканської партії США	Республіканська партія США	ORG	ORG-Republican-Party-USA
+994	1028	президентських виборах у 2020 році	президентські вибори у 2020 році	EVT	EVT-2020-United-States-Presidential-Election
+1049	1064	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+1103	1124	The National Interest	The National Interest	PRO	PRO-The-National-Interest-Magazine
+1165	1185	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+1207	1210	США	США	LOC	GPE-USA
+1246	1270	Палаті представників США	Палата представників США	ORG	ORG-United-States-House-of-Representatives
+1394	1414	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+1415	1425	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1487	1496	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+1516	1521	1NEWS	1NEWS	PRO	PRO-1NEWS
+1525	1532	Флориді	Флорида	LOC	GPE-Florida

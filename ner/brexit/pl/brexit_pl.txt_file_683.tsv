@@ -1,0 +1,41 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+8	14	Londyn	Londyn	LOC	GPE-London
+60	68	Brukseli	Bruksela	LOC	GPE-Brussles
+109	117	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+195	202	brexitu	Brexit	EVT	EVT-Brexit
+275	284	Londynowi	Londyn	LOC	GPE-London
+300	308	Brukselą	Bruksela	LOC	GPE-Brussles
+488	490	UE	UE	ORG	ORG-European-Union
+563	569	Londyn	Londyn	LOC	GPE-London
+794	819	Trybunału Sprawiedliwości	Trybunał Sprawiedliwości	ORG	ORG-European-Court-of-Justice
+904	906	UE	UE	ORG	ORG-European-Union
+909	915	Kanadą	Kanada	LOC	GPE-Canada
+1191	1197	Kanadą	Kanada	LOC	GPE-Canada
+1298	1315	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1338	1340	UE	UE	ORG	ORG-European-Union
+1657	1685	Światowej Organizacji Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization
+1687	1690	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+1982	1997	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2098	2100	UE	UE	ORG	ORG-European-Union
+2125	2146	Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+2325	2342	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2345	2347	UE	UE	ORG	ORG-European-Union
+2408	2410	UE	UE	ORG	ORG-European-Union
+2565	2582	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2585	2587	UE	UE	ORG	ORG-European-Union
+2723	2725	UE	UE	ORG	ORG-European-Union
+2762	2777	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3029	3031	UE	UE	ORG	ORG-European-Union
+3210	3221	parlamencie	Parlament	ORG	ORG-European-Parliament
+3231	3241	Brytyjczyk	Brytyjczyk	PER	GPE-Great-Britain
+3244	3264	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+3314	3339	Trybunale Sprawiedliwości	Trybunał Sprawiedliwości	ORG	ORG-European-Court-of-Justice
+3341	3364	Trybunale Obrachunkowym	Trybunał Obrachunkowy	ORG	ORG-ECA-European-Court-of-Auditors
+3418	3434	Komitet Regionów	Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+3439	3479	Europejski Komitet Społeczno-Ekonomiczny	Europejski Komitet Społeczno-Ekonomiczny	ORG	ORG-EESC-The-European-Economic-and-Social-Committee
+3557	3574	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3668	3670	UE	UE	ORG	ORG-European-Union
+3727	3741	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+3759	3766	brexitu	Brexit	EVT	EVT-Brexit
+3824	3835	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+3997	4005	brexicie	Brexit	EVT	EVT-Brexit

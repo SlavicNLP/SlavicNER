@@ -1,0 +1,19 @@
+2	10	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+33	40	Америка	Америка	LOC	GPE-USA
+81	92	демократите	демократи	PER	ORG-Democratic-Party-USA
+112	122	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+165	170	Сенат	Сенат	ORG	ORG-United-States-Senate
+178	186	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+195	209	републиканците	републиканци	PER	ORG-Republican-Party-USA
+257	265	Сам Дени	Сам Дени	PER	PER-Sam-Denney
+401	410	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+428	436	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+557	560	Сам	Сам	PER	PER-Sam-Denney
+566	580	републиканците	републиканци	PER	ORG-Republican-Party-USA
+591	598	Сенатът	Сенат	ORG	ORG-United-States-Senate
+684	694	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+697	705	Сам Дени	Сам Дени	PER	PER-Sam-Denney
+787	810	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+817	828	демократите	демократи	PER	ORG-Democratic-Party-USA
+841	847	Сената	Сенат	ORG	ORG-United-States-Senate
+849	863	републиканците	републиканци	PER	ORG-Republican-Party-USA

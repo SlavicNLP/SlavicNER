@@ -1,0 +1,45 @@
+36	45	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+62	64	ЄС	ЄС	LOC	ORG-European-Union
+112	124	коронавірусу	коронавірус	EVT	EVT-Covid-19
+144	150	Pfizer	Pfizer	ORG	ORG-Pfizer
+151	159	BioNTech	BioNTech	ORG	ORG-BioNTech
+164	166	ЄС	ЄС	LOC	ORG-European-Union
+214	226	коронавірусу	коронавірус	EVT	EVT-Covid-19
+246	252	Pfizer	Pfizer	ORG	ORG-Pfizer
+253	261	BioNTech	BioNTech	ORG	ORG-BioNTech
+264	283	Європейська комісія	Європейська комісія	ORG	ORG-European-Commission
+302	321	Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+369	381	коронавірусу	коронавірус	EVT	EVT-Covid-19
+406	412	Pfizer	Pfizer	ORG	ORG-Pfizer
+415	423	BioNTech	BioNTech	ORG	ORG-BioNTech
+439	479	Європейське агентство лікарських засобів	Європейське агентство лікарських засобів	ORG	ORG-European-Medicines-Agency
+567	576	Німеччини	Німеччина	LOC	GPE-Germany
+578	585	Франції	Франція	LOC	GPE-France
+587	593	Італії	Італія	LOC	GPE-Italy
+597	604	Австрії	Австрія	LOC	GPE-Austria
+736	738	ЄС	ЄС	LOC	ORG-European-Union
+772	791	Урсула фон дер Ляєн	Урсула фон дер Ляєн	PER	PER-Ursula-von-der-Leyen
+794	796	ЄС	ЄС	LOC	ORG-European-Union
+851	857	Pfizer	Pfizer	ORG	ORG-Pfizer
+858	866	BioNTech	BioNTech	ORG	ORG-BioNTech
+1072	1080	COVID-19	COVID-19	EVT	EVT-Covid-19
+1135	1137	ЄС	ЄС	LOC	ORG-European-Union
+1194	1214	Європейської комісії	Європейська комісія	ORG	ORG-European-Commission
+1215	1234	Урсула фон дер Ляєн	Урсула фон дер Ляєн	PER	PER-Ursula-von-der-Leyen
+1299	1306	Бельгії	Бельгія	LOC	GPE-Belgium
+1363	1372	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1411	1419	Єнс Шпан	Єнс Шпан	PER	PER-Jens-Spahn
+1445	1447	ЄС	ЄС	LOC	ORG-European-Union
+1726	1732	Pfizer	Pfizer	ORG	ORG-Pfizer
+1733	1741	BioNTech	BioNTech	ORG	ORG-BioNTech
+1785	1801	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+1807	1824	Сполучених Штатах	Сполучених Штатах	LOC	GPE-USA
+1828	1831	США	США	LOC	GPE-USA
+1900	1912	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1935	1942	Moderna	Moderna	ORG	ORG-Moderna
+2055	2067	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2078	2120	Європейського агентства лікарських засобів	Європейське агентство лікарських засобів	ORG	ORG-European-Medicines-Agency
+2207	2213	Європі	Європа	LOC	LOC-Europe
+2245	2248	США	США	LOC	GPE-USA
+2252	2268	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+2612	2627	Велика Британія	Велика Британія	LOC	GPE-Great-Britain

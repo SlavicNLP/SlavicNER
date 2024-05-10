@@ -1,0 +1,101 @@
+29	34	Тръмп	Тръмп	PER	PER-Donald-Trump
+39	44	Тръмп	Тръмп	PER	PER-Donald-Trump
+63	75	Иван Кръстев	Иван Кръстев	PER	PER-Ivan-Krastev
+92	122	Центъра за либерални стратегии	Център за либерални стратегии	ORG	ORG-Center-for-Liberal-Strategies-BG
+140	194	Института по по хуманитарни и социални науки във Виена	Институт по хуманитарни и социални науки във Виена	ORG	ORG-Vienna-Institute-for-Human-Sciences
+209	212	БНР	БНР	ORG	ORG-Bulgarian-National-Radio
+226	253	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+284	306	Политически некоректно	Политически некоректно	PRO	PRO-Politicheski-Nekorektno
+319	326	Америка	Америка	LOC	GPE-USA
+349	361	Американците	американци	PER	GPE-USA
+465	475	американци	американци	PER	GPE-USA
+616	623	Америки	Америки	LOC	GPE-USA
+671	680	Америката	Америка	LOC	GPE-USA
+694	704	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+807	814	Америка	Америка	LOC	GPE-USA
+1036	1046	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1206	1211	Тръмп	Тръмп	PER	PER-Donald-Trump
+1402	1409	Америка	Америка	LOC	GPE-USA
+1464	1474	американци	американци	PER	GPE-USA
+1498	1520	Първата световна война	Първа световна война	EVT	EVT-World-War-I
+1585	1592	Америка	Америка	LOC	GPE-USA
+1626	1638	коронавируса	коронавирус	EVT	EVT-Covid-19
+1660	1665	Тръмп	Тръмп	PER	PER-Donald-Trump
+1822	1827	Тръмп	Тръмп	PER	PER-Donald-Trump
+1832	1838	Байдън	Байдън	PER	PER-Joe-Biden
+1889	1894	Тръмп	Тръмп	PER	PER-Donald-Trump
+1916	1923	Америка	Америка	LOC	GPE-USA
+2074	2080	Сената	Сенат	ORG	ORG-United-States-Senate
+2086	2100	републиканците	републиканци	PER	ORG-Republican-Party-USA
+2127	2133	Сената	Сенат	ORG	ORG-United-States-Senate
+2231	2237	Байдън	Байдън	PER	PER-Joe-Biden
+2260	2265	Сенат	Сенат	ORG	ORG-United-States-Senate
+2314	2325	демократите	демократи	PER	ORG-Democratic-Party-USA
+2328	2342	републиканците	републиканци	PER	ORG-Republican-Party-USA
+2419	2442	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2561	2571	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2602	2608	Сената	Сенат	ORG	ORG-United-States-Senate
+2666	2689	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2695	2710	Републиканската	Републиканска	ORG	ORG-Republican-Party-USA
+2773	2795	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+2839	2851	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2980	2985	Тръмп	Тръмп	PER	PER-Donald-Trump
+3070	3076	Байдън	Байдън	PER	PER-Joe-Biden
+3110	3118	Фокс нюз	Фокс нюз	ORG	ORG-Fox-News
+3202	3207	Тръмп	Тръмп	PER	PER-Donald-Trump
+3309	3326	Уолстрийт джърнъл	Уолстрийт джърнъл	PRO	PRO-Wall-Street-Journal
+3403	3409	Байдън	Байдън	PER	PER-Joe-Biden
+3427	3433	Байдън	Байдън	PER	PER-Joe-Biden
+3467	3478	демократите	демократи	PER	ORG-Democratic-Party-USA
+3522	3530	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+3532	3539	Аризона	Аризона	LOC	GPE-Arizona
+3555	3560	Тръмп	Тръмп	PER	PER-Donald-Trump
+3704	3709	Тръмп	Тръмп	PER	PER-Donald-Trump
+3714	3719	Тръмп	Тръмп	PER	PER-Donald-Trump
+3995	4017	републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+4048	4055	Сенатът	Сенат	ORG	ORG-United-States-Senate
+4184	4189	Тръмп	Тръмп	PER	PER-Donald-Trump
+4193	4201	Фокс нюз	Фокс нюз	ORG	ORG-Fox-News
+4265	4287	републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+4317	4320	САЩ	САЩ	LOC	GPE-USA
+4433	4440	Америки	Америки	LOC	GPE-USA
+4495	4505	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+4548	4555	Америка	Америка	LOC	GPE-USA
+4594	4608	републиканците	републиканци	PER	ORG-Republican-Party-USA
+4620	4631	демократите	демократи	PER	ORG-Democratic-Party-USA
+4634	4645	демократите	демократи	PER	ORG-Democratic-Party-USA
+4657	4671	републиканците	републиканци	PER	ORG-Republican-Party-USA
+4711	4719	България	България	LOC	GPE-Bulgaria
+4737	4743	Байдън	Байдън	PER	PER-Joe-Biden
+4825	4836	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+4895	4900	Тръмп	Тръмп	PER	PER-Donald-Trump
+4915	4921	Байдън	Байдън	PER	PER-Joe-Biden
+4953	4967	Хилъри Клинтън	Хилъри Клинтън	PER	PER-Hillary-Clinton
+4969	4975	Байдън	Байдън	PER	PER-Joe-Biden
+5025	5037	американците	американци	PER	GPE-USA
+5245	5268	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+5293	5307	Хилъри Клинтън	Хилъри Клинтън	PER	PER-Hillary-Clinton
+5354	5367	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+5371	5382	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+5423	5429	Байдън	Байдън	PER	PER-Joe-Biden
+5502	5514	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+5644	5657	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+5693	5698	Тръмп	Тръмп	PER	PER-Donald-Trump
+5768	5781	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+5968	5973	Тръмп	Тръмп	PER	PER-Donald-Trump
+5976	5988	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+6163	6169	Байдън	Байдън	PER	PER-Joe-Biden
+6299	6304	Китай	Китай	LOC	GPE-China
+6328	6332	Иран	Иран	LOC	GPE-Iran
+6346	6351	Тръмп	Тръмп	PER	PER-Donald-Trump
+6476	6483	Западна	Западна Европа	LOC	LOC-Western-Europe
+6486	6500	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+6511	6516	Тръмп	Тръмп	PER	PER-Donald-Trump
+6593	6600	Унгария	Унгария	LOC	GPE-Hungary
+6603	6608	Полша	Полша	LOC	GPE-Poland
+6643	6649	Европа	Европа	LOC	LOC-Europe
+6715	6720	Тръмп	Тръмп	PER	PER-Donald-Trump
+6743	6759	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+6826	6832	Байдън	Байдън	PER	PER-Joe-Biden
+6866	6872	Байдън	Байдън	PER	PER-Joe-Biden
+6926	6931	Тръмп	Тръмп	PER	PER-Donald-Trump

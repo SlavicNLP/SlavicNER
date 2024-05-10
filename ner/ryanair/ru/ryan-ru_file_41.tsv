@@ -1,0 +1,17 @@
+6	9	МИД	МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+73	79	Европе	Европа	LOC	LOC-Europe
+109	115	Европы	Европа	LOC	LOC-Europe
+197	205	Твиттере	Твиттер	PRO	PRO-Twitter
+206	247	департамент ситуационно-кризисного центра	департамент ситуационно-кризисного центра	ORG	ORG-Department-of-Crisis-Management-Center
+249	253	ДСКЦ	ДСКЦ	ORG	ORG-Department-of-Crisis-Management-Center
+255	261	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+320	327	Ryanair	Ryanair	ORG	ORG-Ryanair
+330	337	Бельгии	Бельгия	LOC	GPE-Belgium
+338	344	Италии	Италия	LOC	GPE-Italy
+347	354	Испании	Испания	LOC	GPE-Spain
+397	406	Барселоне	Барселона	LOC	GPE-Barcelona
+445	462	Латинской Америке	Латинская Америка	LOC	LOC-Latin-America
+515	519	ДСКЦ	ДСКЦ	ORG	ORG-Department-of-Crisis-Management-Center
+528	536	Сантьяго	Сантьяго	LOC	GPE-Santiago
+611	624	Йоханнесбурге	Йоханнесбург	LOC	GPE-Johannesburg
+697	702	БРИКС	БРИКС	ORG	ORG-BRICS

@@ -1,0 +1,15 @@
+21	29	Covid-19	Covid-19	EVT	EVT-Covid-19
+156	175	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+295	305	The Lancet	The Lancet	PRO	PRO-The-Lancet
+324	340	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+388	397	covida-19	covid-19	EVT	EVT-Covid-19
+401	410	Kitajskem	Kitajska	LOC	GPE-China
+479	484	Wuhan	Wuhan	LOC	GPE-Wuhan
+1341	1351	Azra Ghani	Azra Ghani	PER	PER-Azra-Ghani
+1354	1381	Imperial Collegea v Londonu	Imperial College v Londonu	LOC	ORG-Imperial-College-London
+1444	1447	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1484	1493	Kitajskem	Kitajska	LOC	GPE-China
+1671	1679	covid-19	covid-19	EVT	EVT-Covid-19
+1771	1775	H1N1	H1N1	EVT	EVT-Swine-Influenza
+2214	2220	Lancet	Lancet	PRO	PRO-The-Lancet
+2248	2257	Kitajskem	Kitajska	LOC	GPE-China

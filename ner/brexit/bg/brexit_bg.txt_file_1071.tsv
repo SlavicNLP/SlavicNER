@@ -1,0 +1,14 @@
+7	23	Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+32	44	Джулиан Кинг	Джулиан Кинг	PER	PER-Julian-King
+45	59	Великобритания	Великобритания	LOC	GPE-Great-Britain
+75	81	Лондон	Лондон	LOC	GPE-London
+107	119	Джулиан Кинг	Джулиан Кинг	PER	PER-Julian-King
+190	200	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+288	295	Брекзит	Брекзит	EVT	EVT-Brexit
+310	326	Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+464	478	Великобритания	Великобритания	LOC	GPE-Great-Britain
+530	534	Кинг	Кинг	PER	PER-Julian-King
+599	601	ЕС	ЕС	ORG	ORG-European-Union
+804	811	Брекзит	Брекзит	EVT	EVT-Brexit
+1044	1059	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+1106	1135	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

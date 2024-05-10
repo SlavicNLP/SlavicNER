@@ -1,0 +1,20 @@
+2	18	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+55	61	Brexit	Brexit	EVT	EVT-Brexit
+79	102	Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+103	119	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+123	141	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+151	157	Brexit	Brexit	EVT	EVT-Brexit
+163	176	Стівен Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+239	246	Twitter	Twitter	PRO	PRO-Twitter
+284	298	Стівена Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+330	349	Європейського союзу	Європейський союз	ORG	ORG-European-Union
+378	384	Барклі	Барклі	PER	PER-Stiven-Barkli
+406	419	Домініка Рабе	Домінік Рабе	PER	PER-Dominic-Raab
+472	477	УНІАН	УНІАН	ORG	ORG-UNIAN
+505	524	Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+528	544	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+581	587	Brexit	Brexit	EVT	EVT-Brexit
+641	649	Британії	Британія	LOC	GPE-Great-Britain
+652	654	ЄС	ЄС	LOC	ORG-European-Union
+777	785	Британія	Британія	LOC	GPE-Great-Britain
+804	806	ЄС	ЄС	LOC	ORG-European-Union

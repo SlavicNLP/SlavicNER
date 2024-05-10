@@ -1,0 +1,29 @@
+18	21	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+24	32	Brexicie	Brexit	EVT	EVT-Brexit
+50	63	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+81	88	Brexitu	Brexit	EVT	EVT-Brexit
+303	310	Johnson	Johnson	PER	PER-Boris-Johnson
+348	354	Trumpa	Trump	PER	PER-Donald-Trump
+371	379	Brexitem	Brexit	EVT	EVT-Brexit
+590	598	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+600	607	Johnson	Johnson	PER	PER-Boris-Johnson
+667	686	Philipie Hammondzie	Philip Hammond	PER	PER-Philip-Hammond
+768	779	Theresy May	Theresa May	PER	PER-Theresa-May
+788	796	Johnsona	Johnson	PER	PER-Boris-Johnson
+797	804	Hammond	Hammond	PER	PER-Philip-Hammond
+826	843	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+920	926	Londyn	Londyn	LOC	GPE-London
+934	942	Brexicie	Brexit	EVT	EVT-Brexit
+955	964	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+1037	1045	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+1063	1066	May	May	PER	PER-Theresa-May
+1098	1101	May	May	PER	PER-Theresa-May
+1145	1153	Johnsona	Johnson	PER	PER-Boris-Johnson
+1172	1179	Hammond	Hammond	PER	PER-Philip-Hammond
+1261	1268	Brexitu	Brexit	EVT	EVT-Brexit
+1277	1283	Trumpa	Trump	PER	PER-Donald-Trump
+1430	1438	Niemcami	Niemcy	LOC	GPE-Germany
+1440	1447	Francją	Francja	LOC	GPE-France
+1450	1458	Włochami	Włochy	LOC	GPE-Italy
+1740	1751	Theresa May	Theresa May	PER	PER-Theresa-May
+1788	1795	Hammond	Hammond	PER	PER-Philip-Hammond

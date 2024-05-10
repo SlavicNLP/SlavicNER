@@ -1,0 +1,73 @@
+29	36	Брекзит	Брекзит	EVT	EVT-Brexit
+37	57	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+160	167	Ромфърд	Ромфърд	LOC	LOC-Romford-Market
+223	239	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+286	292	Лондон	Лондон	LOC	GPE-London
+339	346	Брекзит	Брекзит	EVT	EVT-Brexit
+349	363	Тахмид Чодхури	Тахмид Чодхури	PER	PER-Tahmid-Chowdhury
+409	412	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+490	504	Великобритания	Великобритания	LOC	GPE-Great-Britain
+547	549	ЕС	ЕС	ORG	ORG-European-Union
+916	924	британци	британци	PER	GPE-Great-Britain
+960	972	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+977	987	лейбъристи	лейбъристи	PER	ORG-Labour-Party-UK
+989	998	Брекзитът	Брекзит	EVT	EVT-Brexit
+1011	1025	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1215	1221	Англия	Англия	LOC	GPE-England
+1268	1275	Брюксел	Брюксел	LOC	GPE-Brussles
+1672	1679	Брекзит	Брекзит	EVT	EVT-Brexit
+1724	1736	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+1778	1788	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1823	1831	британци	британци	PER	GPE-Great-Britain
+1898	1918	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1944	1958	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1961	1963	ЕС	ЕС	ORG	ORG-European-Union
+2161	2169	Ирландия	Ирландия	LOC	GPE-Ireland
+2172	2188	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2195	2202	Брекзит	Брекзит	EVT	EVT-Brexit
+2272	2274	ЕС	ЕС	ORG	ORG-European-Union
+2277	2297	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2299	2313	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2316	2318	ЕС	ЕС	ORG	ORG-European-Union
+2476	2478	ЕС	ЕС	ORG	ORG-European-Union
+2536	2550	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2667	2674	Брюксел	Брюксел	LOC	GPE-Brussles
+2722	2733	Джон Къртис	Джон Къртис	PER	PER-John-Curtice
+2771	2796	университета в Стратклайд	Университет в Стратклайд	ORG	ORG-University-of-Strathclyde
+2807	2817	британците	британци	PER	GPE-Great-Britain
+2873	2880	Брекзит	Брекзит	EVT	EVT-Brexit
+3011	3019	Брекзита	Брекзит	EVT	EVT-Brexit
+3169	3177	Брекзита	Брекзит	EVT	EVT-Brexit
+3263	3283	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+3289	3310	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+3379	3386	Брекзит	Брекзит	EVT	EVT-Brexit
+3440	3447	Брекзит	Брекзит	EVT	EVT-Brexit
+3580	3583	Сън	Сън	PRO	PRO-The-Sun
+3605	3607	ЕС	ЕС	ORG	ORG-European-Union
+3650	3660	Дейли мейл	Дейли мейл	PRO	PRO-Daily-Mail
+3934	3943	Брекзитът	Брекзит	EVT	EVT-Brexit
+4152	4159	Брекзит	Брекзит	EVT	EVT-Brexit
+4248	4254	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+4283	4297	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4363	4365	ЕС	ЕС	ORG	ORG-European-Union
+4488	4496	Брекзита	Брекзит	EVT	EVT-Brexit
+4503	4514	Ананд Менон	Ананд Менон	PER	PER-Anand-Menon
+4544	4558	Чейнджинг Юръп	Чейнджинг Юръп	ORG	ORG-Changing-Europe
+4646	4662	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+4876	4883	Ромфърд	Ромфърд	LOC	LOC-Romford-Market
+5107	5113	Лондон	Лондон	LOC	GPE-London
+5142	5156	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5238	5240	ЕС	ЕС	ORG	ORG-European-Union
+5247	5256	Хейвъринг	Хейвъринг	LOC	GPE-Havering
+5288	5295	Ромфърд	Ромфърд	LOC	LOC-Romford-Market
+5338	5345	Брекзит	Брекзит	EVT	EVT-Brexit
+5365	5372	Брекзит	Брекзит	EVT	EVT-Brexit
+5394	5405	Бил Пиърсън	Бил Пиърсън	PER	PER-Bill-Pierson
+5773	5780	Брекзит	Брекзит	EVT	EVT-Brexit
+5841	5848	Пиърсън	Пиърсън	PER	PER-Bill-Pierson
+5850	5857	Чодхури	Чодхури	PER	PER-Tahmid-Chowdhury
+5895	5902	Брекзит	Брекзит	EVT	EVT-Brexit
+6102	6104	ЕС	ЕС	ORG	ORG-European-Union
+6134	6148	Великобритания	Великобритания	LOC	GPE-Great-Britain
+6299	6313	Великобритания	Великобритания	LOC	GPE-Great-Britain
+6316	6322	Европа	Европа	LOC	LOC-Europe

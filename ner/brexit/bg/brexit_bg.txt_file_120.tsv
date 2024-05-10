@@ -1,0 +1,27 @@
+22	29	Брекзит	Брекзит	EVT	EVT-Brexit
+130	146	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+309	316	Брекзит	Брекзит	EVT	EVT-Brexit
+355	362	Ройтерс	Ройтерс	ORG	ORG-Reuters
+665	672	Брекзит	Брекзит	EVT	EVT-Brexit
+691	735	Партията за независимостта на Великобритания	Партия за независимостта на Великобритания	ORG	ORG-UK-Independence-Party
+737	741	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+743	756	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+1033	1035	ЕС	ЕС	ORG	ORG-European-Union
+1144	1151	Брекзит	Брекзит	EVT	EVT-Brexit
+1192	1197	Фараж	Фараж	PER	PER-Nigel-Farage
+1218	1228	Арън Банкс	Арън Банкс	PER	PER-Arron-Banks
+1326	1333	Брекзит	Брекзит	EVT	EVT-Brexit
+1411	1414	Мей	Мей	PER	PER-Theresa-May
+1468	1478	британците	британци	PER	GPE-Great-Britain
+1526	1533	Брекзит	Брекзит	EVT	EVT-Brexit
+1547	1554	Брекзит	Брекзит	EVT	EVT-Brexit
+1721	1728	Брекзит	Брекзит	EVT	EVT-Brexit
+1736	1741	Банкс	Банкс	PER	PER-Arron-Banks
+1884	1904	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2013	2023	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2037	2044	Ройтерс	Ройтерс	ORG	ORG-Reuters
+2048	2056	Би Би Си	Би Би Си	PRO	PRO-BBC
+2156	2158	ЕС	ЕС	ORG	ORG-European-Union
+2312	2315	BMG	BMG	ORG	ORG-BMG
+2402	2411	Евросъюза	Евросъюз	ORG	ORG-European-Union
+2447	2456	Би Ем Джи	Би Ем Джи	ORG	ORG-BMG

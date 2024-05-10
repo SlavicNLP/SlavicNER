@@ -1,0 +1,21 @@
+6	9	США	США	LOC	GPE-USA
+12	15	ФРГ	ФРГ	LOC	GPE-Germany
+55	74	""" Северный поток-2"""	""" Северный поток-2"""	PRO	PRO-Nord-Stream-2
+82	85	США	США	LOC	GPE-USA
+88	96	Германии	Германия	LOC	GPE-Germany
+97	111	Ричард Гренелл	Ричард Гренелл	PER	PER-Richard-Grenell
+177	197	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+247	262	Bild am Sonntag	Bild am Sonntag	PRO	PRO-Bild-am-Sonntag
+272	274	DW	DW	PRO	PRO-Deutsche-Welle
+292	299	Гренелл	Гренелл	PER	PER-Richard-Grenell
+627	647	Северного потока - 2	Северный поток - 2	PRO	PRO-Nord-Stream-2
+650	666	Турецкого потока	Турецкий поток	PRO	PRO-Turkish-Stream
+700	707	Украины	Украина	LOC	GPE-Ukraine
+710	716	Европы	Европа	LOC	LOC-Europe
+740	748	Гренелла	Гренелл	PER	PER-Richard-Grenell
+756	759	США	США	LOC	GPE-USA
+778	786	Евросоюз	Евросоюз	ORG	ORG-European-Union
+842	848	России	Россия	LOC	GPE-Russia
+850	862	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+886	902	Ричарда Гренелла	Ричард Гренелл	PER	PER-Richard-Grenell
+989	997	Гренелла	Гренелл	PER	PER-Richard-Grenell

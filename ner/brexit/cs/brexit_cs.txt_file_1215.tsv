@@ -1,0 +1,16 @@
+35	42	Londýně	Londýn	LOC	GPE-London
+64	71	brexitu	brexit	EVT	EVT-Brexit
+95	102	brexitu	brexit	EVT	EVT-Brexit
+107	124	britský parlament	britský parlament	ORG	ORG-British-Parlament
+162	168	Mayové	Mayová	PER	PER-Theresa-May
+183	189	Britům	Britové	PER	GPE-Great-Britain
+255	268	People's Vote	People's Vote	ORG	ORG-Peoples-Vote
+288	294	brexit	brexit	EVT	EVT-Brexit
+601	608	brexitu	brexit	EVT	EVT-Brexit
+679	691	James McGory	James McGory	PER	PER-James-McGory
+854	864	labouristů	labouristé	PER	ORG-Labour-Party-UK
+866	887	liberálních demokratů	liberální demokraté	PER	ORG-Liberal-Democrats-UK
+903	916	konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+924	926	AP	AP	ORG	ORG-AP-The-Associated-Press
+972	993	liberálních demokratů	liberální demokraté	PER	ORG-Liberal-Democrats-UK
+994	1005	Vince Cable	Vince Cable	PER	PER-Vince-Cable

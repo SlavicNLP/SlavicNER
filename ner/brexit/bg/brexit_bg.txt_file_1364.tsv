@@ -1,0 +1,31 @@
+0	8	Холандия	Холандия	LOC	GPE-Holland
+25	35	британците	британци	PER	GPE-Great-Britain
+81	88	Брекзит	Брекзит	EVT	EVT-Brexit
+162	170	Холандия	Холандия	LOC	GPE-Holland
+207	231	Съда на Европейския съюз	Съд на Европейския съюз	ORG	ORG-European-Court-of-Justice
+358	366	Холандия	Холандия	LOC	GPE-Holland
+403	427	Съда на Европейския съюз	Съд на Европейския съюз	ORG	ORG-European-Court-of-Justice
+480	494	Великобритания	Великобритания	LOC	GPE-Great-Britain
+498	500	ЕС	ЕС	ORG	ORG-European-Union
+510	520	Франс прес	Франс прес	ORG	ORG-France-Presse
+548	556	британци	британци	PER	GPE-Great-Britain
+623	630	Брекзит	Брекзит	EVT	EVT-Brexit
+651	660	Амстердам	Амстердам	LOC	GPE-Amsterdam
+748	756	британци	британци	PER	GPE-Great-Britain
+803	814	Съдът на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+817	827	Люксембург	Люксембург	LOC	GPE-Luxembourg
+837	840	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+863	871	британци	британци	PER	GPE-Great-Britain
+897	905	Холандия	Холандия	LOC	GPE-Holland
+1072	1074	ЕС	ЕС	ORG	ORG-European-Union
+1119	1128	Евросъюза	Евросъюз	ORG	ORG-European-Union
+1218	1226	Холандия	Холандия	LOC	GPE-Holland
+1262	1276	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1285	1287	ЕС	ЕС	ORG	ORG-European-Union
+1371	1382	Съдът на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+1711	1719	британци	британци	PER	GPE-Great-Britain
+1739	1747	Холандия	Холандия	LOC	GPE-Holland
+2070	2082	Върховен съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-Netherlands
+2183	2193	Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+2231	2238	Брекзит	Брекзит	EVT	EVT-Brexit
+2504	2512	Брекзита	Брекзит	EVT	EVT-Brexit

@@ -1,0 +1,30 @@
+0	3	СЗО	СЗО	ORG	ORG-WHO
+65	75	пандемията	пандемия	EVT	EVT-Pandemic
+204	215	коронавирус	коронавирус	EVT	EVT-Covid-19
+255	277	пандемията от COVID-19	пандемия от COVID-19	EVT	EVT-Covid-19
+438	474	Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+501	511	пандемията	пандемия	EVT	EVT-Pandemic
+519	541	извънредното положение	извънредно положение	EVT	EVT-State-of-Emergency
+623	626	СЗО	СЗО	ORG	ORG-WHO
+627	649	Тедрос Аданом Гебрейес	Тедрос Аданом Гебрейес	PER	PER-Tedros-Adhanom-Ghebreyesus
+671	697	Комитетът за спешни случаи	Комитет за спешни случаи	ORG	ORG-Emergency-Committee-WHO
+733	753	извънредно положение	извънредно положение	EVT	EVT-State-of-Emergency
+761	773	коронавируса	коронавирус	EVT	EVT-Covid-19
+776	782	Тедрос	Тедрос	PER	PER-Tedros-Adhanom-Ghebreyesus
+1156	1162	Тедрос	Тедрос	PER	PER-Tedros-Adhanom-Ghebreyesus
+1185	1211	централата на СЗО в Женева	централа на СЗО в Женева	LOC	LOC-The-WHO-Headquarters-in-Geneva
+1230	1233	СЗО	СЗО	ORG	ORG-WHO
+1372	1382	пандемията	пандемия	EVT	EVT-Pandemic
+1544	1556	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1587	1590	СЗО	СЗО	ORG	ORG-WHO
+1603	1613	пандемията	пандемия	EVT	EVT-Pandemic
+1663	1666	ООН	ООН	ORG	ORG-United-Nations
+1700	1711	Майк Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+1727	1730	САЩ	САЩ	LOC	GPE-USA
+1762	1783	Комунистическа партия	Комунистическа партия	ORG	GPE-Communist-Party-of-China
+1786	1791	Китай	Китай	LOC	GPE-China
+1817	1848	епидемията от новия коронавирус	епидемия от новия коронавирус	EVT	EVT-Covid-19
+1860	1863	СЗО	СЗО	ORG	ORG-WHO
+1882	1892	Гебрейесус	Гебрейесус	PER	PER-Tedros-Adhanom-Ghebreyesus
+1945	1950	Тръмп	Тръмп	PER	PER-Donald-Trump
+2067	2077	пандемията	пандемия	EVT	EVT-Pandemic

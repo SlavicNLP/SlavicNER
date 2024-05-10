@@ -1,0 +1,46 @@
+14	26	коронавируса	коронавирус	EVT	EVT-Covid-19
+29	38	Мурманске	Мурманск	LOC	GPE-Murmansk
+137	149	коронавируса	коронавирус	EVT	EVT-Covid-19
+152	170	Мурманской области	Мурманская область	LOC	GPE-Murmansk-Region
+240	250	Мария ЛЕНЦ	Мария ЛЕНЦ	PER	PER-Maria-Lenz
+253	264	Коронавирус	Коронавирус	EVT	EVT-Covid-19
+267	285	Мурманской области	Мурманская область	LOC	GPE-Murmansk-Region
+424	432	COVID-19	COVID-19	EVT	EVT-Covid-19
+444	455	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+608	620	коронавируса	коронавирус	EVT	EVT-Covid-19
+634	637	МФЦ	МФЦ	ORG	ORG-Multifunctional-center
+691	702	«Госуслуги»	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+939	948	Мурманска	Мурманск	LOC	GPE-Murmansk
+1128	1139	«Госуслуги»	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+1350	1361	«Госуслуги»	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+1571	1574	МФЦ	МФЦ	ORG	ORG-Multifunctional-center
+1578	1608	Первомайскому округу Мурманска	Первомайский округ Мурманска	LOC	GPE-Pervomaisky-district-of-Murmansk
+1609	1626	Оксана Старчикова	Оксана Старчикова	PER	PER-Oksana-Starchikova
+1716	1727	«Госуслуги»	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+1821	1829	COVID-19	COVID-19	EVT	EVT-Covid-19
+1924	1942	Мурманскую область	Мурманская область	LOC	GPE-Murmansk-Region
+2353	2361	COVID-19	COVID-19	EVT	EVT-Covid-19
+2424	2432	COVID-19	COVID-19	EVT	EVT-Covid-19
+2953	2956	МФЦ	МФЦ	ORG	ORG-Multifunctional-center
+2957	2970	Первомайского	Первомайский	LOC	GPE-Pervomaisky-district-of-Murmansk
+2973	3001	Ленинского округов Мурманска	Ленинский округ Мурманска	LOC	GPE-Leninsky-district-of-Murmansk
+3005	3008	МФЦ	МФЦ	ORG	ORG-Multifunctional-center
+3009	3028	Октябрьского округа	Октябрьский округ	LOC	GPE-Oktyabrsky-district-of-Murmansk
+3096	3099	МФЦ	МФЦ	ORG	ORG-Multifunctional-center
+3103	3133	Первомайскому округу Мурманска	Первомайский округ Мурманска	LOC	GPE-Pervomaisky-district-of-Murmansk
+3134	3147	Игорь Федоров	Игорь Федоров	PER	PER-Igor-Fedorov
+3271	3289	Мурманской области	Мурманская область	LOC	GPE-Murmansk-Region
+3758	3771	коронавирусом	коронавирус	EVT	EVT-Covid-19
+3772	3786	Наталья Минина	Наталья Минина	PER	PER-Natalia-Minina
+3821	3833	«Госуслугах»	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+4193	4202	Мурманске	Мурманск	LOC	GPE-Murmansk
+4301	4310	Мурманске	Мурманск	LOC	GPE-Murmansk
+4725	4728	МФЦ	МФЦ	ORG	ORG-Multifunctional-center
+4729	4742	Первомайского	Первомайский	LOC	GPE-Pervomaisky-district-of-Murmansk
+4747	4764	Ленинского округа	Ленинский округ	LOC	GPE-Leninsky-district-of-Murmansk
+4824	4836	«Госуслугах»	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+4892	4895	МФЦ	МФЦ	ORG	ORG-Multifunctional-center
+5155	5167	коронавируса	коронавирус	EVT	EVT-Covid-19
+5170	5188	Мурманской области	Мурманская область	LOC	GPE-Murmansk-Region
+5251	5263	коронавируса	коронавирус	EVT	EVT-Covid-19
+5266	5284	Мурманской области	Мурманская область	LOC	GPE-Murmansk-Region

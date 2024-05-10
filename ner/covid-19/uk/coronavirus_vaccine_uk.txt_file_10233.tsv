@@ -1,0 +1,14 @@
+0	7	Moderna	Moderna	ORG	ORG-Moderna
+41	49	COVID-19	COVID-19	EVT	EVT-Covid-19
+150	162	Moderna Inc.	Moderna Inc.	ORG	ORG-Moderna
+391	400	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+447	450	США	США	LOC	GPE-USA
+525	534	мРНК-1273	мРНК-1273	PRO	PRO-mRNA-Vaccine
+626	640	Стефан Бансель	Стефан Бансель	PER	PER-Stephan-Bancel
+682	741	Управлінням перспективних біомедичних досліджень і розробок	Управління перспективних біомедичних досліджень і розробок	ORG	ORG-BARDA-USA
+742	794	Міністерства охорони здоров'я і соціальних служб США	Міністерство охорони здоров'я і соціальних служб США	ORG	ORG-United-States-Deparment-of-Health-and-Human-Services
+796	801	BARDA	BARDA	ORG	ORG-BARDA-USA
+870	873	США	США	LOC	GPE-USA
+988	991	ООН	ООН	ORG	ORG-United-Nations
+992	1008	Антоніо Гутерреш	Антоніо Гутерреш	PER	PER-Antonio-Guterres
+1132	1137	COVID	COVID	EVT	EVT-Covid-19

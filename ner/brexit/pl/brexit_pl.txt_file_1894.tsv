@@ -1,0 +1,23 @@
+0	15	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+71	78	Brexitu	Brexit	EVT	EVT-Brexit
+119	126	Londynu	Londyn	LOC	GPE-London
+137	148	Głos narodu	Głos narodu	EVT	EVT-Peoples-Vote
+166	183	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+186	203	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+284	293	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+382	393	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+420	422	UE	UE	ORG	ORG-European-Union
+440	449	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+635	646	Głos narodu	Głos narodu	EVT	EVT-Peoples-Vote
+654	667	People's Vote	People's Vote	EVT	EVT-Peoples-Vote
+738	747	Brexitowi	Brexit	EVT	EVT-Brexit
+776	788	Open Britain	Open Britain	ORG	ORG-Open-Britain
+840	842	UE	UE	ORG	ORG-European-Union
+886	895	Survation	Survation	ORG	ORG-Survation
+1017	1034	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1037	1039	UE	UE	ORG	ORG-European-Union
+1056	1064	Brexitem	Brexit	EVT	EVT-Brexit
+1179	1194	Johna Curtice'a	John Curtice	PER	PER-John-Curtice
+1370	1385	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1414	1416	UE	UE	ORG	ORG-European-Union
+1450	1459	Wspólnotę	Wspólnota	ORG	ORG-European-Union

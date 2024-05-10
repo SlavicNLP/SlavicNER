@@ -1,0 +1,10 @@
+12	19	Brexitu	Brexit	EVT	EVT-Brexit
+74	76	27	27	ORG	ORG-European-Union
+155	157	UE	UE	ORG	ORG-European-Union
+160	175	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+194	203	Twitterze	Twitter	PRO	PRO-Twitter
+219	236	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+237	248	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+266	268	UE	UE	ORG	ORG-European-Union
+271	286	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+512	514	UE	UE	ORG	ORG-European-Union

@@ -1,0 +1,56 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+34	44	Frančiškom	Frančišek	PER	PER-Pope-Francis
+153	156	ZDA	ZDA	LOC	GPE-USA
+157	166	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+244	247	ZDA	ZDA	LOC	GPE-USA
+251	271	Johnom F. Kennedyjem	John F. Kennedy	PER	PER-John-F-Kennedy
+319	329	Frančiškom	Frančišek	PER	PER-Pope-Francis
+383	390	Bidnova	Biden	PER	PER-Joe-Biden
+461	464	ZDA	ZDA	LOC	GPE-USA
+565	570	Biden	Biden	PER	PER-Joe-Biden
+605	615	Frančiškom	Frančišek	PER	PER-Pope-Francis
+801	806	Biden	Biden	PER	PER-Joe-Biden
+900	913	Angelo Merkel	Angela Merkel	PER	PER-Angela-Merkel
+937	954	Borisom Johnsonom	Boris Johnson	PER	PER-Boris-Johnson
+980	999	Emmanuelom Macronom	Emmanuel Macron	PER	PER-Emmanuel-Macron
+1084	1087	ZDA	ZDA	LOC	GPE-USA
+1088	1100	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1234	1281	Organizacijo za varnost in sodelovanje v Evropi	Organizacija za varnost in sodelovanje v Evropi	ORG	ORG-OSCE-Organization-for-Security-and-Co-operation-in-Europe
+1283	1287	Ovse	Ovse	ORG	ORG-OSCE-Organization-for-Security-and-Co-operation-in-Europe
+1317	1320	ZDA	ZDA	LOC	GPE-USA
+1415	1418	ZDA	ZDA	LOC	GPE-USA
+1502	1508	Ovseju	Ovse	ORG	ORG-OSCE-Organization-for-Security-and-Co-operation-in-Europe
+1524	1537	Urszula Gacek	Urszula Gacek	PER	PER-Urszula-Gacek
+1621	1624	ZDA	ZDA	LOC	GPE-USA
+1681	1684	ZDA	ZDA	LOC	GPE-USA
+1721	1730	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+1739	1751	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+1917	1925	Staroste	Staroste	ORG	ORG-The-Elders
+1966	1978	Južne Afrike	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+1979	1993	Nelson Mandela	Nelson Mandela	PER	PER-Nelson-Mandela
+2012	2020	Trumpovo	Trumpov	PER	PER-Donald-Trump
+2156	2162	Trumpa	Trump	PER	PER-Donald-Trump
+2287	2296	Starostam	Staroste	ORG	ORG-The-Elders
+2298	2311	Mary Robinson	Mary Robinson	PER	PER-Mary-Robinson
+2441	2447	Kenije	Kenija	LOC	GPE-Kenya
+2449	2459	Zimbabveja	Zimbabve	LOC	GPE-Zimbabwe
+2463	2471	Šrilanke	Šrilanka	LOC	GPE-Sri-Lanka
+2587	2595	Trumpovi	Trumpovi	PER	PER-Donald-Trump
+2629	2639	Las Vegasa	Las Vegasa	LOC	GPE-Las-Vegas
+2640	2655	Sheldon Adelson	Sheldon Adelson	PER	PER-Sheldon-Adelson
+2664	2672	Trumpovo	Trumpov	PER	PER-Donald-Trump
+2718	2742	Las Vegas Review-Journal	Las Vegas Review-Journal	PRO	PRO-Las-Vegas-Review-Journal
+2752	2762	Adelsonovi	Adelsonovi	PER	PER-Sheldon-Adelson
+2806	2814	Trumpovi	Trumpovi	PER	PER-Donald-Trump
+3102	3107	Trump	Trump	PER	PER-Donald-Trump
+3299	3305	Trumpa	Trump	PER	PER-Donald-Trump
+3353	3364	Washingtonu	Washington	LOC	GPE-WashingtonDC
+3385	3389	MAGA	MAGA	PRO	PRO-Make-America-Great-Again
+3398	3402	MAGA	MAGA	PRO	PRO-Make-America-Great-Again
+3414	3424	Trumpovega	Trumpov	PER	PER-Donald-Trump
+3431	3459	Naredimo Ameriko spet veliko	Naredimo Ameriko spet veliko	PRO	PRO-Make-America-Great-Again
+3461	3485	Make America Great Again	Make America Great Again	PRO	PRO-Make-America-Great-Again
+3510	3519	Bele hiše	Bela hiša	LOC	LOC-White-House
+3520	3536	Kayleigh McEnany	Kayleigh McEnany	PER	PER-Kayleigh-McEnany
+3672	3683	Washingtona	Washington	LOC	GPE-WashingtonDC
+3684	3697	Muriel Bowser	Muriel Bowser	PER	PER-Muriel-Bowser

@@ -1,0 +1,48 @@
+50	59	Niemczech	Niemcy	LOC	GPE-Germany
+158	165	Niemców	Niemcy	PER	GPE-Germany
+273	282	Niemczech	Niemcy	LOC	GPE-Germany
+382	389	Niemców	Niemcy	PER	GPE-Germany
+451	481	Frankfurter Allgemeine Zeitung	Frankfurter Allgemeine Zeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+552	558	Izrael	Izrael	LOC	GPE-Israel
+599	607	BioNTech	BioNTech	ORG	ORG-BioNTech
+608	618	Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+660	662	UE	UE	ORG	ORG-European-Union
+687	697	Jens Spahn	Jens Spahn	PER	PER-Jens-Spahn
+842	845	SPD	SPD	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+887	890	SPD	SPD	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+891	897	Berlin	Berlin	LOC	GPE-Berlin
+1138	1141	SPD	SPD	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+1144	1154	Bundestagu	Bundestag	ORG	ORG-Bundestag
+1264	1267	SPD	SPD	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+1271	1298	Reutlinger General-Anzeiger	Reutlinger General-Anzeiger	PRO	PRO-Reutlinger-General-Anzeiger
+1463	1472	Niemczech	Niemcy	LOC	GPE-Germany
+1481	1488	Europie	Europa	LOC	LOC-Europe
+1554	1560	Izrael	Izrael	LOC	GPE-Israel
+1631	1640	Niemczech	Niemcy	LOC	GPE-Germany
+1713	1738	Neue Osnabruecker Zeitung	Neue Osnabruecker Zeitung	PRO	PRO-Neue-Osnabruecker-Zeitung
+1871	1873	UE	UE	ORG	ORG-European-Union
+1890	1897	Francją	Francja	LOC	GPE-France
+1899	1907	Włochami	Włosi	LOC	GPE-Italy
+1910	1922	Niderlandami	Niderlandy	LOC	GPE-The-Netherlands
+1932	1939	Niemiec	Niemcy	LOC	GPE-Germany
+2003	2008	Chiny	Chiny	LOC	GPE-China
+2010	2013	USA	USA	LOC	GPE-USA
+2016	2031	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2081	2087	Izrael	Izrael	LOC	GPE-Israel
+2158	2160	UE	UE	ORG	ORG-European-Union
+2209	2217	Brukseli	Bruksela	LOC	GPE-Brussles
+2336	2344	BioNTech	BioNTech	ORG	ORG-BioNTech
+2381	2383	UE	UE	ORG	ORG-European-Union
+2395	2406	Volksstimme	Volksstimme	PRO	PRO-Volksstimme
+2410	2420	Magdeburga	Magdeburg	LOC	GPE-Magdeburg
+2444	2478	Komisji Stałych Szczepień przy RKI	Komisja Stałych Szczepień przy RKI	ORG	ORG-Vaccination-Commitee-Robert-Koch-Institute
+2547	2563	Thomasa Mertensa	Thomas Mertens	PER	PER-Thomas-Mertens
+2939	2947	BioNTech	BioNTech	ORG	ORG-BioNTech
+3091	3099	Mertensa	Mertens	PER	PER-Thomas-Mertens
+3140	3142	UE	UE	ORG	ORG-European-Union
+3145	3152	Niemiec	Niemcy	LOC	GPE-Germany
+3309	3331	Nordbayerischer Kurier	Nordbayerischer Kurier	PRO	PRO-Nordbayerischer-Kurier
+3354	3361	Niemców	Niemcy	PER	GPE-Germany
+3474	3480	Yougov	Yougov	ORG	ORG-YouGov
+3505	3516	koronawirus	koronawirus	EVT	EVT-Covid-19
+3791	3801	Querdenker	Querdenker	ORG	ORG-Querdenker

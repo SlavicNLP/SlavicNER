@@ -1,0 +1,40 @@
+19	26	Бергамо	Бергамо	LOC	GPE-Bergamo
+29	37	Шарлероа	Шарлероа	LOC	LOC-Charleroi-Airport-Brussels
+52	60	Райънеър	Райънеър	ORG	ORG-Ryanair
+80	87	Пловдив	Пловдив	LOC	LOC-Plovdiv-aeroport
+91	98	Бергамо	Бергамо	LOC	GPE-Bergamo
+101	109	Шарлероа	Шарлероа	LOC	LOC-Charleroi-Airport-Brussels
+225	231	Лондон	Лондон	LOC	GPE-London
+375	381	Москва	Москва	LOC	GPE-Moscow
+383	391	Тел Авив	Тел Авив	LOC	GPE-Tel-Aviv
+394	401	Белфаст	Белфаст	LOC	GPE-Belfast
+421	428	Пловдив	Пловдив	LOC	LOC-Plovdiv-aeroport
+539	545	Хайнан	Хайнан	ORG	ORG-HNA-Group
+548	565	HNA Airport Group	HNA Airport Group	ORG	ORG-HNA-Group
+585	593	Холандия	Холандия	LOC	GPE-Holland
+600	622	Пловдив Еърпорт Инвест	Пловдив Еърпорт Инвест	ORG	ORG-Plovidv-Airport-Invest
+636	706	Министерството на транспорта, информационните технологии и съобщенията	Министерство на транспорта, информационните технологии и съобщенията	ORG	ORG-Ministry-of-Transport-Buglaria
+708	713	МТИТС	МТИТС	ORG	ORG-Ministry-of-Transport-Buglaria
+787	794	Пловдив	Пловдив	LOC	LOC-Plovdiv-aeroport
+914	920	Хайнан	Хайнан	ORG	ORG-HNA-Group
+922	934	Асен Василев	Асен Василев	PER	PER-Asen-Vasilev
+1133	1139	Хайнан	Хайнан	ORG	ORG-HNA-Group
+1313	1320	Франция	Франция	LOC	GPE-France
+1340	1350	Уанг Джиен	Уанг Джиен	PER	PER-Wang-Jian
+1384	1409	Консорциум Летище Пловдив	Консорциум Летище Пловдив	ORG	ORG-Airport-Plovdiv-Consortium
+1430	1454	Тракия икономическа зона	Тракия икономическа зона	ORG	ORG-Trakiya-Ikonomicheska-zona
+1478	1482	ПИМК	ПИМК	ORG	ORG-PIMK
+1650	1664	Летище Пловдив	Летище Пловдив	LOC	LOC-Plovdiv-aeroport
+1704	1729	Силк Роуд Пловдив Еърпорт	Силк Роуд Пловдив Еърпорт	ORG	ORG-Silk-Road-Plovdiv-Airport
+1932	1939	Крумово	Крумово	LOC	GPE-Krumovo
+1957	1971	Росен Желязков	Росен Желязков	PER	PER-Rosen-Zhelyazkov
+2092	2117	Консорциум Летище Пловдив	Консорциум Летище Пловдив	ORG	ORG-Airport-Plovdiv-Consortium
+2242	2245	БСП	БСП	ORG	ORG-BSP
+2441	2444	БСП	БСП	ORG	ORG-BSP
+2501	2515	Община Пловдив	Община Пловдив	ORG	ORG-Plovdiv-Municipality
+2554	2579	Консорциум Летище Пловдив	Консорциум Летище Пловдив	ORG	ORG-Airport-Plovdiv-Consortium
+2764	2774	Иван Тотев	Иван Тотев	PER	PER-Ivan-Totev
+2865	2879	Летище Пловдив	Летище Пловдив	LOC	LOC-Plovdiv-aeroport
+2895	2914	Бизнесът за Пловдив	Бизнесът за Пловдив	ORG	ORG-Biznesat-za-Plovdiv
+3101	3114	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+3226	3245	Бизнесът за Пловдив	Бизнесът за Пловдив	ORG	ORG-Biznesat-za-Plovdiv

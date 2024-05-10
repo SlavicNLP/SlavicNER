@@ -1,0 +1,30 @@
+0	7	Gazprom	Gazprom	ORG	ORG-Gazprom
+17	26	Finlandii	Finlandia	LOC	GPE-Finland
+37	50	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+100	107	Gazprom	Gazprom	ORG	ORG-Gazprom
+191	211	Gazociągu Północnego	Gazociąg Północny	PRO	PRO-Nord-Stream-2
+228	234	Polska	Polska	LOC	GPE-Poland
+236	243	Ukraina	Ukraina	LOC	GPE-Ukraine
+246	263	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+294	307	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+346	352	Polski	Polska	LOC	GPE-Poland
+369	386	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+432	438	Europy	Europa	LOC	LOC-Europe
+456	461	Rosji	Rosja	LOC	GPE-Russia
+469	478	Finlandii	Finlandia	LOC	GPE-Finland
+518	538	Gazociągu Północnego	Gazociąg Północny	PRO	PRO-Nord-Stream-2
+607	617	Szwajcarii	Szwajcaria	LOC	GPE-Switzerland
+625	641	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+706	715	Finlandii	Finlandia	LOC	GPE-Finland
+719	734	Morzu Bałtyckim	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+859	871	Nord Strem 2	Nord Strem 2	PRO	PRO-Nord-Stream-2
+898	915	Morza Bałtyckiego	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+941	952	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+963	968	Rosję	Rosja	LOC	GPE-Russia
+971	979	Niemcami	Niemcy	LOC	GPE-Germany
+988	996	Gazpromu	Gazprom	ORG	ORG-Gazprom
+1049	1056	Niemiec	Niemcy	LOC	GPE-Germany
+1058	1075	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1077	1084	Francji	Francja	LOC	GPE-France
+1086	1093	Austrii	Austria	LOC	GPE-Austria
+1096	1104	Holandii	Holandia	LOC	GPE-Holland

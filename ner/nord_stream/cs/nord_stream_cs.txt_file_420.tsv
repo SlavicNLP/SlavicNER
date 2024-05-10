@@ -1,0 +1,62 @@
+0	8	MACHÁČEK	MACHÁČEK	PER	PER-Jan-Machacek
+10	23	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+26	41	Česká republika	Česká republika	LOC	GPE-Czech-Republic
+43	48	PRAHA	PRAHA	LOC	GPE-Prague
+49	56	Reuters	Reuters	ORG	ORG-Reuters
+90	104	Baltským mořem	Baltské moře	LOC	LOC-Baltic-Sea
+105	118	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+129	135	Evropu	Evropa	LOC	LOC-Europe
+147	153	Evropu	Evropa	LOC	LOC-Europe
+244	259	Česká republika	Česká republika	LOC	GPE-Czech-Republic
+369	375	Evropě	Evropa	LOC	LOC-Europe
+376	382	Polsko	Polsko	LOC	GPE-Poland
+384	392	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+394	407	baltské státy	baltské státy	LOC	LOC-Baltic-countries
+410	419	Slovensko	Slovensko	LOC	GPE-Slovakia
+429	445	severských států	severské státy	LOC	LOC-Nordic-Countries
+457	463	Dánsko	Dánsko	LOC	GPE-Denmark
+469	476	Švédsko	Švédsko	LOC	GPE-Sweden
+550	563	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+574	589	Česká republika	Česká republika	LOC	GPE-Czech-Republic
+707	715	Německem	Německo	LOC	GPE-Germany
+762	775	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+794	802	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1020	1034	západní Evropy	západní Evropa	LOC	LOC-Western-Europe
+1059	1067	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+1092	1098	Polska	Polsko	LOC	GPE-Poland
+1100	1109	Slovenska	Slovensko	LOC	GPE-Slovakia
+1143	1158	České republiky	Česká republika	LOC	GPE-Czech-Republic
+1195	1208	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1304	1310	Evropy	Evropa	LOC	LOC-Europe
+1392	1403	anexi Krymu	anexe Krymu	EVT	EVT-Annexation-of-Crimea
+1482	1495	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1522	1528	Ruskem	Rusko	LOC	GPE-Russia
+1597	1610	Nord Stream 1	Nord Stream 1	PRO	PRO-Nord-Stream-1
+1713	1721	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+1756	1759	USA	USA	LOC	GPE-USA
+1761	1764	USA	USA	LOC	GPE-USA
+1835	1843	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+1863	1869	Polsko	Polsko	LOC	GPE-Poland
+1899	1903	NATO	NATO	ORG	ORG-NATO
+1925	1930	Rusku	Rusko	LOC	GPE-Russia
+1973	1987	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1988	1991	USA	USA	LOC	GPE-USA
+2009	2022	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2059	2065	Trumpa	Trump	PER	PER-Donald-Trump
+2130	2135	Rusko	Rusko	LOC	GPE-Russia
+2182	2188	Ruskem	Rusko	LOC	GPE-Russia
+2216	2221	Trump	Trump	PER	PER-Donald-Trump
+2285	2291	Ruskem	Rusko	LOC	GPE-Russia
+2298	2303	Němci	Němci	PER	GPE-Germany
+2330	2336	Ruskem	Rusko	LOC	GPE-Russia
+2350	2357	Trumpův	Trump	PER	PER-Donald-Trump
+2436	2442	Evropy	Evropa	LOC	LOC-Europe
+2444	2459	Česká republika	Česká republika	LOC	GPE-Czech-Republic
+2490	2503	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2548	2551	MPO	MPO	ORG	ORG-Ministry-of-Industry-and-Trade-Czech-Republic
+2552	2563	Milan Řepka	Milan Řepka	PER	PER-Milan-Repka
+2590	2598	iDnes.cz	iDnes.cz	PRO	PRO-iDnes.cz
+2624	2637	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2645	2661	Českou republiku	Česká republika	LOC	GPE-Czech-Republic
+2751	2762	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+2776	2792	Českou republiku	Česká republika	LOC	GPE-Czech-Republic

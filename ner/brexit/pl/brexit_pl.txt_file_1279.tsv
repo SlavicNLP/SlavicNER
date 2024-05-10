@@ -1,0 +1,62 @@
+0	19	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+55	61	Trumpa	Trump	PER	PER-Donald-Trump
+83	89	brexit	Brexit	EVT	EVT-Brexit
+109	117	Observer	Observer	PRO	PRO-The-Observer
+125	143	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+163	182	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+242	251	Facebooka	Facebook	PRO	PRO-Facebook
+280	283	USA	USA	LOC	GPE-USA
+314	328	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+400	407	brexitu	Brexit	EVT	EVT-Brexit
+509	518	Facebooka	Facebook	PRO	PRO-Facebook
+539	558	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+559	572	Alexander Nix	Alexander Nix	PER	PER-Alexander-Nix
+600	603	USA	USA	LOC	GPE-USA
+734	742	Guardian	Guardian	PRO	PRO-The-Guardian
+788	807	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+809	824	Brittany Kaiser	Brittany Kaiser	PER	PER-Brittany-Kaiser
+921	928	brexitu	Brexit	EVT	EVT-Brexit
+930	938	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+996	1041	Partii Niepodległości Zjednoczonego Królestwa	Partii Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+1043	1047	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+1073	1080	brexitu	Brexit	EVT	EVT-Brexit
+1082	1088	Kaiser	Kaiser	PER	PER-Brittany-Kaiser
+1150	1169	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+1218	1227	Guardiana	Guardian	PRO	PRO-The-Guardian
+1305	1309	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+1391	1410	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+1609	1617	Leave.UE	Leave.UE	ORG	ORG-Leave-EU
+1631	1638	brexitu	Brexit	EVT	EVT-Brexit
+1661	1680	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+2060	2066	Kaiser	Kaiser	PER	PER-Brittany-Kaiser
+2173	2192	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+2232	2246	Alexandra Nixa	Alexander Nix	PER	PER-Alexander-Nix
+2312	2323	Nigel Oakes	Nigel Oakes	PER	PER-Nigel-Oakes
+2427	2431	Nixa	Nix	PER	PER-Alexander-Nix
+2447	2450	SCL	SCL	ORG	ORG-SCL-Group
+2479	2498	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+2504	2509	Oakes	Oakes	PER	PER-Nigel-Oakes
+2700	2717	Departament Stanu	Departament Stanu	ORG	ORG-Department-of-State-USA
+2719	2724	Oakes	Oakes	PER	PER-Nigel-Oakes
+2730	2733	SCL	SCL	ORG	ORG-SCL-Group
+3039	3044	Iranu	Iran	LOC	GPE-Iran
+3097	3108	Defense One	Defense One	PRO	PRO-Defense-One
+3135	3138	SCL	SCL	ORG	ORG-SCL-Group
+3303	3311	Londynie	Londyn	LOC	GPE-London
+3312	3315	SCL	SCL	ORG	ORG-SCL-Group
+3373	3392	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+3416	3421	Rosją	Rosja	LOC	GPE-Russia
+3467	3485	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+3496	3509	Nigela Oakesa	Nigel Oakes	PER	PER-Nigel-Oakes
+3526	3531	Rosją	Rosja	LOC	GPE-Russia
+3584	3603	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+3665	3671	Łukoil	Łukoil	ORG	ORG-Lukoil
+3796	3813	Aleksandra Kogana	Aleksander Kogan	PER	PER-Alexander-Kogan
+3832	3837	Rosji	Rosja	LOC	GPE-Russia
+3881	3904	Uniwersytetem Cambridge	Uniwersytet Cambridge	ORG	ORG-University-of-Cambridge
+3918	3951	Uniwersytetem w Sankt Petersburgu	Uniwersytet w Sankt Petersburgu	ORG	ORG-Saint-Petersburg-State-University
+3964	3969	Kogan	Kogan	PER	PER-Alexander-Kogan
+4004	4013	Facebooka	Facebook	PRO	PRO-Facebook
+4104	4118	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+4177	4196	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+4214	4224	Senatu USA	Senat USA	ORG	ORG-United-States-Senate

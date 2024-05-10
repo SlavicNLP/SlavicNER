@@ -1,0 +1,26 @@
+0	3	МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+6	22	Световната банка	Световна банка	ORG	ORG-World-Bank
+58	70	коронавируса	коронавирус	EVT	EVT-Covid-19
+199	232	Международният валутен фонд (МВФ)	Международен валутен фонд (МВФ)	ORG	ORG-International-Monetary-Fund
+235	251	Световната банка	Световна банка	ORG	ORG-World-Bank
+424	447	епидемия от коронавирус	епидемия от коронавирус	EVT	EVT-Covid-19
+495	502	Ройтерс	Ройтерс	ORG	ORG-Reuters
+939	947	Covid-19	COVID-19	EVT	EVT-Covid-19
+1041	1067	световната финансова криза	световна финансова криза	EVT	EVT-World-Financial-Crisis
+1093	1155	Организацията за икономическо сътрудничество и развитие (ОИСР)	Организация за икономическо сътрудничество и развитие (ОИСР)	ORG	ORG-Organization-for-Economic-Co-operation-and-Development(OECD)
+1339	1342	Г-7	Г-7	ORG	ORG-G7
+1454	1478	коронавирусната епидемия	коронавирусна епидемия	EVT	EVT-Covid-19
+1481	1484	МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+1604	1616	коронавируса	коронавирус	EVT	EVT-Covid-19
+1619	1650	Механизмът за бърз кредит (RCF)	Механизъм за бърз кредит (RCF)	PRO	PRO-Mechanism-for-fast-credit(RCF)
+1653	1692	Инструментът за бързо финансиране (RFI)	Инструмент за бързо финансиране (RFI)	PRO	PRO-Instrument-for-rapid-financing(RFI)
+1846	1853	Еквадор	Еквадор	LOC	GPE-Ecuador
+1883	1886	МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+2000	2010	епидемията	епидемия	EVT	EVT-Epidemic
+2065	2071	Гвинея	Гвинея	LOC	GPE-Guinea
+2073	2080	Либерия	Либерия	LOC	GPE-Liberia
+2083	2094	Сиера Леоне	Сиера Леоне	LOC	GPE-Sierra-Leone
+2119	2138	епидемията от ебола	епидемия от ебола	EVT	EVT-Ebola
+2168	2171	МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+2172	2181	Гери Райс	Гери Райс	PER	PER-Geri-Rice
+2207	2213	Фондът	МВФ	ORG	ORG-International-Monetary-Fund

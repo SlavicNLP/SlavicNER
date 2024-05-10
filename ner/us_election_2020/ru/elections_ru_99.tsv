@@ -1,0 +1,153 @@
+32	35	США	США	LOC	GPE-USA
+56	62	Россию	Россия	LOC	GPE-Russia
+93	102	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+149	155	Москву	Москва	LOC	GPE-Moscow
+203	215	американский	американский	LOC	GPE-USA
+349	389	Министерства внутренней безопасности США	Министерство внутренней безопасности США	ORG	ORG-US-Department-of-Homeland-Security
+390	403	республиканец	республиканец	PER	ORG-Republican-Party-USA
+404	412	Чед Вулф	Чед Вулф	PER	PER-Chad-Wolf
+432	434	РФ	РФ	LOC	GPE-Russia
+454	462	демократ	демократ	PER	ORG-Democratic-Party-USA
+481	484	США	США	LOC	GPE-USA
+485	500	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+516	526	российские	российские	LOC	GPE-Russia
+576	587	Белого дома	Белый дом	ORG	ORG-The-White-House
+588	603	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+605	612	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+659	662	США	США	LOC	GPE-USA
+749	764	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+767	789	Республиканской партий	Республиканская партия	ORG	ORG-Republican-Party-USA
+823	829	России	Россия	LOC	GPE-Russia
+926	929	США	США	LOC	GPE-USA
+937	947	Лас-Крусес	Лас-Крусес	LOC	GPE-Las-Cruces
+970	988	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+1026	1028	РФ	РФ	LOC	GPE-Russia
+1076	1088	американские	американские	LOC	GPE-USA
+1134	1180	Министерства внутренней безопасности (МВБ) США	Министерство внутренней безопасности (МВБ) США	ORG	ORG-US-Department-of-Homeland-Security
+1181	1190	Чед Вульф	Чед Вульф	PER	PER-Chad-Wolf
+1210	1215	Axios	Axios	PRO	PRO-Axios
+1245	1281	Министерство внутренней безопасности	Министерство внутренней безопасности	ORG	ORG-US-Department-of-Homeland-Security
+1305	1325	Министерство юстиции	Министерство юстиции	ORG	ORG-US-Department-of-Justice
+1356	1362	Россия	Россия	LOC	GPE-Russia
+1407	1412	Вульф	Вульф	PER	PER-Chad-Wolf
+1468	1478	российская	российская	LOC	GPE-Russia
+1510	1539	американские выборы 2016 года	американские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+1633	1639	Москве	Москва	LOC	GPE-Moscow
+1718	1721	США	США	LOC	GPE-USA
+1746	1752	Россию	Россия	LOC	GPE-Russia
+1765	1769	Вулф	Вулф	PER	PER-Chad-Wolf
+1807	1816	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1874	1876	РФ	РФ	LOC	GPE-Russia
+2004	2010	России	Россия	LOC	GPE-Russia
+2030	2038	демократ	демократ	PER	ORG-Democratic-Party-USA
+2057	2060	США	США	LOC	GPE-USA
+2061	2076	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+2100	2123	«Атлантического совета»	«Атлантический совет»	ORG	ORG-Atlantic-Council
+2207	2213	Путина	Путин	PER	PER-Vladimir-Putin
+2216	2222	Кремля	Кремль	ORG	ORG-Kremlin
+2332	2339	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+2341	2347	Москва	Москва	LOC	GPE-Moscow
+2381	2396	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+2663	2672	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+2706	2712	Москвы	Москва	LOC	GPE-Moscow
+2755	2758	США	США	LOC	GPE-USA
+2814	2820	Россия	Россия	LOC	GPE-Russia
+2891	2894	США	США	LOC	GPE-USA
+2907	2914	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+2964	2975	российского	российский	LOC	GPE-Russia
+3009	3022	американскими	американский	LOC	GPE-USA
+3052	3070	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+3109	3112	США	США	LOC	GPE-USA
+3132	3147	Роберт О'Брайен	Роберт О'Брайен	PER	PER-Robert-O'Brien
+3176	3178	РФ	РФ	LOC	GPE-Russia
+3261	3273	американские	американские	LOC	GPE-USA
+3323	3326	СBS	СBS	PRO	ORG-CBS
+3338	3347	О'Брайена	О'Брайен	PER	PER-Robert-O'Brien
+3349	3355	Москва	Москва	LOC	GPE-Moscow
+3398	3401	США	США	LOC	GPE-USA
+3498	3510	американский	американский	LOC	GPE-USA
+3566	3619	Национального центра контрразведки и безопасности США	Национальный центр контрразведки и безопасности США	ORG	ORG-National-Security-Agency-NSA-USA
+3620	3634	Уильям Эванина	Уильям Эванина	PER	PER-William-Evanina
+3643	3649	Россию	Россия	LOC	GPE-Russia
+3724	3727	США	США	LOC	GPE-USA
+3744	3746	РФ	РФ	LOC	GPE-Russia
+3815	3824	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+3825	3836	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3868	3875	Эванины	Эванина	PER	PER-William-Evanina
+3964	3971	Кремлём	Кремль	ORG	ORG-Kremlin
+4000	4006	Трампа	Трам	PER	PER-Donald-Trump
+4028	4038	российские	российский	LOC	GPE-Russia
+4088	4091	США	США	LOC	GPE-USA
+4095	4105	демократов	демократ	PER	ORG-Democratic-Party-USA
+4106	4116	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4132	4138	Кремль	Кремль	ORG	ORG-Kremlin
+4207	4225	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+4239	4245	России	Россия	LOC	GPE-Russia
+4326	4333	Байдена	Байден	PER	PER-Joe-Biden
+4368	4374	Medium	Medium	PRO	PRO-Medium-online-platform
+4390	4401	российского	российский	LOC	GPE-Russia
+4480	4491	Белого дома	Белый дом	ORG	ORG-The-White-House
+4492	4505	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+4563	4575	американские	американские	LOC	GPE-USA
+4586	4594	демократ	демократ	PER	ORG-Democratic-Party-USA
+4595	4610	Крис Ван Холлен	Крис Ван Холлен	PER	PER-Christopher-Van-Hollen
+4613	4626	республиканец	республиканец	PER	ORG-Republican-Party-USA
+4627	4638	Марко Рубио	Марко Рубио	PER	PER-Marco-Rubio
+4673	4679	России	Россия	PER	GPE-Russia
+4701	4717	выборы 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+4811	4814	США	США	LOC	GPE-USA
+4828	4834	Россия	Россия	LOC	GPE-Russia
+4907	4918	российского	российский	LOC	GPE-Russia
+4930	4944	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+4957	4963	Москва	Москва	LOC	GPE-Moscow
+5054	5057	США	США	LOC	GPE-USA
+5232	5250	Александра Асафова	Александр Асафов	PER	PER-Alexander-Asafov
+5254	5263	демократы	демократ	PER	ORG-Democratic-Party-USA
+5267	5280	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+5300	5311	российского	российский	LOC	GPE-Russia
+5596	5602	Асафов	Асафов	PER	PER-Alexander-Asafov
+5614	5616	RT	RT	PRO	PRO-RT-Russia-Today
+5637	5699	Международного института гуманитарно-политических исследований	Международный институт гуманитарно-политических исследований	ORG	ORG-International-Institute-for-humanities-an
+5700	5715	Владимир Брутер	Владимир Брутер	PER	PER-Vladimir-Bruter
+5785	5787	РФ	РФ	LOC	GPE-Russia
+5865	5879	Минобороны США	Минобороны США	ORG	ORG-United-States-Department-of-Defense
+6059	6065	России	Россия	LOC	GPE-Russia
+6097	6109	Американским	американский	LOC	GPE-USA
+6246	6252	России	Россия	LOC	GPE-Russia
+6305	6308	США	США	LOC	GPE-USA
+6319	6324	Штаты	Штаты	LOC	GPE-USA
+6371	6373	RT	RT	PRO	PRO-RT-Russia-Today
+6387	6394	Асафова	Асафов	PER	PER-Alexander-Asafov
+6398	6410	американской	американская	LOC	GPE-USA
+6430	6441	российского	российский	LOC	GPE-Russia
+6507	6517	американцы	американцы	LOC	GPE-USA
+6590	6593	США	США	LOC	GPE-USA
+6706	6716	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+6724	6730	Москвы	Москва	LOC	GPE-Moscow
+6755	6761	Асафов	Асафов	PER	PER-Alexander-Asafov
+6805	6823	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+6871	6882	российского	российский	LOC	GPE-Russia
+6947	6957	демократов	демократ	PER	ORG-Democratic-Party-USA
+7060	7066	Брутер	Брутер	PER	PER-Vladimir-Bruter
+7128	7130	РФ	РФ	LOC	GPE-Russia
+7226	7232	России	Россия	LOC	GPE-Russia
+7309	7315	Москвы	Москва	LOC	GPE-Moscow
+7468	7474	Брутер	Брутер	PER	PER-Vladimir-Bruter
+7486	7489	США	США	LOC	GPE-USA
+7498	7508	демократов	демократ	PER	ORG-Democratic-Party-USA
+7511	7525	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+7595	7601	Россию	Россия	LOC	GPE-Russia
+7651	7669	Соединённых Штатах	Соединённые Штаты	LOC	GPE-USA
+7693	7699	Россию	Россия	LOC	GPE-Russia
+7845	7851	России	Россия	LOC	GPE-Russia
+7880	7883	США	США	LOC	GPE-USA
+7921	7933	американской	американская	LOC	GPE-USA
+7970	7991	«Атлантический совет»	«Атлантический совет»	ORG	ORG-Atlantic-Council
+7993	8030	Atlantic council of the United States	Atlantic council of the United States	ORG	ORG-Atlantic-Council
+8105	8107	РФ	РФ	LOC	GPE-Russia
+8119	8142	Генеральной прокуратуры	Генеральная прокуратура	ORG	ORG-GRU-(Russian-GU)
+8176	8182	rt.com	rt.com	PRO	PRO-rt.com
+8200	8214	Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+8286	8300	Симоньян М. С.	Симоньян М. С.	PER	PER-Margarita-Simonyan
+8325	8331	Москва	Москва	LOC	GPE-Moscow
+8333	8346	Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street

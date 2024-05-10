@@ -1,0 +1,123 @@
+45	51	Москва	Москва	LOC	GPE-Moscow
+64	76	евродепутати	евродепутати	PER	ORG-European-Parlament
+137	150	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+203	218	Северeн поток 2	Северeн поток 2	PRO	PRO-Nord-Stream-2
+261	275	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+303	311	Германия	Германия	LOC	GPE-Germany
+358	363	Русия	Русия	LOC	GPE-Russia
+386	397	Риа Новости	Риа Новости	ORG	ORG-RIA-Novosti
+469	477	Германия	Германия	LOC	GPE-Germany
+520	535	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+615	620	Путин	Путин	PER	PER-Vladimir-Putin
+633	635	ЕС	ЕС	ORG	ORG-European-Union
+718	724	Европа	Европа	LOC	LOC-Europe
+761	766	Сирия	Сирия	LOC	GPE-Syria
+788	793	Русия	Русия	LOC	GPE-Russia
+838	848	Башар Асад	Башар Асад	PER	PER-Bashar-al-Assad
+879	887	Германия	Германия	LOC	GPE-Germany
+890	904	Великобритания	Великобритания	LOC	GPE-Great-Britain
+939	946	Брекзит	Брекзит	EVT	EVT-Brexit
+983	985	ЕС	ЕС	ORG	ORG-European-Union
+1026	1031	Русия	Русия	LOC	GPE-Russia
+1118	1126	Рик Пери	Рик Пери	PER	PER-Rick-Perry
+1161	1176	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1181	1193	Турски поток	Турски поток	PRO	PRO-Turkish-Stream
+1237	1242	Русия	Русия	LOC	GPE-Russia
+1245	1251	Европа	Европа	LOC	LOC-Europe
+1289	1296	Украйна	Украйна	LOC	GPE-Ukraine
+1432	1448	Матеус Моравецки	Матеус Моравецки	PER	PER-Mateusz-Morawiecki
+1554	1559	Русия	Русия	LOC	GPE-Russia
+1580	1587	Украйна	Украйна	LOC	GPE-Ukraine
+1617	1623	Москва	Москва	LOC	GPE-Moscow
+1661	1667	Европа	Европа	LOC	LOC-Europe
+1760	1762	ЕС	ЕС	ORG	ORG-European-Union
+1994	1999	Русия	Русия	LOC	GPE-Russia
+2045	2051	Европа	Европа	LOC	LOC-Europe
+2105	2113	Германия	Германия	LOC	GPE-Germany
+2285	2291	Берлин	Берлин	LOC	GPE-Berlin
+2303	2308	София	София	LOC	GPE-Sofia
+2311	2319	Будапеща	Будапеща	LOC	GPE-Budapest
+2356	2368	Турски поток	Турски поток	PRO	PRO-Turkish-Stream
+2398	2410	Турски поток	Турски поток	PRO	PRO-Turkish-Stream
+2558	2565	Газпром	Газпром	ORG	ORG-Gazprom
+2606	2614	България	България	LOC	GPE-Bulgaria
+2820	2837	Тройната коалиция	Тройна коалиция	ORG	ORG-Troyna-koalitsiya
+2846	2859	Румен Овчаров	Румен Овчаров	PER	PER-Rumen-Ovcharov
+2889	2896	Газпром	Газпром	ORG	ORG-Gazprom
+2940	2946	Европа	Европа	LOC	LOC-Europe
+2985	3000	Георги Първанов	Георги Първанов	PER	PER-Georgi-Parvanov
+3152	3157	Хегел	Хегел	PER	PER-Hegel
+3367	3382	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+3397	3411	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+3616	3624	Германия	Германия	LOC	GPE-Germany
+3627	3636	Финландия	Финландия	LOC	GPE-Finland
+3748	3763	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+3931	3936	Дания	Дания	LOC	GPE-Denmark
+3939	3955	Съединените щати	Съединени щати	LOC	GPE-USA
+4004	4009	Дания	Дания	LOC	GPE-Denmark
+4316	4331	Северен поток 2	Северен поток 2	ORG	ORG-Nord-Stream-2-AG
+4334	4350	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+4419	4424	Дания	Дания	LOC	GPE-Denmark
+4614	4630	Съединените щати	Съединени щати	LOC	GPE-USA
+4658	4663	Русия	Русия	LOC	GPE-Russia
+4687	4704	Керченския пролив	Керченски пролив	LOC	LOC-Kerch-Strait
+4791	4806	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+4828	4834	Европа	Европа	LOC	LOC-Europe
+4848	4855	Украйна	Украйна	LOC	GPE-Ukraine
+4876	4888	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+5032	5037	Полша	Полша	LOC	GPE-Poland
+5040	5047	Украйна	Украйна	LOC	GPE-Ukraine
+5085	5100	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+5135	5143	Рик Пери	Рик Пери	PER	PER-Rick-Perry
+5283	5296	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+5304	5313	руснаците	руснаци	PER	GPE-Russia
+5402	5418	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+5525	5531	Европа	Европа	LOC	LOC-Europe
+5566	5571	Тръмп	Тръмп	PER	PER-Donald-Trump
+5625	5634	Централна	Централна	LOC	LOC-Central-Europe
+5637	5651	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+5720	5725	Русия	Русия	LOC	GPE-Russia
+5731	5738	Варшава	Варшава	LOC	GPE-Warsaw
+5739	5743	Пери	Пери	PER	PER-Rick-Perry
+5811	5826	Cheniere Energy	Cheniere Energy	ORG	ORG-Cheniere-Energy
+5862	5867	PGNiG	PGNiG	ORG	ORG-PGNiG
+5998	6003	PGNiG	PGNiG	ORG	ORG-PGNiG
+6055	6073	Venture Global LNG	Venture Global LNG	ORG	ORG-Venture-Global-LNG
+6089	6096	Украйна	Украйна	LOC	GPE-Ukraine
+6118	6125	Украйна	Украйна	LOC	GPE-Ukraine
+6184	6199	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+6304	6310	Европа	Европа	LOC	LOC-Europe
+6412	6420	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+6422	6435	Юри Виторенко	Юри Витренко	PER	PER-Yuriy-Vitrenko
+6496	6511	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+6642	6649	Газпром	Газпром	ORG	ORG-Gazprom
+6780	6787	Украйна	Украйна	LOC	GPE-Ukraine
+6862	6875	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+6932	6960	Християндемократическия съюз	Християндемократически съюз	ORG	ORG-Christlich-Demokratische-Union
+6978	6985	Хамбург	Хамбург	LOC	GPE-Hamburg
+7031	7038	Украйна	Украйна	LOC	GPE-Ukraine
+7138	7144	Меркел	Меркел	PER	PER-Angela-Merkel
+7165	7172	Украйна	Украйна	LOC	GPE-Ukraine
+7270	7277	Украйна	Украйна	LOC	GPE-Ukraine
+7279	7284	Русия	Русия	LOC	GPE-Russia
+7287	7307	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+7385	7389	Киев	Киев	LOC	GPE-Kiev
+7446	7453	Газпром	Газпром	ORG	ORG-Gazprom
+7475	7482	Украйна	Украйна	LOC	GPE-Ukraine
+7640	7647	Газпром	Газпром	ORG	ORG-Gazprom
+7782	7786	Киев	Киев	LOC	GPE-Kiev
+7841	7848	Газпром	Газпром	ORG	ORG-Gazprom
+7852	7862	Люксембург	Люксембург	LOC	GPE-Luxembourg
+7904	7917	Северен поток	Северен поток	ORG	ORG-Nord-Stream-AG
+7922	7937	Северен поток 2	Северен поток 2	ORG	ORG-Nord-Stream-2-AG
+7968	7975	Газпром	Газпром	ORG	ORG-Gazprom
+8107	8114	Газпром	Газпром	ORG	ORG-Gazprom
+8244	8253	Виторенко	Витренко	PER	PER-Yuriy-Vitrenko
+8269	8277	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+8369	8376	Газпром	Газпром	ORG	ORG-Gazprom
+8417	8424	Украйна	Украйна	LOC	GPE-Ukraine
+8535	8542	Газпром	Газпром	ORG	ORG-Gazprom
+8547	8555	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+8640	8655	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+8801	8808	Газпром	Газпром	ORG	ORG-Gazprom
+8833	8841	Екип нюз	Екип нюз	PRO	PRO-Ekipnews.com

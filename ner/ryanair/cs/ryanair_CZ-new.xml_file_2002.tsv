@@ -1,0 +1,15 @@
+57	62	Česku	Česko	LOC	GPE-Czech-Republic
+130	140	Boeing 737	Boeing 737	PRO	PRO-Boeing
+141	146	MAX 8	MAX 8	PRO	PRO-Boeing-737-Max-8
+149	154	MAX 9	MAX 9	PRO	PRO-Boeing-737-Max-9
+183	224	Evropská agentura pro bezpečnost letectví	Evropská agentura pro bezpečnost letectví	ORG	ORG-EASA-European-Aviation-Safety-Agency
+226	230	EASA	EASA	ORG	ORG-EASA-European-Aviation-Safety-Agency
+265	276	Pardubicích	Pardubice	LOC	GPE-Pardubice
+279	286	Ostravě	Ostrava	LOC	GPE-Ostrava
+289	318	Letišti Leoše Janáčka Ostrava	Letišti Leoše Janáčka Ostrava	LOC	LOC-Airport-Ostrava
+320	324	LLJO	LLJO	LOC	LOC-Airport-Ostrava
+328	335	Mošnově	Mošnov	LOC	GPE-Mosnov
+618	630	Jakub Unucka	Jakub Unucka	PER	PER-Jakub-Unucka
+632	635	ODS	ODS	ORG	ORG-ODS-czech-political-party
+730	740	SmartWings	SmartWings	ORG	ORG-SmartWings
+798	804	Unucka	Unucka	PER	PER-Jakub-Unucka

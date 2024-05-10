@@ -1,0 +1,33 @@
+16	25	Austrálii	Austrálie	LOC	GPE-Australia
+41	44	USA	USA	LOC	GPE-USA
+107	116	Austrálii	Austrálie	LOC	GPE-Australia
+346	386	Mezinárodní fond pro australskou přírodu	Mezinárodní fond pro australskou přírodu	ORG	ORG-WWF-World-Wildlife-Fund
+388	391	WWF	WWF	ORG	ORG-WWF-World-Wildlife-Fund
+558	577	Univerzity v Sydney	Univerzita v Sydney	ORG	ORG-Sydney-University
+578	593	Chrise Dickmana	Chris Dickman	PER	PER-Chris-Dickman
+1044	1047	WWF	WWF	ORG	ORG-WWF-World-Wildlife-Fund
+1048	1063	Dermot O'Gorman	Dermot O'Gorman	PER	PER-Dermot-O-Gorman
+1075	1096	koronaviru SARS-CoV-2	koronavirus SARS-CoV-2	EVT	EVT-Covid-19
+1124	1135	koronavirem	koronavirus	EVT	EVT-Covid-19
+1186	1193	Wu-chan	Wu-chan	LOC	GPE-Wuhan
+1302	1312	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1367	1378	koronavirus	koronavirus	EVT	EVT-Covid-19
+1419	1450	Světová zdravotnická organizace	Světová zdravotnická organizace	ORG	ORG-World-Health-Organization
+1452	1455	WHO	WHO	ORG	ORG-World-Health-Organization
+1586	1597	koronavirus	koronavirus	EVT	EVT-Covid-19
+1658	1661	WHO	WHO	ORG	ORG-World-Health-Organization
+1662	1684	koronavirovou pandemii	koronavirová pandemie	EVT	EVT-Covid-19
+1719	1730	Koronavirem	Koronavirus	EVT	EVT-Covid-19
+1795	1798	WHO	WHO	ORG	ORG-World-Health-Organization
+1890	1895	Česku	Česko	LOC	GPE-Czech-Republic
+1957	1968	koronavirem	koronavirus	EVT	EVT-Covid-19
+2023	2034	koronavirem	koronavirus	EVT	EVT-Covid-19
+2103	2109	Brexit	Brexit	EVT	EVT-Brexit
+2166	2172	brexit	brexit	EVT	EVT-Brexit
+2204	2239	Spojeného království Velké Británie	Spojené království Velké Británie	LOC	GPE-Great-Britain
+2242	2257	Severního Irska	Serverní Irsko	LOC	GPE-Northern-Ireland
+2260	2273	Evropské unii	Evropská unie	ORG	ORG-European-Union
+2309	2327	Spojené království	Spojené království	LOC	GPE-Great-Britain
+2349	2363	Evropskou unii	Evropská unie	ORG	ORG-European-Union
+2449	2451	EU	EU	ORG	ORG-European-Union
+2477	2490	britská vláda	britská vláda	ORG	ORG-British-Government

@@ -1,0 +1,70 @@
+19	22	США	США	LOC	GPE-USA
+23	29	Байден	Байден	PER	PER-Joe-Biden
+74	80	России	Россия	LOC	GPE-Russia
+81	88	Путиным	Путин	PER	PER-Vladimir-Putin
+111	114	США	США	LOC	GPE-USA
+115	121	Байден	Байден	PER	PER-Joe-Biden
+166	172	России	Россия	LOC	GPE-Russia
+173	180	Путиным	Путин	PER	PER-Vladimir-Putin
+188	191	США	США	LOC	GPE-USA
+194	200	России	Россия	LOC	GPE-Russia
+226	236	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+279	282	США	США	LOC	GPE-USA
+292	308	Владимиру Путину	Владимиру Путину	PER	PER-Vladimir-Putin
+326	337	Белого дома	Белый дом	ORG	ORG-The-White-House
+355	366	Белого дома	Белый дом	ORG	ORG-The-White-House
+367	377	Джен Псаки	Джен Псаки	PER	PER-Jen-Psaki
+402	408	Байден	Байден	PER	PER-Joe-Biden
+435	442	Путиным	Путин	PER	PER-Vladimir-Putin
+473	479	России	Россия	LOC	GPE-Russia
+482	513	американские выборы в 2020 году	американские выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+542	552	Навального	Навальний	PER	PER-Alexei-Navalny
+563	566	BBC	BBC	PRO	PRO-BBC
+570	576	Байден	Байден	PER	PER-Joe-Biden
+591	597	Путину	Путин	PER	PER-Vladimir-Putin
+624	634	Навального	Навальний	PER	PER-Alexei-Navalny
+655	666	Белого дома	Белый дом	ORG	ORG-The-White-House
+667	688	агентство Франс пресс	агентство Франс пресс 	PRO	PRO-Agence-France-Presse
+706	709	США	США	LOC	GPE-USA
+718	724	Путину	Путин	PER	PER-Vladimir-Putin
+728	740	американской	американская	LOC	GPE-USA
+751	758	Украины	Украина	LOC	GPE-Ukraine
+766	776	российской	российский	LOC	GPE-Russia
+789	795	Байден	Байден	PER	PER-Joe-Biden
+852	903	Договор о стратегических наступательных вооружениях	Договор о стратегических наступательных вооружениях	PRO	PRO-Strategic-Arms-Reduction-Treaty
+905	908	СНВ	СНВ	PRO	PRO-SORT-Strategic-Offensive-Reductions-Treaty
+978	985	Украины	Украина	LOC	GPE-Ukraine
+998	1003	Псаки	Псаки	PER	PER-Jen-Psaki
+1018	1028	Белом доме	Белый дом	ORG	ORG-The-White-House
+1044	1050	Кремля	Кремль	ORG	ORG-Kremlin
+1101	1110	Навальном	Навальный	PER	PER-Alexei-Navalny
+1115	1129	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1140	1155	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+1193	1196	США	США	LOC	GPE-USA
+1240	1247	Россией	Россия	LOC	GPE-Russia
+1250	1253	США	США	LOC	GPE-USA
+1465	1471	Кремля	Кремль	ORG	ORG-Kremlin
+1500	1506	Россия	Россия	LOC	GPE-Russia
+1509	1512	США	США	LOC	GPE-USA
+1600	1652	Договора о стратегических наступательных вооружениях	Договор о стратегических наступательных вооружениях	PRO	PRO-Strategic-Arms-Reduction-Treaty
+1656	1661	Путин	Путин	PER	PER-Vladimir-Putin
+1664	1670	Байден	Байден	PER	PER-Joe-Biden
+1762	1768	Москва	Москва	LOC	GPE-Moscow
+1771	1780	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1866	1871	Путин	Путин	PER	PER-Vladimir-Putin
+1883	1890	Госдуму	Госдума	ORG	ORG-Russia-The-State-Duma
+1926	1931	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+1945	1951	Кремля	Кремль	ORG	ORG-Kremlin
+1984	1990	Путина	Путин	PER	PER-Vladimir-Putin
+1993	2000	Байдана	Байдан	PER	PER-Joe-Biden
+2027	2030	США	США	LOC	GPE-USA
+2034	2060	Договора по открытому небу	Договор по открытому небу	PRO	PRO-The-Treaty-on-Open-Skies
+2088	2129	Совместного всеобъемлющего плана действий	Совместный всеобъемлющий план действий	PRO	PRO-Joint-Comprehensive-Plan-of-Action
+2133	2141	иранской	иранская	LOC	GPE-Iran
+2164	2170	Кремль	Кремль	ORG	ORG-Kremlin
+2214	2221	Украине	Украина	LOC	GPE-Ukraine
+2298	2304	России	Россия	LOC	GPE-Russia
+2370	2380	Навального	Навальний	PER	PER-Alexei-Navalny
+2408	2414	России	Россия	LOC	GPE-Russia
+2417	2420	США	США	LOC	GPE-USA
+2513	2519	Кремле	Кремль	ORG	ORG-Kremlin

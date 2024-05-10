@@ -1,0 +1,29 @@
+0	6	Niemcy	Niemcy	LOC	GPE-Germany
+23	26	USA	USA	LOC	GPE-USA
+37	50	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+62	74	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+167	180	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+207	214	Niemiec	Niemcy	LOC	GPE-Germany
+232	235	USA	USA	LOC	GPE-USA
+268	281	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+313	323	Amerykanie	Amerykanie	PER	GPE-USA
+499	511	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+536	539	USA	USA	LOC	GPE-USA
+610	624	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+702	712	Amerykanie	Amerykanie	PER	GPE-USA
+757	762	Rosji	Rosja	LOC	GPE-Russia
+809	814	Trump	Trump	PER	PER-Donald-Trump
+843	849	Kremla	Kreml	LOC	LOC-Kremlin
+906	912	Rosjan	Rosjanie	PER	GPE-Russia
+961	974	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1054	1060	Uniper	Uniper	ORG	ORG-Uniper
+1136	1139	USA	USA	LOC	GPE-USA
+1161	1175	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+1193	1204	Senacie USA	Senat USA	ORG	ORG-United-States-Senate
+1219	1222	USA	USA	LOC	GPE-USA
+1420	1432	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+1501	1514	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1582	1596	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+1646	1660	Peter Altmaier	Peter Altmaier	PER	PER-Peter-Altmaier
+1717	1720	USA	USA	LOC	GPE-USA
+1776	1789	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2

@@ -1,0 +1,45 @@
+30	38	COVID-19	COVID-19	EVT	EVT-Covid-19
+120	128	COVID-19	COVID-19	EVT	EVT-Covid-19
+147	173	Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+187	221	Министерството на здравеопазването	Министерство на здравеопазването	ORG	ORG-Ministry-of-Health-Bulgaria
+285	290	София	София	LOC	GPE-Sofia
+296	305	Кюстендил	Кюстендил	LOC	GPE-Kyustendil
+312	318	Смолян	Смолян	LOC	GPE-Smolyan
+385	393	COVID-19	COVID-19	EVT	EVT-Covid-19
+477	485	COVID-19	COVID-19	EVT	EVT-Covid-19
+615	623	COVID-19	COVID-19	EVT	EVT-Covid-19
+699	721	коронавирусна инфекция	коронавирусна инфекция	EVT	EVT-Covid-19
+787	813	Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+832	843	Благоевград	Благоевград	LOC	GPE-Blagoevgrad
+850	856	Бургас	Бургас	LOC	GPE-Burgas
+863	868	Варна	Варна	LOC	GPE-Varna
+875	889	Велико Търново	Велико Търново	LOC	GPE-Veliko-Tarnovo
+895	900	Видин	Видин	LOC	GPE-Vidin
+906	911	Враца	Враца	LOC	GPE-Vratsa
+917	924	Габрово	Габрово	LOC	GPE-Gabrovo
+930	936	Добрич	Добрич	LOC	GPE-Dobritch
+943	951	Кърджали	Кърджали	LOC	GPE-Kardzhali
+958	967	Кюстендил	Кюстендил	LOC	GPE-Kyustendil
+974	979	Ловеч	Ловеч	LOC	GPE-Lovetch
+985	992	Монтана	Монтана	LOC	GPE-Montana-Bulgaria
+999	1008	Пазарджик	Пазарджик	LOC	GPE-Pazardzhik
+1015	1021	Перник	Перник	LOC	GPE-Pernik
+1027	1033	Плевен	Плевен	LOC	GPE-Pleven
+1039	1046	Пловдив	Пловдив	LOC	GPE-Plovdiv
+1053	1057	Русе	Русе	LOC	GPE-Ruse
+1063	1071	Силистра	Силистра	LOC	GPE-Silistra
+1077	1083	Сливен	Сливен	LOC	GPE-Sliven
+1089	1095	Смолян	Смолян	LOC	GPE-Smolyan
+1102	1107	София	София	LOC	GPE-Sofia
+1115	1127	Стара Загора	Стара Загора	LOC	GPE-Stara-Zagora
+1134	1141	Хасково	Хасково	LOC	GPE-Haskovo
+1147	1152	Шумен	Шумен	LOC	GPE-Shumen
+1197	1205	COVID-19	COVID-19	EVT	EVT-Covid-19
+1287	1295	COVID-19	COVID-19	EVT	EVT-Covid-19
+1312	1322	МБАЛ Шумен	МБАЛ – Шумен	LOC	LOC-MBAL-Shumen
+1407	1415	COVID-19	COVID-19	EVT	EVT-Covid-19
+1477	1495	шуменската болница	шуменската болница	LOC	LOC-MBAL-Shumen
+1553	1561	PCR тест	PCR тест	PRO	PRO-PCR-Test
+1579	1601	коронавирусна инфекция	коронавирусна инфекция	EVT	EVT-Covid-19
+1780	1789	PCR теста	PCR теста	PRO	PRO-PCR-Test
+1900	1926	областната болница в Шумен	областна болница в Шумен	LOC	LOC-MBAL-Shumen

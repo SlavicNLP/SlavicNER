@@ -1,0 +1,27 @@
+31	39	covid-19	covid-19	EVT	EVT-Covid-19
+121	129	covid-19	covid-19	EVT	EVT-Covid-19
+177	193	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+215	228	Jessica Adams	Jessica Adams	PER	PER-Jessica-Adams
+252	268	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+373	381	Britanka	Britanka	PER	GPE-Great-Britain
+556	564	covid-19	covid-19	EVT	EVT-Covid-19
+600	606	Vuhanu	Vuhan	LOC	GPE-Wuhan
+610	619	Kitajskem	Kitajska	LOC	GPE-China
+621	629	Adamsova	Adams	PER	PER-Jessica-Adams
+735	742	Londonu	London	LOC	GPE-London
+756	765	Tasmaniji	Tasmanija	LOC	GPE-Tasmania
+863	868	božič	božič	EVT	EVT-Christmas
+921	924	ZDA	ZDA	LOC	GPE-USA
+972	982	Daily Mail	Daily Mail	PRO	PRO-Daily-Mail
+1006	1014	covid-19	covid-19	EVT	EVT-Covid-19
+1171	1176	božič	božič	EVT	EVT-Christmas
+1272	1277	Harry	Harry	PER	PER-Prince-Harry
+1281	1287	Meghan	Meghan	PER	PER-Meghan-Markle-Duchess-of-Sussex
+1331	1347	princev Williama	princ Williama	PER	PER-Prince-William
+1351	1358	Harryja	Harry	PER	PER-Prince-Harry
+1430	1436	Dianin	Diana	PER	PER-Diana-Princess-of-Wales
+1440	1449	Charlesov	Charles	PER	PER-Charles-Prince-of-Wales
+1497	1500	ZDA	ZDA	LOC	GPE-USA
+1546	1551	Harry	Harry	PER	PER-Prince-Harry
+1568	1581	Meghan Markle	Meghan Markle	PER	PER-Meghan-Markle-Duchess-of-Sussex
+1831	1843	Donald Trump	Donald Trump	PER	PER-Donald-Trump

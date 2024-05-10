@@ -1,0 +1,228 @@
+0	12	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+28	35	Байдена	Байден	PER	PER-Joe-Biden
+37	42	Трамп	Трамп	PER	PER-Donald-Trump
+56	71	штурм Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+110	120	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+173	188	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+215	230	штурм Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+374	383	Конгрессу	Конгресс	ORG	ORG-United-States-Congress
+419	430	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+450	455	Трамп	Трамп	PER	PER-Donald-Trump
+547	559	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+596	603	Байдена	Байден	PER	PER-Joe-Biden
+682	685	США	США	LOC	GPE-USA
+722	728	Трампа	Трамп	PER	PER-Donald-Trump
+730	733	США	США	LOC	GPE-USA
+789	795	Байден	Байден	PER	PER-Joe-Biden
+851	860	Капитолий	Капитолий	LOC	LOC-United-States-Captiol
+921	930	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+952	958	Трампа	Трамп	PER	PER-Donald-Trump
+969	990	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+991	1003	Ненси Пелоси	Ненси Пелоси	PER	PER-Nancy-Pelosi
+1012	1018	Трампа	Трамп	PER	PER-Donald-Trump
+1028	1034	Путина	Путин	PER	PER-Vladimir-Putin
+1103	1113	Капитолием	Капитолий	LOC	LOC-United-States-Captiol
+1192	1204	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+1275	1282	Байдена	Байден	PER	PER-Joe-Biden
+1285	1293	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+1348	1360	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1400	1403	США	США	LOC	GPE-USA
+1404	1417	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1576	1586	демократов	демократ	ORG	ORG-Democratic-Party-USA
+1664	1669	Трамп	Трамп	PER	PER-Donald-Trump
+1700	1711	Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+1782	1785	CNN	CNN	PRO	PRO-CNN
+1980	1991	Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+2157	2163	Трампа	Трамп	PER	PER-Donald-Trump
+2263	2282	Капитолийском холме	Капитолийский холм	LOC	LOC-Capitol-Hill
+2337	2348	OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+2390	2400	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2452	2462	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2581	2590	Сенат США	Сенат США	ORG	ORG-United-States-Senate
+2672	2675	CNN	CNN	PRO	PRO-CNN
+2685	2698	Капитолия США	Капитолий США	ORG	ORG-United-States-Congress
+2835	2844	Капитолия	Капитолий	LOC	LOC-United-States-Captiol
+2958	2968	Proud Boys	Proud Boys	ORG	ORG-Proud-Boys
+3005	3014	Капитолия	Капитолий	LOC	LOC-United-States-Captiol
+3030	3040	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+3041	3054	Мюриел Баузер	Мюриел Баузер	PER	PER-Muriel-Bowser
+3138	3144	Трампа	Трамп	PER	PER-Donald-Trump
+3156	3161	Трамп	Трамп	PER	PER-Donald-Trump
+3164	3171	Twitter	Twitter	PRO	PRO-Twitter
+3195	3205	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3271	3280	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+3300	3309	Капитолия	Капитолий	LOC	LOC-United-States-Captiol
+3353	3362	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+3496	3502	Сената	Сенат	ORG	ORG-United-States-Senate
+3528	3537	USA Today	USA Today	PRO	PRO-USA-Today
+3546	3571	Палаты представителей США	Палата представителей США	ORG	ORG-United-States-House-of-Representatives
+3572	3584	Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+3622	3631	Капитолий	Капитолий	LOC	LOC-United-States-Captiol
+3651	3660	Пентагоне	Пентагон	ORG	ORG-The-Pentagon
+3686	3706	Национальной гвардии	Национальная гвардия	ORG	ORG-United-States-National-Guard
+3709	3718	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3742	3763	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+3766	3772	Сената	Сенат	ORG	ORG-United-States-Senate
+3882	3895	Капитолия США	Капитолий США	ORG	ORG-United-States-Congress
+3920	3929	Капитолия	Капитолий	LOC	LOC-United-States-Captiol
+3966	3971	Трамп	Трамп	PER	PER-Donald-Trump
+3974	3981	Twitter	Twitter	PRO	PRO-Twitter
+4066	4079	Капитолии США	Капитолий США	LOC	ORG-United-States-Congress
+4238	4241	США	США	LOC	GPE-USA
+4274	4283	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+4350	4354	НАТО	НАТО	ORG	ORG-NATO
+4355	4371	Йенс Столтенберг	Йенс Столтенберг	PER	PER-Jens-Stoltenberg
+4394	4404	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+4415	4422	Twitter	Twitter	PRO	PRO-Twitter
+4469	4472	США	США	LOC	GPE-USA
+4511	4520	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+4534	4540	Трампа	Трамп	PER	PER-Donald-Trump
+4543	4550	Twitter	Twitter	PRO	PRO-Twitter
+4586	4595	Капитолий	Капитолий	LOC	LOC-United-States-Captiol
+4624	4633	Капитолии	Капитолий	LOC	LOC-United-States-Captiol
+4716	4725	Капитолий	Капитолий	LOC	LOC-United-States-Captiol
+4770	4779	Капитолия	Капитолий	LOC	LOC-United-States-Captiol
+4833	4847	New York Times	New York Times	PRO	PRO-The-New-York-Times
+4901	4915	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+4918	4928	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+4959	4968	Капитолию	Капитолий	LOC	LOC-United-States-Captiol
+5021	5033	Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+5050	5060	демократов	демократы	ORG	ORG-Democratic-Party-USA
+5061	5070	Чак Шумер	Чак Шумер	PER	PER-Chuck-Schumer
+5084	5090	Трампу	Трамп	PER	PER-Donald-Trump
+5123	5132	Капитолия	Капитолий	LOC	LOC-United-States-Captiol
+5174	5181	Reuters	Reuters	PRO	ORG-Reuters
+5194	5200	Сената	Сенат	ORG	ORG-United-States-Senate
+5229	5248	коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+5366	5372	Байден	Байден	PER	PER-Joe-Biden
+5387	5393	Трампа	Трамп	PER	PER-Donald-Trump
+5474	5483	Капитолий	Капитолий	LOC	LOC-United-States-Captiol
+5691	5697	Трампа	Трамп	PER	PER-Donald-Trump
+5783	5794	Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+5844	5850	Байден	Байден	PER	PER-Joe-Biden
+5862	5867	Трамп	Трамп	PER	PER-Donald-Trump
+5928	5937	Капитолий	Капитолий	LOC	LOC-United-States-Captiol
+6253	6258	Трамп	Трамп	PER	PER-Donald-Trump
+6300	6309	Капитолия	Капитолий	LOC	LOC-United-States-Captiol
+6345	6352	Украины	Украина	LOC	GPE-Ukraine
+6353	6367	Дмитрий Кулеба	Дмитрий Кулеба	PER	PER-Dmitry-Kuleba
+6370	6377	Twitter	Twitter	PRO	PRO-Twitter
+6414	6424	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+6444	6456	американская	американская	LOC	GPE-USA
+6513	6516	США	США	LOC	GPE-USA
+6527	6534	Украины	Украина	LOC	GPE-Ukraine
+6580	6586	Кулеба	Кулеба	PER	PER-Dmitry-Kuleba
+6614	6628	Великобритании	Великобритания	LOC	GPE-Great-Britain
+6629	6642	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+6645	6652	Twitter	Twitter	PRO	PRO-Twitter
+6670	6680	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+6749	6752	CNN	CNN	PRO	PRO-CNN
+6801	6846	Национального комитета Республиканской партии	Национального комитета Республиканской партии	ORG	ORG-Respublican-National-Committee USA
+6880	6889	Капитолия	Капитолий	LOC	LOC-United-States-Captiol
+6943	6953	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+7015	7018	США	США	LOC	GPE-USA
+7071	7085	Европарламента	Европарламент	ORG	ORG-European-Parliament
+7086	7099	Давид Сассоли	Давид Сассоли	PER	PER-David-Sassoli
+7109	7116	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
+7117	7127	Хейко Маас	Хейко Маас	PER	PER-Heiko-Maas
+7138	7145	Twitter	Twitter	PRO	PRO-Twitter
+7152	7157	Трамп	Трамп	PER	PER-Donald-Trump
+7206	7218	американских	американский	LOC	GPE-USA
+7267	7273	Анкара	Анкара	LOC	GPE-Ankara
+7298	7301	США	США	LOC	GPE-USA
+7349	7366	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+7433	7443	МИД Турции	МИД Турции	ORG	ORG-Ministry-of-Foreign-Affairs-Turkey
+7448	7450	ЕС	ЕС	LOC	ORG-European-Union
+7464	7467	США	США	LOC	GPE-USA
+7527	7537	Евросовета	Евросовет	ORG	ORG-European-Council
+7538	7550	Шарль Мишель	Шарль Мишель	PER	PER-Charles-Michel
+7608	7617	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+7795	7801	Сената	Сенат	ORG	ORG-United-States-Senate
+7824	7830	Трампа	Трамп	PER	PER-Donald-Trump
+7834	7843	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+7993	7999	Канады	Канада	LOC	GPE-Canada
+8000	8022	Франсуа-Филипп Шампань	Франсуа-Филипп Шампань	PER	PER-François-Philippe-Champagne
+8072	8082	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+8140	8156	штурме Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+8248	8258	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+8325	8338	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+8457	8468	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+8484	8492	Виргиния	Вирджиния	LOC	GPE-Virginia
+8553	8556	CNN	CNN	PRO	PRO-CNN
+8616	8625	Капитолий	Капитолий	LOC	LOC-United-States-Captiol
+8682	8693	Белого дома	Белый дом	ORG	ORG-The-White-House
+8720	8723	США	США	LOC	GPE-USA
+8724	8737	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+8779	8788	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+8896	8905	Капитолия	Капитолий	LOC	LOC-United-States-Captiol
+9012	9025	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+9084	9087	США	США	LOC	GPE-USA
+9088	9103	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+9190	9198	Беларуси	Беларусь	LOC	GPE-Belarus
+9199	9220	Александром Лукашенко	Александр Лукашенко	PER	PER-Alexander-Lukashenko
+9328	9338	американцы	американцы	PER	GPE-USA
+9399	9411	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+9494	9497	США	США	LOC	GPE-USA
+9566	9574	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+9589	9597	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+9637	9652	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+9706	9718	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+9731	9744	конгрессе США	Конгресс США	ORG	ORG-United-States-Congress
+9797	9809	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+9829	9836	Байдена	Байден	PER	PER-Joe-Biden
+9877	9887	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+9889	9892	США	США	LOC	GPE-USA
+9931	9951	Капитолийского холма	Капитолийский холм	LOC	LOC-Capitol-Hill
+9987	9992	Трамп	Трамп	PER	PER-Donald-Trump
+10009	10018	Белый дом	Белый дом	ORG	ORG-The-White-House
+10039	10044	Пенса	Пенс	PER	PER-Mike-Pence
+10106	10121	конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+10122	10127	Пенсу	Пенс	PER	PER-Mike-Pence
+10183	10189	Трампа	Трамп	PER	PER-Donald-Trump
+10223	10230	Twitter	Twitter	PRO	PRO-Twitter
+10232	10241	Instagram	Instagram	PRO	PRO-Instagram
+10244	10251	YouTube	YouTube	PRO	PRO-YouTube
+10292	10295	США	США	LOC	GPE-USA
+10327	10335	Германии	Германия	LOC	GPE-Germany
+10336	10350	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+10364	10377	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+10429	10439	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+10465	10472	Меркель	Меркель	PER	PER-Angela-Merkel
+10499	10504	Трамп	Трамп	PER	PER-Donald-Trump
+10543	10550	Канцлер	Канцлер	PER	PER-Angela-Merkel
+10594	10599	Трамп	Трамп	PER	PER-Donald-Trump
+10750	10753	США	США	LOC	GPE-USA
+10754	10762	Чед Вулф	Чед Вулф	PER	PER-Chad-Wolf
+10782	10785	США	США	LOC	GPE-USA
+10786	10801	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+10820	10830	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+10991	11001	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+11093	11103	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+11104	11117	Мюриэл Баузер	Мюриэл Баузер	PER	PER-Muriel-Bowser
+11148	11154	Трампа	Трамп	PER	PER-Donald-Trump
+11164	11173	Капитолия	Капитолия	LOC	LOC-United-States-Captiol
+11211	11217	Байден	Байден	PER	PER-Joe-Biden
+11343	11352	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+11374	11380	Трампа	Трамп	PER	PER-Donald-Trump
+11400	11409	Капитолия	Капитолия	ORG	ORG-United-States-Capitol
+11470	11515	Национального комитета Демократической партии	Национальный комитет Демократической партии	ORG	ORG-Democratic-National-Committee
+11518	11557	Республиканского национального комитета	Республиканский национальный комитет	ORG	ORG-Republican-National-Committee
+11585	11594	Капитолия	Капитолий	LOC	LOC-United-States-Captiol
+11632	11640	ABC News	ABC News	PRO	PRO-ABC-News
+11659	11680	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+11681	11693	Ненси Пелоси	Ненси Пелоси	PER	PER-Nancy-Pelosi
+11702	11708	Трампа	Трамп	PER	PER-Donald-Trump
+11730	11736	России	Россия	LOC	GPE-Russia
+11737	11754	Владимира) Путина	Владимир Путин	PER	PER-Vladimir-Putin
+11765	11771	Путина	Путин	PER	PER-Vladimir-Putin
+11855	11868	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+11898	11904	Пелоси	Пелоси	PER	PER-Nancy-Pelosi
+11946	11961	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+11975	11981	Трампа	Трамп	PER	PER-Donald-Trump
+12050	12066	штурма Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+12069	12079	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+12109	12115	Трампа	Трамп	PER	PER-Donald-Trump
+12233	12245	американские	американский	LOC	GPE-USA
+12255	12268	Джейк Анджели	Джейк Анджели	PER	PER-Jake-Angeli
+12310	12315	QAnon	QAnon	ORG	ORG-QAnon
+12347	12356	демократы	демократы	ORG	ORG-Democratic-Party-USA

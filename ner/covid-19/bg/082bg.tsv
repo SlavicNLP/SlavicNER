@@ -1,0 +1,44 @@
+27	38	коронавирус	коронавирус	EVT	EVT-Covid-19
+97	105	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+109	114	Китай	Китай	LOC	GPE-China
+160	164	Ухан	Ухан	LOC	GPE-Wuhan
+200	208	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+284	296	коронавируса	коронавирус	EVT	EVT-Covid-19
+298	303	Пекин	Пекин	LOC	GPE-Beijing
+345	350	Китай	Китай	LOC	GPE-China
+358	368	Дойче веле	Дойче веле	PRO	PRO-Deutsche-Welle
+436	440	Ухан	Ухан	LOC	GPE-Wuhan
+665	670	Китай	Китай	LOC	GPE-China
+725	735	Sars-CoV-2	Sars-CoV-2	EVT	EVT-Covid-19
+767	775	Ковид-19	Ковид-19	EVT	EVT-Covid-19
+796	804	Facebook	Facebook	PRO	PRO-Facebook
+817	832	Народен вестник	Народен вестник	PRO	PRO-The-People's-Daily-China
+852	884	Китайската комунистическа партия	Китайска комунистическа партия	ORG	ORG-Chinese-Communist-Party-(CCP)
+961	974	коронавирусът	коронавирус	EVT	EVT-Covid-19
+991	995	Ухан	Ухан	LOC	GPE-Wuhan
+1123	1128	Китай	Китай	LOC	GPE-China
+1138	1143	Индия	Индия	LOC	GPE-India
+1146	1152	Италия	Италия	LOC	GPE-Italy
+1212	1242	китайското външно министерство	Китайско външно министерство	ORG	ORG-Ministry-of-Foreign-Affairs-of-the-People's-Republic-of-China
+1308	1313	Китай	Китай	LOC	GPE-China
+1547	1555	Ковид-19	Ковид-19	EVT	EVT-Covid-19
+1574	1579	Индия	Индия	LOC	GPE-India
+1588	1592	Ухан	Ухан	LOC	GPE-Wuhan
+1662	1668	Италия	Италия	LOC	GPE-Italy
+1702	1738	Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+1857	1862	Китай	Китай	LOC	GPE-China
+1985	1990	Китай	Китай	LOC	GPE-China
+2307	2324	Андреас Дотцингер	Андреас Дотцингер	PER	PER-Andreas-Dotzauer
+2370	2373	АРД	АРД	PRO	PRO-ARD-Television
+2599	2603	Ухан	Ухан	LOC	GPE-Wuhan
+2789	2794	Хубей	Хубей	LOC	GPE-Hubei
+2892	2896	Ухан	Ухан	LOC	GPE-Wuhan
+3189	3192	СЗО	СЗО	ORG	ORG-WHO
+3290	3294	Ухан	Ухан	LOC	GPE-Wuhan
+3394	3399	Пекин	Пекин	LOC	GPE-Beijing
+3427	3432	Пекин	Пекин	LOC	GPE-Beijing
+3548	3551	СЗО	СЗО	ORG	ORG-WHO
+3658	3662	Ухан	Ухан	LOC	GPE-Wuhan
+3677	3680	СЗО	СЗО	ORG	ORG-WHO
+3725	3730	Пекин	Пекин	LOC	GPE-Beijing
+3875	3880	Китай	Китай	LOC	GPE-China

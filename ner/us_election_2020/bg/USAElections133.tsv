@@ -1,0 +1,66 @@
+12	19	Webcafe	Webcafe	PRO	PRO-Webcafe.bg
+21	50	Джоузеф Робинет Байдън-младши	Джоузеф Робинет Байдън-младши	PER	PER-Joe-Biden
+67	90	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+118	121	САЩ	САЩ	LOC	GPE-USA
+166	175	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+177	183	Байдън	Байдън	PER	PER-Joe-Biden
+290	298	Делауеър	Делауеър	LOC	GPE-Delaware
+369	372	САЩ	САЩ	LOC	GPE-USA
+499	522	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+583	595	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+662	671	демократи	демократи	PER	ORG-Democratic-Party-USA
+675	685	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+721	729	Скрантън	Скрентън	LOC	GPE-Scranton
+756	767	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+844	867	университета в Делауеър	Университет в Делауеър	ORG	ORG-University-of-Delaware
+948	962	Джон Ф. Кенеди	Джон Ф. Кенеди	PER	PER-John-F-Kennedy
+1013	1044	Юридическия факултет в Сиракуза	Юридически факултет в Сиракуза	ORG	ORG-College-of-Law-Syracuse-University
+1092	1105	Нейлия Хънтър	Нейлия Хънтър	PER	PER-Neilia-Hunter
+1271	1294	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+1354	1362	Ню Касъл	Ню Касъл	LOC	GPE-New-Castle-County
+1436	1442	Байдън	Байдън	PER	PER-Joe-Biden
+1464	1477	републиканеца	републиканец	PER	ORG-Republican-Party-USA
+1478	1492	Дж. Калеб Богс	Дж. Калеб Богс	PER	PER-J-Caleb-Boggs
+1496	1509	Сената на САЩ	Сената на САЩ	ORG	ORG-United-States-Senate
+1588	1594	Байдън	Байдън	PER	PER-Joe-Biden
+1631	1638	Сенатор	Сенат	ORG	ORG-United-States-Senate
+1764	1793	Комисията по външни отношения	Комисия по външни отношения	ORG	ORG-Senate-Foreign-Relations-Committee
+1809	1815	Байдън	Байдън	PER	PER-Joe-Biden
+1869	1872	САЩ	САЩ	LOC	GPE-USA
+1917	1928	демократите	демократи	PER	ORG-Democratic-Party-USA
+2011	2019	Сиракуза	Сиракуза	LOC	GPE-Syracuse
+2095	2101	Байдън	Байдън	PER	PER-Joe-Biden
+2249	2260	демократите	демократи	PER	ORG-Democratic-Party-USA
+2261	2272	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+2344	2358	републиканците	републиканци	PER	ORG-Republican-Party-USA
+2369	2381	Джон МакКейн	Джон МакКейн	PER	PER-John-McCain
+2405	2411	Аляска	Аляска	LOC	GPE-Alaska
+2414	2425	Сара Пейлин	Сара Пейлин	PER	PER-Sarah-Palin
+2439	2444	Обама	Обама	PER	PER-Barack-Obama
+2496	2502	Байдън	Байдън	PER	PER-Joe-Biden
+2557	2560	САЩ	САЩ	LOC	GPE-USA
+2655	2669	републиканците	републиканци	PER	ORG-Republican-Party-USA
+2670	2679	Мит Ромни	Мит Ромни	PER	PER-Mitt-Romney
+2716	2725	Пол Райън	Пол Райън	PER	PER-Paul-Ryan
+2737	2742	Обама	Обама	PER	PER-Barack-Obama
+2745	2751	Байдън	Байдън	PER	PER-Joe-Biden
+2876	2885	Обамакеър	Обамакеър	PRO	PRO-Obamacare
+2923	2929	Байдън	Байдън	PER	PER-Joe-Biden
+2930	2932	Бо	Бо	PER	PER-Beau-Biden
+3048	3054	Байдън	Байдън	PER	PER-Joe-Biden
+3105	3116	демократите	демократи	PER	ORG-Democratic-Party-USA
+3320	3331	демократите	демократи	PER	ORG-Democratic-Party-USA
+3335	3360	Пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Pandemic
+3407	3416	демократи	демократи	PER	ORG-Democratic-Party-USA
+3500	3513	Бърни Сандърс	Бърни Сандърс	PER	PER-Bernie-Sanders
+3572	3583	демократите	демократи	PER	ORG-Democratic-Party-USA
+3622	3628	Байдън	Байдън	PER	PER-Joe-Biden
+3829	3841	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3854	3860	Байдън	Байдън	PER	PER-Joe-Biden
+3990	3993	САЩ	САЩ	LOC	GPE-USA
+3996	4006	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+4029	4042	Нейлия Хънтър	Нейлия Хънтър	PER	PER-Neilia-Hunter
+4149	4154	Наоми	Наоми	PER	PER-Naomi-Biden
+4194	4200	Байдън	Байдън	PER	PER-Joe-Biden
+4221	4232	Джил Байдън	Джил Байдън	PER	PER-Jill-Biden
+4286	4290	Ашли	Ашли	PER	PER-Ashley-Biden

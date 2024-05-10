@@ -1,0 +1,23 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+13	27	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+101	108	Брекзит	Брекзит	EVT	EVT-Brexit
+192	206	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+239	249	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+271	280	Сандхърст	Сандхърст	ORG	ORG-Royal-Military-Academy-Sandhurst
+389	396	Брекзит	Брекзит	EVT	EVT-Brexit
+479	486	Брекзит	Брекзит	EVT	EVT-Brexit
+708	718	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+771	777	Лондон	Лондон	LOC	GPE-London
+780	785	Париж	Париж	LOC	GPE-Paris
+852	857	Чинук	Чинук	PRO	PRO-Chinook
+880	884	Мали	Мали	LOC	GPE-Mali
+1002	1016	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+1023	1030	Франция	Франция	LOC	GPE-France
+1069	1083	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1098	1102	НАТО	НАТО	ORG	ORG-NATO
+1105	1112	Естония	Естония	LOC	GPE-Estonia
+1120	1130	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1134	1143	Сандхърст	Сандхърст	ORG	ORG-Royal-Military-Academy-Sandhurst
+1330	1344	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1460	1464	Кале	Кале	LOC	GPE-Calais
+1533	1539	Лондон	Лондон	LOC	GPE-London

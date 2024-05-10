@@ -1,0 +1,23 @@
+0	12	Вибори у США	Вибори у США	EVT	EVT-2020-United-States-Presidential-Election
+14	20	Байден	Байден	PER	PER-Joe-Biden
+30	39	Міннесоті	Міннесота	LOC	GPE-Minnesota
+119	139	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+143	150	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+162	172	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+188	197	Міннесота	Міннесота	LOC	GPE-Minnesota
+256	274	Європейська правда	Європейська правда	ORG	PRO-European-Truth
+292	300	Politico	Politico	PRO	PRO-Politico
+347	353	Байден	Байден	PER	PER-Joe-Biden
+384	397	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+424	431	Байдена	Байден	PER	PER-Joe-Biden
+434	443	Міннесоті	Міннесота	LOC	GPE-Minnesota
+538	553	Річарда Ніксона	Річард Ніксон	PER	PER-Richard-Nixon
+569	575	Байден	Байден	PER	PER-Joe-Biden
+592	599	Аризоні	Аризона	LOC	GPE-Arizona
+700	706	Неваді	Невада	LOC	GPE-Nevada
+880	886	Байден	Байден	PER	PER-Joe-Biden
+938	947	Іллінойсі	Іллінойс	LOC	GPE-Illinois
+949	957	Вермонті	Вермонт	LOC	GPE-Vermont
+959	967	Делавері	Делавер	LOC	GPE-Delaware
+969	981	Массачусетсі	Массачусетс	LOC	GPE-Massachusetts
+983	992	Мериленді	Мериленд	LOC	GPE-Maryland

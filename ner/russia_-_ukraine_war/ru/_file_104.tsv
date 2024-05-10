@@ -1,0 +1,59 @@
+0	9	Австралия	Австралия	LOC	GPE-Australia
+32	40	Газпрома	Газпром	ORG	ORG-Gazprom
+44	54	Транснефти	Транснефть	ORG	ORG-Transneft
+58	61	РЖД	РЖД	ORG	ORG-Russian-Railways
+70	79	Австралии	Австралия	LOC	GPE-Australia
+235	240	КамАЗ	КамАЗ	ORG	ORG-Kamaz
+242	278	Новороссийский морской торговый порт	Новороссийский морской торговый порт	ORG	ORG-Novorossiysk-Commercial-Sea-Port
+280	294	Росэлектроника	Росэлектроника	ORG	ORG-Ruselectronics
+296	336	Объединенная судостроительная корпорация	Объединенная судостроительная корпорация	ORG	ORG-United-Shipbuilding-Corporation
+339	345	Севмаш	Севмаш	ORG	ORG-Sevmash
+348	354	АЛРОСА	АЛРОСА	ORG	ORG-Alrosa
+357	367	Совкомфлот	Совкомфлот	ORG	ORG-Sovkomflot
+370	373	РЖД	РЖД	ORG	ORG-Russian-Railways
+376	383	Газпром	Газпром	ORG	ORG-Gazprom
+387	400	Газпром нефть	Газпромнефть	ORG	ORG-Gazpromneft
+404	414	Транснефть	Транснефть	ORG	ORG-Transneft
+418	428	Ростелеком	Ростелеком	ORG	ORG-Rostelecom
+432	440	РусГидро	РусГидро	ORG	ORG-RusHydro
+444	449	Согаз	Согаз	ORG	ORG-Sogaz
+452	461	Австралия	Австралия	LOC	GPE-Australia
+507	514	россиян	россияне	PER	GPE-Russia
+575	591	Владимиру Путину	Владимир Путин	PER	PER-Vladimir-Putin
+618	632	Сергею Лаврову	Сергей Лавров	PER	PER-Sergey-Lavrov
+640	650	Минобороны	Минобороны	ORG	ORG-Russian-Ministry-of-Defence
+651	663	Сергею Шойгу	Сергей Шойгу	PER	PER-Sergei-Shoigu
+682	699	Михаилу Мишустину	Михаил Мишустин	PER	PER-Mikhail-Mishustin
+740	780	Фонд национального благосостояния России	Фонд национального благосостояния России	ORG	ORG-Russian-National-Wealth-Fund
+783	789	Минфин	Минфин	ORG	ORG-Chancellor-of-the-Exchequer
+799	807	Сбербанк	Сбербанк	ORG	ORG-Sberbank-of-Russia
+809	820	Газпромбанк	Газпромбанк	ORG	ORG-Gazprom
+822	828	ВЭБ.РФ	ВЭБ.РФ	ORG	ORG-VAB.RF
+830	833	ВТБ	ВТБ	ORG	ORG-VTB-Russia
+835	849	Россельхозбанк	Россельхозбанк	ORG	ORG-Rosselhoz-Bank
+851	861	Совкомбанк	Совкомбанк	ORG	ORG-Sovkombank
+863	874	Новикомбанк	Новикомбанк	ORG	ORG-Novikombank
+876	886	Альфа-банк	Альфа-банк	ORG	ORG-Alpha-Bank
+889	914	Московский кредитный банк	Московский кредитный банк	ORG	ORG-Credit-Bank-of-Moscow
+925	928	РБК	РБК	ORG	ORG-RBK-Group
+978	992	Олег Дерипаска	Олег Дерипаска	PER	PER-Oleg-Deripaska
+994	1012	Виктор Вексельберг	Виктор Вексельберг	PER	PER-Viktor-Vekselberg
+1014	1029	Роман Абрамович	Роман Абрамович	PER	PER-Roman-Abramovich
+1063	1071	Газпрома	Газпром	ORG	ORG-Gazprom
+1073	1087	Алексей Миллер	Алексей Миллер	PER	PER-Aleksey-Miller
+1111	1118	Ростеха	Ростех	ORG	ORG-RosTechRussia
+1120	1134	Сергей Чемезов	Сергей Чемезов	PER	PER-Sergey-Chemezov
+1190	1194	МИДа	МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+1195	1209	Марию Захарову	Мария Захарова	PER	PER-Maria-Zaharova
+1250	1265	Дмитрия Пескова	Дмитрий Песков	PER	PER-Dmitry-Peskov
+1280	1299	Владимира Соловьева	Владимир Соловьев	PER	PER-Vladimir-Solovyev
+1398	1404	Россию	Россия	LOC	GPE-Russia
+1706	1720	российский МИД	российский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+1740	1752	австралийцам	австралиец	PER	GPE-Australia
+1835	1851	Скотта Моррисона	Скотт Моррисон	PER	PER-Scott-Morrison
+1877	1889	Карен Эндрюс	Карен Эндрюс	PER	PER-Karen-Andrews
+1897	1904	Минфина	Минфин	ORG	ORG-Chancellor-of-the-Exchequer
+1905	1921	Саймой Бирмингем	Сайма Бирмингем	PER	PER-Saima-Birmingham
+1940	1954	Питера Даттона	Питер Даттон	PER	PER-Peter-Dutton
+1962	1966	МИДа	МИД	ORG	ORG-Foreign-Office
+1967	1977	Мариз Пэйн	Мариз Пэйн	PER	Per-Marise-Payne

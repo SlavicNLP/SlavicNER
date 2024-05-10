@@ -1,0 +1,42 @@
+0	5	Путин	Путин	PER	PER-Vladimir-Putin
+48	54	Байдън	Байдън	PER	PER-Joe-Biden
+128	131	САЩ	САЩ	LOC	GPE-USA
+176	187	демократите	демократи	PER	ORG-Democratic-Party-USA
+229	243	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+276	288	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+423	433	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+512	517	Путин	Путин	PER	PER-Vladimir-Putin
+727	736	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+913	918	Путин	Путин	PER	PER-Vladimir-Putin
+929	934	Тръмп	Тръмп	PER	PER-Donald-Trump
+994	999	Русия	Русия	LOC	GPE-Russia
+1121	1132	демократите	демократи	PER	ORG-Democratic-Party-USA
+1134	1140	Байдън	Байдън	PER	PER-Joe-Biden
+1218	1223	START	START	PRO	PRO-START
+1370	1375	Путин	Путин	PER	PER-Vladimir-Putin
+1416	1439	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+1461	1482	Комунистическа партия	Комунистическа партия	ORG	ORG-Communist-Party-of-Russia
+1612	1615	САЩ	САЩ	LOC	GPE-USA
+1660	1671	демократите	демократи	PER	ORG-Democratic-Party-USA
+1837	1860	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+1871	1876	Путин	Путин	PER	PER-Vladimir-Putin
+1949	1961	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2042	2045	ФБР	ФБР	ORG	ORG-FBI
+2193	2196	САЩ	САЩ	LOC	GPE-USA
+2210	2216	Москва	Москва	LOC	GPE-Moscow
+2265	2270	Тръмп	Тръмп	PER	PER-Donald-Trump
+2292	2298	Байдън	Байдън	PER	PER-Joe-Biden
+2318	2323	Путин	Путин	PER	PER-Vladimir-Putin
+2536	2541	Русия	Русия	LOC	GPE-Russia
+2547	2550	САЩ	САЩ	LOC	GPE-USA
+2571	2576	START	START	PRO	PRO-START
+2614	2619	Путин	Путин	PER	PER-Vladimir-Putin
+2646	2649	САЩ	САЩ	LOC	GPE-USA
+2687	2692	Русия	Русия	LOC	GPE-Russia
+2741	2746	Тръмп	Тръмп	PER	PER-Donald-Trump
+2810	2815	Тръмп	Тръмп	PER	PER-Donald-Trump
+2856	2861	Русия	Русия	LOC	GPE-Russia
+2908	2917	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2931	2936	Путин	Путин	PER	PER-Vladimir-Putin
+3094	3103	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3106	3112	Москва	Москва	LOC	GPE-Moscow

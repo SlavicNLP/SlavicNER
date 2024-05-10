@@ -1,0 +1,44 @@
+0	10	Британците	британци	PER	GPE-Great-Britain
+54	68	Великобритания	Великобритания	LOC	GPE-Great-Britain
+115	123	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+324	331	Ройтерс	Ройтерс	ORG	ORG-Reuters
+344	357	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+426	438	коронавируса	коронавирус	EVT	EVT-Covid-19
+451	465	Великобритания	Великобритания	LOC	GPE-Great-Britain
+556	583	Националната здравна служба	Национална здравна служба	ORG	ORG-National-Health-Service-UK
+593	599	Англия	Англия	LOC	GPE-Great-Britain
+612	620	КОВИД-19	КОВИД-19	EVT	EVT-Covid-19
+830	832	АП	АП	ORG	ORG-AP-The-Associated-Press
+1030	1040	британците	британци	PER	GPE-Great-Britain
+1049	1057	КОВИД-19	КОВИД-19	EVT	EVT-Covid-19
+1066	1073	Джонсън	Джонсън	PER	PER-Boris-Johnson
+1076	1090	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1128	1133	Ковид	КОВИД-19	EVT	EVT-Covid-19
+1150	1157	Пфайзер	Пфайзер	ORG	ORG-Pfizer
+1158	1165	Бионтех	Бионтех	ORG	ORG-BioNTech
+1171	1183	Астра Зенека	Астра Зенека	ORG	ORG-AstraZeneca
+1184	1207	Оксфордския университет	Оксфордски университет	ORG	ORG-University-of-Oxford
+1499	1507	КОВИД-19	КОВИД-19	EVT	EVT-Covid-19
+1594	1605	Майкъл Гоув	Майкъл Гоув	PER	PER-Michael-Gove
+1866	1878	коронавируса	коронавирус	EVT	EVT-Covid-19
+2008	2014	Англия	Англия	LOC	GPE-Great-Britain
+2671	2678	Джонсън	Джонсън	PER	PER-Boris-Johnson
+2694	2700	Англия	Англия	LOC	GPE-Great-Britain
+2730	2739	Шотландия	Шотландия	LOC	GPE-Scotland
+2741	2745	Уелс	Уелс	LOC	GPE-Wales
+2748	2764	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2805	2812	Ройтерс	Ройтерс	ORG	ORG-Reuters
+2851	2860	Шотландия	Шотландия	LOC	GPE-Scotland
+2861	2876	Никола Стърджън	Никола Стърджън	PER	PER-Nicola-Sturgeon
+3065	3069	Уелс	Уелс	LOC	GPE-Wales
+3163	3179	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+3240	3243	ДПА	ДПА	ORG	ORG-DPA
+3246	3250	Гоув	Гоув	PER	PER-Michael-Gove
+3285	3295	Риши Сунак	Риши Сунак	PER	PER-Rishi-Sunak
+3522	3536	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3606	3614	КОВИД-19	КОВИД-19	EVT	EVT-Covid-19
+3625	3632	Ройтерс	Ройтерс	ORG	ORG-Reuters
+3859	3870	Майкъл Гоув	Майкъл Гоув	PER	PER-Michael-Gove
+3883	3893	Франс прес	Франс прес	ORG	ORG-France-Presse
+4173	4176	АФП	АФП	ORG	ORG-France-Presse
+4236	4249	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson

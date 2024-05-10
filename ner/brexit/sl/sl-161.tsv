@@ -1,0 +1,33 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+28	33	Irske	Irska	LOC	GPE-Ireland
+41	47	brexit	brexit	EVT	EVT-Brexit
+61	63	EU	EU	ORG	ORG-European-Union
+64	79	Michael Barnier	Michael Barnier	PER	PER-Michel-Barnier
+115	122	Bruslju	Bruselj	LOC	GPE-Brussles
+305	317	irskem otoku	irski otok	LOC	GPE-Ireland
+410	412	EU	EU	ORG	ORG-European-Union
+415	422	brexitu	brexit	EVT	EVT-Brexit
+423	437	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+586	591	Irski	Irska	LOC	GPE-Ireland
+611	624	Severna Irska	Severna Irska	LOC	GPE-Northern-Ireland
+753	760	Barnier	Barnier	PER	PER-Michel-Barnier
+910	922	irskem otoku	irski otok	LOC	GPE-Ireland
+1205	1218	Severne Irske	Severna Irska	LOC	GPE-Northern-Ireland
+1375	1377	EU	EU	ORG	ORG-European-Union
+1458	1465	Barnier	Barnier	PER	PER-Michel-Barnier
+1492	1494	EU	EU	ORG	ORG-European-Union
+1631	1636	Irski	Irska	LOC	GPE-Ireland
+1690	1697	Barnier	Barnier	PER	PER-Michel-Barnier
+1827	1834	Londona	London	LOC	GPE-London
+1912	1933	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+1947	1954	Barnier	Barnier	PER	PER-Michel-Barnier
+2063	2084	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+2238	2245	Barnier	Barnier	PER	PER-Michel-Barnier
+2321	2330	Britanije	Britanija	LOC	GPE-Great-Britain
+2358	2377	Združeno kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+2432	2434	EU	EU	ORG	ORG-European-Union
+2567	2569	EU	EU	ORG	ORG-European-Union
+2617	2628	Therese May	Theresa May	PER	PER-Theresa-May
+2952	2954	EU	EU	ORG	ORG-European-Union
+3169	3185	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+3186	3197	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk

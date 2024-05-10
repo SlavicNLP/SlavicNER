@@ -1,0 +1,27 @@
+27	33	Барние	Барние	PER	PER-Michel-Barnier
+149	159	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+194	196	ЕС	ЕС	ORG	ORG-European-Union
+200	207	Брекзит	Брекзит	EVT	EVT-Brexit
+242	249	Ройтерс	Ройтерс	ORG	ORG-Reuters
+270	276	БиБиСи	БиБиСи	PRO	PRO-BBC
+278	294	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+370	372	ЕС	ЕС	ORG	ORG-European-Union
+392	406	Великобритания	Великобритания	LOC	GPE-Great-Britain
+503	511	Ирландия	Ирландия	LOC	GPE-Ireland
+588	602	Великобритания	Великобритания	LOC	GPE-Great-Britain
+664	666	ЕС	ЕС	ORG	ORG-European-Union
+678	684	Дъблин	Дъблин	LOC	GPE-Dublin
+707	714	Брекзит	Брекзит	EVT	EVT-Brexit
+830	862	Демократичната юнионистка партия	Демократична юнионистка партия	ORG	ORG-DUP-Democratic-Unionist-Party
+864	867	ДЮП	ДЮП	ORG	ORG-DUP-Democratic-Unionist-Party
+869	881	Арлин Фостър	Арлин Фостър	PER	PER-Arlene-Foster
+915	917	ЕС	ЕС	ORG	ORG-European-Union
+921	928	Брекзит	Брекзит	EVT	EVT-Brexit
+929	941	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+994	1010	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1029	1049	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1095	1111	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1177	1183	Барние	Барние	PER	PER-Michel-Barnier
+1223	1235	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+1302	1318	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1385	1405	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain

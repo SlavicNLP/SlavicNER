@@ -1,0 +1,20 @@
+0	5	Soros	Soros	PER	PER-George-Soros
+33	42	brexitowi	Brexit	EVT	EVT-Brexit
+58	70	The Guardian	The Guardian	PRO	PRO-The-Guardian
+75	88	The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+99	115	Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+151	164	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+217	224	brexitu	Brexit	EVT	EVT-Brexit
+285	314	Soros Open Society Foundation	Soros Open Society Foundation	ORG	ORG-OSF-Soros-Open-Society-Foundation
+316	319	OSF	OSF	ORG	ORG-OSF-Soros-Open-Society-Foundation
+462	465	OSF	OSF	ORG	ORG-OSF-Soros-Open-Society-Foundation
+467	480	The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+494	499	Soros	Soros	PER	PER-George-Soros
+745	760	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+763	765	UE	UE	ORG	ORG-European-Union
+767	772	Soros	Soros	PER	PER-George-Soros
+813	828	Bank of England	Bank of England	ORG	ORG-Bank-of-England
+1008	1013	Soros	Soros	PER	PER-George-Soros
+1030	1039	Królestwo	Królestwo	LOC	GPE-Great-Britain
+1063	1080	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1143	1150	brexitu	Brexit	EVT	EVT-Brexit

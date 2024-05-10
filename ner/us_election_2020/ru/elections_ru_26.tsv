@@ -1,0 +1,119 @@
+24	27	США	США	LOC	GPE-USA
+88	95	Трампом	Трамп	PER	PER-Donald-Trump
+128	142	холодной войны	холодная война	EVT	EVT-Cold-War
+169	185	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+305	315	Навального	Навальный	PER	PER-Alexei-Navalny
+319	326	Байдену	Байден	PER	PER-Joe-Biden
+408	414	России	Россия	LOC	GPE-Russia
+416	431	Financial Times	Financial Times	PRO	PRO-Financial-Times
+433	447	Великобритания	Великобритания	LOC	GPE-Great-Britain
+491	498	Байдена	Байден	PER	PER-Joe-Biden
+558	564	России	Россия	LOC	GPE-Russia
+680	689	Белый дом	Белый дом	LOC	LOC-White-House
+760	767	Кремлем	Кремль	ORG	ORG-Kremlin
+865	878	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+949	960	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+970	981	договор СНВ	договор СНВ	PRO	PRO-SORT-Strategic-Offensive-Reductions-Treaty
+1119	1125	Кремля	Кремль	ORG	ORG-Kremlin
+1180	1187	Байдена	Байден	PER	PER-Joe-Biden
+1208	1211	США	США	LOC	GPE-USA
+1246	1258	американское	американский	LOC	GPE-USA
+1293	1299	Россию	Россия	LOC	GPE-Russia
+1315	1321	Москва	Москва	LOC	GPE-Moscow
+1333	1351	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+1387	1397	российских	российский	LOC	GPE-Russia
+1490	1499	американо	американо	LOC	GPE-USA
+1500	1511	российского	российский	LOC	GPE-Russia
+1531	1540	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1594	1600	России	Россия	LOC	GPE-Russia
+1604	1617	Фонда Карнеги	фонд Карнеги	ORG	ORG-Carnegie-Endowment-for-International-Peace
+1639	1649	Эндрю Вайс	Эндрю Вайс	PER	PER-Andrew-Weiss
+1651	1663	Andrew Weiss	Andrew Weiss	PER	PER-Andrew-Weiss
+1724	1734	российской	российский	LOC	GPE-Russia
+1735	1761	аннексии Крыма в 2014 году	аннексия Крыма 2014	EVT	EVT-Annexation-of-Crimea
+1769	1776	Байдена	Байден	PER	PER-Joe-Biden
+1826	1829	США	США	LOC	GPE-USA
+1910	1916	Трампа	Трам	PER	PER-Donald-Trump
+2007	2014	Москвой	Москва	LOC	GPE-Moscow
+2025	2028	СНВ	СНВ	PRO	PRO-SORT-Strategic-Offensive-Reductions-Treaty
+2085	2095	российские	российские	LOC	GPE-Russia
+2216	2227	Белого дома	Белый дом	LOC	LOC-White-House
+2228	2238	Джен Псаки	Джен Псаки	PER	PER-Jen-Psaki
+2271	2281	Навального	Навальный	PER	PER-Alexei-Navalny
+2322	2332	SolarWinds	SolarWinds	PRO	PRO-SolarWinds
+2367	2373	Кремль	Кремль	ORG	ORG-Kremlin
+2375	2384	Белый дом	Белый дом	LOC	LOC-White-House
+2431	2436	Псаки	Псаки	PER	PER-Jen-Psaki
+2485	2488	США	США	LOC	GPE-USA
+2584	2590	России	Россия	LOC	GPE-Russia
+2593	2605	американские	американские	LOC	GPE-USA
+2630	2636	Москва	Москва	LOC	GPE-Moscow
+2645	2654	афганским	афганский	LOC	GPE-Afghanistan
+2676	2688	американских	американские	LOC	GPE-USA
+2709	2716	Байдена	Байден	PER	PER-Joe-Biden
+2766	2772	Москвы	Москва	LOC	GPE-Moscow
+2800	2805	Трамп	Трамп	PER	PER-Donald-Trump
+2810	2821	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+2960	2970	российских	российский	LOC	GPE-Russia
+2987	2993	Грузии	Грузия	LOC	GPE-Georgia
+3008	3015	Байдена	Байден	PER	PER-Joe-Biden
+3037	3051	Энтони Блинкен	Энтони Блинкен	PER	PER-Antony-Blinken
+3053	3067	Antony Blinken	Antony Blinken	PER	PER-Antony-Blinken
+3106	3112	Сенате	Сенат	ORG	ORG-United-States-Senate
+3146	3153	Украине	Украина	LOC	GPE-Ukraine
+3189	3195	России	Россия	LOC	GPE-Russia
+3212	3218	Грузии	Грузия	LOC	GPE-Georgia
+3251	3255	НАТО	НАТО	ORG	ORG-NATO
+3257	3268	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+3320	3327	Блинкен	Блинкен	PER	PER-Antony-Blinken
+3376	3392	Джейка Салливана	Джейк Салливан	PER	PER-Jacob-Sullivan
+3394	3408	Jacob Sullivan	Jacob Sullivan	PER	PER-Jacob-Sullivan
+3436	3442	Москвы	Москва	LOC	GPE-Moscow
+3445	3454	Навальным	Навальный	PER	PER-Alexei-Navalny
+3456	3464	Салливан	Салливан	PER	PER-Jacob-Sullivan
+3473	3479	Москву	Москва	LOC	GPE-Moscow
+3502	3512	Навального	Навальный	PER	PER-Alexei-Navalny
+3551	3557	Москву	Москва	LOC	GPE-Moscow
+3575	3583	Германии	Германия	LOC	GPE-Germany
+3751	3759	Салливан	Салливан	PER	PER-Jacob-Sullivan
+3835	3842	Трампом	Трамп	PER	PER-Donald-Trump
+3875	3889	холодной войны	холодная война	EVT	EVT-Cold-War
+3927	3933	России	Россия	LOC	GPE-Russia
+3934	3950	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+4025	4032	Байдена	Байден	PER	PER-Joe-Biden
+4056	4060	Вайс	Вайс	PER	PER-Andrew-Weiss
+4074	4087	американского	американский	LOC	GPE-USA
+4097	4103	Россия	Россия	LOC	GPE-Russia
+4259	4264	Путин	Путин	PER	PER-Vladimir-Putin
+4360	4366	Трампа	Трамп	PER	PER-Donald-Trump
+4391	4398	Байдена	Байден	PER	PER-Joe-Biden
+4410	4415	Вайса	Вайс	PER	PER-Andrew-Weiss
+4417	4423	Кремль	Кремль	ORG	ORG-Kremlin
+4468	4475	Байдена	Байден	PER	PER-Joe-Biden
+4516	4523	Байдена	Байден	PER	PER-Joe-Biden
+4540	4546	Путина	Путин	PER	PER-Vladimir-Putin
+4559	4562	СНВ	СНВ	PRO	PRO-SORT-Strategic-Offensive-Reductions-Treaty
+4699	4705	Трампа	Трамп	PER	PER-Donald-Trump
+4807	4813	России	Россия	LOC	GPE-Russia
+4836	4841	Китая	Китай	LOC	GPE-China
+5129	5140	американцев	американцы	PER	GPE-USA
+5172	5181	Пентагона	Пентагон	ORG	ORG-The-Pentagon
+5182	5192	Джон Кирби	Джон Кирби	PER	PER-John-Kirby
+5194	5204	John Kirby	John Kirby	PER	PER-John-Kirby
+5225	5228	США	США	LOC	GPE-USA
+5265	5268	СНВ	СНВ	PRO	PRO-SORT-Strategic-Offensive-Reductions-Treaty
+5401	5407	Кремль	Кремль	ORG	ORG-Kremlin
+5447	5458	договор СНВ	договор СНВ	PRO	PRO-SORT-Strategic-Offensive-Reductions-Treaty
+5475	5480	Путин	Путин	PER	PER-Vladimir-Putin
+5491	5497	Трампу	Трамп	PER	PER-Donald-Trump
+5551	5557	Россия	Россия	LOC	GPE-Russia
+5789	5801	американских	американские	LOC	GPE-USA
+5930	5936	Путина	Путин	PER	PER-Vladimir-Putin
+5937	5951	Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+5983	5992	Генри Фоя	Генри Фой	PER	PER-Henry-Foy
+5996	6002	Москвы	Москва	LOC	GPE-Moscow
+6005	6016	Лорен Федор	Лорен Федор	PER	PER-Loren-Fedor
+6020	6030	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+6043	6049	ИноСМИ	ИноСМИ	PRO	PRO-InoSMI
+6126	6132	ИноСМИ	ИноСМИ	PRO	PRO-InoSMI
+6160	6167	Twitter	Twitter	PRO	PRO-Twitter

@@ -1,0 +1,33 @@
+36	44	COVID-19	COVID-19	EVT	EVT-Covid-19
+54	60	Польша	Польша	LOC	GPE-Poland
+70	77	Украине	Украина	LOC	GPE-Ukraine
+178	185	Украине	Украина	LOC	GPE-Ukraine
+235	247	Евгений Енин	Евгений Енин	PER	PER-Evgeny-Enin
+288	295	Украины	Украина	LOC	GPE-Ukraine
+296	308	Евгений Енин	Евгений Енин	PER	PER-Evgeny-Enin
+345	352	Украину	Украина	LOC	GPE-Ukraine
+364	376	коронавируса	коронавирус	EVT	EVT-Covid-19
+409	426	Интерфакс-Украина	Интерфакс-Украина	PRO	PRO-Interfax-Ukraine
+428	434	Польша	Польша	LOC	GPE-Poland
+450	457	Украине	Украина	LOC	GPE-Ukraine
+481	489	COVID-19	COVID-19	EVT	EVT-Covid-19
+804	811	Польшей	Польша	LOC	GPE-Poland
+1201	1208	Украине	Украина	LOC	GPE-Ukraine
+1264	1268	Енин	Евгений Енин	PER	PER-Evgeny-Enin
+1283	1295	коронавируса	коронавирус	EVT	EVT-Covid-19
+1300	1307	Украины	Украина	LOC	GPE-Ukraine
+1311	1339	Министерство здравоохранения	Министерство здравоохранения	ORG	ORG-Ministry-of-Healthcare-Ukraine
+1385	1392	Украины	Украина	LOC	GPE-Ukraine
+1408	1416	COVID-19	COVID-19	EVT	EVT-Covid-19
+1439	1454	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+1466	1481	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+1483	1492	CoronaVac	CoronaVac	PRO	PRO-CoronaVac
+1821	1826	Китае	Китай	LOC	GPE-China
+1899	1902	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+2082	2089	Украину	Украина	LOC	GPE-Ukraine
+2199	2204	COVAX	COVAX	ORG	ORG-Covax
+2362	2370	COVID-19	COVID-19	EVT	EVT-Covid-19
+2380	2386	Польша	Польша	LOC	GPE-Poland
+2396	2403	Украине	Украина	LOC	GPE-Ukraine
+2421	2428	Украины	Украина	LOC	GPE-Ukraine
+2448	2455	Украина	Украина	LOC	GPE-Ukraine

@@ -1,0 +1,87 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+117	127	Демократът	демократ	PER	ORG-Democratic-Party-USA
+128	138	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+162	171	Белия дом	Бял дом	LOC	LOC-White-House
+199	211	републиканец	републиканец	PER	ORG-Republican-Party-USA
+212	224	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+263	269	Байдън	Байдън	PER	PER-Joe-Biden
+288	309	електоралната комисия	Електорална комисия	ORG	ORG-United-States-Electoral-College
+367	378	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+407	435	Съединените американски щати	Съединени американски щати	LOC	GPE-USA
+448	456	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+458	466	Си Ен Ен	Си Ен Ен	PRO	PRO-CNN
+469	477	Ен Би Си	Ен Би Си	PRO	PRO-National-Broadcasting-Company
+484	497	Ню Йорк таймс	Ню Йорк таймс	PRO	PRO-The-New-York-Times
+515	521	Байдън	Байдън	PER	PER-Joe-Biden
+536	542	Невада	Невада	LOC	GPE-Nevada
+564	585	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+669	677	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+704	710	Байдън	Байдън	PER	PER-Joe-Biden
+720	727	Аризона	Аризона	LOC	GPE-Arizona
+765	771	Байдън	Байдън	PER	PER-Joe-Biden
+801	809	Си Ен Ен	Си Ен Ен	PRO	PRO-CNN
+812	820	Ен Би Си	Ен Би Си	PRO	PRO-National-Broadcasting-Company
+890	896	Байдън	Байдън	PER	PER-Joe-Biden
+925	937	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1103	1106	САЩ	САЩ	LOC	GPE-USA
+1186	1200	републиканецът	републиканец	PER	ORG-Republican-Party-USA
+1201	1225	Джордж Хърбърт Уокър Буш	Джордж Хърбърт Уокър Буш	PER	PER-George-Bush-Sr
+1228	1238	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1258	1270	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1317	1331	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+1346	1353	Мичиган	Мичиган	LOC	GPE-Michigan
+1355	1364	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+1367	1378	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1418	1423	Тръмп	Тръмп	PER	PER-Donald-Trump
+1435	1443	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1445	1451	Невада	Невада	LOC	GPE-Nevada
+1454	1461	Аризона	Аризона	LOC	GPE-Arizona
+1566	1569	САЩ	САЩ	LOC	GPE-USA
+1583	1589	Байдън	Байдън	PER	PER-Joe-Biden
+1638	1643	Тръмп	Тръмп	PER	PER-Donald-Trump
+1728	1739	демократите	демократи	PER	ORG-Democratic-Party-USA
+1830	1833	САЩ	САЩ	LOC	GPE-USA
+1879	1891	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+1933	1942	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2070	2077	Байъдън	Байдън	PER	PER-Joe-Biden
+2181	2191	американци	американци	PER	GPE-USA
+2273	2280	Америка	Америка	LOC	GPE-USA
+2284	2290	Байдън	Байдън	PER	PER-Joe-Biden
+2457	2462	Тръмп	Тръмп	PER	PER-Donald-Trump
+2476	2485	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+2487	2494	Мичиган	Мичиган	LOC	GPE-Michigan
+2497	2508	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2524	2535	демократите	демократи	PER	ORG-Democratic-Party-USA
+2804	2816	Джордж Флойд	Джордж Флойд	PER	PER-George-Floyd
+2818	2831	Бреона Тейлър	Бреона Тейлър	PER	PER-Breonna-Taylor
+2834	2847	Джейкъб Блейк	Джейкъб Блейк	PER	PER-Jacob-Blake
+2850	2864	афроамериканци	афроамериканци	PER	GPE-USA
+2916	2922	Байдън	Байдън	PER	PER-Joe-Biden
+2956	2972	афроамериканците	афроамериканци	PER	GPE-USA
+2992	2998	Байдън	Байдън	PER	PER-Joe-Biden
+3015	3037	пандемията от Covid-19	пандемия от Covid-19	EVT	EVT-Pandemic
+3186	3192	Байдън	Байдън	PER	PER-Joe-Biden
+3249	3251	ЕС	ЕС	ORG	ORG-European-Union
+3321	3323	ЕС	ЕС	ORG	ORG-European-Union
+3379	3382	САЩ	САЩ	LOC	GPE-USA
+3383	3394	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+3447	3456	Белия дом	Бял дом	LOC	LOC-White-House
+3460	3470	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3590	3600	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3630	3642	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+3668	3673	Обама	Обама	PER	PER-Barack-Obama
+3694	3697	Джо	Джо	PER	PER-Joe-Biden
+3782	3791	Белия дом	Бял дом	LOC	LOC-White-House
+4068	4078	американци	американци	PER	GPE-USA
+4146	4156	американец	американец	PER	GPE-USA
+4204	4209	Обама	Обама	PER	PER-Barack-Obama
+4228	4234	Байдън	Байдън	PER	PER-Joe-Biden
+4237	4242	Харис	Харис	PER	PER-Kamala-Harris
+4284	4293	демократи	демократи	PER	ORG-Democratic-Party-USA
+4296	4307	Бил Клинтън	Бил Клинтън	PER	PER-Bill-Clinton
+4310	4322	Джими Картър	Джими Картър	PER	PER-Jimmy-Carter
+4325	4337	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+4345	4355	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+4465	4476	демократите	демократи	PER	ORG-Democratic-Party-USA
+4567	4577	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+4917	4922	Тръмп	Тръмп	PER	PER-Donald-Trump

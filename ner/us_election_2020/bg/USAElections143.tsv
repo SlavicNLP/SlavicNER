@@ -1,0 +1,35 @@
+22	25	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+41	52	демократите	демократи	PER	ORG-Democratic-Party-USA
+80	83	САЩ	САЩ	LOC	GPE-USA
+84	94	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+133	154	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+211	223	републиканец	републиканец	PER	ORG-Republican-Party-USA
+224	236	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+318	339	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+398	404	Байдън	Байдън	PER	PER-Joe-Biden
+425	433	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+437	442	Тръмп	Тръмп	PER	PER-Donald-Trump
+447	463	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+466	472	Байдън	Байдън	PER	PER-Joe-Biden
+515	520	Тръмп	Тръмп	PER	PER-Donald-Trump
+524	532	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+623	632	демократа	демократ	PER	ORG-Democratic-Party-USA
+673	679	Байдън	Байдън	PER	PER-Joe-Biden
+745	748	ДПА	ДПА	ORG	ORG-DPA
+751	755	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+769	777	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+802	816	републиканците	републиканци	PER	ORG-Republican-Party-USA
+830	838	демократ	демократ	PER	ORG-Democratic-Party-USA
+887	898	Бил Клинтън	Бил Клинтън	PER	PER-Bill-Clinton
+944	956	Джими Картър	Джими Картър	PER	PER-Jimmy-Carter
+981	986	Тръмп	Тръмп	PER	PER-Donald-Trump
+989	995	Байдън	Байдън	PER	PER-Joe-Biden
+1017	1035	Деня на ветераните	Ден на ветераните	EVT	EVT-Veterans-Day-USA
+1037	1042	Тръмп	Тръмп	PER	PER-Donald-Trump
+1055	1071	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+1207	1213	Байдън	Байдън	PER	PER-Joe-Biden
+1266	1271	Тръмп	Тръмп	PER	PER-Donald-Trump
+1459	1462	САЩ	САЩ	LOC	GPE-USA
+1491	1494	ДПА	ДПА	ORG	ORG-DPA
+1516	1521	Тръмп	Тръмп	PER	PER-Donald-Trump
+1572	1586	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton

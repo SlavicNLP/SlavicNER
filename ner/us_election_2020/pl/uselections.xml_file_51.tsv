@@ -1,0 +1,28 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+14	19	Trump	Trump	PER	PER-Donald-Trump
+24	29	Biden	Biden	PER	PER-Joe-Biden
+74	101	wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+176	183	Arizonę	Arizona	LOC	GPE-Arizona
+185	191	Nevadę	Nevada	LOC	GPE-Nevada
+193	204	Pensylwanię	Pensylwania	LOC	GPE-Pennsylvania
+206	223	Karolinę Północną	Karolina Północna	LOC	GPE-North-Carolina-US-State
+226	233	Georgię	Georgia	LOC	GPE-Georgia-US-state
+235	244	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+264	272	Michigan	Michigan	LOC	GPE-Michigan
+275	284	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+296	301	Trump	Trump	PER	PER-Donald-Trump
+311	315	Ohio	Ohio	LOC	GPE-Ohio
+321	330	Florydzie	Floryda	LOC	GPE-Florida
+361	371	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+437	451	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+584	603	Dystrykcie Kolumbii	Dystrykt Kolumbia	LOC	GPE-District-of-Columbia
+611	616	Biden	Biden	PER	PER-Joe-Biden
+659	664	Trump	Trump	PER	PER-Donald-Trump
+734	748	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+845	854	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+857	865	Michigan	Michigan	LOC	GPE-Michigan
+958	966	Arizonie	Arizona	LOC	GPE-Arizona
+1096	1106	Amerykanie	Amerykanie	PER	GPE-USA
+1132	1138	Senatu	Senat	ORG	ORG-United-States-Senate
+1155	1174	Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+1237	1261	Alexandria Ocasio-Cortez	Alexandria Ocasio-Cortez	PER	PER-Alexandria-Ocasio-Cortez

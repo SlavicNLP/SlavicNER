@@ -1,0 +1,28 @@
+21	27	Европы	Европа	LOC	LOC-Europe
+39	46	Ryanair	Ryanair	ORG	ORG-Ryanair
+80	88	Германию	Германия	LOC	GPE-Germany
+94	102	Германии	Германия	LOC	GPE-Germany
+248	255	Ryanair	Ryanair	ORG	ORG-Ryanair
+363	371	Германии	Германия	LOC	GPE-Germany
+437	444	Cockpit	Cockpit	ORG	ORG-Vereinigung-Cockpit
+487	501	Мартина Лохера	Мартин Лохер	PER	PER-Martin-Locher
+503	510	Ryanair	Ryanair	ORG	ORG-Ryanair
+776	783	Ryanair	Ryanair	ORG	ORG-Ryanair
+786	793	Бельгии	Бельгия	LOC	GPE-Belgium
+795	803	Ирландии	Ирландия	LOC	GPE-Ireland
+806	812	Швеции	Швеция	LOC	GPE-Sweden
+862	869	Ryanair	Ryanair	ORG	ORG-Ryanair
+871	878	Cockpit	Cockpit	ORG	ORG-Vereinigung-Cockpit
+901	908	Ryanair	Ryanair	ORG	ORG-Ryanair
+1020	1023	TUI	TUI	ORG	ORG-TUI-Group
+1040	1047	Ryanair	Ryanair	ORG	ORG-Ryanair
+1060	1070	Boeing-737	Boeing-737	PRO	PRO-Boeing-737
+1136	1143	Cockpit	Cockpit	ORG	ORG-Vereinigung-Cockpit
+1395	1403	Германии	Германия	LOC	GPE-Germany
+1541	1548	Ryanair	Ryanair	ORG	ORG-Ryanair
+1587	1596	Eurowings	Eurowings	ORG	ORG-Eurowings
+1621	1630	Norwegian	Norwegian	ORG	ORG-Norwegian
+1674	1688	Кенни Джейкобс	Кенни Джейкобс	PER	PER-Kenny-Jacobs
+1777	1784	Ryanair	Ryanair	ORG	ORG-Ryanair
+1941	1955	Boeing-737-800	Boeing-737-800	PRO	PRO-Boeing-737
+1997	2003	Forbes	Forbes	PRO	PRO-Forbes

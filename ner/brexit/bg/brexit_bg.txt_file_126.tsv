@@ -1,0 +1,24 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+33	41	Али баба	Али баба	ORG	ORG-Alibaba
+46	52	Амазон	Амазон	ORG	ORG-Amazon
+89	96	Брекзит	Брекзит	EVT	EVT-Brexit
+118	128	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+150	157	Брекзит	Брекзит	EVT	EVT-Brexit
+181	188	Джак Ма	Джак Ма	PER	PER-Jack-Ma
+235	242	Алибаба	Алибаба	ORG	ORG-Alibaba
+330	337	Брекзит	Брекзит	EVT	EVT-Brexit
+391	401	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+451	458	Джак Ма	Джак Ма	PER	PER-Jack-Ma
+491	496	Давос	Давос	LOC	GPE-Davos
+534	539	Китай	Китай	LOC	GPE-China
+550	558	Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+635	641	Амазон	Амазон	ORG	ORG-Amazon
+778	788	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+818	826	Али баба	Али баба	ORG	ORG-Alibaba
+831	837	Амазон	Амазон	ORG	ORG-Amazon
+860	874	Великобритания	Великобритания	LOC	GPE-Great-Britain
+955	962	Брекзит	Брекзит	EVT	EVT-Brexit
+1086	1093	Брюксел	Брюксел	LOC	GPE-Brussles
+1144	1163	Лисабонския договор	Лисабонски договор	PRO	PRO-Treaty-of-Lisbon
+1182	1184	ЕС	ЕС	ORG	ORG-European-Union
+1326	1333	Юростар	Юростар	PRO	PRO-Eurostar

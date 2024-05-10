@@ -1,0 +1,37 @@
+17	25	Райънеър	Райънеър	ORG	ORG-Ryanair
+27	34	българи	българи	PER	GPE-Bulgaria
+40	49	италианци	италианци	PER	GPE-Italy
+155	164	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+184	244	"Главна дирекция ""Гражданска въздухоплавателна администрация"""	"Главна дирекция ""Гражданска въздухоплавателна администрация"""	ORG	ORG-DG-Civil-Aviation-Administration-BG
+246	254	"ГД ""ГВА"""	"ГД ""ГВА"""	ORG	ORG-DG-Civil-Aviation-Administration-BG
+341	348	Ryanair	Ryanair	ORG	ORG-Ryanair
+621	633	Мая Манолова	Мая Манолова	PER	PER-Maya-Manolova
+652	666	Диана Ковачева	Диана Ковачева	PER	PER-Diana-Kovacheva
+707	713	Лондон	Лондон	LOC	GPE-London
+714	722	България	България	LOC	GPE-Bulgaria
+812	830	Димитър Маргаритов	Димитър Маргаритов	PER	PER-Dimitar-Margaritov
+846	878	Европейския потребителски център	Европейски потребителски център	ORG	ORG-European-Consumer-Centre-Bulgaria
+880	883	ЕПЦ	ЕПЦ	ORG	ORG-European-Consumer-Centre-Bulgaria
+885	898	Игнат Арсенов	Игнат Арсенов	PER	PER-Ignat-Arsenov
+909	914	Дечев	Дечев	PER	PER-Dechev
+919	961	Сдружение за правна помощ на потребителите	Сдружение за правна помощ на потребителите	ORG	ORG-ALACR-Bulgaria
+963	970	Пловдив	Пловдив	LOC	LOC-Plovdiv-aeroport
+1041	1049	Ирландия	Ирландия	LOC	GPE-Ireland
+1081	1088	Ryanair	Ryanair	ORG	ORG-Ryanair
+1095	1102	Румъния	Румъния	LOC	GPE-Romania
+1214	1223	българите	българи	PER	GPE-Bulgaria
+1345	1354	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+1373	1380	Ryanair	Ryanair	ORG	ORG-Ryanair
+1512	1519	българи	българи	PER	GPE-Bulgaria
+1638	1646	"ГД ""ГВА"""	"ГД ""ГВА"""	ORG	ORG-DG-Civil-Aviation-Administration-BG
+1695	1727	Европейския потребителски център	Европейски потребителски център	ORG	ORG-European-Consumer-Centre-Bulgaria
+1850	1856	Лондон	Лондон	LOC	GPE-London
+1860	1867	Пловдив	Пловдив	LOC	GPE-Plovdiv
+1887	1900	Игнат Арсенов	Игнат Арсенов	PER	PER-Ignat-Arsenov
+1904	1907	ЕПЦ	ЕПЦ	ORG	ORG-European-Consumer-Centre-Bulgaria
+2156	2164	България	България	LOC	GPE-Bulgaria
+2167	2175	Ирландия	Ирландия	LOC	GPE-Ireland
+2448	2471	Пловдивския районен съд	Пловдивски районен съд	ORG	ORG-Regional-court-Plovdiv
+2636	2641	Дечев	Дечев	PER	PER-Dechev
+2644	2651	news.bg	news.bg	PRO	PRO-News.bg
+2653	2658	Днес+	Днес+	ORG	ORG-DnesPlus

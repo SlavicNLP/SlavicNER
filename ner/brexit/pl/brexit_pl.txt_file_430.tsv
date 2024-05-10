@@ -1,0 +1,55 @@
+1	3	FT	FT	PRO	PRO-Financial-Times
+17	23	Polską	Polska	LOC	GPE-Poland
+52	54	UE	UE	ORG	ORG-European-Union
+58	64	Polsce	Polska	LOC	GPE-Poland
+77	97	druga wojna światowa	Druga Wojna Światowa	EVT	EVT-World-War-II
+129	137	Warszawy	Warszawa	LOC	GPE-Warsaw
+140	148	Brukselą	Bruksela	LOC	GPE-Brussles
+242	249	Rachman	Rachman	PER	PER-Gideon-Rachman
+268	274	Polski	Polska	LOC	GPE-Poland
+340	347	Europie	Europa	LOC	LOC-Europe
+442	457	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+520	526	Polsce	Polska	LOC	GPE-Poland
+646	653	Rachman	Rachman	PER	PER-Gideon-Rachman
+774	782	Warszawą	Warszawa	LOC	GPE-Warsaw
+785	793	Brukselą	Bruksela	LOC	GPE-Brussles
+821	839	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+888	894	Polski	Polska	LOC	GPE-Poland
+1261	1268	Rachman	Rachman	PER	PER-Gideon-Rachman
+1368	1370	UE	UE	ORG	ORG-European-Union
+1514	1523	Warszawie	Warszawa	LOC	GPE-Warsaw
+1616	1622	Polski	Polska	LOC	GPE-Poland
+1635	1642	Rachman	Rachman	PER	PER-Gideon-Rachman
+1660	1665	Węgry	Węgry	LOC	GPE-Hungary
+1771	1777	Polsce	Polska	LOC	GPE-Poland
+1814	1816	UE	UE	ORG	ORG-European-Union
+1910	1918	Rachmana	Rachman	PER	PER-Gideon-Rachman
+2034	2048	Viktora Orbana	Viktor Orban	PER	PER-Viktor-Orban
+2198	2200	UE	UE	ORG	ORG-European-Union
+2236	2242	Viktor	Viktor	PER	PER-Viktor-Orban
+2244	2249	Orban	Orban	PER	PER-Viktor-Orban
+2373	2380	Fideszu	Fidesz	ORG	ORG-Fidesz
+2383	2410	Europejskiej Partii Ludowej	Europejska Partia Ludowa	ORG	ORG-EPP-European-Peoples-Party
+2412	2415	EPL	EPL	ORG	ORG-EPP-European-Peoples-Party
+2452	2475	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+2517	2526	Niemczech	Niemcy	LOC	GPE-Germany
+2654	2656	UE	UE	ORG	ORG-European-Union
+2756	2762	Polsce	Polska	LOC	GPE-Poland
+2831	2839	Brukselę	Bruksela	LOC	GPE-Brussles
+2842	2850	Warszawę	Warszawa	LOC	GPE-Warsaw
+2875	2882	Rachman	Rachman	PER	PER-Gideon-Rachman
+2958	2964	Polsce	Polska	LOC	GPE-Poland
+3045	3053	Brukseli	Bruksela	LOC	GPE-Brussles
+3174	3183	Warszawie	Warszawa	LOC	GPE-Warsaw
+3309	3311	KE	KE	ORG	ORG-European-Commission
+3314	3329	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+3389	3397	Brexitem	Brexit	EVT	EVT-Brexit
+3463	3469	Polskę	Polska	LOC	GPE-Poland
+3515	3521	Polska	Polska	LOC	GPE-Poland
+3524	3529	Węgry	Węgry	LOC	GPE-Hungary
+3539	3543	Unię	Unia	ORG	ORG-European-Union
+3607	3614	Brexitu	Brexit	EVT	EVT-Brexit
+3642	3644	UE	UE	ORG	ORG-European-Union
+3732	3739	Rachman	Rachman	PER	PER-Gideon-Rachman
+3762	3764	UE	UE	ORG	ORG-European-Union
+3853	3857	Unię	Unia	ORG	ORG-European-Union

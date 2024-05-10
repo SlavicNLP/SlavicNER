@@ -1,0 +1,33 @@
+0	11	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+16	32	Ojciec Chrzestny	Ojciec Chrzestny	PER	PER-Godfather
+68	85	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+150	152	KE	KE	ORG	ORG-European-Commission
+160	175	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+235	242	Brexitu	Brexit	EVT	EVT-Brexit
+265	276	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+283	300	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+320	335	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+338	353	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+385	406	umowa o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement
+428	435	The Sun	The Sun	PRO	PRO-The-Sun
+442	447	Tuska	Tusk	PER	PER-Donald-Tusk
+518	529	Brextortion	Brextortion	PRO	PRO-title-Brextortion
+616	631	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+639	656	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+719	732	Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+770	786	Ojca Chrzestnego	Ojciec Chrzestny	PER	PER-Godfather
+798	808	Mario Puzo	Mario Puzo	PER	PER-Mario-Puzo
+915	926	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+967	980	Leo Varadkara	Leo Varadkar	PER	PER-Leo-Varadkar
+990	1001	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1056	1064	Brukseli	Bruksela	LOC	GPE-Brussles
+1067	1075	Londynem	Londyn	LOC	GPE-London
+1117	1119	UE	UE	ORG	ORG-European-Union
+1122	1139	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1230	1247	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1261	1263	UE	UE	ORG	ORG-European-Union
+1293	1297	Unią	Unia	ORG	ORG-European-Union
+1300	1315	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1384	1395	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1472	1500	Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+1537	1558	umowa o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement

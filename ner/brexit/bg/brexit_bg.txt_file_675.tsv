@@ -1,0 +1,15 @@
+37	43	Макрон	Макрон	PER	PER-Emmanuel-Macron
+58	65	Брекзит	Брекзит	EVT	EVT-Brexit
+75	85	Обновление	Обновление	ORG	ORG-Renew
+167	174	Брекзит	Брекзит	EVT	EVT-Brexit
+344	351	Брекзит	Брекзит	EVT	EVT-Brexit
+384	391	Брекзит	Брекзит	EVT	EVT-Brexit
+400	413	Джеймс Торанс	Джеймс Торанс	PER	PER-James-Torrance
+611	613	ЕС	ЕС	ORG	ORG-European-Union
+675	677	ЕС	ЕС	ORG	ORG-European-Union
+818	832	Великобритания	Великобритания	LOC	GPE-Great-Britain
+838	860	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+872	882	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+928	935	Брекзит	Брекзит	EVT	EVT-Brexit
+1010	1012	ЕС	ЕС	ORG	ORG-European-Union
+1030	1044	Великобритания	Великобритания	LOC	GPE-Great-Britain

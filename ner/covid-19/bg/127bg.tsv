@@ -1,0 +1,62 @@
+0	16	Хидроксихлорохин	Хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+19	27	COVID-19	COVID-19	EVT	EVT-Covid-19
+166	178	коронавируса	коронавирус	EVT	EVT-Covid-19
+180	190	Хлорохинът	Хлорохин	PRO	PRO-Chloroquine
+193	211	хидроксихлорохинът	хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+286	297	коронавирус	коронавирус	EVT	EVT-Covid-19
+313	343	Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+405	408	BBС	BBС	ORG	ORG-BBC-Ltd
+411	414	CNN	CNN	ORG	ORG-CNN
+520	528	COVID-19	COVID-19	EVT	EVT-Covid-19
+598	606	COVID-19	COVID-19	EVT	EVT-Covid-19
+635	647	Доналд Тръпм	Доналд Тръпм	PER	PER-Donald-Trump
+670	687	хидроксихлорохина	хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+740	752	коронавируса	коронавирус	EVT	EVT-Covid-19
+767	776	Белия дом	Белия дом	LOC	LOC-White-House
+869	887	Хидроксихлорохинът	Хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+1030	1042	коронавируса	коронавирус	EVT	EVT-Covid-19
+1146	1154	COVID-19	COVID-19	EVT	EVT-Covid-19
+1194	1201	Франция	Франция	LOC	GPE-France
+1255	1258	BBC	BBC	ORG	ORG-BBC-Ltd
+1261	1264	CNN	CNN	ORG	ORG-CNN
+1392	1400	пандемия	пандемия	EVT	EVT-Pandemic
+1422	1431	Белия дом	Белия дом	LOC	LOC-White-House
+1448	1460	коронавируса	коронавирус	EVT	EVT-Covid-19
+1461	1473	Дебора Бъркс	Дебора Бъркс	PER	ORG-Deborah-Birx
+1584	1587	CNN	CNN	ORG	ORG-CNN
+1601	1611	хлорохинът	хлорохин	PRO	PRO-Chloroquine
+1614	1632	хидроксихлорохинът	хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+1720	1723	BBC	BBC	ORG	ORG-BBC-Ltd
+1787	1790	САЩ	САЩ	LOC	GPE-USA
+1796	1810	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1812	1819	Испания	Испания	LOC	GPE-Spain
+1822	1827	Китай	Китай	LOC	GPE-China
+1898	1910	коронавируса	коронавирус	EVT	EVT-Covid-19
+1922	1925	BBC	BBC	ORG	ORG-BBC-Ltd
+1968	2031	Американската агенция за контрол на храните и лекарствата (FDA)	Американска агенция за контрол на храните и лекарствата (FDA)	ORG	ORG-FDA-Food-and-Drug-Administration
+2133	2141	COVID-19	COVID-19	EVT	EVT-Covid-19
+2164	2167	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+2216	2219	BBC	BBC	ORG	ORG-BBC-Ltd
+2295	2302	Франция	Франция	LOC	GPE-France
+2355	2363	COVID-19	COVID-19	EVT	EVT-Covid-19
+2441	2472	Индийското здравно министерство	Индийско здравно министерство	ORG	ORG-Ministry-of-Health-and-Family-Welfare-India
+2499	2515	хидроксихлорохин	хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+2678	2701	индийското правителство	Индийско правителство	ORG	ORG-Indian-Government
+2865	2878	Близкия изток	Близък изток	LOC	LOC-Near-East
+2964	2971	Бахрейн	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+2973	2979	Мароко	Мароко	LOC	GPE-Morocco
+2981	2986	Алжир	Алжир	LOC	GPE-Algeria
+2989	2994	Тунис	Тунис	LOC	GPE-Tunisia
+3006	3009	BBC	BBC	ORG	ORG-BBC-Ltd
+3030	3038	хлорохин	хлорохин	PRO	PRO-Chloroquine
+3041	3057	хидроксихлорохин	хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+3254	3257	BBC	BBC	ORG	ORG-BBC-Ltd
+3259	3267	Йордания	Йордания	LOC	GPE-Jordan
+3294	3310	хидроксихлорохин	хидроксихлорохин	PRO	PRO-Hydroxychloroquine
+3376	3382	Кувейт	Кувейт	LOC	GPE-Kuwait
+3484	3489	Кения	Кения	LOC	GPE-Kenya
+3533	3538	Индия	Индия	LOC	GPE-India
+3678	3690	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3708	3721	Нарендра Моди	Нарендра Моди	PER	PER-Narendra-Modi
+3774	3777	САЩ	САЩ	LOC	GPE-USA
+3779	3784	Индия	Индия	LOC	GPE-India

@@ -1,0 +1,41 @@
+34	44	Кание Уест	Кание Уест	PER	PER-Kanye-West
+52	64	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+67	77	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+116	119	САЩ	САЩ	LOC	GPE-USA
+228	238	Кание Уест	Кание Уест	PER	PER-Kanye-West
+277	286	Белия дом	Бял дом	LOC	LOC-White-House
+289	296	Twitter	Twitter	PRO	PRO-Twitter
+307	340	Деня на независимостта на Америка	Ден на независимостта на Америка	EVT	EVT-Independence-Day
+525	538	Ким Кардашиян	Ким Кардашиян	PER	PER-Kim-Kardashian
+642	654	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+723	726	САЩ	САЩ	LOC	GPE-USA
+782	792	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+795	818	Либертарианската партия	Либертарианска партия	ORG	ORG-Libertarian-Party-USA
+820	843	Либертарианската партия	Либертарианска партия	ORG	ORG-Libertarian-Party-USA
+856	867	демократите	демократи	PER	ORG-Democratic-Party-USA
+870	884	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1147	1159	Гари Джонсън	Гари Джонсън	PER	PER-Gary-Johnson
+1185	1195	Ню Мексико	Ню Мексико	LOC	GPE-New Mexico
+1333	1346	Джо Йоргенсен	Джо Йоргенсен	PER	PER-Jo-Jorgensen
+1517	1532	Зелената партия	Зелена партия	ORG	ORG-Green-Party-of-the-United-States
+1549	1564	Зелената партия	Зелена партия	ORG	ORG-Green-Party-of-the-United-States
+1565	1575	Джил Стайн	Джил Стайн	PER	PER-Jill-Stein
+1694	1708	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+1761	1773	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1780	1791	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1793	1800	Мичиган	Мичиган	LOC	GPE-Michigan
+1803	1812	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+1877	1888	Хауи Хокинс	Хауи Хокинс	PER	PER-Howie-Hawkins
+1903	1914	калифорниец	калифорниец	PER	GPE-California
+2049	2072	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2082	2090	Колорадо	Колорадо	LOC	GPE-Colorado
+2093	2100	Върмонт	Върмонт	LOC	GPE-Vermont
+2205	2242	Партията за социализъм и освобождение	Партия за социализъм и освобождение	ORG	ORG-Party-for-Socialism-and-Liberation
+2244	2263	Партията на алианса	Партия на алианса	ORG	ORG-Alliance-Party-USA
+2268	2293	Партията на конституцията	Партия на конституцията	ORG	ORG-Constitution-Party-USA
+2310	2324	Дон Бланкеншип	Дон Бланкеншип	PER	PER-Don-Blankenship
+2423	2446	Партията на сухия режим	Партия на сухия режим	ORG	ORG-Prohibition-Party-USA
+2550	2560	Фил Колинс	Фил Колинс	PER	PER-Phil-Collins
+2764	2774	Брок Пиърс	Брок Пиърс	PER	PER-Brock-Pierce
+2819	2834	Могъщите патици	Могъщите патици	PRO	PRO-The-Mighty-Ducks
+2839	2849	Първо дете	Първо дете	PRO	PRO-First-Kid

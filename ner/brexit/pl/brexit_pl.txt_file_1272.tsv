@@ -1,0 +1,61 @@
+21	30	Macronowi	Macron	PER	PER-Emmanuel-Macron
+35	43	brexicie	Brexit	EVT	EVT-Brexit
+56	60	Unii	Unia	ORG	ORG-European-Union
+91	103	George Hodan	George Hodan	PER	PER-George-Hodan
+143	149	Brexit	Brexit	EVT	EVT-Brexit
+155	170	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+182	186	Unii	Unia	ORG	ORG-European-Union
+212	229	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+245	260	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+330	341	Alex Barker	Alex Barker	PER	PER-Alex-Barker
+356	372	Financial Timesa	Financial Times	PRO	PRO-Financial-Times
+436	456	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+560	564	Unii	Unia	ORG	ORG-European-Union
+886	898	George Hodan	George Hodan	PER	PER-George-Hodan
+935	943	Brexicie	Brexit	EVT	EVT-Brexit
+1038	1045	Brexitu	Brexit	EVT	EVT-Brexit
+1228	1243	Davida Camerona	David Cameron	PER	PER-David-Cameron
+1316	1331	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+1365	1382	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1405	1407	UE	UE	ORG	ORG-European-Union
+1515	1522	Francji	Francja	LOC	GPE-France
+1525	1532	Niemiec	Niemcy	LOC	GPE-Germany
+1605	1613	Londynem	Londyn	LOC	GPE-London
+1616	1624	Brukselą	Bruksela	LOC	GPE-Brussles
+1708	1725	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1728	1730	UE	UE	ORG	ORG-European-Union
+1831	1837	Europy	Europa	LOC	LOC-Europe
+1891	1903	George Hodan	George Hodan	PER	PER-George-Hodan
+1938	1943	tvn24	TVN24	PRO	PRO-TVN24
+1944	1955	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1979	1981	UE	UE	ORG	ORG-European-Union
+2010	2021	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+2058	2075	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2216	2218	UE	UE	ORG	ORG-European-Union
+2227	2239	George Hodan	George Hodan	PER	PER-George-Hodan
+2274	2283	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2313	2322	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2357	2366	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2457	2474	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2487	2496	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2500	2506	Faktów	Fakty	PRO	PRO-Fakty
+2508	2511	TVN	TVN	PRO	PRO-TVN
+2571	2583	George Hodan	George Hodan	PER	PER-George-Hodan
+2618	2623	TVN24	TVN24	PRO	PRO-TVN24
+2625	2632	Reuters	Reuters	ORG	ORG-Reuters
+2633	2639	Polacy	Polacy	PER	GPE-Poland
+2649	2656	Brexitu	Brexit	EVT	EVT-Brexit
+2690	2707	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2714	2729	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2778	2785	Wyspach	Wyspy	LOC	GPE-Great-Britain
+2892	2899	Brexitu	Brexit	EVT	EVT-Brexit
+2920	2932	George Hodan	George Hodan	PER	PER-George-Hodan
+2967	2976	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2996	2999	USA	USA	LOC	GPE-USA
+3021	3028	Brexitu	Brexit	EVT	EVT-Brexit
+3053	3060	Brexitu	Brexit	EVT	EVT-Brexit
+3107	3111	Unia	Unia	ORG	ORG-European-Union
+3146	3156	24 godziny	24 godziny	PRO	PRO-24-godziny
+3160	3169	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+3200	3218	Andrzej Olechowski	Andrzej Olechowski	PER	PER-Andrzej-Olechowski
+3360	3377	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

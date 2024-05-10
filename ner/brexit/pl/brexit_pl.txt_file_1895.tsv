@@ -1,0 +1,43 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+16	28	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+65	80	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+175	181	brexit	Brexit	EVT	EVT-Brexit
+226	241	Renault Nissana	Renault Nissan	ORG	ORG-Renault-Nissan
+242	254	Carlos Ghosn	Carlos Ghosn	PER	PER-Carlos-Ghosn
+271	286	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+378	382	Leaf	Leaf	PRO	PRO-Nissan-Leaf
+383	390	Nissana	Nissan	ORG	ORG-Nissan
+393	405	Infiniti Q30	Infiniti Q30	PRO	PRO-Nissan-Infiniti-Q30
+435	445	Sunderland	Sunderland	LOC	GPE-Sunderland
+464	472	Infiniti	Infiniti	ORG	ORG-Infiniti
+489	492	Q30	Q30	PRO	PRO-Nissan-Infiniti-Q30
+495	501	Polsce	Polska	LOC	GPE-Poland
+526	541	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+658	661	BMW	BMW	ORG	ORG-BMW-Company
+668	672	Mini	Mini	PRO	PRO-Mini-Car-Model
+675	688	Rolls- -Royce	Rolls-Royce	PRO	PRO-Rolls-Royce
+693	699	Niemcy	Niemcy	PER	GPE-Germany
+825	828	BMW	BMW	ORG	ORG-BMW-Company
+934	942	brexicie	Brexit	EVT	EVT-Brexit
+1215	1232	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1260	1277	Financial Timesem	Financial Times	PRO	PRO-Financial-Times
+1279	1297	Stephan Freitsmuth	Stephan Freitsmuth	PER	PER-Stephan-Freismuth
+1354	1358	Mini	Mini	PRO	PRO-Mini-Car-Model
+1359	1365	Niemcy	Niemcy	PER	GPE-Germany
+1465	1468	BMW	BMW	ORG	ORG-BMW-Company
+1494	1496	UE	UE	ORG	ORG-European-Union
+1506	1512	Polski	Polska	LOC	GPE-Poland
+1525	1531	Niemcy	Niemcy	PER	GPE-Germany
+1712	1714	UE	UE	ORG	ORG-European-Union
+1717	1732	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1881	1903	Automotive News Europe	Automotive News Europe	PRO	PRO-Automotive-News-Europe
+2070	2078	Brukselą	Bruksela	LOC	GPE-Brussles
+2149	2159	Mike Hawes	Mike Hawes	PER	PER-Mike-Hawes
+2168	2220	Stowarzyszenia Producentów i Dilerów Motoryzacyjnych	Stowarzyszenie Producentów i Dilerów Motoryzacyjnych	ORG	ORG-SMMT-Society-of-Motor-Manufacturers-and-Traders
+2320	2328	brexicie	Brexit	EVT	EVT-Brexit
+2454	2462	Londynie	Londyn	LOC	GPE-London
+2488	2490	UE	UE	ORG	ORG-European-Union
+2650	2658	Azjatami	Azjaci	PER	LOC-Asia
+2677	2692	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2785	2787	UE	UE	ORG	ORG-European-Union
+2839	2843	Unią	Unia	ORG	ORG-European-Union

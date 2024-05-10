@@ -1,0 +1,12 @@
+15	22	Mayovou	Mayová	PER	PER-Theresa-May
+24	29	Lordi	Lordi	PER	ORG-House-of-Lords
+33	40	brexitu	brexit	EVT	EVT-Brexit
+100	114	Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+160	174	Sněmovně lordů	sněmovna lordů	ORG	ORG-House-of-Lords
+249	256	brexitu	brexit	EVT	EVT-Brexit
+272	280	Británie	Británie	LOC	GPE-Great-Britain
+299	301	EU	EU	ORG	ORG-European-Union
+311	342	Evropském hospodářském prostoru	evropský hospodářský prostor	ORG	ORG-EEA-European-Economic-Area
+344	347	EHP	EHP	ORG	ORG-EEA-European-Economic-Area
+351	354	ČTK	ČTK	ORG	ORG-CTK
+356	359	DPA	DPA	ORG	ORG-DPA

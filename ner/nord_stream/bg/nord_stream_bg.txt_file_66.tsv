@@ -1,0 +1,55 @@
+0	4	Киев	Киев	LOC	GPE-Kiev
+10	16	Берлин	Берлин	LOC	GPE-Berlin
+53	68	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+71	78	Украйна	Украйна	LOC	GPE-Ukraine
+84	92	Германия	Германия	LOC	GPE-Germany
+214	220	Берлин	Берлин	LOC	GPE-Berlin
+277	292	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+320	335	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+490	504	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+563	570	Украйна	Украйна	LOC	GPE-Ukraine
+620	627	Украйна	Украйна	LOC	GPE-Ukraine
+679	688	Евросъюза	Евросъюз	ORG	ORG-European-Union
+712	727	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+770	778	Германия	Германия	LOC	GPE-Germany
+877	884	Украйна	Украйна	LOC	GPE-Ukraine
+915	924	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+951	954	САЩ	САЩ	LOC	GPE-USA
+1172	1179	Украйна	Украйна	LOC	GPE-Ukraine
+1248	1252	Киев	Киев	LOC	GPE-Kiev
+1399	1406	Украйна	Украйна	LOC	GPE-Ukraine
+1417	1423	Москва	Москва	LOC	GPE-Moscow
+1530	1545	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1664	1679	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1731	1744	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+1761	1766	Русия	Русия	LOC	GPE-Russia
+1769	1777	Германия	Германия	LOC	GPE-Germany
+1791	1805	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+1840	1847	Украйна	Украйна	LOC	GPE-Ukraine
+1849	1856	Беларус	Беларус	LOC	GPE-Belarus
+1858	1863	Полша	Полша	LOC	GPE-Poland
+1955	1968	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+2059	2064	Русия	Русия	LOC	GPE-Russia
+2066	2075	Финландия	Финландия	LOC	GPE-Finland
+2077	2083	Швеция	Швеция	LOC	GPE-Sweden
+2085	2090	Дания	Дания	LOC	GPE-Denmark
+2093	2101	Германия	Германия	LOC	GPE-Germany
+2390	2403	Норд стрийм 2	Норд стрийм 2	ORG	ORG-Nord-Stream-2-AG
+2405	2421	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+2448	2455	Газпром	Газпром	ORG	ORG-Gazprom
+2515	2521	Унипер	Унипер	ORG	ORG-Uniper
+2524	2530	Uniper	Uniper	ORG	ORG-Uniper
+2535	2545	Винтерсхал	Винтерсхал	ORG	ORG-Wintershall
+2548	2559	Wintershall	Wintershall	ORG	ORG-Wintershall
+2575	2582	О Ем Ви	О Ем Ви	ORG	ORG-OMV
+2584	2587	OMV	OMV	ORG	ORG-OMV
+2601	2605	Анжи	Анжи	ORG	ORG-Engie
+2608	2613	Engie	Engie	ORG	ORG-Engie
+2636	2639	Шел	Шел	ORG	ORG-Royal-Dutch-Shell-BG-Group
+2642	2647	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+2694	2708	Нрод Стрийм 24	Норд Стрийм 2	ORG	ORG-Nord-Stream-2-AG
+2776	2789	Норд стрийм 2	Норд стрийм 2	ORG	ORG-Nord-Stream-2-AG
+2806	2814	Германия	Германия	LOC	GPE-Germany
+2817	2826	Финландия	Финландия	LOC	GPE-Finland
+2946	2951	Русия	Русия	LOC	GPE-Russia
+2999	3013	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea

@@ -1,0 +1,176 @@
+22	27	Китай	Китай	LOC	GPE-China
+58	64	Трампа	Трамп	PER	PER-Donald-Trump
+106	109	США	США	LOC	GPE-USA
+113	116	КНР	КНР	LOC	GPE-China
+136	153	Соединённые Штаты	Соединённые Штаты	LOC	GPE-USA
+236	241	Китая	Китай	LOC	GPE-China
+280	283	США	США	LOC	GPE-USA
+284	297	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+313	325	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+366	377	Белого дома	Белый дом	LOC	LOC-White-House
+451	454	КНР	КНР	LOC	GPE-China
+528	541	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+727	730	КНР	КНР	LOC	GPE-China
+746	753	Америке	Америка	LOC	GPE-USA
+757	770	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+819	822	США	США	LOC	GPE-USA
+935	942	Америку	Америка	LOC	GPE-USA
+1030	1035	Китая	Китай	LOC	GPE-China
+1047	1052	Трамп	Трамп	PER	PER-Donald-Trump
+1079	1088	Мидлтауне	Мидлтаун	LOC	GPE-Middletown
+1095	1107	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+1112	1125	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1258	1269	Белого дома	Белый дом	ORG	ORG-The-White-House
+1304	1309	Китая	Китай	LOC	GPE-China
+1313	1343	Всемирную торговую организацию	Всемирная торговая организация	ORG	ORG-WTO-World-Trade-Organization
+1383	1386	ВТО	ВТО	ORG	ORG-WTO-World-Trade-Organization
+1437	1440	КНР	КНР	LOC	GPE-China
+1451	1468	Соединённые Штаты	Соединённые Штаты	LOC	GPE-USA
+1532	1537	Трамп	Трамп	PER	PER-Donald-Trump
+1570	1583	американского	американский	LOC	GPE-USA
+1663	1668	Трамп	Трамп	PER	PER-Donald-Trump
+1817	1829	коронавируса	коронавирус	EVT	EVT-Covid-19
+1875	1880	Пекин	Пекин	LOC	GPE-Beijing
+2105	2114	китайской	китайский	LOC	GPE-China
+2123	2131	COVID-19	COVID-19	EVT	EVT-Covid-19
+2135	2137	RT	RT	PRO	PRO-RT-Russia-Today
+2162	2169	Америке	Америка	LOC	GPE-USA
+2202	2207	Трамп	Трамп	PER	PER-Donald-Trump
+2279	2282	КНР	КНР	LOC	GPE-China
+2362	2368	Трампа	Трамп	PER	PER-Donald-Trump
+2392	2395	США	США	LOC	GPE-USA
+2432	2450	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+2544	2549	Китая	Китай	LOC	GPE-China
+2585	2593	Fox News	Fox News	PRO	PRO-Fox-News
+2594	2599	Трамп	Трамп	PER	PER-Donald-Trump
+2659	2662	КНР	КНР	LOC	GPE-China
+2688	2706	Соединённым Штатам	Соединённые Штаты	LOC	GPE-USA
+2746	2753	Пекином	Пекин	LOC	GPE-Beijing
+2821	2832	американцам	американцы	PER	GPE-USA
+2836	2845	Китайские	китайские	LOC	GPE-China
+2891	2898	America	America	LOC	GPE-USA
+2939	2954	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3006	3011	Китай	Китай	LOC	GPE-China
+3066	3071	Китая	Китай	LOC	GPE-China
+3182	3184	RT	RT	PRO	PRO-RT-Russia-Today
+3246	3251	Трамп	Трамп	PER	PER-Donald-Trump
+3265	3268	США	США	LOC	GPE-USA
+3269	3282	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+3322	3325	КНР	КНР	LOC	GPE-China
+3328	3336	Хьюстоне	Хьюстон	LOC	GPE-Houston
+3365	3374	китайские	китайские	LOC	GPE-China
+3435	3444	Белый дом	Белый дом	ORG	ORG-The-White-House
+3459	3470	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3534	3537	США	США	LOC	GPE-USA
+3541	3547	Пекина	Пекин	LOC	GPE-Beijing
+3555	3560	Трамп	Трамп	PER	PER-Donald-Trump
+3645	3648	КНР	КНР	LOC	GPE-China
+3670	3682	американские	американские	LOC	GPE-USA
+3714	3723	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+3762	3784	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+3786	3791	Трамп	Трамп	PER	PER-Donald-Trump
+3851	3863	американских	американский	LOC	GPE-USA
+3876	3881	Китая	Китай	LOC	GPE-China
+3884	3901	Соединённые Штаты	Соединённые Штаты	LOC	GPE-USA
+4107	4113	Трампа	Трамп	PER	PER-Donald-Trump
+4116	4125	Белый дом	Белый дом	ORG	ORG-The-White-House
+4164	4175	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+4178	4185	Пекином	Пекин	LOC	GPE-Beijing
+4228	4246	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+4296	4299	КНР	КНР	LOC	GPE-China
+4318	4330	американских	американский	LOC	GPE-USA
+4437	4440	КНР	КНР	LOC	GPE-China
+4541	4552	американцев	американцы	PER	GPE-USA
+4566	4571	Китая	Китай	LOC	GPE-China
+4623	4629	Пекину	Пекин	LOC	GPE-Beijing
+4728	4730	RT	RT	PRO	PRO-RT-Russia-Today
+4757	4783	Института США и Канады РАН	Институт США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAS
+4784	4801	Владимир Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+4827	4837	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+4889	4898	китайские	китайские	LOC	GPE-China
+4931	4934	США	США	LOC	GPE-USA
+4993	4996	КНР	КНР	LOC	GPE-China
+5047	5052	Трамп	Трамп	PER	PER-Donald-Trump
+5111	5120	китайские	китайские	LOC	GPE-China
+5233	5236	США	США	LOC	GPE-USA
+5316	5343	Государственного совета КНР	Государственный совет КНР	ORG	ORG-States-Council-of-the-People's-Republic-of-China
+5344	5349	Лю Хэ	Лю Хэ	PER	PER-Liu-He
+5353	5366	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+5395	5422	Государственного совета КНР	Государственный совет КНР	ORG	ORG-States-Council-of-the-People's-Republic-of-China
+5423	5428	Лю Хэ	Лю Хэ	PER	PER-Liu-He
+5450	5467	Соединённые Штаты	Соединённые Штаты	LOC	GPE-USA
+5470	5473	КНР	КНР	LOC	GPE-China
+5600	5605	Пекин	Пекин	LOC	GPE-Beijing
+5675	5685	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+5729	5735	Китаем	Китай	LOC	GPE-China
+5769	5774	Трамп	Трамп	PER	PER-Donald-Trump
+5801	5818	Соединённые Штаты	Соединённые Штаты	LOC	GPE-USA
+5847	5850	КНР	КНР	LOC	GPE-China
+5943	5952	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+6006	6011	Пекин	Пекин	LOC	GPE-Beijing
+6076	6088	американских	американский	LOC	GPE-USA
+6139	6144	Трамп	Трамп	PER	PER-Donald-Trump
+6228	6239	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+6307	6310	КНР	КНР	LOC	GPE-China
+6383	6407	Foxconn Technology Group	Foxconn Technology Group	ORG	ORG-ADS-Group-Limited
+6440	6443	США	США	LOC	GPE-USA
+6454	6459	Apple	Apple	PRO	PRO-Apple-Store
+6491	6503	американских	американский	LOC	GPE-USA
+6567	6573	Трампа	Трамп	PER	PER-Donald-Trump
+6598	6605	Reuters	Reuters	ORG	ORG-Reuters
+6634	6637	США	США	LOC	GPE-USA
+6726	6729	КНР	КНР	LOC	GPE-China
+6769	6780	Белого дома	Белый дом	ORG	ORG-The-White-House
+6817	6822	Tesla	Tesla	ORG	ORG-Tesla-company
+6825	6836	Ford Motors	Ford Motors	ORG	ORG-General-Motors
+6855	6866	Target Corp	Target Corp	ORG	ORG-Target
+6890	6902	Ralph Lauren	Ralph Lauren	ORG	ORG-Ralph-Lauren
+6922	6925	США	США	LOC	GPE-USA
+6926	6936	Марк Эспер	Марк Эспер	PER	PER-Mark-Esper
+6949	6955	Россия	Россия	LOC	GPE-Russia
+6958	6963	Китай	Китай	LOC	GPE-China
+7058	7075	Владимир Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+7114	7120	Трампа	Трамп	PER	PER-Donald-Trump
+7282	7293	Белого дома	Белый дом	ORG	ORG-The-White-House
+7330	7333	КНР	КНР	LOC	GPE-China
+7336	7339	США	США	LOC	GPE-USA
+7395	7413	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+7497	7515	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+7530	7539	китайских	китайский	LOC	GPE-China
+7629	7642	американского	американский	LOC	GPE-USA
+7704	7707	КНР	КНР	LOC	GPE-China
+7740	7752	американской	американская	LOC	GPE-USA
+7853	7861	Васильев	Васильев	PER	PER-Vladimir-Vasilyev
+7909	7939	Института Дальнего Востока РАН	Институт Дальнего Востока РАН	ORG	ORG-Institute-of-Far-Eastern-Studies-of-the-Russian-Academy-of-Studies
+7940	7954	Алексей Маслов	Алексей Маслов	PER	PER-Alexey-Maslov
+7970	7972	RT	RT	ORG	ORG-RT
+8010	8016	Трампа	Трамп	PER	PER-Donald-Trump
+8069	8074	Китая	Китай	LOC	GPE-China
+8077	8080	США	США	LOC	GPE-USA
+8171	8176	Трамп	Трамп	PER	PER-Donald-Trump
+8227	8230	КНР	КНР	LOC	GPE-China
+8281	8299	Соединённым Штатам	Соединённые Штаты	LOC	GPE-USA
+8352	8357	Китая	Китай	LOC	GPE-China
+8376	8381	Индию	Индия	LOC	GPE-India
+8383	8391	Бразилию	Бразилия	LOC	GPE-Brazil
+8393	8402	Аргентину	Аргентина	LOC	GPE-Argentina
+8458	8463	Трамп	Трамп	PER	PER-Donald-Trump
+8513	8522	китайских	китайский	LOC	GPE-China
+8536	8548	американском	американский	LOC	GPE-USA
+8592	8606	Алексей Маслов	Алексей Маслов	PER	PER-Alexey-Maslov
+8713	8720	Пекином	Пекин	LOC	GPE-Beijing
+8796	8814	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+8840	8845	Китай	Китай	LOC	GPE-China
+8852	8855	США	США	LOC	GPE-USA
+8904	8912	китайско	китайские	LOC	GPE-China
+8913	8925	американские	американские	LOC	GPE-USA
+8980	8983	КНР	КНР	LOC	GPE-China
+9025	9028	США	США	LOC	GPE-USA
+9038	9043	Китай	Китай	LOC	GPE-China
+9078	9090	американские	американские	LOC	GPE-USA
+9149	9158	китайском	китайский	LOC	GPE-China
+9177	9183	Маслов	Маслов	PER	PER-Alexey-Maslov
+9227	9241	Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+9313	9327	Симоньян М. С.	Симоньян М. С.	PER	PER-Margarita-Simonyan
+9352	9358	Москва	Москва	LOC	GPE-Moscow
+9360	9373	Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street

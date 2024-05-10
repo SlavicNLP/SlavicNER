@@ -1,0 +1,29 @@
+11	18	Austria	Austria	LOC	GPE-Austria
+25	35	Gazpromowi	Gazprom	ORG	ORG-Gazprom
+37	45	Rosjanie	Rosjanie	PER	GPE-Russia
+86	109	Business Insider Polska	Business Insider Polska	PRO	PRO-Business-Insider-Polska
+131	136	Rosją	Rosja	LOC	GPE-Russia
+139	147	Zachodem	Zachód	LOC	LOC-West
+169	176	Gazprom	Gazprom	ORG	ORG-Gazprom
+203	209	Europy	Europa	LOC	LOC-Europe
+270	278	Rosjanie	Rosjanie	PER	GPE-Russia
+318	323	Rosja	Rosja	LOC	GPE-Russia
+416	422	Europy	Europa	LOC	LOC-Europe
+433	439	Polski	Polska	LOC	GPE-Poland
+442	450	Bułgarii	Bułgaria	LOC	GPE-Bulgaria
+487	494	Gazprom	Gazprom	ORG	ORG-Gazprom
+517	524	Niemiec	Niemcy	LOC	GPE-Germany
+569	592	Business Insider Polska	Business Insider Polska	PRO	PRO-Business-Insider-Polska
+596	603	Europie	Europa	LOC	LOC-Europe
+726	731	Rosja	Rosja	LOC	GPE-Russia
+763	770	Austrii	Austria	LOC	GPE-Austria
+771	784	Karl Nehammer	Karl Nehammer	PER	PER-Karl-Nehammer
+808	818	Gazpromowi	Gazprom	ORG	ORG-Gazprom
+838	845	Gazprom	Gazprom	ORG	ORG-Gazprom
+963	977	Kronen Zeitung	Kronen Zeitung	PRO	PRO-Kronen-Zeitung
+1009	1016	Haidach	Haidach	LOC	LOC-Haidach
+1019	1028	Salzburgu	Salzburg	LOC	GPE-Salzburg
+1166	1173	Zachodu	Zachód	LOC	LOC-West
+1186	1191	Rosji	Rosja	LOC	GPE-Russia
+1195	1202	Europie	Europa	LOC	LOC-Europe
+1264	1270	Rosjan	Rosjanie	LOC	GPE-Russia

@@ -1,0 +1,25 @@
+0	15	Станимир Вълков	Станимир Вълков	PER	PER-Stanimir-Valkov
+64	67	САЩ	САЩ	LOC	GPE-USA
+68	80	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+156	162	Фигаро	Фигаро	PRO	PRO-Figaro
+255	277	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+280	288	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+343	348	Сенат	Сенат	ORG	ORG-United-States-Senate
+351	356	Тръмп	Тръмп	PER	PER-Donald-Trump
+439	450	демократите	демократи	PER	ORG-Democratic-Party-USA
+462	471	Белия дом	Бял дом	LOC	LOC-White-House
+474	480	Сената	Сенат	ORG	ORG-United-States-Senate
+622	632	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+684	689	Тръмп	Тръмп	PER	PER-Donald-Trump
+760	768	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+903	907	Иран	Иран	LOC	GPE-Iran
+922	972	Международната организация на криминалната полиция	Международна организация на криминалната полиция	ORG	ORG-Interpol
+974	982	Интерпол	Интерпол	ORG	ORG-Interpol
+1055	1067	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1122	1137	Касем Солеймани	Касем Солеймани	PER	PER-Qasem-Soleimani
+1165	1168	ДПА	ДПА	ORG	ORG-DPA
+1183	1191	Интерпол	Интерпол	ORG	ORG-Interpol
+1256	1261	Тръмп	Тръмп	PER	PER-Donald-Trump
+1311	1320	Пентагона	Пентагон	LOC	LOC-The-Pentagon
+1397	1418	иранския Върховен съд	Ирански Върховен съд	ORG	ORG-Supreme-Court-of-Iran
+1419	1439	Голам Хосейн Исмаили	Голам Хосейн Исмаили	PER	PER-Gholamhossein-Esmaili

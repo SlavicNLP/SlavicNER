@@ -1,0 +1,61 @@
+0	3	ZDA	ZDA	LOC	GPE-USA
+57	62	Trump	Trump	PER	PER-Donald-Trump
+92	100	Covid-19	Covid-19	EVT	EVT-Covid-19
+113	116	ZDA	ZDA	LOC	GPE-USA
+117	129	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+182	226	ameriškemu ministrstvu za domovinsko varnost	ameriško ministrstvo za domovinsko varnost	ORG	ORG-US-Department-of-Homeland-Security
+248	250	3M	3M	ORG	ORG-3M
+279	297	zaščitnih mask N95	zaščitne maske N95	PRO	PRO-N95-Face-Mask
+357	376	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+390	393	ZDA	ZDA	LOC	GPE-USA
+454	459	Trump	Trump	PER	PER-Donald-Trump
+482	492	Američanom	Američani	PER	GPE-USA
+552	571	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+577	580	ZDA	ZDA	LOC	GPE-USA
+649	657	New York	New York	LOC	GPE-New-York-State
+717	725	New York	New York	LOC	GPE-New-York
+767	775	New York	New York	LOC	GPE-New-York
+800	804	Iran	Iran	LOC	GPE-Iran
+807	810	ZDA	ZDA	LOC	GPE-USA
+995	1001	Boston	Boston	LOC	GPE-Boston
+1063	1083	New England Patriots	New England Patriots	ORG	ORG-New-England-Patriots
+1115	1124	Kitajskem	Kitajska	LOC	GPE-China
+1140	1154	Massachusettsa	Massachusetts	LOC	GPE-Massachusetts
+1155	1168	Charlie Baker	Charlie Baker	PER	PER-Charlie-Baker
+1262	1271	New Yorku	New York	LOC	GPE-New-York
+1323	1335	zvezno vlado	zvezna vlada	ORG	ORG-Government-of-USA
+1397	1404	Trumpov	Trumpov	PER	PER-Donald-Trump
+1426	1439	Peter Navarro	Peter Navarro	PER	PER-Peter-Navarro
+1555	1558	ZDA	ZDA	LOC	GPE-USA
+1579	1591	Los Angelesa	Los Angeles	LOC	GPE-Los-Angeles
+1592	1605	Eric Garcetti	Eric Garcetti	PER	PER-Eric-Garcetti
+1721	1730	New Yorka	New York	LOC	GPE-New-York
+1731	1745	Bill de Blasio	Bill de Blasio	PER	PER-Bill-de-Blasio
+1748	1787	Ameriški center za nadzor nad boleznimi	Ameriški center za nadzor nad boleznimi	ORG	ORG-Centers-for-Disease-Control
+1789	1792	CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+1931	1936	Trump	Trump	PER	PER-Donald-Trump
+2023	2056	Svetovna zdravstvena organizacija	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+2058	2061	WHO	WHO	ORG	ORG-World-Health-Organization
+2193	2196	ZDA	ZDA	LOC	GPE-USA
+2241	2249	Pentagon	Pentagon	ORG	ORG-The-Pentagon
+2347	2389	Zvezna agencija za posredovanje v nesrečah	Zvezna agencija za posredovanje v nesrečah	ORG	ORG-Federal-Emergency-Management-Agency
+2391	2395	Fema	Fema	ORG	ORG-Federal-Emergency-Management-Agency
+2508	2520	Andrew Cuomo	Andrew Cuomo	PER	PER-Andrew-Cuomo
+2629	2633	Fema	Fema	ORG	ORG-Federal-Emergency-Management-Agency
+2639	2647	New York	New York	LOC	GPE-New-York
+2749	2758	Louisiana	Louisiana	LOC	GPE-Louisiana
+2808	2812	Fema	Fema	ORG	ORG-Federal-Emergency-Management-Agency
+2990	2995	Trump	Trump	PER	PER-Donald-Trump
+3068	3086	Chuckom Schumerjem	Chuck Schumer	PER	PER-Chuck-Schumer
+3176	3181	Trump	Trump	PER	PER-Donald-Trump
+3244	3256	zvezna vlada	zvezna vlada	ORG	ORG-Government-of-USA
+3289	3301	zvezna vlada	zvezna vlada	ORG	ORG-Government-of-USA
+3386	3393	Zaandam	Zaandam	PRO	PRO-Zaandam-Cruise-Ship
+3397	3406	Rotterdam	Rotterdam	PRO	PRO-Rotterdam-Cruise-Ship
+3469	3484	Fort Lauderdalu	Fort Lauderdale	LOC	LOC-Fort-Lauderdale
+3488	3495	Floridi	Florida	LOC	GPE-Florida
+3578	3581	ZDA	ZDA	LOC	GPE-USA
+3599	3607	Detroitu	Detroit	LOC	GPE-Detroit
+3628	3647	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+3678	3692	Jason Hargrove	Jason Hargrove	PER	PER-Jason-Hargrove
+3713	3722	Facebooku	Facebook	PRO	PRO-Facebook

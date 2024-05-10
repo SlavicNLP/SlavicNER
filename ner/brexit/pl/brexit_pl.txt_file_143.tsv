@@ -1,0 +1,72 @@
+0	15	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+44	48	Unii	Unia	ORG	ORG-European-Union
+87	90	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+91	94	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+95	115	FACUNDO ARRIZABALAGA	Facundo Arrizabalaga	PER	PER-Facundo-Arrizabalaga
+128	134	Brexit	Brexit	EVT	EVT-Brexit
+140	155	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+167	171	Unii	Unia	ORG	ORG-European-Union
+197	214	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+230	245	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+315	326	Alex Barker	Alex Barker	PER	PER-Alex-Barker
+341	357	Financial Timesa	Financial Times	PRO	PRO-Financial-Times
+421	441	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+545	549	Unii	Unia	ORG	ORG-European-Union
+871	874	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+875	878	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+879	899	FACUNDO ARRIZABALAGA	Facundo Arrizabalaga	PER	PER-Facundo-Arrizabalaga
+909	917	Brexicie	Brexit	EVT	EVT-Brexit
+1012	1019	Brexitu	Brexit	EVT	EVT-Brexit
+1202	1217	Davida Camerona	David Cameron	PER	PER-David-Cameron
+1290	1305	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+1339	1356	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1379	1381	UE	UE	ORG	ORG-European-Union
+1489	1496	Francji	Francja	LOC	GPE-France
+1499	1506	Niemiec	Niemcy	LOC	GPE-Germany
+1579	1587	Londynem	Londyn	LOC	GPE-London
+1590	1598	Brukselą	Bruksela	LOC	GPE-Brussles
+1682	1699	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1702	1704	UE	UE	ORG	ORG-European-Union
+1805	1811	Europy	Europa	LOC	LOC-Europe
+1865	1868	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1869	1872	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+1873	1893	FACUNDO ARRIZABALAGA	Facundo Arrizabalaga	PER	PER-Facundo-Arrizabalaga
+1901	1906	tvn24	TVN24	PRO	PRO-TVN24
+1907	1918	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1942	1944	UE	UE	ORG	ORG-European-Union
+1973	1984	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+2021	2038	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2179	2181	UE	UE	ORG	ORG-European-Union
+2190	2193	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2194	2197	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+2198	2218	FACUNDO ARRIZABALAGA	Facundo Arrizabalaga	PER	PER-Facundo-Arrizabalaga
+2226	2235	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2265	2274	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2309	2318	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2409	2426	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2439	2448	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2452	2458	Faktów	Fakty	PRO	PRO-Fakty
+2460	2463	TVN	TVN	PRO	PRO-TVN
+2523	2526	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2527	2530	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+2531	2551	FACUNDO ARRIZABALAGA	Facundo Arrizabalaga	PER	PER-Facundo-Arrizabalaga
+2559	2564	TVN24	TVN24	PRO	PRO-TVN24
+2566	2573	Reuters	Reuters	ORG	ORG-Reuters
+2574	2580	Polacy	Polacy	PER	GPE-Poland
+2590	2597	Brexitu	Brexit	EVT	EVT-Brexit
+2631	2648	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2655	2670	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2719	2726	Wyspach	Wyspy	LOC	GPE-Great-Britain
+2833	2840	Brexitu	Brexit	EVT	EVT-Brexit
+2861	2864	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2865	2868	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+2869	2889	FACUNDO ARRIZABALAGA	Facundo Arrizabalaga	PER	PER-Facundo-Arrizabalaga
+2897	2906	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2926	2929	USA	USA	LOC	GPE-USA
+2951	2958	Brexitu	Brexit	EVT	EVT-Brexit
+2983	2990	Brexitu	Brexit	EVT	EVT-Brexit
+3037	3041	Unia	Unia	ORG	ORG-European-Union
+3076	3086	24 godziny	24 godziny	PRO	PRO-24-godziny
+3090	3099	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+3130	3148	Andrzej Olechowski	Andrzej Olechowski	PER	PER-Andrzej-Olechowski
+3290	3307	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

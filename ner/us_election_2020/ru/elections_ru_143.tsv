@@ -1,0 +1,127 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+13	20	Байдена	Байден	PER	PER-Joe-Biden
+103	106	США	США	LOC	GPE-USA
+249	262	республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+265	278	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+299	312	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+343	355	Фреда Трампа	Фред Трамп	PER	PER-Fred-Trump-Jr
+394	403	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+437	442	Трамп	Трамп	PER	PER-Donald-Trump
+521	545	The Celebrity Apprentice	The Celebrity Apprentice	PRO	PRO-The-Apprentice
+567	587	президентские выборы	президентские выборы	EVT	EVT-2016-United-States-Presidential-Election
+638	644	Forbes	Forbes	PRO	PRO-Forbes
+665	671	Трампа	Трамп	PER	PER-Donald-Trump
+769	775	России	Россия	LOC	GPE-Russia
+827	833	Трампа	Трамп	PER	PER-Donald-Trump
+836	843	Москвой	Москва	LOC	GPE-Moscow
+871	877	Китаем	Китай	LOC	GPE-China
+897	900	США	США	LOC	GPE-USA
+904	909	ДРСМД	ДРСМД	PRO	PRO-INF-Intermediate-Range-Nuclear-Forces-Treaty
+912	938	Договора по открытому небу	Договор по открытому небу	PRO	PRO-The-Treaty-on-Open-Skies
+958	970	коронавируса	коронавирус	EVT	EVT-Covid-19
+1079	1085	Трампа	Трамп	PER	PER-Donald-Trump
+1171	1184	Мелании Трамп	Мелания Трамп	PER	PER-Melania-Trump
+1200	1208	Словении	Словения	LOC	GPE-Slovenia
+1212	1222	Майкл Пенс	Майкл Пенс	PER	PER-Mike-Pence
+1302	1322	Университета Индианы	Университет Индианы	ORG	ORG-University-of-Indiana
+1365	1396	палате представителей конгресса	палата представителей конгресса	ORG	ORG-United-States-House-of-Representatives
+1414	1421	Esquire	Esquire	PRO	PRO-Esquire
+1508	1515	Индианы	Индиана	LOC	GPE-Indiana
+1546	1561	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1605	1608	США	США	LOC	GPE-USA
+1702	1709	Индианы	Индиана	LOC	GPE-Indiana
+1867	1876	демократы	демократы	PER	ORG-Democratic-Party-USA
+1879	1889	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1944	1964	Университет Делавэра	Университет Делавэра	ORG	ORG-University-of-Delaware
+2002	2025	Сиракузский университет	Сиракузский университет	ORG	ORG-Syracuse-University
+2089	2096	Делавэр	Делавэр	LOC	GPE-Delaware
+2252	2277	войны в Персидском заливе	война в Персидском заливе	EVT	EVT-Gulf-War
+2296	2313	вторжения в Ливию	вторжение в Ливию	EVT	EVT-Invasion-of-Lebanon
+2340	2356	вторжение в Ирак	вторжение в Ирак	EVT	EVT-Invasion-of-Iraq
+2407	2419	Бараке Обаме	Барак Обама	PER	PER-Barack-Obama
+2482	2489	Россией	Россия	LOC	GPE-Russia
+2532	2535	США	США	LOC	GPE-USA
+2598	2616	Джилл Трейси Якобс	Джилл Трейси Якобс	PER	PER-Jill-Biden
+2630	2635	Нелия	Нелия	PER	PER-Neilia-Biden
+2700	2705	Наоми	Наоми	PER	PER-Naomi-Biden
+2709	2716	Байдена	Байден	PER	PER-Joe-Biden
+2733	2739	Хантер	Хантер	PER	PER-Hunter-Biden
+2764	2768	Эшли	Эшли	PER	PER-Ashley-Biden
+2783	2796	Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+2859	2869	Калифорнии	Калифорния	LOC	GPE-California
+2892	2898	Ямайки	 Ямайка	LOC	GPE-Jamaica
+2904	2909	Индии	Индия	LOC	GPE-India
+2962	2975	Сан-Франциско	Сан-Франциско	LOC	GPE-San-Francisco
+3007	3017	Калифорнии	Калифорния	LOC	GPE-California
+3231	3243	коронавируса	коронавирус	EVT	EVT-Covid-19
+3244	3252	COVID-19	COVID-19	EVT	EVT-Covid-19
+3268	3279	американцев	американцы	PER	GPE-USA
+3410	3427	выборах 2016 года	выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+3949	3970	Brookings Institution	Brookings Institution	PRO	PRO-Brookings-Institution
+4060	4068	COVID-19	COVID-19	EVT	EVT-Covid-19
+4111	4118	Алабаму	Алабама	LOC	GPE-USA-Alabama
+4121	4132	Нью-Гэмпшир	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+4527	4540	коронавирусом	коронавирус	EVT	EVT-Covid-19
+4570	4577	Россией	Россия	LOC	GPE-Russia
+4580	4585	Трамп	Трамп	PER	PER-Donald-Trump
+4713	4725	американское	американский	LOC	GPE-USA
+4754	4757	США	США	LOC	GPE-USA
+4924	4930	Байден	Байден	PER	PER-Joe-Biden
+5191	5194	США	США	LOC	GPE-USA
+5442	5447	Трамп	Трамп	PER	PER-Donald-Trump
+5480	5485	Китай	Китай	LOC	GPE-China
+5507	5513	Китаем	Китай	LOC	GPE-China
+5566	5579	американского	американский	LOC	GPE-USA
+5595	5610	Ближнем Востоке	Ближний Восток	LOC	LOC-Near-East
+5615	5621	Европе	Европа	LOC	LOC-Europe
+5624	5630	Байден	Байден	PER	PER-Joe-Biden
+5690	5695	Трамп	Трамп	PER	PER-Donald-Trump
+5707	5712	Китай	Китай	LOC	GPE-China
+5778	5809	Транстихоокеанскому партнерству	Транстизоокеанское партнерство	PRO	PRO-Trans-Pacific-Partnership
+5820	5823	США	США	LOC	GPE-USA
+5826	5841	иранскую сделку	иранская сделка	PRO	PRO-Iran-nuclear-deal
+5865	5877	европейскими	европейские	LOC	LOC-Europe
+5905	5909	НАТО	НАТО	ORG	ORG-NATO
+5912	5917	Трамп	Трамп	PER	PER-Donald-Trump
+5949	5956	Россией	Россия	LOC	GPE-Russia
+5959	5965	Китаем	Китай	LOC	GPE-China
+6034	6045	европейских	европейские	LOC	LOC-Europe
+6055	6065	российской	российский	LOC	GPE-Russia
+6140	6153	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+6156	6162	Байден	Байден	PER	PER-Joe-Biden
+6182	6187	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+6199	6205	Россию	Россия	LOC	GPE-Russia
+6243	6261	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+6283	6289	Москвы	Москва	LOC	GPE-Moscow
+6326	6329	США	США	LOC	GPE-USA
+6380	6387	Талибан	Талибан	PRO	PRO-Taliban
+6402	6408	России	Россия	LOC	GPE-Russia
+6423	6435	американских	американский	LOC	GPE-USA
+6448	6454	Трампа	Трамп	PER	PER-Donald-Trump
+6484	6489	Трамп	Трамп	PER	PER-Donald-Trump
+6548	6554	Байден	Байден	PER	PER-Joe-Biden
+6597	6600	NPR	NPR	PRO	PRO-NPR
+6774	6793	выборах в 2016 году	выборы в 2016 году	EVT	EVT-2016-United-States-Presidential-Election
+6921	6937	Real Clear Polls	Real Clear Polls	PRO	PRO-Real-Clear-Polls
+6939	6977	Федеральная избирательная комиссия США	Федеральная избирательная комиссия США	ORG	ORG-Federal-Elections-Commission
+7018	7021	США	США	LOC	GPE-USA
+7058	7061	США	США	LOC	GPE-USA
+7536	7546	Калифорния	Калифорния	LOC	GPE-California
+7597	7603	Техасе	Техас	LOC	GPE-Texas
+7622	7631	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+7634	7641	Флориде	Флорида	LOC	GPE-Florida
+7930	7935	Трамп	Трамп	PER	PER-Donald-Trump
+7966	7972	Техасе	Техас	LOC	GPE-Texas
+8245	8255	демократов	демократ	PER	ORG-Democratic-Party-USA
+8262	8275	республиканца	республиканец	PER	ORG-Republican-Party-USA
+8323	8330	Госдепа	Госдеп	ORG	ORG-Department-of-State-USA
+8331	8345	Колина Пауэлла	Колин Пауэлл	PER	PER-Colin-Powell
+8359	8367	Вермонта	Вермонт	LOC	GPE-Vermont
+8368	8382	Берни Сандерса	Берни Сандерс	PER	PER-Bernie-Sanders
+8524	8527	Мэн	Мэн	LOC	GPE-Maine
+8530	8538	Небраска	Небраска	LOC	GPE-Nebraska
+8548	8551	Мэн	Мэн	LOC	GPE-Maine
+8694	8702	Небраске	Небраска	LOC	GPE-Nebraska
+8870	8884	округ Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+8957	8976	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+9134	9141	Reuters	Reuters	PRO	ORG-Reuters

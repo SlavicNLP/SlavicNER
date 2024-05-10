@@ -1,0 +1,43 @@
+0	9	Финландия	Финландия	LOC	GPE-Finland
+17	32	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+50	59	Финландия	Финландия	LOC	GPE-Finland
+102	117	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+145	159	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+196	207	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+457	465	Германия	Германия	LOC	GPE-Germany
+648	662	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+711	720	Финландия	Финландия	LOC	GPE-Finland
+723	738	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+860	868	Германия	Германия	LOC	GPE-Germany
+889	896	Газпром	Газпром	ORG	ORG-Gazprom
+907	920	Норд Стрийм 2	Норд Стрийм 2	ORG	ORG-Nord-Stream-2-AG
+1012	1017	Русия	Русия	LOC	GPE-Russia
+1019	1025	Швеция	Швеция	LOC	GPE-Sweden
+1028	1033	Дания	Дания	LOC	GPE-Denmark
+1052	1059	Украйна	Украйна	LOC	GPE-Ukraine
+1170	1176	Европа	Европа	LOC	LOC-Europe
+1186	1191	Литва	Литва	LOC	GPE-Lithuania
+1193	1199	Латвия	Латвия	LOC	GPE-Latvia
+1202	1207	Полша	Полша	LOC	GPE-Poland
+1246	1257	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+1287	1290	САЩ	САЩ	LOC	GPE-USA
+1355	1361	Европа	Европа	LOC	LOC-Europe
+1409	1418	Финландия	Финландия	LOC	GPE-Finland
+1420	1446	Върховната рада на Украйна	Върховна рада на Украйна	ORG	ORG-Verkhovna-Rada
+1506	1521	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1557	1561	Киев	Киев	LOC	GPE-Kiev
+1595	1600	Русия	Русия	LOC	GPE-Russia
+1620	1626	Европа	Европа	LOC	LOC-Europe
+1635	1642	Газпром	Газпром	ORG	ORG-Gazprom
+1726	1732	Европа	Европа	LOC	LOC-Europe
+1813	1829	Централна Европа	Централна Европа	LOC	LOC-Central-Europe
+1897	1912	Върховната рада	Върховна рада	ORG	ORG-Verkhovna-Rada
+1978	1985	Украйна	Украйна	LOC	GPE-Ukraine
+1988	2008	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+2039	2054	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+2084	2097	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+2121	2137	Северна Германия	Северна Германия	LOC	LOC-North-Germany
+2151	2156	Чехия	Чехия	LOC	GPE-Czech-Republic
+2202	2209	Украйна	Украйна	LOC	GPE-Ukraine
+2211	2218	Беларус	Беларус	LOC	GPE-Belarus
+2220	2225	Полша	Полша	LOC	GPE-Poland

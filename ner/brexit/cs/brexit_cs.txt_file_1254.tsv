@@ -1,0 +1,14 @@
+27	33	brexit	brexit	EVT	EVT-Brexit
+66	68	EU	EU	ORG	ORG-European-Union
+104	119	Borise Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+206	214	Británie	Británie	LOC	GPE-Great-Britain
+216	223	Johnson	Johnson	PER	PER-Boris-Johnson
+277	292	Policy Exchange	Policy Exchange	ORG	ORG-Policy-Exchange
+368	388	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+535	542	brexitu	brexit	EVT	EVT-Brexit
+661	667	Anglie	Anglie	LOC	GPE-England
+677	690	West Midlands	West Midlands	LOC	LOC-West-Midlands
+717	724	brexitu	brexit	EVT	EVT-Brexit
+774	781	Londýna	Londýn	LOC	GPE-London
+827	834	brexitu	brexit	EVT	EVT-Brexit
+867	877	Johnsonova	Johnson	PER	PER-Boris-Johnson

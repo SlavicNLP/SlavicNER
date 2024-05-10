@@ -1,0 +1,55 @@
+0	7	Japonci	Japonci	PER	GPE-Japan
+20	26	czexit	czexit	EVT	EVT-Czexit
+33	39	Špicar	Špicar	PER	PER-Radek-Spicar
+43	57	Svazu průmyslu	Svaz průmyslu	ORG	ORG-Svaz-Prumyslu
+76	81	Česka	Česko	LOC	GPE-Czech-Republic
+117	132	České republiky	Česká republika	LOC	GPE-Czech-Republic
+135	148	Evropské unie	Evropská unie	ORG	ORG-European-Union
+172	190	Hospodářské komory	Hospodářská komora	ORG	ORG-Hospodarska-Komora
+193	217	Svazu průmyslu a dopravy	Svaz průmyslu a dopravy	ORG	ORG-Svaz-Prumyslu
+252	254	EU	EU	ORG	ORG-European-Union
+361	370	Běloruska	Bělorusko	LOC	GPE-Belarus
+372	377	Praha	Praha	LOC	GPE-Prague
+431	446	České republiky	Česká republika	LOC	GPE-Czech-Republic
+474	494	Fotobanka Profimedia	Fotobanka Profimedia	PRO	PRO-Profimedia-photobank
+519	524	Česka	Česko	LOC	GPE-Czech-Republic
+527	529	EU	EU	ORG	ORG-European-Union
+612	636	Svazu průmyslu a dopravy	Svaz průmyslu a dopravy	ORG	ORG-Svaz-Prumyslu
+637	649	Radek Špicar	Radek Špicar	PER	PER-Radek-Spicar
+762	770	twitteru	twitter	PRO	PRO-Twitter
+772	779	Japonce	Japonci	PER	GPE-Japan
+873	875	ČR	ČR	LOC	GPE-Czech-Republic
+878	880	EU	EU	ORG	ORG-European-Union
+934	936	EU	EU	ORG	ORG-European-Union
+1021	1023	EU	EU	ORG	ORG-European-Union
+1179	1185	Špicar	Špicar	PER	PER-Radek-Spicar
+1227	1229	EU	EU	ORG	ORG-European-Union
+1401	1408	Bruselu	Brusel	LOC	GPE-Brussles
+1424	1427	SPD	SPD	ORG	ORG-SPD-Party-CZ
+1428	1433	Kobza	Kobza	PER	PER-Kobza
+1457	1470	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1500	1505	Česko	Česko	LOC	GPE-Czech-Republic
+1512	1530	Hospodářské komory	Hospodářská komora	ORG	ORG-Hospodarska-Komora
+1536	1544	Británie	Británie	LOC	GPE-Great-Britain
+1563	1565	EU	EU	ORG	ORG-European-Union
+1645	1655	UniCreditu	UniCredit	ORG	ORG-Unicredit
+1656	1669	Pavel Sobíšek	Pavel Sobíšek	PER	PER-Pavel-Sobisek
+1680	1686	brexit	brexit	EVT	EVT-Brexit
+1696	1704	Británii	Británie	LOC	GPE-Great-Britain
+1794	1796	EU	EU	ORG	ORG-European-Union
+1798	1804	czexit	czexit	EVT	EVT-Czexit
+1816	1821	Česko	Česko	LOC	GPE-Czech-Republic
+1862	1869	czexitu	czexit	EVT	EVT-Czexit
+1911	1916	Česka	Česko	LOC	GPE-Czech-Republic
+1956	1963	Sobíšek	Sobíšek	PER	PER-Pavel-Sobisek
+1974	1980	czexit	czexit	EVT	EVT-Czexit
+2094	2099	Česka	Česko	LOC	GPE-Czech-Republic
+2151	2156	Česko	Česko	LOC	GPE-Czech-Republic
+2179	2188	Běloruska	Bělorusko	LOC	GPE-Belarus
+2220	2238	Hospodářské komory	Hospodářská komora	ORG	ORG-Hospodarska-Komora
+2254	2260	czexit	czexit	EVT	EVT-Czexit
+2402	2404	ČR	ČR	LOC	GPE-Czech-Republic
+2425	2430	Česko	Česko	LOC	GPE-Czech-Republic
+2443	2449	czexit	czexit	EVT	EVT-Czexit
+2677	2690	Miroslav Diro	Miroslav Diro	PER	PER-Miroslav-Diro
+2692	2695	ČTK	ČTK	ORG	ORG-CTK

@@ -1,0 +1,60 @@
+22	25	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+69	81	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+209	220	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+223	230	Мичиган	Мичиган	LOC	GPE-Michigan
+316	337	избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+509	514	Тръмп	Тръмп	PER	PER-Donald-Trump
+714	728	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+881	893	Сюзан Колинс	Сюзан Колинс	PER	PER-Susan-Collins
+897	901	Мейн	Мейн	LOC	GPE-Maine
+980	990	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1022	1027	Тръмп	Тръмп	PER	PER-Donald-Trump
+1099	1112	Руди Джулиани	Руди Джулиани	PER	PER-Rudy-Giuliani
+1214	1224	Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+1227	1235	Джулиани	Джулиани	PER	PER-Rudy-Giuliani
+1352	1358	Байдън	Байдън	PER	PER-Joe-Biden
+1373	1382	демократа	демократ	PER	ORG-Democratic-Party-USA
+1407	1418	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1441	1444	САЩ	САЩ	LOC	GPE-USA
+1521	1524	САЩ	САЩ	LOC	GPE-USA
+1555	1567	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1882	1893	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1936	1945	Уилям Бар	Уилям Бар	PER	PER-William-Barr
+1981	1984	САЩ	САЩ	LOC	GPE-USA
+2194	2197	САЩ	САЩ	LOC	GPE-USA
+2607	2613	Байдън	Байдън	PER	PER-Joe-Biden
+2615	2620	Тръмп	Тръмп	PER	PER-Donald-Trump
+2750	2756	Байдън	Байдън	PER	PER-Joe-Biden
+2806	2811	Тръмп	Тръмп	PER	PER-Donald-Trump
+2817	2830	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+2834	2837	САЩ	САЩ	LOC	GPE-USA
+2950	2961	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+3030	3044	Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+3048	3059	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+3197	3214	Пощенската служба	Пощенска служба	ORG	ORG-United-States-Postal-Service
+3217	3239	пандемията от Ковид-19	пандемия от Ковид-19	EVT	EVT-Pandemic
+3334	3348	Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+3352	3355	САЩ	САЩ	LOC	GPE-USA
+3484	3498	републиканците	републиканци	PER	ORG-Republican-Party-USA
+3545	3558	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+3578	3593	Ейми Кони Барет	Ейми Кони Барет	PER	PER-Amy-Coney-Barrett
+3781	3791	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3802	3807	Тръмп	Тръмп	PER	PER-Donald-Trump
+3971	3982	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+4071	4080	Белия дом	Бял дом	LOC	LOC-White-House
+4081	4095	Кайли Макинани	Кайли Макинани	PER	PER-Kayleigh-McEnany
+4105	4119	републиканците	републиканци	PER	ORG-Republican-Party-USA
+4262	4270	Макинани	Макинани	PER	PER-Kayleigh-McEnany
+4323	4330	Мичиган	Мичиган	LOC	GPE-Michigan
+4417	4421	Уейн	Уейн	LOC	GPE-Wayne-County
+4454	4461	Мичиган	Мичиган	LOC	GPE-Michigan
+4483	4488	Тръмп	Тръмп	PER	PER-Donald-Trump
+4584	4591	Аризона	Аризона	LOC	GPE-Arizona
+4606	4611	Тръмп	Тръмп	PER	PER-Donald-Trump
+4747	4753	Финикс	Финикс	LOC	GPE-Phoenix
+4869	4875	Байдън	Байдън	PER	PER-Joe-Biden
+4890	4898	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+4907	4913	Байдън	Байдън	PER	PER-Joe-Biden
+4938	4943	Тръмп	Тръмп	PER	PER-Donald-Trump
+5195	5212	Гейбриъл Стърлинг	Гейбриъл Стърлинг	PER	PER-Gabriel-Sterling
+5485	5493	Стърлинг	Стърлинг	PER	PER-Gabriel-Sterling

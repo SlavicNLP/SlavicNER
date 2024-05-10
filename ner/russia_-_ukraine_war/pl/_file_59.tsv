@@ -1,0 +1,42 @@
+11	17	Polski	Polska	LOC	GPE-Poland
+19	26	Estonii	Estonia	LOC	GPE-Estonia
+28	33	Łotwy	Łotwa	LOC	GPE-Latvia
+35	40	Litwy	Litwa	LOC	GPE-Lithuania
+43	50	Ukrainy	Ukraina	LOC	GPE-Ukraine
+66	73	Kijowie	Kijów	LOC	GPE-Kiev
+75	83	Zełenski	Zełenski	PER	PER-Volodymyr-Zelensky
+109	115	Polski	Polska	LOC	GPE-Poland
+117	124	Estonii	Estonia	LOC	GPE-Estonia
+126	131	Łotwy	Łotwa	LOC	GPE-Latvia
+134	139	Litwy	Litwa	LOC	GPE-Lithuania
+157	165	Ukrainie	Ukraina	LOC	GPE-Ukraine
+200	207	Ukrainy	Ukraina	LOC	GPE-Ukraine
+208	229	Wołodymyrem Zełenskim	Wołodymyr Zełenski	PER	PER-Volodymyr-Zelensky
+236	242	Kijowa	Kijów	LOC	GPE-Kiev
+295	302	Ukrainy	Ukraina	LOC	GPE-Ukraine
+448	456	Zełenski	Zełenski	PER	PER-Volodymyr-Zelensky
+469	476	Ukrainy	Ukraina	LOC	GPE-Ukraine
+478	484	Polski	Polska	LOC	GPE-Poland
+486	493	Estonii	Estonia	LOC	GPE-Estonia
+495	500	Łotwy	Łotwa	LOC	GPE-Latvia
+503	508	Litwy	Litwa	LOC	GPE-Lithuania
+524	531	Kijowie	Kijów	LOC	GPE-Kiev
+579	584	Rosję	Rosja	LOC	GPE-Russia
+896	908	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+949	961	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+1007	1012	Rosję	Rosja	LOC	GPE-Russia
+1079	1085	Kijowa	Kijów	LOC	GPE-Kiev
+1104	1112	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1281	1286	Rosja	Rosja	LOC	GPE-Russia
+1465	1472	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1473	1491	Wołodymyr Zełenski	Wołodymyr Zełenski	PER	PER-Volodymyr-Zelensky
+1594	1600	Kijowa	Kijów	LOC	GPE-Kiev
+1653	1660	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1821	1838	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1886	1906	Federacji Rosyjskiej	Federacja Rosyjska	LOC	GPE-Russia
+1991	1997	Europy	Europa	LOC	LOC-Europe
+2040	2055	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+2121	2129	Zełenski	Zełenski	PER	PER-Volodymyr-Zelensky
+2131	2143	Prezydent.pl	Prezydent.pl	PRO	PRO-Prezydent.pl
+2144	2148	Onet	Onet	PRO	PRO-Onet
+2149	2165	Jędrzej Stachura	Jędrzej Stachura	PER	PER-Jędrzej-Stachura

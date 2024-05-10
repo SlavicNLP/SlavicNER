@@ -1,0 +1,111 @@
+0	14	Sunday Express	Sunday Express	PRO	PRO-Sunday-Express
+16	30	Найджъл Фарадж	Найджъл Фарадж	PER	PER-Nigel-Farage
+75	81	Лондон	Лондон	LOC	GPE-London
+83	97	Найджъл Фарадж	Найджъл Фарадж	PER	PER-Nigel-Farage
+137	144	Брекзит	Брекзит	EVT	EVT-Brexit
+204	220	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+280	294	Sunday Express	Sunday Express	PRO	PRO-Sunday-Express
+312	338	Партията на независимостта	Партия на независимостта	ORG	ORG-UK-Independence-Party
+340	344	UKip	UKIP	ORG	ORG-UK-Independence-Party
+412	419	Брекзит	Брекзит	EVT	EVT-Brexit
+496	510	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+530	532	ЕС	ЕС	ORG	ORG-European-Union
+601	603	ЕС	ЕС	ORG	ORG-European-Union
+609	616	Брекзит	Брекзит	EVT	EVT-Brexit
+750	756	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+814	816	ЕС	ЕС	ORG	ORG-European-Union
+817	829	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+924	938	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1021	1023	ЕС	ЕС	ORG	ORG-European-Union
+1074	1088	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1102	1109	Брюксел	Брюксел	LOC	GPE-Brussles
+1120	1134	Найджъл Фарадж	Найджъл Фарадж	PER	PER-Nigel-Farage
+1155	1167	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+1306	1335	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+1338	1345	Брюксел	Брюксел	LOC	GPE-Brussles
+1347	1357	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+1368	1378	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1414	1421	Брекзит	Брекзит	EVT	EVT-Brexit
+1447	1459	The Guardian	The Guardian	PRO	PRO-The-Guardian
+1476	1493	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+1554	1564	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1620	1626	Европа	Европа	LOC	LOC-Europe
+1629	1649	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1704	1720	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1735	1742	Брекзит	Брекзит	EVT	EVT-Brexit
+1814	1817	Мей	Мей	PER	PER-Theresa-May
+1935	1943	Ла Манша	Ла Манша	LOC	LOC-English-Channel
+1989	1995	Европа	Европа	LOC	LOC-Europe
+2037	2051	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2143	2148	Блеър	Блеър	PER	PER-Tony-Blair
+2166	2173	Брюксел	Брюксел	LOC	GPE-Brussles
+2338	2352	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2410	2424	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+2454	2459	Блеър	Блеър	PER	PER-Tony-Blair
+2487	2489	ЕС	ЕС	ORG	ORG-European-Union
+2515	2529	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2648	2656	Sky news	Sky news	PRO	PRO-Sky-News-TV
+2690	2697	Брекзит	Брекзит	EVT	EVT-Brexit
+2734	2746	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+2748	2754	Лондон	Лондон	LOC	GPE-London
+2779	2805	Партията на независимостта	Партия на независимостта	ORG	ORG-UK-Independence-Party
+2809	2823	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2824	2837	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+2879	2887	британци	британци	PER	GPE-Great-Britain
+2916	2918	ЕС	ЕС	ORG	ORG-European-Union
+2946	2953	Брекзит	Брекзит	EVT	EVT-Brexit
+2999	3011	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+3018	3030	The Guardian	The Guardian	PRO	PRO-The-Guardian
+3069	3075	Барние	Барние	PER	PER-Michel-Barnier
+3092	3112	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+3150	3152	ЕС	ЕС	ORG	ORG-European-Union
+3184	3191	Брекзит	Брекзит	EVT	EVT-Brexit
+3310	3316	Барние	Барние	PER	PER-Michel-Barnier
+3385	3390	Фараж	Фараж	PER	PER-Nigel-Farage
+3454	3461	Брекзит	Брекзит	EVT	EVT-Brexit
+3513	3515	ЕС	ЕС	ORG	ORG-European-Union
+3749	3755	Барние	Барние	PER	PER-Michel-Barnier
+4111	4116	Фараж	Фараж	PER	PER-Nigel-Farage
+4137	4152	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+4154	4160	Лондон	Лондон	LOC	GPE-London
+4175	4182	Брекзит	Брекзит	EVT	EVT-Brexit
+4201	4214	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+4283	4285	ЕС	ЕС	ORG	ORG-European-Union
+4286	4298	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+4348	4356	британци	британци	PER	GPE-Great-Britain
+4400	4416	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+4426	4433	Reuters	Reuters	ORG	ORG-Reuters
+4435	4440	Фараж	Фараж	PER	PER-Nigel-Farage
+4473	4509	Британската партия на независимостта	Британска партия на независимостта	ORG	ORG-UK-Independence-Party
+4552	4566	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4567	4581	Дейвид Камерън	Дейвид Камерън	PER	PER-David-Cameron
+4606	4613	Брекзит	Брекзит	EVT	EVT-Brexit
+4819	4821	ЕС	ЕС	ORG	ORG-European-Union
+4825	4832	Брекзит	Брекзит	EVT	EVT-Brexit
+4874	4882	британци	британци	PER	GPE-Great-Britain
+4897	4904	Брекзит	Брекзит	EVT	EVT-Brexit
+4991	5005	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5006	5016	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+5097	5099	ЕС	ЕС	ORG	ORG-European-Union
+5146	5148	ЕС	ЕС	ORG	ORG-European-Union
+5203	5208	Фараж	Фараж	PER	PER-Nigel-Farage
+5229	5244	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+5246	5251	Париж	Париж	LOC	GPE-Paris
+5268	5275	Франция	Франция	LOC	GPE-France
+5276	5290	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+5393	5400	Брекзит	Брекзит	EVT	EVT-Brexit
+5481	5496	The Independent	The Independent	PRO	PRO-The-Independent
+5579	5586	Брекзит	Брекзит	EVT	EVT-Brexit
+5907	5913	Макрон	Макрон	PER	PER-Emmanuel-Macron
+6094	6096	ЕС	ЕС	ORG	ORG-European-Union
+6212	6219	Брекзит	Брекзит	EVT	EVT-Brexit
+6308	6323	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+6325	6331	Лондон	Лондон	LOC	GPE-London
+6359	6369	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+6381	6391	британците	британци	PER	GPE-Great-Britain
+6430	6437	Брекзит	Брекзит	EVT	EVT-Brexit
+6455	6463	EurActiv	EURACTIV	PRO	PRO-EURACTIV
+6473	6478	Блеър	Блеър	PER	PER-Tony-Blair
+6533	6553	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+6632	6634	ЕС	ЕС	ORG	ORG-European-Union
+6925	6936	Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov

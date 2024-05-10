@@ -1,0 +1,24 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+23	26	Мей	Мей	PER	PER-Theresa-May
+51	57	Лондон	Лондон	LOC	GPE-London
+59	61	ЕС	ЕС	ORG	ORG-European-Union
+92	106	Великобритания	Великобритания	LOC	GPE-Great-Britain
+107	117	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+287	293	Лондон	Лондон	LOC	GPE-London
+344	346	ЕС	ЕС	ORG	ORG-European-Union
+364	381	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+382	393	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+569	575	Лондон	Лондон	LOC	GPE-London
+663	681	Европейският съвет	Европейски съвет	ORG	ORG-European-Council
+726	740	Великобритания	Великобритания	LOC	GPE-Great-Britain
+943	945	ЕС	ЕС	ORG	ORG-European-Union
+997	1017	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1023	1030	Брекзит	Брекзит	EVT	EVT-Brexit
+1100	1106	Лондон	Лондон	LOC	GPE-London
+1108	1110	ЕС	ЕС	ORG	ORG-European-Union
+1134	1148	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1305	1325	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1435	1439	Туск	Туск	PER	PER-Donald-Tusk
+1466	1476	Люксембург	Люксембург	LOC	GPE-Luxembourg
+1560	1580	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1724	1730	Лондон	Лондон	LOC	GPE-London

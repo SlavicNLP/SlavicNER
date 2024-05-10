@@ -1,0 +1,39 @@
+18	25	brexitu	brexit	EVT	EVT-Brexit
+86	92	Britům	Britové	PER	GPE-Great-Britain
+121	134	Evropská unie	Evropská unie	ORG	ORG-European-Union
+162	169	brexitu	brexit	EVT	EVT-Brexit
+228	243	Evropské komisi	Evropská komise	ORG	ORG-European-Commission
+251	259	Británii	Británie	LOC	GPE-Great-Britain
+483	491	Británii	Británie	LOC	GPE-Great-Britain
+528	534	Londýn	Londýn	LOC	GPE-London
+537	543	Brusel	Brusel	LOC	GPE-Brussles
+573	586	Evropská unie	Evropská unie	ORG	ORG-European-Union
+623	626	BBC	BBC	PRO	PRO-BBC
+662	670	Británie	Británie	LOC	GPE-Great-Britain
+720	735	Evropské komisi	Evropská komise	ORG	ORG-European-Commission
+743	751	Británii	Británie	LOC	GPE-Great-Britain
+923	938	Financial Times	Financial Times	PRO	PRO-Financial-Times
+943	951	Británii	Británie	LOC	GPE-Great-Britain
+978	981	BBC	BBC	PRO	PRO-BBC
+1014	1020	Britům	Britové	PER	GPE-Great-Britain
+1104	1110	Londýn	Londýn	LOC	GPE-London
+1113	1119	Brusel	Brusel	LOC	GPE-Brussles
+1203	1205	EU	EU	ORG	ORG-European-Union
+1215	1222	brexitu	brexit	EVT	EVT-Brexit
+1279	1281	EU	EU	ORG	ORG-European-Union
+1314	1322	Británii	Británie	LOC	GPE-Great-Britain
+1394	1400	Londýn	Londýn	LOC	GPE-London
+1422	1424	EU	EU	ORG	ORG-European-Union
+1466	1473	brexitu	brexit	EVT	EVT-Brexit
+1483	1503	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+1525	1527	EU	EU	ORG	ORG-European-Union
+1729	1737	Británii	Británie	LOC	GPE-Great-Britain
+1745	1748	BBC	BBC	PRO	PRO-BBC
+1800	1806	Britům	Britové	PER	GPE-Great-Britain
+1937	1951	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+2024	2026	EU	EU	ORG	ORG-European-Union
+2029	2037	Británie	Británie	LOC	GPE-Great-Britain
+2094	2107	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+2177	2195	Spojené království	Spojené království	LOC	GPE-Great-Britain
+2214	2216	EU	EU	ORG	ORG-European-Union
+2222	2229	brexitu	brexit	EVT	EVT-Brexit

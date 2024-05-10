@@ -1,0 +1,22 @@
+19	25	brexit	brexit	EVT	EVT-Brexit
+50	58	Britance	Britanec	PER	GPE-Great-Britain
+162	168	brexit	brexit	EVT	EVT-Brexit
+186	196	London Eye	London Eye	PRO	PRO-London-Eye
+205	210	Temze	Temza	LOC	LOC-River-Thames
+290	306	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+792	799	Londona	London	LOC	GPE-London
+1176	1197	Westminstrsko opatijo	Westminstrska opatija	LOC	LOC-Westminster-Abbey
+1543	1554	Kew Gardens	Kew Gardens	LOC	LOC-Kew-Gardens
+1666	1679	Little Venice	Little Venice	LOC	LOC-Little-Venice-UK
+1683	1697	Regent's Parka	Regent's Park	LOC	LOC-Regent's-Park
+1706	1718	Camden Towna	Camden Town	LOC	LOC-Camden-Town
+2414	2420	brexit	brexit	EVT	EVT-Brexit
+2478	2494	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+2546	2555	Britancem	Britanec	PER	GPE-Great-Britain
+2584	2598	Evropske unije	Evropska unija	ORG	ORG-European-Union
+2599	2605	brexit	brexit	EVT	EVT-Brexit
+2899	2906	Londonu	London	LOC	GPE-London
+2993	3009	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+3077	3079	EU	EU	ORG	ORG-European-Union
+3115	3122	brexitu	brexit	EVT	EVT-Brexit
+3169	3177	Britance	Britanec	PER	GPE-Great-Britain

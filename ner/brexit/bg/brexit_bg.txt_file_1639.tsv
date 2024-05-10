@@ -1,0 +1,32 @@
+0	13	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+33	40	Брекзит	Брекзит	EVT	EVT-Brexit
+41	47	Лондон	Лондон	LOC	GPE-London
+66	68	ЕС	ЕС	ORG	ORG-European-Union
+91	105	Великобритания	Великобритания	LOC	GPE-Great-Britain
+106	119	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+172	192	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+213	220	Брекзит	Брекзит	EVT	EVT-Brexit
+260	267	Брюксел	Брюксел	LOC	GPE-Brussles
+288	290	ЕС	ЕС	ORG	ORG-European-Union
+360	363	Сън	Сън	PRO	PRO-The-Sun
+378	385	Ройтерс	Ройтерс	ORG	ORG-Reuters
+388	395	Джонсън	Джонсън	PER	PER-Boris-Johnson
+434	441	Брекзит	Брекзит	EVT	EVT-Brexit
+516	526	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+629	636	Джонсън	Джонсън	PER	PER-Boris-Johnson
+740	750	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+786	788	ЕС	ЕС	ORG	ORG-European-Union
+827	829	ЕС	ЕС	ORG	ORG-European-Union
+890	904	Великобритания	Великобритания	LOC	GPE-Great-Britain
+916	918	ЕС	ЕС	ORG	ORG-European-Union
+960	967	Брюксел	Брюксел	LOC	GPE-Brussles
+1043	1050	Брекзит	Брекзит	EVT	EVT-Brexit
+1080	1082	ЕС	ЕС	ORG	ORG-European-Union
+1166	1173	Брекзит	Брекзит	EVT	EVT-Brexit
+1189	1203	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1220	1222	ЕС	ЕС	ORG	ORG-European-Union
+1268	1270	ЕС	ЕС	ORG	ORG-European-Union
+1273	1286	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+1306	1313	Брекзит	Брекзит	EVT	EVT-Brexit
+1314	1320	Лондон	Лондон	LOC	GPE-London
+1339	1341	ЕС	ЕС	ORG	ORG-European-Union

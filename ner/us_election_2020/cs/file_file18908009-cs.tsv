@@ -1,0 +1,35 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+16	22	Trumpa	Trump	PER	PER-Donald-Trump
+33	44	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+170	194	prezidentské volby v USA	prezidentské volby v USA	EVT	EVT-2020-United-States-Presidential-Election
+218	220	AP	AP	ORG	ORG-AP-The-Associated-Press
+231	234	Fox	Fox	ORG	ORG-FOX
+235	240	Trump	Trump	PER	PER-Donald-Trump
+275	280	Biden	Biden	PER	PER-Joe-Biden
+332	335	CNN	CNN	PRO	PRO-CNN
+357	362	Biden	Biden	PER	PER-Joe-Biden
+373	379	Nevadě	Nevada	LOC	GPE-Nevada
+381	388	Georgii	Georgie	LOC	GPE-Georgia-US-state
+391	402	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+430	446	Severní Karolíně	Severní Karolína	LOC	GPE-North-Carolina-US-State
+457	462	Trump	Trump	PER	PER-Donald-Trump
+484	491	Arizoně	Arizona	LOC	GPE-Arizona
+500	502	AP	AP	ORG	ORG-AP-The-Associated-Press
+505	508	Fox	Fox	ORG	ORG-FOX
+537	543	Bidena	Biden	PER	PER-Joe-Biden
+577	588	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+589	594	Biden	Biden	PER	PER-Joe-Biden
+698	708	Bílém domě	Bílý dům	LOC	LOC-White-House
+765	772	Georgii	Georgie	LOC	GPE-Georgia-US-state
+841	846	Biden	Biden	PER	PER-Joe-Biden
+1063	1070	Georgii	Georgie	LOC	GPE-Georgia-US-state
+1122	1140	Brad Raffensperger	Brad Raffensperger	PER	PER-Brad-Raffensperger
+1349	1360	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+1389	1394	Biden	Biden	PER	PER-Joe-Biden
+1459	1465	Nevadě	Nevada	LOC	GPE-Nevada
+1514	1519	Biden	Biden	PER	PER-Joe-Biden
+1556	1562	Trumpa	Trump	PER	PER-Donald-Trump
+1585	1588	USA	USA	LOC	GPE-USA
+1609	1616	Arizoně	Arizona	LOC	GPE-Arizona
+1648	1656	Bidenova	Biden	PER	PER-Joe-Biden
+1689	1697	Trumpova	Trump	PER	PER-Donald-Trump

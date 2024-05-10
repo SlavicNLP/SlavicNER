@@ -1,0 +1,33 @@
+2	5	МЗС	МЗС	ORG	ORG-Foreign-Office
+6	13	Естонії	Естонія	LOC	GPE-Estonia
+46	65	Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+68	72	КИЇВ	Київ	LOC	GPE-Kiev
+83	86	УНН	УНН	ORG	ORG-UNN
+114	121	Естонії	Естонія	LOC	GPE-Estonia
+122	133	Свен Міксер	Свен Міксер	PER	PER-Sven-Mikser
+176	193	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+204	207	УНН	УНН	ORG	ORG-UNN
+224	226	DW	DW	ORG	ORG-Deutsche-Welle
+237	246	С.Міксера	С.Міксер	PER	PER-Sven-Mikser
+260	277	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+350	355	Росії	Росія	LOC	GPE-Russia
+388	394	Міксер	Міксер	PER	PER-Sven-Mikser
+438	440	ЄС	ЄС	LOC	ORG-European-Union
+456	459	УНН	УНН	ORG	ORG-UNN
+482	494	Майкл Помпео	Майкл Помпео	PER	PER-Mike-Pompeo
+506	530	Адміністрація президента	Адміністрація президента	ORG	ORG-US-President-Administration
+531	534	США	США	LOC	GPE-USA
+535	550	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+598	604	Європі	Європа	LOC	LOC-Europe
+619	636	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+674	683	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+711	730	Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+760	772	Пол Коркоран	Пол Коркоран	PER	PER-Paul-Corcoran
+806	823	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+827	832	Росії	Росія	LOC	GPE-Russia
+836	845	Німеччини	Німеччина	LOC	GPE-Germany
+923	932	Німеччині	Німеччина	LOC	GPE-Germany
+934	943	Фінляндії	Фінляндія	LOC	GPE-Finland
+947	953	Швеції	Швеція	LOC	GPE-Sweden
+963	976	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+1093	1098	Данії	Данія	LOC	GPE-Denmark

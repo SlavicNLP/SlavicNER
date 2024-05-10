@@ -1,0 +1,28 @@
+0	4	Gove	Gove	PER	PER-Michael-Gove
+6	12	London	London	LOC	GPE-London
+43	49	brexit	brexit	EVT	EVT-Brexit
+120	136	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+140	154	Evropske unije	Evropska unija	ORG	ORG-European-Union
+269	273	Gove	Gove	PER	PER-Michael-Gove
+311	317	brexit	brexit	EVT	EVT-Brexit
+418	420	EU	EU	ORG	ORG-European-Union
+461	467	Brexit	Brexit	EVT	EVT-Brexit
+497	501	Gove	Gove	PER	PER-Michael-Gove
+548	550	EU	EU	ORG	ORG-European-Union
+665	677	Sunday Times	Sunday Times	PRO	PRO-The-Sunday-Times
+710	717	Johnson	Johnson	PER	PER-Boris-Johnson
+811	813	EU	EU	ORG	ORG-European-Union
+856	867	Sajid Javid	Sajid Javid	PER	PER-Sajid-Javid
+881	897	Sunday Telegraph	Sunday Telegraph	PRO	PRO-The-Sunday-Telegraph
+957	973	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+1010	1012	EU	EU	ORG	ORG-European-Union
+1067	1070	dpa	dpa	ORG	ORG-DPA
+1201	1208	Johnson	Johnson	PER	PER-Boris-Johnson
+1240	1261	britanskem parlamentu	britanski parlament	ORG	ORG-British-Parlament
+1357	1365	Brusljem	Bruselj	LOC	GPE-Brussles
+1376	1397	Združenega kraljestva	Združeno kraljestvo	ORG	GPE-UK
+1435	1439	Otok	Otok	LOC	GPE-Great-Britain
+1449	1451	EU	EU	ORG	ORG-European-Union
+1568	1574	Irskem	Irska	LOC	GPE-Ireland
+1576	1592	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+1680	1682	EU	EU	ORG	ORG-European-Union

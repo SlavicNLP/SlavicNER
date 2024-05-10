@@ -1,0 +1,53 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+40	51	Chris Krebs	Chris Krebs	PER	PER-Chris-Krebs
+125	130	Krebs	Krebs	PER	PER-Christopher-Krebs
+226	239	republikanske	republikanski	ORG	ORG-Republican-Party-USA
+244	263	demokratske stranke	demokratska stranka	ORG	ORG-Democratic-Party-USA
+286	298	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+335	384	agencije za kibernetsko varnost in infrastrukturo	agencija za kibernetsko varnost in infrastrukturo	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+389	422	ministrstvu za domovinsko varnost	ministrstvo za domovinsko varnost	ORG	ORG-United-States-Secretary-of-Homeland-Security
+423	436	Chrisa Krebsa	Chris Krebs	PER	PER-Chris-Krebs
+561	569	Trumpovi	Trump	PER	PER-Donald-Trump
+583	588	Krebs	Krebs	PER	PER-Christopher-Krebs
+655	664	Bele hiše	Bela hiša	LOC	LOC-White-House
+775	780	Trump	Trump	PER	PER-Donald-Trump
+813	822	twitterja	twitter	PRO	PRO-Twitter
+859	880	Nadzor nad govoricami	Nadzor nad govoricami	PRO	PRO-Rumor-control
+937	945	Trumpovi	Trump	PER	PER-Donald-Trump
+1044	1049	Krebs	Krebs	PER	PER-Christopher-Krebs
+1111	1120	Američane	Američani	PER	GPE-USA
+1266	1269	ZDA	ZDA	LOC	GPE-USA
+1290	1295	Trump	Trump	PER	PER-Donald-Trump
+1315	1322	Bidnove	Biden	PER	PER-Joe-Biden
+1349	1354	Trump	Trump	PER	PER-Donald-Trump
+1427	1440	Marka Esperja	Mark Esper	PER	PER-Mark-Esper
+1475	1484	Pentagona	Pentagon	ORG	ORG-The-Pentagon
+1707	1718	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+1801	1804	ZDA	ZDA	LOC	GPE-USA
+1805	1810	Bidna	Biden	PER	PER-Joe-Biden
+1860	1869	Američani	Američani	PER	GPE-USA
+1935	1940	Trump	Trump	PER	PER-Donald-Trump
+2016	2019	ZDA	ZDA	LOC	GPE-USA
+2054	2063	Trumpovih	Trump	PER	PER-Donald-Trump
+2116	2123	Bidnove	Biden	PER	PER-Joe-Biden
+2134	2146	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2271	2283	Philadelphie	Philadelphia	LOC	GPE-Philadelphia
+2286	2291	Krebs	Krebs	PER	PER-Christopher-Krebs
+2551	2579	odbora za domovinsko varnost	odbor za domovinsko varnost	ORG	ORG-United-States-Secretary-of-Homeland-Security
+2582	2610	predstavniškem domu kongresa	predstavniški dom kongresa	ORG	ORG-House-of-Representatives(USA)
+2611	2626	Bennie Thompson	Bennie Thompson	PER	PER-Bennie-Thompson
+2648	2656	Trumpovo	Trump	PER	PER-Donald-Trump
+2702	2715	republikancem	republikanci	ORG	ORG-Republican-Party-USA
+2755	2762	Georgia	Georgia	LOC	GPE-Georgia-US-state
+2763	2781	Brad Raffensperger	Brad Raffensperger	PER	PER-Brad-Raffensperger
+2784	2791	Georgio	Georgia	LOC	GPE-Georgia-US-state
+2817	2822	Biden	Biden	PER	PER-Joe-Biden
+2889	2902	Raffensperger	Raffensperger	PER	PER-Brad-Raffensperger
+3094	3109	Washington Post	Washington Post	PRO	PRO-Washington-Post
+3134	3148	Južne Karoline	Južna Karolina	LOC	GPE-South-Carolina-US-State
+3149	3166	Lindseyja Grahama	Lindsey Graham	PER	PER-Lindsey-Graham
+3231	3237	Graham	Graham	PER	PER-Lindsey-Graham
+3380	3387	Georgii	Georgia	LOC	GPE-Georgia-US-state
+3443	3449	Graham	Graham	PER	PER-Lindsey-Graham
+3470	3483	Raffensperger	Raffensperger	PER	PER-Brad-Raffensperger
+3596	3601	Trump	Trump	PER	PER-Donald-Trump

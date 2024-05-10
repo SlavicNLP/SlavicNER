@@ -1,0 +1,29 @@
+0	8	Британия	Британия	LOC	GPE-Great-Britain
+43	55	коронавируса	коронавирус	EVT	EVT-Covid-19
+185	193	Британия	Британия	LOC	GPE-Great-Britain
+228	236	COVID-19	COVID-19	EVT	EVT-Covid-19
+244	251	REUTERS	Reuters	ORG	ORG-Reuters
+254	268	Великобритания	Великобритания	LOC	GPE-Great-Britain
+324	332	COVID-19	COVID-19	EVT	EVT-Covid-19
+445	469	Британское правительство	Британское правительство	ORG	ORG-the-UK-Government
+530	538	COVID-19	COVID-19	EVT	EVT-Covid-19
+659	670	Нового года	Новый год	EVT	EVT-New-Year
+878	888	Мэри Рамзи	Мэри Рамзи	PER	PER-Mary-Ramsay
+917	952	Министерстве здравоохранения Англии	Министерство здравоохранения Англии	ORG	ORG-British-Ministry-of-Health
+1192	1198	Pfizer	Pfizer	ORG	ORG-Pfizer
+1229	1240	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1494	1506	коронавируса	коронавирус	EVT	EVT-Covid-19
+1509	1517	Британия	Британия	LOC	GPE-Great-Britain
+1563	1575	коронавируса	коронавирус	EVT	EVT-Covid-19
+1639	1645	Pfizer	Pfizer	ORG	ORG-Pfizer
+1646	1654	BioNTech	BioNTech	ORG	ORG-BioNTech
+1657	1668	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1922	1930	COVID-19	COVID-19	EVT	EVT-Covid-19
+2298	2300	ЕС	ЕС	ORG	ORG-European-Union
+2331	2343	коронавируса	коронавирус	EVT	EVT-Covid-19
+2424	2430	Pfizer	Pfizer	ORG	ORG-Pfizer
+2431	2439	BioNTech	BioNTech	ORG	ORG-BioNTech
+2480	2482	ЕС	ЕС	ORG	ORG-European-Union
+2512	2519	Украины	Украина	LOC	GPE-Ukraine
+2537	2542	УНИАН	УНИАН	PRO	PRO-UNIAN
+2545	2553	Telegram	Telegram	PRO	PRO-Telegram

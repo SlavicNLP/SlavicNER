@@ -1,0 +1,178 @@
+0	4	Nato	Nato	ORG	ORG-NATO
+27	31	Nato	Nato	ORG	ORG-NATO
+123	129	Evrope	Evropa	LOC	LOC-Europe
+133	148	Severne Amerike	Severna Amerika	LOC	LOC-North-America
+178	199	washingtonsko pogodbo	washingtonska pogodba	PRO	PRO-North-Atlantic-Treaty
+272	293	ustanovne listine OZN	ustanovna listina OZN	PRO	PRO-Charter-of-the-United-Nations
+479	488	Evropejci	Evropejci	PER	LOC-Europe
+503	511	Slovenci	Slovenci	PER	GPE-Slovenia
+564	568	Nato	Nato	ORG	ORG-NATO
+591	594	ZDA	ZDA	LOC	GPE-USA
+641	644	ZDA	ZDA	LOC	GPE-USA
+780	800	druge svetovne vojne	druga svetovna vojna	EVT	EVT-World-War-II
+888	892	Nato	Nato	ORG	ORG-NATO
+1031	1041	Makedonija	Makedonija	LOC	GPE-North-Macedonia
+1055	1059	Nata	NATO	ORG	ORG-NATO
+1114	1116	EU	EU	ORG	ORG-European-Union
+1128	1130	EU	EU	ORG	ORG-European-Union
+1141	1145	Natu	Nato	ORG	ORG-NATO
+1247	1250	ZDA	ZDA	LOC	GPE-USA
+1277	1296	Marshallovega plana	Marshallov plan	PRO	PRO-Marshall-Plan
+1326	1330	Nata	NATO	ORG	ORG-NATO
+1356	1371	Sovjetske zveze	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+1385	1399	zahodne Evrope	zahodna Evropa	LOC	LOC-Western-Europe
+1409	1429	druge svetovne vojne	druga svetovna vojna	EVT	EVT-World-War-II
+1479	1490	Jugoslavija	Jugoslavija	LOC	GPE-Yugoslavia
+1496	1511	Marshallov plan	Marshallov plan	PRO	PRO-Marshall-Plan
+1669	1679	lord Ismay	lord Ismay	PER	PER-Hastings-Ismay-1st-Baron-Ismay
+1705	1709	Nata	NATO	ORG	ORG-NATO
+1767	1771	Nato	Nato	ORG	ORG-NATO
+1805	1812	Sovjete	Sovjeti	PER	GPE-Soviet-Union-USSR
+1820	1829	Američane	Američani	PER	GPE-USA
+1841	1846	Nemce	Nemci	PER	GPE-Germany
+1862	1866	Nata	NATO	ORG	ORG-NATO
+2066	2069	ZDA	ZDA	LOC	GPE-USA
+2172	2174	EU	EU	ORG	ORG-European-Union
+2253	2255	EU	EU	ORG	ORG-European-Union
+2342	2345	ZDA	ZDA	LOC	GPE-USA
+2349	2355	Evrope	Evropa	LOC	LOC-Europe
+2467	2482	Sovjetske zveze	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+2505	2509	Nata	NATO	ORG	ORG-NATO
+2776	2780	Nato	Nato	ORG	ORG-NATO
+2947	2961	Miloševićevega	Milošević	PER	PER-Slobodan-Milošević
+2990	3001	Jugoslavije	Jugoslavija	LOC	GPE-Yugoslavia
+3083	3087	Nata	NATO	ORG	ORG-NATO
+3247	3250	OZN	OZN	ORG	ORG-United-Nations
+3288	3308	Bosni in Hercegovini	Bosna in Hercegovina	LOC	GPE-Bosnia-and-Herzegovina
+3350	3362	Miloševićeve	Milošević	PER	PER-Slobodan-Milošević
+3363	3374	Jugoslavije	Jugoslavija	LOC	GPE-Yugoslavia
+3432	3438	Kosovu	Kosovo	LOC	GPE-Kosovo
+3556	3577	Varnostnega sveta OZN	varnostni svet OZN	ORG	ORG-United-Nations-Security-Council
+3581	3587	Natovo	Natov	ORG	ORG-NATO
+3604	3610	Kosovu	Kosovo	LOC	GPE-Kosovo
+3630	3634	KFOR	KFOR	ORG	ORG-KFOR
+3780	3783	OZN	OZN	ORG	ORG-United-Nations
+3968	3977	Sloveniji	Slovenija	LOC	GPE-Slovenia
+4007	4011	IFOR	IFOR	PRO	PRO-Implementation-Force-IFOR
+4015	4019	SFOR	SFOR	PRO	PRO-Stabilisation-Force-in-Bosnia-and-Herzegovina-SFOR
+4023	4028	Natom	Nato	ORG	ORG-NATO
+4059	4062	BiH	BiH	LOC	GPE-Bosnia-and-Herzegovina
+4074	4080	Kanade	Kanada	LOC	GPE-Canada
+4085	4096	Portugalske	Portugalska	LOC	GPE-Portugal
+4127	4131	Natu	Nato	ORG	ORG-NATO
+4178	4187	Slovenija	Slovenija	LOC	GPE-Slovenia
+4207	4211	Nata	NATO	ORG	ORG-NATO
+4441	4447	Evrope	Evropa	LOC	LOC-Europe
+4562	4572	Evropejcem	Evropejci	PER	LOC-Europe
+4582	4591	Slovencem	Slovenci	PER	GPE-Slovenia
+4675	4680	Natom	Nato	ORG	ORG-NATO
+4713	4726	vzhodu Evrope	vzhod Evrope	LOC	LOC-Eastern-Europe
+4734	4749	Bližnjem vzhodu	Bližnji vzhod	LOC	LOC-Middle-East
+4755	4769	severni Afriki	severna Afrika	LOC	LOC-North-Africa
+4794	4800	Balkan	Balkan	LOC	LOC-Balkans
+4831	4835	Nato	Nato	ORG	ORG-NATO
+4948	4963	Sovjetske zveze	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+4975	4981	Rusije	Rusija	LOC	GPE-Russia
+5052	5064	sueško krizo	sueška kriza	EVT	EVT-Suez-Crisis
+5069	5085	vojno v Vietnamu	vojna v Vietnamu	EVT	EVT-Vietnam-War
+5089	5094	Iraku	Irak	EVT	EVT-Iraq-War
+5232	5236	Nata	NATO	ORG	ORG-NATO
+5318	5321	ZDA	ZDA	LOC	GPE-USA
+5371	5401	nuklearnega sporazuma z Iranom	nuklearni sporazum z Iranom	PRO	PRO-Iran-nuclear-deal
+5445	5458	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+5477	5491	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+5505	5508	ZDA	ZDA	LOC	GPE-USA
+5520	5524	Nata	NATO	ORG	ORG-NATO
+5673	5694	washingtonske pogodbe	washingtonska pogodba	PRO	PRO-North-Atlantic-Treaty
+5954	5957	ZDA	ZDA	LOC	GPE-USA
+6016	6026	Trumpovega	Trump	PER	PER-Donald-Trump
+6039	6044	Obame	Obama	PER	PER-Barack-Obama
+6090	6093	ZDA	ZDA	LOC	GPE-USA
+6198	6213	Sovjetske zveze	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+6239	6245	Evropi	Evropa	LOC	LOC-Europe
+6460	6466	Evropa	Evropa	LOC	LOC-Europe
+6520	6524	ISAF	ISAF	PRO	PRO-International-Security-Assistance-Force-ISAF
+6526	6532	Natovi	Natov	ORG	ORG-NATO
+6545	6556	Afganistanu	Afganistan	LOC	GPE-Afghanistan
+6592	6596	Isis	Isis	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+6724	6728	Nata	NATO	ORG	ORG-NATO
+6741	6747	Walesu	Wales	LOC	GPE-Wales
+6768	6777	Slovenija	Slovenija	LOC	GPE-Slovenia
+6898	6905	Varšavi	Varšava	LOC	GPE-Warsaw
+6909	6916	Bruslju	Bruselj	LOC	GPE-Brussles
+7111	7117	Rusije	Rusija	LOC	GPE-Russia
+7151	7165	aneksija Krima	aneksija Krima	EVT	EVT-Annexation-of-Crimea
+7534	7543	Atlantika	Atlantik	LOC	LOC-Atlantic-Ocean
+7844	7860	slovenska vojska	Slovenska vojska	ORG	ORG-Slovenian-Armed-Forces
+7956	7960	Natu	Nato	ORG	ORG-NATO
+8091	8095	Natu	Nato	ORG	ORG-NATO
+8183	8192	Sloveniji	Slovenija	LOC	GPE-Slovenia
+8302	8306	Natu	Nato	ORG	ORG-NATO
+8631	8640	Slovenija	Slovenija	LOC	GPE-Slovenia
+8972	8978	Kosovu	Kosovo	LOC	GPE-Kosovo
+8988	8991	OZN	OZN	ORG	ORG-United-Nations
+8996	8998	EU	EU	ORG	ORG-European-Union
+9076	9083	Natovih	Natov	ORG	ORG-NATO
+9114	9121	Latviji	Latvija	LOC	GPE-Latvia
+9133	9140	Natovim	Natov	ORG	ORG-NATO
+9172	9180	Poljskem	Poljska	LOC	GPE-Poland
+9356	9372	Slovenske vojske	Slovenska vojska	ORG	ORG-Slovenian-Armed-Forces
+9493	9502	Slovenije	Slovenija	LOC	GPE-Slovenia
+9668	9672	Nato	Nato	ORG	ORG-NATO
+10097	10106	Slovenija	Slovenija	LOC	GPE-Slovenia
+10286	10290	Nato	Nato	ORG	ORG-NATO
+10342	10348	Evropo	Evropa	LOC	LOC-Europe
+10352	10367	Severno Ameriko	Severna Amerika	LOC	LOC-North-America
+10524	10529	Natom	Nato	ORG	ORG-NATO
+10607	10613	Kosovu	Kosovo	LOC	GPE-Kosovo
+10619	10630	Afganistanu	Afganistan	LOC	GPE-Afghanistan
+10644	10648	Nato	Nato	ORG	ORG-NATO
+10674	10680	Srbija	Srbija	LOC	GPE-Serbia
+10695	10700	Ciper	Ciper	LOC	GPE-Cyprus
+10734	10739	Natom	Nato	ORG	ORG-NATO
+10783	10789	Evropi	Evropa	LOC	LOC-Europe
+10795	10798	ZDA	ZDA	LOC	GPE-USA
+10850	10852	EU	EU	ORG	ORG-European-Union
+11058	11064	Evropi	Evropa	LOC	LOC-Europe
+11092	11096	Nata	NATO	ORG	ORG-NATO
+11099	11102	OZN	OZN	ORG	ORG-United-Nations
+11199	11205	Rusija	Rusija	LOC	GPE-Russia
+11299	11303	Nata	NATO	ORG	ORG-NATO
+11428	11437	Atlantika	Atlantik	LOC	LOC-Atlantic-Ocean
+11499	11502	ZDA	ZDA	LOC	GPE-USA
+11506	11512	Evropa	Evropa	LOC	LOC-Europe
+11598	11601	ZDA	ZDA	LOC	GPE-USA
+11637	11643	Evropa	Evropa	LOC	LOC-Europe
+11652	11654	EU	EU	ORG	ORG-European-Union
+11695	11697	EU	EU	ORG	ORG-European-Union
+11874	11890	Michaela Rühleja	Michael Rühle	PER	PER-Michael-Rühle
+12101	12103	EU	EU	ORG	ORG-European-Union
+12196	12202	Evrope	Evropa	LOC	LOC-Europe
+12232	12234	EU	EU	ORG	ORG-European-Union
+12258	12261	ZDA	ZDA	LOC	GPE-USA
+12265	12281	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+12362	12378	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+12384	12386	EU	EU	ORG	ORG-European-Union
+12423	12431	Francozi	Francozi	PER	GPE-France
+12559	12562	OZN	OZN	ORG	ORG-United-Nations
+12605	12609	Nata	NATO	ORG	ORG-NATO
+12634	12637	ZDA	ZDA	LOC	GPE-USA
+12749	12753	Nata	NATO	ORG	ORG-NATO
+12820	12826	Evropi	Evropa	LOC	LOC-Europe
+12910	12916	Rusije	Rusija	LOC	GPE-Russia
+12918	12924	Evropa	Evropa	LOC	LOC-Europe
+12941	12949	Kitajsko	Kitajska	LOC	GPE-China
+12971	12977	Rusija	Rusija	LOC	GPE-Russia
+13134	13142	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+13146	13153	Gruzije	Gruzija	LOC	GPE-Georgia
+13194	13209	Sovjetsko zvezo	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+13218	13224	Rusijo	Rusija	LOC	GPE-Russia
+13292	13296	Čehi	Čehi	PER	GPE-Czech-Republic
+13298	13305	Slovaki	Slovaki	PER	GPE-Slovakia
+13307	13314	Madžari	Madžari	PER	GPE-Hungary
+13316	13323	Poljaki	Poljaki	PER	GPE-Poland
+13335	13341	Evropa	Evropa	LOC	LOC-Europe
+13374	13380	Rusija	Rusija	LOC	GPE-Russia
+13429	13431	EU	EU	ORG	ORG-European-Union
+13470	13473	ZDA	ZDA	LOC	GPE-USA
+14195	14199	Nata	NATO	ORG	ORG-NATO

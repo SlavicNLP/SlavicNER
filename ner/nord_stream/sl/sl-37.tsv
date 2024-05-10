@@ -1,0 +1,68 @@
+0	5	Pahor	Pahor	PER	PER-Borut-Pahor
+13	22	Junckerja	Juncker	PER	PER-Jean-Claude-Juncker
+72	77	Pahor	Pahor	PER	PER-Borut-Pahor
+135	142	Hrvaška	Hrvaška	LOC	GPE-Croatia
+175	182	Bruselj	Bruselj	LOC	GPE-Brussles
+206	217	Borut Pahor	Borut Pahor	PER	PER-Borut-Pahor
+249	266	evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+267	290	Jean-Claudom Junckerjem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+307	323	evropskega sveta	evropski svet	ORG	ORG-European-Council
+324	339	Donaldom Tuskom	Donald Tusk	PER	PER-Donald-Tusk
+362	369	Bruslja	Bruselj	LOC	GPE-Brussles
+434	451	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+568	585	Zahodnemu Balkanu	Zahodni Balkan	LOC	LOC-Western-Balkans
+655	662	Bruslju	Bruselj	LOC	GPE-Brussles
+671	676	Pahor	Pahor	PER	PER-Borut-Pahor
+682	691	Junckerja	Juncker	PER	PER-Jean-Claude-Juncker
+718	735	evropska komisija	evropska komisija	ORG	ORG-European-Commission
+862	867	Pahor	Pahor	PER	PER-Borut-Pahor
+901	918	evropska komisija	evropska komisija	ORG	ORG-European-Commission
+990	1001	Sodiščem EU	Sodišče EU	ORG	ORG-European-Court-of-Justice
+1003	1008	Pahor	Pahor	PER	PER-Borut-Pahor
+1029	1038	Slovenija	Slovenija	LOC	GPE-Slovenia
+1063	1080	evropske komisije	evropska komisija	ORG	ORG-European-Commission
+1085	1092	Hrvaška	Hrvaška	LOC	GPE-Croatia
+1142	1144	EU	EU	ORG	ORG-European-Union
+1271	1273	EU	EU	ORG	ORG-European-Union
+1291	1308	Fredrik Reinfeldt	Fredrik Reinfeldt	PER	PER-Fredrik-Reinfeldt
+1333	1335	EU	EU	ORG	ORG-European-Union
+1339	1342	ZDA	ZDA	LOC	GPE-USA
+1357	1362	Pahor	Pahor	PER	PER-Borut-Pahor
+1379	1381	EU	EU	ORG	ORG-European-Union
+1668	1677	Slovenija	Slovenija	LOC	GPE-Slovenia
+1681	1688	Hrvaška	Hrvaška	LOC	GPE-Croatia
+1726	1733	Hrvaške	Hrvaška	LOC	GPE-Croatia
+1981	1987	Evropi	Evropa	LOC	LOC-Europe
+2026	2031	Pahor	Pahor	PER	PER-Borut-Pahor
+2037	2044	Bruslju	Bruselj	LOC	GPE-Brussles
+2085	2102	Pobudo treh morij	Pobuda treh morij	PRO	PRO-Three-Seas-Initiative
+2128	2137	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+2169	2178	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+2188	2195	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+2265	2267	EU	EU	ORG	ORG-European-Union
+2283	2291	Baltskim	Baltsko morje	LOC	LOC-Baltic-Sea
+2293	2303	Jadranskim	Jadransko morje	LOC	LOC-Adriatic-sea
+2307	2319	Črnim morjem	Črno morje	LOC	LOC-Black-Sea
+2340	2343	ZDA	ZDA	LOC	GPE-USA
+2380	2385	Pahor	Pahor	PER	PER-Borut-Pahor
+2457	2461	16+1	16+1	PRO	PRO-Cooperation-between-China-and-Central-and-Eastern-European_Countries-16-+-1
+2476	2483	Pekingu	Peking	LOC	GPE-Beijing
+2505	2512	vzhodne	vzhodna Evropa	LOC	LOC-Eastern-Europe
+2514	2521	srednje	srednja Evropa	LOC	LOC-Central-Europe
+2525	2543	jugovzhodne Evrope	jugovzhodna Evrope	LOC	LOC-Southeast-Europe
+2559	2569	Pahorjevem	Pahor	PER	PER-Borut-Pahor
+2652	2654	EU	EU	ORG	ORG-European-Union
+2658	2667	Ljubljano	Ljubljana	LOC	GPE-Ljubljana
+2699	2706	Nemčije	Nemčija	LOC	GPE-Germany
+2707	2734	Frank-Walterja Steinmeierja	Frank-Walter Steinmeier	PER	PER-Frank-Walter-Steinmeier
+2821	2834	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2858	2860	EU	EU	ORG	ORG-European-Union
+2871	2878	Poljsko	Poljska	LOC	GPE-Poland
+2928	2937	Atlantika	Atlantik	LOC	LOC-Atlantic-Ocean
+2941	2951	Pahorjevem	Pahor	PER	PER-Borut-Pahor
+3003	3011	Kitajska	Kitajska	LOC	GPE-China
+3028	3044	Ruska federacija	Ruska federacija	LOC	GPE-Russia
+3311	3322	Washingtona	Washington	LOC	GPE-WashingtonDC
+3358	3365	Varšavi	Varšava	LOC	GPE-Warsaw
+3384	3387	ZDA	ZDA	LOC	GPE-USA
+3388	3400	Donald Trump	Donald Trump	PER	PER-Donald-Trump

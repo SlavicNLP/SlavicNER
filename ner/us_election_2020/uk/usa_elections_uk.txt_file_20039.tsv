@@ -1,0 +1,59 @@
+15	18	США	США	LOC	GPE-USA
+19	23	Пенс	Пенс	PER	PER-Mike-Pence
+48	54	Трампа	Трамп	PER	PER-Donald-Trump
+68	72	Пенс	Пенс	PER	PER-Mike-Pence
+152	163	Конституції	Конституція	PRO	PRO-The-USA-Constitution
+167	176	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+219	230	Конституції	Конституція	PRO	PRO-The-USA-Constitution
+233	240	REUTERS	REUTERS	ORG	ORG-Reuters
+258	261	США	США	LOC	GPE-USA
+262	271	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+313	333	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+334	346	Ненсі Пелосі	Ненсі Пелосі	PER	PER-Nancy-Pelosi
+376	387	Конституції	Конституція	PRO	PRO-The-USA-Constitution
+421	436	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+463	471	The Hill	The Hill	PRO	PRO-The-Hill
+473	477	Пенс	Пенс	PER	PER-Mike-Pence
+557	568	Конституції	Конституція	PRO	PRO-The-USA-Constitution
+676	687	Конституції	Конституція	PRO	PRO-The-USA-Constitution
+700	704	Пенс	Пенс	PER	PER-Mike-Pence
+716	722	Пелосі	Пелосі	PER	PER-Nancy-Pelosi
+872	879	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+914	934	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+1016	1020	Пенс	Пенс	PER	PER-Mike-Pence
+1075	1081	Трампа	Трамп	PER	PER-Donald-Trump
+1291	1299	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+1469	1480	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+1501	1512	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1523	1527	Пенс	Пенс	PER	PER-Mike-Pence
+1613	1624	Білого Дому	Білий Дім	ORG	ORG-White-House
+1634	1643	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+1646	1656	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+1683	1689	Трампа	Трамп	PER	PER-Donald-Trump
+1702	1712	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+1732	1738	Трампа	Трамп	PER	PER-Donald-Trump
+1761	1770	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+1841	1849	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+1894	1912	колегії виборників	колегія виборників	ORG	ORG-United-States-Electoral-College
+1916	1923	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1953	1970	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+2029	2038	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+2126	2133	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2159	2179	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+2180	2191	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2217	2229	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+2259	2277	колегії виборників	колегія виборників	ORG	ORG-United-States-Electoral-College
+2300	2307	Байдена	Байден	PER	PER-Joe-Biden
+2311	2318	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2346	2351	Трамп	Трамп	PER	PER-Donald-Trump
+2389	2396	Байдену	Байден	PER	PER-Joe-Biden
+2400	2411	Інавгурація	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+2412	2419	Байдена	Байден	PER	PER-Joe-Biden
+2495	2519	Палаті представників США	Палата представників США	ORG	ORG-United-States-House-of-Representatives
+2563	2569	Трампу	Трамп	PER	PER-Donald-Trump
+2666	2686	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+2687	2690	США	США	LOC	GPE-USA
+2748	2759	Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+2836	2843	України	Україна	LOC	GPE-Ukraine
+2863	2868	УНІАН	УНІАН	ORG	ORG-UNIAN
+2871	2879	Telegram	Telegram	PRO	PRO-Telegram

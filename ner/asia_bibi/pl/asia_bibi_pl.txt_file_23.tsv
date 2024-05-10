@@ -1,0 +1,43 @@
+30	40	Pakistanie	Pakistan	LOC	GPE-Pakistan
+225	241	Sądu Najwyższego	Sąd Najwyższy	ORG	ORG-Supreme-Court-of-Pakistan
+274	283	Asię Bibi	Asia Bibi	PER	PER-Asia-Bibi
+351	361	Mahometowi	Mahomet	PER	PER-Mahomet
+481	491	Pakistanie	Pakistan	LOC	GPE-Pakistan
+599	615	Tehreek-e-Labaik	Tehreek-e-Labaik	ORG	ORG-Tehreek-e-Labbaik-Pakistan
+617	620	TLP	TLP	ORG	ORG-Tehreek-e-Labbaik-Pakistan
+694	701	Karaczi	Karaczi	LOC	GPE-Karachi
+738	744	Lahaur	Lahaur	LOC	GPE-Lahore
+764	771	Pendżab	Pendżab	LOC	GPE-Punjab
+801	807	Geo TV	Geo TV	PRO	PRO-Geo-TV
+847	854	Karaczi	Karaczi	LOC	GPE-Karachi
+902	908	Lahaur	Lahaur	LOC	GPE-Lahore
+981	993	Islamabadzie	Islamabad	LOC	GPE-Islamabad
+1037	1044	Reutera	Reuter	ORG	ORG-Reuters
+1082	1085	TLP	TLP	ORG	ORG-Tehreek-e-Labbaik-Pakistan
+1172	1179	Karaczi	Karaczi	LOC	GPE-Karachi
+1195	1202	Reutera	Reuter	ORG	ORG-Reuters
+1269	1272	TLP	TLP	ORG	ORG-Tehreek-e-Labbaik-Pakistan
+1537	1547	Imran Khan	Imran Khan	PER	PER-Imran-Khan
+1747	1751	Khan	Khan	PER	PER-Imran-Khan
+1972	1975	TLP	TLP	ORG	ORG-Tehreek-e-Labbaik-Pakistan
+1976	1996	Muhammad Afzal Qadri	Muhammad Afzal Qadri	PER	PER-Muhammad-Afzal-Qadri
+2040	2056	Sądu Najwyższego	Sąd Najwyższy	ORG	ORG-Supreme-Court-of-Pakistan
+2101	2110	Asię Bibi	Asia Bibi	PER	PER-Asia-Bibi
+2159	2164	Qadri	Qadri	PER	PER-Muhammad-Afzal-Qadri
+2166	2177	Hafiz Saeed	Hafiz Saeed	PER	PER-Hafiz-Muhammad-Saeed
+2207	2210	USA	USA	LOC	GPE-USA
+2244	2289	ataków terrorystycznych w Bombaju w 2008 roku	ataki terrorystyczne w Bombaju w 2008 roku	EVT	EVT-terrorist-attacks-in-Mumbai-2008
+2508	2517	Asia Bibi	Asia Bibi	PER	PER-Asia-Bibi
+2525	2533	Pakistan	Pakistan	LOC	GPE-Pakistan
+2611	2615	Bibi	Bibi	PER	PER-Asia-Bibi
+2617	2628	James Masih	James Masih	PER	PER-James-Masih
+2649	2665	Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+2710	2720	Pakistanie	Pakistan	LOC	GPE-Pakistan
+2783	2788	Masih	Masih	PER	PER-James-Masih
+2856	2858	AP	AP	ORG	ORG-AP-The-Associated-Press
+2905	2912	Francji	Francja	LOC	GPE-France
+2915	2924	Hiszpanii	Hiszoania	LOC	GPE-Spain
+2926	2935	Asia Bibi	Asia Bibi	PER	PER-Asia-Bibi
+2949	2960	Asia Noreen	Asia Noreen	PER	PER-Asia-Bibi
+3050	3058	Mahometa	Mahomet	PER	PER-Mahomet
+3105	3109	Bibi	Bibi	PER	PER-Asia-Bibi

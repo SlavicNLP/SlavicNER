@@ -1,0 +1,51 @@
+35	42	Prymula	Prymula	PER	PER-Roman-Prymula
+110	122	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+124	127	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+257	270	Roman Prymula	Roman Prymula	PER	PER-Roman-Prymula
+291	294	ČTK	ČTK	ORG	ORG-CTK
+322	336	Jiřího Ovčáčka	Jiří Ovčáček	PER	PER-Jiri-Ovcacek
+344	351	Prymulu	Prymula	PER	PER-Roman-Prymula
+375	380	Hradě	Hrad	LOC	LOC-Prague-Castle
+391	402	Miloš Zeman	Miloš Zeman	PER	PER-Milos-Zeman
+430	442	Adam Vojtěch	Adam Vojtěch	PER	PER-Adam-Vojtěch
+444	447	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+497	502	Praha	Praha	LOC	GPE-Prague
+639	653	Hradci Králové	Hradec Králové	LOC	LOC-Hradec-Králové
+989	997	Biovomed	Biovomed	ORG	ORG-Biovomed
+1214	1232	Zdravotnický deník	Zdravotnický deník	PRO	PRO-Zdravotnicky-denik-CZ
+1266	1273	Prymula	Prymula	PER	PER-Roman-Prymula
+1343	1351	Biovomed	Biovomed	ORG	ORG-Biovomed
+1490	1505	Miloslav Ludvík	Miloslav Ludvík	PER	PER-Miloslav-Ludvík
+1507	1511	ČSSD	ČSSD	ORG	ORG-CSSD-political-party-CZ
+1563	1574	iROZHLAS.cz	iROZHLAS.cz	PRO	PRO-iROZHLAS.cz
+1623	1631	Prymulův	Prymula	PER	PER-Roman-Prymula
+1678	1688	Vojtěchovi	Vojtěch	PER	PER-Adam-Vojtěch
+1739	1744	Babiš	Babiš	PER	PER-Andrej-Babis
+1814	1826	Adam Vojtěch	Adam Vojtěch	PER	PER-Adam-Vojtěch
+1828	1831	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+1834	1841	Prymula	Prymula	PER	PER-Roman-Prymula
+1853	1860	Vojtěch	Vojtěch	PER	PER-Adam-Vojtěch
+1905	1913	Prymulův	Prymula	PER	PER-Roman-Prymula
+1969	2004	Fakultní nemocnice v Hradci Králové	Fakultní nemocnice v Hradci Králové	LOC	LOC-University-Hospital-Hradec-Kralove
+2125	2129	Čínu	Čína	LOC	GPE-China
+2171	2178	Prymula	Prymula	PER	PER-Roman-Prymula
+2190	2209	Jaroslavem Tvrdíkem	Jaroslav Tvrdík	PER	PER-Jaroslav-Tvrdik
+2232	2236	Číny	Čína	LOC	GPE-China
+2239	2244	Česku	Česko	LOC	GPE-Czech-Republic
+2295	2299	CEFC	CEFC	ORG	ORG-CEFC
+2582	2586	CEFC	CEFC	ORG	ORG-CEFC
+2626	2634	Sinopsis	Sinopsis	PRO	ORG-Sinopsis
+2635	2647	Filip Jirouš	Filip Jirouš	PER	PER-Filip-Jirous
+2669	2673	Čínu	Čína	LOC	GPE-China
+2690	2697	Jirouše	Jirouš	PER	PER-Filip-Jirous
+2725	2734	Prymulova	Prymula	PER	PER-Roman-Prymula
+2767	2792	Národní bezpečnostní úřad	Národní bezpečnostní úřad	ORG	ORG-Narodni-bezpecnosti-urad-CZ
+2968	2979	koronavirus	koronavirus	EVT	EVT-Covid-19
+3136	3149	Seznam Zprávy	Seznam Zprávy	PRO	PRO-Seznam-Zpravy
+3237	3247	Úřad vlády	Úřad vlády	ORG	ORG-Office-of-the-Government-of-the-Czech-republic
+3382	3389	Prymula	Prymula	PER	PER-Roman-Prymula
+3428	3440	Adam Vojtěch	Adam Vojtěch	PER	PER-Adam-Vojtěch
+3499	3511	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+3513	3516	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+3580	3587	Prymulu	Prymula	PER	PER-Roman-Prymula
+3626	3641	Milošem Zemanem	Miloš Zeman	PER	PER-Milos-Zeman

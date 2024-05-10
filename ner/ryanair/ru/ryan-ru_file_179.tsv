@@ -1,0 +1,17 @@
+2	8	Италии	Италия	LOC	GPE-Italy
+63	69	REGNUM	REGNUM	ORG	ORG-REGNUM-News-Agency
+91	97	Италии	Италия	LOC	GPE-Italy
+329	333	Ansa	Ansa	ORG	ORG-Ansa
+611	616	Лацио	Лацио	LOC	LOC-Lazio
+630	634	Риме	Рим	LOC	GPE-Rome
+647	653	Турине	Турин	LOC	GPE-Torino
+721	728	Венеции	Венеция	LOC	GPE-Venezia
+730	737	Кальяри	Кальяри	LOC	GPE-Cagliari
+739	746	Палермо	Палермо	LOC	GPE-Palermo
+748	754	Милане	Милан	LOC	GPE-Milan
+757	762	Падуе	Падуя	LOC	GPE-Padova
+938	957	Corriere della sera	Corriere della sera	PRO	PRO-Corriere-della-sera
+998	1002	Бари	Бари	LOC	GPE-Bari
+1024	1030	Мальту	Мальта	LOC	GPE-Malta
+1038	1045	Ryanair	Ryanair	ORG	ORG-Ryanair
+1201	1207	Италии	Италия	LOC	GPE-Italy

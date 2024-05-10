@@ -1,0 +1,35 @@
+6	13	Витанов	Витанов	PER	PER-Nikolay-Vitanov
+76	83	Пирогов	Пирогов	LOC	LOC-Pirogov-Hospital-BG
+122	127	COVID	COVID-19	EVT	EVT-Covid-19
+217	225	COVID-19	COVID-19	EVT	EVT-Covid-19
+247	261	Нова телевизия	Нова телевизия	PRO	PRO-NOVATV
+277	303	Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+310	325	Николай Витанов	Николай Витанов	PER	PER-Nikolay-Vitanov
+510	518	COVID-19	COVID-19	EVT	EVT-Covid-19
+1238	1245	Витанов	Витанов	PER	PER-Nikolay-Vitanov
+1466	1477	коронавирус	коронавирус	EVT	EVT-Covid-19
+1499	1506	Пирогов	Пирогов	LOC	LOC-Pirogov-Hospital-BG
+1590	1593	bTV	bTV	PRO	PRO-BTV
+1624	1635	Асен Балтов	Асен Балтов	PER	PER-Asen-Baltov
+1758	1766	COVID-19	COVID-19	EVT	EVT-Covid-19
+1854	1861	Пирогов	Пирогов	LOC	LOC-Pirogov-Hospital-BG
+1906	1912	Балтов	Балтов	PER	PER-Asen-Baltov
+2058	2069	коронавирус	коронавирус	EVT	EVT-Covid-19
+2203	2215	коронавируса	коронавирус	EVT	EVT-Covid-19
+2284	2290	Балтов	Балтов	PER	PER-Asen-Baltov
+2537	2544	Пирогов	Пирогов	LOC	LOC-Pirogov-Hospital-BG
+2703	2714	коронавирус	коронавирус	EVT	EVT-Covid-19
+2831	2839	COVID-19	COVID-19	EVT	EVT-Covid-19
+2854	2877	"УМБАЛ ""Света Екатерина"""	"УМБАЛ ""Света Екатерина"""	LOC	LOC-St. Ekaterina-University-Hospital-BG
+2883	2888	ковид	КОВИД	EVT	EVT-Covid-19
+3015	3018	РЗИ	РЗИ	ORG	ORG-Regional-Health-Inspectorate-Bulgaria
+3021	3043	здравното министерство	Здравно министерство	ORG	ORG-Ministry-of-Health-Bulgaria
+3096	3099	БНТ	БНТ	ORG	ORG-Bulgarian-National-Television
+3106	3117	Генчо Начев	Генчо Начев	PER	PER-Gencho-Nachev
+3144	3167	"УМБАЛ ""Света Екатерина"""	"УМБАЛ ""Света Екатерина"""	LOC	LOC-St. Ekaterina-University-Hospital-BG
+3205	3217	коронавируса	коронавирус	EVT	EVT-Covid-19
+3312	3317	ковид	КОВИД	EVT	EVT-Covid-19
+3384	3392	COVID-19	COVID-19	EVT	EVT-Covid-19
+3572	3577	Начев	Начев	PER	PER-Gencho-Nachev
+3729	3744	Света Екатерина	Света Екатерина	LOC	LOC-St. Ekaterina-University-Hospital-BG
+4000	4005	Начев	Начев	PER	PER-Gencho-Nachev

@@ -1,0 +1,25 @@
+0	3	СЗО	СЗО	ORG	ORG-WHO
+5	8	САЩ	САЩ	LOC	GPE-USA
+51	58	Сенатът	Сенат	ORG	ORG-United-States-Senate
+123	159	Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+171	174	САЩ	САЩ	LOC	GPE-USA
+234	241	Ройтерс	Ройтерс	ORG	ORG-Reuters
+311	317	Европа	Европа	LOC	LOC-Europe
+320	323	САЩ	САЩ	LOC	GPE-USA
+352	355	САЩ	САЩ	LOC	GPE-USA
+381	394	коронавирусът	коронавирус	EVT	EVT-Covid-19
+432	435	САЩ	САЩ	LOC	GPE-USA
+469	483	Маргарет Харис	Маргарет Харис	PER	PER-Margaret-Harris
+498	501	СЗО	СЗО	ORG	ORG-WHO
+534	537	САЩ	САЩ	LOC	GPE-USA
+732	735	САЩ	САЩ	LOC	GPE-USA
+820	825	Тръмп	Тръмп	PER	PER-Donald-Trump
+828	835	Сенатът	Сенат	ORG	ORG-United-States-Senate
+951	963	коронавируса	коронавирус	EVT	EVT-Covid-19
+1018	1025	Сенатът	Сенат	ORG	ORG-United-States-Senate
+1156	1164	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1176	1179	CNN	CNN	PRO	PRO-CNN
+1597	1609	коронавируса	коронавирус	EVT	EVT-Covid-19
+2408	2420	коронавируса	коронавирус	EVT	EVT-Covid-19
+2434	2466	Администрацията за малкия бизнес	Администрация за малкия бизнес	ORG	ORG-Small-Business-Administration-SBA
+2468	2503	Small business Administration – SBA	Small business Administration	ORG	ORG-Small-Business-Administration-SBA

@@ -1,0 +1,97 @@
+0	15	The Independent	The Independent	PRO	PRO-The-Independent
+17	25	Ирландия	Ирландия	LOC	GPE-Ireland
+75	81	Дъблин	Дъблин	LOC	GPE-Dublin
+82	89	Белфаст	Белфаст	LOC	GPE-Belfast
+121	137	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+178	194	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+217	233	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+306	320	Великобритания	Великобритания	LOC	GPE-Great-Britain
+340	358	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+390	392	ЕС	ЕС	ORG	ORG-European-Union
+424	441	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+522	535	The Economist	The Economist	PRO	PRO-The-Economist
+1031	1044	Разпети петък	Разпети петък	EVT	EVT-Good-Friday
+1074	1076	ЕС	ЕС	ORG	ORG-European-Union
+1181	1195	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1274	1284	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1342	1350	Ирландия	Ирландия	LOC	GPE-Ireland
+1430	1440	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1484	1500	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1648	1662	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1740	1743	Мей	Мей	PER	PER-Theresa-May
+1774	1781	Брекзит	Брекзит	EVT	EVT-Brexit
+1783	1793	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2129	2145	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2167	2181	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2210	2226	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2302	2316	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2373	2380	Брекзит	Брекзит	EVT	EVT-Brexit
+2440	2450	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2514	2528	Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev
+2530	2536	Лондон	Лондон	LOC	GPE-London
+2560	2567	Брекзит	Брекзит	EVT	EVT-Brexit
+2642	2649	Брекзит	Брекзит	EVT	EVT-Brexit
+2713	2720	Брекзит	Брекзит	EVT	EVT-Brexit
+2721	2734	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+2737	2744	Брекзит	Брекзит	EVT	EVT-Brexit
+2824	2830	Дейвис	Дейвис	PER	PER-David-Davis
+3095	3109	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3231	3251	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3427	3434	Брекзит	Брекзит	EVT	EVT-Brexit
+3761	3775	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3798	3800	ЕС	ЕС	ORG	ORG-European-Union
+3849	3863	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4011	4031	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+4284	4294	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4553	4569	Европейският съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+4599	4613	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4619	4626	Брекзит	Брекзит	EVT	EVT-Brexit
+4727	4741	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4786	4788	ЕС	ЕС	ORG	ORG-European-Union
+4944	4956	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+4958	4963	София	София	LOC	GPE-Sofia
+4983	4985	ЕП	ЕП	ORG	ORG-European-Parliament
+4988	4993	София	София	LOC	GPE-Sofia
+5074	5094	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+5097	5113	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+5117	5133	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+5153	5155	ЕП	ЕП	ORG	ORG-European-Parliament
+5164	5171	Брекзит	Брекзит	EVT	EVT-Brexit
+5222	5243	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+5252	5259	Брекзит	Брекзит	EVT	EVT-Brexit
+5492	5514	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+5524	5542	Европейският съвет	Европейски съвет	ORG	ORG-European-Council
+5699	5701	ЕС	ЕС	ORG	ORG-European-Union
+5712	5732	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+5874	5894	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+5917	5919	ЕС	ЕС	ORG	ORG-European-Union
+6024	6044	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+6127	6147	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+6183	6191	Ирландия	Ирландия	LOC	GPE-Ireland
+6313	6333	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+6336	6338	ЕС	ЕС	ORG	ORG-European-Union
+6347	6354	Брекзит	Брекзит	EVT	EVT-Brexit
+6397	6417	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+6456	6458	ЕС	ЕС	ORG	ORG-European-Union
+6542	6544	ЕС	ЕС	ORG	ORG-European-Union
+6560	6580	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+6691	6693	ЕС	ЕС	ORG	ORG-European-Union
+6696	6716	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+6777	6779	ЕС	ЕС	ORG	ORG-European-Union
+6785	6805	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+6870	6872	ЕП	ЕП	ORG	ORG-European-Parliament
+6881	6888	Брекзит	Брекзит	EVT	EVT-Brexit
+6956	6960	LIBE	LIBE	ORG	ORG-LIBE
+6978	6982	AFCO	AFCO	ORG	ORG-AFCO
+7001	7005	JURI	JURI	ORG	ORG-JURI
+7036	7040	EMPL	EMPL	ORG	ORG-EMPL-European-Parliaments-Committee-on-Employment-and-Social-Affairs
+7083	7103	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+7369	7389	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+7392	7408	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+7412	7428	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+7539	7559	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+7672	7692	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+7695	7697	ЕС	ЕС	ORG	ORG-European-Union
+7733	7754	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+7802	7823	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+7896	7898	ЕС	ЕС	ORG	ORG-European-Union

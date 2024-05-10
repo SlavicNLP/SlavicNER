@@ -1,0 +1,13 @@
+0	16	"""Северный поток"""	"""Северный поток"""	PRO	PRO-Nord-Stream-1
+53	59	Европу	Европа	LOC	LOC-Europe
+99	115	"""Северный поток"""	"""Северный поток"""	PRO	PRO-Nord-Stream-1
+165	171	Европу	Европа	LOC	LOC-Europe
+238	252	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+276	290	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+326	332	Европе	Европа	LOC	LOC-Europe
+348	364	"""Северный поток"""	"""Северный поток"""	PRO	PRO-Nord-Stream-1
+754	770	"""Северный поток"""	"""Северный поток"""	PRO	PRO-Nord-Stream-1
+795	797	РФ	РФ	LOC	GPE-Russia
+800	808	Германию	Германия	LOC	GPE-Germany
+816	832	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
+964	978	Nord Stream AG	Nord Stream AG	PRO	PRO-Blue-Stream

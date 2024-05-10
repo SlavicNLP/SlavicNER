@@ -1,0 +1,51 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+64	81	Borisom Johnsonom	Boris Johnson	PER	PER-Boris-Johnson
+142	163	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+164	180	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+184	197	Severne Irske	Severna Irska	LOC	GPE-Northern-Ireland
+201	215	Evropske unije	Evropska unija	ORG	ORG-European-Union
+391	408	Borisom Johnsonom	Boris Johnson	PER	PER-Boris-Johnson
+458	466	brexitom	brexit	EVT	EVT-Brexit
+485	492	Johnson	Johnson	PER	PER-Boris-Johnson
+557	578	konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+597	608	Thereso May	Theresa May	PER	PER-Theresa-May
+695	697	EU	EU	ORG	ORG-European-Union
+741	754	Elizabeto II.	Elizabeta II.	PER	PER-Queen-Elizabeth-II
+993	1001	brexitom	brexit	EVT	EVT-Brexit
+1034	1041	Johnson	Johnson	PER	PER-Boris-Johnson
+1129	1131	EU	EU	ORG	ORG-European-Union
+1204	1211	brexitu	brexit	EVT	EVT-Brexit
+1227	1240	Konservativci	Konservativci	ORG	ORG-Conservative-and-Unionist-Party-UK
+1307	1328	liberalnim demokratom	liberalni demokrati	ORG	ORG-Liberal-Democrats-UK
+1342	1353	Phillip Lee	Phillip Lee	PER	PER-Phillip-Lee
+1392	1405	Konservativci	Konservativci	ORG	ORG-Conservative-and-Unionist-Party-UK
+1409	1431	severnoirski unionisti	severnoirski unionisti	ORG	ORG-DUP-Democratic-Unionist-Party
+1487	1496	laburisti	laburisti	ORG	ORG-Labour-Party-UK
+1498	1517	liberalni demokrati	liberalni demokrati	ORG	ORG-Liberal-Democrats-UK
+1592	1599	brexitu	brexit	EVT	EVT-Brexit
+1626	1633	Johnson	Johnson	PER	PER-Boris-Johnson
+1969	1971	EU	EU	ORG	ORG-European-Union
+2070	2077	brexitu	brexit	EVT	EVT-Brexit
+2105	2117	irskem otoku	irski otok	LOC	GPE-Ireland
+2119	2125	Johson	Johnson	PER	PER-Boris-Johnson
+2183	2192	Biarritzu	Biarritz	LOC	LOC-Biarritz
+2228	2241	Angelo Merkel	Angela Merkel	PER	PER-Angela-Merkel
+2269	2288	Emmanuelom Macronom	Emmanuel Macron	PER	PER-Emmanuel-Macron
+2358	2365	Johnson	Johnson	PER	PER-Boris-Johnson
+2462	2464	EU	EU	ORG	ORG-European-Union
+2480	2489	Laburisti	Laburisti	ORG	ORG-Labour-Party-UK
+2515	2536	konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+2579	2586	brexitu	brexit	EVT	EVT-Brexit
+2676	2682	brexit	brexit	EVT	EVT-Brexit
+2769	2776	brexita	brexit	EVT	EVT-Brexit
+2889	2896	brexitu	brexit	EVT	EVT-Brexit
+2918	2931	Evropski svet	Evropski svet	ORG	ORG-European-Council
+2980	2986	brexit	brexit	EVT	EVT-Brexit
+3110	3112	EU	EU	ORG	ORG-European-Union
+3254	3267	konservativci	konservativci	ORG	ORG-Conservative-and-Unionist-Party-UK
+3304	3313	laburisti	laburist	ORG	ORG-Labour-Party-UK
+3322	3343	liberalnimi demokrati	liberalnimi demokrati	ORG	ORG-Liberal-Democrats-UK
+3365	3371	Brexit	Brexit	EVT	EVT-Brexit
+3385	3399	Nigela Feragea	Nigel Ferage	PER	PER-Nigel-Farage
+3496	3503	brexitu	brexit	EVT	EVT-Brexit
+3547	3549	EU	EU	ORG	ORG-European-Union

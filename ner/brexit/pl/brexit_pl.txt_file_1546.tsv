@@ -1,0 +1,29 @@
+0	7	Szkocja	Szkocja	LOC	GPE-Scotland
+64	71	Szkocji	Szkocja	LOC	GPE-Scotland
+72	87	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+200	207	Brexitu	Brexit	EVT	EVT-Brexit
+319	326	Brexitu	Brexitu	EVT	EVT-Brexit
+354	369	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+372	374	UE	UE	ORG	ORG-European-Union
+481	489	Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+503	506	ITV	ITV	PRO	PRO-ITV
+540	548	Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+584	607	Szkocka Partia Narodowa	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+684	691	Brexitu	Brexit	EVT	EVT-Brexit
+768	783	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+836	843	Szkocja	Szkocja	LOC	GPE-Scotland
+861	867	Anglia	Anglia	LOC	GPE-England
+869	886	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+889	894	Walia	Walia	LOC	GPE-Wales
+925	932	Brexitu	Brexit	EVT	EVT-Brexit
+955	962	Szkotów	Szkoci	PER	GPE-Scotland
+990	1007	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1010	1012	UE	UE	ORG	ORG-European-Union
+1016	1023	Szkocji	Szkocja	LOC	GPE-Scotland
+1027	1035	Brexitem	Brexit	EVT	EVT-Brexit
+1107	1118	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1146	1148	UE	UE	ORG	ORG-European-Union
+1150	1158	Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+1175	1181	Szkoci	Szkoci	PER	GPE-Scotland
+1209	1213	Unii	Unia	ORG	ORG-European-Union
+1251	1258	Szkocji	Szkocja	LOC	GPE-Scotland

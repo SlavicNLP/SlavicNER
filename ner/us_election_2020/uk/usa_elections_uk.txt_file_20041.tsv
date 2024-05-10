@@ -1,0 +1,19 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+45	51	Трампа	Трамп	PER	PER-Donald-Trump
+133	139	Сенаті	Сенат	ORG	ORG-United-States-Senate
+356	362	Сенаті	Сенат	ORG	ORG-United-States-Senate
+529	549	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+577	583	Трампа	Трамп	PER	PER-Donald-Trump
+659	667	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+739	744	Сенат	Сенат	ORG	ORG-United-States-Senate
+774	780	Трампа	Трамп	PER	PER-Donald-Trump
+804	809	Трамп	Трамп	PER	PER-Donald-Trump
+889	900	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+942	949	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+974	989	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1011	1023	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+1026	1036	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+1086	1094	Facebook	Facebook	PRO	PRO-Facebook
+1097	1104	Twitter	Twitter	PRO	PRO-Twitter
+1135	1150	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1318	1325	Twitter	Twitter	PRO	PRO-Twitter

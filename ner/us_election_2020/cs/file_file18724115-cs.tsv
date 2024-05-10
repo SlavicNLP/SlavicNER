@@ -1,0 +1,14 @@
+9	17	Bílý dům	Bílý dům	LOC	LOC-White-House
+90	102	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+124	133	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+141	154	Profimedia.cz	Profimedia.cz	PRO	PRO-Profimedia.cz
+168	184	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+187	199	Joem Bidenem	Joe Biden	PER	PER-Joe-Biden
+218	233	Spojených státu	Spojené státy	LOC	GPE-USA
+341	346	Česku	Česko	LOC	GPE-Czech-Republic
+711	720	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+743	753	Kalifornii	Kalifornie	LOC	GPE-California
+784	792	Vermontu	Vermont	LOC	GPE-Vermont
+920	925	Česku	Česko	LOC	GPE-Czech-Republic
+949	965	Středočeský kraj	Středočeský kraj	LOC	GPE-Central-Bohemian-Region
+968	973	Praha	Praha	LOC	GPE-Prague

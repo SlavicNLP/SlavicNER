@@ -1,0 +1,24 @@
+29	36	Пловдив	Пловдив	LOC	GPE-Plovdiv
+93	101	Ковид-19	Ковид-19	EVT	EVT-Covid-19
+116	123	Пловдив	Пловдив	LOC	GPE-Plovdiv
+175	182	Пловдив	Пловдив	LOC	GPE-Plovdiv
+184	196	Стара Загора	Стара Загора	LOC	GPE-Stara-Zagora
+198	207	Пазарджик	Пазарджик	LOC	GPE-Pazardzhik
+209	216	Хасково	Хасково	LOC	GPE-Haskovo
+218	224	Смолян	Смолян	LOC	GPE-Smolyan
+227	235	Кърджали	Кърджали	LOC	GPE-Kardzhali
+281	293	Ваня Танчева	Ваня Танчева	PER	PER-Vanya-Tancheva
+307	318	РЗИ Пловдив	РЗИ - Пловдив	ORG	ORG-RZI-Plovdiv
+346	353	Пловдив	Пловдив	LOC	GPE-Plovdiv
+564	578	Красимир Гигов	Красимир Гигов	PER	PER-Krasimir-Gigov
+595	633	Координационния съвет по ваксинирането	Координационен съвет по ваксинирането	ORG	ORG-Coordination-council-of-vaccination
+697	705	България	България	LOC	GPE-Bulgaria
+804	807	РЗИ	РЗИ	ORG	ORG-Regional-Health-Inspectorate-Bulgaria
+821	835	Богдан Кирилов	Богдан Кирилов	PER	PER-Bogdan-Kirilov
+862	899	Изпълнителната агенция по лекарствата	Изпълнителна агенция по лекарствата	ORG	ORG-Coordination-council-of-vaccination
+925	932	Пловдив	Пловдив	LOC	GPE-Plovdiv
+1178	1189	РЗИ-Пловдив	РЗИ - Пловдив	ORG	ORG-RZI-Plovdiv
+1241	1280	"Университетската болница ""Свети Георги“"	"Университетска болница ""Свети Георги“"	LOC	LOC-St.Georgi-hospital
+1435	1442	Каспела	Каспела	LOC	LOC-Kaspela-hospital
+1445	1451	Пълмед	Пълмед	LOC	LOC-Palmed-hospital
+1505	1536	"общинската болница ""Свети Мина“"	"общинска болница ""Свети Мина“"	LOC	LOC-Municipality-hospital-St. Mina

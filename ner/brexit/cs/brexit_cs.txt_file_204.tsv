@@ -1,0 +1,18 @@
+20	27	brexitu	brexit	EVT	EVT-Brexit
+54	61	Barnier	Barnier	PER	PER-Michel-Barnier
+76	78	EU	EU	ORG	ORG-European-Union
+81	89	Británií	Británie	LOC	GPE-Great-Britain
+109	116	Londýnu	Londýn	LOC	GPE-London
+190	204	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+216	229	Evropské unie	Evropská unie	ORG	ORG-European-Union
+370	372	EU	EU	ORG	ORG-European-Union
+375	383	Británie	Británie	LOC	GPE-Great-Britain
+443	447	Unie	Unie	ORG	ORG-European-Union
+494	501	Bruselu	Brusel	LOC	GPE-Brussles
+523	529	brexit	brexit	EVT	EVT-Brexit
+530	544	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+723	730	Barnier	Barnier	PER	PER-Michel-Barnier
+959	974	Davidem Davisem	David Davis	PER	PER-David-Davis
+975	982	Londýnu	Londýn	LOC	GPE-London
+1058	1066	Británie	Británie	LOC	GPE-Great-Britain
+1177	1179	EU	EU	ORG	ORG-European-Union

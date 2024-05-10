@@ -1,0 +1,15 @@
+0	5	Putin	Putin	PER	PER-Vladimir-Putin
+8	18	Petrohradu	Petrohrad	LOC	GPE-Saint-Petersburg
+30	33	USA	USA	LOC	GPE-USA
+36	38	EU	EU	ORG	ORG-European-Union
+61	70	Petrohrad	Petrohrad	LOC	GPE-Saint-Petersburg
+89	103	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+126	136	Petrohradu	Petrohrad	LOC	GPE-Saint-Petersburg
+215	230	Spojeným státům	Spojené státy	LOC	GPE-USA
+232	235	USA	USA	LOC	GPE-USA
+245	251	Putina	Putin	PER	PER-Vladimir-Putin
+275	279	Zemi	Země	LOC	LOC-Earth
+360	373	Evropská unie	Evropská unie	ORG	ORG-European-Union
+566	574	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+595	601	Západu	Západ	LOC	LOC-West
+614	620	Moskvu	Moskva	LOC	GPE-Moscow

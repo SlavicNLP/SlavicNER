@@ -1,0 +1,9 @@
+8	12	Češi	Češi	PER	GPE-Czech-Republic
+16	27	koronavirem	koronavirus	EVT	EVT-Covid-19
+46	61	České republice	Česká republika	LOC	GPE-Czech-Republic
+89	100	koronavirem	koronavirus	EVT	EVT-Covid-19
+155	186	Světové zdravotnické organizace	Světová zdravotnická organizace	ORG	ORG-World-Health-Organization
+188	191	WHO	WHO	ORG	ORG-World-Health-Organization
+203	216	Blesk Zprávám	Blesk Zprávy	PRO	PRO-Blesk-Zpravy
+235	237	ČR	ČR	LOC	GPE-Czech-Republic
+238	252	Jarmila Rážová	Jarmila Rážová	PER	PER-Jarmila-Razova

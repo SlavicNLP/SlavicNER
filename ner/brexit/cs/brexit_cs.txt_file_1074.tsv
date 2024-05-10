@@ -1,0 +1,30 @@
+15	21	Anglii	Anglie	LOC	GPE-England
+51	61	labouristé	labouristé	PER	ORG-Labour-Party-UK
+86	93	Londýně	Londýn	LOC	GPE-London
+95	101	Londýn	Londýn	LOC	GPE-London
+119	125	Anglii	Anglie	LOC	GPE-England
+152	162	labouristy	labouristé	PER	ORG-Labour-Party-UK
+165	172	Londýně	Londýn	LOC	GPE-London
+174	187	Konzervativci	Konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+198	212	Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+260	270	Wandsworth	Wandsworth	LOC	GPE-Wandsworth
+278	281	BBC	BBC	PRO	PRO-BBC
+341	347	Anglii	Anglie	LOC	GPE-England
+352	362	labouristé	labouristé	PER	ORG-Labour-Party-UK
+368	381	konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+586	597	Labouristům	Labouristé	PER	ORG-Labour-Party-UK
+607	610	BBC	BBC	PRO	PRO-BBC
+692	702	Wandsworth	Wandsworth	LOC	GPE-Wandsworth
+705	712	Londýně	Londýn	LOC	GPE-London
+744	753	Nuneatonu	Nuneaton	LOC	GPE-Nuneaton
+756	765	Bedworthu	Bedworth	LOC	GPE-Bedworth
+777	789	Warwickshire	Warwickshire	LOC	GPE-Warwickshire
+838	846	Plymouth	Plymouth	LOC	GPE-Plymouth
+876	885	Traffordu	Trafford	LOC	GPE-Trafford
+890	897	Toryové	Toryové	PER	ORG-Conservative-and-Unionist-Party-UK
+961	1001	Strany nezávislosti Spojeného království	Strana nezávislosti Spojeného království	ORG	ORG-UK-Independence-Party
+1003	1007	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+1056	1065	Basildonu	Basildon	LOC	GPE-Basildon
+1077	1082	Essex	Essex	LOC	GPE-Essex
+1085	1098	Peterboroughu	Peterborough	LOC	GPE-Peterborough
+1110	1117	Londýna	Londýn	LOC	GPE-London

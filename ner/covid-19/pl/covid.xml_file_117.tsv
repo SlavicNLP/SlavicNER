@@ -1,0 +1,16 @@
+0	3	WHO	WHO	ORG	ORG-World-Health-Organization
+44	58	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+93	96	WHO	WHO	ORG	ORG-World-Health-Organization
+312	341	Światowej Organizacji Zdrowia	Światowa Organizacja Zdrowia	ORG	ORG-World-Health-Organization
+363	366	WHO	WHO	ORG	ORG-World-Health-Organization
+428	434	Pfizer	Pfizer	ORG	ORG-Pfizer
+468	476	BioNTech	BioNTech	ORG	ORG-BioNTech
+661	669	COVID-19	COVID-19	EVT	EVT-Covid-19
+713	729	Mariangela Simao	Mariangela Simao	PER	PER-Mariangela-Simao
+762	765	WHO	WHO	ORG	ORG-World-Health-Organization
+996	1024	Światowa Organizacja Zdrowia	Światowa Organizacja Zdrowia	ORG	ORG-World-Health-Organization
+1036	1088	Globalnym Sojuszem na rzecz Szczepień i Uodpornienia	Globalny Sojusz na rzecz Szczepień i Uodpornienia	ORG	ORG-Gavi
+1090	1135	Global Alliance for Vaccines and Immunisation	Global Alliance for Vaccines and Immunisation	ORG	ORG-Gavi
+1168	1173	COVAX	COVAX	PRO	PRO-Covax-initiative
+1310	1343	Pfizer & BioNTech Globalny Sojusz	Pfizer & BioNTech Globalny Sojusz	ORG	ORG-Pfizer-BioNTech
+1508	1515	Reuters	Reuters	PRO	ORG-Reuters

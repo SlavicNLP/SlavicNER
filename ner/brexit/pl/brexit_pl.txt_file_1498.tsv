@@ -1,0 +1,28 @@
+0	7	Lloyd’s	Lloyd’s	ORG	ORG-Lloyds-of-London
+23	29	Brexit	Brexit	EVT	EVT-Brexit
+55	61	Polski	Polska	LOC	GPE-Poland
+77	94	Lloyd’s of London	Lloyd’s of London	ORG	ORG-Lloyds-of-London
+202	209	Brexitu	Brexit	EVT	EVT-Brexit
+387	397	Inga Beale	Inga Beale	PER	PER-Inga-Beale
+623	630	Lloyd’s	Lloyd’s	ORG	ORG-Lloyds-of-London
+744	751	Lloyd’s	Lloyd’s	ORG	ORG-Lloyds-of-London
+765	773	Brukseli	Bruksela	LOC	GPE-Brussles
+835	852	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+859	874	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+1026	1033	Brexitu	Brexit	EVT	EVT-Brexit
+1189	1196	Lloyd’s	Lloyd’s	ORG	ORG-Lloyds-of-London
+1241	1249	Londynie	Londyn	LOC	GPE-London
+1264	1272	Brukseli	Bruksela	LOC	GPE-Brussles
+1357	1367	Inga Beale	Inga Beale	PER	PER-Inga-Beale
+1409	1417	Brexitem	Brexit	EVT	EVT-Brexit
+1484	1491	Lloyd’s	Lloyd’s	ORG	ORG-Lloyds-of-London
+1631	1641	Inga Beale	Inga Beale	PER	PER-Inga-Beale
+1764	1786	Laboratorium Innowacji	Laboratorium Innowacji	ORG	ORG-Innovation-Laboratory
+1884	1891	Lloyd’s	Lloyd’s	ORG	ORG-Lloyds-of-London
+2028	2038	Inga Beale	Inga Beale	PER	PER-Inga-Beale
+2040	2047	Lloyd’s	Lloyd’s	ORG	ORG-Lloyds-of-London
+2089	2105	Afryce Północnej	Afryka Północna	LOC	LOC-North-Africa
+2107	2111	Azji	Azja	LOC	LOC-Asia
+2114	2133	Ameryce Południowej	Ameryka Południowa	LOC	LOC-South-America
+2182	2189	Lloyd’s	Lloyd’s	ORG	ORG-Lloyds-of-London
+2207	2216	Grupa PZU	Grupa PZU	ORG	ORG-PZU-Group

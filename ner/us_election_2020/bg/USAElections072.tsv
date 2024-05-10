@@ -1,0 +1,29 @@
+19	24	Тръмп	Тръмп	PER	PER-Donald-Trump
+60	66	Байдън	Байдън	PER	PER-Joe-Biden
+211	223	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+271	281	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+284	293	Белия дом	Бял дом	LOC	LOC-White-House
+379	384	Тръмп	Тръмп	PER	PER-Donald-Trump
+451	458	Ройтерс	Ройтерс	ORG	ORG-Reuters
+462	476	Републиканецът	републиканец	PER	ORG-Republican-Party-USA
+477	482	Тръмп	Тръмп	PER	PER-Donald-Trump
+647	670	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+687	692	Тръмп	Тръмп	PER	PER-Donald-Trump
+729	735	Байдън	Байдън	PER	PER-Joe-Biden
+840	846	Байдън	Байдън	PER	PER-Joe-Biden
+929	934	Тръмп	Тръмп	PER	PER-Donald-Trump
+942	948	Байдън	Байдън	PER	PER-Joe-Biden
+1052	1057	Тръмп	Тръмп	PER	PER-Donald-Trump
+1369	1383	Антъни Блинкен	Антъни Блинкен	PER	PER-Antony-Blinken
+1401	1422	Държавния департамент	Държавен департамент	ORG	ORG-Department-of-State-USA
+1483	1488	Тръмп	Тръмп	PER	PER-Donald-Trump
+1552	1555	САЩ	САЩ	LOC	GPE-USA
+1685	1722	Gemeral Services Administration (GSA)	Gemeral Services Administration (GSA)	ORG	ORG-General-Services-Administration
+1803	1809	Байдън	Байдън	PER	PER-Joe-Biden
+1892	1895	GSA	GSA	ORG	ORG-General-Services-Administration
+1896	1907	Емили Мърфи	Емили Мърфи	PER	PER-Emily-Murphy
+1926	1932	Байдън	Байдън	PER	PER-Joe-Biden
+2077	2083	Байдън	Байдън	PER	PER-Joe-Biden
+2225	2231	Байдън	Байдън	PER	PER-Joe-Biden
+2261	2273	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+2337	2342	Тръмп	Тръмп	PER	PER-Donald-Trump

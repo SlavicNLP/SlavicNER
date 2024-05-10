@@ -1,0 +1,51 @@
+0	6	Indija	Indija	LOC	GPE-India
+25	33	COVID-19	COVID-19	EVT	EVT-Covid-19
+66	81	Asimov Robotics	Asimov Robotics	ORG	ORG-Asimov-Robotics
+102	108	Indiji	Indija	LOC	GPE-India
+246	252	Indiji	Indija	LOC	GPE-India
+312	320	COVID-19	COVID-19	EVT	EVT-Covid-19
+462	468	Indija	Indija	LOC	GPE-India
+812	820	COVID-19	COVID-19	EVT	EVT-Covid-19
+984	999	Asimov Robotics	Asimov Robotics	ORG	ORG-Asimov-Robotics
+1030	1036	Kerali	Kerala	LOC	GPE-Kerala
+1435	1443	COVID-19	COVID-19	EVT	EVT-Covid-19
+1455	1467	Aarogya Setu	Aarogya Setu	PRO	PRO-Aarogya-Setu
+1482	1485	GPS	GPS	PRO	PRO-GPS
+1489	1498	Bluetooth	Bluetooth	PRO	PRO-Bluetooth
+1659	1665	Google	Google	ORG	ORG-Google
+1669	1674	Apple	Apple	ORG	ORG-Apple
+1703	1712	KlinicApp	KlinicApp	ORG	ORG-KlinicApp
+1716	1722	Practo	Practo	ORG	ORG-Practo
+1738	1746	COVID-19	COVID-19	EVT	EVT-Covid-19
+2105	2113	COVID-19	COVID-19	EVT	EVT-Covid-19
+2251	2265	Nocca Robotics	Nocca Robotics	ORG	ORG-Nocca-Robotics
+2281	2327	Indijskem tehnološkem inštitutu (IIT) - Kanpur	Indijski tehnološki inštitut (IIT) - Kanpur	ORG	ORG-Indian Institute of Technology Kanpur
+2330	2352	Aerobiosys Innovations	Aerobiosys Innovations	ORG	ORG-Aerobiosys-Innovations
+2366	2379	IIT Hyderabad	IIT Hyderabad	ORG	ORG-Indian-Institute-of-Technology-(IIT-Hyderabad)
+2384	2399	AgVa Healthcare	AgVa Healthcare	ORG	ORG-AgVa-Healthcare
+2535	2541	Indije	Indija	LOC	GPE-India
+2679	2691	koronavirusu	koronavirus	EVT	EVT-Covid-19
+2693	2728	Vlada indijske zvezne države Kerala	Vlada indijske zvezne države Kerala	ORG	ORG-Government-of-Kerala
+2760	2777	GoK-Kerala Direct	GoK-Kerala Direct	PRO	PRO-GoK-Kerala-Direct
+2815	2820	QKopy	QKopy	ORG	ORG-QKopy
+2822	2830	COVID-19	COVID-19	EVT	EVT-Covid-19
+3176	3194	Aqoza technologies	Aqoza technologies	ORG	ORG-Aqoza-technologies
+3198	3207	PerSapien	PerSapien	ORG	ORG-PerSapien
+3296	3301	Aqoza	Aqoza	ORG	ORG-Aqoza-technologies
+3347	3352	Nipah	Nipah	EVT	EVT-Nipah
+3355	3361	Kerali	Kerala	LOC	GPE-Kerala
+3403	3423	Airlens minus Corona	Airlens minus Corona	PRO	PRO-Airlens-minus-Corona
+3436	3445	PerSapien	PerSapien	ORG	ORG-PerSapien
+3570	3575	Droom	Droom	ORG	ORG-Droom-Technology
+3639	3652	Corono Shield	Corono Shield	PRO	PRO-Corono-Shield
+3767	3776	Gurugramu	Gurugram	LOC	GPE-Gurgaon
+3793	3800	Haryana	Haryana	LOC	GPE-Haryana
+3962	3977	Marut Dronetech	Marut Dronetech	ORG	ORG-Marut-Dronetech
+4650	4658	COVID-19	COVID-19	EVT	EVT-Covid-19
+4767	4820	zveza indijskih gospodarskih in industrijskih zbornic	zveza indijskih gospodarskih in industrijskih zbornic	ORG	ORG-Federation-of-Indian-Chambers-of-Commerce-&-Industry
+4897	4905	COVID-19	COVID-19	EVT	EVT-Covid-19
+4964	4975	BreakCorona	BreakCorona	ORG	ORG-BreakCorona
+5116	5134	Coronasafe-Network	Coronasafe-Network	PRO	PRO-Coronasafe-Network
+5247	5255	COVID-19	COVID-19	EVT	EVT-Covid-19
+5332	5338	Indija	Indija	LOC	GPE-India
+5468	5476	COVID-19	COVID-19	EVT	EVT-Covid-19

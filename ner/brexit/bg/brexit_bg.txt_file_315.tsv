@@ -1,0 +1,23 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+47	54	Брекзит	Брекзит	EVT	EVT-Brexit
+75	89	Великобритания	Великобритания	LOC	GPE-Great-Britain
+128	144	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+290	296	БиБиСи	Би Би Си	PRO	PRO-BBC
+317	326	Амбър Руд	Амбър Руд	PER	PER-Amber-Rudd
+488	495	Брекзит	Брекзит	EVT	EVT-Brexit
+559	579	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+671	673	ЕС	ЕС	ORG	ORG-European-Union
+676	696	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+728	738	Тереза Май	Тереза Май	PER	PER-Theresa-May
+867	887	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+890	892	ЕС	ЕС	ORG	ORG-European-Union
+898	905	Брекзит	Брекзит	EVT	EVT-Brexit
+920	928	Телеграф	Телеграф	PRO	PRO-The-Daily-Telegraph
+941	952	консерватор	консерватор	PER	ORG-Conservative-and-Unionist-Party-UK
+953	968	Бернард Дженкин	Бернард Дженкин	PER	PER-Bernard-Jenkins
+1200	1208	Ирландия	Ирландия	LOC	GPE-Ireland
+1218	1221	Руд	Руд	PER	PER-Amber-Rudd
+1343	1352	Лиъм Фокс	Лиъм Фокс	PER	PER-Liam-Fox
+1441	1455	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1500	1507	Брекзит	Брекзит	EVT	EVT-Brexit
+1509	1514	Днес+	Днес+	ORG	ORG-DnesPlus

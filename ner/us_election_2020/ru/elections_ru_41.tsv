@@ -1,0 +1,45 @@
+7	14	Байдена	Байден	PER	PER-Joe-Biden
+16	24	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+40	53	выборов в США	выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+138	157	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+161	173	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+199	218	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+245	266	президентских выборах	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+278	287	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+324	334	демократов	демократы	ORG	ORG-Democratic-Party-USA
+335	346	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+357	360	CNN	CNN	PRO	PRO-CNN
+364	370	Байден	Байден	PER	PER-Joe-Biden
+467	470	США	США	LOC	GPE-USA
+523	533	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+555	574	инаугурация Байдена	инаугурация Байдена	EVT	EVT-2020-Inauguration-of-Joe-Biden
+616	622	Байден	Байден	PER	PER-Joe-Biden
+677	680	США	США	LOC	GPE-USA
+730	739	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+782	792	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+805	820	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+918	927	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+991	994	США	США	LOC	GPE-USA
+1069	1072	США	США	LOC	GPE-USA
+1137	1149	Американский	Американский	PER	GPE-USA
+1218	1221	США	США	LOC	GPE-USA
+1376	1395	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1423	1431	сенаторы	сенаторы	ORG	ORG-United-States-Senate
+1434	1446	конгрессмены	конгрессмены	ORG	ORG-United-States-Congress
+1655	1658	США	США	LOC	GPE-USA
+1723	1738	Демократической	Демократический	ORG	ORG-Democratic-Party-USA
+1741	1765	Республиканской партиями	Республиканская партия	ORG	ORG-Republican-Party-USA
+2044	2063	Коллегию выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2383	2402	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2801	2804	Мэн	Мэн	LOC	GPE-Maine
+2807	2815	Небраска	Небраска	LOC	GPE-Nebraska
+2980	2995	Конституция США	Конституция США	PRO	PRO-The-USA-Constitution
+3107	3122	округа Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+3254	3266	американских	американский	LOC	GPE-USA
+3577	3596	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+3684	3706	Палатой Представителей	Палата Представителей	ORG	ORG-United-States-House-of-Representatives
+3830	3833	США	США	LOC	GPE-USA
+3876	3885	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+4010	4017	Байдена	Байден	PER	PER-Joe-Biden
+4019	4027	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+4053	4056	США	США	LOC	GPE-USA

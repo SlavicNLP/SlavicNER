@@ -1,0 +1,25 @@
+22	29	Украйна	Украйна	LOC	GPE-Ukraine
+36	41	Русия	Русия	LOC	GPE-Russia
+43	50	Украйна	Украйна	LOC	GPE-Ukraine
+58	66	Германия	Германия	LOC	GPE-Germany
+171	177	Берлин	Берлин	LOC	GPE-Berlin
+197	212	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+241	248	Украйна	Украйна	LOC	GPE-Ukraine
+249	264	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+287	293	Туитър	Туитър	PRO	PRO-Twitter
+333	349	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+375	391	Северен поток -2	Северен поток 2	PRO	PRO-Nord-Stream-2
+430	438	Германия	Германия	LOC	GPE-Germany
+552	559	Украйна	Украйна	LOC	GPE-Ukraine
+569	578	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+620	628	Германия	Германия	LOC	GPE-Germany
+645	660	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+671	680	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+756	759	САЩ	САЩ	LOC	GPE-USA
+795	810	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+828	835	Украйна	Украйна	LOC	GPE-Ukraine
+1176	1191	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+1284	1292	Vesti.bg	Vesti.bg	PRO	PRO-Vesti.bg
+1350	1358	Vesti.bg	Vesti.bg	PRO	PRO-Vesti.bg
+1399	1404	БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+1424	1437	Николай Киров	Николай Киров	PER	PER-Nikolay-Kirov

@@ -1,0 +1,29 @@
+2	10	Норвегії	Норвегія	LOC	GPE-Norway
+85	91	Pfizer	Pfizer	ORG	ORG-Pfizer
+164	176	коронавірусу	коронавірус	EVT	EVT-Covid-19
+182	221	норвезькому управлінні охорони здоров'я	Норвезьке управління охорони здоров'я	ORG	ORG-Norwegian-Institute-of-Public-Health
+270	276	Pfizer	Pfizer	ORG	ORG-Pfizer
+279	287	BioNTech	BioNTech	ORG	ORG-BioNTech
+393	401	Euronews	Euronews	PRO	PRO-Euronews
+437	469	управління громадського здоров'я	управління громадського здоров'я	ORG	ORG-Norwegian-Institute-of-Public-Health
+470	489	Камілли Столтенберг	Камілла Столтенберг	PER	PER-Camilla-Stoltenberg
+874	882	Норвегії	Норвегія	LOC	GPE-Norway
+979	990	Столтенберг	Столтенберг	PER	PER-Camilla-Stoltenberg
+1017	1046	норвезького агентства з ліків	Норвезьке агентство з ліків	ORG	ORG-Norwegian-Medicines-Agency
+1047	1061	Стейнар Мадсен	Стейнар Мадсен	PER	PER-Steinar-Madsen
+1217	1223	Pfizer	Pfizer	ORG	ORG-Pfizer
+1226	1234	Норвегії	Норвегія	LOC	GPE-Norway
+1290	1330	Норвезьке агентство з лікарських засобів	Норвезьке агентство з лікарських засобів	ORG	ORG-Norwegian-Medicines-Agency
+1459	1467	Норвегії	Норвегія	LOC	GPE-Norway
+1529	1541	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1646	1655	Німеччина	Німеччина	LOC	GPE-Germany
+1657	1660	США	США	LOC	GPE-USA
+1664	1673	Швейцарія	Швейцарія	LOC	GPE-Switzerland
+1749	1761	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1789	1796	Ізраїлі	Ізраїль	LOC	GPE-Israel
+1854	1860	Pfizer	Pfizer	ORG	ORG-Pfizer
+1861	1869	BioNTech	BioNTech	ORG	ORG-BioNTech
+1972	1984	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2067	2079	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2211	2215	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+2441	2452	ТСН.Тиждень	ТСН.Тиждень	PRO	PRO-TSN.Week

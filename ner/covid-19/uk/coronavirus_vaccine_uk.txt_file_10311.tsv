@@ -1,0 +1,44 @@
+0	7	Україна	Україна	LOC	GPE-Ukraine
+52	64	коронавірусу	коронавірус	EVT	EVT-Covid-19
+319	326	Україна	Україна	LOC	GPE-Ukraine
+490	498	пандемії	пандемія	EVT	EVT-Covid-19
+499	511	коронавірусу	коронавірус	EVT	EVT-Covid-19
+627	639	коронавірусу	коронавірус	EVT	EVT-Covid-19
+669	691	коронавірусної хвороби	коронавірусна хвороба	EVT	EVT-Covid-19
+1100	1107	Україна	Україна	LOC	GPE-Ukraine
+1151	1159	Covid-19	Covid-19	EVT	EVT-Covid-19
+1233	1278	Центру з контролю та профілактики захворювань	Центр з контролю та профілактики захворювань	ORG	ORG-Centers-for-Disease-Control-and-Prevention-USA
+1281	1284	США	США	LOC	GPE-USA
+1426	1437	Фактам ICTV	Факти ICTV	PRO	PRO-Fakty-ICTV
+1476	1494	Світлана Сліпченко	Світлана Сліпченко	PER	PER-Svitlana-Slipchenko
+1766	1773	Moderna	Moderna	ORG	ORG-Moderna
+1844	1853	Сліпченко	Сліпченко	PER	PER-Svitlana-Slipchenko
+2080	2088	Аспірину	Аспірин	PRO	PRO-Aspirin
+2485	2491	Pfizer	Pfizer	ORG	ORG-Pfizer
+2839	2848	Сліпченко	Сліпченко	PER	PER-Svitlana-Slipchenko
+3018	3026	Covid-19	Covid-19	EVT	EVT-Covid-19
+3029	3036	Україні	Україна	LOC	GPE-Ukraine
+3231	3238	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+3455	3458	НАН	НАН	ORG	ORG-National-Academy-of-Sciences-of-Ukraine
+3459	3466	України	Україна	LOC	GPE-Ukraine
+3467	3481	Зеновій Ткачук	Зеновій Ткачук	PER	PER-Zenoviy-Tkachuk
+3491	3502	Фактам ICTV	Факти ICTV	PRO	PRO-Fakty-ICTV
+3961	3967	Ткачук	Ткачук	PER	PER-Zenoviy-Tkachuk
+4194	4198	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+4204	4209	Covid	Covid	EVT	EVT-Covid-19
+4222	4229	Moderna	Moderna	ORG	ORG-Moderna
+4249	4255	Pfizer	Pfizer	ORG	ORG-Pfizer
+4259	4266	Moderna	Moderna	ORG	ORG-Moderna
+4388	4399	Astrazeneka	Astrazeneka	ORG	ORG-AstraZeneca
+4414	4423	Спутнік V	Спутнік V	PRO	PRO-Sputnik-V
+4474	4481	Ткачука	Ткачук	PER	PER-Zenoviy-Tkachuk
+5142	5185	Інституту молекулярної біології та генетики	Інститут молекулярної біології та генетики	ORG	ORG-Institute-of-Molecular-Biology-NASU
+5186	5189	НАН	НАН	ORG	ORG-National-Academy-of-Sciences-of-Ukraine
+5190	5197	України	Україна	LOC	GPE-Ukraine
+5599	5607	пандемія	пандемія	EVT	EVT-Covid-19
+5608	5616	Covid-19	Covid-19	EVT	EVT-Covid-19
+5944	5956	коронавірусу	коронавірус	EVT	EVT-Covid-19
+6432	6438	Ткачук	Ткачук	PER	PER-Zenoviy-Tkachuk
+6677	6685	Covid-19	Covid-19	EVT	EVT-Covid-19
+6858	6869	коронавірус	коронавірус	EVT	EVT-Covid-19
+7050	7057	Україні	Україна	LOC	GPE-Ukraine

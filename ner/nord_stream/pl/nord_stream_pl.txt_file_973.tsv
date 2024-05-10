@@ -1,0 +1,73 @@
+0	7	Ukraina	Ukraina	LOC	GPE-Ukraine
+10	15	Rosja	Rosja	LOC	GPE-Russia
+20	33	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+35	45	Poroszenko	Poroszenko	PER	PER-Petro-Poroshenko
+47	53	Niemcy	Niemcy	LOC	GPE-Germany
+247	254	Ukraina	Ukraina	LOC	GPE-Ukraine
+320	336	Petro Poroszenko	Petro Poroszenko	PER	PER-Petro-Poroshenko
+409	424	Rheinische Post	Rheinische Post	PRO	PRO-Rheinische-Post
+483	490	Ukrainy	Ukraina	LOC	GPE-Ukraine
+519	524	Rosja	Rosja	LOC	GPE-Russia
+784	791	Ukrainy	Ukraina	LOC	GPE-Ukraine
+836	843	Ukrainy	Ukraina	LOC	GPE-Ukraine
+857	864	Niemiec	Niemcy	LOC	GPE-Germany
+941	947	Moskwy	Moskwa	LOC	GPE-Moscow
+1012	1017	Rosji	Rosja	LOC	GPE-Russia
+1029	1039	Poroszenki	Poroszenko	PER	PER-Petro-Poroshenko
+1155	1160	Rosji	Rosja	LOC	GPE-Russia
+1180	1186	Putina	Putin	PER	PER-Vladimir-Putin
+1330	1336	Moskwę	Moskwa	LOC	GPE-Moscow
+1360	1366	Europy	Europa	LOC	LOC-Europe
+1368	1381	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1431	1441	Poroszenko	Poroszenko	PER	PER-Petro-Poroshenko
+1458	1471	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1480	1487	Ukrainę	Ukraina	LOC	GPE-Ukraine
+1570	1575	Rosji	Rosja	LOC	GPE-Russia
+1576	1584	Władimir	Władimir	PER	PER-Vladimir-Putin
+1586	1591	Putin	Putin	PER	PER-Vladimir-Putin
+1678	1694	Europę Zachodnią	Europa Zachodnia	LOC	LOC-Western-Europe
+1802	1809	Ukraina	Ukraina	LOC	GPE-Ukraine
+1929	1939	Poroszenko	Poroszenko	PER	PER-Petro-Poroshenko
+2030	2036	Europy	Europa	LOC	LOC-Europe
+2126	2132	Europy	Europa	LOC	LOC-Europe
+2228	2235	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2412	2417	Putin	Putin	PER	PER-Vladimir-Putin
+2419	2424	Rosja	Rosja	LOC	GPE-Russia
+2447	2460	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2482	2487	Rosji	Rosja	LOC	GPE-Russia
+2488	2502	Władimir Putin	Władimir Putin	PER	PER-Vladimir-Putin
+2526	2529	USA	USA	LOC	GPE-USA
+2575	2588	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2593	2599	Moskwa	Moskwa	LOC	GPE-Moscow
+2675	2694	Suddeutsche Zeitung	Suddeutsche Zeitung	PRO	PRO-SUddeutsche-Zeitung
+2736	2741	Putin	Putin	PER	PER-Vladimir-Putin
+2814	2823	Niemczech	Niemcy	LOC	GPE-Germany
+2881	2886	Rosji	Rosja	LOC	GPE-Russia
+2945	2952	Moskwie	Moskwa	LOC	GPE-Moscow
+3058	3060	SZ	SZ	PRO	PRO-SUddeutsche-Zeitung
+3072	3085	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+3369	3382	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+3449	3460	Waszyngtonu	Waszyngton	LOC	GPE-WashingtonDC
+3495	3498	USA	USA	LOC	GPE-USA
+3550	3555	Rosję	Rosja	LOC	GPE-Russia
+3558	3566	Niemcami	Niemcy	LOC	GPE-Germany
+3575	3583	Berlinie	Berlin	LOC	GPE-Berlin
+3730	3735	Rosję	Rosja	LOC	GPE-Russia
+3740	3742	KE	KE	ORG	ORG-European-Commission
+4069	4076	Ameryki	Ameryka	LOC	GPE-USA
+4098	4105	Senacie	Senat	ORG	ORG-United-States-Senate
+4172	4178	CAATSA	CAATSA	PRO	PRO-CAATSA-Bill
+4229	4236	Ameryki	Ameryka	LOC	GPE-USA
+4287	4289	SZ	SZ	PRO	PRO-SUddeutsche-Zeitung
+4337	4343	Moskwy	Moskwa	LOC	GPE-Moscow
+4386	4389	USA	USA	LOC	GPE-USA
+4461	4463	SZ	SZ	PRO	PRO-SUddeutsche-Zeitung
+4485	4488	USA	USA	LOC	GPE-USA
+4489	4501	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+4597	4602	Rosję	Rosja	LOC	GPE-Russia
+4694	4705	Waszyngtonu	Waszyngton	LOC	GPE-WashingtonDC
+4788	4801	Andrzeja Dudy	Andrzej Duda	PER	PER-Andrzej-Duda
+4804	4816	Waszyngtonie	Waszyngton	LOC	GPE-WashingtonDC
+4817	4822	Trump	Trump	PER	PER-Donald-Trump
+4863	4866	USA	USA	LOC	GPE-USA
+4960	4973	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2

@@ -1,0 +1,28 @@
+27	33	Polacy	Polacy	PER	GPE-Poland
+92	98	Polacy	Polacy	PER	GPE-Poland
+130	147	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+156	162	Brexit	Brexit	EVT	EVT-Brexit
+278	283	Dania	Dania	LOC	GPE-Denmark
+328	349	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+421	427	Polacy	Polacy	PER	GPE-Poland
+437	443	Polacy	Polacy	PER	GPE-Poland
+475	492	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+501	507	Brexit	Brexit	EVT	EVT-Brexit
+623	628	Dania	Dania	LOC	GPE-Denmark
+673	694	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+766	772	Polacy	Polacy	PER	GPE-Poland
+843	860	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+987	992	Dania	Dania	LOC	GPE-Denmark
+1164	1171	Polaków	Polacy	PER	GPE-Poland
+1208	1225	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1657	1663	Polsce	Polska	LOC	GPE-Poland
+1920	1922	UK	UK	LOC	GPE-Great-Britain
+2404	2426	Przemysław Jeziorowski	Przemysław Jeziorowski	PER	PER-Przemysław-Jeziorowski
+2429	2454	Elab Education Laboratory	Elab Education Laboratory	ORG	ORG-Elab-Education-Laboratory
+3213	3221	Londynie	Londyn	LOC	GPE-London
+4321	4325	Ania	Ania	PER	PER-Ania
+4328	4339	Southampton	Southampton	LOC	GPE-Southampton
+4380	4394	Strefa Biznesu	Strefa Biznesu	PRO	PRO-Strefa-Biznesu
+4404	4410	Polacy	Polacy	PER	GPE-Poland
+4452	4467	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4485	4490	Dania	Dania	LOC	GPE-Denmark

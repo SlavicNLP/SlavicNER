@@ -1,0 +1,9 @@
+0	10	Бистричани	бистричани	PER	GPE-Bistritsa
+44	50	Италия	Италия	LOC	GPE-Italy
+72	96	дупнишкото село Бистрица	Бистрица	LOC	GPE-Bistritsa
+140	146	Италия	Италия	LOC	GPE-Italy
+261	272	коронавирус	коронавирус	EVT	EVT-Covid-19
+452	460	Бистрица	Бистрица	LOC	GPE-Bistritsa
+461	475	Кирил Огненски	Кирил Огненски	PER	PER-Kiril-Ognenski
+924	935	коронавирус	коронавирус	EVT	EVT-Covid-19
+1292	1320	общинската болница в Дупница	общинска болница в Дупница	LOC	LOC-Municipality-hospital-in-Dupnitsa-Bulgaria

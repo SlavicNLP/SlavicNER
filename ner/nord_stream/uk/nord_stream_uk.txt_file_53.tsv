@@ -1,0 +1,20 @@
+8	13	Росії	Росія	LOC	GPE-Russia
+50	55	Трамп	Трамп	PER	PER-Donald-Trump
+73	86	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+116	123	Twitter	Twitter	PRO	PRO-Twitter
+283	286	США	США	LOC	GPE-USA
+307	311	НАТО	НАТО	ORG	ORG-NATO
+403	408	Росії	Росія	LOC	GPE-Russia
+432	437	Трамп	Трамп	PER	PER-Donald-Trump
+461	468	Germany	Germany	LOC	GPE-East-Germany
+489	495	Russia	Russia	LOC	GPE-Russia
+613	619	Russia	Russia	LOC	GPE-Russia
+641	645	NATO	NATO	ORG	ORG-NATO
+720	735	Donald J. Trump	Donald J. Trump	PER	PER-Donald-Trump
+737	753	@realDonaldTrump	@realDonaldTrump	PER	PER-Donald-Trump
+767	772	Трамп	Трамп	PER	PER-Donald-Trump
+783	792	Німеччина	Німеччина	LOC	GPE-Germany
+827	831	НАТО	НАТО	ORG	ORG-NATO
+843	846	США	США	LOC	GPE-USA
+860	865	Росії	Росія	LOC	GPE-Russia
+923	940	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG

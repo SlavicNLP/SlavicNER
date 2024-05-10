@@ -1,0 +1,28 @@
+35	42	Брекзит	Брекзит	EVT	EVT-Brexit
+52	62	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+83	97	Великобритания	Великобритания	LOC	GPE-Great-Britain
+98	108	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+169	171	ЕС	ЕС	ORG	ORG-European-Union
+187	192	Блеър	Блеър	PER	PER-Tony-Blair
+193	200	Брекзит	Брекзит	EVT	EVT-Brexit
+336	344	британци	британци	PER	GPE-Great-Britain
+374	381	Ройтерс	Ройтерс	ORG	ORG-Reuters
+424	431	Брекзит	Брекзит	EVT	EVT-Brexit
+459	479	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+540	550	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+578	592	Великобритания	Великобритания	LOC	GPE-Great-Britain
+595	597	ЕС	ЕС	ORG	ORG-European-Union
+648	655	Брекзит	Брекзит	EVT	EVT-Brexit
+688	690	ЕС	ЕС	ORG	ORG-European-Union
+747	769	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+875	889	Великобритания	Великобритания	LOC	GPE-Great-Britain
+912	922	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+988	995	Брекзит	Брекзит	EVT	EVT-Brexit
+996	1010	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1058	1068	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1122	1138	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1144	1151	Брекзит	Брекзит	EVT	EVT-Brexit
+1271	1276	Блеър	Блеър	PER	PER-Tony-Blair
+1331	1341	британците	британци	PER	GPE-Great-Britain
+1389	1395	Европа	Европа	LOC	LOC-Europe
+1459	1461	ЕС	ЕС	ORG	ORG-European-Union

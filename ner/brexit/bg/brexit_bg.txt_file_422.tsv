@@ -1,0 +1,66 @@
+14	20	Макрон	Макрон	PER	PER-Emmanuel-Macron
+23	26	Мей	Мей	PER	PER-Theresa-May
+68	75	Брекзит	Брекзит	EVT	EVT-Brexit
+97	111	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+152	168	лондонското Сити	Лондонско Сити	LOC	LOC-City-of-London
+189	196	Брекзит	Брекзит	EVT	EVT-Brexit
+231	245	Великобритания	Великобритания	LOC	GPE-Great-Britain
+356	358	ЕС	ЕС	ORG	ORG-European-Union
+413	420	Гардиън	Гардиън	PRO	PRO-The-Guardian
+507	517	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+594	600	Лондон	Лондон	LOC	GPE-London
+603	608	Париж	Париж	LOC	GPE-Paris
+645	659	Великобритания	Великобритания	LOC	GPE-Great-Britain
+735	739	Кале	Кале	LOC	GPE-Calais
+790	797	Франция	Франция	LOC	GPE-France
+845	847	ЕС	ЕС	ORG	ORG-European-Union
+853	860	Брекзит	Брекзит	EVT	EVT-Brexit
+879	895	лондонското Сити	Лондонско Сити	LOC	LOC-City-of-London
+998	1004	Европа	Европа	LOC	LOC-Europe
+1019	1025	Лондон	Лондон	LOC	GPE-London
+1097	1103	Канада	Канада	LOC	GPE-Canada
+1112	1118	Макрон	Макрон	PER	PER-Emmanuel-Macron
+1209	1216	Брюксел	Брюксел	LOC	GPE-Brussles
+1243	1257	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1330	1344	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1477	1479	ЕС	ЕС	ORG	ORG-European-Union
+1607	1614	Гардиън	Гардиън	PRO	PRO-The-Guardian
+1617	1620	Мей	Мей	PER	PER-Theresa-May
+1623	1629	Макрон	Макрон	PER	PER-Emmanuel-Macron
+1741	1750	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1781	1785	Кале	Кале	LOC	GPE-Calais
+1816	1823	Франция	Франция	LOC	GPE-France
+1936	1950	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1971	1977	Макрон	Макрон	PER	PER-Emmanuel-Macron
+2241	2248	Франция	Франция	LOC	GPE-France
+2303	2307	Туке	Туке	LOC	GPE-Le-Touquet-Paris-Plage
+2357	2371	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2435	2441	Макрон	Макрон	PER	PER-Emmanuel-Macron
+2595	2602	Франция	Франция	LOC	GPE-France
+2719	2725	Макрон	Макрон	PER	PER-Emmanuel-Macron
+2728	2731	Мей	Мей	PER	PER-Theresa-May
+2769	2775	Лондон	Лондон	LOC	GPE-London
+2778	2783	Париж	Париж	LOC	GPE-Paris
+2807	2814	Брекзит	Брекзит	EVT	EVT-Brexit
+2829	2832	Мей	Мей	PER	PER-Theresa-May
+2883	2885	ЕС	ЕС	ORG	ORG-European-Union
+2924	2931	Франция	Франция	LOC	GPE-France
+2990	3004	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3040	3046	Лондон	Лондон	LOC	GPE-London
+3089	3102	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+3135	3141	Макрон	Макрон	PER	PER-Emmanuel-Macron
+3188	3194	Европа	Европа	LOC	LOC-Europe
+3362	3369	Брекзит	Брекзит	EVT	EVT-Brexit
+3385	3398	Ню Йорк таймс	Ню Йорк таймс	PRO	PRO-The-New-York-Times
+3419	3425	Макрон	Макрон	PER	PER-Emmanuel-Macron
+3478	3481	Мей	Мей	PER	PER-Theresa-May
+3587	3589	ЕС	ЕС	ORG	ORG-European-Union
+3595	3602	Брекзит	Брекзит	EVT	EVT-Brexit
+3605	3611	Макрон	Макрон	PER	PER-Emmanuel-Macron
+3673	3687	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3696	3710	Вивиан Пертюсо	Вивиан Пертюсо	PER	PER-Vivian-Pertuso
+3757	3800	Френския институт по международни отношения	Френски институт по международни отношения	ORG	ORG-French-Institute-of-International-Relations
+3817	3830	Ню Йорк таймс	Ню Йорк таймс	PRO	PRO-The-New-York-Times
+3932	3939	Пертюсо	Пертюсо	PER	PER-Vivian-Pertuso
+3941	3944	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+3962	3970	Германия	Германия	LOC	GPE-Germany

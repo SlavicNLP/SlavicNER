@@ -1,0 +1,25 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+48	55	Брекзит	Брекзит	EVT	EVT-Brexit
+77	87	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+111	113	ЕС	ЕС	ORG	ORG-European-Union
+154	160	Мюнхен	Мюнхен	LOC	GPE-München
+373	380	Брекзит	Брекзит	EVT	EVT-Brexit
+382	392	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+403	417	Великобритания	Великобритания	LOC	GPE-Great-Britain
+464	470	Европа	Европа	LOC	LOC-Europe
+494	501	Брюксел	Брюксел	LOC	GPE-Brussles
+589	609	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+614	620	Европа	Европа	LOC	LOC-Europe
+693	700	Брекзит	Брекзит	EVT	EVT-Brexit
+742	752	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+769	775	Европа	Европа	LOC	LOC-Europe
+844	858	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1186	1200	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1212	1214	ЕС	ЕС	ORG	ORG-European-Union
+1216	1226	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1247	1254	Брекзит	Брекзит	EVT	EVT-Brexit
+1307	1320	Пламен Ралчев	Пламен Ралчев	PER	PER-Plamen-Ralchev
+1383	1387	УНСС	УНСС	ORG	ORG-UNWE
+1459	1474	Европейски съюз	Европейски съюз	ORG	ORG-European-Union
+1476	1482	Турция	Турция	LOC	GPE-Turkey
+1510	1515	Варна	Варна	LOC	GPE-Varna

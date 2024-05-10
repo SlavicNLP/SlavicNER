@@ -1,0 +1,27 @@
+2	16	Великобритании	Великобритания	LOC	GPE-Great-Britain
+46	52	Brexit	Brexit	EVT	EVT-Brexit
+101	103	ЕС	ЕС	ORG	ORG-European-Union
+130	142	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+174	180	Brexit	Brexit	EVT	EVT-Brexit
+197	207	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+243	246	CNN	CNN	ORG	ORG-CNN
+248	252	Рааб	Рааб	PER	PER-Dominic-Raab
+374	376	ЕС	ЕС	ORG	ORG-European-Union
+380	401	референдуме 2016 года	референдум 2016 года	EVT	EVT-Brexit-Referendum
+403	408	Дэвис	Дэвис	PER	PER-David-Davis
+508	522	Великобритании	Великобритания	LOC	GPE-Great-Britain
+525	527	ЕС	ЕС	ORG	ORG-European-Union
+534	540	Brexit	Brexit	EVT	EVT-Brexit
+558	568	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+598	606	Брюсселю	Брюссель	LOC	GPE-Brussles
+608	616	Брюссель	Брюссель	LOC	GPE-Brussles
+619	625	Лондон	Лондон	LOC	GPE-London
+693	699	Brexit	Brexit	EVT	EVT-Brexit
+755	773	Северной Ирландией	Северная Ирландия	LOC	GPE-Northern-Ireland
+881	887	Brexit	Brexit	EVT	EVT-Brexit
+958	960	ЕС	ЕС	ORG	ORG-European-Union
+965	979	Великобритании	Великобритания	LOC	GPE-Great-Britain
+995	1002	Украина	Украина	LOC	GPE-Ukraine
+1005	1013	Британия	Британия	LOC	GPE-Great-Britain
+1069	1088	Европейского совета	Европейский совет	ORG	ORG-European-Council
+1089	1101	Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk

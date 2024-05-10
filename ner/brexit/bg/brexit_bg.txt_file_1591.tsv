@@ -1,0 +1,18 @@
+48	50	ЕС	ЕС	ORG	ORG-European-Union
+56	63	Брекзит	Брекзит	EVT	EVT-Brexit
+122	138	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+158	172	Великобритания	Великобритания	LOC	GPE-Great-Britain
+176	178	ЕС	ЕС	ORG	ORG-European-Union
+234	248	Великобритания	Великобритания	LOC	GPE-Great-Britain
+274	277	БНР	БНР	ORG	ORG-Bulgarian-National-Radio
+344	358	Европарламента	европарламент	ORG	ORG-European-Parliament
+359	374	Искра Михайлова	Искра Михайлова	PER	PER-Iskra-Mihaylova
+376	378	ЕС	ЕС	ORG	ORG-European-Union
+414	423	Михайлова	Михайлова	PER	PER-Iskra-Mihaylova
+450	464	Великобритания	Великобритания	LOC	GPE-Great-Britain
+678	685	News.bg	News.bg	PRO	PRO-News.bg
+705	719	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+745	791	Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+835	849	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+1098	1112	Уеб Медия Груп	Уеб Медия Груп	ORG	ORG-Web-Media-Group
+1194	1209	WEB MEDIA GROUP	Web media group	ORG	ORG-Web-Media-Group

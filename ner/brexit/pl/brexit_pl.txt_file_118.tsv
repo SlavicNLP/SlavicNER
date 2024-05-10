@@ -1,0 +1,40 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+59	66	Londynu	Londyn	LOC	GPE-London
+98	114	Alantra Partners	Alantra Partners	ORG	ORG-Alantra-Partners-SA
+158	165	Londynu	Londyn	LOC	GPE-London
+204	213	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+218	234	Alantra Partners	Alantra Partners	ORG	ORG-Alantra-Partners-SA
+294	303	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+378	395	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+407	423	Alantra Partners	Alantra Partners	ORG	ORG-Alantra-Partners-SA
+503	510	Europie	Europa	LOC	LOC-Europe
+640	646	Q-Park	Q-Park	ORG	ORG-Q-Park
+653	660	KKR Co.	KKR Co.	ORG	ORG-KKR-Co-Inc
+676	694	Banco Mare Nostrum	Banco Mare Nostrum	ORG	ORG-Banco-Mare-Nostrum-SA
+701	707	Bankię	Bankia	ORG	ORG-Bankia
+712	721	Hiszpanie	Hiszpanie	PER	GPE-Spain
+744	760	Alantra Partners	Alantra Partners	ORG	ORG-Alantra-Partners-SA
+793	800	Londynu	Londyn	LOC	GPE-London
+899	906	brexitu	Brexit	EVT	EVT-Brexit
+908	921	Goldman Sachs	Goldman Sachs	ORG	ORG-Goldman-Sachs
+923	927	HSBC	HSBC	ORG	ORG-HSBC
+929	943	Morgan Stanley	Morgan Stanley	ORG	ORG-Morgan-Stanley
+945	958	Deutsche Bank	Deutsche Bank	ORG	ORG-Deutsche-Bank
+961	976	Bank of America	Bank of America	ORG	ORG-Bank-of-America
+1015	1021	Paryżu	Paryż	LOC	GPE-Paris
+1027	1048	Frankfurcie nad Menem	Frankfurt nad Menem	LOC	GPE-Frankfurt-am-Main
+1095	1112	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1115	1132	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1227	1233	brexit	Brexit	EVT	EVT-Brexit
+1339	1347	Londynie	Londyn	LOC	GPE-London
+1352	1369	Michael Bloomberg	Michael Bloomberg	PER	PER-Michael-Bloomberg
+1371	1377	Londyn	Londyn	LOC	GPE-London
+1402	1408	Europy	Europa	LOC	LOC-Europe
+1418	1434	Alantra Partners	Alantra Partners	ORG	ORG-Alantra-Partners-SA
+1501	1518	Michael Bloomberg	Michael Bloomberg	PER	PER-Michael-Bloomberg
+1535	1547	Nowego Jorku	Nowy Jork	LOC	GPE-New-York
+1612	1623	BBC Radio 4	BBC Radio 4	PRO	PRO-BBC-Radio-4
+1628	1634	Londyn	Londyn	LOC	GPE-London
+1706	1712	brexit	Brexit	EVT	EVT-Brexit
+1746	1755	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1814	1831	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

@@ -1,0 +1,49 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+74	82	Trumpovo	Trump	PER	PER-Donald-Trump
+137	143	Trumpu	Trump	PER	PER-Donald-Trump
+183	195	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+481	490	Bele hiše	Bela hiša	LOC	LOC-White-House
+509	514	Trump	Trump	PER	PER-Donald-Trump
+568	571	CNN	CNN	PRO	PRO-CNN
+622	627	Trump	Trump	PER	PER-Donald-Trump
+731	740	Bele hiše	Bela hiša	LOC	LOC-White-House
+750	753	CNN	CNN	PRO	PRO-CNN
+787	796	Beli hiši	Bela hiša	LOC	LOC-White-House
+837	845	Fox News	Fox News	PRO	PRO-Fox-News
+848	855	Trumpov	Trumpov	PER	PER-Donald-Trump
+886	893	Arizoni	Arizona	LOC	GPE-Arizona
+913	919	Bidena	Biden	PER	PER-Joe-Biden
+937	940	CNN	CNN	PRO	PRO-CNN
+984	991	Arizoni	Arizona	LOC	GPE-Arizona
+1009	1017	Bidenove	Biden	PER	PER-Joe-Biden
+1073	1084	demokratova	demokrat	PER	ORG-Democratic-Party-USA
+1399	1405	Bidena	Biden	PER	PER-Joe-Biden
+1430	1435	Trump	Trump	PER	PER-Donald-Trump
+1520	1529	Michiganu	Michigan	LOC	GPE-Michigan
+1531	1544	Pennsylvaniji	Pennsylvanija	LOC	GPE-Pennsylvania
+1548	1554	Georgi	Georgia	LOC	GPE-Georgia-US-state
+1583	1593	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+1629	1637	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+1645	1653	Trumpove	Trump	PER	PER-Donald-Trump
+1694	1703	New Yorka	New York	LOC	GPE-New-York
+1704	1717	Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+1722	1733	Filadelfiji	Filadelfija	LOC	GPE-Philadelphia
+1805	1815	Trumpovimi	Trump	PER	PER-Donald-Trump
+1851	1858	Bidenov	Biden	PER	PER-Joe-Biden
+1872	1879	Trumpov	Trumpov	PER	PER-Donald-Trump
+1882	1895	Pennsylvaniji	Pennsylvanija	LOC	GPE-Pennsylvania
+1924	1929	Biden	Biden	PER	PER-Joe-Biden
+2040	2045	Marsa	Mars	LOC	LOC-Mars
+2056	2089	Demokratskega nacionalnega odbora	Demokratski nacionalni odbor	ORG	ORG-DMC
+2091	2094	DMC	DMC	ORG	ORG-DMC
+2098	2103	Biden	Biden	PER	PER-Joe-Biden
+2200	2207	Camdena	Camden	LOC	LOC-Camden-Town
+2210	2222	Nwe Jerseyju	New Jersey	LOC	GPE-New-Jersey
+2234	2242	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+2310	2320	Kanadčanov	Kanadčani	PER	GPE-Canada
+2322	2333	Filadelfija	Filadelfija	LOC	GPE-Philadelphia
+2494	2503	New Yorka	New York	LOC	GPE-New-York
+2544	2553	Fox Newsa	Fox News	PRO	PRO-Fox-News
+2567	2575	Bidenovo	Biden	PER	PER-Joe-Biden
+2584	2593	Michiganu	Michigan	LOC	GPE-Michigan
+2645	2653	Giuliani	Giuliani	PER	PER-Rudy-Giuliani

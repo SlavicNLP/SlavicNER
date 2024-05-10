@@ -1,0 +1,18 @@
+70	73	САЩ	САЩ	LOC	GPE-USA
+93	104	Демократите	демократи	PER	ORG-Democratic-Party-USA
+111	125	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+200	209	Белия дом	Бял дом	LOC	LOC-White-House
+232	237	Айова	Айова	LOC	GPE-Iowa
+254	263	демократи	демократи	PER	ORG-Democratic-Party-USA
+348	360	републиканец	републиканец	PER	ORG-Republican-Party-USA
+361	373	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+479	492	Средния запад	Среден Запад	LOC	LOC-Midwestern-United-States
+615	625	Ню Хемпшир	Ню Хемпшър	LOC	GPE-New-Hampshire
+668	681	Бърни Сандърс	Бърни Сандърс	PER	PER-Bernie-Sanders
+697	702	Айова	Айова	LOC	GPE-Iowa
+750	764	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+797	802	Тръмп	Тръмп	PER	PER-Donald-Trump
+940	945	Айова	Айова	LOC	GPE-Iowa
+948	958	Ню Хемпшър	Ню Хемпшър	LOC	GPE-New-Hampshire
+1303	1313	Калифорния	Калифорния	LOC	GPE-California
+1381	1387	Тексас	Тексас	LOC	GPE-Texas

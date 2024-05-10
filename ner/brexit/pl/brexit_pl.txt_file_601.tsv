@@ -1,0 +1,41 @@
+1	13	Tagesspiegel	Tagesspiegel	PRO	PRO-Tagesspiegel
+49	56	Europie	Europa	LOC	LOC-Europe
+76	82	Polska	Polska	LOC	GPE-Poland
+115	121	Europy	Europa	LOC	LOC-Europe
+193	202	Zachodzie	Zachód	LOC	LOC-West
+247	249	UE	UE	ORG	ORG-European-Union
+311	323	Tagesspiegel	Tagesspiegel	PRO	PRO-Tagesspiegel
+335	353	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+377	385	Berlinie	Berlin	LOC	GPE-Berlin
+392	398	Europy	Europa	LOC	LOC-Europe
+556	572	Gerd Appenzeller	Gerd Appenzeller	PER	PER-Gerd-Appenzeller
+621	634	Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+637	654	Fundacji Koerbera	Fundacja Koerbera	ORG	ORG-Körber-Foundation
+818	824	Polski	Polska	LOC	GPE-Poland
+846	848	UE	UE	ORG	ORG-European-Union
+929	949	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+1088	1094	Europy	Europa	LOC	LOC-Europe
+1129	1137	Brukseli	Bruksela	LOC	GPE-Brussles
+1161	1170	Warszawie	Warszawa	LOC	GPE-Warsaw
+1279	1292	Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+1348	1355	Europie	Europa	LOC	LOC-Europe
+1365	1383	II wojny światowej	II Wojna Światowa	EVT	EVT-World-War-II
+1590	1592	UE	UE	ORG	ORG-European-Union
+1605	1617	Tagesspiegel	Tagesspiegel	PRO	PRO-Tagesspiegel
+1740	1746	Polsce	Polska	LOC	GPE-Poland
+1747	1750	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+1754	1761	Europie	Europa	LOC	LOC-Europe
+1841	1847	Brexit	Brexit	EVT	EVT-Brexit
+1922	1930	Brexitem	Brexit	EVT	EVT-Brexit
+2097	2103	Polski	Polska	LOC	GPE-Poland
+2107	2109	UE	UE	ORG	ORG-European-Union
+2181	2189	Berlinie	Berlin	LOC	GPE-Berlin
+2196	2209	Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+2429	2435	Polska	Polska	LOC	GPE-Poland
+2473	2486	Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+2527	2529	UE	UE	ORG	ORG-European-Union
+2535	2541	Polska	Polska	LOC	GPE-Poland
+2635	2643	Brukseli	Bruksela	LOC	GPE-Brussles
+2653	2665	Appenzellera	Appenzeller	PER	PER-Gerd-Appenzeller
+2865	2877	Tagesspiegla	Tagesspiegl	PRO	PRO-Tagesspiegel
+2881	2884	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

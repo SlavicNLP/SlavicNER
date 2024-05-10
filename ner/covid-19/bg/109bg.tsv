@@ -1,0 +1,21 @@
+12	24	коронавируса	коронавирус	EVT	EVT-Covid-19
+27	30	САЩ	САЩ	LOC	GPE-USA
+104	108	Ирак	Ирак	LOC	GPE-Iraq
+110	117	Виетнам	Виетнам	LOC	GPE-Vietnam
+120	125	Корея	Корея	LOC	GPE-Korea
+158	169	коронавирус	коронавирус	EVT	EVT-Covid-19
+172	175	САЩ	САЩ	LOC	GPE-USA
+221	228	Ройтерс	Ройтерс	ORG	ORG-Reuters
+460	470	американци	американци	PER	GPE-USA
+491	502	коронавирус	коронавирус	EVT	EVT-Covid-19
+648	653	Корея	Корея	LOC	GPE-Korea
+655	662	Виетнам	Виетнам	LOC	GPE-Vietnam
+665	669	Ирак	Ирак	LOC	GPE-Iraq
+756	798	епидемията от СПИН за периода 1981-1989 г.	епидемията от СПИН за периода 1981-1989 г.	EVT	EVT-AIDS
+933	936	САЩ	САЩ	LOC	GPE-USA
+1094	1097	САЩ	САЩ	LOC	GPE-USA
+1155	1161	Белгия	Белгия	LOC	GPE-Belgium
+1186	1193	Испания	Испания	LOC	GPE-Spain
+1195	1209	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1212	1218	Италия	Италия	LOC	GPE-Italy
+1233	1240	Ройтерс	Ройтерс	ORG	ORG-Reuters

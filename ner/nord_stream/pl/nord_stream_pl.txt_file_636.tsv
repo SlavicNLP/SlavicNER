@@ -1,0 +1,32 @@
+0	6	Polski	Polska	LOC	GPE-Poland
+43	53	Gazpromowi	Gazprom	ORG	ORG-Gazprom
+83	90	Gazprom	Gazprom	ORG	ORG-Gazprom
+117	130	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+219	224	UOKiK	UOKiK	ORG	ORG-UOKiK-Office
+235	248	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+268	275	Bałtyku	Bałtyk	LOC	LOC-Baltic-Sea
+327	338	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+443	448	Rosji	Rosja	LOC	GPE-Russia
+452	459	Niemiec	Niemcy	LOC	GPE-Germany
+494	500	Polska	Polska	LOC	GPE-Poland
+520	527	Ukraina	Ukraina	LOC	GPE-Ukraine
+595	608	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+626	642	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+644	651	Gazprom	Gazprom	ORG	ORG-Gazprom
+681	684	OMV	OMV	ORG	ORG-OMV
+686	703	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+705	711	Uniper	Uniper	ORG	ORG-Uniper
+714	725	Wintershall	Wintershall	ORG	ORG-Wintershall
+752	792	Urzędu Ochrony Konkurencji i Konsumentów	Urząd Ochrony Konkurencji i Konsumentów	ORG	ORG-UOKiK-Office
+849	862	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+911	916	UOKiK	UOKiK	ORG	ORG-UOKiK-Office
+989	1002	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1028	1036	Gazpromu	Gazprom	ORG	ORG-Gazprom
+1057	1063	Polski	Polska	LOC	GPE-Poland
+1175	1180	UOKiK	UOKiK	ORG	ORG-UOKiK-Office
+1181	1196	Marek Niechciał	Marek Niechciał	PER	PER-Marek-Niechcial
+1291	1298	Gazprom	Gazprom	ORG	ORG-Gazprom
+1346	1352	Polski	Polska	LOC	GPE-Poland
+1496	1503	Gazprom	Gazprom	ORG	ORG-Gazprom
+1540	1545	UOKiK	UOKiK	ORG	ORG-UOKiK-Office
+1555	1560	UOKiK	UOKiK	ORG	ORG-UOKiK-Office

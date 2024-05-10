@@ -1,0 +1,16 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+69	76	Johnson	Johnson	PER	PER-Boris-Johnson
+80	86	Brusel	Brusel	LOC	GPE-Brussles
+183	191	Británii	Británie	LOC	GPE-Great-Britain
+263	269	Londýn	Londýn	LOC	GPE-London
+307	314	brexitu	brexit	EVT	EVT-Brexit
+323	331	Británie	Británie	LOC	GPE-Great-Britain
+353	355	EU	EU	ORG	ORG-European-Union
+365	372	brexitu	brexit	EVT	EVT-Brexit
+373	382	Johnsonův	Johnson	PER	PER-Boris-Johnson
+420	440	Labouristické strany	Labouristická strana	ORG	ORG-Labour-Party-UK
+441	453	Chuka Umunna	Chuka Umunna	PER	PER-Chuka-Umunna
+539	548	Tom Brake	Tom Brake	PER	PER-Tom-Brake
+558	568	Johnsonova	Johnson	PER	PER-Boris-Johnson
+575	582	brexitu	brexit	EVT	EVT-Brexit
+586	594	Británii	Británie	LOC	GPE-Great-Britain

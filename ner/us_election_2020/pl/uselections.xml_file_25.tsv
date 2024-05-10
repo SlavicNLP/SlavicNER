@@ -1,0 +1,36 @@
+11	18	Georgii	Georgia	LOC	GPE-Georgia-US-state
+36	41	Trump	Trump	PER	PER-Donald-Trump
+78	85	Georgii	Georgia	LOC	GPE-Georgia-US-state
+302	311	Twitterze	Twitter	PRO	PRO-Twitter
+312	324	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+336	339	USA	USA	LOC	GPE-USA
+349	361	Joego Bidena	Joe Biden	PER	PER-Joe-Biden
+455	462	Georgii	Georgia	LOC	GPE-Georgia-US-state
+569	582	Republikanina	Republikanin	PER	ORG-Republican-Party-USA
+585	594	Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+622	649	wyborów prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+650	662	Republikanie	Republikanie	ORG	ORG-Republican-Party-USA
+816	830	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+833	855	Partii Republikańskiej	Partia Republikańska	ORG	ORG-Republican-Party-USA
+857	860	GOP	GOP	ORG	ORG-Republican-Party-USA
+1129	1132	GOP	GOP	ORG	ORG-Republican-Party-USA
+1638	1646	Fox News	Fox News	PRO	PRO-Fox-News
+1658	1671	Sidney Powell	Sidney Powell	PER	PER-Sidney-Powell
+1716	1733	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1940	1949	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2018	2026	Fox News	Fox News	PRO	PRO-Fox-News
+2028	2034	Powell	Powell	PER	PER-Sidney-Powell
+2074	2085	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+2100	2107	Georgii	Georgia	LOC	GPE-Georgia-US-state
+2119	2127	Arizonie	Arizona	LOC	GPE-Arizona
+2143	2151	Michigan	Michigan	LOC	GPE-Michigan
+2164	2173	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+2275	2287	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+2319	2328	Biały Dom	Biały Dom	LOC	LOC-White-House
+2443	2450	Georgii	Georgia	LOC	GPE-Georgia-US-state
+2452	2461	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2525	2528	USA	USA	LOC	GPE-USA
+2613	2625	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+2627	2636	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+2776	2792	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+2824	2831	Georgii	Georgia	LOC	GPE-Georgia-US-state

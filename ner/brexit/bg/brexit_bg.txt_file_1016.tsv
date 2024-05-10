@@ -1,0 +1,28 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+42	44	ЕС	ЕС	ORG	ORG-European-Union
+78	85	Брекзит	Брекзит	EVT	EVT-Brexit
+109	119	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+161	177	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+279	293	Великобритания	Великобритания	LOC	GPE-Great-Britain
+297	299	ЕС	ЕС	ORG	ORG-European-Union
+310	317	Ройтерс	Ройтерс	ORG	ORG-Reuters
+330	332	ЕС	ЕС	ORG	ORG-European-Union
+437	443	Лондон	Лондон	LOC	GPE-London
+446	453	Брюксел	Брюксел	LOC	GPE-Brussles
+467	469	ЕС	ЕС	ORG	ORG-European-Union
+569	583	Великобритания	Великобритания	LOC	GPE-Great-Britain
+657	664	Брюксел	Брюксел	LOC	GPE-Brussles
+665	676	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+686	689	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+714	727	Съветът на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+876	879	Мей	Мей	PER	PER-Theresa-May
+998	1014	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1054	1072	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+1089	1091	ЕС	ЕС	ORG	ORG-European-Union
+1100	1107	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1240	1247	Брекзит	Брекзит	EVT	EVT-Brexit
+1348	1360	Лио Варадкар	Лио Варадкар	PER	PER-Leo-Varadkar
+1390	1397	Брюксел	Брюксел	LOC	GPE-Brussles
+1452	1459	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1523	1525	ЕС	ЕС	ORG	ORG-European-Union
+1554	1557	Мей	Мей	PER	PER-Theresa-May

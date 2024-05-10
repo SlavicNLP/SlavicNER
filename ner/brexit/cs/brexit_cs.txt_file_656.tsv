@@ -1,0 +1,16 @@
+0	6	Mayová	Mayová	PER	PER-Theresa-May
+48	55	brexitu	brexit	EVT	EVT-Brexit
+140	153	EuroZprávy.cz	EuroZprávy.cz	PRO	PRO-EuroZprávy.cz
+155	161	Londýn	Londýn	LOC	GPE-London
+162	168	Brusel	Brusel	LOC	GPE-Brussles
+222	236	Therese Mayové	Theresa Mayová	PER	PER-Theresa-May
+297	317	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+320	322	EU	EU	ORG	ORG-European-Union
+461	475	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+481	488	Bruselu	Brusel	LOC	GPE-Brussles
+517	532	Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+571	573	EU	EU	ORG	ORG-European-Union
+611	625	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+628	630	EU	EU	ORG	ORG-European-Union
+643	649	brexit	brexit	EVT	EVT-Brexit
+835	847	The Guardian	The Guardian	PRO	PRO-The-Guardian

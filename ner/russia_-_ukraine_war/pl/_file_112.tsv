@@ -1,0 +1,37 @@
+19	25	Polski	Polska	LOC	GPE-Poland
+28	30	UE	UE	ORG	ORG-European-Union
+116	134	Gościu Niedzielnym	Gość Niedzielny	PRO	PRO-Gosc-Niedzielny
+150	168	wojnie na Ukrainie	wojna na Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+337	355	inwazja na Ukrainę	inwazja na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+433	438	Rosji	Rosja	LOC	GPE-Russia
+449	457	Doniecka	Donieck	LOC	GPE-Donetsk
+459	467	Ługańska	Ługańsk	LOC	GPE-Luhansk
+474	480	Odessy	Odessa	LOC	GPE-Odesa
+572	586	Władimir Putin	Władimir Putin	PER	PER-Vladimir-Putin
+627	637	Ukraińcach	Ukraińcy	PER	GPE-Ukraine
+820	825	Rosja	Rosja	LOC	GPE-Russia
+948	956	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1034	1046	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+1221	1227	Putina	Putin	PER	PER-Vladimir-Putin
+1420	1427	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1520	1525	Rosję	Rosja	LOC	GPE-Russia
+1595	1619	trzeciej wojny światowej	trzecia wojna światowa	EVT	EVT-World-War-III
+1781	1788	Ukraina	Ukraina	LOC	GPE-Ukraine
+1843	1860	państwa zachodnie	państwa zachodnie	LOC	LOC-West
+1863	1877	Świat zachodni	Świat zachodni	LOC	LOC-West
+1906	1913	Ukrainę	Ukraina	LOC	GPE-Ukraine
+2108	2114	Polska	Polska	LOC	GPE-Poland
+2122	2130	Ukrainie	Ukraina	LOC	GPE-Ukraine
+2245	2251	Polska	Polska	LOC	GPE-Poland
+2268	2285	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2353	2357	Unia	Unia	ORG	ORG-European-Union
+2394	2400	Turcji	Turcja	LOC	GPE-Turkey
+2495	2508	wojną w Syrii	wojna w Syrii	EVT	EVT-Syrian-Civil-War
+2702	2719	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2850	2852	UE	UE	ORG	ORG-European-Union
+2980	2986	Polski	Polska	LOC	GPE-Poland
+3196	3211	polskim władzom	polskie władze	ORG	ORG-Government-of-Poland
+3271	3277	Polsce	Polska	LOC	GPE-Poland
+3416	3422	Polski	Polska	LOC	GPE-Poland
+3425	3442	Unii europejskiej	Unia europejska	ORG	ORG-European-Union
+3606	3618	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda

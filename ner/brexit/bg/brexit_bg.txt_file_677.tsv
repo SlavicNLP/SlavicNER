@@ -1,0 +1,23 @@
+44	51	Брюксел	Брюксел	LOC	GPE-Brussles
+76	83	Брекзит	Брекзит	EVT	EVT-Brexit
+87	89	ЕС	ЕС	ORG	ORG-European-Union
+91	103	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+145	152	Брекзит	Брекзит	EVT	EVT-Brexit
+193	207	Великобритания	Великобритания	LOC	GPE-Great-Britain
+277	289	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+404	418	Великобритания	Великобритания	LOC	GPE-Great-Britain
+440	442	ЕС	ЕС	ORG	ORG-European-Union
+490	497	Брекзит	Брекзит	EVT	EVT-Brexit
+514	516	ЕС	ЕС	ORG	ORG-European-Union
+632	646	Великобритания	Великобритания	LOC	GPE-Great-Britain
+749	758	Бирмингам	Бирмингам	LOC	GPE-Birmingham
+760	767	Бристол	Бристол	LOC	GPE-Bristol
+769	775	Кардиф	Кардиф	LOC	GPE-Cardiff
+777	784	Глазгоу	Глазгоу	LOC	GPE-Glasgow
+786	791	Лийдс	Лийдс	LOC	GPE-Leeds
+793	801	Ливърпул	Ливърпул	LOC	GPE-Liverpool
+803	812	Манчестър	Манчестър	LOC	GPE-Manchester
+814	821	Нюкасъл	Нюкасъл	LOC	GPE-Newcastle
+823	831	Нотингам	Нотингам	LOC	GPE-Nottingham
+834	841	Шефийлд	Шефийлд	LOC	GPE-Sheffield
+1073	1080	Брекзит	Брекзит	EVT	EVT-Brexit

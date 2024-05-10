@@ -1,0 +1,72 @@
+36	41	Трамп	Трамп	PER	PER-Donald-Trump
+78	85	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+88	96	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+99	112	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+145	153	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+213	224	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+243	246	США	США	LOC	GPE-USA
+317	330	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+342	350	Меланією	Меланія	PER	PER-Melania-Trump
+379	387	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+407	410	США	США	LOC	GPE-USA
+411	424	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+465	487	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+559	567	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+647	658	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+662	667	Трамп	Трамп	PER	PER-Donald-Trump
+709	722	Брайана Кемпа	Брайан Кемп	PER	PER-Brian-Kemp
+836	858	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+907	910	США	США	LOC	GPE-USA
+931	938	Twitter	Twitter	PRO	PRO-Twitter
+961	966	Трамп	Трамп	PER	PER-Donald-Trump
+993	1001	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1203	1208	Трамп	Трамп	PER	PER-Donald-Trump
+1259	1265	Кемпом	Кемп	PER	PER-Brian-Kemp
+1325	1331	Трампа	Трамп	PER	PER-Donald-Trump
+1349	1356	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1376	1379	США	США	LOC	GPE-USA
+1424	1432	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1507	1513	Сенаті	Сенат	ORG	ORG-United-States-Senate
+1566	1573	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1574	1579	Трамп	Трамп	PER	PER-Donald-Trump
+1626	1633	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1636	1639	США	США	LOC	GPE-USA
+1693	1699	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1739	1744	Трамп	Трамп	PER	PER-Donald-Trump
+1839	1858	Верховного суду США	Верховний суд США	ORG	ORG-Supreme-Court-of-the-United-States
+1860	1865	Трамп	Трамп	PER	PER-Donald-Trump
+1992	1999	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2103	2115	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+2176	2183	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2192	2200	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+2256	2264	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+2314	2321	Байдена	Байден	PER	PER-Joe-Biden
+2347	2353	Трампа	Трамп	PER	PER-Donald-Trump
+2380	2388	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+2425	2432	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2540	2546	Трампа	Трамп	PER	PER-Donald-Trump
+2610	2618	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+2720	2731	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2733	2738	Трамп	Трамп	PER	PER-Donald-Trump
+2772	2778	Байден	Байден	PER	PER-Joe-Biden
+2808	2816	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+2854	2860	Байден	Байден	PER	PER-Joe-Biden
+2908	2916	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+2974	2981	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2993	2996	США	США	LOC	GPE-USA
+3019	3037	колегії виборників	колегія виборників	ORG	ORG-United-States-Electoral-College
+3111	3128	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+3447	3460	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+3461	3464	США	США	LOC	GPE-USA
+3567	3578	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3622	3625	США	США	LOC	GPE-USA
+3675	3686	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+3714	3723	Капітолія	Капітолій	LOC	LOC-United-States-Capitol
+3726	3736	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+3755	3762	Байдена	Байден	PER	PER-Joe-Biden
+3947	3958	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3977	3980	США	США	LOC	GPE-USA
+3981	3994	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+4041	4048	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+4077	4082	Трамп	Трамп	PER	PER-Donald-Trump
+4147	4150	США	США	LOC	GPE-USA

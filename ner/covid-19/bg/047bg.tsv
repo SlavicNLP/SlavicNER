@@ -1,0 +1,53 @@
+12	18	Европа	Европа	LOC	LOC-Europe
+66	76	Пандемията	Пандемия	EVT	EVT-Pandemic
+187	193	Европа	Европа	LOC	LOC-Europe
+316	324	Politico	Politico	PRO	PRO-Politico
+422	434	коронавируса	коронавирус	EVT	EVT-Covid-19
+490	510	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+511	531	Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+534	547	Втората вълна	Втора вълна	EVT	EVT-COVID-19-second-wave
+559	565	Европа	Европа	LOC	LOC-Europe
+678	684	Белгия	Белгия	LOC	GPE-Belgium
+686	693	Франция	Франция	LOC	GPE-France
+695	703	Германия	Германия	LOC	GPE-Germany
+706	720	Великобритания	Великобритания	LOC	GPE-Great-Britain
+740	747	Испания	Испания	LOC	GPE-Spain
+749	755	Италия	Италия	LOC	GPE-Italy
+757	767	Португалия	Португалия	LOC	GPE-Portugal
+770	777	Австрия	Австрия	LOC	GPE-Austria
+1034	1040	Италия	Италия	LOC	GPE-Italy
+1240	1246	Неапол	Неапол	LOC	GPE-Naples
+1326	1329	Рим	Рим	LOC	GPE-Rome
+1360	1371	Форца Нуова	Форца Нуова	ORG	ORG-Forza-Nuova-Italy
+1526	1539	Джозепе Конте	Джозепе Конте	PER	PER-Giuseppe-Conte
+1808	1819	Клифър Скот	Клифър Скот	PER	PER-Clifer-Scott
+1859	1893	Килския университет (в Стафордшир)	Килски университет (в Стафордшир)	ORG	ORG-Keele-University
+2057	2063	Италия	Италия	LOC	GPE-Italy
+2142	2149	Испания	Испания	LOC	GPE-Spain
+2224	2230	Мадрид	Мадрид	LOC	GPE-Madrid
+2232	2241	Барселона	Барселона	LOC	GPE-Barcelona
+2269	2276	Брюксел	Брюксел	LOC	GPE-Brussles
+2327	2333	Берлин	Берлин	LOC	GPE-Berlin
+2364	2386	"института ""Роберт Кох"""	"институт ""Роберт Кох"""	ORG	ORG-Robert-Koch-Institut
+2468	2473	COVID	COVID	EVT	EVT-Covid-19
+2477	2496	германската столица	германска столица	LOC	GPE-Berlin
+2586	2592	Берлин	Берлин	LOC	GPE-Berlin
+2681	2691	5G мрежата	5G мрежа	PRO	PRO-5G
+2856	2862	Европа	Европа	LOC	LOC-Europe
+2894	2902	Politico	Politico	PRO	PRO-Politico
+3029	3042	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+3087	3097	британците	британци	PER	GPE-Great-Britain
+3236	3245	Манчестър	Манчестър	LOC	GPE-Manchester
+3305	3312	Джонсън	Джонсън	PER	PER-Boris-Johnson
+3449	3463	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3525	3530	Конте	Конте	PER	PER-Giuseppe-Conte
+3634	3643	италианци	италианци	PER	GPE-Italy
+3759	3770	италианците	италианци	PER	GPE-Italy
+3833	3845	коронавируса	коронавирус	EVT	EVT-Covid-19
+3873	3881	Германия	Германия	LOC	GPE-Germany
+3964	3977	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+4107	4113	Европа	Европа	LOC	LOC-Europe
+4208	4214	Италия	Италия	LOC	GPE-Italy
+4226	4233	Ла Лига	Ла Лига	ORG	ORG-La-Liga
+4234	4247	Матео Салвини	Матео Салвини	PER	PER-Matteo-Salvini
+4278	4284	Италия	Италия	LOC	GPE-Italy

@@ -1,0 +1,37 @@
+12	23	Ивайло Ачев	Ивайло Ачев	PER	PER-Ivaylo-Achev
+58	65	Мичиган	Мичиган	LOC	GPE-Michigan
+238	248	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+349	354	БГНЕС	БГНЕС	PRO	PRO-BGNES
+398	421	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+452	474	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+613	620	Мичиган	Мичиган	LOC	GPE-Michigan
+621	636	Джоселин Бенсън	Джоселин Бенсън	PER	PER-Jocelyn-Benson
+702	705	САЩ	САЩ	LOC	GPE-USA
+748	760	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+780	802	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+902	913	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+986	1032	Агенцията по общите въпроси на администрацията	Агенция по общите въпроси на администрацията	ORG	ORG-General-Services-Administration
+1034	1037	GSA	GSA	ORG	ORG-General-Services-Administration
+1049	1059	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1083	1088	Тръмп	Тръмп	PER	PER-Donald-Trump
+1171	1174	GSA	GSA	ORG	ORG-General-Services-Administration
+1175	1186	Емили Мърфи	Емили Мърфи	PER	PER-Emily-Murphy
+1201	1204	CNN	CNN	ORG	ORG-CNN
+1217	1220	GSA	GSA	ORG	ORG-General-Services-Administration
+1311	1323	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1358	1364	Байдън	Байдън	PER	PER-Joe-Biden
+1464	1469	Мърфи	Мърфи	PER	PER-Emily-Murphy
+1503	1509	Байдън	Байдън	PER	PER-Joe-Biden
+1734	1740	Байдън	Байдън	PER	PER-Joe-Biden
+1793	1798	Тръмп	Тръмп	PER	PER-Donald-Trump
+1829	1832	GSA	GSA	ORG	ORG-General-Services-Administration
+1847	1854	Twitter	Twitter	PRO	PRO-Twitter
+2001	2006	Емили	Емили	PER	PER-Emily-Murphy
+2142	2147	Мърфи	Мърфи	PER	PER-Emily-Murphy
+2191	2196	Мърфи	Мърфи	PER	PER-Emily-Murphy
+2222	2227	Тръмп	Тръмп	PER	PER-Donald-Trump
+2299	2310	демократите	демократи	PER	ORG-Democratic-Party-USA
+2333	2347	републиканците	републиканци	PER	ORG-Republican-Party-USA
+2421	2432	Роб Портман	Роб Портман	PER	PER-Rob-Portman
+2434	2446	републиканец	републиканец	PER	ORG-Republican-Party-USA
+2450	2455	Охайо	Охайо	LOC	GPE-Ohio

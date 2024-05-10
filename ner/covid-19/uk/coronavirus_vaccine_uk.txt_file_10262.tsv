@@ -1,0 +1,26 @@
+2	5	США	США	LOC	GPE-USA
+102	109	Novavax	Novavax	ORG	ORG-Novavax
+184	187	США	США	LOC	GPE-USA
+219	234	Financial Times	Financial Times	PRO	PRO-Financial-Times
+258	275	пандемія COVID-19	пандемія COVID-19	EVT	EVT-Covid-19
+446	453	Novavax	Novavax	ORG	ORG-Novavax
+454	465	Стенлі Ерік	Стенлі Ерік	PER	PER-Stanley-Erck
+581	596	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+598	628	Операція надсвітлова швидкість	Операція надсвітлова швидкість	PRO	PRO-Operation-Warp-Speed
+822	829	Novavax	Novavax	ORG	ORG-Novavax
+855	858	США	США	LOC	GPE-USA
+866	873	Мексиці	Мексика	LOC	GPE-Mexico
+875	891	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+894	897	ПАР	ПАР	LOC	GPE-Republic-of-South-Africa
+924	932	Британії	Британія	LOC	GPE-Great-Britain
+1027	1035	Цельсієм	Цельсій	PER	PER-Celsius
+1075	1083	BioNTech	BioNTech	ORG	ORG-BioNTech
+1086	1092	Pfizer	Pfizer	ORG	ORG-Pfizer
+1102	1105	США	США	LOC	GPE-USA
+1143	1149	Pfizer	Pfizer	ORG	ORG-Pfizer
+1150	1158	BioNTech	BioNTech	ORG	ORG-BioNTech
+1161	1168	Moderna	Moderna	ORG	ORG-Moderna
+1214	1226	Ентоні Фаучі	Ентоні Фаучі	PER	PER-Anthony-Fauci
+1237	1253	Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+1359	1367	пандемії	пандемія	EVT	EVT-Covid-19
+1370	1373	США	США	LOC	GPE-USA

@@ -1,0 +1,46 @@
+31	38	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+50	53	США	США	LOC	GPE-USA
+105	112	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+124	127	США	США	LOC	GPE-USA
+235	242	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+245	252	Україні	Україна	LOC	GPE-Ukraine
+477	484	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+543	550	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+553	560	Україні	Україна	LOC	GPE-Ukraine
+675	678	США	США	LOC	GPE-USA
+686	693	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+708	714	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+794	811	Сполучених Штатах	Сполучених Штатах	LOC	GPE-USA
+881	888	Алабама	Алабама	LOC	GPE-USA-Alabama
+976	987	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1069	1072	BBC	BBC	ORG	ORG-BBC-Ltd
+1249	1271	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1381	1388	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1391	1398	Україні	Україна	LOC	GPE-Ukraine
+1607	1619	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1868	1871	США	США	LOC	GPE-USA
+1886	1909	Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+1929	1932	США	США	LOC	GPE-USA
+1933	1946	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2009	2016	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2037	2043	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2103	2108	Трамп	Трамп	PER	PER-Donald-Trump
+2124	2132	твіттері	твіттер	PRO	PRO-Twitter
+2300	2307	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2859	2874	Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+3092	3099	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3182	3192	Каліфорнія	Каліфорнія	LOC	GPE-California
+3318	3327	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3412	3419	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3606	3613	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3662	3669	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3756	3759	США	США	LOC	GPE-USA
+3872	3884	вибори у США	вибори у США	EVT	EVT-2020-United-States-Presidential-Election
+4070	4084	Гіларі Клінтон	Гіларі Клінтон	PER	PER-Hillary-Clinton
+4120	4135	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+4355	4362	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+4365	4377	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+4519	4526	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+4622	4629	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+5083	5098	Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+5176	5186	Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr

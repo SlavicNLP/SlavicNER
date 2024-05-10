@@ -1,0 +1,20 @@
+69	75	МОСКВА	Москва	LOC	GPE-Moscow
+84	89	ПРАЙМ	Прайм	ORG	ORG-PRIME-News-Agency
+155	169	Великобритании	Великобритания	LOC	GPE-Great-Britain
+260	278	Европейского союза	Европейский союз	ORG	ORG-European-Union
+280	286	Brexit	Brexit	EVT	EVT-Brexit
+676	679	США	США	LOC	GPE-USA
+780	799	МИДа Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+800	813	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+858	860	ЕС	ЕС	ORG	ORG-European-Union
+862	873	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+929	939	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+973	976	Мэй	Мэй 	PER	PER-Theresa-May
+994	998	МИДа	МИД	ORG	ORG-Foreign-Office
+1028	1041	Джереми Ханта	Джереми Хант	PER	PER-Jeremy-Hunt
+1266	1269	Мэй	Мэй	PER	PER-Theresa-May
+1339	1345	Brexit	Brexit	EVT	EVT-Brexit
+1446	1454	Британии	Британия	LOC	GPE-Great-Britain
+1458	1460	ЕС	ЕС	ORG	ORG-European-Union
+1624	1632	Британия	Британия 	LOC	GPE-Great-Britain
+1641	1643	ЕС	ЕС	ORG	ORG-European-Union

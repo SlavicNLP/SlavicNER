@@ -1,0 +1,27 @@
+3	12	Нафтогазі	Нафтогаз	ORG	ORG-Naftogaz
+27	34	Газпром	Газпром	ORG	ORG-Gazprom
+72	83	Nord Stream	Nord Stream	ORG	ORG-Nord-Stream-AG
+85	89	КИЇВ	Київ	LOC	GPE-Kyiv
+100	103	УНН	УНН	ORG	ORG-UNN
+107	110	НАК	НАК	ORG	ORG-Naftogaz
+112	120	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+121	128	України	Україна	LOC	GPE-Ukraine
+147	154	Газпром	Газпром	ORG	ORG-Gazprom
+236	250	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+253	269	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+294	297	НАК	НАК	ORG	ORG-Naftogaz
+307	310	УНН	УНН	ORG	ORG-UNN
+313	320	Газпром	Газпром	ORG	ORG-Gazprom
+367	402	Вищий суд швейцарського кантону Цуг	Вищий суд швейцарського кантону Цуг	ORG	ORG-Supreme-Court-Canton-Zug
+484	498	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+502	518	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+667	676	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+765	768	УНН	УНН	ORG	ORG-UNN
+778	785	Газпром	Газпром	ORG	ORG-Gazprom
+820	836	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+866	880	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+888	896	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+909	944	вищий суд швейцарського кантону Цуг	Вищий суд швейцарського кантону Цуг	ORG	ORG-Supreme-Court-Canton-Zug
+975	989	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+992	1008	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+1043	1060	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG

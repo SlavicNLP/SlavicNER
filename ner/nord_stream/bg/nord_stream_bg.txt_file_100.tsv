@@ -1,0 +1,28 @@
+0	7	Газпром	Газпром	ORG	ORG-Gazprom
+51	68	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+119	135	"Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+163	168	Русия	Русия	LOC	GPE-Russia
+197	205	Германия	Германия	LOC	GPE-Germany
+267	276	Финландия	Финландия	LOC	GPE-Finland
+329	345	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+359	368	Ведомости	Ведомости	PRO	PRO-Vedomosti
+498	505	Ройтерс	Ройтерс	ORG	ORG-Reuters
+554	570	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+572	574	ЕС	ЕС	ORG	ORG-European-Union
+674	680	Европа	Европа	LOC	LOC-Europe
+706	715	Solitaire	Solitaire	PRO	PRO-Solitaire
+791	800	Финландия	Финландия	LOC	GPE-Finland
+993	1009	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+1390	1399	Ведомости	Ведомости	PRO	PRO-Vedomosti
+1470	1476	Швеция	Швеция	LOC	GPE-Sweden
+1479	1488	Финландия	Финландия	LOC	GPE-Finland
+1521	1526	Русия	Русия	LOC	GPE-Russia
+1528	1536	Германия	Германия	LOC	GPE-Germany
+1539	1544	Дания	Дания	LOC	GPE-Denmark
+1578	1583	Дания	Дания	LOC	GPE-Denmark
+1627	1643	"Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+1745	1793	Националния фонд за енергийна сигурност на Русия	Национален фонд за енергийна сигурност на Русия	ORG	ORG-NESF-Russia
+1794	1808	Алексей Гривач	Алексей Гривач	PER	PER-Aleksey-Grivach
+1862	1865	САЩ	САЩ	LOC	GPE-USA
+2157	2164	Газпром	Газпром	ORG	ORG-Gazprom
+2302	2307	Русия	Русия	LOC	GPE-Russia

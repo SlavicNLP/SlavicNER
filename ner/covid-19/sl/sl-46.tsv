@@ -1,0 +1,28 @@
+0	2	EK	EK	ORG	ORG-European-Commission
+31	40	covidu-19	covid-19	EVT	EVT-Covid-19
+44	52	Pfizerja	Pfizer	ORG	ORG-Pfizer
+56	65	BioNtecha	BioNtech	ORG	ORG-BioNTech
+137	147	Sputnika V	Sputnik V	PRO	PRO-Sputnik-V
+153	159	Rusiji	Rusija	LOC	GPE-Russia
+249	258	covidu-19	covid-19	EVT	EVT-Covid-19
+259	268	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+351	359	Gamaleja	Gamaleja	ORG	ORG-The-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+513	521	Pfizerja	Pfizer	ORG	ORG-Pfizer
+534	543	BioNTecha	BioNTech	ORG	ORG-BioNTech
+678	687	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+717	725	Gamaleje	Gamaleja	ORG	ORG-The-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+728	734	Rusija	Rusija	LOC	GPE-Russia
+830	839	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+933	937	Rusi	Rusi	PER	GPE-Russia
+1050	1056	Rusiji	Rusija	LOC	GPE-Russia
+1089	1106	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+1126	1135	Pfizerjem	Pfizer	ORG	ORG-Pfizer
+1139	1149	BioNtechom	BioNtech	ORG	ORG-BioNTech
+1172	1181	covidu-19	covid-19	EVT	EVT-Covid-19
+1183	1200	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+1223	1232	Pfizerjem	Pfizer	ORG	ORG-Pfizer
+1236	1246	BioNtechom	BioNtech	ORG	ORG-BioNTech
+1292	1301	covidu-19	covid-19	EVT	EVT-Covid-19
+1415	1417	EU	EU	ORG	ORG-European-Union
+1516	1525	covidu-19	covid-19	EVT	EVT-Covid-19
+1605	1612	Bruslju	Bruselj	LOC	GPE-Brussles

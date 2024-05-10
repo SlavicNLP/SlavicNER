@@ -1,0 +1,40 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+8	12	Unia	Unia	ORG	ORG-European-Union
+34	38	City	City	LOC	LOC-City-of-London
+84	92	Brukseli	Bruksela	LOC	GPE-Brussles
+338	342	Unii	Unia	ORG	ORG-European-Union
+344	347	USA	USA	LOC	GPE-USA
+502	513	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+720	728	Londynem	Londyn	LOC	GPE-London
+866	878	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+948	955	Brexitu	Brexit	EVT	EVT-Brexit
+1016	1027	Theresy May	Theresa May	PER	PER-Theresa-May
+1051	1055	City	City	LOC	LOC-City-of-London
+1165	1169	Unii	Unia	ORG	ORG-European-Union
+1292	1296	City	City	LOC	LOC-City-of-London
+1416	1420	City	City	LOC	LOC-City-of-London
+1593	1601	Bruksela	Bruksela	LOC	GPE-Brussles
+1660	1680	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+1719	1723	City	City	LOC	LOC-City-of-London
+1777	1781	Unia	Unia	ORG	ORG-European-Union
+1818	1826	Bruksela	Bruksela	LOC	GPE-Brussles
+1974	1985	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+2033	2040	Komisja	Komisja	ORG	ORG-European-Commission
+2078	2082	Unii	Unia	ORG	ORG-European-Union
+2169	2173	Unię	Unia	ORG	ORG-European-Union
+2266	2272	Niemcy	Niemcy	LOC	GPE-Germany
+2274	2281	Szwecja	Szwecja	LOC	GPE-Sweden
+2284	2294	Luksemburg	Luksemburg	LOC	GPE-Luxembourg
+2335	2346	W. Brytanią	W. Brytania	LOC	GPE-Great-Britain
+2356	2363	Francja	Francja	LOC	GPE-France
+2447	2452	Paryż	Paryż	LOC	GPE-Paris
+2469	2476	Komisją	Komisja	ORG	ORG-European-Commission
+2514	2525	W. Brytanię	W. Brytania	LOC	GPE-Great-Britain
+2574	2582	Brukseli	Bruksela	LOC	GPE-Brussles
+2605	2612	Londynu	Londyn	LOC	GPE-London
+2648	2655	Komisja	Komisja	ORG	ORG-European-Commission
+2904	2911	Brexitu	Brexit	EVT	EVT-Brexit
+2930	2941	W. Brytanię	W. Brytania	LOC	GPE-Great-Britain
+2960	2964	Unii	Unia	ORG	ORG-European-Union
+2989	2996	Komisji	Komisja	ORG	ORG-European-Commission
+3107	3115	Brexicie	Brexit	EVT	EVT-Brexit

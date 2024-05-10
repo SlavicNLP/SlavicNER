@@ -1,0 +1,164 @@
+13	19	Россия	Россия	LOC	GPE-Russia
+24	31	Украины	Украина	LOC	GPE-Ukraine
+45	51	Россия	Россия	LOC	GPE-Russia
+56	63	Украины	Украина	LOC	GPE-Ukraine
+83	91	Газпрома	Газпром	ORG	ORG-Gazprom
+95	125	Стокгольмском арбитражном суде	Стокгольмский арбитражный суд	ORG	ORG-Stockholm-Chamber-of-Commerce
+136	145	Нафтогаза	Нафтогаз	ORG	ORG-Naftogaz
+147	153	Россия	Россия	LOC	GPE-Russia
+241	259	Северный поток – 2	Северный поток – 2	PRO	PRO-Nord-Stream-2
+323	330	Украины	Украина	LOC	GPE-Ukraine
+411	417	Европу	Европа	LOC	LOC-Europe
+508	516	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+518	532	Андрей Коболев	Андрей Коболев	PER	PER-Andrey-Kobolev
+576	583	Украина	Украина	LOC	GPE-Ukraine
+777	784	Украины	Украина	LOC	GPE-Ukraine
+883	890	Украины	Украина	LOC	GPE-Ukraine
+893	900	Россией	Россия	LOC	GPE-Russia
+919	925	Европу	Европа	LOC	LOC-Europe
+987	1005	Стокгольмском суде	Стокгольмский суд	ORG	ORG-Stockholm-Chamber-of-Commerce
+1017	1024	Газпром	Газпром	ORG	ORG-Gazprom
+1101	1107	России	Россия	LOC	GPE-Russia
+1147	1153	Европу	Европа	LOC	LOC-Europe
+1158	1177	Северном потоке – 2	Северный поток – 2	PRO	PRO-Nord-Stream-2
+1349	1355	Россия	Россия	LOC	GPE-Russia
+1360	1367	Украины	Украина	LOC	GPE-Ukraine
+1380	1388	Газпрома	Газпром	ORG	ORG-Gazprom
+1427	1433	Европу	Европа	LOC	LOC-Europe
+1511	1518	Украину	Украина	LOC	GPE-Ukraine
+1565	1573	Братство	Братство	PRO	PRO-Urengoy–Pomary–Uzhhorod-pipeline
+1581	1607	Уренгой – Помары – Ужгород	Уренгой – Помары – Ужгород	PRO	PRO-Urengoy–Pomary–Uzhhorod-pipeline
+1735	1742	Украину	Украина	LOC	GPE-Ukraine
+1746	1754	Словакии	Словакия	LOC	GPE-Slovakia
+1769	1776	Австрию	Австрия	LOC	GPE-Austria
+1778	1784	Италию	Италия	LOC	GPE-Italy
+1786	1793	Венгрию	Венгрия	LOC	GPE-Hungary
+1810	1822	Южной Европы	Южная Европа	LOC	LOC-Southern-Europe
+1836	1849	Ямал – Европа	Ямал – Европа	PRO	PRO-Yamal–Europe-pipeline
+1872	1879	Украину	Украина	LOC	GPE-Ukraine
+1896	1904	Беларусь	Беларусь	LOC	GPE-Belarus
+1906	1912	Польшу	Польшу	LOC	GPE-Poland
+1915	1923	Германию	Германия	LOC	GPE-Germany
+2012	2019	Молдову	Молдова	LOC	GPE-Moldova
+2022	2029	Румынию	Румыния	LOC	GPE-Romania
+2055	2062	Украины	Украина	LOC	GPE-Ukraine
+2084	2091	Украины	Украина	LOC	GPE-Ukraine
+2154	2161	Украины	Украина	LOC	GPE-Ukraine
+2227	2233	Европу	Европа	LOC	LOC-Europe
+2332	2339	Россией	Россия	LOC	GPE-Russia
+2526	2532	Европе	Европа	LOC	LOC-Europe
+2565	2572	Украины	Украина	LOC	GPE-Ukraine
+2664	2679	Финского залива	Финский залив	LOC	LOC-Gulf-of-Finland
+2682	2698	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
+2701	2709	Германию	Германия	LOC	GPE-Germany
+2798	2810	Южную Европу	Южная Европа	LOC	LOC-Southern-Europe
+2840	2853	Голубой поток	Голубой поток	ORG	ORG-Blue-Stream-Pipeline-Company-B.V.
+2880	2892	Черного моря	Черное море	LOC	LOC-Black-Sea
+2896	2902	России	Россия	LOC	GPE-Russia
+2905	2911	Турцию	Турция	LOC	GPE-Turkey
+3101	3109	Газпрома	Газпром	ORG	ORG-Gazprom
+3127	3133	Европа	Европа	LOC	LOC-Europe
+3200	3220	Северного потока – 2	Северный поток – 2	PRO	PRO-Nord-Stream-2
+3260	3276	северных потоков	северный поток	PRO	PRO-Nord-Stream-2
+3278	3284	России	Россия	LOC	GPE-Russia
+3423	3439	Турецкого потока	Турецкий поток	PRO	PRO-Turkish-Stream
+3464	3472	Апеннины	Апеннины	LOC	LOC-Appenine-Mountains
+3493	3499	России	Россия	LOC	GPE-Russia
+3578	3584	России	Россия	LOC	GPE-Russia
+3632	3639	Европой	Европа	LOC	LOC-Europe
+3687	3693	России	Россия	LOC	GPE-Russia
+3773	3780	Украину	Украина	LOC	GPE-Ukraine
+3887	3905	Стокгольмском суде	Стокгольмский суд	ORG	ORG-Stockholm-Chamber-of-Commerce
+3906	3912	Россия	Россия	LOC	GPE-Russia
+3966	3973	Украину	Украина	LOC	GPE-Ukraine
+4059	4066	Украину	Украина	LOC	GPE-Ukraine
+4151	4157	России	Россия	LOC	GPE-Russia
+4196	4203	Украину	Украина	LOC	GPE-Ukraine
+4216	4234	Северный поток – 2	Северный поток – 2	PRO	PRO-Nord-Stream-2
+4259	4265	Россия	Россия	LOC	GPE-Russia
+4318	4338	Северного потока – 2	Северный поток – 2	PRO	PRO-Nord-Stream-2
+4412	4418	России	Россия	LOC	GPE-Russia
+4499	4519	Северного потока – 1	Северный поток – 1	PRO	PRO-Nord-Stream-1
+4544	4550	Россия	Россия	LOC	GPE-Russia
+4606	4626	Северного потока – 2	Северный поток – 2	PRO	PRO-Nord-Stream-2
+4740	4748	Украиной	Украина	LOC	GPE-Ukraine
+4776	4783	Украины	Украина	LOC	GPE-Ukraine
+4793	4799	России	Россия	LOC	GPE-Russia
+4968	4984	Северным потоком	Северный поток	PRO	PRO-Nord-Stream-2
+4999	5017	Северный поток – 2	Северный поток – 2	PRO	PRO-Nord-Stream-2
+5030	5036	Европу	Европа	LOC	LOC-Europe
+5044	5050	России	Россия	LOC	GPE-Russia
+5084	5092	Германию	Германия	LOC	GPE-Germany
+5136	5142	Европу	Европа	LOC	LOC-Europe
+5181	5189	Германия	Германия	LOC	GPE-Germany
+5311	5319	Германии	Германия	LOC	GPE-Germany
+5320	5334	Герхард Шредер	Герхард Шредер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+5348	5354	Путина	Путин	PER	PER-Vladimir-Putin
+5410	5423	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+5495	5504	Швейцарии	Швейцария	LOC	GPE-Switzerland
+5544	5557	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+5589	5595	России	Россия	LOC	GPE-Russia
+5639	5647	Германии	Германия	LOC	GPE-Germany
+5648	5662	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+5761	5768	Украину	Украина	LOC	GPE-Ukraine
+5853	5862	Финляндия	Финляндия	LOC	GPE-Finland
+5865	5871	Швеция	Швеция	LOC	GPE-Sweden
+5958	5964	Россия	Россия	LOC	GPE-Russia
+6022	6031	Финляндия	Финляндия	LOC	GPE-Finland
+6083	6089	Швеция	Швеция	LOC	GPE-Sweden
+6203	6209	Европе	Европа	LOC	LOC-Europe
+6211	6218	Франция	Франция	LOC	GPE-France
+6221	6231	Нидерланды	Нидерланды	LOC	GPE-Holland
+6279	6293	Норд стрим – 1	Норд стрим – 1	PRO	PRO-Nord-Stream-1
+6387	6394	Украине	Украина	LOC	GPE-Ukraine
+6443	6449	Европе	Европа	LOC	LOC-Europe
+6591	6597	России	Россия	LOC	GPE-Russia
+6668	6673	Дания	Дания	LOC	GPE-Denmark
+6911	6916	Дании	Дания	LOC	GPE-Denmark
+6917	6931	Ларс Расмуссен	Ларс Расмуссен	PER	PER-Lars-Lokke
+6994	7000	Россия	Россия	LOC	GPE-Russia
+7040	7047	Украину	Украина	LOC	GPE-Ukraine
+7062	7067	Дании	Дания	LOC	GPE-Denmark
+7099	7105	России	Россия	LOC	GPE-Russia
+7123	7125	ЕС	ЕС	ORG	ORG-European-Union
+7145	7165	Северного потока – 2	Северный поток – 2	PRO	PRO-Nord-Stream-2
+7177	7183	Польша	Польша	LOC	GPE-Poland
+7193	7199	Балтии	Балтия	LOC	LOC-Baltic-countries
+7210	7216	Польше	Польша	LOC	GPE-Poland
+7217	7223	Россия	Россия	LOC	GPE-Russia
+7276	7284	Украиной	Украина	LOC	GPE-Ukraine
+7317	7327	Прибалтике	Прибалтика	LOC	LOC-Baltic-countries
+7446	7461	Западную Европу	Западная Европа	LOC	LOC-Western-Europe
+7463	7469	Россия	Россия	LOC	GPE-Russia
+7572	7579	Украины	Украина	LOC	GPE-Ukraine
+7826	7836	потока – 2	поток – 2	PRO	PRO-Nord-Stream-2
+8060	8062	ЕС	ЕС	ORG	ORG-European-Union
+8134	8142	Евросоюз	Евросоюз	ORG	ORG-European-Union
+8262	8276	Марош Шефчович	Марош Шефчович	PER	PER-Maros-Sefcovic
+8285	8287	ЕС	ЕС	ORG	ORG-European-Union
+8354	8360	Россия	Россия	LOC	GPE-Russia
+8441	8447	Европу	Европа	LOC	LOC-Europe
+8485	8491	Европу	Европа	LOC	LOC-Europe
+8544	8552	Украиной	Украина	LOC	GPE-Ukraine
+8616	8623	Россией	Россия	LOC	GPE-Russia
+8678	8680	ЕС	ЕС	ORG	ORG-European-Union
+8702	8708	России	Россия	LOC	GPE-Russia
+8896	8903	Украины	Украина	LOC	GPE-Ukraine
+8984	8990	Россия	Россия	LOC	GPE-Russia
+9036	9057	Энергетической хартии	Энергетическая хартия	PRO	PRO-Energy-Charter-Treaty
+9178	9191	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+9236	9238	ЕС	ЕС	ORG	ORG-European-Union
+9251	9259	Брюсселе	Брюссель	LOC	GPE-Brussles
+9272	9274	ЕС	ЕС	ORG	ORG-European-Union
+9335	9337	ЕС	ЕС	ORG	ORG-European-Union
+9423	9429	России	Россия	LOC	GPE-Russia
+9519	9521	ЕС	ЕС	ORG	ORG-European-Union
+9522	9530	Болгария	Болгария	LOC	GPE-Bulgaria
+9621	9628	Австрии	Австрия	LOC	GPE-Austria
+9685	9688	США	США	LOC	GPE-USA
+9803	9811	Германии	Германия	LOC	GPE-Germany
+9851	9871	Северного потока – 2	Северный поток – 2	PRO	PRO-Nord-Stream-2
+9912	9914	ЕС	ЕС	ORG	ORG-European-Union
+9936	9938	ЕС	ЕС	ORG	ORG-European-Union
+9941	9944	США	США	LOC	GPE-USA
+9946	9964	Александра Романюк	Александра Романюк	PER	PER-Aleksandra-Romanyuk

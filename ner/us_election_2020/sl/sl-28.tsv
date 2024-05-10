@@ -1,0 +1,81 @@
+2	5	ZDA	ZDA	LOC	GPE-USA
+193	206	New Hampshira	New Hampshire	LOC	GPE-New-Hampshire
+214	229	Ashley L. Conti	Ashley L. Conti	PER	PER-Ashley-L.-Conti
+230	237	Reuters	Reuters	ORG	ORG-Reuters
+239	262	Združene države Amerike	Združene države Amerike	LOC	GPE-USA
+346	358	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+371	380	Beli hiši	Bela hiša	LOC	LOC-White-House
+399	408	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+514	527	koronavirusom	koronavirus	EVT	EVT-Covid-19
+608	618	Američanov	Američani	PER	GPE-USA
+697	715	slovenskenovice.si	slovenskenovice.si	PRO	PRO-Slovenske-novice
+925	937	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+954	963	Michiganu	Michigan	LOC	GPE-Michigan
+971	984	Carlos Barria	Carlos Barria	PER	PER-Carlos-Barria
+986	993	Reuters	Reuters	ORG	ORG-Reuters
+1004	1007	CNN	CNN	PRO	PRO-CNN
+1032	1037	Trump	Trump	PER	PER-Donald-Trump
+1197	1209	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1369	1382	republikancem	republikanci	ORG	ORG-Republican-Party-USA
+1538	1550	koronavirusa	koronavirus	EVT	EVT-Covid-19
+1592	1600	Trumpovo	Trump	PER	PER-Donald-Trump
+1673	1692	Vrhovno sodišče ZDA	Vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+1722	1734	Pensilvanije	Pensilvanija	LOC	GPE-Pennsylvania
+1995	2000	Biden	Biden	PER	PER-Joe-Biden
+2040	2045	Biden	Biden	PER	PER-Joe-Biden
+2107	2119	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+2150	2159	Lady Gaga	Lady Gaga	PER	PER-Lady-Gaga
+2219	2231	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2298	2303	Trump	Trump	PER	PER-Donald-Trump
+2366	2378	koronavirusa	koronavirus	EVT	EVT-Covid-19
+2429	2434	Biden	Biden	PER	PER-Joe-Biden
+2543	2555	Philadelphie	Philadelphia	LOC	GPE-Philadelphia
+2575	2584	Scrantona	Scranton	LOC	GPE-Scranton
+2587	2599	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2628	2641	Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+2657	2665	Detroitu	Detroit	LOC	GPE-Detroit
+2668	2677	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+2731	2738	Teksasu	Teksas	LOC	GPE-Texas
+2790	2803	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+2843	2851	Houstonu	Houston	LOC	GPE-Houston
+2900	2909	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+2987	2994	Teksasu	Teksas	LOC	GPE-Texas
+3093	3096	ZDA	ZDA	LOC	GPE-USA
+3104	3117	Mario Anzuoni	Mario Anzuoni	PER	PER-Mario-Anzuoni
+3119	3126	Reuters	Reuters	ORG	ORG-Reuters
+3210	3223	New Hampshire	New Hampshire	LOC	GPE-New-Hampshire
+3261	3275	Dixville Notch	Dixville Notch	LOC	LOC-Dixville-Notch
+3279	3289	Millsfield	Millsfield	LOC	LOC-Millsfield
+3402	3407	Biden	Biden	PER	PER-Joe-Biden
+3430	3435	Trump	Trump	PER	PER-Donald-Trump
+3475	3485	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+3538	3543	Biden	Biden	PER	PER-Joe-Biden
+3629	3634	Trump	Trump	PER	PER-Donald-Trump
+3925	3928	ZDA	ZDA	LOC	GPE-USA
+4049	4058	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+4128	4142	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+4284	4289	Biden	Biden	PER	PER-Joe-Biden
+4337	4355	RealClear Politics	RealClear Politics	ORG	ORG-RealClearPolitics
+4405	4410	Trump	Trump	PER	PER-Donald-Trump
+4540	4548	Michigan	Michigan	LOC	GPE-Michigan
+4550	4559	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+4561	4570	Minnesota	Minnesota	LOC	GPE-Minnesota
+4572	4588	Severna Karolina	Severna Karolina	LOC	GPE-North-Carolina-US-State
+4590	4597	Florida	Florida	LOC	GPE-Florida
+4599	4611	Pensilvanija	Pensilvanija	LOC	GPE-Pennsylvania
+4613	4620	Arizona	Arizona	LOC	GPE-Arizona
+4622	4629	Georgia	Georgia	LOC	GPE-Georgia-US-state
+4631	4635	Iowa	Iowa	LOC	GPE-Iowa
+4637	4641	Ohio	Ohio	LOC	GPE-Ohio
+4643	4649	Nevada	Nevada	LOC	GPE-Nevada
+4681	4687	Teksas	Teksas	LOC	GPE-Texas
+4716	4721	Mainu	Maine	LOC	GPE-Maine
+4725	4733	Nebraski	Nebraska	LOC	GPE-Nebraska
+4749	4752	ZDA	ZDA	LOC	GPE-USA
+4803	4811	Nebraska	Nebraska	LOC	GPE-Nebraska
+4815	4820	Maine	Maine	LOC	GPE-Maine
+4961	4970	demokratu	demokrat	PER	ORG-Democratic-Party-USA
+5038	5053	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+5102	5105	STA	STA	ORG	ORG-Slovenian-Press-Agency
+5155	5158	ZDA	ZDA	LOC	GPE-USA
+5474	5479	Trump	Trump	PER	PER-Donald-Trump

@@ -1,0 +1,17 @@
+41	48	brexitu	Brexit	EVT	EVT-Brexit
+50	65	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+156	164	Irlandią	Irlandia	LOC	GPE-Ireland
+167	184	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+186	197	Theresa May	Theresa May	PER	PER-Theresa-May
+300	311	David Davis	David Davis	PER	PER-David-Davis
+330	351	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+553	587	Demokratyczna Partia Unionistyczna	Demokratyczna Partia Unionistyczna	ORG	ORG-DUP-Democratic-Unionist-Party
+589	592	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+637	655	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+657	660	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+670	682	Irlandia Pn.	Irlandia Pn.	LOC	GPE-Northern-Ireland
+721	738	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+849	860	Theresa May	Theresa May	PER	PER-Theresa-May
+923	926	May	May	PER	PER-Theresa-May
+984	991	Davisem	Davis	PER	PER-David-Davis
+994	997	May	May	PER	PER-Theresa-May

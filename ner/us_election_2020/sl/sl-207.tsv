@@ -1,0 +1,19 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+80	89	Američani	Američani	PER	GPE-USA
+158	163	Biden	Biden	PER	PER-Joe-Biden
+167	172	Trump	Trump	PER	PER-Donald-Trump
+236	245	Američani	Američani	PER	GPE-USA
+314	323	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+328	340	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+452	457	Trump	Trump	PER	PER-Donald-Trump
+512	521	Beli hiši	Bela hiša	LOC	LOC-White-House
+683	692	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+897	902	Trump	Trump	PER	PER-Donald-Trump
+904	909	Pence	Pence	PER	PER-Mike-Pence
+1215	1218	ZDA	ZDA	LOC	GPE-USA
+1322	1325	ZDA	ZDA	LOC	GPE-USA
+1422	1427	Biden	Biden	PER	PER-Joe-Biden
+1529	1534	Trump	Trump	PER	PER-Donald-Trump
+1859	1866	Amerika	Amerika	LOC	GPE-USA
+1907	1922	Bogomil Ferfila	Bogomil Ferfila	PER	PER-Bogomil-Ferfila
+1981	1991	Američanov	Američani	PER	GPE-USA

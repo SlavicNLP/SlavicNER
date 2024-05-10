@@ -1,0 +1,52 @@
+32	39	Брекзит	Брекзит	EVT	EVT-Brexit
+51	61	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+76	83	Брюксел	Брюксел	LOC	GPE-Brussles
+130	150	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+154	156	ЕС	ЕС	ORG	ORG-European-Union
+243	252	българите	българи	PER	GPE-Bulgaria
+263	272	европейци	европейци	PER	PER-Europe
+430	447	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+550	570	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+717	727	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+871	874	Мей	Мей	PER	PER-Theresa-May
+909	920	европейците	европейци	PER	LOC-Europe
+1152	1172	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1191	1193	ЕС	ЕС	ORG	ORG-European-Union
+1201	1204	Мей	Мей	PER	PER-Theresa-May
+1269	1276	Брекзит	Брекзит	EVT	EVT-Brexit
+1279	1293	Европарламента	европарламент	ORG	ORG-European-Parliament
+1294	1307	Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+1352	1359	Гардиън	Гардиън	PRO	PRO-The-Guardian
+1450	1452	ЕС	ЕС	ORG	ORG-European-Union
+1556	1563	Брекзит	Брекзит	EVT	EVT-Brexit
+1570	1577	Брекзит	Брекзит	EVT	EVT-Brexit
+1726	1735	българите	българи	PER	GPE-Bulgaria
+1768	1778	британците	британци	PER	GPE-Great-Britain
+2071	2080	Българите	българи	PER	GPE-Bulgaria
+2174	2176	ЕС	ЕС	ORG	ORG-European-Union
+2319	2339	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2430	2439	българите	българи	PER	GPE-Bulgaria
+2694	2696	ЕС	ЕС	ORG	ORG-European-Union
+2698	2708	Британците	британци	PER	GPE-Great-Britain
+2942	2945	Мей	Мей	PER	PER-Theresa-May
+3071	3074	Мей	Мей	PER	PER-Theresa-May
+3166	3173	Брекзит	Брекзит	EVT	EVT-Brexit
+3238	3240	ЕС	ЕС	ORG	ORG-European-Union
+3523	3525	ЕС	ЕС	ORG	ORG-European-Union
+3577	3584	Брекзит	Брекзит	EVT	EVT-Brexit
+3661	3687	Партията на консерваторите	Партия на консерваторите	ORG	ORG-Conservative-and-Unionist-Party-UK
+3823	3825	ЕС	ЕС	ORG	ORG-European-Union
+3890	3910	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+4052	4086	британското финансово министерство	британско финансово министерство	ORG	ORG-Ministry-of-Finance-UK
+4135	4155	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+4158	4160	ЕС	ЕС	ORG	ORG-European-Union
+4266	4272	Лондон	Лондон	LOC	GPE-London
+4398	4405	Брекзит	Брекзит	EVT	EVT-Brexit
+4545	4552	Брекзит	Брекзит	EVT	EVT-Brexit
+4615	4621	Европа	Европа	LOC	LOC-Europe
+4630	4648	източноевропейците	източноевропейци	PER	PER-Eastern-Europe
+4932	4943	европейците	европейци	PER	LOC-Europe
+4997	4999	ЕС	ЕС	ORG	ORG-European-Union
+5025	5028	Мей	Мей	PER	PER-Theresa-May
+5373	5376	Май	Мей	PER	PER-Theresa-May
+5644	5652	Ливърпул	Ливърпул	LOC	GPE-Liverpool

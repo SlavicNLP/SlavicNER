@@ -1,0 +1,93 @@
+54	71	Christopher Wylie	Christopher Wylie	PER	PER-Christopher-Wylie
+73	90	Christopher Wylie	Christopher Wylie	PER	PER-Christopher-Wylie
+145	164	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+166	168	CA	CA	ORG	ORG-Cambridge-Analytica
+208	215	brexitu	Brexit	EVT	EVT-Brexit
+289	299	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+328	332	Unii	Unia	ORG	ORG-European-Union
+334	339	Wylie	Wylie	PER	PER-Christopher-Wylie
+454	476	brytyjskim parlamencie	Brytyjski Parlament	ORG	ORG-British-Parlament
+543	548	Wylie	Wylie	PER	PER-Christopher-Wylie
+616	623	brexitu	Brexit	EVT	EVT-Brexit
+663	673	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+746	756	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+821	828	BeLeave	BeLeave	ORG	ORG-BeLeave
+873	885	Aggregate IQ	Aggregate IQ	ORG	ORG-Aggregate-IQ
+898	908	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+1009	1016	BeLeave	BeLeave	ORG	ORG-BeLeave
+1091	1101	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+1147	1152	Wylie	Wylie	PER	PER-Christopher-Wylie
+1271	1280	Facebooka	Facebook	PRO	PRO-Facebook
+1287	1289	CA	CA	ORG	ORG-Cambridge-Analytica
+1358	1362	Unii	Unia	ORG	ORG-European-Union
+1490	1492	CA	CA	ORG	ORG-Cambridge-Analytica
+1536	1539	USA	USA	LOC	GPE-USA
+1574	1581	brexitu	Brexit	EVT	EVT-Brexit
+1583	1600	Christopher Wylie	Christopher Wylie	PER	PER-Christopher-Wylie
+1649	1659	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+1661	1668	BeLeave	BeLeave	ORG	ORG-BeLeave
+1674	1694	Veterans for Britain	Veterans for Britain	ORG	ORG-Veterans-for-Britain
+1727	1739	Aggregate IQ	Aggregate IQ	ORG	ORG-Aggregate-IQ
+1798	1817	Cambridge Analyticą	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+1873	1880	Wyliego	Wylie	PER	PER-Christopher-Wylie
+1957	1964	Nigerii	Nigeria	LOC	GPE-Nigeria
+2085	2090	Polak	Polak	PER	GPE-Poland
+2091	2106	Michał Kosiński	Michał Kosiński	PER	PER-Michał-Kosiński
+2127	2146	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+2148	2153	Wylie	Wylie	PER	PER-Christopher-Wylie
+2218	2239	Michałowi Kosińskiemu	Michał Kosiński	PER	PER-Michał-Kosiński
+2255	2274	Davidem Stillwellem	David Stillwell	PER	PER-David-Stillwell
+2304	2317	myPersonality	myPersonality	PRO	PRO-myPersonality
+2318	2320	CA	CA	ORG	ORG-Cambridge-Analytica
+2383	2390	Wyliego	Wylie	PER	PER-Christopher-Wylie
+2391	2399	Kosiński	Kosiński	PER	PER-Michał-Kosiński
+2494	2513	Cambridge Analyticą	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+2529	2539	Palantirem	Palantir	ORG	ORG-Palantir
+2541	2552	Kanadyjczyk	Kanadyjczyk	PER	GPE-Canada
+2566	2585	Cambridge Analyticą	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+2602	2610	Palantir	Palantir	ORG	ORG-Palantir
+2641	2644	CIA	CIA	ORG	ORG-CIA-Central-Intelligence-Agency
+2647	2658	Peter Thiel	Peter Thiel	PER	PER-Peter-Thiel
+2689	2692	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+2716	2724	Pentagon	Pentagon	ORG	ORG-The-Pentagon
+2864	2869	Wylie	Wylie	PER	PER-Christopher-Wylie
+2892	2901	Palantira	Palantir	ORG	ORG-Palantir
+2910	2912	CA	CA	ORG	ORG-Cambridge-Analytica
+2943	2952	Facebooka	Facebook	PRO	PRO-Facebook
+3201	3206	Wylie	Wylie	PER	PER-Christopher-Wylie
+3243	3245	CA	CA	ORG	ORG-Cambridge-Analytica
+3282	3290	Palantir	Palantir	ORG	ORG-Palantir
+3335	3340	Wylie	Wylie	PER	PER-Christopher-Wylie
+3441	3443	CA	CA	ORG	ORG-Cambridge-Analytica
+3555	3558	NYT	NYT	PRO	PRO-The-New-York-Times
+3608	3630	Alfredas Chmieliauskas	Alfredas Chmieliauskas	PER	PER-Alfredas-Chmieliauskas
+3715	3717	CA	CA	ORG	ORG-Cambridge-Analytica
+3776	3779	NYT	NYT	PRO	PRO-The-New-York-Times
+3804	3817	Chmieliauskas	Chmieliauskas	PER	PER-Alfredas-Chmieliauskas
+3845	3864	Christopherem Wylie	Christopher Wylie	PER	PER-Christopher-Wylie
+3910	3912	CA	CA	ORG	ORG-Cambridge-Analytica
+3914	3923	SCL Group	SCL Group	ORG	ORG-SCL-Group
+4083	4102	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+4152	4159	Wyliego	Wylie	PER	PER-Christopher-Wylie
+4192	4194	CA	CA	ORG	ORG-Cambridge-Analytica
+4499	4504	Wylie	Wylie	PER	PER-Christopher-Wylie
+4746	4748	CA	CA	ORG	ORG-Cambridge-Analytica
+4812	4819	Meksyku	Meksyk	LOC	GPE-Mexico
+4821	4826	Kenii	Kenia	LOC	GPE-Kenya
+4828	4836	Brazylii	Brazylia	LOC	GPE-Brazil
+4839	4846	Malezji	Malezja	LOC	GPE-Malaysia
+4848	4853	Wylie	Wylie	PER	PER-Christopher-Wylie
+4873	4878	Indie	Indie	LOC	GPE-India
+4901	4903	CA	CA	ORG	ORG-Cambridge-Analytica
+4906	4911	Kenii	Kenia	LOC	GPE-Kenya
+4913	4918	Wylie	Wylie	PER	PER-Christopher-Wylie
+5250	5267	Marka Zuckerberga	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+5279	5299	Christophera Wyliego	Christopher Wylie	PER	PER-Christopher-Wylie
+5355	5364	Facebooka	Facebook	PRO	PRO-Facebook
+5384	5403	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+5447	5462	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+5497	5506	Kongresem	Kongres	ORG	ORG-United-States-Congress
+5545	5568	brytyjskiego parlamentu	Brytyjski Parlament	ORG	ORG-British-Parlament
+5590	5599	Kongresem	Kongres	ORG	ORG-United-States-Congress
+5633	5636	CNN	CNN	PRO	PRO-CNN
+5669	5677	Facebook	Facebook	PRO	PRO-Facebook

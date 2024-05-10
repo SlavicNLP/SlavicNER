@@ -1,0 +1,31 @@
+2	16	Великобритании	Великобритания	LOC	GPE-Great-Britain
+52	58	Brexit	Brexit	EVT	EVT-Brexit
+63	91	Правительство Великобритании	Правительство Великобритании	ORG	ORG-the-UK-Government
+135	141	Brexit	Brexit	EVT	EVT-Brexit
+165	178	Доминик Рааба	Доминик Рааб	PER	PER-Dominic-Raab
+194	206	The Guardian	The Guardian	PRO	PRO-The-Guardian
+208	212	Рааб	Рааб	PER	PER-Dominic-Raab
+236	267	министерства по вопросам Brexit	министерство по вопросам Brexit	ORG	ORG-Ministry-of-Brexity
+268	281	Девида Дэвиса	Девид Дэвис	PER	PER-David-Davis
+388	409	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+442	455	Великбритании	Великбритания	LOC	GPE-Great-Britain
+467	469	ЕС	ЕС	ORG	ORG-European-Union
+594	600	Чекерс	Чекерс	LOC	LOC-Chequers-Court
+606	625	британским Кабмином	британский Кабмин	ORG	ORG-Cabinet-of-the-United-Kingdom
+657	671	Великобритании	Великобритания	LOC	GPE-Great-Britain
+675	693	Европейского союза	Европейский союз	ORG	ORG-European-Union
+758	764	Brexit	Brexit	EVT	EVT-Brexit
+778	799	британський парламент	британський парламент	ORG	ORG-British-Parlament
+818	832	Великобритании	Великобритания	LOC	GPE-Great-Britain
+833	843	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+885	906	Консерватовной партии	Консерватовная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+960	965	Чехии	Чехия	LOC	GPE-Czech-Republic
+966	977	Милош Земан	Милош Земан	PER	PER-Milos-Zeman
+1046	1049	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+1050	1063	Андрея Бабиша	Андрей Бабиш	PER	PER-Andrej-Babis
+1108	1133	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+1134	1144	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1192	1194	ЕС	ЕС	ORG	ORG-European-Union
+1243	1249	Лондон	Лондон	LOC	GPE-London
+1272	1292	таможенного союза ЕС	таможенный союз ЕС	ORG	ORG-European-Union-Customs-Union
+1324	1341	Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland

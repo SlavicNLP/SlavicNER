@@ -1,0 +1,56 @@
+0	9	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+15	23	Германия	Германия	LOC	GPE-Germany
+41	56	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+81	96	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+105	113	Германия	Германия	LOC	GPE-Germany
+205	210	Русия	Русия	LOC	GPE-Russia
+266	271	БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+282	297	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+337	342	Русия	Русия	LOC	GPE-Russia
+350	359	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+392	403	Ханделсблат	Ханделсблат	PRO	PRO-Handelsblatt
+413	416	АФП	АФП	ORG	ORG-AFP-Agence-France-Press
+500	507	Украйна	Украйна	LOC	GPE-Ukraine
+603	616	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+625	640	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+807	827	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+916	918	ЕС	ЕС	ORG	ORG-European-Union
+924	938	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+953	960	Украйна	Украйна	LOC	GPE-Ukraine
+1005	1013	Германия	Германия	LOC	GPE-Germany
+1082	1097	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1209	1218	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+1249	1256	Украйна	Украйна	LOC	GPE-Ukraine
+1332	1337	Русия	Русия	LOC	GPE-Russia
+1440	1447	Газпром	Газпром	ORG	ORG-Gazprom
+1469	1476	Украйна	Украйна	LOC	GPE-Ukraine
+1551	1558	Газпром	Газпром	ORG	ORG-Gazprom
+1611	1617	Европа	Европа	LOC	LOC-Europe
+1680	1687	Украйна	Украйна	LOC	GPE-Ukraine
+1720	1726	Москва	Москва	LOC	GPE-Moscow
+1789	1793	Крим	Крим	LOC	GPE-Crimea
+1797	1802	Русия	Русия	LOC	GPE-Russia
+1856	1862	Москва	Москва	LOC	GPE-Moscow
+1949	1955	Меркел	Меркел	PER	PER-Angela-Merkel
+1961	1969	Зелените	Зелените	ORG	ORG-Die-Grunen
+1995	2013	Свободни демократи	Свободни демократи	ORG	ORG-Freie-Demokratische-Partei
+2032	2047	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+2103	2105	ЕС	ЕС	ORG	ORG-European-Union
+2146	2151	Полша	Полша	LOC	GPE-Poland
+2178	2186	Словакия	Словакия	LOC	GPE-Slovakia
+2189	2196	Украйна	Украйна	LOC	GPE-Ukraine
+2211	2217	Швеция	Швеция	LOC	GPE-Sweden
+2220	2225	Дания	Дания	LOC	GPE-Denmark
+2271	2284	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+2319	2335	Матеуш Моравецки	Матеуш Моравецки	PER	PER-Mateusz-Morawiecki
+2397	2404	Газпром	Газпром	ORG	ORG-Gazprom
+2479	2495	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2498	2505	Украйна	Украйна	LOC	GPE-Ukraine
+2526	2528	ЕС	ЕС	ORG	ORG-European-Union
+2578	2593	Герхард Шрьодер	Герхард Шрьодер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+2695	2702	Роснефт	Роснефт	ORG	ORG-Rosneft
+2795	2800	Русал	Русал	ORG	ORG-Rusal-Company
+2841	2844	САЩ	САЩ	LOC	GPE-USA
+2984	2994	Франс прес	Франс прес	ORG	ORG-AFP-Agence-France-Press
+3033	3040	Хонконг	Хонконг	LOC	GPE-Hong-Kong
+3092	3097	Русал	Русал	ORG	ORG-Rusal-Company

@@ -1,0 +1,24 @@
+6	20	Британский МИД	Британский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+64	72	русскими	русские	LOC	GPE-Russia
+117	131	Великобритании	Великобритания	LOC	GPE-Great-Britain
+139	154	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+164	176	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+203	213	минздравом	минздрав	ORG	ORG-British-Ministry-of-Health
+239	247	кабинета	кабинет	ORG	ORG-Cabinet-of-the-United-Kingdom
+329	343	Великобритании	Великобритания	LOC	GPE-Great-Britain
+351	366	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+376	388	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+415	425	минздравом	минздрав	ORG	ORG-British-Ministry-of-Health
+451	459	кабинета	кабинет	ORG	ORG-Cabinet-of-the-United-Kingdom
+635	638	МИД	МИД	ORG	ORG-Foreign-Office
+803	813	Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+830	840	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+851	859	Брекзита	Брекзит	EVT	EVT-Brexit
+900	907	Лондона	Лондон	LOC	GPE-London
+910	919	Брюсселем	Брюссель	LOC	GPE-Brussles
+944	959	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1005	1018	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+1028	1042	британский МИД	британский МИД	ORG	ORG-Foreign-Office
+1114	1121	русских	русские	LOC	GPE-Russia
+1166	1172	Россию	Россия	LOC	GPE-Russia
+1186	1212	чемпионата мира по футболу	чемпионат мира по футболу	EVT	EVT-FIFA-World-Cup-2018

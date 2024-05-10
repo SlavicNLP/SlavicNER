@@ -1,0 +1,30 @@
+0	14	VELKÁ BRITÁNIE	VELKÁ BRITÁNIE	LOC	GPE-Great-Britain
+36	42	Brexit	Brexit	EVT	EVT-Brexit
+79	92	konzervativců	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+271	282	Karla Marxe	Karl Marx	PER	PER-Karl-Marx
+312	320	Británie	Británie	LOC	GPE-Great-Britain
+377	379	EU	EU	ORG	ORG-European-Union
+613	620	brexitu	brexit	EVT	EVT-Brexit
+675	682	czexitu	czexit	EVT	EVT-Czexit
+692	698	czexit	czexit	EVT	EVT-Czexit
+730	732	EU	EU	ORG	ORG-European-Union
+798	800	EU	EU	ORG	ORG-European-Union
+883	889	Polsko	Polsko	LOC	GPE-Poland
+891	899	Maďarsko	Maďarsko	LOC	GPE-Hungary
+901	909	Rakousko	Rakousko	LOC	GPE-Austria
+911	917	Itálie	Itálie	LOC	GPE-Italy
+1041	1047	Dánsko	Dánsko	LOC	GPE-Denmark
+1049	1051	ČR	ČR	LOC	GPE-Czech-Republic
+1053	1062	Slovensko	Slovensko	LOC	GPE-Slovakia
+1094	1101	Německu	Německo	LOC	GPE-Germany
+1105	1112	Francii	Francie	LOC	GPE-France
+1157	1163	brexit	brexit	EVT	EVT-Brexit
+1235	1237	EU	EU	ORG	ORG-European-Union
+1426	1434	Angličan	Angličan	PER	GPE-Great-Britain
+1592	1602	Pákistance	Pákistanec	PER	GPE-Pakistan
+1640	1646	Poláky	Polák	PER	GPE-Poland
+1668	1676	Británie	Británie	LOC	GPE-Great-Britain
+1680	1693	Evropské unii	Evropská unie	ORG	ORG-European-Union
+1720	1726	Evropě	Evropa	LOC	LOC-Europe
+1920	1932	Tyler Dooley	Tyler Dooley	PER	PER-Tyler-Dooley
+1972	1978	Meghan	Meghan	PER	PER-Meghan-Markle-Duchess-of-Sussex

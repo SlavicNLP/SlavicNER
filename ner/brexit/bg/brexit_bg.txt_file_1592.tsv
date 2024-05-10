@@ -1,0 +1,27 @@
+0	14	Евродепутатите	евродепутати	PER	ORG-European-Parlament
+43	49	Лондон	Лондон	LOC	GPE-London
+64	66	ЕС	ЕС	ORG	ORG-European-Union
+79	101	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+164	184	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+240	256	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+346	353	Брекзит	Брекзит	EVT	EVT-Brexit
+398	405	Гардиън	Гардиън	PRO	PRO-The-Guardian
+414	426	евродепутати	евродепутати	PER	ORG-European-Parlament
+463	476	Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+495	501	Лондон	Лондон	LOC	GPE-London
+592	594	ЕС	ЕС	ORG	ORG-European-Union
+610	630	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+794	796	ЕС	ЕС	ORG	ORG-European-Union
+871	881	Верхофстад	Верхофстад	PER	PER-Guy-Verhofstadt
+936	938	ЕС	ЕС	ORG	ORG-European-Union
+1136	1160	Съда на Европейския съюз	Съд на Европейския съюз	ORG	ORG-European-Court-of-Justice
+1195	1216	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+1219	1233	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1237	1244	Брекзит	Брекзит	EVT	EVT-Brexit
+1337	1339	ЕС	ЕС	ORG	ORG-European-Union
+1368	1388	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1590	1604	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1635	1637	ЕС	ЕС	ORG	ORG-European-Union
+1754	1768	Евродепутатите	евродепутати	PER	ORG-European-Parlament
+1797	1803	Лондон	Лондон	LOC	GPE-London
+1818	1820	ЕС	ЕС	ORG	ORG-European-Union

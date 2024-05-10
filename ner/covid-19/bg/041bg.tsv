@@ -1,0 +1,50 @@
+0	3	САЩ	САЩ	LOC	GPE-USA
+5	19	Великобритания	Великобритания	LOC	GPE-Great-Britain
+22	28	Канада	Канада	LOC	GPE-Canada
+30	35	Русия	Русия	LOC	GPE-Russia
+76	84	Covid-19	COVID-19	EVT	EVT-Covid-19
+159	165	Кремъл	Кремъл	LOC	LOC-Kremlin
+189	204	руската държава	руската държава	LOC	GPE-Russia
+265	273	Covid-19	COVID-19	EVT	EVT-Covid-19
+331	393	Националният център за киберсигурност (NCSC) на Великобритания	Национален център за киберсигурност (NCSC) на Великобритания	ORG	ORG-National-Cyber-Secutiry-Centre
+406	413	Ройтерс	Ройтерс	ORG	ORG-Reuters
+442	456	Великобритания	Великобритания	LOC	GPE-Great-Britain
+458	474	Съединените щати	Съединени щати	LOC	GPE-USA
+477	483	Канада	Канада	LOC	GPE-Canada
+510	515	АРТ29	АРТ29	ORG	ORG-ART29
+535	544	Cozy Bear	Cozy Bear	ORG	ORG-ART29
+602	631	руските разузнавателни служби	руски разузнавателни служби	ORG	ORG-Russian-Intelligence
+711	735	коронавирусната пандемия	коронавирусна пандемия	EVT	EVT-Covid-19
+773	777	NCSC	NCSC	ORG	ORG-National-Cyber-Secutiry-Centre
+778	790	Пол Чичестър	Пол Чичестър	PER	PER-Paul-Chichester
+855	860	АРТ29	АРТ29	ORG	ORG-ART29
+917	933	Съединените щати	Съединени щати	LOC	GPE-USA
+935	941	Япония	Япония	LOC	GPE-Japan
+943	948	Китай	Китай	LOC	GPE-China
+951	957	Африка	Африка	LOC	LOC-Africa
+990	1001	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+1020	1033	Дмитри Песков	Дмитри Песков	PER	PER-Dmitrij-Pieskow
+1052	1058	Кремъл	Кремъл	LOC	LOC-Kremlin
+1083	1089	Лондон	Лондон	LOC	GPE-London
+1185	1199	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1343	1370	Руското външно министерство	Руско външно министерство	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+1461	1475	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1611	1623	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+1719	1729	пандемията	пандемия	EVT	EVT-Pandemic
+1809	1829	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+1983	1997	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2065	2069	NCSC	NCSC	ORG	ORG-National-Cyber-Secutiry-Centre
+2200	2205	АРТ29	АРТ29	ORG	ORG-ART29
+2311	2319	Covid-19	COVID-19	EVT	EVT-Covid-19
+2403	2413	пандемията	пандемия	EVT	EVT-Pandemic
+2437	2441	NCSC	NCSC	ORG	ORG-National-Cyber-Secutiry-Centre
+2444	2494	Американското министерство на вътрешната сигурност	Американско министерство на вътрешната сигурност	ORG	ORG-US-Department-of-Homeland-Security
+2497	2526	Американското киберкомандване	Американско киберкомандване	ORG	ORG-United-States-Cyber-Command
+2653	2661	WELLMAIL	WELLMAIL	PRO	PRO-WELLMAIL-Marlware
+2663	2671	SOREFANG	SOREFANG	PRO	PRO-SOREFANG-Malware
+2674	2682	WELLMESS	WELLMESS	PRO	PRO-WELLMESS-Malware
+2750	2758	WELLMESS	WELLMESS	PRO	PRO-WELLMESS-Malware
+2840	2848	WELLMESS	WELLMESS	PRO	PRO-WELLMESS-Malware
+3197	3211	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3214	3217	САЩ	САЩ	LOC	GPE-USA
+3383	3388	Русия	Русия	LOC	GPE-Russia

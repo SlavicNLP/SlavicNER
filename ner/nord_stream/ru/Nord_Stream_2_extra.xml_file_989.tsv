@@ -1,0 +1,52 @@
+18	25	Меркель	Меркель	PER	PER-Angela-Merkel
+66	72	Путина	Путин	PER	PER-Vladimir-Putin
+82	90	Германии	Германия	LOC	GPE-Germany
+91	105	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+119	122	ФРГ	ФРГ	LOC	GPE-Germany
+146	152	России	Россия	LOC	GPE-Russia
+187	194	Украины	Украина	LOC	GPE-Ukraine
+195	213	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+228	235	Reuters	Reuters	ORG	ORG-Reuters
+275	282	Украина	Украина	LOC	GPE-Ukraine
+351	357	России	Россия	LOC	GPE-Russia
+458	465	Меркель	Меркель	PER	PER-Angela-Merkel
+489	499	Братиславе	Братислава	LOC	GPE-Bratislava
+524	527	ФРГ	ФРГ	LOC	GPE-Germany
+551	570	Вышеградской группы	Вышеградская группа	ORG	ORG-Visegrad-Group
+573	579	Чехией	Чехия	LOC	GPE-Czech-Republic
+581	589	Венгрией	Венгрия	LOC	GPE-Hungary
+591	598	Польшей	Польша	LOC	GPE-Poland
+601	610	Словакией	Словакия	LOC	GPE-Slovakia
+670	678	Германия	Германия	LOC	GPE-Germany
+761	763	ЕС	ЕС	ORG	ORG-European-Union
+781	801	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+863	870	Францию	Франция	LOC	GPE-France
+917	928	OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+942	960	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+972	988	Балтийскому морю	Балтийское море	LOC	LOC-Baltic-Sea
+1013	1019	России	Россия	LOC	GPE-Russia
+1038	1044	Европе	Европа	LOC	LOC-Europe
+1207	1214	Украины	Украина	LOC	GPE-Ukraine
+1216	1224	Беларуси	Беларусь	LOC	GPE-Belarus
+1226	1232	Польши	Польша	LOC	GPE-Poland
+1331	1337	России	Россия	LOC	GPE-Russia
+1339	1348	Финляндии	Финляндия	LOC	GPE-Finland
+1350	1356	Швеции	Швеция	LOC	GPE-Sweden
+1358	1363	Дании	Дания	LOC	GPE-Denmark
+1366	1374	Германии	Германия	LOC	GPE-Germany
+1431	1440	"""Газпром"""	"""Газпром"""	ORG	ORG-Gazprom
+1477	1482	Engie	Engie	ORG	ORG-Engie
+1484	1490	Uniper	Uniper	ORG	ORG-Uniper
+1492	1495	OMV	OMV	ORG	ORG-OMV
+1497	1502	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+1504	1515	Wintershall	Wintershall	ORG	ORG-Wintershall
+1548	1566	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1622	1631	"""Газпром"""	"""Газпром"""	ORG	ORG-Gazprom
+1721	1729	Германии	Германия	LOC	GPE-Germany
+1730	1740	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+1779	1799	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1811	1818	Украины	Украина	LOC	GPE-Ukraine
+1819	1833	Петр Порошенко	Петр Порошенко	PER	PER-Petro-Poroshenko
+1846	1854	Германию	Германия	LOC	GPE-Germany
+2034	2037	ФРГ	ФРГ	LOC	GPE-Germany
+2038	2052	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel

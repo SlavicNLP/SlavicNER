@@ -1,0 +1,15 @@
+20	27	Брекзит	Брекзит	EVT	EVT-Brexit
+47	57	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+80	94	Великобритания	Великобритания	LOC	GPE-Great-Britain
+123	139	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+207	211	Билд	Билд	PRO	PRO-Bild
+226	229	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+364	366	ЕС	ЕС	ORG	ORG-European-Union
+376	382	Европа	Европа	LOC	LOC-Europe
+406	408	ЕС	ЕС	ORG	ORG-European-Union
+417	420	Мей	Мей	PER	PER-Theresa-May
+433	447	Великобритания	Великобритания	LOC	GPE-Great-Britain
+506	520	Великобритания	Великобритания	LOC	GPE-Great-Britain
+549	565	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+633	637	Билд	Билд	PRO	PRO-Bild
+652	655	БТА	БТА	ORG	ORG-Bulgarian-News-Agency

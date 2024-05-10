@@ -1,0 +1,22 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+110	138	wyborach prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+200	220	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+238	242	Ohio	Ohio	LOC	GPE-Ohio
+260	272	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+349	353	Ohio	Ohio	LOC	GPE-Ohio
+488	497	Demokratę	Demokrata	PER	ORG-Democratic-Party-USA
+514	527	Republikanina	Republikanin	PER	ORG-Republican-Party-USA
+619	623	Ohio	Ohio	LOC	GPE-Ohio
+644	662	Środkowego Zachodu	Środkowy Zachód	LOC	LOC-Midwestern-United-States
+738	746	Michigan	Michigan	LOC	GPE-Michigan
+748	757	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+763	774	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+833	845	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+847	852	Biden	Biden	PER	PER-Joe-Biden
+871	875	Ohio	Ohio	LOC	GPE-Ohio
+915	919	Ohio	Ohio	LOC	GPE-Ohio
+952	962	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+963	972	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1133	1137	Ohio	Ohio	LOC	GPE-Ohio
+1163	1175	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+1203	1221	Wielkimi Jeziorami	Wielkie Jeziora	LOC	LOC-Great-Lakes

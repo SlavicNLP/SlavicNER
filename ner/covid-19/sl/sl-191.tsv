@@ -1,0 +1,62 @@
+8	27	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+37	63	skupnost socialnih zavodov	skupnost socialnih zavodov	ORG	ORG-Skupnost-socialnih-zavodov-Slovenije
+108	116	covid-19	covid-19	EVT	EVT-Covid-19
+126	145	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+151	160	Sloveniji	Slovenija	LOC	GPE-Slovenia
+180	206	skupnost socialnih zavodov	skupnost socialnih zavodov	ORG	ORG-Skupnost-socialnih-zavodov-Slovenije
+451	460	Sloveniji	Slovenija	LOC	GPE-Slovenia
+506	525	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+593	603	covidom-19	covid-19	EVT	EVT-Covid-19
+643	653	covidom-19	covid-19	EVT	EVT-Covid-19
+703	722	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+766	781	Rogaški Slatini	Rogaška Slatina	LOC	GPE-Rogaška-Slatina
+783	790	Ribnici	Ribnica	LOC	GPE-Ribnica
+794	810	Ilirski Bistrici	Ilirska Bistrica	LOC	GPE-Ilirska-Bistrica
+841	850	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+917	926	Hrastniku	Hrastnik	LOC	GPE-Hrastnik
+1008	1055	Univerzitetnem rehabilitacijskem inštitutu Soča	Univerzitetni rehabilitacijski inštitut Soča	LOC	LOC-University-Rehabilitation-Institute-Republic-of-Slovenia-Soča
+1135	1154	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1285	1322	Univerzitetni klinični center Maribor	Univerzitetni klinični center Maribor	LOC	LOC-University-Medical-Center-Maribor
+1471	1500	Splošne bolnišnice Novo mesto	Splošna bolnišnica Novo mesto	LOC	LOC-General-Hospital-Novo-mesto
+1705	1733	Zdravstvenega doma Ljubljana	Zdravstveni dom Ljubljana	LOC	LOC-Community-Health-Centre-Ljubljana
+1917	1936	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+2003	2024	Vrtca Rogaška Slatina	Vrtec Rogaška Slatina	ORG	ORG-Rogaška-Slatina-Nursery-school
+2067	2086	novim koronavirosum	novi koronavirus	EVT	EVT-Covid-19
+2186	2199	Majda Plavčak	Majda Plavčak	PER	PER-Majda-Plavčak
+2453	2460	Rogatca	Rogatec	LOC	GPE-Rogatec
+2461	2475	Martin Mikolič	Martin Mikolič	PER	PER-Martin-Mikolič
+2576	2595	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+2598	2624	Skupnost socialnih zavodov	Skupnost socialnih zavodov	ORG	ORG-Skupnost-socialnih-zavodov-Slovenije
+2851	2914	ministrstva za delo, družino, socialne zadeve in enake možnosti	ministrstvo za delo, družino, socialne zadeve in enake možnosti	ORG	ORG-Ministry-of-labour,family,-social-affairs-and-equal-opportunities-Slovenia
+3120	3142	Institutu Jožef Stefan	Institut Jožef Stefan	ORG	ORG-Jožef-Stefan-Institute
+3566	3573	Španijo	Španija	LOC	GPE-Spain
+3575	3582	Belgijo	Belgija	LOC	GPE-Belgium
+3584	3594	Avstralijo	Avstralija	LOC	GPE-Australia
+3596	3602	Maroko	Maroko	LOC	GPE-Morocco
+3604	3610	Andoro	Andora	LOC	GPE-Andorra
+3614	3620	Kanado	Kanada	LOC	GPE-Canada
+3727	3736	Bolgarijo	Bolgarija	LOC	GPE-Bulgaria
+3738	3746	Romunijo	Romunija	LOC	GPE-Romania
+3748	3754	Bahame	Bahami	LOC	GPE-Bahamas
+3756	3762	Indijo	Indija	LOC	GPE-India
+3831	3838	Balkanu	Balkan	LOC	LOC-Balkans
+3897	3900	BiH	BiH	LOC	GPE-Bosnia-and-Herzegovina
+3929	3935	Srbije	Srbija	LOC	GPE-Serbia
+3970	3988	Severne Makedonije	Severna Makedonija	LOC	GPE-North-Macedonia
+4002	4010	Hrvaškem	Hrvaška	LOC	GPE-Croatia
+4190	4196	Evropi	Evropa	LOC	LOC-Europe
+4272	4288	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+4516	4530	severu Anglije	sever Anglije	LOC	LOC-Northern-England
+4533	4540	Nemčija	Nemčija	LOC	GPE-Germany
+4625	4635	Katalonija	Katalonija	LOC	GPE-Catalonia
+4637	4646	Aragonija	Aragonija	LOC	GPE-Aragon
+4650	4657	Navarra	Navarra	LOC	GPE-Navarre
+4659	4666	Italija	Italija	LOC	GPE-Italy
+4765	4773	Romunije	Romunija	LOC	GPE-Romania
+4777	4786	Bolgarije	Bolgarija	LOC	GPE-Bulgaria
+4790	4798	Franciji	Francija	LOC	GPE-France
+4955	4960	Lillu	Lille	LOC	GPE-Lille
+5048	5057	Kitajskem	Kitajska	LOC	GPE-China
+5106	5125	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+5168	5177	Hongkongu	Hongkong	LOC	GPE-Hong-Kong
+5201	5210	covida-19	covida-19	EVT	EVT-Covid-19

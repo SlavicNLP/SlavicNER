@@ -1,0 +1,50 @@
+47	58	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+60	67	Georgia	Georgia	LOC	GPE-Georgia-US-state
+69	86	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+89	98	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+99	110	Konrad Mzyk	Konrad Mzyk	PER	PER-Konrad-Mzyk
+201	213	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+216	228	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+258	273	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+298	310	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+313	322	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+352	365	Mitta Romneya	Mitt Romney	PER	PER-Mitt-Romney
+390	402	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+405	414	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+444	457	Johna McCaina	John McCain	PER	PER-John-McCain
+483	493	John Kerry	John Kerry	PER	PER-John-Kerry
+496	505	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+535	550	Georga W. Busha	Georg W. Bush	PER	PER-George-Bush-Jr
+574	581	Al Gore	Al Gore	PER	PER-Al-Gore
+583	592	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+621	635	Georga W. Bush	Georg W. Bush	PER	PER-George-Bush-Jr
+663	674	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+676	687	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+740	752	Białego Domu	Biały Dom	LOC	LOC-White-House
+793	800	Florydą	Floryda	LOC	GPE-Florida
+828	840	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+843	854	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+866	878	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+983	999	George H.W. Bush	George H.W. Bush	PER	PER-George-Bush-Jr
+1008	1025	Michaela Dukakisa	Michael Dukakis	PER	PER-Michael-Dukakis
+1028	1039	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1165	1175	Filadelfii	Filadelfia	LOC	GPE-Philadelphia
+1254	1264	Harrisburg	Harrisburg	LOC	GPE-Harrisburg
+1266	1275	Lancaster	Lancaster	LOC	GPE-Lancaster
+1277	1284	Reading	Reading	LOC	GPE-Reading
+1331	1339	Scranton	Scranton	LOC	GPE-Scranton
+1359	1368	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1496	1506	Filadelfii	Filadelfia	LOC	GPE-Philadelphia
+1735	1746	Pittsburghu	Pittsburgh	LOC	GPE-Pittsburgh
+1806	1810	Ohio	Ohio	LOC	GPE-Ohio
+1901	1912	Pittsburghu	Pittsburgh	LOC	GPE-Pittsburgh
+1991	2001	Filadelfii	Filadelfia	LOC	GPE-Philadelphia
+2020	2029	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2080	2091	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+2171	2180	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+2288	2300	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2354	2365	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+2432	2442	Filadelfii	Filadelfia	LOC	GPE-Philadelphia
+2443	2457	Michael Nutter	Michael Nutter	PER	PER-Michael-Nutter
+2487	2495	Bidenowi	Biden	PER	PER-Joe-Biden
+2635	2640	Trump	Trump	PER	PER-Donald-Trump

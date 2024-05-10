@@ -1,0 +1,10 @@
+34	41	Brexitu	Brexit	EVT	EVT-Brexit
+55	62	Polaków	Polacy	PER	GPE-Poland
+88	105	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+256	269	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+281	295	Czaputowiczowi	Czaputowicz	PER	PER-Jacek-Czaputowicz
+326	343	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+375	388	Gazetą Polską	Gazeta Polska	PRO	PRO-Gazeta-Polska
+412	418	Polsce	Polska	LOC	GPE-Poland
+419	433	Jonathan Knott	Jonathan Knott	PER	PER-Jonathan-Knott
+516	524	brexitem	Brexit	EVT	EVT-Brexit

@@ -1,0 +1,17 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+11	16	Трамп	Трамп	PER	PER-Donald-Trump
+18	42	Американские выборы-2020	Американские выборы-2020	EVT	EVT-2020-United-States-Presidential-Election
+80	83	США	США	LOC	GPE-USA
+146	159	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+160	173	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+252	255	США	США	LOC	GPE-USA
+258	268	демократом	демократ	ORG	ORG-Democratic-Party-USA
+269	281	Джо Байденом	Джо Байден	PER	PER-Joe-Biden
+321	327	Трампа	Трамп	PER	PER-Donald-Trump
+478	488	Vot Tak TV	Vot Tak TV	ORG	ORG-Vot-Tak-TV
+538	541	США	США	LOC	GPE-USA
+614	617	США	США	LOC	GPE-USA
+637	649	коронавируса	коронавируса	EVT	EVT-Covid-19
+657	667	американцы	американцы	PER	GPE-USA
+721	737	Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+805	808	США	США	LOC	GPE-USA

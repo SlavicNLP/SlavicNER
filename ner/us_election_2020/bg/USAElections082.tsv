@@ -1,0 +1,59 @@
+19	33	Републиканецът	републиканец	PER	ORG-Republican-Party-USA
+34	46	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+57	66	демократа	демократ	PER	ORG-Democratic-Party-USA
+67	77	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+80	85	Охайо	Охайо	LOC	GPE-Ohio
+161	169	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+180	187	Ройтерс	Ройтерс	ORG	ORG-Reuters
+190	195	Охайо	Охайо	LOC	GPE-Ohio
+253	256	САЩ	САЩ	LOC	GPE-USA
+393	398	Тръмп	Тръмп	PER	PER-Donald-Trump
+438	444	Байдън	Байдън	PER	PER-Joe-Biden
+473	478	Тръмп	Тръмп	PER	PER-Donald-Trump
+498	504	Тексас	Тексас	LOC	GPE-Texas
+507	514	Флорида	Флорида	LOC	GPE-Florida
+611	621	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+624	631	Аризона	Аризона	LOC	GPE-Arizona
+686	709	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+729	734	Хавай	Хаваи	LOC	GPE-Hawaii
+809	817	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+835	858	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+875	878	САЩ	САЩ	LOC	GPE-USA
+879	889	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+928	935	Аризона	Аризона	LOC	GPE-Arizona
+964	985	избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+1012	1020	Фокс нюз	Фокс нюз	PRO	PRO-Fox-News
+1034	1038	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+1041	1055	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+1067	1074	Аризона	Аризона	LOC	GPE-Arizona
+1127	1135	демократ	демократ	PER	ORG-Democratic-Party-USA
+1180	1191	Бил Клинтън	Бил Клинтън	PER	PER-Bill-Clinton
+1349	1352	САЩ	САЩ	LOC	GPE-USA
+1380	1383	САЩ	САЩ	LOC	GPE-USA
+1461	1468	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1520	1537	Бетфеър (Betfair)	Бетфеър (Betfair)	PRO	PRO-Betfair
+1552	1565	републиканеца	републиканец	PER	ORG-Republican-Party-USA
+1566	1571	Тръмп	Тръмп	PER	PER-Donald-Trump
+1730	1741	демократите	демократи	PER	ORG-Democratic-Party-USA
+1742	1752	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1822	1836	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1848	1867	Смаркетс (Smarkets)	Смаркетс (Smarkets)	PRO	PRO-Smarkets
+1882	1887	Тръмп	Тръмп	PER	PER-Donald-Trump
+2025	2031	Байдън	Байдън	PER	PER-Joe-Biden
+2096	2107	Патрик Флин	Патрик Флин	PER	PER-Patrick-Flynn
+2135	2143	Смаркетс	Смаркетс	PRO	PRO-Smarkets
+2186	2191	Тръмп	Тръмп	PER	PER-Donald-Trump
+2199	2206	Флорида	Флорида	LOC	GPE-Florida
+2225	2235	Маями-Дейд	Маями-Дейд	LOC	GPE-Miami-Dade-County
+2284	2293	демократа	демократ	PER	ORG-Democratic-Party-USA
+2298	2307	Белия дом	Бял дом	LOC	LOC-White-House
+2353	2360	Флорида	Флорида	LOC	GPE-Florida
+2406	2410	Флин	Флин	PER	PER-Patrick-Flynn
+2429	2435	Байдън	Байдън	PER	PER-Joe-Biden
+2496	2507	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2509	2516	Мичиган	Мичиган	LOC	GPE-Michigan
+2519	2528	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+2531	2536	Тръмп	Тръмп	PER	PER-Donald-Trump
+2607	2617	Франс прес	Франс прес	ORG	ORG-France-Presse
+2689	2699	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2712	2720	Си Ен Ен	Си Ен Ен	PRO	PRO-CNN

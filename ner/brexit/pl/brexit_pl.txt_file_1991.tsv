@@ -1,0 +1,53 @@
+9	16	Austrii	Austria	LOC	GPE-Austria
+61	87	Europy Środkowo-Wschodniej	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+98	105	Austrii	Austria	LOC	GPE-Austria
+106	120	Sebastian Kurz	Sebastian Kurz	PER	PER-Sebastian-Kurz
+123	144	Arnold Schwarzenegger	Arnold Schwarzenegger	PER	PER-Arnold-Schwarzenegger
+151	161	Ronald Zak	Ronald Zak	PER	PER-Ronald-Zak
+164	172	AP Photo	AP Photo	ORG	ORG-AP-Photo
+200	217	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+224	239	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+240	254	Sebastian Kurz	Sebastian Kurz	PER	PER-Sebastian-Kurz
+298	304	Polski	Polska	LOC	GPE-Poland
+381	406	Europy Środkowowschodniej	Europa Środkowowschodnia	LOC	LOC-Central-Eastern-Europe
+409	411	UE	UE	ORG	ORG-European-Union
+525	543	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+646	663	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+665	680	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+726	728	UE	UE	ORG	ORG-European-Union
+742	751	Niemczech	Niemcy	LOC	GPE-Germany
+754	761	Francji	Francja	LOC	GPE-France
+775	781	Polska	Polska	LOC	GPE-Poland
+783	790	Rumunia	Rumunia	LOC	GPE-Romania
+792	798	Grecja	Grecja	LOC	GPE-Greece
+801	806	Węgry	Węgry	LOC	GPE-Hungary
+905	907	UE	UE	ORG	ORG-European-Union
+924	931	Austrii	Austria	LOC	GPE-Austria
+1007	1011	Kurz	Kurz	PER	PER-Sebastian-Kurz
+1053	1065	Der Standard	Der Standard	PRO	PRO-Der-Standard
+1088	1105	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+1163	1169	Turcji	Turcja	LOC	GPE-Turkey
+1225	1229	Kurz	Kurz	PER	PER-Sebastian-Kurz
+1254	1262	Standard	Standard	PRO	PRO-Evening-Standard
+1279	1281	UE	UE	ORG	ORG-European-Union
+1375	1392	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+1512	1528	Europa Zachodnia	Europa Zachodnia	LOC	LOC-Western-Europe
+1611	1615	Kurz	Kurz	PER	PER-Sebastian-Kurz
+1654	1660	Węgier	Węgry	LOC	GPE-Hungary
+1661	1677	Viktorem Orbanem	Viktor Orban	PER	PER-Viktor-Orban
+1755	1772	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+1801	1809	Holandii	Holandia	LOC	GPE-Holland
+1810	1827	Markiem Rutte' em	Mark Rutte	PER	PER-Mark-Rutte
+1972	1978	Brexit	Brexit	EVT	EVT-Brexit
+2046	2064	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+2123	2135	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+2227	2234	Niemiec	Niemcy	LOC	GPE-Germany
+2311	2323	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+2325	2327	UE	UE	ORG	ORG-European-Union
+2511	2513	UE	UE	ORG	ORG-European-Union
+2738	2742	Kurz	Kurz	PER	PER-Sebastian-Kurz
+2781	2787	Węgier	Węgry	LOC	GPE-Hungary
+2788	2804	Viktorem Orbanem	Viktor Orban	PER	PER-Viktor-Orban
+2882	2899	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+2918	2923	Orban	Orban	PER	PER-Viktor-Orban
+2975	2980	Orban	Orban	PER	PER-Viktor-Orban

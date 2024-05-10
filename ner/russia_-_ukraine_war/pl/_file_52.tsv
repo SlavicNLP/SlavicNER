@@ -1,0 +1,24 @@
+10	19	Hiszpanii	Hiszpania	LOC	GPE-Spain
+22	27	Danii	Dania	LOC	GPE-Denmark
+39	46	Kijowie	Kijów	LOC	GPE-Kiev
+67	84	ukraińskiej armii	ukraińska armia	ORG	ORG-Armed-Forces-of-Ukraine
+111	120	Hiszpanii	Hiszpania	LOC	GPE-Spain
+123	128	Danii	Dania	LOC	GPE-Denmark
+130	143	Pedro Sanchez	Pedro Sanchez	PER	PER-Pedro-Sanchez
+146	163	Mette Frederiksen	Mette Frederiksen	PER	PER-Mette-Frederiksen
+198	205	Kijowie	Kijów	LOC	GPE-Kiev
+220	227	Ukrainy	Ukraina	LOC	GPE-Ukraine
+228	249	Wołodymyrem Zełenskim	Wołodymyr Zełenski	PER	PER-Volodymyr-Zelensky
+282	307	ukraińskich sił zbrojnych	ukraińskie siły zbrojne	ORG	ORG-Armed-Forces-of-Ukraine
+322	329	Sanchez	Sanchez	PER	PER-Pedro-Sanchez
+331	340	Hiszpania	Hiszpania	LOC	GPE-Spain
+350	357	Ukrainę	Ukraina	LOC	GPE-Ukraine
+394	405	Frederiksen	Frederiksen	PER	PER-Mette-Frederiksen
+441	449	Ukrainie	Ukraina	LOC	GPE-Ukraine
+531	536	Rosji	Rosja	LOC	GPE-Russia
+584	592	Zełenski	Zełenski	PER	PER-Volodymyr-Zelensky
+666	675	Mariupola	Mariupol	LOC	GPE-Mariupol
+772	788	Siergieja Szojgu	Siergiej Szojgu	PER	PER-Sergei-Shoigu
+800	807	Ukrainy	Ukraina	LOC	GPE-Ukraine
+870	879	Mariupola	Mariupol	LOC	GPE-Mariupol
+983	991	Azowstal	Azowstal	ORG	ORG-Azovstal

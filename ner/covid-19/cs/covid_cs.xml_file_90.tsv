@@ -1,0 +1,30 @@
+0	11	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+44	46	ČR	ČR	LOC	GPE-Czech-Republic
+71	80	Barceloně	Barcelona	LOC	GPE-Barcelona
+89	99	Milan Šmid	Milan Šmid	PER	PER-Milan-Smid
+167	177	Sars-Cov-2	Sars-Cov-2	EVT	EVT-Covid-19
+378	393	Stella Immanuel	Stella Immanuel	PER	PER-Stella-Immanuel
+399	407	Houstonu	Houston	LOC	GPE-Houston
+444	450	Texasu	Texas	LOC	GPE-Texas
+479	482	USA	USA	LOC	GPE-USA
+542	545	HCQ	HCQ	PRO	PRO-Hydroxychloroquine
+547	568	hydro-xychlo-roqu-ine	hydro-xychlo-roqu-ine	PRO	PRO-Hydroxychloroquine
+571	575	Zinc	Zinc	PRO	PRO-Zinc
+578	587	Zithromax	Zithromax	PRO	PRO-Zithromax
+654	667	Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+685	688	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+769	786	covidové pandemie	covidová pandemie	EVT	EVT-Covid-19
+789	792	USA	USA	LOC	GPE-USA
+802	805	HCQ	HCQ	PRO	PRO-Hydroxychloroquine
+921	929	Houstonu	Houston	LOC	GPE-Houston
+1152	1155	HCQ	HCQ	PRO	PRO-Hydroxychloroquine
+1169	1179	Covidem-19	Covid-19	EVT	EVT-Covid-19
+1406	1409	USA	USA	LOC	GPE-USA
+1576	1591	Stella Immanuel	Stella Immanuel	PER	PER-Stella-Immanuel
+1678	1700	hydro-xychlo-roqu-inem	hydro-xychlo-roqu-inem	PRO	PRO-Hydroxychloroquine
+1702	1708	Zincem	Zinc	PRO	PRO-Zinc
+1711	1722	Zithromaxem	Zithromax	PRO	PRO-Zithromax
+1878	1881	HCQ	HCQ	PRO	PRO-Hydroxychloroquine
+1968	1978	Remdesivir	Remdesivir	PRO	PRO-Remdesivir
+1980	1998	Hydroxychloroquine	Hydroxychloroquine	PRO	PRO-Hydroxychloroquine
+1999	2017	Hydroxychloroquine	Hydroxychloroquine	PRO	PRO-Hydroxychloroquine

@@ -1,0 +1,42 @@
+15	28	Melania Trump	Melania Trump	PER	PER-Melania-Trump
+150	153	ZDA	ZDA	LOC	GPE-USA
+154	167	Melania Trump	Melania Trump	PER	PER-Melania-Trump
+316	319	CNN	CNN	PRO	PRO-CNN
+354	368	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+399	417	Jaredom Kushnerjem	Jared Kushner	PER	PER-Jared-Kushner
+468	476	Trumpova	Trump	PER	PER-Donald-Trump
+497	506	Američani	Američani	PER	GPE-USA
+668	671	ZDA	ZDA	LOC	GPE-USA
+674	679	Trump	Trump	PER	PER-Donald-Trump
+812	817	Trump	Trump	PER	PER-Donald-Trump
+890	899	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+971	974	CNN	CNN	PRO	PRO-CNN
+982	987	Trump	Trump	PER	PER-Donald-Trump
+1095	1098	ZDA	ZDA	LOC	GPE-USA
+1119	1126	Kushner	Kushner	PER	PER-Jared-Kushner
+1150	1156	Trumpu	Trump	PER	PER-Donald-Trump
+1206	1214	Trumpova	Trump	PER	PER-Donald-Trump
+1234	1247	Donald mlajši	Donald mlajši	PER	PER-Donald-Trump-Jr.
+1251	1255	Eric	Eric	PER	PER-Eric-Trump
+1297	1310	Melania Trump	Melania Trump	PER	PER-Melania-Trump
+1421	1429	Trumpove	Trump	PER	PER-Donald-Trump
+1439	1451	Jason Miller	Jason Miller	PER	PER-Jason-Miller
+1473	1476	CNN	CNN	PRO	PRO-CNN
+1538	1545	Bidnove	Biden	PER	PER-Joe-Biden
+1555	1571	Kate Bedingfield	Kate Bedingfield	PER	PER-Kate-Bedingfield
+1641	1648	Trumpom	Trump	PER	PER-Donald-Trump
+1652	1658	Bidnom	Biden	PER	PER-Joe-Biden
+1715	1729	Mail on Sunday	Mail on Sunday	PRO	PRO-Mail-on-Sunday
+1770	1778	Trumpovi	Trump	PER	PER-Donald-Trump
+1799	1806	Vajenec	Vajenec	PRO	PRO-The-Apprentice
+1807	1831	Omarose Manigault Newman	Omarosa Manigault Newman	PER	PER-Omarosa-Manigault-Newman
+1846	1859	Melania Trump	Melania Trump	PER	PER-Melania-Trump
+1946	1970	Omarosa Manigault Newman	Omarosa Manigault Newman	PER	PER-Omarosa-Manigault-Newman
+1983	1996	Melania Trump	Melania Trump	PER	PER-Melania-Trump
+2105	2114	Newmanova	Newman	PER	PER-Omarosa-Manigault-Newman
+2141	2150	Trumpovih	Trumpov	PER	PER-Donald-Trump
+2196	2201	Trump	Trump	PER	PER-Donald-Trump
+2233	2242	Twitterju	Twitter	PRO	PRO-Twitter
+2345	2354	Beli hiši	Bela hiša	LOC	LOC-White-House
+2419	2426	Vajenec	Vajenec	PRO	PRO-The-Apprentice
+2428	2433	Trump	Trump	PER	PER-Donald-Trump

@@ -1,0 +1,15 @@
+79	85	Polski	Polska	LOC	GPE-Poland
+125	131	Pfizer	Pfizer	ORG	ORG-Pfizer
+189	208	Kancelarii Premiera	Kancelaria Premiera	ORG	ORG-Office-of-the-Prime-Minister-Poland
+218	233	Michał Dworczyk	Michał Dworczyk	PER	PER-Michał-Dworczyk
+346	354	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+424	430	Polsce	Polska	LOC	GPE-Poland
+619	639	Ministerstwo Zdrowia	Ministerstwo Zdrowia	ORG	ORG-Ministry-of-Health-Poland
+703	711	Dworczyk	Dworczyk	PER	PER-Michał-Dworczyk
+760	766	Polsce	Polska	LOC	GPE-Poland
+1157	1168	Koronawirus	koronawirus	EVT	EVT-Covid-19
+1171	1177	Polsce	Polska	LOC	GPE-Poland
+1205	1225	Ministerstwo Zdrowia	Ministerstwo Zdrowia	ORG	ORG-Ministry-of-Health-Poland
+1276	1289	koronawirusem	koronawirus	EVT	EVT-Covid-19
+1543	1546	NFZ	NFZ	ORG	ORG-National-Health-Fund-Poland
+1669	1675	Polsce	Polska	LOC	GPE-Poland

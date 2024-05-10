@@ -1,0 +1,28 @@
+48	59	коронавирус	коронавирус	EVT	EVT-Covid-19
+101	109	Covid-19	COVID-19	EVT	EVT-Covid-19
+165	175	Франс прес	Франс прес	ORG	ORG-France-Presse
+203	214	коронавирус	коронавирус	EVT	EVT-Covid-19
+354	364	Франс прес	Франс прес	ORG	ORG-France-Presse
+516	528	коронавируса	коронавирус	EVT	EVT-Covid-19
+556	559	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+597	608	коронавирус	коронавирус	EVT	EVT-Covid-19
+652	662	Франс прес	Франс прес	ORG	ORG-France-Presse
+993	996	САЩ	САЩ	LOC	GPE-USA
+1018	1026	Бразилия	Бразилия	LOC	GPE-Brazil
+1037	1044	Мексико	Мексико	LOC	GPE-Мexico
+1055	1058	САЩ	САЩ	LOC	GPE-USA
+1193	1201	Бразилия	Бразилия	LOC	GPE-Brazil
+1258	1263	Индия	Индия	LOC	GPE-India
+1326	1333	Мексико	Мексико	LOC	GPE-Мexico
+1391	1397	Италия	Италия	LOC	GPE-Italy
+1455	1461	Белгия	Белгия	LOC	GPE-Belgium
+1538	1546	Словения	Словения	LOC	GPE-Slovenia
+1554	1559	Босна	Босна	LOC	GPE-Bosnia-and-Herzegovina
+1567	1573	Италия	Италия	LOC	GPE-Italy
+1582	1609	Република Северна Македония	Република Северна Македония	LOC	GPE-North-Macedonia
+1651	1657	Европа	Европа	LOC	LOC-Europe
+1719	1735	Латинска Америка	Латинска Америка	LOC	LOC-Latin-America
+1738	1746	Карибите	Кариби	LOC	GPE-Caribbean
+1807	1822	Северна Америка	Северна Америка	LOC	LOC-North-America
+1824	1827	САЩ	САЩ	LOC	GPE-USA
+1830	1836	Канада	Канада	LOC	GPE-Canada

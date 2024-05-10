@@ -1,0 +1,25 @@
+0	9	Discovery	Discovery	ORG	ORG-Discovery-Inc
+22	25	TVN	TVN	PRO	PRO-TVN
+49	55	Polski	Polska	LOC	GPE-Poland
+59	67	Brexicie	Brexit	EVT	EVT-Brexit
+69	75	Polska	Polska	LOC	GPE-Poland
+217	232	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+257	274	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+290	299	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+306	327	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+330	338	Guardian	Guardian	PRO	PRO-The-Guardian
+356	367	Amsterdamie	Amsterdam	LOC	GPE-Amsterdam
+396	403	Netflix	Netflix	ORG	ORG-Netflix
+404	412	Warszawa	Warszawa	LOC	GPE-Warsaw
+472	478	Europę	Europa	LOC	LOC-Europe
+480	485	Polkę	Polka	PER	GPE-Poland
+486	497	Kasię Kieli	Kasia Kieli	PER	PER-Katarzyna-Kieli
+609	616	Scripps	Scripps	ORG	ORG-SNI-Scripps-Networks-Interactive
+658	661	TVN	TVN	PRO	PRO-TVN
+687	696	Discovery	Discovery	ORG	ORG-Discovery-Inc
+794	799	Ofcom	Ofcom	ORG	ORG-Ofcom
+820	831	Theresy May	Theresy May	PER	PER-Theresa-May
+1049	1056	Europie	Europa	LOC	LOC-Europe
+1071	1080	Discovery	Discovery	ORG	ORG-Discovery-Inc
+1105	1115	Guardianem	Guardian	PRO	PRO-The-Guardian
+1169	1177	Brexitem	Brexit	EVT	EVT-Brexit

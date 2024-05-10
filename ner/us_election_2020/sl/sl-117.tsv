@@ -1,0 +1,35 @@
+364	367	ZDA	ZDA	LOC	GPE-USA
+368	380	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+717	782	Izvršni odbor sveta za vladno usklajevanje volilne infrastrukture	Izvršni odbor sveta za vladno usklajevanje volilne infrastrukture	ORG	ORG-Elections-Infrastructure-Government-Coordinating-Council
+784	787	GCC	GCC	ORG	ORG-Elections-Infrastructure-Government-Coordinating-Council
+792	845	Svet za sektorsko usklajevanje volilne infrastrukture	Svet za sektorsko usklajevanje volilne infrastrukture	ORG	ORG-Sector-Coordinating-Council
+847	850	SCC	SCC	ORG	ORG-Sector-Coordinating-Council
+954	1045	Agencija za kibernetsko varnost in infrastrukturo pri ministrstvu za domovinsko varnost ZDA	Agencija za kibernetsko varnost in infrastrukturo pri ministrstvu za domovinsko varnost ZDA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+1047	1051	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+1121	1125	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+1126	1143	Christopher Krebs	Christopher Krebs	PER	PER-Christopher-Krebs
+1187	1190	ZDA	ZDA	LOC	GPE-USA
+1191	1203	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1215	1219	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+1263	1269	Trumpa	Trump	PER	PER-Donald-Trump
+1356	1360	CISA	CISA	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+1519	1530	Mark Warner	Mark Warner	PER	PER-Mark-Warner
+1534	1543	Virginije	Virginija	LOC	GPE-Virginia
+1563	1568	Krebs	Krebs	PER	PER-Christopher-Krebs
+1674	1683	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+1688	1700	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+1794	1800	Warner	Warner	PER	PER-Mark-Warner
+1803	1812	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+1829	1839	Trumpovimi	Trump	PER	PER-Donald-Trump
+1986	1998	koronavirusa	koronavirus	EVT	EVT-Covid-19
+2038	2047	Bele hiše	Bela hiša	LOC	LOC-White-House
+2074	2086	koronavirusu	koronavirus	EVT	EVT-Covid-19
+2133	2138	Trump	Trump	PER	PER-Donald-Trump
+2224	2233	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+2336	2339	ZDA	ZDA	LOC	GPE-USA
+2340	2352	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+2408	2426	Obljubljena dežela	Obljubljena dežela	PRO	PRO-A-Promised-Land
+2463	2476	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+2491	2499	Trumpove	Trump	PER	PER-Donald-Trump
+2572	2579	Bidnovi	Biden	PER	PER-Joe-Biden
+2648	2653	Obama	Obama	PER	PER-Barack-Obama

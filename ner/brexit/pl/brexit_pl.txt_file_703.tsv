@@ -1,0 +1,15 @@
+31	37	Brexit	Brexit	EVT	EVT-Brexit
+97	113	Jerzy Kwieciński	Jerzy Kwieciński	PER	PER-Jerzy-Kwieciński
+187	207	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+284	290	Polska	Polska	LOC	GPE-Poland
+331	333	UE	UE	ORG	ORG-European-Union
+371	379	brexicie	Brexit	EVT	EVT-Brexit
+540	562	wspólną politykę rolną	Wspólna polityka rolna	PRO	PRO-CAP-Common-Agricultural-Policy
+654	656	UE	UE	ORG	ORG-European-Union
+657	674	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+687	696	Niemczech	Niemcy	LOC	GPE-Germany
+754	756	UE	UE	ORG	ORG-European-Union
+868	876	brexicie	Brexit	EVT	EVT-Brexit
+922	932	Kwieciński	Kwieciński	PER	PER-Jerzy-Kwieciński
+1010	1012	UE	UE	ORG	ORG-European-Union
+1015	1018	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

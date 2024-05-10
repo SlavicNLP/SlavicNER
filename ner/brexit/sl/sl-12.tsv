@@ -1,0 +1,54 @@
+5	11	brexit	brexit	EVT	EVT-Brexit
+67	81	Evropske unije	Evropska unija	ORG	ORG-European-Union
+168	175	brexita	brexit	EVT	EVT-Brexit
+183	194	Theresa May	Theresa May	PER	PER-Theresa-May
+318	324	Mayeva	May	PER	PER-Theresa-May
+402	413	Theresa May	Theresa May	PER	PER-Theresa-May
+429	444	Severnem Irskem	Severna Irska	LOC	GPE-Northern-Ireland
+581	602	konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+615	623	Belfastu	Belfast	LOC	GPE-Belfast
+686	692	Irskem	Irska	LOC	GPE-Ireland
+724	740	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+865	872	brexita	brexit	EVT	EVT-Brexit
+1100	1112	The Guardian	The Guardian	ORG	ORG-The-Guardian
+1116	1122	Mayeva	May	PER	PER-Theresa-May
+1156	1169	Severne Irske	Severna Irska	LOC	GPE-Northern-Ireland
+1296	1303	Bruselj	Bruselj	LOC	GPE-Brussles
+1371	1377	Irskem	Irska	LOC	GPE-Ireland
+1412	1429	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+1430	1453	Jean-Claudom Junckerjem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+1469	1490	evropskega parlamenta	evropski parlament	ORG	ORG-European-Parliament
+1491	1509	Antoniom Tajanijem	Antonio Tajani	PER	PER-Antonio-Tajani
+1526	1542	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+1543	1558	Donaldom Tuskom	Donald Tusk	PER	PER-Donald-Tusk
+1561	1565	Tusk	Tusk	PER	PER-Donald-Tusk
+1569	1576	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+1642	1648	brexit	brexit	EVT	EVT-Brexit
+1675	1693	Britanski ministri	Britanski ministri	PER	ORG-British-Parlament
+1741	1757	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+1761	1775	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1820	1829	Telegraph	Telegraph	PRO	PRO-The-Daily-Telegraph
+1897	1899	EU	EU	ORG	ORG-European-Union
+1920	1927	Londonu	London	LOC	GPE-London
+1992	2008	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+2079	2085	brexit	brexit	EVT	EVT-Brexit
+2104	2110	Mayeva	May	PER	PER-Theresa-May
+2217	2224	brexita	brexit	EVT	EVT-Brexit
+2285	2297	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2349	2365	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+2390	2397	Londonu	London	LOC	GPE-London
+2422	2432	zveze Nato	zveza Nato	ORG	ORG-NATO
+2463	2477	Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+2502	2510	Liam Fox	Liam Fox	PER	PER-Liam-Fox
+2574	2581	Hammond	Hammond	PER	PER-Philip-Hammond
+2647	2654	brexitu	Fox	EVT	EVT-Brexit
+2657	2678	britanskem parlamentu	britanski parlament	ORG	ORG-British-Parlament
+2776	2779	Fox	Fox	PER	PER-Liam-Fox
+2823	2830	brexita	brexit	EVT	EVT-Brexit
+2987	2993	Mayeva	May	PER	PER-Theresa-May
+3034	3042	Brusljem	Bruselj	LOC	GPE-Brussles
+3394	3396	EU	EU	ORG	ORG-European-Union
+3572	3578	brexit	brexit	EVT	EVT-Brexit
+3586	3602	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+3619	3625	brexit	brexit	EVT	EVT-Brexit
+3673	3675	EU	EU	ORG	ORG-European-Union

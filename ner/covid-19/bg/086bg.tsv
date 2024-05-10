@@ -1,0 +1,53 @@
+0	3	БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences
+152	164	коронавируса	коронавирус	EVT	EVT-Covid-19
+180	183	БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences
+237	261	коронавирусната инфекция	коронавирусна инфекция	EVT	EVT-Covid-19
+541	544	БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences
+595	603	COVID-19	COVID-19	EVT	EVT-Covid-19
+873	885	коронавируса	коронавирус	EVT	EVT-Covid-19
+1106	1109	БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences
+1169	1181	коронавируса	коронавирус	EVT	EVT-Covid-19
+1771	1774	СЗО	СЗО	ORG	ORG-WHO
+2199	2202	БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences
+2635	2638	БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences
+2845	2858	корона вируса	коронавирус	EVT	EVT-Covid-19
+3142	3148	Pfizer	Pfizer	ORG	ORG-Pfizer
+3151	3159	BioNTech	BioNTech	ORG	ORG-BioNTech
+3162	3169	Moderna	Moderna	ORG	ORG-Moderna
+3469	3479	SARS-Cov-2	SARS-Cov-2	EVT	EVT-Covid-19
+3566	3578	Astra Zeneka	Astra Zeneka	ORG	ORG-AstraZeneca
+3580	3593	Janssen-Cilag	Janssen-Cilag	ORG	ORG-Janssen-Pharmaceutica
+3611	3618	Спутник	Спутник	PRO	PRO-Sputnik-V
+3621	3627	Vector	Vector	PRO	PRO-Vector-Vaccine
+3833	3839	Sanofi	Sanofi	ORG	ORG-Sanofi
+3840	3843	GSK	GSK	ORG	ORG-GSK
+3909	3919	SARS-Cov-2	SARS-Cov-2	EVT	EVT-Covid-19
+4351	4372	Европейския съюз (ЕС)	Европейски съюз (ЕС)	ORG	ORG-European-Union
+4444	4481	Европейската медицинска агенция (ЕМА)	Европейска медицинска агенция (ЕМА)	ORG	ORG-EMA-European-Medicines-Agency
+4486	4492	Pfizer	Pfizer	ORG	ORG-Pfizer
+4493	4501	BioNtech	BioNТech	ORG	ORG-BioNTech
+4503	4510	Moderna	Moderna	ORG	ORG-Moderna
+4512	4524	Astra Zeneka	Astra Zeneka	ORG	ORG-AstraZeneca
+4526	4539	Janssen-Cilag	Janssen-Cilag	ORG	ORG-Janssen-Pharmaceutica
+4542	4548	Sanofi	Sanofi	ORG	ORG-Sanofi
+4549	4552	GSK	GSK	ORG	ORG-GSK
+4611	4617	Pfizer	Pfizer	ORG	ORG-Pfizer
+4618	4626	BioNtech	BioNТech	ORG	ORG-BioNTech
+4722	4736	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4793	4802	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+4831	4848	Руската федерация	Руска федерация	LOC	GPE-Russia
+4873	4878	Китай	Китай	LOC	GPE-China
+4989	4994	Русия	Русия	LOC	GPE-Russia
+4997	5002	Китай	Китай	LOC	GPE-China
+5065	5072	Moderna	Moderna	ORG	ORG-Moderna
+5075	5078	САЩ	САЩ	LOC	GPE-USA
+5092	5095	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+5098	5106	България	България	LOC	GPE-Bulgaria
+5144	5146	ЕС	ЕС	ORG	ORG-European-Union
+5154	5173	COVID-19 пандемията	COVID-19 пандемия	EVT	EVT-Covid-19
+5218	5224	Pfizer	Pfizer	ORG	ORG-Pfizer
+5225	5233	BioNtech	BioNТech	ORG	ORG-BioNTech
+5294	5297	ЕМА	ЕМА	ORG	ORG-EMA-European-Medicines-Agency
+6115	6147	Министерство на здравеопазването	Министерство на здравеопазването	ORG	ORG-Ministry-of-Health-Bulgaria
+6319	6344	корона-вирусната пандемия	коронавирусна пандемия	EVT	EVT-Pandemic
+6537	6540	БАН	БАН	ORG	ORG-Bulgarian-Academy-of-Sciences

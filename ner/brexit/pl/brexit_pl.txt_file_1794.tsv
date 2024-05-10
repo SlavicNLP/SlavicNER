@@ -1,0 +1,18 @@
+0	12	George Soros	George Soros	PER	PER-George-Soros
+28	34	Brexit	Brexit	EVT	EVT-Brexit
+56	61	Soros	Soros	PER	PER-George-Soros
+72	87	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+153	170	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+269	281	Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+399	404	Soros	Soros	PER	PER-George-Soros
+488	496	Brexitem	Brexit	EVT	EVT-Brexit
+589	593	UKiP	UKiP	ORG	ORG-UK-Independence-Party
+594	606	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+738	750	George Soros	George Soros	PER	PER-George-Soros
+872	887	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+945	951	Brexit	Brexit	EVT	EVT-Brexit
+1028	1034	Paryżu	Paryż	LOC	GPE-Paris
+1069	1086	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1259	1263	Unii	Unia	ORG	ORG-European-Union
+1270	1285	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+1321	1336	George'a Serosa	George Soros	PER	PER-George-Soros

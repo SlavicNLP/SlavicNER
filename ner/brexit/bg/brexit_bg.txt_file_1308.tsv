@@ -1,0 +1,45 @@
+0	17	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+47	55	Германия	Германия	LOC	GPE-Germany
+68	70	Бр	Бр	EVT	EVT-Brexit
+75	81	Берлин	Берлин	LOC	GPE-Berlin
+101	114	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+132	139	Брекзит	Брекзит	EVT	EVT-Brexit
+180	194	Великобритания	Великобритания	LOC	GPE-Great-Britain
+258	260	ЕС	ЕС	ORG	ORG-European-Union
+283	296	Eurasia Group	Eurasia Group	ORG	ORG-Eurasia-Group
+297	307	Мий Рахман	Мий Рахман	PER	PER-Mij-Rahman
+348	365	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+381	390	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+452	460	Германия	Германия	LOC	GPE-Germany
+519	526	Брекзит	Брекзит	EVT	EVT-Brexit
+528	534	Рахман	Рахман	PER	PER-Mij-Rahman
+606	614	Германия	Германия	LOC	GPE-Germany
+734	754	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+796	826	Европейската икономическа зона	Европейска икономическа зона	ORG	ORG-EEA-European-Economic-Area
+910	924	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1086	1092	Меркел	Меркел	PER	PER-Angela-Merkel
+1177	1191	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1258	1264	Рахман	Рахман	PER	PER-Mij-Rahman
+1285	1297	Иван Христов	Иван Христов	PER	PER-Ivan-Hristov
+1344	1373	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+1391	1397	Лондон	Лондон	LOC	GPE-London
+1399	1409	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1447	1461	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1482	1498	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1504	1511	Брекзит	Брекзит	EVT	EVT-Brexit
+1633	1642	The Times	The Times	PRO	PRO-The-Times
+1670	1672	ЕС	ЕС	ORG	ORG-European-Union
+1748	1768	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+1822	1828	Европа	Европа	LOC	LOC-Europe
+1854	1868	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2025	2045	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2081	2108	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Commons
+2231	2233	ЕС	ЕС	ORG	ORG-European-Union
+2303	2305	ЕС	ЕС	ORG	ORG-European-Union
+2347	2361	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2390	2410	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2411	2423	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+2666	2678	Пол Бломфилд	Пол Бломфилд	PER	PER-Paul-Bloomfield
+2694	2701	Брекзит	Брекзит	EVT	EVT-Brexit
+2732	2742	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2923	2935	Иван Христов	Иван Христов	PER	PER-Ivan-Hristov

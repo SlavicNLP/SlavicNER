@@ -1,0 +1,11 @@
+0	3	ING	ING	ORG	ORG-ING-Group
+77	84	Брекзит	Брекзит	EVT	EVT-Brexit
+213	220	Брекзит	Брекзит	EVT	EVT-Brexit
+282	285	ING	ING	ORG	ORG-ING-Group
+286	298	Вирадж Пател	Вирадж Пател	PER	PER-Viraj-Patel
+580	587	Брезкит	Брекзит	EVT	EVT-Brexit
+831	836	Пател	Пател	PER	PER-Viraj-Patel
+857	873	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+875	877	ЕС	ЕС	ORG	ORG-European-Union
+881	895	Великобритания	Великобритания	LOC	GPE-Great-Britain
+942	949	Брекзит	Брекзит	EVT	EVT-Brexit

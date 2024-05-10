@@ -1,0 +1,14 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+50	54	Chin	Chiny	LOC	GPE-China
+210	242	Europejski Trybunał Obrachunkowy	Europejski Trybunał Obrachunkowy	ORG	ORG-ECA-European-Court-of-Auditors
+289	306	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+318	338	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+514	518	Unii	Unia	ORG	ORG-European-Union
+536	539	ETO	ETO	ORG	ORG-ECA-European-Court-of-Auditors
+585	594	Hiszpanii	Hiszpania	LOC	GPE-Spain
+596	602	Polsce	Polska	LOC	GPE-Poland
+607	615	Włoszech	Włochy	LOC	GPE-Italy
+619	636	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+639	646	Rumunii	Rumunia	LOC	GPE-Romania
+722	725	ETO	ETO	ORG	ORG-ECA-European-Court-of-Auditors
+828	830	UE	UE	ORG	ORG-European-Union

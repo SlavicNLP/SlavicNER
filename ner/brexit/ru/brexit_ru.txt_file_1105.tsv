@@ -1,0 +1,19 @@
+48	54	Brexit	Brexit	EVT	EVT-Brexit
+104	110	Brexit	Brexit	EVT	EVT-Brexit
+268	274	Англии	Англия	LOC	GPE-Great-Britain
+275	287	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+323	329	Brexit	Brexit	EVT	EVT-Brexit
+358	364	Brexit	Brexit	EVT	EVT-Brexit
+365	378	Дэвида Девиса	Дэвид Девис	PER	PER-David-Davis
+387	399	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+439	445	Brexit	Brexit	EVT	EVT-Brexit
+463	474	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+544	557	Даунинг-стрит	Даунинг-стрит	LOC	LOC-Downing-Street
+602	608	Brexit	Brexit	EVT	EVT-Brexit
+609	620	Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+623	639	Суэлла Браверман	Суэлла Браверман	PER	PER-Suella-Braverman
+641	645	Рабу	Раб	PER	PER-Dominic-Raab
+707	709	ЕС	ЕС	ORG	ORG-European-Union
+759	771	Елизаветы II	Елизавета II	PER	PER-Queen-Elizabeth-II
+824	830	Дэвиса	Дэвиса	PER	PER-David-Davis
+923	925	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,23 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+59	61	UE	UE	ORG	ORG-European-Union
+139	141	UE	UE	ORG	ORG-European-Union
+162	179	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+188	195	Brexitu	Brexit	EVT	EVT-Brexit
+635	643	Londynie	Londyn	LOC	GPE-London
+709	716	Brexitu	Brexit	EVT	EVT-Brexit
+743	760	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+901	918	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+930	937	Brexitu	Brexit	EVT	EVT-Brexit
+982	984	UE	UE	ORG	ORG-European-Union
+1451	1454	MSW	MSW	ORG	ORG-Home-Office-UK
+1458	1486	Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+1566	1577	Theresy May	Theresa May	PER	PER-Theresa-May
+1587	1594	Brexitu	Brexit	EVT	EVT-Brexit
+1689	1706	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1709	1724	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1813	1828	Lancaster House	Lancaster House	LOC	LOC-Lancaster-House
+1855	1864	Florencji	Florencja	LOC	GPE-Florence
+1885	1900	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1929	1931	UE	UE	ORG	ORG-European-Union
+1969	1978	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+2107	2109	UE	UE	ORG	ORG-European-Union

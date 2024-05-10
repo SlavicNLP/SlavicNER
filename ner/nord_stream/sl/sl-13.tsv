@@ -1,0 +1,20 @@
+103	108	Trump	Trump	PER	PER-Donald-Trump
+207	211	Xija	Xi	PER	PER-Xi-Jinping
+247	250	G20	G20	ORG	ORG-G20
+253	258	Osaki	Osaka	LOC	GPE-Osaka
+392	396	Xiju	Xi	PER	PER-Xi-Jinping
+568	574	Trumpu	Trump	PER	PER-Donald-Trump
+587	595	Kitajsko	Kitajska	LOC	GPE-China
+599	605	Mehiko	Mehika	LOC	GPE-Mexico
+653	660	Nemčiji	Nemčija	LOC	GPE-Germany
+689	702	Angele Merkel	Angela Merkel	PER	PER-Angela-Merkel
+730	743	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+835	850	Bližnjem vzhodu	Bližnji vzhod	LOC	LOC-Middle-East
+872	876	Iran	Iran	LOC	GPE-Iran
+942	959	Perzijskem zalivu	Perzijski zaliv	LOC	LOC-Persian-Gulf
+968	975	Teheran	Teheran	LOC	GPE-Tehran
+1002	1005	ZDA	ZDA	LOC	GPE-USA
+1349	1357	Trumpovo	Trump	PER	PER-Donald-Trump
+1370	1377	Kitajci	Kitajci	PER	GPE-China
+1995	1998	FED	FED	ORG	ORG-Fed
+2073	2082	Trumpovih	Trump	PER	PER-Donald-Trump

@@ -1,0 +1,92 @@
+19	22	USA	USA	LOC	GPE-USA
+25	34	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+47	50	США	США	LOC	GPE-USA
+105	124	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+257	285	Институт Коллегии выборщиков	Институт Коллегии выборщиков	ORG	ORG-Electoral-College
+287	304	Electoral College	Electoral College	ORG	ORG-Electoral-College
+319	322	США	США	LOC	GPE-USA
+386	389	США	США	LOC	GPE-USA
+536	542	Европы	Европа	LOC	LOC-Europe
+572	583	американцев	американцы	LOC	GPE-USA
+889	892	США	США	LOC	GPE-USA
+903	921	Джорджа Вашингтона	Джордж Вашингтон	PER	PER-George-Washington
+1076	1079	США	США	LOC	GPE-USA
+1374	1393	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1413	1416	США	США	LOC	GPE-USA
+1638	1646	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+1649	1658	Вирджиния	Вирджиния	LOC	GPE-Virginia
+1766	1769	США	США	LOC	GPE-USA
+1819	1838	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1945	1956	Европейским	Европейский	LOC	LOC-Europe
+2019	2044	Священной Римской империи	Священная Римская империя	LOC	GPE-Holy-Roman-Empire
+2084	2102	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+2321	2330	Финляндии	Финляндия	LOC	GPE-Finland
+2366	2379	Римского Папы	Римский Папа	PER	PER-Pope
+2394	2413	коллегия кардиналов	коллегия кардиналов	ORG	ORG-College-of-Cardinals
+2447	2450	США	США	LOC	GPE-USA
+2452	2471	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2598	2613	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+2622	2630	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+2829	2837	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+3222	3237	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+3240	3264	Республиканской партиями	Республиканская партия	ORG	ORG-Republican-Party-USA
+3767	3770	США	США	LOC	GPE-USA
+3806	3832	президентских выборов 2012	президентские выборы 2012	EVT	EVT-2012-United-States-Presidential-Election
+3834	3838	2016	2016	EVT	EVT-2016-United-States-Presidential-Election
+3841	3851	2020 годов	2020 год	EVT	EVT-2020-United-States-Presidential-Election
+3912	3920	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+4017	4023	Аляска	Аляска	LOC	GPE-Alaska
+4025	4033	Вайоминг	Вайоминг	LOC	GPE-Wyoming
+4035	4042	Монтана	Монтана	LOC	GPE-Montana-US-State
+4044	4059	Северная Дакота	Северная Дакота	LOC	GPE-North-Dakota
+4061	4068	Вермонт	Вермонт	LOC	GPE-Vermont
+4071	4099	Федерального округа Колумбия	Федеральный округ Колумбия	LOC	GPE-District-of-Columbia
+4116	4125	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+4150	4160	Калифорнии	Калифорния	LOC	GPE-California
+4167	4173	Техаса	Техас	LOC	GPE-Texas
+4180	4187	Флориды	Флорида	LOC	GPE-Florida
+4190	4199	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+4238	4250	американских	американский	LOC	GPE-USA
+4300	4308	Вайоминг	Вайоминг	LOC	GPE-Wyoming
+4417	4427	Калифорния	Калифорния	LOC	GPE-California
+4458	4468	Калифорния	Калифорния	LOC	GPE-California
+4482	4490	Коллегию	Коллегия	ORG	ORG-United-States-Electoral-College
+4544	4557	калифорнийцев	калифорниец	LOC	GPE-California
+4611	4620	Вайоминге	Вайоминг	LOC	GPE-Wyoming
+4650	4662	калифорнийца	калифорниец	LOC	GPE-California
+4676	4695	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+4817	4828	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+5039	5051	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+5059	5078	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+5163	5171	Небраска	Небраска	LOC	GPE-Nebraska
+5174	5177	Мэн	Мэн	LOC	GPE-Maine
+5431	5442	Конституция	Конституция	PRO	PRO-The-USA-Constitution
+5474	5477	США	США	LOC	GPE-USA
+5941	5949	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+6022	6043	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+6065	6070	Сенат	Сенат	ORG	ORG-United-States-Senate
+6365	6374	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+6476	6479	США	США	LOC	GPE-USA
+6515	6521	Сената	Сенат	ORG	ORG-United-States-Senate
+6543	6562	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+6868	6878	демократом	демократ	PER	ORG-Democratic-Party-USA
+7009	7020	Белого дома	Белый дом	ORG	ORG-The-White-House
+7088	7109	Джорджу Бушу-младшему	Джордж Буш-младший	PER	PER-George-Bush-Jr
+7127	7134	Флорида	Флорида	LOC	GPE-Florida
+7190	7209	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+7213	7220	Флориды	Флорида	LOC	GPE-Florida
+7235	7239	Бушу	Буш	PER	PER-George-Bush-Jr
+7288	7291	Буш	Буш	PER	PER-George-Bush-Jr
+7402	7410	демократ	демократ	PER	ORG-Democratic-Party-USA
+7411	7417	Эл Гор	Эл Гор	PER	PER-Al-Gore
+7520	7546	президентских выборах 1824	президентские выборы 1824	EVT	EVT-2020-United-States-Presidential-Election
+7548	7552	1876	1876	EVT	EVT-1876-United-States-Presidential-Election
+7555	7565	1888 годов	1888 год	EVT	EVT-1888-United-States-Presidential-Election
+7676	7714	Исследовательской службы Конгресса США	Исследовательская служба Конгресса США	ORG	ORG-United-States-Congressional-Research-Service
+7732	7740	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+7794	7805	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+7935	7938	США	США	LOC	GPE-USA
+8191	8202	американцев	американцы	LOC	GPE-USA
+8286	8294	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+8367	8386	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+8800	8815	Алекс Григорьев	Алекс Григорьев	PER	PER-Алексей-Осин

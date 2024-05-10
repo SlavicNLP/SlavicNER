@@ -1,0 +1,160 @@
+63	69	Трампа	Трамп	PER	PER-Donald-Trump
+74	81	Байдена	Байден	PER	PER-Joe-Biden
+121	127	Байден	Байден	PER	PER-Joe-Biden
+174	179	Трамп	Трамп	PER	PER-Donald-Trump
+190	197	Twitter	Twitter	PRO	PRO-Twitter
+274	281	Америку	Америка	LOC	GPE-USA
+421	428	Байдена	Байден	PER	PER-Joe-Biden
+462	465	CNN	CNN	PRO	PRO-CNN
+470	478	Fox News	Fox News	PRO	PRO-Fox-News
+523	535	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+592	598	Неваде	Невада	LOC	GPE-Nevada
+667	684	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+687	695	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+712	719	Аризона	Аризона	LOC	GPE-Arizona
+841	853	"""За стеклом"""	"""За стеклом"""	PRO	PRO-Behind-the-Glass
+904	912	Мичигане	Мичиган	LOC	GPE-Michigan
+1211	1218	Байдена	Байден	PER	PER-Joe-Biden
+1282	1289	Байдена	Байден	PER	PER-Joe-Biden
+1356	1362	Неваде	Невада	LOC	GPE-Nevada
+1461	1467	Трампа	Трамп	PER	PER-Donald-Trump
+1537	1543	Байден	Байден	PER	PER-Joe-Biden
+1615	1623	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1689	1706	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+1708	1720	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+1722	1729	Аризона	Аризона	LOC	GPE-Arizona
+1819	1824	Трамп	Трамп	PER	PER-Donald-Trump
+1839	1846	Twitter	Twitter	PRO	PRO-Twitter
+1877	1889	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+1936	1944	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+1947	1964	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+1982	1987	Трамп	Трамп	PER	PER-Donald-Trump
+2046	2053	Мичиган	Мичиган	LOC	GPE-Michigan
+2164	2171	Байдена	Байден	PER	PER-Joe-Biden
+2184	2196	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+2198	2208	Висконсине	Висконсин	LOC	GPE-Wisconsin
+2210	2218	Мичигане	Мичиган	LOC	GPE-Michigan
+2275	2282	Twitter	Twitter	PRO	PRO-Twitter
+2301	2307	Трампа	Трамп	PER	PER-Donald-Trump
+2433	2444	Белого дома	Белыйдом	LOC	LOC-White-House
+2455	2465	демократов	демократы	ORG	ORG-Democratic-Party-USA
+2593	2600	Аризоне	Аризона	LOC	GPE-Arizona
+2713	2721	Марикопа	Марикопа	LOC	GPE-Maricopa-County
+2886	2891	Трамп	Трамп	PER	PER-Donald-Trump
+2900	2907	Аризону	Аризона	LOC	GPE-Arizona
+2919	2925	Неваду	Невада	LOC	GPE-Nevada
+2987	2992	Трамп	Трамп	PER	PER-Donald-Trump
+3143	3149	Байден	Байден	PER	PER-Joe-Biden
+3161	3168	Аризоне	Аризона	LOC	GPE-Arizona
+3212	3220	Fox News	Fox News	PRO	PRO-Fox-News
+3221	3226	Трамп	Трамп	PER	PER-Donald-Trump
+3385	3392	Байдена	Байден	PER	PER-Joe-Biden
+3461	3468	Аризону	Аризона	LOC	GPE-Arizona
+3470	3482	Пенсильванию	Пенсильвания	LOC	GPE-Pennsylvania
+3485	3493	Джорджию	Джорджия	LOC	GPE-Georgia-US-state
+3523	3537	Кейли Макинэни	Кейли Макинэни	PER	PER-Kayleigh-McEnany
+3555	3566	Белого дома	Белый дом	ORG	ORG-The-White-House
+3572	3584	Пенсильванию	Пенсильвания	LOC	GPE-Pennsylvania
+3585	3590	Трамп	Трамп	PER	PER-Donald-Trump
+3652	3660	Джулиани	Джулиани	PER	PER-Rudy-Giuliani
+3826	3832	Трампа	Трамп	PER	PER-Donald-Trump
+3891	3895	ОБСЕ	ОБСЕ	ORG	ORG-Organization-for-Security-and-Co-operation-in-Europe
+4003	4012	демократы	демократы	PER	ORG-Democratic-Party-USA
+4068	4084	Рудольф Джулиани	Рудольф Джулиани	PER	PER-Rudolph-Giuliani
+4094	4109	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+4113	4125	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+4155	4160	Трамп	Трамп	PER	PER-Donald-Trump
+4282	4292	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4348	4359	Филадельфии	Филадельфия	LOC	GPE-Philadelphia
+4486	4496	Эрик Трамп	Эрик Трамп	PER	PER-Eric-Trump
+4502	4517	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+4527	4533	Трампа	Трамп	PER	PER-Donald-Trump
+4595	4608	Джаред Кушнер	Джаред Кушнер	PER	PER-Jared-Kushner
+4616	4622	Иванка	Иванка	PER	PER-Ivanka-Trump
+4637	4648	Белого дома	Белый дом	LOC	LOC-White-House
+4744	4749	Трамп	Трамп	PER	PER-Donald-Trump
+4761	4771	Белом доме	Белый дом	LOC	LOC-White-House
+4858	4876	Овального кабинета	Овальный кабинет	LOC	LOC-Oval-Office
+5150	5160	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+5272	5286	Камалой Харрис	Камала Харрис	PER	PER-Kamala-Harris
+5525	5531	Байден	Байден	PER	PER-Joe-Biden
+5870	5880	Висконсине	Висконсин	LOC	GPE-Wisconsin
+5962	5968	Трампа	Трамп	PER	PER-Donald-Trump
+5972	5980	Мичигане	Мичиган	LOC	GPE-Michigan
+6070	6075	Трамп	Трамп	PER	PER-Donald-Trump
+6096	6106	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+6191	6196	Трамп	Трамп	PER	PER-Donald-Trump
+6267	6273	Трампа	Трамп	PER	PER-Donald-Trump
+6290	6296	Байден	Байден	PER	PER-Joe-Biden
+6322	6329	Америку	Америка	LOC	GPE-USA
+6651	6662	американцев	американцы	PER	GPE-USA
+6749	6758	демократы	демократы	ORG	ORG-Democratic-Party-USA
+6792	6804	американский	американский	LOC	GPE-USA
+6963	6974	американцах	американцы	PER	GPE-USA
+7010	7016	Байден	Байден	PER	PER-Joe-Biden
+7139	7146	Америка	Америка	LOC	GPE-USA
+7216	7221	Трамп	Трамп	PER	PER-Donald-Trump
+7283	7293	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+7426	7442	Секретной службы	Секретная службы	ORG	ORG-United-States-Secret-Service
+7497	7504	Байдена	Байден	PER	PER-Joe-Biden
+7526	7529	США	США	LOC	GPE-USA
+7532	7563	Парижское соглашение по климату	Парижское соглашение по климату	PRO	PRO-Paris-Agreement
+7577	7582	Трамп	Трамп	PER	PER-Donald-Trump
+7601	7610	Белый дом	Белый дом	LOC	LOC-White-House
+7611	7618	Байдена	Байден	PER	PER-Joe-Biden
+7679	7689	демократов	демократы	ORG	ORG-Democratic-Party-USA
+7701	7709	The Hill	The Hill	PRO	PRO-The-Hill
+7756	7769	нижней палаты	нижняя палата	ORG	ORG-United-States-House-of-Representatives
+7770	7782	Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+7835	7850	республиканцами	республиканцы	ORG	ORG-Republican-Party-USA
+7883	7895	коронавируса	коронавирус	EVT	EVT-Covid-19
+7924	7930	Пелоси	Пелоси	PER	PER-Nancy-Pelosi
+8099	8105	Пелоси	Пелоси	PER	PER-Nancy-Pelosi
+8135	8149	Хаким Джеффрис	Хаким Джеффрис	PER	PER-Hakeem-Jeffries
+8166	8174	Джеффрис	Джеффрис	PER	PER-Hakeem-Jeffries
+8190	8199	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+8224	8233	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+8269	8280	Брайтон Бич	Брайтон Бич	LOC	LOC-Brighton-Beach
+8308	8316	Джефриса	Джефрис	PER	PER-Hakeem-Jeffries
+8373	8386	Trump Village	Trump Village	LOC	LOC-Trump-Village
+8410	8425	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+8426	8436	Фред Трамп	Фред Трамп	PER	PER-Frederick-Christ-Trump-Sr.
+8506	8513	русское	русский	LOC	GPE-Russia
+8534	8541	Джефрис	Джефрис	PER	PER-Hakeem-Jeffries
+8565	8577	Американский	Американский	LOC	GPE-USA
+8615	8628	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+8657	8667	российским	российский	LOC	GPE-Russia
+8786	8800	Хаким Джеффрис	Хаким Джеффрис	PER	PER-Hakeem-Jeffries
+8815	8864	Демократической фракции Палаты представителей США	Демократическая фракция Палаты представителей США	ORG	ORG-Democratic-Party-USA
+8886	8893	Байдена	Байден	PER	PER-Joe-Biden
+8959	8968	Голливуда	Голливуд	LOC	GPE-Hollywood
+8972	8984	Марк Руффало	Марк Руффало	PER	PER-Mark-Ruffalo
+9009	9014	Халка	Халк	PER	PER-Hulk
+9036	9044	"""Марвел"""	"""Марвел"""	PRO	PRO-Marvel
+9064	9074	демократов	демократы	ORG	ORG-Democratic-Party-USA
+9077	9084	Аризоне	Аризона	LOC	GPE-Arizona
+9096	9106	Роб Райнер	Роб Райнер	PER	Роберт Мюллер
+9127	9155	"""Когда Гарри встретил Салли"""	"""Когда Гарри встретил Салли"""	PRO	PRO-When-Harry-Met-Sally
+9168	9174	Байден	Байден	PER	PER-Joe-Biden
+9208	9213	Рианы	Риана	PER	PER-Rihanna
+9300	9312	американских	американские	LOC	GPE-USA
+9394	9401	BLMщики	BLMщики	PER	ORG-Black-Lives-Matter
+9405	9414	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+9417	9432	Гринвич Вилледж	Гринвич Вилледж	LOC	LOC-Greenwich-Village
+9681	9688	Америке	Америка	LOC	GPE-USA
+9704	9718	Джорджа Флойда	Джордж Флойд	PER	PER-George-Floyd
+9724	9736	Миннеаполисе	Миннеаполис	LOC	GPE-Minneapolis
+9787	9794	Денвере	Дендвер	LOC	GPE-Denver
+9844	9851	Байдена	Байден	PER	PER-Joe-Biden
+9854	9862	Колорадо	Колорадо	LOC	GPE-Colorado
+9936	9942	Сиэтла	Сиэтл	LOC	GPE-Seattle
+9949	9958	Портленда	Портленд	LOC	GPE-Portland
+9960	9997	Подразделения нацгвардии штата Орегон	Подразделения нацгвардии штата Орегон	ORG	ORG-Oregon-National-Guard
+10065	10076	Филадельфия	Филадельфия	LOC	GPE-Philadelphia
+10167	10172	Трамп	Трамп	PER	PER-Donald-Trump
+10309	10319	нацгвардии	нацгвардия	ORG	ORG-United-States-National-Guard
+10332	10338	Бостон	Бостон	LOC	GPE-Boston
+10408	10417	демократы	демократы	ORG	ORG-Democratic-Party-USA
+10487	10501	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+10556	10562	Чикаго	Чикаго	LOC	GPE-Chicago
+10618	10630	башня Трампа	башня Трампа	LOC	LOC-Trump-Tower

@@ -1,0 +1,12 @@
+0	2	ЕК	ЕК	ORG	ORG-European-Commission
+38	50	коронавируса	коронавирус	EVT	EVT-Covid-19
+84	90	Европа	Европа	LOC	LOC-Europe
+135	155	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+228	236	COVID-19	COVID-19	EVT	EVT-Covid-19
+385	398	Хоризонт 2020	Хоризонт 2020	PRO	PRO-Horizon-2020
+472	478	Европа	Европа	LOC	LOC-Europe
+855	869	HG nCoV19 тест	HG nCoV19 тест	PRO	PRO-Program-HGnCoV19
+944	955	коронавирус	коронавирус	EVT	EVT-Covid-19
+981	994	Мария Габриел	Мария Габриел	PER	PER-Mariya-Gabriel
+1067	1075	COVID-19	COVID-19	EVT	EVT-Covid-19
+1122	1132	епидемията	епидемия	EVT	EVT-Epidemic

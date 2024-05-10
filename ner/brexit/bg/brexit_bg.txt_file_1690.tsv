@@ -1,0 +1,22 @@
+0	2	ЕП	ЕП	ORG	ORG-European-Parliament
+35	41	Лондон	Лондон	LOC	GPE-London
+47	54	Брекзит	Брекзит	EVT	EVT-Brexit
+56	78	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+116	130	Великобритания	Великобритания	LOC	GPE-Great-Britain
+214	216	ЕС	ЕС	ORG	ORG-European-Union
+225	239	евродепутатите	евродепутати	PER	ORG-European-Parlament
+462	464	ЕС	ЕС	ORG	ORG-European-Union
+476	496	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+531	533	ЕС	ЕС	ORG	ORG-European-Union
+582	606	Белфасткото споразумение	Белфастко споразумение	PRO	PRO-GFA-Good-Friday-Agreement
+656	668	Момчил Неков	Момчил Неков	PER	PER-Momchil-Nekov
+705	712	Брекзит	Брекзит	EVT	EVT-Brexit
+735	751	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+801	810	българите	българи	PER	GPE-Bulgaria
+939	946	българи	българи	PER	GPE-Bulgaria
+1034	1048	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1051	1059	България	България	LOC	GPE-Bulgaria
+1132	1139	Брекзит	Брекзит	EVT	EVT-Brexit
+1162	1182	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1418	1420	ЕС	ЕС	ORG	ORG-European-Union
+1423	1443	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain

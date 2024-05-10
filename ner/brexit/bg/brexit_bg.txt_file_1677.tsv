@@ -1,0 +1,26 @@
+10	24	евродепутатите	евродепутати	PER	ORG-European-Parlament
+46	53	Брекзит	Брекзит	EVT	EVT-Brexit
+87	94	Брюксел	Брюксел	LOC	GPE-Brussles
+242	256	Великобритания	Великобритания	LOC	GPE-Great-Britain
+284	287	БНТ	БНТ	ORG	ORG-Bulgarian-National-Television
+313	320	Брюксел	Брюксел	LOC	GPE-Brussles
+531	538	Брекзит	Брекзит	EVT	EVT-Brexit
+549	570	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+621	623	ЕК	ЕК	ORG	ORG-European-Commission
+624	638	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+686	707	кохезионната политика	Кохезионна политика	PRO	PRO-Cohesion-Policy
+827	835	България	България	LOC	GPE-Bulgaria
+854	875	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+876	887	Доланд Туск	Доналд Туск	PER	PER-Donald-Tusk
+896	902	Турция	Турция	LOC	GPE-Turkey
+985	990	Кипър	Кипър	LOC	GPE-Cyprus
+993	999	Гърция	Гърция	LOC	GPE-Greece
+1054	1060	Турция	Турция	LOC	GPE-Turkey
+1065	1070	Варна	Варна	LOC	GPE-Varna
+1115	1132	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+1156	1160	Туск	Туск	PER	PER-Donald-Tusk
+1226	1231	Кипър	Кипър	LOC	GPE-Cyprus
+1349	1355	Турция	Турция	LOC	GPE-Turkey
+1555	1561	Турция	Турция	LOC	GPE-Turkey
+1566	1571	Варна	Варна	LOC	GPE-Varna
+1611	1613	ЕП	ЕП	ORG	ORG-European-Parliament

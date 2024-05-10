@@ -1,0 +1,66 @@
+0	19	Американские выборы	Американские выборы	EVT	EVT-2004-United-States-Presidential-Election
+46	49	США	США	LOC	GPE-USA
+56	59	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+83	93	Джон Керри	Джон Керри	PER	PER-John-Kerry
+96	103	Америке	Америка	LOC	GPE-USA
+205	208	CNN	CNN	PRO	PRO-CNN
+234	244	Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+340	352	американский	американский	LOC	GPE-USA
+362	383	Sydney Morning Herald	Sydney Morning Herald	PRO	PRO-Good-Morning-Britain
+398	418	Президентские выборы	Президентские выборы	EVT	EVT-2004-United-States-Presidential-Election
+443	446	США	США	LOC	GPE-USA
+504	509	Zogby	Zogby	ORG	ORG-Zogby
+592	602	Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+614	624	Джон Керри	Джон Керри	PER	PER-John-Kerry
+710	720	Эха Москвы	Эхо Москвы	PRO	PRO-Эхо-Москвы
+724	727	США	США	LOC	GPE-USA
+786	793	выборов	выборы	EVT	EVT-2004-United-States-Presidential-Election
+860	872	Американские	Американские	LOC	GPE-USA
+923	926	ВВС	BBC	PRO	PRO-BBC
+1007	1010	США	США	LOC	GPE-USA
+1193	1210	Вьетнамской войны	Вьетнамская войны	EVT	EVT-Vietnam-War
+1239	1246	выборах	выборы	EVT	EVT-2004-United-States-Presidential-Election
+1296	1305	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+1328	1335	Флориде	Флорида	LOC	GPE-Florida
+1358	1363	Огайо	Огайо	LOC	GPE-Ohio
+1376	1387	американцам	американцы	PER	GPE-USA
+1398	1404	выборы	выборы	EVT	EVT-2004-United-States-Presidential-Election
+1521	1524	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+1616	1623	Флориде	Флорида	LOC	GPE-Florida
+1639	1644	Огайо	Огайо	LOC	GPE-Ohio
+1647	1659	Южной Дакоте	Южная Дакота	LOC	GPE-South-Dakota-US-State
+1908	1912	Буша	Буш	PER	PER-George-Bush-Jr
+1921	1930	Висконсин	Висконсин	LOC	GPE-Wisconsin
+2084	2087	АВС	АВС	PRO	PRO-ABC
+2138	2148	Джон Керри	Джон Керри	PER	PER-John-Kerry
+2175	2186	Массачусетс	Масачузетс	LOC	GPE-Massachusetts
+2211	2217	Сенате	Сенат	ORG	ORG-United-States-Senate
+2305	2324	United Oister House	United Oister House	ORG	LOC-White-House
+2385	2397	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+2401	2411	Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+2455	2461	Техасе	Техас	LOC	GPE-Texas
+2473	2481	Кроуфорд	Кроуфорд	LOC	GPE-Crawford-County
+2510	2513	Буш	Буш	PER	PER-George-Bush-Jr
+2571	2580	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2603	2608	Огайо	Огайо	LOC	GPE-Ohio
+2700	2705	Керри	Керри	PER	PER-John-Kerry
+2716	2721	Огайо	Огайо	LOC	GPE-Ohio
+2780	2788	Грани.Ру	Грани.Ру	PRO	PRO-Grani.Ru
+2790	2809	Американские выборы	Американские выборы	EVT	EVT-2004-United-States-Presidential-Election
+2897	2900	США	США	LOC	GPE-USA
+2915	2925	Джордж Буш	Джордж Буш	PER	PER-George-Bush-Jr
+2928	2938	Джон Керри	Джон Керри	PER	PER-John-Kerry
+3029	3041	американские	американские	LOC	GPE-USA
+3132	3149	Вьетнамской войны	Вьетнамская войны	EVT	EVT-Vietnam-War
+3227	3246	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+3385	3388	США	США	LOC	GPE-USA
+3403	3422	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+3565	3580	округе Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+3595	3604	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+3693	3712	коллегии выборщиков	коллегии выборщиков	ORG	ORG-United-States-Electoral-College
+3739	3748	сенаторов	сенаторы	ORG	ORG-United-States-Senate
+3758	3789	Палаты представителей Конгресса	Палаты представителей Конгресса	ORG	ORG-United-States-House-of-Representatives
+3819	3845	федеральный округ Колумбия	федеральный округ Колумбия	LOC	GPE-District-of-Columbia
+4048	4057	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+4203	4218	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+4310	4321	Джо Локхарт	Джо Локхарт	PER	PER-Joe-Lockhart

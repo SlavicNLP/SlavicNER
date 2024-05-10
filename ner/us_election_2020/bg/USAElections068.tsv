@@ -1,0 +1,36 @@
+0	15	Любомир Топалов	Любомир Топалов	PER	PER-Lyubomir-Topalov
+46	51	Тръмп	Тръмп	PER	PER-Donald-Trump
+114	125	демократите	демократи	PER	ORG-Democratic-Party-USA
+152	162	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+191	203	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+252	259	Америка	Америка	LOC	GPE-USA
+287	302	Хоризонт за вас	Хоризонт за вас	PRO	PRO-Horizont-za-vas
+310	325	Любомир Топалов	Любомир Топалов	PER	PER-Lyubomir-Topalov
+329	351	Бостънския университет	Бостънски университет	ORG	ORG-Boston-University
+354	364	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+388	391	САЩ	САЩ	LOC	GPE-USA
+408	431	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+457	469	Доналд Тръпм	Доналд Тръмп	PER	PER-Donald-Trump
+489	511	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+528	566	президентски избори в Съединените щати	президентски избори в Съединените щати	EVT	EVT-2020-United-States-Presidential-Election
+569	581	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+612	626	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+653	662	Белия дом	Бял дом	LOC	LOC-White-House
+729	732	САЩ	САЩ	LOC	GPE-USA
+812	824	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+843	855	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1076	1090	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+1257	1267	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1292	1307	Любомир Топалов	Любомир Топалов	PER	PER-Lyubomir-Topalov
+1311	1333	Бостънския университет	Бостънски университет	ORG	ORG-Boston-University
+1360	1372	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1418	1428	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1498	1505	Америка	Америка	LOC	GPE-USA
+1511	1534	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+1696	1710	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1843	1854	демократите	демократи	PER	ORG-Democratic-Party-USA
+1904	1916	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1970	1977	Топалов	Топалов	PER	PER-Lyubomir-Topalov
+1987	1994	Топалов	Топалов	PER	PER-Lyubomir-Topalov
+2028	2033	Тръмп	Тръмп	PER	PER-Donald-Trump
+2256	2267	демократите	демократи	PER	ORG-Democratic-Party-USA

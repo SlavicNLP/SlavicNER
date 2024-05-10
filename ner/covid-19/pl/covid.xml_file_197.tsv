@@ -1,0 +1,11 @@
+10	18	Poznania	Poznań	LOC	GPE-Poznań
+144	156	szpitalu WUM	szpital WUM	LOC	LOC-Medical-Hospital-Warsaw-Medical-University
+192	204	koronawirusa	koronawirus	EVT	EVT-Covid-19
+315	323	Poznania	Poznań	LOC	GPE-Poznań
+324	339	Jacek Jaśkowiak	Jacek Jaśkowiak	PER	PER-Jacek-Jaśkowiak
+533	541	COVID-19	COVID-19	EVT	EVT-Covid-19
+564	578	Krystyna Janda	Krystyna Janda	PER	PER-Krystyna-Janda
+580	595	Andrzej Seweryn	Andrzej Seweryn	PER	PER-Andrzej-Seweryn
+598	611	Leszek Miller	Leszek Miller	PER	PER-Leszek-Miller
+623	649	Narodowy Program Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+808	815	Polaków	Polacy	PER	GPE-Poland

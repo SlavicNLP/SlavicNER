@@ -1,0 +1,40 @@
+14	25	демократите	демократи	PER	ORG-Democratic-Party-USA
+60	72	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+146	165	Станислава Цветкова	Станислава Цветкова	PER	PER-Stanislava-Tsvetkova
+167	194	Избирателната колегия в САЩ	Избирателна колегия в САЩ	ORG	ORG-United-States-Electoral-College
+216	226	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+267	278	демократите	демократи	PER	ORG-Democratic-Party-USA
+313	325	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+377	386	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+433	447	окръг Колумбия	окръг Колумбия	LOC	GPE-District-of-Columbia
+579	584	Тръмп	Тръмп	PER	PER-Donald-Trump
+656	677	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+701	710	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+765	773	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+808	818	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+973	985	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1109	1121	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1170	1176	Байдън	Байдън	PER	PER-Joe-Biden
+1189	1194	Тръмп	Тръмп	PER	PER-Donald-Trump
+1358	1364	Байдън	Байдън	PER	PER-Joe-Biden
+1529	1539	американци	американци	PER	GPE-USA
+1646	1672	пандемията на коронавируса	пандемия на коронавирус	EVT	EVT-Pandemic
+1712	1721	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1737	1743	Байдън	Байдън	PER	PER-Joe-Biden
+1769	1781	коронавируса	коронавирус	EVT	EVT-Covid-19
+1842	1850	Covid-19	COVID-19	EVT	EVT-Covid-19
+1878	1881	САЩ	САЩ	LOC	GPE-USA
+1942	1947	Тръмп	Тръмп	PER	PER-Donald-Trump
+2051	2072	избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+2085	2092	Twitter	Twitter	PRO	PRO-Twitter
+2125	2134	Уилям Бар	Уилям Бар	PER	PER-William-Barr
+2147	2150	Бар	Бар	PER	PER-William-Barr
+2188	2200	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2258	2288	Министерството на правосъдието	Министерство на правосъдието	ORG	ORG-United-States-Department-of-Justice
+2386	2389	САЩ	САЩ	LOC	GPE-USA
+2399	2405	Байдън	Байдън	PER	PER-Joe-Biden
+2440	2445	Тръмп	Тръмп	PER	PER-Donald-Trump
+2491	2499	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2551	2559	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2594	2607	Сената на САЩ	Сенат на САЩ	ORG	ORG-United-States-Senate
+2701	2709	камарата	Камара	ORG	ORG-United-States-Senate

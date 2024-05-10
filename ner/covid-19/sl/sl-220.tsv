@@ -1,0 +1,58 @@
+0	6	Better	Better	PRO	PRO-Better-Platform
+45	53	COVID-19	COVID-19	EVT	EVT-Covid-19
+56	63	Nemčiji	Nemčija	LOC	GPE-Germany
+65	82	HiGHmed konzorcij	HiGHmed konzorcij	ORG	ORG-HiGHmed-Consortium
+86	93	Nemčije	Nemčija	LOC	GPE-Germany
+111	117	Better	Better	PRO	PRO-Better-Platform
+180	188	COVID-19	COVID-19	EVT	EVT-Covid-19
+287	293	Better	Better	PRO	PRO-Better-Platform
+333	341	COVID-19	COVID-19	EVT	EVT-Covid-19
+343	360	Konzorcij HiGHmed	konzorcij HiGHmed	ORG	ORG-HiGHmed-Consortium
+417	424	Charité	Charité	LOC	ORG-Charité
+427	434	Berlinu	Berlin	LOC	GPE-Berlin
+526	534	Newsweek	Newsweek	PRO	PRO-Newsweek
+818	836	HiGHmed konzorciju	HiGHmed konzorcij	ORG	ORG-HiGHmed-Consortium
+891	898	Nemčiji	Nemčija	LOC	GPE-Germany
+915	925	Heidelberg	Heidelberg	LOC	ORG-Heidelberg-University-Hospital
+927	934	Charité	Charité	LOC	ORG-Charité
+936	945	Göttingen	Göttingen	LOC	ORG-University-Medical-Center-Göttingen
+949	957	Hannover	Hannover	LOC	ORG-University-Hospital-of-Hannover
+978	994	Better platformo	Better platforma	PRO	PRO-Better-Platform
+1048	1056	COVID-19	COVID-19	EVT	EVT-Covid-19
+1059	1072	Stefan Becker	Stefan Becker	PER	PER-Stefan-Becker
+1098	1107	HiGHmed-u	HiGHmed	ORG	ORG-HiGHmed-Consortium
+1122	1138	Better platformo	Better platforma	PRO	PRO-Better-Platform
+1179	1184	SmICS	SmICS	PRO	PRO-Smart-Infection-Control-System
+1186	1216	Smart Infection Control System	Smart Infection Control System	PRO	PRO-Smart-Infection-Control-System
+1284	1291	Nemčiji	Nemčija	LOC	GPE-Germany
+1358	1366	COVID-19	COVID-19	EVT	EVT-Covid-19
+1508	1516	COVID-19	COVID-19	EVT	EVT-Covid-19
+1531	1547	Better platformi	Better platforma	PRO	PRO-Better-Platform
+1591	1598	openEHR	openEHR	PRO	ORG-OpenEHR
+1707	1714	OpenEHR	OpenEHR	ORG	ORG-OpenEHR
+1735	1741	Better	Better	ORG	ORG-Better
+1836	1844	COVID-19	COVID-19	EVT	EVT-Covid-19
+1985	1991	Better	Better	PRO	ORG-OpenEHR
+2193	2211	HiGHmed konzorcija	HiGHmed konzorcij	ORG	ORG-HiGHmed-Consortium
+2222	2238	Better platforme	Better platforma	PRO	PRO-Better-Platform
+2469	2499	Smart Infection Control System	Smart Infection Control System	PRO	PRO-Smart-Infection-Control-System
+2542	2550	COVID-19	COVID-19	EVT	EVT-Covid-19
+2553	2565	Tomaž Gornik	Tomaž Gornik	PER	PER-Tomaž-Gornik
+2590	2596	Better	Better	ORG	ORG-Better
+2603	2606	STA	STA	ORG	ORG-Slovenian-Press-Agency
+2677	2683	Better	Better	ORG	ORG-Better
+2700	2709	COVIDa-19	COVID-19	EVT	EVT-Covid-19
+2717	2735	HiGHmed konzorcija	HiGHmed konzorcij	ORG	ORG-HiGHmed-Consortium
+2740	2762	bolnišnica v Calgariju	bolnišnica v Calgariju	LOC	ORG-Cagliari-University-Hospital
+2766	2775	Sardiniji	Sardinija	LOC	GPE-Sardinia
+2779	2785	Moskvi	Moskva	LOC	GPE-Moscow
+2862	2870	Franciji	Francija	LOC	GPE-France
+2886	2898	Strasbourg-u	Strasbourg	LOC	GPE-Strasbourg
+2926	2935	CapGemini	CapGemini	ORG	ORG-Capgemini
+2939	2954	Dassault system	Dassault system	ORG	ORG-Dassault-system
+2991	2999	COVID 19	COVID-19	EVT	EVT-Covid-19
+3009	3017	GrandEst	GrandEst	LOC	LOC-GrandEst
+3048	3067	bolnišnici Somerset	bolnišnica Somerset	LOC	ORG-Somerset-Hospital
+3245	3253	COVID-19	COVID-19	EVT	EVT-Covid-19
+3292	3300	HiGHmedu	HiGHmed	ORG	ORG-HiGHmed-Consortium
+3401	3409	COVID-19	COVID-19	EVT	EVT-Covid-19

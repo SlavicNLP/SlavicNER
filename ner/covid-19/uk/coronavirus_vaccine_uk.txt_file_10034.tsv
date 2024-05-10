@@ -1,0 +1,25 @@
+29	41	коронавірусу	коронавірус	EVT	EVT-Covid-19
+77	87	Словаччині	Словаччина	LOC	GPE-Slovakia
+131	137	Pfizer	Pfizer	ORG	ORG-Pfizer
+138	146	BioNTech	BioNTech	ORG	ORG-BioNTech
+238	258	Магдалена Юркемікова	Магдалена Юркемікова	PER	PER-Magdalena-Yurkemikova
+398	406	Норвегії	Норвегія	LOC	GPE-Norway
+408	417	Німеччині	Німеччина	LOC	GPE-Germany
+465	476	Юркемікової	Юркемікова	PER	PER-Magdalena-Yurkemikova
+580	590	РІА Новини	РІА Новини	PRO	PRO-RIA-Novosti
+853	865	коронавірусу	коронавірус	EVT	EVT-Covid-19
+906	909	США	США	LOC	GPE-USA
+928	940	коронавірусу	коронавірус	EVT	EVT-Covid-19
+941	947	Pfizer	Pfizer	ORG	ORG-Pfizer
+950	957	Moderna	Moderna	ORG	ORG-Moderna
+1080	1087	Ізраїлі	Ізраїль	LOC	GPE-Israel
+1107	1119	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1135	1138	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+1172	1190	Північного Ізраїлю	Північний Ізраїль	LOC	GPE-Israel
+1273	1279	Pfizer	Pfizer	ORG	ORG-Pfizer
+1286	1296	Португалії	Португалія	LOC	GPE-Portugal
+1352	1360	COVID-19	COVID-19	EVT	EVT-Covid-19
+1382	1388	Pfizer	Pfizer	ORG	ORG-Pfizer
+1391	1399	BioNTech	BioNTech	ORG	ORG-BioNTech
+1593	1605	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1628	1640	коронавіруса	коронавірус	EVT	EVT-Covid-19

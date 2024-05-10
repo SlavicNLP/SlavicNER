@@ -1,0 +1,20 @@
+2	5	ФРГ	ФРГ	LOC	GPE-Germany
+34	37	США	США	LOC	GPE-USA
+44	66	«Северного потока — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+74	86	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+87	97	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+201	221	«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+327	333	Европе	Европа	LOC	LOC-Europe
+342	345	США	США	LOC	GPE-USA
+356	360	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+400	440	Восточного комитета германской экономики	Восточный комитет германской экономики	ORG	ORG-Committee-on-Eastern-European-Economic-Relations
+442	446	Маас	Маас	PER	PER-Heiko-Maas
+460	468	Германия	Германия	LOC	GPE-Germany
+506	522	Северный поток 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+613	631	Северного потока 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+689	701	Майку Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+739	753	Ричард Гренелл	Ричард Гренелл	PER	PER-Richard-Grenell
+755	773	Северного потока 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+790	800	бундестаге	бундестаг	ORG	ORG-Bundestag
+847	853	Европы	Европа	LOC	LOC-Europe
+857	863	России	Россия	LOC	GPE-Russia

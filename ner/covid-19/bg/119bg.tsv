@@ -1,0 +1,13 @@
+0	3	СЗО	СЗО	ORG	ORG-WHO
+34	46	коронавируса	коронавирус	EVT	EVT-Covid-19
+249	257	Covid-19	COVID-19	EVT	EVT-Covid-19
+325	361	Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+429	441	коронавируса	коронавирус	EVT	EVT-Covid-19
+749	755	Женева	Женева	LOC	GPE-Geneva
+756	759	СЗО	СЗО	ORG	ORG-WHO
+967	977	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1199	1209	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1516	1519	СЗО	СЗО	ORG	ORG-WHO
+1935	1938	СЗО	СЗО	ORG	ORG-WHO
+2307	2317	Ед Бастиан	Ед Бастиан	PER	PER-Ed-Bastian
+2346	2360	Delta Airlines	Delta Airlines	ORG	ORG-Delta-Airlines

@@ -1,0 +1,59 @@
+23	31	COVID-19	COVID-19	EVT	EVT-Covid-19
+64	83	В Иркутской области	Иркутская область	LOC	GPE-Irkutsk-region
+99	105	России	Россия	LOC	GPE-Russia
+139	151	коронавируса	коронавирус	EVT	EVT-Covid-19
+446	461	«Гам-КОВИД-Вак»	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+477	488	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+979	987	COVID-19	COVID-19	EVT	EVT-Covid-19
+991	999	Иркутске	Иркутск	LOC	GPE-Irkutsk-region
+1006	1018	больницы № 3	больница №3	LOC	GPE-Irkutsk-City-Clinical-Hospital-No.3
+1024	1040	поликлиника № 17	поликлиника №17	LOC	GPE-Irkutsk-City-Polyclinic-No.17
+1068	1076	Иркутске	Иркутск	LOC	GPE-Irkutsk-region
+1113	1121	МСЧ ИАПО	МСЧ ИАПО	ORG	ORG-Ministry-of-Emergency-Situatuons
+1123	1139	поликлиника № 11	поликлиника №11	LOC	GPE-Irkutsk-City-Polyclinic-No.11
+1141	1153	больницы № 9	больница №9	LOC	GPE-Irkutsk-City-Clinical-Hospital-No.9
+1336	1348	коронавируса	коронавирус	EVT	EVT-Covid-19
+1364	1372	Ангарске	Ангарск	LOC	GPE-Angarsk
+1374	1382	Шелехове	Шелехов	LOC	GPE-Shelekhov
+1384	1391	Братске	Братск	LOC	GPE-Bratsk
+1393	1400	Тайшете	Тайшет	LOC	GPE-Tayshet
+1402	1409	Бодайбо	Бодайбо	LOC	GPE-Bodaybo
+1411	1417	Бохане	Бохан	LOC	GPE-Bokhan
+1419	1428	Усть-Куте	Усть-Кут	LOC	GPE-Ust-Cut
+1430	1436	Тулуне	Тулун	LOC	GPE-Tulun
+1438	1445	Куйтуне	Куйтун	LOC	GPE-Kuytun
+1448	1460	Усть-Илимске	Усть-Илимск	LOC	GPE-Ust-Ilimsk
+1480	1497	Иркутской области	Иркутская область	LOC	GPE-Irkutsk-region
+1545	1553	COVID-19	COVID-19	EVT	EVT-Covid-19
+1556	1563	Тайшете	Тайшет	LOC	GPE-Tayshet
+1565	1577	Нижнеудинске	Нижнеудинск	LOC	GPE-Nizhneudinsk
+1588	1602	Усть-Ордынский	Усть-Ордынский	LOC	GPE-Ust-Ordynsky
+1687	1695	COVID-19	COVID-19	EVT	EVT-Covid-19
+1747	1756	Госуслуги	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+1788	1799	кврачу38.рф	кврачу38.рф	PRO	PRO-Kvrachu38
+1954	1963	минздрава	минздрав	ORG	ORG-Ministry-of-Health-Russia
+2918	2929	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+3409	3415	ковида	ковид	EVT	EVT-Covid-19
+3525	3533	COVID-19	COVID-19	EVT	EVT-Covid-19
+3923	3941	стопкоронавирус.рф	стопкоронавирус.рф	PRO	PRO-Stop-Coronavirus
+3951	3966	«Гам-КОВИД-Вак»	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+3983	3994	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+4660	4662	РФ	РФ	LOC	GPE-Russia
+4766	4773	ковидом	ковид	EVT	EVT-Covid-19
+4870	4879	минздрава	минздрав	ORG	ORG-Ministry-of-Health-Russia
+4880	4895	Якова Сандакова	Яков Сандаков	PER	PER-Yakov-Sandakov
+4910	4924	коронавирусная	коронавирус	EVT	EVT-Covid-19
+5048	5050	РФ	РФ	LOC	GPE-Russia
+5051	5067	Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+5090	5098	COVID-19	COVID-19	EVT	EVT-Covid-19
+5457	5463	ковида	ковид	EVT	EVT-Covid-19
+5553	5565	коронавируса	коронавирус	EVT	EVT-Covid-19
+5602	5611	минздрава	минздрав	ORG	ORG-Ministry-of-Health-Russia
+5612	5629	Иркутской области	Иркутская область	LOC	GPE-Irkutsk-Region
+5656	5673	Иркутской области	Иркутская область	LOC	GPE-Irkutsk-Region
+6041	6052	«Спутник-V»	Спутник-V	PRO	PRO-Sputnik-V
+6291	6303	коронавирусу	коронавирус	EVT	EVT-Covid-19
+6353	6361	COVID-19	COVID-19	EVT	EVT-Covid-19
+6563	6569	России	Россия	LOC	GPE-Russia
+6668	6680	коронавирусу	коронавирус	EVT	EVT-Covid-19
+6699	6705	IRK.ru	IRK.ru	PRO	PRO-IRK

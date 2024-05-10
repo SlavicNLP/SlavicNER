@@ -1,0 +1,35 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+44	49	Biden	Biden	PER	PER-Joe-Biden
+186	205	zvezne policije FBI	zvezna policija FBI	ORG	ORG-FBI
+358	363	Trump	Trump	PER	PER-Donald-Trump
+428	431	GSA	GSA	ORG	ORG-General-Services-Administration
+432	444	Emily Murphy	Emily Murphy	PER	PER-Emily-Murphy
+689	694	Bidnu	Biden	PER	PER-Joe-Biden
+750	759	Michigana	Michigan	LOC	GPE-Michigan
+769	776	Bidnovo	Biden	PER	PER-Joe-Biden
+799	807	Trumpova	Trump	PER	PER-Donald-Trump
+869	874	Bidna	Biden	PER	PER-Joe-Biden
+901	907	Nevada	Nevada	LOC	GPE-Nevada
+968	977	Michigana	Michigan	LOC	GPE-Michigan
+1015	1022	Bidnovo	Biden	PER	PER-Joe-Biden
+1041	1048	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1116	1124	Turmpove	Trump	PER	PER-Donald-Trump
+1136	1141	Trump	Trump	PER	PER-Donald-Trump
+1270	1275	Emily	Emily	PER	PER-Emily-Murphy
+1374	1379	Trump	Trump	PER	PER-Donald-Trump
+1417	1426	Michiganu	Michigan	LOC	GPE-Michigan
+1452	1465	republikancev	republikanci	PER	ORG-Republican-Party-USA
+1530	1541	Tennesseeja	Tennessee	LOC	GPE-Tennessee
+1542	1557	Lamar Alexander	Lamar Alexander	PER	PER-Lamar-Alexander
+1612	1616	Ohia	Ohio	LOC	GPE-Ohio
+1617	1628	Rob Portman	Rob Portman	PER	PER-Rob-Portman
+1674	1685	Mitt Romney	Mitt Romney	PER	PER-Mitt-Romney
+1689	1694	Utaha	Utah	LOC	GPE-Utah
+1696	1710	Lisa Murkowski	Lisa Murkowski	PER	PER-Lisa-Murkowski
+1714	1721	Aljaske	Aljaska	LOC	GPE-Alaska
+1723	1732	Ben Sasse	Ben Sasse	PER	PER-Ben-Sasse
+1736	1744	Nebraske	Nebraska	LOC	GPE-Nebraska
+1746	1766	Shelley Moore Capito	Shelley Moore Capito	PER	PER-Shelley-Moore-Capito
+1770	1787	Zahodne Virginije	Zahodna Virginija	LOC	GPE-West-Virginia
+1791	1804	Susan Collins	Susan Collins	PER	PER-Susan-Collins
+1808	1813	Maina	Maine	LOC	GPE-Maine

@@ -1,0 +1,20 @@
+0	17	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+19	29	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+51	58	Брекзит	Брекзит	EVT	EVT-Brexit
+75	81	Лондон	Лондон	LOC	GPE-London
+109	123	Великобритания	Великобритания	LOC	GPE-Great-Britain
+124	134	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+156	163	Брекзит	Брекзит	EVT	EVT-Brexit
+231	251	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+282	304	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+396	413	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+414	424	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+488	502	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+600	622	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+756	771	Иън Дънкан Смит	Иън Дънкан Смит	PER	PER-Iain-Duncan-Smith
+938	945	Брекзит	Брекзит	EVT	EVT-Brexit
+1256	1260	Смит	Смит	PER	PER-Iain-Duncan-Smith
+1262	1278	Джейкъб Рийс-Мог	Джейкъб Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+1346	1353	Брекзит	Брекзит	EVT	EVT-Brexit
+1464	1478	Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev
+1618	1647	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

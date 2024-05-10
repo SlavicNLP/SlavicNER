@@ -1,0 +1,40 @@
+0	2	UE	UE	ORG	ORG-European-Union
+26	28	UE	UE	ORG	ORG-European-Union
+55	62	Brexitu	Brexit	EVT	EVT-Brexit
+87	98	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+101	103	UE	UE	ORG	ORG-European-Union
+200	208	Brukseli	Bruksela	LOC	GPE-Brussles
+231	238	Brexitu	Brexit	EVT	EVT-Brexit
+239	253	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+321	323	UE	UE	ORG	ORG-European-Union
+366	373	Barnier	Barnier	PER	PER-Michel-Barnier
+443	445	27	27	ORG	ORG-European-Union
+986	994	Irlandią	Irlandia	LOC	GPE-Ireland
+997	1014	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+1232	1239	Barnier	Barnier	PER	PER-Michel-Barnier
+1271	1273	UE	UE	ORG	ORG-European-Union
+1388	1405	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1408	1410	UE	UE	ORG	ORG-European-Union
+1562	1564	UE	UE	ORG	ORG-European-Union
+1648	1650	UE	UE	ORG	ORG-European-Union
+1744	1755	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1758	1760	UE	UE	ORG	ORG-European-Union
+1816	1824	Brukseli	Bruksela	LOC	GPE-Brussles
+1911	1918	Brexitu	Brexit	EVT	EVT-Brexit
+1921	1944	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+1971	1988	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1989	2000	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+2068	2070	UE	UE	ORG	ORG-European-Union
+2175	2177	UE	UE	ORG	ORG-European-Union
+2316	2320	Tusk	Tusk	PER	PER-Donald-Tusk
+2611	2618	Brexitu	Brexit	EVT	EVT-Brexit
+2665	2680	kanał La Manche	Kanał La Manche	LOC	LOC-English-Channel
+2707	2710	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2805	2818	Europejczyków	Europejczycy	PER	LOC-Europe
+2836	2853	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+2932	2943	Theresy May	Theresa May	PER	PER-Theresa-May
+3000	3008	Irlandią	Irlandia	LOC	GPE-Ireland
+3011	3024	Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+3081	3089	Brukseli	Bruksela	LOC	GPE-Brussles
+3090	3105	Grzegorz Paluch	Grzegorz Paluch	PER	PER-Grzegorz-Paluch
+3107	3110	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

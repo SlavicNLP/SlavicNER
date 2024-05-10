@@ -1,0 +1,36 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+35	42	Брекзит	Брекзит	EVT	EVT-Brexit
+46	60	Великобритания	Великобритания	LOC	GPE-Great-Britain
+79	86	Брекзит	Брекзит	EVT	EVT-Brexit
+173	193	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+194	208	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+235	237	ЕС	ЕС	ORG	ORG-European-Union
+350	357	Гардиън	Гардиън	PRO	PRO-The-Guardian
+360	365	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+379	386	Брюксел	Брюксел	LOC	GPE-Brussles
+469	479	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+575	582	Брюксел	Брюксел	LOC	GPE-Brussles
+719	722	Мей	Мей	PER	PER-Theresa-May
+971	973	ЕС	ЕС	ORG	ORG-European-Union
+1149	1157	Ирландия	Ирландия	LOC	GPE-Ireland
+1441	1446	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1464	1466	ЕС	ЕС	ORG	ORG-European-Union
+1611	1625	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1637	1639	ЕС	ЕС	ORG	ORG-European-Union
+1731	1740	Марк Рюте	Марк Рюте	PER	PER-Mark-Rutte
+1821	1828	Брекзит	Брекзит	EVT	EVT-Brexit
+1914	1920	Лондон	Лондон	LOC	GPE-London
+1941	1943	ЕС	ЕС	ORG	ORG-European-Union
+1962	1965	Мей	Мей	PER	PER-Theresa-May
+2075	2081	Лондон	Лондон	LOC	GPE-London
+2106	2113	Брюксел	Брюксел	LOC	GPE-Brussles
+2117	2124	Брекзит	Брекзит	EVT	EVT-Brexit
+2137	2145	Ирландия	Ирландия	LOC	GPE-Ireland
+2146	2158	Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+2188	2202	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2281	2287	Лондон	Лондон	LOC	GPE-London
+2468	2482	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2509	2511	ЕС	ЕС	ORG	ORG-European-Union
+2514	2528	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2586	2588	ЕС	ЕС	ORG	ORG-European-Union
+2631	2645	Великобритания	Великобритания	LOC	GPE-Great-Britain

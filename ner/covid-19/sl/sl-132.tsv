@@ -1,0 +1,18 @@
+10	18	covid-19	covid-19	EVT	EVT-Covid-19
+83	92	Sloveniji	Slovenija	LOC	GPE-Slovenia
+397	416	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+420	427	Italiji	Italija	LOC	GPE-Italy
+445	453	covid-19	covid-19	EVT	EVT-Covid-19
+827	861	zveze društev diabetikov Slovenije	zveza društev diabetikov Slovenije	ORG	ORG-Zveza-društev-diabetikov-Slovenije
+862	876	Robert Gratton	Robert Gratton	PER	PER-Robert-Gratton
+1141	1148	Gratton	Gratton	PER	PER-Robert-Gratton
+1436	1465	zdravniške zbornice Slovenije	zdravniška zbornica Slovenije	ORG	ORG-Zdravniška-zbornica-Slovenije
+1466	1488	Zdenka Čebašek-Travnik	Zdenka Čebašek-Travnik	PER	PER-Zdenka-Čebašek-Travnik
+1930	1959	zdravniške zbornice Slovenije	zdravniška zbornica Slovenije	ORG	ORG-Zdravniška-zbornica-Slovenije
+2146	2165	Zdravniška zbornica	zdravniška zbornica	ORG	ORG-Zdravniška-zbornica-Slovenije
+2603	2617	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+3547	3581	zveze društev diabetikov Slovenije	zveza društev diabetikov Slovenije	ORG	ORG-Zveza-društev-diabetikov-Slovenije
+3582	3594	Alojz Rudolf	Alojz Rudolf	PER	PER-Alojz-Rudolf
+3647	3700	Mednarodne zveze oseb s sladkorno boleznijo za Evropo	Mednarodna zveza oseb s sladkorno boleznijo za Evropo	ORG	ORG-IDF-Europe
+3702	3712	IDF Europe	IDF Europe	ORG	ORG-IDF-Europe
+4103	4111	covid-19	covid-19	EVT	EVT-Covid-19

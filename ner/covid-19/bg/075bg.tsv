@@ -1,0 +1,35 @@
+0	8	България	България	LOC	GPE-Bulgaria
+47	55	Covid-19	COVID-19	EVT	EVT-Covid-19
+175	186	коронавирус	коронавирус	EVT	EVT-Covid-19
+539	550	коронавирус	коронавирус	EVT	EVT-Covid-19
+553	561	България	България	LOC	GPE-Bulgaria
+602	611	PCR теста	PCR тест	PRO	PRO-PCR-Test
+1139	1175	Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+1247	1258	коронавирус	коронавирус	EVT	EVT-Covid-19
+1292	1296	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+1310	1313	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+1643	1646	СЗО	СЗО	ORG	ORG-WHO
+1660	1664	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+1668	1671	САЩ	САЩ	LOC	GPE-USA
+1813	1820	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1852	1860	Бразилия	Бразилия	LOC	GPE-Brazil
+1965	1977	коронавируса	коронавирус	EVT	EVT-Covid-19
+1980	1988	Бразилия	Бразилия	LOC	GPE-Brazil
+2178	2192	Рио де Жанейро	Рио де Жанейро	LOC	GPE-Rio-de-Janeiro
+2272	2284	коронавируса	коронавирус	EVT	EVT-Covid-19
+2294	2297	ДПА	ДПА	ORG	ORG-DPA
+2388	2403	Марсело Кривела	Марсело Кривела	PER	PER-Marcelo-Crivella
+2419	2433	Рио де Жанейро	Рио де Жанейро	LOC	GPE-Rio-de-Janeiro
+2527	2530	DPA	DPA	ORG	ORG-DPA
+2559	2567	Covid-19	COVID-19	EVT	EVT-Covid-19
+2594	2601	Франция	Франция	LOC	GPE-France
+2661	2668	Ройтерс	Ройтерс	ORG	ORG-Reuters
+2720	2731	коронавирус	коронавирус	EVT	EVT-Covid-19
+2963	2974	коронавирус	коронавирус	EVT	EVT-Covid-19
+2979	2986	Франция	Франция	LOC	GPE-France
+3088	3095	Ройтерс	Ройтерс	ORG	ORG-Reuters
+3098	3112	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3145	3153	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+3261	3267	Европа	Европа	LOC	LOC-Europe
+3448	3459	коронавирус	коронавирус	EVT	EVT-Covid-19
+3464	3478	Великобритания	Великобритания	LOC	GPE-Great-Britain

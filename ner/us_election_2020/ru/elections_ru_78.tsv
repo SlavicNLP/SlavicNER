@@ -1,0 +1,84 @@
+0	8	Демократ	демократ	PER	ORG-Democratic-Party-USA
+45	50	Трамп	Трамп	PER	PER-Donald-Trump
+134	141	Байдена	Байден	PER	PER-Joe-Biden
+157	160	США	США	LOC	GPE-USA
+210	229	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+484	506	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+531	544	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+683	690	Мичиган	Мичиган	LOC	GPE-Michigan
+692	700	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+702	709	Аризона	Аризона	LOC	GPE-Arizona
+711	723	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+745	752	Байдена	Байден	PER	PER-Joe-Biden
+780	793	республиканца	республиканец	PER	ORG-Republican-Party-USA
+794	809	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1021	1034	Конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+1060	1071	Инаугурация	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+1105	1111	Байден	Байден	PER	PER-Joe-Biden
+1240	1246	Байден	Байден	PER	PER-Joe-Biden
+1294	1302	Демократ	демократ	PER	ORG-Democratic-Party-USA
+1381	1386	Трамп	Трамп	PER	PER-Donald-Trump
+1414	1417	США	США	LOC	GPE-USA
+1418	1429	Майкл] Пенс	Майкл Пенс	PER	PER-Mike-Pence
+1486	1492	Байден	Байден	PER	PER-Joe-Biden
+1529	1542	республиканец	республиканец	PER	ORG-Republican-Party-USA
+1694	1701	Америки	Америка	LOC	GPE-USA
+1802	1809	Байдена	Байден	PER	PER-Joe-Biden
+1852	1860	Демократ	демократ	PER	ORG-Democratic-Party-USA
+2025	2037	коронавируса	коронавирус	EVT	EVT-Covid-19
+2094	2107	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2138	2145	Байдена	Байден	PER	PER-Joe-Biden
+2250	2262	коронавируса	коронавирус	EVT	EVT-Covid-19
+2327	2335	демократ	демократ	PER	ORG-Democratic-Party-USA
+2515	2526	американцам	американцы	PER	GPE-USA
+2534	2539	Трамп	Трамп	PER	PER-Donald-Trump
+2649	2662	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2695	2706	Белого дома	Белый дом	ORG	ORG-The-White-House
+2707	2721	Кейли Макинэни	Кейли Макинэни	PER	PER-Kayleigh-McEnany
+2812	2819	Twitter	Twitter	PRO	PRO-Twitter
+3008	3014	Байден	Байден	PER	PER-Joe-Biden
+3076	3079	CNN	CNN	PRO	PRO-CNN
+3099	3104	Трамп	Трамп	PER	PER-Donald-Trump
+3314	3326	американской	американская	LOC	GPE-USA
+3363	3369	Байден	Байден	PER	PER-Joe-Biden
+3382	3387	Трамп	Трамп	PER	PER-Donald-Trump
+3443	3451	Демократ	демократ	PER	ORG-Democratic-Party-USA
+3589	3596	YouTube	YouTube	PRO	PRO-YouTube
+3607	3615	CBS News	CBS News	PRO	PRO-CBS-News
+3653	3659	Трампа	Трам	PER	PER-Donald-Trump
+3786	3793	Байдена	Байден	PER	PER-Joe-Biden
+3902	3908	Трампа	Трам	PER	PER-Donald-Trump
+4179	4182	США	США	LOC	GPE-USA
+4212	4217	Трамп	Трамп	PER	PER-Donald-Trump
+4269	4282	Уильяма Барра	Уильям Барр	PER	PER-William-Barr
+4422	4426	Билл	Билл	PER	PER-William-Barr
+4527	4534	Twitter	Twitter	PRO	PRO-Twitter
+4576	4581	Барра	Барр	PER	PER-William-Barr
+4632	4643	Минюста США	Минюст США	ORG	ORG-United-States-Department-of-Justice
+4678	4683	Барра	Барр	PER	PER-William-Barr
+4684	4695	Джефф Розен	Джефф Розен	PER	PER-Jeff-Rosen
+4708	4712	Барр	Барр	PER	PER-William-Barr
+4765	4771	Трампа	Трам	PER	PER-Donald-Trump
+4856	4862	Трампа	Трам	PER	PER-Donald-Trump
+4906	4911	Барра	Барр	PER	PER-William-Barr
+4923	4933	Минюст США	Минюст США	ORG	ORG-United-States-Department-of-Justice
+4984	4989	Путин	Путин	PER	PER-Vladimir-Putin
+5000	5007	Байдена	Байден	PER	PER-Joe-Biden
+5030	5036	России	Россия	LOC	GPE-Russia
+5037	5051	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+5091	5100	демократа	демократ	PER	ORG-Democratic-Party-USA
+5125	5135	российский	российский	LOC	GPE-Russia
+5150	5157	Байдену	Байден	PER	PER-Joe-Biden
+5209	5215	Россия	Россия	LOC	GPE-Russia
+5218	5221	США	США	LOC	GPE-USA
+5420	5425	Путин	Путин	PER	PER-Vladimir-Putin
+5464	5473	российско	российский	LOC	GPE-Russia
+5474	5486	американское	американский	LOC	GPE-USA
+5585	5591	Выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+5621	5624	США	США	LOC	GPE-USA
+5632	5653	день всеобщих выборов	день всеобщих выборов	EVT	EVT-2020-United-States-Presidential-Election
+5911	5914	США	США	LOC	GPE-USA
+6050	6072	Джорджем Бушем-старшим	Джордж Буш-старший	PER	PER-George-Bush-Sr
+6159	6162	США	США	LOC	GPE-USA
+6279	6284	Сирии	Сирия	LOC	GPE-Syria
+6323	6337	арабская весна	арабская весна	EVT	EVT-The-Arab-Spring

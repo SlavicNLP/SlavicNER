@@ -1,0 +1,18 @@
+0	5	Kreml	Kreml	LOC	LOC-Kremlin
+7	15	Trumpovy	Trump	PER	PER-Donald-Trump
+63	69	Brusel	Brusel	LOC	GPE-Brussles
+104	118	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+147	160	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+163	168	Ruska	Rusko	LOC	GPE-Russia
+172	179	Německa	Německo	LOC	GPE-Germany
+190	196	Evropu	Evropa	LOC	LOC-Europe
+204	210	Kremlu	Kreml	LOC	LOC-Kremlin
+253	264	Bílého domu	Bílý dům	LOC	LOC-White-House
+286	304	Vladimirem Putinem	Vladimir Putin	PER	PER-Vladimir-Putin
+307	317	Helsinkách	Helsinky	LOC	GPE-Helsinki
+319	326	Trumpův	Trump	PER	PER-Donald-Trump
+343	349	Moskva	Moskva	LOC	GPE-Moscow
+368	376	Evropany	Evropané	PER	LOC-Europe
+402	407	Kreml	Kreml	LOC	LOC-Kremlin
+495	499	NATO	NATO	ORG	ORG-NATO
+543	551	Ukrajiny	Ukrajina	LOC	GPE-Ukraine

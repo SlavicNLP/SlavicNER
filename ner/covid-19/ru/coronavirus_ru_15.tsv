@@ -1,0 +1,120 @@
+106	138	Положении о защите личных данных	Положение о защите личных данных	PRO	PRO-GDPR-The-General-Data-Protection-Regulation
+190	202	коронавируса	коронавирус	EVT	EVT-Covid-19
+265	277	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+316	329	коронавирусом	коронавирус	EVT	EVT-Covid-19
+341	352	коронавирус	коронавирус	EVT	EVT-Covid-19
+426	438	коронавируса	коронавирус	EVT	EVT-Covid-19
+536	548	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+569	582	коронавирусом	коронавирус	EVT	EVT-Covid-19
+668	680	коронавируса	коронавирус	EVT	EVT-Covid-19
+821	834	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+855	868	коронавирусом	коронавирус	EVT	EVT-Covid-19
+891	904	"""Спутником V"""	Спутник V	PRO	PRO-Sputnik-V
+931	937	Путина	Путин	PER	PER-Vladimir-Putin
+950	955	Путин	Путин	PER	PER-Vladimir-Putin
+978	980	РФ	РФ	LOC	GPE-Russia
+1004	1016	коронавируса	коронавирус	EVT	EVT-Covid-19
+1017	1027	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1038	1049	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+1124	1137	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+1158	1171	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1215	1226	коронавирус	коронавирус	EVT	EVT-Covid-19
+1232	1269	Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+1271	1274	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+1312	1324	коронавируса	коронавирус	EVT	EVT-Covid-19
+1345	1357	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+1427	1440	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1443	1454	Коронавирус	коронавирус	EVT	EVT-Covid-19
+1457	1463	Европа	Европа	LOC	LOC-Europe
+1476	1484	COVID-19	COVID-19	EVT	EVT-Covid-19
+1539	1552	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1563	1571	COVID-19	COVID-19	EVT	EVT-Covid-19
+1586	1592	Европы	Европа	LOC	LOC-Europe
+1652	1664	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+1684	1690	Европа	Европа	LOC	LOC-Europe
+1711	1724	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1746	1758	коронавирусе	коронавирус	EVT	EVT-Covid-19
+1814	1826	коронавируса	коронавирус	EVT	EVT-Covid-19
+1918	1930	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+1951	1959	COVID-19	COVID-19	EVT	EVT-Covid-19
+1980	1993	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2059	2065	Москве	Москва	LOC	GPE-Moscow
+2088	2094	Москве	Москва	LOC	GPE-Moscow
+2217	2230	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+2251	2264	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2312	2324	коронавируса	коронавирус	EVT	EVT-Covid-19
+2443	2451	COVID-19	COVID-19	EVT	EVT-Covid-19
+2453	2465	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+2527	2540	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2543	2554	Коронавирус	коронавирус	EVT	EVT-Covid-19
+2612	2623	коронавирус	коронавирус	EVT	EVT-Covid-19
+2647	2655	COVID-19	COVID-19	EVT	EVT-Covid-19
+2746	2758	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+2802	2815	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2828	2840	коронавируса	коронавирус	EVT	EVT-Covid-19
+2910	2922	коронавируса	коронавирус	EVT	EVT-Covid-19
+2923	2933	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+3072	3084	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+3105	3118	коронавирусом	коронавирус	EVT	EVT-Covid-19
+3152	3164	коронавируса	коронавирус	EVT	EVT-Covid-19
+3235	3241	Москве	Москва	LOC	GPE-Moscow
+3244	3254	Петербурге	Петербург	LOC	GPE-Saint-Petersburg
+3336	3348	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+3369	3382	коронавирусом	коронавирус	EVT	EVT-Covid-19
+3431	3442	коронавирус	коронавирус	EVT	EVT-Covid-19
+3622	3634	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+3655	3668	коронавирусом	коронавирус	EVT	EVT-Covid-19
+3677	3685	COVID-19	COVID-19	EVT	EVT-Covid-19
+3763	3775	коронавируса	коронавирус	EVT	EVT-Covid-19
+3905	3918	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+3939	3952	коронавирусом	коронавирус	EVT	EVT-Covid-19
+3995	4007	коронавируса	коронавирус	EVT	EVT-Covid-19
+4016	4026	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4087	4099	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+4209	4222	коронавирусом	коронавирус	EVT	EVT-Covid-19
+4248	4259	коронавирус	коронавирус	EVT	EVT-Covid-19
+4271	4279	COVID-19	COVID-19	EVT	EVT-Covid-19
+4346	4352	Москве	Москва	LOC	GPE-Moscow
+4410	4422	коронавируса	коронавирус	EVT	EVT-Covid-19
+4423	4433	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4460	4473	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+4494	4507	коронавирусом	коронавирус	EVT	EVT-Covid-19
+4568	4580	коронавируса	коронавирус	EVT	EVT-Covid-19
+4581	4591	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4643	4655	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+4709	4722	коронавирусом	коронавирус	EVT	EVT-Covid-19
+4740	4751	коронавирус	коронавирус	EVT	EVT-Covid-19
+4801	4813	коронавируса	коронавирус	EVT	EVT-Covid-19
+4814	4824	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4918	4930	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+4950	4958	COVID-19	COVID-19	EVT	EVT-Covid-19
+4979	4992	коронавирусом	коронавирус	EVT	EVT-Covid-19
+4995	5006	Коронавирус	коронавирус	EVT	EVT-Covid-19
+5067	5079	коронавируса	коронавирус	EVT	EVT-Covid-19
+5161	5174	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+5195	5207	коронавируса	коронавирус	EVT	EVT-Covid-19
+5228	5241	коронавирусом	коронавирус	EVT	EVT-Covid-19
+5244	5255	Коронавирус	коронавирус	EVT	EVT-Covid-19
+5306	5317	Коронавирус	коронавирус	EVT	EVT-Covid-19
+5318	5328	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+5389	5402	Сергей Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
+5451	5459	COVID-19	COVID-19	EVT	EVT-Covid-19
+5480	5493	коронавирусом	коронавирус	EVT	EVT-Covid-19
+5508	5520	коронавируса	коронавирус	EVT	EVT-Covid-19
+5543	5553	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+5557	5560	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+5601	5614	коронавирусом	коронавирус	EVT	EVT-Covid-19
+5681	5691	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+5706	5718	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+5758	5771	коронавирусом	коронавирус	EVT	EVT-Covid-19
+5783	5795	коронавируса	коронавирус	EVT	EVT-Covid-19
+5829	5840	Коронавирус	коронавирус	EVT	EVT-Covid-19
+5863	5868	Китай	Китай	LOC	GPE-China
+5960	5972	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+6020	6032	Сергей Елкин	Сергей Елкин	PER	PER-Sergey-Elkin
+6034	6050	Владимир Дорохов	Владимир Дорохов	PER	PER-Vladimir-Dorokhov
+6089	6098	Дед Мороз	Дед Мороз	PER	PER-Ded-Moroz
+6105	6117	коронавируса	коронавирус	EVT	EVT-Covid-19
+6120	6129	Дед Мороз	Дед Мороз	PER	PER-Ded-Moroz
+6136	6148	коронавируса	коронавирус	EVT	EVT-Covid-19
+6162	6168	Москве	Москва	LOC	GPE-Moscow

@@ -1,0 +1,38 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+34	40	Трампу	Трамп	PER	PER-Donald-Trump
+92	95	США	США	LOC	GPE-USA
+111	122	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+182	197	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+222	233	Білого дому	Білий дім	ORG	ORG-White-House
+404	411	Байдена	Байден	PER	PER-Joe-Biden
+412	423	Ендрю Бейтс	Ендрю Бейтс	PER	PER-Andrew-Bates
+433	442	ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
+459	462	CNN	CNN	ORG	ORG-CNN
+498	505	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+550	567	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+604	615	Білого дому	Білий дім	ORG	ORG-White-House
+639	644	Бейтс	Бейтс	PER	PER-Andrew-Bates
+750	755	Трамп	Трамп	PER	PER-Donald-Trump
+790	796	Байден	Байден	PER	PER-Joe-Biden
+831	834	США	США	LOC	GPE-USA
+925	930	Трамп	Трамп	PER	PER-Donald-Trump
+944	951	Байдену	Байден	PER	PER-Joe-Biden
+1006	1013	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1035	1041	Байден	Байден	PER	PER-Joe-Biden
+1060	1068	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1087	1099	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+1101	1114	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1152	1159	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1162	1174	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+1179	1190	Філадельфія	Філадельфія	LOC	GPE-Philadelphia
+1223	1230	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1304	1319	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1407	1414	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1471	1481	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1580	1586	Байден	Байден	PER	PER-Joe-Biden
+1644	1653	Білий дім	Білий дім	ORG	ORG-White-House
+1675	1682	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1712	1717	Трамп	Трамп	PER	PER-Donald-Trump
+1771	1782	Метт Морган	Метт Морган	PER	PER-Matt-Morgan
+1805	1813	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1923	1928	Трамп	Трамп	PER	PER-Donald-Trump

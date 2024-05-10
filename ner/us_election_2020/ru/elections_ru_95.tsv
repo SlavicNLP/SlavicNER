@@ -1,0 +1,73 @@
+0	12	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+49	51	РФ	РФ	LOC	GPE-Russia
+55	61	выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+70	79	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+81	84	США	США	LOC	GPE-USA
+100	127	Конгресс Соединенных Штатов	Конгресс Соединенных Штатов	ORG	ORG-United-States-Congress
+178	180	РФ	РФ	LOC	GPE-Russia
+184	203	американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+284	290	Россия	Россия	LOC	GPE-Russia
+346	353	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+356	362	Штатах	Штаты	LOC	GPE-USA
+397	418	палаты представителей	палаты представителей	ORG	ORG-United-States-House-of-Representatives
+419	430	Девин Нюнес	Девин Нюнес	PER	PER-Devin-Nunes
+449	460	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+641	643	РФ	РФ	LOC	GPE-Russia
+685	692	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+845	848	ФБР	ФБР	ORG	ORG-FBI
+851	854	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+860	870	Белом доме	Белый дом	ORG	ORG-The-White-House
+873	879	Кремле	Кремль	ORG	ORG-Kremlin
+937	947	выборы США	выборы в США	EVT	EVT-2020-United-States-Presidential-Election
+990	1007	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+1010	1017	Россией	Россия	LOC	GPE-Russia
+1021	1027	Кремле	Кремль	ORG	ORG-Kremlin
+1075	1085	Госдумы РФ	Госдума РФ	ORG	ORG-Russia-The-State-Duma
+1086	1102	Вячеслав Володин	Вячеслав Володин	PER	PER-Viacheslav-Volodin
+1247	1254	Песняры	Песняры	ORG	ORG-Pesniary
+1287	1294	Украину	Украина	LOC	GPE-Ukraine
+1311	1316	Крыма	Крым	LOC	GPE-Crimea
+1335	1350	Госпогранслужба	Госпогранслужба	ORG	ORG-Ukraine-State-Border-Guard
+1371	1378	Украины	Украина	LOC	GPE-Ukraine
+1379	1397	Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+1416	1428	американский	американский	LOC	GPE-USA
+1437	1447	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1484	1488	НАТО	НАТО	ORG	ORG-NATO
+1520	1529	Ингушетии	Ингушетия	LOC	GPE-Ingushetia
+1561	1567	России	Россия	LOC	GPE-Russia
+1598	1611	Имарат Кавказ	Имарат Кавказ	ORG	ORG-Caucasus-Emirate
+1626	1642	Ростислав Ищенко	Ростислав Ищенко	PER	PER-Rostislav-Ischenko
+1704	1722	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+1753	1755	РФ	РФ	LOC	GPE-Russia
+1817	1827	российским	российский	LOC	GPE-Russia
+1886	1888	РФ	РФ	LOC	GPE-Russia
+1889	1903	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1942	1947	Крыма	Крым	LOC	GPE-Crimea
+1957	1964	Украины	Украина	LOC	GPE-Ukraine
+1984	1994	российский	российский	LOC	GPE-Russia
+2003	2015	Сергей Цеков	Сергей Цеков	PER	PER-Sergey-Tsekov
+2027	2042	"""Газпром-медиа"""	"""Газпром-медиа"""	ORG	ORG-Gazprom-Media
+2080	2092	"""Триколором"""	"""Триколором"""	ORG	ORG-Tricolor
+2201	2210	Ростуризм	Ростуризм	ORG	ORG-Rostourism
+2449	2458	Волжского	Волжский	LOC	LOC-Volzhsky
+2459	2475	Марин Афанасьева	Марина Афанасьева	PER	PER-Marina-Afanasyeva
+2583	2601	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+2602	2618	Владимир Ашурков	Владимир Ашурков	PER	PER-Vladimir-Ashurkov
+2644	2666	британского посольства	британское посольство	ORG	ORG-British-Embassy-Russia
+2677	2680	ФСБ	ФСБ	ORG	ORG-FSB
+2731	2735	MИ-6	МИ-6	ORG	ORG-MI6
+2817	2840	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+2866	2932	министерство инвестиций, промышленности и науки Московской области	министерство инвестиций, промышленности и науки Московской области	ORG	ORG-Ministry-of-Investment-Industry-and-Science-of-the-Moscow-Region
+3023	3028	Tesla	Tesla	ORG	ORG-Tesla-company
+3031	3037	SpaceХ	SpaceX	ORG	ORG-SpaceX-company
+3038	3047	Илон Маск	Илон Маск	PER	PER-Elon-Musk
+3096	3105	Neuralink	Neuralink	ORG	ORG-Neuralink
+3241	3243	РФ	РФ	LOC	GPE-Russia
+3273	3290	Экономика сегодня	Экономика сегодня	PRO	PRO-Economy-Today
+3311	3352	Института отраслевого менеджмента РАНХиГС	Институт отраслевого менеджмента РАНХиГС	ORG	ORG-Institute-of-Industry-Management-RANEPA
+3353	3366	Борис Пивовар	Борис Пивовар	PER	PER-Boris-Pivovar
+3657	3671	rueconomics.ru	rueconomics.ru	PRO	PRO-Economy-Today
+3713	3730	Экономика сегодня	Экономика сегодня	PRO	PRO-Economy-Today
+3836	3853	Экономика сегодня	Экономика сегодня	PRO	PRO-Economy-Today
+3875	3892	Экономика сегодня	Экономика сегодня	PRO	PRO-Economy-Today
+3913	4007	Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаций	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media

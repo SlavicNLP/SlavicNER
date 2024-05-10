@@ -1,0 +1,77 @@
+10	13	США	США	LOC	GPE-USA
+154	164	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+245	248	США	США	LOC	GPE-USA
+256	267	Global News	Global News	PRO	PRO-Global-News
+277	289	Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+480	490	Висконсина	Висконсин	LOC	GPE-Wisconsin
+551	566	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+695	714	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+776	783	Байдена	Байден	PER	PER-Joe-Biden
+834	840	Трампа	Трам	PER	PER-Donald-Trump
+882	901	Верховного суда США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+1260	1270	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+1440	1448	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+1483	1495	Ребекка Грин	Ребекка Грин	PER	REP-Rebecca-Greene
+1546	1560	William & Mary	William & Mary	ORG	ORG-William&Mary-Law-School
+1563	1575	Вильямсбурге	Вильямсбург	LOC	LOC-Williamsburg
+1582	1591	Вирджиния	Вирджиния	LOC	GPE-Virginia
+1703	1709	Трампа	Трамп	PER	PER-Donald-Trump
+1943	1970	избирательного штаба Трампа	избирательного штаба Трампа	ORG	ORG-Trump's-campaign-office
+2033	2043	Висконсина	Висконсин	LOC	GPE-Wisconsin
+2464	2483	Коллегии выборщиков	Коллегии выборщиков	ORG	ORG-United-States-Electoral-College
+2602	2609	Байдена	Байден	PER	PER-Joe-Biden
+2614	2620	Трампа	Трамп	PER	PER-Donald-Trump
+2898	2904	Байден	Байден	PER	PER-Joe-Biden
+2958	2964	Трампа	Трамп	PER	PER-Donald-Trump
+2998	3008	Висконсине	Висконсин	LOC	GPE-Wisconsin
+3020	3027	Байдена	Байден	PER	PER-Joe-Biden
+3064	3072	Мэдисоне	Мэдисон	LOC	GPE-Madison
+3142	3148	Байден	Байден	PER	PER-Joe-Biden
+3252	3260	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+3278	3297	Коллегии выборщиков	Коллегии выборщиков	ORG	ORG-United-States-Electoral-College
+3417	3426	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+3467	3473	Байден	Байден	PER	PER-Joe-Biden
+3533	3539	Сената	Сенат	ORG	ORG-United-States-Senate
+3557	3566	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+3608	3615	Байдена	Байден	PER	PER-Joe-Biden
+3667	3673	Байден	Байден	PER	PER-Joe-Biden
+3701	3714	Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+3791	3800	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+3916	3929	республиканец	республиканец	PER	ORG-Republican-Party-USA
+3932	3953	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+3982	3989	Алабамы	Алабама	LOC	GPE-USA-Alabama
+3990	3998	Мо Брукс	Мо Брукс	PER	PER-Mo-Brooks
+4053	4060	Байдена	Байден	PER	PER-Joe-Biden
+4086	4092	Бруксу	Брукс	PER	PER-Mo-Brooks
+4210	4231	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+4247	4258	демократами	демократы	ORG	ORG-Democratic-Party-USA
+4323	4330	Байдена	Байден	PER	PER-Joe-Biden
+4392	4411	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+4447	4458	российского	российский	LOC	GPE-Russia
+4557	4563	Байден	Байден	PER	PER-Joe-Biden
+4674	4688	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+4734	4743	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+4799	4813	Большом Яблоке	Большое Яблоко	LOC	GPE-New-York
+4835	4854	ForumDaily New York	ForumDaily New York	PRO	PRO-NewYork.ForumDaily.com
+4867	4872	Трамп	Трамп	PER	PER-Donald-Trump
+4932	4938	Трампа	Трамп	PER	PER-Donald-Trump
+5138	5146	Байденом	Байден	PER	PER-Joe-Biden
+5162	5170	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+5172	5179	Аризоне	Аризона	LOC	GPE-Arizona
+5182	5190	Мичигане	Мичиган	LOC	GPE-Michigan
+5202	5208	Трампа	Трамп	PER	PER-Donald-Trump
+5220	5237	Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+5310	5324	республиканцев	республиканцев	ORG	ORG-Republican-Party-USA
+5325	5337	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+5373	5380	Байдена	Байден	PER	PER-Joe-Biden
+5399	5412	Республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+5435	5447	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+5764	5767	США	США	LOC	GPE-USA
+5783	5790	Америку	Америка	LOC	GPE-USA
+5826	5834	Facebook	Facebook	PRO	PRO-Facebook
+5927	5943	ForumDaily Woman	ForumDaily Woman	PRO	PRO-Woman.ForumDaily.com
+5949	5968	ForumDaily New York	ForumDaily New York	PRO	PRO-NewYork.ForumDaily.com
+6030	6039	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+6117	6135	Центрального парка	Центральный парк	LOC	LOC-Central-Park
+6139	6150	Пятой авеню	Пятая авеню	LOC	LOC-The-Fifth-Avenu
+6586	6589	США	США	LOC	GPE-USA

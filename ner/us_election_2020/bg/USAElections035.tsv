@@ -1,0 +1,76 @@
+0	3	САЩ	САЩ	LOC	GPE-USA
+50	56	Байдън	Байдън	PER	PER-Joe-Biden
+82	87	Тръмп	Тръмп	PER	PER-Donald-Trump
+163	169	Байдън	Байдън	PER	PER-Joe-Biden
+204	216	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+358	365	Twitter	Twitter	PRO	PRO-Twitter
+398	434	Администрацията за общи услуги (GSA)	Администрация за общи услуги (GSA)	ORG	ORG-General-Services-Administration
+435	446	Емили Мърфи	Емили Мърфи	PER	PER-Emily-Murphy
+508	513	Мърфи	Мърфи	PER	PER-Emily-Murphy
+582	588	Байдън	Байдън	PER	PER-Joe-Biden
+712	717	Мърфи	Мърфи	PER	PER-Emily-Murphy
+751	757	Байдън	Байдън	PER	PER-Joe-Biden
+823	833	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+998	1003	Тръмп	Тръмп	PER	PER-Donald-Trump
+1024	1030	Байдън	Байдън	PER	PER-Joe-Biden
+1083	1095	коронавируса	коронавирус	EVT	EVT-Covid-19
+1098	1103	Тръмп	Тръмп	PER	PER-Donald-Trump
+1410	1415	Емили	Емили	PER	PER-Emily-Murphy
+1615	1618	САЩ	САЩ	LOC	GPE-USA
+1665	1671	Байдън	Байдън	PER	PER-Joe-Biden
+1681	1684	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+1685	1697	JASON SZENES	Jason Szenes	PER	PER-Jason-Szenes
+1699	1711	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1853	1860	Twitter	Twitter	PRO	PRO-Twitter
+1893	1929	Администрацията за общи услуги (GSA)	Администрация за общи услуги (GSA)	ORG	ORG-General-Services-Administration
+1930	1941	Емили Мърфи	Емили Мърфи	PER	PER-Emily-Murphy
+2003	2008	Мърфи	Мърфи	PER	PER-Emily-Murphy
+2077	2083	Байдън	Байдън	PER	PER-Joe-Biden
+2207	2212	Мърфи	Мърфи	PER	PER-Emily-Murphy
+2246	2252	Байдън	Байдън	PER	PER-Joe-Biden
+2293	2299	Байдън	Байдън	PER	PER-Joe-Biden
+2314	2326	Джанет Йелън	Джанет Йелън	PER	PER-Janet-Yellen
+2355	2358	САЩ	САЩ	LOC	GPE-USA
+2361	2366	Путин	Путин	PER	PER-Vladimir-Putin
+2405	2411	Байдън	Байдън	PER	PER-Joe-Biden
+2413	2418	Тръмп	Тръмп	PER	PER-Donald-Trump
+2520	2530	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2695	2700	Тръмп	Тръмп	PER	PER-Donald-Trump
+2721	2727	Байдън	Байдън	PER	PER-Joe-Biden
+2780	2792	коронавируса	коронавирус	EVT	EVT-Covid-19
+2795	2800	Тръмп	Тръмп	PER	PER-Donald-Trump
+3107	3112	Емили	Емили	PER	PER-Emily-Murphy
+3325	3333	Fox News	Fox News	PRO	PRO-Fox-News
+3435	3440	Тръмп	Тръмп	PER	PER-Donald-Trump
+3441	3449	Fox News	Fox News	PRO	PRO-Fox-News
+3452	3457	Тръмп	Тръмп	PER	PER-Donald-Trump
+3581	3594	Руди Джулиани	Руди Джулиани	PER	PER-Rudy-Giuliani
+3853	3858	Тръмп	Тръмп	PER	PER-Donald-Trump
+3870	3879	Белия дом	Белия дом	LOC	LOC-White-House
+4104	4109	Тръмп	Тръмп	PER	PER-Donald-Trump
+4110	4121	Джон Болтън	Джон Болтън	PER	PER-John-Bolton
+4135	4147	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+4149	4155	Болтън	Болтън	PER	PER-John-Bolton
+4246	4251	Тръмп	Тръмп	PER	PER-Donald-Trump
+4277	4282	Тръмп	Тръмп	PER	PER-Donald-Trump
+4307	4318	Сидни Пауъл	Сидни Пауъл	PER	PER-Sidney-Powell
+4378	4386	Джулиани	Джулиани	PER	PER-Rudy-Giuliani
+4501	4505	Куба	Куба	LOC	GPE-Cuba
+4507	4516	Венецуела	Венецуела	LOC	GPE-Venezuela
+4519	4524	Китай	Китай	LOC	GPE-China
+4549	4558	Уго Чавес	Уго Чавес	PER	PER-Hugo-Chavez
+4570	4578	Германия	Германия	LOC	GPE-Germany
+4655	4663	Fox News	Fox News	PRO	PRO-Fox-News
+4818	4823	Тръмп	Тръмп	PER	PER-Donald-Trump
+4854	4875	избирателната комисия	избирателна комисия	ORG	ORG-United-States-Electoral-College
+4900	4907	Мичиган	Мичиган	LOC	GPE-Michigan
+4939	4945	Байдън	Байдън	PER	PER-Joe-Biden
+5088	5093	Тръмп	Тръмп	PER	PER-Donald-Trump
+5462	5469	Америка	Америка	LOC	GPE-USA
+5510	5516	Болтън	Болтън	PER	PER-John-Bolton
+5629	5635	Европа	Европа	LOC	LOC-Europe
+5688	5691	САЩ	САЩ	LOC	GPE-USA
+5750	5753	САЩ	САЩ	LOC	GPE-USA
+5875	5878	САЩ	САЩ	LOC	GPE-USA
+5880	5916	Администрацията за общи услуги (GSA)	Администрация за общи услуги (GSA)	ORG	ORG-General-Services-Administration
+6077	6086	Белия дом	Белия дом	LOC	LOC-White-House

@@ -1,0 +1,14 @@
+17	20	USA	USA	LOC	GPE-USA
+271	283	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+307	310	USA	USA	LOC	GPE-USA
+350	359	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+498	510	republikanów	republikanie	ORG	ORG-Republican-Party-USA
+513	523	demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+706	715	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+843	852	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+865	871	Trumpa	Trump	PER	PER-Donald-Trump
+873	888	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1075	1087	Nowego Jorku	Nowy Jork	LOC	GPE-New-York
+1295	1304	Milwaukee	Milwaukee	LOC	GPE-Milwaukee
+2123	2162	Wisconsin Institute for Law and Liberty	Wisconsin Institute for Law and Liberty	ORG	ORG-Wisconsin-Institute-for-Law-and-Liberty
+2666	2673	Clinton	Clinton	PER	PER-Hillary-Clinton

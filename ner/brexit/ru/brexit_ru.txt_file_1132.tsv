@@ -1,0 +1,24 @@
+16	23	Лондона	Лондон	LOC	GPE-London
+42	48	Brexit	Brexit	EVT	EVT-Brexit
+86	92	ЛОНДОН	ЛОНДОН	LOC	GPE-London
+103	115	ФедералПресс	ФедералПресс	ORG	ORG-FederalPress
+173	201	правительства Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government
+219	229	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+231	233	ЕС	ЕС	ORG	ORG-European-Union
+257	259	ЕС	ЕС	ORG	ORG-European-Union
+312	323	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+440	454	Великобритании	Великобритания	LOC	GPE-Great-Britain
+455	465	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+478	485	Австрии	Австрия	LOC	GPE-Austria
+486	504	Себастьяном Курцем	Себастьян Курц	PER	PER-Sebastian-Kurz
+551	557	Brexit	Brexit	EVT	EVT-Brexit
+598	609	саммит НАТО	саммит НАТО	EVT	EVT-Summit-NATO
+714	722	Британии	Британия	LOC	GPE-Great-Britain
+741	747	Brexit	Brexit	EVT	EVT-Brexit
+764	778	Великобритания	Великобритания	LOC	GPE-Great-Britain
+802	813	white paper	white paper	PRO	PRO-White-paper-UK
+865	867	ЕС	ЕС	ORG	ORG-European-Union
+906	915	Евросоюзу	Евросоюз	ORG	ORG-European-Union
+1123	1125	ЕС	ЕС	ORG	ORG-European-Union
+1271	1279	Британия	Британия	LOC	GPE-Great-Britain
+1283	1292	евросоюза	евросоюз	ORG	ORG-European-Union

@@ -1,0 +1,34 @@
+18	24	Polacy	Polacy	PER	GPE-Poland
+51	58	Niemiec	Niemcy	LOC	GPE-Germany
+61	69	Holandii	Holandia	LOC	GPE-Holland
+129	135	Niemcy	Niemcy	LOC	GPE-Germany
+329	338	Eurostatu	Eurostat	ORG	ORG-Eurostat
+432	464	Federacja Izb Handlu i Przemysłu	Federacja Izb Handlu i Przemysłu	ORG	ORG-DIHK-Association-of-German-Chambers-of-Industry-and-Commerce
+557	566	Niemczech	Niemcy	LOC	GPE-Germany
+658	664	Polsce	Polska	LOC	GPE-Poland
+999	1007	Holandii	Holandia	LOC	GPE-Holland
+1163	1170	Brexitu	Brexit	EVT	EVT-Brexit
+1236	1242	Polacy	Polacy	PER	GPE-Poland
+1304	1318	Maciej Witucki	Maciej Witucki	PER	PER-Maciej-Witucki
+1327	1339	Work Service	Work Service	ORG	ORG-Work-Service
+1373	1385	Work Service	Work Service	ORG	ORG-Work-Service
+1414	1421	Polaków	Polacy	PER	GPE-Poland
+1447	1453	Polski	Polska	LOC	GPE-Poland
+1678	1684	Polski	Polska	LOC	GPE-Poland
+1961	1968	Polaków	Polacy	PER	GPE-Poland
+2056	2062	Polski	Polska	LOC	GPE-Poland
+2169	2185	Andrzej Kubisiak	Andrzej Kubisiak	PER	PER-Andrzej-Kubisiak
+2209	2221	Work Service	Work Service	ORG	ORG-Work-Service
+2230	2238	Brexicie	Brexit	EVT	EVT-Brexit
+2272	2293	Traktatu Lizbońskiego	Traktat Lizboński	PRO	PRO-Treaty-of-Lisbon
+2333	2340	Brexitu	Brexit	EVT	EVT-Brexit
+2360	2367	Polaków	Polacy	PER	GPE-Poland
+2415	2426	Theresa May	Theresa May	PER	PER-Theresa-May
+2464	2481	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2580	2597	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2607	2619	Work Service	Work Service	ORG	ORG-Work-Service
+2651	2656	Wyspy	Wyspy	LOC	GPE-Great-Britain
+2832	2863	Migracje Zarobkowe Polaków VIII	Migracje Zarobkowe Polaków VIII	PRO	PRO-Wage-migrations-of-Poles-VIII
+2961	2984	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+3076	3088	Work Service	Work Service	ORG	ORG-Work-Service
+3089	3120	Migracje zarobkowe Polaków VIII	Migracje zarobkowe Polaków VIII	PRO	PRO-Wage-migrations-of-Poles-VIII

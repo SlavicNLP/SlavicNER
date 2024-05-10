@@ -1,0 +1,39 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+17	19	ЕС	ЕС	ORG	ORG-European-Union
+76	83	Брекзит	Брекзит	EVT	EVT-Brexit
+104	114	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+163	177	Великобритания	Великобритания	LOC	GPE-Great-Britain
+183	190	Брекзит	Брекзит	EVT	EVT-Brexit
+272	282	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+331	345	Великобритания	Великобритания	LOC	GPE-Great-Britain
+351	358	Брекзит	Брекзит	EVT	EVT-Brexit
+458	460	ЕС	ЕС	ORG	ORG-European-Union
+567	587	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+606	613	Ройтерс	Ройтерс	ORG	ORG-Reuters
+701	711	британците	британци	PER	GPE-Great-Britain
+732	734	ЕС	ЕС	ORG	ORG-European-Union
+819	833	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+843	846	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+848	850	ЕС	ЕС	ORG	ORG-European-Union
+862	876	Великобритания	Великобритания	LOC	GPE-Great-Britain
+973	980	Брекзит	Брекзит	EVT	EVT-Brexit
+1045	1065	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1068	1071	Мей	Мей	PER	PER-Theresa-May
+1102	1104	ЕС	ЕС	ORG	ORG-European-Union
+1127	1141	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1168	1174	Лондон	Лондон	LOC	GPE-London
+1195	1197	ЕС	ЕС	ORG	ORG-European-Union
+1299	1319	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1349	1351	ЕС	ЕС	ORG	ORG-European-Union
+1426	1429	Мей	Мей	PER	PER-Theresa-May
+1476	1481	Китай	Китай	LOC	GPE-China
+1581	1601	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1620	1622	ЕС	ЕС	ORG	ORG-European-Union
+1655	1669	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1672	1674	ЕС	ЕС	ORG	ORG-European-Union
+1882	1888	Лондон	Лондон	LOC	GPE-London
+1925	1932	Брекзит	Брекзит	EVT	EVT-Brexit
+2066	2080	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2158	2161	Мей	Мей	PER	PER-Theresa-May
+2265	2267	ЕС	ЕС	ORG	ORG-European-Union
+2412	2419	Брекзит	Брекзит	EVT	EVT-Brexit

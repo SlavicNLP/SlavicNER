@@ -1,0 +1,110 @@
+24	27	ZDA	ZDA	LOC	GPE-USA
+31	37	Rusijo	Rusija	LOC	GPE-Russia
+55	61	Rusija	Rusija	LOC	GPE-Russia
+97	104	Nemčijo	Nemčija	LOC	GPE-Germany
+118	131	Severni tok 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+207	220	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+223	227	Rusi	Rusi	PER	GPE-Russia
+274	282	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+301	303	EU	EU	ORG	ORG-European-Union
+305	314	Američani	Američani	PER	GPE-USA
+404	406	EU	EU	ORG	ORG-European-Union
+497	499	EU	EU	ORG	ORG-European-Union
+538	541	ZDA	ZDA	LOC	GPE-USA
+545	551	Rusija	Rusija	LOC	GPE-Russia
+553	559	Rusija	Rusija	LOC	GPE-Russia
+681	687	Evropo	Evropa	LOC	LOC-Europe
+729	737	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+780	782	EU	EU	ORG	ORG-European-Union
+791	800	Sloveniji	Slovenija	LOC	GPE-Slovenia
+871	877	Rusija	Rusija	LOC	GPE-Russia
+913	920	Nemčijo	Nemčija	LOC	GPE-Germany
+934	947	Severni tok 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+998	1011	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1100	1107	Turčija	Turčija	LOC	GPE-Turkey
+1156	1166	Turški tok	Turški tok	PRO	PRO-TurkStream
+1189	1197	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1230	1236	Evropo	Evropa	LOC	LOC-Europe
+1290	1294	Rusi	Rusi	PER	GPE-Russia
+1327	1334	Turčiji	Turčija	LOC	GPE-Turkey
+1371	1380	Bolgarije	Bolgarija	LOC	GPE-Bulgaria
+1384	1390	Srbije	Srbija	LOC	GPE-Serbia
+1394	1403	Madžarske	Madžarska	LOC	GPE-Hungary
+1438	1440	EU	EU	ORG	ORG-European-Union
+1442	1448	Rusija	Rusija	LOC	GPE-Russia
+1471	1478	Balkanu	Balkan	LOC	LOC-Balkans
+1484	1492	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1521	1530	Južni tok	Južni tok	PRO	PRO-South-Stream
+1567	1576	Slovenije	Slovenija	LOC	GPE-Slovenia
+1640	1642	EU	EU	ORG	ORG-European-Union
+1645	1648	ZDA	ZDA	LOC	GPE-USA
+1690	1692	EU	EU	ORG	ORG-European-Union
+1730	1737	Nabucco	Nabucco	PRO	PRO-Nabucco
+1745	1747	EU	EU	ORG	ORG-European-Union
+1789	1805	Kaspijskem morju	Kaspijsko morje	LOC	LOC-Caspian-Sea
+1812	1827	Bližnjem vzhodu	Bližnji vzhod	LOC	LOC-Middle-East
+1879	1882	ZDA	ZDA	LOC	GPE-USA
+1930	1937	Bruslju	Bruselj	LOC	GPE-Brussles
+1986	1992	Rusijo	Rusija	LOC	GPE-Russia
+1996	2004	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+2027	2030	ZDA	ZDA	LOC	GPE-USA
+2031	2044	Baracka Obamo	Barack Obama	PER	PER-Barack-Obama
+2153	2184	Mednarodna agencija za energijo	Mednarodna agencija za energijo	ORG	ORG-International-Energy-Agency
+2186	2189	IEA	IEA	ORG	ORG-International-Energy-Agency
+2216	2219	ZDA	ZDA	LOC	GPE-USA
+2400	2411	Washingtonu	Washington	LOC	GPE-WashingtonDC
+2582	2595	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2599	2609	Turški tok	Turški tok	PRO	PRO-TurkStream
+2647	2660	republikanske	republikanski	ORG	ORG-Republican-Party-USA
+2665	2684	demokratske stranke	demokratske stranke	ORG	ORG-Democratic-Party-USA
+2687	2703	Ameriški kongres	Ameriški kongres	ORG	ORG-United-States-Congress
+2785	2793	Pentagon	Pentagon	ORG	ORG-The-Pentagon
+2815	2827	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2884	2887	STA	STA	ORG	ORG-Slovenian-Press-Agency
+2900	2913	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2949	2956	Nemčije	Nemčija	LOC	GPE-Germany
+3017	3020	ZDA	ZDA	LOC	GPE-USA
+3023	3030	Nemčijo	Nemčija	LOC	GPE-Germany
+3034	3040	Evropo	Evropa	LOC	LOC-Europe
+3073	3083	Turški tok	Turški tok	PRO	PRO-TurkStream
+3115	3127	Črnega morja	Črno morje	LOC	LOC-Black-Sea
+3130	3137	Turčijo	Turčija	LOC	GPE-Turkey
+3150	3164	vzhodno Evropo	vzhodna Evropa	LOC	LOC-Eastern-Europe
+3176	3181	Nemci	Nemci	PER	GPE-Germany
+3208	3211	ZDA	ZDA	LOC	GPE-USA
+3244	3257	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+3259	3263	Rusi	Rusi	PER	GPE-Russia
+3326	3341	Alexander Nowak	Alexander Nowak	PER	PER-Aleksandr-Novak
+3416	3419	ZDA	ZDA	LOC	GPE-USA
+3461	3463	EU	EU	ORG	ORG-European-Union
+3583	3591	Eurostat	Eurostat	ORG	ORG-Eurostat
+3666	3668	EU	EU	ORG	ORG-European-Union
+3755	3757	EU	EU	ORG	ORG-European-Union
+3805	3814	Eurostata	Eurostat	ORG	ORG-Eurostat
+3843	3851	Norveške	Norveška	LOC	GPE-Norway
+3855	3857	EU	EU	ORG	ORG-European-Union
+3901	3907	Rusije	Rusija	LOC	GPE-Russia
+3940	3949	Eurostata	Eurostat	ORG	ORG-Eurostat
+4013	4015	EU	EU	ORG	ORG-European-Union
+4025	4033	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+4037	4047	Belorusije	Belorusija	LOC	GPE-Belarus
+4060	4066	Rusije	Rusija	LOC	GPE-Russia
+4116	4124	Norveške	Norveška	LOC	GPE-Norway
+4126	4129	ZDA	ZDA	LOC	GPE-USA
+4142	4144	EU	EU	ORG	ORG-European-Union
+4194	4213	Petroleum Economist	Petroleum Economist	ORG	ORG-Petroleum-Economist
+4243	4260	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+4347	4351	Krku	Krk	LOC	LOC-Krk
+4422	4431	Slovenijo	Slovenija	LOC	GPE-Slovenia
+4470	4479	Slovenijo	Slovenija	LOC	GPE-Slovenia
+4490	4496	Rusije	Rusija	LOC	GPE-Russia
+4619	4627	Avstrije	Avstrija	LOC	GPE-Austria
+4678	4684	Ceršak	Ceršak	LOC	LOC-Ceršak
+4689	4696	Italije	Italija	LOC	GPE-Italy
+4717	4725	Šempeter	Šempeter	LOC	LOC-Šempeter
+4813	4819	Evropi	Evropa	LOC	LOC-Europe
+4831	4845	Severni Afriki	Severna Afrika	LOC	LOC-North-Africa
+4849	4855	Rusiji	Rusija	LOC	GPE-Russia
+4869	4877	Geoplinu	Geoplin	ORG	ORG-Geoplin
+4906	4913	Gazprom	Gazprom	ORG	ORG-Gazprom
+4964	4973	Slovenijo	Slovenija	LOC	GPE-Slovenia

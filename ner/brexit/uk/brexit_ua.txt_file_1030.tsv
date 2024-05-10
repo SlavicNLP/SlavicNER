@@ -1,0 +1,25 @@
+0	6	Барньє	Барньє	PER	PER-Michel-Barnier
+10	12	ЄС	ЄС	LOC	ORG-European-Union
+43	49	Brexit	Brexit	EVT	EVT-Brexit
+64	73	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+111	125	Великобританії	Великобританія	LOC	GPE-Great-Britain
+196	198	ЄС	ЄС	LOC	ORG-European-Union
+219	225	Brexit	Brexit	EVT	EVT-Brexit
+226	239	Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+258	265	Ради ЄС	Рада ЄС	ORG	ORG-Council-of-the-European-Union
+463	470	Ради ЄС	Рада ЄС	ORG	ORG-Council-of-the-European-Union
+496	502	Brexit	Brexit	EVT	EVT-Brexit
+552	559	Reuters	Reuters	ORG	ORG-Reuters
+561	567	Барньє	Барньє	PER	PER-Michel-Barnier
+644	658	Великобританії	Великобританія	LOC	GPE-Great-Britain
+661	663	ЄС	ЄС	LOC	ORG-European-Union
+745	747	ЄС	ЄС	LOC	ORG-European-Union
+850	864	Великобританії	Великобританія	LOC	GPE-Great-Britain
+885	887	ЄС	ЄС	LOC	ORG-European-Union
+1044	1050	Барньє	Барньє	PER	PER-Michel-Barnier
+1052	1060	Євросоюз	Євросоюз	ORG	ORG-European-Union
+1119	1128	Ірландією	Ірландія	LOC	GPE-Ireland
+1131	1150	Північною Ірландією	Північна Ірландія	LOC	GPE-Northern-Ireland
+1347	1357	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1457	1466	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1576	1582	Brexit	Brexit	EVT	EVT-Brexit

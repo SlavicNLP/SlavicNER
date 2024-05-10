@@ -1,0 +1,35 @@
+43	49	«СП-2»	«СП-2»	PRO	PRO-Nord-Stream-2
+54	60	Европы	Европа	LOC	LOC-Europe
+120	137	Газовую директиву	Газовая директива	PRO	PRO-Gas-Directive-EU
+140	146	Москва	Москва	LOC	GPE-Moscow
+160	170	АиФ-Москва	АиФ-Москва	PRO	PRO-Agrymenty-i-Facty-(Newspaper)
+215	229	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+287	304	Газовую директиву	Газовая директива	PRO	PRO-Gas-Directive-EU
+361	377	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+433	436	США	США	LOC	GPE-USA
+439	447	Германии	Германия	LOC	GPE-Germany
+449	454	Дании	Дания	LOC	GPE-Denmark
+459	468	Евросоюзе	Евросоюз	ORG	ORG-European-Union
+469	483	Ричард Гренелл	Ричард Гренелл	PER	PER-Richard-Grenell
+485	495	Карл Сандс	Карл Сандс	PER	PER-Carl-Sands
+498	513	Гордон Сондленд	Гордон Сондленд	PER	PER-Gordon-Sondland
+517	519	ЕС	ЕС	ORG	ORG-European-Union
+566	593	Третий энергетический пакет	Третий энергетический пакет	PRO	Pro-Third-Energy-Package
+622	624	ЕС	ЕС	ORG	ORG-European-Union
+665	681	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+739	741	ЕС	ЕС	ORG	ORG-European-Union
+753	760	Газпром	Газпром	ORG	ORG-Gazprom
+907	916	Евросоюза	Евросоюз	ORG	ORG-European-Union
+936	952	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1001	1007	Европу	Европа	LOC	LOC-Europe
+1053	1059	России	Россия	LOC	GPE-Russia
+1115	1117	ЕС	ЕС	ORG	ORG-European-Union
+1238	1254	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1286	1292	Европы	Европа	LOC	LOC-Europe
+1355	1361	Европу	Европа	LOC	LOC-Europe
+1446	1463	Газовую директиву	Газовая директива	PRO	PRO-Gas-Directive-EU
+1482	1495	Европарламент	Европарламент	ORG	ORG-European-Parliament
+1498	1510	Еврокомиссия	Еврокомиссия	ORG	ORG-European-Commission
+1550	1552	ЕС	ЕС	ORG	ORG-European-Union
+1575	1584	Германией	Германия	LOC	GPE-Germany
+1587	1595	Францией	Франция	LOC	GPE-France

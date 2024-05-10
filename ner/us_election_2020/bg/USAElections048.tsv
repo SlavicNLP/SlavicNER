@@ -1,0 +1,24 @@
+11	14	САЩ	САЩ	LOC	GPE-USA
+25	30	Тръмп	Тръмп	PER	PER-Donald-Trump
+64	76	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+225	230	Тръмп	Тръмп	PER	PER-Donald-Trump
+393	396	САЩ	САЩ	LOC	GPE-USA
+410	424	републиканците	републиканци	PER	ORG-Republican-Party-USA
+428	439	демократите	демократи	PER	ORG-Democratic-Party-USA
+1040	1048	пандемия	пандемия	EVT	EVT-Pandemic
+1122	1133	коронавирус	коронавирус	EVT	EVT-Covid-19
+1269	1278	Белия дом	Белия дом	LOC	LOC-White-House
+1328	1347	американският народ	американски народ	PER	GPE-USA
+1594	1605	демократите	демократи	PER	ORG-Democratic-Party-USA
+1609	1623	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1750	1769	американският народ	американски народ	PER	GPE-USA
+2044	2056	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2228	2238	американци	американци	PER	GPE-USA
+2456	2459	САЩ	САЩ	LOC	GPE-USA
+2461	2480	смъртоносният вирус	смъртоносен вирус	EVT	EVT-Covid-19
+2576	2579	САЩ	САЩ	LOC	GPE-USA
+2660	2665	Тръмп	Тръмп	PER	PER-Donald-Trump
+2981	2992	Демократите	демократи	PER	ORG-Democratic-Party-USA
+3223	3247	американските избиратели	американски избиратели	PER	GPE-USA
+3358	3361	САЩ	САЩ	LOC	GPE-USA
+3939	3942	САЩ	САЩ	LOC	GPE-USA

@@ -1,0 +1,33 @@
+6	9	США	США	LOC	GPE-USA
+12	18	Европе	Европа	LOC	LOC-Europe
+42	64	«Северного потока — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+80	83	США	США	LOC	GPE-USA
+86	89	ФРГ	ФРГ	LOC	GPE-Germany
+91	96	Дании	Дания	LOC	GPE-Denmark
+99	108	Евросоюзе	Евросоюз	ORG	ORG-European-Union
+125	141	Ричарда Гренелла	Ричард Гренелл	PER	PER-Richard-Grenell
+143	154	Карлы Сэндс	Карла Сэндс	PER	PER-Carl-Sands
+157	174	Гордона Сондленда	Гордон Сондленд	PER	PER-Gordon-Sondland
+187	201	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+220	236	Северный поток 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+286	302	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
+305	311	Европу	Европа	LOC	LOC-Europe
+368	374	Москве	Москва	LOC	GPE-Moscow
+424	431	Украины	Украина	LOC	GPE-Ukraine
+486	494	Германии	Германия	LOC	GPE-Germany
+575	580	Дании	Дания	LOC	GPE-Denmark
+768	774	Европы	Европа	LOC	LOC-Europe
+888	894	Европы	Европа	LOC	LOC-Europe
+1031	1033	ЕС	ЕС	ORG	ORG-European-Union
+1047	1096	газовую директиву третьего энергетического пакета	газовая директива третьего энергетического пакета	PRO	PRO-Gas-Directive-EU
+1111	1113	ЕС	ЕС	ORG	ORG-European-Union
+1155	1171	Северный поток 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+1224	1242	Северным потоком 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+1328	1335	Франция	Франция	LOC	GPE-France
+1385	1387	ЕС	ЕС	ORG	ORG-European-Union
+1425	1443	Северного потока 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+1460	1463	США	США	LOC	GPE-USA
+1466	1474	Германии	Германия	LOC	GPE-Germany
+1475	1489	Ричард Гренелл	Ричард Гренелл	PER	PER-Richard-Grenell
+1543	1559	Северный поток 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+1615	1622	Берлине	Берлин	LOC	GPE-Berlin

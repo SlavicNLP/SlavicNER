@@ -1,0 +1,38 @@
+0	3	МИД	МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+12	18	Трампу	Трамп	PER	PER-Donald-Trump
+36	54	Северный поток — 2	Северный поток — 2	PRO	PRO-Nord-Stream-2
+251	257	Европе	Европа	LOC	LOC-Europe
+431	451	Российской Федерации	Российская Федерация	LOC	GPE-Russia
+454	460	Европы	Европа	LOC	LOC-Europe
+596	602	Грушко	Грушко	PER	PER-Alexander-Grushko
+805	813	Германию	Германия	LOC	GPE-Germany
+967	969	ЕС	ЕС	ORG	ORG-European-Union
+1042	1048	Грушко	Грушко	PER	PER-Alexander-Grushko
+1049	1058	Газета.ru	Газета.ru	PRO	PRO-Gazeta-ru
+1083	1089	Грушко	Грушко	PER	PER-Alexander-Grushko
+1120	1126	Европа	Европа	LOC	LOC-Europe
+1167	1170	США	США	LOC	GPE-USA
+1171	1184	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1222	1238	Генассамблеи ООН	Генассамблеи ООН	ORG	ORG-United-Nations-General-Assembly
+1253	1261	Германия	Германия	LOC	GPE-Germany
+1323	1325	РФ	РФ	LOC	GPE-Russia
+1363	1370	Варшава	Варшава	LOC	GPE-Warsaw
+1446	1466	Российской Федерации	Российская Федерация	LOC	GPE-Russia
+1476	1494	Северный поток — 2	Северный поток — 2	PRO	PRO-Nord-Stream-2
+1606	1608	РФ	РФ	LOC	GPE-Russia
+1615	1630	Балтийское море	Балтийское море	LOC	LOC-Baltic-Sea
+1634	1642	Германии	Германия	LOC	GPE-Germany
+1708	1724	Нордовым потоком	Нордовый поток	PRO	PRO-Nord-Stream-2
+1835	1851	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
+1853	1855	РФ	РФ	LOC	GPE-Russia
+1857	1866	Финляндии	Финляндия	LOC	GPE-Finland
+1868	1874	Швеции	Швеция	LOC	GPE-Sweden
+1876	1881	Дании	Дания	LOC	GPE-Denmark
+1884	1892	Германии	Германия	LOC	GPE-Germany
+1894	1911	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+1947	1949	EC	EC	ORG	ORG-European-Union
+1989	1995	Европы	Европа	LOC	LOC-Europe
+1998	2005	Россией	Россия	LOC	GPE-Russia
+2019	2025	Латвия	Латвия	LOC	GPE-Latvia
+2027	2032	Литва	Литва	LOC	GPE-Lithuania
+2035	2041	Польша	Польша	LOC	GPE-Poland

@@ -1,0 +1,61 @@
+9	18	Slovenijo	Slovenija	LOC	GPE-Slovenia
+29	34	Biden	Biden	PER	PER-Joe-Biden
+46	61	Bogomil Ferfila	Bogomil Ferfila	PER	PER-Bogomil-Ferfila
+68	78	Američanih	Američani	PER	GPE-USA
+239	246	Ameriki	Amerika	LOC	GPE-USA
+424	436	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+506	519	Josephu Bidnu	Joseph Biden	PER	PER-Joe-Biden
+658	664	Nevade	Nevada	LOC	GPE-Nevada
+735	740	Biden	Biden	PER	PER-Joe-Biden
+772	777	Trump	Trump	PER	PER-Donald-Trump
+1023	1039	Bogomila Ferfilo	Bogomil Ferfila	PER	PER-Bogomil-Ferfila
+1044	1086	Katedre za analizo politik in javno upravo	Katedra za analizo politik in javno upravo	ORG	ORG-Chair-of-Policy-Analysis-and-Public-Administration-FDV-University-of-Ljubljana
+1091	1122	Centra za politološke raziskave	Center za politološke raziskave	ORG	ORG-Centre-for-Political-Science-Research-FDV-University-of-Ljubljana
+1127	1153	Fakulteti za družbene vede	Fakulteta za družbene vede	ORG	ORG-Faculty-of-social-sciences
+1154	1174	Univerze v Ljubljani	Univerza v Ljubljani	ORG	ORG-University-of-Ljubljana
+1200	1203	ZDA	ZDA	LOC	GPE-USA
+1206	1211	Bidna	Biden	PER	PER-Joe-Biden
+1257	1264	Ferfila	Ferfila	PER	PER-Bogomil-Ferfila
+1620	1628	Trumpovo	Trump	PER	PER-Donald-Trump
+1655	1662	Ferfila	Ferfila	PER	PER-Bogomil-Ferfila
+1917	1924	Ferfila	Ferfila	PER	PER-Bogomil-Ferfila
+1946	1951	Busha	Bush	PER	PER-George-Bush-Jr
+1955	1963	Ala Gora	Al Gore	PER	PER-Al-Gore
+2005	2012	Florido	Florida	LOC	GPE-Florida
+2186	2191	Biden	Biden	PER	PER-Joe-Biden
+2229	2236	Ferfila	Ferfila	PER	PER-Bogomil-Ferfila
+2262	2268	Trumpa	Trump	PER	PER-Donald-Trump
+2283	2288	Biden	Biden	PER	PER-Joe-Biden
+2363	2370	Ferfile	Ferfila	PER	PER-Bogomil-Ferfila
+2544	2554	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+2654	2659	Trump	Trump	PER	PER-Donald-Trump
+2716	2721	Trump	Trump	PER	PER-Donald-Trump
+2743	2750	Ferfila	Ferfila	PER	PER-Bogomil-Ferfila
+2778	2785	Ferfila	Ferfila	PER	PER-Bogomil-Ferfila
+2963	2970	Ferfila	Ferfila	PER	PER-Bogomil-Ferfila
+3039	3055	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+3606	3611	Trump	Trump	PER	PER-Donald-Trump
+3761	3768	Ferfila	Ferfila	PER	PER-Bogomil-Ferfila
+3942	3947	Trump	Trump	PER	PER-Donald-Trump
+4187	4190	ZDA	ZDA	LOC	GPE-USA
+4191	4200	Sloveniji	Slovenija	LOC	GPE-Slovenia
+4249	4256	Ferfila	Ferfila	PER	PER-Bogomil-Ferfila
+4345	4352	Amerike	Amerika	LOC	GPE-USA
+4365	4382	Ameriška ambasada	Ameriška ambasada	LOC	LOC-US-Embassy-in-Slovenia
+4558	4567	Slovenijo	Slovenija	LOC	GPE-Slovenia
+4571	4578	Ameriko	Amerika	LOC	GPE-USA
+4637	4644	Janševa	Janšev	PER	PER-Janez-Janša
+4654	4660	Trumpu	Trump	PER	PER-Donald-Trump
+4700	4712	Janeza Janše	Janez Janša	PER	PER-Janez-Janša
+4736	4739	ZDA	ZDA	LOC	GPE-USA
+4870	4877	Ferfila	Ferfila	PER	PER-Bogomil-Ferfila
+4964	4969	Trump	Trump	PER	PER-Donald-Trump
+5121	5130	Slovenijo	Slovenija	LOC	GPE-Slovenia
+5160	5170	Američanih	Američani	PER	GPE-USA
+5442	5451	Slovenijo	Slovenija	LOC	GPE-Slovenia
+5477	5482	Trump	Trump	PER	PER-Donald-Trump
+5496	5501	Biden	Biden	PER	PER-Joe-Biden
+5518	5525	Ferfila	Ferfila	PER	PER-Bogomil-Ferfila
+5571	5580	Sloveniji	Slovenija	LOC	GPE-Slovenia
+5602	5605	ZDA	ZDA	LOC	GPE-USA
+5606	5611	Obama	Obama	PER	PER-Barack-Obama

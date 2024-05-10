@@ -1,0 +1,8 @@
+68	75	Лондоне	Лондон	LOC	GPE-London
+117	145	правительства Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government
+235	243	Эймсбери	Эймсбери	LOC	LOC-Amesbury
+352	358	Brexit	Brexit	EVT	EVT-Brexit
+359	370	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+403	439	консервативной партии Великобритании	консервативная партия Великобритании	ORG	ORG-Conservative-and-Unionist-Party-UK
+462	472	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+553	568	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson

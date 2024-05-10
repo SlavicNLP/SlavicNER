@@ -1,0 +1,11 @@
+36	41	Prahy	Praha	LOC	GPE-Prague
+54	59	covid	covid	EVT	EVT-Covid-19
+124	131	Novavax	Novavax	ORG	ORG-Novavax
+390	395	covid	covid	EVT	EVT-Covid-19
+459	467	covid-19	covid-19	EVT	EVT-Covid-19
+477	484	Reuters	Reuters	ORG	ORG-Reuters
+554	561	Novavax	Novavax	ORG	ORG-Novavax
+587	595	Bohumili	Bohumil	LOC	GPE-Bohumil
+605	610	Prahy	Praha	LOC	GPE-Prague
+807	812	Česko	Česko	LOC	GPE-Czech-Republic
+826	832	covidu	covid	EVT	EVT-Covid-19

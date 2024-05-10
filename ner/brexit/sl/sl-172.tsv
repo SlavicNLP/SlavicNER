@@ -1,0 +1,16 @@
+46	52	brexit	brexit	EVT	EVT-Brexit
+54	74	Britanska monarhinja	Britanska monarhinja	PER	PER-Queen-Elizabeth-II
+122	132	Johnsonove	Johnson	PER	PER-Boris-Johnson
+180	200	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+348	360	Elizabeta II	Elizabeta II	PER	PER-Queen-Elizabeth-II
+498	519	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+523	537	Evropske unije	Evropska unija	ORG	ORG-European-Union
+626	641	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+689	691	EU	EU	ORG	ORG-European-Union
+711	721	Johnsonove	Johnson	PER	PER-Boris-Johnson
+1042	1052	Johnsonova	Johnson	PER	PER-Boris-Johnson
+1328	1339	Johnsonovih	Johnson	PER	PER-Boris-Johnson
+1465	1470	Otoku	otok	LOC	GPE-Great-Britain
+1526	1545	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+1553	1555	EU	EU	ORG	ORG-European-Union
+1713	1720	brexita	brexit	EVT	EVT-Brexit

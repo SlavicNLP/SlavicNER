@@ -1,0 +1,24 @@
+0	2	ЕК	ЕК	ORG	ORG-European-Commission
+17	24	Ryanair	Ryanair	ORG	ORG-Ryanair
+78	80	ЕС	ЕС	ORG	ORG-European-Union
+82	90	БРЮССЕЛЬ	БРЮССЕЛЬ	LOC	GPE-Brussles
+99	104	ПРАЙМ	ПРАЙМ	ORG	ORG-PRIME-News-Agency
+142	156	Марианн Тиссен	Марианн Тиссен	PER	PER-Marianne-Thyssen
+178	186	Брюсселе	Брюссель	LOC	GPE-Brussles
+230	237	Ryanair	Ryanair	ORG	ORG-Ryanair
+238	252	Майклом О'Лири	Майкл О'Лири	PER	PER-Michael-O'Leary
+314	323	Евросоюза	Евросоюз	ORG	ORG-European-Union
+355	361	О'Лири	О'Лири	PER	PER-Michael-O'Leary
+441	448	Бельгии	Бельгия	LOC	GPE-Belgium
+450	461	Нидерландов	Нидерланды	LOC	GPE-Holland
+463	471	Германии	Германия	LOC	GPE-Germany
+473	479	Италии	Италия	LOC	GPE-Italy
+481	488	Испании	Испания	LOC	GPE-Spain
+491	501	Португалии	Португалия	LOC	GPE-Portugal
+517	524	Ryanair	Ryanair	ORG	ORG-Ryanair
+555	557	ЕС	ЕС	ORG	ORG-European-Union
+716	722	О'Лири	О'Лири	PER	PER-Michael-O'Leary
+736	743	Ryanair	Ryanair	ORG	ORG-Ryanair
+839	845	Тиссен	Тиссен	PER	PER-Marianne-Thyssen
+892	894	ЕС	ЕС	ORG	ORG-European-Union
+1158	1165	Ryanair	Ryanair	ORG	ORG-Ryanair

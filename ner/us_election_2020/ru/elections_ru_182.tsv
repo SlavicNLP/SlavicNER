@@ -1,0 +1,135 @@
+40	45	Трамп	Трамп	PER	PER-Donald-Trump
+102	117	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+213	216	США	США	LOC	GPE-USA
+254	269	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+414	427	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+458	469	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+507	526	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+557	563	Сената	Сенат	ORG	ORG-United-States-Senate
+625	634	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+663	699	церемония инаугурации президента США	церемония инаугурации президента США	EVT	EVT-2020-United-States-presidential-inauguration
+785	796	демократами	демократы	ORG	ORG-Democratic-Party-USA
+807	810	США	США	LOC	GPE-USA
+936	941	Трамп	Трамп	PER	PER-Donald-Trump
+1060	1071	американцев	американцы	PER	GPE-USA
+1072	1079	Америку	Америка	LOC	GPE-USA
+1087	1093	Байден	Байден	PER	PER-Joe-Biden
+1206	1216	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+1251	1257	Трампу	Трамп	PER	PER-Donald-Trump
+1438	1452	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+1496	1510	Верховном суде	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+1575	1581	Техаса	Техас	LOC	GPE-Texas
+1647	1652	Трамп	Трамп	PER	PER-Donald-Trump
+1693	1696	США	США	LOC	GPE-USA
+1791	1806	Конституцию США	Конституция США	PRO	PRO-The-USA-Constitution
+1894	1900	Техаса	Техас	LOC	GPE-Texas
+2035	2052	Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+2208	2234	"""С Техасом не связываться"""	"""С Техасом не связываться"""	PRO	PRO-Don't-Mess-with-Texas
+2243	2246	США	США	LOC	GPE-USA
+2310	2331	Don't Mess with Texas	Don't Mess with Texas	PRO	PRO-Don't-Mess-with-Texas
+2351	2356	Трамп	Трамп	PER	PER-Donald-Trump
+2462	2465	США	США	LOC	GPE-USA
+2668	2675	Twitter	Twitter	PRO	PRO-Twitter
+2676	2681	Трамп	Трамп	PER	PER-Donald-Trump
+2751	2754	США	США	LOC	GPE-USA
+2850	2859	армии США	армия США	ORG	ORG-United-States-Army
+2871	2882	Майкл Флинн	Майкл Флинн	PER	PER-Michael-Flynn
+2989	2995	Трампе	Трамп	PER	PER-Donald-Trump
+3016	3025	Пентагоне	Пентагон	LOC	LOC-The-Pentagon
+3382	3388	Трампа	Трамп	PER	PER-Donald-Trump
+3391	3401	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3497	3507	Вест-Пойнт	Вест-Пойнт	LOC	GPE-West-Point
+3546	3549	ВМС	ВМС	ORG	ORG-United-States-Navy
+3568	3573	Флинн	Флинн	PER	PER-Michael-Flynn
+3647	3650	США	США	LOC	GPE-USA
+3772	3778	Трампа	Трамп	PER	PER-Donald-Trump
+3920	3925	Флинн	Флинн	PER	PER-Michael-Flynn
+4005	4015	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+4035	4041	Трампа	Трамп	PER	PER-Donald-Trump
+4053	4063	Белом доме	Белый дом	LOC	LOC-White-House
+4164	4170	Трампа	Трамп	PER	PER-Donald-Trump
+4204	4214	Вест-Пойнт	Вест-Пойнт	LOC	GPE-West-Point
+4350	4371	Национальной разведки	Национальная разведка	ORG	ORG-National-Reconnaissance-Office
+4372	4379	техасец	техасец	LOC	GPE-Texas
+4380	4393	Джон Рэтклифф	Джон Рэтклифф	PER	PER-John-Ratcliffe
+4441	4450	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+4574	4581	Трампом	Трамп	PER	PER-Donald-Trump
+4594	4666	исполнительный указ №3848 от 2018 года о чрезвычайном положении в стране	исполнительный указ №3848 от 2018 года о чрезвычайном положении в стране	PRO	PRO-Executive-Order-3848
+4724	4727	США	США	LOC	GPE-USA
+4826	4832	Трампа	Трамп	PER	PER-Donald-Trump
+4845	4856	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+5165	5168	США	США	LOC	GPE-USA
+5201	5212	американцев	американцы	PER	GPE-USA
+5237	5245	Рэтклифф	Рэтклифф	PER	PER-John-Ratcliffe
+5297	5305	COVID-19	COVID-19	EVT	EVT-Covid-19
+5322	5328	Китаем	Китай	LOC	GPE-China
+5355	5358	США	США	LOC	GPE-USA
+5374	5380	Трампа	Трам	PER	PER-Donald-Trump
+5395	5404	китайских	китайские	LOC	GPE-China
+5419	5427	западных	западные	LOC	LOC-West
+5503	5522	"""Кибер-Перл-Харбор"""	"""Кибер-Перл-Харбор"""	PRO	PRO-Cyber-Pearl-Harbour
+5523	5535	Сидни Пауэлл	Сидни Пауэлл	PER	PER-Sidney-Powell
+5540	5546	Трампа	Трамп	PER	PER-Donald-Trump
+5767	5773	Трампа	Трамп	PER	PER-Donald-Trump
+5801	5810	техасская	техасская	LOC	GPE-Texas
+5823	5835	Сидни Пауэлл	Сидни Пауэлл	PER	PER-Sidney-Powell
+5884	5892	Царьград	Царьград	PRO	PRO-Tsargrad
+5974	5980	Трампа	Трамп	PER	PER-Donald-Trump
+6200	6203	США	США	LOC	GPE-USA
+6312	6327	"""великой Сидни"""	"""великая Сидни"""	PER	PER-Sidney-Powell
+6328	6336	Fox News	Fox News	PRO	PRO-Fox-News
+6339	6354	The Epoch Times	The Epoch Times	PRO	PRO-Financial-Times
+6486	6508	американским спецназом	американский спецназ	ORG	ORG-United-States-Army-Special-Forces
+6511	6514	ЦРУ	ЦРУ	ORG	ORG-CIA-Central-Intelligence-Agency
+6526	6545	Франкфурте-на-Майне	Франкфурт-на-Майне	LOC	GPE-Frankfurt-am-Main
+6595	6598	ФРГ	ФРГ	LOC	GPE-Germany
+6601	6609	Британии	Британия	LOC	GPE-Great-Britain
+6612	6615	США	США	LOC	GPE-USA
+6716	6725	Венесуэлы	Венесуэла	LOC	GPE-Venezuela
+6727	6732	Китая	Китай	LOC	GPE-China
+6751	6757	России	Россия	LOC	GPE-Russia
+6774	6780	Пауэлл	Пауэлл	PER	PER-Sidney-Powell
+6908	6914	Пауэлл	Пауэлл	PER	PER-Sidney-Powell
+6916	6935	"""Кибер-Перл-Харбор"""	"""Кибер-Перл-Харбор"""	PRO	PRO-Cyber-Pearl-Harbour
+6971	6982	Белого дома	Белый дом	LOC	LOC-White-House
+7004	7032	Закона о восстании 1807 года	Закон о восстании 1807 года	PRO	PRO-Insurrection-Act-of-1807
+7053	7056	США	США	LOC	GPE-USA
+7464	7470	Трампа	Трамп	PER	PER-Donald-Trump
+7473	7483	Белом доме	Белый дом	LOC	LOC-White-House
+7580	7590	Нацгвардии	Нацгвардия	ORG	ORG-United-States-National-Guard
+7651	7654	США	США	LOC	GPE-USA
+7831	7837	Трампа	Трамп	PER	PER-Donald-Trump
+7952	7962	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+8002	8016	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+8024	8034	демократам	демократы	ORG	ORG-Democratic-Party-USA
+8417	8426	трамписты	трамписты	PER	PER-Donald-Trump
+8511	8521	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+8747	8753	Трампа	Трамп	PER	PER-Donald-Trump
+8787	8797	Белом доме	Белый дом	LOC	LOC-White-House
+8868	8883	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+8885	8890	Трамп	Трамп	PER	PER-Donald-Trump
+8915	8925	демократам	демократы	ORG	ORG-Democratic-Party-USA
+8944	8957	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+9111	9119	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+9148	9157	Сенат США	Сенат США	ORG	ORG-United-States-Senate
+9176	9185	демократы	демократ	ORG	ORG-Democratic-Party-USA
+9321	9331	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+9349	9364	республиканское	республиканский	ORG	ORG-Republican-Party-USA
+9409	9419	демократов	демократ	ORG	ORG-Democratic-Party-USA
+9458	9464	Китаем	Китай	LOC	GPE-China
+9537	9543	Сенате	Сенат	ORG	ORG-United-States-Senate
+9547	9555	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+9615	9629	парламента США	парламент США	ORG	ORG-United-States-Congress
+9635	9650	демократическом	демократический	ORG	ORG-Democratic-Party-USA
+9700	9709	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+9710	9717	Америка	Америка	LOC	GPE-USA
+9738	9748	демократов	демократ	ORG	ORG-Democratic-Party-USA
+9809	9821	американские	американские	LOC	GPE-USA
+9930	9943	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+9993	10012	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+10052	10059	Байдену	Байден	PER	PER-Joe-Biden
+10227	10236	Рэтклиффа	Рэтклифф	PER	PER-John-Ratcliffe
+10354	10363	Christmas	Christmas	EVT	EVT-Christmas
+10397	10403	Трампа	Трамп	PER	PER-Donald-Trump
+10495	10505	"""Царьград"""	"""Царьград"""	PRO	PRO-Tsargrad
+10508	10519	Яндекс.Дзен	Яндекс.Дзен	PRO	PRO-Yandex.Dzen

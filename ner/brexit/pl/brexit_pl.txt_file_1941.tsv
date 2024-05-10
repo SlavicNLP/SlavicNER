@@ -1,0 +1,33 @@
+17	23	Polska	Polska	LOC	GPE-Poland
+33	41	Brexicie	Brexit	EVT	EVT-Brexit
+77	79	UK	UK	LOC	GPE-Great-Britain
+83	89	Polski	Polska	LOC	GPE-Poland
+98	113	Iwony Wysockiej	Iwona Wysocka	PER	PER-Iwona-Wysocka
+124	142	Ludzie i Pieniądze	Ludzie i Pieniądze	PRO	PRO-Ludzie-i-Pieniądze
+149	167	Zbigniew Markowski	Zbigniew Markowski	PER	PER-Zbigniew-Markowski
+176	186	OM Finance	OM Finance	ORG	ORG-OM-Finance
+188	208	Gdański Klub Biznesu	Gdański Klub Biznesu	ORG	ORG-GKB-Gdansk-Business-Club
+210	227	Dariusz Wieczorek	Dariusz Wieczorek	PER	PER-Dariusz-Wieczorek
+264	266	UG	UG	ORG	ORG-UG-University-of-Gdańsk
+272	290	Artur Kiełbasiński	Artur Kiełbasiński	PER	PER-Artur-Kiełbasiński
+292	304	Radio Gdańsk	Radio Gdańsk	PRO	PRO-Radio-Gdańsk
+306	312	Nestlé	Nestlé	ORG	ORG-Nestle-SA
+325	331	Polsce	Polska	LOC	GPE-Poland
+408	414	Polski	Polska	LOC	GPE-Poland
+523	529	Polska	Polska	LOC	GPE-Poland
+539	547	Brexicie	Brexit	EVT	EVT-Brexit
+552	558	Nestlé	Nestlé	ORG	ORG-Nestle-SA
+646	663	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+667	673	Polski	Polska	LOC	GPE-Poland
+735	753	Artur Kiełbasiński	Artur Kiełbasiński	PER	PER-Artur-Kiełbasiński
+958	966	Brexicie	Brexit	EVT	EVT-Brexit
+1109	1127	Zbigniew Markowski	Zbigniew Markowski	PER	PER-Zbigniew-Markowski
+1177	1185	Brexitem	Brexit	EVT	EVT-Brexit
+1326	1328	UE	UE	ORG	ORG-European-Union
+1371	1377	Europa	Europa	LOC	LOC-Europe
+1397	1414	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1424	1441	Dariusz Wieczorek	Dariusz Wieczorek	PER	PER-Dariusz-Wieczorek
+1478	1484	Nestlé	Nestlé	ORG	ORG-Nestle-SA
+1504	1512	Brexitem	Brexit	EVT	EVT-Brexit
+1733	1739	Polski	Polska	LOC	GPE-Poland
+1825	1834	Wieczorek	Wieczorek	PER	PER-Dariusz-Wieczorek

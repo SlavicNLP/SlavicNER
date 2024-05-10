@@ -1,0 +1,23 @@
+0	14	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+16	30	Великобритания	Великобритания	LOC	GPE-Great-Britain
+103	110	Брекзит	Брекзит	EVT	EVT-Brexit
+149	151	ЕС	ЕС	ORG	ORG-European-Union
+156	170	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+183	197	Великобритания	Великобритания	LOC	GPE-Great-Britain
+306	313	Брекзит	Брекзит	EVT	EVT-Brexit
+353	365	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+444	446	ЕС	ЕС	ORG	ORG-European-Union
+597	603	Лондон	Лондон	LOC	GPE-London
+632	634	ЕС	ЕС	ORG	ORG-European-Union
+635	647	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+658	668	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+684	691	Брекзит	Брекзит	EVT	EVT-Brexit
+692	705	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+714	721	Брюксел	Брюксел	LOC	GPE-Brussles
+836	850	Великобритания	Великобритания	LOC	GPE-Great-Britain
+859	861	ЕС	ЕС	ORG	ORG-European-Union
+926	933	Брекзит	Брекзит	EVT	EVT-Brexit
+1118	1127	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+1182	1189	Брекзит	Брекзит	EVT	EVT-Brexit
+1195	1205	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1288	1290	ЕС	ЕС	ORG	ORG-European-Union

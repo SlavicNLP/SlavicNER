@@ -1,0 +1,18 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+25	29	Čína	Čína	LOC	GPE-China
+32	37	Rusko	Rusko	LOC	GPE-Russia
+94	102	Bílý dům	Bílý dům	LOC	LOC-White-House
+115	127	Joe Bidenovi	Joe Biden	PER	PER-Joe-Biden
+154	169	Spojených států	Spojené státy	LOC	GPE-USA
+183	202	Demokratické strany	Demokratická strana	ORG	ORG-Democratic-Party-USA
+203	212	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+265	280	Spojených států	Spojené státy	LOC	GPE-USA
+291	293	AP	AP	ORG	ORG-AP-The-Associated-Press
+305	308	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+311	314	CNN	CNN	PRO	PRO-CNN
+436	447	Pensylvánie	Pensylvánie	LOC	GPE-Pennsylvania
+498	503	Biden	Biden	PER	PER-Joe-Biden
+605	608	USA	USA	LOC	GPE-USA
+613	618	Trump	Trump	PER	PER-Donald-Trump
+785	790	Biden	Biden	PER	PER-Joe-Biden
+810	817	Amerika	Amerika	LOC	GPE-USA

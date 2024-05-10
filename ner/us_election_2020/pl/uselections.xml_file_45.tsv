@@ -1,0 +1,74 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+60	72	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+94	101	Floryda	Floryda	LOC	GPE-Florida
+103	108	Idaho	Idaho	LOC	GPE-Idaho
+110	114	Utah	Utah	LOC	GPE-Utah
+116	123	Wyoming	Wyoming	LOC	GPE-Wyoming
+125	140	Dakota Północna	Dakota Północna	LOC	GPE-North-Dakota
+142	159	Dakota Południowa	Dakota Południowa	LOC	GPE-South-Dakota-US-State
+161	169	Nebraska	Nebraska	LOC	GPE-Nebraska
+171	177	Kansas	Kansas	LOC	GPE-Kansas
+179	187	Oklahoma	Oklahoma	LOC	GPE-Oklahoma
+189	197	Missouri	Missouri	LOC	GPE-Missouri
+199	207	Arkansas	Arkansas	LOC	GPE-Arkansas
+209	218	Louisiana	Louisiana	LOC	GPE-Louisiana
+220	231	Mississippi	Mississippi	LOC	GPE-Mississippi
+233	240	Alabama	Alabama	LOC	GPE-USA-Alabama
+242	261	Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+263	272	Tennessee	Tennessee	LOC	GPE-Tennessee
+274	282	Kentucky	Kentucky	LOC	GPE-Kentucky
+284	291	Indiana	Indiana	LOC	GPE-Indiana
+293	297	Ohio	Ohio	LOC	GPE-Ohio
+300	318	Wirginia Zachodnia	Wirginia Zachodnia	LOC	GPE-West-Virginia
+376	382	Trumpa	Trump	PER	PER-Donald-Trump
+399	402	CNN	CNN	PRO	PRO-CNN
+456	466	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+478	488	Kalifornię	Kalifornia	LOC	GPE-California
+495	505	Waszyngton	Waszyngton	LOC	GPE-WashingtonDC
+507	513	Oregon	Oregon	LOC	GPE-Oregon
+515	526	Nowy Meksyk	Nowy Meksyk	LOC	GPE-New-Mexico
+528	536	Kolorado	Kolorado	LOC	GPE-Colorado
+538	546	Illinois	Illinois	LOC	GPE-Illionis
+548	556	Wirginię	Wirginia	LOC	GPE-Virginia
+558	566	Maryland	Maryland	LOC	GPE-Maryland
+568	585	Dystrykt Kolumbii	Dystrykt Kolumbii	LOC	GPE-District-of-Columbia
+587	597	New Jersey	New Jersey	LOC	GPE-New-Jersey
+599	607	Delaware	Delaware	LOC	GPE-Delaware
+609	618	Nowy Jork	Nowy Jork	LOC	GPE-New-York
+620	631	Connecticut	Connecticut	LOC	GPE-Connecticut
+633	647	Massachussetts	Massachussetts	LOC	GPE-Massachusetts
+649	656	Vermont	Vermont	LOC	GPE-Vermont
+659	672	New Hampshire	New Hampshire	LOC	GPE-New-Hampshire
+677	680	USA	USA	LOC	GPE-USA
+726	734	Michigan	Michigan	LOC	GPE-Michigan
+740	749	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+783	795	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+867	875	Michigan	Michigan	LOC	GPE-Michigan
+964	969	Trump	Trump	PER	PER-Donald-Trump
+1029	1038	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1095	1100	Trump	Trump	PER	PER-Donald-Trump
+1117	1122	Biden	Biden	PER	PER-Joe-Biden
+1140	1148	Michigan	Michigan	LOC	GPE-Michigan
+1150	1159	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1165	1176	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1191	1200	Pasa Rdzy	Pas Rdzy	LOC	LOC-Rust-Belt
+1282	1288	Trumpa	Trump	PER	PER-Donald-Trump
+1392	1410	Wirginia Zachodnia	Wirginia Zachodnia	LOC	GPE-West-Virginia
+1415	1429	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1490	1492	AP	AP	ORG	ORG-AP-The-Associated-Press
+1496	1515	Wirginii Zachodniej	Wirginia Zachodnia	LOC	GPE-West-Virginia
+1556	1568	republikanie	republikanie	ORG	ORG-Republican-Party-USA
+1606	1618	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1703	1718	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1781	1800	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1802	1806	Ohio	Ohio	LOC	GPE-Ohio
+1812	1831	Wirginii Zachodniej	Wirginia Zachodnia	LOC	GPE-West-Virginia
+1833	1837	Ohio	Ohio	LOC	GPE-Ohio
+2014	2049	amerykańskich wyborów prezydenckich	amerykańskie wybory prezydenckie	EVT	EVT-2020-United-States-Presidential-Election
+2252	2261	Florydzie	Floryda	LOC	GPE-Florida
+2396	2408	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2457	2462	Miami	Miami	LOC	GPE-Miami
+2465	2472	Orlando	Orlando	LOC	GPE-Orlando
+2494	2504	demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+2559	2571	republikanów	republikanie	ORG	ORG-Republican-Party-USA
+2671	2680	Florydzie	Floryda	LOC	GPE-Florida

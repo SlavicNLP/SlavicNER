@@ -1,0 +1,154 @@
+20	28	Газпрому	Газпром	ORG	ORG-Gazprom
+53	66	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+73	79	Польща	Польща	LOC	GPE-Poland
+106	111	Данія	Данія	LOC	GPE-Denmark
+170	176	Європу	Європа	LOC	LOC-Europe
+422	431	Німеччині	Німеччина	LOC	GPE-Germany
+534	540	Європи	Європа	LOC	LOC-Europe
+547	553	Берлін	Берлін	LOC	GPE-Berlin
+643	660	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+663	676	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+678	680	NS	NS	ORG	ORG-Nord-Stream-AG
+703	710	Австрія	Австрія	LOC	GPE-Austria
+734	744	Нідерланди	Нідерланди	LOC	GPE-Holland
+747	754	Бельгія	Бельгія	LOC	GPE-Belgium
+905	918	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+967	974	України	Україна	LOC	GPE-Ukraine
+994	1000	Балтії	Балтії	LOC	LOC-Baltic-countries
+1003	1009	Латвії	Латвія	LOC	GPE-Latvia
+1011	1016	Литви	Литва	LOC	GPE-Lithuania
+1020	1027	Естонії	Естонія	LOC	GPE-Estonia
+1064	1077	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+1084	1090	Польща	Польща	LOC	GPE-Poland
+1165	1170	Данія	Данія	LOC	GPE-Denmark
+1249	1266	Північного потоку	Північний потік	ORG	ORG-Nord-Stream-AG
+1486	1499	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+1517	1520	МЗС	МЗС	ORG	ORG-Foreign-Office
+1622	1627	Данії	Данія	LOC	GPE-Denmark
+1833	1852	Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+1973	1980	України	Україна	LOC	GPE-Ukraine
+2025	2027	NS	NS	ORG	ORG-Nord-Stream-AG
+2069	2080	Копенгагена	Копенгаген	LOC	GPE-Copenhagen
+2163	2168	Данії	Данія	LOC	GPE-Denmark
+2275	2280	Тайра	Тайра	LOC	LOC-Tyra
+2282	2286	Tyra	Tyra	LOC	LOC-Tyra
+2531	2536	Данії	Данія	LOC	GPE-Denmark
+2684	2689	Данії	Данія	LOC	GPE-Denmark
+2758	2763	Данія	Данія	LOC	GPE-Denmark
+2957	2962	Данія	Данія	LOC	GPE-Denmark
+2999	3012	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+3036	3047	Королівстві	Королівство	LOC	GPE-Denmark
+3089	3102	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+3188	3197	Борнхольм	Борнхольм	LOC	LOC-Bornholm
+3455	3465	Борнхольма	Борнхольм	LOC	LOC-Bornholm
+3596	3613	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+3662	3676	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+3747	3756	Німеччини	Німеччина	LOC	GPE-Germany
+3798	3805	Балтику	Балтика	LOC	LOC-Baltic-countries
+3901	3908	Газпром	Газпром	ORG	ORG-Gazprom
+4008	4025	Турецького потоку	Турецький потік	ORG	ORG-TurkStream
+4054	4068	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+4149	4154	Данії	Данія	LOC	GPE-Denmark
+4299	4304	Данії	Данія	LOC	GPE-Denmark
+4570	4581	Nord Stream	Nord Stream	ORG	ORG-Nord-Stream-AG
+4607	4615	Газпрому	Газпром	ORG	ORG-Gazprom
+4669	4676	Готланд	Готланд	LOC	GPE-Gotland
+4698	4707	Стокгольм	Стокгольм	LOC	GPE-Stockholm
+4989	4999	Стокгольмі	Стокгольм	LOC	GPE-Stockholm
+5137	5142	Росія	Росія	LOC	GPE-Russia
+5160	5162	NS	NS	ORG	ORG-Nord-Stream-AG
+5266	5268	NS	NS	ORG	ORG-Nord-Stream-AG
+5478	5486	Україною	Україна	LOC	GPE-Ukraine
+5555	5558	ФРН	ФРН	LOC	GPE-Germany
+5593	5597	СРСР	СРСР	LOC	GPE-USSR
+5659	5676	Східної Німеччини	Східна Німеччина	LOC	GPE-East-Germany
+5678	5681	НДР	НДР	LOC	GPE-East-Germany
+5842	5851	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+5852	5859	України	Україна	LOC	GPE-Ukraine
+6196	6202	Європі	Європа	LOC	LOC-Europe
+6239	6247	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+6248	6255	України	Україна	LOC	GPE-Ukraine
+6302	6315	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+6553	6556	НАК	НАК	ORG	ORG-Naftogaz
+6587	6593	Європі	Європа	LOC	LOC-Europe
+6595	6602	Коболєв	Коболєв	PER	PER-Andrii-Kobliev
+6605	6613	Вітренко	Вітренко	PER	PER-Yuriy-Vitrenko
+6938	6956	Володимир Гройсман	Володимир Гройсман	PER	PER-Volodymyr-Groysman
+7008	7032	Ларсом Лекке Расмуссеном	Ларс Лекке Расмуссен	PER	PER-Lars-Lokke-Rasmussen
+7086	7099	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+7120	7129	Расмуссен	Расмуссен	PER	PER-Lars-Lokke-Rasmussen
+7233	7240	України	Україна	LOC	GPE-Ukraine
+7396	7405	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+7425	7442	Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+7542	7549	України	Україна	LOC	GPE-Ukraine
+7593	7595	NS	NS	ORG	ORG-Nord-Stream-AG
+7661	7666	Росії	Росія	LOC	GPE-Russia
+7707	7716	Німеччини	Німеччина	LOC	GPE-Germany
+7829	7836	України	Україна	LOC	GPE-Ukraine
+7881	7889	Газпрому	Газпром	ORG	ORG-Gazprom
+7966	7973	Донбасі	Донбас	LOC	LOC-Donbass
+8064	8070	Мінськ	Мінськ	LOC	GPE-Minsk
+8294	8303	Німеччині	Німеччина	LOC	GPE-Germany
+8312	8317	Данії	Данія	LOC	GPE-Denmark
+8358	8365	Меркель	Меркель	PER	PER-Angela-Merkel
+8530	8533	США	США	LOC	GPE-USA
+8559	8564	Штати	Штати	LOC	GPE-USA
+8612	8619	України	Україна	LOC	GPE-Ukraine
+8623	8632	Німеччини	Німеччина	LOC	GPE-Germany
+8767	8774	Україні	Україна	LOC	GPE-Ukraine
+8934	8941	Кабміну	Кабмін	ORG	ORG-Cabinet-of-Ministers-Ukraine
+9064	9072	Газпрому	Газпром	ORG	ORG-Gazprom
+9077	9085	Роснефти	Роснефть	ORG	ORG-Rosneft
+9090	9097	Новатек	Новатек	ORG	ORG-Novatek
+9262	9267	Данія	Данія	LOC	GPE-Denmark
+9271	9277	Польща	Польща	LOC	GPE-Poland
+9498	9501	США	США	LOC	GPE-USA
+9563	9573	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+9676	9689	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+9724	9727	США	США	LOC	GPE-USA
+9745	9751	Європу	Європа	LOC	LOC-Europe
+9988	10001	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+10145	10160	Північного моря	Північне море	LOC	LOC-North-Sea
+10249	10256	Газпром	Газпром	ORG	ORG-Gazprom
+10340	10345	Литві	Литва	LOC	GPE-Lithuania
+10365	10372	Газпром	Газпром	ORG	ORG-Gazprom
+10396	10404	Вільнюса	Вільнюс	LOC	GPE-Vilnius
+10438	10445	Варшава	Варшава	LOC	GPE-Warsaw
+10495	10497	NS	NS	ORG	ORG-Nord-Stream-AG
+10495	10499	NS-2	NS-2	ORG	ORG-Nord-Stream-2-AG
+10601	10604	США	США	LOC	GPE-USA
+10607	10613	Катару	Катар	LOC	GPE-Qatar
+10623	10629	Щецина	Щецин	LOC	GPR-Szczecin
+10668	10685	Балтійської труби	Балтійська труба	ORG	ORG-Baltic-Pipe
+10688	10699	Baltic Pipe	Baltic Pipe	ORG	ORG-Baltic-Pipe
+10712	10717	Данію	Данія	LOC	GPE-Denmark
+10749	10764	Північного моря	Північне море	LOC	LOC-North-Sea
+10850	10857	Варшави	Варшава	LOC	GPE-Warsaw
+10882	10900	Ямальський договір	Ямальський договір	EVT	EVT-Kontrakt-jamalski
+10912	10921	Газпромом	Газпром	ORG	ORG-Gazprom
+10954	10960	Польща	Польща	LOC	GPE-Poland
+11126	11135	Газпромом	Газпром	ORG	ORG-Gazprom
+11139	11164	Стокгольмському арбітражі	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+11202	11208	Польща	Польща	LOC	GPE-Poland
+11261	11264	ФРН	ФРН	LOC	GPE-Germany
+11267	11274	Газпром	Газпром	ORG	ORG-Gazprom
+11441	11448	Варшави	Варшава	LOC	GPE-Warsaw
+11488	11503	Північні ворота	Північні ворота	ORG	ORG-North-Gates
+11609	11620	Baltic Pipe	Baltic Pipe	ORG	ORG-Baltic-Pipe
+12053	12059	Балтії	Балтії	LOC	LOC-Baltic-countries
+12281	12290	Німеччини	Німеччина	LOC	GPE-Germany
+12304	12308	Ямал	Ямал	LOC	GPE-Yamal
+12309	12323	Західна Європа	Західна Європа	LOC	LOC-Western-Europe
+12338	12344	Польщу	Польща	LOC	GPE-Poland
+12348	12351	ФРН	ФРН	LOC	GPE-Germany
+12383	12396	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+12442	12450	Варшавою	Варшава	LOC	GPE-Warsaw
+12495	12506	Baltic Pipe	Baltic Pipe	ORG	ORG-Baltic-Pipe
+12754	12764	Борнхольму	Борнхольм	LOC	LOC-Bornholm
+12922	12939	Балтійської труби	Балтійська труба	ORG	ORG-Baltic-Pipe
+12968	12977	Німеччини	Німеччина	LOC	GPE-Germany
+13049	13056	Варшави	Варшава	LOC	GPE-Warsaw
+13059	13066	Берліна	Берлін	LOC	GPE-Berlin
+13070	13081	Nord Stream	Nord Stream	ORG	ORG-Nord-Stream-AG
+13177	13183	Данією	Данія	LOC	GPE-Denmark
+13287	13300	Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG

@@ -1,0 +1,62 @@
+24	32	Инес Пол	Инес Пол	PER	PER-Ines-Pohl
+73	84	демократите	демократи	PER	ORG-Democratic-Party-USA
+104	114	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+157	162	Сенат	Сенат	ORG	ORG-United-States-Senate
+170	178	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+187	201	републиканците	републиканци	PER	ORG-Republican-Party-USA
+249	257	Сам Дени	Сам Дени	PER	PER-Sam-Denney
+393	402	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+420	428	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+549	552	Сам	Сам	PER	PER-Sam-Denney
+558	572	републиканците	републиканци	PER	ORG-Republican-Party-USA
+583	590	Сенатът	Сенат	ORG	ORG-United-States-Senate
+676	686	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+689	697	Сам Дени	Сам Дени	PER	PER-Sam-Denney
+779	802	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+809	820	демократите	демократи	PER	ORG-Democratic-Party-USA
+833	839	Сената	Сенат	ORG	ORG-United-States-Senate
+841	855	републиканците	републиканците	PER	ORG-Republican-Party-USA
+1011	1014	САЩ	САЩ	LOC	GPE-USA
+1185	1191	Сената	Сенат	ORG	ORG-United-States-Senate
+1210	1219	демократи	демократи	PER	ORG-Democratic-Party-USA
+1235	1241	Сената	Сенат	ORG	ORG-United-States-Senate
+1260	1274	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1275	1287	Дейвид Пердю	Дейвид Пердю	PER	PER-David-Perdue
+1290	1301	Кели Лофлър	Кели Лофлър	PER	PER-Kelly-Loeffler
+1317	1319	ДВ	ДВ	PRO	PRO-Deutsche-Welle
+1331	1342	демократите	демократи	PER	ORG-Democratic-Party-USA
+1344	1353	Джон Ософ	Джон Ософ	PER	PER-Jon-Ossoff
+1404	1407	САЩ	САЩ	LOC	GPE-USA
+1566	1577	демократите	демократи	PER	ORG-Democratic-Party-USA
+1588	1601	Рафаел Уорнок	Рафаел Уорнок	PER	PER-Raphael-Warnock
+1663	1680	Мартин Лутър Кинг	Мартин Лутър Кинг	PER	PER-Martin-Luther-King
+1690	1699	демократи	демократи	PER	ORG-Democratic-Party-USA
+2102	2115	Джеси Глийтън	Джеси Глийтън	PER	PER-Jessye-Gleaton
+2196	2201	Джеси	Джеси	PER	PER-Jessye-Gleaton
+2241	2246	Джеси	Джеси	PER	PER-Jessye-Gleaton
+2261	2272	демократите	демократи	PER	ORG-Democratic-Party-USA
+2528	2533	Джеси	Джеси	PER	PER-Jessye-Gleaton
+2753	2761	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2789	2802	Стейси Абрамс	Стейси Абрамс	PER	PER-Stacey-Abrams
+2822	2832	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2885	2893	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2920	2933	Картър Кръншо	Картър Кръншо	PER	PER-Carter-Crenshaw
+2945	2957	републиканец	републиканец	PER	ORG-Republican-Party-USA
+2994	3006	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3023	3034	демократите	демократи	PER	ORG-Democratic-Party-USA
+3201	3214	Картър Кръншо	Картър Кръншо	PER	PER-Carter-Crenshaw
+3243	3256	Стейси Абрамс	Стейси Абрамс	PER	PER-Stacey-Abrams
+3303	3306	САЩ	САЩ	LOC	GPE-USA
+3342	3348	Кръншо	Кръншо	PER	PER-Carter-Crenshaw
+3427	3438	демократите	демократи	PER	ORG-Democratic-Party-USA
+3505	3519	афроамериканци	афроамериканци	PER	GPE-USA
+3588	3594	Сената	Сенат	ORG	ORG-United-States-Senate
+3782	3794	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3819	3828	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+4008	4016	Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+4083	4105	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+4215	4227	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+4280	4288	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+4289	4297	Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+4338	4352	републиканците	републиканци	PER	ORG-Republican-Party-USA
+4375	4381	Сената	Сенат	ORG	ORG-United-States-Senate

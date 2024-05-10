@@ -1,0 +1,28 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+38	48	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+99	104	Тръмп	Тръмп	PER	PER-Donald-Trump
+153	161	Covid-19	COVID-19	EVT	EVT-Covid-19
+164	176	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+232	253	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+256	272	Съединените щати	Съединени щати	LOC	GPE-USA
+369	379	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+386	394	Guardian	Guardian	PRO	PRO-The-Guardian
+448	453	Тръмп	Тръмп	PER	PER-Donald-Trump
+544	550	Байдън	Байдън	PER	PER-Joe-Biden
+597	621	коронавирусната пандемия	коронавирусна пандемия	EVT	EVT-Covid-19
+722	731	Белия дом	Белия дом	LOC	LOC-White-House
+932	938	Байдън	Байдън	PER	PER-Joe-Biden
+1009	1014	Тръмп	Тръмп	PER	PER-Donald-Trump
+1167	1205	Министерството на вътрешната сигурност	Министерство на вътрешната сигурност	ORG	ORG-United-States-Secretary-of-Homeland-Security
+1264	1267	САЩ	САЩ	LOC	GPE-USA
+1299	1304	Тръмп	Тръмп	PER	PER-Donald-Trump
+1395	1413	Деня на ветераните	Ден на ветераните	EVT	EVT-Veterans-Day-USA
+1455	1467	американците	американци	PER	GPE-USA
+1555	1560	Тръмп	Тръмп	PER	PER-Donald-Trump
+1587	1596	Белия дом	Белия дом	LOC	LOC-White-House
+1668	1676	Covid-19	COVID-19	EVT	EVT-Covid-19
+1726	1735	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1774	1786	коронавируса	коронавирус	EVT	EVT-Covid-19
+1787	1799	Дебора Бъркс	Дебора Бъркс	PER	ORG-Deborah-Birx
+1826	1842	Съединените щати	Съединени щати	LOC	GPE-USA
+1891	1896	Тръмп	Тръмп	PER	PER-Donald-Trump

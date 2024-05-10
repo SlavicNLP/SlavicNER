@@ -1,0 +1,44 @@
+6	16	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+56	62	Brexit	Brexit	EVT	EVT-Brexit
+65	79	Deutsche Welle	Deutsche Welle	ORG	ORG-Deutsche-Welle
+97	113	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+114	124	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+223	229	Brexit	Brexit	EVT	EVT-Brexit
+680	688	Британія	Британія	LOC	GPE-Great-Britain
+798	804	Brexit	Brexit	EVT	EVT-Brexit
+838	840	ЄС	ЄС	LOC	ORG-European-Union
+888	894	Brexit	Brexit	EVT	EVT-Brexit
+1033	1049	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+1088	1097	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1194	1202	Sky News	Sky News	ORG	ORG-Sky-News
+1263	1278	Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+1292	1311	Європейському союзі	Європейський союз	ORG	ORG-European-Union
+1361	1363	ЄС	ЄС	LOC	ORG-European-Union
+1435	1437	ЄС	ЄС	LOC	ORG-European-Union
+1509	1523	Великобританії	Великобританія	LOC	GPE-Great-Britain
+1625	1635	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1661	1667	Brexit	Brexit	EVT	EVT-Brexit
+1760	1766	Brexit	Brexit	EVT	EVT-Brexit
+1798	1815	Раніл Джаявардена	Раніл Джаяварден	PER	PER-Ranil-Dzhayavardena
+1835	1853	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+1854	1865	Шейлеш Вара	Шейлеш Вара	PER	PER-Shailesh-Vara
+1880	1886	Brexit	Brexit	EVT	EVT-Brexit
+1887	1899	Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+1935	1947	Естер Маквей	Естер Маквей	PER	PER-Ester-Makvi
+1968	1974	Brexit	Brexit	EVT	EVT-Brexit
+1975	1984	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1988	2004	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+2125	2133	Британії	Британія	LOC	GPE-Great-Britain
+2136	2138	ЄС	ЄС	LOC	ORG-European-Union
+2189	2192	Мей	Мей	PER	PER-Theresa-May
+2218	2224	Brexit	Brexit	EVT	EVT-Brexit
+2232	2238	Brexit	Brexit	EVT	EVT-Brexit
+2337	2345	Британії	Британія	LOC	GPE-Great-Britain
+2354	2357	МЗС	МЗС	ORG	ORG-Foreign-Office
+2358	2371	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+2397	2403	Brexit	Brexit	EVT	EVT-Brexit
+2426	2436	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2484	2486	ЄС	ЄС	LOC	ORG-European-Union
+2513	2516	Мей	Мей	PER	PER-Theresa-May
+2538	2546	Британії	Британія	LOC	GPE-Great-Britain
+2617	2623	Brexit	Brexit	EVT	EVT-Brexit

@@ -1,0 +1,38 @@
+0	25	Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+110	119	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+166	169	CNN	CNN	PRO	PRO-CNN
+225	233	Fox News	Fox News	PRO	PRO-Fox-News
+267	276	Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+313	325	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+366	380	New York Times	New York Times	PRO	PRO-The-New-York-Times
+406	412	Bidena	Biden	PER	PER-Joe-Biden
+417	424	Trumpem	Trump	PER	PER-Donald-Trump
+473	478	Trump	Trump	PER	PER-Donald-Trump
+590	610	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+652	659	twitter	twitter	PRO	PRO-Twitter
+660	672	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+694	700	Trumpa	Trump	PER	PER-Donald-Trump
+835	843	Teksasie	Teksas	LOC	GPE-Texas
+913	925	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+957	966	Florydzie	Floryda	LOC	GPE-Florida
+1049	1062	Republikanina	Republikanin	PER	ORG-Republican-Party-USA
+1120	1129	Latynosów	Latynosi	PER	GPE-Latin-America
+1131	1143	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1171	1175	Ohio	Ohio	LOC	GPE-Ohio
+1255	1266	Joe Bidenem	Joe Biden	PER	PER-Joe-Biden
+1362	1381	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1439	1448	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1473	1476	NYT	NYT	PRO	PRO-The-New-York-Times
+1518	1527	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+1576	1588	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1640	1648	Teksasie	Teksas	LOC	GPE-Texas
+1650	1654	Ohio	Ohio	LOC	GPE-Ohio
+1656	1675	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1684	1693	Florydzie	Floryda	LOC	GPE-Florida
+1825	1836	Białym Domu	Biały Dom	LOC	LOC-White-House
+1856	1868	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+1907	1928	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+2034	2042	CBS News	CBS News	PRO	PRO-CBS-News
+2118	2127	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+2263	2271	Michigan	Michigan	LOC	GPE-Michigan
+2302	2313	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania

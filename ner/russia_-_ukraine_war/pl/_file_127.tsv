@@ -1,0 +1,43 @@
+0	7	Gazprom	Gazprom	ORG	ORG-Gazprom
+21	27	Europę	Europa	LOC	LOC-Europe
+50	57	Austria	Austria	LOC	GPE-Austria
+103	110	Austrii	Austria	LOC	GPE-Austria
+111	124	Karl Nehammer	Karl Nehammer	PER	PER-Karl-Nehammer
+169	178	Salzburgu	Salzburg	LOC	GPE-Salzburg
+187	194	Gazprom	Gazprom	ORG	ORG-Gazprom
+228	237	Niemczech	Niemcy	LOC	GPE-Germany
+255	272	Bundesnetzagentur	Bundesnetzagentur	ORG	ORG-Bundesnetzagentur
+307	313	Astory	Astora	ORG	ORG-Astora
+327	333	Rosjan	Rosjanie	PER	GPE-Russia
+364	371	Europie	Europa	LOC	LOC-Europe
+382	401	inwazji na Ukrainie	inwazja na Ukrainie	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+456	463	Gazprom	Gazprom	ORG	ORG-Gazprom
+589	603	Kronen Zeitung	Kronen Zeitung	PRO	PRO-Kronen-Zeitung
+622	629	Heidach	Heidach	LOC	LOC-Haidach
+632	641	Salzburgu	Salzburg	LOC	GPE-Salzburg
+656	663	Austrii	Austria	LOC	GPE-Austria
+674	681	Europie	Europa	LOC	LOC-Europe
+757	762	AGSI+	AGSI+	ORG	ORG-AGSI+
+897	905	Rosjanie	Rosjanie	PER	GPE-Russia
+931	938	Europie	Europa	LOC	LOC-Europe
+1027	1044	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1053	1058	Rosji	Rosja	LOC	GPE-Russia
+1062	1069	Ukrainę	Ukraina	LOC	GPE-Ukraine
+1071	1077	Niemcy	Niemcy	LOC	GPE-Germany
+1125	1133	Gazpromu	Gazprom	ORG	ORG-Gazprom
+1158	1164	Astora	Astora	ORG	ORG-Astora
+1182	1199	Bundesnetzagentur	Bundesnetzagentur	ORG	ORG-Bundesnetzagentur
+1261	1267	Polski	Polska	LOC	GPE-Poland
+1279	1287	Rosjanie	Rosjanie	PER	GPE-Russia
+1339	1347	Bułgarii	Bułgaria	LOC	GPE-Bulgaria
+1353	1359	Polski	Polska	LOC	GPE-Poland
+1415	1424	Niemczech	Niemcy	LOC	GPE-Germany
+1487	1493	Wingas	Wingas	ORG	ORG-Wingas
+1495	1499	WIEH	WIEH	ORG	ORG-WIEH
+1502	1506	WIEE	WIEE	ORG	ORG-WIEE
+1534	1550	Gazprom Germania	Gazprom Germania	ORG	ORG-Gazprom
+1552	1593	Ministerstwo gospodarki i klimatu Niemiec	Ministerstwo gospodarki i klimatu Niemiec	ORG	ORG-Ministry-for-Economic-Affairs-Germanyand Climate Action
+1665	1670	Rosji	Rosja	LOC	GPE-Russia
+1672	1686	Kronen Zeitung	Kronen Zeitung	PRO	PRO-Kronen-Zeitung
+1687	1698	Kommiersant	Kommiersant	PRO	PRO-Kommersant
+1699	1715	Wojciech Jakóbik	Wojciech Jakóbik	PER	PER-Wojciech-Jakóbik

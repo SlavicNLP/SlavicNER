@@ -1,0 +1,16 @@
+0	12	The Guardian	The Guardian	PRO	PRO-The-Guardian
+14	16	ЕС	ЕС	ORG	ORG-European-Union
+75	82	Брюксел	Брюксел	LOC	GPE-Brussles
+107	123	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+127	134	Брекзит	Брекзит	EVT	EVT-Brexit
+135	147	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+218	225	Брюксел	Брюксел	LOC	GPE-Brussles
+268	282	Великобритания	Великобритания	LOC	GPE-Great-Britain
+316	324	Ирландия	Ирландия	LOC	GPE-Ireland
+331	343	The Guardian	The Guardian	PRO	PRO-The-Guardian
+344	350	Барние	Барние	PER	PER-Michel-Barnier
+608	610	ЕС	ЕС	ORG	ORG-European-Union
+645	652	Брекзит	Брекзит	EVT	EVT-Brexit
+726	740	Великобритания	Великобритания	LOC	GPE-Great-Britain
+884	898	Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev
+1038	1067	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

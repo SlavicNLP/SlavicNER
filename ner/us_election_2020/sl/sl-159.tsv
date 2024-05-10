@@ -1,0 +1,30 @@
+3	8	Trump	Trump	PER	PER-Donald-Trump
+222	229	Trumpov	Trumpov	PER	PER-Donald-Trump
+250	262	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+351	358	Melania	Melania	PER	PER-Melania-Trump
+490	497	Melania	Melania	PER	PER-Melania-Trump
+589	598	New Yorka	New York	LOC	GPE-New-York
+601	611	Washington	Washington	LOC	GPE-WashingtonDC
+621	629	Barronom	Barron	PER	PER-Barron-Trump
+635	644	New Yorku	New York	LOC	GPE-New-York
+756	765	Belo hišo	Bela hiša	LOC	LOC-White-House
+794	800	Barron	Barron	PER	PER-Barron-Trump
+840	848	Trumpovi	Trump	PER	PER-Donald-Trump
+939	956	Stephanie Wolkoff	Stephanie Wolkoff	PER	PER-Stephanie-Wolkoff
+996	1004	Trumpova	Trump	PER	PER-Donald-Trump
+1179	1187	Trumpova	Trump	PER	PER-Donald-Trump
+1202	1207	Ivana	Ivana	PER	PER-Ivana-Trump
+1400	1405	Ivana	Ivana	PER	PER-Ivana-Trump
+1423	1429	People	People	PRO	PRO-People
+1623	1628	Ivana	Ivana	PER	PER-Ivana-Trump
+1645	1649	Eric	Eric	PER	PER-Eric-Trump
+1651	1664	Donald mlajši	Donald mlajši	PER	PER-Donald-Trump-Jr.
+1668	1674	Ivanka	Ivanka	PER	PER-Ivanka-Trump
+1720	1729	Belo hišo	Bela hiša	LOC	LOC-White-House
+1759	1783	Omarosa Manigault Newman	Omarosa Manigault Newman	PER	PER-Omarosa-Manigault-Newman
+1994	1999	Trump	Trump	PER	PER-Donald-Trump
+2088	2095	Melania	Melania	PER	PER-Melania-Trump
+2224	2232	Trumpova	Trump	PER	PER-Donald-Trump
+2244	2256	Marla Maples	Marla Maples	PER	PER-Marla-Maples
+2342	2348	Trumpu	Trump	PER	PER-Donald-Trump
+2472	2479	Melania	Melania	PER	PER-Melania-Trump

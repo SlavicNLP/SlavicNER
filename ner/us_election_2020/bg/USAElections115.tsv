@@ -1,0 +1,45 @@
+40	64	избори за Сената  на САЩ	избори за Сената на САЩ	EVT	EVT-USA-Senate-Elections-2020
+83	91	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+95	104	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+116	119	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+152	158	Сената	Сенат	ORG	ORG-United-States-Senate
+162	182	американския Конгрес	американски Конгрес	ORG	ORG-United-States-Congress
+210	218	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+228	238	Франс прес	Франс прес	ORG	ORG-France-Presse
+352	358	Сената	Сенат	ORG	ORG-United-States-Senate
+409	417	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+456	468	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+497	500	САЩ	САЩ	LOC	GPE-USA
+501	511	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+513	523	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+543	550	Атланта	Атланта	LOC	GPE-Atlanta
+565	573	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+577	589	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+600	606	Далтън	Далтън	LOC	GPE-Dalton-Georgia
+653	662	Белия дом	Бял дом	LOC	LOC-White-House
+690	698	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+777	789	републиканци	републиканци	PER	ORG-Republican-Party-USA
+791	802	Кели Лофлър	Кели Лофлър	PER	PER-Kelly-Loeffler
+805	817	Дейвид Пердю	Дейвид Пердю	PER	PER-David-Perdue
+843	881	горната камара на американския Конгрес	Горна камара на американския Конгрес	ORG	ORG-United-States-Senate
+910	919	демократи	демократи	PER	ORG-Democratic-Party-USA
+921	934	Рафаел Уорнок	Рафаел Уорнок	PER	PER-Raphael-Warnock
+937	946	Джон Ософ	Джон Ософ	PER	PER-Jon-Ossoff
+953	959	Лофлър	Лофлър	PER	PER-Kelly-Loeffler
+962	967	Пердю	Пердю	PER	PER-David-Perdue
+1000	1006	Сената	Сенат	ORG	ORG-United-States-Senate
+1008	1030	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+1071	1097	горната камара на Конгреса	Горна камара на Конгреса	ORG	ORG-United-States-Senate
+1146	1160	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1218	1224	Байдън	Байдън	PER	PER-Joe-Biden
+1290	1296	Уорнок	Уорнок	PER	PER-Raphael-Warnock
+1299	1303	Ософ	Ософ	PER	PER-Jon-Ossoff
+1359	1373	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1382	1393	демократите	демократи	PER	ORG-Democratic-Party-USA
+1424	1430	Сената	Сенат	ORG	ORG-United-States-Senate
+1471	1483	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+1517	1523	Сената	Сенат	ORG	ORG-United-States-Senate
+1573	1584	демократите	демократи	PER	ORG-Democratic-Party-USA
+1625	1631	Байдън	Байдън	PER	PER-Joe-Biden
+1670	1681	демократите	демократи	PER	ORG-Democratic-Party-USA
+1696	1752	Камарата на представителите (долната камара на Конгреса)	Камара на представителите (Долна камара на Конгреса)	ORG	ORG-House-of-Representatives(USA)

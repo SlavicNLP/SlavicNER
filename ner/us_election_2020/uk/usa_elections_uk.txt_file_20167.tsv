@@ -1,0 +1,16 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+51	58	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+98	101	США	США	LOC	GPE-USA
+102	117	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+131	146	Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+183	205	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+217	229	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+245	251	Трампа	Трамп	PER	PER-Donald-Trump
+265	284	Верховного суду США	Верховний суд США	ORG	ORG-Supreme-Court-of-the-United-States
+318	352	Верховного суду штату Пенсильванія	Верховний суд штату Пенсильванія	ORG	ORG-Supreme-Court-of-Pennsylvania
+482	504	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+540	566	Верховний суд Пенсильванії	Верховний суд Пенсильванії	ORG	ORG-Supreme-Court-of-Pennsylvania
+673	679	Трампа	Трамп	PER	PER-Donald-Trump
+692	705	Верховний суд	Верховний суд	ORG	ORG-Supreme-Court-of-the-United-States
+1032	1042	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1186	1198	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania

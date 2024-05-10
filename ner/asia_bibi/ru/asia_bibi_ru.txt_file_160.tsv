@@ -1,0 +1,26 @@
+0	6	Канада	Канада	LOC	GPE-Canada
+26	36	Пакистаном	Пакистан	LOC	GPE-Pakistan
+55	64	Азии Биби	Азия Биби	PER	PER-Asia-Bibi
+67	72	Трюдо	Трюдо	PER	PER-Justin-Trudeau
+96	102	Канады	Канада	LOC	GPE-Canada
+125	135	Пакистаном	Пакистан	LOC	GPE-Pakistan
+155	164	Азии Биби	Азия Биби	PER	PER-Asia-Bibi
+255	261	Канады	Канада	LOC	GPE-Canada
+262	275	Джастин Трюдо	Джастин Трюдо	PER	PER-Justin-Trudeau
+308	315	Reuters	Reuters	ORG	ORG-Reuters
+344	348	Биби	Биби	PER	PER-Asia-Bibi
+383	392	Пакистане	Пакистан	LOC	GPE-Pakistan
+431	455	Техрик-э-Лабаик Пакистан	Техрик-э-Лабаик Пакистан	ORG	ORG-Tehreek-e-Labbaik-Pakistan
+525	529	Биби	Биби	PER	PER-Asia-Bibi
+577	592	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+665	675	Ашик Масих	Ашик Масих	PER	PER-Ashiq-Masih
+696	710	Великобритании	Великобритания	LOC	GPE-Great-Britain
+712	718	Канады	Канада	LOC	GPE-Canada
+720	726	Италии	Италия	LOC	GPE-Italy
+729	732	США	США	LOC	GPE-USA
+774	783	Пакистана	Пакистан	LOC	GPE-Pakistan
+793	798	Трюдо	Трюдо	PER	PER-Justin-Trudeau
+811	817	Париже	Париж	LOC	GPE-Paris
+983	989	Канада	Канада	LOC	GPE-Canada
+1035	1039	Биби	Биби	PER	PER-Asia-Bibi
+1165	1176	Нидерландах	Нидерланды	LOC	GPE-Holland

@@ -1,0 +1,17 @@
+13	21	Ирландия	Ирландия	LOC	GPE-Ireland
+38	45	Брекзит	Брекзит	EVT	EVT-Brexit
+124	136	Лио Варадкар	Лио Варадкар	PER	PER-Leo-Varadkar
+145	159	Великобритания	Великобритания	LOC	GPE-Great-Britain
+231	247	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+315	322	Брекзит	Брекзит	EVT	EVT-Brexit
+332	347	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+361	364	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+491	499	Варадкар	Варадкар	PER	PER-Leo-Varadkar
+501	515	Великобритания	Великобритания	LOC	GPE-Great-Britain
+524	526	ЕС	ЕС	ORG	ORG-European-Union
+646	662	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+677	679	ЕС	ЕС	ORG	ORG-European-Union
+680	688	Ирландия	Ирландия	LOC	GPE-Ireland
+723	725	ЕС	ЕС	ORG	ORG-European-Union
+764	771	Брекзит	Брекзит	EVT	EVT-Brexit
+1019	1027	Варадкар	Варадкар	PER	PER-Leo-Varadkar

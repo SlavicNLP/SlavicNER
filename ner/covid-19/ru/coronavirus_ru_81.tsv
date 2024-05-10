@@ -1,0 +1,36 @@
+14	26	коронавируса	коронавирус	EVT	EVT-Covid-19
+191	209	Николаем Крючковым	Николай Крючков	PER	PER-Nikolai-Kryuchkov
+270	278	COVID-19	COVID-19	EVT	EVT-Covid-19
+375	383	COVID-19	COVID-19	EVT	EVT-Covid-19
+629	647	Николаем Крючковым	Николай Крючков	PER	PER-Nikolai-Kryuchkov
+699	704	ковид	ковид	EVT	EVT-Covid-19
+848	854	России	Россия	LOC	GPE-Russia
+1441	1453	коронавируса	коронавирус	EVT	EVT-Covid-19
+1762	1774	коронавируса	коронавирус	EVT	EVT-Covid-19
+1839	1850	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+2196	2204	«короне»	корона	EVT	EVT-Covid-19
+3099	3111	коронавируса	коронавирус	EVT	EVT-Covid-19
+4455	4470	Николай Крючков	Николай Крючков	PER	PER-Nikolai-Kryuchkov
+4898	4910	американские	американские	PER	GPE-USA
+5044	5069	московского правительства	московское правительство	ORG	ORG-Government-of-Moscow
+5070	5076	mos.ru	mos.ru	PRO	PRO-Mos-.ru
+5180	5192	коронавируса	коронавирус	EVT	EVT-Covid-19
+5334	5346	коронавируса	коронавирус	EVT	EVT-Covid-19
+5450	5456	ковида	ковид	EVT	EVT-Covid-19
+5599	5611	коронавируса	коронавирус	EVT	EVT-Covid-19
+5827	5832	ковид	ковид	EVT	EVT-Covid-19
+5847	5854	ковидом	ковид	EVT	EVT-Covid-19
+5897	5908	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+5912	5924	ЭпиВакКорона	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+5928	5947	чумаковская вакцина	чумаковская вакцина	PRO	PRO-Chumakov-Vaccine
+5993	6004	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+6006	6017	оксфордская	оксфордский	PER	GPE-Oxford
+6021	6034	«АстраЗенеки»	«АстраЗенека»	ORG	ORG-AstraZeneca
+6036	6045	китайская	китайский	PER	GPE-China
+6049	6067	CanSino Biological	CanSino Biological	ORG	ORG-Cansino-Biologics
+6231	6243	коронавируса	коронавирус	EVT	EVT-Covid-19
+6332	6342	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+6769	6781	коронавируса	коронавирус	EVT	EVT-Covid-19
+6898	6903	Ковид	КОВИД-19	EVT	EVT-Covid-19
+7029	7041	коронавируса	коронавирус	EVT	EVT-Covid-19
+7269	7284	Николай Крючков	Николай Крючков	PER	PER-Nikolai-Kryuchkov

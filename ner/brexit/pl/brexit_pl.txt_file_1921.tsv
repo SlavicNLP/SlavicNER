@@ -1,0 +1,26 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+39	46	Wyspach	Wyspy	LOC	GPE-Great-Britain
+68	78	W. Bytanii	W. Bytania	LOC	GPE-Great-Britain
+81	98	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+298	316	Baker and McKenzie	Baker and McKenzie	ORG	ORG-Baker-McKenzie
+334	343	Niemczech	Niemcy	LOC	GPE-Germany
+345	352	Francji	Francja	LOC	GPE-France
+354	361	Szwecji	Szwecja	LOC	GPE-Sweden
+363	371	Irlandii	Irlandia	LOC	GPE-Ireland
+373	382	Hiszpanii	Hiszpania	LOC	GPE-Spain
+385	393	Holandii	Holandia	LOC	GPE-Holland
+554	562	Bruksela	Bruksela	LOC	GPE-Brussles
+589	596	Londynu	Londyn	LOC	GPE-London
+730	736	Brexit	Brexit	EVT	EVT-Brexit
+797	806	Niemczech	Niemcy	LOC	GPE-Germany
+808	821	Anahita Thoms	Anahita Thoms	PER	PER-Elaine-Thomson
+891	894	BDI	BDI	ORG	ORG-BDI-Bundesverband-der-Deutschen-Industrie
+929	940	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1023	1029	Airbus	Airbus	ORG	ORG-Airbus-SE
+1047	1053	Brexit	Brexit	EVT	EVT-Brexit
+1132	1143	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1205	1216	Theresy May	Theresa May	PER	PER-Theresa-May
+1399	1410	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1426	1430	Unii	Unia	ORG	ORG-European-Union
+1562	1571	Londynowi	Londyn	LOC	GPE-London
+1834	1852	Baker and McKenzie	Baker and McKenzie	ORG	ORG-Baker-McKenzie

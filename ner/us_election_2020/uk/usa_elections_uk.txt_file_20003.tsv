@@ -1,0 +1,34 @@
+0	18	Колегія виборників	Колегія виборників	ORG	ORG-United-States-Electoral-College
+39	46	Байдена	Байден	PER	PER-Joe-Biden
+50	72	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+73	76	США	США	LOC	GPE-USA
+79	97	Колегія виборників	Колегія виборників	ORG	ORG-United-States-Electoral-College
+137	148	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+151	173	виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+205	223	Колегії виборників	Колегія виборників	ORG	ORG-United-States-Electoral-College
+259	273	Округ Колумбія	Округ Колумбія	LOC	GPE-District-of-Columbia
+388	395	Байдена	Байден	PER	PER-Joe-Biden
+406	421	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+531	546	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+573	580	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+717	725	Вермонті	Вермонт	LOC	GPE-Vermont
+801	811	Каліфорнії	Каліфорнія	LOC	GPE-California
+835	841	Невада	Невада	LOC	GPE-Nevada
+843	851	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+853	865	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+867	874	Аризона	Аризона	LOC	GPE-Arizona
+876	883	Мічиган	Мічиган	LOC	GPE-Michigan
+887	896	Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+901	906	Трамп	Трамп	PER	PER-Donald-Trump
+996	1003	Байдена	Байден	PER	PER-Joe-Biden
+1180	1192	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+1194	1202	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1204	1211	Аризоні	Аризона	LOC	GPE-Arizona
+1215	1225	Вісконсині	Вісконсин	LOC	GPE-Wisconsin
+1240	1246	Трампа	Трамп	PER	PER-Donald-Trump
+1283	1301	Колегії виборників	Колегія виборників	ORG	ORG-United-States-Electoral-College
+1401	1407	Трампа	Трамп	PER	PER-Donald-Trump
+1526	1534	Конгресі	Конгрес	ORG	ORG-United-States-Congress
+1598	1618	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+1628	1634	Трампу	Трамп	PER	PER-Donald-Trump
+1708	1716	Конгресу	Конгрес	ORG	ORG-United-States-Congress

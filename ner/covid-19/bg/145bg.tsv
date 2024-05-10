@@ -1,0 +1,48 @@
+0	5	Китай	Китай	LOC	GPE-China
+26	34	България	България	LOC	GPE-Bulgaria
+98	110	коронавируса	коронавирус	EVT	EVT-Covid-19
+140	147	Борисов	Борисов	PER	PER-Boyko-Borisov
+167	175	Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+200	213	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+255	260	Китай	Китай	LOC	GPE-China
+261	269	Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+279	304	пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Pandemic
+411	419	COVID-19	COVID-19	EVT	EVT-Covid-19
+422	429	Борисов	Борисов	PER	PER-Boyko-Borisov
+439	444	Китай	Китай	LOC	GPE-China
+498	510	коронавируса	коронавирус	EVT	EVT-Covid-19
+558	566	Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+707	712	Китай	Китай	LOC	GPE-China
+715	723	Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+758	763	Китай	Китай	LOC	GPE-China
+837	849	коронавируса	коронавирус	EVT	EVT-Covid-19
+1028	1036	Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+1063	1071	България	България	LOC	GPE-Bulgaria
+1072	1084	коронавируса	коронавирус	EVT	EVT-Covid-19
+1139	1144	Китай	Китай	LOC	GPE-China
+1257	1262	Китай	Китай	LOC	GPE-China
+1300	1320	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1349	1357	България	България	LOC	GPE-Bulgaria
+1408	1410	ЕС	ЕС	ORG	ORG-European-Union
+1481	1489	България	България	LOC	GPE-Bulgaria
+1659	1667	България	България	LOC	GPE-Bulgaria
+1702	1709	Борисов	Борисов	PER	PER-Boyko-Borisov
+1732	1740	Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+1746	1792	Правителството на Китайската Народна Република	Правителство на Китайската Народна Република	ORG	ORG-State-Council-China
+1939	1947	България	България	LOC	GPE-Bulgaria
+1951	1985	правителството на Провинция Дзянси	Правителството на провинция Дзянси	ORG	ORG-State-Counsil-Jiangxi
+1991	2059	Асоциацията за икономическо и техническо сътрудничество Китай-Европа	Асоциация за икономическо и техническо сътрудничество Китай-Европа	ORG	ORG-China-Europe-Commercial-Collaboration-Association
+2062	2067	Китай	Китай	LOC	GPE-China
+2153	2161	България	България	LOC	GPE-Bulgaria
+2171	2178	Борисов	Борисов	PER	PER-Boyko-Borisov
+2340	2347	Борисов	Борисов	PER	PER-Boyko-Borisov
+2436	2440	Ухан	Ухан	LOC	GPE-Wuhan
+2452	2459	Франция	Франция	LOC	GPE-France
+2547	2551	Ухан	Ухан	LOC	GPE-Wuhan
+2605	2613	Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+2707	2715	България	България	LOC	GPE-Bulgaria
+2815	2828	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+2865	2872	Борисов	Борисов	PER	PER-Boyko-Borisov
+2875	2883	Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+2923	2931	България	България	LOC	GPE-Bulgaria
+2934	2939	Китай	Китай	LOC	GPE-China

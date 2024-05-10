@@ -1,0 +1,47 @@
+33	41	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+111	119	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+258	264	Evropi	Evropa	LOC	LOC-Europe
+308	313	Kijev	Kijev	LOC	GPE-Kiev
+317	323	Moskva	Moskva	LOC	GPE-Moscow
+425	433	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+471	488	evropske komisije	evropska komisija	ORG	ORG-European-Commission
+489	503	Maroš Šefčovič	Maroš Šefčovič	PER	PER-Maros-Sefcovic
+582	589	Kijevom	Kijev	LOC	GPE-Kiev
+591	597	Moskvo	Moskva	LOC	GPE-Moscow
+601	608	Brusljo	Bruselj	LOC	GPE-Brussles
+640	657	Aleksandra Novaka	Aleksander Novak	PER	PER-Aleksandr-Novak
+811	817	Minsku	Minsk	LOC	GPE-Minsk
+921	927	Rusija	Rusija	LOC	GPE-Russia
+1052	1060	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1113	1121	Gazpromu	Gazprom	ORG	ORG-Gazprom
+1195	1209	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+1248	1253	Kijev	Kijev	LOC	GPE-Kiev
+1329	1337	Gazproma	Gazprom	ORG	ORG-Gazprom
+1398	1403	Kijev	Kijev	LOC	GPE-Kiev
+1568	1574	Evropi	Evropa	LOC	LOC-Europe
+1576	1584	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1635	1642	Bruslju	Bruselj	LOC	GPE-Brussles
+1794	1800	Evropa	Evropa	LOC	LOC-Europe
+1871	1877	Evropi	Evropa	LOC	LOC-Europe
+1930	1936	Rusije	Rusija	LOC	GPE-Russia
+2241	2250	Slovaškem	Slovaška	LOC	GPE-Slovakia
+2358	2360	EU	EU	ORG	ORG-European-Union
+2370	2376	Evropa	Evropa	LOC	LOC-Europe
+2511	2517	Rusijo	Rusija	LOC	GPE-Russia
+2642	2649	Gazprom	Gazprom	ORG	ORG-Gazprom
+2676	2685	Naftogaza	Naftogaz	ORG	ORG-Naftogaz
+2775	2789	Zahodno Evropo	Zahodna Evropa	LOC	LOC-Western-Europe
+2793	2800	Turčijo	Turčija	LOC	GPE-Turkey
+2850	2866	Severnega toka 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+2918	2928	Turški tok	Turški tok	PRO	PRO-TurkStream
+2932	2945	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+3003	3012	Atlantika	Atlantik	LOC	LOC-Atlantic-Ocean
+3017	3023	Rusija	Rusija	LOC	GPE-Russia
+3055	3063	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+3172	3177	Putin	Putin	PER	PER-Vladimir-Putin
+3246	3252	Rusija	Rusija	LOC	GPE-Russia
+3309	3317	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+3364	3377	Baltsko morje	Baltsko morje	LOC	LOC-Baltic-Sea
+3384	3390	Rusijo	Rusija	LOC	GPE-Russia
+3487	3494	srednjo	srednji	LOC	LOC-Central-Europe
+3498	3510	južno Evropo	južna Evropa	LOC	LOC-Southern-Europe

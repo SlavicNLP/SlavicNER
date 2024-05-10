@@ -1,0 +1,30 @@
+13	28	британского МИД	британский МИД	ORG	ORG-Foreign-Office
+34	46	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+80	94	Великобритании	Великобритания	LOC	GPE-Great-Britain
+131	143	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+174	177	МИД	МИД 	ORG	ORG-Foreign-Office
+178	191	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+290	292	ЕС	ЕС	ORG	ORG-European-Union
+331	339	Дж.Ханта	Дж.Хант	PER	PER-Jeremy-Hunt
+346	359	Мэттью Хэнкок	Мэттью Хэнкок	PER	PER-Matthew-Hancock
+370	383	Даунинг-стрит	Даунинг-стрит	LOC	LOC-Downing-Street
+473	479	Англии	Англия	LOC	GPE-England
+482	488	Уэльса	Уэльс	LOC	GPE-Wales
+489	501	Джереми Райт	Джереми Райт	PER	PER-Jeremy-Wright
+503	510	Дж.Хант	Дж.Хант	PER	PER-Jeremy-Hunt
+527	548	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+601	609	кабинете	кабинет	ORG	ORG-Cabinet-of-the-United-Kingdom
+610	625	Дэвида Кэмерона	Дэвид Кэмерон	PER	PER-David-Cameron
+673	678	Т.Мэй	Т.Мэй	PER	PER-Theresa-May
+710	717	Дж.Хант	Дж.Хант	PER	PER-Jeremy-Hunt
+747	762	Олимпийских игр	Олимпийские игры	EVT	EVT-2012-Summer_Olympics
+772	786	Великобритании	Великобритания	LOC	GPE-Great-Britain
+843	851	Британии	Британия	LOC	GPE-Great-Britain
+854	856	ЕС	ЕС	ORG	ORG-European-Union
+858	867	Б.Джонсон	Б.Джонсон	PER	PER-Boris-Johnson
+892	939	референдума о выходе Британии из ЕС в 2016 году	референдум о выходе Британии из ЕС в 2016 году	EVT	EVT-Brexit-Referendum
+1002	1024	правительство Британии	правительство Британии	ORG	ORG-the-UK-Government
+1066	1068	ЕС	ЕС	ORG	ORG-European-Union
+1151	1160	Б.Джонсон	Б.Джонсон	PER	PER-Boris-Johnson
+1180	1186	Brexit	Brexit	EVT	EVT-Brexit
+1187	1198	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis

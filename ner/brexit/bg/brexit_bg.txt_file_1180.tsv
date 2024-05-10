@@ -1,0 +1,19 @@
+0	13	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+19	31	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+47	54	Брекзит	Брекзит	EVT	EVT-Brexit
+75	81	Лондон	Лондон	LOC	GPE-London
+116	130	Великобритания	Великобритания	LOC	GPE-Great-Britain
+131	144	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+153	165	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+242	249	Брекзит	Брекзит	EVT	EVT-Brexit
+302	310	Politico	Politico	PRO	PRO-Politico
+319	326	Джонсън	Джонсън	PER	PER-Boris-Johnson
+369	402	Института на директорите в Лондон	Институт на директорите в Лондон	ORG	ORG-Institute-of-Directors
+451	464	BuzzFeed News	BuzzFeed News	PRO	PRO-Buzzfeed-website
+519	541	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+556	563	Джонсън	Джонсън	PER	PER-Boris-Johnson
+600	612	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+716	721	Тръмп	Тръмп	PER	PER-Donald-Trump
+730	737	Брекзит	Брекзит	EVT	EVT-Brexit
+997	1009	Иван Христов	Иван Христов	PER	PER-Ivan-Hristov
+1148	1177	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

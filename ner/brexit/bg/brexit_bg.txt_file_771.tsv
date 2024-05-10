@@ -1,0 +1,64 @@
+87	101	Великобритания	Великобритания	LOC	GPE-Great-Britain
+105	121	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+210	212	ЕС	ЕС	ORG	ORG-European-Union
+223	235	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+256	262	Лондон	Лондон	LOC	GPE-London
+301	314	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+339	349	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+479	486	Брекзит	Брекзит	EVT	EVT-Brexit
+558	568	британците	британци	PER	GPE-Great-Britain
+604	611	Брекзит	Брекзит	EVT	EVT-Brexit
+626	640	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+658	661	Мей	Мей	PER	PER-Theresa-May
+723	725	ЕС	ЕС	ORG	ORG-European-Union
+925	932	Брекзит	Брекзит	EVT	EVT-Brexit
+990	1004	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1031	1033	ЕС	ЕС	ORG	ORG-European-Union
+1060	1072	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+1312	1318	Барние	Барние	PER	PER-Michel-Barnier
+1378	1385	Брюксел	Брюксел	LOC	GPE-Brussles
+1466	1472	Лондон	Лондон	LOC	GPE-London
+1800	1802	ЕС	ЕС	ORG	ORG-European-Union
+1809	1816	Брекзит	Брекзит	EVT	EVT-Brexit
+1907	1917	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2009	2015	Лондон	Лондон	LOC	GPE-London
+2081	2083	ЕС	ЕС	ORG	ORG-European-Union
+2089	2096	Брекзит	Брекзит	EVT	EVT-Brexit
+2272	2279	Брекзит	Брекзит	EVT	EVT-Brexit
+2294	2304	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2416	2423	Брюксел	Брюксел	LOC	GPE-Brussles
+2675	2689	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2723	2725	ЕС	ЕС	ORG	ORG-European-Union
+2731	2738	Брекзит	Брекзит	EVT	EVT-Brexit
+2874	2884	британците	британци	PER	GPE-Great-Britain
+2982	2987	Есекс	Есекс	LOC	GPE-Essex
+3009	3015	Лондон	Лондон	LOC	GPE-London
+3118	3125	Брекзит	Брекзит	EVT	EVT-Brexit
+3307	3309	ЕС	ЕС	ORG	ORG-European-Union
+3439	3445	Лондон	Лондон	LOC	GPE-London
+3471	3473	ЕС	ЕС	ORG	ORG-European-Union
+3482	3489	Брекзит	Брекзит	EVT	EVT-Brexit
+3514	3528	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3636	3638	ЕС	ЕС	ORG	ORG-European-Union
+3674	3681	Брекзит	Брекзит	EVT	EVT-Brexit
+3787	3790	САЩ	САЩ	LOC	GPE-USA
+3908	3930	консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+3934	3944	Тереза Май	Тереза Мей	PER	PER-Theresa-May
+4202	4208	торите	тори	PER	ORG-Conservative-and-Unionist-Party-UK
+4290	4303	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+4386	4400	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+4449	4463	Уинстън Чърчил	Уинстън Чърчил	PER	PER-Winston-Churchill
+4534	4544	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4580	4592	Джон Мейджър	Джон Мейджър	PER	PER-John-Major
+4658	4672	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+4784	4787	Мей	Мей	PER	PER-Theresa-May
+4860	4867	Джонсън	Джонсън	PER	PER-Boris-Johnson
+4951	4967	Джейкъб Рийс-Мог	Джейкъб Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+5042	5049	Брекзит	Брекзит	EVT	EVT-Brexit
+5051	5060	Ана Субри	Ана Субри	PER	PER-Anna-Soubry
+5206	5218	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+5222	5236	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+5412	5419	Брекзит	Брекзит	EVT	EVT-Brexit
+5434	5440	торите	тори	PER	ORG-Conservative-and-Unionist-Party-UK
+5496	5510	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5573	5589	Джейкъб Рийс-Мог	Джейкъб Рийс-Мог	PER	PER-Jacob-Rees-Mogg

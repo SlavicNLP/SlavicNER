@@ -1,0 +1,19 @@
+0	5	Полша	Полша	LOC	GPE-Poland
+30	37	Газпром	Газпром	ORG	ORG-Gazprom
+47	62	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+65	127	Полското управление за защита на конкуренцията и потребителите	Полско управление за защита на конкуренцията и потребителите	ORG	ORG-UOKiK-Office
+152	159	Газпром	Газпром	ORG	ORG-Gazprom
+185	190	Engie	Engie	ORG	ORG-Engie
+192	198	Uniper	Uniper	ORG	ORG-Uniper
+200	203	OMV	OMV	ORG	ORG-OMV
+205	210	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+213	224	Wintershall	Wintershall	ORG	ORG-Wintershall
+241	256	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+519	530	Марек Нечял	Марек Нечял	PER	PER-Marek-Niechcial
+680	695	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+723	728	Русия	Русия	LOC	GPE-Russia
+734	748	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+752	760	Германия	Германия	LOC	GPE-Germany
+986	988	ЕС	ЕС	ORG	ORG-European-Union
+1015	1018	САЩ	САЩ	LOC	GPE-USA
+1101	1122	Департамента по труда	Департамент по труда	ORG	ORG-Department-of-Labor-USA

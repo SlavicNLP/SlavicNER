@@ -1,0 +1,27 @@
+30	38	Лондоном	Лондон	LOC	GPE-London
+71	88	Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland
+90	104	Великобритания	Великобритания	LOC	GPE-Great-Britain
+122	140	Европейским союзом	Европейский союз	ORG	ORG-European-Union
+144	150	Brexit	Brexit	EVT	EVT-Brexit
+230	243	РИА «Новости»	РИА «Новости»	ORG	ORG-RIA-Novosti
+265	275	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+408	433	ИМЭМО имени Примакова РАН	ИМЭМО имени Примакова РАН	ORG	ORG-IMEMO
+434	452	Константин Воронов	Константин Воронов	PER	PER-Konstantin-Voronov
+462	465	НСН	НСН	ORG	ORG-NSN
+483	490	Лондона	Лондон	LOC	GPE-London
+557	563	Лондон	Лондон	LOC	GPE-London
+570	576	Brexit	Brexit	EVT	EVT-Brexit
+727	735	Брюсселя	Брюссель	LOC	GPE-Brussles
+846	854	Ирландии	Ирландия	LOC	GPE-Ireland
+896	903	Ольстер	Ольстер	LOC	GPE-Northern-Ireland
+934	942	ирландцы	ирландцы	PER	GPE-Ireland
+993	999	Лондон	Лондон	LOC	GPE-London
+1121	1138	Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland
+1204	1222	кабинет Терезы Мэй	кабинет Терезы Мэй	ORG	ORG-Cabinet-of-the-United-Kingdom
+1300	1303	Мэй	Мэй	PER	PER-Theresa-May
+1378	1386	Брекзита	Брекзит	EVT	EVT-Brexit
+1423	1431	Брюсселе	Брюссель	LOC	GPE-Brussles
+1443	1450	Лондона	Лондон	LOC	GPE-London
+1623	1629	Brexit	Brexit	EVT	EVT-Brexit
+1653	1669	британского МИДа	британский МИД	ORG	ORG-Foreign-Office
+1670	1683	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson

@@ -1,0 +1,40 @@
+141	145	Асия	Асия	PER	PER-Asia-Bibi
+147	152	Андрю	Андрю	PER	PER-Andrew-Brunson
+154	160	Джианг	Джианг	PER	PER-Jiang-Tianyong
+163	166	Лия	Лия	PER	PER-Leah-Sharibu
+369	377	Пакистан	Пакистан	LOC	GPE-Pakistan
+378	387	Асия Биби	Асия Биби	PER	PER-Asia-Bibi
+525	529	Асия	Асия	PER	PER-Asia-Bibi
+619	625	Турция	Турция	LOC	GPE-Turkey
+650	663	Андрю Брансън	Андрю Брансън	PER	PER-Andrew-Brunson
+839	844	Андрю	Андрю	PER	PER-Andrew-Brunson
+914	919	Китай	Китай	LOC	GPE-China
+975	990	Джиянг Тианьонг	Джиянг Тианьонг	PER	PER-Jiang-Tianyong
+1113	1128	Джиянг Джинпинг	Джиянг Джинпинг	PER	PER-Jiang-Jinping
+1156	1161	Хенан	Хенан	LOC	GPE-Henan
+1209	1215	Джиянг	Джиянг	PER	PER-Jiang-Tianyong
+1341	1348	Нигерия	Нигерия	LOC	GPE-Nigeria
+1372	1382	Лия Шарибу	Лия Шарибу	PER	PER-Leah-Sharibu
+1402	1412	Боко Харам	Боко Харам	ORG	ORG-Boko-Haram
+1477	1482	Дапчи	Дапчи	LOC	GPE-Dapchi
+1624	1627	Лия	Лия	PER	PER-Leah-Sharibu
+1760	1764	Асия	Асия	PER	PER-Asia-Bibi
+1777	1782	Андрю	Андрю	PER	PER-Andrew-Brunson
+1810	1813	Бог	Бог	PER	PER-God
+1909	1912	Бог	Бог	PER	PER-God
+1923	1938	Джиянг Тианьонг	Джиянг Тианьонг	PER	PER-Jiang-Tianyong
+2005	2008	Бог	Бог	PER	PER-God
+2050	2065	Мухамаду Бухари	Мухамаду Бухари	PER	PER-Muhammadu-Buhari
+2100	2110	Боко Харам	Боко Харам	ORG	ORG-Boko-Haram
+2187	2190	Лия	Лия	PER	PER-Leah-Sharibu
+2241	2246	Чибок	Чибок	LOC	GPE-Chibok
+2271	2274	Бог	Бог	PER	PER-God
+2446	2456	Узбекистан	Узбекистан	LOC	GPE-Uzbekistan
+2458	2463	Давид	Давид	PER	PER-Dmitry-David-Shestakov
+2466	2481	Марина Шестаков	Марина Шестаков	PER	PER-Marina-Shestakov
+2525	2530	Маями	Маями	LOC	GPE-Miami
+2532	2537	Давид	Давид	PER	PER-Dmitry-David-Shestakov
+2572	2582	Узбекистан	Узбекистан	LOC	GPE-Uzbekistan
+2628	2631	САЩ	САЩ	LOC	GPE-USA
+2729	2732	Бог	Бог	PER	PER-God
+2853	2861	Шестаков	Шестаков	PER	PER-Marina-and-Dmitry-Shestakov

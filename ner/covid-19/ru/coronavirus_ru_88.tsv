@@ -1,0 +1,78 @@
+52	64	коронавируса	коронавирус	EVT	EVT-Covid-19
+72	81	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+90	97	Вектора	Вектор	PRO	PRO-Vektor
+110	120	российские	российские	LOC	GPE-Russia
+199	205	ковида	ковид	EVT	EVT-Covid-19
+343	360	Ходячих мертвецов	Ходячие мертвецы	PRO	PRO-The-Walking-Dead
+634	642	COVID-19	COVID-19	EVT	EVT-Covid-19
+1126	1131	ковид	ковид	EVT	EVT-Covid-19
+1176	1181	ковид	ковид	EVT	EVT-Covid-19
+1904	1910	ковиде	ковид	EVT	EVT-Covid-19
+2608	2618	российские	российские	PER	GPE-Russia
+3059	3069	российские	российские	PER	GPE-Russia
+3156	3164	западных	западный	PER	GPE-West
+3184	3190	России	Россия	LOC	GPE-Russia
+3371	3379	COVID-19	COVID-19	EVT	EVT-Covid-19
+3612	3621	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+3635	3644	китайской	китайский	PER	GPE-China
+3654	3661	CanSino	CanSino	ORG	ORG-Cansino-Biologics
+3664	3674	британская	британская	PER	GPE-Great-Britain
+3710	3721	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+3783	3798	коронавирусного	коронавирусный	EVT	EVT-Covid-19
+3834	3845	аденовируса	аденовирус	EVT	EVT-Adenovirus
+3992	4006	коронавирусный	коронавирусный	EVT	EVT-Covid-19
+4066	4073	русские	русский	PER	GPE-Russia
+4132	4139	русский	русский	PER	GPE-Russia
+4163	4173	китайского	китайский	PER	GPE-China
+4178	4189	английского	английский	PER	GPE-Great-Britain
+4338	4348	российских	российский	PER	GPE-Russia
+4398	4406	японских	японский	PER	GPE-Japan
+4478	4494	Дмитрия Рогозина	Дмитрий Рогозин	PER	PER-Dmitry-Rogozin
+5303	5316	коронавирусом	коронавирус	EVT	EVT-Covid-19
+5841	5850	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+5855	5872	Института Гамалеи	Институт Гамалеи	ORG	ORG-Gamalea-center
+5878	5890	ЭпиВакКорона	ЭпиВакКорон	PRO	PRO-EpiVacCorona
+5896	5903	Вектора	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+5927	5936	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+6056	6067	AstraZeneca	AstraZeneca	PRO	PRO-Oxford-AstraZeneca-Vaccine
+6235	6248	Аденовирусные	Аденовирусные	EVT	EVT-Adenovirus
+6486	6503	НИЦЭМ им. Гамалеи	НИЦЭМ им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+6635	6642	Вектора	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+6679	6688	китайский	китайский	PER	GPE-China
+6689	6696	Sinovac	Sinovac	PRO	PRO-SinoVac
+6873	6885	Почта России	Почта России	ORG	ORG-Russian-Post
+7067	7079	ЭпиВакКороны	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+7290	7303	аденовирусной	аденовирусная	EVT	EVT-Adenovirus
+7603	7615	ЭпиВакКороны	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+7678	7686	Спутника	Спутник	PRO	PRO-Sputnik-V
+7726	7735	Спутником	Спутник	PRO	PRO-Sputnik-V
+7819	7826	Спутник	Спутник	PRO	PRO-Sputnik-V
+7836	7848	ЭпиВакКороны	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+7902	7908	России	Россия	LOC	GPE-Russia
+8032	8038	Россию	Россия	LOC	GPE-Russia
+8312	8322	российский	российская	PER	GPE-Russia
+8377	8387	российский	российская	PER	GPE-Russia
+8464	8470	Pfizer	Pfizer	ORG	ORG-Pfizer
+8600	8611	AstraZeneca	AstraZeneca	PRO	PRO-Oxford-AstraZeneca-Vaccine
+8657	8663	Р-Фарм	Р-Фарм	ORG	PRO-R-Farm
+8699	8706	Спутник	Спутник	PRO	PRO-Sputnik-V
+8866	8879	Илоном Маском	Илон Маск	PER	PER-Elon-Musk
+8882	8892	российский	российский	PER	GPE-Russia
+8980	8989	Петровакс	Петровакс	ORG	ORG-Petrovax
+9016	9025	китайскую	китайская	PER	GPE-China
+9037	9044	CanSino	CanSino	ORG	ORG-Cansino-Biologics
+9262	9268	ковиду	ковид	EVT	EVT-Covid-19
+11063	11076	Игорь Соколов	Игорь Соколов	PER	PER-Igor-Sokolov
+11186	11192	ковиду	ковид	EVT	EVT-Covid-19
+12034	12043	Спутником	Спутник	PRO	PRO-Sputnik-V
+12237	12242	ковид	ковид	EVT	EVT-Covid-19
+12320	12325	ковид	ковид	EVT	EVT-Covid-19
+12470	12482	коронавирусу	коронавирус	EVT	EVT-Covid-19
+13652	13662	российских	российский	PER	GPE-Russia
+13836	13844	Германию	Германия	LOC	GPE-Germany
+13870	13878	Германии	Германия	LOC	GPE-Germany
+14020	14026	ковида	ковид	EVT	EVT-Covid-19
+14803	14818	лихорадки Денге	лихорадка Денге	EVT	EVT-Dengue-Fever
+14822	14832	Филиппинах	Филиппины	LOC	GPE-Republic-of-the-Philippines
+16192	16210	Джесси Джелсингера	Джесси Джелсингер	PER	PER-Jessie-Gelsinger
+16740	16744	Сноб	Сноб	PRO	PRO-Snob

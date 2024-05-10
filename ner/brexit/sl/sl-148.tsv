@@ -1,0 +1,58 @@
+0	6	Mayeva	May	PER	PER-Theresa-May
+66	72	brexit	brexit	EVT	EVT-Brexit
+85	91	London	London	LOC	GPE-London
+94	101	Bruselj	Bruselj	LOC	GPE-Brussles
+172	183	Theresa May	Theresa May	PER	PER-Theresa-May
+266	268	EU	EU	ORG	ORG-European-Union
+577	605	Britanska poslanska zbornica	Britanska poslanska zbornica	ORG	ORG-House-of-Commons
+670	684	Evropske unije	Evropska unija	ORG	ORG-European-Union
+731	742	Theresa May	Theresa May	PER	PER-Theresa-May
+979	991	irskem otoku	irski otok	LOC	GPE-Ireland
+1187	1193	brexit	brexit	EVT	EVT-Brexit
+1218	1224	Mayeva	May	PER	PER-Theresa-May
+1544	1560	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+1747	1752	Otoku	otok	LOC	GPE-Great-Britain
+1897	1911	Dominic Grieve	Dominic Grieve	PER	PER-Dominic-Grieve
+1994	2009	Geoffreyja Coxa	Geoffrey Cox	PER	PER-Geoffrey-Cox
+2089	2105	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+2200	2219	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+2272	2274	EU	EU	ORG	ORG-European-Union
+2395	2400	Otoku	otok	LOC	GPE-Great-Britain
+2438	2444	Mayevo	May	PER	PER-Theresa-May
+2519	2534	Geoffreyja Coxa	Geoffrey Cox	PER	PER-Geoffrey-Cox
+2670	2680	laburistov	laburisti	ORG	ORG-Labour-Party-UK
+2681	2694	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+2885	2894	Twitterju	Twitter	PRO	PRO-Twitter
+2933	2948	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+2979	3001	severnoirski unionisti	severnoirski unionisti	ORG	ORG-DUP-Democratic-Unionist-Party
+3003	3006	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+3069	3078	Twitterju	Twitter	PRO	PRO-Twitter
+3103	3116	Arlene Foster	Arlene Foster	PER	PER-Arlene-Foster
+3159	3165	Mayeva	May	PER	PER-Theresa-May
+3226	3241	Geoffreyja Coxa	Geoffrey Cox	PER	PER-Geoffrey-Cox
+3266	3285	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+3369	3371	EU	EU	ORG	ORG-European-Union
+3413	3427	konservativcev	konservativci	PER	ORG-Conservative-and-Unionist-Party-UK
+3570	3581	Theresa May	Theresa May	PER	PER-Theresa-May
+3689	3703	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+3787	3794	brexitu	brexit	EVT	EVT-Brexit
+3891	3897	Mayeva	May	PER	PER-Theresa-May
+4002	4014	irskem otoku	irski otok	LOC	GPE-Ireland
+4069	4074	Irsko	Irska	LOC	GPE-Ireland
+4078	4091	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+4112	4128	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+4154	4156	EU	EU	ORG	ORG-European-Union
+4158	4164	Mayeva	May	PER	PER-Theresa-May
+4217	4225	Brusljem	Bruselj	LOC	GPE-Brussles
+4357	4363	Mayeva	May	PER	PER-Theresa-May
+4368	4375	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+4465	4471	Mayeva	May	PER	PER-Theresa-May
+4713	4719	Mayeva	May	PER	PER-Theresa-May
+4795	4802	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+4866	4882	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+4923	4925	EU	EU	ORG	ORG-European-Union
+4929	4949	Jean- Claude Juncker	Jean- Claude Juncker	PER	PER-Jean-Claude-Juncker
+4988	4990	EU	EU	ORG	ORG-European-Union
+5301	5308	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+5331	5337	Mayeve	May	PER	PER-Theresa-May
+5414	5421	brexita	brexit	EVT	EVT-Brexit

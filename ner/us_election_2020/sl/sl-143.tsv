@@ -1,0 +1,27 @@
+0	9	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+48	51	ZDA	ZDA	LOC	GPE-USA
+93	105	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+179	187	Michigan	Michigan	LOC	GPE-Michigan
+294	306	Joseph Biden	Joseph Biden	PER	PER-Joe-Biden
+377	398	Uprava splošnih služb	Uprava splošnih služb	ORG	ORG-General-Services-Administration
+402	407	Bidna	Biden	PER	PER-Joe-Biden
+440	454	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+520	525	Trump	Trump	PER	PER-Donald-Trump
+583	589	Upravi	Uprava	ORG	ORG-General-Services-Administration
+669	674	Biden	Biden	PER	PER-Joe-Biden
+897	926	zveznega preiskovalnega urada	zvezni preiskovalni urad	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+1027	1032	Biden	Biden	PER	PER-Joe-Biden
+1186	1196	John Kerry	John Kerry	PER	PER-John-Kerry
+1253	1267	Antony Blinken	Antony Blinken	PER	PER-Antony-Blinken
+1295	1298	ZDA	ZDA	LOC	GPE-USA
+1301	1331	pariškemu podnebnemu sporazumu	pariški podnebni sporazum	PRO	PRO-Paris-Agreement
+1335	1368	Svetovno zdravstveno organizacijo	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+1380	1403	iranski jedrski dogovor	iranski jedrski dogovor	PRO	PRO-Iran-nuclear-deal
+1453	1467	Jaka Sullivana	Jake Sullivan	PER	PER-Jake-Sullivan
+1469	1492	Linda Thomas-Greenfield	Linda Thomas-Greenfield	PER	PER-Linda-Thomas-Greenfield
+1514	1531	Združenih narodih	Združeni narodi	ORG	ORG-United-Nations
+1567	1585	Alejandro Mayorkas	Alejandro Mayorkas	PER	PER-Alejandro-Mayorkas
+1641	1653	Avril Haines	Avril Haines	PER	PER-Avril-Haines
+1694	1719	obveščevalne agencije Cia	obveščevalna agencija Cia	ORG	ORG-CIA-Central-Intelligence-Agency
+1774	1796	finančnega ministrstva	finančno ministrstvo	ORG	ORG-United-States-Department-of-the-Treasury
+1819	1831	Janet Yellen	Janet Yellen	PER	PER-Janet-Yellen

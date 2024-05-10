@@ -1,0 +1,18 @@
+18	24	Europę	Europa	LOC	LOC-Europe
+120	132	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+136	144	brexitem	Brexit	EVT	EVT-Brexit
+177	179	UE	UE	ORG	ORG-European-Union
+201	214	Europejczyków	Europejczycy	PER	LOC-Europe
+238	252	Paweł Świeboda	Paweł Świeboda	PER	PER-Paweł-Świeboda
+263	306	Europejskiego Ośrodka Strategii Politycznej	Europejski Ośrodek Strategii Politycznej	ORG	ORG-EPSC-European-Political-Strategy-Centre
+338	340	KE	KE	ORG	ORG-European-Commission
+390	394	Unii	Unia	ORG	ORG-European-Union
+410	431	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+447	464	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+483	501	Starego Kontynentu	Stary Kontynent	LOC	LOC-Old-World
+523	532	Wspólnota	Wspólnota	ORG	ORG-European-Union
+629	643	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+739	743	ZSRR	ZSRR	LOC	GPE-ZSRR
+805	807	UE	UE	ORG	ORG-European-Union
+902	906	Unia	Unia	ORG	ORG-European-Union
+1045	1054	Wspólnota	Wspólnota	ORG	ORG-European-Union

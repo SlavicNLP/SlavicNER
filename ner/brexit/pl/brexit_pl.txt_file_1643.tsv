@@ -1,0 +1,52 @@
+30	38	brexicie	Brexit	EVT	EVT-Brexit
+81	131	Ministerstwa Spraw Zagranicznych Wielkiej Brytanii	Ministerstwo Spraw Zagranicznych Wielkiej Brytanii	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+132	145	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+164	172	brexicie	Brexit	EVT	EVT-Brexit
+341	349	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+351	357	Londyn	Londyn	LOC	GPE-London
+410	418	Irlandii	Irlandia	LOC	GPE-Ireland
+421	439	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+443	451	brexicie	Brexit	EVT	EVT-Brexit
+470	485	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+520	522	UE	UE	ORG	ORG-European-Union
+585	593	Brexicie	Brexit	EVT	EVT-Brexit
+614	631	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+646	663	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+761	768	brexitu	Brexit	EVT	EVT-Brexit
+780	782	UE	UE	ORG	ORG-European-Union
+783	797	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+865	880	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+947	965	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+1075	1092	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+1139	1156	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1206	1217	Theresy May	Theresa May	PER	PER-Theresa-May
+1234	1249	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1275	1290	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1359	1367	Irlandią	Irlandia	LOC	GPE-Ireland
+1410	1412	UE	UE	ORG	ORG-European-Union
+1484	1486	UE	UE	ORG	ORG-European-Union
+1609	1611	UE	UE	ORG	ORG-European-Union
+1675	1683	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+1731	1746	Borisa Johnsona	Borisa Johnson	PER	PER-Boris-Johnson
+1768	1775	brexitu	Brexit	EVT	EVT-Brexit
+1915	1928	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+2003	2010	Johnson	Johnson	PER	PER-Boris-Johnson
+2033	2050	Donaldzie Trumpie	Donald Trump	PER	PER-Donald-Trump
+2071	2077	Trumpa	Trump	PER	PER-Donald-Trump
+2094	2102	brexitem	Brexit	EVT	EVT-Brexit
+2313	2321	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+2323	2330	Johnson	Johnson	PER	PER-Boris-Johnson
+2390	2409	Philipie Hammondzie	Philip Hammond	PER	PER-Philip-Hammond
+2491	2502	Theresy May	Theresa May	PER	PER-Theresa-May
+2511	2519	Johnsona	Johnson	PER	PER-Boris-Johnson
+2520	2527	Hammond	Hammond	PER	PER-Philip-Hammond
+2549	2566	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2643	2649	Londyn	Londyn	LOC	GPE-London
+2657	2665	brexicie	Brexit	EVT	EVT-Brexit
+2678	2687	Wspólnotą	Wspólnotą	ORG	ORG-European-Union
+2760	2768	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+2807	2818	Theresy May	Theresa May	PER	PER-Theresa-May
+2862	2870	Johnsona	Johnson	PER	PER-Boris-Johnson
+2889	2896	Hammond	Hammond	PER	PER-Philip-Hammond
+2978	2985	brexitu	Brexit	EVT	EVT-Brexit
+2994	3000	Trumpa	Trump	PER	PER-Donald-Trump

@@ -1,0 +1,21 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+22	28	Platon	Platon	PER	PER-Plato
+342	353	Theresa May	Theresa May	PER	PER-Theresa-May
+593	604	M. Thatcher	M. Thatcher	PER	PER-Margaret-Thatcher
+783	795	Thatcherjeva	Thatcher	PER	PER-Margaret-Thatcher
+1011	1017	T. May	T. May	PER	PER-Theresa-May
+1071	1087	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+1090	1096	T. May	T. May	PER	PER-Theresa-May
+1553	1559	T. May	T. May	PER	PER-Theresa-May
+1748	1754	Mayeve	May	PER	PER-Theresa-May
+1941	1947	brexit	brexit	EVT	EVT-Brexit
+1959	1965	Brexit	Brexit	EVT	EVT-Brexit
+2017	2023	Mayevi	May	PER	PER-Theresa-May
+2091	2093	EU	EU	ORG	ORG-European-Union
+2095	2114	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+2230	2232	ZK	ZK	LOC	GPE-Great-Britain
+2295	2304	Britanija	Britanija	LOC	GPE-Great-Britain
+2353	2358	Irsko	Irska	LOC	GPE-Ireland
+2362	2369	Škotsko	Škotska	LOC	GPE-Scotland
+2479	2498	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+2589	2595	Mayeva	May	PER	PER-Theresa-May

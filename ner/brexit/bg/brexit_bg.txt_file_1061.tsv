@@ -1,0 +1,174 @@
+0	12	The Guardian	The Guardian	PRO	PRO-The-Guardian
+75	81	Лондон	Лондон	LOC	GPE-London
+94	114	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+115	129	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+284	291	Брекзит	Брекзит	EVT	EVT-Brexit
+390	407	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+444	452	Momentum	Momentum	ORG	ORG-Momentum
+480	500	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+536	543	Брекзит	Брекзит	EVT	EVT-Brexit
+547	569	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+628	635	Брюксел	Брюксел	LOC	GPE-Brussles
+705	707	ЕС	ЕС	ORG	ORG-European-Union
+775	777	ЕС	ЕС	ORG	ORG-European-Union
+888	896	Momentum	Momentum	ORG	ORG-Momentum
+914	920	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+978	1002	Консервативната партията	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1094	1101	Брекзит	Брекзит	EVT	EVT-Brexit
+1124	1134	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1193	1201	Momentum	Momentum	ORG	ORG-Momentum
+1297	1299	ЕС	ЕС	ORG	ORG-European-Union
+1444	1452	Momentum	Momentum	ORG	ORG-Momentum
+1454	1466	Майкъл Чесъм	Майкъл Чесъм	PER	PER-Michael-Chessum
+1507	1513	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+1566	1575	Брекзитът	Брекзит	EVT	EVT-Brexit
+1579	1593	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+1873	1878	Чесъм	Чесъм	PER	PER-Michael-Chessum
+1880	1893	Мануел Кортес	Мануел Кортес	PER	PER-Manuel-Cortes
+1962	1969	Брекзит	Брекзит	EVT	EVT-Brexit
+1985	1991	Airbus	Airbus	ORG	ORG-Airbus-SE
+1995	2002	Siemens	Siemens	ORG	ORG-Siemens-AG
+2007	2010	CBI	CBI	ORG	ORG-CBI-Confederation-of-British-Industry
+2118	2125	Брекзит	Брекзит	EVT	EVT-Brexit
+2139	2153	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+2281	2288	Брекзит	Брекзит	EVT	EVT-Brexit
+2396	2402	Кортес	Кортес	PER	PER-Manuel-Cortes
+2423	2437	Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev
+2439	2445	Лондон	Лондон	LOC	GPE-London
+2477	2483	Лондон	Лондон	LOC	GPE-London
+2514	2521	Брекзит	Брекзит	EVT	EVT-Brexit
+2566	2582	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2609	2624	The Independent	The Independent	PRO	PRO-The-Independent
+2654	2661	Пал Мол	Пал Мол	LOC	LOC-Pall-Mall
+2745	2747	ЕС	ЕС	ORG	ORG-European-Union
+2783	2790	Уайтхол	Уайтхол	LOC	LOC-Whitehall
+3360	3367	Брекзит	Брекзит	EVT	EVT-Brexit
+3501	3508	Брекзит	Брекзит	EVT	EVT-Brexit
+3584	3586	ЕС	ЕС	ORG	ORG-European-Union
+3809	3821	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+3823	3829	Лондон	Лондон	LOC	GPE-London
+3833	3839	Лондон	Лондон	LOC	GPE-London
+3863	3870	Брекзит	Брекзит	EVT	EVT-Brexit
+3990	3997	Брекзит	Брекзит	EVT	EVT-Brexit
+4026	4038	The Observer	The Observer	PRO	PRO-The-Observer
+4097	4104	Брекзит	Брекзит	EVT	EVT-Brexit
+4136	4148	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+4222	4238	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+4253	4263	Тереза Май	Тереза Мей	PER	PER-Theresa-May
+4332	4346	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4350	4366	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+4410	4424	Маргарет Тачър	Маргарет Тачър	PER	PER-Margaret-Thatcher
+4446	4466	лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+4489	4509	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+4584	4591	Брекзит	Брекзит	EVT	EVT-Brexit
+4726	4736	лейбъристи	лейбъристи	PER	ORG-Labour-Party-UK
+4739	4756	либерал-демократи	либерал-демократи	PER	ORG-Liberal-Democrats-UK
+4872	4879	Брекзит	Брекзит	EVT	EVT-Brexit
+4893	4905	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+5006	5020	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+5174	5181	Брекзит	Брекзит	EVT	EVT-Brexit
+5284	5290	Европа	Европа	LOC	LOC-Europe
+5411	5418	Брекзит	Брекзит	EVT	EVT-Brexit
+5455	5461	Airbus	Airbus	ORG	ORG-Airbus-SE
+5464	5467	BMW	BMW	ORG	ORG-BMW-Company
+5550	5564	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5592	5598	Европа	Европа	LOC	LOC-Europe
+5604	5611	Брекзит	Брекзит	EVT	EVT-Brexit
+5632	5644	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+5646	5652	Лондон	Лондон	LOC	GPE-London
+5667	5681	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5682	5692	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+5782	5785	НЗС	НЗС	ORG	ORG-NHS
+5940	5949	The Times	The Times	PRO	PRO-The-Times
+6073	6083	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+6171	6174	LBC	LBC	PRO	PRO-LBC
+6281	6290	The Times	The Times	PRO	PRO-The-Times
+6339	6349	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+6387	6397	НЗС Англия	НЗС Англия	ORG	ORG-NHS-England
+6515	6519	Уелс	Уелс	LOC	GPE-Wales
+6600	6616	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+6798	6808	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+6829	6841	Джереми Хънт	Джереми Хънт	PER	PER-Jeremy-Hunt
+6864	6876	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+6906	6916	НЗС Англия	НЗС Англия	ORG	ORG-NHS-England
+6917	6931	Саймън Стивънс	Саймън Стивънс	PER	PER-Simon-Stevens
+7533	7563	Офисът за бюджетна отговорност	Офис за бюджетна отговорност	ORG	ORG-Office-for-Budget-Responsibility
+7710	7720	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+7773	7780	Брекзит	Брекзит	EVT	EVT-Brexit
+7810	7824	Великобритания	Великобритания	LOC	GPE-Great-Britain
+7850	7857	Брюксел	Брюксел	LOC	GPE-Brussles
+7878	7892	Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev
+7894	7901	Брюксел	Брюксел	LOC	GPE-Brussles
+7903	7911	Ирландия	Ирландия	LOC	GPE-Ireland
+7986	7993	Брекзит	Брекзит	EVT	EVT-Brexit
+8053	8063	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+8106	8114	Ирландия	Ирландия	LOC	GPE-Ireland
+8185	8194	The Times	The Times	PRO	PRO-The-Times
+8212	8228	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+8245	8259	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+8404	8414	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+8536	8538	ЕС	ЕС	ORG	ORG-European-Union
+8625	8639	Великобритания	Великобритания	LOC	GPE-Great-Britain
+8643	8650	Брекзит	Брекзит	EVT	EVT-Brexit
+8651	8664	Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+8796	8803	Уайтхол	Уайтхол	LOC	LOC-Whitehall
+9072	9085	Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+9096	9103	Брюксел	Брюксел	LOC	GPE-Brussles
+9138	9140	ЕС	ЕС	ORG	ORG-European-Union
+9141	9153	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+9194	9209	Дауининг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+9249	9255	Робинс	Робинс	PER	PER-Oliver-Robbins
+9350	9352	ЕС	ЕС	ORG	ORG-European-Union
+9467	9470	Мей	Мей	PER	PER-Theresa-May
+9473	9479	Робинс	Робинс	PER	PER-Oliver-Robbins
+9503	9511	Ирландия	Ирландия	LOC	GPE-Ireland
+9544	9550	Дъблин	Дъблин	LOC	GPE-Dublin
+9613	9627	Саймън Коувъни	Саймън Коувъни	PER	PER-Simon-Coveney
+9738	9745	Коувъни	Коувъни	PER	PER-Simon-Coveney
+9802	9809	Брюксел	Брюксел	LOC	GPE-Brussles
+9830	9844	Великобритания	Великобритания	LOC	GPE-Great-Britain
+9902	9916	Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev
+9918	9924	Дъблин	Дъблин	LOC	GPE-Dublin
+9925	9932	Белфаст	Белфаст	LOC	GPE-Belfast
+9964	9980	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+10021	10037	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+10060	10076	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+10149	10163	Великобритания	Великобритания	LOC	GPE-Great-Britain
+10183	10201	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+10233	10235	ЕС	ЕС	ORG	ORG-European-Union
+10267	10284	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+10365	10378	The Economist	The Economist	PRO	PRO-The-Economist
+10874	10887	Разпети петък	Разпети петък	EVT	EVT-Good-Friday
+10917	10919	ЕС	ЕС	ORG	ORG-European-Union
+11024	11038	Великобритания	Великобритания	LOC	GPE-Great-Britain
+11117	11127	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+11185	11193	Ирландия	Ирландия	LOC	GPE-Ireland
+11273	11283	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+11327	11343	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+11491	11505	Великобритания	Великобритания	LOC	GPE-Great-Britain
+11583	11586	Мей	Мей	PER	PER-Theresa-May
+11617	11624	Брекзит	Брекзит	EVT	EVT-Brexit
+11626	11636	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+11972	11988	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+12010	12024	Великобритания	Великобритания	LOC	GPE-Great-Britain
+12053	12069	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+12145	12159	Великобритания	Великобритания	LOC	GPE-Great-Britain
+12216	12223	Брекзит	Брекзит	EVT	EVT-Brexit
+12283	12293	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+12357	12371	Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev
+12373	12379	Лондон	Лондон	LOC	GPE-London
+12401	12411	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+12580	12589	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+12616	12628	The Guardian	The Guardian	PRO	PRO-The-Guardian
+12629	12639	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+12705	12714	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+12901	12914	Саджид Джавид	Саджид Джавид	PER	PER-Sajid-Javid
+12968	12971	Ръд	Ръд	PER	PER-Amber-Rudd
+13062	13069	Уиндръш	Уиндръш	EVT	EVT-Windrush-scandal
+13072	13075	Мей	Мей	PER	PER-Theresa-May
+13392	13401	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+13530	13550	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+13560	13563	Мей	Мей	PER	PER-Theresa-May
+13834	13841	Уиндръш	Уиндръш	EVT	EVT-Windrush-scandal
+14035	14045	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+14066	14080	Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev

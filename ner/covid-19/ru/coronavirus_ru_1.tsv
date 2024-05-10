@@ -1,0 +1,105 @@
+14	26	коронавируса	коронавирус	EVT	EVT-Covid-19
+29	35	России	Россия	LOC	GPE-Russia
+80	85	Covid	Covid	EVT	EVT-Covid-19
+114	126	коронавируса	коронавирус	EVT	EVT-Covid-19
+129	135	России	Россия	LOC	GPE-Russia
+180	185	Covid	Covid	EVT	EVT-Covid-19
+246	258	коронавируса	коронавирус	EVT	EVT-Covid-19
+259	270	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+375	387	коронавируса	коронавирус	EVT	EVT-Covid-19
+600	606	России	Россия	LOC	GPE-Russia
+968	974	России	Россия	LOC	GPE-Russia
+1098	1106	Covid-19	Covid-19	EVT	EVT-Covid-19
+1132	1144	коронавируса	коронавирус	EVT	EVT-Covid-19
+1227	1241	коронавирусной	коронавирус	EVT	EVT-Covid-19
+1306	1313	AZD1222	AZD1222	PRO	PRO-AZD1222-vaccine
+1317	1342	Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+1377	1399	CanSino Biological Inc	CanSino Biological Inc	ORG	ORG-Cansino-Biologics
+1405	1411	России	Россия	LOC	GPE-Russia
+1475	1483	Covid-19	Covid-19	EVT	EVT-Covid-19
+1541	1554	Гам-Ковид-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+1556	1567	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+1572	1661	Национального исследовательского центра эпидемиологии и микробиологии имени Н. Ф. Гамалеи	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1662	1678	Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+1811	1825	«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+1874	1886	коронавируса	коронавирус	EVT	EVT-Covid-19
+1974	1982	«Вектор»	"""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+2157	2254	научного центра исследований и разработки иммунобиологических препаратов имени М. П. Чумакова РАН	научный центр исследований и разработки иммунобиологических препаратов имени М. П. Чумакова РАН	ORG	ORG-Chumakov-Scientific-Center-Russia
+2552	2563	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+2609	2620	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+2964	2976	«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+3278	3290	коронавирусу	коронавирус	EVT	EVT-Covid-19
+3379	3390	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+3523	3531	Covid-19	Covid-19	EVT	EVT-Covid-19
+3606	3619	коронавирусом	коронавирус	EVT	EVT-Covid-19
+3698	3709	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+3738	3744	России	Россия	LOC	GPE-Russia
+3962	3973	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+4042	4055	аденовирусный	аденовирусный	EVT	EVT-Adenovirus
+4073	4084	аденовируса	аденовирус	EVT	EVT-Adenovirus
+4140	4150	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4198	4209	аденовируса	аденовирус	EVT	EVT-Adenovirus
+4409	4415	«Трис»	«Трис»	PRO	PRO-Tris
+4593	4604	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+4650	4662	«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+4896	4908	коронавируса	коронавирус	EVT	EVT-Covid-19
+5386	5397	коронавирус	коронавирус	EVT	EVT-Covid-19
+5479	5484	Covid	Covid	EVT	EVT-Covid-19
+5527	5534	Карелии	Карелия	LOC	GPE-Karelia
+5635	5647	коронавируса	коронавирус	EVT	EVT-Covid-19
+5668	5680	коронавируса	коронавирус	EVT	EVT-Covid-19
+5681	5694	«Спутником V»	Спутник V	PRO	PRO-Sputnik-V
+6303	6309	Москве	Москва	LOC	GPE-Moscow
+6667	6671	ОРВИ	ОРВИ	EVT	EVT-ORVI
+7213	7230	Минздрава Карелии	Минздрав Карелии	ORG	ORG-Ministry-of-Healthcare-Karelia
+7231	7247	Наталья Везикова	Наталья Везикова	PER	PER-NataliaVezikova
+7459	7471	коронавируса	коронавирус	EVT	EVT-Covid-19
+8077	8089	коронавируса	коронавирус	EVT	EVT-Covid-19
+8092	8098	России	Россия	LOC	GPE-Russia
+8125	8137	коронавируса	коронавирус	EVT	EVT-Covid-19
+8140	8146	России	Россия	LOC	GPE-Russia
+8298	8305	россиян	россияне	PER	GPE-Russia
+8409	8416	Карелию	Карелия	LOC	GPE-Karelia
+8445	8457	«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+8485	8498	Петрозаводске	Петрозаводск	LOC	GPE-Petrozavodsk
+8688	8695	Карелии	Карелия	LOC	GPE-Karelia
+8873	8885	коронавируса	коронавирус	EVT	EVT-Covid-19
+8972	8980	Covid-19	Covid-19	EVT	EVT-Covid-19
+9340	9348	россияне	россияне	PER	GPE-Russia
+9433	9440	Карелии	Карелия	LOC	GPE-Karelia
+9493	9511	Артура Парфенчкова	Артур Парфенчков	PER	PER-ArthurParfenchkov
+9811	9816	ковид	ковид	EVT	EVT-Covid-19
+9875	9883	Катерина	Катерина	PER	PER-Katerina
+9938	9950	коронавируса	коронавирус	EVT	EVT-Covid-19
+9964	9969	Covid	Covid	EVT	EVT-Covid-19
+10107	10121	коронавирусной	коронавирус	EVT	EVT-Covid-19
+10151	10159	Covid-19	Covid-19	EVT	EVT-Covid-19
+10360	10372	коронавируса	коронавирус	EVT	EVT-Covid-19
+10560	10568	Covid-19	Covid-19	EVT	EVT-Covid-19
+10618	10630	коронавируса	коронавирус	EVT	EVT-Covid-19
+10653	10665	коронавируса	коронавирус	EVT	EVT-Covid-19
+10932	10943	коронавирус	коронавирус	EVT	EVT-Covid-19
+10999	11012	«Спутником V»	Спутник V	PRO	PRO-Sputnik-V
+11321	11333	коронавируса	коронавирус	EVT	EVT-Covid-19
+11365	11377	коронавируса	коронавирус	EVT	EVT-Covid-19
+11418	11425	россиян	россияне	PER	GPE-Russia
+11459	11470	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+11667	11679	коронавируса	коронавирус	EVT	EVT-Covid-19
+11729	11745	правительство РФ	правительство РФ	ORG	ORG-The-Government-of-Russia
+11773	11785	коронавируса	коронавирус	EVT	EVT-Covid-19
+11790	11796	Москве	Москва	LOC	GPE-Moscow
+11818	11824	России	Россия	LOC	GPE-Russia
+11847	11855	Covid-19	Covid-19	EVT	EVT-Covid-19
+11885	11893	госуслуг	госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+11927	11934	Карелии	Карелия	LOC	GPE-Karelia
+11964	11973	Минздраве	Минздрав	ORG	ORG-Ministry-of-Healthcare-Karelia
+12083	12095	коронавируса	коронавирус	EVT	EVT-Covid-19
+12173	12184	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+12369	12381	коронавируса	коронавирус	EVT	EVT-Covid-19
+12384	12390	России	Россия	LOC	GPE-Russia
+12697	12708	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+12918	12931	«КарелИнформ»	КарелИнформ	PRO	PRO-KarelInform
+13150	13170	«ПремьерМедиаИнвест»	ПремьерМедиаИнвест	PRO	PRO-PremierMediaInvest
+13190	13196	Москва	Москва	LOC	GPE-Moscow
+13198	13223	переулок Нижний Сусальный	переулок Нижний Сусальный	LOC	GPE-NizhnySusalny
+13281	13292	Лузина О.А.	Ольга Лузина	PER	PER-Olga-Luzina

@@ -1,0 +1,22 @@
+0	6	Байдън	Байдън	PER	PER-Joe-Biden
+26	31	Тръмп	Тръмп	PER	PER-Donald-Trump
+95	105	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+131	154	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+155	165	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+236	248	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+269	281	американците	американци	PER	GPE-USA
+423	444	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+520	526	Байдън	Байдън	PER	PER-Joe-Biden
+600	611	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+613	621	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+623	630	Аризона	Аризона	LOC	GPE-Arizona
+633	639	Невада	Невада	LOC	GPE-Nevada
+686	697	демократите	демократи	PER	ORG-Democratic-Party-USA
+730	742	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+774	801	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+802	812	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+926	936	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1098	1103	Тръмп	Тръмп	PER	PER-Donald-Trump
+1106	1113	Twitter	Twitter	PRO	PRO-Twitter
+1171	1185	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1513	1518	Тръмп	Тръмп	PER	PER-Donald-Trump

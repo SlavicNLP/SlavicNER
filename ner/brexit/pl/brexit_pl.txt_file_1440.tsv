@@ -1,0 +1,10 @@
+10	18	Brytanię	Brytania	LOC	GPE-Great-Britain
+21	23	UE	UE	ORG	ORG-European-Union
+153	181	Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+246	253	Brexitu	Brexit	EVT	EVT-Brexit
+450	454	TSUE	TSUE	ORG	ORG-European-Court-of-Justice
+526	547	traktatu lizbońskiego	Traktat lizboński	PRO	PRO-Treaty-of-Lisbon
+605	607	UE	UE	ORG	ORG-European-Union
+681	691	Jo Maugham	Jo Maugham	PER	PER-Jo-Maugham
+728	745	Sądzie Najwyższym	Sąd Najwyższy	ORG	ORG-Supreme-Court-of-Great-Britain
+748	756	Londynie	Londyn	LOC	GPE-London

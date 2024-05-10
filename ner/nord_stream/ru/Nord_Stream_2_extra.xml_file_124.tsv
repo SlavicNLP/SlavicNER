@@ -1,0 +1,51 @@
+0	6	Берлин	Берлин	LOC	GPE-Berlin
+15	18	США	США	LOC	GPE-USA
+22	40	Северному потоку-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+56	65	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+86	92	Европе	Европа	LOC	LOC-Europe
+167	174	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
+175	185	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+204	207	США	США	LOC	GPE-USA
+246	262	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+271	278	Украины	Украина	LOC	GPE-Ukraine
+336	339	США	США	LOC	GPE-USA
+343	347	СП-2	СП-2	PRO	PRO-Nord-Stream-2
+387	391	Маас	Маас	PER	PER-Heiko-Maas
+573	580	Украины	Украина	LOC	GPE-Ukraine
+604	610	Берлин	Берлин	LOC	GPE-Berlin
+716	720	СП-2	СП-2	PRO	PRO-Nord-Stream-2
+805	808	США	США	LOC	GPE-USA
+827	865	Восточного комитета немецкой экономики	Восточный комитет немецкой экономики	ORG	ORG-Committee-on-Eastern-European-Economic-Relations
+866	882	Вольфганг Бюхель	Вольфганг Бюхель	PER	PER-Wolfgang-Buchele
+939	947	Германии	Германия	LOC	GPE-Germany
+986	990	СП-2	СП-2	PRO	PRO-Nord-Stream-2
+1033	1039	Европе	Европа	LOC	LOC-Europe
+1042	1058	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+1086	1088	РФ	РФ	LOC	GPE-Russia
+1091	1094	ФРГ	ФРГ	LOC	GPE-Germany
+1103	1110	Украины	Украина	LOC	GPE-Ukraine
+1117	1132	Балтийское море	Балтийское море	LOC	LOC-Baltic-Sea
+1156	1164	Газпрому	Газпром	ORG	ORG-Gazprom
+1166	1168	РФ	РФ	LOC	GPE-Russia
+1239	1247	Брюссель	Брюссель	LOC	GPE-Brussles
+1250	1256	Берлин	Берлин	LOC	GPE-Berlin
+1298	1305	Украину	Украина	LOC	GPE-Ukraine
+1331	1335	СП-2	СП-2	PRO	PRO-Nord-Stream-2
+1358	1372	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1408	1414	Европе	Европа	LOC	LOC-Europe
+1431	1434	США	США	LOC	GPE-USA
+1473	1479	Европу	Европа	LOC	LOC-Europe
+1492	1500	Газпрома	Газпром	ORG	ORG-Gazprom
+1530	1551	Royal Dutch Shell Plc	Royal Dutch Shell Plc	ORG	ORG-Royal-Dutch-Shell-BG-Group
+1553	1561	Британия	Британия	LOC	GPE-Great-Britain
+1564	1578	Wintershall AG	Wintershall AG	ORG	ORG-BASF-Wintershall
+1580	1583	ФРГ	ФРГ	LOC	GPE-Germany
+1586	1595	Uniper SE	Uniper SE	ORG	ORG-Uniper
+1597	1600	ФРГ	ФРГ	LOC	GPE-Germany
+1603	1609	OMV AG	OMV AG	ORG	ORG-OMV
+1611	1618	Австрия	Австрия	LOC	GPE-Austria
+1622	1630	Engie SA	Engie SA	ORG	ORG-Engie
+1632	1639	Франция	Франция	LOC	GPE-France
+1700	1707	Украина	Украина	LOC	GPE-Ukraine
+1743	1750	Украина	Украина	LOC	GPE-Ukraine
+1816	1820	СП-2	СП-2	PRO	PRO-Nord-Stream-2

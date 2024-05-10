@@ -1,0 +1,64 @@
+95	100	Trump	Trump	PER	PER-Donald-Trump
+151	156	Biden	Biden	PER	PER-Joe-Biden
+234	242	Trumpova	Trump	PER	PER-Donald-Trump
+306	318	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+374	395	Upravi splošnih služb	Uprava splošnih služb	ORG	ORG-General-Services-Administration
+397	400	GSA	GSA	ORG	ORG-General-Services-Administration
+522	534	Joseph Biden	Joseph Biden	PER	PER-Joe-Biden
+616	621	Biden	Biden	PER	PER-Joe-Biden
+758	777	zvezne policije FBI	zvezna policija FBI	ORG	ORG-FBI
+930	935	Trump	Trump	PER	PER-Donald-Trump
+1000	1003	GSA	GSA	ORG	ORG-General-Services-Administration
+1004	1016	Emily Murphy	Emily Murphy	PER	PER-Emily-Murphy
+1262	1267	Bidnu	Biden	PER	PER-Joe-Biden
+1323	1332	Michigana	Michigan	LOC	GPE-Michigan
+1342	1349	Bidnovo	Biden	PER	PER-Joe-Biden
+1426	1434	Trumpova	Trump	PER	PER-Donald-Trump
+1496	1501	Bidna	Biden	PER	PER-Joe-Biden
+1528	1534	Nevada	Nevada	LOC	GPE-Nevada
+1595	1604	Michigana	Michigan	LOC	GPE-Michigan
+1642	1649	Bidnovo	Biden	PER	PER-Joe-Biden
+1668	1675	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1743	1751	Turmpove	Trump	PER	PER-Donald-Trump
+1763	1768	Trump	Trump	PER	PER-Donald-Trump
+1897	1902	Emily	Emily	PER	PER-Emily-Murphy
+2001	2006	Trump	Trump	PER	PER-Donald-Trump
+2044	2053	Michiganu	Michigan	LOC	GPE-Michigan
+2079	2092	republikancev	republikanci	PER	ORG-Republican-Party-USA
+2157	2168	Tennesseeja	Tennessee	LOC	GPE-Tennessee
+2169	2184	Lamar Alexander	Lamar Alexander	PER	PER-Lamar-Alexander
+2240	2244	Ohia	Ohio	LOC	GPE-Ohio
+2245	2256	Rob Portman	Rob Portman	PER	PER-Rob-Portman
+2302	2313	Mitt Romney	Mitt Romney	PER	PER-Mitt-Romney
+2317	2322	Utaha	Utah	LOC	GPE-Utah
+2324	2338	Lisa Murkowski	Lisa Murkowski	PER	PER-Lisa-Murkowski
+2342	2349	Aljaske	Aljaska	LOC	GPE-Alaska
+2351	2360	Ben Sasse	Ben Sasse	PER	PER-Ben-Sasse
+2364	2372	Nebraske	Nebraska	LOC	GPE-Nebraska
+2374	2394	Shelley Moore Capito	Shelley Moore Capito	PER	PER-Shelley-Moore-Capito
+2398	2415	Zahodne Virginije	Zahodna Virginija	LOC	GPE-West-Virginia
+2419	2432	Susan Collins	Susan Collins	PER	PER-Susan-Collins
+2436	2441	Maina	Maine	LOC	GPE-Maine
+2643	2648	Biden	Biden	PER	PER-Joe-Biden
+2757	2762	Biden	Biden	PER	PER-Joe-Biden
+2821	2830	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2983	2994	Mika Pompea	Mike Pompeo	PER	PER-Mike-Pompeo
+3060	3076	Antonyja Blinkna	Antony Blinken	PER	PER-Antony-Blinken
+3079	3086	Blinken	Blinken	PER	PER-Antony-Blinken
+3119	3127	Bidnovih	Biden	PER	PER-Joe-Biden
+3198	3211	Baracka Obame	Barack Obama	PER	PER-Barack-Obama
+3244	3249	Biden	Biden	PER	PER-Joe-Biden
+3438	3453	Federal Reserve	Federal Reserve	ORG	ORG-Federal-Reserve-System
+3454	3466	Janet Yellen	Janet Yellen	PER	PER-Janet-Yellen
+3671	3687	Michele Flournoy	Michele Flournoy	PER	PER-Michele-Flournoy
+3791	3805	Jaka Sullivana	Jaka Sullivana	PER	PER-Jake-Sullivan
+3825	3831	Bidnov	Bidnen	PER	PER-Joe-Biden
+3882	3888	Obamov	Obama	PER	PER-Barack-Obama
+3914	3937	Linda Thomas-Greenfield	Linda Thomas-Greenfield	PER	PER-Linda-Thomas-Greenfield
+4001	4018	Združenih narodih	Združeni narodi	ORG	ORG-United-Nations
+4071	4076	Biden	Biden	PER	PER-Joe-Biden
+4087	4106	Alejandra Mayorkasa	Alejandra Mayorkasa	PER	PER-Alejandro-Mayorkas
+4127	4131	Kubi	Kuba	LOC	GPE-Cuba
+4204	4209	Biden	Biden	PER	PER-Joe-Biden
+4220	4232	Avril Haines	Avril Haines	PER	PER-Avril-Haines
+4282	4307	obveščevalne agencije Cia	obveščevalna agencija Cia	ORG	ORG-CIA-Central-Intelligence-Agency

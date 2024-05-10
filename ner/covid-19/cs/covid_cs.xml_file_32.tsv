@@ -1,0 +1,26 @@
+58	64	Nature	Nature	PRO	PRO-Nature-(journal)
+66	92	Tedros Adhanom Ghebreyesus	Tedros Adhanom Ghebreyesus	PER	PER-Tedros-Adhanom-Ghebreyesus
+112	123	koronavirem	koronavirus	EVT	EVT-Covid-19
+146	172	Tedros Adhanom Ghebreyesus	Tedros Adhanom Ghebreyesus	PER	PER-Tedros-Adhanom-Ghebreyesus
+235	266	Světové zdravotnické organizace	Světová zdravotnická organizace	ORG	ORG-World-Health-Organization
+268	271	WHO	WHO	ORG	ORG-World-Health-Organization
+325	331	Afriky	Afrika	LOC	LOC-Africa
+398	403	Eboly	Ebola	EVT	EVT-Ebola
+412	423	Ghebreyesus	Ghebreyesus	PER	PER-Tedros-Adhanom-Ghebreyesus
+548	556	Covid-19	Covid-19	EVT	EVT-Covid-19
+594	599	Čínou	Čína	LOC	GPE-China
+629	641	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+671	674	WHO	WHO	ORG	ORG-World-Health-Organization
+722	733	koronavirus	koronavirus	EVT	EVT-Covid-19
+746	751	Čínou	Čína	LOC	GPE-China
+779	790	Ghebreyesus	Ghebreyesus	PER	PER-Tedros-Adhanom-Ghebreyesus
+805	827	Spojené státy americké	Spojené státy americké	LOC	GPE-USA
+852	855	WHO	WHO	ORG	ORG-World-Health-Organization
+1060	1063	WHO	WHO	ORG	ORG-World-Health-Organization
+1131	1137	Wuhanu	Wuhan	LOC	GPE-Wuhan
+1332	1335	WHO	WHO	ORG	ORG-World-Health-Organization
+1437	1448	Ghebreyesus	Ghebreyesus	PER	PER-Tedros-Adhanom-Ghebreyesus
+1515	1524	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1576	1579	USA	USA	LOC	GPE-USA
+1582	1585	WHO	WHO	ORG	ORG-World-Health-Organization
+1587	1601	Verena Mohaupt	Verena Mohaupt	PER	PER-Verena-Mohaupt

@@ -1,0 +1,35 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+29	39	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+64	71	Брюксел	Брюксел	LOC	GPE-Brussles
+95	105	Тереза Май	Тереза Май	PER	PER-Theresa-May
+278	285	Брекзит	Брекзит	EVT	EVT-Brexit
+317	333	Белфаст Телеграф	Белфаст Телеграф	PRO	PRO-Belfast-Telegraph
+353	373	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+397	400	Мей	Мей	PER	PER-Theresa-May
+462	482	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+527	541	Великобритания	Великобритания	LOC	GPE-Great-Britain
+580	582	ЕС	ЕС	ORG	ORG-European-Union
+640	642	ЕК	ЕК	ORG	ORG-European-Commission
+796	812	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+990	997	Брекзит	Брекзит	EVT	EVT-Brexit
+999	1009	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1185	1192	Брюксел	Брюксел	LOC	GPE-Brussles
+1360	1380	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1435	1442	Брекзит	Брекзит	EVT	EVT-Brexit
+1711	1713	ЕС	ЕС	ORG	ORG-European-Union
+1854	1868	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1871	1873	ЕС	ЕС	ORG	ORG-European-Union
+1935	1949	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+1967	1985	Обединено кралство	Обединено кралство	LOC	GPE-Great-Britain
+2030	2037	Брюксел	Брюксел	LOC	GPE-Brussles
+2122	2138	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2177	2191	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2265	2279	Ирландско море	Ирландско море	LOC	LOC-Irish-Sea
+2310	2313	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+2332	2346	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+2372	2392	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+2394	2414	британския парламент	британски парламент	ORG	ORG-British-Parlament
+2496	2512	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2515	2529	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2531	2538	Брюксел	Брюксел	LOC	GPE-Brussles
+2567	2587	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain

@@ -1,0 +1,29 @@
+0	3	САЩ	САЩ	LOC	GPE-USA
+14	19	Полша	Полша	LOC	GPE-Poland
+27	42	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+45	50	Полша	Полша	LOC	GPE-Poland
+86	89	САЩ	САЩ	LOC	GPE-USA
+118	133	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+189	203	Яцек Чапутович	Яцек Чапутович	PER	PER-Jacek-Czaputowicz
+216	220	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+288	301	Рекс Тилърсън	Рекс Тилърсън	PER	PER-Rex-Tillerson
+320	336	Матеуш Моравецки	Матеуш Моравецки	PER	PER-Mateusz-Morawiecki
+338	343	Полша	Полша	LOC	GPE-Poland
+375	390	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+460	463	САЩ	САЩ	LOC	GPE-USA
+512	521	Чапутович	Чапутович	PER	PER-Jacek-Czaputowicz
+523	526	САЩ	САЩ	LOC	GPE-USA
+537	544	Варшава	Варшава	LOC	GPE-Warsaw
+578	586	Тилърсън	Тилърсън	PER	PER-Rex-Tillerson
+604	613	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+668	674	Европа	Европа	LOC	LOC-Europe
+686	693	Ройтерс	Ройтерс	ORG	ORG-Reuters
+709	724	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+823	828	Русия	Русия	LOC	GPE-Russia
+832	840	Германия	Германия	LOC	GPE-Germany
+937	942	ПГНиГ	ПГНиГ	ORG	ORG-PGNiG
+944	949	PGNiG	PGNiG	ORG	ORG-PGNiG
+1030	1033	САЩ	САЩ	LOC	GPE-USA
+1067	1072	Русия	Русия	LOC	GPE-Russia
+1083	1087	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+1101	1104	БТА	БТА	ORG	ORG-Bulgarian-News-Agency

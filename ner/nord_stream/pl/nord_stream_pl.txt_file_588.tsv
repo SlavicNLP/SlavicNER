@@ -1,0 +1,40 @@
+0	2	FP	FP	ORG	ORG-FP-Agency
+4	7	USA	USA	LOC	GPE-USA
+41	54	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+63	77	Foreign Policy	Foreign Policy	PRO	PRO-Foreign-policy
+107	110	USA	USA	LOC	GPE-USA
+150	163	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+354	362	Niemcami	Niemcy	LOC	GPE-Germany
+446	460	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+488	494	Europy	Europa	LOC	LOC-Europe
+526	529	USA	USA	LOC	GPE-USA
+559	565	Iranem	Iran	LOC	GPE-Iran
+582	584	FP	FP	ORG	ORG-FP-Agency
+599	608	Biały Dom	Biały Dom	LOC	LOC-White-House
+642	655	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+657	674	Departament Stanu	Departament Stanu	ORG	ORG-Department-of-State-USA
+971	973	FP	FP	ORG	ORG-FP-Agency
+983	1001	Departamentu Stanu	Departament Stanu	ORG	ORG-Department-of-State-USA
+1013	1016	USA	USA	LOC	GPE-USA
+1030	1036	Niemcy	Niemcy	LOC	GPE-Germany
+1056	1069	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1213	1233	Repulbiki Federalnej	Republika Federalna	LOC	GPE-Germany
+1301	1312	Heiko Maasa	Heiko Maas	PER	PER-Heiko-Maas
+1315	1327	Waszyngtonie	Waszyngton	LOC	GPE-WashingtonDC
+1329	1342	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1344	1357	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1388	1393	Rosji	Rosja	LOC	GPE-Russia
+1397	1404	Niemiec	Niemcy	LOC	GPE-Germany
+1411	1426	Morze Bałtyckie	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+1511	1524	Nord Stream 1	Nord Stream 1	PRO	PRO-Nord-Stream-1
+1563	1570	Ukrainę	Ukraina	LOC	GPE-Ukraine
+1623	1627	E.on	E.on	ORG	ORG-E.ON
+1629	1635	Uniper	Uniper	ORG	ORG-Uniper
+1637	1642	ENGIE	ENGIE	ORG	ORG-Engie
+1644	1649	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+1652	1655	OMV	OMV	ORG	ORG-OMV
+1735	1748	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1759	1766	Gazprom	Gazprom	ORG	ORG-Gazprom
+1908	1925	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1927	1941	Foreing Policy	Foreing Policy	PRO	PRO-Foreign-policy
+1942	1958	Wojciech Jakóbik	Wojciech Jakóbik	PER	PER-Wojciech-Jakóbik

@@ -1,0 +1,17 @@
+37	43	Макрон	Макрон	PER	PER-Emmanuel-Macron
+76	83	Брекзит	Брекзит	EVT	EVT-Brexit
+174	188	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+232	239	Брекзит	Брекзит	EVT	EVT-Brexit
+253	260	Ройтерс	Ройтерс	ORG	ORG-Reuters
+306	316	Обновление	Обновление	ORG	ORG-Renew
+319	324	Renew	Renew	ORG	ORG-Renew
+367	374	Брекзит	Брекзит	EVT	EVT-Brexit
+523	530	Брекзит	Брекзит	EVT	EVT-Brexit
+563	570	Брекзит	Брекзит	EVT	EVT-Brexit
+579	592	Джеймс Торанс	Джеймс Торанс	PER	PER-James-Torrance
+753	755	ЕС	ЕС	ORG	ORG-European-Union
+851	861	британците	британци	PER	GPE-Great-Britain
+907	909	ЕС	ЕС	ORG	ORG-European-Union
+1160	1182	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+1222	1228	Макрон	Макрон	PER	PER-Emmanuel-Macron
+1261	1268	Брекзит	Брекзит	EVT	EVT-Brexit

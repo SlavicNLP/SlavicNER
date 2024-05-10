@@ -1,0 +1,26 @@
+40	52	коронавируса	коронавирус	EVT	EVT-Covid-19
+97	103	Москве	Москва	LOC	GPE-Moscow
+148	156	COVID-19	COVID-19	EVT	EVT-Covid-19
+158	170	«Комсомолка»	Комсомолка	PRO	"PRO-""Komsomolka"""
+234	246	коронавируса	коронавирус	EVT	EVT-Covid-19
+278	284	ковида	ковид	EVT	EVT-Covid-19
+325	342	GLOBAL LOOK PRESS	Global Look Press	PER	PER-Global-Look-Press
+384	390	ковида	ковид	EVT	EVT-Covid-19
+486	500	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+575	587	коронавируса	коронавирус	EVT	EVT-Covid-19
+625	638	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+673	684	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+1419	1430	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+1482	1505	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+1598	1610	«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+1620	1623	РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+1624	1642	Александр Гинцбург	Александр Гинцбург	PER	PER-Alexander-Ginzburg
+1837	1850	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+2878	2889	московского	московский	PER	GPE-Moscow
+3300	3306	ковида	ковид	EVT	EVT-Covid-19
+3362	3373	московского	московский	PER	GPE-Moscow
+3617	3630	«Спутником V»	Спутник V	PRO	PRO-Sputnik-V
+3787	3799	коронавируса	коронавирус	EVT	EVT-Covid-19
+3802	3808	Москве	Москва	LOC	GPE-Moscow
+3879	3891	коронавируса	коронавирус	EVT	EVT-Covid-19
+3894	3900	Москве	Москва	LOC	GPE-Moscow

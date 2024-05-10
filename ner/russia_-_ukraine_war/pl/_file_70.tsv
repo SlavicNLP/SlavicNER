@@ -1,0 +1,22 @@
+0	8	Zełenski	Zełenski	PER	PER-Volodymyr-Zelensky
+45	51	Rosjan	Rosjanie	PER	GPE-Russia
+64	71	Ukrainy	Ukraina	LOC	GPE-Ukraine
+174	180	Kijowa	Kijów	LOC	GPE-Kiev
+233	240	Ukrainy	Ukraina	LOC	GPE-Ukraine
+401	418	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+466	486	Federacji Rosyjskiej	Federacja Rosyjska	LOC	GPE-Russia
+535	542	Ukrainy	Ukraina	LOC	GPE-Ukraine
+545	563	Wołodymyr Zełenski	Wołodymyr Zełenski	PER	PER-Volodymyr-Zelensky
+620	635	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+701	709	Zełenski	Zełenski	PER	PER-Volodymyr-Zelensky
+724	732	Rosjanie	Rosjanie	PER	GPE-Russia
+735	741	Polsce	Polska	LOC	GPE-Poland
+824	827	USA	USA	LOC	GPE-USA
+828	840	Joem Bidenem	Joe Biden	PER	PER-Joe-Biden
+992	999	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1174	1179	Rosji	Rosja	LOC	GPE-Russia
+1212	1228	Wojska rosyjskie	Wojska rosyjskie	ORG	ORG-Russian-Armed-Forces
+1524	1542	Wołodymyr Zełenski	Wołodymyr Zełenski	PER	PER-Volodymyr-Zelensky
+1545	1561	Wojna w Ukrainie	Wojna w Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+1563	1571	Zełenski	Zełenski	PER	PER-Volodymyr-Zelensky
+1863	1870	Ukrainy	Ukraina	LOC	GPE-Ukraine

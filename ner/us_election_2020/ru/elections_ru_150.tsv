@@ -1,0 +1,140 @@
+221	240	Зои Космодемьянской	Зоя Космодемьянская	PER	PER-Zoya-Kosmodemyanskaya
+286	293	Ельцина	Ельцин	PER	PER-Boris-Jelcin
+360	376	Борис Николаевич	Борис Николаевич	PER	PER-Boris-Jelcin
+385	392	Ельцина	Ельцин	PER	PER-Boris-Jelcin
+513	529	«Борьки-пьяницы»	"""Борька-пьяница"""	PER	PER-Boris-Jelcin
+549	563	Коронавирусные	Коронавирусные	EVT	EVT-Covid-19
+575	586	Нидерландах	Нидерланды	LOC	GPE-Holland
+635	646	Марка Рютте	Марк Рютте	PER	PER-Mark-Rutte
+726	732	Россия	Россия	LOC	GPE-Russia
+734	740	Турция	Турция	LOC	GPE-Turkey
+743	749	Польша	Польша	LOC	GPE-Poland
+806	811	Рютте	Рютте	PER	PER-Mark-Rutte
+861	867	Казани	Казань	LOC	GPE-Kazan
+875	936	XXIII республиканский конкурс красоты «Мисс Татарстан – 2021»	XXIII республиканский конкурс красоты «Мисс Татарстан – 2021»	EVT	EVT-Miss-Tatarstan-2021
+981	993	Дина Юнусова	Дина Юнусова	PER	PER-Dina-Yunusova
+1065	1078	«Мисс Россия»	«Мисс Россия»	EVT	EVT-Miss-Russia
+1115	1131	Василия Ланового	Василий Лановой	PER	PER-Vasily-Lanovoy
+1151	1155	СССР	СССР	LOC	GPE-USSR
+1193	1206	«Война и мир»	«Война и мир»	PRO	PRO-War-and-Peace-film-series
+1208	1223	«Анна Каренина»	«Анна Каренина»	PRO	PRO-Anna-Karenina-film-1967
+1225	1239	«Дни Турбиных»	«Дни Турбиных»	PRO	PRO-The-Days-of-the-Turbins-film
+1241	1257	«Полосатый рейс»	«Полосатый рейс»	PRO	PRO-Stripped-Trip
+1294	1301	Лановой	Лановой	PER	PER-Vasily-Lanovoy
+1345	1370	«Бессмертный полк России»	«Бессмертный полк России»	ORG	ORG-The-Immortal-Regiment
+1383	1391	Богучаны	Богучаны	LOC	GPE-Boguchany
+1394	1411	Красноярском крае	Красноярский край	LOC	GPE-Krasnoyarsk-Krai
+1421	1428	Ми-8АМТ	Ми-8АМТ	PRO	PRO-MI-8AMT
+1730	1736	Якутии	Якутия	LOC	GPE-Yakutia
+1845	1863	«Культурная среда»	«Культурная среда»	PRO	PRO-Kulturnaya-sreda-federal-project
+1886	1896	«Культура»	«Культура»	PRO	PRO-Kultura-national-project
+1932	1950	Минкультуры Якутии	Минкультуры Якутии	ORG	ORG-Ministry-of-Culture-Yakutia
+1956	1962	Якутии	Якутия	LOC	GPE-Yakutia
+2063	2073	«Культура»	«Культура»	PRO	PRO-Kultura-national-project
+2112	2121	Дагестана	Дагестан	LOC	GPE-Republic-of-Dagestan
+2175	2185	«Культура»	«Культура»	PRO	PRO-Kultura-national-project
+2310	2319	Дагестана	Дагестан	LOC	GPE-Republic-of-Dagestan
+2320	2334	Зарема Бутаева	Зарем Бутаев	PER	PER-Zarem-Butaev
+2377	2434	Федерального агентства по печати и массовым коммуникациям	Федеральное агентство по печати и массовым коммуникациям	ORG	ORG-Federal-Agency-for-Press-and-Mass-Communications-Russia
+2471	2474	США	США	LOC	GPE-USA
+2531	2547	Michael Reynolds	Michael Reynolds	PER	PER-Jeremy-Reynolds
+2548	2551	EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+2552	2556	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+2564	2578	Андрей Самохин	Андрей Самохин	PER	PER-Andrey-Samokhin
+2580	2593	Михаил Мошкин	Михаил Мошкин	PER	PER-Mikhail-Moshkin
+2621	2624	США	США	LOC	GPE-USA
+2646	2656	американцы	американцы	PER	GPE-USA
+2667	2686	коллегии выборщиков	коллегии выборщиков	ORG	ORG-United-States-Electoral-College
+2706	2719	американскому	американский	LOC	GPE-USA
+2779	2792	Кампания-2020	Кампания-2020	EVT	EVT-2020-Presidential-Election-Campaign-USA
+2795	2798	США	США	LOC	GPE-USA
+2866	2874	Россияне	Россияне	PER	GPE-Russia
+2927	2940	американского	американский	LOC	GPE-USA
+3000	3012	американских	американский	LOC	GPE-USA
+3029	3032	США	США	LOC	GPE-USA
+3112	3118	России	Россия	LOC	GPE-Russia
+3162	3174	американской	американский	LOC	GPE-USA
+3236	3287	Всероссийского центра изучения общественного мнения	Всероссийский центр изучения общественного мнения	ORG	ORG-Russian-Public-Opinion-Research-Center
+3289	3294	ВЦИОМ	ВЦИОМ	ORG	ORG-Russian-Public-Opinion-Research-Center
+3335	3338	США	США	LOC	GPE-USA
+3390	3397	россиян	россияне	PER	GPE-Russia
+3501	3515	Михаил Мамонов	Миахил Мамонов	PER	PER-Mikhail-Mamonov
+3561	3566	ВЦИОМ	ВЦИОМ	ORG	ORG-Russian-Public-Opinion-Research-Center
+3629	3632	США	США	LOC	GPE-USA
+3652	3697	Экспертным институтом социальных исследований	Экспертный институт социальных исследований	ORG	ORG-Expert-Institute-for-Social-Research-Russia
+3699	3703	ЭИСИ	ЭИСИ	ORG	ORG-Expert-Institute-for-Social-Research-Russia
+3752	3772	голосованию 3 ноября	Голосование 3 ноября	EVT	EVT-2020-United-States-Presidential-Election
+3780	3787	Америке	Америка	LOC	GPE-USA
+3836	3847	Белого дома	Белый дом	ORG	ORG-The-White-House
+3848	3865	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+3882	3892	демократов	демократ	ORG	ORG-Democratic-Party-USA
+3918	3930	Джо Байденом	Джо Байден	PER	PER-Joe-Biden
+3943	3946	США	США	LOC	GPE-USA
+3991	3997	Техасе	Техас	LOC	GPE-Texas
+3999	4007	Виргинии	Виргиния	LOC	GPE-Virginia
+4009	4017	Вермонте	Вермонт	LOC	GPE-Vermont
+4113	4125	коронавируса	коронавирус	EVT	EVT-Covid-19
+4143	4153	американцы	американцы	PER	GPE-USA
+4206	4209	CNN	CNN	PRO	PRO-CNN
+4264	4272	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+4513	4518	ВЦИОМ	ВЦИОМ	ORG	ORG-Russian-Public-Opinion-Research-Center
+4569	4577	россияне	россияне	PER	GPE-Russia
+4723	4730	Мамонов	Мамонов	PER	PER-Mikhail-Mamonov
+4759	4767	россияне	россияне	PER	GPE-Russia
+4893	4898	ВЦИОМ	ВЦИОМ	ORG	ORG-Russian-Public-Opinion-Research-Center
+5041	5044	США	США	LOC	GPE-USA
+5313	5332	коллегии выборщиков	Коллегии выборщиков	ORG	ORG-United-States-Electoral-College
+5382	5390	Колумбия	Колумбия	LOC	GPE-Colombia
+5504	5516	американской	американский	LOC	GPE-USA
+5629	5638	Белый дом	Белый дом	ORG	ORG-The-White-House
+5709	5713	ЭИСИ	ЭИСИ	ORG	ORG-Expert-Institute-for-Social-Research-Russia
+5736	5752	выборы 2000 года	Выборы 2000 года	EVT	EVT-2000-United-States-Presidential-Election
+5760	5771	Альберт Гор	Альберт Гор	PER	PER-Al-Gore
+5809	5830	Джорджа Буша-младшего	Джордж Буш-младший	PER	PER-George-Bush-Jr
+5835	5838	Буш	Буш	PER	PER-George-Bush-Jr
+5888	5895	Флорида	Флорида	LOC	GPE-Florida
+5995	6008	Сергей Зверев	Сергей Зверев	PER	PER-Sergey-Zverev
+6110	6125	демократическим	демократический	ORG	ORG-Democratic-Party-USA
+6181	6187	Трампа	Трамп	PER	PER-Donald-Trump
+6261	6298	Фонда исследования проблем демократии	Фонд исследования проблем демократии	ORG	ORG-Democracy-Research-Foundation
+6299	6315	Максим Григорьев	Максим Григорьев	PER	PER-Maksim-Grigoriev
+6342	6345	CNN	CNN	PRO	PRO-CNN
+6361	6368	Байдена	Байден	PER	PER-Joe-Biden
+6433	6438	Трамп	Трамп	PER	PER-Donald-Trump
+6498	6507	демократа	демократ	ORG	ORG-Democratic-Party-USA
+6570	6583	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+6651	6660	демократы	демократы	ORG	ORG-Democratic-Party-USA
+6691	6700	Григорьев	Григорьев	PER	PER-Maksim-Grigoriev
+6750	6758	россияне	россияне	PER	GPE-Russia
+6778	6783	ВЦИОМ	ВЦИОМ	ORG	ORG-Russian-Public-Opinion-Research-Center
+6784	6796	американской	американский	LOC	GPE-USA
+6893	6895	ОП	ОП	ORG	ORG-Civic-Chamber-of-the-Russian-Federation
+6967	6990	выборах в США 2012 года	Выборы в США 2012 года	EVT	EVT-2012-United-States-Presidential-Election
+7182	7189	Америке	Америка	LOC	GPE-USA
+7276	7288	американских	американский	LOC	GPE-USA
+7530	7541	американцев	американцы	PER	GPE-USA
+7584	7593	Григорьев	Григорьев	PER	PER-Maksim-Grigoriev
+7647	7659	американская	американский	LOC	GPE-USA
+7799	7833	Отцы-основатели Соединенных Штатов	Отцы-основатели Соединенных Штатов	ORG	ORG-The-Founding-Fathers
+8133	8137	ЭИСИ	ЭИСИ	ORG	ORG-Expert-Institute-for-Social-Research-Russia
+8138	8151	Глеб Кузнецов	Глеб Кузнецов	PER	PER-Gleb-Kuznetsov
+8611	8667	Российского общественного института избирательного права	Российское общественный институт избирательного права	ORG	ORG-Russian-Public-Institute-of-Electoral-Law
+8689	8714	Совета по правам человека	Совет по правам человека	ORG	ORG-Human-Rights-Council-Russia
+8715	8728	Игорь Борисов	Игорь Борисов	PER	PER-Igor-Borisov
+8927	8930	МГУ	МГУ	ORG	ORG-Moscow-State-University
+8931	8945	Андрей Манойло	Андрей Манойло	PER	PER-Andrey-Manoilo
+9042	9054	американских	американский	LOC	GPE-USA
+9158	9163	Трамп	Трамп	PER	PER-Donald-Trump
+9396	9399	ФБР	ФБР	ORG	ORG-FBI
+9459	9466	Манойло	Манойло	PER	PER-Andrey-Manoilo
+9691	9706	республиканскую	республиканский	ORG	ORG-Republican-Party-USA
+9710	9716	Трампа	Трамп	PER	PER-Donald-Trump
+9719	9734	демократическую	демократический	ORG	ORG-Democratic-Party-USA
+9738	9745	Байдена	Байден	PER	PER-Joe-Biden
+9761	9770	Григорьев	Григорьева	PER	PER-Maksim-Grigoriev
+9883	9895	американских	американский	LOC	GPE-USA
+10070	10074	ЭИСИ	ЭИСИ	ORG	ORG-Expert-Institute-for-Social-Research-Russia
+10118	10130	Фирдус Алиев	Фирдус Алиев	PER	PER-Firdus-Aliyev
+10304	10311	Манойло	Манойло	PER	PER-Andrey-Manoilo
+10332	10344	американских	американский	LOC	GPE-USA
+10464	10470	ВЗГЛЯД	ВЗГЛЯД	PRO	PRO-Vzglyad

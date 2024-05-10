@@ -1,0 +1,25 @@
+0	6	Airbus	Airbus	ORG	ORG-Airbus-SE
+29	43	Великобритания	Великобритания	LOC	GPE-Great-Britain
+45	55	британците	британци	PER	GPE-Great-Britain
+113	119	Airbus	Airbus	ORG	ORG-Airbus-SE
+164	178	Великобритания	Великобритания	LOC	GPE-Great-Britain
+243	259	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+323	329	Airbus	Airbus	ORG	ORG-Airbus-SE
+365	379	Великобритания	Великобритания	LOC	GPE-Great-Britain
+461	481	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+671	677	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+928	934	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+936	946	Том Уилямс	Том Уилямс	PER	PER-Tom-Williams
+948	954	Уилямс	Уилямс	PER	PER-Tom-Williams
+968	974	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+1039	1046	Брекзит	Брекзит	EVT	EVT-Brexit
+1177	1183	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+1253	1267	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1342	1358	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1524	1531	Брекзит	Брекзит	EVT	EVT-Brexit
+1629	1635	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+1662	1672	Стивън Каб	Стивън Каб	PER	PER-Stephen-Cobb
+1699	1705	Уилямс	Уилямс	PER	PER-Tom-Williams
+1773	1779	Еърбъс	Еърбъс	ORG	ORG-Airbus-SE
+1791	1795	Уелс	Уелс	LOC	GPE-Wales
+1878	1885	Брекзит	Брекзит	EVT	EVT-Brexit

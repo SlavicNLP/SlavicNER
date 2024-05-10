@@ -1,0 +1,27 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+54	61	Брекзит	Брекзит	EVT	EVT-Brexit
+83	93	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+211	219	Брекзита	Брекзит	EVT	EVT-Brexit
+222	224	ЕС	ЕС	ORG	ORG-European-Union
+310	313	ДПА	ДПА	ORG	ORG-DPA
+375	389	Великобритания	Великобритания	LOC	GPE-Great-Britain
+412	414	ЕС	ЕС	ORG	ORG-European-Union
+422	425	Мей	Мей	PER	PER-Theresa-May
+439	447	Би Би Си	Би Би Си	PRO	PRO-BBC
+492	495	Мей	Мей	PER	PER-Theresa-May
+564	578	Великобритания	Великобритания	LOC	GPE-Great-Britain
+628	630	ЕС	ЕС	ORG	ORG-European-Union
+815	823	Брекзита	Брекзит	EVT	EVT-Brexit
+833	836	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+945	953	Брекзита	Брекзит	EVT	EVT-Brexit
+970	973	Мей	Мей	PER	PER-Theresa-May
+997	1005	Би Би Си	Би Би Си	PRO	PRO-BBC
+1034	1047	Саймън Ковини	Саймън Ковини	PER	PER-Simon-Coveney
+1079	1082	Мей	Мей	PER	PER-Theresa-May
+1216	1228	Лио Варадкар	Лио Варадкар	PER	PER-Leo-Varadkar
+1237	1240	Мей	Мей	PER	PER-Theresa-May
+1311	1327	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1346	1348	ЕС	ЕС	ORG	ORG-European-Union
+1371	1385	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1389	1397	Ирландия	Ирландия	LOC	GPE-Ireland
+1422	1424	ЕС	ЕС	ORG	ORG-European-Union

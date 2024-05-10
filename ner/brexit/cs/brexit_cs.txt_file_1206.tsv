@@ -1,0 +1,28 @@
+0	17	Britský parlament	Britský parlament	ORG	ORG-British-Parlament
+35	42	brexitu	brexit	EVT	EVT-Brexit
+74	80	LONDÝN	LONDÝN	LOC	GPE-London
+81	93	Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+94	111	Britský parlament	Britský parlament	ORG	ORG-British-Parlament
+159	167	Británie	Británie	LOC	GPE-Great-Britain
+170	183	Evropské unie	Evropská unie	ORG	ORG-European-Union
+191	211	Spojenému království	Spojené království	LOC	GPE-Great-Britain
+261	275	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+326	333	brexitu	brexit	EVT	EVT-Brexit
+349	356	Reuters	Reuters	ORG	ORG-Reuters
+404	418	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+420	425	Lordi	Lordi	PER	ORG-House-of-Lords
+455	469	Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+582	589	brexitu	brexit	EVT	EVT-Brexit
+614	621	brexitu	brexit	EVT	EVT-Brexit
+701	711	Alžběty II	Alžběta II	PER	PER-Queen-Elizabeth-II
+797	804	Reuters	Reuters	ORG	ORG-Reuters
+903	917	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+986	993	brexitu	brexit	EVT	EVT-Brexit
+1009	1023	Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+1179	1186	brexitu	brexit	EVT	EVT-Brexit
+1206	1213	Londýnu	Londýn	LOC	GPE-London
+1216	1223	Bruselu	Brusel	LOC	GPE-Brussles
+1270	1276	Mayové	Mayová	PER	PER-Theresa-May
+1421	1428	Reuters	Reuters	ORG	ORG-Reuters
+1440	1454	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+1476	1482	Mayová	Mayová	PER	PER-Theresa-May

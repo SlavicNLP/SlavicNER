@@ -1,0 +1,71 @@
+90	106	Adam Niedzielski	Adam Niedzielski	PER	PER-Adam-Niedzielski
+148	156	COVID-19	COVID-19	EVT	EVT-Covid-19
+389	420	Warszawski Uniwersytet Medyczny	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+463	466	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+595	604	Twitterze	Twitter	PRO	PRO-Twitter
+619	622	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+635	640	Onetu	Onet	PRO	PRO-Onet
+679	693	Niedzielskiego	Niedzielski	PER	PER-Adam-Niedzielski
+818	846	Agencję Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+859	862	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+899	902	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+997	1000	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+1192	1199	Onetowi	Onet	PRO	PRO-Onet
+1220	1223	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+1356	1359	SLD	SLD	ORG	ORG-Democratic-Left-Alliance-Poland
+1360	1373	Leszek Miller	Leszek Miller	PER	PER-Leszek-Miller
+1379	1393	Krystyna Janda	Krystyna Janda	PER	PER-Krystyna-Janda
+1455	1461	Polsce	Polska	LOC	GPE-Poland
+1492	1500	COVID-19	COVID-19	EVT	EVT-Covid-19
+1703	1706	NFZ	NFZ	ORG	ORG-National-Health-Fund-Poland
+1869	1872	NFZ	NFZ	ORG	ORG-National-Health-Fund-Poland
+1908	1911	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1967	1992	Naczelnej Izby Lekarskiej	Naczelna Izba Lekarska	ORG	ORG-Supreme-Medical-Chamber-Poland
+2183	2186	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+2352	2383	Warszawski Uniwersytet Medyczny	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+2466	2469	NFZ	NFZ	ORG	ORG-National-Health-Fund-Poland
+2607	2613	Polsce	Polska	LOC	GPE-Poland
+2637	2645	COVID-19	COVID-19	EVT	EVT-Covid-19
+2653	2656	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+2806	2834	Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+2925	2928	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+3031	3034	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+3228	3242	Leszka Millera	LEszek Miller	PER	PER-Leszek-Miller
+3248	3262	Krystyny Jandy	Krystyna Janda	PER	PER-Krystyna-Janda
+3663	3679	Adam Niedzielski	Adam Niedzielski	PER	PER-Adam-Niedzielski
+3750	3753	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+3869	3872	NFZ	NFZ	ORG	ORG-National-Health-Fund-Poland
+4007	4031	Dziennika Gazety Prawnej	Dziennik Gazety Prawnej	PRO	PRO-Dziennik-Gazeta-Prawna
+4056	4072	Adam Niedzielski	Adam Niedzielski	PER	PER-Adam-Niedzielski
+4095	4107	Piotr Müller	Piotr Müller	PER	PER-Piotr-Müller
+4360	4363	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+4364	4377	Marty Wojtach	Marty Wojtach	PER	PER-Marty-Wojtach
+4739	4753	Niedzielskiego	Niedzielski	PER	PER-Adam-Niedzielski
+4792	4795	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+4898	4901	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+4915	4943	Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+5259	5266	Onetowi	Onet	PRO	PRO-Onet-Wiadomosci
+5279	5282	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+5307	5315	COVID-19	COVID-19	EVT	EVT-Covid-19
+5318	5324	Polsce	Polska	LOC	GPE-Poland
+5351	5357	Polsce	Polska	LOC	GPE-Poland
+5393	5401	COVID-19	COVID-19	EVT	EVT-Covid-19
+5445	5460	Pfizer-BioNTech	Pfizer-BioNTech	ORG	ORG-Pfizer-BioNTech
+5587	5593	DPS-ów	DPS-y	ORG	ORG-DPS
+5596	5600	MOPS	MOPS	ORG	ORG-MOPS-Poland
+5974	5980	Polski	Polska	LOC	GPE-Poland
+6124	6132	COVID-19	COVID-19	EVT	EVT-Covid-19
+6213	6250	Warszawskiego Uniwersytetu Medycznego	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+6282	6319	Warszawskiego Uniwersytetu Medycznego	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+6355	6363	COVID-19	COVID-19	EVT	EVT-Covid-19
+6437	6450	Uniwersytetem	Uniwersytet	ORG	ORG-Warsaw-Medical-University
+6456	6521	Centrum Medyczne Warszawskiego Uniwersytetu Medycznego sp. z o.o.	Centrum Medyczne Warszawskiego Uniwersytetu Medycznego sp. z o.o	ORG	ORG-Medical-Centre-Warsaw-Medical-University
+6563	6625	Mazowieckiego Oddziału Narodowego Funduszu Zdrowia w Warszawie	Mazowiecki Oddział Narodowego Funduszu Zdrowia w Warszawie	ORG	ORG-Mazovian-Branch-of-the-National-Health-Fund-Poland
+6627	6655	Agencja Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+6670	6676	CM WUM	CM WUM	ORG	ORG-Medical-Centre-Warsaw-Medical-University
+6897	6900	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+7003	7006	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+7509	7512	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+7782	7788	CM WUM	CM WUM	ORG	ORG-Medical-Centre-Warsaw-Medical-University
+7933	7936	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+7959	7966	Uczelni	Uczelnia	ORG	ORG-Warsaw-Medical-University

@@ -1,0 +1,40 @@
+0	5	Šarec	Šarec	PER	PER-Marjan-Šarec
+23	31	covid-19	covid-19	EVT	EVT-Covid-19
+94	97	LMŠ	LMŠ	ORG	ORG-List-of-Marjan-Šarec
+177	182	Hojsa	Hojs	PER	PER-Aleš-Hojs
+185	197	Marjan Šarec	Marjan Šarec	PER	PER-Marjan-Šarec
+244	255	Aleša Hojsa	Aleš Hojs	PER	PER-Aleš-Hojs
+256	263	tvitnil	tvit	PRO	PRO-Twitter
+345	347	DZ	DZ	ORG	ORG-National-Assembly-of-the-Republic-of-Slovenia
+379	382	LMŠ	LMŠ	ORG	ORG-List-of-Marjan-Šarec
+395	407	Marjan Šarec	Marjan Šarec	PER	PER-Marjan-Šarec
+443	462	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+650	653	LMŠ	LMŠ	ORG	ORG-List-of-Marjan-Šarec
+701	709	tviterju	tviter	PRO	PRO-Twitter
+775	783	COVID 19	COVID-19	EVT	EVT-Covid-19
+800	807	tvitnil	tvit	PRO	PRO-Twitter
+857	860	LMŠ	LMŠ	ORG	ORG-List-of-Marjan-Šarec
+921	930	poslancev	poslanci	PER	ORG-Slovenian-parliament
+956	959	STA	STA	ORG	ORG-Slovenian-Press-Agency
+1010	1013	LMŠ	LMŠ	ORG	ORG-List-of-Marjan-Šarec
+1023	1042	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1107	1146	Nacionalnega inštituta za javno zdravje	Nacionalni inštitut za javno zdravje	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1148	1152	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1166	1177	Jerco Korče	Jerca Korče	PER	PER-Jerca-Korče
+1180	1192	Igorja Pečka	Igor Peček	PER	PER-Igor-Peček
+1195	1209	Andrejo Zabret	Andreja Zabret	PER	PER-Andreja-Zabret
+1213	1227	Jožeta Lenarta	Jože Lenart	PER	PER-Jože-Lenart
+1239	1252	Aljaž Kovačič	Aljaž Kovačič	PER	PER-Aljaž-Kovačič
+1256	1266	Edo Paulič	Edo Paulič	PER	PER-Edo-Paulič
+1294	1298	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1345	1350	Hojsa	Hojs	PER	PER-Aleš-Hojs
+1403	1405	DZ	DZ	ORG	ORG-National-Assembly-of-the-Republic-of-Slovenia
+1457	1468	Aleša Hojsa	Aleš Hojs	PER	PER-Aleš-Hojs
+1534	1536	DZ	DZ	ORG	ORG-National-Assembly-of-the-Republic-of-Slovenia
+1713	1715	DZ	DZ	ORG	ORG-National-Assembly-of-the-Republic-of-Slovenia
+1716	1727	Igor Zorčič	Igor Zorčič	PER	PER-Igor-Zorčič
+1761	1771	covidom-19	covid-19	EVT	EVT-Covid-19
+1774	1776	DZ	DZ	ORG	ORG-National-Assembly-of-the-Republic-of-Slovenia
+1808	1811	LMŠ	LMŠ	ORG	ORG-List-of-Marjan-Šarec
+1977	1982	Hojsa	Hojs	PER	PER-Aleš-Hojs
+2063	2065	DZ	DZ	ORG	ORG-National-Assembly-of-the-Republic-of-Slovenia

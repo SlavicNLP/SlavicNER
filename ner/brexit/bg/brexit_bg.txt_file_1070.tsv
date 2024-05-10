@@ -1,0 +1,28 @@
+6	11	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+20	26	Белгия	Белгия	LOC	GPE-Belgium
+75	77	ЕС	ЕС	ORG	ORG-European-Union
+79	85	Белгия	Белгия	LOC	GPE-Belgium
+148	150	ЕС	ЕС	ORG	ORG-European-Union
+228	236	Брекзита	Брекзит	EVT	EVT-Brexit
+265	285	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+286	300	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+313	316	ДПА	ДПА	ORG	ORG-DPA
+383	385	ЕС	ЕС	ORG	ORG-European-Union
+499	501	ЕС	ЕС	ORG	ORG-European-Union
+578	581	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+583	588	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+637	647	Шарл Мишел	Шарл Мишел	PER	PER-Charles-Michel
+684	705	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+728	734	Белгия	Белгия	LOC	GPE-Belgium
+788	790	ЕС	ЕС	ORG	ORG-European-Union
+945	952	Брюксел	Брюксел	LOC	GPE-Brussles
+998	1011	Еврокомисията	Еврокомисия	ORG	ORG-European-Commission
+1028	1033	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1035	1052	Маргаритис Схинас	Маргаритис Схинас	PER	PER-Margaritis-Schinas
+1133	1135	ЕС	ЕС	ORG	ORG-European-Union
+1162	1175	Еврокомисията	Еврокомисия	ORG	ORG-European-Commission
+1266	1268	ЕС	ЕС	ORG	ORG-European-Union
+1425	1431	Схинас	Схинас	PER	PER-Margaritis-Schinas
+1614	1627	Еврокомисията	Еврокомисия	ORG	ORG-European-Commission
+1676	1684	британци	британци	PER	GPE-Great-Britain
+1696	1699	ДПА	ДПА	ORG	ORG-DPA

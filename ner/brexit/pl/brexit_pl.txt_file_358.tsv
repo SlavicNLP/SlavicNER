@@ -1,0 +1,11 @@
+17	25	brexitem	Brexit	EVT	EVT-Brexit
+206	217	Barclaycard	Barclaycard	ORG	ORG-Barclaycard
+433	458	British Retail Consortium	British Retail Consortium	ORG	ORG-British-Retail-Consortium
+556	563	brecitu	Brexit	EVT	EVT-Brexit
+576	591	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+680	694	Paul Lockstone	Paul Lockstone	PER	PER-Paul-Lockstone
+720	729	Barcycard	Barcycard	ORG	ORG-Barclaycard
+940	946	Brexit	Brexit	EVT	EVT-Brexit
+1099	1110	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1243	1254	Bank Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+1377	1383	Adzuna	Adzuna	ORG	ORG-Adzuna

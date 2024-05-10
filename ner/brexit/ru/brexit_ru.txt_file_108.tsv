@@ -1,0 +1,25 @@
+27	42	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+58	76	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+78	93	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+109	127	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+135	147	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+229	237	Британии	Британия	LOC	GPE-Great-Britain
+240	247	Twitter	Twitter	PRO	PRO-Twitter
+289	302	Джереми Ханта	Джереми Хант	PER	PER-Jeremy-Hunt
+351	369	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+430	446	Brexit (Брексит)	Brexit (Брексит)	EVT	EVT-Brexit
+515	526	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+535	540	Times	Times	PRO	PRO-The-Times
+555	558	Мэй	Мэй	PER	PER-Theresa-May
+617	620	МИД	МИД	ORG	ORG-Foreign-Office
+621	636	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+690	697	Кабмина	Кабмин	ORG	ORG-Cabinet-of-the-United-Kingdom
+720	729	Евросоюза	Евросоюз	ORG	ORG-European-Union
+739	742	Мэй	Мэй	PER	PER-Theresa-May
+801	809	Британии	Британия	LOC	GPE-Great-Britain
+813	815	ЕС	ЕС	ORG	ORG-European-Union
+817	820	Мэй	Мэй	PER	PER-Theresa-May
+842	856	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1029	1043	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1047	1049	ЕС	ЕС	ORG	ORG-European-Union
+1061	1067	Ракурс	Ракурс	PRO	PRO-Racurs-ua

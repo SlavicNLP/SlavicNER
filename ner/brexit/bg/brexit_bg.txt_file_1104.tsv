@@ -1,0 +1,50 @@
+0	17	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+24	38	Великобритания	Великобритания	LOC	GPE-Great-Britain
+75	81	Лондон	Лондон	LOC	GPE-London
+105	112	Брекзит	Брекзит	EVT	EVT-Brexit
+187	194	Брекзит	Брекзит	EVT	EVT-Brexit
+258	265	Брекзит	Брекзит	EVT	EVT-Brexit
+266	279	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+282	289	Брекзит	Брекзит	EVT	EVT-Brexit
+369	375	Дейвис	Дейвис	PER	PER-David-Davis
+640	654	Великобритания	Великобритания	LOC	GPE-Great-Britain
+776	796	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+972	979	Брекзит	Брекзит	EVT	EVT-Brexit
+1306	1320	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1343	1345	ЕС	ЕС	ORG	ORG-European-Union
+1394	1408	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1556	1576	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1829	1839	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2098	2114	Европейският съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+2144	2158	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2164	2171	Брекзит	Брекзит	EVT	EVT-Brexit
+2272	2286	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2331	2333	ЕС	ЕС	ORG	ORG-European-Union
+2489	2501	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+2503	2509	Лондон	Лондон	LOC	GPE-London
+2511	2528	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+2548	2562	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2604	2611	Галилео	Галилео	PRO	PRO-Galileo
+2686	2700	Daily Exspress	Daily Express	PRO	PRO-Daily-Express
+2888	2902	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2966	2986	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+3089	3103	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3150	3162	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+3164	3170	Лондон	Лондон	LOC	GPE-London
+3212	3219	Брекзит	Брекзит	EVT	EVT-Brexit
+3275	3284	Евросъюза	Евросъюз	ORG	ORG-European-Union
+3336	3346	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3356	3358	ЕС	ЕС	ORG	ORG-European-Union
+3384	3396	The Guardian	The Guardian	PRO	PRO-The-Guardian
+3418	3427	Бирмингам	Бирмингам	LOC	GPE-Birmingham
+3471	3483	Кеир Стармър	Кеир Стармър	PER	PER-Keir-Starmer
+3582	3589	Брекзит	Брекзит	EVT	EVT-Brexit
+3613	3633	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3645	3647	ЕС	ЕС	ORG	ORG-European-Union
+3735	3742	Брюксел	Брюксел	LOC	GPE-Brussles
+3814	3834	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+4175	4182	Брекзит	Брекзит	EVT	EVT-Brexit
+4216	4230	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4318	4325	Стармър	Стармър	PER	PER-Keir-Starmer
+4399	4406	Брекзит	Брекзит	EVT	EVT-Brexit
+4594	4606	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov

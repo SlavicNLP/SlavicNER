@@ -1,0 +1,53 @@
+0	8	Covid-19	Covid-19	EVT	EVT-Covid-19
+11	14	ZDA	ZDA	LOC	GPE-USA
+52	68	vietnamska vojna	vietnamska vojna	EVT	EVT-Vietnam-War
+72	75	ZDA	ZDA	LOC	GPE-USA
+142	155	koronavirusom	koronavirus	EVT	EVT-Covid-19
+187	195	covid-19	covid-19	EVT	EVT-Covid-19
+251	267	vietnamski vojni	vietnamska vojna	EVT	EVT-Vietnam-War
+289	301	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+325	336	koronavirus	koronavirus	EVT	EVT-Covid-19
+409	412	ZDA	ZDA	LOC	GPE-USA
+525	533	New York	New York	LOC	GPE-New-York
+589	597	New York	New York	LOC	GPE-New-York
+659	678	Univerza Washington	Univerza Washington	ORG	ORG-Washington-University-in-St.-Louis
+703	706	ZDA	ZDA	LOC	GPE-USA
+863	866	ZDA	ZDA	LOC	GPE-USA
+979	986	Španija	Španija	LOC	GPE-Spain
+1011	1018	Belgija	Belgija	LOC	GPE-Belgium
+1020	1025	Švica	Švica	LOC	GPE-Switzerland
+1029	1036	Italija	Italija	LOC	GPE-Italy
+1050	1053	ZDA	ZDA	LOC	GPE-USA
+1094	1105	koronavirus	koronavirus	EVT	EVT-Covid-19
+1225	1236	koronavirus	koronavirus	EVT	EVT-Covid-19
+1254	1259	Trump	Trump	PER	PER-Donald-Trump
+1353	1358	Trump	Trump	PER	PER-Donald-Trump
+1389	1392	ZDA	ZDA	LOC	GPE-USA
+1444	1455	koronavirus	koronavirus	EVT	EVT-Covid-19
+1626	1639	koronavirusom	koronavirus	EVT	EVT-Covid-19
+1682	1685	ZDA	ZDA	LOC	GPE-USA
+1779	1791	koronavirusu	koronavirus	EVT	EVT-Covid-19
+1835	1838	ZDA	ZDA	LOC	GPE-USA
+1952	1958	Trumpa	Trump	PER	PER-Donald-Trump
+2061	2074	koronavirusom	koronavirus	EVT	EVT-Covid-19
+2125	2132	Trumpov	Trump	PER	PER-Donald-Trump
+2228	2254	koronavirusno boleznijo 19	koronavirusna bolezen 19	EVT	EVT-Covid-19
+2359	2365	Amazon	Amazon	ORG	ORG-Amazon
+2367	2376	Instacart	Instacart	ORG	ORG-Instacart
+2378	2389	Whole Foods	Whole Foods	ORG	ORG-Whole-Foods
+2391	2398	Walmart	Walmart	ORG	ORG-Walmart
+2400	2406	Target	Target	ORG	ORG-Target
+2411	2416	FedEx	FedEx	ORG	ORG-FedEx
+2451	2463	koronavirusa	koronavirus	EVT	EVT-Covid-19
+2587	2626	Ameriški center za nadzor nad boleznimi	Ameriški center za nadzor nad boleznimi	ORG	ORG-Centers-for-Disease-Control
+2628	2631	CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+2928	2931	CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+2998	3009	koronavirus	koronavirus	EVT	EVT-Covid-19
+3060	3063	CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+3233	3241	Trumpove	Trump	PER	PER-Donald-Trump
+3276	3279	ZDA	ZDA	LOC	GPE-USA
+3280	3290	Mike Pence	Mike Pence	PER	PER-Mike-Pence
+3340	3364	klinike Mayo v Minnesoti	klinika Mayo v Minnesoti	LOC	LOC-Mayo-Clinic-Minnesota
+3430	3436	Penceu	Pence	PER	PER-Mike-Pence
+3458	3463	Pence	Pence	PER	PER-Mike-Pence
+3520	3532	koronavirusa	koronavirus	EVT	EVT-Covid-19

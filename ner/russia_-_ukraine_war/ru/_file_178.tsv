@@ -1,0 +1,39 @@
+6	13	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
+15	23	Евросоюз	Евросоюз	ORG	ORG-European-Union
+67	73	России	Россия	LOC	GPE-Russia
+75	83	Евросоюз	Евросоюз	ORG	ORG-European-Union
+116	122	Россию	Россия	LOC	GPE-Russia
+141	148	Украине	Украина	LOC	GPE-Ukraine
+161	166	Киеву	Киев	LOC	GPE-Kiev
+220	228	Брюсселе	Брюссель	LOC	GPE-Brussles
+282	286	ТАСС	ТАСС	PRO	PRO-TASS
+307	314	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
+315	330	Анналену Бербок	Анналена Бербок	PER	PER-Annalena-Baerbock
+347	354	Таллине	Таллин	LOC	GPE-Tallinn
+405	424	Эвой-Марией Лийметс	Эва-Мария Лийметс	PER	PER-Eva-Maria-Liimets
+425	431	Бербок	Бербок	PER	PER-Annalena-Baerbock
+452	454	ЕС	ЕС	ORG	ORG-European-Union
+525	532	Берлина	Берлин	LOC	GPE-Berlin
+576	583	Украине	Украина	LOC	GPE-Ukraine
+630	642	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+643	663	Урсула фон дер Ляйен	Урсула фон дер Ляйен	PER	PER-Ursula-von-der-Leyen
+749	758	Сбербанка	Сбербанк	ORG	ORG-Sberbank-of-Russia
+815	817	ЕК	ЕК	ORG	ORG-European-Commission
+860	866	России	Россия	LOC	GPE-Russia
+910	912	РФ	РФ	LOC	GPE-Russia
+913	927	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+992	1020	специальной военной операции	специальная военная операция	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1023	1031	Донбассе	Донбасс	LOC	LOC-Donbass
+1095	1101	России	Россия	LOC	GPE-Russia
+1144	1150	Россия	Россия	LOC	GPE-Russia
+1175	1182	Украины	Украина	LOC	GPE-Ukraine
+1266	1273	Украины	Украина	LOC	GPE-Ukraine
+1295	1301	России	Россия	LOC	GPE-Russia
+1309	1315	Запада	Запад	LOC	LOC-West
+1317	1320	США	США	LOC	GPE-USA
+1322	1328	Канада	Канада	LOC	GPE-Canada
+1330	1338	Евросоюз	Евросоюз	ORG	ORG-European-Union
+1340	1354	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1356	1362	Япония	Япония	LOC	GPE-Japan
+1413	1415	РФ	РФ	LOC	GPE-Russia
+1492	1499	Украины	Украина	LOC	GPE-Ukraine

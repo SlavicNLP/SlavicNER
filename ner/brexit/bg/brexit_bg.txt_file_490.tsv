@@ -1,0 +1,25 @@
+1	8	Гардиън	Гардиън	PRO	PRO-The-Guardian
+11	13	ЕС	ЕС	ORG	ORG-European-Union
+24	40	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+72	79	Брекзит	Брекзит	EVT	EVT-Brexit
+98	112	Великобритания	Великобритания	LOC	GPE-Great-Britain
+201	217	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+218	234	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+327	334	Гардиън	Гардиън	PRO	PRO-The-Guardian
+516	523	Брюксел	Брюксел	LOC	GPE-Brussles
+1003	1010	Брюксел	Брюксел	LOC	GPE-Brussles
+1026	1040	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1073	1089	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1133	1135	ЕС	ЕС	ORG	ORG-European-Union
+1222	1238	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1241	1259	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+1302	1314	Добрия петък	Добрия петък	EVT	EVT-Good-Friday
+1387	1407	Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1439	1471	Демократичната юнионистка партия	Демократична юнионистка партия	ORG	ORG-DUP-Democratic-Unionist-Party
+1475	1491	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1534	1544	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1580	1600	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+1618	1620	ЕС	ЕС	ORG	ORG-European-Union
+1694	1714	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1978	1998	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2200	2212	Добрия петък	Добрия петък	EVT	EVT-Good-Friday

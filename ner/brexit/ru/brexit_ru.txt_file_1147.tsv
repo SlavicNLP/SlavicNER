@@ -1,0 +1,22 @@
+0	11	Кабинет Мэй	Кабинет Мэй	ORG	ORG-Cabinet-of-the-United-Kingdom
+35	48	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+90	98	Британии	Британия	LOC	GPE-Great-Britain
+99	112	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+244	252	твиттере	твиттер	PRO	PRO-Twitter
+263	266	BBC	BBC	ORG	ORG-BBC-Ltd
+310	320	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+323	336	Даунинг стрит	Даунинг стрит	LOC	LOC-Downing-Street
+385	400	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+532	535	Мэй	Мэй	PER	PER-Theresa-May
+575	583	Джонсона	Джонсон	PER	PER-Boris-Johnson
+634	648	Великобритании	Великобритания	LOC	GPE-Great-Britain
+652	658	Brexit	Brexit	EVT	EVT-Brexit
+659	670	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+692	704	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+706	711	Дэвис	Дэвис	PER	PER-David-Davis
+789	803	Великобритании	Великобритания	LOC	GPE-Great-Britain
+806	808	ЕС	ЕС	ORG	ORG-European-Union
+845	854	Евросоюза	Евросоюз	ORG	ORG-European-Union
+890	893	Мэй	Мэй	PER	PER-Theresa-May
+901	909	Джонсона	Джонсон	PER	PER-Boris-Johnson
+942	948	Brexit	Brexit	EVT	EVT-Brexit

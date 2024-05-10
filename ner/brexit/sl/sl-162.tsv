@@ -1,0 +1,64 @@
+21	35	Milanom Zverom	Milan Zver	PER	PER-Milan-Zver
+58	64	Brexit	Brexit	EVT	EVT-Brexit
+77	94	zahodnega Balkana	zahodni Balkan	LOC	LOC-Western-Balkans
+130	147	Evropski poslanci	Evropski poslanci	PER	ORG-European-Parliament
+165	176	Strasbourgu	Strasbourg	LOC	GPE-Strasbourg
+496	507	Junckerjevi	Juncker	PER	PER-Jean-Claude-Juncker
+529	542	Svetom Evrope	Svet Evrope	ORG	ORG-Council-of-Europe
+600	607	Brexita	Brexit	EVT	EVT-Brexit
+663	684	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+688	702	Evropske unije	Evropska unija	ORG	ORG-European-Union
+740	756	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+757	768	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+783	800	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+801	819	Jean Cloud Juncker	Jean Cloud Juncker	PER	PER-Jean-Claude-Juncker
+820	829	Britancem	Britanec	PER	GPE-Great-Britain
+859	861	EU	EU	ORG	ORG-European-Union
+915	922	Otočani	Otočani	PER	GPE-Great-Britain
+994	1008	Evropski utrip	Evropski utrip	PRO	PRO-Evropski-utrip-TVshow
+1009	1028	evropskemu poslancu	evropski poslanec	PER	ORG-European-Parliament
+1063	1066	EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+1071	1083	Milanu Zveru	Milan Zver	PER	PER-Milan-Zver
+1138	1143	Tuska	Tusk	PER	PER-Donald-Tusk
+1147	1156	Junckerja	Juncker	PER	PER-Jean-Claude-Juncker
+1317	1323	Brexit	Brexit	EVT	EVT-Brexit
+1499	1501	EU	EU	ORG	ORG-European-Union
+1580	1588	Britanci	Britanci	PER	GPE-Great-Britain
+1735	1737	EU	EU	ORG	ORG-European-Union
+1825	1846	združenega kraljestva	združeno kraljestvo	LOC	GPE-Great-Britain
+1850	1852	EU	EU	ORG	ORG-European-Union
+1885	1889	Irci	Irci	PER	GPE-Ireland
+1922	1934	Leo Varadkar	Leo Varadkar	PER	PER-Leo-Varadkar
+1970	1982	Milana Zvera	Milan Zver	PER	PER-Milan-Zver
+1991	1999	Varadkar	Varadkar	PER	PER-Leo-Varadkar
+2017	2026	Evropejec	Evropejec	PER	LOC-Europe
+2027	2038	Macronovega	Macron	PER	PER-Emmanuel-Macron
+2119	2121	EU	EU	ORG	ORG-European-Union
+2132	2148	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+2152	2154	EU	EU	ORG	ORG-European-Union
+2160	2168	Estoncih	Estonci	PER	GPE-Estonia
+2216	2218	EU	EU	ORG	ORG-European-Union
+2239	2248	Bolgarija	Bolgarija	LOC	GPE-Bulgaria
+2277	2290	Bojko Borisov	Bojko Borisov	PER	PER-Boyko-Borisov
+2342	2358	balkanskih držav	balkanske države	LOC	LOC-Balkans
+2385	2399	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+2417	2423	Junker	Junker	PER	PER-Jean-Claude-Juncker
+2507	2509	EU	EU	ORG	ORG-European-Union
+2526	2543	Evropsko komisijo	Evropska komisija	ORG	ORG-European-Commission
+2561	2570	Slovenijo	Slovenija	LOC	GPE-Slovenia
+2574	2581	Hrvaško	Hrvaška	LOC	GPE-Croatia
+2598	2608	Milan Zver	Milan Zver	PER	PER-Milan-Zver
+2629	2637	Estonijo	Estonija	LOC	GPE-Estonia
+2708	2716	Borisova	Borisov	PER	PER-Boyko-Borisov
+2850	2867	zahodnega Balkana	zahodni Balkan	LOC	LOC-Western-Balkans
+2919	2925	Evropi	Evropa	LOC	LOC-Europe
+3110	3127	zahodnega Balkana	zahodni Balkan	LOC	LOC-Western-Balkans
+3219	3237	Kosovski Mitrovici	Kosovska Mitrovica	LOC	GPE-Kosovska-Mitrovica
+3300	3307	Kosovom	Kosovo	LOC	GPE-Kosovo
+3311	3317	Srbijo	Srbija	LOC	GPE-Serbia
+3328	3338	Milan Zver	Milan Zver	PER	PER-Milan-Zver
+3341	3358	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+3379	3381	EU	EU	ORG	ORG-European-Union
+3664	3666	EU	EU	ORG	ORG-European-Union
+3745	3747	EU	EU	ORG	ORG-European-Union
+3814	3824	Milan Zver	Milan Zver	PER	PER-Milan-Zver

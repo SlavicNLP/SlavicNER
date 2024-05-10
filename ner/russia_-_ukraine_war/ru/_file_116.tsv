@@ -1,0 +1,63 @@
+0	14	Марк Цукерберг	Марк Цукенберг	PER	PER-Mark-Zuckerberg
+17	30	Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
+81	91	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+140	146	Россию	Россия	LOC	GPE-Russia
+347	358	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+394	400	России	Россия	LOC	GPE-Russia
+704	710	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+772	787	Bank of America	Bank of America	ORG	ORG-Bank-of-America
+788	803	Брайан Мойнихан	Брайан Мойнихан	PER	PER-Brian-Moynihan
+831	834	США	США	LOC	GPE-USA
+835	846	Кэтлин Хикс	Кэтлин Хикс	PER	PER-Kathleen-Hicks
+856	897	Объединенного комитета начальников штабов	Объединенный комитет начальников штабов	ORG	ORG-Joint-Chiefs-of-Staff
+898	914	Кристофер Грэйди	Кристофер Грэйди	PER	PER-Christopher-Grady
+942	952	Минобороны	Минобороны	ORG	ORG-United-States-Department-of-Defense
+953	963	Джон Кирби	Джон Кирби	PER	PER-John-Kirby
+1015	1026	Белого дома	Белый дом	ORG	ORG-The-White-House
+1027	1039	Роналд Кляйн	Роналд Кляйн	PER	PER-Ronald-Klein
+1067	1078	Госдепа США	Госдеп США	ORG	ORG-Department-of-State-USA
+1079	1088	Нэд Прайс	Нэд Прайс	PER	PER-Ned-Price
+1124	1136	Рейчел Левин	Рейчел Левин	PER	PER-Rachel-Levine
+1153	1159	Харрис	Харрис	PER	PER-Kamala-Harris
+1205	1208	США	США	LOC	GPE-USA
+1209	1224	Энтони Блинкена	Энтони Блинкена	PER	PER-Antony-Blinken
+1227	1238	Эйван Райан	Эйван Райан	PER	PER-Evan-Ryan
+1285	1301	Джейка Салливана	Джейк Салливан	PER	PER-Jacob-Sullivan
+1304	1322	Маргарет Гудлэндер	Маргарет Гудлэндер	PER	PER-Margaret-Goodlander
+1353	1368	Виктории Нуланд	Виктория Нуланд	PER	PER-Victoria-Nuland
+1371	1383	Роберт Каган	Роберт Каган	PER	PER-Robert-Kagan
+1470	1473	США	США	LOC	GPE-USA
+1475	1486	Кэти Уорден	Кэти Уорден	PER	PER-Kathy-Warden
+1488	1516	Northrop Grumman Corporation	Northrop Grumman Corporation	ORG	ORG-Northrop-Grumman-Corporation
+1519	1533	Фиби Новакович	Фиби Новакович	PER	PER-Phebe-Novakovic
+1535	1551	General Dynamics	General Dynamics	ORG	ORG-General-Dynamics
+1554	1567	Майкл Петтерс	Майкл Петтерс	PER	PER-Michael-Petters
+1569	1598	Huntington Ingalls Industries	Huntington Ingalls Industries	ORG	ORG-Huntington-Ingalls-Industries
+1601	1613	Уильям Браун	Уильям Браун	PER	PER-William-Brown
+1615	1636	L3Harris Technologies	L3Harris Technologies	ORG	ORG-L3Harris-Technologies
+1639	1651	Вахид Наваби	Вахид Наваби	PER	PER-Wahid-Nawabi
+1653	1666	AeroVironment	AeroVironment	ORG	ORG-AeroVironment
+1669	1681	Роджер Кроун	Роджер Кроун	PER	PER-Roger-Krone
+1683	1689	Leidos	Leidos	ORG	ORG-Leidos
+1692	1708	Горацио Розански	Горацио Розански	PER	PER-Horacio-Rozanski
+1710	1729	Booz Allen Hamilton	Booz Allen Hamilton	ORG	ORG-Booz-Allen-Hamilton
+1732	1743	Эйлин Дрейк	Эйлин Дрейк	PER	PER-Eileen-Drake
+1745	1763	Aerojet Rocketdyne	Aerojet Rocketdyne	ORG	ORG-Aerojet-Rocketdyne
+1810	1850	Mitchell Institute for Aerospace Studies	Mitchell Institute for Aerospace Studies	ORG	ORG-Mitchell-Institute-for-Aerospace-Studies
+1851	1863	Дэвид Дептуа	Дэвид Дептуа	PER	PER-David-Deptula
+1897	1905	LinkedIn	LinkedIn	ORG	ORG-Linkedin
+1906	1921	Райан Рослански	Райан Рослански	PER	PER-Ryan-Roslansky
+1942	1945	ABC	ABC	ORG	ORG-ABC-Tv-Programm
+1946	1965	Джордж Стефанопулос	Джордж Стефанопулос	PER	ORG-George-Stephanopoulos
+1990	2040	Центра по стратегической безопасности Б.Скоукрофта	Центр по стратегической безопасности Б.Скоукрофта	ORG	ORG-Scowcroft-Center-for-Strategy-and-Security
+2042	2054	Мэтью Крониг	Мэтью Крониг	PER	PER-Matthew-Kroenig
+2066	2087	Центра Вудро Вильсона	Центр Вудро Вильсона	ORG	ORG-Woodrow-Wilson-Center
+2089	2103	Дэвид Игнатиус	Дэвид Игнатиус	PER	PER-David-Ignatius
+2105	2119	Эдвард Асеведо	Эдвард Асеведо	PER	PER-Edward-Acevedo
+2122	2134	Кевин Ротрок	Кевин Ротрок	PER	PER-Kevin-Rothrock
+2210	2216	Медуза	Медуза	PRO	PRO-Russia-Meduza
+2233	2235	РФ	РФ	LOC	GPE-Russia
+2265	2268	CNN	CNN	ORG	ORG-CNN
+2269	2285	Бианна Голодрыга	Бианна Голодрыга	PER	PER-Bianna-Golodryga
+2429	2432	США	США	LOC	GPE-USA
+2445	2451	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia

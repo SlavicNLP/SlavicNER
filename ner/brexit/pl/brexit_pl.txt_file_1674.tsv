@@ -1,0 +1,17 @@
+33	41	brexicie	Brexit	EVT	EVT-Brexit
+43	46	May	May	PER	PER-Theresa-May
+124	131	brexitu	Brexit	EVT	EVT-Brexit
+263	278	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+293	308	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+313	325	Westminsteru	Westminster	LOC	LOC-Westminster-Hall
+366	368	UE	UE	ORG	ORG-European-Union
+380	391	Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+513	523	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+526	541	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+596	603	The Sun	The Sun	PRO	PRO-The-Sun
+717	721	Unią	Unia	ORG	ORG-European-Union
+800	824	European Communities Act	European Communities Act	PRO	PRO-European-Communities-Act-1972
+863	886	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+889	893	Unią	Unia	ORG	ORG-European-Union
+1147	1180	Europejskim Obszarze Gospodarczym	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+1210	1224	Downing Street	Downing Street	LOC	LOC-Downing-Street

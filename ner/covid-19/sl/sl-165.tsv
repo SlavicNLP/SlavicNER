@@ -1,0 +1,15 @@
+0	8	Slovenka	Slovenka	PER	GPE-Slovenia
+44	52	covid-19	covid-19	EVT	EVT-Covid-19
+115	131	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+237	245	covid-19	covid-19	EVT	EVT-Covid-19
+338	367	Dom za starejše Bor - Vitadom	Dom za starejše Bor - Vitadom	LOC	ORG-Bor-Vitadom-Nursing-Home-for-Elderly
+371	392	Črnem vrhu nad Idrijo	Črni vrh nad Idrijo	LOC	LOC-Črni-vrh-nad-Idrijo
+437	456	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1039	1047	covid-19	covid-19	EVT	EVT-Covid-19
+1130	1143	UKC Ljubljana	UKC Ljubljana	LOC	GPE-Ljubljana
+1343	1346	Noč	Noč	PER	PER-Marko-Noč
+1406	1415	Marko Noč	Marko Noč	PER	PER-Marko-Noč
+1554	1617	Kliničnega oddelka za intenzivno interno medicino UKC Ljubljana	KliničnI oddelek za intenzivno interno medicino UKC Ljubljana	ORG	ORG-Division-of-internal-medicine-UKC-Ljubljana
+1618	1627	Marko Noč	Marko Noč	PER	PER-Marko-Noč
+1655	1663	covid-19	covid-19	EVT	EVT-Covid-19
+1996	1999	Noč	Noč	PER	PER-Naomi-Biden

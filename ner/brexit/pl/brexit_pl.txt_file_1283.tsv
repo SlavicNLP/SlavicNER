@@ -1,0 +1,38 @@
+7	9	UE	UE	ORG	ORG-European-Union
+12	18	brexit	Brexit	EVT	EVT-Brexit
+120	128	Brukseli	Bruksela	LOC	GPE-Brussles
+189	206	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+305	311	Londyn	Londyn	LOC	GPE-London
+319	321	UE	UE	ORG	ORG-European-Union
+468	475	brexitu	Brexit	EVT	EVT-Brexit
+500	517	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+520	522	UE	UE	ORG	ORG-European-Union
+681	683	UE	UE	ORG	ORG-European-Union
+753	760	brexitu	Brexit	EVT	EVT-Brexit
+842	850	Irlandią	Irlandia	LOC	GPE-Ireland
+853	870	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+872	874	UE	UE	ORG	ORG-European-Union
+1063	1065	UE	UE	ORG	ORG-European-Union
+1067	1078	Theresa May	Theresa May	PER	PER-Theresa-May
+1134	1142	Brukseli	Bruksela	LOC	GPE-Brussles
+1325	1333	Brukseli	Bruksela	LOC	GPE-Brussles
+1404	1419	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1581	1583	UE	UE	ORG	ORG-European-Union
+2033	2035	UE	UE	ORG	ORG-European-Union
+2138	2155	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2187	2195	Brukseli	Bruksela	LOC	GPE-Brussles
+2208	2210	UE	UE	ORG	ORG-European-Union
+2229	2246	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2680	2682	UE	UE	ORG	ORG-European-Union
+2685	2700	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2817	2834	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3110	3119	Gibraltar	Gibraltar	LOC	GPE-Gibraltar
+3168	3175	Madrytu	Madryt	LOC	GPE-Madrid
+3233	3243	Gibraltaru	Gibraltar	LOC	GPE-Gibraltar
+3294	3309	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3312	3321	Hiszpanią	Hiszpania	LOC	GPE-Spain
+3380	3397	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3400	3402	UE	UE	ORG	ORG-European-Union
+3516	3523	brexitu	Brexit	EVT	EVT-Brexit
+3579	3599	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+3605	3614	Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons

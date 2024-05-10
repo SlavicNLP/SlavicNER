@@ -1,0 +1,14 @@
+45	52	brexitu	Brexit	EVT	EVT-Brexit
+90	98	Brukselą	Bruksela	LOC	GPE-Brussles
+130	138	brexicie	Brexit	EVT	EVT-Brexit
+173	181	Londynie	Londyn	LOC	GPE-London
+201	209	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+328	337	The Times	The Times	PRO	PRO-The-Times
+608	610	UE	UE	ORG	ORG-European-Union
+665	693	Światowej Organizacji Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization
+695	698	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+823	827	Unii	Unia	ORG	ORG-European-Union
+988	995	brexitu	Brexit	EVT	EVT-Brexit
+1077	1098	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1133	1154	Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+1238	1242	Unię	Unia	ORG	ORG-European-Union

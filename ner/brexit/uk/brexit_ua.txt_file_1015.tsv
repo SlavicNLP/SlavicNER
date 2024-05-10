@@ -1,0 +1,72 @@
+15	23	Британії	Британія	LOC	GPE-Great-Britain
+42	48	Brexit	Brexit	EVT	EVT-Brexit
+81	97	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+118	124	Brexit	Brexit	EVT	EVT-Brexit
+177	195	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+513	532	Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+569	584	Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+717	723	Європі	Європа	LOC	LOC-Europe
+742	749	Лондона	Лондон	LOC	GPE-London
+774	782	Британії	Британія	LOC	GPE-Great-Britain
+795	797	ЄС	ЄС	LOC	ORG-European-Union
+945	947	ЄС	ЄС	LOC	ORG-European-Union
+1069	1075	Європі	Європа	LOC	LOC-Europe
+1091	1101	Терези Мей	Тереза Мей	PER	PER-Theresa-May
+1131	1138	Лондона	Лондон	LOC	GPE-London
+1236	1238	ЄС	ЄС	LOC	ORG-European-Union
+1250	1258	Британії	Британія	LOC	GPE-Great-Britain
+1276	1278	ЄС	ЄС	LOC	ORG-European-Union
+1287	1294	Лондону	Лондон	LOC	GPE-London
+1360	1369	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1494	1500	Brexit	Brexit	EVT	EVT-Brexit
+1537	1545	Британії	Британія	LOC	GPE-Great-Britain
+1633	1635	ЄС	ЄС	LOC	ORG-European-Union
+1824	1841	Європейський Союз	Європейський Союз	ORG	ORG-European-Union
+1916	1924	Британія	Британія	LOC	GPE-Great-Britain
+1933	1935	ЄС	ЄС	LOC	ORG-European-Union
+1963	1973	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1987	1994	Лондоні	Лондон	LOC	GPE-London
+2007	2016	Брюсселем	Брюссель	LOC	GPE-Brussles
+2069	2077	Британії	Британія	LOC	GPE-Great-Britain
+2220	2226	Brexit	Brexit	EVT	EVT-Brexit
+2528	2531	Мей	Мей	PER	PER-Theresa-May
+2578	2585	Лондоні	Лондон	LOC	GPE-London
+2600	2608	Британії	Британія	LOC	GPE-Great-Britain
+2649	2651	ЄС	ЄС	LOC	ORG-European-Union
+2738	2744	Brexit	Brexit	EVT	EVT-Brexit
+2785	2787	ЄС	ЄС	LOC	ORG-European-Union
+2794	2802	Британії	Британія	LOC	GPE-Great-Britain
+2828	2835	Лондона	Лондон	LOC	GPE-London
+2881	2889	Британія	Британія	LOC	GPE-Great-Britain
+2969	2971	ЄС	ЄС	LOC	ORG-European-Union
+3138	3149	Гібралтаром	Гібралтар	LOC	GPE-Gibraltar
+3180	3198	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+3228	3236	Британія	Британія	LOC	GPE-Great-Britain
+3245	3247	ЄС	ЄС	LOC	ORG-European-Union
+3329	3348	Північною Ірландією	Північна Ірландія	LOC	GPE-Northern-Ireland
+3352	3361	Ірландією	Ірландія	LOC	GPE-Ireland
+3384	3386	ЄС	ЄС	LOC	ORG-European-Union
+3394	3402	Британії	Британія	LOC	GPE-Great-Britain
+3411	3417	Лондон	Лондон	LOC	GPE-London
+3478	3495	Північна Ірландія	Північна Ірландія	LOC	GPE-Northern-Ireland
+4072	4080	Євросоюз	Євросоюз	ORG	ORG-European-Union
+4107	4115	Британії	Британія	LOC	GPE-Great-Britain
+4134	4136	ЄС	ЄС	LOC	ORG-European-Union
+4240	4246	Brexit	Brexit	EVT	EVT-Brexit
+4255	4261	Brexit	Brexit	EVT	EVT-Brexit
+4330	4341	Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+4342	4356	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+4411	4419	Британії	Британія	LOC	GPE-Great-Britain
+4566	4576	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4808	4814	Brexit	Brexit	EVT	EVT-Brexit
+4857	4859	ЄС	ЄС	LOC	ORG-European-Union
+5050	5052	ЄС	ЄС	LOC	ORG-European-Union
+5120	5128	Британія	Британія	LOC	GPE-Great-Britain
+5299	5305	Європи	Європа	LOC	LOC-Europe
+5308	5325	Великою Британією	Велика Британія	LOC	GPE-Great-Britain
+5547	5553	Brexit	Brexit	EVT	EVT-Brexit
+5804	5810	Європа	Європа	LOC	LOC-Europe
+5852	5870	Микола Капітоненко	Микола Капітоненко	PER	PER-Mykola-Kapitonenko
+5872	5914	Міжнародний центр перспективних досліджень	Міжнародний центр перспективних досліджень	ORG	ORG-International-Center-for-Policy-Studies
+5928	5949	UA: Ukraine Analytica	UA: Ukraine Analytica	PRO	PRO-Russia-Ukraine-gas-transit-deal
+5954	5975	"""Європейської правди"""	"""Європейська правда"""	PRO	PRO-European-Truth

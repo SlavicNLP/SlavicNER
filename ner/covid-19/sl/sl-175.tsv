@@ -1,0 +1,31 @@
+14	22	covid-19	covid-19	EVT	EVT-Covid-19
+794	802	covid-19	covid-19	EVT	EVT-Covid-19
+1065	1073	covid-19	covid-19	EVT	EVT-Covid-19
+1450	1456	Google	Google	ORG	ORG-Google
+1458	1466	Facebook	Facebook	PRO	PRO-Facebook
+1468	1474	Amazon	Amazon	ORG	ORG-Amazon
+1655	1660	covid	covid	EVT	EVT-Covid-19
+1826	1834	Kitajski	Kitajska	LOC	GPE-China
+1974	1979	covid	covid	EVT	EVT-Covid-19
+2085	2090	covid	covid	EVT	EVT-Covid-19
+2150	2169	Pandorino skrinjico	Pandorina skrinjica	PRO	PRO-Pandora-Box
+2579	2584	covid	covid	EVT	EVT-Covid-19
+2818	2823	covid	covid	EVT	EVT-Covid-19
+3706	3720	New York Times	New York Times	PRO	PRO-The-New-York-Times
+3721	3733	David Brooks	David Brooks	PER	PER-David-Brooks
+3919	3927	Homodeus	Homodeus	PRO	PRO-Homodeus
+3988	4005	Yuval Noah Harari	Yuval Noah Harari	PER	PER-Yuval-Noah-Harari
+4352	4368	Liquid modernity	Liquid modernity	PRO	PRO-Liquid-Modernity
+4381	4395	Zygmunt Bauman	Zygmunt Bauman	PER	PER-Zygmunt-Bauman
+5245	5265	Immanuel Wallerstein	Immanuel Wallerstein	PER	PER-Immanuel-Wallerstein
+5326	5357	Ali ima kapitalizem prihodnost?	Ali ima kapitalizem prihodnost?	PRO	PRO-Does-Capitalism-Have-a-Future?
+5980	5988	Harariju	Harari	PER	PER-Yuval-Noah-Harari
+6426	6432	Harari	Harari	PER	PER-Yuval-Noah-Harari
+6648	6655	Maslowu	Maslow	PER	PER-Abraham-Maslow
+6819	6839	Maslowova hierarhija	Maslowova hierarhija	PRO	PRO-Maslow's-hierarchy-of-needs
+7227	7232	covid	covid	EVT	EVT-Covid-19
+7380	7389	covida-19	covid-19	EVT	EVT-Covid-19
+7519	7524	covid	covid	EVT	EVT-Covid-19
+8007	8012	covid	covid	EVT	EVT-Covid-19
+8525	8544	epidemije covida-19	epidemija covida-19	EVT	EVT-Covid-19
+9660	9668	covid-19	covid-19	EVT	EVT-Covid-19

@@ -1,0 +1,10 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+17	21	Češi	Češi	PER	GPE-Czech-Republic
+53	64	Schillerová	Schillerová	PER	PER-Alena-Schillerova
+309	320	Schillerová	Schillerová	PER	PER-Alena-Schillerova
+348	355	Bruselu	Brusel	LOC	GPE-Brussles
+370	382	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+587	594	Bruselu	Brusel	LOC	GPE-Brussles
+669	684	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+799	820	Evropského parlamentu	Evropský parlament	ORG	ORG-European-Parliament
+870	878	Británie	Británie	LOC	GPE-Great-Britain

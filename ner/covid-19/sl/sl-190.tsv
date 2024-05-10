@@ -1,0 +1,12 @@
+0	8	Covid-19	Covid-19	EVT	EVT-Covid-19
+146	155	Ljubljana	Ljubljana	LOC	GPE-Ljubljana
+334	343	Sloveniji	Slovenija	LOC	GPE-Slovenia
+451	470	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+746	756	covidom-19	covid-19	EVT	EVT-Covid-19
+916	928	koronavirusa	koronavirus	EVT	EVT-Covid-19
+1144	1156	Tomaž Gantar	Tomaž Gantar	PER	PER-Tomaž-Gantar
+1171	1180	twitterju	twitter	PRO	PRO-Twitter
+1290	1303	koronavirusom	koronavirus	EVT	EVT-Covid-19
+2311	2315	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+2526	2535	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2663	2667	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health

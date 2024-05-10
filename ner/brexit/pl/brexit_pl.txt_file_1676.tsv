@@ -1,0 +1,33 @@
+0	11	W. Brytania	W. Brytania	LOC	GPE-Great-Britain
+73	80	brexitu	Brexit	EVT	EVT-Brexit
+134	145	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+148	150	UE	UE	ORG	ORG-European-Union
+246	249	Lee	Lee	PER	PER-Phillip-Lee
+282	293	Izbę Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+409	416	brexitu	Brexit	EVT	EVT-Brexit
+460	462	UE	UE	ORG	ORG-European-Union
+706	713	brexitu	Brexit	EVT	EVT-Brexit
+761	778	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1046	1049	Lee	Lee	PER	PER-Phillip-Lee
+1119	1121	UE	UE	ORG	ORG-European-Union
+1230	1245	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1261	1263	UE	UE	ORG	ORG-European-Union
+1369	1372	Lee	Lee	PER	PER-Phillip-Lee
+1426	1437	W. Brytania	W. Brytania	LOC	GPE-Great-Britain
+1465	1467	UE	UE	ORG	ORG-European-Union
+1612	1619	brexitu	Brexit	EVT	EVT-Brexit
+1727	1742	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1832	1834	UE	UE	ORG	ORG-European-Union
+2115	2118	Lee	Lee	PER	PER-Phillip-Lee
+2172	2179	brexitu	Brexit	EVT	EVT-Brexit
+2255	2262	brexitu	Brexit	EVT	EVT-Brexit
+2595	2618	brytyjskiego parlamentu	Brytyjski Parlament	ORG	ORG-British-Parlament
+2749	2760	Izby Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+2940	2951	Phillip Lee	Phillip Lee	PER	PER-Phillip-Lee
+2964	2985	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+3003	3013	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+3047	3056	Bracknell	Bracknell	LOC	GPE-Bracknell
+3069	3078	Berkshire	Berkshire	LOC	GPE-Berkshire
+3151	3153	UE	UE	ORG	ORG-European-Union
+3157	3164	Londynu	Londyn	LOC	GPE-London
+3165	3176	Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa

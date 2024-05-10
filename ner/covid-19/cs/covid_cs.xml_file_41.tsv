@@ -1,0 +1,12 @@
+6	9	PES	PES	PRO	PRO-PES-Anti-epidemic-system-Czech-Republic
+92	100	Británii	Británie	LOC	GPE-Great-Britain
+158	168	covidem-19	covid-19	EVT	EVT-Covid-19
+361	369	Británie	Británie	LOC	GPE-Great-Britain
+442	448	Pfizer	Pfizer	ORG	ORG-Pfizer
+451	459	BioNTech	BioNTech	ORG	ORG-BioNTech
+528	548	Oxfordské univerzitě	Oxfordská univerzita	ORG	ORG-University-of-Oxford
+572	583	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+716	730	Michail Murako	Michail Murako	PER	PER-Mikhail-Murashko
+792	802	koronaviru	koronavirus	EVT	EVT-Covid-19
+811	816	Rusku	Rusko	LOC	GPE-Russia
+939	954	Michail Miustin	Michail Miustin	PER	PER-Michail-Miustin

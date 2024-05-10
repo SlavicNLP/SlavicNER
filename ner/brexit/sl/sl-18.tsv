@@ -1,0 +1,61 @@
+5	13	Britanci	Britanci	PER	GPE-Great-Britain
+24	29	Tuska	Tusk	PER	PER-Donald-Tusk
+53	59	brexit	brexit	EVT	EVT-Brexit
+82	98	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+132	138	brexit	brexit	EVT	EVT-Brexit
+173	187	Evropske unije	evropska unija	ORG	ORG-European-Union
+198	202	Tusk	Tusk	PER	PER-Donald-Tusk
+392	398	Mayeva	May	PER	PER-Theresa-May
+423	439	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+453	455	EU	EU	ORG	ORG-European-Union
+522	538	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+539	550	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+585	596	Theresi May	Theresa May	PER	PER-Theresa-May
+672	686	Evropske unije	Evropska unija	ORG	ORG-European-Union
+748	754	brexit	brexit	EVT	EVT-Brexit
+855	861	Mayeva	May	PER	PER-Theresa-May
+912	918	Mayeva	May	PER	PER-Theresa-May
+971	973	EU	EU	ORG	ORG-European-Union
+1139	1155	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+1159	1161	EU	EU	ORG	ORG-European-Union
+1226	1236	Mark Rutte	Mark Rutte	PER	PER-Mark-Rutte
+1247	1263	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+1383	1389	Tuskom	Tusk	PER	PER-Donald-Tusk
+1563	1569	Mayeva	May	PER	PER-Theresa-May
+1635	1639	Tusk	Tusk	PER	PER-Donald-Tusk
+1770	1786	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+1836	1838	EU	EU	ORG	ORG-European-Union
+1856	1862	Mayeva	May	PER	PER-Theresa-May
+1893	1905	Šarm el Šejk	Šarm el Šejk	LOC	LOC-Sharm-El-Sheikh
+1929	1946	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+1947	1970	Jean-Claudom Junckerjem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+2020	2027	brexita	brexit	EVT	EVT-Brexit
+2066	2068	EU	EU	ORG	ORG-European-Union
+2229	2231	EU	EU	ORG	ORG-European-Union
+2518	2524	Mayevi	May	PER	PER-Theresa-May
+2539	2545	brexit	brexit	EVT	EVT-Brexit
+2559	2575	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+2601	2607	Mayevi	May	PER	PER-Theresa-May
+2641	2655	Evropske unije	Evropska unija	ORG	ORG-European-Union
+2750	2764	konservativcev	konservativci	PER	ORG-Conservative-and-Unionist-Party-UK
+2829	2843	Tobias Ellwood	Tobias Ellwood	PER	PER-Tobias-Ellwood
+2923	2925	EU	EU	ORG	ORG-European-Union
+2967	2979	Damian Hinds	Damian Hinds	PER	PER-Damian-Hinds
+3175	3185	Amber Rudd	Amber Rudd	PER	PER-Amber-Rudd
+3213	3223	Greg Clark	Greg Clark	PER	PER-Greg-Clark
+3250	3261	David Gauke	David Gauke	PER	PER-David-Gauke
+3265	3271	Mayeva	May	PER	PER-Theresa-May
+3378	3385	brexita	brexit	EVT	EVT-Brexit
+3461	3474	Yvette Cooper	Yvette Cooper	PER	PER-Yvette-Cooper
+3492	3508	Oliverja Letwina	Oliver Letwin	PER	PER-Oliver-Letwin
+3629	3639	Cooperjeve	Cooper	PER	PER-Yvette-Cooper
+3683	3685	EU	EU	ORG	ORG-European-Union
+3910	3918	brexitom	brexit	EVT	EVT-Brexit
+4035	4049	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+4061	4073	The Guardian	The Guardian	PRO	PRO-The-Guardian
+4091	4093	EU	EU	ORG	ORG-European-Union
+4140	4146	brexit	brexit	EVT	EVT-Brexit
+4201	4208	Bruslju	Bruselj	LOC	GPE-Brussles
+4212	4219	Londonu	London	LOC	GPE-London
+4324	4336	Leo Varadkar	Leo Varadkar	PER	PER-Leo-Varadkar
+4383	4399	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain

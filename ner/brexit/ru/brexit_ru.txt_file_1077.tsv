@@ -1,0 +1,87 @@
+0	15	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+49	51	ЕС	ЕС	ORG	ORG-European-Union
+59	77	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+78	91	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+155	169	Великобритании	Великобритания	LOC	GPE-Great-Britain
+173	182	Евросоюза	Евросоюз	ORG	ORG-European-Union
+258	266	Брексита	Брексит	EVT	EVT-Brexit
+268	279	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+348	350	ЕС	ЕС	ORG	ORG-European-Union
+421	445	Британские парламентарии	Британские парламентарии	PER	ORG-British-Parlament
+508	527	Европейского совета	Европейский совет	ORG	ORG-European-Council
+528	540	Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+564	572	Брексита	Брексит	EVT	EVT-Brexit
+636	642	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+643	657	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+677	685	Британии	Британия	LOC	GPE-Great-Britain
+763	778	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+899	905	Бориса	Борис	PER	PER-Boris-Johnson
+973	983	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+1015	1028	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1070	1080	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1130	1164	план правительства по выходу из ЕС	план правительства по выходу из ЕС	PRO	PRO-Brexit-withdrawal-agreement
+1235	1245	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1260	1275	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1375	1390	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1417	1441	британском правительстве	британское правительство	ORG	ORG-the-UK-Government
+1530	1538	Брексита	Брексит	EVT	EVT-Brexit
+1540	1551	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1623	1631	Брексита	Брексит	EVT	EVT-Brexit
+1751	1764	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1808	1817	МИД Ирана	МИД Ирана	ORG	ORG-Ministry-of-Foreign-Affairs-Iran
+1818	1834	Джавадом Зарифом	Джавад Зариф	PER	PER-Mohammad-Javad-Zarif
+1926	1950	британское правительство	британское правительство	ORG	ORG-the-UK-Government
+1987	1989	ЕС	ЕС	ORG	ORG-European-Union
+2012	2026	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2062	2064	ЕС	ЕС	ORG	ORG-European-Union
+2121	2135	Великобритании	Великобритания	LOC	GPE-Great-Britain
+2204	2206	ЕС	ЕС	ORG	ORG-European-Union
+2257	2266	Евросоюза	Евросоюз	ORG	ORG-European-Union
+2305	2307	ЕС	ЕС	ORG	ORG-European-Union
+2328	2348	Лейбористской партии	Лейбористская партия	ORG	ORG-Labour-Party-UK
+2349	2359	Том Уотсон	Том Уотсон	PER	PER-Tom-Watson
+2396	2424	правительство Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government
+2516	2532	британского МИДа	британский МИД	ORG	ORG-Foreign-Office
+2594	2613	Европейского совета	Европейский совет	ORG	ORG-European-Council
+2614	2626	Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+2650	2658	Брексита	Брексит	EVT	EVT-Brexit
+2680	2695	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+2726	2739	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+2784	2791	Дэвисом	Дэвис	PER	PER-David-Davis
+2829	2837	Брексита	Брексит	EVT	EVT-Brexit
+2850	2857	Дэвисом	Дэвис	PER	PER-David-Davis
+2890	2898	Джонсона	Джонсон	PER	PER-Boris-Johnson
+2918	2922	Туск	Туск	PER	PER-Donald-Tusk
+2950	2960	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+2961	2975	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+2992	2996	Ъ FM	Ъ FM	PRO	PRO-Kommersant-FM
+3022	3036	Великобритании	Великобритания	LOC	GPE-Great-Britain
+3172	3187	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+3244	3254	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+3267	3281	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+3301	3307	Россия	Россия	LOC	GPE-Russia
+3417	3439	правительство Британии	правительство Британии	ORG	ORG-the-UK-Government
+3519	3527	Новичков	Новички	PRO	PRO-Novichok
+3531	3540	Скрипалей	Скрипали	PER	PER-Skripals
+3587	3595	Захарова	Захарова	PER	PER-Maria-Zaharova
+3605	3653	комитета Совета федерации по международным делам	комитет Совета федерации по международным делам	ORG	ORG-Federation-Council-Foreign-Affairs-Commit
+3654	3667	Сергей Кисляк	Сергей Кисляк	PER	PER-Sergey-Kislyak
+3686	3701	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+3747	3755	Лондоном	Лондон	LOC	GPE-London
+3776	3783	Россией	Россия	LOC	GPE-Russia
+3959	4007	комитета Совета федерации по международным делам	комитет Совета федерации по международным делам	ORG	ORG-Federation-Council-Foreign-Affairs-Commit
+4008	4026	Константин Косачев	Константин Косачев	PER	PER-Konstantin-Kosachev
+4135	4149	Великобритании	Великобритания	LOC	GPE-Great-Britain
+4207	4211	МИДе	МИД	ORG	ORG-Foreign-Office
+4217	4235	кабинете министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+4461	4469	Facebook	Facebook	PRO	PRO-Facebook
+4505	4512	Лондоне	Лондон	LOC	GPE-London
+4524	4534	Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+4632	4649	Екатерина Мареева	Екатерина Мареева	PER	PER-Ekaterina-Mareeva
+4664	4666	ЕС	ЕС	ORG	ORG-European-Union
+4712	4720	Брекситу	Брексит	EVT	EVT-Brexit
+4824	4839	Великобританией	Великобритания	LOC	GPE-Great-Britain
+4863	4881	Европейского союза	Европейский союз	ORG	ORG-European-Union
+4919	4926	Лондона	Лондон	LOC	GPE-London
+4927	4935	Брюсселю	Брюссель	LOC	GPE-Brussles
+4948	4950	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,88 @@
+148	151	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+154	165	коронавирус	коронавирус	EVT	EVT-Covid-19
+182	190	COVID-19	COVID-19	EVT	EVT-Covid-19
+232	253	Общества Макса Планка	Общество Макса Планка	ORG	ORG-Max-Planck-Society
+298	301	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+400	402	DW	DW	PRO	PRO-Deutsche-Welle
+461	464	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+466	491	бациллы Кальмета - Герена	бацилла Кальмета-Герена	PRO	PRO-Bacillus-Calmette-Guérin
+576	588	коронавируса	коронавирус	EVT	EVT-Covid-19
+589	599	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+653	661	Германии	Германия	LOC	GPE-Germany
+735	742	VPM1002	VPM1002	PRO	PRO-VPM1002-vaccine
+808	811	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+825	835	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1007	1010	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+1110	1122	коронавируса	коронавирус	EVT	EVT-Covid-19
+1126	1140	Штефан Кауфман	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+1220	1250	научным Обществом Макса Планка	научное Общество Макса Планка	ORG	ORG-Max-Planck-Society
+1252	1274	Max-Plank-Gesellschaft	Max-Plank-Gesellschaft	ORG	ORG-Max-Planck-Society
+1384	1387	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+1462	1476	Штефан Кауфман	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+1478	1493	Stefan Kaufmann	Stefan Kaufmann	PER	PER-Stefan-Kaufmann
+1528	1578	Института инфекционной биологии имени Макса Планка	Институт инфекционной биологии имени Макса Планка	ORG	ORG-Max-Planck-Society
+1581	1588	Берлине	Берлин	LOC	GPE-Berlin
+1759	1762	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+1793	1800	VPM1002	VPM1002	PRO	PRO-VPM1002-vaccine
+1821	1829	немецких	немецкий	LOC	GPE-Germany
+1922	1925	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+1937	1940	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+1973	1985	коронавирусу	коронавирус	EVT	EVT-Covid-19
+2012	2019	Кауфман	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+2031	2033	DW	DW	PRO	PRO-Deutsche-Welle
+2278	2286	COVID-19	COVID-19	EVT	EVT-Covid-19
+2305	2316	коронавирус	коронавирус	EVT	EVT-Covid-19
+2317	2327	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+2421	2429	Германии	Германия	LOC	GPE-Germany
+2521	2532	коронавирус	коронавирус	EVT	EVT-Covid-19
+2584	2592	Кауфмана	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+2681	2688	VPM1002	VPM1002	PRO	PRO-VPM1002-vaccine
+3000	3007	Кауфман	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+3138	3145	VPM1002	VPM1002	PRO	PRO-VPM1002-vaccine
+3247	3255	COVID-19	COVID-19	EVT	EVT-Covid-19
+3265	3272	VPM1002	VPM1002	PRO	PRO-VPM1002-vaccine
+3339	3341	DW	DW	PRO	PRO-Deutsche-Welle
+3440	3447	VPM1002	VPM1002	PRO	PRO-VPM1002-vaccine
+3556	3559	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+3618	3621	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+3643	3655	коронавируса	коронавирус	EVT	EVT-Covid-19
+3730	3744	Штефан Кауфман	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+3880	3883	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+3999	4002	ГДР	ГДР	LOC	GPE-Germany
+4012	4015	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+4095	4103	Германии	Германия	LOC	GPE-Germany
+4115	4118	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+4235	4238	ФРГ	ФРГ	LOC	GPE-Germany
+4281	4330	Институт инфекционной биологии имени Макса Планка	Институт инфекционной биологии имени Макса Планка	ORG	ORG-Max-Planck-Society
+4370	4394	Serum Institute of India	Serum Institute of India	ORG	ORG-Serum-Institute-of-India
+4449	4452	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+4513	4522	немецкими	немецкий	LOC	GPE-Germany
+4548	4555	VPM1002	VPM1002	PRO	PRO-VPM1002-vaccine
+4596	4603	VPM1002	VPM1002	PRO	PRO-VPM1002-vaccine
+4611	4623	коронавируса	коронавирус	EVT	EVT-Covid-19
+4625	4649	Serum Institute of India	Serum Institute of India	ORG	ORG-Serum-Institute-of-India
+4714	4721	Кауфман	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+4763	4773	Sciencemag	Sciencemag	PRO	PRO-Sciencemag
+4781	4789	Германии	Германия	LOC	GPE-Germany
+4854	4866	коронавируса	коронавирус	EVT	EVT-Covid-19
+4867	4877	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4897	4900	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+4920	4931	Нидерландах	Нидерланды	LOC	GPE-Holland
+5013	5022	Австралии	Австралия	LOC	GPE-Australia
+5025	5028	США	США	LOC	GPE-USA
+5041	5059	Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+5069	5077	Германии	Германия	LOC	GPE-Germany
+5100	5108	Кауфмана	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+5163	5170	VPM1002	VPM1002	PRO	PRO-VPM1002-vaccine
+5198	5201	БЦЖ	БЦЖ	PRO	PRO-Bacillus-Calmette-Guérin
+5265	5277	коронавируса	коронавирус	EVT	EVT-Covid-19
+5318	5330	коронавируса	коронавирус	EVT	EVT-Covid-19
+5417	5425	Германии	Германия	LOC	GPE-Germany
+5426	5440	Ангеле Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+5442	5455	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+5487	5495	Кауфмана	Штефан Кауфман	PER	PER-Stefan-Kaufmann
+5521	5534	коронавирусов	коронавирус	EVT	EVT-Covid-19
+5538	5545	Меркель	Меркель	PER	PER-Angela-Merkel
+6043	6060	Минздравом России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+6075	6087	коронавируса	коронавирус	EVT	EVT-Covid-19
+6159	6166	Кауфман	Штефан Кауфман	PER	PER-Stefan-Kaufmann

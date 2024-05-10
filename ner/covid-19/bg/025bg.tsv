@@ -1,0 +1,16 @@
+53	58	София	София	LOC	GPE-Sofia
+248	253	София	София	LOC	GPE-Sofia
+436	449	Кирил Ананиев	Кирил Ананиев	PER	PER-Kiril-Ananiev
+523	528	София	София	LOC	GPE-Sofia
+567	575	Covid-19	COVID-19	EVT	EVT-Covid-19
+783	789	КПП-та	КПП	LOC	LOC-KPP
+898	901	СЗО	СЗО	ORG	ORG-WHO
+908	916	COVID-19	COVID-19	EVT	EVT-Covid-19
+982	994	коронавируса	коронавирус	EVT	EVT-Covid-19
+1044	1052	България	България	LOC	GPE-Bulgaria
+1057	1077	извънредно положение	извънредно положение	EVT	EVT-State-of-Emergency
+1166	1177	коронавирус	коронавирус	EVT	EVT-Covid-19
+1282	1303	Венцислав Мутафчийски	Венцислав Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+1320	1346	Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+1358	1370	коронавируса	коронавирус	EVT	EVT-Covid-19
+1385	1388	ВМА	ВМА	LOC	LOC-Military-medicine-academia-hospital-Sofia

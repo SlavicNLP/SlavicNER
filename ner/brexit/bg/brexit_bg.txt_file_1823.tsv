@@ -1,0 +1,29 @@
+15	23	България	България	LOC	GPE-Bulgaria
+27	29	ЕС	ЕС	ORG	ORG-European-Union
+36	43	Брекзит	Брекзит	EVT	EVT-Brexit
+90	103	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+113	121	България	България	LOC	GPE-Bulgaria
+140	152	Съвета на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+294	308	Великобритания	Великобритания	LOC	GPE-Great-Britain
+330	340	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+660	680	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+681	695	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+829	837	България	България	LOC	GPE-Bulgaria
+1049	1062	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+1134	1136	ЕС	ЕС	ORG	ORG-European-Union
+1165	1182	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+1244	1258	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1271	1276	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1343	1369	Общата земеделска политика	Обща земеделска политика	PRO	PRO-CAP-Common-Agricultural-Policy
+1372	1393	Кохезионната политика	Кохезионна политика	PRO	PRO-Cohesion-Policy
+1472	1474	ЕС	ЕС	ORG	ORG-European-Union
+1482	1487	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1785	1787	ЕС	ЕС	ORG	ORG-European-Union
+1797	1802	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1818	1835	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+1928	1942	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2097	2114	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+2115	2126	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+2229	2231	ЕС	ЕС	ORG	ORG-European-Union
+2237	2244	Брекзит	Брекзит	EVT	EVT-Brexit
+2311	2319	Vesti.bg	Vesti.bg	PRO	PRO-Vesti.bg

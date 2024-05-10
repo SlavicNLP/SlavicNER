@@ -1,0 +1,52 @@
+0	7	Amerika	Amerika	LOC	GPE-USA
+14	26	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+31	40	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+129	138	Beli hiši	Bela hiša	LOC	LOC-White-House
+150	160	Američanov	Američani	PER	GPE-USA
+408	417	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+541	553	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+609	612	ZDA	ZDA	LOC	GPE-USA
+682	693	Joeju Bidnu	Joe Biden	PER	PER-Joe-Biden
+773	787	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+798	803	Bidna	Biden	PER	PER-Joe-Biden
+834	843	Michiganu	Michigan	LOC	GPE-Michigan
+845	855	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+857	866	Minnesoti	Minnesota	LOC	GPE-Minnesota
+868	884	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+886	893	Georgii	Georgie	LOC	GPE-Georgia-US-state
+898	905	Floridi	Florida	LOC	GPE-Florida
+911	918	Arizoni	Arizona	LOC	GPE-Arizona
+956	963	Teksasu	Teksas	LOC	GPE-Texas
+1027	1032	Biden	Biden	PER	PER-Joe-Biden
+1111	1126	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1168	1173	Trump	Trump	PER	PER-Donald-Trump
+1298	1314	Severno Karolino	Severna Karolina	LOC	GPE-North-Carolina-US-State
+1317	1329	Pensilvanijo	Pensilvanija	LOC	GPE-Pennsylvania
+1331	1339	Michigan	Michigan	LOC	GPE-Michigan
+1343	1352	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1366	1374	Michigan	Michigan	LOC	GPE-Michigan
+1376	1380	Iowo	Iowa	LOC	GPE-Iowa
+1382	1389	Georgio	Georgia	LOC	GPE-Georgia-US-state
+1393	1400	Florido	Florida	LOC	GPE-Florida
+1402	1407	Biden	Biden	PER	PER-Joe-Biden
+1450	1462	Philadelphii	Philadelphia	LOC	GPE-Philadelphia
+1507	1519	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1571	1583	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+1637	1642	Bidnu	Biden	PER	PER-Joe-Biden
+1655	1662	Floridi	Florida	LOC	GPE-Florida
+1668	1675	Georgii	Georgie	LOC	GPE-Georgia-US-state
+1804	1814	Američanov	Američani	PER	GPE-USA
+1964	1971	Bidnova	Biden	PER	PER-Joe-Biden
+2127	2137	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+2169	2175	Trumpa	Trump	PER	PER-Donald-Trump
+2228	2233	Trump	Trump	PER	PER-Donald-Trump
+2297	2306	Belo hišo	Bela hiša	LOC	LOC-White-House
+2390	2402	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+2552	2559	Floridi	Florida	LOC	GPE-Florida
+2614	2622	Alu Goru	Al Gore	PER	PER-Al-Gore
+2650	2672	Georgea Busha mlajšega	George Bush mlajši	PER	PER-George-Bush-Jr
+2837	2845	Trumpovi	Trump	PER	PER-Donald-Trump
+2862	2869	Teksasu	Teksas	LOC	GPE-Texas
+2894	2901	Bidnove	Biden	PER	PER-Joe-Biden
+3123	3129	Mehika	Mehika	LOC	GPE-Mexico
+3163	3166	ZDA	ZDA	LOC	GPE-USA

@@ -1,0 +1,47 @@
+3	8	Тръмп	Тръмп	PER	PER-Donald-Trump
+31	43	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+60	66	Туитър	Туитър	PRO	PRO-Twitter
+144	154	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+202	223	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+291	301	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+319	331	републиканец	републиканец	PER	ORG-Republican-Party-USA
+334	340	Сената	Сенат	ORG	ORG-United-States-Senate
+341	353	Мич Макконъл	Мич Макконъл	PER	PER-Mitch-McConnell
+395	407	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+502	510	Макконъл	Макконъл	PER	PER-Mitch-McConnell
+522	528	Байдън	Байдън	PER	PER-Joe-Biden
+570	592	американските граждани	американски граждани	PER	GPE-USA
+660	672	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+745	773	Избирателната колегия на САЩ	Избирателна колегия на САЩ	ORG	ORG-United-States-Electoral-College
+805	811	Байдън	Байдън	PER	PER-Joe-Biden
+816	821	Тръмп	Тръмп	PER	PER-Donald-Trump
+876	892	Зюддойче Цайтунг	Зюддойче Цайтунг	PRO	PRO-SUddeutsche-Zeitung
+1150	1172	Републиканската партия	Републиканска партия	PER	ORG-Republican-Party-USA
+1245	1266	Върховният съд на САЩ	Върховен съд на САЩ	ORG	ORG-Supreme-Court-of-the-United-States
+1315	1320	Тръмп	Тръмп	PER	PER-Donald-Trump
+1434	1455	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+1479	1499	Конституцията на САЩ	Конституция на САЩ	PRO	PRO-The-USA-Constitution
+1603	1632	Джоузеф Робинет Байдън-младши	Джоузеф Робинет Байдън-младши	PER	PER-Joe-Biden
+1654	1671	Камала Деви Харис	Камала Деви Харис	PER	PER-Kamala-Harris
+1752	1758	Байдън	Байдън	PER	PER-Joe-Biden
+1789	1801	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1818	1824	Туитър	Туитър	PRO	PRO-Twitter
+1912	1918	Байдън	Байдън	PER	PER-Joe-Biden
+2125	2136	Майкъл Флин	Майкъл Флин	PER	PER-Michael-Flynn
+2202	2207	Тръмп	Тръмп	PER	PER-Donald-Trump
+2240	2245	Тръмп	Тръмп	PER	PER-Donald-Trump
+2485	2490	Тръмп	Тръмп	PER	PER-Donald-Trump
+2593	2605	американците	американци	PER	GPE-USA
+2666	2671	Тръмп	Тръмп	PER	PER-Donald-Trump
+2679	2682	САЩ	САЩ	LOC	GPE-USA
+2733	2745	коронавируса	коронавирус	EVT	EVT-Covid-19
+2748	2753	Тръмп	Тръмп	PER	PER-Donald-Trump
+2761	2783	американското общество	американско общество	PER	GPE-USA
+2987	2990	САЩ	САЩ	LOC	GPE-USA
+2998	3003	Тръмп	Тръмп	PER	PER-Donald-Trump
+3089	3096	Флорида	Флорида	LOC	GPE-Florida
+3163	3175	американците	американци	PER	GPE-USA
+3317	3327	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3369	3372	САЩ	САЩ	LOC	GPE-USA
+3380	3385	Тръмп	Тръмп	PER	PER-Donald-Trump
+3445	3466	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election

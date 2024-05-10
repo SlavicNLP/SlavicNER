@@ -1,0 +1,22 @@
+0	4	Туск	Туск	PER	PER-Donald-Tusk
+17	23	Brexit	Brexit	EVT	EVT-Brexit
+55	69	Великобритании	Великобритания	LOC	GPE-Great-Britain
+72	74	ЕС	ЕС	ORG	ORG-European-Union
+119	132	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+157	181	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+185	194	Евросоюза	Евросоюз	ORG	ORG-European-Union
+233	239	Brexit	Brexit	EVT	EVT-Brexit
+262	281	Европейского совета	Европейский совет	ORG	ORG-European-Council
+282	294	Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+386	390	Туск	Туск	PER	PER-Donald-Tusk
+414	422	Брюсселе	Брюссель	LOC	GPE-Brussles
+473	479	Brexit	Brexit	EVT	EVT-Brexit
+528	552	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+566	584	Европейского Союза	Европейский Союз	ORG	ORG-European-Union
+630	637	Дэвисом	Дэвис	PER	PER-David-Davis
+673	679	Brexit	Brexit	EVT	EVT-Brexit
+711	718	Дэвисом	Дэвис	PER	PER-David-Davis
+741	751	Евросовета	Евросовет	ORG	ORG-European-Council
+763	770	Twitter	Twitter	PRO	PRO-Twitter
+812	818	Brexit	Brexit	EVT	EVT-Brexit
+852	867	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson

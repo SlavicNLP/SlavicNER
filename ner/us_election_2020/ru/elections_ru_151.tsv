@@ -1,0 +1,184 @@
+122	128	Трампа	Трамп	PER	PER-Donald-Trump
+178	184	Трампа	Трамп	PER	PER-Donald-Trump
+254	257	США	США	LOC	GPE-USA
+302	312	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+337	350	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+365	376	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+391	397	МОСКВА	Москва	LOC	GPE-Moscow
+408	419	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+421	436	Софья Мельничук	Софья Мельничук	PER	PER-Sofia-Melnichuk
+488	491	США	США	LOC	GPE-USA
+536	546	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+571	584	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+705	719	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+738	748	Белом доме	Белый дом	ORG	ORG-The-White-House
+762	773	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+774	779	Трамп	Трамп	PER	PER-Donald-Trump
+875	888	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1069	1080	Белого дома	Белый дом	ORG	ORG-The-White-House
+1106	1111	Трамп	Трамп	PER	PER-Donald-Trump
+1153	1160	твиттер	Твиттер	PRO	PRO-Twitter
+1324	1338	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+1493	1508	республиканских	республиканский	ORG	ORG-Republican-Party-USA
+1575	1582	Мичиган	Мичиган	LOC	GPE-Michigan
+1584	1596	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+1598	1606	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1765	1771	Трампа	Трамп	PER	PER-Donald-Trump
+2063	2077	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+2261	2272	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2273	2278	Трамп	Трамп	PER	PER-Donald-Trump
+2518	2529	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+2530	2542	Юрий Рогулев	Юрий Рогулев	PER	PER-Yury-Rogulev
+2553	2608	Фонда изучения США имени Франклина Делано Рузвельта МГУ	 Фонд изучения США имени Франклина Делано Рузвельта МГУ	ORG	ORG-The-Franklin-Roosevelt-Foundation-for-the-Study-of-the-United-States-at-Moscow-State-University
+2688	2698	демократов	демократы	ORG	ORG-Democratic-Party-USA
+2784	2789	Трамп	Трамп	PER	PER-Donald-Trump
+2987	2999	Юрий Рогулев	Юрий Рогулев	PER	PER-Yury-Rogulev
+3045	3058	Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+3123	3130	Мичиган	Мичиган	LOC	GPE-Michigan
+3141	3153	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+3164	3171	Аризоне	Аризона	LOC	GPE-Arizona
+3174	3182	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+3192	3202	Висконсине	Висконсин	LOC	GPE-Wisconsin
+3501	3513	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+3514	3520	Байден	Байден	PER	PER-Joe-Biden
+3530	3536	Трампа	Трамп	PER	PER-Donald-Trump
+3569	3582	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+3795	3803	Мичигане	Мичиган	LOC	GPE-Michigan
+3832	3836	Уэйн	Уэйн	LOC	GPE-Wayne
+3922	3928	Байден	Байден	PER	PER-Joe-Biden
+4024	4029	Трамп	Трамп	PER	PER-Donald-Trump
+4043	4051	твиттере	Твиттер	PRO	PRO-Twitter
+4160	4167	Аризоне	Аризона	LOC	GPE-Arizona
+4259	4269	Кэти Хоббс	Кэти Хоббс	PER	PER-Katie-Hobbs
+4343	4351	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+4376	4390	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+4396	4402	Байден	Байден	PER	PER-Joe-Biden
+4411	4417	Трампа	Трамп	PER	PER-Donald-Trump
+4561	4567	Трампа	Трамп	PER	PER-Donald-Trump
+4640	4648	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+4657	4663	Трампа	Трамп	PER	PER-Donald-Trump
+4799	4812	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+4813	4831	Брэд Раффенспергер	Брэд Раффенспергер	PER	PER-Brad-Raffensperger
+4911	4916	Трамп	Трамп	PER	PER-Donald-Trump
+5000	5008	твиттере	Твиттер	PRO	PRO-Twitter
+5075	5086	Конституция	Конституция	PRO	PRO-The-USA-Constitution
+5198	5210	Юрий Рогулев	Юрий Рогулев	PER	PER-Yury-Rogulev
+5686	5695	конгресса	Конгресс	ORG	ORG-United-States-Congress
+5823	5829	Трампа	Трамп	PER	PER-Donald-Trump
+5911	5924	конгресса США	конгресс США	ORG	ORG-United-States-Congress
+5975	5981	Трампа	Трамп	PER	PER-Donald-Trump
+6017	6025	конгресс	конгресс	ORG	ORG-United-States-Congress
+6050	6061	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+6084	6102	Дмитрий Дробницкий	Дмитрий Дробницкий	PER	PER-Dmitry-Drobnitsky
+6120	6139	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+6168	6177	конгресса	конгресс	ORG	ORG-United-States-Congress
+6302	6323	палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+6472	6488	Ратерфорда Хейза	Ратерфорд Хейз	PER	PER-Rutherford-Hayes
+6612	6631	коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+6646	6656	Дробницкий	Дробницкий	PER	PER-Dmitry-Drobnitsly
+6722	6733	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+7070	7080	Дробницкий	Дробницкий	PER	PER-Dmitry-Drobnitsky
+7100	7109	демократы	демократы	ORG	ORG-Democratic-Party-USA
+7173	7179	Трампу	Трамп	PER	PER-Donald-Trump
+7212	7224	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+7227	7235	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+7372	7377	Трамп	Трамп	PER	PER-Donald-Trump
+7509	7515	Трампа	Трамп	PER	PER-Donald-Trump
+7552	7558	Трампа	Трамп	PER	PER-Donald-Trump
+7651	7660	демократы	демократы	ORG	ORG-Democratic-Party-USA
+7699	7713	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+7757	7770	дональд трамп	Дональд Трамп	PER	PER-Donald-Trump
+7795	7798	сша	США	LOC	GPE-USA
+7800	7810	джо байден	Джо Байден	PER	PER-Joe-Biden
+7812	7824	пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+7826	7834	джорджия	Джорджия	LOC	GPE-Georgia-US-state
+7836	7843	мичиган	Мичиган	LOC	GPE-Michigan
+7845	7848	сша	США	LOC	GPE-USA
+7881	7887	Трампа	Трамп	PER	PER-Donald-Trump
+7907	7913	МОСКВА	Москва	LOC	GPE-Moscow
+7924	7935	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+7937	7952	Софья Мельничук	Софья Мельничук	PER	PER-Sofia-Melnichuk
+8004	8007	США	США	LOC	GPE-USA
+8052	8062	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+8087	8100	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+8221	8235	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+8254	8264	Белом доме	Белый дом	ORG	ORG-The-White-House
+8278	8289	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+8293	8298	Трамп	Трамп	PER	PER-Donald-Trump
+8397	8410	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+8591	8602	Белого дома	Белый дом	ORG	ORG-The-White-House
+8631	8636	Трамп	Трамп	PER	PER-Donald-Trump
+8678	8685	твиттер	Твиттер	PRO	PRO-Twitter
+8849	8863	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+9021	9036	республиканских	республиканский	ORG	ORG-Republican-Party-USA
+9103	9110	Мичиган	Мичиган	LOC	GPE-Michigan
+9112	9124	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+9126	9134	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+9296	9302	Трампа	Трамп	PER	PER-Donald-Trump
+9565	9568	США	США	LOC	GPE-USA
+9569	9584	Дональдя Трампа	Дональд Трамп	PER	PER-Donald-Trump
+9587	9595	Виргинии	Виргиния	LOC	GPE-Virginia
+9652	9666	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+9850	9861	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+9865	9870	Трамп	Трамп	PER	PER-Donald-Trump
+10110	10121	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+10122	10134	Юрий Рогулев	Юрий Рогулев	PER	PER-Yury-Rogulev
+10145	10200	Фонда изучения США имени Франклина Делано Рузвельта МГУ	Фонд изучения США имени Франклина Делано Рузвельта МГУ	ORG	ORG-The-Franklin-Roosevelt-Foundation-for-the-Study-of-the-United-States-at-Moscow-State-University
+10282	10292	демократов	демократы	ORG	ORG-Democratic-Party-USA
+10378	10383	Трамп	Трамп	PER	PER-Donald-Trump
+10586	10598	Юрий Рогулев	Юрий Рогулев	PER	PER-Yury-Rogulev
+10647	10660	Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+10725	10732	Мичиган	Мичиган	LOC	GPE-Michigan
+10743	10755	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+10766	10773	Аризоне	Аризона	LOC	GPE-Arizona
+10776	10784	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+10794	10804	Висконсине	Висконсин	LOC	GPE-Wisconsin
+11106	11118	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+11119	11125	Байден	Байден	PER	PER-Joe-Biden
+11135	11141	Трампа	Трамп	PER	PER-Donald-Trump
+11174	11187	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+11416	11431	Конгресс-центра	Конгресс-центр	ORG	ORG-United-States-Congress-centre
+11434	11445	Филадельфии	Филадельфия	LOC	GPE-Philadelphia
+11527	11530	США	США	LOC	GPE-USA
+11535	11543	Мичигане	Мичиган	LOC	GPE-Michigan
+11572	11576	Уэйн	Уэйн	LOC	GPE-Wayne
+11631	11646	демократические	демократический	ORG	ORG-Democratic-Party-USA
+11662	11668	Байден	Байден	PER	PER-Joe-Biden
+11764	11769	Трамп	Трамп	PER	PER-Donald-Trump
+11783	11791	твиттере	Твиттер	PRO	PRO-Twitter
+11903	11910	Аризоне	Аризона	LOC	GPE-Arizona
+12002	12012	Кэти Хоббс	Кэти Хоббс	PER	PER-Katie-Hobbs
+12086	12094	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+12119	12133	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+12139	12145	Байден	Байден	PER	PER-Joe-Biden
+12154	12160	Трампа	Трамп	PER	PER-Donald-Trump
+12304	12310	Трампа	Трамп	PER	PER-Donald-Trump
+12386	12394	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+12403	12409	Трампа	Трамп	PER	PER-Donald-Trump
+12559	12577	Брэд Раффенспергер	Брэд Раффенспергер	PER	PER-Brad-Raffensperger
+12657	12662	Трамп	Трамп	PER	PER-Donald-Trump
+12746	12754	твиттере	Твиттер	PRO	PRO-Twitter
+12797	12800	США	США	LOC	GPE-USA
+12803	12810	Канзасе	Канзас	LOC	GPE-Kansas
+12882	12893	Конституция	Конституция	PRO	PRO-The-USA-Constitution
+13005	13017	Юрий Рогулев	Юрий Рогулев	PER	PER-Yury-Rogulev
+13434	13439	сенат	сенат	ORG	ORG-United-States-Senate
+13636	13642	Трампа	Трамп	PER	PER-Donald-Trump
+13724	13737	конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+13788	13794	Трампа	Трамп	PER	PER-Donald-Trump
+13830	13838	конгресс	конгресс	ORG	ORG-United-States-Congress
+13863	13874	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+13897	13915	Дмитрий Дробницкий	Дмитрий Дробницкий	PER	PER-Dmitry-Drobnitsky
+13935	13954	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+13983	13992	конгресса	конгресс	ORG	ORG-United-States-Congress
+14117	14138	палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+14341	14357	Ратерфорда Хейза	Ратерфорд Хейз	PER	PER-Rutherford-Hayes
+14481	14500	коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+14515	14525	Дробницкий	Дробницкий	PER	PER-Dmitry-Drobnitsky
+14594	14605	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+14944	14954	Дробницкий	Дробницкий	PER	PER-Dmitry-Drobnitsky
+14974	14983	демократы	демократы	ORG	ORG-Democratic-Party-USA
+15047	15053	Трампу	Трамп	PER	PER-Donald-Trump
+15086	15098	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+15101	15109	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+15246	15251	Трамп	Трамп	PER	PER-Donald-Trump

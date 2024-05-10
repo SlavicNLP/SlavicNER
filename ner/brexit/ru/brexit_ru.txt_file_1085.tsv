@@ -1,0 +1,24 @@
+0	10	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+67	75	Британии	Британия	LOC	GPE-Great-Britain
+76	91	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+109	123	Великобритании	Великобритания	LOC	GPE-Great-Britain
+124	134	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+191	199	Британии	Британия	LOC	GPE-Great-Britain
+200	215	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+236	244	Sky News	Sky News	PRO	PRO-Sky-News-TV
+293	308	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+429	435	Бориса	Борис	PER	PER-Boris-Johnson
+489	502	Даунинг-Стрит	Даунинг-Стрит	LOC	LOC-Downing-Street
+574	580	Brexit	Brexit	EVT	EVT-Brexit
+581	592	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+619	625	Brexit	Brexit	EVT	EVT-Brexit
+633	645	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+647	654	Д.Дэвис	Д.Дэвис	PER	PER-David-Davis
+738	752	Великобритании	Великобритания	LOC	GPE-Great-Britain
+755	757	ЕС	ЕС	ORG	ORG-European-Union
+794	803	Евросоюза	Евросоюз	ORG	ORG-European-Union
+900	902	ЕС	ЕС	ORG	ORG-European-Union
+906	912	Brexit	Brexit	EVT	EVT-Brexit
+915	917	ИФ	ИФ	ORG	ORG-Interfax
+967	974	Д.Дэвис	Д.Дэвис	PER	PER-David-Davis
+1008	1013	Т.Мэй	Т.Мэй	PER	PER-Theresa-May

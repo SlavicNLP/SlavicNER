@@ -1,0 +1,19 @@
+19	24	Walii	Walia	LOC	GPE-Wales
+27	35	Brexicie	Brexit	EVT	EVT-Brexit
+102	107	Walii	Walia	LOC	GPE-Wales
+148	163	Polskiego Radia	Polskie Radio	PRO	PRO-Polish-Radio
+164	184	Adamowi Dąbrowskiemu	Adam Dąbrowski	PER	PER-Adam-Dąbrowski
+258	266	Brexitem	Brexit	EVT	EVT-Brexit
+308	316	Norwegię	Norwegia	LOC	GPE-Norway
+359	367	Norwegów	Norwegowie	PER	GPE-Norway
+562	574	Carwyn Jones	Carwyn Jones	PER	PER-Carwyn-Jones
+635	652	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+655	672	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+837	842	Jones	Jones	PER	PER-Carwyn-Jones
+876	878	UE	UE	ORG	ORG-European-Union
+879	896	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1040	1048	Brexicie	Brexit	EVT	EVT-Brexit
+1148	1153	Walii	Walia	LOC	GPE-Wales
+1163	1170	Brexitu	Brexit	EVT	EVT-Brexit
+1196	1204	Londynie	Londyn	LOC	GPE-London
+1303	1308	Rosji	Rosja	LOC	GPE-Russia

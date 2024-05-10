@@ -1,0 +1,17 @@
+17	20	USA	USA	LOC	GPE-USA
+84	111	Uniwersytet Johnsa Hopkinsa	Uniwersytet Johnsa Hopkinsa	ORG	ORG-Johns-Hopkins-University
+213	216	USA	USA	LOC	GPE-USA
+252	262	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+446	467	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+572	584	koronawirusa	koronawirus	EVT	EVT-Covid-19
+712	715	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+750	753	USA	USA	LOC	GPE-USA
+773	780	Moderny	Moderna	ORG	ORG-Moderna
+788	794	Pfizer	Pfizer	ORG	ORG-Pfizer
+795	803	BioNTech	BioNTech	ORG	ORG-BioNTech
+916	926	Amerykanów	Amerykanie	PER	GPE-USA
+977	980	USA	USA	LOC	GPE-USA
+1086	1096	Amerykanów	Amerykanie	PER	GPE-USA
+1142	1151	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1216	1229	koronawirusem	koronawirus	EVT	EVT-Covid-19
+1468	1473	Biden	Biden	PER	PER-Joe-Biden

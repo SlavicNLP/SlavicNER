@@ -1,0 +1,82 @@
+0	9	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+20	26	Трампа	Трамп	PER	PER-Donald-Trump
+47	66	украинского Майдана	ураинский Майдан	EVT	EVT-Revolution-of-Dignity-Euromaidan-Ukraine-2014
+69	72	США	США	LOC	GPE-USA
+85	98	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+109	119	российскую	российская	LOC	GPE-Russia
+140	150	демократов	демократ	ORG	ORG-Democratic-Party-USA
+220	233	Республиканцы	Республиканец	ORG	ORG-Republican-Party-USA
+262	271	демократы	демократ	ORG	ORG-Democratic-Party-USA
+280	286	Майдан	Майдан	EVT	EVT-Revolution-of-Dignity-Euromaidan-Ukraine-2014
+291	294	США	США	LOC	GPE-USA
+297	302	УНИАН	УНИАН	ORG	ORG-UNIAN
+305	318	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+343	346	США	США	LOC	GPE-USA
+587	602	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+723	729	Трампа	Трамп	PER	PER-Donald-Trump
+732	744	Даррен Битти	Даррен Битти	PER	PER-Darren-Beattie
+923	951	Transition Integrity Project	Transition Integrity Project	ORG	ORG-Election-Project
+1051	1056	Битти	Битти	PER	PER-Darren-Beattie
+1087	1097	демократов	демократ	ORG	ORG-Democratic-Party-USA
+1107	1113	Трампа	Трамп	PER	PER-Donald-Trump
+1292	1295	США	США	LOC	GPE-USA
+1325	1330	Трамп	Трамп	PER	PER-Donald-Trump
+1372	1383	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1426	1429	США	США	LOC	GPE-USA
+1440	1461	Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+1491	1500	демократа	демократ	ORG	ORG-Democratic-Party-USA
+1552	1557	Битти	Битти	PER	PER-Darren-Beattie
+1637	1655	Слободан Милошевич	Слободан Милошевич	PER	PER-Slobodan-Milošević
+1658	1664	Сербии	Сербия	LOC	GPE-Serbia
+1667	1682	Виктор Янукович	Виктор Янукович	PER	PER-Viktor-Yanukovych
+1685	1692	Украине	Украина	LOC	GPE-Ukraine
+1694	1707	Республиканец	Республиканец	ORG	ORG-Republican-Party-USA
+1950	1957	Америке	Америка	LOC	GPE-USA
+1980	1993	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+2005	2014	Гленн Бек	Гленн Бек	PER	PER-Glenn-Beck
+2016	2029	Такер Карлсон	Такер Карлсон	PER	PER-Tucker-Carlson
+2032	2043	Майк Хакаби	Майк Хакаби	PER	PER-Mike-Huckabi
+2062	2067	Битти	Битти	PER	PER-Darren-Beattie
+2164	2171	Украине	Украина	LOC	GPE-Ukraine
+2173	2179	Грузии	Грузия	LOC	GPE-Georgia
+2251	2266	демократических	демократический	ORG	ORG-Democratic-Party-USA
+2321	2331	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2340	2345	Киеве	Киев	LOC	GPE-Kiev
+2350	2357	Тбилиси	Тбилиси	LOC	GPE-Tbilisi
+2452	2455	США	США	LOC	GPE-USA
+2620	2623	США	США	LOC	GPE-USA
+2696	2714	Госдепартамент США	Госдепартамент США	ORG	ORG-Department-of-State-USA
+2785	2793	сербской	сербский	LOC	GPE-Serbia
+2815	2822	"""Отпор"""	"""Отпор"""	ORG	ORG-Otpor
+2891	2898	"""Отпор"""	"""Отпор"""	ORG	ORG-Otpor
+2899	2912	Срджа Попович	Срджа Попович	PER	PER-Srđa-Popović
+2981	2993	американские	американский	LOC	GPE-USA
+3085	3093	сербский	сербский	LOC	GPE-Serbia
+3165	3174	Милошевич	Милошевич	PER	PER-Slobodan-Milošević
+3246	3253	сербами	серб	LOC	GPE-Serbia
+3289	3297	"""Отпора"""	"""Отпор"""	ORG	ORG-Otpor
+3379	3392	Джином Шарпом	Джин Шарп	PER	PER-Gene-Sharp
+3419	3456	"""Политика ненасильственного действия"""	"""Политика ненасильственного действия"""	PRO	PRO-Book-Gene-Sharp-Politics-of-Nonviolent-Action
+3727	3776	Международного центра ненасильственного конфликта	Международный центр ненасильственного конфликта	ORG	ORG-International-Center-on-Nonviolent-Conflict
+3777	3790	Питер Акерман	Питер Акерман	PER	PER-Peter-Ackerman
+4089	4094	Трамп	Трамп	PER	PER-Donald-Trump
+4104	4113	Венесуэле	Венесуэла	LOC	GPE-Venezuela
+4350	4355	Шарпа	Шарп	PER	PER-Gene-Sharp
+4472	4479	Америке	Америка	LOC	GPE-USA
+4560	4566	Трампа	Трамп	PER	PER-Donald-Trump
+4568	4577	Демократы	Демократ	ORG	ORG-Democratic-Party-USA
+4613	4635	Палатой представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+4638	4647	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+4661	4701	Департамент юстиции администрации Трампа	Департамент юстиции администрации Трампа	ORG	ORG-The-Trump-Administration's-Justice-Department
+4788	4802	республиканцем	республиканец	ORG	ORG-Republican-Party-USA
+4805	4812	Россией	Россия	LOC	GPE-Russia
+4906	4912	Трапма	Трамп	PER	PER-Donald-Trump
+4942	4957	Республиканские	Республиканский	ORG	ORG-Republican-Party-USA
+4987	4993	Трампа	Трамп	PER	PER-Donald-Trump
+5071	5076	Трамп	Трамп	PER	PER-Donald-Trump
+5082	5094	американский	американский	LOC	GPE-USA
+5095	5104	Милошевич	Милошевич	PER	PER-Slobodan-Milošević
+5108	5130	Демократическая партия	Демократическая партия	ORG	ORG-Democratic-Party-USA
+5136	5148	американское	американский	LOC	GPE-USA
+5158	5165	"""Отпор"""	"""Отпор"""	ORG	ORG-Otpor
+5169	5183	республиканцам	республиканец	ORG	ORG-Republican-Party-USA

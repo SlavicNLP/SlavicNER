@@ -1,0 +1,31 @@
+1	9	Телеграф	Телеграф	PRO	PRO-The-Daily-Telegraph
+12	26	Великобритания	Великобритания	LOC	GPE-Great-Britain
+38	40	ЕС	ЕС	ORG	ORG-European-Union
+98	112	Великобритания	Великобритания	LOC	GPE-Great-Britain
+124	126	ЕС	ЕС	ORG	ORG-European-Union
+201	209	Телеграф	Телеграф	PRO	PRO-The-Daily-Telegraph
+223	230	Ройтерс	Ройтерс	ORG	ORG-Reuters
+293	307	Великобритания	Великобритания	LOC	GPE-Great-Britain
+319	321	ЕС	ЕС	ORG	ORG-European-Union
+396	404	Телеграф	Телеграф	PRO	PRO-The-Daily-Telegraph
+418	425	Ройтерс	Ройтерс	ORG	ORG-Reuters
+519	527	Брекзита	Брекзит	EVT	EVT-Brexit
+598	606	Ирландия	Ирландия	LOC	GPE-Ireland
+653	655	ЕС	ЕС	ORG	ORG-European-Union
+667	681	Великобритания	Великобритания	LOC	GPE-Great-Britain
+700	702	ЕС	ЕС	ORG	ORG-European-Union
+804	806	ЕС	ЕС	ORG	ORG-European-Union
+916	919	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+941	951	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+968	982	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1177	1179	ЕС	ЕС	ORG	ORG-European-Union
+1193	1199	Лондон	Лондон	LOC	GPE-London
+1259	1273	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1538	1541	Мей	Мей	PER	PER-Theresa-May
+1612	1614	ЕС	ЕС	ORG	ORG-European-Union
+1615	1627	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+1704	1712	Брекзита	Брекзит	EVT	EVT-Brexit
+1714	1717	Мей	Мей	PER	PER-Theresa-May
+1773	1775	ЕС	ЕС	ORG	ORG-European-Union
+1833	1847	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1850	1852	ЕС	ЕС	ORG	ORG-European-Union

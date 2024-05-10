@@ -1,0 +1,20 @@
+18	30	коронавируса	коронавирус	EVT	EVT-Covid-19
+187	192	Китай	Китай	LOC	GPE-China
+453	463	SARS-Cov-2	SARS-Cov-2	EVT	EVT-Covid-19
+503	511	Covid-19	COVID-19	EVT	EVT-Covid-19
+524	531	Ройтерс	Ройтерс	ORG	ORG-Reuters
+708	744	Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+1343	1351	Covid-19	COVID-19	EVT	EVT-Covid-19
+1473	1481	Covid-19	COVID-19	EVT	EVT-Covid-19
+1856	1864	Covid-19	COVID-19	EVT	EVT-Covid-19
+2000	2003	СЗО	СЗО	ORG	ORG-WHO
+2619	2630	коронавирус	коронавирус	EVT	EVT-Covid-19
+3235	3245	SARS-Cov-2	SARS-Cov-2	EVT	EVT-Covid-19
+3772	3784	коронавируса	коронавирус	EVT	EVT-Covid-19
+4199	4209	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+4249	4253	Ухан	Ухан	LOC	GPE-Wuhan
+4599	4653	Европейския център по заразни болести и контрол (ECDC)	Европейски център по заразни болести и контрол (ECDC)	ORG	ORG-European-Centre-for-Disease-Prevention-and-Control
+4679	4682	СЗО	СЗО	ORG	ORG-WHO
+5070	5075	Хубей	Хубей	LOC	GPE-Hubei
+5789	5822	Международният валутен фонд (МВФ)	Международен валутен фонд (МВФ)	ORG	ORG-International-Monetary-Fund
+6344	6375	американската централната банка	Американска централната банка	ORG	ORG-Federal-Reserve-System

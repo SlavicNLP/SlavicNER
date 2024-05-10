@@ -1,0 +1,47 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+27	38	Andrew Marr	Andrew Marr	PER	PER-Andrew-Marr
+58	69	Theresę May	Theresa May	PER	PER-Theresa-May
+272	275	BBC	BBC	PRO	PRO-BBC
+497	514	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+626	633	brexitu	Brexit	EVT	EVT-Brexit
+634	647	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+699	702	NHS	NHS	ORG	ORG-NHS
+746	750	Unii	Unia	ORG	ORG-European-Union
+819	821	Rz	Rz	PRO	PRO-Rzeczpospolita
+823	837	Kenneth Clarke	Kenneth Clarke	PER	PER-Kenneth-Clarke
+869	876	torysów	torysi	PER	ORG-Tories
+909	918	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+1097	1112	Boże Narodzenie	Boże Narodzenie	EVT	EVT-Christmas
+1631	1634	NHS	NHS	ORG	ORG-NHS
+1710	1712	Rz	Rz	PRO	PRO-Rzeczpospolita
+1714	1732	Christian Dustmann	Christian Dustmann	PER	PER-Christian-Dustmann
+1743	1768	University College London	University College London	ORG	ORG-University-College-London
+1828	1843	Davida Camerona	David Cameron	PER	PER-David-Cameron
+1965	1972	brexitu	Brexit	EVT	EVT-Brexit
+2043	2047	Unii	Unia	ORG	ORG-European-Union
+2137	2143	Anglii	Anglia	LOC	GPE-England
+2227	2233	Polski	Polska	LOC	GPE-Poland
+2235	2244	Hiszpanii	Hiszpania	LOC	GPE-Spain
+2246	2251	Włoch	Włochy	LOC	GPE-Italy
+2255	2263	Londynie	Londyn	LOC	GPE-London
+2331	2334	NHS	NHS	ORG	ORG-NHS
+2395	2402	Polaków	Polacy	PER	GPE-Poland
+2434	2446	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2583	2585	Rz	Rz	PRO	PRO-Rzeczpospolita
+2603	2625	Tooting Medical Center	Tooting Medical Center	ORG	ORG-Tooting-Medical-Center
+2628	2636	Londynie	Londyn	LOC	GPE-London
+2739	2742	NHS	NHS	ORG	ORG-NHS
+2884	2906	Tooting Medical Center	Tooting Medical Center	ORG	ORG-Tooting-Medical-Center
+3005	3020	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3123	3135	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+3163	3166	NHS	NHS	ORG	ORG-NHS
+3389	3396	brexitu	Brexit	EVT	EVT-Brexit
+3416	3424	Johnsona	Johnson	PER	PER-Boris-Johnson
+3555	3563	Dustmann	Dustmann	PER	PER-Christian-Dustmann
+3664	3672	brexitem	Brexit	EVT	EVT-Brexit
+3823	3835	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+4010	4014	Unii	Unia	ORG	ORG-European-Union
+4109	4112	NHS	NHS	ORG	ORG-NHS
+4282	4289	brexitu	Brexit	EVT	EVT-Brexit
+4419	4423	Unii	Unia	ORG	ORG-European-Union
+4443	4446	NHS	NHS	ORG	ORG-NHS

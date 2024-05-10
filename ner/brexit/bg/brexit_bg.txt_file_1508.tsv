@@ -1,0 +1,18 @@
+0	13	The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+15	26	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+45	55	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+59	66	Брекзит	Брекзит	EVT	EVT-Brexit
+75	81	Лондон	Лондон	LOC	GPE-London
+100	117	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+118	130	Доналд Труск	Доналд Туск	PER	PER-Donald-Tusk
+181	191	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+200	207	Брекзит	Брекзит	EVT	EVT-Brexit
+258	271	The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+274	278	Туск	Туск	PER	PER-Donald-Tusk
+329	332	Мей	Мей	PER	PER-Theresa-May
+401	415	Великобритания	Великобритания	LOC	GPE-Great-Britain
+541	543	ЕС	ЕС	ORG	ORG-European-Union
+546	553	Брюксел	Брюксел	LOC	GPE-Brussles
+605	619	Великобритания	Великобритания	LOC	GPE-Great-Britain
+842	853	Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov
+992	1021	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

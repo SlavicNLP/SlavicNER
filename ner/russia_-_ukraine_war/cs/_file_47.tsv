@@ -1,0 +1,36 @@
+0	5	Rusko	Rusko	LOC	GPE-Russia
+38	51	Seanu Pennovi	Sean Penn	PER	PER-Sean-Penn
+54	69	Benu Stillerovi	Ben Stiller	PER	PER-Ben-Stiller
+96	105	Sean Penn	Sean Penn	PER	PER-Sean-Penn
+136	139	ČTK	ČTK	ORG	ORG-CTK
+140	142	AP	AP	ORG	ORG-AP-The-Associated-Press
+143	157	Jordan Strauss	Jordan Strauss	PER	PER-Jordan-Strauss
+160	166	Moskva	Moskva	LOC	GPE-Moscow
+169	174	Rusko	Rusko	LOC	GPE-Russia
+208	218	Američanům	Američané	PER	GPE-USA
+247	258	Seana Penna	Sean Penn	PER	PER-Sean-Penn
+261	274	Bena Stillera	Ben Stiller	PER	PER-Ben-Stiller
+302	310	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+312	319	Stiller	Stiller	PER	PER-Ben-Stiller
+323	357	vpádu ruských jednotek na Ukrajinu	vpád ruských jednotek na Ukrajinu	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+463	468	Oscar	Oscar	EVT	EVT-Oscar-Awards
+529	550	Volodymyra Zelenského	Volodymyr Zelenský	PER	PER-Volodymyr-Zelensky
+583	611	ruské ministerstvo zahraničí	ruské ministerstvo zahraničí	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+614	618	Penn	Penn	PER	PER-Sean-Penn
+633	639	Oscarů	Oscar	PRO	PRO-The-Oscars
+670	677	Madonny	Madonna	PER	PER-Madonna-Singer
+698	700	AP	AP	ORG	ORG-AP-The-Associated-Press
+704	712	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+730	735	Rusko	Rusko	LOC	GPE-Russia
+776	782	Kyjevě	Kyjev	LOC	GPE-Kiev
+874	880	Polsko	Polsko	LOC	GPE-Poland
+949	953	Penn	Penn	PER	PER-Sean-Penn
+956	963	Stiller	Stiller	PER	PER-Ben-Stiller
+985	994	Zelenským	Zelenský	PER	PER-Volodymyr-Zelensky
+1024	1032	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+1075	1082	Stiller	Stiller	PER	PER-Ben-Stiller
+1098	1107	Zoolander	Zoolander	PRO	PRO-Zoolander-Movie
+1113	1125	Fotr je lotr	Fotr je lotr	PRO	PRO-Meet-the-Parents-Movie
+1127	1137	Zelenskému	Zelenský	PER	PER-Volodymyr-Zelensky
+1255	1272	amerického Senátu	americký Senát	ORG	ORG-United-States-Senate
+1316	1331	Giny Raimondové	Giny Raimondová	PER	PER-Giny-Raimond

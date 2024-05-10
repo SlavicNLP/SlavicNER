@@ -1,0 +1,69 @@
+13	25	Американская	американский	LOC	GPE-USA
+53	56	США	США	LOC	GPE-USA
+81	84	США	США	LOC	GPE-USA
+396	408	американских	американские	LOC	GPE-USA
+506	517	американцев	американцы	PER	GPE-USA
+563	570	Америки	Америка	LOC	GPE-USA
+604	610	России	Россия	LOC	GPE-Russia
+733	736	США	США	LOC	GPE-USA
+803	815	американская	американский	LOC	GPE-USA
+885	896	американцам	американцы	PER	GPE-USA
+1034	1043	демократы	демократы	ORG	ORG-Democratic-Party-USA
+1047	1060	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+1102	1111	"""зелёных"""	зелёные	ORG	ORG-Green-Party-of-the-United-States
+1214	1221	Америки	Америка	LOC	GPE-USA
+1285	1295	демократов	демократы	ORG	ORG-Democratic-Party-USA
+1301	1315	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+1335	1352	Теодора Рузвельта	Теодор Рузвельт	PER	PER-Theodore-Roosevelt
+1479	1492	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+1558	1565	Америке	Америка	LOC	GPE-USA
+1733	1743	техасского	техасский	LOC	GPE-Texas
+1756	1766	Росса Перо	Росс Перо	PER	PER-Ross-Perot
+1912	1923	американцам	американцы	PER	GPE-USA
+2008	2017	демократы	демократ	ORG	ORG-Democratic-Party-USA
+2021	2034	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+2226	2238	американская	американская	LOC	GPE-USA
+2541	2544	США	США	LOC	GPE-USA
+3076	3084	Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+3411	3420	демократы	демократ	ORG	ORG-Democratic-Party-USA
+3466	3472	Трампа	Трамп	PER	PER-Donald-Trump
+3529	3535	Штатах	Штаты	LOC	GPE-USA
+3606	3616	демократов	демократ	ORG	ORG-Democratic-Party-USA
+3634	3640	Трампа	Трамп	PER	PER-Donald-Trump
+3648	3661	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+3667	3682	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+3751	3768	Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+3913	3928	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+3975	3987	американской	американский	LOC	GPE-USA
+4128	4139	американцев	американцы	PER	GPE-USA
+4643	4657	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+4719	4729	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4770	4784	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+4817	4827	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4855	4869	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+4897	4907	демократов	демократы	ORG	ORG-Democratic-Party-USA
+5014	5023	демократы	демократы	ORG	ORG-Democratic-Party-USA
+5096	5109	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+5185	5195	демократов	демократы	ORG	ORG-Democratic-Party-USA
+5276	5289	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+5531	5543	американской	американский	LOC	GPE-USA
+5602	5636	выборах президента США в 2016 году	выборы президента США 2016	EVT	EVT-2016-United-States-Presidential-Election
+5641	5651	демократов	демократы	ORG	ORG-Democratic-Party-USA
+5704	5718	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+5800	5813	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+5814	5819	Трамп	Трамп	PER	PER-Donald-Trump
+6016	6019	США	США	LOC	GPE-USA
+6092	6095	США	США	LOC	GPE-USA
+6353	6361	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+6364	6374	Калифорния	Калифорния	LOC	GPE-California
+6394	6404	демократов	демократы	ORG	ORG-Democratic-Party-USA
+6408	6413	Техас	Техас	LOC	GPE-Texas
+6416	6423	Алабама	Алабама	LOC	GPE-USA-Alabama
+6429	6443	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+6781	6787	Техасе	Техас	LOC	GPE-Texas
+7059	7062	США	США	LOC	GPE-USA
+7132	7143	американцев	американцы	PER	GPE-USA
+7219	7236	Института Гэллапа	Институт Гэллапа	ORG	ORG-American-Institute-of-Public-Opinion
+7271	7290	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+7414	7424	"""Царьград"""	"""Царьград"""	PRO	PRO-Tsargrad
+7427	7438	Яндекс.Дзен	Яндекс.Дзен	PRO	PRO-Yandex.Dzen

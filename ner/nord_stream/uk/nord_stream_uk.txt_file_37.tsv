@@ -1,0 +1,23 @@
+12	21	Швейцарії	Швейцарія	LOC	GPE-Switzerland
+46	54	Газпрому	Газпром	ORG	ORG-Gazprom
+57	92	Вищий суд швейцарського кантону Цуг	Вищий суд швейцарського кантону Цуг	ORG	ORG-Supreme-Court-Canton-Zug
+140	151	Nord Stream	Nord Stream	ORG	ORG-Nord-Stream-AG
+154	167	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+219	226	Газпром	Газпром	ORG	ORG-Gazprom
+322	331	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+545	548	Цуг	Цуг	LOC	GPE-Zug
+682	693	Вищим судом	Вищий суд	ORG	ORG-Supreme-Court-Switzerland
+696	703	Газпром	Газпром	ORG	ORG-Gazprom
+748	759	Nord Stream	Nord Stream	ORG	ORG-Nord-Stream-AG
+762	775	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+855	858	Цуг	Цуг	LOC	GPE-Zug
+993	1002	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+1047	1061	Павло Петренко	Павло Петренко	PER	PER-Pavlo-Petrenko
+1090	1097	Україна	Україна	LOC	GPE-Ukraine
+1114	1122	Газпрому	Газпром	ORG	ORG-Gazprom
+1173	1198	Стокгольмського арбітражу	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+1249	1257	Газпрому	Газпром	ORG	ORG-Gazprom
+1418	1426	Петренко	Петренко	PER	PER-Pavlo-Petrenko
+1452	1472	Міністерство юстиції	Міністерство юстиції	ORG	ORG-Ministry-of-Justice-Ukraine
+1473	1480	України	Україна	LOC	GPE-Ukraine
+1564	1572	Газпрому	Газпром	ORG	ORG-Gazprom

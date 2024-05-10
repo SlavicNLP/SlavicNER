@@ -1,0 +1,56 @@
+0	7	Reuters	Reuters	ORG	ORG-Reuters
+9	14	Трамп	Трамп	PER	PER-Donald-Trump
+32	41	Капітолій	Капітолій	LOC	LOC-United-States-Capitol
+101	107	Трампа	Трамп	PER	PER-Donald-Trump
+129	138	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+190	198	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+263	274	Інавгурація	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+275	282	Байдена	Байден	PER	PER-Joe-Biden
+285	292	Reuters	Reuters	ORG	ORG-Reuters
+294	299	Трамп	Трамп	PER	PER-Donald-Trump
+317	326	Капітолій	Капітолій	LOC	LOC-United-States-Capitol
+351	358	REUTERS	REUTERS	ORG	ORG-Reuters
+378	381	США	США	LOC	GPE-USA
+382	395	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+475	484	Капітолія	Капітолій	LOC	LOC-United-States-Capitol
+487	497	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+548	555	Reuters	Reuters	ORG	ORG-Reuters
+729	737	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+771	778	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+788	794	Трампа	Трамп	PER	PER-Donald-Trump
+834	837	США	США	LOC	GPE-USA
+917	922	Трамп	Трамп	PER	PER-Donald-Trump
+980	991	Білому домі	Білий дім	ORG	ORG-White-House
+1101	1108	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1171	1182	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+1183	1190	Байдена	Байден	PER	PER-Joe-Biden
+1214	1223	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+1226	1229	США	США	LOC	GPE-USA
+1242	1252	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+1283	1286	США	США	LOC	GPE-USA
+1287	1302	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1324	1333	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+1404	1412	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+1457	1475	колегії вибірників	колегія вибірників	ORG	ORG-United-States-Electoral-College
+1479	1486	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1516	1519	США	США	LOC	GPE-USA
+1580	1589	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+1677	1684	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1710	1730	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+1731	1742	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1768	1780	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+1810	1828	колегії вибірників	колегія вибірників	ORG	ORG-United-States-Electoral-College
+1851	1858	Байдена	Байден	PER	PER-Joe-Biden
+1862	1869	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1896	1901	Трамп	Трамп	PER	PER-Donald-Trump
+1939	1946	Байдену	Байден	PER	PER-Joe-Biden
+1950	1961	Інавгурація	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+1962	1969	Байдена	Байден	PER	PER-Joe-Biden
+1997	2016	Демократична партія	Демократична партія	ORG	ORG-Democratic-Party-USA
+2017	2020	США	США	LOC	GPE-USA
+2027	2038	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+2039	2046	Байдена	Байден	PER	PER-Joe-Biden
+2076	2084	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+2111	2118	України	Україна	LOC	GPE-Ukraine
+2138	2143	УНІАН	УНІАН	ORG	ORG-UNIAN
+2146	2154	Telegram	Telegram	PRO	PRO-Telegram

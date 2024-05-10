@@ -1,0 +1,15 @@
+12	20	Británii	Británie	LOC	GPE-Great-Britain
+49	56	brexitu	brexit	EVT	EVT-Brexit
+215	221	Londýn	Londýn	LOC	GPE-London
+238	243	Britů	Britové	PER	GPE-Great-Britain
+261	274	Evropské unie	Evropská unie	ORG	ORG-European-Union
+299	307	Británii	Británie	LOC	GPE-Great-Britain
+380	394	Baker McKenzie	Baker McKenzie	ORG	ORG-Baker-McKenzie
+440	442	EU	EU	ORG	ORG-European-Union
+466	473	brexitu	brexit	EVT	EVT-Brexit
+516	524	Británii	Británie	LOC	GPE-Great-Britain
+760	773	Evropská unie	Evropská unie	ORG	ORG-European-Union
+920	934	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+949	957	Británie	Británie	LOC	GPE-Great-Britain
+989	991	EU	EU	ORG	ORG-European-Union
+1071	1089	The New York Times	The New York Times	PRO	PRO-The-New-York-Times

@@ -1,0 +1,35 @@
+400	406	России	Россия	LOC	GPE-Russia
+598	599	Ъ	ъ	PRO	PRO-Kommersant
+885	925	"""Российские автомобильные дилеры"" (РОАД)"	Российские автомобильные дилеры	ORG	ORG-Russian-Auto-Dealers
+926	942	Вячеслав Зубарев	Вячеслав Зубарев	PER	PER-Vyacheslav-Zubarev
+951	965	Конвенции РОАД	Конвенция РОАД	EVT	EVT-ROAD-Convention
+1048	1057	Автостата	Автостат	ORG	ORG-Avtostat
+1089	1091	РФ	РФ	LOC	GPE-Russia
+1451	1458	АвтоВАЗ	АвтоВАЗ	ORG	ORG-AvtoVAZ
+1607	1620	Сергей Удалов	Сергей Удалов	PER	PER-Sergey-Udalov
+1625	1634	Автостата	Автостат	ORG	ORG-Avtostat
+1884	1889	Дроме	Дром	ORG	ORG-Drom
+2330	2339	РГС-банка	РГС-банк	ORG	ORG-RGS-Bank
+2340	2355	Алексей Токарев	Алексей Токарев	PER	PER-Алексей-Осин
+2394	2401	Токарев	Алексей Токарев	PER	PER-Aleksey-Tokarev
+2728	2737	Автостата	Автостат	ORG	ORG-Avtostat
+2918	2919	Ъ	ъ	PRO	PRO-Kommersant
+2943	2950	АвтоВАЗ	АвтоВАЗ	ORG	ORG-AvtoVAZ
+3246	3256	Fresh Auto	Fresh Auto	ORG	ORG-Gs-Fresh
+3257	3269	Денис Мигаль	Денис Мигаль	PER	PER-Denis-Migal
+3625	3654	Авилон. Автомобили с пробегом	Авилон. Автомобили с пробегом	ORG	ORG-Avilon
+3656	3672	Николай Баскаков	Николай Баскаков	PER	PER-Nikolay-Baskakov
+3856	3858	РФ	РФ	LOC	GPE-Russia
+3867	3872	Haval	Haval	ORG	ORG-Haval
+3874	3878	Lada	Lada	ORG	ORG-Lada
+3881	3885	УАЗа	УАЗ	ORG	ORG-UAZ
+3938	3951	Сергей Удалов	Сергей Удалов	PER	PER-Sergey-Udalov
+3983	3987	Азии	Азия	LOC	LOC-Asia
+3990	3992	РФ	РФ	LOC	GPE-Russia
+4032	4034	ЕС	ЕС	ORG	ORG-European-Union
+4088	4089	Ъ	ъ	PRO	PRO-Kommersant
+4167	4174	Украине	Украина	LOC	GPE-Ukraine
+4537	4542	Дрома	Дром	ORG	ORG-Drom
+4584	4590	России	Россия	LOC	GPE-Russia
+4763	4779	Николай Баскаков	Николай Баскаков	PER	PER-Nikolay-Baskakov
+5028	5042	Ольга Никитина	Ольга Никитина	PER	PER-Olga-Nikitina

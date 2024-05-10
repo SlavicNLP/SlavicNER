@@ -1,0 +1,24 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+12	19	Брекзит	Брекзит	EVT	EVT-Brexit
+56	66	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+68	75	Брекзит	Брекзит	EVT	EVT-Brexit
+126	140	Великобритания	Великобритания	LOC	GPE-Great-Britain
+291	297	Лондон	Лондон	LOC	GPE-London
+300	307	Брюксел	Брюксел	LOC	GPE-Brussles
+346	366	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+367	377	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+409	424	The Independent	The Independent	PRO	PRO-The-Independent
+426	429	Мей	Мей	PER	PER-Theresa-May
+443	450	Брекзит	Брекзит	EVT	EVT-Brexit
+674	679	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+749	763	Великобритания	Великобритания	LOC	GPE-Great-Britain
+947	957	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+960	998	Мюнхенската конференция по сигурността	Мюнхенска конференция по сигурността	EVT	EVT-MSC-Munich-Security-Conference
+1028	1034	Мюнхен	Мюнхен	LOC	GPE-München
+1126	1133	Брекзит	Брекзит	EVT	EVT-Brexit
+1165	1168	Мей	Мей	PER	PER-Theresa-May
+1192	1206	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1230	1259	Европейската заповед за арест	Европейската заповед за арест	PRO	PRO-European-Arrest-Warrant
+1261	1264	ЕЗА	ЕЗА	PRO	PRO-European-Arrest-Warrant
+1271	1278	Европол	Европол	ORG	ORG-Europol
+1311	1313	ЕС	ЕС	ORG	ORG-European-Union

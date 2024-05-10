@@ -1,0 +1,79 @@
+0	7	Jakóbik	Jakóbik	PER	PER-Wojciech-Jakóbik
+38	51	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+53	59	Niemcy	Niemcy	LOC	GPE-Germany
+125	132	Ukrainę	Ukraina	LOC	GPE-Ukraine
+166	179	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+311	338	Europie Środkowo-Wschodniej	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+418	421	USA	USA	LOC	GPE-USA
+430	446	Wojciech Jakóbik	Wojciech Jakóbik	PER	PER-Wojciech-Jakóbik
+466	480	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+482	488	Niemcy	Niemcy	LOC	GPE-Germany
+513	518	Kreml	Kreml	LOC	LOC-Kremlin
+592	608	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+630	643	Angelą Merkel	Angela Merkel	PER	PER-Angela-Merkel
+663	676	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+720	725	Syrii	Syria	LOC	GPE-Syria
+750	755	Rosja	Rosja	LOC	GPE-Russia
+780	822	Kancelarii Prezydenta Federacji Rosyjskiej	Kancelaria Prezydenta Federacji Rosyjskiej	ORG	ORG-Chancellery-of-the-President-of-the-Russian-Federation
+927	933	Doumie	Douma	LOC	GPE-Douma
+935	940	Kreml	Kreml	LOC	LOC-Kremlin
+997	1010	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1042	1047	Rosji	Rosja	LOC	GPE-Russia
+1051	1058	Niemiec	Niemcy	LOC	GPE-Germany
+1065	1080	Morze Bałtyckie	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+1107	1114	Ukraina	Ukraina	LOC	GPE-Ukraine
+1192	1198	Merkel	Merkel	PER	PER-Angela-Merkel
+1228	1241	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1352	1357	Rosji	Rosja	LOC	GPE-Russia
+1364	1371	Ukrainę	Ukraina	LOC	GPE-Ukraine
+1373	1379	Berlin	Berlin	LOC	GPE-Berlin
+1394	1400	Moskwy	Moskwa	LOC	GPE-Moscow
+1460	1467	Gazprom	Gazprom	ORG	ORG-Gazprom
+1626	1633	Ukraina	Ukraina	LOC	GPE-Ukraine
+1762	1779	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1907	1925	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+1997	2003	Niemcy	Niemcy	LOC	GPE-Germany
+2089	2109	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+2111	2118	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2121	2126	Rosji	Rosja	LOC	GPE-Russia
+2151	2157	Niemcy	Niemcy	LOC	GPE-Germany
+2212	2219	Komisja	Komisja	ORG	ORG-European-Commission
+2235	2239	Unię	Unia	ORG	ORG-European-Union
+2347	2352	Rosji	Rosja	LOC	GPE-Russia
+2356	2363	Ukrainę	Ukraina	LOC	GPE-Ukraine
+2422	2428	Niemcy	Niemcy	LOC	GPE-Germany
+2450	2463	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2605	2621	BASF/Wintershall	BASF/Wintershall	ORG	ORG-BASF-Wintershall
+2624	2635	E.on/Uniper	E.on/Uniper	ORG	ORG-Eon-Uniper
+2669	2689	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+2802	2808	Niemcy	Niemcy	LOC	GPE-Germany
+2811	2816	Rosja	Rosja	LOC	GPE-Russia
+3052	3058	Merkel	Merkel	PER	PER-Angela-Merkel
+3199	3208	Niemczech	Niemcy	LOC	GPE-Germany
+3217	3230	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+3269	3286	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3446	3454	Brukseli	Bruksela	LOC	GPE-Brussles
+3550	3558	Gazpromu	Gazprom	ORG	ORG-Gazprom
+3688	3702	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+3783	3789	Polskę	Polska	LOC	GPE-Poland
+3860	3867	Komisja	Komisja	ORG	ORG-European-Commission
+3916	3924	Gazpromu	Gazprom	ORG	ORG-Gazprom
+4119	4136	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4174	4190	Dyrektywą Gazową	Dyrektywa Gazowa	PRO	PRO-Gas-Directive-EU
+4372	4386	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+4510	4536	Europy Środkowo-Wschodniej	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+4580	4583	USA	USA	LOC	GPE-USA
+4628	4630	KE	KE	ORG	ORG-European-Commission
+4631	4638	Ukraina	Ukraina	LOC	GPE-Ukraine
+4639	4644	Rosja	Rosja	LOC	GPE-Russia
+4645	4651	Niemcy	Niemcy	LOC	GPE-Germany
+4660	4669	Berlinowi	Berlin	LOC	GPE-Berlin
+4733	4753	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+4799	4806	Ukrainę	Ukraina	LOC	GPE-Ukraine
+4844	4857	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+4951	4968	Dyrektywy Gazowej	Dyrektywa Gazowa	PRO	PRO-Gas-Directive-EU
+4985	4998	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+5104	5107	USA	USA	LOC	GPE-USA
+5181	5194	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+5340	5348	Gazpromu	Gazprom	ORG	ORG-Gazprom
+5350	5367	Aleksieja Millera	Aleksiej Miller	PER	PER-Aleksey-Miller

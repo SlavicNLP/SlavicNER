@@ -1,0 +1,21 @@
+0	10	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+46	56	«Брексита»	«Брексит»	EVT	EVT-Brexit
+85	95	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+141	155	Великобритании	Великобритания	LOC	GPE-Great-Britain
+159	161	ЕС	ЕС	ORG	ORG-European-Union
+162	175	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+390	400	"""Брекситу"""	"""Брексит"""	EVT	EVT-Brexit
+431	434	Мэй	Мэй	PER	PER-Theresa-May
+476	484	Sky News	Sky News	PRO	PRO-Sky-News-TV
+486	493	Twitter	Twitter	PRO	PRO-Twitter
+526	531	Davis	Davis	PER	PER-David-Davis
+559	571	Faisal Islam	Faisal Islam	PER	PER-Muhammad-Faisal
+685	695	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+731	744	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+757	767	парламенте	парламент	ORG	ORG-British-Parlament
+768	779	Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+794	803	The Times	The Times	PRO	PRO-The-Times
+813	816	Мэй	Мэй	PER	PER-Theresa-May
+892	894	ЕС	ЕС	ORG	ORG-European-Union
+928	938	«Брекситу»	«Брексит»	EVT	EVT-Brexit
+949	952	“Ъ”	“Ъ”	PRO	PRO-Kommersant

@@ -1,0 +1,28 @@
+0	6	Niemcy	Niemcy	LOC	GPE-Germany
+19	24	Rosji	Rosja	LOC	GPE-Russia
+54	87	Federalnego Urzędu Statystycznego	Federalny Urząd Statystyczny	ORG	ORG-Federal-Statistical-Office-Germany
+224	242	Federacja Rosyjska	Federacja Rosyjska	LOC	GPE-Russia
+337	339	UE	UE	ORG	ORG-European-Union
+372	377	Rosja	Rosja	LOC	GPE-Russia
+418	434	wojska rosyjskie	wojska rosyjskie	ORG	ORG-Russian-Armed-Forces
+448	455	Ukrainę	Ukraina	LOC	GPE-Ukraine
+467	473	Zachód	Zachód	LOC	LOC-West
+485	490	Rosję	Rosja	LOC	GPE-Russia
+592	609	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+779	782	USA	USA	LOC	GPE-USA
+813	815	UE	UE	ORG	ORG-European-Union
+888	905	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+970	990	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1165	1182	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1288	1295	Germany	Germany	LOC	GPE-Germany
+1302	1304	UE	UE	ORG	ORG-European-Union
+1418	1435	Wojna na Ukrainie	Wojna na Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+1505	1517	Dirk Jandura	Dirk Jandura	PER	PER-Dirk-Jandura
+1526	1568	Niemieckiego Stowarzyszenia Handlowego BGA	Niemieckie Stowarzyszenie Handlowe BGA	ORG	ORG-Bundesverband-Großhandel-Außenhandel-Dienstleistungen-BGA
+1674	1734	Stowarzyszenie Niemieckich Izb Przemysłowo-Handlowych (DIHK)	Stowarzyszenie Niemieckich Izb Przemysłowo-Handlowych (DIHK)	ORG	ORG-DIHK-Association-of-German-Chambers-of-Industry-and-Commerce
+1779	1786	Chinach	Chiny	LOC	GPE-China
+1826	1842	wojny w Ukrainie	wojna w Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+1905	1912	Chinach	Chiny	LOC	GPE-China
+1955	1968	Volker Treier	Volker Treier	PER	PER-Volker-Treier
+1979	1983	DIHK	DIHK	ORG	ORG-DIHK-Association-of-German-Chambers-of-Industry-and-Commerce
+2011	2013	DW	DW	PRO	PRO-Deutsche-Welle

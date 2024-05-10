@@ -1,0 +1,16 @@
+22	36	Великобритании	Великобритания	LOC	GPE-Great-Britain
+84	98	Великобритании	Великобритания	LOC	GPE-Great-Britain
+108	120	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+163	178	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+235	246	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+259	267	Брекзита	Брекзит	EVT	EVT-Brexit
+333	357	Соединенному королевству	Соединенное королевство	LOC	GPE-Great-Britain
+470	473	Мэй	Мэй	PER	PER-Theresa-May
+515	518	МИД	МИД	ORG	ORG-Foreign-Office
+519	531	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+753	758	Ханта	Хант	PER	PER-Jeremy-Hunt
+987	994	Лондона	Лондон	LOC	GPE-London
+1027	1030	МИД	МИД	ORG	ORG-Foreign-Office
+1050	1058	Джонсона	Джонсон	PER	PER-Boris-Johnson
+1082	1087	Ханта	Хант	PER	PER-Jeremy-Hunt
+1230	1265	чемпионата мира по футболу в России	чемпионат мира по футболу в России	EVT	EVT-FIFA-World-Cup-2018

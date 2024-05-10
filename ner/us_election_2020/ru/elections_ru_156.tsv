@@ -1,0 +1,36 @@
+0	19	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+51	60	демократа	демократ	ORG	ORG-Democratic-Party-USA
+61	72	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+104	107	США	США	LOC	GPE-USA
+143	150	Байдена	Байден	PER	PER-Joe-Biden
+223	226	США	США	LOC	GPE-USA
+227	242	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+295	301	Байден	Байден	PER	PER-Joe-Biden
+352	362	Калифорнии	Калифорния	LOC	GPE-California
+431	439	Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+542	549	Гавайев	Гавайи	LOC	GPE-Hawaii
+684	691	Байдена	Байден	PER	PER-Joe-Biden
+739	745	Байден	Байден	PER	PER-Joe-Biden
+786	791	Трамп	Трамп	PER	PER-Donald-Trump
+825	832	Гавайях	Гавайи	LOC	GPE-Hawaii
+855	862	Байдена	Байден	PER	PER-Joe-Biden
+961	966	Трамп	Трамп	PER	PER-Donald-Trump
+978	981	США	США	LOC	GPE-USA
+1219	1229	Калифорнии	Калифорния	LOC	GPE-California
+1236	1242	Техаса	Техас	LOC	GPE-Texas
+1249	1258	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+1261	1268	Флориды	Флорида	LOC	GPE-Florida
+1298	1317	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1502	1521	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1603	1612	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1675	1681	Сената	Сенат	ORG	ORG-United-States-Senate
+1684	1719	Палаты представителей Конгресса США	Палата представителей Конгресса США	ORG	ORG-United-States-House-of-Representatives
+1804	1807	США	США	LOC	GPE-USA
+1862	1871	демократа	демократ	ORG	ORG-Democratic-Party-USA
+1872	1883	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1918	1929	американцев	американцы	PER	GPE-USA
+1986	1999	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2285	2290	Трамп	Трамп	PER	PER-Donald-Trump
+2324	2335	Белого дома	Белый дом	LOC	LOC-White-House
+2342	2361	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2377	2388	Джо Байдена	Джо Байден	PER	PER-Joe-Biden

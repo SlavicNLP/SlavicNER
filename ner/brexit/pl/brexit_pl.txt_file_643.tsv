@@ -1,0 +1,27 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+39	46	Europie	Europa	LOC	LOC-Europe
+87	94	Europie	Europa	LOC	LOC-Europe
+154	165	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+168	172	Unii	Unia	ORG	ORG-European-Union
+244	248	ACEA	ACEA	ORG	ORG-ACEA
+401	405	ACEA	ACEA	ORG	ORG-ACEA
+446	455	Niemczech	Niemcy	LOC	GPE-Germany
+458	465	Francji	Francja	LOC	GPE-France
+573	577	ACEA	ACEA	ORG	ORG-ACEA
+587	596	Grupy PSA	Grupa PSA	ORG	ORG-PSA-Group
+598	612	Carlos Tavares	Carlos Tavares	PER	PER-Carlos-Tavares
+795	802	brexitu	Brexit	EVT	EVT-Brexit
+996	1003	brexitu	Brexit	EVT	EVT-Brexit
+1074	1082	Brukseli	Bruksela	LOC	GPE-Brussles
+1109	1129	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+1260	1266	Europa	Europa	LOC	LOC-Europe
+1377	1384	brexitu	Brexit	EVT	EVT-Brexit
+1476	1486	W.Brytanii	W.Brytania	LOC	GPE-Great-Britain
+1526	1530	Unii	Unia	ORG	ORG-European-Union
+1533	1544	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1797	1804	Tavares	Tavares	PER	PER-Carlos-Tavares
+1882	1886	Unii	Unia	ORG	ORG-European-Union
+1893	1904	W. Brytanię	W. Brytania	LOC	GPE-Great-Britain
+1987	1991	Unia	Unia	ORG	ORG-European-Union
+2163	2167	ACEA	ACEA	ORG	ORG-ACEA
+2170	2173	PSA	PSA	ORG	ORG-PSA-Group

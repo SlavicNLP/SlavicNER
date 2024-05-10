@@ -1,0 +1,18 @@
+0	18	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+41	48	Украины	Украина	LOC	GPE-Ukraine
+51	57	Польши	Польша	LOC	GPE-Poland
+60	70	Моравецкий	Моравецкий	PER	PER-Mateusz-Morawiecki
+117	135	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+183	201	Европейского союза	Европейский союз	ORG	ORG-European-Union
+226	232	Польши	Польша	LOC	GPE-Poland
+233	250	Матеуш Моравецкий	Матеуш Моравецкий	PER	PER-Mateusz-Morawiecki
+284	288	CNBC	CNBC	PRO	PRO-CNBC
+444	454	Моравецкий	Моравецкий	PER	PER-Mateusz-Morawiecki
+462	480	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+498	508	Моравецкий	Моравецкий	PER	PER-Mateusz-Morawiecki
+543	564	Европейской комиссией	Европейская комиссия	ORG	ORG-European-Commission
+625	638	"""Южный поток"""	"""Южный поток"""	PRO	PRO-South-Stream
+667	687	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+790	796	России	Россия	LOC	GPE-Russia
+828	835	Украину	Украина	LOC	GPE-Ukraine
+838	844	Польшу	Польша	LOC	GPE-Poland

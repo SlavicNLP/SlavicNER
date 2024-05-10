@@ -1,0 +1,11 @@
+11	44	prezidentské volby v Americe 2020	prezidentské volby v Americe 2020	EVT	EVT-2020-United-States-Presidential-Election
+47	52	Trump	Trump	PER	PER-Donald-Trump
+58	63	Biden	Biden	PER	PER-Joe-Biden
+65	92	Americké prezidentské volby	Americké prezidentské volby	EVT	EVT-2020-United-States-Presidential-Election
+169	172	USA	USA	LOC	GPE-USA
+202	217	České republiky	Česká republika	LOC	GPE-Czech-Republic
+406	415	Američanů	Američané	PER	GPE-USA
+461	470	Demokratů	Demokraté	PER	ORG-Democratic-Party-USA
+517	525	Covid-19	Covid-19	EVT	EVT-Covid-19
+580	595	Republikánských	Republikánské	PER	ORG-Republican-Party-USA
+865	887	Sněmovny reprezentantů	Sněmovna reprezentantů	ORG	ORG-House-of-Representatives(USA)

@@ -1,0 +1,39 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+57	63	Brexit	Brexit	EVT	EVT-Brexit
+77	93	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+132	134	ЄС	ЄС	LOC	ORG-European-Union
+167	177	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+196	241	конфедерацією британської промисловості (CBI)	Конфедерація британської промисловості (CBI)	ORG	ORG-CBI-Confederation-of-British-Industry
+248	254	Brexit	Brexit	EVT	EVT-Brexit
+392	408	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+476	481	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+521	527	Brexit	Brexit	EVT	EVT-Brexit
+725	730	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+739	745	Brexit	Brexit	EVT	EVT-Brexit
+763	779	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+848	850	ЄС	ЄС	LOC	ORG-European-Union
+998	1003	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+1062	1064	ЄС	ЄС	LOC	ORG-European-Union
+1077	1093	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+1228	1230	ЄС	ЄС	LOC	ORG-European-Union
+1334	1339	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+1345	1361	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+1412	1414	ЄС	ЄС	LOC	ORG-European-Union
+1488	1490	ЄС	ЄС	LOC	ORG-European-Union
+1502	1507	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+1509	1514	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+1672	1674	ЄС	ЄС	LOC	ORG-European-Union
+1677	1692	Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+1763	1769	Brexit	Brexit	EVT	EVT-Brexit
+1960	1965	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+2069	2085	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+2122	2127	Т.Мей	Т.Мей	PER	PER-Donald-Trump
+2298	2300	ЄС	ЄС	LOC	ORG-European-Union
+2306	2312	Brexit	Brexit	EVT	EVT-Brexit
+2313	2326	Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+2372	2378	Brexit	Brexit	EVT	EVT-Brexit
+2440	2456	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+2460	2462	ЄС	ЄС	LOC	ORG-European-Union
+2536	2551	Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+2586	2588	ЄС	ЄС	LOC	ORG-European-Union
+2643	2645	ЄС	ЄС	LOC	ORG-European-Union

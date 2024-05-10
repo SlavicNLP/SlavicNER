@@ -1,0 +1,19 @@
+0	12	Eurokomisaři	Eurokomisaři	PER	ORG-European-Commission
+38	45	brexitu	brexit	EVT	EVT-Brexit
+73	75	EU	EU	ORG	ORG-European-Union
+93	99	Mayové	Mayová	PER	PER-Theresa-May
+116	124	Británie	Británie	LOC	GPE-Great-Britain
+125	138	Severní Irsko	Severní Irsko	LOC	GPE-Northern-Ireland
+140	155	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+230	244	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+247	260	Evropské unie	Evropská unie	ORG	ORG-European-Union
+284	290	brexit	brexit	EVT	EVT-Brexit
+291	305	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+424	438	europarlamentu	europarlament	ORG	ORG-European-Parliament
+542	550	Barniera	Barnier	PER	PER-Michel-Barnier
+642	649	Britové	Britové	PER	GPE-Great-Britain
+652	654	EU	EU	ORG	ORG-European-Union
+879	887	Barniera	Barnier	PER	PER-Michel-Barnier
+1026	1028	EU	EU	ORG	ORG-European-Union
+1031	1039	Británii	Británie	LOC	GPE-Great-Britain
+1043	1050	brexitu	brexit	EVT	EVT-Brexit

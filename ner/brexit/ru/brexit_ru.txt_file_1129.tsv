@@ -1,0 +1,19 @@
+20	30	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+47	62	Борису Джонсону	Борис Джонсон	PER	PER-Boris-Johnson
+80	94	Великобритании	Великобритания	LOC	GPE-Great-Britain
+109	117	Джонсона	Джонсон	PER	PER-Boris-Johnson
+204	218	Великобритании	Великобритания	LOC	GPE-Great-Britain
+219	229	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+256	284	Министерства иностранных дел	Министерство иностранных дел	ORG	ORG-Foreign-Office
+285	300	Борису Джонсону	Борис Джонсон	PER	PER-Boris-Johnson
+381	395	Великобритании	Великобритания	LOC	GPE-Great-Britain
+410	418	Джонсона	Джонсон	PER	PER-Boris-Johnson
+582	588	Чекерс	Чекерс	LOC	LOC-Chequers-Court
+655	661	Brexit	Brexit	EVT	EVT-Brexit
+673	683	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+707	718	Theresa May	Theresa May	PER	PER-Theresa-May
+722	735	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+763	773	Sam Coates	Sam Coates	PER	PER-Sam-Coates
+774	779	Times	Times	PRO	PRO-The-Times
+849	858	The Times	The Times	PRO	PRO-The-Times
+859	868	Сэм Коутс	Сэм Коутс	PER	PER-Sam-Coates

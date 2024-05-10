@@ -1,0 +1,39 @@
+11	17	Polacy	Polacy	PER	GPE-Poland
+44	51	brexitu	Brexit	EVT	EVT-Brexit
+143	155	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+178	193	Mark Lazarowicz	Mark Lazarowicz	PER	PER-Mark-Lazarowicz
+218	221	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+623	640	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+643	645	UE	UE	ORG	ORG-European-Union
+840	851	Lazarowicza	Lazarowicz	PER	PER-Mark-Lazarowicz
+976	979	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1343	1360	Dorota Peszkowska	Dorota Peszkowska	PER	PER-Dorota-Peszkowska
+1406	1413	Polaków	Polacy	PER	GPE-Poland
+1416	1423	Szkocji	Szkocja	LOC	GPE-Scotland
+1483	1485	UE	UE	ORG	ORG-European-Union
+1488	1495	Szkocji	Szkocja	LOC	GPE-Scotland
+1611	1618	brexitu	Brexit	EVT	EVT-Brexit
+1648	1659	Home Office	Home Office	ORG	ORG-Home-Office-UK
+1672	1703	ministerstwo spraw wewnętrznych	Ministerstwo spraw wewnętrznych	ORG	ORG-Home-Office-UK
+1776	1779	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2303	2310	Szkocji	Szkocja	LOC	GPE-Scotland
+2641	2651	Peszkowska	Peszkowska	PER	PER-Dorota-Peszkowska
+2706	2718	Fiona Hyslop	Fiona Hyslop	PER	PER-Fiona-Hyslop
+2743	2746	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2822	2830	Londynie	Londyn	LOC	GPE-London
+3096	3103	Szkocji	Szkocja	LOC	GPE-Scotland
+3104	3119	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+3241	3243	UE	UE	ORG	ORG-European-Union
+3364	3370	Hyslop	Hyslop	PER	PER-Fiona-Hyslop
+3462	3468	Polacy	Polacy	PER	GPE-Poland
+3508	3515	brexitu	Brexit	EVT	EVT-Brexit
+3550	3556	Polacy	Polacy	PER	GPE-Poland
+3571	3578	Szkocji	Szkocja	LOC	GPE-Scotland
+3712	3727	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3756	3773	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3798	3807	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+4224	4226	UE	UE	ORG	ORG-European-Union
+4235	4252	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4279	4286	Polaków	Polacy	PER	GPE-Poland
+4290	4299	Edynburga	Edynburg	LOC	GPE-Edinburgh
+4300	4311	Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa

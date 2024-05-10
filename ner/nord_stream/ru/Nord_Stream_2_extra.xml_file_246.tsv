@@ -1,0 +1,25 @@
+5	12	Украины	Украина	LOC	GPE-Ukraine
+25	31	Кремль	Кремль	LOC	LOC-Kremlin
+108	118	“Газпрома”	“Газпром”	ORG	ORG-Gazprom
+238	245	Украины	Украина	LOC	GPE-Ukraine
+261	263	РФ	РФ	LOC	GPE-Russia
+310	330	“Северный поток - 2”	“Северный поток - 2”	PRO	PRO-Nord-Stream-2
+381	391	Бундестага	Бундестаг	ORG	ORG-Bundestag
+412	423	Белого дома	Белый дом	LOC	LOC-White-House
+491	494	США	США	LOC	GPE-USA
+639	659	“Северный поток - 2”	“Северный поток - 2”	PRO	PRO-Nord-Stream-2
+720	726	Россия	Россия	LOC	GPE-Russia
+903	925	“Северному потоку - 2”	“Северный поток - 2”	PRO	PRO-Nord-Stream-2
+1038	1045	Украины	Украина	LOC	GPE-Ukraine
+1143	1149	Россия	Россия	LOC	GPE-Russia
+1180	1182	ЕС	ЕС	ORG	ORG-European-Union
+1215	1222	Украины	Украина	LOC	GPE-Ukraine
+1343	1349	Кремлю	Кремль	LOC	LOC-Kremlin
+1355	1361	Киевом	Киев	LOC	GPE-Kiev
+1565	1574	“Газпром”	“Газпром”	ORG	ORG-Gazprom
+1737	1742	Крыма	Крым	LOC	GPE-Crimea
+1751	1759	Донбасса	Донбасс	LOC	LOC-Donbass
+2028	2034	Кремля	Кремль	LOC	LOC-Kremlin
+2038	2045	Украины	Украина	LOC	GPE-Ukraine
+2057	2077	“Северный поток - 2”	“Северный поток - 2”	PRO	PRO-Nord-Stream-2
+2241	2247	Москвы	Москва	LOC	GPE-Moscow

@@ -1,0 +1,29 @@
+36	48	коронавируса	коронавирус	EVT	EVT-Covid-19
+65	76	Голубовская	Ольга Голубовская	PER	PER-Olga-Golubovskaya
+133	145	коронавируса	коронавирус	EVT	EVT-Covid-19
+160	177	Ольга Голубовская	Ольга Голубовская	PER	PER-Olga-Golubovskaya
+224	236	коронавируса	коронавирус	EVT	EVT-Covid-19
+292	300	COVID-19	COVID-19	EVT	EVT-Covid-19
+371	427	Национального медицинского университета имени Богомольца	Национальный медицинский университет имени А. А. Богомольца	LOC	GPE-Bogomolets-National-Medical-University
+428	445	Ольга Голубовская	Ольга Голубовская	PER	PER-Olga-Golubovskaya
+483	486	США	США	LOC	GPE-USA
+520	531	бразильский	бразильский	PER	GPE-Brazil
+538	550	коронавируса	коронавирус	EVT	EVT-Covid-19
+553	562	Brazil P1	Brazil P1	EVT	EVT-Brazil-P1
+613	623	британский	британский	PER	GPE-Great-Britain
+626	637	бразильский	бразильский	PER	GPE-Brazil
+688	690	Р1	Brazil P1	EVT	EVT-Brazil-P1
+915	923	COVID-19	COVID-19	EVT	EVT-Covid-19
+958	966	Facebook	Facebook	PRO	PRO-Facebook
+1014	1026	коронавируса	коронавирус	EVT	EVT-Covid-19
+1107	1110	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+1285	1302	Ольга Голубовская	Ольга Голубовская	PER	PER-Olga-Golubovskaya
+1333	1339	ТСН.ua	ТСН.ua	PRO	PRO-TSN.ua
+1399	1405	Львова	Львов	LOC	GPE-Lviv
+1406	1423	Тарас Жиравецький	Тарас Жиравецький	PER	PER-Taras-Zhyravetskyi
+1450	1462	коронавируса	коронавирус	EVT	EVT-Covid-19
+1503	1511	COVID-19	COVID-19	EVT	EVT-Covid-19
+1540	1553	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1554	1564	английские	английские	PER	GPE-Great-Britain
+1630	1644	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1645	1658	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson

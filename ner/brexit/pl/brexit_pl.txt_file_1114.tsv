@@ -1,0 +1,13 @@
+0	6	Londyn	Londyn	LOC	GPE-London
+24	32	brexitem	Brexit	EVT	EVT-Brexit
+149	156	brexitu	Brexit	EVT	EVT-Brexit
+182	197	kanał La Manche	Kanał La Manche	LOC	LOC-English-Channel
+225	234	Normandii	Normandia	LOC	LOC-Normandy
+246	253	Francji	Francja	LOC	GPE-France
+256	276	Transport for London	Transport for London	ORG	ORG-Transport-for-London
+327	344	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+462	471	Normandii	Normandia	LOC	LOC-Normandy
+588	605	Wielkiego Londynu	Wielki Londyn	LOC	GPE-Greater-London
+891	900	Normandię	Normandia	LOC	LOC-Normandy
+979	986	Europie	Europa	LOC	LOC-Europe
+988	991	TfL	TfL	ORG	ORG-Transport-for-London

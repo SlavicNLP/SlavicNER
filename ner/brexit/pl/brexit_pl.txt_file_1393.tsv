@@ -1,0 +1,96 @@
+7	14	Brexitu	Brexit	EVT	EVT-Brexit
+254	269	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+272	287	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+433	435	UE	UE	ORG	ORG-European-Union
+438	453	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+474	489	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+524	544	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+549	567	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+593	610	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+613	615	UE	UE	ORG	ORG-European-Union
+693	714	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+737	752	Davida Camerona	David Cameron	PER	PER-David-Cameron
+793	795	UE	UE	ORG	ORG-European-Union
+872	888	kanału La Manche	Kanał La Manche	LOC	LOC-English-Channel
+910	912	WB	WB	LOC	GPE-Great-Britain
+915	917	UE	UE	ORG	ORG-European-Union
+959	961	UE	UE	ORG	ORG-European-Union
+967	981	Liechtensteinu	Liechtenstein	LOC	GPE-Liechtenstein
+983	991	Norwegii	Norwegia	LOC	GPE-Norway
+994	1004	Szwajcarii	Szwajcaria	LOC	GPE-Switzerland
+1037	1044	Wyspach	Wyspy	LOC	GPE-Great-Britain
+1114	1116	UE	UE	ORG	ORG-European-Union
+1295	1312	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1404	1410	Brexit	Brexit	EVT	EVT-Brexit
+1420	1427	YOUTUBE	YouTube	PRO	PRO-YouTube
+1428	1436	ABC NEWS	ABC News	PRO	PRO-ABC-News
+1597	1599	UE	UE	ORG	ORG-European-Union
+1603	1610	Wyspach	Wyspy	LOC	GPE-Great-Britain
+1613	1624	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1627	1629	UE	UE	ORG	ORG-European-Union
+1723	1725	UE	UE	ORG	ORG-European-Union
+1769	1774	Wyspy	Wyspy	LOC	GPE-Great-Britain
+1920	1924	Unia	Unia	ORG	ORG-European-Union
+1956	1958	UE	UE	ORG	ORG-European-Union
+1990	2007	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2078	2084	Londyn	Londyn	LOC	GPE-London
+2369	2371	UE	UE	ORG	ORG-European-Union
+2440	2442	UE	UE	ORG	ORG-European-Union
+2449	2464	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2559	2574	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2612	2616	Unii	Unia	ORG	ORG-European-Union
+2721	2732	Theresa May	Theresa May	PER	PER-Theresa-May
+2792	2799	Brexitu	Brexit	EVT	EVT-Brexit
+2830	2832	UE	UE	ORG	ORG-European-Union
+2848	2860	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+3028	3034	Londyn	Londyn	LOC	GPE-London
+3111	3122	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+3162	3164	UE	UE	ORG	ORG-European-Union
+3170	3172	UE	UE	ORG	ORG-European-Union
+3252	3259	YOUTUBE	YouTube	PRO	PRO-YouTube
+3260	3273	THE TELEGRAPH	The Telegraph	PRO	PRO-The-Daily-Telegraph
+3312	3318	Londyn	Londyn	LOC	GPE-London
+3327	3335	Brukseli	Bruksela	LOC	GPE-Brussles
+3345	3362	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3365	3401	Europejski Bank Inwestycji i Rozwoju	Europejski Bank Inwestycji i Rozwoju	ORG	ORG-European-Investment-and-Development-Bank
+3443	3458	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3473	3480	Szkocja	Szkocja	LOC	GPE-Scotland
+3503	3518	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+3540	3563	Szkocka Partia Narodowa	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+3618	3625	Szkocji	Szkocja	LOC	GPE-Scotland
+3693	3708	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+3761	3768	Szkocji	Szkocja	LOC	GPE-Scotland
+3796	3803	Szkotów	Szkoci	PER	GPE-Scotland
+3826	3828	UE	UE	ORG	ORG-European-Union
+3894	3901	Szkocja	Szkoci	LOC	GPE-Scotland
+3936	3953	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4005	4013	Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+4041	4048	Londynu	Londyn	LOC	GPE-London
+4050	4061	Theresa May	Theresa May	PER	PER-Theresa-May
+4144	4161	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4164	4166	UE	UE	ORG	ORG-European-Union
+4201	4209	Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+4376	4394	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+4445	4447	UE	UE	ORG	ORG-European-Union
+4459	4467	Irlandią	Irlandia	LOC	GPE-Ireland
+4519	4534	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+4537	4545	Irlandią	Irlandia	LOC	GPE-Ireland
+4883	4900	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+4951	4953	UE	UE	ORG	ORG-European-Union
+4965	4982	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+5070	5087	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+5177	5181	City	City	LOC	LOC-City-of-London
+5296	5306	Frankfurtu	Frankfurt	LOC	GPE-Frankfurt-am-Main
+5714	5726	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+5741	5743	UE	UE	ORG	ORG-European-Union
+6213	6226	The Economist	The Economist	PRO	PRO-The-Economist
+6589	6596	Brexitu	Brexit	EVT	EVT-Brexit
+6730	6732	UE	UE	ORG	ORG-European-Union
+6735	6752	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+6837	6854	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+6930	6945	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+6948	6950	UE	UE	ORG	ORG-European-Union
+7132	7140	Brexitem	Brexit	EVT	EVT-Brexit
+7371	7388	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+7434	7450	Daniel Czyżewski	Daniel Czyżewski	PER	PER-Daniel-Czyżewski
+7452	7467	PolskieRadio.pl	PolskieRadio.pl	PRO	PRO-PolskieRadio.pl

@@ -1,0 +1,32 @@
+0	7	Българи	българи	PER	GPE-Bulgaria
+23	30	Румъния	Румъния	LOC	GPE-Romania
+95	104	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+139	146	българи	българи	PER	GPE-Bulgaria
+173	181	Райънеър	Райънеър	ORG	ORG-Ryanair
+186	192	Лондон	Лондон	LOC	GPE-London
+236	243	Пловдив	Пловдив	LOC	GPE-Plovdiv
+332	337	София	София	LOC	LOC-Sofia-airport
+365	372	Румъния	Румъния	LOC	GPE-Romania
+381	384	БНТ	БНТ	PRO	PRO-Bulgarian-National-Television
+554	562	България	България	LOC	GPE-Bulgaria
+565	574	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+596	599	БНТ	БНТ	PRO	PRO-Bulgarian-National-Television
+629	636	Румъния	Румъния	LOC	GPE-Romania
+752	761	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+867	870	БНТ	БНТ	PRO	PRO-Bulgarian-National-Television
+883	891	България	България	LOC	GPE-Bulgaria
+894	901	Букурещ	Букурещ	LOC	GPE-Bucharest
+902	914	Мирчо Иванов	Мирчо Иванов	PER	PER-Mircho-Ivanov
+921	924	БНР	БНР	PRO	ORG-Bulgarian-National-Radio
+1012	1021	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+1047	1056	българите	българи	PER	GPE-Bulgaria
+1390	1393	БНР	БНР	PRO	ORG-Bulgarian-National-Radio
+1394	1412	Величка Божерикова	Величка Божерикова	PER	PER-Velichka-Bozherikova
+1799	1805	Иванов	Иванов	PER	PER-Mircho-Ivanov
+1825	1830	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+1864	1871	българи	българи	PER	GPE-Bulgaria
+1966	1976	Дунав мост	Дунав мост	LOC	LOC-Dunav-Bridge
+2222	2229	Букурещ	Букурещ	LOC	GPE-Bucharest
+2289	2296	Букурещ	Букурещ	LOC	GPE-Bucharest
+2381	2388	българи	българи	PER	GPE-Bulgaria
+2606	2613	Букурещ	Букурещ	LOC	GPE-Bucharest

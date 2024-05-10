@@ -1,0 +1,13 @@
+47	50	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+93	105	koronawirusa	koronawirus	EVT	EVT-Covid-19
+108	114	Polsce	Polska	LOC	GPE-Poland
+302	314	szpitalu WUM	szpital WUM	LOC	LOC-Medical-Hospital-Warsaw-Medical-University
+383	420	Warszawskiego Uniwersytetu Medycznego	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+427	443	Zbigniew Gaciong	Zbigniew Gaciong	PER	PER-Zbigniew-Gaciong
+490	493	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+540	554	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+676	684	COVID-19	COVID-19	EVT	EVT-Covid-19
+707	721	Krystyna Janda	Krystyna Janda	PER	PER-Krystyna-Janda
+724	737	Leszek Miller	Leszek Miller	PER	PER-Leszek-Miller
+749	775	Narodowy Program Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+934	941	Polaków	Polacy	PER	GPE-Poland

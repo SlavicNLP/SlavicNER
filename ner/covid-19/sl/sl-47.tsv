@@ -1,0 +1,32 @@
+36	42	Pfizer	Pfizer	ORG	ORG-Pfizer
+94	103	covidu-19	covid-19	EVT	EVT-Covid-19
+134	140	Pfizer	Pfizer	ORG	ORG-Pfizer
+218	242	koronavirusni bolezni 19	koronavirusna bolezen 19	EVT	EVT-Covid-19
+393	401	BioNTech	BioNTech	ORG	ORG-BioNTech
+476	495	Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+528	536	Pfizerja	Pfizer	ORG	ORG-Pfizer
+903	923	Wall Street Journala	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+963	977	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+979	981	DW	DW	PRO	PRO-Deutsche-Welle
+992	1000	Pfizerja	Pfizer	ORG	ORG-Pfizer
+1004	1013	BioNTecha	BioNTech	ORG	ORG-BioNTech
+1100	1120	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+1124	1132	Bahrajnu	Bahrajn	LOC	GPE-Kingdom-of-Bahrain
+1135	1164	Evropska agencija za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+1166	1169	Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+1231	1233	EU	EU	ORG	ORG-European-Union
+1246	1255	Slovenijo	Slovenija	LOC	GPE-Slovenia
+1327	1336	covidu-19	covid-19	EVT	EVT-Covid-19
+1435	1438	Emi	Ema	ORG	ORG-EMA-European-Medicines-Agency
+1560	1568	Pfizerja	Pfizer	ORG	ORG-Pfizer
+1572	1581	BioNTecha	BioNTech	ORG	ORG-BioNTech
+1625	1632	Moderna	Moderna	ORG	ORG-Moderna
+1672	1683	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1687	1705	oxfordska univerza	oxfordska univerza	ORG	ORG-University-of-Oxford
+1757	1765	Pfizerja	Pfizer	ORG	ORG-Pfizer
+1769	1778	BioNTecha	BioNTech	ORG	ORG-BioNTech
+1782	1785	Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+1836	1845	Modernino	Moderna	ORG	ORG-Moderna
+1871	1878	Moderna	Moderna	ORG	ORG-Moderna
+1997	2006	covidu-19	covid-19	EVT	EVT-Covid-19
+2049	2052	ZDA	ZDA	LOC	GPE-USA

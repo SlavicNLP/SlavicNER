@@ -1,0 +1,33 @@
+0	4	Туск	Туск	PER	PER-Donald-Tusk
+29	35	Brexit	Brexit	EVT	EVT-Brexit
+51	59	Джонсона	Джонсон	PER	PER-Boris-Johnson
+74	93	Европейского Совета	Европейский Совет	ORG	ORG-European-Council
+94	106	Дональт Туск	Дональт Туск	PER	PER-Donald-Tusk
+149	163	Великобритании	Великобритания	LOC	GPE-Great-Britain
+175	184	Евросоюза	Евросоюз	ORG	ORG-European-Union
+251	257	Brexit	Brexit	EVT	EVT-Brexit
+258	271	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+280	283	МИД	МИД	ORG	ORG-Foreign-Office
+284	299	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+417	423	Brexit	Brexit	EVT	EVT-Brexit
+434	441	Дэвисом	Дэвис	PER	PER-David-Davis
+444	453	Джонсоном	Джонсон	PER	PER-Boris-Johnson
+480	484	Туск	Туск	PER	PER-Donald-Tusk
+493	500	Twitter	Twitter	PRO	PRO-Twitter
+554	562	Британии	Британия	LOC	GPE-Great-Britain
+566	568	ЕС	ЕС	ORG	ORG-European-Union
+606	630	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+631	641	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+667	696	внешнеполитического ведомства	внешнеполитическое ведомство	ORG	ORG-Foreign-Office
+704	716	Борис Донсон	Борис Донсон	PER	PER-Boris-Johnson
+776	782	Brexit	Brexit	EVT	EVT-Brexit
+824	827	Мэй	Мэй	PER	PER-Theresa-May
+893	899	Brexit	Brexit	EVT	EVT-Brexit
+900	911	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+999	1009	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+1086	1094	Британия	Британия	LOC	GPE-Great-Britain
+1129	1131	ЕС	ЕС	ORG	ORG-European-Union
+1176	1179	ВТО	ВТО	ORG	ORG-WTO-World-Trade-Organization
+1191	1201	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1256	1262	Brexit	Brexit	EVT	EVT-Brexit
+1305	1315	Евросоюзом	Евросоюз	ORG	ORG-European-Union

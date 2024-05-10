@@ -1,0 +1,36 @@
+19	23	Киев	Киев	LOC	GPE-Kiev
+35	44	Евросоюзу	Евросоюз	ORG	ORG-European-Union
+67	83	Герхарда Шрёдера	Герхард Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+102	110	Германии	Германия	LOC	GPE-Germany
+129	133	МИДа	МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Ukraine
+153	158	Бильд	Бильд	PRO	PRO-Bild
+188	194	Путина	Путин	PER	PER-Vladimir-Putin
+253	269	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+314	321	Украины	Украина	LOC	GPE-Ukraine
+323	337	Герхард Шрёдер	Герхард Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+386	392	Путина	Путин	PER	PER-Vladimir-Putin
+415	428	Павел Климкин	Павел Климкин	PER	PER-Pavlo-Klimkin
+483	491	Евросоюз	Евросоюз	ORG	ORG-European-Union
+517	521	МИДа	МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Ukraine
+522	529	Украины	Украина	LOC	GPE-Ukraine
+557	561	Bild	Bild	PRO	PRO-Bild
+616	622	Путина	Путин	PER	PER-Vladimir-Putin
+656	662	Шрёдер	Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+740	750	Норд Стрим	Норд Стрим	ORG	ORG-Nord-Stream-AG
+787	801	Северный поток	Северный поток	PRO	PRO-Nord-Stream-2
+813	821	Германию	Германия	LOC	GPE-Germany
+834	840	России	Россия	LOC	GPE-Russia
+896	909	Nord Stream 2	Nord Stream 2	ORG	ORG-Eustream
+912	920	Роснефти	Роснефть	ORG	ORG-Rosneft
+936	945	Ведомости	Ведомости	PRO	PRO-Vedomosti
+1006	1012	Сечина	Сечин	PER	PER-Igor-Sechin
+1014	1033	Wall Street Journal	Wall Street Journal	ORG	ORG-Downing-Street
+1055	1062	Шрёдеру	Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+1222	1228	Шрёдер	Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+1237	1245	Роснефть	Роснефть	ORG	ORG-Rosneft
+1289	1296	Москвой	Москва	LOC	GPE-Moscow
+1299	1307	Берлином	Берлин	LOC	GPE-Berlin
+1343	1351	Германии	Германия	LOC	GPE-Germany
+1377	1380	США	США	LOC	GPE-USA
+1383	1392	Евросоюзу	Евросоюз	ORG	ORG-European-Union
+1417	1423	России	Россия	LOC	GPE-Russia

@@ -1,0 +1,72 @@
+42	48	Brexit	Brexit	EVT	EVT-Brexit
+90	118	правительство Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government
+192	210	Европейского союза	Европейский союз	ORG	ORG-European-Union
+243	254	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+323	331	Брекзита	Брекзит	EVT	EVT-Brexit
+374	385	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+405	413	Брекзита	Брекзит	EVT	EVT-Brexit
+440	442	ЕС	ЕС	ORG	ORG-European-Union
+481	494	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+532	546	Великобритании	Великобритания	LOC	GPE-Great-Britain
+550	568	Европейского союза	Европейский союз	ORG	ORG-European-Union
+625	632	Чекерсе	Чекерс	LOC	LOC-Chequers-Court
+722	730	Брекзита	Брекзит	EVT	EVT-Brexit
+742	745	Мэй	Мэй	PER	PER-Theresa-May
+988	1002	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1022	1024	ЕС	ЕС	ORG	ORG-European-Union
+1046	1048	ЕС	ЕС	ORG	ORG-European-Union
+1237	1252	Великобританией	Великобритания	LOC	GPE-Great-Britain
+1255	1257	ЕС	ЕС	ORG	ORG-European-Union
+1468	1476	Британии	Британия	LOC	GPE-Great-Britain
+1479	1481	ЕС	ЕС	ORG	ORG-European-Union
+1569	1577	Брекзита	Брекзит	EVT	EVT-Brexit
+1623	1632	Ирландией	Ирландия	LOC	GPE-Ireland
+1671	1685	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1688	1690	ЕС	ЕС	ORG	ORG-European-Union
+1704	1712	Ирландия	Ирландия	LOC	GPE-Ireland
+1807	1821	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1841	1858	Европейского суда	Европейский суд	ORG	ORG-European-Court-of-Justice
+1960	1968	Брекзита	Брекзит	EVT	EVT-Brexit
+2038	2049	референдуме	референдум	EVT	EVT-Brexit-Referendum
+2077	2079	ЕС	ЕС	ORG	ORG-European-Union
+2082	2093	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+2143	2154	референдума	референдум	EVT	EVT-Brexit-Referendum
+2192	2194	ЕС	ЕС	ORG	ORG-European-Union
+2222	2225	Мэй	Мэй	PER	PER-Theresa-May
+2409	2416	Лондоне	Лондон	LOC	GPE-London
+2418	2431	Даунинг стрит	Даунинг стрит	LOC	LOC-Downing-Street
+2636	2647	референдума	референдум	EVT	EVT-Brexit-Referendum
+2673	2688	таможенный союз	таможенный союз	ORG	ORG-European-Union-Customs-Union
+2916	2925	Брекзитом	Брекзит	EVT	EVT-Brexit
+3013	3015	ЕС	ЕС	ORG	ORG-European-Union
+3531	3542	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+3545	3555	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+3634	3639	Дэвид	Дэвид	PER	PER-David-Davis
+3763	3771	Брекзита	Брекзит	EVT	EVT-Brexit
+3829	3842	консерваторов	консерваторы	PER	ORG-Conservative-and-Unionist-Party-UK
+3868	3879	референдума	референдум	EVT	EVT-Brexit-Referendum
+4054	4056	ЕС	ЕС	ORG	ORG-European-Union
+4067	4090	Соединенное Королевство	Соединенное Королевство	LOC	GPE-Great-Britain
+4115	4117	ЕС	ЕС	ORG	ORG-European-Union
+4404	4417	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+4454	4462	Брекзита	Брекзит	EVT	EVT-Brexit
+4521	4528	Джонсон	Джонсон	PER	PER-Boris-Johnson
+4585	4598	консерваторов	консерваторы	PER	ORG-Conservative-and-Unionist-Party-UK
+4635	4638	Мэй	Мэй	PER	PER-Theresa-May
+4678	4686	Брекзита	Брекзит	EVT	EVT-Brexit
+4687	4701	Найджел Фарадж	Найджел Фарадж	PER	PER-Nigel-Farage
+4712	4720	твиттере	твиттер	PRO	PRO-Twitter
+4730	4743	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+4794	4804	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+4820	4827	Брекзит	Брекзит	EVT	EVT-Brexit
+4905	4911	Brexit	Brexit	EVT	EVT-Brexit
+4929	4941	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+4985	4998	консерваторов	консерваторы	PER	ORG-Conservative-and-Unionist-Party-UK
+5120	5123	Мэй	Мэй	PER	PER-Theresa-May
+5280	5299	Европейского совета	Европейский совет	ORG	ORG-European-Council
+5300	5312	Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+5339	5345	Дэвиса	Дэвис	PER	PER-David-Davis
+5348	5356	Джонсона	Джонсон	PER	PER-Boris-Johnson
+5472	5480	Брекзита	Брекзит	EVT	EVT-Brexit
+5498	5505	Дэвисом	Дэвис	PER	PER-David-Davis
+5508	5517	Джонсоном	Джонсон	PER	PER-Boris-Johnson

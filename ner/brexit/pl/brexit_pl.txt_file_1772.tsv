@@ -1,0 +1,35 @@
+28	35	Brexitu	Brexit	EVT	EVT-Brexit
+58	71	Arrona Banksa	Arron Banks	PER	PER-Arron-Banks
+125	137	The Observer	The Observer	PRO	PRO-The-Observer
+140	145	Banks	Banks	PER	PER-Arron-Banks
+193	199	Moskwą	Moskwa	LOC	GPE-Moscow
+260	265	Rosji	Rosja	LOC	GPE-Russia
+403	411	Londynie	Londyn	LOC	GPE-London
+412	432	Aleksandr Jakowienko	Aleksandr Jakowienko	PER	PER-Aleksander-Jakowienko
+462	469	Banksem	Banks	PER	PER-Arron-Banks
+487	502	Andrew Wigmorem	Andrew Wigmore	PER	PER-Andrew-Brunson
+560	568	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+628	632	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+633	645	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+647	652	Banks	Banks	PER	PER-Arron-Banks
+774	784	Jakowienko	Jakowienko	PER	PER-Aleksander-Jakowienko
+817	824	Brexitu	Brexit	EVT	EVT-Brexit
+1222	1233	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1258	1267	Twitterze	Twitter	PRO	PRO-Twitter
+1268	1273	Banks	Banks	PER	PER-Arron-Banks
+1370	1379	Rosjanami	Rosjanie	PER	GPE-Russia
+1459	1466	Faragem	Farage	PER	PER-Nigel-Farage
+1480	1483	USA	USA	LOC	GPE-USA
+1515	1529	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1576	1593	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1596	1613	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1698	1705	Brexitu	Brexit	EVT	EVT-Brexit
+1767	1784	Sankt Petersburga	Sankt Petersburg	LOC	GPE-Saint-Petersburg
+1873	1878	Banks	Banks	PER	PER-Arron-Banks
+1881	1888	Wigmore	Wigmore	PER	PER-Andy-Wigmore
+1913	1923	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+1953	1965	The Observer	The Observer	PRO	PRO-The-Observer
+2080	2096	Damiana Collinsa	Damian Collins	PER	PER-Damian-Collins
+2226	2233	Brexitu	Brexit	EVT	EVT-Brexit
+2238	2243	Rosja	Rosja	LOC	GPE-Russia
+2454	2465	Arron Banks	Arron Banks	PER	PER-Arron-Banks

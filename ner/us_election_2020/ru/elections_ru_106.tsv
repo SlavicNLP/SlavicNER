@@ -1,0 +1,125 @@
+0	7	Америка	Америка	LOC	GPE-USA
+100	115	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+188	194	Сенате	Сенат	ORG	ORG-United-States-Senate
+229	244	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+255	258	США	США	LOC	GPE-USA
+292	305	Республиканцы	Республиканцы	ORG	ORG-Republican-Party-USA
+308	317	демократы	демократ	ORG	ORG-Democratic-Party-USA
+371	382	Белого дома	Белый дом	ORG	ORG-The-White-House
+467	474	Америка	Америка	LOC	GPE-USA
+653	659	Трампа	Трам	PER	PER-Donald-Trump
+671	673	РФ	РФ	LOC	GPE-Russia
+675	683	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+716	732	штурма Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+734	740	Байден	Байден	PER	PER-Joe-Biden
+774	781	Госдепе	Госдеп	ORG	ORG-Department-of-State-USA
+835	857	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+913	916	США	США	LOC	GPE-USA
+919	932	Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+945	958	«досье Стила»	«досье Стила»	PRO	PRO-Steele-dossier
+988	994	Сенате	Сенат	ORG	ORG-United-States-Senate
+1053	1066	республиканец	республиканец	PER	ORG-Republican-Party-USA
+1067	1078	Линдси Грэм	Линдси Грэм	PER	PER-Lindsey-Graham
+1124	1134	демократов	демократ	PER	ORG-Democratic-Party-USA
+1321	1324	ФБР	ФБР	ORG	ORG-FBI
+1350	1356	Трампа	Трам	PER	PER-Donald-Trump
+1359	1366	Россией	Россия	LOC	GPE-Russia
+1423	1442	Crossfire Hurricane	Crossfire Hurricane	EVT	EVT-Crossfire-Hurricane
+1480	1495	Роберта Мюллера	Роберт Мюллер	PER	Роберт Мюллер
+1542	1553	выборы 2016	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+1562	1564	РФ	РФ	LOC	GPE-Russia
+1588	1594	Москва	Москва	LOC	GPE-Moscow
+1619	1626	Трампом	Трамп	PER	PER-Donald-Trump
+1635	1639	Грэм	Линдси Грэм	PER	PER-Lindsey-Graham
+1693	1712	Crossfire Hurricane	Crossfire Hurricane	EVT	EVT-Crossfire-Hurricane
+1737	1740	ФБР	ФБР	ORG	ORG-FBI
+1904	1910	Трампа	Трам	PER	PER-Donald-Trump
+1960	1965	Грэма	Грэм	PER	PER-Lindsey-Graham
+2024	2043	Crossfire Hurricane	Crossfire Hurricane	EVT	EVT-Crossfire-Hurricane
+2049	2062	«досье Стила»	«досье Стила»	PRO	PRO-Steele-dossier
+2102	2108	Трампа	Трамп	PER	PER-Donald-Trump
+2111	2118	Россией	Россия	LOC	GPE-Russia
+2148	2151	Mi6	Mi6	ORG	ORG-MI6
+2152	2170	Кристофером Стилом	Кристофер Стил	PER	PER-Christopher-Steele
+2227	2239	американских	американский	LOC	GPE-USA
+2341	2351	британских	британские	LOC	GPE-Great-Britain
+2389	2394	Стила	Стил	PER	PER-Christopher-Steele
+2569	2573	Грэм	Линдси Грэм	PER	PER-Lindsey-Graham
+2581	2600	Crossfire Hurricane	Crossfire Hurricane	EVT	EVT-Crossfire-Hurricane
+2623	2626	ФБР	ФБР	ORG	ORG-FBI
+2629	2636	Минюста	Минюст	ORG	ORG-Ministry-of-Justice-Russia
+2862	2870	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+2895	2911	штурма Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+2943	2964	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+3371	3380	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+3423	3449	Института США и Канады РАН	Институт США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAS
+3450	3469	Владимира Васильева	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+3697	3705	«антифа»	антифа	ORG	ORG-Antifa-USA
+3708	3711	BLM	BLM	ORG	ORG-Black-Lives-Matter
+3730	3738	Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+3824	3830	Трампу	Трамп	PER	PER-Donald-Trump
+4096	4105	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+4137	4145	Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+4246	4252	Трампу	Трамп	PER	PER-Donald-Trump
+4284	4292	Байденом	Байден	PER	PER-Joe-Biden
+4314	4323	демократы	демократ	PER	ORG-Democratic-Party-USA
+4398	4404	Сенате	Сенат	ORG	ORG-United-States-Senate
+4447	4459	Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+4592	4598	Трампа	Трамп	PER	PER-Donald-Trump
+4648	4655	Байдена	Байден	PER	PER-Joe-Biden
+4753	4760	Госдепе	Госдеп	ORG	ORG-Department-of-State-USA
+4824	4839	Викторию Нуланд	Виктория Нуланд	PER	PER-Victoria-Nuland
+4859	4871	Венди Шерман	Венди Шерман	PER	PER-Wendy-Sherman
+4914	4930	Брайана Маккеона	Брайан Маккеон	PER	PER-Brian-McKeon
+4993	5007	Бонни Дженкинс	Бонни Дженкинс	PER	PER-Bonnie-Jenkins
+5011	5017	Байден	Байден	PER	PER-Joe-Biden
+5094	5106	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+5109	5123	Билла Клинтона	Бил Клинтон	PER	PER-Bill-Clinton
+5198	5209	Белого дома	Белый дом	ORG	ORG-The-White-House
+5311	5321	демократов	демократ	PER	ORG-Democratic-Party-USA
+5327	5333	России	Россия	LOC	GPE-Russia
+5371	5377	Нуланд	Нуланд	PER	PER-Victoria-Nuland
+5383	5388	Обаме	Барак Обама	PER	PER-Barack-Obama
+5478	5484	Европы	Европа	LOC	LOC-Europe
+5487	5494	Евразии	Евразия	LOC	LOC-Eurasia
+5614	5620	России	Россия	LOC	GPE-Russia
+5621	5627	Нуланд	Нуланд	PER	PER-Victoria-Nuland
+5717	5722	Обамы	Барак Обама	PER	PER-Barack-Obama
+5728	5735	Байдене	Джо Байден	PER	PER-Joe-Biden
+5738	5760	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+5794	5803	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+5831	5845	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+5891	5896	Сенат	Сенат	ORG	ORG-United-States-Senate
+5970	5980	демократов	демократ	PER	ORG-Democratic-Party-USA
+6002	6024	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+6093	6101	Байденом	Байден	PER	PER-Joe-Biden
+6343	6352	Белый дом	Белый дом	ORG	ORG-The-White-House
+6373	6399	бюджетным комитетом Сената	бюджетный комитет Сената	ORG	ORG-Unites-States-Committee-on-the-Budget
+6478	6486	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+6562	6575	Берни Сандерс	Берни Сандерс	PER	PER-Bernie-Sanders
+6586	6593	Байдена	Байден	PER	PER-Joe-Biden
+6730	6735	Трамп	Трамп	PER	PER-Donald-Trump
+6792	6798	Байден	Байден	PER	PER-Joe-Biden
+7003	7009	Байден	Байден	PER	PER-Joe-Biden
+7146	7161	республиканцами	республиканцы	PER	ORG-Republican-Party-USA
+7347	7358	американцам	американцы	LOC	GPE-USA
+7528	7533	Трамп	Трамп	PER	PER-Donald-Trump
+7551	7558	Сандерс	Сандерс	PER	PER-Bernie-Sanders
+7634	7641	Байдену	Байден	PER	PER-Joe-Biden
+7715	7736	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+7737	7762	Александрия Окасио-Кортес	Александрия Окасио-Кортес	PER	PER-Alexandria-Ocasio-Cortez
+7806	7821	Washington Post	Washington Post	PRO	PRO-Washington-Post
+7823	7830	Сандерс	Сандерс	PER	PER-Bernie-Sanders
+7965	7971	Байден	Байден	PER	PER-Joe-Biden
+8013	8026	Республиканка	республиканка	PER	ORG-Republican-Party-USA
+8033	8054	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+8055	8075	Марджори Тейлор Грин	Марджори Тейлор Грин	PER	PER-Marjorie-Taylor-Greene
+8193	8200	Newsmax	Newsmax	PRO	PRO-Newsmax
+8202	8206	Грин	Грин	PER	PER-Marjorie-Taylor-Greene
+8264	8267	США	США	LOC	GPE-USA
+8361	8370	китайских	китайский	LOC	GPE-China
+8373	8383	украинских	украинский	LOC	GPE-Ukraine
+8526	8541	Хантера Байдена	Хантер Байден	PER	PER-Hunter-Biden
+8543	8547	Грин	Грин	PER	PER-Marjorie-Taylor-Greene
+8692	8705	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+8807	8813	Трампа	Трамп	PER	PER-Donald-Trump

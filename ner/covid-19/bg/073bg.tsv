@@ -1,0 +1,119 @@
+8	10	ЕС	ЕС	ORG	ORG-European-Union
+149	164	институт „Рего“	"Институт ""Рего"""	ORG	ORG-Institute-Rego
+166	185	Пандемията Covid-19	пандемия Covid-19	EVT	EVT-Pandemic
+415	421	Европа	Европа	LOC	LOC-Europe
+477	494	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+642	657	институт „Рего“	"Институт ""Рего"""	ORG	ORG-Institute-Rego
+707	709	ЕС	ЕС	ORG	ORG-European-Union
+945	953	Covid-19	COVID-19	EVT	EVT-Covid-19
+1035	1037	ЕС	ЕС	ORG	ORG-European-Union
+1243	1247	Рего	Рего	ORG	ORG-Institute-Rego
+1303	1316	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+1368	1370	ЕС	ЕС	ORG	ORG-European-Union
+1490	1496	Европа	Европа	LOC	LOC-Europe
+1551	1573	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+1935	1939	Рего	Рего	ORG	ORG-Institute-Rego
+1943	1951	Covid-19	COVID-19	EVT	EVT-Covid-19
+1985	1987	ЕС	ЕС	ORG	ORG-European-Union
+2250	2258	България	България	LOC	GPE-Bulgaria
+2260	2267	Франция	Франция	LOC	GPE-France
+2269	2278	Финландия	Финландия	LOC	GPE-Finland
+2281	2287	Италия	Италия	LOC	GPE-Italy
+2331	2345	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2416	2422	Швеция	Швеция	LOC	GPE-Sweden
+2759	2763	Рего	Рего	ORG	ORG-Institute-Rego
+2913	2915	ЕС	ЕС	ORG	ORG-European-Union
+2998	3003	Съюза	Съюз	ORG	ORG-European-Union
+3412	3414	ЕС	ЕС	ORG	ORG-European-Union
+3492	3497	Съюза	Съюз	ORG	ORG-European-Union
+3573	3582	Комисията	Комисия	ORG	ORG-European-Commission
+3824	3832	Covid-19	COVID-19	EVT	EVT-Covid-19
+3835	3841	Европа	Европа	LOC	LOC-Europe
+4161	4177	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+4365	4369	Рего	Рего	ORG	ORG-Institute-Rego
+4411	4433	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+4559	4575	Кохезионния фонд	Кохезионен фонд	PRO	PRO-Cohesion-Fund
+4789	4797	България	България	LOC	GPE-Bulgaria
+5116	5152	Механизма за гражданска защита на ЕС	Механизъм за гражданска защита на ЕС	PRO	PRO-EU-Civil-Protection-Mechanism
+5169	5178	европейци	европейци	PER	LOC-Europe
+5291	5293	ЕС	ЕС	ORG	ORG-European-Union
+5318	5338	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+5384	5400	NextGenerationEU	Next Generation EU	PRO	PRO-Next-Generation-EU
+5454	5462	Covid-19	COVID-19	EVT	EVT-Covid-19
+5516	5518	ЕС	ЕС	ORG	ORG-European-Union
+5667	5711	Национален план за възстановяване и развитие	Национален план за възстановяване и развитие	PRO	PRO-Plan-for-National-Recovery-and-Development
+5777	5779	ЕК	ЕК	ORG	ORG-European-Commission
+6234	6240	Европа	Европа	LOC	LOC-Europe
+6246	6254	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+6352	6388	Европейска инвестиционна банка (ЕИБ)	Европейска инвестиционна банка (ЕИБ)	ORG	ORG-European-Investment-Bank
+6391	6432	Европейския механизъм за стабилност (ЕМС)	Европейски механизъм за стабилност (ЕМС)	ORG	ORG-European-Stability-Mechanism
+6502	6510	България	България	LOC	GPE-Bulgaria
+6664	6666	ЕС	ЕС	ORG	ORG-European-Union
+6717	6734	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+6793	6800	Унгария	Унгария	LOC	GPE-Hungary
+6803	6808	Полша	Полша	LOC	GPE-Poland
+6848	6850	ЕС	ЕС	ORG	ORG-European-Union
+6907	6909	ЕС	ЕС	ORG	ORG-European-Union
+6995	7000	Съюза	Съюз	ORG	ORG-European-Union
+7552	7554	ЕС	ЕС	ORG	ORG-European-Union
+7570	7578	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+7782	7784	ЕС	ЕС	ORG	ORG-European-Union
+7801	7811	Re-open EU	Re-open EU	PRO	PRO-Re-open-EU
+7826	7828	ЕС	ЕС	ORG	ORG-European-Union
+7991	8011	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+8186	8188	ЕС	ЕС	ORG	ORG-European-Union
+8253	8261	Covid-19	COVID-19	EVT	EVT-Covid-19
+8367	8369	ЕС	ЕС	ORG	ORG-European-Union
+8463	8469	Европа	Европа	LOC	LOC-Europe
+8543	8547	Рего	Рего	ORG	ORG-Institute-Rego
+8576	8596	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+8897	8899	ЕС	ЕС	ORG	ORG-European-Union
+8983	9018	Европейската агенция по лекарствата	Европейска агенция по лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+9087	9089	ЕС	ЕС	ORG	ORG-European-Union
+9231	9237	Коледа	Коледа	EVT	EVT-Christmas
+9294	9296	ЕС	ЕС	ORG	ORG-European-Union
+9307	9311	Рего	Рего	ORG	ORG-Institute-Rego
+9572	9577	Съюза	Съюз	ORG	ORG-European-Union
+9701	9709	Германия	Германия	LOC	GPE-Germany
+9711	9717	Швеция	Швеция	LOC	GPE-Sweden
+9719	9724	Дания	Дания	LOC	GPE-Denmark
+9726	9740	Великобритания	Великобритания	LOC	GPE-Great-Britain
+9742	9750	Ирландия	Ирландия	LOC	GPE-Ireland
+9752	9759	Франция	Франция	LOC	GPE-France
+9820	9829	Финландия	Финландия	LOC	GPE-Finland
+9831	9838	Румъния	Румъния	LOC	GPE-Romania
+9840	9845	Полша	Полша	LOC	GPE-Poland
+9847	9854	Унгария	Унгария	LOC	GPE-Hungary
+9856	9866	Люксембург	Люксембург	LOC	GPE-Luxembourg
+9868	9873	Малта	Малта	LOC	GPE-Malta
+9875	9883	Словения	Словения	LOC	GPE-Slovenia
+9942	9950	Холандия	Холандия	LOC	GPE-Holland
+10121	10127	Европа	Европа	LOC	LOC-Europe
+10193	10205	коронавируса	коронавирус	EVT	EVT-Covid-19
+10211	10220	Шотландия	Шотландия	LOC	GPE-Scotland
+10224	10231	Румъния	Румъния	LOC	GPE-Romania
+10431	10437	Гърция	Гърция	LOC	GPE-Greece
+10508	10513	Чехия	Чехия	LOC	GPE-Czech-Republic
+10528	10535	Румъния	Румъния	LOC	GPE-Romania
+10646	10653	Австрия	Австрия	LOC	GPE-Austria
+10655	10663	Словакия	Словакия	LOC	GPE-Slovakia
+10665	10673	България	България	LOC	GPE-Bulgaria
+10719	10727	Германия	Германия	LOC	GPE-Germany
+10786	10791	Ковид	КОВИД-19	EVT	EVT-Covid-19
+10803	10808	Малта	Малта	LOC	GPE-Malta
+10905	10913	Холандия	Холандия	LOC	GPE-Holland
+11107	11112	Малта	Малта	LOC	GPE-Malta
+11178	11180	ЕС	ЕС	ORG	ORG-European-Union
+11483	11487	Рего	Рего	ORG	ORG-Institute-Rego
+11666	11683	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+11929	11931	ЕС	ЕС	ORG	ORG-European-Union
+12117	12124	Унгария	Унгария	LOC	GPE-Hungary
+12125	12130	Полша	Полша	LOC	GPE-Poland
+12190	12196	Европа	Европа	LOC	LOC-Europe
+12464	12466	ЕС	ЕС	ORG	ORG-European-Union
+12841	12846	Съюза	Съюз	ORG	ORG-European-Union
+12966	12972	Италия	Италия	LOC	GPE-Italy
+13109	13117	България	България	LOC	GPE-Bulgaria
+13119	13126	Испания	Испания	LOC	GPE-Spain
+13216	13218	ЕС	ЕС	ORG	ORG-European-Union
+13376	13380	Рего	Рего	ORG	ORG-Institute-Rego

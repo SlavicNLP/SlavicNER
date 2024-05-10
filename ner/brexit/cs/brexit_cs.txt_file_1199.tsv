@@ -1,0 +1,18 @@
+0	6	Airbus	Airbus	ORG	ORG-Airbus-SE
+33	40	brexitu	brexit	EVT	EVT-Brexit
+50	58	Británie	Británie	LOC	GPE-Great-Britain
+90	104	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+333	340	Airbusu	Airbus	ORG	ORG-Airbus-SE
+362	374	Tom Williams	Tom Williams	PER	PER-Tom-Williams
+405	412	brexitu	brexit	EVT	EVT-Brexit
+452	460	Británii	Británie	LOC	GPE-Great-Britain
+550	562	Airbus Group	Airbus Group	ORG	ORG-Aribus-Group
+705	712	A320neo	A320neo	PRO	PRO-Airbus-A320-Neo
+955	959	A380	A380	PRO	PRO-Airbus-A380
+973	978	A400M	A400M	PRO	PRO-Airbus-A400M
+1036	1043	Francii	Francie	LOC	GPE-France
+1045	1052	Německu	Německo	LOC	GPE-Germany
+1054	1062	Británii	Británie	LOC	GPE-Great-Britain
+1065	1074	Španělsku	Španělsko	LOC	GPE-Spain
+1096	1100	A380	A380	PRO	PRO-Airbus-A380
+1227	1233	Airbus	Airbus	ORG	ORG-Airbus-SE

@@ -1,0 +1,38 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+31	42	коронавирус	коронавирус	EVT	EVT-Covid-19
+147	149	ЕК	ЕК	ORG	ORG-European-Commission
+151	171	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+202	207	ковид	КОВИД-19	EVT	EVT-Covid-19
+210	212	ЕС	ЕС	ORG	ORG-European-Union
+347	382	Европейската агенция по лекарствата	Европейска агенция по лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+412	415	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+575	577	ЕК	ЕК	ORG	ORG-European-Commission
+661	663	ЕС	ЕС	ORG	ORG-European-Union
+758	778	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+779	799	Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+925	934	Комисията	Комисия	ORG	ORG-European-Commission
+1063	1070	Novavax	Novavax	ORG	ORG-Novavax
+1182	1184	ЕК	ЕК	ORG	ORG-European-Commission
+1256	1261	ковид	КОВИД-19	EVT	EVT-Covid-19
+1313	1326	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+1376	1388	коронавируса	коронавирус	EVT	EVT-Covid-19
+1515	1527	коронавируса	коронавирус	EVT	EVT-Covid-19
+1597	1603	Меркел	Меркел	PER	PER-Angela-Merkel
+1656	1664	BioNTech	BioNTech	ORG	ORG-BioNTech
+1731	1737	Pfizer	Pfizer	ORG	ORG-Pfizer
+1763	1773	Угур Шахин	Угур Шахин	PER	PER-Ugur-Sahin
+1776	1790	Йозлем Тюреджи	Йозлем Тюреджи	PER	PER-Ozlem-Tureci
+1811	1819	BioNTech	BioNTech	ORG	ORG-BioNTech
+1821	1827	Меркел	Меркел	PER	PER-Angela-Merkel
+1872	1880	Германия	Германия	LOC	GPE-Germany
+1936	1945	Bloomberg	Bloomberg	PRO	PRO-Bloomberg
+2037	2048	коронавирус	коронавирус	EVT	EVT-Covid-19
+2052	2058	Pfizer	Pfizer	ORG	ORG-Pfizer
+2061	2069	BioNTech	BioNTech	ORG	ORG-BioNTech
+2153	2173	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+2392	2394	ЕС	ЕС	ORG	ORG-European-Union
+2515	2529	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2532	2535	САЩ	САЩ	LOC	GPE-USA
+2621	2623	ЕС	ЕС	ORG	ORG-European-Union
+2624	2632	Германия	Германия	LOC	GPE-Germany
+2646	2681	Европейската агенция по лекарствата	Европейска агенция по лекарствата	ORG	ORG-EMA-European-Medicines-Agency

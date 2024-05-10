@@ -1,0 +1,44 @@
+24	29	Трамп	Трамп	PER	PER-Donald-Trump
+54	57	США	США	LOC	GPE-USA
+93	98	Трамп	Трамп	PER	PER-Donald-Trump
+123	126	США	США	LOC	GPE-USA
+181	194	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+202	209	REUTERS	REUTERS	ORG	ORG-Reuters
+212	232	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+233	245	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+277	280	США	США	LOC	GPE-USA
+281	296	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+365	374	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+418	424	Трампа	Трамп	PER	PER-Donald-Trump
+548	571	Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+618	631	Радіо Свобода	Радіо Свобода	PRO	PRO-Radio-Free-Europe-Radio-Liberty
+649	662	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+784	804	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+832	838	Трампу	Трамп	PER	PER-Donald-Trump
+943	954	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+981	984	США	США	LOC	GPE-USA
+1063	1068	Сенат	Сенат	ORG	ORG-United-States-Senate
+1145	1156	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+1157	1168	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1207	1210	США	США	LOC	GPE-USA
+1211	1220	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1298	1313	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1362	1376	25-ю поправкою	25-а поправкою	PRO	PRO-25th-Amendment-to-the-United-States-Constitution
+1380	1391	конституції	конституція	PRO	PRO-The-USA-Constitution
+1418	1427	Новинарня	Новинарня	PRO	PRO-Novynarnia
+1485	1500	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1522	1531	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+1534	1544	парламенту	парламент	ORG	ORG-British-Parlament
+1545	1548	США	США	LOC	GPE-USA
+1553	1563	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+1587	1597	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1601	1623	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1777	1789	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+1811	1816	Трамп	Трамп	PER	PER-Donald-Trump
+1826	1836	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+1982	1991	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+2025	2035	парламенту	парламент	ORG	ORG-British-Parlament
+2119	2127	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+2568	2577	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+2589	2599	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+2661	2670	Капітолію	Капітолій	LOC	LOC-United-States-Capitol

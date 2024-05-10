@@ -1,0 +1,28 @@
+255	263	CFM56-7B	CFM56-7B	PRO	PRO-Motor CFM56-7B
+391	409	Southwest Airlines	Southwest Airlines	ORG	ORG-Southwest-Airlines
+425	434	New Yorka	New York	LOC	GPE-New-York
+448	455	Dallasa	Dallas	LOC	GPE-Dallas
+553	564	Filadelfiji	Filadelfija	LOC	GPE-Philadeplhia
+766	780	Robert Sumwalt	Robert Sumwalt	PER	PER-Robert-Sumwalt
+1203	1221	Southwest Airlines	Southwest Airlines	ORG	ORG-Southwest-Airlines
+1268	1285	CFM International	CFM International	ORG	ORG-CFM-International
+1383	1391	CFM56-7B	CFM56-7B	PRO	PRO-Motor CFM56-7B
+1420	1432	boeingih 737	boeing 737	PRO	PRO-Boeing-737
+1459	1467	CFM-jeva	CFM	ORG	ORG-CFM-International
+1522	1532	Southwestu	Southwest	ORG	ORG-Southwest-Airlines
+1661	1677	Jennifer Riordan	Jennifer Riordan	PER	PER-Jennifer-Riordan
+1681	1691	New Mexica	New Mexico	LOC	GPE-New-Mexico
+1998	2009	Filadelfije	Filadelfija	LOC	GPE-Philadelphia
+2013	2023	Riordanova	Riordan	PER	PER-Jennifer-Riordan
+2139	2149	Riordanova	Riordan	PER	PER-Jennifer-Riordan
+2202	2205	ZDA	ZDA	LOC	GPE-USA
+2242	2258	Tammie Jo Shults	Tammie Jo Shults	PER	PER-Tammy-Jo-Shults
+2380	2414	"Chesleyjem ""Sully"" Sullenbergerjem"	"Chesley ""Sully"" Sullenberger"	PER	PER-Chelsey-Sullenberger
+2444	2455	reki Hudson	reka Hudson	LOC	LOC-Hudson-river
+2690	2699	Southwest	Southwest	ORG	ORG-Southwest-Airlines
+2777	2784	Ryanair	Ryanair	ORG	ORG-Ryanair
+2901	2908	Ryanair	Ryanair	ORG	ORG-Ryanair
+3191	3196	Flybe	Flybe	ORG	ORG-Flybe
+3198	3202	Jet2	Jet2	ORG	ORG-Jet2
+3204	3224	Thomas Cook Airlines	Thomas Cook Airlines	ORG	ORG-Thomas-Cook-Airlines
+3228	3243	Virgin Atlantic	Virgin Atlantic	ORG	ORG-Virgin-Atlantic

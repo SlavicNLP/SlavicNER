@@ -1,0 +1,23 @@
+24	34	Буттіджедж	Буттіджедж	PER	PER-Peter-Buttigieg
+38	43	Стаєр	Стаєр	PER	PER-Tom-Steyer
+96	99	США	США	LOC	GPE-USA
+121	130	Саут-Бенд	Саут-Бенд	LOC	GPE-South-Bend
+154	161	Індіана	Індіана	LOC	GPE-Indiana
+162	176	Піт Буттіджедж	Піт Буттіджедж	PER	PER-Peter-Buttigieg
+190	199	Том Стаєр	Том Стаєр	PER	PER-Tom-Steyer
+251	271	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+275	297	виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+315	329	New York Times	New York Times	ORG	ORG-New-York-Times
+331	341	Буттіджедж	Буттіджедж	PER	PER-Peter-Buttigieg
+430	436	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+525	542	виборах 2020 року	вибори 2020 року	EVT	EVT-2020-United-States-Presidential-Election
+696	705	праймеріз	праймеріз	EVT	EVT-Democratic-Party-USA-primaries
+714	731	Південна Кароліна	Південна Кароліна	LOC	GPE-South-Carolina-US-State
+746	751	Стаєр	Стаєр	PER	PER-Tom-Steyer
+839	866	внутрішньопартійних виборах	внутрішньопартійні вибори	EVT	EVT-Democratic-Party-USA-primaries
+1062	1067	Стаєр	Стаєр	PER	PER-Tom-Steyer
+1086	1095	QHA media	QHA media	ORG	ORG-QHA-media
+1120	1123	США	США	LOC	GPE-USA
+1124	1134	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1146	1166	праймеріз демократів	праймеріз демократів	EVT	EVT-Democratic-Party-USA-primaries
+1169	1187	Південній Кароліні	Південна Кароліна	LOC	GPE-South-Carolina-US-State

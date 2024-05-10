@@ -1,0 +1,154 @@
+28	48	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+51	53	UE	UE	ORG	ORG-European-Union
+57	65	brexicie	Brexit	EVT	EVT-Brexit
+89	109	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+111	113	V4	V4	ORG	ORG-Visegrád-Group
+122	124	UE	UE	ORG	ORG-European-Union
+230	237	brexitu	Brexit	EVT	EVT-Brexit
+285	304	Christian Schweiger	Christian Schweiger	PER	PER-Christian-Schweiger
+317	408	katedrze Porównawczych Systemów Rządzenia w Europie na Uniwersytecie Technicznym w Chemnitz	Katedra Porównawczych Systemów Rządzenia w Europie na Uniwersytecie Technicznym w Chemnitz	ORG	ORG-Chair-of-Comparative-Management-Systems-in-Europe-at-Chemnitz-University-of-Technology
+424	433	Wyszehrad	Wyszehrad	LOC	GPE-Visegrad
+451	464	The Economist	The Economist	PRO	PRO-The-Economist
+485	490	Czech	Czechy	LOC	GPE-Czech-Republic
+492	498	Polski	Polska	LOC	GPE-Poland
+500	508	Słowacji	Słowacja	LOC	GPE-Slovakia
+511	517	Węgier	Węgry	LOC	GPE-Hungary
+579	586	Europie	Europa	LOC	LOC-Europe
+629	631	V4	V4	ORG	ORG-Visegrád-Group
+872	879	Niemcom	Niemcy	LOC	GPE-Germany
+914	920	Europy	Europa	LOC	LOC-Europe
+957	975	Grupę Wyszehradzką	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+1092	1109	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1139	1153	Viktora Orbána	Viktor Orbán	PER	PER-Viktor-Orban
+1205	1210	Węgry	Węgry	LOC	GPE-Hungary
+1223	1248	Europę Środkowo-Wschodnią	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+1268	1275	Zachodu	Zachód	LOC	LOC-West
+1425	1430	Orbán	Orbán	PER	PER-Viktor-Orban
+1448	1454	Węgier	Węgry	LOC	GPE-Hungary
+1638	1646	Brukseli	Bruksela	LOC	GPE-Brussles
+1773	1778	Węgry	Węgry	LOC	GPE-Hungary
+1824	1852	Europy Środkowo – Wschodniej	Europa Środkowo – Wschodnia	LOC	LOC-Central-Eastern-Europe
+1889	1903	Viktora Orbána	Viktor Orbán	PER	PER-Viktor-Orban
+1939	1962	Platformy Obywatelskiej	Platforma Obywatelska	ORG	ORG-PO-Civic-Platform
+1965	1971	Polsce	Polska	LOC	GPE-Poland
+2046	2054	Słowacji	Słowacja	LOC	GPE-Slovakia
+2087	2099	Roberta Fico	Robert Fico	PER	PER-Robert-Fico
+2138	2140	UE	UE	ORG	ORG-European-Union
+2163	2169	Czechy	Czechy	LOC	GPE-Czech-Republic
+2185	2202	Bohuslava Sobotkę	Bohuslav Sobotka	PER	PER-Bohuslav-Sobotka
+2252	2254	UE	UE	ORG	ORG-European-Union
+2333	2353	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+2427	2440	Angeli Merkel	Angela Merkel	PER	PER-Angela-Merkel
+2459	2461	V4	V4	ORG	ORG-Visegrád-Group
+2487	2493	Pradze	Praga	LOC	GPE-Prague
+2566	2568	UE	UE	ORG	ORG-European-Union
+2618	2622	Unią	Unia	ORG	ORG-European-Union
+2681	2690	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2701	2711	Wyszehradu	Wyszehrad	LOC	GPE-Visegrad
+2735	2756	Platforma Obywatelska	Platforma Obywatelska	ORG	ORG-PO-Civic-Platform
+2758	2768	Ewa Kopacz	Ewa Kopacz	PER	PER-Ewa-Kopacz
+2792	2798	Polska	Polska	LOC	GPE-Poland
+2863	2865	PO	PO	ORG	ORG-PO-Civic-Platform
+2906	2929	Prawa i Sprawiedliwości	Prawo i Sprawiedliwość	ORG	ORG-PiS-Law-and-Justice
+2969	2981	Beaty Szydło	Beata Szydło	PER	PER-Beata-Szydło
+2992	3014	Mateusza Morawieckiego	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+3054	3068	Viktora Orbána	Viktor Orbán	PER	PER-Viktor-Orban
+3201	3203	UE	UE	ORG	ORG-European-Union
+3255	3260	Orbán	Orbán	PER	PER-Viktor-Orban
+3311	3313	UE	UE	ORG	ORG-European-Union
+3327	3335	Czechach	Czechy	LOC	GPE-Czech-Republic
+3369	3381	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+3404	3407	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+3643	3649	Niemcy	Niemcy	LOC	GPE-Germany
+3701	3704	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+3756	3764	Słowacja	Słowacja	LOC	GPE-Slovakia
+3827	3838	Robert Fico	Robert Fico	PER	PER-Robert-Fico
+3933	3946	Angeli Merkel	Angela Merkel	PER	PER-Angela-Merkel
+3960	3964	SMER	SMER	ORG	ORG-SMER
+3995	4003	Słowację	Słowacja	LOC	GPE-Slovakia
+4149	4151	UE	UE	ORG	ORG-European-Union
+4176	4180	Fico	Fico	PER	PER-Robert-Fico
+4261	4269	Słowacja	Słowacja	LOC	GPE-Slovakia
+4425	4429	Fico	Fico	PER	PER-Robert-Fico
+4511	4523	Jana Kuciaka	Jan Kuciak	PER	PER-Jan-Kuciak
+4675	4695	Petera Pellegriniego	Peter Pellegrini	PER	PER-Peter-Pellegrini
+4713	4719	Europy	Europa	LOC	LOC-Europe
+4727	4729	V4	V4	ORG	ORG-Visegrád-Group
+4838	4840	UE	UE	ORG	ORG-European-Union
+4997	5015	Grupa Wyszehradzka	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+5106	5110	Unii	Unia	ORG	ORG-European-Union
+5296	5298	V4	V4	ORG	ORG-Visegrád-Group
+5301	5316	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+5344	5346	UE	UE	ORG	ORG-European-Union
+5466	5486	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+5625	5627	V4	V4	ORG	ORG-Visegrád-Group
+5688	5690	UE	UE	ORG	ORG-European-Union
+5762	5769	brexitu	Brexit	EVT	EVT-Brexit
+5788	5793	Grupa	Grupa	ORG	ORG-Visegrád-Group
+5884	5901	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+5904	5906	UE	UE	ORG	ORG-European-Union
+5972	5976	Unię	Unia	ORG	ORG-European-Union
+6077	6097	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+6131	6133	UE	UE	ORG	ORG-European-Union
+6157	6162	Grupa	Grupa	ORG	ORG-Visegrád-Group
+6284	6292	Wschodem	Wschód	LOC	LOC-East
+6305	6313	Zachodem	Zachód	LOC	LOC-West
+6372	6378	Polsce	Polska	LOC	GPE-Poland
+6384	6392	Węgrzech	Węgry	LOC	GPE-Hungary
+6409	6411	V4	V4	ORG	ORG-Visegrád-Group
+6468	6475	Zachodu	Zachód	LOC	LOC-West
+6483	6509	Europy Środkowo-Wschodniej	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+6625	6631	Berlin	Berlin	LOC	GPE-Berlin
+6634	6639	Paryż	Paryż	LOC	GPE-Paris
+6676	6683	brexitu	Brexit	EVT	EVT-Brexit
+6715	6736	Trójkąta Weimarskiego	Trójkąt Weimarski	ORG	ORG-Weimar-Triangle
+6739	6745	Polską	Polska	LOC	GPE-Poland
+6801	6803	V4	V4	ORG	ORG-Visegrád-Group
+6855	6862	Francją	Francja	LOC	GPE-France
+6864	6872	Niemcami	Niemcy	LOC	GPE-Germany
+6875	6881	Polską	Polska	LOC	GPE-Poland
+6948	6973	Europą Środkowo-Wschodnią	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+7014	7024	Heiko Maas	Heiko Maas	PER	PER-Heiko-Maas
+7123	7131	Zachodem	Zachód	LOC	LOC-West
+7134	7152	Środkowym Wschodem	Środkowy Wschód	LOC	LOC-Middle-East
+7179	7190	Der Spiegel	Der Spiegel	PRO	PRO-Der-Spiegel
+7258	7264	Europy	Europa	LOC	LOC-Europe
+7291	7293	UE	UE	ORG	ORG-European-Union
+7327	7334	Wschodu	Wschód	LOC	LOC-East
+7377	7383	Europa	Europa	LOC	LOC-Europe
+7462	7480	Grupa Wyszehradzka	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+7521	7527	Niemcy	Niemcy	LOC	GPE-Germany
+7609	7611	UE	UE	ORG	ORG-European-Union
+7642	7662	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+7704	7710	Europy	Europa	LOC	LOC-Europe
+7729	7736	Austrii	Austria	LOC	GPE-Austria
+7737	7751	Sebastian Kurz	Sebastian Kurz	PER	PER-Sebastian-Kurz
+7783	7790	brexitu	Brexit	EVT	EVT-Brexit
+7797	7823	Europy Środkowo Wschodniej	Europa Środkowo Wschodnia	LOC	LOC-Central-Eastern-Europe
+7875	7879	Unii	Unia	ORG	ORG-European-Union
+7965	7967	UE	UE	ORG	ORG-European-Union
+8025	8034	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+8089	8102	Angeli Merkel	Angela Merkel	PER	PER-Angela-Merkel
+8117	8134	Emmanuela Macrona	Emmanuel Macron	PER	PER-Emmanuel-Macron
+8210	8216	Berlin	Berlin	LOC	GPE-Berlin
+8333	8335	UE	UE	ORG	ORG-European-Union
+8343	8345	V4	V4	ORG	ORG-Visegrád-Group
+8416	8424	brexicie	Brexit	EVT	EVT-Brexit
+8425	8430	Grupa	Grupa	ORG	ORG-Visegrád-Group
+8500	8502	UE	UE	ORG	ORG-European-Union
+8521	8525	Unii	Unia	ORG	ORG-European-Union
+8528	8545	Bałkany Zachodnie	Bałkany Zachodnie	LOC	LOC-Western-Balkans
+8606	8612	Polsce	Polska	LOC	GPE-Poland
+8664	8671	Francją	Francja	LOC	GPE-France
+8674	8682	Niemcami	Niemcy	LOC	GPE-Germany
+8696	8722	Europy Środkowo-Wschodniej	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+8740	8761	Trójkąta Weimarskiego	Trójkąt Weimarski	ORG	ORG-Weimar-Triangle
+8764	8784	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+8787	8806	Christian Schweiger	Christian Schweiger	PER	PER-Christian-Schweiger
+8818	8885	Instytutu Nauk Politycznych na Uniwersytecie Technicznym w Chemnitz	Instytut Nauk Politycznych na Uniwersytecie Technicznym w Chemnitz	ORG	ORG-Institute-of-Political-Science-Chemnitz-University-of-Technology
+8888	8897	Niemczech	Niemcy	LOC	GPE-Germany
+9041	9058	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+9077	9094	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+9096	9103	Niemiec	Niemcy	LOC	GPE-Germany
+9113	9139	Europy Środkowo-Wschodniej	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+9199	9201	UE	UE	ORG	ORG-European-Union

@@ -1,0 +1,61 @@
+0	7	Webcafe	Webcafe	PRO	PRO-Webcafe.bg
+57	60	САЩ	САЩ	LOC	GPE-USA
+61	73	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+228	231	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+271	283	Савана Гудри	Савана Гудри	PER	PER-Savannah-Guthrie
+384	389	QAnon	QAnon	PRO	PRO-QAnon-theory
+400	405	Тръмп	Тръмп	PER	PER-Donald-Trump
+639	642	САЩ	САЩ	LOC	GPE-USA
+812	825	Ку-Клукс-Клан	Ку-Клукс-Клан	ORG	ORG-Ku-Klux-Klan
+916	919	ФБР	ФБР	ORG	ORG-FBI
+1021	1028	Мичиган	Мичиган	LOC	GPE-Michigan
+1031	1037	Орегон	Орегон	LOC	GPE-Oregon
+1129	1134	Тръмп	Тръмп	PER	PER-Donald-Trump
+1466	1471	Тръмп	Тръмп	PER	PER-Donald-Trump
+1714	1737	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+1770	1775	Тръмп	Тръмп	PER	PER-Donald-Trump
+1886	1895	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1898	1905	Холивуд	Холивуд	LOC	GPE-Hollywood
+2268	2277	Белия дом	Бял дом	LOC	LOC-White-House
+2300	2312	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2936	2941	QAnon	QAnon	PRO	PRO-QAnon-theory
+3217	3225	COVID-19	COVID-19	EVT	EVT-Covid-19
+3584	3606	Пазители на росомахата	Пазители на росомахата	ORG	ORG-Wolverine-Watchmen
+3665	3672	Мичиган	Мичиган	LOC	GPE-Michigan
+3673	3687	Гретчен Уитмър	Гретчен Уитмър	PER	PER-Gretchen-Whitmer
+3807	3812	Тръмп	Тръмп	PER	PER-Donald-Trump
+3835	3847	коронавируса	коронавирус	EVT	EVT-Covid-19
+3868	3875	Мичиган	Мичиган	LOC	GPE-Michigan
+4463	4481	Black Lives Matter	Black Lives Matter	ORG	ORG-Black-Lives-Matter
+4591	4603	коронавируса	коронавирус	EVT	EVT-Covid-19
+4997	5003	Кеноша	Кеноша	LOC	GPE-Kenosha
+5005	5014	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+5105	5108	BLM	BLM	ORG	ORG-Black-Lives-Matter
+5540	5556	Втората поправка	Втора поправка	PRO	PRO-Second-Amendment
+5559	5584	Американската конституция	Американска конституция	PRO	PRO-The-USA-Constitution
+5593	5605	американците	американци	PER	GPE-USA
+5806	5822	Втората поправка	Втора поправка	PRO	PRO-Second-Amendment
+5974	5986	Брайън Левин	Брайън Левин	PER	PER-Brian-Levin
+6013	6063	щатския университет на Калифорния в Сан Бернардино	щатски университет на Калифорния в Сан Бернардино	ORG	ORG-California-State-University-San-Bernardino
+6107	6112	Тръмп	Тръмп	PER	PER-Donald-Trump
+6635	6648	Горди момчета	Горди момчета	ORG	ORG-the-Proud-Boys
+6726	6732	Антифа	Антифа	ORG	ORG-Antifa-USA
+7004	7023	Доналд Тръмп-младши	Доналд Тръмп-младши	PER	PER-Donald-Trump-Jr.
+7143	7148	Тръмп	Тръмп	PER	PER-Donald-Trump
+7154	7162	Facebook	Facebook	PRO	PRO-Facebook
+7165	7172	Twitter	Twitter	PRO	PRO-Twitter
+7355	7364	Джош Елис	Джош Елис	PER	PER-Josh-Ellis
+7524	7529	Тръмп	Тръмп	PER	PER-Donald-Trump
+7599	7609	Калифорния	Калифорния	LOC	GPE-California
+7611	7617	Орегон	Орегон	LOC	GPE-Oregon
+7619	7628	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+7630	7641	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+7643	7651	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+7653	7666	Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+7668	7675	Индиана	Индиана	LOC	GPE-Indiana
+7677	7684	Кентъки	Кентъки	LOC	GPE-Kentucky
+7696	7712	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+7864	7879	Файненшъл таймс	Файненшъл таймс	PRO	PRO-Financial-Times
+7997	8002	Тръмп	Тръмп	PER	PER-Donald-Trump
+8004	8008	Елис	Елис	PER	PER-Josh-Ellis
+8254	8259	Тръмп	Тръмп	PER	PER-Donald-Trump

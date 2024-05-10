@@ -1,0 +1,17 @@
+2	8	Англии	Англии	LOC	GPE-Great-Britain
+35	41	Brexit	Brexit	EVT	EVT-Brexit
+50	56	Англии	Англия	LOC	GPE-Great-Britain
+92	98	Brexit	Brexit	EVT	EVT-Brexit
+116	121	Дэвис	Дэвис	PER	PER-David-Davis
+167	173	Brexit	Brexit	EVT	EVT-Brexit
+183	193	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+216	220	Рааб	Рааб	PER	PER-Dominic-Raab
+247	283	министерства жилищного строительства	министерство жилищного строительства	ORG	ORG-Ministry-of-Housing-Communities-and-Local
+352	358	Brexit	Brexit	EVT	EVT-Brexit
+359	365	Англия	Англия	LOC	GPE-Great-Britain
+496	501	Дэвис	Дэвис	PER	PER-David-Davis
+618	625	кабмина	кабмин	ORG	ORG-Cabinet-of-the-United-Kingdom
+627	631	Рабу	Раб	PER	PER-Dominic-Raab
+670	676	Англия	Англия	LOC	GPE-Great-Britain
+693	695	ЕС	ЕС	ORG	ORG-European-Union
+762	764	ЕС	ЕС	ORG	ORG-European-Union

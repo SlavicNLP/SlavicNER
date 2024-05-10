@@ -1,0 +1,35 @@
+2	5	США	США	LOC	GPE-USA
+57	75	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+83	86	США	США	LOC	GPE-USA
+89	97	Германии	Германия	LOC	GPE-Germany
+98	112	Ричард Гренелл	Ричард Гренелл	PER	PER-Richard-Grenell
+148	157	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+227	245	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+456	463	Гренелл	Гренелл	PER	PER-Richard-Grenell
+481	485	Bild	Bild	PRO	PRO-Bild
+522	542	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+545	563	"""Турецкого потока"""	"""Турецкий поток"""	PRO	PRO-Turkish-Stream
+596	603	Украину	Украина	LOC	GPE-Ukraine
+624	628	Киев	Киев	LOC	GPE-Kiev
+732	738	России	Россия	LOC	GPE-Russia
+741	748	Гренелл	Гренелл	PER	PER-Richard-Grenell
+827	834	Украины	Украина	LOC	GPE-Ukraine
+837	843	Европы	Европа	LOC	LOC-Europe
+900	903	США	США	LOC	GPE-USA
+1078	1081	США	США	LOC	GPE-USA
+1125	1133	Гренелла	Гренелл	PER	PER-Richard-Grenell
+1138	1156	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1172	1188	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
+1331	1340	"""Газпром"""	"""Газпром"""	ORG	ORG-Gazprom
+1377	1382	Engie	Engie	ORG	ORG-Engie
+1384	1390	Uniper	Uniper	ORG	ORG-Uniper
+1392	1395	OMV	OMV	ORG	ORG-OMV
+1397	1402	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+1405	1416	Wintershall	Wintershall	ORG	ORG-Wintershall
+1482	1489	Украина	Украина	LOC	GPE-Ukraine
+1521	1541	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1620	1623	США	США	LOC	GPE-USA
+1625	1631	Польша	Польша	LOC	GPE-Poland
+1641	1647	Балтии	Балтия	LOC	LOC-Baltic-countries
+1673	1675	ЕС	ЕС	ORG	ORG-European-Union
+1721	1729	Германии	Германия	LOC	GPE-Germany

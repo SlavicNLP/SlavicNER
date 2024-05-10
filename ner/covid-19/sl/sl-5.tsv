@@ -1,0 +1,24 @@
+0	5	Putin	Putin	PER	PER-Vladimir-Putin
+7	13	Rusija	Rusija	LOC	GPE-Russia
+38	57	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+76	90	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+116	122	Rusija	Rusija	LOC	GPE-Russia
+144	162	novemu koronavirus	novemu koronavirus	EVT	EVT-Covid-19
+366	385	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+397	402	Putin	Putin	PER	PER-Vladimir-Putin
+766	774	Putinove	Putin	PER	PER-Vladimir-Putin
+817	823	Rusija	Rusija	LOC	GPE-Russia
+906	925	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+1073	1106	Svetovna zdravstvena organizacija	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+1108	1111	WHO	WHO	ORG	ORG-World-Health-Organization
+1119	1125	Moskvo	Moskva	LOC	GPE-Moscow
+1214	1220	Rusija	Rusija	LOC	GPE-Russia
+1394	1402	Gamaleja	Gamaleja	ORG	ORG-The-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1447	1461	Mihail Muraško	Mihail Muraško	PER	PER-Mikhail-Murashko
+1695	1699	Tass	Tass	ORG	ORG-TASS-Agency
+1706	1713	Muraško	Muraško	PER	PER-Mikhail-Murashko
+2093	2096	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+2118	2125	Muraška	Muraško	PER	PER-Mikhail-Murashko
+2331	2340	covida-19	covid-19	EVT	EVT-Covid-19
+2515	2518	WHO	WHO	ORG	ORG-World-Health-Organization
+2699	2718	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

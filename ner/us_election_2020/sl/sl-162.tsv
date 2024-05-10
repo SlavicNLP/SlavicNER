@@ -1,0 +1,61 @@
+452	461	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+527	543	Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+734	742	Trumpova	Trump	PER	PER-Donald-Trump
+812	817	Trump	Trump	PER	PER-Donald-Trump
+877	887	demokratih	demokrati	ORG	ORG-Democratic-Party-USA
+1029	1044	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1087	1092	Biden	Biden	PER	PER-Joe-Biden
+1163	1181	RealClear Politics	RealClear Politics	ORG	ORG-RealClearPolitics
+1189	1194	Trump	Trump	PER	PER-Donald-Trump
+1198	1204	Bidnom	Biden	PER	PER-Joe-Biden
+1269	1279	Clintonovo	Clinton	PER	PER-Hillary-Clinton
+1452	1457	Trump	Trump	PER	PER-Donald-Trump
+1580	1594	Hunterja Bidna	Hunter Biden	PER	PER-Hunter-Biden
+1597	1605	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1648	1658	Clintonove	Clinton	PER	PER-Hillary-Clinton
+1809	1812	FBI	FBI	ORG	ORG-FBI-Federal-Bureau-of-Investigation
+1813	1824	James Comey	James Comey	PER	PER-James-Comey
+1915	1925	Clintonove	Clinton	PER	PER-Hillary-Clinton
+1997	2002	Biden	Biden	PER	PER-Joe-Biden
+2099	2104	Trump	Trump	PER	PER-Donald-Trump
+2302	2307	Biden	Biden	PER	PER-Joe-Biden
+2382	2389	Trumpov	Trump	PER	PER-Donald-Trump
+2472	2477	Trump	Trump	PER	PER-Donald-Trump
+2521	2532	Kalifornijo	Kalifornija	LOC	GPE-California
+2626	2638	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2640	2650	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+2654	2663	Michiganu	Michigan	LOC	GPE-Michigan
+2728	2738	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+2788	2795	Arizoni	Arizona	LOC	GPE-Arizona
+2798	2803	Biden	Biden	PER	PER-Joe-Biden
+2844	2851	Georgii	Georgia	LOC	GPE-Georgia-US-state
+2863	2867	Iowi	Iowa	LOC	GPE-Iowa
+2871	2887	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+2921	2925	Ohiu	Ohio	LOC	GPE-Ohio
+2932	2939	Floridi	Florida	LOC	GPE-Florida
+2949	2954	Trump	Trump	PER	PER-Donald-Trump
+3040	3045	Trump	Trump	PER	PER-Donald-Trump
+3063	3070	Teksasu	Teksas	LOC	GPE-Texas
+3159	3166	Bidnove	Biden	PER	PER-Joe-Biden
+3221	3231	Clintonova	Clinton	PER	PER-Hillary-Clinton
+3303	3313	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+3428	3438	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+3460	3473	republikancev	republikanci	PER	ORG-Republican-Party-USA
+3564	3574	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+3611	3617	Bidnom	Biden	PER	PER-Joe-Biden
+3650	3658	Trumpove	Trump	PER	PER-Donald-Trump
+3671	3676	Trump	Trump	PER	PER-Donald-Trump
+3722	3727	Bidna	Biden	PER	PER-Joe-Biden
+3808	3818	Clintonovo	Clinton	PER	PER-Hillary-Clinton
+3856	3868	koronavirusa	koronavirus	EVT	EVT-Covid-19
+3904	3914	Američanov	Američani	PER	GPE-USA
+4005	4010	Trump	Trump	PER	PER-Donald-Trump
+4099	4104	Trump	Trump	PER	PER-Donald-Trump
+4170	4176	Bidnom	Biden	PER	PER-Joe-Biden
+4300	4312	koronavirusa	koronavirus	EVT	EVT-Covid-19
+4315	4320	Trump	Trump	PER	PER-Donald-Trump
+4531	4540	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+4581	4591	Američanov	Američani	PER	GPE-USA
+4592	4598	Trumpa	Trump	PER	PER-Donald-Trump
+4613	4622	demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+4707	4712	Trump	Trump	PER	PER-Donald-Trump

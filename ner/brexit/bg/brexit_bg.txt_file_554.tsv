@@ -1,0 +1,15 @@
+21	27	Лондон	Лондон	LOC	GPE-London
+139	145	Лондон	Лондон	LOC	GPE-London
+271	286	Morgan McKinley	Morgan McKinley	PER	PER-Morgan-McKinley
+448	455	Брекзит	Брекзит	EVT	EVT-Brexit
+550	559	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+607	613	Лондон	Лондон	LOC	GPE-London
+681	695	Великобритания	Великобритания	LOC	GPE-Great-Britain
+699	715	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+717	719	ЕС	ЕС	ORG	ORG-European-Union
+783	796	Goldman Sachs	Goldman Sachs	ORG	ORG-Goldman-Sachs
+798	811	Deutsche Bank	Deutsche Bank	ORG	ORG-Deutsche-Bank
+814	829	Bank of America	Bank of America	ORG	ORG-Bank-of-America
+905	914	Франкфурт	Франкфурт	LOC	GPE-Frankfurt-am-Main
+917	922	Париж	Париж	LOC	GPE-Paris
+1046	1052	Лондон	Лондон	LOC	GPE-London

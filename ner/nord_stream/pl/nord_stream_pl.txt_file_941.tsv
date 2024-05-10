@@ -1,0 +1,58 @@
+0	10	Waszyngton	Waszyngton	LOC	GPE-WashingtonDC
+49	62	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+64	74	Waszyngton	Waszyngton	LOC	GPE-WashingtonDC
+141	154	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+295	313	Departamentu Stanu	Departament Stanu	ORG	ORG-Department-of-State-USA
+403	409	Europy	Europa	LOC	LOC-Europe
+417	422	Rosji	Rosja	LOC	GPE-Russia
+518	525	Ukrainy	Ukraina	LOC	GPE-Ukraine
+527	532	Rosja	Rosja	LOC	GPE-Russia
+564	570	Europę	Europa	LOC	LOC-Europe
+669	682	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+696	707	Wintershall	Wintershall	ORG	ORG-Wintershall
+709	717	BASFn.DE	BASFn.DE	ORG	ORG-Wintershall
+721	727	Uniper	Uniper	ORG	ORG-Uniper
+729	736	UN01.DE	UN01.DE	ORG	ORG-Uniper
+751	754	OMV	OMV	ORG	ORG-OMV
+756	763	OMVV.VI	OMVV.VI	ORG	ORG-OMV
+788	805	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+807	813	RDSa.L	RDSa.L	ORG	ORG-Royal-Dutch-Shell-BG-Group
+835	840	Engie	Engie	ORG	ORG-Engie
+842	850	ENGIE.PA	ENGIE.PA	ORG	ORG-Engie
+916	929	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+956	962	Niemcy	Niemcy	LOC	GPE-Germany
+1045	1050	Rosję	Rosja	LOC	GPE-Russia
+1097	1103	Niemcy	Niemcy	LOC	GPE-Germany
+1130	1135	Rosją	Rosja	LOC	GPE-Russia
+1171	1174	USA	USA	LOC	GPE-USA
+1197	1202	Rosją	Rosja	LOC	GPE-Russia
+1204	1210	Niemcy	Niemcy	LOC	GPE-Germany
+1217	1222	Rosji	Rosja	LOC	GPE-Russia
+1258	1264	Niemcy	Niemcy	LOC	GPE-Germany
+1275	1282	Francję	Francja	LOC	GPE-France
+1350	1355	Rosji	Rosja	LOC	GPE-Russia
+1407	1419	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1476	1480	NATO	NATO	ORG	ORG-NATO
+1481	1502	Jensem Stoltenbergiem	Jens Stoltenberg	PER	PER-Jens-Stoltenberg
+1506	1512	Niemcy	Niemcy	LOC	GPE-Germany
+1526	1531	Rosji	Rosja	LOC	GPE-Russia
+1624	1629	Rosji	Rosja	LOC	GPE-Russia
+1745	1751	Polska	Polska	LOC	GPE-Poland
+1774	1780	Polska	Polska	LOC	GPE-Poland
+1906	1911	Rosji	Rosja	LOC	GPE-Russia
+1913	1919	Niemcy	Niemcy	LOC	GPE-Germany
+1948	1953	Rosji	Rosja	LOC	GPE-Russia
+2023	2029	Niemcy	Niemcy	LOC	GPE-Germany
+2055	2060	Rosji	Rosja	LOC	GPE-Russia
+2101	2113	Stoltenberga	Stoltenberg	PER	PER-Jens-Stoltenberg
+2114	2119	Trump	Trump	PER	PER-Donald-Trump
+2131	2134	USA	USA	LOC	GPE-USA
+2164	2171	Niemiec	Niemcy	LOC	GPE-Germany
+2172	2189	Gerhard Schroeder	Gerhard Schroeder	PER	PER-Gerhard-Fritz-Kurt-Schröder
+2314	2325	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+2328	2341	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2354	2359	Trump	Trump	PER	PER-Donald-Trump
+2361	2366	Rosja	Rosja	LOC	GPE-Russia
+2467	2473	Niemcy	Niemcy	LOC	GPE-Germany
+2507	2512	Rosję	Rosja	LOC	GPE-Russia
+2652	2656	NATO	NATO	ORG	ORG-NATO

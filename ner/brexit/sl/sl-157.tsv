@@ -1,0 +1,22 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+70	72	EU	EU	ORG	ORG-European-Union
+75	82	brexitu	brexit	EVT	EVT-Brexit
+83	97	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+129	140	David Davis	David Davis	PER	PER-David-Davis
+300	307	Barnier	Barnier	PER	PER-Michel-Barnier
+351	366	Davidom Davisom	David Davis	PER	PER-David-Davis
+390	401	Thereso May	Theresa May	PER	PER-Theresa-May
+420	422	EU	EU	ORG	ORG-European-Union
+470	479	Britanijo	Britanija	LOC	GPE-Great-Britain
+494	496	EU	EU	ORG	ORG-European-Union
+770	785	Downing Streetu	Downing Street	LOC	LOC-Downing-Street
+787	792	Davis	Davis	PER	PER-David-Davis
+878	884	London	London	LOC	GPE-London
+911	913	EU	EU	ORG	ORG-European-Union
+1018	1024	brexit	brexit	EVT	EVT-Brexit
+1091	1093	EU	EU	ORG	ORG-European-Union
+1199	1215	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+1242	1244	EU	EU	ORG	ORG-European-Union
+1247	1254	Barnier	Barnier	PER	PER-Michel-Barnier
+1276	1278	EU	EU	ORG	ORG-European-Union
+1442	1445	AFP	AFP	ORG	ORG-AFP-Agence-France-Press

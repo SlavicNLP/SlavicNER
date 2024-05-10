@@ -1,0 +1,17 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+17	25	Евросоюз	Евросоюз	ORG	ORG-European-Union
+78	92	Великобритании	Великобритания	LOC	GPE-Great-Britain
+93	103	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+125	127	ЕС	ЕС	ORG	ORG-European-Union
+186	210	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+257	277	британский парламент	британский парламент	ORG	ORG-British-Parlament
+292	310	Европейскому союзу	Европейский союз	ORG	ORG-European-Union
+547	561	Великобритании	Великобритания	LOC	GPE-Great-Britain
+562	572	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+574	584	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+633	641	брекситу	брексит	EVT	EVT-Brexit
+745	758	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+781	789	брексита	брексит	EVT	EVT-Brexit
+790	801	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+849	851	ЕС	ЕС	ORG	ORG-European-Union
+922	930	брексите	брексит	EVT	EVT-Brexit

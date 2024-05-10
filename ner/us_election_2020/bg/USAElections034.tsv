@@ -1,0 +1,18 @@
+0	5	Путин	Путин	PER	PER-Vladimir-Putin
+44	50	Байдън	Байдън	PER	PER-Joe-Biden
+63	69	Кремъл	Кремъл	LOC	LOC-Kremlin
+156	170	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+267	277	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+309	318	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+369	387	американския народ	американски народ	PER	GPE-USA
+396	401	Путин	Путин	PER	PER-Vladimir-Putin
+713	716	САЩ	САЩ	LOC	GPE-USA
+737	742	Путин	Путин	PER	PER-Vladimir-Putin
+822	828	Байдън	Байдън	PER	PER-Joe-Biden
+831	836	Путин	Путин	PER	PER-Vladimir-Putin
+869	875	Кремъл	Кремъл	LOC	LOC-Kremlin
+906	912	Байдън	Байдън	PER	PER-Joe-Biden
+1256	1259	РБК	РБК	ORG	ORG-RBK-Group
+1317	1320	САЩ	САЩ	LOC	GPE-USA
+1541	1562	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+1775	1787	американците	американци	PER	GPE-USA

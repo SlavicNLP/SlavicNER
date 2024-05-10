@@ -1,0 +1,32 @@
+0	7	Украйна	Украйна	LOC	GPE-Ukraine
+13	21	Германия	Германия	LOC	GPE-Germany
+49	56	Украйна	Украйна	LOC	GPE-Ukraine
+62	70	Германия	Германия	LOC	GPE-Germany
+206	221	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+249	264	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+277	281	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+320	326	Туитър	Туитър	PRO	PRO-Twitter
+336	339	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+365	374	Евросъюза	Евросъюз	ORG	ORG-European-Union
+398	413	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+456	464	Германия	Германия	LOC	GPE-Germany
+563	570	Украйна	Украйна	LOC	GPE-Ukraine
+583	592	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+633	641	Германия	Германия	LOC	GPE-Germany
+658	673	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+726	729	САЩ	САЩ	LOC	GPE-USA
+806	815	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+835	850	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+868	875	Украйна	Украйна	LOC	GPE-Ukraine
+949	956	Украйна	Украйна	LOC	GPE-Ukraine
+1054	1058	Киев	Киев	LOC	GPE-Kiev
+1190	1205	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1266	1279	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+1296	1301	Русия	Русия	LOC	GPE-Russia
+1304	1312	Германия	Германия	LOC	GPE-Germany
+1326	1340	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+1375	1382	Украйна	Украйна	LOC	GPE-Ukraine
+1384	1391	Беларус	Беларус	LOC	GPE-Belarus
+1393	1398	Полша	Полша	LOC	GPE-Poland
+1472	1478	Турция	Турция	LOC	GPE-Turkey
+1611	1642	Турският статистически институт	Турски статистически институт	ORG	ORG-TURKSTAT

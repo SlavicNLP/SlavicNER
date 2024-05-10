@@ -1,0 +1,38 @@
+0	7	Борисов	Борисов	PER	PER-Boyko-Borisov
+45	52	българи	българи	PER	GPE-Bulgaria
+64	77	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+113	122	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+154	161	българи	българи	PER	GPE-Bulgaria
+278	284	Англия	Англия	LOC	GPE-England
+288	296	България	България	LOC	GPE-Bulgaria
+316	323	Пловдив	Пловдив	LOC	GPE-Plovdiv
+376	383	Румъния	Румъния	LOC	GPE-Romania
+437	444	Пловдив	Пловдив	LOC	GPE-Plovdiv
+481	489	Райънеър	Райънеър	ORG	ORG-Ryanair
+505	514	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+516	523	Румъния	Румъния	LOC	GPE-Romania
+608	612	NOVA	NOVA	PRO	PRO-NOVATV
+736	746	Дунав мост	Дунав мост	LOC	LOC-Dunav-Bridge
+798	813	"Агенция ""Фокус"""	"Агенция ""Фокус"""	ORG	ORG-Focus-News-Agency
+839	846	Румъния	Румъния	LOC	GPE-Romania
+935	942	Румъния	Румъния	LOC	GPE-Romania
+1137	1144	Пловдив	Пловдив	LOC	GPE-Plovdiv
+1311	1316	София	София	LOC	GPE-Sofia
+1414	1421	Румъния	Румъния	LOC	GPE-Romania
+1467	1475	България	България	LOC	GPE-Bulgaria
+1623	1630	Ryanair	Ryanair	ORG	ORG-Ryanair
+1694	1700	Дъблин	Дъблин	LOC	GPE-Dublin
+2143	2161	Величка Божерикова	Величка Божерикова	PER	PER-Velichka-Bozherikova
+2167	2170	БНР	БНР	PRO	PRO-Bulgarian-National-Radio
+2283	2302	Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+2305	2348	посолството на Република България в Румъния	Посолство на Република България в Румъния	ORG	ORG-Embassy-of-Bulagria-in-Bucharest
+2485	2492	Букурещ	Букурещ	LOC	GPE-Bucharest
+2493	2505	Мирчо Иванов	Мирчо Иванов	PER	PER-Mircho-Ivanov
+2631	2639	България	България	LOC	GPE-Bulgaria
+2665	2674	Тимишоара	Тимишоара	LOC	GPE-Timisoara
+2757	2764	Букурещ	Букурещ	LOC	GPE-Bucharest
+2814	2821	Райнеър	Райнеър	ORG	ORG-Ryanair
+2935	2943	България	България	LOC	GPE-Bulgaria
+3046	3065	Активни потребители	Активни потребители	ORG	ORG-Active-Consumers-Association
+3128	3161	европейският потребителски център	европейски потребителски център	ORG	ORG-European-Consumer-Centre-Bulgaria
+3225	3231	Европа	Европа	LOC	LOC-Europe

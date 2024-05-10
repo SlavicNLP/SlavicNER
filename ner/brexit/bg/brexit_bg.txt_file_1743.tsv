@@ -1,0 +1,29 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+42	49	Брекзит	Брекзит	EVT	EVT-Brexit
+109	116	Брекзит	Брекзит	EVT	EVT-Brexit
+128	138	британците	британци	PER	GPE-Great-Britain
+255	268	Global Future	Global Future	ORG	ORG-Global-Future
+317	332	Джонатан Портъс	Джонатан Портъс	PER	PER-Jonathan-Portes
+346	353	Гардиън	Гардиън	PRO	PRO-The-Guardian
+356	362	Портъс	Портъс	PER	PER-Jonathan-Portes
+409	432	Кралския колеж в Лондон	Кралски колеж в Лондон	ORG	ORG-Kings-College
+490	496	Лондон	Лондон	LOC	GPE-London
+510	524	Великобритания	Великобритания	LOC	GPE-Great-Britain
+645	652	Populus	Populus	ORG	ORG-Populus
+668	679	Андрю Купър	Андрю Купър	PER	PER-Andrew-Cooper
+704	718	Дейвид Камерън	Дейвид Камерън	PER	PER-David-Cameron
+743	753	британците	британци	PER	GPE-Great-Britain
+784	791	Брекзит	Брекзит	EVT	EVT-Brexit
+825	827	ЕС	ЕС	ORG	ORG-European-Union
+951	957	Лондон	Лондон	LOC	GPE-London
+1053	1063	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1104	1110	Лондон	Лондон	LOC	GPE-London
+1533	1535	ЕС	ЕС	ORG	ORG-European-Union
+1812	1818	Лондон	Лондон	LOC	GPE-London
+2065	2071	Лондон	Лондон	LOC	GPE-London
+2171	2179	британци	британци	PER	GPE-Great-Britain
+2233	2239	Лондон	Лондон	LOC	GPE-London
+2259	2289	Европейската икономическа зона	Европейска икономическа зона	ORG	ORG-EEA-European-Economic-Area
+2340	2342	ЕС	ЕС	ORG	ORG-European-Union
+2398	2430	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+2578	2585	Брекзит	Брекзит	EVT	EVT-Brexit

@@ -1,0 +1,38 @@
+0	8	Trumpovi	Trump	PER	PER-Donald-Trump
+123	126	ZDA	ZDA	LOC	GPE-USA
+136	144	Trumpovi	Trump	PER	PER-Donald-Trump
+242	245	ZDA	ZDA	LOC	GPE-USA
+254	260	Trumpa	Trump	PER	PER-Donald-Trump
+276	286	Washington	Washington	LOC	GPE-WashingtonDC
+500	503	ZDA	ZDA	LOC	GPE-USA
+505	513	Trumpovi	Trump	PER	PER-Donald-Trump
+654	672	Pohod milijon MAGA	Pohod milijon MAGA	EVT	EVT-Million-MAGA-March
+790	799	Virginijo	Virginija	LOC	GPE-Virginia
+818	823	Trump	Trump	PER	PER-Donald-Trump
+831	835	MAGA	MAGA	PRO	PRO-Make-America-Great-Again
+879	883	MAGA	MAGA	PRO	PRO-Make-America-Great-Again
+895	905	Trumpovega	Trump	PER	PER-Donald-Trump
+914	942	Naredimo Ameriko spet veliko	Naredimo Ameriko spet veliko	PRO	PRO-Make-America-Great-Again
+945	953	Trumpovi	Trump	PER	PER-Donald-Trump
+1098	1107	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1183	1188	Trump	Trump	PER	PER-Donald-Trump
+1205	1220	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1248	1253	Biden	Biden	PER	PER-Joe-Biden
+1294	1300	Trumpa	Trump	PER	PER-Donald-Trump
+1314	1317	ZDA	ZDA	LOC	GPE-USA
+1431	1441	Washington	Washington	LOC	GPE-WashingtonDC
+1494	1508	Ponosni fantje	Ponosni fantje	ORG	ORG-Proud-Boys
+1527	1536	Američani	Američani	PER	GPE-USA
+1584	1596	Trgu Svobode	Trg Svobode	LOC	LOC-Freedom-Plaza
+1613	1634	vrhovnega sodišča ZDA	vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+1699	1705	Trumpa	Trump	PER	PER-Donald-Trump
+1864	1870	Trumpa	Trump	PER	PER-Donald-Trump
+1921	1925	MAGA	MAGA	PRO	PRO-Make-America-Great-Again
+1964	1975	Trumpovovih	Trump	PER	PER-Donald-Trump
+2020	2029	Bele hiše	Bela hiša	LOC	LOC-White-House
+2030	2046	Kayleigh McEnany	Kayleigh McEnany	PER	PER-Kayleigh-McEnany
+2084	2089	Trump	Trump	PER	PER-Donald-Trump
+2231	2240	Trumpovih	Trump	PER	PER-Donald-Trump
+2324	2332	Trumpove	Trump	PER	PER-Donald-Trump
+2484	2487	ZDA	ZDA	LOC	GPE-USA
+2497	2505	Trumpovi	Trump	PER	PER-Donald-Trump

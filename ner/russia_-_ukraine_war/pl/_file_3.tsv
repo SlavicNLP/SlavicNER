@@ -1,0 +1,76 @@
+28	33	Rosji	Rosja	LOC	GPE-Russia
+36	46	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+58	65	Zachodu	Zachód	LOC	LOC-West
+77	90	The Economist	The Economist	PRO	PRO-The-Economist
+93	102	Czeczenia	Czeczenia	LOC	GPE-Chechnya
+104	110	Gruzja	Gruzja	LOC	GPE-Georgia
+112	116	Krym	Krym	LOC	GPE-Crimea
+119	125	Donbas	Donbas	LOC	LOC-Donbass
+213	218	Rosji	Rosja	LOC	GPE-Russia
+219	233	Władimir Putin	Władimir Putin	PER	PER-Vladimir-Putin
+302	309	Europie	Europa	LOC	LOC-Europe
+334	340	Gruzję	Gruzja	LOC	GPE-Georgia
+366	370	Krym	Krym	LOC	GPE-Crimea
+393	401	Donbasie	Donbas	LOC	LOC-Donbass
+560	575	polskiego rządu	polski rząd	ORG	ORG-Polish-Government
+595	601	Zachód	Zachód	LOC	LOC-West
+708	713	Rosja	Rosja	LOC	GPE-Russia
+755	771	rosyjskie wojska	rosyjskie wojska	ORG	ORG-Russian-Armed-Forces
+782	788	Putina	Putin	PER	PER-Vladimir-Putin
+807	813	Grozny	Grozny	LOC	GPE-Grozny
+847	856	Czeczenów	Czeczeni	PER	GPE-Chechnya
+858	864	Zachód	Zachód	LOC	LOC-West
+915	920	Rosji	Rosja	LOC	GPE-Russia
+928	944	wojska rosyjskie	wojska rosyjskie	ORG	ORG-Russian-Armed-Forces
+958	964	Gruzji	Gruzja	LOC	GPE-Georgia
+966	972	Zachód	Zachód	LOC	LOC-West
+1221	1226	Rosja	Rosja	LOC	GPE-Russia
+1319	1324	Buczy	Bucza	LOC	GPE-Bucha
+1326	1334	Irpieniu	Irpień	LOC	GPE-Irpin
+1337	1346	Mariupolu	Mariupol	LOC	GPE-Mariupol
+1394	1412	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+1414	1420	Polska	Polska	LOC	GPE-Poland
+1469	1475	Putina	Putin	PER	PER-Vladimir-Putin
+1492	1498	Polska	Polska	LOC	GPE-Poland
+1603	1609	Putina	Putin	PER	PER-Vladimir-Putin
+1855	1863	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1947	1953	Europy	Europa	LOC	LOC-Europe
+2025	2032	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2081	2089	Ukrainie	Ukraina	LOC	GPE-Ukraine
+2345	2353	Ukrainie	Ukraina	LOC	GPE-Ukraine
+2400	2425	ukraińskich sił zbrojnych	ukraińskie siły zbrojne	ORG	ORG-Armed-Forces-of-Ukraine
+2427	2433	Polska	Polska	LOC	GPE-Poland
+2454	2458	NATO	NATO	ORG	ORG-NATO
+2521	2527	Europa	Europa	LOC	LOC-Europe
+2581	2588	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2616	2626	Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+2770	2775	Rosji	Rosja	LOC	GPE-Russia
+2782	2788	Europa	Europa	LOC	LOC-Europe
+2851	2856	Kreml	Kreml	LOC	LOC-Kremlin
+2950	2955	Rosja	Rosja	LOC	GPE-Russia
+3230	3236	Putina	Putin	PER	PER-Vladimir-Putin
+3317	3319	UE	UE	ORG	ORG-European-Union
+3422	3427	SWIFT	SWIFT	ORG	ORG-SWIFT
+3557	3562	Rosji	Rosja	LOC	GPE-Russia
+3566	3574	Ukrainie	Ukraina	LOC	GPE-Ukraine
+3624	3631	Ukrainę	Ukraina	LOC	GPE-Ukraine
+3658	3672	armię rosyjską	armia rosyjska	ORG	ORG-Russian-Armed-Forces
+3707	3714	Ukrainy	Ukraina	LOC	GPE-Ukraine
+3746	3752	Europy	Europa	LOC	LOC-Europe
+3941	3947	Polski	Polska	LOC	GPE-Poland
+4012	4014	UE	UE	ORG	ORG-European-Union
+4035	4042	Ukrainy	Ukraina	LOC	GPE-Ukraine
+4124	4130	Europy	Europa	LOC	LOC-Europe
+4134	4140	Polski	Polska	LOC	GPE-Poland
+4142	4150	Słowacji	Słowacja	LOC	GPE-Slovakia
+4153	4160	Rumunii	Rumunia	LOC	GPE-Romania
+4249	4257	Ukraińcy	Ukraińcy	PER	GPE-Ukraine
+4289	4295	Polsce	Polska	LOC	GPE-Poland
+4391	4397	Polska	Polska	LOC	GPE-Poland
+4531	4537	Polsce	Polska	LOC	GPE-Poland
+4722	4728	Turcji	Turcja	LOC	GPE-Turkey
+4843	4849	Polsce	Polska	LOC	GPE-Poland
+5170	5172	UE	UE	ORG	ORG-European-Union
+5232	5239	Ukrainę	Ukraina	LOC	GPE-Ukraine
+5246	5251	Rosję	Rosja	LOC	GPE-Russia
+5486	5501	polskiego rządu	polski rząd	ORG	ORG-Polish-Government

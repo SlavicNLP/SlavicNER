@@ -1,0 +1,63 @@
+47	55	Włoszech	Włochy	LOC	GPE-Italy
+88	90	UE	UE	ORG	ORG-European-Union
+95	101	Brexit	Brexit	EVT	EVT-Brexit
+104	113	The Times	The Times	PRO	PRO-The-Times
+207	215	Włoszech	Włochy	LOC	GPE-Italy
+308	314	Włochy	Włochy	LOC	GPE-Italy
+524	530	Włochy	Włochy	LOC	GPE-Italy
+614	633	Ruchu Pięciu Gwiazd	Ruch Pięciu Gwiazd	ORG	ORG-Five-Star-Movement
+636	640	Ligi	Liga	ORG	ORG-Northern-League-IT-politi
+752	767	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+815	821	Brexit	Brexit	EVT	EVT-Brexit
+833	838	Times	Times	PRO	PRO-The-Sunday-Times
+880	897	Sergio Mattarella	Sergio Mattarella	PER	PER-Sergio-Mattarella
+1317	1322	Times	Times	PRO	PRO-The-Sunday-Times
+1368	1378	Mattarella	Mattarella	PER	PER-Sergio-Mattarella
+1401	1420	Ruchu Pięciu Gwiazd	Ruch Pięciu Gwiazd	ORG	ORG-Five-Star-Movement
+1423	1427	Ligi	Liga	ORG	ORG-Lega-Nord
+1629	1641	The Guardian	The Guardian	PRO	PRO-The-Guardian
+1822	1827	Włoch	Włochy	LOC	GPE-Italy
+1954	1959	Włoch	Włochy	LOC	GPE-Italy
+1962	1968	Europy	Europa	LOC	LOC-Europe
+2210	2215	Włoch	Włochy	LOC	GPE-Italy
+2218	2220	UE	UE	ORG	ORG-European-Union
+2346	2348	UE	UE	ORG	ORG-European-Union
+2380	2388	Guardian	Guardian	PRO	PRO-The-Guardian
+2472	2474	UE	UE	ORG	ORG-European-Union
+2479	2485	Brexit	Brexit	EVT	EVT-Brexit
+2490	2505	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2532	2542	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+2581	2587	Włochy	Włochy	LOC	GPE-Italy
+2611	2613	UE	UE	ORG	ORG-European-Union
+2718	2720	UE	UE	ORG	ORG-European-Union
+2723	2740	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2746	2754	Włoszech	Włochy	LOC	GPE-Italy
+2869	2876	Niemiec	Niemcy	LOC	GPE-Germany
+2879	2886	Francji	Francja	LOC	GPE-France
+3103	3111	Guardian	Guardian	PRO	PRO-The-Guardian
+3115	3124	Telegraph	Telegraph	PRO	PRO-The-Daily-Telegraph
+3158	3171	Tima Stanleya	Tim Stanley	PER	PER-Tim-Stanley
+3204	3212	Brexitem	Brexit	EVT	EVT-Brexit
+3294	3302	Brukseli	Bruksela	LOC	GPE-Brussles
+3340	3357	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3360	3365	Włoch	Włochy	LOC	GPE-Italy
+3457	3472	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3499	3501	UE	UE	ORG	ORG-European-Union
+3555	3561	Włochy	Włochy	LOC	GPE-Italy
+3734	3739	Włosi	Włosi	PER	GPE-Italy
+3801	3808	Stanley	Stanley	PER	PER-Tim-Stanley
+3847	3855	Włoszech	Włochy	LOC	GPE-Italy
+3906	3908	UE	UE	ORG	ORG-European-Union
+3913	3919	Brexit	Brexit	EVT	EVT-Brexit
+4044	4053	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+4054	4077	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+4079	4094	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4097	4103	Włochy	Włochy	LOC	GPE-Italy
+4415	4431	Financial Timesa	Financial Times	PRO	PRO-Financial-Times
+4433	4444	Tony Barber	Tony Barber	PER	PER-Tony-Barber
+4677	4683	Barber	Barber	PER	PER-Tony-Barber
+4858	4865	Włochów	Włosi	PER	GPE-Italy
+4883	4895	Risorgimento	Risorgimento	EVT	EVT-Risorgimento
+4919	4927	Bruksela	Bruksela	LOC	GPE-Brussles
+4929	4935	Berlin	Berlin	LOC	GPE-Berlin
+4937	4946	Frankfurt	Frankfurt	LOC	GPE-Frankfurt-am-Main

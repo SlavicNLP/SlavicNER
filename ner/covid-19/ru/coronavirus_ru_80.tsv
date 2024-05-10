@@ -1,0 +1,81 @@
+2	8	России	Россия	LOC	GPE-Russia
+43	55	коронавируса	коронавирус	EVT	EVT-Covid-19
+60	66	России	Россия	LOC	GPE-Russia
+101	113	коронавируса	коронавирус	EVT	EVT-Covid-19
+118	124	России	Россия	LOC	GPE-Russia
+167	181	коронавирусной	коронавирусной	EVT	EVT-Covid-19
+233	239	Колымы	 Колымский край	LOC	GPE-Kolyma-Region
+241	252	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+267	273	МОСКВА	Москва	LOC	GPE-Moscow
+284	295	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+299	305	России	Россия	LOC	GPE-Russia
+348	362	коронавирусной	коронавирусной	EVT	EVT-Covid-19
+414	420	Колымы	 Колымский край	LOC	GPE-Kolyma-Region
+817	831	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+988	1004	Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+1177	1188	Спутником V	Спутник V	PRO	PRO-Sputnik-V
+1225	1233	Минздрав	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+1299	1307	COVID-19	COVID-19	EVT	EVT-Covid-19
+1323	1342	НИЦЭМ имени Гамалеи	НИЦЭМ имени Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1367	1376	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+1576	1582	России	Россия	LOC	GPE-Russia
+1619	1625	Вектор	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+1627	1643	Роспотребнадзора	Роспотребнадзор	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+1647	1659	ЭпиВакКорона	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+1761	1859	Федеральном научном центре исследований и разработки иммунобиологических препаратов имени Чумакова	Федеральный научный центр исследований и разработки иммунобиологических препаратов им. М. П. Чумакова РАН	ORG	ORG-Chumakov-Scientific-Center-Russia
+1931	1942	коронавирус	коронавирус	EVT	EVT-Covid-19
+1943	1953	SARS-CoV-2	SARS-CoV-2	PRO	PRO-Elecsys-Anti-SARS-CoV-2-S
+2105	2119	центра Гамалеи	НИЦЭМ имени Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+2120	2138	Александр Гинцбург	Александр Гинцбург	PER	PER-Alexander-Ginzburg
+2153	2164	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+2237	2249	коронавируса	коронавирус	EVT	EVT-Covid-19
+2398	2412	Михаил Мурашко	Михаил Мурашко	PER	PER-Mikhail-Murashko
+2645	2655	Спутника V	Спутник V	PRO	PRO-Sputnik-V
+2671	2683	коронавируса	коронавирус	EVT	EVT-Covid-19
+2686	2692	России	Россия	PER	GPE-Russia
+2770	2778	COVID-19	COVID-19	EVT	EVT-Covid-19
+2781	2787	России	Россия	LOC	GPE-Russia
+2819	2837	стопкоронавирус.рф	стопкоронавирус.рф	PRO	PRO-Stop-Coronavirus
+2852	2859	россиян	россияне	PER	GPE-Russia
+2863	2871	covid-19	covid-19	EVT	EVT-Covid-19
+2882	2891	спутник v	Спутник V	PRO	PRO-Sputnik-V
+2894	2905	коронавирус	коронавирус	EVT	EVT-Covid-19
+2908	2914	россии	Россия	LOC	GPE-Russia
+2916	2927	коронавирус	коронавирус	EVT	EVT-Covid-19
+2928	2936	covid-19	covid-19	EVT	EVT-Covid-19
+2938	2944	россия	Россия	LOC	GPE-Russia
+2946	2960	михаил мурашко	Михаил Мурашко	PER	PER-Mikhail-Murashko
+2972	2988	татьяна голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+2990	3076	федеральная служба по надзору в сфере защиты прав потребителей и благополучия человека	федеральная служба по надзору в сфере защиты прав потребителей и благополучия человека	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+3078	3093	роспотребнадзор	роспотребнадзор	ORG	ORG-Federal-Service-for-Surveillance-on-Consumer-Rights-Protection-and-Human-Wellbeing
+3096	3110	владимир путин	Владимир Путин	PER	PER-Vladimir-Putin
+3112	3118	москва	Москва	LOC	GPE-Moscow
+3133	3139	России	Россия	LOC	GPE-Russia
+3174	3186	коронавируса	коронавирус	EVT	EVT-Covid-19
+3189	3195	МОСКВА	Москва	LOC	GPE-Moscow
+3206	3217	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+3221	3227	России	Россия	LOC	GPE-Russia
+3270	3284	коронавирусной	коронавирусной	EVT	EVT-Covid-19
+3336	3342	Колымы	 Колымский край	LOC	GPE-Kolyma-Region
+3745	3759	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+3919	3935	Татьяна Голикова	Татьяна Голикова	PER	PER-Tatjana-Golikova
+4108	4119	Спутником V	Спутник V	PRO	PRO-Sputnik-V
+4159	4167	Минздрав	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+4233	4241	COVID-19	COVID-19	EVT	EVT-Covid-19
+4257	4276	НИЦЭМ имени Гамалеи	НИЦЭМ имени Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+4301	4310	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+4513	4519	России	Россия	LOC	GPE-Russia
+4556	4562	Вектор	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+4564	4580	Роспотребнадзора	Роспотребнадзор	ORG	ORG-CPS
+4584	4596	ЭпиВакКорона	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+4701	4799	Федеральном научном центре исследований и разработки иммунобиологических препаратов имени Чумакова	Федеральный научный центр исследований и разработки иммунобиологических препаратов им. М. П. Чумакова РАН	ORG	ORG-Chumakov-Scientific-Center-Russia
+4871	4882	коронавирус	коронавирус	EVT	EVT-Covid-19
+4883	4893	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+5048	5062	центра Гамалеи	НИЦЭМ имени Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+5063	5081	Александр Гинцбург	Александр Гинцбург	PER	PER-Alexander-Ginzburg
+5096	5107	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+5180	5192	коронавируса	коронавирус	EVT	EVT-Covid-19
+5344	5358	Михаил Мурашко	Михаил Мурашко	PER	PER-Mikhail-Murashko
+5591	5601	Спутника V	Спутник V	PRO	PRO-Sputnik-V
+5620	5632	коронавируса	коронавирус	EVT	EVT-Covid-19
+5635	5641	России	Россия	LOC	GPE-Russia

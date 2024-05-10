@@ -1,0 +1,20 @@
+11	17	Rusije	Rusija	LOC	GPE-Russia
+21	35	Severne Koreje	Severna Koreja	LOC	GPE-North-Korea
+68	76	Covid-19	covid-19	EVT	EVT-Covid-19
+117	123	Rusije	Rusija	LOC	GPE-Russia
+127	141	Severne Koreje	Severne Koreje	LOC	GPE-North-Korea
+173	181	Covid-19	covid-19	EVT	EVT-Covid-19
+353	362	Microsoft	Microsoft	ORG	ORG-Microsoft
+565	573	Covid-19	covid-19	EVT	EVT-Covid-19
+613	622	The Verge	The Verge	PRO	PRO-The-Verge
+689	692	ZDA	ZDA	LOC	GPE-USA
+694	700	Kanadi	Kanada	LOC	GPE-Canada
+702	710	Franciji	Francija	LOC	GPE-France
+712	718	Indiji	Indija	LOC	GPE-India
+722	734	Južni Koreji	Južna Koreja	LOC	GPE-South-Korea
+773	781	Covid-19	covid-19	EVT	EVT-Covid-19
+873	883	Microsoftu	Microsoft	ORG	ORG-Microsoft
+885	893	Tom Burt	Tom Burt	PER	PER-Tom-Burt
+1163	1172	Microsoft	Microsoft	ORG	ORG-Microsoft
+1768	1801	Svetovne zdravstvene organizacije	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+1997	2001	Burt	Burt	PER	PER-Tom-Burt

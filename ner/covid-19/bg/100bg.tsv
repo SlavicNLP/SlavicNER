@@ -1,0 +1,12 @@
+0	7	Франция	Франция	LOC	GPE-France
+148	155	Франция	Франция	LOC	GPE-France
+336	356	коронавирус инфекции	коронавирус инфекция	EVT	EVT-Covid-19
+591	599	Covid-19	COVID-19	EVT	EVT-Covid-19
+662	674	Ил дьо Франс	Ил дьо Франс	LOC	LOC-Ile-de-France
+692	697	Париж	Париж	LOC	GPE-Paris
+1041	1050	Сен Тропе	Сен Тропе	LOC	GPE-Saint-Tropez
+1053	1059	Биариц	Биариц	LOC	GPE-Biarritz
+1081	1085	Сена	Сена	LOC	LOC-Seine
+1088	1093	Париж	Париж	LOC	GPE-Paris
+1095	1104	Монмартър	Монмартър	LOC	LOC-Montmartre
+1200	1205	Париж	Париж	LOC	GPE-Paris

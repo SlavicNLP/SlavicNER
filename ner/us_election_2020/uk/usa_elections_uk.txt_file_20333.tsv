@@ -1,0 +1,21 @@
+22	25	США	США	LOC	GPE-USA
+38	49	інавгурація	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+50	61	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+107	122	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+125	139	Білому будинку	Білий будинок	ORG	ORG-White-House
+164	167	США	США	LOC	GPE-USA
+215	222	Байдена	Байден	PER	PER-Joe-Biden
+235	238	BBC	BBC	ORG	ORG-BBC-Ltd
+250	261	Білому домі	Білий дім	ORG	ORG-White-House
+312	319	Байдена	Байден	PER	PER-Joe-Biden
+368	375	Байдена	Байден	PER	PER-Joe-Biden
+488	494	Сенату	Сенат	ORG	ORG-United-States-Senate
+565	571	Трампа	Трамп	PER	PER-Donald-Trump
+590	608	Національний архів	Національний архів	ORG	ORG-National-Archives
+746	757	Білому домі	Білий дім	ORG	ORG-White-House
+958	963	Трамп	Трамп	PER	PER-Donald-Trump
+1064	1074	Мар-а-Лаго	Мар-а-Лаго	LOC	LOC-Mar-a-Lago
+1077	1084	Флориді	Флорида	LOC	GPE-Florida
+1101	1110	Білий дім	Білий дім	ORG	ORG-White-House
+1222	1233	Білому домі	Білий дім	ORG	ORG-White-House
+1274	1280	RBC.UA	RBC.UA	ORG	ORG-RBC-Ukraine

@@ -1,0 +1,25 @@
+54	64	Петербурге	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+136	141	КОВИД	ковид	EVT	EVT-Covid-19
+232	237	КОВИД	ковид	EVT	EVT-Covid-19
+281	328	НИИ эпидемиологии и микробиологии имени Гамалеи	НИИ эпидемиологии и микробиологии имени Гамалеи	ORG	ORG-Gamalei-Research-Institute
+379	384	КОВИД	ковид	EVT	EVT-Covid-19
+575	580	КОВИД	ковид	EVT	EVT-Covid-19
+607	654	НИИ эпидемиологии и микробиологии имени Гамалеи	НИИ эпидемиологии и микробиологии имени Гамалеи	ORG	ORG-Gamalei-Research-Institute
+665	682	Александр Бутенко	Александр Бутенко	PER	PER-Alexander-Butenko
+714	730	«Говорит Москва»	"""Говорит Москва"""	PRO	PRO-Moscow-says
+882	894	коронавируса	коронавирус	EVT	EVT-Covid-19
+1108	1114	России	Россия	LOC	GPE-Russia
+1142	1147	КОВИД	ковид	EVT	EVT-Covid-19
+1290	1295	КОВИД	ковид	EVT	EVT-Covid-19
+1320	1334	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1347	1362	НЕВСКИЕ НОВОСТИ	Невские новости	PRO	PRO-Nevsky-News
+1410	1420	Петербурга	Петербург	LOC	GPE-Saint-Petersburg
+1431	1443	коронавируса	коронавирус	EVT	EVT-Covid-19
+1473	1488	НЕВСКИЕ НОВОСТИ	Невские новости	PRO	PRO-Nevsky-News
+1569	1585	Санкт-Петербурга	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+1588	1609	Ленинградской области	Ленинградская область	LOC	GPE-Leningrad-Region
+1694	1703	nevnov.ru	nevnov.ru	PRO	PRO-Nevskie-Novosti
+1760	1768	Интернет	Интернет	PRO	PRO-Internet
+1923	1939	НЕВСКИХ НОВОСТЕЙ	Невские новости	PRO	PRO-Nevsky-News
+2031	2039	Интернет	Интернет	PRO	PRO-Internet
+2059	2079	ИА «НЕВСКИЕ НОВОСТИ»	"ИА ""Невские новости"""	PRO	PRO-Nevsky-News

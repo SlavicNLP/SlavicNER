@@ -1,0 +1,23 @@
+1	4	WSJ	WSJ	PRO	PRO-Wall-Street-Journal
+7	21	Korea Północna	Korea Północna	LOC	GPE-North-Korea
+55	63	Covid-19	Covid-19	EVT	EVT-Covid-19
+65	74	Korea Płn	Korea Płn	LOC	GPE-North-Korea
+120	124	GAVI	GAVI	ORG	ORG-Gavi
+222	230	Covid-19	Covid-19	EVT	EVT-Covid-19
+255	274	Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+290	299	Korei Płn	Korea Płn	LOC	GPE-North-Korea
+338	342	GAVI	GAVI	ORG	ORG-Gavi
+372	400	Światową Organizacją Zdrowia	Światowa Organizacja Zdrowia	ORG	ORG-World-Health-Organization
+402	405	WHO	WHO	ORG	ORG-World-Health-Organization
+424	429	COVAX	COVAX	PRO	PRO-Covax-initiative
+469	477	Covid-19	Covid-19	EVT	EVT-Covid-19
+544	554	Korei Płn.	Korea Płn.	LOC	GPE-North-Korea
+680	685	COVAX	COVAX	PRO	PRO-Covax-initiative
+801	804	WSJ	WSJ	PRO	PRO-Wall-Street-Journal
+822	832	Korei Płn.	Korea Płn.	LOC	GPE-North-Korea
+966	976	Korei Płn.	Korea Płn.	LOC	GPE-North-Korea
+1026	1039	koronawirusem	koronawirus	EVT	EVT-Covid-19
+1078	1091	Kim Dzong Una	Kim Dzong Un	PER	PER-Kim-Dzong-Un
+1304	1307	WSJ	WSJ	PRO	PRO-Wall-Street-Journal
+1563	1575	koronawirusa	koronawirus	EVT	EVT-Covid-19
+1655	1665	Korei Płn.	Korea Płn.	LOC	GPE-North-Korea

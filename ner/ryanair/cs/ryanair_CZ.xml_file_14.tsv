@@ -1,0 +1,9 @@
+107	112	Tegel	Tegel	LOC	LOC-Tegel-Berlin-Airport
+115	125	Schönefeld	Schönefeld	LOC	LOC-Schönefeld-Airport-Berlin
+257	262	Tegel	Tegel	LOC	LOC-Tegel-Berlin-Airport
+351	361	Schönefeld	Schönefeld	LOC	LOC-Schönefeld-Airport-Berlin
+480	489	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+491	498	Easyjet	Easyjet	ORG	ORG-EasyJet
+500	507	Ryanair	Ryanair	ORG	ORG-Ryanair
+513	521	Aeroflot	Aeroflot	ORG	ORG-Aeroflot
+596	601	Verdi	Verdi	ORG	ORG-Ver.di-Trade-Union

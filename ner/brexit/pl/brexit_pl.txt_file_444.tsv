@@ -1,0 +1,45 @@
+25	31	Sorosa	Soros	PER	PER-George-Soros
+52	59	Brexitu	Brexit	EVT	EVT-Brexit
+62	72	Daily Mail	Daily Mail	PRO	PRO-Daily-Mail
+133	148	Daily Telegraph	Daily Telegraph	PRO	PRO-The-Daily-Telegraph
+166	171	Soros	Soros	PER	PER-George-Soros
+206	229	Open Society Foundation	Open Society Foundation	ORG	ORG-OSF-Soros-Open-Society-Foundation
+264	280	Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+358	375	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+378	380	UE	UE	ORG	ORG-European-Union
+464	485	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+606	608	UE	UE	ORG	ORG-European-Union
+664	670	Sorosa	Soros	PER	PER-George-Soros
+691	693	UE	UE	ORG	ORG-European-Union
+1242	1256	Martin Sorrell	Martin Sorrell	PER	PER-Martin-Sorrell
+1283	1296	Goldman Sachs	Goldman Sachs	ORG	ORG-Goldman-Sachs
+1297	1309	Stephen Peel	Stephen Peel	PER	PER-Stephen-Peel
+1336	1348	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1349	1367	Mark Malloch-Brown	Mark Malloch-Brown	PER	PER-Mark-Malloch-Brown
+1392	1407	Banku Światowym	Bank Światowy	ORG	ORG-World-Bank
+1410	1413	ONZ	ONZ	ORG	ORG-United-Nations
+1533	1541	Brexitem	Brexit	EVT	EVT-Brexit
+1637	1647	Daily Mail	Daily Mail	PRO	PRO-Daily-Mail
+1677	1692	Mallocha-Browna	Malloch-Brown	PER	PER-Mark-Malloch-Brown
+1749	1757	Brexicie	Brexit	EVT	EVT-Brexit
+1952	1954	UE	UE	ORG	ORG-European-Union
+2031	2033	UE	UE	ORG	ORG-European-Union
+2634	2636	UE	UE	ORG	ORG-European-Union
+2643	2658	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2754	2759	Rosję	Rosja	LOC	GPE-Russia
+2785	2788	USA	USA	LOC	GPE-USA
+2800	2814	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2822	2828	Sorosa	Soros	PER	PER-George-Soros
+3048	3056	Brexicie	Brexit	EVT	EVT-Brexit
+3059	3062	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+3133	3146	Goldman Sachs	Goldman Sachs	ORG	ORG-Goldman-Sachs
+3153	3162	Martinowi	Martin	PER	PER-Martin-Sorrell
+3164	3174	Sorrellowi	Sorrell	PER	PER-Martin-Sorrell
+3247	3259	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+3366	3372	Sorosa	Soros	PER	PER-George-Soros
+3679	3686	Brexitu	Brexit	EVT	EVT-Brexit
+3853	3861	Brexicie	Brexit	EVT	EVT-Brexit
+3945	3948	ICM	ICM	ORG	ORG-ICM-Agency
+3954	3963	Guardiana	Guardian	PRO	PRO-The-Guardian
+3977	3989	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+4117	4119	UE	UE	ORG	ORG-European-Union

@@ -1,0 +1,68 @@
+0	3	CNN	CNN	PRO	PRO-CNN
+5	10	Trump	Trump	PER	PER-Donald-Trump
+83	111	wyborach prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+121	129	Indianie	Indiana	LOC	GPE-Indiana
+130	142	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+159	162	CNN	CNN	PRO	PRO-CNN
+176	181	Trump	Trump	PER	PER-Donald-Trump
+202	211	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+328	345	Gabinecie Owalnym	Gabinet Owalny	LOC	LOC-Oval-Office
+410	420	Amerykanów	Amerykanie	PER	GPE-USA
+461	466	TVN24	TVN24	PRO	PRO-TVN24
+478	486	tvn24.pl	tvn24.pl	PRO	PRO-TVN24
+532	537	Maine	Maine	LOC	GPE-Maine
+571	574	CNN	CNN	PRO	PRO-CNN
+591	596	Maine	Maine	LOC	GPE-Maine
+597	611	Matthew Dunlap	Matthew Dunlap	PER	PER-Matthew-Dunlap
+662	668	Anglii	Anglia	LOC	GPE-England
+891	900	Twitterze	Twitter	PRO	PRO-Twitter
+911	923	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+955	963	Indianie	Indiana	LOC	GPE-Indiana
+966	974	Kentucky	Kentucky	LOC	GPE-Kentucky
+1079	1093	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1117	1125	Indianie	Indiana	LOC	GPE-Indiana
+1158	1163	Trump	Trump	PER	PER-Donald-Trump
+1209	1217	Kentucky	Kentucky	LOC	GPE-Kentucky
+1259	1269	demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+1270	1285	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1375	1396	Partii Demokratycznej	Partia Demokratyczna	ORG	ORG-Democratic-Party-USA
+1397	1406	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1430	1438	Scranton	Scranton	LOC	GPE-Scranton
+1441	1452	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+1552	1557	Biden	Biden	PER	PER-Joe-Biden
+1572	1582	Filadelfii	Filadelfia	LOC	GPE-Philadelphia
+1596	1606	Wilmington	Wilmington	LOC	GPE-Wilmington
+1616	1624	Delaware	Delaware	LOC	GPE-Delaware
+1648	1659	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1785	1797	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1845	1852	Indiany	Indiana	LOC	GPE-Indiana
+1855	1863	Kentucky	Kentucky	LOC	GPE-Kentucky
+1879	1891	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2037	2043	Polska	Polska	LOC	GPE-Poland
+2068	2085	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2098	2102	NATO	NATO	ORG	ORG-NATO
+2127	2130	USA	USA	LOC	GPE-USA
+2151	2168	Bogdan Szafrański	Bogdan Szafrański	PER	PER-Bogdan-Szafrański
+2227	2233	Polski	Polska	LOC	GPE-Poland
+2246	2263	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2269	2281	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2308	2323	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+2447	2449	UE	UE	ORG	ORG-European-Union
+2457	2463	Europa	Europa	LOC	LOC-Europe
+2588	2593	TVN24	TVN24	PRO	PRO-TVN24
+2616	2634	Renata Nowaczewska	Renata Nowaczewska	PER	PER-Renata-Nowaczewska
+2637	2646	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2658	2668	Wilmington	Wilmington	LOC	GPE-Wilmington
+2679	2687	Delaware	Delaware	LOC	GPE-Delaware
+2850	2855	TVN24	TVN24	PRO	PRO-TVN24
+2937	2948	Białym Domu	Biały Dom	LOC	LOC-White-House
+3165	3174	Biały Dom	Biały Dom	LOC	LOC-White-House
+3176	3183	Floryda	Floryda	LOC	GPE-Florida
+3185	3202	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+3204	3212	Michigan	Michigan	LOC	GPE-Michigan
+3214	3223	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+3225	3236	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+3239	3246	Arizona	Arizona	LOC	GPE-Arizona
+3305	3317	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+3373	3382	demokratę	demokrata	PER	ORG-Democratic-Party-USA
+3383	3393	Joe Bidena	Joe Biden	PER	PER-Joe-Biden

@@ -1,0 +1,23 @@
+0	3	Fed	Fed	ORG	ORG-Fed
+73	76	USA	USA	LOC	GPE-USA
+137	140	Fed	Fed	ORG	ORG-Fed
+664	667	Fed	Fed	ORG	ORG-Fed
+923	927	FOMC	FOMC	ORG	ORG-FOMC
+1065	1068	Fed	Fed	ORG	ORG-Fed
+1582	1585	Fed	Fed	ORG	ORG-Fed
+1940	1943	Fed	Fed	ORG	ORG-Fed
+2396	2399	Fed	Fed	ORG	ORG-Fed
+2563	2580	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2581	2592	Theresa May	Theresa May	PER	PER-Theresa-May
+2649	2651	UE	UE	ORG	ORG-European-Union
+2772	2775	May	May	PER	PER-Theresa-May
+2826	2833	Torysów	torysi	PER	ORG-Tories
+2855	2862	Brexitu	Brexit	EVT	EVT-Brexit
+2894	2897	May	May	PER	PER-Theresa-May
+2915	2924	Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+2957	2964	Brexitu	Brexit	EVT	EVT-Brexit
+2997	3005	Bruksela	Bruksela	LOC	GPE-Brussles
+3061	3063	UE	UE	ORG	ORG-European-Union
+3115	3121	Brexit	Brexit	EVT	EVT-Brexit
+3521	3524	BoE	BoE	ORG	ORG-Bank-of-England
+3619	3623	FOMC	FOMC	ORG	ORG-FOMC

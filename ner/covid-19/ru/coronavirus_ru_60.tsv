@@ -1,0 +1,36 @@
+226	234	COVID-19	COVID-19	EVT	EVT-Covid-19
+369	380	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+395	401	МОСКВА	МОСКВА	LOC	GPE-Moscow
+412	423	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+439	447	COVID-19	COVID-19	EVT	EVT-Covid-19
+579	595	Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+605	608	РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+609	622	Андрей Каприн	Андрей Каприн	PER	PER-Andrey-Kaprin
+653	664	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+877	892	"""Гам-КОВИД-Вак"""	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+1140	1148	COVID-19	COVID-19	EVT	EVT-Covid-19
+1151	1157	России	Россия	LOC	GPE-Russia
+1189	1207	стопкоронавирус.рф	стопкоронавирус.рф	PRO	PRO-Stop-Coronavirus
+1219	1230	"""спутник v"""	спутник V	PRO	PRO-Sputnik-V
+1232	1243	коронавирус	коронавирус	EVT	EVT-Covid-19
+1246	1252	россии	россия	LOC	GPE-Russia
+1254	1265	коронавирус	коронавирус	EVT	EVT-Covid-19
+1266	1274	covid-19	covid-19	EVT	EVT-Covid-19
+1290	1303	андрей каприн	андрей каприн	PER	PER-Andrey-Kaprin
+1326	1350	российская академия наук	российская академия наук	ORG	ORG-Russian-Academy-of-Sciences
+1352	1383	министерство здравоохранения рф	министерство здравоохранения рф	ORG	ORG-Ministry-of-Health-Russia
+1385	1400	минздрав россии	минздрав россии	ORG	ORG-Ministry-of-Health-Russia
+1474	1480	МОСКВА	МОСКВА	LOC	GPE-Moscow
+1491	1502	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+1518	1526	COVID-19	COVID-19	EVT	EVT-Covid-19
+1658	1674	Минздрава России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+1684	1687	РАН	РАН	ORG	ORG-Russian-Academy-of-Sciences
+1688	1701	Андрей Каприн	Андрей Каприн	PER	PER-Andrey-Kaprin
+1735	1746	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+1959	1974	"""Гам-КОВИД-Вак"""	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+1993	2001	COVID-19	COVID-19	EVT	EVT-Covid-19
+2142	2153	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+2311	2317	Каприн	Каприн	PER	PER-Andrey-Kaprin
+2658	2713	Международное информационное агентство «Россия сегодня»	Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+2715	2735	МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+2791	2805	Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.

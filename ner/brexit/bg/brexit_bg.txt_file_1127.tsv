@@ -1,0 +1,82 @@
+55	57	ЕС	ЕС	ORG	ORG-European-Union
+150	164	Великобритания	Великобритания	LOC	GPE-Great-Britain
+221	228	Брекзит	Брекзит	EVT	EVT-Brexit
+245	252	Брюксел	Брюксел	LOC	GPE-Brussles
+275	289	Великобритания	Великобритания	LOC	GPE-Great-Britain
+356	358	ЕС	ЕС	ORG	ORG-European-Union
+428	440	The Guardian	The Guardian	PRO	PRO-The-Guardian
+490	504	Великобритания	Великобритания	LOC	GPE-Great-Britain
+505	516	Майкъл Гоув	Майкъл Гоув	PER	PER-Michael-Gove
+574	581	Брекзит	Брекзит	EVT	EVT-Brexit
+713	727	Великобритания	Великобритания	LOC	GPE-Great-Britain
+797	805	Норвегия	Норвегия	LOC	GPE-Norway
+808	810	ЕС	ЕС	ORG	ORG-European-Union
+817	824	Брекзит	Брекзит	EVT	EVT-Brexit
+843	847	Гоув	Гоув	PER	PER-Michael-Gove
+996	998	ЕС	ЕС	ORG	ORG-European-Union
+1042	1056	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1057	1069	Джордж Юстис	Джордж Юстис	PER	PER-George-Eustice
+1331	1333	ЕС	ЕС	ORG	ORG-European-Union
+1360	1374	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1542	1556	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1590	1619	Иранското ядрено споразумение	Иранско ядрено споразумение	PRO	PRO-Iran-nuclear-deal
+1621	1635	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1637	1645	Германия	Германия	LOC	GPE-Germany
+1648	1655	Франция	Франция	LOC	GPE-France
+1680	1683	САЩ	САЩ	LOC	GPE-USA
+1684	1696	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1804	1819	The Independent	The Independent	PRO	PRO-The-Independent
+1841	1848	Брюксел	Брюксел	LOC	GPE-Brussles
+1876	1892	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1951	1968	Федерика Могерини	Федерика Могерини	PER	PER-Federica-Mogherini
+2142	2149	Брюксел	Брюксел	LOC	GPE-Brussles
+2178	2191	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+2274	2278	Иран	Иран	LOC	GPE-Iran
+2353	2357	Иран	Иран	LOC	GPE-Iran
+2454	2462	Могерини	Могерини	PER	PER-Federica-Mogherini
+2597	2605	Могерини	Могерини	PER	PER-Federica-Mogherini
+2607	2614	Джонсън	Джонсън	PER	PER-Boris-Johnson
+2662	2676	Зигмар Габриел	Зигмар Габриел	PER	PER-Sigmar-Gabriel
+2679	2695	Жан-Ив льо Дриан	Жан-Ив льо Дриан	PER	PER-Jean-Yves-Le-Drian
+2737	2757	Мохамад Джавад Зариф	Мохамад Джавад Зариф	PER	PER-Mohammad-Javad-Zarif
+2816	2828	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+2953	2960	Брекзит	Брекзит	EVT	EVT-Brexit
+3004	3011	Брюксел	Брюксел	LOC	GPE-Brussles
+3054	3060	Лондон	Лондон	LOC	GPE-London
+3080	3094	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3121	3137	Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+3405	3411	Хамънд	Хамънд	PER	PER-Philip-Hammond
+3423	3430	Брюксел	Брюксел	LOC	GPE-Brussles
+3446	3460	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3506	3512	Лондон	Лондон	LOC	GPE-London
+3539	3541	ЕС	ЕС	ORG	ORG-European-Union
+3603	3617	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3623	3630	Брекзит	Брекзит	EVT	EVT-Brexit
+3773	3787	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3881	3883	ЕС	ЕС	ORG	ORG-European-Union
+3905	3915	британците	британци	PER	GPE-Great-Britain
+3991	3997	Хамънд	Хамънд	PER	PER-Philip-Hammond
+4057	4059	ЕС	ЕС	ORG	ORG-European-Union
+4062	4065	Рим	Рим	LOC	GPE-Rome
+4066	4071	Кипър	Кипър	LOC	GPE-Cyprus
+4073	4078	Малта	Малта	LOC	GPE-Malta
+4080	4086	Гърция	Гърция	LOC	GPE-Greece
+4089	4099	Португалия	Португалия	LOC	GPE-Portugal
+4120	4127	Франция	Франция	LOC	GPE-France
+4129	4136	Испания	Испания	LOC	GPE-Spain
+4139	4145	Италия	Италия	LOC	GPE-Italy
+4268	4285	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+4287	4300	Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+4319	4326	Брекзит	Брекзит	EVT	EVT-Brexit
+4330	4351	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+4432	4434	ЕС	ЕС	ORG	ORG-European-Union
+4497	4503	Европа	Европа	LOC	LOC-Europe
+4627	4634	Франция	Франция	LOC	GPE-France
+4635	4649	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+4828	4840	евродепутати	евродепутати	PER	ORG-European-Parlament
+4861	4873	евродепутати	евродепутати	PER	ORG-European-Parlament
+4875	4882	Брекзит	Брекзит	EVT	EVT-Brexit
+5007	5019	евродепутати	евродепутати	PER	ORG-European-Parlament
+5152	5177	Съединени европейски щати	Съединени европейски щати	LOC	GPE-United-States-of-Europe
+5258	5260	ЕС	ЕС	ORG	ORG-European-Union
+5336	5365	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

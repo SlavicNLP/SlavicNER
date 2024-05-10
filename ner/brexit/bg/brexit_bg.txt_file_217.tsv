@@ -1,0 +1,32 @@
+0	12	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+27	29	ЕС	ЕС	ORG	ORG-European-Union
+33	41	Брекзита	Брекзит	EVT	EVT-Brexit
+55	67	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+89	105	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+109	117	Брекзита	Брекзит	EVT	EVT-Brexit
+134	140	Лондон	Лондон	LOC	GPE-London
+208	212	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+226	229	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+295	309	Велт ам зонтаг	Велт ам зонтаг	PRO	PRO-Welt-am-Sonntag
+370	376	Хамънд	Хамънд	PER	PER-Philip-Hammond
+412	414	ЕС	ЕС	ORG	ORG-European-Union
+444	450	Лондон	Лондон	LOC	GPE-London
+454	462	Брекзита	Брекзит	EVT	EVT-Brexit
+562	564	ЕС	ЕС	ORG	ORG-European-Union
+796	802	Лондон	Лондон	LOC	GPE-London
+822	825	САЩ	САЩ	LOC	GPE-USA
+866	880	Великобритания	Великобритания	LOC	GPE-Great-Britain
+915	921	Европа	Европа	LOC	LOC-Europe
+950	956	Хамънд	Хамънд	PER	PER-Philip-Hammond
+967	973	Лондон	Лондон	LOC	GPE-London
+1012	1014	ЕС	ЕС	ORG	ORG-European-Union
+1096	1110	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1182	1184	ЕС	ЕС	ORG	ORG-European-Union
+1187	1201	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1205	1213	Брекзита	Брекзит	EVT	EVT-Brexit
+1265	1271	Лондон	Лондон	LOC	GPE-London
+1349	1363	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1366	1374	Ирландия	Ирландия	LOC	GPE-Ireland
+1412	1419	Брюксел	Брюксел	LOC	GPE-Brussles
+1444	1446	ЕС	ЕС	ORG	ORG-European-Union
+1785	1792	Брекзит	Брекзит	EVT	EVT-Brexit

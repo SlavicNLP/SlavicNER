@@ -1,0 +1,38 @@
+0	8	Newsweek	Newsweek	PRO	PRO-Newsweek
+12	15	США	США	LOC	GPE-USA
+70	87	пандемія COVID-19	пандемія COVID-19	EVT	EVT-Covid-19
+284	297	коронавірусом	коронавірус	EVT	EVT-Covid-19
+305	312	REUTERS	REUTERS	ORG	ORG-Reuters
+337	340	США	США	LOC	GPE-USA
+348	360	Ентоні Фаучі	Ентоні Фаучі	PER	PER-Anthony-Fauci
+431	439	COVID-19	COVID-19	EVT	EVT-Covid-19
+687	699	The Guardian	The Guardian	ORG	ORG-The-Guardian
+715	723	COVID-19	COVID-19	EVT	EVT-Covid-19
+763	771	Newsweek	Newsweek	PRO	PRO-Newsweek
+775	778	США	США	LOC	GPE-USA
+1092	1101	пандемією	пандемія	EVT	EVT-Covid-19
+1153	1156	США	США	LOC	GPE-USA
+1205	1218	коронавірусом	коронавірус	EVT	EVT-Covid-19
+1432	1441	пандемією	пандемія	EVT	EVT-Covid-19
+1664	1667	США	США	LOC	GPE-USA
+1802	1810	пандемія	пандемія	EVT	EVT-Covid-19
+1867	1872	Фаучі	Фаучі	PER	PER-Anthony-Fauci
+1967	1975	пандемію	пандемія	EVT	EVT-Covid-19
+2188	2196	пандемію	пандемія	EVT	EVT-Covid-19
+2320	2332	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2346	2353	Україні	Україна	LOC	GPE-Ukraine
+2402	2410	BioNTech	BioNTech	ORG	ORG-BioNTech
+2447	2453	Pfizer	Pfizer	ORG	ORG-Pfizer
+2659	2681	коронавірусну інфекцію	коронавірусна інфекція	EVT	EVT-Covid-19
+2917	2924	України	Україна	LOC	GPE-Ukraine
+2925	2945	Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+2965	2974	Німеччини	Німеччина	LOC	GPE-Germany
+2975	2989	Ангелу Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+3009	3016	України	Україна	LOC	GPE-Ukraine
+3064	3072	COVID-19	COVID-19	EVT	EVT-Covid-19
+3078	3085	Україні	Україна	LOC	GPE-Ukraine
+3218	3225	України	Україна	LOC	GPE-Ukraine
+3226	3246	Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+3282	3299	Максиму Степанову	Максим Степанов	PER	PER-Maksym-Stepanov
+3403	3408	УНІАН	УНІАН	ORG	ORG-UNIAN
+3409	3415	ІноЗМІ	ІноЗМІ	PRO	PRO-InoZMI

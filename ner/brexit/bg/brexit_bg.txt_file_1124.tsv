@@ -1,0 +1,28 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+5	19	Великобритания	Великобритания	LOC	GPE-Great-Britain
+66	73	Брекзит	Брекзит	EVT	EVT-Brexit
+74	91	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+94	108	Великобритания	Великобритания	LOC	GPE-Great-Britain
+232	234	ЕС	ЕС	ORG	ORG-European-Union
+238	245	Брекзит	Брекзит	EVT	EVT-Brexit
+246	258	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+261	278	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+281	295	Великобритания	Великобритания	LOC	GPE-Great-Britain
+419	421	ЕС	ЕС	ORG	ORG-European-Union
+425	432	Брекзит	Брекзит	EVT	EVT-Brexit
+433	445	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+458	461	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+463	469	Барние	Барние	PER	PER-Michel-Barnier
+529	536	Брекзит	Брекзит	EVT	EVT-Brexit
+537	550	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+553	560	Брюксел	Брюксел	LOC	GPE-Brussles
+565	567	ЕС	ЕС	ORG	ORG-European-Union
+570	584	Великобритания	Великобритания	LOC	GPE-Great-Britain
+756	764	Ирландия	Ирландия	LOC	GPE-Ireland
+851	857	Дейвис	Дейвис	PER	PER-David-Davis
+896	903	Брекзит	Брекзит	EVT	EVT-Brexit
+1028	1030	ЕС	ЕС	ORG	ORG-European-Union
+1096	1098	ЕС	ЕС	ORG	ORG-European-Union
+1101	1115	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1203	1217	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1278	1280	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,87 @@
+0	10	Adria Tour	Adria Tour	EVT	EVT-Adria-Tour
+32	40	covid-19	covid-19	EVT	EVT-Covid-19
+61	74	Novak Đoković	Novak Đoković	PER	PER-Novak-Đoković
+76	87	Borna Ćorić	Borna Ćorić	PER	PER-Borna-Ćorić
+110	125	Grigor Dimitrov	Grigor Dimitrov	PER	PER-Grigor-Dimitrov
+155	168	Novak Đoković	Novak Đoković	PER	PER-Novak-Đoković
+217	225	Dimitrov	Dimitrov	PER	PER-Grigor-Dimitrov
+331	334	ATP	ATP	ORG	ORG-Association-of-Tennis-Professionals
+335	338	Srb	Srb	PER	GPE-Serbia
+339	352	Novak Đoković	Novak Đoković	PER	PER-Novak-Đoković
+381	389	Beogradu	Beograd	LOC	GPE-Belgrade
+437	442	Zadru	Zadar	LOC	GPE-Zadar
+455	464	Črni gori	Črna gora	LOC	GPE-Montenegro
+528	537	Banjaluke	Banjaluka	LOC	GPE-Banja-Luka
+541	549	Sarajeva	Sarajevo	LOC	GPE-Sarajevo
+667	676	Avstrijec	Avstrijec	PER	GPE-Austria
+677	690	Dominic Thiem	Dominic Thiem	PER	PER-Dominic-Thiem
+738	745	Bolgara	Bolgar	PER	GPE-Bulgaria
+746	764	Grigorja Dimitrova	Grigor Dimitrov	PER	PER-Grigor-Dimitrov
+780	785	Thiem	Thiem	PER	PER-Dominic-Thiem
+826	830	Nico	Nica	LOC	GPE-Nice
+835	843	Dimitrov	Dimitrov	PER	PER-Grigor-Dimitrov
+856	864	Hrvaškem	Hrvaška	LOC	GPE-Croatia
+879	885	Hrvatu	Hrvat	PER	GPE-Croatia
+886	898	Borni Ćoriću	Borna Ćorić	PER	PER-Borna-Ćorić
+1011	1019	Dimitrov	Dimitrov	PER	PER-Grigor-Dimitrov
+1042	1058	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+1171	1179	Bolgarom	Bolgar	PER	GPE-Bulgaria
+1182	1189	Đoković	Đoković	PER	PER-Novak-Đoković
+1290	1299	Dimitrova	Dimitrov	PER	PER-Grigor-Dimitrov
+1302	1307	Zadru	Zadar	LOC	GPE-Zadar
+1308	1319	Borna Ćorić	Borna Ćorić	PER	PER-Borna-Ćorić
+1377	1385	covid-19	covid-19	EVT	EVT-Covid-19
+1687	1702	Novaka Đokovića	Novak Đoković	PER	PER-Novak-Đoković
+1703	1716	Marco Panichi	Marco Panichi	PER	PER-Marco-Panichi
+1727	1736	Dimitrova	Dimitrov	PER	PER-Grigor-Dimitrov
+1737	1751	Christian Groh	Christian Groh	PER	PER-Christian-Groh
+1754	1763	Avstrijec	Avstrijec	PER	GPE-Austria
+1764	1769	Thiem	Thiem	PER	PER-Dominic-Thiem
+1808	1812	Nici	Nica	LOC	GPE-Nice
+1836	1845	Bolgarove	Bolgar	PER	GPE-Bulgaria
+1887	1903	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+1920	1923	Rus	Rus	PER	GPE-Russia
+1924	1941	Aleksander Zverev	Aleksander Zverev	PER	PER-Aleksander-Zverev
+2058	2073	Novaka Đokovića	Novak Đoković	PER	PER-Novak-Đoković
+2118	2125	Beograd	Beograd	LOC	GPE-Belgrade
+2276	2283	Đoković	Đoković	PER	PER-Novak-Đoković
+2315	2323	Beogradu	Beograd	LOC	GPE-Belgrade
+2438	2452	Jelena Đoković	Jelena Đoković	PER	PER-Jelena-Đoković
+2456	2463	Đoković	Đoković	PER	PER-Novak-Đoković
+2645	2654	twitterju	twitter	PRO	PRO-Twitter
+2689	2697	Beogradu	Beograd	LOC	GPE-Belgrade
+2714	2722	Đokovića	Đoković	PER	PER-Novak-Đoković
+2735	2740	Thiem	Thiem	PER	PER-Dominic-Thiem
+2742	2750	Dimitrov	Dimitrov	PER	PER-Grigor-Dimitrov
+2752	2768	Goran Ivanišević	Goran Ivanišević	PER	PER-Goran-Ivanišević
+2772	2778	Zverev	Zverev	PER	PER-Aleksander-Zverev
+2933	2941	Olimpije	Olimpija	ORG	ORG-Košarkarski-klub-Union-Olimpija
+2963	2972	Partizana	Partizan	ORG	ORG-KK-Partizan
+2973	2988	Nikola Janković	Nikola Janković	PER	PER-Nikola-Janković
+3036	3041	Zadru	Zadar	LOC	GPE-Zadar
+3142	3158	Andrej Plenković	Andrej Plenković	PER	PER-Andrej-Plenković
+3256	3262	Bolgar	Bolgar	PER	GPE-Bulgaria
+3275	3282	Hrvaško	Hrvaška	LOC	GPE-Croatia
+3299	3308	Đokovićem	Đoković	PER	PER-Novak-Đoković
+3310	3322	Ivaniševićem	Ivanišević	PER	PER-Goran-Ivanišević
+3326	3341	Marinom Čilićem	Marin Čilić	PER	PER-Marin-Čilić
+3579	3595	Andrej Plenković	Andrej Plenković	PER	PER-Andrej-Plenković
+3686	3700	Božidar Longin	Božidar Longin	PER	PER-Božidar-Longin
+3718	3730	Branko Dukić	Branko Dukić	PER	PER-Branko-Dukić
+3752	3760	KK Zadar	KK Zadar	ORG	ORG-KK-Zadar
+3761	3776	Karlo Uljarević	Karlo Uljarević	PER	PER-Karlo-Uljarević
+3947	3961	Saša Arsenovič	Saša Arsenovič	PER	PER-Saša-Arsenović
+4278	4286	Karlovcu	Karlovec	LOC	GPE-Karlovac
+4314	4329	Davor Božinović	Davor Božinović	PER	PER-Davor-Božinović
+4448	4456	Bolgarom	Bolgar	PER	GPE-Bulgaria
+4482	4490	Dimitrov	Dimitrov	PER	PER-Grigor-Dimitrov
+4493	4498	Zadru	Zadar	LOC	GPE-Zadar
+4633	4648	Novaka Đokovića	Novak Đoković	PER	PER-Novak-Đoković
+4677	4682	Zadru	Zadar	LOC	GPE-Zadar
+4765	4773	Karlovca	Karlovec	LOC	GPE-Karlovac
+4897	4921	teniškega kluba Karlovac	teniški klub Karlovac	ORG	ORG-Teniški-Klub-Karlovac
+4960	4965	Zadru	Zadar	LOC	GPE-Zadar
+5075	5083	Karlovcu	Karlovec	LOC	GPE-Karlovac
+5184	5207	teniškem klubu Karlovac	teniški klub Karlovac	ORG	ORG-Teniški-Klub-Karlovac
+5276	5283	Hrvaška	Hrvaška	LOC	GPE-Croatia
+5380	5389	Božinović	Božinović	PER	PER-Davor-Božinović

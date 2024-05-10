@@ -1,0 +1,16 @@
+0	12	Matjaž Jereb	Matjaž Jereb	PER	PER-Matjaž-Jereb
+47	55	covid-19	covid-19	EVT	EVT-Covid-19
+68	77	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+107	115	covid-19	covid-19	EVT	EVT-Covid-19
+257	269	Matjaž Jereb	Matjaž Jereb	PER	PER-Matjaž-Jereb
+344	357	UKC Ljubljana	UKC Ljubljana	LOC	LOC-University-Medical-Centre-Ljubljana
+401	409	covid-19	covid-19	EVT	EVT-Covid-19
+502	535	Infekcijski kliniki UKC Ljubljana	Infekcijska klinika UKC Ljubljana	LOC	LOC-Department-of-Infectious-Diseases-University-Medical-Centre-Ljubljana
+536	548	Matjaž Jereb	Matjaž Jereb	PER	PER-Matjaž-Jereb
+855	860	Jereb	Jereb	PER	PER-Matjaž-Jereb
+888	896	covid-19	covid-19	EVT	EVT-Covid-19
+1889	1892	UKC	UKC	LOC	LOC-University-Medical-Centre-Ljubljana
+1932	1940	covid-19	covid-19	EVT	EVT-Covid-19
+3456	3464	covid-19	covid-19	EVT	EVT-Covid-19
+3713	3722	Sloveniji	Slovenija	LOC	GPE-Slovenia
+3761	3769	covid-19	covid-19	EVT	EVT-Covid-19

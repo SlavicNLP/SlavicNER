@@ -1,0 +1,27 @@
+1	7	Brexit	Brexit	EVT	EVT-Brexit
+19	35	Hotel California	Hotel California	PRO	PRO-Hotel-California
+37	48	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+101	112	Theresy May	Theresa May	PER	PER-Theresa-May
+180	188	Irlandią	Irlandia	LOC	GPE-Ireland
+191	208	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+224	245	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+371	378	brexitu	Brexit	EVT	EVT-Brexit
+379	392	Davida Davisa	David Davis	PER	PER-David-Davis
+418	429	Theresą May	Theresa May	PER	PER-Theresa-May
+586	594	brexicie	Brexit	EVT	EVT-Brexit
+596	602	Londyn	Londyn	LOC	GPE-London
+639	641	UE	UE	ORG	ORG-European-Union
+713	715	UE	UE	ORG	ORG-European-Union
+716	724	Irlandii	Irlandia	LOC	GPE-Ireland
+742	765	Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+766	784	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+815	819	Unii	Unia	ORG	ORG-European-Union
+825	831	Dublin	Dublin	LOC	GPE-Dublin
+837	844	Belfast	Belfast	LOC	GPE-Belfast
+850	856	Londyn	Londyn	LOC	GPE-London
+927	930	May	May	PER	PER-Theresa-May
+964	968	Unią	Unia	ORG	ORG-European-Union
+1116	1122	brexit	Brexit	EVT	EVT-Brexit
+1162	1168	Londyn	Londyn	LOC	GPE-London
+1171	1179	Bruksela	Bruksela	LOC	GPE-Brussles
+1267	1279	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain

@@ -1,0 +1,33 @@
+0	3	ZDA	ZDA	LOC	GPE-USA
+4	11	Nemčiji	Nemčija	LOC	GPE-Germany
+44	56	koronavirusu	koronavirus	EVT	EVT-Covid-19
+104	116	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+180	183	ZDA	ZDA	LOC	GPE-USA
+263	270	Berlinu	Berlin	LOC	GPE-Berlin
+395	398	ZDA	ZDA	LOC	GPE-USA
+518	539	holdinga Hopp BioTech	holding Hopp BioTech	ORG	ORG-Hopp-Biotech-Holding
+557	564	CureVac	CureVac	ORG	ORG-CureVac
+566	584	Christofa Hetticha	Christof Hettich	PER	PER-Christof-Hettich
+599	616	Mannheimer Morgen	Mannheimer Morgen	ORG	ORG-Mannheimer-Morgen
+619	626	Hettich	Hettich	PER	PER-Christof-Hettich
+701	720	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+732	744	Dietmar Hopp	Dietmar Hopp	PER	PER-Dietmar-Hopp
+849	858	Tübingenu	Tübingen	LOC	GPE-Tübingen
+1047	1054	Nemčija	Nemčija	LOC	GPE-Germany
+1089	1093	Cepi	Cepi	ORG	ORG-Coalition-for-Epidemic-Preparedness-Innovations
+1107	1121	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1123	1156	Svetovne zdravstvene organizacije	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+1247	1251	Cepi	Cepi	ORG	ORG-Coalition-for-Epidemic-Preparedness-Innovations
+1272	1280	CureVacu	CureVac	ORG	ORG-CureVac
+1346	1360	Peter Altmaier	Peter Altmaier	PER	PER-Peter-Altmaier
+1369	1390	krščanskih demokratov	Krščanski demokrati	ORG	ORG-Christlich-Demokratische-Union
+1392	1395	CDU	CDU	ORG	ORG-Christlich-Demokratische-Union
+1424	1431	Nemčije	Nemčija	LOC	GPE-Germany
+1446	1452	Evropi	Evropa	LOC	LOC-Europe
+1706	1738	nemški socialdemokratski stranki	nemška socialdemokratska stranka	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+1739	1742	SPD	SPD	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+1781	1784	ZDA	ZDA	LOC	GPE-USA
+1976	1983	America	America	LOC	GPE-USA
+2022	2025	SPD	SPD	ORG	ORG-Sozialdemokratische-Partei-Deutschlands
+2036	2046	bundestagu	bundestag	ORG	ORG-Bundestag
+2047	2057	Bärbel Bas	Bärbel Bas	PER	PER-Bärbel-Bas

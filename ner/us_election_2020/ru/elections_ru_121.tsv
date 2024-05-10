@@ -1,0 +1,68 @@
+2	5	США	США	LOC	GPE-USA
+45	56	OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+97	107	Американцы	Американцы	PER	GPE-USA
+199	202	США	США	LOC	GPE-USA
+236	241	Трамп	Трамп	PER	PER-Donald-Trump
+360	363	США	США	LOC	GPE-USA
+455	467	коронавируса	коронавирус	EVT	EVT-Covid-19
+583	605	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+606	616	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+654	676	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+679	692	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+750	761	американцев	американцы	PER	GPE-USA
+791	796	Трамп	Трамп	PER	PER-Donald-Trump
+877	883	Штатах	Штаты	LOC	GPE-USA
+931	942	OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+961	973	американские	американские	LOC	GPE-USA
+1030	1033	США	США	LOC	GPE-USA
+1111	1123	коронавируса	коронавирус	EVT	EVT-Covid-19
+1135	1140	Штаты	Штаты	LOC	GPE-USA
+1367	1377	американцы	американцы	PER	GPE-USA
+1522	1531	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+1564	1567	США	США	LOC	GPE-USA
+1633	1638	Киеве	Киев	LOC	GPE-Kiev
+1743	1753	американцы	американцы	PER	GPE-USA
+1818	1825	Флорида	Флорида	LOC	GPE-Florida
+1869	1878	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+2060	2067	Америку	Америка	LOC	GPE-USA
+2109	2120	OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+2163	2175	американские	американские	LOC	GPE-USA
+2313	2323	американцы	американцы	PER	GPE-USA
+2472	2475	США	США	LOC	GPE-USA
+2775	2782	Америке	Америка	LOC	GPE-USA
+3071	3082	OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+3107	3119	американской	американская	LOC	GPE-USA
+3128	3137	Вашингтон	Вашингтон	LOC	GPE-Washington
+3143	3150	Америке	Америка	LOC	GPE-USA
+3316	3319	США	США	LOC	GPE-USA
+3342	3353	OBOZREVATEL	OBOZREVATEL	PRO	PRO-Obozrevatel
+3354	3364	украинский	украинский	LOC	GPE-Ukraine
+3375	3388	Питер Залмаев	Питер Залмаев	PER	PER-Peter-Zalmayev
+3412	3422	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3527	3538	американцев	американцы	PER	GPE-USA
+3576	3579	США	США	LOC	GPE-USA
+3625	3634	демократы	демократы	ORG	ORG-Democratic-Party-USA
+3637	3650	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+3799	3806	Никсоне	Никсон	PER	PER-Richard-Nixon
+3808	3821	Ричард Никсон	Ричард Никсон	PER	PER-Richard-Nixon
+3838	3841	США	США	LOC	GPE-USA
+4001	4009	Залмаева	Залмаев	PER	PER-Peter-Zalmayev
+4025	4035	американцы	американцы	PER	GPE-USA
+4229	4238	демократы	демократы	ORG	ORG-Democratic-Party-USA
+4275	4281	Байден	Байден	PER	PER-Joe-Biden
+4285	4298	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+4313	4319	Трампа	Трамп	PER	PER-Donald-Trump
+4370	4378	Байденом	Байден	PER	PER-Joe-Biden
+4408	4413	Трамп	Трамп	PER	PER-Donald-Trump
+4513	4520	Байдена	Байден	PER	PER-Joe-Biden
+4602	4605	США	США	LOC	GPE-USA
+4698	4701	США	США	LOC	GPE-USA
+4807	4818	американцев	американцы	PER	GPE-USA
+4841	4848	Америке	Америка	LOC	GPE-USA
+4887	4902	Республиканская	Республиканская	ORG	ORG-Republican-Party-USA
+4906	4921	Демократическая	Демократическая	ORG	ORG-Democratic-Party-USA
+4944	4955	американцев	американцы	PER	GPE-USA
+5024	5030	Байден	Байден	PER	PER-Joe-Biden
+5035	5040	Трамп	Трамп	PER	PER-Donald-Trump
+5157	5160	США	США	LOC	GPE-USA
+5227	5234	Америка	Америка	LOC	GPE-USA

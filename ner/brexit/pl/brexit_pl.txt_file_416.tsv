@@ -1,0 +1,53 @@
+0	9	Europoseł	Europoseł	PER	ORG-European-Parlament
+79	81	UE	UE	ORG	ORG-European-Union
+83	92	Europoseł	Europoseł	PER	ORG-European-Parlament
+144	146	UE	UE	ORG	ORG-European-Union
+185	190	Sofii	Sofia	LOC	GPE-Sofia
+219	221	KE	KE	ORG	ORG-European-Commission
+300	318	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+485	500	Horyzont Europa	Horyzont Europa	PRO	PRO-Horizon-Europe
+649	657	Bułgarii	Bułgaria	LOC	GPE-Bulgaria
+661	668	Rumunii	Rumunia	LOC	GPE-Romania
+719	725	Europa	Europa	LOC	LOC-Europe
+746	761	van Nistelrooij	van Nistelrooij	PER	PER-Lambert-van-Nistelrooij
+786	788	KE	KE	ORG	ORG-European-Commission
+913	929	Tomisław Donczew	Tomisław Donczew	PER	PER-Tomisław-Donczew
+943	951	Bułgarii	Bułgaria	LOC	GPE-Bulgaria
+999	1008	Radzie UE	Rada UE	ORG	ORG-European-Council
+1195	1201	Brexit	Brexit	EVT	EVT-Brexit
+1342	1350	Bułgarii	Bułgaria	LOC	GPE-Bulgaria
+1545	1551	Europy	Europa	LOC	LOC-Europe
+1667	1673	Europa	Europa	LOC	LOC-Europe
+1733	1764	Europejskiego Komitetu Regionów	Europejski Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+1765	1787	Karla-Heinza Lambertza	Karl-Heinz Lambertz	PER	PER-Karl-Heinz-Lambertz
+1860	1866	Europy	Europa	LOC	LOC-Europe
+1932	1940	Lambertz	Lambertz	PER	PER-Karl-Heinz-Lambertz
+1942	1946	Belg	Belg	PER	GPE-Belgium
+1969	1986	Komitetu Regionów	Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+2213	2231	Isabelle Boudineau	Isabelle Boudineau	PER	PER-Isabelle-Boudineau
+2241	2259	Komitecie Regionów	Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+2307	2309	UE	UE	ORG	ORG-European-Union
+2356	2363	Brexitu	Brexit	EVT	EVT-Brexit
+2392	2399	Europie	Europa	LOC	LOC-Europe
+2453	2455	UE	UE	ORG	ORG-European-Union
+2500	2502	UE	UE	ORG	ORG-European-Union
+2677	2679	UE	UE	ORG	ORG-European-Union
+2878	2882	Unię	Unia	ORG	ORG-European-Union
+2984	2993	Boudineau	Boudineau	PER	PER-Isabelle-Boudineau
+3045	3060	wielkopolskiego	wielkopolskie	LOC	GPE-Poland-Greater-Poland-Voivodeship
+3061	3074	Marek Woźniak	Marek Woźniak	PER	PER-Marek-Woźniak
+3399	3403	Unii	Unia	ORG	ORG-European-Union
+3487	3495	Brukseli	Bruksela	LOC	GPE-Brussles
+3646	3663	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3718	3725	Woźniak	Woźniak	PER	PER-Marek-Woźniak
+3735	3753	Jorge Nunez Ferrer	Jorge Nunez Ferrer	PER	PER-Jorge-Nunez-Ferrer
+3756	3795	Centrum Studiów nad Polityką Europejską	Centrum Studiów nad Polityką Europejską	ORG	ORG-CEPS-Centre-for-European-Policy-Studies
+3833	3840	Brexitu	Brexit	EVT	EVT-Brexit
+4115	4146	Europejski Fundusz Inwestycyjny	Europejski Fundusz Inwestycyjny	ORG	ORG-EIF-European-Investment-Fund
+4239	4241	UE	UE	ORG	ORG-European-Union
+4279	4287	Brexicie	Brexit	EVT	EVT-Brexit
+4416	4420	Unii	Unia	ORG	ORG-European-Union
+4470	4476	Ferrer	Ferrer	PER	PER-Jorge-Nunez-Ferrer
+4502	4522	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+4563	4565	UE	UE	ORG	ORG-European-Union
+4591	4613	wspólna polityka rolna	Wspólna polityka rolna	PRO	PRO-CAP-Common-Agricultural-Policy

@@ -1,0 +1,75 @@
+21	30	Belo hišo	Bela hiša	LOC	LOC-White-House
+60	77	Združenih državah	Združene države	LOC	GPE-USA
+158	168	Američanov	Američani	PER	GPE-USA
+307	316	Beli hiši	Bela hiša	LOC	LOC-White-House
+508	518	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+522	535	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+536	545	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+549	561	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+760	765	Trump	Trump	PER	PER-Donald-Trump
+899	909	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+911	920	Michiganu	Michigan	LOC	GPE-Michigan
+922	934	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+938	954	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+956	961	Biden	Biden	PER	PER-Joe-Biden
+984	988	Ohiu	Ohio	LOC	GPE-Ohio
+992	1004	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1214	1219	Trump	Trump	PER	PER-Donald-Trump
+1250	1259	Beli hiši	Bela hiša	LOC	LOC-White-House
+1276	1291	New York Timesa	New York Times	PRO	PRO-The-New-York-Times
+1401	1406	Biden	Biden	PER	PER-Joe-Biden
+1428	1436	Delawara	Delaware	LOC	GPE-Delaware
+1437	1448	Wilmingtonu	Wilmington	LOC	GPE-Wilmington
+1533	1543	demokratih	demokrati	ORG	ORG-Democratic-Party-USA
+1656	1671	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1856	1862	Trumpa	Trump	PER	PER-Donald-Trump
+1937	1943	Trumpa	Trump	PER	PER-Donald-Trump
+2084	2089	Bidna	Biden	PER	PER-Joe-Biden
+2106	2115	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+2160	2170	Clintonovo	Clinton	PER	PER-Hillary-Clinton
+2253	2258	Bidnu	Biden	PER	PER-Joe-Biden
+2408	2425	RealClearPolitics	RealClearPolitics	ORG	ORG-RealClearPolitics
+2427	2436	Demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+2509	2525	Latinske Amerike	Latinska Amerika	LOC	LOC-Latin-America
+2529	2536	Floridi	Florida	LOC	GPE-Florida
+2603	2615	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+2646	2659	Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+2741	2746	Biden	Biden	PER	PER-Joe-Biden
+2843	2848	Biden	Biden	PER	PER-Joe-Biden
+2920	2929	demokrate	demokrati	PER	ORG-Democratic-Party-USA
+2991	2996	Trump	Trump	PER	PER-Donald-Trump
+3025	3030	Trump	Trump	PER	PER-Donald-Trump
+3199	3209	Američanov	Američani	PER	GPE-USA
+3213	3220	Floridi	Florida	LOC	GPE-Florida
+3226	3233	Arizoni	Arizona	LOC	GPE-Arizona
+3357	3362	Trump	Trump	PER	PER-Donald-Trump
+3433	3446	Grand Rapidsu	Grand Rapids	LOC	GPE-Grand-Rapids
+3449	3458	Michiganu	Michigan	LOC	GPE-Michigan
+3794	3801	Teksasu	Teksas	LOC	GPE-Texas
+4043	4052	Američani	Američani	PER	GPE-USA
+4177	4186	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+4308	4325	Amy Coney Barrett	Amy Coney Barrett	PER	PER-Amy-Coney-Barrett
+4455	4460	Trump	Trump	PER	PER-Donald-Trump
+4469	4478	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+4670	4682	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+4708	4722	Južni Karolini	Južna Karolina	LOC	GPE-South-Carolina-US-State
+4755	4762	Trumpov	Trump	PER	PER-Donald-Trump
+4780	4794	Lindsey Graham	Lindsey Graham	PER	PER-Lindsey-Graham
+4798	4814	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+4845	4856	Thom Tillis	Thom Tillis	PER	PER-Thom-Tills
+4900	4916	Cala Cunninghama	Cal Cunningham	PER	PER-Cal-Cunningham
+5012	5016	Iowi	Iowa	LOC	GPE-Iowa
+5047	5057	Joni Ernst	Joni Ernst	PER	PER-Joni-Ernst
+5219	5223	Iowi	Iowa	LOC	GPE-Iowa
+5243	5250	Arizoni	Arizona	LOC	GPE-Arizona
+5280	5294	Marthe McSally	Martha McSally	PER	PER-Martha-McSally
+5311	5321	Mark Kelly	Mark Kelly	PER	PER-Mark-Kelly
+5340	5353	Susan Collins	Susan Collins	PER	PER-Susan-Collins
+5356	5361	Mainu	Maine	LOC	GPE-Maine
+5459	5465	Trumpa	Trump	PER	PER-Donald-Trump
+5546	5553	Montani	Montana	LOC	GPE-Montana-US-State
+5559	5569	demokratih	demokrati	ORG	ORG-Democratic-Party-USA
+5582	5591	Michiganu	Michigan	LOC	GPE-Michigan
+5595	5604	Minnesoti	Minnesota	LOC	GPE-Minnesota
+5637	5644	Georgii	Georgia	LOC	GPE-Georgia-US-state
+5666	5678	republikanci	republikanci	ORG	ORG-Republican-Party-USA

@@ -1,0 +1,108 @@
+0	6	Kerala	Kerala	LOC	GPE-Kerala
+66	90	Święta Bożego Narodzenia	Święta Bożego Narodzenia	EVT	EVT-Christmas
+371	376	Indii	Indie	LOC	GPE-India
+432	447	wSieci Historii	wSieci Historii	PRO	PRO-wScieci-Historii
+458	465	Indiach	Indie	LOC	GPE-India
+495	501	Kerala	Kerala	LOC	GPE-Kerala
+666	669	Goa	Goa	LOC	LOC-Goa
+713	723	Chrystusie	Chrystus	PER	PER-Jesus-Christ
+745	751	Kerali	Kerala	LOC	GPE-Kerala
+872	878	Kerali	Kerala	LOC	GPE-Kerala
+1020	1031	Holy Angels	Holy Angels	ORG	ORG-Holy-Angels
+1055	1063	Hindusów	Hindusi	PER	GPE-India
+1457	1464	Europie	Europa	LOC	LOC-Europe
+1530	1541	Che Guevarą	Che Guevara	PER	PER-Che-Guevara
+1623	1631	Włoszech	Włochy	LOC	GPE-Italy
+1667	1678	Che Guevara	Chue Guevara	PER	PER-Che-Guevara
+1969	1975	Lenina	Lenin	PER	PER-Lenin
+1984	1992	Stalinów	Staliny	PER	PER-Stalin
+2048	2061	Fidela Castro	Fidel Castro	PER	PER-Fidel-Castro
+2590	2595	Indii	Indie	LOC	GPE-India
+2680	2688	Indiami,	Indie	LOC	GPE-India
+2689	2699	Pakistanem	Pakistan	LOC	GPE-Pakistan
+2701	2710	Kera-alam	Kera-alam	LOC	GPE-Kera-alam
+2714	2721	Newyork	Newyork	PRO	PRO-Newyork-ship
+2889	2894	Indii	Indie	LOC	GPE-India
+2896	2902	Kerala	Kerala	LOC	GPE-Kerala
+3162	3168	Polsce	Polska	LOC	GPE-Poland
+3224	3230	Kerali	Kerala	LOC	GPE-Kerala
+3268	3273	Indii	Indie	LOC	GPE-India
+3322	3328	Keralę	Kerala	LOC	GPE-Kerala
+3342	3355	Portugalczycy	Portugalczycy	PER	GPE-Portugal
+3357	3366	Holendrzy	Holendrzy	PER	GPE-Holand
+3369	3380	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+3941	3946	Indii	Indie	LOC	GPE-India
+4265	4272	Newyork	Newyork	PRO	PRO-Newyork-ship
+4362	4369	Ameryką	Ameryka	LOC	GPE-USA
+4388	4396	Hindusów	Hindusi	PER	GPE-India
+4538	4550	Bobby Jindal	Bobby Jindal	PER	PER-Bobby-Jindal
+4565	4573	Luizjany	Luizjana	LOC	GPE-Louisiana
+4586	4591	Indii	Indie	LOC	GPE-India
+4873	4879	Kerala	Kerala	LOC	GPE-Kerala
+4907	4912	Indii	Indie	LOC	GPE-India
+4995	5000	Indie	Indie	LOC	GPE-India
+5045	5051	Kerali	Kerala	LOC	GPE-Kerala
+5101	5108	Indiach	Indie	LOC	GPE-India
+5271	5280	Chrystusa	Chrystus	PER	PER-Jesus-Christ
+5317	5333	świętego Tomasza	Święty Tomasz	PER	PER-Saint-Thomas
+5519	5527	Mahometa	Mahomet	PER	PER-Mahomet
+5608	5617	św. Jerzy	Święty Jerzy	PER	PER-Saint-George
+5990	5997	Indiach	Indie	LOC	GPE-India
+6099	6109	Pakistanie	Pakistan	LOC	GPE-Pakistan
+6227	6232	Indii	Indie	LOC	GPE-India
+6335	6338	Goa	Goa	LOC	LOC-Goa
+6345	6351	Kerali	Kerala	LOC	GPE-Kerala
+6387	6397	Pakistanie	Pakistan	LOC	GPE-Pakistan
+6442	6452	Wielkanocy	Wielkanoc	EVT	EVT-Easter
+6457	6474	Bożego Narodzenia	Boże Narodzenie	EVT	EVT-Christmas
+6646	6655	Asia Bibi	Asia Bibi	PER	PER-Asia-Bibi
+6684	6694	Pakistanie	Pakistan	LOC	GPE-Pakistan
+6736	6743	Indiach	Indie	LOC	GPE-India
+6871	6895	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+6958	6968	Pakistanem	Pakistan	LOC	GPE-Pakistan
+7047	7054	Japonią	Japonia	LOC	GPE-Japan
+7067	7076	New Delhi	New Delhi	LOC	GPE-New-Delhi
+7078	7083	Agrze	Agra	LOC	GPE-Agra
+7085	7092	Mombaju	Mombaj	LOC	GPE-Mumbai
+7094	7101	Bombaju	Bombaj	LOC	GPE-Mumbai
+7104	7113	Bangalore	Bangalor	LOC	GPE-Bangalor
+7115	7127	Radżasthanie	Radżastan	LOC	GPE-Rajasthan
+7129	7138	Udajpurze	Udajpur	LOC	GPE-Udaipur
+7145	7153	Nanitalu	Nanital	LOC	GPE-Nanital
+7164	7173	Himalajów	Himalaje	LOC	LOC-Himalaya
+7357	7363	Kerali	Kerala	LOC	GPE-Kerala
+7365	7371	Kollam	Kollam	LOC	GPE-Kollam
+7457	7482	posągiem Jezusa Chrystusa	posąg Jezusa Chrystusa	LOC	LOC-Jesus-Christ-Statue
+7542	7548	Kollam	Kollam	LOC	GPE-Kollam
+7830	7848	Thiruvananthapuram	Thiruvananthapuram	LOC	GPE-Thiruvananthapuram
+7923	7936	Ahuthanandana	Ahuthanandan	PER	PER-Velikkakathu-Sankaran-Achuthanandan
+7953	7982	Ramkrishnana Suryabhana Gavai	Ramkrishnan Suryabhan Gavai	PER	PER-Ramkrishnan-Suryabhan-Gavai
+8011	8017	Kerali	Kerala	LOC	GPE-Kerala
+8062	8068	Koczin	Koczi	LOC	GPE-Kochi
+8088	8108	Wybrzeżu Malabarskim	Wybrzeże Malabarskie	LOC	LOC-Malabar-Coast
+8145	8150	Indii	Indie	LOC	GPE-India
+8360	8368	Hindusom	Hindusi	PER	GPE-India
+8502	8515	Święty Tomasz	Święty Tomasz	PER	PER-Saint-Thomas
+8541	8547	Kerala	Kerala	LOC	GPE-Kerala
+8581	8586	Indii	Indie	LOC	GPE-India
+8627	8634	Indiami	Indie	LOC	GPE-India
+8665	8670	Indii	Indie	LOC	GPE-India
+8712	8718	Kerali	Kerala	LOC	GPE-Kerala
+8722	8725	Goa	Goa	LOC	LOC-Goa
+8808	8817	Nazarecie	Nazaret	LOC	GPE-Nazareth
+8834	8840	Jezusa	Jezus	PER	PER-Jesus-Christ
+8843	8854	Jerozolimie	Jerozolima	LOC	GPE-Jerusalem
+9088	9094	Kerali	Kerala	LOC	GPE-Kerala
+9112	9117	Indii	Indie	LOC	GPE-India
+9118	9124	Kerala	Kerala	LOC	GPE-Kerala
+9196	9213	Oceanem Indyjskim	Ocean Indyjski	LOC	LOC-Indian-Ocean
+9678	9696	Kościół malabarski	Kościół malabarski	ORG	ORG-Malabar-Church
+9740	9756	świętego Tomasza	święty Tomasz	PER	PER-Saint-Thomas
+10054	10062	Mahometa	Mahomet	PER	PER-Mahomet
+10154	10160	Kerali	Kerala	LOC	GPE-Kerala
+10619	10624	Indii	Indie	LOC	GPE-India
+10759	10769	Radżastanu	Radżastan	LOC	GPE-Rajasthan
+11108	11113	Indii	Indie	LOC	GPE-India
+11248	11261	Europejczyków	Europejczycy	PER	LOC-Europe
+11369	11374	Indii	Indie	LOC	GPE-India
+11400	11409	Chrystusa	Chrystus	PER	PER-Jesus-Christ

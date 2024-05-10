@@ -1,0 +1,34 @@
+0	5	Baker	Baker	PER	PER-Steve-Baker
+29	36	brexitu	Brexit	EVT	EVT-Brexit
+92	109	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+110	121	Steve Baker	Steve Baker	PER	PER-Steve-Baker
+134	144	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+186	194	Buzzfeed	Buzzfeed	PRO	PRO-Buzzfeed-website
+248	255	Brexitu	Brexit	EVT	EVT-Brexit
+331	336	Baker	Baker	PER	PER-Steve-Baker
+350	360	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+450	458	Buzzfeed	Buzzfeed	PRO	PRO-Buzzfeed-website
+600	602	UE	UE	ORG	ORG-European-Union
+648	658	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+898	913	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1171	1178	Brexitu	Brexit	EVT	EVT-Brexit
+1288	1293	Baker	Baker	PER	PER-Steve-Baker
+1519	1536	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1539	1556	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1592	1600	Buzzfeed	Buzzfeed	PRO	PRO-Buzzfeed-website
+1777	1792	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1861	1872	Theresy May	Theresa May	PER	PER-Theresa-May
+1914	1922	BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+2028	2030	UE	UE	ORG	ORG-European-Union
+2035	2052	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2141	2151	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+2183	2185	UE	UE	ORG	ORG-European-Union
+2308	2326	Komisją Europejską	Komisja Europejska	ORG	ORG-European-Commission
+2377	2379	UE	UE	ORG	ORG-European-Union
+2426	2453	Światową Organizację Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization
+2560	2569	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2601	2634	Europejskim Obszarze Gospodarczym	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+2683	2685	UE	UE	ORG	ORG-European-Union
+2762	2777	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2806	2823	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2848	2857	Wspólnotę	Wspólnota	ORG	ORG-European-Union

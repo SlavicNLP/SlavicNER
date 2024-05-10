@@ -1,0 +1,126 @@
+10	16	Домрин	Домрин	PER	PER-Alexander-Domrin
+35	37	РФ	РФ	LOC	GPE-Russia
+65	68	США	США	LOC	GPE-USA
+79	88	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+90	93	США	США	LOC	GPE-USA
+109	115	Россия	Россия	LOC	GPE-Russia
+153	165	американских	американский	LOC	GPE-USA
+193	217	факультета права НИУ ВШЭ	факультет права НИУ ВШЭ	ORG	ORG-Faculty-of-Law-HSE
+218	234	Александр Домрин	Александр Домрин	PER	PER-Alexander-Domrin
+248	251	США	США	LOC	GPE-USA
+252	265	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+287	301	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+373	378	Трамп	Трамп	PER	PER-Donald-Trump
+398	404	Техасе	Техас	LOC	GPE-Texas
+427	434	Флориде	Флорида	LOC	GPE-Florida
+437	444	Аризоне	Аризона	LOC	GPE-Arizona
+465	477	американские	американский	LOC	GPE-USA
+575	580	Трамп	Трамп	PER	PER-Donald-Trump
+671	683	американских	американский	LOC	GPE-USA
+718	725	Байдена	Байден	PER	PER-Joe-Biden
+738	744	Трампу	Трамп	PER	PER-Donald-Trump
+832	842	демократов	демократ	ORG	ORG-Democratic-Party-USA
+845	859	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+914	921	Флорида	Флорида	LOC	GPE-Florida
+998	1002	Буша	Буш	PER	PER-George-Bush-Jr
+1007	1012	Гором	Гор	PER	PER-Al-Gore
+1123	1128	Трамп	Трамп	PER	PER-Donald-Trump
+1154	1168	Южной Каролине	Южная Каролина	LOC	GPE-South-Carolina-US-State
+1171	1183	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1228	1236	Виргинии	Виргиния	LOC	GPE-Virginia
+1273	1276	США	США	LOC	GPE-USA
+1277	1287	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1326	1347	Медиагруппа «Патриот»	"Медиагруппа ""Патриот"""	ORG	ORG-Media-Group-Patriot
+1350	1380	Федеральное агентство новостей	Федеральное агентство новостей	ORG	ORG-Russia-Federal-News-Agency-Economics-Today
+1426	1429	США	США	LOC	GPE-USA
+1505	1511	Москвы	Москва	LOC	GPE-Moscow
+1514	1524	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+1526	1531	Трамп	Трамп	PER	PER-Donald-Trump
+1546	1553	Байдена	Байден	PER	PER-Joe-Biden
+1587	1593	России	Россия	LOC	GPE-Russia
+1669	1675	России	Россия	LOC	GPE-Russia
+1736	1741	ДРСМД	ДРСМД	PRO	PRO-IRNFT
+1744	1770	Договора по открытому небу	Договор по открытому небу	PRO	PRO-The-Treaty-on-Open-Skies
+1785	1790	Трамп	Трамп	PER	PER-Donald-Trump
+1839	1842	США	США	LOC	GPE-USA
+1869	1875	Домрин	Домрин	PER	PER-Alexander-Domrin
+1881	1902	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+1937	1946	демократы	демократ	ORG	ORG-Democratic-Party-USA
+2002	2007	Трамп	Трамп	PER	PER-Donald-Trump
+2048	2056	Мексикой	Мексика	LOC	GPE-Mexico
+2134	2155	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2177	2182	Трамп	Трамп	PER	PER-Donald-Trump
+2207	2212	Сенат	Сенат	ORG	ORG-United-States-Senate
+2222	2243	Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2290	2296	Домрин	Домрин	PER	PER-Alexander-Domrin
+2300	2305	Трамп	Трамп	PER	PER-Donald-Trump
+2418	2425	Россией	Россия	LOC	GPE-Russia
+2446	2453	Байдена	Байден	PER	PER-Joe-Biden
+2484	2493	российско	российский	LOC	GPE-Russia
+2494	2506	американские	американский	LOC	GPE-USA
+2594	2608	Майкла Макфола	Майкл Макфол	PER	PER-Michael-McFaul
+2611	2626	Виктории Нуланд	Виктория Нуланд	PER	PER-Victoria-Nuland
+2750	2756	Домрин	Домрин	PER	PER-Alexander-Domrin
+2760	2766	Макфол	Макфол	PER	PER-Michael-McFaul
+2771	2783	американским	американский	LOC	GPE-USA
+2793	2795	РФ	РФ	LOC	GPE-Russia
+2800	2805	Обаме	Обама	PER	PER-Barack-Obama
+2870	2876	Нуланд	Нуланд	PER	PER-Victoria-Nuland
+2898	2905	Майдане	Майдан	LOC	LOC-Ukraine-Independence-Square
+2952	2959	Украине	Украина	LOC	GPE-Ukraine
+2992	3001	российско	российский	LOC	GPE-Russia
+3002	3014	американских	американский	LOC	GPE-USA
+3052	3057	Трамп	Трамп	PER	PER-Donald-Trump
+3081	3087	Байден	Байден	PER	PER-Joe-Biden
+3118	3125	Америка	Америка	LOC	GPE-USA
+3223	3235	американские	американский	LOC	GPE-USA
+3244	3250	Россия	Россия	LOC	GPE-Russia
+3295	3301	Домрин	Домрин	PER	PER-Alexander-Domrin
+3312	3322	Госдумы РФ	Госдума РФ	ORG	ORG-Russia-The-State-Duma
+3323	3339	Вячеслав Володин	Вячеслав Володин	PER	PER-Viacheslav-Volodin
+3483	3492	"""Песняры"""	"""Песняры"""	ORG	ORG-vocal-and-instrumental-ensemble-pesnyary
+3524	3531	Украину	Украина	LOC	GPE-Ukraine
+3548	3553	Крыма	Крым	LOC	GPE-Crimea
+3572	3587	Госпогранслужба	Госпогранслужба	ORG	ORG-Ukraine-State-Border-Guard
+3608	3615	Украины	Украина	LOC	GPE-Ukraine
+3616	3634	Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+3653	3665	американский	американский	LOC	GPE-USA
+3674	3684	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3721	3725	НАТО	НАТО	ORG	ORG-NATO
+3757	3766	Ингушетии	Ингушетия	LOC	GPE-Ingushetia
+3798	3804	России	Россия	LOC	GPE-Russia
+3834	3849	"""Имарат Кавказ"""	"""Имарат Кавказ"""	ORG	ORG-The-Caucasus-Emirate
+3863	3879	Ростислав Ищенко	Ростислав Ищенко	PER	PER-Rostislav-Ischenko
+3941	3959	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+3990	3992	РФ	РФ	LOC	GPE-Russia
+4123	4125	РФ	РФ	LOC	GPE-Russia
+4126	4140	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+4179	4184	Крыма	Крым	LOC	GPE-Crimea
+4194	4201	Украины	Украина	LOC	GPE-Ukraine
+4221	4231	российский	российский	LOC	GPE-Russia
+4240	4252	Сергей Цеков	Сергей Цеков	PER	PER-Sergey-Tsekov
+4264	4279	"""Газпром-медиа"""	"""Газпром-медиа"""	ORG	ORG-Gazprom-Media
+4317	4329	"""Триколором"""	"""Триколор"""	ORG	ORG-Tricolor
+4438	4447	Ростуризм	Ростуризм	ORG	ORG-Rostourism
+4686	4695	Волжского	Волжский	LOC	LOC-Volzhsky
+4696	4712	Марин Афанасьева	Марина Афанасьева	PER	PER-Marina-Afanasyeva
+4820	4838	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+4839	4855	Владимир Ашурков	Владимир Ашурков	PER	PER-Vladimir-Ashurkov
+4881	4903	британского посольства	британское посольство	ORG	ORG-British-Embassy-Russia
+4914	4917	ФСБ	ФСБ	ORG	ORG-FSB
+4968	4972	MИ-6	МИ-6	ORG	ORG-MI6
+5054	5077	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
+5103	5169	министерство инвестиций, промышленности и науки Московской области	министерство инвестиций, промышленности и науки Московской области	ORG	ORG-Ministry-of-Investment-Industry-and-Science-of-the-Moscow-Region
+5260	5265	Tesla	Tesla	ORG	ORG-Tesla-company
+5268	5274	SpaceХ	SpaceX	ORG	ORG-SpaceX-company
+5275	5284	Илон Маск	Илон Маск	PER	PER-Elon-Musk
+5333	5342	Neuralink	Neuralink	ORG	ORG-Neuralink
+5478	5480	РФ	РФ	LOC	GPE-Russia
+5505	5528	ФБА «Экономика сегодня»	ФБА «Экономика сегодня»	ORG	ORG-Federal-News-Agency-Economics-Today
+5548	5589	Института отраслевого менеджмента РАНХиГС	Институт отраслевого менеджмента РАНХиГС	ORG	ORG-Institute-of-Industry-Management-RANEPA
+5590	5603	Борис Пивовар	Борис Пивовар	PER	PER-Boris-Pivovar
+5723	5731	Интернет	Интернет	PRO	PRO-Internet
+5894	5908	rueconomics.ru	rueconomics.ru	PRO	PRO-Economy-Today
+5949	5968	"""Экономика сегодня"""	"""Экономика сегодня"""	ORG	ORG-Federal-News-Agency-Economics-Today
+6072	6091	"""Экономика сегодня"""	"""Экономика сегодня"""	ORG	ORG-Federal-News-Agency-Economics-Today
+6107	6130	ФБА «Экономика сегодня»	ФБА «Экономика сегодня»	ORG	ORG-Federal-News-Agency-Economics-Today

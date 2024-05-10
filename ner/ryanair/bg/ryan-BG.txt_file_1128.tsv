@@ -1,0 +1,15 @@
+0	3	Тим	Тим	PER	PER-Tim-first-name
+6	10	Моуд	Моуд	PER	PER-Moud-first-name
+14	21	Брюксел	Брюксел	LOC	GPE-Brussles
+98	105	Пловдив	Пловдив	LOC	LOC-Plovdiv-aeroport
+179	186	Брюксел	Брюксел	LOC	GPE-Brussles
+271	279	Райънеър	Райънеър	ORG	ORG-Ryanair
+775	782	Кристоу	Кристоу	PER	PER-Cristou-first-name
+787	799	Арт номадите	Арт номадите	ORG	ORG-Art-Nomads
+826	829	Тим	Тим	PER	PER-Tim-first-name
+832	836	Моуд	Моуд	PER	PER-Moud-first-name
+886	894	България	България	LOC	GPE-Bulgaria
+1286	1296	Белгийците	белгийците	PER	GPE-Belgium
+1750	1753	Тим	Тим	PER	PER-Tim-first-name
+2102	2113	Стоян Желев	Стоян Желев	PER	PER-Stoyan-Zhelev
+2216	2223	Брюксел	Брюксел	LOC	GPE-Brussles

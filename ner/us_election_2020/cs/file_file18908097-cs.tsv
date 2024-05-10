@@ -1,0 +1,15 @@
+0	3	USA	USA	LOC	GPE-USA
+67	81	Severní Koreji	Severní Korea	LOC	GPE-North-Korea
+86	90	Kubě	Kuba	LOC	GPE-Cuba
+98	103	Sýrii	Sýrie	LOC	GPE-Syria
+157	162	Trump	Trump	PER	PER-Donald-Trump
+167	174	Hillary	Hillary	PER	PER-Hillary-Clinton
+190	197	Florida	Florida	LOC	GPE-Florida
+232	246	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+676	690	Severní Koreji	Severní Korea	LOC	GPE-North-Korea
+692	697	Sýrii	Sýrie	LOC	GPE-Syria
+699	703	Číně	Čína	LOC	GPE-China
+712	717	Rusku	Rusko	LOC	GPE-Russia
+765	779	americké volby	americké volby	EVT	EVT-2020-United-States-Presidential-Election
+868	890	Sněmovny reprezentantů	Sněmovna reprezentantů	ORG	ORG-House-of-Representatives(USA)
+903	911	Ron Paul	Ron Paul	PER	PER-Ron-Paul

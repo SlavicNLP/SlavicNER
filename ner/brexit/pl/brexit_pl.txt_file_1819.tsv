@@ -1,0 +1,19 @@
+12	19	Brexitu	Brexit	EVT	EVT-Brexit
+46	58	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+86	88	UE	UE	ORG	ORG-European-Union
+256	258	UE	UE	ORG	ORG-European-Union
+261	276	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+453	457	Tusk	Tusk	PER	PER-Donald-Tusk
+475	484	Twitterze	Twitter	PRO	PRO-Twitter
+605	617	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+632	639	Polaków	Polacy	PER	GPE-Poland
+681	683	UE	UE	ORG	ORG-European-Union
+687	694	Wyspach	Wyspy	LOC	GPE-Great-Britain
+743	760	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+783	785	UE	UE	ORG	ORG-European-Union
+812	825	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+831	842	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+875	877	UE	UE	ORG	ORG-European-Union
+931	939	Brexitem	Brexit	EVT	EVT-Brexit
+942	949	Polakom	Polacy	PER	GPE-Poland
+1067	1080	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain

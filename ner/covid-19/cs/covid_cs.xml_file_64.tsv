@@ -1,0 +1,16 @@
+14	29	Velkou Británii	Velká Británie	LOC	GPE-Great-Britain
+48	56	Johnsona	Johnson	PER	PER-Boris-Johnson
+62	66	Země	Země	LOC	LOC-Earth
+104	115	koronavirus	koronavirus	EVT	EVT-Covid-19
+413	416	NHS	NHS	PRO	PRO-National-Health-Service-Great-Britain
+418	441	National Health Service	National Health Service	PRO	PRO-National-Health-Service-Great-Britain
+598	607	East Endu	East End	LOC	LOC-Eastend-London
+622	628	Slavík	Slavík	LOC	LOC-Nightingale-mobile-hospital
+640	651	Nightingale	Nightingale	LOC	LOC-Nightingale-mobile-hospital
+805	813	Británii	Británie	LOC	GPE-Great-Britain
+882	896	severní Itálie	severní Itálie	LOC	GPE-Northern-Italy
+902	911	New Yorku	New York	LOC	GPE-New-York
+947	964	Borisem Johnsonem	Boris Johnson	PER	PER-Boris-Johnson
+974	985	koronavirem	koronavirus	EVT	EVT-Covid-19
+1073	1083	covidem-19	covid-19	EVT	EVT-Covid-19
+1310	1325	České republiky	Česká republika	LOC	GPE-Czech-Republic

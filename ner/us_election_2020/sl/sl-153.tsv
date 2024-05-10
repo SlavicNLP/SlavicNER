@@ -1,0 +1,49 @@
+8	16	Trumpova	Trump	PER	PER-Donald-Trump
+95	98	ZDA	ZDA	LOC	GPE-USA
+99	113	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+243	255	republikanci	republikanci	PER	ORG-Republican-Party-USA
+301	306	Salon	Salon	PRO	PRO-Salon
+310	318	Atlantic	Atlantic	PRO	PRO-The-Atlantic
+358	361	ZDA	ZDA	LOC	GPE-USA
+397	406	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+458	465	Trumpom	Trump	PER	PER-Donald-Trump
+560	565	Biden	Biden	PER	PER-Joe-Biden
+663	666	CNN	CNN	PRO	PRO-CNN
+802	807	Trump	Trump	PER	PER-Donald-Trump
+1094	1101	Floridi	Florida	LOC	GPE-Florida
+1130	1152	Georgeu Bushu mlajšemu	George Bush mlajši	PER	PER-George-Bush-Jr
+1157	1160	ZDA	ZDA	LOC	GPE-USA
+1356	1366	ustava ZDA	ustava ZDA	PRO	PRO-The-USA-Constitution
+1477	1484	Trumpov	Trump	PER	PER-Donald-Trump
+1519	1531	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+1606	1611	Salon	Salon	ORG	PRO-Salon-Magazine
+1754	1762	Trumpove	Trump	PER	PER-Donald-Trump
+1774	1786	Republikanci	Republikanci	ORG	ORG-Republican-Party-USA
+1806	1813	Arizoni	Arizona	LOC	GPE-Arizona
+1815	1824	Michiganu	Michigan	LOC	GPE-Michigan
+1826	1838	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1840	1850	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+1852	1868	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+1875	1882	Floridi	Florida	LOC	GPE-Florida
+1923	1935	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+1959	1966	Floridi	Florida	LOC	GPE-Florida
+1972	1979	Arizoni	Arizona	LOC	GPE-Arizona
+2152	2160	Trumpove	Trump	PER	PER-Donald-Trump
+2361	2373	koronavirusa	koronavirus	EVT	EVT-Covid-19
+2564	2567	ZDA	ZDA	LOC	GPE-USA
+2568	2578	Mike Pence	Mike Pence	PER	PER-Mike-Pence
+2633	2641	Atlantic	Atlantic	PRO	PRO-The-Atlantic
+2658	2666	Trumpovi	Trump	PER	PER-Donald-Trump
+2780	2783	ZDA	ZDA	LOC	GPE-USA
+2893	2896	ZDA	ZDA	LOC	GPE-USA
+3166	3178	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+3315	3323	Trumpova	Trump	PER	PER-Donald-Trump
+3397	3403	Trumpa	Trump	PER	PER-Donald-Trump
+3513	3523	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+3587	3592	Trump	Trump	PER	PER-Donald-Trump
+3730	3738	Atlantic	Atlantic	PRO	PRO-The-Atlantic
+3798	3806	Trumpove	Trump	PER	PER-Donald-Trump
+3816	3829	Thea McDonald	Thea McDonald	PER	PER-Thea-McDonald
+3833	3840	Trumpov	Trumpov	PER	PER-Donald-Trump
+3881	3893	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+4000	4010	Američanom	Američani	PER	GPE-USA

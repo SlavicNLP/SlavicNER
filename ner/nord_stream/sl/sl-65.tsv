@@ -1,0 +1,85 @@
+24	28	Nata	Nato	ORG	ORG-NATO
+45	48	ZDA	ZDA	LOC	GPE-USA
+51	58	Nemčijo	Nemčija	LOC	GPE-Germany
+62	69	Turčijo	Turčija	LOC	GPE-Turkey
+73	84	Washingtonu	Washington	LOC	GPE-WashingtonDC
+126	130	Nato	Nato	ORG	ORG-NATO
+199	217	Severne Makedonije	Severna Makedonija	LOC	GPE-North-Macedonia
+278	288	Miro Cerar	Miro Cerar	PER	PER-Miro-Cerar
+305	308	ZDA	ZDA	LOC	GPE-USA
+309	319	Mike Pence	Mike Pence	PER	PER-Mike-Pence
+343	350	Nemčijo	Nemčija	LOC	GPE-Germany
+424	430	Rusije	Rusija	LOC	GPE-Russia
+431	444	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+446	453	Turčijo	Turčija	LOC	GPE-Turkey
+508	514	Rusije	Rusija	LOC	GPE-Russia
+519	530	Washingtonu	Washington	LOC	GPE-WashingtonDC
+572	576	Nato	Nato	ORG	ORG-NATO
+645	663	Severne Makedonije	Severna Makedonija	LOC	GPE-North-Macedonia
+724	734	Miro Cerar	Miro Cerar	PER	PER-Miro-Cerar
+737	742	Pence	Pence	PER	PER-Mike-Pence
+761	768	Nemčija	Nemčija	LOC	GPE-Germany
+794	800	Zahoda	Zahod	LOC	LOC-West
+865	871	Rusije	Rusija	LOC	GPE-Russia
+1017	1022	Pence	Pence	PER	PER-Mike-Pence
+1025	1031	Rusija	Rusija	LOC	GPE-Russia
+1118	1122	Nato	Nato	ORG	ORG-NATO
+1207	1221	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1231	1236	Pence	Pence	PER	PER-Mike-Pence
+1255	1266	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+1283	1286	ZDA	ZDA	LOC	GPE-USA
+1291	1295	Natu	Nato	ORG	ORG-NATO
+1296	1317	Kay Bailey Hutchinson	Kay Bailey Hutchison	PER	PER-Kay-Bailey-Hutchison
+1329	1334	Pence	Pence	PER	PER-Mike-Pence
+1338	1345	Nemčijo	Nemčija	LOC	GPE-Germany
+1374	1387	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1427	1433	Rusije	Rusija	LOC	GPE-Russia
+1479	1482	ZDA	ZDA	LOC	GPE-USA
+1507	1513	Evrope	Evropa	LOC	LOC-Europe
+1540	1550	Heiko Maas	Heiko Maas	PER	PER-Heiko-Maas
+1571	1575	Nato	Nato	ORG	ORG-NATO
+1682	1689	Nemčiji	Nemčija	LOC	GPE-Germany
+1724	1728	Maas	Maas	PER	PER-Heiko-Maas
+1748	1755	Nemčija	Nemčija	LOC	GPE-Germany
+1759	1762	ZDA	ZDA	LOC	GPE-USA
+1773	1783	Afganistan	Afganistan	LOC	GPE-Afghanistan
+1829	1833	Nata	Nato	ORG	ORG-NATO
+1836	1840	Ulmu	Ulm	LOC	GPE-Ulm
+1912	1917	Pence	Pence	PER	PER-Mike-Pence
+1936	1943	Turčija	Turčija	LOC	GPE-Turkey
+2096	2099	ZDA	ZDA	LOC	GPE-USA
+2141	2145	F-35	F-35	PRO	PRO-Lockheed-Martin-F-35-Lightning-II
+2146	2153	Turčiji	Turčija	LOC	GPE-Turkey
+2165	2171	Rusije	Rusija	LOC	GPE-Russia
+2207	2212	S-400	S-400	PRO	PRO-S-400-Triumf
+2215	2222	Turčija	Turčija	LOC	GPE-Turkey
+2251	2256	Krima	Krim	LOC	GPE-Crimea
+2257	2263	Rusiji	Rusija	LOC	GPE-Russia
+2289	2305	Mevlut Cavusoglu	Mevlut Cavusoglu	PER	PER-Mevlut-Cavusoglu
+2324	2329	S-400	S-400	PRO	PRO-S-400-Triumf
+2348	2355	Turčija	Turčija	LOC	GPE-Turkey
+2392	2399	Turčija	Turčija	LOC	GPE-Turkey
+2443	2449	Rusije	Rusija	LOC	GPE-Russia
+2498	2502	Krim	Krim	LOC	GPE-Crimea
+2503	2509	Rusiji	Rusija	LOC	GPE-Russia
+2525	2531	Rusijo	Rusija	LOC	GPE-Russia
+2587	2593	Rusijo	Rusija	LOC	GPE-Russia
+2624	2633	Cavusoglu	Cavusoglu	PER	PER-Mevlut-Cavusoglu
+2664	2670	Pompea	Pompeo	PER	PER-Mike-Pompeo
+2677	2683	Sirije	Sirija	LOC	GPE-Syria
+2836	2842	Siriji	Sirija	LOC	GPE-Syria
+2845	2851	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+2909	2926	State Departmentu	State Department	ORG	ORG-Department-of-State-USA
+2941	2966	severno-atlantski pogodbi	severno-atlantska pogodba	PRO	PRO-North-Atlantic-Treaty
+3079	3085	Evropi	Evropa	LOC	LOC-Europe
+3119	3136	2. svetovni vojni	2. svetovna vojna	EVT	EVT-World-War-II
+3172	3179	Balkanu	Balkan	LOC	LOC-Balkans
+3475	3481	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+3584	3602	Severne Makedonije	Severna Makedonija	LOC	GPE-North-Macedonia
+3605	3609	Nato	Nato	ORG	ORG-NATO
+3638	3642	Nato	Nato	ORG	ORG-NATO
+3666	3673	Baltiku	Baltik	LOC	LOC-Baltic-Sea
+3677	3688	Črnem morju	Črno morje	LOC	LOC-Black-Sea
+3839	3845	Kanada	Kanada	LOC	GPE-Canada
+3954	3961	Amerika	Amerika	LOC	GPE-USA
+4030	4036	Pompeo	Pompeo	PER	PER-Mike-Pompeo

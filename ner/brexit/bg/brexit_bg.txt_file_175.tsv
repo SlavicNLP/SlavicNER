@@ -1,0 +1,18 @@
+23	25	ЕС	ЕС	ORG	ORG-European-Union
+29	35	Brexit	Brexit	EVT	EVT-Brexit
+36	48	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+64	74	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+84	89	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+126	128	ЕС	ЕС	ORG	ORG-European-Union
+132	139	Брекзит	Брекзит	EVT	EVT-Brexit
+140	152	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+177	183	Лондон	Лондон	LOC	GPE-London
+252	258	Brexit	Brexit	EVT	EVT-Brexit
+259	272	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+313	323	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+362	376	Великобритания	Великобритания	LOC	GPE-Great-Britain
+380	382	ЕС	ЕС	ORG	ORG-European-Union
+389	395	Барние	Барние	PER	PER-Michel-Barnier
+417	423	Brexit	Brexit	EVT	EVT-Brexit
+442	449	Брюксел	Брюксел	LOC	GPE-Brussles
+533	550	The Daily Express	The Daily Express	PRO	PRO-Daily-Express

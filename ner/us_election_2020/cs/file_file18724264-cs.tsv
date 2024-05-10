@@ -1,0 +1,18 @@
+25	30	Trump	Trump	PER	PER-Donald-Trump
+91	99	Wehleová	Wehleová	PER	PER-Kim-Wehle
+110	122	Kim Wehleová	Kim Wehleová	PER	PER-Kim-Wehle
+149	154	Trump	Trump	PER	PER-Donald-Trump
+200	208	Bílý dům	Bílý dům	LOC	LOC-White-House
+328	340	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+395	417	americký Nejvyšší soud	americký Nejvyšší soud	ORG	ORG-Supreme-Court-of-the-United-States
+469	482	Spojené státy	Spojené státy	LOC	GPE-USA
+497	513	Lenka Kabrhelová	Lenka Kabrhelová	PER	PER-Lenak-Kabrhelova
+532	572	právnické fakulty univerzity v Baltimoru	právnická fakulta univerzity v Baltimoru	ORG	ORG-Law-Faculty-University-of-Baltimore
+573	585	Kim Wehleové	Kim Wehleová	PER	PER-Kim-Wehle
+593	604	Washingtonu	Washington	LOC	GPE-WashingtonDC
+632	637	Trump	Trump	PER	PER-Donald-Trump
+698	706	Wehleová	Wehleová	PER	PER-Kim-Wehle
+751	754	USA	USA	LOC	GPE-USA
+1061	1073	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1081	1088	Floridu	Florida	LOC	GPE-Florida
+1202	1213	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania

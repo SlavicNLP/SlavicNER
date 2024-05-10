@@ -1,0 +1,28 @@
+26	32	Londyn	Londyn	LOC	GPE-London
+63	91	Europejska Agencja ds. Leków	Europejska Agencja ds. Leków	ORG	ORG-EMA-European-Medicines-Agency
+93	96	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+114	122	brexitem	Brexit	EVT	EVT-Brexit
+138	145	Londynu	Londyn	LOC	GPE-London
+149	159	Amsterdamu	Amsterdam	LOC	GPE-Amsterdam
+204	214	Sloterdijk	Sloterdijk	LOC	LOC-Amsterdam-Sloterdijk
+250	256	Zuidas	Zuidas	LOC	LOC-Amsterdam-Zuidas
+410	415	Spark	Spark	LOC	LOC-Spark
+428	439	Amsterdamie	Amsterdam	LOC	GPE-Amsterdam
+470	482	Bruno Bruins	Bruno Bruins	PER	PER-Bruno-Bruins
+539	545	Zuidas	Zuidas	LOC	LOC-Amsterdam-Zuidas
+555	570	Południowej Osi	Południowa Oś	LOC	LOC-Amsterdam-Zuidas
+705	708	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+709	719	Guido Rasi	Guido Rasi	PER	PER-Guido-Rasi
+1048	1058	Amsterdamu	Amsterdam	LOC	GPE-Amsterdam
+1142	1151	Amsterdam	Amsterdam	LOC	GPE-Amsterdam
+1184	1192	Mediolan	Mediolan	LOC	GPE-Milan
+1194	1200	Polska	Polska	LOC	GPE-Poland
+1223	1231	Warszawy	Warszawa	LOC	GPE-Warsaw
+1243	1249	Polski	Polska	LOC	GPE-Poland
+1272	1306	agencja ds. ochrony granic Frontex	Agencja ds. ochrony granic Frontex	ORG	ORG-Frontex
+1309	1337	Europejska Agencja ds. Leków	Europejska Agencja ds. Leków	ORG	ORG-EMA-European-Medicines-Agency
+1534	1542	Londynie	Londyn	LOC	GPE-London
+1716	1750	Europejski Urząd Nadzoru Bankowego	Europejski Urząd Nadzoru Bankowego	ORG	ORG-EBA-European-Banking-Authority
+1752	1755	EBA	EBA	ORG	ORG-EBA-European-Banking-Authority
+1781	1788	Londynu	Londyn	LOC	GPE-London
+1792	1798	Paryża	Paryż	LOC	GPE-Paris

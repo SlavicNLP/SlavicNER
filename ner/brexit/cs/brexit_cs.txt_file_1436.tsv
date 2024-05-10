@@ -1,0 +1,17 @@
+11	18	brexitu	brexit	EVT	EVT-Brexit
+91	104	Evropské unie	Evropská unie	ORG	ORG-European-Union
+107	115	Británie	Británie	LOC	GPE-Great-Britain
+212	220	Británie	Británie	LOC	GPE-Great-Britain
+223	225	EU	EU	ORG	ORG-European-Union
+315	330	Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+364	366	EU	EU	ORG	ORG-European-Union
+489	496	Barnier	Barnier	PER	PER-Michel-Barnier
+504	510	Davise	Davis	PER	PER-David-Davis
+579	594	Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+826	828	EU	EU	ORG	ORG-European-Union
+882	890	Barniera	Barnier	PER	PER-Michel-Barnier
+893	899	Davise	Davis	PER	PER-David-Davis
+1180	1187	Barnier	Barnier	PER	PER-Michel-Barnier
+1237	1267	Rady pro všeobecné záležitosti	Rada pro všeobecné záležitosti	ORG	ORG-General-Affairs-Council-configuration-GAC
+1269	1272	GAC	GAC	ORG	ORG-General-Affairs-Council-configuration-GAC
+1304	1319	Evropská komise	Evropská komise	ORG	ORG-European-Commission

@@ -1,0 +1,40 @@
+2	11	Минздраве	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+71	83	коронавируса	коронавирус	EVT	EVT-Covid-19
+103	110	Украина	Украина	LOC	GPE-Ukraine
+113	122	Китайская	Китайский	PER	GPE-China
+132	147	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+167	174	Украину	Украина	LOC	GPE-Ukraine
+224	233	китайской	китайский	PER	GPE-China
+267	284	"""Sinovac Biotech"""	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+313	320	Украину	Украина	LOC	GPE-Ukraine
+357	369	коронавируса	коронавирус	EVT	EVT-Covid-19
+451	465	Сніданку з 1+1	Сніданку з 1+1	PRO	"PRO-""Breakfast with 1+1"""
+511	526	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+547	555	Guardian	Guardian	PRO	PRO-The-Guardian
+677	680	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+1072	1078	Pfizer	Pfizer	ORG	ORG-Pfizer
+1081	1092	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1199	1214	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+1268	1276	Минздрав	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+1340	1349	китайской	китайский	PER	GPE-China
+1418	1425	Украина	Украина	LOC	GPE-Ukraine
+1471	1478	Украина	Украина	LOC	GPE-Ukraine
+1560	1573	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1729	1736	Украине	Украина	LOC	GPE-Ukraine
+1941	1948	Украины	Украина	LOC	GPE-Ukraine
+1958	1967	Минздрава	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+1988	1995	Украине	Украина	LOC	GPE-Ukraine
+2077	2084	Украины	Украина	LOC	GPE-Ukraine
+2126	2131	COVAX	COVAX	ORG	ORG-Covax
+2135	2143	Степанов	Степанов	PER	PER-Maksym-Stepanov
+2166	2173	Украине	Украина	LOC	GPE-Ukraine
+2538	2547	китайской	китайский	PER	GPE-China
+2578	2585	Украины	Украина	LOC	GPE-Ukraine
+2651	2659	Guardian	Guardian	PRO	PRO-The-Guardian
+2691	2698	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+2717	2725	Бразилии	Бразилия	LOC	GPE-Brazil
+2822	2829	Украина	Украина	LOC	GPE-Ukraine
+2875	2903	Министерство здравоохранения	Министерство здравоохранения	ORG	ORG-Ministry-of-Healthcare-Ukraine
+2994	3004	украинский	украинский	PER	GPE-Ukraine
+3005	3013	Минздрав	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+3069	3077	COVID-19	COVID-19	EVT	EVT-Covid-19

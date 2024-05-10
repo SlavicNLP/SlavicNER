@@ -1,0 +1,40 @@
+14	26	вибори у США	вибори у США	EVT	EVT-2020-United-States-Presidential-Election
+59	65	Байден	Байден	PER	PER-Joe-Biden
+85	95	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+126	146	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+150	172	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+175	178	США	США	LOC	GPE-USA
+376	382	Байден	Байден	PER	PER-Joe-Biden
+430	440	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+552	565	Берні Сандерс	Берні Сандерс	PER	PER-Bernie-Sanders
+626	629	США	США	LOC	GPE-USA
+630	643	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+690	695	Трамп	Трамп	PER	PER-Donald-Trump
+709	720	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+779	791	Білл Клінтон	Білл Клінтон	PER	PER-Bill-Clinton
+795	808	Джиммі Картер	Джиммі Картер	PER	PER-Jimmy-Carter
+846	857	Колін Павел	Колін Павел	PER	PER-Colin-Powell
+875	882	Клінтон	Клінтон	PER	PER-Bill-Clinton
+903	916	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1061	1072	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1112	1115	США	США	LOC	GPE-USA
+1163	1173	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1220	1232	Барака Обами	Барак Обама	PER	PER-Barack-Obama
+1236	1242	Байден	Байден	PER	PER-Joe-Biden
+1245	1252	Україна	Україна	LOC	GPE-Ukraine
+1286	1296	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1361	1364	США	США	LOC	GPE-USA
+1408	1415	України	Україна	LOC	GPE-Ukraine
+1464	1478	Віктора Шокіна	Віктор Шокін	PER	PER-Viktor-Shokin
+1494	1501	Байдена	Байден	PER	PER-Joe-Biden
+1533	1539	Шокіна	Шокін	PER	PER-Viktor-Shokin
+1560	1575	Хантера Байдена	Хантер Байден	PER	PER-Hunter-Biden
+1630	1637	Burisma	Burisma	ORG	ORG-Burisma
+1694	1700	Трампа	Трамп	PER	PER-Donald-Trump
+1701	1714	Руді Джуліані	Руді Джуліані	PER	PER-Rudy-Giuliani
+1752	1767	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1770	1792	Володимиром Зеленським	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+1807	1810	США	США	LOC	GPE-USA
+1900	1908	Конгресі	Конгрес	ORG	ORG-United-States-Congress
+1983	1991	Telegram	Telegram	PRO	PRO-Telegram
+1996	2001	Viber	Viber	PRO	PRO-Viber

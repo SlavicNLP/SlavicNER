@@ -1,0 +1,10 @@
+15	21	covidu	covid	EVT	EVT-Covid-19
+313	315	ČR	ČR	LOC	GPE-Czech-Republic
+582	613	Česká vakcinologická společnost	Česká vakcinologická společnost	ORG	ORG-Czech-Vaccinological-Society
+614	665	České lékařské společnosti Jana Evangelisty Purkyně	Česká lékařská společnost Jana Evangelisty Purkyně	ORG	ORG-Ceska-lekarska-spolecnost-Jana-Evangelisty-Purkyne
+668	696	Národní imunizační komise ČR	Národní imunizační komise ČR	ORG	ORG-Narodni-imunizacni-komise-CR
+900	902	ČR	ČR	LOC	GPE-Czech-Republic
+1902	1904	EU	EU	ORG	ORG-European-Union
+2100	2121	koronavirové pandemii	koronavirová pandemie	EVT	EVT-Covid-19
+2275	2286	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+2323	2328	Flegr	Flegr	PER	PER-Jaroslav-Flegr

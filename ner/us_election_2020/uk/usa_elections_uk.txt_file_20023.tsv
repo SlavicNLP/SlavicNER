@@ -1,0 +1,21 @@
+0	20	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+21	24	США	США	LOC	GPE-USA
+54	60	Трампу	Трамп	PER	PER-Donald-Trump
+147	167	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+168	171	США	США	LOC	GPE-USA
+265	268	США	США	LOC	GPE-USA
+269	284	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+390	409	"""Інтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
+505	511	Трампа	Трамп	PER	PER-Donald-Trump
+786	806	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+807	810	США	США	LOC	GPE-USA
+886	897	Майку Пенсу	Майк Пенс	PER	PER-Mike-Pence
+911	925	25-ю поправкою	25-а поправкою	PRO	PRO-25th-Amendment-to-the-United-States-Constitution
+929	940	Конституції	Конституція	PRO	PRO-The-USA-Constitution
+941	944	США	США	LOC	GPE-USA
+968	974	Трампа	Трамп	PER	PER-Donald-Trump
+978	983	Пенса	Пенс	PER	PER-Mike-Pence
+1181	1187	Трампа	Трамп	PER	PER-Donald-Trump
+1218	1229	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+1250	1261	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1324	1332	Telegram	Telegram	PRO	PRO-Telegram

@@ -1,0 +1,13 @@
+0	4	Bild	Bild	PRO	PRO-Bild
+12	15	США	США	LOC	GPE-USA
+37	45	Германии	Германия	LOC	GPE-Germany
+62	84	"""Северного потока - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+107	115	Германии	Германия	LOC	GPE-Germany
+116	130	Ричард Гренелл	Ричард Гренелл	PER	PER-Richard-Grenell
+252	270	Северного потока 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+296	304	Гренелла	Гренелл	PER	PER-Richard-Grenell
+307	321	Турецкий поток	Турецкий поток	PRO	PRO-Turkish-Stream
+324	340	Северный поток 2	Северный поток 2	PRO	PRO-Nord-Stream-2
+385	391	Европы	Европа	LOC	LOC-Europe
+398	405	Украину	Украина	LOC	GPE-Ukraine
+1006	1009	ФРГ	ФРГ	LOC	GPE-Germany

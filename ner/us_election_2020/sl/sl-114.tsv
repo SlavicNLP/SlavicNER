@@ -1,0 +1,37 @@
+19	24	Trump	Trump	PER	PER-Donald-Trump
+47	54	Melania	Melania	PER	PER-Melania-Trump
+84	91	Melania	Melania	PER	PER-Melania-Trump
+150	162	Barron Trump	Barron Trump	PER	PER-Barron-Trump
+233	242	Belo hišo	Bela hiša	LOC	LOC-White-House
+359	373	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+426	435	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+441	450	Trumpovem	Trump	PER	PER-Donald-Trump
+544	551	Melania	Melania	PER	PER-Melania-Trump
+596	603	Melania	Melania	PER	PER-Melania-Trump
+703	715	Bruce Durham	Bruce Durham	PER	PER-Bruce-Durham
+746	752	Mirror	Mirror	PRO	PRO-Daily-Mirror
+762	768	Donald	Donald	PER	PER-Donald-Trump
+967	972	Trump	Trump	PER	PER-Donald-Trump
+1013	1019	Durham	Durham	PER	PER-Bruce-Durham
+1034	1039	Trump	Trump	PER	PER-Donald-Trump
+1106	1113	Melania	Melania	PER	PER-Melania-Trump
+1114	1121	Donaldu	Donald	PER	PER-Donald-Trump
+1166	1173	Ameriki	Amerika	LOC	GPE-USA
+1177	1182	Bruce	Bruce	PER	PER-Bruce-Durham
+1215	1222	Melanie	Melanie	PER	PER-Melania-Trump
+1260	1265	Trump	Trump	PER	PER-Donald-Trump
+1304	1311	Melania	Melania	PER	PER-Melania-Trump
+1383	1390	Donaldu	Donald	PER	PER-Donald-Trump
+1392	1398	Durham	Durham	PER	PER-Bruce-Durham
+1587	1593	Barron	Barron	PER	PER-Barron-Trump
+1748	1754	Donald	Donald	PER	PER-Donald-Trump
+1881	1887	Durham	Durham	PER	PER-Bruce-Durham
+1902	1909	Melanie	Melanie	PER	PER-Melania-Trump
+2064	2070	Barron	Barron	PER	PER-Barron-Trump
+2079	2088	Trumpovem	Trump	PER	PER-Donald-Trump
+2098	2107	New Yorku	New York	LOC	GPE-New-York
+2121	2128	Melanio	Melania	PER	PER-Melania-Trump
+2207	2217	Washington	Washington	LOC	GPE-WashingtonDC
+2220	2226	Barron	Barron	PER	PER-Barron-Trump
+2242	2249	Melanie	Melanie	PER	PER-Melania-Trump
+2283	2290	Donalda	Donald	PER	PER-Donald-Trump

@@ -1,0 +1,28 @@
+6	21	КРАСИМИР БЕЛЧЕВ	Красимир Белчев	PER	PER-Krasimir-Belchev
+59	81	пандемията с КОВИД -19	пандемия с КОВИД -19	EVT	EVT-Pandemic
+121	146	президентски избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+167	179	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+219	227	демократ	демократ	PER	ORG-Democratic-Party-USA
+228	238	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+344	358	изборите в САЩ	избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+371	380	Белия дом	Бял дом	LOC	LOC-White-House
+419	431	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+551	558	Аризона	Аризона	LOC	GPE-Arizona
+559	564	Тръмп	Тръмп	PER	PER-Donald-Trump
+628	640	американците	американци	PER	GPE-USA
+653	659	Байдън	Байдън	PER	PER-Joe-Biden
+662	674	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+690	693	САЩ	САЩ	LOC	GPE-USA
+714	720	Байдън	Байдън	PER	PER-Joe-Biden
+802	824	Деня на благодарността	Ден на благодарността	EVT	EVT-Thanksgiving-Day
+830	836	Коледа	Коледа	EVT	EVT-Christmas
+842	864	Деня на независимостта	Ден на невависимостта	EVT	EVT-Independence-Day
+901	907	Байдън	Байдън	PER	PER-Joe-Biden
+945	966	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+1014	1017	САЩ	САЩ	LOC	GPE-USA
+1018	1028	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1042	1053	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+1133	1144	Джон Байдън	Джо Байдън	PER	PER-Joe-Biden
+1171	1174	САЩ	САЩ	LOC	GPE-USA
+1502	1514	американците	американци	PER	GPE-USA
+1568	1594	избори за президент на САЩ	избори за президент на САЩ	EVT	EVT-2020-United-States-Presidential-Election

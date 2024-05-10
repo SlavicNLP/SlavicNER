@@ -1,0 +1,15 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+41	47	Londýn	Londýn	LOC	GPE-London
+49	55	Brexit	Brexit	EVT	EVT-Brexit
+63	71	Británii	Británie	LOC	GPE-Great-Britain
+123	125	HN	HN	PRO	PRO-Hospodarske-Noviny
+126	145	Suella Bravermanová	Suella Bravermanová	PER	PER-Suella-Braverman
+170	193	ministerstvu pro brexit	ministerstvo pro brexit	ORG	ORG-Ministry-of-Brexity
+267	279	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+313	317	Číny	Čína	LOC	GPE-China
+324	337	Evropské unie	Evropská unie	ORG	ORG-European-Union
+341	347	Kanady	Kanada	LOC	GPE-Canada
+396	409	studené války	studená válka	EVT	EVT-Cold-War
+411	425	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+448	450	EU	EU	ORG	ORG-European-Union
+666	678	Bravermanová	Bravermanová	PER	PER-Suella-Braverman

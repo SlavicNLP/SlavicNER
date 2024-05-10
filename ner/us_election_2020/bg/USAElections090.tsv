@@ -1,0 +1,36 @@
+24	34	Демократът	демократ	PER	ORG-Democratic-Party-USA
+35	45	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+83	95	коронавируса	коронавирус	EVT	EVT-Covid-19
+164	171	Америка	Америка	LOC	GPE-USA
+192	204	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+281	288	Ройтерс	Ройтерс	ORG	ORG-Reuters
+306	312	Байдън	Байдън	PER	PER-Joe-Biden
+380	385	Тръмп	Тръмп	PER	PER-Donald-Trump
+458	466	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+496	502	Байдън	Байдън	PER	PER-Joe-Biden
+548	553	Тръмп	Тръмп	PER	PER-Donald-Trump
+691	700	Тим Мърта	Тим Мърта	PER	PER-Tim-Murtha
+702	707	Тръмп	Тръмп	PER	PER-Donald-Trump
+996	1001	Тръмп	Тръмп	PER	PER-Donald-Trump
+1064	1070	Байдън	Байдън	PER	PER-Joe-Biden
+1106	1111	Тръмп	Тръмп	PER	PER-Donald-Trump
+1277	1280	CNN	CNN	PRO	PRO-CNN
+1292	1298	Байдън	Байдън	PER	PER-Joe-Biden
+1342	1345	САЩ	САЩ	LOC	GPE-USA
+1499	1511	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1527	1533	Байдън	Байдън	PER	PER-Joe-Biden
+1541	1546	Тръмп	Тръмп	PER	PER-Donald-Trump
+1704	1710	Байдън	Байдън	PER	PER-Joe-Biden
+1743	1767	пандемия на коронавируса	пандемия на коронавирус	EVT	EVT-Pandemic
+1820	1831	коронавирус	коронавирус	EVT	EVT-Covid-19
+1906	1912	Байдън	Байдън	PER	PER-Joe-Biden
+1941	1953	Антъни Фаучи	Антъни Фаучи	PER	PER-Anthony-Fauci
+2161	2166	Тръмп	Тръмп	PER	PER-Donald-Trump
+2197	2200	САЩ	САЩ	LOC	GPE-USA
+2262	2273	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+2298	2304	Байдън	Байдън	PER	PER-Joe-Biden
+2367	2370	САЩ	САЩ	LOC	GPE-USA
+2375	2408	Парижкото споразумение за климата	Парижко споразумение за климата	PRO	PRO-Paris-Agreement
+2482	2487	Тръмп	Тръмп	PER	PER-Donald-Trump
+2567	2597	Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+2608	2613	Тръмп	Тръмп	PER	PER-Donald-Trump

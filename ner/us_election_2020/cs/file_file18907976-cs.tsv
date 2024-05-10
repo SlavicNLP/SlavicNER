@@ -1,0 +1,18 @@
+7	13	Trumpa	Trump	PER	PER-Donald-Trump
+16	22	Bidena	Biden	PER	PER-Joe-Biden
+73	81	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+121	132	Joea Bidena	Joe Biden	PER	PER-Joe-Biden
+135	149	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+200	212	Hunter Biden	Hunter Biden	PER	PER-Hunter-Biden
+215	234	Donald Trump mladší	Donald Trump mladší	PER	PER-Donald-Trump-Jr.
+269	281	Biden junior	Biden junior	PER	PER-Hunter-Biden
+291	306	Oválné pracovny	Oválná pracovna	LOC	LOC-Oval-Office
+336	343	Trumpův	Trump	PER	PER-Donald-Trump
+472	491	Americké volby 2020	Americké volby 2020	EVT	EVT-2020-United-States-Presidential-Election
+632	641	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+674	686	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+746	754	Bílý dům	Bílý dům	LOC	LOC-White-House
+771	778	Trumpův	Trump	PER	PER-Donald-Trump
+794	800	Donald	Donald	PER	PER-Donald-Trump
+803	810	Bidenův	Biden	PER	PER-Joe-Biden
+822	828	Hunter	Hunter	PER	PER-Hunter-Biden

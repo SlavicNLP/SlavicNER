@@ -1,0 +1,10 @@
+130	135	Tegel	Tegel	LOC	LOC-Tegel-Berlin-Airport
+138	148	Schönefeld	Schönefeld	LOC	LOC-Schönefeld-Airport-Berlin
+280	285	Tegel	Tegel	LOC	LOC-Tegel-Berlin-Airport
+369	379	Schönefeld	Schönefeld	LOC	LOC-Schönefeld-Airport-Berlin
+498	507	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+509	516	Easyjet	Easyjet	ORG	ORG-EasyJet
+518	525	Ryanair	Ryanair	ORG	ORG-Ryanair
+531	539	Aeroflot	Aeroflot	ORG	ORG-Aeroflot
+833	838	Verdi	Verdi	ORG	ORG-Ver.di-Trade-Union
+1173	1179	Echo24	Echo24	PRO	PRO-Echo24.cz

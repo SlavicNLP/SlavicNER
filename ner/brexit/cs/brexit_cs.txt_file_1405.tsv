@@ -1,0 +1,12 @@
+0	5	Česko	Česko	LOC	GPE-Czech-Republic
+20	27	brexitu	brexit	EVT	EVT-Brexit
+89	100	Schillerová	Schillerová	PER	PER-Alena-Schillerova
+175	192	Alena Schillerová	Alena Schillerová	PER	PER-Alena-Schillerova
+200	215	Česká republika	Česká republika	LOC	GPE-Czech-Republic
+255	268	Evropské Unie	Evropská unie	ORG	ORG-European-Union
+351	358	Bruselu	Brusel	LOC	GPE-Brussles
+450	463	Evropské Unie	Evropská unie	ORG	ORG-European-Union
+813	820	Bruselu	Brusel	LOC	GPE-Brussles
+835	847	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+1049	1056	Bruselu	Brusel	LOC	GPE-Brussles
+1116	1131	Evropská komise	Evropská komise	ORG	ORG-European-Commission

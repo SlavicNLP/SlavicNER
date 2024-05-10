@@ -1,0 +1,16 @@
+0	6	Лондон	Лондон	LOC	GPE-London
+21	23	ЕС	ЕС	ORG	ORG-European-Union
+69	76	Брекзит	Брекзит	EVT	EVT-Brexit
+102	109	Брекзит	Брекзит	EVT	EVT-Brexit
+110	123	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+134	150	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+201	215	Великобритания	Великобритания	LOC	GPE-Great-Britain
+218	220	ЕС	ЕС	ORG	ORG-European-Union
+372	375	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+389	395	Дейвис	Дейвис	PER	PER-David-Davis
+453	468	Файненшъл таймс	Файненшъл таймс	PRO	PRO-Financial-Times
+571	578	Брекзит	Брекзит	EVT	EVT-Brexit
+579	592	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+603	619	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+670	684	Великобритания	Великобритания	LOC	GPE-Great-Britain
+687	689	ЕС	ЕС	ORG	ORG-European-Union

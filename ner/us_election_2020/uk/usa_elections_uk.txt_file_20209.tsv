@@ -1,0 +1,27 @@
+5	11	Невада	Невада	LOC	GPE-Nevada
+35	42	Байдену	Байден	PER	PER-Joe-Biden
+77	88	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+97	104	Мічиган	Мічиган	LOC	GPE-Michigan
+143	149	Невада	Невада	LOC	GPE-Nevada
+257	264	FoxNews	FoxNews	PRO	PRO-Fox-News
+363	369	Невада	Невада	LOC	GPE-Nevada
+423	430	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+433	436	США	США	LOC	GPE-USA
+463	469	Байден	Байден	PER	PER-Joe-Biden
+480	486	Неваді	Невада	LOC	GPE-Nevada
+579	585	Невада	Невада	LOC	GPE-Nevada
+587	593	Аляска	Аляска	LOC	GPE-Alaska
+595	603	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+605	622	Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+625	637	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+639	644	Трамп	Трамп	PER	PER-Donald-Trump
+660	667	Мічиган	Мічиган	LOC	GPE-Michigan
+670	682	Пенсильванію	Пенсильванія	LOC	GPE-Pennsylvania
+728	734	Байден	Байден	PER	PER-Joe-Biden
+760	766	Неваді	Невада	LOC	GPE-Nevada
+770	777	Аризоні	Аризона	LOC	GPE-Arizona
+858	871	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+886	893	Байдена	Байден	PER	PER-Joe-Biden
+919	926	Аризоні	Аризона	LOC	GPE-Arizona
+928	936	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+940	952	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania

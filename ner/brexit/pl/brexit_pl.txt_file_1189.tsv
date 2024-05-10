@@ -1,0 +1,39 @@
+10	17	Brexitu	Brexit	EVT	EVT-Brexit
+46	53	Francji	Francja	LOC	GPE-France
+60	72	Nigel Lawson	Nigel Lawson	PER	PER-Nigel-Lawson
+82	103	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+113	124	Izby Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+146	153	Brexitu	Brexit	EVT	EVT-Brexit
+257	264	Francji	Francja	LOC	GPE-France
+277	280	BBC	BBC	PRO	PRO-BBC
+367	369	UE	UE	ORG	ORG-European-Union
+376	391	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+475	482	Francji	Francja	LOC	GPE-France
+610	625	Sarah Wollaston	Sarah Wollaston	PER	PER-Sarah-Wollaston
+685	692	Lawsona	Lawson	PER	PER-Nigel-Lawson
+709	718	Wollaston	Wollaston	PER	PER-Sarah-Wollaston
+748	756	Brexitem	Brexit	EVT	EVT-Brexit
+832	849	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+852	854	UE	UE	ORG	ORG-European-Union
+885	901	Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+931	940	Brexitowi	Brexit	EVT	EVT-Brexit
+942	954	Paul Butters	Paul Butters	PER	PER-Paul-Butters
+997	1004	Brexitu	Brexit	EVT	EVT-Brexit
+1119	1126	Francji	Francja	LOC	GPE-France
+1180	1186	Lawson	Lawson	PER	PER-Nigel-Lawson
+1227	1231	Gers	Gers	LOC	GPE-Gers
+1257	1264	Francji	Francja	LOC	GPE-France
+1279	1282	BBC	BBC	PRO	PRO-BBC
+1339	1346	Francji	Francja	LOC	GPE-France
+1465	1474	Connexion	Connexion	PRO	PRO-Connexion
+1506	1518	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1536	1543	Francji	Francja	LOC	GPE-France
+1573	1585	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1610	1612	UE	UE	ORG	ORG-European-Union
+1659	1666	Brexitu	Brexit	EVT	EVT-Brexit
+1710	1717	Francji	Francja	LOC	GPE-France
+1846	1856	Brytyjczyk	Brytyjczyk	PER	GPE-Great-Britain
+1860	1867	Francji	Francja	LOC	GPE-France
+1942	1948	Lawson	Lawson	PER	PER-Nigel-Lawson
+1964	1970	Brexit	Brexit	EVT	EVT-Brexit
+1998	2015	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

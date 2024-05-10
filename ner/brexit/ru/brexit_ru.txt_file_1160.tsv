@@ -1,0 +1,34 @@
+12	24	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+40	54	делу Скрипалей	дело Скрипалей	EVT	EVT-Scripals'-poisoning
+75	118	министерства иностранных дел Великобритании	министерство иностранных дел Великобритании	ORG	ORG-Foreign-Office
+119	131	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+175	190	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+268	305	Главного разведывательного управления	Главное разведывательное управление	ORG	ORG-GRU-(Russian-GU)
+307	310	ГРУ	ГРУ	ORG	ORG-GRU-(Russian-GU)
+312	327	Сергея Скрипаля	Сергей Скрипаль	PER	PER-Siergiej-Skripal
+341	345	Юлии	Юлия	PER	PER-Yulia-Skripal
+348	356	Солсбери	Солсбери	LOC	GPE-Salisbury
+426	434	Джонсона	Джонсон	PER	PER-Boris-Johnson
+506	510	Хант	Хант	PER	PER-Jeremy-Hunt
+572	582	Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+622	631	Евросоюза	Евросоюз	ORG	ORG-European-Union
+701	709	Британия	Британия	LOC	GPE-Great-Britain
+798	804	Brexit	Brexit	EVT	EVT-Brexit
+925	931	Brexit	Brexit	EVT	EVT-Brexit
+1043	1056	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1076	1082	Brexit	Brexit	EVT	EVT-Brexit
+1083	1094	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1158	1161	Мэй	Мэй	PER	PER-Theresa-May
+1168	1175	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1258	1260	ЕС	ЕС	ORG	ORG-European-Union
+1266	1272	Brexit	Brexit	EVT	EVT-Brexit
+1304	1318	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1337	1346	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1445	1460	Cергей Скрипаль	Cергей Скрипаль 	PER	PER-Siergiej-Skripal
+1472	1476	Юлия	Юлия	PER	PER-Yulia-Skripal
+1511	1519	Солсбери	Солсбери	LOC	GPE-Salisbury
+1637	1643	Лондон	Лондон	LOC	GPE-London
+1726	1733	Новичок	Новичок	PRO	PRO-Novichok
+1763	1769	Россию	Россия	LOC	GPE-Russia
+1811	1818	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1875	1881	Москва	Москва	LOC	GPE-Moscow

@@ -1,0 +1,17 @@
+0	14	Румен Скрински	Румен Скрински	PER	PER-Rumen-Skrinski
+37	47	Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+75	85	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+127	136	Белия дом	Бял дом	LOC	LOC-White-House
+181	186	БГНЕС	БГНЕС	PRO	PRO-BGNES
+207	209	Си	Си	PER	PER-Xi-Jinping
+441	443	Си	Си	PER	PER-Xi-Jinping
+469	474	Тръмп	Тръмп	PER	PER-Donald-Trump
+544	549	Китай	Китай	LOC	GPE-China
+597	600	САЩ	САЩ	LOC	GPE-USA
+617	638	Външното министерство	Външно министерство	ORG	ORG-Ministry-of-Foreign-Affairs-China
+639	649	Уан Уенбин	Уан Уенбин	PER	PER-Wang-Wenbin
+671	677	Байдън	Байдън	PER	PER-Joe-Biden
+721	726	Пекин	Пекин	LOC	GPE-Beijing
+817	823	Байдън	Байдън	PER	PER-Joe-Biden
+873	878	Китай	Китай	LOC	GPE-China
+966	975	демократа	демократ	PER	ORG-Democratic-Party-USA

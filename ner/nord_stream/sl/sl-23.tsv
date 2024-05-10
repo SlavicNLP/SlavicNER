@@ -1,0 +1,68 @@
+0	6	Rusija	Rusija	LOC	GPE-Russia
+55	63	Kitajske	Kitajska	LOC	GPE-China
+173	183	Xi Jinping	Xi Jinping	PER	PER-Xi-Jinping
+204	218	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+324	332	Sibirijo	Sibirija	LOC	LOC-Siberia
+409	415	Rusija	Rusija	LOC	GPE-Russia
+494	500	Rusijo	Rusija	LOC	GPE-Russia
+504	511	Turčijo	Turčija	LOC	GPE-Turkey
+520	526	Rusijo	Rusija	LOC	GPE-Russia
+530	537	Nemčijo	Nemčija	LOC	GPE-Germany
+540	546	Rusija	Rusija	LOC	GPE-Russia
+774	782	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+803	811	Pekingom	Peking	LOC	GPE-Beijing
+842	854	Moč Sibirije	Moč Sibirije	PRO	PRO-Power-of-Siberia-gas-pipeline
+903	911	Kitajska	Kitajska	LOC	GPE-China
+969	972	ZDA	ZDA	LOC	GPE-USA
+1008	1017	Gazpromom	Gazprom	ORG	ORG-Gazprom
+1073	1081	Kitajsko	Kitajska	LOC	GPE-China
+1271	1279	Kitajsko	Kitajska	LOC	GPE-China
+1283	1289	Rusijo	Rusija	LOC	GPE-Russia
+1299	1305	Zahodu	Zahod	LOC	LOC-West
+1307	1313	Evropa	Evropa	LOC	LOC-Europe
+1443	1451	Kitajska	Kitajska	LOC	GPE-China
+1494	1500	Moskvi	Moskva	LOC	GPE-Moscow
+1529	1535	Zahoda	Zahod	LOC	LOC-West
+1542	1550	Kitajski	Kitajska	LOC	GPE-China
+1589	1597	Kitajski	Kitajska	LOC	GPE-China
+1601	1607	Rusiji	Rusija	LOC	GPE-Russia
+1729	1735	Rusiji	Rusija	LOC	GPE-Russia
+1743	1748	Zahod	Zahod	LOC	LOC-West
+1767	1775	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1855	1860	Putin	Putin	PER	PER-Vladimir-Putin
+1920	1926	Evrope	Evropa	LOC	LOC-Europe
+2099	2107	Sibirije	Sibirija	LOC	LOC-Siberia
+2116	2126	Turški tok	Turški tok	PRO	PRO-TurkStream
+2130	2143	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2145	2151	Rusiji	Rusija	LOC	GPE-Russia
+2242	2249	Gazprom	Gazprom	ORG	ORG-Gazprom
+2278	2288	Turški tok	Turški tok	PRO	PRO-TurkStream
+2297	2307	Turkstream	Turkstream	PRO	PRO-Turkish-Stream
+2310	2321	Črnem morju	Črno morje	LOC	LOC-Black-Sea
+2339	2349	Erdoganove	Erdogan	PER	PER-Recep-Tayyip-Erdoğan
+2350	2357	Turčije	Turčija	LOC	GPE-Turkey
+2403	2409	Grčije	Grčija	LOC	GPE-Greece
+2438	2450	južne Evrope	južna Evropa	LOC	LOC-Southern-Europe
+2457	2463	Balkan	Balkan	LOC	LOC-Balkans
+2493	2506	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2552	2558	Rusijo	Rusija	LOC	GPE-Russia
+2562	2569	Nemčijo	Nemčija	LOC	GPE-Germany
+2571	2574	ZDA	ZDA	LOC	GPE-USA
+2599	2607	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+2645	2657	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2906	2921	Severnem toku 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2931	2933	EU	EU	ORG	ORG-European-Union
+3056	3064	Gazpromu	Gazprom	ORG	ORG-Gazprom
+3091	3098	Nemčiji	Nemčija	LOC	GPE-Germany
+3212	3219	Gazprom	Gazprom	ORG	ORG-Gazprom
+3276	3284	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+3309	3322	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+3386	3391	Putin	Putin	PER	PER-Vladimir-Putin
+3429	3451	Volodimirja Zelenskega	Volodimir Zelenski	PER	PER-Volodymyr-Zelensky
+3496	3504	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+3521	3526	Putin	Putin	PER	PER-Vladimir-Putin
+3530	3538	Zelenski	Zelenski	PER	PER-Volodymyr-Zelensky
+3565	3578	Angelo Merkel	Angela Merkel	PER	PER-Angela-Merkel
+3582	3590	Macronom	Macron	PER	PER-Emmanuel-Macron
+3614	3620	Parizu	Pariz	LOC	GPE-Paris
+3663	3671	Ukrajine	Ukrajina	LOC	GPE-Ukraine

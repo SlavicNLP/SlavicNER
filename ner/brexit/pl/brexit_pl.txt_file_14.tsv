@@ -1,0 +1,39 @@
+0	4	Ford	Ford	ORG	ORG-Ford
+13	20	brexitu	Brexit	EVT	EVT-Brexit
+36	43	Europie	Europa	LOC	LOC-Europe
+45	59	Ford of Europe	Ford of Europe	ORG	ORG-Ford-of-Europe
+155	162	Europie	Europa	LOC	LOC-Europe
+166	174	brexicie	Brexit	EVT	EVT-Brexit
+178	185	Stanach	Stany	LOC	GPE-USA
+220	223	SUV	SUV	PRO	PRO-SUV
+243	245	GM	GM	ORG	ORG-General-Motors
+272	290	Ford Credit Europe	Ford Credit Europe	ORG	ORG-Ford-Credit-Europe
+410	415	Forda	Ford	ORG	ORG-Ford
+419	427	brexicie	Brexit	EVT	EVT-Brexit
+520	523	FAZ	FAZ	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+552	556	Ford	Ford	ORG	ORG-Ford
+635	638	SUV	SUV	PRO	PRO-SUV
+668	670	GM	GM	ORG	ORG-General-Motors
+818	823	Forda	Ford	ORG	ORG-Ford
+848	860	Joe Hinrichs	Joe Hinrichs	PER	PER-Joe-Hinrichs
+888	898	Louisville	Louisville	LOC	GPE-Louisville
+900	908	Kentucky	Kentucky	LOC	GPE-Kentucky
+937	952	Ford Expedition	Ford Expedition	PRO	PRO-Ford-Expedition
+955	972	Lincoln Navigator	Lincoln Navigator	PRO	PRO-Lincoln-Navigator
+1056	1060	Ford	Ford	ORG	ORG-Ford
+1191	1196	Forda	Ford	ORG	ORG-Ford
+1226	1246	Kentucky Truck Plant	Kentucky Truck Plant	LOC	LOC-Kentucky-Truck-Plant
+1358	1360	GM	GM	ORG	ORG-General-Motors
+1363	1366	FCA	FCA	ORG	ORG-FCA-Fiat-Chrysler-Automobiles
+1381	1391	Navigatora	Navigator	PRO	PRO-Lincoln-Navigator
+1475	1485	Expedition	Expedition	PRO	PRO-Ford-Expedition
+1630	1633	SUV	SUV	PRO	PRO-SUV
+1645	1652	Stanach	Stany	LOC	GPE-USA
+1653	1655	GM	GM	ORG	ORG-General-Motors
+1667	1676	GMC Yukon	GMC Yukon	PRO	PRO-GMC-Yukon
+1679	1697	Chevrolet Suburban	Chevrolet Suburban	PRO	PRO-Chevrolet-Suburban
+1750	1754	Ford	Ford	ORG	ORG-Ford
+1768	1778	Expedition	Expedition	PRO	PRO-Ford-Expedition
+1786	1795	Navigator	Navigator	PRO	PRO-Lincoln-Navigator
+1864	1866	GM	GM	ORG	ORG-General-Motors
+1942	1950	Hinrichs	Hinrichs	PER	PER-Joe-Hinrichs

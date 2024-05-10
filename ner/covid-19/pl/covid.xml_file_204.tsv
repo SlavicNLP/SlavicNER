@@ -1,0 +1,39 @@
+0	7	Ukraina	Ukraina	LOC	GPE-Ukraine
+49	57	Ukrainie	Ukraina	LOC	GPE-Ukraine
+97	109	koronawirusa	koronawirus	EVT	EVT-Covid-19
+195	208	Wiktor Laszko	Wiktor Laszko	PER	PER-Victor-Lasko
+285	294	Sputnik-V	Sputnik-V	PRO	PRO-Sputnik-V
+298	305	Ukraina	Ukraina	LOC	GPE-Ukraine
+350	358	Covid-19	Covid-19	EVT	EVT-Covid-19
+424	431	Ukraina	Ukraina	LOC	GPE-Ukraine
+569	575	Laszko	Laszko	PER	PER-Victor-Lasko
+599	615	Ukraińska Prawda	Ukraińska Prawda	PRO	PRO-Ukrajinśka-prawda
+641	664	Rady Najwyższej Ukrainy	Rada Najwyższa Ukrainy	ORG	ORG-Verkhovna-Rada-of-Ukraine
+665	682	Wiktor Medwedczuk	Wiktor Medwedczuk	PER	PER-Victor-Medvedchuk
+713	718	Rosji	Rosja	LOC	GPE-Russia
+719	737	Władimirem Putinem	Władimir Putin	PER	PER-Vladimir-Putin
+777	785	Charkowa	Charków	LOC	GPE-Charkov
+846	855	Sputnik-V	Sputnik-V	PRO	PRO-Sputnik-V
+857	863	Laszko	Laszko	PER	PER-Victor-Lasko
+920	928	Sputnika	Sputnik	PRO	PRO-Sputnik-V
+932	940	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1137	1144	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1145	1158	Dmytro Kułeba	Dmytro Kułeba	PER	PER-Dmytro-Kuleba
+1242	1247	Rosji	Rosja	LOC	GPE-Russia
+1258	1266	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1299	1306	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1307	1329	Wołodymyra Zełenskiego	Wołodymyr Zełenski	PER	PER-Volodimir-Zelenski
+1460	1474	koronawirusowi	koronawirus	EVT	EVT-Covid-19
+1501	1516	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+1519	1526	Ukraina	Ukraina	LOC	GPE-Ukraine
+2015	2022	Chinach	Chiny	LOC	GPE-China
+2100	2107	Ukrainę	Ukraina	LOC	GPE-Ukraine
+2151	2158	Chinach	Chiny	LOC	GPE-China
+2250	2253	USA	USA	LOC	GPE-USA
+2255	2270	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2272	2282	Szwajcarię	Szwajcaria	LOC	GPE-Switzerland
+2293	2295	UE	UE	ORG	ORG-European-Union
+2330	2337	Ukraina	Ukraina	LOC	GPE-Ukraine
+2417	2422	Kijów	Kijów	LOC	GPE-Kiev
+2458	2460	UE	UE	ORG	ORG-European-Union
+2520	2526	Polska	Polska	LOC	GPE-Poland

@@ -1,0 +1,22 @@
+5	7	EU	EU	ORG	ORG-European-Union
+44	48	Fedu	Fed	ORG	ORG-Fed
+105	110	Ruska	Rusko	LOC	GPE-Russia
+140	153	Evropské unie	Evropská unie	ORG	ORG-European-Union
+237	244	Bruselu	Brusel	ORG	ORG-European-Union
+265	273	Maďarsko	Maďarsko	LOC	GPE-Hungary
+355	364	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+379	381	EU	EU	ORG	ORG-European-Union
+471	485	Maďarská vláda	Maďarská vláda	ORG	ORG-Government-of-Hungary
+576	586	Bloombergu	Bloomberg	ORG	ORG-Bloomberg-LP
+632	638	Moskva	Moskva	LOC	GPE-Moscow
+701	716	Česká republika	Česká republika	LOC	GPE-Czech-Republic
+765	770	Česko	Česko	LOC	GPE-Czech-Republic
+877	880	Fed	Fed	ORG	ORG-Fed
+959	962	Fed	Fed	ORG	ORG-Fed
+963	976	Jerome Powell	Jerome Powell	PER	PER-Jerome-Powell
+1111	1115	Fedu	Fed	ORG	ORG-Fed
+1189	1195	Powell	Powell	PER	PER-Jerome-Powell
+1289	1292	USA	USA	LOC	GPE-USA
+1335	1349	Americký Senát	Americký Senát	ORG	ORG-United-States-Senate
+1419	1425	Powell	Powell	PER	PER-Jerome-Powell
+1437	1440	Fed	Fed	ORG	ORG-Fed

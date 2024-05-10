@@ -1,0 +1,18 @@
+0	4	Туск	Туск	PER	PER-Donald-Tusk
+64	70	Brexit	Brexit	EVT	EVT-Brexit
+71	84	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+112	127	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+143	162	Европейского совета	Европейский совет	ORG	ORG-European-Council
+163	175	Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+235	241	Brexit	Brexit	EVT	EVT-Brexit
+242	255	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+283	298	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+339	347	твиттере	твиттер	PRO	PRO-Twitter
+359	364	Туска	Туск	PER	PER-Donald-Tusk
+473	479	Brexit	Brexit	EVT	EVT-Brexit
+490	497	Дэвисом	Дэвис	PER	PER-David-Davis
+500	509	Джонсоном	Джонсон	PER	PER-Boris-Johnson
+536	540	Туск	Туск	PER	PER-Donald-Tusk
+591	601	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+625	628	МИД	МИД	ORG	ORG-Foreign-Office
+629	644	Борису Джонсону	Борис Джонсон	PER	PER-Boris-Johnson

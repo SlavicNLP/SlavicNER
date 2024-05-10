@@ -1,0 +1,43 @@
+0	10	Labouristé	Labouristé	PER	ORG-Labour-Party-UK
+21	28	brexitu	brexit	EVT	EVT-Brexit
+42	44	EU	EU	ORG	ORG-European-Union
+54	61	Mayovou	Mayová	PER	PER-Theresa-May
+415	430	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+433	439	Irskem	Irsko	LOC	GPE-Ireland
+441	447	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+487	495	Británie	Británie	LOC	GPE-Great-Britain
+624	628	Čína	Čína	LOC	GPE-China
+634	639	Indie	Indie	LOC	GPE-India
+732	734	EU	EU	ORG	ORG-European-Union
+850	852	EU	EU	ORG	ORG-European-Union
+946	950	Mini	Mini	PRO	PRO-Mini-Car-Model
+986	990	Mini	Mini	PRO	PRO-Mini-Car-Model
+1049	1065	Lamanšský průliv	Lamanšský průliv	LOC	LOC-English-Channel
+1074	1080	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+1148	1156	Oxfordem	Oxford	LOC	GPE-Oxford
+1158	1171	Warwickshirem	Warwickshir	LOC	GPE-Warwickshire
+1174	1182	Británii	Británie	LOC	GPE-Great-Britain
+1185	1194	Mnichovem	Mnichov	LOC	GPE-Munich
+1216	1223	Oxfordu	Oxford	LOC	GPE-Oxford
+1248	1254	brexit	brexit	EVT	EVT-Brexit
+1282	1288	Mayové	Mayová	PER	PER-Theresa-May
+1307	1317	labouristů	labouristé	PER	ORG-Labour-Party-UK
+1333	1340	Corbyna	Corbyn	PER	PER-Jeremy-Corbyn
+1367	1374	Mayovou	Mayová	PER	PER-Theresa-May
+1377	1383	Brexit	brexit	EVT	EVT-Brexit
+1387	1393	brexit	brexit	EVT	EVT-Brexit
+1427	1433	Londýn	Londýn	LOC	GPE-London
+1494	1513	Konzervatiní strana	Konzervatiní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+1545	1547	EU	EU	ORG	ORG-European-Union
+1722	1735	konzervativců	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+1781	1795	Dolní sněmovně	Dolní sněmovna	ORG	ORG-House-of-Commons
+1804	1814	labouristy	labouristé	PER	ORG-Labour-Party-UK
+1821	1828	Mayovou	Mayová	PER	PER-Theresa-May
+1945	1957	Keir Starmer	Keir Starmer	PER	PER-Keir-Starmer
+1979	1985	brexit	brexit	EVT	EVT-Brexit
+1989	1999	labouristy	labouristé	PER	ORG-Labour-Party-UK
+2087	2089	EU	EU	ORG	ORG-European-Union
+2107	2121	Dolní sněmovně	Dolní sněmovna	ORG	ORG-House-of-Commons
+2176	2184	brexitem	brexit	EVT	EVT-Brexit
+2234	2241	Mayovou	Mayová	PER	PER-Theresa-May
+2335	2337	EU	EU	ORG	ORG-European-Union

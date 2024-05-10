@@ -1,0 +1,18 @@
+0	4	Tusk	Tusk	PER	PER-Donald-Tusk
+7	15	brexicie	Brexit	EVT	EVT-Brexit
+50	58	Dublinie	Dublin	LOC	GPE-Dublin
+59	63	Tusk	Tusk	PER	PER-Donald-Tusk
+83	100	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+103	120	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+152	161	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+178	195	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+231	239	brexitem	Brexit	EVT	EVT-Brexit
+326	332	Brexit	Brexit	EVT	EVT-Brexit
+433	439	Europy	Europa	LOC	LOC-Europe
+516	520	Tusk	Tusk	PER	PER-Donald-Tusk
+534	540	brexit	Brexit	EVT	EVT-Brexit
+753	760	brexitu	Brexit	EVT	EVT-Brexit
+776	780	Tusk	Tusk	PER	PER-Donald-Tusk
+820	827	Europie	Europia	LOC	LOC-Europe
+892	899	Europie	Europa	LOC	LOC-Europe
+1134	1138	Tusk	Tusk	PER	PER-Donald-Tusk

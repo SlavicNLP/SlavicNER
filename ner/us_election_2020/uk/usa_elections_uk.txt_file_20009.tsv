@@ -1,0 +1,50 @@
+0	8	Fox News	Fox News	PRO	PRO-Fox-News
+19	22	CNN	CNN	ORG	ORG-CNN
+46	53	Байдена	Байден	PER	PER-Joe-Biden
+97	104	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+158	168	Вісконсині	Вісконсин	LOC	GPE-Wisconsin
+170	178	Мічигані	Мічиган	LOC	GPE-Michigan
+182	188	Неваді	Невада	LOC	GPE-Nevada
+262	265	США	США	LOC	GPE-USA
+270	290	Демократичної партії	Демократична партія	ORG	ORG-Democratic-Party-USA
+291	301	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+337	352	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+388	397	Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+399	406	Мічиган	Мічиган	LOC	GPE-Michigan
+410	416	Невада	Невада	LOC	GPE-Nevada
+420	428	Fox News	Fox News	PRO	PRO-Fox-News
+440	446	Байден	Байден	PER	PER-Joe-Biden
+489	494	Трамп	Трамп	PER	PER-Donald-Trump
+554	572	Колегії вибірників	Колегія вибірників	ORG	ORG-United-States-Electoral-College
+583	590	Байдена	Байден	PER	PER-Joe-Biden
+662	669	Байдену	Байден	PER	PER-Joe-Biden
+694	704	Вісконсині	Вісконсин	LOC	GPE-Wisconsin
+706	714	Мічигані	Мічиган	LOC	GPE-Michigan
+717	723	Неваді	Невада	LOC	GPE-Nevada
+752	755	США	США	LOC	GPE-USA
+774	781	Мічиган	Мічиган	LOC	GPE-Michigan
+809	816	Мічиган	Мічиган	LOC	GPE-Michigan
+933	938	Трамп	Трамп	PER	PER-Donald-Trump
+1009	1012	CNN	CNN	ORG	ORG-CNN
+1054	1062	Мічигані	Мічиган	LOC	GPE-Michigan
+1112	1117	Трамп	Трамп	PER	PER-Donald-Trump
+1178	1190	Пенсільванії	Пенсільванія	LOC	GPE-Pennsylvania
+1192	1210	Північній Кароліні	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+1212	1220	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1227	1233	Алясці	Аляска	LOC	GPE-Alaska
+1250	1253	США	США	LOC	GPE-USA
+1618	1625	Аризона	Аризона	LOC	GPE-Arizona
+1627	1634	Флорида	Флорида	LOC	GPE-Florida
+1636	1644	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+1646	1651	Айова	Айова	LOC	GPE-Iowa
+1653	1660	Мічиган	Мічиган	LOC	GPE-Michigan
+1662	1671	Міннесота	Міннесота	LOC	GPE-Minnesota
+1673	1684	Нью-Гемпшир	Нью-Гемпшир	LOC	GPE-New-Hampshire
+1686	1703	Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+1705	1710	Огайо	Огайо	LOC	GPE-Ohio
+1712	1724	Пенсільванія	Пенсільванія	LOC	GPE-Pennsylvania
+1726	1731	Техас	Техас	LOC	GPE-Texas
+1734	1743	Вісконсин	Вісконсин	LOC	GPE-Wisconsin
+1803	1809	Техасу	Техас	LOC	GPE-Texas
+1816	1823	Флориди	Флорида	LOC	GPE-Florida
+1831	1836	Огайо	Огайо	LOC	GPE-Ohio

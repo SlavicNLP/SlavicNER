@@ -1,0 +1,40 @@
+14	26	коронавируса	коронавирус	EVT	EVT-Covid-19
+29	36	Украине	Украина	LOC	GPE-Ukraine
+55	62	Украине	Украина	LOC	GPE-Ukraine
+98	110	коронавируса	коронавирус	EVT	EVT-Covid-19
+146	158	коронавируса	коронавирус	EVT	EVT-Covid-19
+161	168	Украине	Украина	LOC	GPE-Ukraine
+256	263	Украине	Украина	LOC	GPE-Ukraine
+310	315	COVID	COVID	EVT	EVT-Covid-19
+316	324	украинцы	украинцы	PER	GPE-Ukraine
+379	390	РБК-Украина	РБК-Украина	ORG	ORG-RBC-Ukraine
+421	433	коронавируса	коронавирус	EVT	EVT-Covid-19
+450	457	Украина	Украина	LOC	GPE-Ukraine
+479	484	COVAX	COVAX	PRO	PRO-Covax-initiative
+529	574	Глобального альянса по вакцинам и иммунизации	Глобальный альянс по вакцинам и иммунизации	ORG	ORG-Gavi
+576	583	Украина	Украина	LOC	GPE-Ukraine
+671	678	Украина	Украина	LOC	GPE-Ukraine
+834	863	Центра общественного здоровья	Центр общественного здоровья	ORG	ORG-Center-for-Public-Health-Ukraine
+864	875	Игорь Кузин	Игорь Кузин	PER	PER-Igor-Kuzin
+945	952	Украину	Украина	LOC	GPE-Ukraine
+1018	1029	AstraZeneсa	AstraZeneсa	ORG	GPE-AstraZeneсa
+1047	1056	Минздраве	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+1111	1118	Украине	Украина	LOC	GPE-Ukraine
+1231	1238	Украины	Украина	LOC	GPE-Ukraine
+1283	1292	Минздрава	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+1293	1308	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+1420	1426	Pfizer	Pfizer	ORG	ORG-Pfizer
+1487	1494	Moderna	Moderna	ORG	ORG-Moderna
+1533	1544	AstraZeneсa	AstraZeneсa	ORG	GPE-AstraZeneсa
+1650	1662	коронавируса	коронавирус	EVT	EVT-Covid-19
+1665	1672	Украине	Украина	LOC	GPE-Ukraine
+1690	1718	Министерство здравоохранения	Министерство здравоохранения	ORG	ORG-Ministry-of-Healthcare-Ukraine
+2000	2009	Минздрава	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+2010	2025	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+2393	2401	COVID-19	COVID-19	EVT	EVT-Covid-19
+2440	2451	Коронавирус	коронавирус	EVT	EVT-Covid-19
+2454	2461	Украине	Украина	LOC	GPE-Ukraine
+2478	2490	коронавируса	коронавирус	EVT	EVT-Covid-19
+2493	2500	Украине	Украина	LOC	GPE-Ukraine
+2555	2564	Черновцов	Черновцы	LOC	LOC-Chernivtsi
+2961	2968	Украину	Украина	LOC	GPE-Ukraine

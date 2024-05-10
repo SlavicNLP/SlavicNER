@@ -1,0 +1,20 @@
+0	13	Copa i Cogeca	Copa i Cogeca	ORG	ORG-Copa-i-Cogeca
+85	98	Copa i Cogeca	Copa i Cogeca	ORG	ORG-Copa-i-Cogeca
+553	560	Brexitu	Brexit	EVT	EVT-Brexit
+626	632	Brexit	Brexit	EVT	EVT-Brexit
+827	834	Brexitu	Brexit	EVT	EVT-Brexit
+857	874	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+947	954	Brexitu	Brexit	EVT	EVT-Brexit
+1093	1096	WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+2304	2317	Copa i Cogeca	Copa i Cogeca	ORG	ORG-Copa-i-Cogeca
+2481	2487	Belgia	Belgia	LOC	GPE-Belgium
+2489	2497	Flandria	Flandria	LOC	LOC-Flandria
+2500	2505	Dania	Dania	LOC	GPE-Denmark
+2507	2513	Niemcy	Niemcy	LOC	GPE-Germany
+2515	2522	Francja	Francja	LOC	GPE-France
+2524	2530	Włochy	Włochy	LOC	GPE-Italy
+2532	2540	Holandia	Holandia	LOC	GPE-Holland
+2542	2548	Polska	Polska	LOC	GPE-Poland
+2550	2557	Rumunia	Rumunia	LOC	GPE-Romania
+2559	2566	Szwecja	Szwecja	LOC	GPE-Sweden
+2572	2587	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain

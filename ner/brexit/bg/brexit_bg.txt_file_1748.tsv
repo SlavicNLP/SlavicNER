@@ -1,0 +1,19 @@
+0	4	Туск	Туск	PER	PER-Donald-Tusk
+36	38	ЕС	ЕС	ORG	ORG-European-Union
+73	80	Брекзит	Брекзит	EVT	EVT-Brexit
+88	95	Брюксел	Брюксел	LOC	GPE-Brussles
+134	141	Брекзит	Брекзит	EVT	EVT-Brexit
+155	161	Лондон	Лондон	LOC	GPE-London
+174	190	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+289	293	Туск	Туск	PER	PER-Donald-Tusk
+315	322	Брюксел	Брюксел	LOC	GPE-Brussles
+410	424	Великобритания	Великобритания	LOC	GPE-Great-Britain
+425	435	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+593	609	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+701	709	Ирландия	Ирландия	LOC	GPE-Ireland
+711	715	Туск	Туск	PER	PER-Donald-Tusk
+734	737	Мей	Мей	PER	PER-Theresa-May
+900	906	Лондон	Лондон	LOC	GPE-London
+1024	1032	Ирландия	Ирландия	LOC	GPE-Ireland
+1035	1051	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1060	1071	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk

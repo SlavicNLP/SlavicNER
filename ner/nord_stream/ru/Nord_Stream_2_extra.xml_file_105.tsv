@@ -1,0 +1,34 @@
+0	6	Берлин	Берлин	LOC	GPE-Berlin
+22	25	США	США	LOC	GPE-USA
+157	159	РФ	РФ	LOC	GPE-Russia
+166	173	Украину	Украина	LOC	GPE-Ukraine
+189	196	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
+222	230	Германии	Германия	LOC	GPE-Germany
+231	241	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+257	260	США	США	LOC	GPE-USA
+289	305	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+370	376	Европе	Европа	LOC	LOC-Europe
+385	388	США	США	LOC	GPE-USA
+400	404	Маас	Маас	PER	PER-Heiko-Maas
+420	458	Восточного комитета немецкой экономики	Восточный комитет немецкой экономики	ORG	ORG-Committee-on-Eastern-European-Economic-Relations
+461	468	Берлине	Берлин	LOC	GPE-Berlin
+509	515	Берлин	Берлин	LOC	GPE-Berlin
+564	574	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+592	608	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+922	929	Украину	Украина	LOC	GPE-Ukraine
+941	945	Маас	Маас	PER	PER-Heiko-Maas
+956	962	России	Россия	LOC	GPE-Russia
+1072	1078	России	Россия	LOC	GPE-Russia
+1141	1160	Восточного комитета	Восточный комитет	ORG	ORG-Committee-on-Eastern-European-Economic-Relations
+1161	1177	Вольфганг Бюхеле	Вольфганг Бюхеле	PER	PER-Wolfgang-Buchele
+1223	1231	Германию	Германия	LOC	GPE-Germany
+1234	1240	Европу	Европа	LOC	LOC-Europe
+1332	1343	Нидерландах	Нидерланды	LOC	GPE-Holland
+1453	1469	Балтийскому морю	Балтийское море	LOC	LOC-Baltic-Sea
+1501	1517	Северным потоком	Северный поток	PRO	PRO-Nord-Stream-1
+1579	1582	США	США	LOC	GPE-USA
+1583	1596	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1604	1607	ФРГ	ФРГ	LOC	GPE-Germany
+1621	1627	России	Россия	LOC	GPE-Russia
+1656	1663	Берлина	Берлин	LOC	GPE-Berlin
+1682	1700	Северного потока-2	Северный поток-2	PRO	PRO-Nord-Stream-2

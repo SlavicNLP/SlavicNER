@@ -1,0 +1,26 @@
+0	3	СЗО	СЗО	ORG	ORG-WHO
+52	64	коронавируса	коронавирус	EVT	EVT-Covid-19
+245	255	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+282	290	Covid-19	COVID-19	EVT	EVT-Covid-19
+302	338	Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+402	406	Ухан	Ухан	LOC	GPE-Wuhan
+472	480	Euronews	Euronews	ORG	ORG-Euronews
+642	657	Фабиан Лиендерц	Фабиан Лиендерц	PER	PER-Fabian-Leendertz
+690	700	Робърт Кох	Робърт Кох	ORG	ORG-Robert-Koch-Institut
+1274	1279	Китай	Китай	LOC	GPE-China
+1305	1317	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1373	1376	СЗО	СЗО	ORG	ORG-WHO
+1505	1513	Лиендерц	Лиендерц	PER	PER-Fabian-Leendertz
+1605	1609	Ухан	Ухан	LOC	GPE-Wuhan
+1880	1884	Ухан	Ухан	LOC	GPE-Wuhan
+1921	1925	Ухан	Ухан	LOC	GPE-Wuhan
+2050	2055	ебола	ебола	EVT	EVT-Ebola
+2058	2072	Западна Африка	Западна Африка	LOC	LOC-West-Africa
+2114	2122	Covid-19	COVID-19	EVT	EVT-Covid-19
+2141	2155	Индиана Джоунс	Индиана Джоунс	PER	PER-Indiana-Jones
+2324	2335	коронавирус	коронавирус	EVT	EVT-Covid-19
+2375	2380	Ебола	Ебола	EVT	EVT-Ebola
+2396	2404	Covid-19	Covid-19	EVT	EVT-Covid-19
+2539	2546	Линдърц	Лиендерц	PER	PER-Fabian-Leendertz
+2858	2866	Лиендерц	Лиендерц	PER	PER-Fabian-Leendertz
+2933	2938	Китай	Китай	LOC	GPE-China

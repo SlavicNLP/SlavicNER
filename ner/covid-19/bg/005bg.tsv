@@ -1,0 +1,34 @@
+0	7	Борисов	Борисов	PER	PER-Boyko-Borisov
+9	17	България	България	LOC	GPE-Bulgaria
+77	85	България	България	LOC	GPE-Bulgaria
+161	174	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+206	218	правителство	правителство	ORG	ORG-Government-of-Bulgaria
+221	247	Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+345	352	Борисов	Борисов	PER	PER-Boyko-Borisov
+391	407	Десислава Танева	Десислава Танева	PER	PER-Desislava-Taneva
+615	650	Националната референтна лаборатория	Национална референтна лаборатория	ORG	ORG-National-reference-laboratory
+657	682	Военномедицинска академия	Военномедицинска академия	LOC	LOC-Military-medicine-academia-hospital-Sofia
+746	780	Министерството на здравеопазването	Министерство на здравеопазването	ORG	ORG-Ministry-of-Health-Bulgaria
+846	881	Министерството на вътрешните работи	Министерство на вътрешните работи	ORG	ORG-MVR
+973	994	Втора градска болница	Втора градска болница	LOC	LOC-Second-city-hospital
+1125	1137	коронавируса	коронавирус	EVT	EVT-Covid-19
+1189	1203	Александровска	Александровска болница	LOC	LOC-Aleksandrovska-hospital
+1205	1212	Пирогов	Пирогов	LOC	LOC-Pirogov-hospital
+1214	1217	ВМА	ВМА	LOC	LOC-Military-medicine-academia-hospital-Sofia
+1220	1240	Белодробната болница	Белодробна болница	LOC	LOC-Lung-hospital-Bulgaria
+1727	1742	Красимир Вълчев	Красимир Вълчев	PER	PER-Krasimir-Valchev
+1834	1839	БНТ 2	БНТ 2	PRO	PRO-Bulgarian-National-Television
+1844	1849	БНТ 4	БНТ 4	PRO	ORG-Bulgarian-National-Television
+2002	2014	коронавируса	коронавирус	EVT	EVT-Covid-19
+2032	2039	Борисов	Борисов	PER	PER-Boyko-Borisov
+2517	2528	Конституция	Конституция	PRO	PRO-Constitution
+2535	2541	Библия	Библия	PRO	PRO-The-Bible
+2659	2679	Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+2987	2994	Борисов	Борисов	PER	PER-Boyko-Borisov
+3026	3037	коронавирус	коронавирус	EVT	EVT-Covid-19
+3173	3181	България	България	LOC	GPE-Bulgaria
+3430	3442	коронавируса	коронавирус	EVT	EVT-Covid-19
+3444	3457	Прокуратурата	Прокуратура	ORG	ORG-Prosecutor-Office-Bulgaria
+3570	3574	ДАНС	ДАНС	ORG	ORG-DANS-Bulgaria
+3576	3579	МВР	МВР	ORG	ORG-MVR
+3582	3585	ВКП	ВКП	ORG	ORG-VKP-Bulgaria

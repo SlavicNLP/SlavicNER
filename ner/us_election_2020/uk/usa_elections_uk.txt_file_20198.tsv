@@ -1,0 +1,23 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+13	20	Байдена	Байден	PER	PER-Joe-Biden
+92	103	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+121	124	США	США	LOC	GPE-USA
+125	136	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+151	162	Білого дому	Білий дім	ORG	ORG-White-House
+163	176	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+215	227	вибори у США	вибори у США	EVT	EVT-2020-United-States-Presidential-Election
+245	256	Афганістані	Афганістан	LOC	GPE-Afghanistan
+271	277	Трампа	Трамп	PER	PER-Donald-Trump
+309	320	Афганістані	Афганістан	LOC	GPE-Afghanistan
+347	358	Афганістані	Афганістан	LOC	GPE-Afghanistan
+393	415	вибори 2020 року в США	вибори 2020 року в США	EVT	EVT-2020-United-States-Presidential-Election
+573	580	Twitter	Twitter	PRO	PRO-Twitter
+614	620	Трампа	Трамп	PER	PER-Donald-Trump
+729	737	Facebook	Facebook	ORG	ORG-Facebook
+742	751	Instagram	Instagram	PRO	PRO-Instagram
+758	765	Twitter	Twitter	ORG	ORG-Twitter
+813	816	США	США	LOC	GPE-USA
+824	835	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+843	854	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+904	919	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1016	1023	Байдена	Байден	PER	PER-Joe-Biden

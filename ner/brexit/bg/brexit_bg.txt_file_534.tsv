@@ -1,0 +1,22 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+54	59	КРОСС	КРОСС	ORG	ORG-CROSS
+107	127	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+162	169	Брекзит	Брекзит	EVT	EVT-Brexit
+176	190	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+321	328	Брекзит	Брекзит	EVT	EVT-Brexit
+368	380	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+459	475	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+627	633	Лондон	Лондон	LOC	GPE-London
+662	664	ЕС	ЕС	ORG	ORG-European-Union
+665	677	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+688	698	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+714	721	Брекзит	Брекзит	EVT	EVT-Brexit
+722	735	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+744	751	Брюксел	Брюксел	LOC	GPE-Brussles
+866	880	Великобритания	Великобритания	LOC	GPE-Great-Britain
+889	891	ЕС	ЕС	ORG	ORG-European-Union
+956	963	Брекзит	Брекзит	EVT	EVT-Brexit
+1148	1157	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+1212	1219	Брекзит	Брекзит	EVT	EVT-Brexit
+1225	1235	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1318	1320	ЕС	ЕС	ORG	ORG-European-Union

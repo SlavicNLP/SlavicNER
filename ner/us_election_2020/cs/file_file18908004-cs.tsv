@@ -1,0 +1,9 @@
+91	96	Trump	Trump	PER	PER-Donald-Trump
+101	106	Biden	Biden	PER	PER-Joe-Biden
+164	169	Losny	Losna	PER	PER-Losna
+172	179	Mažnáka	Mažnák	PER	PER-Maznak
+210	224	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+248	258	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+262	273	Bílého domu	Bílý dům	LOC	LOC-White-House
+635	644	Američané	Američané	PER	GPE-USA
+683	692	covidu-19	covid-19	EVT	EVT-Covid-19

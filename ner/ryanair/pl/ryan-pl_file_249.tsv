@@ -1,0 +1,49 @@
+15	22	Ryanair	Ryanair	ORG	ORG-Ryanair
+133	139	Polski	Polska	LOC	GPE-Poland
+159	166	Ryanair	Ryanair	ORG	ORG-Ryanair
+216	223	Modlina	Modlin	LOC	GPE-Modlin
+226	233	Krakowa	Kraków	LOC	GPE-Kraków
+263	269	Polską	Polska	LOC	GPE-Poland
+272	281	Barceloną	Barcelona	LOC	GPE-Barcelona
+283	291	Brukselą	Bruksela	LOC	GPE-Brussles
+293	301	Walencją	Walencja	LOC	GPE-Valencia
+307	315	Alicante	Alicante	LOC	GPE-Alicante
+600	607	Ryanair	Ryanair	ORG	ORG-Ryanair
+842	849	Ryanair	Ryanair	ORG	ORG-Ryanair
+1031	1038	Ryanair	Ryanair	ORG	ORG-Ryanair
+1093	1099	Polski	Polska	LOC	GPE-Poland
+1153	1161	Irlandii	Irlandia	LOC	GPE-Ireland
+1302	1309	Ryanair	Ryanair	ORG	ORG-Ryanair
+1783	1826	Trybunału Sprawiedliwości Unii Europejskiej	Trybunał Sprawiedliwości Unii Europejskiej	ORG	ORG-European-Court-of-Justice
+1828	1832	TSUE	TSUE	ORG	ORG-European-Court-of-Justice
+2305	2340	Brytyjski Urząd Lotnictwa Cywilnego	Brytyjski Urząd Lotnictwa Cywilnego	ORG	ORG-Civil-Aviation-Authority-UK
+2417	2424	Ryanair	Ryanair	ORG	ORG-Ryanair
+2709	2717	Irlandii	Irlandia	LOC	GPE-Ireland
+2742	2749	Ryanair	Ryanair	ORG	ORG-Ryanair
+2873	2890	Bożego Narodzenia	Boże Narodzenie	EVT	EVT-Christmas
+3202	3218	Kamil Rybikowski	Kamil Rybikowski	PER	PER-Kamil-Rybikowski
+3220	3223	WEI	WEI	ORG	ORG-Warsaw-Enterprise-Institute
+3225	3252	Warsaw Enterprise Institute	Warsaw Enterprise Institute	ORG	ORG-Warsaw-Enterprise-Institute
+3888	3902	Konstytucji RP	Konstytucja RP	PRO	PRO-Constitution-of-Poland
+3941	3947	Polsce	Polska	LOC	GPE-Poland
+4468	4482	Strefą Biznesu	Strefa Biznesu	PRO	PRO-Strefa-Biznesu
+4484	4500	Piotr Szumlewicz	Piotr Szumlewicz	PER	PER-Piotr-Szumiewicz
+4518	4571	Rady Ogólnopolskiego Porozumienia Związków Zawodowych	Rada Ogólnopolskiego Porozumienia Związków Zawodowych	ORG	ORG-Management-Committee-of-All-Poland-Alliance-of-Trade-Unions
+4573	4577	OPZZ	OPZZ	ORG	ORG-All-Poland-Alliance-of-Trade-Unions
+4579	4604	województwa mazowieckiego	województwo mazowieckie	LOC	GPE-Poland-Masovian-Voivodeship
+4733	4740	Ryanair	Ryanair	ORG	ORG-Ryanair
+4744	4750	Polsce	Polska	LOC	GPE-Poland
+4828	4833	LOT-u	LOT	ORG	ORG-PLL-LOT
+4918	4966	Związek Zawodowy Pilotów Komunikacyjnych PLL LOT	Związek Zawodowy Pilotów Komunikacyjnych PLL LOT	ORG	ORG-Trade-Union-Związek-Zawodowy-Pilotów-Komunikacyjnych-PLL-LOT
+4972	5031	Związek Zawodowy Personelu Pokładowego i Lotniczego PLL LOT	Związek Zawodowy Personelu Pokładowego i Lotniczego PLL LOT	ORG	ORG-Trade-Unions-Związek-Zawodowy-Personelu-Pokładowego-i-Lotniczego-PLL-LOT
+5473	5502	Polskich Linii Lotniczych LOT	Polskie Linie Lotnicze LOT	ORG	ORG-PLL-LOT
+5709	5734	Trybunału Konstytucyjnego	Trybunał Konstytucyjny	ORG	ORG-Constitutional-Tribunal-Poland
+5747	5753	Polsce	Polska	LOC	GPE-Poland
+5823	5834	Konstytucją	Konstytucja	PRO	PRO-Constitution-of-Poland
+6153	6169	Piotr Szumlewicz	Piotr Szumlewicz	PER	PER-Piotr-Szumiewicz
+6244	6251	PLL LOT	PLL LOT	ORG	ORG-PLL-LOT
+6346	6355	Lufthansy	Lufthansa	ORG	ORG-Lufthansa
+6385	6392	Ryanair	Ryanair	ORG	ORG-Ryanair
+6451	6461	Air France	Air France	ORG	ORG-Air-France
+6472	6478	Polska	Polska	LOC	GPE-Poland
+6490	6497	Ryanair	Ryanair	ORG	ORG-Ryanair

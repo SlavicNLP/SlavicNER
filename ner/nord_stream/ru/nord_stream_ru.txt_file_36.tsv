@@ -1,0 +1,39 @@
+18	36	The New York Times	The New York Times	ORG	ORG-Financial-Times-Stock-Exchange-FTSE-100
+50	55	Обамы	Обама	PER	PER-Barack-Obama
+115	122	Netflix	Netflix	ORG	ORG-Netflix
+136	152	Тедом Сарандосом	Тед Сарандос	PER	PER-Theodore-Sarandos
+187	195	Сарандос	Сарандос	PER	PER-Theodore-Sarandos
+205	217	Николь Авант	Николь Авант	PER	PER-Nicole-Avant
+224	229	Обаме	Обама	PER	PER-Barack-Obama
+249	256	Багамах	Багамы	LOC	GPE-Bahamas
+265	272	Netflix	Netflix	ORG	ORG-Netflix
+309	315	Обамой	Обама	PER	PER-Barack-Obama
+384	390	Amazon	Amazon	ORG	ORG-Amazon
+393	398	Apple	Apple	ORG	ORG-Apple
+420	425	Обама	Обама	PER	PER-Barack-Obama
+513	523	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+630	637	Америки	Америка	LOC	GPE-USA
+974	982	Fox News	Fox News	PRO	PRO-Fox-News
+1067	1075	Нью-Дели	Нью-Дели	LOC	GPE-New-Deli
+1164	1174	Диоклетиан	Диоклетиан	PER	PER-Diocletian
+1434	1444	Диоклетиан	Диоклетиан	PER	PER-Diocletian
+1755	1769	Герхард Шрёдер	Герхард Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+1784	1792	Германии	Германия	LOC	GPE-Germany
+1849	1857	Германия	Германия	LOC	GPE-Germany
+1872	1892	Второй мировой войны	Второй мировой войны	EVT	EVT-World-War-II
+1986	1994	Балканах	Балканы	LOC	LOC-Balkans
+1999	2010	Афганистане	Афганистан	LOC	GPE-Afghanistan
+2073	2079	Шрёдер	Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+2174	2188	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+2219	2233	Северный поток	Северный поток	PRO	PRO-Nord-Stream-2
+2336	2349	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+2389	2407	Северный поток – 2	Северный поток – 2	PRO	PRO-Nord-Stream-2
+2419	2426	Шрёдера	Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+2468	2476	Роснефти	Роснефть	ORG	ORG-Rosneft
+2695	2702	Шрёдера	Шрёдер	PER	PER-Gerhard-Fritz-Kurt-Schröder
+2720	2731	Южной Кореи	Южная Корея	LOC	GPE-South-Korea
+2732	2741	Ким Со Ён	Ким Со Ён	PER	PER-Km-So-Yeon
+2870	2880	Петербурге	Петербург	LOC	GPE-Saint-Petersburg
+2901	2919	Махмуд Ахмадинежад	Махмуд Ахмадинежад	PER	PER-Mahmoud-Ahmadinejad
+2944	2949	Ирана	Иран	LOC	GPE-Iran
+3090	3101	Ахмадинежад	Ахмадинежад	PER	PER-Mahmoud-Ahmadinejad

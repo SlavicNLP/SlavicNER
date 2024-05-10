@@ -1,0 +1,22 @@
+0	5	Blair	Blair	PER	PER-Tony-Blair
+39	51	Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+92	102	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+176	183	brexitu	Brexit	EVT	EVT-Brexit
+243	260	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+263	265	UE	UE	ORG	ORG-European-Union
+273	284	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+344	354	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+437	444	brexitu	Brexit	EVT	EVT-Brexit
+504	515	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+518	520	UE	UE	ORG	ORG-European-Union
+528	539	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+574	589	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+629	635	Polską	Polska	LOC	GPE-Poland
+650	655	Blair	Blair	PER	PER-Tony-Blair
+679	687	Warszawy	Warszawa	LOC	GPE-Warsaw
+690	698	Brukselą	Bruksela	LOC	GPE-Brussles
+726	736	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+808	815	Brexitu	Brexit	EVT	EVT-Brexit
+875	886	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+889	891	UE	UE	ORG	ORG-European-Union
+899	910	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain

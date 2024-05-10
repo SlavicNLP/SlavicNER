@@ -1,0 +1,30 @@
+6	13	brexitu	brexit	EVT	EVT-Brexit
+35	37	EU	EU	ORG	ORG-European-Union
+106	140	Strukturální a investiční fondy EU	Strukturální a investiční fondy EU	PRO	PRO-European-Structural-Funds
+181	187	Komise	Komise	ORG	ORG-European-Commission
+340	378	Evropského fondu pro regionální rozvoj	Evropský fond pro regionální rozvoj	PRO	PRO-European-Regional-Development-Fund
+381	408	Evropského sociálního fondu	Evropský sociální fond	PRO	PRO-European-Social-Fund
+445	453	Rakouska	Rakousko	LOC	GPE-Austria
+455	461	Belgie	Belgie	LOC	GPE-Belgium
+463	469	Dánska	Dánsko	LOC	GPE-Denmark
+471	477	Finska	Finsko	LOC	GPE-Finland
+479	486	Francie	Francie	LOC	GPE-France
+488	495	Německa	Německo	LOC	GPE-Germany
+497	502	Irska	Irsko	LOC	GPE-Ireland
+504	514	Nizozemska	Nizozemsko	LOC	GPE-Holland
+516	523	Švédska	Švédsko	LOC	GPE-Sweden
+541	547	Itálii	Itálie	LOC	GPE-Italy
+553	562	Španělsku	Španělsko	LOC	GPE-Spain
+564	570	Komise	Komise	ORG	ORG-European-Commission
+600	608	Británie	Británie	LOC	GPE-Great-Britain
+611	624	Evropské unie	Evropská unie	ORG	ORG-European-Union
+763	778	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+1047	1049	EU	EU	ORG	ORG-European-Union
+1342	1348	Evropu	Evropa	LOC	LOC-Europe
+1446	1453	Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+1590	1603	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1678	1680	EU	EU	ORG	ORG-European-Union
+1705	1715	Bratislavě	Bratislava	LOC	GPE-Bratislava
+1734	1750	Římské deklaraci	Římská deklarace	PRO	PRO-Rome-Declaration
+1833	1835	EU	EU	ORG	ORG-European-Union
+1845	1860	Evropská komise	Evropská komise	ORG	ORG-European-Commission

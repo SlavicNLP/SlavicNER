@@ -1,0 +1,42 @@
+0	8	Covid-19	Covid-19	EVT	EVT-Covid-19
+190	204	prašičje gripe	prašičja gripa	EVT	EVT-Swine-Influenza
+258	299	Centra za nadzor in preprečevanje bolezni	Center za nadzor in preprečevanje bolezni	ORG	ORG-Centers-for-Disease-Control-and-Prevention-USA
+452	466	prašičjo gripo	prašičja gripa	EVT	EVT-Swine-Influenza
+590	623	Svetovne zdravstvene organizacije	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+625	628	WHO	WHO	ORG	ORG-World-Health-Organization
+1289	1306	evropske komisije	evropska komisija	ORG	ORG-European-Commission
+1351	1363	Vera Jourova	Vera Jourova	PER	PER-Věra-Jourová
+1383	1385	EU	EU	ORG	ORG-European-Union
+1508	1517	Madžarska	Madžarska	LOC	GPE-Hungary
+1639	1649	Tamara Ehs	Tamara Ehs	PER	PER-Tamara-Ehs
+1721	1734	IG Demokratie	IG Demokratie	ORG	ORG-IG-Demokratie
+2016	2024	Avstrijo	Avstrija	LOC	GPE-Austria
+2025	2031	Ehsova	Ehs	PER	PER-Tamara-Ehs
+2059	2077	velikonočni dekret	velikonočni dekret	PRO	PRO-Easter-Decree
+2498	2504	Evropi	Evropa	LOC	LOC-Europe
+2513	2522	Madžarska	Madžarska	LOC	GPE-Hungary
+2633	2635	EU	EU	ORG	ORG-European-Union
+2650	2657	Španija	Španija	LOC	GPE-Spain
+2880	2887	Nemčiji	Nemčija	LOC	GPE-Germany
+2919	2929	bundestaga	bundestag	ORG	ORG-Bundestag
+2930	2948	Wolfganga Schäubla	Wolfgang Schäuble	PER	PER-Wolfgang-Schäuble
+3157	3163	Evropi	Evropa	LOC	LOC-Europe
+3385	3391	Wuhanu	Wuhan	LOC	GPE-Wuhan
+3426	3434	Kitajsko	Kitajska	LOC	GPE-China
+3459	3476	Aleksandru Vučiću	Aleksander Vučić	PER	PER-Aleksandar-Vučić
+3527	3534	Izraelu	Izrael	LOC	GPE-Israel
+3536	3548	Južni Koreji	Južna Koreja	LOC	GPE-South-Korea
+3552	3559	Tajvanu	Tajvan	LOC	GPE-Taiwan
+3578	3586	Kitajsko	Kitajska	LOC	GPE-China
+3622	3633	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+3763	3766	ZDA	ZDA	LOC	GPE-USA
+4181	4188	Izraelu	Izrael	LOC	GPE-Israel
+4190	4195	Iranu	Iran	LOC	GPE-Iran
+4197	4203	Peruju	Peru	LOC	GPE-Peru
+4207	4219	Južni Afriki	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+4276	4291	Cyril Ramaphosa	Cyril Ramaphosa	PER	PER-Cyril-Ramaphosa
+4456	4469	koronavirusom	koronavirus	EVT	EVT-Covid-19
+4686	4695	covida-19	covid-19	EVT	EVT-Covid-19
+4760	4766	sarsom	sars	EVT	EVT-SARS
+4768	4773	ebolo	ebola	EVT	EVT-Ebola
+4775	4781	mersom	mers	EVT	EVT-MERS-CoV

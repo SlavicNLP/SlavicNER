@@ -1,0 +1,30 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+38	44	Brexit	Brexit	EVT	EVT-Brexit
+66	76	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+129	137	Брекзита	Брекзит	EVT	EVT-Brexit
+203	205	ЕС	ЕС	ORG	ORG-European-Union
+217	224	Ройтерс	Ройтерс	ORG	ORG-Reuters
+226	240	Великобритания	Великобритания	LOC	GPE-Great-Britain
+333	335	ЕС	ЕС	ORG	ORG-European-Union
+421	428	Брюксел	Брюксел	LOC	GPE-Brussles
+507	513	Лондон	Лондон	LOC	GPE-London
+545	547	ЕС	ЕС	ORG	ORG-European-Union
+567	570	Мей	Мей	PER	PER-Theresa-May
+749	752	Мей	Мей	PER	PER-Theresa-May
+764	770	Brexit	Brexit	EVT	EVT-Brexit
+775	781	Brexit	Brexit	EVT	EVT-Brexit
+861	864	Мей	Мей	PER	PER-Theresa-May
+1064	1067	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+1069	1072	Мей	Мей	PER	PER-Theresa-May
+1125	1163	Мюнхенската конференция по сигурността	Мюнхенска конференция по сигурността	EVT	EVT-MSC-Munich-Security-Conference
+1206	1226	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1339	1353	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1404	1417	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+1458	1464	Brexit	Brexit	EVT	EVT-Brexit
+1524	1530	Brexit	Brexit	EVT	EVT-Brexit
+1603	1616	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+1644	1650	Brexit	Brexit	EVT	EVT-Brexit
+1760	1762	ЕС	ЕС	ORG	ORG-European-Union
+1798	1807	Лиъм Фокс	Лиъм Фокс	PER	PER-Liam-Fox
+1829	1845	Дейвид Лидингтън	Дейвид Лидингтън	PER	PER-David-Lidington
+1868	1880	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond

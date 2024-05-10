@@ -1,0 +1,38 @@
+0	7	Kremelj	Kremelj	ORG	ORG-Kremlin
+9	22	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+63	69	Moskva	Moskva	LOC	GPE-Moscow
+139	146	Berlinu	Berlin	LOC	GPE-Berlin
+155	161	Parizu	Pariz	LOC	GPE-Paris
+183	186	ZDA	ZDA	LOC	GPE-USA
+228	231	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+260	267	Kremlja	Kremelj 	ORG	ORG-Kremlin
+268	282	Dmitrij Peskov	Dmitrij Peskov	PER	PER-Dmitry-Peskov
+321	325	Tass	Tass	ORG	ORG-TASS-Agency
+564	580	Ameriški kongres	ameriški kongres	ORG	ORG-United-States-Congress
+638	646	Pentagon	Pentagon	ORG	ORG-The-Pentagon
+712	719	Nemčije	Nemčija	LOC	GPE-Germany
+723	730	Turčije	Turčija	LOC	GPE-Turkey
+833	839	Trumpu	Trump	PER	PER-Donald-Trump
+889	892	ZDA	ZDA	LOC	GPE-USA
+907	920	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+956	963	Nemčije	Nemčija	LOC	GPE-Germany
+1024	1027	ZDA	ZDA	LOC	GPE-USA
+1030	1037	Nemčijo	Nemčija	LOC	GPE-Germany
+1041	1047	Evropo	Evropa	LOC	LOC-Europe
+1080	1090	Turški tok	Turški tok	PRO	PRO-TurkStream
+1122	1134	Črnega morja	Črno morje	LOC	LOC-Black-Sea
+1137	1144	Turčijo	Turčija	LOC	GPE-Turkey
+1157	1171	vzhodno Evropo	vzhodna Evropa	LOC	LOC-Eastern-Europe
+1334	1347	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1428	1435	Gazprom	Gazprom	ORG	ORG-Gazprom
+1475	1490	Baltskim morjem	Baltsko morje	LOC	LOC-Baltic-Sea
+1492	1498	Rusijo	Rusija	LOC	GPE-Russia
+1502	1509	Nemčijo	Nemčija	LOC	GPE-Germany
+1542	1548	Rusije	Rusija	LOC	GPE-Russia
+1550	1556	Finske	Finska	LOC	GPE-Finland
+1558	1565	Švedske	Švedska	LOC	GPE-Sweden
+1567	1573	Danske	Danska	LOC	GPE-Denmark
+1577	1584	Nemčije	Nemčija	LOC	GPE-Germany
+1608	1616	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1715	1722	Nemčijo	Nemčija	LOC	GPE-Germany
+1726	1732	Rusije	Rusija	LOC	GPE-Russia

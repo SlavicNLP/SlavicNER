@@ -1,0 +1,21 @@
+0	6	Mayová	Mayová	PER	PER-Theresa-May
+7	14	Tuskovi	Tusk	PER	PER-Donald-Tusk
+99	105	Mayová	Mayová	PER	PER-Theresa-May
+115	121	Tuskem	Tusk	PER	PER-Donald-Tusk
+242	256	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+326	333	brexitu	brexit	EVT	EVT-Brexit
+382	395	Severní Irsko	Severní Irsko	LOC	GPE-Northern-Ireland
+457	463	Londýn	Londýn	LOC	GPE-London
+492	496	Tusk	Tusk	PER	PER-Donald-Tusk
+531	538	Britové	Britové	PER	GPE-Great-Britain
+603	609	Mayová	Mayová	PER	PER-Theresa-May
+622	635	Evropské rady	Evropská rada	ORG	ORG-European-Council
+814	834	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+836	842	Londýn	Londýn	LOC	GPE-London
+864	879	Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+934	942	Británií	Británie	LOC	GPE-Great-Britain
+945	947	EU	EU	ORG	ORG-European-Union
+1032	1039	Reuters	Reuters	ORG	ORG-Reuters
+1099	1105	Mayová	Mayová	PER	PER-Theresa-May
+1108	1116	Bruselem	Brusel	LOC	GPE-Brussles
+1160	1166	Tuskem	Tusk	PER	PER-Donald-Tusk

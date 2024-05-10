@@ -1,0 +1,34 @@
+0	5	Indie	Indie	LOC	GPE-India
+20	22	EU	EU	ORG	ORG-European-Union
+28	36	Británií	Británie	LOC	GPE-Great-Britain
+65	77	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+109	122	Evropské unie	Evropská unie	ORG	ORG-European-Union
+225	230	Indií	Indie	LOC	GPE-India
+270	272	EU	EU	ORG	ORG-European-Union
+290	304	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+306	311	Indie	Indie	LOC	GPE-India
+469	471	EU	EU	ORG	ORG-European-Union
+474	479	Indií	Indie	LOC	GPE-India
+513	520	brexitu	brexit	EVT	EVT-Brexit
+550	556	Londýn	Londýn	LOC	GPE-London
+585	590	Indie	Indie	LOC	GPE-India
+697	701	Indy	Indové	PER	GPE-India
+726	732	Evropu	Evropa	LOC	LOC-Europe
+774	776	EU	EU	ORG	ORG-European-Union
+786	794	Británie	Británie	LOC	GPE-Great-Britain
+796	802	Brexit	Brexit	EVT	EVT-Brexit
+828	830	EU	EU	ORG	ORG-European-Union
+833	838	Indií	Indie	LOC	GPE-India
+928	933	Indie	Indie	LOC	GPE-India
+1028	1035	Bruselu	Brusel	LOC	GPE-Brussles
+1110	1116	Indové	Indové	PER	GPE-India
+1133	1135	EU	EU	ORG	ORG-European-Union
+1141	1149	Británií	Británie	LOC	GPE-Great-Britain
+1166	1173	brexitu	brexit	EVT	EVT-Brexit
+1220	1222	EU	EU	ORG	ORG-European-Union
+1299	1304	Indie	Indie	LOC	GPE-India
+1359	1365	Indové	Indové	PER	GPE-India
+1428	1435	Londýně	Londýn	LOC	GPE-London
+1478	1486	Politico	Politico	PRO	PRO-Politico
+1541	1543	EU	EU	ORG	ORG-European-Union
+1550	1558	Británií	Británie	LOC	GPE-Great-Britain

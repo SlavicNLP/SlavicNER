@@ -1,0 +1,13 @@
+22	27	dnews	dnews	PRO	PRO-dnews-bg
+68	80	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+194	204	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+389	395	Байдън	Байдън	PER	PER-Joe-Biden
+434	444	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+476	479	САЩ	САЩ	LOC	GPE-USA
+494	515	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+925	931	Байдън	Байдън	PER	PER-Joe-Biden
+934	939	Тръмп	Тръмп	PER	PER-Donald-Trump
+942	948	Байдън	Байдън	PER	PER-Joe-Biden
+1194	1199	Русия	Русия	LOC	GPE-Russia
+1205	1210	Китай	Китай	LOC	GPE-China
+1225	1234	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC

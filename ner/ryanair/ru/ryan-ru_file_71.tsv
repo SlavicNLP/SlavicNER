@@ -1,0 +1,27 @@
+40	48	Брюссель	Брюссель	LOC	GPE-Brussles
+121	124	IAG	IAG	ORG	ORG-IAG-International-Airlines-Group
+140	155	British Airways	British Airways	ORG	ORG-British-Airways
+168	174	Iberia	Iberia	ORG	ORG-Iberia
+177	184	Vueling	Vueling	ORG	ORG-Vueling
+198	205	easyJet	easyJet	ORG	ORG-EasyJet
+218	225	Ryanair	Ryanair	ORG	ORG-Ryanair
+239	247	Wizz Air	Wizz Air	ORG	ORG-Wizz-Air
+278	298	Европейскую комиссию	Европейская комиссия	ORG	ORG-European-Commission
+302	309	Францию	Франция	LOC	GPE-France
+531	548	Европейском союзе	Европейский союз	ORG	ORG-European-Union
+661	668	Франция	Франция	LOC	GPE-France
+695	697	ЕС	ЕС	ORG	ORG-European-Union
+732	733	Ъ	Ъ	ORG	ORG-Kommersant-News
+883	889	Европе	Европа	LOC	LOC-Europe
+1168	1171	IAG	IAG	ORG	ORG-IAG-International-Airlines-Group
+1172	1183	Уилли Уэлша	Уилли Уэлш	PER	PER-Willie-Walsh
+1234	1235	Ъ	Ъ	ORG	ORG-Kommersant-News
+1299	1306	Франции	Франция	LOC	GPE-France
+1348	1356	Францией	Франция	LOC	GPE-France
+1401	1408	Марселя	Марсель	LOC	GPE-Marseille
+1411	1428	Средиземного моря	Средиземное море	LOC	LOC-Mediterranean-Sea
+1470	1471	Ъ	Ъ	ORG	ORG-Kommersant-News
+1582	1596	Сената Франции	Сенат Франции	ORG	ORG-Senate-France
+1747	1753	Греции	Греция	LOC	GPE-Greece
+1766	1772	Италии	Италия	LOC	GPE-Italy
+1784	1798	Филипп Ночевка	Филипп Ночевка	PER	PER-Filipp-Nochevka

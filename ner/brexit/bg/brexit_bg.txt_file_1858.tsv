@@ -1,0 +1,17 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+26	32	Лондон	Лондон	LOC	GPE-London
+87	89	ЕС	ЕС	ORG	ORG-European-Union
+132	146	Великобритания	Великобритания	LOC	GPE-Great-Britain
+229	236	Брекзит	Брекзит	EVT	EVT-Brexit
+248	258	Франс прес	Франс прес	ORG	ORG-France-Presse
+323	329	Лондон	Лондон	LOC	GPE-London
+403	405	ЕС	ЕС	ORG	ORG-European-Union
+489	509	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+512	514	ЕС	ЕС	ORG	ORG-European-Union
+574	580	Лондон	Лондон	LOC	GPE-London
+715	729	Великобритания	Великобритания	LOC	GPE-Great-Britain
+900	907	Брекзит	Брекзит	EVT	EVT-Brexit
+931	945	Великобритания	Великобритания	LOC	GPE-Great-Britain
+998	1005	Брюксел	Брюксел	LOC	GPE-Brussles
+1032	1038	Лондон	Лондон	LOC	GPE-London
+1062	1082	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain

@@ -1,0 +1,37 @@
+8	10	ЕС	ЕС	ORG	ORG-European-Union
+93	105	коронавируса	коронавирус	EVT	EVT-Covid-19
+204	214	пандемията	пандемия	EVT	EVT-Pandemic
+226	267	Международният ден на проверка на фактите	Международен ден на проверка на фактите	EVT	EVT-International-Fact-Checking-Day
+272	299	Европейският парламент (ЕП)	Европейски парламент (ЕП)	ORG	ORG-European-Parliament
+372	384	коронавируса	коронавирус	EVT	EVT-Covid-19
+466	476	пандемията	пандемия	EVT	EVT-Pandemic
+704	706	ЕС	ЕС	ORG	ORG-European-Union
+728	734	Европа	Европа	LOC	LOC-Europe
+838	860	пандемията от COVID-19	пандемия от COVID-19	EVT	EVT-Covid-19
+880	884	ЕСВД	ЕСВД	ORG	ORG-European-External-Action-Service
+896	907	EUvsDisinfo	EUvsDisinfo	PRO	PRO-EUvsDisinfo
+1010	1015	Китай	Китай	LOC	GPE-China
+1018	1023	Русия	Русия	LOC	GPE-Russia
+1076	1092	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1163	1173	Парламента	Парламент	ORG	ORG-European-Parliament
+1174	1185	Отмар Карас	Отмар Карас	PER	PER-Othmar-Karas
+1187	1190	ЕНП	ЕНП	ORG	ORG-EPP
+1192	1199	Австрия	Австрия	LOC	GPE-Austria
+1305	1321	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1323	1325	ЕС	ЕС	ORG	ORG-European-Union
+1407	1409	ЕС	ЕС	ORG	ORG-European-Union
+1412	1414	ЕС	ЕС	ORG	ORG-European-Union
+1549	1557	COVID-19	COVID-19	EVT	EVT-Covid-19
+1586	1592	Италия	Италия	LOC	GPE-Italy
+1595	1602	Франция	Франция	LOC	GPE-France
+1604	1609	Чехия	Чехия	LOC	GPE-Czech-Republic
+1651	1657	Италия	Италия	LOC	GPE-Italy
+1662	1669	Испания	Испания	LOC	GPE-Spain
+1671	1678	Австрия	Австрия	LOC	GPE-Austria
+1681	1688	Франция	Франция	LOC	GPE-France
+1716	1722	Италия	Италия	LOC	GPE-Italy
+1750	1764	Катарина Барли	Катарина Барли	PER	PER-Katarina-Barley
+1766	1769	С&Д	С&Д	ORG	ORG-SD-Progressive-Alliance-of-Socialists-and-Democrats
+1771	1779	Германия	Германия	LOC	GPE-Germany
+2371	2411	Международния ден на проверка на фактите	Международен ден на проверка на фактите	EVT	EVT-International-Fact-Checking-Day
+2742	2753	Отмар Карас	Отмар Карас	PER	PER-Othmar-Karas

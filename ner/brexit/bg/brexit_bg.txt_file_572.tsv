@@ -1,0 +1,28 @@
+0	6	Лондон	Лондон	LOC	GPE-London
+38	40	ЕС	ЕС	ORG	ORG-European-Union
+55	60	БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+134	154	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+158	160	ЕС	ЕС	ORG	ORG-European-Union
+181	187	Лондон	Лондон	LOC	GPE-London
+209	211	ЕС	ЕС	ORG	ORG-European-Union
+324	326	ЕС	ЕС	ORG	ORG-European-Union
+366	370	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+496	506	Грег Кларк	Грег Кларк	PER	PER-Greg-Clark
+528	540	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+557	564	Брекзит	Брекзит	EVT	EVT-Brexit
+565	578	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+594	598	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+748	755	Брекзит	Брекзит	EVT	EVT-Brexit
+1013	1015	ЕС	ЕС	ORG	ORG-European-Union
+1230	1232	ЕС	ЕС	ORG	ORG-European-Union
+1256	1270	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1380	1382	ЕС	ЕС	ORG	ORG-European-Union
+1384	1389	Кларк	Кларк	PER	PER-Greg-Clark
+1391	1397	Хамънд	Хамънд	PER	PER-Philip-Hammond
+1400	1406	Дейвис	Дейвис	PER	PER-David-Davis
+1457	1464	Брекзит	Брекзит	EVT	EVT-Brexit
+1491	1511	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1589	1591	ЕС	ЕС	ORG	ORG-European-Union
+1633	1635	ЕС	ЕС	ORG	ORG-European-Union
+1687	1707	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1976	1981	БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency

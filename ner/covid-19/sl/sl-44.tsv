@@ -1,0 +1,33 @@
+0	5	Nemci	Nemci	PER	GPE-Germany
+52	61	covidu-19	covid-19	EVT	EVT-Covid-19
+84	99	Welt am Sonntag	Welt am Sonntag	PRO	PRO-Welt-am-Sonntag
+289	295	Berlin	Berlin	LOC	GPE-Berlin
+350	364	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+366	368	DW	DW	PRO	PRO-Deutsche-Welle
+521	538	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+576	584	BioNTech	BioNTech	ORG	ORG-BioNTech
+588	594	Pfizer	Pfizer	ORG	ORG-Pfizer
+646	655	covidu-19	covid-19	EVT	EVT-Covid-19
+669	676	Nemčiji	Nemčija	LOC	GPE-Germany
+739	741	DW	DW	PRO	PRO-Deutsche-Welle
+815	838	Inštitut Paula Ehrlicha	Inštitut Paula Ehrlicha	ORG	ORG-Paul-Ehrlich-Institute
+1015	1029	Klaus Cichutek	Klaus Cichutek	PER	PER-Klaus-Cichutek
+1036	1051	Welt am Sonntag	Welt am Sonntag	PRO	PRO-Welt-am-Sonntag
+1281	1287	Pfizer	Pfizer	ORG	ORG-Pfizer
+1321	1329	BioNTech	BioNTech	ORG	ORG-BioNTech
+1442	1457	Wolfgang Albeck	Wolfgang Albeck	PER	PER-Wolfgang-Albeck
+1528	1540	Trans-o-flex	Trans-o-flex	ORG	ORG-trans-o-flex-Express-GmbH
+1551	1566	Welt am Sonntag	Welt am Sonntag	PRO	PRO-Welt-am-Sonntag
+1676	1688	Jensa Spahna	Jens Spahn	PER	PER-Jens-Spahn
+1790	1798	BioNTech	BioNTech	ORG	ORG-BioNTech
+1802	1808	Pfizer	Pfizer	ORG	ORG-Pfizer
+1932	1934	DW	DW	PRO	PRO-Deutsche-Welle
+2088	2095	Nemčije	Nemčija	LOC	GPE-Germany
+2145	2158	Kühne + Nagel	Kühne + Nagel	ORG	ORG-Kuehne+Nagel
+2186	2195	Accenture	Accenture	ORG	ORG-Accenture
+2555	2565	Boeing 747	Boeing 747	PRO	PRO-Boeing-747
+2585	2598	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+2745	2764	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+2836	2843	Nemčije	Nemčija	LOC	GPE-Germany
+2941	2943	DW	DW	PRO	PRO-Deutsche-Welle
+3037	3046	covidu-19	covid-19	EVT	EVT-Covid-19

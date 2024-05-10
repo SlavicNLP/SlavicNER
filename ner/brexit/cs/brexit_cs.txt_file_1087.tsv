@@ -1,0 +1,56 @@
+0	19	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+56	65	Facebooku	Facebook	ORG	ORG-Facebook
+92	111	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+112	131	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+148	157	SCL Group	SCL Group	ORG	ORG-SCL-Group
+374	383	New Yorku	New York	LOC	GPE-New-York
+385	396	Washingtonu	Washington	LOC	GPE-WashingtonDC
+398	405	Londýně	Londýn	LOC	GPE-London
+409	417	Brazílii	Brazílie	LOC	GPE-Brazil
+422	430	Malajsii	Malajsie	LOC	GPE-Malaysia
+462	465	NYT	NYT	PRO	PRO-The-New-York-Times
+586	599	Robert Mercer	Robert Mercer	PER	PER-Robert-mercer
+651	665	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+666	678	Steve Bannon	Steve Bannon	PER	PER-Steve-Bannon
+704	707	NYT	NYT	PRO	PRO-The-New-York-Times
+727	734	Britové	Britové	PER	GPE-Great-Britain
+795	805	Teda Cruze	Ted Cruz	PER	PER-Ted-Cruz
+823	831	Trumpovi	Trump	PER	PER-Donald-Trump
+1320	1329	Channel 4	Channel 4	PRO	PRO-Channel-4
+1346	1365	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+1420	1435	Uhurua Kenyatty	Uhuru Kenyatta	PER	PER-Uhuru-Kenyatta
+1502	1505	NYT	NYT	PRO	PRO-The-New-York-Times
+1535	1540	Trump	Trump	PER	PER-Donald-Trump
+1620	1633	Alexander Nix	Alexander Nix	PER	PER-Alexander-Nix
+1871	1884	Brad Parscale	Brad Parscale	PER	PER-Brad-Parscale
+1928	1942	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1996	2015	Cambridge Analyticy	Cambridge Analyticy	ORG	ORG-Cambridge-Analytica
+2077	2086	Facebooku	Facebook	PRO	PRO-Facebook
+2140	2144	Brit	Brit	PER	GPE-Great-Britain
+2145	2160	Aleksandr Kogan	Aleksandr Kogan	PER	PER-Alexander-Kogan
+2180	2189	Facebooku	Facebook	ORG	ORG-Facebook
+2246	2255	Facebooku	Facebook	PRO	PRO-Facebook
+2338	2343	Kogan	Kogan	PER	PER-Alexander-Kogan
+2365	2384	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+2480	2485	Kogan	Kogan	PER	PER-Alexander-Kogan
+2595	2598	NYT	NYT	PRO	PRO-The-New-York-Times
+2601	2613	The Guardian	The Guardian	PRO	PRO-The-Guardian
+2657	2665	Facebook	Facebook	ORG	ORG-Facebook
+2666	2681	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+2752	2772	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+2775	2778	USA	USA	LOC	GPE-USA
+2840	2859	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+2914	2923	Facebooku	Facebook	PRO	PRO-Facebook
+2981	3008	Federální komise pro obchod	Federální komise pro obchod	ORG	ORG-Federal-Trade-Commission
+3010	3013	FTC	FTC	ORG	ORG-Federal-Trade-Commission
+3038	3046	Facebook	Facebook	ORG	ORG-Facebook
+3101	3120	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+3144	3156	Aggregate IQ	Aggregate IQ	ORG	ORG-Aggregate-IQ
+3188	3195	brexitu	brexit	EVT	EVT-Brexit
+3232	3242	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+3270	3279	Facebooku	Facebook	ORG	ORG-Facebook
+3288	3307	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+3328	3347	amerického kongresu	americký kongres	ORG	ORG-United-States-Congress
+3366	3381	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+3409	3417	Facebook	Facebook	PRO	PRO-Facebook
+3483	3502	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica

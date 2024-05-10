@@ -1,0 +1,78 @@
+0	7	Vrh G20	Vrh G20	EVT	EVT-Summit-G20
+46	54	covid-19	covid-19	EVT	EVT-Covid-19
+117	124	Salmana	Salman	PER	PER-Salman-of-Saudi-Arabia
+516	525	covida-19	covid-19	EVT	EVT-Covid-19
+697	703	Salman	Salman	PER	PER-Salman-of-Saudi-Arabia
+755	758	dpa	dpa	ORG	ORG-DPA
+950	956	Rijadu	Rijad	LOC	GPE-Riyadh
+1199	1205	Rusija	Rusija	LOC	GPE-Russia
+1401	1420	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+1481	1494	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1598	1617	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+1680	1683	G20	G20	ORG	ORG-G20
+1709	1729	Recep Tayyip Erdogan	Recep Tayyip Erdogan	PER	PER-Recep-Tayyip-Erdoğan
+1754	1762	vrhu G20	vrh G20	EVT	EVT-Summit-G20
+1884	1898	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+1936	1943	Reuters	Reuters	ORG	ORG-Reuters
+1981	1987	Rusija	Rusija	LOC	GPE-Russia
+2025	2034	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+2177	2187	Xi Jinping	Xi Jinping	PER	PER-Xi-Jinping
+2303	2312	covidu-19	covid-19	EVT	EVT-Covid-19
+2314	2322	Kitajska	Kitajska	LOC	GPE-China
+2509	2511	ZN	ZN	ORG	ORG-United-Nations
+2512	2528	Antonio Guterres	Antonio Guterres	PER	PER-Antonio-Guterres
+2557	2560	G20	G20	ORG	ORG-G20
+2604	2609	Covax	Covax	PRO	PRO-Covax-initiative
+2649	2658	covidu-19	covid-19	EVT	EVT-Covid-19
+2787	2795	Kitajska	Kitajska	LOC	GPE-China
+2808	2811	ZDA	ZDA	LOC	GPE-USA
+2830	2847	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+2848	2868	Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+2923	2926	G20	G20	ORG	ORG-G20
+3018	3031	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+3055	3063	vrhu G20	vrh G20	EVT	EVT-Summit-G20
+3099	3104	Covax	Covax	PRO	PRO-Covax-initiative
+3120	3153	Svetovne zdravstvene organizacije	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+3155	3158	WHO	WHO	ORG	ORG-World-Health-Organization
+3173	3192	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+3349	3352	G20	G20	ORG	ORG-G20
+3508	3517	Argentina	Argentina	LOC	GPE-Argentina
+3519	3529	Avstralija	Avstralija	LOC	GPE-Australia
+3531	3540	Brazilija	Brazilija	LOC	GPE-Brazil
+3542	3548	Kanada	Kanada	LOC	GPE-Canada
+3550	3558	Kitajska	Kitajska	LOC	GPE-China
+3560	3574	Evropska unija	Evropska unija	ORG	ORG-European-Union
+3576	3584	Francija	Francija	LOC	GPE-France
+3586	3593	Nemčija	Nemčija	LOC	GPE-Germany
+3595	3601	Indija	Indija	LOC	GPE-India
+3603	3613	Indonezija	Indonezija	LOC	GPE-Indonesia
+3615	3622	Italija	Italija	LOC	GPE-Italy
+3624	3632	Japonska	Japonsko	LOC	GPE-Japan
+3634	3640	Mehika	Mehika	LOC	GPE-Mexico
+3642	3648	Rusija	Rusija	LOC	GPE-Russia
+3650	3662	Južna Afrika	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+3664	3676	Južna Koreja	Južna Koreja	LOC	GPE-South-Korea
+3678	3693	Savdska Arabija	Savdska Arabija	LOC	GPE-Saudi-Arabia
+3695	3702	Turčija	Turčija	LOC	GPE-Turkey
+3704	3720	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+3724	3727	ZDA	ZDA	LOC	GPE-USA
+3762	3768	Trumpa	Trump	PER	PER-Donald-Trump
+3809	3811	Xi	Xi	PER	PER-Xi-Jinping
+3813	3818	Putin	Putin	PER	PER-Vladimir-Putin
+3847	3859	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+3931	3937	Trumpa	Trump	PER	PER-Donald-Trump
+3951	3954	dpa	dpa	ORG	ORG-DPA
+4065	4068	ZDA	ZDA	LOC	GPE-USA
+4093	4116	Donalda Trumpa mlajšega	Donald Trump mlajši	PER	PER-Donald-Trump-Jr.
+4152	4171	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+4174	4176	EU	EU	ORG	ORG-European-Union
+4207	4224	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+4239	4255	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+4256	4270	Charles Michel	Charles Michel	PER	PER-Charles-Michel
+4273	4291	Evropski parlament	Evropski parlament	ORG	ORG-European-Parliament
+4384	4399	Savdski Arabiji	Savdska Arabija	LOC	GPE-Saudi-Arabia
+4413	4430	Evropski komisiji	Evropska komisija	ORG	ORG-European-Commission
+4434	4449	Evropskem svetu	Evropski svet	ORG	ORG-European-Council
+4587	4606	Novinarji brez meja	Novinarji brez meja	ORG	ORG-Reporters-Without-Borders
+4746	4749	dpa	dpa	ORG	ORG-DPA
+4774	4782	vrha G20	vrh G20	EVT	EVT-Summit-G20

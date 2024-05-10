@@ -1,0 +1,57 @@
+37	44	Brexitu	Brexit	EVT	EVT-Brexit
+70	81	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+158	168	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+251	258	Brexitu	Brexit	EVT	EVT-Brexit
+318	329	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+332	334	UE	UE	ORG	ORG-European-Union
+342	353	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+436	441	Blair	Blair	PER	PER-Tony-Blair
+536	553	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+822	829	Brexitu	Brexit	EVT	EVT-Brexit
+849	883	Instytut na rzecz Globalnej Zmiany	Instytut na rzecz Globalnej Zmiany	ORG	ORG-Institute-for-Global-Change
+885	890	Blair	Blair	PER	PER-Tony-Blair
+954	965	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1028	1035	Brexitu	Brexit	EVT	EVT-Brexit
+1206	1213	Brexitu	Brexit	EVT	EVT-Brexit
+1286	1289	USA	USA	LOC	GPE-USA
+1384	1389	Blair	Blair	PER	PER-Tony-Blair
+1509	1516	Europie	Europie	LOC	LOC-Europe
+1523	1530	Brexitu	Brexit	EVT	EVT-Brexit
+1566	1577	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1580	1582	UE	UE	ORG	ORG-European-Union
+1624	1630	Europy	Europa	LOC	LOC-Europe
+1772	1781	Atlantyku	Atlantyk	LOC	LOC-Atlantic-Ocean
+1927	1939	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2050	2067	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2070	2085	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+2169	2187	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+2190	2198	Irlandią	Irlandia	LOC	GPE-Ireland
+2548	2555	Brexitu	Brexit	EVT	EVT-Brexit
+2638	2645	Brexitu	Brexit	EVT	EVT-Brexit
+2668	2680	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2827	2845	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+2962	2971	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+3012	3031	brytyjski parlament	brytyjski parlament	ORG	ORG-British-Parlament
+3281	3304	brytyjskiego parlamentu	Brytyjski Parlament	ORG	ORG-British-Parlament
+3362	3373	Theresy May	Theresa May	PER	PER-Theresa-May
+3520	3526	Blaira	Blair	PER	PER-Tony-Blair
+3591	3608	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3635	3641	Europa	Europa	LOC	LOC-Europe
+3971	3983	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+3998	4015	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4087	4096	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+4128	4140	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+4164	4171	Brexitu	Brexit	EVT	EVT-Brexit
+4201	4218	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4383	4395	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+4415	4422	Europie	Europa	LOC	LOC-Europe
+4482	4484	UE	UE	ORG	ORG-European-Union
+4624	4629	Blair	Blair	PER	PER-Tony-Blair
+4690	4701	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+4735	4737	UE	UE	ORG	ORG-European-Union
+4769	4786	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+4815	4822	Polaków	Polacy	PER	GPE-Poland
+4840	4852	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+4879	4924	Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+4953	4960	Brexitu	Brexit	EVT	EVT-Brexit
+5105	5120	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain

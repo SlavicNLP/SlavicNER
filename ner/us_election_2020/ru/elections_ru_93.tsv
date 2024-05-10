@@ -1,0 +1,141 @@
+13	18	Трамп	Трамп	PER	PER-Donald-Trump
+21	31	Белом доме	Белый дом	ORG	ORG-The-White-House
+52	64	американских	американский	LOC	GPE-USA
+76	87	В.Овчинский	В. Овчинский	PER	PER-Vladimir-Ovchinsky
+120	125	Трамп	Трамп	PER	PER-Donald-Trump
+128	138	Белом доме	Белый дом	ORG	ORG-The-White-House
+159	171	американских	американский	LOC	GPE-USA
+182	200	Владимир Овчинский	Владимир Овчинский	PER	PER-Vladimir-Ovchinsky
+237	240	США	США	LOC	GPE-USA
+272	284	американские	американские	LOC	GPE-USA
+523	528	Трамп	Трамп	PER	PER-Donald-Trump
+703	715	Американская	американская	LOC	GPE-USA
+716	727	конституция	конституция	PRO	PRO-The-USA-Constitution
+793	796	США	США	LOC	GPE-USA
+923	936	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+1084	1093	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+1296	1305	Демократы	демократы	PER	ORG-Democratic-Party-USA
+1376	1382	Байден	Байден	PER	PER-Joe-Biden
+1424	1430	Трампа	Трамп	PER	PER-Donald-Trump
+1625	1631	Трампа	Трамп	PER	PER-Donald-Trump
+1740	1751	конституции	конституция	PRO	PRO-The-USA-Constitution
+1752	1755	США	США	LOC	GPE-USA
+1869	1890	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+1905	1915	демократов	демократ	PER	ORG-Democratic-Party-USA
+1920	1933	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+2006	2012	Трампа	Трамп	PER	PER-Donald-Trump
+2020	2027	Байдена	Байден	PER	PER-Joe-Biden
+2077	2085	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+2137	2142	Трамп	Трамп	PER	PER-Donald-Trump
+2145	2149	Пенс	Пенс	PER	PER-Mike-Pence
+2158	2167	Белый дом	Белый дом	ORG	ORG-The-White-House
+2178	2199	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2262	2274	Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+2355	2358	США	США	LOC	GPE-USA
+2606	2609	США	США	LOC	GPE-USA
+2865	2868	США	США	LOC	GPE-USA
+2876	2917	"""Проекта целостности переходного периода"""	"""Проект целостности переходного периода"""	PRO	PRO-Transition-Integrity-Project
+2919	2947	Transition Integrity Project	Transition Integrity Project	PRO	PRO-Transition-Integrity-Project
+2950	2953	TIP	TIP	PRO	PRO-Transition-Integrity-Project
+2980	2990	Роза Брукс	Роза Брукс	PER	PER-Rosa-Brooks
+3262	3284	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+3320	3359	Республиканского национального комитета	Республиканский национальный комитет	ORG	ORG-Republican-National-Committee
+3360	3370	Майкл Стил	Майкл Стил	PER	PER-Michael-Steele
+3399	3411	Билл Кристол	Билл Кристол	PER	PER-William-Kristol
+3440	3448	Кентукки	Кентукки	LOC	GPE-Kentucky
+3449	3461	Трей Грейсон	Трей Грейсон	PER	PER-Trey-Grayson
+3474	3484	демократов	демократ	PER	ORG-Democratic-Party-USA
+3502	3514	Джон Подеста	Джон Подеста	PER	PER-John-Podesta
+3552	3567	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+3599	3610	Белого дома	Белый дом	ORG	ORG-The-White-House
+3611	3625	Билла Клинтона	Бил Клинтон	PER	PER-Bill-Clinton
+3628	3640	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+3642	3654	Донна Бразил	Донна Бразил	PER	PER-Donna-Brazile
+3692	3700	Эла Гора	Эл Гора	PER	PER-Al-Gore
+3716	3735	Дженнифер Гранхольм	Дженнифер Гранхольм	PER	PER-Jennifer-Granholm
+3757	3765	Мичигана	Мичиган	LOC	GPE-Michigan
+3904	3942	Проект целостности переходного периода	Проект целостности переходного периода	PRO	PRO-Transition-Integrity-Project
+3944	3947	TIP	TIP	PRO	PRO-Transition-Integrity-Project
+4017	4023	Трампа	Трамп	PER	PER-Donald-Trump
+4093	4123	президентские выборы 2020 года	президентские выборы 2020 года	EVT	EVT-2000-United-States-Presidential-Election
+4146	4149	TIP	TIP	PRO	PRO-Transition-Integrity-Project
+4198	4208	американцы	американцы	PER	GPE-USA
+4436	4451	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+4717	4735	Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+4737	4749	Американский	Американский	LOC	GPE-USA
+4998	5029	президентских выборов 2020 года	президентские выборы 2020 года	EVT	EVT-2000-United-States-Presidential-Election
+5044	5057	американского	американский	LOC	GPE-USA
+5110	5115	Трамп	Трамп	PER	PER-Donald-Trump
+5560	5566	Трампа	Трамп	PER	PER-Donald-Trump
+5752	5774	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+5885	5888	TIP	TIP	PRO	PRO-Transition-Integrity-Project
+6107	6110	TIP	TIP	ORG	ORG-Transition-Integrity-Project
+6257	6264	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+6291	6302	инаугурации	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+6782	6788	выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+6886	6891	Трамп	Трамп	PER	PER-Donald-Trump
+7020	7026	Трампа	Трамп	PER	PER-Donald-Trump
+7090	7093	США	США	LOC	GPE-USA
+7332	7337	Трамп	Трамп	PER	PER-Donald-Trump
+7409	7420	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+7620	7627	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+7690	7696	Байден	Байден	PER	PER-Joe-Biden
+7859	7866	Байдена	Байден	PER	PER-Joe-Biden
+7993	8000	Байдена	Байден	PER	PER-Joe-Biden
+8244	8263	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+8290	8297	Байдена	Байден	PER	PER-Joe-Biden
+8304	8309	Трамп	Трамп	PER	PER-Donald-Trump
+8345	8353	Твиттере	Твиттер	PRO	PRO-Twitter
+8559	8565	Трампа	Трамп	PER	PER-Donald-Trump
+8680	8686	Трампу	Трамп	PER	PER-Donald-Trump
+8698	8706	Fox News	Fox News	PRO	PRO-Fox-News
+8709	8712	OAN	OAN	PRO	PRO-One-America-News-Network
+8771	8785	Уильям П. Барр	Уильям П. Барр	PER	PER-William-Barr
+8995	9002	Байдена	Байден	PER	PER-Joe-Biden
+9006	9014	Мичигана	Мичиган	LOC	GPE-Michigan
+9017	9027	Висконсина	Висконсин	LOC	GPE-Wisconsin
+9189	9203	Джорджа Сороса	Джордж Сорос	PER	PER-George-Soros
+9295	9301	Трампу	Трамп	PER	PER-Donald-Trump
+9321	9329	Твиттере	Твиттер	PRO	PRO-Twitter
+9376	9382	АНТИФА	АНТИФА	ORG	ORG-Antifa-USA
+9594	9599	Трамп	Трамп	PER	PER-Donald-Trump
+9673	9691	Закон о восстаниии	Закон о восстаниии	PRO	PRO-Insurrection-Act-of-1807
+9800	9809	Пентагоне	Пентагон	ORG	ORG-The-Pentagon
+10001	10008	Байдена	Байден	PER	PER-Joe-Biden
+10052	10059	Байдена	Байден	PER	PER-Joe-Biden
+10091	10110	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+10150	10156	Трампа	Трамп	PER	PER-Donald-Trump
+10172	10191	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+10315	10332	выборах 2000 года	выборы 2000 года	EVT	EVT-2000-United-States-Presidential-Election
+10376	10383	Байдена	Байден	PER	PER-Joe-Biden
+10542	10548	Трампа	Трамп	PER	PER-Donald-Trump
+10590	10601	инаугурации	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+10842	10849	Байдена	Байден	PER	PER-Joe-Biden
+10851	10856	Трамп	Трамп	PER	PER-Donald-Trump
+10912	10928	Секретная служба	Секретная служба	ORG	ORG-United-States-Secret-Service
+11045	11051	Трампа	Трамп	PER	PER-Donald-Trump
+11106	11112	Трампа	Трамп	PER	PER-Donald-Trump
+11219	11226	Байдена	Байден	PER	PER-Joe-Biden
+11335	11341	Трампа	Трамп	PER	PER-Donald-Trump
+11492	11502	демократов	демократы	PER	ORG-Democratic-Party-USA
+11649	11656	Байдена	Байден	PER	PER-Joe-Biden
+11710	11716	Трампа	Трамп	PER	PER-Donald-Trump
+11891	11903	американские	американские	LOC	GPE-USA
+12056	12062	Байден	Байден	PER	PER-Joe-Biden
+12098	12103	Трамп	Трамп	PER	PER-Donald-Trump
+12273	12276	США	США	LOC	GPE-USA
+12313	12329	выборы 1876 года	выборы 1876 года	EVT	EVT-1876-United-States-Presidential-Election
+13123	13128	Трамп	Трамп	PER	PER-Donald-Trump
+13243	13263	Министерство юстиции	Министерство юстиции	ORG	ORG-US-Department-of-Justice
+13553	13561	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+13903	13908	Трамп	Трамп	PER	PER-Donald-Trump
+14071	14076	Трамп	Трамп	PER	PER-Donald-Trump
+14465	14471	Трампа	Трамп	PER	PER-Donald-Trump
+15426	15431	Трамп	Трамп	PER	PER-Donald-Trump
+15655	15660	Трамп	Трамп	PER	PER-Donald-Trump
+15874	15880	Трампа	Трамп	PER	PER-Donald-Trump
+16129	16140	нью-йоркцев	нью-йоркцы	PER	GPE-New-York
+16255	16262	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+16326	16340	Новой Зеландии	Новая Зеландия	LOC	GPE-New-Zealand
+16401	16411	Американцы	американцы	PER	GPE-USA
+16573	16580	Америку	Америка	LOC	GPE-USA

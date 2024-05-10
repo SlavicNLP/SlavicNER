@@ -1,0 +1,14 @@
+40	47	Německu	Německo	LOC	GPE-Germany
+50	57	Francii	Francie	LOC	GPE-France
+75	77	EU	EU	ORG	ORG-European-Union
+101	103	EU	EU	ORG	ORG-European-Union
+112	125	europarlament	europarlament	ORG	ORG-European-Parliament
+144	150	brexit	brexit	EVT	EVT-Brexit
+208	213	Rutte	Rutte	PER	PER-Mark-Rutte
+458	472	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+495	502	Evropou	Evropa	LOC	LOC-Europe
+510	517	Rutteho	Rutte	PER	PER-Mark-Rutte
+527	537	Nizozemsko	Nizozemsko	LOC	GPE-Holland
+618	622	MH17	MH17	PRO	PRO-MH17-airline
+671	678	Rutteho	Rutte	PER	PER-Mark-Rutte
+786	791	Rusům	Rusové	PER	GPE-Russia

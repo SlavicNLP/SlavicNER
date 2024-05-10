@@ -1,0 +1,23 @@
+13	30	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+40	47	Brexitu	Brexit	EVT	EVT-Brexit
+93	104	Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+167	171	Unią	Unia	ORG	ORG-European-Union
+193	210	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+370	387	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+453	464	brexitowców	brexitowcy	PER	EVT-Brexit
+620	631	brexitowców	brexitowcy	PER	EVT-Brexit
+960	970	brexitowcy	brexitowcy	PER	EVT-Brexit
+988	994	Londyn	Londyn	LOC	GPE-London
+1073	1087	Adam Dąbrowski	Adam Dąbrowski	PER	PER-Adam-Dąbrowski
+1103	1120	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1496	1503	Ameryki	Ameryka	LOC	GPE-USA
+1508	1512	Chin	Chiny	LOC	GPE-China
+1552	1554	UE	UE	ORG	ORG-European-Union
+1592	1607	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+1688	1694	brexit	Brexit	EVT	EVT-Brexit
+1746	1752	brexit	Brexit	EVT	EVT-Brexit
+1780	1795	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1924	1932	brexicie	Brexit	EVT	EVT-Brexit
+2020	2024	ISIS	ISIS	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+2027	2039	Afganistanie	Afganistan	LOC	GPE-Afghanistan
+2065	2072	Armenii	Armenia	LOC	GPE-Armenia

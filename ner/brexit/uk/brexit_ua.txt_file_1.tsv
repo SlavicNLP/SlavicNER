@@ -1,0 +1,15 @@
+0	8	Брексіту	Брексіт	EVT	EVT-Brexit
+32	35	Мей	Мей	PER	PER-Theresa-May
+88	90	ЄС	ЄС	ORG	ORG-European-Union
+194	201	Брексіт	Брексіт	EVT	EVT-Brexit
+370	373	Мей	Мей	PER	PER-Theresa-May
+403	409	Brexit	Brexit	EVT	EVT-Brexit
+418	430	МЗС Британії	МЗС Британії	ORG	ORG-Foreign-Office
+487	497	Терези Мей	Тереза Мей	PER	PER-Theresa-May
+507	515	Британію	Британія	LOC	GPE-Great-Britain
+541	543	ЄС	ЄС	ORG	ORG-European-Union
+559	576	Економічна правда	Економічна правда	ORG	ORG-Economic-Truth
+674	693	"""Економічну правду"""	"""Економічна правда"""	PRO	PRO-Economic-Truth
+767	786	"""Інтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
+906	925	"""Інтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
+943	962	"""Інтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine

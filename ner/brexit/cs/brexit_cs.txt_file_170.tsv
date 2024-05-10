@@ -1,0 +1,11 @@
+3	9	brexit	brexit	EVT	EVT-Brexit
+20	25	Česko	Česko	LOC	GPE-Czech-Republic
+41	54	Evropské unii	Evropská unie	ORG	ORG-European-Union
+94	101	Bruselu	Brusel	LOC	GPE-Brussles
+193	195	EU	EU	ORG	ORG-European-Union
+545	552	Bruselu	Brusel	LOC	GPE-Brussles
+567	579	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+781	788	Bruselu	Brusel	LOC	GPE-Brussles
+848	863	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+970	991	Evropského parlamentu	Evropský parlament	ORG	ORG-European-Parliament
+1048	1056	Británie	Británie	LOC	GPE-Great-Britain

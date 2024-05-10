@@ -1,0 +1,93 @@
+18	21	США	США	LOC	GPE-USA
+23	42	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+61	68	Байдена	Байден	PER	PER-Joe-Biden
+147	150	США	США	LOC	GPE-USA
+245	256	Белого дома	Белый дом	ORG	ORG-The-White-House
+332	344	американская	американский	PER	GPE-USA
+345	364	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+422	435	американского	американский	PER	GPE-USA
+482	501	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+637	645	Небраска	Небраска	LOC	GPE-Nebraska
+648	651	Мэн	Мэн	LOC	GPE-Maine
+868	879	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+882	897	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+932	940	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+988	993	Сенат	Сенат	ORG	ORG-United-States-Senate
+1022	1025	США	США	LOC	GPE-USA
+1051	1070	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1192	1195	США	США	LOC	GPE-USA
+1257	1275	Джордж Буш-младший	Джордж Буш-младший	PER	PER-George-Bush-Jr
+1354	1360	Эл Гор	Эл Гор	PER	PER-Al-Gore
+1426	1433	Флориды	Флорида	LOC	GPE-Florida
+1443	1450	Флориде	Флорида	LOC	GPE-Florida
+1559	1563	Буша	Буш	PER	PER-George-Bush-Jr
+1579	1592	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1629	1644	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+1736	1755	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1835	1838	США	США	LOC	GPE-USA
+1892	1911	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1944	1947	США	США	LOC	GPE-USA
+2260	2275	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+2538	2548	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+2953	2961	коллегии	коллегия	ORG	ORG-United-States-Electoral-College
+3164	3183	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+3240	3249	Вайоминге	Вайоминг	LOC	GPE-Wyoming
+3302	3312	Калифорнии	Калифорния	LOC	GPE-California
+3382	3400	"""демократическими"""	"""демократический"""	ORG	ORG-Democratic-Party-USA
+3406	3424	"""республиканскими"""	"""республиканский"""	ORG	ORG-Republican-Party-USA
+3567	3575	демократ	демократ	ORG	ORG-Democratic-Party-USA
+3588	3603	республиканском	республиканский	ORG	ORG-Republican-Party-USA
+3927	3939	американской	американский	LOC	GPE-USA
+4025	4038	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+4092	4102	демократам	демократ	ORG	ORG-Democratic-Party-USA
+4141	4151	Калифорнии	Калифорния	LOC	GPE-California
+4154	4163	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York-State
+4365	4379	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+4382	4392	демократов	демократ	ORG	ORG-Democratic-Party-USA
+4742	4751	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+4848	4860	Билл Клинтон	Билл Клинтон	PER	PER-Bill-Clinton
+4887	4902	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+4912	4931	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+4954	4969	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+4985	4992	Байдена	Байден	PER	PER-Joe-Biden
+5065	5073	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York-State
+5074	5085	Эндрю Куомо	Эндрю Куомо	PER	PER-Andrew-Cuomo
+5266	5285	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+5326	5347	Дональд Трамп-младший	Дональд Трамп-младший	PER	PER-Donald-Trump-Jr.
+5576	5591	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+5609	5615	Трампа	Трамп	PER	PER-Donald-Trump
+5634	5640	Трампа	Трамп	PER	PER-Donald-Trump
+5646	5653	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+5770	5784	Верховном суде	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+5803	5816	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+5907	5919	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+5921	5929	Мичигане	Мичиган	LOC	GPE-Michigan
+5931	5939	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+5942	5952	Висконсине	Висконсин	LOC	GPE-Wisconsin
+6045	6057	коронавируса	коронавирус	EVT	EVT-Covid-19
+6283	6288	Трамп	Трамп	PER	PER-Donald-Trump
+6396	6404	Коллегию	Коллегия	ORG	ORG-United-States-Electoral-College
+6416	6430	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+6594	6613	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+6695	6701	Неваде	Невада	LOC	GPE-Nevada
+6740	6752	коронавируса	коронавирус	EVT	EVT-Covid-19
+6847	6857	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+6978	6987	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+7028	7037	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+7077	7089	конституцией	конституция	PRO	PRO-The-USA-Constitution
+7104	7109	сенат	сенат	ORG	ORG-United-States-Senate
+7112	7133	палата представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+7210	7219	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+7259	7265	сената	сенат	ORG	ORG-United-States-Senate
+7329	7339	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+7349	7358	Белый дом	Белый дом	ORG	ORG-The-White-House
+7398	7406	конгресс	конгресс	ORG	ORG-United-States-Congress
+7755	7776	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+7789	7799	демократам	демократы	ORG	ORG-Democratic-Party-USA
+7926	7929	США	США	LOC	GPE-USA
+8017	8032	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+8036	8047	Гарвардский	Гарвардский	ORG	ORG-Harvard-University
+8067	8083	Александ Кейссар	Александр Кейссар	PER	PER-Alexander-Keyssar
+8338	8349	конституции	конституция	PRO	PRO-The-USA-Constitution
+8414	8429	Financial Times	Financial Times	PRO	PRO-Financial-Times
+8430	8448	Кристофер Колдуэлл	Кристофер Колдуэлл	PER	PER-Christopher-Caldwell

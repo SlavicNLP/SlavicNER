@@ -1,0 +1,15 @@
+14	20	Макрон	Макрон	PER	PER-Emmanuel-Macron
+23	26	Мей	Мей	PER	PER-Theresa-May
+68	75	Брекзит	Брекзит	EVT	EVT-Brexit
+97	111	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+152	168	лондонското Сити	Лондонско Сити	LOC	LOC-City-of-London
+189	196	Брекзит	Брекзит	EVT	EVT-Brexit
+231	245	Великобритания	Великобритания	LOC	GPE-Great-Britain
+356	358	ЕС	ЕС	ORG	ORG-European-Union
+413	420	Гардиън	Гардиън	PRO	PRO-The-Guardian
+507	517	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+560	574	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+615	631	лондонското Сити	Лондонско Сити	LOC	LOC-City-of-London
+652	659	Брекзит	Брекзит	EVT	EVT-Brexit
+694	708	Великобритания	Великобритания	LOC	GPE-Great-Britain
+819	821	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,46 @@
+252	266	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+369	380	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+487	492	Trump	Trump	PER	PER-Donald-Trump
+515	522	Bidnovo	Biden	PER	PER-Joe-Biden
+661	671	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+676	684	Trumpova	Trump	PER	PER-Donald-Trump
+739	745	Bidnom	Biden	PER	PER-Joe-Biden
+955	965	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+1030	1042	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1049	1054	Trump	Trump	PER	PER-Donald-Trump
+1189	1202	Rudy Giuliani	Rudy Giuliani	PER	PER-Rudy-Giuliani
+1495	1509	Mark Aronchick	Mark Aronchick	PER	PER-Mark-Aronchick
+1529	1537	Reutersa	Reuters	ORG	ORG-Reuters
+1548	1556	Giuliani	Giuliani	PER	PER-Rudy-Giuliani
+1589	1596	Georgii	Georgia	LOC	GPE-Georgia-US-state
+1603	1608	Biden	Biden	PER	PER-Joe-Biden
+1821	1830	Michiganu	Michigan	LOC	GPE-Michigan
+1900	1910	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+1939	1946	Detroit	Detroit	LOC	GPE-Detroit
+2095	2100	Bidna	Biden	PER	PER-Joe-Biden
+2172	2177	Trump	Trump	PER	PER-Donald-Trump
+2216	2221	Bidna	Biden	PER	PER-Joe-Biden
+2417	2429	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2646	2655	GOLJUFIJA	GOLJUFIJA	PRO	PRO-Fraud
+2658	2665	Bidnova	Biden	PER	PER-Joe-Biden
+2863	2866	ZDA	ZDA	LOC	GPE-USA
+2942	2950	Clintona	Clinton	PER	PER-Hillary-Clinton
+2954	2959	Busha	Bush	PER	PER-George-Bush-Jr
+3010	3017	Floridi	Florida	LOC	GPE-Florida
+3077	3085	Al Kaide	Al Kaida	ORG	ORG-Al-Qaeda
+3087	3092	Biden	Biden	PER	PER-Joe-Biden
+3206	3225	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+3282	3287	Trump	Trump	PER	PER-Donald-Trump
+3357	3410	agencije za spletno varnost in varnost infrastrukture	agencija za spletno varnost in varnost infrastrukture	ORG	ORG-Cybersecurity-and-Infrastructure-Security-Agency-(CISA)
+3411	3424	Chrisa Krebsa	Chris Krebs	PER	PER-Chris-Krebs
+3553	3559	Krebsa	Krebs	PER	PER-Christopher-Krebs
+3609	3615	Trumpa	Trump	PER	PER-Donald-Trump
+3688	3699	Afganistana	Afganistan	LOC	GPE-Afghanistan
+3703	3708	Iraka	Irak	LOC	GPE-Iraq
+3826	3830	Iran	Iran	LOC	GPE-Iran
+3872	3881	Pentagona	Pentagon	ORG	ORG-The-Pentagon
+3941	3954	Marka Esperja	Mark Esper	PER	PER-Mark-Esper
+4023	4035	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+4090	4105	Mitch McConnell	Mitch McConnell	PER	PER-Mitch-McConnell
+4113	4123	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+4228	4240	Nancy Pelosi	Nancy Pelosi	PER	PER-Nancy-Pelosi

@@ -1,0 +1,26 @@
+0	25	Законопроектът за Брекзит	Законопроект за Брекзит	PRO	PRO-Brexit-law-draft
+54	74	британския парламент	британски парламент	ORG	ORG-British-Parlament
+76	86	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+87	107	Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+150	164	Великобритания	Великобритания	LOC	GPE-Great-Britain
+168	184	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+195	202	Ройтерс	Ройтерс	ORG	ORG-Reuters
+217	220	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+264	284	британския парламент	британски парламент	ORG	ORG-British-Parlament
+321	328	Ройтерс	Ройтерс	ORG	ORG-Reuters
+385	395	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+451	458	Брекзит	Брекзит	EVT	EVT-Brexit
+472	475	Мей	Мей	PER	PER-Theresa-May
+539	560	Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+659	679	британския парламент	британски парламент	ORG	ORG-British-Parlament
+692	699	Ройтерс	Ройтерс	ORG	ORG-Reuters
+702	720	Законът за Брекзит	Закон за Брекзит	PRO	PRO-Brexit-law
+753	767	Великобритания	Великобритания	LOC	GPE-Great-Britain
+782	798	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+889	903	Великобритания	Великобритания	LOC	GPE-Great-Britain
+956	958	ЕС	ЕС	ORG	ORG-European-Union
+1037	1051	евродепутатите	евродепутати	PER	ORG-European-Parlament
+1069	1089	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1090	1104	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+1114	1121	Брекзит	Брекзит	EVT	EVT-Brexit
+1181	1191	британците	британци	PER	GPE-Great-Britain

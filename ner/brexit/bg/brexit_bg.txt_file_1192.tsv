@@ -1,0 +1,147 @@
+0	3	AFP	AFP	ORG	ORG-France-Presse
+33	53	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+75	84	Страсбург	Страсбург	LOC	GPE-Strasbourg
+145	159	Великобритания	Великобритания	LOC	GPE-Great-Britain
+179	195	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+208	214	Лондон	Лондон	LOC	GPE-London
+277	284	Брюксел	Брюксел	LOC	GPE-Brussles
+323	344	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+387	395	Politico	Politico	PRO	PRO-Politico
+442	553	Проекторезолюция за приключване на дебата относно рамката на бъдещите отношения между ЕС и Обединеното кралство	Проекторезолюция за приключване на дебата относно рамката на бъдещите отношения между ЕС и Обединеното кралство	PRO	PRO-Draft-on-future-EU-UK-relations
+584	586	ЕП	ЕП	ORG	ORG-European-Parliament
+612	626	Великобритания	Великобритания	LOC	GPE-Great-Britain
+726	728	ЕС	ЕС	ORG	ORG-European-Union
+731	751	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+776	783	Брюксел	Брюксел	LOC	GPE-Brussles
+953	955	ЕС	ЕС	ORG	ORG-European-Union
+1041	1043	ЕП	ЕП	ORG	ORG-European-Parliament
+1081	1088	Брекзит	Брекзит	EVT	EVT-Brexit
+1150	1157	Брюксел	Брюксел	LOC	GPE-Brussles
+1160	1166	Лондон	Лондон	LOC	GPE-London
+1205	1207	ЕП	ЕП	ORG	ORG-European-Parliament
+1220	1227	Брекзит	Брекзит	EVT	EVT-Brexit
+1262	1264	ЕС	ЕС	ORG	ORG-European-Union
+1267	1281	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1324	1326	ЕП	ЕП	ORG	ORG-European-Parliament
+1439	1446	Брекзит	Брекзит	EVT	EVT-Brexit
+1467	1487	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1488	1494	Тереза	Тереза	PER	PER-Theresa-May
+1516	1527	Меншън хаус	Меншън хаус	LOC	LOC-Mansion-House
+1632	1652	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1718	1720	ЕП	ЕП	ORG	ORG-European-Parliament
+1804	1820	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1833	1837	ЕАСТ	ЕАСТ	ORG	ORG-EFTA
+1838	1841	ЕИП	ЕИП	ORG	ORG-EEA-European-Economic-Area
+1863	1876	Тереза Герова	Тереза Герова	PER	PER-Theresa-Gerova
+1878	1884	Лондон	Лондон	LOC	GPE-London
+1916	1923	Брекзит	Брекзит	EVT	EVT-Brexit
+1961	1971	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1998	2013	Huffington Post	Huffington Post	PRO	PRO-Huffington-Post
+2085	2095	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2327	2341	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+2388	2404	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2551	2560	Евросъюза	Евросъюз	ORG	ORG-European-Union
+2574	2577	Мей	Мей	PER	PER-Theresa-May
+2824	2831	Брекзит	Брекзит	EVT	EVT-Brexit
+2876	2883	Брекзит	Брекзит	EVT	EVT-Brexit
+2949	2961	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+2963	2969	Лондон	Лондон	LOC	GPE-London
+2985	3001	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+3050	3060	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3127	3139	Джереми Хънт	Джереми Хънт	PER	PER-Jeremy-Hunt
+3171	3186	The Independent	The Independent	PRO	PRO-The-Independent
+3274	3276	ЕС	ЕС	ORG	ORG-European-Union
+3527	3529	ЕС	ЕС	ORG	ORG-European-Union
+4006	4008	ЕС	ЕС	ORG	ORG-European-Union
+4056	4068	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+4070	4076	Лондон	Лондон	LOC	GPE-London
+4115	4131	Майкъл Хезълтайн	Майкъл Хезълтайн	PER	PER-Michael-Haseltine
+4176	4186	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4259	4275	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+4314	4326	The Guardian	The Guardian	PRO	PRO-The-Guardian
+4377	4380	Мей	Мей	PER	PER-Theresa-May
+4435	4444	Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+4505	4519	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4527	4529	ЕС	ЕС	ORG	ORG-European-Union
+4575	4584	Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+4606	4614	Observer	Observer	PRO	PRO-The-Observer
+4627	4639	The Guardian	The Guardian	PRO	PRO-The-Guardian
+4700	4714	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4751	4753	ЕС	ЕС	ORG	ORG-European-Union
+4975	4985	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+5005	5007	ЕС	ЕС	ORG	ORG-European-Union
+5480	5486	Европа	Европа	LOC	LOC-Europe
+5536	5544	Ирландия	Ирландия	LOC	GPE-Ireland
+5569	5579	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+5582	5594	Джон Мейджър	Джон Мейджър	PER	PER-John-Major
+5705	5714	Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+5735	5747	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+5749	5756	Брюксел	Брюксел	LOC	GPE-Brussles
+5799	5809	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+5853	5855	ЕС	ЕС	ORG	ORG-European-Union
+5872	5879	Брюксел	Брюксел	LOC	GPE-Brussles
+5955	5962	Брекзит	Брекзит	EVT	EVT-Brexit
+5963	5975	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+6066	6080	Великобритания	Великобритания	LOC	GPE-Great-Britain
+6085	6091	Европа	Европа	LOC	LOC-Europe
+6098	6110	The Guardian	The Guardian	PRO	PRO-The-Guardian
+6243	6251	Ирландия	Ирландия	LOC	GPE-Ireland
+6254	6256	ЕС	ЕС	ORG	ORG-European-Union
+6293	6304	Алеш Шмелар	Алеш Шмелар	PER	PER-Ales-Chmelar
+6329	6346	Чешката република	Чешка република	LOC	GPE-Czech-Republic
+6384	6398	Великобритания	Великобритания	LOC	GPE-Great-Britain
+6457	6465	Норвегия	Норвегия	LOC	GPE-Norway
+6488	6490	ЕС	ЕС	ORG	ORG-European-Union
+6522	6528	Канада	Канада	LOC	GPE-Canada
+6573	6587	Великобритания	Великобритания	LOC	GPE-Great-Britain
+6604	6612	Норвегия	Норвегия	LOC	GPE-Norway
+6631	6637	Канада	Канада	LOC	GPE-Canada
+6662	6665	Мей	Мей	PER	PER-Theresa-May
+6666	6680	Великобритания	Великобритания	LOC	GPE-Great-Britain
+6726	6728	ЕС	ЕС	ORG	ORG-European-Union
+6803	6805	ЕС	ЕС	ORG	ORG-European-Union
+6858	6879	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+6883	6890	Брекзит	Брекзит	EVT	EVT-Brexit
+6891	6904	Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+6906	6916	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+7102	7109	Брекзит	Брекзит	EVT	EVT-Brexit
+7137	7150	Манфред Вебер	Манфред Вебер	PER	PER-Manfred-Weber
+7167	7186	Групата на ЕНП в ЕП	Група на ЕНП в ЕП	ORG	ORG-EPP-group-in-European-Parlament
+7230	7240	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+7284	7291	Брекзит	Брекзит	EVT	EVT-Brexit
+7402	7417	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+7419	7425	Лондон	Лондон	LOC	GPE-London
+7460	7470	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+7613	7615	ЕС	ЕС	ORG	ORG-European-Union
+7622	7637	The Independent	The Independent	PRO	PRO-The-Independent
+7639	7649	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+7745	7780	Европейската агенция за лекарствата	Европейска агенция за лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+7782	7816	Европейската агенция за химикалите	Европейска агенция за химикали	ORG	ORG-European-Chemicals-Agency
+7819	7868	Европейската агенциа за безопасността на полетите	Европейска агенция за безопасността на полетите	ORG	ORG-EASA-European-Aviation-Safety-Agency
+8210	8220	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+8251	8258	Брекзит	Брекзит	EVT	EVT-Brexit
+8264	8277	Андрю Диърден	Андрю Диърдън	PER	PER-Andrew-Dearden
+8296	8328	Британската медицинска асоциация	Британска медицинска асоциация	ORG	ORG-British-Medical-Association
+8384	8419	Европейската агенция за лекарствата	Европейска агенция за лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+8506	8508	ЕС	ЕС	ORG	ORG-European-Union
+8553	8567	Великобритания	Великобритания	LOC	GPE-Great-Britain
+8603	8618	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+8620	8626	Дъблин	Дъблин	LOC	GPE-Dublin
+8661	8673	Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+8730	8740	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+8824	8846	Митническия съюз на ЕС	Митнически съюз на ЕС	ORG	ORG-European-Union-Customs-Union
+8856	8863	Reuters	Reuters	ORG	ORG-Reuters
+8865	8868	Мей	Мей	PER	PER-Theresa-May
+8877	8879	ЕС	ЕС	ORG	ORG-European-Union
+8951	8958	Брекзит	Брекзит	EVT	EVT-Brexit
+8975	8989	Великобритания	Великобритания	LOC	GPE-Great-Britain
+9109	9119	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+9175	9183	Варадкар	Варадкар	PER	PER-Leo-Varadkar
+9414	9424	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+9452	9468	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+9529	9547	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+9587	9601	Великобритания	Великобритания	LOC	GPE-Great-Britain
+9628	9630	ЕС	ЕС	ORG	ORG-European-Union
+9636	9643	Брекзит	Брекзит	EVT	EVT-Brexit
+9654	9660	Лондон	Лондон	LOC	GPE-London
+9741	9756	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov

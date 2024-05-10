@@ -1,0 +1,35 @@
+0	15	The Independent	The Independent	PRO	PRO-The-Independent
+45	57	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+75	80	София	София	LOC	GPE-Sofia
+110	122	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+207	222	The Independent	The Independent	PRO	PRO-The-Independent
+266	278	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+279	293	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+297	304	Брекзит	Брекзит	EVT	EVT-Brexit
+328	335	Брекзит	Брекзит	EVT	EVT-Brexit
+336	348	Киър Стармър	Киър Стармър	PER	PER-Keir-Starmer
+364	370	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+460	476	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+523	535	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+540	550	Ана Соубри	Ана Соубри	PER	PER-Anna-Soubry
+557	562	Кларк	Кларк	PER	PER-Greg-Clark
+594	596	ЕС	ЕС	ORG	ORG-European-Union
+602	609	Брекзит	Брекзит	EVT	EVT-Brexit
+706	716	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+730	739	Андрю Мар	Андрю Мар	PER	PER-Andrew-Marr
+743	746	ВВС	ВВС	PRO	PRO-BBC
+954	966	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+1106	1135	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+1138	1144	Лондон	Лондон	LOC	GPE-London
+1166	1180	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1202	1212	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1260	1267	Брекзит	Брекзит	EVT	EVT-Brexit
+1270	1277	Брюксел	Брюксел	LOC	GPE-Brussles
+1310	1324	Sunday Express	Sunday Express	PRO	PRO-Sunday-Express
+1420	1436	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1565	1572	Брюксел	Брюксел	LOC	GPE-Brussles
+1574	1584	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1630	1632	ЕС	ЕС	ORG	ORG-European-Union
+1834	1841	Брекзит	Брекзит	EVT	EVT-Brexit
+2070	2080	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2101	2113	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov

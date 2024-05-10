@@ -1,0 +1,28 @@
+15	21	brexit	brexit	EVT	EVT-Brexit
+42	48	Sorose	Soros	PER	PER-George-Soros
+94	96	EU	EU	ORG	ORG-European-Union
+118	130	George Soros	George Soros	PER	PER-George-Soros
+206	219	Evropské unie	Evropská unie	ORG	ORG-European-Union
+246	254	Guardian	Guardian	PRO	PRO-The-Guardian
+325	340	Daily Telegraph	Daily Telegraph	PRO	PRO-The-Daily-Telegraph
+341	347	Sorose	Soros	PER	PER-George-Soros
+394	401	brexitu	brexit	EVT	EVT-Brexit
+442	458	Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+502	508	Londýn	Londýn	LOC	GPE-London
+633	645	George Soros	George Soros	PER	PER-George-Soros
+654	664	flickr.com	flickr.com	PRO	PRO-Flickr.com
+666	693	International Monetary Fund	International Monetary Fund	ORG	ORG-International-Monetary-Fund
+712	728	Michael Spilotro	Michael Spilotro	PER	PER-Michael-Bloomberg
+748	764	Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+765	779	Eloise Toddová	Eloise Toddová	PER	PER-Eloise-Todd
+780	788	Sorosovo	Soros	PER	PER-George-Soros
+848	857	Telegraph	Telegraph	PRO	PRO-The-Daily-Telegraph
+886	894	Sorosovi	Soros	PER	PER-George-Soros
+994	1004	Daily Mail	Daily Mail	PRO	PRO-Daily-Mail
+1055	1063	Guardian	Guardian	PRO	PRO-The-Guardian
+1099	1107	Sorosovi	Soros	PER	PER-George-Soros
+1184	1192	Maďarsku	Maďarsko	LOC	GPE-Hungary
+1200	1205	Rusku	Rusko	LOC	GPE-Russia
+1214	1227	George Sorose	George Soros	PER	PER-George-Soros
+1277	1284	brexitu	brexit	EVT	EVT-Brexit
+1303	1315	Vědci pro EU	Vědci pro EU	PRO	PRO-Researchers-for-EU-campaign

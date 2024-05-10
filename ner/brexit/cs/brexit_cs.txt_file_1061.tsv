@@ -1,0 +1,14 @@
+0	2	EU	EU	ORG	ORG-European-Union
+14	22	Londýnem	Londýn	LOC	GPE-London
+65	72	Barnier	Barnier	PER	PER-Michel-Barnier
+76	84	Británie	Británie	LOC	GPE-Great-Britain
+175	182	Barnier	Barnier	PER	PER-Michel-Barnier
+220	228	Británii	Británie	LOC	GPE-Great-Britain
+278	285	brexitu	brexit	EVT	EVT-Brexit
+360	375	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+378	384	Irskem	Irsko	LOC	GPE-Ireland
+480	488	Británie	Británie	LOC	GPE-Great-Britain
+512	514	EU	EU	ORG	ORG-European-Union
+567	574	brexitu	brexit	EVT	EVT-Brexit
+654	669	Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+712	730	Spojené království	Spojené království	LOC	GPE-Great-Britain

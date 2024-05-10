@@ -1,0 +1,21 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+13	20	Americe	Amerika	LOC	GPE-USA
+34	46	Republikánům	Republikáni	PER	ORG-Republican-Party-USA
+80	86	Texasu	Texas	LOC	GPE-Texas
+109	122	Baracka Obamy	Barack Obama	PER	PER-Barack-Obama
+171	178	Reuters	Reuters	ORG	ORG-Reuters
+180	189	MILWAUKEE	MILWAUKEE	LOC	GPE-Milwaukee
+190	195	PRAHA	PRAHA	LOC	GPE-Prague
+196	199	USA	USA	LOC	GPE-USA
+260	268	Bílý dům	Bílý dům	LOC	LOC-White-House
+289	305	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+315	324	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+400	407	Ameriku	Amerika	LOC	GPE-USA
+480	499	Demokratické strany	Demokratická strana	ORG	ORG-Democratic-Party-USA
+514	523	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+569	576	Americe	Amerika	LOC	GPE-USA
+676	681	Biden	Biden	PER	PER-Joe-Biden
+713	722	Američany	Američané	PER	GPE-USA
+800	811	Bílého domu	Bílý dům	LOC	LOC-White-House
+812	824	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+843	850	Ameriky	Amerika	LOC	GPE-USA

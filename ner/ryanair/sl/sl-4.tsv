@@ -1,0 +1,15 @@
+49	57	Powellov	Powell	PER	PER-Jerome-Powell
+284	298	orkan Florence	orkan Florence	EVT	EVT-Hurricane-Florence
+519	522	Fed	Fed	ORG	ORG-Fed
+659	662	ZDA	ZDA	LOC	GPE-USA
+748	751	ZDA	ZDA	LOC	GPE-USA
+1028	1035	Fedovem	Fed	ORG	ORG-Fed
+1177	1180	Fed	Fed	ORG	ORG-Fed
+1342	1345	ZDA	ZDA	LOC	GPE-USA
+1463	1466	S&P	S&P	PRO	PRO-S&P-500-Index
+1516	1522	Nasdaq	Nasdaq	ORG	ORG-Nasdaq-trading-exchange
+1891	1897	Amazon	Amazon	ORG	ORG-Amazon
+2172	2179	Italiji	Italija	LOC	GPE-Italy
+2204	2211	Ryanair	Ryanair	ORG	ORG-Ryanair
+2498	2503	Valeo	Valeo	ORG	ORG-Valeo
+2563	2572	Kitajskem	Kitajska	LOC	GPE-China

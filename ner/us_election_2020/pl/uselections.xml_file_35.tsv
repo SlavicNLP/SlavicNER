@@ -1,0 +1,68 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+14	23	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+35	43	Michigan	Michigan	LOC	GPE-Michigan
+58	67	Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+82	91	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+134	137	USA	USA	LOC	GPE-USA
+170	184	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+194	202	Michigan	Michigan	LOC	GPE-Michigan
+275	285	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+321	330	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+387	407	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+410	418	Michigan	Michigan	LOC	GPE-Michigan
+516	526	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+529	541	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+571	583	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+689	701	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+884	893	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+934	946	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+952	961	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1002	1011	Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+1026	1034	Michigan	Michigan	LOC	GPE-Michigan
+1037	1046	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1076	1087	Pasa słońca	Pas słońca	LOC	LOC-Sun-Belt
+1096	1104	Nevadzie	Nevada	LOC	GPE-Nevada
+1107	1115	Arizonie	Arizona	LOC	GPE-Arizona
+1125	1134	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1207	1227	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1253	1271	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+1280	1292	Joego Bidena	Joe Biden	PER	PER-Joe-Biden
+1314	1325	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+1343	1357	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1489	1506	Karolinę Północną	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1508	1520	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+1522	1534	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1747	1759	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1811	1823	Białego Domu	Biały Dom	LOC	LOC-White-House
+1889	1898	Twitterze	Twitter	PRO	PRO-Twitter
+2038	2047	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+2244	2256	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+2258	2266	Michigan	Michigan	LOC	GPE-Michigan
+2275	2289	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2300	2308	Michigan	Michigan	LOC	GPE-Michigan
+2414	2422	Michigan	Michigan	LOC	GPE-Michigan
+2508	2515	Detroit	Detroit	LOC	GPE-Detroit
+2517	2529	Grand Rapids	Grand Rapids	LOC	GPE-Grand-Rapids
+2531	2538	Lansing	Lansing	LOC	GPE-Lansing
+2541	2546	Flint	Flint	LOC	GPE-Flint
+2630	2638	Michigan	Michigan	LOC	GPE-Michigan
+2739	2748	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+2787	2795	Michigan	Michigan	LOC	GPE-Michigan
+2848	2860	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2869	2884	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+2977	2987	Demokratki	Demokrata	PER	ORG-Democratic-Party-USA
+3075	3087	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+3090	3102	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+3132	3147	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+3197	3209	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+3212	3221	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+3251	3264	Mitta Romneya	Mitt Romney	PER	PER-Mitt-Romney
+3284	3296	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+3299	3308	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+3338	3351	Johna McCaina	John McCain	PER	PER-John-McCain
+3373	3383	John Kerry	John Kerry	PER	PER-John-Kerry
+3386	3395	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+3425	3440	Georga W. Busha	Georg W. Bush	PER	PER-George-Bush-Jr
+3461	3468	Al Gore	Al Gore	PER	PER-Al-Gore
+3470	3479	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+3509	3523	Georga W. Bush	Georg W. Bush	PER	PER-George-Bush-Jr

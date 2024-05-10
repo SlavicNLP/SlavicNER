@@ -1,0 +1,50 @@
+0	7	Брекзит	Брекзит	EVT	EVT-Brexit
+42	46	Туск	Туск	PER	PER-Donald-Tusk
+48	59	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+60	74	Великобритания	Великобритания	LOC	GPE-Great-Britain
+114	121	Брекзит	Брекзит	EVT	EVT-Brexit
+144	160	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+193	210	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+211	222	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+228	248	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+249	263	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+366	368	ЕС	ЕС	ORG	ORG-European-Union
+531	552	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+553	557	Туск	Туск	PER	PER-Donald-Tusk
+634	640	Лондон	Лондон	LOC	GPE-London
+694	708	Великобритания	Великобритания	LOC	GPE-Great-Britain
+942	944	ЕС	ЕС	ORG	ORG-European-Union
+968	972	Туск	Туск	PER	PER-Donald-Tusk
+989	995	Лондон	Лондон	LOC	GPE-London
+1020	1040	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1041	1055	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+1114	1131	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+1179	1181	ЕС	ЕС	ORG	ORG-European-Union
+1207	1212	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1235	1257	Вишеградската четворка	Вишеградска четворка	ORG	ORG-Visegrad-Group
+1285	1291	Африка	Африка	LOC	LOC-Africa
+1432	1437	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1633	1638	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1665	1669	Туск	Туск	PER	PER-Donald-Tusk
+1936	1940	Туск	Туск	PER	PER-Donald-Tusk
+1993	2007	Европарламента	европарламент	ORG	ORG-European-Parliament
+2008	2035	Европейската народна партия	Европейска народна партия	ORG	ORG-EPP-European-Peoples-Party
+2037	2040	ЕНП	ЕНП	ORG	ORG-EPP
+2176	2179	ЕНП	ЕНП	ORG	ORG-EPP
+2273	2287	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2339	2342	ЕНП	ЕНП	ORG	ORG-EPP
+2535	2537	ЕС	ЕС	ORG	ORG-European-Union
+2587	2599	консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+2613	2615	ЕС	ЕС	ORG	ORG-European-Union
+2618	2632	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2742	2746	АЛДЕ	АЛДЕ	ORG	ORG-ALDE
+2850	2863	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+2903	2905	ЕС	ЕС	ORG	ORG-European-Union
+2906	2918	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+2942	2947	Фараж	Фараж	PER	PER-Nigel-Farage
+2978	2992	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2997	3001	АЛДЕ	АЛДЕ	ORG	ORG-ALDE
+3027	3033	Лондон	Лондон	LOC	GPE-London
+3117	3147	Европа на народите и свободата	Европа на народите и свободата	ORG	ORG-Europe-of-Nations-and-Freedom
+3188	3202	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3298	3301	БТА	БТА	ORG	ORG-Bulgarian-News-Agency

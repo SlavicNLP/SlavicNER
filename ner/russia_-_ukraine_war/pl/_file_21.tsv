@@ -1,0 +1,35 @@
+79	82	CNN	CNN	PRO	PRO-CNN
+120	135	Matros Pozynich	Matros Pozynich	PRO	PRO- Matros-Pozynich
+184	189	Krymu	Krym	LOC	GPE-Crimea
+253	264	Sewastopolu	Sewastopol	LOC	GPE-Sevastopol
+288	315	Ministerstwo Obrony Ukrainy	Ministerstwo Obrony Ukrainy	ORG	ORG-Ministry-of-Defence-Ukraine
+331	349	rosyjskiej inwazji	rosyjska inwazja	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+376	383	Ukrainy	Ukraina	LOC	GPE-Ukraine
+416	431	Matros Pozynich	Matros Pozynich	PRO	PRO- Matros-Pozynich
+510	521	Sewastopola	Sewastopol	LOC	GPE-Sevastopol
+586	589	CNN	CNN	PRO	PRO-CNN
+591	606	Matros Pozynich	Matros Pozynich	PRO	PRO- Matros-Pozynich
+641	652	Aleksandrii	Aleksandria	LOC	GPE-Alexandria
+753	758	Egipt	Egipt	LOC	GPE-Egypt
+789	797	Pozynich	Pozynich	PRO	PRO- Matros-Pozynich
+826	832	Libanu	Liban	LOC	GPE-Lebanon
+834	841	Bejrutu	Bejrut	LOC	LOC-Beirut
+878	881	CNN	CNN	PRO	PRO-CNN
+930	937	Latakia	Latakia	LOC	GPE-Latakia
+977	982	Rosją	Rosja	LOC	GPE-Russia
+993	1008	Matros Pozynich	Matros Pozynich	PRO	PRO- Matros-Pozynich
+1052	1057	Syrii	Syria	LOC	GPE-Syria
+1111	1118	Latakii	Latakia	LOC	GPE-Latakia
+1149	1164	Matros Pozynich	Matros Pozynich	PRO	PRO- Matros-Pozynich
+1221	1244	Crane Marine Contractor	Crane Marine Contractor	ORG	ORG-Crane-Marine-Contractor
+1258	1269	Astrachaniu	Astrachań	LOC	GPE-Astrakhan
+1272	1277	Rosji	Rosja	LOC	GPE-Russia
+1329	1345	Rosyjskie wojsko	Rosyjskie wojsko	ORG	ORG-Russian-Armed-Forces
+1362	1369	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1382	1388	Rosjan	Rosjanie	PER	GPE-Russia
+1476	1483	Ukraina	Ukraina	LOC	GPE-Ukraine
+1719	1724	Rosji	Rosja	LOC	GPE-Russia
+1751	1760	Ukraińców	Ukraińcy	PER	GPE-Ukraine
+1835	1842	Egipcie	Egipt	LOC	GPE-Egypt
+1853	1869	Afryki Północnej	Afryka Północna	LOC	LOC-North-Africa
+1883	1890	Ukraina	Ukraina	LOC	GPE-Ukraine

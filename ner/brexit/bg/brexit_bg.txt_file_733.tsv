@@ -1,0 +1,32 @@
+30	37	Брекзит	Брекзит	EVT	EVT-Brexit
+39	46	Брекзит	Брекзит	EVT	EVT-Brexit
+246	252	Лондон	Лондон	LOC	GPE-London
+253	262	Садик Хан	Садик Хан	PER	PER-Sadiq-Khan
+312	326	Великобритания	Великобритания	LOC	GPE-Great-Britain
+330	346	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+420	452	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+454	457	СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+515	522	Брексит	Брексит	EVT	EVT-Brexit
+551	573	Cambridge Econometrics	Cambridge Econometrics	ORG	ORG-Cambridge-Econometrics
+629	643	Великобритания	Великобритания	LOC	GPE-Great-Britain
+692	706	Великобритания	Великобритания	LOC	GPE-Great-Britain
+897	903	Лондон	Лондон	LOC	GPE-London
+960	971	Сам Мередит	Сам Мередит	PER	PER-Sam-Meredith
+975	979	CNBC	CNBC	PRO	PRO-CNBC
+1004	1007	Хан	Хан	PER	PER-Sadiq-Khan
+1017	1031	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1170	1184	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1187	1189	ЕС	ЕС	ORG	ORG-European-Union
+1446	1460	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1526	1532	Лондон	Лондон	LOC	GPE-London
+1585	1592	Брекзит	Брекзит	EVT	EVT-Brexit
+1599	1613	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1714	1721	Брекзит	Брекзит	EVT	EVT-Brexit
+1751	1765	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1788	1795	Брекзит	Брекзит	EVT	EVT-Brexit
+1986	2000	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2084	2106	Cambridge Econometrics	Cambridge Econometrics	ORG	ORG-Cambridge-Econometrics
+2151	2177	Международния валутен фонд	Международен валутен фонд	ORG	ORG-International-Monetary-Fund
+2179	2182	МВФ	МВФ	ORG	ORG-International-Monetary-Fund
+2186	2245	Националния институт за икономически и социални изследвания	Национален институт за икономически и социални изследвания	ORG	ORG-NIESR
+2247	2252	NIESR	NIESR	ORG	ORG-NIESR

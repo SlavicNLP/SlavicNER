@@ -1,0 +1,11 @@
+6	18	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+38	41	США	США	LOC	GPE-USA
+50	72	"""Северного потока — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+82	90	Германии	Германия	LOC	GPE-Germany
+91	105	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+152	158	Берлин	Берлин	LOC	GPE-Berlin
+180	200	"""Северный поток — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+310	317	Украину	Украина	LOC	GPE-Ukraine
+334	340	Европе	Европа	LOC	LOC-Europe
+413	419	Европы	Европа	LOC	LOC-Europe
+580	588	Цэевропы	Цэевропа	LOC	GPE-Ukraine

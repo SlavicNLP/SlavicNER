@@ -1,0 +1,34 @@
+7	12	Париж	Париж	LOC	GPE-Paris
+15	21	Лондон	Лондон	LOC	GPE-London
+56	63	Брекзит	Брекзит	EVT	EVT-Brexit
+85	99	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+111	125	Великобритания	Великобритания	LOC	GPE-Great-Britain
+179	181	ЕС	ЕС	ORG	ORG-European-Union
+187	194	Брекзит	Брекзит	EVT	EVT-Brexit
+285	287	АП	АП	ORG	ORG-AP-The-Associated-Press
+321	327	Лондон	Лондон	LOC	GPE-London
+328	334	Макрон	Макрон	PER	PER-Emmanuel-Macron
+375	391	лондонското Сити	Лондонско Сити	LOC	LOC-City-of-London
+412	419	Брекзит	Брекзит	EVT	EVT-Brexit
+454	468	Великобритания	Великобритания	LOC	GPE-Great-Britain
+579	581	ЕС	ЕС	ORG	ORG-European-Union
+690	696	Лондон	Лондон	LOC	GPE-London
+699	704	Париж	Париж	LOC	GPE-Paris
+741	755	Великобритания	Великобритания	LOC	GPE-Great-Britain
+831	835	Кале	Кале	LOC	GPE-Calais
+886	893	Франция	Франция	LOC	GPE-France
+941	943	ЕС	ЕС	ORG	ORG-European-Union
+949	956	Брекзит	Брекзит	EVT	EVT-Brexit
+975	991	лондонското Сити	Лондонско Сити	LOC	LOC-City-of-London
+1094	1100	Европа	Европа	LOC	LOC-Europe
+1115	1121	Лондон	Лондон	LOC	GPE-London
+1192	1198	Канада	Канада	LOC	GPE-Canada
+1207	1213	Макрон	Макрон	PER	PER-Emmanuel-Macron
+1304	1311	Брюксел	Брюксел	LOC	GPE-Brussles
+1338	1352	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1425	1428	Мей	Мей	PER	PER-Theresa-May
+1431	1437	Макрон	Макрон	PER	PER-Emmanuel-Macron
+1563	1567	Кале	Кале	LOC	GPE-Calais
+1598	1605	Франция	Франция	LOC	GPE-France
+1717	1721	Кале	Кале	LOC	GPE-Calais
+1827	1841	Великобритания	Великобритания	LOC	GPE-Great-Britain

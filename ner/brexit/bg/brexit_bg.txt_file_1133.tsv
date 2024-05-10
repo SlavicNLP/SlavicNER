@@ -1,0 +1,213 @@
+0	7	Брекзит	Брекзит	EVT	EVT-Brexit
+11	33	Америка на първо място	Америка на първо място	PRO	PRO-America-First
+89	92	САЩ	САЩ	LOC	GPE-USA
+93	105	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+131	136	Давос	Давос	LOC	GPE-Davos
+310	315	Тръмп	Тръмп	PER	PER-Donald-Trump
+344	366	Америка на първо място	Америка на първо място	PRO	PRO-America-First
+382	385	САЩ	САЩ	LOC	GPE-USA
+521	527	Европа	Европа	LOC	LOC-Europe
+529	534	Китай	Китай	LOC	GPE-China
+537	543	Япония	Япония	LOC	GPE-Japan
+593	600	Брекзит	Брекзит	EVT	EVT-Brexit
+727	732	Давос	Давос	LOC	GPE-Davos
+769	781	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+811	818	Брекзит	Брекзит	EVT	EVT-Brexit
+898	908	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+952	954	ЕС	ЕС	ORG	ORG-European-Union
+956	970	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1022	1032	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1035	1040	Давос	Давос	LOC	GPE-Davos
+1139	1149	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1244	1252	ABC News	ABC News	PRO	PRO-ABC-News
+1280	1316	Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+1317	1320	Мей	Мей	PER	PER-Theresa-May
+1515	1547	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+1715	1729	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1812	1814	ЕС	ЕС	ORG	ORG-European-Union
+1825	1828	Мей	Мей	PER	PER-Theresa-May
+1858	1861	САЩ	САЩ	LOC	GPE-USA
+1862	1874	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1876	1886	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1889	1894	Давос	Давос	LOC	GPE-Davos
+1914	1928	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1931	1934	САЩ	САЩ	LOC	GPE-USA
+1991	2001	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2052	2055	САЩ	САЩ	LOC	GPE-USA
+2111	2147	Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+2210	2213	САЩ	САЩ	LOC	GPE-USA
+2214	2226	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2249	2254	Сирия	Сирия	LOC	GPE-Syria
+2256	2269	Северна Корея	Северна Корея	LOC	GPE-North-Korea
+2272	2276	Иран	Иран	LOC	GPE-Iran
+2286	2293	Reuters	Reuters	ORG	ORG-Reuters
+2324	2338	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2341	2344	САЩ	САЩ	LOC	GPE-USA
+2376	2386	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2416	2421	Тръмп	Тръмп	PER	PER-Donald-Trump
+2557	2572	Washington Post	Washington Post	PRO	PRO-Washington-Post
+2591	2627	Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+2636	2641	Тръмп	Тръмп	PER	PER-Donald-Trump
+2686	2689	САЩ	САЩ	LOC	GPE-USA
+2690	2702	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2728	2733	Давос	Давос	LOC	GPE-Davos
+2787	2802	Washington Post	Washington Post	PRO	PRO-Washington-Post
+2834	2839	Тръмп	Тръмп	PER	PER-Donald-Trump
+2887	2897	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3009	3019	Ларс Льоке	Ларс Льоке	PER	PER-Lars-Lokke
+3049	3054	Тръмп	Тръмп	PER	PER-Donald-Trump
+3084	3106	Америка на първо място	Америка на първо място	PRO	PRO-America-First
+3414	3432	Далия Грибаускайте	Далия Грибаускайте	PER	PER-Dalia-Grybauskaitė
+3551	3567	Voice of America	Voice of America	PRO	PRO-Voice-of-America
+3588	3593	Давос	Давос	LOC	GPE-Davos
+3619	3641	Америка на първо място	Америка на първо място	PRO	PRO-America-First
+3646	3658	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3674	3677	САЩ	САЩ	LOC	GPE-USA
+3678	3690	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3733	3738	Давос	Давос	LOC	GPE-Davos
+3845	3861	Voice of America	Voice of America	PRO	PRO-Voice-of-America
+3988	3993	Тръмп	Тръмп	PER	PER-Donald-Trump
+4022	4044	Америка на първо място	Америка на първо място	PRO	PRO-America-First
+4060	4063	САЩ	САЩ	LOC	GPE-USA
+4199	4205	Европа	Европа	LOC	LOC-Europe
+4207	4212	Китай	Китай	LOC	GPE-China
+4215	4221	Япония	Япония	LOC	GPE-Japan
+4434	4437	САЩ	САЩ	LOC	GPE-USA
+4504	4516	Борге Бренде	Борге Бренде	PER	PER-Borge-Brende
+4533	4561	Световния икономически форум	Световен икономически форум	EVT	EVT-World-Economic-Forum
+4564	4571	Канал 5	Канал 5	PRO	PRO-Kanal-5-Macedonia
+4573	4582	Македония	Македония	LOC	GPE-North-Macedonia
+4609	4614	Давос	Давос	LOC	GPE-Davos
+4616	4620	Заев	Заев	PER	PER-Zoran-Zaev
+4668	4674	Скопие	Скопие	LOC	GPE-Skopje
+4676	4682	Ципрас	Ципрас	PER	PER-Alexis-Tsipras
+4716	4741	Македонското правителство	Македонско правителство	ORG	ORG-Government-of-Macedonia
+4767	4773	Скопие	Скопие	LOC	GPE-Skopje
+4805	4826	Александър Македонски	Александър Македонски	LOC	LOC-Aleksandar-Makedonski-airport
+4865	4881	Филип Македонски	Филип Македонски	LOC	LOC-Filip-Makedonski-highway
+4899	4910	Приятелство	Приятелство	LOC	LOC-highway
+4913	4919	Гърция	Гърция	LOC	GPE-Greece
+4958	4967	Македония	Македония	LOC	GPE-North-Macedonia
+4970	5004	Адриатическо-Йонийската инициатива	Адриатическо-йонийската инициатива	ORG	ORG-Adriatic-and-Ionian-Initiative
+5056	5128	Договора за Асоциация и стабилизиране между Македония и Европейския съюз	Договор за Асоциация и стабилизиране между Македония и Европейския съюз	PRO	PRO-Treaty-for-Association-and-stability-between-Macedonia-and-EU
+5239	5245	Гърция	Гърция	LOC	GPE-Greece
+5248	5257	Македония	Македония	LOC	GPE-North-Macedonia
+5259	5273	Алексис Ципрас	Алексис Ципрас	PER	PER-Tsipras
+5276	5286	Зоран Заев	Зоран Заев	PER	PER-Zoran-Zaev
+5320	5325	Давос	Давос	LOC	GPE-Davos
+5356	5363	Канал 5	Канал 5	PRO	PRO-Kanal-5-Macedonia
+5631	5644	"ГКПП ""Преспа"""	"ГКПП ""Преспа"""	LOC	LOC-GKPP-Prespa
+5673	5677	Заев	Заев	PER	PER-Zoran-Zaev
+5861	5870	Македония	Македония	LOC	GPE-North-Macedonia
+5883	5885	ЕС	ЕС	ORG	ORG-European-Union
+5888	5892	НАТО	НАТО	ORG	ORG-NATO
+5895	5907	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+5910	5915	Давос	Давос	LOC	GPE-Davos
+5965	5972	Брекзит	Брекзит	EVT	EVT-Brexit
+6007	6019	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+6144	6158	Великобритания	Великобритания	LOC	GPE-Great-Britain
+6164	6171	Брекзит	Брекзит	EVT	EVT-Brexit
+6178	6193	Washington Post	Washington Post	PRO	PRO-Washington-Post
+6221	6257	Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+6258	6264	Хамънд	Хамънд	PER	PER-Philip-Hammond
+6453	6467	Великобритания	Великобритания	LOC	GPE-Great-Britain
+6552	6559	Брекзит	Брекзит	EVT	EVT-Brexit
+6607	6621	Великобритания	Великобритания	LOC	GPE-Great-Britain
+6628	6630	ЕС	ЕС	ORG	ORG-European-Union
+6632	6639	Reuters	Reuters	ORG	ORG-Reuters
+6703	6711	Норвегия	Норвегия	LOC	GPE-Norway
+6720	6734	Великобритания	Великобритания	LOC	GPE-Great-Britain
+6740	6747	Брекзит	Брекзит	EVT	EVT-Brexit
+6781	6793	Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+6836	6850	Великобритания	Великобритания	LOC	GPE-Great-Britain
+6853	6855	ЕС	ЕС	ORG	ORG-European-Union
+6904	6912	Норвегия	Норвегия	LOC	GPE-Norway
+7022	7029	Reuters	Reuters	ORG	ORG-Reuters
+7077	7091	Великобритания	Великобритания	LOC	GPE-Great-Britain
+7093	7101	Ирландия	Ирландия	LOC	GPE-Ireland
+7152	7160	Норвегия	Норвегия	LOC	GPE-Norway
+7245	7253	Варадкар	Варадкар	PER	PER-Leo-Varadkar
+7269	7305	Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+7338	7340	ЕС	ЕС	ORG	ORG-European-Union
+7344	7351	Брекзит	Брекзит	EVT	EVT-Brexit
+7352	7364	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+7413	7415	ЕС	ЕС	ORG	ORG-European-Union
+7418	7432	Великобритания	Великобритания	LOC	GPE-Great-Britain
+7484	7490	Канада	Канада	LOC	GPE-Canada
+7493	7501	Норвегия	Норвегия	LOC	GPE-Norway
+7513	7521	Варадкар	Варадкар	PER	PER-Leo-Varadkar
+7580	7594	Великобритания	Великобритания	LOC	GPE-Great-Britain
+7597	7611	Великобритания	Великобритания	LOC	GPE-Great-Britain
+7639	7647	Норвегия	Норвегия	LOC	GPE-Norway
+7688	7694	Канада	Канада	LOC	GPE-Canada
+7754	7757	AFP	AFP	ORG	ORG-France-Presse
+7759	7771	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+7784	7793	Швейцария	Швейцария	LOC	GPE-Switzerland
+7812	7848	Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+7864	7867	САЩ	САЩ	LOC	GPE-USA
+7868	7880	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+7906	7911	Цюрих	Цюрих	LOC	GPE-Zurich
+7944	7949	Давос	Давос	LOC	GPE-Davos
+7987	7990	AFP	AFP	ORG	ORG-France-Presse
+7992	7997	Тръмп	Тръмп	PER	PER-Donald-Trump
+8174	8196	Америка на първо място	Америка на първо място	PRO	PRO-America-First
+8199	8213	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+8216	8221	Давос	Давос	LOC	GPE-Davos
+8223	8230	Франция	Франция	LOC	GPE-France
+8254	8260	Европа	Европа	LOC	LOC-Europe
+8276	8283	Франция	Франция	LOC	GPE-France
+8284	8298	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+8317	8353	Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+8382	8388	Европа	Европа	LOC	LOC-Europe
+8399	8407	Politico	Politico	PRO	PRO-Politico
+8410	8417	Франция	Франция	LOC	GPE-France
+8440	8446	Европа	Европа	LOC	LOC-Europe
+8455	8461	Макрон	Макрон	PER	PER-Emmanuel-Macron
+8485	8490	Давос	Давос	LOC	GPE-Davos
+8606	8608	ЕС	ЕС	ORG	ORG-European-Union
+8631	8637	Европа	Европа	LOC	LOC-Europe
+8699	8705	Макрон	Макрон	PER	PER-Emmanuel-Macron
+8716	8718	ЕС	ЕС	ORG	ORG-European-Union
+8741	8743	ЕС	ЕС	ORG	ORG-European-Union
+8759	8765	Съюзът	Съюз	ORG	ORG-European-Union
+8937	8943	Европа	Европа	LOC	LOC-Europe
+9028	9033	Китай	Китай	LOC	GPE-China
+9036	9039	САЩ	САЩ	LOC	GPE-USA
+9064	9070	Макрон	Макрон	PER	PER-Emmanuel-Macron
+9262	9268	Европа	Европа	LOC	LOC-Europe
+9270	9287	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+9289	9301	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+9304	9314	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+9356	9359	САЩ	САЩ	LOC	GPE-USA
+9362	9376	Великобритания	Великобритания	LOC	GPE-Great-Britain
+9420	9425	Давос	Давос	LOC	GPE-Davos
+9470	9473	САЩ	САЩ	LOC	GPE-USA
+9474	9486	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+9531	9545	Великобритания	Великобритания	LOC	GPE-Great-Britain
+9546	9556	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+9575	9590	The Daily Sabah	The Daily Sabah	PRO	PRO-Daily-Express
+9659	9695	Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+9816	9822	Лондон	Лондон	LOC	GPE-London
+9825	9834	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+9854	9874	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+9893	9902	Общността	Общност	ORG	ORG-European-Union
+9922	9925	Мей	Мей	PER	PER-Theresa-May
+10026	10038	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+10065	10071	Лондон	Лондон	LOC	GPE-London
+10189	10199	Белият дом	Бял дом	LOC	LOC-White-House
+10243	10246	САЩ	САЩ	LOC	GPE-USA
+10373	10376	САЩ	САЩ	LOC	GPE-USA
+10379	10393	Великобритания	Великобритания	LOC	GPE-Great-Britain
+10395	10408	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+10411	10416	Давос	Давос	LOC	GPE-Davos
+10488	10495	Брюксел	Брюксел	LOC	GPE-Brussles
+10498	10504	Лондон	Лондон	LOC	GPE-London
+10519	10529	британците	британци	PER	GPE-Great-Britain
+10543	10546	ФРГ	ФРГ	LOC	GPE-Germany
+10547	10560	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+10753	10762	The Times	The Times	PRO	PRO-The-Times
+10824	10838	Великобритания	Великобритания	LOC	GPE-Great-Britain
+11028	11038	британците	британци	PER	GPE-Great-Britain
+11065	11071	Меркел	Меркел	PER	PER-Angela-Merkel
+11084	11090	Берлин	Берлин	LOC	GPE-Berlin
+11334	11363	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

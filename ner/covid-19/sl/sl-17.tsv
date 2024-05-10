@@ -1,0 +1,66 @@
+0	2	EU	EU	ORG	ORG-European-Union
+67	76	covidu-19	covid-19	EVT	EVT-Covid-19
+144	153	covida-19	covid-19	EVT	EVT-Covid-19
+199	213	Evropska unija	Evropska unija	ORG	ORG-European-Union
+258	267	covidu-19	covid-19	EVT	EVT-Covid-19
+330	349	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+431	455	koronavirusni bolezni 19	koronavirusna bolezen 19	EVT	EVT-Covid-19
+497	549	Britanska agencija za zdravila in medicinske izdelke	Britanska agencija za zdravila in medicinske izdelke	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+551	555	MHRA	MHRA	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+610	616	Pfizer	Pfizer	ORG	ORG-Pfizer
+627	635	BioNTech	BioNTech	ORG	ORG-BioNTech
+719	722	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+891	895	MHRA	MHRA	ORG	ORG-Medicines-and-Healthcare-products-Regulatory-Agency
+896	906	June Raine	June Raine	PER	PER-June-Raine
+940	952	Matt Hancock	Matt Hancock	PER	PER-Matthew-Hancock
+988	993	Otoku	otok	LOC	GPE-Great-Britain
+1028	1035	brexita	brexit	EVT	EVT-Brexit
+1159	1165	Evrope	Evropa	LOC	LOC-Europe
+1177	1184	Hancock	Hancock	PER	PER-Matthew-Hancock
+1281	1290	Britancem	Britanec	PER	GPE-Great-Britain
+1349	1358	covidu-19	covid-19	EVT	EVT-Covid-19
+1401	1430	Evropska agencija za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+1432	1435	Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+1497	1499	EU	EU	ORG	ORG-European-Union
+1512	1521	Slovenijo	Slovenija	LOC	GPE-Slovenia
+1655	1665	Amsterdamu	Amsterdam	LOC	GPE-Amsterdam
+1910	1918	Pfizerja	Pfizer	ORG	ORG-Pfizer
+1922	1931	BioNTecha	BioNTech	ORG	ORG-BioNTech
+1933	1942	Modernino	Moderna	ORG	ORG-Moderna
+1989	2000	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2004	2022	oxfordska univerza	oxfordska univerza	ORG	ORG-University-of-Oxford
+2074	2082	Pfizerja	Pfizer	ORG	ORG-Pfizer
+2086	2095	BioNTecha	BioNTech	ORG	ORG-BioNTech
+2099	2102	Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+2153	2162	Modernino	Moderna	ORG	ORG-Moderna
+2190	2192	EU	EU	ORG	ORG-European-Union
+2226	2243	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+2246	2252	Pfizer	Pfizer	ORG	ORG-Pfizer
+2253	2261	BioNTech	BioNTech	ORG	ORG-BioNTech
+2265	2272	Moderna	Moderna	ORG	ORG-Moderna
+2338	2374	Ameriškem uradu za hrano in zdravila	Ameriški urad za hrano in zdravila	ORG	ORG-FDA-Food-and-Drug-Administration
+2376	2379	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+2485	2488	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+2573	2576	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+2719	2728	Bele hiše	Bela hiša	LOC	LOC-White-House
+2767	2776	covidu-19	covid-19	EVT	EVT-Covid-19
+2787	2800	Moncef Slaoui	Moncef Slaoui	PER	PER-Moncef-Mohamed-Slaoui
+2830	2838	Pfizerja	Pfizer	ORG	ORG-Pfizer
+2842	2851	BioNTecha	BioNTech	ORG	ORG-BioNTech
+2878	2887	Modernino	Moderna	ORG	ORG-Moderna
+2957	2960	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+3002	3005	ZDA	ZDA	LOC	GPE-USA
+3033	3036	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+3038	3044	Slaoui	Slaoui	PER	PER-Moncef-Mohamed-Slaoui
+3112	3122	Američanov	Američani	PER	GPE-USA
+3127	3133	Rusiji	Rusija	LOC	GPE-Russia
+3605	3619	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+3752	3761	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+4111	4117	Rusiji	Rusija	LOC	GPE-Russia
+4268	4274	Rusiji	Rusija	LOC	GPE-Russia
+4333	4345	EpiVacCorona	EpiVacCorona	PRO	PRO-EpiVacCorona
+4356	4365	Kitajskem	Kitajska	LOC	GPE-China
+4626	4634	Wang Tao	Wang Tao	PER	PER-Wang-Tao
+4845	4854	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+4909	4918	covidu-19	covid-19	EVT	EVT-Covid-19
+4975	4990	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech

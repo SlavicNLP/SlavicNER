@@ -1,0 +1,26 @@
+31	43	коронавируса	коронавирус	EVT	EVT-Covid-19
+83	91	Минздрав	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+105	111	России	Россия	LOC	GPE-Russia
+164	176	коронавируса	коронавирус	EVT	EVT-Covid-19
+497	512	«Гам-КОВИД-Вак»	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+532	543	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+700	709	Минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+2382	2391	Минздраве	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+2492	2505	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2538	2546	COVID-19	COVID-19	EVT	EVT-Covid-19
+2630	2642	коронавируса	коронавирус	EVT	EVT-Covid-19
+2664	2699	Календарь профилактических прививок	Календарь профилактических прививок	PRO	PRO-Calendar-of-preventive-vaccinations
+3831	3856	Ассоциации юристов России	Ассоциация юристов России	ORG	Association-of-lawyers-of-Russia
+3866	3882	ООО «Легес Бюро»	ООО «Легес Бюро»	ORG	ORG-Leges
+3883	3899	Артём Коростелев	Артём Коростелев	PER	PER-Artem-Korostelyov
+4227	4239	«Бенефактум»	Бенефактум	ORG	ORG-Benefactum
+4240	4254	Артём Страшнов	Артём Страшнов	PER	PER-Artem-Strashnov
+4477	4491	Артём Страшнов	Артём Страшнов	PER	PER-Artem-Strashnov
+4704	4720	Артём Коростелев	Артём Коростелев	PER	PER-Artem-Korostelyov
+4943	4961	Госинспекцию труда	Госинспекция труда	ORG	ORG-The-state-Inspectorate-of-labour
+5123	5132	Минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Russia
+5133	5147	Михаил Мурашко	Михаил Мурашко	PER	PER-Михаил-Виноградов
+5177	5194	«Неделя здоровья»	Неделя здоровья	EVT	EVT-Week-of-Health
+5284	5292	COVID-19	COVID-19	EVT	EVT-Covid-19
+5346	5360	коронавирусную	коронавирусная	EVT	EVT-Covid-19
+5586	5598	коронавирусе	коронавирус	EVT	EVT-Covid-19

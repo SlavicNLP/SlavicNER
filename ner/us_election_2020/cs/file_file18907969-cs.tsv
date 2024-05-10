@@ -1,0 +1,13 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+8	13	Biden	Biden	PER	PER-Joe-Biden
+38	45	Floridu	Florida	LOC	GPE-Florida
+76	107	amerických prezidentských voleb	americké prezidentské volby	EVT	EVT-2020-United-States-Presidential-Election
+154	166	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+205	210	Biden	Biden	PER	PER-Joe-Biden
+331	338	Floridě	Florida	LOC	GPE-Florida
+373	378	Trump	Trump	PER	PER-Donald-Trump
+381	386	Biden	Biden	PER	PER-Joe-Biden
+398	403	Tampě	Tampa	LOC	GPE-Tampa
+581	592	koronavirem	koronavirus	EVT	EVT-Covid-19
+603	615	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+743	752	Joe Biden	Joe Biden	PER	PER-Joe-Biden

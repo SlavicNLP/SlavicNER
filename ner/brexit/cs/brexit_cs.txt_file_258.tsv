@@ -1,0 +1,13 @@
+0	6	Czexit	Czexit	EVT	EVT-Czexit
+10	12	ČR	ČR	LOC	GPE-Czech-Republic
+29	31	EU	EU	ORG	ORG-European-Union
+121	130	Špicarova	Špicar	PER	PER-Radek-Spicar
+265	267	ČR	ČR	LOC	GPE-Czech-Republic
+270	272	EU	EU	ORG	ORG-European-Union
+274	297	Svaz průmyslu a dopravy	Svaz průmyslu a dopravy	ORG	ORG-Svaz-Prumyslu
+357	359	EU	EU	ORG	ORG-European-Union
+445	447	EU	EU	ORG	ORG-European-Union
+641	655	Velké Británii	Velká Británie	LOC	GPE-Great-Britain
+672	680	Brexitem	brexit	EVT	EVT-Brexit
+753	767	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+920	926	Špicar	Špicar	PER	PER-Radek-Spicar

@@ -1,0 +1,14 @@
+0	11	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+14	20	Evropě	Evropa	LOC	LOC-Europe
+27	34	Britové	Britové	PER	GPE-Great-Britain
+54	61	Francie	Francie	LOC	GPE-France
+89	108	Koronavirová nákaza	Koronavirová nákaza	EVT	EVT-Covid-19
+144	149	Česko	Česko	LOC	GPE-Czech-Republic
+321	326	covid	covid	EVT	EVT-Covid-19
+330	338	Británii	Británie	LOC	GPE-Great-Britain
+386	392	Pfizer	Pfizer	ORG	ORG-Pfizer
+395	403	BioNTech	BioNTech	ORG	ORG-BioNTech
+499	519	Oxfordské univerzity	Oxfordská univerzita	ORG	ORG-University-of-Oxford
+534	545	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+626	636	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+661	669	Británie	Británie	LOC	GPE-Great-Britain

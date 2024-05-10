@@ -1,0 +1,42 @@
+0	6	Rusija	Rusija	LOC	GPE-Russia
+10	18	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+60	77	evropske komisije	evropska komisija	ORG	ORG-European-Commission
+80	87	Bruslju	Bruselj	LOC	GPE-Brussles
+113	127	Maroš Šefčovič	Maroš Šefčovič	PER	PER-Maros-Sefcovic
+267	273	Rusije	Rusija	LOC	GPE-Russia
+278	286	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+289	303	Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+310	318	Šefčovič	Šefčovič	PER	PER-Maros-Sefcovic
+419	425	Evrope	Evropa	LOC	LOC-Europe
+740	757	Aleksejem Oršelom	Aleksej Oršel	PER	PER-Oleksiy-Orzhel
+784	803	Aleksandrom Novakom	Aleksander Novak	PER	PER-Aleksandr-Novak
+857	875	Andrejem Kobolevom	Andrej Kobolev	PER	PER-Andriy-Kobolyev
+892	901	Naftogaza	Naftogaz	ORG	ORG-Naftogaz
+905	923	Aleksejem Milerjem	Aleksej Miler	PER	PER-Aleksey-Miller
+935	943	Gazproma	Gazprom	ORG	ORG-Gazprom
+993	1001	Šefoviča	Šefčovič	PER	PER-Maros-Sefcovic
+1243	1251	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+1261	1269	Šefčovič	Šefčovič	PER	PER-Maros-Sefcovic
+1371	1379	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1439	1447	Naftogaz	Naftogaz	ORG	ORG-Naftogaz
+1542	1550	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1620	1626	Rusijo	Rusija	LOC	GPE-Russia
+1799	1808	Naftogaza	Naftogaz	ORG	ORG-Naftogaz
+1833	1836	LLC	LLC	ORG	ORG-LLC
+1987	1994	Gazprom	Gazprom	ORG	ORG-Gazprom
+2013	2016	LLC	LLC	ORG	ORG-LLC
+2136	2143	Bruslju	Bruselj	LOC	GPE-Brussles
+2410	2419	Šefčoviča	Šefčovič	PER	PER-Maros-Sefcovic
+2458	2464	Rusija	Rusija	LOC	GPE-Russia
+2591	2599	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+2661	2668	Gazprom	Gazprom	ORG	ORG-Gazprom
+2707	2720	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2777	2785	Ukrajino	Ukrajina	LOC	GPE-Ukraine
+2817	2825	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+3018	3026	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+3071	3079	Šefčovič	Šefčovič	PER	PER-Maros-Sefcovic
+3210	3212	EU	EU	ORG	ORG-European-Union
+3353	3355	EU	EU	ORG	ORG-European-Union
+3377	3383	Kijevu	Kijev	LOC	GPE-Kiev
+3503	3510	Bruslju	Bruselj	LOC	GPE-Brussles
+3592	3609	evropske komisije	evropska komisija	ORG	ORG-European-Commission

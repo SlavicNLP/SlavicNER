@@ -1,0 +1,20 @@
+0	5	Сорос	Сорос	PER	PER-George-Soros
+49	56	Брекзит	Брекзит	EVT	EVT-Brexit
+58	70	Джордж Сорос	Джордж Сорос	PER	PER-George-Soros
+183	197	Великобритания	Великобритания	LOC	GPE-Great-Britain
+201	217	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+227	230	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+381	410	Най-доброто за Великобритания	Най-доброто за Великобритания	ORG	ORG-Best-for-Britain
+416	421	Сорос	Сорос	PER	PER-George-Soros
+462	469	Ройтерс	Ройтерс	ORG	ORG-Reuters
+487	494	Брекзит	Брекзит	EVT	EVT-Brexit
+521	523	ЕС	ЕС	ORG	ORG-European-Union
+552	566	Великобритания	Великобритания	LOC	GPE-Great-Britain
+572	594	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+691	698	Брекзит	Брекзит	EVT	EVT-Brexit
+721	735	Великобритания	Великобритания	LOC	GPE-Great-Britain
+757	765	Германия	Германия	LOC	GPE-Germany
+854	861	Ройтерс	Ройтерс	ORG	ORG-Reuters
+873	883	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+894	908	Великобритания	Великобритания	LOC	GPE-Great-Britain
+920	922	ЕС	ЕС	ORG	ORG-European-Union

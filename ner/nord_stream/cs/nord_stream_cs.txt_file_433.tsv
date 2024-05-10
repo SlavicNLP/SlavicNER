@@ -1,0 +1,27 @@
+0	3	USA	USA	LOC	GPE-USA
+11	18	Německo	Německo	LOC	GPE-Germany
+72	85	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+118	123	Ruska	Rusko	LOC	GPE-Russia
+133	140	Německa	Německo	LOC	GPE-Germany
+148	155	Německo	Německo	LOC	GPE-Germany
+213	225	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+238	261	Valnému shromáždění OSN	Valné shromáždění OSN	ORG	ORG-United-Nations-General-Assembly
+264	273	New Yorku	New York	LOC	GPE-New-York
+293	306	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+313	320	Německo	Německo	LOC	GPE-Germany
+323	329	Ruskem	Rusko	LOC	GPE-Russia
+337	352	Baltického moře	Baltské moře	LOC	LOC-Baltic-Sea
+354	359	Trump	Trump	PER	PER-Donald-Trump
+405	411	Moskva	Moskva	LOC	GPE-Moscow
+431	437	Evropě	Evropa	LOC	LOC-Europe
+439	444	Rusko	Rusko	LOC	GPE-Russia
+457	464	Trumpův	Trump	PER	PER-Donald-Trump
+499	507	Evropany	Evropané	PER	LOC-Europe
+566	577	Bílého domu	Bílý dům	LOC	LOC-White-House
+604	608	NATO	NATO	ORG	ORG-NATO
+617	624	Německo	Německo	LOC	GPE-Germany
+641	646	Ruska	Rusko	LOC	GPE-Russia
+721	734	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+754	759	Rusko	Rusko	LOC	GPE-Russia
+761	767	Berlín	Berlín	LOC	GPE-Berlin
+774	782	Trumpova	Trump	PER	PER-Donald-Trump

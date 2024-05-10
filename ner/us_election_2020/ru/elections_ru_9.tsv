@@ -1,0 +1,86 @@
+24	38	республиканцем	республиканец	PER	ORG-Republican-Party-USA
+100	103	США	США	LOC	GPE-USA
+112	126	республиканцем	республиканец	PER	ORG-Republican-Party-USA
+188	191	США	США	LOC	GPE-USA
+194	207	Антон Сахаров	Антон Сахаров	PER	PER-Anton-Sakharov
+218	235	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+301	304	США	США	LOC	GPE-USA
+413	422	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+432	444	Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+844	856	американском	американский	LOC	GPE-USA
+871	876	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+1263	1294	выборов Джорджа Буша (2004 год)	выборы Джорджа Буша 2004 год	EVT	EVT-2004-United-States-Presidential-Election
+1321	1334	республиканец	республиканец	PER	ORG-Republican-Party-USA
+1360	1373	Антон Сахаров	Антон Сахаров	PER	PER-Anton-Sakharov
+1444	1448	СССР	СССР	LOC	GPE-USSR
+1696	1699	США	США	LOC	GPE-USA
+1928	1950	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+1975	1987	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+2227	2237	Калифорнии	Калифорния	LOC	GPE-California
+2280	2285	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+2306	2318	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+2457	2469	американской	американская	LOC	GPE-USA
+2640	2646	Антону	Антон Сахаров	PER	PER-Anton-Sakharov
+2706	2715	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2759	2781	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+2961	2978	Антоном Сахаровым	Антон Сахаров	PER	PER-Anton-Sakharov
+3048	3060	американских	американский	LOC	GPE-USA
+3324	3329	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+3380	3389	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3393	3407	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+3418	3426	Тэд Круз	Тэд Круз	PER	PER-Ted-Cruz
+3527	3542	Антона Сахарова	Антон Сахаров	PER	PER-Anton-Sakharov
+3586	3591	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+3872	3887	Демократической	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3893	3908	Республиканской	Республиканская партия	ORG	ORG-Republican-Party-USA
+4115	4120	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+4173	4183	российский	российский	LOC	GPE-Russia
+4231	4236	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+4317	4326	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+4576	4590	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+4591	4607	Биллом Брайантом	Билл Брайант	PER	PER-Bill-Bryant
+4635	4645	демократом	демократ	PER	ORG-Democratic-Party-USA
+4646	4657	Джеем Инсли	Джей Инсли	PER	PER-Jay-Inslee
+4698	4706	Брайанта	Билл Брайнт	PER	PER-Bill-Bryant
+4878	4909	президентских выборах 2016 года	президентские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+4918	4931	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+5096	5101	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+5279	5282	США	США	LOC	GPE-USA
+5359	5365	Трампа	Трам	PER	PER-Donald-Trump
+5477	5491	Джона Маккейна	Джон Маккейн	PER	PER-John-McCain
+5612	5624	американские	американские	LOC	GPE-USA
+5897	5902	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+5945	5960	Антона Сахарова	Антон Сахаров	PER	PER-Anton-Sakharov
+6036	6045	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+6246	6260	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+6371	6377	России	Россия	LOC	GPE-Russia
+6535	6557	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+6913	6922	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+6939	6944	Трамп	Трамп	PER	PER-Donald-Trump
+7113	7130	Антоном Сахаровым	Антон Сахаров	PER	PER-Anton-Sakharov
+7133	7138	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+7874	7879	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+7897	7919	Республиканская партия	Республиканская партия	ORG	ORG-Republican-Party-USA
+7926	7935	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+8037	8044	Сахаров	Антон Сахаров	PER	PER-Anton-Sakharov
+8118	8128	Джей Инсли	Джей Инсли	PER	PER-Jay-Inslee
+8159	8169	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+8205	8211	Антона	Антон Сахаров	PER	PER-Anton-Sakharov
+8215	8237	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+8314	8323	демократы	демократ	PER	ORG-Democratic-Party-USA
+8418	8433	Викторию Спартц	Виктория Спартц	PER	PER-Victoria-Spartz
+8462	8484	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+8514	8521	Индиана	Индиана	LOC	GPE-Indiana
+8582	8596	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+8619	8634	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+9111	9120	Висконсин	Висконсин	LOC	GPE-Wisconsin
+9230	9235	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+9281	9290	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+9346	9360	Большом Яблоке	Большое Яблоко	LOC	GPE-New-York
+9382	9401	ForumDaily New York	ForumDaily New York	PRO	PRO-NewYork.ForumDaily.com
+9444	9449	Антон	Антон Сахаров	PER	PER-Anton-Sakharov
+9529	9535	Сиэтла	Сиэтл	LOC	GPE-Seattle
+9552	9558	Антифа	Антифа	ORG	ORG-Antifa-USA
+9630	9636	России	Россия	LOC	GPE-Russia
+9670	9676	Трампа	Трам	PER	PER-Donald-Trump
+9783	9788	Антон	Антон Сахаров	PER	PER-Anton-Sakharov

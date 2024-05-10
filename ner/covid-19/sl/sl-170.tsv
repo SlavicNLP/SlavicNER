@@ -1,0 +1,27 @@
+0	5	Celje	Celje	LOC	GPE-Celje
+23	31	COVID 19	COVID-19	EVT	EVT-Covid-19
+121	135	Dragan Kovačić	Dragan Kovačić	PER	PER-Dragan-Kovačić
+152	160	SB Celje	SB Celje	LOC	LOC-Celje-General-Hospital
+197	205	PU Celje	PU Celje	ORG	ORG-Policijska-Uprava-Celje
+253	261	COVID 19	COVID-19	EVT	EVT-Covid-19
+438	445	COVID19	COVID19	EVT	EVT-Covid-19
+655	669	Dragan Kovačić	Dragan Kovačić	PER	PER-Dragan-Kovačić
+731	739	SB Celje	SB Celje	LOC	LOC-Celje-General-Hospital
+832	840	SB Celje	SB Celje	LOC	LOC-Celje-General-Hospital
+864	869	COVID	COVID	EVT	EVT-Covid-19
+883	892	Sloveniji	Slovenija	LOC	GPE-Slovenia
+937	942	Celju	Celje	LOC	GPE-Celje
+965	970	COVID	COVID	EVT	EVT-Covid-19
+1432	1437	COVID	COVID	EVT	EVT-Covid-19
+1529	1537	COVID 19	COVID-19	EVT	EVT-Covid-19
+1676	1681	COVID	COVID	EVT	EVT-Covid-19
+1687	1695	SB Celje	SB Celje	LOC	LOC-Celje-General-Hospital
+1804	1812	SB Celje	SB Celje	LOC	LOC-Celje-General-Hospital
+1972	1977	COVID	COVID	EVT	EVT-Covid-19
+2266	2273	Kovačić	Kovačić	PER	PER-Dragan-Kovačić
+2354	2359	COVID	COVID	EVT	EVT-Covid-19
+2675	2705	dezinfekcijske enote PGE Celje	dezinfekcijska enota PGE Celje	ORG	ORG-Desinfection-Unit-PGE
+2721	2729	PU Celje	PU Celje	ORG	ORG-Policijska-Uprava-Celje
+3170	3178	PU Celje	PU Celje	ORG	ORG-Policijska-Uprava-Celje
+3235	3243	PU Celje	PU Celje	ORG	ORG-Policijska-Uprava-Celje
+3501	3527	Zdravstvenemu inšpektoratu	Zdravstveni inšpektorat	ORG	ORG-Health-Inspectorate-of-the-Republic-of-Slovenia

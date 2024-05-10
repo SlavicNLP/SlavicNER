@@ -1,0 +1,42 @@
+0	8	Warszawa	Warszawa	LOC	GPE-Warsaw
+31	42	Trzaskowski	Trzaskowski	PER	PER-Rafał-Trzaskowski
+65	77	koronawirusa	koronawirus	EVT	EVT-Covid-19
+132	140	Warszawy	Warszawa	LOC	GPE-Warsaw
+198	206	COVID-19	COVID-19	EVT	EVT-Covid-19
+230	239	Twitterze	Twitter	PRO	PRO-Twitter
+255	258	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+293	309	Karolina Gałecka	Karolina Gałecka	PER	PER-Karolina-Gałecka
+358	366	Warszawy	Warszawa	LOC	GPE-Warsaw
+367	384	Rafał Trzaskowski	Rafał Trzaskowski	PER	PER-Rafał-Trzaskowski
+407	419	koronawirusa	koronawirus	EVT	EVT-Covid-19
+494	502	Warszawy	Warszawa	LOC	GPE-Warsaw
+543	574	Warszawski Uniwersytet Medyczny	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+748	776	Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+867	870	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+973	976	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+1128	1136	COVID-19	COVID-19	EVT	EVT-Covid-19
+1191	1194	SLD	SLD	ORG	ORG-Democratic-Left-Alliance-Poland
+1195	1208	Leszek Miller	Leszek Miller	PER	PER-Leszek-Miller
+1315	1329	Krystyna Janda	Krystyna Janda	PER	PER-Krystyna-Janda
+1331	1344	Maria Seweryn	Maria Seweryn	PER	PER-Maria-Seweryn
+1346	1362	Wiktor Zborowski	Wiktor Zborowski	PER	PER-Wiktor-Zborowski
+1382	1399	Krzysztof Materna	Krzysztof Materna	PER	PER-Krzysztof-Materna
+1424	1427	TVN	TVN	PRO	PRO-TVN
+1428	1443	Edward Miszczak	Edward Miszczak	PER	PER-Edward-Miszczak
+1479	1507	Agencji Rezerw Materiałowych	Agencja Rezerw Materiałowych	ORG	ORG-The-Materials-Reserves-Agency-Poland
+1508	1528	Michał Kuczmierowski	Michał Kuczmierowski	PER	PER-Michał-Kuczmierowski
+1542	1545	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1561	1564	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+1705	1708	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+1857	1892	Warszawskim Uniwersytetem Medycznym	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+1929	1956	Narodowego Funduszu Zdrowia	Narodowy Fundusz Zdrowia	ORG	ORG-National-Health-Fund-Poland
+1980	1983	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+1990	2006	Zbigniew Gaciong	Zbigniew Gaciong	PER	PER-Zbigniew-Gaciong
+2075	2082	Gaciong	Gaciong	PER	PER-Zbigniew-Gaciong
+2135	2138	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+2156	2159	NFZ	NFZ	ORG	ORG-National-Health-Fund-Poland
+2167	2183	Centrum Medyczne	Centrum Medyczne	ORG	ORG-Medical-Centre-Warsaw-Medical-University
+2192	2195	WUM	WUM	ORG	ORG-Warsaw-Medical-University
+2236	2244	COVID-19	COVID-19	EVT	EVT-Covid-19
+2621	2624	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2636	2652	Sonia Otfinowska	Sonia Otfinowska	PER	PER-Sonia-Otfinowska

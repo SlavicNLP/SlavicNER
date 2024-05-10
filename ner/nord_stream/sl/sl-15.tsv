@@ -1,0 +1,49 @@
+0	5	Putin	Putin	PER	PER-Vladimir-Putin
+30	43	Angelo Merkel	Angela Merkel	PER	PER-Angela-Merkel
+45	50	Putin	Putin	PER	PER-Vladimir-Putin
+171	174	dpa	dpa	ORG	ORG-DPA
+175	181	Evropo	Evropa	LOC	LOC-Europe
+209	215	Sirije	Sirija	LOC	GPE-Syria
+497	503	Evrope	Evropa	LOC	LOC-Europe
+550	559	Jordanije	Jordanija	LOC	GPE-Jordan
+561	569	Libanona	Libanon	LOC	GPE-Lebanon
+573	580	Turčije	Turčija	LOC	GPE-Turkey
+609	615	Evropo	Evropa	LOC	LOC-Europe
+767	775	Merklova	Merkel	PER	PER-Angela-Merkel
+805	821	Bašarja al Asada	Bašar al Asad	PER	PER-Bashar-al-Assad
+823	831	Merklova	Merkel	PER	PER-Angela-Merkel
+935	942	Putinom	Putin	PER	PER-Vladimir-Putin
+1021	1029	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1103	1118	modrih čelad ZN	modre čelade ZN	PER	ORG-United-Nations-Peacekeeping
+1171	1177	Sirijo	Sirija	LOC	GPE-Syria
+1186	1194	Merklova	Merkel	PER	PER-Angela-Merkel
+1253	1260	Nemčija	Nemčija	LOC	GPE-Germany
+1319	1336	Združenih narodov	Združeni narodi	ORG	ORG-United-Nations
+1430	1446	Bašarja al Asada	Bašar al Asad	PER	PER-Bashar-al-Assad
+1463	1469	Rusija	Rusija	LOC	GPE-Russia
+1550	1563	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1568	1574	Rusijo	Rusija	LOC	GPE-Russia
+1578	1585	Nemčijo	Nemčija	LOC	GPE-Germany
+1590	1614	iranski jedrski sporazum	iranski jedrski sporazum	PRO	PRO-Iran-nuclear-deal
+1635	1638	ZDA	ZDA	LOC	GPE-USA
+1641	1648	Nemčija	Nemčija	LOC	GPE-Germany
+1727	1734	Putinom	Putin	PER	PER-Vladimir-Putin
+1910	1924	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1968	1974	Rusiji	Rusija	LOC	GPE-Russia
+2041	2046	Trump	Trump	PER	PER-Donald-Trump
+2065	2072	Nemčiji	Nemčija	LOC	GPE-Germany
+2087	2093	Rusija	Rusija	LOC	GPE-Russia
+2183	2188	Putin	Putin	PER	PER-Vladimir-Putin
+2250	2263	Karin Kneissl	Karin Kneissl	PER	PER-Karin-Kneissl
+2267	2289	avstrijskem Štajerskem	avstrijska Štajerska	LOC	GPE-Austrian-Styria
+2308	2317	Slovenijo	Slovenija	LOC	GPE-Slovenia
+2352	2358	Rusijo	Rusija	LOC	GPE-Russia
+2362	2370	Avstrijo	Avstrija	LOC	GPE-Austria
+2401	2408	Zahodom	Zahod	LOC	LOC-West
+2435	2457	Avstrijski svobodnjaki	Avstrijski svobodnjaki	ORG	ORG-Freedom-Party-of-Austria
+2459	2462	FPÖ	FPÖ	ORG	ORG-Freedom-Party-of-Austria
+2477	2492	Ljudsko stranko	Ljudska stranka	ORG	ORG-ÖVP-Austrian-Peoples-Party
+2494	2497	ÖVP	ÖVP	ORG	ORG-ÖVP-Austrian-Peoples-Party
+2547	2553	Evropi	Evropa	LOC	LOC-Europe
+2625	2629	Krim	Krim	LOC	GPE-Crimea
+2654	2668	Evropske unije	Evropska unija	ORG	ORG-European-Union

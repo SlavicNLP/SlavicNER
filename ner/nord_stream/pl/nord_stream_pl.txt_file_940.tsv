@@ -1,0 +1,63 @@
+21	27	Polski	Polska	LOC	GPE-Poland
+30	33	USA	USA	LOC	GPE-USA
+36	49	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+51	56	Trump	Trump	PER	PER-Donald-Trump
+58	64	Niemcy	Niemcy	LOC	GPE-Germany
+78	83	Rosji	Rosja	LOC	GPE-Russia
+94	97	USA	USA	LOC	GPE-USA
+98	110	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+126	132	Niemcy	Niemcy	LOC	GPE-Germany
+150	155	Rosji	Rosja	LOC	GPE-Russia
+240	244	NATO	NATO	ORG	ORG-NATO
+274	291	Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+305	313	Brukseli	Bruksela	LOC	GPE-Brussles
+356	359	USA	USA	LOC	GPE-USA
+360	378	Francisem Fannonem	Francis Fannon	PER	PER-Francis-Fannon
+428	441	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+542	548	Polski	Polska	LOC	GPE-Poland
+551	554	USA	USA	LOC	GPE-USA
+583	586	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+587	604	Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+619	631	Waszyngtonie	Waszyngton	LOC	GPE-WashingtonDC
+652	655	USA	USA	LOC	GPE-USA
+656	668	Mikem Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+741	754	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+807	824	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+863	870	Ukrainy	Ukraina	LOC	GPE-Ukraine
+873	878	Trump	Trump	PER	PER-Donald-Trump
+880	886	Niemcy	Niemcy	LOC	GPE-Germany
+900	905	Rosji	Rosja	LOC	GPE-Russia
+964	976	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1022	1026	NATO	NATO	ORG	ORG-NATO
+1027	1048	Jensem Stoltenbergiem	Jens Stoltenberg	PER	PER-Jens-Stoltenberg
+1059	1062	USA	USA	LOC	GPE-USA
+1075	1081	Niemcy	Niemcy	LOC	GPE-Germany
+1092	1097	Rosji	Rosja	LOC	GPE-Russia
+1218	1224	Niemcy	Niemcy	LOC	GPE-Germany
+1316	1321	Rosji	Rosja	LOC	GPE-Russia
+1398	1403	Trump	Trump	PER	PER-Donald-Trump
+1423	1429	Polskę	Polska	LOC	GPE-Poland
+1504	1509	Trump	Trump	PER	PER-Donald-Trump
+1520	1526	Niemcy	Niemcy	LOC	GPE-Germany
+1656	1660	NATO	NATO	ORG	ORG-NATO
+1661	1677	Jens Stoltenberg	Jens Stoltenberg	PER	PER-Jens-Stoltenberg
+1693	1718	Sojusz Północnoatlantycki	Sojusz Północnoatlantycki	ORG	ORG-NATO
+1776	1789	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1907	1911	NATO	NATO	ORG	ORG-NATO
+2005	2018	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2045	2058	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2103	2108	Rosja	Rosja	LOC	GPE-Russia
+2176	2183	Ukrainy	Ukraina	LOC	GPE-Ukraine
+2194	2201	Gazprom	Gazprom	ORG	ORG-Gazprom
+2255	2262	Ukrainę	Ukraina	LOC	GPE-Ukraine
+2394	2407	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2432	2438	Polska	Polska	LOC	GPE-Poland
+2440	2447	Ukraina	Ukraina	LOC	GPE-Ukraine
+2491	2499	Gazpromu	Gazprom	ORG	ORG-Gazprom
+2569	2572	OMV	OMV	ORG	ORG-OMV
+2585	2601	BASF-Wintershall	BASF-Wintershall	ORG	ORG-BASF-Wintershall
+2604	2610	Uniper	Uniper	ORG	ORG-Uniper
+2625	2629	E.On	E.On	ORG	ORG-E.ON
+2642	2647	Engie	Engie	ORG	ORG-Engie
+2672	2689	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+2699	2702	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

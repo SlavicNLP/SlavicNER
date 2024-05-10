@@ -1,0 +1,69 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+54	58	Nato	Nato	ORG	ORG-NATO
+106	112	Trumpu	Trump	PER	PER-Donald-Trump
+116	121	Trump	Trump	PER	PER-Donald-Trump
+212	224	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+360	363	ZDA	ZDA	LOC	GPE-USA
+472	474	G7	G7	ORG	ORG-G7
+557	561	Nato	Nato	ORG	ORG-NATO
+822	831	Trumpovih	Trump	PER	PER-Donald-Trump
+912	916	Nata	NATO	ORG	ORG-NATO
+1080	1085	Trump	Trump	PER	PER-Donald-Trump
+1144	1148	Nata	NATO	ORG	ORG-NATO
+1149	1169	Jensom Stoltenbergom	Jens Stoltenberg	PER	PER-Jens-Stoltenberg
+1224	1231	Nemčijo	Nemčija	LOC	GPE-Germany
+1304	1310	Rusije	Rusija	LOC	GPE-Russia
+1345	1352	Nemčija	Nemčija	LOC	GPE-Germany
+1365	1371	Rusije	Rusija	LOC	GPE-Russia
+1409	1415	Rusije	Rusija	LOC	GPE-Russia
+1427	1432	Trump	Trump	PER	PER-Donald-Trump
+1453	1461	Berlinom	Berlin	LOC	GPE-Berlin
+1465	1471	Moskvo	Moskva	LOC	GPE-Moscow
+1484	1497	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1512	1524	Stoltenberga	Stoltenberg	PER	PER-Jens-Stoltenberg
+1666	1672	Rusiji	Rusija	LOC	GPE-Russia
+1707	1713	Rusija	Rusija	LOC	GPE-Russia
+1736	1743	Nemčijo	Nemčija	LOC	GPE-Germany
+1763	1776	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+1795	1803	Trumpove	Trump	PER	PER-Donald-Trump
+1833	1840	Nemčija	Nemčija	LOC	GPE-Germany
+1944	1951	Nemčije	Nemčija	LOC	GPE-Germany
+1974	1989	Sovjetska zveza	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+2043	2067	Zvezni republiki Nemčiji	Zvezna republika Nemčija	LOC	GPE-Germany
+2268	2272	Nato	Nato	ORG	ORG-NATO
+2304	2324	Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+2331	2340	Trumpovih	Trump	PER	PER-Donald-Trump
+2409	2417	Merklova	Merkel	PER	PER-Angela-Merkel
+2421	2426	Trump	Trump	PER	PER-Donald-Trump
+2514	2519	Trump	Trump	PER	PER-Donald-Trump
+2617	2625	Merklova	Merkel	PER	PER-Angela-Merkel
+2761	2764	ZDA	ZDA	LOC	GPE-USA
+2796	2804	Kitajsko	Kitajska	LOC	GPE-China
+2806	2813	Amerika	Amerika	LOC	GPE-USA
+2878	2881	ZDA	ZDA	LOC	GPE-USA
+2923	2933	Washington	Washington	LOC	GPE-WashingtonDC
+2972	2980	Kitajske	Kitajska	LOC	GPE-China
+3045	3048	ZDA	ZDA	LOC	GPE-USA
+3115	3132	Robert Lighthizer	Robert Lighthizer	PER	PER-Robert-Lighthizer
+3144	3152	Kitajsko	Kitajska	LOC	GPE-China
+3251	3256	Trump	Trump	PER	PER-Donald-Trump
+3445	3451	Peking	Peking	LOC	GPE-Beijing
+3462	3465	ZDA	ZDA	LOC	GPE-USA
+3474	3482	Kitajski	Kitajska	LOC	GPE-China
+3578	3581	ZDA	ZDA	LOC	GPE-USA
+3585	3593	Kitajsko	Kitajska	LOC	GPE-China
+3650	3655	Trump	Trump	PER	PER-Donald-Trump
+3758	3761	ZDA	ZDA	LOC	GPE-USA
+3785	3796	Stoltenberg	Stoltenberg	PER	PER-Jens-Stoltenberg
+3938	3942	Nato	Nato	ORG	ORG-NATO
+3955	3961	Evropo	Evropa	LOC	LOC-Europe
+3983	3986	ZDA	ZDA	LOC	GPE-USA
+3999	4004	Trump	Trump	PER	PER-Donald-Trump
+4047	4051	Nata	NATO	ORG	ORG-NATO
+4213	4216	ZDA	ZDA	LOC	GPE-USA
+4252	4261	Slovenija	Slovenija	LOC	GPE-Slovenia
+4263	4270	Nemčija	Nemčija	LOC	GPE-Germany
+4311	4314	ZDA	ZDA	LOC	GPE-USA
+4674	4684	Makedonije	Makedonija	LOC	GPE-North-Macedonia
+4805	4810	Iraku	Irak	LOC	GPE-Iraq
+4845	4851	Rusije	Rusija	LOC	GPE-Russia

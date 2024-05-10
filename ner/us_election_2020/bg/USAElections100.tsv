@@ -1,0 +1,54 @@
+0	14	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+51	60	демократи	демократи	PER	ORG-Democratic-Party-USA
+134	144	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+166	169	САЩ	САЩ	LOC	GPE-USA
+244	256	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+304	338	конгреса на Републиканската партия	Конгрес на Републиканската партия	EVT	EVT-2020-Republican-National-Convention
+419	426	Америка	Америка	LOC	GPE-USA
+447	470	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+514	519	Тръмп	Тръмп	PER	PER-Donald-Trump
+522	546	коронавирусната пандемия	коронавирусна пандемия	EVT	EVT-Pandemic
+662	665	САЩ	САЩ	LOC	GPE-USA
+795	800	Тръмп	Тръмп	PER	PER-Donald-Trump
+873	879	Шарлът	Шарлът	LOC	GPE-Charlotte
+881	897	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+958	979	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+1001	1015	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+1108	1119	демократите	демократи	PER	ORG-Democratic-Party-USA
+1235	1245	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1325	1344	Доналд Тръмп-младши	Доналд Тръмп-младши	PER	PER-Donald-Trump-Jr.
+1437	1442	Китай	Китай	LOC	GPE-China
+1506	1517	демократите	демократи	PER	ORG-Democratic-Party-USA
+1712	1715	САЩ	САЩ	LOC	GPE-USA
+1718	1721	ООН	ООН	ORG	ORG-United-Nations
+1770	1780	Ники Хейли	Ники Хейли	PER	PER-Nikki-Haley
+1804	1825	Демократичната партия	Демократична партия	ORG	ORG-Democratic-Party-USA
+1857	1864	Америка	Америка	LOC	GPE-USA
+1890	1897	Америка	Америка	LOC	GPE-USA
+2016	2028	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2095	2099	Марк	Марк	PER	PER-Mark-McCloskey
+2102	2119	Патриша Макклоски	Патриша Макклоски	PER	PER-Patricia-McCloskey
+2362	2369	Америка	Америка	LOC	GPE-USA
+2385	2394	демократи	демократи	PER	ORG-Democratic-Party-USA
+2403	2420	Патриша Макклоски	Патриша Макклоски	PER	PER-Patricia-McCloskey
+2460	2470	Чарли Кърк	Чарли Кърк	PER	PER-Charlie-Kirk
+2536	2541	Тръмп	Тръмп	PER	PER-Donald-Trump
+2585	2590	Тръмп	Тръмп	PER	PER-Donald-Trump
+2806	2809	САЩ	САЩ	LOC	GPE-USA
+2829	2844	афроамериканеца	афроамериканец	PER	GPE-USA
+2845	2857	Джордж Флойд	Джордж Флойд	PER	PER-George-Floyd
+2925	2933	Тим Скот	Тим Скот	PER	PER-Tim-Scott
+2937	2950	Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+2974	2986	републиканец	републиканец	PER	ORG-Republican-Party-USA
+2989	3016	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+3057	3073	афроамериканците	афроамериканци	PER	GPE-USA
+3104	3115	демократите	демократи	PER	ORG-Democratic-Party-USA
+3187	3196	демократи	демократи	PER	ORG-Democratic-Party-USA
+3200	3210	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3282	3292	американец	американец	PER	GPE-USA
+3301	3305	Скот	Скот	PER	PER-Tim-Scott
+3322	3332	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3335	3347	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+3398	3405	Америка	Америка	LOC	GPE-USA
+3435	3440	Тръмп	Тръмп	PER	PER-Donald-Trump
+3500	3509	Белия дом	Бял дом	LOC	LOC-White-House

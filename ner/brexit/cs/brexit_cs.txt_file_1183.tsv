@@ -1,0 +1,20 @@
+43	50	brexitu	brexit	EVT	EVT-Brexit
+61	67	Mayová	Mayová	PER	PER-Theresa-May
+76	85	Plymouthu	Plymouth	LOC	GPE-Plymouth
+141	186	Národní centrály proti organizovanému zločinu	Národní centrála proti organizovanému zločinu	ORG	ORG-Narodni-centrala-proti-organizovanemu-zlo
+187	202	Jaroslav Ibehej	Jaroslav Ibehej	PER	PER-Jaroslav-Ibehej
+204	210	Mayová	Mayová	PER	PER-Theresa-May
+241	249	Mnichově	Mnichov	LOC	GPE-Munich
+277	285	Británie	Británie	LOC	GPE-Great-Britain
+293	307	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+313	320	brexitu	brexit	EVT	EVT-Brexit
+367	373	Ibehej	Ibehej	PER	PER-Jaroslav-Ibehej
+545	589	Útvaru pro odhalování organizovaného zločinu	Útvar pro odhalování organizovaného zločinu	ORG	ORG-Utvar-pro-odhalovani-org-zlocinu
+666	668	ČR	ČR	LOC	GPE-Czech-Republic
+754	758	Češi	Češi	PER	GPE-Czech-Republic
+765	770	Češky	Češky	PER	GPE-Czech-Republic
+807	812	Devon	Devon	LOC	LOC-Devon-county
+928	936	Bristolu	Bristol	LOC	GPE-Bristol
+961	969	Plymouth	Plymouth	LOC	GPE-Plymouth
+1225	1231	Ibehej	Ibehej	PER	PER-Jaroslav-Ibehej
+1467	1472	Česku	Česko	LOC	GPE-Czech-Republic

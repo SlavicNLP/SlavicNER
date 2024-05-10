@@ -1,0 +1,15 @@
+2	9	Brexitu	Brexit	EVT	EVT-Brexit
+51	71	Benedict Cumberbatch	Benedict Cumberbatch	PER	PER-Benedict-Cumberbatch
+104	122	Dominica Cummingse	Dominic Cummings	PER	PER-Dominic-Cummings
+150	160	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+195	209	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+212	214	EU	EU	ORG	ORG-European-Union
+216	224	Cummings	Cummings	PER	PER-Dominic-Cummings
+296	303	Brexitu	Brexit	EVT	EVT-Brexit
+311	323	the Guardian	the Guardian	PRO	PRO-The-Guardian
+460	466	Brexit	Brexit	EVT	EVT-Brexit
+826	828	EU	EU	ORG	ORG-European-Union
+905	911	Brexit	Brexit	EVT	EVT-Brexit
+958	969	Cumberbatch	Cumberbatch	PER	PER-Benedict-Cumberbatch
+1067	1081	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+1084	1086	EU	EU	ORG	ORG-European-Union

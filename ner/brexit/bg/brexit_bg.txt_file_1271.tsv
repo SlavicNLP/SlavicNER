@@ -1,0 +1,27 @@
+29	35	Лондон	Лондон	LOC	GPE-London
+73	80	Брекзит	Брекзит	EVT	EVT-Brexit
+129	135	Лондон	Лондон	LOC	GPE-London
+175	189	Великобритания	Великобритания	LOC	GPE-Great-Britain
+193	209	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+270	277	Брекзит	Брекзит	EVT	EVT-Brexit
+288	291	ДПА	ДПА	ORG	ORG-DPA
+294	301	Ройтерс	Ройтерс	ORG	ORG-Reuters
+343	355	Народен глас	Народен глас	EVT	EVT-People's-Voice-Campaign
+380	390	британците	британци	PER	GPE-Great-Britain
+473	480	Брекзит	Брекзит	EVT	EVT-Brexit
+513	519	Лондон	Лондон	LOC	GPE-London
+522	529	Брюксел	Брюксел	LOC	GPE-Brussles
+539	542	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+651	669	Лейбъристка партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+672	691	Либерални демократи	Либерални демократи	ORG	ORG-Liberal-Democrats-UK
+712	734	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+747	757	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+761	773	Народен глас	Народен глас	EVT	EVT-People's-Voice-Campaign
+922	929	Брекзит	Брекзит	EVT	EVT-Brexit
+972	979	Брекзит	Брекзит	EVT	EVT-Brexit
+1002	1015	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+1063	1065	ЕС	ЕС	ORG	ORG-European-Union
+1130	1133	Сън	Сън	PRO	PRO-The-Sun
+1178	1185	Брекзит	Брекзит	EVT	EVT-Brexit
+1256	1258	ЕС	ЕС	ORG	ORG-European-Union
+1340	1348	британци	британци	PER	GPE-Great-Britain

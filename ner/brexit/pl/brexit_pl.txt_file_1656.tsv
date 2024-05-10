@@ -1,0 +1,34 @@
+0	15	Bank of America	Bank of America	ORG	ORG-Bank-of-America
+29	37	brexitem	Brexit	EVT	EVT-Brexit
+41	47	Paryża	Paryż	LOC	GPE-Paris
+49	64	Bank of America	Bank of America	ORG	ORG-Bank-of-America
+99	106	Londynu	Londyn	LOC	GPE-London
+110	116	Paryża	Paryż	LOC	GPE-Paris
+209	216	brexitu	Brexit	EVT	EVT-Brexit
+536	546	Tom Montag	Tom Montag	PER	PER-Tom-Montag
+667	684	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+699	705	Paryża	Paryż	LOC	GPE-Paris
+781	787	Paryżu	Paryż	LOC	GPE-Paris
+865	876	Wall Street	Wall Street	LOC	LOC-Wall-Street
+933	939	Paryżu	Paryż	LOC	GPE-Paris
+1004	1015	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1018	1022	Unii	Unia	ORG	ORG-European-Union
+1080	1088	Londynie	Londyn	LOC	GPE-London
+1219	1227	brexicie	Brexit	EVT	EVT-Brexit
+1248	1256	Londynie	Londyn	LOC	GPE-London
+1349	1353	Unii	Unia	ORG	ORG-European-Union
+1363	1374	Theresa May	Theresa May	PER	PER-Theresa-May
+1447	1455	Brukselą	Bruksela	LOC	GPE-Brussles
+1476	1484	Londynie	Londyn	LOC	GPE-London
+1517	1524	brexitu	Brexit	EVT	EVT-Brexit
+1702	1706	Unii	Unia	ORG	ORG-European-Union
+1751	1766	Bank of America	Bank of America	ORG	ORG-Bank-of-America
+1792	1799	Londynu	Londyn	LOC	GPE-London
+1820	1828	Dublinie	Dublin	LOC	GPE-Dublin
+1859	1863	Unii	Unia	ORG	ORG-European-Union
+1875	1890	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+1985	1992	Londynu	Londyn	LOC	GPE-London
+2206	2210	HSBC	HSBC	ORG	ORG-HSBC
+2218	2223	Paryż	Paryż	LOC	GPE-Paris
+2348	2355	Reutera	Reuter	ORG	ORG-Reuters
+2447	2458	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain

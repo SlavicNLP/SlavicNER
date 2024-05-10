@@ -1,0 +1,20 @@
+0	7	Борисов	Борисов	PER	PER-Boyko-Borisov
+41	55	Великобритания	Великобритания	LOC	GPE-Great-Britain
+66	74	България	България	LOC	GPE-Bulgaria
+117	131	Великобритания	Великобритания	LOC	GPE-Great-Britain
+231	235	НАТО	НАТО	ORG	ORG-NATO
+374	387	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+405	418	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+455	469	Великобритания	Великобритания	LOC	GPE-Great-Britain
+473	475	ЕС	ЕС	ORG	ORG-European-Union
+556	564	България	България	LOC	GPE-Bulgaria
+567	581	Великобритания	Великобритания	LOC	GPE-Great-Britain
+725	745	Обединеното Кралство	Обединеното кралство	LOC	GPE-Great-Britain
+746	760	Великобритания	Великобритания	LOC	GPE-Great-Britain
+763	779	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+832	839	Брекзит	Брекзит	EVT	EVT-Brexit
+841	847	Европа	Европа	LOC	LOC-Europe
+899	905	Дейвис	Дейвис	PER	PER-David-Davis
+924	931	Борисов	Борисов	PER	PER-Boyko-Borisov
+953	970	председателството	Председателство	EVT	EVT-Bulgarian-Presidency-EU
+974	986	Съвета на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union

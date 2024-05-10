@@ -1,0 +1,29 @@
+19	23	Dudy	Duda	PER	PER-Andrzej-Duda
+69	77	Covid-19	Covid-19	EVT	EVT-Covid-19
+79	85	Polacy	Polacy	PER	GPE-Poland
+146	158	koronawirusa	koronawirus	EVT	EVT-Covid-19
+209	221	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+281	289	Covid-19	Covid-19	EVT	EVT-Covid-19
+362	365	TVP	TVP	PRO	PRO-TVP
+402	423	Kancelarii Prezydenta	Kancelaria Prezydenta	ORG	ORG-The-Presidents-Office-Poland
+433	437	Dudy	Duda	PER	PER-Andrzej-Duda
+964	976	koronawirusa	koronawirus	EVT	EVT-Covid-19
+1076	1082	Polskę	Polska	LOC	GPE-Poland
+1150	1163	Andrzeja Dudy	Andrzej Duda	PER	PER-Andrzej-Duda
+1191	1197	Polacy	Polacy	PER	GPE-Poland
+2081	2086	Polek	Polki	PER	GPE-Poland
+2089	2096	Polaków	Polacy	PER	GPE-Poland
+2488	2500	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+2573	2585	koronawirusa	koronawirus	EVT	EVT-Covid-19
+3077	3089	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+3157	3163	Europa	Europa	LOC	LOC-Europe
+3736	3743	Polakom	Polacy	PER	GPE-Poland
+3781	3789	Covid-19	Covid-19	EVT	EVT-Covid-19
+3843	3860	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3985	3989	Duda	Duda	PER	PER-Andrzej-Duda
+4281	4310	Narodowym Programie Szczepień	Narodowy Program Szczepień	PRO	PRO-Narodowy-Proram-Szczepień-Poland
+4311	4323	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+4335	4339	Duda	Duda	PER	PER-Andrzej-Duda
+4536	4548	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+5227	5233	Polski	Polska	LOC	GPE-Poland
+5236	5243	Polaków	Polacy	PER	GPE-Poland

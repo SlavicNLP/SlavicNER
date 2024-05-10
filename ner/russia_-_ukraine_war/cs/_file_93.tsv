@@ -1,0 +1,22 @@
+0	6	Donbas	Donbas	LOC	LOC-Donbass
+28	34	Ruskem	Rusko	LOC	GPE-Russia
+66	75	Zelenskyj	Zelenskyj	PER	PER-Volodymyr-Zelensky
+98	106	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+240	245	Západ	Západ	LOC	LOC-West
+265	271	Ruskem	Rusko	LOC	GPE-Russia
+392	398	Kyjevu	Kyjev	LOC	GPE-Kiev
+553	566	Evropská unie	Evropská unie	ORG	ORG-European-Union
+584	592	Maďarska	Maďarsko	LOC	GPE-Hungary
+645	650	Rusku	Rusko	LOC	GPE-Russia
+730	735	Západ	Západ	LOC	LOC-West
+851	886	Americký Institut pro studium války	Americký Institut pro studium války	ORG	ORG-Institute-for-the-Study-of-War
+888	891	ISW	ISW	ORG	ORG-Institute-for-the-Study-of-War
+983	999	východě Ukrajiny	východ Ukrajiny	LOC	LOC-East-Ukraine
+1125	1131	Moskva	Moskva	LOC	GPE-Moscow
+1174	1190	Luhanské oblasti	Luhanská oblast	LOC	GPE-Luhansk-Oblast
+1285	1298	Severodoněcku	Severodoněck	LOC	GPE-Sievierodonetsk
+1306	1309	ISW	ISW	ORG	ORG-Institute-for-the-Study-of-War
+1328	1355	britské ministerstvo obrany	britské ministerstvo obrany	ORG	ORG-British-Ministry-of-Defense
+1392	1402	Slovjansku	Slovjansk	LOC	LOC-Slovyansk
+1421	1428	Donbasu	Donbas	LOC	LOC-Donbass
+1436	1441	Kyjev	Kyjev	LOC	GPE-Kiev

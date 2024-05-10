@@ -1,0 +1,18 @@
+14	21	Ryanair	Ryanair	ORG	ORG-Ryanair
+56	63	Ryanair	Ryanair	ORG	ORG-Ryanair
+106	125	Vereinigung Cockpit	Vereinigung Cockpit	ORG	ORG-Vereinigung-Cockpit
+127	129	VC	VC	ORG	ORG-Vereinigung-Cockpit
+181	183	VC	VC	ORG	ORG-Vereinigung-Cockpit
+278	287	Američané	Američané	PER	GPE-USA
+290	296	Moskvě	Moskva	LOC	GPE-Moscow
+318	329	kongresmanů	kongresmani	PER	ORG-United-States-Congress
+347	360	Randem Paulem	Rand Paul	PER	PER-Rand-Paul
+366	372	Moskvě	Moskva	LOC	GPE-Moscow
+388	439	zahraničního výboru horní komory ruského parlamentu	zahraniční výbor horní komory ruského parlamentu	ORG	ORG-Federation-Council-Foreign-Affairs-Committee-Russia
+480	498	Sergejem Rjabkovem	Serger Rjabkov	PER	PER-Sergei-Ryabkov
+514	523	Vietnamec	Vietnamec	PER	GPE-Vietnam
+539	548	Vietnamce	Vietnamec	PER	GPE-Vietnam
+654	668	Jaromír Čižnár	Jaromír Čižnár	PER	PER-Jaromir-Ciznar
+680	692	Andrej Kiska	Andrej Kiska	PER	PER-Andrej-Kiska
+702	717	Petr Pellegrini	Petr Pellegrini	PER	PER-Peter-Pellegrini
+740	752	Andrej Danko	Andrej Danko	PER	PER-Andrej-Danko

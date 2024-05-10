@@ -1,0 +1,28 @@
+9	18	Sloveniji	Slovenija	LOC	GPE-Slovenia
+34	42	COVID-19	COVID-19	EVT	EVT-Covid-19
+91	104	koronavirusom	koronavirus	EVT	EVT-Covid-19
+107	116	Sloveniji	Slovenija	LOC	GPE-Slovenia
+348	373	Vlada republike Slovenije	Vlada republike Slovenije	ORG	ORG-Government-of-Slovenia
+432	451	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+486	496	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+498	509	koronavirus	koronavirus	EVT	EVT-Covid-19
+516	525	Sloveniji	Slovenija	LOC	GPE-Slovenia
+575	614	Nacionalnega inštituta za javno zdravje	Nacionalni inštitut za javno zdravje	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+635	663	Zakon o nalezljivih boleznih	Zakon o nalezljivih boleznih	PRO	PRO-Infectious-Diseases-Act-Slovenia
+760	768	Vlada RS	Vlada RS	ORG	ORG-Government-of-Slovenia
+975	983	Vlada RS	Vlada RS	ORG	ORG-Government-of-Slovenia
+1263	1271	Vlade RS	Vlada RS	ORG	ORG-Government-of-Slovenia
+1346	1355	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1669	1673	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+2479	2491	DSO Hrastnik	DSO Hrastnik	LOC	ORG-DSO-Hrastnik
+2513	2521	Hrastnik	Hrastnik	LOC	GPE-Hrastnik
+2542	2549	Kočevje	Kočevje	LOC	GPE-Kočevje
+2551	2559	Lukovica	Lukovica	LOC	GPE-Lukovica
+2561	2579	Šmartno pri Litiji	Šmartno pri Litiji	LOC	GPE-Šmartno-pri-Litiji
+2581	2589	Trbovlje	Trbovlje	LOC	GPE-Trbovlje
+2591	2606	Zagorje ob Savi	Zagorje ob Savi	LOC	GPE-Zagorje-ob-Savi
+2745	2753	COVID-19	COVID-19	EVT	EVT-Covid-19
+2807	2823	Boštjan Koritnik	Boštjan Koritnik	PER	PER-Boštjan-Koritnik
+2909	2928	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+3015	3018	GPS	GPS	PRO	PRO-GPS
+3141	3145	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health

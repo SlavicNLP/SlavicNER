@@ -1,0 +1,52 @@
+94	98	Коми	Коми	LOC	GPE-Republic-Komi
+135	147	коронавируса	коронавирус	EVT	EVT-Covid-19
+152	156	Коми	Коми	LOC	GPE-Republic-Komi
+193	205	коронавируса	коронавирус	EVT	EVT-Covid-19
+210	225	республику Коми	республика Коми	LOC	GPE-Republic-Komi
+262	274	коронавируса	коронавирус	EVT	EVT-Covid-19
+316	327	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+342	354	С.-ПЕТЕРБУРГ	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+365	376	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+380	395	республику Коми	республика Коми	LOC	GPE-Republic-Komi
+432	444	коронавируса	коронавирус	EVT	EVT-Covid-19
+488	503	республику Коми	республика Коми	LOC	GPE-Republic-Komi
+522	535	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+537	548	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+691	702	"""Госуслуги"""	Госуслуги	ORG	ORG-Gosuslugi
+798	806	COVID-19	коронавирус	EVT	EVT-Covid-19
+906	910	Коми	Коми	LOC	GPE-Republic-Komi
+927	940	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1291	1299	COVID-19	коронавирус	EVT	EVT-Covid-19
+1383	1391	COVID-19	коронавирус	EVT	EVT-Covid-19
+1422	1430	COVID-19	коронавирус	EVT	EVT-Covid-19
+1433	1439	России	Россия	LOC	GPE-Russia
+1471	1489	стопкоронавирус.рф	стопкоронавирус.рф	PRO	PRO-Stop-Coronavirus
+1504	1511	россиян	россияне	PER	GPE-Russia
+1515	1523	covid-19	covid-19	EVT	EVT-Covid-19
+1533	1544	"""спутник v"""	"""спутник v"""	PRO	PRO-Sputnik-V
+1546	1557	коронавирус	коронавирус	EVT	EVT-Covid-19
+1560	1566	россии	Россия	LOC	GPE-Russia
+1568	1579	коронавирус	коронавирус	EVT	EVT-Covid-19
+1580	1588	covid-19	covid-19	EVT	EVT-Covid-19
+1590	1605	республика коми	республика Коми	LOC	GPE-Republic-Komi
+1607	1619	коронавирусы	коронавирус	EVT	EVT-Covid-19
+1655	1659	Коми	Коми	LOC	GPE-Republic-Komi
+1696	1708	коронавируса	коронавирус	EVT	EVT-Covid-19
+1711	1723	С.-ПЕТЕРБУРГ	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+1734	1745	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+1749	1764	республику Коми	республика Коми	LOC	GPE-Republic-Komi
+1801	1813	коронавируса	коронавирус	EVT	EVT-Covid-19
+1860	1875	республику Коми	республика Коми	LOC	GPE-Republic-Komi
+1894	1907	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+1909	1920	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+2063	2074	"""Госуслуги"""	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+2170	2178	COVID-19	COVID-19	EVT	EVT-Covid-19
+2281	2285	Коми	республика Коми	LOC	GPE-Republic-Komi
+2302	2315	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2669	2677	COVID-19	COVID-19	EVT	EVT-Covid-19
+2761	2769	COVID-19	COVID-19	EVT	EVT-Covid-19
+2803	2811	COVID-19	COVID-19	EVT	EVT-Covid-19
+2814	2820	России	Россия	LOC	GPE-Russia
+2852	2870	стопкоронавирус.рф	стопкоронавирус.рф	PRO	PRO-Stop-Coronavirus
+2930	3035	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-RussiaToday
+3037	3057	МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today

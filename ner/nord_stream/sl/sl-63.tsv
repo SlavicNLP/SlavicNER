@@ -1,0 +1,61 @@
+0	7	Kremelj	Kremelj	ORG	ORG-Kremlin
+9	22	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+61	67	Rusija	Rusija	LOC	GPE-Russia
+105	118	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+179	186	Kremlja	Kremelj 	ORG	ORG-Kremlin
+195	198	ZDA	ZDA	LOC	GPE-USA
+242	258	Ameriški kongres	Ameriški kongres	ORG	ORG-United-States-Congress
+392	404	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+408	414	Moskva	Moskva	LOC	GPE-Moscow
+484	491	Berlinu	Berlin	LOC	GPE-Berlin
+500	506	Parizu	Pariz	LOC	GPE-Paris
+528	531	ZDA	ZDA	LOC	GPE-USA
+573	576	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+605	612	Kremlja	Kremelj 	ORG	ORG-Kremlin
+613	627	Dmitrij Peskov	Dmitrij Peskov	PER	PER-Dmitry-Peskov
+665	669	Tass	Tass	ORG	ORG-TASS-Agency
+925	938	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+1048	1061	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1066	1070	Iran	Iran	LOC	GPE-Iran
+1155	1158	ZDA	ZDA	LOC	GPE-USA
+1161	1177	Ameriški kongres	Ameriški kongres	ORG	ORG-United-States-Congress
+1235	1243	Pentagon	Pentagon	ORG	ORG-The-Pentagon
+1309	1316	Nemčije	Nemčija	LOC	GPE-Germany
+1320	1327	Turčije	Turčija	LOC	GPE-Turkey
+1430	1436	Trumpu	Trump	PER	PER-Donald-Trump
+1486	1489	ZDA	ZDA	LOC	GPE-USA
+1504	1517	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1553	1560	Nemčije	Nemčija	LOC	GPE-Germany
+1621	1624	ZDA	ZDA	LOC	GPE-USA
+1627	1634	Nemčijo	Nemčija	LOC	GPE-Germany
+1638	1644	Evropo	Evropa	LOC	LOC-Europe
+1677	1687	Turški tok	Turški tok	PRO	PRO-TurkStream
+1719	1731	Črnega morja	Črno morje	LOC	LOC-Black-Sea
+1734	1741	Turčijo	Turčija	LOC	GPE-Turkey
+1754	1768	vzhodno Evropo	vzhodna Evropa	LOC	LOC-Eastern-Europe
+1931	1944	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2025	2032	Gazprom	Gazprom	ORG	ORG-Gazprom
+2050	2057	Moody’s	Moody’s	ORG	ORG-Moody's-Investors-Service
+2080	2085	Tassa	Tass	ORG	ORG-TASS-Agency
+2163	2171	Gazproma	Gazprom	ORG	ORG-Gazprom
+2176	2187	Severni tok	Severni tok	PRO	PRO-Nord-Stream-1
+2220	2233	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+2290	2301	Wintershall	Wintershall	ORG	ORG-Wintershall
+2303	2309	Uniper	Uniper	ORG	ORG-Uniper
+2311	2314	OMV	OMV	ORG	ORG-OMV
+2316	2321	Engie	Engie	ORG	ORG-Engie
+2325	2342	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+2447	2460	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
+2483	2493	Gazpromovi	Gazprom	ORG	ORG-Gazprom
+2598	2606	Gazproma	Gazprom	ORG	ORG-Gazprom
+2861	2876	Baltskim morjem	Baltsko morje	LOC	LOC-Baltic-Sea
+2878	2884	Rusijo	Rusija	LOC	GPE-Russia
+2888	2895	Nemčijo	Nemčija	LOC	GPE-Germany
+2928	2934	Rusije	Rusija	LOC	GPE-Russia
+2936	2942	Finske	Finska	LOC	GPE-Finland
+2944	2951	Švedske	Švedska	LOC	GPE-Sweden
+2953	2959	Danske	Danska	LOC	GPE-Denmark
+2963	2970	Nemčije	Nemčija	LOC	GPE-Germany
+2994	3002	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+3101	3108	Nemčijo	Nemčija	LOC	GPE-Germany
+3112	3118	Rusije	Rusija	LOC	GPE-Russia

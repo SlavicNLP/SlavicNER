@@ -1,0 +1,25 @@
+80	83	EBC	EBC	ORG	ORG-European-Central-Bank
+146	153	Brexitu	Brexit	EVT	EVT-Brexit
+191	204	Banku Japonii	Bank Japonii	ORG	ORG-BoJ-Bank-of-Japan
+217	226	Eurolandu	Euroland	LOC	LOC-Eurozone
+242	259	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+272	286	Nowej Zelandii	Nowa Zelandia	LOC	GPE-New-Zealand
+464	477	Banku Japonii	Bank Japonii	ORG	ORG-BoJ-Bank-of-Japan
+837	840	BoJ	BoJ	ORG	ORG-BoJ-Bank-of-Japan
+923	926	EBC	EBC	ORG	ORG-European-Central-Bank
+961	967	Draghi	Draghi	PER	PER-Mario-Draghi
+1107	1116	Draghiego	Draghi	PER	PER-Mario-Draghi
+1262	1265	EBC	EBC	ORG	ORG-European-Central-Bank
+1360	1369	Eurolandu	Euroland	LOC	LOC-Eurozone
+1533	1540	Brexitu	Brexit	EVT	EVT-Brexit
+1662	1669	Londynu	Londyn	LOC	GPE-London
+1672	1680	Brukselą	Bruksela	LOC	GPE-Brussles
+1818	1825	Brexitu	Brexit	EVT	EVT-Brexit
+1831	1846	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1877	1885	Norwegia	Norwegia	LOC	GPE-Norway
+2062	2064	UE	UE	ORG	ORG-European-Union
+2103	2110	Wyspach	Wyspy	LOC	GPE-Great-Britain
+2134	2141	Brexitu	Brexit	EVT	EVT-Brexit
+2181	2192	Theresa May	Theresa May	PER	PER-Theresa-May
+2245	2252	Brexitu	Brexit	EVT	EVT-Brexit
+2756	2760	RBNZ	RBNZ	ORG	ORG-RBNZ

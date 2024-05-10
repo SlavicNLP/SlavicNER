@@ -1,0 +1,45 @@
+6	13	brexitu	brexit	EVT	EVT-Brexit
+30	38	Británie	Británie	LOC	GPE-Great-Britain
+61	76	Severního Irska	Serverní Irsko	LOC	GPE-Northern-Ireland
+103	118	Severního Irska	Serverní Irsko	LOC	GPE-Northern-Ireland
+136	144	Británie	Británie	LOC	GPE-Great-Britain
+185	217	ministerstva pro vystoupení z EU	ministerstvo pro vystoupení z EU	ORG	ORG-Ministry-of-Brexity
+227	234	Reuters	Reuters	ORG	ORG-Reuters
+236	242	Brusel	Brusel	LOC	GPE-Brussles
+255	263	Londýnem	Londýn	LOC	GPE-London
+332	345	Severní Irsko	Serverní Irsko	LOC	GPE-Northern-Ireland
+382	384	EU	EU	ORG	ORG-European-Union
+443	449	Londýn	Londýn	LOC	GPE-London
+493	507	Severním Irsku	Serverní Irsko	LOC	GPE-Northern-Ireland
+609	615	Irskem	Irsko	LOC	GPE-Ireland
+642	656	Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+670	683	The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+686	693	Bruselu	Brusel	LOC	GPE-Brussles
+777	785	Londýnem	Londýn	LOC	GPE-London
+788	796	Bruselem	Brusel	LOC	GPE-Brussles
+801	816	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+911	917	Londýn	Londýn	LOC	GPE-London
+1061	1069	Británii	Británie	LOC	GPE-Great-Britain
+1148	1156	Británie	Británie	LOC	GPE-Great-Britain
+1170	1172	EU	EU	ORG	ORG-European-Union
+1340	1342	EU	EU	ORG	ORG-European-Union
+1398	1411	The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+1626	1629	ČTK	ČTK	ORG	ORG-CTK
+1706	1714	Británie	Británie	LOC	GPE-Great-Britain
+1717	1719	EU	EU	ORG	ORG-European-Union
+1743	1750	brexitu	brexit	EVT	EVT-Brexit
+1812	1832	britského parlamentu	britský parlament	ORG	ORG-British-Parlament
+1886	1899	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1946	1953	brexitu	brexit	EVT	EVT-Brexit
+1964	1966	EU	EU	ORG	ORG-European-Union
+2092	2094	EU	EU	ORG	ORG-European-Union
+2097	2104	Londýna	Londýn	LOC	GPE-London
+2217	2232	Financial Times	Financial Times	PRO	PRO-Financial-Times
+2260	2271	David Davis	David Davis	PER	PER-David-Davis
+2285	2291	Londýn	Londýn	LOC	GPE-London
+2360	2376	Evropskou komisi	Evropská komise	ORG	ORG-European-Commission
+2495	2499	EU27	EU27	ORG	ORG-European-Union
+2563	2571	Británii	Británie	LOC	GPE-Great-Britain
+2773	2787	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+2802	2810	France 2	France 2	PRO	PRO-France-2-TV
+2841	2849	Británie	Británie	LOC	GPE-Great-Britain

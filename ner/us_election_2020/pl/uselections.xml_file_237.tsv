@@ -1,0 +1,80 @@
+0	25	Wybory prezydenckie w USA	Wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+82	85	USA	USA	LOC	GPE-USA
+189	201	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+204	213	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+285	296	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+298	317	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+319	327	Arizonie	Arizona	LOC	GPE-Arizona
+329	337	Nevadzie	Nevada	LOC	GPE-Nevada
+340	347	Georgii	Georgie	LOC	GPE-Georgia-US-state
+446	456	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+502	511	Biały Dom	Biały Dom	LOC	LOC-White-House
+532	540	Arizonie	Arizona	LOC	GPE-Arizona
+542	550	Nevadzie	Nevada	LOC	GPE-Nevada
+552	559	Georgii	Georgie	LOC	GPE-Georgia-US-state
+561	572	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+574	580	Alasce	Alaska	LOC	GPE-Alaska
+583	602	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+654	663	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+709	721	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+745	764	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+807	813	Alasce	Alaska	LOC	GPE-Alaska
+905	915	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+937	946	Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+963	971	Michigan	Michigan	LOC	GPE-Michigan
+976	985	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+993	1002	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+1053	1068	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1111	1123	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1152	1161	Florydzie	Floryda	LOC	GPE-Florida
+1163	1168	Trump	Trump	PER	PER-Donald-Trump
+1280	1308	wyborach prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+1310	1322	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+1324	1336	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1347	1355	Teksasie	Teksas	LOC	GPE-Texas
+1393	1405	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+1443	1447	Ohio	Ohio	LOC	GPE-Ohio
+1584	1604	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1606	1615	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1632	1650	zachodnim wybrzeżu	zachodnie wybrzeże	LOC	GPE-West-Bank
+1652	1662	Kalifornia	Kalifornia	LOC	GPE-California
+1664	1670	Oregon	Oregon	LOC	GPE-Oregon
+1672	1682	Waszyngton	Waszyngton	LOC	GPE-WashingtonDC
+1701	1712	Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+1714	1722	Illinois	Illinois	LOC	GPE-Illionis
+1728	1747	Dystrykcie Kolumbii	Dystrykt Kolumbia	LOC	GPE-District-of-Columbia
+1767	1779	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1806	1825	Głębokiego Południa	Głębokie Południe	LOC	LOC-Deep-South
+1827	1835	Luizjana	Luizjana	LOC	GPE-Louisiana
+1837	1848	Mississippi	Mississippi	LOC	GPE-Mississippi
+1850	1857	Alabama	Alabama	LOC	GPE-USA-Alabama
+1859	1878	Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+1883	1891	Nebrasce	Nebraska	LOC	GPE-Nebraska
+1923	1928	Trump	Trump	PER	PER-Donald-Trump
+1934	1943	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1996	2005	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2022	2030	Michigan	Michigan	LOC	GPE-Michigan
+2040	2049	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2121	2133	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2142	2154	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+2168	2179	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+2183	2194	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+2212	2221	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2239	2245	Trumpa	Trump	PER	PER-Donald-Trump
+2260	2271	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+2377	2389	Joego Bidena	Joe Biden	PER	PER-Joe-Biden
+2691	2702	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+2770	2781	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+2923	2935	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+2970	2998	wyborach prezydenckich w USA	wybory prezydenckie w USA	EVT	EVT-2020-United-States-Presidential-Election
+3041	3055	New York Times	New York Times	PRO	PRO-The-New-York-Times
+3194	3197	USA	USA	LOC	GPE-USA
+3238	3241	NYT	NYT	PRO	PRO-The-New-York-Times
+3306	3318	koronawirusa	koronawirus	EVT	EVT-Covid-19
+3357	3367	Amerykanów	Amerykanie	PER	GPE-USA
+3419	3435	(Donalda) Trumpa	(Donald) Trump	PER	PER-Donald-Trump
+3438	3450	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+3499	3511	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+3610	3615	Obamy	Obama	PER	PER-Barack-Obama
+3626	3636	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+3638	3647	Joe Biden	Joe Biden	PER	PER-Joe-Biden

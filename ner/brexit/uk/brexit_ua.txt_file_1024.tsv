@@ -1,0 +1,18 @@
+6	16	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+98	112	Великобританії	Великобританія	LOC	GPE-Great-Britain
+113	123	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+193	195	ЄС	ЄС	LOC	ORG-European-Union
+304	314	Daily Mail	Daily Mail	ORG	ORG-Daily-Mail
+316	319	Мей	Мей	PER	PER-Theresa-May
+381	387	Brexit	Brexit	EVT	EVT-Brexit
+407	412	Філіп	Філіп	PER	PER-Philip
+716	718	ЄС	ЄС	LOC	ORG-European-Union
+863	868	Філіп	Філіп	PER	PER-Philip
+915	923	Penderyn	Penderyn	ORG	ORG-Penderyn
+962	965	Мей	Мей	PER	PER-Theresa-May
+982	999	Українські Новини	Українські Новини	ORG	ORG-Ukrainian-News
+1001	1019	британський Кабмін	британський Кабмін	ORG	ORG-British-Cabinet
+1035	1049	Великобританії	Великобританія	LOC	GPE-Great-Britain
+1053	1059	Brexit	Brexit	EVT	EVT-Brexit
+1093	1103	Терези Мей	Тереза Мей	PER	PER-Theresa-May
+1115	1122	Бельгії	Бельгія	LOC	GPE-Belgium

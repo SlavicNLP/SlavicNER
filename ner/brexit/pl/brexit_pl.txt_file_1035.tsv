@@ -1,0 +1,52 @@
+0	3	RMF	RMF	PRO	PRO-RMF
+34	42	Brukseli	Bruksela	LOC	GPE-Brussles
+72	74	KE	KE	ORG	ORG-European-Commission
+75	97	Jean-Claude’a Junckera	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+130	132	UE	UE	ORG	ORG-European-Union
+200	206	Węgrów	Węgrzy	PER	GPE-Hungary
+258	270	Viktor Orban	Viktor Orban	PER	PER-Viktor-Orban
+402	408	Polskę	Polska	LOC	GPE-Poland
+446	452	RMF FM	RMF FM	PRO	PRO-RMF
+552	560	Junckera	Juncker	PER	PER-Jean-Claude-Juncker
+585	603	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+631	639	Brukseli	Bruksela	LOC	GPE-Brussles
+666	683	Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+711	717	Polska	Polska	LOC	GPE-Poland
+890	898	Junckera	Juncker	PER	PER-Jean-Claude-Juncker
+995	997	KE	KE	ORG	ORG-European-Commission
+1018	1033	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+1050	1057	Francja	Francja	LOC	GPE-France
+1257	1264	brexitu	Brexit	EVT	EVT-Brexit
+1513	1521	Południa	Południe	LOC	LOC-South-countries
+1527	1533	Grecję	Grecja	LOC	GPE-Greece
+1553	1559	Orbana	Orban	PER	PER-Viktor-Orban
+1561	1574	Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+1577	1584	Macrona	Macron	PER	PER-Emmanuel-Macron
+1595	1597	KE	KE	ORG	ORG-European-Commission
+1818	1838	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+2102	2104	KE	KE	ORG	ORG-European-Commission
+2105	2121	Frans Timmermans	Frans Timmermans	PER	PER-Frans-Timmermans
+2148	2154	RMF FM	RMF FM	PRO	PRO-RMF
+2232	2250	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+2321	2331	Timmermans	Timmermans	PER	PER-Frans-Timmermans
+2412	2432	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+2441	2452	Timmermansa	Timmermans	PER	PER-Frans-Timmermans
+2531	2537	RMF FM	RMF FM	PRO	PRO-RMF
+2611	2619	Holandii	Holandia	LOC	GPE-Holland
+2648	2656	Holandia	Holandia	LOC	GPE-Holland
+2665	2672	Szwecją	Szwecja	LOC	GPE-Sweden
+2674	2679	Danią	Dania	LOC	GPE-Denmark
+2682	2689	Austrią	Austria	LOC	GPE-Austria
+2718	2720	KE	KE	ORG	ORG-European-Commission
+2803	2811	brexitem	Brexit	EVT	EVT-Brexit
+2915	2923	Holandii	Holandia	LOC	GPE-Holland
+3086	3096	Timmermans	Timmermans	PER	PER-Frans-Timmermans
+3168	3190	Wspólną Politykę Rolną	Wspólna Polityka Rolna	PRO	PRO-CAP-Common-Agricultural-Policy
+3222	3228	Polski	Polska	LOC	GPE-Poland
+3272	3278	RMF FM	RMF FM	PRO	PRO-RMF
+3280	3290	Timmermans	Timmermans	PER	PER-Frans-Timmermans
+3341	3353	Phila Hogana	Phil Hogan	PER	PER-Phil-Hogan
+3551	3553	KE	KE	ORG	ORG-European-Commission
+3578	3589	Timmermansa	Timmermans	PER	PER-Frans-Timmermans
+3622	3624	UE	UE	ORG	ORG-European-Union
+3733	3735	KE	KE	ORG	ORG-European-Commission

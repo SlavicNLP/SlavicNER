@@ -1,0 +1,15 @@
+5	10	Тръмп	Тръмп	PER	PER-Donald-Trump
+16	22	Байдън	Байдън	PER	PER-Joe-Biden
+71	74	САЩ	САЩ	LOC	GPE-USA
+181	186	Тръмп	Тръмп	PER	PER-Donald-Trump
+210	216	Байдън	Байдън	PER	PER-Joe-Biden
+294	304	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+412	439	Президентските избори в САЩ	Президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+492	504	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+558	564	Байдън	Байдън	PER	PER-Joe-Biden
+673	676	GSA	GSA	ORG	ORG-General-Services-Administration
+677	688	Емили Мърфи	Емили Мърфи	PER	PER-Emily-Murphy
+693	699	Туитър	Туитър	PRO	PRO-Twitter
+701	713	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+774	779	Мърфи	Мърфи	PER	PER-Emily-Murphy
+848	860	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump

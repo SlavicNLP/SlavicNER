@@ -1,0 +1,26 @@
+0	6	Меркел	Меркел	PER	PER-Angela-Merkel
+13	18	Полша	Полша	LOC	GPE-Poland
+21	28	Украйна	Украйна	LOC	GPE-Ukraine
+32	47	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+108	116	Германия	Германия	LOC	GPE-Germany
+119	124	Полша	Полша	LOC	GPE-Poland
+179	194	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+214	219	Русия	Русия	LOC	GPE-Russia
+222	230	Германия	Германия	LOC	GPE-Germany
+244	258	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+265	271	Берлин	Берлин	LOC	GPE-Berlin
+386	399	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+414	421	Ройтерс	Ройтерс	ORG	ORG-Reuters
+441	458	Матеуш Моравиецки	Матеуш Моравиецки	PER	PER-Mateusz-Morawiecki
+467	470	САЩ	САЩ	LOC	GPE-USA
+571	584	Рекс Тилърсън	Рекс Тилърсън	PER	PER-Rex-Tillerson
+613	616	САЩ	САЩ	LOC	GPE-USA
+669	675	Европа	Европа	LOC	LOC-Europe
+718	731	Северен поток	Северен поток	PRO	PRO-Nord-Stream-2
+744	750	Меркел	Меркел	PER	PER-Angela-Merkel
+780	790	Моравиецки	Моравиецки	PER	PER-Mateusz-Morawiecki
+793	799	Берлин	Берлин	LOC	GPE-Berlin
+916	923	Украйна	Украйна	LOC	GPE-Ukraine
+991	1006	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1067	1075	money.bg	money.bg	PRO	PRO-money.bg
+1077	1082	Днес+	Днес+	ORG	ORG-DnesPlus

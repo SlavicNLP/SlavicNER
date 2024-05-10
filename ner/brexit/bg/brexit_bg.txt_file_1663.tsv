@@ -1,0 +1,27 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+44	46	ЕС	ЕС	ORG	ORG-European-Union
+52	59	Брекзит	Брекзит	EVT	EVT-Brexit
+68	74	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+121	135	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+151	165	Великобритания	Великобритания	LOC	GPE-Great-Britain
+200	216	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+257	264	Брекзит	Брекзит	EVT	EVT-Brexit
+276	283	Ройтерс	Ройтерс	ORG	ORG-Reuters
+287	307	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+360	380	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+383	385	ЕС	ЕС	ORG	ORG-European-Union
+433	439	Европа	Европа	LOC	LOC-Europe
+509	525	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+537	543	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+572	580	Ковънтри	Ковънтри	LOC	GPE-Coventry
+610	620	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+656	672	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+752	774	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+794	814	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+892	898	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+915	918	Мей	Мей	PER	PER-Theresa-May
+992	994	ЕС	ЕС	ORG	ORG-European-Union
+1000	1007	Брекзит	Брекзит	EVT	EVT-Brexit
+1036	1050	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1133	1138	Китай	Китай	LOC	GPE-China
+1141	1146	Индия	Индия	LOC	GPE-India

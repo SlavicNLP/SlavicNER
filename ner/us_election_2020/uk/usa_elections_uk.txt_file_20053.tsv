@@ -1,0 +1,42 @@
+0	12	Вибори в США	Вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+14	19	Трамп	Трамп	PER	PER-Donald-Trump
+28	35	Байдена	Байден	PER	PER-Joe-Biden
+38	45	Reuters	Reuters	ORG	ORG-Reuters
+81	88	Reuters	Reuters	ORG	ORG-Reuters
+90	95	Трамп	Трамп	PER	PER-Donald-Trump
+119	125	Байден	Байден	PER	PER-Joe-Biden
+184	190	Трампа	Трамп	PER	PER-Donald-Trump
+236	243	REUTERS	REUTERS	ORG	ORG-Reuters
+259	282	Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+283	296	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+336	347	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+402	409	Reuters	Reuters	ORG	ORG-Reuters
+452	459	Байдена	Байден	PER	PER-Joe-Biden
+579	585	Трампа	Трамп	PER	PER-Donald-Trump
+661	668	Reuters	Reuters	ORG	ORG-Reuters
+682	687	Трамп	Трамп	PER	PER-Donald-Trump
+698	705	Байдена	Байден	PER	PER-Joe-Biden
+749	756	Флориді	Флорида	LOC	GPE-Florida
+801	809	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+843	848	Айові	Айова	LOC	GPE-Iowa
+881	899	Північній Кароліні	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+933	939	Техасі	Техас	LOC	GPE-Texas
+1018	1023	Огайо	Огайо	LOC	GPE-Ohio
+1064	1069	Трамп	Трамп	PER	PER-Donald-Trump
+1097	1109	Вибори в США	Вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+1123	1149	Президентські вибори в США	Президентські вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+1182	1187	Трамп	Трамп	PER	PER-Donald-Trump
+1301	1304	США	США	LOC	GPE-USA
+1305	1315	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1364	1371	Трампом	Трамп	PER	PER-Donald-Trump
+1374	1382	Байденом	Байден	PER	PER-Joe-Biden
+1418	1423	Трамп	Трамп	PER	PER-Donald-Trump
+1436	1447	коронавірус	коронавірус	EVT	EVT-Covid-19
+1534	1540	Байден	Байден	PER	PER-Joe-Biden
+1552	1558	Трампа	Трамп	PER	PER-Donald-Trump
+1639	1644	Трамп	Трамп	PER	PER-Donald-Trump
+1678	1685	Байдена	Байден	PER	PER-Joe-Biden
+1761	1764	США	США	LOC	GPE-USA
+2072	2079	України	Україна	LOC	GPE-Ukraine
+2099	2104	УНІАН	УНІАН	ORG	ORG-UNIAN
+2107	2115	Telegram	Telegram	PRO	PRO-Telegram

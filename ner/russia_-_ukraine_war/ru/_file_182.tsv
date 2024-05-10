@@ -1,0 +1,66 @@
+40	42	ЕС	ЕС	ORG	ORG-European-Union
+46	56	Белоруссии	Белоруссия	LOC	GPE-Belarus
+129	131	ЕС	ЕС	ORG	ORG-European-Union
+138	148	Белоруссию	Белоруссия	LOC	GPE-Belarus
+160	168	Известия	Известия	PRO	PRO-Izvestia
+181	186	Минск	Минск	LOC	GPE-Minsk
+337	347	Белоруссию	Белоруссия	LOC	GPE-Belarus
+387	389	ЕС	ЕС	ORG	ORG-European-Union
+392	394	РФ	РФ	LOC	GPE-Russia
+623	632	Известиям	Известия	PRO	PRO-Izvestia
+677	687	Минсельхоз	Минсельхоз	ORG	ORG-Ministry-of-Agriculture-Russia
+736	742	Европы	Европа	LOC	LOC-Europe
+749	759	Белоруссию	Белоруссия	LOC	GPE-Belarus
+773	782	Известиям	Известия	PRO	PRO-Izvestia
+970	979	Известиям	Известия	PRO	PRO-Izvestia
+1053	1059	России	Россия	LOC	GPE-Russia
+1062	1072	Белоруссии	Белоруссия	LOC	GPE-Belarus
+1140	1146	Европы	Европа	LOC	LOC-Europe
+1164	1166	ЕС	ЕС	ORG	ORG-European-Union
+1350	1360	Белоруссия	Белоруссия	LOC	GPE-Belarus
+1416	1418	ЕС	ЕС	ORG	ORG-European-Union
+1501	1507	Европы	Европа	LOC	LOC-Europe
+1542	1551	Известиям	Известия	PRO	PRO-Izvestia
+1567	1578	Руспродсоюз	Руспродсоюз	ORG	ORG-Rusprodsoyuz
+1795	1802	Минском	Минск	LOC	GPE-Minsk
+1847	1849	ЕС	ЕС	ORG	ORG-European-Union
+1864	1874	Белоруссии	Белоруссия	LOC	GPE-Belarus
+1914	1923	Известиям	Известия	PRO	PRO-Izvestia
+1928	1938	Союзмолоке	Союзмолоко	ORG	ORG-National-Dairy-Producers-Union-SOYUZMOLOKO
+2131	2142	Белоруссией	Белоруссия	LOC	GPE-Belarus
+2170	2176	Европы	Европа	LOC	LOC-Europe
+2205	2211	России	Россия	LOC	GPE-Russia
+2320	2328	Русбренд	Русбренд	ORG	ORG-Rusbrand
+2469	2479	Союзмолоке	Союзмолоко	ORG	ORG-National-Dairy-Producers-Union-SOYUZMOLOKO
+2545	2554	Русбренде	Русбренд	ORG	ORG-Rusbrand
+2734	2745	Руспродсоюз	Руспродсоюз	ORG	ORG-Rusprodsoyuz
+2758	2768	Минсельхоз	Минсельхоз	ORG	ORG-Ministry-of-Agriculture-Russia
+2976	2990	Дмитрий Леонов	Дмитрий Леонов	PER	PER-Dmitriy-Leonov
+3333	3339	Европы	Европа	LOC	LOC-Europe
+3452	3488	Северо-Западного федерального округа	Северо-Западный федеральный округ	LOC	LOC-Northwestern-Federal-District-Russia
+3553	3570	Михаилу Мишустину	Михаил Мишустин	PER	PER-Mikhail-Mishustin
+3625	3631	Россию	Россия	LOC	GPE-Russia
+3838	3851	Выборг-транса	Выборг-транс	ORG	ORG-Vyborg-Trans
+3855	3864	БВ Транса	БВ Транса	ORG	ORG-BV-Trans
+3868	3878	Арко-Турса	Арко-Турс	ORG	ORG-Arko-Turs
+3882	3891	Нордленда	Нордленд	ORG	ORG-Nordland
+3894	3898	СЗТК	СЗТК	ORG	ORG-Northwest-Trading-Company
+3901	3910	Евростара	Евростар	ORG	ORG-Eurostar
+3914	3923	ДСВ Роуда	ДСВ Роуд	ORG	ORG-DSV-Road
+4092	4094	РФ	РФ	LOC	GPE-Russia
+4265	4274	Известиям	Известия	PRO	PRO-Izvestia
+4331	4340	Минтрансе	Минтранс	ORG	ORG-Ministry-of-Transport-Russia
+4365	4377	Минпромторга	Минпромторг	ORG	ORG-Ministry-of-Industry-and-Trade-of-the-Russian-Federation
+4379	4390	Минсельхоза	Минсельхоз	ORG	ORG-Ministry-of-Agriculture-Russia
+4393	4396	ФТС	ФТС	ORG	ORG-Federal-Customs-Service-of-Russia
+4444	4450	Россию	Россия	LOC	GPE-Russia
+4480	4539	Ассоциации международных автомобильных перевозчиков (АСМАП)	Ассоциация международных автомобильных перевозчиков (АСМАП)	ORG	ORG-ASMAP
+4651	4661	Белоруссии	Белоруссия	LOC	GPE-Belarus
+4689	4694	АСМАП	АСМАП	ORG	ORG-ASMAP
+4732	4738	Россия	Россия	LOC	GPE-Russia
+4786	4788	ЕС	ЕС	ORG	ORG-European-Union
+4817	4825	Известий	Известия	PRO	PRO-Izvestia
+4876	4885	Минтранса	Минтранс	ORG	ORG-Ministry-of-Transport-Russia
+4897	4909	Минпромторге	Минпромторг	ORG	ORG-Ministry-of-Industry-and-Trade-of-the-Russian-Federation
+4912	4915	ФТС	ФТС	ORG	ORG-Federal-Customs-Service-of-Russia
+4928	4936	Известий	Известия	PRO	PRO-Izvestia

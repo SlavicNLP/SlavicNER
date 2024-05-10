@@ -1,0 +1,31 @@
+2	17	Mariborskem UKC	Mariborski UKC	LOC	ORG-University-Medical-Centre-Maribor
+78	86	covid-19	covid-19	EVT	EVT-Covid-19
+136	144	covid-19	covid-19	EVT	EVT-Covid-19
+176	187	UKC Maribor	UKC Maribor	LOC	ORG-University-Medical-Centre-Maribor
+244	252	covid-19	covid-19	EVT	EVT-Covid-19
+377	388	UKC Maribor	UKC Maribor	LOC	ORG-University-Medical-Centre-Maribor
+660	665	covid	covid	EVT	EVT-Covid-19
+680	691	Vojko Berce	Vojko Berce	PER	PER-Vojko-Berce
+717	751	Klinike za pediatrijo  UKC Maribor	Klinika za pediatrijo  UKC Maribor	LOC	ORG-Division-of-Paediatrics-University-Medical-Centre-Maribor
+772	804	pediatričnem oddelku UKC Maribor	pediatrični oddelek UKC Maribor	LOC	ORG-Division-of-Paediatrics-University-Medical-Centre-Maribor
+1139	1148	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+1177	1183	covidu	covid	EVT	EVT-Covid-19
+1704	1709	Berce	Berce	PER	PER-Vojko-Berce
+1936	1945	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2158	2189	klinika za pediatrjo v Mariboru	klinika za pediatrijo v Mariboru	LOC	LOC-Division-of-Paediatrics-University-Medical-Centre-Maribor
+2212	2217	Berce	Berce	PER	PER-Vojko-Berce
+2484	2489	covid	covid	EVT	EVT-Covid-19
+2640	2646	covidu	covid	EVT	EVT-Covid-19
+2749	2795	pediatričnega večsistemskega vnetnega sindroma	pediatrični večsistemski vnetni sindrom	EVT	EVT-Multisystem-Inflammatory-Syndrome-in-Children
+2797	2842	Multisystem inflammatory syndrome in children	Multisystem inflammatory syndrome in children	EVT	EVT-Multisystem-Inflammatory-Syndrome-in-Children
+2844	2849	MIS-C	MIS-C	EVT	EVT-Multisystem-Inflammatory-Syndrome-in-Children
+2863	2893	mariborski pediatrični kliniki	mariborska pediatrična klinika	LOC	ORG-Division-of-Paediatrics-University-Medical-Centre-Maribor
+3043	3048	covid	covid	EVT	EVT-Covid-19
+3115	3120	covid	covid	EVT	EVT-Covid-19
+3171	3176	Berce	Berce	PER	PER-Vojko-Berce
+3178	3183	Covid	Covid	EVT	EVT-Covid-19
+4101	4135	multisistemskega vnetnega sindroma	multisistemski vnetni sindrom	EVT	EVT-Multisystem-Inflammatory-Syndrome-in-Children
+4217	4225	covid-19	covid-19	EVT	EVT-Covid-19
+4490	4495	covid	covid	EVT	EVT-Covid-19
+4509	4514	Berce	Berce	PER	PER-Vojko-Berce
+4555	4560	covid	covid	EVT	EVT-Covid-19

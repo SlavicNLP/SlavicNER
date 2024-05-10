@@ -1,0 +1,22 @@
+20	28	COVID-19	COVID-19	EVT	EVT-Covid-19
+40	53	Rdečemu križu	Rdeči križ	ORG	ORG-Red-Cross-Slovenia
+66	79	Rdečega križa	Rdeči križ	ORG	ORG-Red-Cross
+83	89	Evropi	Evropa	LOC	LOC-Europe
+102	109	Španijo	Španija	LOC	GPE-Spain
+111	118	Italijo	Italija	LOC	GPE-Italy
+120	128	Francijo	Francija	LOC	GPE-France
+130	137	Poljsko	Poljska	LOC	GPE-Poland
+139	146	Nemčijo	Nemčija	LOC	GPE-Germany
+148	153	Švico	Švica	LOC	GPE-Switzerland
+157	178	Združenim kraljestvom	Združeno kraljestvo	LOC	GPE-Great-Britain
+201	218	Biogen Foundation	Biogen Foundation	ORG	ORG-Biogen-Foundation
+399	407	COVID-19	COVID-19	EVT	EVT-Covid-19
+429	435	Biogen	Biogen	ORG	ORG-Biogen-Foundation
+444	464	Rdeči križ Slovenije	Rdeči križ Slovenije	ORG	ORG-Red-Cross-Slovenia
+558	566	COVID-19	COVID-19	EVT	EVT-Covid-19
+569	578	Sloveniji	Slovenija	LOC	GPE-Slovenia
+773	793	Rdeči križ Slovenije	Rdeči križ Slovenije	ORG	ORG-Red-Cross-Slovenia
+865	881	Fundacije Biogen	Fundacija Biogen	ORG	ORG-Biogen-Foundation
+998	1006	COVID-19	COVID-19	EVT	EVT-Covid-19
+1088	1101	Nataša Jenčič	Nataša Jenčič	PER	PER-Nataša-Jenčič
+1105	1112	Biogena	Biogen	ORG	ORG-Biogen-Foundation

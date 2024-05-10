@@ -1,0 +1,23 @@
+1	8	The Sun	The Sun	PRO	PRO-The-Sun
+11	16	Davis	Davis	PER	PER-David-Davis
+205	213	brexicie	Brexit	EVT	EVT-Brexit
+230	239	Królestwo	Królestwo	LOC	GPE-Great-Britain
+242	246	Unia	Unia	ORG	ORG-European-Union
+393	399	Londyn	Londyn	LOC	GPE-London
+428	435	The Sun	The Sun	PRO	PRO-The-Sun
+536	540	Unię	Unia	ORG	ORG-European-Union
+543	552	Królestwo	Królestwo	LOC	GPE-Great-Britain
+561	578	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+662	669	The Sun	The Sun	PRO	PRO-The-Sun
+692	705	Liechtenstine	Liechtenstain	LOC	GPE-Liechtenstein
+1268	1274	Londyn	Londyn	LOC	GPE-London
+1292	1296	Unia	Unia	ORG	ORG-European-Union
+1396	1399	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+1428	1449	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+1493	1504	Theresy May	Theresa May	PER	PER-Theresa-May
+1546	1554	brexicie	Brexit	EVT	EVT-Brexit
+1593	1599	Anglia	Anglia	LOC	GPE-England
+1601	1608	Szkocja	Szkocja	LOC	GPE-Scotland
+1611	1616	Walia	Walia	LOC	GPE-Wales
+1633	1646	Davida Davisa	David Davis	PER	PER-David-Davis
+1655	1662	Północy	Północ	LOC	LOC-North-Britain

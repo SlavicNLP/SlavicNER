@@ -1,0 +1,53 @@
+0	11	Европейците	европейци	PER	PER-Europe
+21	35	Великобритания	Великобритания	LOC	GPE-Great-Britain
+52	59	Брекзит	Брекзит	EVT	EVT-Brexit
+155	169	Великобритания	Великобритания	LOC	GPE-Great-Britain
+209	211	ЕС	ЕС	ORG	ORG-European-Union
+223	243	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+369	371	ЕС	ЕС	ORG	ORG-European-Union
+503	505	ЕС	ЕС	ORG	ORG-European-Union
+529	539	британците	британци	PER	GPE-Great-Britain
+710	717	Брекзит	Брекзит	EVT	EVT-Brexit
+755	757	ЕС	ЕС	ORG	ORG-European-Union
+851	865	Великобритания	Великобритания	LOC	GPE-Great-Britain
+903	910	Брекзит	Брекзит	EVT	EVT-Brexit
+1213	1233	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1275	1284	българите	българи	PER	GPE-Bulgaria
+1287	1296	румънците	румънци	PER	GPE-Romania
+1313	1327	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1404	1411	Брекзит	Брекзит	EVT	EVT-Brexit
+1463	1475	Източен блок	Източен блок	LOC	LOC-ex-socialist-countries
+1507	1514	Румъния	Румъния	LOC	GPE-Romania
+1517	1525	България	България	LOC	GPE-Bulgaria
+1563	1570	Брекзит	Брекзит	EVT	EVT-Brexit
+1606	1613	българи	българи	PER	GPE-Bulgaria
+1616	1623	румънци	румънци	PER	GPE-Romania
+1718	1725	Брекзит	Брекзит	EVT	EVT-Brexit
+1807	1821	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1858	1860	ЕС	ЕС	ORG	ORG-European-Union
+1960	1974	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2020	2028	България	България	LOC	GPE-Bulgaria
+2583	2592	българите	българи	PER	GPE-Bulgaria
+2595	2604	румънците	румънци	PER	GPE-Romania
+2753	2755	ЕС	ЕС	ORG	ORG-European-Union
+2858	2872	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2918	2923	Полша	Полша	LOC	GPE-Poland
+2979	2993	Западна Европа	Западна Европа	LOC	LOC-Western-Europe
+3074	3092	източноевропейците	източноевропейци	PER	PER-Eastern-Europe
+3162	3169	Корнуол	Корнуол	LOC	GPE-Cornwall
+3182	3188	Англия	Англия	LOC	GPE-England
+3723	3725	ЕС	ЕС	ORG	ORG-European-Union
+4023	4039	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+4076	4084	България	България	LOC	GPE-Bulgaria
+4305	4319	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4418	4425	българи	българи	PER	GPE-Bulgaria
+4623	4631	българин	българи	PER	GPE-Bulgaria
+4798	4805	Брекзит	Брекзит	EVT	EVT-Brexit
+4880	4887	Брекзит	Брекзит	EVT	EVT-Brexit
+4963	4965	ЕС	ЕС	ORG	ORG-European-Union
+4981	4989	британци	британци	PER	GPE-Great-Britain
+5018	5032	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5142	5144	ЕС	ЕС	ORG	ORG-European-Union
+5306	5320	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5399	5409	британците	британци	PER	GPE-Great-Britain
+5449	5456	Брекзит	Брекзит	EVT	EVT-Brexit

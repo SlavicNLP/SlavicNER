@@ -1,0 +1,20 @@
+0	12	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+49	71	"""Северного потока — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+79	91	МИЖ Германии	МИЖ Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+92	102	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+197	215	"""Северный поток 2"""	"""Северный поток 2"""	PRO	PRO-Nord-Stream-2
+356	362	Москвы	Москва	LOC	GPE-Moscow
+404	414	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+459	465	России	Россия	LOC	GPE-Russia
+501	505	Маас	Маас	PER	PER-Heiko-Maas
+516	527	"""Интерфакс"""	"""Интерфакс"""	ORG	ORG-Interfax
+562	585	Европейского парламента	Европейский парламент	ORG	ORG-European-Parliament
+643	663	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+679	688	"""Газпром"""	"""Газпром"""	ORG	ORG-Gazprom
+726	744	"""Северный поток 2"""	"""Северный поток 2"""	PRO	PRO-Nord-Stream-2
+752	768	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
+845	865	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+975	981	России	Россия	LOC	GPE-Russia
+988	1003	Балтийское море	Балтийское море	LOC	LOC-Baltic-Sea
+1007	1015	Германии	Германия	LOC	GPE-Germany
+1077	1095	"""Северным потоком"""	"""Северный поток"""	PRO	PRO-Nord-Stream-1

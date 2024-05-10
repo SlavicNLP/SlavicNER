@@ -1,0 +1,47 @@
+21	33	koronavirusu	koronavirus	EVT	EVT-Covid-19
+95	102	Oxforda	Oxford	ORG	ORG-University-of-Oxford
+146	158	koronavirusu	koronavirus	EVT	EVT-Covid-19
+204	239	Inštitutu Jenner Univerze v Oxfordu	Inštitut Jenner Univerze v Oxfordu	ORG	ORG-The-Jenner-Institute
+356	375	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+392	420	britanske univerze v Oxfordu	britanska univerza v Oxfordu	ORG	ORG-University-of-Oxford
+643	653	The Lancet	The Lancet	PRO	PRO-The-Lancet
+902	909	Oxforda	Oxford	ORG	ORG-University-of-Oxford
+975	994	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1082	1094	deksametazon	deksametazon	PRO	PRO-Dexamethasone
+1288	1302	deksametazonom	deksametazon	PRO	PRO-Dexamethasone
+1348	1358	covidom-19	covid-19	EVT	EVT-Covid-19
+1404	1422	Univerze v Oxfordu	Univerza v Oxfordu	ORG	ORG-University-of-Oxford
+1594	1607	deksametazonu	deksametazon	PRO	PRO-Dexamethasone
+1783	1790	Oxforda	Oxford	ORG	ORG-University-of-Oxford
+1799	1811	deksametazon	deksametazon	PRO	PRO-Dexamethasone
+1836	1845	covida-19	covid-19	EVT	EVT-Covid-19
+2288	2302	Andrew Pollard	Andrew Pollard	PER	PER-Andrew-Pollard
+2335	2353	Univerzi v Oxfordu	Univerza v Oxfordu	ORG	ORG-University-of-Oxford
+2398	2437	britanskega veleposlaništva v Ljubljani	britansko veleposlaništvo v Ljubljani	ORG	ORG-British-Embassy-Ljubljana
+2621	2628	Pollard	Pollard	PER	PER-Andrew-Pollard
+2654	2672	oxfordskega cepiva	oxfordsko cepivo	PRO	PRO-AZD1222-vaccine
+2683	2698	ChAdOx1 nCoV-19	ChAdOx1 nCoV-19	PRO	PRO-AZD1222-vaccine
+2835	2846	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2912	2930	Univerza v Oxfordu	Univerza v Oxfordu	ORG	ORG-University-of-Oxford
+3021	3040	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+3085	3096	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+3160	3175	britanska vlada	britanska vlada	ORG	ORG-British-Government
+3299	3302	ZDA	ZDA	LOC	GPE-USA
+3309	3318	Braziliji	Brazilija	LOC	GPE-Brazil
+3322	3334	Južni Afriki	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+3337	3348	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+3427	3443	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+3445	3448	ZDA	ZDA	LOC	GPE-USA
+3450	3486	Evropsko vključujočo zvezo za cepiva	Evropska vključujoča zveza za cepiva	ORG	ORG-Inclusive-Vaccines-Alliance
+3488	3491	IVA	IVA	ORG	ORG-Inclusive-Vaccines-Alliance
+3494	3535	Koalicijo za epidemiološko pripravljenost	Koalicija za epidemiološko pripravljenost	ORG	ORG-Coalition-for-Epidemic-Preparedness-Innovations
+3537	3541	CEPI	CEPI	ORG	ORG-Coalition-for-Epidemic-Preparedness-Innovations
+3550	3554	Gavi	Gavi	ORG	ORG-Gavi
+3558	3588	Indijskim serumskim inštitutom	Indijski serumskim inštitut	ORG	ORG-Serum-Institute-of-India
+3685	3689	Rusi	Rusi	PER	GPE-Russia
+3758	3770	koronavirusu	koronavirus	EVT	EVT-Covid-19
+3788	3794	Rusije	Rusija	LOC	GPE-Russia
+3820	3886	raziskovalni inštitut za epidemiologijo in mikrobiologijo Gamaleja	raziskovalni inštitut za epidemiologijo in mikrobiologijo Gamaleja	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+3988	3994	Rusiji	Rusija	LOC	GPE-Russia
+4027	4034	Turčiji	Turčija	LOC	GPE-Turkey
+4038	4065	Združenih arabskih emiratih	Združeni arabski emirati	LOC	GPE-UEA-United-Arab-Emirates

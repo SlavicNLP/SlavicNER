@@ -1,0 +1,43 @@
+19	29	Clintonova	Clinton	PER	PER-Hillary-Clinton
+38	43	Bidna	Biden	PER	PER-Joe-Biden
+144	159	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+182	195	Josephu Bidnu	Joseph Biden	PER	PER-Joe-Biden
+248	262	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+303	308	Trump	Trump	PER	PER-Donald-Trump
+366	376	Clintonova	Clinton	PER	PER-Hillary-Clinton
+441	446	Trump	Trump	PER	PER-Donald-Trump
+531	536	Trump	Trump	PER	PER-Donald-Trump
+582	587	Bidna	Biden	PER	PER-Joe-Biden
+592	601	demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+707	717	Clintonova	Clinton	PER	PER-Hillary-Clinton
+719	728	Demokrati	Demokrati	PER	ORG-Democratic-Party-USA
+765	772	Trumpov	Trump	PER	PER-Donald-Trump
+796	802	Bidnom	Biden	PER	PER-Joe-Biden
+883	888	Biden	Biden	PER	PER-Joe-Biden
+916	921	Trump	Trump	PER	PER-Donald-Trump
+987	992	Biden	Biden	PER	PER-Joe-Biden
+1023	1028	Trump	Trump	PER	PER-Donald-Trump
+1088	1098	Clintonova	Clinton	PER	PER-Hillary-Clinton
+1117	1127	demokratom	demokrati	PER	ORG-Democratic-Party-USA
+1158	1164	Trumpa	Trump	PER	PER-Donald-Trump
+1286	1294	Trumpove	Trump	PER	PER-Donald-Trump
+1304	1315	Matt Morgan	Matt Morgan	PER	PER-Matt-Morgan
+1319	1329	Clintonovi	Clinton	PER	PER-Hillary-Clinton
+1382	1389	Bidnovo	Biden	PER	PER-Joe-Biden
+1430	1436	Morgan	Morgan	PER	PER-Matt-Morgan
+1457	1466	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+1520	1529	Demokrati	Demokrati	PER	ORG-Democratic-Party-USA
+1598	1617	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+1761	1770	demokrati	demokrati	PER	ORG-Democratic-Party-USA
+1794	1799	Trump	Trump	PER	PER-Donald-Trump
+1820	1829	Bele hiše	Bela hiša	LOC	LOC-White-House
+1876	1879	ZDA	ZDA	LOC	GPE-USA
+1880	1887	Al Gore	Al Gore	PER	PER-Al-Gore
+1952	1973	Georga Busha mlajšega	George Bush mlajši	PER	PER-George-Bush-Jr
+2018	2037	vrhovno sodišče ZDA	vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+2081	2088	Floridi	Florida	LOC	GPE-Florida
+2091	2095	Gore	Gore	PER	PER-Al-Gore
+2110	2117	Reuters	Reuters	ORG	ORG-Reuters
+2146	2151	Trump	Trump	PER	PER-Donald-Trump
+2410	2415	Bidna	Biden	PER	PER-Joe-Biden
+2541	2545	Gore	Gore	PER	PER-Al-Gore

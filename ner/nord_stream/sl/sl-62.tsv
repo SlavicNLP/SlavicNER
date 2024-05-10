@@ -1,0 +1,49 @@
+0	3	ZDA	ZDA	LOC	GPE-USA
+68	71	ZDA	ZDA	LOC	GPE-USA
+152	159	Nemčije	Nemčija	LOC	GPE-Germany
+162	175	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+177	184	Kremelj	Kremelj	ORG	ORG-Kremlin
+188	194	Berlin	Berlin	LOC	GPE-Berlin
+211	224	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+325	341	Ameriški kongres	Ameriški kongres	ORG	ORG-United-States-Congress
+460	472	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+477	483	Rusija	Rusija	LOC	GPE-Russia
+521	534	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+595	602	Kremlja	Kremelj 	ORG	ORG-Kremlin
+611	614	ZDA	ZDA	LOC	GPE-USA
+660	666	Moskva	Moskva	LOC	GPE-Moscow
+736	743	Berlinu	Berlin	LOC	GPE-Berlin
+752	758	Parizu	Pariz	LOC	GPE-Paris
+780	783	ZDA	ZDA	LOC	GPE-USA
+825	828	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+857	864	Kremlja	Kremelj 	ORG	ORG-Kremlin
+865	879	Dmitrij Peskov	Dmitrij Peskov	PER	PER-Dmitry-Peskov
+917	921	Tass	Tass	ORG	ORG-TASS-Agency
+1222	1238	Ameriški kongres	Ameriški kongres	ORG	ORG-United-States-Congress
+1296	1304	Pentagon	Pentagon	ORG	ORG-The-Pentagon
+1370	1377	Nemčije	Nemčija	LOC	GPE-Germany
+1381	1388	Turčije	Turčija	LOC	GPE-Turkey
+1468	1471	ZDA	ZDA	LOC	GPE-USA
+1486	1499	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1535	1542	Nemčije	Nemčija	LOC	GPE-Germany
+1603	1606	ZDA	ZDA	LOC	GPE-USA
+1609	1616	Nemčijo	Nemčija	LOC	GPE-Germany
+1620	1626	Evropo	Evropa	LOC	LOC-Europe
+1659	1669	Turški tok	Turški tok	PRO	PRO-TurkStream
+1701	1713	Črnega morja	Črno morje	LOC	LOC-Black-Sea
+1716	1723	Turčijo	Turčija	LOC	GPE-Turkey
+1736	1750	Vzhodno Evropo	Vzhodna Evropa	LOC	LOC-Eastern-Europe
+2005	2018	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2099	2106	Gazprom	Gazprom	ORG	ORG-Gazprom
+2109	2113	Rusi	Rusi	PER	GPE-Russia
+2227	2242	Baltskim morjem	Baltsko morje	LOC	LOC-Baltic-Sea
+2244	2250	Rusijo	Rusija	LOC	GPE-Russia
+2254	2261	Nemčijo	Nemčija	LOC	GPE-Germany
+2294	2300	Rusije	Rusija	LOC	GPE-Russia
+2302	2308	Finske	Finska	LOC	GPE-Finland
+2310	2317	Švedske	Švedska	LOC	GPE-Sweden
+2319	2325	Danske	Danska	LOC	GPE-Denmark
+2329	2336	Nemčije	Nemčija	LOC	GPE-Germany
+2360	2368	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+2467	2474	Nemčijo	Nemčija	LOC	GPE-Germany
+2478	2484	Rusije	Rusija	LOC	GPE-Russia

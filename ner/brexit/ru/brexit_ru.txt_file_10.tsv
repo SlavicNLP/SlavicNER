@@ -1,0 +1,74 @@
+0	10	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+64	70	Brexit	Brexit	EVT	EVT-Brexit
+182	185	Мэй	Мэй	PER	PER-Theresa-May
+362	370	Британии	Британия	LOC	GPE-Great-Britain
+371	384	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+508	516	брекзита	брекзит	EVT	EVT-Brexit
+534	542	Джонсона	Джонсон	PER	PER-Boris-Johnson
+545	551	Лондон	Лондон	LOC	GPE-London
+619	632	Мишелю Барнье	Мишель Барнье	PER	PER-Michel-Barnier
+657	665	Брюсселя	Брюссель	LOC	GPE-Brussles
+670	678	брекзиту	брекзит	EVT	EVT-Brexit
+768	776	Альбиона	Альбион	LOC	GPE-Great-Britain
+821	828	Европой	Европа	LOC	LOC-Europe
+829	835	Лондон	Лондон	LOC	GPE-London
+906	914	Брюсселю	Брюссель	LOC	GPE-Brussles
+982	984	ЕС	ЕС	ORG	ORG-European-Union
+1020	1028	Британии	Британия	LOC	GPE-Great-Britain
+1057	1074	Северную Ирландию	Северная Ирландия	LOC	GPE-Northern-Ireland
+1110	1116	Европы	Европа	LOC	LOC-Europe
+1142	1150	Джонсона	Джонсон	PER	PER-Boris-Johnson
+1156	1164	Британия	Британия	LOC	GPE-Great-Britain
+1180	1197	Северную Ирландию	Северная Ирландия	LOC	GPE-Northern-Ireland
+1263	1271	Брюссель	Брюссель	LOC	GPE-Brussles
+1384	1408	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+1465	1472	брексит	брексит	EVT	EVT-Brexit
+1631	1638	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1725	1733	Британия	Британия	LOC	GPE-Great-Britain
+1802	1808	Европы	Европа	LOC	LOC-Europe
+1822	1825	Мэй	Мэй	PER	PER-Theresa-May
+1953	1962	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1965	1973	Брюсселе	Брюссель	LOC	GPE-Brussles
+2066	2072	Европе	Европа	LOC	LOC-Europe
+2123	2131	Джонсона	Джонсон	PER	PER-Boris-Johnson
+2144	2152	Альбионе	Альбион	LOC	GPE-Great-Britain
+2173	2181	Брюсселю	Брюссель	LOC	GPE-Brussles
+2384	2400	британского МИДа	британский МИД	ORG	ORG-Foreign-Office
+2425	2428	Мэй	Мэй	PER	PER-Theresa-May
+2497	2510	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+2557	2560	Мэй	Мэй	PER	PER-Theresa-May
+2570	2579	Евросоюза	Евросоюз	ORG	ORG-European-Union
+2740	2749	Евросоюза	Евросоюз	ORG	ORG-European-Union
+2770	2784	Себастьян Курц	Себастьян Курц	PER	PER-Sebastian-Kurz
+2798	2805	брекзит	брекзит	EVT	EVT-Brexit
+2945	2953	Брюсселе	Брюссель	LOC	GPE-Brussles
+2968	2974	Терезу	Тереза	PER	PER-Theresa-May
+3013	3034	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+3066	3073	Лондону	Лондон	LOC	GPE-London
+3134	3141	Джонсон	Джонсон	PER	PER-Boris-Johnson
+3235	3243	Джонсона	Джонсон	PER	PER-Boris-Johnson
+3343	3353	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+3445	3448	Мэй	Мэй	PER	PER-Theresa-May
+3536	3543	Лондоне	Лондон	LOC	GPE-London
+3589	3598	Евросоюза	Евросоюз	ORG	ORG-European-Union
+3692	3700	Британии	Британия	LOC	GPE-Great-Britain
+3708	3717	Евросоюза	Евросоюз	ORG	ORG-European-Union
+3773	3803	Международного валютного фонда	Международный валютный фонд	ORG	ORG-International-Monetary-Fund
+3847	3853	Лондон	Лондон	LOC	GPE-London
+3894	3900	Европа	Европа	LOC	LOC-Europe
+3931	3939	Ла-Манша	Ла-Манш	LOC	LOC-English-Channel
+4082	4094	Еврокомиссия	Еврокомиссия	ORG	ORG-European-Commission
+4214	4223	Евросоюза	Евросоюз	ORG	ORG-European-Union
+4243	4251	Британии	Британия	LOC	GPE-Great-Britain
+4307	4311	тори	тори	ORG	ORG-Conservative-and-Unionist-Party-UK
+4313	4316	Мэй	Мэй	PER	PER-Theresa-May
+4399	4406	Лондона	Лондон	LOC	GPE-London
+4409	4417	Брюсселя	Брюссель	LOC	GPE-Brussles
+4438	4450	Европейскому	Европейский	ORG	ORG-European-Parliament
+4453	4476	британскому парламентам	британский парламент	ORG	ORG-British-Parlament
+4706	4716	лейбористы	лейборист	ORG	ORG-Labour-Party-UK
+4768	4777	Брюсселем	Брюссель	LOC	GPE-Brussles
+4797	4800	Мэй	Мэй	PER	PER-Theresa-May
+4920	4930	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+4933	4954	британском парламенте	британский парламент	ORG	ORG-British-Parlament
+5046	5054	Альбиона	Альбион	LOC	GPE-Great-Britain

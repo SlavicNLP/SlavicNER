@@ -1,0 +1,16 @@
+12	30	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+31	44	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+87	95	Британии	Британия	LOC	GPE-Great-Britain
+96	109	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+191	201	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+258	272	Великобритании	Великобритания	LOC	GPE-Great-Britain
+276	278	ЕС	ЕС	ORG	ORG-European-Union
+279	290	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+382	407	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+432	438	Brexit	Brexit	EVT	EVT-Brexit
+507	513	Brexit	Brexit	EVT	EVT-Brexit
+514	521	Джонсон	Джонсон	PER	PER-Boris-Johnson
+571	577	Дэвиса	Дэвис	PER	PER-David-Davis
+580	584	НАТО	НАТО	ORG	ORG-NATO
+676	683	Хофбург	Хофбург	LOC	LOC-Hofburg-Palace
+747	755	Асгардия	Асгардия	LOC	GPE-Asgardia

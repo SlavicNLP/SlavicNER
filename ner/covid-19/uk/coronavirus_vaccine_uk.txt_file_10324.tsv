@@ -1,0 +1,31 @@
+0	12	The Guardian	The Guardian	ORG	ORG-The-Guardian
+112	124	коронавірусу	коронавірус	EVT	EVT-Covid-19
+242	250	Пандемія	Пандемія	EVT	EVT-Covid-19
+325	332	REUTERS	REUTERS	ORG	ORG-Reuters
+378	383	Китаї	Китай	LOC	GPE-China
+399	410	коронавірус	коронавірус	EVT	EVT-Covid-19
+411	421	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+528	536	COVID-19	COVID-19	EVT	EVT-Covid-19
+937	949	The Guardian	The Guardian	ORG	ORG-The-Guardian
+960	982	Єльського університету	Єльський університет	ORG	ORG-Yale-University
+1015	1032	Ніколас Крістакіс	Ніколас Крістакіс	PER	PER-Nicholas-Christakis
+1175	1187	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1339	1343	чума	чума	EVT	EVT-Plague
+1409	1418	Крістакіс	Крістакіс	PER	PER-Nicholas-Christakis
+1594	1598	чума	чума	EVT	EVT-Plague
+1601	1609	пандемії	пандемія	EVT	EVT-Covid-19
+1806	1814	пандемій	пандемія	EVT	EVT-Covid-19
+1874	1880	Pfizer	Pfizer	ORG	ORG-Pfizer
+1883	1890	Moderna	Moderna	ORG	ORG-Moderna
+2135	2143	пандемію	пандемія	EVT	EVT-Covid-19
+2231	2239	пандемія	пандемія	EVT	EVT-Covid-19
+2334	2343	Крістакіс	Крістакіс	PER	PER-Nicholas-Christakis
+2416	2424	пандемії	пандемія	EVT	EVT-Covid-19
+2425	2442	іспанського грипу	іспанський грип	EVT	EVT-Influenza-Pandemic-1918
+2467	2475	пандемій	пандемія	EVT	EVT-Covid-19
+2970	2974	чуми	чума	EVT	EVT-Plague
+3045	3054	Крістакіс	Крістакіс	PER	PER-Nicholas-Christakis
+3073	3080	Іспанії	Іспанія	LOC	GPE-Spain
+3084	3092	COVID-19	COVID-19	EVT	EVT-Covid-19
+3313	3321	пандемії	пандемія	EVT	EVT-Covid-19
+3690	3699	Крістакіс	Крістакіс	PER	PER-Nicholas-Christakis

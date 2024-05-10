@@ -1,0 +1,39 @@
+8	16	Британії	Британія	LOC	GPE-Great-Britain
+46	52	Brexit	Brexit	EVT	EVT-Brexit
+60	76	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+96	115	Європейського союзу	Європейський Союз	ORG	ORG-European-Union
+127	141	Стівена Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+172	214	британському Міністерстві охорони здоров'я	британське Міністерство охорони здоров'я	ORG	ORG-British-Ministry-of-Health
+243	250	Twitter	Twitter	PRO	PRO-Twitter
+291	314	Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+315	325	Терези Мей	Тереза Мей	PER	PER-Theresa-May
+374	388	Стівена Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+420	439	Європейського союзу	Європейський Союз	ORG	ORG-European-Union
+673	679	Барклі	Барклі	PER	PER-Stiven-Barkli
+689	703	Домініка Раабе	Домінік Раабе	PER	PER-Dominic-Raab
+767	773	Brexit	Brexit	EVT	EVT-Brexit
+791	794	Мей	Мей	PER	PER-Theresa-May
+911	917	Brexit	Brexit	EVT	EVT-Brexit
+949	966	Раніл Джаявардена	Раніл Джаяварден	PER	PER-Ranil-Dzhayavardena
+986	1004	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+1005	1016	Шейлеш Вара	Шейлеш Вара	PER	PER-Shailesh-Vara
+1031	1037	Brexit	Brexit	EVT	EVT-Brexit
+1038	1050	Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+1086	1098	Естер Маквей	Естер Маквей	PER	PER-Ester-Makvi
+1119	1125	Brexit	Brexit	EVT	EVT-Brexit
+1126	1135	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1139	1155	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+1276	1284	Британії	Британія	LOC	GPE-Great-Britain
+1287	1289	ЄС	ЄС	LOC	ORG-European-Union
+1340	1343	Мей	Мей	PER	PER-Theresa-May
+1369	1375	Brexit	Brexit	EVT	EVT-Brexit
+1383	1389	Brexit	Brexit	EVT	EVT-Brexit
+1488	1496	Британії	Британія	LOC	GPE-Great-Britain
+1505	1508	МЗС	МЗС	ORG	ORG-Foreign-Office
+1509	1522	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1548	1554	Brexit	Brexit	EVT	EVT-Brexit
+1577	1587	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1635	1637	ЄС	ЄС	LOC	ORG-European-Union
+1664	1667	Мей	Мей	PER	PER-Theresa-May
+1682	1697	Мінфін Британії	Мінфін Британії	ORG	ORG-Ministry-of-Finance-UK
+1768	1774	Brexit	Brexit	EVT	EVT-Brexit

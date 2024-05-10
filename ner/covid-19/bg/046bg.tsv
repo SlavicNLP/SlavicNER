@@ -1,0 +1,20 @@
+0	8	Германия	Германия	LOC	GPE-Germany
+15	23	България	България	LOC	GPE-Bulgaria
+50	62	коронавируса	коронавирус	EVT	EVT-Covid-19
+137	148	коронавирус	коронавирус	EVT	EVT-Covid-19
+150	158	Германия	Германия	LOC	GPE-Germany
+187	195	България	България	LOC	GPE-Bulgaria
+319	343	коронавирусната инфекция	коронавирусна инфекция	EVT	EVT-Covid-19
+375	406	Министерство на външните работи	Министерство на външните работи	ORG	ORG-Ministry-of-Foreign-Affairs-Bulgaria
+426	449	посолството ни в Берлин	посолството ни в Берлин	ORG	ORG-Embassy-of-Bulgaria-in-Berlin
+479	487	Германия	Германия	LOC	GPE-Germany
+601	612	коронавирус	коронавирус	EVT	EVT-Covid-19
+833	841	България	България	LOC	GPE-Bulgaria
+845	867	института „Робърт Кох“	институт „Робърт Кох“	ORG	ORG-Robert-Koch-Institut
+909	920	коронавирус	коронавирус	EVT	EVT-Covid-19
+935	947	София – град	София – град	LOC	GPE-Sofia
+949	960	Благоевград	Благоевград	LOC	GPE-Blagoevgrad
+962	969	Разград	Разград	LOC	GPE-Razgrad
+971	977	Сливен	Сливен	LOC	GPE-Sliven
+980	989	Търговище	Търговище	LOC	GPE-Targovishte
+1097	1129	посолството на България в Берлин	посолство на България в Берлин	ORG	ORG-Embassy-of-Bulgaria-in-Berlin

@@ -1,0 +1,33 @@
+0	13	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+92	94	PA	PA	ORG	ORG-Press-Association
+96	109	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+215	223	Британии	Британия	LOC	GPE-Great-Britain
+227	236	Евросоюза	Евросоюз	ORG	ORG-European-Union
+269	287	кабинете министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+335	343	брексита	брексит	EVT	EVT-Brexit
+344	355	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+369	377	Джонсона	Джонсон	PER	PER-Boris-Johnson
+426	436	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+472	480	Британии	Британия	LOC	GPE-Great-Britain
+484	486	ЕС	ЕС	ORG	ORG-European-Union
+537	550	Даунинг-стрит	Даунинг-стрит	LOC	LOC-Downing-Street
+609	624	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+734	740	Бориса	Борис	PER	PER-Boris-Johnson
+804	812	Би-би-си	Би-би-си	ORG	ORG-BBC-Ltd
+813	826	Лоры Кюнсберг	Лора Кюнсберг	PER	PER-Laura-Kuenssberg
+833	841	Джонсона	Джонсон	PER	PER-Boris-Johnson
+919	928	Кунссберг	Кунссберг	PER	PER-Laura-Kuenssberg
+943	950	Джонсон	Джонсон	PER	PER-Boris-Johnson
+981	999	кабинета министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+1030	1038	Британии	Британия	LOC	GPE-Great-Britain
+1042	1044	ЕС	ЕС	ORG	ORG-European-Union
+1051	1073	референдумом 2016 года	референдум 2016 года	EVT	EVT-Brexit-Referendum
+1161	1180	партии консеваторов	партия консеваторов	ORG	ORG-Conservative-and-Unionist-Party-UK
+1264	1282	Европейского союза	Европейский союз	ORG	ORG-European-Union
+1283	1296	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+1357	1365	брексита	брексит	EVT	EVT-Brexit
+1388	1399	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+1422	1427	Дэвис	Дэвис	PER	PER-David-Davis
+1526	1534	Британии	Британия	LOC	GPE-Great-Britain
+1538	1555	таможенного союза	таможенный союз	ORG	ORG-European-Union-Customs-Union
+1704	1712	Брюсселя	Брюссель	LOC	GPE-Brussles

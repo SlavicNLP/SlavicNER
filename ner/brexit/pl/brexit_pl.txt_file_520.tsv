@@ -1,0 +1,43 @@
+0	2	KE	KE	ORG	ORG-European-Commission
+20	22	UE	UE	ORG	ORG-European-Union
+25	42	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+123	134	Theresy May	Theresa May	PER	PER-Theresa-May
+167	169	UE	UE	ORG	ORG-European-Union
+190	207	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+234	242	Brexicie	Brexit	EVT	EVT-Brexit
+349	361	ShutterStock	ShutterStock	PRO	PRO-Shutterstock
+387	389	UE	UE	ORG	ORG-European-Union
+392	409	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+484	492	Brukseli	Bruksela	LOC	GPE-Brussles
+502	504	KE	KE	ORG	ORG-European-Commission
+505	523	Margaritis Schinas	Margaritis Schinas	PER	PER-Margaritis-Schinas
+639	650	Theresy May	Theresa May	PER	PER-Theresa-May
+683	685	UE	UE	ORG	ORG-European-Union
+707	724	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+751	759	Brexicie	Brexit	EVT	EVT-Brexit
+891	898	Schinas	Schinas	PER	PER-Margaritis-Schinas
+914	932	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+1240	1247	Rady UE	Rada UE	ORG	ORG-European-Council
+1425	1428	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+1463	1480	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1654	1661	Schinas	Schinas	PER	PER-Margaritis-Schinas
+1750	1767	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2115	2122	Chinach	Chiny	LOC	GPE-China
+2131	2134	May	May	PER	PER-Theresa-May
+2212	2214	UE	UE	ORG	ORG-European-Union
+2265	2274	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2281	2296	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2420	2422	UE	UE	ORG	ORG-European-Union
+2460	2481	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+2505	2507	UE	UE	ORG	ORG-European-Union
+2580	2582	UE	UE	ORG	ORG-European-Union
+2637	2644	Brexitu	Brexit	EVT	EVT-Brexit
+2721	2727	Polski	Polska	LOC	GPE-Poland
+2737	2753	Konrad Szymański	Konrad Szymański	PER	PER-Konrad-Szymański
+2776	2783	Polaków	Polacy	PER	GPE-Poland
+2800	2817	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2850	2852	UE	UE	ORG	ORG-European-Union
+2916	2933	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2970	2976	Polska	Polska	LOC	GPE-Poland
+3072	3087	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3289	3298	Szymański	Szymański	PER	PER-Konrad-Szymański

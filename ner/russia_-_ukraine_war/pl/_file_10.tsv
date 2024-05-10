@@ -1,0 +1,26 @@
+19	24	Rosji	Rosja	LOC	GPE-Russia
+163	168	Kamaz	Kamaz	ORG	ORG-Kamaz
+180	187	Sevmash	Sevmash	ORG	ORG-Sevmash
+244	249	Rosji	Rosja	LOC	GPE-Russia
+310	341	United Shipbuilding Corporation	United Shipbuilding Corporation	ORG	ORG-United-Shipbuilding-Corporation
+377	391	Ruselectronics	Ruselectronics	ORG	ORG-Ruselectronics
+505	521	Koleje Rosyjskie	Koleje Rosyjskie	ORG	ORG-Russian-Railroads
+747	756	Australia	Australia	LOC	GPE-Australia
+778	783	Rosji	Rosja	LOC	GPE-Russia
+855	874	australijskiego MSZ	australijski MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Australia
+1038	1056	inwazji na Ukrainę	inwazja na Ukrainę	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1091	1096	Rosję	Rosja	LOC	GPE-Russia
+1111	1118	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1120	1137	Rząd australijski	Rząd australijski	ORG	ORG-Government-of-Australia
+1206	1213	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1251	1256	Rosję	Rosja	LOC	GPE-Russia
+1310	1317	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1351	1353	UE	UE	ORG	ORG-European-Union
+1363	1370	Europie	Europa	LOC	LOC-Europe
+1419	1424	Rosji	Rosja	LOC	GPE-Russia
+1434	1452	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+1474	1480	Moskwę	Moskwa	LOC	GPE-Moscow
+1664	1669	Rosji	Rosja	LOC	GPE-Russia
+1697	1714	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1716	1736	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+1928	1943	polskiego rządu	polski rząd	ORG	ORG-Polish-Government

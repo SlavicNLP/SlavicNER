@@ -1,0 +1,26 @@
+4	7	Мей	Мей	PER	PER-Theresa-May
+19	26	Брекзит	Брекзит	EVT	EVT-Brexit
+28	42	Великобритания	Великобритания	LOC	GPE-Great-Britain
+69	82	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+108	118	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+127	134	Брекзит	Брекзит	EVT	EVT-Brexit
+194	210	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+212	226	Великобритания	Великобритания	LOC	GPE-Great-Britain
+285	307	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+351	365	Великобритания	Великобритания	LOC	GPE-Great-Britain
+369	371	ЕС	ЕС	ORG	ORG-European-Union
+372	385	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+399	406	Ройтерс	Ройтерс	ORG	ORG-Reuters
+427	451	Партията за независимост	Партия за независимост	ORG	ORG-UK-Independence-Party
+477	482	Фараж	Фараж	PER	PER-Nigel-Farage
+507	510	Мей	Мей	PER	PER-Theresa-May
+511	525	Дейвид Камерън	Дейвид Камерън	PER	PER-David-Cameron
+577	587	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+596	603	Брекзит	Брекзит	EVT	EVT-Brexit
+663	679	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+681	695	Великобритания	Великобритания	LOC	GPE-Great-Britain
+754	776	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+820	834	Великобритания	Великобритания	LOC	GPE-Great-Britain
+838	840	ЕС	ЕС	ORG	ORG-European-Union
+841	854	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+868	875	Ройтерс	Ройтерс	ORG	ORG-Reuters

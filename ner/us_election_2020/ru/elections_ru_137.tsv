@@ -1,0 +1,174 @@
+100	108	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+109	112	США	США	LOC	GPE-USA
+129	136	Байдена	Байден	PER	PER-Joe-Biden
+144	160	штурма Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+174	180	Трампа	Трамп	PER	PER-Donald-Trump
+200	215	Штурм Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+229	244	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+281	292	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+295	304	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+324	346	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+382	385	США	США	LOC	GPE-USA
+414	425	Белого дома	Белый дом	ORG	ORG-The-White-House
+585	600	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+699	705	Трампа	Трамп	PER	PER-Donald-Trump
+718	727	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+807	816	Белый дом	Белый дом	ORG	ORG-The-White-House
+860	872	американской	американская	LOC	GPE-USA
+891	901	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+931	946	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+968	977	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+1192	1202	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+1213	1221	Германии	Германия	LOC	GPE-Germany
+1222	1236	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+1261	1278	штурмом Капитолия	штурм Капитолия	EVT	EVT-2021-storming-of -the-United-States-Capitol
+1290	1296	Трампа	Трамп	PER	PER-Donald-Trump
+1334	1339	Трамп	Трамп	PER	PER-Donald-Trump
+1559	1566	Израиля	Израиль	LOC	GPE-Israel
+1567	1585	Биньямин Нетаньяху	Биньямин Нетаньяху	PER	PER-Benjamin-Netanyahu
+1622	1631	Капитолия	Капитолий	LOC	LOC-Capitol-Hill
+1740	1743	США	США	LOC	GPE-USA
+1744	1761	Стивеном Мнучиным	Стивен Мнучин	PER	PER-Steven-Mnuchin
+1774	1777	ООН	ООН	ORG	ORG-United-Nations
+1778	1794	Антониу Гутерриш	нтониу Гутерриш	PER	PER-Antonio-Guterres
+2083	2088	Трамп	Трамп	PER	PER-Donald-Trump
+2108	2119	Белого дома	Белый дом	ORG	ORG-The-White-House
+2200	2208	Твиттере	Твиттер	PRO	PRO-Twitter
+2251	2263	Дэна Скавино	Дэн Скавино	PER	PER-Dan-Scavino
+2267	2272	Трамп	Трамп	PER	PER-Donald-Trump
+2569	2577	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+2578	2581	США	США	LOC	GPE-USA
+2608	2619	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2630	2638	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+2639	2642	США	США	LOC	GPE-USA
+2659	2666	Байдена	Байден	PER	PER-Joe-Biden
+2765	2774	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+2835	2838	США	США	LOC	GPE-USA
+2848	2857	демократы	демократ	ORG	ORG-Democratic-Party-USA
+2870	2884	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+2924	2930	Трампа	Трамп	PER	PER-Donald-Trump
+2948	2957	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+3039	3046	Байдена	Байден	PER	PER-Joe-Biden
+3143	3150	Байдена	Байден	PER	PER-Joe-Biden
+3213	3226	американского	американский	LOC	GPE-USA
+3271	3282	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3396	3402	Трампа	Трамп	PER	PER-Donald-Trump
+3406	3415	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
+3497	3509	американской	американская	LOC	GPE-USA
+3577	3583	Трампу	Трамп	PER	PER-Donald-Trump
+3826	3835	Джорджией	Джорджия	LOC	GPE-Georgia-US-state
+3837	3844	Невадой	Невада	LOC	GPE-Nevada
+3846	3855	Мичиганом	Мичиган	LOC	GPE-Michigan
+3857	3865	Аризоной	Аризона	LOC	GPE-Arizona
+3868	3881	Пенсильванией	Пенсильвания	LOC	GPE-Pennsylvania
+3922	3929	Байдена	Байден	PER	PER-Joe-Biden
+3946	3952	Трампа	Трамп	PER	PER-Donald-Trump
+3974	3979	сенат	сенат	ORG	ORG-United-States-Senate
+3982	4003	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+4126	4133	Байдена	Байден	PER	PER-Joe-Biden
+4164	4167	США	США	LOC	GPE-USA
+4205	4236	президентских выборов 2020 года	президентские выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+4257	4265	демократ	демократ	ORG	ORG-Democratic-Party-USA
+4266	4276	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4347	4362	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+4428	4440	Getty Images	Getty Images	PRO	PRO-Getty-Images
+4466	4478	Getty Images	Getty Images	PRO	PRO-Getty-Images
+4566	4576	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+4648	4668	Капитолийского холма	Капитолийский холм	LOC	LOC-Capitol-Hill
+4715	4725	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+4726	4739	Мюриэл Баузер	Мюриэл Баузер	PER	PER-Muriel-Bowser
+4760	4775	округа Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+4776	4788	Роберт Конти	Роберт Конти	PER	PER-Robert-Conti
+4844	4853	Сан-Диего	Сан-Диего	LOC	GPE-San-Diego
+4884	4887	США	США	LOC	GPE-USA
+5259	5268	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+5919	5931	Getty Images	Getty Images	PRO	PRO-Getty-Images
+5986	5994	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+6024	6032	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+6046	6052	Трампа	Трамп	PER	PER-Donald-Trump
+6122	6130	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+6178	6197	Капитолийском холме	Капитолийский холм	LOC	LOC-Capitol-Hill
+6214	6222	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+6257	6265	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+6279	6286	Байдена	Байден	PER	PER-Joe-Biden
+6353	6363	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+6390	6400	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+6401	6414	Мюриэл Баузер	Мюриэл Баузер	PER	PER-Muriel-Bowser
+6499	6510	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+6624	6632	Гринвичу	Гринвич	LOC	GPE-Greenwich
+6652	6671	Капитолийском холме	Капитолийский холм	LOC	LOC-Capitol-Hill
+6696	6711	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+6987	7000	Мюриэл Баузер	Мюриэл Баузер	PER	PER-Muriel-Bowser
+7260	7272	Getty Images	Getty Images	PRO	PRO-Getty-Images
+7328	7333	Путин	Путин	PER	PER-Vladimir-Putin
+7388	7401	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+7405	7412	Флориды	Флорида	LOC	GPE-Florida
+7413	7424	Марко Рубио	Марко Рубио	PER	PER-Marco-Rubio
+7483	7486	США	США	LOC	GPE-USA
+7558	7577	Капитолийском холме	Капитолийский холм	LOC	LOC-Capitol-Hill
+7591	7596	Рубио	Рубио	PER	PER-Marco-Rubio
+7616	7622	Россия	Россия	LOC	GPE-Russia
+7625	7630	Китай	Китай	LOC	GPE-China
+7651	7654	США	США	LOC	GPE-USA
+7735	7742	Америка	Америка	LOC	GPE-USA
+7766	7780	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+7905	7910	Рубио	Рубио	PER	PER-Marco-Rubio
+8055	8065	Митт Ромни	Митт Ромни	PER	PER-Mitt-Romney
+8087	8093	Трампа	Трамп	PER	PER-Donald-Trump
+8202	8208	Сената	Сенат	ORG	ORG-United-States-Senate
+8231	8234	США	США	LOC	GPE-USA
+8238	8260	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+8273	8283	Митт Ромни	Митт Ромни	PER	PER-Mitt-Romney
+8334	8340	Байден	Байден	PER	PER-Joe-Biden
+8371	8376	Трамп	Трамп	PER	PER-Donald-Trump
+8420	8425	Ромни	Ромни	PER	PER-Mitt-Romney
+8470	8475	Ромни	Ромни	PER	PER-Mitt-Romney
+8515	8528	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+8529	8540	Джоша Хоули	Джош Хоули	PER	PER-Josh-Hawley
+8559	8567	Твиттере	Твиттер	PRO	PRO-Twitter
+8572	8577	Хоули	Хоули	PER	PER-Josh-Hawley
+8746	8752	Трампа	Трамп	PER	PER-Donald-Trump
+8773	8780	Аризону	Аризона	LOC	GPE-Arizona
+8868	8875	Аризоне	Аризона	LOC	GPE-Arizona
+8879	8890	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+8985	8999	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+9013	9021	Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+9024	9034	Джош Хоули	Джош Хоули	PER	PER-Josh-Hawley
+9036	9043	Аризона	Аризона	LOC	GPE-Arizona
+9134	9139	Трамп	Трамп	PER	PER-Donald-Trump
+9173	9182	Капитолию	Капитолий	LOC	LOC-United-States-Capitol
+9231	9241	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+9270	9279	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+9306	9319	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+9374	9388	New York Times	New York Times	PRO	PRO-The-New-York-Times
+9401	9404	CNN	CNN	PRO	PRO-CNN
+9418	9432	New York Times	New York Times	PRO	PRO-The-New-York-Times
+9434	9438	Пенс	Пенс	PER	PER-Mike-Pence
+9483	9494	Белого дома	Белый дом	ORG	ORG-The-White-House
+9495	9510	Пэтом Чиполлоне	Пэт Чиполлоне	PER	PER-Pat-Cipollone
+9538	9544	Трампа	Трамп	PER	PER-Donald-Trump
+9638	9641	NYT	NYT	PRO	PRO-The-New-York-Times
+9644	9647	CNN	CNN	PRO	PRO-CNN
+9725	9734	Капитолии	Капитолий	LOC	LOC-Capitol-Hill
+9830	9839	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+9842	9854	Getty Images	Getty Images	PRO	PRO-Getty-Images
+9933	9942	Инстаграм	Инстаграм	PRO	PRO-Instagram
+9957	9963	Трампа	Трамп	PER	PER-Donald-Trump
+9976	9985	Твиттером	Твиттер	PRO	PRO-Twitter
+9989	9998	Фейсбуком	Фейсбук	PRO	PRO-Facebook
+10002	10009	Youtube	Youtube	PRO	PRO-YouTube
+10019	10025	Трампа	Трамп	PER	PER-Donald-Trump
+10039	10048	Инстаграм	Инстаграм	PRO	PRO-Instagram
+10080	10085	Трамп	Трамп	PER	PER-Donald-Trump
+10120	10129	Твиттером	Твиттер	PRO	PRO-Twitter
+10197	10206	Инстаграм	Инстаграм	PRO	PRO-Instagram
+10337	10340	США	США	LOC	GPE-USA
+10341	10346	Обама	Обама	PER	PER-Barack-Obama
+10349	10356	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+10375	10381	Трампа	Трамп	PER	PER-Donald-Trump
+10637	10648	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+10761	10775	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+10952	10957	Обама	Обама	PER	PER-Barack-Obama
+10988	11002	Билла Клинтона	Билл Клинтон	PER	PER-Bill-Clinton
+11215	11232	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+11366	11373	Клинтон	Клинтон	PER	PER-Hillary-Clinton

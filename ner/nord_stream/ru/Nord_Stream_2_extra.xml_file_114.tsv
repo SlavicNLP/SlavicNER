@@ -1,0 +1,29 @@
+15	23	Германии	Германия	LOC	GPE-Germany
+47	50	США	США	LOC	GPE-USA
+58	65	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
+81	84	США	США	LOC	GPE-USA
+118	136	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+206	217	"ИА ""Рейтер"""	"ИА ""Рейтер"""	ORG	ORG-Reuters
+219	229	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+317	323	Европе	Европа	LOC	LOC-Europe
+332	335	США	США	LOC	GPE-USA
+469	472	США	США	LOC	GPE-USA
+473	486	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+502	510	Германию	Германия	LOC	GPE-Germany
+522	528	России	Россия	LOC	GPE-Russia
+600	607	Берлина	Берлин	LOC	GPE-Berlin
+673	689	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
+725	743	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+829	838	"""Газпром"""	"""Газпром"""	ORG	ORG-Gazprom
+885	890	Engie	Engie	ORG	ORG-Engie
+904	910	OMV AG	OMV AG	ORG	ORG-OMV
+935	952	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+973	979	Uniper	Uniper	ORG	ORG-Uniper
+982	993	Wintershall	Wintershall	ORG	ORG-Wintershall
+995	1013	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1043	1049	России	Россия	LOC	GPE-Russia
+1052	1060	Германию	Германия	LOC	GPE-Germany
+1067	1082	Балтийское море	Балтийское море	LOC	LOC-Baltic-Sea
+1173	1180	Украина	Украина	LOC	GPE-Ukraine
+1182	1188	Польша	Польша	LOC	GPE-Poland
+1191	1204	страны Балтии	страны Балтии	LOC	LOC-Baltic-countries

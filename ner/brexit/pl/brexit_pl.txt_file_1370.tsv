@@ -1,0 +1,39 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+20	26	Polacy	Polacy	PER	GPE-Poland
+45	50	Nokes	Nokes	PER	PER-Caroline-Nokes
+70	73	MSW	MSW	ORG	ORG-Home-Office-UK
+138	155	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+172	179	Polaków	Polacy	PER	GPE-Poland
+189	204	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+309	315	Polacy	Polacy	PER	GPE-Poland
+333	335	UE	UE	ORG	ORG-European-Union
+369	393	narodowej służby zdrowia	Narodowa Służba Zdrowia	ORG	ORG-NHS
+395	398	NHS	NHS	ORG	ORG-NHS
+482	484	UE	UE	ORG	ORG-European-Union
+599	616	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+675	682	Brexitu	Brexit	EVT	EVT-Brexit
+754	756	UE	UE	ORG	ORG-European-Union
+805	822	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1191	1208	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1234	1239	Nokes	Nokes	PER	PER-Caroline-Nokes
+1289	1300	Home Office	Home Office	ORG	ORG-Home-Office-UK
+1921	1932	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1959	1962	MSW	MSW	ORG	ORG-Home-Office-UK
+2297	2302	Nokes	Nokes	PER	PER-Caroline-Nokes
+2324	2327	MSW	MSW	ORG	ORG-Home-Office-UK
+3029	3044	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3208	3215	Polaków	Polacy	PER	GPE-Poland
+3251	3268	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3293	3307	Caroline Nokes	Caroline Nokes	PER	PER-Caroline-Nokes
+3356	3367	Theresy May	Theresa May	PER	PER-Theresa-May
+3386	3396	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+3450	3459	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+3479	3507	Romsey and Southampton North	Romsey and Southampton North	LOC	LOC-Romsey-and-Southampton-North
+3573	3575	UE	UE	ORG	ORG-European-Union
+3629	3631	UE	UE	ORG	ORG-European-Union
+3696	3713	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4180	4197	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4568	4585	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4609	4624	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4653	4655	UE	UE	ORG	ORG-European-Union
+4689	4698	Wspólnotę	Wspólnota	ORG	ORG-European-Union

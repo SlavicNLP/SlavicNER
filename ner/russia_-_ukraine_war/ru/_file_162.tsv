@@ -1,0 +1,52 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+29	36	Украине	Украина	LOC	GPE-Ukraine
+38	44	Москва	Москва	LOC	GPE-Moscow
+63	68	Киеву	Киев	LOC	GPE-Kiev
+165	172	Украине	Украина	LOC	GPE-Ukraine
+241	244	США	США	LOC	GPE-USA
+245	255	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+278	285	Украине	Украина	LOC	GPE-Ukraine
+322	338	Эммануэль Макрон	Эммануэль Макрон	PER	PER-Emmanuel-Macron
+451	468	Минобороны России	Минобороны России	ORG	ORG-Russian-Ministry-of-Defence
+539	541	РФ	РФ	LOC	GPE-Russia
+597	602	Киеве	Киев	LOC	GPE-Kiev
+604	607	США	США	LOC	GPE-USA
+628	635	Украине	Украина	LOC	GPE-Ukraine
+705	714	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+734	739	Киеву	Киев	LOC	GPE-Kiev
+779	784	Ми-17	Ми-17	PRO	PRO-MI-17
+829	839	Афганистан	Афганистан	LOC	GPE-Afghanistan
+844	848	Киев	Киев	LOC	GPE-Kiev
+899	905	Польши	Польша	LOC	GPE-Poland
+907	912	Литвы	Литва	LOC	GPE-Lithuania
+914	920	Латвии	Латвия	LOC	GPE-Latvia
+923	930	Эстонии	Эстония	LOC	GPE-Estonia
+957	977	Владимиром Зеленским	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+995	1004	Бородянка	Бородянка	LOC	GPE-Borodianka
+1079	1099	российской оккупации	российская оккупация	EVT	EVT-Russian-occupation
+1110	1114	Буча	Буча	LOC	GPE-Bucha
+1144	1146	РФ	РФ	LOC	GPE-Russia
+1215	1253	Международного уголовного суда в Гааге	Международный уголовный суд в Гааге	ORG	ORG-International-Criminal-Court
+1254	1263	Карим Хан	Карим Хан	PER	PER-Karim-Ahmad-Khan
+1284	1291	Украина	Украина	LOC	GPE-Ukraine
+1364	1370	России	Россия	LOC	GPE-Russia
+1385	1389	ОБСЕ	ОБСЕ	ORG	ORG-Organization-for-Security-and-Co-operation-in-Europe
+1391	1397	Россия	Россия	LOC	GPE-Russia
+1413	1422	Мариуполе	Мариуполь	LOC	GPE-Mariupol
+1474	1481	Украине	Украина	LOC	GPE-Ukraine
+1553	1580	Служба безопасности Украины	Служба безопасности Украины	ORG	ORG-Security-Service-Ukraine
+1611	1617	Путина	Путин	PER	PER-Vladimir-Putin
+1619	1635	Виктор Медведчук	Виктор Медведчук	PER	PER-Victor-Medvedchuk
+1663	1669	Москву	Москва	LOC	GPE-Moscow
+1676	1689	Приднестровье	Приднестровье	LOC	LOC-Transnistria
+1718	1721	ФСБ	ФСБ	ORG	ORG-FSB
+1781	1787	Москва	Москва	PRO	PRO-Moskva-guided-missile-cruiser
+1927	1935	Германии	Германия	LOC	GPE-Germany
+1936	1946	Олаф Шольц	Олаф Шольц	PER	PER-Olaf-Scholz
+1960	1965	Киева	Киев	LOC	GPE-Kiev
+1985	1988	ФРГ	ФРГ	LOC	GPE-Germany
+1989	2016	Франка-Вальтера Штайнмайера	Франк-Вальтер Штайнмайер	PER	PER-Frank-Walter-Steinmeier
+2072	2079	Украину	Украина	LOC	GPE-Ukraine
+2081	2087	Россия	Россия	LOC	GPE-Russia
+2202	2208	Джерси	Джерси	LOC	GPE-Jersey-Island
+2230	2247	Романа Абрамовича	Роман Абрамович	PER	PER-Roman-Abramovich

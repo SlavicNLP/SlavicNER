@@ -1,0 +1,9 @@
+0	8	Covid-19	Covid-19	EVT	EVT-Covid-19
+38	42	Češi	Češi	PER	GPE-Czech-Republic
+101	106	Praha	Praha	LOC	GPE-Prague
+107	126	Pandemie koronaviru	Pandemie koronaviru	EVT	EVT-Covid-19
+151	157	Českem	Česko	LOC	GPE-Czech-Republic
+220	228	covid-19	covid-19	EVT	EVT-Covid-19
+398	408	koronaviru	koronavirus	EVT	EVT-Covid-19
+900	910	Jiří Beran	Jiří Beran	PER	PER-Jiri-Beran
+946	998	Centra očkování a cestovní medicíny v Hradci Králové	Centrum očkování a cestovní medicíny v Hradci Králové	ORG	ORG-Centrum-ockovani-a-cestovni-mediiny-Hradec-Kralove

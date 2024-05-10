@@ -1,0 +1,9 @@
+35	37	EU	EU	ORG	ORG-European-Union
+79	86	brexitu	brexit	EVT	EVT-Brexit
+97	104	brexitu	brexit	EVT	EVT-Brexit
+129	135	Brusel	Brusel	LOC	GPE-Brussles
+138	144	Londýn	Londýn	LOC	GPE-London
+261	275	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+548	570	Evropa v souvislostech	Evropa v souvislostech	PRO	PRO-Evropa-V-Souvislostech-project
+579	590	EURACTIV.cz	EURACTIV.cz	PRO	PRO-Euractiv.cz
+607	615	Economia	Economia	ORG	ORG-Economia-Publisher-cz

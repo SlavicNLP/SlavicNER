@@ -1,0 +1,27 @@
+22	35	Westminsterze	Westminster	LOC	LOC-Westminster-Hall
+49	57	brexicie	Brexit	EVT	EVT-Brexit
+59	70	Theresa May	Theresa May	PER	PER-Theresa-May
+166	173	brexitu	Brexit	EVT	EVT-Brexit
+302	317	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+332	347	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+352	364	Westminsteru	Westminster	LOC	LOC-Westminster-Hall
+405	407	UE	UE	ORG	ORG-European-Union
+419	430	Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+552	562	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+565	580	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+635	642	The Sun	The Sun	PRO	PRO-The-Sun
+756	760	Unią	Unia	ORG	ORG-European-Union
+839	863	European Communities Act	European Communities Act	PRO	PRO-European-Communities-Act-1972
+902	925	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+928	932	Unią	Unia	ORG	ORG-European-Union
+1187	1220	Europejskim Obszarze Gospodarczym	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+1250	1264	Downing Street	Downing Street	LOC	LOC-Downing-Street
+1347	1358	Theresa May	Theresa May	PER	PER-Theresa-May
+1647	1649	UE	UE	ORG	ORG-European-Union
+1718	1721	May	May	PER	PER-Theresa-May
+1763	1773	brexitowcy	brexitowcy	PER	EVT-Brexit
+1776	1787	Westminster	Westminster	LOC	LOC-Westminster-Hall
+1804	1807	May	May	PER	PER-Theresa-May
+1912	1920	Brukselą	Bruksela	LOC	GPE-Brussles
+1974	1984	Brexitowcy	brexitowcy	PER	EVT-Brexit
+2008	2019	Westminster	Westminster	LOC	LOC-Westminster-Hall

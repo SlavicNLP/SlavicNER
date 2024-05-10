@@ -1,0 +1,16 @@
+6	18	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+19	32	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+75	89	Великобритании	Великобритания	LOC	GPE-Great-Britain
+90	103	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+138	154	Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+172	182	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+200	208	Джонсона	Джонсон	PER	PER-Boris-Johnson
+233	239	Бориса	Борис	PER	PER-Boris-Johnson
+369	372	Мэй	Мэй	PER	PER-Theresa-May
+404	412	Джонсона	Джонсон	PER	PER-Boris-Johnson
+473	482	Евросоюза	Евросоюза	ORG	ORG-European-Union
+498	505	Джонсон	Джонсон	PER	PER-Boris-Johnson
+536	542	Brexit	Brexit	EVT	EVT-Brexit
+627	629	ЕС	ЕС	ORG	ORG-European-Union
+652	676	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+680	689	Евросоюза	Евросоюз	ORG	ORG-European-Union

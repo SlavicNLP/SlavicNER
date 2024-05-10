@@ -1,0 +1,26 @@
+22	27	dnews	dnews	PRO	PRO-dnews-bg
+40	52	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+100	108	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+204	207	САЩ	САЩ	LOC	GPE-USA
+208	220	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+234	237	ДПА	ДПА	ORG	ORG-DPA
+254	259	Тръмп	Тръмп	PER	PER-Donald-Trump
+292	304	демократката	демократка	PER	ORG-Democratic-Party-USA
+334	340	Савана	Савана	LOC	GPE-Savannah
+348	356	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+372	381	Джон Ософ	Джон Ософ	PER	PER-Jon-Ossoff
+384	397	Рафаел Уорнок	Рафаел Уорнок	PER	PER-Raphael-Warnock
+412	435	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+485	491	Сената	Сенат	ORG	ORG-United-States-Senate
+494	499	Тръмп	Тръмп	PER	PER-Donald-Trump
+545	557	коронавируса	коронавирус	EVT	EVT-Covid-19
+675	685	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+687	692	Тръмп	Тръмп	PER	PER-Donald-Trump
+732	740	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+741	758	Брад Рафенспъргър	Брад Рафенспъргър	PER	PER-Brad-Raffensperger
+884	892	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+949	954	Сенат	Сенат	ORG	ORG-United-States-Senate
+1057	1071	Вашингтон пост	Вашингтон пост	PRO	PRO-Washington-Post
+1075	1087	Рафенспъргър	Рафенспъргър	PER	PER-Brad-Raffensperger
+1102	1114	републиканец	републиканец	PER	ORG-Republican-Party-USA
+1177	1182	Тръмп	Тръмп	PER	PER-Donald-Trump

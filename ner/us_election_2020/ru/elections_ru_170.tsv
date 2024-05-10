@@ -1,0 +1,87 @@
+14	20	Трампа	Трамп	PER	PER-Donald-Trump
+38	41	США	США	LOC	GPE-USA
+113	128	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+155	158	США	США	LOC	GPE-USA
+228	239	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+254	272	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+297	302	Путин	Путин	PER	PER-Vladimir-Putin
+376	382	Россия	Россия	LOC	GPE-Russia
+385	388	США	США	LOC	GPE-USA
+670	676	России	Россия	LOC	GPE-Russia
+733	752	коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+828	835	Америке	Америка	LOC	GPE-USA
+882	885	США	США	LOC	GPE-USA
+947	956	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+978	988	Белом доме	Белый дом	ORG	ORG-The-White-House
+991	997	Трампа	Трамп	PER	PER-Donald-Trump
+1148	1167	Капитолийском холме	Капитолийский холм	LOC	LOC-Capitol-Hill
+1170	1180	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+1190	1199	Белый дом	Белый дом	ORG	ORG-The-White-House
+1313	1332	коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1476	1483	Америке	Америка	LOC	GPE-USA
+1518	1525	Байдена	Байден	PER	PER-Joe-Biden
+1543	1550	Байдена	Байден	PER	PER-Joe-Biden
+1567	1573	Трампа	Трамп	PER	PER-Donald-Trump
+1591	1597	Трампа	Трамп	PER	PER-Donald-Trump
+1630	1639	Капитолий	Капитолий	ORG	ORG-Conservative-and-Unionist-Party-UK
+1665	1674	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1846	1853	Америки	Америка	LOC	GPE-USA
+1870	1905	Палаты представителей штата Аризона	Палаты представителей штата Аризона	ORG	ORG-United-States-House-of-Representatives-Arizona
+1906	1917	Энтони Керн	Энтони Керн	PER	PER-Anthony-Kern
+1985	1994	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+2103	2122	коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2254	2262	Мо Брукс	Мо Брукс	PER	PER-Mo-Brooks
+2266	2273	Алабамы	Алабама	LOC	GPE-USA-Alabama
+2278	2299	Палата представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2309	2316	Сенатом	Сенат	ORG	ORG-United-States-Senate
+2375	2394	коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2491	2504	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2530	2565	Палаты представителей Конгресса США	Палата представителей Конгресса США	ORG	ORG-United-States-House-of-Representatives
+2566	2574	Мо Брукс	Мо Брукс	PER	PER-Mo-Brooks
+2578	2584	Бруксу	Брукс	PER	PER-Mo-Brooks
+2738	2746	Рэнд Пол	Рэнд Пол	PER	PER-Rand-Paul
+2779	2817	слушаниях о нарушениях на выборах-2020	Слушания о нарушениях на выборах-2020	EVT	EVT-Hearings-on-2020-Elections-Offences
+2846	2853	Америке	Америка	LOC	GPE-USA
+3194	3207	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+3318	3324	Москву	Москва	LOC	GPE-Moscow
+3370	3382	американские	американский	LOC	GPE-USA
+3495	3506	российского	российский	LOC	GPE-Russia
+3659	3672	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+3675	3683	демократ	демократ	ORG	ORG-Democratic-Party-USA
+3699	3736	комитете по национальной безопасности	Комитет по национальной безопасности	ORG	ORG-United-States-National-Security-Council
+3775	3781	России	Россия	LOC	GPE-Russia
+3920	3927	Байдена	Байден	PER	PER-Joe-Biden
+3930	3939	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+4031	4038	Байдена	Байден	PER	PER-Joe-Biden
+4192	4214	выборы США в 2020 году	Выборы в США в 2020 году	EVT	EVT-2020-United-States-Presidential-Election
+4235	4240	Китая	Китай	LOC	GPE-China
+4393	4396	США	США	LOC	GPE-USA
+4493	4501	Fox News	Fox News	PRO	PRO-Fox-News
+4568	4573	Китай	Китай	LOC	GPE-China
+4671	4676	Китая	Китай	LOC	GPE-China
+4697	4705	Fox News	Fox News	PRO	PRO-Fox-News
+4706	4716	Брет Байер	Брет Байер	PER	PER-Bret-Baier
+4810	4815	Трамп	Трамп	PER	PER-Donald-Trump
+4861	4871	Белом доме	Белый дом	ORG	ORG-The-White-House
+4955	4958	США	США	LOC	GPE-USA
+5081	5092	Майкл Флинн	Майкл Флинн	PER	PER-Michael-Flynn
+5117	5123	Трампа	Трамп	PER	PER-Donald-Trump
+5143	5154	Майкл Флинн	Майкл Флинн	PER	PER-Michael-Flynn
+5244	5254	демократов	демократы	ORG	ORG-Democratic-Party-USA
+5269	5320	"""О санкциях за вмешательство в американские выборы"""	"""О санкциях за вмешательство в американские выборы"""	PRO	PRO-Sanctions-for-American-Elections-inrefering
+5471	5478	Америке	Америка	LOC	GPE-USA
+5513	5522	демократы	демократы	ORG	ORG-Democratic-Party-USA
+5575	5581	Байден	Байден	PER	PER-Joe-Biden
+5665	5674	Белый дом	Белый дом	ORG	ORG-The-White-House
+5699	5709	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+5754	5775	инаугурации 20 января	Инаугурация 20 января	EVT	EVT-2020-United-States-presidential-inauguration
+6055	6060	Трамп	Трамп	PER	PER-Donald-Trump
+6075	6078	CNN	CNN	ORG	ORG-CNN
+6115	6122	Байдена	Байден	PER	PER-Joe-Biden
+6202	6214	американскую	американский	LOC	GPE-USA
+6470	6487	"""ТВ Центр-Москва"""	"""ТВ Центр-Москва"""	PRO	PRO-TV-Centre-Moscow
+6507	6520	"АО ""ТВ Центр"""	"АО ""ТВ Центр"""	ORG	ORG-TV-Centre-Russia
+6601	6696	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+6717	6733	Быстрицкая Ю. А.	Быстрицкая Ю. А.	PER	PER-Julia-Bystritskaya
+6752	6771	"""ТВ Центр - Москва"""	"""ТВ Центр - Москва"""	PRO	PRO-TV-Centre-Moscow
+6809	6873	Департамента средств массовой информации и рекламы города Москвы	Департамент средств массовой информации и рекламы города Москвы	ORG	ORG-Department-of-Mass-Media-and-Advertising-Moscow

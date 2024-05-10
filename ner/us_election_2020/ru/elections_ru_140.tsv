@@ -1,0 +1,62 @@
+113	120	Америке	Америка	LOC	GPE-USA
+138	146	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+266	281	"""Живом журнале"""	"""Живой журнал"""	PRO	PRO-LiveJournal
+292	315	Чикагского университета	Чикагский университет	ORG	ORG-University-of-Chicago
+316	332	Константин Сонин	Константин Сонин	PER	PER-Konstantin-Sonin
+490	495	Трамп	Трамп	PER	PER-Donald-Trump
+637	648	американцев	американцы	PER	GPE-USA
+926	940	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+1135	1156	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+1163	1173	демократов	демократы	ORG	ORG-Democratic-Party-USA
+1195	1209	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+1222	1241	Fivethirtyeight.com	Fivethirtyeight.com	PRO	PRO-FiveThirtyEight
+1271	1292	Сook Political Report	Сook Political Report	PRO	PRO-The-Cook-Political-Report
+1309	1312	NYT	NYT	PRO	PRO-The-New-York-Times
+1314	1326	CNN Forecast	CNN Forecast	PRO	PRO-CNN-Forecast
+1346	1357	Харри Энтен	Харри Энтен	PER	PER-Harry-Enten
+1368	1385	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+1430	1438	Fox News	Fox News	PRO	PRO-Fox-News
+1529	1534	MSNBC	MSNBC	PRO	PRO-MSNBC-TV
+1537	1540	Vox	Vox	PRO	PRO-Vox
+2079	2094	Fivethirtyeight	Fivethirtyeight	PRO	PRO-FiveThirtyEight
+2102	2109	Хиллари	Хиллари	PER	PER-Hillary-Clinton
+2130	2138	выборами	выборы	EVT	EVT-2016-United-States-Presidential-Election
+2188	2195	Хиллари	Хиллари	PER	PER-Hillary-Clinton
+2249	2255	Трампа	Трам	PER	PER-Donald-Trump
+2321	2328	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+2765	2774	демократы	демократы	ORG	ORG-Democratic-Party-USA
+2903	2917	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+3057	3062	Трамп	Трамп	PER	PER-Donald-Trump
+3307	3317	демократов	демократы	ORG	ORG-Democratic-Party-USA
+3399	3413	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+3426	3436	демократов	демократы	ORG	ORG-Democratic-Party-USA
+3524	3532	Politico	Politico	PRO	PRO-Politico
+3583	3589	Сенате	Сенат	ORG	ORG-United-States-Senate
+3605	3614	демократы	демократы	ORG	ORG-Democratic-Party-USA
+3668	3681	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+3710	3719	демократы	демократы	ORG	ORG-Democratic-Party-USA
+3883	3892	демократы	демократы	ORG	ORG-Democratic-Party-USA
+3959	3969	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4040	4046	Трампа	Трамп	PER	PER-Donald-Trump
+4306	4311	Трамп	Трамп	PER	PER-Donald-Trump
+4514	4525	выборы 2016	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election
+4533	4542	Демократы	демократы	ORG	ORG-Democratic-Party-USA
+4586	4601	республиканское	республиканский	ORG	ORG-Republican-Party-USA
+4677	4683	Обамой	Обама	PER	PER-Barack-Obama
+4785	4791	Трампа	Трамп	PER	PER-Donald-Trump
+4829	4843	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+4846	4867	палате представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+4998	5004	Сенате	Сенат	ORG	ORG-United-States-Senate
+5163	5172	демократы	демократы	PER	ORG-Democratic-Party-USA
+5175	5196	палате представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+5261	5264	США	США	LOC	GPE-USA
+5284	5293	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+5328	5342	генпрокуратуры	генпрокуратура	ORG	ORG-United-States-Department-of-Justice
+5388	5393	Трамп	Трамп	PER	PER-Donald-Trump
+5411	5417	Сенате	Сенат	ORG	ORG-United-States-Senate
+5452	5461	демократы	демократы	ORG	ORG-Democratic-Party-USA
+5474	5480	Сенате	Сенат	ORG	ORG-United-States-Senate
+5630	5635	Сенат	Сенат	ORG	ORG-United-States-Senate
+5649	5655	Трампа	Трамп	PER	PER-Donald-Trump
+5931	5957	президентских выборов 2020	президентские выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+5985	5989	2018	2018	EVT	EVT-2018-United-States-Election

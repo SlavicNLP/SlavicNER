@@ -1,0 +1,26 @@
+29	37	Londynie	Londyn	LOC	GPE-London
+39	50	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+80	87	Brexitu	Brexit	EVT	EVT-Brexit
+119	126	Londynu	Londyn	LOC	GPE-London
+137	148	Głos narodu	Głos narodu	EVT	EVT-Peoples-Vote
+170	187	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+194	209	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+306	313	Brexitu	Brexit	EVT	EVT-Brexit
+345	352	Londynu	Londyn	LOC	GPE-London
+363	380	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+445	460	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+482	484	UE	UE	ORG	ORG-European-Union
+552	566	Caroline Lucas	Caroline Lucas	PER	PER-Caroline-Lucas
+588	604	Partii Zielonych	Partia Zielonych	ORG	ORG-Green-Party-UK
+684	701	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+786	792	Brexit	Brexit	EVT	EVT-Brexit
+1068	1075	Brexitu	Brexit	EVT	EVT-Brexit
+1092	1099	Brexitu	Brexit	EVT	EVT-Brexit
+1113	1130	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1160	1169	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1359	1361	UE	UE	ORG	ORG-European-Union
+1383	1389	Brexit	Brexit	EVT	EVT-Brexit
+1468	1494	Centre for European Reform	Centre for European Reform	ORG	ORG-Centre-For-European-Reform
+1496	1499	CER	CER	ORG	ORG-Centre-For-European-Reform
+1514	1520	Brexit	Brexit	EVT	EVT-Brexit
+1663	1665	UE	UE	ORG	ORG-European-Union

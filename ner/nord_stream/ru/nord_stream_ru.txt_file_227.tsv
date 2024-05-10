@@ -1,0 +1,55 @@
+1	9	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+21	29	Газпрому	Газпром	ORG	ORG-Gazprom
+96	112	Нафтогаз Украины	Нафтогаз Украины	ORG	ORG-Naftogaz
+132	151	Амстердамским судом	Амстердамский суд	ORG	ORG-Amsterdam-District-Court
+153	163	Нидерланды	Нидерланды	LOC	GPE-Holland
+203	216	Голубой поток	Голубой поток	ORG	ORG-Blue-Stream-Pipeline-Company-B.V.
+221	239	Блю Стрим Пайплайн	Блю Стрим Пайплайн	ORG	ORG-Blue-Stream-Pipeline-Company-B.V.
+272	279	Газпром	Газпром	ORG	ORG-Gazprom
+282	288	Россия	Россия	LOC	GPE-Russia
+411	434	Стокгольмском арбитраже	Стокгольмский арбитраж	ORG	ORG-Stockholm-Chamber-of-Commerce
+445	453	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+499	507	Facebook	Facebook	PRO	PRO-Facebook
+543	551	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+587	595	Газпрома	Газпром	ORG	ORG-Gazprom
+609	627	Блю Стрим Пайплайн	Блю Стрим Пайплайн	ORG	ORG-Blue-Stream-Pipeline-Company-B.V.
+637	645	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+665	672	Газпром	Газпром	ORG	ORG-Gazprom
+717	741	Стокгольмского арбитража	Стокгольмский арбитраж	ORG	ORG-Stockholm-Chamber-of-Commerce
+973	981	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+999	1007	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+1167	1175	Газпрома	Газпром	ORG	ORG-Gazprom
+1179	1193	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1210	1219	Нафтогаза	Нафтогаз	ORG	ORG-Naftogaz
+1314	1338	коммерческий суд Лондона	коммерческий суд Лондона	ORG	ORG-London-Court-of-International-Arbitration
+1389	1405	Нафтогаз Украины	Нафтогаз Украины	ORG	ORG-Naftogaz
+1435	1443	Газпрома	Газпром	ORG	ORG-Gazprom
+1480	1504	Стокгольмского арбитража	Стокгольмский арбитраж	ORG	ORG-Stockholm-Chamber-of-Commerce
+1599	1606	Газпром	Газпром	ORG	ORG-Gazprom
+1635	1645	Нафтогазом	Нафтогаз	ORG	ORG-Naftogaz
+1649	1672	Стокгольмском арбитраже	Стокгольмский арбитраж	ORG	ORG-Stockholm-Chamber-of-Commerce
+1938	1947	Нафтогаза	Нафтогаз	ORG	ORG-Naftogaz
+1969	1976	Газпром	Газпром	ORG	ORG-Gazprom
+2047	2055	Украиной	Украина	LOC	GPE-Ukraine
+2097	2104	Газпром	Газпром	ORG	ORG-Gazprom
+2127	2135	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+2206	2222	Нафтогаз Украины	Нафтогаз Украины	ORG	ORG-Naftogaz
+2267	2275	Газпрома	Газпром	ORG	ORG-Gazprom
+2357	2363	Англии	Англия	LOC	GPE-Great-Britain
+2365	2374	Швейцарии	Швейцария	LOC	GPE-Switzerland
+2377	2388	Нидерландах	Нидерланды	LOC	GPE-Holland
+2478	2494	Северный поток-1	Северный поток-1	PRO	PRO-Nord-Stream-1
+2499	2515	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
+2535	2542	Газпром	Газпром	ORG	ORG-Gazprom
+2560	2566	Швеции	Швеция	LOC	GPE-Sweden
+2599	2623	Стокгольмского арбитража	Стокгольмский арбитраж	ORG	ORG-Stockholm-Chamber-of-Commerce
+2680	2689	Нафтогазе	Нафтогаз	ORG	ORG-Naftogaz
+2744	2753	Нафтогаза	Нафтогаз	ORG	ORG-Naftogaz
+2838	2848	Нафтогазом	Нафтогаз	ORG	ORG-Naftogaz
+2906	2914	Газпрома	Газпром	ORG	ORG-Gazprom
+2955	2964	Нафтогазе	Нафтогаз	ORG	ORG-Naftogaz
+3043	3051	Газпрому	Газпром	ORG	ORG-Gazprom
+3078	3087	Нафтогаза	Нафтогаз	ORG	ORG-Naftogaz
+3180	3188	Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+3215	3253	апелляционный суд округа Свеа в Швеции	апелляционный суд округа Свеа в Швеции	ORG	ORG-Svea-Court-of-Appeal
+3386	3410	Стокгольмского арбитража	Стокгольмский арбитраж	ORG	ORG-Stockholm-Chamber-of-Commerce

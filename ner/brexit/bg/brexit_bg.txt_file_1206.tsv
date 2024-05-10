@@ -1,0 +1,16 @@
+0	3	BBC	BBC	PRO	PRO-BBC
+5	15	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+75	81	Лондон	Лондон	LOC	GPE-London
+116	126	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+219	226	Брекзит	Брекзит	EVT	EVT-Brexit
+317	320	BBC	BBC	PRO	PRO-BBC
+384	387	Мей	Мей	PER	PER-Theresa-May
+526	541	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+546	560	Великобритания	Великобритания	LOC	GPE-Great-Britain
+789	803	Великобритания	Великобритания	LOC	GPE-Great-Britain
+847	850	Мей	Мей	PER	PER-Theresa-May
+988	994	Лондон	Лондон	LOC	GPE-London
+1105	1113	Ирландия	Ирландия	LOC	GPE-Ireland
+1119	1126	Брекзит	Брекзит	EVT	EVT-Brexit
+1148	1159	Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov
+1298	1327	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

@@ -1,0 +1,25 @@
+24	29	Trump	Trump	PER	PER-Donald-Trump
+69	96	americké prezidentské volby	americké prezidentské volby	EVT	EVT-2020-United-States-Presidential-Election
+169	181	Joem Bidenem	Joe Biden	PER	PER-Joe-Biden
+184	200	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+220	231	Bílého domu	Bílý dům	LOC	LOC-White-House
+276	286	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+367	378	Bílého domu	Bílý dům	LOC	LOC-White-House
+392	404	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+471	484	Joeu Bidenovi	Joe Biden	PER	PER-Joe-Biden
+528	536	Trumpova	Trump	PER	PER-Donald-Trump
+590	600	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+619	622	CNN	CNN	PRO	PRO-CNN
+623	632	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+749	764	Spojených států	Spojené státy	LOC	GPE-USA
+769	778	Michiganu	Michigan	LOC	GPE-Michigan
+789	794	Biden	Biden	PER	PER-Joe-Biden
+801	812	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+818	823	Trump	Trump	PER	PER-Donald-Trump
+856	864	Bidenovy	Biden	PER	PER-Joe-Biden
+873	903	Jennifer O'Malleyová Dillonová	Jennifer O'Malleyová Dillonová	PER	PER-Jennifer-O'Malley-Dillon
+933	941	Bidenovo	Biden	PER	PER-Joe-Biden
+978	986	Michigan	Michigan	LOC	GPE-Michigan
+988	997	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1000	1011	Pensylvánie	Pensylvánie	LOC	GPE-Pennsylvania
+1134	1142	Bílý dům	Bílý dům	LOC	LOC-White-House

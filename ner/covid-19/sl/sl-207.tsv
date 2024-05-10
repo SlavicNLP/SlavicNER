@@ -1,0 +1,25 @@
+2	8	Rusiji	Rusija	LOC	GPE-Russia
+9	17	covid-19	covid-19	EVT	EVT-Covid-19
+59	65	Rusiji	Rusija	LOC	GPE-Russia
+106	115	covida-19	covid-19	EVT	EVT-Covid-19
+397	416	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+483	486	ZDA	ZDA	LOC	GPE-USA
+490	499	Braziliji	Brazilija	LOC	GPE-Brazil
+701	707	Moskvi	Moskva	LOC	GPE-Moscow
+774	781	Kremlja	Kremelj 	ORG	ORG-Kremlin
+782	796	Dmitrij Peskov	Dmitrij Peskov	PER	PER-Dmitry-Peskov
+830	849	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+852	858	Rusiji	Rusija	LOC	GPE-Russia
+991	995	Tass	Tass	ORG	ORG-TASS-Agency
+1153	1159	Peskov	Peskov	PER	PER-Dmitry-Peskov
+1277	1296	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1336	1353	Mihailu Mišustinu	Mihail Mišustin	PER	PER-Mikhail-Mishustin
+1446	1460	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+1471	1478	Kremlju	Kremelj	ORG	ORG-Kremlin
+1501	1510	covida-19	covid-19	EVT	EVT-Covid-19
+1578	1584	Moskve	Moskva	LOC	GPE-Moscow
+1621	1624	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1629	1635	Rusiji	Rusija	LOC	GPE-Russia
+1692	1701	covida-19	covid-19	EVT	EVT-Covid-19
+1845	1854	covida-19	covid-19	EVT	EVT-Covid-19
+1921	1940	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19

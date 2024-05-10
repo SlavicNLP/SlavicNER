@@ -1,0 +1,114 @@
+0	11	Коронавирус	Коронавирус	EVT	EVT-Covid-19
+28	35	Novavax	Novavax	ORG	ORG-Novavax
+91	96	Ухане	Ухань	LOC	GPE-Wuhan
+118	126	Британии	Британия	LOC	GPE-Great-Britain
+175	181	Ливане	Ливан	LOC	GPE-Lebanon
+265	273	Лондоном	Лондон	LOC	GPE-London
+276	285	Брюсселем	Брюссель	LOC	GPE-Brussles
+362	375	коронавирусом	коронавирус	EVT	EVT-Covid-19
+424	452	Университета Джонса Хопкинса	Университет Джонса Хопкинса	ORG	ORG-Johns-Hopkins-University
+477	485	Covid-19	Covid-19	EVT	EVT-Covid-19
+556	563	Novavax	Novavax	ORG	ORG-Novavax
+594	606	американской	американская	PER	GPE-USA
+616	623	Novavax	Novavax	ORG	ORG-Novavax
+686	694	Британии	Британия	LOC	GPE-Great-Britain
+912	919	Novavax	Novavax	PRO	PRO-NVX-CoV2373
+967	979	коронавируса	коронавирус	EVT	EVT-Covid-19
+997	1009	Южной Африке	Южная Африка	LOC	GPE-Republic-of-South-Africa
+1111	1117	Pfizer	Pfizer	ORG	ORG-Pfizer
+1120	1127	Moderna	Moderna	ORG	ORG-Moderna
+1195	1207	коронавируса	коронавирус	EVT	EVT-Covid-19
+1222	1229	Novavax	Novavax	PRO	PRO-NVX-CoV2373
+1426	1440	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1506	1512	Англии	Англия	LOC	GPE-Great-Britain
+1561	1572	британского	британский	PER	GPE-Great-Britain
+1592	1616	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+1719	1733	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1773	1785	коронавируса	коронавирус	EVT	EVT-Covid-19
+1787	1812	Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+1821	1832	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1843	1849	Pfizer	Pfizer	ORG	ORG-Pfizer
+1852	1860	BioNTech	BioNTech	ORG	ORG-BioNTech
+1872	1879	Moderna	Moderna	ORG	ORG-Moderna
+1898	1905	Novavax	Novavax	PRO	PRO-Novavax
+1917	1924	Novavax	Novavax	PRO	PRO-Novavax
+2023	2034	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2037	2043	Pfizer	Pfizer	ORG	ORG-Pfizer
+2044	2052	BioNTech	BioNTech	ORG	ORG-BioNTech
+2056	2063	Novavax	Novavax	PRO	PRO-NVX-CoV2373
+2226	2233	Novavax	Novavax	PRO	PRO-NVX-CoV2373
+2379	2386	Novavax	Novavax	PRO	PRO-NVX-CoV2373
+2425	2436	AstraZeneca	AstraZeneca	PRO	PRO-Oxford-AstraZeneca-Vaccine
+2560	2562	ЕС	ЕС	ORG	ORG-European-Union
+2579	2590	AstraZeneca	AstraZeneca	PRO	PRO-Oxford-AstraZeneca-Vaccine
+2593	2604	Европейский	Европейский	PER	GPE-Europe
+2645	2663	британско-шведской	британско-шведская	PER	GPE-United-Kingdom-and-Sweden
+2673	2684	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2687	2717	Европейской экономической зоне	Европейская экономическая зона	LOC	LOC-European-Economic-Area
+2745	2788	Европейское агентство лекарственных средств	Европейское агентство лекарственных средств	ORG	ORG-EMA-European-Medicines-Agency
+2790	2793	МКА	МКА	ORG	ORG-EMA-European-Medicines-Agency
+3092	3104	Южной Африке	Южная Африка	LOC	GPE-Republic-of-South-Africa
+3226	3228	ЕС	ЕС	ORG	ORG-European-Union
+3238	3246	Исландии	Исландия	LOC	GPE-Iceland
+3248	3260	Лихтенштейна	Лихтенштейн	LOC	LOC-Liechtenstein
+3263	3271	Норвегии	Норвегия	LOC	GPE-Norway
+3291	3321	Европейской экономической зоны	Европейская экономическая зона	LOC	GPE-European-Economic-Area
+3325	3367	Постоянная комиссия по вакцинации Германии	Постоянная комиссия по вакцинации Германии	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+3369	3374	STIKO	STIKO	ORG	ORG-Permanent-Commission-for-Vaccination-in-Germany
+3398	3409	AstraZeneca	AstraZeneca	PRO	PRO-Oxford-AstraZeneca-Vaccine
+3517	3519	ЕС	ЕС	ORG	ORG-European-Union
+3559	3573	Великобританию	Великобритания	LOC	GPE-Great-Britain
+3576	3584	Евросоюз	Евросоюз	ORG	ORG-European-Union
+3640	3642	ЕС	ЕС	ORG	ORG-European-Union
+3651	3659	BioNTech	BioNTech	ORG	ORG-BioNTech
+3660	3666	Pfizer	Pfizer	ORG	ORG-Pfizer
+3669	3683	Великобританию	Великобритания	LOC	GPE-Great-Britain
+3709	3720	AstraZeneca	AstraZeneca	PRO	PRO-Oxford-AstraZeneca-Vaccine
+3758	3769	Independent	Independent	ORG	ORG-Campaign-for-an-Independent-and-Neutral-Switzerland
+3797	3807	Евросовета	Евросовет	ORG	ORG-European-Council
+3808	3820	Шарля Мишеля	Шарль Мишель	PER	PER-Charles-Michel
+3846	3854	Брюсселе	Брюссель	LOC	GPE-Brussles
+3953	3955	ЕС	ЕС	ORG	ORG-European-Union
+3982	3992	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+3995	4010	Великобританией	Великобритания	LOC	GPE-Great-Britain
+4061	4072	AstraZeneca	AstraZeneca	PRO	PRO-Oxford-AstraZeneca-Vaccine
+4076	4078	ЕС	ЕС	ORG	ORG-European-Union
+4127	4137	британских	британские	PER	GPE-Great-Britain
+4163	4169	Европе	Европа	LOC	LOC-Europe
+4219	4229	Британское	Британское	PER	GPE-Great-Britain
+4253	4264	AstraZeneca	AstraZeneca	PRO	PRO-Oxford-AstraZeneca-Vaccine
+4313	4337	Соединенным Королевством	Соединенное Королевство	LOC	GPE-Great-Britain
+4376	4382	Европе	Европа	LOC	LOC-Europe
+4419	4424	Ухане	Ухань	LOC	GPE-Wuhan
+4463	4472	китайском	китайский	PER	GPE-China
+4473	4478	Ухане	Ухань	LOC	GPE-Wuhan
+4520	4528	Covid-19	Covid-19	EVT	EVT-Covid-19
+4564	4569	Ухань	Ухань	LOC	GPE-Wuhan
+4846	4851	Китая	Китай	LOC	GPE-China
+4897	4906	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+5023	5029	Ливане	Ливан	LOC	GPE-Lebanon
+5097	5109	коронавирусу	коронавирус	EVT	EVT-Covid-19
+5287	5294	Израиль	Израиль	LOC	GPE-Israel
+5434	5443	ливанском	ливанский	PER	GPE-Lebanon
+5451	5458	Триполи	Триполи	LOC	GPE-Tripoli
+5665	5675	ливанского	ливанский	PER	GPE-Lebanon
+5683	5690	Триполи	Триполи	LOC	GPE-Tripoli
+5874	5913	национального агентства новостей Ливана	национальное агентство новостей Ливана	ORG	ORG-National-News-Agency-of-Lebanon
+6219	6225	Ливане	Ливан	LOC	GPE-Lebanon
+6456	6462	Ливане	Ливан	LOC	GPE-Lebanon
+6664	6671	Janssen	Janssen	PRO	PRO-Janssen
+6717	6729	коронавируса	коронавирус	EVT	EVT-Covid-19
+6730	6741	бельгийской	бельгийская	PER	GPE-Belgium
+6751	6758	Janssen	Janssen	ORG	ORG-Janssen-Pharmaceutica
+6774	6787	американскому	американский	PER	GPE-USA
+6797	6814	Johnson & Johnson	Johnson & Johnson	ORG	ORG-Johnson-&-Johnson
+7089	7101	Южной Африке	Южная Африка	LOC	GPE-Republic-of-South-Africa
+7131	7143	коронавируса	коронавирус	EVT	EVT-Covid-19
+7184	7198	Великобритания	Великобритания	LOC	GPE-Great-Britain
+7242	7249	Janssen	Janssen	ORG	ORG-Janssen-Pharmaceutica
+7384	7392	Ковид-19	Ковид-19	EVT	EVT-Covid-19
+7533	7558	Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+7627	7630	США	США	LOC	GPE-USA
+7645	7658	коронавирусом	коронавирус	EVT	EVT-Covid-19
+7757	7765	Ковид-19	Ковид-19	EVT	EVT-Covid-19
+7972	7983	коронавирус	коронавирус	EVT	EVT-Covid-19

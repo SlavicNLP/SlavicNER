@@ -1,0 +1,25 @@
+34	42	covid-19	covid-19	EVT	EVT-Covid-19
+143	176	Svetovne zdravstvene organizacije	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+178	181	WHO	WHO	ORG	ORG-World-Health-Organization
+295	301	Rusija	Rusija	LOC	GPE-Russia
+343	355	koroanvirusu	koronavirus	EVT	EVT-Covid-19
+357	365	covid-19	covid-19	EVT	EVT-Covid-19
+404	437	Svetovna zdravstvena organizacija	Svetovna zdravstvena organizacija	ORG	ORG-World-Health-Organization
+444	450	Moskvo	Moskva	LOC	GPE-Moscow
+552	555	WHO	WHO	ORG	ORG-World-Health-Organization
+726	733	Izraelu	Izrael	LOC	GPE-Israel
+735	738	ZDA	ZDA	LOC	GPE-USA
+742	749	Nemčiji	Nemčija	LOC	GPE-Germany
+780	789	Alex Azar	Alex Azar	PER	PER-Alex-Azar
+1014	1023	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1037	1043	Rusije	Rusija	LOC	GPE-Russia
+1089	1101	Mateje Logar	Mateja Logar	PER	PER-Mateja-Logar
+1392	1401	Logarjeva	Logar	PER	PER-Mateja-Logar
+1439	1445	Rusija	Rusija	LOC	GPE-Russia
+1611	1628	inštitut Gamaleja	inštitut Gamaleja	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1673	1687	Mihail Muraško	Mihail Muraško	PER	PER-Mikhail-Murashko
+1921	1925	Tass	Tass	ORG	ORG-TASS-Agency
+1932	1939	Muraško	Muraško	PER	PER-Mikhail-Murashko
+2360	2369	covida-19	covid-19	EVT	EVT-Covid-19
+2544	2547	WHO	WHO	ORG	ORG-World-Health-Organization
+2694	2712	inštituta Gamaleja	inštitut Gamaleja	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology

@@ -1,0 +1,38 @@
+19	28	covidu-19	covid-19	EVT	EVT-Covid-19
+50	60	Nizozemska	Nizozemska	LOC	GPE-Holland
+64	71	Belgija	Belgija	LOC	GPE-Belgium
+92	101	covidu-19	covid-19	EVT	EVT-Covid-19
+123	133	Nizozemska	Nizozemska	LOC	GPE-Holland
+137	144	Belgija	Belgija	LOC	GPE-Belgium
+177	190	Hugo de Jonge	Hugo de Jonge	PER	PER-Hugo-de-Jonge
+279	287	Valonija	Valonija	LOC	GPE-Wallonia
+309	316	Belgija	Belgija	LOC	GPE-Belgium
+365	376	Nizozemskem	Nizozemsko	LOC	GPE-Holland
+400	424	koronavirusni bolezni 19	koronavirusna bolezen 19	EVT	EVT-Covid-19
+575	584	Twitterju	Twitter	PRO	PRO-Twitter
+596	601	Jonge	Jonge	PER	PER-Hugo-de-Jonge
+640	643	dpa	dpa	ORG	ORG-DPA
+686	694	Valonija	Valonija	LOC	GPE-Wallonia
+695	712	Christie Morreale	Christie Morreale	PER	PER-Christie-Morreale
+750	759	covidu-19	covid-19	EVT	EVT-Covid-19
+762	769	Belgiji	Belgija	LOC	GPE-Belgium
+1012	1016	RTBF	RTBF	ORG	ORG-RTBF-Belgian-Radio-television-of-the-French-Community
+1045	1060	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+1302	1323	Alexandrom De Croojem	Alexander De Croo	PER	PER-Alexander-De-Croo
+1326	1332	Parizu	Pariz	LOC	GPE-Paris
+1369	1372	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+1375	1404	Evropska agencija za zdravila	Evropska agencija za zdravila	ORG	ORG-EMA-European-Medicines-Agency
+1406	1409	Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+1568	1577	covidu-19	covid-19	EVT	EVT-Covid-19
+1604	1612	BioNTech	BioNTech	ORG	ORG-BioNTech
+1625	1631	Pfizer	Pfizer	ORG	ORG-Pfizer
+1748	1755	Moderna	Moderna	ORG	ORG-Moderna
+1778	1781	Ema	Ema	ORG	ORG-EMA-European-Medicines-Agency
+1789	1817	pogojno dovoljenje za promet	pogojno dovoljenje za promet	PRO	PRO-EMA-Conditional-Marketing-Authorization-Covid-19
+1909	1918	covidu-19	covid-19	EVT	EVT-Covid-19
+1920	1937	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+1985	2013	pogojno dovoljenje za promet	pogojno dovoljenje za promet	PRO	PRO-EMA-Conditional-Marketing-Authorization-Covid-19
+2035	2037	EU	EU	ORG	ORG-European-Union
+2041	2074	Evropskega gospodarskega prostora	Evropski gospodarski prostor	ORG	ORG-EEA-European-Economic-Area
+2080	2091	Nizozemskem	Nizozemska	LOC	GPE-Holland
+2121	2132	Nizozemskem	Nizozemska	LOC	GPE-Holland

@@ -1,0 +1,14 @@
+21	31	koronaviru	koronavirus	EVT	EVT-Covid-19
+108	118	covidem-19	covid-19	EVT	EVT-Covid-19
+147	162	ChAdOx1 nCoV-19	ChAdOx1 nCoV-19	PRO	PRO-AZD1222-vaccine
+168	175	AZD1222	AZD1222	PRO	PRO-AZD1222-vaccine
+354	365	koronavirus	koronavirus	EVT	EVT-Covid-19
+456	467	koronavirus	koronavirus	EVT	EVT-Covid-19
+487	498	koronavirus	koronavirus	EVT	EVT-Covid-19
+567	578	koronavirus	koronavirus	EVT	EVT-Covid-19
+827	838	paracetamol	paracetamol	PRO	PRO-Paracetamol
+1093	1109	Sarah Gilbertová	Sarah Gilbertová	PER	PER-Sarah-Gilbert
+1200	1205	Britů	Britové	PER	GPE-Great-Britain
+1250	1265	Spojených států	Spojené státy	LOC	GPE-USA
+1283	1304	Jihoafrické republiky	Jihoafrická republika	LOC	GPE-Republic-of-South-Africa
+1315	1323	Brazilců	Brazilci	PER	GPE-Brazil

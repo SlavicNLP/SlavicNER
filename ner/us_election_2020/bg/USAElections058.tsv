@@ -1,0 +1,16 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+25	31	Байдън	Байдън	PER	PER-Joe-Biden
+64	76	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+123	133	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+137	164	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+232	239	Ройтерс	Ройтерс	ORG	ORG-Reuters
+302	308	Туитър	Туитър	PRO	PRO-Twitter
+321	333	републиканец	републиканец	PER	ORG-Republican-Party-USA
+361	367	Байдън	Байдън	PER	PER-Joe-Biden
+386	391	Тръмп	Тръмп	PER	PER-Donald-Trump
+410	424	републиканците	републиканци	PER	ORG-Republican-Party-USA
+550	561	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+612	617	Тръмп	Тръмп	PER	PER-Donald-Trump
+781	793	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+833	837	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+883	889	Байдън	Байдън	PER	PER-Joe-Biden

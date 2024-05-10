@@ -1,0 +1,36 @@
+0	8	Ковитиди	Ковитиди	PER	PER-Kotividi-Olga-Fedorovna
+27	42	британского МИД	британский МИД	ORG	ORG-Foreign-Office
+68	76	Джонсона	Джонсон	PER	PER-Boris-Johnson
+92	99	Совфеда	Совфед	ORG	ORG-Federal-Assembly-of-the-Russian-Federation
+126	140	Ольга Ковитиди	Ольга Ковитиди	PER	PER-Kotividi-Olga-Fedorovna
+160	165	iz.ru	iz.ru	PRO	PRO-IZ.RU
+194	212	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+213	228	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+456	470	Великобритании	Великобритания	LOC	GPE-Great-Britain
+471	486	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+532	538	России	Россия	LOC	GPE-Russia
+561	566	Крыму	Крым	LOC	GPE-Crimea
+685	709	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+722	730	Ковитиди	Ковитиди	PER	PER-Kotividi-Olga-Fedorovna
+770	784	Великобритании	Великобритания	LOC	GPE-Great-Britain
+837	846	Джонсоном	Джонсон	PER	PER-Boris-Johnson
+849	885	чемпионате мира по футболу 2018 года	чемпионат мира по футболу 2018 года	EVT	EVT-FIFA-World-Cup-2018
+900	906	России	Россия	LOC	GPE-Russia
+910	925	Олимпиадой 1936	Олимпиада 1936	EVT	EVT-Olympics-1936
+933	940	Берлине	Берлин	LOC	GPE-Berlin
+959	973	Третьего рейха	Третий рейх	LOC	GPE-Third-Reich
+974	989	Адольфа Гитлера	Адольф Гитлер	PER	PER-Adolf-Hitler
+1018	1024	России	Россия	LOC	GPE-Russia
+1141	1159	туманного Альбиона	туманный Альбион	LOC	GPE-Great-Britain
+1220	1227	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1239	1257	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+1362	1370	Лондоном	Лондон	LOC	GPE-London
+1373	1382	Брюсселем	Брюссель	LOC	GPE-Brussles
+1389	1395	Brexit	Brexit	EVT	EVT-Brexit
+1432	1440	Британии	Британия	LOC	GPE-Great-Britain
+1444	1446	ЕС	ЕС	ORG	ORG-European-Union
+1487	1505	кабинета министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+1565	1567	ЕС	ЕС	ORG	ORG-European-Union
+1658	1665	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1785	1787	ЕС	ЕС	ORG	ORG-European-Union
+1793	1799	Brexit	Brexit	EVT	EVT-Brexit

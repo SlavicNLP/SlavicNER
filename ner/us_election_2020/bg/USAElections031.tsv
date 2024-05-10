@@ -1,0 +1,42 @@
+0	6	Байдън	Байдън	PER	PER-Joe-Biden
+14	35	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+50	71	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+196	206	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+245	248	САЩ	САЩ	LOC	GPE-USA
+260	281	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+373	385	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+424	438	републиканците	републиканци	PER	ORG-Republican-Party-USA
+500	512	републиканци	републиканци	PER	ORG-Republican-Party-USA
+516	522	Сената	Сенат	ORG	ORG-United-States-Senate
+576	582	Байдън	Байдън	PER	PER-Joe-Biden
+617	622	Тръмп	Тръмп	PER	PER-Donald-Trump
+635	641	Байдън	Байдън	PER	PER-Joe-Biden
+698	707	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+726	731	Хавай	Хаваи	LOC	GPE-Hawaii
+781	787	Байдън	Байдън	PER	PER-Joe-Biden
+822	834	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+892	913	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+956	977	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+980	983	САЩ	САЩ	LOC	GPE-USA
+1035	1040	Тръмп	Тръмп	PER	PER-Donald-Trump
+1190	1210	Върховния съд на САЩ	Върховен съд на САЩ	ORG	ORG-Supreme-Court-of-the-United-States
+1226	1247	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+1271	1280	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1335	1343	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1427	1433	Байдън	Байдън	PER	PER-Joe-Biden
+1615	1620	Тръмп	Тръмп	PER	PER-Donald-Trump
+1719	1736	Изборната колегия	Изборна колегия	ORG	ORG-United-States-Electoral-College
+2022	2028	Байдън	Байдън	PER	PER-Joe-Biden
+2076	2081	Хаваи	Хаваи	LOC	GPE-Hawaii
+2144	2149	Тръмп	Тръмп	PER	PER-Donald-Trump
+2221	2233	американците	американци	PER	GPE-USA
+2454	2460	Байдън	Байдън	PER	PER-Joe-Biden
+2576	2582	Байдън	Байдън	PER	PER-Joe-Biden
+2729	2755	пандемията на коронавируса	пандемия на коронавирус	EVT	EVT-Covid-19
+2818	2823	Тръмп	Тръмп	PER	PER-Donald-Trump
+2906	2912	Байдън	Байдън	PER	PER-Joe-Biden
+3082	3088	Байдън	Байдън	PER	PER-Joe-Biden
+3123	3128	Тръмп	Тръмп	PER	PER-Donald-Trump
+3174	3182	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+3234	3242	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+3277	3290	Сената на САЩ	Сенат на САЩ	ORG	ORG-United-States-Senate

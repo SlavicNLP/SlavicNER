@@ -1,0 +1,15 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+13	15	AP	AP	ORG	ORG-AP-The-Associated-Press
+37	42	Trump	Trump	PER	PER-Donald-Trump
+76	103	Americké prezidentské volby	Americké prezidentské volby	EVT	EVT-2020-United-States-Presidential-Election
+260	262	AP	AP	ORG	ORG-AP-The-Associated-Press
+275	283	Bidenovi	Biden	PER	PER-Joe-Biden
+299	307	Trumpovi	Trump	PER	PER-Donald-Trump
+397	403	Nevadě	Nevada	LOC	GPE-Nevada
+567	577	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+608	617	Michiganu	Michigan	LOC	GPE-Michigan
+620	631	Pensylvánii	Pensylvánie	LOC	GPE-Pennsylvania
+672	674	AP	AP	ORG	ORG-AP-The-Associated-Press
+682	691	demokraté	demokraté	PER	ORG-Democratic-Party-USA
+701	712	republikáni	republikáni	PER	ORG-Republican-Party-USA
+744	746	AP	AP	ORG	ORG-AP-The-Associated-Press

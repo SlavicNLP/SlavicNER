@@ -1,0 +1,45 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+125	128	ZDA	ZDA	LOC	GPE-USA
+417	426	Pentagonu	Pentagon	ORG	ORG-The-Pentagon
+547	552	Trump	Trump	PER	PER-Donald-Trump
+614	620	Mehiko	Mehika	LOC	GPE-Mexico
+684	693	Pentagonu	Pentagon	ORG	ORG-The-Pentagon
+1198	1204	Trumpu	Trump	PER	PER-Donald-Trump
+1227	1230	ZDA	ZDA	LOC	GPE-USA
+1240	1244	Nato	Nato	ORG	ORG-NATO
+1289	1301	Južne Koreje	Južna Koreja	LOC	GPE-South-Korea
+1352	1360	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1475	1491	Bašarju al Asadu	Bašar al Asad	PER	PER-Bashar-al-Assad
+1538	1542	Krim	Krim	LOC	GPE-Crimea
+1646	1653	Nemčije	Nemčija	LOC	GPE-Germany
+1654	1667	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1919	1925	Evropi	Evropa	LOC	LOC-Europe
+2101	2114	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2118	2128	Turški tok	Turški tok	PRO	PRO-TurkStream
+2130	2132	EU	EU	ORG	ORG-European-Union
+2136	2142	Rusija	Rusija	LOC	GPE-Russia
+2256	2264	Pentagon	Pentagon	ORG	ORG-The-Pentagon
+2275	2280	Trump	Trump	PER	PER-Donald-Trump
+2357	2364	Nemčije	Nemčija	LOC	GPE-Germany
+2368	2375	Turčije	Turčija	LOC	GPE-Turkey
+2398	2411	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2447	2454	Nemčije	Nemčija	LOC	GPE-Germany
+2515	2518	ZDA	ZDA	LOC	GPE-USA
+2521	2528	Nemčijo	Nemčija	LOC	GPE-Germany
+2532	2538	Evropo	Evropa	LOC	LOC-Europe
+2571	2581	Turški tok	Turški tok	PRO	PRO-TurkStream
+2613	2625	Črnega morja	Črno morje	LOC	LOC-Black-Sea
+2628	2635	Turčijo	Turčija	LOC	GPE-Turkey
+2656	2662	Evropo	Evropa	LOC	LOC-Europe
+2966	2973	Allseas	Allseas	ORG	ORG-Allseas
+2999	3015	Severnega toka 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+3068	3075	Allseas	Allseas	ORG	ORG-Allseas
+3227	3233	Moskvi	Moskva	LOC	GPE-Moscow
+3377	3386	Facebooku	Facebook	PRO	PRO-Facebook
+3448	3463	Marija Zaharova	Marija Zaharova	PER	PER-Maria-Zaharova
+3587	3589	EU	EU	ORG	ORG-European-Union
+3600	3614	Evropska unija	Evropska unija	ORG	ORG-European-Union
+3701	3708	Bruslju	Bruselj	LOC	GPE-Brussles
+3759	3770	Peter Beyer	Peter Beyer	PER	PER-Peter-Beyer
+3822	3829	Nemčiji	Nemčija	LOC	GPE-Germany
+3869	3876	Nemčija	Nemčija	LOC	GPE-Germany

@@ -1,0 +1,25 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+38	44	Brexit	Brexit	EVT	EVT-Brexit
+80	88	Британії	Британія	LOC	GPE-Great-Britain
+89	99	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+169	171	ЄС	ЄС	LOC	ORG-European-Union
+230	240	Daily Mail	Daily Mail	ORG	ORG-Daily-Mail
+242	245	Мей	Мей	PER	PER-Theresa-May
+309	315	Brexit	Brexit	EVT	EVT-Brexit
+531	534	Мей	Мей	PER	PER-Theresa-May
+579	585	Brexit	Brexit	EVT	EVT-Brexit
+676	678	ЄС	ЄС	LOC	ORG-European-Union
+824	829	Філіп	Філіп	PER	PER-Philip
+878	886	Penderyn	Penderyn	ORG	ORG-Penderyn
+924	927	Мей	Мей	PER	PER-Theresa-May
+997	1013	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+1050	1056	Brexit	Brexit	EVT	EVT-Brexit
+1072	1081	Брюсселем	Брюссель	LOC	GPE-Brussles
+1114	1117	Мей	Мей	PER	PER-Theresa-May
+1235	1253	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+1302	1305	Мей	Мей	PER	PER-Theresa-May
+1364	1370	Brexit	Brexit	EVT	EVT-Brexit
+1371	1383	Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+1440	1458	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+1459	1470	Шайлеш Вара	Шайлеш Вара	PER	PER-Shailesh-Vara
+1497	1508	Естер Макві	Естер Макві	PER	PER-Ester-Makvi

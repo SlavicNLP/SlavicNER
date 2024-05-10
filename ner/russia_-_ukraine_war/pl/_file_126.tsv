@@ -1,0 +1,65 @@
+105	114	Cucinelli	Cucinelli	PER	PER-Brunello-Cucinelli
+372	379	Salomeo	Salomeo	LOC	GPE-Salomeo
+382	388	Umbrii	Umbria	LOC	GPE-Umbria
+554	572	Brunello Cucinelli	Brunello Cucinelli	PER	PER-Brunello-Cucinelli
+618	629	Instagramie	Instagram	PRO	PRO-Instagram
+645	651	Idioty	Idiota	PRO	PRO-The-Idiot-Fyodor-Dostoevsky
+653	675	Fiodora Dostojewskiego	Fiodor Dostojewski	PER	PER-Fyodor-Dostoevsky
+699	708	Cucinelli	Cucinelli	PER	PER-Brunello-Cucinelli
+780	785	Rosję	Rosja	LOC	GPE-Russia
+841	847	Rosjan	Rosjanie	PER	GPE-Russia
+850	858	Rosjanek	Rosjanki	PER	GPE-Russia
+915	933	Brunello Cucinelli	Brunello Cucinelli	PER	PER-Brunello-Cucinelli
+936	941	Rosji	Rosja	LOC	GPE-Russia
+1041	1049	Rosjanie	Rosjanie	PER	GPE-Russia
+1100	1118	Brunello Cucinelli	Brunello Cucinelli	PER	PER-Brunello-Cucinelli
+1241	1249	Ukraińcy	Ukraińcy	PER	GPE-Ukraine
+1341	1347	Europa	Europa	LOC	LOC-Europe
+1392	1397	Rosję	Rosja	LOC	GPE-Russia
+1468	1476	Ukrainie	Ukraina	LOC	GPE-Ukraine
+1485	1492	Europie	Europa	LOC	LOC-Europe
+1550	1557	Kijowem	Kijów	LOC	GPE-Kiev
+1560	1566	Moskwą	Moskwa	LOC	GPE-Moscow
+1604	1615	rząd włoski	rząd włoski	ORG	ORG-Government-of-Italy
+1670	1677	Ukrainę	Ukraina	LOC	GPE-Ukraine
+1726	1739	Godfrey Deeny	Godfrey Deeny	PER	PER-Godfrey-Deeny
+1762	1781	The Fashion Network	The Fashion Network	PRO	PRO-The-Fashion-Network
+1818	1824	Rosjan	Rosjanie	PER	GPE-Russia
+1881	1887	Putina	Putin	PER	PER-Vladimir-Putin
+1902	1911	Cucinelli	Cucinelli	PER	PER-Brunello-Cucinelli
+2081	2090	Cucinelli	Cucinelli	PER	PER-Brunello-Cucinelli
+2208	2214	Rosjan	Rosjanie	PER	GPE-Russia
+2372	2383	Cucinellego	Cucinelli	PER	PER-Brunello-Cucinelli
+2448	2455	Francji	Francja	LOC	GPE-France
+2456	2473	Emmanuela Macrona	Emmanuel Macron	PER	PER-Emmanuel-Macron
+2485	2492	Niemiec	Niemcy	LOC	GPE-Germany
+2493	2506	Olafa Scholza	Olaf Scholz	PER	PER-Olaf-Scholz
+2517	2522	Włoch	Włochy	LOC	GPE-Italy
+2523	2538	Mario Draghiego	Mario Draghiego	PER	PER-Mario-Draghi
+2552	2559	Rumunii	Rumunia	LOC	GPE-Romania
+2560	2576	Klausa Iohannisa	Klaus Iohannis	PER	PER-Klaus-Johannis
+2579	2586	Kijowie	Kijów	LOC	GPE-Kiev
+2598	2603	Paryż	Paryż	LOC	GPE-Paris
+2605	2611	Berlin	Berlin	LOC	GPE-Berlin
+2614	2618	Rzym	Rzym	LOC	GPE-Rome
+2716	2722	Macron	Macron	PER	PER-Emmanuel-Macron
+2761	2766	Rosją	Rosja	LOC	GPE-Russia
+2820	2826	Putina	Putin	PER	PER-Vladimir-Putin
+2888	2895	Kijowie	Kijów	LOC	GPE-Kiev
+2919	2936	ukraińskich władz	ukraińskie władze	ORG	ORG-Government-of-Ukraine
+2949	2955	Moskwą	Moskwa	LOC	GPE-Moscow
+2957	2966	Cucinelli	Cucinelli	PER	PER-Brunello-Cucinelli
+3000	3018	Brunello Cucinelli	Brunello Cucinelli	PER	PER-Brunello-Cucinelli
+3161	3179	starożytnego Rzymu	starożytny Rzym	LOC	GPE-Rome
+3215	3221	Umbrii	Umbria	LOC	GPE-Umbria
+3425	3441	wojny w Ukrainie	wojna w Ukrainie	EVT	EVT-2014-Russo-Ukrainian-War
+3504	3513	Cucinelli	Cucinelli	PER	PER-Brunello-Cucinelli
+3567	3572	Solon	Solon	PER	PER-Solon
+3684	3693	Ateńczycy	Ateńczycy	PER	athens
+3814	3823	Cucinelli	Cucinelli	PER	PER-Brunello-Cucinelli
+3838	3854	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+3912	3936	wojny trzydziestoletniej	wojna trzydziestoletnia	EVT	EVT-Thirty-Years-War
+3991	3997	Europy	Europa	LOC	LOC-Europe
+4053	4072	pokojem westfalskim	pokój westfalski	EVT	EVT-Peace-of-Westphalia
+4275	4284	Cucinelli	Cucinelli	PER	PER-Brunello-Cucinelli
+4319	4329	Mediolanie	Mediolan	LOC	GPE-Milan

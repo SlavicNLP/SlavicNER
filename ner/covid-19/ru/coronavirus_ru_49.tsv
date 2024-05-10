@@ -1,0 +1,110 @@
+26	32	Cookie	Cookie	PRO	PRO-Cookie
+142	148	Европа	Европа	LOC	LOC-Europe
+165	171	ковида	ковид	EVT	EVT-Covid-19
+187	196	европейцы	европейцы	PER	LOC-Europe
+233	239	Европе	Европа	LOC	LOC-Europe
+284	296	коронавируса	коронавирус	EVT	EVT-Covid-19
+324	330	ковида	ковид	EVT	EVT-Covid-19
+355	366	европейских	европейские	PER	GPE-Europe
+385	387	DW	DW	PRO	PRO-Deutsche-Welle
+399	414	BioNTech/Pfizer	BioNTech/Pfizer	PRO	PRO-BioNTech/Pfizer
+419	428	Евросоюзе	Евросоюз	LOC	LOC-Europe
+431	445	Великобритании	Великобритания	LOC	GPE-Great-Britain
+518	530	коронавируса	коронавирус	EVT	EVT-Covid-19
+546	555	европейцы	европейцы	PER	LOC-Europe
+614	622	Германии	Германия	LOC	GPE-Germany
+665	680	BioNTech/Pfizer	BioNTech/Pfizer	PRO	PRO-BioNTech/Pfizer
+731	749	западноевропейских	Западноевропейский	PER	GPE-Western-Europe
+862	869	Франции	Франция	LOC	GPE-France
+909	917	COVID-19	COVID-19	EVT	EVT-Covid-19
+944	951	Франции	Франция	LOC	GPE-France
+1023	1032	французов	французы	PER	GPE-France
+1060	1072	коронавируса	коронавирус	EVT	EVT-Covid-19
+1205	1212	Франции	Франция	LOC	GPE-France
+1253	1265	коронавируса	коронавирус	EVT	EVT-Covid-19
+1280	1288	Германии	Германия	LOC	GPE-Germany
+1367	1374	Франции	Франция	LOC	GPE-France
+1754	1767	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1771	1778	Франции	Франция	LOC	GPE-France
+1982	1991	британцев	британцы	PER	GPE-Great-Britain
+2020	2034	Великобритании	Великобритания	LOC	GPE-Great-Britain
+2049	2056	Франции	Франция	LOC	GPE-France
+2115	2127	коронавируса	коронавирус	EVT	EVT-Covid-19
+2182	2193	Der Spiegel	Der Spiegel	PRO	PRO-Der-Spiegel
+2277	2286	британцам	британцы	PER	GPE-Great-Britain
+2321	2336	BioNTech/Pfizer	BioNTech/Pfizer	PRO	PRO-BioNTech/Pfizer
+2374	2380	Европе	Европа	LOC	LOC-Europe
+2387	2398	Днем победы	День победы	EVT	EVT-Victory-Day
+2414	2423	Германией	Германия	LOC	GPE-Germany
+2425	2446	Victory in Europe Day	Victory in Europe Day	EVT	EVT-Victory-Day
+2560	2572	The Guardian	The Guardian	PRO	PRO-The-Guardian
+2673	2680	немецко	немецкий	PER	GPE-Germany
+2681	2694	американского	Американский	PER	GPE-USA
+2708	2723	BioNTech/Pfizer	BioNTech/Pfizer	PRO	PRO-BioNTech/Pfizer
+2750	2761	британского	британский	PER	GPE-Great-Britain
+2807	2832	Оксфордского университета	Оксфордский университет	ORG	ORG-University-of-Oxford
+2835	2842	шведско	шведский	PER	GPE-Sweden
+2843	2853	британским	британский	PER	GPE-Great-Britain
+2881	2892	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+2950	2952	ЕС	ЕС	ORG	ORG-European-Union
+2992	3002	итальянцев	Итальянцы	PER	GPE-Italia
+3029	3035	ковида	ковид	EVT	EVT-Covid-19
+3038	3044	Италия	Италия	LOC	GPE-Italy
+3168	3170	ЕС	ЕС	ORG	ORG-European-Union
+3205	3217	коронавируса	коронавирус	EVT	EVT-Covid-19
+3221	3227	Италии	Италия	LOC	GPE-Italy
+3326	3335	Евросоюзе	Евросоюз	ORG	ORG-European-Union
+3347	3362	BioNTech/Pfizer	BioNTech/Pfizer	PRO	PRO-BioNTech/Pfizer
+3386	3392	Италии	Италия	LOC	GPE-Italy
+3544	3557	Стефано Боэри	Стефано Боэри	PER	PER-Stefano-Boeri
+3744	3755	итальянской	итальянский	PER	GPE-Italy
+3888	3894	No Vax	No Vax	ORG	ORG-No-Vax
+3971	3983	Kantar Group	Kantar Group	ORG	ORG-Kantar
+4056	4062	Италии	Италия	LOC	GPE-Italy
+4089	4095	Европе	Европа	LOC	LOC-Europe
+4148	4155	Австрии	Австрия	LOC	GPE-Austria
+4181	4188	Австрии	Австрия	LOC	GPE-Austria
+4238	4259	Венского университета	Венский университет	ORG	ORG-University-of-Vienna
+4337	4349	коронавируса	коронавирус	EVT	EVT-Covid-19
+4527	4531	Вене	Вена	LOC	GPE-Vienna
+4615	4623	Германии	Германия	LOC	GPE-Germany
+4663	4670	Баварии	Бавария	LOC	GPE-Bavaria
+4671	4683	Маркус Зёдер	Маркус Зёдер	PER	PER-Markus-Soeder
+4685	4697	Markus Söder	Markus Söder	PER	PER-Markus-Soeder
+4715	4726	австрийских	австрийский	PER	GPE-Austria
+4734	4740	Штирия	Штирия	LOC	GPE-Austrian-Styria
+4743	4758	Верхняя Австрия	Верхняя Австрия	LOC	GPE-Upper-Austria
+4868	4880	коронавируса	коронавирус	EVT	EVT-Covid-19
+4990	4997	Австрии	Австрия	LOC	GPE-Austria
+4998	5012	Себастиан Курц	Себастиан Курц	PER	PER-Sebastian-Kurz
+5287	5293	Швеции	Швеция	LOC	GPE-Sweden
+5302	5307	шведы	шведы	PER	GPE-Sweden
+5332	5338	Швеции	Швеция	LOC	GPE-Sweden
+5565	5574	Pandemrix	Pandemrix	PRO	PRO-Pandemrix
+5575	5585	британской	британский	PER	GPE-Great-Britain
+5612	5627	GlaxoSmithKline	GlaxoSmithKline	ORG	ORG-GlaxoSmithKline
+5937	5945	шведском	шведский	PER	GPE-Sweden
+5946	5952	Мальмё	Мальмё	LOC	GPE-Malmo
+5955	5969	Андерс Тегнелл	Андерс Тегнелл	PER	PER-Anders-Tegnell
+6032	6041	шведского	шведский	PER	GPE-Sweden
+6066	6130	Национальном совете по здравоохранению и социальному обеспечению	Национальный совет по здравоохранению и социальному обеспечению	ORG	ORG-The-National-Board of-Health-and-Welfare-of-Sweden
+6231	6237	Швеции	Швеция	LOC	GPE-Sweden
+6365	6380	Института Novus	Институт Novus	ORG	ORG-Novus-Group-International
+6383	6393	Стокгольме	Стокгольм	LOC	GPE-Stockholm
+6414	6420	шведов	шведы	PER	GPE-Sweden
+6495	6507	коронавируса	коронавирус	EVT	EVT-Covid-19
+6520	6527	Испании	Испания	LOC	GPE-Spain
+6555	6567	коронавируса	коронавирус	EVT	EVT-Covid-19
+6570	6577	Испания	Испания	LOC	GPE-Spain
+6607	6619	коронавируса	коронавирус	EVT	EVT-Covid-19
+6711	6719	Германии	Германия	LOC	GPE-Germany
+6749	6758	испанское	испанский	PER	GPE-Spain
+6792	6799	испанцы	испанцы	PER	GPE-Spain
+6838	6846	COVID-19	COVID-19	EVT	EVT-Covid-19
+6879	6914	Испанского фонда науки и технологий	Испанский фонд науки и технологий	ORG	ORG-FECYT
+6916	6921	FECYT	FECYT	ORG	ORG-FECYT
+6984	6996	коронавируса	коронавирус	EVT	EVT-Covid-19
+7045	7057	коронавируса	коронавирус	EVT	EVT-Covid-19
+7066	7073	Испании	Испания	LOC	GPE-Spain
+7144	7158	Сальвадор Илья	Сальвадор Илья	PER	PER-Salvador-Illa
+7224	7235	европейским	европейский	LOC	LOC-Europe

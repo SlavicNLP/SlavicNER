@@ -1,0 +1,52 @@
+22	27	Adria	Adria	ORG	ORG-Adria-Airways
+295	300	Adria	Adria	ORG	ORG-Adria-Airways
+326	335	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+450	456	Evropi	Evropa	LOC	LOC-Europe
+480	489	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+497	502	Swiss	Swiss	ORG	ORG-Swiss-International-Air-Lines
+504	521	Brussels Airlines	Brussels Airlines	ORG	ORG-Brussels-Airlines
+525	532	Cityjet	Cityjet	ORG	ORG-CityJet
+586	592	Brniku	Brnik	LOC	LOC-Ljubljana-Jože-Pučnik-Airport
+651	657	United	United	ORG	ORG-United-Airlines
+673	682	Slovenije	Slovenija	LOC	GPE-Slovenia
+730	743	San Francisco	San Francisco	LOC	GPE-San-Francisco
+755	764	Ljubljano	Ljubljana	LOC	GPE-Ljubljana
+829	837	New York	New York	LOC	GPE-New-York
+843	853	Frankfurta	Frankfurt	LOC	GPE-Frankfurt-am-Main
+858	865	Züricha	Zürich	LOC	GPE-Zürich
+878	887	Ljubljano	Ljubljana	LOC	GPE-Ljubljana
+891	897	Čikago	Čikago	LOC	GPE-Chicago
+914	921	Houston	Houston	LOC	GPE-Houston
+997	1020	Združene države Amerike	Združene države Amerike	LOC	GPE-USA
+1047	1053	Brnika	Brnik	LOC	LOC-Ljubljana-Jože-Pučnik-Airport
+1334	1343	Ljubljane	Ljubljana	LOC	GPE-Ljubljana
+1443	1452	Ljubljane	Ljubljana	LOC	GPE-Ljubljana
+1456	1463	Bruslja	Bruselj	LOC	GPE-Brussles
+1466	1471	Adrio	Adria	ORG	ORG-Adria-Airways
+1649	1655	Benetk	Benetke	LOC	GPE-Venice
+1660	1667	Trevisa	Treviso	LOC	GPE-Treviso
+1689	1696	Bruslja	Bruselj	LOC	GPE-Brussles
+1761	1767	Evrope	Evropa	LOC	LOC-Europe
+2035	2043	Ryanaira	Ryanair	ORG	ORG-Ryanair
+2085	2097	Ryanairovega	Ryanairov	ORG	ORG-Ryanair
+2333	2340	Ryanair	Ryanair	ORG	ORG-Ryanair
+2608	2616	Ryanaira	Ryanair	ORG	ORG-Ryanair
+2650	2658	Ryanaira	Ryanair	ORG	ORG-Ryanair
+2704	2722	Michaela O'Learyja	Michael O'Leary	PER	PER-Michael-O'Leary
+3159	3164	Adria	Adria	ORG	ORG-Adria-Airways
+3299	3312	The Economist	The Economist	PRO	PRO-The-Economist
+3324	3330	Evropi	Evropa	LOC	LOC-Europe
+3386	3403	Združenih državah	Združene države	LOC	GPE-USA
+3454	3460	Evropi	Evropa	LOC	LOC-Europe
+3647	3650	Wow	Wow	ORG	ORG-Wow-air
+3659	3665	Flybmi	Flybmi	ORG	ORG-Flybmi
+3709	3717	Germania	Germania	ORG	ORG-Germania-(airline)
+3745	3748	VLM	VLM	ORG	ORG-VLM-Airlines
+3750	3761	Primera Air	Primera Air	ORG	ORG-Primera-Air
+3774	3781	Latviji	Latvija	LOC	GPE-Latvia
+3791	3801	Cobalt Air	Cobalt Air	ORG	ORG-Cobalt-Air
+3810	3818	Azur Air	Azur Air	ORG	ORG-Azur-Air
+3829	3850	Small Planet Airlines	Small Planet Airlines	ORG	ORG-Small-Planet-Airlines
+3874	3881	SkyWork	SkyWork	ORG	ORG-SkyWork
+3900	3910	Aigle Azur	Aigle Azur	ORG	ORG-Aigle-Azur
+3978	3983	Adria	Adria	ORG	ORG-Adria-Airways

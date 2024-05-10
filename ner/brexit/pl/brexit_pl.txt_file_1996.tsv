@@ -1,0 +1,72 @@
+14	22	brexicie	Brexit	EVT	EVT-Brexit
+33	39	Polsce	Polska	LOC	GPE-Poland
+41	49	Włoszech	Włochy	LOC	GPE-Italy
+51	56	Rosji	Rosja	LOC	GPE-Russia
+152	159	Brexitu	Brexit	EVT	EVT-Brexit
+174	182	Londynie	Londyn	LOC	GPE-London
+204	224	Timothy George Kelly	Timothy George Kelly	PER	PER-Timothy-George-Kelly
+267	284	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+315	319	Unii	Unia	ORG	ORG-European-Union
+322	329	Europie	Europa	LOC	LOC-Europe
+378	389	Brexitannia	Brexitannia	PRO	PRO-Brexitannia
+429	484	15. Festiwalu Filmowego Millennium Docs Against Gravity	15. Festiwal Filmowy Millennium Docs Against Gravity	EVT	EVT-15th-Millennium-Docs-Against-Gravity-Film-Festival
+570	579	Kelly’ego	Kelly	PER	PER-Timothy-George-Kelly
+629	641	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+715	723	brexicie	Brexit	EVT	EVT-Brexit
+772	783	Brexitannii	Brexitannia	PRO	PRO-Brexitannia
+785	808	Timothym Georgem Kellym	Timothy George Kelly	PER	PER-Timothy-George-Kelly
+819	835	Marcin Kozłowski	Marcin Kozłowski	PER	PER-Marcin-Kozłowski
+837	853	Marcin Kozłowski	Marcin Kozłowski	PER	PER-Marcin-Kozłowski
+914	925	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+954	971	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+973	993	Timothy George Kelly	Timothy George Kelly	PER	PER-Timothy-George-Kelly
+1066	1073	Francji	Francja	LOC	GPE-France
+1230	1238	Londynie	Londyn	LOC	GPE-London
+1279	1295	Australijczykiem	Australijczyk	PER	GPE-Australia
+1394	1411	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1414	1431	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1616	1622	Londyn	Londyn	LOC	GPE-London
+1661	1669	brexicie	Brexit	EVT	EVT-Brexit
+1714	1730	Australijczykiem	Australijczyk	PER	GPE-Australia
+1803	1810	Londynu	Londyn	LOC	GPE-London
+1835	1852	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1918	1927	Australia	Australia	LOC	GPE-Australia
+1958	1970	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2267	2283	Australijczykiem	Australijczyk	PER	GPE-Australia
+2295	2308	Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+2351	2362	Brexitannii	Brexitannia	PRO	PRO-Brexitannia
+2549	2572	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+3240	3251	Brexitannię	Brexitannia	PRO	PRO-Brexitannia
+3324	3341	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+3437	3439	UE	UE	ORG	ORG-European-Union
+3642	3648	brexit	Brexit	EVT	EVT-Brexit
+3993	4010	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4068	4075	brexitu	Brexit	EVT	EVT-Brexit
+4173	4180	brexitu	Brexit	EVT	EVT-Brexit
+4200	4202	UE	UE	ORG	ORG-European-Union
+4272	4274	UE	UE	ORG	ORG-European-Union
+4439	4441	UE	UE	ORG	ORG-European-Union
+4454	4458	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+4460	4505	Partia Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+4516	4528	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+4596	4609	David Cameron	David Cameron	PER	PER-David-Cameron
+4732	4743	Brexitannię	Brexitannia	PRO	PRO-Brexitannia
+4818	4824	Polsce	Polska	LOC	GPE-Poland
+4826	4834	Włoszech	Włochy	LOC	GPE-Italy
+4836	4841	Rosji	Rosja	LOC	GPE-Russia
+4970	4977	Włoszka	Włoszka	PER	GPE-Italy
+5076	5087	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+5290	5301	Brexitannii	Brexitannia	PRO	PRO-Brexitannia
+5346	5352	brexit	Brexit	EVT	EVT-Brexit
+5436	5453	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+5505	5516	Londyńczyka	Londyńczyk	PER	GPE-London
+5527	5534	brexitu	Brexit	EVT	EVT-Brexit
+5667	5669	UE	UE	ORG	ORG-European-Union
+5846	5857	Brexitannii	Brexitannia	PRO	PRO-Brexitannia
+5916	5927	Amerykanach	Amerykanie	PER	GPE-USA
+5930	5939	Rosjanach	Rosjanie	PER	GPE-Russia
+6000	6031	Millennium Docs Against Gravity	Millennium Docs Against Gravity	EVT	EVT-15th-Millennium-Docs-Against-Gravity-Film-Festival
+6050	6059	Warszawie	Warszawa	LOC	GPE-Warsaw
+6062	6071	Wrocławiu	Wrocław	LOC	GPE-Wrocław
+6098	6103	Gdyni	Gdynia	LOC	GPE-Gdynia
+6118	6126	Lublinie	Lublin	LOC	GPE-Lublin

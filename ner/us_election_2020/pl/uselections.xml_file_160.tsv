@@ -1,0 +1,32 @@
+0	6	POLACY	Polacy	PER	GPE-Poland
+32	39	Polonii	Polonia	ORG	ORG-Polonia
+54	62	Rusiński	Rusiński	PER	PER-Maciej-Rusiński
+89	102	wyborów w USA	wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+127	160	VII Zjazdu Klubów Gazety Polskiej	VII Zjazd Klubów Gazety Polskiej	EVT	EVT-7th-Congress-of-Polish-Newspaper-Clubs
+163	166	USA	USA	LOC	GPE-USA
+169	177	Kanadzie	Kanada	LOC	GPE-Canada
+254	275	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+365	371	Polsce	Polska	LOC	GPE-Poland
+399	406	Polonii	Polonia	ORG	ORG-Polonia
+471	487	Tomasz Sakiewicz	Tomasz Sakiewicz	PER	PER-Tomasz-Sakiewicz
+489	495	Polska	Polska	LOC	GPE-Poland
+602	609	Polonii	Polonia	ORG	ORG-Polonia
+663	677	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+690	697	Polonii	Polonia	ORG	ORG-Polonia
+794	808	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+851	858	Polonia	Polonia	ORG	ORG-Polonia
+875	889	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1045	1052	Polonii	Polonia	ORG	ORG-Polonia
+1054	1066	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1133	1140	Polonia	Polonia	ORG	ORG-Polonia
+1215	1230	Maciej Rusiński	Maciej Rusiński	PER	PER-Maciej-Rusiński
+1241	1250	Sakiewicz	Sakiewicz	PER	PER-Tomasz-Sakiewicz
+1448	1463	Gazety Polskiej	Gazeta Polska	PRO	PRO-Gazeta-Polska
+1486	1493	Polonii	Polonia	ORG	ORG-Polonia
+1496	1499	USA	USA	LOC	GPE-USA
+1763	1785	Klubów Gazety Polskiej	Kluby Gazety Polskiej	ORG	ORG-Polish-Newspaper-Clubs
+1801	1816	Maciej Rusiński	Maciej Rusiński	PER	PER-Maciej-Rusiński
+1848	1855	Polonia	Polonia	ORG	ORG-Polonia
+1858	1861	USA	USA	LOC	GPE-USA
+2143	2157	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2211	2226	Maciej Rusiński	Maciej Rusiński	PER	PER-Maciej-Rusiński

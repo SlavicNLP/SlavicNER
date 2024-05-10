@@ -1,0 +1,12 @@
+43	57	Великобритании	Великобритания	LOC	GPE-Great-Britain
+58	71	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+118	124	Рейтер	Рейтер	ORG	ORG-Reuters
+142	152	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+206	209	Мэй	Мэй	PER	PER-Theresa-May
+224	232	Джонсона	Джонсон	PER	PER-Boris-Johnson
+280	293	Даунинг-Стрит	Даунинг-Стрит	LOC	LOC-Downing-Street
+295	308	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+403	417	Великобритании	Великобритания	LOC	GPE-Great-Britain
+421	430	Евросоюза	Евросоюз	ORG	ORG-European-Union
+470	478	брекзита	брекзит	EVT	EVT-Brexit
+479	490	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis

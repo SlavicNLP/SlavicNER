@@ -1,0 +1,20 @@
+0	12	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+49	56	Брекзит	Брекзит	EVT	EVT-Brexit
+94	96	ЕС	ЕС	ORG	ORG-European-Union
+100	107	Брекзит	Брекзит	EVT	EVT-Brexit
+108	120	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+164	171	Брекзит	Брекзит	EVT	EVT-Brexit
+199	201	ЕС	ЕС	ORG	ORG-European-Union
+250	262	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+299	306	Брекзит	Брекзит	EVT	EVT-Brexit
+345	347	ЕС	ЕС	ORG	ORG-European-Union
+351	358	Брекзит	Брекзит	EVT	EVT-Brexit
+359	371	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+415	422	Брекзит	Брекзит	EVT	EVT-Brexit
+450	452	ЕС	ЕС	ORG	ORG-European-Union
+509	519	Франс прес	Франс прес	ORG	ORG-France-Presse
+533	538	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+541	555	Великобритания	Великобритания	LOC	GPE-Great-Britain
+647	653	Барние	Барние	PER	PER-Michel-Barnier
+689	691	ЕС	ЕС	ORG	ORG-European-Union
+735	749	Великобритания	Великобритания	LOC	GPE-Great-Britain

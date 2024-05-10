@@ -1,0 +1,40 @@
+24	36	коронавируса	коронавирус	EVT	EVT-Covid-19
+270	298	Голямата пандемия от 2020 г.	Голяма пандемия от 2020 г.	EVT	EVT-Pandemic
+369	375	Швеция	Швеция	LOC	GPE-Sweden
+399	405	Европа	Европа	LOC	LOC-Europe
+460	466	Швеция	Швеция	LOC	GPE-Sweden
+611	626	Financial Times	Financial Times	PRO	PRO-Financial-Times
+1221	1231	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+1233	1239	Тайван	Тайван	LOC	GPE-Taiwan
+1241	1250	Австралия	Австралия	LOC	GPE-Australia
+1253	1266	Нова Зеландия	Нова Зеландия	LOC	GPE-New-Zealand
+1602	1608	Швеция	Швеция	LOC	GPE-Sweden
+1962	1969	Шведите	шведи	PER	GPE-Sweden
+2046	2061	южноевропейците	южноевропейци	PER	GPE-South-Europe
+2105	2111	Швеция	Швеция	LOC	GPE-Sweden
+2201	2207	Швеция	Швеция	LOC	GPE-Sweden
+2245	2250	Дания	Дания	LOC	GPE-Denmark
+2252	2260	Норвегия	Норвегия	LOC	GPE-Norway
+2263	2272	Финландия	Финландия	LOC	GPE-Finland
+2425	2431	Швеция	Швеция	LOC	GPE-Sweden
+2498	2512	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2514	2521	Франция	Франция	LOC	GPE-France
+2523	2529	Италия	Италия	LOC	GPE-Italy
+2531	2537	Белгия	Белгия	LOC	GPE-Belgium
+2542	2549	Испания	Испания	LOC	GPE-Spain
+2594	2600	Швеция	Швеция	LOC	GPE-Sweden
+2730	2750	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+2792	2798	Швеция	Швеция	LOC	GPE-Sweden
+2800	2805	Дания	Дания	LOC	GPE-Denmark
+2808	2817	Финландия	Финландия	LOC	GPE-Finland
+2879	2885	Швеция	Швеция	LOC	GPE-Sweden
+3056	3066	Volvo Cars	Volvo Cars	ORG	ORG-Volvo-Cars
+3069	3081	Volvo Trucks	Volvo Trucks	ORG	ORG-Volvo-Trucks
+3177	3183	Европа	Европа	LOC	LOC-Europe
+3186	3199	Андерс Тегнел	Андерс Тегнел	PER	PER-Anders-Tegnell
+3242	3248	Швеция	Швеция	LOC	GPE-Sweden
+3426	3434	Стокхолм	Стокхолм	LOC	GPE-Stockholm
+3540	3546	Швеция	Швеция	LOC	GPE-Sweden
+3573	3598	втора вълна на инфекцията	втора вълна на инфекцията	EVT	EVT-COVID-19-second-wave
+3803	3805	ЕС	ЕС	ORG	ORG-European-Union
+3865	3871	Швеция	Швеция	LOC	GPE-Sweden

@@ -1,0 +1,44 @@
+69	80	Louis DeJoy	Louis DeJoy	PER	PER-Louis-DeJoy
+88	95	Reuters	Reuters	ORG	ORG-Reuters
+98	103	DeJoy	DeJoy	PER	PER-Louis-DeJoy
+321	324	ZDA	ZDA	LOC	GPE-USA
+347	350	ZDA	ZDA	LOC	GPE-USA
+351	365	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+366	371	DeJoy	DeJoy	PER	PER-Louis-DeJoy
+406	420	ameriške pošte	ameriška pošta	ORG	ORG-United-States-Postal-Service
+495	504	Trumpovih	Trump	PER	PER-Donald-Trump
+626	631	Trump	Trump	PER	PER-Donald-Trump
+796	805	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+887	893	Trumpa	Trump	PER	PER-Donald-Trump
+897	904	DeJoyja	DeJoy	PER	PER-Louis-DeJoy
+946	951	Trump	Trump	PER	PER-Donald-Trump
+1015	1025	demokratom	demokrati	ORG	ORG-Democratic-Party-USA
+1067	1079	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1268	1280	Pensilvanijo	Pensilvanija	LOC	GPE-Pennsylvania
+1307	1314	DeJoyju	DeJoy	PER	PER-Louis-DeJoy
+1417	1428	Kalifornija	Kalifornija	LOC	GPE-California
+1430	1438	Delaware	Delaware	LOC	GPE-Delaware
+1440	1445	Maine	Maine	LOC	GPE-Maine
+1447	1460	Massachusetts	Massachusetts	LOC	GPE-Massachusetts
+1474	1484	Washington	Washington	LOC	GPE-WashingtonDC
+1488	1504	Severna Karolina	Severna Karolina	LOC	GPE-North-Carolina-US-State
+1576	1592	Severne Karoline	Severna Karolina	LOC	GPE-North-Carolina-US-State
+1596	1608	Pensilvanije	Pensilvanija	LOC	GPE-Pennsylvania
+1728	1741	Josepha Bidna	Joseph Biden	PER	PER-Joe-Biden
+1744	1749	DeJoy	DeJoy	PER	PER-Louis-DeJoy
+2089	2094	DeJoy	DeJoy	PER	PER-Louis-DeJoy
+2190	2200	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+2245	2254	DeJoyjevo	DeJoy	PER	PER-Louis-DeJoy
+2451	2460	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+2537	2551	ameriška pošta	ameriška pošta	ORG	ORG-United-States-Postal-Service
+2607	2610	ZDA	ZDA	LOC	GPE-USA
+2702	2709	DeJoyja	DeJoy	PER	PER-Louis-DeJoy
+2768	2777	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+2780	2808	predstavniškem domu kongresa	predstavniški dom kongresa	ORG	ORG-House-of-Representatives(USA)
+2832	2844	Nancy Pelosi	Nancy Pelosi	PER	PER-Nancy-Pelosi
+2869	2874	DeJoy	DeJoy	PER	PER-Louis-DeJoy
+3065	3070	Trump	Trump	PER	PER-Donald-Trump
+3133	3141	Fox News	Fox News	PRO	PRO-Fox-News
+3208	3220	koronavirusa	koronavirus	EVT	EVT-Covid-19
+3226	3235	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+3419	3428	demokrati	demokrati	ORG	ORG-Democratic-Party-USA

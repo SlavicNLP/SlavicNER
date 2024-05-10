@@ -1,0 +1,19 @@
+0	9	Шотландия	Шотландия	LOC	GPE-Scotland
+76	83	Брекзит	Брекзит	EVT	EVT-Brexit
+120	129	Шотландия	Шотландия	LOC	GPE-Scotland
+161	175	Великобритания	Великобритания	LOC	GPE-Great-Britain
+184	200	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+247	254	Брекзит	Брекзит	EVT	EVT-Brexit
+304	306	ЕС	ЕС	ORG	ORG-European-Union
+367	399	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+401	404	СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+444	453	Шотландия	Шотландия	LOC	GPE-Scotland
+454	469	Никола Стърджън	Никола Стърджън	PER	PER-Nicola-Sturgeon
+502	510	Стърджън	Стърджън	PER	PER-Nicola-Sturgeon
+592	601	Шотландия	Шотландия	LOC	GPE-Scotland
+633	647	Великобритания	Великобритания	LOC	GPE-Great-Britain
+656	672	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+719	726	Брекзит	Брекзит	EVT	EVT-Brexit
+776	778	ЕС	ЕС	ORG	ORG-European-Union
+839	871	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+873	876	СТО	СТО	ORG	ORG-WTO-World-Trade-Organization

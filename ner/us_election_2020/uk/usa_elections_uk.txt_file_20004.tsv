@@ -1,0 +1,47 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+12	19	Байдена	Байден	PER	PER-Joe-Biden
+46	49	США	США	LOC	GPE-USA
+76	82	Байден	Байден	PER	PER-Joe-Biden
+95	114	Демократичну партію	Демократична партія	ORG	ORG-Democratic-Party-USA
+118	123	Трамп	Трамп	PER	PER-Donald-Trump
+126	141	Республіканську	Республіканська	ORG	ORG-Republican-Party-USA
+194	216	виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+239	257	колегії виборників	колегія виборників	ORG	ORG-United-States-Electoral-College
+266	279	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+373	388	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+532	540	Fox News	Fox News	PRO	PRO-Fox-News
+558	564	Невади	Невада	LOC	GPE-Nevada
+566	578	Пенсільванії	Пенсільванія	LOC	GPE-Pennsylvania
+580	598	Північної Кароліни	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+600	608	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+612	618	Аляски	Аляска	LOC	GPE-Alaska
+665	671	Неваді	Невада	LOC	GPE-Nevada
+709	715	Байден	Байден	PER	PER-Joe-Biden
+739	757	Північній Кароліні	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+783	788	Трамп	Трамп	PER	PER-Donald-Trump
+816	824	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+850	855	Трамп	Трамп	PER	PER-Donald-Trump
+868	880	Пенсільванії	Пенсільванія	LOC	GPE-Pennsylvania
+918	923	Трамп	Трамп	PER	PER-Donald-Trump
+948	954	Алясці	Аляска	LOC	GPE-Alaska
+986	991	Трамп	Трамп	PER	PER-Donald-Trump
+1044	1050	Аляски	Аляска	LOC	GPE-Alaska
+1121	1133	Пенсільванії	Пенсільванія	LOC	GPE-Pennsylvania
+1197	1203	Неваді	Невада	LOC	GPE-Nevada
+1298	1304	Байден	Байден	PER	PER-Joe-Biden
+1402	1424	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1433	1436	СNN	СNN	ORG	ORG-CNN
+1439	1453	New York Times	New York Times	ORG	ORG-New-York-Times
+1491	1494	CNN	CNN	ORG	ORG-CNN
+1497	1511	New York Times	New York Times	ORG	ORG-New-York-Times
+1576	1582	Байден	Байден	PER	PER-Joe-Biden
+1586	1592	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1604	1607	США	США	LOC	GPE-USA
+1669	1675	Алясці	Аляска	LOC	GPE-Alaska
+1682	1687	Трамп	Трамп	PER	PER-Donald-Trump
+1695	1701	Байден	Байден	PER	PER-Joe-Biden
+1749	1754	Трамп	Трамп	PER	PER-Donald-Trump
+1779	1795	Рональда Рейгана	Рональд Рейган	PER	PER-Ronald-Reagan
+1878	1884	Байден	Байден	PER	PER-Joe-Biden
+1964	1967	США	США	LOC	GPE-USA
+1979	1990	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration

@@ -1,0 +1,25 @@
+2	10	Білорусі	Білорусь	LOC	GPE-Belarus
+35	47	коронавірусу	коронавірус	EVT	EVT-Covid-19
+72	80	Білорусь	Білорусь	LOC	GPE-Belarus
+121	132	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+145	174	Міністерство охорони здоров’я	Міністерство охорони здоров’я	ORG	ORG-Ministry-of-Healthcare-Ukraine
+285	293	COVID-19	COVID-19	EVT	EVT-Covid-19
+531	545	Дмитро Піневич	Дмитро Піневич	PER	PER-Dmitry-Pinevich
+612	615	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+784	796	МОЗ Білорусі	МОЗ Білорусі	ORG	ORG-Ministry-of-Health-of-Belarus
+932	937	Росії	Росія	LOC	GPE-Russia
+938	953	Михайло Мурашко	Михайло Мурашко	PER	PER-Mikhail-Murashko
+983	991	Білорусі	Білорусь	LOC	GPE-Belarus
+1091	1099	Білорусь	Білорусь	LOC	GPE-Belarus
+1233	1248	Кирило Дмитрієв	Кирил Дмитрієв	PER	PER-Kirill-Dmitriev
+1262	1270	Білорусь	Білорусь	LOC	GPE-Belarus
+1353	1364	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+1460	1468	Білорусі	Білорусь	LOC	GPE-Belarus
+1608	1616	Білорусі	Білорусь	LOC	GPE-Belarus
+1726	1737	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+1748	1756	Білорусь	Білорусь	LOC	GPE-Belarus
+1910	1933	коронавірусної інфекції	коронавірусна інфекція	EVT	EVT-Covid-19
+2076	2091	Дмитра Піневича	Дмитро Піневич	PER	PER-Dmitry-Pinevich
+2107	2122	російського МОЗ	російський МОЗ	ORG	ORG-Russian-Ministry-of-Health
+2123	2134	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+2300	2308	Білорусі	Білорусь	LOC	GPE-Belarus

@@ -1,0 +1,54 @@
+0	16	Конгресът на САЩ	Конгрес на САЩ	ORG	ORG-United-States-Congress
+53	63	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+102	107	Тръмп	Тръмп	PER	PER-Donald-Trump
+118	126	Би Би Си	Би Би Си	ORG	ORG-BBC-Ltd
+212	224	републиканци	републиканци	PER	ORG-Republican-Party-USA
+275	287	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+374	382	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+445	450	Тръмп	Тръмп	PER	PER-Donald-Trump
+455	464	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+480	500	Националната гвардия	Национална гвардия	ORG	ORG-United-States-National-Guard
+518	523	Тръмп	Тръмп	PER	PER-Donald-Trump
+552	561	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+679	687	Би Би Си	Би Би Си	ORG	ORG-BBC-Ltd
+690	695	Тръмп	Тръмп	PER	PER-Donald-Trump
+875	878	САЩ	САЩ	LOC	GPE-USA
+879	889	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+970	978	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+996	1004	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1007	1034	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+1037	1044	Сенатът	Сенат	ORG	ORG-United-States-Senate
+1138	1141	САЩ	САЩ	LOC	GPE-USA
+1211	1214	САЩ	САЩ	LOC	GPE-USA
+1331	1337	Байдън	Байдън	PER	PER-Joe-Biden
+1405	1410	Тръмп	Тръмп	PER	PER-Donald-Trump
+1538	1560	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+1585	1597	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1696	1704	Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+1851	1860	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1887	1893	Сената	Сенат	ORG	ORG-United-States-Senate
+1933	1939	Байдън	Байдън	PER	PER-Joe-Biden
+1984	1988	Круз	Круз	PER	PER-Ted-Cruz
+2076	2080	Пенс	Пенс	PER	PER-Mike-Pence
+2135	2145	американци	американци	PER	GPE-USA
+2252	2256	Пенс	Пенс	PER	PER-Mike-Pence
+2318	2345	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+2356	2362	Сената	Сенат	ORG	ORG-United-States-Senate
+2538	2552	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+2575	2581	Сената	Сенат	ORG	ORG-United-States-Senate
+2646	2657	Демократите	демократи	PER	ORG-Democratic-Party-USA
+2678	2705	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+2715	2727	републиканци	републиканци	PER	ORG-Republican-Party-USA
+2750	2756	Сената	Сенат	ORG	ORG-United-States-Senate
+2919	2927	Би Би Си	Би Би Си	ORG	ORG-BBC-Ltd
+2955	2961	Сената	Сенат	ORG	ORG-United-States-Senate
+2962	2974	Мич Макконъл	Мич Макконъл	PER	PER-Mitch-McConnell
+3000	3006	Байдън	Байдън	PER	PER-Joe-Biden
+3024	3036	републиканци	републиканци	PER	ORG-Republican-Party-USA
+3085	3090	Тръмп	Тръмп	PER	PER-Donald-Trump
+3136	3141	Тръмп	Тръмп	PER	PER-Donald-Trump
+3221	3230	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3315	3320	Тръмп	Тръмп	PER	PER-Donald-Trump
+3351	3360	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3368	3376	Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+3388	3408	Националната гвардия	Национална гвардия	ORG	ORG-United-States-National-Guard

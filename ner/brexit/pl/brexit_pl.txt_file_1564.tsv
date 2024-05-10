@@ -1,0 +1,31 @@
+0	5	Putin	Putin	PER	PER-Vladimir-Putin
+7	22	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+52	66	Władimir Putin	Władimir Putin	PER	PER-Vladimir-Putin
+81	117	Międzynarodowego Forum Ekonomicznego	Międzynarodowe Forum Ekonomiczne	EVT	EVT-World-Economic-Forum-Petersburg
+120	131	Petersburgu	Petersburg	LOC	GPE-Saint-Petersburg
+147	162	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+171	176	Rosję	Rosja	LOC	GPE-Russia
+231	237	Londyn	Londyn	LOC	GPE-London
+246	251	Rosję	Rosja	LOC	GPE-Russia
+268	275	Brexitu	Brexit	EVT	EVT-Brexit
+291	309	Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+339	346	boeinga	Boeing	PRO	PRO-Boeing
+351	358	Ukrainą	Ukraina	LOC	GPE-Ukraine
+519	524	Rosji	Rosja	LOC	GPE-Russia
+572	577	Rosję	Rosja	LOC	GPE-Russia
+581	587	Brexit	Brexit	EVT	EVT-Brexit
+649	666	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+758	775	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+781	783	UE	UE	ORG	ORG-European-Union
+796	801	Rosji	Rosja	LOC	GPE-Russia
+815	820	Putin	Putin	PER	PER-Vladimir-Putin
+851	854	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+855	872	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+874	887	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+906	913	Brexitu	Brexit	EVT	EVT-Brexit
+1028	1034	Brexit	Brexit	EVT	EVT-Brexit
+1036	1045	Katalonia	Katalonia	LOC	GPE-Katalonia
+1055	1063	Skripala	Skripal	PER	PER-Siergiej-Skripal
+1065	1068	Bóg	Bóg	PER	PER-God
+1103	1107	MH17	MH17	EVT	EVT-MH17
+1198	1203	Rosji	Rosja	LOC	GPE-Russia

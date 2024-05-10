@@ -1,0 +1,43 @@
+120	126	России	Россия	LOC	GPE-Russia
+129	132	США	США	LOC	GPE-USA
+176	195	инаугурации Байдена	инаугурации Байдена	EVT	EVT-2020-United-States-presidential-inauguration
+209	215	России	Россия	LOC	GPE-Russia
+218	221	США	США	LOC	GPE-USA
+222	236	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+239	249	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+343	362	инаугурации Байдена	инаугурации Байдена	EVT	EVT-2020-United-States-presidential-inauguration
+421	432	Белого дома	Белый дом	ORG	ORG-The-White-House
+483	552	Договор о сокращении стратегических наступательных вооружений (СНВ-3)	Договор о сокращении стратегических наступательных вооружений (СНВ-3)	PRO	PRO-Strategic-Arms-Reduction-Treaty
+739	745	Байден	Байден	PER	PER-Joe-Biden
+756	763	Путиным	Путин	PER	PER-Vladimir-Putin
+780	809	американские выборы 2020 года	Американские выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+834	844	российская	российская	LOC	GPE-Russia
+907	919	американских	американский	LOC	GPE-USA
+929	940	Афганистане	Афганистан	LOC	GPE-Afghanistan
+1016	1034	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
+1059	1083	страны «Большой семерки»	страны «Большой семерки»	ORG	ORG-Group-of-Seven-G7
+1099	1102	США	США	LOC	GPE-USA
+1142	1152	Навального	Навальный	PER	PER-Alexei-Navalny
+1234	1245	Белого дома	Белый дом	ORG	ORG-The-White-House
+1246	1256	Джен Псаки	Джен Псаки	PER	PER-Jen-Psaki
+1298	1304	Байден	Байден	PER	PER-Joe-Biden
+1326	1337	российского	российский	LOC	GPE-Russia
+1351	1360	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1414	1420	России	Россия	LOC	GPE-Russia
+1489	1492	США	США	LOC	GPE-USA
+1518	1530	американский	америкнаский	LOC	GPE-USA
+1573	1580	Украине	Украина	LOC	GPE-Ukraine
+1615	1626	украинского	украинский	LOC	GPE-Ukraine
+1687	1693	России	Россия	LOC	GPE-Russia
+1702	1707	Псаки	Псаки	PER	PER-Jen-Psaki
+1717	1720	AFP	AFP	PRO	PRO-AFP
+1748	1754	Кремля	Кремль	ORG	ORG-Kremlin
+1771	1785	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1788	1798	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1857	1862	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+1870	1873	США	США	LOC	GPE-USA
+1877	1885	Договора	Договор о сокращении стратегических наступательных вооружений (СНВ-3)	PRO	PRO-Strategic-Arms-Reduction-Treaty
+1905	1913	иранскую	иранский	LOC	GPE-Iran
+2015	2027	коронавируса	коронавирус	EVT	EVT-Covid-19
+2045	2056	российского	российский	LOC	GPE-Russia
+2132	2142	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC

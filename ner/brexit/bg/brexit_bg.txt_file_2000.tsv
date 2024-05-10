@@ -1,0 +1,39 @@
+0	6	Лондон	Лондон	LOC	GPE-London
+43	57	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+99	106	Брекзит	Брекзит	EVT	EVT-Brexit
+136	146	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+157	171	Великобритания	Великобритания	LOC	GPE-Great-Britain
+211	213	ЕС	ЕС	ORG	ORG-European-Union
+255	269	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+283	297	Великобритания	Великобритания	LOC	GPE-Great-Britain
+390	393	Мей	Мей	PER	PER-Theresa-May
+432	439	Брекзит	Брекзит	EVT	EVT-Brexit
+502	524	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+546	556	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+585	596	Индипендънт	Индипендънт	PRO	PRO-The-Independent
+612	615	Мей	Мей	PER	PER-Theresa-May
+673	680	Брекзит	Брекзит	EVT	EVT-Brexit
+782	804	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+909	921	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+945	954	Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+1001	1009	Телеграф	Телеграф	PRO	PRO-The-Daily-Telegraph
+1025	1039	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+1090	1092	ЕС	ЕС	ORG	ORG-European-Union
+1106	1112	Лондон	Лондон	LOC	GPE-London
+1138	1145	Брюксел	Брюксел	LOC	GPE-Brussles
+1222	1229	Гардиън	Гардиън	PRO	PRO-The-Guardian
+1332	1338	Лондон	Лондон	LOC	GPE-London
+1364	1366	ЕС	ЕС	ORG	ORG-European-Union
+1370	1377	Брекзит	Брекзит	EVT	EVT-Brexit
+1378	1390	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+1410	1417	Брюксел	Брюксел	LOC	GPE-Brussles
+1486	1506	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1512	1519	Брекзит	Брекзит	EVT	EVT-Brexit
+1635	1641	Лондон	Лондон	LOC	GPE-London
+1678	1680	ЕС	ЕС	ORG	ORG-European-Union
+1704	1718	Дейли телеграф	Дейли телеграф	PRO	PRO-The-Daily-Telegraph
+1841	1848	Брекзит	Брекзит	EVT	EVT-Brexit
+2009	2012	Мей	Мей	PER	PER-Theresa-May
+2128	2142	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2232	2246	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+2328	2335	Брюксел	Брюксел	LOC	GPE-Brussles

@@ -1,0 +1,56 @@
+0	6	Polska	Polska	LOC	GPE-Poland
+25	28	USA	USA	LOC	GPE-USA
+39	52	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+54	60	Polska	Polska	LOC	GPE-Poland
+76	79	USA	USA	LOC	GPE-USA
+100	111	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+143	159	Jerzy Kwieciński	Jerzy Kwieciński	PER	PER-Jerzy-Kwieciński
+285	290	Rosji	Rosja	LOC	GPE-Russia
+294	301	Niemiec	Niemcy	LOC	GPE-Germany
+343	346	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+354	359	Rosję	Rosja	LOC	GPE-Russia
+360	366	Europy	Europa	LOC	LOC-Europe
+430	436	Niemcy	Niemcy	LOC	GPE-Germany
+497	507	Kwieciński	Kwieciński	PER	PER-Jerzy-Kwieciński
+521	538	Polskim Radiem 24	Polskie Radio 24	PRO	PRO-Polish-Radio-24
+541	554	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+575	591	Europy Środkowej	Europa Środkowa	LOC	LOC-Central-Europe
+593	606	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+655	660	Rosji	Rosja	LOC	GPE-Russia
+664	671	Niemiec	Niemcy	LOC	GPE-Germany
+771	776	Rosja	Rosja	LOC	GPE-Russia
+854	861	Ukrainy	Ukraina	LOC	GPE-Ukraine
+864	877	Rex Tillerson	Rex Tillerson	PER	PER-Rex-Tillerson
+893	899	Polska	Polska	LOC	GPE-Poland
+902	919	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+939	952	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1023	1029	Europy	Europa	LOC	LOC-Europe
+1043	1048	Rosji	Rosja	LOC	GPE-Russia
+1101	1117	Jerzy Kwieciński	Jerzy Kwieciński	PER	PER-Jerzy-Kwieciński
+1174	1192	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+1223	1231	Bruksela	Bruksela	LOC	GPE-Brussles
+1373	1375	UE	UE	ORG	ORG-European-Union
+1485	1498	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1500	1502	KE	KE	ORG	ORG-European-Commission
+1583	1603	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+1619	1621	UE	UE	ORG	ORG-European-Union
+1694	1703	Chorwacja	Chorwacja	LOC	GPE-Croatia
+1705	1710	Dania	Dania	LOC	GPE-Denmark
+1721	1726	Litwa	Litwa	LOC	GPE-Lithuania
+1728	1733	Łotwa	Łotwa	LOC	GPE-Latvia
+1735	1741	Polska	Polska	LOC	GPE-Poland
+1743	1750	Rumunia	Rumunia	LOC	GPE-Romania
+1752	1760	Słowacja	Słowacja	LOC	GPE-Slovakia
+1762	1769	Szwecja	Szwecja	LOC	GPE-Sweden
+1772	1787	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1827	1834	Francja	Francja	LOC	GPE-France
+1836	1845	Hiszpania	Hiszpania	LOC	GPE-Spain
+1848	1854	Włochy	Włochy	LOC	GPE-Italy
+1911	1924	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1941	1945	Cypr	Cypr	LOC	GPE-Cyprus
+1947	1953	Grecja	Grecja	LOC	GPE-Greece
+1956	1965	Finlandia	Finlandia	LOC	GPE-Finland
+2023	2030	Austria	Austria	LOC	GPE-Austria
+2032	2038	Belgia	Belgia	LOC	GPE-Belgium
+2040	2048	Holandia	Holandia	LOC	GPE-Holland
+2051	2057	Niemcy	Niemcy	LOC	GPE-Germany

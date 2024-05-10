@@ -1,0 +1,67 @@
+0	14	Поштова служба	Поштова служба	ORG	ORG-United-States-Postal-Service
+15	18	США	США	LOC	GPE-USA
+157	170	Голос Америки	Голос Америки	ORG	ORG-Voice-of-America
+173	187	Поштова служба	Поштова служба	ORG	ORG-United-States-Postal-Service
+188	191	США	США	LOC	GPE-USA
+345	372	федеральної поштової служби	федеральна поштова служба	ORG	ORG-United-States-Postal-Service
+472	480	пандемії	пандемія	EVT	EVT-Covid-19
+507	514	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+550	570	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+571	583	Ненсі Пелосі	Ненсі Пелосі	PER	PER-Nancy-Pelosi
+672	687	Поштової служби	Поштова служба	ORG	ORG-United-States-Postal-Service
+688	691	США	США	LOC	GPE-USA
+693	721	United States Postal Service	United States Postal Service	ORG	ORG-Air-Navigation-Services-of-Czech-Republic
+724	728	USPS	USPS	ORG	ORG-United-States-Postal-Service
+768	780	Луїса ДеДжоя	Луїс ДеДжой	PER	PER-Louis-DeJoy
+875	889	Хакім Джеффріз	Хакім Джеффріз	PER	PER-Hakeem-Jeffries
+892	899	Тед Лью	Тед Лью	PER	PER-Ted-Lieu
+924	927	ФБР	ФБР	ORG	ORG-FBI
+928	942	Крістофера Рея	Крістофер Рей	PER	PER-Christopher-Wray
+990	996	ДеДжоя	ДеДжой	PER	PER-Louis-DeJoy
+1084	1090	Трампу	Трамп	PER	PER-Donald-Trump
+1108	1115	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1136	1144	The Hill	The Hill	PRO	PRO-The-Hill
+1263	1285	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1317	1337	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+1501	1507	Пелосі	Пелосі	PER	PER-Nancy-Pelosi
+1547	1561	Поштова служба	Поштова служба	ORG	ORG-United-States-Postal-Service
+1604	1615	Конституції	Конституція	PRO	PRO-The-USA-Constitution
+1876	1882	Пелосі	Пелосі	PER	PER-Nancy-Pelosi
+1905	1911	Сенаті	Сенат	ORG	ORG-United-States-Senate
+1912	1921	Чак Шумер	Чак Шумер	PER	PER-Chuck-Schumer
+1924	1930	Пелосі	Пелосі	PER	PER-Nancy-Pelosi
+1941	1947	ДеДжоя	ДеДжой	PER	PER-Louis-DeJoy
+1968	1972	USPS	USPS	ORG	ORG-United-States-Postal-Service
+1999	2019	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+2058	2063	Шумер	Шумер	PER	PER-Chuck-Schumer
+2105	2114	Конгресом	Конгрес	ORG	ORG-United-States-Congress
+2169	2172	ФБР	ФБР	ORG	ORG-FBI
+2411	2415	USPS	USPS	ORG	ORG-United-States-Postal-Service
+2425	2431	ДеДжой	ДеДжой	PER	PER-Louis-DeJoy
+2482	2488	Трампа	Трамп	PER	PER-Donald-Trump
+2534	2547	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2626	2633	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2706	2721	Поштової служби	Поштова служба	ORG	ORG-United-States-Postal-Service
+2908	2921	коронавірусом	коронавірус	EVT	EVT-Covid-19
+2972	2983	Білого дому	Білий дім	ORG	ORG-White-House
+2984	2995	Марк Медоуз	Марк Медоуз	PER	PER-Mark-Meadows
+3022	3027	Трамп	Трамп	PER	PER-Donald-Trump
+3088	3105	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+3210	3216	Медоуз	Медоуз	PER	PER-Mark-Meadows
+3217	3220	CNN	CNN	ORG	ORG-CNN
+3252	3261	Білий дім	Білий дім	ORG	ORG-White-House
+3332	3339	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3470	3476	Мідоуз	Мідоуз	PER	PER-Mark-Meadows
+3525	3532	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3637	3648	Конституція	Конституція	PRO	PRO-The-USA-Constitution
+3667	3679	Ненсі Пелосі	Ненсі Пелосі	PER	PER-Nancy-Pelosi
+3682	3702	Палаті представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+3791	3794	США	США	LOC	GPE-USA
+3925	3944	The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+4239	4247	COVID-19	COVID-19	EVT	EVT-Covid-19
+4409	4416	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+4448	4461	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+4475	4482	Меланія	Меланія	PER	PER-Melania-Trump
+4538	4545	Флориді	Флорида	LOC	GPE-Florida
+5150	5158	пандемії	пандемія	EVT	EVT-Covid-19
+5253	5261	Білорусі	Білорусь	LOC	GPE-Belarus

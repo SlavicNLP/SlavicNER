@@ -1,0 +1,20 @@
+0	13	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+77	87	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+98	105	Reuters	Reuters	ORG	ORG-Reuters
+154	169	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+184	187	МИД	МИД	ORG	ORG-Foreign-Office
+265	268	Мэй	Мэй	PER	PER-Theresa-May
+385	405	британских министров	британские министры	PER	ORG-Cabinet-of-the-United-Kingdom
+461	475	Великобритании	Великобритания	LOC	GPE-Great-Britain
+479	488	Евросоюза	Евросоюз	ORG	ORG-European-Union
+489	500	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+562	568	Brexit	Brexit	EVT	EVT-Brexit
+570	598	Британский кабинет министров	Британский кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+656	666	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+708	711	Мэй	Мэй	PER	PER-Theresa-May
+757	759	ЕС	ЕС	ORG	ORG-European-Union
+828	838	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+854	861	Джонсон	Джонсон	PER	PER-Boris-Johnson
+864	869	Дэвис	Дэвис	PER	PER-David-Davis
+892	898	Brexit	Brexit	EVT	EVT-Brexit
+901	908	Reuters	Reuters	ORG	ORG-Reuters

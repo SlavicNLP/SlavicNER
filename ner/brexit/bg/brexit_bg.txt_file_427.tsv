@@ -1,0 +1,30 @@
+0	9	Шотландия	Шотландия	LOC	GPE-Scotland
+76	83	Брекзит	Брекзит	EVT	EVT-Brexit
+85	100	Никола Стърджън	Никола Стърджън	PER	PER-Nicola-Sturgeon
+136	145	Шотландия	Шотландия	LOC	GPE-Scotland
+177	191	Великобритания	Великобритания	LOC	GPE-Great-Britain
+200	216	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+263	270	Брекзит	Брекзит	EVT	EVT-Brexit
+320	322	ЕС	ЕС	ORG	ORG-European-Union
+383	415	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+417	420	СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+460	469	Шотландия	Шотландия	LOC	GPE-Scotland
+470	485	Никола Стърджън	Никола Стърджън	PER	PER-Nicola-Sturgeon
+519	527	Стърджън	Стърджън	PER	PER-Nicola-Sturgeon
+628	630	ЕС	ЕС	ORG	ORG-European-Union
+722	729	Ройтерс	Ройтерс	ORG	ORG-Reuters
+838	847	Шотландия	Шотландия	LOC	GPE-Scotland
+908	916	Скай нюз	Скай нюз	PRO	PRO-Sky-News-TV
+989	1003	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1006	1008	ЕС	ЕС	ORG	ORG-European-Union
+1064	1068	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+1070	1078	Стърджън	Стърджън	PER	PER-Nicola-Sturgeon
+1153	1155	ЕС	ЕС	ORG	ORG-European-Union
+1232	1241	Шотландия	Шотландия	LOC	GPE-Scotland
+1244	1264	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1305	1312	Брекзит	Брекзит	EVT	EVT-Brexit
+1464	1471	Брекзит	Брекзит	EVT	EVT-Brexit
+1473	1487	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1583	1585	ЕС	ЕС	ORG	ORG-European-Union
+1727	1734	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1738	1741	БТА	БТА	ORG	ORG-Bulgarian-News-Agency

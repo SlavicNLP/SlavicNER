@@ -1,0 +1,11 @@
+17	31	Великобритании	Великобритания	LOC	GPE-Great-Britain
+67	73	Brexit	Brexit	EVT	EVT-Brexit
+75	79	Рааб	Рааб	PER	PER-Dominic-Raab
+201	203	ЕС	ЕС	ORG	ORG-European-Union
+256	270	Великобритании	Великобритания	LOC	GPE-Great-Britain
+271	281	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+346	355	Евросоюза	Евросоюз	ORG	ORG-European-Union
+356	369	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+428	436	Кабмином	Кабмин	ORG	ORG-Cabinet-of-the-United-Kingdom
+476	478	ЕС	ЕС	ORG	ORG-European-Union
+485	491	Brexit	Brexit	EVT	EVT-Brexit

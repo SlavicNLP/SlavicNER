@@ -1,0 +1,26 @@
+0	8	Норвегия	Норвегия	LOC	GPE-Norway
+53	55	ЕС	ЕС	ORG	ORG-European-Union
+63	70	Брекзит	Брекзит	EVT	EVT-Brexit
+72	80	Норвегия	Норвегия	LOC	GPE-Norway
+100	114	Великобритания	Великобритания	LOC	GPE-Great-Britain
+142	149	Брекзит	Брекзит	EVT	EVT-Brexit
+162	166	Осло	Осло	LOC	GPE-Oslo
+230	232	ЕС	ЕС	ORG	ORG-European-Union
+267	274	Гардиън	Гардиън	PRO	PRO-The-Guardian
+337	345	Норвегия	Норвегия	LOC	GPE-Norway
+398	408	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+482	484	ЕС	ЕС	ORG	ORG-European-Union
+624	632	Норвегия	Норвегия	LOC	GPE-Norway
+670	672	ЕС	ЕС	ORG	ORG-European-Union
+676	690	Великобритания	Великобритания	LOC	GPE-Great-Britain
+800	808	Норвегия	Норвегия	LOC	GPE-Norway
+851	858	Брюксел	Брюксел	LOC	GPE-Brussles
+918	926	Норвегия	Норвегия	LOC	GPE-Norway
+961	991	Европейската икономическа зона	Европейска икономическа зона	ORG	ORG-EEA-European-Economic-Area
+1129	1159	Европейската икономическа зона	Европейска икономическа зона	ORG	ORG-EEA-European-Economic-Area
+1318	1320	ЕС	ЕС	ORG	ORG-European-Union
+1322	1329	Гардиън	Гардиън	PRO	PRO-The-Guardian
+1349	1356	Брюксел	Брюксел	LOC	GPE-Brussles
+1370	1372	ЕС	ЕС	ORG	ORG-European-Union
+1393	1397	Осло	Осло	LOC	GPE-Oslo
+1428	1442	Великобритания	Великобритания	LOC	GPE-Great-Britain

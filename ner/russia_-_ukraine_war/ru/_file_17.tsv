@@ -1,0 +1,68 @@
+2	8	Запада	Запад	LOC	LOC-West
+51	58	Украины	Украина	LOC	GPE-Ukraine
+109	116	семерки	семерка	ORG	ORG-Group-of-Seven
+118	132	Великобритании	Великобритания	LOC	GPE-Great-Britain
+134	142	Германии	Германия	LOC	GPE-Germany
+144	150	Италии	Италия	LOC	GPE-Italy
+152	158	Канады	Канада	LOC	GPE-Canada
+160	163	США	США	LOC	GPE-USA
+165	172	Франции	Франция	LOC	GPE-France
+175	181	Японии	Япония	LOC	GPE-Japan
+210	218	Вангельс	Вангельс	LOC	GPE-Wangels
+238	255	Шлезвиг-Гольштейн	Шлезвиг-Гольштейн	LOC	GPE-Schleswig-Holstein
+344	359	британского МИД	британский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+448	454	России	Россия	LOC	GPE-Russia
+704	711	Украины	Украина	LOC	GPE-Ukraine
+803	810	семерки	семерка	ORG	ORG-Group-of-Seven
+832	841	Штутгарте	Штутгарт	LOC	GPE-Stuttgart
+1010	1021	Белого дома	Белый дом	ORG	ORG-The-White-House
+1022	1032	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1083	1086	США	США	LOC	GPE-USA
+1177	1189	Джем Оздемир	Джем Оздемир	PER	PER-Cem-Ozdemir
+1219	1227	Германии	Германия	LOC	GPE-Germany
+1243	1250	Зеленых	Зеленые	ORG	ORG-Alliance-90-The-Greens
+1291	1293	ЕС	ЕС	ORG	ORG-European-Union
+1338	1344	Польшу	Польша	LOC	GPE-Poland
+1347	1355	Беларусь	Беларусь	LOC	GPE-Belarus
+1440	1447	Украины	Украина	LOC	GPE-Ukraine
+1450	1456	Польши	Польша	LOC	GPE-Poland
+1587	1593	Байден	Байден	PER	PER-Joe-Biden
+1603	1609	Россию	Россия	LOC	GPE-Russia
+2022	2025	СВО	СВО	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+2054	2062	Украиной	Украина	LOC	GPE-Ukraine
+2216	2257	Всемирной продовольственной программы ООН	Всемирная продовольственная программа ООН	ORG	ORG-The-United-Nations-World-Food-Programme
+2363	2371	Украиной	Украина	LOC	GPE-Ukraine
+2419	2428	Штутгарте	Штутгарт	LOC	GPE-Stuttgart
+2471	2478	Украины	Украина	LOC	GPE-Ukraine
+2479	2496	Николая Сольского	Николай Сольский	PER	PER-Mykola-Solskyi
+2562	2570	Гданьска	Гданьск	LOC	GPE-Gdansk
+2577	2585	Клайпеде	Клайпеда	LOC	GPE-Klaipeda
+2587	2592	Литва	Литва	LOC	GPE-Lithuania
+2612	2618	Латвии	Латвия	LOC	GPE-Latvia
+2761	2770	Констанца	Констанца	LOC	GPE-Constanta
+2809	2820	Черном море	Черное море	LOC	LOC-Black-Sea
+2922	2925	ООН	ООН	ORG	ORG-United-Nations
+2999	3007	Беларусь	Беларусь	LOC	GPE-Belarus
+3038	3047	Лукашенко	Лукашенко	PER	PER-Alexander-Lukashenko
+3079	3085	Минска	Минск	LOC	GPE-Minsk
+3108	3111	ООН	ООН	ORG	ORG-United-Nations
+3230	3236	Одессу	Одесса	LOC	GPE-Odessa
+3249	3262	Совета Европы	Совет Европы	ORG	ORG-Council-of-the-European-Union
+3263	3275	Шарль Мишель	Шарль Мишель	PER	PER-Charles-Michel
+3369	3372	СВО	СВО	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+3373	3380	Украина	Украина	LOC	GPE-Ukraine
+3516	3551	Украинского клуба аграрного бизнеса	Украинский клуб аграрного бизнеса	ORG	ORG-Ukrainian-Agribusiness-Club
+3621	3640	Маркиян Дмитрасевич	Маркиян Дмитрасевич	PER	PER-Markiyan-Dmytrasevych
+3681	3688	Украины	Украина	LOC	GPE-Ukraine
+3853	3860	Семерку	Семерка	ORG	ORG-Group-of-Seven
+4184	4190	Одессы	Одесса	LOC	GPE-Odessa
+4474	4481	семерки	семерка	ORG	ORG-Group-of-Seven
+4594	4601	Украины	Украина	LOC	GPE-Ukraine
+4602	4611	Зеленским	Зеленский	PER	PER-Volodymyr-Zelensky
+4640	4646	России	Россия	LOC	GPE-Russia
+4647	4655	Лавровым	Лавров	PER	PER-Sergey-Lavrov
+4667	4677	Зеленского	Зеленский	PER	PER-Volodymyr-Zelensky
+4825	4838	Сергей Лавров	Сергей Лавров	PER	PER-Sergey-Lavrov
+4874	4878	Оман	Оман	LOC	GPE-Oman
+5020	5026	Египте	Египет	LOC	GPE-Egypt
+5295	5302	Украине	Украина	LOC	GPE-Ukraine

@@ -1,0 +1,33 @@
+0	7	Брекзит	Брекзит	EVT	EVT-Brexit
+58	63	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+65	79	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+83	90	Брекзит	Брекзит	EVT	EVT-Brexit
+159	175	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+179	189	британците	британци	PER	GPE-Great-Britain
+215	236	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+254	274	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+275	289	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+362	393	българското европредседателство	Българско европредседателство	EVT	EVT-Bulgarian-Presidency-EU
+424	438	Великобритания	Великобритания	LOC	GPE-Great-Britain
+442	444	ЕС	ЕС	ORG	ORG-European-Union
+519	524	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+627	637	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+679	689	британците	британци	PER	GPE-Great-Britain
+717	719	ЕС	ЕС	ORG	ORG-European-Union
+827	832	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+917	924	Брекзит	Брекзит	EVT	EVT-Brexit
+930	940	британците	британци	PER	GPE-Great-Britain
+993	998	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1062	1079	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+1080	1091	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+1117	1123	Лондон	Лондон	LOC	GPE-London
+1202	1216	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1260	1262	ЕС	ЕС	ORG	ORG-European-Union
+1320	1325	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1411	1416	Полша	Полша	LOC	GPE-Poland
+1435	1437	ЕС	ЕС	ORG	ORG-European-Union
+1593	1598	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+1677	1682	Полша	Полша	LOC	GPE-Poland
+1727	1740	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
+1837	1850	еврокомисията	Еврокомисия	ORG	ORG-European-Commission
+2045	2047	ЕС	ЕС	ORG	ORG-European-Union

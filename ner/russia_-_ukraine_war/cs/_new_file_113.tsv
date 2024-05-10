@@ -1,0 +1,19 @@
+158	170	Maksim Jusin	Maksim Jusin	PER	PER-Maksim-Jusin
+223	261	speciální vojenské operace na Ukrajině	speciální vojenská operace na Ukrajině	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+275	280	Kreml	Kreml	LOC	LOC-Kremlin
+339	347	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+372	379	Švédsko	Švédsko	LOC	GPE-Sweden
+382	388	Finsko	Finsko	LOC	GPE-Finland
+401	405	NATO	NATO	ORG	ORG-NATO
+460	470	Pravo znat	Pravo znat	PRO	PRO-Pravo-Znat-Russian-TV-Show
+472	483	Právo vědět	Právo vědět	PRO	PRO-Pravo-Znat-Russian-TV-Show
+519	533	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+557	565	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+588	593	Rusko	Rusko	LOC	GPE-Russia
+625	630	Putin	Putin	PER	PER-Vladimir-Putin
+721	729	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+765	770	Kyjev	Kyjev	LOC	GPE-Kiev
+807	812	Rusko	Rusko	LOC	GPE-Russia
+904	908	NATO	NATO	ORG	ORG-NATO
+937	942	Jusin	Jusin	PER	PER-Maksim-Jusin
+1083	1100	ukrajinská armáda	ukrajinská armáda	ORG	ORG-Armed-Forces-of-Ukraine

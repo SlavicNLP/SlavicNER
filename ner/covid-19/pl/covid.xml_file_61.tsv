@@ -1,0 +1,35 @@
+15	27	koronawirusa	koronawirus	EVT	EVT-Covid-19
+92	99	Kościół	Kościół	ORG	ORG-Catholic-Church
+430	440	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1368	1376	BioNTech	BioNTech	ORG	ORG-BioNTech
+1377	1383	Pfizer	Pfizer	ORG	ORG-Pfizer
+1389	1396	Moderna	Moderna	ORG	ORG-Moderna
+1704	1732	Watykańska Kongregacja Nauki	Watykańska Kongregacja Nauki	ORG	ORG-Congregation-for-the-Doctrine-of-the Faith-Vatican
+1828	1836	COVID-19	COVID-19	EVT	EVT-Covid-19
+2062	2069	Europie	Europa	LOC	LOC-Europe
+2104	2113	Episkopat	Episkopat	ORG	ORG-Polish-Bishops-Conference
+3163	3171	BioNTech	BioNTech	ORG	ORG-BioNTech
+3200	3208	Pfizerem	Pfizer	ORG	ORG-Pfizer
+3355	3363	BioNTech	BioNTech	ORG	ORG-BioNTech
+3527	3534	Moderny	Moderna	ORG	ORG-Moderna
+5738	5743	COVID	COVID	EVT	EVT-Covid-19
+6424	6437	Nagroda Nobla	Nagroda Nobla	EVT	EVT-Nobel-Prize
+6444	6459	Jennifer Doudna	Jennifer Doudna	PER	PER-Jennifer-Doudna
+6462	6484	Emmanuelle Charpentier	Emmanuelle Charpentier	PER	PER-Emmanuelle-Charpentier
+7360	7372	koronawirusa	koronawirus	EVT	EVT-Covid-19
+8054	8065	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+8633	8644	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+9692	9705	koronawirusem	koronawirus	EVT	EVT-Covid-19
+10802	10810	COVID-19	COVID-19	EVT	EVT-Covid-19
+12367	12379	koronawirusa	koronawirus	EVT	EVT-Covid-19
+12917	12925	BioNTech	BioNTech	ORG	ORG-BioNTech
+12927	12934	Moderna	Moderna	ORG	ORG-Moderna
+12939	12946	CureVac	CureVac	ORG	ORG-CureVac
+13659	13674	Pfizer-BioNTech	Pfizer-BioNTech	ORG	ORG-Pfizer-BioNTech
+13680	13687	Moderny	Moderna	ORG	ORG-Moderna
+13792	13799	Moderny	Moderna	ORG	ORG-Moderna
+13893	13901	BioNTech	BioNTech	ORG	ORG-BioNTech
+14054	14079	Funduszu Odszkodowawczego	Fundusz Odszkodowawczy	PRO	ORG-Fundusz-Odszkodowawczy
+14142	14150	COVID-19	COVID-19	EVT	EVT-Covid-19
+15145	15153	COVID-19	COVID-19	EVT	EVT-Covid-19
+15364	15374	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19

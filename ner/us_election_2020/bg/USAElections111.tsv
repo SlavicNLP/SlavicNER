@@ -1,0 +1,63 @@
+0	17	Милен Керемедчиев	Милен Керемедчиев	PER	PER-Milen-Keremedchiev
+30	33	САЩ	САЩ	LOC	GPE-USA
+47	59	американците	американци	PER	GPE-USA
+123	128	Тръмп	Тръмп	PER	PER-Donald-Trump
+177	187	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+237	242	Тръмп	Тръмп	PER	PER-Donald-Trump
+380	385	Тръмп	Тръмп	PER	PER-Donald-Trump
+793	805	американците	американци	PER	GPE-USA
+853	862	европейци	европейци	PER	LOC-Europe
+867	874	канадци	канадци	PER	GPE-Canada
+879	889	мексиканци	мексиканци	PER	GPE-Mexico
+982	988	Сената	Сенат	ORG	ORG-United-States-Senate
+991	999	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1037	1042	Тръмп	Тръмп	PER	PER-Donald-Trump
+1066	1072	Байдън	Байдън	PER	PER-Joe-Biden
+1085	1110	пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Pandemic
+1249	1252	САЩ	САЩ	LOC	GPE-USA
+1265	1271	Европа	Европа	LOC	LOC-Europe
+1274	1294	Европейския съюз/ЕС/	Европейски съюз /ЕС/	ORG	ORG-European-Union
+1297	1300	САЩ	САЩ	LOC	GPE-USA
+1354	1356	ЕС	ЕС	ORG	ORG-European-Union
+1604	1609	Тръмп	Тръмп	PER	PER-Donald-Trump
+1624	1633	Балканите	Балкани	LOC	LOC-Balkans
+1636	1644	България	България	LOC	GPE-Bulgaria
+1711	1713	ЕК	ЕК	ORG	ORG-European-Commission
+1716	1719	САЩ	САЩ	LOC	GPE-USA
+1778	1786	България	България	LOC	GPE-Bulgaria
+1831	1846	Балкански поток	Балкански поток	PRO	PRO-Balkan-Stream
+1862	1877	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1900	1911	демократите	демократи	PER	ORG-Democratic-Party-USA
+1966	1971	Русия	Русия	LOC	GPE-Russia
+2086	2113	Република Северна Македония	Република Северна Македония	LOC	GPE-North-Macedonia
+2155	2163	България	България	LOC	GPE-Bulgaria
+2213	2230	Северна Македония	Северна Македония	LOC	GPE-North-Macedonia
+2308	2313	Русия	Русия	LOC	GPE-Russia
+2324	2330	Кремъл	Кремъл	LOC	LOC-Kremlin
+2396	2405	Балканите	Балкани	LOC	LOC-Balkans
+2414	2420	Сърбия	Сърбия	LOC	GPE-Serbia
+2480	2490	Черна гора	Черна гора	LOC	GPE-Montenegro
+2683	2689	Гърция	Гърция	LOC	GPE-Greece
+2693	2701	България	България	LOC	GPE-Bulgaria
+2800	2805	Русия	Русия	LOC	GPE-Russia
+2851	2860	Балканите	Балкани	LOC	LOC-Balkans
+2875	2881	Сърбия	Сърбия	LOC	GPE-Serbia
+2908	2935	Република Северна Македония	Република Северна Македония	LOC	GPE-North-Macedonia
+3043	3053	ВМРО-ДПМНЕ	ВМРО-ДПМНЕ	ORG	ORG-VMRO-DPMNE
+3128	3140	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3671	3682	демократите	демократи	PER	ORG-Democratic-Party-USA
+3707	3712	Тръмп	Тръмп	PER	PER-Donald-Trump
+3736	3750	републиканците	републиканци	PER	ORG-Republican-Party-USA
+3775	3789	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+4023	4033	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+4186	4189	САЩ	САЩ	LOC	GPE-USA
+4196	4208	републиканци	републиканци	PER	ORG-Republican-Party-USA
+4211	4220	демократи	демократи	PER	ORG-Democratic-Party-USA
+4256	4264	България	България	LOC	GPE-Bulgaria
+4298	4309	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+4368	4371	САЩ	САЩ	LOC	GPE-USA
+4380	4388	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+4472	4487	Рудолф Джулиани	Рудолф Джулиани	PER	PER-Rudolph-Giuliani
+4552	4557	Тръмп	Тръмп	PER	PER-Donald-Trump
+4940	4953	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+4962	4967	Тръмп	Тръмп	PER	PER-Donald-Trump

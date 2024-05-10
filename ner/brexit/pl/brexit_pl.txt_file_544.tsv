@@ -1,0 +1,41 @@
+3	7	Unia	Unia	ORG	ORG-European-Union
+14	21	polexit	Polexit	EVT	EVT-Polexit
+72	78	Polski	Polska	LOC	GPE-Poland
+81	85	Unii	Unia	ORG	ORG-European-Union
+147	165	Jarosław Kaczyński	Jarosław Kaczyński	PER	PER-Jaroslav-Kaczyński
+216	227	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+248	256	brexitem	Brexit	EVT	EVT-Brexit
+285	306	Zdzisław Krasnodębski	Zdzisław Krasnodębski	PER	PER-Zdzisław-Krasnodębski
+368	374	Polsce	Polska	LOC	GPE-Poland
+376	385	Europoseł	Europoseł	PER	ORG-European-Parlament
+386	389	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+462	464	UE	UE	ORG	ORG-European-Union
+539	545	Polski	Polska	LOC	GPE-Poland
+595	610	Komisją Wenecką	Komisja Wenecka	ORG	ORG-Venice-Commission
+626	630	Unii	Unia	ORG	ORG-European-Union
+709	712	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+713	725	Krasnodębski	Krasnodębski	PER	PER-Zdzisław-Krasnodębski
+816	818	UE	UE	ORG	ORG-European-Union
+872	880	Warszawy	Warszawa	LOC	GPE-Warsaw
+975	998	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+1021	1041	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+1071	1077	Polsce	Polska	LOC	GPE-Poland
+1110	1112	UE	UE	ORG	ORG-European-Union
+1162	1183	Zdzisław Krasnodębski	Zdzisław Krasnodębski	PER	PER-Zdzisław-Krasnodębski
+1227	1235	polexitu	Polexit	EVT	EVT-Polexit
+1346	1350	Unia	Unia	ORG	ORG-European-Union
+1360	1366	Polsce	Polska	LOC	GPE-Poland
+1443	1450	Berlina	Berlin	LOC	GPE-Berlin
+1569	1587	Krystyna Pawłowicz	Krystyna Pawłowicz	PER	PER-Krystyna-Pawłowicz
+1643	1646	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+1730	1732	UE	UE	ORG	ORG-European-Union
+1742	1748	Polski	Polska	LOC	GPE-Poland
+1886	1889	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+1981	2003	Jarosława Kaczyńskiego	Jarosław Kaczyński	PER	PER-Jaroslav-Kaczyński
+2072	2076	Unii	Unia	ORG	ORG-European-Union
+2102	2105	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+2189	2207	Komisję Europejską	Komisja Europejska	ORG	ORG-European-Commission
+2208	2225	Rafał Ziemkiewicz	Rafał Ziemkiewicz	PER	PER-Rafał-Ziemkiewicz
+2292	2296	Unią	Unia	ORG	ORG-European-Union
+2463	2480	Stanisław Janecki	Stanisław Janecki	PER	PER-Stanisław-Janecki
+2506	2526	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission

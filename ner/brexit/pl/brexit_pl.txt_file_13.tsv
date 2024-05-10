@@ -1,0 +1,88 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+25	39	Kenneth Clarke	Kenneth Clarke	PER	PER-Kenneth-Clarke
+165	169	Unii	Unia	ORG	ORG-European-Union
+465	474	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+788	795	brexitu	Brexit	EVT	EVT-Brexit
+866	883	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+886	890	Unii	Unia	ORG	ORG-European-Union
+1403	1410	brexitu	Brexit	EVT	EVT-Brexit
+1600	1604	Unią	Unia	ORG	ORG-European-Union
+1659	1667	brexicie	Brexit	EVT	EVT-Brexit
+1685	1697	Independenta	Independent	PRO	PRO-The-Independent
+1785	1797	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1815	1819	Unię	Unia	ORG	ORG-European-Union
+1959	1966	brexitu	Brexit	EVT	EVT-Brexit
+2200	2206	brexit	Brexit	EVT	EVT-Brexit
+2292	2296	Unii	Unia	ORG	ORG-European-Union
+2416	2426	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+2505	2513	brexicie	Brexit	EVT	EVT-Brexit
+2765	2772	brexitu	Brexit	EVT	EVT-Brexit
+2773	2781	Bruksela	Bruksela	LOC	GPE-Brussles
+2845	2853	Brukseli	Bruksela	LOC	GPE-Brussles
+2965	2969	Unią	Unia	ORG	ORG-European-Union
+3153	3165	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+3180	3186	Europy	Europa	LOC	LOC-Europe
+3528	3532	Unii	Unia	ORG	ORG-European-Union
+3535	3552	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3555	3567	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+3665	3676	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+3766	3774	Irlandii	Irlandia	LOC	GPE-Ireland
+3911	3917	Kanału	Kanał	LOC	LOC-English-Channel
+3975	3988	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+4000	4003	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+4059	4063	Unia	Unia	ORG	ORG-European-Union
+4098	4104	Niemcy	Niemcy	LOC	GPE-Germany
+4151	4163	Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+4472	4476	Unii	Unia	ORG	ORG-European-Union
+4477	4488	Theresa May	Theresa May	PER	PER-Theresa-May
+4545	4562	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+4565	4583	Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+4605	4620	Wielka Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+4648	4650	UE	UE	ORG	ORG-European-Union
+4757	4765	Irlandii	Irlandia	LOC	GPE-Ireland
+4872	4880	Irlandii	Irlandia	LOC	GPE-Ireland
+4904	4909	Dover	Dover	LOC	GPE-Dover
+5053	5088	Europejskiego Obszaru Gospodarczego	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+5090	5093	EEA	EEA	ORG	ORG-EEA-European-Economic-Area
+5130	5138	Norwegia	Norwegia	LOC	GPE-Norway
+5142	5150	Brukseli	Bruksela	LOC	GPE-Brussles
+5151	5154	May	May	PER	PER-Theresa-May
+5218	5225	brexitu	Brexit	EVT	EVT-Brexit
+5245	5248	May	May	PER	PER-Theresa-May
+5350	5363	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+5365	5377	Michael Gove	Michael Gove	PER	PER-Michael-Gove
+5584	5587	May	May	PER	PER-Theresa-May
+5599	5607	Brukseli	Bruksela	LOC	GPE-Brussles
+5763	5766	May	May	PER	PER-Theresa-May
+5913	5926	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+6023	6043	Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+6097	6104	Corbyna	Corbyn	PER	PER-Jeremy-Corbyn
+6139	6145	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+6247	6250	May	May	PER	PER-Theresa-May
+6416	6420	Unii	Unia	ORG	ORG-European-Union
+6447	6449	27	27	ORG	ORG-European-Union
+6495	6503	Londynem	Londyn	LOC	GPE-London
+6583	6586	May	May	PER	PER-Theresa-May
+6807	6810	May	May	PER	PER-Theresa-May
+6967	6975	Corbynem	Corbyn	PER	PER-Jeremy-Corbyn
+7108	7117	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+7163	7171	brexicie	Brexit	EVT	EVT-Brexit
+7193	7201	Guardian	Guardian	PRO	PRO-The-Guardian
+7243	7250	torysów	torysi	PER	ORG-Tories
+7253	7264	laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+7284	7291	brexitu	Brexit	EVT	EVT-Brexit
+7420	7430	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+7508	7512	Unią	Unia	ORG	ORG-European-Union
+7699	7706	torysów	torysi	PER	ORG-Tories
+7747	7759	Partią Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+7782	7793	laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+7828	7836	torysami	torysi	PER	ORG-Tories
+8101	8109	Brukseli	Bruksela	LOC	GPE-Brussles
+8153	8157	City	City	LOC	LOC-City-of-London
+8585	8601	Jędrzej Bielecki	Jędrzej Bielecki	PER	PER-Jędrzej-Bielecki
+8603	8617	Kenneth Clarke	Kenneth Clarke	PER	PER-Kenneth-Clarke
+8657	8678	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+8712	8721	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+8760	8777	Margaret Thatcher	Margaret Thatcher	PER	PER-Margaret-Thatcher
+8779	8791	Johna Majora	John Major	PER	PER-John-Major
+8794	8809	Davida Camerona	David Cameron	PER	PER-David-Cameron

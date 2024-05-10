@@ -1,0 +1,73 @@
+44	55	Демократите	демократи	PER	ORG-Democratic-Party-USA
+56	66	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+74	115	изборите за президент на Съединените щати	избори за президент на Съединените щати	EVT	EVT-2020-United-States-Presidential-Election
+190	196	Байдън	Байдън	PER	PER-Joe-Biden
+220	241	Електоралната колегия	Електорална колегия	ORG	ORG-United-States-Electoral-College
+250	261	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+291	297	Байдън	Байдън	PER	PER-Joe-Biden
+335	344	Белия дом	Бял дом	LOC	LOC-White-House
+347	359	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+531	542	демократите	демократи	PER	ORG-Democratic-Party-USA
+543	553	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+570	591	Електоралната колегия	Електорална колегия	ORG	ORG-United-States-Electoral-College
+610	622	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+670	680	демократът	демократ	PER	ORG-Democratic-Party-USA
+681	687	Байдън	Байдън	PER	PER-Joe-Biden
+694	705	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+749	758	Белия дом	Бял дом	LOC	LOC-White-House
+807	815	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+931	938	Аризона	Аризона	LOC	GPE-Arizona
+1023	1029	Байдън	Байдън	PER	PER-Joe-Biden
+1032	1038	Байдън	Байдън	PER	PER-Joe-Biden
+1072	1078	Невада	Невада	LOC	GPE-Nevada
+1106	1122	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+1147	1160	републиканеца	републиканец	PER	ORG-Republican-Party-USA
+1161	1173	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1252	1258	Аляска	Аляска	LOC	GPE-Alaska
+1450	1456	Океана	Океан	LOC	LOC-Atlantic-Ocean
+1488	1504	Стария континент	Стар континент	LOC	LOC-Europe
+1586	1595	Белия дом	Бял дом	LOC	LOC-White-House
+1659	1670	Демократите	демократи	PER	ORG-Democratic-Party-USA
+1671	1685	Хилари Клинтън	Хилари Клинтън	PER	PER-Hillary-Clinton
+1726	1747	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+1787	1790	САЩ	САЩ	LOC	GPE-USA
+1826	1836	американци	американци	PER	GPE-USA
+1923	1944	електоралната колегия	Електорална колегия	ORG	ORG-United-States-Electoral-College
+1953	1962	Колегията	Колегия	ORG	ORG-United-States-Electoral-College
+2119	2124	Тръмп	Тръмп	PER	PER-Donald-Trump
+2165	2172	Клинтън	Клинтън	PER	PER-Hillary-Clinton
+2310	2316	Аляска	Аляска	LOC	GPE-Alaska
+2318	2326	Уайоминг	Уайоминг	LOC	GPE-Wyoming
+2329	2336	Монтана	Монтана	LOC	GPE-Montana-US-State
+2383	2393	Калифорния	Калифорния	LOC	GPE-California
+2404	2416	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2447	2450	САЩ	САЩ	LOC	GPE-USA
+2832	2855	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2870	2884	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+3065	3071	Тексас	Тексас	LOC	GPE-Texas
+3073	3084	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+3086	3091	Охайо	Охайо	LOC	GPE-Ohio
+3093	3098	Айова	Айова	LOC	GPE-Iowa
+3100	3107	Флорида	Флорида	LOC	GPE-Florida
+3109	3118	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+3120	3128	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+3130	3146	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+3148	3155	Аризона	Аризона	LOC	GPE-Arizona
+3158	3165	Мичиган	Мичиган	LOC	GPE-Michigan
+3168	3178	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3208	3217	Белия дом	Бял дом	LOC	LOC-White-House
+3275	3280	Охайо	Охайо	LOC	GPE-Ohio
+3282	3288	Тексас	Тексас	LOC	GPE-Texas
+3291	3298	Флорида	Флорида	LOC	GPE-Florida
+3372	3384	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3485	3494	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3512	3522	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3538	3542	Джил	Джил	PER	PER-Jill-Biden
+3559	3569	Уилмингтън	Уилмингтън	LOC	GPE-Wilmington
+3576	3584	Делауеър	Делауеър	LOC	GPE-Delaware
+3789	3796	bntnews	bntnews	PRO	PRO-bntnews-app
+3861	3874	Денят започва	Денят започва	PRO	PRO-Deniat-zapochva
+3949	3968	Цветелина Йорданова	Цветелина Йорданова	PER	PER-Tsvetelina-Yordanova
+3971	3988	Александър Марков	Александър Марков	PER	PER-Aleksandar-Markov
+4003	4018	Атанас Атанасов	Атанас Атанасов	PER	PER-Atanas-Atanasov
+4021	4039	Владимир Богдански	Владимир Богдански	PER	PER-Vladimir-Bogdanski

@@ -1,0 +1,37 @@
+6	13	Іспанія	Іспанія	LOC	GPE-Spain
+24	30	Brexit	Brexit	EVT	EVT-Brexit
+65	75	Гібралтару	Гібралтар	LOC	GPE-Gibraltar
+102	112	Гібралтару	Гібралтар	LOC	GPE-Gibraltar
+186	189	МЗС	МЗС	ORG	ORG-Foreign-Office
+190	202	Хосеп Борель	Хосеп Борель	PER	PER-Josep-Borrell
+214	221	Іспанія	Іспанія	LOC	GPE-Spain
+243	249	Brexit	Brexit	EVT	EVT-Brexit
+302	312	Гібралтару	Гібралтар	LOC	GPE-Gibraltar
+330	337	Іспанія	Іспанія	LOC	GPE-Spain
+517	540	Сполученим Королівством	Сполучене Королівство	LOC	GPE-Great-Britain
+543	545	ЄС	ЄС	LOC	ORG-European-Union
+564	573	Гібралтар	Гібралтар	LOC	GPE-Gibraltar
+585	591	Борель	Борель	PER	PER-Josep-Borrell
+636	646	Гібралтару	Гібралтар	LOC	GPE-Gibraltar
+724	733	Гібралтар	Гібралтар	LOC	GPE-Gibraltar
+756	772	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+785	793	Іспанією	Іспанія	LOC	GPE-Spain
+805	829	Піренейського півострова	Піренейській півострів	LOC	LOC-Iberian-Peninsula
+842	861	Гибралтарську скелю	Гібралтарська скеля	LOC	GPE-Gibraltar
+902	926	Піренейським півостровом	Піренейський півострів	LOC	LOC-Iberian-Peninsula
+928	935	Рада ЄС	Рада ЄС	ORG	ORG-Council-of-the-European-Union
+1020	1029	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1060	1068	Британії	Британія	LOC	GPE-Great-Britain
+1101	1103	ЄС	ЄС	LOC	ORG-European-Union
+1147	1153	Brexit	Brexit	EVT	EVT-Brexit
+1181	1187	Brexit	Brexit	EVT	EVT-Brexit
+1190	1199	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1202	1210	Британії	Британія	LOC	GPE-Great-Britain
+1236	1259	Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+1262	1264	ЄС	ЄС	LOC	ORG-European-Union
+1373	1383	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1433	1436	Мей	Мей	PER	PER-Theresa-May
+1462	1468	Brexit	Brexit	EVT	EVT-Brexit
+1528	1531	Мей	Мей	PER	PER-Theresa-May
+1546	1561	Мінфін Британії	Мінфін Британії	ORG	ORG-Ministry-of-Finance-UK
+1632	1638	Brexit	Brexit	EVT	EVT-Brexit

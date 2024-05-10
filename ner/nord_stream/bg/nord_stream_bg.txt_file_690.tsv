@@ -1,0 +1,41 @@
+0	6	Берлин	Берлин	LOC	GPE-Berlin
+12	15	САЩ	САЩ	LOC	GPE-USA
+57	63	Европа	Европа	LOC	LOC-Europe
+91	94	САЩ	САЩ	LOC	GPE-USA
+117	123	Европа	Европа	LOC	LOC-Europe
+153	162	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+176	198	Америка на първо място	Америка на първо място	PRO	PRO-America-First
+338	352	Петер Алтмайер	Петер Алтмайер	PER	PER-Peter-Altmaier
+365	372	Ройтерс	Ройтерс	ORG	ORG-Reuters
+374	382	Алтмайер	Алтмайер	PER	PER-Peter-Altmaier
+392	398	Европа	Европа	LOC	LOC-Europe
+432	435	САЩ	САЩ	LOC	GPE-USA
+520	523	САЩ	САЩ	LOC	GPE-USA
+616	638	Америка на първо място	Америка на първо място	PRO	PRO-America-First
+718	724	Европа	Европа	LOC	LOC-Europe
+759	767	Алтмайер	Алтмайер	PER	PER-Peter-Altmaier
+791	798	А Ер Де	А Ер Де	PRO	PRO-ARD-Television
+878	887	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+915	919	Иран	Иран	LOC	GPE-Iran
+943	946	САЩ	САЩ	LOC	GPE-USA
+1043	1046	САЩ	САЩ	LOC	GPE-USA
+1088	1104	Северен поток -2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1116	1121	Русия	Русия	LOC	GPE-Russia
+1124	1132	Германия	Германия	LOC	GPE-Germany
+1138	1152	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+1155	1163	Алтмайер	Алтмайер	PER	PER-Peter-Altmaier
+1198	1207	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1381	1389	Алтмайер	Алтмайер	PER	PER-Peter-Altmaier
+1427	1440	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+1544	1559	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1604	1607	САЩ	САЩ	LOC	GPE-USA
+1618	1635	Уолстрийт джърнал	Уолстрийт джърнал	PRO	PRO-Wall-Street-Journal
+1673	1676	САЩ	САЩ	LOC	GPE-USA
+1677	1689	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1709	1715	Меркел	Меркел	PER	PER-Angela-Merkel
+1741	1756	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1827	1830	САЩ	САЩ	LOC	GPE-USA
+1867	1881	Сандра Оудкирк	Сандра Оудкирк	PER	PER-Sandra-Oudkirk
+1912	1918	Берлин	Берлин	LOC	GPE-Berlin
+1923	1926	САЩ	САЩ	LOC	GPE-USA
+2018	2033	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2

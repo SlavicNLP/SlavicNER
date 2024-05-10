@@ -1,0 +1,23 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+30	37	Байдена	Байден	PER	PER-Joe-Biden
+48	54	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+126	129	США	США	LOC	GPE-USA
+130	143	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+158	164	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+226	237	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+299	317	Європейська правда	Європейська правда	ORG	PRO-European-Truth
+343	353	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+499	504	Трамп	Трамп	PER	PER-Donald-Trump
+531	542	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+554	561	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+583	589	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+616	626	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+723	735	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+916	921	Трамп	Трамп	PER	PER-Donald-Trump
+951	957	Трампа	Трамп	PER	PER-Donald-Trump
+1130	1136	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1298	1305	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1317	1322	Трамп	Трамп	PER	PER-Donald-Trump
+1350	1357	Байдена	Байден	PER	PER-Joe-Biden
+1369	1374	Трамп	Трамп	PER	PER-Donald-Trump
+1403	1409	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election

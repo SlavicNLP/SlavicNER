@@ -1,0 +1,11 @@
+15	32	“Северен поток“ 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+36	43	Украйна	Украйна	LOC	GPE-Ukraine
+62	75	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+123	130	Украйна	Украйна	LOC	GPE-Ukraine
+291	298	Газпром	Газпром	ORG	ORG-Gazprom
+428	439	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+449	467	Валентин Земляский	Валентин Земляский	PER	PER-Valentin-Zemlyansky
+506	517	Investor.bg	Investor.bg	PRO	PRO-Investor.bg
+559	594	Европейския съвет за външна плитика	Европейски съвет за външна политика	ORG	ORG-European-Council-on-Foreign-Relations
+595	610	Даниел Стефанов	Даниел Стефанов	PER	PER-Daniel-Stefanov
+622	627	Путин	Путин	PER	PER-Vladimir-Putin

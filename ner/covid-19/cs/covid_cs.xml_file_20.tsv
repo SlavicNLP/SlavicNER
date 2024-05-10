@@ -1,0 +1,15 @@
+7	18	Los Angeles	Los Angeles	LOC	GPE-Los-Angeles
+57	63	iPhone	iPhone	PRO	PRO-iPhone
+106	117	Los Angeles	Los Angeles	LOC	GPE-Los-Angeles
+132	138	covidu	covid	EVT	EVT-Covid-19
+174	185	Los Angeles	Los Angeles	LOC	GPE-Los-Angeles
+189	200	koronavirus	koronavirus	EVT	EVT-Covid-19
+402	408	iPhonu	iPhone	PRO	PRO-iPhone
+611	617	iPhonu	iPhone	PRO	PRO-iPhone
+628	646	Claire Jarashowová	Claire Jarashowová	PER	PER-Claire-Jarashow
+653	663	Bloombergu	Bloomberg	ORG	ORG-Bloomberg-LP
+793	804	Jarashowové	Jarashowová	PER	PER-Claire-Jarashow
+971	974	USA	USA	LOC	GPE-USA
+1122	1132	Healthvana	Healthvana	ORG	ORG-Healthvana-company
+1206	1209	HIV	HIV	EVT	EVT-AIDS
+1291	1302	Los Angeles	Los Angeles	LOC	GPE-Los-Angeles

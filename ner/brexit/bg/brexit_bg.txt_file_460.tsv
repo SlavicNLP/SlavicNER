@@ -1,0 +1,39 @@
+5	15	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+55	57	ЕС	ЕС	ORG	ORG-European-Union
+83	91	Брекзита	Брекзит	EVT	EVT-Brexit
+93	99	Лондон	Лондон	LOC	GPE-London
+113	116	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+153	163	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+193	195	ЕС	ЕС	ORG	ORG-European-Union
+220	228	Брекзита	Брекзит	EVT	EVT-Brexit
+274	281	Ройтерс	Ройтерс	ORG	ORG-Reuters
+418	425	Брюксел	Брюксел	LOC	GPE-Brussles
+427	429	ЕС	ЕС	ORG	ORG-European-Union
+442	448	Лондон	Лондон	LOC	GPE-London
+511	519	Брекзита	Брекзит	EVT	EVT-Brexit
+824	844	Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+848	851	Мей	Мей	PER	PER-Theresa-May
+931	933	ЕС	ЕС	ORG	ORG-European-Union
+976	991	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+1157	1171	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1183	1185	ЕС	ЕС	ORG	ORG-European-Union
+1249	1265	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1273	1276	Мей	Мей	PER	PER-Theresa-May
+1318	1323	Китай	Китай	LOC	GPE-China
+1367	1369	ЕС	ЕС	ORG	ORG-European-Union
+1371	1378	Брюксел	Брюксел	LOC	GPE-Brussles
+1381	1387	Лондон	Лондон	LOC	GPE-London
+1439	1447	Брекзита	Брекзит	EVT	EVT-Brexit
+1543	1545	ЕС	ЕС	ORG	ORG-European-Union
+1707	1710	Мей	Мей	PER	PER-Theresa-May
+1809	1811	ЕС	ЕС	ORG	ORG-European-Union
+2048	2050	ЕС	ЕС	ORG	ORG-European-Union
+2114	2122	Брекзита	Брекзит	EVT	EVT-Brexit
+2123	2136	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+2174	2176	ЕС	ЕС	ORG	ORG-European-Union
+2177	2189	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+2205	2211	Лондон	Лондон	LOC	GPE-London
+2291	2297	Дейвис	Дейвис	PER	PER-David-Davis
+2319	2326	Ройтерс	Ройтерс	ORG	ORG-Reuters
+2427	2447	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2450	2452	ЕС	ЕС	ORG	ORG-European-Union

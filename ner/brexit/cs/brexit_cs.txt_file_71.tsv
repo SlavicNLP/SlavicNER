@@ -1,0 +1,23 @@
+25	27	EU	EU	ORG	ORG-European-Union
+29	36	Britové	Britové	PER	GPE-Great-Britain
+74	88	Dolní sněmovny	Dolní sněmovna	ORG	ORG-House-of-Commons
+89	109	britského parlamentu	britský parlament	ORG	ORG-British-Parlament
+152	165	Evropské unie	Evropské unie	ORG	ORG-European-Union
+196	203	Bruselu	Brusel	LOC	GPE-Brussles
+313	320	brexitu	brexit	EVT	EVT-Brexit
+351	365	Sněmovny lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+391	399	Sky News	Sky News	PRO	PRO-Sky-News-TV
+641	665	konzervativních poslanců	konzervativní poslanci	PER	ORG-Conservative-and-Unionist-Party-UK
+690	700	labouristů	labouristé	PER	ORG-Labour-Party-UK
+726	732	brexit	brexit	EVT	EVT-Brexit
+733	744	David Davis	David Davis	PER	PER-David-Davis
+774	789	Dolní sněmovnou	Dolní sněmovna	ORG	ORG-House-of-Commons
+989	995	Davise	Davis	PER	PER-David-Davis
+996	1004	Sky News	Sky News	PRO	PRO-Sky-News-TV
+1109	1116	brexitu	brexit	EVT	EVT-Brexit
+1198	1206	Británie	Británie	LOC	GPE-Great-Britain
+1383	1385	EU	EU	ORG	ORG-European-Union
+1540	1548	Británie	Británie	LOC	GPE-Great-Britain
+1559	1561	EU	EU	ORG	ORG-European-Union
+1672	1678	Londýn	Londýn	LOC	GPE-London
+1695	1702	brexitu	brexit	EVT	EVT-Brexit

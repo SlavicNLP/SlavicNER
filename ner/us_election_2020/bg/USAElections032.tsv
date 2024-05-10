@@ -1,0 +1,37 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+29	38	Белия дом	Белия дом	LOC	LOC-White-House
+150	153	САЩ	САЩ	LOC	GPE-USA
+154	166	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+201	210	Белия дом	Белия дом	LOC	LOC-White-House
+216	233	Изборната колегия	Изборна колегия	ORG	ORG-United-States-Electoral-College
+257	278	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+292	301	демократа	демократ	PER	ORG-Democratic-Party-USA
+302	312	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+384	387	DPA	DPA	ORG	ORG-DPA
+466	471	Тръмп	Тръмп	PER	PER-Donald-Trump
+500	509	Белия дом	Белия дом	LOC	LOC-White-House
+557	563	Байдън	Байдън	PER	PER-Joe-Biden
+590	607	Изборната колегия	Изборна колегия	ORG	ORG-United-States-Electoral-College
+748	754	Байдън	Байдън	PER	PER-Joe-Biden
+793	798	Тръмп	Тръмп	PER	PER-Donald-Trump
+837	859	Деня на благодарността	Ден на благодарността	EVT	EVT-Thanksgiving-Day
+861	866	Тръмп	Тръмп	PER	PER-Donald-Trump
+1106	1112	Байдън	Байдън	PER	PER-Joe-Biden
+1139	1144	Тръмп	Тръмп	PER	PER-Donald-Trump
+1308	1314	Байдън	Байдън	PER	PER-Joe-Biden
+1317	1328	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1331	1339	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1448	1456	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1508	1530	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+1617	1628	демократите	демократи	PER	ORG-Democratic-Party-USA
+1701	1707	Сената	Сенат	ORG	ORG-United-States-Senate
+1710	1736	горната камара на Конгреса	Горна камара на Конгреса	ORG	ORG-United-States-Senate
+1739	1756	парламента на САЩ	парламент на САЩ	ORG	ORG-Parliament-of-USA
+1766	1768	AP	AP	ORG	ORG-AP-The-Associated-Press
+1809	1812	САЩ	САЩ	LOC	GPE-USA
+1873	1883	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1885	1890	Тръмп	Тръмп	PER	PER-Donald-Trump
+1908	1914	Байдън	Байдън	PER	PER-Joe-Biden
+2072	2075	GSA	GSA	ORG	ORG-General-Services-Administration
+2155	2161	Байдън	Байдън	PER	PER-Joe-Biden
+2176	2182	Байдън	Байдън	PER	PER-Joe-Biden

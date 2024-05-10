@@ -1,0 +1,27 @@
+0	2	ЄС	ЄС	LOC	ORG-European-Union
+42	54	коронавірусу	коронавірус	EVT	EVT-Covid-19
+109	117	COVID-19	COVID-19	EVT	EVT-Covid-19
+120	122	ЄС	ЄС	LOC	ORG-European-Union
+160	177	Європейський Союз	Європейський Союз	ORG	ORG-European-Union
+216	228	коронавірусу	коронавірус	EVT	EVT-Covid-19
+272	289	Європейської Ради	Європейська Рада	ORG	ORG-European-Parliament
+290	302	Шарль Мішель	Шарль Мішель	PER	PER-Charles-Michel
+355	363	Europe 1	Europe 1	PRO	PRO-Europe-1
+381	384	dpa	dpa	ORG	ORG-DPA
+512	514	ЄС	ЄС	LOC	ORG-European-Union
+566	572	Мішель	Мішель	PER	PER-Charles-Michel
+645	656	Astrazeneca	Astrazeneca	ORG	ORG-AstraZeneca
+709	711	ЄС	ЄС	LOC	ORG-European-Union
+803	815	коронавірусу	коронавірус	EVT	EVT-Covid-19
+839	841	ЄС	ЄС	LOC	ORG-European-Union
+920	928	BioNTech	BioNTech	ORG	ORG-BioNTech
+929	935	Pfizer	Pfizer	ORG	ORG-Pfizer
+1005	1011	Європи	Європа	LOC	LOC-Europe
+1153	1155	ЄС	ЄС	LOC	ORG-European-Union
+1241	1258	Європейської Ради	Європейська Рада	ORG	ORG-European-Parliament
+1259	1271	Шарль Мішель	Шарль Мішель	PER	PER-Charles-Michel
+1324	1326	ЄС	ЄС	LOC	ORG-European-Union
+1366	1378	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1410	1421	Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+1422	1441	Урсула фон дер Ляєн	Урсула фон дер Ляєн	PER	PER-Ursula-von-der-Leyen
+1458	1466	Євросоюз	Євросоюз	ORG	ORG-European-Union

@@ -1,0 +1,27 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+22	28	Evropy	Evropa	LOC	LOC-Europe
+64	72	Británie	Británie	LOC	GPE-Great-Britain
+75	86	Nizozemskem	Nizozemsko	LOC	GPE-Holland
+94	109	Severní aliance	Severní aliance	ORG	ORG-Nothern-Alliance
+207	209	EU	EU	ORG	ORG-European-Union
+259	279	Visegrádskou čtyřkou	Visegrádská čtyřka	ORG	ORG-Visegrád-Group
+282	290	Německem	Německo	LOC	GPE-Germany
+448	454	Polsko	Polsko	LOC	GPE-Poland
+457	465	Maďarsko	Maďarsko	LOC	GPE-Hungary
+572	578	Evropě	Evropa	LOC	LOC-Europe
+629	636	brexitu	brexit	EVT	EVT-Brexit
+684	701	Emmanuela Macrona	Emmanuel Macron	PER	PER-Emmanuel-Macron
+808	826	Elysejského paláce	Elysejský palác	LOC	LOC-Élysée-Palace
+902	918	Marine Le Penová	Marine Le Penová	PER	PER-Marineła-Petrowa
+938	944	frexit	frexit	EVT	EVT-Frexit
+1011	1027	Angela Merkelová	Angela Merkelová	PER	PER-Angela-Merkel
+1158	1177	Sociální demokracii	Sociální demokracie	ORG	ORG-CSSD-political-party-CZ
+1242	1257	Severní aliance	Severní aliance	ORG	ORG-Nothern-Alliance
+1286	1293	Švédsko	Švédsko	LOC	GPE-Sweden
+1295	1300	Irsko	Irsko	LOC	GPE-Ireland
+1302	1310	Estonsko	Estonsko	LOC	GPE-Estonia
+1318	1327	Bulharsko	Bulharsko	LOC	GPE-Bulgaria
+1345	1360	Velkou Británii	Velká Británie	LOC	GPE-Great-Britain
+1510	1516	Moskvy	Moskva	LOC	GPE-Moscow
+1525	1539	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+1542	1544	EU	EU	ORG	ORG-European-Union

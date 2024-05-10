@@ -1,0 +1,18 @@
+21	23	ЕП	ЕП	ORG	ORG-European-Parliament
+34	44	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+124	145	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+165	175	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+261	275	Великобритания	Великобритания	LOC	GPE-Great-Britain
+359	366	Брекзит	Брекзит	EVT	EVT-Brexit
+368	378	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+538	560	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+650	662	лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+663	677	Джеръми Корбин	Джеръми Корбин	PER	PER-Jeremy-Corbyn
+794	800	Европа	Европа	LOC	LOC-Europe
+920	927	Брюксел	Брюксел	LOC	GPE-Brussles
+967	969	ЕС	ЕС	ORG	ORG-European-Union
+1012	1018	Европа	Европа	LOC	LOC-Europe
+1037	1051	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1161	1175	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1348	1354	bnr.bg	bnr.bg	PRO	PRO-bnr.bg
+1355	1360	Днес+	Днес+	ORG	ORG-DnesPlus

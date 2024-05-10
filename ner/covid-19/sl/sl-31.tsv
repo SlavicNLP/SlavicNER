@@ -1,0 +1,69 @@
+2	5	ZDA	ZDA	LOC	GPE-USA
+34	46	koronavirusu	koronavirus	EVT	EVT-Covid-19
+48	53	Trump	Trump	PER	PER-Donald-Trump
+92	131	Ameriški Nacionalni inštitut za zdravje	Ameriški Nacionalni inštitut za zdravje	ORG	ORG-National-Institute-of-Health-USA
+166	178	koronavirusu	koronavirus	EVT	EVT-Covid-19
+247	257	Washington	Washington	LOC	GPE-WashingtonDC
+261	264	ZDA	ZDA	LOC	GPE-USA
+350	362	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+401	408	Seattlu	Seattle	LOC	GPE-Seattle
+458	465	Moderna	Moderna	ORG	ORG-Moderna
+637	649	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+719	729	Američanom	Američani	PER	GPE-USA
+899	904	Trump	Trump	PER	PER-Donald-Trump
+912	921	Američani	Američani	PER	GPE-USA
+1408	1413	Trump	Trump	PER	PER-Donald-Trump
+1654	1657	ZDA	ZDA	LOC	GPE-USA
+1677	1683	Amazon	Amazon	ORG	ORG-Amazon
+1805	1811	Amazon	Amazon	ORG	ORG-Amazon
+1926	1954	Ministrstvo za transport ZDA	Ministrstvo za transport ZDA	ORG	ORG-United-States-Department-of-Transportation
+2063	2076	koronavirusom	koronavirus	EVT	EVT-Covid-19
+2221	2224	ZDA	ZDA	LOC	GPE-USA
+2227	2231	Nike	Nike	ORG	ORG-Nike
+2284	2288	Nike	Nike	ORG	ORG-Nike
+2329	2332	ZDA	ZDA	LOC	GPE-USA
+2339	2345	Kanadi	Kanada	LOC	GPE-Canada
+2349	2363	zahodni Evropi	zahodna Evropa	LOC	LOC-Western-Europe
+2365	2375	Avstraliji	Avstralija	LOC	GPE-Australia
+2379	2393	Novi Zelandiji	Nova Zelandija	LOC	GPE-New-Zealand
+2414	2426	Južni Koreji	Južna Koreja	LOC	GPE-South-Korea
+2431	2440	Japonskem	Japonska	LOC	GPE-Japan
+2444	2453	Kitajskem	Kitajska	LOC	GPE-China
+2518	2527	Patagonia	Patagonia	ORG	ORG-Patagonia
+2529	2534	Apple	Apple	ORG	ORG-Apple
+2536	2548	Warby Parker	Warby Parker	ORG	ORG-Warby-Parker
+2550	2566	Urban Outfitters	Urban Outfitters	ORG	ORG-Urban-Outfitters
+2568	2576	Glossier	Glossier	ORG	ORG-Glossier
+2580	2588	Allbirds	Allbirds	ORG	ORG-Allbirds
+2630	2634	Nike	Nike	ORG	ORG-Nike
+2703	2714	Koronavirus	koronavirus	EVT	EVT-Covid-19
+2769	2772	ZDA	ZDA	LOC	GPE-USA
+2773	2787	Steven Mnuchin	Steven Mnuchin	PER	PER-Steven-Mnuchin
+2842	2847	Delta	Delta	ORG	ORG-Delta-Airlines
+2880	2886	Evropo	Evropa	LOC	LOC-Europe
+2899	2904	Irsko	Irska	LOC	GPE-Ireland
+2908	2924	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+2926	2943	American Airlines	American Airlines	ORG	ORG-American-Airlines
+3016	3022	United	United	ORG	ORG-United-Airlines
+3110	3143	Nacionalnega inštituta za zdravje	Nacionalni inštitut za zdravje	ORG	ORG-National-Institute-of-Health
+3144	3157	Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+3161	3171	Američanom	Američani	PER	GPE-USA
+3255	3298	Center za nadzor nad nalezljivimi boleznimi	Center za nadzor nad nalezljivimi boleznimi	ORG	ORG-Centers-for-Disease-Control
+3300	3303	CDC	CDC	ORG	ORG-Centers-for-Disease-Control
+3321	3331	Američanom	Američani	PER	GPE-USA
+3410	3419	New Yorku	New York	LOC	GPE-New-York
+3449	3457	New York	New York	LOC	GPE-New-York
+3458	3470	Andrew Cuomo	Andrew Cuomo	PER	PER-Andrew-Cuomo
+3486	3494	New York	New York	LOC	GPE-New-York
+3495	3508	Bill DeBlasio	Bill DeBlasio	PER	PER-Bill-DeBiasio
+3794	3802	DeBlasio	DeBlasio	PER	PER-Bill-DeBiasio
+4026	4035	New Yorka	New York	LOC	GPE-New-York
+4068	4077	Newyorčan	Newyorčan	PER	GPE-New-York
+4232	4243	Kalifornija	Kalifornija	LOC	GPE-California
+4351	4355	Ohiu	Ohio	LOC	GPE-Ohio
+4357	4371	Južna Karolina	Južna Karolina	LOC	GPE-South-Carolina-US-State
+4403	4410	Vermont	Vermont	LOC	GPE-Vermont
+4451	4463	koronavirusa	koronavirus	EVT	EVT-Covid-19
+4488	4491	ZDA	ZDA	LOC	GPE-USA
+4492	4505	Melanie Trump	Melania Trump	PER	PER-Melania-Trump
+4568	4571	CDC	CDC	ORG	ORG-Centers-for-Disease-Control

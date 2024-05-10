@@ -1,0 +1,26 @@
+14	21	brexitu	brexit	EVT	EVT-Brexit
+30	38	Británie	Británie	LOC	GPE-Great-Britain
+41	43	EU	EU	ORG	ORG-European-Union
+89	103	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+112	126	Evropskou unii	Evropská unie	ORG	ORG-European-Union
+435	449	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+515	517	EU	EU	ORG	ORG-European-Union
+550	558	Británie	Británie	LOC	GPE-Great-Britain
+609	624	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+627	633	Irskem	Irsko	LOC	GPE-Ireland
+648	656	Barniera	Barnier	PER	PER-Michel-Barnier
+724	739	Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+780	798	Spojené království	Spojené království	LOC	GPE-Great-Britain
+808	815	Britové	Britové	PER	GPE-Great-Britain
+853	855	EU	EU	ORG	ORG-European-Union
+912	919	brexitu	brexit	EVT	EVT-Brexit
+933	941	Británie	Británie	LOC	GPE-Great-Britain
+1073	1080	Barnier	Barnier	PER	PER-Michel-Barnier
+1104	1111	Bruselu	Brusel	LOC	GPE-Brussles
+1191	1198	Barnier	Barnier	PER	PER-Michel-Barnier
+1370	1385	Borise Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+1413	1419	Brusel	Brusel	LOC	GPE-Brussles
+1426	1434	Británií	Británie	LOC	GPE-Great-Britain
+1469	1471	EU	EU	ORG	ORG-European-Union
+1528	1542	Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+1571	1578	Berlína	Berlín	LOC	GPE-Berlin

@@ -1,0 +1,44 @@
+0	14	Изборите в САЩ	Избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+16	22	Байдън	Байдън	PER	PER-Joe-Biden
+59	64	Тръмп	Тръмп	PER	PER-Donald-Trump
+99	102	САЩ	САЩ	LOC	GPE-USA
+104	110	Байдън	Байдън	PER	PER-Joe-Biden
+118	129	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+132	140	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+185	190	Тръмп	Тръмп	PER	PER-Donald-Trump
+298	325	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+457	468	демократите	демократи	PER	ORG-Democratic-Party-USA
+469	479	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+576	588	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+629	635	Байдън	Байдън	PER	PER-Joe-Biden
+717	724	Аризона	Аризона	LOC	GPE-Arizona
+754	760	Байдън	Байдън	PER	PER-Joe-Biden
+825	830	Тръмп	Тръмп	PER	PER-Donald-Trump
+863	869	Байдън	Байдън	PER	PER-Joe-Biden
+883	888	Тръмп	Тръмп	PER	PER-Donald-Trump
+904	915	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+948	959	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+961	967	Байдън	Байдън	PER	PER-Joe-Biden
+991	1000	Белия дом	Белия дом	LOC	LOC-White-House
+1033	1043	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1058	1066	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1137	1145	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1208	1225	Брад Рафенспергер	Брад Рафенспергер	PER	PER-Brad-Raffensperger
+1329	1334	Тръмп	Тръмп	PER	PER-Donald-Trump
+1375	1378	САЩ	САЩ	LOC	GPE-USA
+1594	1597	САЩ	САЩ	LOC	GPE-USA
+1674	1679	Тръмп	Тръмп	PER	PER-Donald-Trump
+1807	1810	САЩ	САЩ	LOC	GPE-USA
+1855	1867	Браян Уилямс	Браян Уилямс	PER	PER-Brian-Williams
+1889	1894	МSNBC	МSNBC	PRO	PRO-MSNBC-TV
+1901	1904	CNN	CNN	PRO	PRO-CNN
+1907	1915	Fox News	Fox News	PRO	PRO-Fox-News
+1951	1956	Тръмп	Тръмп	PER	PER-Donald-Trump
+1973	1987	Андерсън Купър	Андерсън Купър	PER	PER-Anderson-Cooper
+1991	1994	CNN	CNN	PRO	PRO-CNN
+2005	2010	Тръмп	Тръмп	PER	PER-Donald-Trump
+2195	2217	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+2274	2279	Тръмп	Тръмп	PER	PER-Donald-Trump
+2333	2340	Америка	Америка	LOC	GPE-USA
+2364	2376	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2452	2458	Туитър	Туитър	PRO	PRO-Twitter

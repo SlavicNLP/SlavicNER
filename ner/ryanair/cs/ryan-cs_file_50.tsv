@@ -1,0 +1,44 @@
+21	26	Česku	Česko	LOC	GPE-Czech-Republic
+71	92	Letiště Václava Havla	Letiště Václava Havla	LOC	LOC-Vaclav-Havel-Airport-Prague
+320	325	Česka	Česko	LOC	GPE-Czech-Republic
+345	359	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+361	367	Itálie	Itálie	LOC	GPE-Italy
+369	374	Rusko	Rusko	LOC	GPE-Russia
+376	383	Německo	Německo	LOC	GPE-Germany
+386	393	Francie	Francie	LOC	GPE-France
+523	530	Londýna	Londýn	LOC	GPE-London
+532	542	Amsterdamu	Amsterdam	LOC	GPE-Amsterdam
+546	555	Barcelony	Barcelona	LOC	GPE-Barcelona
+661	670	Barcelona	Barcelona	LOC	GPE-Barcelona
+925	935	Filadelfie	Filadelfie	LOC	GPE-Philadelphia
+968	974	Kanady	Kanada	LOC	GPE-Canada
+1044	1059	Severní Ameriky	Severní Amerika	LOC	LOC-North-America
+1118	1131	Letiště Praha	Letiště Praha	LOC	LOC-Vaclav-Havel-Airport-Prague
+1132	1144	Václav Řehoř	Václav Řehoř	PER	PER-Vaclav-Rehor
+1202	1208	Dubaje	Dubaj	LOC	GPE-Dubai
+1228	1236	Emirates	Emirates	ORG	ORG-Emirates
+1296	1302	Moskvy	Moskva	LOC	GPE-Moscow
+1314	1322	Aeroflot	Aeroflot	ORG	ORG-Aeroflot
+1359	1366	Londýna	Londýn	LOC	GPE-London
+1378	1385	EasyJet	EasyJet	ORG	ORG-EasyJet
+1487	1494	Ryanair	Ryanair	ORG	ORG-Ryanair
+1498	1506	Marákeše	Marrakéš	LOC	GPE-Marrakesh
+1508	1514	Paříže	Paříž	LOC	GPE-Paris
+1516	1522	Eilatu	Eilat	LOC	GPE-Eilat
+1524	1528	Pisy	Pisa	LOC	GPE-Pisa
+1532	1538	Ammánu	Ammán	LOC	GPE-Amman
+1741	1750	Španělsko	Španělsko	LOC	GPE-Spain
+1752	1757	Řecko	Řecko	LOC	GPE-Greece
+1759	1768	Bulharsko	Bulharsko	LOC	GPE-Bulgaria
+1770	1777	Turecko	Turecko	LOC	GPE-Turkey
+1779	1786	Tunisko	Tunisko	LOC	GPE-Tunisia
+1788	1793	Egypt	Egypt	LOC	GPE-Egypt
+1795	1807	Severní Kypr	Severní Kypr	LOC	LOC-Northern-Cyprus
+1809	1819	Chorvatsko	Chorvatsko	LOC	GPE-Croatia
+1821	1831	Černá hora	Černá hora	LOC	GPE-Montenegro
+1842	1848	Itálie	Itálie	LOC	GPE-Italy
+1851	1865	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+1882	1895	EuroZprávy.cz	EuroZprávy.cz	PRO	PRO-EuroZprávy.cz
+1911	1926	letiště Ostrava	letiště Ostrava	LOC	GPE-Ostrava
+1927	1947	Kateřina Pustějovská	Kateřina Pustějovská	PER	PER-Katerina-Pustejovska
+1955	1966	Pustějovské	Pustějovská	PER	PER-Katerina-Pustejovska

@@ -1,0 +1,25 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+102	104	ЕС	ЕС	ORG	ORG-European-Union
+212	219	Брекзит	Брекзит	EVT	EVT-Brexit
+361	368	Брекзит	Брекзит	EVT	EVT-Brexit
+369	381	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+384	396	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+420	422	ЕС	ЕС	ORG	ORG-European-Union
+426	433	Брекзит	Брекзит	EVT	EVT-Brexit
+686	692	Барние	Барние	PER	PER-Michel-Barnier
+716	730	Великобритания	Великобритания	LOC	GPE-Great-Britain
+862	874	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+898	900	ЕС	ЕС	ORG	ORG-European-Union
+904	911	Брекзит	Брекзит	EVT	EVT-Brexit
+1164	1170	Лондон	Лондон	LOC	GPE-London
+1220	1222	ЕС	ЕС	ORG	ORG-European-Union
+1227	1233	Барние	Барние	PER	PER-Michel-Barnier
+1371	1373	ЕС	ЕС	ORG	ORG-European-Union
+1376	1396	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1402	1409	Брекзит	Брекзит	EVT	EVT-Brexit
+1448	1472	Партията за независимост	Партия за независимост	ORG	ORG-UK-Independence-Party
+1476	1496	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1497	1511	Найджъл Фарадж	Найджъл Фарадж	PER	PER-Nigel-Farage
+1567	1599	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+1619	1621	ЕС	ЕС	ORG	ORG-European-Union
+1627	1634	Брекзит	Брекзит	EVT	EVT-Brexit

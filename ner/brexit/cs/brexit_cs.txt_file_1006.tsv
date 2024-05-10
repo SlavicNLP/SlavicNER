@@ -1,0 +1,30 @@
+28	34	brexit	brexit	EVT	EVT-Brexit
+68	75	Britové	Britové	PER	GPE-Great-Britain
+93	99	Farage	Farage	PER	PER-Nigel-Farage
+166	179	Evropské unii	Evropská unie	ORG	ORG-European-Union
+220	236	Kirsten Mehrovou	Kirsten Mehrová	PER	PER-Kirsten-Mehr
+254	261	Německa	Německo	LOC	GPE-Germany
+434	440	Farage	Farage	PER	PER-Nigel-Farage
+448	456	Guardian	Guardian	PRO	PRO-The-Guardian
+506	511	Brity	Britové	PER	GPE-Great-Britain
+521	529	Evropany	Evropané	PER	LOC-Europe
+563	572	Farageovy	Farage	PER	PER-Nigel-Farage
+621	626	Britů	Britové	PER	GPE-Great-Britain
+718	724	Farage	Farage	PER	PER-Nigel-Farage
+866	872	Farage	Farage	PER	PER-Nigel-Farage
+950	956	Farage	Farage	PER	PER-Nigel-Farage
+1000	1007	brexitu	brexit	EVT	EVT-Brexit
+1008	1014	Farage	Farage	PER	PER-Nigel-Farage
+1042	1046	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+1243	1257	Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+1268	1281	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1311	1317	Brexit	Brexit	EVT	EVT-Brexit
+1361	1363	EU	EU	ORG	ORG-European-Union
+1432	1440	Británie	Británie	LOC	GPE-Great-Britain
+1461	1463	EU	EU	ORG	ORG-European-Union
+1497	1510	TV Nova s.r.o	TV Nova s.r.o	ORG	ORG-TV-Nova-s.r.o.
+1534	1537	ČTK	ČTK	ORG	ORG-CTK
+1714	1717	ČTK	ČTK	ORG	ORG-CTK
+1754	1774	The Associated Press	The Associated Press	ORG	ORG-AP-The-Associated-Press
+1776	1778	AP	AP	ORG	ORG-AP-The-Associated-Press
+1826	1828	AP	AP	ORG	ORG-AP-The-Associated-Press

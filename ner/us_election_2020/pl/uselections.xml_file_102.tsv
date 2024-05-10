@@ -1,0 +1,48 @@
+46	53	Floryda	Floryda	LOC	GPE-Florida
+55	62	Arizona	Arizona	LOC	GPE-Arizona
+64	72	Michigan	Michigan	LOC	GPE-Michigan
+75	84	Minnesota	Minnesota	LOC	GPE-Minnesota
+85	96	Konrad Mzyk	Konrad Mzyk	PER	PER-Konrad-Mzyk
+187	199	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+202	214	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+244	259	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+279	291	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+294	303	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+333	346	Mitta Romneya	Mitt Romney	PER	PER-Mitt-Romney
+367	379	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+382	391	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+421	434	Johna McCaina	John McCain	PER	PER-John-McCain
+455	469	George W. Bush	George W. Bush	PER	PER-George-Bush-Jr
+472	484	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+514	529	Johna Kerry'ego	John Kerry	PER	PER-John-Kerry
+550	564	George W. Bush	George W. Bush	PER	PER-George-Bush-Jr
+567	579	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+610	620	Ala Gore'a	Al Gore	PER	PER-Al-Gore
+653	660	Floryda	Floryda	LOC	GPE-Florida
+674	683	Florydzie	Floryda	LOC	GPE-Florida
+824	831	Florydy	Floryda	LOC	GPE-Florida
+1025	1034	Florydzie	Floryda	LOC	GPE-Florida
+1203	1207	Kuby	Kuba	LOC	GPE-Cuba
+1210	1229	Ameryki Południowej	Ameryka Południowa	LOC	LOC-North-America
+1255	1262	Floryda	Floryda	LOC	GPE-Florida
+1568	1577	Florydzie	Floryda	LOC	GPE-Florida
+1584	1589	Miami	Miami	LOC	GPE-Miami
+1592	1607	Fort Lauderdale	Fort Lauderdale	LOC	LOC-Fort-Lauderdale
+1621	1628	Orlando	Orlando	LOC	GPE-Orlando
+1640	1652	Zatoki Tampa	Zatoka Tampa	LOC	LOC-Tampa-Bay
+1665	1677	Jacksonville	Jacksonville	LOC	GPE-Jacksonville
+1716	1747	Narodowa Konwencja Republikanów	Narodowa Konwencja Republikanów	EVT	EVT-2020-Republican-National-Convention
+1778	1783	Biden	Biden	PER	PER-Joe-Biden
+1823	1830	Trumpem	Trump	PER	PER-Donald-Trump
+1895	1905	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1908	1915	Florydy	Floryda	LOC	GPE-Florida
+1947	1959	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+2000	2006	Trumpa	Trump	PER	PER-Donald-Trump
+2073	2082	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+2177	2183	Bidena	Biden	PER	PER-Joe-Biden
+2271	2280	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+2357	2363	Trumpa	Trump	PER	PER-Donald-Trump
+2398	2408	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+2509	2519	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+2522	2529	Florydy	Floryda	LOC	GPE-Florida
+2552	2558	Senatu	Senat	ORG	ORG-United-States-Senate

@@ -1,0 +1,49 @@
+1	9	Guardian	Guardian	PRO	PRO-The-Guardian
+15	23	Brexicie	Brexit	EVT	EVT-Brexit
+42	44	UE	UE	ORG	ORG-European-Union
+52	60	Norwegia	Norwegia	LOC	GPE-Norway
+62	70	Norwegia	Norwegia	LOC	GPE-Norway
+109	111	UE	UE	ORG	ORG-European-Union
+119	127	Bruksela	Bruksela	LOC	GPE-Brussles
+152	159	Londynu	Londyn	LOC	GPE-London
+180	189	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+193	201	Brexicie	Brexit	EVT	EVT-Brexit
+232	244	The Guardian	The Guardian	PRO	PRO-The-Guardian
+279	281	UE	UE	ORG	ORG-European-Union
+332	343	Theresa May	Theresa May	PER	PER-Theresa-May
+378	385	Brexitu	Brexit	EVT	EVT-Brexit
+395	397	UE	UE	ORG	ORG-European-Union
+447	455	Norwegia	Norwegia	LOC	GPE-Norway
+480	488	Brukselę	Bruksela	LOC	GPE-Brussles
+511	528	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+587	595	Norwegię	Norwegia	LOC	GPE-Norway
+653	661	Guardian	Guardian	PRO	PRO-The-Guardian
+721	724	May	May	PER	PER-Theresa-May
+777	779	UE	UE	ORG	ORG-European-Union
+799	807	Norwegia	Norwegia	LOC	GPE-Norway
+825	827	UE	UE	ORG	ORG-European-Union
+858	873	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+986	988	UE	UE	ORG	ORG-European-Union
+1006	1015	Guardiana	Guardian	PRO	PRO-The-Guardian
+1041	1049	Norwegii	Norwegia	LOC	GPE-Norway
+1065	1075	Norwegowie	Norwegowie	PER	GPE-Norway
+1147	1164	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1262	1264	UE	UE	ORG	ORG-European-Union
+1296	1313	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1354	1356	UE	UE	ORG	ORG-European-Union
+1415	1423	Brexicie	Brexit	EVT	EVT-Brexit
+1510	1527	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1578	1584	Londyn	Londyn	LOC	GPE-London
+1705	1713	Guardian	Guardian	PRO	PRO-The-Guardian
+1716	1724	Bruksela	Bruksela	LOC	GPE-Brussles
+1744	1750	Londyn	Londyn	LOC	GPE-London
+1824	1826	UE	UE	ORG	ORG-European-Union
+1879	1887	Brukseli	Bruksela	LOC	GPE-Brussles
+1889	1904	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2025	2027	UE	UE	ORG	ORG-European-Union
+2051	2066	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2112	2120	Norwegia	Norwegia	LOC	GPE-Norway
+2282	2297	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2309	2311	UE	UE	ORG	ORG-European-Union
+2333	2341	Guardian	Guardian	PRO	PRO-The-Guardian
+2429	2431	UE	UE	ORG	ORG-European-Union

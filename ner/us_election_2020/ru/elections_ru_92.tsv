@@ -1,0 +1,104 @@
+68	80	коронавируса	коронавирус	EVT	EVT-Covid-19
+109	115	Трампа	Трамп	PER	PER-Donald-Trump
+184	196	Американские	американские	LOC	GPE-USA
+197	203	выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+361	374	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+390	412	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+457	467	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+496	517	президентских выборах	президентские выборы	EVT	EVT-2020-United-States-Presidential-Election
+591	600	демократа	демократ	ORG	ORG-Democratic-Party-USA
+603	615	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+648	655	Байдену	Байден	PER	PER-Joe-Biden
+738	753	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+754	767	Руди Джулиани	Руди Джулиани	PER	PER-Rudy-Giuliani
+804	815	Филадельфии	Филадельфия	LOC	GPE-Philadelphia
+849	860	Филадельфия	Филадельфия	LOC	GPE-Philadelphia
+924	930	Трампа	Трамп	PER	PER-Donald-Trump
+990	1003	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+1058	1064	Трампа	Трамп	PER	PER-Donald-Trump
+1177	1183	Трампа	Трамп	PER	PER-Donald-Trump
+1198	1210	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1212	1218	Неваде	Невада	LOC	GPE-Nevada
+1220	1228	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+1230	1240	Висконсине	Висконсин	LOC	GPE-Wisconsin
+1243	1251	Мичигане	Мичиган	LOC	GPE-Michigan
+1281	1288	Байдена	Байден	PER	PER-Joe-Biden
+1412	1425	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+1471	1477	Трампу	Трамп	PER	PER-Donald-Trump
+1521	1534	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+1715	1721	Трампа	Трамп	PER	PER-Donald-Trump
+1756	1768	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1907	1919	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1956	1969	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+2087	2093	Трампа	Трамп	PER	PER-Donald-Trump
+2293	2306	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+2483	2489	Трампа	Трамп	PER	PER-Donald-Trump
+2592	2598	Трампа	Трамп	PER	PER-Donald-Trump
+2730	2743	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+3025	3037	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+3038	3049	Кэти Буквар	Кэти Буквар	PER	PER-Katie-Bookvar
+3139	3152	Республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+3439	3449	Монтгомери	Монтгомери	LOC	GPE-Montgomery
+3451	3464	Республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+3698	3708	Монтгомери	Монтгомери	LOC	GPE-Montgomery
+3729	3736	Байдена	Байден	PER	PER-Joe-Biden
+3769	3775	Трампа	Трамп	PER	PER-Donald-Trump
+3843	3857	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+3890	3896	Невада	Невада	LOC	GPE-Nevada
+3921	3926	Кларк	Кларк	LOC	GPE-Clark-County-Nevada
+3949	3958	Лас-Вегас	Лас-Вегас	LOC	GPE-Las-Vegas
+4068	4074	Трампа	Трамп	PER	PER-Donald-Trump
+4259	4265	Трампа	Трамп	PER	PER-Donald-Trump
+4409	4423	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+4426	4438	Консерваторы	консерваторы	ORG	ORG-Conservative-and-Unionist-Party-UK
+4549	4564	Федеральный суд	Федеральный суд	ORG	ORG-Щербинский суд
+4654	4660	Трампа	Трамп	PER	PER-Donald-Trump
+4806	4819	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+4836	4849	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+4876	4882	Невады	Невада	LOC	GPE-Nevada
+4914	4922	Мичигане	Мичиган	LOC	GPE-Michigan
+4953	4967	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+4993	5001	Детройте	Детройт	LOC	GPE-Detroit
+5058	5068	демократов	демократы	ORG	ORG-Democratic-Party-USA
+5131	5136	Трамп	Трамп	PER	PER-Donald-Trump
+5258	5272	республиканцам	республиканцы	ORG	ORG-Republican-Party-USA
+5389	5402	Республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+5487	5495	Детройте	Детройт	LOC	GPE-Detroit
+5743	5756	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+5853	5866	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+6011	6017	Антрим	Антрим	LOC	GPE-Antrim
+6049	6055	Трампа	Трамп	PER	PER-Donald-Trump
+6080	6087	Байдена	Байден	PER	PER-Joe-Biden
+6132	6145	Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+6250	6257	Байдена	Байден	PER	PER-Joe-Biden
+6260	6268	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+6320	6333	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+6380	6385	Трамп	Трамп	PER	PER-Donald-Trump
+6568	6573	Трамп	Трамп	PER	PER-Donald-Trump
+6669	6675	Трампа	Трамп	PER	PER-Donald-Trump
+6996	7006	Висконсине	Висконсин	LOC	GPE-Wisconsin
+7043	7051	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+7116	7122	Трампу	Трамп	PER	PER-Donald-Trump
+7218	7228	Висконсина	Висконсин	LOC	GPE-Wisconsin
+7231	7244	Республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+7343	7357	республиканцев	республиканцы	PER	ORG-Republican-Party-USA
+7591	7598	Аризона	Аризона	LOC	GPE-Arizona
+7704	7711	Байдена	Байден	PER	PER-Joe-Biden
+8122	8128	Трампа	Трамп	PER	PER-Donald-Trump
+8600	8613	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+8713	8719	Трампу	Трамп	PER	PER-Donald-Trump
+9147	9159	Manabalss.lv	Manabalss.lv	PRO	PRO-Manabalss.lv
+9228	9234	Латвии	Латвия	LOC	GPE-Latvia
+9332	9341	латвийцах	латвийцы	PER	GPE-Latvia
+9438	9448	латвийской	латвийский	LOC	GPE-Latvia
+9532	9538	Латвии	Латвия	LOC	GPE-Latvia
+9541	9548	Эстонию	Эстония	LOC	GPE-Estonia
+9719	9722	Tet	Tet	ORG	ORG-Tet
+9759	9762	ПБК	ПБК	PRO	PRO-Primais-Baltijas-kanals
+9764	9771	НТВ Мир	НТВ Мир	PRO	PRO-NTV-Mir
+9773	9787	Ren TV Baltija	Ren TV Baltija	PRO	PRO-Ren-TV-Baltija
+9789	9801	Kinokomedija	Kinokomedija	PRO	PRO-Kinokomedija
+9804	9812	Kinomiks	Kinomiks	PRO	PRO-Kinomiks
+9963	9971	Covid-19	Covid-19	EVT	EVT-Covid-19
+10021	10056	Национальная служба здравоохранения	Национальная служба здравоохранения	ORG	ORG-NHS
+10058	10061	НСЗ	НСЗ	ORG	ORG-NHS

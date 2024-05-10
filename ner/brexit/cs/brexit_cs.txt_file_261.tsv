@@ -1,0 +1,42 @@
+26	33	brexitu	brexit	EVT	EVT-Brexit
+35	41	Londýn	Londýn	LOC	GPE-London
+53	79	Transpacifické partnerství	Transpacifické partnerství	ORG	ORG-TPP-Trans-Pacific-Partnership
+90	93	USA	USA	LOC	GPE-USA
+113	116	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+202	217	Financial Times	Financial Times	PRO	PRO-Financial-Times
+219	221	FT	FT	PRO	PRO-Financial-Times
+224	232	Británie	Británie	LOC	GPE-Great-Britain
+263	266	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+279	293	Tichého oceánu	Tichý oceán	LOC	LOC-Pacific-Ocean
+296	313	Jihočínského moře	Jihočínské moře	LOC	LOC-South-China-Sea
+321	324	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+328	336	Japonsko	Japonsko	LOC	GPE-Japan
+338	344	Kanada	Kanada	LOC	GPE-Canada
+346	352	Mexiko	Mexiko	LOC	GPE-Mexico
+354	358	Peru	Peru	LOC	GPE-Peru
+360	365	Chile	Chile	LOC	GPE-Chile
+367	374	Vietnam	Vietnam	LOC	GPE-Vietnam
+376	384	Malajsie	Malajsie	LOC	GPE-Malaysia
+386	392	Brunej	Brunej	LOC	GPE-Brunei
+394	402	Singapur	Singapur	LOC	GPE-Singapore
+404	413	Austrálie	Austrálie	LOC	GPE-Australia
+416	427	Nový Zéland	Nový Zéland	LOC	GPE-New-Zealand
+483	493	Greg Hands	Greg Hands	PER	PER-Greg-Hands
+577	585	Británie	Británie	LOC	GPE-Great-Britain
+611	613	EU	EU	ORG	ORG-European-Union
+621	629	Británie	Británie	LOC	GPE-Great-Britain
+760	763	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+774	781	Londýna	Londýn	LOC	GPE-London
+869	878	Austrálie	Austrálie	LOC	GPE-Australia
+880	894	Nového Zélandu	Nový Zéland	LOC	GPE-New-Zealand
+910	913	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+951	964	Spojené státy	Spojené státy	LOC	GPE-USA
+972	974	EU	EU	ORG	ORG-European-Union
+985	993	Británie	Británie	LOC	GPE-Great-Britain
+1003	1006	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+1021	1029	Japonsko	Japonsko	LOC	GPE-Japan
+1068	1071	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+1103	1111	Británie	Británie	LOC	GPE-Great-Britain
+1162	1165	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+1375	1383	Japonska	Japonsko	LOC	GPE-Japan
+1472	1487	Spojených státu	Spojené státy	LOC	GPE-USA

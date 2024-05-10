@@ -1,0 +1,22 @@
+6	11	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+21	35	Договора на ЕС	Договор на ЕС	PRO	PRO-Maastricht-Treaty
+49	59	британците	британци	PER	GPE-Great-Britain
+102	122	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+123	137	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+148	162	Великобритания	Великобритания	LOC	GPE-Great-Britain
+201	203	ЕС	ЕС	ORG	ORG-European-Union
+209	216	Брекзит	Брекзит	EVT	EVT-Brexit
+239	267	Договора за Европейския съюз	Договор за Европейския съюз	PRO	PRO-Maastricht-Treaty
+277	285	Politico	Politico	PRO	PRO-Politico
+298	308	британците	британци	PER	GPE-Great-Britain
+335	349	Договора за ЕС	Договор за ЕС	PRO	PRO-Maastricht-Treaty
+424	429	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+478	495	Европейския Съвет	Европейски съвет	ORG	ORG-European-Council
+496	507	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+554	568	Великобритания	Великобритания	LOC	GPE-Great-Britain
+577	584	Брекзит	Брекзит	EVT	EVT-Brexit
+595	600	Фокус	Фокус	ORG	ORG-Focus-News-Agency
+639	645	Лондон	Лондон	LOC	GPE-London
+656	661	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+721	723	ЕС	ЕС	ORG	ORG-European-Union
+768	789	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament

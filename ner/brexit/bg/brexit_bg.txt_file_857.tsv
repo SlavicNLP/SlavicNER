@@ -1,0 +1,32 @@
+0	10	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+12	19	Брекзит	Брекзит	EVT	EVT-Brexit
+53	67	Великобритания	Великобритания	LOC	GPE-Great-Britain
+96	103	Брекзит	Брекзит	EVT	EVT-Brexit
+128	142	Великобритания	Великобритания	LOC	GPE-Great-Britain
+145	151	Европа	Европа	LOC	LOC-Europe
+213	223	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+227	263	Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+339	353	Великобритания	Великобритания	LOC	GPE-Great-Britain
+451	461	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+484	492	Норвегия	Норвегия	LOC	GPE-Norway
+546	551	Блеър	Блеър	PER	PER-Tony-Blair
+653	661	Норвегия	Норвегия	LOC	GPE-Norway
+664	674	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+693	707	Великобритания	Великобритания	LOC	GPE-Great-Britain
+709	717	Норвегия	Норвегия	LOC	GPE-Norway
+759	765	Европа	Европа	LOC	LOC-Europe
+818	832	Великобритания	Великобритания	LOC	GPE-Great-Britain
+875	877	ЕС	ЕС	ORG	ORG-European-Union
+1106	1111	Блеър	Блеър	PER	PER-Tony-Blair
+1156	1158	ЕС	ЕС	ORG	ORG-European-Union
+1160	1170	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+1189	1203	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1205	1219	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1245	1251	Европа	Европа	LOC	LOC-Europe
+1269	1275	Европа	Европа	LOC	LOC-Europe
+1297	1311	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1367	1373	Европа	Европа	LOC	LOC-Europe
+1503	1517	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1543	1549	Европа	Европа	LOC	LOC-Europe
+1593	1598	Блеър	Блеър	PER	PER-Tony-Blair
+1658	1671	Близкия изток	Близкия изток	LOC	LOC-Near-East

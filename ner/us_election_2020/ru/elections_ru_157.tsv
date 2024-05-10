@@ -1,0 +1,50 @@
+2	5	США	США	LOC	GPE-USA
+35	54	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+59	62	США	США	LOC	GPE-USA
+139	142	CNN	CNN	PRO	PRO-CNN
+223	238	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+279	292	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+293	308	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+333	336	США	США	LOC	GPE-USA
+337	350	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+371	380	Белый дом	Белый дом	ORG	ORG-The-White-House
+387	406	коллегия выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+422	429	Байдена	Байден	PER	PER-Joe-Biden
+715	718	США	США	LOC	GPE-USA
+722	727	Трамп	Трамп	PER	PER-Donald-Trump
+774	781	Байдена	Байден	PER	PER-Joe-Biden
+843	856	американского	американский	LOC	GPE-USA
+919	922	США	США	LOC	GPE-USA
+988	994	Байден	Байден	PER	PER-Joe-Biden
+1071	1077	Выборы	Выборы	EVT	EVT-2020-United-States-Presidential-Election
+1091	1094	США	США	LOC	GPE-USA
+1159	1166	Байдена	Байден	PER	PER-Joe-Biden
+1227	1232	Трамп	Трамп	PER	PER-Donald-Trump
+1371	1382	инаугурации	инаугурация	EVT	EVT-2020-United-States-presidential-inauguration
+1405	1408	США	США	LOC	GPE-USA
+1552	1555	США	США	LOC	GPE-USA
+1722	1786	Ракетных войск стратегического назначения вооружённых сил России	Ракетные войска стратегического назначения вооружённых сил России	ORG	ORG-Strategic-Rocket-Forces-of-the-Russian-Federation
+1819	1822	США	США	LOC	GPE-USA
+1875	1878	США	США	LOC	GPE-USA
+1994	1997	США	США	LOC	GPE-USA
+2248	2254	Байден	Байден	PER	PER-Joe-Biden
+2492	2500	Трампушу	Трампуша	PER	PER-Donald-Trump
+2560	2579	Верховным Судом США	Верховный Суд США	ORG	ORG-Supreme-Court-of-the-United-States
+2592	2599	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
+2747	2753	выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+2768	2780	американских	американский	LOC	GPE-USA
+2838	2844	Байден	Байден	PER	PER-Joe-Biden
+2856	2863	выборах	выборы	EVT	EVT-2020-United-States-Presidential-Election
+2877	2882	Трамп	Трамп	PER	PER-Donald-Trump
+2911	2918	Байдену	Байден	PER	PER-Joe-Biden
+2980	2985	Трамп	Трамп	PER	PER-Donald-Trump
+3125	3130	Трамп	Трамп	PER	PER-Donald-Trump
+3263	3272	Трампусик	Трампусик	PER	PER-Donald-Trump
+3331	3343	американской	американская	LOC	GPE-USA
+3385	3404	американские выборы	американские выборы	EVT	EVT-2020-United-States-Presidential-Election
+3598	3604	Байден	Байден	PER	PER-Joe-Biden
+3657	3663	России	Россия	LOC	GPE-Russia
+3796	3801	Трамп	Трамп	PER	PER-Donald-Trump
+3840	3843	США	США	LOC	GPE-USA
+3962	3968	выборы	выборы	EVT	EVT-2020-United-States-Presidential-Election
+4069	4076	Россией	Россия	LOC	GPE-Russia

@@ -1,0 +1,30 @@
+0	2	WP	WP	PRO	PRO-Washington-Post
+71	74	США	США	LOC	GPE-USA
+76	82	МОСКВА	Москва	LOC	GPE-Moscow
+93	104	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+116	119	США	США	LOC	GPE-USA
+135	137	РФ	РФ	LOC	GPE-Russia
+219	237	Соединенных Штатах	Соединенные Штаты	LOC	GPE-USA
+252	267	Washington Post	Washington Post	PRO	PRO-Washington-Post
+278	293	Washington Post	Washington Post	PRO	PRO-Washington-Post
+303	310	Байдена	Байден	PER	PER-Joe-Biden
+320	326	Россию	Россия	LOC	GPE-Russia
+471	493	министерство труда США	министерство труда США	ORG	ORG-US-Department-of-Labor
+629	632	США	США	LOC	GPE-USA
+788	790	РФ	РФ	LOC	GPE-Russia
+826	833	Украины	Украина	LOC	GPE-Ukraine
+935	938	МИД	МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+939	952	Сергей Лавров	Сергей Лавров	PER	PER-Sergey-Lavrov
+1017	1024	Россией	Россия	LOC	GPE-Russia
+1065	1071	Россия	Россия	LOC	GPE-Russia
+1124	1129	Запад	Запад	LOC	LOC-West
+1130	1136	Россия	Россия	LOC	GPE-Russia
+1144	1172	специальную военную операцию	специальная военная операция	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1176	1183	Украине	Украина	LOC	GPE-Ukraine
+1206	1220	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1433	1440	Украины	Украина	LOC	GPE-Ukraine
+1546	1554	Донбасса	Донбасс	LOC	LOC-Donbass
+1569	1582	Минобороны РФ	Минобороны РФ	ORG	ORG-Russian-Ministry-of-Defence
+1584	1600	Вооруженные силы	Вооруженные силы	ORG	ORG-Russian-Armed-Forces
+1764	1771	Украины	Украина	LOC	GPE-Ukraine
+1842	1850	Донбасса	Донбасс	LOC	LOC-Donbass

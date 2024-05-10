@@ -1,0 +1,22 @@
+6	18	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+53	67	Великобритании	Великобритания	LOC	GPE-Great-Britain
+68	80	Елизавета II	Елизавета II	PER	PER-Queen-Elizabeth-II
+116	138	британским парламентом	британский парламент	ORG	ORG-British-Parlament
+139	181	билли о Brexit - EU (Withdrawal) Bill 2018	билли о Brexit - EU (Withdrawal) Bill 2018	PRO	PRO-Brexit-withdrawal-agreement
+240	242	ЕС	ЕС	ORG	ORG-European-Union
+245	260	Великобританией	Великобритания	LOC	GPE-Great-Britain
+350	358	Британии	Британия	LOC	GPE-Great-Britain
+370	372	ЕС	ЕС	ORG	ORG-European-Union
+393	401	Brexit-ю	Brexit	EVT	EVT-Brexit
+443	468	EU (Withdrawal) Bill 2018	EU (Withdrawal) Bill 2018	PRO	PRO-Brexit-withdrawal-agreement
+480	520	закон о Европейском сообществе 1972 года	закон о Европейском сообществе 1972 года	PRO	PRO-European-Communities-Act-1972
+542	550	Британию	Британия	LOC	GPE-Great-Britain
+681	687	Brexit	Brexit	EVT	EVT-Brexit
+836	838	ЕС	ЕС	ORG	ORG-European-Union
+939	946	Украины	Украина	LOC	GPE-Ukraine
+1023	1032	Gazeta.ua	Gazeta.ua	PRO	PRO-Gazeta-ua
+1160	1169	Gazeta.ua	Gazeta.ua	PRO	PRO-Gazeta-ua
+1383	1400	Интерфакс-Украина	Интерфакс-Украина	ORG	ORG-Interfax
+1403	1406	PHL	PHL	PRO	PRO-PHL
+1409	1416	Reuters	Reuters	ORG	ORG-Reuters
+1518	1527	Gazeta.ua	Gazeta.ua	PRO	PRO-Gazeta-ua

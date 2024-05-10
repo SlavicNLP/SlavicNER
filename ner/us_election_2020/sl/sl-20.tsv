@@ -1,0 +1,55 @@
+139	148	Bele hiše	Bela hiša	LOC	LOC-White-House
+394	403	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+733	741	Trumpove	Trumpov	PER	PER-Donald-Trump
+742	749	Amerike	Amerika	LOC	GPE-USA
+1038	1052	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1428	1437	Bele hiše	Bela hiša	LOC	LOC-White-House
+1548	1562	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1638	1654	Georgea W. Busha	George W. Bush	PER	PER-George-Bush-Jr
+1965	1970	Bidna	Biden	PER	PER-Joe-Biden
+2035	2050	Janis Varufakis	Janis Varufakis	PER	PER-Janis-Varufakis
+2053	2062	Guardianu	Guardian	PRO	PRO-The-Guardian
+2298	2307	Američani	Američani	PER	GPE-USA
+2463	2468	Trump	Trump	PER	PER-Donald-Trump
+2534	2544	Američanom	Američani	PER	GPE-USA
+2640	2649	Varufakis	Varufakis	PER	PER-Janis-Varufakis
+2651	2656	Biden	Biden	PER	PER-Joe-Biden
+2963	2966	ZDA	ZDA	LOC	GPE-USA
+3216	3232	Branko Milanović	Branko Milanović	PER	PER-Branko-Milanović
+3244	3261	Global Inequality	Global Inequality	PRO	PRO-Global-Inequality
+3323	3334	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+3443	3452	demokrate	demokrati	ORG	ORG-Democratic-Party-USA
+3466	3478	republikance	republikanci	PER	ORG-Republican-Party-USA
+3526	3531	Trump	Trump	PER	PER-Donald-Trump
+3601	3616	Združene države	Združene države	LOC	GPE-USA
+3925	3932	Amerika	Amerika	LOC	GPE-USA
+4081	4086	Biden	Biden	PER	PER-Joe-Biden
+4142	4161	Demokratska stranka	Demokratska stranka	ORG	ORG-Democratic-Party-USA
+4232	4241	Bele hiše	Bela hiša	LOC	LOC-White-House
+4321	4326	Trump	Trump	PER	PER-Donald-Trump
+4672	4681	Demokrati	Demokrati	ORG	ORG-Democratic-Party-USA
+4849	4864	Latinoameričani	Latinoameričani	PER	GPE-Latin-America
+5299	5308	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+5320	5334	Bernie Sanders	Bernie Sanders	PER	PER-Bernie-Sanders
+5339	5355	Elizabeth Warren	Elizabeth Warren	PER	PER-Elizabeth-Warren
+5399	5409	demokratov	demokrati	ORG	ORG-Democratic-Party-USA
+5452	5467	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+5621	5629	Sandersa	Sanders	PER	PER-Bernie-Sanders
+5652	5657	Bidna	Biden	PER	PER-Joe-Biden
+5859	5871	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+6050	6057	Bidnovo	Bidnov	PER	PER-Joe-Biden
+6120	6127	Ameriko	Amerika	LOC	GPE-USA
+6451	6461	Američanov	Američani	PER	GPE-USA
+6485	6490	Biden	Biden	PER	PER-Joe-Biden
+7250	7263	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+7409	7421	Masha Gessen	Masha Gessen	PER	PER-Masha-Gessen
+7424	7436	New Yorkerju	New Yorkerju	PRO	ORG-The-New-Yorker
+7567	7583	Bálinta Magyarja	Bálint Magyar	PER	PER-Bálint-Magyar
+7663	7677	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+7906	7916	Madžarskem	Madžarska	LOC	GPE-Hungary
+8225	8230	Trump	Trump	PER	PER-Donald-Trump
+8261	8267	Gessen	Gessen	PER	PER-Masha-Gessen
+8362	8379	Združenih državah	Združene države	LOC	GPE-USA
+8412	8426	Williama Barra	William Barr	PER	PER-WIlliam-Barr
+8466	8483	Mitcha McConnella	Mitch McConnell	PER	PER-Mitch-McConnell
+8555	8567	Donald Trump	Donald Trump	PER	PER-Donald-Trump

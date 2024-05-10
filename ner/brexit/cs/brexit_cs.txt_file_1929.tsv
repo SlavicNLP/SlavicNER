@@ -1,0 +1,27 @@
+7	12	Britů	Britové	PER	GPE-Great-Britain
+71	79	brexitem	brexit	EVT	EVT-Brexit
+81	86	PAŘÍŽ	PAŘÍŽ	LOC	GPE-Paris
+87	92	PRAHA	PRAHA	LOC	GPE-Prague
+93	100	Reuters	Reuters	ORG	ORG-Reuters
+129	134	Britů	Britové	PER	GPE-Great-Britain
+201	214	Evropské unie	Evropská unie	ORG	ORG-European-Union
+216	223	Francie	Francie	LOC	GPE-France
+238	244	Irskem	Irsko	LOC	GPE-Ireland
+275	280	Brity	Britové	PER	GPE-Great-Britain
+389	397	brexitem	brexit	EVT	EVT-Brexit
+445	459	Evropskou unii	Evropská unie	ORG	ORG-European-Union
+494	508	Velké Británie	Velké Británie	LOC	GPE-Great-Britain
+533	535	EU	EU	ORG	ORG-European-Union
+604	611	Francie	Francie	LOC	GPE-France
+619	652	francouzského ministerstva vnitra	francouzské ministerstvo vnitra	ORG	ORG-Minister-of-the-Interior-France
+659	664	Britů	Britové	PER	GPE-Great-Britain
+839	844	Britů	Britové	PER	GPE-Great-Britain
+866	884	Spojené království	Spojené království	LOC	GPE-Great-Britain
+918	931	Evropské unie	Evropská unie	ORG	ORG-European-Union
+940	947	Francii	Francie	LOC	GPE-France
+982	987	Britů	Britové	PER	GPE-Great-Britain
+1177	1183	brexit	brexit	EVT	EVT-Brexit
+1206	1215	Le Figaro	Le Figaro	PRO	PRO-Le-Figaro-newspaper
+1263	1272	Le Figaro	Le Figaro	PRO	PRO-Le-Figaro-newspaper
+1421	1429	Británie	Británie	LOC	GPE-Great-Britain
+1437	1439	EU	EU	ORG	ORG-European-Union

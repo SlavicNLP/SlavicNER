@@ -1,0 +1,37 @@
+0	14	MeetUp webinar	MeetUp webinar	EVT	EVT-MeetUp-Webinar
+58	66	COVID-19	COVID-19	EVT	EVT-Covid-19
+208	220	koronavirusa	koronavirus	EVT	EVT-Covid-19
+228	239	koronavirus	koronavirus	EVT	EVT-Covid-19
+248	254	Evropo	Evropa	LOC	LOC-Europe
+258	261	ZDA	ZDA	LOC	GPE-USA
+428	440	koronavirusa	koronavirus	EVT	EVT-Covid-19
+503	519	MeetUp webinarju	MeetUp webinar	EVT	EVT-MeetUp-Webinar
+884	896	Levi Shapiro	Levi Shapiro	PER	PER-Levi-Shapiro
+935	949	mHealth Israel	mHealth Israel	ORG	ORG-mHealth-Israel
+1114	1128	mHealth Israel	mHealth Israel	ORG	ORG-mHealth-Israel
+1272	1289	Hebrew University	Hebrew University	ORG	ORG-The-Hebrew-University-of-Jerusalem
+1292	1308	Nana Bit-Avragim	Nana Bit-Avragim	PER	PER-Nana-Bit-Avragim
+1615	1622	Charité	Charité	ORG	ORG-Charité
+1640	1662	Singularity University	Singularity University	ORG	ORG-Singularity-University
+1709	1735	Brandenburg Medical School	Brandenburg Medical School	ORG	ORG-Brandenburg-Medical-School-Theodor-Fontane
+1773	1780	Nemčiji	Nemčija	LOC	GPE-Germany
+1782	1798	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+1800	1805	Švici	Švica	LOC	GPE-Switzerland
+1809	1816	Izraelu	Izrael	LOC	GPE-Israel
+1819	1831	Blaž Triglav	Blaž Triglav	PER	PER-Blaž-Triglav
+1838	1847	Mediately	Mediately	ORG	ORG-Mediately
+1927	1936	Mediately	Mediately	ORG	ORG-Mediately
+1990	2004	Mediatelyjevih	Mediately	ORG	ORG-Mediately
+2031	2040	Mediately	Mediately	ORG	ORG-Mediately
+2112	2125	Mediatelyjeva	Mediately	ORG	ORG-Mediately
+2137	2153	Register zdravil	Register zdravil	PRO	PRO-Mediately-Register-Zdravil
+2223	2231	osrednji	osrednja	LOC	LOC-Central-Europe
+2235	2249	vzhodni Evropi	vzhodna Evropa	LOC	LOC-Eastern-Europe
+2296	2310	Giovanni Loser	Giovanni Loser	PER	PER-Giovanni-Loser
+2322	2343	BioValley Investments	BioValley Investments	ORG	ORG-Biovalley-Investments
+2487	2496	illycaffe	illycaffe	ORG	ORG-Illycaffe
+2498	2523	Fortress Investment group	Fortress Investment group	ORG	ORG-Fortress-Investment-Group
+2525	2530	Aedes	Aedes	ORG	ORG-Aedes
+2532	2542	Rinascente	Rinascente	ORG	ORG-La-Rinascente
+2547	2560	Pirelli Group	Pirelli Group	ORG	ORG-Pirelli-Group
+2784	2788	Zoom	Zoom	PRO	PRO-Zoom

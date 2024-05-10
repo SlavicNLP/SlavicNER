@@ -1,0 +1,20 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+75	77	ЕС	ЕС	ORG	ORG-European-Union
+102	104	ЕС	ЕС	ORG	ORG-European-Union
+122	136	Великобритания	Великобритания	LOC	GPE-Great-Britain
+164	171	Брекзит	Брекзит	EVT	EVT-Brexit
+356	363	Ройтерс	Ройтерс	ORG	ORG-Reuters
+399	409	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+438	452	Великобритания	Великобритания	LOC	GPE-Great-Britain
+526	533	Брекзит	Брекзит	EVT	EVT-Brexit
+601	608	Брюксел	Брюксел	LOC	GPE-Brussles
+619	626	Ройтерс	Ройтерс	ORG	ORG-Reuters
+640	643	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+782	784	ЕС	ЕС	ORG	ORG-European-Union
+797	811	Великобритания	Великобритания	LOC	GPE-Great-Britain
+817	824	Брекзит	Брекзит	EVT	EVT-Brexit
+1274	1288	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1476	1491	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+1646	1656	британците	британци	PER	GPE-Great-Britain
+1682	1684	ЕС	ЕС	ORG	ORG-European-Union
+1803	1810	Ройтерс	Ройтерс	ORG	ORG-Reuters

@@ -1,0 +1,53 @@
+1	16	Бизнес Инсайдър	Бизнес Инсайдър	PRO	PRO-Business-Insider
+19	21	ЕП	ЕП	ORG	ORG-European-Parliament
+32	46	Великобритания	Великобритания	LOC	GPE-Great-Britain
+100	107	Брекзит	Брекзит	EVT	EVT-Brexit
+109	131	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+232	246	Великобритания	Великобритания	LOC	GPE-Great-Britain
+252	259	Брекзит	Брекзит	EVT	EVT-Brexit
+317	329	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+393	408	Бизнес Инсайдър	Бизнес Инсайдър	PRO	PRO-Business-Insider
+411	427	Business Insider	Business Insider	PRO	PRO-Business-Insider
+447	469	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+501	521	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+547	561	Великобритания	Великобритания	LOC	GPE-Great-Britain
+706	708	ЕК	ЕК	ORG	ORG-European-Commission
+723	737	Великобритания	Великобритания	LOC	GPE-Great-Britain
+785	787	ЕС	ЕС	ORG	ORG-European-Union
+838	844	Канада	Канада	LOC	GPE-Canada
+880	901	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+915	930	Бизнес Инсайдър	Бизнес Инсайдър	PRO	PRO-Business-Insider
+936	958	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+1015	1017	ЕС	ЕС	ORG	ORG-European-Union
+1072	1079	Брекзит	Брекзит	EVT	EVT-Brexit
+1210	1224	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1309	1331	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+1346	1360	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1366	1373	Брекзит	Брекзит	EVT	EVT-Brexit
+1605	1611	Канада	Канада	LOC	GPE-Canada
+1648	1669	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+1702	1716	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1722	1729	Брекзит	Брекзит	EVT	EVT-Brexit
+1773	1775	ЕС	ЕС	ORG	ORG-European-Union
+1896	1898	ЕС	ЕС	ORG	ORG-European-Union
+1917	1924	Украйна	Украйна	LOC	GPE-Ukraine
+1947	1949	ЕС	ЕС	ORG	ORG-European-Union
+1952	1959	Украйна	Украйна	LOC	GPE-Ukraine
+1990	1994	Киев	Киев	LOC	GPE-Kiev
+2084	2086	ЕС	ЕС	ORG	ORG-European-Union
+2130	2132	ЕС	ЕС	ORG	ORG-European-Union
+2176	2182	Грузия	Грузия	LOC	GPE-Georgia
+2184	2191	Молдова	Молдова	LOC	GPE-Moldova
+2211	2228	Западните Балкани	Западни Балкани	LOC	LOC-Western-Balkans
+2376	2378	ЕС	ЕС	ORG	ORG-European-Union
+2440	2455	Бизнес Инсайдър	Бизнес Инсайдър	PRO	PRO-Business-Insider
+2480	2502	Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+2571	2573	ЕС	ЕС	ORG	ORG-European-Union
+2576	2596	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2653	2668	Бизнес Инсайдър	Бизнес Инсайдър	PRO	PRO-Business-Insider
+2749	2769	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2809	2831	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+2844	2854	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2871	2885	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2948	2955	Брекзит	Брекзит	EVT	EVT-Brexit
+3017	3032	Бизнес Инсайдър	Бизнес Инсайдър	PRO	PRO-Business-Insider

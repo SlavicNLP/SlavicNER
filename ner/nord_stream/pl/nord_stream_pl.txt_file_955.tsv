@@ -1,0 +1,51 @@
+0	11	Czaputowicz	Czaputowicz	PER	PER-Jacek-Czaputowicz
+25	38	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+89	96	Ukrainę	Ukraina	LOC	GPE-Ukraine
+107	110	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+111	118	Niemiec	Niemcy	LOC	GPE-Germany
+121	127	Polski	Polska	LOC	GPE-Poland
+215	228	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+301	312	Czaputowicz	Czaputowicz	PER	PER-Jacek-Czaputowicz
+339	345	Polski	Polska	LOC	GPE-Poland
+462	465	USA	USA	LOC	GPE-USA
+469	477	Niemcami	Niemcy	LOC	GPE-Germany
+512	515	USA	USA	LOC	GPE-USA
+516	528	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+593	606	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+675	680	Rosji	Rosja	LOC	GPE-Russia
+780	786	Polskę	Polska	LOC	GPE-Poland
+801	812	Czaputowicz	Czaputowicz	PER	PER-Jacek-Czaputowicz
+942	949	Ukrainę	Ukraina	LOC	GPE-Ukraine
+1008	1011	USA	USA	LOC	GPE-USA
+1118	1129	Czaputowicz	Czaputowicz	PER	PER-Jacek-Czaputowicz
+1136	1139	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+1140	1147	Niemiec	Niemcy	LOC	GPE-Germany
+1148	1158	Heiko Maas	Heiko Maas	PER	PER-Heiko-Maas
+1176	1185	Niemczech	Niemcy	LOC	GPE-Germany
+1239	1246	Europie	Europa	LOC	LOC-Europe
+1266	1271	Rosji	Rosja	LOC	GPE-Russia
+1344	1350	Niemcy	Niemcy	LOC	GPE-Germany
+1371	1384	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1450	1465	Morze Bałtyckie	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+1468	1475	Wyborga	Wyborg	LOC	GPE-Vyborg
+1478	1483	Rosji	Rosja	LOC	GPE-Russia
+1487	1498	Greifswaldu	Greifswald	LOC	GPE-Greifswald
+1501	1510	Niemczech	Niemcy	LOC	GPE-Germany
+1577	1582	Rosja	Rosja	LOC	GPE-Russia
+1669	1676	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1678	1684	Polska	Polska	LOC	GPE-Poland
+1704	1711	Ukraina	Ukraina	LOC	GPE-Ukraine
+1746	1759	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1818	1829	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+1854	1862	Gazpromu	Gazprom	ORG	ORG-Gazprom
+1923	1926	OMV	OMV	ORG	ORG-OMV
+1939	1955	BASF-Wintershall	BASF-Wintershall	ORG	ORG-BASF-Wintershall
+1958	1964	Uniper	Uniper	ORG	ORG-Uniper
+1976	1981	Engie	Engie	ORG	ORG-Engie
+2006	2023	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+2034	2041	Gazprom	Gazprom	ORG	ORG-Gazprom
+2071	2084	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2099	2106	Ukrainę	Ukraina	LOC	GPE-Ukraine
+2244	2247	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+2256	2265	Edyta Roś	Edyta Roś	PER	PER-Edyta-Roś
+2267	2278	Rafał Grzyb	Rafał Grzyb	PER	PER-Rafał-Grzyb

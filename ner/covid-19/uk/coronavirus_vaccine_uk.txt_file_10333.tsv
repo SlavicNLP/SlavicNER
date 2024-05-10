@@ -1,0 +1,20 @@
+9	14	COVID	COVID	EVT	EVT-Covid-19
+54	57	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+103	115	коронавірусу	коронавірус	EVT	EVT-Covid-19
+165	184	"""Інтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
+217	232	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+242	251	Укрінформ	Укрінформ	ORG	ORG-Ukrinform
+292	314	коронавірусної хвороби	коронавірусна хвороба	EVT	EVT-Covid-19
+434	437	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+498	510	коронавірусу	коронавірус	EVT	EVT-Covid-19
+545	552	України	Україна	LOC	GPE-Ukraine
+1111	1119	Степанов	Степанов	PER	PER-Maksym-Stepanov
+1158	1187	Міністерства охорони здоров’я	Міністерство охорони здоров’я	ORG	ORG-Ministry-of-Healthcare-Ukraine
+1188	1195	України	Україна	LOC	GPE-Ukraine
+1264	1276	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1364	1371	України	Україна	LOC	GPE-Ukraine
+1497	1505	COVID-19	COVID-19	EVT	EVT-Covid-19
+1554	1563	пандемією	пандемія	EVT	EVT-Covid-19
+1645	1653	COVID-19	COVID-19	EVT	EVT-Covid-19
+1756	1764	COVID-19	COVID-19	EVT	EVT-Covid-19
+1927	1935	COVID-19	COVID-19	EVT	EVT-Covid-19

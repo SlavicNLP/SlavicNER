@@ -1,0 +1,65 @@
+20	28	brexicie	Brexit	EVT	EVT-Brexit
+98	105	brexitu	Brexit	EVT	EVT-Brexit
+132	149	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+152	154	UE	UE	ORG	ORG-European-Union
+182	184	UE	UE	ORG	ORG-European-Union
+195	208	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+256	271	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+274	276	UE	UE	ORG	ORG-European-Union
+295	312	kanałem La Manche	Kanał La Manche	LOC	LOC-English-Channel
+452	471	Emmanuelem Macronem	Emmanuel Macron	PER	PER-Emmanuel-Macron
+638	642	Chin	Chiny	LOC	GPE-China
+655	663	Johnsona	Johnson	PER	PER-Boris-Johnson
+696	710	Downing Street	Downing Street	LOC	LOC-Downing-Street
+921	927	Calais	Calais	LOC	GPE-Calais
+930	935	Dover	Dover	LOC	GPE-Dover
+1086	1094	Johnsona	Johnson	PER	PER-Boris-Johnson
+1138	1145	Danyang	Danyang	LOC	GPE-Danyang
+1146	1153	Kunshan	Kunshan	LOC	GPE-Kunshan
+1156	1163	Chinach	Chiny	LOC	GPE-China
+1498	1506	Johnsona	Johnson	PER	PER-Boris-Johnson
+1584	1596	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1606	1612	Europy	Europa	LOC	LOC-Europe
+1614	1629	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1695	1711	kanału La Manche	Kanał La Manche	LOC	LOC-English-Channel
+1918	1932	Albert Mathieu	Albert Mathieu	PER	PER-Albert-Mathieu
+2296	2304	Francuzi	Francuzi	PER	GPE-France
+2307	2318	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+2465	2474	Francuzom	Francuzi	PER	GPE-France
+2501	2516	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2574	2586	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2662	2669	brexitu	Brexit	EVT	EVT-Brexit
+3107	3116	Coquelles	Coquelles	LOC	GPE-Coquelles
+3123	3129	Calais	Calais	LOC	GPE-Calais
+3162	3172	Folkestone	Folkestone	LOC	GPE-Folkestone
+3185	3189	Kent	Kent	LOC	GPE-Kent
+3266	3283	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3331	3336	Dover	Dover	LOC	GPE-Dover
+3414	3427	Brytyjczykach	Brytyjczycy	PER	GPE-Great-Britain
+3570	3576	Calais	Calais	LOC	GPE-Calais
+3616	3628	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+3709	3716	Francji	Francja	LOC	GPE-France
+3759	3774	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3777	3784	Francją	Francja	LOC	GPE-France
+3859	3867	Johnsona	Johnson	PER	PER-Boris-Johnson
+3994	4011	Irlandię Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+4014	4021	Szkocję	Szkocja	LOC	GPE-Scotland
+4095	4103	Johnsona	Johnson	PER	PER-Boris-Johnson
+4235	4250	kanał La Manche	Kanał La Manche	LOC	LOC-English-Channel
+4289	4302	Alana Dunlopa	Alan Dunlop	PER	PER-Alan-Dunlop
+4355	4367	The National	The National	PRO	PRO-The-National
+4415	4422	Szwecję	Szwecja	LOC	GPE-Sweden
+4425	4430	Danię	Dania	LOC	GPE-Denmark
+4444	4451	Öresund	Öresund	LOC	GPE-Öresund
+4458	4465	Dunlopa	Dunlop	PER	PER-Alan-Dunlop
+4530	4547	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4584	4586	UE	UE	ORG	ORG-European-Union
+4661	4669	Johnsona	Johnson	PER	PER-Boris-Johnson
+4742	4747	Danią	Dania	LOC	GPE-Denmark
+4750	4757	Szwecją	Szwecja	LOC	GPE-Sweden
+4799	4805	Jersey	Jersey	LOC	GPE-Jersey
+4866	4875	Normandią	Normandia	LOC	LOC-Normandy
+4907	4916	Granville	Granville	LOC	GPE-Granville
+4925	4931	Jersey	Jersey	LOC	GPE-Jersey
+4980	4987	Francji	Francja	LOC	GPE-France
+5045	5053	brexicie	Brexit	EVT	EVT-Brexit

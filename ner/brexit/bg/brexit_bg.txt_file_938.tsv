@@ -1,0 +1,31 @@
+0	17	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+49	51	ЕС	ЕС	ORG	ORG-European-Union
+75	81	Лондон	Лондон	LOC	GPE-London
+137	153	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+215	222	Брекзит	Брекзит	EVT	EVT-Brexit
+399	416	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+432	450	Рибари за излизане	Рибари за излизане	ORG	ORG-Fishing-for-Leave
+605	612	Брекзит	Брекзит	EVT	EVT-Brexit
+704	718	Великобритания	Великобритания	LOC	GPE-Great-Britain
+748	755	Нюкасъл	Нюкасъл	LOC	GPE-Newcastle
+757	766	Хейстингс	Хейстингс	LOC	GPE-Hastings
+769	775	Плимут	Плимут	LOC	GPE-Plymouth
+779	783	Кент	Кент	LOC	GPE-Kent
+833	850	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+974	987	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+1259	1277	Рибари за излизане	Рибари за излизане	ORG	ORG-Fishing-for-Leave
+1279	1293	Алън Хейстингс	Алън Хейстингс	PER	PER-Alan-Hastings
+1512	1530	Рибари за излизане	Рибари за излизане	ORG	ORG-Fishing-for-Leave
+1629	1643	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1675	1677	ЕС	ЕС	ORG	ORG-European-Union
+1683	1690	Брекзит	Брекзит	EVT	EVT-Brexit
+1890	1910	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1988	2008	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2010	2014	ЮКИП	ЮКИП	ORG	ORG-UK-Independence-Party
+2016	2029	Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+2191	2201	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2225	2232	Брекзит	Брекзит	EVT	EVT-Brexit
+2252	2259	Брекзит	Брекзит	EVT	EVT-Brexit
+2353	2370	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+2507	2519	Иван Христов	Иван Христов	PER	PER-Ivan-Hristov
+2658	2687	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

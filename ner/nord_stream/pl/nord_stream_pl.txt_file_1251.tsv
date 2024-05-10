@@ -1,0 +1,39 @@
+0	6	Merkel	Merkel	PER	PER-Angela-Merkel
+22	34	NordStream 2	NordStream 2	PRO	PRO-Nord-Stream-2
+45	51	Niemcy	Niemcy	LOC	GPE-Germany
+55	60	Rosji	Rosja	LOC	GPE-Russia
+86	92	Gruzji	Gruzja	LOC	GPE-Georgia
+102	109	Niemiec	Niemcy	LOC	GPE-Germany
+110	123	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+182	195	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+198	203	Rosji	Rosja	LOC	GPE-Russia
+207	214	Niemiec	Niemcy	LOC	GPE-Germany
+251	256	Rosji	Rosja	LOC	GPE-Russia
+258	264	Berlin	Berlin	LOC	GPE-Berlin
+285	291	Moskwa	Moskwa	LOC	GPE-Moscow
+349	356	Ukrainę	Ukraina	LOC	GPE-Ukraine
+394	407	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+483	490	Tbilisi	Tbilisi	LOC	GPE-Tbilisi
+492	505	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+571	586	Morze Bałtyckie	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+589	597	Ust-Ługi	Ust-Ługa	LOC	GPE-Ust-Luga
+600	605	Rosji	Rosja	LOC	GPE-Russia
+609	620	Greifswaldu	Greifswald	LOC	GPE-Greifswald
+623	632	Niemczech	Niemcy	LOC	GPE-Germany
+696	701	Rosja	Rosja	LOC	GPE-Russia
+788	795	Ukrainy	Ukraina	LOC	GPE-Ukraine
+840	846	Polska	Polska	LOC	GPE-Poland
+866	873	Ukraina	Ukraina	LOC	GPE-Ukraine
+879	896	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+904	917	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1044	1055	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+1089	1096	Gazprom	Gazprom	ORG	ORG-Gazprom
+1157	1160	OMV	OMV	ORG	ORG-OMV
+1173	1189	BASF-Wintershall	BASF-Wintershall	ORG	ORG-BASF-Wintershall
+1192	1198	Uniper	Uniper	ORG	ORG-Uniper
+1210	1215	Engie	Engie	ORG	ORG-Engie
+1240	1257	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+1259	1266	Gazprom	Gazprom	ORG	ORG-Gazprom
+1296	1309	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1324	1331	Ukrainę	Ukraina	LOC	GPE-Ukraine
+1466	1469	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

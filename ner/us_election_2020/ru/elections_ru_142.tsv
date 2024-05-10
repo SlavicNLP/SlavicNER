@@ -1,0 +1,94 @@
+17	23	Путина	Путин	PER	PER-Vladimir-Putin
+26	33	Байдена	Байден	PER	PER-Joe-Biden
+144	149	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+208	218	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+249	255	России	Россия	LOC	GPE-Russia
+258	261	США	США	LOC	GPE-USA
+262	276	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+279	292	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+403	492	Договора по дальнейшему сокращению и ограничению стратегических наступательных вооружений	Договор о стратегических наступательных вооружениях	PRO	PRO-Strategic-Arms-Reduction-Treaty
+494	499	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+511	517	Кремля	Кремль	ORG	ORG-Kremlin
+544	546	РФ	РФ	LOC	GPE-Russia
+616	627	Белого дома	Белый дом	ORG	ORG-The-White-House
+773	825	Договора о стратегических наступательных вооружениях	Договор о стратегических наступательных вооружениях	PRO	PRO-Strategic-Arms-Reduction-Treaty
+1056	1062	Кремле	Кремль	ORG	ORG-Kremlin
+1142	1148	Байден	Байден	PER	PER-Joe-Biden
+1151	1156	Путин	Путин	PER	PER-Vladimir-Putin
+1319	1322	CNN	CNN	ORG	ORG-CNN
+1394	1405	Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+1408	1415	Москвой	Москва	LOC	GPE-Moscow
+1418	1428	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1443	1449	Путину	Путин	PER	PER-Vladimir-Putin
+1485	1488	CNN	CNN	ORG	ORG-CNN
+1510	1520	российская	российский	LOC	GPE-Russia
+1534	1541	Украине	Украина	LOC	GPE-Ukraine
+1574	1632	Национального управления телекоммуникаций и информации США	Национальное управление телекоммуникаций и информации США	ORG	ORG-National-Telecommunications-and-Information-Administration-USA
+1673	1679	Москве	Москва	LOC	GPE-Moscow
+1699	1701	РФ	РФ	LOC	GPE-Russia
+1704	1733	американские выборы 2020 года	Американские выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+1751	1762	Белого дома	Белый дом	ORG	ORG-The-White-House
+1763	1778	Дженнифер Псаки	Дженнифер Псаки	PER	PER-Jen-Psaki
+1826	1832	Байден	Байден	PER	PER-Joe-Biden
+1847	1854	Путиным	Путин	PER	PER-Vladimir-Putin
+1864	1871	Байдена	Байден	PER	PER-Joe-Biden
+1928	1945	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+2047	2053	России	Россия	LOC	GPE-Russia
+2058	2070	Американская	Американский	LOC	GPE-USA
+2078	2091	New York Post	New York Post	PRO	PRO-New-York-Post
+2093	2096	NYP	NYP	PRO	PRO-New-York-Post
+2114	2125	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2202	2213	украинскому	украинский	LOC	GPE-Ukraine
+2242	2248	Путина	Путин	PER	PER-Vladimir-Putin
+2269	2274	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+2323	2326	МИД	МИД	ORG	ORG-Foreign-Office
+2327	2340	Сергей Рябков	Сергей Рябов	PER	PER-Sergey-Ryabkov
+2379	2385	Москвы	Москва	LOC	GPE-Moscow
+2437	2451	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+2459	2466	Госдуму	Госдума	ORG	ORG-Russia-The-State-Duma
+2494	2499	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+2613	2619	Москва	Москва	LOC	GPE-Moscow
+2622	2631	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+2767	2770	США	США	LOC	GPE-USA
+2773	2780	Россией	Россия	LOC	GPE-Russia
+2853	2897	Центра исследований проблем безопасности РАН	Центр исследований проблем безопасности РАН	ORG	ORG-Centre-for-Security-Studies-Russian-Academy-of-Sciences
+2911	2928	Константин Блохин	Константин Блохин	PER	PER-Konstantin-Blohin
+2968	2979	Белого дома	Белый дом	ORG	ORG-The-White-House
+3023	3028	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+3037	3050	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+3062	3079	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+3123	3130	Байдена	Байден	PER	PER-Joe-Biden
+3195	3205	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3245	3251	России	Россия	LOC	GPE-Russia
+3263	3270	Украины	Украина	LOC	GPE-Ukraine
+3309	3329	"""Северный поток — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+3383	3388	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+3389	3398	демократы	демократы	ORG	ORG-Democratic-Party-USA
+3413	3427	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+3622	3625	США	США	LOC	GPE-USA
+3628	3635	Россией	Россия	LOC	GPE-Russia
+3687	3693	Блохин	Блохин	PER	PER-Konstantin-Blohin
+3741	3751	американцы	американцы	PER	GPE-USA
+3775	3781	Россию	Россия	LOC	GPE-Russia
+3885	3890	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+4007	4013	Кремля	Кремль	ORG	ORG-Kremlin
+4016	4027	Белого дома	Белый дом	ORG	ORG-The-White-House
+4042	4049	Америка	Америка	LOC	GPE-USA
+4075	4081	России	Россия	LOC	GPE-Russia
+4093	4099	Блохин	Блохин	PER	PER-Konstantin-Blohin
+4138	4150	американских	американский	LOC	GPE-USA
+4163	4169	Байден	Байден	PER	PER-Joe-Biden
+4227	4235	Fox News	Fox News	PRO	PRO-Fox-News
+4261	4268	Путиным	Путин	PER	PER-Vladimir-Putin
+4284	4287	США	США	LOC	GPE-USA
+4340	4345	Путин	Путин	PER	PER-Vladimir-Putin
+4390	4396	Байден	Байден	PER	PER-Joe-Biden
+4425	4430	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
+4460	4466	России	Россия	LOC	GPE-Russia
+4469	4472	США	США	LOC	GPE-USA
+4473	4489	Дмитрий Медведев	Дмитрий Медведев	PER	PER-Dmitry-Medvedev
+4492	4503	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+4841	4859	«Политика Сегодня»	«Политика Сегодня»	PRO	PRO-Politics-Today
+4898	4905	Байдена	Байден	PER	PER-Joe-Biden
+4957	4960	США	США	LOC	GPE-USA
+4963	4970	Россией	Россия	LOC	GPE-Russia

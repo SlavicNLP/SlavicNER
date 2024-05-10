@@ -1,0 +1,28 @@
+0	6	Пелосі	Пелосі	PER	PER-Nancy-Pelosi
+8	19	Конгрес США	Конгрес США	ORG	ORG-United-States-Congress
+60	66	Трампа	Трамп	PER	PER-Donald-Trump
+78	98	Палати представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+99	111	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+112	124	Ненсі Пелосі	Ненсі Пелосі	PER	PER-Nancy-Pelosi
+137	156	Палата предстаників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+219	222	США	США	LOC	GPE-USA
+223	238	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+250	256	Сенату	Сенат	ORG	ORG-United-States-Senate
+260	280	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+301	307	Трампу	Трамп	PER	PER-Donald-Trump
+412	420	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+429	449	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+470	476	Сенату	Сенат	ORG	ORG-United-States-Senate
+523	529	Трампа	Трамп	PER	PER-Donald-Trump
+600	623	Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+662	668	Сенаті	Сенат	ORG	ORG-United-States-Senate
+714	719	Трамп	Трамп	PER	PER-Donald-Trump
+925	942	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+990	996	Пелосі	Пелосі	PER	PER-Nancy-Pelosi
+1206	1212	Пелосі	Пелосі	PER	PER-Nancy-Pelosi
+1253	1259	Сенату	Сенат	ORG	ORG-United-States-Senate
+1300	1305	Сенат	Сенат	ORG	ORG-United-States-Senate
+1402	1413	Інавгурації	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+1415	1428	Камала Гарріс	Камала Гарріс	PER	PER-Kamala-Harris
+1437	1448	Майка Пенса	Майк Пенс	PER	PER-Mike-Pence
+1452	1461	Капітолію	Капітолій	LOC	LOC-United-States-Capitol

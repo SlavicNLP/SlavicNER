@@ -1,0 +1,27 @@
+42	49	brexitu	Brexit	EVT	EVT-Brexit
+69	76	brexitu	Brexit	EVT	EVT-Brexit
+95	101	Londyn	Londyn	LOC	GPE-London
+102	111	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+148	163	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+174	192	II wojny światowej	II wojna światowa	EVT	EVT-World-War-II
+215	231	Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+345	347	UE	UE	ORG	ORG-European-Union
+365	382	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+457	473	Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+516	523	brexitu	Brexit	EVT	EVT-Brexit
+607	616	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+763	765	UE	UE	ORG	ORG-European-Union
+916	934	Mark Malloch Brown	Mark Malloch Brown	PER	PER-Mark-Malloch-Brown
+965	981	Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+1023	1034	laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+1137	1143	Sorosa	Soros	PER	PER-George-Soros
+1263	1270	brexitu	Brexit	EVT	EVT-Brexit
+1283	1290	brexitu	Brexit	EVT	EVT-Brexit
+1304	1309	Soros	Soros	PER	PER-George-Soros
+1420	1429	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1466	1479	Malloch Brown	Malloch Brown	PER	PER-Mark-Malloch-Brown
+1529	1535	Sorosa	Soros	PER	PER-George-Soros
+1596	1604	Londynie	Londyn	LOC	GPE-London
+1651	1662	Theresa May	Theresa May	PER	PER-Theresa-May
+1744	1759	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1767	1769	UE	UE	ORG	ORG-European-Union

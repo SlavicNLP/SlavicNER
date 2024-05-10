@@ -1,0 +1,56 @@
+0	5	Putin	Putin	PER	PER-Vladimir-Putin
+75	80	Rosji	Rosja	LOC	GPE-Russia
+81	95	Władimir Putin	Władimir Putin	PER	PER-Vladimir-Putin
+117	124	Moskwie	Moskwa	LOC	GPE-Moscow
+147	160	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+163	168	Rosji	Rosja	LOC	GPE-Russia
+172	179	Niemiec	Niemcy	LOC	GPE-Germany
+213	218	Rosja	Rosja	LOC	GPE-Russia
+319	324	Putin	Putin	PER	PER-Vladimir-Putin
+368	375	Moskwie	Moskwa	LOC	GPE-Moscow
+405	408	USA	USA	LOC	GPE-USA
+409	423	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+449	452	ONZ	ONZ	ORG	ORG-United-Nations
+463	469	Niemcy	Niemcy	LOC	GPE-Germany
+504	509	Rosji	Rosja	LOC	GPE-Russia
+571	584	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+654	661	Europie	Europa	LOC	LOC-Europe
+716	722	Europa	Europa	LOC	LOC-Europe
+859	864	Rosja	Rosja	LOC	GPE-Russia
+883	888	Putin	Putin	PER	PER-Vladimir-Putin
+910	923	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+944	949	Rosja	Rosja	LOC	GPE-Russia
+1070	1075	Rosja	Rosja	LOC	GPE-Russia
+1221	1226	Rosja	Rosja	LOC	GPE-Russia
+1304	1311	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1313	1319	Polska	Polska	LOC	GPE-Poland
+1337	1350	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1368	1374	Polska	Polska	LOC	GPE-Poland
+1394	1401	Ukraina	Ukraina	LOC	GPE-Ukraine
+1407	1424	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1445	1458	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1507	1513	Europy	Europa	LOC	LOC-Europe
+1630	1642	Andrzej Duda	Andrzej Duda	PER	PER-Andrzej-Duda
+1695	1698	USA	USA	LOC	GPE-USA
+1699	1715	Donaldem Trumpem	Donald Trump	PER	PER-Donald-Trump
+1718	1730	Waszyngtonie	Waszyngton	LOC	GPE-WashingtonDC
+1742	1746	Duda	Duda	PER	PER-Andrzej-Duda
+1770	1773	USA	USA	LOC	GPE-USA
+1899	1906	Trumpem	Trump	PER	PER-Donald-Trump
+1976	1983	Europie	Europa	LOC	LOC-Europe
+2112	2125	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+2169	2176	Trumpem	Trump	PER	PER-Donald-Trump
+2235	2239	Duda	Duda	PER	PER-Andrzej-Duda
+2317	2323	Europy	Europa	LOC	LOC-Europe
+2458	2463	Rosja	Rosja	LOC	GPE-Russia
+2502	2515	Nord Stream 3	Nord Stream 3	PRO	PRO-Nord-Stream-3
+2517	2530	Nord Stream 4	Nord Stream 4	PRO	PRO-Nord-Stream-4
+2587	2594	Europie	Europa	LOC	LOC-Europe
+2665	2667	RP	RP	LOC	GPE-Poland
+2692	2700	Gazpromu	Gazprom	ORG	ORG-Gazprom
+2770	2773	OMV	OMV	ORG	ORG-OMV
+2786	2802	BASF-Wintershall	BASF-Wintershall	ORG	ORG-BASF-Wintershall
+2805	2811	Uniper	Uniper	ORG	ORG-Uniper
+2826	2830	E.On	E.On	ORG	ORG-E.ON
+2843	2848	Engie	Engie	ORG	ORG-Engie
+2873	2890	Royal Dutch Shell	Royal Dutch Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group

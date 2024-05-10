@@ -1,0 +1,49 @@
+0	8	Захарова	Захарова	PER	PER-Maria-Zaharova
+28	36	Джонсона	Джонсон	PER	PER-Boris-Johnson
+94	100	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+101	115	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+160	174	Великобритании	Великобритания	LOC	GPE-Great-Britain
+239	252	Даунинг-стрит	Даунинг-стрит	LOC	LOC-Downing-Street
+359	367	Захарова	Захарова	PER	PER-Maria-Zaharova
+482	492	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+652	667	российского МИД	российский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+688	696	Facebook	Facebook	PRO	PRO-Facebook
+728	734	Кремля	Кремль	ORG	ORG-Kremlin
+754	768	Великобритании	Великобритания	LOC	GPE-Great-Britain
+783	797	Великобритании	Великобритания	LOC	GPE-Great-Britain
+801	808	Новичок	Новичок	PRO	PRO-Novichok
+811	818	ЧМ-2018	ЧМ-2018	EVT	EVT-FIFA-World-Cup-2018
+926	934	Эймсбери	Эймсбери	LOC	LOC-Amesbury
+1004	1029	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+1061	1069	Скрипали	Скрипали	PER	PER-Skripals
+1186	1190	НАТО	НАТО	ORG	ORG-NATO
+1224	1232	Захарова	Захарова	PER	PER-Maria-Zaharova
+1267	1285	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+1353	1363	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1381	1396	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1515	1518	МИД	МИД	ORG	ORG-Foreign-Office
+1639	1668	британском кабинете министров	британский кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+1705	1716	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1764	1778	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1790	1799	Евросоюза	Евросоюз	ORG	ORG-European-Union
+1824	1829	Дэвис	Дэвис	PER	PER-David-Davis
+1927	1951	Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+2079	2085	Дэвиса	Дэвис	PER	PER-David-Davis
+2096	2108	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+2193	2198	Дэвис	Дэвис	PER	PER-David-Davis
+2202	2209	Джонсон	Джонсон	PER	PER-Boris-Johnson
+2241	2247	Brexit	Brexit	EVT	EVT-Brexit
+2273	2276	Мэй	Мэй	PER	PER-Theresa-May
+2343	2366	Соединенное Королевство	Соединенное Королевство	LOC	GPE-Great-Britain
+2391	2400	Евросоюза	Евросоюз	ORG	ORG-European-Union
+2425	2444	Европейского совета	Европейский совет	ORG	ORG-European-Council
+2445	2459	Дональда Туска	Дональд Туск	PER	PER-Donald-Tusk
+2539	2547	Брюсселя	Брюссель	LOC	GPE-Brussles
+2550	2557	Лондона	Лондон	LOC	GPE-London
+2568	2582	Великобритании	Великобритания	LOC	GPE-Great-Britain
+2586	2588	ЕС	ЕС	ORG	ORG-European-Union
+2633	2640	Дэвисом	Дэвис	PER	PER-David-Davis
+2677	2683	Brexit	Brexit	EVT	EVT-Brexit
+2695	2702	Дэвисом	Дэвис	PER	PER-David-Davis
+2735	2743	Джонсона	Джонсон	PER	PER-Boris-Johnson
+2755	2759	Туск	Туск	PER	PER-Donald-Tusk

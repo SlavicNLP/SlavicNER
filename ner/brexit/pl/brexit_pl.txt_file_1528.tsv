@@ -1,0 +1,54 @@
+19	22	WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+113	115	UE	UE	ORG	ORG-European-Union
+134	156	Wspólna Polityka Rolna	Wspólna Polityka Rolna	PRO	PRO-CAP-Common-Agricultural-Policy
+201	221	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+243	245	KE	KE	ORG	ORG-European-Commission
+414	417	WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+478	486	Brukseli	Bruksela	LOC	GPE-Brussles
+511	519	EURACTIV	Euractiv	ORG	ORG-EURACTIV
+548	568	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+570	594	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+663	685	Wspólna Polityka Rolna	Wspólna Polityka Rolna	PRO	PRO-CAP-Common-Agricultural-Policy
+687	690	WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+1058	1065	brexitu	Brexit	EVT	EVT-Brexit
+1162	1165	WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+1254	1256	UE	UE	ORG	ORG-European-Union
+1343	1351	EURACTIV	Euractiv	ORG	ORG-EURACTIV
+1352	1367	Tassos Haniotis	Tassos Haniotis	PER	PER-Tassos-Haniotis
+1370	1417	Dyrekcji Generalnej ds. Rolnictwa i Rozwoju Wsi	Dyrekcja Generalna ds. Rolnictwa i Rozwoju Wsi	ORG	ORG-Directorate-General-for-Agriculture-and-Rural-Development
+1420	1440	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+1442	1449	DG AGRI	DG AGRI	ORG	ORG-Directorate-General-for-Agriculture-and-Rural-Development
+1742	1744	UE	UE	ORG	ORG-European-Union
+2072	2074	UE	UE	ORG	ORG-European-Union
+2207	2215	Haniotis	Haniotis	PER	PER-Tassos-Haniotis
+2271	2273	UE	UE	ORG	ORG-European-Union
+2468	2471	WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+2695	2707	Kanadyjczycy	Kanadyjczycy	PER	GPE-Canada
+2892	2894	KE	KE	ORG	ORG-European-Commission
+2897	2899	PE	PE	ORG	ORG-European-Parliament
+2914	2917	WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+2919	2939	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+2975	2978	WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+3029	3056	Europejskiej Partii Ludowej	Europejska Partia Ludowa	ORG	ORG-EPP-European-Peoples-Party
+3058	3061	EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+3080	3096	Herbert Dorfmann	Herbert Dorfmann	PER	PER-Herbert-Dorfmann
+3203	3209	brexit	Brexit	EVT	EVT-Brexit
+3334	3349	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3388	3390	UE	UE	ORG	ORG-European-Union
+3432	3438	Brexit	Brexit	EVT	EVT-Brexit
+3596	3602	brexit	Brexit	EVT	EVT-Brexit
+3625	3627	PE	PE	ORG	ORG-European-Parliament
+3718	3720	UE	UE	ORG	ORG-European-Union
+3903	3919	Herbert Dorfmann	Herbert Dorfmann	PER	PER-Herbert-Dorfmann
+3974	4013	Zielonych/Wolnego Sojuszu Europejskiego	Zieloni/Wolny Sojusz Europejski	ORG	ORG-Greens-European-Free-Alliance
+4015	4025	Greens/EFA	Greens/EFA	ORG	ORG-Greens-European-Free-Alliance
+4027	4043	Molly Scott-Cato	Molly Scott-Cato	PER	PER-Molly-Scott-Cato
+4092	4095	WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+4641	4657	Molly Scott-Cato	Molly Scott-Cato	PER	PER-Molly-Scott-Cato
+4697	4704	brexitu	Brexit	EVT	EVT-Brexit
+4775	4777	UE	UE	ORG	ORG-European-Union
+4843	4855	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+4937	4959	Alberto Arroyo Schnell	Alberto Arroyo Schnell	PER	PER-Alberto-Arroyo-Schnell
+4962	4999	Międzynarodowej Unii Ochrony Przyrody	Międzynarodowa Unia Ochrony Przyrody	ORG	ORG-IUCN-International-Union-for-Conservation-of-Nature
+5001	5005	IUCN	IUCN	ORG	ORG-IUCN-International-Union-for-Conservation-of-Nature
+5213	5216	ONZ	ONZ	ORG	ORG-United-Nations

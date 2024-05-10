@@ -1,0 +1,75 @@
+39	43	Дума	Дума	PRO	PRO-Duma
+64	67	САЩ	САЩ	LOC	GPE-USA
+69	79	Демократът	демократ	PER	ORG-Democratic-Party-USA
+80	90	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+252	262	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+286	307	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+364	368	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+373	384	Доналд Тръм	Доналд Тръмп	PER	PER-Donald-Trump
+474	495	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+497	507	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+530	550	Избирателната коегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+566	578	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+686	692	Байдън	Байдън	PER	PER-Joe-Biden
+712	719	Върмънт	Върмонт	LOC	GPE-Vermont
+721	730	Вирджиния	Вирджиния	LOC	GPE-Virginia
+732	740	Делауеър	Делауеър	LOC	GPE-Delaware
+743	750	Илинойс	Илинойс	LOC	GPE-Illinois
+752	760	Колорадо	Колорадо	LOC	GPE-Colorado
+762	772	Кънектикът	Кънектикът	LOC	GPE-Connecticut
+774	785	Массачусетс	Масачузетс	LOC	GPE-Massachusetts
+787	795	Мэриленд	Мериленд	LOC	GPE-Maryland
+797	807	Ню Хемпшир	Ню Хемпшир	LOC	GPE-New-Hampshire
+809	818	Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+821	828	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+831	841	Ню Мексико	Ню Мексико	LOC	GPE-New Mexico
+843	874	федералиня окръг окръг Колумбия	федерален окръг Колумбия	LOC	GPE-District-of-Columbia
+890	899	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+902	912	Род-Айлйнд	Роуд Айлънд	LOC	GPE-Rhode-Island
+931	943	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+985	992	Алабама	Алабама	LOC	GPE-USA-Alabama
+995	1003	Арканзас	Арканзас	LOC	GPE-Arkansas
+1006	1014	Уайоминг	Уайоминг	LOC	GPE-Wyoming
+1016	1033	Западна Вирджиния	Западна Вирджиния	LOC	GPE-West-Virginia
+1035	1042	Индиана	Индиана	LOC	GPE-Indiana
+1044	1050	Канзас	Канзас	LOC	GPE-Kansas
+1052	1059	Кентъки	Кентъки	LOC	GPE-Kentucky
+1061	1069	Луизиана	Луизиана	LOC	GPE-Louisiana
+1071	1079	Мисисипи	Мисисипи	LOC	GPE-Mississippi
+1081	1087	Мисури	Мисури	LOC	GPE-Missouri
+1089	1097	Оклахома	Оклахома	LOC	GPE-Oklahoma
+1099	1113	Северна Дакота	Северна Дакота	LOC	GPE-North-Dakota
+1115	1121	Тенеси	Тенеси	LOC	GPE-Tennessee
+1123	1134	Южна Дакота	Южна Дакота	LOC	GPE-South-Dakota-US-State
+1136	1149	Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+1153	1156	Юта	Юта	LOC	GPE-Utah
+1158	1163	Тръмп	Тръмп	PER	PER-Donald-Trump
+1220	1227	Флорида	Флорида	LOC	GPE-Florida
+1285	1301	Асошиейтед  прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+1317	1323	Байдън	Байдън	PER	PER-Joe-Biden
+1392	1404	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1660	1670	американци	американци	PER	GPE-USA
+1712	1728	Съединенити щати	Съединени щати	LOC	GPE-USA
+1763	1772	демократи	демократи	PER	ORG-Democratic-Party-USA
+1782	1794	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1969	1974	Тръмп	Тръмп	PER	PER-Donald-Trump
+1986	1993	Флорида	Флорида	LOC	GPE-Florida
+1997	2003	Байдън	Байдън	PER	PER-Joe-Biden
+2006	2016	Калифорния	Калифорния	LOC	GPE-California
+2018	2024	Доналд	Доналд	PER	PER-Donald-Trump
+2039	2044	Охайо	Охайо	LOC	GPE-Ohio
+2047	2053	Тексас	Тексас	LOC	GPE-Texas
+2181	2184	САЩ	САЩ	LOC	GPE-USA
+2515	2524	Белия дом	Бял дом	LOC	LOC-White-House
+2529	2536	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+2553	2564	демократите	демократи	PER	ORG-Democratic-Party-USA
+2565	2571	Байдън	Байдън	PER	PER-Joe-Biden
+2995	3001	Байдън	Байдън	PER	PER-Joe-Biden
+3004	3016	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3049	3055	Туитър	Туитър	PRO	PRO-Twitter
+3199	3202	САЩ	САЩ	LOC	GPE-USA
+3460	3472	американците	американци	PER	GPE-USA
+3590	3599	Белия дом	Бял дом	LOC	LOC-White-House
+3743	3752	Белия дом	Бял дом	LOC	LOC-White-House
+3954	3991	посолството на България във Вашингтон	Посолство на България във Вашингтон	ORG	ORG-Embassy-of-Bulgaria-in-Washington
+4135	4144	Белия дом	Бял дом	LOC	LOC-White-House

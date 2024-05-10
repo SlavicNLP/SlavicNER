@@ -1,0 +1,33 @@
+14	22	COVID-19	COVID-19	EVT	EVT-Covid-19
+40	47	Украину	Украина	LOC	GPE-Ukraine
+58	64	Африки	Африка	LOC	LOC-Africa
+134	148	Павел Ковтонюк	Павел Ковтонюк	PER	PER-Pavlo-Kovtonyuk
+214	221	Украина	Украина	LOC	GPE-Ukraine
+261	273	коронавируса	коронавирус	EVT	EVT-Covid-19
+294	306	Средней Азии	Средняя Азия	LOC	GPE-Soviet-Central-Asia
+309	315	Африки	Африка	LOC	LOC-Africa
+370	394	Киевской школы экономики	Киевская школа экономики	ORG	ORG-Kyiv-School-of-Economics
+395	409	Павел Ковтонюк	Павел Ковтонюк	PER	PER-Pavlo-Kovtonyuk
+445	456	РБК-Украина	РБК-Украина	ORG	ORG-RBC-Ukraine
+507	516	ковидного	ковид	EVT	EVT-Covid-19
+950	1021	Национальной технической группы экспертов по вопросам иммунопрофилактик	Национальная техническая группа экспертов по вопросам иммунопрофилактик	ORG	ORG-National-Technical-Expert-Group-on-Immunoprophylaxis
+1022	1034	Федора Лапия	Федор Лапий	PER	PER-Fyodor-Lapiy
+1038	1045	Украине	Украина	LOC	GPE-Ukraine
+1084	1096	коронавируса	коронавирус	EVT	EVT-Covid-19
+1196	1203	Украины	Украина	LOC	GPE-Ukraine
+1286	1295	украинцев	украинцы	PER	GPE-Ukraine
+1381	1390	Апострофу	Апостроф	PRO	PRO-Apostrof
+1428	1440	коронавируса	коронавирус	EVT	EVT-Covid-19
+1443	1450	Украине	Украина	LOC	GPE-Ukraine
+1466	1473	Украине	Украина	LOC	GPE-Ukraine
+1597	1609	коронавируса	коронавирус	EVT	EVT-Covid-19
+1660	1668	BioNTech	BioNTech	ORG	ORG-BioNTech
+1671	1677	Pfizer	Pfizer	ORG	ORG-Pfizer
+1710	1717	Украину	Украина	LOC	GPE-Ukraine
+1755	1767	коронавируса	коронавирус	EVT	EVT-Covid-19
+1903	1905	ЕС	ЕС	ORG	ORG-European-Union
+1957	1965	COVID-19	COVID-19	EVT	EVT-Covid-19
+1983	1990	Украину	Украина	LOC	GPE-Ukraine
+2001	2007	Африки	Африка	LOC	LOC-Africa
+2035	2047	коронавируса	коронавирус	EVT	EVT-Covid-19
+2068	2079	Коронавирус	Коронавирус	EVT	EVT-Covid-19

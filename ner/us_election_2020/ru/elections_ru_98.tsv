@@ -1,0 +1,26 @@
+7	10	США	США	LOC	GPE-USA
+20	25	Трамп	Трамп	PER	PER-Donald-Trump
+42	51	Капитолию	Капитолий	ORG	ORG-United-States-Congress
+168	185	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+223	232	Капитолия	Капитолия	ORG	ORG-United-States-Congress
+251	256	Трамп	Трамп	PER	PER-Donald-Trump
+357	368	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
+382	387	Axios	Axios	PRO	PRO-Axios
+422	428	Трампа	Трам	PER	PER-Donald-Trump
+497	500	США	США	LOC	GPE-USA
+698	710	американских	американский	LOC	GPE-USA
+749	762	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+846	861	конституции США	конституция  США	PRO	PRO-The-USA-Constitution
+941	953	Нэнси Пелоси	Нэнси Пелоси	PER	PER-Nancy-Pelosi
+983	992	Чак Шумер	Чак Шумер	PER	PER-Chuck-Schumer
+1039	1050	Майку Пенсу	Майк Пенс	PER	PER-Mike-Pence
+1054	1059	Трамп	Трамп	PER	PER-Donald-Trump
+1187	1196	Капитолий	Капитолий	ORG	ORG-United-States-Congress
+1214	1226	американской	американская	LOC	GPE-USA
+1366	1371	Трамп	Трамп	PER	PER-Donald-Trump
+1515	1520	Трамп	Трамп	PER	PER-Donald-Trump
+1623	1641	Пенсильвания-авеню	Пенсильвания-авеню	LOC	LOC-Pennsylvania-Avenue-NW-Washington-DC-USA
+1650	1659	Капитолию	Капитолий	ORG	ORG-United-States-Congress
+1729	1732	США	США	LOC	GPE-USA
+1780	1789	Капитолий	Капитолий	ORG	ORG-United-States-Congress
+1846	1852	Трампа	Трам	PER	PER-Donald-Trump

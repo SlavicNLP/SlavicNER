@@ -1,0 +1,38 @@
+0	6	Байдън	Байдън	PER	PER-Joe-Biden
+31	40	Белия дом	Белия дом	LOC	LOC-White-House
+107	110	САЩ	САЩ	LOC	GPE-USA
+137	143	Байдън	Байдън	PER	PER-Joe-Biden
+144	149	Харис	Харис	PER	PER-Kamala-Harris
+181	192	демократите	демократи	PER	ORG-Democratic-Party-USA
+219	242	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+243	253	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+332	344	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+360	382	американските граждани	американски граждани	PER	GPE-USA
+524	545	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+556	563	Ройтерс	Ройтерс	ORG	ORG-Reuters
+662	668	Байдън	Байдън	PER	PER-Joe-Biden
+742	753	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+755	763	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+765	772	Аризона	Аризона	LOC	GPE-Arizona
+775	781	Невада	Невада	LOC	GPE-Nevada
+824	836	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+864	870	Байдън	Байдън	PER	PER-Joe-Biden
+1160	1172	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1320	1329	Белия дом	Белия дом	LOC	LOC-White-House
+1342	1352	пандемията	пандемия	EVT	EVT-Pandemic
+1468	1480	американците	американци	PER	GPE-USA
+1566	1572	Байдън	Байдън	PER	PER-Joe-Biden
+1671	1676	Тръмп	Тръмп	PER	PER-Donald-Trump
+1689	1695	Байдън	Байдън	PER	PER-Joe-Biden
+1723	1733	Уилмингтън	Уилмингтън	LOC	GPE-Wilmington
+1752	1759	Делауер	Делауер	LOC	GPE-Delaware
+1986	1993	Ройтерс	Ройтерс	ORG	ORG-Reuters
+2021	2027	Байдън	Байдън	PER	PER-Joe-Biden
+2126	2138	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2465	2487	пандемията от ковид-19	пандемия от ковид-19	EVT	EVT-Covid-19
+2540	2551	демократите	демократи	PER	ORG-Democratic-Party-USA
+2571	2576	Тръмп	Тръмп	PER	PER-Donald-Trump
+2670	2676	Байдън	Байдън	PER	PER-Joe-Biden
+2728	2739	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2788	2796	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2824	2829	Тръмп	Тръмп	PER	PER-Donald-Trump

@@ -1,0 +1,14 @@
+0	7	Америка	Америка	LOC	GPE-USA
+44	49	Тръмп	Тръмп	PER	PER-Donald-Trump
+65	72	Америка	Америка	LOC	GPE-USA
+138	160	пандемията от Ковид-19	пандемия от Ковид-19	EVT	EVT-Covid-19
+274	299	Пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+310	313	САЩ	САЩ	LOC	GPE-USA
+510	530	Здравната служба CDC	Здравна служба CDC	ORG	ORG-Centers-for-Disease-Control
+604	607	САЩ	САЩ	LOC	GPE-USA
+654	659	Тръмп	Тръмп	PER	PER-Donald-Trump
+970	977	Америка	Америка	LOC	GPE-USA
+1043	1065	пандемията от Ковид-19	пандемия от Ковид-19	EVT	EVT-Covid-19
+1401	1406	Тръмп	Тръмп	PER	PER-Donald-Trump
+1497	1509	коронавируса	коронавирус	EVT	EVT-Covid-19
+1747	1757	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden

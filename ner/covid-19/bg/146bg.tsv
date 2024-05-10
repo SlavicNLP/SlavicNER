@@ -1,0 +1,16 @@
+0	6	Канада	Канада	LOC	GPE-Canada
+35	47	коронавируса	коронавирус	EVT	EVT-Covid-19
+83	88	Китай	Китай	LOC	GPE-China
+90	99	Австралия	Австралия	LOC	GPE-Australia
+102	108	Италия	Италия	LOC	GPE-Italy
+127	163	Изследователския институт „Сънибрук“	Изследователски институт „Сънибрук“	ORG	ORG-Sunnybrook-Research-Institute
+165	189	Университета „Макмастър“	Университет „Макмастър“	ORG	ORG-McMaster-University
+192	214	университета в Торонто	Университет в Торонто	ORG	ORG-University-of-Toronto
+241	253	коронавируса	коронавирус	EVT	EVT-Covid-19
+571	584	коронавирусът	коронавирус	EVT	EVT-Covid-19
+606	611	Китай	Китай	LOC	GPE-China
+613	622	Австралия	Австралия	LOC	GPE-Australia
+625	631	Италия	Италия	LOC	GPE-Italy
+816	826	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+840	848	Covid-19	COVID-19	EVT	EVT-Covid-19
+1132	1136	Ухан	Ухан	LOC	GPE-Wuhan

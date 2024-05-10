@@ -1,0 +1,16 @@
+23	32	covidu-19	covid-19	EVT	EVT-Covid-19
+88	94	covidu	covid	EVT	EVT-Covid-19
+219	232	Lidové noviny	Lidové noviny	PRO	PRO-Hospodarske-Noviny
+241	268	Státního zdravotního ústavu	Státní zdravotního ústavu	ORG	ORG-Statni-Zdravotni-ustav
+270	273	SZÚ	SZÚ	ORG	ORG-Statni-Zdravotni-ustav
+275	290	Pavel Březovský	Pavel Březovský	PER	PER-Pavel-Brezovsky
+373	381	covid-19	covid-19	EVT	EVT-Covid-19
+509	520	koronavirus	koronavirus	EVT	EVT-Covid-19
+973	997	Fakultní nemocnice Motol	Fakultní nemocnice Motol	LOC	LOC-Universtiy-Hospital-Motol-Prague
+998	1010	Jan Beroušek	Jan Beroušek	PER	PER-Jan-Berousek
+1049	1060	koronavirem	koronavirus	EVT	EVT-Covid-19
+1457	1467	koronaviru	koronavirus	EVT	EVT-Covid-19
+1568	1583	Rastislav Maďar	Rastislav Maďar	PER	PER-Rastislav-Madar
+1597	1606	Březovský	Březovský	PER	PER-Pavel-Brezovsky
+1622	1633	koronavirus	koronavirus	EVT	EVT-Covid-19
+1753	1761	covid-19	covid-19	EVT	EVT-Covid-19

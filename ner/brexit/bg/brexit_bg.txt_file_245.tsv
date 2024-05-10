@@ -1,0 +1,76 @@
+5	19	Евродепутатите	евродепутати	PER	ORG-European-Parlament
+66	73	Брекзит	Брекзит	EVT	EVT-Brexit
+129	136	Брекзит	Брекзит	EVT	EVT-Brexit
+138	152	евродепутатите	евродепутати	PER	ORG-European-Parlament
+298	303	София	София	LOC	GPE-Sofia
+320	334	Евродепутатите	евродепутати	PER	ORG-European-Parlament
+381	388	Брекзит	Брекзит	EVT	EVT-Brexit
+444	451	Брекзит	Брекзит	EVT	EVT-Brexit
+453	467	евродепутатите	евродепутати	PER	ORG-European-Parlament
+654	668	евродепутатите	евродепутати	PER	ORG-European-Parlament
+752	754	ЕС	ЕС	ORG	ORG-European-Union
+756	770	Евродепутатите	евродепутати	PER	ORG-European-Parlament
+817	824	Брекзит	Брекзит	EVT	EVT-Brexit
+922	939	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+940	951	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+980	994	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+1048	1050	ЕС	ЕС	ORG	ORG-European-Union
+1079	1093	евродепутатите	евродепутати	PER	ORG-European-Parlament
+1125	1139	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1328	1342	Евродепутатите	евродепутати	PER	ORG-European-Parlament
+1382	1396	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1461	1463	ЕС	ЕС	ORG	ORG-European-Union
+1585	1597	евродепутати	евродепутати	PER	ORG-European-Parlament
+1639	1641	ЕС	ЕС	ORG	ORG-European-Union
+1706	1708	ЕС	ЕС	ORG	ORG-European-Union
+1747	1749	ЕС	ЕС	ORG	ORG-European-Union
+1752	1766	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1956	1963	Брекзит	Брекзит	EVT	EVT-Brexit
+1964	1977	Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+2095	2097	ЕС	ЕС	ORG	ORG-European-Union
+2125	2139	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2209	2223	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2283	2297	Евродепутатите	евродепутати	PER	ORG-European-Parlament
+2435	2437	ЕС	ЕС	ORG	ORG-European-Union
+2479	2489	еврозоната	Еврозона	LOC	LOC-Eurozone
+2631	2642	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+2659	2676	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+2677	2691	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+2708	2728	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+2729	2742	Манфред Вебер	Манфред Вебер	PER	PER-Manfred-Weber
+2744	2747	ЕНП	ЕНП	ORG	ORG-EPP
+2749	2757	Германия	Германия	LOC	GPE-Germany
+2759	2778	Мария Жуан Родригеш	Мария Жуан Родригеш	PER	PER-Maria-Juan-Rodriguez
+2785	2795	Португалия	Португалия	LOC	GPE-Portugal
+2797	2808	Сайед Камал	Сайед Камал	PER	PER-Syed-Kamall
+2815	2829	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2831	2844	Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+2846	2850	АЛДЕ	АЛДЕ	ORG	ORG-ALDE
+2852	2858	Белгия	Белгия	LOC	GPE-Belgium
+2860	2878	Такис Хаджигеоргиу	Такис Хаджигеоргиу	PER	PER-Takis-Hadjigeorgiou
+2889	2894	Кипър	Кипър	LOC	GPE-Cyprus
+2896	2905	Ска Келер	Ска Келер	PER	PER-Ska-Keller
+2907	2915	Зелените	Зелените	ORG	ORG-Die-Grunen
+2917	2925	Германия	Германия	LOC	GPE-Germany
+2927	2942	Роландас Паксас	Роландас Паксас	PER	PER-Rolandas-Paksas
+2944	2948	ЕСПД	ЕСПД	ORG	ORG-Party-Order-and-Justice
+2950	2955	Литва	Литва	LOC	GPE-Lithuania
+2957	2971	Марсел де Граф	Марсел де Граф	PER	PER-Marcel-de-Graaff
+2978	2989	Нидерландия	Нидерландия	LOC	GPE-Holland
+2991	3008	Светослав Малинов	Светослав Малинов	PER	PER-Svetoslav-Malinov
+3010	3013	ЕНП	ЕНП	ORG	ORG-EPP
+3015	3023	България	България	LOC	GPE-Bulgaria
+3143	3163	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3167	3169	ЕС	ЕС	ORG	ORG-European-Union
+3334	3340	Brexit	Brexit	EVT	EVT-Brexit
+3623	3631	французи	французи	PER	GPE-France
+3633	3641	германци	германци	PER	GPE-Germany
+3646	3652	поляци	поляци	PER	GPE-Poland
+3808	3815	българи	българи	PER	GPE-Bulgaria
+3818	3825	румънци	румънци	PER	GPE-Romania
+4032	4049	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+4169	4183	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4187	4189	ЕС	ЕС	ORG	ORG-European-Union
+4380	4387	Брекзит	Брекзит	EVT	EVT-Brexit
+4529	4531	ЕП	ЕП	ORG	ORG-European-Parliament
+4548	4562	Великобритания	Великобритания	LOC	GPE-Great-Britain

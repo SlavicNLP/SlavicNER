@@ -1,0 +1,45 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+22	35	konservativce	konservativci	ORG	ORG-Conservative-and-Unionist-Party-UK
+37	48	Theresa May	Theresa May	PER	PER-Theresa-May
+115	126	Therese May	Theresa May	PER	PER-Theresa-May
+224	238	Evropske unije	Evropska unija	ORG	ORG-European-Union
+244	251	Londonu	London	LOC	GPE-London
+255	262	Bruslju	Bruselj	LOC	GPE-Brussles
+448	454	brexit	brexit	EVT	EVT-Brexit
+533	540	brexita	brexit	EVT	EVT-Brexit
+564	575	Theresa May	Theresa May	PER	PER-Theresa-May
+609	630	konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+633	644	Birminghamu	Birmingham	LOC	GPE-Birmingham
+693	699	brexit	brexit	EVT	EVT-Brexit
+747	755	Brusljem	Bruselj	LOC	GPE-Brussles
+829	835	Mayeva	May	PER	PER-Theresa-May
+885	898	Dancing Queen	Dancing Queen	PRO	PRO-Dancing-Queen
+907	911	Abba	Abba	PER	PER-Abba
+1009	1025	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+1255	1257	EU	EU	ORG	ORG-European-Union
+1324	1330	brexit	brexit	EVT	EVT-Brexit
+1333	1335	EU	EU	ORG	ORG-European-Union
+1381	1400	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+1433	1439	Mayeva	May	PER	PER-Theresa-May
+1659	1672	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+1676	1691	Republiko Irsko	Republika Irska	LOC	GPE-Republic-of-Ireland
+1904	1917	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+1984	1995	Therese May	Theresa May	PER	PER-Theresa-May
+2031	2037	brexit	brexit	EVT	EVT-Brexit
+2072	2079	Johnson	Johnson	PER	PER-Boris-Johnson
+2181	2187	Mayeve	May	PER	PER-Theresa-May
+2230	2246	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+2309	2316	Bruslja	Bruselj	LOC	GPE-Brussles
+2385	2392	Johnson	Johnson	PER	PER-Boris-Johnson
+2499	2512	konservativci	konservativci	PER	ORG-Conservative-and-Unionist-Party-UK
+2581	2588	Johnson	Johnson	PER	PER-Boris-Johnson
+2624	2631	brexitu	brexit	EVT	EVT-Brexit
+2697	2718	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+2722	2724	EU	EU	ORG	ORG-European-Union
+2770	2784	konservativcev	konservativci	PER	ORG-Conservative-and-Unionist-Party-UK
+2852	2858	brexit	brexit	EVT	EVT-Brexit
+2922	2927	Irsko	Irsko	LOC	GPE-Ireland
+3116	3122	London	London	LOC	GPE-London
+3185	3187	EU	EU	ORG	ORG-European-Union
+3199	3205	Kanado	Kanada	LOC	GPE-Canada
+3348	3355	brexitu	brexit	EVT	EVT-Brexit

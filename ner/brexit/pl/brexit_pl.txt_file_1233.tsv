@@ -1,0 +1,19 @@
+0	11	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+15	23	brexitem	Brexit	EVT	EVT-Brexit
+170	185	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+293	300	brexitu	Brexit	EVT	EVT-Brexit
+301	315	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+386	394	Londynie	Londyn	LOC	GPE-London
+447	449	UE	UE	ORG	ORG-European-Union
+455	476	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+714	731	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+842	850	brexitem	Brexit	EVT	EVT-Brexit
+861	869	Brukseli	Bruksela	LOC	GPE-Brussles
+941	956	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+988	990	UE	UE	ORG	ORG-European-Union
+1037	1045	Brukseli	Bruksela	LOC	GPE-Brussles
+1196	1213	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1216	1218	UE	UE	ORG	ORG-European-Union
+1744	1752	Irlandią	Irlandia	LOC	GPE-Ireland
+1755	1768	Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+1801	1829	Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice

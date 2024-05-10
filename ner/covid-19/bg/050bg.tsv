@@ -1,0 +1,32 @@
+24	29	Ковид	Ковид	EVT	EVT-Covid-19
+32	40	Германия	Германия	LOC	GPE-Germany
+119	129	пандемията	пандемия	EVT	EVT-Pandemic
+130	138	Германия	Германия	LOC	GPE-Germany
+169	177	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+296	304	Германия	Германия	LOC	GPE-Germany
+338	346	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+372	380	Германия	Германия	LOC	GPE-Germany
+404	426	"института ""Роберт Кох"""	"институт ""Роберт Кох"""	ORG	ORG-Robert-Koch-Institut
+481	491	пандемията	пандемия	EVT	EVT-Pandemic
+717	725	Германия	Германия	LOC	GPE-Germany
+740	750	Роберт Кох	Роберт Кох	ORG	ORG-Robert-Koch-Institut
+1348	1356	Саксония	Саксония	LOC	GPE-Saxony
+1359	1367	Тюрингия	Тюрингия	LOC	GPE-Thuringia
+1452	1466	Долна Саксония	Долна Саксония	LOC	GPE-Lower-Saxony
+1468	1495	Мекленбург-Предна Померания	Мекленбург-Предна Померания	LOC	GPE-Mecklenburg-Vorpommern
+1498	1513	Шлезвиг-Холщайн	Шлезвиг-Холщайн	LOC	GPE-Schleswig-Holstein
+1657	1665	Германия	Германия	LOC	GPE-Germany
+1982	1991	Йенс Шпан	Йенс Шпан	PER	PER-Jens-Spahn
+2046	2068	"института ""Роберт Кох"""	"институт ""Роберт Кох"""	ORG	ORG-Robert-Koch-Institut
+2069	2080	Лотар Вилер	Лотар Вилер	PER	PER-Lothar-Wieler
+2223	2227	Шпан	Шпан	PER	PER-Jens-Spahn
+2448	2459	Хелге Браун	Хелге Браун	PER	PER-Helge-Braun
+2521	2532	Лотар Вилер	Лотар Вилер	PER	PER-Lothar-Wieler
+2535	2544	Йенс Шпан	Йенс Шпан	PER	PER-Jens-Spahn
+2576	2584	Германия	Германия	LOC	GPE-Germany
+2772	2776	Шпан	Шпан	PER	PER-Jens-Spahn
+2804	2819	Новогодишна нощ	Новогодишна нощ	EVT	EVT-New-Year
+2894	2899	Вилер	Вилер	PER	PER-Lothar-Wieler
+3140	3150	германците	германци	PER	GPE-Germany
+3318	3340	"института ""Роберт Кох"""	"институт ""Роберт Кох"""	ORG	ORG-Robert-Koch-Institut
+3411	3424	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel

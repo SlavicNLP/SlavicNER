@@ -1,0 +1,49 @@
+0	7	Melania	Melania	PER	PER-Melania-Trump
+11	17	Donald	Donald	PER	PER-Donald-Trump
+78	81	ZDA	ZDA	LOC	GPE-USA
+128	137	Američane	Američani	PER	GPE-USA
+190	201	George Bush	George Bush	PER	PER-George-Bush-Jr
+287	294	Floridi	Florida	LOC	GPE-Florida
+404	416	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+543	553	Američanov	Američani	PER	GPE-USA
+1037	1042	Trump	Trump	PER	PER-Donald-Trump
+1081	1097	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+1197	1202	Trump	Trump	PER	PER-Donald-Trump
+1250	1257	Trumpov	Trumpov	PER	PER-Donald-Trump
+1277	1286	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1404	1407	ZDA	ZDA	LOC	GPE-USA
+1516	1531	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1598	1607	Belo hišo	Bela hiša	LOC	LOC-White-House
+1807	1812	Trump	Trump	PER	PER-Donald-Trump
+1963	1971	Reutersa	Reuters	ORG	ORG-Reuters
+1975	1981	Ipsosa	Ipsos	ORG	ORG-Ipsos-Group-S.A.
+2018	2023	Biden	Biden	PER	PER-Joe-Biden
+2084	2091	Floridi	Florida	LOC	GPE-Florida
+2093	2109	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+2113	2120	Arizoni	Arizona	LOC	GPE-Arizona
+2132	2137	Trump	Trump	PER	PER-Donald-Trump
+2140	2152	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2171	2180	Michiganu	Michigan	LOC	GPE-Michigan
+2184	2194	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+2274	2286	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2288	2298	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+2302	2311	Michiganu	Michigan	LOC	GPE-Michigan
+2351	2355	Iowi	Iowa	LOC	GPE-Iowa
+2404	2423	Des Moines Register	Des Moines Register	ORG	ORG-Des-Moines-Register
+2424	2429	Trump	Trump	PER	PER-Donald-Trump
+2594	2600	Trumpu	Trump	PER	PER-Donald-Trump
+2704	2714	Clintonovo	Clinton	PER	PER-Hillary-Clinton
+2761	2767	Trumpu	Trump	PER	PER-Donald-Trump
+2799	2803	Iowi	Iowa	LOC	GPE-Iowa
+2884	2892	Trumpova	Trump	PER	PER-Donald-Trump
+3021	3030	Belo hišo	Bela hiša	LOC	LOC-White-House
+3123	3130	Bidenom	Biden	PER	PER-Joe-Biden
+3201	3204	ZDA	ZDA	LOC	GPE-USA
+3205	3218	Melania Trump	Melania Trump	PER	PER-Melania-Trump
+3314	3320	Bidena	Biden	PER	PER-Joe-Biden
+3497	3506	Američane	Američani	PER	GPE-USA
+3580	3606	International Crisis Group	International Crisis Group	ORG	ORG-ICG-International-Crisis-Group
+3608	3611	ICG	ICG	ORG	ORG-ICG-International-Crisis-Group
+3657	3660	ZDA	ZDA	LOC	GPE-USA
+3716	3725	Američani	Američani	PER	GPE-USA
+3973	3979	Trumpa	Trump	PER	PER-Donald-Trump

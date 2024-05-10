@@ -1,0 +1,8 @@
+0	7	Prymula	Prymula	PER	PER-Roman-Prymula
+31	37	covidu	covid	EVT	EVT-Covid-19
+60	65	Praha	Praha	LOC	GPE-Prague
+103	111	covid-19	covid-19	EVT	EVT-Covid-19
+180	194	Romana Prymuly	Roman Prymula	PER	PER-Roman-Prymula
+338	345	Prymuly	Prymula	PER	PER-Roman-Prymula
+555	599	Ústavu zdravotnických informací a statistiky	Ústav zdravotnických informací a statistiky	ORG	ORG-Institute-of-Health-Information-and-Statistics-Czech-Republic
+601	605	ÚZIS	ÚZIS	ORG	ORG-Institute-of-Health-Information-and-Statistics-Czech-Republic

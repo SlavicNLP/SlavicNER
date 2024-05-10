@@ -1,0 +1,47 @@
+0	7	Брекзит	Брекзит	EVT	EVT-Brexit
+9	11	ЕП	ЕП	ORG	ORG-European-Parliament
+56	58	ЕС	ЕС	ORG	ORG-European-Union
+61	70	Обединено	Обединено	LOC	GPE-Great-Britain
+75	84	Страсбург	Страсбург	LOC	GPE-Strasbourg
+239	241	ЕС	ЕС	ORG	ORG-European-Union
+253	273	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+312	314	ЕС	ЕС	ORG	ORG-European-Union
+366	390	Белфасткото споразумение	Белфастко споразумение	PRO	PRO-GFA-Good-Friday-Agreement
+414	416	ЕП	ЕП	ORG	ORG-European-Parliament
+493	495	ЕС	ЕС	ORG	ORG-European-Union
+524	531	Брекзит	Брекзит	EVT	EVT-Brexit
+654	656	ЕС	ЕС	ORG	ORG-European-Union
+659	679	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+1135	1149	Евродепутатите	евродепутати	PER	ORG-European-Parlament
+1320	1327	Брекзит	Брекзит	EVT	EVT-Brexit
+1369	1371	ЕС	ЕС	ORG	ORG-European-Union
+1665	1667	ЕС	ЕС	ORG	ORG-European-Union
+1893	1895	ЕС	ЕС	ORG	ORG-European-Union
+1955	1957	ЕС	ЕС	ORG	ORG-European-Union
+2004	2014	Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+2129	2149	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+2335	2337	ЕС	ЕС	ORG	ORG-European-Union
+2349	2369	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+2408	2410	ЕС	ЕС	ORG	ORG-European-Union
+2471	2479	Ирландия	Ирландия	LOC	GPE-Ireland
+2482	2498	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2717	2731	Евродепутатите	евродепутати	PER	ORG-European-Parlament
+2808	2832	Белфасткото споразумение	Белфастко споразумение	PRO	PRO-GFA-Good-Friday-Agreement
+2840	2852	Момчил Неков	Момчил Неков	PER	PER-Momchil-Nekov
+2854	2857	С&Д	С&Д	ORG	ORG-SD-Progressive-Alliance-of-Socialists-and-Democrats
+2859	2867	България	България	LOC	GPE-Bulgaria
+2877	2884	Брекзит	Брекзит	EVT	EVT-Brexit
+2905	2921	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+2969	2978	българите	българи	PER	GPE-Bulgaria
+3106	3113	българи	българи	PER	GPE-Bulgaria
+3201	3215	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3218	3226	България	България	LOC	GPE-Bulgaria
+3299	3306	Брекзит	Брекзит	EVT	EVT-Brexit
+3329	3349	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+3585	3587	ЕС	ЕС	ORG	ORG-European-Union
+3590	3610	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+3749	3751	ЕС	ЕС	ORG	ORG-European-Union
+3863	3883	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+3987	4007	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+4035	4037	ЕП	ЕП	ORG	ORG-European-Parliament
+4177	4206	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

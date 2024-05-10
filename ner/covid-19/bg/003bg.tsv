@@ -1,0 +1,18 @@
+38	47	Факултета	Факултета	LOC	LOC-Fakulteta
+52	61	Филиповци	Филиповци	LOC	LOC-Filipovtsi
+64	110	Столичната регионална здравна инспекция (СРЗИ)	Столична регионална здравна инспекция (СРЗИ)	ORG	ORG-SRZI
+152	163	коронаривус	коронавирус	EVT	EVT-Covid-19
+222	231	Факултета	Факултета	LOC	LOC-Fakulteta
+236	245	Филиповци	Филиповци	LOC	LOC-Filipovtsi
+275	279	СРЗИ	СРЗИ	ORG	ORG-SRZI
+374	382	PCR тест	PCR тест	PRO	PRO-PCR-Test
+427	431	СРЗИ	СРЗИ	ORG	ORG-SRZI
+762	766	СРЗИ	СРЗИ	ORG	ORG-SRZI
+826	835	Факултета	Факултета	LOC	LOC-Fakulteta
+840	849	Филиповци	Филиповци	LOC	LOC-Filipovtsi
+869	874	София	София	LOC	GPE-Sofia
+1030	1034	СРЗИ	СРЗИ	ORG	ORG-SRZI
+1095	1104	Факултета	Факултета	LOC	LOC-Fakulteta
+1109	1118	Филиповци	Филиповци	LOC	LOC-Filipovtsi
+1160	1163	МВР	МВР	ORG	ORG-MVR
+1334	1337	КПП	КПП	LOC	LOC-KPP

@@ -1,0 +1,39 @@
+0	6	Байдън	Байдън	PER	PER-Joe-Biden
+8	13	Тръмп	Тръмп	PER	PER-Donald-Trump
+89	92	САЩ	САЩ	LOC	GPE-USA
+93	103	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+140	152	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+184	195	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+270	276	Байдън	Байдън	PER	PER-Joe-Biden
+320	328	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+331	337	Байдън	Байдън	PER	PER-Joe-Biden
+349	354	Тръмп	Тръмп	PER	PER-Donald-Trump
+425	433	COVID-19	COVID-19	EVT	EVT-Covid-19
+436	446	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+453	465	американците	американци	PER	GPE-USA
+508	527	пандемията COVID-19	пандемия COVID-19	EVT	EVT-Covid-19
+533	544	демократите	демократи	PER	ORG-Democratic-Party-USA
+576	582	Сената	Сенат	ORG	ORG-United-States-Senate
+594	603	Интерфакс	Интерфакс	ORG	ORG-Interfax
+607	613	Байдън	Байдън	PER	PER-Joe-Biden
+634	642	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+675	686	демократите	демократи	PER	ORG-Democratic-Party-USA
+687	696	Джон Ософ	Джон Ософ	PER	PER-Jon-Ossoff
+699	712	Рафаел Уорнок	Рафаел Уорнок	PER	PER-Raphael-Warnock
+730	734	Джон	Джон	PER	PER-Jon-Ossoff
+737	743	Рафаел	Рафаел	PER	PER-Raphael-Warnock
+748	757	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+888	900	коронавируса	коронавирус	EVT	EVT-Covid-19
+924	930	Байдън	Байдън	PER	PER-Joe-Biden
+959	963	Ософ	Ософ	PER	PER-Jon-Ossoff
+966	972	Уорнок	Уорнок	PER	PER-Raphael-Warnock
+1007	1016	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1101	1113	Дейвид Пърдю	Дейвид Пърдю	PER	PER-David-Perdue
+1116	1127	Кели Лефлър	Кели Лефлър	PER	PER-Kelly-Loeffler
+1154	1166	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1192	1200	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1227	1230	САЩ	САЩ	LOC	GPE-USA
+1269	1279	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1314	1319	Тръмп	Тръмп	PER	PER-Donald-Trump
+1397	1405	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1478	1488	пандемията	пандемия	EVT	EVT-Pandemic

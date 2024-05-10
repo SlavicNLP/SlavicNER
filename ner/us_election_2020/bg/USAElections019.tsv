@@ -1,0 +1,31 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+67	73	Байдън	Байдън	PER	PER-Joe-Biden
+107	110	САЩ	САЩ	LOC	GPE-USA
+185	188	САЩ	САЩ	LOC	GPE-USA
+189	201	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+276	297	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+399	409	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+458	464	Байдън	Байдън	PER	PER-Joe-Biden
+589	595	Байдън	Байдън	PER	PER-Joe-Biden
+606	613	Ройтерс	Ройтерс	ORG	ORG-Reuters
+697	708	демократите	демократи	PER	ORG-Democratic-Party-USA
+709	719	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+852	864	републиканец	републиканец	PER	ORG-Republican-Party-USA
+865	877	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1003	1010	Аризона	Аризона	LOC	GPE-Arizona
+1012	1018	Аляска	Аляска	LOC	GPE-Alaska
+1020	1028	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1030	1036	Невада	Невада	LOC	GPE-Nevada
+1037	1048	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1051	1067	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+1095	1101	Байдън	Байдън	PER	PER-Joe-Biden
+1104	1111	Аризона	Аризона	LOC	GPE-Arizona
+1121	1126	Тръмп	Тръмп	PER	PER-Donald-Trump
+1223	1231	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1328	1333	Тръмп	Тръмп	PER	PER-Donald-Trump
+1395	1411	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+1421	1428	Аризона	Аризона	LOC	GPE-Arizona
+1433	1439	Невада	Невада	LOC	GPE-Nevada
+1442	1447	Тръмп	Тръмп	PER	PER-Donald-Trump
+1455	1469	Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+1509	1520	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania

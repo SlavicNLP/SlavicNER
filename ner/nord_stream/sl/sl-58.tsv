@@ -1,0 +1,52 @@
+0	5	Perry	Perry	PER	PER-Rick-Perry
+44	51	Srednje	Srednji	LOC	LOC-Central-Europe
+55	69	Vzhodne Evrope	Vzhodna Evropa	LOC	LOC-Eastern-Europe
+71	76	Perry	Perry	PER	PER-Rick-Perry
+148	154	Evrope	Evropa	LOC	LOC-Europe
+158	161	ZDA	ZDA	LOC	GPE-USA
+171	177	Evrope	Evropa	LOC	LOC-Europe
+366	369	ZDA	ZDA	LOC	GPE-USA
+380	396	pobudo Tri morja	pobuda Tri morja	PRO	PRO-Three-Seas-Initiative
+412	428	energetske unije	energetska unija	ORG	ORG-Energy-union
+533	546	Donalda Trump	Donald Trump	PER	PER-Donald-Trump
+658	663	Perry	Perry	PER	PER-Rick-Perry
+689	692	ZDA	ZDA	LOC	GPE-USA
+746	752	Evropo	Evropa	LOC	LOC-Europe
+870	872	EU	EU	ORG	ORG-European-Union
+1065	1071	Evropi	Evropa	LOC	LOC-Europe
+1128	1133	Nemci	Nemci	PER	GPE-Germany
+1303	1306	ZDA	ZDA	LOC	GPE-USA
+1342	1348	Rusiji	Rusija	LOC	GPE-Russia
+1481	1487	Rusija	Rusija	LOC	GPE-Russia
+1661	1666	Perry	Perry	PER	PER-Rick-Perry
+1733	1746	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1796	1802	Rusija	Rusija	LOC	GPE-Russia
+1809	1815	Evropi	Evropa	LOC	LOC-Europe
+1860	1865	Perry	Perry	PER	PER-Rick-Perry
+1870	1873	ZDA	ZDA	LOC	GPE-USA
+1877	1886	Slovenija	Slovenija	LOC	GPE-Slovenia
+1904	1907	ZDA	ZDA	LOC	GPE-USA
+1949	1954	Perry	Perry	PER	PER-Rick-Perry
+1970	1977	Srednje	Srednji	LOC	LOC-Central-Europe
+1981	1995	Vzhodne Evrope	Vzhodna Evropa	LOC	LOC-Eastern-Europe
+2361	2366	Perry	Perry	PER	PER-Rick-Perry
+2551	2560	Slovenija	Slovenija	LOC	GPE-Slovenia
+2658	2663	Perry	Perry	PER	PER-Rick-Perry
+2701	2710	Slovenija	Slovenija	LOC	GPE-Slovenia
+2910	2913	ZDA	ZDA	LOC	GPE-USA
+2915	2927	Westinghouse	Westinghouse	ORG	ORG-Westinghouse
+3028	3054	Nuklearno elektrarno Krško	Nuklearna elektrarna Krško	ORG	ORG-Krško-Nuclear-Power-Plant
+3150	3155	Perry	Perry	PER	PER-Rick-Perry
+3198	3211	Marjanu Šarcu	Marjan Šarec	PER	PER-Marjan-Šarec
+3240	3254	Borutu Pahorju	Borut Pahor	PER	PER-Borut-Pahor
+3394	3403	Slovenija	Slovenija	LOC	GPE-Slovenia
+3424	3427	ZDA	ZDA	LOC	GPE-USA
+3436	3445	Slovenija	Slovenija	LOC	GPE-Slovenia
+3481	3484	ZDA	ZDA	LOC	GPE-USA
+3557	3562	Perry	Perry	PER	PER-Rick-Perry
+3572	3581	Ljubljano	Ljubljana	LOC	GPE-Ljubljana
+3666	3687	vrha pobude Tri morja	vrh pobude Tri morja	EVT	EVT-Summit-Of-Three-Seas-Initiative
+3716	3718	EU	EU	ORG	ORG-European-Union
+3723	3731	Baltikom	Baltik	LOC	LOC-Baltic-Sea
+3733	3741	Jadranom	Jadran	LOC	LOC-Adriatic-sea
+3745	3757	Črnim morjem	Črno morje	LOC	LOC-Black-Sea

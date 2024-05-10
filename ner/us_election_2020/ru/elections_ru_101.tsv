@@ -1,0 +1,117 @@
+23	26	США	США	LOC	GPE-USA
+37	48	"""Интерфакс"""	"""Интерфакс"""	PRO	PRO-Interfax
+98	105	Америке	Америка	LOC	GPE-USA
+119	122	США	США	LOC	GPE-USA
+144	164	президентские выборы	президентские выборы	EVT	EVT-2016-United-States-Presidential-Election
+192	201	Белый дом	Белый дом	ORG	ORG-The-White-House
+223	245	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+246	261	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+264	277	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+278	291	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+379	390	американцев	американцы	PER	GPE-USA
+424	435	"""Интерфакс"""	"""Интерфакс"""	PRO	PRO-Interfax
+585	588	США	США	LOC	GPE-USA
+609	629	президентские выборы	президентские выборы	EVT	EVT-2016-United-States-Presidential-Election
+689	700	"""Интерфакс"""	"""Интерфакс"""	PRO	PRO-Interfax
+762	766	TIME	TIME	PRO	PRO-TIME
+832	835	США	США	LOC	GPE-USA
+868	875	Флориды	Флорида	LOC	GPE-Florida
+877	885	Делавэра	Делавэр	LOC	GPE-Delaware
+887	895	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+897	909	Массачусетса	Массачусетс	LOC	GPE-Massachusetts
+911	920	Мэриленда	Мэриленд	LOC	GPE-Maryland
+922	930	Мичигана	Мичиган	LOC	GPE-Michigan
+932	944	Нью-Гэмпшира	Нью-Гэмпшира	LOC	GPE-New-Hampshire
+946	958	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+960	971	Род-Айленда	Род-Айленд	LOC	GPE-Rhode-Island
+973	987	Южной Каролины	Южная Каролина	LOC	GPE-South-Carolina-US-State
+996	1003	Теннеси	Теннеси	LOC	GPE-Tennessee
+1031	1048	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+1050	1055	Огайо	Огайо	LOC	GPE-Ohio
+1057	1075	Западной Вирджинии	Западная Вирджиния	LOC	GPE-West-Virginia
+1078	1086	Вермонте	Вермонт	LOC	GPE-Vermont
+1096	1105	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+1107	1119	Коннектикуте	Коннектикут	LOC	GPE-Connecticut
+1121	1125	Мэне	Мэн	LOC	GPE-Maine
+1127	1137	Нью-Джерси	Нью-Джерси	LOC	GPE-New-Jersey
+1140	1149	Вирджинии	Вирджиния	LOC	GPE-Virginia
+1151	1158	Индиане	Индиана	LOC	GPE-Indiana
+1161	1169	Кентукки	Кентукки	LOC	GPE-Kentucky
+1215	1222	Индиане	Индиана	LOC	GPE-Indiana
+1225	1233	Кентукки	Кентукки	LOC	GPE-Kentucky
+1247	1257	восточному	восточное	LOC	LOC-East
+1276	1287	московскому	московское	LOC	GPE-Moscow
+1336	1343	Флорида	Флорида	LOC	GPE-Florida
+1385	1396	московскому	московское	LOC	GPE-Moscow
+1442	1449	Хиллари	Хиллари	PER	PER-Hillary-Clinton
+1452	1465	Билл Клинтоны	Билл Клинтон	PER	PER-Bill-Clinton
+1493	1502	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+1712	1715	США	США	LOC	GPE-USA
+1797	1800	США	США	LOC	GPE-USA
+2185	2191	Москве	Москва	LOC	GPE-Moscow
+2338	2347	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+2408	2415	Монтаны	Монтана	LOC	GPE-Montana-US-State
+2417	2423	Аляски	Аляска	LOC	GPE-Alaska
+2425	2433	Вермонта	Вермонт	LOC	GPE-Vermont
+2435	2443	Делавэра	Делавэр	LOC	GPE-Delaware
+2445	2454	Вайоминга	Вайоминг	LOC	GPE-Wyoming
+2456	2461	Южной	Южная Дакота	LOC	GPE-South-Dakota-US-State
+2464	2479	Северной Дакоты	Северная Дакота	LOC	GPE-North-Dakota
+2504	2514	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+2536	2546	Калифорнии	Калифорния	LOC	GPE-California
+2693	2699	Трампа	Трамп	PER	PER-Donald-Trump
+2748	2755	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+2826	2829	США	США	LOC	GPE-USA
+2844	2874	екатеринбургском парке бабочек	екатеринбургский парк бабочек	LOC	LOC-Yekaterinburg-Butterfly-Park
+2977	2999	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+3000	3015	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+3233	3245	американских	американский	LOC	GPE-USA
+3437	3447	демократов	демократы	ORG	ORG-Democratic-Party-USA
+3473	3480	Флориды	Флорида	LOC	GPE-Florida
+3482	3491	демократы	демократы	ORG	ORG-Democratic-Party-USA
+3576	3579	Мэн	Мэн	LOC	GPE-Maine
+3582	3590	Небраска	Небраска	LOC	GPE-Nebraska
+3628	3631	CNN	CNN	PRO	PRO-CNN
+3673	3682	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+3767	3773	Трампа	Трам	PER	PER-Donald-Trump
+3924	3927	США	США	LOC	GPE-USA
+4050	4052	РФ	РФ	LOC	GPE-Russia
+4076	4085	Нью-Йорка	Нью-Йорк	LOC	GPE-New-York
+4166	4176	Манхэттана	Манхэттан	LOC	LOC-Manhattan
+4529	4548	выборах в 2012 году	выборыв 2012	EVT	EVT-2012-United-States-Presidential-Election
+4567	4576	демократы	демократы	ORG	ORG-Democratic-Party-USA
+4588	4601	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+4724	4734	демократов	демократы	ORG	ORG-Democratic-Party-USA
+4787	4801	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+4970	4973	США	США	LOC	GPE-USA
+4974	4984	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+5075	5089	Билла Клинтона	Билл Клинтон	PER	PER-Bill-Clinton
+5328	5335	Флорида	Флорида	LOC	GPE-Florida
+5337	5346	Вирджиния	Вирджиния	LOC	GPE-Virginia
+5348	5360	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+5362	5379	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+5382	5387	Огайо	Огайо	LOC	GPE-Ohio
+5401	5406	Огайо	Огайо	LOC	GPE-Ohio
+5552	5557	Огайо	Огайо	LOC	GPE-Ohio
+5571	5581	демократов	демократы	ORG	ORG-Democratic-Party-USA
+5594	5608	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+5622	5631	демократы	демократы	ORG	ORG-Democratic-Party-USA
+5707	5710	США	США	LOC	GPE-USA
+5912	5931	JPMorgan Chase & Co	JPMorgan Chase & Co	ORG	ORG-JPMorgan-Chase-&-Co
+5972	5978	Трампа	Трамп	PER	PER-Donald-Trump
+5989	5994	Brent	Brent	PRO	PRO-Brent
+6030	6037	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+6137	6140	США	США	LOC	GPE-USA
+6150	6165	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+6169	6191	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+6194	6207	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+6218	6232	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+6489	6508	The Washington Post	The Washington Post	PRO	PRO-Washington-Post
+6540	6547	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+6557	6563	Трампа	Трамп	PER	PER-Donald-Trump
+6600	6613	Ку-клукс-клан	Ку-клукс-клан	ORG	ORG-Ku-Klux-Klan
+6638	6645	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+6655	6661	Трампа	Трамп	PER	PER-Donald-Trump
+6697	6704	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+6714	6720	Трампа	Трамп	PER	PER-Donald-Trump
+6754	6761	Мексике	Мексика	LOC	GPE-Mexico

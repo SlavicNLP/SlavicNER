@@ -1,0 +1,53 @@
+20	22	ЕС	ЕС	ORG	ORG-European-Union
+43	45	РФ	РФ	LOC	GPE-Russia
+81	89	Кароблис	Кароблис	PER	PER-Raimundas-Karoblis
+101	107	kam.lt	kam.lt	ORG	ORG-Minisrty-of-National-Defence-Lithuania
+129	138	Евросоюза	Евросоюз	ORG	ORG-European-Union
+235	240	Литвы	Литва	LOC	GPE-Lithuania
+241	259	Раймундас Кароблис	Раймундас Кароблис	PER	PER-Raimundas-Karoblis
+466	482	Европейский союз	Европейский союз	ORG	ORG-European-Union
+697	717	Европейская комиссия	Европейская комиссия	ORG	ORG-European-Commission
+758	764	России	Россия	LOC	GPE-Russia
+793	799	Москву	Москва	LOC	GPE-Moscow
+814	821	Украине	Украина	LOC	GPE-Ukraine
+853	855	ЕС	ЕС	ORG	ORG-European-Union
+870	877	Венгрия	Венгрия	LOC	GPE-Hungary
+955	962	Венгрии	Венгрия	LOC	GPE-Hungary
+964	972	Словакии	Словакия	LOC	GPE-Slovakia
+975	980	Чехии	Чехия	LOC	GPE-Czech-Republic
+1068	1076	Будапешт	Будапешт	LOC	GPE-Budapest
+1184	1193	Хорватией	Хорватия	LOC	GPE-Croatia
+1434	1440	Россия	Россия	LOC	GPE-Russia
+1471	1473	ЕС	ЕС	ORG	ORG-European-Union
+1558	1570	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+1571	1591	Урсула фон дер Ляйен	Урсула фон дер Ляйен	PER	PER-Ursula-von-der-Leyen
+1691	1698	Венгрии	Венгрия	LOC	GPE-Hungary
+1699	1715	Виктором Орбаном	Виктор Орбан	PER	PER-Viktor-Orban
+1727	1736	Кароблиса	Кароблис	PER	PER-Raimundas-Karoblis
+1847	1854	Украина	Украина	LOC	GPE-Ukraine
+1903	1909	Россию	Россия	LOC	GPE-Russia
+2252	2261	Кароблиса	Кароблис	PER	PER-Raimundas-Karoblis
+2263	2270	Украина	Украина	LOC	GPE-Ukraine
+2365	2372	Франции	Франция	LOC	GPE-France
+2373	2389	Эммануэль Макрон	Эммануэль Макрон	PER	PER-Emmanuel-Macron
+2439	2446	Украина	Украина	LOC	GPE-Ukraine
+2498	2516	Европейскому союзу	Европейский союз	ORG	ORG-European-Union
+2547	2549	ЕС	ЕС	ORG	ORG-European-Union
+2642	2647	Литвы	Литва	LOC	GPE-Lithuania
+2648	2663	Гитанас Науседа	Гитанас Науседа	PER	PER-Gitanas-Nauseda
+2773	2780	Украине	Украина	LOC	GPE-Ukraine
+2807	2809	ЕС	ЕС	ORG	ORG-European-Union
+2945	2952	Украины	Украина	LOC	GPE-Ukraine
+2978	2999	Договор об ассоциации	Договор об ассоциации	PRO	PRO-European-Union-Ukraine-Association-Agreement
+3188	3193	Литва	Литва	LOC	GPE-Lithuania
+3245	3247	ЕС	ЕС	ORG	ORG-European-Union
+3305	3312	Украины	Украина	LOC	GPE-Ukraine
+3446	3467	российского вторжения	российское вторжение	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+3664	3670	Турция	Турция	LOC	GPE-Turkey
+3672	3678	Сербия	Сербия	LOC	GPE-Serbia
+3680	3690	Черногория	Черногория	LOC	GPE-Montenegro
+3692	3699	Албания	Албания	LOC	GPE-Albania
+3702	3720	Северная Македония	Северная Македония	LOC	GPE-North-Macedonia
+3771	3773	ЕС	ЕС	ORG	ORG-European-Union
+3842	3849	Украине	Украина	LOC	GPE-Ukraine
+3912	3933	российского вторжения	российское вторжение	EVT	EVT-2022-Russian-Invasion-of-Ukraine

@@ -1,0 +1,23 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+35	41	Европа	Европа	LOC	LOC-Europe
+211	225	Великобритания	Великобритания	LOC	GPE-Great-Britain
+244	251	Ройтерс	Ройтерс	ORG	ORG-Reuters
+265	268	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+270	273	Мей	Мей	PER	PER-Theresa-May
+413	424	европейците	европейци	PER	LOC-Europe
+453	463	Франс прес	Франс прес	ORG	ORG-France-Presse
+844	882	Мюнхенската конференция по сигурността	Мюнхенска конференция по сигурността	EVT	EVT-MSC-Munich-Security-Conference
+987	990	Мей	Мей	PER	PER-Theresa-May
+1049	1069	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1072	1074	ЕС	ЕС	ORG	ORG-European-Union
+1255	1262	Брекзит	Брекзит	EVT	EVT-Brexit
+1348	1350	ЕС	ЕС	ORG	ORG-European-Union
+1441	1455	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1591	1594	Мей	Мей	PER	PER-Theresa-May
+1685	1693	Брекзита	Брекзит	EVT	EVT-Brexit
+1828	1832	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+2160	2163	Мей	Мей	PER	PER-Theresa-May
+2217	2233	Ислямска държава	Ислямска държава	LOC	GPE-Islamic-State-of-Iraq-and-the-Levant
+2409	2414	Русия	Русия	LOC	GPE-Russia
+2426	2433	Украйна	Украйна	LOC	GPE-Ukraine
+2438	2455	Западните Балкани	Западни Балкани	LOC	LOC-Western-Balkans

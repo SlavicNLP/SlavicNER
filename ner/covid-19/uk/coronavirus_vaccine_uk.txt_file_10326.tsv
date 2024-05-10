@@ -1,0 +1,59 @@
+7	15	COVID-19	COVID-19	EVT	EVT-Covid-19
+36	42	ковіду	ковід	EVT	EVT-Covid-19
+71	75	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+96	102	ковіду	ковід	EVT	EVT-Covid-19
+131	135	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+180	188	Covid-19	Covid-19	EVT	EVT-Covid-19
+208	212	Делі	Делі	LOC	GPE-Delhi
+214	219	Індія	Індія	LOC	GPE-India
+281	293	коронавірусу	коронавірус	EVT	EVT-Covid-19
+294	302	COVID-19	COVID-19	EVT	EVT-Covid-19
+461	465	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+466	483	Маріанджела Сімао	Маріанджела Сімао	PER	PER-Mariangela-Simao
+494	503	Укрінформ	Укрінформ	ORG	ORG-Ukrinform
+540	557	Business Standart	Business Standart	PRO	PRO-Business-Insider
+581	585	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+619	624	COVAX	COVAX	PRO	PRO-Covax-initiative
+718	722	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+829	841	коронавірусу	коронавірус	EVT	EVT-Covid-19
+854	861	Україні	Україна	LOC	GPE-Ukraine
+886	890	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+891	914	Тедрос Аданом Гебреєсус	Тедрос Аданом Гебреєсус	PER	PER-Tedros-Adhanom-Ghebreyesus
+1243	1247	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+1281	1289	пандемії	пандемія	EVT	EVT-Covid-19
+1290	1295	грипу	грип	EVT	EVT-Influenza
+1392	1400	пандемія	пандемія	EVT	EVT-Covid-19
+1461	1466	COVAX	COVAX	PRO	PRO-Covax-initiative
+1500	1508	COVID-19	COVID-19	EVT	EVT-Covid-19
+1509	1516	Україна	Україна	LOC	GPE-Ukraine
+1557	1579	коронавірусної хвороби	коронавірусна хвороба	EVT	EVT-Covid-19
+1735	1738	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+1739	1746	України	Україна	LOC	GPE-Ukraine
+1785	1792	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+1887	1893	Лекхім	Лекхім	ORG	ORG-Lekhim
+1949	1956	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+1963	1970	України	Україна	LOC	GPE-Ukraine
+2029	2054	Медичні закупівлі України	Медичні закупівлі України	ORG	ORG-Medical-Procurement-of-Ukraine
+2056	2071	Арсен Жумаділов	Арсен Жумаділов	PER	PER-Arsen-Zhumadilov
+2083	2086	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+2129	2141	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2258	2267	Новинарні	Новинарня	PRO	PRO-Novynarnia
+2340	2347	Patreon	Patreon	PRO	PRO-Patreon
+2490	2497	Україну	Україна	LOC	GPE-Ukraine
+2525	2534	Новинарню	Новинарня	PRO	PRO-Novynarnia
+2550	2558	Telegram	Telegram	PRO	PRO-Telegram
+2560	2568	Facebook	Facebook	PRO	PRO-Facebook
+2570	2577	Twitter	Twitter	PRO	PRO-Twitter
+2589	2595	Росією	Росія	LOC	GPE-Russia
+2614	2636	Служби безпеки України	Служби безпеки України	ORG	ORG-Security-Service-Ukraine
+2650	2659	Донеччині	Донеччина	LOC	LOC-Donetsk-Region
+2698	2702	ЛДНР	ЛДНР	ORG	ORG-LDNR
+2778	2780	РФ	РФ	LOC	GPE-Russia
+2806	2813	Донбасі	Донбас	LOC	LOC-Donbass
+2827	2835	Facebook	Facebook	PRO	PRO-Facebook
+2859	2868	Новинарня	Новинарня	PRO	PRO-Novynarnia
+2992	3004	Збройні сили	Збройні сили	ORG	ORG-Ukrainian-Army
+3155	3162	Донбасі	Донбас	LOC	LOC-Donbass
+3242	3249	Україні	Україна	LOC	GPE-Ukraine
+3414	3423	Новинарню	Новинарня	PRO	PRO-Novynarnia
+3484	3498	Дмитро Лиховій	Дмитро Лиховій	PER	PER-Dmytro-Lykhoviy

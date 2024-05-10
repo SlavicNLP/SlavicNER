@@ -1,0 +1,15 @@
+0	6	Pfizer	Pfizer	ORG	ORG-Pfizer
+9	17	BioNTech	BioNTech	ORG	ORG-BioNTech
+61	73	коронавірусу	коронавірус	EVT	EVT-Covid-19
+95	103	COVID-19	COVID-19	EVT	EVT-Covid-19
+117	125	BioNTech	BioNTech	ORG	ORG-BioNTech
+128	134	Pfizer	Pfizer	ORG	ORG-Pfizer
+244	256	The Guardian	The Guardian	ORG	ORG-The-Guardian
+412	418	Pfizer	Pfizer	ORG	ORG-Pfizer
+421	429	BioNTech	BioNTech	ORG	ORG-BioNTech
+873	881	BioNTech	BioNTech	ORG	ORG-BioNTech
+882	897	Райан Річардсон	Райан Річардсон	PER	PER-Ryan-Richardson
+1054	1074	Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+1094	1103	Німеччини	Німеччина	LOC	GPE-Germany
+1104	1118	Ангелу Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+1141	1149	Україною	Україна	LOC	GPE-Ukraine

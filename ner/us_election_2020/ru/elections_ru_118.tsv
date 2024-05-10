@@ -1,0 +1,63 @@
+198	210	американской	американская	LOC	GPE-USA
+739	762	Чикагского университета	Чикагский университет	ORG	ORG-University-of-Chicago
+783	791	Facebook	Facebook	PRO	PRO-Facebook
+804	814	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+848	851	США	США	LOC	GPE-USA
+946	954	Мичигане	Мичиган	LOC	GPE-Michigan
+956	968	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+971	977	Неваде	Невада	LOC	GPE-Nevada
+1031	1037	Байден	Байден	PER	PER-Joe-Biden
+1199	1207	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+1210	1217	Аризоне	Аризона	LOC	GPE-Arizona
+1230	1236	Байден	Байден	PER	PER-Joe-Biden
+1472	1479	Флориде	Флорида	LOC	GPE-Florida
+1517	1525	Мичигане	Мичиган	LOC	GPE-Michigan
+1589	1601	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1719	1724	Трамп	Трамп	PER	PER-Donald-Trump
+1799	1805	Байден	Байден	PER	PER-Joe-Biden
+1823	1831	Мичигане	Мичиган	LOC	GPE-Michigan
+1842	1854	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1902	1907	Трамп	Трамп	PER	PER-Donald-Trump
+1972	1978	Байден	Байден	PER	PER-Joe-Biden
+1979	1986	Мичиган	Мичиган	LOC	GPE-Michigan
+2003	2009	Байден	Байден	PER	PER-Joe-Biden
+2010	2022	Пенсильванию	Пенсильвания	LOC	GPE-Pennsylvania
+2169	2175	Трампа	Трамп	PER	PER-Donald-Trump
+2231	2237	Трампа	Трамп	PER	PER-Donald-Trump
+2359	2362	США	США	LOC	GPE-USA
+2600	2612	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+2644	2650	Трампа	Трамп	PER	PER-Donald-Trump
+2850	2857	Никсона	Никсон	PER	PER-Richard-Nixon
+2924	2932	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+3001	3006	Огайо	Огайо	LOC	GPE-Ohio
+3047	3052	Огайо	Огайо	LOC	GPE-Ohio
+3072	3081	демократу	демократ	ORG	ORG-Democratic-Party-USA
+3082	3087	Керри	Керри	PER	PER-John-Kerry
+3141	3144	Буш	Буш	PER	PER-George-Bush-Jr
+3384	3389	Гувер	Гувер	PER	PER-John-Edgar-Hoover
+3436	3445	Рузвельту	Рузвельт	PER	PER-Franklin-Roosevelt
+3671	3688	Великой депрессии	Великая депрессия	EVT	EVT-Great-Depression
+3786	3791	Трамп	Трамп	PER	PER-Donald-Trump
+3849	3856	Байдена	Байден	PER	PER-Joe-Biden
+3893	3905	американской	американская	LOC	GPE-USA
+4045	4049	Буша	Буш	PER	PER-George-Bush-Jr
+4052	4057	Огайо	Огайо	LOC	GPE-Ohio
+4108	4113	Обама	Обама	PER	PER-Barack-Obama
+4167	4172	Трамп	Трамп	PER	PER-Donald-Trump
+4204	4215	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+4226	4231	Кении	Кения	LOC	GPE-Kenya
+4478	4492	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+4539	4553	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+4580	4587	Байдена	Байден	PER	PER-Joe-Biden
+4632	4646	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
+4704	4710	Трампа	Трамп	PER	PER-Donald-Trump
+4849	4856	русском	русский	LOC	GPE-Russia
+4936	4943	Мюллера	Мюллера	PER	PER-Robert-Mueller
+5171	5183	американские	американские	LOC	GPE-USA
+5184	5195	выборы 2020	выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+5272	5283	выборы 2020	выборы 2020	EVT	EVT-2020-United-States-Presidential-Election
+5682	5693	американцев	американцы	PER	GPE-USA
+5882	5885	NYT	NYT	PRO	PRO-The-New-York-Times
+6188	6195	Америки	Америка	LOC	GPE-USA
+6241	6252	"""Мстителей"""	Мстители	PRO	PRO-The-Avengers
+6340	6354	Лиги чемпионов	Лига чемпионов	ORG	ORG-UEFA-Champions-League

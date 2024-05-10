@@ -1,0 +1,31 @@
+0	7	Ryanair	Ryanair	ORG	ORG-Ryanair
+76	83	Ryanair	Ryanair	ORG	ORG-Ryanair
+109	116	Europie	Europa	LOC	LOC-Europe
+183	211	Centralny Port Komunikacyjny	Centralny Port Komunikacyjny	LOC	LOC-CPK-Central-Communication-Port
+236	252	Europy Środkowej	Europa Środkowa	LOC	LOC-Central-Europe
+269	276	Radomiu	Radom	LOC	GPE-Radom
+288	296	Warszawy	Warszawa	LOC	GPE-Warsaw
+323	329	Modlin	Modlin	LOC	GPE-Modlin
+348	354	Brexit	Brexit	EVT	EVT-Brexit
+393	400	Europie	Europa	LOC	LOC-Europe
+455	474	Jackiem Krawczykiem	Jacek Krawczyk	PER	PER-Jacek-Krawczyk
+492	556	Grupy Pracodawców Europejskiego Komitetu Ekonomiczno-Społecznego	Grupa Pracodawców Europejskiego Komitetu Ekonomiczno-Społecznego	ORG	ORG-EESC-The-European-Economic-and-Social-Committee
+558	562	EESC	EESC	ORG	ORG-EESC-The-European-Economic-and-Social-Committee
+624	631	PLL LOT	PLL LOT	ORG	ORG-PLL-LOT
+801	809	Irlandii	Irlandia	LOC	GPE-Ireland
+824	841	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+861	868	Brexitu	Brexit	EVT	EVT-Brexit
+889	896	Europie	Europa	LOC	LOC-Europe
+916	927	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1005	1022	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1025	1042	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1059	1076	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1209	1218	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1290	1301	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1358	1369	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1395	1404	Hiszpania	Hiszpania	LOC	GPE-Spain
+1465	1469	Wysp	Wyspy	LOC	GPE-Great-Britain
+1482	1492	Amerykanie	Amerykanie	PER	GPE-USA
+1511	1519	Heathrow	Heathrow	LOC	LOC-Heathrow-Airport
+1562	1569	Europie	Europa	LOC	LOC-Europe
+1577	1585	Heathrow	Heathrow	LOC	LOC-Heathrow-Airport

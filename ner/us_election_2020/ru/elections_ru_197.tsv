@@ -1,0 +1,71 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+10	16	Байден	Байден	PER	PER-Joe-Biden
+48	51	США	США	LOC	GPE-USA
+104	109	Трамп	Трамп	PER	PER-Donald-Trump
+114	120	Байден	Байден	PER	PER-Joe-Biden
+152	155	США	США	LOC	GPE-USA
+174	181	Америке	Америка	LOC	GPE-USA
+229	237	демократ	демократ	ORG	ORG-Democratic-Party-USA
+238	248	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+251	264	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+292	305	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+309	321	Американские	американские	LOC	GPE-USA
+343	353	российских	российский	LOC	GPE-Russia
+460	480	коллегией выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+759	763	Мэна	Мэн	LOC	GPE-Maine
+766	774	Небраски	Небраска	LOC	GPE-Nebraska
+868	875	омскому	омский	LOC	GPE-Omsk
+888	894	Трампа	Трамп	PER	PER-Donald-Trump
+924	927	США	США	LOC	GPE-USA
+953	960	Байдена	Байден	PER	PER-Joe-Biden
+982	985	США	США	LOC	GPE-USA
+1021	1030	демократа	демократ	ORG	ORG-Democratic-Party-USA
+1091	1097	Аляски	Аляска	LOC	GPE-Alaska
+1099	1105	Невады	Невада	LOC	GPE-Nevada
+1117	1123	Гаваий	Гавайи	LOC	GPE-Hawaii
+1145	1148	США	США	LOC	GPE-USA
+1151	1156	Трамп	Трамп	PER	PER-Donald-Trump
+1166	1176	Калифорнию	Калифорния	LOC	GPE-California
+1267	1273	Байден	Байден	PER	PER-Joe-Biden
+1314	1319	Трамп	Трамп	PER	PER-Donald-Trump
+1363	1368	Техас	Техас	LOC	GPE-Texas
+1423	1430	Байдена	Байден	PER	PER-Joe-Biden
+1583	1592	Белый Дом	Белый Дом	LOC	LOC-White-House
+1595	1604	Висконсин	Висконсин	LOC	GPE-Wisconsin
+1606	1613	Мичиган	Мичиган	LOC	GPE-Michigan
+1615	1627	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+1629	1636	Аризона	Аризона	LOC	GPE-Arizona
+1638	1645	Флорида	Флорида	LOC	GPE-Florida
+1647	1664	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+1686	1691	Трамп	Трамп	PER	PER-Donald-Trump
+1723	1730	Аризону	Аризона	LOC	GPE-Arizona
+1772	1778	Аляске	Аляска	LOC	GPE-Alaska
+1784	1790	Невада	Невада	LOC	GPE-Nevada
+1826	1832	Трампа	Трамп	PER	PER-Donald-Trump
+1910	1915	Трамп	Трамп	PER	PER-Donald-Trump
+1957	1963	Техаса	Техас	LOC	GPE-Texas
+1990	1998	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2013	2030	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+2037	2049	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+2056	2063	Мичиган	Мичиган	LOC	GPE-Michigan
+2071	2081	Винсконсин	Висконсин	LOC	GPE-Wisconsin
+2123	2129	Трампу	Трамп	PER	PER-Donald-Trump
+2153	2158	Трамп	Трамп	PER	PER-Donald-Trump
+2186	2192	Байден	Байден	PER	PER-Joe-Biden
+2283	2288	Трамп	Трамп	PER	PER-Donald-Trump
+2383	2389	Байден	Байден	PER	PER-Joe-Biden
+2445	2450	Трамп	Трамп	PER	PER-Donald-Trump
+2605	2611	Байден	Байден	PER	PER-Joe-Biden
+2626	2631	Трамп	Трамп	PER	PER-Donald-Trump
+2685	2688	Мэн	Мэн	LOC	GPE-Maine
+2691	2699	Небраска	Небраска	LOC	GPE-Nebraska
+2767	2776	Висконсин	Висконсин	LOC	GPE-Wisconsin
+2818	2825	Байдена	Байден	PER	PER-Joe-Biden
+2827	2834	Мичиган	Мичиган	LOC	GPE-Michigan
+2841	2853	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+2860	2877	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+2885	2893	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2907	2914	Трампом	Трамп	PER	PER-Donald-Trump
+2975	2985	демократов	демократы	ORG	ORG-Democratic-Party-USA
+3036	3046	америкосов	американцы	PER	GPE-USA
+3148	3158	америкосов	американцы	PER	GPE-USA

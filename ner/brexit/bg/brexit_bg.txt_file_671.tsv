@@ -1,0 +1,29 @@
+44	51	Брюксел	Брюксел	LOC	GPE-Brussles
+76	83	Брекзит	Брекзит	EVT	EVT-Brexit
+87	89	ЕС	ЕС	ORG	ORG-European-Union
+90	102	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+172	179	Брюксел	Брюксел	LOC	GPE-Brussles
+204	211	Брекзит	Брекзит	EVT	EVT-Brexit
+225	227	ЕС	ЕС	ORG	ORG-European-Union
+228	240	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+281	288	Брекзит	Брекзит	EVT	EVT-Brexit
+329	343	Великобритания	Великобритания	LOC	GPE-Great-Britain
+413	425	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+539	553	Великобритания	Великобритания	LOC	GPE-Great-Britain
+575	577	ЕС	ЕС	ORG	ORG-European-Union
+625	632	Брекзит	Брекзит	EVT	EVT-Brexit
+649	651	ЕС	ЕС	ORG	ORG-European-Union
+767	781	Великобритания	Великобритания	LOC	GPE-Great-Britain
+884	893	Бирмингам	Бирмингам	LOC	GPE-Birmingham
+895	902	Бристол	Бристол	LOC	GPE-Bristol
+904	910	Кардиф	Кардиф	LOC	GPE-Cardiff
+912	919	Глазгоу	Глазгоу	LOC	GPE-Glasgow
+921	926	Лийдс	Лийдс	LOC	GPE-Leeds
+928	936	Ливърпул	Ливърпул	LOC	GPE-Liverpool
+938	947	Манчестър	Манчестър	LOC	GPE-Manchester
+949	956	Нюкасъл	Нюкасъл	LOC	GPE-Newcastle
+958	966	Нотингам	Нотингам	LOC	GPE-Nottingham
+969	976	Шефийлд	Шефийлд	LOC	GPE-Sheffield
+1209	1216	Брекзит	Брекзит	EVT	EVT-Brexit
+1219	1225	bnr.bg	bnr.bg	PRO	PRO-bnr.bg
+1226	1231	Днес+	Днес+	ORG	ORG-DnesPlus

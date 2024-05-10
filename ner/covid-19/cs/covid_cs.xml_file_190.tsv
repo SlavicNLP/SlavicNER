@@ -1,0 +1,14 @@
+0	8	Američan	Američan	PER	GPE-USA
+20	31	koronavirem	koronavirus	EVT	EVT-Covid-19
+67	77	Washington	Washington	LOC	GPE-WashingtonDC
+83	100	Spojených státech	Spojené státy	LOC	GPE-USA
+123	134	koronavirem	koronavirus	EVT	EVT-Covid-19
+182	190	covid-19	covid-19	EVT	EVT-Covid-19
+326	336	The Lancet	The Lancet	PRO	PRO-The-Lancet
+376	379	BBC	BBC	PRO	PRO-BBC
+402	413	koronavirem	koronavirus	EVT	EVT-Covid-19
+445	455	The Lancet	The Lancet	PRO	PRO-The-Lancet
+501	511	koronaviru	koronavirus	EVT	EVT-Covid-19
+557	563	Nevady	Nevada	LOC	GPE-Nevada
+683	694	koronavirem	koronavirus	EVT	EVT-Covid-19
+833	844	koronavirus	koronavirus	EVT	EVT-Covid-19

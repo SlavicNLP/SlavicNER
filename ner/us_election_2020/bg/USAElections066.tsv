@@ -1,0 +1,40 @@
+0	14	Сенатът на САЩ	Сенат на САЩ	ORG	ORG-United-States-Senate
+44	53	Демократи	демократи	PER	ORG-Democratic-Party-USA
+56	68	републиканци	републиканци	PER	ORG-Republican-Party-USA
+164	186	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+216	222	Сената	Сенат	ORG	ORG-United-States-Senate
+303	315	републиканци	републиканци	PER	ORG-Republican-Party-USA
+324	333	демократи	демократи	PER	ORG-Democratic-Party-USA
+361	384	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+410	424	горната камара	Горна камара	ORG	ORG-United-States-Senate
+439	451	Синята вълна	Синя вълна	EVT	EVT-Blue-Wave-US
+551	559	Колорадо	Колорадо	LOC	GPE-Colorado
+564	575	демократите	демократи	PER	ORG-Democratic-Party-USA
+579	586	Алабама	Алабама	LOC	GPE-USA-Alabama
+591	605	републиканците	републиканци	PER	ORG-Republican-Party-USA
+684	691	Мичиган	Мичиган	LOC	GPE-Michigan
+694	701	Аризона	Аризона	LOC	GPE-Arizona
+720	727	Сенатът	Сенат	ORG	ORG-United-States-Senate
+739	753	републиканците	републиканци	PER	ORG-Republican-Party-USA
+931	939	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1138	1147	демократа	демократ	PER	ORG-Democratic-Party-USA
+1148	1161	Рафаел Уарнок	Рафаел Уарнок	PER	PER-Raphael-Warnock
+1164	1178	републиканката	републиканка	PER	ORG-Republican-Party-USA
+1179	1190	Кели Лофлер	Кели Лофлер	PER	PER-Kelly-Loeffler
+1266	1276	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1299	1308	Белия дом	Бял дом	LOC	LOC-White-House
+1437	1443	Байдън	Байдън	PER	PER-Joe-Biden
+1484	1490	Сената	Сенат	ORG	ORG-United-States-Senate
+1543	1556	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+1686	1698	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1789	1802	Марта МакСали	Марта МакСали	PER	PER-Martha-McSally
+1805	1817	Кори Гарднър	Кори Гарднър	PER	PER-Cory-Gardner
+1836	1843	Аризона	Аризона	LOC	GPE-Arizona
+1846	1854	Колорадо	Колорадо	LOC	GPE-Colorado
+1858	1867	Марк Кели	Марк Кели	PER	PER-Mark-Kelly
+1870	1885	Джон Хикенлопър	Джон Хикенлопър	PER	PER-John-Hickenlooper
+1913	1925	републиканци	републиканци	PER	ORG-Republican-Party-USA
+2073	2085	Мич Макконъл	Мич Макконъл	PER	PER-Mitch-McConnell
+2124	2130	Сената	Сенат	ORG	ORG-United-States-Senate
+2140	2152	Линдзи Греъм	Линдзи Греъм	PER	PER-Lindsey-Graham
+2215	2254	юридическата комисия към горната камара	Юридическа комисия към Горната камара	ORG	ORG-US-Senate-Judiciary-Committee

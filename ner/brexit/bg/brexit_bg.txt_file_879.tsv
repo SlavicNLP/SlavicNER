@@ -1,0 +1,32 @@
+11	17	Макрон	Макрон	PER	PER-Emmanuel-Macron
+40	47	Брекзит	Брекзит	EVT	EVT-Brexit
+65	79	Великобритания	Великобритания	LOC	GPE-Great-Britain
+89	91	ЕС	ЕС	ORG	ORG-European-Union
+128	138	британците	британци	PER	GPE-Great-Britain
+142	149	Брекзит	Брекзит	EVT	EVT-Brexit
+151	165	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+190	210	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+221	237	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+278	281	BBC	BBC	PRO	PRO-BBC
+341	347	Макрон	Макрон	PER	PER-Emmanuel-Macron
+538	540	ЕС	ЕС	ORG	ORG-European-Union
+543	557	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+573	580	Франция	Франция	LOC	GPE-France
+617	624	Брекзит	Брекзит	EVT	EVT-Brexit
+832	846	Великобритания	Великобритания	LOC	GPE-Great-Britain
+916	922	Макрон	Макрон	PER	PER-Emmanuel-Macron
+934	940	Европа	Европа	LOC	LOC-Europe
+1052	1066	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+1082	1089	Франция	Франция	LOC	GPE-France
+1166	1168	ЕС	ЕС	ORG	ORG-European-Union
+1337	1344	Брекзит	Брекзит	EVT	EVT-Brexit
+1478	1484	Лондон	Лондон	LOC	GPE-London
+1541	1547	Ситито	Ситито	LOC	LOC-City-of-London
+1568	1570	ЕС	ЕС	ORG	ORG-European-Union
+1593	1602	Андрю Мар	Андрю Мар	PER	PER-Andrew-Marr
+1663	1675	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1678	1688	Ким Чен-ун	Ким Чен-ун	PER	PER-Kim-Jong-Un
+1723	1729	Макрон	Макрон	PER	PER-Emmanuel-Macron
+1794	1807	Северна Корея	Северна Корея	LOC	GPE-North-Korea
+1861	1864	ООН	ООН	ORG	ORG-United-Nations
+1902	1907	Китай	Китай	LOC	GPE-China

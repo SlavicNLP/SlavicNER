@@ -1,0 +1,58 @@
+2	9	Брекзит	Брекзит	EVT	EVT-Brexit
+37	45	Ирландия	Ирландия	LOC	GPE-Ireland
+110	117	Брекзит	Брекзит	EVT	EVT-Brexit
+185	201	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+204	220	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+313	331	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+382	402	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+405	421	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+438	455	северноирландците	северноирландци	PER	GPE-Northern-Ireland
+527	534	Брекзит	Брекзит	EVT	EVT-Brexit
+624	649	Университета на кралицата	Университет на кралицата	ORG	ORG-Queen's-university
+651	667	Куинс юнивърсити	Куинс юнивърсити	ORG	ORG-Queen's-university
+671	678	Белфаст	Белфаст	LOC	GPE-Belfast
+689	704	северноирландци	северноирландци	PER	GPE-Northern-Ireland
+777	779	ЕС	ЕС	ORG	ORG-European-Union
+818	834	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+868	879	Колин Харви	Колин Харви	PER	PER-Colin-Harvey
+927	933	Лондон	Лондон	LOC	GPE-London
+953	973	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1137	1146	Шотландия	Шотландия	LOC	GPE-Scotland
+1174	1181	Брекзит	Брекзит	EVT	EVT-Brexit
+1183	1199	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1232	1234	ЕС	ЕС	ORG	ORG-European-Union
+1288	1296	Ирландия	Ирландия	LOC	GPE-Ireland
+1377	1408	Споразумението от Разпети петък	Споразумение от Разпети петък	PRO	PRO-GFA-Good-Friday-Agreement
+1595	1601	Лондон	Лондон	LOC	GPE-London
+1783	1790	Брекзит	Брекзит	EVT	EVT-Brexit
+1839	1847	Шин Фейн	Шин Фейн	ORG	ORG-Sinn-Fein
+2065	2072	Брюксел	Брюксел	LOC	GPE-Brussles
+2090	2092	ЕС	ЕС	ORG	ORG-European-Union
+2170	2197	европейския митнически съюз	Европейски митнически съюз	ORG	ORG-European-Union-Customs-Union
+2233	2250	северноирландците	северноирландци	PER	GPE-Northern-Ireland
+2275	2282	Брекзит	Брекзит	EVT	EVT-Brexit
+2443	2457	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+2482	2500	Лейбъристка партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+2589	2596	Белфаст	Белфаст	LOC	GPE-Belfast
+2646	2656	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2697	2702	Таймс	Таймс	PRO	PRO-The-Times
+2769	2785	Джейкъб Рийс-Мог	Джейкъб Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+2796	2816	Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+2843	2859	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2885	2905	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3005	3007	ЕС	ЕС	ORG	ORG-European-Union
+3008	3011	Мей	Мей	PER	PER-Theresa-May
+3060	3068	Ирландии	Ирландии	LOC	LOC-Irlends-countries
+3088	3108	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3112	3114	ЕС	ЕС	ORG	ORG-European-Union
+3288	3298	Британците	британци	PER	GPE-Great-Britain
+3362	3364	ЕС	ЕС	ORG	ORG-European-Union
+3420	3422	ЕС	ЕС	ORG	ORG-European-Union
+3425	3441	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+3650	3657	Брекзит	Брекзит	EVT	EVT-Brexit
+3732	3742	Лондондери	Лондондери	LOC	GPE-Londonderry
+3821	3829	Шин Фейн	Шин Фейн	ORG	ORG-Sinn-Fein
+3831	3845	Елиша Макалиън	Елиша Макалиън	PER	PER-Colin-Harvey
+3856	3859	АФП	АФП	ORG	ORG-France-Presse
+4145	4152	Брекзит	Брекзит	EVT	EVT-Brexit
+4236	4239	БТА	БТА	ORG	ORG-Bulgarian-News-Agency

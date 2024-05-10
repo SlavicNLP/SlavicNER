@@ -1,0 +1,23 @@
+12	19	Дростен	Дростен	PER	PER-Christian-Drosten
+98	114	Кристиан Дростен	Кристиан Дростен	PER	PER-Christian-Drosten
+286	294	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+446	462	Кристиян Дростен	Кристиян Дростен	PER	PER-Christian-Drosten
+568	579	коронавирус	коронавирус	EVT	EVT-Covid-19
+811	818	Дростен	Дростен	PER	PER-Christian-Drosten
+926	948	института „Роберт Кох“	институт „Роберт Кох“	ORG	ORG-Robert-Koch-Institut
+1012	1017	Ковид	КОВИД-19	EVT	EVT-Covid-19
+1271	1293	института „Роберт Кох“	институт „Роберт Кох“	ORG	ORG-Robert-Koch-Institut
+1310	1326	Кристиан Дростен	Кристиан Дростен	PER	PER-Christian-Drosten
+1626	1633	Дростен	Дростен	PER	PER-Christian-Drosten
+1991	2003	коронавируса	коронавирус	EVT	EVT-Covid-19
+2140	2146	Шарите	Шарите	LOC	LOC-Charite-University-Hospital-Berlin
+2438	2450	коронавируса	коронавирус	EVT	EVT-Covid-19
+2677	2696	Арабския полуостров	Арабски полуостров	LOC	LOC-Arab-Peninsula
+2765	2781	Саудитска Арабия	Саудитска Арабия	LOC	GPE-Saudi-Arabia
+2877	2887	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+3018	3040	института „Роберт Кох“	институт „Роберт Кох“	ORG	ORG-Robert-Koch-Institut
+3051	3059	Германия	Германия	LOC	GPE-Germany
+3171	3176	Катар	Катар	LOC	GPE-Qatar
+3182	3210	Обединените арабски емирства	Обединени арабски емирства	LOC	GPE-United-Arab-Emirates
+3258	3277	Арабския полуостров	Арабски полуостров	LOC	LOC-Arab-Peninsula
+3364	3423	Европейският център за превенция и контрол на заболяванията	Европейски център за превенция и контрол на заболяванията	ORG	ORG-European-Centre-for-Disease-Prevention-and-Control

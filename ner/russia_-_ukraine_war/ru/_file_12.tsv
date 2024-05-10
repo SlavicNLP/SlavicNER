@@ -1,0 +1,27 @@
+23	39	Марку Цукербергу	Марк Цукерберг	PER	PER-Mark-Zuckerberg
+41	54	Камале Харрис	Камала Харрис	PER	PER-Kamala-Harris
+122	140	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+166	179	Камалу Харрис	Камала Харрис	PER	PER-Kamala-Harris
+208	210	РФ	РФ	LOC	GPE-Russia
+237	241	Meta	Meta	ORG	ORG-Meta
+242	258	Марка Цукерберга	Марк Цукерберг	PER	PER-Mark-Zuckerberg
+288	316	Министерство иностранных дел	Министерство иностранных дел	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+596	602	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+735	741	Харрис	Харрис	PER	PER-Kamala-Harris
+744	754	Цукерберга	Марк Цукенберг	PER	PER-Mark-Zuckerberg
+791	820	Государственного департамента	Государственный департамент	ORG	ORG-Department-of-State-USA
+821	833	Эдвард Прайс	Эдвард Прайс	PER	PER-Edward-Price
+864	875	Кэтлин Хикс	Кэтлин Хикс	PER	PER-Kathleen-Hicks
+891	900	Пентагона	Пентагон	ORG	ORG-The-Pentagon
+901	911	Джон Кирби	Джон Кирби	PER	PER-John-Kirby
+937	945	LinkedIn	LinkedIn	ORG	ORG-Linkedin
+946	961	Райан Рослански	Райан Рослански	PER	PER-Ryan-Roslansky
+1000	1006	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+1055	1061	Канады	Канада	LOC	GPE-Canada
+1248	1250	РФ	РФ	LOC	GPE-Russia
+1251	1265	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1294	1322	специальной военной операции	специальная военная операция	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1326	1333	Украине	Украина	LOC	GPE-Ukraine
+1342	1348	Запада	Запад	LOC	LOC-West
+1401	1407	России	Россия	LOC	GPE-Russia
+1418	1421	США	США	LOC	GPE-USA

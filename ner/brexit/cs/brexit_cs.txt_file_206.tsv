@@ -1,0 +1,33 @@
+21	28	Britové	Britové	PER	GPE-Great-Britain
+45	52	brexitu	brexit	EVT	EVT-Brexit
+96	101	Britů	Britové	PER	GPE-Great-Britain
+150	158	Británie	Británie	LOC	GPE-Great-Britain
+161	174	Evropské unii	Evropská unie	ORG	ORG-European-Union
+210	216	ComRes	ComRes	ORG	ORG-ComRes-Ltd
+242	254	Daily Mirror	Daily Mirror	PRO	PRO-Daily-Mirror
+325	365	Strany nezávislosti Spojeného království	Strana nezávislosti Spojeného království	ORG	ORG-UK-Independence-Party
+367	371	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+373	385	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+561	569	Británie	Británie	LOC	GPE-Great-Britain
+572	574	EU	EU	ORG	ORG-European-Union
+576	584	Británii	Británie	LOC	GPE-Great-Britain
+587	593	Evropu	Evropa	LOC	LOC-Europe
+697	699	EU	EU	ORG	ORG-European-Union
+707	712	Britů	Britové	PER	GPE-Great-Britain
+791	798	brexitu	brexit	EVT	EVT-Brexit
+849	856	brexitu	brexit	EVT	EVT-Brexit
+900	902	EU	EU	ORG	ORG-European-Union
+904	910	Farage	Farage	PER	PER-Nigel-Farage
+970	972	EU	EU	ORG	ORG-European-Union
+1018	1030	Channel Five	Channel Five	PRO	PRO-Channel-5
+1136	1142	brexit	brexit	EVT	EVT-Brexit
+1269	1271	EU	EU	ORG	ORG-European-Union
+1328	1334	Farage	Farage	PER	PER-Nigel-Farage
+1389	1394	Britů	Britové	PER	GPE-Great-Britain
+1406	1418	Daily Mirror	Daily Mirror	PRO	PRO-Daily-Mirror
+1438	1445	Britové	Britové	PER	GPE-Great-Britain
+1508	1519	Farageovými	Farage	PER	PER-Nigel-Farage
+1614	1616	EU	EU	ORG	ORG-European-Union
+1630	1636	brexit	brexit	EVT	EVT-Brexit
+1818	1825	Britové	Britové	PER	GPE-Great-Britain
+1945	1947	EU	EU	ORG	ORG-European-Union

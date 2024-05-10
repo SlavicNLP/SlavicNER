@@ -1,0 +1,17 @@
+0	6	Кремъл	Кремъл	LOC	LOC-Kremlin
+8	13	Путин	Путин	PER	PER-Vladimir-Putin
+16	22	Меркел	Меркел	PER	PER-Angela-Merkel
+59	74	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+99	114	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
+240	245	Русия	Русия	LOC	GPE-Russia
+246	260	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+276	284	Германия	Германия	LOC	GPE-Germany
+285	298	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+371	386	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+397	401	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+429	434	Русия	Русия	LOC	GPE-Russia
+437	445	Германия	Германия	LOC	GPE-Germany
+507	522	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+548	554	Кремъл	Кремъл	LOC	LOC-Kremlin
+573	581	Германия	Германия	LOC	GPE-Germany
+672	675	БТА	БТА	ORG	ORG-Bulgarian-News-Agency

@@ -1,0 +1,46 @@
+56	63	Moderna	Moderna	ORG	ORG-Moderna
+68	76	СOVID-19	СOVID-19	EVT	EVT-Covid-19
+79	92	Тетяна Войтюк	Тетяна Войтюк	PER	PER-Tatiana-Voytiuk
+115	131	Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+177	217	Всесвітньої організації охорони здоров’я	Всесвітня організація охорони здоров’я	ORG	ORG-World-Health-Organization
+307	314	Moderna	Moderna	ORG	ORG-Moderna
+315	324	mRNA-1273	mRNA-1273	PRO	PRO-mRNA-Vaccine
+331	339	COVID-19	COVID-19	EVT	EVT-Covid-19
+385	389	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+478	486	СOVID-19	СOVID-19	EVT	EVT-Covid-19
+506	513	Moderna	Moderna	ORG	ORG-Moderna
+591	599	COVID-19	COVID-19	EVT	EVT-Covid-19
+687	691	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+1387	1395	COVID-19	COVID-19	EVT	EVT-Covid-19
+1444	1448	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+1493	1501	COVID-19	COVID-19	EVT	EVT-Covid-19
+1577	1587	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1860	1867	Moderna	Moderna	ORG	ORG-Moderna
+2068	2072	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+2388	2397	мРНК-1273	мРНК-1273	PRO	PRO-mRNA-Vaccine
+2398	2405	Moderna	Moderna	ORG	ORG-Moderna
+2675	2682	Moderna	Moderna	ORG	ORG-Moderna
+2732	2736	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+2761	2793	Європейським медичним агентством	Європейський медичне агентство	ORG	ORG-EMA-European-Medicines-Agency
+2795	2798	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+2830	2834	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+2855	2858	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+2925	2932	Moderna	Moderna	ORG	ORG-Moderna
+2933	2941	COVID-19	COVID-19	EVT	EVT-Covid-19
+2973	2992	Європейському Союзі	Європейський Союз	ORG	ORG-European-Union
+3295	3299	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+3479	3486	Moderna	Moderna	ORG	ORG-Moderna
+3532	3540	COVID-19	COVID-19	EVT	EVT-Covid-19
+3713	3725	коронавірусу	коронавірус	EVT	EVT-Covid-19
+3781	3785	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+4046	4053	Moderna	Moderna	ORG	ORG-Moderna
+4081	4089	COVID-19	COVID-19	EVT	EVT-Covid-19
+4132	4144	коронавірусу	коронавірус	EVT	EVT-Covid-19
+4158	4166	Британії	Британія	LOC	GPE-Great-Britain
+4170	4186	Південній Африці	Південна Африка	LOC	GPE-Republic-of-South-Africa
+4198	4217	Європейська комісія	Європейська комісія	ORG	ORG-European-Commission
+4241	4249	COVID-19	COVID-19	EVT	EVT-Covid-19
+4263	4270	Moderna	Moderna	ORG	ORG-Moderna
+4284	4291	Moderna	Moderna	ORG	ORG-Moderna
+4322	4324	ЄС	ЄС	LOC	ORG-European-Union
+4340	4348	COVID-19	COVID-19	EVT	EVT-Covid-19

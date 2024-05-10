@@ -1,0 +1,35 @@
+0	2	PE	PE	ORG	ORG-European-Parliament
+21	23	PE	PE	ORG	ORG-European-Parliament
+124	126	UE	UE	ORG	ORG-European-Union
+151	153	PE	PE	ORG	ORG-European-Parliament
+190	196	Polska	Polska	LOC	GPE-Poland
+213	215	PE	PE	ORG	ORG-European-Parliament
+261	263	PE	PE	ORG	ORG-European-Parliament
+280	287	Polaków	Polacy	PER	GPE-Poland
+338	340	PE	PE	ORG	ORG-European-Parliament
+420	435	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+454	456	UE	UE	ORG	ORG-European-Union
+546	553	Brexitu	Brexit	EVT	EVT-Brexit
+690	698	Francuzi	Francuzi	PER	GPE-France
+701	710	Hiszpanie	Hiszpanie	PER	GPE-Spain
+773	797	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+948	950	UE	UE	ORG	ORG-European-Union
+1002	1022	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+1324	1337	Danuta Hübner	Danuta Hübner	PER	PER-Danuta-Hübner
+1339	1341	PO	PO	ORG	ORG-PO-Civic-Platform
+1343	1346	EPL	EPL	ORG	ORG-EPP-European-Peoples-Party
+1366	1385	Pedro Silva Pereira	Pedro Silva Pereira	PER	PER-Pedro-Silva-Pereira
+1387	1409	Socjaliści i Demokraci	Socjaliści i Demokraci	ORG	ORG-SD-Progressive-Alliance-of-Socialists-and-Democrats
+1477	1497	traktatem lizbońskim	Traktat lizboński	PRO	PRO-Treaty-of-Lisbon
+1598	1608	Parlamentu	Parlament	ORG	ORG-European-Parliament
+1755	1778	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+1846	1848	UE	UE	ORG	ORG-European-Union
+1885	1893	Brukseli	Bruksela	LOC	GPE-Brussles
+1968	1990	Dzienniku Urzędowym UE	Dziennik Urzędowy UE	PRO	PRO-Official-Journal-of-the-European-Union
+2015	2043	Traktatu o funkcjonowaniu UE	Traktat o funkcjonowaniu UE	PRO	PRO-TFUE-Treaty-on-the-Functioning-of-the-European-Union
+2062	2064	PE	PE	ORG	ORG-European-Parliament
+2607	2630	Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+2698	2700	UE	UE	ORG	ORG-European-Union
+2705	2715	Strasburga	Strasburg	LOC	GPE-Strasbourg
+2716	2730	Łukasz Osiński	Łukasz Osiński	PER	PER-Łukasz-Osiński
+2732	2735	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

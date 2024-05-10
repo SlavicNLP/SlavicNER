@@ -1,0 +1,16 @@
+48	51	CIA	CIA	ORG	ORG-CIA-Central-Intelligence-Agency
+105	108	CIA	CIA	ORG	ORG-CIA-Central-Intelligence-Agency
+120	128	Infowars	Infowars	PRO	PRO-Infowars
+139	148	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+151	170	Demokratická strana	Demokratická strana	ORG	ORG-Democratic-Party-USA
+191	198	Trumpem	Trump	PER	PER-Donald-Trump
+210	223	Sting operace	Sting operace	EVT	EVT-Sting-Operation
+242	251	demokratů	demokraté	PER	ORG-Democratic-Party-USA
+279	295	amerických voleb	americké volby	EVT	EVT-2020-United-States-Presidential-Election
+297	302	Trump	Trump	PER	PER-Donald-Trump
+406	416	Blockchain	Blockchain	PRO	PRO-Blockchain
+496	501	Trump	Trump	PER	PER-Donald-Trump
+510	518	Twitteru	Twitter	PRO	PRO-Twitter
+553	562	demokratů	demokraté	PER	ORG-Democratic-Party-USA
+599	604	QAnon	QAnon	ORG	ORG-QAnon
+646	654	Bidenovi	Biden	PER	PER-Joe-Biden

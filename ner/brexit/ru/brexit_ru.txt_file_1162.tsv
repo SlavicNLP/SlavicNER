@@ -1,0 +1,45 @@
+12	30	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+48	62	дело Скрипалей	дело Скрипалей	EVT	EVT-Scripals'-poisoning
+86	94	Sky News	Sky News	PRO	PRO-Sky-News-TV
+95	107	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+174	189	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+227	238	британского	британский	LOC	GPE-Great-Britain
+263	266	ГРУ	ГРУ	ORG	ORG-GRU-(Russian-GU)
+267	282	Сергея Скрипаля	Сергей Скрипаль	PER	PER-Siergiej-Skripal
+296	300	Юлии	Юлия	PER	PER-Yulia-Skripal
+303	311	Солсбери	Солсбери	LOC	GPE-Salisbury
+335	343	Джонсона	Джонсон	PER	PER-Boris-Johnson
+390	400	британской	британский	LOC	GPE-Great-Britain
+411	415	Хант	Хант	PER	PER-Jeremy-Hunt
+495	505	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+549	551	ЕС	ЕС	ORG	ORG-European-Union
+640	646	Brexit	Brexit	EVT	EVT-Brexit
+694	712	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+713	726	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+775	781	Brexit	Brexit	EVT	EVT-Brexit
+796	807	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+839	847	Джонсона	Джонсон	PER	PER-Boris-Johnson
+917	919	ЕС	ЕС	ORG	ORG-European-Union
+925	931	Brexit	Brexit	EVT	EVT-Brexit
+972	987	Cергей Скрипаль	Cергей Скрипаль	PER	PER-Siergiej-Skripal
+999	1003	Юлия	Юлия	PER	PER-Yulia-Skripal
+1038	1046	Солсбери	Солсбери	LOC	GPE-Salisbury
+1088	1102	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1103	1113	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1191	1206	Новичок (А-234)	Новичок (А-234)	PRO	PRO-Novichok
+1225	1231	России	Россия	LOC	GPE-Russia
+1242	1249	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1308	1314	Москве	Москва	LOC	GPE-Moscow
+1366	1368	РФ	РФ	LOC	GPE-Russia
+1406	1441	Организации по запрещению химоружия	Организация по запрещению химоружия	ORG	ORG-Organisation-for-the-Prohibition-of-Chemical-Weapons
+1446	1465	AO Телекомпания НТВ	AO Телекомпания НТВ	ORG	ORG-NTV-TV-Company
+1533	1536	НТВ	НТВ	PRO	PRO-NTV
+1701	1709	«NTV.RU»	«NTV.RU»	PRO	PRO-NTV
+1729	1823	Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаций	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+1825	1837	Роскомнадзор	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+1996	2004	«NTV.RU»	«NTV.RU»	PRO	PRO-NTV
+2006	2045	Акционерное общество «Телекомпания НТВ»	Акционерное общество «Телекомпания НТВ»	ORG	ORG-NTV-TV-Company
+2085	2093	«NTV.RU»	«NTV.RU»	PRO	PRO-NTV
+2095	2107	Демков К. С.	Демков К. С.	PER	PER-Demkov-K-S-NTV
+2153	2161	«NTV.RU»	«NTV.RU»	PRO	PRO-NTV
+2236	2244	«NTV.RU»	«NTV.RU»	PRO	PRO-NTV

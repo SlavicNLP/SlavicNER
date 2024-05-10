@@ -1,0 +1,15 @@
+0	7	Skotové	Skotové	PER	GPE-Scotland
+19	26	brexitu	brexit	EVT	EVT-Brexit
+49	55	Mayové	Mayová	PER	PER-Theresa-May
+109	116	brexitu	brexit	EVT	EVT-Brexit
+143	163	Spojeným královstvím	Spojené království	LOC	GPE-Great-Britain
+166	168	EU	EU	ORG	ORG-European-Union
+234	245	Sturgeonová	Sturgeonová	PER	PER-Nicola-Sturgeon
+263	285	Skotská národní strana	Skotská národní strana	ORG	ORG-Scottish-National-Party
+336	343	brexitu	brexit	EVT	EVT-Brexit
+401	421	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+473	489	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+529	549	britského parlamentu	britský parlament	ORG	ORG-British-Parlament
+660	666	brexit	brexit	EVT	EVT-Brexit
+704	706	EU	EU	ORG	ORG-European-Union
+808	822	Therese Mayové	Theresa Mayová	PER	PER-Theresa-May

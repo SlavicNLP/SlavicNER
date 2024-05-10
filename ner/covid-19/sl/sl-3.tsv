@@ -1,0 +1,79 @@
+9	22	koronavirusom	koronavirus	EVT	EVT-Covid-19
+239	245	Evropo	Evropa	LOC	LOC-Europe
+294	313	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+375	383	covid-19	covid-19	EVT	EVT-Covid-19
+456	471	slovenska vlada	slovenska vlada	ORG	ORG-Government-of-Slovenia
+548	557	covida-19	covid-19	EVT	EVT-Covid-19
+645	657	koronavirusu	koronavirus	EVT	EVT-Covid-19
+704	713	covida-19	covid-19	EVT	EVT-Covid-19
+746	761	Radio Slovenija	Radio Slovenija	ORG	ORG-Radio-Slovenia
+967	1006	Nacionalnega inštituta za javno zdravje	Nacionalni inštitut za javno zdravje	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1008	1012	NIJZ	NIJZ	ORG	ORG-Slovenian-National-Insitute-of-Public-Health
+1014	1024	Milan Krek	Milan Krek	PER	PER-Milan-Krek
+1031	1046	Radio Slovenija	Radio Slovenija	ORG	ORG-Radio-Slovenia
+1281	1290	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1331	1347	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+1394	1408	koprski občini	koprska občina	LOC	GPE-Koper
+1434	1443	Sloveniji	Slovenija	LOC	GPE-Slovenia
+1480	1488	covid-19	covid-19	EVT	EVT-Covid-19
+1643	1651	Hrvaškem	Hrvaška	LOC	GPE-Croatia
+1662	1671	Slovenijo	Slovenija	LOC	GPE-Slovenia
+1854	1873	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+1934	1942	Hrvaškem	Hrvaška	LOC	GPE-Croatia
+1989	2020	nacionalni štab civilne zaščite	nacionalni štab civilne zaščite	ORG	ORG-National-Civil-Protection-Headquarters-of-the-Republic-of-Croatia
+2029	2038	covida-19	covid-19	EVT	EVT-Covid-19
+2197	2204	Balkanu	Balkan	LOC	LOC-Balkans
+2209	2229	Bosne in Hercegovine	Bosna in Hercegovina	LOC	GPE-Bosnia-and-Herzegovina
+2286	2292	Srbije	Srbija	LOC	GPE-Serbia
+2303	2321	Severne Makedonije	Severna Makedonija	LOC	GPE-North-Macedonia
+2339	2345	Srbiji	Srbija	LOC	GPE-Serbia
+2358	2377	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+2415	2432	Aleksandru Vulinu	Aleksander Vulin	PER	PER-Aleksander-Vulin
+2459	2472	Maji Gojković	Maja Gojković	PER	PER-Maja-Gojković
+2499	2518	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+2561	2569	covid-19	covid-19	EVT	EVT-Covid-19
+2620	2623	ZDA	ZDA	LOC	GPE-USA
+2699	2723	univerze Johnsa Hopkinsa	Univerza John Hopkins	ORG	ORG-John-Hopkins-University
+2733	2741	covid-19	covid-19	EVT	EVT-Covid-19
+2952	2955	ZDA	ZDA	LOC	GPE-USA
+3088	3095	Floridi	Florida	LOC	GPE-Florida
+3101	3108	Teksasu	Teksas	LOC	GPE-Texas
+3166	3172	Indiji	Indija	LOC	GPE-India
+3376	3382	Mumbai	Mumbai	LOC	GPE-Mumbai
+3384	3393	New Delhi	New Delhi	LOC	GPE-New-Delhi
+3397	3404	Chennai	Chennai	LOC	GPE-Chennai
+3406	3412	Indija	Indija	LOC	GPE-India
+3419	3422	ZDA	ZDA	LOC	GPE-USA
+3424	3433	Brazilijo	Brazilija	LOC	GPE-Brazil
+3437	3443	Rusijo	Rusija	LOC	GPE-Russia
+3498	3515	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+3519	3557	mednarodne organizacije Global Citizen	mednarodna organizacija Global Citizen	ORG	ORG-Global-Citizen
+3745	3764	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+3826	3854	Evropska investicijska banka	Evropska investicijska banka	ORG	ORG-European-Investment-Bank
+3856	3859	EIB	EIB	ORG	ORG-European-Investment-Bank
+3864	3881	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+3921	3923	EU	EU	ORG	ORG-European-Union
+3950	3984	mednarodnega donatorskega maratona	mednarodni donatorski maraton	EVT	EVT-Coronavirus-Global-Response-pledging-marathon-2020
+4107	4119	koronavirusu	koronavirus	EVT	EVT-Covid-19
+4326	4344	Donatorski maraton	Donatorski maraton	EVT	EVT-Coronavirus-Global-Response-pledging-marathon-2020
+4507	4524	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+4525	4545	Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+4672	4679	Shakira	Shakira	PER	PER-Shakira
+4681	4689	Coldplay	Coldplay	ORG	ORG-Coldplay
+4691	4704	Justin Bieber	Justin Bieber	PER	PER-Justin-Bieber
+4708	4719	Miley Cyrus	Miley Cyrus	PER	PER-Miley-Cyrus
+4749	4763	Dwayne Johnson	Dwayne Johnson	PER	PER-Dwayne-Johnson
+4777	4794	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+4858	4868	Chris Rock	Chris Rock	PER	PER-Chris-Rock
+4870	4885	Charlize Theron	Charlize Theron	PER	PER-Charlize-Theron
+4887	4902	Forest Whitaker	Forest Whitaker	PER	PER-Forest-Whitaker
+4906	4917	Salma Hayek	Salma Hayek	PER	PER-Salma-Hayek
+4991	4993	ZN	ZN	ORG	ORG-United-Nations
+4994	5011	Antonia Guterresa	Antonio Guterres	PER	PER-Antonio-Guterres
+5030	5043	Angele Merkel	Angele Merkel	PER	PER-Angela-Merkel
+5069	5086	Emmanuela Macrona	Emmanuel Macron	PER	PER-Emmanuel-Macron
+5099	5107	Merklova	Merkel	PER	PER-Angela-Merkel
+5246	5262	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+5323	5330	Nemčija	Nemčija	LOC	GPE-Germany
+5494	5501	Nemčiji	Nemčija	LOC	GPE-Germany
+5591	5601	covidom-19	covid-19	EVT	EVT-Covid-19

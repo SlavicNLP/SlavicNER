@@ -1,0 +1,9 @@
+26	29	PRL	PRL	LOC	GPE-Poland
+74	96	Szpitala Grochowskiego	Szpital Grochowski	LOC	LOC-Szpital-Grochowski-hospital
+114	126	koronawirusa	koronawirus	EVT	EVT-Covid-19
+597	632	Warszawskim Uniwersytecie Medycznym	Warszawski Uniwersytet Medyczny	ORG	ORG-Warsaw-Medical-University
+853	864	Koronawirus	koronawirus	EVT	EVT-Covid-19
+945	959	Krystyna Janda	Krystyna Janda	PER	PER-Krystyna-Janda
+1070	1073	PRL	PRL	LOC	GPE-Poland
+1209	1214	Henię	Henia	PER	PER-Henia
+1228	1234	Społem	Społem	LOC	LOC-Społem-sklep

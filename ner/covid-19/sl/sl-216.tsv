@@ -1,0 +1,22 @@
+43	51	covid-19	covid-19	EVT	EVT-Covid-19
+56	67	Nizozemskem	Nizozemska	LOC	GPE-Holland
+117	128	Nizozemskem	Nizozemska	LOC	GPE-Holland
+236	255	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+337	345	covid-19	covid-19	EVT	EVT-Covid-19
+362	372	sars-cov-2	sars-cov-2	EVT	EVT-Covid-19
+575	594	utrechtske univerze	utrechtska univerza	ORG	ORG-Utrecht-University
+595	611	Berend-Jan Bosch	Berend-Jan Bosch	PER	PER-Jan-Bosch
+648	656	sars-cov	sars-cov	EVT	EVT-SARS
+758	768	sars-cov-2	sars-cov-2	EVT	EVT-Covid-19
+1011	1016	Bosch	Bosch	PER	PER-Jan-Bosch
+1094	1106	koronavirusa	koronavirus	EVT	EVT-Covid-19
+1276	1288	koronavirusi	koronavirus	EVT	EVT-Covid-19
+1423	1431	covid-19	covid-19	EVT	EVT-Covid-19
+1474	1488	Frank Grosveld	Frank Grosveld	PER	PER-Frank-Grosveld
+1565	1586	Nature Communications	Nature Communications	PRO	PRO-Nature-Communications
+1738	1746	Grosveld	Grosveld	PER	PER-Frank-Grosveld
+1749	1762	Jingsong Wang	Jingsong Wang	PER	PER-Jingsong-Wang
+1790	1804	Harbour BioMed	Harbour BioMed	ORG	ORG-Harbour-BioMed
+2053	2062	Tony Carr	Tony Carr	PER	PER-Tony-Carr
+2086	2093	Sussexu	Sussex	LOC	GPE-Sussex
+2314	2317	AFP	AFP	ORG	ORG-AFP-Agence-France-Press

@@ -1,0 +1,49 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+17	24	Polaków	Polacy	PER	GPE-Poland
+27	44	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+46	54	Bruksela	Bruksela	LOC	GPE-Brussles
+57	63	Londyn	Londyn	LOC	GPE-London
+88	94	Polacy	Polacy	PER	GPE-Poland
+97	110	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+124	132	brexicie	Brexit	EVT	EVT-Brexit
+167	171	Unia	Unia	ORG	ORG-European-Union
+226	228	UE	UE	ORG	ORG-European-Union
+359	367	brexicie	Brexit	EVT	EVT-Brexit
+385	387	UE	UE	ORG	ORG-European-Union
+412	414	UE	UE	ORG	ORG-European-Union
+415	421	Londyn	Londyn	LOC	GPE-London
+569	571	UE	UE	ORG	ORG-European-Union
+606	619	Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+722	728	Polsce	Polska	LOC	GPE-Poland
+773	781	brexicie	Brexit	EVT	EVT-Brexit
+824	852	Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+855	866	Luksemburgu	Luksemburg	LOC	GPE-Luxembourg
+893	897	Unii	Unia	ORG	ORG-European-Union
+919	921	UE	UE	ORG	ORG-European-Union
+947	960	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+1066	1068	UE	UE	ORG	ORG-European-Union
+1096	1100	Unii	Unia	ORG	ORG-European-Union
+1110	1115	Polak	Polak	PER	GPE-Poland
+1118	1131	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+1167	1174	Londynu	Londyn	LOC	GPE-London
+1219	1227	brexicie	Brexit	EVT	EVT-Brexit
+1265	1278	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+1281	1285	Unii	Unia	ORG	ORG-European-Union
+1390	1392	UE	UE	ORG	ORG-European-Union
+1510	1522	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1640	1644	Unią	Unia	ORG	ORG-European-Union
+1682	1693	Theresy May	Theresa May	PER	PER-Theresa-May
+1763	1771	brexitem	Brexit	EVT	EVT-Brexit
+1822	1824	UE	UE	ORG	ORG-European-Union
+1825	1838	Wlk. Brytania	Wlk. Brytania	LOC	GPE-Great-Britain
+1872	1883	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1954	1956	UE	UE	ORG	ORG-European-Union
+1958	1966	Bruksela	Bruksela	LOC	GPE-Brussles
+2078	2082	Unii	Unia	ORG	ORG-European-Union
+2156	2176	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+2192	2198	Polski	Polska	LOC	GPE-Poland
+2232	2236	Unii	Unia	ORG	ORG-European-Union
+2383	2389	Polacy	Polacy	PER	GPE-Poland
+2404	2411	Londynu	Londyn	LOC	GPE-London
+2564	2579	Tomasz Bielecki	Tomasz Bielecki	PER	PER-Tomasz-Bielecki
+2581	2589	Bruksela	Bruksela	LOC	GPE-Brussles

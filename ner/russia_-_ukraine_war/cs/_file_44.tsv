@@ -1,0 +1,31 @@
+26	31	Praze	Praha	LOC	GPE-Prague
+40	49	Ukrajince	Ukrajinci	PER	GPE-Ukraine
+58	64	Evropu	Evropa	LOC	LOC-Europe
+74	79	Kyjev	Kyjev	LOC	GPE-Kiev
+81	114	Ukrajinské ministerstvo zahraničí	Ukrajinské ministerstvo zahraničí	ORG	ORG-Ministry-of-Foreign-Affairs-Ukraine
+160	186	Václavském náměstí v Praze	Václavské náměstí v Praze	LOC	LOC-Wenceslas-Square
+222	227	vlády	vláda	ORG	ORG-Government-of-the-Czech-Republic
+281	286	Rusko	Rusko	LOC	GPE-Russia
+301	318	války na Ukrajině	válka na Ukrajině	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+353	367	Oleh Nikolenko	Oleh Nikolenko	PER	PER-Oleg-Nikolenko
+371	380	facebooku	facebook	PRO	PRO-Facebook
+430	439	Ukrajinců	Ukrajinci	PER	GPE-Ukraine
+463	469	Evropě	Evropa	LOC	LOC-Europe
+478	486	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+514	523	Ukrajinců	Ukrajinci	PER	GPE-Ukraine
+568	574	Evropě	Evropa	LOC	LOC-Europe
+583	592	Nikolenko	Nikolenko	PER	PER-Oleg-Nikolenko
+698	703	Česku	Česko	LOC	GPE-Czech-Republic
+751	756	Čechů	Češi	PER	GPE-Czech-Republic
+778	787	Ukrajinců	Ukrajinci	PER	GPE-Ukraine
+854	859	Praze	Praha	LOC	GPE-Prague
+860	869	Nikolenko	Nikolenko	PER	PER-Oleg-Nikolenko
+908	924	Kolíně nad Rýnem	Kolín nad Rýnem	LOC	GPE-Koln-German-City
+1009	1014	Rusko	Rusko	LOC	GPE-Russia
+1030	1038	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+1223	1232	Ukrajinou	Ukrajina	LOC	GPE-Ukraine
+1269	1274	Prahy	Praha	LOC	GPE-Prague
+1375	1402	Česká republika na 1. místě	Česká republika na 1. místě	EVT	EVT-Ceska-Republika-na-1-miste-protest
+1461	1471	Petr Fiala	Petr Fiala	PER	PER-Petr-Fiala
+1631	1643	Pavel Blažek	Pavel Blažek	PER	PER-Pavel-Blazek
+1647	1654	Fialova	Fiala	PER	PER-Petr-Fiala

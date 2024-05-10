@@ -1,0 +1,32 @@
+27	30	САЩ	САЩ	LOC	GPE-USA
+152	157	Тръмп	Тръмп	PER	PER-Donald-Trump
+287	298	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+300	307	Мичиган	Мичиган	LOC	GPE-Michigan
+309	317	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+319	326	Аризона	Аризона	LOC	GPE-Arizona
+328	334	Невада	Невада	LOC	GPE-Nevada
+337	346	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+361	375	Борислав Цеков	Борислав Цеков	PER	PER-Borislav-Tsekov
+380	387	Фейсбук	Фейсбук	PRO	PRO-Facebook
+402	407	Тръмп	Тръмп	PER	PER-Donald-Trump
+546	550	Zoom	Zoom	PRO	PRO-Zoom
+701	706	Тръмп	Тръмп	PER	PER-Donald-Trump
+806	817	демократите	демократи	PER	ORG-Democratic-Party-USA
+855	868	Сената на САЩ	Сенат на САЩ	ORG	ORG-United-States-Senate
+887	896	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+938	946	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1566	1578	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1761	1783	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+1800	1808	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1854	1862	Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+1865	1875	Джош Хоули	Джош Хоули	PER	PER-Josh-Hawley
+2075	2096	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+2254	2271	щатския парламент	Щатски парламент	ORG	ORG-Parliament-of-USA
+2469	2477	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+2888	2894	Байдън	Байдън	PER	PER-Joe-Biden
+2971	2978	Америка	Америка	LOC	GPE-USA
+3071	3082	демократите	демократи	PER	ORG-Democratic-Party-USA
+3153	3158	Тръмп	Тръмп	PER	PER-Donald-Trump
+3316	3324	Вашинтон	Вашинтон	LOC	GPE-WashingtonDC
+3368	3377	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+3393	3398	Тръмп	Тръмп	PER	PER-Donald-Trump

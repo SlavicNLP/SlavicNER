@@ -1,0 +1,19 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+105	116	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+126	133	Brexitu	Brexit	EVT	EVT-Brexit
+200	203	UBS	UBS	ORG	ORG-UBS
+304	311	Brexitu	Brexit	EVT	EVT-Brexit
+630	634	Unią	Unia	ORG	ORG-European-Union
+714	721	Siemens	Siemens	ORG	ORG-Siemens-AG
+724	730	Airbus	Airbus	ORG	ORG-Airbus-SE
+754	760	Brexit	Brexit	EVT	EVT-Brexit
+792	799	Wyspach	Wyspy	LOC	GPE-Great-Britain
+870	874	SMMT	SMMT	ORG	ORG-SMMT-Society-of-Motor-Manufacturers-and-Traders
+1329	1341	Euler Hermes	Euler Hermes	ORG	ORG-Euler-Hermes
+1366	1374	Brexicie	Brexit	EVT	EVT-Brexit
+1375	1386	W. Brytania	W. Brytania	LOC	GPE-Great-Britain
+1457	1464	Francji	Francja	LOC	GPE-France
+1518	1524	Europy	Europa	LOC	LOC-Europe
+1527	1534	Eulerze	Euler	ORG	ORG-Euler-Hermes
+1536	1545	Ana Boata	Ana Boata	PER	PER-Ana-Boata
+1666	1674	A. Boata	A. Boata	PER	PER-Ana-Boata

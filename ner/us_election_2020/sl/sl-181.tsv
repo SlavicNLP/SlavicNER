@@ -1,0 +1,75 @@
+7	22	Michaela Cohena	Michael Cohen	PER	PER-Michael-Cohen
+37	40	ZDA	ZDA	LOC	GPE-USA
+41	55	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+155	158	ZDA	ZDA	LOC	GPE-USA
+159	173	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+185	203	Nelojalen: Spomini	Nelojalen: Spomini	PRO	PRO-Disloyal:-A-Memoir:-The-True-Story-of-the-Former-Personal-Attorney-to-President-Donald-J.-Trump
+214	227	Michael Cohen	Michael Cohen	PER	PER-Michael-Cohen
+382	391	Bele hiše	Bela hiša	LOC	LOC-White-House
+612	618	Trumpa	Trump	PER	PER-Donald-Trump
+673	682	Bele hiše	Bela hiša	LOC	LOC-White-House
+692	709	Brian Morgenstern	Brian Morgenstern	PER	PER-Brian-Morgenstern
+712	717	Cohen	Cohen	PER	PER-Michael-Cohen
+779	805	ameriške volitve leta 2016	ameriške volitve leta 2016	EVT	EVT-2016-United-States-Presidential-Election
+951	965	Stormy Daniels	Stormy Daniels	PER	PER-Stormy-Daniels
+994	1001	Trumpom	Trump	PER	PER-Donald-Trump
+1028	1033	Trump	Trump	PER	PER-Donald-Trump
+1055	1060	Cohen	Cohen	PER	PER-Michael-Cohen
+1076	1081	Trump	Trump	PER	PER-Donald-Trump
+1095	1105	Danielsovi	Daniels	PER	PER-Stormy-Daniels
+1191	1204	Melanii Trump	Melania Trump	PER	PER-Melania-Trump
+1402	1407	Cohen	Cohen	PER	PER-Michael-Cohen
+1423	1428	Trump	Trump	PER	PER-Donald-Trump
+1635	1640	Cohen	Cohen	PER	PER-Michael-Cohen
+1693	1698	Trump	Trump	PER	PER-Donald-Trump
+1778	1783	Cohen	Cohen	PER	PER-Michael-Cohen
+1818	1830	koronavirusa	koronavirus	EVT	EVT-Covid-19
+1994	1999	Cohen	Cohen	PER	PER-Michael-Cohen
+2204	2211	Trumpom	Trump	PER	PER-Donald-Trump
+2214	2219	Cohen	Cohen	PER	PER-Michael-Cohen
+2229	2235	Trumpa	Trump	PER	PER-Donald-Trump
+2412	2417	Trump	Trump	PER	PER-Donald-Trump
+2472	2475	ZDA	ZDA	LOC	GPE-USA
+2476	2490	Barackom Obamo	Barack Obama	PER	PER-Barack-Obama
+2544	2549	Obamo	Obama	PER	PER-Barack-Obama
+2588	2595	Vajenec	Vajenec	PRO	PRO-The-Apprentice
+2613	2618	Trump	Trump	PER	PER-Donald-Trump
+2639	2644	Obama	Obama	PER	PER-Barack-Obama
+2669	2677	Harvardu	Harvard	ORG	ORG-Harvard-University
+2777	2789	Južne Afrike	Južna Afrika	LOC	GPE-Republic-of-South-Africa
+2790	2805	Nelsona Mandelo	Nelson Mandela	PER	PER-Nelson-Mandela
+2916	2921	Cohen	Cohen	PER	PER-Michael-Cohen
+2944	2954	Trumpovemu	Trump	PER	PER-Donald-Trump
+3061	3066	Cohen	Cohen	PER	PER-Michael-Cohen
+3152	3165	Miss Universe	Miss Universe	EVT	EVT-Miss-Universe
+3168	3173	Cohen	Cohen	PER	PER-Michael-Cohen
+3187	3193	Trumpa	Trump	PER	PER-Donald-Trump
+3321	3329	Trumpovi	Trump	PER	PER-Donald-Trump
+3337	3350	Donald mlajši	Donald mlajši	PER	PER-Donald-Trump-Jr.
+3352	3356	Eric	Eric	PER	PER-Eric-Trump
+3360	3366	Ivanka	Ivanka	PER	PER-Ivanka-Trump
+3478	3483	Trump	Trump	PER	PER-Donald-Trump
+3521	3529	Mehičani	Mehičani	PER	GPE-Mexico
+3558	3564	Trumpu	Trump	PER	PER-Donald-Trump
+3603	3618	Latinoameričani	Latinoameričani	PER	GPE-Latin-America
+3695	3700	Trump	Trump	PER	PER-Donald-Trump
+3746	3763	Vladimirja Putina	Vladimir Putin	PER	PER-Vladimir-Putin
+3812	3818	Putinu	Putin	PER	PER-Vladimir-Putin
+3850	3860	Trumpovega	Trump	PER	PER-Donald-Trump
+3870	3876	Moskvi	Moskva	LOC	GPE-Moscow
+3904	3910	Putina	Putin	PER	PER-Vladimir-Putin
+3971	3976	Cohen	Cohen	PER	PER-Michael-Cohen
+3997	4005	Trumpova	Trump	PER	PER-Donald-Trump
+4028	4032	Rusi	Rusi	PER	GPE-Russia
+4087	4093	Trumpa	Trump	PER	PER-Donald-Trump
+4123	4129	Rusije	Rusije	LOC	GPE-Russia
+4136	4151	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+4154	4159	Cohen	Cohen	PER	PER-Michael-Cohen
+4187	4192	Trump	Trump	PER	PER-Donald-Trump
+4362	4368	Cohenu	Cohen	PER	PER-Michael-Cohen
+4377	4382	Trump	Trump	PER	PER-Donald-Trump
+4409	4415	Cohena	Cohen	PER	PER-Michael-Cohen
+4440	4446	Trumpu	Trump	PER	PER-Donald-Trump
+4528	4531	ZDA	ZDA	LOC	GPE-USA
+4590	4595	Cohen	Cohen	PER	PER-Michael-Cohen
+4620	4629	Američani	Američani	PER	GPE-USA

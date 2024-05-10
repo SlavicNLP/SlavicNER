@@ -1,0 +1,28 @@
+0	8	Británie	Británie	LOC	GPE-Great-Britain
+44	51	brexitu	brexit	EVT	EVT-Brexit
+99	113	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+133	140	Bruselu	Brusel	LOC	GPE-Brussles
+165	167	EU	EU	ORG	ORG-European-Union
+189	197	Británie	Británie	LOC	GPE-Great-Britain
+209	218	článek 50	článek 50	PRO	PRO-Article-50
+219	237	Lisabonské smlouvy	Lisabonská smlouva	PRO	PRO-Treaty-of-Lisbon
+338	346	Británie	Británie	LOC	GPE-Great-Britain
+349	351	EU	EU	ORG	ORG-European-Union
+387	395	Británie	Británie	LOC	GPE-Great-Britain
+449	477	parlamentní výbor pro brexit	parlamentní výbor pro brexit	ORG	ORG-Exiting-the-European-Union-Committee
+893	902	článku 50	článek 50	PRO	PRO-Article-50
+1026	1034	Británie	Británie	LOC	GPE-Great-Britain
+1037	1050	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1081	1109	Parlamentní výbor pro brexit	Parlamentní výbor pro brexit	ORG	ORG-Exiting-the-European-Union-Committee
+1253	1259	Irskem	Irsko	LOC	GPE-Ireland
+1271	1286	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+1358	1366	Británie	Británie	LOC	GPE-Great-Britain
+1369	1371	EU	EU	ORG	ORG-European-Union
+1373	1381	Británie	Británie	LOC	GPE-Great-Britain
+1434	1440	Irskem	Irsko	LOC	GPE-Ireland
+1443	1457	Severní Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+1521	1533	The Guardian	The Guardian	PRO	PRO-The-Guardian
+1540	1568	parlamentní výbor pro brexit	parlamentní výbor pro brexit	ORG	ORG-Exiting-the-European-Union-Committee
+1625	1645	Konzervativní strany	Konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+1720	1728	Británie	Británie	LOC	GPE-Great-Britain
+1731	1733	EU	EU	ORG	ORG-European-Union

@@ -1,0 +1,165 @@
+15	18	США	США	LOC	GPE-USA
+51	58	Украины	Украина	LOC	GPE-Ukraine
+76	79	США	США	LOC	GPE-USA
+112	119	Украины	Украина	LOC	GPE-Ukraine
+122	132	Минфин США	Минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+169	176	Украины	Украина	LOC	GPE-Ukraine
+233	245	американские	американский	LOC	GPE-USA
+262	271	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+298	305	Россией	Россия	LOC	GPE-Russia
+364	371	Минфина	Минфин	ORG	ORG-Chancellor-of-the-Exchequer
+420	434	«Слуга народа»	«Слуга народа»	ORG	ORG-Servant-of-the-People-Party
+435	454	Александр Дубинский	Александр Дубинский	PER	PER-Aleksandr-Dubinskiy
+494	506	Коломойского	Коломойский	PER	PER-Ihor-Kolomoyskyi
+535	538	США	США	LOC	GPE-USA
+588	595	Украины	Украина	LOC	GPE-Ukraine
+675	682	Украины	Украина	LOC	GPE-Ukraine
+702	723	американского Минфина	Американский Минфин	ORG	ORG-United-States-Department-of-the-treasury
+834	841	Россией	Россия	LOC	GPE-Russia
+887	903	Андреем Деркачем	Андрей Дергач	PER	PER-Andrey-Derkach
+931	938	Деркача	Деркач	PER	PER-Andrey-Derkach
+1080	1087	Украины	Украина	LOC	GPE-Ukraine
+1088	1103	Петра Порошенко	Петр Порошенко	PER	PER-Petro-Poroshenko
+1130	1133	США	США	LOC	GPE-USA
+1134	1146	Джо Байденом	Джо Байден	PER	PER-Joe-Biden
+1202	1212	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+1232	1239	Деркача	Деркач	PER	PER-Andrey-Derkach
+1259	1269	российским	российский	LOC	GPE-Russia
+1332	1334	РФ	РФ	LOC	GPE-Russia
+1338	1344	Москва	Москва	LOC	GPE-Moscow
+1422	1428	Трампа	Трамп	PER	PER-Donald-Trump
+1443	1450	Деркача	Деркач	PER	PER-Andrey-Derkach
+1499	1509	российской	российский	LOC	GPE-Russia
+1637	1648	Минфина США	Минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+1759	1765	Трампа	Трамп	PER	PER-Donald-Trump
+1872	1877	Путин	Путин	PER	PER-Vladimir-Putin
+1936	1943	Байдена	Байден	PER	PER-Joe-Biden
+1946	1955	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+2053	2066	Демпартии США	Демпартия США	ORG	ORG-Democratic-Party-USA
+2099	2106	Украине	Украина	LOC	GPE-Ukraine
+2130	2140	Американцы	Американец	PER	GPE-USA
+2231	2243	коронавируса	коронавирус	EVT	EVT-Covid-19
+2311	2317	Деркач	Деркач	PER	PER-Andrey-Derkach
+2342	2345	США	США	LOC	GPE-USA
+2364	2370	Байден	Байден	PER	PER-Joe-Biden
+2411	2418	Украине	Украина	LOC	GPE-Ukraine
+2434	2444	Украинских	украинский	LOC	GPE-Ukraine
+2463	2476	американскому	американский	LOC	GPE-USA
+2622	2629	Байдена	Байден	PER	PER-Joe-Biden
+2672	2684	«сонный Джо»	«сонный Джо»	PER	PER-Joe-Biden
+2742	2749	Украине	Украина	LOC	GPE-Ukraine
+2841	2849	Украиной	Украина	LOC	GPE-Ukraine
+2867	2893	Демократической партии США	Демократическая партия США	ORG	ORG-Democratic-Party-USA
+2916	2932	Константин Кулик	Константин Кулик	PER	PER-Konstantin-Kulik
+2961	2979	Александр Онищенко	Александр Онищенко	PER	Александра Филиппенко
+2990	3006	Андрей Телиженко	Андрей Телиженко	PER	PER-Andrey-Telizhenko
+3019	3033	«Слуги народа»	«Слуга народа»	ORG	ORG-Servant-of-the-People-Party
+3034	3053	Александр Дубинский	Александр Дубинский	PER	Александра Филиппенко
+3105	3116	российского	российский	LOC	GPE-Russia
+3125	3132	Деркача	Деркач	PER	PER-Andrey-Derkach
+3249	3252	США	США	LOC	GPE-USA
+3288	3295	Деркача	Деркач	PER	PER-Andrey-Derkach
+3304	3317	Петр Журавель	Петр Журавель	PER	PER-Peter-Zhuravel
+3344	3353	NabuLeaks	NabuLeaks	PRO	PRO-Nabuleaks
+3363	3369	Минфин	Минфин	ORG	ORG-Chancellor-of-the-Exchequer
+3419	3431	американские	американский	LOC	GPE-USA
+3479	3496	Дмитрий Ковальчук	Дмитрий Ковальчук	PER	PER-Dmitry-Kovalchuk
+3542	3545	США	США	LOC	GPE-USA
+3550	3565	Антон Симоненко	Антон Симоненко	PER	PER-Anton-Simonenko
+3600	3607	Деркача	Деркач	PER	PER-Andrey-Derkach
+3618	3625	Деркачу	Деркач	PER	PER-Andrey-Derkach
+3714	3717	США	США	LOC	GPE-USA
+3733	3745	американским	американский	LOC	GPE-USA
+4028	4035	Байдена	Байден	PER	PER-Joe-Biden
+4105	4112	Украине	Украина	LOC	GPE-Ukraine
+4308	4313	Киеве	Киев	LOC	GPE-Kiev
+4330	4336	Трампа	Трамп	PER	PER-Donald-Trump
+4337	4353	Рудольф Джулиани	Рудольф Джулиани	PER	PER-Rudolph-Giuliani
+4388	4397	Зеленский	Зеленский	PER	PER-Volodymyr-Zelensky
+4451	4461	украинских	украинский	LOC	GPE-Ukraine
+4514	4529	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+4550	4557	Байдена	Байден	PER	PER-Joe-Biden
+4727	4753	Демократическая партия США	Демократическая партия США	ORG	ORG-Democratic-Party-USA
+4789	4805	Burisma Holdings	Burisma Holdings	ORG	ORG-Burisma
+4872	4883	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+4884	4890	Хантер	Хантер	PER	PER-Hunter-Biden
+5059	5070	американцев	американцы	PER	GPE-USA
+5094	5100	Трампа	Трамп	PER	PER-Donald-Trump
+5124	5139	штурм Конгресса	Штурм Конгресса	EVT	EVT-2021-storming-of -the-United-States-Capitol
+5180	5187	Байдена	Байден	PER	PER-Joe-Biden
+5237	5247	украинский	украинский	LOC	GPE-Ukraine
+5268	5327	Киевского центра политических исследований и конфликтологии	Киевский центр политических исследований и конфликтологии	ORG	ORG-Kiev-Centre-for-Political-Studies-and-Conflictology
+5328	5347	Михаил Погребинский	Михаил Погребинский	PER	PER-Mikhail-Pogrebensky
+5351	5360	Зеленский	Зеленский	PER	PER-Volodymyr-Zelensky
+5417	5424	Байдена	Байден	PER	PER-Joe-Biden
+5428	5435	Украине	Украина	LOC	GPE-Ukraine
+5540	5551	Минфина США	Минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+5578	5585	Украины	Украина	LOC	GPE-Ukraine
+5589	5603	«Слуги народа»	«Слуга народа»	ORG	ORG-Servant-of-the-People-Party
+5604	5623	Александр Дубинский	Александр Дубинский	PER	PER-Aleksandr-Dubinsky
+5742	5754	американских	американский	LOC	GPE-USA
+5770	5780	Дубинского	Дубинский	PER	PER-Aleksandr-Dubinsky
+5808	5817	Зеленский	Зеленский	PER	PER-Volodymyr-Zelensky
+5891	5898	Украины	Украина	LOC	GPE-Ukraine
+5899	5913	Михаил Подоляк	Михаил Подоляк	PER	PER-Михаил-Виноградов
+5935	5944	Дубинский	Дубинский	PER	PER-Aleksandr-Dubinsky
+6048	6062	«Слуга народа»	«Слуга народа»	ORG	ORG-Servant-of-the-People-Party
+6092	6110	Игоря Коломойского	Игоря Коломойского	PER	PER-Ihor-Kolomoyskyi
+6160	6171	Коломойский	Коломойский	PER	PER-Ihor-Kolomoyskyi
+6208	6223	республиканцами	республиканцы	ORG	ORG-Republican-Party-USA
+6233	6244	демократами	демократы	ORG	ORG-Democratic-Party-USA
+6296	6307	Белого дома	Белый дом	ORG	ORG-The-White-House
+6364	6371	Байдена	Байден	PER	PER-Joe-Biden
+6401	6408	Украины	Украина	LOC	GPE-Ukraine
+6436	6447	Коломойский	Коломойский	PER	PER-Ihor-Kolomoyskyi
+6543	6548	Киева	Киев	LOC	GPE-Kiev
+6584	6595	Минфина США	Минфин США	ORG	ORG-United-States-Department-of-the-Treasury
+6696	6703	Украине	Украина	LOC	GPE-Ukraine
+6737	6746	Зеленский	Зеленский	PER	PER-Volodymyr-Zelensky
+6874	6884	Балтологию	Балтология	PRO	PRO-Baltology
+6887	6895	Telegram	Telegram	PRO	PRO-Telegram
+6922	6930	Facebook	Facebook	PRO	PRO-Facebook
+6973	6995	Верховной рады Украины	Верховная рада Украины	ORG	ORG-Verkhovna-Rada
+6996	7009	Андрей Деркач	Андрей Деркач	PER	PER-Andrey-Derkach
+7074	7089	Петра Порошенко	Петр Порошенко	PER	PER-Petro-Poroshenko
+7116	7119	США	США	LOC	GPE-USA
+7120	7131	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+7174	7181	Деркача	Деркач	PER	PER-Andrey-Derkach
+7195	7210	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+7232	7237	Сенат	Сенат	ORG	ORG-United-States-Senate
+7258	7261	США	США	LOC	GPE-USA
+7305	7325	Владимира Зеленского	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+7339	7384	Национального антикоррупционного бюро Украины	Национальное антикоррупционное бюро Украины	ORG	ORG-National-Anti-Corruption-Bureau-of-Ukraine
+7386	7390	НАБУ	НАБУ	ORG	ORG-National-Anti-Corruption-Bureau-of-Ukraine
+7392	7406	Артема Сытника	Артем Сытник	PER	PER-Artem-Sytnik
+7502	7505	США	США	LOC	GPE-USA
+7577	7589	американской	американский	LOC	GPE-USA
+7621	7628	Украине	Украина	LOC	GPE-Ukraine
+7690	7703	американского	американский	LOC	GPE-USA
+7715	7731	Рудольф Джулиани	Рудольф Джулиани	PER	PER-Rudolph-Giuliani
+7853	7856	США	США	LOC	GPE-USA
+7857	7867	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+7934	7941	Украины	Украина	LOC	GPE-Ukraine
+7942	7960	Владимир Зеленский	Владимир Зеленский	PER	PER-Volodymyr-Zelensky
+8054	8081	выборов 21 апреля 2019 года	Выборы 21 апреля 2019 года	EVT	EVT-2019-Ukraine-Presidentioal-Election
+8083	8093	Украинская	украинский	LOC	GPE-Ukraine
+8171	8181	Зеленского	Зеленский	PER	PER-Volodymyr-Zelensky
+8187	8192	Литве	Литва	LOC	GPE-Lithuania
+8347	8353	Россия	Россия	LOC	GPE-Russia
+8384	8395	Прибалтикой	Прибалтика	LOC	LOC-Baltic-countries
+8424	8430	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+8431	8445	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+8472	8482	Прибалтики	Прибалтика	LOC	LOC-Baltic-countries
+8509	8514	Литва	Литва	LOC	GPE-Lithuania
+8516	8522	Латвия	Латвия	LOC	GPE-Latvia
+8525	8532	Эстония	Эстония	LOC	GPE-Estonia
+8610	8620	российской	российский	LOC	GPE-Russia
+8631	8637	Россия	Россия	LOC	GPE-Russia
+8648	8662	коронавирусную	коронавирусная	EVT	EVT-Covid-19
+8716	8722	Запада	Запад	LOC	LOC-West
+8766	8772	Европы	Европа	LOC	LOC-Europe
+8887	8893	Латвии	Латвия	LOC	GPE-Latvia
+8903	8907	СССР	СССР	LOC	GPE-USSR
+8929	8946	Карлиса Ульманиса	Карпис Ульманис	PER	PER-Kārlis-Ulmanis
+8961	8967	Латвии	Латвия	LOC	GPE-Latvia
+9018	9024	Латвии	Латвия	LOC	GPE-Latvia

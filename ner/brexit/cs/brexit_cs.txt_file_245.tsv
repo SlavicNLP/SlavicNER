@@ -1,0 +1,18 @@
+20	27	brexitu	brexit	EVT	EVT-Brexit
+38	40	EU	EU	ORG	ORG-European-Union
+76	82	Mayová	Mayová	PER	PER-Theresa-May
+119	133	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+143	149	Mayová	Mayová	PER	PER-Theresa-May
+166	169	BBC	BBC	PRO	PRO-BBC
+218	225	Britové	Britové	PER	GPE-Great-Britain
+279	286	Reuters	Reuters	ORG	ORG-Reuters
+428	441	Evropská unie	Evropská unie	ORG	ORG-European-Union
+463	470	Londýnu	Lonýdn	LOC	GPE-London
+599	607	Británii	Británie	LOC	GPE-Great-Britain
+689	691	EU	EU	ORG	ORG-European-Union
+706	712	Londýn	Londýn	LOC	GPE-London
+718	726	Bruselem	Brusel	LOC	GPE-Brussles
+845	853	Británii	Británie	LOC	GPE-Great-Britain
+914	921	brexitu	brexit	EVT	EVT-Brexit
+1037	1039	EU	EU	ORG	ORG-European-Union
+1081	1084	BBC	BBC	PRO	PRO-BBC

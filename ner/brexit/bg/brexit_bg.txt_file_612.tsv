@@ -1,0 +1,24 @@
+0	6	Лондон	Лондон	LOC	GPE-London
+22	28	Brexit	Brexit	EVT	EVT-Brexit
+58	60	ЕС	ЕС	ORG	ORG-European-Union
+74	79	БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+124	134	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+136	150	Великобритания	Великобритания	LOC	GPE-Great-Britain
+181	183	ЕС	ЕС	ORG	ORG-European-Union
+260	270	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+293	308	Прес асосиейшън	Прес асосиейшън	ORG	ORG-Press-Association
+312	317	БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+417	423	Лондон	Лондон	LOC	GPE-London
+469	476	Брюксел	Брюксел	LOC	GPE-Brussles
+527	533	Brexit	Brexit	EVT	EVT-Brexit
+565	576	Сънди таймс	Съндей Таймс	PRO	PRO-The-Sunday-Times
+597	600	Мей	Мей	PER	PER-Theresa-May
+774	794	Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+829	842	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+905	908	Мей	Мей	PER	PER-Theresa-May
+939	950	Майкъл Гоув	Майкъл Гоув	PER	PER-Michael-Gove
+997	1003	Brexit	Brexit	EVT	EVT-Brexit
+1014	1029	Джейкъб Рис-Мог	Джейкъб Рис-Мог	PER	PER-Jacob-Rees-Mogg
+1083	1090	Джонсън	Джонсън	PER	PER-Boris-Johnson
+1138	1144	Brexit	Brexit	EVT	EVT-Brexit
+1306	1313	Брекзит	Брекзит	EVT	EVT-Brexit

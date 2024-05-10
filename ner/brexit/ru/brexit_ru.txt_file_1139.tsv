@@ -1,0 +1,25 @@
+19	37	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+71	114	Министерство иностранных дел Великобритании	Министерство иностранных дел Великобритании	ORG	ORG-Foreign-Office
+217	232	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+259	269	Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+302	316	Великобританию	Великобритания	LOC	GPE-Great-Britain
+336	339	МИД	МИД	ORG	ORG-Foreign-Office
+350	362	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+378	421	Министерство иностранных дел Великобритании	Министерство иностранных дел Великобритании	ORG	ORG-Foreign-Office
+524	539	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+566	576	Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+609	623	Великобританию	Великобритания	LOC	GPE-Great-Britain
+643	646	МИД	МИД	ORG	ORG-Foreign-Office
+657	669	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+757	767	Минздравом	Минздрав	ORG	ORG-British-Ministry-of-Health
+771	776	Ханта	Хант	PER	PER-Jeremy-Hunt
+1160	1164	Хант	Хант	PER	PER-Jeremy-Hunt
+1199	1209	Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+1226	1236	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+1248	1256	брекзита	брекзит	EVT	EVT-Brexit
+1290	1305	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+1350	1363	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+1429	1439	Тереза Мэй	Тереза Мэй 	PER	PER-Theresa-May
+1499	1501	ЕС	EC	ORG	ORG-European-Union
+1544	1552	Британии	Британия	LOC	GPE-Great-Britain
+1556	1574	Европейского союза	Европейский союз	ORG	ORG-European-Union

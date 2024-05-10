@@ -1,0 +1,18 @@
+9	17	brexicie	Brexit	EVT	EVT-Brexit
+27	36	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+265	267	UE	UE	ORG	ORG-European-Union
+282	284	UE	UE	ORG	ORG-European-Union
+348	355	brexitu	Brexit	EVT	EVT-Brexit
+399	401	UE	UE	ORG	ORG-European-Union
+454	463	The Times	The Times	PRO	PRO-The-Times
+465	475	Sam Coates	Sam Coates	PER	PER-Sam-Coates
+491	500	Twitterze	Twitter	PRO	PRO-Twitter
+587	608	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+743	753	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+763	783	Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+852	883	Demokratyczną Partią Unionistów	Demokratyczna Partia Unionistów	ORG	ORG-DUP-Democratic-Unionist-Party
+885	888	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+1203	1218	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1247	1264	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1323	1330	Londynu	Londyn	LOC	GPE-London
+1331	1342	Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa

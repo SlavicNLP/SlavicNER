@@ -1,0 +1,25 @@
+6	9	Gut	Gut	PER	PER-Włodzimierz-Gut
+48	56	COVID-19	COVID-19	EVT	EVT-Covid-19
+72	82	Nowym Roku	Nowy Rok	EVT	EVT-New-Year
+144	152	COVID-19	COVID-19	EVT	EVT-Covid-19
+178	193	Włodzimierz Gut	Włodzimierz Gut	PER	PER-Włodzimierz-Gut
+228	248	Ministerstwo Zdrowia	Ministerstwo Zdrowia	ORG	ORG-Ministry-of-Health-Poland
+270	278	COVID-19	COVID-19	EVT	EVT-Covid-19
+347	355	Covid-19	Covid-19	EVT	EVT-Covid-19
+439	459	Ministerstwo Zdrowia	Ministerstwo Zdrowia	ORG	ORG-Ministry-of-Health-Poland
+502	515	koronawirusem	koronawirus	EVT	EVT-Covid-19
+572	580	Mazowszu	Mazowsze	LOC	GPE-Poland-Masovian-Voivodeship
+741	756	Włodzimierz Gut	Włodzimierz Gut	PER	PER-Włodzimierz-Gut
+811	819	COVID-19	COVID-19	EVT	EVT-Covid-19
+954	957	Gut	Gut	PER	PER-Włodzimierz-Gut
+1211	1224	koronawirusem	koronawirus	EVT	EVT-Covid-19
+1403	1411	BioNTech	BioNTech	ORG	ORG-BioNTech
+1412	1422	Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+1450	1461	Der Spiegel	Der Spiegel	PRO	PRO-Der-Spiegel
+1524	1532	Covid-19	Covid-19	EVT	EVT-Covid-19
+1602	1610	COVID-19	COVID-19	EVT	EVT-Covid-19
+1750	1753	Gut	Gut	PER	PER-Włodzimierz-Gut
+1860	1868	COVID-19	COVID-19	EVT	EVT-Covid-19
+2156	2179	Świąt Bożego Narodzenia	Święta Bożego Narodzenia	EVT	EVT-Christmas
+2184	2195	Nowego Roku	Nowy Rok	EVT	EVT-New-Year
+2255	2261	Polacy	Polacy	PER	GPE-Poland

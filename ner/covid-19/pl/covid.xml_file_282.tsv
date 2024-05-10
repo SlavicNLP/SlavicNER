@@ -1,0 +1,24 @@
+0	11	Koronawirus	koronawirus	EVT	EVT-Covid-19
+13	19	Węgrzy	Węgrzy	PER	GPE-Hungary
+58	63	Rosja	Rosja	LOC	GPE-Russia
+126	129	ATV	ATV	PRO	PRO-ATV
+155	169	Gergely Gulyas	Gergely Gulyas	PER	PER-Gergely-Gulyas
+181	186	Węgry	Węgry	LOC	GPE-Hungary
+315	332	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+341	345	Chin	Chiny	LOC	GPE-China
+347	352	Węgry	Węgry	LOC	GPE-Hungary
+545	553	Brukselą	Bruksela	LOC	GPE-Brussles
+603	611	COVID-19	COVID-19	EVT	EVT-Covid-19
+646	663	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+715	739	Europejską Agencję Leków	Europejska Agencja Leków	ORG	ORG-EMA-European-Medicines-Agency
+741	744	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+747	756	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+785	788	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+849	855	Węgier	Węgry	LOC	GPE-Hungary
+1042	1050	Węgrzech	Węgry	LOC	GPE-Hungary
+1102	1105	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+1118	1124	Pfizer	Pfizer	ORG	ORG-Pfizer
+1125	1133	BioNTech	BioNTech	ORG	ORG-BioNTech
+1135	1140	Orban	Orban	PER	PER-Viktor-Orban
+1170	1175	Węgry	Węgry	LOC	GPE-Hungary
+1342	1360	Władimirem Putinem	Władimir Putin	PER	PER-Vladimir-Putin

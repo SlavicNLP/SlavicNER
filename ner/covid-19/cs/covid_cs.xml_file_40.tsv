@@ -1,0 +1,11 @@
+0	5	Česko	Česko	LOC	GPE-Czech-Republic
+112	115	PES	PES	PRO	PRO-PES-Anti-epidemic-system-Czech-Republic
+220	232	Středočeském	Středočeský	LOC	GPE-Central-Bohemian-Region
+235	252	Pardubickém kraji	Pardubický kraj	LOC	GPE-Pardubice-Region
+744	752	Vánocemi	Vánoce	EVT	EVT-Christmas
+773	785	Marek Petráš	Marek Petráš	PER	PER-Marek-Petras
+809	820	koronavirus	koronavirus	EVT	EVT-Covid-19
+829	844	Královéhradecku	Královéhradecko	LOC	GPE-Hradec-Kralove-region
+932	942	Rychnovsko	Rychnovsko	LOC	GPE-Rychnov-area
+945	952	Opavsko	Opavsko	LOC	GPE-Opava-area
+984	994	Domažlicku	Domažlicko	LOC	GPE-Domazlice-area

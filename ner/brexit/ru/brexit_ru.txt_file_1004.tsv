@@ -1,0 +1,24 @@
+0	13	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+44	62	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+70	88	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+89	102	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+129	133	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+183	193	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+275	278	Мэй	Мэй	PER	PER-Theresa-May
+293	301	Джонсона	Джонсон	PER	PER-Boris-Johnson
+360	366	Brexit	Brexit	EVT	EVT-Brexit
+367	378	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+425	428	Мэй	Мэй	PER	PER-Theresa-May
+457	467	Евросоюзом	Евросоюз	ORG	ORG-European-Union
+474	480	Brexit	Brexit	EVT	EVT-Brexit
+482	487	Дэвис	Дэвис	PER	PER-David-Davis
+522	524	ЕС	ЕС	ORG	ORG-European-Union
+542	549	Джонсон	Джонсон	PER	PER-Boris-Johnson
+609	612	МИД	МИД	ORG	ORG-Foreign-Office
+675	683	Германии	Германия	LOC	GPE-Germany
+686	692	Польши	Польша	LOC	GPE-Poland
+709	716	Лондоне	Лондон	LOC	GPE-London
+745	760	Западных Балкан	Западные Балканы	LOC	LOC-Balkans
+770	777	Джонсон	Джонсон	PER	PER-Boris-Johnson
+958	979	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1033	1036	Мэй	Мэй	PER	PER-Theresa-May

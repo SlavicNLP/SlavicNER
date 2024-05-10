@@ -1,0 +1,35 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+8	22	Великобритания	Великобритания	LOC	GPE-Great-Britain
+43	51	Норвегия	Норвегия	LOC	GPE-Norway
+54	63	Швейцария	Швейцария	LOC	GPE-Switzerland
+69	76	Брекзит	Брекзит	EVT	EVT-Brexit
+101	117	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+121	128	Брекзит	Брекзит	EVT	EVT-Brexit
+129	141	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+152	166	Великобритания	Великобритания	LOC	GPE-Great-Britain
+244	246	ЕС	ЕС	ORG	ORG-European-Union
+252	260	Норвегия	Норвегия	LOC	GPE-Norway
+263	272	Швейцария	Швейцария	LOC	GPE-Switzerland
+364	378	Великобритания	Великобритания	LOC	GPE-Great-Britain
+382	384	ЕС	ЕС	ORG	ORG-European-Union
+423	431	Норвегия	Норвегия	LOC	GPE-Norway
+449	458	Швейцария	Швейцария	LOC	GPE-Switzerland
+460	468	Исландия	Исландия	LOC	GPE-Iceland
+471	481	Лихтенщайн	Лихтенщайн	LOC	GPE-Liechtenstein
+492	535	Европейската асоциация за свободна търговия	Европейска асоциация за свободна търговия	ORG	ORG-EFTA
+575	577	ЕС	ЕС	ORG	ORG-European-Union
+580	586	Барние	Барние	PER	PER-Michel-Barnier
+598	612	Великобритания	Великобритания	LOC	GPE-Great-Britain
+661	663	ЕС	ЕС	ORG	ORG-European-Union
+777	791	Великобритания	Великобритания	LOC	GPE-Great-Britain
+851	869	Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+872	888	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+924	934	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+957	963	Берлин	Берлин	LOC	GPE-Berlin
+993	1000	Брекзит	Брекзит	EVT	EVT-Brexit
+1022	1035	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+1072	1078	Берлин	Берлин	LOC	GPE-Berlin
+1094	1097	Мей	Мей	PER	PER-Theresa-May
+1111	1131	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1206	1208	ЕС	ЕС	ORG	ORG-European-Union
+1249	1256	Брекзит	Брекзит	EVT	EVT-Brexit

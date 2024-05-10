@@ -1,0 +1,57 @@
+0	10	W.Brytania	W.Brytania	LOC	GPE-Great-Britain
+12	17	Davis	Davis	PER	PER-David-Davis
+48	50	UE	UE	ORG	ORG-European-Union
+63	71	Brexicie	Brexit	EVT	EVT-Brexit
+96	103	Brexitu	Brexit	EVT	EVT-Brexit
+104	115	David Davis	David Davis	PER	PER-David-Davis
+132	153	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+197	199	UE	UE	ORG	ORG-European-Union
+255	273	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+276	304	Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+325	334	The Times	The Times	PRO	PRO-The-Times
+370	377	Brexitu	Brexit	EVT	EVT-Brexit
+385	393	Londynie	Londyn	LOC	GPE-London
+478	495	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+555	564	The Times	The Times	PRO	PRO-The-Times
+614	628	Downing Street	Downing Street	LOC	LOC-Downing-Street
+674	691	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+692	709	Donaldowi Tuskowi	Donald Tusk	PER	PER-Donald-Tusk
+734	745	Theresa May	Theresa May	PER	PER-Theresa-May
+784	799	Daily Telegraph	Daily Telegraph	PRO	PRO-The-Daily-Telegraph
+865	880	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+932	949	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+952	960	Irlandią	Irlandia	LOC	GPE-Ireland
+1056	1058	UE	UE	ORG	ORG-European-Union
+1095	1103	Brexitem	Brexit	EVT	EVT-Brexit
+1161	1168	Brexitu	Brexit	EVT	EVT-Brexit
+1187	1204	Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+1246	1248	UE	UE	ORG	ORG-European-Union
+1299	1308	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1309	1317	Irlandią	Irlandia	LOC	GPE-Ireland
+1463	1465	UE	UE	ORG	ORG-European-Union
+1473	1484	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1532	1548	Morze Irlandzkie	Morze Irlandzkie	LOC	LOC-Irish-Sea
+1563	1573	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+1623	1626	May	May	PER	PER-Theresa-May
+1795	1815	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+1816	1840	Jean-Claude'em Junckerem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+1961	1978	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+1981	1989	Irlandią	Irlandia	LOC	GPE-Ireland
+2225	2236	Theresy May	Theresa May	PER	PER-Theresa-May
+2246	2253	Brexitu	Brexit	EVT	EVT-Brexit
+2348	2359	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+2362	2364	UE	UE	ORG	ORG-European-Union
+2453	2468	Lancaster House	Lancaster House	LOC	LOC-Lancaster-House
+2495	2504	Florencji	Florencja	LOC	GPE-Florence
+2579	2596	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2597	2607	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+2617	2625	Brukseli	Bruksela	LOC	GPE-Brussles
+2668	2680	Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+2723	2733	Wspólnocie	Wspólnota	ORG	ORG-European-Union
+2911	2918	Brexitu	Brexit	EVT	EVT-Brexit
+2931	2946	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2975	2977	UE	UE	ORG	ORG-European-Union
+3015	3024	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+3189	3196	Londynu	Londyn	LOC	GPE-London
+3197	3208	Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa
+3210	3213	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

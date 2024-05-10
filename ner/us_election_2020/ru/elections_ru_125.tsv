@@ -1,0 +1,55 @@
+10	13	США	США	LOC	GPE-USA
+14	27	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+89	98	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+101	111	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+182	189	Twitter	Twitter	PRO	PRO-Twitter
+392	395	США	США	LOC	GPE-USA
+396	409	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+471	480	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+483	493	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+688	696	lenta.ru	lenta.ru	PRO	PRO-Lenta-Ru
+714	723	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
+754	758	Пенс	Пенс	PER	PER-Mike-Pence
+780	784	Пенс	Пенс	PER	PER-Mike-Pence
+803	809	Трампа	Трамп	PER	PER-Donald-Trump
+824	827	США	США	LOC	GPE-USA
+828	837	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+848	860	американский	американский	LOC	GPE-USA
+867	880	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1069	1073	Пенс	Пенс	PER	PER-Mike-Pence
+1154	1157	CNN	CNN	PRO	PRO-CNN
+1230	1241	Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+1389	1395	Штатов	Штаты	LOC	GPE-USA
+1467	1476	конгрессе	конгресс	ORG	ORG-United-States-Congress
+1810	1821	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+1917	1921	Пенс	Пенс	PER	PER-Mike-Pence
+1940	1943	США	США	LOC	GPE-USA
+1944	1953	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1964	1976	американский	американский	LOC	GPE-USA
+1983	1996	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2185	2189	Пенс	Пенс	PER	PER-Mike-Pence
+2270	2273	CNN	CNN	PRO	PRO-CNN
+2344	2355	Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+2503	2509	Штатов	Штаты	LOC	GPE-USA
+2514	2525	katehon.com	katehon.com	PRO	PRO-Katehon-com
+2551	2554	США	США	LOC	GPE-USA
+2555	2568	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+2569	2582	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2667	2676	демократа	демократ	ORG	ORG-Democratic-Party-USA
+2677	2692	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+2774	2787	американского	американский	LOC	GPE-USA
+2831	2838	Twitter	Twitter	PRO	PRO-Twitter
+2841	2849	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+3292	3299	Америки	Америка	LOC	GPE-USA
+3325	3331	Трампа	Трамп	PER	PER-Donald-Trump
+3495	3507	американскую	американский	LOC	GPE-USA
+3533	3538	Трамп	Трамп	PER	PER-Donald-Trump
+4051	4063	американский	американский	LOC	GPE-USA
+4188	4197	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+4210	4214	ТАСС	ТАСС	PRO	PRO-TASS
+4239	4242	США	США	LOC	GPE-USA
+4243	4256	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+4257	4270	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+4355	4364	демократа	демократ	ORG	ORG-Democratic-Party-USA
+4365	4380	Джозефа Байдена	Джозеф Байден	PER	PER-Joe-Biden
+4440	4455	news.rambler.ru	news.rambler.ru	PRO	PRO-News-Rambler-ru

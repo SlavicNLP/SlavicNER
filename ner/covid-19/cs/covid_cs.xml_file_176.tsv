@@ -1,0 +1,19 @@
+0	4	Čína	Čína	LOC	GPE-China
+92	98	Peking	Peking	LOC	GPE-Beijing
+100	106	Peking	Peking	LOC	GPE-Beijing
+140	151	koronavirus	koronavirus	EVT	EVT-Covid-19
+449	455	Peking	Peking	LOC	GPE-Beijing
+634	643	Sinopharm	Sinopharm	ORG	ORG-China-National-Pharmaceutical-Group-Sinopharm
+725	731	Nature	Nature	PRO	PRO-Nature-(journal)
+743	752	Wu Guzhen	Wu Guzhen	PER	PER-Wu-Guzhen
+764	790	Centra pro kontrolu nemocí	Centrum pro kontrolu nemocí	ORG	ORG-Chinese-Center-for-Desease-Control
+922	925	SAE	SAE	LOC	GPE-SAE
+927	934	Bahrajn	Bahrajn	LOC	GPE-Kingdom-of-Bahrain
+936	940	Peru	Peru	LOC	GPE-Peru
+942	948	Maroko	Maroko	LOC	GPE-Morocco
+950	958	Brazílie	Brazílie	LOC	GPE-Brazil
+962	971	Argentina	Argentina	LOC	GPE-Argentina
+985	989	Čína	Čína	LOC	GPE-China
+1032	1038	Peking	Peking	LOC	GPE-Beijing
+1340	1353	Spojené státy	Spojené státy	LOC	GPE-USA
+1369	1375	Nature	Nature	PRO	PRO-Nature-(journal)

@@ -1,0 +1,19 @@
+0	5	Сорос	Сорос	PER	PER-George-Soros
+48	55	Брекзит	Брекзит	EVT	EVT-Brexit
+109	121	Джордж Сорос	Джордж Сорос	PER	PER-George-Soros
+210	239	Най-доброто за Великобритания	Най-доброто за Великобритания	ORG	ORG-Best-for-Britain
+283	303	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+306	308	ЕС	ЕС	ORG	ORG-European-Union
+356	363	Ройтерс	Ройтерс	ORG	ORG-Reuters
+403	408	Сорос	Сорос	PER	PER-George-Soros
+451	480	Най-доброто за Великобритания	Най-доброто за Великобритания	ORG	ORG-Best-for-Britain
+564	569	Сорос	Сорос	PER	PER-George-Soros
+739	744	Сорос	Сорос	PER	PER-George-Soros
+751	758	Гардиън	Гардиън	PRO	PRO-The-Guardian
+762	776	Дейли телеграф	Дейли телеграф	PRO	PRO-The-Daily-Telegraph
+851	858	Брекзит	Брекзит	EVT	EVT-Brexit
+860	866	Лондон	Лондон	LOC	GPE-London
+880	894	Великобритания	Великобритания	LOC	GPE-Great-Britain
+906	908	ЕС	ЕС	ORG	ORG-European-Union
+911	918	news.bg	news.bg	PRO	PRO-News.bg
+920	925	Днес+	Днес+	ORG	ORG-DnesPlus

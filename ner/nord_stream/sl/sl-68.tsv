@@ -1,0 +1,88 @@
+0	6	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+9	16	Berlinu	Berlin	LOC	GPE-Berlin
+47	55	Kitajsko	Kitajska	LOC	GPE-China
+59	65	Rusijo	Rusija	LOC	GPE-Russia
+93	104	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+134	156	padca berlinskega zidu	padec berlinskega zidu	EVT	EVT-Fall-of-the-Berlin-Wall
+157	164	Nemčijo	Nemčija	LOC	GPE-Germany
+338	346	Kitajska	Kitajska	LOC	GPE-China
+348	354	Rusija	Rusija	LOC	GPE-Russia
+358	362	Iran	Iran	LOC	GPE-Iran
+378	385	Berlinu	Berlin	LOC	GPE-Berlin
+473	484	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+505	521	fundacijo Körber	fundacija Körber	LOC	ORG-Körber-Foundation
+569	588	Brandenburških vrat	Brandenburška vrata	LOC	LOC-Brandenburg-Gate
+595	608	berlinski zid	berlinski zid	LOC	LOC-Berlin-Wall
+618	624	Rusija	Rusija	LOC	GPE-Russia
+680	686	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+722	744	padcu berlinskega zidu	padec berlinskega zidu	EVT	EVT-Fall-of-the-Berlin-Wall
+877	883	Rusija	Rusija	LOC	GPE-Russia
+905	912	Dresdnu	Dresden	LOC	GPE-Dresden
+931	934	KGB	KGB	ORG	ORG-KGB
+1028	1039	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+1069	1091	padca berlinskega zidu	padec berlinskega zidu	EVT	EVT-Fall-of-the-Berlin-Wall
+1092	1099	Nemčijo	Nemčija	LOC	GPE-Germany
+1183	1186	ZDA	ZDA	LOC	GPE-USA
+1190	1197	Nemčijo	Nemčija	LOC	GPE-Germany
+1231	1247	Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+1255	1261	Berlin	Berlin	LOC	GPE-Berlin
+1326	1339	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1378	1380	EU	EU	ORG	ORG-European-Union
+1426	1434	Kitajske	Kitajska	LOC	GPE-China
+1469	1476	Pekinga	Peking	LOC	GPE-Beijing
+1489	1498	Xinjiangu	Xinjiang	LOC	GPE-Xinjiang-Uygur-Autonomous-Region-XUAR
+1500	1509	Hongkongu	Hongkong	LOC	GPE-Hong-Kong
+1533	1540	Nemčiji	Nemčija	LOC	GPE-Germany
+1544	1550	Evropi	Evropa	LOC	LOC-Europe
+1552	1560	Kitajska	Kitajska	LOC	GPE-China
+1572	1578	Pompea	Pompeo	PER	PER-Mike-Pompeo
+1617	1646	Kitajska komunistična partija	Kitajska komunistična partija	ORG	GPE-Communist-Party-of-China
+1744	1759	vzhodnim Nemcem	vzhodni Nemci	PER	GPE-East-Germany
+1878	1886	Kitajska	Kitajska	LOC	GPE-China
+1888	1894	Rusija	Rusija	LOC	GPE-Russia
+1898	1902	Iran	Iran	LOC	GPE-Iran
+1921	1927	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+1930	1933	ZDA	ZDA	LOC	GPE-USA
+2095	2101	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+2104	2110	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+2178	2180	5G	5G	PRO	PRO-5G
+2249	2255	Berlin	Berlin	LOC	GPE-Berlin
+2259	2269	Washington	Washington	LOC	GPE-WashingtonDC
+2352	2358	Evropa	Evropa	LOC	LOC-Europe
+2406	2423	Vladimirja Putina	Vladimir Putin	PER	PER-Vladimir-Putin
+2436	2442	Rusija	Rusija	LOC	GPE-Russia
+2464	2471	Dresdnu	Dresden	LOC	GPE-Dresden
+2490	2493	KGB	KGB	ORG	ORG-KGB
+2559	2565	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+2568	2574	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+2589	2624	ameriškem veleposlaništva v Berlinu	ameriško veleposlaništvo v Berlinu	LOC	LOC-Embassy-of-the-United-States-of-America-in-Berlin
+2676	2691	Ronalda Reagana	Ronald Reagan	PER	PER-Ronald-Reagan
+2774	2781	Reaganu	Reagan	PER	PER-Ronald-Reagan
+2784	2791	Berlinu	Berlin	LOC	GPE-Berlin
+2845	2848	ZDA	ZDA	LOC	GPE-USA
+2880	2887	Berlina	Berlin	LOC	GPE-Berlin
+2915	2928	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2932	2938	Rusije	Rusija	LOC	GPE-Russia
+2941	2948	Nemčijo	Nemčija	LOC	GPE-Germany
+2982	2995	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+3064	3070	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+3143	3145	5G	5G	PRO	PRO-5G
+3179	3185	Huawei	Huawei	ORG	ORG-Huawei
+3312	3318	Huawei	Huawei	ORG	ORG-Huawei
+3360	3363	ZDA	ZDA	LOC	GPE-USA
+3575	3583	Kitajska	Kitajska	LOC	GPE-China
+3619	3626	Nemčije	Nemčija	LOC	GPE-Germany
+3650	3665	Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+3741	3744	ZDA	ZDA	LOC	GPE-USA
+3766	3770	Nata	Nato	ORG	ORG-NATO
+3808	3812	Nata	Nato	ORG	ORG-NATO
+3843	3846	ZDA	ZDA	LOC	GPE-USA
+3918	3929	Washingtona	Washington	LOC	GPE-WashingtonDC
+3956	3976	severovzhodne Sirije	severovzhodna Sirija	LOC	GPE-North-Eastern-Syria
+3983	3986	ZDA	ZDA	LOC	GPE-USA
+4012	4016	Natu	Nato	ORG	ORG-NATO
+4112	4118	Macron	Macron	PER	PER-Emmanuel-Macron
+4173	4177	Nato	Nato	ORG	ORG-NATO
+4194	4197	ZDA	ZDA	LOC	GPE-USA
+4212	4218	Macron	Macron	PER	PER-Emmanuel-Macron
+4255	4261	Evropa	Evropa	LOC	LOC-Europe

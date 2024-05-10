@@ -1,0 +1,46 @@
+76	84	украинцы	Украинцы	PER	GPE-Ukraine
+110	122	коронавируса	Коронавирус	EVT	EVT-Covid-19
+125	132	Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
+148	155	Украине	Украина	LOC	GPE-Ukraine
+192	200	Минздрав	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+253	265	коронавируса	Коронавирус	EVT	EVT-Covid-19
+334	337	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+421	429	COVID-19	COVID-19	EVT	EVT-Covid-19
+450	457	Украине	Украина	LOC	GPE-Ukraine
+555	562	Украины	Украина	LOC	GPE-Ukraine
+563	576	Денис Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
+589	606	Интерфакс-Украина	Интерфакс-Украина	PRO	"PRO-""Интерфакс-Украина"""
+680	687	Украине	Украина	LOC	GPE-Ukraine
+768	775	Украине	Украина	LOC	GPE-Ukraine
+962	969	Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
+995	1002	Украина	Украина	LOC	GPE-Ukraine
+1225	1232	Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
+1264	1274	Минздравом	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+1565	1602	Всемирной организации здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+1653	1666	Денис Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
+1816	1823	Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
+1962	1967	COVAX	COVAX	ORG	ORG-Covax
+2141	2148	Украине	Украина	LOC	GPE-Ukraine
+2204	2211	Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
+2244	2258	Сніданку з 1+1	Сніданок з 1+1	PRO	"PRO-""Breakfast with 1+1"""
+2284	2299	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
+2314	2321	Украине	Украина	LOC	GPE-Ukraine
+2352	2360	COVID-19	COVID-19	EVT	EVT-Covid-19
+2376	2385	китайской	китайской	PER	GPE-China
+2395	2402	Sinovac	Sinovac	PRO	PRO-SinoVac
+2404	2412	Украинцы	Украинцы	PER	GPE-Ukraine
+2433	2435	ЕС	ЕС	ORG	ORG-European-Union
+2452	2457	COVID	COVID-19	EVT	EVT-Covid-19
+2497	2507	китайского	китайский	LOC	GPE-China
+2521	2536	Sinovac Biotech	Sinovac Biotech	PRO	PRO-SinoVac
+2554	2562	Минздрав	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
+2628	2635	Украина	Украина	LOC	GPE-Ukraine
+2726	2738	коронавируса	коронавирус	EVT	EVT-Covid-19
+2757	2764	Украине	Украина	LOC	GPE-Ukraine
+2922	2934	Слуга народа	Слуга народа	ORG	ORG-Servant-Of-People
+3006	3023	Pfizer / BioNTech	Pfizer-BioNTech	PRO	PRO-BioNTech-Vac
+3028	3035	Украине	Украина	LOC	GPE-Ukraine
+3089	3094	COVAX	COVAX	ORG	ORG-Covax
+3120	3129	китайская	китайская	PER	GPE-China
+3150	3157	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+3242	3250	Степанов	Максим Степанов	PER	PER-Maksym-Stepanov

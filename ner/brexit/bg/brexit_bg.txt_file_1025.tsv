@@ -1,0 +1,23 @@
+11	14	Мей	Мей	PER	PER-Theresa-May
+56	63	Брекзит	Брекзит	EVT	EVT-Brexit
+96	106	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+290	306	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+316	331	Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+345	348	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+490	492	ЕС	ЕС	ORG	ORG-European-Union
+505	508	Мей	Мей	PER	PER-Theresa-May
+563	600	Националната служба за здравеопазване	Национална служба за здравеопазване	ORG	ORG-National-Health-Service-UK
+789	797	Брекзита	Брекзит	EVT	EVT-Brexit
+819	829	британците	британци	PER	GPE-Great-Britain
+855	857	ЕС	ЕС	ORG	ORG-European-Union
+883	886	Мей	Мей	PER	PER-Theresa-May
+1123	1126	Мей	Мей	PER	PER-Theresa-May
+1219	1221	ЕС	ЕС	ORG	ORG-European-Union
+1268	1282	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1400	1414	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1541	1555	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1649	1651	ЕС	ЕС	ORG	ORG-European-Union
+1686	1712	Кралския колеж за акушерки	Кралски колеж за акушерки	ORG	ORG-Royal-College-of-Midwives
+1713	1724	Джил Уолтън	Джил Уолтън	PER	PER-Gill-Walton
+1751	1759	Брекзита	Брекзит	EVT	EVT-Brexit
+1817	1825	Брекзита	Брекзит	EVT	EVT-Brexit

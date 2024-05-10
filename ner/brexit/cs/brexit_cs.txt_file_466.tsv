@@ -1,0 +1,18 @@
+10	15	Britů	Britové	PER	GPE-Great-Britain
+29	31	EU	EU	ORG	ORG-European-Union
+35	42	brexitu	brexit	EVT	EVT-Brexit
+71	78	Bruselu	Brusel	LOC	GPE-Brussles
+91	104	Evropské unie	Evropská unie	ORG	ORG-European-Union
+109	115	brexit	brexit	EVT	EVT-Brexit
+116	130	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+144	150	Brusel	Brusel	LOC	GPE-Brussles
+186	193	Londýna	Londýn	LOC	GPE-London
+230	248	Spojené království	Spojené království	LOC	GPE-Great-Britain
+313	326	Evropské rady	Evropská rada	ORG	ORG-European-Council
+327	340	Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+366	373	Londýna	Londýn	LOC	GPE-London
+454	468	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+521	523	EU	EU	ORG	ORG-European-Union
+597	603	Londýn	Londýn	LOC	GPE-London
+699	704	Tuska	Tusk	PER	PER-Donald-Tusk
+707	715	Barniera	Barnier	PER	PER-Michel-Barnier

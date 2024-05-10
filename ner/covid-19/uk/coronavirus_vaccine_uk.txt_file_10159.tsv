@@ -1,0 +1,17 @@
+0	8	Норвегія	Норвегія	LOC	GPE-Norway
+32	37	COVID	COVID	EVT	EVT-Covid-19
+73	90	Корреспондент.net	Корреспондент.net	PRO	PRO-Korrespondent-net
+125	133	COVID-19	COVID-19	EVT	EVT-Covid-19
+189	195	Мадсен	Мадсен	PER	PER-Steinar-Madsen
+366	372	Pfizer	Pfizer	ORG	ORG-Pfizer
+375	383	BioNTech	BioNTech	ORG	ORG-BioNTech
+416	424	Норвегії	Норвегія	LOC	GPE-Norway
+444	453	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+470	513	Норвезьке агентство з лікарських препаратів	Норвезьке агентство з лікарських препаратів	ORG	ORG-Norwegian-Medicines-Agency
+530	538	Норвегії	Норвегія	LOC	GPE-Norway
+690	698	COVID-19	COVID-19	EVT	EVT-Covid-19
+1049	1063	Стейнар Мадсен	Стейнар Мадсен	PER	PER-Steinar-Madsen
+1087	1093	Pfizer	Pfizer	ORG	ORG-Pfizer
+1096	1104	BioNTech	BioNTech	ORG	ORG-BioNTech
+1167	1183	Стейнара Мадсена	Стейнар Мадсен	PER	PER-Steinar-Madsen
+1227	1234	Moderna	Moderna	ORG	ORG-Moderna

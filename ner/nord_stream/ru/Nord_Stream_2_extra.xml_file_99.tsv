@@ -1,0 +1,22 @@
+13	25	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+57	79	«Северного потока — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+81	84	ФРГ	ФРГ	LOC	GPE-Germany
+85	95	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
+155	161	Европе	Европа	LOC	LOC-Europe
+171	174	США	США	LOC	GPE-USA
+188	201	РИА «Новости»	РИА «Новости»	ORG	ORG-RIA-Novosti
+308	315	Украина	Украина	LOC	GPE-Ukraine
+362	382	«Северный поток — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+423	431	Германии	Германия	LOC	GPE-Germany
+434	454	Российской Федерации	Российская Федерация	LOC	GPE-Russia
+474	480	Европы	Европа	LOC	LOC-Europe
+482	486	Маас	Маас	PER	PER-Heiko-Maas
+538	550	Майка Помпео	Майк Помпео	PER	PER-Mike-Pompeo
+565	578	РИА «Новости»	РИА «Новости»	ORG	ORG-RIA-Novosti
+625	647	«Северного потока — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+834	836	RT	RT	ORG	ORG-RT
+865	877	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
+899	908	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1016	1038	«Северного потока — 2»	«Северный поток — 2»	PRO	PRO-Nord-Stream-2
+1108	1118	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+1146	1159	немецкого МИД	немецкий МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Germany

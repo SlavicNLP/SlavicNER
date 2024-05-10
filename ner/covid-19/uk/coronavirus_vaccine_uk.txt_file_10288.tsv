@@ -1,0 +1,25 @@
+0	4	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+20	26	Pfizer	Pfizer	ORG	ORG-Pfizer
+82	86	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+215	222	REUTERS	REUTERS	ORG	ORG-Reuters
+225	263	Всесвітня організація охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+296	302	Pfizer	Pfizer	ORG	ORG-Pfizer
+303	311	BioNTech	BioNTech	ORG	ORG-BioNTech
+384	388	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+508	516	COVID-19	COVID-19	EVT	EVT-Covid-19
+666	673	Франції	Франція	LOC	GPE-France
+675	684	Німеччині	Німеччина	LOC	GPE-Germany
+686	693	Австрії	Австрія	LOC	GPE-Austria
+695	702	Іспанії	Іспанія	LOC	GPE-Spain
+704	710	Італії	Італія	LOC	GPE-Italy
+712	720	Болгарії	Болгарія	LOC	GPE-Bulgaria
+722	727	Чехії	Чехія	LOC	GPE-Czech-Republic
+802	809	України	Україна	LOC	GPE-Ukraine
+810	818	Угорщині	Угорщина	LOC	GPE-Hungary
+835	841	Pfizer	Pfizer	ORG	ORG-Pfizer
+884	893	Коронавак	Коронавак	PRO	PRO-CoronaVac
+928	936	COVID-19	COVID-19	EVT	EVT-Covid-19
+1025	1028	ООС	ООС	EVT	EVT-Join-Forces-Operation-Ukraine
+1055	1062	України	Україна	LOC	GPE-Ukraine
+1082	1087	УНІАН	УНІАН	ORG	ORG-UNIAN
+1090	1098	Telegram	Telegram	PRO	PRO-Telegram

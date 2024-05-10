@@ -1,0 +1,15 @@
+0	3	США	США	LOC	GPE-USA
+44	57	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+60	70	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+169	182	Голос Америки	Голос Америки	ORG	ORG-Voice-of-America
+290	293	CNN	CNN	ORG	ORG-CNN
+323	334	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+395	408	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+437	463	Президентські вибори в США	Президентські вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+496	501	Трамп	Трамп	PER	PER-Donald-Trump
+617	620	США	США	LOC	GPE-USA
+621	631	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+651	654	США	США	LOC	GPE-USA
+963	970	України	Україна	LOC	GPE-Ukraine
+990	995	УНІАН	УНІАН	ORG	ORG-UNIAN
+998	1006	Telegram	Telegram	PRO	PRO-Telegram

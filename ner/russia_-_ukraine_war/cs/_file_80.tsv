@@ -1,0 +1,25 @@
+17	23	Kyjevě	Kyjev	LOC	GPE-Kiev
+58	60	EU	EU	ORG	ORG-European-Union
+65	73	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+78	84	Kyjeva	Kyjev	LOC	GPE-Kiev
+109	115	Polska	Polska	LOC	GPE-Poland
+147	153	Macron	Macron	PER	PER-Emmanuel-Macron
+171	182	Olaf Scholz	Olaf Scholz	PER	PER-Olaf-Scholz
+201	213	Mario Draghi	Mario Draghi	PER	PER-Mario-Draghi
+240	248	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+275	296	vojenské agresi Ruska	vojenská agrese Ruska	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+348	362	Klaus Iohannis	Klaus Iohannis	PER	PER-Klaus-Johannis
+453	455	EU	EU	ORG	ORG-European-Union
+461	469	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+482	500	Elysejského paláce	Elysejský palác	LOC	LOC-Élysée-Palace
+637	645	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+648	657	Moldavsko	Moldavsko	LOC	GPE-Moldova
+786	793	Reuters	Reuters	ORG	ORG-Reuters
+796	802	Itálie	Itálie	LOC	GPE-Italy
+813	821	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+892	905	Evropské rady	Evropská rada	ORG	ORG-European-Council
+1043	1051	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1110	1118	Politico	Politico	PRO	PRO-Politico
+1179	1194	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+1231	1239	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+1254	1256	EU	EU	ORG	ORG-European-Union

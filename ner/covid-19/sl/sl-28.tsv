@@ -1,0 +1,14 @@
+0	2	EU	EU	ORG	ORG-European-Union
+29	38	covidu-19	covid-19	EVT	EVT-Covid-19
+86	88	EU	EU	ORG	ORG-European-Union
+113	163	programa EU za raziskave in inovacije Obzorje 2020	program EU za raziskave in inovacije Obzorje 2020	PRO	PRO-Horizon-2020
+322	341	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+359	366	Bruslja	Bruselj	LOC	GPE-Brussles
+440	452	koronavirusa	koronavirus	EVT	EVT-Covid-19
+520	534	Mariya Gabriel	Mariya Gabriel	PER	PER-Mariya-Gabriel
+542	546	CEPI	CEPI	ORG	ORG-Coalition-for-Epidemic-Preparedness-Innovations
+622	631	covidu-19	covid-19	EVT	EVT-Covid-19
+770	781	koronavirus	koronavirus	EVT	EVT-Covid-19
+815	832	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+833	853	Ursula von den Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+934	945	koronavirus	koronavirus	EVT	EVT-Covid-19

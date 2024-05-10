@@ -1,0 +1,130 @@
+0	15	Александр Кынев	Александр Кынев	PER	PER-Alexandr-Kynev
+39	52	американского	американский	LOC	GPE-USA
+122	137	Александр Кынев	Александр Кынев	PER	PER-Alexandr-Kynev
+161	174	американскими	американский	LOC	GPE-USA
+193	196	США	США	LOC	GPE-USA
+294	307	американского	американский	LOC	GPE-USA
+368	375	Америка	Америка	LOC	GPE-USA
+448	451	США	США	LOC	GPE-USA
+612	623	Альберт Гор	Альберт Гор	PER	PER-Al-Gore
+644	665	Джорджу Бушу-младшему	Джордж Буш-младший	PER	PER-George-Bush-Jr
+830	840	Калифорния	Калифорния	LOC	GPE-California
+843	852	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+874	885	выборы-2016	выборы-2016	EVT	EVT-2016-United-States-Presidential-Election
+886	901	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+904	921	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
+1364	1377	американского	американский	LOC	GPE-USA
+1455	1467	американской	американская	LOC	GPE-USA
+1500	1506	России	Россия	LOC	GPE-Russia
+1553	1563	российская	российская	LOC	GPE-Russia
+1625	1635	российским	российский	LOC	GPE-Russia
+1872	1875	США	США	LOC	GPE-USA
+2026	2029	США	США	LOC	GPE-USA
+2145	2153	Колумбия	Колумбия	LOC	GPE-Colombia
+2195	2209	Центризбиркома	Центризбирком	ORG	ORG-Central-Election-Commission-of-the-Russia
+2234	2268	Федеральная избирательная комиссия	Федеральная избирательная комиссия	ORG	ORG-Federals-Election-Commission
+2419	2448	Election Assistance Comission	Election Assistance Comission	ORG	ORG-Central-Election-Commission-of-the-Russia
+2693	2704	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+2705	2708	США	США	LOC	GPE-USA
+2754	2775	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2845	2864	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+2933	2946	американского	американский	LOC	GPE-USA
+3076	3082	Сенате	Сенат	ORG	ORG-United-States-Senate
+3134	3155	Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+3501	3515	округ Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia
+3540	3549	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+4201	4209	Колумбия	Колумбия	LOC	GPE-Colombia
+4268	4277	Мэриленде	Мэриленд	LOC	GPE-Maryland
+4327	4336	Вирджинии	Вирджиния	LOC	GPE-Virginia
+4416	4426	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+4428	4435	Орегоне	Орегон	LOC	GPE-Oregon
+4438	4446	Колорадо	Колорадо	LOC	GPE-Colorado
+4998	5010	Нью-Гэмпшире	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+5023	5032	Вирджинии	Вирджиния	LOC	GPE-Virginia
+5126	5143	в 2000 на выборах	выборы 2000	EVT	EVT-2000-United-States-Presidential-Election
+5147	5154	Флориде	Флорида	LOC	GPE-Florida
+6337	6350	американского	американский	LOC	GPE-USA
+6529	6541	американская	американская	LOC	GPE-USA
+6664	6672	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+7360	7367	Кеннеди	Кеннеди	PER	PER-John-F-Kennedy
+7377	7386	Иллинойсе	Иллинойс	LOC	GPE-Illinois
+7502	7514	американских	американские	LOC	GPE-USA
+8084	8101	Voting Rights Act	Voting Rights Act	PRO	PRO-Voting-Rights-Act
+8357	8364	Алабама	Алабама	LOC	GPE-USA-Alabama
+8366	8372	Аляска	Аляска	LOC	GPE-Alaska
+8374	8381	Аризона	Аризона	LOC	GPE-Arizona
+8383	8391	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+8393	8401	Луизиана	Луизиана	LOC	GPE-Louisiana
+8403	8412	Миссисипи	Миссисипи	LOC	GPE-Mississippi
+8414	8428	Южная Каролина	Южная Каролина	LOC	GPE-South-Carolina-US-State
+8430	8435	Техас	Техас	LOC	GPE-Texas
+8437	8445	Виргиния	Вирджиния	LOC	GPE-Virginia
+8538	8553	Верховным судом	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+8554	8557	США	США	LOC	GPE-USA
+8590	8596	Калери	Калери	LOC	LOC-Kaleri
+8605	8612	Алабама	Алабама	LOC	GPE-USA-Alabama
+8935	8942	Америка	Америка	LOC	GPE-USA
+9030	9043	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+9321	9338	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+9468	9474	Техасе	Техас	LOC	GPE-Texas
+9800	9811	Конституции	Конституция	PRO	PRO-The-USA-Constitution
+9824	9835	Конституцию	Конституция	PRO	PRO-The-USA-Constitution
+10159	10167	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+10461	10474	«Сухой закон»	Сухой закон	PRO	PRO-Prohibition
+10583	10602	коллегию выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+10906	10909	Мэн	Мэн	LOC	GPE-Maine
+10912	10920	Небраска	Небраска	LOC	GPE-Nebraska
+11559	11571	американскую	американский	LOC	GPE-USA
+11786	11795	демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+11796	11812	Ричарду Джонсону	Ричард Джонсон	PER	PER-Richard-Mentor-Johnson
+11901	11910	Вирджинии	Вирджиния	LOC	GPE-Virginia
+11913	11932	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+12001	12009	Джонсона	Джонсон	PER	PER-Boris-Johnson
+12054	12060	Сенате	Сенат	ORG	ORG-United-States-Senate
+12084	12094	демократов	демократ	ORG	ORG-Democratic-Party-USA
+12247	12259	«План Амара»	План Амара	PRO	PRO-Amar-Plan
+12305	12320	Ахил Рида Амара	Ахил Рид Амар	PER	PER-Akhil-Reed-Amar
+12323	12336	Викрама Амара	Викрам Амар	PER	PER-Vikram-Amar
+12423	12441	коллеги выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+12837	12845	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+13239	13248	демократа	демократ	ORG	ORG-Democratic-Party-USA
+13249	13264	Сэмюэла Тилдена	Сэмюэл Тилден	PER	PER-Samuel-Jones-Tilden
+13288	13301	республиканца	республиканец	ORG	ORG-Republican-Party-USA
+13302	13318	Ратерфорда Хейса	Ратерфорд Хейс	PER	PER-Rutherford-Hayes
+13405	13413	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+13414	13422	демократ	демократ	ORG	ORG-Democratic-Party-USA
+13423	13436	Сэмюэл Тилден	Сэмюэл Тилден	PER	PER-Samuel-Jones-Tilden
+13452	13456	Хейс	Хейс	PER	PER-Rutherford-Hayes
+13481	13493	New York Sun	New York Sun	PRO	PRO-New-York-Sun
+13551	13568	Гражданской войны	Гражданская война	EVT	EVT-USA-Civil-War
+13594	13602	У.Гранта	У. Грант	PER	PER-Hiram-Ulysses-Grant
+13685	13692	Тилдена	Тилден	PER	PER-Samuel-Jones-Tilden
+13694	13708	Южную Каролину	Южная Каролина	LOC	GPE-South-Carolina-US-State
+13710	13717	Флориду	Флорида	LOC	GPE-Florida
+13720	13728	Луизиану	Луизиана	LOC	GPE-Louisiana
+13779	13785	Орегон	Орегон	LOC	GPE-Oregon
+13812	13819	Тилдена	Тилден	PER	PER-Samuel-Jones-Tilden
+13864	13868	Хейс	Хейс	PER	PER-Rutherford-Hayes
+13917	13922	Грант	Грант	PER	PER-Hiram-Ulysses-Grant
+13983	13986	США	США	LOC	GPE-USA
+13989	13998	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+14000	14008	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+14130	14135	Хейса	Хейс	PER	PER-Rutherford-Hayes
+14139	14145	Палата	Палата	ORG	ORG-United-States-House-of-Representatives
+14196	14203	Тилдена	Тилден	PER	PER-Samuel-Jones-Tilden
+14236	14253	Гражданской войны	Гражданская война	EVT	EVT-USA-Civil-War
+14274	14279	Хейса	Хейс	PER	PER-Rutherford-Hayes
+14359	14362	США	США	LOC	GPE-USA
+14400	14404	Хейс	Хейс	PER	PER-Rutherford-Hayes
+14431	14437	Тилден	Тилден	PER	PER-Samuel-Jones-Tilden
+14489	14495	Хейсом	Хейс	PER	PER-Rutherford-Hayes
+14498	14506	Тилденом	Тилден	PER	PER-Samuel-Jones-Tilden
+14589	14602	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+14644	14647	Юга	Юг	LOC	LOC-Southern-States-of-America
+14670	14683	Реконструкции	Реконструкция	EVT	EVT-The-Reconstruction-era
+14870	14881	мексиканцев	мексиканцы	PER	GPE-Mexico
+15212	15225	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+15250	15260	демократов	демократ	ORG	ORG-Democratic-Party-USA
+15271	15280	демократы	демократ	ORG	ORG-Democratic-Party-USA
+15283	15296	республиканцы	республиканец	ORG	ORG-Republican-Party-USA
+15452	15463	выборы 2016	выборы 2016	EVT	EVT-2016-United-States-Presidential-Election

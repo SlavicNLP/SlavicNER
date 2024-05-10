@@ -1,0 +1,114 @@
+0	9	Slovenija	Slovenija	LOC	GPE-Slovenia
+13	16	ZDA	ZDA	LOC	GPE-USA
+53	55	5G	5G	PRO	PRO-5G
+84	94	Anže Logar	Anže Logar	PER	PER-Anže-Logar
+124	135	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+149	154	Bledu	Bled	LOC	LOC-Bled
+191	193	5G	5G	PRO	PRO-5G
+223	232	Slovenija	Slovenija	LOC	GPE-Slovenia
+236	239	ZDA	ZDA	LOC	GPE-USA
+303	305	5G	5G	PRO	PRO-5G
+525	528	MZZ	MZZ	ORG	ORG-Ministry-of-foreign-affairs-Slovenia
+661	682	Londonski deklaraciji	Londonska deklaracija	PRO	PRO-The-London-Declaration-2019
+689	693	Nato	Nato	ORG	ORG-NATO
+823	825	5G	5G	PRO	PRO-5G
+952	966	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1272	1293	Beli knjigi o obrambi	Bela knjiga o obrambi	PRO	PRO-White-book-on-defense-of-Republic-of-Slovenia
+1335	1344	Slovenije	Slovenija	LOC	GPE-Slovenia
+1553	1559	Huawei	Huawei	ORG	ORG-Huawei
+1597	1605	Kitajsko	Kitajska	LOC	GPE-China
+1610	1618	Huaweiju	Huawei	ORG	ORG-Huawei
+1664	1674	Washington	Washington	LOC	GPE-WashingtonDC
+1919	1925	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+1971	1980	Sloveniji	Slovenija	LOC	GPE-Slovenia
+2026	2034	Logarjem	Logar	PER	PER-Bert-Logar
+2054	2068	J anezom Janšo	Janez Janša	PER	PER-Janez-Janša
+2130	2146	Borutom Pahorjem	Borut Pahor	PER	PER-Borut-Pahor
+2150	2159	Slovenija	Slovenija	LOC	GPE-Slovenia
+2223	2230	Srednji	Srednji	LOC	LOC-Central-Europe
+2234	2248	Vzhodni Evropi	Vzhodna Evrop	LOC	LOC-Eastern-Europe
+2317	2325	Kitajsko	Kitajska	LOC	GPE-China
+2351	2357	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+2389	2394	Češko	Češka	LOC	GPE-Czech-Republic
+2420	2428	Avstrijo	Avstrija	LOC	GPE-Austria
+2435	2442	Poljsko	Poljska	LOC	GPE-Poland
+2445	2451	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+2455	2460	Janša	Janša	PER	PER-Janez-Janša
+2523	2534	Janez Janša	Janez Janša	PER	PER-Janez-Janša
+2584	2595	Mike Pompeo	Mike Pompeo	PER	PER-Mike-Pompeo
+2609	2614	Bledu	Bled	LOC	LOC-Bled
+2709	2715	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+2801	2810	Slovenijo	Slovenija	LOC	GPE-Slovenia
+2814	2817	ZDA	ZDA	LOC	GPE-USA
+2828	2833	Janša	Janša	PER	PER-Janez-Janša
+2918	2921	ZDA	ZDA	LOC	GPE-USA
+2945	2951	Rusije	Rusija	LOC	GPE-Russia
+2955	2963	Kitajske	Kitajska	LOC	GPE-China
+2966	2969	ZDA	ZDA	LOC	GPE-USA
+3097	3100	ZDA	ZDA	LOC	GPE-USA
+3360	3365	Janša	Janša	PER	PER-Janez-Janša
+3368	3371	ZDA	ZDA	LOC	GPE-USA
+3430	3439	Slovencev	Slovenci	PER	GPE-Slovenia
+3516	3521	Janša	Janša	PER	PER-Janez-Janša
+3539	3545	Pompea	Pompeo	PER	PER-Mike-Pompeo
+3568	3571	ZDA	ZDA	LOC	GPE-USA
+3572	3586	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+3862	3867	Janša	Janša	PER	PER-Janez-Janša
+3870	3876	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+4099	4105	Rusiji	Rusija	LOC	GPE-Russia
+4132	4137	Janša	Janša	PER	PER-Janez-Janša
+4141	4147	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+4190	4209	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+4224	4229	Janša	Janša	PER	PER-Janez-Janša
+4252	4255	ZDA	ZDA	LOC	GPE-USA
+4295	4304	covida-19	covid-19	EVT	EVT-Covid-19
+4392	4398	Evropo	Evropa	LOC	LOC-Europe
+4402	4405	ZDA	ZDA	LOC	GPE-USA
+4409	4415	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+4433	4442	Slovenijo	Slovenija	LOC	GPE-Slovenia
+4524	4528	Nato	Nato	ORG	ORG-NATO
+4530	4535	Janša	Janša	PER	PER-Janez-Janša
+4563	4572	Slovenija	Slovenija	LOC	GPE-Slovenia
+4677	4686	Slovenija	Slovenija	LOC	GPE-Slovenia
+4689	4693	Natu	Nato	ORG	ORG-NATO
+4759	4764	Janša	Janša	PER	PER-Janez-Janša
+4781	4790	Slovenija	Slovenija	LOC	GPE-Slovenia
+4933	4941	Svetu EU	Svet EU	ORG	ORG-EU-Council
+5136	5142	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+5152	5157	Bledu	Bled	LOC	LOC-Bled
+5190	5206	Anžetom Logarjem	Anže Logar	PER	PER-Anže-Logar
+5249	5251	5G	5G	PRO	PRO-5G
+5333	5339	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+5471	5477	Huawei	Huawei	ORG	ORG-Huawei
+5582	5587	Janšo	Janša	PER	PER-Janez-Janša
+5589	5595	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+5637	5645	Kitajsko	Kitajska	LOC	GPE-China
+5769	5778	Slovenija	Slovenija	LOC	GPE-Slovenia
+5780	5782	5G	5G	PRO	PRO-5G
+5917	5923	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+5932	5937	Janšo	Janša	PER	PER-Janez-Janša
+5986	5991	Janša	Janša	PER	PER-Janez-Janša
+6013	6016	ZDA	ZDA	LOC	GPE-USA
+6059	6068	Sloveniji	Slovenija	LOC	GPE-Slovenia
+6177	6183	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+6336	6339	ZDA	ZDA	LOC	GPE-USA
+6401	6406	Janšo	Janša	PER	PER-Janez-Janša
+6423	6440	Pobudo treh morij	Pobuda treh morij	PRO	PRO-Three-Seas-Initiative
+6481	6484	ZDA	ZDA	LOC	GPE-USA
+6531	6537	Pompea	Pompeo	PER	PER-Mike-Pompeo
+6642	6648	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+6720	6736	Zahodnem Balkanu	Zahodni Balkan	LOC	LOC-Western-Balkans
+6769	6772	ZDA	ZDA	LOC	GPE-USA
+6870	6880	Belorusiji	Belorusija	LOC	GPE-Belarus
+6943	6948	Janša	Janša	PER	PER-Janez-Janša
+7054	7063	Slovenija	Slovenija	LOC	GPE-Slovenia
+7085	7087	EU	EU	ORG	ORG-European-Union
+7127	7147	Aleksandra Lukašenka	Aleksander Lukašenko	PER	PER-Alexander-Lukashenko
+7171	7177	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+7237	7242	Trump	Trump	PER	PER-Donald-Trump
+7267	7276	Slovenijo	Slovenija	LOC	GPE-Slovenia
+7285	7290	Trump	Trump	PER	PER-Donald-Trump
+7383	7389	Pompeo	Pompeo	PER	PER-Mike-Pompeo
+7460	7470	Washington	Washington	LOC	GPE-WashingtonDC
+7501	7506	Dunaj	Dunaj	LOC	GPE-Vienna
+7510	7517	Varšavo	Varšava	LOC	GPE-Warsaw

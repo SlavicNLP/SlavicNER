@@ -1,0 +1,81 @@
+16	23	Скрипал	Скрипал	PER	PER-Siergiej-Skripal
+39	47	Брекзита	Брекзит	EVT	EVT-Brexit
+96	106	британците	британци	PER	GPE-Great-Britain
+110	117	Брекзит	Брекзит	EVT	EVT-Brexit
+199	206	Скрипал	Скрипал	PER	PER-Siergiej-Skripal
+296	308	Антъни Глийс	Антъни Глийс	PER	PER-Anthony-Glees
+350	358	Германия	Германия	LOC	GPE-Germany
+403	413	британците	британци	PER	GPE-Great-Britain
+431	438	Брекзит	Брекзит	EVT	EVT-Brexit
+459	473	Волфган Шойбле	Волфган Шойбле	PER	PER-Wolfgang-Schauble
+523	528	Функе	Функе	ORG	ORG-Funke
+607	621	Сергей Скрипал	Сергей Скрипал	PER	PER-Siergiej-Skripal
+637	647	британците	британци	PER	GPE-Great-Britain
+750	756	Европа	Европа	LOC	LOC-Europe
+900	914	Сергей Скрипал	Сергей Скрипал	PER	PER-Siergiej-Skripal
+942	952	британците	британци	PER	GPE-Great-Britain
+1000	1008	Брекзита	Брекзит	EVT	EVT-Brexit
+1110	1132	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+1156	1170	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1200	1215	Волфганг Шойбле	Волфганг Шойбле	PER	PER-Wolfgang-Schauble
+1262	1274	Антъни Глийс	Антъни Глийс	PER	PER-Anthony-Glees
+1295	1303	британци	британци	PER	GPE-Great-Britain
+1330	1332	ЕС	ЕС	ORG	ORG-European-Union
+1356	1365	Брекзитът	Брекзит	EVT	EVT-Brexit
+1439	1444	Глийс	Глийс	PER	PER-Anthony-Glees
+1476	1483	Брекзит	Брекзит	EVT	EVT-Brexit
+1537	1551	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1727	1737	Британците	британци	PER	GPE-Great-Britain
+1960	1982	Втората световна война	Втора световна война	EVT	EVT-World-War-II
+2015	2021	Англия	Англия	LOC	GPE-England
+2030	2042	Антъни Глийс	Антъни Глийс	PER	PER-Anthony-Glees
+2126	2131	Русия	Русия	LOC	GPE-Russia
+2142	2149	Скрипал	Скрипал	PER	PER-Siergiej-Skripal
+2216	2220	Юлия	Юлия	PER	PER-Yulia-Skripal
+2286	2292	Лондон	Лондон	LOC	GPE-London
+2302	2307	Русия	Русия	LOC	GPE-Russia
+2422	2427	Русия	Русия	LOC	GPE-Russia
+2439	2445	Лондон	Лондон	LOC	GPE-London
+2586	2600	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2632	2641	Атлантика	Атлантика	LOC	LOC-Atlantic-Ocean
+2686	2692	Европа	Европа	LOC	LOC-Europe
+2701	2706	Глийс	Глийс	PER	PER-Anthony-Glees
+2729	2736	Скрипал	Скрипал	PER	PER-Siergiej-Skripal
+2757	2765	Брекзита	Брекзит	EVT	EVT-Brexit
+2812	2818	Европа	Европа	LOC	LOC-Europe
+2850	2852	ЕС	ЕС	ORG	ORG-European-Union
+3030	3032	ЕС	ЕС	ORG	ORG-European-Union
+3045	3059	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3094	3101	Европол	Европол	ORG	ORG-Europol
+3208	3218	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3316	3328	Антъни Глийс	Антъни Глийс	PER	PER-Anthony-Glees
+3420	3427	Брекзит	Брекзит	EVT	EVT-Brexit
+3428	3438	британците	британци	PER	GPE-Great-Britain
+3476	3482	Европа	Европа	LOC	LOC-Europe
+3509	3519	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3541	3555	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3567	3569	ЕС	ЕС	ORG	ORG-European-Union
+3705	3725	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+3728	3730	ЕС	ЕС	ORG	ORG-European-Union
+3736	3744	Брекзита	Брекзит	EVT	EVT-Brexit
+3833	3841	Брекзита	Брекзит	EVT	EVT-Brexit
+3934	3936	ЕС	ЕС	ORG	ORG-European-Union
+4002	4012	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4145	4155	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4190	4202	Антъни Глийс	Антъни Глийс	PER	PER-Anthony-Glees
+4212	4219	Скрипал	Скрипал	PER	PER-Siergiej-Skripal
+4303	4311	британци	британци	PER	GPE-Great-Britain
+4327	4332	Путин	Путин	PER	PER-Vladimir-Putin
+4345	4352	Брекзит	Брекзит	EVT	EVT-Brexit
+4374	4376	ЕС	ЕС	ORG	ORG-European-Union
+4416	4426	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4447	4452	Путин	Путин	PER	PER-Vladimir-Putin
+4540	4548	Солсбъри	Солсбъри	LOC	GPE-Salisbury
+4615	4618	Мей	Мей	PER	PER-Theresa-May
+4661	4675	Гевин Уилямсън	Гевин Уилямсън	PER	PER-Gavin-Williamson
+4683	4689	Кремъл	Кремъл	LOC	LOC-Kremlin
+4779	4787	Телеграф	Телеграф	PRO	PRO-The-Daily-Telegraph
+4802	4807	Путин	Путин	PER	PER-Vladimir-Putin
+4844	4850	Москва	Москва	LOC	GPE-Moscow
+4889	4891	ЕС	ЕС	ORG	ORG-European-Union
+4930	4939	Брекзитът	Брекзит	EVT	EVT-Brexit

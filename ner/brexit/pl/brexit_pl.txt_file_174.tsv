@@ -1,0 +1,60 @@
+1	10	The Times	The Times	PRO	PRO-The-Times
+45	53	Brexicie	Brexit	EVT	EVT-Brexit
+71	83	Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+96	102	Brexit	Brexit	EVT	EVT-Brexit
+108	123	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+135	139	Unii	Unia	ORG	ORG-European-Union
+165	182	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+198	213	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+283	294	Alex Barker	Alex Barker	PER	PER-Alex-Barker
+309	325	Financial Timesa	Financial Times	PRO	PRO-Financial-Times
+389	409	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+513	517	Unii	Unia	ORG	ORG-European-Union
+839	851	Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+861	869	Brexicie	Brexit	EVT	EVT-Brexit
+964	971	Brexitu	Brexit	EVT	EVT-Brexit
+1154	1169	Davida Camerona	David Cameron	PER	PER-David-Cameron
+1242	1257	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+1291	1308	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1331	1333	UE	UE	ORG	ORG-European-Union
+1441	1448	Francji	Francja	LOC	GPE-France
+1451	1458	Niemiec	Niemcy	LOC	GPE-Germany
+1531	1539	Londynem	Londyn	LOC	GPE-London
+1542	1550	Brukselą	Brukselq	LOC	GPE-Brussles
+1634	1651	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1654	1656	UE	UE	ORG	ORG-European-Union
+1757	1763	Europy	Europa	LOC	LOC-Europe
+1817	1829	Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+1837	1842	tvn24	TVN24	PRO	PRO-TVN24
+1843	1854	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1878	1880	UE	UE	ORG	ORG-European-Union
+1909	1920	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1957	1974	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2115	2117	UE	UE	ORG	ORG-European-Union
+2126	2138	Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+2146	2155	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2185	2194	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2229	2238	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2329	2346	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2359	2368	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2372	2378	Faktów	Fakty	PRO	PRO-Fakty
+2380	2383	TVN	TVN	PRO	PRO-TVN
+2443	2455	Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+2463	2468	TVN24	TVN24	PRO	PRO-TVN24
+2470	2477	Reuters	Reuters	ORG	ORG-Reuters
+2478	2484	Polacy	Polacy	PER	GPE-Poland
+2494	2501	Brexitu	Brexit	EVT	EVT-Brexit
+2535	2552	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2559	2574	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+2623	2630	Wyspach	Wyspy	LOC	GPE-Great-Britain
+2737	2744	Brexitu	Brexit	EVT	EVT-Brexit
+2765	2777	Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+2785	2794	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+2814	2817	USA	USA	LOC	GPE-USA
+2839	2846	Brexitu	Brexit	EVT	EVT-Brexit
+2871	2878	Brexitu	Brexit	EVT	EVT-Brexit
+2925	2929	Unia	Unia	ORG	ORG-European-Union
+2964	2974	24 godziny	24 godziny	PRO	PRO-24-godziny
+2978	2987	TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+3018	3036	Andrzej Olechowski	Andrzej Olechowski	PER	PER-Andrzej-Olechowski
+3178	3195	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

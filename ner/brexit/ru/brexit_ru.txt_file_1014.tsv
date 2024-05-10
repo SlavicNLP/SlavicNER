@@ -1,0 +1,31 @@
+25	33	Захарова	Захарова	PER	PER-Maria-Zaharova
+61	69	Джонсона	Джонсон	PER	PER-Boris-Johnson
+80	95	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+157	171	Великобритании	Великобритания	LOC	GPE-Great-Britain
+207	217	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+218	232	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+248	254	Москва	Москва	LOC	GPE-Moscow
+346	356	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+386	396	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+397	411	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+464	478	Великобритании	Великобритания	LOC	GPE-Great-Britain
+479	494	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+598	606	Захарова	Захарова	PER	PER-Maria-Zaharova
+622	628	Москва	Москва	LOC	GPE-Moscow
+676	685	Скрипалей	Скрипаль	PER	PER-Yulia-Skripal
+725	735	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+768	774	Кремля	Кремль	ORG	ORG-Kremlin
+794	808	Великобритании	Великобритания	LOC	GPE-Great-Britain
+823	837	Великобритании	Великобритания	LOC	GPE-Great-Britain
+841	848	Новичок	Новичок	PRO	PRO-Novichok
+851	858	ЧМ-2018	ЧМ-2018	EVT	EVT-FIFA-World-Cup-2018
+965	973	Эймсбери	Эймсбери	LOC	LOC-Amesbury
+1100	1108	Скрипали	Скрипаль	PER	PER-Skripals
+1198	1212	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+1265	1279	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1280	1293	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1396	1402	Brexit	Brexit	EVT	EVT-Brexit
+1403	1414	Дэвис Дэвис	Дэвис Дэвис	PER	PER-David-Davis
+1487	1494	Лондона	Лондон	LOC	GPE-London
+1497	1505	Брюсселя	Брюссель	LOC	GPE-Brussles
+1534	1543	Евросоюза	Евросоюз	ORG	ORG-European-Union

@@ -1,0 +1,60 @@
+0	12	The Guardian	The Guardian	PRO	PRO-The-Guardian
+41	55	консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+74	80	Лондон	Лондон	LOC	GPE-London
+119	135	Майкъл Хезълтайн	Майкъл Хезълтайн	PER	PER-Michael-Haseltine
+180	190	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+263	279	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+318	330	The Guardian	The Guardian	PRO	PRO-The-Guardian
+381	384	Мей	Мей	PER	PER-Theresa-May
+439	448	Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+509	523	Великобритания	Великобритания	LOC	GPE-Great-Britain
+531	533	ЕС	ЕС	ORG	ORG-European-Union
+579	588	Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+610	618	Observer	Observer	PRO	PRO-The-Observer
+631	643	The Guardian	The Guardian	PRO	PRO-The-Guardian
+704	718	Великобритания	Великобритания	LOC	GPE-Great-Britain
+755	757	ЕС	ЕС	ORG	ORG-European-Union
+979	989	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1009	1011	ЕС	ЕС	ORG	ORG-European-Union
+1484	1490	Европа	Европа	LOC	LOC-Europe
+1540	1548	Ирландия	Ирландия	LOC	GPE-Ireland
+1573	1583	Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+1586	1598	Джон Мейджър	Джон Мейджър	PER	PER-John-Major
+1708	1717	Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+1738	1750	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+1889	1918	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+1921	1928	Брюксел	Брюксел	LOC	GPE-Brussles
+1971	1981	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2025	2027	ЕС	ЕС	ORG	ORG-European-Union
+2044	2051	Брюксел	Брюксел	LOC	GPE-Brussles
+2127	2134	Брекзит	Брекзит	EVT	EVT-Brexit
+2135	2147	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+2238	2252	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2257	2263	Европа	Европа	LOC	LOC-Europe
+2270	2282	The Guardian	The Guardian	PRO	PRO-The-Guardian
+2415	2423	Ирландия	Ирландия	LOC	GPE-Ireland
+2426	2428	ЕС	ЕС	ORG	ORG-European-Union
+2465	2476	Алеш Шмелар	Алеш Шмелар	PER	PER-Ales-Chmelar
+2556	2570	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2629	2637	Норвегия	Норвегия	LOC	GPE-Norway
+2660	2662	ЕС	ЕС	ORG	ORG-European-Union
+2694	2700	Канада	Канада	LOC	GPE-Canada
+2745	2759	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2776	2784	Норвегия	Норвегия	LOC	GPE-Norway
+2803	2809	Канада	Канада	LOC	GPE-Canada
+2834	2837	Мей	Мей	PER	PER-Theresa-May
+2838	2852	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2898	2900	ЕС	ЕС	ORG	ORG-European-Union
+2906	2953	Европейската агенция за сигурността на полетите	Европейска агенция за сигурността на полетите	ORG	ORG-EASA-European-Aviation-Safety-Agency
+2975	2977	ЕС	ЕС	ORG	ORG-European-Union
+3030	3051	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+3055	3062	Брекзит	Брекзит	EVT	EVT-Brexit
+3063	3076	Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+3078	3088	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3274	3281	Брекзит	Брекзит	EVT	EVT-Brexit
+3309	3322	Манфред Вебер	Манфред Вебер	PER	PER-Manfred-Weber
+3350	3353	ЕНП	ЕНП	ORG	ORG-EPP
+3356	3358	ЕП	ЕП	ORG	ORG-European-Parliament
+3402	3412	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3456	3463	Брекзит	Брекзит	EVT	EVT-Brexit
+3574	3589	Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov

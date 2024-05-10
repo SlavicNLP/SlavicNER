@@ -1,0 +1,26 @@
+29	35	Sussex	Sussex	LOC	GPE-Sussex
+47	62	Januszem Siborą	Janusz Sibora	PER	PER-Janusz-Sibora
+124	138	Rzeczpospolita	Rzeczpospolita	PRO	PRO-Rzeczpospolita
+181	186	Harry	Harry	PER	PER-Prince-Harry
+196	209	Meghan Markle	Meghan Markle	PER	PER-Meghan-Markle-Duchess-of-Sussex
+293	306	Janusz Sibora	Janusz Sibora	PER	PER-Janusz-Sibora
+405	412	Chicago	Chicago	LOC	GPE-Chicago
+669	682	Meghan Markle	Meghan Markle	PER	PER-Meghan-Markle-Duchess-of-Sussex
+747	764	Wspólnoty Narodów	Wspólnota Narodów	ORG	ORG-The-Commonwealth
+777	784	brexitu	Brexit	EVT	EVT-Brexit
+823	838	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+881	898	Wspólnoty Narodów	Wspólnota Narodów	ORG	ORG-The-Commonwealth
+946	948	UE	UE	ORG	ORG-European-Union
+1124	1132	Londynie	Londyn	LOC	GPE-London
+1184	1201	Wspólnoty Narodów	Wspólnota Narodów	ORG	ORG-The-Commonwealth
+1246	1251	Karol	Karol	PER	PER-Charles-Prince-of-Wales
+1385	1403	Wspólnocie Narodów	Wspólnota Narodów	ORG	ORG-The-Commonwealth
+1543	1560	Wspólnoty Narodów	Wspólnota Narodów	ORG	ORG-The-Commonwealth
+1663	1680	Wspólnotę Narodów	Wspólnota Narodów	ORG	ORG-The-Commonwealth
+1761	1766	Cypru	Cypr	LOC	GPE-Cyprus
+1769	1774	Malty	Malta	LOC	GPE-Malta
+1776	1781	Indii	India	LOC	GPE-India
+1783	1792	Pakistanu	Pakistan	LOC	GPE-Pakistan
+1794	1803	Sri Lanki	Sri Lanka	LOC	GPE-Sri-Lanka
+1806	1809	RPA	RPA	LOC	GPE-RPA
+1915	1930	Łukasz Lubański	Łukasz Lubański	PER	PER-Łukasz-Dominiak

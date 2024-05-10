@@ -1,0 +1,39 @@
+0	6	Macron	Macron	PER	PER-Emmanuel-Macron
+8	16	Francuzi	Francuzi	PER	GPE-France
+28	30	UE	UE	ORG	ORG-European-Union
+94	96	UE	UE	ORG	ORG-European-Union
+170	177	brexitu	Brexit	EVT	EVT-Brexit
+180	197	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+211	217	Macron	Macron	PER	PER-Emmanuel-Macron
+234	237	BBC	BBC	PRO	PRO-BBC
+278	292	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+348	359	Theresę May	Theresa May	PER	PER-Theresa-May
+424	441	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+443	449	Macron	Macron	PER	PER-Emmanuel-Macron
+491	508	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+556	567	Theresą May	Theresa May	PER	PER-Theresa-May
+579	586	Francji	Francja	LOC	GPE-France
+602	617	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+665	672	brexitu	Brexit	EVT	EVT-Brexit
+752	758	Macron	Macron	PER	PER-Emmanuel-Macron
+789	804	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+813	819	brexit	Brexit	EVT	EVT-Brexit
+835	843	Francuzi	Francuzi	PER	GPE-France
+874	876	UE	UE	ORG	ORG-European-Union
+1117	1123	Macron	Macron	PER	PER-Emmanuel-Macron
+1259	1265	Macron	Macron	PER	PER-Emmanuel-Macron
+1293	1310	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1313	1321	Brukselą	Bruksela	LOC	GPE-Brussles
+1418	1435	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1682	1690	Norwegią	Norwegia	LOC	GPE-Norway
+1712	1718	Kanadą	Kanada	LOC	GPE-Canada
+1881	1898	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1924	1931	brexitu	Brexit	EVT	EVT-Brexit
+1943	1950	Francji	Francja	LOC	GPE-France
+1986	1998	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+2028	2033	Haiti	Haiti	LOC	GPE-Haiti
+2284	2293	Twitterze	Twitter	PRO	PRO-Twitter
+2422	2428	Macron	Macron	PER	PER-Emmanuel-Macron
+2446	2452	Trumpa	Trump	PER	PER-Donald-Trump
+2534	2537	USA	USA	LOC	GPE-USA
+2708	2715	Francji	Francja	LOC	GPE-France

@@ -1,0 +1,19 @@
+0	6	Europa	Europa	LOC	LOC-Europe
+56	73	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+95	102	brexitu	Brexit	EVT	EVT-Brexit
+103	120	Parlament Szkocji	Parlament Szkocji	ORG	ORG-British-Parlament
+164	181	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+184	186	UE	UE	ORG	ORG-European-Union
+281	304	Szkocką Partią Narodową	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+370	378	Londynem	Londyn	LOC	GPE-London
+423	431	brexicie	Brexit	EVT	EVT-Brexit
+513	521	Brukseli	Bruksela	LOC	GPE-Brussles
+525	532	Londynu	Londyn	LOC	GPE-London
+544	553	Edynburga	Edynburg	LOC	GPE-Edinburgh
+555	563	Norwegia	Norwegia	LOC	GPE-Norway
+575	596	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+599	602	EOG	EOG	ORG	ORG-EEA-European-Economic-Area
+611	623	Erna Solberg	Erna Solberg	PER	PER-Erna-Solberg
+640	648	Norwegia	Norwegia	LOC	GPE-Norway
+675	692	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+696	717	Europejskiego Obszaru	Europejski Obszar	ORG	ORG-EEA-European-Economic-Area

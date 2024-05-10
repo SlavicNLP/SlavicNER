@@ -1,0 +1,17 @@
+13	29	британского МИДа	британский МИД	ORG	ORG-Foreign-Office
+59	71	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+103	117	Великобритании	Великобритания	LOC	GPE-Great-Britain
+145	160	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+167	179	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+199	203	Хант	Хант	PER	PER-Jeremy-Hunt
+353	366	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+386	390	МИДа	МИД	ORG	ORG-Foreign-Office
+422	430	Брекзита	Брекзит	EVT	EVT-Brexit
+550	552	ЕС	ЕС	ORG	ORG-European-Union
+554	561	Джонсон	Джонсон	PER	PER-Boris-Johnson
+606	615	Евросоюза	Евросоюз	ORG	ORG-European-Union
+643	649	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+650	664	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+692	707	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+743	761	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+808	832	правительства Терезы Мэй	правительство Терезы Мэй	ORG	ORG-the-UK-Government

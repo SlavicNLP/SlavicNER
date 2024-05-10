@@ -1,0 +1,63 @@
+9	12	США	США	LOC	GPE-USA
+43	50	Moderna	Moderna	ORG	ORG-Moderna
+68	80	коронавірусу	коронавірус	EVT	EVT-Covid-19
+111	118	Moderna	Moderna	ORG	ORG-Moderna
+238	241	США	США	LOC	GPE-USA
+258	330	Управління з санітарного нагляду за якістю продовольства та медикаментів	Управління з санітарного нагляду за якістю продовольства та медикаментів	ORG	ORG-FDA-Food-and-Drug-Administration
+331	334	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+336	339	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+408	415	Moderna	Moderna	ORG	ORG-Moderna
+424	433	mRNA-1237	mRNA-1237	PRO	PRO-mRNA-1237
+438	446	COVID-19	COVID-19	EVT	EVT-Covid-19
+498	501	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+673	676	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+806	813	Moderna	Moderna	ORG	ORG-Moderna
+877	880	США	США	LOC	GPE-USA
+1050	1053	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+1102	1109	Moderna	Moderna	ORG	ORG-Moderna
+1274	1288	паралічу Белла	параліч Белла	EVT	EVT-Bell's-palsy
+1455	1458	США	США	LOC	GPE-USA
+1648	1655	Moderna	Moderna	ORG	ORG-Moderna
+1714	1722	COVID-19	COVID-19	EVT	EVT-Covid-19
+1747	1756	mRNA-1237	mRNA-1237	PRO	PRO-mRNA-1237
+1775	1781	Pfizer	Pfizer	ORG	ORG-Pfizer
+1785	1793	BioNTech	BioNTech	ORG	ORG-BioNTech
+1914	1922	COVID-19	COVID-19	EVT	EVT-Covid-19
+2058	2066	Цельсієм	Цельсій	PER	PER-Celsius
+2118	2126	Цельсієм	Цельсій	PER	PER-Celsius
+2188	2191	США	США	LOC	GPE-USA
+2226	2234	COVID-19	COVID-19	EVT	EVT-Covid-19
+2291	2297	Алясці	Аляска	LOC	GPE-Alaska
+2333	2350	лікарні Бартлетта	лікарня Бартлетта	ORG	ORG-Bartlett-Regional-Hospital
+2352	2355	BRH	BRH	ORG	ORG-Bartlett-Regional-Hospital
+2365	2370	Джуно	Джуно	LOC	LOC-Juneau-Alaska
+2459	2465	Pfizer	Pfizer	ORG	ORG-Pfizer
+2469	2477	BioNTech	BioNTech	ORG	ORG-BioNTech
+2490	2502	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2559	2562	США	США	LOC	GPE-USA
+2564	2580	Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+2582	2590	Бахрейні	Бахрейн	LOC	GPE-Kingdom-of-Bahrain
+2592	2598	Канаді	Канада	LOC	GPE-Canada
+2600	2618	Саудівській Аравії	Саудівська Аравія	LOC	GPE-Saudi-Arabia
+2622	2629	Мексиці	Мексика	LOC	GPE-Mexico
+2654	2660	Канада	Канада	LOC	GPE-Canada
+2728	2736	COVID-19	COVID-19	EVT	EVT-Covid-19
+2778	2790	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2802	2844	Європейське агентство з лікарських засобів	Європейське агентство з лікарських засобів	ORG	ORG-EMA-European-Medicines-Agency
+2846	2849	EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+2880	2899	Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+2949	2955	Pfizer	Pfizer	ORG	ORG-Pfizer
+2959	2967	BioNTech	BioNTech	ORG	ORG-BioNTech
+2981	2991	Угур Шахін	Угур Шахін	PER	PER-Ugur-Sahin
+3021	3029	BioNTech	BioNTech	ORG	ORG-BioNTech
+3070	3076	Pfizer	Pfizer	ORG	ORG-Pfizer
+3099	3111	коронавірусу	коронавірус	EVT	EVT-Covid-19
+3161	3178	пандемію COVID-19	пандемія COVID-19	EVT	EVT-Covid-19
+3290	3296	Польща	Польща	LOC	GPE-Poland
+3444	3450	Італію	Італія	LOC	GPE-Italy
+3607	3609	ЄС	ЄС	LOC	ORG-European-Union
+3654	3661	України	Україна	LOC	GPE-Ukraine
+3724	3736	коронавірусу	коронавірус	EVT	EVT-Covid-19
+3739	3745	Європі	Європа	LOC	LOC-Europe
+3775	3786	Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+3829	3831	ЄС	ЄС	LOC	ORG-European-Union

@@ -1,0 +1,36 @@
+20	26	Англии	Англия	LOC	GPE-Great-Britain
+30	32	ЕС	ЕС	ORG	ORG-European-Union
+49	59	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+93	99	Англии	Англия	LOC	GPE-Great-Britain
+112	122	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+181	184	Мэй	Мэй	PER	PER-Theresa-May
+256	263	Меркель	Меркель	PER	PER-Angela-Merkel
+266	269	Мэй	Мэй	PER	PER-Theresa-May
+297	304	Меркель	Меркель	PER	PER-Angela-Merkel
+539	546	Лондона	Лондон	LOC	GPE-London
+550	556	Brexit	Brexit	EVT	EVT-Brexit
+574	577	Мэй	Мэй	PER	PER-Theresa-May
+606	627	Консервативной партии	Консервативная партии	ORG	ORG-Conservative-and-Unionist-Party-UK
+681	686	Туска	Туск	PER	PER-Donald-Tusk
+700	703	Мэй	Мэй	PER	PER-Theresa-May
+732	734	ЕС	ЕС	ORG	ORG-European-Union
+820	830	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+886	892	Brexit	Brexit	EVT	EVT-Brexit
+923	941	Северной Ирландией	Северная Ирландия	LOC	GPE-Northern-Ireland
+944	953	Ирландией	Ирландия	LOC	GPE-Ireland
+1013	1015	ЕС	ЕС	ORG	ORG-European-Union
+1041	1051	«Брексите»	Брексит	EVT	EVT-Brexit
+1076	1083	Reuters	Reuters	ORG	ORG-Reuters
+1172	1175	Мэй	Мэй	PER	PER-Theresa-May
+1231	1237	Англии	Англия	LOC	GPE-Great-Britain
+1259	1269	Зальцбурге	Зальцбург	LOC	GPE-Salzburg
+1422	1436	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1440	1442	ЕС	ЕС	ORG	ORG-European-Union
+1478	1485	Лондону	Лондон	LOC	GPE-London
+1488	1496	Брюсселю	Брюссель	LOC	GPE-Brussles
+1537	1547	«Брекзита»	Брекзит	EVT	EVT-Brexit
+1631	1633	ЕС	ЕС	ORG	ORG-European-Union
+1708	1721	Мишелю Барнье	Мишель Барнье	PER	PER-Michel-Barnier
+1809	1811	ЕС	ЕС	ORG	ORG-European-Union
+1855	1862	Лондона	Лондон	LOC	GPE-London
+2055	2057	ЕС	ЕС	ORG	ORG-European-Union

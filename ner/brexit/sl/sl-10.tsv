@@ -1,0 +1,37 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+26	32	brexit	brexit	EVT	EVT-Brexit
+48	50	EU	EU	ORG	ORG-European-Union
+75	81	Brexit	Brexit	EVT	EVT-Brexit
+101	107	brexit	brexit	EVT	EVT-Brexit
+123	125	EU	EU	ORG	ORG-European-Union
+160	171	Theresa May	Theresa May	PER	PER-Theresa-May
+213	221	torijcev	torijec	PER	ORG-Conservative-and-Unionist-Party-UK
+319	329	laburistov	laburist	PER	ORG-Labour-Party-UK
+330	345	Jeremya Corbyna	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+378	384	brexit	brexit	EVT	EVT-Brexit
+456	462	brexit	brexit	EVT	EVT-Brexit
+503	505	EU	EU	ORG	ORG-European-Union
+534	536	EU	EU	ORG	ORG-European-Union
+592	599	brexitu	brexit	EVT	EVT-Brexit
+834	845	Thereso May	Theresa May	PER	PER-Theresa-May
+886	893	Bruslju	Bruselj	LOC	GPE-Brussles
+982	996	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1005	1014	twitterja	twitter	PRO	PRO-Twitter
+1031	1037	Evropa	Evropa	LOC	LOC-Europe
+1071	1078	brexitu	brexit	EVT	EVT-Brexit
+1114	1136	britanskega parlamenta	britanski parlament	ORG	ORG-British-Parlament
+1216	1223	Tuskove	Tusk	PER	PER-Donald-Tusk
+1272	1274	EU	EU	ORG	ORG-European-Union
+1419	1435	britanske strani	britanska stran	LOC	GPE-Great-Britain
+1459	1465	brexit	brexit	EVT	EVT-Brexit
+1677	1679	EU	EU	ORG	ORG-European-Union
+1773	1794	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+1798	1800	EU	EU	ORG	ORG-European-Union
+1930	1932	EU	EU	ORG	ORG-European-Union
+1965	1984	Britanski parlament	Britanski parlament	ORG	ORG-British-Parlament
+2130	2137	brexitu	brexit	EVT	EVT-Brexit
+2142	2148	Mayeva	May	PER	PER-Theresa-May
+2170	2177	Bruselj	Bruselj	LOC	GPE-Brussles
+2235	2237	EU	EU	ORG	ORG-European-Union
+2363	2378	Grahama Bradyja	Graham Brady	PER	PER-Graham-Brady
+2504	2506	EU	EU	ORG	ORG-European-Union

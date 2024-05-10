@@ -1,0 +1,13 @@
+12	19	Америка	Америка	LOC	GPE-USA
+178	188	американци	американци	PER	GPE-USA
+243	253	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+256	262	Туитър	Туитър	PRO	PRO-Twitter
+346	349	САЩ	САЩ	LOC	GPE-USA
+405	411	Байдън	Байдън	PER	PER-Joe-Biden
+464	467	САЩ	САЩ	LOC	GPE-USA
+468	479	Донал Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+536	546	Демократът	демократ	PER	ORG-Democratic-Party-USA
+547	557	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+581	590	Белия дом	Бял дом	LOC	LOC-White-House
+618	630	републиканец	републиканец	PER	ORG-Republican-Party-USA
+631	643	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump

@@ -1,0 +1,88 @@
+65	79	boeing 737 MAX	boeing 737 MAX	PRO	PRO-Boeing-737-Max
+337	346	letal 737	letala 737	PRO	PRO-Boeing-737
+357	360	MAX	MAX	PRO	PRO-Boeing-MAX
+477	483	Boeing	Boeing	ORG	ORG-Boeing
+487	497	letala 737	letala 737	PRO	PRO-Boeing-737
+555	558	100	100	PRO	PRO-Boeing-737-100
+565	568	737	737	PRO	PRO-Boeing-737
+586	593	737-100	737-100	PRO	PRO-Boeing-737-100
+658	684	737 serije Next Generation	737 serija Next Generation	PRO	PRO-Boeing-737-New-Generation
+697	704	737-600	737-600	PRO	PRO-Boeing-737-600
+708	715	737-900	737-900	PRO	PRO-Boeing-737-900
+801	810	letal 737	letala 737	PRO	PRO-Boeing-737
+818	821	737	737	PRO	PRO-Boeing-737
+845	851	Boeing	Boeing	ORG	ORG-Boeing
+864	867	MAX	MAX	PRO	PRO-Boeing-MAX
+1079	1082	MAX	MAX	PRO	PRO-Boeing-MAX
+1134	1139	MAX-7	MAX-7	PRO	PRO-Boeing-MAX-7
+1141	1142	8	8	PRO	PRO-Boeing-MAX-8
+1144	1145	9	9	PRO	PRO-Boeing-MAX-9
+1147	1150	200	200	PRO	PRO-Boeing-MAX-200
+1280	1286	Boeing	Boeing	ORG	ORG-Boeing
+1337	1344	MAX 200	MAX 200	PRO	PRO-Boeing-MAX-200
+1363	1370	Ryanair	Ryanair	ORG	ORG-Ryanair
+1373	1380	MAX 200	MAX 200	PRO	PRO-Boeing-MAX-200
+1500	1506	Boeing	Boeing	ORG	ORG-Boeing
+1512	1515	737	737	PRO	PRO-Boeing-737
+1610	1616	Boeing	Boeing	ORG	ORG-Boeing
+1628	1631	737	737	PRO	PRO-Boeing-737
+1682	1689	Airbusa	Airbus	ORG	ORG-Airbus-SE
+1754	1761	Seattla	Seattle	LOC	GPE-Seattle
+1812	1829	McDonnel Douglasa	McDonnel Douglas	ORG	ORG-McDonnel-Douglas
+1867	1875	Airbusom	Airbus	ORG	ORG-Airbus-SE
+1935	1944	Evropejci	Evropejci	PER	LOC-Europe
+2009	2017	Airbusom	Airbus	ORG	ORG-Airbus-SE
+2021	2029	Boeingom	Boeing	ORG	ORG-Boeing
+2070	2079	Airbusova	Airbus	ORG	ORG-Airbus-SE
+2197	2203	Boeing	Boeing	ORG	ORG-Boeing
+2253	2260	737-800	737-800	PRO	PRO-Boeing-737-800
+2299	2310	Airbus A320	Airbus A320	PRO	PRO-Airbus-A320
+2432	2438	Airbus	Airbus	ORG	ORG-Airbus-SE
+2478	2481	Neo	Neo	PRO	PRO-Airbus-Neo
+2504	2523	737 Next Generation	737 Next Generation	PRO	PRO-Boeing-737-New-Generation
+2533	2542	Američani	Američani	PER	GPE-USA
+2590	2593	737	737	PRO	PRO-Boeing-737
+2617	2620	MAX	MAX	PRO	PRO-Boeing-MAX
+2634	2642	A320 Neo	A320 Neo	PRO	PRO-Airbus-A320-Neo
+2646	2653	737 MAX	737 MAX	PRO	PRO-Boeing-737-Max
+2671	2675	A320	A320	PRO	PRO-Airbus-A320
+2781	2784	737	737	PRO	PRO-Boeing-737
+2860	2867	737-800	737-800	PRO	PRO-Boeing-737-800
+2912	2918	Boeing	Boeing	ORG	ORG-Boeing
+2936	2943	737 MAX	737 MAX	PRO	PRO-Boeing-737-Max
+2952	2955	MAX	MAX	PRO	PRO-Boeing-MAX
+3005	3009	A320	A320	PRO	PRO-Airbus-A320
+3198	3205	Airbusa	Airbus	ORG	ORG-Airbus-SE
+3746	3749	MAX	MAX	PRO	PRO-Boeing-MAX
+3781	3788	737-800	737-800	PRO	PRO-Boeing-737-800
+3810	3817	A320neo	A320neo	PRO	PRO-Airbus-A320-Neo
+3903	3909	Boeing	Boeing	ORG	ORG-Boeing
+3924	3928	MCAS	MCAS	PRO	PRO-Boeing-MCAS-Maneuvering-Characteristics-Augmentation-System
+4229	4237	Lion Air	Lion Air	ORG	ORG-Lion-Air
+4278	4309	angle of attack – AoA senzorjih	angle of attack – AoA senzorji	PRO	PRO-Boeing-AoA-Angle-of-Attack
+4563	4566	MAX	MAX	PRO	PRO-Boeing-MAX
+4634	4640	Boeing	Boeing	ORG	ORG-Boeing
+4855	4872	boeinga 737 MAX-8	boeing 737 MAX-8	PRO	PRO-Boeing-737-Max-8
+4883	4891	Lion Air	Lion Air	ORG	ORG-Lion-Air
+5013	5034	angle of attack – AOA	angle of attack – AOA	PRO	PRO-Boeing-AoA-Angle-of-Attack
+5149	5155	Boeing	Boeing	ORG	ORG-Boeing
+5490	5493	MAX	MAX	PRO	PRO-Boeing-MAX
+5553	5561	Lion Air	Lion Air	ORG	ORG-Lion-Air
+5943	5949	Boeing	Boeing	ORG	ORG-Boeing
+5994	6001	737 MAX	737 MAX	PRO	PRO-Boeing-737-Max
+6060	6066	Boeing	Boeing	ORG	ORG-Boeing
+6105	6111	Boeing	Boeing	ORG	ORG-Boeing
+6126	6134	Lion Air	Lion Air	ORG	ORG-Lion-Air
+6164	6167	737	737	PRO	PRO-Boeing-737
+6182	6186	MCAS	MCAS	PRO	PRO-Boeing-MCAS-Maneuvering-Characteristics-Augmentation-System
+6211	6216	MAX-a	MAX	PRO	PRO-Boeing-MAX
+6219	6227	Etiopiji	Etiopija	LOC	GPE-Ethiopia
+6334	6375	ameriška Zvezna uprava za letalski promet	ameriška Zvezna uprava za letalski promet	ORG	ORG-FAA-Federal-Aviation-Administration
+6427	6435	Lion Air	Lion Air	ORG	ORG-Lion-Air
+6439	6457	Ethiopian Airlines	Ethiopian Airlines	ORG	ORG-Ethiopian-Airlines
+6775	6780	MAX-a	MAX	PRO	PRO-Boeing-MAX
+6899	6902	MAX	MAX	PRO	PRO-Boeing-MAX
+6912	6915	Zda	ZDA	LOC	GPE-USA
+6953	6961	Atlantik	Atlantik	LOC	LOC-Atlantic-Ocean
+7114	7117	ZDA	ZDA	LOC	GPE-USA
+7192	7197	MAX-i	MAX	PRO	PRO-Boeing-MAX

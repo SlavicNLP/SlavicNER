@@ -1,0 +1,32 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+27	34	Wyspach	Wyspy	LOC	GPE-Great-Britain
+48	55	Brexitu	Brexit	EVT	EVT-Brexit
+126	137	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+355	370	Thomson Reuters	Thomson Reuters	ORG	ORG-Reuters
+404	411	Londynu	Londyn	LOC	GPE-London
+414	422	Brukselą	Bruksela	LOC	GPE-Brussles
+502	517	Ladbrokes Coral	Ladbrokes Coral	ORG	ORG-Ladbrokes-Coral
+555	558	GVC	GVC	ORG	ORG-GVC
+596	611	Intu Properties	Intu Properties	ORG	ORG-Intu-Properties
+632	641	Hammerson	Hammerson	ORG	ORG-Hammerson
+747	761	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+935	943	Brexitem	Brexit	EVT	EVT-Brexit
+992	1002	Nick Cline	Nick Cline	PER	PER-Nick-Cline
+1035	1049	Latham&Watkins	Latham&Watkins	ORG	ORG-Latham-Watkins
+1145	1156	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1161	1168	Europie	Europa	LOC	LOC-Europe
+1394	1405	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+1849	1856	Brexitu	Brexit	EVT	EVT-Brexit
+1955	1959	HSBC	HSBC	ORG	ORG-HSBC
+1961	1974	Philip Noblet	Philip Noblet	PER	PER-Philip-Noblet
+2152	2160	AB InBev	AB InBev	ORG	ORG-AB-InBev
+2167	2176	SABMiller	SABMiller	ORG	ORG-SABMiller
+2191	2217	Royal Dutch Shell BG Group	Royal Dutch Shell BG Group	ORG	ORG-Royal-Dutch-Shell-BG-Group
+2359	2365	Noblet	Noblet	PER	PER-Philip-Noblet
+2391	2400	Unilevera	Unilever	ORG	ORG-Unilever
+2426	2439	Krafta Heinza	Kraft Heinz	ORG	ORG-Kraft-Heinz
+2650	2661	Theresa May	Theresa May	PER	PER-Theresa-May
+2694	2705	W. Brytania	W. Brytania	LOC	GPE-Great-Britain
+2929	2940	Nick Cliner	Nick Cliner	PER	PER-Nick-Cline
+3052	3061	Citigroup	Citigroup	ORG	ORG-Citygroup
+3062	3073	Jan Skarbek	Jan Skarbek	PER	PER-Jan-Skarbek

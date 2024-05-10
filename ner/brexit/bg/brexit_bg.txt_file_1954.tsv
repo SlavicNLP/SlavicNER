@@ -1,0 +1,36 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+7	10	САЩ	САЩ	LOC	GPE-USA
+42	64	Парижкото споразумение	Парижко споразумение	PRO	PRO-Paris-Agreement
+131	143	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+144	158	Веселин Паунов	Веселин Паунов	PER	PER-Veselin-Paunov
+169	172	БНР	БНР	ORG	ORG-Bulgarian-National-Radio
+175	181	Лондон	Лондон	LOC	GPE-London
+231	239	Ай Ти Ви	Ай Ти Ви	PRO	PRO-ITV
+270	292	Парижкото споразумение	Парижко споразумение	PRO	PRO-Paris-Agreement
+357	364	Брекзит	Брекзит	EVT	EVT-Brexit
+398	408	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+410	422	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+433	449	Съединените щати	Съединени щати	LOC	GPE-USA
+481	503	Парижкото споразумение	Парижко споразумение	PRO	PRO-Paris-Agreement
+642	658	Съединените щати	Съединени щати	LOC	GPE-USA
+682	687	Тръмп	Тръмп	PER	PER-Donald-Trump
+703	719	Съединените щати	Съединени щати	LOC	GPE-USA
+789	797	Ай Ти Ви	Ай Ти Ви	PRO	PRO-ITV
+900	909	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+957	964	Брекзит	Брекзит	EVT	EVT-Brexit
+966	971	Тръмп	Тръмп	PER	PER-Donald-Trump
+996	1006	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1033	1035	ЕС	ЕС	ORG	ORG-European-Union
+1174	1176	ЕС	ЕС	ORG	ORG-European-Union
+1214	1219	Тръмп	Тръмп	PER	PER-Donald-Trump
+1257	1259	ЕС	ЕС	ORG	ORG-European-Union
+1265	1274	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+1313	1319	Лондон	Лондон	LOC	GPE-London
+1332	1346	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1405	1410	Тръмп	Тръмп	PER	PER-Donald-Trump
+1499	1503	Хари	Хари	PER	PER-Prince-Harry
+1506	1518	Меган Маркъл	Меган Маркъл	PER	PER-Meghan-Markle-Duchess-of-Sussex
+1568	1582	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1597	1611	Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+1680	1696	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1703	1711	Би Би Си	Би Би Си	PRO	PRO-BBC

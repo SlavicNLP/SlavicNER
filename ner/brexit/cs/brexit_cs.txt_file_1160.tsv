@@ -1,0 +1,37 @@
+4	17	Evropské rady	Evropská rada	ORG	ORG-European-Council
+18	22	Tusk	Tusk	PER	PER-Donald-Tusk
+23	29	Britům	Britové	PER	GPE-Great-Britain
+65	67	EU	EU	ORG	ORG-European-Union
+87	100	Evropské rady	Evropská rada	ORG	ORG-European-Council
+101	112	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+140	148	Británie	Británie	LOC	GPE-Great-Britain
+164	177	Evropské unii	Evropská unie	ORG	ORG-European-Union
+179	181	EU	EU	ORG	ORG-European-Union
+209	216	brexitu	brexit	EVT	EVT-Brexit
+338	352	Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+377	385	Británie	Británie	LOC	GPE-Great-Britain
+388	390	EU	EU	ORG	ORG-European-Union
+523	529	brexit	brexit	EVT	EVT-Brexit
+673	677	Tusk	Tusk	PER	PER-Donald-Tusk
+806	813	Londýně	Londýn	LOC	GPE-London
+841	856	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+857	876	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+881	885	Tusk	Tusk	PER	PER-Donald-Tusk
+895	907	europoslanci	europoslanci	PER	ORG-European-Parliament
+999	1007	Británie	Británie	LOC	GPE-Great-Britain
+1048	1055	brexitu	brexit	EVT	EVT-Brexit
+1071	1083	Europoslanci	Europoslanci	PER	ORG-European-Parliament
+1116	1124	Evropanů	Evropané	PER	LOC-Europe
+1137	1145	Británii	Británie	LOC	GPE-Great-Britain
+1174	1182	Británie	Británie	LOC	GPE-Great-Britain
+1186	1193	brexitu	brexit	EVT	EVT-Brexit
+1231	1233	EU	EU	ORG	ORG-European-Union
+1315	1321	Brexit	brexit	EVT	EVT-Brexit
+1495	1506	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1539	1543	Tusk	Tusk	PER	PER-Donald-Tusk
+1599	1601	EU	EU	ORG	ORG-European-Union
+1605	1612	Britové	Britové	PER	GPE-Great-Britain
+1759	1761	EU	EU	ORG	ORG-European-Union
+1802	1842	Strany nezávislosti Spojeného království	Strana nezávislosti Spojeného království	ORG	ORG-UK-Independence-Party
+1844	1848	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+1850	1862	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage

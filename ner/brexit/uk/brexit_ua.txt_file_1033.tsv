@@ -1,0 +1,36 @@
+24	30	Brexit	Brexit	EVT	EVT-Brexit
+98	100	ЄС	ЄС	LOC	ORG-European-Union
+122	124	ЄС	ЄС	LOC	ORG-European-Union
+136	142	Brexit	Brexit	EVT	EVT-Brexit
+143	156	Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+212	228	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+231	233	ЄС	ЄС	LOC	ORG-European-Union
+265	277	The Guardian	The Guardian	ORG	ORG-The-Guardian
+317	336	Європейського союзу	Європейський союз	ORG	ORG-European-Union
+337	343	Барньє	Барньє	PER	PER-Michel-Barnier
+519	533	Великобританія	Великобританія	LOC	GPE-Great-Britain
+558	560	ЄС	ЄС	LOC	ORG-European-Union
+679	682	Мей	Мей	PER	PER-Theresa-May
+884	898	Великобританія	Великобританія	LOC	GPE-Great-Britain
+922	924	ЄС	ЄС	LOC	ORG-European-Union
+930	936	Brexit	Brexit	EVT	EVT-Brexit
+1006	1008	ЄС	ЄС	LOC	ORG-European-Union
+1054	1062	Євросоюз	Євросоюз	ORG	ORG-European-Union
+1096	1102	Brexit	Brexit	EVT	EVT-Brexit
+1214	1228	Великобританії	Великобританія	LOC	GPE-Great-Britain
+1229	1239	Терези Мей	Тереза Мей	PER	PER-Theresa-May
+1275	1281	Brexit	Brexit	EVT	EVT-Brexit
+1308	1322	Великобританії	Великобританія	LOC	GPE-Great-Britain
+1329	1339	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1362	1364	ЄС	ЄС	LOC	ORG-European-Union
+1531	1533	ЄС	ЄС	LOC	ORG-European-Union
+1608	1610	ЄС	ЄС	LOC	ORG-European-Union
+1781	1795	Великобританії	Великобританія	LOC	GPE-Great-Britain
+1798	1800	ЄС	ЄС	LOC	ORG-European-Union
+1867	1885	Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+1887	1889	ЄС	ЄС	LOC	ORG-European-Union
+1968	1983	Великобританією	Великобританія	LOC	GPE-Great-Britain
+1986	1988	ЄС	ЄС	LOC	ORG-European-Union
+2070	2084	Великобританії	Великобританія	LOC	GPE-Great-Britain
+2155	2169	Великобританії	Великобританія	LOC	GPE-Great-Britain
+2188	2194	Brexit	Brexit	EVT	EVT-Brexit

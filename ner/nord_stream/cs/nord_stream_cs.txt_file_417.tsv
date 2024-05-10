@@ -1,0 +1,34 @@
+0	7	Trumpův	Trump	PER	PER-Donald-Trump
+29	35	Evropu	Evropa	LOC	LOC-Europe
+37	43	Poláci	Poláci	PER	GPE-Poland
+46	55	Ukrajinci	Ukrajinci	PER	GPE-Ukraine
+70	75	Němci	Němci	PER	GPE-Germany
+114	127	Evropské unie	Evropská unie	ORG	ORG-European-Union
+229	243	Nord Stream II	Nord Stream II	PRO	PRO-Nord-Stream-2
+286	293	Německa	Německo	LOC	GPE-Germany
+311	313	EU	EU	ORG	ORG-European-Union
+389	395	Evropě	Evropa	LOC	LOC-Europe
+432	438	Polska	Polsko	LOC	GPE-Poland
+442	451	Svinoústí	Svinoústí	LOC	GPE-Swinoujscie
+489	495	Kataru	Katar	LOC	GPE-Qatar
+585	602	Spojených státech	Spojené státy	LOC	GPE-USA
+630	637	střední	střední	LOC	LOC-Central-Europe
+640	655	východní Evropy	východní Evropa	LOC	LOC-Eastern-Europe
+658	667	Bukurešti	Bukurešť	LOC	GPE-Bucharest
+682	701	Iniciativy Trojmoří	Iniciativa Trojmoří	ORG	ORG-Three-Seas-Initiative
+738	751	Nord Stram II	Nord Stream II	PRO	PRO-Nord-Stream-2
+762	768	Polska	Polsko	LOC	GPE-Poland
+776	784	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+997	1003	Kremlu	Kreml	LOC	LOC-Kremlin
+1053	1059	Polska	Polsko	LOC	GPE-Poland
+1114	1117	Krk	Krk	LOC	GPE-Krk
+1119	1130	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+1136	1148	South Stream	South Stream	PRO	PRO-South-Stream
+1201	1206	Rusko	Rusko	LOC	GPE-Russia
+1229	1241	South Stream	South Stream	PRO	PRO-South-Stream
+1250	1264	Nord Stream II	Nord Stream II	PRO	PRO-Nord-Stream-2
+1291	1301	Heiko Mass	Heiko Mass	PER	PER-Heiko-Maas
+1404	1411	Bruselu	Brusel	LOC	GPE-Brussles
+1469	1479	Rick Perry	Rick Perry	PER	PER-Rick-Perry
+1482	1491	Bukurešti	Bukurešť	LOC	GPE-Bucharest
+1558	1564	Evropy	Evropa	LOC	LOC-Europe

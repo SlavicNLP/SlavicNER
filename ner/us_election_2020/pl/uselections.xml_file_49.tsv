@@ -1,0 +1,33 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+87	99	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+111	120	Florydzie	Floryda	LOC	GPE-Florida
+208	226	Kolegium Elektorów	Kolegium Elektorów	ORG	ORG-United-States-Electoral-College
+282	286	Ohio	Ohio	LOC	GPE-Ohio
+289	297	Teksasie	Teksas	LOC	GPE-Texas
+338	345	Floryda	Floryda	LOC	GPE-Florida
+551	569	Billowi Clintonowi	Bill Clinton	PER	PER-Bill-Clinton
+611	620	Florydzie	Floryda	LOC	GPE-Florida
+753	760	Florydy	Floryda	LOC	GPE-Florida
+780	790	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+791	800	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+852	864	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+913	916	USA	USA	LOC	GPE-USA
+930	939	Florydzie	Floryda	LOC	GPE-Florida
+1073	1078	Trump	Trump	PER	PER-Donald-Trump
+1100	1109	Florydzie	Floryda	LOC	GPE-Florida
+1166	1178	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+1180	1187	Floryda	Floryda	LOC	GPE-Florida
+1284	1291	Florydy	Floryda	LOC	GPE-Florida
+1485	1494	Florydzie	Floryda	LOC	GPE-Florida
+1552	1570	Środkowego Zachodu	Środkowy Zachód	LOC	LOC-Midwestern-United-States
+1617	1635	Północnego Wschodu	Północny Wschód	LOC	LOC-North-Western-USA
+1663	1667	Kuby	Kuba	LOC	GPE-Cuba
+1670	1689	Ameryki Południowej	Ameryka Południowa	LOC	LOC-North-America
+1715	1722	Floryda	Floryda	LOC	GPE-Florida
+2028	2037	Florydzie	Floryda	LOC	GPE-Florida
+2044	2049	Miami	Miami	LOC	GPE-Miami
+2052	2067	Fort Lauderdale	Fort Lauderdale	LOC	LOC-Fort-Lauderdale
+2081	2088	Orlando	Orlando	LOC	GPE-Orlando
+2100	2112	Zatoki Tampa	Zatoka Tampa	LOC	LOC-Tampa-Bay
+2125	2137	Jacksonville	Jacksonville	LOC	GPE-Jacksonville
+2176	2207	Narodowa Konwencja Republikanów	Narodowa Konwencja Republikanów	EVT	EVT-2020-Republican-National-Convention

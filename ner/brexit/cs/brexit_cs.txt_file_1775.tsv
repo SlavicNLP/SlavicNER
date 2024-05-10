@@ -1,0 +1,13 @@
+0	7	Britové	Britové	PER	GPE-Great-Britain
+110	137	Britské ministerstvo vnitra	Britské ministerstvo vnitra	ORG	ORG-Interior-minister-UK
+222	242	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+270	278	Guardian	Guardian	PRO	PRO-The-Guardian
+380	386	Londýn	Londýn	LOC	GPE-London
+492	499	Reuters	Reuters	ORG	ORG-Reuters
+509	516	Reuters	Reuters	ORG	ORG-Reuters
+538	549	Sajid Javid	Sajid Javid	PER	PER-Sajid-Javid
+675	689	Antohony Bryan	Anthony Bryan	PER	PER-Anthony-Bryan
+759	766	Jamajku	Jamajka	LOC	GPE-Jamaica
+832	850	Stephena Doughtyho	Stephen Doughty	PER	PER-Stephen-Doughty
+879	881	EU	EU	ORG	ORG-European-Union
+891	898	brexitu	brexit	EVT	EVT-Brexit

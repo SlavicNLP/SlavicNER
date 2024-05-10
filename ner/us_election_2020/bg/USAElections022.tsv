@@ -1,0 +1,28 @@
+4	9	Тръмп	Тръмп	PER	PER-Donald-Trump
+14	20	Байдън	Байдън	PER	PER-Joe-Biden
+161	174	Здравко Попов	Здравко Попов	PER	PER-Zdravko-Popov
+243	246	САЩ	САЩ	LOC	GPE-USA
+280	292	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+297	307	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+424	437	Здравко Попов	Здравко Попов	PER	PER-Zdravko-Popov
+471	500	Институт за публична политика	Институт за публична политика	ORG	ORG-Public-Policy-Institute
+517	532	Светът е бизнес	Светът е бизнес	PRO	PRO-Svetat-e-biznes
+537	558	Bloomberg TV Bulgaria	Bloomberg TV Bulgaria	PRO	PRO-Bloomberg-TV-Bulgaria
+622	629	Америка	Америка	LOC	GPE-USA
+731	736	Попов	Попов	PER	PER-Zdravko-Popov
+861	866	Попов	Попов	PER	PER-Zdravko-Popov
+922	925	САЩ	САЩ	LOC	GPE-USA
+1164	1171	Америка	Америка	LOC	GPE-USA
+1175	1180	Тръмп	Тръмп	PER	PER-Donald-Trump
+1296	1301	Попов	Попов	PER	PER-Zdravko-Popov
+1324	1327	САЩ	САЩ	LOC	GPE-USA
+1342	1347	Covid	Covid	EVT	EVT-Covid-19
+1410	1415	Тръмп	Тръмп	PER	PER-Donald-Trump
+1503	1506	САЩ	САЩ	LOC	GPE-USA
+1560	1570	пандемията	пандемия	EVT	EVT-Pandemic
+1623	1628	Тръмп	Тръмп	PER	PER-Donald-Trump
+1672	1677	Тръмп	Тръмп	PER	PER-Donald-Trump
+1794	1808	Бари Голдуотър	Бари Голдуотър	PER	PER-Barry-Goldwater
+1819	1832	Роналд Рейгън	Роналд Рейгън	PER	PER-Ronald-Reagan
+1844	1849	Попов	Попов	PER	PER-Zdravko-Popov
+1952	1974	американските граждани	американски граждани	PER	GPE-USA

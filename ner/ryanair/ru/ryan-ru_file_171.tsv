@@ -1,0 +1,18 @@
+29	35	Италии	Италия	LOC	GPE-Italy
+151	155	ENAV	ENAV	ORG	ORG-ENAV
+197	200	УНН	УНН	ORG	ORG-UNN
+230	240	Quotidiano	Quotidiano	PRO	ORG-Quotidiano
+259	277	Европеиская правда	Европеиская правда	PRO	PRO-Europe-Pravda
+291	295	ANSA	ANSA	ORG	ORG-Ansa
+320	324	Риме	Рим	LOC	GPE-Rome
+326	332	Милане	Милан	LOC	GPE-Milan
+334	341	Неаполе	Неаполь	LOC	GPE-Napoli
+474	487	Рим-Фьюмичино	Рим-Фьюмичино	LOC	LOC-Fiumicino-airport
+662	668	Италии	Италия	LOC	GPE-Italy
+669	677	Alitalia	Alitalia	ORG	ORG-Alitalia
+751	758	Ryanair	Ryanair	ORG	ORG-Ryanair
+760	767	easyJet	easyJet	ORG	ORG-EasyJet
+770	785	British Airways	British Airways	ORG	ORG-British-Airways
+828	835	Ryanair	Ryanair	ORG	ORG-Ryanair
+837	844	EasyJet	EasyJet	ORG	ORG-EasyJet
+847	862	British Airways	British Airways	ORG	ORG-British-Airways

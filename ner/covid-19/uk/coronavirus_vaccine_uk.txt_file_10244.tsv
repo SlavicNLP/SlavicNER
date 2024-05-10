@@ -1,0 +1,13 @@
+10	20	Словаччини	Словаччина	LOC	GPE-Slovakia
+177	180	TA3	TA3	PRO	PRO-TA3-TV-channel-Slovakia
+478	508	Державного медичного інституту	Державний медичний інститут	ORG	ORG-National-Institute-of-Public-Health-Czech
+509	527	Павло Бржезовський	Павло Бржезовський	PER	PER-Pavel-Brezovsky
+602	608	Pfizer	Pfizer	ORG	ORG-Pfizer
+611	619	BioNTech	BioNTech	ORG	ORG-BioNTech
+631	641	Словаччині	Словаччина	LOC	GPE-Slovakia
+874	884	Словаччині	Словаччина	LOC	GPE-Slovakia
+996	1004	COVID-19	COVID-19	EVT	EVT-Covid-19
+1021	1031	Словаччині	Словаччина	LOC	GPE-Slovakia
+1109	1117	пандемії	пандемія	EVT	EVT-Covid-19
+1245	1252	України	Україна	LOC	GPE-Ukraine
+1270	1274	Київ	Київ	LOC	GPE-Kyiv

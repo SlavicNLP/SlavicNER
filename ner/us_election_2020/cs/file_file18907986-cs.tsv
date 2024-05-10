@@ -1,0 +1,22 @@
+12	20	Bílý dům	Bílý dům	LOC	LOC-White-House
+22	27	Trump	Trump	PER	PER-Donald-Trump
+71	83	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+121	128	Floridě	Florida	LOC	GPE-Florida
+132	136	Ohiu	Ohio	LOC	GPE-Ohio
+139	145	Texasu	Texas	LOC	GPE-Texas
+175	184	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+204	211	Arizoně	Arizona	LOC	GPE-Arizona
+217	227	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+323	328	Trump	Trump	PER	PER-Donald-Trump
+435	448	Nejvyšší soud	Nejvyšší soud	ORG	ORG-Supreme-Court-of-the-United-States
+464	471	Floridě	Florida	LOC	GPE-Florida
+509	517	Trumpovy	Trump	PER	PER-Donald-Trump
+613	617	Ohiu	Ohio	LOC	GPE-Ohio
+619	625	Texasu	Texas	LOC	GPE-Texas
+628	632	Iowě	Iowa	LOC	GPE-Iowa
+674	690	Severní Karolíně	Severní Karolína	LOC	GPE-North-Carolina-US-State
+694	701	Georgii	Georgie	LOC	GPE-Georgia-US-state
+744	762	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+786	797	republikánů	republikáni	PER	ORG-Republican-Party-USA
+801	808	Georgii	Georgie	LOC	GPE-Georgia-US-state
+812	817	Biden	Biden	PER	PER-Joe-Biden

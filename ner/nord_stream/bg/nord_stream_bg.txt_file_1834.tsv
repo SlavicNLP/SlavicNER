@@ -1,0 +1,25 @@
+0	3	САЩ	САЩ	LOC	GPE-USA
+15	17	ЕС	ЕС	ORG	ORG-European-Union
+49	64	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+81	84	САЩ	САЩ	LOC	GPE-USA
+87	89	ЕС	ЕС	ORG	ORG-European-Union
+90	98	Адам Шуб	Адам Шуб	PER	PER-Adam-Shub
+119	128	Евросъюза	Евросъюз	ORG	ORG-European-Union
+169	184	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+195	204	Комерсант	Комерсант	PRO	PRO-Kommersant
+208	211	САЩ	САЩ	LOC	GPE-USA
+222	229	Украйна	Украйна	LOC	GPE-Ukraine
+231	236	Полша	Полша	LOC	GPE-Poland
+264	266	ЕС	ЕС	ORG	ORG-European-Union
+382	384	ЕС	ЕС	ORG	ORG-European-Union
+417	432	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+499	502	Щуб	Шуб	PER	PER-Adam-Shub
+556	570	Сандра Оудкърк	Сандра Оудкърк	PER	PER-Sandra-Oudkirk
+582	585	САЩ	САЩ	LOC	GPE-USA
+727	742	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
+757	764	Газпром	Газпром	ORG	ORG-Gazprom
+805	811	Uniper	Uniper	ORG	ORG-Uniper
+814	825	Wintershall	Wintershall	ORG	ORG-Wintershall
+827	832	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+834	839	Engie	Engie	ORG	ORG-Engie
+842	845	OMV	OMV	ORG	ORG-OMV

@@ -1,0 +1,71 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+32	41	Білий дім	Білий дім	ORG	ORG-White-House
+116	122	Трампа	Трамп	PER	PER-Donald-Trump
+123	139	Рудольф Джуліані	Рудольф Джуліані	PER	PER-Rudolph-Giuliani
+198	206	виборами	вибори	EVT	EVT-2020-United-States-Presidential-Election
+218	240	Республіканська партія	Республіканська партія	ORG	ORG-Republican-Party-USA
+247	254	Аризона	Аризона	LOC	GPE-Arizona
+357	364	Аризона	Аризона	LOC	GPE-Arizona
+688	695	Reuters	Reuters	ORG	ORG-Reuters
+722	737	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+930	937	Аризона	Аризона	LOC	GPE-Arizona
+938	948	Кеті Хоббс	Кеті Хоббс	PER	PER-Katie-Hobbs
+998	1004	Трампа	Трамп	PER	PER-Donald-Trump
+1063	1066	США	США	LOC	GPE-USA
+1067	1082	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1083	1099	Рудольф Джуліані	Рудольф Джуліані	PER	PER-Rudolph-Giuliani
+1158	1166	виборами	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1187	1194	Sputnik	Sputnik	PRO	PRO-Sputnik-V
+1214	1222	Джуліані	Джуліані	PER	PER-Rudolph-Giuliani
+1301	1307	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1310	1321	Філадельфії	Філадельфія	LOC	GPE-Philadelphia
+1324	1334	Піттсбурзі	Піттсбург	LOC	GPE-Pittsburgh
+1341	1353	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+1363	1368	Трамп	Трамп	PER	PER-Donald-Trump
+1391	1398	Байдена	Байден	PER	PER-Joe-Biden
+1424	1441	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+1442	1455	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1487	1494	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1575	1583	Fox News	Fox News	PRO	PRO-Fox-News
+1768	1775	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1787	1790	США	США	LOC	GPE-USA
+1812	1815	США	США	LOC	GPE-USA
+1824	1830	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1901	1908	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1966	1984	Колегії вибірників	Колегія вибірників	ORG	ORG-United-States-Electoral-College
+2435	2453	колегії вибірників	колегія вибірників	ORG	ORG-United-States-Electoral-College
+2514	2536	виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+2561	2568	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2591	2599	пандемію	пандемія	EVT	EVT-Covid-19
+2735	2742	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2781	2784	США	США	LOC	GPE-USA
+2829	2837	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+2933	2944	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+2958	2961	США	США	LOC	GPE-USA
+3007	3016	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+3019	3029	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+3033	3045	Вибори в США	Вибори в США	EVT	EVT-2020-United-States-Presidential-Election
+3094	3104	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3160	3170	Вілмінгтон	Вілмінгтон	LOC	GPE-Wilmington
+3288	3303	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+3320	3331	Білого дому	Білий дім	ORG	ORG-White-House
+3332	3345	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+3357	3363	вибори	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3437	3444	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3485	3491	Байден	Байден	PER	PER-Joe-Biden
+3585	3607	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+3610	3613	США	США	LOC	GPE-USA
+3635	3646	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3710	3718	Віргінія	Віргінія	LOC	GPE-Virginia
+3719	3730	Річард Блек	Річард Блек	PER	PER-Richard-Black
+3744	3751	України	Україна	LOC	GPE-Ukraine
+3752	3772	Володимир Зеленський	Володимир Зеленський	PER	PER-Volodymyr-Zelensky
+3805	3808	США	США	LOC	GPE-USA
+3809	3820	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3836	3843	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+3869	3872	США	США	LOC	GPE-USA
+3899	3914	Хілларі Клінтон	Хілларі Клінтон	PER	PER-Hillary-Clinton
+3955	3966	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3970	3977	виборах	вибори	EVT	EVT-2020-United-States-Presidential-Election
+4029	4034	Трамп	Трамп	PER	PER-Donald-Trump
+4061	4070	Білий дім	Білий дім	ORG	ORG-White-House

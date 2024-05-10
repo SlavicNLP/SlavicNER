@@ -1,0 +1,71 @@
+0	11	Коронавирус	Коронавирус	EVT	EVT-Covid-19
+45	55	Белом доме	Белый дом	ORG	ORG-The-White-House
+57	62	ковид	ковид	EVT	EVT-Covid-19
+97	102	Дауна	Даун	PER	PER-John-Langdon-Down
+138	141	США	США	LOC	GPE-USA
+142	151	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+172	184	коронавируса	коронавирус	EVT	EVT-Covid-19
+219	229	Белом доме	Белый дом	ORG	ORG-The-White-House
+332	343	американцев	американцы	PER	GPE-USA
+360	365	Пенса	Пенс	PER	PER-Mike-Pence
+419	422	США	США	LOC	GPE-USA
+423	435	Джером Адамс	Джером Адамс	PER	PER-Jerome-Michael-Adams
+467	473	Pfizer	Pfizer	ORG	ORG-Pfizer
+474	482	BioNTech	BioNTech	ORG	ORG-BioNTech
+511	523	коронавируса	коронавирус	EVT	EVT-Covid-19
+633	643	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+815	818	США	США	LOC	GPE-USA
+822	834	коронавируса	коронавирус	EVT	EVT-Covid-19
+980	987	Америке	Америка	LOC	GPE-USA
+1041	1054	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1060	1074	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1127	1141	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1142	1155	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1179	1185	Англии	Англия	LOC	GPE-Great-Britain
+1317	1334	Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland
+1414	1420	Уэльсе	Уэльс	LOC	GPE-Wales
+1467	1476	Шотландии	Шотландия	LOC	GPE-Scotland
+1601	1607	Англия	Англия	LOC	GPE-Great-Britain
+1616	1633	Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland
+1636	1642	Уэльса	Уэльс	LOC	GPE-Wales
+1644	1651	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1739	1748	Рождества	Рождество	EVT	EVT-Christmas
+2124	2132	Британии	Британия	LOC	GPE-Great-Britain
+2340	2345	Дауна	Даун	PER	PER-John-Langdon-Down
+2364	2369	ковид	ковид	EVT	EVT-Covid-19
+2422	2433	британскими	британские	PER	GPE-Great-Britain
+2460	2465	Дауна	Даун	PER	PER-John-Langdon-Down
+2520	2533	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2700	2713	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2912	2917	Дауна	Даун	PER	PER-John-Langdon-Down
+3350	3361	коронавирус	коронавирус	EVT	EVT-Covid-19
+3502	3565	Объединенный комитет по вакцинации и иммунизации Великобритании	Объединенный комитет по вакцинации и иммунизации Великобритании	ORG	ORG-JCVI-Joint-Committee-on-Vaccination-and-Immunisation-UK
+3567	3571	JCVI	JCVI	ORG	ORG-JCVI-Joint-Committee-on-Vaccination-and-Immunisation-UK
+3618	3623	Дауна	Даун	PER	PER-John-Langdon-Down
+3663	3671	Евросоюз	Евросоюз	ORG	ORG-European-Union
+3742	3749	Moderna	Moderna	ORG	ORG-Moderna
+3773	3785	Еврокомиссия	Еврокомиссия	ORG	ORG-European-Commission
+3880	3892	коронавируса	коронавирус	EVT	EVT-Covid-19
+3919	3928	Евросоюза	Евросоюз	ORG	ORG-European-Union
+4044	4052	Евросоюз	Евросоюз	ORG	ORG-European-Union
+4089	4096	Moderna	Moderna	ORG	ORG-Moderna
+4153	4159	Pfizer	Pfizer	ORG	ORG-Pfizer
+4162	4170	BioNTech	BioNTech	ORG	ORG-BioNTech
+4174	4180	Швеция	Швеция	LOC	GPE-Sweden
+4245	4265	Правительство Швеции	Правительство Швеции	ORG	ORG-Government-of-Sweden
+4492	4498	Швеция	Швеция	LOC	GPE-Sweden
+4761	4767	Швеции	Швеция	LOC	GPE-Sweden
+4768	4783	Карл Густав XVI	Карл Густав XVI	PER	PER-Carl-XVI-Gustaf
+5301	5311	Нидерланды	Нидерланды	LOC	GPE-Holland
+5313	5321	Германия	Германия	LOC	GPE-Germany
+5342	5353	Нидерландах	Нидерланды	LOC	GPE-Holland
+5356	5364	Германии	Германия	LOC	GPE-Germany
+5446	5452	Италия	Италия	LOC	GPE-Italy
+5628	5638	итальянцам	итальянцы	PER	GPE-Italia
+5744	5751	Австрии	Австрия	LOC	GPE-Austria
+5772	5781	Рождества	Рождество	EVT	EVT-Christmas
+6046	6055	Австралия	Австралия	LOC	GPE-Australia
+6132	6138	Сиднея	Сидней	LOC	GPE-Sydney
+6238	6250	коронавируса	коронавирус	EVT	EVT-Covid-19
+6410	6430	Нового Южного Уэльса	Новый Южный Уэльс	LOC	GPE-New-South-Wales
+6644	6656	австралийцев	австралийцы	PER	GPE-Australia

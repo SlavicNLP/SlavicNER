@@ -1,0 +1,8 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+60	67	Johnson	Johnson	PER	PER-Boris-Johnson
+97	110	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+152	159	brexitu	brexit	EVT	EVT-Brexit
+178	191	Evropské unie	Evropská unie	ORG	ORG-European-Union
+249	251	EU	EU	ORG	ORG-European-Union
+276	282	brexit	brexit	EVT	EVT-Brexit
+338	350	Donald Trump	Donald Trump	PER	PER-Donald-Trump

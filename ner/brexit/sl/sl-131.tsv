@@ -1,0 +1,82 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+78	94	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+101	108	brexitu	brexit	EVT	EVT-Brexit
+340	350	Lindo Dann	Linda Dann	PER	PER-Linda-Dann
+424	431	brexita	brexit	EVT	EVT-Brexit
+484	500	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+535	549	Evropske unije	Evropska unija	ORG	ORG-European-Union
+584	586	EU	EU	ORG	ORG-European-Union
+590	611	Združenim kraljestvom	Združeno kraljestvo	LOC	GPE-Great-Britain
+641	643	EU	EU	ORG	ORG-European-Union
+646	655	Salzburgu	Salzburg	LOC	GPE-Salzburg
+728	735	brexita	brexit	EVT	EVT-Brexit
+843	849	Brexit	Brexit	EVT	EVT-Brexit
+946	952	Brexit	Brexit	EVT	EVT-Brexit
+969	990	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+994	1000	Evrope	Evropa	LOC	LOC-Europe
+1037	1047	zveze Nato	zveza Nato	ORG	ORG-NATO
+1077	1079	EU	EU	ORG	ORG-European-Union
+1156	1165	Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+1169	1174	Večer	Večer	PRO	PRO-Večer
+1185	1195	Linda Dann	Linda Dann	PER	PER-Linda-Dann
+1235	1245	Linda Dann	Linda Dann	PER	PER-Linda-Dann
+1423	1434	Theresa May	Theresa May	PER	PER-Theresa-May
+1457	1473	Gavin Williamson	Gavin Williamson	PER	PER-Gavin-Williamson
+1525	1544	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+1623	1625	EU	EU	ORG	ORG-European-Union
+1662	1683	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+1726	1733	Dannova	Dann	PER	PER-Linda-Dann
+1851	1859	Britanci	Britanec	PER	GPE-Great-Britain
+1877	1881	Nata	NATO	ORG	ORG-NATO
+1893	1899	London	London	LOC	GPE-London
+2041	2051	Linda Dann	Linda Dann	PER	PER-Linda-Dann
+2101	2111	Linda Dann	Linda Dann	PER	PER-Linda-Dann
+2242	2244	EU	EU	ORG	ORG-European-Union
+2415	2436	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+2440	2454	Evropske unije	Evropska unija	ORG	ORG-European-Union
+2463	2469	brexit	brexit	EVT	EVT-Brexit
+2547	2549	EU	EU	ORG	ORG-European-Union
+2596	2617	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+3848	3850	EU	EU	ORG	ORG-European-Union
+3886	3909	Evropski obrambni sklad	Evropski obrambni sklad	PRO	PRO-European-Defence-Fund
+3938	3977	Evropskega akcijskega obrambnega načrta	Evropski akcijski obrambni načrt	PRO	PRO-European-Defence-Action-Plan
+4317	4319	EU	EU	ORG	ORG-European-Union
+4328	4330	EU	EU	ORG	ORG-European-Union
+4392	4394	EU	EU	ORG	ORG-European-Union
+4482	4502	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+4685	4687	EU	EU	ORG	ORG-European-Union
+4755	4761	Evropi	Evropa	LOC	LOC-Europe
+4772	4777	Trump	Trump	PER	PER-Donald-Trump
+4849	4855	Evropa	Evropa	LOC	LOC-Europe
+4890	4893	ZDA	ZDA	LOC	GPE-USA
+4990	4992	EU	EU	ORG	ORG-European-Union
+4993	5001	Norveško	Norveška	LOC	GPE-Norway
+5268	5270	EU	EU	ORG	ORG-European-Union
+5721	5727	Evrope	Evropa	LOC	LOC-Europe
+5778	5783	Trump	Trump	PER	PER-Donald-Trump
+5819	5824	Obama	Obama	PER	PER-Barack-Obama
+5871	5881	zvezo Nato	zveza Nato	ORG	ORG-NATO
+5885	5892	brexitu	brexit	EVT	EVT-Brexit
+6098	6104	Evropo	Evropa	LOC	LOC-Europe
+6184	6204	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+6280	6296	Sergeja Skripala	Sergej Skripal	PER	PER-Siergiej-Skripal
+6311	6315	Rusi	Rusi	PER	GPE-Russia
+6431	6441	Zveza Nato	Zveza Nato	ORG	ORG-NATO
+6541	6553	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+6739	6751	Barack Obama	Barack Obama	PER	PER-Barack-Obama
+6851	6856	Trump	Trump	PER	PER-Donald-Trump
+7003	7012	Slovenija	Slovenija	LOC	GPE-Slovenia
+7134	7143	Sloveniji	Slovenija	LOC	GPE-Slovenia
+7218	7227	Slovenija	Slovenija	LOC	GPE-Slovenia
+7323	7329	Walesa	Wales	LOC	GPE-Wales
+7359	7364	Trump	Trump	PER	PER-Donald-Trump
+7398	7407	Slovenije	Slovenija	LOC	GPE-Slovenia
+7450	7459	Slovenijo	Slovenija	LOC	GPE-Slovenia
+7490	7500	zveze Nato	zveza Nato	ORG	ORG-NATO
+7531	7547	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+7665	7674	Sloveniji	Slovenija	LOC	GPE-Slovenia
+8390	8399	Slovenija	Slovenija	LOC	GPE-Slovenia
+8663	8672	Sloveniji	Slovenija	LOC	GPE-Slovenia
+9619	9621	EU	EU	ORG	ORG-European-Union
+9635	9643	Trumpove	Trump	PER	PER-Donald-Trump
+9687	9708	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain

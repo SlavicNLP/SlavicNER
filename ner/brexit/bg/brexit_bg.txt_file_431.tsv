@@ -1,0 +1,34 @@
+0	8	България	България	LOC	GPE-Bulgaria
+10	16	Лондон	Лондон	LOC	GPE-London
+42	53	европейците	европейци	PER	LOC-Europe
+55	63	България	България	LOC	GPE-Bulgaria
+94	104	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+178	185	Брекзит	Брекзит	EVT	EVT-Brexit
+202	245	Българското председателство на Съвета на ЕС	Българско председателство на Съвета на ЕС	EVT	EVT-Bulgarian-Presidency-EU
+246	260	Лиляна Павлова	Лиляна Павлова	PER	PER-Lilyana-Pavlova
+299	302	Мей	Мей	PER	PER-Theresa-May
+317	320	АФП	АФП	ORG	ORG-France-Presse
+340	343	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+378	380	ЕС	ЕС	ORG	ORG-European-Union
+446	453	Павлова	Павлова	PER	PER-Lilyana-Pavlova
+463	473	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+546	560	Великобритания	Великобритания	LOC	GPE-Great-Britain
+665	673	Брекзита	Брекзит	EVT	EVT-Brexit
+688	690	ЕС	ЕС	ORG	ORG-European-Union
+813	827	Великобритания	Великобритания	LOC	GPE-Great-Britain
+831	833	ЕС	ЕС	ORG	ORG-European-Union
+894	900	Лондон	Лондон	LOC	GPE-London
+941	943	ЕС	ЕС	ORG	ORG-European-Union
+1038	1052	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1098	1108	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1112	1117	Китай	Китай	LOC	GPE-China
+1168	1175	Павлова	Павлова	PER	PER-Lilyana-Pavlova
+1203	1210	Брекзит	Брекзит	EVT	EVT-Brexit
+1246	1248	ЕС	ЕС	ORG	ORG-European-Union
+1359	1369	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1425	1428	САЩ	САЩ	LOC	GPE-USA
+1448	1455	Брекзит	Брекзит	EVT	EVT-Brexit
+1465	1479	Лиляна Павлова	Лиляна Павлова	PER	PER-Lilyana-Pavlova
+1481	1483	ЕС	ЕС	ORG	ORG-European-Union
+1656	1665	Холокоста	Холокост	EVT	EVT-The-Holocaust
+1668	1674	Европа	Европа	LOC	LOC-Europe

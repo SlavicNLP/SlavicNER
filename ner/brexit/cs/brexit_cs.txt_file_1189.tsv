@@ -1,0 +1,13 @@
+16	23	brexitu	brexit	EVT	EVT-Brexit
+72	74	EU	EU	ORG	ORG-European-Union
+124	131	Barnier	Barnier	PER	PER-Michel-Barnier
+276	282	brexit	brexit	EVT	EVT-Brexit
+283	296	Davidem Davis	David Davis	PER	PER-David-Davis
+388	396	Británie	Británie	LOC	GPE-Great-Britain
+559	566	Barnier	Barnier	PER	PER-Michel-Barnier
+602	607	Davis	Davis	PER	PER-David-Davis
+694	714	Michelovi Barnierovi	Michel Barnier	PER	PER-Michel-Barnier
+869	884	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+949	956	brexitu	brexit	EVT	EVT-Brexit
+1016	1024	Británie	Británie	LOC	GPE-Great-Britain
+1187	1193	Londýn	Londýn	LOC	GPE-London

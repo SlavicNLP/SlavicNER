@@ -1,0 +1,75 @@
+11	14	САЩ	САЩ	LOC	GPE-USA
+41	53	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+79	91	републиканци	републиканци	PER	ORG-Republican-Party-USA
+129	134	Тръмп	Тръмп	PER	PER-Donald-Trump
+139	160	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+196	223	Президентските избори в САЩ	Президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+276	288	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+415	422	Америка	Америка	LOC	GPE-USA
+429	445	Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+559	564	Тръмп	Тръмп	PER	PER-Donald-Trump
+597	609	американците	американци	PER	GPE-USA
+630	640	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+644	649	Тръмп	Тръмп	PER	PER-Donald-Trump
+693	705	републиканци	републиканци	PER	ORG-Republican-Party-USA
+761	773	републиканци	републиканци	PER	ORG-Republican-Party-USA
+776	803	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+836	850	Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+875	881	Байдън	Байдън	PER	PER-Joe-Biden
+941	955	Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+1027	1035	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1037	1044	Мичиган	Мичиган	LOC	GPE-Michigan
+1046	1057	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1060	1069	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+1072	1077	Тръмп	Тръмп	PER	PER-Donald-Trump
+1089	1096	Twitter	Twitter	PRO	PRO-Twitter
+1113	1127	Върховният съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+1208	1213	Тръмп	Тръмп	PER	PER-Donald-Trump
+1267	1274	Америка	Америка	LOC	GPE-USA
+1636	1641	Тръмп	Тръмп	PER	PER-Donald-Trump
+1704	1714	американци	американци	PER	GPE-USA
+1769	1775	Байдън	Байдън	PER	PER-Joe-Biden
+1835	1859	университета „Куинипиак“	университет „Куинипиак“	ORG	ORG-Quinnipiac-University
+1883	1897	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1992	1998	Байдън	Байдън	PER	PER-Joe-Biden
+2033	2039	Байдън	Байдън	PER	PER-Joe-Biden
+2061	2082	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+2102	2107	Тръмп	Тръмп	PER	PER-Donald-Trump
+2176	2182	Байдън	Байдън	PER	PER-Joe-Biden
+2193	2198	Тръмп	Тръмп	PER	PER-Donald-Trump
+2276	2288	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2340	2351	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+2362	2367	Кения	Кения	LOC	GPE-Kenya
+2376	2379	САЩ	САЩ	LOC	GPE-USA
+2570	2575	Обама	Обама	PER	PER-Barack-Obama
+2627	2636	Белия дом	Белия дом	LOC	LOC-White-House
+2637	2642	Тръмп	Тръмп	PER	PER-Donald-Trump
+2678	2684	Байдън	Байдън	PER	PER-Joe-Biden
+2758	2763	Тръмп	Тръмп	PER	PER-Donald-Trump
+2807	2819	републиканци	републиканци	PER	ORG-Republican-Party-USA
+2860	2866	Байдън	Байдън	PER	PER-Joe-Biden
+2900	2906	Сената	Сенат	ORG	ORG-United-States-Senate
+2907	2919	Мич Макконъл	Мич Макконъл	PER	PER-Mitch-McConnell
+2978	2984	Байдън	Байдън	PER	PER-Joe-Biden
+2987	2993	Сената	Сенат	ORG	ORG-United-States-Senate
+3028	3038	демократът	демократ	PER	ORG-Democratic-Party-USA
+3053	3058	Тръмп	Тръмп	PER	PER-Donald-Trump
+3210	3222	републиканци	републиканци	PER	ORG-Republican-Party-USA
+3285	3297	Джъстин Амаш	Джъстин Амаш	PER	PER-Justin-Amash
+3299	3311	републиканец	републиканец	PER	ORG-Republican-Party-USA
+3315	3322	Мичиган	Мичиган	LOC	GPE-Michigan
+3366	3371	Тръмп	Тръмп	PER	PER-Donald-Trump
+3547	3556	Уилям Бар	Уилям Бар	PER	PER-William-Barr
+3577	3593	Associated Press	Associated Press	ORG	ORG-AP-The-Associated-Press
+3711	3723	републиканци	републиканци	PER	ORG-Republican-Party-USA
+3754	3759	Тръмп	Тръмп	PER	PER-Donald-Trump
+3787	3800	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+3910	3924	републиканците	републиканци	PER	ORG-Republican-Party-USA
+3939	3956	Изборната колегия	Изборна колегия	ORG	ORG-United-States-Electoral-College
+4110	4119	Конгресът	Конгрес	ORG	ORG-United-States-Congress
+4171	4180	Колегията	Колегия	ORG	ORG-United-States-Electoral-College
+4269	4287	Капитолийския хълм	Капитолийски хълм	LOC	LOC-Capitol-Hill
+4416	4429	Върховния съд	Върховен съд	ORG	ORG-Supreme-Court-of-the-United-States
+4438	4447	Алън Уест	Алън Уест	PER	PER-Allen-West
+4464	4478	републиканците	републиканци	PER	ORG-Republican-Party-USA
+4481	4487	Тексас	Тексас	LOC	GPE-Texas

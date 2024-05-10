@@ -1,0 +1,25 @@
+25	36	Theresy May	Theresa May	PER	PER-Theresa-May
+58	65	brexitu	Brexit	EVT	EVT-Brexit
+78	89	Philipa Lee	Philip Lee	PER	PER-Phillip-Lee
+179	186	brexitu	Brexit	EVT	EVT-Brexit
+188	199	Westminster	Westminster	LOC	LOC-Westminster-Hall
+256	258	UE	UE	ORG	ORG-European-Union
+281	290	Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+321	332	Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+367	369	UE	UE	ORG	ORG-European-Union
+404	411	brexitu	Brexit	EVT	EVT-Brexit
+504	511	Wyspach	Wyspy	LOC	GPE-Great-Britain
+514	529	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+575	582	The Sun	The Sun	PRO	PRO-The-Sun
+694	696	UE	UE	ORG	ORG-European-Union
+699	712	Daily Express	Daily Express	PRO	PRO-Daily-Express
+772	779	torysów	torysi	PER	ORG-Tories
+820	831	Theresy May	Theresa May	PER	PER-Theresa-May
+911	928	Financial Timesie	Financial Times	PRO	PRO-Financial-Times
+999	1001	UE	UE	ORG	ORG-European-Union
+1033	1039	Brexit	Brexit	EVT	EVT-Brexit
+1063	1070	brexitu	Brexit	EVT	EVT-Brexit
+1201	1209	Brukselą	Bruksela	LOC	GPE-Brussles
+1282	1291	brexitowi	Brexit	EVT	EVT-Brexit
+1378	1380	UE	UE	ORG	ORG-European-Union
+1394	1404	Brexitowcy	Brexitowcy	PER	EVT-Brexit

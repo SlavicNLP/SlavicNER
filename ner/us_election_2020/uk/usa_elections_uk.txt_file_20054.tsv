@@ -1,0 +1,25 @@
+2	10	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+19	25	Байден	Байден	PER	PER-Joe-Biden
+57	65	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+86	93	Байдена	Байден	PER	PER-Joe-Biden
+134	152	Бред Раффенспергер	Бред Раффенспергер	PER	PER-Brad-Raffensperger
+188	196	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+214	221	Байдена	Байден	PER	PER-Joe-Biden
+465	476	VotingWorks	VotingWorks	ORG	ORG-VotingWorks
+566	576	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+604	610	Трампа	Трамп	PER	PER-Donald-Trump
+724	732	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+775	782	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+935	950	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+951	967	Рудольф Джуліані	Рудольф Джуліані	PER	PER-Rudolph-Giuliani
+1016	1024	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1048	1054	Трампа	Трамп	PER	PER-Donald-Trump
+1356	1364	Джуліані	Джуліані	PER	PER-Rudolph-Giuliani
+1400	1407	Атланті	Атланта	LOC	GPE-Atlanta
+1607	1620	FOX 5 Atlanta	FOX 5 Atlanta	PRO	PRO-Atlanta
+1745	1753	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+1854	1861	Україні	Україна	LOC	GPE-Ukraine
+1871	1882	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1886	1908	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1911	1914	США	США	LOC	GPE-USA
+1933	1946	Олега Шамшура	Олег Шамшур	PER	PER-Oleg-Shamshur

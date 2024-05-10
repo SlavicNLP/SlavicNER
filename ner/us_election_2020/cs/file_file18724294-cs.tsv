@@ -1,0 +1,22 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+65	72	Georgii	Georgie	LOC	GPE-Georgia-US-state
+107	119	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+134	141	Melanií	Melanie	PER	PER-Melania-Trump
+144	151	Georgii	Georgie	LOC	GPE-Georgia-US-state
+192	195	ČTK	ČTK	ORG	ORG-CTK
+197	205	Valdosta	Valdosta	LOC	GPE-Valdosta
+206	211	Praha	Praha	LOC	GPE-Prague
+233	247	Davida Perduea	Davida Perdue	PER	PER-David-Perdue
+250	268	Kelly Loefflerovou	Kelly Loefflerová	PER	PER-Kelly-Loeffler
+342	354	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+388	396	Valdosta	Valdosta	LOC	GPE-Valdosta
+426	433	Georgia	Georgie	LOC	GPE-Georgia-US-state
+436	442	Perdue	Perdue	PER	PER-David-Perdue
+445	456	Loefflerová	Loefflerová	PER	PER-Kelly-Loeffler
+472	492	Republikánské strany	Republikánská strana	ORG	ORG-Republican-Party-USA
+523	529	Senátu	Senát	ORG	ORG-United-States-Senate
+544	558	parlamentu USA	parlament USA	ORG	ORG-USA-Parlament
+775	781	Senátu	Senát	ORG	ORG-United-States-Senate
+824	833	demokraté	demokraté	PER	ORG-Democratic-Party-USA
+984	990	Senátu	Senát	ORG	ORG-United-States-Senate
+1003	1019	Kamala Harrisová	Kamala Harrisová	PER	PER-Kamala-Harris

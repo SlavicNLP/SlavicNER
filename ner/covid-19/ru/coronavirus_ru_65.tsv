@@ -1,0 +1,27 @@
+32	44	коронавируса	коронавирус	EVT	EVT-Covid-19
+47	53	Москве	Москва	LOC	GPE-Moscow
+80	88	COVID-19	COVID-19	EVT	EVT-Covid-19
+122	128	Москве	Москва	LOC	GPE-Moscow
+179	191	коронавируса	коронавирус	EVT	EVT-Covid-19
+194	200	Москве	Москва	LOC	GPE-Moscow
+229	245	Геннадий БИСЕНОВ	Геннадий Бисенов	PER	PER-Gennady-Bisenov
+282	294	коронавируса	коронавирус	EVT	EVT-Covid-19
+678	692	Сергей Собянин	Сергей Собянин	PER	PER-Sergei-Sobyanin
+748	754	Москвы	Москва	LOC	GPE-Moscow
+791	801	российскую	российская	PER	GPE-Russia
+810	820	«Спутник V	Спутник V	PRO	PRO-Sputnik-V
+822	835	Гам-Ковид-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+864	970	Национального исследовательского центра эпидемиологии и микробиологии имени Н. Ф. Гамалеи Минздрава России	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи Минздрава России	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1072	1084	коронавируса	коронавирус	EVT	EVT-Covid-19
+1299	1305	Москвы	Москва	LOC	GPE-Moscow
+1512	1520	COVID-19	COVID-19	EVT	EVT-Covid-19
+1533	1539	Москве	Москва	LOC	GPE-Moscow
+1585	1594	"""Спутник"""	Спутник	PRO	PRO-Sputnik-V
+1635	1649	Андрей АБРАМОВ	Андрей Абрамов	PER	PER-Andrey-Abramov
+1726	1736	московской	московская	PER	GPE-Moscow
+1801	1807	mos.ru	mos.ru	PRO	PRO-Mos-.ru
+2297	2308	"""Спутник V"""	Спутник V	PRO	PRO-Sputnik-V
+2648	2658	московской	московская	PER	GPE-Moscow
+2744	2754	«Спутник V	Спутник V	PRO	PRO-Sputnik-V
+2756	2769	Гам-Ковид-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+3081	3094	Павел РОМАНОВ	Павел Романов	PER	PER-Pavel-Romanov

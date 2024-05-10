@@ -1,0 +1,42 @@
+0	8	Holandia	Holandia	LOC	GPE-Holland
+35	41	brexit	Brexit	EVT	EVT-Brexit
+56	77	Ministerstwo Finansów	Ministerstwo Finansów	ORG	ORG-Ministry-of-Finance-Holland
+245	251	brexit	Brexit	EVT	EVT-Brexit
+278	280	UE	UE	ORG	ORG-European-Union
+283	300	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+404	412	Sky News	Sky News	PRO	PRO-Sky-News-TV
+415	427	Ministerstwo	Ministerstwo	ORG	ORG-Ministry-of-Finance-Holland
+727	742	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+756	771	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+847	855	Londynem	Londyn	LOC	GPE-London
+858	866	Brukselą	Bruksela	LOC	GPE-Brussles
+920	929	Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+1021	1042	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+1196	1211	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1221	1223	UE	UE	ORG	ORG-European-Union
+1370	1392	Ministerstwie Finansów	Ministerstwo Finansów	ORG	ORG-Ministry-of-Finance-Poland
+1393	1403	Menno Snel	Menno Snel	PER	PER-Menno-Snel
+1503	1505	UE	UE	ORG	ORG-European-Union
+1508	1523	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1567	1595	Światowej Organizacji Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization
+1597	1600	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+1640	1661	Ministerstwa Finansów	Ministerstwo Finansów	ORG	ORG-Ministry-of-Finance-Holland
+1778	1780	UE	UE	ORG	ORG-European-Union
+1800	1806	Kanadą	Kanada	LOC	GPE-Canada
+1826	1830	CETA	CETA	PRO	PRO-CETA
+2042	2046	Haga	Haga	LOC	GPE-Hague
+2143	2151	Brukseli	Bruksela	LOC	GPE-Brussles
+2154	2162	Londynem	Londyn	LOC	GPE-London
+2229	2237	Holandia	Holandia	LOC	GPE-Holland
+2294	2311	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2352	2367	Morzu Północnym	Morze Północne	LOC	LOC-North-Sea
+2406	2408	UE	UE	ORG	ORG-European-Union
+2443	2447	Haga	Haga	LOC	GPE-Hague
+2501	2508	Londynu	Londyn	LOC	GPE-London
+2555	2557	UE	UE	ORG	ORG-European-Union
+2741	2752	Theresy May	Theresa May	PER	PER-Theresa-May
+2782	2793	Marka Rutte	Mark Rutte	PER	PER-Mark-Rutte
+2796	2804	Londynie	Londyn	LOC	GPE-London
+2853	2868	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2902	2904	UE	UE	ORG	ORG-European-Union
+2907	2915	Brukseli	Bruksela	LOC	GPE-Brussles

@@ -1,0 +1,38 @@
+0	18	Britanski poslanci	Britanski poslanci	PER	ORG-British-Parlament
+64	70	brexit	brexit	EVT	EVT-Brexit
+72	90	Britanski poslanci	Britanski poslanci	PER	ORG-British-Parlament
+149	170	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+174	188	Evropske unije	Evropska unija	ORG	ORG-European-Union
+225	232	brexita	brexit	EVT	EVT-Brexit
+373	380	brexita	brexit	EVT	EVT-Brexit
+410	431	britanskem parlamentu	britanski parlament	ORG	ORG-British-Parlament
+544	565	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+569	584	Evropske unije,	Evropska unija	ORG	ORG-European-Union
+661	666	Mayin	May	PER	PER-Theresa-May
+688	696	Brusljem	Bruselj	LOC	GPE-Brussles
+1153	1159	brexit	brexit	EVT	EVT-Brexit
+1193	1207	enotni trg 2.0	enotni trg 2.0	PRO	PRO-European-Single-Market
+1278	1312	Ekonomskemu gospodarskemu prostoru	Ekonomski gospodarski prostor	PRO	PRO-EEA-European-Economic-Area
+1318	1357	Evropskega združenja za prosto trgovino	Evropsko združenje za prosto trgovino	ORG	ORG-European-Free-Trade-Association-EFTA
+1359	1363	Efta	Efta	ORG	ORG-European-Free-Trade-Association-EFTA
+1432	1471	Evropskemu združenju za prosto trgovino	Evropsko združenje za prosto trgovino	ORG	ORG-European-Free-Trade-Association-EFTA
+1473	1489	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+1573	1584	John Bercow	John Bercow	PER	PER-John-Bercow
+1654	1656	EU	EU	ORG	ORG-European-Union
+1668	1688	laburistične stranke	laburistična stranka	ORG	ORG-Labour-Party-UK
+1692	1698	brexit	brexit	EVT	EVT-Brexit
+1792	1797	Otoku	otok	LOC	GPE-Great-Britain
+1914	1921	brexita	brexit	EVT	EVT-Brexit
+2121	2125	Otok	Otok	LOC	GPE-Great-Britain
+2137	2139	EU	EU	ORG	ORG-European-Union
+2249	2265	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+2283	2285	EU	EU	ORG	ORG-European-Union
+2298	2309	Theresa May	Theresa May	PER	PER-Theresa-May
+2363	2370	brexitu	brexit	EVT	EVT-Brexit
+2384	2390	brexit	brexit	EVT	EVT-Brexit
+2391	2406	Stephen Barclay	Stephen Barclay	PER	PER-Stephen-Barclay
+2504	2509	Mayin	May	PER	PER-Theresa-May
+2624	2630	brexit	brexit	EVT	EVT-Brexit
+2656	2662	brexit	brexit	EVT	EVT-Brexit
+2683	2688	Mayin	May	PER	PER-Theresa-May
+2899	2902	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party

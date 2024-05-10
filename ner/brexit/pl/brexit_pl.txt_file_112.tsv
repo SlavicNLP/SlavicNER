@@ -1,0 +1,67 @@
+0	15	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+27	56	Transpacyficznego Partnerstwa	Transpacyficzne Partnerstwo	ORG	ORG-TPP-Trans-Pacific-Partnership
+58	61	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+83	98	Financial Times	Financial Times	PRO	PRO-Financial-Times
+100	106	Londyn	Londyn	LOC	GPE-London
+154	171	Oceanu Spokojnego	Ocean Spokojny	LOC	LOC-Pacific-Ocean
+174	200	Morza Południowochińskiego	Morze Południowochińskie	LOC	LOC-South-China-Sea
+255	258	USA	USA	LOC	GPE-USA
+359	361	UE	UE	ORG	ORG-European-Union
+384	399	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+443	446	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+560	568	Liam Fox	Liam Fox	PER	PER-Liam-Fox
+594	596	FT	FT	PRO	PRO-Financial-Times
+639	654	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+682	685	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+727	754	Transpacyficzne Partnerstwo	Transpacyficzne Partnerstwo	ORG	ORG-TPP-Trans-Pacific-Partnership
+800	806	Londyn	Londyn	LOC	GPE-London
+833	835	UE	UE	ORG	ORG-European-Union
+988	995	Pekinie	Pekin	LOC	GPE-Beijing
+1042	1045	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+1054	1057	USA	USA	LOC	GPE-USA
+1059	1062	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+1155	1172	Oceanu Spokojnego	Ocean Spokojny	LOC	LOC-Pacific-Ocean
+1175	1201	Morza Południowochińskiego	Morze Południowochińskie	LOC	LOC-South-China-Sea
+1277	1286	Australia	Australia	LOC	GPE-Australia
+1288	1294	Brunei	Brunei	LOC	GPE-Brunei
+1296	1301	Chile	Chile	LOC	GPE-Chile
+1303	1310	Japonia	Japonia	LOC	GPE-Japan
+1312	1318	Kanada	Kanada	LOC	GPE-Canada
+1320	1327	Malezja	Malezja	LOC	GPE-Malaysia
+1329	1335	Meksyk	Meksyk	LOC	GPE-Mexico
+1337	1350	Nowa Zelandia	Nowa Zelandia	LOC	GPE-New-Zealand
+1352	1356	Peru	Peru	LOC	GPE-Peru
+1358	1366	Singapur	Singapur	LOC	GPE-Singapore
+1368	1385	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+1388	1395	Wietnam	Wietnam	LOC	GPE-Vietnam
+1445	1458	Baracka Obamy	Barack Obama	PER	PER-Barack-Obama
+1535	1547	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1556	1559	USA	USA	LOC	GPE-USA
+1635	1646	Waszyngtonu	Waszyngton	LOC	GPE-WashingtonDC
+1693	1696	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+1754	1756	FT	FT	PRO	PRO-Financial-Times
+1758	1764	Londyn	Londyn	LOC	GPE-London
+1882	1897	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1900	1902	UE	UE	ORG	ORG-European-Union
+1954	1957	USA	USA	LOC	GPE-USA
+2045	2060	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2078	2095	Oceanem Spokojnym	Ocean Spokojny	LOC	LOC-Pacific-Ocean
+2104	2128	Morzu Południowochińskim	Morze Południowochińskie	LOC	LOC-South-China-Sea
+2163	2192	Transpacyficznego Partnerstwa	Transpacyficzne Partnerstwo	ORG	ORG-TPP-Trans-Pacific-Partnership
+2210	2212	FT	FT	PRO	PRO-Financial-Times
+2244	2254	Greg Hands	Greg Hands	PER	PER-Greg-Hands
+2336	2342	Londyn	Londyn	LOC	GPE-London
+2363	2365	UE	UE	ORG	ORG-European-Union
+2397	2400	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+2500	2502	UE	UE	ORG	ORG-European-Union
+2544	2550	Londyn	Londyn	LOC	GPE-London
+2594	2602	Brukseli	Bruksela	LOC	GPE-Brussles
+2665	2672	brexitu	Brexit	EVT	EVT-Brexit
+2724	2726	UE	UE	ORG	ORG-European-Union
+2786	2793	Londynu	Londyn	LOC	GPE-London
+2797	2800	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+2916	2945	Transpacyficznego Partnerstwa	Transpacyficzne Partnerstwo	ORG	ORG-TPP-Trans-Pacific-Partnership
+2991	3008	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3110	3113	TPP	TPP	ORG	ORG-TPP-Trans-Pacific-Partnership
+3115	3178	Biuro Prasowe brytyjskiego Departamentu Handlu Międzynarodowego	Biuro Prasowe brytyjskiego Departamentu Handlu Międzynarodowego	ORG	ORG-UK-Department-of-International-Trade-Press-Office
+3193	3196	BBC	BBC	PRO	PRO-BBC

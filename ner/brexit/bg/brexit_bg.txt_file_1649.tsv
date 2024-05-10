@@ -1,0 +1,30 @@
+67	74	Брекзит	Брекзит	EVT	EVT-Brexit
+110	122	Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+139	146	Брекзит	Брекзит	EVT	EVT-Brexit
+147	160	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+255	262	Брекзит	Брекзит	EVT	EVT-Brexit
+316	336	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+345	352	Гардиън	Гардиън	PRO	PRO-The-Guardian
+382	390	Германия	Германия	LOC	GPE-Germany
+408	414	Берлин	Берлин	LOC	GPE-Berlin
+425	427	ЕС	ЕС	ORG	ORG-European-Union
+570	572	ЕС	ЕС	ORG	ORG-European-Union
+739	746	Брекзит	Брекзит	EVT	EVT-Brexit
+819	829	еврозоната	Еврозона	LOC	LOC-Eurozone
+869	877	Ирландия	Ирландия	LOC	GPE-Ireland
+879	889	Португалия	Португалия	LOC	GPE-Portugal
+892	898	Гърция	Гърция	LOC	GPE-Greece
+922	924	ЕС	ЕС	ORG	ORG-European-Union
+972	988	Лондонското сити	Лондонско Сити	LOC	LOC-City-of-London
+997	1017	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1066	1081	Файненшъл таймс	Файненшъл таймс	PRO	PRO-Financial-Times
+1092	1094	ЕС	ЕС	ORG	ORG-European-Union
+1149	1169	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1233	1255	Frankfurter Allgemeine	Frankfurter Allgemeine	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+1256	1262	Хамънд	Хамънд	PER	PER-Philip-Hammond
+1265	1271	Дейвис	Дейвис	PER	PER-David-Davis
+1282	1288	Лондон	Лондон	LOC	GPE-London
+1538	1552	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1555	1557	ЕС	ЕС	ORG	ORG-European-Union
+1652	1654	ЕС	ЕС	ORG	ORG-European-Union
+1672	1680	Германия	Германия	LOC	GPE-Germany

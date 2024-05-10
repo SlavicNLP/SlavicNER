@@ -1,0 +1,12 @@
+0	2	KE	KE	ORG	ORG-European-Commission
+73	75	UE	UE	ORG	ORG-European-Union
+189	197	Brukseli	Bruksela	LOC	GPE-Brussles
+275	299	Wspólnej Polityki Rolnej	Wspólna Polityka Rolna	PRO	PRO-CAP-Common-Agricultural-Policy
+301	304	WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+406	408	UE	UE	ORG	ORG-European-Union
+411	431	Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+498	500	UE	UE	ORG	ORG-European-Union
+674	680	Brexit	Brexit	EVT	EVT-Brexit
+717	719	UE	UE	ORG	ORG-European-Union
+758	760	UE	UE	ORG	ORG-European-Union
+773	790	Günther Oettinger	Günther Oettinger	PER	PER-Guenther-Oettinger

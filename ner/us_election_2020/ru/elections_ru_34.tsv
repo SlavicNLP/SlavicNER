@@ -1,0 +1,91 @@
+0	3	США	США	LOC	GPE-USA
+27	35	русскими	русские	LOC	GPE-Russia
+58	64	Трампа	Трамп	PER	PER-Donald-Trump
+67	77	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+93	98	Трамп	Трамп	PER	PER-Donald-Trump
+141	151	российском	российский	LOC	GPE-Russia
+190	193	США	США	LOC	GPE-USA
+194	207	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+229	242	американского	американский	LOC	GPE-USA
+250	265	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+281	287	Россия	Россия	LOC	GPE-Russia
+320	373	Национальное управление телекоммуникаций и информации	Национальное управление телекоммуникаций и информации	ORG	ORG-National-Telecommunications-and-Information-Administration-USA
+375	379	NTIA	NTIA	ORG	ORG-National-Telecommunications-and-Information-Administration-USA
+401	422	департамента торговли	департамента торговли	ORG	ORG-US-Department-of-Commerce
+426	454	Департамент казначейства США	Департамент казначейства США	ORG	ORG-United-States-Department-of-the-Treasury
+489	500	Белого дома	Белый дом	ORG	ORG-The-White-House
+574	585	Уилмингтоне	Уилмингтон	LOC	GPE-Wilmington
+592	599	Делавэр	Делавэр	LOC	GPE-Delaware
+601	607	Байден	Байден	PER	PER-Joe-Biden
+623	636	республиканец	республиканец	PER	ORG-Republican-Party-USA
+725	730	Китай	Китай	LOC	GPE-China
+746	750	NTIA	NTIA	ORG	ORG-National-Telecommunications-and-Information-Administration-USA
+845	860	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+962	968	Трампа	Трамп	PER	PER-Donald-Trump
+1085	1088	США	США	LOC	GPE-USA
+1161	1166	Трамп	Трамп	PER	PER-Donald-Trump
+1271	1277	России	Россия	LOC	GPE-Russia
+1322	1334	американские	американские	LOC	GPE-USA
+1424	1430	Трампа	Трам	PER	PER-Donald-Trump
+1431	1449	Джордж Пападопулос	Джордж Пападопулос	PER	PER-George-Papadopoulos
+1452	1463	голландский	голландский	LOC	GPE-Denmark
+1470	1488	Алекс ван дер Цван	Алекс ван дер Цван	PER	PER-Алексей-Осин
+1530	1562	президентской кампании 2016 года	президентская кампания 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+1578	1585	Россией	Россия	LOC	GPE-Russia
+1619	1622	ФБР	ФБР	ORG	ORG-FBI
+1624	1642	Алекс ван дер Цван	Алекс ван дер Цван	PER	PER-Алексей-Осин
+1757	1763	Трампа	Трам	PER	PER-Donald-Trump
+1764	1778	Пола Манафорта	Пол Манафорт	PER	PER-Paul-Manafort
+1800	1807	Украины	Украина	LOC	GPE-Ukraine
+1808	1827	Виктором Януковичем	Виктор Янукович	PER	PER-Viktor-Yanukovych
+1853	1865	Крис Коллинз	Крис Коллинз	PER	PER-Chris-Collins
+1922	1925	ФБР	ФБР	ORG	ORG-FBI
+1929	1942	Дункан Хантер	Дункан Хантер	PER	PER-Duncan-Hunter
+2001	2014	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2084	2095	Белого дома	Белый дом	ORG	ORG-The-White-House
+2197	2210	Роберт Мюллер	Роберт Мюллер	PER	PER-Robert-Mueller
+2232	2238	Россию	Россия	LOC	GPE-Russia
+2398	2404	Мюллер	Мюллер	PER	PER-Jens-Muller
+2447	2453	Москвы	Москва	LOC	GPE-Moscow
+2565	2601	избирательной кампании Трампа в 2016	избирательная кампания Трампа в 2016	EVT	EVT-Donald-Trump-2016-presidential-campaign
+2607	2627	Джорджа Пападопулоса	Джордж Пападопулос	PER	PER-George-Papadopoulos
+2698	2713	Роберта Мюллера	Роберт Мюллер	PER	PER-Robert-Mueller
+2763	2774	Белого дома	Белый дом	ORG	ORG-The-White-House
+2778	2788	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+2814	2821	Мюллера	Мюллера	PER	PER-Robert-Mueller
+2944	2966	Института США и Канады	Институт США и Канады	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAN
+2978	2999	Александра Филиппенко	Александра Филиппенко	PER	PER-Alexandra-Filipenko
+3023	3032	демократу	демократ	PER	ORG-Democratic-Party-USA
+3096	3107	американцев	американцы	LOC	GPE-USA
+3171	3177	Байден	Байден	PER	PER-Joe-Biden
+3273	3284	Белого дома	Белый дом	ORG	ORG-The-White-House
+3458	3465	Байдена	Байден	PER	PER-Joe-Biden
+3491	3502	американцев	американцы	LOC	GPE-USA
+3536	3549	коронавирусом	коронавирус	EVT	EVT-Covid-19
+3552	3555	США	США	LOC	GPE-USA
+3614	3627	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+3713	3732	инаугурация Байдена	инаугурация Байдена	EVT	EVT-2020-Inauguration-of-Joe-Biden
+3779	3789	Филиппенко	Филиппенко	PER	PER-Alexandra-Filipenko
+3804	3814	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3850	3861	российского	российский	LOC	GPE-Russia
+3906	3917	американцев	американцы	LOC	GPE-USA
+3929	3935	Трампа	Трамп	PER	PER-Donald-Trump
+3993	4004	Белого дома	Белый дом	ORG	ORG-The-White-House
+4091	4101	российским	российское	LOC	GPE-Russia
+4119	4132	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+4163	4173	Филиппенко	Филиппенко	PER	PER-Alexandra-Filipenko
+4211	4224	республиканец	республиканец	PER	ORG-Republican-Party-USA
+4289	4302	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+4692	4697	Трамп	Трамп	PER	PER-Donald-Trump
+4706	4712	России	Россия	LOC	GPE-Russia
+4723	4727	NTIA	NTIA	ORG	ORG-National-Telecommunications-and-Information-Administration-USA
+4730	4759	департамента казначейства США	Департамент казначейства США	ORG	ORG-United-States-Department-of-the-Treasury
+4785	4797	американские	американские	LOC	GPE-USA
+4888	4893	Китая	Китай	LOC	GPE-China
+4915	4939	The Washington Post (WP)	The Washington Post (WP)	PRO	PRO-Washington-Examiner
+4982	4987	APT29	APT29	ORG	ORG-ART29
+4992	5001	Cozy Bear	Cozy Bear	ORG	ORG-ART29
+5049	5055	России	Россия	LOC	GPE-Russia
+5088	5094	Кремля	Кремль	ORG	ORG-Kremlin
+5110	5122	американских	американский	LOC	GPE-USA
+5179	5188	France 24	France 24	PRO	PRO-France-24

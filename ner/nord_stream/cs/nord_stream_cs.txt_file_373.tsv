@@ -1,0 +1,24 @@
+0	9	Merkelová	Merkelová	PER	PER-Angela-Merkel
+15	19	Baku	Baku	LOC	GPE-Baku
+80	87	střední	střední	LOC	LOC-Central-Europe
+90	105	východní Evropy	východní Evropa	LOC	LOC-Eastern-Europe
+113	126	Spojené státy	Spojené státy	LOC	GPE-USA
+137	144	Německo	Německo	LOC	GPE-Germany
+165	178	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+180	186	Berlín	Berlín	LOC	GPE-Berlin
+199	206	Moskvou	Moskva	LOC	GPE-Moscow
+257	271	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+310	318	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+373	389	Angela Merkelová	Angela Merkelová	PER	PER-Angela-Merkel
+413	425	Ázerbájdžánu	Ázerbájdžán	LOC	GPE-Azerbaijan
+429	434	Němci	Němci	PER	GPE-Germany
+629	642	Evropské unie	Evropská unie	ORG	ORG-European-Union
+712	728	Angele Merkelové	Angela Merkelová	PER	PER-Angela-Merkel
+785	801	Ilhamem Alijevem	Ilham Alijev	PER	PER-Ilham-Aliyev
+889	896	Turecko	Turecko	LOC	GPE-Turkey
+900	906	Evropy	Evropa	LOC	LOC-Europe
+956	964	Evropané	Evropané	PER	LOC-Europe
+1032	1038	Ruskem	Rusko	LOC	GPE-Russia
+1041	1050	Ukrajinou	Ukrajina	LOC	GPE-Ukraine
+1110	1117	Německo	Německo	LOC	GPE-Germany
+1190	1195	Rusko	Rusko	LOC	GPE-Russia

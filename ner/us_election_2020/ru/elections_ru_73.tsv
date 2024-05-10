@@ -1,0 +1,93 @@
+92	98	Байден	Байден	PER	PER-Joe-Biden
+143	149	Трампу	Трамп	PER	PER-Donald-Trump
+152	158	Байден	Байден	PER	PER-Joe-Biden
+203	209	Трампу	Трамп	PER	PER-Donald-Trump
+232	235	США	США	LOC	GPE-USA
+236	246	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+313	328	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+330	341	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+356	365	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+375	386	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+408	411	США	США	LOC	GPE-USA
+412	422	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+489	504	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+546	556	демократам	демократы	ORG	ORG-Democratic-Party-USA
+569	577	конгресс	Конгресс	ORG	ORG-United-States-Congress
+673	681	конгресс	Конгресс	ORG	ORG-United-States-Congress
+715	721	Байден	Байден	PER	PER-Joe-Biden
+788	800	коронавируса	коронавирус	EVT	EVT-Covid-19
+858	864	Байден	Байден	PER	PER-Joe-Biden
+909	915	Трампу	Трамп	PER	PER-Donald-Trump
+918	927	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+937	948	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+970	973	США	США	LOC	GPE-USA
+974	984	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1051	1066	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+1081	1089	конгресс	Конгресс	ORG	ORG-United-States-Congress
+1113	1119	Байден	Байден	PER	PER-Joe-Biden
+1185	1195	демократам	демократы	ORG	ORG-Democratic-Party-USA
+1208	1216	конгресс	Конгресс	ORG	ORG-United-States-Congress
+1312	1320	конгресс	Конргресс	ORG	ORG-United-States-Congress
+1357	1363	Байден	Байден	PER	PER-Joe-Biden
+1430	1442	коронавируса	коронавирус	EVT	EVT-Covid-19
+1511	1517	Трампа	Трам	PER	PER-Donald-Trump
+1654	1660	Трампа	Трам	PER	PER-Donald-Trump
+2000	2003	США	США	LOC	GPE-USA
+2101	2104	США	США	LOC	GPE-USA
+2183	2204	палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2292	2313	палаты представителей	палата представителей	ORG	ORG-United-States-House-of-Representatives
+2393	2406	конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+2572	2585	конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+2722	2727	Трамп	Трамп	PER	PER-Donald-Trump
+2751	2761	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+2838	2841	США	США	LOC	GPE-USA
+2842	2852	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+2934	2939	Трамп	Трамп	PER	PER-Donald-Trump
+2963	2973	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3050	3053	США	США	LOC	GPE-USA
+3054	3064	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3204	3213	конгресса	Конгресс	ORG	ORG-United-States-Congress
+3274	3284	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3397	3406	конгресса	Конгресс	ORG	ORG-United-States-Congress
+3467	3477	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+3513	3533	американской столице	Американская столица	LOC	GPE-WashingtonDC
+3573	3583	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+3584	3596	Роберт Конти	Роберт Конти	PER	Роберт Мюллер
+3654	3674	американской столице	Американская столица	LOC	GPE-WashingtonDC
+3714	3724	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+3725	3737	Роберт Конти	Роберт Конти	PER	Роберт Мюллер
+3787	3808	палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+3818	3829	Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+3885	3900	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+3911	3934	протестами в Вашингтоне	Протесты в Вашингтоне	EVT	EVT-Protests-WashingtonDC
+3950	3960	демократов	демократ	ORG	ORG-Democratic-Party-USA
+3999	4002	США	США	LOC	GPE-USA
+4040	4061	палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+4062	4070	демократ	демократ	ORG	ORG-Democratic-Party-USA
+4071	4082	Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+4138	4153	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+4164	4187	протестами в Вашингтоне	Протесты в Вашингтоне	EVT	EVT-Protests-WashingtonDC
+4203	4213	демократов	демократ	ORG	ORG-Democratic-Party-USA
+4252	4255	США	США	LOC	GPE-USA
+4288	4294	Трампа	Трам	PER	PER-Donald-Trump
+4530	4533	США	США	LOC	GPE-USA
+4612	4633	палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+4713	4726	конгресса США	Конгресс США	ORG	ORG-United-States-Congress
+4863	4868	Трамп	Трамп	PER	PER-Donald-Trump
+4892	4902	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+4979	4982	США	США	LOC	GPE-USA
+4983	4993	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+5203	5213	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+5249	5269	американской столице	Американская столица	LOC	GPE-WashingtonDC
+5309	5319	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+5320	5332	Роберт Конти	Роберт Конти	PER	Роберт Мюллер
+5382	5403	палаты представителей	Палата представитлей	ORG	ORG-United-States-House-of-Representatives
+5404	5412	демократ	демократ	ORG	ORG-Democratic-Party-USA
+5413	5424	Ильхан Омар	Ильхан Омар	PER	PER-Ilhan-Omar
+5480	5495	Дональду Трампу	Дональд Трамп	PER	PER-Donald-Trump
+5506	5529	протестами в Вашингтоне	Протесты в Вашингтоне	EVT	EVT-Protests-WashingtonDC
+5545	5555	демократов	демократ	ORG	ORG-Democratic-Party-USA
+5594	5597	США	США	LOC	GPE-USA
+5675	5780	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	Федеральное государственное унитарное предприятие Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-RussiaToday
+5782	5802	МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+5858	5872	Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.

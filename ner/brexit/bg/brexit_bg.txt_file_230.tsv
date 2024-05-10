@@ -1,0 +1,11 @@
+0	2	ЕК	ЕК	ORG	ORG-European-Commission
+42	49	брекзит	Брекзит	EVT	EVT-Brexit
+51	71	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+126	140	Великобритания	Великобритания	LOC	GPE-Great-Britain
+144	160	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+207	219	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+251	257	Лондон	Лондон	LOC	GPE-London
+260	267	Брюксел	Брюксел	LOC	GPE-Brussles
+350	370	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+470	484	Великобритания	Великобритания	LOC	GPE-Great-Britain
+532	547	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice

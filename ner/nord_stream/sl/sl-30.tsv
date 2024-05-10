@@ -1,0 +1,28 @@
+0	5	Putin	Putin	PER	PER-Vladimir-Putin
+9	11	Xi	Xi	PER	PER-Xi-Jinping
+37	43	Rusijo	Rusija	LOC	GPE-Russia
+47	55	Kitajsko	Kitajska	LOC	GPE-China
+183	189	Rusijo	Rusija	LOC	GPE-Russia
+193	201	Kitajsko	Kitajska	LOC	GPE-China
+286	291	Putin	Putin	PER	PER-Vladimir-Putin
+294	296	Xi	Xi	PER	PER-Xi-Jinping
+537	540	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+560	568	Gazproma	Gazprom	ORG	ORG-Gazprom
+569	583	Aleksej Miller	Aleksej Miller	PER	PER-Aleksey-Miller
+669	677	Kitajski	Kitajska	LOC	GPE-China
+709	735	Ljudske republike Kitajske	Ljudska republika Kitajska	LOC	GPE-China
+818	826	Jakutija	Jakutija	LOC	GPE-Sakha-Republic-(Yakutia)
+857	871	Blagoveščenska	Blagoveščensk	LOC	LOC-Blagoveshchensk
+911	919	Kitajsko	Kitajska	LOC	GPE-China
+990	997	Gazprom	Gazprom	ORG	ORG-Gazprom
+1029	1065	China National Petroleum Corporation	China National Petroleum Corporation	ORG	ORG-The-China-National-Petroleum-Corporation
+1111	1119	Kitajski	Kitajska	LOC	GPE-China
+1295	1301	Rusija	Rusija	LOC	GPE-Russia
+1302	1310	Kitajski	Kitajska	LOC	GPE-China
+1364	1370	Rusija	Rusija	LOC	GPE-Russia
+1431	1437	Evropi	Evropa	LOC	LOC-Europe
+1455	1463	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1513	1523	Turški tok	Turški tok	PRO	PRO-TurkStream
+1558	1565	Turčiji	Turčija	LOC	GPE-Turkey
+1567	1580	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+1614	1621	Nemčiji	Nemčija	LOC	GPE-Germany

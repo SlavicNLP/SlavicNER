@@ -1,0 +1,13 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+28	31	САЩ	САЩ	LOC	GPE-USA
+54	71	“Северен поток“ 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+73	90	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+113	116	САЩ	САЩ	LOC	GPE-USA
+139	156	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+209	224	Енергийния съюз	Енергиен съюз	ORG	ORG-Energy-union
+225	239	Марош Шефчович	Марош Шефчович	PER	PER-Maros-Sefcovic
+269	288	Атлантическия съвет	Атлантически съвет	ORG	ORG-Atlantic-Council
+293	302	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+372	379	Youtube	Youtube	PRO	PRO-YouTube
+489	497	Шефчович	Шефчович	PER	PER-Maros-Sefcovic
+535	537	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,52 @@
+24	34	Йоша Вебер	Йоша Вебер	PER	PER-Joscha-Weber
+36	47	Робърт Мюдж	Робърт Мюдж	PER	PER-Robert-Mudge
+88	91	САЩ	САЩ	LOC	GPE-USA
+104	109	Тръмп	Тръмп	PER	PER-Donald-Trump
+168	180	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+217	227	Дойче Веле	Дойче Веле	ORG	ORG-Deutsche-Welle
+310	313	САЩ	САЩ	LOC	GPE-USA
+370	374	Уейн	Уейн	LOC	GPE-Wayne-County
+381	388	Детройт	Детройт	LOC	GPE-Detroit
+595	601	Туитър	Туитър	PRO	PRO-Twitter
+864	867	САЩ	САЩ	LOC	GPE-USA
+1081	1115	Вътрешното министерство на Мичиган	Вътрешно министерство на Мичиган	ORG	ORG-Department-of-the-Interior-Michigan
+1387	1399	Уилям Брадли	Уилям Брадли	PER	PER-William-Bradley
+1540	1552	Уилям Брадли	Уилям Брадли	PER	PER-William-Bradley
+1685	1696	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1898	1907	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+2130	2164	Избирателната комисия на Уисконсин	Избирателна комисия на Уисконсин	ORG	ORG-Wisconsin-Election-Comission
+2166	2194	Wisconsin Election Comission	Wisconsin Election Comission	ORG	ORG-Wisconsin-Election-Comission
+2641	2654	Ню Йорк Таймс	Ню Йорк Таймс	PRO	PRO-The-New-York-Times
+2734	2745	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+2817	2823	Невада	Невада	LOC	GPE-Nevada
+2905	2912	Аризона	Аризона	LOC	GPE-Arizona
+3109	3123	републиканците	републиканци	PER	ORG-Republican-Party-USA
+3219	3231	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3254	3266	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+3417	3431	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3466	3472	Байдън	Байдън	PER	PER-Joe-Biden
+3504	3509	Обама	Обама	PER	PER-Barack-Obama
+3584	3589	Тръмп	Тръмп	PER	PER-Donald-Trump
+3636	3654	The Sunday Express	The Sunday Express	PRO	PRO-The-Sunday-Express
+3679	3691	Патрик Бешъм	Патрик Бешъм	PER	PER-Patrick-Basham
+3736	3755	Democracy Institute	Democracy Institute	ORG	ORG-Democracy-Institute
+3764	3769	Бешъм	Бешъм	PER	PER-Patrick-Basham
+3806	3811	Тръмп	Тръмп	PER	PER-Donald-Trump
+3864	3875	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+3877	3884	Мичиган	Мичиган	LOC	GPE-Michigan
+3887	3896	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+3968	3974	Байдън	Байдън	PER	PER-Joe-Biden
+4020	4025	Тръмп	Тръмп	PER	PER-Donald-Trump
+4173	4178	Тръмп	Тръмп	PER	PER-Donald-Trump
+4249	4263	републиканците	републиканци	PER	ORG-Republican-Party-USA
+4266	4273	Мичиган	Мичиган	LOC	GPE-Michigan
+4274	4283	Лора Кокс	Лора Кокс	PER	PER-Laura-Cox
+4348	4360	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+4373	4386	Антрим Каунти	Антрим Каунти	LOC	GPE-Antrim-County
+4426	4436	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+4458	4471	Антрим Каунти	Антрим Каунти	LOC	GPE-Antrim-County
+4740	4754	републиканците	републиканци	PER	ORG-Republican-Party-USA
+4842	4856	Джослин Бенсън	Джослин Бенсън	PER	PER-Jocelyn-Benson
+4893	4900	Мичиган	Мичиган	LOC	GPE-Michigan
+5036	5043	Мичиган	Мичиган	LOC	GPE-Michigan
+5044	5059	Алекс Халдерман	Алекс Халдерман	PER	PER-Alex-Halderman

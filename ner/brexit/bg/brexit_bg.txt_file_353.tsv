@@ -1,0 +1,12 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+64	66	ЕС	ЕС	ORG	ORG-European-Union
+113	127	Великобритания	Великобритания	LOC	GPE-Great-Britain
+128	138	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+187	203	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+238	245	Ройтерс	Ройтерс	ORG	ORG-Reuters
+331	338	Брекзит	Брекзит	EVT	EVT-Brexit
+375	389	Великобритания	Великобритания	LOC	GPE-Great-Britain
+392	408	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+462	472	британците	британци	PER	GPE-Great-Britain
+564	570	bnr.bg	bnr.bg	PRO	PRO-bnr.bg
+571	576	Днес+	Днес+	ORG	ORG-DnesPlus

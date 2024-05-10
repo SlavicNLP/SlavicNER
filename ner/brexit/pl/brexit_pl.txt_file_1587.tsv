@@ -1,0 +1,62 @@
+13	36	brytyjskiego parlamentu	Brytyjski Parlament	ORG	ORG-British-Parlament
+56	63	brexitu	Brexit	EVT	EVT-Brexit
+84	103	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+129	137	Londynie	Londyn	LOC	GPE-London
+195	210	Nigelem Oakesem	Nigel Oakes	PER	PER-Nigel-Oakes
+220	229	SCL Group	SCL Group	ORG	ORG-SCL-Group
+243	262	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+264	266	CA	CA	ORG	ORG-Cambridge-Analytica
+365	374	Facebooka	Facebook	PRO	PRO-Facebook
+446	463	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+466	483	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+510	512	CA	CA	ORG	ORG-Cambridge-Analytica
+521	536	agencja Reutera	Agencja Reutera	ORG	ORG-Reuters
+563	568	Oakes	Oakes	PER	PER-Nigel-Oakes
+593	601	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+670	693	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+696	700	Unii	Unia	ORG	ORG-European-Union
+731	750	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+879	886	brexitu	Brexit	EVT	EVT-Brexit
+889	894	Oakes	Oakes	PER	PER-Nigel-Oakes
+973	975	CA	CA	ORG	ORG-Cambridge-Analytica
+1055	1063	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+1172	1181	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1190	1197	Reuters	Reuters	ORG	ORG-Reuters
+1222	1241	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+1271	1283	Andy Wigmore	Andy Wigmore	PER	PER-Andy-Wigmore
+1286	1294	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+1340	1359	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+1392	1400	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+1459	1463	Unii	Unia	ORG	ORG-European-Union
+1480	1490	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+1564	1573	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1585	1592	Reuters	Reuters	ORG	ORG-Reuters
+1624	1648	komisji do spraw kultury	Komisja do spraw kultury	ORG	ORG-Committee-on-Culture
+1666	1680	Damian Collins	Damian Collins	PER	PER-Damian-Collins
+1714	1722	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+1745	1764	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+1873	1884	Nigel Oakes	Nigel Oakes	PER	PER-Nigel-Oakes
+1911	1920	Wigmore’a	Wigmore	PER	PER-Andy-Wigmore
+1934	1942	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+1984	1986	CA	CA	ORG	ORG-Cambridge-Analytica
+2034	2042	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+2171	2179	brexitem	Brexit	EVT	EVT-Brexit
+2246	2254	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+2255	2266	Arron Banks	Arron Banks	PER	PER-Arron-Banks
+2358	2377	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+2528	2530	CA	CA	ORG	ORG-Cambridge-Analytica
+2531	2544	Alexander Nix	Alexander Nix	PER	PER-Alexander-Nix
+2602	2610	Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+2719	2726	Reuters	Reuters	ORG	ORG-Reuters
+2734	2753	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+2823	2835	The Observer	The Observer	PRO	PRO-The-Observer
+2845	2854	Facebooka	Facebook	PRO	PRO-Facebook
+2986	2988	CA	CA	ORG	ORG-Cambridge-Analytica
+3027	3041	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+3097	3128	urzędu ochrony danych osobowych	Urząd ochrony danych osobowych	ORG	ORG-UODO-Urząd-Ochrony-Danych-Osobowych
+3160	3179	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+3188	3197	Facebooka	Facebook	PRO	PRO-Facebook
+3386	3395	Facebooku	Facebook	PRO	PRO-Facebook
+3475	3484	Kongresie	Kongres	ORG	ORG-United-States-Congress
+3522	3531	Facebooka	Facebook	PRO	PRO-Facebook
+3532	3547	Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg

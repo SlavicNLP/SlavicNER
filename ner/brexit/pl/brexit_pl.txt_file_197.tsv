@@ -1,0 +1,61 @@
+69	76	brexitu	Brexit	EVT	EVT-Brexit
+92	109	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+361	368	Europie	Europa	LOC	LOC-Europe
+496	504	brexitem	Brexit	EVT	EVT-Brexit
+595	597	UE	UE	ORG	ORG-European-Union
+598	613	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+688	691	SES	SES	LOC	LOC-SES
+707	712	SESAR	SESAR	PRO	PRO-SESAR
+791	808	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+810	837	Światowa Organizacja Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization
+839	842	WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+903	905	UE	UE	ORG	ORG-European-Union
+1074	1076	UE	UE	ORG	ORG-European-Union
+1160	1208	Europejskie Stowarzyszenie Lotnictwa Biznesowego	Europejskie Stowarzyszenie Lotnictwa Biznesowego	ORG	ORG-EBAA-European-Business-Aviation-Association
+1210	1214	EBAA	EBAA	ORG	ORG-EBAA-European-Business-Aviation-Association
+1340	1357	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1360	1393	Europejskim Obszarze Gospodarczym	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+1395	1398	EOG	EOG	ORG	ORG-EEA-European-Economic-Area
+1523	1538	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1541	1545	Unią	Unia	ORG	ORG-European-Union
+1585	1593	Bruksela	Bruksela	LOC	GPE-Brussles
+1607	1614	Szwecją	Szwecja	LOC	GPE-Sweden
+1623	1627	EBAA	EBAA	ORG	ORG-EBAA-European-Business-Aviation-Association
+1772	1779	brexitu	Brexit	EVT	EVT-Brexit
+1794	1807	Robert Baltus	Robert Baltus	PER	PER-Robert-Baltus
+1836	1840	EBAA	EBAA	ORG	ORG-EBAA-European-Business-Aviation-Association
+1985	1992	Europie	Europa	LOC	LOC-Europe
+2043	2069	Urzędu Lotnictwa Cywilnego	Urzęd Lotnictwa Cywilnego	ORG	ORG-CAA-Civil-Aviation-Authority
+2071	2074	CAA	CAA	ORG	ORG-CAA-Civil-Aviation-Authority
+2098	2144	Europejskiej Agencji Bezpieczeństwa Lotniczego	Europejska Agencja Bezpieczeństwa Lotniczego	ORG	ORG-EASA-European-Aviation-Safety-Agency
+2146	2150	EASA	EASA	ORG	ORG-EASA-European-Aviation-Safety-Agency
+2165	2176	Theresy May	Theresa May	PER	PER-Theresa-May
+2233	2248	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2334	2352	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+2395	2399	EBAA	EBAA	ORG	ORG-EBAA-European-Business-Aviation-Association
+2479	2481	UE	UE	ORG	ORG-European-Union
+2484	2505	Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+2508	2514	Kanadą	Kanada	LOC	GPE-Canada
+2531	2537	Londyn	Londyn	LOC	GPE-London
+2591	2593	UE	UE	ORG	ORG-European-Union
+2642	2646	Unii	Unia	ORG	ORG-European-Union
+2695	2703	Norwegia	Norwegia	LOC	GPE-Norway
+2705	2713	Islandia	Islandia	LOC	GPE-Iceland
+2716	2729	Liechtenstein	Liechtenstein	LOC	GPE-Liechtenstein
+2744	2757	Andrew Haines	Andrew Haines	PER	PER-Andrew-Haines
+2768	2771	CAA	CAA	ORG	ORG-CAA-Civil-Aviation-Authority
+2979	2992	Robert Baltus	Robert Baltus	PER	PER-Robert-Baltus
+3015	3030	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3137	3139	UE	UE	ORG	ORG-European-Union
+3142	3155	Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+3252	3256	EASA	EASA	ORG	ORG-EASA-European-Aviation-Safety-Agency
+3469	3480	Theresy May	Theresa May	PER	PER-Theresa-May
+3496	3511	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3551	3553	UE	UE	ORG	ORG-European-Union
+3604	3608	EASA	EASA	ORG	ORG-EASA-European-Aviation-Safety-Agency
+3763	3770	EasyJet	EasyJet	ORG	ORG-EasyJet
+3827	3829	UE	UE	ORG	ORG-European-Union
+3875	3882	Ryanair	Ryanair	ORG	ORG-Ryanair
+4020	4027	Baltusa	Baltus	PER	PER-Robert-Baltus
+4260	4262	UE	UE	ORG	ORG-European-Union
+4268	4285	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

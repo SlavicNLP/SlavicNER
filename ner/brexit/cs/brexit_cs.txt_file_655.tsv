@@ -1,0 +1,10 @@
+0	7	Barnier	Barnier	PER	PER-Michel-Barnier
+18	25	brexitu	brexit	EVT	EVT-Brexit
+77	85	Británie	Británie	LOC	GPE-Great-Britain
+88	92	Unie	Unie	ORG	ORG-European-Union
+122	124	EU	EU	ORG	ORG-European-Union
+127	135	Británie	Británie	LOC	GPE-Great-Britain
+268	283	Davidem Davisem	David Davis	PER	PER-David-Davis
+316	330	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+333	336	BBC	BBC	PRO	PRO-BBC
+338	341	ČTK	ČTK	ORG	ORG-CTK

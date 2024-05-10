@@ -1,0 +1,63 @@
+18	31	Дмитрий Минин	Дмитрий Минин	PER	PER-Dmitrii-Minin
+34	45	Поглед.инфо	Поглед.инфо	PRO	PRO-Pogled.info
+104	109	Тръмп	Тръмп	PER	PER-Donald-Trump
+168	178	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+209	214	Тръмп	Тръмп	PER	PER-Donald-Trump
+321	344	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+367	370	САЩ	САЩ	LOC	GPE-USA
+440	446	Байдън	Байдън	PER	PER-Joe-Biden
+462	467	Путин	Путин	PER	PER-Vladimir-Putin
+852	859	Америка	Америка	LOC	GPE-USA
+926	931	Тръмп	Тръмп	PER	PER-Donald-Trump
+978	1000	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+1050	1055	Тръмп	Тръмп	PER	PER-Donald-Trump
+1142	1156	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+1292	1297	Тръмп	Тръмп	PER	PER-Donald-Trump
+1536	1539	САЩ	САЩ	LOC	GPE-USA
+1578	1589	демократите	демократи	PER	ORG-Democratic-Party-USA
+1999	2013	Републиканците	републиканци	PER	ORG-Republican-Party-USA
+2049	2060	демократите	демократи	PER	ORG-Democratic-Party-USA
+2389	2401	коронавируса	коронавирус	EVT	EVT-Covid-19
+2781	2792	демократите	демократи	PER	ORG-Democratic-Party-USA
+2945	2954	демократи	демократи	PER	ORG-Democratic-Party-USA
+3127	3132	Тръмп	Тръмп	PER	PER-Donald-Trump
+3257	3268	демократите	демократи	PER	ORG-Democratic-Party-USA
+3323	3329	Байдън	Байдън	PER	PER-Joe-Biden
+3336	3350	републиканците	републиканци	PER	ORG-Republican-Party-USA
+3977	3983	Байдън	Байдън	PER	PER-Joe-Biden
+4259	4264	Тръмп	Тръмп	PER	PER-Donald-Trump
+4356	4362	Байдън	Байдън	PER	PER-Joe-Biden
+4481	4486	Тръмп	Тръмп	PER	PER-Donald-Trump
+4520	4529	Белия дом	Бял дом	LOC	LOC-White-House
+4633	4639	Байдън	Байдън	PER	PER-Joe-Biden
+4813	4819	Байдън	Байдън	PER	PER-Joe-Biden
+4922	4933	демократите	демократи	PER	ORG-Democratic-Party-USA
+4967	4972	Тръмп	Тръмп	PER	PER-Donald-Trump
+5215	5229	републиканците	републиканци	PER	ORG-Republican-Party-USA
+5424	5432	Фокс Нюз	Фокс Нюз	PRO	PRO-Fox-News
+5548	5555	Фейсбук	Фейсбук	PRO	PRO-Facebook
+5732	5745	Джон Рокфелер	Джон Рокфелер	PER	PER-John-Rockefeler
+5747	5759	Стандарт Ойл	Стандарт Ойл	ORG	ORG-Standard-Oil
+5904	5918	републиканците	републиканци	PER	ORG-Republican-Party-USA
+5971	5981	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+6036	6048	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+6371	6393	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+6536	6542	Байдън	Байдън	PER	PER-Joe-Biden
+6612	6626	републиканците	републиканци	PER	ORG-Republican-Party-USA
+6704	6709	Тръмп	Тръмп	PER	PER-Donald-Trump
+6727	6733	Байдън	Байдън	PER	PER-Joe-Biden
+6812	6817	Тръмп	Тръмп	PER	PER-Donald-Trump
+6888	6910	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+7056	7062	Байдън	Байдън	PER	PER-Joe-Biden
+7132	7138	Байдън	Байдън	PER	PER-Joe-Biden
+7349	7354	Тръмп	Тръмп	PER	PER-Donald-Trump
+7400	7412	Пол Манафорт	Пол Манафорт	PER	PER-Paul-Manafort
+7505	7516	демократите	демократи	PER	ORG-Democratic-Party-USA
+7583	7592	Уикилийкс	Уикилийкс	PRO	PRO-Wikileaks
+7594	7607	Джулиан Асанж	Джулиан Асанж	PER	PER-Julian-Assange
+7672	7681	Белия дом	Бял дом	LOC	LOC-White-House
+7746	7751	Тръмп	Тръмп	PER	PER-Donald-Trump
+7896	7907	демократите	демократи	PER	ORG-Democratic-Party-USA
+7911	7927	Съединените щати	Съединени щати	LOC	GPE-USA
+7943	7949	Байдън	Байдън	PER	PER-Joe-Biden
+8124	8131	Америка	Америка	LOC	GPE-USA

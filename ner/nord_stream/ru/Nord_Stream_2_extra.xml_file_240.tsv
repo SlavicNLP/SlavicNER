@@ -1,0 +1,28 @@
+0	7	Румыния	Румыния	LOC	GPE-Romania
+60	78	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+80	84	КИЕВ	КИЕВ	LOC	GPE-Kiev
+97	100	УНН	УНН	ORG	ORG-UNN
+214	223	Евросоюза	Евросоюз	ORG	ORG-European-Union
+269	289	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+317	326	Германией	Германия	LOC	GPE-Germany
+329	336	Россией	Россия	LOC	GPE-Russia
+347	350	УНН	УНН	ORG	ORG-UNN
+426	434	Германии	Германия	LOC	GPE-Germany
+442	449	Австрии	Австрия	LOC	GPE-Austria
+463	469	DIGI24	DIGI24	PRO	PRO-DIGI24
+562	588	Совете министров Евросоюза	Совет министров Евросоюза	ORG	ORG-Council-of-the-European-Union
+590	597	Румыния	Румыния	LOC	GPE-Romania
+667	669	ЕС	ЕС	ORG	ORG-European-Union
+716	734	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+758	768	"""Газпрома"""	"""Газпром"""	ORG	ORG-Gazprom
+782	785	УНН	УНН	ORG	ORG-UNN
+845	854	Германией	Германия	LOC	GPE-Germany
+857	864	Россией	Россия	LOC	GPE-Russia
+865	883	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+904	913	"""Газпром"""	"""Газпром"""	ORG	ORG-Gazprom
+954	958	E.ON	E.ON	ORG	ORG-E.ON
+960	971	Wintershall	Wintershall	ORG	ORG-Wintershall
+973	978	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+980	983	OMV	OMV	ORG	ORG-OMV
+986	991	Engie	Engie	ORG	ORG-Engie
+1035	1053	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2

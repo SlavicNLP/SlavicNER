@@ -1,0 +1,23 @@
+0	14	Омуртаг Петков	Омуртаг Петков	PER	PER-Omourtag-Petkov
+45	54	българите	българи	PER	GPE-Bulgaria
+59	73	Великобритания	Великобритания	LOC	GPE-Great-Britain
+79	86	Брекзит	Брекзит	EVT	EVT-Brexit
+91	100	българите	българи	PER	GPE-Bulgaria
+131	145	Великобритания	Великобритания	LOC	GPE-Great-Britain
+195	203	брекзита	Брекзит	EVT	EVT-Brexit
+220	223	БТВ	БТВ	PRO	PRO-BTV
+224	238	Омуртаг Петков	Омуртаг Петков	PER	PER-Omourtag-Petkov
+270	308	Британо-българската бизнес организация	Британо-българска бизнес организация	ORG	ORG-BBBA
+427	441	Великобритания	Великобритания	LOC	GPE-Great-Britain
+445	447	ЕС	ЕС	ORG	ORG-European-Union
+487	496	Евросъюза	Евросъюз	ORG	ORG-European-Union
+517	537	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+577	593	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+594	608	Великобритания	Великобритания	LOC	GPE-Great-Britain
+799	803	ТРУД	Труд	PRO	PRO-Trud
+860	867	trud.bg	trud.bg	PRO	PRO-trud.bg
+921	967	Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+1045	1049	Труд	Труд	PRO	PRO-Trud
+1125	1132	trud.bg	trud.bg	PRO	PRO-trud.bg
+1157	1164	trud.bg	trud.bg	PRO	PRO-trud.bg
+1218	1264	Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act

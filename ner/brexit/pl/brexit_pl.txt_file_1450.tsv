@@ -1,0 +1,44 @@
+0	9	Oettinger	Oettinger	PER	PER-Guenther-Oettinger
+20	23	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+49	57	brexicie	Brexit	EVT	EVT-Brexit
+74	83	Oettinger	Oettinger	PER	PER-Guenther-Oettinger
+208	210	UE	UE	ORG	ORG-European-Union
+315	318	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+363	372	Oettinger	Oettinger	PER	PER-Guenther-Oettinger
+472	478	Paryżu	Paryż	LOC	GPE-Paris
+481	491	Marrakeszu	Marrakesz	LOC	GPE-Marrakesh
+511	514	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+586	606	Gareth'a Goldsmith'a	Gareth Goldsmith	PER	PER-Gareth-Goldsmith
+669	683	parlamencie UE	Parlament UE	ORG	ORG-European-Parliament
+708	711	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+835	844	Goldsmith	Goldsmith	PER	PER-Gareth-Goldsmith
+895	897	UE	UE	ORG	ORG-European-Union
+1235	1237	UE	UE	ORG	ORG-European-Union
+1380	1383	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+1430	1432	UE	UE	ORG	ORG-European-Union
+1457	1463	Włochy	Włochy	LOC	GPE-Italy
+1466	1475	Hiszpania	Hiszpania	LOC	GPE-Spain
+1534	1541	Rumunia	Rumunia	LOC	GPE-Romania
+1619	1627	Holandia	Holandia	LOC	GPE-Holland
+1662	1665	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+1710	1733	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1787	1790	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+1873	1890	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1967	1969	UE	UE	ORG	ORG-European-Union
+2022	2028	Londyn	Londyn	LOC	GPE-London
+2056	2059	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+2068	2076	brexicie	Brexit	EVT	EVT-Brexit
+2172	2174	UE	UE	ORG	ORG-European-Union
+2236	2239	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+2505	2507	UE	UE	ORG	ORG-European-Union
+2561	2564	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+3157	3159	UE	UE	ORG	ORG-European-Union
+3181	3184	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+3271	3275	Unii	Unia	ORG	ORG-European-Union
+3312	3315	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+3419	3421	UE	UE	ORG	ORG-European-Union
+3564	3567	ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+3644	3651	brexitu	Brexit	EVT	EVT-Brexit
+3652	3654	UE	UE	ORG	ORG-European-Union
+3827	3835	Bruksela	Bruksela	LOC	GPE-Brussles
+4014	4028	BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl

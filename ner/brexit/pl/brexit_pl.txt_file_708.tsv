@@ -1,0 +1,30 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+44	46	UE	UE	ORG	ORG-European-Union
+47	60	Wlk. Brytania	Wlk. Brytania	LOC	GPE-Great-Britain
+62	77	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+134	141	Brexitu	Brexit	EVT	EVT-Brexit
+243	251	Brukseli	Bruksela	LOC	GPE-Brussles
+254	262	Londynem	Londyn	LOC	GPE-London
+315	332	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+335	339	Unii	Unia	ORG	ORG-European-Union
+470	477	Brexitu	Brexit	EVT	EVT-Brexit
+511	524	Europejczykom	Europejczycy	PER	LOC-Europe
+528	535	Wyspach	Wyspy	LOC	GPE-Great-Britain
+608	616	Irlandią	Irlandia	LOC	GPE-Ireland
+620	637	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+639	645	Londyn	Londyn	LOC	GPE-London
+946	955	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+1137	1154	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1185	1200	Polskiemu Radiu	Polskie Radio	PRO	PRO-Polish-Radio
+1201	1227	Agata Gostyńska-Jakubowska	Agata Gostyńska-Jakubowska	PER	PER-Agata-Gostyńska-Jakubowska
+1264	1290	Centre for European Reform	Centre for European Reform	ORG	ORG-Centre-For-European-Reform
+1425	1429	Unią	Unia	ORG	ORG-European-Union
+1491	1506	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1546	1563	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1621	1633	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1636	1638	UE	UE	ORG	ORG-European-Union
+1750	1756	Brexit	Brexit	EVT	EVT-Brexit
+1887	1907	Świat w Powiększeniu	Świat w Powiększeniu	PRO	PRO-Świat-w-Powiększeniu
+1908	1922	Adam Dąbrowski	Adam Dąbrowski	PER	PER-Adam-Dąbrowski
+1937	1952	Polskiego Radia	Polskie Radio	PRO	PRO-Polish-Radio
+1955	1963	Londynie	Londyn	LOC	GPE-London

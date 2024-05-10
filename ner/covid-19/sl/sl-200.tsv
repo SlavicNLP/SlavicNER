@@ -1,0 +1,91 @@
+46	54	COVID-19	COVID-19	EVT	EVT-Covid-19
+68	73	Otoku	Otok	LOC	GPE-Great-Britain
+78	83	Otoku	Otok	LOC	GPE-Great-Britain
+93	112	novega koronavirusa	novi koronavirus	EVT	EVT-Covid-19
+343	355	koronavirusa	koronavirus	EVT	EVT-Covid-19
+358	365	Londonu	London	LOC	GPE-London
+518	538	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+706	722	novi koronavirus	novi koronavirus	EVT	EVT-Covid-19
+853	868	britanska vlada	britanska vlada	ORG	ORG-British-Government
+966	971	Otoku	Otok	LOC	GPE-Great-Britain
+999	1011	Janet Djomba	Janet Djomba	PER	PER-Janet-Djomba
+1128	1134	Barnet	Barnet	LOC	LOC-London-Barnet
+1573	1589	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+1660	1680	Medicinski fakulteti	Medicinska fakulteta	ORG	ORG-Faculty-of-Medicine-University-of-Ljubljana
+1722	1760	Nacionalnem inštitutu za javno zdravje	Nacionalni inštitut za javno zdravje	ORG	ORG-Slovenian-Ministry-of-Health
+1762	1766	NIJZ	NIJZ	ORG	ORG-Slovenian-Ministry-of-Health
+1875	1882	Londonu	London	LOC	GPE-London
+1950	1969	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+2112	2124	koronavirusa	koronavirus	EVT	EVT-Covid-19
+2128	2133	Otoku	Otok	LOC	GPE-Great-Britain
+2270	2291	Public Health England	Public Health England	ORG	ORG-PHE-Public-Health-England
+2293	2296	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+2746	2758	Janet Djomba	Janet Djomba	PER	PER-Janet-Djomba
+2784	2791	Londonu	London	LOC	GPE-London
+3096	3103	Italije	Italija	LOC	GPE-Italy
+3152	3159	Barnetu	Barnet	LOC	LOC-London-Barnet
+3191	3198	Italiji	Italija	LOC	GPE-Italy
+3480	3483	NHS	NHS	ORG	ORG-NHS
+3562	3565	NHS	NHS	ORG	ORG-NHS
+3958	3969	koronavirus	koronavirus	EVT	EVT-Covid-19
+4048	4055	Londonu	London	LOC	GPE-London
+4126	4134	COVID-19	COVID-19	EVT	EVT-Covid-19
+4523	4534	koronavirus	koronavirus	EVT	EVT-Covid-19
+4601	4619	SUGAR SMART Barnet	SUGAR SMART Barnet	PRO	PRO-Sugar-Smart-Barnet
+5279	5282	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+5510	5513	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+5621	5624	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+5664	5669	Otoku	Otok	LOC	GPE-Great-Britain
+5681	5701	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+6991	7002	Chris Witty	Chris Witty	PER	PER-Chris-Witty
+7060	7073	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+7113	7128	Patric Vallance	Patrick Vallance	PER	PER-Patrick-Vallance
+7156	7168	koronavirusu	koronavirus	EVT	EVT-Covid-19
+7267	7270	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+7383	7403	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+7614	7634	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+7778	7803	Agencija za javno zdravje	Agencija za javno zdravje	ORG	ORG-PHE-Public-Health-England
+7804	7807	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+7809	7831	ministrstvo za zdravje	ministrstvo za zdravje	ORG	ORG-Department-of-Care-and-Social-Care
+7835	7838	NHS	NHS	ORG	ORG-NHS
+7917	7920	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+8076	8079	NHS	NHS	ORG	ORG-NHS
+8191	8198	Angliji	Anglija	LOC	GPE-England
+8219	8227	COVID-19	COVID-19	EVT	EVT-Covid-19
+8313	8335	Ministrstva za zdravje	Ministrstvo za zdravje	ORG	ORG-Department-of-Care-and-Social-Care
+8602	8615	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+9030	9054	Borough resilience forum	Borough resilience forum	ORG	ORG-Borough-Resilience-Forum
+9317	9324	Angliji	Anglija	LOC	GPE-England
+9345	9353	COVID-19	COVID-19	EVT	EVT-Covid-19
+9496	9504	COVID-19	COVID-19	EVT	EVT-Covid-19
+9584	9606	ministrstva za zdravje	ministrstvo za zdravje	ORG	ORG-Department-of-Care-and-Social-Care
+9850	9858	COVID-19	COVID-19	EVT	EVT-Covid-19
+9887	9890	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+9934	9942	COVID-19	COVID-19	EVT	EVT-Covid-19
+10230	10233	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+10237	10240	NHS	NHS	ORG	ORG-NHS
+10437	10445	Britanci	Britanci	PER	GPE-Great-Britain
+10728	10731	BBC	BBC	ORG	ORG-BBC-Ltd
+10897	10900	NHS	NHS	ORG	ORG-NHS
+10997	11000	NHS	NHS	ORG	ORG-NHS
+11293	11300	Londona	London	LOC	GPE-London
+11374	11380	Evropi	Evropa	LOC	LOC-Europe
+11733	11738	Otoku	Otok	LOC	GPE-Great-Britain
+12864	12871	Londona	London	LOC	GPE-London
+13319	13339	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+14626	14629	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+14848	14851	NHS	NHS	ORG	ORG-NHS
+15291	15299	COVID-19	COVID-19	EVT	EVT-Covid-19
+15388	15391	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+15552	15555	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+15819	15822	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+15945	15948	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+16019	16025	London	London	LOC	GPE-London
+16688	16693	Otoku	Otok	LOC	GPE-Great-Britain
+17286	17293	Londonu	London	LOC	GPE-London
+17604	17624	Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+18163	18172	Slovenijo	Slovenija	LOC	GPE-Slovenia
+18299	18302	PHE	PHE	ORG	ORG-PHE-Public-Health-England
+18306	18309	NHS	NHS	ORG	ORG-NHS
+18608	18617	Sloveniji	Slovenija	LOC	GPE-Slovenia
+19294	19307	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson

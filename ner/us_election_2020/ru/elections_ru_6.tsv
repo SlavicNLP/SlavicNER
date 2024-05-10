@@ -1,0 +1,34 @@
+102	115	американского	американский	LOC	GPE-USA
+122	129	Вермонт	Вермонт	LOC	GPE-Vermont
+234	249	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+253	264	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+279	288	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+299	310	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+322	335	американского	американский	LOC	GPE-USA
+342	349	Вермонт	Вермонт	LOC	GPE-Vermont
+454	476	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+477	488	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+562	577	Washington Post	Washington Post	PRO	PRO-Washington-Post
+808	814	Байден	Байден	PER	PER-Joe-Biden
+874	889	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+891	896	Трамп	Трамп	PER	PER-Donald-Trump
+1012	1020	Вермонте	Вермонт	LOC	GPE-Vermont
+1048	1055	Байдена	Байден	PER	PER-Joe-Biden
+1058	1067	ВАШИНГТОН	Вашингтон	LOC	GPE-WashingtonDC
+1078	1089	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+1101	1114	американского	американский	LOC	GPE-USA
+1121	1128	Вермонт	Вермонт	LOC	GPE-Vermont
+1233	1255	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+1256	1267	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1341	1356	Washington Post	Washington Post	PRO	PRO-Washington-Post
+1498	1507	конгресса	конгресс	ORG	ORG-United-States-Congress
+1581	1593	коронавируса	коронавирус	EVT	EVT-Covid-19
+1596	1599	США	США	LOC	GPE-USA
+1647	1655	Нью-Йорк	Нью-Йорк	LOC	GPE-New-York
+1879	1887	COVID-19	COVID-19	EVT	EVT-Covid-19
+2005	2011	Байден	Байден	PER	PER-Joe-Biden
+2071	2086	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+2088	2093	Трамп	Трамп	PER	PER-Donald-Trump
+2313	2368	Международное информационное агентство «Россия сегодня»	Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+2370	2390	МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
+2446	2460	Гаврилова А.В.	Гаврилова А.В.	PER	PER-Gavrilova-A.-V.

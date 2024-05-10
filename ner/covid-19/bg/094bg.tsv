@@ -1,0 +1,75 @@
+22	30	Covid-19	COVID-19	EVT	EVT-Covid-19
+93	105	коронавируса	коронавирус	EVT	EVT-Covid-19
+107	114	Франция	Франция	LOC	GPE-France
+116	121	Русия	Русия	LOC	GPE-Russia
+123	128	Непал	Непал	LOC	GPE-Nepal
+230	241	коронавирус	коронавирус	EVT	EVT-Covid-19
+311	318	Франция	Франция	LOC	GPE-France
+320	325	Русия	Русия	LOC	GPE-Russia
+327	332	Непал	Непал	LOC	GPE-Nepal
+351	354	САЩ	САЩ	LOC	GPE-USA
+358	363	Индия	Индия	LOC	GPE-India
+397	411	New York Times	New York Times	PRO	PRO-The-New-York-Times
+669	683	New York Times	New York Times	PRO	PRO-The-New-York-Times
+686	700	Великобритания	Великобритания	LOC	GPE-Great-Britain
+788	794	Европа	Европа	LOC	LOC-Europe
+796	803	Испания	Испания	LOC	GPE-Spain
+806	813	Франция	Франция	LOC	GPE-France
+954	959	Русия	Русия	LOC	GPE-Russia
+1023	1032	Аржентина	Аржентина	LOC	GPE-Argentina
+1113	1125	Южна Америка	Южна Америка	LOC	LOC-South-America
+1135	1143	Бразилия	Бразилия	LOC	GPE-Brazil
+1146	1154	Колумбия	Колумбия	LOC	GPE-Colombia
+1157	1173	Съединените щати	Съединени щати	LOC	GPE-USA
+1401	1407	Аляска	Аляска	LOC	GPE-Alaska
+1409	1416	Индиана	Индиана	LOC	GPE-Indiana
+1418	1426	Минесота	Минесота	LOC	GPE-Minnesota
+1428	1434	Мисури	Мисури	LOC	GPE-Missouri
+1437	1445	Оклахома	Оклахома	LOC	GPE-Oklahoma
+1480	1488	Оклахома	Оклахома	LOC	GPE-Oklahoma
+1592	1600	Колорадо	Колорадо	LOC	GPE-Colorado
+1602	1608	Айдахо	Айдахо	LOC	GPE-Idaho
+1610	1617	Монтана	Монтана	LOC	GPE-Montana-US-State
+1619	1629	Ню Мексико	Ню Мексико	LOC	GPE-New Mexico
+1631	1645	Северна Дакота	Северна Дакота	LOC	GPE-North-Dakota
+1647	1658	Южна Дакота	Южна Дакота	LOC	GPE-South-Dakota-US-State
+1661	1664	Юта	Юта	LOC	GPE-Utah
+1727	1746	Горния Среден Запад	Горен Среден Запад	LOC	LOC-Upper-Midwest
+1749	1767	Скалистите планини	Скалисти планини	LOC	LOC-Rocky-Mountains
+1832	1841	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+1884	1891	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+2333	2336	САЩ	САЩ	LOC	GPE-USA
+2384	2389	Тръмп	Тръмп	PER	PER-Donald-Trump
+2470	2479	Белия дом	Бял дом	LOC	LOC-White-House
+2665	2679	New York Times	New York Times	PRO	PRO-The-New-York-Times
+2699	2702	САЩ	САЩ	LOC	GPE-USA
+2755	2777	коронавирусни инфекции	коронавирусна инфекция	EVT	EVT-Covid-19
+2824	2829	Индия	Индия	LOC	GPE-India
+2893	2909	Съединените щати	Съединени щати	LOC	GPE-USA
+2948	2964	Съединените щати	Съединени щати	LOC	GPE-USA
+2989	2994	Индия	Индия	LOC	GPE-India
+3054	3057	САЩ	САЩ	LOC	GPE-USA
+3089	3097	Covid-19	COVID-19	EVT	EVT-Covid-19
+3112	3139	университета „Джнс Хопкинс“	Университет „Джонс Хопкинс“	ORG	ORG-John-Hopkins-University
+3180	3188	Covid-19	COVID-19	EVT	EVT-Covid-19
+3353	3361	Covid-19	COVID-19	EVT	EVT-Covid-19
+3370	3373	САЩ	САЩ	LOC	GPE-USA
+3391	3396	Индия	Индия	LOC	GPE-India
+3412	3420	Бразилия	Бразилия	LOC	GPE-Brazil
+3438	3443	Русия	Русия	LOC	GPE-Russia
+3461	3469	Колумбия	Колумбия	LOC	GPE-Colombia
+3485	3494	Аржентина	Аржентина	LOC	GPE-Argentina
+3510	3517	Испания	Испания	LOC	GPE-Spain
+3533	3537	Перу	Перу	LOC	GPE-Peru
+3553	3560	Мексико	Мексико	LOC	GPE-Мexico
+3577	3584	Франция	Франция	LOC	GPE-France
+3647	3650	САЩ	САЩ	LOC	GPE-USA
+3666	3674	Бразилия	Бразилия	LOC	GPE-Brazil
+3690	3695	Индия	Индия	LOC	GPE-India
+3711	3718	Мексико	Мексико	LOC	GPE-Мexico
+3733	3747	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3762	3768	Италия	Италия	LOC	GPE-Italy
+3783	3787	Перу	Перу	LOC	GPE-Peru
+3802	3809	Испания	Испания	LOC	GPE-Spain
+3824	3831	Франция	Франция	LOC	GPE-France
+3847	3851	Иран	Иран	LOC	GPE-Iran

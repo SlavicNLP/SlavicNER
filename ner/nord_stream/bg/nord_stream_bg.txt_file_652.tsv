@@ -1,0 +1,18 @@
+0	5	Тръмп	Тръмп	PER	PER-Donald-Trump
+11	19	Германия	Германия	LOC	GPE-Germany
+49	66	Северен поток – 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+84	87	САЩ	САЩ	LOC	GPE-USA
+88	100	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+111	119	Германия	Германия	LOC	GPE-Germany
+184	201	Северен поток – 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+278	280	ЕС	ЕС	ORG	ORG-European-Union
+291	300	Dow Jones	Dow Jones	PRO	PRO-Dow-Jones
+376	382	Меркел	Меркел	PER	PER-Angela-Merkel
+394	399	Тръмп	Тръмп	PER	PER-Donald-Trump
+425	433	Германия	Германия	LOC	GPE-Germany
+493	496	САЩ	САЩ	LOC	GPE-USA
+552	554	ЕС	ЕС	ORG	ORG-European-Union
+587	593	Меркел	Меркел	PER	PER-Angela-Merkel
+613	627	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+675	692	Северен поток – 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+695	700	Тръмп	Тръмп	PER	PER-Donald-Trump

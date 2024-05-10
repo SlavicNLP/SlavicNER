@@ -1,0 +1,43 @@
+0	8	Германия	Германия	LOC	GPE-Germany
+25	32	Украйна	Украйна	LOC	GPE-Ukraine
+42	55	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+109	123	Петер Алтмайер	Петер Алтмайер	PER	PER-Peter-Altmaier
+135	142	Украйна	Украйна	LOC	GPE-Ukraine
+268	281	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+302	307	Русия	Русия	LOC	GPE-Russia
+310	318	Германия	Германия	LOC	GPE-Germany
+328	331	DPA	DPA	ORG	ORG-DPA
+347	354	Украйна	Украйна	LOC	GPE-Ukraine
+384	392	Алтмайер	Алтмайер	PER	PER-Peter-Altmaier
+423	441	Володимир Гройсман	Володимир Гройсман	PER	PER-Volodymyr-Groysman
+490	498	Германия	Германия	LOC	GPE-Germany
+544	546	ЕС	ЕС	ORG	ORG-European-Union
+553	558	Русия	Русия	LOC	GPE-Russia
+590	594	Крим	Крим	LOC	GPE-Crimea
+724	737	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+740	747	Украйна	Украйна	LOC	GPE-Ukraine
+864	869	Русия	Русия	LOC	GPE-Russia
+873	879	Европа	Европа	LOC	LOC-Europe
+924	928	Киев	Киев	LOC	GPE-Kiev
+934	939	Русия	Русия	LOC	GPE-Russia
+1023	1029	Европа	Европа	LOC	LOC-Europe
+1033	1038	Русия	Русия	LOC	GPE-Russia
+1046	1053	Гросман	Гросман	PER	PER-Volodymyr-Groysman
+1086	1101	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1224	1230	Москва	Москва	LOC	GPE-Moscow
+1302	1317	Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+1347	1353	Берлин	Берлин	LOC	GPE-Berlin
+1386	1390	Киев	Киев	LOC	GPE-Kiev
+1393	1399	Москва	Москва	LOC	GPE-Moscow
+1566	1574	Алтмайер	Алтмайер	PER	PER-Peter-Altmaier
+1662	1670	Германия	Германия	LOC	GPE-Germany
+1673	1678	Русия	Русия	LOC	GPE-Russia
+1729	1731	ЕС	ЕС	ORG	ORG-European-Union
+1735	1741	Москва	Москва	LOC	GPE-Moscow
+1765	1769	Крим	Крим	LOC	GPE-Crimea
+1809	1824	Източна Украйна	Източна Украйна	LOC	LOC-East-Ukraine
+1859	1872	Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+1909	1914	Русия	Русия	LOC	GPE-Russia
+1915	1929	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+1952	1956	Сочи	Сочи	LOC	GPE-Sochi
+1959	1962	БТА	БТА	ORG	ORG-Bulgarian-News-Agency

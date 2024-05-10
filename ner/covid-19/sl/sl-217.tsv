@@ -1,0 +1,30 @@
+7	15	covid-19	covid-19	EVT	EVT-Covid-19
+2195	2203	Kitajske	Kitajska	LOC	GPE-China
+2284	2291	Španiji	Španija	LOC	GPE-Spain
+2293	2300	Italiji	Italija	LOC	GPE-Italy
+2304	2307	ZDA	ZDA	LOC	GPE-USA
+2672	2681	Facebooku	Facebook	PRO	PRO-Facebook
+3028	3036	Kitajske	Kitajska	LOC	GPE-China
+3224	3232	covid-19	covid-19	EVT	EVT-Covid-19
+3554	3587	svetovne zdravstvene organizacije	svetovna zdravstvena organizacije	ORG	ORG-World-Health-Organization
+3593	3599	Evropi	Evropa	LOC	LOC-Europe
+3885	3891	Evropi	Evropa	LOC	LOC-Europe
+4226	4235	Sloveniji	Slovenija	LOC	GPE-Slovenia
+5897	5904	Italiji	Italija	LOC	GPE-Italy
+5999	6008	Sloveniji	Slovenija	LOC	GPE-Slovenia
+6010	6019	Slovenija	Slovenija	LOC	GPE-Slovenia
+6250	6264	Državnem zboru	Državni zbor	ORG	ORG-National-Assembly-of-the-Republic-of-Slovenia
+6430	6450	Socialnih demokratov	Socialni demokrati	ORG	ORG-Social-Democrats-Slovenia
+6605	6614	Twitterju	Twitter	PRO	PRO-Twitter
+6775	6781	Levice	Levica	ORG	ORG-The-Left-Slovenia
+6783	6802	Liste Marjana Šarca	Lista Marjana Šarca	ORG	ORG-List-of-Marjan-Šarec
+6806	6829	Stranke Alenke Bratušek	Stranka Alenke Bratušek	ORG	ORG-Party-of-Alenka-Bratušek
+7046	7063	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+7080	7192	Usmeritve v zvezi z varstvom podatkov za aplikacije, ki podpirajo boj proti pandemiji COVID-19 (2020/C 124 I/01)	Usmeritev v zvezi z varstvom podatkov za aplikacije, ki podpirajo boj proti pandemiji COVID-19 (2020/C 124 I/01)	PRO	PRO-Guidance-on-Apps-supporting-the-fight-against-COVID-19-pandemic-in-relation-to-data-protection-2020/C-124-I/01
+7358	7365	Bruselj	Bruselj	LOC	GPE-Brussles
+7441	7450	Sloveniji	Slovenija	LOC	GPE-Slovenia
+8486	8493	Italiji	Italija	LOC	GPE-Italy
+8572	8581	Sloveniji	Slovenija	LOC	GPE-Slovenia
+9032	9041	Kitajskem	Kitajska	LOC	GPE-China
+9045	9052	Italiji	Italija	LOC	GPE-Italy
+9184	9188	Bogu	Bóg	PER	PER-God

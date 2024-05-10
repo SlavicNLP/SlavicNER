@@ -1,0 +1,37 @@
+0	6	Лондон	Лондон	LOC	GPE-London
+8	10	ЕС	ЕС	ORG	ORG-European-Union
+23	30	Брекзит	Брекзит	EVT	EVT-Brexit
+49	62	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+73	90	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+137	151	Великобритания	Великобритания	LOC	GPE-Great-Britain
+154	156	ЕС	ЕС	ORG	ORG-European-Union
+308	311	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+326	332	Дейвис	Дейвис	PER	PER-David-Davis
+384	399	Файненшъл таймс	Файненшъл таймс	PRO	PRO-Financial-Times
+493	503	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+515	521	Дейвис	Дейвис	PER	PER-David-Davis
+621	635	Великобритания	Великобритания	LOC	GPE-Great-Britain
+639	641	ЕС	ЕС	ORG	ORG-European-Union
+748	750	ЕС	ЕС	ORG	ORG-European-Union
+785	799	Великобритания	Великобритания	LOC	GPE-Great-Britain
+806	812	Дейвис	Дейвис	PER	PER-David-Davis
+840	842	ЕС	ЕС	ORG	ORG-European-Union
+944	958	Великобритания	Великобритания	LOC	GPE-Great-Britain
+991	998	Брекзит	Брекзит	EVT	EVT-Brexit
+1000	1006	Лондон	Лондон	LOC	GPE-London
+1026	1028	ЕС	ЕС	ORG	ORG-European-Union
+1050	1057	Брекзит	Брекзит	EVT	EVT-Brexit
+1132	1146	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1250	1257	Брекзит	Брекзит	EVT	EVT-Brexit
+1264	1270	Лондон	Лондон	LOC	GPE-London
+1273	1280	Брюксел	Брюксел	LOC	GPE-Brussles
+1291	1301	Франс прес	Франс прес	ORG	ORG-France-Presse
+1323	1333	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1408	1410	ЕС	ЕС	ORG	ORG-European-Union
+1448	1454	Дейвис	Дейвис	PER	PER-David-Davis
+1470	1490	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1491	1508	Маргаритис Схинас	Маргаритис Схинас	PER	PER-Margaritis-Schinas
+1521	1523	ЕК	ЕК	ORG	ORG-European-Commission
+1558	1572	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1695	1709	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1728	1730	ЕС	ЕС	ORG	ORG-European-Union

@@ -1,0 +1,31 @@
+0	6	Brexit	brexit	EVT	EVT-Brexit
+12	17	Irsko	Irsko	LOC	GPE-Ireland
+30	36	Dublin	Dublin	LOC	GPE-Dublin
+82	94	Joseph Brady	Joseph Brady	PER	PER-Joseph-Brady
+96	101	PRAHA	PRAHA	LOC	GPE-Prague
+102	108	DUBLIN	DUBLIN	LOC	GPE-Dublin
+109	116	Reuters	Reuters	ORG	ORG-Reuters
+117	123	Brexit	Brexit	EVT	EVT-Brexit
+139	144	Irsku	Irsko	LOC	GPE-Ireland
+177	189	Joseph Brady	Joseph Brady	PER	PER-Joseph-Brady
+211	219	Británie	Británie	LOC	GPE-Great-Britain
+222	224	EU	EU	ORG	ORG-European-Union
+249	255	Dublin	Dublin	LOC	GPE-Dublin
+322	336	Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+381	383	LN	LN	PRO	PRO-Lidove-Noviny
+386	391	Irsku	Irsko	LOC	GPE-Ireland
+419	426	Londýna	Londýn	LOC	GPE-London
+429	437	Bruselem	Brusel	LOC	GPE-Brussles
+476	493	Irskou republikou	Irská republika	LOC	GPE-Ireland
+496	511	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+540	547	brexitu	brexit	EVT	EVT-Brexit
+632	638	Irskem	Irsko	LOC	GPE-Ireland
+641	656	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+992	999	brexitu	brexit	EVT	EVT-Brexit
+1007	1022	Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+1051	1053	EU	EU	ORG	ORG-European-Union
+1210	1217	brexitu	brexit	EVT	EVT-Brexit
+1321	1324	USA	USA	LOC	GPE-USA
+1327	1334	Kanadou	Kanada	LOC	GPE-Canada
+1422	1429	Norskem	Norsko	LOC	GPE-Norway
+1432	1440	Švédskem	Švédsko	LOC	GPE-Sweden

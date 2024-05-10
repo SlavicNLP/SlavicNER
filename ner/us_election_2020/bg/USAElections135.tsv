@@ -1,0 +1,38 @@
+12	19	Webcafe	Webcafe	PRO	PRO-Webcafe.bg
+52	55	САЩ	САЩ	LOC	GPE-USA
+70	81	демократите	демократи	PER	ORG-Democratic-Party-USA
+82	92	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+128	140	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+237	252	Morning Consult	Morning Consult	ORG	ORG-Morning-Consult
+267	274	Гардиън	Гардиън	PRO	PRO-The-Guardian
+413	419	Байдън	Байдън	PER	PER-Joe-Biden
+435	443	Колорадо	Колорадо	LOC	GPE-Colorado
+445	452	Флорида	Флорида	LOC	GPE-Florida
+454	461	Мичиган	Мичиган	LOC	GPE-Michigan
+463	471	Минесота	Минесота	LOC	GPE-Minnesota
+473	484	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+487	496	Уисконсин	Уисконсин	LOC	GPE-Wisconsin
+497	508	демократите	демократи	PER	ORG-Democratic-Party-USA
+531	536	Тръмп	Тръмп	PER	PER-Donald-Trump
+545	552	Индиана	Индиана	LOC	GPE-Indiana
+554	560	Мисури	Мисури	LOC	GPE-Missouri
+563	576	Южна Каролина	Южна Каролина	LOC	GPE-South-Carolina-US-State
+611	618	Аризона	Аризона	LOC	GPE-Arizona
+620	628	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+630	646	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+648	653	Охайо	Охайо	LOC	GPE-Ohio
+656	662	Тексас	Тексас	LOC	GPE-Texas
+757	772	Morning Consult	Morning Consult	ORG	ORG-Morning-Consult
+773	784	демократите	демократи	PER	ORG-Democratic-Party-USA
+804	818	републиканците	републиканци	PER	ORG-Republican-Party-USA
+902	910	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+945	962	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+985	991	Байдън	Байдън	PER	PER-Joe-Biden
+1114	1127	Хилари Клинън	Хилари Клинтън	PER	PER-Hillary-Clinton
+1296	1308	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1485	1490	Тръмп	Тръмп	PER	PER-Donald-Trump
+1582	1597	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+1620	1626	Байдън	Байдън	PER	PER-Joe-Biden
+1656	1675	Monmouth University	Monmouth University	ORG	ORG-Monmouth-University
+1698	1704	Байдън	Байдън	PER	PER-Joe-Biden
+1720	1731	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania

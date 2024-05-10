@@ -1,0 +1,27 @@
+12	24	коронавируса	коронавирус	EVT	EVT-Covid-19
+36	43	ковидом	ковид	EVT	EVT-Covid-19
+104	111	ковидом	ковид	EVT	EVT-Covid-19
+132	144	коронавируса	коронавирус	EVT	EVT-Covid-19
+263	275	коронавируса	коронавирус	EVT	EVT-Covid-19
+311	317	ковида	ковид	EVT	EVT-Covid-19
+743	751	BioNTech	BioNTech	ORG	ORG-BioNTech
+752	758	Pfizer	Pfizer	ORG	ORG-Pfizer
+763	770	Moderna	Moderna	ORG	ORG-Moderna
+786	788	ЕС	ЕС	ORG	ORG-European-Union
+812	825	коронавирусом	коронавирус	EVT	EVT-Covid-19
+939	947	Covid-19	Covid-19	EVT	EVT-Covid-19
+1189	1191	ЕС	ЕС	ORG	ORG-European-Union
+1316	1324	Covid-19	Covid-19	EVT	EVT-Covid-19
+1438	1466	Института имени Роберта Коха	Институт имени Роберта Коха	ORG	ORG-Robert-Koch-Institute
+1468	1471	RKI	RKI	ORG	ORG-Robert-Koch-Institute
+1520	1532	коронавируса	коронавирус	EVT	EVT-Covid-19
+2078	2091	коронавирусом	коронавирус	EVT	EVT-Covid-19
+2207	2258	Федеральном центре санитарного просвещения Германии	Федеральный центр санитарного просвещения Германии	ORG	ORG-Federal-Centre-for-Health-Education-Germany
+3542	3555	коронавирусом	коронавирус	EVT	EVT-Covid-19
+3738	3743	ковид	ковид	EVT	EVT-Covid-19
+4017	4045	Института имени Роберта Коха	Институт имени Роберта Коха	ORG	ORG-Robert-Koch-Institute
+4047	4050	RKI	RKI	ORG	ORG-Robert-Koch-Institute
+4304	4316	коронавируса	коронавирус	EVT	EVT-Covid-19
+4895	4907	коронавируса	коронавирус	EVT	EVT-Covid-19
+5085	5097	коронавируса	коронавирус	EVT	EVT-Covid-19
+5166	5168	ЕС	ЕС	ORG	ORG-European-Union

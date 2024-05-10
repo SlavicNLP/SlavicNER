@@ -1,0 +1,28 @@
+0	8	Башкирия	Башкирия	LOC	GPE-Bashkortostan
+44	56	коронавируса	Коронавирус	EVT	EVT-Covid-19
+241	256	Алексей БУЛАТОВ	Алексей Булатов	PER	PER-Alexey-Bulatov
+278	290	коронавируса	Коронавирус	EVT	EVT-Covid-19
+383	389	России	Россия	LOC	GPE-Russia
+390	406	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+439	445	ковида	Ковид	EVT	EVT-Covid-19
+617	623	КП-Уфа	КП-Уфа	PRO	PRO-Komsomolskaya-Pravda
+648	656	Башкирия	Башкирия	LOC	GPE-Bashkortostan
+686	699	Гам-Ковид-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+718	727	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+1031	1039	Башкирию	Башкирия	LOC	GPE-Bashkortostan
+1073	1086	Гам-Ковид-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
+1334	1346	коронавирусу	Коронавирус	EVT	EVT-Covid-19
+1490	1499	Минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Bashkortostan-republic
+1558	1564	ковида	Ковид	EVT	EVT-Covid-19
+1573	1584	Олег ЗОЛОТО	Олег Золото	PER	PER-Oleg-Zoloto
+1618	1626	БАШКИРИИ	Башкирия	LOC	GPE-Bashkortostan
+1644	1652	Башкирии	Башкирия	LOC	GPE-Bashkortostan
+1685	1691	ковида	Ковид	EVT	EVT-Covid-19
+1888	1895	К врачу	К врачу	PRO	PRO-K-Vrachu-app
+1911	1920	Госуслуги	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+1954	1962	Башкирию	Башкирия	LOC	GPE-Bashkortostan
+2177	2215	пресс-службе ведомства здравоохранения	Пресс-службе ведомства здравоохранения	ORG	ORG-Press-service-of-Ministry-of-Health-of-Russia
+3869	3877	уфимская	уфимская	PER	GPE-Ufa
+3888	3903	Алена Савельева	Алена Савельева	PER	PER-Alena-Savelyeva
+3969	3978	башкирами	Башкиры	PER	GPE-Bashkortostan
+4035	4041	ковида	Ковид	EVT	EVT-Covid-19

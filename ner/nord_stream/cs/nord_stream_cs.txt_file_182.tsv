@@ -1,0 +1,24 @@
+114	121	Putinem	Putin	PER	PER-Vladimir-Putin
+142	149	Německo	Německo	LOC	GPE-Germany
+195	208	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+210	225	Severní proud 2	Severní proud 2	PRO	PRO-Nord-Stream-2
+241	254	Evropské unii	Evropská unie	ORG	ORG-European-Union
+298	300	EU	EU	ORG	ORG-European-Union
+378	386	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+407	412	Ruska	Rusko	LOC	GPE-Russia
+416	423	Německa	Německo	LOC	GPE-Germany
+431	445	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+504	510	Moskvě	Moskva	LOC	GPE-Moscow
+513	527	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+539	547	Evropany	Evropané	PER	LOC-Europe
+595	611	Vladimira Putina	Vladimir Putin	PER	PER-Vladimir-Putin
+631	645	Ruské federace	Ruská federace	LOC	GPE-Russia
+646	660	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+673	684	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+796	798	EU	EU	ORG	ORG-European-Union
+864	870	Kremlu	Kreml	LOC	LOC-Kremlin
+915	918	ARD	ARD	PRO	PRO-ARD-Television
+965	983	Časopisargument.cz	Časopisargument.cz	PRO	PRO-Casopisargument.cz
+1007	1013	Zelené	Zelení	ORG	ORG-Green-Party-Germany
+1014	1034	Reinharda Bütikofera	Reinhard Bütikofer	PER	PER-Reinhard-Butikofer
+1042	1055	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2

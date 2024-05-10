@@ -1,0 +1,31 @@
+0	12	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+28	35	Брюксел	Брюксел	LOC	GPE-Brussles
+99	111	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+132	139	Брюксел	Брюксел	LOC	GPE-Brussles
+237	259	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+263	273	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+390	392	ЕС	ЕС	ORG	ORG-European-Union
+419	425	Лондон	Лондон	LOC	GPE-London
+429	440	Анна Соубри	Анна Соубри	PER	PER-Anna-Soubry
+444	466	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+469	479	Чука Умуна	Чука Умуна	PER	PER-Chuka-Umunna
+483	503	Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+533	546	Доминик Грийв	Доминик Грийв	PER	PER-Dominic-Grieve
+695	701	Барние	Барние	PER	PER-Michel-Barnier
+817	823	Барние	Барние	PER	PER-Michel-Barnier
+874	881	Брекзит	Брекзит	EVT	EVT-Brexit
+988	1002	Джеръми Корбин	Джеръми Корбин	PER	PER-Jeremy-Corbyn
+1078	1084	Корбин	Корбин	PER	PER-Jeremy-Corbyn
+1098	1112	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1188	1197	Евросъюза	Евросъюз	ORG	ORG-European-Union
+1276	1286	Чука Умуна	Чука Умуна	PER	PER-Chuka-Umunna
+1297	1311	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1336	1338	ЕС	ЕС	ORG	ORG-European-Union
+1359	1367	Норвегия	Норвегия	LOC	GPE-Norway
+1369	1379	Лихтенщайн	Лихтенщайн	LOC	GPE-Liechtenstein
+1382	1390	Исландия	Исландия	LOC	GPE-Iceland
+1452	1464	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1621	1630	Белия дом	Бял дом	LOC	LOC-White-House
+1631	1636	Тръмп	Тръмп	PER	PER-Donald-Trump
+1659	1675	Съединените щати	Съединени щати	LOC	GPE-USA
+1727	1732	Хаити	Хаити	LOC	GPE-Haiti

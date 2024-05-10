@@ -1,0 +1,18 @@
+0	7	Испания	Испания	LOC	GPE-Spain
+81	83	ЕС	ЕС	ORG	ORG-European-Union
+251	260	Евросоюза	Евросоюз	ORG	ORG-European-Union
+276	294	Европейская правда	Европейская правда	ORG	ORG-European-Pravda
+311	318	Reuters	Reuters	PRO	PRO-Reuters
+320	341	Мариано Гарсия Фресно	Мариано Гарсия Фресно	PER	PER-Mariano-García-Fresno
+349	420	отдела по предотвращению отмывания денег Генерального совета нотариусов	отдел по предотвращению отмывания денег Генерального совета нотариусов	ORG	ORG-Anti-Money-Laundering-Department-of-the-Council-of-the-Notariats
+479	486	Украину	Украина	LOC	GPE-Ukraine
+748	761	Гарсия Фресно	Гарсия Фресно	PER	PER-Mariano-García-Fresno
+826	828	ЕС	ЕС	ORG	ORG-European-Union
+1094	1101	Испании	Испания	LOC	GPE-Spain
+1129	1142	Гарсии Фресно	Гарсия Фресно	PER	PER-Mariano-García-Fresno
+1282	1315	подразделению финансовой разведки	подразделение финансовой разведки	ORG	ORG-Spanish-Financial-Intelligence-Unit
+1325	1346	Министерству финансов	Министерство финансов	ORG	ORG-Ministry-of-Finance-Spain
+1565	1578	Гарсии Фресно	Гарсия Фресно	PER	PER-Mariano-García-Fresno
+1671	1678	Испании	Испания	LOC	GPE-Spain
+1786	1793	Испании	Испания	LOC	GPE-Spain
+1811	1817	Европы	Европа	LOC	LOC-Europe

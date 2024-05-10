@@ -1,0 +1,20 @@
+0	13	Evropská unie	Evropská unie	ORG	ORG-European-Union
+55	70	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+71	85	Věrou Jourovou	Věra Jourová	PER	PER-Věra-Jourová
+90	104	Velké Británii	Velká Británie	LOC	GPE-Great-Britain
+111	118	brexitu	brexit	EVT	EVT-Brexit
+158	163	Čechů	Češi	PER	GPE-Czech-Republic
+248	257	eurotunel	eurotunel	LOC	LOC-Eurotunnel
+263	269	Anglií	Anglie	LOC	GPE-England
+272	279	Francií	Francie	LOC	GPE-France
+329	337	Británie	Británie	LOC	GPE-Great-Britain
+340	353	Evropské unie	Evropská unie	ORG	ORG-European-Union
+427	432	Irsko	Irsko	LOC	GPE-Ireland
+576	591	Evropské komise	Evropská komise	ORG	ORG-European-Commission
+592	606	Věrou Jourovou	Věra Jourová	PER	PER-Věra-Jourová
+648	652	Unii	Unie	ORG	ORG-European-Union
+717	723	brexit	brexit	EVT	EVT-Brexit
+735	746	koronavirus	koronavirus	EVT	EVT-Covid-19
+751	755	Unii	Unie	ORG	ORG-European-Union
+781	793	Věra Jourová	Věra Jourová	PER	PER-Věra-Jourová
+827	831	Unii	Unie	ORG	ORG-European-Union

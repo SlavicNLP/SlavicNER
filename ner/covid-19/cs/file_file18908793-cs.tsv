@@ -1,0 +1,21 @@
+0	11	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+67	73	Berlín	Berlín	LOC	GPE-Berlin
+74	84	Bratislava	Bratislava	LOC	GPE-Bratislava
+85	91	Moskva	Moskva	LOC	GPE-Moscow
+92	102	Washington	Washington	LOC	GPE-WashingtonDC
+105	116	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+247	273	Univerzity Johnse Hopkinse	Univerzita Johna Hopkinse	ORG	ORG-Johns-Hopkins-University
+275	278	JHU	JHU	ORG	ORG-Johns-Hopkins-University
+302	311	covidu-19	covid-19	EVT	EVT-Covid-19
+387	400	Spojené státy	Spojené státy	LOC	GPE-USA
+402	407	Indie	Indie	LOC	GPE-India
+410	418	Brazílie	Brazílie	LOC	GPE-Brazil
+421	432	Koronavirus	Koronavirus	EVT	EVT-Covid-19
+461	469	covid-19	covid-19	EVT	EVT-Covid-19
+517	521	Číně	Čína	LOC	GPE-China
+682	695	Spojené státy	Spojené státy	LOC	GPE-USA
+799	804	Indie	Indie	LOC	GPE-India
+840	848	Brazílie	Brazílie	LOC	GPE-Brazil
+958	965	Francie	Francie	LOC	GPE-France
+967	975	Británie	Británie	LOC	GPE-Great-Britain
+978	984	Itálie	Itálie	LOC	GPE-Italy

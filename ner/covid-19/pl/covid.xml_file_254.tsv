@@ -1,0 +1,15 @@
+0	8	Norwegia	Norwegia	LOC	GPE-Norway
+106	114	Covid-19	Covid-19	EVT	EVT-Covid-19
+218	225	Szwecją	Szwecja	LOC	GPE-Sweden
+228	237	Finlandią	Finlandia	LOC	GPE-Finland
+272	280	BioNTech	BioNTech	ORG	ORG-BioNTech
+281	291	Ugur Sahin	Ugur Sahin	PER	PER-Ugur-Sahin
+319	330	Der Spiegel	Der Spiegel	PRO	PRO-Der-Spiegel
+393	401	Covid-19	Covid-19	EVT	EVT-Covid-19
+531	547	Bożym Narodzeniu	Boże Narodzenie	EVT	EVT-Christmas
+613	621	Norwegii	Norwegia	LOC	GPE-Norway
+622	634	Erna Solberg	Erna Solberg	PER	PER-Erna-Solberg
+969	995	lotnisku Gardermoen w Oslo	lotnisko Gardermoen w Oslo	LOC	LOC-Gardermoen-Airport-Oslo
+1082	1090	Norwegii	Norwegia	LOC	GPE-Norway
+1311	1323	koronawirusa	koronawirus	EVT	EVT-Covid-19
+1353	1361	Covid-19	Covid-19	EVT	EVT-Covid-19

@@ -1,0 +1,23 @@
+0	3	СЗО	СЗО	ORG	ORG-WHO
+19	31	коронавируса	коронавирус	EVT	EVT-Covid-19
+69	72	СЗО	СЗО	ORG	ORG-WHO
+213	221	COVID-19	COVID-19	EVT	EVT-Covid-19
+248	254	Европа	Европа	LOC	LOC-Europe
+268	274	Италия	Италия	LOC	GPE-Italy
+277	284	Испания	Испания	LOC	GPE-Spain
+320	334	Великобритания	Великобритания	LOC	GPE-Great-Britain
+337	343	Турция	Турция	LOC	GPE-Turkey
+356	386	Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+453	459	Европа	Европа	LOC	LOC-Europe
+462	465	САЩ	САЩ	LOC	GPE-USA
+539	542	СЗО	СЗО	ORG	ORG-WHO
+547	561	Маргарет Харис	Маргарет Харис	PER	PER-Margaret-Harris
+575	581	Женева	Женева	LOC	GPE-Geneva
+613	616	СЗО	СЗО	ORG	ORG-WHO
+744	749	Харис	Харис	PER	PER-Margaret-Harris
+767	779	коронавируса	коронавирус	EVT	EVT-Covid-19
+850	853	СЗО	СЗО	ORG	ORG-WHO
+919	926	Reuters	Reuters	ORG	ORG-Reuters
+938	943	Китай	Китай	LOC	GPE-China
+1021	1032	коронавирус	коронавирус	EVT	EVT-Covid-19
+1159	1164	Харис	Харис	PER	PER-Margaret-Harris

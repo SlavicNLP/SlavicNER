@@ -1,0 +1,80 @@
+113	121	Williama	William	PER	PER-Prince-William
+196	214	katedrze św. Pawła	katedra św. Pawła	LOC	LOC-St-Pauls-Cathedral
+258	264	Karola	Karol	PER	PER-Charles-Prince-of-Wales
+267	272	Dianę	Diana	PER	PER-Diana-Princess-of-Wales
+280	297	Westminster Abbey	Westminster Abbey	LOC	LOC-Westminster-Abbey
+322	329	William	William	PER	PER-Prince-William
+332	351	Catherine Middleton	Catherine Middleton	PER	PER-Catherine-Middleton
+386	392	Trumpa	Trump	PER	PER-Donald-Trump
+397	402	Obamy	Obama	PER	PER-Barack-Obama
+498	510	Johna Majora	John Major	PER	PER-John-Major
+555	560	Harry	Harry	PER	PER-Prince-Harry
+766	774	Williama	William	PER	PER-Prince-William
+841	851	Hollywoodu	Hollywood	LOC	LOC-Los-Angeles-Hollywood
+923	937	George Clooney	George Clooney	PER	PER-George-Freeman
+945	949	Amal	Amal	PER	PER-Amal-Clooney
+951	964	Oprah Winfrey	Oprah Winfrey	PER	PER-Oprah-Winfrey
+966	976	Elton John	Elton John	PER	PER-Elton-John
+992	1009	Davidem Furnishem	David Furnish	PER	PER-David-Furnish
+1019	1030	Beckhamowie	Beckham	PER	PER-Beckham-Family
+1389	1401	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1625	1634	The Times	The Times	PRO	PRO-The-Times
+1636	1644	Die Welt	Die Welt	PRO	PRO-Die-Welt
+1649	1657	Le Monde	Le Monde	PRO	PRO-Le-Monde
+1684	1691	The Sun	The Sun	PRO	PRO-The-Sun
+1696	1700	Bild	Bild	PRO	PRO-Bild
+1730	1736	Hello!	Hello!	PRO	PRO-Hello
+1880	1894	Cool Britannia	Cool Britannia	LOC	LOC-Cool-Britannia
+1899	1914	Best of England	Best of England	LOC	LOC-Best-of-England
+1930	1940	Union Jack	Union Jack	PRO	PRO-Union-Jack
+2014	2021	Marmite	Marmite	PRO	PRO-Marmite
+2035	2041	Meghan	Meghan	PER	PER-Meghan-Markle-Duchess-of-Sussex
+2046	2051	Harry	Harry	PER	PER-Prince-Harry
+2195	2202	Henryka	Henryk	PER	PER-Prince-Harry
+2369	2381	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+2583	2588	Wyspy	Wyspy	LOC	GPE-Great-Britain
+2674	2682	Windsoru	Windsor	LOC	GPE-Windsor
+2887	2892	Wyspy	Wyspy	LOC	GPE-Great-Britain
+2917	2928	Theresę May	Theresa May	PER	PER-Theresa-May
+2940	2954	Downing Street	Downing Street	LOC	LOC-Downing-Street
+2958	2967	Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+3002	3020	Pałacem Buckingham	Pałac Buckingham	LOC	LOC-Buckingham-Palace
+3184	3191	Brexitu	Brexit	EVT	EVT-Brexit
+3193	3204	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+3310	3325	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+3362	3365	May	May	PER	PER-Theresa-May
+3437	3448	Theresa May	Theresa May	PER	PER-Theresa-May
+3548	3550	UE	UE	ORG	ORG-European-Union
+3691	3708	Północną Irlandią	Północna Irlandia	LOC	LOC-Irlends-countries
+3711	3729	Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+3878	3887	Cambridge	Cambridge	LOC	GPE-Cambridge
+3897	3903	Sussex	Sussex	LOC	GPE-Sussex
+3942	3953	Elżbiety II	Elżbieta II	PER	PER-Queen-Elizabeth-II
+4128	4151	Diamentowego Jubileuszu	Diamentowy Jubileusz	EVT	EVT-Diamond-Jubilee
+4229	4240	Elżbiety II	Elżbieta II	PER	PER-Queen-Elizabeth-II
+4324	4329	harry	Harry	PER	PER-Prince-Harry
+4388	4405	Pałacu Buckingham	Pałac Buckingham	LOC	LOC-Buckingham-Palace
+4821	4832	Elżbiety II	Elżbieta II	PER	PER-Queen-Elizabeth-II
+4923	4932	Harry’ego	Harry	PER	PER-Prince-Harry
+4935	4948	Meghan Markle	Meghan Markle	PER	PER-Meghan-Markle-Duchess-of-Sussex
+5041	5053	Edwarda VIII	Edward VIII	PER	PER-Edward-VIII
+5056	5070	Wallis Simpson	Wallis Simpson	PER	PER-Terrie-Simpsonova
+5076	5086	Amerykanka	Amerykanka	PER	GPE-USA
+5237	5250	Meghan Markle	Meghan Markle	PER	PER-Meghan-Markle-Duchess-of-Sussex
+5282	5293	Edward VIII	Edward VIII	PER	PER-Edward-VIII
+5321	5326	Harry	Harry	PER	PER-Prince-Harry
+5524	5538	Andrew Mortona	Andrew Morton	PER	PER-Andrew-Morton
+5540	5565	Diana: prawdziwa historia	Diana: prawdziwa historia	PRO	PRO-title-Diana-Her-True-Story-In-Her-Own-Words
+5630	5642	Elżbiecie II	Elżbieta II	PER	PER-Queen-Elizabeth-II
+5690	5708	Diamentowa królowa	Diamentowa królowa	PRO	PRO-title-Diana-Her-True-Story-In-Her-Own-Words
+5731	5734	BBC	BBC	PRO	PRO-BBC
+5736	5748	Andrew Marra	Andrew Marr	PER	PER-Andrew-Marr
+5871	5878	Henryka	Henryk	PER	PER-Prince-Harry
+5901	5912	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+6401	6413	Labour Party	Labour Party	ORG	ORG-Labour-Party-UK
+6415	6437	Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+6440	6449	Zielonych	Zieloni	ORG	ORG-Green-Party-UK
+6584	6589	Miłka	Miłka	PER	PER-Miłka
+6592	6604	radia Pogoda	Radio Pogoda	PRO	PRO-Radio-Pogoda
+6750	6756	Meghan	Meghan	PER	PER-Meghan-Markle-Duchess-of-Sussex
+6895	6903	Londynie	Londyn	LOC	GPE-London

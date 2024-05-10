@@ -1,0 +1,37 @@
+51	58	Байдена	Байден	PER	PER-Joe-Biden
+91	104	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+163	166	США	США	LOC	GPE-USA
+265	275	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+283	297	Carolyn Kaster	Carolyn Kaster	PER	PER-Carolyn-Kaster
+312	331	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Congress
+385	395	Калифорнии	Калифорния	LOC	GPE-California
+411	418	Гавайев	Гавайи	LOC	GPE-Hawaii
+450	458	демократ	демократ	ORG	ORG-Democratic-Party-USA
+459	469	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+561	579	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
+624	636	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+638	645	Мичиган	Мичиган	LOC	GPE-Michigan
+647	656	Висконсин	Висконсин	LOC	GPE-Wisconsin
+658	666	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+668	674	Невада	Невада	LOC	GPE-Nevada
+677	684	Аризона	Аризона	LOC	GPE-Arizona
+701	714	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+776	787	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+884	887	США	США	LOC	GPE-USA
+998	1001	NYT	NYT	PRO	PRO-The-New-York-Times
+1003	1010	Байдена	Байден	PER	PER-Joe-Biden
+1042	1047	Трамп	Трамп	PER	PER-Donald-Trump
+1207	1213	Байден	Байден	PER	PER-Joe-Biden
+1268	1278	Калифорнии	Калифорния	LOC	GPE-California
+1329	1348	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1372	1379	сенатом	сенат	ORG	ORG-United-States-Senate
+1382	1418	палатой представителей конгресса США	палата представителей конгресса США	ORG	ORG-House-of-Representatives(USA)
+1463	1466	США	США	LOC	GPE-USA
+1646	1661	Республиканской	Республиканская партия	ORG	ORG-Republican-Party-USA
+1664	1686	Демократической партий	Демократическая партия	ORG	ORG-Democratic-Party-USA
+1858	1868	Калифорния	Калифорния	LOC	GPE-California
+1919	1925	Техасе	Техас	LOC	GPE-Texas
+1936	1945	Нью-Йорке	Нью-Йорк	LOC	GPE-New-York
+1948	1955	Флориде	Флорида	LOC	GPE-Florida
+2080	2088	Колумбия	Колумбия	LOC	GPE-Colombia
+2274	2281	Reuters	Reuters	PRO	PRO-Reuters

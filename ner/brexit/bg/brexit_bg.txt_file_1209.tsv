@@ -1,0 +1,40 @@
+0	16	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+29	39	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+75	81	Лондон	Лондон	LOC	GPE-London
+94	104	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+137	144	Брекзит	Брекзит	EVT	EVT-Brexit
+145	158	Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+185	201	The Sunday Times	The Sunday Times	PRO	PRO-The-Sunday-Times
+202	212	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+261	275	Маргарет Тачър	Маргарет Тачър	PER	PER-Margaret-Thatcher
+313	320	Брекзит	Брекзит	EVT	EVT-Brexit
+321	334	Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+392	408	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+434	441	Брекзит	Брекзит	EVT	EVT-Brexit
+442	455	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+496	502	Робинс	Робинс	PER	PER-Oliver-Robbins
+578	591	Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+593	599	Дейвис	Дейвис	PER	PER-David-Davis
+642	652	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+653	665	Гевин Баруел	Гевин Баруел	PER	PER-Gavin-Barwell
+702	714	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+853	882	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+885	892	Белфаст	Белфаст	LOC	GPE-Belfast
+895	927	Демократичната юнионистка партия	Демократична юнионистка партия	ORG	ORG-DUP-Democratic-Unionist-Party
+932	948	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1007	1017	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1022	1038	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1102	1104	ЕС	ЕС	ORG	ORG-European-Union
+1110	1117	Брекзит	Брекзит	EVT	EVT-Brexit
+1144	1157	The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+1158	1169	Найджъл Одс	Найджъл Додс	PER	PER-Nigel-Dodds
+1182	1185	ДЮП	ДЮП	ORG	ORG-DUP-Democratic-Unionist-Party
+1188	1199	Уестминстър	Уестминстър	LOC	LOC-Westminster
+1293	1300	Брекзит	Брекзит	EVT	EVT-Brexit
+1340	1354	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1449	1457	Ирландия	Ирландия	LOC	GPE-Ireland
+1460	1476	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1482	1489	Брекзит	Брекзит	EVT	EVT-Brexit
+1571	1578	Брекзит	Брекзит	EVT	EVT-Brexit
+1616	1632	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1768	1780	Иван Христов	Иван Христов	PER	PER-Ivan-Hristov

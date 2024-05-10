@@ -1,0 +1,19 @@
+0	5	Blair	Blair	PER	PER-Tony-Blair
+18	26	Británie	Británie	LOC	GPE-Great-Britain
+55	57	EU	EU	ORG	ORG-European-Union
+98	111	EuroZprávy.cz	EuroZprávy.cz	PRO	PRO-EuroZprávy.cz
+114	117	ČTK	ČTK	ORG	ORG-CTK
+119	125	Londýn	Londýn	LOC	GPE-London
+146	156	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+185	192	brexitu	brexit	EVT	EVT-Brexit
+232	234	EU	EU	ORG	ORG-European-Union
+311	313	EU	EU	ORG	ORG-European-Union
+322	329	Britové	Britové	PER	GPE-Great-Britain
+522	542	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+643	650	Evropou	Evropa	LOC	LOC-Europe
+717	725	Británie	Británie	LOC	GPE-Great-Britain
+736	749	Evropské unii	Evropská unie	ORG	ORG-European-Union
+809	828	druhé světové války	druhá světová válka	EVT	EVT-World-War-II
+851	856	Blair	Blair	PER	PER-Tony-Blair
+868	876	Británie	Británie	LOC	GPE-Great-Britain
+890	892	EU	EU	ORG	ORG-European-Union

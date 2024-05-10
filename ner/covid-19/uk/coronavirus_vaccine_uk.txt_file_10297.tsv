@@ -1,0 +1,26 @@
+0	4	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+22	28	Pfizer	Pfizer	ORG	ORG-Pfizer
+29	37	BioNTech	BioNTech	ORG	ORG-BioNTech
+180	184	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+188	226	Всесвітня організація охорони здоров’я	Всесвітня організація охорони здоров’я	ORG	ORG-World-Health-Organization
+246	252	Pfizer	Pfizer	ORG	ORG-Pfizer
+255	263	BioNTech	BioNTech	ORG	ORG-BioNTech
+341	345	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+350	388	Всесвітня організація охорони здоров’я	Всесвітня організація охорони здоров’я	ORG	ORG-World-Health-Organization
+410	418	COVID-19	COVID-19	EVT	EVT-Covid-19
+428	434	Pfizer	Pfizer	ORG	ORG-Pfizer
+435	443	BioNTech	BioNTech	ORG	ORG-BioNTech
+544	550	Pfizer	Pfizer	ORG	ORG-Pfizer
+551	559	BioNTech	BioNTech	ORG	ORG-BioNTech
+619	623	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+725	731	Pfizer	Pfizer	ORG	ORG-Pfizer
+732	740	BioNTech	BioNTech	ORG	ORG-BioNTech
+839	843	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+871	877	Pfizer	Pfizer	ORG	ORG-Pfizer
+878	886	BioNTech	BioNTech	ORG	ORG-BioNTech
+939	943	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+1079	1084	Ухань	Ухань	LOC	GPE-Wuhan
+1243	1248	Китаю	Китай	LOC	GPE-China
+1263	1269	Японії	Японія	LOC	GPE-Japan
+1271	1279	Таїланду	Таїланд	LOC	GPE-Thailand
+1283	1298	Південної Кореї	Південна Корея	LOC	GPE-South-Korea

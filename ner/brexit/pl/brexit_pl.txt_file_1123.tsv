@@ -1,0 +1,23 @@
+9	11	KE	KE	ORG	ORG-European-Commission
+82	88	brexit	Brexit	EVT	EVT-Brexit
+90	104	Jyrki Katainen	Jyrki Katainen	PER	PER-Jyrki-Katainen
+361	367	Europy	Europa	LOC	LOC-Europe
+493	499	Europy	Europa	LOC	LOC-Europe
+772	779	Europie	Europa	LOC	LOC-Europe
+941	947	Europy	Europa	LOC	LOC-Europe
+978	983	Trump	Trump	PER	PER-Donald-Trump
+986	989	USA	USA	LOC	GPE-USA
+1260	1266	Europa	Europa	LOC	LOC-Europe
+1355	1361	Europy	Europa	LOC	LOC-Europe
+1620	1627	Erasmus	Erasmus	PRO	PRO-Erasmus
+1768	1774	Polska	Polska	LOC	GPE-Poland
+1809	1827	Komisję Europejską	Komisja Europejska	ORG	ORG-European-Commission
+2201	2212	Kwiecińskim	Kwieciński	PER	PER-Jerzy-Kwieciński
+2404	2410	Polsce	Polska	LOC	GPE-Poland
+2529	2536	Polakom	Polacy	PER	GPE-Poland
+2689	2697	Słowacji	Słowacja	LOC	GPE-Slovakia
+2699	2705	Europa	Europa	LOC	LOC-Europe
+3007	3013	brexit	Brexit	EVT	EVT-Brexit
+3027	3034	brexitu	Brexit	EVT	EVT-Brexit
+3119	3123	Unia	Unia	ORG	ORG-European-Union
+3307	3313	Europa	Europa	LOC	LOC-Europe

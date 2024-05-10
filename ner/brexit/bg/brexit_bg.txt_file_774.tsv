@@ -1,0 +1,10 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+12	26	Великобритания	Великобритания	LOC	GPE-Great-Britain
+101	108	Брекзит	Брекзит	EVT	EVT-Brexit
+110	127	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+180	200	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+297	306	The Times	The Times	PRO	PRO-The-Times
+408	422	Великобритания	Великобритания	LOC	GPE-Great-Britain
+547	567	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+835	849	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+1063	1067	ТРУД	Труд	PRO	PRO-Trud

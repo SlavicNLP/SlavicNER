@@ -1,0 +1,23 @@
+13	19	Трампу	Трамп	PER	PER-Donald-Trump
+42	54	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
+92	103	Білого дому	Білий дім	ORG	ORG-White-House
+104	119	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+147	169	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+170	173	США	США	LOC	GPE-USA
+182	194	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+216	227	Метью Бренн	Метью Бренн	PER	PER-Matthew-Brann
+254	260	Трампа	Трамп	PER	PER-Donald-Trump
+287	299	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+479	501	президентських виборів	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+505	517	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+589	604	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+607	617	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+649	655	Трампа	Трамп	PER	PER-Donald-Trump
+807	830	Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+889	900	Метью Бренн	Метью Бренн	PER	PER-Matthew-Brann
+918	924	Трампа	Трамп	PER	PER-Donald-Trump
+1036	1048	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
+1173	1191	колегії виборників	колегія виборників	ORG	ORG-United-States-Electoral-College
+1251	1258	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+1270	1273	США	США	LOC	GPE-USA
+1294	1300	Трампа	Трамп	PER	PER-Donald-Trump

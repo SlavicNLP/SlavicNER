@@ -1,0 +1,33 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+36	51	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+59	74	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+451	457	Polski	Polska	LOC	GPE-Poland
+1042	1044	UE	UE	ORG	ORG-European-Union
+1459	1476	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1978	1995	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2180	2182	UE	UE	ORG	ORG-European-Union
+2215	2221	brexit	Brexit	EVT	EVT-Brexit
+2426	2433	brexitu	Brexit	EVT	EVT-Brexit
+2550	2554	City	City	LOC	LOC-City-of-London
+2627	2644	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2647	2651	Unii	Unia	ORG	ORG-European-Union
+2706	2710	City	City	LOC	LOC-City-of-London
+2729	2739	Frankfurtu	Frankfurt	LOC	GPE-Frankfurt-am-Main
+2758	2764	Niemcy	Niemcy	LOC	GPE-Germany
+2772	2778	Polska	Polska	LOC	GPE-Poland
+2853	2872	Przemysław Barbrich	Przemysław Barbrich	PER	PER-Przemysław-Barbrich
+2891	2914	Związku Banków Polskich	Związek Banków Polskich	ORG	ORG-ZBP-Polish-Bank-Association
+2983	2990	brexitu	Brexit	EVT	EVT-Brexit
+3108	3125	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3131	3146	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+3249	3266	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3355	3361	Londyn	Londyn	LOC	GPE-London
+3362	3370	Bruksela	Bruksela	LOC	GPE-Brussles
+3372	3390	Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+3458	3465	brexitu	Brexit	EVT	EVT-Brexit
+3802	3825	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+3974	3989	Marek Bielawski	Marek Bielawski	PER	PER-Marek-Bielawski
+4011	4015	KPMG	KPMG	ORG	ORG-KPMG
+4021	4036	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+4072	4074	UE	UE	ORG	ORG-European-Union
+4208	4210	UE	UE	ORG	ORG-European-Union

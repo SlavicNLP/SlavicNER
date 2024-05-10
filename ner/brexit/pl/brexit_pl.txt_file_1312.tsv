@@ -1,0 +1,60 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+59	74	Wielką Brytanię	Wielką Brytanię	LOC	GPE-Great-Britain
+114	120	brexit	Brexit	EVT	EVT-Brexit
+157	178	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+317	334	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+401	410	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+692	696	Unii	Unia	ORG	ORG-European-Union
+963	970	Wyspach	Wyspy	LOC	GPE-Great-Britain
+1012	1027	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1042	1049	Anglicy	Anglicy	PER	GPE-Great-Britain
+1069	1075	Polski	Polska	LOC	GPE-Poland
+1270	1275	Wisły	Wisła	LOC	LOC-Wisła
+1408	1412	HSBC	HSBC	ORG	ORG-HSBC
+1503	1509	Kantar	Kantar	ORG	ORG-Kantar
+1570	1576	brexit	Brexit	EVT	EVT-Brexit
+1771	1783	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1902	1906	Unii	Unia	ORG	ORG-European-Union
+1916	1922	Polsce	Polska	LOC	GPE-Poland
+1951	1955	City	City	LOC	LOC-City-of-London
+2003	2018	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2019	2034	Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+2042	2048	Londyn	Londyn	LOC	GPE-London
+2098	2110	Nowego Jorku	Nowy Jork	LOC	GPE-New-York
+2113	2122	Hongkongu	Hongkong	LOC	GPE-Hong-Kong
+2142	2149	Europie	Europa	LOC	LOC-Europe
+2244	2253	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2279	2303	Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+2308	2314	Londyn	Londyn	LOC	GPE-London
+2501	2518	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2613	2617	City	City	LOC	LOC-City-of-London
+2757	2774	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3503	3507	City	City	LOC	LOC-City-of-London
+3783	3800	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3818	3822	Unii	Unia	ORG	ORG-European-Union
+3914	3921	Europie	Europa	LOC	LOC-Europe
+4085	4090	Paryż	Paryż	LOC	GPE-Paris
+4095	4104	Frankfurt	Frankfurt	LOC	GPE-Frankfurt-am-Main
+4205	4212	Londynu	Londyn	LOC	GPE-London
+4265	4269	HSBC	HSBC	ORG	ORG-HSBC
+4272	4277	Paryż	Paryż	LOC	GPE-Paris
+4279	4287	Barclays	Barclays	ORG	ORG-Barclays
+4290	4296	Dublin	Dublin	LOC	GPE-Dublin
+4298	4301	RBS	RBS	ORG	ORG-RBS
+4304	4313	Amsterdam	Amsterdam	LOC	GPE-Amsterdam
+4315	4333	Standard Chartered	Standard Chartered	ORG	ORG-Standard-Chartered
+4336	4345	Frankfurt	Frankfurt	LOC	GPE-Frankfurt-am-Main
+4347	4353	Lloyds	Lloyds	ORG	ORG-Lloyds-of-London
+4356	4362	Berlin	Berlin	LOC	GPE-Berlin
+4430	4438	brexicie	Brexit	EVT	EVT-Brexit
+4531	4535	Unii	Unia	ORG	ORG-European-Union
+4694	4698	Unii	Unia	ORG	ORG-European-Union
+4723	4730	brexitu	Brexit	EVT	EVT-Brexit
+4769	4786	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4805	4809	Unii	Unia	ORG	ORG-European-Union
+5004	5021	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+5168	5177	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+5315	5330	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+5344	5361	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+5620	5636	kanału La Manche	Kanał La Manche	LOC	LOC-English-Channel
+5874	5890	HSBC Bank Polska	HSBC Bank Polska	ORG	ORG-HSBC-Poland

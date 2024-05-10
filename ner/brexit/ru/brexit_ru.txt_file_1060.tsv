@@ -1,0 +1,42 @@
+43	57	Великобритании	Великобритания	LOC	GPE-Great-Britain
+58	71	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+153	167	Великобритании	Великобритания	LOC	GPE-Great-Britain
+168	181	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+268	278	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+282	290	Брекзиту	Брекзит	EVT	EVT-Brexit
+292	305	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+371	382	Девид Девис	Девид Девис	PER	PER-David-Davis
+400	408	Брекзита	Брекзит	EVT	EVT-Brexit
+410	423	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+509	519	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+552	562	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+582	621	план правительства по условиям Брекзита	план правительства по условиям Брекзита	PRO	PRO-Brexit-withdrawal-agreement
+623	633	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+679	697	кабинета министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+780	794	Великобритания	Великобритания	LOC	GPE-Great-Britain
+805	814	Евросоюзу	Евросоюз	ORG	ORG-European-Union
+946	948	ЕС	ЕС	ORG	ORG-European-Union
+992	994	ЕС	ЕС	ORG	ORG-European-Union
+1094	1102	Брекзита	Брекзит	EVT	EVT-Brexit
+1127	1129	ЕС	ЕС	ORG	ORG-European-Union
+1138	1152	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1153	1164	Девид Девис	Девид Девис	PER	PER-David-Davis
+1192	1205	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1232	1238	Бибиси	Бибиси	PRO	PRO-BBC
+1307	1317	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1348	1361	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1378	1388	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+1461	1477	Девидом Кэмеронм	Девид Кэмерон	PER	PER-David-Cameron
+1499	1506	Кэмерон	Кэмерон	PER	PER-David-Cameron
+1520	1523	Мэй	Мэй	PER	PER-Theresa-May
+1549	1562	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1649	1659	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+1721	1731	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+1813	1822	Евросоюза	Евросоюз	ORG	ORG-European-Union
+2012	2022	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+2060	2070	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+2130	2143	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+2185	2205	партии консерваторов	партия консерваторов	ORG	ORG-Conservative-and-Unionist-Party-UK
+2221	2236	Дэвида Кэмерона	Дэвид Кэмерон	PER	PER-David-Cameron
+2324	2339	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+2374	2388	Великобритании	Великобритания	LOC	GPE-Great-Britain

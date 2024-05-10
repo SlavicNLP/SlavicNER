@@ -1,0 +1,22 @@
+9	24	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+44	50	России	Россия	LOC	GPE-Russia
+58	64	REGNUM	REGNUM	ORG	ORG-REGNUM-News-Agency
+74	89	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+157	163	России	Россия	LOC	GPE-Russia
+212	229	Владимир Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+257	266	ИА REGNUM	ИА REGNUM	ORG	ORG-REGNUM-News-Agency
+339	353	Великобритании	Великобритания	LOC	GPE-Great-Britain
+354	364	Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+403	416	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+448	451	Мэй	Мэй	PER	PER-Theresa-May
+522	530	Джонсона	Джонсон	PER	PER-Boris-Johnson
+694	700	Brexit	Brexit	EVT	EVT-Brexit
+716	723	Россией	Россия	LOC	GPE-Russia
+809	817	Джонсона	Джонсон	PER	PER-Boris-Johnson
+931	940	Скрипалей	Скрипали	PER	PER-Skripals
+1005	1011	России	Россия	LOC	GPE-Russia
+1103	1109	России	Россия	LOC	GPE-Russia
+1186	1211	британского правительства	британское правительство	ORG	ORG-the-UK-Government
+1361	1386	чемпионат мира по футболу	чемпионат мира по футболу	EVT	EVT-FIFA-World-Cup-2018
+1407	1413	Англии	Англия	LOC	GPE-England
+1442	1448	России	Россия	LOC	GPE-Russia

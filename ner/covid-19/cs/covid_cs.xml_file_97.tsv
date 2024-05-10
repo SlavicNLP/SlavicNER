@@ -1,0 +1,32 @@
+0	5	Rusko	Rusko	LOC	GPE-Russia
+38	48	koronaviru	koronavirus	EVT	EVT-Covid-19
+58	63	Putin	Putin	PER	PER-Vladimir-Putin
+89	103	Vladimír Putin	Vladimír Putin	PER	PER-Vladimir-Putin
+116	148	ruské ministerstvo zdravotnictví	ruské ministerstvo zdravotnictví	ORG	ORG-Ministry-of-Health-Russia
+202	210	covid-19	covid-19	EVT	EVT-Covid-19
+229	240	koronavirus	koronavirus	EVT	EVT-Covid-19
+275	279	TASS	TASS	ORG	ORG-TASS-Agency
+365	375	koronaviru	koronavirus	EVT	EVT-Covid-19
+401	406	Putin	Putin	PER	PER-Vladimir-Putin
+612	617	Putin	Putin	PER	PER-Vladimir-Putin
+639	657	Taťjany Golikovové	Taťjana Golikovová	PER	PER-Tatjana-Golikova
+716	720	TASS	TASS	ORG	ORG-TASS-Agency
+898	912	Klaus Cichutek	Klaus Cichutek	PER	PER-Klaus-Cichutek
+940	943	DPA	DPA	ORG	ORG-DPA
+1140	1161	Ústavu Paula Ehrlicha	Ústav Paula Ehrlicha	ORG	ORG-Paul-Ehrlich-Institute
+1245	1252	Německu	Německo	LOC	GPE-Germany
+1367	1372	Rusku	Rusko	LOC	GPE-Russia
+1406	1415	covidu-19	covid-19	EVT	EVT-Covid-19
+1463	1481	Gamalejův institut	Gamalejův institut	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1695	1702	Sputnik	Sputnik	PRO	PRO-Sputnik-Satellite
+1711	1726	Kirill Dmitriev	Kirill Dmitriev	PER	PER-Kirill-Dmitriev
+1778	1787	Američané	Američané	PER	GPE-USA
+1844	1851	Sputnik	Sputnik	PRO	PRO-Sputnik-Satellite
+1883	1888	Rusko	Rusko	LOC	GPE-Russia
+1945	1950	Rusko	Rusko	LOC	GPE-Russia
+2205	2209	TASS	TASS	ORG	ORG-TASS-Agency
+2345	2349	TASS	TASS	ORG	ORG-TASS-Agency
+2605	2612	Moderna	Moderna	ORG	ORG-Moderna
+2675	2690	koronaviru MERS	koronavirus MERS	EVT	EVT-MERS-CoV
+2801	2819	Alexander Ginsburg	Alexander Ginsburg	PER	PER-Alan-Ginsburg
+2831	2834	CNN	CNN	PRO	PRO-CNN

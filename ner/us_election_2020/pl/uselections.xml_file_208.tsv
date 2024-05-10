@@ -1,0 +1,73 @@
+0	10	Amerykanie	Amerykanie	PER	GPE-USA
+95	105	Amerykanie	Amerykanie	PER	GPE-USA
+380	389	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+392	404	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+426	440	Dixville Notch	Dixville Notch	LOC	LOC-Dixville-Notch
+443	453	Millsfield	Millsfield	LOC	LOC-Millsfield
+463	476	New Hampshire	New Hampshire	LOC	GPE-New-Hampshire
+608	617	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+629	641	republikanin	republikanin	PER	ORG-Republican-Party-USA
+642	654	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+658	672	Dixville Notch	Dixville Notch	LOC	LOC-Dixville-Notch
+740	746	Kanadą	Kanada	LOC	GPE-Canada
+857	867	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+868	877	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+983	998	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+1061	1084	Partii Libertariańskiej	Partia Libertariańska	ORG	ORG-Libertarian-Party-USA
+1085	1102	Gary’ego Johnsona	Gary Johnson	PER	PER-Gary-Johnson
+1121	1134	New Hampshire	New Hampshire	LOC	GPE-New-Hampshire
+1164	1174	Millsfield	Millsfield	LOC	LOC-Millsfield
+1204	1216	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1340	1355	Hart’s Location	Hart’s Location	LOC	GPE-Harts-Location
+1498	1511	wyborów w USA	wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+1792	1802	Amerykanie	Amerykanie	PER	GPE-USA
+1855	1874	Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+1955	1974	Izbą Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+1981	1991	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+2039	2046	Senatem	Senat	ORG	ORG-United-States-Senate
+2077	2089	Republikanie	Republikanie	ORG	ORG-Republican-Party-USA
+2128	2147	Karolinie Północnej	Karolina Północna	LOC	GPE-North-Carolina-US-State
+2150	2161	Południowej	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+2165	2172	Georgii	Georgia	LOC	GPE-Georgia-US-state
+2174	2182	Arizonie	Arizona	LOC	GPE-Arizona
+2184	2192	Colorado	Colorado	LOC	GPE-Colorado
+2195	2203	Montanie	Montana	LOC	GPE-Montana-US-State
+2269	2290	Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+2392	2398	Polsce	Polska	LOC	GPE-Poland
+2415	2422	Słupsku	Słupsk	LOC	GPE-Słupsk
+2423	2432	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+2433	2447	Tom Malinowski	Tom Malinowski	PER	PER-Tom-Malinowski
+2495	2514	Izby Reprezentantów	Izba Reprezentantów	ORG	ORG-House-of-Representatives(USA)
+2532	2542	New Jersey	New Jersey	LOC	GPE-New-Jersey
+2580	2600	Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+3173	3195	Kolegium Elektorskiego	Kolegium Elektorskie	ORG	ORG-United-States-Electoral-College
+3252	3267	Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+3325	3339	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+3591	3599	Nebraska	Nebraska	LOC	GPE-Nebraska
+3602	3607	Maine	Maine	LOC	GPE-Maine
+3691	3699	Nebrasce	Nebraska	LOC	GPE-Nebraska
+3706	3711	Maine	Maine	LOC	GPE-Maine
+3854	3864	Kalifornia	Kalifornia	LOC	GPE-California
+3876	3881	Idaho	Idaho	LOC	GPE-Idaho
+4034	4037	USA	USA	LOC	GPE-USA
+4038	4050	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+4285	4294	Nowy Jork	Nowy Jork	LOC	GPE-New-York
+4306	4316	Demokratom	Demokraci	ORG	ORG-Democratic-Party-USA
+4320	4339	Karolina Południowa	Karolina Południowa	LOC	GPE-South-Carolina-US-State
+4342	4354	Republikanom	Republikanie	ORG	ORG-Republican-Party-USA
+4462	4469	Floryda	Floryda	LOC	GPE-Florida
+4471	4482	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+4484	4492	Michigan	Michigan	LOC	GPE-Michigan
+4494	4503	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+4505	4522	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+4524	4528	Iowa	Iowa	LOC	GPE-Iowa
+4534	4541	Arizona	Arizona	LOC	GPE-Arizona
+4554	4561	Georgia	Georgia	LOC	GPE-Georgia-US-state
+4563	4569	Teksas	Teksas	LOC	GPE-Texas
+4575	4579	Ohio	Ohio	LOC	GPE-Ohio
+4581	4590	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+4607	4617	demokratów	demokraci	ORG	ORG-Democratic-Party-USA
+4619	4631	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+4632	4644	republikanów	republikanie	ORG	ORG-Republican-Party-USA
+4685	4694	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+4721	4733	Donald Trump	Donald Trump	PER	PER-Donald-Trump

@@ -1,0 +1,27 @@
+0	6	Болтон	Болтон	PER	PER-John-Bolton
+24	33	МИД Дании	МИД Дании	ORG	ORG-Ministry-of-Foreign-Affairs-Danmark
+34	54	«Северный поток – 2»	«Северный поток – 2»	PRO	PRO-Nord-Stream-2
+76	79	США	США	LOC	GPE-USA
+80	95	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+115	126	Джон Болтон	Джон Болтон	PER	PER-John-Bolton
+153	158	Дании	Дания	LOC	GPE-Denmark
+159	176	Андерс Самуэльсен	Андерс Самуэльсен	PER	PER-Anders-Samuelsen
+195	205	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+233	251	«Северный поток-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
+273	280	Twitter	Twitter	PRO	PRO-Twitter
+281	287	Болтон	Болтон	PER	PER-John-Bolton
+312	324	Самуэльсеном	Самуэльсен	PER	PER-Anders-Samuelsen
+399	410	Черном море	Черное море	LOC	LOC-Black-Sea
+431	435	НАТО	НАТО	ORG	ORG-NATO
+455	462	Арктике	Арктика	LOC	LOC-Arctic
+473	479	Трампа	Трамп	PER	PER-Donald-Trump
+513	518	Дании	Дания	LOC	GPE-Denmark
+533	542	Венесуэле	Венесуэла	LOC	GPE-Venezuela
+545	550	Иране	Иран	LOC	GPE-Iran
+552	562	Самуэльсен	Самуэльсен	PER	PER-Anders-Samuelsen
+565	575	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
+609	612	МИД	МИД	ORG	ORG-Foreign-Office
+647	671	«Исламским государством»	«Исламское государство»	ORG	ORG-Islamic-State
+715	717	РФ	РФ	LOC	GPE-Russia
+727	745	«Северный поток-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
+798	813	Балтийское море	Балтийское море	LOC	LOC-Baltic-Sea

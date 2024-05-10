@@ -1,0 +1,22 @@
+1	8	Газпром	Газпром	ORG	ORG-Gazprom
+35	52	"""Северен поток"" 3"	Северен поток 3	PRO	PRO-Nord-Stream-3
+76	83	Газпром	Газпром	ORG	ORG-Gazprom
+106	123	"""Северен поток"" 3"	Северен поток 3	PRO	PRO-Nord-Stream-3
+159	172	Алексей Милер	Алексей Милер	PER	PER-Aleksey-Miller
+185	189	ТАСС	ТАСС	ORG	ORG-TASS-Agency
+250	255	Милер	Милер	PER	PER-Aleksey-Miller
+438	445	Газпром	Газпром	ORG	ORG-Gazprom
+466	483	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+488	494	Европа	Европа	LOC	LOC-Europe
+519	521	ЕС	ЕС	ORG	ORG-European-Union
+584	593	Централна	Централна	LOC	LOC-Central-Europe
+596	610	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+654	659	Русия	Русия	LOC	GPE-Russia
+746	754	Германия	Германия	LOC	GPE-Germany
+811	828	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+890	897	Газпром	Газпром	ORG	ORG-Gazprom
+938	944	Uniper	Uniper	ORG	ORG-Uniper
+946	957	Wintershall	Wintershall	ORG	ORG-Wintershall
+959	962	OMV	OMV	ORG	ORG-OMV
+964	969	Engie	Engie	ORG	ORG-Engie
+972	977	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group

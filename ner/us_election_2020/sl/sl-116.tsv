@@ -1,0 +1,101 @@
+109	118	Trumpovih	Trump	PER	PER-Donald-Trump
+280	283	ZDA	ZDA	LOC	GPE-USA
+517	533	Grover Cleveland	Grover Cleveland	PER	PER-Grover-Cleveland
+554	563	New Yorka	New York	LOC	GPE-New-York
+587	590	ZDA	ZDA	LOC	GPE-USA
+591	607	Grover Cleveland	Grover Cleveland	PER	PER-Grover-Cleveland
+755	768	Jamesa Blaina	James Blain	PER	PER-James-Blaine
+825	832	Indiane	Indiana	LOC	GPE-Indiana
+834	853	Benjaminu Harrisonu	Benjamin Harrison	PER	PER-Benjamin-Harrison
+909	918	Cleveland	Cleveland	PER	PER-Grover-Cleveland
+931	940	Harrisona	Harrison	PER	PER-Benjamin-Harrison
+950	965	Jasona Weaverja	Jason Weaver	PER	PER-Jason-Weaver
+980	984	Iowe	Iowa	LOC	GPE-Iowa
+1024	1033	Cleveland	Cleveland	PER	PER-Grover-Cleveland
+1054	1057	ZDA	ZDA	LOC	GPE-USA
+1309	1316	Buffala	Buffalo	LOC	LOC-Buffalo
+1329	1338	New Yorka	New York	LOC	GPE-New-York
+1409	1418	Harrisona	Harrison	PER	PER-Benjamin-Harrison
+1622	1632	Clevelandu	Cleveland	PER	PER-Grover-Cleveland
+1664	1675	Kip svobode	Kip svobode	PRO	PRO-Statue-of-liberty
+1678	1688	John Adams	John Adams	PER	PER-John-Adams
+1697	1709	Johna Adamsa	John Adams	PER	PER-John-Adams
+1734	1750	Thomas Jefferson	Thomas Jefferson	PER	PER-Thomas-Jefferson
+1766	1774	Adamsova	Adams	PER	PER-John-Adams
+1900	1924	Deklaracije neodvisnosti	Deklaracije neodvisnosti	PRO	PRO-Declaration-of-Independance
+1977	1985	Britanci	Britanci	PER	GPE-Great-Britain
+1987	1992	Adams	Adams	PER	PER-John-Adams
+2159	2169	Jeffersona	Jefferson	PER	PER-Thomas-Jefferson
+2253	2261	Franciji	Francija	LOC	GPE-France
+2264	2281	John Quincy Adams	John Quincy Adams	PER	PER-John-Quincy-Adams
+2330	2333	ZDA	ZDA	LOC	GPE-USA
+2368	2385	John Quincy Adams	John Quincy Adams	PER	PER-John-Quincy-Adams
+2531	2545	Andrew Jackson	Andrew Jackson	PER	PER-Andrew-Jackson
+2609	2628	Demokratske stranke	Demokratska stranka	ORG	ORG-Democratic-Party-USA
+2651	2663	Quincy Adams	Quincy Adams	PER	PER-John-Quincy-Adams
+2771	2787	Martin Van Buren	Martin Van Buren	PER	PER-Martin-Van-Buren
+2796	2805	Jacksonov	Jackson	PER	PER-Andrew-Jackson
+2820	2836	Martin Van Buren	Martin Van Buren	PER	PER-Martin-Van-Buren
+2928	2937	New Yorka	New York	LOC	GPE-New-York
+3027	3037	Jacksonove	Jackson	PER	PER-Andrew-Jackson
+3197	3213	William Harrison	William Harrison	PER	PER-William-Harrison
+3215	3224	Van Buren	Van Buren	PER	PER-Martin-Van-Buren
+3343	3355	Jamesa Polka	James Polk	PER	PER-James-K.-Polk
+3358	3375	Benjamin Harrison	Benjamin Harrison	PER	PER-Benjamin-Harrison
+3396	3403	Indiane	Indiana	LOC	GPE-Indiana
+3422	3426	Ohiu	Ohio	LOC	GPE-Ohio
+3506	3525	Groverja Clevelanda	Grover Cleveland	PER	PER-Grover-Cleveland
+3556	3565	Cleveland	Cleveland	PER	PER-Grover-Cleveland
+3649	3660	Harrisonova	Harrison	PER	PER-Benjamin-Harrison
+3751	3754	ZDA	ZDA	LOC	GPE-USA
+3859	3871	Harrisonovih	Harrison	PER	PER-Benjamin-Harrison
+3885	3897	Republikanci	Republikanci	ORG	ORG-Republican-Party-USA
+3957	3976	William Howard Taft	William Howard Taft	PER	PER-William-Howard-Taft
+4023	4027	Ohia	Ohio	LOC	GPE-Ohio
+4080	4095	Williama Bryana	William Bryan	PER	PER-William-Bryan
+4331	4334	ZDA	ZDA	LOC	GPE-USA
+4356	4374	Theodore Roosevelt	Theodore Roosevelt	PER	PER-Theodore-Roosevelt
+4405	4409	Taft	Taft	PER	PER-William-Howard-Taft
+4485	4488	ZDA	ZDA	LOC	GPE-USA
+4507	4535	ameriškega vrhovnega sodišča	ameriško vrhovno sodišče	ORG	ORG-Supreme-Court-of-the-United-States
+4538	4552	Herbert Hoover	Herbert Hoover	PER	PER-Herbert-Hoover
+4650	4661	Kalifornije	Kalifornija	LOC	GPE-California
+4662	4676	Herbert Hoover	Herbert Hoover	PER	PER-Herbert-Hoover
+4732	4741	Stanforda	Stanford	ORG	ORG-Stanford-University
+4783	4793	Avstraliji	Avstralija	LOC	GPE-Australia
+4797	4805	Kitajski	Kitajska	LOC	GPE-China
+4867	4875	Hooverji	Hooverji	PER	PER-Herbert-Hoover
+5002	5008	Hoover	Hoover	PER	PER-Herbert-Hoover
+5015	5035	Franklinu Rooseveltu	Franklin Roosevelt	PER	PER-Franklin-Roosevelt
+5097	5108	Gerald Ford	Gerald Ford	PER	PER-Gerald-Ford
+5134	5139	Omahi	Omaha	LOC	GPE-Omaha
+5261	5276	afere Watergate	afera Watergate	EVT	EVT-Watergate-Scandal
+5306	5319	Richard Nixon	Richard Nixon	PER	PER-Richard-Nixon
+5328	5332	Ford	Ford	PER	PER-Gerald-Ford
+5378	5384	Nixona	Nixon	PER	PER-Richard-Nixon
+5484	5487	ZDA	ZDA	LOC	GPE-USA
+5510	5523	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+5562	5577	Sovjetske zveze	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+5633	5645	Jimmy Carter	Jimmy Carter	PER	PER-Jimmy-Carter
+5649	5656	Georgie	Georgia	LOC	GPE-Georgia-US-state
+5659	5671	Jimmy Carter	Jimmy Carter	PER	PER-Jimmy-Carter
+5680	5692	Jimmy Carter	Jimmy Carter	PER	PER-Jimmy-Carter
+5796	5799	ZDA	ZDA	LOC	GPE-USA
+5880	5895	Sovjetsko zvezo	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+5899	5905	Iranom	Iran	LOC	GPE-Iran
+5947	5956	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+5986	6005	Edwardom Kennedyjem	Edward Kennedy	PER	PER-Edward-Kennedy
+6097	6110	Ronald Reagan	Ronald Reagan	PER	PER-Ronald-Reagan
+6174	6180	Carter	Carter	PER	PER-Jimmy-Carter
+6219	6242	Nobelova nagrada za mir	Nobelova nagrada za mir	PRO	PRO-Nobel-Prize
+6258	6275	George H. W. Bush	George H. W. Bush	PER	PER-George-Bush-Sr
+6293	6297	Bush	Bush	PER	PER-George-Bush-Sr
+6333	6348	Ronalda Reagana	Ronald Reagan	PER	PER-Ronald-Reagan
+6395	6412	Michaela Dukakisa	Michael Dukakis	PER	PER-Michael-Dukakis
+6474	6488	zalivsko vojno	zalivska vojno	EVT	EVT-Gulf-War
+6555	6567	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+6610	6619	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+6708	6722	Billa Clintona	Bill Clinton	PER	PER-Bill-Clinton
+6724	6731	Clinton	Clinton	PER	PER-Bill-Clinton
+6768	6773	Bushu	Bush	PER	PER-George-Bush-Sr
+6820	6830	Ross Perot	Ross Perot	PER	PER-Ross-Perot

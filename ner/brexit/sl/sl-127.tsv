@@ -1,0 +1,53 @@
+5	11	brexit	brexit	EVT	EVT-Brexit
+81	95	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+122	137	Britanska vlada	Britanska vlada	ORG	ORG-British-Government
+221	234	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+279	292	Angele Merkel	Angela Merkel	PER	PER-Angela-Merkel
+345	364	Emmanuelom Macronom	Emmanuel Macron	PER	PER-Emmanuel-Macron
+393	395	G7	G7	ORG	ORG-G7
+480	488	Biarritz	Biarritz	LOC	LOC-Biarritz
+496	510	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+567	583	Evropskega sveta	Evropski sveta	ORG	ORG-European-Council
+584	597	Donaldu Tusku	Donald Tusk	PER	PER-Donald-Tusk
+705	716	Theresa May	Theresa May	PER	PER-Theresa-May
+804	811	brexitu	brexit	EVT	EVT-Brexit
+853	860	Johnson	Johnson	PER	PER-Boris-Johnson
+922	924	EU	EU	ORG	ORG-European-Union
+1083	1095	irskem otoku	irski otok	LOC	GPE-Ireland
+1118	1133	Republiko Irsko	Republika Irska	LOC	GPE-Republic-of-Ireland
+1145	1158	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+1170	1186	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+1248	1269	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+1420	1427	Johnson	Johnson	PER	PER-Boris-Johnson
+1436	1441	Tusku	Tusk	PER	PER-Donald-Tusk
+1499	1515	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+1543	1545	EU	EU	ORG	ORG-European-Union
+1728	1735	Bruslju	Bruselj	LOC	GPE-Brussles
+1849	1855	Mayevo	May	PER	PER-Theresa-May
+1896	1898	EU	EU	ORG	ORG-European-Union
+1951	1958	brexitu	brexit	EVT	EVT-Brexit
+2024	2026	EU	EU	ORG	ORG-European-Union
+2125	2130	Irsko	Irsko	LOC	GPE-Ireland
+2144	2157	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+2213	2229	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+2286	2296	Johnsonova	Johnson	PER	PER-Boris-Johnson
+2517	2529	irskem otoku	irski otok	LOC	GPE-Ireland
+2555	2574	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+2578	2580	EU	EU	ORG	ORG-European-Union
+2674	2679	Irsko	Irsko	LOC	GPE-Ireland
+2683	2696	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+2812	2825	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+2840	2861	Združenim kraljestvom	Združeno kraljestvo	LOC	GPE-Great-Britain
+2905	2919	Evropska unija	Evropska unija	ORG	ORG-European-Union
+3104	3114	Johnsonovo	Johnson	PER	PER-Boris-Johnson
+3212	3224	irskem otoku	irski otok	LOC	GPE-Ireland
+3271	3288	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+3289	3304	Natasha Bertaud	Natasha Bertaud	PER	PER-Natasha-Bertaud
+3383	3402	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+3470	3490	Ursula von der Leyen	Ursula von der Leyen	PER	PER-Ursula-von-der-Leyen
+3522	3538	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+3539	3552	Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+3813	3820	Twitter	Twitter	PRO	PRO-Twitter
+3830	3834	Tusk	Tusk	PER	PER-Donald-Tusk
+3836	3846	Bertaudova	Bertaud	PER	PER-Natasha-Bertaud
+3864	3881	Evropska komisija	Evropska komisija	ORG	ORG-European-Commission

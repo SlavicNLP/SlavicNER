@@ -1,0 +1,12 @@
+41	46	Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+50	64	Великобритания	Великобритания	LOC	GPE-Great-Britain
+83	103	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+104	118	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+195	202	Ройтерс	Ройтерс	ORG	ORG-Reuters
+252	259	Брекзит	Брекзит	EVT	EVT-Brexit
+377	390	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+415	417	ЕС	ЕС	ORG	ORG-European-Union
+507	527	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+528	542	Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+619	626	Ройтерс	Ройтерс	ORG	ORG-Reuters
+676	683	Брекзит	Брекзит	EVT	EVT-Brexit

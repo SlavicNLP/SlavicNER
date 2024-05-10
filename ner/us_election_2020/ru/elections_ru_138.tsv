@@ -1,0 +1,77 @@
+38	41	США	США	LOC	GPE-USA
+72	82	американцы	американцы	PER	GPE-USA
+100	116	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+159	165	Meduza	Meduza	PRO	PRO-Russia-Meduza
+191	194	США	США	LOC	GPE-USA
+419	431	американские	американские	LOC	GPE-USA
+460	468	«Медуза»	Медуза	PRO	PRO-Russia-Meduza
+556	559	США	США	LOC	GPE-USA
+584	587	США	США	LOC	GPE-USA
+663	678	Конституции США	Конституция США	PRO	PRO-The-USA-Constitution
+796	815	коллегию выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+832	842	американцы	американцы	PER	GPE-USA
+928	931	США	США	LOC	GPE-USA
+1184	1187	США	США	LOC	GPE-USA
+1394	1397	США	США	LOC	GPE-USA
+1399	1409	Калифорния	Калифорния	LOC	GPE-California
+1543	1551	Колумбия	Колумбия	LOC	GPE-District-of-Columbia
+1636	1644	коллегия	коллегия	ORG	ORG-United-States-Electoral-College
+1744	1754	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+1921	1942	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+2084	2087	США	США	LOC	GPE-USA
+2951	2961	Калифорнии	Калифорния	LOC	GPE-California
+3228	3246	кампания 2000 года	кампания 2000 года	EVT	ETV-2000-United-States-Presidential-Campaign
+3254	3262	демократ	демократ	ORG	ORG-Democratic-Party-USA
+3263	3269	Эл Гор	Эл Гор	PER	PER-Al-Gore
+3302	3315	республиканец	республиканец	ORG	ORG-Republican-Party-USA
+3316	3334	Джордж Буш-младший	Джордж Буш-младший	PER	PER-George-Bush-Jr
+3403	3407	Буша	Буш	PER	PER-George-Bush-Jr
+4288	4293	Айове	Айова	LOC	GPE-Iowa
+4346	4352	Трампа	Трамп	PER	PER-Donald-Trump
+4568	4571	США	США	LOC	GPE-USA
+5002	5017	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
+5020	5035	Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
+5103	5110	Зеленой	Зеленая	ORG	ORG-Green-Party-of-the-United-States
+5112	5127	Либертарианской	Либертарианская	ORG	ORG-Libertarian-Party-USA
+5129	5144	Конституционной	Конституционная	ORG	ORG-Constitution-Party-USA
+5174	5191	выборах 2016 года	выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+5272	5283	Нью-Мексико	Нью-Мексико	LOC	GPE-New-Mexico
+5284	5296	Гэри Джонсон	Гэри Джонсон	PER	PER-Gary-Johnson
+5386	5401	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+5404	5417	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+5848	5858	американцы	американцы	PER	GPE-USA
+5935	5945	Белом доме	Белый дом	LOC	LOC-White-House
+5946	5959	магистра Йоду	магистр Йода	PER	PER-Yoda
+5963	5978	«Звездных войн»	Звездные войны	PRO	PRO-Star-Wars
+5980	5992	Чака Норриса	Чак Норрис	PER	PER-Chuck-Norris
+6000	6016	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+6024	6030	Трампа	Трамп	PER	PER-Donald-Trump
+6093	6108	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+6138	6157	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+6216	6231	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+6284	6299	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+6345	6356	американцев	американцы	PER	GPE-USA
+6363	6370	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+6513	6528	республиканцами	республиканцы	ORG	ORG-Republican-Party-USA
+6530	6535	Трамп	Трамп	PER	PER-Donald-Trump
+6639	6650	американцев	американцы	PER	GPE-USA
+6711	6723	американском	американский	LOC	GPE-USA
+6814	6827	вашингтонских	вашингтонский	LOC	GPE-WashingtonDC
+6861	6868	Хиллари	Хиллари	PER	PER-Hillary-Clinton
+6983	6986	США	США	LOC	GPE-USA
+7038	7049	американцев	американцы	PER	GPE-USA
+7057	7072	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+7162	7168	Трампа	Трамп	PER	PER-Donald-Trump
+7189	7204	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
+7225	7232	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+7317	7320	ФБР	ФБР	ORG	ORG-FBI
+7350	7357	Хиллари	Хиллари	PER	PER-Hillary-Clinton
+7417	7424	Клинтон	Клинтон	PER	PER-Hillary-Clinton
+7486	7505	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+7809	7828	Коллегия выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+7897	7906	Капитолия	Капитолий	LOC	LOC-United-States-Capitol
+8126	8136	сената США	сенат США	ORG	ORG-United-States-Senate
+8196	8199	США	США	LOC	GPE-USA
+8211	8223	сената штата	сенат штата	ORG	ORG-United-States-State-Legislature
+8369	8382	конгресса США	конгресс США	ORG	ORG-United-States-Congress
+8415	8421	сената	сенат	ORG	ORG-United-States-Senate

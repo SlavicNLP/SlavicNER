@@ -1,0 +1,27 @@
+0	7	Климкин	Климкин	PER	PER-Pavlo-Klimkin
+57	64	Россией	Россия	LOC	GPE-Russia
+67	75	Брюсселе	Брюссель	LOC	GPE-Brussles
+77	84	Украина	Украина	LOC	GPE-Ukraine
+137	145	Брюсселе	Брюссель	LOC	GPE-Brussles
+302	309	Украины	Украина	LOC	GPE-Ukraine
+310	323	Павел Климкин	Павел Климкин	PER	PER-Pavlo-Klimkin
+356	365	МИД Литвы	МИД Литвы	ORG	ORG-Foreign-Office-Lithuania
+366	386	Линасом Линкявичюсом	Линас Линкявичюс	PER	PER-Linas-Linkavichus
+733	735	ЕС	ЕС	ORG	ORG-European-Union
+747	754	Климкин	Климкин	PER	PER-Pavlo-Klimkin
+827	834	Украины	Украина	LOC	GPE-Ukraine
+1035	1038	МИД	МИД	ORG	ORG-Foreign-Office
+1075	1082	Украины	Украина	LOC	GPE-Ukraine
+1085	1090	Литвы	Литва	LOC	GPE-Lithuania
+1181	1194	Nord stream-2	Nord stream-2	PRO	PRO-Nord-Stream-2
+1270	1276	России	Россия	LOC	GPE-Russia
+1291	1298	Климкин	Климкин	PER	PER-Pavlo-Klimkin
+1315	1322	Украина	Украина	LOC	GPE-Ukraine
+1382	1388	Европу	Европа	LOC	LOC-Europe
+1622	1630	Брюсселе	Брюссель	LOC	GPE-Brussles
+1721	1728	Климкин	Климкин	PER	PER-Pavlo-Klimkin
+1742	1764	"НАК ""Нафтогаз Украины"""	"НАК ""Нафтогаз Украины"""	ORG	ORG-Naftogaz
+1765	1779	Андрей Коболев	Андрей Коболев	PER	PER-Andrey-Kobolev
+1800	1807	Украины	Украина	LOC	GPE-Ukraine
+1940	1950	"""Газпрому"""	"""Газпром"""	ORG	ORG-Gazprom
+2096	2103	Украину	Украина	LOC	GPE-Ukraine

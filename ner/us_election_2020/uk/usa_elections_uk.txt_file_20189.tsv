@@ -1,0 +1,27 @@
+0	10	Espreso.tv	Espreso.tv	PRO	PRO-Espreso.tv
+21	42	Вибори президента США	Вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+66	74	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+95	102	Байдена	Байден	PER	PER-Joe-Biden
+105	126	Вибори президента США	Вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+150	158	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+179	186	Байдена	Байден	PER	PER-Joe-Biden
+223	230	Reuters	Reuters	ORG	ORG-Reuters
+300	322	виборах президента США	вибори президента США	EVT	EVT-2020-United-States-Presidential-Election
+331	339	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+370	381	джо Байдена	Джо Байден	PER	PER-Joe-Biden
+420	428	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+429	447	Бред Раффенспергер	Бред Раффенспергер	PER	PER-Brad-Raffensperger
+458	471	Радіо Свобода	Радіо Свобода	PRO	PRO-Radio-Free-Europe-Radio-Liberty
+532	539	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+551	564	Раффенспергер	Раффенспергер	PER	PER-Brad-Raffensperger
+632	647	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+651	659	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+754	762	Джорджії	Джорджія	LOC	GPE-Georgia-US-state
+763	769	Байден	Байден	PER	PER-Joe-Biden
+840	843	США	США	LOC	GPE-USA
+844	859	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+863	871	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+968	980	Білл Клінтон	Білл Клінтон	PER	PER-Bill-Clinton
+1007	1014	Україні	Україна	LOC	GPE-Ukraine
+1032	1039	Еспресо	Еспресо	PRO	PRO-Espreso.tv
+1057	1065	Telegram	Telegram	PRO	PRO-Telegram

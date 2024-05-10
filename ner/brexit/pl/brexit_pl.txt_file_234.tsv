@@ -1,0 +1,27 @@
+0	6	Farage	Farage	PER	PER-Nigel-Farage
+56	63	Brexitu	Brexit	EVT	EVT-Brexit
+155	162	Brexitu	Brexit	EVT	EVT-Brexit
+211	227	The Wright Stuff	The Wright Stuff	PRO	PRO-The-Wright-Stuff
+301	318	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+321	323	UE	UE	ORG	ORG-European-Union
+345	350	Clegg	Clegg	PER	PER-Nick-Clegg
+352	357	Blair	Blair	PER	PER-Tony-Blair
+359	365	Adonis	Adonis	PER	PER-Andrew-Adonis
+525	529	Unii	Unia	ORG	ORG-European-Union
+543	549	Farage	Farage	PER	PER-Nigel-Farage
+631	633	UE	UE	ORG	ORG-European-Union
+745	752	Brexitu	Brexit	EVT	EVT-Brexit
+1011	1013	UE	UE	ORG	ORG-European-Union
+1053	1070	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1080	1090	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+1167	1179	Partię Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1211	1215	Unii	Unia	ORG	ORG-European-Union
+1273	1286	Andrew Adonis	Andrew Adonis	PER	PER-Andrew-Adonis
+1300	1322	Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+1349	1360	Vince Cable	Vince Cable	PER	PER-Vince-Cable
+1441	1451	Farage'owi	Farage	PER	PER-Nigel-Farage
+1466	1481	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+1503	1507	Unii	Unia	ORG	ORG-European-Union
+1534	1557	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1558	1569	Theresy May	Theresa May	PER	PER-Theresa-May
+1631	1638	Brexitu	Brexit	EVT	EVT-Brexit

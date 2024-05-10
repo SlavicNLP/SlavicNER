@@ -1,0 +1,19 @@
+0	7	Barnier	Barnier	PER	PER-Michel-Barnier
+46	53	brexitu	brexit	EVT	EVT-Brexit
+60	65	Farge	Farage	PER	PER-Nigel-Farage
+129	131	EU	EU	ORG	ORG-European-Union
+181	188	Barnier	Barnier	PER	PER-Michel-Barnier
+215	222	brexitu	brexit	EVT	EVT-Brexit
+236	242	Farage	Farage	PER	PER-Nigel-Farage
+323	328	Brity	Britové	PER	GPE-Great-Britain
+339	345	brexit	brexit	EVT	EVT-Brexit
+410	416	brexit	brexit	EVT	EVT-Brexit
+425	431	Farage	Farage	PER	PER-Nigel-Farage
+433	440	Barnier	Barnier	PER	PER-Michel-Barnier
+506	513	Britové	Britové	PER	GPE-Great-Britain
+551	553	EU	EU	ORG	ORG-European-Union
+593	597	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+655	663	Británie	Británie	LOC	GPE-Great-Britain
+666	679	Evropské unie	Evropská unie	ORG	ORG-European-Union
+716	721	Britů	Britové	PER	GPE-Great-Britain
+782	788	Farage	Farage	PER	PER-Nigel-Farage

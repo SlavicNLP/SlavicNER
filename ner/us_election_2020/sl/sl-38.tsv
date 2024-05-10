@@ -1,0 +1,47 @@
+0	5	Bidnu	Biden	PER	PER-Joe-Biden
+37	49	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+92	107	zahvalnem dnevu	zahvalni dan	EVT	EVT-Thanksgiving-Day
+155	157	AP	AP	ORG	ORG-AP-The-Associated-Press
+160	169	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+183	195	zahvalni dan	zahvalni dan	EVT	EVT-Thanksgiving-Day
+365	379	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+389	394	Bidna	Biden	PER	PER-Joe-Biden
+498	503	Biden	Biden	PER	PER-Joe-Biden
+757	768	Washingtonu	Washington	LOC	GPE-WashingtonDC
+794	801	Bidnove	Biden	PER	PER-Joe-Biden
+823	831	Trumpove	Trump	PER	PER-Donald-Trump
+924	929	Bidnu	Biden	PER	PER-Joe-Biden
+1006	1011	Trump	Trump	PER	PER-Donald-Trump
+1090	1095	Bidna	Biden	PER	PER-Joe-Biden
+1132	1137	Trump	Trump	PER	PER-Donald-Trump
+1168	1175	Bidnovo	Biden	PER	PER-Joe-Biden
+1209	1214	Bidna	Biden	PER	PER-Joe-Biden
+1272	1295	urada za splošne službe	urad za splošne službe	ORG	ORG-General-Services-Administration
+1297	1300	GSA	GSA	ORG	ORG-General-Services-Administration
+1302	1317	Emily W. Murphy	Emily W. Murphy	PER	PER-Emily-Murphy
+1473	1483	Trumpovega	Trump	PER	PER-Donald-Trump
+1526	1536	Murphyjeva	Murphy	PER	PER-Emily-Murphy
+1690	1693	GSA	GSA	ORG	ORG-General-Services-Administration
+1754	1759	Biden	Biden	PER	PER-Joe-Biden
+1949	1954	Bidna	Biden	PER	PER-Joe-Biden
+2042	2047	Bidnu	Biden	PER	PER-Joe-Biden
+2291	2301	Murphyjeva	Murphy	PER	PER-Emily-Murphy
+2344	2353	Michiganu	Michigan	LOC	GPE-Michigan
+2390	2395	Bidna	Biden	PER	PER-Joe-Biden
+2412	2424	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2426	2434	Trumpova	Trump	PER	PER-Donald-Trump
+2495	2508	Sidney Powell	Sidney Powell	PER	PER-Sidney-Powell
+2545	2550	Trump	Trump	PER	PER-Donald-Trump
+2593	2597	Kuba	Kuba	LOC	GPE-Cuba
+2599	2607	Kitajska	Kitajska	LOC	GPE-China
+2611	2620	Venezuela	Venezuela	LOC	GPE-Venezuela
+2741	2753	Huga Chaveza	Hugo Chavez	PER	PER-Hugo-Chavez
+2756	2763	Bidnova	Biden	PER	PER-Joe-Biden
+2800	2842	centrom za preprečevanje in nadzor bolezni	center za preprečevanje in nadzor bolezni	ORG	ORG-European-Centre-for-Disease-Prevention-and-Control
+2859	2862	ZDA	ZDA	LOC	GPE-USA
+3003	3019	zahvalnim dnevom	zahvalni dan	EVT	EVT-Thanksgiving-Day
+3036	3041	božič	božič	EVT	EVT-Christmas
+3081	3091	Američanov	Američani	PER	GPE-USA
+3125	3130	Trump	Trump	PER	PER-Donald-Trump
+3139	3148	Beli hiši	Bela hiša	LOC	LOC-White-House
+3196	3205	Američani	Američani	PER	GPE-USA

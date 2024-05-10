@@ -1,0 +1,30 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+12	26	Великобритания	Великобритания	LOC	GPE-Great-Britain
+75	82	Брюксел	Брюксел	LOC	GPE-Brussles
+83	89	Лондон	Лондон	LOC	GPE-London
+91	105	Великобритания	Великобритания	LOC	GPE-Great-Britain
+144	160	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+263	270	Брекзит	Брекзит	EVT	EVT-Brexit
+400	402	ЕС	ЕС	ORG	ORG-European-Union
+403	415	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+436	442	Лондон	Лондон	LOC	GPE-London
+540	560	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+785	799	Великобритания	Великобритания	LOC	GPE-Great-Britain
+834	836	ЕС	ЕС	ORG	ORG-European-Union
+917	924	Франция	Франция	LOC	GPE-France
+925	931	Барние	Барние	PER	PER-Michel-Barnier
+962	969	Брюксел	Брюксел	LOC	GPE-Brussles
+972	986	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1076	1096	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1307	1314	Брюксел	Брюксел	LOC	GPE-Brussles
+1337	1339	ЕС	ЕС	ORG	ORG-European-Union
+1478	1488	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1576	1583	Брекзит	Брекзит	EVT	EVT-Brexit
+1587	1601	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1602	1615	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+1656	1676	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1830	1836	Дейвис	Дейвис	PER	PER-David-Davis
+2009	2023	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+2237	2240	Мей	Мей	PER	PER-Theresa-May
+2252	2264	Иван Христов	Иван Христов	PER	PER-Ivan-Hristov
+2403	2432	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

@@ -1,0 +1,14 @@
+0	6	Frexit	Frexit	EVT	EVT-Frexit
+40	47	Macrona	Macron	PER	PER-Emmanuel-Macron
+58	65	Francji	Francja	LOC	GPE-France
+68	70	UE	UE	ORG	ORG-European-Union
+133	135	UE	UE	ORG	ORG-European-Union
+136	143	Niemcow	Niemcy	PER	GPE-Germany
+202	208	Macron	Macron	PER	PER-Emmanuel-Macron
+233	240	Francji	Francja	LOC	GPE-France
+243	245	UE	UE	ORG	ORG-European-Union
+276	284	Niemcami	Niemcy	LOC	GPE-Germany
+357	368	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+384	391	brexitu	Brexit	EVT	EVT-Brexit
+437	443	Niemcy	Niemcy	PER	GPE-Germany
+716	722	Europy	Europa	LOC	LOC-Europe

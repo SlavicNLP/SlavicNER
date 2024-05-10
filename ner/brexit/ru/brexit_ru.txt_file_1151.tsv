@@ -1,0 +1,18 @@
+26	38	МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+46	54	Джонсона	Джонсон	PER	PER-Boris-Johnson
+69	112	Министерства иностранных дел Великобритании	Министерство иностранных дел Великобритании	ORG	ORG-Foreign-Office
+118	130	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+151	166	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+217	226	ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
+241	244	ВВС	BBC	PRO	PRO-BBC
+441	447	Brexit	Brexit	EVT	EVT-Brexit
+493	497	Хант	Хант	PER	PER-Jeremy-Hunt
+500	507	Twitter	Twitter	PRO	PRO-Twitter
+538	542	Хант	Хант	PER	PER-Jeremy-Hunt
+642	645	МИД	МИД	ORG	ORG-Foreign-Office
+692	694	ЕС	ЕС	ORG	ORG-European-Union
+733	741	Британии	Британия	LOC	GPE-Great-Britain
+911	913	ЕС	ЕС	ORG	ORG-European-Union
+961	974	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1024	1038	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1139	1148	ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA

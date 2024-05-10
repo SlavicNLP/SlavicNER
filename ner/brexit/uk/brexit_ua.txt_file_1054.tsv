@@ -1,0 +1,40 @@
+0	7	Меркель	Меркель	PER	PER-Angela-Merkel
+38	47	саміті ЄС	саміт ЄС	EVT	EVT-EU-summit
+53	59	Brexit	Brexit	EVT	EVT-Brexit
+68	77	Німеччини	Німеччина	LOC	GPE-Germany
+78	92	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+137	146	саміті ЄС	саміт ЄС	EVT	EVT-EU-summit
+152	158	Brexit	Brexit	EVT	EVT-Brexit
+264	280	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+322	331	Німеччина	Німеччина	LOC	GPE-Germany
+350	352	ЄС	ЄС	LOC	ORG-European-Union
+357	371	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+397	403	саміті	саміт	EVT	EVT-EU-summit
+409	415	Brexit	Brexit	EVT	EVT-Brexit
+487	489	ЄС	ЄС	LOC	ORG-European-Union
+492	501	Британією	Британія	LOC	GPE-Great-Britain
+537	544	Меркель	Меркель	PER	PER-Angela-Merkel
+557	566	Німеччина	Німеччина	LOC	GPE-Germany
+588	594	Brexit	Brexit	EVT	EVT-Brexit
+629	639	Гібралтару	Гібралтар	LOC	GPE-Gibraltar
+661	670	Гібралтар	Гібралтар	LOC	GPE-Gibraltar
+693	709	Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+722	730	Іспанією	Іспанія	LOC	GPE-Spain
+761	764	МЗС	МЗС	ORG	ORG-Foreign-Office
+765	777	Хосеп Борель	Хосеп Борель	PER	PER-Josep-Borrell
+789	796	Іспанія	Іспанія	LOC	GPE-Spain
+818	824	Brexit	Brexit	EVT	EVT-Brexit
+877	887	Гібралтару	Гібралтар	LOC	GPE-Gibraltar
+905	908	Мей	Мей	PER	PER-Theresa-May
+932	941	Шотландії	Шотландія	LOC	GPE-Scotland
+953	959	Brexit	Brexit	EVT	EVT-Brexit
+984	990	Brexit	Brexit	EVT	EVT-Brexit
+993	1002	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1005	1013	Британії	Британія	LOC	GPE-Great-Britain
+1039	1062	Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+1065	1067	ЄС	ЄС	LOC	ORG-European-Union
+1159	1167	Британії	Британія	LOC	GPE-Great-Britain
+1170	1172	ЄС	ЄС	LOC	ORG-European-Union
+1217	1227	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1277	1280	Мей	Мей	PER	PER-Theresa-May
+1306	1312	Brexit	Brexit	EVT	EVT-Brexit

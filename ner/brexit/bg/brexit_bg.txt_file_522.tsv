@@ -1,0 +1,32 @@
+0	14	Великобритания	Великобритания	LOC	GPE-Great-Britain
+48	55	Брекзит	Брекзит	EVT	EVT-Brexit
+112	126	Великобритания	Великобритания	LOC	GPE-Great-Britain
+177	193	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+266	273	Ройтерс	Ройтерс	ORG	ORG-Reuters
+276	290	Великобритания	Великобритания	LOC	GPE-Great-Britain
+302	304	ЕС	ЕС	ORG	ORG-European-Union
+370	380	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+550	557	Брекзит	Брекзит	EVT	EVT-Brexit
+580	594	Великобритания	Великобритания	LOC	GPE-Great-Britain
+652	654	ЕС	ЕС	ORG	ORG-European-Union
+821	835	Великобритания	Великобритания	LOC	GPE-Great-Britain
+867	899	Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+951	954	Мей	Мей	PER	PER-Theresa-May
+1034	1064	Европейската икономическа зона	Европейска икономическа зона	ORG	ORG-EEA-European-Economic-Area
+1413	1415	ЕС	ЕС	ORG	ORG-European-Union
+1418	1432	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1476	1483	Брекзит	Брекзит	EVT	EVT-Brexit
+1556	1558	ЕС	ЕС	ORG	ORG-European-Union
+1672	1679	Брекзит	Брекзит	EVT	EVT-Brexit
+1751	1765	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1847	1855	Германия	Германия	LOC	GPE-Germany
+1900	1920	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1938	1950	Съвета на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+1997	2004	Брекзит	Брекзит	EVT	EVT-Brexit
+2047	2067	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2179	2181	ЕС	ЕС	ORG	ORG-European-Union
+2232	2246	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2429	2431	ЕС	ЕС	ORG	ORG-European-Union
+2464	2474	Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+2503	2523	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2605	2607	ЕС	ЕС	ORG	ORG-European-Union

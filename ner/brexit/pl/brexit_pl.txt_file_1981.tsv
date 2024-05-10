@@ -1,0 +1,60 @@
+18	23	Tuska	Tusk	PER	PER-Donald-Tusk
+39	45	Putina	Putin	PER	PER-Vladimir-Putin
+248	255	Zachodu	Zachód	LOC	LOC-West
+276	281	Rosją	Rosja	LOC	GPE-Russia
+301	308	Ukrainy	Ukraina	LOC	GPE-Ukraine
+310	315	Krymu	Krym	LOC	GPE-Crimea
+317	322	Syrii	Syria	LOC	GPE-Syria
+355	373	Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+471	487	Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+598	604	Putina	Putin	PER	PER-Vladimir-Putin
+619	631	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+644	647	USA	USA	LOC	GPE-USA
+800	808	Junckera	Juncker	PER	PER-Jean-Claude-Juncker
+843	851	Putinowi	Putin	PER	PER-Vladimir-Putin
+852	863	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+974	978	Tusk	Tusk	PER	PER-Donald-Tusk
+1044	1062	Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+1073	1082	Salisbury	Salisbury	LOC	GPE-Salisbury
+1143	1149	Putina	Putin	PER	PER-Vladimir-Putin
+1154	1165	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1185	1189	Unia	Unia	ORG	ORG-European-Union
+1275	1279	NATO	NATO	ORG	ORG-NATO
+1318	1320	UE	UE	ORG	ORG-European-Union
+1348	1363	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+1381	1383	UE	UE	ORG	ORG-European-Union
+1386	1391	Rosją	Rosja	LOC	GPE-Russia
+1402	1410	Skripala	Skripal	PER	PER-Siergiej-Skripal
+1454	1456	UE	UE	ORG	ORG-European-Union
+1489	1505	Siergiej Skripal	Siergiej Skripal	PER	PER-Siergiej-Skripal
+1549	1552	GRU	GRU	ORG	ORG-GRU-(Russian-GU)
+1568	1571	MI6	MI6	ORG	ORG-MI6
+1749	1767	Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+1796	1801	Rosję	Rosja	LOC	GPE-Russia
+1853	1864	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+1890	1897	brexitu	Brexit	EVT	EVT-Brexit
+1938	1944	brexit	Brexit	EVT	EVT-Brexit
+1951	1968	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1969	1980	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+2155	2172	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2176	2185	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2353	2361	Brukseli	Bruksela	LOC	GPE-Brussles
+2421	2428	brexitu	Brexit	EVT	EVT-Brexit
+2464	2473	Twitterze	Twitter	PRO	PRO-Twitter
+2474	2478	Tusk	Tusk	PER	PER-Donald-Tusk
+2485	2493	Polakami	Polacy	PER	GPE-Poland
+2496	2509	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+2546	2554	Brukseli	Bruksela	LOC	GPE-Brussles
+2557	2564	Londynu	Londyn	LOC	GPE-London
+2580	2593	Europejczyków	Europejczycy	PER	LOC-Europe
+2596	2613	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2631	2638	Polaków	Polacy	PER	GPE-Poland
+2675	2680	Wyspy	Wyspy	LOC	GPE-Great-Britain
+2687	2695	brexitem	Brexit	EVT	EVT-Brexit
+2875	2892	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2934	2947	Europejczyków	Europejczycy	PER	LOC-Europe
+3025	3038	Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+3126	3132	Polsce	Polska	LOC	GPE-Poland
+3162	3179	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3227	3242	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3396	3404	brexicie	Brexit	EVT	EVT-Brexit

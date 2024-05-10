@@ -1,0 +1,23 @@
+0	3	СЗО	СЗО	ORG	ORG-WHO
+5	15	Пандемията	Пандемия	EVT	EVT-Pandemic
+37	47	Гебрейесус	Гебрейесус	PER	PER-Tedros-Adhanom-Ghebreyesus
+104	116	коронавируса	коронавирус	EVT	EVT-Covid-19
+118	149	Пандемията от новия коронавирус	Пандемия от новия коронавирус	EVT	EVT-Covid-19
+307	343	Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+344	368	Тедрос Аданом Гебрейесус	Тедрос Аданом Гебрейесус	PER	PER-Tedros-Adhanom-Ghebreyesus
+381	388	Reuters	Reuters	ORG	ORG-Reuters
+392	395	СЗО	СЗО	ORG	ORG-WHO
+455	461	Африка	Африка	LOC	LOC-Africa
+463	477	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+479	495	Латинска Америка	Латинска Америка	LOC	LOC-Latin-America
+634	637	СЗО	СЗО	ORG	ORG-WHO
+773	783	пандемията	пандемия	EVT	EVT-Pandemic
+786	796	Гебрейесус	Гебрейесус	PER	PER-Tedros-Adhanom-Ghebreyesus
+848	851	СЗО	СЗО	ORG	ORG-WHO
+949	961	коронавируса	коронавирус	EVT	EVT-Covid-19
+983	988	Китай	Китай	LOC	GPE-China
+1046	1056	Гебрейесус	Гебрейесус	PER	PER-Tedros-Adhanom-Ghebreyesus
+1113	1125	коронавируса	коронавирус	EVT	EVT-Covid-19
+1319	1322	СЗО	СЗО	ORG	ORG-WHO
+1706	1733	инфекции с новия кронавирус	инфекции с новия кронавирус	EVT	EVT-Covid-19
+1777	1805	университета „Джонс Хопкинс“	Университет „Джонс Хопкинс“	ORG	ORG-Johns-Hopkins-University

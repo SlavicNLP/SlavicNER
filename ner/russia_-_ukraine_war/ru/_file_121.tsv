@@ -1,0 +1,29 @@
+2	5	ООН	ООН	ORG	ORG-United-Nations
+26	37	Черное море	Черное море	LOC	LOC-Black-Sea
+59	61	ЕС	ЕС	ORG	ORG-European-Union
+100	107	Украины	Украина	LOC	GPE-Ukraine
+147	154	Черного	Черное	LOC	LOC-Black-Sea
+157	172	Азовского морей	Азовское море	LOC	LOC-The-Sea-of-Azov
+255	296	Всемирной продовольственной программы ООН	Всемирная продовольственная программа ООН	ORG	ORG-The-United-Nations-World-Food-Programme
+297	308	Дэвид Бизли	Дэвид Бизли	PER	PER-David-Beasley
+323	329	России	Россия	LOC	GPE-Russia
+411	414	CNN	CNN	PRO	PRO-CNN
+560	568	Украиной	Украина	LOC	GPE-Ukraine
+733	740	Украины	Украина	LOC	GPE-Ukraine
+1008	1014	России	Россия	LOC	GPE-Russia
+1017	1020	США	США	LOC	GPE-USA
+1021	1038	Анатолия Антонова	Анатолий Антонов	PER	PER-Anatoly-Antonov
+1089	1095	Европу	Европа	LOC	LOC-Europe
+1177	1184	Черного	Черное	LOC	LOC-Black-Sea
+1187	1202	Азовского морей	Азовское море	LOC	LOC-The-Sea-of-Azov
+1345	1348	США	США	LOC	GPE-USA
+1349	1359	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1408	1426	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+1435	1437	ЕС	ЕС	ORG	ORG-European-Union
+1447	1450	США	США	LOC	GPE-USA
+1452	1458	Канада	Канада	LOC	GPE-Canada
+1460	1466	Япония	Япония	LOC	GPE-Japan
+1504	1506	РФ	РФ	LOC	GPE-Russia
+1552	1564	спецоперации	спецоперация	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+1568	1575	Украине	Украина	LOC	GPE-Ukraine
+1697	1703	Россию	Россия	LOC	GPE-Russia

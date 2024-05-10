@@ -1,0 +1,25 @@
+0	6	Лондон	Лондон	LOC	GPE-London
+42	48	Brexit	Brexit	EVT	EVT-Brexit
+50	64	Великобритания	Великобритания	LOC	GPE-Great-Britain
+107	109	ЕС	ЕС	ORG	ORG-European-Union
+185	191	Brexit	Brexit	EVT	EVT-Brexit
+288	293	БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+462	476	Великобритания	Великобритания	LOC	GPE-Great-Britain
+485	501	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+736	750	Великобритания	Великобритания	LOC	GPE-Great-Britain
+770	772	ЕС	ЕС	ORG	ORG-European-Union
+889	903	Великобритания	Великобритания	LOC	GPE-Great-Britain
+906	908	ЕС	ЕС	ORG	ORG-European-Union
+942	948	Лондон	Лондон	LOC	GPE-London
+1081	1088	Брюксел	Брюксел	LOC	GPE-Brussles
+1120	1134	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1243	1249	Brexit	Brexit	EVT	EVT-Brexit
+1397	1407	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1467	1481	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1565	1572	Брекзит	Брекзит	EVT	EVT-Brexit
+1612	1628	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1683	1685	ЕС	ЕС	ORG	ORG-European-Union
+1723	1737	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1787	1789	ЕС	ЕС	ORG	ORG-European-Union
+2002	2004	ЕС	ЕС	ORG	ORG-European-Union
+2121	2129	Facebook	Facebook	PRO	PRO-Facebook

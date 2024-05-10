@@ -1,0 +1,35 @@
+0	7	Україна	Україна	LOC	GPE-Ukraine
+30	36	Pfizer	Pfizer	ORG	ORG-Pfizer
+38	43	Ляшко	Ляшко	PER	PER-Viktor-Liashko
+60	67	Україна	Україна	LOC	GPE-Ukraine
+104	116	коронавірусу	коронавірус	EVT	EVT-Covid-19
+117	125	COVID-19	COVID-19	EVT	EVT-Covid-19
+139	145	Pfizer	Pfizer	ORG	ORG-Pfizer
+183	195	Віктор Ляшко	Віктор Ляшко	PER	PER-Viktor-Liashko
+266	275	ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
+301	306	LB.ua	LB.ua	PRO	PRO-LB.ua
+363	375	мРНК-вакцину	мРНК-вакцина	PRO	PRO-mRNA-Vaccine
+466	470	Київ	Київ	LOC	GPE-Kyiv
+488	507	Глобального альянсу	Глобальний альянс	ORG	ORG-Global-Aliance-for-vaccination
+604	609	COVAX	COVAX	PRO	PRO-Covax-initiative
+709	716	Moderna	Moderna	ORG	ORG-Moderna
+748	754	Pfizer	Pfizer	ORG	ORG-Pfizer
+765	770	COVAX	COVAX	PRO	PRO-Covax-initiative
+811	815	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+850	862	мРНК-вакцина	мРНК-вакцина	PRO	PRO-mRNA-Vaccine
+893	899	Pfizer	Pfizer	ORG	ORG-Pfizer
+912	917	Ляшко	Ляшко	PER	PER-Viktor-Liashko
+933	936	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
+959	964	COVAX	COVAX	PRO	PRO-Covax-initiative
+1022	1033	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+1062	1068	Pfizer	Pfizer	ORG	ORG-Pfizer
+1281	1310	Національною службою здоров’я	Національна служба здоров’я	ORG	ORG-National-Health-Service-of-Ukraine
+1311	1318	України	Україна	LOC	GPE-Ukraine
+1324	1332	Мінфіном	Мінфін	ORG	ORG-Ministry-of-Finance-Ukraine
+1572	1579	Україні	Україна	LOC	GPE-Ukraine
+1660	1669	ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
+1683	1712	Міністерства охорони здоров’я	Міністерство охорони здоров’я	ORG	ORG-Ministry-of-Healthcare-Ukraine
+1739	1750	NVX-CoV2373	NVX-CoV2373	PRO	PRO-NVX-CoV2373
+1809	1814	Serum	Serum	ORG	ORG-Serum-Institute-of-India
+1913	1920	Sinovac	Sinovac	ORG	ORG-Sinovac-Biotech
+1959	1963	Київ	Київ	LOC	GPE-Kyiv

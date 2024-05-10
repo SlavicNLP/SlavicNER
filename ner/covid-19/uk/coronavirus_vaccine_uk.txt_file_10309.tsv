@@ -1,0 +1,73 @@
+166	172	Європа	Європа	LOC	LOC-Europe
+208	217	Німеччині	Німеччина	LOC	GPE-Germany
+245	254	Німеччині	Німеччина	LOC	GPE-Germany
+288	297	пандемією	пандемія	EVT	EVT-Covid-19
+443	457	Сабіне Кінкарц	Сабіне Кінкарц	PER	PER-Sabine-Kinkartz
+603	606	ФРН	ФРН	LOC	GPE-Germany
+607	621	Анґела Меркель	Анґела Меркель	PER	PER-Angela-Merkel
+623	636	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+682	691	Німеччина	Німеччина	LOC	GPE-Germany
+727	740	коронавірусом	коронавірус	EVT	EVT-Covid-19
+1201	1213	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1262	1264	DW	DW	ORG	ORG-Deutsche-Welle
+1265	1279	Сабіне Кінкарц	Сабіне Кінкарц	PER	PER-Sabine-Kinkartz
+1493	1505	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1589	1601	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1603	1609	Європа	Європа	LOC	LOC-Europe
+1758	1769	коронавірус	коронавірус	EVT	EVT-Covid-19
+1773	1787	Великобританії	Великобританія	LOC	GPE-Great-Britain
+1967	1976	Німеччині	Німеччина	LOC	GPE-Germany
+2516	2528	коронавірусу	коронавірус	EVT	EVT-Covid-19
+2775	2783	пандемії	пандемія	EVT	EVT-Covid-19
+2826	2835	Німеччина	Німеччина	LOC	GPE-Germany
+2885	2893	пандемії	пандемія	EVT	EVT-Covid-19
+3358	3367	Німеччина	Німеччина	LOC	GPE-Germany
+3492	3500	пандемії	пандемія	EVT	EVT-Covid-19
+3628	3636	пандемії	пандемія	EVT	EVT-Covid-19
+4658	4667	Lufthansa	Lufthansa	ORG	ORG-Lufthansa
+5065	5073	пандемія	пандемія	EVT	EVT-Covid-19
+5387	5395	пандемії	пандемія	EVT	EVT-Covid-19
+5970	5984	Deutsche Welle	Deutsche Welle	ORG	ORG-Deutsche-Welle
+6007	6016	Німеччини	Німеччина	LOC	GPE-Germany
+6094	6103	Німеччині	Німеччина	LOC	GPE-Germany
+6150	6159	Німеччини	Німеччина	LOC	GPE-Germany
+6212	6235	коронавірусної інфекції	коронавірусна інфекція	EVT	EVT-Covid-19
+6336	6355	Франкфурті-на-Майні	Франкфурт-на-Майні	LOC	GPE-Frankfurt-am-Main
+6370	6379	Німеччини	Німеччина	LOC	GPE-Germany
+6404	6416	коронавірусу	коронавірус	EVT	EVT-Covid-19
+6490	6499	Євросоюзі	Євросоюз	LOC	ORG-European-Union
+6512	6524	коронавірусу	коронавірус	EVT	EVT-Covid-19
+6525	6533	BioNTech	BioNTech	ORG	ORG-BioNTech
+6534	6540	Pfizer	Pfizer	ORG	ORG-Pfizer
+6680	6689	Фрайбурзі	Фрайбург	LOC	LOC-Freiburg
+6704	6713	Німеччини	Німеччина	LOC	GPE-Germany
+6738	6750	коронавірусу	коронавірус	EVT	EVT-Covid-19
+6946	6955	Німеччині	Німеччина	LOC	GPE-Germany
+6996	7004	Єнс Шпан	Єнс Шпан	PER	PER-Jens-Spahn
+7006	7016	Jens Spahn	Jens Spahn	PER	PER-Jens-Spahn
+7032	7041	Німеччини	Німеччина	LOC	GPE-Germany
+7066	7078	коронавірусу	коронавірус	EVT	EVT-Covid-19
+7129	7131	ЄС	ЄС	LOC	ORG-European-Union
+7140	7148	BioNTech	BioNTech	ORG	ORG-BioNTech
+7149	7155	Pfizer	Pfizer	ORG	ORG-Pfizer
+7419	7428	Німеччини	Німеччина	LOC	GPE-Germany
+7453	7465	коронавірусу	коронавірус	EVT	EVT-Covid-19
+7530	7539	Німеччині	Німеччина	LOC	GPE-Germany
+7661	7688	Інститут імені Роберта Коха	Інститут імені Роберта Коха	ORG	ORG-Robert-Koch-Institute
+7863	7875	коронавірусу	коронавірус	EVT	EVT-Covid-19
+7890	7899	Німеччини	Німеччина	LOC	GPE-Germany
+7924	7936	коронавірусу	коронавірус	EVT	EVT-Covid-19
+7947	7955	BioNTech	BioNTech	ORG	ORG-BioNTech
+7956	7962	Pfizer	Pfizer	ORG	ORG-Pfizer
+7998	8010	коронавірусу	коронавірус	EVT	EVT-Covid-19
+8025	8039	Великобританії	Великобританія	LOC	GPE-Great-Britain
+8051	8063	коронавірусу	коронавірус	EVT	EVT-Covid-19
+8187	8195	BioNTech	BioNTech	ORG	ORG-BioNTech
+8196	8202	Pfizer	Pfizer	ORG	ORG-Pfizer
+8241	8253	коронавірусу	коронавірус	EVT	EVT-Covid-19
+8276	8284	BioNTech	BioNTech	ORG	ORG-BioNTech
+8285	8297	Угура Шахіна	Угур Шахін	PER	PER-Ugur-Sahin
+8423	8432	Німеччини	Німеччина	LOC	GPE-Germany
+8457	8469	коронавірусу	коронавірус	EVT	EVT-Covid-19
+8568	8580	коронавірусу	коронавірус	EVT	EVT-Covid-19
+8591	8600	Німеччині	Німеччина	LOC	GPE-Germany

@@ -1,0 +1,129 @@
+58	69	американцев	американцы	PER	GPE-USA
+582	592	американцы	американцы	PER	GPE-USA
+628	646	Соединённых Штатах	Соединенные Штаты	LOC	GPE-USA
+828	836	Коллегии	Коллегия	ORG	ORG-United-States-Electoral-College
+1258	1261	Мэн	Мэн	LOC	GPE-Maine
+1264	1272	Небраска	Небраска	LOC	GPE-Nebraska
+1758	1769	американцев	американцы	PER	GPE-USA
+1795	1810	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1817	1832	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+1885	1904	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+1940	1948	Коллегия	Коллегия	ORG	ORG-United-States-Electoral-College
+2032	2040	Колумбия	Колумбия	LOC	GPE-Colombia
+2060	2071	конституции	конституция	PRO	PRO-The-USA-Constitution
+2216	2226	демократов	демократы	ORG	ORG-Democratic-Party-USA
+2232	2246	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA
+2612	2619	Аризона	Аризона	LOC	GPE-Arizona
+2621	2629	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+2631	2638	Флорида	Флорида	LOC	GPE-Florida
+2640	2645	Айова	Айова	LOC	GPE-Iowa
+2647	2654	Мичиган	Мичиган	LOC	GPE-Michigan
+2656	2665	Миннесота	Миннесота	LOC	GPE-Minnesota
+2667	2673	Невада	Невада	LOC	GPE-Nevada
+2675	2686	Нью-Гэмпшир	Нью-Гэмпшир	LOC	GPE-New-Hampshire
+2688	2705	Северная Каролина	Северная Каролина	LOC	GPE-North-Carolina-US-State
+2707	2712	Огайо	Огайо	LOC	GPE-Ohio
+2714	2726	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+2728	2733	Техас	Техас	LOC	GPE-Texas
+2736	2745	Висконсин	Висконсин	LOC	GPE-Wisconsin
+2762	2769	Аризона	Аризона	LOC	GPE-Arizona
+2772	2777	Техас	Техас	LOC	GPE-Texas
+2825	2847	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+3186	3192	Техасе	Техас	LOC	GPE-Texas
+3197	3204	Флориде	Флорида	LOC	GPE-Florida
+3206	3218	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+3221	3229	Мичигане	Мичиган	LOC	GPE-Michigan
+3326	3335	Белый дом	Белый дом	ORG	ORG-The-White-House
+3751	3763	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
+4122	4129	Мичиган	Мичиган	LOC	GPE-Michigan
+4142	4154	Пенсильвания	Пенсильвания	LOC	GPE-Pennsylvania
+4156	4165	Висконсин	Висконсин	LOC	GPE-Wisconsin
+4484	4492	Колумбия	Колумбия	LOC	GPE-Colombia
+4687	4706	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+4893	4901	COVID-19	COVID-19	EVT	EVT-Covid-19
+5075	5090	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+5112	5134	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+5175	5193	Верховном суде США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+5330	5335	Трамп	Трамп	PER	PER-Donald-Trump
+5338	5344	Байден	Байден	PER	PER-Joe-Biden
+5427	5438	Белого дома	Белый дом	ORG	ORG-The-White-House
+5665	5672	Вермонт	Вермонт	LOC	GPE-Vermont
+5675	5683	Колорадо	Колорадо	LOC	GPE-Colorado
+5724	5732	Арканзас	Арканзас	LOC	GPE-Arkansas
+5735	5743	Луизиана	Луизиана	LOC	GPE-Louisiana
+6077	6080	США	США	LOC	GPE-USA
+6313	6338	Палата представителей США	Палата представителей США	ORG	ORG-United-States-House-of-Representatives
+6420	6423	США	США	LOC	GPE-USA
+6480	6489	Конгресса	Конгресс	ORG	ORG-United-States-Congress
+6531	6552	Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+6639	6652	Нижнюю палату	Нижняя палата	ORG	ORG-United-States-House-of-Representatives
+6888	6897	Конгрессе	Конгресс	ORG	ORG-United-States-Congress
+6987	6993	Палате	Палата	ORG	ORG-United-States-House-of-Representatives
+7093	7102	Сенат США	Сенат США	ORG	ORG-United-States-Senate
+7151	7171	Сенате Конгресса США	Сенат Конгресса США	ORG	ORG-United-States-Senate
+7268	7282	Верхней палаты	Верхняя палата	ORG	ORG-United-States-Senate
+7417	7439	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+7444	7451	Сенатом	Сенат	ORG	ORG-United-States-Senate
+7485	7496	демократами	демократы	ORG	ORG-Democratic-Party-USA
+7522	7532	демократам	демократы	ORG	ORG-Democratic-Party-USA
+7600	7614	Верхней палате	Верхняя палата	ORG	ORG-United-States-Senate
+7674	7686	американские	американский	LOC	GPE-USA
+7757	7778	Палату представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+7787	7796	демократы	демократы	ORG	ORG-Democratic-Party-USA
+7886	7891	Сенат	Сенат	ORG	ORG-United-States-Senate
+7900	7913	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+8043	8048	Сенат	Сенат	ORG	ORG-United-States-Senate
+8125	8137	Барака Обамы	Барак Обама	PER	PER-Barack-Obama
+8140	8153	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
+8231	8242	Белого дома	Белый дом	ORG	ORG-The-White-House
+8262	8283	Палаты представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
+8300	8305	Трамп	Трамп	PER	PER-Donald-Trump
+8355	8365	демократов	демократы	ORG	ORG-Democratic-Party-USA
+8368	8391	Нижней палате Конгресса	Нижняя палата Конгресса	ORG	ORG-House-of-Representatives(USA)
+8708	8725	Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
+8750	8755	Сенат	Сенат	ORG	ORG-United-States-Senate
+8772	8789	Овальном кабинете	Овальный кабинет	ORG	ORG-Oval-Office
+8832	8842	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
+8935	8958	Демократической партией	Демократическая партия	ORG	ORG-Democratic-Party-USA
+9131	9142	Білого дому	Білий дім	ORG	ORG-White-House
+9180	9183	США	США	LOC	GPE-USA
+9260	9266	Орегон	Орегон	LOC	GPE-Oregon
+9288	9291	США	США	LOC	GPE-USA
+9387	9400	The Oregonian	The Oregonian	PRO	PRO-The-Oregonian
+9442	9448	Італії	Італія	LOC	GPE-Italy
+9542	9561	Corriere della Sera	Corriere della Sera	PRO	PRO-Corriere-della-sera
+9640	9664	Демократичної партії США	Демократична партія США	ORG	ORG-Democratic-Party-USA
+9665	9678	Сара Макбрайд	Сара Макбрайд	PER	PER-Sarah-McBride
+9788	9796	NBC News	NBC News	PRO	PRO-NBC-News
+9819	9832	Южном Кавказе	Южный Кавказ	LOC	GPE-South-Caucasus
+9979	9984	"""Ета"""	"""Эта"""	EVT	EVT-Hurricane-Eta
+9987	10006	Центральній Америці	Центральная Америка	LOC	GPE-Central-America
+10054	10061	Reuters	Reuters	PRO	ORG-Reuters
+10111	10129	Центральну Америку	Центральная Америка	LOC	GPE-Central-America
+10206	10218	коронавірусу	коронавірус	EVT	EVT-Covid-19
+10230	10239	Бангладеш	Бангладеш	LOC	GPE-Bangladesh
+10283	10295	Worldometers	Worldometers	PRO	PRO-Worldometers
+10299	10308	Бангладеш	Бангладеш	LOC	GPE-Bangladesh
+10378	10386	Facebook	Facebook	PRO	PRO-Facebook
+10389	10396	Twitter	Twitter	PRO	PRO-Twitter
+10438	10441	США	США	LOC	GPE-USA
+10442	10455	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+10570	10607	Держдепартаменту США з питань України	Департамент США по вопросам Украины	ORG	ORG-US-Department-of-Ukraine-Affairs
+10608	10619	Курт Волкер	Курт Волкер	PER	PER-Kurt-Volker
+10641	10646	Росії	Росія	LOC	GPE-Russia
+10647	10662	Володимир Путін	Владимир Путин	PER	PER-Vladimir-Putin
+10698	10706	Білорусі	Білорусь	LOC	GPE-Belarus
+10715	10721	Волкер	Волкер	PER	PER-Kurt-Volker
+10741	10744	США	США	LOC	GPE-USA
+10745	10758	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+10935	10958	Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
+10959	10972	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+11027	11030	США	США	LOC	GPE-USA
+11035	11040	Айова	Айова	LOC	GPE-Iowa
+11042	11049	Флорида	Флорида	LOC	GPE-Florida
+11051	11059	Джорджія	Джорджія	LOC	GPE-Georgia-US-state
+11061	11078	Північна Кароліна	Північна Кароліна	LOC	GPE-South-Carolina-US-State
+11080	11085	Техас	Техас	LOC	GPE-Texas
+11089	11094	Огайо	Огайо	LOC	GPE-Ohio
+11122	11125	США	США	LOC	GPE-USA
+11126	11139	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump

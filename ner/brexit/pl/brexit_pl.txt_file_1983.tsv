@@ -1,0 +1,20 @@
+0	11	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+47	54	Brexitu	Brexit	EVT	EVT-Brexit
+124	131	Brexitu	Brexitu	EVT	EVT-Brexit
+354	378	ministerstwo ds. Brexitu	Ministerstwo ds. Brexitu	ORG	ORG-Ministry-of-Brexity
+412	429	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+432	449	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+553	556	ICM	ICM	ORG	ORG-ICM-Agency
+592	598	Szkoci	Szkoci	PER	GPE-Scotland
+661	665	Unii	Unia	ORG	ORG-European-Union
+775	779	Unii	Unia	ORG	ORG-European-Union
+933	937	Unii	Unia	ORG	ORG-European-Union
+972	984	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1030	1038	Guardian	Guardian	PRO	PRO-The-Guardian
+1270	1277	Brexitu	Brexit	EVT	EVT-Brexit
+1364	1375	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1445	1460	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+1492	1504	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+1543	1560	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1563	1565	UE	UE	ORG	ORG-European-Union
+1719	1721	UE	UE	ORG	ORG-European-Union

@@ -1,0 +1,43 @@
+0	2	ЕК	ЕК	ORG	ORG-European-Commission
+129	131	ЕК	ЕК	ORG	ORG-European-Commission
+132	152	Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+154	201	Виртуалната международна дарителска конференция	Виртуална международна дарителска конференция	EVT	EVT-Coronavirus-Global-Response-pledging-event
+219	239	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+396	408	коронавируса	коронавирус	EVT	EVT-Covid-19
+515	517	ЕС	ЕС	ORG	ORG-European-Union
+593	595	ЕК	ЕК	ORG	ORG-European-Commission
+596	616	Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+618	626	България	България	LOC	GPE-Bulgaria
+851	863	коронавируса	коронавирус	EVT	EVT-Covid-19
+883	903	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+904	924	Урсула фон дер Лайен	Урсула фон дер Лайен	PER	PER-Ursula-von-der-Leyen
+1070	1082	коронавируса	коронавирус	EVT	EVT-Covid-19
+1541	1557	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+1559	1565	Канада	Канада	LOC	GPE-Canada
+1567	1574	Франция	Франция	LOC	GPE-France
+1576	1584	Германия	Германия	LOC	GPE-Germany
+1586	1592	Италия	Италия	LOC	GPE-Italy
+1632	1636	Г-20	Г-20	ORG	ORG-G20
+1638	1644	Япония	Япония	LOC	GPE-Japan
+1646	1662	Саудитска Арабия	Саудитска Арабия	LOC	GPE-Saudi-Arabia
+1704	1708	Г-20	Г-20	ORG	ORG-G20
+1710	1718	Норвегия	Норвегия	LOC	GPE-Norway
+1720	1727	Испания	Испания	LOC	GPE-Spain
+1730	1750	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+1805	1841	Световната здравна организация (СЗО)	Световна здравна организация (СЗО)	ORG	ORG-WHO
+2015	2027	коронавируса	коронавирус	EVT	EVT-Covid-19
+2069	2081	коронавируса	коронавирус	EVT	EVT-Covid-19
+2317	2329	коронавируса	коронавирус	EVT	EVT-Covid-19
+2547	2559	коронавируса	коронавирус	EVT	EVT-Covid-19
+2561	2581	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+2739	2752	Хоризонт 2020	Хоризонт 2020	PRO	PRO-Horizon-2020
+2772	2778	RescEU	RescEU	PRO	PRO-rescEU
+2798	2828	Инструмента за спешна подкрепа	Инструмент за спешна подкрепа	PRO	PRO-Instrument-for-emergency-support
+2892	2970	Глобалната коалиция за иновации в сферата на подготовката за епидемията [CEPI]	Глобална коалиция за иновации в сферата на подготовката за епидемията [CEPI]	ORG	ORG-Global-coalition-for-innovatiions-in-epidemic
+3021	3051	Световната здравна организация	Световна здравна организация	ORG	ORG-WHO
+3089	3091	ЕС	ЕС	ORG	ORG-European-Union
+3165	3178	Хоризонт 2020	Хоризонт 2020	PRO	PRO-Horizon-2020
+3328	3334	RescEU	RescEU	PRO	PRO-rescEU
+3595	3607	коронавируса	коронавирус	EVT	EVT-Covid-19
+3786	3796	пандемията	пандемия	EVT	EVT-Pandemic
+3976	3984	COVID-19	COVID-19	EVT	EVT-Covid-19

@@ -1,0 +1,23 @@
+0	8	Норвегія	Норвегія	LOC	GPE-Norway
+36	44	COVID-19	COVID-19	EVT	EVT-Covid-19
+82	94	коронавірусу	коронавірус	EVT	EVT-Covid-19
+109	129	європейських країнах	європейська країна	LOC	LOC-Europe
+155	163	Норвегія	Норвегія	LOC	GPE-Norway
+212	218	Pfizer	Pfizer	ORG	ORG-Pfizer
+222	230	BioNTech	BioNTech	ORG	ORG-BioNTech
+341	349	Норвегії	Норвегія	LOC	GPE-Norway
+452	460	COVID-19	COVID-19	EVT	EVT-Covid-19
+492	498	Pfizer	Pfizer	ORG	ORG-Pfizer
+502	510	BioNTech	BioNTech	ORG	ORG-BioNTech
+546	555	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+578	589	коронавірус	коронавірус	EVT	EVT-Covid-19
+905	919	Стейнар Мадсен	Стейнар Мадсен	PER	PER-Steinar-Madsen
+939	981	Норвезького агентства з лікарських засобів	Норвезьке агентство з лікарських засобів	ORG	ORG-Norwegian-Medicines-Agency
+1001	1009	Норвегії	Норвегія	LOC	GPE-Norway
+1081	1123	Норвезького агентства з лікарських засобів	Норвезьке агентство з лікарських засобів	ORG	ORG-Norwegian-Medicines-Agency
+1299	1311	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1314	1333	Європейському Союзі	Європейський Союз	ORG	ORG-European-Union
+1423	1429	Pfizer	Pfizer	ORG	ORG-Pfizer
+1432	1440	BioNTech	BioNTech	ORG	ORG-BioNTech
+1507	1516	Євросоюзу	Євросоюз	LOC	ORG-European-Union
+1591	1593	ЄС	ЄС	LOC	ORG-European-Union

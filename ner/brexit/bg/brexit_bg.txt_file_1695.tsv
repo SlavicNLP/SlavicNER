@@ -1,0 +1,48 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+32	39	Брекзит	Брекзит	EVT	EVT-Brexit
+53	61	Ирландия	Ирландия	LOC	GPE-Ireland
+66	82	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+129	131	ЕС	ЕС	ORG	ORG-European-Union
+135	142	Брекзит	Брекзит	EVT	EVT-Brexit
+202	204	ЕС	ЕС	ORG	ORG-European-Union
+207	221	Великобритания	Великобритания	LOC	GPE-Great-Britain
+291	293	АП	АП	ORG	ORG-AP-The-Associated-Press
+360	394	Съвместния доклад на преговарящите	Съвместен доклад на преговарящите	PRO	PRO-Joint-report-EU-UK-Brexit-2017
+407	423	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+444	464	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+706	726	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1045	1053	Ирландия	Ирландия	LOC	GPE-Ireland
+1054	1070	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+1166	1186	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+1313	1334	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+1368	1388	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1390	1396	Барние	Барние	PER	PER-Michel-Barnier
+1515	1529	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1541	1543	ЕС	ЕС	ORG	ORG-European-Union
+1794	1801	Брекзит	Брекзит	EVT	EVT-Brexit
+1836	1850	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1942	1956	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2044	2052	Ирландия	Ирландия	LOC	GPE-Ireland
+2057	2073	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2114	2121	Брекзит	Брекзит	EVT	EVT-Brexit
+2137	2151	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2154	2156	ЕС	ЕС	ORG	ORG-European-Union
+2191	2199	Ирландия	Ирландия	LOC	GPE-Ireland
+2202	2218	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2245	2252	Брекзит	Брекзит	EVT	EVT-Brexit
+2339	2346	Гардиън	Гардиън	PRO	PRO-The-Guardian
+2374	2390	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2439	2441	ЕС	ЕС	ORG	ORG-European-Union
+2447	2454	Брекзит	Брекзит	EVT	EVT-Brexit
+2479	2486	Брекзит	Брекзит	EVT	EVT-Brexit
+2489	2505	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2564	2584	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+2617	2631	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2725	2739	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2766	2768	ЕС	ЕС	ORG	ORG-European-Union
+2791	2807	Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+2822	2830	Ирландия	Ирландия	LOC	GPE-Ireland
+2833	2835	ЕС	ЕС	ORG	ORG-European-Union
+2893	2907	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3010	3026	Европейският съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+3154	3168	Великобритания	Великобритания	LOC	GPE-Great-Britain

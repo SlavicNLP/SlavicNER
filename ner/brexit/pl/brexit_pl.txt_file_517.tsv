@@ -1,0 +1,44 @@
+0	15	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+23	35	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+86	95	The Times	The Times	PRO	PRO-The-Times
+159	171	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+370	375	Times	Times	PRO	PRO-The-Times
+486	496	laburzyści	laburzyści	PER	ORG-Labour-Party-UK
+593	600	torysów	torysi	PER	ORG-Tories
+617	625	Londynie	Londyn	LOC	GPE-London
+683	705	Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+707	721	Barry Rawlings	Barry Rawlings	PER	PER-Barry-Rawlings
+729	741	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+754	760	Barnet	Barnet	LOC	LOC-London-Barnet
+772	779	Londynu	Londyn	LOC	GPE-London
+1000	1014	Adam Langleben	Adam Langleben	PER	PER-Adam-Langleben
+1047	1065	Jeremy'ego Corbyna	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+1090	1097	Londynu	Londyn	LOC	GPE-London
+1211	1219	Timesowi	Times	PRO	PRO-The-Times
+1454	1460	Anglii	Anglia	LOC	GPE-England
+1495	1540	Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+1542	1546	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+1586	1607	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+1635	1640	Times	Times	PRO	PRO-The-Times
+1710	1722	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1844	1861	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1941	1949	Windrush	Windrush	PRO	PRO-Windrush
+2153	2162	Telegraph	Telegraph	PRO	PRO-The-Daily-Telegraph
+2190	2210	Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+2308	2310	UE	UE	ORG	ORG-European-Union
+2361	2368	Brexitu	Brexit	EVT	EVT-Brexit
+2399	2405	Howard	Howard	PER	PER-Michael-Howard
+2447	2464	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2465	2472	Theresa	Theresa	PER	PER-Theresa-May
+2474	2477	May	May	PER	PER-Theresa-May
+2533	2539	Brexit	Brexit	EVT	EVT-Brexit
+2631	2634	MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+2635	2648	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+2822	2828	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+2859	2866	Brexitu	Brexit	EVT	EVT-Brexit
+2889	2897	Guardian	Guardian	PRO	PRO-The-Guardian
+2923	2929	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+2934	2937	May	May	PER	PER-Theresa-May
+3161	3181	Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+3184	3196	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+3370	3389	Liberalni Demokraci	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats

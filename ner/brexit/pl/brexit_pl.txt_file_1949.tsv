@@ -1,0 +1,58 @@
+0	7	Barnier	Barnier	PER	PER-Michel-Barnier
+41	48	Brexitu	Brexit	EVT	EVT-Brexit
+79	86	Barnier	Barnier	PER	PER-Michel-Barnier
+118	126	Brexicie	Brexit	EVT	EVT-Brexit
+249	252	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+334	336	UE	UE	ORG	ORG-European-Union
+593	595	UE	UE	ORG	ORG-European-Union
+792	809	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+812	814	UE	UE	ORG	ORG-European-Union
+937	945	Irlandii	Irlandia	LOC	GPE-Ireland
+948	966	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+992	999	Barnier	Barnier	PER	PER-Michel-Barnier
+1139	1141	UE	UE	ORG	ORG-European-Union
+1485	1491	Londyn	Londyn	LOC	GPE-London
+1541	1573	Demokratycznej Partii Unionistów	Demokratyczna Partia Unionistów	ORG	ORG-DUP-Democratic-Unionist-Party
+1575	1578	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+1619	1630	Theresy May	Theresa May	PER	PER-Theresa-May
+1687	1705	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+1735	1758	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1794	1801	Brexitu	Brexit	EVT	EVT-Brexit
+1817	1834	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1837	1839	UE	UE	ORG	ORG-European-Union
+1896	1914	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+1922	1924	UE	UE	ORG	ORG-European-Union
+1926	1933	Barnier	Barnier	PER	PER-Michel-Barnier
+2045	2053	Brexicie	Brexit	EVT	EVT-Brexit
+2374	2376	UE	UE	ORG	ORG-European-Union
+2379	2396	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2531	2548	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2724	2731	Barnier	Barnier	PER	PER-Michel-Barnier
+2769	2776	Brexitu	Brexit	EVT	EVT-Brexit
+2798	2800	UE	UE	ORG	ORG-European-Union
+2926	2929	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+3033	3048	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3063	3070	Barnier	Barnier	PER	PER-Michel-Barnier
+3086	3088	UE	UE	ORG	ORG-European-Union
+3148	3156	Londynie	Londyn	LOC	GPE-London
+3310	3325	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+3436	3444	Irlandią	Irlandia	LOC	GPE-Ireland
+3447	3464	Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+3466	3473	Barnier	Barnier	PER	PER-Michel-Barnier
+3579	3596	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3599	3601	UE	UE	ORG	ORG-European-Union
+3709	3716	Brexitu	Brexit	EVT	EVT-Brexit
+3772	3780	Brexicie	Brexit	EVT	EVT-Brexit
+3837	3863	Parlamentowi Europejskiemu	Parlament Europejski	ORG	ORG-European-Parliament
+3891	3893	UE	UE	ORG	ORG-European-Union
+3906	3923	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3983	4000	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+4001	4012	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+4026	4034	Londynie	Londyn	LOC	GPE-London
+4045	4062	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4063	4074	Theresą May	Theresa May	PER	PER-Theresa-May
+4170	4172	UE	UE	ORG	ORG-European-Union
+4174	4178	Tusk	Tusk	PER	PER-Donald-Tusk
+4241	4249	Brukseli	Bruksela	LOC	GPE-Brussles
+4250	4265	Grzegorz Paluch	Grzegorz Paluch	PER	PER-Grzegorz-Paluch
+4267	4270	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

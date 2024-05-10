@@ -1,0 +1,28 @@
+0	6	Канада	Канада	LOC	GPE-Canada
+55	67	коронавірусу	коронавірус	EVT	EVT-Covid-19
+122	129	Торонто	Торонто	LOC	GPE-Toronto
+133	139	Оттаві	Оттава	LOC	GPE-Ottawa
+202	214	коронавірусу	коронавірус	EVT	EVT-Covid-19
+224	230	Pfizer	Pfizer	ORG	ORG-Pfizer
+233	241	BioNTech	BioNTech	ORG	ORG-BioNTech
+265	271	Англії	Англія	LOC	GPE-England
+292	304	коронавірусу	коронавірус	EVT	EVT-Covid-19
+432	439	Лондоні	Лондон	LOC	GPE-London
+572	583	Нідерландах	Нідерланди	LOC	GPE-Holland
+689	696	Франції	Франція	LOC	GPE-France
+834	846	коронавірусу	коронавірус	EVT	EVT-Covid-19
+874	880	Канаді	Канада	LOC	GPE-Canada
+935	942	Торонто	Торонто	LOC	GPE-Toronto
+946	952	Оттаві	Оттава	LOC	GPE-Ottawa
+974	980	Англії	Англія	LOC	GPE-England
+1000	1012	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1137	1144	Лондоні	Лондон	LOC	GPE-London
+1278	1289	Нідерландах	Нідерланди	LOC	GPE-Holland
+1293	1300	Франції	Франція	LOC	GPE-France
+1425	1436	коронавірус	коронавірус	EVT	EVT-Covid-19
+1457	1472	Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+1509	1521	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1531	1537	Pfizer	Pfizer	ORG	ORG-Pfizer
+1540	1548	BioNTech	BioNTech	ORG	ORG-BioNTech
+1610	1624	Маргарет Кінан	Маргарет Кінан	PER	PER-Margaret-Keenan
+1678	1690	коронавірусу	коронавірус	EVT	EVT-Covid-19

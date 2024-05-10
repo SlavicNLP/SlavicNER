@@ -1,0 +1,26 @@
+0	2	ЕС	ЕС	ORG	ORG-European-Union
+22	28	Лондон	Лондон	LOC	GPE-London
+34	41	Брекзит	Брекзит	EVT	EVT-Brexit
+43	60	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+80	94	Великобритания	Великобритания	LOC	GPE-Great-Britain
+156	163	Брекзит	Брекзит	EVT	EVT-Brexit
+269	283	Великобритания	Великобритания	LOC	GPE-Great-Britain
+292	294	ЕС	ЕС	ORG	ORG-European-Union
+315	321	Лондон	Лондон	LOC	GPE-London
+373	375	ЕС	ЕС	ORG	ORG-European-Union
+483	497	Великобритания	Великобритания	LOC	GPE-Great-Britain
+543	545	ЕС	ЕС	ORG	ORG-European-Union
+637	651	Великобритания	Великобритания	LOC	GPE-Great-Britain
+672	674	ЕС	ЕС	ORG	ORG-European-Union
+680	686	Лондон	Лондон	LOC	GPE-London
+802	812	Люксембург	Люксембург	LOC	GPE-Luxembourg
+867	887	Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+953	960	Брекзит	Брекзит	EVT	EVT-Brexit
+979	986	Брюксел	Брюксел	LOC	GPE-Brussles
+1102	1122	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1175	1178	АФП	АФП	ORG	ORG-France-Presse
+1255	1269	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1567	1591	Съда на Европейския съюз	Съд на Европейския съюз	ORG	ORG-European-Court-of-Justice
+1683	1686	АФП	АФП	ORG	ORG-France-Presse
+1708	1714	Нюзуик	Нюзуик	PRO	PRO-Newsweek
+1775	1785	Матю Купър	Матю Купър	PER	PER-Matthew-Cooper

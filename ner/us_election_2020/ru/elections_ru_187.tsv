@@ -1,0 +1,102 @@
+2	8	Трампа	Трамп	PER	PER-Donald-Trump
+114	126	Американские	американский	LOC	GPE-USA
+336	344	Конгресс	Конгресс	ORG	ORG-United-States-Congress
+418	431	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+447	469	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+514	524	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+612	629	Ассошиэйтед Пресс	Ассошиэйтед Пресс	PRO	ORG-The-Associated-Press
+648	657	демократа	демократ	PER	ORG-Democratic-Party-USA
+660	672	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+705	712	Байдену	Байден	PER	PER-Joe-Biden
+795	810	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+811	824	Руди Джулиани	Руди Джулиани	PER	PER-Rudy-Giuliani
+861	872	Филадельфии	Филадельфия	LOC	GPE-Philadelphia
+906	917	Филадельфия	Филадельфия	LOC	GPE-Philadelphia
+981	987	Трампа	Трамп	PER	PER-Donald-Trump
+1047	1060	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+1115	1121	Трампа	Трамп	PER	PER-Donald-Trump
+1234	1240	Трампа	Трамп	PER	PER-Donald-Trump
+1255	1267	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1269	1275	Неваде	Невада	LOC	GPE-Nevada
+1277	1285	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+1287	1297	Висконсине	Висконсин	LOC	GPE-Wisconsin
+1300	1308	Мичигане	Мичиган	LOC	GPE-Michigan
+1338	1345	Байдена	Байден	PER	PER-Joe-Biden
+1469	1482	республиканца	республиканец	PER	ORG-Republican-Party-USA
+1528	1534	Трампу	Трамп	PER	PER-Donald-Trump
+1578	1591	республиканец	республиканец	PER	ORG-Republican-Party-USA
+1772	1778	Трампа	Трамп	PER	PER-Donald-Trump
+1813	1825	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1842	1859	Краеугольный штат	Краеугольный штат	LOC	GPE-Keystone-State
+1964	1976	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+2013	2026	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+2144	2150	Трампа	Трамп	PER	PER-Donald-Trump
+2316	2327	Местный суд	Местный суд	ORG	ORG-Supreme-Court-of-the-United-States
+2350	2363	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+2540	2546	Трампа	Трамп	PER	PER-Donald-Trump
+2589	2600	Местный суд	Местный суд	ORG	ORG-Supreme-Court-of-the-United-States
+2649	2655	Трампа	Трамп	PER	PER-Donald-Trump
+2787	2800	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+3082	3094	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+3095	3106	Кэти Буквар	Кэти Буквар	PER	PER-Katie-Bookvar
+3196	3209	Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+3330	3341	Местный суд	Местный суд	ORG	ORG-Щербинский суд
+3496	3506	Монтгомери	Монтгомери	LOC	GPE-Montgomery
+3508	3521	Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+3755	3765	Монтгомери	Монтгомери	LOC	GPE-Montgomery
+3786	3793	Байдена	Байден	PER	PER-Joe-Biden
+3826	3832	Трампа	Трамп	PER	PER-Donald-Trump
+3900	3914	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+3947	3953	Невада	Невада	LOC	GPE-Nevada
+3978	3983	Кларк	Кларк	LOC	GPE-Clark-County-Nevada
+4006	4015	Лас-Вегас	Лас-Вегас	LOC	GPE-Las-Vegas
+4125	4131	Трампа	Трамп	PER	PER-Donald-Trump
+4316	4322	Трампа	Трамп	PER	PER-Donald-Trump
+4466	4480	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+4606	4621	Федеральный суд	Федеральный суд	ORG	ORG-Supreme-Court-of-the-United-States
+4711	4717	Трампа	Трамп	PER	PER-Donald-Trump
+4830	4841	Местный суд	Местный суд	ORG	ORG-Supreme-Court-of-the-United-States
+4863	4876	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+4893	4906	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+4933	4939	Невады	Невада	LOC	GPE-Nevada
+4971	4979	Мичигане	Мичиган	LOC	GPE-Michigan
+5010	5024	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+5050	5058	Детройте	Детройт	LOC	GPE-Detroit
+5115	5125	демократов	демократ	PER	ORG-Democratic-Party-USA
+5188	5193	Трамп	Трамп	PER	PER-Donald-Trump
+5315	5329	республиканцам	республиканец	PER	ORG-Republican-Party-USA
+5409	5420	местный суд	Местный суд	ORG	ORG-Supreme-Court-of-the-United-States
+5446	5459	Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+5544	5552	Детройте	Детройт	LOC	GPE-Detroit
+5800	5813	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+5815	5826	Местный суд	Местный суд	ORG	ORG-Supreme-Court-of-the-United-States
+5910	5923	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+6068	6074	Антрим	Антрим	LOC	GPE-Antrim
+6106	6112	Трампа	Трамп	PER	PER-Donald-Trump
+6137	6144	Байдена	Байден	PER	PER-Joe-Biden
+6189	6202	Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+6307	6314	Байдена	Байден	PER	PER-Joe-Biden
+6317	6325	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+6377	6390	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+6437	6442	Трамп	Трамп	PER	PER-Donald-Trump
+6625	6630	Трамп	Трамп	PER	PER-Donald-Trump
+6726	6732	Трампа	Трамп	PER	PER-Donald-Trump
+7053	7063	Висконсине	Висконсин	LOC	GPE-Wisconsin
+7100	7108	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+7173	7179	Трампу	Трамп	PER	PER-Donald-Trump
+7275	7285	Висконсина	Висконсин	LOC	GPE-Wisconsin
+7288	7301	Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+7400	7414	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+7648	7655	Аризона	Аризона	LOC	GPE-Arizona
+7761	7768	Байдена	Байден	PER	PER-Joe-Biden
+8179	8185	Трампа	Трамп	PER	PER-Donald-Trump
+8657	8670	Верховный суд	Верховный суд	ORG	ORG-Supreme-Court-of-the-United-States
+8770	8776	Трампу	Трамп	PER	PER-Donald-Trump
+9150	9169	Евгенией Павловской	Евгения Павловская	PER	PER-Evgenia-Pavlovskaya
+9198	9215	«Жить Свою Жизнь»	«Жить Свою Жизнь»	PRO	PRO-Live-your-life
+9300	9314	Павла Данилина	Павел Данилин	PER	PER-Pavel-Danilin
+9381	9387	Ростех	Ростех	ORG	ORG-RosTechRussia
+9467	9481	Дмитрия Босова	Дмитрий Босов	PER	PER-Dmitry-Bosov
+9518	9537	Journal information	Journal information	PRO	PRO-Digital-Journal
+9643	9659	«анти-Джин Шарп»	«анти-Джин Шарп»	PRO	PRO-Book-Anti-Gene-Sharp
+9667	9683	«Анти-Навальный»	«Анти-Навальный»	PRO	PRO-Book-Anti-Navalny

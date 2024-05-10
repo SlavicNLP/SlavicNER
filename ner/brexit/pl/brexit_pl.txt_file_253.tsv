@@ -1,0 +1,26 @@
+0	3	May	May	PER	PER-Theresa-May
+43	50	Brexitu	Brexit	EVT	EVT-Brexit
+95	97	UE	UE	ORG	ORG-European-Union
+133	144	Theresa May	Theresa May	PER	PER-Theresa-May
+192	213	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+308	319	Izby Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+340	351	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+354	371	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+405	418	Komitetu 1922	Komitet 1922	ORG	ORG-1922-Committee
+492	495	May	May	PER	PER-Theresa-May
+546	557	Izby Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+612	614	UE	UE	ORG	ORG-European-Union
+674	681	Brexitu	Brexit	EVT	EVT-Brexit
+682	693	Steve Baker	Steve Baker	PER	PER-Steve-Baker
+1165	1167	UE	UE	ORG	ORG-European-Union
+1316	1323	Brexitu	Brexit	EVT	EVT-Brexit
+1367	1369	UE	UE	ORG	ORG-European-Union
+1411	1432	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+1869	1876	Brexitu	Brexit	EVT	EVT-Brexit
+1887	1907	Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+1920	1930	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+1999	2030	Demokratyczną Partią Unionistów	Demokratyczna Partia Unionistów	ORG	ORG-DUP-Democratic-Unionist-Party
+2032	2035	DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+2038	2053	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2082	2099	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2169	2172	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

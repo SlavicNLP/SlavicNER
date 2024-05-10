@@ -1,0 +1,22 @@
+0	10	Американци	американци	PER	GPE-USA
+56	62	Байдън	Байдън	PER	PER-Joe-Biden
+156	166	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+182	209	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+221	228	Ройтерс	Ройтерс	ORG	ORG-Reuters
+231	234	ДПА	ДПА	ORG	ORG-DPA
+239	246	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+369	378	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+408	417	Белия дом	Бял дом	LOC	LOC-White-House
+640	646	Байдън	Байдън	PER	PER-Joe-Biden
+721	731	Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+777	784	Атланта	Атланта	LOC	GPE-Atlanta
+817	823	Байдън	Байдън	PER	PER-Joe-Biden
+887	892	Маями	Маями	LOC	GPE-Miami
+909	915	Байдън	Байдън	PER	PER-Joe-Biden
+955	968	Фрийдъм Тауър	Фрийдъм Тауър	LOC	LOC-Freedom-Tower
+1013	1022	демократа	демократ	PER	ORG-Democratic-Party-USA
+1110	1116	Невада	Невада	LOC	GPE-Nevada
+1118	1129	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1131	1139	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1141	1157	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+1160	1167	Аризона	Аризона	LOC	GPE-Arizona

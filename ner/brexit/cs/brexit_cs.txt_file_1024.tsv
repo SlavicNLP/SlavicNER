@@ -1,0 +1,19 @@
+0	6	Londýn	Londýn	LOC	GPE-London
+63	68	Irsky	Irska	LOC	LOC-Irlends-countries
+70	72	EU	EU	ORG	ORG-European-Union
+295	302	Barnier	Barnier	PER	PER-Michel-Barnier
+306	314	Twitteru	Twitter	PRO	PRO-Twitter
+339	345	Brusel	Brusel	LOC	GPE-Brussles
+389	395	Londýn	Londýn	LOC	GPE-London
+472	487	Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+593	595	EU	EU	ORG	ORG-European-Union
+598	606	Británii	Británie	LOC	GPE-Great-Britain
+616	629	Severní Irsko	Severní Irsko	LOC	GPE-Northern-Ireland
+666	668	EU	EU	ORG	ORG-European-Union
+675	681	Londýn	Londýn	LOC	GPE-London
+757	775	Spojené království	Spojené království	LOC	GPE-Great-Britain
+788	801	Severní Irsko	Severní Irsko	LOC	GPE-Northern-Ireland
+823	829	brexit	brexit	EVT	EVT-Brexit
+830	841	David Davis	David Davis	PER	PER-David-Davis
+1042	1057	Theresu Mayovou	Theresa Mayovoá	PER	PER-Theresa-May
+1085	1092	brexitu	brexit	EVT	EVT-Brexit

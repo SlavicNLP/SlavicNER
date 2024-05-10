@@ -1,0 +1,73 @@
+31	39	Ryanaira	Ryanair	ORG	ORG-Ryanair
+41	53	Ryanairovega	Ryanair	ORG	ORG-Ryanair
+137	155	Southwest Airlines	Southwest Airlines	ORG	ORG-Southwest-Airlines
+159	166	Teksasa	Teksas	LOC	GPE-Texas
+283	300	Michaela O‘Learja	Michael O‘Leary	PER	PER-Michael-O'Leary
+325	333	Ryanaira	Ryanair	ORG	ORG-Ryanair
+493	500	Ryanair	Ryanair	ORG	ORG-Ryanair
+589	595	Evropi	Evropa	LOC	LOC-Europe
+624	631	Ryanair	Ryanair	ORG	ORG-Ryanair
+648	656	Maribora	Maribor	LOC	GPE-Maribor
+710	729	letališčem Stansted	letališče Stansted	LOC	LOC-Stansted-airport
+733	759	letališčem Edvarda Rusjana	letališče Edvarda Rusjana	LOC	ORG-Edvard-Rusjan-Airport
+839	851	Ryanairovega	Ryanairov	ORG	ORG-Ryanair
+927	935	Mariboru	Maribor	LOC	GPE-Maribor
+942	958	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+974	983	Ryanairov	Ryanairov	ORG	ORG-Ryanair
+1138	1142	Irci	Irci	PER	GPE-Ireland
+1286	1291	Nemci	Nemci	PER	GPE-Germany
+1818	1828	Air Lingus	Air Lingus	ORG	ORG-Aer-Lingus
+2054	2060	Irskem	Irska	LOC	GPE-Ireland
+2131	2138	Ryanair	Ryanair	ORG	ORG-Ryanair
+2152	2167	Michael O'Leary	Michael O'Leary	PER	PER-Michael-O'Leary
+2633	2646	boeingov B737	boeingi B737	PRO	PRO-Boeing-B737
+2742	2748	Evropi	Evropa	LOC	LOC-Europe
+2786	2788	EU	EU	ORG	ORG-European-Union
+2795	2802	Ryanair	Ryanair	ORG	ORG-Ryanair
+2871	2880	Slovenija	Slovenija	LOC	GPE-Slovenia
+2883	2890	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+3025	3029	Irec	Irec	PER	GPE-Ireland
+3448	3452	Irca	Irec	PER	GPE-Ireland
+3649	3659	O'Learyjev	O'Leary	PER	PER-Michael-O'Leary
+3660	3667	Ryaniar	Ryanair	ORG	ORG-Ryanair
+4144	4152	Ryanaira	Ryanair	ORG	ORG-Ryanair
+4289	4296	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+4380	4398	Southwest Airlines	Southwest Airlines	ORG	ORG-Southwest-Airlines
+4402	4409	Teksasa	Teksas	LOC	GPE-Texas
+4502	4509	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+4585	4595	jugu Irske	jug Irske	LOC	GPE-Ireland
+4612	4616	Cork	Cork	LOC	GPE-Cork
+4645	4660	kolidžu Trinity	Kolidž Trinity	ORG	ORG-Trinity-College-Dublin
+4663	4670	Dublinu	Dublin	LOC	GPE-Dublin
+4747	4769	Stokes Kennedy Crowley	Stokes Kennedy Crowley	ORG	ORG-Stokes-Kennedy-Crowley
+4793	4797	KPMG	KPMG	ORG	ORG-KPMG
+4871	4885	Tonyjem Ryanom	Tony Ryan	PER	PER-Tony-Ryan
+4976	4980	Ryan	Ryan	PER	PER-Tony-Ryan
+5007	5014	Ryanair	Ryanair	ORG	ORG-Ryanair
+5099	5106	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+5436	5443	Ryanair	Ryanair	ORG	ORG-Ryanair
+5615	5617	EU	EU	ORG	ORG-European-Union
+5628	5635	Ryanair	Ryanair	ORG	ORG-Ryanair
+5660	5669	Slovenija	Slovenija	LOC	GPE-Slovenia
+5692	5700	Ryanaira	Ryanair	ORG	ORG-Ryanair
+5720	5727	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+5923	5936	mercedes S500	mercedes S500	PRO	PRO-Mercedes-S500
+6015	6022	Dublinu	Dublin	LOC	GPE-Dublin
+6127	6134	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+6175	6179	Irec	Irec	PER	GPE-Ireland
+6338	6346	Francija	Francija	LOC	GPE-France
+6394	6402	Škotskem	Škotska	LOC	GPE-Scotland
+6647	6654	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+6727	6732	Ircev	Irci	PER	GPE-Ireland
+6880	6913	nogometnega kluba Manchester City	nogometni klub Manchester City	ORG	ORG-Manchester-City-FC
+6916	6923	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+7075	7079	Irca	Irec	PER	GPE-Ireland
+7247	7253	Irskem	Irska	LOC	GPE-Ireland
+7255	7267	Portugalskem	Portugalska	LOC	GPE-Portugal
+7271	7278	Italiji	Italija	LOC	GPE-Italy
+7280	7287	Nemčiji	Nemčija	LOC	GPE-Germany
+7289	7296	Belgiji	Belgija	LOC	GPE-Belgium
+7301	7309	Švedskem	Švedska	LOC	GPE-Sweden
+7313	7324	Nizozemskem	Nizozemska	LOC	GPE-Holland
+7654	7661	O'Leary	O'Leary	PER	PER-Michael-O'Leary
+7815	7823	Ryanaira	Ryanair	ORG	ORG-Ryanair

@@ -1,0 +1,17 @@
+0	14	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+17	25	Británii	Británie	LOC	GPE-Great-Britain
+69	76	brexitu	brexit	EVT	EVT-Brexit
+91	111	britského parlamentu	britský parlament	ORG	ORG-British-Parlament
+169	183	Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+221	228	brexitu	brexit	EVT	EVT-Brexit
+318	333	Dolní sněmovnou	Dolní sněmovna	ORG	ORG-House-of-Commons
+335	350	Sněmovnou lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+428	430	EU	EU	ORG	ORG-European-Union
+447	456	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+491	509	Spojené království	Spojené království	LOC	GPE-Great-Britain
+515	529	Evropskou unii	Evropská unie	ORG	ORG-European-Union
+577	591	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+660	674	Dolní sněmovny	Dolní sněmovna	ORG	ORG-House-of-Commons
+675	692	brexitovou dohodu	brexitová dohoda	PRO	PRO-Brexit-withdrawal-agreement
+712	719	Londýnu	Londýn	LOC	GPE-London
+722	729	Bruselu	Brusel	LOC	GPE-Brussles

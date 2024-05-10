@@ -1,0 +1,58 @@
+40	47	brexitu	Brexit	EVT	EVT-Brexit
+49	56	Szkocja	Szkocja	LOC	GPE-Scotland
+204	219	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+221	227	Szkoci	Szkoci	PER	GPE-Scotland
+261	278	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+287	310	Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+340	347	brexitu	Brexit	EVT	EVT-Brexit
+380	387	Szkocji	Szkocja	LOC	GPE-Scotland
+420	422	UE	UE	ORG	ORG-European-Union
+424	439	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+476	479	ITV	ITV	PRO	PRO-ITV
+504	519	Roberta Pestona	Robert Peston	PER	PER-Robert-Peston
+627	634	Szkocji	Szkocja	LOC	GPE-Scotland
+702	709	brexitu	Brexit	EVT	EVT-Brexit
+731	748	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+751	766	Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+900	908	Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+945	955	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+957	963	Szkoci	Szkoci	PER	GPE-Scotland
+992	1013	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1046	1053	Szkocja	Szkocja	LOC	GPE-Scotland
+1108	1125	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1202	1209	brexitu	Brexit	EVT	EVT-Brexit
+1242	1249	Szkocji	Szkocja	LOC	GPE-Scotland
+1282	1284	UE	UE	ORG	ORG-European-Union
+1430	1447	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1541	1543	UE	UE	ORG	ORG-European-Union
+1558	1581	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1618	1620	UE	UE	ORG	ORG-European-Union
+1640	1658	Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+1666	1672	Anglia	Anglia	LOC	GPE-England
+1675	1680	Walia	Walia	LOC	GPE-Wales
+1714	1722	brexitem	Brexit	EVT	EVT-Brexit
+1724	1739	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+1796	1806	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+1848	1856	Londynem	Londyn	LOC	GPE-London
+1859	1867	Brukselą	Bruksela	LOC	GPE-Brussles
+1907	1930	Szkocka Partia Narodowa	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+1932	1935	SNP	SNP	ORG	ORG-Scottish-National-Party
+1990	1993	SNP	SNP	ORG	ORG-Scottish-National-Party
+2117	2127	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+2260	2281	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+2287	2299	Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+2336	2351	Komisji Wilsona	Komisja Wilsona	ORG	ORG-Wilson-Commission
+2380	2390	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+2392	2395	SNP	SNP	ORG	ORG-Scottish-National-Party
+2442	2444	UE	UE	ORG	ORG-European-Union
+2472	2495	Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+2517	2524	brexitu	Brexit	EVT	EVT-Brexit
+2873	2880	brexitu	Brexit	EVT	EVT-Brexit
+2977	2984	Szkocji	Szkocja	LOC	GPE-Scotland
+3112	3131	Komisji ds. Wzrostu	Komisja ds. Wzrostu	ORG	ORG-Growth-Commission
+3133	3150	Growth Commission	Growth Commission	ORG	ORG-Growth-Commission
+3193	3196	SNP	SNP	ORG	ORG-Scottish-National-Party
+3243	3256	Andrew Wilson	Andrew Wilson	PER	PER-Andrew-Wilson
+3305	3312	Szkocji	Szkocja	LOC	GPE-Scotland
+3432	3447	Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+3506	3513	Szkocji	Szkocja	LOC	GPE-Scotland

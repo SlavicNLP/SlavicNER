@@ -1,0 +1,98 @@
+11	19	Observer	Observer	PRO	PRO-The-Observer
+45	51	Polsce	Polska	LOC	GPE-Poland
+57	65	Węgrzech	Węgry	LOC	GPE-Hungary
+93	102	Observera	Observer	PRO	PRO-The-Observer
+150	162	The Guardian	The Guardian	PRO	PRO-The-Guardian
+215	217	UE	UE	ORG	ORG-European-Union
+220	238	Grupą Wyszehradzką	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+272	281	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+370	378	Brukseli	Bruksela	LOC	GPE-Brussles
+399	407	Warszawy	Warszawa	LOC	GPE-Warsaw
+410	420	Budapesztu	Budapeszt	LOC	GPE-Budapest
+431	459	Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+475	483	Observer	Observer	PRO	PRO-The-Observer
+625	642	Emmanuela Macrona	Emmanuel Macron	PER	PER-Emmanuel-Macron
+662	682	Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+683	705	Jean-Claude'a Junckera	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+834	839	Orban	Orban	PER	PER-Viktor-Orban
+1052	1054	UE	UE	ORG	ORG-European-Union
+1077	1094	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1097	1099	UE	UE	ORG	ORG-European-Union
+1133	1140	Berlina	Berlin	LOC	GPE-Berlin
+1143	1149	Paryża	Paryż	LOC	GPE-Paris
+1220	1222	UE	UE	ORG	ORG-European-Union
+1265	1272	Londynu	Londyn	LOC	GPE-London
+1311	1319	Observer	Observer	PRO	PRO-The-Observer
+1335	1340	Orban	Orban	PER	PER-Viktor-Orban
+1401	1414	Angeli Merkel	Angela Merkel	PER	PER-Angela-Merkel
+1619	1622	CSU	CSU	ORG	ORG-CSU-Christian-Social-Union-in-Bavaria
+1625	1632	Bawarii	Bawaria	LOC	GPE-Bavaria
+1768	1774	Merkel	Merkel	PER	PER-Angela-Merkel
+1808	1813	Orban	Orban	PER	PER-Viktor-Orban
+2077	2083	Europę	Europa	LOC	LOC-Europe
+2225	2231	Orbana	Orban	PER	PER-Viktor-Orban
+2333	2340	Austrii	Austria	LOC	GPE-Austria
+2377	2383	Polska	Polska	LOC	GPE-Poland
+2396	2399	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+2455	2463	Brukselą	Bruksela	LOC	GPE-Brussles
+2533	2555	Mateusza Morawieckiego	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+2558	2564	Orbana	Orban	PER	PER-Viktor-Orban
+2567	2578	Budapeszcie	Budapeszt	LOC	GPE-Budapest
+2640	2642	UE	UE	ORG	ORG-European-Union
+2754	2762	Observer	Observer	PRO	PRO-The-Observer
+2813	2858	Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+2860	2864	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+2867	2879	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+3022	3024	UE	UE	ORG	ORG-European-Union
+3179	3185	Polskę	Polska	LOC	GPE-Poland
+3188	3193	Węgry	Węgry	LOC	GPE-Hungary
+3329	3337	Słowacji	Słowacja	LOC	GPE-Slovakia
+3383	3392	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+3425	3445	Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+3724	3731	Brexitu	Brexit	EVT	EVT-Brexit
+3777	3779	UE	UE	ORG	ORG-European-Union
+3861	3868	Europie	Europa	LOC	LOC-Europe
+3913	3921	Observer	Observer	PRO	PRO-The-Observer
+3997	4013	Hertford College	Hertford College	ORG	ORG-Hertford-College
+4017	4042	Uniwersytecie Oksfordzkim	Uniwersytet Oksfordzki	ORG	ORG-University-of-Oxford
+4044	4057	Willa Huttona	Will Hutton	PER	PER-Will-Hutton
+4117	4123	Polsce	Polska	LOC	GPE-Poland
+4129	4137	Węgrzech	Węgry	LOC	GPE-Hungary
+4175	4177	UE	UE	ORG	ORG-European-Union
+4884	4890	Hutton	Hutton	PER	PER-Will-Hutton
+4900	4906	Polskę	Polska	LOC	GPE-Poland
+4909	4914	Węgry	Węgry	LOC	GPE-Hungary
+4932	4937	Rosją	Rosja	LOC	GPE-Russia
+4939	4946	Chinami	Chiny	LOC	GPE-China
+4948	4954	Turcją	Turcja	LOC	GPE-Turkey
+4957	4964	Indiami	Indie	LOC	GPE-India
+4974	4995	Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+5019	5033	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+5064	5071	Brexitu	Brexit	EVT	EVT-Brexit
+5088	5109	Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+5135	5138	PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+5141	5147	Polsce	Polska	LOC	GPE-Poland
+5204	5229	Trybunału Konstytucyjnego	Trybunał Konstytucyjny	ORG	ORG-Constitutional-Tribunal-Poland
+5352	5360	Węgrzech	Węgry	LOC	GPE-Hungary
+5649	5664	Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+5740	5747	Europie	Europa	LOC	LOC-Europe
+5807	5813	Polski	Polska	LOC	GPE-Poland
+5816	5822	Węgier	Węgry	LOC	GPE-Hungary
+6067	6072	Węgry	Węgry	LOC	GPE-Hungary
+6075	6081	Polska	Polska	LOC	GPE-Poland
+6155	6157	UE	UE	ORG	ORG-European-Union
+6186	6201	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+6433	6440	Brexitu	Brexit	EVT	EVT-Brexit
+6449	6460	Theresa May	Theresa May	PER	PER-Theresa-May
+6523	6530	Francji	Francja	LOC	GPE-France
+6533	6540	Niemiec	Niemcy	LOC	GPE-Germany
+6609	6617	Warszawy	Warszawa	LOC	GPE-Warsaw
+6689	6701	Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+6798	6815	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+6907	6916	Twitterze	Twitter	PRO	PRO-Twitter
+6941	6951	Observerze	Observer	PRO	PRO-The-Observer
+6953	6959	Hutton	Hutton	PER	PER-Will-Hutton
+6999	7005	Polsce	Polska	LOC	GPE-Poland
+7011	7019	Węgrzech	Węgry	LOC	GPE-Hungary
+7061	7076	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+7112	7129	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union

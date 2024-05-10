@@ -1,0 +1,20 @@
+0	4	Ford	Ford	ORG	ORG-Ford
+26	35	Niemczech	Niemcy	LOC	GPE-Germany
+37	41	Ford	Ford	ORG	ORG-Ford
+54	85	Europejskiego Banku Centralnego	Europejski Bank Centralny	ORG	ORG-European-Central-Bank
+112	121	Niemczech	Niemcy	LOC	GPE-Germany
+180	187	Brexitu	Brexit	EVT	EVT-Brexit
+192	195	EBC	EBC	ORG	ORG-European-Central-Bank
+216	234	Ford Credit Europa	Ford Credit Europa	ORG	ORG-Ford-Credit-Europe
+236	239	FCE	FCE	ORG	ORG-Ford-Credit-Europe
+279	288	Niemczech	Niemcy	LOC	GPE-Germany
+375	380	Forda	Ford	ORG	ORG-Ford
+382	385	FCE	FCE	ORG	ORG-Ford-Credit-Europe
+502	519	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+522	526	Unii	Unia	ORG	ORG-European-Union
+683	686	FCE	FCE	ORG	ORG-Ford-Credit-Europe
+706	714	Londynie	Londyn	LOC	GPE-London
+835	838	FCE	FCE	ORG	ORG-Ford-Credit-Europe
+850	855	Forda	Ford	ORG	ORG-Ford
+936	947	W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+968	974	Europy	Europa	LOC	LOC-Europe

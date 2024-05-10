@@ -1,0 +1,19 @@
+0	6	Airbus	Airbus	ORG	ORG-Airbus-SE
+33	50	Katherine Bennett	Katherine Bennett	PER	PER-Katherine-Bennett
+63	69	Airbus	Airbus	ORG	ORG-Airbus-SE
+72	89	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+242	259	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+347	354	Bennett	Bennett	PER	PER-Katherine-Bennett
+543	548	Dover	Dover	LOC	GPE-Dover
+575	582	Bennett	Bennett	PER	PER-Katherine-Bennett
+597	603	Airbus	Airbus	ORG	ORG-Airbus-SE
+717	723	Airbus	Airbus	ORG	ORG-Airbus-SE
+780	786	Airbus	Airbus	ORG	ORG-Airbus-SE
+852	859	Europie	Europa	LOC	LOC-Europe
+863	880	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+922	928	Filton	Filton	LOC	GPE-Filton
+940	948	Bristolu	Bristol	LOC	GPE-Bristol
+979	988	Broughton	Broughton	LOC	GPE-Broughton
+1002	1007	Walii	Walia	LOC	GPE-Wales
+1242	1246	A380	A380	PRO	PRO-Airbus-A380
+1249	1254	A400M	A400M	PRO	PRO-Airbus-A400M

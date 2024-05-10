@@ -1,0 +1,8 @@
+18	21	МИД	МИД	ORG	ORG-Foreign-Office
+68	82	Великобритании	Великобритания	LOC	GPE-Great-Britain
+83	96	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+157	167	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+274	282	Джонсона	Джонсон	PER	PER-Boris-Johnson
+380	386	Brexit	Brexit	EVT	EVT-Brexit
+387	398	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+478	512	выходу Великобритании из Евросоюза	выход Великобритании из Евросоюза	EVT	EVT-Brexit

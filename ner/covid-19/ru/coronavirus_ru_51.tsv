@@ -1,0 +1,18 @@
+0	6	Nature	Nature	PRO	PRO-Nature-(journal)
+48	56	COVID-19	COVID-19	EVT	EVT-Covid-19
+304	316	коронавируса	коронавирус	EVT	EVT-Covid-19
+319	326	REUTERS	REUTERS	PRO	PRO-Reuters
+393	401	COVID-19	COVID-19	EVT	EVT-Covid-19
+524	530	Nature	Nature	PRO	PRO-Nature-(journal)
+586	593	Moderna	Moderna	ORG	ORG-Moderna
+667	670	США	США	LOC	GPE-USA
+726	739	Линдси Байден	Линдси Байден	PER	PER-Lindsey-R-Baden
+742	755	Хана Эль Сали	Хана Эль Сали	PER	PER-Hana-El-Sahly
+1031	1034	США	США	LOC	GPE-USA
+1078	1090	коронавируса	коронавирус	EVT	EVT-Covid-19
+1191	1199	COCID-19	COCID-19	EVT	EVT-Covid-19
+1389	1397	COVID-19	COVID-19	EVT	EVT-Covid-19
+1818	1824	Pfizer	Pfizer	ORG	ORG-Pfizer
+1849	1857	BioNTech	BioNTech	ORG	ORG-BioNTech
+2073	2078	УНИАН	УНИАН	PRO	PRO-UNIAN
+2079	2085	ИноСМИ	ИноСМИ	PRO	PRO-InoSMI

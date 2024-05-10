@@ -1,0 +1,15 @@
+0	3	WSJ	WSJ	PRO	PRO-Wall-Street-Journal
+23	37	«Совкомфлотом»	Совкомфлот	ORG	ORG-Sovkomflot
+68	80	«Совкомфлот»	Совкомфлот	ORG	ORG-Sovkomflot
+128	132	Азии	Азия	LOC	LOC-Asia
+138	153	Ближнем Востоке	Ближний Восток	LOC	LOC-Near-East
+383	397	Koban Shipping	Koban Shipping	ORG	ORG-Koban-Shipping
+438	462	Eastern Pacific Shipping	Eastern Pacific Shipping	ORG	ORG-Eastern-Pacific-Shipping
+473	488	Eastern Pacific	Eastern Pacific	ORG	ORG-Eastern-Pacific-Shipping
+546	549	WSJ	WSJ	PRO	PRO-Wall-Street-Journal
+564	576	«Совкомфлот»	Совкомфлот	ORG	ORG-Sovkomflot
+658	684	China Merchants Group Ltd.	China Merchants Group Ltd.	ORG	ORG-China-Merchants-Group-Ltd
+1209	1216	Россией	Россия	LOC	GPE-Russia
+1490	1502	Lloyd’s List	Lloyd’s List	PRO	PRO-Lloyds-List
+1523	1535	«Совкомфлот»	Совкомфлот	ORG	ORG-Sovkomflot
+1689	1692	«Ъ»	Ъ	PRO	PRO-Kommersant

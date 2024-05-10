@@ -1,0 +1,30 @@
+0	6	Farage	Farage	PER	PER-Nigel-Farage
+44	51	Brexitu	Brexit	EVT	EVT-Brexit
+54	60	Farage	Farage	PER	PER-Nigel-Farage
+111	128	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+131	133	UE	UE	ORG	ORG-European-Union
+146	185	Partii Niepodległości Wielkiej Brytanii	Partia Niepodległości Wielkiej Brytanii	ORG	ORG-UK-Independence-Party
+187	191	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+243	245	UE	UE	ORG	ORG-European-Union
+252	258	Londyn	Londyn	LOC	GPE-London
+287	294	Brexitu	Brexit	EVT	EVT-Brexit
+324	328	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+426	433	Brexitu	Brexit	EVT	EVT-Brexit
+489	496	Wyspach	Wyspy	LOC	GPE-Great-Britain
+556	573	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+576	578	UE	UE	ORG	ORG-European-Union
+593	603	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+703	710	Brexitu	Brexit	EVT	EVT-Brexit
+824	827	NHS	NHS	ORG	ORG-NHS
+855	858	NFZ	NFZ	ORG	ORG-NFZ
+897	903	Farage	Farage	PER	PER-Nigel-Farage
+907	916	Twitterze	Twitter	PRO	PRO-Twitter
+1008	1016	Farage'a	Farage	PER	PER-Nigel-Farage
+1041	1045	UKIP	UKIP	ORG	ORG-UK-Independence-Party
+1047	1059	Henry Bolton	Henry Bolton	PER	PER-Henry-Bolton
+1154	1167	Gerard Batten	Gerard Batten	PER	PER-Gerard-Batten
+1184	1194	Farage'owi	Farage	PER	PER-Nigel-Farage
+1248	1256	Farage'a	Farage	PER	PER-Nigel-Farage
+1303	1315	Chuka Ummuna	Chuka Ummuna	PER	PER-Chuka-Umunna
+1334	1346	Partii PRacy	Partia Pracy	ORG	ORG-Labour-Party-UK
+1363	1369	Farage	Farage	PER	PER-Nigel-Farage

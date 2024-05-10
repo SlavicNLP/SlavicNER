@@ -1,0 +1,31 @@
+0	5	Trump	Trump	PER	PER-Donald-Trump
+7	10	ZDA	ZDA	LOC	GPE-USA
+47	59	koronavirusu	koronavirus	EVT	EVT-Covid-19
+114	122	covid-19	covid-19	EVT	EVT-Covid-19
+130	135	Trump	Trump	PER	PER-Donald-Trump
+181	193	koronavirusu	koronavirus	EVT	EVT-Covid-19
+252	255	ZDA	ZDA	LOC	GPE-USA
+256	270	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+277	289	koronavirusu	koronavirus	EVT	EVT-Covid-19
+336	339	ZDA	ZDA	LOC	GPE-USA
+393	405	koronavirusu	koronavirus	EVT	EVT-Covid-19
+562	588	Ministrstvo za zdravje ZDA	Ministrstvo za zdravje ZDA	ORG	ORG-Department-of-Health
+595	603	Trumpovo	Trump	PER	PER-Donald-Trump
+797	802	Trump	Trump	PER	PER-Donald-Trump
+804	830	Ministrstvo za zdravje ZDA	Ministrstvo za zdravje ZDA	ORG	ORG-Department-of-Health
+879	888	Belo hišo	Bela hiša	LOC	LOC-White-House
+972	985	Anthony Fauci	Anthony Fauci	PER	PER-Anthony-Fauci
+1037	1042	Trump	Trump	PER	PER-Donald-Trump
+1056	1061	Trump	Trump	PER	PER-Donald-Trump
+1125	1133	covid-19	covid-19	EVT	EVT-Covid-19
+1184	1192	Faucijem	Fauci	PER	PER-Anthony-Fauci
+1398	1407	covidu-19	covid-19	EVT	EVT-Covid-19
+1415	1420	Logar	Logar	PER	PER-Anže-Logar
+1478	1488	Anže Logar	Anže Logar	PER	PER-Anže-Logar
+1534	1549	Luigija Di Maia	Luigi Di Maio	PER	PER-Luigi-Di-Maio
+1708	1719	Borut Pahor	Borut Pahor	PER	PER-Borut-Pahor
+1737	1740	MZZ	MZZ	ORG	ORG-Ministry-of-foreign-affairs-Slovenia
+1789	1791	EU	EU	ORG	ORG-European-Union
+1851	1863	koronavirusa	koronavirus	EVT	EVT-Covid-19
+2012	2029	Zahodnega Balkana	Zahodni Balkan	LOC	LOC-Western-Balkans
+2122	2131	Sloveniji	Slovenija	LOC	GPE-Slovenia

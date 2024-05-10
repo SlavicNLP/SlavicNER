@@ -1,0 +1,39 @@
+0	5	УНИАН	УНИАН	ORG	ORG-UNIAN
+12	24	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+32	47	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+63	81	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+93	111	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+146	158	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+161	173	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+181	196	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+231	245	Великобритании	Великобритания	LOC	GPE-Great-Britain
+273	286	Даунинг-Стрит	Даунинг-Стрит	LOC	LOC-Downing-Street
+302	309	Джонсон	Джонсон	PER	PER-Boris-Johnson
+389	395	Brexit	Brexit	EVT	EVT-Brexit
+453	466	Джереми Ханта	Джереми Хант	PER	PER-Jeremy-Hunt
+514	531	Содружества Наций	Содружество Наций	ORG	ORG-The-Commonwealth
+558	571	Даунинг-стрит	Даунинг-стрит	LOC	LOC-Downing-Street
+611	616	Ханта	Хант	PER	PER-Jeremy-Hunt
+623	636	Мэттью Хэнкок	Мэттью Хэнкок	PER	PER-Matthew-Hancock
+672	694	правительстве Британии	правительство Британии	ORG	ORG-the-UK-Government
+696	700	Хант	Хант	PER	PER-Jeremy-Hunt
+717	738	Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+791	815	кабинете Дэвида Кэмерона	кабинет Дэвида Кэмерона	ORG	ORG-Cabinet-of-the-UK-Cameron
+850	869	кабинете Терезы Мэй	кабинет Терезы Мэй	ORG	ORG-Cabinet-of-the-United-Kingdom
+901	905	Хант	Хант	PER	PER-Jeremy-Hunt
+960	974	Великобритании	Великобритания	LOC	GPE-Great-Britain
+981	986	Ханта	Хант	PER	PER-Jeremy-Hunt
+1045	1059	британских ВМФ	британский ВМФ	ORG	ORG-Royal-Navy
+1086	1100	британском ВМФ	британский ВМФ	ORG	ORG-Royal-Navy
+1114	1118	Хант	Хант	PER	PER-Jeremy-Hunt
+1139	1148	Люсии Гуо	Люсия Гуо	PER	PER-Lucia-Guo
+1252	1266	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1270	1272	ЕС	ЕС	ORG	ORG-European-Union
+1364	1370	Brexit	Brexit	EVT	EVT-Brexit
+1407	1409	ЕС	ЕС	ORG	ORG-European-Union
+1577	1580	МИД	МИД	ORG	ORG-Foreign-Office
+1581	1594	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+1635	1641	Лондон	Лондон	LOC	GPE-London
+1679	1688	Евросоюзу	Евросоюз	ORG	ORG-European-Union
+1706	1720	Великобританию	Великобритания	LOC	GPE-Great-Britain
+1766	1774	Брюсселе	Брюссель	LOC	GPE-Brussles

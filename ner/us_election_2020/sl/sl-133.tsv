@@ -1,0 +1,34 @@
+7	12	Trump	Trump	PER	PER-Donald-Trump
+45	64	Ruth Bader Ginsburg	Ruth Bader Ginsburg	PER	PER-Ruth-Bader-Ginsburg
+66	71	Trump	Trump	PER	PER-Donald-Trump
+313	330	Bader Ginsburgove	Bader Ginsburg	PER	PER-Ruth-Bader-Ginsburg
+337	349	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+395	404	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+527	532	Trump	Trump	PER	PER-Donald-Trump
+546	553	Melania	Melania	PER	PER-Melania-Trump
+808	813	Trump	Trump	PER	PER-Donald-Trump
+973	992	vrhovno sodišče ZDA	vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+1035	1040	Trump	Trump	PER	PER-Donald-Trump
+1102	1105	ZDA	ZDA	LOC	GPE-USA
+1449	1461	Nancy Pelosi	Nancy Pelosi	PER	PER-Nancy-Pelosi
+1499	1514	Mitch McConnell	Mitch McConnell	PER	PER-Mitch-McConnell
+1553	1561	Trumpove	Trump	PER	PER-Donald-Trump
+1601	1610	Bele hiše	Bela hiša	LOC	LOC-White-House
+1650	1663	Josephu Bidnu	Joseph Biden	PER	PER-Joe-Biden
+1817	1826	McConnell	McConnell	PER	PER-Mitch-McConnell
+1866	1869	ZDA	ZDA	LOC	GPE-USA
+2006	2016	Pelosijeva	Pelosi	PER	PER-Nancy-Pelosi
+2022	2030	Trumpove	Trump	PER	PER-Donald-Trump
+2114	2128	Južne Karoline	Južna Karolina	LOC	GPE-South-Carolina-US-State
+2129	2143	Lindsey Graham	Lindsey Graham	PER	PER-Lindsey-Graham
+2166	2174	Fox News	Fox News	PRO	PRO-Fox-News
+2206	2227	vrhovnega sodišča ZDA	vrhovno sodišče ZDA	ORG	ORG-Supreme-Court-of-the-United-States
+2268	2273	Bidna	Biden	PER	PER-Joe-Biden
+2276	2282	Graham	Graham	PER	PER-Lindsey-Graham
+2363	2368	Bidna	Biden	PER	PER-Joe-Biden
+2419	2425	Graham	Graham	PER	PER-Lindsey-Graham
+2429	2435	Trumpa	Trump	PER	PER-Donald-Trump
+2768	2780	Republikanci	Republikanci	ORG	ORG-Republican-Party-USA
+2820	2837	Merricka Garlanda	Merrick Garland	PER	PER-Merrick-Garland
+2870	2885	Antonina Scalie	Antonin Scalia	PER	PER-Antonin-Scalia
+2906	2918	Barack Obama	Barack Obama	PER	PER-Barack-Obama

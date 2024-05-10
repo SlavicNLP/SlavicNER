@@ -1,0 +1,13 @@
+10	18	Británie	Británie	LOC	GPE-Great-Britain
+21	28	Německa	Německo	LOC	GPE-Germany
+73	79	covidu	covid	EVT	EVT-Covid-19
+89	94	Praha	Praha	LOC	GPE-Prague
+154	164	koronaviru	koronavirus	EVT	EVT-Covid-19
+196	216	univerzity v Oxfordu	univerzita v Oxfordu	ORG	ORG-University-of-Oxford
+402	408	Pfizer	Pfizer	ORG	ORG-Pfizer
+443	463	univerzity v Oxfordu	univerzita v Oxfordu	ORG	ORG-University-of-Oxford
+547	555	Covid-19	Covid-19	EVT	EVT-Covid-19
+646	657	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca
+889	895	Lancet	Lancet	PRO	PRO-The-Lancet
+927	934	AZD1222	AZD1222	PRO	PRO-AZD1222-vaccine
+1018	1028	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19

@@ -1,0 +1,31 @@
+30	38	България	България	LOC	GPE-Bulgaria
+52	64	коронавируса	коронавирус	EVT	EVT-Covid-19
+101	116	Оперативния щаб	Оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+201	209	България	България	LOC	GPE-Bulgaria
+247	258	коронавирус	коронавирус	EVT	EVT-Covid-19
+261	266	София	София	LOC	GPE-Sofia
+270	296	Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+364	381	Министерски съвет	Министерски съвет	ORG	ORG-Council-of-Ministers-Bulgaria
+396	417	Венцислав Мутафчийски	Венцислав Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+431	458	Военномедицинската академия	Военномедицинска академия	ORG	ORG-Military-Medical-Academy-Bulgaria
+476	502	Националния оперативен щаб	Национален оперативен щаб	ORG	ORG-National-operational-quaters-Bulgaria
+756	767	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+819	827	COVID-19	COVID-19	EVT	EVT-Covid-19
+1220	1242	здравното министерство	Здравно министерство	ORG	ORG-Ministry-of-Health-Bulgaria
+1245	1248	СЗО	СЗО	ORG	ORG-WHO
+2035	2046	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+2554	2564	Р България	Р България	LOC	GPE-Bulgaria
+2635	2656	Олимпиадата през 2020	Олимпиада през 2020	EVT	EVT-2020-Summer-Olympics
+2717	2725	България	България	LOC	GPE-Bulgaria
+2734	2745	Мутафчийски	Мутафчийски	PER	PER-Ventsislav-Mutafchiyski
+2755	2765	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+2767	2773	Италия	Италия	LOC	GPE-Italy
+2776	2780	Иран	Иран	LOC	GPE-Iran
+2816	2827	коронавирус	коронавирус	EVT	EVT-Covid-19
+2829	2835	Плевен	Плевен	LOC	GPE-Pleven
+2837	2844	Габрово	Габрово	LOC	GPE-Gabrovo
+2847	2852	София	София	LOC	GPE-Sofia
+3098	3109	коронавирус	коронавирус	EVT	EVT-Covid-19
+3412	3423	коронавирус	коронавирус	EVT	EVT-Covid-19
+3998	4004	Канада	Канада	LOC	GPE-Canada
+4267	4270	СЗО	СЗО	ORG	ORG-WHO

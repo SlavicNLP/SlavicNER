@@ -1,0 +1,40 @@
+0	15	The Independent	The Independent	PRO	PRO-The-Independent
+74	81	Брюксел	Брюксел	LOC	GPE-Brussles
+165	167	ЕС	ЕС	ORG	ORG-European-Union
+173	180	Брекзит	Брекзит	EVT	EVT-Brexit
+207	222	The Independent	The Independent	PRO	PRO-The-Independent
+240	252	евродепутати	евродепутати	PER	ORG-European-Parlament
+307	314	Брекзит	Брекзит	EVT	EVT-Brexit
+403	419	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+461	468	Брекзит	Брекзит	EVT	EVT-Brexit
+496	509	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+545	559	евродепутатите	евродепутати	PER	ORG-European-Parlament
+563	577	Великобритания	Великобритания	LOC	GPE-Great-Britain
+677	679	ЕС	ЕС	ORG	ORG-European-Union
+700	712	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+851	880	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+883	890	Брюксел	Брюксел	LOC	GPE-Brussles
+909	926	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+927	938	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+1042	1049	Брекзит	Брекзит	EVT	EVT-Brexit
+1092	1099	Брюксел	Брюксел	LOC	GPE-Brussles
+1121	1124	AFP	AFP	ORG	ORG-France-Presse
+1196	1202	Лондон	Лондон	LOC	GPE-London
+1205	1212	Брюксел	Брюксел	LOC	GPE-Brussles
+1286	1300	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1480	1497	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+1528	1532	Туск	Туск	PER	PER-Donald-Tusk
+1701	1713	Иван Христов	Иван Христов	PER	PER-Ivan-Hristov
+1715	1722	Брюксел	Брюксел	LOC	GPE-Brussles
+1734	1741	Брекзит	Брекзит	EVT	EVT-Brexit
+1776	1783	Брюксел	Брюксел	LOC	GPE-Brussles
+1886	1906	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1944	1946	ЕС	ЕС	ORG	ORG-European-Union
+2007	2041	Die Frankfurter Allgemeine Zeitung	Die Frankfurter Allgemeine Zeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+2051	2057	Лондон	Лондон	LOC	GPE-London
+2110	2112	ЕС	ЕС	ORG	ORG-European-Union
+2151	2165	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2223	2230	Брюксел	Брюксел	LOC	GPE-Brussles
+2290	2292	ЕС	ЕС	ORG	ORG-European-Union
+2339	2341	ЕС	ЕС	ORG	ORG-European-Union
+2395	2408	Тереза Герова	Тереза Герова	PER	PER-Theresa-Gerova

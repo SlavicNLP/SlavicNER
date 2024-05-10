@@ -1,0 +1,28 @@
+24	36	коронавируса	коронавирус	EVT	EVT-Covid-19
+104	114	пандемията	пандемия	EVT	EVT-Pandemic
+165	178	коронавирусът	коронавирус	EVT	EVT-Covid-19
+283	317	Националната информационна система	Национална информационна система	PRO	PRO-National-Information-System-Bulgaria
+362	372	пандемията	пандемия	EVT	EVT-Pandemic
+491	502	Благоевград	Благоевград	LOC	GPE-Blagoevgrad
+508	514	Бургас	Бургас	LOC	GPE-Burgas
+520	525	Варна	Варна	LOC	GPE-Varna
+531	545	Велико Търново	Велико Търново	LOC	GPE-Veliko-Tarnovo
+551	556	Видин	Видин	LOC	GPE-Vidin
+562	568	Добрич	Добрич	LOC	GPE-Dobritch
+574	582	Кърджали	Кърджали	LOC	GPE-Kardzhali
+588	597	Кюстендил	Кюстендил	LOC	GPE-Kyustendil
+604	613	Пазарджик	Пазарджик	LOC	GPE-Pazardzhik
+620	626	Плевен	Плевен	LOC	GPE-Pleven
+632	639	Пловдив	Пловдив	LOC	GPE-Plovdiv
+645	652	Разград	Разград	LOC	GPE-Razgrad
+658	664	Сливен	Сливен	LOC	GPE-Sliven
+670	676	Смолян	Смолян	LOC	GPE-Smolyan
+682	687	София	София	LOC	GPE-Sofia
+701	711	София град	София град	LOC	GPE-Sofia
+718	730	Стара Загора	Стара Загора	LOC	GPE-Stara-Zagora
+736	741	Шумен	Шумен	LOC	GPE-Shumen
+747	752	Ямбол	Ямбол	LOC	GPE-Yambol
+788	810	коронавирусна инфекция	коронавирусна инфекция	EVT	EVT-Covid-19
+907	941	Националната информационна система	Национална информационна система	PRO	PRO-National-Information-System-Bulgaria
+1034	1045	коронавирус	коронавирус	EVT	EVT-Covid-19
+1233	1245	коронавируса	коронавирус	EVT	EVT-Covid-19

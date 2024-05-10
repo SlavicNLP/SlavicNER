@@ -1,0 +1,36 @@
+0	10	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+26	32	Лондон	Лондон	LOC	GPE-London
+57	64	Брекзит	Брекзит	EVT	EVT-Brexit
+78	80	ЕС	ЕС	ORG	ORG-European-Union
+81	93	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+134	144	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+165	171	Лондон	Лондон	LOC	GPE-London
+196	203	Брекзит	Брекзит	EVT	EVT-Brexit
+217	219	ЕС	ЕС	ORG	ORG-European-Union
+220	232	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+297	311	Великобритания	Великобритания	LOC	GPE-Great-Britain
+346	353	Брекзит	Брекзит	EVT	EVT-Brexit
+354	367	Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+388	400	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+452	462	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+477	483	Барние	Барние	PER	PER-Michel-Barnier
+504	511	Брекзит	Брекзит	EVT	EVT-Brexit
+518	525	Брюксел	Брюксел	LOC	GPE-Brussles
+537	543	Лондон	Лондон	LOC	GPE-London
+624	644	Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+697	699	ЕС	ЕС	ORG	ORG-European-Union
+762	769	Брекзит	Брекзит	EVT	EVT-Brexit
+770	780	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+845	847	ЕС	ЕС	ORG	ORG-European-Union
+852	866	Великобритания	Великобритания	LOC	GPE-Great-Britain
+927	948	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+949	962	Ги Верховстад	Ги Верховстад	PER	PER-Guy-Verhofstadt
+1076	1079	Мей	Мей	PER	PER-Theresa-May
+1082	1088	Дейвис	Дейвис	PER	PER-David-Davis
+1090	1096	Барние	Барние	PER	PER-Michel-Barnier
+1107	1131	Европейския банков орган	Европейски банков орган	ORG	ORG-EBA-European-Banking-Authority
+1178	1184	Лондон	Лондон	LOC	GPE-London
+1187	1192	Париж	Париж	LOC	GPE-Paris
+1198	1205	Брекзит	Брекзит	EVT	EVT-Brexit
+1208	1214	bnr.bg	bnr.bg	PRO	PRO-bnr.bg
+1215	1220	Днес+	Днес+	ORG	ORG-DnesPlus

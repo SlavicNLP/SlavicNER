@@ -1,0 +1,17 @@
+12	23	volby v USA	volby v USA	EVT	EVT-2020-United-States-Presidential-Election
+82	95	Sbor volitelů	Sbor volitelů	ORG	ORG-Electoral-College
+99	102	USA	USA	LOC	GPE-USA
+152	159	Reuters	Reuters	ORG	ORG-Reuters
+161	171	WASHINGTON	WASHINGTON	LOC	GPE-WashingtonDC
+172	177	PRAHA	PRAHA	LOC	GPE-Prague
+178	187	Američané	Američané	PER	GPE-USA
+309	331	Sněmovny reprezentantů	Sněmovna reprezentantů	ORG	ORG-House-of-Representatives(USA)
+348	354	Senátu	Senát	ORG	ORG-United-States-Senate
+615	620	Česku	Česko	LOC	GPE-Czech-Republic
+622	631	Američané	Američané	PER	GPE-USA
+716	719	USA	USA	LOC	GPE-USA
+745	758	Spojené státy	Spojené státy	LOC	GPE-USA
+849	861	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+864	873	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+982	999	Electoral college	Electoral college	ORG	ORG-United-States-Electoral-College
+1002	1015	Sbor volitelů	Sbor volitelů	ORG	ORG-United-States-Electoral-College

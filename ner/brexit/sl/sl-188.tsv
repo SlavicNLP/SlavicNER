@@ -1,0 +1,72 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+37	44	brexita	brexit	EVT	EVT-Brexit
+94	110	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+114	116	EU	EU	ORG	ORG-European-Union
+332	387	Združenega kraljestva Velike Britanije in Severne Irske	Združeno kraljestvo Velike Britanije in Severne Irske	LOC	GPE-Great-Britain
+391	405	Evropske unije	Evropska unija	LOC	ORG-European-Union
+454	462	Londonom	London	LOC	GPE-London
+466	474	Brusljem	Bruselj	LOC	GPE-Brussles
+561	563	EU	EU	ORG	ORG-European-Union
+606	623	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+624	643	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+665	678	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+708	714	brexit	brexit	EVT	EVT-Brexit
+799	817	Evropski parlament	Evropski parlament	ORG	ORG-European-Parliament
+932	969	spodnjega doma britanskega parlamenta	spodnji dom britanskega parlamenta	ORG	ORG-House-of-Commons
+1214	1227	Severni Irski	Severna Irska	LOC	GPE-Northern-Ireland
+1244	1249	Irsko	Irska	LOC	GPE-Ireland
+1252	1265	Severna Irska	Severna Irska	LOC	GPE-Northern-Ireland
+1554	1556	EU	EU	ORG	ORG-European-Union
+1567	1585	britanski poslanci	britanski poslanci	PER	ORG-British-Parlament
+1616	1627	Therese May	Theresa May	PER	PER-Theresa-May
+1809	1811	EU	EU	ORG	ORG-European-Union
+1958	1965	brexitu	brexit	EVT	EVT-Brexit
+1966	1980	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+2074	2087	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+2091	2096	Irsko	Irska	LOC	GPE-Ireland
+2117	2137	velikonočni sporazum	velikonočni sporazum	PRO	PRO-GFA-Good-Friday-Agreement
+2157	2187	severnoirskem mirovnem procesu	severnoirski mirovni proces	EVT	EVT-Northern-Ireland-peace-process
+2224	2236	irskem otoku	irski otok	LOC	GPE-Ireland
+2337	2345	Stormont	Stormont	ORG	ORG-Northern-Ireland-Assembly-Stormont
+2507	2514	brexitu	brexit	EVT	EVT-Brexit
+2577	2593	Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+2594	2605	Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+2660	2673	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+2732	2745	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+2812	2817	Irsko	Irsko	LOC	GPE-Ireland
+2821	2834	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+2907	2920	Severna Irska	Severna Irska	LOC	GPE-Northern-Ireland
+3023	3044	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+3046	3065	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+3247	3249	EU	EU	ORG	ORG-European-Union
+3295	3297	EU	EU	ORG	ORG-European-Union
+3301	3322	Združenim kraljestvom	Združeno kraljestvo	LOC	GPE-Great-Britain
+3340	3345	Irsko	Irska	LOC	GPE-Ireland
+3350	3363	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+3398	3410	Leo Varadkar	Leo Varadkar	PER	PER-Leo-Varadkar
+3450	3471	Združenemu kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+3496	3498	EU	EU	ORG	ORG-European-Union
+3528	3541	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+3609	3614	Irsko	Irsko	LOC	GPE-Ireland
+3618	3631	Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+3645	3653	Varadkar	Varadkar	PER	PER-Leo-Varadkar
+3720	3732	irskem otoku	irski otok	LOC	GPE-Ireland
+3751	3756	Irske	Irska	LOC	GPE-Ireland
+3773	3775	EU	EU	ORG	ORG-European-Union
+3780	3787	Londonu	London	LOC	GPE-London
+4073	4092	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+4284	4291	Barnier	Barnier	PER	PER-Michel-Barnier
+4293	4306	Severna Irska	Severna Irska	LOC	GPE-Northern-Ireland
+4409	4430	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+4579	4598	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+4780	4782	EU	EU	ORG	ORG-European-Union
+4796	4803	Barnier	Barnier	PER	PER-Michel-Barnier
+4806	4821	Francois Lenoir	Francois Lenoir	PER	PER-Francois-Lenoir
+4905	4923	Rokavskega preliva	Rokavski preliv	LOC	LOC-English-Channel
+4943	4950	Johnson	Johnson	PER	PER-Boris-Johnson
+5099	5109	laburistov	laburist	PER	ORG-Labour-Party-UK
+5113	5134	liberalnih demokratov	liberalni demokrati	PER	ORG-Liberal-Democrats-UK
+5158	5164	Brexit	Brexit	ORG	ORG-Brexit-Party
+5208	5220	Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+5223	5249	Škotski nacionalni stranki	Škotska nacionalna stranka	ORG	ORG-Scottish-National-Party
+5283	5316	Demokratični unionistični stranki	Demokratična unionistična stranka	ORG	ORG-DUP-Democratic-Unionist-Party

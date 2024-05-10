@@ -1,0 +1,27 @@
+0	7	Německo	Německo	LOC	GPE-Germany
+39	47	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+61	68	Německo	Německo	LOC	GPE-Germany
+122	130	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+218	231	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+259	269	Heiko Maas	Heiko Maas	PER	PER-Heiko-Maas
+355	375	pobaltských republik	pobaltské republiky	LOC	LOC-Baltic-countries
+405	412	Německo	Německo	LOC	GPE-Germany
+423	436	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+454	459	Ruska	Rusko	LOC	GPE-Russia
+463	470	Německa	Německo	LOC	GPE-Germany
+471	485	Baltským mořem	Baltské moře	LOC	LOC-Baltic-Sea
+497	513	Angela Merkelová	Angela Merkelová	PER	PER-Angela-Merkel
+595	603	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+660	668	Gazpromu	Gazprom	ORG	ORG-Gazprom
+739	744	Ruska	Rusko	LOC	GPE-Russia
+748	755	Německa	Německo	LOC	GPE-Germany
+757	776	Pobaltské republiky	Pobaltské republiky	LOC	LOC-Baltic-countries
+779	784	Litva	Litva	LOC	GPE-Lithuania
+786	794	Lotyšsko	Lotyšsko	LOC	GPE-Latvia
+797	805	Estonsko	Estonsko	LOC	GPE-Estonia
+895	903	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+973	979	Maasův	Maas	PER	PER-Heiko-Maas
+1006	1013	Reuters	Reuters	ORG	ORG-Reuters
+1087	1103	Sovětského svazu	Sovětský svaz	LOC	GPE-USSR
+1122	1135	Evropské unie	Evropská unie	ORG	ORG-European-Union
+1138	1162	Severoatlantické aliance	Severoatlantická aliance	ORG	ORG-NATO

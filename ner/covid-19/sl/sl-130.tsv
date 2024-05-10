@@ -1,0 +1,38 @@
+20	34	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+39	47	covid-19	covid-19	EVT	EVT-Covid-19
+49	54	Biden	Biden	PER	PER-Joe-Biden
+86	91	Trump	Trump	PER	PER-Donald-Trump
+142	145	ZDA	ZDA	LOC	GPE-USA
+217	236	novim koronavirusom	novi koronavirus	EVT	EVT-Covid-19
+250	273	Univerze Johna Hopkinsa	Univerza Johna Hopkinsa	ORG	ORG-Johns-Hopkins-University
+353	363	covidom-19	covid-19	EVT	EVT-Covid-19
+410	424	Marku Meadowsu	Mark Meadows	PER	PER-Mark-Meadows
+454	457	ZDA	ZDA	LOC	GPE-USA
+458	472	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+496	499	CNN	CNN	PRO	PRO-CNN
+540	549	Bela hiše	Bela hiša	LOC	LOC-White-House
+589	596	Meadows	Meadows	PER	PER-Mark-Meadows
+619	630	koronavirus	koronavirus	EVT	EVT-Covid-19
+674	681	Meadows	Meadows	PER	PER-Mark-Meadows
+808	811	AFP	AFP	ORG	ORG-AFP-Agence-France-Press
+826	842	Washington Posta	Washington Post	PRO	PRO-Washington-Post
+850	857	Meadows	Meadows	PER	PER-Mark-Meadows
+883	892	Bele hiše	Bela hiša	LOC	ORG-White-House
+908	913	Trump	Trump	PER	PER-Donald-Trump
+1048	1057	Bele hiše	Bela hiša	LOC	LOC-White-House
+1074	1080	Trumpu	Trump	PER	PER-Donald-Trump
+1094	1107	Melanii Trump	Melania Trump	PER	PER-Melania-Trump
+1111	1123	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1194	1206	Mark Meadows	Mark Meadows	PER	PER-Mark-Meadows
+1211	1214	ZDA	ZDA	LOC	GPE-USA
+1253	1262	covida-19	covid-19	EVT	EVT-Covid-19
+1430	1439	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+1747	1752	Biden	Biden	PER	PER-Joe-Biden
+1809	1822	Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris
+2042	2055	republikancev	republikanci	PER	ORG-Republican-Party-USA
+2056	2061	Trump	Trump	PER	PER-Donald-Trump
+2119	2124	Trump	Trump	PER	PER-Donald-Trump
+2128	2133	Bidna	Biden	PER	PER-Joe-Biden
+2256	2265	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2398	2405	Reuters	Reuters	ORG	ORG-Reuters
+2407	2410	STA	STA	ORG	ORG-Slovenian-Press-Agency

@@ -1,0 +1,39 @@
+2	5	МИД	МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+20	26	Трампа	Трамп	PER	PER-Donald-Trump
+40	48	Германии	Германия	LOC	GPE-Germany
+70	90	Российской Федерации	Российская Федерация	LOC	GPE-Russia
+117	123	МИД РФ	МИД РФ	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+124	140	Александр Грушко	Александр Грушко	PER	PER-Alexander-Grushko
+156	159	США	США	LOC	GPE-USA
+182	184	ЕС	ЕС	ORG	ORG-European-Union
+214	221	Россией	Россия	LOC	GPE-Russia
+249	257	УтроNews	УтроNews	ORG	ORG-Utro-News
+569	571	РФ	РФ	LOC	GPE-Russia
+598	604	Берлин	Берлин	LOC	GPE-Berlin
+817	820	США	США	LOC	GPE-USA
+869	871	ЕС	ЕС	ORG	ORG-European-Union
+968	974	Грушко	Грушко	PER	PER-Alexander-Grushko
+1035	1037	ЕС	ЕС	ORG	ORG-European-Union
+1119	1125	Грушко	Грушко	PER	PER-Alexander-Grushko
+1126	1135	Газета.ru	Газета.ru	PRO	PRO-Gazeta-ru
+1152	1159	Америка	Америка	LOC	GPE-USA
+1500	1518	соедененных штатов	соедененные штаты	LOC	GPE-USA
+1548	1566	Северный поток — 2	Северный поток — 2	PRO	PRO-Nord-Stream-2
+1577	1585	Германию	Германия	LOC	GPE-Germany
+1609	1611	РФ	РФ	LOC	GPE-Russia
+1720	1736	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
+1738	1758	Российской Федерации	Российская Федерация	LOC	GPE-Russia
+1760	1769	Финляндии	Финляндия	LOC	GPE-Finland
+1771	1777	Швеции	Швеция	LOC	GPE-Sweden
+1779	1784	Дании	Дания	LOC	GPE-Denmark
+1787	1795	Германии	Германия	LOC	GPE-Germany
+1829	1845	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+1858	1878	Северного потока — 2	Северный поток — 2	PRO	PRO-Nord-Stream-2
+1937	1942	Дании	Дания	LOC	GPE-Denmark
+1963	1981	Нордового потока-2	Нордовый поток-2	PRO	PRO-Nord-Stream-2
+2023	2030	Украина	Украина	LOC	GPE-Ukraine
+2090	2093	США	США	LOC	GPE-USA
+2142	2148	Европу	Европа	LOC	LOC-Europe
+2173	2179	Латвия	Латвия	LOC	GPE-Latvia
+2181	2186	Литва	Литва	LOC	GPE-Lithuania
+2189	2195	Польша	Польша	LOC	GPE-Poland

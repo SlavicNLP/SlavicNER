@@ -1,0 +1,17 @@
+15	19	Азия	Азия	LOC	LOC-Asia
+51	63	коронавируса	коронавирус	EVT	EVT-Covid-19
+110	115	Китай	Китай	LOC	GPE-China
+152	168	Световната банка	Световна банка	ORG	ORG-World-Bank
+190	194	Азия	Азия	LOC	LOC-Asia
+226	251	пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Pandemic
+279	295	Световната банка	Световна банка	ORG	ORG-World-Bank
+314	326	Източна Азиа	Източна Азия	LOC	LOC-Eastern-Asia
+329	349	Тихоокеанския регион	Тихоокеански регион	LOC	LOC-Pacific-Ocean-Region
+513	517	Азия	Азия	LOC	LOC-Asia
+763	768	Китай	Китай	LOC	GPE-China
+1034	1039	Китай	Китай	LOC	GPE-China
+1220	1222	СБ	СБ	ORG	ORG-World-Bank
+1479	1489	Южна Корея	Южна Корея	LOC	GPE-South-Korea
+1492	1500	Сингапур	Сингапур	LOC	GPE-Singapore
+2645	2657	Източна Азия	Източна Азия	LOC	LOC-Eastern-Asia
+2659	2670	Тихия океан	Тихи океан	LOC	LOC-Pacific-Ocean

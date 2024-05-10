@@ -1,0 +1,33 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+65	72	Johnson	Johnson	PER	PER-Boris-Johnson
+86	88	EU	EU	ORG	ORG-European-Union
+180	193	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+222	235	Evropské unie	Evropská unie	ORG	ORG-European-Union
+324	331	brexitu	brexit	EVT	EVT-Brexit
+347	360	konzervativců	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+415	431	Donaldu Trumpovi	Donald Trump	PER	PER-Donald-Trump
+461	469	Bruselem	Brusel	LOC	GPE-Brussles
+493	495	EU	EU	ORG	ORG-European-Union
+526	533	Britové	Britové	PER	GPE-Great-Britain
+535	545	Johnsonovy	Johnson	PER	PER-Boris-Johnson
+623	631	Buzzfeed	Buzzfeed	PRO	PRO-Buzzfeed-website
+633	640	Johnson	Johnson	PER	PER-Boris-Johnson
+703	710	Britové	Britové	PER	GPE-Great-Britain
+734	740	Brexit	Brexit	EVT	EVT-Brexit
+833	839	brexit	brexit	EVT	EVT-Brexit
+849	856	Britové	Britové	PER	GPE-Great-Britain
+1001	1008	Johnson	Johnson	PER	PER-Boris-Johnson
+1084	1091	Johnson	Johnson	PER	PER-Boris-Johnson
+1132	1146	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1222	1228	brexit	brexit	EVT	EVT-Brexit
+1235	1240	Trump	Trump	PER	PER-Donald-Trump
+1448	1472	Conservative Way Forward	Conservative Way Forward	ORG	ORG-Conservative-Way-Forward
+1474	1499	Konzervativní cesta vpřed	Konzervativní cesta vpřed	ORG	ORG-Conservative-Way-Forward
+1548	1568	Konzervativní strany	Konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+1570	1577	Johnson	Johnson	PER	PER-Boris-Johnson
+1598	1600	EU	EU	ORG	ORG-European-Union
+1737	1752	Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+1755	1772	Irskou republikou	Irská republika	LOC	GPE-Ireland
+1810	1818	Británie	Británie	LOC	GPE-Great-Britain
+1891	1911	britského parlamentu	britský parlament	ORG	ORG-British-Parlament
+1928	1936	Británie	Británie	LOC	GPE-Great-Britain

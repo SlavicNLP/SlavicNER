@@ -1,0 +1,73 @@
+0	14	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+63	74	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+122	132	Američanov	Američani	PER	GPE-USA
+145	155	Trumpovega	Trumpov	PER	PER-Donald-Trump
+273	298	Združenih državah Amerike	Združene države Amerike	LOC	GPE-USA
+346	360	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+581	587	Fox TV	Fox TV	PRO	PRO-Fox-News
+746	755	Economist	Economist	PRO	PRO-The-Economist
+756	767	Joeju Bidnu	Joe Biden	PER	PER-Joe-Biden
+773	785	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+891	896	Trump	Trump	PER	PER-Donald-Trump
+927	947	Joseph - Joe - Biden	Joseph - Joe - Biden	PER	PER-Joe-Biden
+1062	1067	Trump	Trump	PER	PER-Donald-Trump
+1098	1104	Nevadi	Nevada	LOC	GPE-Nevada
+1115	1122	Arizoni	Arizona	LOC	GPE-Arizona
+1135	1147	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+1160	1176	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+1203	1206	ZDA	ZDA	LOC	GPE-USA
+1358	1367	Muskegonu	Muskegon	LOC	GPE-Muskegon
+1377	1385	Michigan	Michigan	LOC	GPE-Michigan
+1408	1417	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+1518	1523	Bidna	Biden	PER	PER-Joe-Biden
+1619	1628	Bidnovega	Biden	PER	PER-Joe-Biden
+1634	1642	Hunterja	Hunter	PER	PER-Hunter-Biden
+1673	1681	Ukrajini	Ukrajina	LOC	GPE-Ukraine
+1717	1725	Trumpove	Trumpovi	PER	PER-Donald-Trump
+1917	1925	Trumpovi	Trumpovi	PER	PER-Donald-Trump
+1926	1938	republikanci	republikanci	ORG	ORG-Republican-Party-USA
+2003	2012	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2037	2044	Bidnova	Biden	PER	PER-Joe-Biden
+2087	2092	Trump	Trump	PER	PER-Donald-Trump
+2205	2210	Trump	Trump	PER	PER-Donald-Trump
+2222	2230	Fox News	Fox News	PRO	PRO-Fox-News
+2241	2249	Trumpova	Trumpov	PER	PER-Donald-Trump
+2272	2288	Kayleigh McEnany	Kayleigh McEnany	PER	PER-Kayleigh-McEnany
+2315	2325	Američanom	Američani	PER	GPE-USA
+2392	2399	Twitter	Twitter	PRO	PRO-Twitter
+2406	2412	Trumpu	Trump	PER	PER-Donald-Trump
+2456	2475	novemu koronavirusu	novi koronavirus	EVT	EVT-Covid-19
+2478	2487	Beli hiši	Bela hiša	LOC	LOC-White-House
+2488	2499	Scott Atlas	Scott Atlas	PER	PER-Scott-Atlas
+2535	2542	Twitter	Twitter	PRO	PRO-Twitter
+2717	2722	Atlas	Atlas	PER	PER-Scott-Atlas
+2729	2738	Trumpovih	Trumpovi	PER	PER-Donald-Trump
+2808	2851	Ameriškega inštituta za ekonomske raziskave	Ameriški inštitut za ekonomske raziskave	ORG	ORG-AIER-American-Institute-for-Economic-Research
+2927	2932	Atlas	Atlas	PER	PER-Scott-Atlas
+2970	2978	Trumpove	Trumpov	PER	PER-Donald-Trump
+3014	3017	ZDA	ZDA	LOC	GPE-USA
+3190	3195	Trump	Trump	PER	PER-Donald-Trump
+3235	3244	twitterja	twitter	PRO	PRO-Twitter
+3348	3353	Biden	Biden	PER	PER-Joe-Biden
+3466	3473	Trumpom	Trump	PER	PER-Donald-Trump
+3512	3520	Delaware	Delaware	LOC	GPE-Delaware
+3571	3587	Severni Karolini	Severna Karolina	LOC	GPE-North-Carolina-US-State
+3615	3621	Trumpa	Trump	PER	PER-Donald-Trump
+3752	3761	Michiganu	Michigan	LOC	GPE-Michigan
+3901	3910	Michigana	Michigan	LOC	GPE-Michigan
+3997	4008	koronavirus	koronavirus	EVT	EVT-Covid-19
+4027	4032	Trump	Trump	PER	PER-Donald-Trump
+4132	4141	covida-19	covid-19	EVT	EVT-Covid-19
+4156	4159	ZDA	ZDA	LOC	GPE-USA
+4348	4358	Američanov	Američani	PER	GPE-USA
+4371	4381	Trumpovega	Trumpov	PER	PER-Donald-Trump
+4515	4520	Biden	Biden	PER	PER-Joe-Biden
+4579	4584	Trump	Trump	PER	PER-Donald-Trump
+4780	4783	ZDA	ZDA	LOC	GPE-USA
+4785	4791	Trumpu	Trump	PER	PER-Donald-Trump
+4832	4837	Bidna	Biden	PER	PER-Joe-Biden
+4840	4852	Philadelphii	Philadelphia	LOC	GPE-Philadelphia
+4940	4943	ABC	ABC	PRO	PRO-ABC-News
+5006	5012	Trumpa	Trump	PER	PER-Donald-Trump
+5015	5022	Miamiju	Miami	LOC	GPE-Miami
+5095	5100	Biden	Biden	PER	PER-Joe-Biden

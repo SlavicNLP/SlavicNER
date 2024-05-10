@@ -1,0 +1,59 @@
+12	31	Исидорос КАРДЕРИНИС	Исидорос Кардеринис	PER	PER-Isidoros-Karderinis
+33	75	Президентските избори на 3 ноември 2020 г.	Президентски избори на 3 ноември 2020 г.	EVT	EVT-2020-United-States-Presidential-Election
+134	137	САЩ	САЩ	LOC	GPE-USA
+377	387	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+449	454	Тръмп	Тръмп	PER	PER-Donald-Trump
+497	509	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+613	620	Холивуд	Холивуд	LOC	GPE-Hollywood
+695	698	САЩ	САЩ	LOC	GPE-USA
+997	1002	Тръмп	Тръмп	PER	PER-Donald-Trump
+1038	1043	Тръмп	Тръмп	PER	PER-Donald-Trump
+1550	1567	афро-американците	афро-американци	PER	GPE-USA
+1571	1587	латиноамериканци	латиноамериканци	PER	GPE-USA
+1598	1610	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1720	1746	Животът на черните се брои	Животът на черните се брои	ORG	ORG-Black-Lives-Matter
+1801	1827	пандемията на коронавируса	пандемия на коронавирус	EVT	EVT-Pandemic
+1874	1877	САЩ	САЩ	LOC	GPE-USA
+1910	1922	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2050	2055	Тръмп	Тръмп	PER	PER-Donald-Trump
+2158	2168	американци	американци	PER	GPE-USA
+2202	2214	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2241	2262	президентските избори	президентски избори	EVT	EVT-2020-United-States-Presidential-Election
+2301	2311	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2518	2530	Джордж Сорос	Джордж Сорос	PER	PER-George-Soros
+2533	2542	Бил Гейтс	Бил Гейтс	PER	PER-Bill-Gates
+2687	2692	Тръмп	Тръмп	PER	PER-Donald-Trump
+3062	3067	Тръмп	Тръмп	PER	PER-Donald-Trump
+3113	3116	САЩ	САЩ	LOC	GPE-USA
+3494	3499	Тръмп	Тръмп	PER	PER-Donald-Trump
+3573	3576	САЩ	САЩ	LOC	GPE-USA
+3864	3871	Америка	Америка	LOC	LOC-America
+3906	3916	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3940	3955	Овалния кабинет	Овален кабинет	LOC	LOC-Oval-Office
+3958	3970	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+4127	4130	САЩ	САЩ	LOC	GPE-USA
+4148	4175	Парижкия договор за климата	Парижки договор за климата	PRO	PRO-Paris-Agreement
+4498	4501	САЩ	САЩ	LOC	GPE-USA
+4549	4554	Китай	Китай	LOC	GPE-China
+4603	4607	НАТО	НАТО	ORG	ORG-NATO
+4609	4612	ООН	ООН	ORG	ORG-United-Nations
+4681	4686	Тръмп	Тръмп	PER	PER-Donald-Trump
+4756	4766	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+4789	4792	САЩ	САЩ	LOC	GPE-USA
+4891	4903	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+4939	4955	Съединените щати	Съединени щати	LOC	GPE-USA
+4959	4963	НАТО	НАТО	ORG	ORG-NATO
+5086	5094	Германия	Германия	LOC	GPE-Germany
+5097	5100	САЩ	САЩ	LOC	GPE-USA
+5157	5162	Тръмп	Тръмп	PER	PER-Donald-Trump
+5223	5239	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+5287	5296	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+5299	5306	Брюксел	Брюксел	LOC	GPE-Brussles
+5356	5359	САЩ	САЩ	LOC	GPE-USA
+5404	5408	Иран	Иран	LOC	GPE-Iran
+5464	5478	републиканците	републиканци	PER	ORG-Republican-Party-USA
+5501	5507	Сената	Сенат	ORG	ORG-United-States-Senate
+5567	5577	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+5713	5723	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+5796	5803	Америка	Америка	LOC	GPE-USA
+6009	6012	САЩ	САЩ	LOC	GPE-USA

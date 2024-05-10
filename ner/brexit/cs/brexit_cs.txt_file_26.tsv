@@ -1,0 +1,24 @@
+0	8	Británii	Británie	LOC	GPE-Great-Britain
+9	15	brexit	brexit	EVT	EVT-Brexit
+32	34	EU	EU	ORG	ORG-European-Union
+150	160	Novinky.cz	Novinky.cz	PRO	PRO-Novinky.cz
+172	181	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+228	230	EU	EU	ORG	ORG-European-Union
+291	297	brexit	brexit	EVT	EVT-Brexit
+306	314	Británie	Británie	LOC	GPE-Great-Britain
+330	363	Evropského hospodářského prostoru	Evropský hospodářský prostor	ORG	ORG-EEA-European-Economic-Area
+365	368	EHP	EHP	ORG	ORG-EEA-European-Economic-Area
+440	447	brexitu	brexit	EVT	EVT-Brexit
+479	493	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+570	584	Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+694	701	brexitu	brexit	EVT	EVT-Brexit
+724	738	projekt Strach	projekt Strach	PRO	PRO-Project-Fear
+741	753	Project Fear	Project Fear	PRO	PRO-Project-Fear
+870	876	brexit	brexit	EVT	EVT-Brexit
+892	900	Británie	Británie	LOC	GPE-Great-Britain
+975	977	EU	EU	ORG	ORG-European-Union
+1018	1025	brexitu	brexit	EVT	EVT-Brexit
+1156	1159	USA	USA	LOC	GPE-USA
+1195	1201	Mayová	Mayová	PER	PER-Theresa-May
+1277	1279	EU	EU	ORG	ORG-European-Union
+1294	1297	EHP	EHP	ORG	ORG-EEA-European-Economic-Area

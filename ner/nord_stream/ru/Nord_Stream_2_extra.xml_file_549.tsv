@@ -1,0 +1,18 @@
+35	45	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+66	69	США	США	LOC	GPE-USA
+93	101	Германии	Германия	LOC	GPE-Germany
+103	138	Министерство иностранных дел России	Министерство иностранных дел России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+188	191	США	США	LOC	GPE-USA
+194	202	Германии	Германия	LOC	GPE-Germany
+314	334	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+401	411	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+412	426	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+446	449	США	США	LOC	GPE-USA
+452	459	Берлине	Берлин	LOC	GPE-Berlin
+460	476	Ричарде Гренелле	Ричард Гренелл	PER	PER-Richard-Grenell
+583	589	России	Россия	LOC	GPE-Russia
+601	607	Европу	Европа	LOC	LOC-Europe
+727	737	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+739	751	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
+989	997	Захарова	Захарова	PER	PER-Maria-Zaharova
+1135	1141	России	Россия	LOC	GPE-Russia

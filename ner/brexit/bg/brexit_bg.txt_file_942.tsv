@@ -1,0 +1,93 @@
+0	17	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+19	33	Великобритания	Великобритания	LOC	GPE-Great-Britain
+63	65	ЕС	ЕС	ORG	ORG-European-Union
+75	81	Лондон	Лондон	LOC	GPE-London
+83	97	Великобритания	Великобритания	LOC	GPE-Great-Britain
+127	129	ЕС	ЕС	ORG	ORG-European-Union
+181	191	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+297	304	Брюксел	Брюксел	LOC	GPE-Brussles
+345	362	The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+396	398	ЕС	ЕС	ORG	ORG-European-Union
+402	409	Брекзит	Брекзит	EVT	EVT-Brexit
+410	422	Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+433	447	Великобритания	Великобритания	LOC	GPE-Great-Britain
+478	480	ЕС	ЕС	ORG	ORG-European-Union
+527	534	Брекзит	Брекзит	EVT	EVT-Brexit
+829	831	ЕС	ЕС	ORG	ORG-European-Union
+973	988	Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+1042	1063	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+1138	1158	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+1184	1186	ЕС	ЕС	ORG	ORG-European-Union
+1257	1271	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1411	1414	Мей	Мей	PER	PER-Theresa-May
+1455	1477	Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+1536	1550	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1594	1601	Брекзит	Брекзит	EVT	EVT-Brexit
+1622	1634	Иван Христов	Иван Христов	PER	PER-Ivan-Hristov
+1773	1802	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+1805	1811	Лондон	Лондон	LOC	GPE-London
+1894	1904	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1907	1912	Китай	Китай	LOC	GPE-China
+1980	1984	Ухан	Ухан	LOC	GPE-Wuhan
+2067	2072	Китай	Китай	LOC	GPE-China
+2073	2081	Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+2095	2105	Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+2309	2319	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+2334	2348	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2351	2356	Китай	Китай	LOC	GPE-China
+2822	2825	Мей	Мей	PER	PER-Theresa-May
+2847	2857	Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+2903	2917	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3028	3037	Лиам Фокс	Лиам Фокс	PER	PER-Liam-Fox
+3077	3082	Китай	Китай	LOC	GPE-China
+3136	3147	Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov
+3149	3155	Лондон	Лондон	LOC	GPE-London
+3183	3197	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3198	3208	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+3284	3289	Китай	Китай	LOC	GPE-China
+3340	3346	Лондон	Лондон	LOC	GPE-London
+3352	3359	Брекзит	Брекзит	EVT	EVT-Brexit
+3391	3406	The Independent	The Independent	PRO	PRO-The-Independent
+3518	3522	Ухан	Ухан	LOC	GPE-Wuhan
+3549	3552	Мей	Мей	PER	PER-Theresa-May
+3576	3586	Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+3589	3594	Пекин	Пекин	LOC	GPE-Beijing
+3608	3614	Шанхай	Шанхай	LOC	GPE-Shanghai
+3647	3654	Брекзит	Брекзит	EVT	EVT-Brexit
+3798	3812	Великобритания	Великобритания	LOC	GPE-Great-Britain
+3909	3912	Мей	Мей	PER	PER-Theresa-May
+4040	4046	Европа	Европа	LOC	LOC-Europe
+4085	4099	Дауиниг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+4149	4155	Европа	Европа	LOC	LOC-Europe
+4286	4293	Хонконг	Хонконг	LOC	GPE-Hong-Kong
+4300	4305	Патън	Патън	PER	PER-Chris-Patten
+4351	4361	Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+4542	4553	Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov
+4555	4561	Лондон	Лондон	LOC	GPE-London
+4589	4603	Великобритания	Великобритания	LOC	GPE-Great-Britain
+4604	4614	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+4652	4657	Китай	Китай	LOC	GPE-China
+4706	4709	Мей	Мей	PER	PER-Theresa-May
+4797	4809	The Guardian	The Guardian	PRO	PRO-The-Guardian
+4810	4815	Китай	Китай	LOC	GPE-China
+4832	4838	Лондон	Лондон	LOC	GPE-London
+4857	4864	Брекзит	Брекзит	EVT	EVT-Brexit
+5012	5026	Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+5179	5189	Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+5247	5261	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5295	5302	Брекзит	Брекзит	EVT	EVT-Brexit
+5336	5342	Лондон	Лондон	LOC	GPE-London
+5348	5353	Пекин	Пекин	LOC	GPE-Beijing
+5381	5395	Великобритания	Великобритания	LOC	GPE-Great-Britain
+5418	5434	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+5443	5453	Кери Браун	Кери Браун	PER	PER-Kerry-Brown
+5490	5513	Кралския колеж в Лондон	Кралски колеж в Лондон	ORG	ORG-Kings-College
+5516	5521	Китай	Китай	LOC	GPE-China
+5545	5548	Мей	Мей	PER	PER-Theresa-May
+5611	5616	Браун	Браун	PER	PER-Kerry-Brown
+5632	5637	Пекин	Пекин	LOC	GPE-Beijing
+5708	5711	Мей	Мей	PER	PER-Theresa-May
+5752	5761	Лиам Фокс	Лиам Фокс	PER	PER-Liam-Fox
+5793	5797	Ухан	Ухан	LOC	GPE-Wuhan
+5918	5928	Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+6029	6040	Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov

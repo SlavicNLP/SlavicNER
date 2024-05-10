@@ -1,0 +1,25 @@
+7	14	brexitu	brexit	EVT	EVT-Brexit
+21	27	Mayové	Mayová	PER	PER-Theresa-May
+29	42	Britští lordi	Britští lordi	PER	ORG-House-of-Lords
+80	97	Britský parlament	Britský parlament	ORG	ORG-British-Parlament
+150	158	Británie	Británie	LOC	GPE-Great-Britain
+161	174	Evropské unie	Evropská unie	ORG	ORG-European-Union
+182	202	Spojenému království	Spojené království	LOC	GPE-Great-Britain
+252	258	Londýn	Londýn	LOC	GPE-London
+311	325	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+328	341	Evropské unii	Evropská unie	ORG	ORG-European-Union
+347	367	britským parlamentem	britský parlament	ORG	ORG-British-Parlament
+395	408	Toby Melville	Toby Melville	PER	PER-Tobi-Melvile
+418	425	Reuters	Reuters	ORG	ORG-Reuters
+427	441	Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+492	499	brexitu	brexit	EVT	EVT-Brexit
+515	522	Reuters	Reuters	ORG	ORG-Reuters
+570	584	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+586	591	Lordi	Lordi	PER	ORG-House-of-Lords
+621	635	Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+748	755	brexitu	brexit	EVT	EVT-Brexit
+764	772	Británie	Británie	LOC	GPE-Great-Britain
+790	797	brexitu	brexit	EVT	EVT-Brexit
+820	830	Jiří Hošek	Jiří Hošek	PER	PER-Jiri-Hosek
+866	873	brexitu	brexit	EVT	EVT-Brexit
+953	964	Alžběty II.	Alžběta II.	PER	PER-Queen-Elizabeth-II

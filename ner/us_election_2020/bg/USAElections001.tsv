@@ -1,0 +1,175 @@
+32	37	Тръмп	Тръмп	PER	PER-Donald-Trump
+41	50	Белия дом	Белия дом	LOC	LOC-White-House
+76	79	САЩ	САЩ	LOC	GPE-USA
+146	158	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+330	344	Хилъри Клинтън	Хилъри Клинтън	PER	PER-Hillary-Clinton
+476	481	Тръмп	Тръмп	PER	PER-Donald-Trump
+525	547	Републиканската партия	Републиканска партия	ORG	ORG-Republican-Party-USA
+641	662	Голямата стара партия	Голяма стара партия	ORG	ORG-Republican-Party-USA
+770	778	Кливланд	Кливланд	LOC	GPE-Cleveland
+780	785	Охайо	Охайо	LOC	GPE-Ohio
+908	915	Флорида	Флорида	LOC	GPE-Florida
+916	924	Джеб Буш	Джеб Буш	PER	PER-Jeb-Bush
+934	951	Джордж Буш-старши	Джордж Буш-старши	PER	PER-George-Bush-Sr
+962	979	Джордж Буш-младши	Джордж Буш-младши	PER	PER-George-Bush-Jr
+992	1000	Тед Круз	Тед Круз	PER	PER-Ted-Cruz
+1006	1012	Тексас	Тексас	LOC	GPE-Texas
+1016	1027	Марко Рубио	Марко Рубио	PER	PER-Marco-Rubio
+1033	1040	Флорида	Флорида	LOC	GPE-Florida
+1080	1085	Тръмп	Тръмп	PER	PER-Donald-Trump
+1143	1157	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1245	1253	Стажанта	Стажанта	PRO	PRO-The-Apprentice
+1338	1352	републиканците	републиканци	PER	ORG-Republican-Party-USA
+1444	1455	демократите	демократи	PER	ORG-Democratic-Party-USA
+1550	1564	Хилъри Клинтън	Хилъри Клинтън	PER	PER-Hillary-Clinton
+1591	1598	Върмонт	Върмонт	LOC	GPE-Vermont
+1599	1612	Бърни Сандърс	Бърни Сандърс	PER	PER-Bernie-Sanders
+1789	1796	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+1959	1966	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+1973	1980	Клинтън	Клинтън	PER	PER-Hillary-Clinton
+2107	2130	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2194	2201	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+2394	2419	Александрия Окасио-Кортес	Александрия Окасио-Кортес	PER	PER-Alexandria-Ocasio-Cortez
+2463	2470	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+2555	2578	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2593	2601	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+2617	2624	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+2626	2639	Окасио-Кортес	Окасио-Кортес	PER	PER-Alexandria-Ocasio-Cortez
+2774	2797	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2871	2894	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+2932	2946	републиканците	републиканци	PER	ORG-Republican-Party-USA
+3008	3013	Тръмп	Тръмп	PER	PER-Donald-Trump
+3135	3145	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3167	3180	Бърни Сандърс	Бърни Сандърс	PER	PER-Bernie-Sanders
+3194	3208	Елизабет Уорън	Елизабет Уорън	PER	PER-Elizabeth-Warren
+3214	3224	Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+3228	3240	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+3246	3256	Калифорния	Калифорния	LOC	GPE-California
+3270	3279	Саут Бенд	Саут Бенд	LOC	GPE-South-Bend
+3280	3294	Пийт Бутиджидж	Пийт Бутиджидж	PER	PER-Peter-Buttigieg
+3316	3321	Обама	Обама	PER	PER-Barack-Obama
+3322	3332	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3465	3472	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+3486	3491	Уорън	Уорън	PER	PER-Elizabeth-Warren
+3493	3498	Харис	Харис	PER	PER-Kamala-Harris
+3508	3512	Пийт	Пийт	PER	PER-Peter-Buttigieg
+3616	3627	демократите	демократи	PER	ORG-Democratic-Party-USA
+3712	3720	Си Ен Ен	Си Ен Ен	ORG	ORG-CNN
+3721	3727	Байдън	Байдън	PER	PER-Joe-Biden
+3786	3793	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+3835	3840	Харис	Харис	PER	PER-Kamala-Harris
+3843	3848	Уорън	Уорън	PER	PER-Elizabeth-Warren
+4124	4138	Елизабет Уорън	Елизабет Уорън	PER	PER-Elizabeth-Warren
+4140	4151	Бето О’Рурк	Бето О’Рурк	PER	PER-Beto-O'Rourke
+4176	4182	Тексас	Тексас	LOC	GPE-Texas
+4289	4298	Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+4299	4309	Кори Букър	Кори Букър	PER	PER-Cory-Booker
+4322	4329	Ню Йорк	Ню Йорк	LOC	GPE-New-York
+4330	4343	Бил Де Блазио	Бил Де Блазио	PER	PER-Bill-de-Blasio
+4394	4400	Байдън	Байдън	PER	PER-Joe-Biden
+4402	4409	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+4411	4416	Харис	Харис	PER	PER-Kamala-Harris
+4419	4428	Бутиджидж	Бутиджидж	PER	PER-Peter-Buttigieg
+4431	4437	Байдън	Байдън	PER	PER-Joe-Biden
+4482	4505	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+4514	4521	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+4523	4528	Уорън	Уорън	PER	PER-Elizabeth-Warren
+4531	4536	Харис	Харис	PER	PER-Kamala-Harris
+4562	4571	демократи	демократи	PER	ORG-Democratic-Party-USA
+4702	4713	демократите	демократи	PER	ORG-Democratic-Party-USA
+4927	4934	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+4937	4942	Харис	Харис	PER	PER-Kamala-Harris
+4967	4973	Байдън	Байдън	PER	PER-Joe-Biden
+5184	5195	Ерик Сулуел	Ерик Сулуел	PER	PER-Eric-Swalwell
+5266	5277	демократите	демократи	PER	ORG-Democratic-Party-USA
+5348	5358	американци	американци	PER	GPE-USA
+5383	5393	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+5537	5543	Байдън	Байдън	PER	PER-Joe-Biden
+5603	5614	демократите	демократи	PER	ORG-Democratic-Party-USA
+5751	5761	Калифорния	Калифорния	LOC	GPE-California
+5762	5774	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+5963	5968	Харис	Харис	PER	PER-Kamala-Harris
+5998	6004	Байдън	Байдън	PER	PER-Joe-Biden
+6227	6235	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+6432	6438	Байдън	Байдън	PER	PER-Joe-Biden
+6614	6619	Харис	Харис	PER	PER-Kamala-Harris
+6851	6856	Харис	Харис	PER	PER-Kamala-Harris
+6955	6961	Байдън	Байдън	PER	PER-Joe-Biden
+7087	7098	демократите	демократи	PER	ORG-Democratic-Party-USA
+7130	7142	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+7316	7326	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+7428	7433	Обама	Обама	PER	PER-Barack-Obama
+7450	7456	Байдън	Байдън	PER	PER-Joe-Biden
+7487	7492	Тръмп	Тръмп	PER	PER-Donald-Trump
+7598	7609	Бил Клинтън	Бил Клинтън	PER	PER-Bill-Clinton
+7632	7638	Хилъри	Хилъри	PER	PER-Hillary-Clinton
+7648	7659	демократите	демократи	PER	ORG-Democratic-Party-USA
+7849	7863	Хилъри Клинтън	Хилъри Клинтън	PER	PER-Hillary-Clinton
+7893	7898	Тръмп	Тръмп	PER	PER-Donald-Trump
+7994	7999	Тръмп	Тръмп	PER	PER-Donald-Trump
+8107	8119	Робърт Мълър	Робърт Мълър	PER	PER-Robert-Mueller
+8134	8142	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+8171	8176	Русия	Русия	LOC	GPE-Russia
+8186	8195	Уикилийкс	Уикилийкс	PRO	PRO-Wikileaks
+8256	8267	демократите	демократи	PER	ORG-Democratic-Party-USA
+8327	8332	Тръмп	Тръмп	PER	PER-Donald-Trump
+8335	8344	Белия дом	Бeлия дом	LOC	LOC-White-House
+8385	8391	Байдън	Байдън	PER	PER-Joe-Biden
+8438	8443	Харис	Харис	PER	PER-Kamala-Harris
+8476	8488	Камала Харис	Камала Харис	PER	PER-Kamala-Harris
+8571	8581	Калифорния	Калифорния	LOC	GPE-California
+8584	8589	Харис	Харис	PER	PER-Kamala-Harris
+9043	9054	демократите	демократи	PER	ORG-Democratic-Party-USA
+9224	9236	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+9264	9269	Тръмп	Тръмп	PER	PER-Donald-Trump
+9356	9370	Елизабет Уорън	Елизабет Уорън	PER	PER-Elizabeth-Warren
+9388	9398	Масачузетс	Масачузетс	LOC	GPE-Massachusetts
+9608	9631	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+9745	9751	Тексас	Тексас	LOC	GPE-Texas
+9752	9763	Бето О’Рурк	Бето О’Рурк	PER	PER-Beto-O'Rourke
+9892	9901	Ню Джърси	Ню Джърси	LOC	GPE-New-Jersey
+9902	9912	Кори Букър	Кори Букър	PER	PER-Cory-Booker
+9925	9931	О’Рурк	О’Рурк	PER	PER-Beto-O'Rourke
+10040	10045	Уорън	Уорън	PER	PER-Elizabeth-Warren
+10289	10292	САЩ	САЩ	LOC	GPE-USA
+10370	10375	Уорън	Уорън	PER	PER-Elizabeth-Warren
+10472	10478	Сената	Сенат	ORG	ORG-United-States-Senate
+10629	10634	Тръмп	Тръмп	PER	PER-Donald-Trump
+10692	10702	Покахонтас	Покахонтас	PER	PER-Pocahontas
+10751	10756	Уорън	Уорън	PER	PER-Elizabeth-Warren
+10811	10816	Тръмп	Тръмп	PER	PER-Donald-Trump
+10911	10918	Харвард	Харвард	ORG	ORG-Harvard-University
+11048	11053	Уорън	Уорън	PER	PER-Elizabeth-Warren
+11077	11085	ДНК тест	ДНК тест	PRO	PRO-DNA-test
+11260	11268	ДНК тест	ДНК тест	PRO	PRO-DNA-test
+11338	11343	Уорън	Уорън	PER	PER-Elizabeth-Warren
+11506	11511	Уорън	Уорън	PER	PER-Elizabeth-Warren
+11940	11945	Тръмп	Тръмп	PER	PER-Donald-Trump
+12002	12007	Уорън	Уорън	PER	PER-Elizabeth-Warren
+12124	12129	Уорън	Уорън	PER	PER-Elizabeth-Warren
+12150	12163	Бърни Сандърс	Бърни Сандърс	PER	PER-Bernie-Sanders
+12285	12292	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+12335	12340	Уорън	Уорън	PER	PER-Elizabeth-Warren
+12645	12654	Уолстрийт	Уолстрийт	ORG	ORG-Wall-Street
+12725	12732	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+13088	13093	Айова	Айова	LOC	GPE-Iowa
+13233	13256	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+13324	13329	Тръмп	Тръмп	PER	PER-Donald-Trump
+13347	13361	Пийт Бутиджидж	Пийт Бутиджидж	PER	PER-Peter-Buttigieg
+13385	13394	Саут Бенд	Саут Бенд	LOC	GPE-South-Bend
+13397	13404	Индиана	Индиана	LOC	GPE-Indiana
+13429	13436	Сандърс	Сандърс	PER	PER-Bernie-Sanders
+13526	13535	Бутиджидж	Бутиджидж	PER	PER-Peter-Buttigieg
+13575	13584	Саут Бенд	Саут Бенд	LOC	GPE-South-Bend
+13598	13605	Харвард	Харвард	ORG	ORG-Harvard-University
+13842	13852	Андрю Йънг	Андрю Йънг	PER	PER-Andrew-Young
+14006	14017	демократите	демократи	PER	ORG-Democratic-Party-USA
+14087	14098	демократите	демократи	PER	ORG-Democratic-Party-USA
+14101	14128	Камарата на представителите	Камара на представителите	ORG	ORG-House-of-Representatives(USA)
+14133	14139	Сената	Сенат	ORG	ORG-United-States-Senate
+14142	14154	Нанси Пелоси	Нанси Пелоси	PER	PER-Nancy-Pelosi
+14157	14166	Чък Шумър	Чък Шумър	PER	PER-Chuck-Schumer
+14369	14375	Байдън	Байдън	PER	PER-Joe-Biden
+14384	14390	Байдън	Байдън	PER	PER-Joe-Biden
+14569	14580	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+14589	14601	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump

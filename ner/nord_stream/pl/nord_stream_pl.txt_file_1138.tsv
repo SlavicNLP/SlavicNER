@@ -1,0 +1,37 @@
+0	5	Putin	Putin	PER	PER-Vladimir-Putin
+29	35	Merkel	Merkel	PER	PER-Angela-Merkel
+38	51	Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+63	70	Niemiec	Niemcy	LOC	GPE-Germany
+73	78	Rosji	Rosja	LOC	GPE-Russia
+127	132	Kreml	Kreml	LOC	LOC-Kremlin
+181	194	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+197	211	Władimir Putin	Władimir Putin	PER	PER-Vladimir-Putin
+283	296	Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+327	333	Kremla	Kreml	LOC	LOC-Kremlin
+406	419	Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+445	453	Rosjanie	Rosjanie	PER	GPE-Russia
+502	507	Putin	Putin	PER	PER-Vladimir-Putin
+523	529	Merkel	Merkel	PER	PER-Angela-Merkel
+586	593	Niemiec	Niemcy	LOC	GPE-Germany
+596	600	Unii	Unia	ORG	ORG-European-Union
+605	612	Ukrainy	Ukraina	LOC	GPE-Ukraine
+656	663	Ukrainy	Ukraina	LOC	GPE-Ukraine
+666	674	Berlinie	Berlin	LOC	GPE-Berlin
+676	689	Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+795	801	Merkal	Merkel	PER	PER-Angela-Merkel
+827	834	Putinem	Putin	PER	PER-Vladimir-Putin
+839	846	Ukraina	Ukraina	LOC	GPE-Ukraine
+862	875	Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+1056	1069	Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+1096	1102	Merkel	Merkel	PER	PER-Angela-Merkel
+1111	1116	Prime	Prime	ORG	ORG-PRIME-News-Agency
+1166	1172	Kremla	Kreml	LOC	LOC-Kremlin
+1207	1214	Niemców	Niemcy	PER	GPE-Germany
+1278	1288	Gazpromowi	Gazprom	ORG	ORG-Gazprom
+1369	1371	KE	KE	ORG	ORG-European-Commission
+1372	1389	Maros Szefczowicz	Maros Szefczowicz	PER	PER-Maros-Sefcovic
+1405	1413	Bruksela	Bruksela	LOC	GPE-Brussles
+1527	1540	Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+1542	1553	Szefczowicz	Szefczowicz	PER	PER-Maros-Sefcovic
+1573	1577	Unii	Unia	ORG	ORG-European-Union
+1600	1607	Ukrainę	Ukraina	LOC	GPE-Ukraine

@@ -1,0 +1,27 @@
+7	16	Facebooku	Facebook	PRO	PRO-Facebook
+46	53	brexitu	brexit	EVT	EVT-Brexit
+62	72	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+105	110	Wylie	Wylie	PER	PER-Christopher-Wylie
+113	132	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+134	139	Wylie	Wylie	PER	PER-Christopher-Wylie
+163	241	výborem pro digitální technologie, kulturu, média a sport britského parlamentu	výbor pro digitální technologie, kulturu, média a sport britského parlamentu	ORG	ORG-UK-Department-for-Digital-Culture-Media-and-Sport
+275	284	facebooku	facebook	ORG	ORG-Facebook
+342	359	Marka Zuckerberga	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+389	396	Londýna	Londýn	LOC	GPE-London
+424	429	Wylie	Wylie	PER	PER-Christopher-Wylie
+469	480	AggregateIQ	AggregateIQ	ORG	ORG-Aggregate-IQ
+546	551	Ripon	Ripon	PRO	PRO-Ripon-software
+713	716	AIQ	AIQ	ORG	ORG-Aggregate-IQ
+734	739	Ripon	Ripon	PRO	PRO-Ripon-software
+813	818	Wylie	Wylie	PER	PER-Christopher-Wylie
+855	860	Wylie	Wylie	PER	PER-Christopher-Wylie
+876	878	AP	AP	ORG	ORG-AP-The-Associated-Press
+901	904	AIQ	AIQ	ORG	ORG-Aggregate-IQ
+924	943	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+993	1003	Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+1070	1079	facebooku	facebook	PRO	PRO-Facebook
+1128	1131	AIQ	AIQ	ORG	ORG-Aggregate-IQ
+1174	1179	Leave	Leave	ORG	ORG-Leave-EU
+1187	1192	Wylie	Wylie	PER	PER-Christopher-Wylie
+1232	1251	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+1254	1265	AggregateIQ	AggregateIQ	ORG	ORG-Aggregate-IQ

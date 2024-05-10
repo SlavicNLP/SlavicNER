@@ -1,0 +1,67 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+46	53	Wyspach	Wyspy	LOC	GPE-Great-Britain
+74	91	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+94	98	Unii	Unia	ORG	ORG-European-Union
+99	105	Polska	Polska	LOC	GPE-Poland
+194	205	Theresa May	Theresa May	PER	PER-Theresa-May
+254	271	Henryki Bochniarz	Henryka Bochniarz	PER	PER-Henryka-Bochniarz
+283	304	Konfederacji Lewiatan	Konfederacja Lewiatan	ORG	ORG-Confederation-of-Lewiatans
+395	401	Polacy	Polacy	PER	GPE-Poland
+417	424	Wyspach	Wyspy	LOC	GPE-Great-Britain
+466	477	Home Office	Home Office	ORG	ORG-Home-Office-UK
+490	493	MSW	MSW	ORG	ORG-Home-Office-UK
+508	531	Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+638	657	Wyspach Brytyjskich	Wyspy Brytyjskie	LOC	GPE-Great-Britain
+725	749	Ambasadzie RP w Londynie	Ambasada RP w Londynie	LOC	LOC-Embassy-of-the-Republic-of-Poland-in-London
+765	772	Wyspach	Wyspy	LOC	GPE-Great-Britain
+804	811	Polaków	Polacy	PER	GPE-Poland
+919	936	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1018	1025	Polonii	Polonia	ORG	ORG-Polonia
+1097	1104	Wyspach	Wyspy	LOC	GPE-Great-Britain
+1108	1116	brexicie	Brexit	EVT	EVT-Brexit
+1172	1178	Anglii	Anglia	LOC	GPE-England
+1211	1217	Polsce	Polska	LOC	GPE-Poland
+1228	1235	brexitu	Brexit	EVT	EVT-Brexit
+1277	1294	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+1342	1348	Polacy	Polacy	PER	GPE-Poland
+1424	1430	Polacy	Polacy	PER	GPE-Poland
+1470	1487	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1490	1507	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+1590	1608	Barbara Drozdowicz	Barbara Drozdowicz	PER	PER-Barbara-Drozdowicz
+1628	1657	East European Resource Centre	East European Resource Centre	ORG	ORG-EERC-East-European-Resource-Centre
+1660	1668	Londynie	Londyn	LOC	GPE-London
+1685	1691	Anglii	Anglia	LOC	GPE-England
+1695	1699	Unii	Unia	ORG	ORG-European-Union
+1785	1792	Wyspach	Wyspy	LOC	GPE-Great-Britain
+1859	1865	Polski	Polska	LOC	GPE-Poland
+2049	2056	brexitu	Brexit	EVT	EVT-Brexit
+2142	2146	Unią	Unia	ORG	ORG-European-Union
+2149	2164	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2198	2205	Polaków	Polacy	PER	GPE-Poland
+2221	2228	Wyspach	Wyspy	LOC	GPE-Great-Britain
+2241	2251	Drozdowicz	Drozdowicz	PER	PER-Barbara-Drozdowicz
+2346	2352	Anglii	Anglia	LOC	GPE-England
+2496	2502	Polski	Polska	LOC	GPE-Poland
+2632	2647	Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+2660	2662	UE	UE	ORG	ORG-European-Union
+2767	2773	Polski	Polska	LOC	GPE-Poland
+2846	2867	Konfederacja Lewiatan	Konfederacja Lewiatan	ORG	ORG-Confederation-of-Lewiatans
+2919	2952	Polskiej Rzeczypospolitej Ludowej	Polska Rzeczypospolita Ludowa	LOC	GPE-Poland
+2962	3024	Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej	Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej	LOC	GPE-Great-Britain
+3091	3099	Londynie	Londyn	LOC	GPE-London
+3185	3202	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3239	3242	PRL	PRL	LOC	GPE-Poland
+3267	3271	Unii	Unia	ORG	ORG-European-Union
+3367	3382	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+3408	3410	UE	UE	ORG	ORG-European-Union
+3473	3480	Wyspach	Wyspy	LOC	GPE-Great-Britain
+3533	3560	Komisji Spraw Zagranicznych	Komisja Spraw Zagranicznych	ORG	ORG-Committee-on-Foreign-Affairs
+3673	3688	Rzeczpospolitej	Rzeczpospolita	PRO	PRO-Rzeczpospolita
+3690	3708	Grzegorz Baczewski	Grzegorz Baczewski	PER	PER-Grzegorz-Baczewski
+3734	3755	Konfederacji Lewiatan	Konfederacja Lewiatan	ORG	ORG-Confederation-of-Lewiatans
+3788	3795	Polaków	Polacy	PER	GPE-Poland
+3814	3831	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+4000	4006	Polską	Polska	LOC	GPE-Poland
+4016	4078	Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej	Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej	LOC	GPE-Great-Britain
+4144	4152	Londynie	Londyn	LOC	GPE-London
+4249	4257	brexicie	Brexit	EVT	EVT-Brexit

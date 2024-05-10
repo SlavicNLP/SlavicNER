@@ -1,0 +1,39 @@
+1	6	Times	Times	PRO	PRO-The-Times
+51	53	UE	UE	ORG	ORG-European-Union
+93	102	The Times	The Times	PRO	PRO-The-Times
+190	207	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+228	245	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+257	280	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+284	293	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+452	454	UE	UE	ORG	ORG-European-Union
+463	469	Polski	Polska	LOC	GPE-Poland
+556	573	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+576	578	UE	UE	ORG	ORG-European-Union
+663	672	Wspólnotą	Wspólnota	ORG	ORG-European-Union
+734	739	Times	Times	PRO	PRO-The-Times
+805	808	MSW	MSW	ORG	ORG-Home-Office-UK
+940	942	UE	UE	ORG	ORG-European-Union
+1034	1045	Theresy May	Theresa May	PER	PER-Theresa-May
+1089	1096	Brexitu	Brexit	EVT	EVT-Brexit
+1174	1176	UE	UE	ORG	ORG-European-Union
+1286	1297	Home Office	Home Office	ORG	ORG-Home-Office-UK
+1453	1458	Times	Times	PRO	PRO-The-Times
+1536	1538	UE	UE	ORG	ORG-European-Union
+1689	1691	UE	UE	ORG	ORG-European-Union
+1880	1882	UE	UE	ORG	ORG-European-Union
+1941	1950	Wspólnoty	Wspólnota	ORG	ORG-European-Union
+2057	2063	Timesa	Times	PRO	PRO-The-Times
+2094	2096	UE	UE	ORG	ORG-European-Union
+2235	2252	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2274	2281	Polaków	Polacy	PER	GPE-Poland
+2703	2711	Londynie	Londyn	LOC	GPE-London
+2714	2724	Birmingham	Birmingham	LOC	GPE-Birmingham
+2727	2736	Edynburgu	Edynburg	LOC	GPE-Edinburgh
+2833	2840	Cardiff	Cardiff	LOC	GPE-Cardiff
+2874	2883	Belfaście	Belfast	LOC	GPE-Belfast
+2897	2912	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+2941	2943	UE	UE	ORG	ORG-European-Union
+2981	2990	Wspólnotę	Wspólnota	ORG	ORG-European-Union
+3225	3232	Londynu	Londyn	LOC	GPE-London
+3233	3244	Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa
+3246	3249	PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency

@@ -1,0 +1,19 @@
+0	3	Мей	Мей	PER	PER-Theresa-May
+19	21	ЕС	ЕС	ORG	ORG-European-Union
+84	91	Брекзит	Брекзит	EVT	EVT-Brexit
+113	123	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+148	153	Китай	Китай	LOC	GPE-China
+179	181	ЕС	ЕС	ORG	ORG-European-Union
+289	296	Брекзит	Брекзит	EVT	EVT-Brexit
+306	313	Гардиън	Гардиън	PRO	PRO-The-Guardian
+341	351	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+410	412	ЕС	ЕС	ORG	ORG-European-Union
+474	481	Брюксел	Брюксел	LOC	GPE-Brussles
+899	909	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+922	932	британците	британци	PER	GPE-Great-Britain
+952	959	Брекзит	Брекзит	EVT	EVT-Brexit
+1006	1008	ЕС	ЕС	ORG	ORG-European-Union
+1024	1034	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+1139	1153	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1162	1164	ЕС	ЕС	ORG	ORG-European-Union
+1178	1185	Брюксел	Брюксел	LOC	GPE-Brussles

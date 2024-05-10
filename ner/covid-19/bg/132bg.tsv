@@ -1,0 +1,18 @@
+23	25	ЕС	ЕС	ORG	ORG-European-Union
+69	81	коронавируса	коронавирус	EVT	EVT-Covid-19
+82	90	България	България	LOC	GPE-Bulgaria
+163	179	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+223	235	коронавируса	коронавирус	EVT	EVT-Covid-19
+237	264	Съветът на Европейския съюз	Съвет на Европейския съюз	ORG	ORG-Council-of-the-European-Union
+336	344	България	България	LOC	GPE-Bulgaria
+421	428	Съветът	Съвет	ORG	ORG-Council-of-the-European-Union
+502	504	ЕС	ЕС	ORG	ORG-European-Union
+544	552	COVID-19	COVID-19	EVT	EVT-Covid-19
+662	686	фонд „Солидарност“ на ЕС	фонд „Солидарност“ на ЕС	PRO	PRO-European-Union-Solidarity-Fund
+694	746	Инвестиционната инициатива в отговор на коронавируса	Инвестиционна инициатива в отговор на коронавируса	PRO	PRO-Coronavirus-Response-Investment-Initiative
+766	768	ЕС	ЕС	ORG	ORG-European-Union
+1286	1288	ЕС	ЕС	ORG	ORG-European-Union
+1750	1757	Съветът	Съвет	ORG	ORG-Council-of-the-European-Union
+1779	1804	"фонда ""Солидарност"" на ЕС"	"фонд ""Солидарност"" на ЕС"	PRO	PRO-European-Union-Solidarity-Fund
+1896	1918	коронавирус пандемията	коронавирус пандемия	EVT	EVT-Pandemic
+2001	2025	Официалния вестник на ЕС	Официален вестник на ЕС	PRO	PRO-Official-Journal-of-the-European-Union

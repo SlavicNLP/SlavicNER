@@ -1,0 +1,66 @@
+22	25	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+92	102	Либерасион	Либерасион	PRO	PRO-Liberation
+129	132	САЩ	САЩ	LOC	GPE-USA
+133	145	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+176	184	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+185	202	Брад Рафенспъргър	Брад Рафенспъргър	PER	PER-Brad-Raffensperger
+367	370	САЩ	САЩ	LOC	GPE-USA
+456	461	Тръмп	Тръмп	PER	PER-Donald-Trump
+589	594	Тръмп	Тръмп	PER	PER-Donald-Trump
+625	637	Рафенспъргър	Рафенспъргър	PER	PER-Brad-Raffensperger
+736	741	Сенат	Сенат	ORG	ORG-United-States-Senate
+833	840	Конгрес	Конгрес	ORG	ORG-United-States-Congress
+856	866	Либерасион	Либерасион	PRO	PRO-Liberation
+937	945	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+983	989	Байдън	Байдън	PER	PER-Joe-Biden
+1000	1005	Тръмп	Тръмп	PER	PER-Donald-Trump
+1058	1070	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+1098	1101	САЩ	САЩ	LOC	GPE-USA
+1133	1143	демократът	демократ	PER	ORG-Democratic-Party-USA
+1144	1154	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1249	1256	Гардиън	Гардиън	PRO	PRO-The-Guardian
+1412	1417	Тръмп	Тръмп	PER	PER-Donald-Trump
+1636	1641	Тръмп	Тръмп	PER	PER-Donald-Trump
+1682	1690	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1732	1741	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+1783	1789	Байдън	Байдън	PER	PER-Joe-Biden
+1804	1812	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+1861	1866	Тръмп	Тръмп	PER	PER-Donald-Trump
+1961	1968	Америка	Америка	LOC	GPE-USA
+2084	2091	Гардиън	Гардиън	PRO	PRO-The-Guardian
+2119	2124	Тръмп	Тръмп	PER	PER-Donald-Trump
+2253	2259	Байдън	Байдън	PER	PER-Joe-Biden
+2345	2351	Байдън	Байдън	PER	PER-Joe-Biden
+2378	2383	Тръмп	Тръмп	PER	PER-Donald-Trump
+2418	2423	Тръмп	Тръмп	PER	PER-Donald-Trump
+2440	2460	Националната гвардия	Национална гвардия	ORG	ORG-United-States-National-Guard
+2677	2680	САЩ	САЩ	LOC	GPE-USA
+2737	2742	Тръмп	Тръмп	PER	PER-Donald-Trump
+2749	2763	Вашингтон пост	Вашингтон пост	PRO	PRO-Washington-Post
+2862	2865	САЩ	САЩ	LOC	GPE-USA
+2947	2959	Аштън Картър	Аштън Картър	PER	PER-Ashton-Carter
+2961	2972	Лион Панета	Лион Панета	PER	PER-Leon-Panetta
+2974	2984	Уилям Пери	Уилям Пери	PER	PER-William-Perry
+2986	2995	Дик Чейни	Дик Чейни	PER	PER-Dick-Cheney
+2997	3007	Уилям Коен	Уилям Коен	PER	PER-William-Cohen
+3009	3024	Доналд Ръмсфелд	Доналд Ръмсфелд	PER	PER-Donald-Rumsfeld
+3026	3038	Робърт Гейтс	Робърт Гейтс	PER	PER-Robert-Gates
+3040	3050	Чък Хейгъл	Чък Хейгъл	PER	PER-Chuck-Hagel
+3052	3064	Джеймс Матис	Джеймс Матис	PER	PER-James-Mattis
+3067	3077	Марк Еспър	Марк Еспър	PER	PER-Mark-Esper
+3095	3104	Пентагона	Пентагон	LOC	LOC-The-Pentagon
+3224	3229	Тръмп	Тръмп	PER	PER-Donald-Trump
+3423	3431	Конгреса	Конгрес	ORG	ORG-United-States-Congress
+3434	3439	Тръмп	Тръмп	PER	PER-Donald-Trump
+3483	3486	САЩ	САЩ	LOC	GPE-USA
+3533	3543	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+3624	3629	Тръмп	Тръмп	PER	PER-Donald-Trump
+3726	3733	Детройт	Детройт	LOC	GPE-Detroit
+3735	3742	Милуоки	Милуоки	LOC	GPE-Milwaukee
+3745	3755	Филаделфия	Филаделфия	LOC	GPE-Philadelphia
+3869	3882	Ню Йорк таймс	Ню Йорк Таймс	PRO	PRO-The-New-York-Times
+3963	3968	Тръмп	Тръмп	PER	PER-Donald-Trump
+4391	4396	Тръмп	Тръмп	PER	PER-Donald-Trump
+4503	4526	Демократическата партия	Демократическа партия	ORG	ORG-Democratic-Party-USA
+4568	4571	САЩ	САЩ	LOC	GPE-USA
+4576	4581	Тръмп	Тръмп	PER	PER-Donald-Trump

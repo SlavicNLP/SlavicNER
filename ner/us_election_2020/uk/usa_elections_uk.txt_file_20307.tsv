@@ -1,0 +1,146 @@
+11	17	Трампа	Трамп	PER	PER-Donald-Trump
+25	35	Леді Гагою	Леді Гага	PER	PER-Lady-Gaga
+64	75	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+76	87	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+99	110	Інавгурація	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+129	132	США	США	LOC	GPE-USA
+184	195	Інавгурація	Інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+213	216	США	США	LOC	GPE-USA
+217	228	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+252	262	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+273	282	Капітолія	Капітолій	LOC	LOC-United-States-Capitol
+295	302	Конгрес	Конгрес	ORG	ORG-United-States-Congress
+331	341	Нацгвардії	Нацгвардія	ORG	ORG-United-States-National-Guard
+380	387	Америки	Америка	LOC	GPE-USA
+667	676	Капітолія	Капітолій	LOC	LOC-United-States-Capitol
+713	723	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+736	747	інавгурація	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+759	762	США	США	LOC	GPE-USA
+785	791	ТСН.ua	ТСН.ua	PRO	PRO-TSN.ua
+814	825	інавгурація	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+826	837	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+884	893	Капітолія	Капітолій	LOC	LOC-United-States-Capitol
+897	905	пандемія	пандемія	EVT	EVT-Covid-19
+959	962	США	США	LOC	GPE-USA
+1027	1036	Нью-Йорку	Нью-Йорк	LOC	GPE-New-York
+1056	1063	Конгрес	Конгрес	ORG	ORG-United-States-Congress
+1067	1077	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+1078	1101	інавгураційна церемонія	інавгураційна церемонія	EVT	EVT-2020-United-States-presidential-inauguration
+1172	1188	Томас Джефферсон	Томас Джефферсон	PER	PER-Thomas-Jefferson
+1202	1211	Капітолії	Капітолій	LOC	LOC-United-States-Capitol
+1268	1271	США	США	LOC	GPE-USA
+1277	1290	Ендрю Джексон	Ендрю Джексон	PER	PER-Andrew-Jackson
+1294	1304	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1323	1336	Камала Гарріс	Камала Гарріс	PER	PER-Kamala-Harris
+1373	1396	Капітолійського пагорба	Капітолійський пагорб	LOC	LOC-Capitol-Hill
+1449	1455	Києвом	Київ	LOC	GPE-Kyiv
+1470	1481	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+1493	1496	США	США	LOC	GPE-USA
+1563	1566	США	США	LOC	GPE-USA
+1578	1584	Біблії	Біблія	PRO	PRO-The-Bible
+1785	1788	США	США	LOC	GPE-USA
+1789	1802	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+1818	1825	Америки	Америка	LOC	GPE-USA
+1903	1920	Сполучених Штатів	Сполучені Штати	LOC	GPE-USA
+1943	1954	Конституцію	Конституція	PRO	PRO-The-USA-Constitution
+1955	1958	США	США	LOC	GPE-USA
+2010	2013	США	США	LOC	GPE-USA
+2147	2158	коронавірус	коронавірус	EVT	EVT-Covid-19
+2167	2178	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+2196	2199	США	США	LOC	GPE-USA
+2397	2407	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+2462	2473	Білого дому	Білий дім	ORG	ORG-White-House
+2482	2489	Америки	Америка	LOC	GPE-USA
+2498	2507	Леді Гага	Леді Гага	PER	PER-Lady-Gaga
+2526	2537	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2546	2553	виборів	вибори	EVT	EVT-2020-United-States-Presidential-Election
+2602	2616	Дженіфер Лопес	Дженіфер Лопес	PER	PER-Jennifer-Lopez
+2664	2676	інавгураціях	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+2702	2714	Барака Обами	Барак Обама	PER	PER-Barack-Obama
+2725	2736	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+2747	2754	Бейонсе	Бейонсе	PER	PER-Beyoncé
+2761	2771	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+2907	2915	Дуа Ліпи	Дуа Ліпа	PER	PER-Dua-Lipa
+2917	2927	Боба Марлі	Боб Марлі	PER	PER-Bob-Marley
+2929	2936	Бейонсе	Бейонсе	PER	PER-Beyoncé
+2969	2976	Байдена	Байден	PER	PER-Joe-Biden
+3193	3200	Америки	Америка	PER	GPE-USA
+3254	3263	Капітолія	Капітолій	LOC	LOC-United-States-Capitol
+3353	3362	Капітолій	Капітолій	LOC	LOC-United-States-Capitol
+3365	3374	Білий дім	Білий дім	ORG	ORG-White-House
+3410	3421	інавгурацію	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+3676	3686	Нацгвардію	Нацгвардія	ORG	ORG-United-States-National-Guard
+3796	3804	пандемія	пандемія	EVT	EVT-Covid-19
+3947	3960	коронавірусом	коронавірус	EVT	EVT-Covid-19
+4002	4005	США	США	LOC	GPE-USA
+4087	4097	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4115	4137	інавгураційний комітет	інавгураційний комітет	ORG	ORG-Joint-Congressional-Committee-on-Inaugural-Ceremonies
+4296	4307	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+4334	4346	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+4392	4399	Україну	Україна	LOC	GPE-Ukraine
+4403	4414	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+4415	4426	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+4450	4460	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+4461	4479	Володимир Єльченко	Володимир Єльченко	PER	PER-Volodymyr-Yelchenko
+4498	4501	CNN	CNN	ORG	ORG-CNN
+4727	4735	COVID-19	COVID-19	EVT	EVT-Covid-19
+4811	4819	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+4829	4840	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+4923	4934	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+4975	4985	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+5036	5047	коронавірус	коронавірус	EVT	EVT-Covid-19
+5067	5073	Трампа	Трамп	PER	PER-Donald-Trump
+5097	5108	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+5127	5130	США	США	LOC	GPE-USA
+5191	5202	Білому домі	Білий дім	ORG	ORG-White-House
+5330	5341	Білого дому	Білий дім	ORG	ORG-White-House
+5405	5416	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+5479	5482	США	США	LOC	GPE-USA
+5483	5498	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+5580	5591	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+5608	5613	Трамп	Трамп	PER	PER-Donald-Trump
+5623	5632	Білий дім	Білий дім	ORG	ORG-White-House
+5715	5726	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+5728	5737	Джорж Буш	Джорж Буш	PER	PER-George-Bush-Jr
+5740	5752	Білл Клінтон	Білл Клінтон	PER	PER-Bill-Clinton
+5781	5784	США	США	LOC	GPE-USA
+5785	5794	Майк Пенс	Майк Пенс	PER	PER-Mike-Pence
+5809	5820	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+5894	5905	Тома Генкса	Том Генкс	PER	PER-Tom-Hanks
+5940	5959	Celebrating America	Celebrating America	PRO	PRO-Celebrating-America-Program
+5974	5985	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+5997	6000	США	США	LOC	GPE-USA
+6077	6080	ABC	ABC	PRO	PRO-ABC-News
+6082	6085	CBS	CBS	PRO	PRO-CBS-TV
+6087	6090	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+6092	6095	CNN	CNN	ORG	ORG-CNN
+6099	6104	MSNBC	MSNBC	PRO	PRO-MSNBC-TV
+6141	6148	YouTube	YouTube	PRO	PRO-YouTube
+6150	6168	Amazon Prime Video	Amazon Prime Video	PRO	PRO-Amazon-AWS
+6170	6176	Twitch	Twitch	PRO	PRO-Twitch
+6179	6186	NewsNOW	NewsNOW	PRO	PRO-NewsNOW
+6191	6194	Fox	Fox	PRO	PRO-Fox-News
+6215	6226	інавгурацію	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+6229	6232	США	США	LOC	GPE-USA
+6282	6285	США	США	LOC	GPE-USA
+6288	6295	Україні	Україна	LOC	GPE-Ukraine
+6304	6319	Верховного суду	Верховний суд	ORG	ORG-Supreme-Court-of-Pakistan
+6387	6402	Келвіна Куліджа	Келвін Кулідж	PER	PER-Calvin-Coolidge
+6502	6509	Вермонт	Вермонт	LOC	GPE-Vermont
+6568	6584	Воррена Гардінга	Воррен Гардінг	PER	PER-Warren-Harding
+6588	6599	Барак Обама	Барак Обама	PER	PER-Barack-Obama
+6655	6674	Верховного суду США	Верховний суд США	ORG	ORG-Supreme-Court-of-the-United-States
+6723	6728	Обама	Обама	PER	PER-Barack-Obama
+6894	6905	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+6906	6929	Вільяма Генрі Гаррісона	Вільям Генрі Гаррісон	PER	PER-William-Harrison
+7096	7099	США	США	LOC	GPE-USA
+7100	7116	Джордж Вашингтон	Джордж Вашингтон	PER	PER-George-Washington
+7129	7140	інавгурація	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+7204	7213	Нью-Йорку	Нью-Йорк	LOC	GPE-New-York
+7266	7277	Філадельфії	Філадельфія	LOC	GPE-Philadelphia
+7348	7358	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+7371	7382	інавгурація	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+7397	7400	США	США	LOC	GPE-USA
+7451	7459	пандемію	пандемія	EVT	EVT-Covid-19
+7631	7642	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+7645	7655	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC

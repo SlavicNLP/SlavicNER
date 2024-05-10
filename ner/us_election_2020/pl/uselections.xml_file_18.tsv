@@ -1,0 +1,31 @@
+0	12	Wybory w USA	Wybory w USA	EVT	EVT-2020-United-States-Presidential-Election
+14	26	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+34	43	Biały Dom	Biały Dom	LOC	LOC-White-House
+67	72	Trump	Trump	PER	PER-Donald-Trump
+284	289	Trump	Trump	PER	PER-Donald-Trump
+318	328	Joe Bidena	Joe Biden	PER	PER-Joe-Biden
+407	414	Georgii	Georgie	LOC	GPE-Georgia-US-state
+417	426	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+432	437	Trump	Trump	PER	PER-Donald-Trump
+492	501	Twitterze	Twitter	PRO	PRO-Twitter
+512	515	USA	USA	LOC	GPE-USA
+678	690	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+807	821	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1097	1109	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1223	1240	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1312	1317	Biden	Biden	PER	PER-Joe-Biden
+1329	1334	Obamę	Obama	PER	PER-Barack-Obama
+1393	1405	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+1504	1516	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1519	1531	Donald Trump	Donald Trump	PER	PER-Donald-Trump
+1543	1546	USA	USA	LOC	GPE-USA
+1563	1576	Republikanina	Republikanin	PER	ORG-Republican-Party-USA
+1585	1599	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+1748	1758	Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+1879	1886	Georgii	Georgia	LOC	GPE-Georgia-US-state
+1888	1899	Pensylwanii	Pensylwania	LOC	GPE-Pennsylvania
+1904	1912	Newadzie	Newada	LOC	GPE-Nevada
+2168	2171	USA	USA	LOC	GPE-USA
+2179	2188	Joe Biden	Joe Biden	PER	PER-Joe-Biden
+2256	2259	USA	USA	LOC	GPE-USA
+2267	2280	Kamala Harris	Kamala Harris	PER	PER-Kamala-Harris

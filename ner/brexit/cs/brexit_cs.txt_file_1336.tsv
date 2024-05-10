@@ -1,0 +1,17 @@
+84	91	brexitu	brexit	EVT	EVT-Brexit
+105	113	Británie	Británie	LOC	GPE-Great-Britain
+135	143	Japonska	Japonsko	LOC	GPE-Japan
+185	192	brexitu	brexit	EVT	EVT-Brexit
+281	283	EU	EU	ORG	ORG-European-Union
+291	297	Londýn	Londýn	LOC	GPE-London
+364	379	Evropská komise	Evropská komise	ORG	ORG-European-Commission
+462	470	Británie	Británie	LOC	GPE-Great-Britain
+473	475	EU	EU	ORG	ORG-European-Union
+583	598	Theresu Mayovou	Theresa Mayová	PER	PER-Theresa-May
+671	678	Japonci	Japonci	PER	GPE-Japan
+760	773	Koji Tsuruoka	Koji Tsuruoka	PER	PER-Koji-Tsoruoka
+798	806	Británii	Británie	LOC	GPE-Great-Britain
+861	867	Mayová	Mayová	PER	PER-Theresa-May
+958	964	Nissan	Nissan	ORG	ORG-Nissan
+972	978	Nomura	Nomura	ORG	ORG-Nomura-Holdings-Inc
+1012	1020	SoftBank	SoftBank	ORG	ORG-SoftBank

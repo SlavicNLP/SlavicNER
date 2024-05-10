@@ -1,0 +1,30 @@
+32	37	Tuska	Tusk	PER	PER-Donald-Tusk
+65	72	brexitu	Brexit	EVT	EVT-Brexit
+75	91	Rada [Europejska	Rada Europejska	ORG	ORG-European-Council
+136	148	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+170	174	UE27	UE27	ORG	ORG-European-Union
+323	330	brexitu	Brexit	EVT	EVT-Brexit
+338	353	Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+416	429	Europejczyków	Europejczycy	PER	LOC-Europe
+582	589	brexitu	Brexit	EVT	EVT-Brexit
+654	659	Tuska	Tusk	PER	PER-Donald-Tusk
+708	710	UE	UE	ORG	ORG-European-Union
+888	894	Europy	Europa	LOC	LOC-Europe
+937	949	The Guardian	The Guardian	PRO	PRO-The-Guardian
+991	995	Tusk	Tusk	PER	PER-Donald-Tusk
+1016	1033	Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+1148	1160	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+1163	1165	UE	UE	ORG	ORG-European-Union
+1223	1225	PE	PE	ORG	ORG-European-Parliament
+1237	1250	Davida Davisa	David Davis	PER	PER-David-Davis
+1278	1285	brexitu	Brexit	EVT	EVT-Brexit
+1323	1340	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+1343	1350	Europie	Europa	LOC	LOC-Europe
+1370	1372	PE	PE	ORG	ORG-European-Parliament
+1496	1498	UE	UE	ORG	ORG-European-Union
+1515	1517	UE	UE	ORG	ORG-European-Union
+1578	1589	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+1592	1599	Europie	Europa	LOC	LOC-Europe
+1628	1636	brexicie	Brexit	EVT	EVT-Brexit
+1686	1688	UE	UE	ORG	ORG-European-Union
+1984	1989	Tuska	Tusk	PER	PER-Donald-Tusk

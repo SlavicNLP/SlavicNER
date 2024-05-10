@@ -1,0 +1,114 @@
+9	20	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+24	32	COVID-19	COVID-19	EVT	EVT-Covid-19
+97	108	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+112	120	COVID-19	COVID-19	EVT	EVT-Covid-19
+207	227	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+263	274	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+278	290	коронавируса	коронавирус	EVT	EVT-Covid-19
+359	367	COVID-19	COVID-19	EVT	EVT-Covid-19
+475	486	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+583	595	коронавируса	коронавирус	EVT	EVT-Covid-19
+607	615	COVID-19	COVID-19	EVT	EVT-Covid-19
+762	768	Россия	Россия	LOC	GPE-Russia
+1022	1035	коронавирусом	коронавирус	EVT	EVT-Covid-19
+1044	1064	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+1089	1101	коронавируса	коронавирус	EVT	EVT-Covid-19
+1157	1169	коронавируса	коронавирус	EVT	EVT-Covid-19
+1280	1286	России	Россия	LOC	GPE-Russia
+1290	1305	НИИ им. Гамалеи	НИИ им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+1350	1362	««Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+1389	1406	Минздравом России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+1410	1431	Волгоградской области	Волгоградская область	LOC	GPE-Volgograd-region
+1584	1595	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+1791	1824	Российский фонд прямых инвестиций	Российский фонд прямых инвестиций	ORG	ORG-Russian-Direct-Investment-Fund
+1866	1871	Индии	Индия	LOC	GPE-India
+1873	1878	Корее	Корея	LOC	GPE-Korea
+1880	1888	Бразилии	Бразилия	LOC	GPE-Brazil
+1891	1896	Китае	Китай	LOC	GPE-China
+1932	1947	Минздрав России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
+2011	2023	коронавируса	коронавирус	EVT	EVT-Covid-19
+2096	2116	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+2190	2212	госпитале им. Бурденко	госпиталь им. Бурденко	ORG	ORG-Burdenko-Main-Military-Clinical-Hospital
+2336	2360	Сеченовском университете	Сеченовский университет	ORG	ORG-Sechenov-First-Moscow-State-Medical-University
+2518	2530	коронавирусу	коронавирус	EVT	EVT-Covid-19
+2947	3033	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+3152	3172	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+3199	3216	Центр им. Гамалея	Центр им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+3641	3652	коронавирус	коронавирус	EVT	EVT-Covid-19
+3688	3694	России	Россия	LOC	GPE-Russia
+3759	3773	«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+3798	3810	«Спутника V»	Спутник V	PRO	PRO-Sputnik-V
+3900	3911	НИИ Гамалеи	НИИ Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+3981	3995	«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+4108	4120	коронавирусе	коронавирус	EVT	EVT-Covid-19
+4213	4225	коронавируса	коронавирус	EVT	EVT-Covid-19
+4357	4368	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+4571	4591	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+5113	5121	COVID-19	COVID-19	EVT	EVT-Covid-19
+5235	5246	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+5263	5278	«ЭпиВакКороной»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+5342	5354	коронавируса	коронавирус	EVT	EVT-Covid-19
+5763	5783	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+6213	6228	«ЭпиВакКороной»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+6500	6520	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+6542	6548	России	Россия	LOC	GPE-Russia
+6634	6649	Росздравнадзора	Росздравнадзор	ORG	ORG-Russian-Federal-Service-for-Surveillance-in-Healthcare
+6671	6689	центра им. Гамалеи	центра им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+6690	6708	Александр Гинцбург	Александр Гинцбург	PER	PER-Alexander-Ginzburg
+7137	7157	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+7189	7201	коронавируса	коронавирус	EVT	EVT-Covid-19
+7204	7210	России	Россия	LOC	GPE-Russia
+7269	7275	России	Россия	LOC	GPE-Russia
+7292	7313	Волгоградской области	Волгоградская область	LOC	GPE-Volgograd-region
+7440	7449	Госуслуги	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+7475	7496	Волгоградскую область	Волгоградская область	LOC	GPE-Volgograd-region
+7524	7535	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+7723	7735	коронавируса	коронавирус	EVT	EVT-Covid-19
+7736	7750	«ЭпиВакКорона»	ЭпиВакКорона	PRO	PRO-EpiVacCorona
+7845	7881	Закон об иммунопрофилактике № 157-ФЗ	Закон об иммунопрофилактике № 157-ФЗ	PRO	PRO-Law-on-Immunoprophylaxis-of-Infectious-Diseases-Russia
+8106	8126	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+8200	8206	России	Россия	LOC	GPE-Russia
+8367	8379	коронавируса	коронавирус	EVT	EVT-Covid-19
+8489	8502	коронавирусом	коронавирус	EVT	EVT-Covid-19
+8986	8994	COVID-19	COVID-19	EVT	EVT-Covid-19
+9019	9032	коронавирусом	коронавирус	EVT	EVT-Covid-19
+9183	9194	коронавирус	коронавирус	EVT	EVT-Covid-19
+9377	9401	коронавирусной инфекцией	коронавирусная инфекция	EVT	EVT-Covid-19
+9410	9430	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+9479	9491	коронавируса	коронавирус	EVT	EVT-Covid-19
+9506	9524	центра им. Гамалеи	центр им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+10069	10080	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+10091	10197	Национального исследовательского центра эпидемиологии и микробиологии имени Н. Ф. Гамалеи Минздрава России	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи Минздрава России	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
+10198	10216	Александр Гинцбург	Александр Гинцбург	PER	PER-Alexander-Ginzburg
+10226	10233	россиян	россияне	PER	GPE-Russia
+10375	10387	коронавируса	коронавирус	EVT	EVT-Covid-19
+10476	10511	Министерство здравоохранения России	Министерство здравоохранения России	ORG	ORG-Ministry-of-Health-Russia
+10632	10643	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
+10657	10694	Федеральной антимонопольной службы РФ	Федеральная антимонопольная служба РФ	ORG	ORG-Federal-Antimonopoly-Service-of-Russia
+10816	10819	ФАС	ФАС	ORG	ORG-Federal-Antimonopoly-Service-of-Russia
+10859	10879	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+10906	10915	россиянам	россияне	PER	GPE-Russia
+11145	11157	коронавируса	коронавирус	EVT	EVT-Covid-19
+11288	11300	коронавируса	коронавирус	EVT	EVT-Covid-19
+11391	11398	Израиле	Израиль	LOC	GPE-Israel
+11560	11567	Израиля	Израиль	LOC	GPE-Israel
+11592	11600	Ковидный	Ковидный	EVT	EVT-Covid-19
+11641	11649	Госуслуг	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+11726	11732	России	Россия	LOC	GPE-Russia
+11743	11757	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+11985	11992	россиян	россияне	PER	GPE-Russia
+12009	12029	novostivolgograda.ru	novostivolgograda.ru	PRO	ORG-Novosti-Volgograda
+12056	12068	коронавируса	коронавирус	EVT	EVT-Covid-19
+12071	12092	Волгоградской области	Волгоградская область	LOC	GPE-Volgograd-region
+12200	12212	коронавируса	коронавирус	EVT	EVT-Covid-19
+12571	12581	Волгограде	Волгоград	LOC	GPE-Volgograd
+12674	12682	Волжском	Волжский	LOC	LOC-Volzhsky
+12708	12729	больнице имени Фишера	больница имени Фишера	LOC	LOC-Fisher-Hospital
+12733	12741	Камышине	Камышин	LOC	GPE-Kamyshin
+12746	12768	городской больнице № 1	городская больница № 1	LOC	LOC-City-Hospital-No1
+12772	12782	Михайловке	Михайловка	LOC	GPE-Mikhaylovka-Volgograd-region
+12785	12794	Урюпинске	Урюпинск	LOC	GPE-Uryupinsk
+12895	12903	COVID-19	COVID-19	EVT	EVT-Covid-19
+12935	12943	Госуслуг	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+13172	13267	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+13335	13396	Общество с ограниченной ответственностью «ПремьерМедиаИнвест»	Общество с ограниченной ответственностью «ПремьерМедиаИнвест»	ORG	ORG-Premier-Media-Invest

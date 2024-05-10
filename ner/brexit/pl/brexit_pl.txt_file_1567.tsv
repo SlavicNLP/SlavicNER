@@ -1,0 +1,67 @@
+0	8	Brexodus	Brexodus	EVT	EVT-Brexit
+44	51	Polaków	Polacy	PER	GPE-Poland
+69	74	Wyspy	Wyspy	LOC	GPE-Great-Britain
+94	101	Brexitu	Brexit	EVT	EVT-Brexit
+160	167	Polaków	Polacy	PER	GPE-Poland
+171	194	Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+292	300	Londynie	Londyn	LOC	GPE-London
+325	333	money.pl	money.pl	PRO	PRO-money.pl
+334	338	Anna	Anna	PER	PER-Anna
+357	363	Polski	Polska	LOC	GPE-Poland
+380	387	Wyspach	Wyspy	LOC	GPE-Great-Britain
+465	473	Brexitem	Brexit	EVT	EVT-Brexit
+491	499	Polakiem	Polak	PER	GPE-Poland
+503	510	Wyspach	Wyspy	LOC	GPE-Great-Britain
+704	712	money.pl	money.pl	PRO	PRO-money.pl
+713	719	Bartek	Bartek	PER	PER-Bartek
+742	749	Wyspach	Wyspy	LOC	GPE-Great-Britain
+771	776	Czech	Czechy	LOC	GPE-Czech-Republic
+873	881	Czechach	Czechy	LOC	GPE-Czech-Republic
+931	947	Janusza Kobeszko	Janusz Kobeszko	PER	PER-Janusz-Kobeszko
+950	971	Instytutu Sobieskiego	Instytut Sobieskiego	ORG	ORG-Sobieski-Institute
+1267	1271	Gosi	Gosia	PER	PER-Gosia
+1294	1302	Londynie	Londyn	LOC	GPE-London
+1575	1596	Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+1747	1756	Anglikami	Anglicy	PER	GPE-Great-Britain
+1852	1860	money.pl	money.pl	PRO	PRO-money.pl
+1861	1866	Gosia	Gosia	PER	PER-Gosia
+1902	1910	Brexitem	Brexit	EVT	EVT-Brexit
+2001	2012	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+2197	2206	Australii	Australia	LOC	GPE-Australia
+2211	2217	Kanady	Kanada	LOC	GPE-Canada
+2242	2249	Wyspach	Wyspy	LOC	GPE-Great-Britain
+2259	2269	wyspiarzom	Wyspiarze	PER	GPE-Great-Britain
+2364	2370	Afryki	Afryka	LOC	LOC-Africa
+2375	2392	Europy Wschodniej	Europa Wschodnia	LOC	LOC-Eastern-Europe
+2400	2405	Gosia	Gosia	PER	PER-Gosia
+2477	2484	Wyspach	Wyspy	LOC	GPE-Great-Britain
+2542	2550	Karaibów	Karaiby	LOC	LOC-Caribbean
+2677	2687	Amber Rudd	Amber Rudd	PER	PER-Amber-Rudd
+2822	2827	Wyspy	Wyspy	LOC	GPE-Great-Britain
+2843	2851	Karaibów	Karaiby	LOC	LOC-Caribbean
+2883	2900	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+2966	2969	MSW	MSW	ORG	ORG-Home-Office-UK
+3148	3165	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3255	3263	Windrush	Windrush	PRO	PRO-Windrush
+3272	3287	Empire Windrush	Empire Windrush	PRO	PRO-Windrush
+3322	3330	Karaibów	Karaiby	LOC	LOC-Caribbean
+3369	3393	drugiej wojnie światowej	Druga Wojna Światowa	EVT	EVT-World-War-II
+3409	3426	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+3520	3524	Anny	Anna	PER	PER-Anna
+3720	3725	Polka	Polka	PER	GPE-Poland
+3834	3838	Anna	Anna	PER	PER-Anna
+3840	3846	Czechy	Czechy	LOC	GPE-Czech-Republic
+3864	3870	Polską	Polska	LOC	GPE-Poland
+3883	3887	Anny	Anna	PER	PER-Anna
+4056	4064	Londynie	Londyn	LOC	GPE-London
+4184	4190	Polsce	Polska	LOC	GPE-Poland
+4664	4670	Polsce	Polska	LOC	GPE-Poland
+4713	4720	Wyspach	Wyspy	LOC	GPE-Great-Britain
+4728	4732	Anna	Anna	PER	PER-Anna
+5060	5066	Polsce	Polska	LOC	GPE-Poland
+5082	5089	Wyspach	Wyspy	LOC	GPE-Great-Britain
+5099	5103	Anna	Anna	PER	PER-Anna
+5222	5227	Czesi	Czesi	PER	GPE-Czech-Republic
+5274	5285	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+5424	5430	Bartek	Bartek	PER	PER-Bartek
+5999	6003	Anna	Anna	PER	PER-Anna

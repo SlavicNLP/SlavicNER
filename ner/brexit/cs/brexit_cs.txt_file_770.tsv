@@ -1,0 +1,29 @@
+45	52	brexitu	brexit	EVT	EVT-Brexit
+72	78	LONDÝN	LONDÝN	LOC	GPE-London
+79	86	Reuters	Reuters	ORG	ORG-Reuters
+114	124	labouristů	labouristé	PER	ORG-Labour-Party-UK
+125	138	Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+236	249	Evropské unie	Evropská unie	ORG	ORG-European-Union
+257	269	Owena Smithe	Owen Smith	PER	PER-Owen-Smith
+371	386	Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+388	393	Smith	Smith	PER	PER-Owen-Smith
+419	429	Corbynovým	Corbyn	PER	PER-Jeremy-Corbyn
+473	479	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+508	516	twitteru	twitter	PRO	PRO-Twitter
+520	525	Smith	Smith	PER	PER-Owen-Smith
+544	550	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+590	596	brexit	brexit	EVT	EVT-Brexit
+615	620	Smith	Smith	PER	PER-Owen-Smith
+662	674	The Guardian	The Guardian	PRO	PRO-The-Guardian
+706	711	Smith	Smith	PER	PER-Owen-Smith
+755	762	Britové	Britové	PER	GPE-Great-Britain
+804	812	Británie	Británie	LOC	GPE-Great-Britain
+815	817	EU	EU	ORG	ORG-European-Union
+897	902	Smith	Smith	PER	PER-Owen-Smith
+951	957	Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+1050	1055	Britů	Britové	PER	GPE-Great-Britain
+1070	1076	brexit	brexit	EVT	EVT-Brexit
+1087	1093	Smithe	Smith	PER	PER-Owen-Smith
+1126	1135	Corbynovi	Corbyn	PER	PER-Jeremy-Corbyn
+1158	1168	Peter Hain	Peter Hain	PER	PER-Peter-Hain
+1198	1209	stalinskými	stalin	PER	PER-Stalin

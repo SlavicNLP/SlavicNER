@@ -1,0 +1,11 @@
+21	27	Лондон	Лондон	LOC	GPE-London
+31	36	София	София	LOC	GPE-Sofia
+41	48	Букурещ	Букурещ	LOC	GPE-Bucharest
+60	68	Райънеър	Райънеър	ORG	ORG-Ryanair
+92	100	Станстед	Станстед	LOC	LOC-Stansted-airport
+104	109	София	София	LOC	GPE-Sofia
+129	136	Букурещ	Букурещ	LOC	GPE-Bucharest
+165	168	БНТ	БНТ	PRO	PRO-Bulgarian-National-Television
+253	258	София	София	LOC	GPE-Sofia
+288	293	София	София	LOC	LOC-Sofia-airport
+458	462	ТРУД	Труд	PRO	PRO-Trud

@@ -1,0 +1,9 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+48	53	Walii	Walia	LOC	GPE-Wales
+215	223	Brexitem	Brexit	EVT	EVT-Brexit
+236	253	Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+256	273	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+338	350	Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+398	400	UE	UE	ORG	ORG-European-Union
+412	423	Walijczyków	Walijczycy	PER	GPE-Wales
+501	539	Krajowa Izba Producentów Drobiu i Pasz	Krajowa Izba Producentów Drobiu i Pasz	ORG	ORG-KIPDIP-Krajowa-Izba-Producentów-Drobiu-i-

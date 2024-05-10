@@ -1,0 +1,45 @@
+0	5	Трамп	Трамп	PER	PER-Donald-Trump
+13	20	Байдена	Байден	PER	PER-Joe-Biden
+47	50	США	США	LOC	GPE-USA
+76	82	Байден	Байден	PER	PER-Joe-Biden
+96	118	Демократическую партию	Демократическая партия	ORG	ORG-Democratic-Party-USA
+122	127	Трамп	Трамп	PER	PER-Donald-Trump
+130	145	Республиканскую	Республиканская	ORG	ORG-Republican-Party-USA
+219	222	США	США	LOC	GPE-USA
+244	263	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
+275	288	Джозеф Байден	Джозеф Байден	PER	PER-Joe-Biden
+389	404	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+557	565	Fox News	Fox News	PRO	PRO-Fox-News
+582	588	Невады	Невада	LOC	GPE-Nevada
+590	602	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+604	621	Северной Каролины	Северная Каролина	LOC	GPE-North-Carolina-US-State
+623	631	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+634	640	Аляски	Аляска	LOC	GPE-Alaska
+705	711	Неваде	Невада	LOC	GPE-Nevada
+752	758	Байден	Байден	PER	PER-Joe-Biden
+781	798	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
+824	829	Трамп	Трамп	PER	PER-Donald-Trump
+860	868	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
+894	899	Трамп	Трамп	PER	PER-Donald-Trump
+912	924	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+957	962	Трамп	Трамп	PER	PER-Donald-Trump
+986	992	Аляске	Аляска	LOC	GPE-Alaska
+1022	1027	Трамп	Трамп	PER	PER-Donald-Trump
+1083	1089	Аляски	Аляска	LOC	GPE-Alaska
+1156	1168	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
+1229	1235	Неваде	Невада	LOC	GPE-Nevada
+1329	1335	Байден	Байден	PER	PER-Joe-Biden
+1464	1467	СNN	СNN	ORG	ORG-CNN
+1470	1484	New York Times	New York Times	ORG	ORG-New-York-Times
+1501	1513	американские	американский	LOC	GPE-USA
+1523	1526	CNN	CNN	ORG	ORG-CNN
+1529	1543	New York Times	New York Times	ORG	ORG-New-York-Times
+1614	1620	Байден	Байден	PER	PER-Joe-Biden
+1642	1645	США	США	LOC	GPE-USA
+1712	1718	Аляске	Аляска	LOC	GPE-Alaska
+1726	1731	Трамп	Трамп	PER	PER-Donald-Trump
+1739	1745	Байден	Байден	PER	PER-Joe-Biden
+1792	1797	Трамп	Трамп	PER	PER-Donald-Trump
+1824	1840	Рональда Рейгана	Рональд Рейган	PER	PER-Ronald-Reagan
+1919	1925	Байден	Байден	PER	PER-Joe-Biden
+2007	2010	США	США	LOC	GPE-USA

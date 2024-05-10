@@ -1,0 +1,89 @@
+62	76	Michelle Obama	Michelle Obama	PER	PER-MIchelle-Obama
+78	93	Bernie Sandersa	Bernie Sanders	PER	PER-Bernie-Sanders
+104	114	demokratov	demokrati	PER	ORG-Democratic-Party-USA
+145	148	ZDA	ZDA	LOC	GPE-USA
+149	163	Michelle Obama	Michelle Obama	PER	PER-MIchelle-Obama
+257	270	Josepha Bidna	Joseph Biden	PER	PER-Joe-Biden
+350	364	Donaldu Trumpu	Donald Trump	PER	PER-Donald-Trump
+411	416	Trump	Trump	PER	PER-Donald-Trump
+426	432	Bidnom	Biden	PER	PER-Joe-Biden
+593	599	Bidnom	Biden	PER	PER-Joe-Biden
+613	620	Amerika	Amerika	LOC	GPE-USA
+653	658	Trump	Trump	PER	PER-Donald-Trump
+760	769	Minnesoti	Minnesota	LOC	GPE-Minnesota
+773	783	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+811	820	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+885	896	Milwaukeeju	Milwaukee	LOC	GPE-Milwaukee
+906	915	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+973	980	Amerike	Amerika	LOC	GPE-USA
+1063	1075	Eva Longoria	Eva Longoria	PER	PER-Eva-Longoria
+1208	1213	Biden	Biden	PER	PER-Joe-Biden
+1285	1293	Delaware	Delaware	LOC	GPE-Delaware
+1476	1483	Trumpom	Trump	PER	PER-Donald-Trump
+1619	1626	Amerike	Amerika	LOC	GPE-USA
+1643	1652	Trumpovih	Trump	PER	PER-Donald-Trump
+1664	1673	demokrati	demokrati	ORG	ORG-Democratic-Party-USA
+1762	1775	republikancev	republikanci	ORG	ORG-Republican-Party-USA
+1820	1824	Ohia	Ohio	LOC	GPE-Ohio
+1825	1836	John Kasich	John Kasich	PER	PER-John-Kasich
+1924	1937	Republikancem	Republikanci	ORG	ORG-Republican-Party-USA
+1955	1960	Biden	Biden	PER	PER-Joe-Biden
+2074	2086	New Jerseyja	New Jersey	LOC	GPE-New-Jersey
+2087	2108	Christie Todd Whitman	Christie Todd Whitman	PER	PER-Christie-Todd-Whitman
+2131	2147	Hewlett Packarda	Hewlett Packard	ORG	ORG-Hewlett-Packard
+2148	2159	Meg Whitman	Meg Whitman	PER	PER-Meg-Whitman
+2187	2196	New Yorka	New York	LOC	GPE-New-York
+2197	2211	Susan Molinari	Susan Molinari	PER	PER-Susan-Molinari
+2315	2327	republikance	republikanci	PER	ORG-Republican-Party-USA
+2378	2383	Bidna	Biden	PER	PER-Joe-Biden
+2429	2432	ZDA	ZDA	LOC	GPE-USA
+2482	2494	koronavirusa	koronavirus	EVT	EVT-Covid-19
+2559	2565	Trumpa	Trump	PER	PER-Donald-Trump
+2599	2613	Georgea Floyda	George Floyd	PER	PER-George-Floyd
+2650	2662	Minneapolisu	Minneapolis	LOC	GPE-Minneapolis
+2844	2847	ZDA	ZDA	LOC	GPE-USA
+2848	2861	Muriel Bowser	Muriel Bowser	PER	PER-Muriel-Bowser
+2876	2887	Washingtona	Washington	LOC	GPE-WashingtonDC
+2920	2942	Črna življenja štejejo	Črna življenja štejejo	PRO	PRO-Black-Lives-Matter
+2989	2992	ZDA	ZDA	LOC	GPE-USA
+3012	3017	Trump	Trump	PER	PER-Donald-Trump
+3049	3063	trgu Lafayette	trg Lafayette	LOC	LOC-Lafayette-Square
+3069	3078	Belo hišo	Bela hiša	LOC	LOC-White-House
+3273	3285	Andrew Cuomo	Andrew Cuomo	PER	PER-Andrew-Cuomo
+3369	3381	koronavirusa	koronavirus	EVT	EVT-Covid-19
+3477	3482	Cuomo	Cuomo	PER	PER-Andrew-Cuomo
+3499	3504	Trump	Trump	PER	PER-Donald-Trump
+3516	3525	New Yorka	New York	LOC	GPE-New-York
+3572	3581	Minnesote	Minnesota	LOC	GPE-Minnesota
+3582	3595	Amy Klobuchar	Amy Klobuchar	PER	PER-Amy-Klobuchar
+3617	3622	Bidna	Biden	PER	PER-Joe-Biden
+3638	3644	Trumpa	Trump	PER	PER-Donald-Trump
+3694	3701	Bidnovi	Biden	PER	PER-Joe-Biden
+3767	3779	New Jerseyja	New Jersey	LOC	GPE-New-Jersey
+3780	3791	Cory Booker	Cory Booker	PER	PER-Cory-Booker
+3822	3835	Beto O’Rourke	Beto O’Rourke	PER	PER-Beto-O'Rourke
+3847	3857	Tom Steyer	Tom Steyer	PER	PER-Tom-Steyer
+3879	3897	Kirsten Gillibrand	Kirsten Gillibrand	PER	PER-Kirsten-Gillibrand
+3909	3920	Andrew Yang	Andrew Yang	PER	PER-Andrew-Yang
+3933	3943	Demokratov	Demokrati	ORG	ORG-Democratic-Party-USA
+3974	3979	Bidnu	Biden	PER	PER-Joe-Biden
+4020	4030	Washington	Washington	LOC	GPE-WashingtonDC
+4031	4041	Jay Inslee	Jay Inslee	PER	PER-Jay-Inslee
+4086	4092	Trumpu	Trump	PER	PER-Donald-Trump
+4097	4102	Bidnu	Biden	PER	PER-Joe-Biden
+4163	4171	Vermonta	Vermont	LOC	GPE-Vermont
+4172	4186	Bernie Sanders	Bernie Sanders	PER	PER-Bernie-Sanders
+4208	4213	Trump	Trump	PER	PER-Donald-Trump
+4226	4229	ZDA	ZDA	LOC	GPE-USA
+4281	4293	koronavirusa	koronavirus	EVT	EVT-Covid-19
+4413	4418	Neron	Neron	PER	PER-Nero
+4437	4440	Rim	Rim	LOC	GPE-Rome
+4448	4453	Trump	Trump	PER	PER-Donald-Trump
+4478	4485	Sanders	Sanders	PER	PER-Bernie-Sanders
+4551	4557	Trumpa	Trump	PER	PER-Donald-Trump
+4596	4601	Bidna	Biden	PER	PER-Joe-Biden
+4686	4696	Američanom	Američani	PER	GPE-USA
+4854	4868	Michelle Obama	Michelle Obama	PER	PER-MIchelle-Obama
+4950	4955	Trump	Trump	PER	PER-Donald-Trump
+5106	5111	Joeja	Joe	PER	PER-Joe-Biden
+5243	5248	Bidnu	Biden	PER	PER-Joe-Biden

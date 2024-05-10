@@ -1,0 +1,41 @@
+0	3	USA	USA	LOC	GPE-USA
+50	63	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+92	105	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+206	214	Berlinie	Berlin	LOC	GPE-Berlin
+215	229	Sandra Oudkirk	Sandra Oudkirk	PER	PER-Sandra-Oudkirk
+232	280	Biura ds. Zasobów Energii Departamentu Stanu USA	Biuro ds. Zasobów Energii Departamentu Stanu USA	ORG	ORG-Bureau-of-Energy-Resources-US-Department-of-State
+298	315	Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+341	354	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+409	414	Rosji	Rosja	LOC	GPE-Russia
+417	424	Europie	Europa	LOC	LOC-Europe
+501	508	Oudkirk	Oudkirk	PER	PER-Sandra-Oudkirk
+554	559	Rosji	Rosja	LOC	GPE-Russia
+569	576	Niemiec	Niemcy	LOC	GPE-Germany
+577	590	Angeli Merkel	Angela Merkel	PER	PER-Angela-Merkel
+600	605	Soczi	Soczi	LOC	GPE-Sochi
+631	649	Władimirem Putinem	Władimir Putin	PER	PER-Vladimir-Putin
+694	707	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+709	716	Oudkirk	Oudkirk	PER	PER-Sandra-Oudkirk
+761	766	Rosji	Rosja	LOC	GPE-Russia
+770	777	Niemiec	Niemcy	LOC	GPE-Germany
+791	798	Ukrainy	Ukraina	LOC	GPE-Ukraine
+889	895	Europy	Europa	LOC	LOC-Europe
+991	996	Rosji	Rosja	LOC	GPE-Russia
+1041	1056	Morzu Bałtyckim	Morze Bałtyckie	LOC	LOC-Baltic-Sea
+1075	1078	USA	USA	LOC	GPE-USA
+1382	1389	Oudkirk	Oudkirk	PER	PER-Sandra-Oudkirk
+1411	1433	Departamentu Stanu USA	Departament Stanu USA	ORG	ORG-Department-of-State-USA
+1434	1448	Heather Nauert	Heather Nauert	PER	PER-Heather-Nauert
+1469	1482	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1546	1552	Europy	Europa	LOC	LOC-Europe
+1560	1565	Rosji	Rosja	LOC	GPE-Russia
+1605	1611	Europy	Europa	LOC	LOC-Europe
+1622	1629	Ukraina	Ukraina	LOC	GPE-Ukraine
+1644	1649	Rosja	Rosja	LOC	GPE-Russia
+1678	1685	Ukrainy	Ukraina	LOC	GPE-Ukraine
+1892	1905	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+1919	1928	Niemczech	Niemcy	LOC	GPE-Germany
+1957	1962	Rosji	Rosja	LOC	GPE-Russia
+1971	1978	Bałtyku	Bałtyk	LOC	LOC-Baltic-Sea
+2022	2033	Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+2035	2057	Polska Agencja Prasowa	Polska Agencja Prasowa	ORG	ORG-PAP-Polish-Press-Agency

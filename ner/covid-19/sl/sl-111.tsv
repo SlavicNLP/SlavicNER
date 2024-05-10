@@ -1,0 +1,53 @@
+2	8	Grčijo	Grčija	LOC	GPE-Greece
+54	63	Slovenije	Slovenija	LOC	GPE-Slovenia
+119	129	COVID – 19	COVID – 19	EVT	EVT-Covid-19
+262	297	grškega veleposlaništva v Sloveniji	grško veleposlaništvo v Sloveniji	ORG	ORG-Embassy-of-Greece-in-Ljubljana
+357	363	Grčijo	Grčija	LOC	GPE-Greece
+408	417	Slovenija	Slovenija	LOC	GPE-Slovenia
+449	455	Atenah	Atene	LOC	GPE-Athens
+461	467	Solunu	Solun	LOC	LOC-Thessaloniki-Airport
+608	615	Nemčija	Nemčija	LOC	GPE-Germany
+617	625	Avstrija	Avstrija	LOC	GPE-Austria
+627	634	Hrvaška	Hrvaška	LOC	GPE-Croatia
+636	644	Kitajska	Kitajska	LOC	GPE-China
+648	656	Japonska	Japonska	LOC	GPE-Japan
+703	737	grškem veleposlaništvu v Ljubljani	grško veleposlaništvo v Ljubljani	ORG	ORG-Embassy-of-Greece-in-Ljubljana
+876	886	COVID – 19	COVID – 19	EVT	EVT-Covid-19
+998	1014	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+1028	1035	Nemčije	Nemčija	LOC	GPE-Germany
+1084	1089	Atene	Atene	LOC	GPE-Athens
+1247	1250	dpa	dpa	ORG	ORG-DPA
+1273	1282	Slovenije	Slovenija	LOC	GPE-Slovenia
+1302	1310	Albanija	Albanija	LOC	GPE-Albania
+1312	1322	Avstralija	Avstralija	LOC	GPE-Australia
+1324	1332	Avstrija	Avstrija	LOC	GPE-Austria
+1334	1352	Severna Makedonija	Severna Makedonija	LOC	GPE-North-Macedonia
+1354	1363	Bolgarija	Bolgarija	LOC	GPE-Bulgaria
+1365	1372	Nemčija	Nemčija	LOC	GPE-Germany
+1374	1380	Danska	Danska	LOC	GPE-Denmark
+1382	1387	Švica	Švica	LOC	GPE-Switzerland
+1389	1397	Estonija	Estonija	LOC	GPE-Estonia
+1399	1407	Japonska	Japonska	LOC	GPE-Japan
+1409	1415	Izrael	Izrael	LOC	GPE-Israel
+1417	1425	Kitajska	Kitajska	LOC	GPE-China
+1427	1434	Hrvaška	Hrvaška	LOC	GPE-Croatia
+1436	1441	Ciper	Ciper	LOC	GPE-Cyprus
+1443	1450	Latvija	Latvija	LOC	GPE-Latvia
+1452	1459	Libanon	Libanon	LOC	GPE-Lebanon
+1461	1466	Litva	Litva	LOC	GPE-Lithuania
+1468	1473	Malta	Malta	LOC	GPE-Malta
+1475	1484	Črna Gora	Črna Gora	LOC	GPE-Montenegro
+1486	1494	Romunija	Romunija	LOC	GPE-Romania
+1496	1510	Nova Zelandija	Nova Zelandija	LOC	GPE-New-Zealand
+1512	1520	Norveška	Norveška	LOC	GPE-Norway
+1522	1534	Južna Koreja	Južna Koreja	LOC	GPE-South-Korea
+1536	1545	Madžarska	Madžarska	LOC	GPE-Hungary
+1547	1553	Srbija	Srbija	LOC	GPE-Serbia
+1555	1563	Slovaška	Slovaška	LOC	GPE-Slovakia
+1565	1570	Češka	Češka	LOC	GPE-Czech-Republic
+1574	1580	Finska	Finsko	LOC	GPE-Finland
+1592	1601	Slovenija	Slovenija	LOC	GPE-Slovenia
+1604	1610	Grčiji	Grčija	LOC	GPE-Greece
+1617	1622	Cipru	Ciper	LOC	GPE-Cyprus
+1701	1706	Ciper	Ciper	LOC	GPE-Cyprus
+1759	1761	EU	EU	ORG	ORG-European-Union

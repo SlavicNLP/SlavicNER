@@ -1,0 +1,38 @@
+6	20	Великобритания	Великобритания	LOC	GPE-Great-Britain
+48	57	унгарците	унгарци	PER	GPE-Hungary
+65	72	Брекзит	Брекзит	EVT	EVT-Brexit
+74	88	Великобритания	Великобритания	LOC	GPE-Great-Britain
+151	167	Централна Европа	Централна Европа	LOC	LOC-Central-Europe
+175	183	Брекзита	Брекзит	EVT	EVT-Brexit
+209	218	унгарците	унгарци	PER	GPE-Hungary
+288	301	Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+326	334	Будапеща	Будапеща	LOC	GPE-Budapest
+344	351	Ройтерс	Ройтерс	ORG	ORG-Reuters
+386	398	Петер Сиярто	Петер Сиярто	PER	PER-Peter-Szijjarto
+399	406	Джонсън	Джонсън	PER	PER-Boris-Johnson
+424	434	британците	британци	PER	GPE-Great-Britain
+437	444	Унгария	Унгария	LOC	GPE-Hungary
+541	543	ЕС	ЕС	ORG	ORG-European-Union
+575	589	Великобритания	Великобритания	LOC	GPE-Great-Britain
+674	676	ЕС	ЕС	ORG	ORG-European-Union
+687	694	Ройтерс	Ройтерс	ORG	ORG-Reuters
+708	711	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+753	767	Великобритания	Великобритания	LOC	GPE-Great-Britain
+838	854	Централна Европа	Централна Европа	LOC	LOC-Central-Europe
+866	873	Джонсън	Джонсън	PER	PER-Boris-Johnson
+945	954	унгарците	унгарци	PER	GPE-Hungary
+959	973	Великобритания	Великобритания	LOC	GPE-Great-Britain
+981	988	Ройтерс	Ройтерс	ORG	ORG-Reuters
+1106	1108	ЕС	ЕС	ORG	ORG-European-Union
+1130	1144	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1170	1178	Брекзита	Брекзит	EVT	EVT-Brexit
+1408	1418	британците	британци	PER	GPE-Great-Britain
+1431	1433	ЕС	ЕС	ORG	ORG-European-Union
+1536	1550	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1704	1706	ЕС	ЕС	ORG	ORG-European-Union
+1728	1737	Централна	Централна	LOC	LOC-Central-Europe
+1740	1754	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+1767	1781	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1783	1789	Лондон	Лондон	LOC	GPE-London
+1846	1854	Будапеща	Будапеща	LOC	GPE-Budapest
+1866	1873	Ройтерс	Ройтерс	ORG	ORG-Reuters

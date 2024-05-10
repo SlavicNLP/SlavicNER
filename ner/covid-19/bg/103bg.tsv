@@ -1,0 +1,13 @@
+22	34	коронавируса	коронавирус	EVT	EVT-Covid-19
+114	122	COVID-19	COVID-19	EVT	EVT-Covid-19
+202	207	Китай	Китай	LOC	GPE-China
+237	268	университетът в Шефийлд, Англия	университ в Шефийлд, Англия	ORG	ORG-University-of-Sheffield
+270	317	Национална лаборатория „Лос Алмос“ в Ню Мексико	Национална лаборатория „Лос Алмос“ в Ню Мексико	ORG	ORG-National-Laboratory-Los-Almos
+320	357	университетът Duke в Северна Каролина	университет Duke в Северна Каролина	ORG	ORG-Duke-University
+712	744	Американска медицинска асоциация	Американска медицинска асоциация	ORG	ORG-American-Medical-Association
+745	756	Антъни Фоси	Антъни Фоси	PER	PER-Anthony-Fauci
+771	833	Национален институт по алергии и инфекциозни заболявания в САЩ	Национален институт по алергии и инфекциозни заболявания в САЩ	ORG	ORG-National-Institute-of-Allergies-and-Diseases-USA
+863	885	университета в Шефийлд	Университет в Шефийлд	ORG	ORG-University-of-Sheffield
+934	939	D614G	D614G	EVT	EVT-D14G
+1083	1097	Нейтън Грубауг	Нейтън Грубауг	PER	PER-Nathan-Grubaugh
+1101	1151	факултета по публично здраве в университета „Йейл“	факултет по публично здраве в университета „Йейл“	ORG	ORG-Faculty-of-public-health-Yale

@@ -1,0 +1,27 @@
+4	12	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+35	40	Ruska	Rusko	LOC	GPE-Russia
+44	51	Německa	Německo	LOC	GPE-Germany
+69	78	Merkelová	Merkelová	PER	PER-Angela-Merkel
+144	151	Německa	Německo	LOC	GPE-Germany
+374	383	Merkelové	Merkelová	PER	PER-Angela-Merkel
+392	399	CDU-CSU	CDU-CSU	ORG	ORG-CDU-CSU-Alliance
+405	419	němečtí Zelení	němečtí Zelení	ORG	ORG-Green-Party-Germany
+433	451	svobodní demokraté	svobodní demokraté	ORG	ORG-Freie-Demokratische-Partei
+462	475	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+498	512	Evropskou unii	Evropská unie	ORG	ORG-European-Union
+544	551	Polskem	Polsko	LOC	GPE-Poland
+553	563	Slovenskem	Slovensko	LOC	GPE-Slovakia
+565	574	Ukrajinou	Ukrajina	LOC	GPE-Ukraine
+618	626	Švédskem	Švédsko	LOC	GPE-Sweden
+629	636	Dánskem	Dánsko	LOC	GPE-Denmark
+677	695	Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+731	738	Berlína	Berlín	LOC	GPE-Berlin
+772	777	Rusku	Rusko	LOC	GPE-Russia
+833	846	Evropské unii	Evropská unie	ORG	ORG-European-Union
+851	860	Merkelová	Merkelová	PER	PER-Angela-Merkel
+863	872	Porošenko	Porošenko	PER	PER-Petro-Poroshenko
+896	903	Berlíně	Berlín	LOC	GPE-Berlin
+985	993	Ukrajině	Ukrajina	LOC	GPE-Ukraine
+1171	1176	Rusko	Rusko	LOC	GPE-Russia
+1256	1262	Moskva	Moskva	LOC	GPE-Moscow
+1437	1445	Ukrajině	Ukrajina	LOC	GPE-Ukraine

@@ -1,0 +1,16 @@
+60	65	Covid	Covid	EVT	EVT-Covid-19
+239	245	Pfizer	Pfizer	ORG	ORG-Pfizer
+246	254	BioNTech	BioNTech	ORG	ORG-BioNTech
+454	490	Міністерство охорони здоров'я Мексик	Міністерство охорони здоров'я Мексик	ORG	ORG-Ministry-of-Healthcare-Mexico
+802	809	Reuters	Reuters	ORG	ORG-Reuters
+847	853	Pfizer	Pfizer	ORG	ORG-Pfizer
+857	865	BioNTech	BioNTech	ORG	ORG-BioNTech
+934	941	Мексиці	Мексика	LOC	GPE-Mexico
+959	967	Covid-19	Covid-19	EVT	EVT-Covid-19
+1053	1112	Агентства з безпеки та розвитку в галузі фармацевтики Fimea	Агентство з безпеки та розвитку в галузі фармацевтики Fimea	ORG	ORG-Finnish-Medicines-Agency
+1114	1123	Фінляндія	Фінляндія	LOC	GPE-Finland
+1207	1216	Фінляндії	Фінляндія	LOC	GPE-Finland
+1243	1249	Pfizer	Pfizer	ORG	ORG-Pfizer
+1250	1258	BioNTech	BioNTech	ORG	ORG-BioNTech
+1307	1315	Telegram	Telegram	PRO	PRO-Telegram
+1344	1361	УП. Кляті питання	УП. Кляті питання	PRO	PRO-UP.Kliati-pytannia-Ukraine

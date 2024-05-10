@@ -1,0 +1,23 @@
+11	14	САЩ	САЩ	LOC	GPE-USA
+81	86	Тръмп	Тръмп	PER	PER-Donald-Trump
+89	95	Байдън	Байдън	PER	PER-Joe-Biden
+313	340	президентските избори в САЩ	президентски избори в САЩ	EVT	EVT-2020-United-States-Presidential-Election
+495	500	Тръмп	Тръмп	PER	PER-Donald-Trump
+516	541	епидемията от коронавирус	епидемия от коронавирус	EVT	EVT-Covid-19
+544	547	САЩ	САЩ	LOC	GPE-USA
+731	737	Байдън	Байдън	PER	PER-Joe-Biden
+1025	1030	Тръмп	Тръмп	PER	PER-Donald-Trump
+1222	1225	САЩ	САЩ	LOC	GPE-USA
+1269	1294	пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+1322	1325	САЩ	САЩ	LOC	GPE-USA
+1465	1471	Байдън	Байдън	PER	PER-Joe-Biden
+1542	1553	демократите	демократи	PER	ORG-Democratic-Party-USA
+1684	1709	пандемията от коронавирус	пандемия от коронавирус	EVT	EVT-Covid-19
+1784	1789	Тръмп	Тръмп	PER	PER-Donald-Trump
+1824	1827	САЩ	САЩ	LOC	GPE-USA
+1873	1879	Байдън	Байдън	PER	PER-Joe-Biden
+1993	2005	американците	американци	PER	GPE-USA
+2424	2429	Тръмп	Тръмп	PER	PER-Donald-Trump
+2569	2580	демократите	демократи	PER	ORG-Democratic-Party-USA
+2608	2614	Байдън	Байдън	PER	PER-Joe-Biden
+2961	2966	Тръмп	Тръмп	PER	PER-Donald-Trump

@@ -1,0 +1,33 @@
+29	43	Downing Street	Downing Street	LOC	LOC-Downing-Street
+44	63	Daniela Křetínského	Daniel Křetínský	PER	PER-Daniel-Kretinsky
+116	123	brexitu	brexit	EVT	EVT-Brexit
+146	151	Čechů	Češi	PER	GPE-Czech-Republic
+152	168	Daniel Křetínský	Daniel Křetínský	PER	PER-Daniel-Kretinsky
+185	192	Londýně	Londýn	LOC	GPE-London
+221	237	Theresou Mayovou	Theresa Mayová	PER	PER-Theresa-May
+265	272	brexitu	brexit	EVT	EVT-Brexit
+284	293	Křetínský	Křetínský	PER	PER-Daniel-Kretinsky
+304	312	Británii	Británie	LOC	GPE-Great-Britain
+435	449	Downing Street	Downing Street	LOC	LOC-Downing-Street
+456	467	Křetínského	Křetínský	PER	PER-Daniel-Kretinsky
+498	503	Bosch	Bosch	ORG	ORG-Bosch
+504	520	Steffen Hoffmann	Steffen Hoffmann	PER	PER-Steffen-Hoffman
+540	550	Telefóniky	Telefónika	ORG	ORG-Telefonica
+551	583	José María Álvarez-Pallete López	José María Álvarez-Pallete López	PER	PER-Jose-Maria-Alvarez-Pallete-Lopez
+595	610	Bank of Ireland	Bank of Ireland	ORG	ORG-Bank-of-Ireland
+611	632	Francesca McDonaghová	Francesca McDonaghová	PER	PER-Francesca-McDonagh
+659	667	Wizz Air	Wizz Air	ORG	ORG-Wizz-Air
+668	681	József Váradi	József Váradi	PER	PER-Jozsef-Varadi
+708	711	BMW	BMW	ORG	ORG-BMW-Company
+712	725	Ian Robertson	Ian Robertson	PER	PER-Ian-Robertson
+778	787	Křetínský	Křetínský	PER	PER-Daniel-Kretinsky
+788	808	Hospodářským novinám	Hospodářské noviny	PRO	PRO-Hospodarske-Noviny
+822	828	Mayová	Mayová	PER	PER-Theresa-May
+890	904	Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+907	921	Evropskou unií	Evropská unie	ORG	ORG-European-Union
+952	959	brexitu	brexit	EVT	EVT-Brexit
+978	992	Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+1012	1032	Spojeného království	Spojené království	LOC	GPE-Great-Britain
+1117	1119	EU	EU	ORG	ORG-European-Union
+1125	1139	Velké Británii	Velká Británie	LOC	GPE-Great-Britain
+1148	1159	James Slack	James Slack	PER	PER-James-Slack

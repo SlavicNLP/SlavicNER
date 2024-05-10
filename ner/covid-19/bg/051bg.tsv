@@ -1,0 +1,48 @@
+0	8	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+68	82	Великобритания	Великобритания	LOC	GPE-Great-Britain
+109	121	коронавируса	коронавирус	EVT	EVT-Covid-19
+238	246	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+284	290	Мадрид	Мадрид	LOC	GPE-Madrid
+306	313	B.1.1.7	B.1.1.7	EVT	EVT-B.1.1.7
+317	329	коронавируса	коронавирус	EVT	EVT-Covid-19
+399	414	Антонио Зпатеро	Антонио Запатеро	PER	PER-Antonio-Zapatero
+454	468	Великобритания	Великобритания	LOC	GPE-Great-Britain
+593	600	Испания	Испания	LOC	GPE-Spain
+733	741	Запатеро	Запатеро	PER	PER-Antonio-Zapatero
+808	814	Швеция	Швеция	LOC	GPE-Sweden
+825	831	Швеция	Швеция	LOC	GPE-Sweden
+909	939	шведското здравно министерство	шведско здравно министерство	ORG	ORG-Ministry-of-Health-and-Social-Affairs-Sweden
+964	978	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1128	1134	Швеция	Швеция	LOC	GPE-Sweden
+1153	1159	Япония	Япония	LOC	GPE-Japan
+1195	1201	Япония	Япония	LOC	GPE-Japan
+1318	1323	Никей	Никей	PRO	PRO-Nikkei
+1515	1529	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1539	1549	Филипините	Филипини	LOC	GPE-Republic-of-the-Philippines
+1621	1641	Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+1707	1719	коронавируса	коронавирус	EVT	EVT-Covid-19
+1751	1766	Родриго Дутерте	Родриго Дутерте	PER	PER-Rodrigo-Duterte
+1803	1817	Великобритания	Великобритания	LOC	GPE-Great-Britain
+1944	1951	Хонконг	Хонконг	LOC	GPE-Hong-Kong
+1953	1961	Сингапур	Сингапур	LOC	GPE-Singapore
+1963	1972	Австралия	Австралия	LOC	GPE-Australia
+1975	1981	Япония	Япония	LOC	GPE-Japan
+2017	2024	Франция	Франция	LOC	GPE-France
+2037	2044	Франция	Франция	LOC	GPE-France
+2115	2118	Тур	Тур	LOC	GPE-Tours
+2156	2170	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2214	2244	здравното министерство в Париж	Здравно министерство в Париж	ORG	ORG-Ministry-of-Health-France
+2265	2271	Лондон	Лондон	LOC	GPE-London
+2299	2306	Франция	Франция	LOC	GPE-France
+2371	2385	Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+2462	2470	Ковид-19	КОВИД-19	EVT	EVT-Covid-19
+2536	2553	Фор дьо Брегансон	Фор дьо Брегансон	LOC	LOC-Fort-de-Brégançon
+2557	2572	Средиземно море	Средиземно море	LOC	LOC-Mediterranean-Sea
+2592	2600	Германия	Германия	LOC	GPE-Germany
+2604	2612	Германия	Германия	LOC	GPE-Germany
+2632	2639	B.1.1.7	B.1.1.7	EVT	EVT-B.1.1.7
+2643	2655	коронавируса	коронавирус	EVT	EVT-Covid-19
+2708	2724	Баден-Вюртемберг	Баден-Вюртемберг	LOC	GPE-Baden-Württemberg
+2742	2756	Великобритания	Великобритания	LOC	GPE-Great-Britain
+2847	2864	Франкфурт на Майн	Франкфурт на Майн	LOC	GPE-Frankfurt-am-Main
+2956	2964	PCR тест	PCR тест	PRO	PRO-PCR-Test

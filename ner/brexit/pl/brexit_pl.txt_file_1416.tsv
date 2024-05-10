@@ -1,0 +1,56 @@
+58	66	brexitem	Brexit	EVT	EVT-Brexit
+67	73	Niemcy	Niemcy	LOC	GPE-Germany
+80	88	Irlandii	Irlandia	LOC	GPE-Ireland
+128	141	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+144	146	UE	UE	ORG	ORG-European-Union
+201	228	Europejski Komitet Regionów	Europejski Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+283	291	brexitem	Brexit	EVT	EVT-Brexit
+293	299	Niemcy	Niemcy	LOC	GPE-Germany
+306	314	Irlandii	Irlandia	LOC	GPE-Ireland
+354	367	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+370	372	UE	UE	ORG	ORG-European-Union
+427	454	Europejski Komitet Regionów	Europejski Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+475	482	Degussa	Degussa	ORG	ORG-Degussa
+483	489	Basell	Basell	ORG	ORG-Basell
+492	502	Wesselingu	Wesseling	LOC	GPE-Wesseling
+508	515	Kolonii	Kolonia	LOC	GPE-Cologne
+611	618	brexitu	Brexit	EVT	EVT-Brexit
+634	643	Niemczech	Niemcy	LOC	GPE-Germany
+684	689	Funke	Funke	ORG	ORG-Funke
+716	747	Europejskiego Komitetu Regionów	Europejski Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+803	810	Hamburg	Hamburg	LOC	GPE-Hamburg
+812	818	Berlin	Berlin	LOC	GPE-Berlin
+820	831	Duesseldorf	Duesseldorf	LOC	GPE-Dusseldorf
+849	863	Zagłębia Ruhry	Zagłębie Ruhry	LOC	GPE-Ruhr
+869	876	Kolonia	Kolonia	LOC	GPE-Cologne
+879	888	Darmstadt	Darmstadt	LOC	GPE-Darmstadt
+1066	1073	brexitu	Brexit	EVT	EVT-Brexit
+1186	1192	Brexit	Brexit	EVT	EVT-Brexit
+1200	1207	Niemcom	Niemcy	PER	GPE-Germany
+1373	1379	brexit	Brexit	EVT	EVT-Brexit
+1480	1487	Komisji	Komisja	ORG	ORG-European-Commission
+1488	1507	Karl-Heinz Lambertz	Karl-Heinz Lambertz	PER	PER-Karl-Heinz-Lambertz
+1546	1551	Funke	Funke	ORG	ORG-Funke
+1656	1663	brexitu	Brexit	EVT	EVT-Brexit
+1783	1785	UE	UE	ORG	ORG-European-Union
+1825	1832	brexitu	Brexit	EVT	EVT-Brexit
+1916	1918	UE	UE	ORG	ORG-European-Union
+1955	1961	Niemcy	Niemcy	LOC	GPE-Germany
+1968	1976	Irlandii	Irlandia	LOC	GPE-Ireland
+2025	2038	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+2041	2043	UE	UE	ORG	ORG-European-Union
+2099	2126	Europejski Komitet Regionów	Europejski Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+2218	2231	Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+2234	2236	UE	UE	ORG	ORG-European-Union
+2237	2242	Maltę	Malta	LOC	GPE-Malta
+2269	2277	Holandii	Holandia	LOC	GPE-Holland
+2280	2286	Belgii	Belgia	LOC	GPE-Belgium
+2335	2343	Irlandii	Irlandia	LOC	GPE-Ireland
+2346	2353	Niemiec	Niemcy	LOC	GPE-Germany
+2458	2485	Europejski Komitet Regionów	Europejski Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+2499	2507	Brukseli	Bruksela	LOC	GPE-Brussles
+2531	2533	UE	UE	ORG	ORG-European-Union
+2605	2607	UE	UE	ORG	ORG-European-Union
+2650	2667	Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+2723	2737	Barbara Cöllen	Barbara Cöllen	PER	PER-Barbara-Cöllen
+2763	2777	Barbara Cöllen	Barbara Cöllen	PER	PER-Barbara-Cöllen

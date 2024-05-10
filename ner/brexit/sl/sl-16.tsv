@@ -1,0 +1,64 @@
+0	6	BREXIT	brexit	EVT	EVT-Brexit
+8	24	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+57	66	Slovenije	Slovenija	LOC	GPE-Slovenia
+86	102	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+106	108	EU	EU	ORG	ORG-European-Union
+222	238	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+249	256	brexita	brexit	EVT	EVT-Brexit
+285	289	Otok	Otok	LOC	GPE-Great-Britain
+434	443	Slovenijo	Slovenija	LOC	GPE-Slovenia
+447	463	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+700	709	Slovenija	Slovenija	LOC	GPE-Slovenia
+715	731	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+1664	1680	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+1714	1723	Slovenije	Slovenija	LOC	GPE-Slovenia
+1725	1729	Otok	Otok	LOC	GPE-Great-Britain
+1917	1924	brexita	brexit	EVT	EVT-Brexit
+1952	1954	EU	EU	ORG	ORG-European-Union
+2083	2092	Sloexport	Sloexport	PRO	PRO-Sloexport-databse
+2159	2175	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+2211	2221	Sloexporta	Sloexport	PRO	PRO-Sloexport-databse
+2272	2283	Bisol Group	Bisol Group	ORG	ORG-Bisol-Group-DOO
+2285	2304	Equaleyes Solutions	Equaleyes Solutions	ORG	ORG-Equaleyes-Solutions
+2306	2312	Metrel	Metrel	ORG	ORG-Metrel
+2314	2334	Trelleborg Slovenija	Trelleborg Slovenija	ORG	ORG-Telleborg-Slovenija
+2336	2340	Xlab	Xlab	ORG	ORG-Xlab
+2342	2349	Gorenje	Gorenje	ORG	ORG-Gorenje
+2351	2355	Riko	Riko	ORG	ORG-Riko
+2357	2365	Transpak	Transpak	ORG	ORG-Transpak
+2369	2374	Unior	Unior	ORG	ORG-Unior
+2379	2384	Xlabu	Xlab	ORG	ORG-Xlab
+2388	2392	Riku	Riko	ORG	ORG-Riko
+2399	2402	STA	STA	ORG	ORG-Slovenian-Press-Agency
+2452	2459	brexita	brexit	EVT	EVT-Brexit
+2471	2475	Xlab	Xlab	ORG	ORG-Xlab
+2516	2520	Riko	Riko	ORG	ORG-Riko
+2656	2672	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+2690	2694	Riku	Riko	ORG	ORG-Riko
+2842	2845	STA	STA	ORG	ORG-Slovenian-Press-Agency
+2874	2890	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+2894	2901	brexitu	brexit	EVT	EVT-Brexit
+2935	2951	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+2962	2964	EU	EU	ORG	ORG-European-Union
+3020	3027	brexita	brexit	EVT	EVT-Brexit
+3067	3069	EU	EU	ORG	ORG-European-Union
+3182	3184	EU	EU	ORG	ORG-European-Union
+3188	3204	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+3240	3242	EU	EU	ORG	ORG-European-Union
+3493	3495	EU	EU	ORG	ORG-European-Union
+3516	3532	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+3611	3613	EU	EU	ORG	ORG-European-Union
+3653	3662	Slovenijo	Slovenija	LOC	GPE-Slovenia
+3674	3690	Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+3699	3707	brexitom	brexit	EVT	EVT-Brexit
+3858	3867	Sloveniji	Slovenija	LOC	GPE-Slovenia
+4096	4103	Nemčijo	Nemčija	LOC	GPE-Germany
+4218	4225	brexita	brexit	EVT	EVT-Brexit
+4423	4429	brexit	brexit	EVT	EVT-Brexit
+4443	4481	Združenja nemških gospodarskih zbornic	Združenje nemških gospodarskih zbornic	ORG	ORG-DIHK-Association-of-German-Chambers-of-Industry-and-Commerce
+4544	4560	Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+4613	4629	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+4740	4745	Otoka	Otok	LOC	GPE-Great-Britain
+4749	4751	EU	EU	ORG	ORG-European-Union
+4832	4839	Nemčiji	Nemčija	LOC	GPE-Germany
+4851	4857	brexit	brexit	EVT	EVT-Brexit

@@ -1,0 +1,14 @@
+0	6	Brexit	Brexit	EVT	EVT-Brexit
+23	30	Stalina	Stalin	PER	PER-Stalin
+34	37	USA	USA	LOC	GPE-USA
+72	78	Moskwy	Moskwa	LOC	GPE-Moscow
+105	116	Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+133	138	Kreml	Kreml	LOC	LOC-Kremlin
+263	273	Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+322	339	Marka Zuckerberga	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+357	376	Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+423	434	Arron Banks	Arron Banks	PER	PER-Arron-Banks
+494	496	UE	UE	ORG	ORG-European-Union
+503	518	Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+564	579	Nigela Farage’a	Nigel Farage	PER	PER-Nigel-Farage
+635	640	Rosją	Rosja	LOC	GPE-Russia

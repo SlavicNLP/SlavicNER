@@ -1,0 +1,28 @@
+8	13	Babiš	Babiš	PER	PER-Andrej-Babis
+65	70	Praha	Praha	LOC	GPE-Prague
+81	93	Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+95	98	ANO	ANO	ORG	ORG-ANO-political-party-CZ
+122	127	Praze	Praha	LOC	GPE-Prague
+168	181	Rickem Perrym	Rick Perry	PER	PER-Rick-Perry
+206	220	střední Evropě	střední Evropa	LOC	LOC-Central-Europe
+320	333	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+349	362	Spojené státy	Spojené státy	LOC	GPE-USA
+381	386	Česka	Česko	LOC	GPE-Czech-Republic
+390	395	Perry	Perry	PER	PER-Rick-Perry
+413	419	Polsko	Polsko	LOC	GPE-Poland
+421	429	Maďarsko	Maďarsko	LOC	GPE-Hungary
+432	440	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+550	555	Perry	Perry	PER	PER-Rick-Perry
+574	587	Spojené státy	Spojené státy	LOC	GPE-USA
+662	675	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+764	771	Německa	Německo	LOC	GPE-Germany
+779	793	Baltského moře	Baltské moře	LOC	LOC-Baltic-Sea
+816	824	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+826	832	Polsko	Polsko	LOC	GPE-Poland
+835	838	USA	USA	LOC	GPE-USA
+878	892	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+948	951	USA	USA	LOC	GPE-USA
+1047	1059	Westinghouse	Westinghouse	ORG	ORG-Westinghouse
+1130	1135	Prahy	Praha	LOC	GPE-Prague
+1142	1147	Sofie	Sofie	LOC	GPE-Sofia
+1156	1215	evropský regionální úřad amerického ministerstva energetiky	evropský regionální úřad amerického ministerstva energetiky	ORG	ORG-DOE-European-Regional-Authority

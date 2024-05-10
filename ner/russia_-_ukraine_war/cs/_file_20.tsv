@@ -1,0 +1,26 @@
+0	5	Putin	Putin	PER	PER-Vladimir-Putin
+63	70	Bidenem	Biden	PER	PER-Joe-Biden
+76	82	Kremlu	Kreml	LOC	LOC-Kremlin
+140	153	Spojené státy	Spojené státy	LOC	GPE-USA
+197	209	ruské invaze	ruská invaze	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+213	221	Ukrajinu	Ukrajina	LOC	GPE-Ukraine
+287	293	Kyjevu	Kyjev	LOC	GPE-Kiev
+322	326	NATO	NATO	ORG	ORG-NATO
+330	345	východní Evropě	východní Evropa	LOC	LOC-Eastern-Europe
+410	423	Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+483	493	Washington	Washington	LOC	GPE-WashingtonDC
+507	526	The Financial Times	The Financial Times	PRO	PRO-Financial-Times
+543	549	Berlín	Berlín	LOC	GPE-Berlin
+574	582	Ukrajiny	Ukrajina	LOC	GPE-Ukraine
+611	619	Gazpromu	Gazprom	ORG	ORG-Gazprom
+667	680	Olafa Scholze	Olaf Scholz	PER	PER-Olaf-Scholz
+725	739	Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+801	819	invazi na Ukrajinu	invaze na Ukrajinu	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+837	845	Sullivan	Sullivan	PER	PER-Jake-Sullivan
+884	892	Bidenově	Biden	PER	PER-Joe-Biden
+932	943	Bílého domu	Bílý dům	LOC	LOC-White-House
+960	969	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+1006	1011	Rusko	Rusko	LOC	GPE-Russia
+1029	1034	SWIFT	SWIFT	PRO	PRO-SWIFT-Payment-System
+1090	1093	USA	USA	LOC	GPE-USA
+1162	1167	Ruska	Rusko	LOC	GPE-Russia

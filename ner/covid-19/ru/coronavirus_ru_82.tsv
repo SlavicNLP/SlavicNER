@@ -1,0 +1,53 @@
+11	23	коронавируса	коронавирус	EVT	EVT-Covid-19
+26	32	Россия	Россия	LOC	GPE-Russia
+93	105	коронавируса	коронавирус	EVT	EVT-Covid-19
+290	296	России	Россия	LOC	GPE-Russia
+338	350	коронавируса	коронавирус	EVT	EVT-Covid-19
+550	556	России	Россия	LOC	GPE-Russia
+557	571	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+636	644	COVID-19	COVID-19	EVT	EVT-Covid-19
+648	654	Москва	Москва	LOC	GPE-Moscow
+818	826	COVID-19	COVID-19	EVT	EVT-Covid-19
+852	865	коронавирусом	коронавирус	EVT	EVT-Covid-19
+866	876	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1062	1072	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+1108	1119	Нового года	Новый год	EVT	EVT-New-Year
+1162	1199	Всемирная организация здравоохранения	Всемирная организация здравоохранения	ORG	ORG-World-Health-Organization
+1201	1204	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization
+1367	1375	COVID-19	COVID-19	EVT	EVT-Covid-19
+1377	1380	GSK	GSK	ORG	ORG-GSK
+1583	1595	коронавируса	коронавирус	EVT	EVT-Covid-19
+1710	1725	Ксения Бочарова	Ксения Бочарова	PER	PER-Ksenia-Bocharova
+1762	1774	коронавируса	коронавирус	EVT	EVT-Covid-19
+1917	1929	коронавирусе	коронавирус	EVT	EVT-Covid-19
+2022	2034	коронавируса	коронавирус	EVT	EVT-Covid-19
+2270	2282	коронавируса	коронавирус	EVT	EVT-Covid-19
+2332	2344	коронавируса	коронавирус	EVT	EVT-Covid-19
+2420	2433	GAM-Covid-Vec	GAM-Covid-Vac	PRO	PRO-Gam-COVID-Vac
+2439	2448	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
+2498	2513	Ксения Бочарова	Ксения Бочарова	PER	PER-Ksenia-Bocharova
+3180	3192	коронавируса	коронавирус	EVT	EVT-Covid-19
+3238	3250	короновируса	короновирус	EVT	EVT-Covid-19
+3301	3311	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
+3521	3524	США	США	LOC	GPE-USA
+3525	3604	Управление по санитарному надзору за качеством пищевых продуктов и медикаментов	Управление по санитарному надзору за качеством пищевых продуктов и медикаментов	ORG	ORG-FDA-Food-and-Drug-Administration
+3606	3609	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+3666	3674	Covid-19	Covid-19	EVT	EVT-Covid-19
+3759	3762	FDA	FDA	ORG	ORG-FDA-Food-and-Drug-Administration
+4018	4027	Спутник V	Спутник V	PRO	PRO-Sputnik-V
+4444	4456	коронавируса	коронавирус	EVT	EVT-Covid-19
+4688	4703	Ксения Бочарова	Ксения Бочарова	PER	PER-Ksenia-Bocharova
+4734	4740	России	Россия	LOC	GPE-Russia
+5379	5391	коронавируса	коронавирус	EVT	EVT-Covid-19
+5663	5675	коронавируса	коронавирус	EVT	EVT-Covid-19
+5905	5917	коронавируса	коронавирус	EVT	EVT-Covid-19
+6255	6267	коронавирусу	коронавирус	EVT	EVT-Covid-19
+6319	6331	коронавирусу	коронавирус	EVT	EVT-Covid-19
+6410	6423	коронравирусу	коронравирус	EVT	EVT-Covid-19
+6426	6435	SARS-CoV2	SARS-CoV2	EVT	EVT-Covid-19
+6471	6486	Ксения Бочарова	Ксения Бочарова	PER	PER-Ksenia-Bocharova
+7618	7630	коронавирусу	коронавирус	EVT	EVT-Covid-19
+8019	8033	коронавирусной	коронавирусной	EVT	EVT-Covid-19
+8078	8090	коронавируса	коронавирус	EVT	EVT-Covid-19
+8552	8567	Ксения Бочарова	Ксения Бочарова	PER	PER-Ksenia-Bocharova
+9004	9019	Ксения Бочарова	Ксения Бочарова	PER	PER-Ksenia-Bocharova

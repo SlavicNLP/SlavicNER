@@ -1,0 +1,20 @@
+5	8	Мей	Мей	PER	PER-Theresa-May
+50	52	ЕС	ЕС	ORG	ORG-European-Union
+64	78	Великобритания	Великобритания	LOC	GPE-Great-Britain
+113	120	Брекзит	Брекзит	EVT	EVT-Brexit
+142	152	Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+172	174	ЕС	ЕС	ORG	ORG-European-Union
+244	258	Великобритания	Великобритания	LOC	GPE-Great-Britain
+342	345	Мей	Мей	PER	PER-Theresa-May
+358	365	Ройтерс	Ройтерс	ORG	ORG-Reuters
+391	411	Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+496	503	Брекзит	Брекзит	EVT	EVT-Brexit
+999	1002	Мей	Мей	PER	PER-Theresa-May
+1026	1047	Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+1064	1071	Брекзит	Брекзит	EVT	EVT-Brexit
+1072	1085	Ги Верхофстат	Ги Верхофстат	PER	PER-Guy-Verhofstadt
+1105	1112	Гардиън	Гардиън	PRO	PRO-The-Guardian
+1143	1145	ЕС	ЕС	ORG	ORG-European-Union
+1191	1198	Брекзит	Брекзит	EVT	EVT-Brexit
+1284	1286	ЕС	ЕС	ORG	ORG-European-Union
+1437	1443	Лондон	Лондон	LOC	GPE-London

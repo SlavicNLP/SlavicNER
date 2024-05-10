@@ -1,0 +1,21 @@
+0	5	Ляшко	Ляшко	PER	PER-Viktor-Liashko
+51	56	COVID	COVID	EVT	EVT-Covid-19
+89	98	Укрінформ	Укрінформ	ORG	ORG-Ukrinform
+190	231	Всесвітньою організацією охорони здоров'я	Всесвітня організація охорони здоров'я	ORG	ORG-World-Health-Organization
+259	268	Укрінформ	Укрінформ	ORG	ORG-Ukrinform
+369	381	Віктор Ляшко	Віктор Ляшко	PER	PER-Viktor-Liashko
+546	550	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+623	629	Pfizer	Pfizer	ORG	ORG-Pfizer
+661	665	ВООЗ	ВООЗ	ORG	ORG-World-Health-Organization
+689	697	Пандемія	Пандемія	EVT	EVT-Covid-19
+737	742	Ляшко	Ляшко	PER	PER-Viktor-Liashko
+870	878	пандемії	пандемія	EVT	EVT-Covid-19
+879	887	COVID-19	COVID-19	EVT	EVT-Covid-19
+1169	1177	BioNTech	BioNTech	ORG	ORG-BioNTech
+1181	1187	Pfizer	Pfizer	ORG	ORG-Pfizer
+1243	1255	коронавірусу	коронавірус	EVT	EVT-Covid-19
+1257	1265	COVID-19	COVID-19	EVT	EVT-Covid-19
+1334	1342	BioNTech	BioNTech	ORG	ORG-BioNTech
+1343	1349	Pfizer	Pfizer	ORG	ORG-Pfizer
+1379	1386	Україні	Україна	LOC	GPE-Ukraine
+1449	1457	COVID-19	COVID-19	EVT	EVT-Covid-19

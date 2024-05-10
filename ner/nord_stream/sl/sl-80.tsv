@@ -1,0 +1,53 @@
+0	6	Rusija	Rusija	LOC	GPE-Russia
+10	18	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+64	70	Evropo	Evropa	LOC	LOC-Europe
+72	78	Rusija	Rusija	LOC	GPE-Russia
+82	90	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+179	185	Evropo	Evropa	LOC	LOC-Europe
+191	199	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+243	250	Gazprom	Gazprom	ORG	ORG-Gazprom
+285	307	Volodimirja Zelenskega	Volodimir Zelenski	PER	PER-Volodymyr-Zelensky
+322	328	Moskva	Moskva	LOC	GPE-Moscow
+332	337	Kijev	Kijev	LOC	GPE-Kiev
+474	480	Dunaju	Dunaj	LOC	GPE-Vienna
+580	586	Evropo	Evropa	LOC	LOC-Europe
+592	600	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+659	667	Gazproma	Gazprom	ORG	ORG-Gazprom
+668	682	Aleksej Miller	Aleksej Miller	PER	PER-Aleksey-Miller
+739	753	Evropske unije	Evropska unija	ORG	ORG-European-Union
+765	771	Rusije	Rusija	LOC	GPE-Russia
+777	785	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+820	822	EU	EU	ORG	ORG-European-Union
+863	871	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+928	937	Facebooku	Facebook	PRO	PRO-Facebook
+969	987	Volodimir Zelenski	Volodimir Zelenski	PER	PER-Volodymyr-Zelensky
+1004	1022	Dimitrij Medvedjev	Dimitrij Medvedjev	PER	PER-Dmitry-Medvedev
+1059	1068	Facebooku	Facebook	PRO	PRO-Facebook
+1139	1146	Gazprom	Gazprom	ORG	ORG-Gazprom
+1174	1182	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1310	1318	Zelenski	Zelenski	PER	PER-Volodymyr-Zelensky
+1320	1328	Ukrajina	Ukrajina	LOC	GPE-Ukraine
+1453	1460	Gazprom	Gazprom	ORG	ORG-Gazprom
+1488	1496	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1559	1566	Bruslju	Bruselj	LOC	GPE-Brussles
+1660	1674	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1686	1692	Rusije	Rusija	LOC	GPE-Russia
+1698	1706	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+1741	1743	EU	EU	ORG	ORG-European-Union
+1785	1792	Bruslju	Bruselj	LOC	GPE-Brussles
+1849	1866	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+1893	1907	Maroš Šefčovič	Maroš Šefčovič	PER	PER-Maros-Sefcovic
+1969	1975	Evrope	Evropa	LOC	LOC-Europe
+2014	2022	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+2044	2051	Gazprom	Gazprom	ORG	ORG-Gazprom
+2052	2058	Evropi	Evropa	LOC	LOC-Europe
+2150	2158	Ukrajine	Ukrajina	LOC	GPE-Ukraine
+2240	2246	Rusija	Rusija	LOC	GPE-Russia
+2280	2293	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2342	2349	Nemčijo	Nemčija	LOC	GPE-Germany
+2379	2382	ZDA	ZDA	LOC	GPE-USA
+2485	2498	Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+2502	2512	Turški tok	Turški tok	PRO	PRO-TurkStream
+2559	2566	Turčiji	Turčija	LOC	GPE-Turkey
+2570	2579	Bolgariji	Bolgarija	LOC	GPE-Bulgaria
+2613	2619	Evropi	Evropa	LOC	LOC-Europe

@@ -1,0 +1,99 @@
+23	29	brexit	brexit	EVT	EVT-Brexit
+90	104	Downing Street	Downing Street	LOC	LOC-Downing-Street
+133	146	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+162	181	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+205	219	Evropske unije	Evropska unija	ORG	ORG-European-Union
+317	329	Elizabeta II	Elizabeta II	PER	PER-Queen-Elizabeth-II
+434	515	Združenemu kraljestvu Velike Britanije in Severne Irske ter državam Commonwealtha	Združeno kraljestvo Velike Britanije in Severne Irske ter države Commonwealtha	LOC	GPE-Great-Britain
+550	569	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+646	680	Alexander Boris de Pfeffel Johnson	Alexander Boris de Pfeffel Johnson	PER	PER-Boris-Johnson
+709	728	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+817	834	Winston Churchill	Winston Churchill	PER	PER-Winston-Churchill
+839	859	drugo svetovno vojno	druga svetovna vojna	EVT	EVT-World-War-II
+875	891	Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+921	935	Churchillovega	Churchill	PER	PER-Winston-Churchill
+963	973	Hitlerjevo	Hitler	PER	PER-Adolf-Hitler
+974	981	Nemčijo	Nemčija	LOC	GPE-Germany
+1017	1023	Evropi	Evropa	LOC	LOC-Europe
+1068	1079	Johnsonovim	Johnson	PER	PER-Boris-Johnson
+1124	1131	Johnson	Johnson	PER	PER-Boris-Johnson
+1160	1179	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+1191	1205	Evropske unije	Evropska unija	ORG	ORG-European-Union
+1229	1235	Evrope	Evropa	LOC	LOC-Europe
+1255	1261	Brexit	Brexit	EVT	EVT-Brexit
+1366	1368	EU	EU	ORG	ORG-European-Union
+1378	1385	Johnson	Johnson	PER	PER-Boris-Johnson
+1410	1431	Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+1435	1437	EU	EU	ORG	ORG-European-Union
+1463	1470	Londona	London	LOC	GPE-London
+1509	1518	New Yorku	New York	LOC	GPE-New-York
+1684	1705	konservativni stranki	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+1835	1842	Johnson	Johnson	PER	PER-Boris-Johnson
+1844	1858	Evropska unija	Evropska unija	ORG	ORG-European-Union
+1869	1888	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+1975	1990	Davida Camerona	David Cameron	PER	PER-David-Cameron
+2027	2035	Britanci	Britanci	PER	GPE-Great-Britain
+2049	2055	brexit	brexit	EVT	EVT-Brexit
+2110	2131	konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+2150	2161	Theresa May	Theresa May	PER	PER-Theresa-May
+2166	2173	Johnson	Johnson	PER	PER-Boris-Johnson
+2222	2229	brexitu	brexit	EVT	EVT-Brexit
+2275	2281	brexit	brexit	EVT	EVT-Brexit
+2283	2297	Davida Daviesa	David Davies	PER	PER-David-Davis
+2301	2315	Dominica Raaba	Dominic Raab	PER	PER-Dominic-Raab
+2441	2450	Atlantika	Atlantik	LOC	LOC-Atlantic-Ocean
+2505	2519	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+2542	2558	Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+2581	2588	Johnson	Johnson	PER	PER-Boris-Johnson
+2772	2783	Johnsonovih	Johnson	PER	PER-Boris-Johnson
+2873	2890	princem Phillipom	princ Phillip	PER	PER-Prince-Phillip
+3044	3067	Recepu Tayyipu Erdoganu	Recep Tayyip Erdogan	PER	PER-Recep-Tayyip-Erdoğan
+3071	3081	Johnsonovi	Johnson	PER	PER-Boris-Johnson
+3115	3124	Erdoganom	Erdogan	PER	PER-Recep-Tayyip-Erdoğan
+3528	3545	Nihal Arthanayake	Nihal Arthanayake	PER	PER-Nihal-Arthanayake
+3655	3662	Johnson	Johnson	PER	PER-Boris-Johnson
+3694	3701	Indijci	Indijci	PER	GPE-India
+3748	3764	Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+3822	3829	brexita	brexit	EVT	EVT-Brexit
+3833	3840	Johnson	Johnson	PER	PER-Boris-Johnson
+3886	3900	Evropski uniji	Evropska unija	ORG	ORG-European-Union
+3992	4011	Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+4047	4049	EU	EU	ORG	ORG-European-Union
+4259	4266	Johnson	Johnson	PER	PER-Boris-Johnson
+4324	4336	Novozelandce	Novozelandci	PER	GPE-New-Zealand
+4539	4549	Johnsonove	Johnson	PER	PER-Boris-Johnson
+4769	4783	Downing Street	Downing Street	LOC	LOC-Downing-Street
+4795	4805	Johnsonova	Johnson	PER	PER-Boris-Johnson
+4829	4843	Carrie Symonds	Carrie Symonds	PER	PER-Carrie-Symonds
+4845	4858	Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+5023	5033	Tony Blair	Tony Blair	PER	PER-Tony-Blair
+5044	5050	Cherie	Cherie	PER	PER-Cherie-Blair
+5140	5165	britanskih konservativcev	britanski konservativci	ORG	ORG-Conservative-and-Unionist-Party-UK
+5238	5251	konservativce	konservativci	ORG	ORG-Conservative-and-Unionist-Party-UK
+5332	5338	BMW M3	BMW M3	PRO	PRO-BMW-M3
+5644	5650	Evropi	Evropa	LOC	LOC-Europe
+5702	5708	brexit	brexit	EVT	EVT-Brexit
+5802	5807	Boris	Boris	PER	PER-Boris-Johnson
+5840	5845	Otoku	otok	LOC	GPE-Great-Britain
+5968	5972	Eton	Eton	ORG	ORG-Eton-University
+6066	6082	Magaret Thatcher	Magaret Thatcher	PER	PER-Margaret-Thatcher
+6086	6097	Theresa May	Theresa May	PER	PER-Theresa-May
+6175	6182	Bruslja	Bruselj	LOC	GPE-Brussles
+6218	6232	Evropske unije	Evropska unija	ORG	ORG-European-Union
+6360	6365	Trump	Trump	PER	PER-Donald-Trump
+6511	6519	Britanci	Britanci	PER	GPE-Great-Britain
+6667	6677	Johnsonove	Johnson	PER	PER-Boris-Johnson
+6714	6720	brexit	brexit	EVT	EVT-Brexit
+6769	6777	Brusljem	Bruselj	LOC	GPE-Brussles
+6834	6840	brexit	brexit	EVT	EVT-Brexit
+6841	6855	Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+6881	6898	Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+6899	6918	Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+7021	7028	brexitu	brexit	EVT	EVT-Brexit
+7122	7129	brexita	brexit	EVT	EVT-Brexit
+7226	7244	poslanski zbornici	poslanska zbornica	ORG	ORG-House-of-Commons
+7257	7270	konservativci	konservativci	ORG	ORG-Conservative-and-Unionist-Party-UK
+7307	7331	severnoirskih unionistov	severnoirski unionisti	PER	ORG-DUP
+7379	7386	Mayjevi	May	PER	PER-Theresa-May
+7486	7493	brexitu	brexit	EVT	EVT-Brexit
+7648	7663	Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson

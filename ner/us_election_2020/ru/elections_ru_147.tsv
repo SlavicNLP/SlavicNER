@@ -1,0 +1,174 @@
+44	55	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+58	68	украинским	украинский	LOC	GPE-Ukraine
+105	108	США	США	LOC	GPE-USA
+111	141	Федеральное бюро расследований	Федеральное бюро расследований	ORG	ORG-FBI
+163	176	конгрессу США	конгресс США	ORG	ORG-United-States-Congress
+207	217	украинских	украинский	LOC	GPE-Ukraine
+231	237	Байден	Байден	PER	PER-Joe-Biden
+254	267	республиканец	республиканец	PER	ORG-Republican-Party-USA
+268	279	Рон Джонсон	Рон Джонсон	PER	PER-Ron-Johnson
+331	349	Соединённых Штатах	Соединённые Штаты	LOC	GPE-USA
+406	417	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+418	424	Хантер	Хантер	PER	PER-Hunter-Biden
+459	466	Украине	Украина	LOC	GPE-Ukraine
+526	533	Burisma	Burisma	PRO	PRO-Burisma
+578	594	Байденом-старшим	Байден-старший	PER	PER-Joe-Biden
+722	735	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+782	791	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
+820	829	демократы	демократ	PER	ORG-Democratic-Party-USA
+865	875	российском	российский	LOC	GPE-Russia
+964	992	верхней палаты конгресса США	верхняя палата конгресса США	ORG	ORG-United-States-Senate
+993	1006	республиканец	республиканец	PER	ORG-Republican-Party-USA
+1007	1018	Рон Джонсон	Рон Джонсон	PER	PER-Ron-Johnson
+1041	1044	ФБР	ФБР	ORG	ORG-FBI
+1045	1059	Кристоферу Рэю	Кристофер Рэй	PER	PER-Christopher-Ray
+1189	1200	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1204	1211	Джонсон	Джонсон	PER	PER-Boris-Johnson
+1339	1354	Хантера Байдена	Хантер Байден	PER	PER-Hunter-Biden
+1375	1378	ФБР	ФБР	ORG	ORG-FBI
+1522	1535	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+1560	1563	США	США	LOC	GPE-USA
+1564	1574	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1609	1613	Киев	Киев	LOC	GPE-Kiev
+1646	1652	Белого	Белый	ORG	ORG-The-White-House
+1659	1662	ФБР	ФБР	ORG	ORG-FBI
+1757	1763	России	Россия	LOC	GPE-Russia
+1970	1973	ФБР	ФБР	ORG	ORG-FBI
+2009	2016	Джонсон	Джонсон	PER	PER-Boris-Johnson
+2034	2056	Sunday Morning Futures	Sunday Morning Futures	PRO	PRO-Good-Morning-Britain
+2071	2079	Fox News	Fox News	PRO	PRO-Fox-News
+2128	2131	ФБР	ФБР	ORG	ORG-FBI
+2230	2243	Хантер Байден	Хантер Байден	PER	PER-Hunter-Biden
+2395	2405	демократов	демократ	PER	ORG-Democratic-Party-USA
+2422	2436	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+2492	2503	американцев	американцы	LOC	GPE-USA
+2536	2539	ФБР	ФБР	ORG	ORG-FBI
+2592	2602	Украинский	украинский	LOC	GPE-Ukraine
+2652	2665	New York Post	New York Post	PRO	PRO-New-York-Post
+2735	2750	Хантеру Байдену	Хантер Байден	PER	PER-Hunter-Biden
+2817	2827	украинской	украинский	LOC	GPE-Ukraine
+2852	2859	Burisma	Burisma	PRO	PRO-Burisma
+2860	2877	Вадима Пожарского	Вадим Пожарский	PER	PER-Vadim-Pozharskiy
+2893	2909	Байдена-младшего	Байден-младший	PER	PER-Hunter-Biden
+2989	2992	США	США	LOC	GPE-USA
+3005	3011	Хантер	Хантер	PER	PER-Hunter-Biden
+3045	3054	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+3255	3269	Виктора Шокина	Виктора Шокина	PER	PER-Viktor-Shokin
+3291	3298	Украины	Украина	LOC	GPE-Ukraine
+3348	3355	Burisma	Burisma	PRO	PRO-Burisma
+3468	3475	Делавэр	Делавэр	LOC	GPE-Delaware
+3491	3501	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+3719	3732	New York Post	New York Post	PRO	PRO-New-York-Post
+3771	3774	ФБР	ФБР	ORG	ORG-FBI
+3879	3895	Роберту Костелло	Роберт Костелло	PER	PER-Roberto-Costello
+3906	3923	Рудольфа Джулиани	Рудольф Джулиани	PER	PER-Rudolph-Giuliani
+4014	4017	США	США	LOC	GPE-USA
+4018	4029	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+4117	4127	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+4291	4298	Украине	Украина	LOC	GPE-Ukraine
+4302	4309	Украина	Украина	LOC	GPE-Ukraine
+4368	4386	Соединённых Штатах	Соединённые Штаты	LOC	GPE-USA
+4420	4428	Владимир	Владимир	PER	PER-Volodymyr-Zelensky
+4585	4592	Украине	Украина	LOC	GPE-Ukraine
+4610	4616	Байден	Байден	PER	PER-Joe-Biden
+4660	4675	Хантера Байдена	Хантер Байден	PER	PER-Hunter-Biden
+4729	4739	украинской	украинский	LOC	GPE-Ukraine
+4800	4807	Украине	Украина	LOC	GPE-Ukraine
+4818	4831	Хантер Байден	Хантер Байден	PER	PER-Hunter-Biden
+4857	4867	украинской	украинский	LOC	GPE-Ukraine
+4885	4892	Burisma	Burisma	PRO	PRO-Burisma
+4944	4947	США	США	LOC	GPE-USA
+4968	4986	Соединённых Штатов	Соединённые Штаты	LOC	GPE-USA
+4990	4997	Украине	Украина	LOC	GPE-Ukraine
+5014	5019	Киеве	Киев	LOC	GPE-Kiev
+5042	5054	американское	американский	LOC	GPE-USA
+5063	5071	The Hill	The Hill	PRO	PRO-The-Hill
+5092	5102	украинская	украинский	LOC	GPE-Ukraine
+5130	5146	Байдена-младшего	Байден-младший	PER	PER-Hunter-Biden
+5181	5188	Burisma	Burisma	PRO	PRO-Burisma
+5264	5271	Украины	Украина	LOC	GPE-Ukraine
+5272	5284	Виктор Шокин	Виктор Шокин	PER	PER-Viktor-Shokin
+5381	5391	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+5416	5450	Совета по международным отношениям	Совет по международным отношениям	ORG	ORG-WTO-World-Trade-Organization
+5464	5470	Байден	Байден	PER	PER-Joe-Biden
+5518	5525	Украины	Украина	LOC	GPE-Ukraine
+5584	5589	Шокин	Шокин	PER	PER-Viktor-Shokin
+5675	5685	украинский	украинский	LOC	GPE-Ukraine
+5810	5823	американского	американский	LOC	GPE-USA
+5874	5900	Института США и Канады РАН	Институт США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAS
+5901	5920	Владимира Васильева	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+5927	5930	ФБР	ФБР	ORG	ORG-FBI
+5972	5986	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+6021	6036	Хантера Байдена	Хантер Байден	PER	PER-Hunter-Biden
+6159	6181	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
+6212	6214	RT	RT	PRO	PRO-RT-Russia-Today
+6227	6230	ФБР	ФБР	ORG	ORG-FBI
+6331	6333	RT	RT	PRO	PRO-RT-Russia-Today
+6343	6395	Фонда изучения США имени Франклина Рузвельта при МГУ	Фонд изучения США имени Франклина Рузвельта при МГУ	ORG	ORG-The-Franklin-Roosevelt-Foundation-for-the-Study-of-the-United-States-at-Moscow-State-University
+6396	6408	Юрий Рогулёв	Юрий Рогулёв	PER	PER-Yury-Rogulev
+6413	6416	ФБР	ФБР	ORG	ORG-FBI
+6497	6500	ФБР	ФБР	ORG	ORG-FBI
+6520	6527	Минюста	Минюст	ORG	ORG-Ministry-of-Justice-Russia
+6630	6647	Владимир Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+6661	6670	демократы	демократ	PER	ORG-Democratic-Party-USA
+6704	6715	российского	российский	LOC	GPE-Russia
+6746	6755	Демпартия	Демпартия	ORG	ORG-Democratic-Party-USA
+6803	6810	Байдена	Байден	PER	PER-Joe-Biden
+6871	6882	украинского	украинский	LOC	GPE-Ukraine
+6930	6939	Демократы	демократы	PER	ORG-Democratic-Party-USA
+6985	6995	украинское	украинский	LOC	GPE-Ukraine
+7002	7009	Байдена	Байден	PER	PER-Joe-Biden
+7030	7037	русской	русский	LOC	GPE-Russia
+7092	7101	демократы	демократ	PER	ORG-Democratic-Party-USA
+7110	7113	ФБР	ФБР	ORG	ORG-FBI
+7148	7156	русского	русский	LOC	GPE-Russia
+7174	7182	Васильев	Васильев	PER	PER-Vladimir-Vasilyev
+7217	7220	ФБР	ФБР	ORG	ORG-FBI
+7319	7335	Байдена-младшего	Байден-младший	PER	PER-Hunter-Biden
+7338	7348	украинской	украинский	LOC	GPE-Ukraine
+7372	7380	NBC News	NBC News	PRO	PRO-NBC-News
+7524	7537	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+7578	7591	New York Post	New York Post	PRO	PRO-New-York-Post
+7613	7627	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+7667	7670	ФБР	ФБР	ORG	ORG-FBI
+7741	7744	ФБР	ФБР	ORG	ORG-FBI
+7873	7882	Белый дом	Белый дом	ORG	ORG-The-White-House
+8012	8022	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+8373	8375	RT	RT	PRO	PRO-RT-Russia-Today
+8403	8416	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+8420	8422	RT	RT	PRO	PRO-RT-Russia-Today
+8489	8495	Байден	Байден	PER	PER-Joe-Biden
+8550	8563	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+8668	8671	США	США	LOC	GPE-USA
+8672	8683	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+8699	8712	Юрия Рогулёва	Юрий Рогулёв	PER	PER-Yury-Rogulev
+8742	8753	украинского	украинский	LOC	GPE-Ukraine
+8769	8776	Байдена	Байден	PER	PER-Joe-Biden
+8809	8822	республиканцы	республиканец	PER	ORG-Republican-Party-USA
+8852	8858	Трампа	Трам	PER	PER-Donald-Trump
+8859	8875	Рудольф Джулиани	Рудольф Джулиани	PER	PER-Rudolph-Giuliani
+9009	9016	Байдена	Байден	PER	PER-Joe-Biden
+9078	9090	Юрий Рогулёв	Юрий Рогулёв	PER	PER-Yury-Rogulev
+9115	9129	республиканцев	республиканец	PER	ORG-Republican-Party-USA
+9157	9168	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+9261	9271	украинских	украинский	LOC	GPE-Ukraine
+9279	9286	Байдена	Байден	PER	PER-Joe-Biden
+9316	9321	Китае	Китай	LOC	GPE-China
+9323	9336	Республиканцы	республиканцы	PER	ORG-Republican-Party-USA
+9424	9435	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+9561	9578	Владимир Васильев	Владимир Васильев	PER	PER-Vladimir-Vasilyev
+9602	9617	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+9692	9705	американского	американский	LOC	GPE-USA
+9817	9823	Трампа	Трам	PER	PER-Donald-Trump
+9852	9860	Байденом	Байден	PER	PER-Joe-Biden
+9870	9883	американского	американский	LOC	GPE-USA
+10008	10016	Украиной	Украина	LOC	GPE-Ukraine
+10087	10094	Байдену	Байден	PER	PER-Joe-Biden
+10123	10129	Трампа	Трам	PER	PER-Donald-Trump
+10156	10162	Байден	Байден	PER	PER-Joe-Biden
+10250	10265	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton
+10307	10313	rt.com	rt.com	PRO	PRO-rt.com
+10331	10345	Роскомнадзором	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
+10417	10431	Симоньян М. С.	Симоньян М. С.	PER	PER-Margarita-Simonyan
+10456	10462	Москва	Москва	LOC	GPE-Moscow
+10464	10477	Боровая улица	Боровая улица	LOC	LOC-Borovaya-Street

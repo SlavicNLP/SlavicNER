@@ -1,0 +1,50 @@
+56	66	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+68	71	США	США	LOC	GPE-USA
+97	108	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+143	153	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+155	158	США	США	LOC	GPE-USA
+184	195	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+223	226	CNN	CNN	ORG	ORG-CNN
+235	244	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+246	260	округ Колумбія	округ Колумбія	LOC	GPE-District-of-Columbia
+279	282	США	США	LOC	GPE-USA
+341	352	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+364	375	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+439	467	Федеральне бюро розслідувань	Федеральне бюро розслідувань	ORG	ORG-FBI
+520	535	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+728	731	CNN	CNN	ORG	ORG-CNN
+758	781	Капітолійському пагорбі	Капітолійський пагорб	LOC	LOC-Capitol-Hill
+905	914	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+961	971	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+1026	1033	Потомак	Потомак	LOC	LOC-Potomac-River
+1141	1156	округу Колумбія	округ Колумбія	LOC	GPE-District-of-Columbia
+1184	1204	Національної гвардії	Національна гвардія	ORG	ORG-United-States-National-Guard
+1258	1267	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+1299	1310	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+1350	1360	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+1364	1375	інавгурацію	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+1382	1393	коронавірус	коронавірус	EVT	EVT-Covid-19
+1407	1418	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+1504	1513	Новинарня	Новинарня	PRO	PRO-Novynarnia
+1571	1586	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+1608	1617	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+1620	1630	парламенту	парламент	ORG	ORG-British-Parlament
+1631	1634	США	США	LOC	GPE-USA
+1639	1649	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+1673	1683	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+1687	1709	президентських виборах	президентські вибори	EVT	EVT-2020-United-States-Presidential-Election
+1863	1875	Конгресу США	Конгрес США	ORG	ORG-United-States-Congress
+1897	1902	Трамп	Трамп	PER	PER-Donald-Trump
+1912	1922	Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+2068	2077	Капітолію	Капітолій	LOC	LOC-United-States-Capitol
+2111	2121	парламенту	парламент	ORG	ORG-British-Parlament
+2205	2213	Конгресу	Конгрес	ORG	ORG-United-States-Congress
+2597	2604	Twitter	Twitter	PRO	PRO-Twitter
+2633	2639	Трампа	Трамп	PER	PER-Donald-Trump
+2678	2698	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
+2724	2737	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+2762	2765	США	США	LOC	GPE-USA
+2806	2811	Сенат	Сенат	ORG	ORG-United-States-Senate
+2840	2846	Трампа	Трамп	PER	PER-Donald-Trump
+2859	2870	інавгурації	інавгурація	EVT	EVT-2020-United-States-presidential-inauguration
+2882	2889	Байдена	Байден	PER	PER-Joe-Biden

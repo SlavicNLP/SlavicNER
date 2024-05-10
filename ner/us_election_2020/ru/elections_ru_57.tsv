@@ -1,0 +1,117 @@
+0	6	Байден	Байден	PER	PER-Joe-Biden
+16	22	Путину	Путин	PER	PER-Vladimir-Putin
+51	58	Америки	Америка	LOC	GPE-USA
+104	107	США	США	LOC	GPE-USA
+111	128	выборах 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+129	139	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+213	219	Путина	Путин	PER	PER-Vladimir-Putin
+223	234	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
+292	295	США	США	LOC	GPE-USA
+299	316	выборах 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+317	327	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+401	407	Путина	Путин	PER	PER-Vladimir-Putin
+468	481	американскому	американский	LOC	GPE-USA
+491	502	российскому	российский	LOC	GPE-Russia
+828	835	Байдена	Байден	PER	PER-Joe-Biden
+883	895	американских	американский	LOC	GPE-USA
+923	929	Путину	Путин	PER	PER-Vladimir-Putin
+1057	1068	российскому	российский	LOC	GPE-Russia
+1180	1183	США	США	LOC	GPE-USA
+1266	1272	Путину	Путин	PER	PER-Vladimir-Putin
+1288	1300	американский	американский	LOC	GPE-USA
+1346	1362	выборы 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+1401	1404	США	США	LOC	GPE-USA
+1456	1464	Байденом	Байден	PER	PER-Joe-Biden
+1467	1474	Путиным	Путин	PER	PER-Vladimir-Putin
+1572	1579	Украине	Украина	LOC	GPE-Ukraine
+1606	1615	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+1621	1626	Путин	Путин	PER	PER-Vladimir-Putin
+1634	1643	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+1649	1654	Путин	Путин	PER	PER-Vladimir-Putin
+1696	1703	Украины	Украина	LOC	GPE-Ukraine
+1780	1809	американские выборы 2016 года	американские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
+1887	1899	выборов-2020	выборы-2020	EVT	EVT-2020-United-States-Presidential-Election
+2246	2257	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+2295	2303	Facebook	Facebook	PRO	PRO-Facebook
+2304	2318	Марк Цукерберг	Марк Цукенберг	PER	PER-Mark-Zuckerberg
+2352	2358	Байден	Байден	PER	PER-Joe-Biden
+2468	2475	Путиным	Путин	PER	PER-Vladimir-Putin
+2477	2486	USA Today	«Актуальные комментарии»	PRO	"PRO-""Актальные"
+2495	2503	Facebook	Facebook	PRO	PRO-Facebook
+2528	2534	России	Россия	LOC	GPE-Russia
+2537	2542	Ирана	Иран	LOC	GPE-Iran
+2555	2571	выборы 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+2601	2615	Марк Цукерберг	Марк Цукенберг	PER	PER-Mark-Zuckerberg
+2666	2669	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+2701	2709	Facebook	Facebook	ORG	ORG-Facebook
+2842	2847	Ирана	Иран	LOC	GPE-Iran
+2858	2864	России	Россия	LOC	GPE-Russia
+2913	2921	Facebook	Facebook	PRO	PRO-Facebook
+2924	2933	Instagram	Instagram	PRO	PRO-Instagram
+2988	3005	Соединенные Штаты	Соединенные Штаты	LOC	GPE-USA
+3007	3022	Северную Африку	Северная Африка	LOC	LOC-North-Africa
+3025	3042	Латинскую Америку	Латинская Америка	LOC	LOC-Latin-America
+3201	3210	Цукерберг	Цукерберг	PER	PER-Mark-Zuckerberg
+3214	3217	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+3259	3262	CNN	CNN	PRO	PRO-CNN
+3296	3307	американцев	американцы	LOC	GPE-USA
+3422	3433	Джо Байдена	Джо Байден	PER	PER-Joe-Biden
+3444	3452	Graphika	Graphika	ORG	ORG-Graphika
+3506	3514	Facebook	Facebook	ORG	ORG-Facebook
+3585	3594	россиянин	россиянин	LOC	GPE-Russia
+3655	3667	американский	американский	LOC	GPE-USA
+3669	3679	латвийский	латвийский	LOC	GPE-Latvia
+3681	3690	эстонский	эстонский	LOC	GPE-Estonia
+3702	3712	украинский	украинский	LOC	GPE-Ukraine
+3723	3733	российских	российский	LOC	GPE-Russia
+3771	3778	русском	русский	LOC	GPE-Russia
+3796	3803	россиян	россияне	LOC	GPE-Russia
+3806	3822	Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+3971	3981	российской	российский	LOC	GPE-Russia
+4093	4101	Facebook	Facebook	PRO	PRO-Facebook
+4122	4126	Иран	Иран	LOC	GPE-Iran
+4143	4155	американские	американские	LOC	GPE-USA
+4188	4194	Россия	Россия	LOC	GPE-Russia
+4205	4211	Байден	Байден	PER	PER-Joe-Biden
+4262	4270	иранское	иранский	LOC	GPE-Iran
+4289	4296	Байдену	Байден	PER	PER-Joe-Biden
+4328	4336	иранскую	иранский	LOC	GPE-Iran
+4429	4444	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+4476	4485	демократы	демократ	PER	ORG-Democratic-Party-USA
+4527	4539	байденовский	байденовский	PER	PER-Joe-Biden
+4594	4616	Демократической партии	Демократическая партия	ORG	ORG-Democratic-Party-USA
+4636	4643	Байдену	Байден	PER	PER-Joe-Biden
+4783	4789	Трампа	Трамп	PER	PER-Donald-Trump
+4847	4854	Байдена	Байден	PER	PER-Joe-Biden
+4878	4885	Путиным	Путин	PER	PER-Vladimir-Putin
+4888	4898	россиянами	россияне	LOC	GPE-Russia
+4913	4919	Путина	Путин	PER	PER-Vladimir-Putin
+5200	5214	"""украинизация"""	украинизация	LOC	GPE-Ukraine
+5219	5231	американским	американский	LOC	GPE-USA
+5333	5336	США	США	LOC	GPE-USA
+5422	5434	американской	американская	LOC	GPE-USA
+5513	5531	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+5687	5695	facebook	facebook	PRO	PRO-Facebook
+5697	5710	дональд трамп	Дональд Трамп	PER	PER-Donald-Trump
+5712	5715	cnn	CNN	PRO	PRO-CNN
+5729	5743	владимир путин	Владимир Путин	PER	PER-Vladimir-Putin
+5745	5759	марк цукерберг	Марк Цукерберг	PER	PER-Mark-Zuckerberg
+5761	5764	сша	США	LOC	GPE-USA
+5783	5789	Байден	Байден	PER	PER-Joe-Biden
+5799	5805	Путину	Путин	PER	PER-Vladimir-Putin
+5834	5841	Америки	Америка	LOC	GPE-USA
+5887	5890	США	США	LOC	GPE-USA
+5894	5911	выборах 2020 года	выборы 2020 года	EVT	EVT-2020-United-States-Presidential-Election
+5912	5922	Джо Байден	Джо Байден	PER	PER-Joe-Biden
+5996	6002	Путина	Путин	PER	PER-Vladimir-Putin
+6063	6076	американскому	американский	LOC	GPE-USA
+6086	6097	российскому	российский	LOC	GPE-Russia
+6143	6148	Путин	Путин	PER	PER-Vladimir-Putin
+6151	6158	русские	русский	LOC	GPE-Russia
+6274	6279	Путин	Путин	PER	PER-Vladimir-Putin
+6312	6315	США	США	LOC	GPE-USA
+6352	6370	Соединенным Штатам	Соединенные Штаты	LOC	GPE-USA
+6373	6389	Восточной Европе	Восточная Европа	LOC	LOC-Eastern-Europe
+6503	6508	Трамп	Трамп	PER	PER-Donald-Trump
+6638	6643	Путин	Путин	PER	PER-Vladimir-Putin
+6645	6657	американский	американский	LOC	GPE-USA

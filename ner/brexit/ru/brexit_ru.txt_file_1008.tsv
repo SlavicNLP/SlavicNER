@@ -1,0 +1,20 @@
+0	10	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+49	55	Brexit	Brexit	EVT	EVT-Brexit
+57	69	Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+205	211	Brexit	Brexit	EVT	EVT-Brexit
+277	287	Терезы Мэй	Терезы Мэй	PER	PER-Theresa-May
+303	317	Великобритании	Великобритания	LOC	GPE-Great-Britain
+395	406	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+498	501	Мэй	Мэй	PER	PER-Theresa-May
+529	538	Евросоюза	Евросоюз	ORG	ORG-European-Union
+541	555	Великобритании	Великобритания	LOC	GPE-Great-Britain
+562	568	Brexit	Brexit	EVT	EVT-Brexit
+616	630	Доминика Рааба	Доминик Рааб	PER	PER-Dominic-Raab
+673	675	ЕС	ЕС	ORG	ORG-European-Union
+752	756	Рааб	Рааб	PER	PER-Dominic-Raab
+842	852	Майкл Гоув	Майкл Гоув	PER	PER-Michael-Gove
+956	969	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+977	995	МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+1005	1020	Дэвид Ледингтон	Дэвид Ледингтон	PER	PER-David-Lidington
+1093	1107	Великобритании	Великобритания	LOC	GPE-Great-Britain
+1146	1159	Дэвида Дэвиса	Дэвида Дэвиса	PER	PER-David-Davis

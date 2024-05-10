@@ -1,0 +1,22 @@
+3	22	Британских островах	Британские острова	LOC	GPE-Great-Britain
+43	49	Brexit	Brexit	EVT	EVT-Brexit
+70	73	Мэй	Мэй	PER	PER-Theresa-May
+106	112	Brexit	Brexit 	EVT	EVT-Brexit
+150	161	Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+176	182	Англии	Англия	LOC	GPE-Great-Britain
+258	266	Лондоном	Лондон	LOC	GPE-London
+295	304	Брюсселем	Брюссель	LOC	GPE-Brussles
+322	328	Англии	Англия	LOC	GPE-Great-Britain
+329	339	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+417	432	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+455	461	Brexit	Brexit 	EVT	EVT-Brexit
+462	475	Дэвида Девиса	Дэвид Девис	PER	PER-David-Davis
+656	663	Лондона	Лондон	LOC	GPE-London
+666	674	Брюсселя	Брюссель	LOC	GPE-Brussles
+764	770	Brexit	Brexit	EVT	EVT-Brexit
+839	849	Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+939	942	МИД	МИД	ORG	ORG-Foreign-Office
+943	956	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+978	984	Brexit	Brexit	EVT	EVT-Brexit
+985	996	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+1188	1229	выходе Англии из става европейского союза	выход Англии из става европейского союза	EVT	EVT-Brexit

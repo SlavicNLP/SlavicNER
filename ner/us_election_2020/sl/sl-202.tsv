@@ -1,0 +1,31 @@
+0	8	Trumpovi	Trumpovi	PER	PER-Donald-Trump
+40	50	Washington	Washington	LOC	GPE-WashingtonDC
+133	143	Washington	Washington	LOC	GPE-WashingtonDC
+146	151	Trump	Trump	PER	PER-Donald-Trump
+265	288	milijonskega MAGA marša	milijonski MAGA marš	EVT	EVT-Million-MAGA-March
+325	335	Washington	Washington	LOC	GPE-WashingtonDC
+376	390	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+421	428	Ameriko	Amerika	LOC	GPE-USA
+530	539	Bele hiše	Bela hiša	LOC	LOC-White-House
+598	609	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+661	664	ZDA	ZDA	LOC	GPE-USA
+685	697	Trgu svobode	Trg svobode	LOC	LOC-Freedom-Plaza
+784	798	Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+928	938	Trumpovimi	Trumpovi	PER	PER-Donald-Trump
+1122	1132	Američanov	Američani	PER	GPE-USA
+1272	1283	Joeja Bidna	Joe Biden	PER	PER-Joe-Biden
+1299	1302	ZDA	ZDA	LOC	GPE-USA
+1306	1318	Hunter Biden	Hunter Biden	PER	PER-Hunter-Biden
+1536	1544	Fox News	Fox News	PRO	PRO-Fox-News
+1651	1658	Trumpov	Trumpov	PER	PER-Donald-Trump
+1667	1674	Arizoni	Arizona	LOC	GPE-Arizona
+1676	1684	Trumpovi	Trumpovi	PER	PER-Donald-Trump
+1789	1794	Bidnu	Biden	PER	PER-Joe-Biden
+1821	1831	Wisconsinu	Wisconsin	LOC	GPE-Wisconsin
+1833	1845	Pensilvaniji	Pensilvanija	LOC	GPE-Pennsylvania
+2043	2052	Bele hiše	Bela hiša	LOC	LOC-White-House
+2066	2086	Pensilvanski avenije	Pensilvanijska avenija	LOC	LOC-Pennsylvania-Avenue
+2093	2106	Capitol Hillu	Capitol Hill	LOC	LOC-United-States-Capitol
+2176	2186	Proud Boys	Proud Boys	ORG	ORG-Proud-Boys
+2200	2216	Enriquom Tarriom	Enrique Tarrio	PER	PER-Enrique-Tarrio
+2446	2456	Američanov	Američani	PER	GPE-USA

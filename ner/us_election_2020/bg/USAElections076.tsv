@@ -1,0 +1,46 @@
+0	14	Николай Дойнов	Николай Дойнов	PER	PER-Nikolay-Doynov
+55	67	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+124	127	САЩ	САЩ	LOC	GPE-USA
+242	250	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+270	282	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+297	303	Байдън	Байдън	PER	PER-Joe-Biden
+371	377	Байдън	Байдън	PER	PER-Joe-Biden
+453	461	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+463	475	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+519	540	Избирателната колегия	Избирателна колегия	ORG	ORG-United-States-Electoral-College
+544	550	Байдън	Байдън	PER	PER-Joe-Biden
+561	572	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+595	600	Тръмп	Тръмп	PER	PER-Donald-Trump
+620	628	Би Би Си	Би Би Си	PRO	PRO-BBC
+631	637	Байдън	Байдън	PER	PER-Joe-Biden
+666	671	Тръмп	Тръмп	PER	PER-Donald-Trump
+722	731	Белия дом	Бял дом	LOC	LOC-White-House
+784	795	демократите	демократи	PER	ORG-Democratic-Party-USA
+893	898	Тръмп	Тръмп	PER	PER-Donald-Trump
+955	965	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+1059	1064	Тръмп	Тръмп	PER	PER-Donald-Trump
+1245	1250	Тръмп	Тръмп	PER	PER-Donald-Trump
+1269	1278	демократи	демократи	PER	ORG-Democratic-Party-USA
+1293	1305	републиканци	републиканци	PER	ORG-Republican-Party-USA
+1475	1483	Джорджия	Джорджия	LOC	GPE-Georgia-US-state
+1485	1491	Невада	Невада	LOC	GPE-Nevada
+1493	1504	Пенсилвания	Пенсилвания	LOC	GPE-Pennsylvania
+1506	1513	Аризона	Аризона	LOC	GPE-Arizona
+1516	1532	Северна Каролина	Северна Каролина	LOC	GPE-North-Carolina-US-State
+1555	1563	Fox News	Fox News	PRO	PRO-Fox-News
+1576	1582	Байдън	Байдън	PER	PER-Joe-Biden
+1714	1721	Аризона	Аризона	LOC	GPE-Arizona
+1749	1760	демократите	демократи	PER	ORG-Democratic-Party-USA
+1788	1793	Тръмп	Тръмп	PER	PER-Donald-Trump
+1833	1839	Байдън	Байдън	PER	PER-Joe-Biden
+1862	1867	Тръмп	Тръмп	PER	PER-Donald-Trump
+1892	1901	Белия дом	Бял дом	LOC	LOC-White-House
+1939	1942	САЩ	САЩ	LOC	GPE-USA
+1945	1948	CBS	CBS	PRO	PRO-CBS-TV
+1950	1953	NBC	NBC	PRO	PRO-National-Broadcasting-Company
+1956	1959	ABC	ABC	PRO	PRO-ABC-News
+2040	2045	Тръмп	Тръмп	PER	PER-Donald-Trump
+2648	2660	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+2680	2690	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
+2843	2848	Харис	Харис	PER	PER-Kamala-Harris
+3043	3049	Байдън	Байдън	PER	PER-Joe-Biden

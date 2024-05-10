@@ -1,0 +1,20 @@
+36	41	КОВИД	КОВИД	EVT	EVT-Covid-19
+120	130	Петербурга	Петербург	LOC	GPE-Saint-Petersburg
+175	191	Северной столицы	Северная столица	LOC	GPE-Saint-Petersburg
+336	346	Петербурга	Петербург	LOC	GPE-Saint-Petersburg
+367	369	VK	VK	PRO	PRO-VKontakte
+433	438	КОВИД	КОВИД	EVT	EVT-Covid-19
+660	673	коронавирусом	коронавирус	EVT	EVT-Covid-19
+709	714	КОВИД	КОВИД	EVT	EVT-Covid-19
+900	905	КОВИД	КОВИД	EVT	EVT-Covid-19
+1219	1224	КОВИД	КОВИД	EVT	EVT-Covid-19
+1251	1263	коронавируса	коронавирус	EVT	EVT-Covid-19
+1288	1294	России	Россия	LOC	GPE-Russia
+1296	1311	НЕВСКИЕ НОВОСТИ	НЕВСКИЕ НОВОСТИ	PRO	PRO-Nevskie-Novosti
+1339	1349	Петербурге	Петербург	LOC	GPE-Saint-Petersburg
+1419	1436	«НЕВСКИЕ НОВОСТИ»	НЕВСКИЕ НОВОСТИ	PRO	PRO-Nevskie-Novosti
+1516	1532	Санкт-Петербурга	Санкт-Петербург	LOC	GPE-Saint-Petersburg
+1535	1556	Ленинградской области	Ленинградская область	LOC	GPE-Leningrad-Region
+1870	1886	НЕВСКИХ НОВОСТЕЙ	НЕВСКИЕ НОВОСТИ	PRO	PRO-Nevsky-News
+1978	1986	Интернет	Интернет	PRO	PRO-Internet
+2006	2026	ИА «НЕВСКИЕ НОВОСТИ»	ИА «НЕВСКИЕ НОВОСТИ»	PRO	PRO-Nevskie-Novosti

@@ -1,0 +1,41 @@
+29	36	Ryanair	Ryanair	ORG	ORG-Ryanair
+190	197	Ryanair	Ryanair	ORG	ORG-Ryanair
+350	356	Itálii	Itálie	LOC	GPE-Italy
+358	367	Španělsku	Španělsko	LOC	GPE-Spain
+369	380	Portugalsku	Portugalsko	LOC	GPE-Portugal
+382	388	Belgii	Belgie	LOC	GPE-Belgium
+391	401	Nizozemsku	Nizozemsko	LOC	GPE-Holland
+405	411	Itálii	Itálie	LOC	GPE-Italy
+457	465	Ryanairu	Ryanair	ORG	ORG-Ryanair
+469	490	letiště Václava Havla	letiště Václava Havla	LOC	LOC-Vaclav-Havel-Airport-Prague
+721	726	Prahy	Praha	LOC	GPE-Prague
+730	736	Itálie	Itálie	LOC	GPE-Italy
+740	745	Česka	Česko	LOC	GPE-Czech-Republic
+771	780	Španělska	Španělsko	LOC	GPE-Spain
+789	795	Belgie	Belgie	LOC	GPE-Belgium
+798	808	Nizozemska	Nizozemsko	LOC	GPE-Holland
+917	922	Čechů	Češi	PER	GPE-Czech-Republic
+1001	1008	Ryanair	Ryanair	ORG	ORG-Ryanair
+1086	1089	CNE	CNE	ORG	ORG-CNE/LBC-Union
+1138	1145	Bruselu	Brusel	LOC	GPE-Brussles
+1173	1180	Ryanair	Ryanair	ORG	ORG-Ryanair
+1298	1305	Ryanair	Ryanair	ORG	ORG-Ryanair
+1358	1364	Itálii	Itálie	LOC	GPE-Italy
+1381	1411	talský svaz pracovníků dopravy	italský svaz pracovníků dopravy	ORG	ORG-UILTrasporti
+1412	1424	Uiltrasporti	Uiltrasporti	ORG	ORG-UILTrasporti
+1426	1433	Ryanair	Ryanair	ORG	ORG-Ryanair
+1529	1536	Ryanair	Ryanair	ORG	ORG-Ryanair
+1631	1638	Německu	Německo	LOC	GPE-Germany
+1698	1706	Ryanairu	Ryanair	ORG	ORG-Ryanair
+1707	1719	Kenny Jacobs	Kenny Jacobs	PER	PER-Kenny-Jacobs
+1723	1730	Německu	Německo	LOC	GPE-Germany
+1815	1822	Ryanair	Ryanair	ORG	ORG-Ryanair
+1930	1938	Ryanairu	Ryanair	ORG	ORG-Ryanair
+1941	1948	Německa	Německo	LOC	GPE-Germany
+1954	1961	Německa	Německo	LOC	GPE-Germany
+1963	1993	Odborový svaz německých pilotů	Odborový svaz německých pilotů	ORG	ORG-Vereinigung-Cockpit
+1994	2013	Vereinigung Cockpit	Vereinigung Cockpit	ORG	ORG-Vereinigung-Cockpit
+2024	2032	Ryanairu	Ryanair	ORG	ORG-Ryanair
+2142	2149	Evropou	Evropa	LOC	LOC-Europe
+2167	2174	Ryanair	Ryanair	ORG	ORG-Ryanair
+2567	2574	Ryanair	Ryanair	ORG	ORG-Ryanair

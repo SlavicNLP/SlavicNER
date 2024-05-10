@@ -1,0 +1,46 @@
+0	5	Biden	Biden	PER	PER-Joe-Biden
+23	30	Teksasu	Teksas	LOC	GPE-Texas
+138	141	USA	USA	LOC	GPE-USA
+169	176	Teksasu	Teksas	LOC	GPE-Texas
+192	209	RealClearPolitics	RealClearPolitics	PRO	PRO-RealClearPolitics
+250	265	Republikaninowi	Republikanin	PER	ORG-Republican-Party-USA
+302	305	USA	USA	LOC	GPE-USA
+347	370	The Dallas Morning News	The Dallas Morning News	PRO	PRO-The-Dallas-Morning-News
+374	408	Uniwersytetu Teksańskiego w Austin	Uniwersytet Teksański w Austin	ORG	ORG-University-of-Texas
+422	427	Biden	Biden	PER	PER-Joe-Biden
+500	509	Demokrata	Demokrata	PER	ORG-Democratic-Party-USA
+552	575	The Dallas Morning News	The Dallas Morning News	PRO	PRO-The-Dallas-Morning-News
+595	601	Trumpa	Trump	PER	PER-Donald-Trump
+604	612	Teksasie	Teksas	LOC	GPE-Texas
+682	687	Biden	Biden	PER	PER-Joe-Biden
+724	736	Białego Domu	Biały Dom	LOC	LOC-White-House
+825	831	Teksas	Teksas	LOC	GPE-Texas
+1036	1043	Arizona	Arizona	LOC	GPE-Arizona
+1045	1052	Floryda	Floryda	LOC	GPE-Florida
+1054	1061	Georgia	Georgia	LOC	GPE-Georgia-US-state
+1063	1071	Michigan	Michigan	LOC	GPE-Michigan
+1073	1082	Minnesota	Minnesota	LOC	GPE-Minnesota
+1084	1101	Karolina Północna	Karolina Północna	LOC	GPE-North-Carolina-US-State
+1103	1114	Pensylwania	Pensylwania	LOC	GPE-Pennsylvania
+1117	1126	Wisconsin	Wisconsin	LOC	GPE-Wisconsin
+1129	1138	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+1223	1231	Teksasie	Teksas	LOC	GPE-Texas
+1477	1487	Kalifornii	Kalifornia	LOC	GPE-California
+1500	1509	Demokraty	Demokrata	PER	ORG-Democratic-Party-USA
+1563	1571	Teksasie	Teksas	LOC	GPE-Texas
+1591	1603	koronawirusa	koronawirus	EVT	EVT-Covid-19
+1624	1632	The Hill	The Hill	PRO	PRO-The-Hill
+1704	1710	Trumpa	Trump	PER	PER-Donald-Trump
+1784	1793	Demokraci	Demokraci	ORG	ORG-Democratic-Party-USA
+1932	1944	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+2032	2038	Teksas	Teksas	LOC	GPE-Texas
+2250	2262	Republikanów	Republikanie	ORG	ORG-Republican-Party-USA
+2265	2273	Teksasie	Teksas	LOC	GPE-Texas
+2321	2333	Republikanin	Republikanin	PER	ORG-Republican-Party-USA
+2334	2342	Ted Cruz	Ted Cruz	PER	PER-Ted-Cruz
+2358	2367	Demokratą	Demokrata	PER	ORG-Democratic-Party-USA
+2368	2385	Beto O'Rourke'iem	Beto O'Rourke	PER	PER-Beto-O'Rourke
+2518	2541	The Dallas Morning News	The Dallas Morning News	PRO	PRO-The-Dallas-Morning-News
+2619	2624	Biden	Biden	PER	PER-Joe-Biden
+2724	2729	Trump	Trump	PER	PER-Donald-Trump
+2790	2797	Teksasu	Teksas	LOC	GPE-Texas
