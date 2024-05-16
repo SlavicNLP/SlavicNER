@@ -11,8 +11,8 @@
 432	444	коронавируса	коронавирус	EVT	EVT-Covid-19
 488	503	республику Коми	республика Коми	LOC	GPE-Republic-Komi
 522	535	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
-537	548	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
-691	702	"""Госуслуги"""	Госуслуги	ORG	ORG-Gosuslugi
+537	548	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
+691	702	"Госуслуги"	Госуслуги	ORG	ORG-Gosuslugi
 798	806	COVID-19	коронавирус	EVT	EVT-Covid-19
 906	910	Коми	Коми	LOC	GPE-Republic-Komi
 927	940	коронавирусом	коронавирус	EVT	EVT-Covid-19
@@ -23,7 +23,7 @@
 1471	1489	стопкоронавирус.рф	стопкоронавирус.рф	PRO	PRO-Stop-Coronavirus
 1504	1511	россиян	россияне	PER	GPE-Russia
 1515	1523	covid-19	covid-19	EVT	EVT-Covid-19
-1533	1544	"""спутник v"""	"""спутник v"""	PRO	PRO-Sputnik-V
+1533	1544	"спутник v"	"спутник v"	PRO	PRO-Sputnik-V
 1546	1557	коронавирус	коронавирус	EVT	EVT-Covid-19
 1560	1566	россии	Россия	LOC	GPE-Russia
 1568	1579	коронавирус	коронавирус	EVT	EVT-Covid-19
@@ -38,8 +38,8 @@
 1801	1813	коронавируса	коронавирус	EVT	EVT-Covid-19
 1860	1875	республику Коми	республика Коми	LOC	GPE-Republic-Komi
 1894	1907	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
-1909	1920	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
-2063	2074	"""Госуслуги"""	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
+1909	1920	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
+2063	2074	"Госуслуги"	Госуслуги	PRO	PRO-Public-Services-Portal-of-the-Russian-Federation
 2170	2178	COVID-19	COVID-19	EVT	EVT-Covid-19
 2281	2285	Коми	республика Коми	LOC	GPE-Republic-Komi
 2302	2315	коронавирусом	коронавирус	EVT	EVT-Covid-19

@@ -8,7 +8,7 @@
 340	354	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
 358	374	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
 393	400	Газпром	Газпром	ORG	ORG-Gazprom
-467	489	"НАК ""Нафтогаз України"""	"НАК ""Нафтогаз України"""	ORG	ORG-Naftogaz
+467	489	НАК "Нафтогаз України"	НАК "Нафтогаз України"	ORG	ORG-Naftogaz
 693	707	Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
 711	727	Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
 777	780	Цуг	Цуг	LOC	GPE-Zug
@@ -20,7 +20,7 @@
 1169	1172	Цуг	Цуг	LOC	GPE-Zug
 1316	1325	Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
 1355	1378	Стокгольмський арбітраж	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
-1398	1420	"НАК ""Нафтогаз України"""	"НАК ""Нафтогаз України"""	ORG	ORG-Naftogaz
+1398	1420	НАК "Нафтогаз України"	НАК "Нафтогаз України"	ORG	ORG-Naftogaz
 1448	1456	Газпрому	Газпром	ORG	ORG-Gazprom
 1459	1462	НАК	НАК	ORG	ORG-Naftogaz
 1583	1590	Газпром	Газпром	ORG	ORG-Gazprom

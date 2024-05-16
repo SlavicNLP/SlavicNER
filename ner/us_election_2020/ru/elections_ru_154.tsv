@@ -4,9 +4,9 @@
 129	136	Украины	Украина	LOC	GPE-Ukraine
 146	156	украинских	украинский	PER	GPE-Ukraine
 182	191	Only News	Only News	PRO	PRO-Only-News
-197	208	"""Ера-Медиа"""	"""Ера-Медиа"""	PRO	PRO-Era-Media
+197	208	"Ера-Медиа"	"Ера-Медиа"	PRO	PRO-Era-Media
 210	219	Nabuleaks	Nabuleaks	PRO	PRO-Nabuleaks
-226	235	"""Скептик"""	"""Скептик"""	PRO	PRO-Skeptik
+226	235	"Скептик"	"Скептик"	PRO	PRO-Skeptik
 341	366	министерства финансов США	министерство финансов США	ORG	ORG-United-States-Department-of-the-Treasury
 413	422	украинцев	украинцы	LOC	GPE-Ukraine
 464	467	США	США	LOC	GPE-USA
@@ -26,5 +26,5 @@
 1061	1068	Украине	Украина	LOC	GPE-Ukraine
 1088	1107	«Российской газеты»	«Российская газета»	PRO	PRO-Rossiyskaya-Gazeta
 1131	1144	Роскомнадзоре	Роскомнадзор	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
-1212	1246	ФГБУ «Редакция «Российской газеты»	ФГБУ «Редакция «Российской газеты»	ORG	"ORG-FSBI ""Editorial Office"" of the Russian Newspaper"
+1212	1246	ФГБУ «Редакция «Российской газеты»	ФГБУ «Редакция «Российской газеты»	ORG	ORG-FSBI "Editorial Office" of the Russian Newspaper
 1267	1278	В.А. Фронин	В.А. Фронин	PER	PER-V.A. Fronin

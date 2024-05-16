@@ -5,7 +5,7 @@
 168	171	США	США	LOC	GPE-USA
 265	268	США	США	LOC	GPE-USA
 269	284	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
-390	409	"""Інтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
+390	409	"Інтерфакс-Україна"	"Інтерфакс-Україна"	ORG	ORG-Interfax-Ukraine
 505	511	Трампа	Трамп	PER	PER-Donald-Trump
 786	806	Палата представників	Палата представників	ORG	ORG-United-States-House-of-Representatives
 807	810	США	США	LOC	GPE-USA

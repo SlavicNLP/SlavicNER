@@ -10,7 +10,7 @@
 885	896	американцам	американцы	PER	GPE-USA
 1034	1043	демократы	демократы	ORG	ORG-Democratic-Party-USA
 1047	1060	республиканцы	республиканцы	ORG	ORG-Republican-Party-USA
-1102	1111	"""зелёных"""	зелёные	ORG	ORG-Green-Party-of-the-United-States
+1102	1111	"зелёных"	зелёные	ORG	ORG-Green-Party-of-the-United-States
 1214	1221	Америки	Америка	LOC	GPE-USA
 1285	1295	демократов	демократы	ORG	ORG-Democratic-Party-USA
 1301	1315	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
@@ -65,5 +65,5 @@
 7132	7143	американцев	американцы	PER	GPE-USA
 7219	7236	Института Гэллапа	Институт Гэллапа	ORG	ORG-American-Institute-of-Public-Opinion
 7271	7290	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
-7414	7424	"""Царьград"""	"""Царьград"""	PRO	PRO-Tsargrad
+7414	7424	"Царьград"	"Царьград"	PRO	PRO-Tsargrad
 7427	7438	Яндекс.Дзен	Яндекс.Дзен	PRO	PRO-Yandex.Dzen

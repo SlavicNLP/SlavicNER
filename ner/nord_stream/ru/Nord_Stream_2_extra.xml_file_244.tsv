@@ -4,13 +4,13 @@
 64	72	Германии	Германия	LOC	GPE-Germany
 75	80	Путин	Путин	PER	PER-Vladimir-Putin
 147	154	Украину	Украина	LOC	GPE-Ukraine
-213	231	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
-234	252	"""Турецкий поток-2"""	"""Турецкий поток-2"""	PRO	PRO-Turkish-Stream
+213	231	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
+234	252	"Турецкий поток-2"	"Турецкий поток-2"	PRO	PRO-Turkish-Stream
 315	322	Украину	Украина	LOC	GPE-Ukraine
 351	354	США	США	LOC	GPE-USA
 357	364	Берлине	Берлин	LOC	GPE-Berlin
 365	379	Ричард Гренелл	Ричард Гренелл	PER	PER-Richard-Grenell
-411	429	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+411	429	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 481	487	Европу	Европа	LOC	LOC-Europe
 526	544	«Северный поток-2»	«Северный поток-2»	PRO	PRO-Nord-Stream-2
 612	619	Украину	Украина	LOC	GPE-Ukraine

@@ -1,10 +1,10 @@
 6	9	США	США	LOC	GPE-USA
 12	15	ФРГ	ФРГ	LOC	GPE-Germany
-55	74	""" Северный поток-2"""	""" Северный поток-2"""	PRO	PRO-Nord-Stream-2
+55	74	" Северный поток-2"	" Северный поток-2"	PRO	PRO-Nord-Stream-2
 82	85	США	США	LOC	GPE-USA
 88	96	Германии	Германия	LOC	GPE-Germany
 97	111	Ричард Гренелл	Ричард Гренелл	PER	PER-Richard-Grenell
-177	197	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+177	197	"Северный поток - 2"	"Северный поток - 2"	PRO	PRO-Nord-Stream-2
 247	262	Bild am Sonntag	Bild am Sonntag	PRO	PRO-Bild-am-Sonntag
 272	274	DW	DW	PRO	PRO-Deutsche-Welle
 292	299	Гренелл	Гренелл	PER	PER-Richard-Grenell

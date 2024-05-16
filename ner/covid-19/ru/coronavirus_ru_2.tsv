@@ -45,9 +45,9 @@
 5448	5455	Covaxin	Covaxin	PRO	PRO-Covaxin
 5482	5496	Bharat Biotech	Bharat Biotech	ORG	ORG-Bharat-Biotech
 5500	5506	Россия	Россия	LOC	GPE-Russia
-5541	5552	"""Спутник V"""	Спутник V	PRO	PRO-Sputnik-V
+5541	5552	"Спутник V"	Спутник V	PRO	PRO-Sputnik-V
 5609	5618	Аргентина	Аргентина	LOC	GPE-Argentina
-5708	5719	"""Спутником"""	Спутник	PRO	PRO-Sputnik-V
+5708	5719	"Спутником"	Спутник	PRO	PRO-Sputnik-V
 5773	5789	Африканский Союз	Африканский Союз	ORG	ORG-African-Union
 5832	5838	Pfizer	Pfizer	ORG	ORG-Pfizer
 5840	5851	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca

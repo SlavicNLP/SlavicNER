@@ -112,5 +112,5 @@
 5487	5493	Сенате	Сенат	ORG	ORG-United-States-Senate
 5586	5607	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
 5610	5620	демократов	демократы	PER	ORG-Democratic-Party-USA
-5813	5823	"""Царьград"""	"""Царьград"""	PRO	PRO-Tsargrad
+5813	5823	"Царьград"	"Царьград"	PRO	PRO-Tsargrad
 5826	5837	Яндекс.Дзен	Яндекс.Дзен	PRO	PRO-Yandex.Dzen

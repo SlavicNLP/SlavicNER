@@ -1,22 +1,22 @@
 0	7	Франция	Франция	LOC	GPE-France
-36	58	"""Северному потоку - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+36	58	"Северному потоку - 2"	"Северный поток - 2"	PRO	PRO-Nord-Stream-2
 60	71	МИД Франции	МИД Франции	ORG	ORG-Ministry-of-Foreign-Affairs-France
 93	99	Парижа	Париж	LOC	GPE-Paris
-210	230	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+210	230	"Северный поток - 2"	"Северный поток - 2"	PRO	PRO-Nord-Stream-2
 292	300	Германию	Германия	LOC	GPE-Germany
 368	377	Евросоюза	Евросоюз	ORG	ORG-European-Union
 506	526	Европейской комиссии	Европейская комиссия	ORG	ORG-European-Commission
-733	755	"""Северным потоком – 2"""	"""Северный поток – 2"""	PRO	PRO-Nord-Stream-2
+733	755	"Северным потоком – 2"	"Северный поток – 2"	PRO	PRO-Nord-Stream-2
 805	812	Reuters	Reuters	ORG	ORG-Reuters
 814	820	Берлин	Берлин	LOC	GPE-Berlin
 863	872	Евросоюза	Евросоюз	ORG	ORG-European-Union
 904	906	ЕС	ЕС	ORG	ORG-European-Union
-938	956	"""Северного потока"""	"""Северный поток"""	PRO	PRO-Nord-Stream-1
+938	956	"Северного потока"	"Северный поток"	PRO	PRO-Nord-Stream-1
 1009	1016	Франции	Франция	LOC	GPE-France
 1053	1059	России	Россия	LOC	GPE-Russia
 1120	1128	Германии	Германия	LOC	GPE-Germany
-1145	1167	"""Северного потока - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
-1223	1243	"""Северный поток – 2"""	"""Северный поток – 2"""	PRO	PRO-Nord-Stream-2
+1145	1167	"Северного потока - 2"	"Северный поток - 2"	PRO	PRO-Nord-Stream-2
+1223	1243	"Северный поток – 2"	"Северный поток – 2"	PRO	PRO-Nord-Stream-2
 1321	1337	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
 1346	1354	Германии	Германия	LOC	GPE-Germany
 1502	1509	Украину	Украина	LOC	GPE-Ukraine

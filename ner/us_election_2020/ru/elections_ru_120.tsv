@@ -22,7 +22,7 @@
 1030	1040	демократов	демократы	ORG	ORG-Democratic-Party-USA
 1041	1051	Джо Байден	Джо Байден	PER	PER-Joe-Biden
 1081	1094	Камала Харрис	Камала Харрис	PER	PER-Kamala-Harris
-1105	1116	"""Интерфакс"""	"""Интерфакс"""	PRO	PRO-Interfax
+1105	1116	"Интерфакс"	"Интерфакс"	PRO	PRO-Interfax
 1118	1123	Трамп	Трамп	PER	PER-Donald-Trump
 1193	1199	Байден	Байден	PER	PER-Joe-Biden
 1279	1292	Камалу Харрис	Камала Харрис	PER	PER-Kamala-Harris
@@ -35,7 +35,7 @@
 2083	2095	коронавируса	коронавирус	EVT	EVT-Covid-19
 2239	2261	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
 2395	2402	Америка	Америка	LOC	GPE-USA
-2433	2442	"""Свобода"""	"""Свобода"""	PRO	PRO-RFE-Radio-Free -Europe
+2433	2442	"Свобода"	"Свобода"	PRO	PRO-RFE-Radio-Free -Europe
 2466	2473	FoxNews	FoxNews	PRO	PRO-Fox-News
 2507	2515	Шарлотте	Шарлотт	LOC	GPE-Charlotte
 2555	2577	Республиканской партии	Республиканская партия	ORG	ORG-Republican-Party-USA
@@ -133,7 +133,7 @@
 7893	7899	России	Россия	LOC	GPE-Russia
 7978	7980	РФ	РФ	LOC	GPE-Russia
 8058	8065	Украине	Украина	LOC	GPE-Ukraine
-8122	8142	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+8122	8142	"Северный поток - 2"	"Северный поток - 2"	PRO	PRO-Nord-Stream-2
 8189	8194	Трамп	Трамп	PER	PER-Donald-Trump
 8225	8228	США	США	LOC	GPE-USA
 8231	8233	РФ	РФ	LOC	GPE-Russia

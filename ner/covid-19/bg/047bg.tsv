@@ -28,7 +28,7 @@
 2232	2241	Барселона	Барселона	LOC	GPE-Barcelona
 2269	2276	Брюксел	Брюксел	LOC	GPE-Brussles
 2327	2333	Берлин	Берлин	LOC	GPE-Berlin
-2364	2386	"института ""Роберт Кох"""	"институт ""Роберт Кох"""	ORG	ORG-Robert-Koch-Institut
+2364	2386	института "Роберт Кох"	институт "Роберт Кох"	ORG	ORG-Robert-Koch-Institut
 2468	2473	COVID	COVID	EVT	EVT-Covid-19
 2477	2496	германската столица	германска столица	LOC	GPE-Berlin
 2586	2592	Берлин	Берлин	LOC	GPE-Berlin

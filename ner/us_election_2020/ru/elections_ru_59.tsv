@@ -79,7 +79,7 @@
 4497	4514	Дональдом Трампом	Дональд Трамп	PER	PER-Donald-Trump
 4559	4564	Круза	Круз	PER	PER-Ted-Cruz
 4652	4664	Бето О'Рурка	Бето О'Рурк	PER	PER-Beto-O'Rourke
-4684	4696	"""Инстаграме"""	"""Инстаграм"""	PRO	PRO-Instagram
+4684	4696	"Инстаграме"	"Инстаграм"	PRO	PRO-Instagram
 4704	4711	Бейонсе	Бейонсе	PER	PER-Beyoncé
 4738	4744	О’Рурк	О’Рурк	PER	PER-Beto-O'Rourke
 4841	4851	Висконсине	Висконсин	LOC	GPE-Wisconsin
@@ -123,11 +123,11 @@
 6718	6728	демократам	демократы	ORG	ORG-Democratic-Party-USA
 6750	6755	Ромни	Ромни	PER	PER-Mitt-Romney
 6893	6898	Трамп	Трамп	PER	PER-Donald-Trump
-6929	6939	"""Твиттере"""	"""Твиттер"""	PRO	PRO-Twitter
+6929	6939	"Твиттере"	"Твиттер"	PRO	PRO-Twitter
 7017	7023	сенате	сенат	ORG	ORG-United-States-Senate
 7080	7086	Трампе	Трамп	PER	PER-Donald-Trump
 7139	7151	американский	американский	LOC	GPE-USA
-7188	7205	"""Код капиталиста"""	"""Код капиталиста"""	PRO	PRO-Book-The-Capitalist-Code
+7188	7205	"Код капиталиста"	"Код капиталиста"	PRO	PRO-Book-The-Capitalist-Code
 7206	7217	Бена Стайна	Бен Стайн	PER	PER-Ben-Stein
 7273	7283	Российский	Российский	LOC	GPE-Russia
 7292	7299	Косачев	Косачев	PER	PER-Konstantin-Kosachev

@@ -1,12 +1,12 @@
 0	8	Германия	Германия	LOC	GPE-Germany
 17	20	США	США	LOC	GPE-USA
-32	54	"""Северного потока - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+32	54	"Северного потока - 2"	"Северный поток - 2"	PRO	PRO-Nord-Stream-2
 58	65	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
 103	106	США	США	LOC	GPE-USA
 157	165	Германии	Германия	LOC	GPE-Germany
 166	176	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
 206	226	Соединёнными Штатами	Соединённые Штаты	LOC	GPE-USA
-254	272	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+254	272	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 285	288	США	США	LOC	GPE-USA
 421	431	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
 457	463	России	Россия	LOC	GPE-Russia

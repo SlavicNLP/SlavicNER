@@ -1,12 +1,12 @@
 0	7	Румыния	Румыния	LOC	GPE-Romania
-43	61	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+43	61	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 63	70	Румыния	Румыния	LOC	GPE-Romania
-106	124	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+106	124	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 180	182	ЕС	ЕС	ORG	ORG-European-Union
 208	215	Румыния	Румыния	LOC	GPE-Romania
 253	270	Европейском союзе	Европейский союз	ORG	ORG-European-Union
-347	365	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
-471	487	"""Польское радио"""	"""Польское радио"""	PRO	PRO-Polish-Radio
+347	365	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
+471	487	"Польское радио"	"Польское радио"	PRO	PRO-Polish-Radio
 498	505	24tv.ua	24tv.ua	PRO	PRO-24TV-UA
 561	563	ЕС	ЕС	ORG	ORG-European-Union
 631	633	ЕС	ЕС	ORG	ORG-European-Union

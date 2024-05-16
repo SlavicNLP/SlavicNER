@@ -13,9 +13,9 @@
 534	543	Капитолий	Капитолий	LOC	LOC-United-States-Capitol
 606	616	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
 646	651	Трамп	Трамп	PER	PER-Donald-Trump
-707	717	"""Симпсоны"""	Симпсон	PER	PER-Simpson
+707	717	"Симпсоны"	Симпсон	PER	PER-Simpson
 807	815	Q Shaman	Q Shaman	PER	PER-Jake-Angeli
-848	867	"""коктейли Молотова"""	"""коктейль Молотова"""	PRO	PRO-Molotov-Cocktail
+848	867	"коктейли Молотова"	"коктейль Молотова"	PRO	PRO-Molotov-Cocktail
 906	912	Трампа	Трам	PER	PER-Donald-Trump
 963	966	США	США	LOC	GPE-USA
 1023	1028	Трамп	Трамп	PER	PER-Donald-Trump

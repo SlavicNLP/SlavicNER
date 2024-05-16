@@ -11,7 +11,7 @@
 595	599	ГУМе	ГУМ	LOC	GPE-Main-Department-Store
 603	618	Красной площади	Красная площадь	LOC	GPE-The-Red-Square
 624	654	Главном универсальном магазине	Главный универсальный магазин	LOC	GPE-Main-Department-Store
-666	677	"""Спутником"""	Спутник	PRO	PRO-Sputnik-V
+666	677	"Спутником"	Спутник	PRO	PRO-Sputnik-V
 760	764	ГУМе	ГУМ	LOC	GPE-Main-Department-Store
 926	938	коронавируса	коронавирус	EVT	EVT-Covid-19
 962	977	Красной площади	Красная площадь	LOC	GPE-The-Red-Square

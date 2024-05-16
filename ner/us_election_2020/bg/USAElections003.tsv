@@ -50,12 +50,12 @@
 2096	2102	Байдън	Байдън	PER	PER-Joe-Biden
 2125	2132	Мичиган	Мичиган	LOC	GPE-Michigan
 2183	2188	Тръмп	Тръмп	PER	PER-Donald-Trump
-2452	2480	"Проекта ""Американски избори"""	"Проект ""Американски избори"""	PRO	PRO-United-States-Elections-Project
+2452	2480	Проекта "Американски избори"	Проект "Американски избори"	PRO	PRO-United-States-Elections-Project
 2490	2497	Ройтерс	Ройтерс	ORG	ORG-Reuters
 2743	2754	коронавирус	коронавирус	EVT	EVT-Covid-19
 2815	2838	Университета на Флорида	Университет на Флорида	ORG	ORG-University-of-Florida
 2839	2855	Майкъл Макдоналд	Майкъл Макдоналд	PER	PER-Michael-McDonald
-2880	2908	"Проекта ""Американски избори"""	"Проект ""Американски избори"""	PRO	PRO-United-States-Elections-Project
+2880	2908	Проекта "Американски избори"	Проект "Американски избори"	PRO	PRO-United-States-Elections-Project
 3026	3033	Ройтерс	Ройтерс	ORG	ORG-Reuters
 3049	3054	Ипсос	Ипсос	ORG	ORG-Ipsos-Institute
 3091	3102	демократите	демократи	PER	ORG-Democratic-Party-USA

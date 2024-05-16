@@ -1,26 +1,26 @@
 6	16	Моравецкий	Моравецкий	PER	PER-Mateusz-Morawiecki
-24	42	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+24	42	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 81	87	Польши	Польша	LOC	GPE-Poland
 181	183	ЕС	ЕС	ORG	ORG-European-Union
 201	207	Польши	Польша	LOC	GPE-Poland
 208	225	Матеуш Моравецкий	Матеуш Моравецкий	PER	PER-Mateusz-Morawiecki
-284	302	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+284	302	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 350	368	Европейского союза	Европейский союз	ORG	ORG-European-Union
 387	398	РБК-Украина	РБК-Украина	ORG	ORG-RBC-Ukraine
 447	451	CNBC	CNBC	PRO	PRO-CNBC
-484	502	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+484	502	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 613	623	Моравецкий	Моравецкий	PER	PER-Mateusz-Morawiecki
 658	679	Европейской комиссией	Европейская комиссия	ORG	ORG-European-Commission
-740	753	"""Южный поток"""	"""Южный поток"""	PRO	PRO-South-Stream
-782	802	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+740	753	"Южный поток"	"Южный поток"	PRO	PRO-South-Stream
+782	802	"Северного потока-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 920	926	России	Россия	LOC	GPE-Russia
 958	965	Украину	Украина	LOC	GPE-Ukraine
 968	974	Польшу	Польша	LOC	GPE-Poland
 1017	1023	Польши	Польша	LOC	GPE-Poland
 1024	1038	Яцек Чапутович	Яцек Чапутович	PER	PER-Jacek-Czaputowicz
-1077	1095	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1077	1095	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 1131	1138	Украины	Украина	LOC	GPE-Ukraine
 1206	1212	Польши	Польша	LOC	GPE-Poland
 1213	1224	Анджей Дуда	Анджей Дуда	PER	PER-Andrzej-Duda
 1252	1272	Российской Федерации	Российская Федерация	LOC	GPE-Russia
-1393	1411	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1393	1411	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2

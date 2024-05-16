@@ -92,7 +92,7 @@
 6268	6277	Журавлева	Журавлева	PER	PER-Victoria-Zhuravleva
 6288	6298	Госдумы РФ	Госдума РФ	ORG	ORG-Russia-The-State-Duma
 6299	6315	Вячеслав Володин	Вячеслав Володин	PER	PER-Viacheslav-Volodin
-6459	6468	"""Песняры"""	"""Песняры"""	ORG	ORG-vocal-and-instrumental-ensemble-pesnyary
+6459	6468	"Песняры"	"Песняры"	ORG	ORG-vocal-and-instrumental-ensemble-pesnyary
 6500	6507	Украину	Украина	LOC	GPE-Ukraine
 6524	6529	Крыма	Крым	LOC	GPE-Crimea
 6548	6563	Госпогранслужба	Госпогранслужба	ORG	ORG-Ukraine-State-Border-Guard
@@ -103,7 +103,7 @@
 6697	6701	НАТО	НАТО	ORG	ORG-NATO
 6733	6742	Ингушетии	Ингушетия	LOC	GPE-Ingushetia
 6774	6780	России	Россия	LOC	GPE-Russia
-6810	6825	"""Имарат Кавказ"""	"""Имарат Кавказ"""	ORG	ORG-The-Caucasus-Emirate
+6810	6825	"Имарат Кавказ"	"Имарат Кавказ"	ORG	ORG-The-Caucasus-Emirate
 6839	6855	Ростислав Ищенко	Ростислав Ищенко	PER	PER-Rostislav-Ischenko
 6917	6935	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
 6966	6968	РФ	РФ	LOC	GPE-Russia
@@ -114,8 +114,8 @@
 7170	7177	Украины	Украина	LOC	GPE-Ukraine
 7197	7207	российский	российский	LOC	GPE-Russia
 7216	7228	Сергей Цеков	Сергей Цеков	PER	PER-Sergey-Tsekov
-7240	7255	"""Газпром-медиа"""	"""Газпром-медиа"""	ORG	ORG-Gazprom-Media
-7293	7305	"""Триколором"""	"""Триколором"""	ORG	ORG-Tricolor
+7240	7255	"Газпром-медиа"	"Газпром-медиа"	ORG	ORG-Gazprom-Media
+7293	7305	"Триколором"	"Триколором"	ORG	ORG-Tricolor
 7414	7423	Ростуризм	Ростуризм	ORG	ORG-Rostourism
 7662	7671	Волжского	Волжский	LOC	LOC-Volzhsky
 7672	7688	Марин Афанасьева	Марина Афанасьева	PER	PER-Marina-Afanasyeva
@@ -134,6 +134,6 @@
 8481	8504	ФБА «Экономика сегодня»	ФБА «Экономика сегодня»	ORG	ORG-Federal-News-Agency-Economics-Today
 8524	8565	Института отраслевого менеджмента РАНХиГС	Институт отраслевого менеджмента РАНХиГС	ORG	ORG-Institute-of-Industry-Management-RANEPA
 8566	8579	Борис Пивовар	Борис Пивовар	PER	PER-Boris-Pivovar
-8925	8944	"""Экономика сегодня"""	"""Экономика сегодня"""	ORG	ORG-Federal-News-Agency-Economics-Today
-9048	9067	"""Экономика сегодня"""	"""Экономика сегодня"""	ORG	ORG-Federal-News-Agency-Economics-Today
+8925	8944	"Экономика сегодня"	"Экономика сегодня"	ORG	ORG-Federal-News-Agency-Economics-Today
+9048	9067	"Экономика сегодня"	"Экономика сегодня"	ORG	ORG-Federal-News-Agency-Economics-Today
 9083	9106	ФБА «Экономика сегодня»	ФБА «Экономика сегодня»	ORG	ORG-Federal-News-Agency-Economics-Today

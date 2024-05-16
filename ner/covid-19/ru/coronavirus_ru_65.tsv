@@ -16,11 +16,11 @@
 1299	1305	Москвы	Москва	LOC	GPE-Moscow
 1512	1520	COVID-19	COVID-19	EVT	EVT-Covid-19
 1533	1539	Москве	Москва	LOC	GPE-Moscow
-1585	1594	"""Спутник"""	Спутник	PRO	PRO-Sputnik-V
+1585	1594	"Спутник"	Спутник	PRO	PRO-Sputnik-V
 1635	1649	Андрей АБРАМОВ	Андрей Абрамов	PER	PER-Andrey-Abramov
 1726	1736	московской	московская	PER	GPE-Moscow
 1801	1807	mos.ru	mos.ru	PRO	PRO-Mos-.ru
-2297	2308	"""Спутник V"""	Спутник V	PRO	PRO-Sputnik-V
+2297	2308	"Спутник V"	Спутник V	PRO	PRO-Sputnik-V
 2648	2658	московской	московская	PER	GPE-Moscow
 2744	2754	«Спутник V	Спутник V	PRO	PRO-Sputnik-V
 2756	2769	Гам-Ковид-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac

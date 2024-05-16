@@ -1,7 +1,7 @@
 0	8	Германия	Германия	LOC	GPE-Germany
-35	52	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+35	52	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 54	62	Германия	Германия	LOC	GPE-Germany
-115	132	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+115	132	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 188	201	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
 215	222	Ройтерс	Ройтерс	ORG	ORG-Reuters
 349	358	Финландия	Финландия	LOC	GPE-Finland
@@ -9,7 +9,7 @@
 367	373	Швеция	Швеция	LOC	GPE-Sweden
 375	380	Русия	Русия	LOC	GPE-Russia
 383	391	Германия	Германия	LOC	GPE-Germany
-522	539	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+522	539	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 565	573	Германия	Германия	LOC	GPE-Germany
 596	606	Грайфсвалд	Грайфсвалд	LOC	GPE-Greifswald
 652	659	Газпром	Газпром	ORG	ORG-Gazprom

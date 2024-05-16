@@ -1,5 +1,5 @@
 0	3	САЩ	САЩ	LOC	GPE-USA
-41	58	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+41	58	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 60	63	САЩ	САЩ	LOC	GPE-USA
 118	131	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
 230	243	Франсис Фенън	Франсис Фенън	PER	PER-Francis-Fannon
@@ -8,7 +8,7 @@
 413	420	Ройтерс	Ройтерс	ORG	ORG-Reuters
 453	465	Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
 498	507	Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
-545	562	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+545	562	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 601	607	Европа	Европа	LOC	LOC-Europe
 622	627	Полша	Полша	LOC	GPE-Poland
 629	636	Украйна	Украйна	LOC	GPE-Ukraine

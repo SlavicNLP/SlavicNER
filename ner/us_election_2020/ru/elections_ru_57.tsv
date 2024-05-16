@@ -36,7 +36,7 @@
 2304	2318	Марк Цукерберг	Марк Цукенберг	PER	PER-Mark-Zuckerberg
 2352	2358	Байден	Байден	PER	PER-Joe-Biden
 2468	2475	Путиным	Путин	PER	PER-Vladimir-Putin
-2477	2486	USA Today	«Актуальные комментарии»	PRO	"PRO-""Актальные"
+2477	2486	USA Today	«Актуальные комментарии»	PRO	PRO-"Актальные
 2495	2503	Facebook	Facebook	PRO	PRO-Facebook
 2528	2534	России	Россия	LOC	GPE-Russia
 2537	2542	Ирана	Иран	LOC	GPE-Iran
@@ -86,7 +86,7 @@
 4878	4885	Путиным	Путин	PER	PER-Vladimir-Putin
 4888	4898	россиянами	россияне	LOC	GPE-Russia
 4913	4919	Путина	Путин	PER	PER-Vladimir-Putin
-5200	5214	"""украинизация"""	украинизация	LOC	GPE-Ukraine
+5200	5214	"украинизация"	украинизация	LOC	GPE-Ukraine
 5219	5231	американским	американский	LOC	GPE-USA
 5333	5336	США	США	LOC	GPE-USA
 5422	5434	американской	американская	LOC	GPE-USA

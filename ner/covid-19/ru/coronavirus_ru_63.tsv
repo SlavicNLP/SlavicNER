@@ -5,7 +5,7 @@
 1319	1332	коронавирусом	коронавирус	EVT	EVT-Covid-19
 1379	1398	Александр Федорович	Александр Федорович	PER	PER-Alexander-Feodorovich
 1409	1416	ковидом	ковид	EVT	EVT-Covid-19
-1460	1468	"""короны"""	корона	EVT	EVT-Covid-19
+1460	1468	"короны"	корона	EVT	EVT-Covid-19
 1497	1504	ковидом	ковид	EVT	EVT-Covid-19
 1768	1778	Ирина Роот	Ирина Роот	PER	PER-Irina-Root
 1865	1873	СOVID-19	СOVID-19	EVT	EVT-Covid-19
@@ -14,12 +14,12 @@
 2495	2508	коронавирусом	коронавирус	EVT	EVT-Covid-19
 3351	3365	Центра Гамалеи	Центр Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
 3390	3400	российских	российские	PER	GPE-Russia
-3427	3439	"""Спутника V"""	Спутник V	PRO	PRO-Sputnik-V
+3427	3439	"Спутника V"	Спутник V	PRO	PRO-Sputnik-V
 3519	3542	коронавирусная инфекция	коронавирусная инфекция	EVT	EVT-Covid-19
 3545	3562	Хунзахском районе	Хунзахский районе	LOC	GPE-Khunzakh-District
 3563	3572	Дагестана	Дагестан	LOC	GPE-Republic-of-Dagestan
 3782	3793	Наби Кураев	Наби Кураев	PER	PER-Nabi-Kuraev
-3808	3831	"ГБУ РД ""Хунзахская ЦРБ"""	"ГБУ РД ""Хунзахская ЦРБ"""	ORG	ORG-Khunzakh-Central-District-Hospital
+3808	3831	ГБУ РД "Хунзахская ЦРБ"	ГБУ РД "Хунзахская ЦРБ"	ORG	ORG-Khunzakh-Central-District-Hospital
 3866	3885	Дагестанский Хунзах	Дагестанский Хунзах	LOC	GPE-Khunzakh-District
 4159	4171	коронавирусу	коронавирус	EVT	EVT-Covid-19
 4396	4407	Наби Кураев	Наби Кураев	PER	PER-Nabi-Kuraev
@@ -27,7 +27,7 @@
 4684	4696	коронавируса	коронавирус	EVT	EVT-Covid-19
 4711	4718	Ростове	Ростов	LOC	GPE-Rostov-on-Don
 4987	5003	Оксана Чигринева	Оксана Чигринева	PER	PER-Oksana-Chigrineva
-5186	5194	"""короны"""	корона	EVT	EVT-Covid-19
+5186	5194	"короны"	корона	EVT	EVT-Covid-19
 5388	5394	России	Россия	LOC	GPE-Russia
 5489	5504	Ирина Самойлова	Ирина Самойлова	PER	PER-Irina-Samoylova
 5743	5748	Ирина	Ирина	PER	PER-Irina-Samoylova
@@ -43,8 +43,8 @@
 7940	7963	коронавирусную инфекцию	коронавирусная инфекция	EVT	EVT-Covid-19
 8092	8105	Анна Матвеева	Анна Матвеева	PER	PER-Anna-Matveeva
 8120	8125	ГП 62	ГП 62	ORG	ORG-City-Polyclinic-68-Moscow
-8370	8394	"научным центром ""Вектор"""	"научный центр ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
-8398	8412	"""ЭпиВакКорона"""	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+8370	8394	научным центром "Вектор"	научный центр "Вектор"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+8398	8412	"ЭпиВакКорона"	"ЭпиВакКорона"	PRO	PRO-EpiVacCorona
 8450	8458	Саратове	Саратов	LOC	GPE-Saratov
 8461	8473	Калининграде	Калининград	LOC	GPE-Kaliningrad
 8521	8537	Роспотребнадзора	Роспотребнадзор	ORG	ORG-Rospotrebnadzor

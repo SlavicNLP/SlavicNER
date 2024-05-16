@@ -43,7 +43,7 @@
 1787	1790	США	США	LOC	GPE-USA
 1793	1796	США	США	LOC	GPE-USA
 1877	1890	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
-1994	2019	"""Действие и солидарность"""	"""Действие и солидарность"""	ORG	ORG-Action-and-Solidarity-Party
+1994	2019	"Действие и солидарность"	"Действие и солидарность"	ORG	ORG-Action-and-Solidarity-Party
 2020	2030	Майя Санду	Майя Санду	PER	PER-Maia-Sandu
 2142	2152	Висконсина	Висконсин	LOC	GPE-Wisconsin
 2242	2245	США	США	LOC	GPE-USA
@@ -299,7 +299,7 @@
 11543	11554	Си Цзиньпин	Си Цзиньпин	PER	PER-Xi-Jinping
 11564	11575	Джо Байдену	Джо Байден	PER	PER-Joe-Biden
 11626	11629	США	США	LOC	GPE-USA
-11637	11648	"""Интерфакс"""	"""Интерфакс"""	PRO	PRO-Interfax
+11637	11648	"Интерфакс"	"Интерфакс"	PRO	PRO-Interfax
 11679	11684	Вучич	Вучич	PER	PER-Aleksandar-Vučić
 11695	11702	Байдена	Байден	PER	PER-Joe-Biden
 11734	11740	Сербии	Сербия	LOC	GPE-Serbia

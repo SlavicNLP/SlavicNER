@@ -9,7 +9,7 @@
 450	457	Украине	Украина	LOC	GPE-Ukraine
 555	562	Украины	Украина	LOC	GPE-Ukraine
 563	576	Денис Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
-589	606	Интерфакс-Украина	Интерфакс-Украина	PRO	"PRO-""Интерфакс-Украина"""
+589	606	Интерфакс-Украина	Интерфакс-Украина	PRO	PRO-"Интерфакс-Украина"
 680	687	Украине	Украина	LOC	GPE-Ukraine
 768	775	Украине	Украина	LOC	GPE-Ukraine
 962	969	Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
@@ -22,7 +22,7 @@
 1962	1967	COVAX	COVAX	ORG	ORG-Covax
 2141	2148	Украине	Украина	LOC	GPE-Ukraine
 2204	2211	Шмыгаль	Денис Шмыгаль	PER	PER-Denis-Shmygal
-2244	2258	Сніданку з 1+1	Сніданок з 1+1	PRO	"PRO-""Breakfast with 1+1"""
+2244	2258	Сніданку з 1+1	Сніданок з 1+1	PRO	PRO-"Breakfast with 1+1"
 2284	2299	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
 2314	2321	Украине	Украина	LOC	GPE-Ukraine
 2352	2360	COVID-19	COVID-19	EVT	EVT-Covid-19

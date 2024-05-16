@@ -7,13 +7,13 @@
 319	331	Kazpravda.kz	Kazpravda.kz	PRO	PRO-Kazakhstanskaya-Pravda
 355	365	Казахстане	Казахстан	LOC	GPE-Kazakhstan
 412	422	Казахстане	Казахстан	LOC	GPE-Kazakhstan
-465	521	"Кодекса РК ""О здоровье народа и системе здравоохранения"""	"Кодекс РК ""О здоровье народа и системе здравоохранения"""	PRO	PRO-The-Code-of-the-Republic-of-Kazakhstan-On-the-Health-of-the-People-and-the-Health-care-system
+465	521	Кодекса РК "О здоровье народа и системе здравоохранения"	Кодекс РК "О здоровье народа и системе здравоохранения"	PRO	PRO-The-Code-of-the-Republic-of-Kazakhstan-On-the-Health-of-the-People-and-the-Health-care-system
 712	722	Казахстане	Казахстан	LOC	GPE-Kazakhstan
 821	841	Республике Казахстан	Республика Казахстан	LOC	GPE-Kazakhstan
 869	871	РК	РК	LOC	GPE-Kazakhstan
 899	902	КВИ	КВИ	EVT	EVT-Covid-19
 928	941	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-The-Guardian
-943	954	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+943	954	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 979	985	России	Россия	LOC	GPE-Russia
 1049	1062	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
 1086	1129	Карагандинского фармацевтического комплекса	Карагандинский фармацевтический комплекс	LOC	LOC-Karaganda-Pharmaceutical-Complex
@@ -30,7 +30,7 @@
 3179	3191	коронавируса	коронавирус	EVT	EVT-Covid-19
 3716	3722	России	Россия	LOC	GPE-Russia
 4301	4313	коронавируса	коронавирус	EVT	EVT-Covid-19
-4331	4342	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+4331	4342	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 4442	4444	РК	РК	LOC	GPE-Kazakhstan
 4464	4478	казахстанского	казахстанский	PER	GPE-Kazakhstan
 4751	4772	Карагандинском заводе	Карагандинский завод	LOC	LOC-Karaganda-Pharmaceutical-Complex
@@ -39,7 +39,7 @@
 4911	4931	Республике Казахстан	Республика Казахстан	LOC	GPE-Kazakhstan
 5004	5016	коронавируса	коронавирус	EVT	EVT-Covid-19
 5292	5302	российская	российская	PER	GPE-Russia
-5311	5322	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+5311	5322	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 5406	5408	РФ	РФ	LOC	GPE-Russia
 5509	5535	Фонда прямых инвестиций РФ	Фонд прямых инвестиций РФ	ORG	ORG-Russian-Direct-Investment-Fund
 5620	5628	Беларусь	Беларусь	LOC	GPE-Belarus
@@ -76,7 +76,7 @@
 8542	8554	коронавируса	коронавирус	EVT	EVT-Covid-19
 8666	8674	COVID-19	СOVID-19	EVT	EVT-Covid-19
 8760	8783	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
-9074	9085	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+9074	9085	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 9092	9109	НИЦЭМ им. Гамалеи	НИЦЭМ им. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
 9322	9333	коронавирус	коронавирус	EVT	EVT-Covid-19
 9334	9344	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
@@ -89,19 +89,19 @@
 9945	9953	BioNTech	BioNTech	ORG	ORG-BioNTech
 9967	9973	Гвинеи	Гвинея	LOC	GPE-Guinea
 9974	9985	Альфа Конде	Альфа Конде	PER	PER-Alpha-Conde
-10032	10043	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+10032	10043	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 10153	10162	Аргентины	Аргентина	LOC	GPE-Argentina
 10163	10181	Альберто Фернандес	Альберто Фернандес	PER	PER-Alberto-Fernández
 10206	10229	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
 10230	10240	российской	российский	PER	GPE-Russia
-10250	10261	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+10250	10261	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 10312	10325	Буэнос-Айреса	Буэнос-Айрес	LOC	GPE-Buenos-Aires
 10326	10340	Даниэль Голлан	Даниэль Голлан	PER	PER-Daniel-Gollan
 10359	10368	Венесуэлы	Венесуэла	LOC	GPE-Venezuela
 10369	10390	Николаса Мадуро Герра	Николас Мадуро Герра	PER	PER-Nicolas-Maduro-Guerra
 10414	10426	коронавируса	коронавирус	EVT	EVT-Covid-19
 10427	10437	российской	российский	PER	GPE-Russia
-10447	10458	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+10447	10458	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 10472	10478	Турции	Турция	LOC	GPE-Turkey
 10479	10493	Реджеп Эрдоган	Реджеп Эрдоган	PER	PER-Recep-Erdogan
 10516	10539	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
@@ -122,7 +122,7 @@
 10912	10924	Оливер Стоун	Оливер Стоун	PER	PER-Oliver-Stone
 10941	10951	российской	российский	PER	GPE-Russia
 10964	10987	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
-10988	10999	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+10988	10999	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 11005	11015	Казахстане	Казахстан	LOC	GPE-Kazakhstan
 11044	11056	коронавируса	коронавирус	EVT	EVT-Covid-19
 11127	11129	РК	РК	LOC	GPE-Kazakhstan

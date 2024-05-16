@@ -43,11 +43,11 @@
 3550	3566	Андрей Головачев	Андрей Головачаев	PER	PER-Andrey-Golo
 3592	3598	Байден	Байден	PER	PER-Joe-Biden
 3648	3656	Covid-19	Covid-19	EVT	EVT-Covid-19
-3740	3753	"""Buy America"""	"""Buy America"""	PRO	PRO-Buy-American-Act
+3740	3753	"Buy America"	"Buy America"	PRO	PRO-Buy-American-Act
 3965	3971	Байден	Байден	PER	PER-Joe-Biden
 4000	4012	коронавируса	коронавирус	EVT	EVT-Covid-19
 4264	4272	Covid-19	Covid-19	EVT	EVT-Covid-19
-4294	4316	"""Экономической помощи"""	"""Экономическая помощь"""	EVT	EVT-Financial-Aid-Act
+4294	4316	"Экономической помощи"	"Экономическая помощь"	EVT	EVT-Financial-Aid-Act
 4411	4419	Medicaid	Medicaid	PRO	PRO-Medicaid
 4429	4433	Pell	Pell	PRO	PRO-Pell
 4456	4460	SNAP	SNAP	PRO	PRO-SNAP

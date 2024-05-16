@@ -14,7 +14,7 @@
 644	650	Pfizer	Pfizer	ORG	ORG-Pfizer
 653	660	Moderna	Moderna	ORG	ORG-Moderna
 703	713	российской	российский	PER	GPE-Russia
-722	733	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+722	733	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 760	770	британская	британский	PER	GPE-Great-Britain
 1111	1123	Сара Гилберт	Сара Гилберт	PER	PER-Sarah-Gilbert
 1161	1172	Коронавирус	Коронавирус	EVT	EVT-Covid-19
@@ -44,7 +44,7 @@
 3970	3976	Qantas	Qantas	ORG	ORG-Quantas
 4260	4265	Джойс	Джойс	PER	PER-Alan-Joyce
 4277	4291	австралийскому	австралийский	PER	GPE-Australia
-4292	4309	"""Девятому каналу"""	"""Девятый канал"""	PRO	PRO-Channel-Nine
+4292	4309	"Девятому каналу"	"Девятый канал"	PRO	PRO-Channel-Nine
 4588	4624	ассоциации воздушного траспорта ИАТА	ассоциация воздушного транспорта ИАТА	ORG	ORG-International-Air-Transport-Association
 4625	4637	Дэвид Пауэлл	Дэвид Пауэлл	PER	PER-David-Powell
 4891	4906	Financial Times	Financial Times	PRO	PRO-Financial-Times

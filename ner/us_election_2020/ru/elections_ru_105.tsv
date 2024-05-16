@@ -12,7 +12,7 @@
 667	684	Северной Каролине	Северная Каролина	LOC	GPE-North-Carolina-US-State
 687	695	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
 712	719	Аризона	Аризона	LOC	GPE-Arizona
-841	853	"""За стеклом"""	"""За стеклом"""	PRO	PRO-Behind-the-Glass
+841	853	"За стеклом"	"За стеклом"	PRO	PRO-Behind-the-Glass
 904	912	Мичигане	Мичиган	LOC	GPE-Michigan
 1211	1218	Байдена	Байден	PER	PER-Joe-Biden
 1282	1289	Байдена	Байден	PER	PER-Joe-Biden
@@ -130,11 +130,11 @@
 8959	8968	Голливуда	Голливуд	LOC	GPE-Hollywood
 8972	8984	Марк Руффало	Марк Руффало	PER	PER-Mark-Ruffalo
 9009	9014	Халка	Халк	PER	PER-Hulk
-9036	9044	"""Марвел"""	"""Марвел"""	PRO	PRO-Marvel
+9036	9044	"Марвел"	"Марвел"	PRO	PRO-Marvel
 9064	9074	демократов	демократы	ORG	ORG-Democratic-Party-USA
 9077	9084	Аризоне	Аризона	LOC	GPE-Arizona
 9096	9106	Роб Райнер	Роб Райнер	PER	Роберт Мюллер
-9127	9155	"""Когда Гарри встретил Салли"""	"""Когда Гарри встретил Салли"""	PRO	PRO-When-Harry-Met-Sally
+9127	9155	"Когда Гарри встретил Салли"	"Когда Гарри встретил Салли"	PRO	PRO-When-Harry-Met-Sally
 9168	9174	Байден	Байден	PER	PER-Joe-Biden
 9208	9213	Рианы	Риана	PER	PER-Rihanna
 9300	9312	американских	американские	LOC	GPE-USA

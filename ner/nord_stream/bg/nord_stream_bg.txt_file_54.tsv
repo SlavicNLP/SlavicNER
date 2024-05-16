@@ -29,7 +29,7 @@
 1337	1348	Wintershall	Wintershall	ORG	ORG-Wintershall
 1375	1379	BASF	BASF	ORG	ORG-BASF-Holding
 1381	1387	Европа	Европа	LOC	LOC-Europe
-1403	1420	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+1403	1420	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 1440	1454	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
 1510	1512	ЕС	ЕС	ORG	ORG-European-Union
 1537	1545	Германия	Германия	LOC	GPE-Germany

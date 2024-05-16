@@ -1,7 +1,7 @@
 0	4	Bild	Bild	PRO	PRO-Bild
 12	15	США	США	LOC	GPE-USA
 37	45	Германии	Германия	LOC	GPE-Germany
-62	84	"""Северного потока - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+62	84	"Северного потока - 2"	"Северный поток - 2"	PRO	PRO-Nord-Stream-2
 107	115	Германии	Германия	LOC	GPE-Germany
 116	130	Ричард Гренелл	Ричард Гренелл	PER	PER-Richard-Grenell
 252	270	Северного потока 2	Северный поток 2	PRO	PRO-Nord-Stream-2

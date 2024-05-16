@@ -1,4 +1,4 @@
-47	64	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+47	64	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 108	121	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
 229	242	Nord Stream 2	Nord Stream 2	ORG	ORG-Nord-Stream-2-AG
 256	260	ТАСС	ТАСС	ORG	ORG-TASS-Agency
@@ -11,7 +11,7 @@
 513	519	Uniper	Uniper	ORG	ORG-Uniper
 522	533	Wintershall	Wintershall	ORG	ORG-Wintershall
 561	567	Запада	Запад	LOC	LOC-Western-Europe
-610	627	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+610	627	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 692	695	САЩ	САЩ	LOC	GPE-USA
 820	822	ЕС	ЕС	ORG	ORG-European-Union
 974	979	Русия	Русия	LOC	GPE-Russia
@@ -21,5 +21,5 @@
 1223	1236	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
 1340	1349	Централна	 Централна	LOC	LOC-Central-Europe
 1352	1366	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
-1380	1397	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+1380	1397	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 1400	1408	Германия	Германия	LOC	GPE-Germany

@@ -96,7 +96,7 @@
 5276	5286	Зоран Заев	Зоран Заев	PER	PER-Zoran-Zaev
 5320	5325	Давос	Давос	LOC	GPE-Davos
 5356	5363	Канал 5	Канал 5	PRO	PRO-Kanal-5-Macedonia
-5631	5644	"ГКПП ""Преспа"""	"ГКПП ""Преспа"""	LOC	LOC-GKPP-Prespa
+5631	5644	ГКПП "Преспа"	ГКПП "Преспа"	LOC	LOC-GKPP-Prespa
 5673	5677	Заев	Заев	PER	PER-Zoran-Zaev
 5861	5870	Македония	Македония	LOC	GPE-North-Macedonia
 5883	5885	ЕС	ЕС	ORG	ORG-European-Union
@@ -210,4 +210,4 @@
 11028	11038	британците	британци	PER	GPE-Great-Britain
 11065	11071	Меркел	Меркел	PER	PER-Angela-Merkel
 11084	11090	Берлин	Берлин	LOC	GPE-Berlin
-11334	11363	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+11334	11363	Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

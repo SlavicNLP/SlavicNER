@@ -61,7 +61,7 @@
 3195	3205	Джо Байден	Джо Байден	PER	PER-Joe-Biden
 3245	3251	России	Россия	LOC	GPE-Russia
 3263	3270	Украины	Украина	LOC	GPE-Ukraine
-3309	3329	"""Северный поток — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+3309	3329	"Северный поток — 2"	"Северный поток — 2"	PRO	PRO-Nord-Stream-2
 3383	3388	СНВ-3	СНВ-3	PRO	PRO-Strategic-Arms-Reduction-Treaty
 3389	3398	демократы	демократы	ORG	ORG-Democratic-Party-USA
 3413	3427	республиканцев	республиканцы	ORG	ORG-Republican-Party-USA

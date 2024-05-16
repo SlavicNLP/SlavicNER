@@ -4,7 +4,7 @@
 103	138	Министерство иностранных дел России	Министерство иностранных дел России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
 188	191	США	США	LOC	GPE-USA
 194	202	Германии	Германия	LOC	GPE-Germany
-314	334	"""Северный поток - 2"""	"""Северный поток - 2"""	PRO	PRO-Nord-Stream-2
+314	334	"Северный поток - 2"	"Северный поток - 2"	PRO	PRO-Nord-Stream-2
 401	411	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
 412	426	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
 446	449	США	США	LOC	GPE-USA

@@ -20,13 +20,13 @@
 2537	2544	Пирогов	Пирогов	LOC	LOC-Pirogov-Hospital-BG
 2703	2714	коронавирус	коронавирус	EVT	EVT-Covid-19
 2831	2839	COVID-19	COVID-19	EVT	EVT-Covid-19
-2854	2877	"УМБАЛ ""Света Екатерина"""	"УМБАЛ ""Света Екатерина"""	LOC	LOC-St. Ekaterina-University-Hospital-BG
+2854	2877	УМБАЛ "Света Екатерина"	УМБАЛ "Света Екатерина"	LOC	LOC-St. Ekaterina-University-Hospital-BG
 2883	2888	ковид	КОВИД	EVT	EVT-Covid-19
 3015	3018	РЗИ	РЗИ	ORG	ORG-Regional-Health-Inspectorate-Bulgaria
 3021	3043	здравното министерство	Здравно министерство	ORG	ORG-Ministry-of-Health-Bulgaria
 3096	3099	БНТ	БНТ	ORG	ORG-Bulgarian-National-Television
 3106	3117	Генчо Начев	Генчо Начев	PER	PER-Gencho-Nachev
-3144	3167	"УМБАЛ ""Света Екатерина"""	"УМБАЛ ""Света Екатерина"""	LOC	LOC-St. Ekaterina-University-Hospital-BG
+3144	3167	УМБАЛ "Света Екатерина"	УМБАЛ "Света Екатерина"	LOC	LOC-St. Ekaterina-University-Hospital-BG
 3205	3217	коронавируса	коронавирус	EVT	EVT-Covid-19
 3312	3317	ковид	КОВИД	EVT	EVT-Covid-19
 3384	3392	COVID-19	COVID-19	EVT	EVT-Covid-19

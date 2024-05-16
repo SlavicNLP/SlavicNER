@@ -5,10 +5,10 @@
 132	147	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
 167	174	Украину	Украина	LOC	GPE-Ukraine
 224	233	китайской	китайский	PER	GPE-China
-267	284	"""Sinovac Biotech"""	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
+267	284	"Sinovac Biotech"	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
 313	320	Украину	Украина	LOC	GPE-Ukraine
 357	369	коронавируса	коронавирус	EVT	EVT-Covid-19
-451	465	Сніданку з 1+1	Сніданку з 1+1	PRO	"PRO-""Breakfast with 1+1"""
+451	465	Сніданку з 1+1	Сніданку з 1+1	PRO	PRO-"Breakfast with 1+1"
 511	526	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
 547	555	Guardian	Guardian	PRO	PRO-The-Guardian
 677	680	ВОЗ	ВОЗ	ORG	ORG-World-Health-Organization

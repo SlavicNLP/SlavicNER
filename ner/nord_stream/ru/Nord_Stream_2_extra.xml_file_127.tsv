@@ -11,7 +11,7 @@
 375	382	Х.Мааса	Х.Маас	PER	PER-Heiko-Maas
 414	454	Восточного комитета Германской экономики	Восточный комитет Германской экономики	ORG	ORG-Committee-on-Eastern-European-Economic-Relations
 457	464	Берлине	Берлин	LOC	GPE-Berlin
-491	503	"""Интерфакса"""	"""Интерфакс"""	ORG	ORG-Interfax
+491	503	"Интерфакса"	"Интерфакс"	ORG	ORG-Interfax
 546	548	РФ	РФ	LOC	GPE-Russia
 549	563	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
 599	606	Украину	Украина	LOC	GPE-Ukraine

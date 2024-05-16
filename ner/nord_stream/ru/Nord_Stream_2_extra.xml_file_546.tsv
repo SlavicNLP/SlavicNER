@@ -7,6 +7,6 @@
 178	181	США	США	LOC	GPE-USA
 235	242	Украину	Украина	LOC	GPE-Ukraine
 305	311	Россию	Россия	LOC	GPE-Russia
-359	377	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
-461	471	"""60 минут"""	"""60 минут"""	PRO	PRO-60-Minutes-TVshow
-486	496	"""Россия 1"""	"""Россия 1"""	PRO	PRO-Russia-1-TV
+359	377	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
+461	471	"60 минут"	"60 минут"	PRO	PRO-60-Minutes-TVshow
+486	496	"Россия 1"	"Россия 1"	PRO	PRO-Russia-1-TV

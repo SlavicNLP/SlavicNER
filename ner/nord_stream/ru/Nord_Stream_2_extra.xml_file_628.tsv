@@ -1,5 +1,5 @@
 2	10	Германии	Германия	LOC	GPE-Germany
-29	47	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+29	47	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 69	78	Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
 80	96	Северный поток-2	Северный поток-2	PRO	PRO-Nord-Stream-2
 133	147	Ангелы Меркель	Ангела Меркель	PER	PER-Angela-Merkel
@@ -24,7 +24,7 @@
 1169	1172	США	США	LOC	GPE-USA
 1348	1354	Европы	Европа	LOC	LOC-Europe
 1419	1425	Европе	Европа	LOC	LOC-Europe
-1636	1654	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1636	1654	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 1671	1677	Европе	Европа	LOC	LOC-Europe
 1729	1735	Трампа	Трам	PER	PER-Donald-Trump
 1841	1847	Европу	Европа	LOC	LOC-Europe

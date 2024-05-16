@@ -67,7 +67,7 @@
 4513	4519	России	Россия	LOC	GPE-Russia
 4556	4562	Вектор	Вектор	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
 4564	4580	Роспотребнадзора	Роспотребнадзор	ORG	ORG-CPS
-4584	4596	ЭпиВакКорона	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+4584	4596	ЭпиВакКорона	"ЭпиВакКорона"	PRO	PRO-EpiVacCorona
 4701	4799	Федеральном научном центре исследований и разработки иммунобиологических препаратов имени Чумакова	Федеральный научный центр исследований и разработки иммунобиологических препаратов им. М. П. Чумакова РАН	ORG	ORG-Chumakov-Scientific-Center-Russia
 4871	4882	коронавирус	коронавирус	EVT	EVT-Covid-19
 4883	4893	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19

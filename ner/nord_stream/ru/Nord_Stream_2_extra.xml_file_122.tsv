@@ -1,12 +1,12 @@
 6	18	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
 34	37	США	США	LOC	GPE-USA
-46	66	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+46	66	"Северного потока-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 68	72	КИЕВ	КИЕВ	LOC	GPE-Kiev
 85	88	УНН	УНН	ORG	ORG-UNN
 114	122	Германии	Германия	LOC	GPE-Germany
 123	132	Хайко Мас	Хайко Мас	PER	PER-Heiko-Maas
 148	151	США	США	LOC	GPE-USA
-180	198	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+180	198	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 217	220	УНН	УНН	ORG	ORG-UNN
 235	237	DW	DW	PRO	PRO-Deutsche-Welle
 302	308	Европе	Европа	LOC	LOC-Europe

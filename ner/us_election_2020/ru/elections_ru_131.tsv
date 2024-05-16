@@ -30,7 +30,7 @@
 1228	1236	Виргинии	Виргиния	LOC	GPE-Virginia
 1273	1276	США	США	LOC	GPE-USA
 1277	1287	Джо Байден	Джо Байден	PER	PER-Joe-Biden
-1326	1347	Медиагруппа «Патриот»	"Медиагруппа ""Патриот"""	ORG	ORG-Media-Group-Patriot
+1326	1347	Медиагруппа «Патриот»	Медиагруппа "Патриот"	ORG	ORG-Media-Group-Patriot
 1350	1380	Федеральное агентство новостей	Федеральное агентство новостей	ORG	ORG-Russia-Federal-News-Agency-Economics-Today
 1426	1429	США	США	LOC	GPE-USA
 1505	1511	Москвы	Москва	LOC	GPE-Moscow
@@ -78,7 +78,7 @@
 3295	3301	Домрин	Домрин	PER	PER-Alexander-Domrin
 3312	3322	Госдумы РФ	Госдума РФ	ORG	ORG-Russia-The-State-Duma
 3323	3339	Вячеслав Володин	Вячеслав Володин	PER	PER-Viacheslav-Volodin
-3483	3492	"""Песняры"""	"""Песняры"""	ORG	ORG-vocal-and-instrumental-ensemble-pesnyary
+3483	3492	"Песняры"	"Песняры"	ORG	ORG-vocal-and-instrumental-ensemble-pesnyary
 3524	3531	Украину	Украина	LOC	GPE-Ukraine
 3548	3553	Крыма	Крым	LOC	GPE-Crimea
 3572	3587	Госпогранслужба	Госпогранслужба	ORG	ORG-Ukraine-State-Border-Guard
@@ -89,7 +89,7 @@
 3721	3725	НАТО	НАТО	ORG	ORG-NATO
 3757	3766	Ингушетии	Ингушетия	LOC	GPE-Ingushetia
 3798	3804	России	Россия	LOC	GPE-Russia
-3834	3849	"""Имарат Кавказ"""	"""Имарат Кавказ"""	ORG	ORG-The-Caucasus-Emirate
+3834	3849	"Имарат Кавказ"	"Имарат Кавказ"	ORG	ORG-The-Caucasus-Emirate
 3863	3879	Ростислав Ищенко	Ростислав Ищенко	PER	PER-Rostislav-Ischenko
 3941	3959	Алексея Навального	Алексей Навальный	PER	PER-Alexei-Navalny
 3990	3992	РФ	РФ	LOC	GPE-Russia
@@ -99,8 +99,8 @@
 4194	4201	Украины	Украина	LOC	GPE-Ukraine
 4221	4231	российский	российский	LOC	GPE-Russia
 4240	4252	Сергей Цеков	Сергей Цеков	PER	PER-Sergey-Tsekov
-4264	4279	"""Газпром-медиа"""	"""Газпром-медиа"""	ORG	ORG-Gazprom-Media
-4317	4329	"""Триколором"""	"""Триколор"""	ORG	ORG-Tricolor
+4264	4279	"Газпром-медиа"	"Газпром-медиа"	ORG	ORG-Gazprom-Media
+4317	4329	"Триколором"	"Триколор"	ORG	ORG-Tricolor
 4438	4447	Ростуризм	Ростуризм	ORG	ORG-Rostourism
 4686	4695	Волжского	Волжский	LOC	LOC-Volzhsky
 4696	4712	Марин Афанасьева	Марина Афанасьева	PER	PER-Marina-Afanasyeva
@@ -121,6 +121,6 @@
 5590	5603	Борис Пивовар	Борис Пивовар	PER	PER-Boris-Pivovar
 5723	5731	Интернет	Интернет	PRO	PRO-Internet
 5894	5908	rueconomics.ru	rueconomics.ru	PRO	PRO-Economy-Today
-5949	5968	"""Экономика сегодня"""	"""Экономика сегодня"""	ORG	ORG-Federal-News-Agency-Economics-Today
-6072	6091	"""Экономика сегодня"""	"""Экономика сегодня"""	ORG	ORG-Federal-News-Agency-Economics-Today
+5949	5968	"Экономика сегодня"	"Экономика сегодня"	ORG	ORG-Federal-News-Agency-Economics-Today
+6072	6091	"Экономика сегодня"	"Экономика сегодня"	ORG	ORG-Federal-News-Agency-Economics-Today
 6107	6130	ФБА «Экономика сегодня»	ФБА «Экономика сегодня»	ORG	ORG-Federal-News-Agency-Economics-Today

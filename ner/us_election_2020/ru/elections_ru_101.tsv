@@ -1,5 +1,5 @@
 23	26	США	США	LOC	GPE-USA
-37	48	"""Интерфакс"""	"""Интерфакс"""	PRO	PRO-Interfax
+37	48	"Интерфакс"	"Интерфакс"	PRO	PRO-Interfax
 98	105	Америке	Америка	LOC	GPE-USA
 119	122	США	США	LOC	GPE-USA
 144	164	президентские выборы	президентские выборы	EVT	EVT-2016-United-States-Presidential-Election
@@ -9,10 +9,10 @@
 264	277	республиканец	республиканец	ORG	ORG-Republican-Party-USA
 278	291	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
 379	390	американцев	американцы	PER	GPE-USA
-424	435	"""Интерфакс"""	"""Интерфакс"""	PRO	PRO-Interfax
+424	435	"Интерфакс"	"Интерфакс"	PRO	PRO-Interfax
 585	588	США	США	LOC	GPE-USA
 609	629	президентские выборы	президентские выборы	EVT	EVT-2016-United-States-Presidential-Election
-689	700	"""Интерфакс"""	"""Интерфакс"""	PRO	PRO-Interfax
+689	700	"Интерфакс"	"Интерфакс"	PRO	PRO-Interfax
 762	766	TIME	TIME	PRO	PRO-TIME
 832	835	США	США	LOC	GPE-USA
 868	875	Флориды	Флорида	LOC	GPE-Florida

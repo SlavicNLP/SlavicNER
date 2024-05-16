@@ -13,7 +13,7 @@
 765	780	Демократической	Демократическая	ORG	ORG-Democratic-Party-USA
 783	798	Республиканской	Республиканская	ORG	ORG-Republican-Party-USA
 827	834	Украины	Украина	LOC	GPE-Ukraine
-1101	1115	«Слуга народа»	«Слуга народа»	ORG	"ORG-""Servant-of-the-People"""
+1101	1115	«Слуга народа»	«Слуга народа»	ORG	ORG-"Servant-of-the-People"
 1159	1162	США	США	LOC	GPE-USA
 1163	1177	Кристиной Квин	Кристина Квин	PER	PER-Kristina-Kvien
 1237	1251	Верховной рады	Верховная рада	ORG	ORG-Verkhovna-Rada
@@ -36,7 +36,7 @@
 2197	2215	Дмитрия Ковальчука	Дмитрий Ковальчук	PER	PER-Dmitry-Kovalchuk
 2217	2233	Антона Симоненко	Антон Симоненко	PER	PER-Anton-Simonenko
 2307	2316	Only News	Only News	PRO	PRO-Only-News
-2319	2328	«Скептик»	«Скептик»	PRO	"PRO-""Sceptic"""
+2319	2328	«Скептик»	«Скептик»	PRO	PRO-"Sceptic"
 2347	2355	Журавель	Журавель	PER	PER-Peter-Zhuravel
 2365	2375	Nabu Leaks	Nabu Leaks	PRO	PRO-Nabuleaks
 2378	2389	«Эра-медиа»	«Эра-медиа»	PRO	PRO-Era-Media

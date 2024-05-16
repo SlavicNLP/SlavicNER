@@ -76,7 +76,7 @@
 6570	6576	Трампу	Трамп	PER	PER-Donald-Trump
 6708	6719	Филадельфии	Филадельфия	LOC	GPE-Philadelphia
 6741	6751	демократов	демократ	ORG	ORG-Democratic-Party-USA
-6767	6782	«Ржавого пояса»	"""Ржавый пояс"""	LOC	GPE-Rust-Belt
+6767	6782	«Ржавого пояса»	"Ржавый пояс"	LOC	GPE-Rust-Belt
 6809	6815	Трампа	Трамп	PER	PER-Donald-Trump
 6852	6857	Трамп	Трамп	PER	PER-Donald-Trump
 6887	6894	Байдена	Байден	PER	PER-Joe-Biden

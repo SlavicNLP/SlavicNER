@@ -1,14 +1,14 @@
 0	7	Климкин	Климкин	PER	PER-Pavlo-Klimkin
 44	62	“Северному потоку”	“Северный поток”	PRO	PRO-Nord-Stream-2
 77	81	Киев	Киев	LOC	GPE-Kiev
-122	138	"""Северный поток"""	"""Северный поток"""	PRO	PRO-Nord-Stream-2
+122	138	"Северный поток"	"Северный поток"	PRO	PRO-Nord-Stream-2
 293	300	Украины	Украина	LOC	GPE-Ukraine
 301	314	Павел Климкин	Павел Климкин	PER	PER-Pavlo-Klimkin
 387	395	Германии	Германия	LOC	GPE-Germany
 396	408	Гайко Маасом	Гайко Маас	PER	PER-Heiko-Maas
-492	508	"""Северный поток"""	"""Северный поток"""	PRO	PRO-Nord-Stream-2
+492	508	"Северный поток"	"Северный поток"	PRO	PRO-Nord-Stream-2
 720	727	Климкин	Климкин	PER	PER-Pavlo-Klimkin
-965	981	"""Северный поток"""	"""Северный поток"""	PRO	PRO-Nord-Stream-2
+965	981	"Северный поток"	"Северный поток"	PRO	PRO-Nord-Stream-2
 1104	1110	Европы	Европа	LOC	LOC-Europe
 1303	1309	Россия	Россия	LOC	GPE-Russia
 1366	1373	Украины	Украина	LOC	GPE-Ukraine

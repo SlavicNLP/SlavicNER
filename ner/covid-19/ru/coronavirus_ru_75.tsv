@@ -4,12 +4,12 @@
 77	88	F. Hoermann	F. Hoermann	PER	PER-Hoermann
 91	97	Россия	Россия	LOC	GPE-Russia
 140	152	коронавируса	коронавирус	EVT	EVT-Covid-19
-181	192	"""Спутник V"""	Спутник V	PRO	PRO-Sputnik-V
+181	192	"Спутник V"	Спутник V	PRO	PRO-Sputnik-V
 299	309	Российская	российская	PER	GPE-Russia
 321	333	коронавируса	коронавирус	EVT	EVT-Covid-19
-361	372	"""Спутник V"""	Спутник V	PRO	PRO-Sputnik-V
+361	372	"Спутник V"	Спутник V	PRO	PRO-Sputnik-V
 446	495	государственного реестра лекарственных средств РФ	государственный реестр лекарственных средств РФ	PRO	PRO-Registry-of-medicinal-products-Russia
-499	507	"""Спутник"	Спутник	PRO	PRO-Sputnik-V
+499	507	"Спутник	Спутник	PRO	PRO-Sputnik-V
 569	579	российская	российская	PER	GPE-Russia
 591	599	COVID-19	COVID-19	EVT	EVT-Covid-19
 631	639	Спутника	Спутник	PRO	PRO-Sputnik-V
@@ -21,7 +21,7 @@
 1624	1634	российский	российский	PER	GPE-Russia
 1645	1659	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
 1921	1938	Корреспондент.net	Корреспондент.net	PRO	PRO-Korrespondent-net
-1981	2005	«Новости Украины и мира»	Новости Украины и мира	PRO	"PRO-""Новости Украины и Мира"""
-2550	2569	"""Интерфакс-Украина"""	Интерфакс-Украина	PRO	PRO-Interfax-Ukraine
+1981	2005	«Новости Украины и мира»	Новости Украины и мира	PRO	PRO-"Новости Украины и Мира"
+2550	2569	"Интерфакс-Украина"	Интерфакс-Украина	PRO	PRO-Interfax-Ukraine
 2571	2574	EPA	EPA	PRO	PRO-EPA
 2577	2580	UPG	UPG	PRO	PRO-UPG

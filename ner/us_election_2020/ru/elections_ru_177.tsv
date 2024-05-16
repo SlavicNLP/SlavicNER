@@ -115,7 +115,7 @@
 10162	10168	Трампу	Трамп	PER	PER-Donald-Trump
 10329	10336	выборов	выборы	EVT	EVT-2020-United-States-Presidential-Election
 10546	10552	Трампа	Трамп	PER	PER-Donald-Trump
-10605	10615	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+10605	10615	"Доминион"	"Доминион"	PRO	PRO-Dominion-Voting-Systems
 10754	10757	США	США	LOC	GPE-USA
 10913	10923	демократов	демократы	ORG	ORG-Democratic-Party-USA
 10999	11008	Демпартии	Демпартия	ORG	ORG-Democratic-Party-USA
@@ -125,5 +125,5 @@
 11285	11290	Трамп	Трамп	PER	PER-Donald-Trump
 11382	11389	Америку	Америка	LOC	GPE-USA
 11392	11403	американцев	американцы	PER	GPE-USA
-11495	11505	"""Царьград"""	"""Царьград"""	PRO	PRO-Tsargrad
+11495	11505	"Царьград"	"Царьград"	PRO	PRO-Tsargrad
 11508	11519	Яндекс.Дзен	Яндекс.Дзен	PRO	PRO-Yandex.Dzen

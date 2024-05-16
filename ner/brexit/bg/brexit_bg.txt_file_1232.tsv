@@ -12,7 +12,7 @@
 563	577	Великобритания	Великобритания	LOC	GPE-Great-Britain
 677	679	ЕС	ЕС	ORG	ORG-European-Union
 700	712	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
-851	880	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+851	880	Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
 883	890	Брюксел	Брюксел	LOC	GPE-Brussles
 909	926	Европейския съвет	Европейски съвет	ORG	ORG-European-Council
 927	938	Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk

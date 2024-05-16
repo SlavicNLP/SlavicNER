@@ -104,7 +104,7 @@
 4531	4536	Огайо	Огайо	LOC	GPE-Ohio
 4605	4617	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
 4813	4828	FiveThirtyEight	FiveThirtyEight	PRO	PRO-FiveThirtyEight
-4830	4835	"""538"""	"""538"""	PRO	PRO-538
+4830	4835	"538"	"538"	PRO	PRO-538
 4864	4873	Конгресса	Конгресс	ORG	ORG-United-States-Congress
 4922	4934	Пенсильвании	Пенсильвания	LOC	GPE-Pennsylvania
 5026	5036	американцы	американцы	PER	GPE-USA

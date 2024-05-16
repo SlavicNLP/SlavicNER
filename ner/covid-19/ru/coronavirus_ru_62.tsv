@@ -13,7 +13,7 @@
 1060	1073	коронавирусом	коронавирус	EVT	EVT-Covid-19
 1299	1322	коронавирусной инфекции	коронавирусная инфекция	EVT	EVT-Covid-19
 1976	1988	коронавируса	коронавирус	EVT	EVT-Covid-19
-2004	2019	"""Гам-КОВИД-Вак"""	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
+2004	2019	"Гам-КОВИД-Вак"	Гам-КОВИД-Вак	PRO	PRO-Gam-COVID-Vac
 2020	2031	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
 2047	2072	НИЦЭМ имени Н. Ф. Гамалеи	НИЦЭМ имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
 2074	2084	«BNT162b2»	BNT162b2	PRO	PRO-BNT162b2-Tozinameran

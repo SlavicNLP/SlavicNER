@@ -1,5 +1,5 @@
 0	2	ЕК	ЕК	ORG	ORG-European-Commission
-27	44	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+27	44	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 94	107	Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
 130	136	Европа	Европа	LOC	LOC-Europe
 186	188	ЕС	ЕС	ORG	ORG-European-Union
@@ -21,7 +21,7 @@
 866	872	Кремъл	Кремъл	LOC	LOC-Kremlin
 956	959	САЩ	САЩ	LOC	GPE-USA
 1000	1008	Германия	Германия	LOC	GPE-Germany
-1066	1083	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+1066	1083	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 1136	1142	Любмин	Любмин	LOC	GPE-Lubmin
 1221	1227	Москва	Москва	LOC	GPE-Moscow
 1265	1272	Украйна	Украйна	LOC	GPE-Ukraine

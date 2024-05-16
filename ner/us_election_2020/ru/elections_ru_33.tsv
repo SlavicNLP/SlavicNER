@@ -47,16 +47,16 @@
 2620	2623	США	США	LOC	GPE-USA
 2696	2714	Госдепартамент США	Госдепартамент США	ORG	ORG-Department-of-State-USA
 2785	2793	сербской	сербский	LOC	GPE-Serbia
-2815	2822	"""Отпор"""	"""Отпор"""	ORG	ORG-Otpor
-2891	2898	"""Отпор"""	"""Отпор"""	ORG	ORG-Otpor
+2815	2822	"Отпор"	"Отпор"	ORG	ORG-Otpor
+2891	2898	"Отпор"	"Отпор"	ORG	ORG-Otpor
 2899	2912	Срджа Попович	Срджа Попович	PER	PER-Srđa-Popović
 2981	2993	американские	американский	LOC	GPE-USA
 3085	3093	сербский	сербский	LOC	GPE-Serbia
 3165	3174	Милошевич	Милошевич	PER	PER-Slobodan-Milošević
 3246	3253	сербами	серб	LOC	GPE-Serbia
-3289	3297	"""Отпора"""	"""Отпор"""	ORG	ORG-Otpor
+3289	3297	"Отпора"	"Отпор"	ORG	ORG-Otpor
 3379	3392	Джином Шарпом	Джин Шарп	PER	PER-Gene-Sharp
-3419	3456	"""Политика ненасильственного действия"""	"""Политика ненасильственного действия"""	PRO	PRO-Book-Gene-Sharp-Politics-of-Nonviolent-Action
+3419	3456	"Политика ненасильственного действия"	"Политика ненасильственного действия"	PRO	PRO-Book-Gene-Sharp-Politics-of-Nonviolent-Action
 3727	3776	Международного центра ненасильственного конфликта	Международный центр ненасильственного конфликта	ORG	ORG-International-Center-on-Nonviolent-Conflict
 3777	3790	Питер Акерман	Питер Акерман	PER	PER-Peter-Ackerman
 4089	4094	Трамп	Трамп	PER	PER-Donald-Trump
@@ -78,5 +78,5 @@
 5095	5104	Милошевич	Милошевич	PER	PER-Slobodan-Milošević
 5108	5130	Демократическая партия	Демократическая партия	ORG	ORG-Democratic-Party-USA
 5136	5148	американское	американский	LOC	GPE-USA
-5158	5165	"""Отпор"""	"""Отпор"""	ORG	ORG-Otpor
+5158	5165	"Отпор"	"Отпор"	ORG	ORG-Otpor
 5169	5183	республиканцам	республиканец	ORG	ORG-Republican-Party-USA

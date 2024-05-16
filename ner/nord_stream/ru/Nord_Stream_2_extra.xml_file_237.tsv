@@ -1,16 +1,16 @@
 0	3	МИД	МИД	ORG	ORG-Foreign-Office
-19	30	"""Газпромом"""	"""Газпром"""	ORG	ORG-Gazprom
+19	30	"Газпромом"	"Газпром"	ORG	ORG-Gazprom
 125	141	Северный Поток-2	Северный Поток-2	PRO	PRO-Nord-Stream-2
 182	189	Украины	Украина	LOC	GPE-Ukraine
 225	238	Елена Зеркаль	Елена Зеркаль	PER	PER-Olena-Zerkal
-252	263	""" Газпром """	""" Газпром """	ORG	ORG-Gazprom
+252	263	" Газпром "	" Газпром "	ORG	ORG-Gazprom
 457	463	Европу	Европа	LOC	LOC-Europe
 575	591	Северный Поток-2	Северный Поток-2	PRO	PRO-Nord-Stream-2
 727	739	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
-753	765	""" Газпрома """	""" Газпром """	ORG	ORG-Gazprom
+753	765	" Газпрома "	" Газпром "	ORG	ORG-Gazprom
 986	993	Берлине	Берлин	LOC	GPE-Berlin
 1010	1022	Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
 1046	1060	Марош Шефчович	Марош Шефчович	PER	PER-Maros-Sefcovic
 1201	1209	Украиной	Украина	LOC	GPE-Ukraine
-1373	1392	"""Нафтогаза Украины"""	"""Нафтогаз Украины"""	ORG	ORG-Naftogaz
+1373	1392	"Нафтогаза Украины"	"Нафтогаз Украины"	ORG	ORG-Naftogaz
 1483	1491	Брюсселе	Брюссель	LOC	GPE-Brussles

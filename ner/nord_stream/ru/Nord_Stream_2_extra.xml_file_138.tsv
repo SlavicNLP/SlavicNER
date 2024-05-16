@@ -1,18 +1,18 @@
 2	12	МИД Польши	МИД Польши	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
 42	49	Украину	Украина	LOC	GPE-Ukraine
-50	68	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
-70	88	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+50	68	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
+70	88	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 91	105	Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
-154	164	"""Газпрома"""	"""Газпром"""	ORG	ORG-Gazprom
-178	196	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+154	164	"Газпрома"	"Газпром"	ORG	ORG-Gazprom
+178	196	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 221	228	Украины	Украина	LOC	GPE-Ukraine
 270	276	Берлин	Берлин	LOC	GPE-Berlin
 359	362	МИД	МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
 363	377	Яцек Чапутович	Яцек Чапутович	PER	PER-Jacek-Czaputowicz
 407	419	Handelsblatt	Handelsblatt	PRO	PRO-Handelsblatt
 492	499	Украины	Украина	LOC	GPE-Ukraine
-544	562	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+544	562	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 571	578	Украину	Украина	LOC	GPE-Ukraine
 628	635	Украины	Украина	LOC	GPE-Ukraine
 781	790	Чапутович	Чапутович	PER	PER-Jacek-Czaputowicz
-888	906	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+888	906	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2

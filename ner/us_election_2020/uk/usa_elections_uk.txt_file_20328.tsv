@@ -50,7 +50,7 @@
 3704	3712	пандемії	пандемія	EVT	EVT-Covid-19
 3758	3764	Байден	Байден	PER	PER-Joe-Biden
 3798	3806	Скрентон	Скрентон	LOC	GPE-Scranton
-3875	3889	"комедії ""Офіс"""	"комедія ""Офіс"""	PRO	PRO-The-Office-US-TV-series
+3875	3889	комедії "Офіс"	комедія "Офіс"	PRO	PRO-The-Office-US-TV-series
 3919	3953	Dunder Mifflin Paper Company, Inc.	Dunder Mifflin Paper Company, Inc.	ORG	ORG-Dunder-Mifflin-Paper-Company-Inc
 4043	4050	Флорида	Флорида	LOC	GPE-Florida
 4068	4075	Флориді	Флорида	LOC	GPE-Florida

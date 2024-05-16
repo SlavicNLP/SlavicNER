@@ -1,11 +1,11 @@
 2	10	Германии	Германия	LOC	GPE-Germany
 36	39	США	США	LOC	GPE-USA
-54	74	"""Северный поток – 2"""	"""Северный поток – 2"""	PRO	PRO-Nord-Stream-2
+54	74	"Северный поток – 2"	"Северный поток – 2"	PRO	PRO-Nord-Stream-2
 84	92	Германии	Германия	LOC	GPE-Germany
 93	107	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
 152	158	Берлин	Берлин	LOC	GPE-Berlin
-180	200	"""Северный поток — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+180	200	"Северный поток — 2"	"Северный поток — 2"	PRO	PRO-Nord-Stream-2
 310	317	Украину	Украина	LOC	GPE-Ukraine
-378	398	"""Северный поток — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+378	398	"Северный поток — 2"	"Северный поток — 2"	PRO	PRO-Nord-Stream-2
 527	534	Украину	Украина	LOC	GPE-Ukraine
 537	539	ЕС	ЕС	ORG	ORG-European-Union

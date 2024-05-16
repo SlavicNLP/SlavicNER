@@ -13,7 +13,7 @@
 495	507	Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
 539	547	Sky News	Sky News	PRO	PRO-Sky-News-TV
 566	579	Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
-639	655	"""делу Скрипалей"""	"""дело Скрипалей"""	EVT	EVT-Scripals'-poisoning
+639	655	"делу Скрипалей"	"дело Скрипалей"	EVT	EVT-Scripals'-poisoning
 729	739	британской	британский	LOC	GPE-Great-Britain
 760	775	Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
 778	800	британском Форин Офисе	британский Форин Офис	ORG	ORG-Foreign-Office

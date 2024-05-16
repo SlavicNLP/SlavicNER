@@ -2,7 +2,7 @@
 64	72	COVID-19	COVID-19	EVT	EVT-Covid-19
 77	83	России	Россия	LOC	GPE-Russia
 124	136	коронавируса	коронавирус	EVT	EVT-Covid-19
-236	244	«МИР 24»	МИР 24	PRO	"PRO-""MIR 24"""
+236	244	«МИР 24»	МИР 24	PRO	PRO-"MIR 24"
 245	259	Анна Бажайкина	Анна Бажайкина	PER	PER-Anna-Bozhaykina
 286	292	Москва	Москва	LOC	GPE-Moscow
 306	318	по-московски	по-московски	PER	GPE-Moscow
@@ -36,11 +36,11 @@
 3489	3492	ЮВО	Южный военный округ	LOC	GPE-Southern-Military-District
 3493	3507	Наталия Горина	Наталия Горина	PER	PER-Nataliya-Gorina
 3771	3783	коронавируса	коронавирус	EVT	EVT-Covid-19
-3862	3870	«МИР 24»	МИР 24	PRO	"PRO-""MIR 24"""
-3933	4006	Закрытое акционерное общество «Межгосударственная телерадиокомпания «Мир»	Закрытое акционерное общество «Межгосударственная телерадиокомпания «Мир»	ORG	"ORG-International-Television-and-Radio-Company-""Mir"""
+3862	3870	«МИР 24»	МИР 24	PRO	PRO-"MIR 24"
+3933	4006	Закрытое акционерное общество «Межгосударственная телерадиокомпания «Мир»	Закрытое акционерное общество «Межгосударственная телерадиокомпания «Мир»	ORG	ORG-International-Television-and-Radio-Company-"Mir"
 4026	4038	Батыршин Р.И	Батыршин Р.И.	PER	PER-Batirshin-R-I
 4068	4087	СМИ ЭЛ № ФС77-50091	СМИ ЭЛ № ФС77-50091	PRO	PRO-Media-Outlet's-Registration-Certificate-MIR24
 4131	4226	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
 4309	4319	российским	российский	PER	GPE-Russia
-4451	4461	МТРК «Мир»	МТРК «Мир»	ORG	"ORG-International-Television-and-Radio-Company-""Mir"""
-4698	4740	"Закрытого акционерного общества МТРК ""Мир"""	"Закрытое акционерное общество МТРК ""Мир"""	ORG	"ORG-International-Television-and-Radio-Company-""Mir"""
+4451	4461	МТРК «Мир»	МТРК «Мир»	ORG	ORG-International-Television-and-Radio-Company-"Mir"
+4698	4740	Закрытого акционерного общества МТРК "Мир"	Закрытое акционерное общество МТРК "Мир"	ORG	ORG-International-Television-and-Radio-Company-"Mir"

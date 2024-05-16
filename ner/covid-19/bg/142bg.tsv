@@ -8,7 +8,7 @@
 392	405	Бойко Борисов	Бойко Борисов	PER	PER-Boyko-Borisov
 408	410	МС	МС	ORG	ORG-Council-of-Ministers-Bulgaria
 422	434	Коста Костов	Коста Костов	PER	PER-Kosta-Kostov
-482	517	"Университетска болница ""Света Анна"""	"Университетска болница ""Света Анна"""	LOC	LOC-St.-Anna-Hospital-BG
+482	517	Университетска болница "Света Анна"	Университетска болница "Света Анна"	LOC	LOC-St.-Anna-Hospital-BG
 812	819	Борисов	Борисов	PER	PER-Boyko-Borisov
 828	834	Костов	Костов	PER	PER-Kosta-Kostov
 843	871	Медицинският експертен съвет	Медицински експертен съвет	ORG	ORG-Medical-Expert-Council-COVID-19-BG

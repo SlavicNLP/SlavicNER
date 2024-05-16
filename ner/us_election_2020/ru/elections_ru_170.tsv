@@ -68,7 +68,7 @@
 5117	5123	Трампа	Трамп	PER	PER-Donald-Trump
 5143	5154	Майкл Флинн	Майкл Флинн	PER	PER-Michael-Flynn
 5244	5254	демократов	демократы	ORG	ORG-Democratic-Party-USA
-5269	5320	"""О санкциях за вмешательство в американские выборы"""	"""О санкциях за вмешательство в американские выборы"""	PRO	PRO-Sanctions-for-American-Elections-inrefering
+5269	5320	"О санкциях за вмешательство в американские выборы"	"О санкциях за вмешательство в американские выборы"	PRO	PRO-Sanctions-for-American-Elections-inrefering
 5471	5478	Америке	Америка	LOC	GPE-USA
 5513	5522	демократы	демократы	ORG	ORG-Democratic-Party-USA
 5575	5581	Байден	Байден	PER	PER-Joe-Biden
@@ -79,9 +79,9 @@
 6075	6078	CNN	CNN	ORG	ORG-CNN
 6115	6122	Байдена	Байден	PER	PER-Joe-Biden
 6202	6214	американскую	американский	LOC	GPE-USA
-6470	6487	"""ТВ Центр-Москва"""	"""ТВ Центр-Москва"""	PRO	PRO-TV-Centre-Moscow
-6507	6520	"АО ""ТВ Центр"""	"АО ""ТВ Центр"""	ORG	ORG-TV-Centre-Russia
+6470	6487	"ТВ Центр-Москва"	"ТВ Центр-Москва"	PRO	PRO-TV-Centre-Moscow
+6507	6520	АО "ТВ Центр"	АО "ТВ Центр"	ORG	ORG-TV-Centre-Russia
 6601	6696	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
 6717	6733	Быстрицкая Ю. А.	Быстрицкая Ю. А.	PER	PER-Julia-Bystritskaya
-6752	6771	"""ТВ Центр - Москва"""	"""ТВ Центр - Москва"""	PRO	PRO-TV-Centre-Moscow
+6752	6771	"ТВ Центр - Москва"	"ТВ Центр - Москва"	PRO	PRO-TV-Centre-Moscow
 6809	6873	Департамента средств массовой информации и рекламы города Москвы	Департамент средств массовой информации и рекламы города Москвы	ORG	ORG-Department-of-Mass-Media-and-Advertising-Moscow

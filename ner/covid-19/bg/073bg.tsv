@@ -1,9 +1,9 @@
 8	10	ЕС	ЕС	ORG	ORG-European-Union
-149	164	институт „Рего“	"Институт ""Рего"""	ORG	ORG-Institute-Rego
+149	164	институт „Рего“	Институт "Рего"	ORG	ORG-Institute-Rego
 166	185	Пандемията Covid-19	пандемия Covid-19	EVT	EVT-Pandemic
 415	421	Европа	Европа	LOC	LOC-Europe
 477	494	Европейският съюз	Европейски съюз	ORG	ORG-European-Union
-642	657	институт „Рего“	"Институт ""Рего"""	ORG	ORG-Institute-Rego
+642	657	институт „Рего“	Институт "Рего"	ORG	ORG-Institute-Rego
 707	709	ЕС	ЕС	ORG	ORG-European-Union
 945	953	Covid-19	COVID-19	EVT	EVT-Covid-19
 1035	1037	ЕС	ЕС	ORG	ORG-European-Union

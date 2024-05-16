@@ -5,7 +5,7 @@
 116	128	Пенсильванія	Пенсильванія	LOC	GPE-Pennsylvania
 265	277	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
 336	361	The Philadelphia Inquirer	The Philadelphia Inquirer	PRO	PRO-The-Philadelphia-Inquirer
-371	390	"""Інтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
+371	390	"Інтерфакс-Україна"	"Інтерфакс-Україна"	ORG	ORG-Interfax-Ukraine
 455	464	Аллегейні	Аллегейні	LOC	GPE-Allegheny-County
 471	483	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
 785	791	Трампа	Трамп	PER	PER-Donald-Trump

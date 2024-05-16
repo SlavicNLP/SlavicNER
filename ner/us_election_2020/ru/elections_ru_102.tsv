@@ -87,9 +87,9 @@
 9994	10015	Палате представителей	Палата представителей	ORG	ORG-United-States-House-of-Representatives
 10090	10109	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
 10123	10135	американские	американские	LOC	GPE-USA
-10171	10240	"""Соглашение о присоединении к национальному всенародному голосованию"""	"""Соглашение о присоединении к национальному всенародному голосованию"""	PRO	PRO-National-Popular-Vote-Interstate-Compact
+10171	10240	"Соглашение о присоединении к национальному всенародному голосованию"	"Соглашение о присоединении к национальному всенародному голосованию"	PRO	PRO-National-Popular-Vote-Interstate-Compact
 10242	10282	National Popular Vote Interstate Compact	National Popular Vote Interstate Compact	PRO	PRO-National-Popular-Vote-Interstate-Compact
-10288	10300	"""План Амара"""	"""План Амара"""	PRO	PRO-Amar-Plan
+10288	10300	"План Амара"	"План Амара"	PRO	PRO-Amar-Plan
 10302	10311	Amar Plan	Amar Plan	PRO	PRO-Amar-Plan
 10607	10626	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
 10710	10724	округ Колумбия	округ Колумбия	LOC	GPE-District-of-Columbia

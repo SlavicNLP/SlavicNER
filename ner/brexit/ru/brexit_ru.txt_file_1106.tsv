@@ -10,12 +10,12 @@
 442	447	Рааба	Рааб	PER	PER-Dominic-Raab
 494	500	Brexit	Brexit	EVT	EVT-Brexit
 501	514	Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
-529	533	"""РГ"""	"""РГ"""	ORG	ORG-Rossijskaja-Gazeta
+529	533	"РГ"	"РГ"	ORG	ORG-Rossijskaja-Gazeta
 623	626	Мэй	Мэй	PER	PER-Theresa-May
 639	641	ЕС	ЕС	ORG	ORG-European-Union
 788	795	Лондона	Лондон	LOC	GPE-London
 836	845	Брюсселем	Брюссель	LOC	GPE-Brussles
-904	917	"""Белую книгу"""	Белая книга	PRO	PRO-White-paper-UK
+904	917	"Белую книгу"	Белая книга	PRO	PRO-White-paper-UK
 948	958	Евросоюзом	Евросоюз	ORG	ORG-European-Union
 966	980	Великобритании	Великобритания	LOC	GPE-Great-Britain
 984	986	ЕС	ЕС	ORG	ORG-European-Union

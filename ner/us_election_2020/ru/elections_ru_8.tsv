@@ -28,9 +28,9 @@
 1629	1648	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
 1714	1724	Конгрессом	Конгресс	ORG	ORG-United-States-Congress
 1905	1914	Капитолия	Капитолия	LOC	LOC-United-States-Capitol
-1964	1992	"ООО ""ГАЗЕТА ""НОВЫЕ ИЗВЕСТИЯ"""	"ООО ""ГАЗЕТА ""НОВЫЕ ИЗВЕСТИЯ"""	ORG	ORG-LLC-Gazeta-Novye-Izvestia
+1964	1992	ООО "ГАЗЕТА "НОВЫЕ ИЗВЕСТИЯ"	ООО "ГАЗЕТА "НОВЫЕ ИЗВЕСТИЯ"	ORG	ORG-LLC-Gazeta-Novye-Izvestia
 2126	2221	Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций	Федеральная служба по надзору в сфере связи, информационных технологий и массовых коммуникаци	ORG	ORG-Federal-Service-for-Supervision-of-Communications-Information-Technology-and-Mass-Media
 2223	2235	Роскомнадзор	Роскомнадзор	ORG	ORG-Roskomnadzor
-2251	2316	"Общество с ограниченной ответственностью ""ГАЗЕТА ""НОВЫЕ ИЗВЕСТИЯ"""	"Общество с ограниченной ответственностью ""ГАЗЕТА ""НОВЫЕ ИЗВЕСТИЯ"""	ORG	ORG-Limited-Liability-Company-Gazeta-Novye-Izvestia
+2251	2316	Общество с ограниченной ответственностью "ГАЗЕТА "НОВЫЕ ИЗВЕСТИЯ"	Общество с ограниченной ответственностью "ГАЗЕТА "НОВЫЕ ИЗВЕСТИЯ"	ORG	ORG-Limited-Liability-Company-Gazeta-Novye-Izvestia
 2346	2352	Москва	Москва	LOC	GPE-Moscow
 2354	2368	ул. Артамонова	улица Артамонова	LOC	LOC-Artamonova-Street

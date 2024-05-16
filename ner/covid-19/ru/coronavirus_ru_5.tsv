@@ -1,7 +1,7 @@
 0	20	«Кремлевский доктор»	Кремлевский доктор	PER	PER-Alexander-Myasnikov
 42	47	ковид	ковид	EVT	EVT-Covid-19
 133	144	коронавирус	коронавирус	EVT	EVT-Covid-19
-251	271	"""Кремлевский доктор"""	Кремлевский доктор	PER	PER-Alexander-Myasnikov
+251	271	"Кремлевский доктор"	Кремлевский доктор	PER	PER-Alexander-Myasnikov
 272	280	Мясников	Мясников	PER	PER-Alexander-Myasnikov
 294	301	YouTube	YouTube	PRO	PRO-YouTube
 323	328	COVID	COVID	EVT	EVT-Covid-19

@@ -33,8 +33,8 @@
 3164	3183	Коллегии выборщиков	Коллегия выборщиков	ORG	ORG-United-States-Electoral-College
 3240	3249	Вайоминге	Вайоминг	LOC	GPE-Wyoming
 3302	3312	Калифорнии	Калифорния	LOC	GPE-California
-3382	3400	"""демократическими"""	"""демократический"""	ORG	ORG-Democratic-Party-USA
-3406	3424	"""республиканскими"""	"""республиканский"""	ORG	ORG-Republican-Party-USA
+3382	3400	"демократическими"	"демократический"	ORG	ORG-Democratic-Party-USA
+3406	3424	"республиканскими"	"республиканский"	ORG	ORG-Republican-Party-USA
 3567	3575	демократ	демократ	ORG	ORG-Democratic-Party-USA
 3588	3603	республиканском	республиканский	ORG	ORG-Republican-Party-USA
 3927	3939	американской	американский	LOC	GPE-USA

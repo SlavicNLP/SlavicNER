@@ -3,7 +3,7 @@
 172	192	Federacji Rosyjskiej	Federacja Rosyjska	LOC	GPE-Russia
 252	266	Dumę Państwową	Duma Państwowa	ORG	ORG-Russia-The-State-Duma
 268	282	Radę Federacji	Rada Federacji	ORG	ORG-Council-of-Federation-Russia
-368	401	"""operacji specjalnej"" na Ukrainie"	"""operacja specjalna"" na Ukrainie"	EVT	EVT-2022-Russian-Invasion-of-Ukraine
+368	401	"operacji specjalnej" na Ukrainie	"operacja specjalna" na Ukrainie	EVT	EVT-2022-Russian-Invasion-of-Ukraine
 424	429	Kreml	Kreml	LOC	LOC-Kremlin
 478	485	Ukrainy	Ukraina	LOC	GPE-Ukraine
 487	507	operacji specjalnych	operacja spcjalna	EVT	EVT-2022-Russian-Invasion-of-Ukraine

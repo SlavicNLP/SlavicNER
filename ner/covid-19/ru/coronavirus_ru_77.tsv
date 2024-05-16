@@ -1,7 +1,7 @@
 142	149	Украина	Украина	LOC	GPE-Ukraine
 164	169	ковид	ковид	EVT	EVT-Covid-19
 185	192	Украине	Украина	LOC	GPE-Ukraine
-212	223	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+212	223	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 228	244	Минздрав Украины	Минздрав Украины	ORG	Ministry-of-Health-Ukraine
 299	311	коронавируса	коронавирус	EVT	EVT-Covid-19
 312	321	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
@@ -9,7 +9,7 @@
 423	432	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
 463	502	украинское министерство здравоохранения	украинское министерство здравоохранения	ORG	ORG-Ministry-of-Healthcare-Ukraine
 504	507	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
-550	558	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+550	558	"Биолек"	"Биолек"	ORG	ORG-Biolec
 611	623	коронавируса	коронавирус	EVT	EVT-Covid-19
 624	633	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
 635	648	Gam-COVID-Vac	Спутник V	PRO	PRO-Sputnik-V
@@ -18,12 +18,12 @@
 775	783	Беларуси	Беларусь	LOC	GPE-Belarus
 785	790	Индии	Индия	LOC	GPE-India
 814	821	Украине	Украина	LOC	GPE-Ukraine
-933	944	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+933	944	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 962	969	Украины	Украина	LOC	GPE-Ukraine
 979	986	Украине	Украина	LOC	GPE-Ukraine
 1073	1080	Украине	Украина	LOC	GPE-Ukraine
-1147	1182	"Оппозиционная платформа - За жизнь"""	Оппозиционная платформа - За жизнь	ORG	ORG-Opposition-Platform-For-Life
-1184	1188	ОПЗЖ	"""Оппозиционная платформа - За жизнь"""	ORG	ORG-Opposition-Platform-For-Life
+1147	1182	Оппозиционная платформа - За жизнь"	Оппозиционная платформа - За жизнь	ORG	ORG-Opposition-Platform-For-Life
+1184	1188	ОПЗЖ	"Оппозиционная платформа - За жизнь"	ORG	ORG-Opposition-Platform-For-Life
 1219	1235	Виктор Медведчук	Виктор Медведчук	PER	PER-Victor-Medvedchuk
 1307	1314	Россией	Россия	LOC	GPE-Russia
 1315	1320	Крыму	Крым	LOC	GPE-Crimea
@@ -31,30 +31,30 @@
 1370	1386	Виктор Медведчук	Виктор Медведчук	PER	PER-Victor-Medvedchuk
 1438	1440	РФ	РФ	LOC	GPE-Russia
 1441	1459	Владимиром Путиным	Владимир Путин	PER	PER-Vladimir-Putin
-1507	1518	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+1507	1518	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 1519	1526	Украине	Украина	LOC	GPE-Ukraine
 1528	1533	Путин	Путин	PER	PER-Vladimir-Putin
 1610	1616	России	Россия	LOC	GPE-Russia
 1624	1631	Украине	Украина	LOC	GPE-Ukraine
 1659	1669	Медведчуку	Медведчук	PER	PER-Victor-Medvedchuk
-1778	1786	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+1778	1786	"Биолек"	"Биолек"	ORG	ORG-Biolec
 1843	1852	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
 1909	1911	РФ	РФ	LOC	GPE-Russia
 1914	1922	Беларуси	Беларусь	LOC	GPE-Belarus
 1974	1983	Аргентине	Аргентина	LOC	GPE-Argentina
-2033	2041	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+2033	2041	"Биолек"	"Биолек"	ORG	ORG-Biolec
 2076	2083	Украины	Украина	LOC	GPE-Ukraine
 2093	2102	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
-2155	2159	ОПЗЖ	"""Оппозиционная платформа - За жизнь"""	ORG	ORG-Opposition-Platform-For-Life
+2155	2159	ОПЗЖ	"Оппозиционная платформа - За жизнь"	ORG	ORG-Opposition-Platform-For-Life
 2202	2218	Минздрав Украины	Минздрав Украины	ORG	Ministry-of-Health-Ukraine
 2253	2261	Германии	Германия	LOC	GPE-Germany
 2262	2277	Виктора Мартина	Виктор Мартин	PER	PER-Victor-Martin
 2279	2292	Viktor Martin	Виктор Мартин	PER	PER-Victor-Martin
-2311	2319	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+2311	2319	"Биолек"	"Биолек"	ORG	ORG-Biolec
 2337	2346	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
 2485	2497	коронавируса	коронавирус	EVT	EVT-Covid-19
-2535	2543	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
-2624	2638	"""Фармстандарт"""	"""Фармстандарт"""	ORG	ORG-Pharmstandart
+2535	2543	"Биолек"	"Биолек"	ORG	ORG-Biolec
+2624	2638	"Фармстандарт"	"Фармстандарт"	ORG	ORG-Pharmstandart
 2704	2717	Виктор Мартин	Виктор Мартин	PER	PER-Victor-Martin
 2738	2741	СМИ	СМИ	PRO	PRO-Mass-Media
 2835	2853	Виктора Харитонина	Виктор Харитонин	PER	PER-Victor-Kharitonin
@@ -83,11 +83,11 @@
 3951	3960	Минздраве	Минздрав	ORG	ORG-Ministry-of-Healthcare-Ukraine
 3961	3972	Федор Лапий	Федор Лапий	PER	PER-Fyodor-Lapiy
 4051	4058	Украине	Украина	LOC	GPE-Ukraine
-4089	4100	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+4089	4100	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 4303	4338	Государственного экспертного центра	Государственный экспертный центр	ORG	ORG-State-Expert-Center
 4339	4354	Татьяна Думенко	Татьяна Думенко	PER	PER-Tatiana-Dumenko
 4500	4507	Украине	Украина	LOC	GPE-Ukraine
-4547	4555	"""Биолик"""	"""Биолик"""	ORG	ORG-Biolic
+4547	4555	"Биолик"	"Биолик"	ORG	ORG-Biolic
 4632	4635	ГЭЦ	Государственный экспертный центр	ORG	ORG-State-Expert-Center
 4675	4692	Минздраве Украины	Минздрав Украины	ORG	Ministry-of-Health-Ukraine
 4744	4746	РФ	РФ	LOC	GPE-Russia
@@ -104,7 +104,7 @@
 5737	5752	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
 5841	5848	Украина	Украина	LOC	GPE-Ukraine
 5909	5916	Украине	Украина	LOC	GPE-Ukraine
-5993	6001	"""Лекхим"""	"""Лекхим"""	ORG	ORG-Leckhim
+5993	6001	"Лекхим"	"Лекхим"	ORG	ORG-Leckhim
 6165	6172	Украине	Украина	LOC	GPE-Ukraine
 6201	6216	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
 6289	6298	украинцам	украинцы	PER	GPE-Ukraine
@@ -122,13 +122,13 @@
 6976	6985	Рождества	Рождество	EVT	EVT-Christmas
 7030	7043	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
 7064	7077	коронавирусом	коронавирус	EVT	EVT-Covid-19
-7100	7113	"""Спутником V"""	Спутник V	PRO	PRO-Sputnik-V
+7100	7113	"Спутником V"	Спутник V	PRO	PRO-Sputnik-V
 7140	7146	Путина	Путин	PER	PER-Vladimir-Putin
 7159	7164	Путин	Путин	PER	PER-Vladimir-Putin
 7187	7189	РФ	РФ	LOC	GPE-Russia
 7213	7225	коронавируса	коронавирус	EVT	EVT-Covid-19
 7226	7236	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
-7247	7258	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+7247	7258	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 7333	7346	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
 7367	7380	коронавирусом	коронавирус	EVT	EVT-Covid-19
 7424	7435	коронавирус	коронавирус	EVT	EVT-Covid-19

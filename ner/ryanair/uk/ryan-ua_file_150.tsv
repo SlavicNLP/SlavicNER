@@ -17,8 +17,8 @@
 1292	1299	Ryanair	Ryanair	ORG	ORG-Ryanair
 1445	1452	Ryanair	Ryanair	ORG	ORG-Ryanair
 1508	1515	Ryanair	Ryanair	ORG	ORG-Ryanair
-1538	1561	"аеропортами ""Бориспіль"""	"аеропорт ""Бориспіль"""	LOC	LOC-Boryspil-Airport-Kiev
-1565	1572	"""Львів"""	"""Львів"""	LOC	LOC-Lviv-Airport
+1538	1561	аеропортами "Бориспіль"	аеропорт "Бориспіль"	LOC	LOC-Boryspil-Airport-Kiev
+1565	1572	"Львів"	"Львів"	LOC	LOC-Lviv-Airport
 1576	1581	Києва	Київ	LOC	GPE-Kiev
 1615	1621	Львова	Львів	LOC	GPE-Lviv
 1692	1697	Києва	Київ	LOC	GPE-Kiev

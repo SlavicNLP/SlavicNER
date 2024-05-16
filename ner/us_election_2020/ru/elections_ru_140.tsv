@@ -1,6 +1,6 @@
 113	120	Америке	Америка	LOC	GPE-USA
 138	146	Конгресс	Конгресс	ORG	ORG-United-States-Congress
-266	281	"""Живом журнале"""	"""Живой журнал"""	PRO	PRO-LiveJournal
+266	281	"Живом журнале"	"Живой журнал"	PRO	PRO-LiveJournal
 292	315	Чикагского университета	Чикагский университет	ORG	ORG-University-of-Chicago
 316	332	Константин Сонин	Константин Сонин	PER	PER-Konstantin-Sonin
 490	495	Трамп	Трамп	PER	PER-Donald-Trump

@@ -2,7 +2,7 @@
 65	82	Папа Бенедикт XVI	Папа Бенедикт XVI	PER	PER-Benedict-XVI
 102	110	Пакистан	Пакистан	LOC	GPE-Pakistan
 154	163	Азия Биби	Азия Биби	PER	PER-Asia-Bibi
-172	184	"РИА ""Новости"	РИА Новости	ORG	ORG-RIA-Novosti
+172	184	РИА "Новости	РИА Новости	ORG	ORG-RIA-Novosti
 210	219	Ватиканат	Ватикана	PRO	PRO-Radio-Vaticana
 222	226	Биби	Биби	PER	PER-Asia-Bibi
 248	256	Пакистан	Пакистан	LOC	GPE-Pakistan
@@ -12,4 +12,4 @@
 459	466	Мохамед	Мохамед	PER	PER-Prophet-Muhammad
 689	698	Азия Биби	Азия Биби	PER	PER-Asia-Bibi
 804	812	Ватикана	Ватикан	LOC	GPE-Vatican
-931	944	"РИА ""Новости"""	РИА Новости	ORG	ORG-RIA-Novosti
+931	944	РИА "Новости"	РИА Новости	ORG	ORG-RIA-Novosti

@@ -2,8 +2,8 @@
 27	34	българи	българи	PER	GPE-Bulgaria
 40	49	италианци	италианци	PER	GPE-Italy
 155	164	Тимишоара	Тимишоара	LOC	GPE-Timisoara
-184	244	"Главна дирекция ""Гражданска въздухоплавателна администрация"""	"Главна дирекция ""Гражданска въздухоплавателна администрация"""	ORG	ORG-DG-Civil-Aviation-Administration-BG
-246	254	"ГД ""ГВА"""	"ГД ""ГВА"""	ORG	ORG-DG-Civil-Aviation-Administration-BG
+184	244	Главна дирекция "Гражданска въздухоплавателна администрация"	Главна дирекция "Гражданска въздухоплавателна администрация"	ORG	ORG-DG-Civil-Aviation-Administration-BG
+246	254	ГД "ГВА"	ГД "ГВА"	ORG	ORG-DG-Civil-Aviation-Administration-BG
 341	348	Ryanair	Ryanair	ORG	ORG-Ryanair
 621	633	Мая Манолова	Мая Манолова	PER	PER-Maya-Manolova
 652	666	Диана Ковачева	Диана Ковачева	PER	PER-Diana-Kovacheva
@@ -23,7 +23,7 @@
 1345	1354	Тимишоара	Тимишоара	LOC	GPE-Timisoara
 1373	1380	Ryanair	Ryanair	ORG	ORG-Ryanair
 1512	1519	българи	българи	PER	GPE-Bulgaria
-1638	1646	"ГД ""ГВА"""	"ГД ""ГВА"""	ORG	ORG-DG-Civil-Aviation-Administration-BG
+1638	1646	ГД "ГВА"	ГД "ГВА"	ORG	ORG-DG-Civil-Aviation-Administration-BG
 1695	1727	Европейския потребителски център	Европейски потребителски център	ORG	ORG-European-Consumer-Centre-Bulgaria
 1850	1856	Лондон	Лондон	LOC	GPE-London
 1860	1867	Пловдив	Пловдив	LOC	GPE-Plovdiv

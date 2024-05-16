@@ -43,9 +43,9 @@
 5388	5398	Covishield	Covishield	PRO	PRO-Covishield-Vaccine
 5403	5410	Covaxin	Covaxin	PRO	PRO-Covaxin
 5437	5451	Bharat Biotech	Bharat Biotech	ORG	ORG-Bharat-Biotech
-5496	5507	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+5496	5507	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 5564	5573	Аргентина	Аргентина	LOC	GPE-Argentina
-5663	5674	"""Спутником"""	Спутник	PRO	PRO-Sputnik-V
+5663	5674	"Спутником"	Спутник	PRO	PRO-Sputnik-V
 5728	5744	Африканский Союз	Африканский Союз	ORG	ORG-African-Union
 5787	5793	Pfizer	Pfizer	ORG	ORG-Pfizer
 5795	5806	AstraZeneca	AstraZeneca	ORG	ORG-AstraZeneca

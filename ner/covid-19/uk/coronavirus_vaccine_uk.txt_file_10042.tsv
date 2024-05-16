@@ -1,7 +1,7 @@
 42	50	COVID-19	COVID-19	EVT	EVT-Covid-19
 89	101	коронавірусу	коронавірус	EVT	EVT-Covid-19
 102	112	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
-324	376	"школі медицини ""Ікан"" медичного центру ""Маунт-Синай"""	"школа медицини ""Ікан"" медичного центру ""Маунт-Синай"""	ORG	ORG-Icahn-School-of-Medicine-at-Mount-Sinai
+324	376	школі медицини "Ікан" медичного центру "Маунт-Синай"	школа медицини "Ікан" медичного центру "Маунт-Синай"	ORG	ORG-Icahn-School-of-Medicine-at-Mount-Sinai
 377	392	Флоріан Краммер	Флоріан Краммер	PER	PER-Florian-Krammer
 399	402	ORF	ORF	ORG	ORG-ORF
 489	495	Pfizer	Pfizer	ORG	ORG-Pfizer

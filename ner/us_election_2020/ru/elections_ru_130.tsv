@@ -67,7 +67,7 @@
 2947	2960	Яндекс.Музыка	Яндекс.Музыка	PRO	PRO-Yandex.Music
 2962	2969	Castbox	Castbox	PRO	PRO-Castbox
 2972	2983	Soundstream	Soundstream	PRO	PRO-Soundstream
-3042	3055	"""РИА Новости"""	РИА Новости	PRO	PRO-RIA-Novosti
+3042	3055	"РИА Новости"	РИА Новости	PRO	PRO-RIA-Novosti
 3172	3183	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
 3336	3351	дональду трампу	Дональд Трамп	PER	PER-Donald-Trump
 3353	3356	фбр	ФБР	ORG	ORG-FBI
@@ -98,7 +98,7 @@
 4213	4223	Чак Норрис	Чак Норрис	PER	PER-Chuck-Norris
 4253	4258	Трамп	Трамп	PER	PER-Donald-Trump
 4295	4307	Конгресс США	Конгресс США	ORG	ORG-United-States-Congress
-4318	4328	"""Симпсоны"""	Симпсон	PRO	PRO-Simpsons
+4318	4328	"Симпсоны"	Симпсон	PRO	PRO-Simpsons
 4515	4521	Трампа	Трамп	PER	PER-Donald-Trump
 4572	4579	Америки	Америка	LOC	GPE-USA
 4636	4641	Трамп	Трамп	PER	PER-Donald-Trump
@@ -124,7 +124,7 @@
 5544	5557	Яндекс.Музыка	Яндекс.Музыка	PRO	PRO-Yandex.Music
 5559	5566	Castbox	Castbox	PRO	PRO-Castbox
 5569	5580	Soundstream	Soundstream	PRO	PRO-Soundstream
-5639	5652	"""РИА Новости"""	РИА Новости	PRO	PRO-RIA-Novosti
+5639	5652	"РИА Новости"	РИА Новости	PRO	PRO-RIA-Novosti
 5704	5715	РИА Новости	РИА Новости	PRO	PRO-RIA-Novosti
 5953	6008	Международное информационное агентство «Россия сегодня»	Международное информационное агентство «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today
 6010	6030	МИА «Россия сегодня»	МИА «Россия сегодня»	ORG	ORG-International-News-Agency-Russia-Today

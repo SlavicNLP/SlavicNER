@@ -7,11 +7,11 @@
 358	370	коронавируса	коронавирус	EVT	EVT-Covid-19
 573	579	России	Россия	LOC	GPE-Russia
 715	723	Superjob	Superjob	ORG	ORG-Superjob
-922	940	"""Справочник врача"""	Справочник врача	PRO	PRO-Doctor's-Handbook-App
+922	940	"Справочник врача"	Справочник врача	PRO	PRO-Doctor's-Handbook-App
 1119	1144	российском Центре Гамалеи	российский центр Гамалеи	ORG	ORG-Gamalea-center
 1275	1278	США	США	LOC	GPE-USA
 1287	1299	коронавируса	коронавирус	EVT	EVT-Covid-19
-1390	1409	"""Ассошиэйтед пресс"""	Ассошиэйтед пресс	ORG	ORG-AP-The-Associated-Press
+1390	1409	"Ассошиэйтед пресс"	Ассошиэйтед пресс	ORG	ORG-AP-The-Associated-Press
 1663	1674	американцев	американцы	PER	GPE-USA
 1678	1681	США	США	LOC	GPE-USA
 1750	1773	Русская служба Би-би-си	Русская служба Би-би-си	PRO	PRO-BBC-Russian
@@ -32,7 +32,7 @@
 3700	3706	Pfizer	Pfizer	ORG	ORG-Pfizer
 3709	3716	Moderna	Moderna	ORG	ORG-Moderna
 3771	3782	российского	российский	PER	GPE-Russia
-3783	3795	"""Спутника V"""	Спутник V	PRO	PRO-Sputnik-V
+3783	3795	"Спутника V"	Спутник V	PRO	PRO-Sputnik-V
 3983	4009	Стэнфордского университета	Стэнфордский университет	ORG	ORG-Stanford-University
 4010	4027	Ивонна Мальдонадо	Ивонна Мальдонадо	PER	ORG-Yvonne-Maldonado
 4380	4390	британской	британский	PER	GPE-Great-Britain
@@ -56,9 +56,9 @@
 6706	6712	Путину	Путин	PER	PER-Vladimir-Putin
 6878	6887	Аргентины	Аргентина	LOC	GPE-Argentina
 6888	6906	Альберто Фернандес	Альберто Фернандес	PER	PER-Alberto-Fernández
-6936	6946	"""Спутнику"""	Спутник	PRO	PRO-Sputnik-V
+6936	6946	"Спутнику"	Спутник	PRO	PRO-Sputnik-V
 7008	7020	Филиппинский	Филиппинский	PER	PER-Philippines
 7031	7046	Родриго Тутерте	Родриго Тутерте	PER	PER-Rodrigo-Duterte
-7080	7091	"""Спутником"""	Спутник	PRO	PRO-Sputnik-V
+7080	7091	"Спутником"	Спутник	PRO	PRO-Sputnik-V
 7194	7200	Европе	Европа	LOC	LOC-Europe
 7367	7381	коронавирусную	коронавирусный	EVT	EVT-Covid-19

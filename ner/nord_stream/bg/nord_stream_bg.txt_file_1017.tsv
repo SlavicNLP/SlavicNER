@@ -5,7 +5,7 @@
 85	90	Полша	Полша	LOC	GPE-Poland
 99	101	ЕС	ЕС	ORG	ORG-European-Union
 160	176	Европейския съюз	Европейски съюз	ORG	ORG-European-Union
-225	242	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+225	242	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 291	296	Полша	Полша	LOC	GPE-Poland
 297	310	Михал Куртика	Михал Куртика	PER	PER-Michal-Kurtyka
 314	326	Полско радио	Полско радио	PRO	PRO-Polish-Radio
@@ -21,7 +21,7 @@
 876	881	Полша	Полша	LOC	GPE-Poland
 892	903	австрийците	австрийци	PER	GPE-Austria
 1039	1041	ЕС	ЕС	ORG	ORG-European-Union
-1114	1131	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+1114	1131	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 1259	1264	Русия	Русия	LOC	GPE-Russia
 1270	1284	Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
 1288	1296	Германия	Германия	LOC	GPE-Germany
@@ -32,7 +32,7 @@
 1599	1605	Латвия	Латвия	LOC	GPE-Latvia
 1607	1612	Литва	Литва	LOC	GPE-Lithuania
 1615	1620	Полша	Полша	LOC	GPE-Poland
-1677	1694	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+1677	1694	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 1750	1755	Русия	Русия	LOC	GPE-Russia
 1846	1860	Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
 1861	1867	Москва	Москва	LOC	GPE-Moscow

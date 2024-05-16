@@ -1,6 +1,6 @@
 400	406	России	Россия	LOC	GPE-Russia
 598	599	Ъ	ъ	PRO	PRO-Kommersant
-885	925	"""Российские автомобильные дилеры"" (РОАД)"	Российские автомобильные дилеры	ORG	ORG-Russian-Auto-Dealers
+885	925	"Российские автомобильные дилеры" (РОАД)	Российские автомобильные дилеры	ORG	ORG-Russian-Auto-Dealers
 926	942	Вячеслав Зубарев	Вячеслав Зубарев	PER	PER-Vyacheslav-Zubarev
 951	965	Конвенции РОАД	Конвенция РОАД	EVT	EVT-ROAD-Convention
 1048	1057	Автостата	Автостат	ORG	ORG-Avtostat

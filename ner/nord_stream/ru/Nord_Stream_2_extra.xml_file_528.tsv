@@ -1,10 +1,10 @@
 6	9	США	США	LOC	GPE-USA
 12	15	ФРГ	ФРГ	LOC	GPE-Germany
-58	78	"""Нордового потока-2"""	"""Нордовый поток-2"""	PRO	PRO-Nord-Stream-2
+58	78	"Нордового потока-2"	"Нордовый поток-2"	PRO	PRO-Nord-Stream-2
 80	83	УНН	УНН	ORG	ORG-UNN
 91	94	США	США	LOC	GPE-USA
 97	105	Германии	Германия	LOC	GPE-Germany
 106	120	Ричард Гренелл	Ричард Гренелл	PER	PER-Richard-Grenell
 237	247	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
-290	308	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+290	308	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 346	350	Bild	Bild	PRO	PRO-Bild

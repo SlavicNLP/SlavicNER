@@ -1,6 +1,6 @@
 6	18	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
 31	34	США	США	LOC	GPE-USA
-81	99	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+81	99	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 163	169	Европе	Европа	LOC	LOC-Europe
 178	181	США	США	LOC	GPE-USA
 196	208	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
@@ -8,7 +8,7 @@
 246	254	Германии	Германия	LOC	GPE-Germany
 255	278	Гайко Маас (Heiko Maas)	Гайко Маас (Heiko Maas)	PER	PER-Heiko-Maas
 300	310	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
-349	367	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+349	367	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 402	408	России	Россия	LOC	GPE-Russia
 411	417	Европу	Европа	LOC	LOC-Europe
 426	433	Украины	Украина	LOC	GPE-Ukraine
@@ -16,28 +16,28 @@
 513	516	США	США	LOC	GPE-USA
 528	532	Маас	Маас	PER	PER-Heiko-Maas
 557	564	Берлине	Берлин	LOC	GPE-Berlin
-607	625	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+607	625	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 699	706	Reuters	Reuters	ORG	ORG-Reuters
 708	712	Маас	Маас	PER	PER-Heiko-Maas
 896	903	Украины	Украина	LOC	GPE-Ukraine
 911	923	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
 940	946	Берлин	Берлин	LOC	GPE-Berlin
-1051	1069	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1051	1069	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 1155	1165	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
 1252	1287	Вольфганг Бюхеле (Wolfgang Büchele)	Вольфганг Бюхеле (Wolfgang Büchele)	PER	PER-Wolfgang-Buchele
 1346	1354	Германии	Германия	LOC	GPE-Germany
 1371	1377	Бюхеле	Бюхеле	PER	PER-Wolfgang-Buchele
-1391	1409	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1391	1409	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 1457	1463	Европе	Европа	LOC	LOC-Europe
-1465	1483	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1465	1483	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 1499	1515	Балтийского моря	Балтийское море	LOC	LOC-Baltic-Sea
-1658	1667	"""Газпром"""	"""Газпром"""	ORG	ORG-Gazprom
+1658	1667	"Газпром"	"Газпром"	ORG	ORG-Gazprom
 1704	1709	Engie	Engie	ORG	ORG-Engie
 1711	1717	Uniper	Uniper	ORG	ORG-Uniper
 1719	1722	OMV	OMV	ORG	ORG-OMV
 1724	1729	Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
 1732	1743	Wintershall	Wintershall	ORG	ORG-Wintershall
-1848	1868	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1848	1868	"Северного потока-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 1947	1950	США	США	LOC	GPE-USA
 1952	1958	Польша	Польша	LOC	GPE-Poland
 1961	1974	страны Балтии	страны Балтии	LOC	LOC-Baltic-countries

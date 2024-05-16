@@ -13,7 +13,7 @@
 676	686	Грег Кларк	Грег Кларк	PER	PER-Greg-Clark
 729	736	Брекзит	Брекзит	EVT	EVT-Brexit
 1000	1012	Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
-1151	1180	"Информационна агенция ""Фокус"""	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+1151	1180	Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
 1183	1189	Лондон	Лондон	LOC	GPE-London
 1205	1215	лейбъристи	лейбъристи	PER	ORG-Labour-Party-UK
 1240	1247	Брекзит	Брекзит	EVT	EVT-Brexit

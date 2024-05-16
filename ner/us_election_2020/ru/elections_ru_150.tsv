@@ -2,7 +2,7 @@
 286	293	Ельцина	Ельцин	PER	PER-Boris-Jelcin
 360	376	Борис Николаевич	Борис Николаевич	PER	PER-Boris-Jelcin
 385	392	Ельцина	Ельцин	PER	PER-Boris-Jelcin
-513	529	«Борьки-пьяницы»	"""Борька-пьяница"""	PER	PER-Boris-Jelcin
+513	529	«Борьки-пьяницы»	"Борька-пьяница"	PER	PER-Boris-Jelcin
 549	563	Коронавирусные	Коронавирусные	EVT	EVT-Covid-19
 575	586	Нидерландах	Нидерланды	LOC	GPE-Holland
 635	646	Марка Рютте	Марк Рютте	PER	PER-Mark-Rutte

@@ -7,7 +7,7 @@
 305	320	Югоизточна Азия	Югоизточна Азия	LOC	LOC-Southeast-Asia
 355	366	коронавирус	коронавирус	EVT	EVT-Covid-19
 369	377	Германия	Германия	LOC	GPE-Germany
-484	525	"Института за заразни болести ""Роберт Кох"""	"Институт за заразни болести ""Роберт Кох"""	ORG	ORG-Robert-Koch-Institut
+484	525	Института за заразни болести "Роберт Кох"	Институт за заразни болести "Роберт Кох"	ORG	ORG-Robert-Koch-Institut
 535	538	БТА	БТА	ORG	ORG-Bulgarian-News-Agency
 551	558	Ройтерс	Ройтерс	ORG	ORG-Reuters
 582	590	Covid-19	COVID-19	EVT	EVT-Covid-19

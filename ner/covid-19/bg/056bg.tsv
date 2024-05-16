@@ -28,7 +28,7 @@
 1840	1843	Хан	Хан	PER	PER-Stephen-Hahn
 1877	1880	САЩ	САЩ	LOC	GPE-USA
 1924	1936	коронавируса	коронавирус	EVT	EVT-Covid-19
-1946	1975	"университетът ""Джонс Хопкинс"""	"университет ""Джонс Хопкинс"""	ORG	ORG-Johns-Hopkins-University
+1946	1975	университетът "Джонс Хопкинс"	университет "Джонс Хопкинс"	ORG	ORG-Johns-Hopkins-University
 2178	2188	Джо Байдън	Джо Байдън	PER	PER-Joe-Biden
 2221	2233	коронавируса	коронавирус	EVT	EVT-Covid-19
 2344	2355	Пърл Харбър	Пърл Харбър	LOC	LOC-Pearl-Harbor

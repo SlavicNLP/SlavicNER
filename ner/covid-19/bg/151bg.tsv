@@ -2,7 +2,7 @@
 61	68	Испания	Испания	LOC	GPE-Spain
 71	78	Франция	Франция	LOC	GPE-France
 135	147	коронавируса	коронавирус	EVT	EVT-Covid-19
-170	197	"Университета ""Джон Хопкинс"""	"Университет ""Джон Хопкинс"""	ORG	ORG-Johns-Hopkins-University
+170	197	Университета "Джон Хопкинс"	Университет "Джон Хопкинс"	ORG	ORG-Johns-Hopkins-University
 226	237	коронавирус	коронавирус	EVT	EVT-Covid-19
 310	316	Италия	Италия	LOC	GPE-Italy
 362	367	Китай	Китай	LOC	GPE-China

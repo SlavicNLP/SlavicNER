@@ -96,7 +96,7 @@
 9665	9678	Сара Макбрайд	Сара Макбрайд	PER	PER-Sarah-McBride
 9788	9796	NBC News	NBC News	PRO	PRO-NBC-News
 9819	9832	Южном Кавказе	Южный Кавказ	LOC	GPE-South-Caucasus
-9979	9984	"""Ета"""	"""Эта"""	EVT	EVT-Hurricane-Eta
+9979	9984	"Ета"	"Эта"	EVT	EVT-Hurricane-Eta
 9987	10006	Центральній Америці	Центральная Америка	LOC	GPE-Central-America
 10054	10061	Reuters	Reuters	PRO	ORG-Reuters
 10111	10129	Центральну Америку	Центральная Америка	LOC	GPE-Central-America

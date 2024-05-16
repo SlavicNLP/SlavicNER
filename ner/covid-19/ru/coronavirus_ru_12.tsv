@@ -1,13 +1,13 @@
 12	17	ковид	ковид	EVT	EVT-Covid-19
 33	40	Украине	Украина	LOC	GPE-Ukraine
-60	71	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+60	71	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 76	92	Минздрав Украины	Минздрав Украины	ORG	Ministry-of-Health-Ukraine
 147	159	коронавируса	коронавирус	EVT	EVT-Covid-19
 160	169	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
 214	221	Украине	Украина	LOC	GPE-Ukraine
 277	316	украинское министерство здравоохранения	Украинское министерство здравоохранения	ORG	ORG-Ministry-of-Healthcare-Ukraine
 318	321	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
-364	372	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+364	372	"Биолек"	"Биолек"	ORG	ORG-Biolec
 425	437	коронавируса	коронавирус	EVT	EVT-Covid-19
 438	447	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
 449	462	Gam-COVID-Vac	Gam-COVID-Vac	PRO	PRO-Sputnik-V
@@ -16,40 +16,40 @@
 589	597	Беларуси	Беларусь	LOC	GPE-Belarus
 599	604	Индии	Индия	LOC	GPE-India
 628	635	Украине	Украина	LOC	GPE-Ukraine
-747	758	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+747	758	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 776	783	Украины	Украина	LOC	GPE-Ukraine
 793	800	Украине	Украина	LOC	GPE-Ukraine
 887	894	Украине	Украина	LOC	GPE-Ukraine
-960	996	"""Оппозиционная платформа - За жизнь"""	Оппозиционная платформа За жизнь	ORG	ORG-Opposition-Platform-For-Life
+960	996	"Оппозиционная платформа - За жизнь"	Оппозиционная платформа За жизнь	ORG	ORG-Opposition-Platform-For-Life
 998	1002	ОПЗЖ	Оппозиционная платформа За жизнь	ORG	ORG-Opposition-Platform-For-Life
 1033	1049	Виктор Медведчук	Виктор Медведчук	PER	PER-Victor-Medvedchuk
 1121	1128	Россией	Россия	LOC	GPE-Russia
 1129	1134	Крыму	Крым	LOC	GPE-Crimea
 1199	1201	РФ	РФ	LOC	GPE-Russia
 1202	1220	Владимиром Путиным	Владимир Путин	PER	PER-Vladimir-Putin
-1268	1279	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+1268	1279	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 1280	1287	Украине	Украина	LOC	GPE-Ukraine
 1289	1294	Путин	Путин	PER	PER-Vladimir-Putin
 1371	1377	России	Россия	LOC	GPE-Russia
 1385	1392	Украине	Украина	LOC	GPE-Ukraine
 1420	1430	Медведчуку	Медведчук	PER	PER-Victor-Medvedchuk
-1539	1547	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+1539	1547	"Биолек"	"Биолек"	ORG	ORG-Biolec
 1604	1613	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
 1670	1672	РФ	РФ	LOC	GPE-Russia
 1675	1683	Беларуси	Беларусь	LOC	GPE-Belarus
 1735	1744	Аргентине	Аргентина	LOC	GPE-Argentina
-1794	1802	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+1794	1802	"Биолек"	"Биолек"	ORG	ORG-Biolec
 1837	1844	Украины	Украина	LOC	GPE-Ukraine
 1854	1863	Sputnik V	Sputnik V	PRO	PRO-Sputnik-V
-1916	1920	ОПЗЖ	"""Оппозиционная платформа - За жизнь"""	ORG	ORG-Opposition-Platform-For-Life
+1916	1920	ОПЗЖ	"Оппозиционная платформа - За жизнь"	ORG	ORG-Opposition-Platform-For-Life
 1963	1979	Минздрав Украины	Минздрав Украины	ORG	ORG-Ministry-of-Healthcare-Ukraine
 2014	2022	Германии	Германия	LOC	GPE-Germany
 2023	2038	Виктора Мартина	Виктор Мартин	PER	PER-Victor-Martin
 2040	2053	Viktor Martin	Виктор Мартин	PER	PER-Victor-Martin
-2072	2080	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
+2072	2080	"Биолек"	"Биолек"	ORG	ORG-Biolec
 2098	2107	Sputnik V	Спутник V	PRO	PRO-Sputnik-V
-2255	2263	"""Биолек"""	"""Биолек"""	ORG	ORG-Biolec
-2344	2358	"""Фармстандарт"""	"""Фармстандарт"""	ORG	ORG-Pharmstandart
+2255	2263	"Биолек"	"Биолек"	ORG	ORG-Biolec
+2344	2358	"Фармстандарт"	"Фармстандарт"	ORG	ORG-Pharmstandart
 2424	2437	Виктор Мартин	Виктор Мартин	PER	PER-Victor-Martin
 2555	2573	Виктора Харитонина	Виктор Харитонин	PER	PER-Victor-Kharitonin
 2591	2598	Украине	Украина	LOC	GPE-Ukraine
@@ -80,7 +80,7 @@
 3982	4017	Государственного экспертного центра	Государственный экспертный центр	ORG	ORG-State-Expert-Center
 4018	4033	Татьяна Думенко	Татьяна Думенко	PER	PER-Tatiana-Dumenko
 4179	4186	Украине	Украина	LOC	GPE-Ukraine
-4226	4234	"""Биолик"""	"""Биолик"""	ORG	ORG-Biolic
+4226	4234	"Биолик"	"Биолик"	ORG	ORG-Biolic
 4311	4314	ГЭЦ	Государственный экспертный центр	ORG	ORG-State-Expert-Center
 4354	4371	Минздраве Украины	Минздрав Украины	ORG	ORG-Ministry-of-Healthcare-Ukraine
 4423	4425	РФ	РФ	LOC	GPE-Russia
@@ -97,7 +97,7 @@
 5416	5431	Sinovac Biotech	Sinovac Biotech	ORG	ORG-Sinovac-Biotech
 5520	5527	Украина	Украина	LOC	GPE-Ukraine
 5588	5595	Украине	Украина	LOC	GPE-Ukraine
-5672	5680	"""Лекхим"""	"""Лекхим"""	ORG	ORG-Leckhim
+5672	5680	"Лекхим"	"Лекхим"	ORG	ORG-Leckhim
 5844	5851	Украине	Украина	LOC	GPE-Ukraine
 5880	5895	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
 6074	6081	Украина	Украина	LOC	GPE-Ukraine

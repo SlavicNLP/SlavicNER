@@ -16,7 +16,7 @@
 846	861	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
 895	898	США	США	LOC	GPE-USA
 913	930	Українська правда	Українська правда	ORG	ORG-Ukrainian-Pravda
-1028	1047	«Українську правду»	"""Українська правда"""	PRO	PRO-Ukrainian-Pravda
-1150	1169	«Iнтерфакс-Україна»	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
-1277	1296	«Українські Новини»	"""Українські Новини"""	ORG	ORG-Ukrainian-News
+1028	1047	«Українську правду»	"Українська правда"	PRO	PRO-Ukrainian-Pravda
+1150	1169	«Iнтерфакс-Україна»	"Інтерфакс-Україна"	ORG	ORG-Interfax-Ukraine
+1277	1296	«Українські Новини»	"Українські Новини"	ORG	ORG-Ukrainian-News
 1435	1451	Георгій Гонгадзе	Георгій Гонгадзе	PER	PER-Heorhiy-Honhadze

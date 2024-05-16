@@ -42,25 +42,25 @@
 2242	2254	американские	американский	LOC	GPE-USA
 2312	2320	конгресс	конгресс	ORG	ORG-United-States-Congress
 2347	2356	Хусяйнова	Хусяйнова	PER	PER-Elena-Husyaynova
-2368	2383	"проекте ""Лахта"""	"проект ""Лахта"""	ORG	ORG-Lahta-Project
+2368	2383	проекте "Лахта"	проект "Лахта"	ORG	ORG-Lahta-Project
 2441	2457	Владимиру Путину	Владимир Путин	PER	PER-Vladimir-Putin
 2469	2486	Евгения Пригожина	Евгений Пригожин	PER	PER-Evgeniy-Prigozhin
-2488	2520	"""Федеральное агентство новостей"""	"""Федеральное агентство новостей"""	ORG	ORG-Russia-Federal-Agency-of-News
+2488	2520	"Федеральное агентство новостей"	"Федеральное агентство новостей"	ORG	ORG-Russia-Federal-Agency-of-News
 2537	2546	Пригожину	Пригожин	PER	PER-Evgeniy-Prigozhin
 2613	2649	Сестрорецкий районный суд Петербурга	Сестрорецкий районный суд Петербурга	ORG	ORG-Щербинский суд
 2670	2680	Хусяйновой	Хусяйнова	PER	PER-Elena-Husyaynova
 2712	2725	американскому	американский	LOC	GPE-USA
 3102	3112	минфин США	минфин США	ORG	ORG-United-States-Department-of-the-Treasury
 3144	3153	Хусяйнову	Хусяйнова	PER	PER-Elena-Husyaynova
-3166	3198	"""Федеральное агентство новостей"""	"""Федеральное агентство новостей"""	ORG	ORG-Federal-News-Agency
-3208	3225	"""Невские новости"""	"""Невские новости"""	ORG	ORG-Russia-Nevskiye-Novosty
-3227	3245	"""Экономка сегодня"""	"""Экономика сегодня"""	ORG	ORG-Federal-News-Agency-Economics-Today
+3166	3198	"Федеральное агентство новостей"	"Федеральное агентство новостей"	ORG	ORG-Federal-News-Agency
+3208	3225	"Невские новости"	"Невские новости"	ORG	ORG-Russia-Nevskiye-Novosty
+3227	3245	"Экономка сегодня"	"Экономика сегодня"	ORG	ORG-Federal-News-Agency-Economics-Today
 3248	3258	USA Really	USA Really	ORG	ORG-USA-Really
 3295	3305	минфин США	минфин США	ORG	ORG-United-States-Department-of-the-Treasury
 3349	3358	Пригожина	Пригожин	PER	PER-Evgeniy-Prigozhin
-3361	3376	"проекту ""Лахта"""	"проект ""Лахта"""	ORG	ORG-Lahta-Project
-3380	3422	"Компанию ""Конкорд менеджмент и консалтинг"""	"Компания ""Конкорд менеджмент и консалтинг"""	ORG	ORG-Concord-Group-Managing-and-Consulting
-3444	3458	"проект ""Лахта"""	"проект ""Лахта"""	ORG	ORG-Lahta-Project
+3361	3376	проекту "Лахта"	проект "Лахта"	ORG	ORG-Lahta-Project
+3380	3422	Компанию "Конкорд менеджмент и консалтинг"	Компания "Конкорд менеджмент и консалтинг"	ORG	ORG-Concord-Group-Managing-and-Consulting
+3444	3458	проект "Лахта"	проект "Лахта"	ORG	ORG-Lahta-Project
 3462	3465	США	США	LOC	GPE-USA
 3494	3524	президентские выборы 2016 года	президентские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
 3565	3577	американском	американский	LOC	GPE-USA
@@ -78,13 +78,13 @@
 4346	4349	США	США	LOC	GPE-USA
 4368	4401	президентскими выборами 2016 года	президентские выборы 2016 года	EVT	EVT-2016-United-States-Presidential-Election
 4470	4507	выборов в конгресс в ноябре 2018 года	выборы в конгресс в ноябре 2018 года	EVT	EVT-2018-United-States-Election
-4561	4573	"""Инстаграме"""	"""Инстаграм"""	PRO	PRO-Instagram
+4561	4573	"Инстаграме"	"Инстаграм"	PRO	PRO-Instagram
 4605	4620	республиканской	республиканский	ORG	ORG-Republican-Party-USA
 4719	4729	российскую	российский	LOC	GPE-Russia
 4868	4876	Би-би-си	Би-би-си	ORG	ORG-BBC-Ltd
 4888	4901	американскому	американский	LOC	GPE-USA
-4909	4942	"""Агентства интернет-исследований"""	"""Агентство интернет-исследований"""	ORG	ORG-Internet-Research-Agency
-5072	5082	"""Фейсбуке"""	"""Фейсбук"""	PRO	PRO-Facebook
+4909	4942	"Агентства интернет-исследований"	"Агентство интернет-исследований"	ORG	ORG-Internet-Research-Agency
+5072	5082	"Фейсбуке"	"Фейсбук"	PRO	PRO-Facebook
 5108	5116	Би-би-си	Би-би-си	PRO	PRO-BBC
 5158	5170	американских	американский	LOC	GPE-USA
 5383	5391	Би-би-си	Би-би-си	PRO	PRO-BBC

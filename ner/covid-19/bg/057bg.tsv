@@ -8,7 +8,7 @@
 142	148	Гърция	Гърция	LOC	GPE-Greece
 150	159	Финландия	Финландия	LOC	GPE-Finland
 162	170	Ирландия	Ирландия	LOC	GPE-Ireland
-230	258	"университета ""Джонс Хопкинс"""	"университет ""Джонс Хопкинс"""	ORG	ORG-Johns-Hopkins-University
+230	258	университета "Джонс Хопкинс"	университет "Джонс Хопкинс"	ORG	ORG-Johns-Hopkins-University
 278	284	Белгия	Белгия	LOC	GPE-Belgium
 305	311	Белгия	Белгия	LOC	GPE-Belgium
 375	377	ЕС	ЕС	ORG	ORG-European-Union

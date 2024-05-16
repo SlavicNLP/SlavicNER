@@ -16,4 +16,4 @@
 1345	1352	Украине	Украина	LOC	GPE-Ukraine
 1418	1423	Китае	Китай	LOC	GPE-China
 1430	1438	COVID-19	COVID-19	EVT	EVT-Covid-19
-1642	1650	"""АЛРОСА"""	Алроса	ORG	ORG-Alrosa
+1642	1650	"АЛРОСА"	Алроса	ORG	ORG-Alrosa

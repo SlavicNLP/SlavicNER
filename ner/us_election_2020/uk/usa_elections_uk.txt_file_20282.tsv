@@ -30,7 +30,7 @@
 1359	1365	Байден	Байден	PER	PER-Joe-Biden
 1401	1413	Пенсильванії	Пенсильванія	LOC	GPE-Pennsylvania
 1516	1519	США	США	LOC	GPE-USA
-1538	1559	"""Європейської правди"""	"""Європейська правда"""	PRO	PRO-European-Truth
+1538	1559	"Європейської правди"	"Європейська правда"	PRO	PRO-European-Truth
 1575	1580	Трамп	Трамп	PER	PER-Donald-Trump
 1621	1644	Республіканської партії	Республіканська партія	ORG	ORG-Republican-Party-USA
 1667	1676	Вісконсин	Вісконсин	LOC	GPE-Wisconsin

@@ -1,10 +1,10 @@
-92	109	"АО ""Сбербанк-АСТ"""	"АО ""Сбербанк-АСТ"""	ORG	ORG-SBERBANK
-234	251	"АО ""Сбербанк-АСТ"""	"АО ""Сбербанк-АСТ"""	ORG	ORG-SBERBANK
-400	415	"""Гам-КОВИД-Вак"""	"""Гам-КОВИД-Вак"""	PRO	PRO-Gam-COVID-Vac
+92	109	АО "Сбербанк-АСТ"	АО "Сбербанк-АСТ"	ORG	ORG-SBERBANK
+234	251	АО "Сбербанк-АСТ"	АО "Сбербанк-АСТ"	ORG	ORG-SBERBANK
+400	415	"Гам-КОВИД-Вак"	"Гам-КОВИД-Вак"	PRO	PRO-Gam-COVID-Vac
 417	432	Минздрав России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
-503	518	"""Гам-КОВИД-Вак"""	"""Гам-КОВИД-Вак"""	PRO	PRO-Gam-COVID-Vac
+503	518	"Гам-КОВИД-Вак"	"Гам-КОВИД-Вак"	PRO	PRO-Gam-COVID-Vac
 520	535	Минздрав России	Минздрав России	ORG	ORG-Ministry-of-Health-Russia
-622	637	"""Гам-КОВИД-Вак"""	"""Гам-КОВИД-Вак"""	PRO	PRO-Gam-COVID-Vac
+622	637	"Гам-КОВИД-Вак"	"Гам-КОВИД-Вак"	PRO	PRO-Gam-COVID-Vac
 1834	1839	COVID	COVID-19	EVT	EVT-Covid-19
 2038	2048	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
 2079	2089	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19

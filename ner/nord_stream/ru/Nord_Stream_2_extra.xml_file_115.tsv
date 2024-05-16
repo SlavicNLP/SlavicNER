@@ -5,11 +5,11 @@
 73	83	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
 92	95	США	США	LOC	GPE-USA
 174	184	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
-213	231	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+213	231	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 296	302	Европе	Европа	LOC	LOC-Europe
 311	314	США	США	LOC	GPE-USA
 330	334	Маас	Маас	PER	PER-Heiko-Maas
-358	376	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+358	376	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 514	520	Берлин	Берлин	LOC	GPE-Berlin
 563	574	Центральной	Центральная	LOC	LOC-Central-Europe
 577	593	Восточной Европы	Восточная Европа	LOC	LOC-Eastern-Europe
@@ -19,4 +19,4 @@
 848	854	России	Россия	LOC	GPE-Russia
 904	907	США	США	LOC	GPE-USA
 966	984	Allseas Group S.A.	Allseas Group S.A.	ORG	ORG-Allseas
-1029	1047	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1029	1047	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2

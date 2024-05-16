@@ -1,8 +1,8 @@
 0	8	Германия	Германия	LOC	GPE-Germany
 22	29	Украину	Украина	LOC	GPE-Ukraine
-49	69	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+49	69	"Северного потока-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 79	82	ФРГ	ФРГ	LOC	GPE-Germany
-109	128	"""Северный поток-2 """	"""Северный поток-2 """	PRO	PRO-Nord-Stream-2
+109	128	"Северный поток-2 "	"Северный поток-2 "	PRO	PRO-Nord-Stream-2
 225	227	РФ	РФ	LOC	GPE-Russia
 234	241	Украину	Украина	LOC	GPE-Ukraine
 278	285	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
@@ -10,19 +10,19 @@
 307	316	ONLINE.UA	ONLINE.UA	PRO	PRO-ONLINE-UA
 331	333	DW	DW	PRO	PRO-Deutsche-Welle
 383	386	США	США	LOC	GPE-USA
-415	434	"""Северный поток-2 """	"""Северный поток-2 """	PRO	PRO-Nord-Stream-2
+415	434	"Северный поток-2 "	"Северный поток-2 "	PRO	PRO-Nord-Stream-2
 496	502	Европе	Европа	LOC	LOC-Europe
 511	514	США	США	LOC	GPE-USA
 516	522	Берлин	Берлин	LOC	GPE-Berlin
 571	581	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
-600	619	"""Северный поток-2 """	"""Северный поток-2 """	PRO	PRO-Nord-Stream-2
+600	619	"Северный поток-2 "	"Северный поток-2 "	PRO	PRO-Nord-Stream-2
 693	697	Маас	Маас	PER	PER-Heiko-Maas
 938	945	Украину	Украина	LOC	GPE-Ukraine
 961	963	РФ	РФ	LOC	GPE-Russia
 1052	1058	России	Россия	LOC	GPE-Russia
 1127	1133	Польши	Польша	LOC	GPE-Poland
 1134	1151	Матеуш Моравецкий	Матеуш Моравецкий	PER	PER-Mateusz-Morawiecki
-1183	1204	"""Северного потока-2 """	"""Северный поток-2 """	PRO	PRO-Nord-Stream-2
+1183	1204	"Северного потока-2 "	"Северный поток-2 "	PRO	PRO-Nord-Stream-2
 1205	1211	Путина	Путин	PER	PER-Vladimir-Putin
 1267	1271	Киев	Киев	LOC	GPE-Kiev
 1275	1281	Кремле	Кремль	LOC	LOC-Kremlin

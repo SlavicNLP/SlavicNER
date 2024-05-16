@@ -39,11 +39,11 @@
 3384	3391	Україні	Україна	LOC	GPE-Ukraine
 3407	3414	Україну	Україна	LOC	GPE-Ukraine
 3461	3491	Міністерстві охорони ‎здоров'я	Міністерстві охорони ‎здоров'я	ORG	ORG-Ministry-of-Healthcare-Ukraine
-3506	3523	"""Ваксігрип Тетра"""	"""Ваксігрип Тетра"""	PRO	PRO-Vaksígrip-Tetra
+3506	3523	"Ваксігрип Тетра"	"Ваксігрип Тетра"	PRO	PRO-Vaksígrip-Tetra
 3525	3532	Франція	Франція	LOC	GPE-France
-3535	3545	"""Інфлувак"""	"""Інфлувак"""	PRO	PRO-Influvak
+3535	3545	"Інфлувак"	"Інфлувак"	PRO	PRO-Influvak
 3547	3557	Нідерланди	Нідерланди	LOC	GPE-Holland
-3562	3573	"""Джісі Флю"""	"""Джісі Флю"""	PRO	PRO-Jesse-Flew
+3562	3573	"Джісі Флю"	"Джісі Флю"	PRO	PRO-Jesse-Flew
 3575	3590	Південна ‎Корея	Південна ‎Корея	LOC	GPE-South-Korea
 3649	3654	грипу	грип	EVT	EVT-Influenza
 3743	3750	Україні	Україна	LOC	GPE-Ukraine

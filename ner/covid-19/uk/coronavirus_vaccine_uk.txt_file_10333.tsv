@@ -1,7 +1,7 @@
 9	14	COVID	COVID	EVT	EVT-Covid-19
 54	57	МОЗ	МОЗ	ORG	ORG-Ministry-of-Healthcare-Ukraine
 103	115	коронавірусу	коронавірус	EVT	EVT-Covid-19
-165	184	"""Інтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
+165	184	"Інтерфакс-Україна"	"Інтерфакс-Україна"	ORG	ORG-Interfax-Ukraine
 217	232	Максим Степанов	Максим Степанов	PER	PER-Maksym-Stepanov
 242	251	Укрінформ	Укрінформ	ORG	ORG-Ukrinform
 292	314	коронавірусної хвороби	коронавірусна хвороба	EVT	EVT-Covid-19

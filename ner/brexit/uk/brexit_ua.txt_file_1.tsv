@@ -9,7 +9,7 @@
 507	515	Британію	Британія	LOC	GPE-Great-Britain
 541	543	ЄС	ЄС	ORG	ORG-European-Union
 559	576	Економічна правда	Економічна правда	ORG	ORG-Economic-Truth
-674	693	"""Економічну правду"""	"""Економічна правда"""	PRO	PRO-Economic-Truth
-767	786	"""Інтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
-906	925	"""Інтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
-943	962	"""Інтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
+674	693	"Економічну правду"	"Економічна правда"	PRO	PRO-Economic-Truth
+767	786	"Інтерфакс-Україна"	"Інтерфакс-Україна"	ORG	ORG-Interfax-Ukraine
+906	925	"Інтерфакс-Україна"	"Інтерфакс-Україна"	ORG	ORG-Interfax-Ukraine
+943	962	"Інтерфакс-Україна"	"Інтерфакс-Україна"	ORG	ORG-Interfax-Ukraine

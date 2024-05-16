@@ -9,13 +9,13 @@
 668	680	коронавируса	коронавирус	EVT	EVT-Covid-19
 821	834	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
 855	868	коронавирусом	коронавирус	EVT	EVT-Covid-19
-891	904	"""Спутником V"""	Спутник V	PRO	PRO-Sputnik-V
+891	904	"Спутником V"	Спутник V	PRO	PRO-Sputnik-V
 931	937	Путина	Путин	PER	PER-Vladimir-Putin
 950	955	Путин	Путин	PER	PER-Vladimir-Putin
 978	980	РФ	РФ	LOC	GPE-Russia
 1004	1016	коронавируса	коронавирус	EVT	EVT-Covid-19
 1017	1027	SARS-CoV-2	SARS-CoV-2	EVT	EVT-Covid-19
-1038	1049	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+1038	1049	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 1124	1137	Сергея Елкина	Сергей Елкин	PER	PER-Sergey-Elkin
 1158	1171	коронавирусом	коронавирус	EVT	EVT-Covid-19
 1215	1226	коронавирус	коронавирус	EVT	EVT-Covid-19

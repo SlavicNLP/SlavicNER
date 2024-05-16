@@ -24,7 +24,7 @@
 1791	1806	Конституцию США	Конституция США	PRO	PRO-The-USA-Constitution
 1894	1900	Техаса	Техас	LOC	GPE-Texas
 2035	2052	Верховный суд США	Верховный суд США	ORG	ORG-Supreme-Court-of-the-United-States
-2208	2234	"""С Техасом не связываться"""	"""С Техасом не связываться"""	PRO	PRO-Don't-Mess-with-Texas
+2208	2234	"С Техасом не связываться"	"С Техасом не связываться"	PRO	PRO-Don't-Mess-with-Texas
 2243	2246	США	США	LOC	GPE-USA
 2310	2331	Don't Mess with Texas	Don't Mess with Texas	PRO	PRO-Don't-Mess-with-Texas
 2351	2356	Трамп	Трамп	PER	PER-Donald-Trump
@@ -67,7 +67,7 @@
 5374	5380	Трампа	Трам	PER	PER-Donald-Trump
 5395	5404	китайских	китайские	LOC	GPE-China
 5419	5427	западных	западные	LOC	LOC-West
-5503	5522	"""Кибер-Перл-Харбор"""	"""Кибер-Перл-Харбор"""	PRO	PRO-Cyber-Pearl-Harbour
+5503	5522	"Кибер-Перл-Харбор"	"Кибер-Перл-Харбор"	PRO	PRO-Cyber-Pearl-Harbour
 5523	5535	Сидни Пауэлл	Сидни Пауэлл	PER	PER-Sidney-Powell
 5540	5546	Трампа	Трамп	PER	PER-Donald-Trump
 5767	5773	Трампа	Трамп	PER	PER-Donald-Trump
@@ -76,7 +76,7 @@
 5884	5892	Царьград	Царьград	PRO	PRO-Tsargrad
 5974	5980	Трампа	Трамп	PER	PER-Donald-Trump
 6200	6203	США	США	LOC	GPE-USA
-6312	6327	"""великой Сидни"""	"""великая Сидни"""	PER	PER-Sidney-Powell
+6312	6327	"великой Сидни"	"великая Сидни"	PER	PER-Sidney-Powell
 6328	6336	Fox News	Fox News	PRO	PRO-Fox-News
 6339	6354	The Epoch Times	The Epoch Times	PRO	PRO-Financial-Times
 6486	6508	американским спецназом	американский спецназ	ORG	ORG-United-States-Army-Special-Forces
@@ -90,7 +90,7 @@
 6751	6757	России	Россия	LOC	GPE-Russia
 6774	6780	Пауэлл	Пауэлл	PER	PER-Sidney-Powell
 6908	6914	Пауэлл	Пауэлл	PER	PER-Sidney-Powell
-6916	6935	"""Кибер-Перл-Харбор"""	"""Кибер-Перл-Харбор"""	PRO	PRO-Cyber-Pearl-Harbour
+6916	6935	"Кибер-Перл-Харбор"	"Кибер-Перл-Харбор"	PRO	PRO-Cyber-Pearl-Harbour
 6971	6982	Белого дома	Белый дом	LOC	LOC-White-House
 7004	7032	Закона о восстании 1807 года	Закон о восстании 1807 года	PRO	PRO-Insurrection-Act-of-1807
 7053	7056	США	США	LOC	GPE-USA
@@ -99,11 +99,11 @@
 7580	7590	Нацгвардии	Нацгвардия	ORG	ORG-United-States-National-Guard
 7651	7654	США	США	LOC	GPE-USA
 7831	7837	Трампа	Трамп	PER	PER-Donald-Trump
-7952	7962	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+7952	7962	"Доминион"	"Доминион"	PRO	PRO-Dominion-Voting-Systems
 8002	8016	республиканцев	республиканец	ORG	ORG-Republican-Party-USA
 8024	8034	демократам	демократы	ORG	ORG-Democratic-Party-USA
 8417	8426	трамписты	трамписты	PER	PER-Donald-Trump
-8511	8521	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+8511	8521	"Доминион"	"Доминион"	PRO	PRO-Dominion-Voting-Systems
 8747	8753	Трампа	Трамп	PER	PER-Donald-Trump
 8787	8797	Белом доме	Белый дом	LOC	LOC-White-House
 8868	8883	Верховного суда	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
@@ -113,7 +113,7 @@
 9111	9119	Джорджии	Джорджия	LOC	GPE-Georgia-US-state
 9148	9157	Сенат США	Сенат США	ORG	ORG-United-States-Senate
 9176	9185	демократы	демократ	ORG	ORG-Democratic-Party-USA
-9321	9331	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+9321	9331	"Доминион"	"Доминион"	PRO	PRO-Dominion-Voting-Systems
 9349	9364	республиканское	республиканский	ORG	ORG-Republican-Party-USA
 9409	9419	демократов	демократ	ORG	ORG-Democratic-Party-USA
 9458	9464	Китаем	Китай	LOC	GPE-China
@@ -131,5 +131,5 @@
 10227	10236	Рэтклиффа	Рэтклифф	PER	PER-John-Ratcliffe
 10354	10363	Christmas	Christmas	EVT	EVT-Christmas
 10397	10403	Трампа	Трамп	PER	PER-Donald-Trump
-10495	10505	"""Царьград"""	"""Царьград"""	PRO	PRO-Tsargrad
+10495	10505	"Царьград"	"Царьград"	PRO	PRO-Tsargrad
 10508	10519	Яндекс.Дзен	Яндекс.Дзен	PRO	PRO-Yandex.Dzen

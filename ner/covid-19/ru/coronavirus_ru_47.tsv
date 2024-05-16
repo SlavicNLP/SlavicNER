@@ -29,4 +29,4 @@
 1000	1006	россия	Россия	LOC	GPE-Russia
 1008	1023	нии им. гамалеи	Национальный исследовательский центр эпидемиологии и микробиологии имени Н. Ф. Гамалеи	ORG	ORG-Gamaleya-Research-Institute-of-Epidemiology-and-Microbiology
 1025	1037	коронавирусы	коронавирус	EVT	EVT-Covid-19
-1039	1105	"государственный научный центр вирусологии и биотехнологий ""вектор"""	Государственный научный центр вирусологии и биотехнологии «Вектор»	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+1039	1105	государственный научный центр вирусологии и биотехнологий "вектор"	Государственный научный центр вирусологии и биотехнологии «Вектор»	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR

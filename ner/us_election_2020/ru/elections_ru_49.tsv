@@ -89,8 +89,8 @@
 10195	10205	Аль Капоне	Аль Капоне	PER	PER-Alphonse-Capone
 10266	10272	Чикаго	Чикаго	LOC	GPE-Chicago
 10373	10378	Путин	Путин	PER	PER-Vladimir-Putin
-10501	10506	"""Ykt"""	"""Ykt"""	PRO	PRO-Ykt.Ru
-10509	10517	"""Ykt.Ru"""	"""Ykt.Ru"""	PRO	PRO-Ykt.Ru
+10501	10506	"Ykt"	"Ykt"	PRO	PRO-Ykt.Ru
+10509	10517	"Ykt.Ru"	"Ykt.Ru"	PRO	PRO-Ykt.Ru
 10535	10541	Ykt.Ru	Ykt.Ru	PRO	PRO-Ykt.Ru
 10584	10590	Якутск	Якутск	LOC	GPE-Yakutsk
 10592	10607	Глухой переулок	Глухой переулок	LOC	GPE-Gluhoy-pereulok-Yakutia

@@ -1,11 +1,11 @@
 6	13	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
 31	37	Москве	Москва	LOC	GPE-Moscow
-38	56	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+38	56	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 78	85	Украину	Украина	LOC	GPE-Ukraine
 93	100	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
 101	111	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
 139	145	Москве	Москва	LOC	GPE-Moscow
-157	177	"""Северному потоку-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+157	177	"Северному потоку-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 200	207	Украину	Украина	LOC	GPE-Ukraine
 289	296	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
 297	309	Мария Адебар	Мария Адебар	PER	PER-Maria-Adebar
@@ -14,5 +14,5 @@
 562	569	Украину	Украина	LOC	GPE-Ukraine
 571	577	Адебар	Адебар	PER	PER-Maria-Adebar
 600	608	Германии	Германия	LOC	GPE-Germany
-612	630	"""Северному потоку"""	"""Северный поток"""	PRO	PRO-Nord-Stream-1
+612	630	"Северному потоку"	"Северный поток"	PRO	PRO-Nord-Stream-1
 653	660	Украину	Украина	LOC	GPE-Ukraine

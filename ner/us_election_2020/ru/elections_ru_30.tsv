@@ -39,7 +39,7 @@
 2880	2885	Трамп	Трамп	PER	PER-Donald-Trump
 3013	3024	Конституцию	Конституция	PRO	PRO-The-USA-Constitution
 3085	3092	Байдену	Байден	PER	PER-Joe-Biden
-3156	3166	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+3156	3166	"Доминион"	"Доминион"	PRO	PRO-Dominion-Voting-Systems
 3245	3252	Байдена	Байден	PER	PER-Joe-Biden
 3316	3322	Антрим	Антрим	LOC	GPE-Antrim
 3325	3333	Мичигане	Мичиган	LOC	GPE-Michigan
@@ -50,7 +50,7 @@
 3548	3555	Трампом	Трамп	PER	PER-Donald-Trump
 3589	3592	США	США	LOC	GPE-USA
 3690	3722	Allied Security Operations Group	Allied Security Operations Group	ORG	ORG-ADS-Group-Limited
-3870	3880	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+3870	3880	"Доминион"	"Доминион"	PRO	PRO-Dominion-Voting-Systems
 4282	4285	США	США	LOC	GPE-USA
 4287	4302	Джона Рэтклиффа	Джон Рэтклифф	PER	PER-John-Ratcliffe
 4347	4354	техасец	техасец	PER	GPE-Texas

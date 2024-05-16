@@ -5,7 +5,7 @@
 204	219	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
 273	283	импичмента	импичмент	EVT	EVT-Impeachment-inquiry-against-Donald-Trump
 507	512	Трамп	Трамп	PER	PER-Donald-Trump
-527	538	«Газеты.Ru»	"""Газета.Ru"""	PRO	PRO-Gazeta-ru
+527	538	«Газеты.Ru»	"Газета.Ru"	PRO	PRO-Gazeta-ru
 588	594	Трампа	Трамп	PER	PER-Donald-Trump
 659	662	США	США	LOC	GPE-USA
 675	693	The New York Times	The New York Times	PRO	PRO-The-New-York-Times
@@ -169,7 +169,7 @@
 9947	9953	Трампа	Трамп	PER	PER-Donald-Trump
 9996	9999	США	США	LOC	GPE-USA
 10061	10073	американском	американский	LOC	GPE-USA
-10106	10118	«Газетой.Ru»	"""Газета.Ru"""	PRO	PRO-Gazeta-ru
+10106	10118	«Газетой.Ru»	"Газета.Ru"	PRO	PRO-Gazeta-ru
 10128	10154	Института США и Канады РАН	Институт США и Канады РАН	ORG	ORG-Institute-for-US-and-Canadian-Studies-RAS
 10155	10171	Валерий Гарбузов	Валерий Гарбузов	PER	PER-Valerii-Garbuzov
 10173	10178	Трамп	Трамп	PER	PER-Donald-Trump
@@ -186,7 +186,7 @@
 10901	10906	Трамп	Трамп	PER	PER-Donald-Trump
 11014	11024	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
 11048	11061	вашингтонское	вашингтонское	LOC	GPE-WashingtonDC
-11088	11099	«Газете.Ru»	"""Газета.Ru"""	PRO	PRO-Gazeta-ru
+11088	11099	«Газете.Ru»	"Газета.Ru"	PRO	PRO-Gazeta-ru
 11150	11156	Трампа	Трамп	PER	PER-Donald-Trump
 11285	11293	«Валдай»	Валдай	ORG	ORG-Valday
 11294	11308	Федор Лукьянов	Федор Лукьянов	PER	PER-Fedor-Lukyanov

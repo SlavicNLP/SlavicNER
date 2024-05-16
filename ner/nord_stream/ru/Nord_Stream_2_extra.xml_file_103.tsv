@@ -1,14 +1,14 @@
 0	7	МИД ФРГ	МИД ФРГ	ORG	ORG-Federal-Foreign-Office-Germany
-30	50	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+30	50	"Северного потока-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 87	94	Украину	Украина	LOC	GPE-Ukraine
 98	110	МИД Германии	МИД Германии	ORG	ORG-Ministry-of-Foreign-Affairs-Germany
-136	154	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+136	154	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 251	253	РФ	РФ	LOC	GPE-Russia
 260	267	Украину	Украина	LOC	GPE-Ukraine
 290	297	МИД ФРН	МИД ФРН	ORG	ORG-Federal-Foreign-Office-Germany
 298	308	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
 340	343	США	США	LOC	GPE-USA
-372	390	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+372	390	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 455	461	Европе	Европа	LOC	LOC-Europe
 470	473	США	США	LOC	GPE-USA
 485	489	Маас	Маас	PER	PER-Heiko-Maas
@@ -16,7 +16,7 @@
 546	553	Берлине	Берлин	LOC	GPE-Berlin
 572	578	Берлин	Берлин	LOC	GPE-Berlin
 627	637	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
-655	673	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+655	673	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 987	994	Украину	Украина	LOC	GPE-Ukraine
 1006	1010	Маас	Маас	PER	PER-Heiko-Maas
 1137	1143	России	Россия	LOC	GPE-Russia
@@ -26,4 +26,4 @@
 1299	1305	Европу	Европа	LOC	LOC-Europe
 1397	1408	Нидерландах	Нидерланды	LOC	GPE-Holland
 1431	1445	Европарламента	Европарламент	ORG	ORG-European-Parliament
-1516	1534	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1516	1534	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2

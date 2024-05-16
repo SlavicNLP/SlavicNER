@@ -8,7 +8,7 @@
 364	379	Петро Порошенко	Петро Порошенко	PER	PER-Petro-Poroshenko
 431	446	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
 457	463	Regnum	Regnum	ORG	ORG-REGNUM-News-Agency
-477	492	"Агенция ""Фокус"""	"Агенция ""Фокус"""	ORG	ORG-Focus-News-Agency
+477	492	Агенция "Фокус"	Агенция "Фокус"	ORG	ORG-Focus-News-Agency
 494	503	Порошенко	Порошенко	PER	PER-Petro-Poroshenko
 567	582	Северен поток-2	Северен поток 2	PRO	PRO-Nord-Stream-2
 603	608	Русия	Русия	LOC	GPE-Russia

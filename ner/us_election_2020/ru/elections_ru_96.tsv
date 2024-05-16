@@ -10,7 +10,7 @@
 519	522	США	США	LOC	GPE-USA
 573	580	Клинтон	Клинтон	PER	PER-Hillary-Clinton
 590	605	Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
-617	625	«Медузы»	"""Медуза"""	PRO	PRO-Russia-Meduza
+617	625	«Медузы»	"Медуза"	PRO	PRO-Russia-Meduza
 626	644	Константин Бенюмов	Константин Бенюмов	PER	PER-Konstantin-Benyumov
 657	669	американским	американский	PER	GPE-USA
 696	711	Майклом Томаски	Майкл Томаски	PER	PER-Michael-Tomasky
@@ -58,7 +58,7 @@
 6129	6148	коллегии выборщиков	коллегия выборщиков	ORG	ORG-United-States-Electoral-College
 6240	6251	Конституции	Конституция	PRO	PRO-The-USA-Constitution
 6390	6402	американской	американская	LOC	GPE-USA
-6429	6437	«Медузы»	"""Медуза"""	PRO	PRO-Russia-Meduza
+6429	6437	«Медузы»	"Медуза"	PRO	PRO-Russia-Meduza
 6461	6468	Америке	Америка	LOC	GPE-USA
 6832	6842	Вашингтона	Вашингтон	PER	PER-George-Washington
 6850	6856	Адамса	Адамс	PER	PER-John-Adams
@@ -91,7 +91,7 @@
 9823	9838	Джимми Картером	Джимми Картер	PER	PER-Jimmy-Carter
 9905	9910	Айову	Айова	LOC	GPE-Iowa
 9913	9924	Нью-Гемпшир	Нью-Гемпшир	LOC	GPE-New-Hampshire
-9997	10005	«Медузы»	"""Медуза"""	PRO	PRO-Russia-Meduza
+9997	10005	«Медузы»	"Медуза"	PRO	PRO-Russia-Meduza
 10017	10022	Айове	Айова	LOC	GPE-Iowa
 10037	10049	Нью-Гемпшире	Нью-Гемпшир	LOC	GPE-New-Hampshire
 10455	10458	США	США	LOC	GPE-USA
@@ -213,7 +213,7 @@
 20421	20426	Трамп	Трамп	PER	PER-Donald-Trump
 20625	20632	Трампом	Трамп	PER	PER-Donald-Trump
 20764	20783	Евгенией Павловской	Евгения Павловская	PER	PER-Evgenia-Pavlovskaya
-20791	20829	Технологии XXII века «Жить Свою Жизнь»	"Технология XXII века ""Жить Свою Жизнь"""	PRO	PRO-Book-XXII-Century-Technology-Live-Your-Life
+20791	20829	Технологии XXII века «Жить Свою Жизнь»	Технология XXII века "Жить Свою Жизнь"	PRO	PRO-Book-XXII-Century-Technology-Live-Your-Life
 20914	20928	Павла Данилина	Павел Данилин	PER	PER-Pavel-Danilin
 20983	21001	Госкомпания Ростех	Госкомпания Ростех	ORG	ORG-Rostec
 21081	21095	Дмитрия Босова	Дмитрий Босов	PER	PER-Dmitry-Bosov

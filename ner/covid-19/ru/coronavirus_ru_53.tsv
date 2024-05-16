@@ -2,7 +2,7 @@
 29	35	Москве	Москва	LOC	GPE-Moscow
 80	86	России	Россия	LOC	GPE-Russia
 136	148	коронавируса	коронавирус	EVT	EVT-Covid-19
-149	160	"""Спутник V"""	"""Спутник V"""	PRO	PRO-Sputnik-V
+149	160	"Спутник V"	"Спутник V"	PRO	PRO-Sputnik-V
 272	278	Путина	Путин	PER	PER-Vladimir-Putin
 380	386	России	Россия	LOC	GPE-Russia
 461	473	коронавируса	коронавирус	EVT	EVT-Covid-19
@@ -18,7 +18,7 @@
 1294	1303	Минздраве	Минздрав	ORG	ORG-Ministry-of-Health-Russia
 1363	1371	COVID-19	COVID-19	EVT	EVT-Covid-19
 1417	1425	COVID-19	COVID-19	EVT	EVT-Covid-19
-1441	1460	"""Российская газета"""	Российская газета	PRO	PRO-Rossiyskaya-Gazeta
+1441	1460	"Российская газета"	Российская газета	PRO	PRO-Rossiyskaya-Gazeta
 1503	1512	Минздрава	Минздрав	ORG	ORG-Ministry-of-Health-Russia
 1513	1526	Ольгу Ткачеву	Ольга Ткачева	PER	PER-Olga-Tkacheva
 1555	1561	Москве	Москва	LOC	GPE-Moscow
@@ -46,7 +46,7 @@
 2614	2620	Москве	Москва	LOC	GPE-Moscow
 2677	2689	коронавируса	коронавирус	EVT	EVT-Covid-19
 2719	2733	Сергей Собянин	Сергей Собянин	PER	PER-Sergei-Sobyanin
-2753	2763	"""Россия 1"""	Россия 1	PRO	PRO-Russia-1-TV
+2753	2763	"Россия 1"	Россия 1	PRO	PRO-Russia-1-TV
 2869	2880	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
 2881	2889	Собянина	Собянин	PER	PER-Sergei-Sobyanin
 2918	2924	Москве	Москва	LOC	GPE-Moscow

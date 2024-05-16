@@ -8,7 +8,7 @@
 419	440	Новосибирской области	Новосибирская область	LOC	GPE-Novosibirsk
 470	476	Курьер	Курьер	PRO	PRO-Courier-newspaper
 485	491	Бердск	Бердск	LOC	GPE-Berdsk
-590	605	"ГНЦ ВБ ""Вектор"""	"ГНЦ ВБ ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+590	605	ГНЦ ВБ "Вектор"	ГНЦ ВБ "Вектор"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
 617	631	Сергей Нетёсов	Сергей Нетёсов	PER	PER-Sergey-Netesov
 653	666	новосибирские	новосибирский	LOC	GPE-Novosibirsk
 704	717	Гам-КОВИД-Вак	Гам-Ковид-Вак	PRO	PRO-Gam-COVID-Vac
@@ -50,7 +50,7 @@
 4567	4581	Сергей Нетёсов	Сергей Нетёсов	PER	PER-Sergey-Netesov
 4624	4642	Константин Хальзов	Константин Хальзов	PER	PER-Konstantin-Khalzov
 4730	4738	COVID-19	COVID-19	EVT	EVT-Covid-19
-4765	4805	"ГНЦ вирусологии и биотехнологии ""Вектор"""	"ГНЦ вирусологии и биотехнологии ""Вектор"""	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
+4765	4805	ГНЦ вирусологии и биотехнологии "Вектор"	ГНЦ вирусологии и биотехнологии "Вектор"	ORG	ORG-State-Research-Center-of-Virology-and-Biotechnology-VECTOR
 4867	4880	Новосибирской	Новосибирский	LOC	GPE-Novosibirsk
 4915	4924	Спутник V	Спутник V	PRO	PRO-Sputnik-V
 4991	5003	коронавируса	коронавирус	EVT	EVT-Covid-19

@@ -1,5 +1,5 @@
 0	5	Трамп	Трамп	PER	PER-Donald-Trump
-32	43	"""Рашагейта"""	"""Рашагейт"""	EVT	EVT-Russiagate
+32	43	"Рашагейта"	"Рашагейт"	EVT	EVT-Russiagate
 59	77	Джордж Пападопулос	Джордж Пападопулос	PER	PER-George-Papadopoulos
 95	103	твиттера	твиттер	PRO	PRO-Twitter
 106	119	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
@@ -209,7 +209,7 @@
 17373	17378	Трамп	Трамп	PER	PER-Donald-Trump
 17462	17471	Саут-Бенд	Саут-Бенд	LOC	GPE-South-Bend
 17517	17525	Арзамаса	Арзамас	LOC	GPE-Arzamas
-17947	17957	"""Доминион"""	"""Доминион"""	PRO	PRO-Dominion-Voting-Systems
+17947	17957	"Доминион"	"Доминион"	PRO	PRO-Dominion-Voting-Systems
 18161	18170	Бутиджича	Бутиджич	PER	PER-Peter-Buttigieg
 18207	18215	Гарварда	Гарвард	ORG	ORG-Harvard-University
 18250	18258	Оксфорда	Оксфорд	ORG	ORG-University-of-Oxford
@@ -260,7 +260,7 @@
 23450	23457	Фурцева	Фурцева	PER	PER-Yekaterina-Furtseva
 23627	23637	South Bent	South Bent	LOC	GPE-New-South-Wales
 23729	23736	Хрущеву	Хрущев	PER	PER-Nikita-Khrushchev
-23753	23769	"""200 лет вместе"""	"""200 лет вместе"""	PRO	PRO-Two-Hundred-Years-Together
+23753	23769	"200 лет вместе"	"200 лет вместе"	PRO	PRO-Two-Hundred-Years-Together
 23770	23781	Солженицына	Солженицын	PER	PER-Aleksandr-Solzhenitsyn
 23940	23946	Байден	Байден	PER	PER-Joe-Biden
 23983	23990	Байдена	Байден	PER	PER-Joe-Biden

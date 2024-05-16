@@ -46,8 +46,8 @@
 1957	1964	Украины	Украина	LOC	GPE-Ukraine
 1984	1994	российский	российский	LOC	GPE-Russia
 2003	2015	Сергей Цеков	Сергей Цеков	PER	PER-Sergey-Tsekov
-2027	2042	"""Газпром-медиа"""	"""Газпром-медиа"""	ORG	ORG-Gazprom-Media
-2080	2092	"""Триколором"""	"""Триколором"""	ORG	ORG-Tricolor
+2027	2042	"Газпром-медиа"	"Газпром-медиа"	ORG	ORG-Gazprom-Media
+2080	2092	"Триколором"	"Триколором"	ORG	ORG-Tricolor
 2201	2210	Ростуризм	Ростуризм	ORG	ORG-Rostourism
 2449	2458	Волжского	Волжский	LOC	LOC-Volzhsky
 2459	2475	Марин Афанасьева	Марина Афанасьева	PER	PER-Marina-Afanasyeva

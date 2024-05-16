@@ -1,19 +1,19 @@
 0	5	Дания	Дания	LOC	GPE-Denmark
-35	52	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+35	52	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 54	59	Дания	Дания	LOC	GPE-Denmark
-136	153	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+136	153	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 190	203	Ларс Расмусен	Ларс Расмусен	PER	PER-Lars-Lokke
 216	220	ТАСС	ТАСС	ORG	ORG-TASS-Agency
 423	428	Дания	Дания	LOC	GPE-Denmark
 606	614	Расмусен	Расмусен	PER	PER-Lars-Lokke
 661	666	Дания	Дания	LOC	GPE-Denmark
-689	706	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+689	706	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 782	784	ЕС	ЕС	ORG	ORG-European-Union
 859	868	Централна	Централна	LOC	LOC-Central-Europe
 871	885	Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
 988	994	Москва	Москва	LOC	GPE-Moscow
 1023	1031	Германия	Германия	LOC	GPE-Germany
-1115	1132	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+1115	1132	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 1220	1235	Енергийния съюз	Енергиен съюз	ORG	ORG-Energy-union
 1236	1250	Марош Шефчович	Марош Шефчович	PER	PER-Maros-Sefcovic
 1389	1397	Шефчович	Шефчович	PER	PER-Maros-Sefcovic
@@ -22,6 +22,6 @@
 1470	1472	ЕС	ЕС	ORG	ORG-European-Union
 1546	1553	Украйна	Украйна	LOC	GPE-Ukraine
 1730	1736	Москва	Москва	LOC	GPE-Moscow
-1773	1790	"""Северен поток"" 2"	Северен поток 2	PRO	PRO-Nord-Stream-2
+1773	1790	"Северен поток" 2	Северен поток 2	PRO	PRO-Nord-Stream-2
 1794	1806	Турски поток	Турски поток	PRO	PRO-Turkish-Stream
 1821	1831	Черно море	Черно море	LOC	LOC-Black-Sea

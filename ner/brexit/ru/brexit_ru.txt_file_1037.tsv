@@ -35,7 +35,7 @@
 1747	1758	Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
 1790	1798	Брекзита	Брекзит	EVT	EVT-Brexit
 1836	1847	европейцами	европейцы	PER	LOC-Europe
-1869	1892	"министерства ""Брекзита"""	"министерство ""Брекзита"""	ORG	ORG-Ministry-of-Brexity
+1869	1892	министерства "Брекзита"	министерство "Брекзита"	ORG	ORG-Ministry-of-Brexity
 1894	1908	Великобритания	Великобритания	LOC	GPE-Great-Britain
 1930	1939	Евросоюза	Евросоюз	ORG	ORG-European-Union
 2053	2061	Брекзита	Брекзит	EVT	EVT-Brexit

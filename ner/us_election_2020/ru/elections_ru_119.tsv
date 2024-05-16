@@ -11,7 +11,7 @@
 1471	1474	США	США	LOC	GPE-USA
 1499	1512	республиканец	республиканец	ORG	ORG-Republican-Party-USA
 1515	1523	демократ	демократ	ORG	ORG-Democratic-Party-USA
-1608	1617	"""Зелёной"""	"""Зеленая"""	ORG	ORG-Green-Party-of-the-United-States
+1608	1617	"Зелёной"	"Зеленая"	ORG	ORG-Green-Party-of-the-United-States
 1619	1634	Либертарианской	Либертарианская	ORG	ORG-Libertarian-Party-USA
 1636	1651	Конституционной	Конституционная	ORG	ORG-Constitution-Party-USA
 1710	1725	Хиллари Клинтон	Хиллари Клинтон	PER	PER-Hillary-Clinton

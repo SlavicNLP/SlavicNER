@@ -1,14 +1,14 @@
 6	14	Захарова	Захарова	PER	PER-Maria-Zaharova
 40	43	США	США	LOC	GPE-USA
-50	72	"""Северного потока – 2"""	"""Северный поток – 2"""	PRO	PRO-Nord-Stream-2
+50	72	"Северного потока – 2"	"Северный поток – 2"	PRO	PRO-Nord-Stream-2
 74	80	МОСКВА	МОСКВА	LOC	GPE-Moscow
 91	102	РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
 130	140	МИД России	МИД России	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
 141	155	Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
-175	185	"""Россия—1"""	"""Россия—1"""	PRO	PRO-Russia-1-TV
+175	185	"Россия—1"	"Россия—1"	PRO	PRO-Russia-1-TV
 228	231	США	США	LOC	GPE-USA
 232	248	Ричарда Греннела	Ричард Греннел	PER	PER-Richard-Grenell
-331	351	"""Северный поток — 2"""	"""Северный поток — 2"""	PRO	PRO-Nord-Stream-2
+331	351	"Северный поток — 2"	"Северный поток — 2"	PRO	PRO-Nord-Stream-2
 411	417	России	Россия	LOC	GPE-Russia
 458	465	Греннел	Греннел	PER	PER-Richard-Grenell
 566	584	Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
@@ -18,13 +18,13 @@
 1082	1094	Мария Адебар	Мария Адебар	PER	PER-Maria-Adebar
 1179	1187	Германия	Германия	LOC	GPE-Germany
 1190	1193	США	США	LOC	GPE-USA
-1229	1247	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1229	1247	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 1289	1292	США	США	LOC	GPE-USA
 1315	1325	Вашингтоне	Вашингтон	LOC	GPE-WashingtonDC
-1338	1356	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1338	1356	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 1423	1429	Адебар	Адебар	PER	PER-Maria-Adebar
 1440	1448	Германии	Германия	LOC	GPE-Germany
 1449	1463	Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
 1508	1514	Берлин	Берлин	LOC	GPE-Berlin
-1536	1554	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1536	1554	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 1664	1671	Украину	Украина	LOC	GPE-Ukraine

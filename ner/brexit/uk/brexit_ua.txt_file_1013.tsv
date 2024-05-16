@@ -22,7 +22,7 @@
 1584	1594	Терезі Мей	Тереза Мей	PER	PER-Theresa-May
 1724	1731	України	Україна	LOC	GPE-Ukraine
 1945	1954	Gazeta.ua	Gazeta.ua	PRO	PRO-Gazeta-ua
-2163	2182	"""Iнтерфакс-Україна"""	"""Інтерфакс-Україна"""	ORG	ORG-Interfax-Ukraine
+2163	2182	"Iнтерфакс-Україна"	"Інтерфакс-Україна"	ORG	ORG-Interfax-Ukraine
 2184	2187	PHL	PHL	ORG	ORG-PHL
 2191	2198	Reuters	Reuters	ORG	ORG-Reuters
 2305	2314	Gazeta.ua	Gazeta.ua	PRO	PRO-Gazeta-ua

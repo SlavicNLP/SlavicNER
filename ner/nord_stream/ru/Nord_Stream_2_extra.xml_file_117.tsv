@@ -6,7 +6,7 @@
 152	162	Хайко Маас	Хайко Маас	PER	PER-Heiko-Maas
 176	214	Восточного комитета немецкой экономики	Восточный комитет немецкой экономики	ORG	ORG-Committee-on-Eastern-European-Economic-Relations
 230	233	США	США	LOC	GPE-USA
-254	272	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+254	272	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 407	413	России	Россия	LOC	GPE-Russia
 420	427	Украину	Украина	LOC	GPE-Ukraine
 509	515	Европе	Европа	LOC	LOC-Europe
@@ -14,7 +14,7 @@
 539	543	Маас	Маас	PER	PER-Heiko-Maas
 560	566	Берлин	Берлин	LOC	GPE-Berlin
 615	625	Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
-643	661	"""Северный поток-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+643	661	"Северный поток-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 980	987	Украину	Украина	LOC	GPE-Ukraine
 999	1003	Маас	Маас	PER	PER-Heiko-Maas
 1014	1020	России	Россия	LOC	GPE-Russia
@@ -25,12 +25,12 @@
 1290	1296	Европу	Европа	LOC	LOC-Europe
 1388	1399	Нидерландах	Нидерланды	LOC	GPE-Holland
 1509	1525	Балтийскому морю	Балтийское море	LOC	LOC-Baltic-Sea
-1557	1575	"""Северным потоком"""	"""Северный поток"""	PRO	PRO-Nord-Stream-1
+1557	1575	"Северным потоком"	"Северный поток"	PRO	PRO-Nord-Stream-1
 1637	1640	США	США	LOC	GPE-USA
 1641	1654	Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
 1662	1665	ФРГ	ФРГ	LOC	GPE-Germany
 1679	1685	России	Россия	LOC	GPE-Russia
 1714	1721	Берлина	Берлин	LOC	GPE-Berlin
-1740	1760	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1740	1760	"Северного потока-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2
 1773	1808	Палата представителей Конгресса США	Палата представителей Конгресса США	ORG	ORG-House-of-Representatives(USA)
-1877	1897	"""Северного потока-2"""	"""Северный поток-2"""	PRO	PRO-Nord-Stream-2
+1877	1897	"Северного потока-2"	"Северный поток-2"	PRO	PRO-Nord-Stream-2

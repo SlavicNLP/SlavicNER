@@ -21,7 +21,7 @@
 5827	5832	ковид	ковид	EVT	EVT-Covid-19
 5847	5854	ковидом	ковид	EVT	EVT-Covid-19
 5897	5908	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
-5912	5924	ЭпиВакКорона	"""ЭпиВакКорона"""	PRO	PRO-EpiVacCorona
+5912	5924	ЭпиВакКорона	"ЭпиВакКорона"	PRO	PRO-EpiVacCorona
 5928	5947	чумаковская вакцина	чумаковская вакцина	PRO	PRO-Chumakov-Vaccine
 5993	6004	«Спутник V»	Спутник V	PRO	PRO-Sputnik-V
 6006	6017	оксфордская	оксфордский	PER	GPE-Oxford

@@ -22,7 +22,7 @@
 1409	1415	Тунісу	Туніс	LOC	GPE-Tunisia
 1417	1424	Албанії	Албанія	LOC	GPE-Albania
 1426	1432	Грузії	Грузія	LOC	GPE-Georgia
-1444	1460	аеропорту “Київ”	"аеропорт ""Київ"""	LOC	LOC-Kyiv-International-Airport-Kiev
+1444	1460	аеропорту “Київ”	аеропорт "Київ"	LOC	LOC-Kyiv-International-Airport-Kiev
 1475	1488	Bravo Airways	Bravo Airways	ORG	ORG-Bravo-Airways
 1560	1582	“Оазис тревел Україна”	Оазис тревел Україна	ORG	ORG-Oasis-Travel-Ukraine
 1637	1690	Міністерство економічного розвитку і торгівлі України	Міністерство економічного розвитку і торгівлі України	ORG	ORG-Ministry-for-
